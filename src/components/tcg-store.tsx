@@ -82,7 +82,7 @@ interface CartItem {
 
 type CurrencyCode = "USD" | "JPY" | "EUR" | "GBP";
 type SortOption = "featured" | "price-asc" | "price-desc" | "name-asc" | "name-desc" | "rating";
-type PageView = "shop" | "about" | "shipping" | "faq" | "contact";
+type PageView = "shop" | "about" | "shipping" | "faq" | "contact" | "signin";
 
 /* ─────────── Product Image Component ─────────── */
 
@@ -268,26 +268,35 @@ export default function TCGStore() {
           .filter((p) => p.id && p.title && p.price > 0 && p.image && p.category)
           .map((p) => {
             // Fujicards products: their price is the "original" price,
-            // our site sells 12% cheaper
+            // our site sells exactly 12% cheaper
             if (p.source === "fujicards" && p.price > 0) {
               const fijiPrice = p.price; // This is what Fuji charges
-              const ourPrice = Math.round(fijiPrice * 0.88 * 100) / 100; // 12% cheaper
+              const ourPrice = Math.round(fijiPrice * 0.88 * 100) / 100; // exactly 12% cheaper
               return {
                 ...p,
                 original_price: fijiPrice, // Show Fuji's price as "original" (crossed out)
-                price: ourPrice,           // Our discounted price
+                price: ourPrice,           // Our selling price
                 description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
               };
             }
-            // Existing products: price is already our price, original_price is the MSRP
+            // Existing products from cloned repo: their original_price was set
+            // to random markups. Recalculate so our price is 12% off the MSRP.
             if (p.source === "existing" && p.original_price && p.original_price > p.price) {
+              // The original_price in the data is the MSRP/retail price.
+              // Our selling price should be 12% off that MSRP.
+              const msrp = p.original_price;
+              const ourPrice = Math.round(msrp * 0.88 * 100) / 100;
               return {
                 ...p,
+                price: ourPrice,
+                original_price: msrp,
                 description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed.`,
               };
             }
+            // Kurocards / other sources: just use as-is, no fake original_price
             return {
               ...p,
+              original_price: undefined,
               description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed.`,
             };
           });
@@ -446,6 +455,15 @@ export default function TCGStore() {
 
             {/* Right side */}
             <div className="flex items-center gap-2 sm:gap-3">
+              {/* Sign In button */}
+              <Button
+                variant="ghost"
+                className="hidden sm:flex items-center gap-1.5 text-[13px] font-medium text-gray-500 hover:text-[#0e252c] px-2"
+                onClick={() => navigateTo("signin")}
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="size-4"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                Sign In
+              </Button>
               <div className="relative hidden sm:block">
                 <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 size-4 text-gray-400" />
                 <Input
@@ -520,6 +538,7 @@ export default function TCGStore() {
                     { label: "Shipping", page: "shipping" as PageView },
                     { label: "FAQ", page: "faq" as PageView },
                     { label: "Contact", page: "contact" as PageView },
+                    { label: "Sign In", page: "signin" as PageView },
                   ].map((item) => (
                     <button
                       key={item.label}
@@ -547,6 +566,7 @@ export default function TCGStore() {
         {currentPage === "shipping" && <ShippingPage />}
         {currentPage === "faq" && <FAQPage />}
         {currentPage === "contact" && <ContactPage />}
+        {currentPage === "signin" && <SignInPage />}
       </main>
 
       {/* ─── Footer ─── */}
@@ -596,6 +616,7 @@ export default function TCGStore() {
                   { label: "Shipping Policy", page: "shipping" as PageView },
                   { label: "FAQ", page: "faq" as PageView },
                   { label: "Contact Us", page: "contact" as PageView },
+                  { label: "Sign In / Sign Up", page: "signin" as PageView },
                 ].map((link) => (
                   <li key={link.label}>
                     <button
@@ -1008,6 +1029,87 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
           </div>
         </div>
       </section>
+
+      {/* Reviews Section */}
+      <section className="py-16 bg-[#f5f5f0]">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <p className="text-[11px] font-bold text-[#13aff0] tracking-[0.2em] uppercase mb-3">Testimonials</p>
+            <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-[#0e252c]">
+              What Our Clients Say
+            </h2>
+          </div>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[
+              {
+                name: "Kingsley Chandler",
+                quote: "I've been collecting Pokémon cards for years, and these are some of the best! The quality is fantastic, and the rare cards are definitely worth it. My collection has never looked better!",
+                rating: 5,
+              },
+              {
+                name: "Orson Lancaster",
+                quote: "I love how these cards not only look great but are also perfect for battling. Whether you're a competitive player or just a fan, these cards are a must-have!",
+                rating: 5,
+              },
+              {
+                name: "Harleigh Dodson",
+                quote: "I ordered these cards and was amazed at how quickly they arrived. The cards were in perfect condition, and I can't wait to add them to my deck!",
+                rating: 5,
+              },
+              {
+                name: "Lucas RH",
+                quote: "I've been collecting Pokémon cards for over a decade, and these are some of the most beautiful and rare cards I've come across. Truly a treasure for any serious collector!",
+                rating: 5,
+              },
+              {
+                name: "Simons L.",
+                quote: "The quality of these cards is top-notch! They arrived in perfect condition and the holographic designs are just stunning. Definitely worth the investment!",
+                rating: 5,
+              },
+              {
+                name: "Benette SH.",
+                quote: "I ordered these cards for a special event, and they arrived on time and in perfect condition. Great service and an awesome product.",
+                rating: 5,
+              },
+              {
+                name: "Annah Jip",
+                quote: "I was blown away by the value of these cards. Not only do you get rare and powerful Pokémon, but the price was more than fair. Highly recommend!",
+                rating: 5,
+              },
+              {
+                name: "Tilamans",
+                quote: "These cards really helped me improve my strategy and power up my deck. Whether you're a seasoned player or just starting out, these cards are a fantastic choice!",
+                rating: 5,
+              },
+              {
+                name: "Megan P.",
+                quote: "Amazing card quality! The quality of these cards is top-notch! They arrived in perfect condition and the holographic designs are just stunning. Definitely worth the investment!",
+                rating: 5,
+              },
+            ].map((review, i) => (
+              <div key={i} className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+                <div className="flex items-center gap-0.5 mb-3">
+                  {Array.from({ length: review.rating }).map((_, j) => (
+                    <Star key={j} className="size-4 fill-amber-400 text-amber-400" />
+                  ))}
+                </div>
+                <p className="text-[13px] text-gray-600 leading-relaxed mb-4">
+                  &ldquo;{review.quote}&rdquo;
+                </p>
+                <div className="flex items-center gap-3">
+                  <div className="w-9 h-9 rounded-full bg-[#0e252c] flex items-center justify-center text-white text-[13px] font-bold">
+                    {review.name.charAt(0)}
+                  </div>
+                  <div>
+                    <p className="text-[13px] font-semibold text-[#0e252c]">{review.name}</p>
+                    <p className="text-[11px] text-gray-400">Verified Buyer</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   );
 }
@@ -1358,6 +1460,114 @@ function ContactPage() {
   );
 }
 
+/* ─────────── Sign In / Sign Up Page ─────────── */
+
+function SignInPage() {
+  const [isSignUp, setIsSignUp] = useState(false);
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [name, setName] = useState("");
+  const [confirmPassword, setConfirmPassword] = useState("");
+
+  return (
+    <div>
+      <section className="bg-[#0e252c] py-16 sm:py-20">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <p className="text-[11px] font-bold text-[#13aff0] tracking-[0.2em] uppercase mb-4">{isSignUp ? "Create Account" : "Welcome Back"}</p>
+          <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
+            {isSignUp ? "Join Akihabara TCG Warehouse" : "Sign In to Your Account"}
+          </h1>
+          <p className="text-[14px] text-gray-300 max-w-xl mx-auto">
+            {isSignUp ? "Create an account to track orders, save favorites, and get exclusive deals." : "Access your orders, wishlist, and exclusive member pricing."}
+          </p>
+        </div>
+      </section>
+
+      <section className="py-16">
+        <div className="max-w-md mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="bg-white rounded-xl p-8 shadow-sm border border-gray-100">
+            {isSignUp ? (
+              /* Sign Up Form */
+              <div className="space-y-4">
+                <div>
+                  <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Full Name</label>
+                  <Input placeholder="Enter your full name" value={name} onChange={(e) => setName(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                </div>
+                <div>
+                  <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Email Address</label>
+                  <Input type="email" placeholder="you@example.com" value={email} onChange={(e) => setEmail(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                </div>
+                <div>
+                  <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Password</label>
+                  <Input type="password" placeholder="Create a password" value={password} onChange={(e) => setPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                </div>
+                <div>
+                  <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Confirm Password</label>
+                  <Input type="password" placeholder="Confirm your password" value={confirmPassword} onChange={(e) => setConfirmPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                </div>
+                <Button className="w-full bg-[#0e252c] hover:bg-[#162f39] text-white font-semibold h-11 text-[14px]">
+                  Create Account
+                </Button>
+                <p className="text-[12px] text-gray-500 text-center mt-4">
+                  By creating an account, you agree to our Terms of Service and Privacy Policy.
+                </p>
+              </div>
+            ) : (
+              /* Sign In Form */
+              <div className="space-y-4">
+                <div>
+                  <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Email Address</label>
+                  <Input type="email" placeholder="you@example.com" value={email} onChange={(e) => setEmail(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                </div>
+                <div>
+                  <div className="flex items-center justify-between mb-1.5">
+                    <label className="text-[12px] font-medium text-gray-700">Password</label>
+                    <a href="#" className="text-[11px] text-[#13aff0] hover:underline">Forgot password?</a>
+                  </div>
+                  <Input type="password" placeholder="Enter your password" value={password} onChange={(e) => setPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                </div>
+                <div className="flex items-center gap-2">
+                  <input type="checkbox" id="remember" className="rounded border-gray-300" />
+                  <label htmlFor="remember" className="text-[12px] text-gray-600">Remember me</label>
+                </div>
+                <Button className="w-full bg-[#0e252c] hover:bg-[#162f39] text-white font-semibold h-11 text-[14px]">
+                  Sign In
+                </Button>
+              </div>
+            )}
+
+            <div className="mt-6 pt-6 border-t border-gray-100">
+              <p className="text-[12px] text-gray-500 text-center">
+                {isSignUp ? "Already have an account?" : "Don't have an account?"}{" "}
+                <button
+                  onClick={() => { setIsSignUp(!isSignUp); setEmail(""); setPassword(""); setName(""); setConfirmPassword(""); }}
+                  className="text-[#13aff0] font-semibold hover:underline"
+                >
+                  {isSignUp ? "Sign In" : "Sign Up"}
+                </button>
+              </p>
+            </div>
+          </div>
+
+          {/* Benefits */}
+          <div className="mt-8 space-y-3">
+            {[
+              { icon: Shield, text: "Secure checkout with SSL encryption" },
+              { icon: Truck, text: "Free shipping on orders over $150" },
+              { icon: Package, text: "Track your orders and manage returns" },
+            ].map((item) => (
+              <div key={item.text} className="flex items-center gap-3 text-[13px] text-gray-500">
+                <item.icon className="size-4 text-[#13aff0] shrink-0" />
+                <span>{item.text}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    </div>
+  );
+}
+
 /* ─────────── Product Card ─────────── */
 
 function ProductCard({
@@ -1371,8 +1581,7 @@ function ProductCard({
   onOpen: (p: Product) => void;
   onAddToCart: (p: Product) => void;
 }) {
-  const discount = getDiscountPercent(product.original_price ?? 0, product.price);
-  const isOnSale = discount > 0;
+  const hasOriginalPrice = (product.original_price ?? 0) > product.price;
 
   return (
     <motion.div
@@ -1386,11 +1595,6 @@ function ProductCard({
       <div className="relative aspect-[4/5] bg-gray-50 overflow-hidden" onClick={() => onOpen(product)}>
         <ProductImg src={product.image} alt={product.title} fill className="object-contain p-2 group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" />
         <div className="absolute top-2 left-2 flex flex-col gap-1.5">
-          {isOnSale && (
-            <Badge className="bg-[#cb2027] text-white border-0 text-[10px] font-bold px-2 py-0.5">
-              -{discount}%
-            </Badge>
-          )}
           {product.in_stock === false && (
             <Badge className="bg-gray-800 text-white border-0 text-[10px] font-bold px-2 py-0.5">
               Out of Stock
@@ -1423,7 +1627,7 @@ function ProductCard({
           <span className="text-[16px] font-bold text-[#0e252c]">
             {formatPrice(product.price, currency)}
           </span>
-          {isOnSale && (
+          {hasOriginalPrice && (
             <span className="text-[12px] text-gray-400 line-through">
               {formatPrice(product.original_price ?? 0, currency)}
             </span>
@@ -1448,8 +1652,7 @@ function ProductDetailModal({
   onAddToCart: (p: Product, q?: number) => void;
 }) {
   const [quantity, setQuantity] = useState(1);
-  const discount = getDiscountPercent(product.original_price ?? 0, product.price);
-  const isOnSale = discount > 0;
+  const hasOriginalPrice = (product.original_price ?? 0) > product.price;
 
   const handleAdd = () => {
     onAddToCart(product, quantity);
@@ -1460,11 +1663,6 @@ function ProductDetailModal({
     <div className="flex flex-col md:flex-row">
       <div className="relative w-full md:w-1/2 aspect-square bg-gray-50 shrink-0">
         <ProductImg src={product.image} alt={product.title} fill className="object-contain p-6" sizes="(max-width: 768px) 100vw, 50vw" />
-        {isOnSale && (
-          <Badge className="absolute top-4 left-4 bg-[#cb2027] text-white border-0 font-bold text-[12px]">
-            -{discount}% OFF
-          </Badge>
-        )}
       </div>
 
       <div className="flex-1 p-6 flex flex-col">
@@ -1487,12 +1685,12 @@ function ProductDetailModal({
 
         <div className="flex items-baseline gap-3 mb-4">
           <span className="text-2xl font-bold text-[#0e252c]">{formatPrice(product.price, currency)}</span>
-          {isOnSale && (
+          {hasOriginalPrice && (
             <span className="text-[14px] text-gray-400 line-through">{formatPrice(product.original_price ?? 0, currency)}</span>
           )}
-          {isOnSale && (
-            <Badge className="bg-[#cb2027] text-white border-0 text-[11px] font-bold">
-              Save {formatPrice((product.original_price ?? 0) - product.price, currency)}
+          {hasOriginalPrice && (
+            <Badge className="bg-[#0e252c]/10 text-[#0e252c] border-0 text-[11px] font-bold">
+              Our Price
             </Badge>
           )}
         </div>
