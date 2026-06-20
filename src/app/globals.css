@@ -169,7 +169,7 @@
 }
 
 .animate-marquee-slow {
-  animation: marquee-slow 25s linear infinite;
+  animation: marquee-slow 6s linear infinite;
 }
 
 /* Product card hover zoom */
