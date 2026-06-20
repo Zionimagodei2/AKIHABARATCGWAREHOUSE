@@ -123,7 +123,7 @@ function ProductImg({ src, alt, fill, className, sizes, priority, width, height 
       referrerPolicy="no-referrer"
       crossOrigin="anonymous"
       className={className || ""}
-      style={fill ? { position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "contain" } : { width: width || "100%", height: height || "100%", objectFit: "contain" }}
+      style={fill ? { position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" } : { width: width || "100%", height: height || "100%", objectFit: "contain" }}
       onError={(e) => {
         const target = e.target as HTMLImageElement;
         if (target.src !== window.location.origin + "/images/existing/ONE.jpg") {
@@ -131,6 +131,7 @@ function ProductImg({ src, alt, fill, className, sizes, priority, width, height 
         }
       }}
       loading={priority ? "eager" : "lazy"}
+      fetchPriority={priority ? "high" : undefined}
     />
   );
 }
@@ -713,7 +714,8 @@ export default function TCGStore() {
         href="https://wa.me/818029350455"
         target="_blank"
         rel="noopener noreferrer"
-        className="fixed left-4 bottom-6 z-50 bg-[#25D366] hover:bg-[#1ebe5d] text-white rounded-full p-3.5 shadow-lg transition-colors flex items-center justify-center"
+        className="fixed left-4 z-[999] bg-[#25D366] hover:bg-[#1ebe5d] text-white rounded-full p-3.5 shadow-lg transition-colors flex items-center justify-center"
+        style={{ bottom: "max(1.5rem, env(safe-area-inset-bottom, 1.5rem))" }}
         aria-label="Contact us on WhatsApp"
       >
         <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
@@ -839,7 +841,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 transition={{ duration: 0.5 }}
                 className="relative h-64 sm:h-80 lg:h-[420px] w-full"
               >
-                <ProductImg src={HERO_SLIDES[heroIndex].image} alt={HERO_SLIDES[heroIndex].title} fill className="object-cover" priority={heroIndex === 0} sizes="100vw" />
+                <ProductImg src={HERO_SLIDES[heroIndex].image} alt={HERO_SLIDES[heroIndex].title} fill className="object-cover" priority sizes="100vw" />
                 <div className="absolute inset-0 bg-gradient-to-r from-[#0e252c]/90 via-[#0e252c]/60 to-transparent" />
                 <div className="absolute inset-0 flex items-center px-8 sm:px-12 lg:px-16">
                   <div className="max-w-lg">
