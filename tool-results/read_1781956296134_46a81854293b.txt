@@ -1,0 +1,2002 @@
+     1→/* Akihabara TCG Warehouse Style Sheet - Professional WooCommerce E-commerce Styling */
+     2→
+     3→:root {
+     4→    --bg-light: #f8f9fa; /* Clean light gray neutral background */
+     5→    --bg-white: #ffffff;
+     6→    --text-primary: #111827; /* High contrast charcoal/black */
+     7→    --text-secondary: #4b5563; /* Slate gray */
+     8→    --text-muted: #9ca3af;
+     9→    --border-color: #e5e7eb; /* Crisp clean border gray */
+    10→    --border-color-hover: #111827;
+    11→    --brand-primary: #0e252c; /* Deep premium navy/slate green */
+    12→    --brand-accent: #13aff0; /* Vibrant active cyan/blue */
+    13→    --brand-sale: #cb2027; /* Bold red for sale indicators */
+    14→    --brand-gold: #fbbf24; /* Golden yellow for rating stars */
+    15→    --font-heading: 'Montserrat', sans-serif;
+    16→    --font-body: 'Inter', sans-serif;
+    17→    --font-serif: 'Lora', serif;
+    18→    --transition-speed: 0.2s;
+    19→    --header-height: 70px;
+    20→    --container-width: 1200px;
+    21→}
+    22→
+    23→/* Base Reset */
+    24→* {
+    25→    box-sizing: border-box;
+    26→    margin: 0;
+    27→    padding: 0;
+    28→}
+    29→
+    30→html {
+    31→    scroll-behavior: smooth;
+    32→}
+    33→
+    34→body {
+    35→    background-color: var(--bg-light);
+    36→    color: var(--text-primary);
+    37→    font-family: var(--font-body);
+    38→    font-size: 0.95rem;
+    39→    line-height: 1.6;
+    40→    overflow-x: hidden;
+    41→    -webkit-font-smoothing: antialiased;
+    42→}
+    43→
+    44→/* Scrollbar */
+    45→::-webkit-scrollbar {
+    46→    width: 8px;
+    47→}
+    48→::-webkit-scrollbar-track {
+    49→    background: var(--bg-light);
+    50→}
+    51→::-webkit-scrollbar-thumb {
+    52→    background: #d1d5db;
+    53→    border-radius: 4px;
+    54→}
+    55→::-webkit-scrollbar-thumb:hover {
+    56→    background: var(--text-secondary);
+    57→}
+    58→
+    59→/* Typography */
+    60→h1, h2, h3, h4 {
+    61→    font-family: var(--font-heading);
+    62→    font-weight: 700;
+    63→    line-height: 1.25;
+    64→    letter-spacing: -0.01em;
+    65→    color: var(--brand-primary);
+    66→}
+    67→
+    68→p {
+    69→    font-size: 0.95rem;
+    70→    color: var(--text-secondary);
+    71→}
+    72→
+    73→a {
+    74→    color: inherit;
+    75→    text-decoration: none;
+    76→    transition: color var(--transition-speed);
+    77→}
+    78→
+    79→/* Buttons (Solid & Professional) */
+    80→.btn {
+    81→    display: inline-flex;
+    82→    align-items: center;
+    83→    justify-content: center;
+    84→    gap: 8px;
+    85→    padding: 12px 28px;
+    86→    border-radius: 4px;
+    87→    font-family: var(--font-heading);
+    88→    font-weight: 600;
+    89→    font-size: 0.85rem;
+    90→    letter-spacing: 0.05em;
+    91→    text-transform: uppercase;
+    92→    cursor: pointer;
+    93→    transition: all var(--transition-speed) ease;
+    94→    border: none;
+    95→}
+    96→
+    97→.btn-primary {
+    98→    background-color: var(--brand-accent);
+    99→    color: #fff;
+   100→    border: 1px solid var(--brand-accent);
+   101→}
+   102→
+   103→.btn-primary:hover {
+   104→    background-color: #0d96d2;
+   105→    border-color: #0d96d2;
+   106→    transform: translateY(-1px);
+   107→}
+   108→
+   109→.btn-secondary {
+   110→    background-color: transparent;
+   111→    color: #fff;
+   112→    border: 2px solid #fff;
+   113→}
+   114→
+   115→.btn-secondary:hover {
+   116→    background-color: #fff;
+   117→    color: var(--brand-primary);
+   118→}
+   119→
+   120→.btn-block {
+   121→    width: 100%;
+   122→}
+   123→
+   124→.btn-icon {
+   125→    padding: 12px;
+   126→}
+   127→
+   128→/* Icon Buttons */
+   129→.icon-btn {
+   130→    background: none;
+   131→    border: none;
+   132→    color: var(--brand-primary);
+   133→    width: 40px;
+   134→    height: 40px;
+   135→    display: inline-flex;
+   136→    align-items: center;
+   137→    justify-content: center;
+   138→    cursor: pointer;
+   139→    position: relative;
+   140→    font-size: 1.1rem;
+   141→    transition: color var(--transition-speed);
+   142→}
+   143→
+   144→.icon-btn:hover {
+   145→    color: var(--brand-accent);
+   146→}
+   147→
+   148→/* Header */
+   149→.header {
+   150→    height: var(--header-height);
+   151→    width: 100%;
+   152→    position: fixed;
+   153→    top: 0;
+   154→    left: 0;
+   155→    z-index: 100;
+   156→    border-bottom: 1px solid var(--border-color);
+   157→    background-color: rgba(255, 255, 255, 0.96);
+   158→    backdrop-filter: blur(8px);
+   159→    display: flex;
+   160→    align-items: center;
+   161→    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+   162→}
+   163→
+   164→.header-container {
+   165→    width: 100%;
+   166→    max-width: var(--container-width);
+   167→    margin: 0 auto;
+   168→    padding: 0 24px;
+   169→    display: flex;
+   170→    align-items: center;
+   171→    justify-content: space-between;
+   172→}
+   173→
+   174→.logo {
+   175→    font-family: var(--font-heading);
+   176→    font-size: 1.3rem;
+   177→    font-weight: 800;
+   178→    letter-spacing: 0.1rem;
+   179→    color: var(--brand-primary);
+   180→    text-transform: uppercase;
+   181→}
+   182→
+   183→.logo-light {
+   184→    font-weight: 400;
+   185→    color: var(--brand-accent);
+   186→}
+   187→
+   188→.nav-links {
+   189→    display: flex;
+   190→    gap: 36px;
+   191→}
+   192→
+   193→.nav-link {
+   194→    font-family: var(--font-heading);
+   195→    font-weight: 600;
+   196→    font-size: 0.8rem;
+   197→    text-transform: uppercase;
+   198→    letter-spacing: 0.05em;
+   199→    color: var(--text-secondary);
+   200→    padding: 6px 0;
+   201→    position: relative;
+   202→}
+   203→
+   204→.nav-link:hover, .nav-link.active {
+   205→    color: var(--brand-primary);
+   206→}
+   207→
+   208→.nav-link::after {
+   209→    content: '';
+   210→    position: absolute;
+   211→    bottom: 0;
+   212→    left: 0;
+   213→    width: 0;
+   214→    height: 2px;
+   215→    background-color: var(--brand-accent);
+   216→    transition: width var(--transition-speed);
+   217→}
+   218→
+   219→.nav-link:hover::after, .nav-link.active::after {
+   220→    width: 100%;
+   221→}
+   222→
+   223→.header-actions {
+   224→    display: flex;
+   225→    align-items: center;
+   226→    gap: 12px;
+   227→}
+   228→
+   229→.cart-badge {
+   230→    position: absolute;
+   231→    top: 2px;
+   232→    right: 2px;
+   233→    background-color: var(--brand-accent);
+   234→    color: #fff;
+   235→    font-size: 0.65rem;
+   236→    font-weight: 700;
+   237→    width: 18px;
+   238→    height: 18px;
+   239→    border-radius: 50%;
+   240→    display: flex;
+   241→    align-items: center;
+   242→    justify-content: center;
+   243→    box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+   244→}
+   245→
+   246→/* Search Container overlay */
+   247→.search-bar-container {
+   248→    position: fixed;
+   249→    top: calc(36px + var(--header-height)); /* top-bar(36px) + header(70px) */
+   250→    left: 0;
+   251→    width: 100%;
+   252→    background: var(--bg-white);
+   253→    border-bottom: 1px solid var(--border-color);
+   254→    padding: 16px 24px;
+   255→    z-index: 99;
+   256→    display: none;
+   257→    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+   258→}
+   259→
+   260→.search-input-wrapper {
+   261→    max-width: 500px;
+   262→    margin: 0 auto;
+   263→    position: relative;
+   264→    display: flex;
+   265→    align-items: center;
+   266→}
+   267→
+   268→.search-input-icon {
+   269→    position: absolute;
+   270→    left: 14px;
+   271→    color: var(--text-secondary);
+   272→    font-size: 0.9rem;
+   273→}
+   274→
+   275→.search-bar-container input {
+   276→    width: 100%;
+   277→    padding: 12px 14px 12px 42px;
+   278→    background: var(--bg-light);
+   279→    border: 1px solid var(--border-color);
+   280→    border-radius: 4px;
+   281→    color: var(--text-primary);
+   282→    font-family: var(--font-body);
+   283→    font-size: 0.9rem;
+   284→    outline: none;
+   285→    transition: border-color var(--transition-speed);
+   286→}
+   287→
+   288→.search-bar-container input:focus {
+   289→    border-color: var(--brand-accent);
+   290→    background: #fff;
+   291→}
+   292→
+   293→.search-clear-btn {
+   294→    position: absolute;
+   295→    right: 14px;
+   296→    background: none;
+   297→    border: none;
+   298→    color: var(--text-muted);
+   299→    cursor: pointer;
+   300→}
+   301→
+   302→/* Slideshow Hero Section */
+   303→.hero-slideshow {
+   304→    position: relative;
+   305→    width: 100%;
+   306→    background-color: var(--brand-primary);
+   307→    overflow: hidden;
+   308→    height: 600px;
+   309→    margin-top: var(--header-height);
+   310→}
+   311→
+   312→.slides-container {
+   313→    position: relative;
+   314→    width: 100%;
+   315→    height: 100%;
+   316→}
+   317→
+   318→.hero-slide {
+   319→    position: absolute;
+   320→    top: 0;
+   321→    left: 0;
+   322→    width: 100%;
+   323→    height: 100%;
+   324→    opacity: 0;
+   325→    visibility: hidden;
+   326→    display: flex;
+   327→    align-items: center;
+   328→    justify-content: space-between;
+   329→    padding: 0 calc((100% - var(--container-width)) / 2 + 24px);
+   330→    transition: opacity 0.8s ease-in-out, visibility 0.8s ease-in-out;
+   331→    z-index: 1;
+   332→    background-size: cover;
+   333→    background-position: center;
+   334→}
+   335→
+   336→.hero-slide.active {
+   337→    opacity: 1;
+   338→    visibility: visible;
+   339→    z-index: 2;
+   340→}
+   341→
+   342→.slide-content {
+   343→    flex: 1.2;
+   344→    max-width: 580px;
+   345→    opacity: 0;
+   346→    transform: translateY(20px);
+   347→    transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.2s, opacity 0.8s ease 0.2s;
+   348→    z-index: 5;
+   349→    color: #ffffff;
+   350→}
+   351→
+   352→.hero-slide.active .slide-content {
+   353→    opacity: 1;
+   354→    transform: translateY(0);
+   355→}
+   356→
+   357→.badge {
+   358→    display: inline-block;
+   359→    padding: 4px 12px;
+   360→    background: rgba(19, 175, 240, 0.15);
+   361→    border: 1px solid rgba(19, 175, 240, 0.3);
+   362→    color: var(--brand-accent);
+   363→    font-family: var(--font-heading);
+   364→    font-weight: 700;
+   365→    font-size: 0.7rem;
+   366→    text-transform: uppercase;
+   367→    letter-spacing: 0.08em;
+   368→    border-radius: 2px;
+   369→    margin-bottom: 24px;
+   370→}
+   371→
+   372→.hero-slide h2 {
+   373→    font-size: 3.5rem;
+   374→    font-weight: 800;
+   375→    margin-bottom: 20px;
+   376→    line-height: 1.1;
+   377→    color: #ffffff;
+   378→    font-family: var(--font-heading);
+   379→    text-transform: uppercase;
+   380→}
+   381→
+   382→.serif-text {
+   383→    font-family: var(--font-serif);
+   384→    font-style: italic;
+   385→    font-weight: 400;
+   386→    text-transform: none;
+   387→    color: var(--brand-accent);
+   388→}
+   389→
+   390→.hero-slide p {
+   391→    font-size: 1.05rem;
+   392→    line-height: 1.7;
+   393→    color: #e5e7eb;
+   394→    margin-bottom: 36px;
+   395→    max-width: 520px;
+   396→    font-family: var(--font-serif);
+   397→}
+   398→
+   399→.hero-buttons {
+   400→    display: flex;
+   401→    gap: 16px;
+   402→}
+   403→
+   404→.slide-visual {
+   405→    flex: 0.8;
+   406→    display: flex;
+   407→    justify-content: center;
+   408→    align-items: center;
+   409→    opacity: 0;
+   410→    transform: scale(0.95);
+   411→    transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.3s, opacity 0.8s ease 0.3s;
+   412→    height: 100%;
+   413→    z-index: 5;
+   414→}
+   415→
+   416→.hero-slide.active .slide-visual {
+   417→    opacity: 1;
+   418→    transform: scale(1);
+   419→}
+   420→
+   421→.slide-img-frame {
+   422→    background: rgba(255, 255, 255, 0.08);
+   423→    border: 1px solid rgba(255, 255, 255, 0.15);
+   424→    padding: 30px;
+   425→    border-radius: 8px;
+   426→    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+   427→    max-width: 300px;
+   428→    height: 360px;
+   429→    display: flex;
+   430→    align-items: center;
+   431→    justify-content: center;
+   432→    backdrop-filter: blur(10px);
+   433→}
+   434→
+   435→.slide-img-frame img {
+   436→    max-width: 100%;
+   437→    max-height: 290px;
+   438→    object-fit: contain;
+   439→    filter: drop-shadow(0 10px 15px rgba(0,0,0,0.4));
+   440→}
+   441→
+   442→/* Slideshow Controls */
+   443→.slideshow-controls {
+   444→    position: absolute;
+   445→    bottom: 30px;
+   446→    left: 0;
+   447→    width: 100%;
+   448→    display: flex;
+   449→    align-items: center;
+   450→    justify-content: space-between;
+   451→    padding: 0 calc((100% - var(--container-width)) / 2 + 24px);
+   452→    z-index: 10;
+   453→}
+   454→
+   455→.slide-arrow {
+   456→    background: rgba(255, 255, 255, 0.1);
+   457→    border: 1px solid rgba(255, 255, 255, 0.2);
+   458→    color: #fff;
+   459→    width: 44px;
+   460→    height: 44px;
+   461→    border-radius: 50%;
+   462→    display: flex;
+   463→    align-items: center;
+   464→    justify-content: center;
+   465→    cursor: pointer;
+   466→    transition: all var(--transition-speed);
+   467→}
+   468→
+   469→.slide-arrow:hover {
+   470→    background-color: var(--brand-accent);
+   471→    color: #fff;
+   472→    border-color: var(--brand-accent);
+   473→    transform: scale(1.05);
+   474→}
+   475→
+   476→.slide-dots {
+   477→    display: flex;
+   478→    gap: 8px;
+   479→}
+   480→
+   481→.slide-dot {
+   482→    width: 12px;
+   483→    height: 12px;
+   484→    border-radius: 50%;
+   485→    background-color: rgba(255, 255, 255, 0.3);
+   486→    cursor: pointer;
+   487→    transition: background-color var(--transition-speed), transform var(--transition-speed);
+   488→}
+   489→
+   490→.slide-dot.active {
+   491→    background-color: var(--brand-accent);
+   492→    transform: scale(1.2);
+   493→}
+   494→
+   495→/* Category Showcase Section */
+   496→.category-showcase {
+   497→    background-color: var(--bg-white);
+   498→    padding: 50px 24px;
+   499→    border-bottom: 1px solid var(--border-color);
+   500→}
+   501→
+   502→.category-container {
+   503→    max-width: var(--container-width);
+   504→    margin: 0 auto;
+   505→}
+   506→
+   507→.category-heading {
+   508→    font-size: 1.6rem;
+   509→    font-weight: 800;
+   510→    text-transform: uppercase;
+   511→    margin-bottom: 30px;
+   512→    text-align: center;
+   513→    letter-spacing: 0.02em;
+   514→    color: var(--brand-primary);
+   515→}
+   516→
+   517→.category-grid {
+   518→    display: grid;
+   519→    grid-template-columns: repeat(3, 1fr);
+   520→    gap: 24px;
+   521→}
+   522→
+   523→.category-card {
+   524→    display: block;
+   525→    position: relative;
+   526→    border: 1px solid var(--border-color);
+   527→    border-radius: 6px;
+   528→    overflow: hidden;
+   529→    background: var(--bg-light);
+   530→    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+   531→}
+   532→
+   533→.category-card:hover {
+   534→    transform: translateY(-4px);
+   535→    box-shadow: 0 10px 20px rgba(0,0,0,0.06);
+   536→    border-color: var(--brand-accent);
+   537→}
+   538→
+   539→.category-img-wrapper {
+   540→    position: relative;
+   541→    padding-top: 60%;
+   542→    overflow: hidden;
+   543→}
+   544→
+   545→.category-img-wrapper img {
+   546→    position: absolute;
+   547→    top: 0;
+   548→    left: 0;
+   549→    width: 100%;
+   550→    height: 100%;
+   551→    object-fit: cover;
+   552→    transition: transform 0.5s ease;
+   553→}
+   554→
+   555→.category-card:hover .category-img-wrapper img {
+   556→    transform: scale(1.05);
+   557→}
+   558→
+   559→.category-card-content {
+   560→    padding: 20px;
+   561→    background: #ffffff;
+   562→    border-top: 1px solid var(--border-color);
+   563→}
+   564→
+   565→.category-card-content h3 {
+   566→    font-size: 1.1rem;
+   567→    font-weight: 700;
+   568→    margin-bottom: 8px;
+   569→    color: var(--brand-primary);
+   570→}
+   571→
+   572→.category-btn {
+   573→    font-size: 0.8rem;
+   574→    font-weight: 700;
+   575→    text-transform: uppercase;
+   576→    color: var(--brand-accent);
+   577→    display: inline-flex;
+   578→    align-items: center;
+   579→    gap: 6px;
+   580→}
+   581→
+   582→.category-card:hover .category-btn {
+   583→    color: var(--brand-primary);
+   584→}
+   585→
+   586→/* Main Shop Content */
+   587→.main-content {
+   588→    max-width: var(--container-width);
+   589→    margin: 0 auto;
+   590→    padding: 60px 24px;
+   591→}
+   592→
+   593→.filter-section {
+   594→    margin-bottom: 40px;
+   595→}
+   596→
+   597→.section-header {
+   598→    display: flex;
+   599→    justify-content: space-between;
+   600→    align-items: flex-end;
+   601→    margin-bottom: 32px;
+   602→    border-bottom: 1px solid var(--border-color);
+   603→    padding-bottom: 24px;
+   604→}
+   605→
+   606→.section-subtitle {
+   607→    font-family: var(--font-heading);
+   608→    font-weight: 700;
+   609→    color: var(--brand-accent);
+   610→    font-size: 0.8rem;
+   611→    text-transform: uppercase;
+   612→    letter-spacing: 0.1em;
+   613→    display: block;
+   614→    margin-bottom: 6px;
+   615→}
+   616→
+   617→.section-title {
+   618→    font-size: 1.8rem;
+   619→    font-weight: 800;
+   620→    text-transform: uppercase;
+   621→}
+   622→
+   623→.sorting-wrapper {
+   624→    display: flex;
+   625→    align-items: center;
+   626→    gap: 8px;
+   627→}
+   628→
+   629→.sort-label {
+   630→    font-size: 0.8rem;
+   631→    font-weight: 700;
+   632→    text-transform: uppercase;
+   633→    letter-spacing: 0.05em;
+   634→    color: var(--text-secondary);
+   635→}
+   636→
+   637→.sort-dropdown {
+   638→    background: var(--bg-white);
+   639→    border: 1px solid var(--border-color);
+   640→    color: var(--text-primary);
+   641→    padding: 8px 16px;
+   642→    border-radius: 4px;
+   643→    outline: none;
+   644→    cursor: pointer;
+   645→    font-family: var(--font-heading);
+   646→    font-weight: 600;
+   647→    font-size: 0.8rem;
+   648→    text-transform: uppercase;
+   649→    transition: border-color var(--transition-speed);
+   650→}
+   651→
+   652→.sort-dropdown:focus {
+   653→    border-color: var(--brand-accent);
+   654→}
+   655→
+   656→.filter-tabs {
+   657→    display: flex;
+   658→    gap: 12px;
+   659→    flex-wrap: wrap;
+   660→}
+   661→
+   662→.filter-tab {
+   663→    background: none;
+   664→    border: 1px solid var(--border-color);
+   665→    color: var(--text-secondary);
+   666→    font-family: var(--font-heading);
+   667→    font-weight: 700;
+   668→    font-size: 0.8rem;
+   669→    text-transform: uppercase;
+   670→    padding: 10px 20px;
+   671→    cursor: pointer;
+   672→    transition: all var(--transition-speed);
+   673→    border-radius: 4px;
+   674→    background-color: var(--bg-white);
+   675→}
+   676→
+   677→.filter-tab:hover {
+   678→    color: var(--brand-primary);
+   679→    border-color: var(--text-secondary);
+   680→}
+   681→
+   682→.filter-tab.active {
+   683→    color: #fff;
+   684→    border-color: var(--brand-accent);
+   685→    background-color: var(--brand-accent);
+   686→}
+   687→
+   688→/* Loader */
+   689→.loader {
+   690→    grid-column: 1 / -1;
+   691→    text-align: center;
+   692→    padding: 80px 0;
+   693→    color: var(--text-secondary);
+   694→    font-size: 1.05rem;
+   695→}
+   696→
+   697→.loader i {
+   698→    color: var(--brand-accent);
+   699→    margin-right: 8px;
+   700→}
+   701→
+   702→/* Products Grid */
+   703→.products-grid {
+   704→    display: grid;
+   705→    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+   706→    gap: 30px;
+   707→}
+   708→
+   709→/* Product Card (WooCommerce Style) */
+   710→.product-card {
+   711→    background: var(--bg-white);
+   712→    border: 1px solid var(--border-color);
+   713→    border-radius: 4px;
+   714→    overflow: hidden;
+   715→    transition: all var(--transition-speed);
+   716→    display: flex;
+   717→    flex-direction: column;
+   718→    height: 100%;
+   719→    position: relative;
+   720→}
+   721→
+   722→.product-card:hover {
+   723→    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+   724→    border-color: #d1d5db;
+   725→    transform: translateY(-2px);
+   726→}
+   727→
+   728→.product-img-wrapper {
+   729→    position: relative;
+   730→    padding-top: 110%;
+   731→    overflow: hidden;
+   732→    background-color: #ffffff;
+   733→    border-bottom: 1px solid var(--border-color);
+   734→}
+   735→
+   736→.product-img {
+   737→    position: absolute;
+   738→    top: 8%;
+   739→    left: 8%;
+   740→    width: 84%;
+   741→    height: 84%;
+   742→    object-fit: contain;
+   743→    transition: transform 0.4s ease;
+   744→}
+   745→
+   746→.product-card:hover .product-img {
+   747→    transform: scale(1.05);
+   748→}
+   749→
+   750→/* Badges (Square WooCommerce Style) */
+   751→.card-badge-container {
+   752→    position: absolute;
+   753→    top: 12px;
+   754→    left: 12px;
+   755→    display: flex;
+   756→    flex-direction: column;
+   757→    gap: 6px;
+   758→    z-index: 5;
+   759→}
+   760→
+   761→.sale-badge {
+   762→    background-color: var(--brand-sale);
+   763→    color: #fff;
+   764→    font-size: 0.65rem;
+   765→    font-weight: 700;
+   766→    padding: 4px 8px;
+   767→    border-radius: 2px;
+   768→    text-transform: uppercase;
+   769→    letter-spacing: 0.05em;
+   770→    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+   771→}
+   772→
+   773→.jp-badge {
+   774→    background-color: var(--brand-primary);
+   775→    color: #fff;
+   776→    font-size: 0.65rem;
+   777→    font-weight: 700;
+   778→    padding: 4px 8px;
+   779→    border-radius: 2px;
+   780→    text-transform: uppercase;
+   781→    letter-spacing: 0.05em;
+   782→    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+   783→}
+   784→
+   785→.product-quick-view {
+   786→    position: absolute;
+   787→    bottom: 0;
+   788→    left: 0;
+   789→    width: 100%;
+   790→    background: rgba(14, 37, 44, 0.95);
+   791→    color: #fff;
+   792→    border: none;
+   793→    font-family: var(--font-heading);
+   794→    font-weight: 700;
+   795→    font-size: 0.75rem;
+   796→    text-transform: uppercase;
+   797→    letter-spacing: 0.05em;
+   798→    padding: 12px 0;
+   799→    cursor: pointer;
+   800→    opacity: 0;
+   801→    transition: opacity var(--transition-speed);
+   802→    display: flex;
+   803→    align-items: center;
+   804→    justify-content: center;
+   805→    gap: 6px;
+   806→}
+   807→
+   808→.product-card:hover .product-quick-view {
+   809→    opacity: 1;
+   810→}
+   811→
+   812→.product-info {
+   813→    padding: 20px;
+   814→    display: flex;
+   815→    flex-direction: column;
+   816→    flex-grow: 1;
+   817→}
+   818→
+   819→.product-meta {
+   820→    font-size: 0.7rem;
+   821→    color: var(--brand-accent);
+   822→    font-family: var(--font-heading);
+   823→    font-weight: 700;
+   824→    text-transform: uppercase;
+   825→    letter-spacing: 0.05em;
+   826→    margin-bottom: 6px;
+   827→}
+   828→
+   829→.product-title {
+   830→    font-family: var(--font-body);
+   831→    font-size: 0.9rem;
+   832→    font-weight: 700;
+   833→    line-height: 1.4;
+   834→    margin-bottom: 10px;
+   835→    color: var(--text-primary);
+   836→    display: -webkit-box;
+   837→    -webkit-line-clamp: 2;
+   838→    -webkit-box-orient: vertical;
+   839→    overflow: hidden;
+   840→    height: 2.5rem;
+   841→}
+   842→
+   843→.product-rating {
+   844→    display: flex;
+   845→    align-items: center;
+   846→    gap: 4px;
+   847→    font-size: 0.75rem;
+   848→    color: var(--brand-gold);
+   849→    margin-bottom: 16px;
+   850→}
+   851→
+   852→.rating-count {
+   853→    color: var(--text-muted);
+   854→    font-weight: 500;
+   855→    margin-left: 2px;
+   856→}
+   857→
+   858→.product-footer {
+   859→    display: flex;
+   860→    justify-content: space-between;
+   861→    align-items: center;
+   862→    margin-top: auto;
+   863→    border-top: 1px solid var(--border-color);
+   864→    padding-top: 15px;
+   865→}
+   866→
+   867→.product-price-wrapper {
+   868→    display: flex;
+   869→    flex-direction: column;
+   870→}
+   871→
+   872→.original-price {
+   873→    font-size: 0.75rem;
+   874→    color: var(--text-muted);
+   875→    text-decoration: line-through;
+   876→    font-weight: 500;
+   877→}
+   878→
+   879→.current-price {
+   880→    font-size: 1.1rem;
+   881→    font-weight: 800;
+   882→    color: var(--brand-primary);
+   883→}
+   884→
+   885→.product-card:hover .current-price {
+   886→    color: var(--brand-accent);
+   887→}
+   888→
+   889→.add-to-cart-btn {
+   890→    background-color: var(--brand-accent);
+   891→    border: 1px solid var(--brand-accent);
+   892→    color: #fff;
+   893→    width: 36px;
+   894→    height: 36px;
+   895→    border-radius: 4px;
+   896→    cursor: pointer;
+   897→    display: inline-flex;
+   898→    align-items: center;
+   899→    justify-content: center;
+   900→    transition: all var(--transition-speed);
+   901→}
+   902→
+   903→.add-to-cart-btn:hover {
+   904→    background-color: var(--brand-primary);
+   905→    border-color: var(--brand-primary);
+   906→    transform: scale(1.05);
+   907→}
+   908→
+   909→/* Trust Section */
+   910→.trust-section {
+   911→    background-color: #f3f4f6;
+   912→    border-top: 1px solid var(--border-color);
+   913→    border-bottom: 1px solid var(--border-color);
+   914→    padding: 70px 24px;
+   915→}
+   916→
+   917→.trust-container {
+   918→    max-width: var(--container-width);
+   919→    margin: 0 auto;
+   920→}
+   921→
+   922→.trust-heading-wrapper {
+   923→    text-align: center;
+   924→    max-width: 600px;
+   925→    margin: 0 auto 50px auto;
+   926→}
+   927→
+   928→.trust-heading-wrapper .section-title {
+   929→    margin-top: 4px;
+   930→    margin-bottom: 12px;
+   931→}
+   932→
+   933→.section-desc {
+   934→    font-family: var(--font-serif);
+   935→    font-size: 1.05rem;
+   936→    color: var(--text-secondary);
+   937→}
+   938→
+   939→.trust-grid {
+   940→    display: grid;
+   941→    grid-template-columns: repeat(3, 1fr);
+   942→    gap: 30px;
+   943→}
+   944→
+   945→.trust-card {
+   946→    text-align: center;
+   947→    padding: 30px 24px;
+   948→    background: #ffffff;
+   949→    border-radius: 6px;
+   950→    border: 1px solid var(--border-color);
+   951→    box-shadow: 0 4px 6px rgba(0,0,0,0.01);
+   952→}
+   953→
+   954→.trust-icon {
+   955→    font-size: 2.2rem;
+   956→    color: var(--brand-accent);
+   957→    margin-bottom: 20px;
+   958→}
+   959→
+   960→.trust-card h3 {
+   961→    font-size: 1.15rem;
+   962→    font-weight: 700;
+   963→    margin-bottom: 12px;
+   964→    color: var(--brand-primary);
+   965→}
+   966→
+   967→.trust-card p {
+   968→    font-size: 0.9rem;
+   969→    color: var(--text-secondary);
+   970→    line-height: 1.6;
+   971→}
+   972→
+   973→/* Marketing Intro Section */
+   974→.marketing-intro {
+   975→    background-color: var(--bg-white);
+   976→    padding: 60px 24px;
+   977→    border-bottom: 1px solid var(--border-color);
+   978→}
+   979→.marketing-container {
+   980→    max-width: var(--container-width);
+   981→    margin: 0 auto;
+   982→}
+   983→.marketing-title {
+   984→    font-size: 1.8rem;
+   985→    font-weight: 800;
+   986→    text-transform: uppercase;
+   987→    margin-bottom: 30px;
+   988→    text-align: center;
+   989→    color: var(--brand-primary);
+   990→}
+   991→.marketing-grid {
+   992→    display: grid;
+   993→    grid-template-columns: 1.2fr 1fr;
+   994→    gap: 40px;
+   995→    align-items: center;
+   996→}
+   997→.marketing-text p {
+   998→    margin-bottom: 20px;
+   999→    font-size: 1rem;
+  1000→    color: var(--text-secondary);
+  1001→    line-height: 1.7;
+  1002→}
+  1003→.marketing-text p strong {
+  1004→    color: var(--brand-primary);
+  1005→}
+  1006→.marketing-images {
+  1007→    display: grid;
+  1008→    grid-template-columns: 1fr 1fr;
+  1009→    gap: 16px;
+  1010→}
+  1011→.marketing-img-frame {
+  1012→    border: 1px solid var(--border-color);
+  1013→    border-radius: 6px;
+  1014→    overflow: hidden;
+  1015→    box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+  1016→}
+  1017→.marketing-img-frame img {
+  1018→    width: 100%;
+  1019→    height: 100%;
+  1020→    object-fit: cover;
+  1021→    display: block;
+  1022→    transition: transform 0.3s ease;
+  1023→}
+  1024→.marketing-img-frame:hover img {
+  1025→    transform: scale(1.05);
+  1026→}
+  1027→
+  1028→/* Best Japanese Sets Articles Section */
+  1029→.sets-articles {
+  1030→    background-color: var(--bg-white);
+  1031→    padding: 80px 24px;
+  1032→    border-bottom: 1px solid var(--border-color);
+  1033→}
+  1034→.articles-container {
+  1035→    max-width: var(--container-width);
+  1036→    margin: 0 auto;
+  1037→}
+  1038→.articles-main-title {
+  1039→    font-size: 2rem;
+  1040→    font-weight: 800;
+  1041→    text-transform: uppercase;
+  1042→    text-align: center;
+  1043→    margin-bottom: 60px;
+  1044→    position: relative;
+  1045→    padding-bottom: 15px;
+  1046→}
+  1047→.articles-main-title::after {
+  1048→    content: '';
+  1049→    position: absolute;
+  1050→    bottom: 0;
+  1051→    left: 50%;
+  1052→    transform: translateX(-50%);
+  1053→    width: 80px;
+  1054→    height: 3px;
+  1055→    background-color: var(--brand-accent);
+  1056→}
+  1057→.articles-list {
+  1058→    display: flex;
+  1059→    flex-direction: column;
+  1060→    gap: 60px;
+  1061→}
+  1062→.set-article {
+  1063→    display: grid;
+  1064→    grid-template-columns: 1fr 1.2fr;
+  1065→    gap: 50px;
+  1066→    align-items: center;
+  1067→}
+  1068→.set-article:nth-child(even) .article-img-wrapper {
+  1069→    order: 2;
+  1070→}
+  1071→.article-img-wrapper {
+  1072→    border: 1px solid var(--border-color);
+  1073→    border-radius: 6px;
+  1074→    overflow: hidden;
+  1075→    box-shadow: 0 8px 20px rgba(0,0,0,0.04);
+  1076→}
+  1077→.article-img-wrapper img {
+  1078→    width: 100%;
+  1079→    height: 250px;
+  1080→    object-fit: cover;
+  1081→    display: block;
+  1082→    transition: transform 0.4s ease;
+  1083→}
+  1084→.set-article:hover .article-img-wrapper img {
+  1085→    transform: scale(1.03);
+  1086→}
+  1087→.article-content h3 {
+  1088→    font-size: 1.5rem;
+  1089→    font-weight: 800;
+  1090→    margin-bottom: 16px;
+  1091→    color: var(--brand-primary);
+  1092→}
+  1093→.article-content p {
+  1094→    margin-bottom: 16px;
+  1095→    line-height: 1.7;
+  1096→    font-size: 0.95rem;
+  1097→}
+  1098→
+  1099→/* Popular Brands Carousel Section */
+  1100→.popular-brands {
+  1101→    background-color: var(--bg-white);
+  1102→    padding: 50px 24px;
+  1103→    border-bottom: 1px solid var(--border-color);
+  1104→}
+  1105→.brands-container {
+  1106→    max-width: var(--container-width);
+  1107→    margin: 0 auto;
+  1108→}
+  1109→.brands-title {
+  1110→    font-size: 1.1rem;
+  1111→    font-weight: 700;
+  1112→    text-transform: uppercase;
+  1113→    margin-bottom: 30px;
+  1114→    text-align: center;
+  1115→    color: var(--text-secondary);
+  1116→}
+  1117→.brands-grid-list {
+  1118→    display: flex;
+  1119→    justify-content: space-around;
+  1120→    align-items: center;
+  1121→    flex-wrap: wrap;
+  1122→    gap: 30px;
+  1123→}
+  1124→.brands-grid-list img {
+  1125→    height: 45px;
+  1126→    max-width: 120px;
+  1127→    object-fit: contain;
+  1128→    filter: grayscale(100%);
+  1129→    opacity: 0.6;
+  1130→    transition: all 0.3s ease;
+  1131→}
+  1132→.brands-grid-list img:hover {
+  1133→    filter: grayscale(0%);
+  1134→    opacity: 1;
+  1135→    transform: scale(1.05);
+  1136→}
+  1137→
+  1138→/* Footer Additions */
+  1139→.footer-service-desc {
+  1140→    color: #9ca3af !important;
+  1141→    font-size: 0.85rem !important;
+  1142→    line-height: 1.6 !important;
+  1143→    margin-bottom: 20px !important;
+  1144→    max-width: 100% !important;
+  1145→}
+  1146→.footer-contact-info {
+  1147→    margin-top: 15px;
+  1148→    display: flex;
+  1149→    flex-direction: column;
+  1150→    gap: 8px;
+  1151→}
+  1152→.footer-contact-info p {
+  1153→    color: #d1d5db !important;
+  1154→    font-size: 0.85rem !important;
+  1155→    display: flex;
+  1156→    align-items: center;
+  1157→    gap: 8px;
+  1158→    margin-bottom: 0 !important;
+  1159→}
+  1160→.footer-contact-info i {
+  1161→    color: var(--brand-accent);
+  1162→}
+  1163→
+  1164→/* Footer (Dark Premium Theme) */
+  1165→.footer {
+  1166→    background-color: var(--brand-primary);
+  1167→    color: #e5e7eb;
+  1168→    border-top: 2px solid var(--brand-accent);
+  1169→    padding-top: 70px;
+  1170→}
+  1171→
+  1172→.footer-container {
+  1173→    max-width: var(--container-width);
+  1174→    margin: 0 auto;
+  1175→    padding: 0 24px;
+  1176→    display: grid;
+  1177→    grid-template-columns: 1.5fr 1fr 1fr 1.5fr;
+  1178→    gap: 40px;
+  1179→}
+  1180→
+  1181→.footer-brand .logo {
+  1182→    color: #fff;
+  1183→    margin-bottom: 20px;
+  1184→    display: inline-block;
+  1185→}
+  1186→
+  1187→.footer-brand p {
+  1188→    color: #9ca3af;
+  1189→    font-size: 0.9rem;
+  1190→    margin-bottom: 24px;
+  1191→    max-width: 320px;
+  1192→}
+  1193→
+  1194→.social-links {
+  1195→    display: flex;
+  1196→    gap: 16px;
+  1197→}
+  1198→
+  1199→.social-links a {
+  1200→    color: #fff;
+  1201→    background: rgba(255,255,255,0.08);
+  1202→    width: 36px;
+  1203→    height: 36px;
+  1204→    border-radius: 50%;
+  1205→    display: inline-flex;
+  1206→    align-items: center;
+  1207→    justify-content: center;
+  1208→    transition: all var(--transition-speed);
+  1209→}
+  1210→
+  1211→.social-links a:hover {
+  1212→    background-color: var(--brand-accent);
+  1213→    transform: translateY(-2px);
+  1214→}
+  1215→
+  1216→.footer-links h4, .footer-newsletter h4 {
+  1217→    color: #fff;
+  1218→    font-family: var(--font-heading);
+  1219→    font-weight: 700;
+  1220→    font-size: 0.9rem;
+  1221→    text-transform: uppercase;
+  1222→    letter-spacing: 0.05em;
+  1223→    margin-bottom: 24px;
+  1224→}
+  1225→
+  1226→.footer-links {
+  1227→    display: flex;
+  1228→    flex-direction: column;
+  1229→    gap: 12px;
+  1230→}
+  1231→
+  1232→.footer-links a {
+  1233→    color: #9ca3af;
+  1234→    font-size: 0.9rem;
+  1235→}
+  1236→
+  1237→.footer-links a:hover {
+  1238→    color: var(--brand-accent);
+  1239→    padding-left: 2px;
+  1240→}
+  1241→
+  1242→.footer-newsletter p {
+  1243→    color: #9ca3af;
+  1244→    font-size: 0.85rem;
+  1245→    margin-bottom: 20px;
+  1246→}
+  1247→
+  1248→.subscribe-form {
+  1249→    display: flex;
+  1250→    gap: 8px;
+  1251→}
+  1252→
+  1253→.subscribe-form input {
+  1254→    background: rgba(255,255,255,0.05);
+  1255→    border: 1px solid rgba(255,255,255,0.15);
+  1256→    padding: 10px 14px;
+  1257→    border-radius: 4px;
+  1258→    color: #fff;
+  1259→    font-family: var(--font-body);
+  1260→    font-size: 0.9rem;
+  1261→    outline: none;
+  1262→    flex-grow: 1;
+  1263→    transition: border-color var(--transition-speed);
+  1264→}
+  1265→
+  1266→.subscribe-form input:focus {
+  1267→    border-color: var(--brand-accent);
+  1268→}
+  1269→
+  1270→.subscribe-form .btn {
+  1271→    border-radius: 4px;
+  1272→}
+  1273→
+  1274→.footer-bottom {
+  1275→    max-width: var(--container-width);
+  1276→    margin: 60px auto 0 auto;
+  1277→    padding: 24px 24px 40px 24px;
+  1278→    border-top: 1px solid rgba(255,255,255,0.08);
+  1279→    text-align: center;
+  1280→    font-size: 0.75rem;
+  1281→    color: #6b7280;
+  1282→}
+  1283→
+  1284→/* Slide-out Cart Panel */
+  1285→.cart-overlay {
+  1286→    position: fixed;
+  1287→    top: 0;
+  1288→    left: 0;
+  1289→    width: 100vw;
+  1290→    height: 100vh;
+  1291→    background: rgba(0, 0, 0, 0.5);
+  1292→    z-index: 200;
+  1293→    display: none; /* JS toggles display + opacity */
+  1294→    opacity: 0;
+  1295→    transition: opacity 0.3s ease;
+  1296→}
+  1297→
+  1298→.cart-overlay.active {
+  1299→    display: block;
+  1300→    opacity: 1;
+  1301→}
+  1302→
+  1303→.cart-panel {
+  1304→    position: fixed;
+  1305→    top: 0;
+  1306→    right: -400px;
+  1307→    width: 400px;
+  1308→    height: 100vh;
+  1309→    background-color: var(--bg-white);
+  1310→    z-index: 201;
+  1311→    box-shadow: -5px 0 30px rgba(0,0,0,0.15);
+  1312→    display: flex;
+  1313→    flex-direction: column;
+  1314→    transition: right 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  1315→}
+  1316→
+  1317→/* JS adds class 'open' to slide in the cart */
+  1318→.cart-panel.open,
+  1319→.cart-panel.active {
+  1320→    right: 0;
+  1321→}
+  1322→
+  1323→.cart-header {
+  1324→    padding: 24px;
+  1325→    border-bottom: 1px solid var(--border-color);
+  1326→    display: flex;
+  1327→    justify-content: space-between;
+  1328→    align-items: center;
+  1329→    background-color: var(--brand-primary);
+  1330→    color: #fff;
+  1331→}
+  1332→
+  1333→.cart-header h3 {
+  1334→    font-size: 1.1rem;
+  1335→    font-weight: 700;
+  1336→    text-transform: uppercase;
+  1337→    color: #fff;
+  1338→}
+  1339→
+  1340→.close-btn {
+  1341→    background: none;
+  1342→    border: none;
+  1343→    color: #fff;
+  1344→    font-size: 1.3rem;
+  1345→    cursor: pointer;
+  1346→    transition: color var(--transition-speed);
+  1347→}
+  1348→
+  1349→.close-btn:hover {
+  1350→    color: var(--brand-accent);
+  1351→}
+  1352→
+  1353→.cart-items {
+  1354→    flex-grow: 1;
+  1355→    overflow-y: auto;
+  1356→    padding: 24px;
+  1357→}
+  1358→
+  1359→.cart-item {
+  1360→    display: flex;
+  1361→    gap: 16px;
+  1362→    padding-bottom: 20px;
+  1363→    margin-bottom: 20px;
+  1364→    border-bottom: 1px solid var(--border-color);
+  1365→}
+  1366→
+  1367→.cart-item-img {
+  1368→    width: 70px;
+  1369→    height: 70px;
+  1370→    object-fit: contain;
+  1371→    border: 1px solid var(--border-color);
+  1372→    border-radius: 4px;
+  1373→    padding: 4px;
+  1374→}
+  1375→
+  1376→.cart-item-details {
+  1377→    flex-grow: 1;
+  1378→}
+  1379→
+  1380→.cart-item-title {
+  1381→    font-size: 0.85rem;
+  1382→    font-weight: 700;
+  1383→    line-height: 1.3;
+  1384→    margin-bottom: 6px;
+  1385→    color: var(--text-primary);
+  1386→}
+  1387→
+  1388→.cart-item-price {
+  1389→    font-size: 0.85rem;
+  1390→    font-weight: 700;
+  1391→    color: var(--brand-accent);
+  1392→    margin-bottom: 8px;
+  1393→}
+  1394→
+  1395→.cart-item-qty-wrapper {
+  1396→    display: flex;
+  1397→    align-items: center;
+  1398→    gap: 10px;
+  1399→}
+  1400→
+  1401→.qty-btn {
+  1402→    background: var(--bg-light);
+  1403→    border: 1px solid var(--border-color);
+  1404→    width: 24px;
+  1405→    height: 24px;
+  1406→    display: inline-flex;
+  1407→    align-items: center;
+  1408→    justify-content: center;
+  1409→    border-radius: 3px;
+  1410→    cursor: pointer;
+  1411→    font-size: 0.8rem;
+  1412→    transition: all var(--transition-speed);
+  1413→}
+  1414→
+  1415→.qty-btn:hover {
+  1416→    background-color: var(--brand-primary);
+  1417→    color: #fff;
+  1418→}
+  1419→
+  1420→.qty-val {
+  1421→    font-size: 0.85rem;
+  1422→    font-weight: 600;
+  1423→}
+  1424→
+  1425→.cart-item-remove {
+  1426→    background: none;
+  1427→    border: none;
+  1428→    color: var(--text-muted);
+  1429→    cursor: pointer;
+  1430→    transition: color var(--transition-speed);
+  1431→    padding: 4px;
+  1432→}
+  1433→
+  1434→.cart-item-remove:hover {
+  1435→    color: var(--brand-sale);
+  1436→}
+  1437→
+  1438→.cart-footer {
+  1439→    padding: 24px;
+  1440→    border-top: 1px solid var(--border-color);
+  1441→    background-color: var(--bg-light);
+  1442→}
+  1443→
+  1444→.cart-subtotal {
+  1445→    display: flex;
+  1446→    justify-content: space-between;
+  1447→    font-weight: 800;
+  1448→    font-size: 1.1rem;
+  1449→    margin-bottom: 8px;
+  1450→    color: var(--brand-primary);
+  1451→}
+  1452→
+  1453→.cart-note {
+  1454→    font-size: 0.75rem;
+  1455→    color: var(--text-secondary);
+  1456→    margin-bottom: 20px;
+  1457→    text-align: center;
+  1458→}
+  1459→
+  1460→/* Modals */
+  1461→.modal-overlay {
+  1462→    position: fixed;
+  1463→    top: 0;
+  1464→    left: 0;
+  1465→    width: 100vw;
+  1466→    height: 100vh;
+  1467→    background: rgba(0, 0, 0, 0.6);
+  1468→    z-index: 300;
+  1469→    display: none;
+  1470→    align-items: center;
+  1471→    justify-content: center;
+  1472→    opacity: 0;
+  1473→    transition: opacity 0.3s ease;
+  1474→    padding: 20px;
+  1475→}
+  1476→
+  1477→.modal-overlay.active {
+  1478→    display: flex;
+  1479→    opacity: 1;
+  1480→}
+  1481→
+  1482→.modal-container {
+  1483→    background: var(--bg-white);
+  1484→    max-width: 800px;
+  1485→    width: 100%;
+  1486→    border-radius: 6px;
+  1487→    overflow: hidden;
+  1488→    position: relative;
+  1489→    box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+  1490→    transform: scale(0.9);
+  1491→    transition: transform 0.3s ease;
+  1492→    animation: modalEntrance 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  1493→}
+  1494→
+  1495→@keyframes modalEntrance {
+  1496→    to {
+  1497→        transform: scale(1);
+  1498→    }
+  1499→}
+  1500→
+  1501→.modal-close {
+  1502→    position: absolute;
+  1503→    top: 16px;
+  1504→    right: 16px;
+  1505→    background: rgba(0,0,0,0.05);
+  1506→    border: none;
+  1507→    color: var(--brand-primary);
+  1508→    width: 36px;
+  1509→    height: 36px;
+  1510→    border-radius: 50%;
+  1511→    display: inline-flex;
+  1512→    align-items: center;
+  1513→    justify-content: center;
+  1514→    cursor: pointer;
+  1515→    font-size: 1.1rem;
+  1516→    transition: all var(--transition-speed);
+  1517→    z-index: 10;
+  1518→}
+  1519→
+  1520→.modal-close:hover {
+  1521→    background-color: var(--brand-sale);
+  1522→    color: #fff;
+  1523→}
+  1524→
+  1525→.modal-body {
+  1526→    padding: 40px;
+  1527→}
+  1528→
+  1529→/* Product Detail Modal Specific Styles */
+  1530→.modal-product-detail {
+  1531→    display: grid;
+  1532→    grid-template-columns: 1.1fr 1.3fr;
+  1533→    gap: 40px;
+  1534→}
+  1535→
+  1536→.modal-img-container {
+  1537→    background-color: var(--bg-light);
+  1538→    border: 1px solid var(--border-color);
+  1539→    border-radius: 6px;
+  1540→    padding: 20px;
+  1541→    display: flex;
+  1542→    align-items: center;
+  1543→    justify-content: center;
+  1544→    height: 320px;
+  1545→}
+  1546→
+  1547→.modal-img-container img {
+  1548→    max-width: 100%;
+  1549→    max-height: 280px;
+  1550→    object-fit: contain;
+  1551→}
+  1552→
+  1553→.modal-info-container {
+  1554→    display: flex;
+  1555→    flex-direction: column;
+  1556→}
+  1557→
+  1558→.modal-meta {
+  1559→    font-size: 0.75rem;
+  1560→    color: var(--brand-accent);
+  1561→    font-family: var(--font-heading);
+  1562→    font-weight: 700;
+  1563→    text-transform: uppercase;
+  1564→    letter-spacing: 0.05em;
+  1565→    margin-bottom: 8px;
+  1566→}
+  1567→
+  1568→.modal-title {
+  1569→    font-size: 1.35rem;
+  1570→    font-weight: 800;
+  1571→    line-height: 1.3;
+  1572→    margin-bottom: 12px;
+  1573→    color: var(--brand-primary);
+  1574→}
+  1575→
+  1576→.detail-rating {
+  1577→    margin-bottom: 20px;
+  1578→}
+  1579→
+  1580→.modal-price-wrapper {
+  1581→    margin-bottom: 24px;
+  1582→    padding: 16px 0;
+  1583→    border-top: 1px solid var(--border-color);
+  1584→    border-bottom: 1px solid var(--border-color);
+  1585→}
+  1586→
+  1587→.modal-price-wrapper .current-price {
+  1588→    font-size: 1.6rem;
+  1589→    font-weight: 800;
+  1590→}
+  1591→
+  1592→.modal-description {
+  1593→    font-size: 0.9rem;
+  1594→    color: var(--text-secondary);
+  1595→    margin-bottom: 24px;
+  1596→    line-height: 1.6;
+  1597→}
+  1598→
+  1599→.modal-actions-wrapper {
+  1600→    display: flex;
+  1601→    gap: 16px;
+  1602→    margin-top: auto;
+  1603→}
+  1604→
+  1605→.qty-input-wrapper {
+  1606→    display: flex;
+  1607→    align-items: center;
+  1608→    border: 1px solid var(--border-color);
+  1609→    border-radius: 4px;
+  1610→}
+  1611→
+  1612→.qty-input-wrapper input {
+  1613→    width: 40px;
+  1614→    border: none;
+  1615→    text-align: center;
+  1616→    font-weight: 700;
+  1617→    outline: none;
+  1618→    font-size: 0.9rem;
+  1619→}
+  1620→
+  1621→.qty-input-wrapper button {
+  1622→    background: none;
+  1623→    border: none;
+  1624→    width: 32px;
+  1625→    height: 40px;
+  1626→    cursor: pointer;
+  1627→    font-size: 0.9rem;
+  1628→    font-weight: 700;
+  1629→    transition: background var(--transition-speed);
+  1630→}
+  1631→
+  1632→.qty-input-wrapper button:hover {
+  1633→    background-color: var(--bg-light);
+  1634→}
+  1635→
+  1636→/* Checkout Modal Styling */
+  1637→.checkout-modal-container {
+  1638→    background: var(--bg-white);
+  1639→    max-width: 600px;
+  1640→    width: 100%;
+  1641→    border-radius: 6px;
+  1642→    padding: 40px;
+  1643→    position: relative;
+  1644→    box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+  1645→}
+  1646→
+  1647→.checkout-header {
+  1648→    margin-bottom: 30px;
+  1649→    border-bottom: 1px solid var(--border-color);
+  1650→    padding-bottom: 20px;
+  1651→}
+  1652→
+  1653→.checkout-header h2 {
+  1654→    font-size: 1.5rem;
+  1655→    font-weight: 800;
+  1656→    text-transform: uppercase;
+  1657→}
+  1658→
+  1659→.checkout-header p {
+  1660→    font-size: 0.85rem;
+  1661→    color: var(--text-secondary);
+  1662→}
+  1663→
+  1664→.checkout-form {
+  1665→    display: flex;
+  1666→    flex-direction: column;
+  1667→    gap: 16px;
+  1668→}
+  1669→
+  1670→.form-row {
+  1671→    display: flex;
+  1672→    gap: 16px;
+  1673→}
+  1674→
+  1675→.form-group {
+  1676→    display: flex;
+  1677→    flex-direction: column;
+  1678→    gap: 6px;
+  1679→    flex-grow: 1;
+  1680→}
+  1681→
+  1682→.form-group label {
+  1683→    font-size: 0.75rem;
+  1684→    font-weight: 700;
+  1685→    text-transform: uppercase;
+  1686→    letter-spacing: 0.05em;
+  1687→    color: var(--text-secondary);
+  1688→}
+  1689→
+  1690→.checkout-form input {
+  1691→    padding: 10px 14px;
+  1692→    border: 1px solid var(--border-color);
+  1693→    border-radius: 4px;
+  1694→    font-family: var(--font-body);
+  1695→    font-size: 0.9rem;
+  1696→    outline: none;
+  1697→    transition: border-color var(--transition-speed);
+  1698→}
+  1699→
+  1700→.checkout-form input:focus {
+  1701→    border-color: var(--brand-accent);
+  1702→}
+  1703→
+  1704→.payment-section {
+  1705→    margin-top: 15px;
+  1706→    padding-top: 15px;
+  1707→    border-top: 1px dashed var(--border-color);
+  1708→}
+  1709→
+  1710→.payment-section h3 {
+  1711→    font-size: 0.95rem;
+  1712→    font-weight: 700;
+  1713→    text-transform: uppercase;
+  1714→    margin-bottom: 12px;
+  1715→}
+  1716→
+  1717→.card-input-wrapper {
+  1718→    display: flex;
+  1719→    border: 1px solid var(--border-color);
+  1720→    border-radius: 4px;
+  1721→    padding: 0 10px;
+  1722→    align-items: center;
+  1723→    background: #fff;
+  1724→}
+  1725→
+  1726→.card-input-wrapper:focus-within {
+  1727→    border-color: var(--brand-accent);
+  1728→}
+  1729→
+  1730→.card-icon {
+  1731→    color: var(--text-muted);
+  1732→    margin-right: 8px;
+  1733→}
+  1734→
+  1735→.card-input-wrapper input {
+  1736→    border: none;
+  1737→    padding: 10px 6px;
+  1738→    font-size: 0.9rem;
+  1739→    outline: none;
+  1740→    flex-grow: 1;
+  1741→}
+  1742→
+  1743→.checkout-summary {
+  1744→    background-color: var(--bg-light);
+  1745→    border-radius: 4px;
+  1746→    padding: 20px;
+  1747→    margin-top: 15px;
+  1748→}
+  1749→
+  1750→.summary-line {
+  1751→    display: flex;
+  1752→    justify-content: space-between;
+  1753→    font-size: 0.85rem;
+  1754→    font-weight: 600;
+  1755→    color: var(--text-secondary);
+  1756→    margin-bottom: 8px;
+  1757→}
+  1758→
+  1759→.free-badge {
+  1760→    color: var(--brand-accent);
+  1761→    font-weight: 700;
+  1762→}
+  1763→
+  1764→.total-line {
+  1765→    border-top: 1px solid var(--border-color);
+  1766→    padding-top: 12px;
+  1767→    margin-top: 12px;
+  1768→    margin-bottom: 0;
+  1769→    font-size: 1.1rem;
+  1770→    font-weight: 800;
+  1771→    color: var(--brand-primary);
+  1772→}
+  1773→
+  1774→/* Product Detail Modal Layout (classes used by JS renderProductDetail) */
+  1775→.product-detail-layout {
+  1776→    display: grid;
+  1777→    grid-template-columns: 1fr 1.3fr;
+  1778→    gap: 40px;
+  1779→    min-height: 400px;
+  1780→}
+  1781→
+  1782→.detail-img-wrapper {
+  1783→    background-color: var(--bg-light);
+  1784→    border: 1px solid var(--border-color);
+  1785→    border-radius: 6px;
+  1786→    padding: 24px;
+  1787→    display: flex;
+  1788→    align-items: center;
+  1789→    justify-content: center;
+  1790→    min-height: 320px;
+  1791→}
+  1792→
+  1793→.detail-img-wrapper img {
+  1794→    max-width: 100%;
+  1795→    max-height: 320px;
+  1796→    object-fit: contain;
+  1797→    filter: drop-shadow(0 8px 16px rgba(0,0,0,0.15));
+  1798→}
+  1799→
+  1800→.detail-info {
+  1801→    display: flex;
+  1802→    flex-direction: column;
+  1803→    gap: 0;
+  1804→}
+  1805→
+  1806→.detail-category {
+  1807→    font-size: 0.7rem;
+  1808→    color: var(--brand-accent);
+  1809→    font-family: var(--font-heading);
+  1810→    font-weight: 700;
+  1811→    text-transform: uppercase;
+  1812→    letter-spacing: 0.08em;
+  1813→    margin-bottom: 8px;
+  1814→}
+  1815→
+  1816→.detail-title {
+  1817→    font-size: 1.4rem;
+  1818→    font-weight: 800;
+  1819→    line-height: 1.3;
+  1820→    margin-bottom: 12px;
+  1821→    color: var(--brand-primary);
+  1822→}
+  1823→
+  1824→.detail-rating {
+  1825→    margin-bottom: 16px;
+  1826→}
+  1827→
+  1828→.detail-price-box {
+  1829→    display: flex;
+  1830→    align-items: baseline;
+  1831→    gap: 10px;
+  1832→    padding: 16px 0;
+  1833→    border-top: 1px solid var(--border-color);
+  1834→    border-bottom: 1px solid var(--border-color);
+  1835→    margin-bottom: 16px;
+  1836→}
+  1837→
+  1838→.detail-orig-price {
+  1839→    font-size: 0.95rem;
+  1840→    color: var(--text-muted);
+  1841→    text-decoration: line-through;
+  1842→    font-weight: 500;
+  1843→}
+  1844→
+  1845→.detail-curr-price {
+  1846→    font-size: 1.8rem;
+  1847→    font-weight: 800;
+  1848→    color: var(--brand-primary);
+  1849→}
+  1850→
+  1851→.detail-desc {
+  1852→    font-size: 0.9rem;
+  1853→    color: var(--text-secondary);
+  1854→    line-height: 1.7;
+  1855→    margin-bottom: 24px;
+  1856→    flex-grow: 1;
+  1857→}
+  1858→
+  1859→.detail-action-bar {
+  1860→    display: flex;
+  1861→    gap: 12px;
+  1862→    align-items: center;
+  1863→    margin-top: auto;
+  1864→}
+  1865→
+  1866→.detail-qty {
+  1867→    display: flex;
+  1868→    align-items: center;
+  1869→    gap: 0;
+  1870→    border: 1px solid var(--border-color);
+  1871→    border-radius: 4px;
+  1872→    overflow: hidden;
+  1873→}
+  1874→
+  1875→.detail-qty .qty-btn {
+  1876→    background: var(--bg-light);
+  1877→    border: none;
+  1878→    border-radius: 0;
+  1879→    width: 36px;
+  1880→    height: 40px;
+  1881→    font-size: 0.9rem;
+  1882→    cursor: pointer;
+  1883→    transition: background var(--transition-speed);
+  1884→}
+  1885→
+  1886→.detail-qty .qty-btn:hover {
+  1887→    background: var(--brand-primary);
+  1888→    color: #fff;
+  1889→}
+  1890→
+  1891→.qty-num {
+  1892→    display: inline-flex;
+  1893→    align-items: center;
+  1894→    justify-content: center;
+  1895→    width: 40px;
+  1896→    height: 40px;
+  1897→    font-weight: 700;
+  1898→    font-size: 0.95rem;
+  1899→    color: var(--brand-primary);
+  1900→    border-left: 1px solid var(--border-color);
+  1901→    border-right: 1px solid var(--border-color);
+  1902→}
+  1903→
+  1904→/* Cart Item Actions Row */
+  1905→.cart-item-actions {
+  1906→    display: flex;
+  1907→    align-items: center;
+  1908→    justify-content: space-between;
+  1909→    gap: 8px;
+  1910→}
+  1911→
+  1912→.quantity-control {
+  1913→    display: flex;
+  1914→    align-items: center;
+  1915→    border: 1px solid var(--border-color);
+  1916→    border-radius: 3px;
+  1917→    overflow: hidden;
+  1918→    gap: 0;
+  1919→}
+  1920→
+  1921→.quantity-control .qty-btn {
+  1922→    background: var(--bg-light);
+  1923→    border: none;
+  1924→    border-radius: 0;
+  1925→    width: 28px;
+  1926→    height: 28px;
+  1927→    font-size: 0.75rem;
+  1928→    cursor: pointer;
+  1929→    transition: background var(--transition-speed);
+  1930→    display: flex;
+  1931→    align-items: center;
+  1932→    justify-content: center;
+  1933→}
+  1934→
+  1935→.quantity-control .qty-btn:hover {
+  1936→    background: var(--brand-primary);
+  1937→    color: #fff;
+  1938→}
+  1939→
+  1940→.quantity-control .qty-num {
+  1941→    width: 32px;
+  1942→    height: 28px;
+  1943→    border-left: 1px solid var(--border-color);
+  1944→    border-right: 1px solid var(--border-color);
+  1945→    font-size: 0.8rem;
+  1946→}
+  1947→
+  1948→.item-delete-btn {
+  1949→    background: none;
+  1950→    border: none;
+  1951→    color: var(--text-muted);
+  1952→    cursor: pointer;
+  1953→    padding: 4px 6px;
+  1954→    border-radius: 4px;
+  1955→    transition: all var(--transition-speed);
+  1956→    font-size: 0.9rem;
+  1957→}
+  1958→
+  1959→.item-delete-btn:hover {
+  1960→    color: var(--brand-sale);
+  1961→    background: rgba(203, 32, 39, 0.08);
+  1962→}
+  1963→
+  1964→/* Success Modal */
+  1965→.success-container {
+  1966→    background: var(--bg-white);
+  1967→    max-width: 450px;
+  1968→    width: 100%;
+  1969→    border-radius: 6px;
+  1970→    padding: 50px 40px;
+  1971→    text-align: center;
+  1972→    box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+  1973→}
+  1974→
+  1975→.success-icon {
+  1976→    font-size: 4rem;
+  1977→    color: #10b981;
+  1978→    margin-bottom: 24px;
+  1979→}
+  1980→
+  1981→.success-container h2 {
+  1982→    font-size: 1.5rem;
+  1983→    font-weight: 800;
+  1984→    text-transform: uppercase;
+  1985→    margin-bottom: 12px;
+  1986→}
+  1987→
+  1988→.success-container p {
+  1989→    font-size: 0.9rem;
+  1990→    color: var(--text-secondary);
+  1991→    margin-bottom: 30px;
+  1992→}
+  1993→
+  1994→/* Page Banner Styles — must sit below top-bar (36px) + header (70px) = 106px */
+  1995→.page-banner {
+  1996→    background-color: var(--brand-primary);
+  1997→    background-image: linear-gradient(rgba(14, 37, 44, 0.9), rgba(14, 37, 44, 0.9)), url('images/desktop-wallpaper-ash-ketchum-boy-go-pokemon-pikachu-pokemon-pokemon-boy-2.webp');
+  1998→    background-size: cover;
+  1999→    background-position: center;
+  2000→    color: #fff;
+
+[showing lines 1-2000 of 2809; use offset=2001 with limit to continue reading]

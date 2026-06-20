@@ -1,0 +1,392 @@
+[
+  {
+    "title": "M6a 30th CELEBRATION booster box Japanese Pokemon Card",
+    "price": "0.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/04/M6a-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/m6a-30th-celebration-booster-box-japanese/",
+    "category": "Booster Boxes Pokemon",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_pokemon_booster_boxes.json"
+  },
+  {
+    "title": "Special Card Set Mega Gallade ex Japanese Pokemon Card",
+    "price": "19.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/02/M3-sp-set-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/special-card-set-mega-gallade-ex/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_pokemon_special_set.json"
+  },
+  {
+    "title": "McDonald\u2019s 2025 Promo Pack Japanese Pokemon Card",
+    "price": "",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/08/MC2025-promo-pack-750x750.png.webp",
+    "url": "https://www.fujicardshop.com/product/mcdonalds-happy-meal-2025-promo-pack/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_pokemon_promo.json"
+  },
+  {
+    "title": "OP-17 The World\u2019s Strongest Warriors booster box Japanese ONE PIECE CARD",
+    "price": "",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/05/OP-17-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/op-17-the-worlds-strongest-warrior-booster-box/",
+    "category": "Booster Boxes One Piece",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_booster.json"
+  },
+  {
+    "title": "OP-17 The World\u2019s Strongest Warriors Sealed Case(12 boxes) Japanese ONE PIECE CARD",
+    "price": "0.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/05/OP-17-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/op-17-the-worlds-strongest-warrior-sealed-case/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-16 The Time of Battle Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1516.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/04/OP-16-bb-750x750.webp.webp",
+    "url": "https://www.fujicardshop.com/product/op-16-the-time-of-battle-sealed-case/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-15 Adventure on KAMI\u2019s Island Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1379.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/02/OP-15-bb-750x750.webp.webp",
+    "url": "https://www.fujicardshop.com/product/op-15-adventure-on-kamis-island-sealed-case/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "EB-04 EGGHEAD CRISIS Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1103.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/12/EB-04-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/eb-04-egghead-crisis-sealed-case/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-14 The Azure Sea\u2019s Seven Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1310.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/10/OP-14-bb-750x750.webp.webp",
+    "url": "https://www.fujicardshop.com/product/op-14-the-azure-seas-seven-sealed-case/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "EB-03 Heroines Edition Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1791.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/10/EB-03-bb-750x750.webp.webp",
+    "url": "https://www.fujicardshop.com/product/eb-03-heroines-edition-sealed-case/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-13 Carrying on His Will Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "2480.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/08/OP-13-bb-1-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/op-13-carrying-on-his-will-sealed-case/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "PRB-02 ONE PIECE CARD THE BEST vol.2 Sealed Case (20 boxes) Japanese ONE PIECE CARD",
+    "price": "1585.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/07/PRB-02-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/prb-02-one-piece-card-the-best-vol-2-sealed-case/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-12 Legacy of the Master Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1654.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/05/OP-12-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/op-12-legacy-of-the-master-sealed-case/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-11 A FIST OF DIVINE SPEED Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "2618.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/02/OP-11-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/op-11-a-fist-of-divine-speed-sealed-case/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "EB-02 Anime 25th collection Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "2342.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/01/EB-02-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/eb-02-anime-25th-collection-sealed-case/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-10 ROYAL BLOOD Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1310.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2024/11/OP-10-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/op-10-royal-blood-sealed-case/",
+    "category": "Sealed Case One Piece",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-09 EMPERORS IN THE NEW WORLD Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "2205.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2024/08/op-09-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/op-09-sealed-case/",
+    "category": "Sealed Case One Piece",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "PRB-01 ONE PIECE CARD THE BEST Sealed Case (10 boxes) Japanese ONE PIECE CARD",
+    "price": "1654.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2024/07/PRB-01-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/prb-01-one-piece-card-the-best-premium-booster-jp-sealed-case/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-08 Two Legends Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1310.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2024/05/op08-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/op-08-two-legends-jp-sealed-case-12-boxes/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-07 500 YEARS IN THE FUTURE Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1654.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2024/03/OP-07-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/op-07-500-years-in-the-future-jp-sealed-case-12-boxes/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "EB-01 MEMORIAL COLLECTION Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "1930.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2024/03/EB-01-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/eb-01-memorial-collection-jp-sealed-case-12-boxes/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-06 WINGS OF THE CAPTAIN Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "2067.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2023/12/op06-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/op-06-wings-of-the-captain-jp-sealed-case-12-boxes/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-05 Awakening of the New Era Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "5511.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2023/12/op05-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/op-05-awakening-of-the-new-era-jp-sealed-case-12-boxes/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-04 Kingdoms of Intrigue Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "2480.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2023/12/op04-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/op-04-kingdoms-of-intrigue-jp-sealed-case-12-boxes/",
+    "category": "",
+    "in_stock": true,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-03 PILLARS OF STRENGTH Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "2342.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2023/12/op03-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/op-03-pillars-of-strength-jp-sealed-case-12-boxes/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-02 PARAMOUNT WAR Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "2756.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2023/12/op02-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/op-02-paramount-war-jp-sealed-case-12-boxes/",
+    "category": "",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "OP-01 ROMANCE DAWN Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": "4271.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2023/12/op01-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/op-01-romance-dawn-sealed-case-12-boxes/",
+    "category": "Booster Boxes Pokemon",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_onepiece_sealed.json"
+  },
+  {
+    "title": "Weiss Schwarz Booster Touhou Project Black and White Lotus Land Japanese Trading Card",
+    "price": "44.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/05/ws_thp_td_bp-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/weiss-schwarz-booster-touhou-project/",
+    "category": "Weiss Schwarz",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_weiss.json"
+  },
+  {
+    "title": "UNION ARENA Precious Booster Victory Goddess NIKKE PC02BT booster box Japanese Trading Card",
+    "price": "49.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/02/PC02BT-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/union-arena-precious-booster-victory-goddess-nikke-pc02bt/",
+    "category": "UNION ARENA",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_union_arena.json"
+  },
+  {
+    "title": "Gundam Card Game booster GD03 Steel Requiem Japanese Trading Card",
+    "price": "38.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/02/GD03-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/gundam-card-game-booster-gd03-steel-requiem/",
+    "category": "Gundam Card Game",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_gundam.json"
+  },
+  {
+    "title": "FB09 DUAL EVOLUTION Japanese DRAGON BALL FUSION WORLD Card",
+    "price": "69.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/03/FB09-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world/",
+    "category": "Dragon Ball Fusion World",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_dragonball.json"
+  },
+  {
+    "title": "FB08 SAIYAN\u2019s PRIDE Japanese DRAGON BALL FUSION WORLD Card",
+    "price": "28.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/12/FB08-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/fb08-saiyans-pride/",
+    "category": "Dragon Ball Fusion World",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_dragonball.json"
+  },
+  {
+    "title": "SB02 MANGA BOOSTER 02 Japanese DRAGON BALL FUSION WORLD Card",
+    "price": "62.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/12/SB02-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/sb02-manga-booster-02/",
+    "category": "Dragon Ball Fusion World",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_dragonball.json"
+  },
+  {
+    "title": "FB07 WISH FOR SHENRON Japanese DRAGON BALL FUSION WORLD Card",
+    "price": "30.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/09/FB07-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/fb07-wish-for-shenron/",
+    "category": "Dragon Ball Fusion World",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_dragonball.json"
+  },
+  {
+    "title": "SB01 MANGA BOOSTER 01 Japanese DRAGON BALL FUSION WORLD Card",
+    "price": "62.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/06/SB01-bb-750x750.webp",
+    "url": "https://www.fujicardshop.com/product/sb01-manga-booster-01/",
+    "category": "Dragon Ball Fusion World",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_dragonball.json"
+  },
+  {
+    "title": "Disney Lorcana TCG Japanese Edition Booster THE FIRST CHAPTER : The Beginning of the Story Sealed Case(15 boxes) Japanese Trading Card",
+    "price": "608.00",
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2025/02/Lorcana-01-bb.jpg",
+    "url": "https://www.fujicardshop.com/product/disney-lorcana-tcg-japanese-edition-the-first-chapter-the-beginning-of-the-story-sealed-case15-boxes/",
+    "category": "Disney Lorcana",
+    "in_stock": false,
+    "source": "fujicards",
+    "source_file": "fujicards_lorcana.json"
+  },
+  {
+    "title": "Add to wishlist",
+    "price": "85.00",
+    "image": "https://unitedcardswarehousejapanese.com/wp-content/uploads/2025/10/IMG_6120-400x457.jpeg",
+    "url": "https://unitedcardswarehousejapanese.com/product/pikachu-mcdonalds-2025-japanese-promo-card-020-m-p-factory-sealed/",
+    "category": "",
+    "in_stock": true,
+    "source": "unitedcards",
+    "source_file": "unitedcards_shop.json"
+  },
+  {
+    "title": "ACCESSORIES",
+    "price": "0.00",
+    "image": "https://unitedcardswarehousejapanese.com/wp-content/uploads/2025/06/IMG_2888.png",
+    "url": "https://unitedcardswarehousejapanese.com/product-category/accessories/",
+    "category": "",
+    "in_stock": true,
+    "source": "unitedcards",
+    "source_file": "unitedcards_main.json"
+  },
+  {
+    "title": "POKEMON",
+    "price": "0.00",
+    "image": "https://unitedcardswarehousejapanese.com/wp-content/uploads/2025/06/IMG_2888.png",
+    "url": "https://unitedcardswarehousejapanese.com/product-category/pokemon/",
+    "category": "",
+    "in_stock": true,
+    "source": "unitedcards",
+    "source_file": "unitedcards_main.json"
+  }
+]

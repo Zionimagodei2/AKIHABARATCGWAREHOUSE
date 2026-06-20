@@ -1,0 +1,659 @@
+     1→[
+     2→  {
+     3→    "id": "741",
+     4→    "title": "Pokemon Center Fantastic Flames Elite Trainer Box Pre-Order Confirmed Brand New Sealed",
+     5→    "categories": [
+     6→      "Elite Trainer Box",
+     7→      "ENGLISH POKEMON CARDS"
+     8→    ],
+     9→    "rating": 4.8,
+    10→    "original_price": 230.0,
+    11→    "price": 174.24,
+    12→    "image": "images/Pokemon-Center-Fantastic-Flames-Elite-Trainer-Box-Pre-Order-Confirmed-Brand-New-Sealed-_--265x331.webp",
+    13→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+    14→    "in_stock": true
+    15→  },
+    16→  {
+    17→    "id": "740",
+    18→    "title": "Pokemon Scarlet & Violet – Black Bolt Pokémon Center Elite Trainer Box",
+    19→    "categories": [
+    20→      "Elite Trainer Box",
+    21→      "ENGLISH POKEMON CARDS"
+    22→    ],
+    23→    "rating": 4.88,
+    24→    "original_price": 110.0,
+    25→    "price": 86.24,
+    26→    "image": "images/Pokemon-Scarlet-Violet-_-Black-Bolt-Pokemon-Center-Elite-Trainer-Box--265x331.jpg",
+    27→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+    28→    "in_stock": true
+    29→  },
+    30→  {
+    31→    "id": "739",
+    32→    "title": "Pokémon TCG: 151 Ultra-Premium Collection",
+    33→    "categories": [
+    34→      "Elite Trainer Box",
+    35→      "ENGLISH POKEMON CARDS"
+    36→    ],
+    37→    "rating": 4.71,
+    38→    "original_price": 520.0,
+    39→    "price": 378.4,
+    40→    "image": "images/Pokemon-TCG-151-Ultra-Premium-Collection-265x331.jpg",
+    41→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+    42→    "in_stock": true
+    43→  },
+    44→  {
+    45→    "id": "738",
+    46→    "title": "Pokemon TCG: Obsidian Flames Elite Trainer Box",
+    47→    "categories": [
+    48→      "Elite Trainer Box",
+    49→      "ENGLISH POKEMON CARDS"
+    50→    ],
+    51→    "rating": 5.0,
+    52→    "original_price": 340.0,
+    53→    "price": 272.8,
+    54→    "image": "images/Pokemon-TCG-Obsidian-Flames-Elite-Trainer-Box--265x331.jpg",
+    55→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+    56→    "in_stock": true
+    57→  },
+    58→  {
+    59→    "id": "737",
+    60→    "title": "Pokemon TCG: Paldea Evolved Elite Trainer Box",
+    61→    "categories": [
+    62→      "Elite Trainer Box",
+    63→      "ENGLISH POKEMON CARDS"
+    64→    ],
+    65→    "rating": 4.61,
+    66→    "original_price": 181.0,
+    67→    "price": 114.4,
+    68→    "image": "images/Pokemon-TCG-Paldea-Evolved-Elite-Trainer-Box-265x331.webp",
+    69→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+    70→    "in_stock": true
+    71→  },
+    72→  {
+    73→    "id": "734",
+    74→    "title": "Pokemon TCG: Scarlet & Violet – Destined Rivals Elite Trainer Box",
+    75→    "categories": [
+    76→      "Elite Trainer Box",
+    77→      "ENGLISH POKEMON CARDS"
+    78→    ],
+    79→    "rating": 4.85,
+    80→    "original_price": 348.0,
+    81→    "price": 265.76,
+    82→    "image": "images/Pokemon-TCG-Scarlet-Violet-_-Destined-Rivals-Elite-Trainer-Box-265x331.jpg",
+    83→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+    84→    "in_stock": true
+    85→  },
+    86→  {
+    87→    "id": "733",
+    88→    "title": "Pokémon TCG: Scarlet & Violet 151 Elite Trainer Box",
+    89→    "categories": [
+    90→      "Elite Trainer Box",
+    91→      "ENGLISH POKEMON CARDS"
+    92→    ],
+    93→    "rating": 4.63,
+    94→    "original_price": 392.0,
+    95→    "price": 270.16,
+    96→    "image": "images/Pokemon-TCG-Scarlet-Violet-151-Elite-Trainer-Box-265x331.jpg",
+    97→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+    98→    "in_stock": true
+    99→  },
+   100→  {
+   101→    "id": "728",
+   102→    "title": "Scarlet & Violet-White Flare Pokémon Center Elite Trainer Box",
+   103→    "categories": [
+   104→      "Elite Trainer Box",
+   105→      "ENGLISH POKEMON CARDS"
+   106→    ],
+   107→    "rating": 4.66,
+   108→    "original_price": 82.0,
+   109→    "price": 65.12,
+   110→    "image": "images/Scarlet-Violet-White-Flare-Pokemon-Center-Elite-Trainer-Box--265x331.jpg",
+   111→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   112→    "in_stock": true
+   113→  },
+   114→  {
+   115→    "id": "720",
+   116→    "title": "Pokemon TCG: Paldean Fates Booster Bundle",
+   117→    "categories": [
+   118→      "Booster Boxes",
+   119→      "ENGLISH POKEMON CARDS"
+   120→    ],
+   121→    "rating": 4.0,
+   122→    "original_price": 99.0,
+   123→    "price": 80.96,
+   124→    "image": "images/Pokemon-TCG-Paldean-Fates-Booster-Bundle--265x331.webp",
+   125→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   126→    "in_stock": true
+   127→  },
+   128→  {
+   129→    "id": "718",
+   130→    "title": "Pokemon TCG: Scarlet and Violet – Destined Rivals Booster Box",
+   131→    "categories": [
+   132→      "Booster Boxes",
+   133→      "ENGLISH POKEMON CARDS"
+   134→    ],
+   135→    "rating": 4.65,
+   136→    "original_price": 189.0,
+   137→    "price": 149.6,
+   138→    "image": "images/Pokemon-TCG-Scarlet-and-Violet-_-Destined-Rivals-Booster-Box--265x331.webp",
+   139→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   140→    "in_stock": true
+   141→  },
+   142→  {
+   143→    "id": "714",
+   144→    "title": "Pokémon TCG:151 Booster Bundle – SV2a",
+   145→    "categories": [
+   146→      "Booster Boxes",
+   147→      "ENGLISH POKEMON CARDS"
+   148→    ],
+   149→    "rating": 5.0,
+   150→    "original_price": 120.0,
+   151→    "price": 80.96,
+   152→    "image": "images/Pokemon-TCG-151-Booster-Bundle-_-SV2a--265x331.webp",
+   153→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   154→    "in_stock": true
+   155→  },
+   156→  {
+   157→    "id": "635",
+   158→    "title": "Japanese Eevee Heroes Booster Box – S6a Sealed",
+   159→    "categories": [
+   160→      "Pokemon Booster Box",
+   161→      "POKEMON JAPANESE 🇯🇵"
+   162→    ],
+   163→    "rating": 4.58,
+   164→    "original_price": 350.0,
+   165→    "price": 263.12,
+   166→    "image": "images/Japanese-Eevee-Heroes-Booster-Box-_-S6a-Sealed--265x331.jpg",
+   167→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   168→    "in_stock": true
+   169→  },
+   170→  {
+   171→    "id": "634",
+   172→    "title": "Japanese Pokemon Card Ancient Roar booster box [SV4K]",
+   173→    "categories": [
+   174→      "Pokemon Booster Box",
+   175→      "POKEMON JAPANESE 🇯🇵"
+   176→    ],
+   177→    "rating": 4.5,
+   178→    "original_price": 52.0,
+   179→    "price": 45.76,
+   180→    "image": "images/Japanese-Pokemon-Card-Ancient-Roar-booster-box-SV4K--265x331.jpg",
+   181→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   182→    "in_stock": true
+   183→  },
+   184→  {
+   185→    "id": "633",
+   186→    "title": "Japanese Pokemon Card Cyber Judge Booster Box [SV5M]",
+   187→    "categories": [
+   188→      "Pokemon Booster Box",
+   189→      "POKEMON JAPANESE 🇯🇵"
+   190→    ],
+   191→    "rating": 4.82,
+   192→    "original_price": 60.0,
+   193→    "price": 52.8,
+   194→    "image": "images/Japanese-Pokemon-Card-Cyber-Judge-Booster-Box-SV5M--265x331.webp",
+   195→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   196→    "in_stock": true
+   197→  },
+   198→  {
+   199→    "id": "632",
+   200→    "title": "Japanese Pokémon TCG: Eevee Heroes Elite Trainer Box",
+   201→    "categories": [
+   202→      "Pokemon Booster Box",
+   203→      "POKEMON JAPANESE 🇯🇵"
+   204→    ],
+   205→    "rating": 4.73,
+   206→    "original_price": 420.0,
+   207→    "price": 308.0,
+   208→    "image": "images/Japanese-Pokemon-TCG-Eevee-Heroes-Elite-Trainer-Box--265x331.webp",
+   209→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   210→    "in_stock": true
+   211→  },
+   212→  {
+   213→    "id": "631",
+   214→    "title": "Japanese Premium Trainer Box Mega Brave & Mega Symphonia",
+   215→    "categories": [
+   216→      "Pokemon Booster Box",
+   217→      "POKEMON JAPANESE 🇯🇵"
+   218→    ],
+   219→    "rating": 4.33,
+   220→    "original_price": 99.0,
+   221→    "price": 60.72,
+   222→    "image": "images/Pokemon-MegaBrave_MegaSymphonia-PremiumTrainerBoxMEGA_Japanese-265x331.webp",
+   223→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   224→    "in_stock": true
+   225→  },
+   226→  {
+   227→    "id": "630",
+   228→    "title": "Jet Black Spirit s6K Expansion Pack – Pokemon Card Japanese",
+   229→    "categories": [
+   230→      "Pokemon Booster Box",
+   231→      "POKEMON JAPANESE 🇯🇵"
+   232→    ],
+   233→    "rating": 5.0,
+   234→    "original_price": 75.0,
+   235→    "price": 66.0,
+   236→    "image": "images/Jet-Black-Spirit-s6K-Expansion-Pack-_-Pokemon-Card-Japanese--265x331.webp",
+   237→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   238→    "in_stock": true
+   239→  },
+   240→  {
+   241→    "id": "629",
+   242→    "title": "Journey Together Elite Trainer Box – SV09",
+   243→    "categories": [
+   244→      "Pokemon Booster Box",
+   245→      "POKEMON JAPANESE 🇯🇵"
+   246→    ],
+   247→    "rating": 4.63,
+   248→    "original_price": 94.0,
+   249→    "price": 82.72,
+   250→    "image": "images/Journey-Together-Elite-Trainer-Box-_-SV09--265x331.jpg",
+   251→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   252→    "in_stock": true
+   253→  },
+   254→  {
+   255→    "id": "628",
+   256→    "title": "MetaZoo TCG Base Set Booster Box(2025)",
+   257→    "categories": [
+   258→      "Pokemon Booster Box",
+   259→      "POKEMON JAPANESE 🇯🇵"
+   260→    ],
+   261→    "rating": 4.88,
+   262→    "original_price": 84.0,
+   263→    "price": 73.92,
+   264→    "image": "images/MetaZoo-TCG-Base-Set-Booster-Box2025--265x331.jpg",
+   265→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   266→    "in_stock": true
+   267→  },
+   268→  {
+   269→    "id": "627",
+   270→    "title": "Pokemon 151 Japanese Booster Box: Scarlet & Violet Enhanced Expansion Pack",
+   271→    "categories": [
+   272→      "Pokemon Booster Box",
+   273→      "POKEMON JAPANESE 🇯🇵"
+   274→    ],
+   275→    "rating": 4.57,
+   276→    "original_price": 95.0,
+   277→    "price": 83.6,
+   278→    "image": "images/Pokemon-151-Japanese-Booster-Box-Scarlet-Violet-Enhanced-Expansion-Pack--265x331.webp",
+   279→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   280→    "in_stock": true
+   281→  },
+   282→  {
+   283→    "id": "626",
+   284→    "title": "Pokémon Card Game Scarlet & Violet Expansion Pack",
+   285→    "categories": [
+   286→      "Pokemon Booster Box",
+   287→      "POKEMON JAPANESE 🇯🇵"
+   288→    ],
+   289→    "rating": 4.82,
+   290→    "original_price": 75.0,
+   291→    "price": 66.0,
+   292→    "image": "images/Pokemon-Card-Game-Scarlet-Violet-Expansion-Pack--265x331.webp",
+   293→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   294→    "in_stock": true
+   295→  },
+   296→  {
+   297→    "id": "625",
+   298→    "title": "Pokémon Card Game Scarlet & Violet Expansion Pack – Ancient Roar Box",
+   299→    "categories": [
+   300→      "Pokemon Booster Box",
+   301→      "POKEMON JAPANESE 🇯🇵"
+   302→    ],
+   303→    "rating": 5.0,
+   304→    "original_price": 50.0,
+   305→    "price": 44.0,
+   306→    "image": "images/Pokemon-Card-Game-Scarlet-Violet-Expansion-Pack-_-Ancient-Roar-Box--265x331.jpg",
+   307→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   308→    "in_stock": true
+   309→  },
+   310→  {
+   311→    "id": "624",
+   312→    "title": "Pokémon Card Game Scarlet & Violet Expansion Pack – Battle Partners SV9",
+   313→    "categories": [
+   314→      "Pokemon Booster Box",
+   315→      "POKEMON JAPANESE 🇯🇵"
+   316→    ],
+   317→    "rating": 4.82,
+   318→    "original_price": 72.0,
+   319→    "price": 63.36,
+   320→    "image": "images/Pokemon-Card-Game-Scarlet-Violet-Expansion-Pack-_-Battle-Partners-SV9--265x331.webp",
+   321→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   322→    "in_stock": true
+   323→  },
+   324→  {
+   325→    "id": "623",
+   326→    "title": "Pokémon Card Game Scarlet & Violet Expansion Pack – Crimson Haze Box",
+   327→    "categories": [
+   328→      "Pokemon Booster Box",
+   329→      "POKEMON JAPANESE 🇯🇵"
+   330→    ],
+   331→    "rating": 5.0,
+   332→    "original_price": 53.0,
+   333→    "price": 46.64,
+   334→    "image": "images/Pokemon-Card-Game-Scarlet-Violet-Expansion-Pack-_-Crimson-Haze-Box--265x331.jpg",
+   335→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   336→    "in_stock": true
+   337→  },
+   338→  {
+   339→    "id": "622",
+   340→    "title": "Pokémon Card Game Scarlet & Violet Expansion Pack – Future Flash Box",
+   341→    "categories": [
+   342→      "Pokemon Booster Box",
+   343→      "POKEMON JAPANESE 🇯🇵"
+   344→    ],
+   345→    "rating": 4.61,
+   346→    "original_price": 58.0,
+   347→    "price": 51.04,
+   348→    "image": "images/Pokemon-Card-Game-Scarlet-Violet-Expansion-Pack-_-Future-Flash-Box--265x331.webp",
+   349→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   350→    "in_stock": true
+   351→  },
+   352→  {
+   353→    "id": "621",
+   354→    "title": "Pokémon Card Game Scarlet & Violet Expansion Pack – Mask of Change",
+   355→    "categories": [
+   356→      "Pokemon Booster Box",
+   357→      "POKEMON JAPANESE 🇯🇵"
+   358→    ],
+   359→    "rating": 5.0,
+   360→    "original_price": 56.0,
+   361→    "price": 49.28,
+   362→    "image": "images/Pokemon-Card-Game-Scarlet-Violet-Expansion-Pack-_-Mask-of-Change--265x331.webp",
+   363→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   364→    "in_stock": true
+   365→  },
+   366→  {
+   367→    "id": "1004",
+   368→    "title": "One Piece CARD GAME OP-14 BOOSTER BOX OP-14 japanese SEALED CASE",
+   369→    "categories": [
+   370→      "POKEMON JAPANESE 🇯🇵",
+   371→      "Sealed Case Pokemon"
+   372→    ],
+   373→    "rating": 5.0,
+   374→    "original_price": 1500.0,
+   375→    "price": 1144.0,
+   376→    "image": "images/s-l1600-265x331.jpg",
+   377→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   378→    "in_stock": true
+   379→  },
+   380→  {
+   381→    "id": "642",
+   382→    "title": "SV4K Ancient Roar Sealed Case (12 boxes) Japanese Pokemon Card",
+   383→    "categories": [
+   384→      "POKEMON JAPANESE 🇯🇵",
+   385→      "Sealed Case Pokemon"
+   386→    ],
+   387→    "rating": 4.65,
+   388→    "original_price": 682.0,
+   389→    "price": 485.76,
+   390→    "image": "images/sv4k-bb-265x331.jpg",
+   391→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   392→    "in_stock": true
+   393→  },
+   394→  {
+   395→    "id": "641",
+   396→    "title": "SV5M Cyber Judge Sealed Case (12 boxes) Japanese Pokemon Card",
+   397→    "categories": [
+   398→      "POKEMON JAPANESE 🇯🇵",
+   399→      "Sealed Case Pokemon"
+   400→    ],
+   401→    "rating": 5.0,
+   402→    "original_price": 752.0,
+   403→    "price": 397.76,
+   404→    "image": "images/SV5M-Cyber-Judge-Sealed-Case-12-boxes-Japanese-Pokemon-Card--265x331.jpg",
+   405→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   406→    "in_stock": true
+   407→  },
+   408→  {
+   409→    "id": "640",
+   410→    "title": "SV6 Mask of Change Sealed Case (12 boxes) Japanese Pokemon Card",
+   411→    "categories": [
+   412→      "POKEMON JAPANESE 🇯🇵",
+   413→      "Sealed Case Pokemon"
+   414→    ],
+   415→    "rating": 4.84,
+   416→    "original_price": 986.0,
+   417→    "price": 485.76,
+   418→    "image": "images/SV6-Mask-of-Change-Sealed-Case-12-boxes-Japanese-Pokemon-Card--265x331.jpg",
+   419→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   420→    "in_stock": true
+   421→  },
+   422→  {
+   423→    "id": "639",
+   424→    "title": "SV6a Night Wanderer Sealed Case (12 boxes) Japanese Pokemon Card",
+   425→    "categories": [
+   426→      "POKEMON JAPANESE 🇯🇵",
+   427→      "Sealed Case Pokemon"
+   428→    ],
+   429→    "rating": 4.63,
+   430→    "original_price": 910.0,
+   431→    "price": 447.92,
+   432→    "image": "images/SV6a-Night-Wanderer-Sealed-Case-12-boxes-Japanese-Pokemon-Card--265x331.jpg",
+   433→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   434→    "in_stock": true
+   435→  },
+   436→  {
+   437→    "id": "638",
+   438→    "title": "SV7 Pokémon TCG: Stellar Miracle Booster Box (SV6a – Japanese)",
+   439→    "categories": [
+   440→      "POKEMON JAPANESE 🇯🇵",
+   441→      "Sealed Case Pokemon"
+   442→    ],
+   443→    "rating": 4.67,
+   444→    "original_price": 950.0,
+   445→    "price": 475.2,
+   446→    "image": "images/SV7-Pokemon-TCG-Stellar-Miracle-Booster-Box-SV6a-_-Japanese--265x331.webp",
+   447→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   448→    "in_stock": true
+   449→  },
+   450→  {
+   451→    "id": "637",
+   452→    "title": "SV8 Super Electric Breaker (12 boxes) Japanese Pokemon Card",
+   453→    "categories": [
+   454→      "POKEMON JAPANESE 🇯🇵",
+   455→      "Sealed Case Pokemon"
+   456→    ],
+   457→    "rating": 4.85,
+   458→    "original_price": 100.0,
+   459→    "price": 88.0,
+   460→    "image": "images/SV8-Super-Electric-Breaker-12-boxes-Japanese-Pokemon-Card--265x331.jpg",
+   461→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   462→    "in_stock": true
+   463→  },
+   464→  {
+   465→    "id": "636",
+   466→    "title": "SV8a Terastal Festival ex Sealed Case (20 boxes) Japanese Pokemon Card",
+   467→    "categories": [
+   468→      "POKEMON JAPANESE 🇯🇵",
+   469→      "Sealed Case Pokemon"
+   470→    ],
+   471→    "rating": 5.0,
+   472→    "original_price": 60.0,
+   473→    "price": 52.8,
+   474→    "image": "images/SV8a-Terastal-Festival-ex-Sealed-Case-20-boxes-Japanese-Pokemon-Card--265x331.jpg",
+   475→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   476→    "in_stock": true
+   477→  },
+   478→  {
+   479→    "id": "995",
+   480→    "title": "One Piece Card Game OP-12 Legacy Of The Master Booster Box",
+   481→    "categories": [
+   482→      "Booster Boxes",
+   483→      "ONE PIECE CARD"
+   484→    ],
+   485→    "rating": 5.0,
+   486→    "original_price": 1600.0,
+   487→    "price": 1408.0,
+   488→    "image": "images/0241306_600-265x331.webp",
+   489→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   490→    "in_stock": true
+   491→  },
+   492→  {
+   493→    "id": "992",
+   494→    "title": "One Piece Card Game OP-13 Carrying On His Will Booster Box",
+   495→    "categories": [
+   496→      "Booster Boxes"
+   497→    ],
+   498→    "rating": 5.0,
+   499→    "original_price": 5900.0,
+   500→    "price": 4752.0,
+   501→    "image": "images/Copy_of_Website_Image_Template9999-7775__51912-265x331.webp",
+   502→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   503→    "in_stock": true
+   504→  },
+   505→  {
+   506→    "id": "996",
+   507→    "title": "One Piece CCG OP-13 Carrying on His Will OP13 Japanese Booster Box",
+   508→    "categories": [
+   509→      "Booster Boxes",
+   510→      "ONE PIECE CARD"
+   511→    ],
+   512→    "rating": 5.0,
+   513→    "original_price": 100.0,
+   514→    "price": 88.0,
+   515→    "image": "images/img_item02_413x_3x.progressive-265x331.webp",
+   516→    "description": "Imported directly from Japan. Sealed booster box of authentic Japanese Pokémon TCG cards. Includes exclusive Japanese artwork and highly sought-after rare collectibles.",
+   517→    "in_stock": true
+   518→  },
+   519→  {
+   520→    "id": "725",
+   521→    "title": "Pokemon Shrouded Fable English Booster Bundle Box",
+   522→    "categories": [
+   523→      "Booster Boxes",
+   524→      "ENGLISH POKEMON CARDS"
+   525→    ],
+   526→    "rating": 4.7,
+   527→    "original_price": 50.0,
+   528→    "price": 42.24,
+   529→    "image": "images/Pokemon-Shrouded-Fable-English-Booster-Bundle-Box--265x331.webp",
+   530→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   531→    "in_stock": true
+   532→  },
+   533→  {
+   534→    "id": "724",
+   535→    "title": "Pokemon TCG: Crown Zenith Booster Packs",
+   536→    "categories": [
+   537→      "Booster Boxes",
+   538→      "ENGLISH POKEMON CARDS"
+   539→    ],
+   540→    "rating": 5.0,
+   541→    "original_price": 210.0,
+   542→    "price": 169.84,
+   543→    "image": "images/Pokemon-TCG-Crown-Zenith-Booster-Packs--265x331.jpg",
+   544→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   545→    "in_stock": true
+   546→  },
+   547→  {
+   548→    "id": "723",
+   549→    "title": "Pokemon TCG: Lost Origin Booster Box SWSH11",
+   550→    "categories": [
+   551→      "Booster Boxes",
+   552→      "ENGLISH POKEMON CARDS"
+   553→    ],
+   554→    "rating": 4.5,
+   555→    "original_price": 205.0,
+   556→    "price": 141.68,
+   557→    "image": "images/Pokemon-TCG-Lost-Origin-Booster-Box-SWSH11--265x331.jpg",
+   558→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   559→    "in_stock": true
+   560→  },
+   561→  {
+   562→    "id": "726",
+   563→    "title": "Pokemon TCG: Lost Origin Booster Bundle",
+   564→    "categories": [
+   565→      "Booster Boxes",
+   566→      "ENGLISH POKEMON CARDS"
+   567→    ],
+   568→    "rating": 4.64,
+   569→    "original_price": 122.0,
+   570→    "price": 90.64,
+   571→    "image": "images/Pokemon-PCG-Lost-Origin-Booster-Bundle--265x331.jpg",
+   572→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   573→    "in_stock": true
+   574→  },
+   575→  {
+   576→    "id": "1009",
+   577→    "title": "Pokémon TCG: Mega Evolution—Phantasmal Flames Booster Bundle (6 Booster Packs)",
+   578→    "categories": [
+   579→      "Booster Boxes",
+   580→      "ENGLISH POKEMON CARDS"
+   581→    ],
+   582→    "rating": 5.0,
+   583→    "original_price": 70.0,
+   584→    "price": 61.6,
+   585→    "image": "images/81JzvmUV-L._AC_SL1500_-1-265x331.jpg",
+   586→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   587→    "in_stock": true
+   588→  },
+   589→  {
+   590→    "id": "722",
+   591→    "title": "Pokemon TCG: Obsidian Flames Booster Box SV03",
+   592→    "categories": [
+   593→      "Booster Boxes",
+   594→      "ENGLISH POKEMON CARDS"
+   595→    ],
+   596→    "rating": 4.73,
+   597→    "original_price": 234.0,
+   598→    "price": 188.32,
+   599→    "image": "images/Pokemon-TCG-Obsidian-Flames-Booster-Box-SV03-1-1-265x331.webp",
+   600→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   601→    "in_stock": true
+   602→  },
+   603→  {
+   604→    "id": "721",
+   605→    "title": "Pokemon TCG: Paldea Evolved Booster Box SV02",
+   606→    "categories": [
+   607→      "Booster Boxes",
+   608→      "ENGLISH POKEMON CARDS"
+   609→    ],
+   610→    "rating": 4.68,
+   611→    "original_price": 410.0,
+   612→    "price": 335.28,
+   613→    "image": "images/Pokemon-TCG-Paldea-Evolved-Booster-Box-SV02--265x331.webp",
+   614→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   615→    "in_stock": true
+   616→  },
+   617→  {
+   618→    "id": "719",
+   619→    "title": "Pokemon TCG: Paradox Rift Booster Box SV04",
+   620→    "categories": [
+   621→      "Booster Boxes",
+   622→      "ENGLISH POKEMON CARDS"
+   623→    ],
+   624→    "rating": 4.51,
+   625→    "original_price": 242.0,
+   626→    "price": 182.16,
+   627→    "image": "images/Pokemon-TCG-Paradox-Rift-Booster-Box-SV04-265x331.jpg",
+   628→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   629→    "in_stock": true
+   630→  },
+   631→  {
+   632→    "id": "717",
+   633→    "title": "Pokemon TCG: Steller Crown Booster Box – SV07",
+   634→    "categories": [
+   635→      "Booster Boxes",
+   636→      "ENGLISH POKEMON CARDS"
+   637→    ],
+   638→    "rating": 4.68,
+   639→    "original_price": 299.0,
+   640→    "price": 247.28,
+   641→    "image": "images/Pokemon-TCG-Steller-Crown-Booster-Box-_-SV07--265x331.jpg",
+   642→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   643→    "in_stock": true
+   644→  },
+   645→  {
+   646→    "id": "716",
+   647→    "title": "Pokemon TCG: Surging Sparks Booster Box – SV08",
+   648→    "categories": [
+   649→      "Booster Boxes",
+   650→      "ENGLISH POKEMON CARDS"
+   651→    ],
+   652→    "rating": 4.69,
+   653→    "original_price": 375.0,
+   654→    "price": 317.68,
+   655→    "image": "images/Pokemon-TCG-Surging-Sparks-Booster-Box-_-SV08--265x331.webp",
+   656→    "description": "Authentic Pokémon TCG product. Brand new and factory sealed. Enhance your collection with rare cards and exclusive artwork from this premium set.",
+   657→    "in_stock": true
+   658→  }
+   659→]

@@ -1,37 +1,48 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Inter, Montserrat } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
+  display: "swap",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const montserrat = Montserrat({
+  variable: "--font-montserrat",
   subsets: ["latin"],
+  display: "swap",
+  weight: ["400", "500", "600", "700", "800", "900"],
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Akihabara TCG Warehouse — Premium Japanese & English TCG Cards",
+  description:
+    "Your premier source for authentic Japanese Pokémon TCG, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam Card Game & Disney Lorcana. Direct from Japan, 100% Authentic, Ships Worldwide.",
+  keywords: [
+    "Akihabara",
+    "TCG",
+    "Pokemon Cards",
+    "Japanese Pokemon",
+    "One Piece Cards",
+    "Dragon Ball Cards",
+    "Weiss Schwarz",
+    "Union Arena",
+    "Gundam Card Game",
+    "Disney Lorcana",
+    "Booster Box",
+    "Elite Trainer Box",
+  ],
+  authors: [{ name: "Akihabara TCG Warehouse" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/favicon.ico",
   },
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "Akihabara TCG Warehouse",
+    description:
+      "Premium Japanese & English TCG Cards — Direct from Japan, 100% Authentic",
     type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
   },
 };
 
@@ -43,7 +54,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
+        className={`${inter.variable} ${montserrat.variable} antialiased bg-background text-foreground`}
       >
         {children}
         <Toaster />

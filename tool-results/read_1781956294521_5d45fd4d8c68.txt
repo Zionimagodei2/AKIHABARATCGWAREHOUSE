@@ -1,0 +1,964 @@
+     1→// Akihabara TCG Warehouse - App Logic
+     2→
+     3→// App State
+     4→let products = [];
+     5→let cart = [];
+     6→let currentCategory = 'all';
+     7→let searchQuery = '';
+     8→let currentSort = 'default';
+     9→let currentSlide = 0;
+    10→let slideInterval;
+    11→let currentCurrency = 'USD';
+    12→
+    13→// Currency Exchange Rates (Base is USD)
+    14→const exchangeRates = {
+    15→    USD: 1.0,
+    16→    JPY: 155.0,
+    17→    EUR: 0.92,
+    18→    GBP: 0.78,
+    19→    AUD: 1.50,
+    20→    CAD: 1.37
+    21→};
+    22→
+    23→const currencySymbols = {
+    24→    USD: '$',
+    25→    JPY: '¥',
+    26→    EUR: '€',
+    27→    GBP: '£',
+    28→    AUD: '$',
+    29→    CAD: '$'
+    30→};
+    31→
+    32→// DOM Elements
+    33→const productsGrid = document.getElementById('products-grid');
+    34→const filterTabs = document.getElementById('filter-tabs');
+    35→const sortSelect = document.getElementById('sort-select');
+    36→const searchToggle = document.getElementById('search-toggle-btn');
+    37→const searchContainer = document.getElementById('search-container');
+    38→const searchInput = document.getElementById('search-input');
+    39→const searchClearBtn = document.getElementById('search-clear-btn');
+    40→
+    41→// Cart DOM Elements
+    42→const cartToggle = document.getElementById('cart-toggle-btn');
+    43→const cartOverlay = document.getElementById('cart-overlay');
+    44→const cartPanel = document.getElementById('cart-panel');
+    45→const cartCloseBtn = document.getElementById('cart-close-btn');
+    46→const cartItemsContainer = document.getElementById('cart-items-container');
+    47→const cartCountBubble = document.getElementById('cart-count');
+    48→const cartPanelCount = document.getElementById('cart-panel-count');
+    49→const cartSubtotalAmount = document.getElementById('cart-subtotal-amount');
+    50→const checkoutBtn = document.getElementById('checkout-btn');
+    51→
+    52→// Product Modal DOM Elements
+    53→const productModal = document.getElementById('product-modal');
+    54→const modalCloseBtn = document.getElementById('modal-close-btn');
+    55→const modalBodyContent = document.getElementById('modal-body-content');
+    56→
+    57→// Checkout DOM Elements
+    58→const checkoutModal = document.getElementById('checkout-modal');
+    59→const checkoutCloseBtn = document.getElementById('checkout-close-btn');
+    60→const checkoutForm = document.getElementById('checkout-form');
+    61→const summarySubtotal = document.getElementById('summary-subtotal');
+    62→const summaryTotal = document.getElementById('summary-total');
+    63→
+    64→// Success DOM Elements
+    65→const successModal = document.getElementById('success-modal');
+    66→const successCloseBtn = document.getElementById('success-close-btn');
+    67→
+    68→// Login Modal DOM Elements
+    69→const loginModal = document.getElementById('login-modal');
+    70→const loginNavBtn = document.getElementById('login-nav-btn');
+    71→const loginCloseBtn = document.getElementById('login-close-btn');
+    72→const signinForm = document.getElementById('signin-form');
+    73→const signupForm = document.getElementById('signup-form');
+    74→
+    75→// Initialize App
+    76→document.addEventListener('DOMContentLoaded', () => {
+    77→    loadCurrencyFromStorage();
+    78→    loadProducts();
+    79→    loadCartFromStorage();
+    80→    setupEventListeners();
+    81→    initSlideshow();
+    82→    handleHashRouting();
+    83→    updateUserHeader();
+    84→});
+    85→
+    86→// Listen to Hash Changes
+    87→window.addEventListener('hashchange', handleHashRouting);
+    88→
+    89→// Price Formatter Helper
+    90→function formatPrice(priceUSD) {
+    91→    const rate = exchangeRates[currentCurrency] || 1.0;
+    92→    const converted = priceUSD * rate;
+    93→    const symbol = currencySymbols[currentCurrency] || '$';
+    94→    
+    95→    if (currentCurrency === 'JPY') {
+    96→        return symbol + Math.round(converted).toLocaleString();
+    97→    }
+    98→    return symbol + converted.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    99→}
+   100→
+   101→// Load Selected Currency from localStorage
+   102→function loadCurrencyFromStorage() {
+   103→    const stored = localStorage.getItem('akihabara_currency');
+   104→    if (stored && exchangeRates[stored]) {
+   105→        currentCurrency = stored;
+   106→    }
+   107→    const currencyDropdowns = document.querySelectorAll('.currency-dropdown');
+   108→    currencyDropdowns.forEach(sel => {
+   109→        sel.value = currentCurrency;
+   110→    });
+   111→}
+   112→
+   113→// Hash Routing System for Category Filtering and Smooth Scrolling
+   114→function handleHashRouting() {
+   115→    const hash = window.location.hash;
+   116→    if (!hash) return;
+   117→
+   118→    // Check if we are on the homepage (where productsGrid exists)
+   119→    if (!productsGrid) return;
+   120→
+   121→    // Map URL hashes to product category filters
+   122→    const hashToCategoryMap = {
+   123→        '#shop': 'all',
+   124→        '#pokemon': 'pokemon',
+   125→        '#namepiece': 'namepiece'
+   126→    };
+   127→
+   128→    if (hashToCategoryMap[hash] !== undefined) {
+   129→        const category = hashToCategoryMap[hash];
+   130→        currentCategory = category;
+   131→
+   132→        // Update active class in filter tabs
+   133→        if (filterTabs) {
+   134→            document.querySelectorAll('.filter-tab').forEach(tab => {
+   135→                const tabCat = tab.getAttribute('data-category');
+   136→                if (tabCat === category) {
+   137→                    tab.classList.add('active');
+   138→                } else {
+   139→                    tab.classList.remove('active');
+   140→                }
+   141→            });
+   142→        }
+   143→
+   144→        // Re-render matching products
+   145→        renderProducts();
+   146→
+   147→        // Scroll smoothly to shop section
+   148→        setTimeout(() => {
+   149→            const shopSection = document.getElementById('shop');
+   150→            if (shopSection) {
+   151→                shopSection.scrollIntoView({ behavior: 'smooth' });
+   152→            }
+   153→        }, 100);
+   154→    } else if (hash === '#about') {
+   155→        // Scroll smoothly to guarantee section
+   156→        setTimeout(() => {
+   157→            const aboutSection = document.getElementById('about');
+   158→            if (aboutSection) {
+   159→                aboutSection.scrollIntoView({ behavior: 'smooth' });
+   160→            }
+   161→        }, 100);
+   162→    }
+   163→}
+   164→
+   165→// Fetch & Load Products
+   166→async function loadProducts() {
+   167→    try {
+   168→        const response = await fetch('products.json?v=' + Date.now());
+   169→        products = await response.json();
+   170→        if (productsGrid) {
+   171→            renderProducts();
+   172→        }
+   173→    } catch (error) {
+   174→        console.error('Error loading products:', error);
+   175→        if (productsGrid) {
+   176→            productsGrid.innerHTML = `
+   177→                <div class="loader" style="color: #ef4444;">
+   178→                    <i class="fa-solid fa-triangle-exclamation"></i> Failed to load Akihabara TCG Warehouse vault. Please try reloading the page.
+   179→                </div>
+   180→            `;
+   181→        }
+   182→    }
+   183→}
+   184→
+   185→// Render Products Grid
+   186→function renderProducts() {
+   187→    if (!productsGrid) return;
+   188→    productsGrid.innerHTML = '';
+   189→    
+   190→    // 1. Filter Products
+   191→    let filtered = products.filter(product => {
+   192→        // Category Filter
+   193→        let matchesCategory = true;
+   194→        if (currentCategory === 'pokemon') {
+   195→            matchesCategory = product.title.toLowerCase().includes('pokemon') || 
+   196→                              product.categories.some(cat => cat.toLowerCase().includes('pokemon'));
+   197→        } else if (currentCategory === 'namepiece') {
+   198→            matchesCategory = product.title.toLowerCase().includes('one piece') || 
+   199→                              product.title.toLowerCase().includes('onepiece') ||
+   200→                              product.title.toLowerCase().includes('ccg op') ||
+   201→                              product.title.toLowerCase().includes('op-13') ||
+   202→                              product.title.toLowerCase().includes('namepiece') ||
+   203→                              product.categories.some(cat => 
+   204→                                  cat.toLowerCase().includes('one piece') || 
+   205→                                  cat.toLowerCase().includes('namepiece') ||
+   206→                                  cat.toLowerCase().includes('one piece card')
+   207→                              );
+   208→        }
+   209→            
+   210→        // Search Filter
+   211→        const matchesSearch = product.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+   212→            product.categories.some(cat => cat.toLowerCase().includes(searchQuery.toLowerCase()));
+   213→            
+   214→        return matchesCategory && matchesSearch;
+   215→    });
+   216→
+   217→    // 2. Sort Products
+   218→    if (currentSort === 'price-low') {
+   219→        filtered.sort((a, b) => a.price - b.price);
+   220→    } else if (currentSort === 'price-high') {
+   221→        filtered.sort((a, b) => b.price - a.price);
+   222→    } else if (currentSort === 'rating') {
+   223→        filtered.sort((a, b) => b.rating - a.rating);
+   224→    }
+   225→
+   226→    if (filtered.length === 0) {
+   227→        productsGrid.innerHTML = `
+   228→            <div class="loader">
+   229→                <i class="fa-solid fa-magnifying-glass"></i> No products found matching your search or filter criteria.
+   230→            </div>
+   231→        `;
+   232→        return;
+   233→    }
+   234→
+   235→    // 3. Render HTML
+   236→    filtered.forEach(product => {
+   237→        const isSale = product.original_price > product.price;
+   238→        const isJp = product.categories.some(cat => cat.toLowerCase().includes('japanese') || cat.toLowerCase().includes('jp'));
+   239→        
+   240→        // Generate Star Rating HTML
+   241→        let starsHtml = '';
+   242→        const roundedRating = Math.round(product.rating * 2) / 2;
+   243→        for (let i = 1; i <= 5; i++) {
+   244→            if (i <= roundedRating) {
+   245→                starsHtml += '<i class="fa-solid fa-star"></i>';
+   246→            } else if (i - 0.5 === roundedRating) {
+   247→                starsHtml += '<i class="fa-solid fa-star-half-stroke"></i>';
+   248→            } else {
+   249→                starsHtml += '<i class="fa-regular fa-star"></i>';
+   250→            }
+   251→        }
+   252→
+   253→        const priceText = formatPrice(product.price);
+   254→        const origPriceText = isSale ? formatPrice(product.original_price) : '';
+   255→
+   256→        const card = document.createElement('div');
+   257→        card.className = 'product-card';
+   258→        card.innerHTML = `
+   259→            <div class="product-img-wrapper">
+   260→                <div class="card-badge-container">
+   261→                    ${isSale ? '<span class="sale-badge">Sale!</span>' : ''}
+   262→                    ${isJp ? '<span class="jp-badge">🇯🇵 JP</span>' : ''}
+   263→                </div>
+   264→                <img src="${product.image}" alt="${product.title}" class="product-img" loading="lazy">
+   265→                <button class="product-quick-view" data-id="${product.id}">
+   266→                    <i class="fa-solid fa-eye"></i> Quick View
+   267→                </button>
+   268→            </div>
+   269→            <div class="product-info">
+   270→                <div class="product-meta">${product.categories[0] || 'Pokémon TCG'}</div>
+   271→                <h3 class="product-title" title="${product.title}">${product.title}</h3>
+   272→                <div class="product-rating">
+   273→                    ${starsHtml}
+   274→                    <span class="rating-count">(${product.rating.toFixed(2)})</span>
+   275→                </div>
+   276→                <div class="product-footer">
+   277→                    <div class="product-price-wrapper">
+   278→                        ${isSale ? `<span class="original-price">${origPriceText}</span>` : ''}
+   279→                        <span class="current-price">${priceText}</span>
+   280→                    </div>
+   281→                    <button class="add-to-cart-btn" data-id="${product.id}" aria-label="Add to cart">
+   282→                        <i class="fa-solid fa-plus"></i>
+   283→                    </button>
+   284→                </div>
+   285→            </div>
+   286→        `;
+   287→        productsGrid.appendChild(card);
+   288→    });
+   289→
+   290→    // Rebind product clicks
+   291→    bindProductCardEvents();
+   292→}
+   293→
+   294→// Bind event listeners for dynamically rendered product cards
+   295→function bindProductCardEvents() {
+   296→    // Quick View Buttons
+   297→    document.querySelectorAll('.product-quick-view').forEach(btn => {
+   298→        btn.addEventListener('click', (e) => {
+   299→            const id = e.currentTarget.getAttribute('data-id');
+   300→            openProductDetailModal(id);
+   301→        });
+   302→    });
+   303→
+   304→    // Add to Cart Buttons
+   305→    document.querySelectorAll('.add-to-cart-btn').forEach(btn => {
+   306→        btn.addEventListener('click', (e) => {
+   307→            e.stopPropagation();
+   308→            const id = e.currentTarget.getAttribute('data-id');
+   309→            addToCart(id, 1);
+   310→            openCartPanel();
+   311→        });
+   312→    });
+   313→}
+   314→
+   315→// Setup Event Listeners
+   316→function setupEventListeners() {
+   317→    // Currency Switcher Dropdown Listener
+   318→    document.querySelectorAll('.currency-dropdown').forEach(dropdown => {
+   319→        dropdown.addEventListener('change', (e) => {
+   320→            currentCurrency = e.target.value;
+   321→            localStorage.setItem('akihabara_currency', currentCurrency);
+   322→            // Sync all currency dropdown selects on the page
+   323→            document.querySelectorAll('.currency-dropdown').forEach(sel => {
+   324→                sel.value = currentCurrency;
+   325→            });
+   326→            // Re-render displays
+   327→            if (productsGrid) renderProducts();
+   328→            renderCart();
+   329→            updateCartBubbles();
+   330→        });
+   331→    });
+   332→
+   333→    // Category Tabs
+   334→    if (filterTabs) {
+   335→        filterTabs.addEventListener('click', (e) => {
+   336→            if (e.target.classList.contains('filter-tab')) {
+   337→                document.querySelectorAll('.filter-tab').forEach(tab => tab.classList.remove('active'));
+   338→                e.target.classList.add('active');
+   339→                currentCategory = e.target.getAttribute('data-category');
+   340→                renderProducts();
+   341→            }
+   342→        });
+   343→    }
+   344→
+   345→    // Sorting Dropdown
+   346→    if (sortSelect) {
+   347→        sortSelect.addEventListener('change', (e) => {
+   348→            currentSort = e.target.value;
+   349→            renderProducts();
+   350→        });
+   351→    }
+   352→
+   353→    // Search Toggle
+   354→    if (searchToggle && searchContainer && searchInput) {
+   355→        searchToggle.addEventListener('click', () => {
+   356→            if (searchContainer.style.display === 'block') {
+   357→                searchContainer.style.display = 'none';
+   358→            } else {
+   359→                searchContainer.style.display = 'block';
+   360→                searchInput.focus();
+   361→            }
+   362→        });
+   363→    }
+   364→
+   365→    // Search Input Field
+   366→    if (searchInput && searchClearBtn) {
+   367→        searchInput.addEventListener('input', (e) => {
+   368→            searchQuery = e.target.value;
+   369→            if (searchQuery) {
+   370→                searchClearBtn.style.display = 'block';
+   371→            } else {
+   372→                searchClearBtn.style.display = 'none';
+   373→            }
+   374→            renderProducts();
+   375→        });
+   376→    }
+   377→
+   378→    // Search Clear Button
+   379→    if (searchClearBtn && searchInput) {
+   380→        searchClearBtn.addEventListener('click', () => {
+   381→            searchInput.value = '';
+   382→            searchQuery = '';
+   383→            searchClearBtn.style.display = 'none';
+   384→            renderProducts();
+   385→        });
+   386→    }
+   387→
+   388→    // Logo click to reset
+   389→    const logoBtn = document.getElementById('logo-btn');
+   390→    if (logoBtn) {
+   391→        logoBtn.addEventListener('click', (e) => {
+   392→            if (productsGrid) {
+   393→                e.preventDefault();
+   394→                currentCategory = 'all';
+   395→                searchQuery = '';
+   396→                currentSort = 'default';
+   397→                if (searchInput) {
+   398→                    searchInput.value = '';
+   399→                }
+   400→                if (searchClearBtn) {
+   401→                    searchClearBtn.style.display = 'none';
+   402→                }
+   403→                document.querySelectorAll('.filter-tab').forEach(tab => tab.classList.remove('active'));
+   404→                const allTab = document.querySelector('.filter-tab[data-category="all"]');
+   405→                if (allTab) {
+   406→                    allTab.classList.add('active');
+   407→                }
+   408→                if (sortSelect) {
+   409→                    sortSelect.value = 'default';
+   410→                }
+   411→                renderProducts();
+   412→                window.scrollTo({ top: 0, behavior: 'smooth' });
+   413→                history.pushState("", document.title, window.location.pathname + window.location.search);
+   414→            }
+   415→        });
+   416→    }
+   417→
+   418→    // Login/Register Modal Listeners
+   419→    if (loginNavBtn) {
+   420→        loginNavBtn.addEventListener('click', (e) => {
+   421→            // Only trigger modal if not logged in (logout has a separate target/action handled in click propagation)
+   422→            if (e.target.id === 'logout-btn') {
+   423→                e.preventDefault();
+   424→                localStorage.removeItem('akihabara_user');
+   425→                updateUserHeader();
+   426→                return;
+   427→            }
+   428→            e.preventDefault();
+   429→            if (loginModal) {
+   430→                loginModal.style.display = 'flex';
+   431→                setTimeout(() => {
+   432→                    loginModal.style.opacity = '1';
+   433→                }, 10);
+   434→            }
+   435→        });
+   436→    }
+   437→
+   438→    if (loginCloseBtn) {
+   439→        loginCloseBtn.addEventListener('click', closeLoginModal);
+   440→    }
+   441→    if (loginModal) {
+   442→        loginModal.addEventListener('click', (e) => {
+   443→            if (e.target === loginModal) closeLoginModal();
+   444→        });
+   445→    }
+   446→
+   447→    // Login Tabs Toggle
+   448→    document.querySelectorAll('.login-tab-btn').forEach(btn => {
+   449→        btn.addEventListener('click', (e) => {
+   450→            document.querySelectorAll('.login-tab-btn').forEach(b => b.classList.remove('active'));
+   451→            document.querySelectorAll('.login-form-panel').forEach(p => p.classList.remove('active'));
+   452→            e.target.classList.add('active');
+   453→            const tabId = e.target.getAttribute('data-tab');
+   454→            document.getElementById(tabId + '-form').classList.add('active');
+   455→        });
+   456→    });
+   457→
+   458→    // Signin/Signup Submissions
+   459→    if (signinForm) {
+   460→        signinForm.addEventListener('submit', (e) => {
+   461→            e.preventDefault();
+   462→            const usernameInput = document.getElementById('signin-user').value.trim();
+   463→            if (usernameInput) {
+   464→                localStorage.setItem('akihabara_user', usernameInput);
+   465→                closeLoginModal();
+   466→                updateUserHeader();
+   467→            }
+   468→        });
+   469→    }
+   470→
+   471→    if (signupForm) {
+   472→        signupForm.addEventListener('submit', (e) => {
+   473→            e.preventDefault();
+   474→            const usernameInput = document.getElementById('signup-user').value.trim();
+   475→            if (usernameInput) {
+   476→                localStorage.setItem('akihabara_user', usernameInput);
+   477→                closeLoginModal();
+   478→                updateUserHeader();
+   479→            }
+   480→        });
+   481→    }
+   482→
+   483→    // Cart Panel Open/Close
+   484→    if (cartToggle) cartToggle.addEventListener('click', openCartPanel);
+   485→    if (cartCloseBtn) cartCloseBtn.addEventListener('click', closeCartPanel);
+   486→    if (cartOverlay) cartOverlay.addEventListener('click', closeCartPanel);
+   487→
+   488→    // Modal Close
+   489→    if (modalCloseBtn) modalCloseBtn.addEventListener('click', closeProductDetailModal);
+   490→    if (productModal) {
+   491→        productModal.addEventListener('click', (e) => {
+   492→            if (e.target === productModal) closeProductDetailModal();
+   493→        });
+   494→    }
+   495→
+   496→    // Checkout Modal Open/Close
+   497→    if (checkoutBtn) {
+   498→        checkoutBtn.addEventListener('click', () => {
+   499→            if (cart.length === 0) return;
+   500→            closeCartPanel();
+   501→            openCheckoutModal();
+   502→        });
+   503→    }
+   504→    if (checkoutCloseBtn) checkoutCloseBtn.addEventListener('click', closeCheckoutModal);
+   505→    if (checkoutModal) {
+   506→        checkoutModal.addEventListener('click', (e) => {
+   507→            if (e.target === checkoutModal) closeCheckoutModal();
+   508→        });
+   509→    }
+   510→
+   511→    // Checkout Form Submit
+   512→    if (checkoutForm) {
+   513→        checkoutForm.addEventListener('submit', (e) => {
+   514→            e.preventDefault();
+   515→            processCheckout();
+   516→        });
+   517→    }
+   518→
+   519→    // Success Modal Close
+   520→    if (successCloseBtn) successCloseBtn.addEventListener('click', closeSuccessModal);
+   521→    if (successModal) {
+   522→        successModal.addEventListener('click', (e) => {
+   523→            if (e.target === successModal) closeSuccessModal();
+   524→        });
+   525→    }
+   526→
+   527→    // Footer filter mapping
+   528→    document.querySelectorAll('.foot-filter').forEach(link => {
+   529→        link.addEventListener('click', (e) => {
+   530→            const cat = e.currentTarget.getAttribute('data-filter');
+   531→            if (filterTabs) {
+   532→                e.preventDefault();
+   533→                document.querySelectorAll('.filter-tab').forEach(tab => {
+   534→                    if (tab.getAttribute('data-category') === cat) {
+   535→                        tab.click();
+   536→                    }
+   537→                });
+   538→                const shopSection = document.getElementById('shop');
+   539→                if (shopSection) {
+   540→                    shopSection.scrollIntoView({ behavior: 'smooth' });
+   541→                }
+   542→            }
+   543→        });
+   544→    });
+   545→}
+   546→
+   547→// Close Login Modal
+   548→function closeLoginModal() {
+   549→    if (!loginModal) return;
+   550→    loginModal.style.opacity = '0';
+   551→    setTimeout(() => {
+   552→        loginModal.style.display = 'none';
+   553→        // Reset inputs
+   554→        if (signinForm) signinForm.reset();
+   555→        if (signupForm) signupForm.reset();
+   556→    }, 300);
+   557→}
+   558→
+   559→// Update login state in the header nav
+   560→function updateUserHeader() {
+   561→    const loggedUser = localStorage.getItem('akihabara_user');
+   562→    if (!loginNavBtn) return;
+   563→    if (loggedUser) {
+   564→        loginNavBtn.innerHTML = `<i class="fa-regular fa-user"></i> Welcome, ${loggedUser} | <a href="#" id="logout-btn" style="text-decoration: underline; color: inherit; font-weight: inherit;">Logout</a>`;
+   565→        loginNavBtn.classList.add('logged-in');
+   566→    } else {
+   567→        loginNavBtn.innerHTML = `<i class="fa-regular fa-user"></i> Login / Register`;
+   568→        loginNavBtn.classList.remove('logged-in');
+   569→    }
+   570→}
+   571→
+   572→// Open Product Detail Modal
+   573→function openProductDetailModal(id) {
+   574→    if (!productModal || !modalBodyContent) return;
+   575→    const product = products.find(p => p.id === id);
+   576→    if (!product) return;
+   577→
+   578→    const isSale = product.original_price > product.price;
+   579→    
+   580→    // Generate Rating Stars HTML
+   581→    let starsHtml = '';
+   582→    const roundedRating = Math.round(product.rating * 2) / 2;
+   583→    for (let i = 1; i <= 5; i++) {
+   584→        if (i <= roundedRating) {
+   585→            starsHtml += '<i class="fa-solid fa-star"></i>';
+   586→        } else if (i - 0.5 === roundedRating) {
+   587→            starsHtml += '<i class="fa-solid fa-star-half-stroke"></i>';
+   588→        } else {
+   589→            starsHtml += '<i class="fa-regular fa-star"></i>';
+   590→        }
+   591→    }
+   592→
+   593→    const priceText = formatPrice(product.price);
+   594→    const origPriceText = isSale ? formatPrice(product.original_price) : '';
+   595→
+   596→    modalBodyContent.innerHTML = `
+   597→        <div class="product-detail-layout">
+   598→            <div class="detail-img-wrapper">
+   599→                <img src="${product.image}" alt="${product.title}">
+   600→            </div>
+   601→            <div class="detail-info">
+   602→                <div class="detail-category">${product.categories.join(' / ')}</div>
+   603→                <h2 class="detail-title">${product.title}</h2>
+   604→                <div class="product-rating detail-rating">
+   605→                    ${starsHtml}
+   606→                    <span class="rating-count">(${product.rating.toFixed(2)} rating)</span>
+   607→                </div>
+   608→                <div class="detail-price-box">
+   609→                    ${isSale ? `<span class="detail-orig-price">${origPriceText}</span>` : ''}
+   610→                    <span class="detail-curr-price">${priceText}</span>
+   611→                </div>
+   612→                <p class="detail-desc">${product.description}</p>
+   613→                <div class="detail-action-bar">
+   614→                    <div class="detail-qty">
+   615→                        <button class="qty-btn" id="modal-qty-minus"><i class="fa-solid fa-minus"></i></button>
+   616→                        <span class="qty-num" id="modal-qty-num">1</span>
+   617→                        <button class="qty-btn" id="modal-qty-plus"><i class="fa-solid fa-plus"></i></button>
+   618→                    </div>
+   619→                    <button class="btn btn-primary" id="modal-add-to-cart-btn" style="flex-grow: 1;">
+   620→                        <i class="fa-solid fa-bag-shopping"></i> Add to Cart
+   621→                    </button>
+   622→                </div>
+   623→            </div>
+   624→        </div>
+   625→    `;
+   626→
+   627→    // Modal Qty Logic
+   628→    let modalQty = 1;
+   629→    const modalQtyNum = document.getElementById('modal-qty-num');
+   630→    
+   631→    document.getElementById('modal-qty-minus').addEventListener('click', () => {
+   632→        if (modalQty > 1) {
+   633→            modalQty--;
+   634→            modalQtyNum.textContent = modalQty;
+   635→        }
+   636→    });
+   637→    document.getElementById('modal-qty-plus').addEventListener('click', () => {
+   638→        modalQty++;
+   639→        modalQtyNum.textContent = modalQty;
+   640→    });
+   641→
+   642→    // Modal Add To Cart
+   643→    document.getElementById('modal-add-to-cart-btn').addEventListener('click', () => {
+   644→        addToCart(product.id, modalQty);
+   645→        closeProductDetailModal();
+   646→        openCartPanel();
+   647→    });
+   648→
+   649→    // Display Modal
+   650→    productModal.style.display = 'flex';
+   651→    setTimeout(() => {
+   652→        productModal.style.opacity = '1';
+   653→    }, 10);
+   654→}
+   655→
+   656→function closeProductDetailModal() {
+   657→    if (!productModal) return;
+   658→    productModal.style.opacity = '0';
+   659→    setTimeout(() => {
+   660→        productModal.style.display = 'none';
+   661→    }, 300);
+   662→}
+   663→
+   664→// Cart System Operations
+   665→function openCartPanel() {
+   666→    if (!cartPanel || !cartOverlay) return;
+   667→    cartPanel.classList.add('open');
+   668→    cartOverlay.style.display = 'block';
+   669→    setTimeout(() => {
+   670→        cartOverlay.style.opacity = '1';
+   671→    }, 10);
+   672→    renderCart();
+   673→}
+   674→
+   675→// Close Cart Panel
+   676→function closeCartPanel() {
+   677→    if (!cartPanel || !cartOverlay) return;
+   678→    cartPanel.classList.remove('open');
+   679→    cartOverlay.style.opacity = '0';
+   680→    setTimeout(() => {
+   681→        cartOverlay.style.display = 'none';
+   682→    }, 400);
+   683→}
+   684→
+   685→function addToCart(productId, quantity) {
+   686→    const product = products.find(p => p.id === productId);
+   687→    if (!product) return;
+   688→
+   689→    const existingItem = cart.find(item => item.product.id === productId);
+   690→    if (existingItem) {
+   691→        existingItem.quantity += quantity;
+   692→    } else {
+   693→        cart.push({ product, quantity });
+   694→    }
+   695→
+   696→    saveCartToStorage();
+   697→    updateCartBubbles();
+   698→}
+   699→
+   700→function updateCartQuantity(productId, newQty) {
+   701→    const item = cart.find(item => item.product.id === productId);
+   702→    if (item) {
+   703→        item.quantity = newQty;
+   704→        if (item.quantity <= 0) {
+   705→            removeFromCart(productId);
+   706→            return;
+   707→        }
+   708→    }
+   709→    saveCartToStorage();
+   710→    updateCartBubbles();
+   711→    renderCart();
+   712→}
+   713→
+   714→function removeFromCart(productId) {
+   715→    cart = cart.filter(item => item.product.id !== productId);
+   716→    saveCartToStorage();
+   717→    updateCartBubbles();
+   718→    renderCart();
+   719→}
+   720→
+   721→function renderCart() {
+   722→    if (!cartItemsContainer) return;
+   723→    cartItemsContainer.innerHTML = '';
+   724→    
+   725→    if (cart.length === 0) {
+   726→        cartItemsContainer.innerHTML = `
+   727→            <div class="cart-empty">
+   728→                <i class="fa-solid fa-bag-shopping"></i>
+   729→                <p>Your shopping cart is empty</p>
+   730→                <button class="btn btn-secondary" style="margin-top: 20px;" onclick="closeCartPanel()">Continue Browsing</button>
+   731→            </div>
+   732→        `;
+   733→        if (cartSubtotalAmount) cartSubtotalAmount.textContent = formatPrice(0);
+   734→        return;
+   735→    }
+   736→
+   737→    let subtotal = 0;
+   738→    cart.forEach(item => {
+   739→        const itemTotal = item.product.price * item.quantity;
+   740→        subtotal += itemTotal;
+   741→
+   742→        const cartItemEl = document.createElement('div');
+   743→        cartItemEl.className = 'cart-item';
+   744→        const formattedItemPrice = formatPrice(item.product.price);
+   745→        cartItemEl.innerHTML = `
+   746→            <img src="${item.product.image}" alt="${item.product.title}" class="cart-item-img">
+   747→            <div class="cart-item-details">
+   748→                <h4 class="cart-item-title">${item.product.title}</h4>
+   749→                <div class="cart-item-price">${formattedItemPrice}</div>
+   750→                <div class="cart-item-actions">
+   751→                    <div class="quantity-control">
+   752→                        <button class="qty-btn cart-qty-minus" data-id="${item.product.id}"><i class="fa-solid fa-minus"></i></button>
+   753→                        <span class="qty-num">${item.quantity}</span>
+   754→                        <button class="qty-btn cart-qty-plus" data-id="${item.product.id}"><i class="fa-solid fa-plus"></i></button>
+   755→                    </div>
+   756→                    <button class="item-delete-btn" data-id="${item.product.id}">
+   757→                        <i class="fa-regular fa-trash-can"></i>
+   758→                    </button>
+   759→                </div>
+   760→            </div>
+   761→        `;
+   762→        cartItemsContainer.appendChild(cartItemEl);
+   763→    });
+   764→
+   765→    if (cartSubtotalAmount) cartSubtotalAmount.textContent = formatPrice(subtotal);
+   766→
+   767→    // Bind Cart listeners
+   768→    document.querySelectorAll('.cart-qty-minus').forEach(btn => {
+   769→        btn.addEventListener('click', (e) => {
+   770→            const id = e.currentTarget.getAttribute('data-id');
+   771→            const item = cart.find(item => item.product.id === id);
+   772→            if (item) updateCartQuantity(id, item.quantity - 1);
+   773→        });
+   774→    });
+   775→
+   776→    document.querySelectorAll('.cart-qty-plus').forEach(btn => {
+   777→        btn.addEventListener('click', (e) => {
+   778→            const id = e.currentTarget.getAttribute('data-id');
+   779→            const item = cart.find(item => item.product.id === id);
+   780→            if (item) updateCartQuantity(id, item.quantity + 1);
+   781→        });
+   782→    });
+   783→
+   784→    document.querySelectorAll('.item-delete-btn').forEach(btn => {
+   785→        btn.addEventListener('click', (e) => {
+   786→            const id = e.currentTarget.getAttribute('data-id');
+   787→            removeFromCart(id);
+   788→        });
+   789→    });
+   790→}
+   791→
+   792→function updateCartBubbles() {
+   793→    const totalItems = cart.reduce((acc, item) => acc + item.quantity, 0);
+   794→    if (cartCountBubble) {
+   795→        cartCountBubble.textContent = totalItems;
+   796→        // Trigger pop animation
+   797→        cartCountBubble.classList.remove('pop');
+   798→        void cartCountBubble.offsetWidth; // reflow to restart animation
+   799→        cartCountBubble.classList.add('pop');
+   800→    }
+   801→    if (cartPanelCount) cartPanelCount.textContent = totalItems;
+   802→}
+   803→
+   804→function saveCartToStorage() {
+   805→    localStorage.setItem('akihabara_tcg_cart', JSON.stringify(cart));
+   806→}
+   807→
+   808→function loadCartFromStorage() {
+   809→    const stored = localStorage.getItem('akihabara_tcg_cart');
+   810→    if (stored) {
+   811→        try {
+   812→            cart = JSON.parse(stored);
+   813→            updateCartBubbles();
+   814→        } catch (e) {
+   815→            console.error('Error parsing stored cart:', e);
+   816→            cart = [];
+   817→        }
+   818→    }
+   819→}
+   820→
+   821→// Checkout Modal Flow
+   822→function openCheckoutModal() {
+   823→    if (!checkoutModal || !summarySubtotal || !summaryTotal) return;
+   824→    let subtotal = cart.reduce((acc, item) => acc + (item.product.price * item.quantity), 0);
+   825→    summarySubtotal.textContent = formatPrice(subtotal);
+   826→    summaryTotal.textContent = formatPrice(subtotal);
+   827→
+   828→    checkoutModal.style.display = 'flex';
+   829→    setTimeout(() => {
+   830→        checkoutModal.style.opacity = '1';
+   831→    }, 10);
+   832→}
+   833→
+   834→// Close Checkout Modal
+   835→function closeCheckoutModal() {
+   836→    if (!checkoutModal) return;
+   837→    checkoutModal.style.opacity = '0';
+   838→    setTimeout(() => {
+   839→        checkoutModal.style.display = 'none';
+   840→    }, 300);
+   841→}
+   842→
+   843→function processCheckout() {
+   844→    closeCheckoutModal();
+   845→    
+   846→    // Clear Cart
+   847→    cart = [];
+   848→    saveCartToStorage();
+   849→    updateCartBubbles();
+   850→
+   851→    // Show Success Modal
+   852→    openSuccessModal();
+   853→}
+   854→
+   855→// Success Modal
+   856→function openSuccessModal() {
+   857→    if (!successModal) return;
+   858→    successModal.style.display = 'flex';
+   859→    setTimeout(() => {
+   860→        successModal.style.opacity = '1';
+   861→    }, 10);
+   862→}
+   863→
+   864→function closeSuccessModal() {
+   865→    if (!successModal) return;
+   866→    successModal.style.opacity = '0';
+   867→    setTimeout(() => {
+   868→        successModal.style.display = 'none';
+   869→    }, 300);
+   870→}
+   871→
+   872→// Slideshow Implementation
+   873→function initSlideshow() {
+   874→    const slides = document.querySelectorAll('.hero-slide');
+   875→    const dots = document.querySelectorAll('.slide-dot');
+   876→    const prevBtn = document.getElementById('slide-prev');
+   877→    const nextBtn = document.getElementById('slide-next');
+   878→    
+   879→    if (!slides.length) return;
+   880→
+   881→    function showSlide(index) {
+   882→        // Remove active class from slides and dots
+   883→        slides.forEach(slide => slide.classList.remove('active'));
+   884→        dots.forEach(dot => dot.classList.remove('active'));
+   885→        
+   886→        // Add active class to new slide and dot
+   887→        slides[index].classList.add('active');
+   888→        dots[index].classList.add('active');
+   889→        currentSlide = index;
+   890→    }
+   891→
+   892→    function nextSlide() {
+   893→        const nextIndex = (currentSlide + 1) % slides.length;
+   894→        showSlide(nextIndex);
+   895→    }
+   896→
+   897→    function prevSlide() {
+   898→        const prevIndex = (currentSlide - 1 + slides.length) % slides.length;
+   899→        showSlide(prevIndex);
+   900→    }
+   901→
+   902→    function startSlideshow() {
+   903→        clearInterval(slideInterval);
+   904→        slideInterval = setInterval(nextSlide, 6000); // cycle slides every 6 seconds
+   905→    }
+   906→
+   907→    function resetSlideshow() {
+   908→        startSlideshow();
+   909→    }
+   910→
+   911→    // Prev / Next button listeners
+   912→    if (prevBtn) {
+   913→        prevBtn.addEventListener('click', () => {
+   914→            prevSlide();
+   915→            resetSlideshow();
+   916→        });
+   917→    }
+   918→
+   919→    if (nextBtn) {
+   920→        nextBtn.addEventListener('click', () => {
+   921→            nextSlide();
+   922→            resetSlideshow();
+   923→        });
+   924→    }
+   925→
+   926→    // Dot indicator click listeners
+   927→    dots.forEach(dot => {
+   928→        dot.addEventListener('click', (e) => {
+   929→            const index = parseInt(e.target.getAttribute('data-index'));
+   930→            showSlide(index);
+   931→            resetSlideshow();
+   932→        });
+   933→    });
+   934→
+   935→    // Start auto cycle
+   936→    startSlideshow();
+   937→}
+   938→
+   939→// Global Category Filter helper for slide call-to-actions
+   940→window.setFilter = function(category) {
+   941→    currentCategory = category;
+   942→    
+   943→    // Update active state in tabs
+   944→    const tabs = document.querySelectorAll('.filter-tab');
+   945→    if (tabs.length) {
+   946→        tabs.forEach(tab => {
+   947→            const dataCat = tab.getAttribute('data-category');
+   948→            if (dataCat === category) {
+   949→                tab.classList.add('active');
+   950→            } else {
+   951→                tab.classList.remove('active');
+   952→            }
+   953→        });
+   954→    }
+   955→    
+   956→    // Scroll smoothly to shop section
+   957→    const shopSection = document.getElementById('shop');
+   958→    if (shopSection) {
+   959→        shopSection.scrollIntoView({ behavior: 'smooth' });
+   960→    }
+   961→    
+   962→    renderProducts();
+   963→};
+   964→
