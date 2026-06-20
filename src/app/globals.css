@@ -158,6 +158,20 @@
   animation: marquee 30s linear infinite;
 }
 
+/* Warehouse marquee - slower, smoother */
+@keyframes marquee-slow {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee-slow {
+  animation: marquee-slow 25s linear infinite;
+}
+
 /* Product card hover zoom */
 .product-card-image {
   transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);

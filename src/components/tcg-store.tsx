@@ -873,6 +873,32 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
         </div>
       </section>
 
+      {/* Our Warehouse */}
+      <section className="bg-white py-10 border-b border-gray-100">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-6">
+            <p className="text-[11px] font-bold text-[#13aff0] tracking-[0.2em] uppercase mb-2">Direct from Japan</p>
+            <h2 className="text-xl sm:text-2xl font-bold font-[family-name:var(--font-montserrat)] text-[#0e252c]">
+              Our Warehouse
+            </h2>
+          </div>
+        </div>
+        <div className="overflow-hidden relative">
+          <div className="animate-marquee-slow flex gap-6 whitespace-nowrap py-2">
+            {[1, 2, 3, 1, 2, 3].map((num, i) => (
+              <div key={i} className="shrink-0 w-[340px] sm:w-[440px] lg:w-[540px] rounded-xl overflow-hidden shadow-sm border border-gray-100">
+                <img
+                  src={`/images/warehouse-${num}.png`}
+                  alt={`Akihabara TCG Warehouse - Shipment ${num}`}
+                  className="w-full h-auto object-cover block"
+                  loading="eager"
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Trust Badges */}
       <section className="bg-white border-b border-gray-100">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
@@ -978,16 +1004,16 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* About Section */}
-      <section id="about" className="bg-[#0e252c] text-white py-16 mt-8">
+      <section id="about" className="bg-black text-white py-16 mt-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <p className="text-[11px] font-bold text-[#13aff0] tracking-[0.2em] uppercase mb-4">
+            <p className="text-[11px] font-bold text-gray-400 tracking-[0.2em] uppercase mb-4">
               Trusted Worldwide
             </p>
             <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] mb-4">
               Why Choose Akihabara TCG Warehouse
             </h2>
-            <p className="text-gray-400 max-w-2xl mx-auto text-[14px] leading-relaxed">
+            <p className="text-gray-500 max-w-2xl mx-auto text-[14px] leading-relaxed">
               Your premier source for authentic Japanese Pokémon Trading Card Game products. Whether you're a seasoned collector, a competitive player, or running a card business, we've got you covered.
             </p>
           </div>
@@ -1001,11 +1027,11 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               { icon: Star, title: "Our Guarantee", desc: "We strictly avoid counterfeits and resealed packs — your trust is our top priority." },
             ].map((item) => (
               <div key={item.title} className="bg-white/5 border border-white/10 rounded-xl p-6 hover:bg-white/8 transition-colors duration-300">
-                <div className="w-11 h-11 rounded-lg bg-[#13aff0]/15 flex items-center justify-center mb-4">
-                  <item.icon className="size-5 text-[#13aff0]" />
+                <div className="w-11 h-11 rounded-lg bg-white/10 flex items-center justify-center mb-4">
+                  <item.icon className="size-5 text-white" />
                 </div>
                 <h3 className="font-semibold text-[15px] mb-2">{item.title}</h3>
-                <p className="text-gray-400 text-[13px] leading-relaxed">{item.desc}</p>
+                <p className="text-gray-500 text-[13px] leading-relaxed">{item.desc}</p>
               </div>
             ))}
           </div>
@@ -1021,8 +1047,8 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 { title: "Bulk & Wholesale", desc: "Perfect for retailers and resellers" },
               ].map((item) => (
                 <div key={item.title} className="text-center p-4">
-                  <h4 className="font-semibold text-[#13aff0] text-[14px] mb-1">{item.title}</h4>
-                  <p className="text-[12px] text-gray-400">{item.desc}</p>
+                  <h4 className="font-semibold text-white text-[14px] mb-1">{item.title}</h4>
+                  <p className="text-[12px] text-gray-500">{item.desc}</p>
                 </div>
               ))}
             </div>
@@ -1594,20 +1620,12 @@ function ProductCard({
     >
       <div className="relative aspect-[4/5] bg-gray-50 overflow-hidden" onClick={() => onOpen(product)}>
         <ProductImg src={product.image} alt={product.title} fill className="object-contain p-2 group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" />
-        <div className="absolute top-2 left-2 flex flex-col gap-1.5">
-          {product.in_stock === false && (
-            <Badge className="bg-gray-800 text-white border-0 text-[10px] font-bold px-2 py-0.5">
-              Out of Stock
-            </Badge>
-          )}
-        </div>
         <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/50 to-transparent p-3 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
           <Button
             className="w-full bg-white text-[#0e252c] hover:bg-gray-100 text-[12px] font-semibold"
-            disabled={product.in_stock === false}
             onClick={(e) => { e.stopPropagation(); onAddToCart(product); }}
           >
-            {product.in_stock !== false ? "Add to Cart" : "Sold Out"}
+            Add to Cart
           </Button>
         </div>
       </div>
@@ -1696,9 +1714,9 @@ function ProductDetailModal({
         </div>
 
         <div className="flex items-center gap-2 mb-4">
-          <div className={`w-2.5 h-2.5 rounded-full ${product.in_stock !== false ? "bg-green-500" : "bg-gray-400"}`} />
-          <span className={`text-[13px] font-medium ${product.in_stock !== false ? "text-green-600" : "text-gray-500"}`}>
-            {product.in_stock !== false ? "In Stock" : "Out of Stock"}
+          <div className="w-2.5 h-2.5 rounded-full bg-green-500" />
+          <span className="text-[13px] font-medium text-green-600">
+            In Stock
           </span>
         </div>
 
@@ -1720,9 +1738,9 @@ function ProductDetailModal({
             </div>
           </div>
 
-          <Button className="w-full bg-[#0e252c] hover:bg-[#162f39] text-white font-semibold h-11 text-[14px]" disabled={product.in_stock === false} onClick={handleAdd}>
+          <Button className="w-full bg-[#0e252c] hover:bg-[#162f39] text-white font-semibold h-11 text-[14px]" onClick={handleAdd}>
             <ShoppingCart className="size-4 mr-2" />
-            {product.in_stock !== false ? "Add to Cart" : "Out of Stock"}
+            Add to Cart
           </Button>
 
           <div className="flex items-center justify-center gap-4 pt-2">

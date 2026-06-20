@@ -1,0 +1,836 @@
+- generic
+  - StaticText "Free Shipping on Orders Over $150"
+  - StaticText "Direct from Japan — 100% Authentic Sealed Products"
+  - StaticText "Ships Worldwide — Secure Packaging Guaranteed"
+  - StaticText "Trusted by Thousands of Collectors Worldwide"
+  - StaticText "Guaranteed Authenticity on Every Item We Sell"
+  - StaticText "Free Shipping on Orders Over $150"
+  - StaticText "Direct from Japan — 100% Authentic Sealed Products"
+  - StaticText "Ships Worldwide — Secure Packaging Guaranteed"
+  - StaticText "Trusted by Thousands of Collectors Worldwide"
+  - StaticText "Guaranteed Authenticity on Every Item We Sell"
+  - banner
+    - button "AKIHABARA TCG WAREHOUSE" [ref=e2]
+      - heading "AKIHABARA" [level=1, ref=e13]
+      - paragraph
+    - navigation
+      - button "Shop" [ref=e14]
+      - button "About" [ref=e15]
+      - button "Shipping" [ref=e16]
+      - button "FAQ" [ref=e17]
+      - button "Contact" [ref=e18]
+    - button "Sign In" [ref=e3]
+      - image
+      - StaticText "Sign In"
+    - textbox "Search cards..." [ref=e19]
+    - combobox [expanded=false, ref=e4]: USD $
+      - generic [ref=e20] clickable [onclick]
+    - button "Open shopping cart" [ref=e5]
+  - main
+    - generic
+      - generic
+        - heading "Japanese Pokémon TCG" [level=2, ref=e652]
+        - button "Shop Now" [ref=e653]
+      - button "Previous slide" [ref=e338]
+      - button "Next slide" [ref=e339]
+      - generic
+        - button "Go to slide 1" [ref=e501]
+        - button "Go to slide 2" [ref=e502]
+        - button "Go to slide 3" [ref=e503]
+        - button "Go to slide 4" [ref=e504]
+    - generic
+      - paragraph
+      - heading "Our Warehouse" [level=2, ref=e21]
+      - image "Akihabara TCG Warehouse - Shipment 1"
+      - image "Akihabara TCG Warehouse - Shipment 2"
+      - image "Akihabara TCG Warehouse - Shipment 3"
+      - image "Akihabara TCG Warehouse - Shipment 1"
+      - image "Akihabara TCG Warehouse - Shipment 2"
+      - image "Akihabara TCG Warehouse - Shipment 3"
+    - paragraph
+      - StaticText "100% Authentic"
+    - paragraph
+      - StaticText "Verified products"
+    - paragraph
+      - StaticText "Free Shipping"
+    - paragraph
+      - StaticText "Orders over $150"
+    - paragraph
+      - StaticText "Worldwide"
+    - paragraph
+      - StaticText "Secure delivery"
+    - paragraph
+      - StaticText "Direct from Japan"
+    - paragraph
+      - StaticText "Trusted suppliers"
+    - generic
+      - heading "Our Collection" [level=2, ref=e22]
+      - paragraph
+      - combobox [expanded=false, ref=e23]: Featured
+        - generic [ref=e340] clickable [onclick]
+      - button "All Products" [ref=e24]
+      - button "Japanese Pokémon" [ref=e25]
+      - button "English Pokémon" [ref=e26]
+      - button "One Piece" [ref=e27]
+      - button "Dragon Ball" [ref=e28]
+      - button "Weiss Schwarz" [ref=e29]
+      - button "Union Arena" [ref=e30]
+      - button "Gundam" [ref=e31]
+      - button "Lorcana" [ref=e32]
+      - generic [ref=e33] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e505]
+      - generic [ref=e34] clickable [cursor:pointer, onclick]
+        - heading "Pokemon Center Fantastic Flames Elite Trainer Box Pre-Order Confirmed Brand New Sealed" [level=3, ref=e341]
+      - generic [ref=e35] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e506]
+      - generic [ref=e36] clickable [cursor:pointer, onclick]
+        - heading "Pokemon Scarlet & Violet – Black Bolt Pokémon Center Elite Trainer Box" [level=3, ref=e342]
+      - generic [ref=e37] clickable [cursor:pointer, onclick]
+        - image "Pokémon TCG: 151 Ultra-Premium Collection"
+        - button "Add to Cart" [ref=e507]
+      - generic [ref=e38] clickable [cursor:pointer, onclick]
+        - heading "Pokémon TCG: 151 Ultra-Premium Collection" [level=3, ref=e343]
+      - generic [ref=e39] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Obsidian Flames Elite Trainer Box"
+        - button "Add to Cart" [ref=e508]
+      - generic [ref=e40] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Obsidian Flames Elite Trainer Box" [level=3, ref=e344]
+      - generic [ref=e41] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Paldea Evolved Elite Trainer Box"
+        - button "Add to Cart" [ref=e509]
+      - generic [ref=e42] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Paldea Evolved Elite Trainer Box" [level=3, ref=e345]
+      - generic [ref=e43] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Scarlet & Violet – Destined Rivals Elite Trainer Box"
+        - button "Add to Cart" [ref=e510]
+      - generic [ref=e44] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Scarlet & Violet – Destined Rivals Elite Trainer Box" [level=3, ref=e346]
+      - generic [ref=e45] clickable [cursor:pointer, onclick]
+        - image "Pokémon TCG: Scarlet & Violet 151 Elite Trainer Box"
+        - button "Add to Cart" [ref=e511]
+      - generic [ref=e46] clickable [cursor:pointer, onclick]
+        - heading "Pokémon TCG: Scarlet & Violet 151 Elite Trainer Box" [level=3, ref=e347]
+      - generic [ref=e47] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e512]
+      - generic [ref=e48] clickable [cursor:pointer, onclick]
+        - heading "Scarlet & Violet-White Flare Pokémon Center Elite Trainer Box" [level=3, ref=e348]
+      - generic [ref=e49] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Paldean Fates Booster Bundle"
+        - button "Add to Cart" [ref=e513]
+      - generic [ref=e50] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Paldean Fates Booster Bundle" [level=3, ref=e349]
+      - generic [ref=e51] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Scarlet and Violet – Destined Rivals Booster Box"
+        - button "Add to Cart" [ref=e514]
+      - generic [ref=e52] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Scarlet and Violet – Destined Rivals Booster Box" [level=3, ref=e350]
+      - generic [ref=e53] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e515]
+      - generic [ref=e54] clickable [cursor:pointer, onclick]
+        - heading "Pokémon TCG:151 Booster Bundle – SV2a" [level=3, ref=e351]
+      - generic [ref=e55] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e516]
+      - generic [ref=e56] clickable [cursor:pointer, onclick]
+        - heading "Japanese Eevee Heroes Booster Box – S6a Sealed" [level=3, ref=e352]
+      - generic [ref=e57] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e517]
+      - generic [ref=e58] clickable [cursor:pointer, onclick]
+        - heading "Japanese Pokemon Card Ancient Roar booster box [SV4K]" [level=3, ref=e353]
+      - generic [ref=e59] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e518]
+      - generic [ref=e60] clickable [cursor:pointer, onclick]
+        - heading "Japanese Pokemon Card Cyber Judge Booster Box [SV5M]" [level=3, ref=e354]
+      - generic [ref=e61] clickable [cursor:pointer, onclick]
+        - image "Japanese Pokémon TCG: Eevee Heroes Elite Trainer Box"
+        - button "Add to Cart" [ref=e519]
+      - generic [ref=e62] clickable [cursor:pointer, onclick]
+        - heading "Japanese Pokémon TCG: Eevee Heroes Elite Trainer Box" [level=3, ref=e355]
+      - generic [ref=e63] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e520]
+      - generic [ref=e64] clickable [cursor:pointer, onclick]
+        - heading "Japanese Premium Trainer Box Mega Brave & Mega Symphonia" [level=3, ref=e356]
+      - generic [ref=e65] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e521]
+      - generic [ref=e66] clickable [cursor:pointer, onclick]
+        - heading "Jet Black Spirit s6K Expansion Pack – Pokemon Card Japanese" [level=3, ref=e357]
+      - generic [ref=e67] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e522]
+      - generic [ref=e68] clickable [cursor:pointer, onclick]
+        - heading "Journey Together Elite Trainer Box – SV09" [level=3, ref=e358]
+      - generic [ref=e69] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e523]
+      - generic [ref=e70] clickable [cursor:pointer, onclick]
+        - heading "MetaZoo TCG Base Set Booster Box(2025)" [level=3, ref=e359]
+      - generic [ref=e71] clickable [cursor:pointer, onclick]
+        - image "Pokemon 151 Japanese Booster Box: Scarlet & Violet Enhanced Expansion Pack"
+        - button "Add to Cart" [ref=e524]
+      - generic [ref=e72] clickable [cursor:pointer, onclick]
+        - heading "Pokemon 151 Japanese Booster Box: Scarlet & Violet Enhanced Expansion Pack" [level=3, ref=e360]
+      - generic [ref=e73] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e525]
+      - generic [ref=e74] clickable [cursor:pointer, onclick]
+        - heading "Pokémon Card Game Scarlet & Violet Expansion Pack" [level=3, ref=e361]
+      - generic [ref=e75] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e526]
+      - generic [ref=e76] clickable [cursor:pointer, onclick]
+        - heading "Pokémon Card Game Scarlet & Violet Expansion Pack – Ancient Roar Box" [level=3, ref=e362]
+      - generic [ref=e77] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e527]
+      - generic [ref=e78] clickable [cursor:pointer, onclick]
+        - heading "One Piece CARD GAME OP-14 BOOSTER BOX OP-14 japanese SEALED CASE" [level=3, ref=e363]
+      - generic [ref=e79] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e528]
+      - generic [ref=e80] clickable [cursor:pointer, onclick]
+        - heading "SV4K Ancient Roar Sealed Case (12 boxes) Japanese Pokemon Card" [level=3, ref=e364]
+      - generic [ref=e81] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e529]
+      - generic [ref=e82] clickable [cursor:pointer, onclick]
+        - heading "SV5M Cyber Judge Sealed Case (12 boxes) Japanese Pokemon Card" [level=3, ref=e365]
+      - generic [ref=e83] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e530]
+      - generic [ref=e84] clickable [cursor:pointer, onclick]
+        - heading "SV6 Mask of Change Sealed Case (12 boxes) Japanese Pokemon Card" [level=3, ref=e366]
+      - generic [ref=e85] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e531]
+      - generic [ref=e86] clickable [cursor:pointer, onclick]
+        - heading "SV6a Night Wanderer Sealed Case (12 boxes) Japanese Pokemon Card" [level=3, ref=e367]
+      - generic [ref=e87] clickable [cursor:pointer, onclick]
+        - image "SV7 Pokémon TCG: Stellar Miracle Booster Box (SV6a – Japanese)"
+        - button "Add to Cart" [ref=e532]
+      - generic [ref=e88] clickable [cursor:pointer, onclick]
+        - heading "SV7 Pokémon TCG: Stellar Miracle Booster Box (SV6a – Japanese)" [level=3, ref=e368]
+      - generic [ref=e89] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e533]
+      - generic [ref=e90] clickable [cursor:pointer, onclick]
+        - heading "SV8 Super Electric Breaker (12 boxes) Japanese Pokemon Card" [level=3, ref=e369]
+      - generic [ref=e91] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e534]
+      - generic [ref=e92] clickable [cursor:pointer, onclick]
+        - heading "SV8a Terastal Festival ex Sealed Case (20 boxes) Japanese Pokemon Card" [level=3, ref=e370]
+      - generic [ref=e93] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e535]
+      - generic [ref=e94] clickable [cursor:pointer, onclick]
+        - heading "One Piece Card Game OP-12 Legacy Of The Master Booster Box" [level=3, ref=e371]
+      - generic [ref=e95] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e536]
+      - generic [ref=e96] clickable [cursor:pointer, onclick]
+        - heading "One Piece Card Game OP-13 Carrying On His Will Booster Box" [level=3, ref=e372]
+      - generic [ref=e97] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e537]
+      - generic [ref=e98] clickable [cursor:pointer, onclick]
+        - heading "One Piece CCG OP-13 Carrying on His Will OP13 Japanese Booster Box" [level=3, ref=e373]
+      - generic [ref=e99] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e538]
+      - generic [ref=e100] clickable [cursor:pointer, onclick]
+        - heading "Pokemon Shrouded Fable English Booster Bundle Box" [level=3, ref=e374]
+      - generic [ref=e101] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Crown Zenith Booster Packs"
+        - button "Add to Cart" [ref=e539]
+      - generic [ref=e102] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Crown Zenith Booster Packs" [level=3, ref=e375]
+      - generic [ref=e103] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Lost Origin Booster Box SWSH11"
+        - button "Add to Cart" [ref=e540]
+      - generic [ref=e104] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Lost Origin Booster Box SWSH11" [level=3, ref=e376]
+      - generic [ref=e105] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Lost Origin Booster Bundle"
+        - button "Add to Cart" [ref=e541]
+      - generic [ref=e106] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Lost Origin Booster Bundle" [level=3, ref=e377]
+      - generic [ref=e107] clickable [cursor:pointer, onclick]
+        - image "Pokémon TCG: Mega Evolution—Phantasmal Flames Booster Bundle (6 Booster Packs)"
+        - button "Add to Cart" [ref=e542]
+      - generic [ref=e108] clickable [cursor:pointer, onclick]
+        - heading "Pokémon TCG: Mega Evolution—Phantasmal Flames Booster Bundle (6 Booster Packs)" [level=3, ref=e378]
+      - generic [ref=e109] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Obsidian Flames Booster Box SV03"
+        - button "Add to Cart" [ref=e543]
+      - generic [ref=e110] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Obsidian Flames Booster Box SV03" [level=3, ref=e379]
+      - generic [ref=e111] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Paldea Evolved Booster Box SV02"
+        - button "Add to Cart" [ref=e544]
+      - generic [ref=e112] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Paldea Evolved Booster Box SV02" [level=3, ref=e380]
+      - generic [ref=e113] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Paradox Rift Booster Box SV04"
+        - button "Add to Cart" [ref=e545]
+      - generic [ref=e114] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Paradox Rift Booster Box SV04" [level=3, ref=e381]
+      - generic [ref=e115] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Steller Crown Booster Box – SV07"
+        - button "Add to Cart" [ref=e546]
+      - generic [ref=e116] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Steller Crown Booster Box – SV07" [level=3, ref=e382]
+      - generic [ref=e117] clickable [cursor:pointer, onclick]
+        - image "Pokemon TCG: Surging Sparks Booster Box – SV08"
+        - button "Add to Cart" [ref=e547]
+      - generic [ref=e118] clickable [cursor:pointer, onclick]
+        - heading "Pokemon TCG: Surging Sparks Booster Box – SV08" [level=3, ref=e383]
+      - generic [ref=e119] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e548]
+      - generic [ref=e120] clickable [cursor:pointer, onclick]
+        - heading "M5 Abyss Eye booster box Japanese Pokemon Card" [level=3, ref=e384]
+      - generic [ref=e121] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e549]
+      - generic [ref=e122] clickable [cursor:pointer, onclick]
+        - heading "M4 Ninja Spinner booster box Japanese Pokemon Card" [level=3, ref=e385]
+      - generic [ref=e123] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e550]
+      - generic [ref=e124] clickable [cursor:pointer, onclick]
+        - heading "M3 Munikis Zero (Nihil Zero) booster box Japanese Pokemon Card" [level=3, ref=e386]
+      - generic [ref=e125] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e551]
+      - generic [ref=e126] clickable [cursor:pointer, onclick]
+        - heading "M2a MEGA Dream ex booster box Japanese Pokemon Card" [level=3, ref=e387]
+      - generic [ref=e127] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e552]
+      - generic [ref=e128] clickable [cursor:pointer, onclick]
+        - heading "M2 Inferno X booster box Japanese Pokemon Card" [level=3, ref=e388]
+      - generic [ref=e129] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e553]
+      - generic [ref=e130] clickable [cursor:pointer, onclick]
+        - heading "M1L Mega Brave booster box Japanese Pokemon Card" [level=3, ref=e389]
+      - generic [ref=e131] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e554]
+      - generic [ref=e132] clickable [cursor:pointer, onclick]
+        - heading "M1S Mega Symphonia booster box Japanese Pokemon Card" [level=3, ref=e390]
+      - generic [ref=e133] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e555]
+      - generic [ref=e134] clickable [cursor:pointer, onclick]
+        - heading "SV11B Black Bolt Booster Box Japanese Pokemon Card" [level=3, ref=e391]
+      - generic [ref=e135] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e556]
+      - generic [ref=e136] clickable [cursor:pointer, onclick]
+        - heading "SV11B Expansion Pack Deluxe Black Bolt Booster Box Japanese Pokemon Card" [level=3, ref=e392]
+      - generic [ref=e137] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e557]
+      - generic [ref=e138] clickable [cursor:pointer, onclick]
+        - heading "SV11W Expansion Pack Deluxe White Flare Booster Box Japanese Pokemon Card" [level=3, ref=e393]
+      - generic [ref=e139] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e558]
+      - generic [ref=e140] clickable [cursor:pointer, onclick]
+        - heading "SV11W White Flare Booster Box Japanese Pokemon Card" [level=3, ref=e394]
+      - generic [ref=e141] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e559]
+      - generic [ref=e142] clickable [cursor:pointer, onclick]
+        - heading "SV10 Glory of Team Rocket Booster Box Japanese Pokemon Card" [level=3, ref=e395]
+      - generic [ref=e143] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e560]
+      - generic [ref=e144] clickable [cursor:pointer, onclick]
+        - heading "SV9a Heat Wave Arena Booster Box Japanese Pokemon Card" [level=3, ref=e396]
+      - generic [ref=e145] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e561]
+      - generic [ref=e146] clickable [cursor:pointer, onclick]
+        - heading "SV9 Battle Partners Booster Box Japanese Pokemon Card" [level=3, ref=e397]
+      - generic [ref=e147] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e562]
+      - generic [ref=e148] clickable [cursor:pointer, onclick]
+        - heading "SV8a Terastal Festival ex Booster box Japanese Pokemon Card" [level=3, ref=e398]
+      - generic [ref=e149] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e563]
+      - generic [ref=e150] clickable [cursor:pointer, onclick]
+        - heading "SV8 Super Electric Breaker Booster Box Japanese Pokemon Card" [level=3, ref=e399]
+      - generic [ref=e151] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e564]
+      - generic [ref=e152] clickable [cursor:pointer, onclick]
+        - heading "SV7a Paradise Dragona Booster Box Japanese Pokemon Card" [level=3, ref=e400]
+      - generic [ref=e153] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e565]
+      - generic [ref=e154] clickable [cursor:pointer, onclick]
+        - heading "SV7 Stella Miracle Booster Box Japanese Pokemon Card" [level=3, ref=e401]
+      - generic [ref=e155] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e566]
+      - generic [ref=e156] clickable [cursor:pointer, onclick]
+        - heading "SV6a Night Wanderer booster box Japanese Pokemon Card" [level=3, ref=e402]
+      - generic [ref=e157] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e567]
+      - generic [ref=e158] clickable [cursor:pointer, onclick]
+        - heading "SV6 Mask of Change booster box Japanese Pokemon Card" [level=3, ref=e403]
+      - generic [ref=e159] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e568]
+      - generic [ref=e160] clickable [cursor:pointer, onclick]
+        - heading "SV5a Crimson Haze booster box Japanese Pokemon Card" [level=3, ref=e404]
+      - generic [ref=e161] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e569]
+      - generic [ref=e162] clickable [cursor:pointer, onclick]
+        - heading "SV5K Wild Force booster box Japanese Pokemon Card" [level=3, ref=e405]
+      - generic [ref=e163] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e570]
+      - generic [ref=e164] clickable [cursor:pointer, onclick]
+        - heading "Special Card Set Mega Gallade ex Japanese Pokemon Card" [level=3, ref=e406]
+      - generic [ref=e165] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e571]
+      - generic [ref=e166] clickable [cursor:pointer, onclick]
+        - heading "Start Deck 100 Battle Collection Japanese Pokemon Card" [level=3, ref=e407]
+      - generic [ref=e167] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e572]
+      - generic [ref=e168] clickable [cursor:pointer, onclick]
+        - heading "Pokemon Center Fukuoka Special Box Japanese Pokemon Card" [level=3, ref=e408]
+      - generic [ref=e169] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e573]
+      - generic [ref=e170] clickable [cursor:pointer, onclick]
+        - heading "Pokemon Center Hiroshima Special Box Japanese Pokemon Card" [level=3, ref=e409]
+      - generic [ref=e171] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e574]
+      - generic [ref=e172] clickable [cursor:pointer, onclick]
+        - heading "Starter Set MEGA Mega Diancie ex MBD Japanese Pokemon Card" [level=3, ref=e410]
+      - generic [ref=e173] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e575]
+      - generic [ref=e174] clickable [cursor:pointer, onclick]
+        - heading "Starter Set MEGA Mega Gengar ex MBG Japanese Pokemon Card" [level=3, ref=e411]
+      - generic [ref=e175] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e576]
+      - generic [ref=e176] clickable [cursor:pointer, onclick]
+        - heading "Pokemon Center Tohoku Special Box Japanese Pokemon Card" [level=3, ref=e412]
+      - generic [ref=e177] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e577]
+      - generic [ref=e178] clickable [cursor:pointer, onclick]
+        - heading "M1L Mega Brave Pokemon Center Set Japanese Pokemon Card" [level=3, ref=e413]
+      - generic [ref=e179] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e578]
+      - generic [ref=e180] clickable [cursor:pointer, onclick]
+        - heading "M1S Mega Symphonia Pokemon Center Set Japanese Pokemon Card" [level=3, ref=e414]
+      - generic [ref=e181] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e579]
+      - generic [ref=e182] clickable [cursor:pointer, onclick]
+        - heading "SV11B SV11W Black Bolt / White Flare Card Set Japanese Pokemon Card" [level=3, ref=e415]
+      - generic [ref=e183] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e580]
+      - generic [ref=e184] clickable [cursor:pointer, onclick]
+        - heading "SV9 Deck Build Box Battle Partners Japanese Pokemon Card" [level=3, ref=e416]
+      - generic [ref=e185] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e581]
+      - generic [ref=e186] clickable [cursor:pointer, onclick]
+        - heading "Start Deck Generations Special Battle Set SVM Japanese Pokemon Card" [level=3, ref=e417]
+      - generic [ref=e187] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e582]
+      - generic [ref=e188] clickable [cursor:pointer, onclick]
+        - heading "Special Deck Set ex Venusaur Charizard Blastoise SVG Japanese Pokemon Card" [level=3, ref=e418]
+      - generic [ref=e189] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e583]
+      - generic [ref=e190] clickable [cursor:pointer, onclick]
+        - heading "Pokemon Card Came Classic Japanese Pokemon Card" [level=3, ref=e419]
+      - generic [ref=e191] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e584]
+      - generic [ref=e192] clickable [cursor:pointer, onclick]
+        - heading "Pokemon World Championships 2023 Yokohama Deck -Pikachu- Japanese Pokemon Card" [level=3, ref=e420]
+      - generic [ref=e193] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e585]
+      - generic [ref=e194] clickable [cursor:pointer, onclick]
+        - heading "SV3 Deck Build Box Ruler of Black Flame Japanese Pokemon Card" [level=3, ref=e421]
+      - generic [ref=e195] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e586]
+      - generic [ref=e196] clickable [cursor:pointer, onclick]
+        - heading "SV2P Snow Hazard SV2D Clay Burst Pokemon Center GYM Set Japanese Pokemon Card" [level=3, ref=e422]
+      - generic [ref=e197] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e587]
+      - generic [ref=e198] clickable [cursor:pointer, onclick]
+        - heading "Precious Collector Box Japanese Japanese Pokemon Card" [level=3, ref=e423]
+      - generic [ref=e199] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e588]
+      - generic [ref=e200] clickable [cursor:pointer, onclick]
+        - heading "S10b Pokémon GO Special set box Japanese Pokemon Card" [level=3, ref=e424]
+      - generic [ref=e201] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e589]
+      - generic [ref=e202] clickable [cursor:pointer, onclick]
+        - heading "SI Start Deck 100 Japanese Pokemon Card" [level=3, ref=e425]
+      - generic [ref=e203] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e590]
+      - generic [ref=e204] clickable [cursor:pointer, onclick]
+        - heading "25th Anniversary Collection Special Set Japanese Pokemon Card" [level=3, ref=e426]
+      - generic [ref=e205] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e591]
+      - generic [ref=e206] clickable [cursor:pointer, onclick]
+        - heading "25th ANNIVERSARY GOLDEN BOX Japanese Pokemon Card" [level=3, ref=e427]
+      - generic [ref=e207] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e592]
+      - generic [ref=e208] clickable [cursor:pointer, onclick]
+        - heading "Pokemon Stamp Box Complete set Beauty Looking Back, Cramorant Set on the Moon- Japanese Pokemon Card" [level=3, ref=e428]
+      - generic [ref=e209] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e593]
+      - generic [ref=e210] clickable [cursor:pointer, onclick]
+        - heading "S6a Eevee heroes Eevees Gym Set Japanese Pokemon Card" [level=3, ref=e429]
+      - generic [ref=e211] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e594]
+      - generic [ref=e212] clickable [cursor:pointer, onclick]
+        - heading "OP-16 The Time of Battle Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e430]
+      - generic [ref=e213] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e595]
+      - generic [ref=e214] clickable [cursor:pointer, onclick]
+        - heading "OP-15 Adventure on KAMI’s Island Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e431]
+      - generic [ref=e215] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e596]
+      - generic [ref=e216] clickable [cursor:pointer, onclick]
+        - heading "EB-04 EGGHEAD CRISIS Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e432]
+      - generic [ref=e217] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e597]
+      - generic [ref=e218] clickable [cursor:pointer, onclick]
+        - heading "OP-14 The Azure Sea’s Seven Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e433]
+      - generic [ref=e219] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e598]
+      - generic [ref=e220] clickable [cursor:pointer, onclick]
+        - heading "EB-03 Heroines Edition Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e434]
+      - generic [ref=e221] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e599]
+      - generic [ref=e222] clickable [cursor:pointer, onclick]
+        - heading "OP-13 Carrying on His Will Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e435]
+      - generic [ref=e223] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e600]
+      - generic [ref=e224] clickable [cursor:pointer, onclick]
+        - heading "PRB-02 ONE PIECE CARD THE BEST vol.2 Sealed Case (20 boxes) Japanese ONE PIECE CARD" [level=3, ref=e436]
+      - generic [ref=e225] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e601]
+      - generic [ref=e226] clickable [cursor:pointer, onclick]
+        - heading "OP-12 Legacy of the Master Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e437]
+      - generic [ref=e227] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e602]
+      - generic [ref=e228] clickable [cursor:pointer, onclick]
+        - heading "OP-11 A FIST OF DIVINE SPEED Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e438]
+      - generic [ref=e229] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e603]
+      - generic [ref=e230] clickable [cursor:pointer, onclick]
+        - heading "EB-02 Anime 25th collection Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e439]
+      - generic [ref=e231] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e604]
+      - generic [ref=e232] clickable [cursor:pointer, onclick]
+        - heading "OP-10 ROYAL BLOOD Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e440]
+      - generic [ref=e233] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e605]
+      - generic [ref=e234] clickable [cursor:pointer, onclick]
+        - heading "OP-09 EMPERORS IN THE NEW WORLD Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e441]
+      - generic [ref=e235] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e606]
+      - generic [ref=e236] clickable [cursor:pointer, onclick]
+        - heading "PRB-01 ONE PIECE CARD THE BEST Sealed Case (10 boxes) Japanese ONE PIECE CARD" [level=3, ref=e442]
+      - generic [ref=e237] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e607]
+      - generic [ref=e238] clickable [cursor:pointer, onclick]
+        - heading "OP-08 Two Legends Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e443]
+      - generic [ref=e239] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e608]
+      - generic [ref=e240] clickable [cursor:pointer, onclick]
+        - heading "OP-07 500 YEARS IN THE FUTURE Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e444]
+      - generic [ref=e241] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e609]
+      - generic [ref=e242] clickable [cursor:pointer, onclick]
+        - heading "EB-01 MEMORIAL COLLECTION Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e445]
+      - generic [ref=e243] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e610]
+      - generic [ref=e244] clickable [cursor:pointer, onclick]
+        - heading "OP-06 WINGS OF THE CAPTAIN Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e446]
+      - generic [ref=e245] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e611]
+      - generic [ref=e246] clickable [cursor:pointer, onclick]
+        - heading "OP-05 Awakening of the New Era Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e447]
+      - generic [ref=e247] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e612]
+      - generic [ref=e248] clickable [cursor:pointer, onclick]
+        - heading "OP-04 Kingdoms of Intrigue Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e448]
+      - generic [ref=e249] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e613]
+      - generic [ref=e250] clickable [cursor:pointer, onclick]
+        - heading "OP-03 PILLARS OF STRENGTH Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e449]
+      - generic [ref=e251] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e614]
+      - generic [ref=e252] clickable [cursor:pointer, onclick]
+        - heading "OP-02 PARAMOUNT WAR Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e450]
+      - generic [ref=e253] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e615]
+      - generic [ref=e254] clickable [cursor:pointer, onclick]
+        - heading "OP-01 ROMANCE DAWN Sealed Case (12 boxes) Japanese ONE PIECE CARD" [level=3, ref=e451]
+      - generic [ref=e255] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e616]
+      - generic [ref=e256] clickable [cursor:pointer, onclick]
+        - heading "Read more" [level=3, ref=e452]
+      - generic [ref=e257] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e617]
+      - generic [ref=e258] clickable [cursor:pointer, onclick]
+        - heading "Add to cart" [level=3, ref=e453]
+      - generic [ref=e259] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e618]
+      - generic [ref=e260] clickable [cursor:pointer, onclick]
+        - heading "ONE PIECE Card Premium Card Collection Kumamoto Special Japanese ONE PIECE CARD" [level=3, ref=e454]
+      - generic [ref=e261] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e619]
+      - generic [ref=e262] clickable [cursor:pointer, onclick]
+        - heading "ONE PIECE Promotion Card Set 2025 Sealed Pack (6 cards) Japanese ONE PIECE CARD" [level=3, ref=e455]
+      - generic [ref=e263] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e620]
+      - generic [ref=e264] clickable [cursor:pointer, onclick]
+        - heading "Weiss Schwarz Booster Touhou Project Black and White Lotus Land Japanese Trading Card" [level=3, ref=e456]
+      - generic [ref=e265] clickable [cursor:pointer, onclick]
+        - image "Weiss Schwarz Booster Frieren: Beyond Journey’s End (Renewed Edition) Japanese Trading Card"
+        - button "Add to Cart" [ref=e621]
+      - generic [ref=e266] clickable [cursor:pointer, onclick]
+        - heading "Weiss Schwarz Booster Frieren: Beyond Journey’s End (Renewed Edition) Japanese Trading Card" [level=3, ref=e457]
+      - generic [ref=e267] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e622]
+      - generic [ref=e268] clickable [cursor:pointer, onclick]
+        - heading "Weiss Schwarz Premium Booster Original Overlord Japanese Trading Card" [level=3, ref=e458]
+      - generic [ref=e269] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e623]
+      - generic [ref=e270] clickable [cursor:pointer, onclick]
+        - heading "Weiss Schwarz MARVEL Vol.3 Japanese Trading Card" [level=3, ref=e459]
+      - generic [ref=e271] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e624]
+      - generic [ref=e272] clickable [cursor:pointer, onclick]
+        - heading "Weiss Schwarz Hololive Production Vol.1 & Vol.2 ReMix booster box Japanese Trading Card" [level=3, ref=e460]
+      - generic [ref=e273] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e625]
+      - generic [ref=e274] clickable [cursor:pointer, onclick]
+        - heading "Weiss Schwarz Comeback booster STAR WARS Sealed Case(18 boxes) Japanese Trading Card" [level=3, ref=e461]
+      - generic [ref=e275] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e626]
+      - generic [ref=e276] clickable [cursor:pointer, onclick]
+        - heading "UNION ARENA Precious Booster Victory Goddess NIKKE PC02BT booster box Japanese Trading Card" [level=3, ref=e462]
+      - generic [ref=e277] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e627]
+      - generic [ref=e278] clickable [cursor:pointer, onclick]
+        - heading "UNION ARENA To LOVE-Ru -Trouble- Memory of Heroines UA45BT Sealed Case(16 boxes) Japanese Trading Card" [level=3, ref=e463]
+      - generic [ref=e279] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e628]
+      - generic [ref=e280] clickable [cursor:pointer, onclick]
+        - heading "UNION ARENA Kamen Rider vol. 2 EX12BT Sealed Case(16 boxes) Japanese Trading Card" [level=3, ref=e464]
+      - generic [ref=e281] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e629]
+      - generic [ref=e282] clickable [cursor:pointer, onclick]
+        - heading "UNION ARENA Arknights Vol.2 EX11BT Sealed Case(16 boxes) Japanese Trading Card" [level=3, ref=e465]
+      - generic [ref=e283] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e630]
+      - generic [ref=e284] clickable [cursor:pointer, onclick]
+        - heading "UNION ARENA Booster Macross series Japanese Trading Cards" [level=3, ref=e466]
+      - generic [ref=e285] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e631]
+      - generic [ref=e286] clickable [cursor:pointer, onclick]
+        - heading "UNION ARENA Booster Macross series vol.2 Japanese Trading Cards" [level=3, ref=e467]
+      - generic [ref=e287] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e632]
+      - generic [ref=e288] clickable [cursor:pointer, onclick]
+        - heading "Gundam Card Game booster GD03 Steel Requiem Japanese Trading Card" [level=3, ref=e468]
+      - generic [ref=e289] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e633]
+      - generic [ref=e290] clickable [cursor:pointer, onclick]
+        - heading "Gundam Card Game booster GD02 Dual Impact Japanese Trading Card" [level=3, ref=e469]
+      - generic [ref=e291] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e634]
+      - generic [ref=e292] clickable [cursor:pointer, onclick]
+        - heading "Gundam Card Game booster GD01 Newtype Rising Japanese Trading Card" [level=3, ref=e470]
+      - generic [ref=e293] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e635]
+      - generic [ref=e294] clickable [cursor:pointer, onclick]
+        - heading "Gundam Card Game Limited BOX Ver. β Japanese Trading Card" [level=3, ref=e471]
+      - generic [ref=e295] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e636]
+      - generic [ref=e296] clickable [cursor:pointer, onclick]
+        - heading "FB09 DUAL EVOLUTION Japanese DRAGON BALL FUSION WORLD Card" [level=3, ref=e472]
+      - generic [ref=e297] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e637]
+      - generic [ref=e298] clickable [cursor:pointer, onclick]
+        - heading "FB08 SAIYAN’s PRIDE Japanese DRAGON BALL FUSION WORLD Card" [level=3, ref=e473]
+      - generic [ref=e299] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e638]
+      - generic [ref=e300] clickable [cursor:pointer, onclick]
+        - heading "SB02 MANGA BOOSTER 02 Japanese DRAGON BALL FUSION WORLD Card" [level=3, ref=e474]
+      - generic [ref=e301] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e639]
+      - generic [ref=e302] clickable [cursor:pointer, onclick]
+        - heading "FB07 WISH FOR SHENRON Japanese DRAGON BALL FUSION WORLD Card" [level=3, ref=e475]
+      - generic [ref=e303] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e640]
+      - generic [ref=e304] clickable [cursor:pointer, onclick]
+        - heading "SB01 MANGA BOOSTER 01 Japanese DRAGON BALL FUSION WORLD Card" [level=3, ref=e476]
+      - generic [ref=e305] clickable [cursor:pointer, onclick]
+        - image "Disney Lorcana TCG Japanese Edition Booster THE FIRST CHAPTER : The Beginning of the Story Sealed Case(15 boxes) Japanese Trading Card"
+        - button "Add to Cart" [ref=e641]
+      - generic [ref=e306] clickable [cursor:pointer, onclick]
+        - heading "Disney Lorcana TCG Japanese Edition Booster THE FIRST CHAPTER : The Beginning of the Story Sealed Case(15 boxes) Japanese Trading Card" [level=3, ref=e477]
+      - generic [ref=e307] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e642]
+      - generic [ref=e308] clickable [cursor:pointer, onclick]
+        - heading "One Piece Japanese Booster Case (12 BOX)" [level=3, ref=e478]
+      - generic [ref=e309] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e643]
+      - generic [ref=e310] clickable [cursor:pointer, onclick]
+        - heading "Supercharged Breaker Booster Box" [level=3, ref=e479]
+      - generic [ref=e311] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e644]
+      - generic [ref=e312] clickable [cursor:pointer, onclick]
+        - heading "Supercharged Breaker Booster Case" [level=3, ref=e480]
+      - generic [ref=e313] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e645]
+      - generic [ref=e314] clickable [cursor:pointer, onclick]
+        - heading "Terastal Festival ex Booster Box (Pre-Order)" [level=3, ref=e481]
+      - generic [ref=e315] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e646]
+      - generic [ref=e316] clickable [cursor:pointer, onclick]
+        - heading "Terastal Festival ex Booster Case (Pre-Order)" [level=3, ref=e482]
+      - generic [ref=e317] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e647]
+      - generic [ref=e318] clickable [cursor:pointer, onclick]
+        - heading "Pokemon Crimson Haze Booster Box" [level=3, ref=e483]
+      - generic [ref=e319] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e648]
+      - generic [ref=e320] clickable [cursor:pointer, onclick]
+        - heading "Pokémon Astonishing Amazing Volt Tackle Booster Box" [level=3, ref=e484]
+      - generic [ref=e321] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e649]
+      - generic [ref=e322] clickable [cursor:pointer, onclick]
+        - heading "Pokémon 151 Booster Case (12 BOX)" [level=3, ref=e485]
+      - generic [ref=e323] clickable [cursor:pointer, onclick]
+        - button "Add to Cart" [ref=e650]
+      - generic [ref=e324] clickable [cursor:pointer, onclick]
+        - heading "Add to wishlist" [level=3, ref=e486]
+    - paragraph
+      - StaticText "TRUSTED WORLDWIDE"
+    - heading "Why Choose Akihabara TCG Warehouse" [level=2, ref=e325]
+    - paragraph
+      - StaticText "Your premier source for authentic Japanese Pokémon Trading Card Game products. Whether you're a seasoned collector, a competitive player, or running a card business, we've got you covered."
+    - heading "Guaranteed Authenticity" [level=3, ref=e326]
+    - paragraph
+      - StaticText "Every item we sell is verified through trusted third-party channels. No counterfeits, ever."
+    - heading "Direct from Japan" [level=3, ref=e327]
+    - paragraph
+      - StaticText "We work closely with Japanese suppliers to bring you exclusive releases and rare cards."
+    - heading "Wholesale & Individual" [level=3, ref=e328]
+    - paragraph
+      - StaticText "Whether you're buying one box or a pallet, we've got you covered at unbeatable prices."
+    - heading "Careful, Fast Delivery" [level=3, ref=e329]
+    - paragraph
+      - StaticText "Secure packaging and prompt worldwide shipping ensure your order arrives safely."
+    - heading "Reliable Support" [level=3, ref=e330]
+    - paragraph
+      - StaticText "Need assistance? Our support team is available 24/7 to guide and assist you."
+    - heading "Our Guarantee" [level=3, ref=e331]
+    - paragraph
+      - StaticText "We strictly avoid counterfeits and resealed packs — your trust is our top priority."
+    - heading "Our Collection Includes" [level=3, ref=e332]
+    - heading "Booster Boxes & Packs" [level=4, ref=e333]
+    - paragraph
+      - StaticText "Newly released sets and collector favorites"
+    - heading "Decks & Special Sets" [level=4, ref=e334]
+    - paragraph
+      - StaticText "Ready-to-play and collector editions"
+    - heading "Singles & Graded Cards" [level=4, ref=e335]
+    - paragraph
+      - StaticText "Vintage holos to PSA-graded rarities"
+    - heading "Bulk & Wholesale" [level=4, ref=e336]
+    - paragraph
+      - StaticText "Perfect for retailers and resellers"
+    - paragraph
+      - StaticText "TESTIMONIALS"
+    - heading "What Our Clients Say" [level=2, ref=e337]
+    - paragraph
+      - StaticText "“I've been collecting Pokémon cards for years, and these are some of the best! The quality is fantastic, and the rare cards are definitely worth it. My collection has never looked better!”"
+    - StaticText "K"
+    - paragraph
+      - StaticText "Kingsley Chandler"
+    - paragraph
+      - StaticText "Verified Buyer"
+    - paragraph
+      - StaticText "“I love how these cards not only look great but are also perfect for battling. Whether you're a competitive player or just a fan, these cards are a must-have!”"
+    - StaticText "O"
+    - paragraph
+      - StaticText "Orson Lancaster"
+    - paragraph
+      - StaticText "Verified Buyer"
+    - paragraph
+      - StaticText "“I ordered these cards and was amazed at how quickly they arrived. The cards were in perfect condition, and I can't wait to add them to my deck!”"
+    - StaticText "H"
+    - paragraph
+      - StaticText "Harleigh Dodson"
+    - paragraph
+      - StaticText "Verified Buyer"
+    - paragraph
+      - StaticText "“I've been collecting Pokémon cards for over a decade, and these are some of the most beautiful and rare cards I've come across. Truly a treasure for any serious collector!”"
+    - StaticText "L"
+    - paragraph
+      - StaticText "Lucas RH"
+    - paragraph
+      - StaticText "Verified Buyer"
+    - paragraph
+      - StaticText "“The quality of these cards is top-notch! They arrived in perfect condition and the holographic designs are just stunning. Definitely worth the investment!”"
+    - StaticText "S"
+    - paragraph
+      - StaticText "Simons L."
+    - paragraph
+      - StaticText "Verified Buyer"
+    - paragraph
+      - StaticText "“I ordered these cards for a special event, and they arrived on time and in perfect condition. Great service and an awesome product.”"
+    - StaticText "B"
+    - paragraph
+      - StaticText "Benette SH."
+    - paragraph
+      - StaticText "Verified Buyer"
+    - paragraph
+      - StaticText "“I was blown away by the value of these cards. Not only do you get rare and powerful Pokémon, but the price was more than fair. Highly recommend!”"
+    - StaticText "A"
+    - paragraph
+      - StaticText "Annah Jip"
+    - paragraph
+      - StaticText "Verified Buyer"
+    - paragraph
+      - StaticText "“These cards really helped me improve my strategy and power up my deck. Whether you're a seasoned player or just starting out, these cards are a fantastic choice!”"
+    - StaticText "T"
+    - paragraph
+      - StaticText "Tilamans"
+    - paragraph
+      - StaticText "Verified Buyer"
+    - paragraph
+      - StaticText "“Amazing card quality! The quality of these cards is top-notch! They arrived in perfect condition and the holographic designs are just stunning. Definitely worth the investment!”"
+    - StaticText "M"
+    - paragraph
+      - StaticText "Megan P."
+    - paragraph
+      - StaticText "Verified Buyer"
+  - contentinfo
+    - heading "AKIHABARA" [level=3, ref=e6]
+    - paragraph
+      - StaticText "TCG WAREHOUSE"
+    - paragraph
+      - StaticText "Your trusted source for authentic Japanese Pokémon TCG, One Piece, and more. Every product ships direct from Japan, sealed and verified."
+    - link "Instagram" [ref=e7]
+    - link "Twitter" [ref=e8]
+    - link "YouTube" [ref=e9]
+    - heading "NAVIGATION" [level=4, ref=e10]
+    - list
+      - listitem [level=1]
+        - button "Shop All Products" [ref=e487]
+      - listitem [level=1]
+        - button "About Us" [ref=e488]
+      - listitem [level=1]
+        - button "Shipping Policy" [ref=e489]
+      - listitem [level=1]
+        - button "FAQ" [ref=e490]
+      - listitem [level=1]
+        - button "Contact Us" [ref=e491]
+      - listitem [level=1]
+        - button "Sign In / Sign Up" [ref=e492]
+    - heading "CATEGORIES" [level=4, ref=e11]
+    - list
+      - listitem [level=1]
+        - button "Japanese Pokémon" [ref=e493]
+      - listitem [level=1]
+        - button "English Pokémon" [ref=e494]
+      - listitem [level=1]
+        - button "One Piece" [ref=e495]
+      - listitem [level=1]
+        - button "Dragon Ball" [ref=e496]
+      - listitem [level=1]
+        - button "Weiss Schwarz" [ref=e497]
+      - listitem [level=1]
+        - button "Union Arena" [ref=e498]
+      - listitem [level=1]
+        - button "Gundam" [ref=e499]
+      - listitem [level=1]
+        - button "Lorcana" [ref=e500]
+    - heading "GET IN TOUCH" [level=4, ref=e12]
+    - paragraph
+    - paragraph
+    - paragraph
+      - StaticText "Mon — Sat: 9AM — 6PM JST"
+    - paragraph
+      - StaticText "Sunday: Closed"
+  - region "Notifications (F8)" [ref=e1]
+  - button "Open Next.js Dev Tools" [expanded=false, ref=e651]
