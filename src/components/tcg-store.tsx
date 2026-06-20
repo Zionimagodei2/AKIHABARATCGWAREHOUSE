@@ -589,7 +589,7 @@ export default function TCGStore() {
                 </div>
               </div>
               <p className="text-[13px] leading-relaxed text-gray-400 mb-5 max-w-xs">
-                Your trusted source for authentic Japanese Pokémon TCG, One Piece, and more. Every product ships direct from Japan, sealed and verified.
+                Your trusted source for authentic Japanese TCG products — Pokémon, One Piece, Dragon Ball, and more. Every product ships direct from Japan, sealed and verified.
               </p>
               <div className="flex gap-3">
                 <a href="#" className="w-9 h-9 rounded-md bg-white/5 hover:bg-[#13aff0]/20 flex items-center justify-center transition-colors" aria-label="Instagram">
@@ -1015,7 +1015,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               Why Choose Akihabara TCG Warehouse
             </h2>
             <p className="text-gray-500 max-w-2xl mx-auto text-[14px] leading-relaxed">
-              Your premier source for authentic Japanese Pokémon Trading Card Game products. Whether you're a seasoned collector, a competitive player, or running a card business, we've got you covered.
+              Your premier source for authentic Japanese TCG products — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam, Disney Lorcana, and more. Whether you're a seasoned collector, a competitive player, or running a card business, we've got you covered.
             </p>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
@@ -1151,10 +1151,10 @@ function AboutPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-[11px] font-bold text-[#13aff0] tracking-[0.2em] uppercase mb-4">About Us</p>
           <h1 className="text-3xl sm:text-5xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-tight mb-6">
-            Trusted Worldwide for Japanese Pokémon TCG
+            Trusted Worldwide for Japanese TCG
           </h1>
           <p className="text-[15px] text-gray-300 max-w-2xl mx-auto leading-relaxed">
-            Welcome to Akihabara TCG Warehouse, your premier source for authentic Japanese Pokémon Trading Card Game products. Whether you're a seasoned collector, a competitive player, or running a card business, we offer genuine Pokémon TCG items straight from Japan — always at unbeatable wholesale prices.
+            Welcome to Akihabara TCG Warehouse, your premier source for authentic Japanese TCG products. From Pokémon and One Piece to Dragon Ball, Weiss Schwarz, Union Arena, Gundam, and Disney Lorcana — whether you're a seasoned collector, a competitive player, or running a card business, we offer genuine items straight from Japan at unbeatable wholesale prices.
           </p>
         </div>
       </section>
@@ -1241,10 +1241,10 @@ function AboutPage() {
             Our Guarantee to You
           </h2>
           <p className="text-[14px] text-gray-600 leading-relaxed mb-4">
-            At Akihabara TCG Warehouse, we stand by the integrity of every product. We strictly avoid counterfeits and resealed packs — your satisfaction and trust are our top priorities.
+            At Akihabara TCG Warehouse, we stand by the integrity of every product across all our lines — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam, and more. We strictly avoid counterfeits and resealed packs — your satisfaction and trust are our top priorities.
           </p>
           <p className="text-[14px] text-gray-600 leading-relaxed">
-            Join the growing number of international customers who rely on us for safe, affordable access to Japanese Pokémon cards. Begin your journey or expand your inventory today.
+            Join the growing number of international customers who rely on us for safe, affordable access to authentic Japanese TCG products. Begin your journey or expand your inventory today.
           </p>
         </div>
       </section>

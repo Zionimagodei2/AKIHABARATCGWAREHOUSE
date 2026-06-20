@@ -19,7 +19,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Akihabara TCG Warehouse — Premium Japanese & English TCG Cards",
   description:
-    "Your premier source for authentic Japanese Pokémon TCG, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam Card Game & Disney Lorcana. Direct from Japan, 100% Authentic, Ships Worldwide.",
+    "Your premier source for authentic Japanese TCG products — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam Card Game & Disney Lorcana. Direct from Japan, 100% Authentic, Ships Worldwide.",
   keywords: [
     "Akihabara",
     "TCG",
