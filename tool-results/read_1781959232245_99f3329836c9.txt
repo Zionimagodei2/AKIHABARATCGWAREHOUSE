@@ -1,0 +1,1459 @@
+     1→"use client";
+     2→
+     3→import React, { useState, useMemo, useCallback, useEffect } from "react";
+     4→import Image from "next/image";
+     5→import { motion, AnimatePresence } from "framer-motion";
+     6→import {
+     7→  ShoppingCart,
+     8→  Search,
+     9→  Star,
+    10→  Plus,
+    11→  Minus,
+    12→  Trash2,
+    13→  X,
+    14→  ChevronDown,
+    15→  ChevronLeft,
+    16→  ChevronRight,
+    17→  Package,
+    18→  Shield,
+    19→  Truck,
+    20→  Globe,
+    21→  Heart,
+    22→  Menu,
+    23→  ChevronUp,
+    24→} from "lucide-react";
+    25→import { Button } from "@/components/ui/button";
+    26→import { Input } from "@/components/ui/input";
+    27→import { Badge } from "@/components/ui/badge";
+    28→import { Separator } from "@/components/ui/separator";
+    29→import { ScrollArea } from "@/components/ui/scroll-area";
+    30→import {
+    31→  Sheet,
+    32→  SheetContent,
+    33→  SheetHeader,
+    34→  SheetTitle,
+    35→  SheetDescription,
+    36→} from "@/components/ui/sheet";
+    37→import {
+    38→  Dialog,
+    39→  DialogContent,
+    40→  DialogHeader,
+    41→  DialogTitle,
+    42→  DialogDescription,
+    43→} from "@/components/ui/dialog";
+    44→import {
+    45→  Select,
+    46→  SelectContent,
+    47→  SelectItem,
+    48→  SelectTrigger,
+    49→  SelectValue,
+    50→} from "@/components/ui/select";
+    51→
+    52→/* ─────────── Types ─────────── */
+    53→
+    54→interface Product {
+    55→  id: string;
+    56→  title: string;
+    57→  price: number;
+    58→  original_price?: number;
+    59→  image: string;
+    60→  description?: string;
+    61→  category: string;
+    62→  categories?: string[];
+    63→  rating?: number;
+    64→  in_stock?: boolean;
+    65→  source?: string;
+    66→}
+    67→
+    68→interface CartItem {
+    69→  product: Product;
+    70→  quantity: number;
+    71→}
+    72→
+    73→type CurrencyCode = "USD" | "JPY" | "EUR" | "GBP";
+    74→
+    75→type SortOption = "featured" | "price-asc" | "price-desc" | "name-asc" | "name-desc" | "rating";
+    76→
+    77→/* ─────────── Product Image Component ─────────── */
+    78→
+    79→function isLocalImage(src: string): boolean {
+    80→  return src.startsWith("/") || src.startsWith("data:");
+    81→}
+    82→
+    83→function ProductImg({ src, alt, fill, className, sizes, priority, width, height }: {
+    84→  src: string;
+    85→  alt: string;
+    86→  fill?: boolean;
+    87→  className?: string;
+    88→  sizes?: string;
+    89→  priority?: boolean;
+    90→  width?: number;
+    91→  height?: number;
+    92→}) {
+    93→  const [imgError, setImgError] = React.useState(false);
+    94→
+    95→  if (isLocalImage(src) && !imgError) {
+    96→    return (
+    97→      <Image
+    98→        src={src}
+    99→        alt={alt}
+   100→        fill={fill}
+   101→        className={className}
+   102→        sizes={sizes}
+   103→        priority={priority}
+   104→        width={fill ? undefined : width}
+   105→        height={fill ? undefined : height}
+   106→        onError={() => setImgError(true)}
+   107→      />
+   108→    );
+   109→  }
+   110→
+   111→  // For remote images or errored local images, use <img> with referrerPolicy
+   112→  return (
+   113→    <img
+   114→      src={imgError ? "/images/existing/ONE.jpg" : src}
+   115→      alt={alt}
+   116→      referrerPolicy="no-referrer"
+   117→      crossOrigin="anonymous"
+   118→      className={className?.replace("object-contain", "object-contain").replace("object-cover", "object-cover") || ""}
+   119→      style={fill ? { position: "absolute", inset: 0, width: "100%", height: "100%" } : { width: width || "100%", height: height || "100%" }}
+   120→      onError={(e) => {
+   121→        const target = e.target as HTMLImageElement;
+   122→        if (target.src !== window.location.origin + "/images/existing/ONE.jpg") {
+   123→          target.src = "/images/existing/ONE.jpg";
+   124→        }
+   125→      }}
+   126→      loading={priority ? "eager" : "lazy"}
+   127→    />
+   128→  );
+   129→}
+   130→
+   131→/* ─────────── Constants ─────────── */
+   132→
+   133→const CURRENCY_RATES: Record<CurrencyCode, number> = {
+   134→  USD: 1,
+   135→  JPY: 149.5,
+   136→  EUR: 0.92,
+   137→  GBP: 0.79,
+   138→};
+   139→
+   140→const CURRENCY_SYMBOLS: Record<CurrencyCode, string> = {
+   141→  USD: "$",
+   142→  JPY: "¥",
+   143→  EUR: "€",
+   144→  GBP: "£",
+   145→};
+   146→
+   147→const CATEGORY_TABS = [
+   148→  { key: "all", label: "All Products" },
+   149→  { key: "Japanese Pokemon Cards", label: "Japanese Pokémon" },
+   150→  { key: "English Pokemon Cards", label: "English Pokémon" },
+   151→  { key: "One Piece", label: "One Piece" },
+   152→  { key: "Dragon Ball", label: "Dragon Ball" },
+   153→  { key: "Weiss Schwarz", label: "Weiss Schwarz" },
+   154→  { key: "Union Arena", label: "Union Arena" },
+   155→  { key: "Gundam Card Game", label: "Gundam" },
+   156→  { key: "Disney Lorcana", label: "Lorcana" },
+   157→];
+   158→
+   159→const HERO_SLIDES = [
+   160→  {
+   161→    image: "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.avif",
+   162→    title: "Japanese Pokémon TCG",
+   163→    subtitle: "Direct from Akihabara — Authentic & Sealed",
+   164→    accent: "New Arrivals",
+   165→  },
+   166→  {
+   167→    image: "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif",
+   168→    title: "VSTAR Universe",
+   169→    subtitle: "Rare pulls & exclusive artwork from Japan",
+   170→    accent: "Limited Stock",
+   171→  },
+   172→  {
+   173→    image: "/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif",
+   174→    title: "Ruler of the Black Flame",
+   175→    subtitle: "Charizard ex & more — Sealed Booster Boxes",
+   176→    accent: "Hot",
+   177→  },
+   178→  {
+   179→    image: "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif",
+   180→    title: "Snow Hazard Collection",
+   181→    subtitle: "Complete your Japanese set before they're gone",
+   182→    accent: "Sale",
+   183→  },
+   184→];
+   185→
+   186→const ANNOUNCEMENT_MESSAGES = [
+   187→  "🚚 Free Shipping on Orders Over $150",
+   188→  "🇯🇵 Direct from Japan — 100% Authentic",
+   189→  "🌍 Ships Worldwide — Secure Packaging",
+   190→  "⭐ Trusted by Thousands of Collectors",
+   191→  "🔒 Guaranteed Authenticity on Every Item",
+   192→];
+   193→
+   194→/* ─────────── Helpers ─────────── */
+   195→
+   196→function formatPrice(usdPrice: number, currency: CurrencyCode): string {
+   197→  if (!usdPrice || usdPrice <= 0) return `${CURRENCY_SYMBOLS[currency]}0.00`;
+   198→  const converted = usdPrice * CURRENCY_RATES[currency];
+   199→  const symbol = CURRENCY_SYMBOLS[currency];
+   200→  if (currency === "JPY") {
+   201→    return `${symbol}${Math.round(converted).toLocaleString()}`;
+   202→  }
+   203→  return `${symbol}${converted.toFixed(2)}`;
+   204→}
+   205→
+   206→function renderStars(rating: number) {
+   207→  const full = Math.floor(rating);
+   208→  const hasHalf = rating % 1 >= 0.3;
+   209→  const stars = [];
+   210→  for (let i = 0; i < 5; i++) {
+   211→    if (i < full) {
+   212→      stars.push(
+   213→        <Star key={i} className="size-3.5 fill-[#fbbf24] text-[#fbbf24]" />
+   214→      );
+   215→    } else if (i === full && hasHalf) {
+   216→      stars.push(
+   217→        <div key={i} className="relative">
+   218→          <Star className="size-3.5 text-gray-300" />
+   219→          <div className="absolute inset-0 overflow-hidden w-[50%]">
+   220→            <Star className="size-3.5 fill-[#fbbf24] text-[#fbbf24]" />
+   221→          </div>
+   222→        </div>
+   223→      );
+   224→    } else {
+   225→      stars.push(<Star key={i} className="size-3.5 text-gray-300" />);
+   226→    }
+   227→  }
+   228→  return stars;
+   229→}
+   230→
+   231→function getDiscountPercent(original: number, sale: number): number {
+   232→  if (!original || original <= 0) return 0;
+   233→  if (!sale || sale <= 0) return 0;
+   234→  return Math.round(((original - sale) / original) * 100);
+   235→}
+   236→
+   237→/* ─────────── Main Component ─────────── */
+   238→
+   239→export default function TCGStore() {
+   240→  // Data
+   241→  const [products, setProducts] = useState<Product[]>([]);
+   242→  const [loading, setLoading] = useState(true);
+   243→
+   244→  // UI State
+   245→  const [selectedCategory, setSelectedCategory] = useState("all");
+   246→  const [searchQuery, setSearchQuery] = useState("");
+   247→  const [sortOption, setSortOption] = useState<SortOption>("featured");
+   248→  const [currency, setCurrency] = useState<CurrencyCode>("USD");
+   249→  const [cartOpen, setCartOpen] = useState(false);
+   250→  const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
+   251→  const [productModalOpen, setProductModalOpen] = useState(false);
+   252→  const [cart, setCart] = useState<CartItem[]>([]);
+   253→  const [heroIndex, setHeroIndex] = useState(0);
+   254→  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+   255→  const [showScrollTop, setShowScrollTop] = useState(false);
+   256→
+   257→  // Fetch products
+   258→  useEffect(() => {
+   259→    fetch("/products.json")
+   260→      .then((res) => res.json())
+   261→      .then((data: Product[]) => {
+   262→        // Filter out garbage/scraped entries and products missing critical fields
+   263→        const cleaned = data.filter(
+   264→          (p) =>
+   265→            p.id &&
+   266→            p.title &&
+   267→            p.price > 0 &&
+   268→            p.image &&
+   269→            p.category
+   270→        );
+   271→        setProducts(cleaned);
+   272→        setLoading(false);
+   273→      })
+   274→      .catch(() => setLoading(false));
+   275→  }, []);
+   276→
+   277→  // Hero carousel auto-play
+   278→  useEffect(() => {
+   279→    const timer = setInterval(() => {
+   280→      setHeroIndex((prev) => (prev + 1) % HERO_SLIDES.length);
+   281→    }, 5000);
+   282→    return () => clearInterval(timer);
+   283→  }, []);
+   284→
+   285→  // Scroll-to-top button
+   286→  useEffect(() => {
+   287→    const handleScroll = () => {
+   288→      setShowScrollTop(window.scrollY > 600);
+   289→    };
+   290→    window.addEventListener("scroll", handleScroll);
+   291→    return () => window.removeEventListener("scroll", handleScroll);
+   292→  }, []);
+   293→
+   294→  // Filtered & sorted products
+   295→  const filteredProducts = useMemo(() => {
+   296→    let filtered = products;
+   297→
+   298→    // Category filter
+   299→    if (selectedCategory !== "all") {
+   300→      filtered = filtered.filter(
+   301→        (p) =>
+   302→          (p.categories && p.categories.some((c) => c.toLowerCase() === selectedCategory.toLowerCase())) ||
+   303→          (p.category && p.category.toLowerCase() === selectedCategory.toLowerCase())
+   304→      );
+   305→    }
+   306→
+   307→    // Search filter
+   308→    if (searchQuery.trim()) {
+   309→      const q = searchQuery.toLowerCase();
+   310→      filtered = filtered.filter(
+   311→        (p) =>
+   312→          (p.title && p.title.toLowerCase().includes(q)) ||
+   313→          (p.description && p.description.toLowerCase().includes(q)) ||
+   314→          (p.category && p.category.toLowerCase().includes(q))
+   315→      );
+   316→    }
+   317→
+   318→    // Sort
+   319→    switch (sortOption) {
+   320→      case "price-asc":
+   321→        filtered = [...filtered].sort((a, b) => a.price - b.price);
+   322→        break;
+   323→      case "price-desc":
+   324→        filtered = [...filtered].sort((a, b) => b.price - a.price);
+   325→        break;
+   326→      case "name-asc":
+   327→        filtered = [...filtered].sort((a, b) => a.title.localeCompare(b.title));
+   328→        break;
+   329→      case "name-desc":
+   330→        filtered = [...filtered].sort((a, b) => b.title.localeCompare(a.title));
+   331→        break;
+   332→      case "rating":
+   333→        filtered = [...filtered].sort((a, b) => b.rating - a.rating);
+   334→        break;
+   335→      default:
+   336→        break;
+   337→    }
+   338→
+   339→    return filtered;
+   340→  }, [products, selectedCategory, searchQuery, sortOption]);
+   341→
+   342→  // Cart operations
+   343→  const addToCart = useCallback(
+   344→    (product: Product, quantity = 1) => {
+   345→      setCart((prev) => {
+   346→        const existing = prev.find((item) => item.product.id === product.id);
+   347→        if (existing) {
+   348→          return prev.map((item) =>
+   349→            item.product.id === product.id
+   350→              ? { ...item, quantity: item.quantity + quantity }
+   351→              : item
+   352→          );
+   353→        }
+   354→        return [...prev, { product, quantity }];
+   355→      });
+   356→    },
+   357→    []
+   358→  );
+   359→
+   360→  const removeFromCart = useCallback((productId: string) => {
+   361→    setCart((prev) => prev.filter((item) => item.product.id !== productId));
+   362→  }, []);
+   363→
+   364→  const updateCartQuantity = useCallback(
+   365→    (productId: string, delta: number) => {
+   366→      setCart((prev) =>
+   367→        prev
+   368→          .map((item) =>
+   369→            item.product.id === productId
+   370→              ? { ...item, quantity: item.quantity + delta }
+   371→              : item
+   372→          )
+   373→          .filter((item) => item.quantity > 0)
+   374→      );
+   375→    },
+   376→    []
+   377→  );
+   378→
+   379→  const cartTotal = useMemo(
+   380→    () => cart.reduce((sum, item) => sum + item.product.price * item.quantity, 0),
+   381→    [cart]
+   382→  );
+   383→
+   384→  const cartItemCount = useMemo(
+   385→    () => cart.reduce((sum, item) => sum + item.quantity, 0),
+   386→    [cart]
+   387→  );
+   388→
+   389→  const openProductModal = useCallback((product: Product) => {
+   390→    setSelectedProduct(product);
+   391→    setProductModalOpen(true);
+   392→  }, []);
+   393→
+   394→  const scrollToSection = useCallback((id: string) => {
+   395→    const el = document.getElementById(id);
+   396→    if (el) {
+   397→      el.scrollIntoView({ behavior: "smooth" });
+   398→    }
+   399→    setMobileMenuOpen(false);
+   400→  }, []);
+   401→
+   402→  /* ─────────── Render ─────────── */
+   403→
+   404→  return (
+   405→    <div className="min-h-screen flex flex-col bg-[#f8f9fa]">
+   406→      {/* ─── Announcement Bar ─── */}
+   407→      <div className="bg-[#0e252c] text-white overflow-hidden relative">
+   408→        <div className="animate-marquee flex whitespace-nowrap py-2">
+   409→          {[...ANNOUNCEMENT_MESSAGES, ...ANNOUNCEMENT_MESSAGES].map(
+   410→            (msg, i) => (
+   411→              <span
+   412→                key={i}
+   413→                className="mx-8 text-sm font-medium tracking-wide opacity-90"
+   414→              >
+   415→                {msg}
+   416→              </span>
+   417→            )
+   418→          )}
+   419→        </div>
+   420→      </div>
+   421→
+   422→      {/* ─── Header ─── */}
+   423→      <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-gray-200 shadow-sm">
+   424→        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+   425→          <div className="flex items-center justify-between h-16">
+   426→            {/* Logo */}
+   427→            <div className="flex items-center gap-2 shrink-0">
+   428→              <div className="w-9 h-9 bg-[#0e252c] rounded-lg flex items-center justify-center">
+   429→                <Package className="size-5 text-[#13aff0]" />
+   430→              </div>
+   431→              <div className="hidden sm:block">
+   432→                <h1 className="text-lg font-bold font-[family-name:var(--font-montserrat)] text-[#0e252c] leading-tight tracking-tight">
+   433→                  AKIHABARA
+   434→                </h1>
+   435→                <p className="text-[10px] font-semibold text-[#13aff0] tracking-[0.2em] uppercase leading-none">
+   436→                  TCG Warehouse
+   437→                </p>
+   438→              </div>
+   439→            </div>
+   440→
+   441→            {/* Desktop Navigation */}
+   442→            <nav className="hidden md:flex items-center gap-6">
+   443→              {[
+   444→                { label: "Shop", id: "products" },
+   445→                { label: "About", id: "about" },
+   446→                { label: "Shipping", id: "about" },
+   447→                { label: "FAQ", id: "about" },
+   448→                { label: "Contact", id: "footer" },
+   449→              ].map((item) => (
+   450→                <button
+   451→                  key={item.label}
+   452→                  onClick={() => scrollToSection(item.id)}
+   453→                  className="text-sm font-medium text-gray-600 hover:text-[#13aff0] transition-colors"
+   454→                >
+   455→                  {item.label}
+   456→                </button>
+   457→              ))}
+   458→            </nav>
+   459→
+   460→            {/* Right side: Search + Currency + Cart */}
+   461→            <div className="flex items-center gap-2 sm:gap-3">
+   462→              {/* Search */}
+   463→              <div className="relative hidden sm:block">
+   464→                <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 size-4 text-gray-400" />
+   465→                <Input
+   466→                  placeholder="Search cards..."
+   467→                  value={searchQuery}
+   468→                  onChange={(e) => setSearchQuery(e.target.value)}
+   469→                  className="pl-9 w-40 lg:w-56 h-9 text-sm bg-gray-50 border-gray-200 focus:border-[#13aff0] focus:ring-[#13aff0]/20"
+   470→                />
+   471→              </div>
+   472→
+   473→              {/* Mobile search toggle */}
+   474→              <Button
+   475→                variant="ghost"
+   476→                size="icon"
+   477→                className="sm:hidden"
+   478→                onClick={() => {
+   479→                  const el = document.getElementById("mobile-search");
+   480→                  if (el) el.classList.toggle("hidden");
+   481→                }}
+   482→              >
+   483→                <Search className="size-5" />
+   484→              </Button>
+   485→
+   486→              {/* Currency Selector */}
+   487→              <Select
+   488→                value={currency}
+   489→                onValueChange={(v) => setCurrency(v as CurrencyCode)}
+   490→              >
+   491→                <SelectTrigger className="w-[72px] h-9 text-xs font-semibold border-gray-200 bg-gray-50">
+   492→                  <SelectValue />
+   493→                </SelectTrigger>
+   494→                <SelectContent>
+   495→                  <SelectItem value="USD">USD $</SelectItem>
+   496→                  <SelectItem value="JPY">JPY ¥</SelectItem>
+   497→                  <SelectItem value="EUR">EUR €</SelectItem>
+   498→                  <SelectItem value="GBP">GBP £</SelectItem>
+   499→                </SelectContent>
+   500→              </Select>
+   501→
+   502→              {/* Cart Button */}
+   503→              <Button
+   504→                variant="ghost"
+   505→                size="icon"
+   506→                className="relative"
+   507→                onClick={() => setCartOpen(true)}
+   508→                aria-label="Open shopping cart"
+   509→              >
+   510→                <ShoppingCart className="size-5" />
+   511→                {cartItemCount > 0 && (
+   512→                  <span className="absolute -top-1 -right-1 bg-[#cb2027] text-white text-[10px] font-bold rounded-full size-5 flex items-center justify-center">
+   513→                    {cartItemCount > 99 ? "99+" : cartItemCount}
+   514→                  </span>
+   515→                )}
+   516→              </Button>
+   517→
+   518→              {/* Mobile menu */}
+   519→              <Button
+   520→                variant="ghost"
+   521→                size="icon"
+   522→                className="md:hidden"
+   523→                onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+   524→              >
+   525→                {mobileMenuOpen ? (
+   526→                  <X className="size-5" />
+   527→                ) : (
+   528→                  <Menu className="size-5" />
+   529→                )}
+   530→              </Button>
+   531→            </div>
+   532→          </div>
+   533→
+   534→          {/* Mobile search bar */}
+   535→          <div id="mobile-search" className="hidden sm:hidden pb-3">
+   536→            <div className="relative">
+   537→              <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 size-4 text-gray-400" />
+   538→              <Input
+   539→                placeholder="Search cards..."
+   540→                value={searchQuery}
+   541→                onChange={(e) => setSearchQuery(e.target.value)}
+   542→                className="pl-9 w-full h-9 text-sm bg-gray-50 border-gray-200"
+   543→              />
+   544→            </div>
+   545→          </div>
+   546→
+   547→          {/* Mobile nav menu */}
+   548→          <AnimatePresence>
+   549→            {mobileMenuOpen && (
+   550→              <motion.div
+   551→                initial={{ height: 0, opacity: 0 }}
+   552→                animate={{ height: "auto", opacity: 1 }}
+   553→                exit={{ height: 0, opacity: 0 }}
+   554→                transition={{ duration: 0.2 }}
+   555→                className="md:hidden overflow-hidden border-t border-gray-100"
+   556→              >
+   557→                <div className="py-3 space-y-1">
+   558→                  {[
+   559→                    { label: "Shop", id: "products" },
+   560→                    { label: "About", id: "about" },
+   561→                    { label: "Shipping", id: "about" },
+   562→                    { label: "FAQ", id: "about" },
+   563→                    { label: "Contact", id: "footer" },
+   564→                  ].map((item) => (
+   565→                    <button
+   566→                      key={item.label}
+   567→                      onClick={() => scrollToSection(item.id)}
+   568→                      className="block w-full text-left px-3 py-2 text-sm font-medium text-gray-600 hover:text-[#13aff0] hover:bg-gray-50 rounded-md transition-colors"
+   569→                    >
+   570→                      {item.label}
+   571→                    </button>
+   572→                  ))}
+   573→                </div>
+   574→              </motion.div>
+   575→            )}
+   576→          </AnimatePresence>
+   577→        </div>
+   578→      </header>
+   579→
+   580→      {/* ─── Main Content ─── */}
+   581→      <main className="flex-1">
+   582→        {/* ─── Hero Section ─── */}
+   583→        <section className="relative overflow-hidden bg-[#0e252c]">
+   584→          <div className="max-w-7xl mx-auto">
+   585→            <div className="relative">
+   586→              <AnimatePresence mode="wait">
+   587→                <motion.div
+   588→                  key={heroIndex}
+   589→                  initial={{ opacity: 0, x: 50 }}
+   590→                  animate={{ opacity: 1, x: 0 }}
+   591→                  exit={{ opacity: 0, x: -50 }}
+   592→                  transition={{ duration: 0.5 }}
+   593→                  className="relative h-64 sm:h-80 lg:h-[420px] w-full"
+   594→                >
+   595→                  <ProductImg
+   596→                    src={HERO_SLIDES[heroIndex].image}
+   597→                    alt={HERO_SLIDES[heroIndex].title}
+   598→                    fill
+   599→                    className="object-cover"
+   600→                    priority={heroIndex === 0}
+   601→                    sizes="100vw"
+   602→                  />
+   603→                  <div className="absolute inset-0 bg-gradient-to-r from-[#0e252c]/90 via-[#0e252c]/60 to-transparent" />
+   604→                  <div className="absolute inset-0 flex items-center px-8 sm:px-12 lg:px-16">
+   605→                    <div className="max-w-lg">
+   606→                      <Badge className="mb-3 bg-[#13aff0] text-white border-0 text-xs font-bold px-3 py-1">
+   607→                        {HERO_SLIDES[heroIndex].accent}
+   608→                      </Badge>
+   609→                      <h2 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-tight mb-3">
+   610→                        {HERO_SLIDES[heroIndex].title}
+   611→                      </h2>
+   612→                      <p className="text-sm sm:text-base text-gray-300 mb-5 max-w-md">
+   613→                        {HERO_SLIDES[heroIndex].subtitle}
+   614→                      </p>
+   615→                      <Button
+   616→                        onClick={() => scrollToSection("products")}
+   617→                        className="bg-[#13aff0] hover:bg-[#0e9ad8] text-white font-semibold px-6"
+   618→                      >
+   619→                        Shop Now
+   620→                      </Button>
+   621→                    </div>
+   622→                  </div>
+   623→                </motion.div>
+   624→              </AnimatePresence>
+   625→
+   626→              {/* Hero Nav Arrows */}
+   627→              <button
+   628→                onClick={() =>
+   629→                  setHeroIndex(
+   630→                    (prev) =>
+   631→                      (prev - 1 + HERO_SLIDES.length) % HERO_SLIDES.length
+   632→                  )
+   633→                }
+   634→                className="absolute left-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2 text-white transition-colors"
+   635→                aria-label="Previous slide"
+   636→              >
+   637→                <ChevronLeft className="size-5" />
+   638→              </button>
+   639→              <button
+   640→                onClick={() =>
+   641→                  setHeroIndex((prev) => (prev + 1) % HERO_SLIDES.length)
+   642→                }
+   643→                className="absolute right-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2 text-white transition-colors"
+   644→                aria-label="Next slide"
+   645→              >
+   646→                <ChevronRight className="size-5" />
+   647→              </button>
+   648→
+   649→              {/* Dots */}
+   650→              <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2">
+   651→                {HERO_SLIDES.map((_, i) => (
+   652→                  <button
+   653→                    key={i}
+   654→                    onClick={() => setHeroIndex(i)}
+   655→                    className={`rounded-full transition-all duration-300 ${
+   656→                      i === heroIndex
+   657→                        ? "w-8 h-2.5 bg-[#13aff0]"
+   658→                        : "w-2.5 h-2.5 bg-white/40 hover:bg-white/60"
+   659→                    }`}
+   660→                    aria-label={`Go to slide ${i + 1}`}
+   661→                  />
+   662→                ))}
+   663→              </div>
+   664→            </div>
+   665→          </div>
+   666→        </section>
+   667→
+   668→        {/* ─── Trust Badges ─── */}
+   669→        <section className="bg-white border-b border-gray-100">
+   670→          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
+   671→            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+   672→              {[
+   673→                { icon: Shield, label: "100% Authentic", desc: "Verified products" },
+   674→                { icon: Truck, label: "Free Shipping", desc: "Orders over $150" },
+   675→                { icon: Globe, label: "Worldwide", desc: "Secure delivery" },
+   676→                { icon: Package, label: "Direct from Japan", desc: "Trusted suppliers" },
+   677→              ].map((badge) => (
+   678→                <div
+   679→                  key={badge.label}
+   680→                  className="flex items-center gap-3 justify-center py-2"
+   681→                >
+   682→                  <div className="w-10 h-10 rounded-lg bg-[#0e252c]/5 flex items-center justify-center shrink-0">
+   683→                    <badge.icon className="size-5 text-[#0e252c]" />
+   684→                  </div>
+   685→                  <div>
+   686→                    <p className="text-sm font-semibold text-[#0e252c]">
+   687→                      {badge.label}
+   688→                    </p>
+   689→                    <p className="text-xs text-gray-500">{badge.desc}</p>
+   690→                  </div>
+   691→                </div>
+   692→              ))}
+   693→            </div>
+   694→          </div>
+   695→        </section>
+   696→
+   697→        {/* ─── Products Section ─── */}
+   698→        <section id="products" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+   699→          {/* Section Header */}
+   700→          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
+   701→            <div>
+   702→              <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-[#0e252c]">
+   703→                Our Collection
+   704→              </h2>
+   705→              <p className="text-sm text-gray-500 mt-1">
+   706→                {filteredProducts.length} products
+   707→                {selectedCategory !== "all" && ` in ${CATEGORY_TABS.find((t) => t.key === selectedCategory)?.label}`}
+   708→              </p>
+   709→            </div>
+   710→            <Select
+   711→              value={sortOption}
+   712→              onValueChange={(v) => setSortOption(v as SortOption)}
+   713→            >
+   714→              <SelectTrigger className="w-44 h-9 text-sm border-gray-200 bg-white">
+   715→                <SelectValue placeholder="Sort by" />
+   716→              </SelectTrigger>
+   717→              <SelectContent>
+   718→                <SelectItem value="featured">Featured</SelectItem>
+   719→                <SelectItem value="price-asc">Price: Low to High</SelectItem>
+   720→                <SelectItem value="price-desc">Price: High to Low</SelectItem>
+   721→                <SelectItem value="name-asc">Name: A to Z</SelectItem>
+   722→                <SelectItem value="name-desc">Name: Z to A</SelectItem>
+   723→                <SelectItem value="rating">Top Rated</SelectItem>
+   724→              </SelectContent>
+   725→            </Select>
+   726→          </div>
+   727→
+   728→          {/* Category Tabs */}
+   729→          <div className="mb-6 -mx-4 px-4 overflow-x-auto scrollbar-none">
+   730→            <div className="flex gap-2 pb-2 min-w-max">
+   731→              {CATEGORY_TABS.map((tab) => (
+   732→                <button
+   733→                  key={tab.key}
+   734→                  onClick={() => setSelectedCategory(tab.key)}
+   735→                  className={`px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 whitespace-nowrap ${
+   736→                    selectedCategory === tab.key
+   737→                      ? "bg-[#0e252c] text-white shadow-md"
+   738→                      : "bg-white text-gray-600 hover:bg-gray-100 border border-gray-200"
+   739→                  }`}
+   740→                >
+   741→                  {tab.label}
+   742→                </button>
+   743→              ))}
+   744→            </div>
+   745→          </div>
+   746→
+   747→          {/* Product Grid */}
+   748→          {loading ? (
+   749→            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+   750→              {Array.from({ length: 12 }).map((_, i) => (
+   751→                <div
+   752→                  key={i}
+   753→                  className="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100"
+   754→                >
+   755→                  <div className="aspect-[4/5] animate-shimmer" />
+   756→                  <div className="p-4 space-y-3">
+   757→                    <div className="h-4 bg-gray-200 rounded animate-shimmer w-3/4" />
+   758→                    <div className="h-4 bg-gray-200 rounded animate-shimmer w-1/2" />
+   759→                    <div className="h-8 bg-gray-200 rounded animate-shimmer w-1/3" />
+   760→                  </div>
+   761→                </div>
+   762→              ))}
+   763→            </div>
+   764→          ) : filteredProducts.length === 0 ? (
+   765→            <div className="text-center py-16">
+   766→              <Package className="size-16 text-gray-300 mx-auto mb-4" />
+   767→              <h3 className="text-lg font-semibold text-gray-500">
+   768→                No products found
+   769→              </h3>
+   770→              <p className="text-sm text-gray-400 mt-1">
+   771→                Try adjusting your search or category filter
+   772→              </p>
+   773→              <Button
+   774→                variant="outline"
+   775→                className="mt-4"
+   776→                onClick={() => {
+   777→                  setSearchQuery("");
+   778→                  setSelectedCategory("all");
+   779→                }}
+   780→              >
+   781→                Clear Filters
+   782→              </Button>
+   783→            </div>
+   784→          ) : (
+   785→            <motion.div
+   786→              layout
+   787→              className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5"
+   788→            >
+   789→              <AnimatePresence mode="popLayout">
+   790→                {filteredProducts.map((product) => (
+   791→                  <ProductCard
+   792→                    key={product.id}
+   793→                    product={product}
+   794→                    currency={currency}
+   795→                    onOpen={openProductModal}
+   796→                    onAddToCart={addToCart}
+   797→                  />
+   798→                ))}
+   799→              </AnimatePresence>
+   800→            </motion.div>
+   801→          )}
+   802→        </section>
+   803→
+   804→        {/* ─── About Section ─── */}
+   805→        <section
+   806→          id="about"
+   807→          className="bg-[#0e252c] text-white py-16 mt-8"
+   808→        >
+   809→          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+   810→            <div className="text-center mb-12">
+   811→              <Badge className="bg-[#13aff0]/20 text-[#13aff0] border-0 mb-4 text-xs font-bold px-3 py-1">
+   812→                🏆 TRUSTED WORLDWIDE
+   813→              </Badge>
+   814→              <h2 className="text-3xl sm:text-4xl font-bold font-[family-name:var(--font-montserrat)] mb-4">
+   815→                Why Choose Akihabara TCG Warehouse
+   816→              </h2>
+   817→              <p className="text-gray-400 max-w-2xl mx-auto">
+   818→                Your premier source for authentic Japanese Pokémon Trading Card
+   819→                Game products. Whether you&apos;re a seasoned collector, a
+   820→                competitive player, or running a card business.
+   821→              </p>
+   822→            </div>
+   823→
+   824→            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+   825→              {[
+   826→                {
+   827→                  icon: Shield,
+   828→                  title: "Guaranteed Authenticity",
+   829→                  desc: "Every item we sell is verified through trusted third-party channels. No counterfeits, ever.",
+   830→                },
+   831→                {
+   832→                  icon: Globe,
+   833→                  title: "Direct from Japan",
+   834→                  desc: "We work closely with Japanese suppliers to bring you exclusive releases and rare cards.",
+   835→                },
+   836→                {
+   837→                  icon: Package,
+   838→                  title: "Wholesale & Individual",
+   839→                  desc: "Whether you're buying one box or a pallet, we've got you covered at unbeatable prices.",
+   840→                },
+   841→                {
+   842→                  icon: Truck,
+   843→                  title: "Careful, Fast Delivery",
+   844→                  desc: "Secure packaging and prompt worldwide shipping ensure your order arrives safely.",
+   845→                },
+   846→                {
+   847→                  icon: Heart,
+   848→                  title: "Reliable Support",
+   849→                  desc: "Need assistance? Our support team is available 24/7 to guide and assist you.",
+   850→                },
+   851→                {
+   852→                  icon: Star,
+   853→                  title: "Our Guarantee",
+   854→                  desc: "We strictly avoid counterfeits and resealed packs — your satisfaction and trust are our top priorities.",
+   855→                },
+   856→              ].map((item) => (
+   857→                <div
+   858→                  key={item.title}
+   859→                  className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-6 hover:bg-white/10 transition-colors duration-300"
+   860→                >
+   861→                  <div className="w-12 h-12 rounded-lg bg-[#13aff0]/20 flex items-center justify-center mb-4">
+   862→                    <item.icon className="size-6 text-[#13aff0]" />
+   863→                  </div>
+   864→                  <h3 className="font-semibold text-lg mb-2">{item.title}</h3>
+   865→                  <p className="text-gray-400 text-sm leading-relaxed">
+   866→                    {item.desc}
+   867→                  </p>
+   868→                </div>
+   869→              ))}
+   870→            </div>
+   871→
+   872→            {/* Collection includes */}
+   873→            <div className="mt-12 bg-white/5 rounded-xl p-8 border border-white/10">
+   874→              <h3 className="text-xl font-bold font-[family-name:var(--font-montserrat)] mb-6 text-center">
+   875→                Our Collection Includes
+   876→              </h3>
+   877→              <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+   878→                {[
+   879→                  { title: "Booster Boxes & Packs", desc: "Newly released sets and collector favorites" },
+   880→                  { title: "Decks & Special Sets", desc: "Ready-to-play and collector editions" },
+   881→                  { title: "Singles & Graded Cards", desc: "Vintage holos to PSA-graded rarities" },
+   882→                  { title: "Bulk & Wholesale", desc: "Perfect for retailers and resellers" },
+   883→                ].map((item) => (
+   884→                  <div key={item.title} className="text-center p-4">
+   885→                    <h4 className="font-semibold text-[#13aff0] mb-1">
+   886→                      {item.title}
+   887→                    </h4>
+   888→                    <p className="text-sm text-gray-400">{item.desc}</p>
+   889→                  </div>
+   890→                ))}
+   891→              </div>
+   892→            </div>
+   893→          </div>
+   894→        </section>
+   895→      </main>
+   896→
+   897→      {/* ─── Footer ─── */}
+   898→      <footer
+   899→        id="footer"
+   900→        className="bg-[#0a1a20] text-gray-400 mt-auto"
+   901→      >
+   902→        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+   903→          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+   904→            {/* Brand */}
+   905→            <div>
+   906→              <div className="flex items-center gap-2 mb-4">
+   907→                <div className="w-9 h-9 bg-[#13aff0] rounded-lg flex items-center justify-center">
+   908→                  <Package className="size-5 text-white" />
+   909→                </div>
+   910→                <div>
+   911→                  <h3 className="font-bold font-[family-name:var(--font-montserrat)] text-white text-sm leading-tight">
+   912→                    AKIHABARA
+   913→                  </h3>
+   914→                  <p className="text-[9px] font-semibold text-[#13aff0] tracking-[0.2em] uppercase leading-none">
+   915→                    TCG Warehouse
+   916→                  </p>
+   917→                </div>
+   918→              </div>
+   919→              <p className="text-sm leading-relaxed">
+   920→                Your premier source for authentic Japanese TCG products. Direct
+   921→                from Japan, 100% authentic, ships worldwide.
+   922→              </p>
+   923→            </div>
+   924→
+   925→            {/* Quick Links */}
+   926→            <div>
+   927→              <h4 className="font-semibold text-white mb-4 text-sm">
+   928→                Quick Links
+   929→              </h4>
+   930→              <ul className="space-y-2">
+   931→                {["Shop", "About", "Shipping", "FAQ", "Contact"].map(
+   932→                  (link) => (
+   933→                    <li key={link}>
+   934→                      <button
+   935→                        onClick={() =>
+   936→                          scrollToSection(
+   937→                            link === "Shop"
+   938→                              ? "products"
+   939→                              : link === "Contact"
+   940→                              ? "footer"
+   941→                              : "about"
+   942→                          )
+   943→                        }
+   944→                        className="text-sm hover:text-[#13aff0] transition-colors"
+   945→                      >
+   946→                        {link}
+   947→                      </button>
+   948→                    </li>
+   949→                  )
+   950→                )}
+   951→              </ul>
+   952→            </div>
+   953→
+   954→            {/* Categories */}
+   955→            <div>
+   956→              <h4 className="font-semibold text-white mb-4 text-sm">
+   957→                Categories
+   958→              </h4>
+   959→              <ul className="space-y-2">
+   960→                {CATEGORY_TABS.slice(1, 7).map((tab) => (
+   961→                  <li key={tab.key}>
+   962→                    <button
+   963→                      onClick={() => {
+   964→                        setSelectedCategory(tab.key);
+   965→                        scrollToSection("products");
+   966→                      }}
+   967→                      className="text-sm hover:text-[#13aff0] transition-colors"
+   968→                    >
+   969→                      {tab.label}
+   970→                    </button>
+   971→                  </li>
+   972→                ))}
+   973→              </ul>
+   974→            </div>
+   975→
+   976→            {/* Contact */}
+   977→            <div>
+   978→              <h4 className="font-semibold text-white mb-4 text-sm">
+   979→                Contact Us
+   980→              </h4>
+   981→              <div className="space-y-2 text-sm">
+   982→                <p>📧 support@akihabara-tcg.com</p>
+   983→                <p>🌐 Worldwide Shipping</p>
+   984→                <p>💬 24/7 Support</p>
+   985→              </div>
+   986→              <div className="flex gap-3 mt-4">
+   987→                {["X", "IG", "YT", "DC"].map((social) => (
+   988→                  <div
+   989→                    key={social}
+   990→                    className="w-9 h-9 rounded-lg bg-white/5 hover:bg-[#13aff0]/20 flex items-center justify-center transition-colors cursor-pointer"
+   991→                  >
+   992→                    <span className="text-xs font-bold text-gray-400 hover:text-[#13aff0]">
+   993→                      {social}
+   994→                    </span>
+   995→                  </div>
+   996→                ))}
+   997→              </div>
+   998→            </div>
+   999→          </div>
+  1000→
+  1001→          <Separator className="my-8 bg-white/10" />
+  1002→
+  1003→          <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-gray-500">
+  1004→            <p>
+  1005→              © {new Date().getFullYear()} Akihabara TCG Warehouse. All rights
+  1006→              reserved.
+  1007→            </p>
+  1008→            <div className="flex gap-4">
+  1009→              <span className="hover:text-gray-300 cursor-pointer">
+  1010→                Privacy Policy
+  1011→              </span>
+  1012→              <span className="hover:text-gray-300 cursor-pointer">
+  1013→                Terms of Service
+  1014→              </span>
+  1015→              <span className="hover:text-gray-300 cursor-pointer">
+  1016→                Refund Policy
+  1017→              </span>
+  1018→            </div>
+  1019→          </div>
+  1020→        </div>
+  1021→      </footer>
+  1022→
+  1023→      {/* ─── Scroll to Top ─── */}
+  1024→      <AnimatePresence>
+  1025→        {showScrollTop && (
+  1026→          <motion.button
+  1027→            initial={{ opacity: 0, y: 20 }}
+  1028→            animate={{ opacity: 1, y: 0 }}
+  1029→            exit={{ opacity: 0, y: 20 }}
+  1030→            onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+  1031→            className="fixed bottom-6 right-6 z-50 bg-[#0e252c] hover:bg-[#13aff0] text-white rounded-full p-3 shadow-lg transition-colors"
+  1032→            aria-label="Scroll to top"
+  1033→          >
+  1034→            <ChevronUp className="size-5" />
+  1035→          </motion.button>
+  1036→        )}
+  1037→      </AnimatePresence>
+  1038→
+  1039→      {/* ─── Cart Sidebar ─── */}
+  1040→      <Sheet open={cartOpen} onOpenChange={setCartOpen}>
+  1041→        <SheetContent
+  1042→          side="right"
+  1043→          className="w-full sm:max-w-md flex flex-col bg-white p-0"
+  1044→        >
+  1045→          <SheetHeader className="p-4 pb-0">
+  1046→            <SheetTitle className="flex items-center gap-2 font-[family-name:var(--font-montserrat)]">
+  1047→              <ShoppingCart className="size-5" />
+  1048→              Shopping Cart
+  1049→              {cartItemCount > 0 && (
+  1050→                <Badge className="bg-[#13aff0] text-white border-0 text-xs">
+  1051→                  {cartItemCount}
+  1052→                </Badge>
+  1053→              )}
+  1054→            </SheetTitle>
+  1055→            <SheetDescription className="text-sm text-gray-500">
+  1056→              {cart.length === 0
+  1057→                ? "Your cart is empty"
+  1058→                : `${cartItemCount} item${cartItemCount > 1 ? "s" : ""} in your cart`}
+  1059→            </SheetDescription>
+  1060→          </SheetHeader>
+  1061→
+  1062→          {cart.length === 0 ? (
+  1063→            <div className="flex-1 flex flex-col items-center justify-center p-8 text-center">
+  1064→              <ShoppingCart className="size-16 text-gray-200 mb-4" />
+  1065→              <p className="text-gray-500 font-medium">No items yet</p>
+  1066→              <p className="text-sm text-gray-400 mt-1">
+  1067→                Start adding products to your cart
+  1068→              </p>
+  1069→              <Button
+  1070→                className="mt-4 bg-[#13aff0] hover:bg-[#0e9ad8] text-white"
+  1071→                onClick={() => setCartOpen(false)}
+  1072→              >
+  1073→                Continue Shopping
+  1074→              </Button>
+  1075→            </div>
+  1076→          ) : (
+  1077→            <>
+  1078→              <ScrollArea className="flex-1 px-4">
+  1079→                <div className="space-y-4 py-4">
+  1080→                  {cart.map((item) => (
+  1081→                    <div
+  1082→                      key={item.product.id}
+  1083→                      className="flex gap-3 bg-gray-50 rounded-lg p-3"
+  1084→                    >
+  1085→                      <div className="w-16 h-20 rounded-md overflow-hidden shrink-0 bg-gray-200">
+  1086→                        <ProductImg
+  1087→                          src={item.product.image}
+  1088→                          alt={item.product.title}
+  1089→                          width={64}
+  1090→                          height={80}
+  1091→                          className="w-full h-full object-cover"
+  1092→                        />
+  1093→                      </div>
+  1094→                      <div className="flex-1 min-w-0">
+  1095→                        <p className="text-sm font-medium text-[#0e252c] truncate">
+  1096→                          {item.product.title}
+  1097→                        </p>
+  1098→                        <p className="text-sm font-bold text-[#13aff0] mt-1">
+  1099→                          {formatPrice(item.product.price, currency)}
+  1100→                        </p>
+  1101→                        <div className="flex items-center gap-2 mt-2">
+  1102→                          <Button
+  1103→                            variant="outline"
+  1104→                            size="icon"
+  1105→                            className="size-7"
+  1106→                            onClick={() =>
+  1107→                              updateCartQuantity(item.product.id, -1)
+  1108→                            }
+  1109→                          >
+  1110→                            <Minus className="size-3" />
+  1111→                          </Button>
+  1112→                          <span className="text-sm font-semibold w-6 text-center">
+  1113→                            {item.quantity}
+  1114→                          </span>
+  1115→                          <Button
+  1116→                            variant="outline"
+  1117→                            size="icon"
+  1118→                            className="size-7"
+  1119→                            onClick={() =>
+  1120→                              updateCartQuantity(item.product.id, 1)
+  1121→                            }
+  1122→                          >
+  1123→                            <Plus className="size-3" />
+  1124→                          </Button>
+  1125→                          <Button
+  1126→                            variant="ghost"
+  1127→                            size="icon"
+  1128→                            className="size-7 ml-auto text-[#cb2027] hover:text-[#cb2027] hover:bg-[#cb2027]/10"
+  1129→                            onClick={() => removeFromCart(item.product.id)}
+  1130→                          >
+  1131→                            <Trash2 className="size-3.5" />
+  1132→                          </Button>
+  1133→                        </div>
+  1134→                      </div>
+  1135→                    </div>
+  1136→                  ))}
+  1137→                </div>
+  1138→              </ScrollArea>
+  1139→
+  1140→              <div className="border-t border-gray-200 p-4 space-y-3">
+  1141→                <div className="flex justify-between items-center">
+  1142→                  <span className="text-sm text-gray-500">Subtotal</span>
+  1143→                  <span className="text-lg font-bold text-[#0e252c]">
+  1144→                    {formatPrice(cartTotal, currency)}
+  1145→                  </span>
+  1146→                </div>
+  1147→                {cartTotal < 150 && (
+  1148→                  <p className="text-xs text-gray-400 text-center">
+  1149→                    Add {formatPrice(150 - cartTotal, currency)} more for free
+  1150→                    shipping!
+  1151→                  </p>
+  1152→                )}
+  1153→                {cartTotal >= 150 && (
+  1154→                  <p className="text-xs text-green-600 text-center font-medium">
+  1155→                    🎉 You qualify for free shipping!
+  1156→                  </p>
+  1157→                )}
+  1158→                <Button className="w-full bg-[#13aff0] hover:bg-[#0e9ad8] text-white font-semibold h-11">
+  1159→                  Proceed to Checkout
+  1160→                </Button>
+  1161→                <Button
+  1162→                  variant="outline"
+  1163→                  className="w-full"
+  1164→                  onClick={() => setCartOpen(false)}
+  1165→                >
+  1166→                  Continue Shopping
+  1167→                </Button>
+  1168→              </div>
+  1169→            </>
+  1170→          )}
+  1171→        </SheetContent>
+  1172→      </Sheet>
+  1173→
+  1174→      {/* ─── Product Detail Modal ─── */}
+  1175→      <Dialog
+  1176→        open={productModalOpen}
+  1177→        onOpenChange={setProductModalOpen}
+  1178→      >
+  1179→        <DialogContent className="sm:max-w-2xl max-h-[90vh] overflow-y-auto p-0">
+  1180→          {selectedProduct && (
+  1181→            <ProductDetailModal
+  1182→              product={selectedProduct}
+  1183→              currency={currency}
+  1184→              onClose={() => setProductModalOpen(false)}
+  1185→              onAddToCart={addToCart}
+  1186→            />
+  1187→          )}
+  1188→        </DialogContent>
+  1189→      </Dialog>
+  1190→    </div>
+  1191→  );
+  1192→}
+  1193→
+  1194→/* ─────────── Sub-Components ─────────── */
+  1195→
+  1196→function ProductCard({
+  1197→  product,
+  1198→  currency,
+  1199→  onOpen,
+  1200→  onAddToCart,
+  1201→}: {
+  1202→  product: Product;
+  1203→  currency: CurrencyCode;
+  1204→  onOpen: (p: Product) => void;
+  1205→  onAddToCart: (p: Product) => void;
+  1206→}) {
+  1207→  const discount = getDiscountPercent(product.original_price ?? 0, product.price);
+  1208→  const isOnSale = discount > 0;
+  1209→
+  1210→  return (
+  1211→    <motion.div
+  1212→      layout
+  1213→      initial={{ opacity: 0, y: 20 }}
+  1214→      animate={{ opacity: 1, y: 0 }}
+  1215→      exit={{ opacity: 0, y: -20 }}
+  1216→      transition={{ duration: 0.3 }}
+  1217→      className="product-card bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-lg hover:border-gray-200 transition-all duration-300 group cursor-pointer"
+  1218→    >
+  1219→      {/* Image */}
+  1220→      <div
+  1221→        className="relative aspect-[4/5] bg-gray-50 overflow-hidden"
+  1222→        onClick={() => onOpen(product)}
+  1223→      >
+  1224→        <ProductImg
+  1225→          src={product.image}
+  1226→          alt={product.title}
+  1227→          fill
+  1228→          className="product-card-image object-contain p-2"
+  1229→          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+  1230→        />
+  1231→
+  1232→        {/* Badges */}
+  1233→        <div className="absolute top-2 left-2 flex flex-col gap-1.5">
+  1234→          {isOnSale && (
+  1235→            <Badge className="bg-[#cb2027] text-white border-0 text-[10px] font-bold px-2 py-0.5">
+  1236→              -{discount}%
+  1237→            </Badge>
+  1238→          )}
+  1239→          {product.in_stock === false && (
+  1240→            <Badge className="bg-gray-800 text-white border-0 text-[10px] font-bold px-2 py-0.5">
+  1241→              Out of Stock
+  1242→            </Badge>
+  1243→          )}
+  1244→        </div>
+  1245→
+  1246→        {/* Quick add on hover */}
+  1247→        <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/50 to-transparent p-3 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
+  1248→          <Button
+  1249→            className="w-full bg-[#13aff0] hover:bg-[#0e9ad8] text-white text-sm font-semibold"
+  1250→            disabled={product.in_stock === false}
+  1251→            onClick={(e) => {
+  1252→              e.stopPropagation();
+  1253→              onAddToCart(product);
+  1254→            }}
+  1255→          >
+  1256→            {product.in_stock !== false ? "Add to Cart" : "Sold Out"}
+  1257→          </Button>
+  1258→        </div>
+  1259→      </div>
+  1260→
+  1261→      {/* Info */}
+  1262→      <div className="p-4" onClick={() => onOpen(product)}>
+  1263→        {/* Category badge */}
+  1264→        <Badge
+  1265→          variant="secondary"
+  1266→          className="text-[10px] font-medium mb-2 bg-[#0e252c]/5 text-[#0e252c] hover:bg-[#0e252c]/10"
+  1267→        >
+  1268→          {product.category}
+  1269→        </Badge>
+  1270→
+  1271→        {/* Title */}
+  1272→        <h3 className="text-sm font-semibold text-[#0e252c] line-clamp-2 leading-snug mb-2 min-h-[2.5rem]">
+  1273→          {product.title}
+  1274→        </h3>
+  1275→
+  1276→        {/* Rating */}
+  1277→        <div className="flex items-center gap-1 mb-2">
+  1278→          {renderStars(product.rating ?? 0)}
+  1279→          <span className="text-xs text-gray-400 ml-1">
+  1280→            ({product.rating ?? 0})
+  1281→          </span>
+  1282→        </div>
+  1283→
+  1284→        {/* Price */}
+  1285→        <div className="flex items-baseline gap-2">
+  1286→          <span className="text-lg font-bold text-[#0e252c]">
+  1287→            {formatPrice(product.price, currency)}
+  1288→          </span>
+  1289→          {isOnSale && (
+  1290→            <span className="text-sm text-gray-400 line-through">
+  1291→              {formatPrice(product.original_price ?? 0, currency)}
+  1292→            </span>
+  1293→          )}
+  1294→        </div>
+  1295→      </div>
+  1296→    </motion.div>
+  1297→  );
+  1298→}
+  1299→
+  1300→function ProductDetailModal({
+  1301→  product,
+  1302→  currency,
+  1303→  onClose,
+  1304→  onAddToCart,
+  1305→}: {
+  1306→  product: Product;
+  1307→  currency: CurrencyCode;
+  1308→  onClose: () => void;
+  1309→  onAddToCart: (p: Product, q?: number) => void;
+  1310→}) {
+  1311→  const [quantity, setQuantity] = useState(1);
+  1312→  const discount = getDiscountPercent(product.original_price ?? 0, product.price);
+  1313→  const isOnSale = discount > 0;
+  1314→
+  1315→  const handleAdd = () => {
+  1316→    onAddToCart(product, quantity);
+  1317→    onClose();
+  1318→  };
+  1319→
+  1320→  return (
+  1321→    <div className="flex flex-col md:flex-row">
+  1322→      {/* Image */}
+  1323→      <div className="relative w-full md:w-1/2 aspect-square bg-gray-50 shrink-0">
+  1324→        <ProductImg
+  1325→          src={product.image}
+  1326→          alt={product.title}
+  1327→          fill
+  1328→          className="object-contain p-6"
+  1329→          sizes="(max-width: 768px) 100vw, 50vw"
+  1330→        />
+  1331→        {isOnSale && (
+  1332→          <Badge className="absolute top-4 left-4 bg-[#cb2027] text-white border-0 font-bold">
+  1333→            -{discount}% OFF
+  1334→          </Badge>
+  1335→        )}
+  1336→      </div>
+  1337→
+  1338→      {/* Details */}
+  1339→      <div className="flex-1 p-6 flex flex-col">
+  1340→        <DialogHeader className="text-left p-0 mb-4">
+  1341→          <Badge
+  1342→            variant="secondary"
+  1343→            className="text-xs font-medium mb-2 w-fit bg-[#0e252c]/5 text-[#0e252c]"
+  1344→          >
+  1345→            {product.category}
+  1346→          </Badge>
+  1347→          <DialogTitle className="text-xl font-bold font-[family-name:var(--font-montserrat)] text-[#0e252c] leading-snug">
+  1348→            {product.title}
+  1349→          </DialogTitle>
+  1350→          <DialogDescription className="sr-only">
+  1351→            Product details for {product.title}
+  1352→          </DialogDescription>
+  1353→        </DialogHeader>
+  1354→
+  1355→        {/* Rating */}
+  1356→        <div className="flex items-center gap-2 mb-4">
+  1357→          <div className="flex items-center gap-0.5">
+  1358→            {renderStars(product.rating ?? 0)}
+  1359→          </div>
+  1360→          <span className="text-sm font-medium text-gray-600">
+  1361→            {product.rating ?? 0} / 5
+  1362→          </span>
+  1363→        </div>
+  1364→
+  1365→        {/* Price */}
+  1366→        <div className="flex items-baseline gap-3 mb-4">
+  1367→          <span className="text-3xl font-bold text-[#0e252c]">
+  1368→            {formatPrice(product.price, currency)}
+  1369→          </span>
+  1370→          {isOnSale && (
+  1371→            <span className="text-lg text-gray-400 line-through">
+  1372→              {formatPrice(product.original_price ?? 0, currency)}
+  1373→            </span>
+  1374→          )}
+  1375→          {isOnSale && (
+  1376→            <Badge className="bg-[#cb2027] text-white border-0 text-xs font-bold">
+  1377→              Save {formatPrice((product.original_price ?? 0) - product.price, currency)}
+  1378→            </Badge>
+  1379→          )}
+  1380→        </div>
+  1381→
+  1382→        {/* Stock */}
+  1383→        <div className="flex items-center gap-2 mb-4">
+  1384→          <div
+  1385→            className={`w-2.5 h-2.5 rounded-full ${
+  1386→              product.in_stock !== false ? "bg-green-500" : "bg-gray-400"
+  1387→            }`}
+  1388→          />
+  1389→          <span
+  1390→            className={`text-sm font-medium ${
+  1391→              product.in_stock !== false ? "text-green-600" : "text-gray-500"
+  1392→            }`}
+  1393→          >
+  1394→            {product.in_stock !== false ? "In Stock" : "Out of Stock"}
+  1395→          </span>
+  1396→        </div>
+  1397→
+  1398→        {/* Description */}
+  1399→        <p className="text-sm text-gray-600 leading-relaxed mb-6">
+  1400→          {product.description || 'No description available.'}
+  1401→        </p>
+  1402→
+  1403→        {/* Quantity + Add to Cart */}
+  1404→        <div className="mt-auto space-y-3">
+  1405→          <div className="flex items-center gap-3">
+  1406→            <span className="text-sm font-medium text-gray-600">Qty:</span>
+  1407→            <div className="flex items-center border border-gray-200 rounded-lg">
+  1408→              <Button
+  1409→                variant="ghost"
+  1410→                size="icon"
+  1411→                className="size-9"
+  1412→                onClick={() => setQuantity(Math.max(1, quantity - 1))}
+  1413→              >
+  1414→                <Minus className="size-4" />
+  1415→              </Button>
+  1416→              <span className="w-10 text-center text-sm font-semibold">
+  1417→                {quantity}
+  1418→              </span>
+  1419→              <Button
+  1420→                variant="ghost"
+  1421→                size="icon"
+  1422→                className="size-9"
+  1423→                onClick={() => setQuantity(quantity + 1)}
+  1424→              >
+  1425→                <Plus className="size-4" />
+  1426→              </Button>
+  1427→            </div>
+  1428→          </div>
+  1429→
+  1430→          <Button
+  1431→            className="w-full bg-[#13aff0] hover:bg-[#0e9ad8] text-white font-semibold h-12 text-base"
+  1432→            disabled={product.in_stock === false}
+  1433→            onClick={handleAdd}
+  1434→          >
+  1435→            <ShoppingCart className="size-5 mr-2" />
+  1436→            {product.in_stock !== false ? "Add to Cart" : "Out of Stock"}
+  1437→          </Button>
+  1438→
+  1439→          {/* Trust badges */}
+  1440→          <div className="flex items-center justify-center gap-4 pt-2">
+  1441→            <div className="flex items-center gap-1 text-xs text-gray-400">
+  1442→              <Shield className="size-3.5" />
+  1443→              <span>Authentic</span>
+  1444→            </div>
+  1445→            <div className="flex items-center gap-1 text-xs text-gray-400">
+  1446→              <Truck className="size-3.5" />
+  1447→              <span>Fast Ship</span>
+  1448→            </div>
+  1449→            <div className="flex items-center gap-1 text-xs text-gray-400">
+  1450→              <Globe className="size-3.5" />
+  1451→              <span>Worldwide</span>
+  1452→            </div>
+  1453→          </div>
+  1454→        </div>
+  1455→      </div>
+  1456→    </div>
+  1457→  );
+  1458→}
+  1459→
