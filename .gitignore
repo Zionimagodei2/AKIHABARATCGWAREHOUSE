@@ -52,3 +52,18 @@ prompt
 server.log
 # Skills directory
 /skills/
+
+# Firecrawl / scraping
+scrape_*.py
+scraped-data/
+
+# Sandbox / dev files
+.zscripts/
+tool-results/
+agent-ctx/
+Caddyfile
+download/
+examples/
+mini-services/
+worklog.md
+AKIHABARATCGWAREHOUSE
