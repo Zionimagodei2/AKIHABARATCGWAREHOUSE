@@ -885,7 +885,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
         </div>
         <div className="overflow-hidden relative">
           <div className="flex gap-6 py-2 warehouse-track">
-            {[1, 2, 3, 1, 2, 3, 1, 2, 3].map((num, i) => (
+            {[1, 2, 1, 2, 1, 2].map((num, i) => (
               <div key={i} className="shrink-0 w-[300px] sm:w-[400px] lg:w-[500px] rounded-xl overflow-hidden shadow-sm border border-gray-100">
                 <img
                   src={`/images/warehouse-${num}.png`}
@@ -896,6 +896,17 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 />
               </div>
             ))}
+          </div>
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
+            <div className="rounded-xl overflow-hidden shadow-sm border border-gray-100">
+              <img
+                src="/images/warehouse-3.png"
+                alt="Akihabara TCG Warehouse - Inside View"
+                className="w-full h-[200px] sm:h-[260px] lg:h-[320px] object-cover block"
+                loading="eager"
+                decoding="async"
+              />
+            </div>
           </div>
         </div>
       </section>
@@ -1151,7 +1162,7 @@ function AboutPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-[11px] font-bold text-[#13aff0] tracking-[0.2em] uppercase mb-4">About Us</p>
           <h1 className="text-3xl sm:text-5xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-tight mb-6">
-            Trusted Worldwide for Japanese TCG
+            Trusted Worldwide for Japanese Pokémon TCG and Others
           </h1>
           <p className="text-[15px] text-gray-300 max-w-2xl mx-auto leading-relaxed">
             Welcome to Akihabara TCG Warehouse, your premier source for authentic Japanese TCG products. From Pokémon and One Piece to Dragon Ball, Weiss Schwarz, Union Arena, Gundam, and Disney Lorcana — whether you're a seasoned collector, a competitive player, or running a card business, we offer genuine items straight from Japan at unbeatable wholesale prices.
