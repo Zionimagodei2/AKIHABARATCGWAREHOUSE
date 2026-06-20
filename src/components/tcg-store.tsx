@@ -714,8 +714,8 @@ export default function TCGStore() {
         href="https://wa.me/818029350455"
         target="_blank"
         rel="noopener noreferrer"
-        className="fixed left-4 z-[999] bg-[#25D366] hover:bg-[#1ebe5d] text-white rounded-full p-3.5 shadow-lg transition-colors flex items-center justify-center"
-        style={{ bottom: "max(1.5rem, env(safe-area-inset-bottom, 1.5rem))" }}
+        className="fixed left-4 bottom-20 sm:bottom-8 md:bottom-6 z-[999] bg-[#25D366] hover:bg-[#1ebe5d] text-white rounded-full p-3.5 shadow-lg transition-colors flex items-center justify-center"
+        style={{ paddingBottom: "calc(0.875rem + env(safe-area-inset-bottom, 0px))" }}
         aria-label="Contact us on WhatsApp"
       >
         <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
