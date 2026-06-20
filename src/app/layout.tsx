@@ -36,7 +36,11 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Akihabara TCG Warehouse" }],
   icons: {
-    icon: "/favicon.ico",
+    icon: [
+      { url: "/favicon.ico" },
+      { url: "/favicon-32.png", type: "image/png", sizes: "32x32" },
+    ],
+    apple: "/apple-touch-icon.png",
   },
   openGraph: {
     title: "Akihabara TCG Warehouse",

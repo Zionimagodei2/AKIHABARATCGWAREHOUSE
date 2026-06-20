@@ -417,8 +417,8 @@ export default function TCGStore() {
           <div className="flex items-center justify-between h-[68px]">
             {/* Logo */}
             <button onClick={() => navigateTo("shop")} className="flex items-center gap-3 shrink-0 group">
-              <div className="w-10 h-10 bg-[#0e252c] rounded-lg flex items-center justify-center group-hover:bg-[#162f39] transition-colors">
-                <Package className="size-5 text-[#13aff0]" />
+              <div className="w-10 h-10 rounded-lg overflow-hidden flex items-center justify-center group-hover:opacity-90 transition-opacity shrink-0">
+                <img src="/logo.png" alt="Akihabara TCG Warehouse" className="w-full h-full object-contain" />
               </div>
               <div className="hidden sm:block">
                 <h1 className="text-[17px] font-extrabold font-[family-name:var(--font-montserrat)] text-[#0e252c] leading-none tracking-tight">
@@ -576,8 +576,8 @@ export default function TCGStore() {
             {/* Column 1: Brand */}
             <div className="sm:col-span-2 lg:col-span-1">
               <div className="flex items-center gap-2.5 mb-5">
-                <div className="w-10 h-10 bg-[#13aff0] rounded-lg flex items-center justify-center">
-                  <Package className="size-5 text-white" />
+                <div className="w-10 h-10 rounded-lg overflow-hidden flex items-center justify-center shrink-0">
+                  <img src="/logo.png" alt="Akihabara TCG Warehouse" className="w-full h-full object-contain" />
                 </div>
                 <div>
                   <h3 className="font-extrabold font-[family-name:var(--font-montserrat)] text-white text-[15px] leading-none">
@@ -884,14 +884,15 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
           </div>
         </div>
         <div className="overflow-hidden relative">
-          <div className="animate-marquee-slow flex gap-6 whitespace-nowrap py-2">
-            {[1, 2, 3, 1, 2, 3].map((num, i) => (
-              <div key={i} className="shrink-0 w-[340px] sm:w-[440px] lg:w-[540px] rounded-xl overflow-hidden shadow-sm border border-gray-100">
+          <div className="flex gap-6 py-2 warehouse-track">
+            {[1, 2, 3, 1, 2, 3, 1, 2, 3].map((num, i) => (
+              <div key={i} className="shrink-0 w-[300px] sm:w-[400px] lg:w-[500px] rounded-xl overflow-hidden shadow-sm border border-gray-100">
                 <img
                   src={`/images/warehouse-${num}.png`}
                   alt={`Akihabara TCG Warehouse - Shipment ${num}`}
-                  className="w-full h-auto object-cover block"
+                  className="w-full h-[250px] sm:h-[280px] lg:h-[300px] object-cover block"
                   loading="eager"
+                  decoding="async"
                 />
               </div>
             ))}
