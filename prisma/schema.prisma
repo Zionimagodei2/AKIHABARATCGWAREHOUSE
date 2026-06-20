@@ -1,9 +1,3 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
-
 generator client {
   provider = "prisma-client-js"
 }
@@ -17,16 +11,107 @@ model User {
   id        String   @id @default(cuid())
   email     String   @unique
   name      String?
+  password  String
+  role      String   @default("customer") // "admin" or "customer"
+  phone     String?
+  address   String?
+  city      String?
+  country   String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  orders    Order[]
+  reviews   Review[]
+}
+
+model Product {
+  id            String      @id @default(cuid())
+  title         String
+  price         Float
+  originalPrice Float?
+  image         String
+  images        String      @default("[]") // JSON array of image URLs
+  description   String?
+  category      String
+  categories    String      @default("[]") // JSON array of category strings
+  rating        Float       @default(4.5)
+  reviewCount   Int         @default(0)
+  inStock       Boolean     @default(true)
+  featured      Boolean     @default(false)
+  source        String?
+  sku           String?
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime    @updatedAt
+  orderItems    OrderItem[]
+  reviews       Review[]
+}
+
+model Order {
+  id              String      @id @default(cuid())
+  userId          String?
+  user            User?       @relation(fields: [userId], references: [id])
+  items           OrderItem[]
+  total           Float
+  status          String      @default("pending") // pending, processing, shipped, delivered, cancelled
+  customerName    String?
+  customerEmail   String?
+  customerPhone   String?
+  shippingAddress String?
+  shippingCity    String?
+  shippingCountry String?
+  shippingZip     String?
+  notes           String?
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+}
+
+model OrderItem {
+  id        String  @id @default(cuid())
+  orderId   String
+  order     Order   @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  productId String?
+  product   Product? @relation(fields: [productId], references: [id])
+  title     String
+  price     Float
+  quantity  Int
+  image     String?
+}
+
+model Review {
+  id        String   @id @default(cuid())
+  productId String?
+  product   Product? @relation(fields: [productId], references: [id])
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id])
+  author    String
+  rating    Float    @default(5)
+  comment   String
+  date      String
+  avatar    String?
+  approved  Boolean  @default(true)
+  createdAt DateTime @default(now())
+}
+
+model HeroSlide {
+  id        String   @id @default(cuid())
+  image     String
+  title     String
+  subtitle  String
+  accent    String
+  order     Int      @default(0)
+  active    Boolean  @default(true)
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }
 
-model Post {
-  id        String   @id @default(cuid())
-  title     String
-  content   String?
-  published Boolean  @default(false)
-  authorId  String
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+model Announcement {
+  id      String @id @default(cuid())
+  message String
+  active  Boolean @default(true)
+  order   Int     @default(0)
+}
+
+model SiteSetting {
+  id    String @id @default(cuid())
+  key   String @unique
+  value String
 }
