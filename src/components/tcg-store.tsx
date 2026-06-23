@@ -100,6 +100,18 @@ function ProductImg({ src, alt, fill, className, sizes, priority, width, height 
   height?: number;
 }) {
   const [imgError, setImgError] = React.useState(false);
+  const imgRef = React.useRef<HTMLImageElement | null>(null);
+
+  // Timeout fallback: if external image hasn't loaded in 8s, switch to fallback
+  React.useEffect(() => {
+    if (isLocalImage(src) || imgError) return;
+    const timer = setTimeout(() => {
+      if (imgRef.current && !imgRef.current.complete) {
+        setImgError(true);
+      }
+    }, 8000);
+    return () => clearTimeout(timer);
+  }, [src, imgError]);
 
   if (isLocalImage(src) && !imgError) {
     return (
@@ -117,12 +129,14 @@ function ProductImg({ src, alt, fill, className, sizes, priority, width, height 
     );
   }
 
+  const imgSrc = imgError ? "/images/existing/ONE.jpg" : src;
+
   return (
     <img
-      src={imgError ? "/images/existing/ONE.jpg" : src}
+      ref={imgRef}
+      src={imgSrc}
       alt={alt}
       referrerPolicy="no-referrer"
-      crossOrigin="anonymous"
       className={className || ""}
       style={fill ? { position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" } : { width: width || "100%", height: height || "100%", objectFit: "contain" }}
       onError={(e) => {
@@ -155,14 +169,13 @@ const CURRENCY_SYMBOLS: Record<CurrencyCode, string> = {
 
 const CATEGORY_TABS = [
   { key: "all", label: "All Products" },
-  { key: "Japanese Pokemon Cards", label: "Japanese Pokémon" },
-  { key: "English Pokemon Cards", label: "English Pokémon" },
-  { key: "One Piece", label: "One Piece" },
-  { key: "Dragon Ball", label: "Dragon Ball" },
-  { key: "Weiss Schwarz", label: "Weiss Schwarz" },
-  { key: "Union Arena", label: "Union Arena" },
-  { key: "Gundam Card Game", label: "Gundam" },
-  { key: "Disney Lorcana", label: "Lorcana" },
+  { key: "Pokemon", label: "Pokémon", color: "border-orange-500" },
+  { key: "One Piece", label: "One Piece", color: "border-orange-500" },
+  { key: "Dragon Ball", label: "Dragon Ball", color: "border-purple-500" },
+  { key: "Weiss Schwarz", label: "Weiss Schwarz", color: "border-purple-500" },
+  { key: "Union Arena", label: "Union Arena", color: "border-purple-500" },
+  { key: "Gundam", label: "Gundam", color: "border-purple-500" },
+  { key: "Disney Lorcana", label: "Lorcana", color: "border-purple-500" },
 ];
 
 const HERO_SLIDES = [
@@ -430,7 +443,7 @@ export default function TCGStore() {
   /* ─────────── Render ─────────── */
 
   return (
-    <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-900 via-violet-800 to-purple-900">
+    <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-100 via-violet-200 to-purple-100">
       {/* ─── Announcement Bar ─── */}
       <div className="bg-purple-950 text-white overflow-hidden relative">
         <div className="animate-marquee flex whitespace-nowrap py-2.5">
@@ -602,7 +615,7 @@ export default function TCGStore() {
       </main>
 
       {/* ─── Footer ─── */}
-      <footer className="bg-gradient-to-r from-purple-950 via-violet-800 to-purple-950 mt-auto">
+      <footer className="bg-gradient-to-r from-purple-900 via-violet-800 to-purple-900 mt-auto">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-8">
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
             {/* Column 1: Brand */}
@@ -991,15 +1004,16 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* Products Section */}
-      <section id="products" className="bg-white py-8">
+      <section id="products" className="py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
             <div>
+              <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-1">Featured Selection</p>
               <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
                 Our Collection
               </h2>
               <p className="text-[12px] text-gray-500 mt-1">
-                {isHomepageView ? `${products.length} products across ${Object.keys(productsByCategory).length} categories` : `${filteredProducts.length} products${selectedCategory !== "all" ? ` in ${CATEGORY_TABS.find((t) => t.key === selectedCategory)?.label}` : ""}`}
+                {isHomepageView ? "Hand-picked highlights from each category" : `${filteredProducts.length} products${selectedCategory !== "all" ? ` in ${CATEGORY_TABS.find((t) => t.key === selectedCategory)?.label}` : ""}`}
               </p>
             </div>
             {!isHomepageView && (
@@ -1041,7 +1055,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
           {loading ? (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
               {Array.from({ length: 12 }).map((_, i) => (
-                <div key={i} className="bg-gray-50 rounded-xl overflow-hidden shadow-sm border border-gray-100">
+                <div key={i} className="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100">
                   <div className="aspect-[4/5] animate-shimmer" />
                   <div className="p-4 space-y-3">
                     <div className="h-4 bg-gray-200 rounded animate-shimmer w-3/4" />
@@ -1052,17 +1066,19 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               ))}
             </div>
           ) : isHomepageView ? (
-            /* ── Homepage Category Showcase: 2 products per category ── */
-            <div className="space-y-12">
+            /* ── Homepage Category Showcase: 2 products per category with colored bars ── */
+            <div className="space-y-10">
               {categoryOrder.map((catKey) => {
                 const catProducts = featuredByCategory[catKey];
                 if (!catProducts || catProducts.length === 0) return null;
-                const catLabel = CATEGORY_TABS.find(t => t.key === catKey)?.label || catKey;
+                const catTab = CATEGORY_TABS.find(t => t.key === catKey);
+                const catLabel = catTab?.label || catKey;
+                const catColor = catTab?.color || "border-purple-500";
                 const totalInCat = productsByCategory[catKey]?.length || 0;
 
                 return (
                   <div key={catKey}>
-                    <div className="flex items-center justify-between mb-5">
+                    <div className={`flex items-center justify-between mb-5 border-l-4 ${catColor} pl-4`}>
                       <div>
                         <h3 className="text-xl sm:text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
                           {catLabel}
@@ -1077,7 +1093,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                         <ChevronRight className="size-4 ml-1" />
                       </Button>
                     </div>
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-2xl">
+                    <div className="grid grid-cols-2 gap-4">
                       {catProducts.map((product) => (
                         <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
                       ))}
@@ -1263,7 +1279,7 @@ function AboutPage() {
       </section>
 
       {/* Our Purpose */}
-      <section className="bg-white py-16">
+      <section className="py-16">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
