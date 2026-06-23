@@ -169,13 +169,13 @@ const CURRENCY_SYMBOLS: Record<CurrencyCode, string> = {
 
 const CATEGORY_TABS = [
   { key: "all", label: "All Products" },
-  { key: "Pokemon", label: "Pokémon", color: "border-orange-500" },
-  { key: "One Piece", label: "One Piece", color: "border-orange-500" },
-  { key: "Dragon Ball", label: "Dragon Ball", color: "border-purple-500" },
-  { key: "Weiss Schwarz", label: "Weiss Schwarz", color: "border-purple-500" },
-  { key: "Union Arena", label: "Union Arena", color: "border-purple-500" },
-  { key: "Gundam", label: "Gundam", color: "border-purple-500" },
-  { key: "Disney Lorcana", label: "Lorcana", color: "border-purple-500" },
+  { key: "Pokemon", label: "Pokémon", gradient: "from-red-500 to-orange-500" },
+  { key: "One Piece", label: "One Piece", gradient: "from-yellow-500 to-amber-500" },
+  { key: "Dragon Ball", label: "Dragon Ball", gradient: "from-purple-500 to-indigo-500" },
+  { key: "Weiss Schwarz", label: "Weiss Schwarz", gradient: "from-purple-500 to-indigo-500" },
+  { key: "Union Arena", label: "Union Arena", gradient: "from-purple-500 to-indigo-500" },
+  { key: "Gundam", label: "Gundam", gradient: "from-purple-500 to-indigo-500" },
+  { key: "Disney Lorcana", label: "Lorcana", gradient: "from-purple-500 to-indigo-500" },
 ];
 
 const HERO_SLIDES = [
@@ -1004,37 +1004,18 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* Products Section */}
-      <section id="products" className="py-8">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
-            <div>
-              <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-1">Featured Selection</p>
-              <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
-                Our Collection
-              </h2>
-              <p className="text-[12px] text-gray-500 mt-1">
-                {isHomepageView ? "Hand-picked highlights from each category" : `${filteredProducts.length} products${selectedCategory !== "all" ? ` in ${CATEGORY_TABS.find((t) => t.key === selectedCategory)?.label}` : ""}`}
-              </p>
+      <section id="products" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="space-y-10">
+          {isHomepageView && (
+            <div className="text-center">
+              <p className="text-[13px] font-bold text-purple-950 tracking-[0.2em] uppercase mb-2">Featured Selection</p>
+              <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-gray-900">Our Collection</h2>
+              <p className="text-[14px] text-gray-700 mt-1">Hand-picked highlights from each category</p>
             </div>
-            {!isHomepageView && (
-              <Select value={sortOption} onValueChange={(v) => setSortOption(v as SortOption)}>
-                <SelectTrigger className="w-44 h-9 text-[12px] border-gray-200 bg-white">
-                  <SelectValue placeholder="Sort by" />
-                </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="featured">Featured</SelectItem>
-                  <SelectItem value="price-asc">Price: Low to High</SelectItem>
-                  <SelectItem value="price-desc">Price: High to Low</SelectItem>
-                  <SelectItem value="name-asc">Name: A to Z</SelectItem>
-                  <SelectItem value="name-desc">Name: Z to A</SelectItem>
-                  <SelectItem value="rating">Top Rated</SelectItem>
-                </SelectContent>
-              </Select>
-            )}
-          </div>
+          )}
 
           {/* Category Tabs */}
-          <div className="mb-6 -mx-4 px-4 overflow-x-auto scrollbar-none">
+          <div className="-mx-4 px-4 overflow-x-auto scrollbar-none">
             <div className="flex gap-2 pb-2 min-w-max">
               {CATEGORY_TABS.map((tab) => (
                 <button
@@ -1052,56 +1033,75 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
             </div>
           </div>
 
+          {!isHomepageView && (
+            <div className="flex items-center justify-between">
+              <p className="text-[12px] text-gray-500">
+                {filteredProducts.length} products{selectedCategory !== "all" ? ` in ${CATEGORY_TABS.find((t) => t.key === selectedCategory)?.label}` : ""}
+              </p>
+              <Select value={sortOption} onValueChange={(v) => setSortOption(v as SortOption)}>
+                <SelectTrigger className="w-44 h-9 text-[12px] border-gray-200 bg-white">
+                  <SelectValue placeholder="Sort by" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="featured">Featured</SelectItem>
+                  <SelectItem value="price-asc">Price: Low to High</SelectItem>
+                  <SelectItem value="price-desc">Price: High to Low</SelectItem>
+                  <SelectItem value="name-asc">Name: A to Z</SelectItem>
+                  <SelectItem value="name-desc">Name: Z to A</SelectItem>
+                  <SelectItem value="rating">Top Rated</SelectItem>
+                </SelectContent>
+              </Select>
+            </div>
+          )}
+
           {loading ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-              {Array.from({ length: 12 }).map((_, i) => (
-                <div key={i} className="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100">
-                  <div className="aspect-[4/5] animate-shimmer" />
-                  <div className="p-4 space-y-3">
-                    <div className="h-4 bg-gray-200 rounded animate-shimmer w-3/4" />
-                    <div className="h-4 bg-gray-200 rounded animate-shimmer w-1/2" />
-                    <div className="h-8 bg-gray-200 rounded animate-shimmer w-1/3" />
+            <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+              {Array.from({ length: 8 }).map((_, i) => (
+                <div key={i} className="bg-white/95 rounded-xl overflow-hidden shadow-md border border-purple-100/50">
+                  <div className="aspect-square animate-shimmer" />
+                  <div className="p-2.5 space-y-2">
+                    <div className="h-3 bg-gray-200 rounded animate-shimmer w-3/4" />
+                    <div className="h-3 bg-gray-200 rounded animate-shimmer w-1/2" />
+                    <div className="h-6 bg-gray-200 rounded animate-shimmer w-1/3" />
                   </div>
                 </div>
               ))}
             </div>
           ) : isHomepageView ? (
-            /* ── Homepage Category Showcase: 2 products per category with colored bars ── */
-            <div className="space-y-10">
-              {categoryOrder.map((catKey) => {
-                const catProducts = featuredByCategory[catKey];
-                if (!catProducts || catProducts.length === 0) return null;
-                const catTab = CATEGORY_TABS.find(t => t.key === catKey);
-                const catLabel = catTab?.label || catKey;
-                const catColor = catTab?.color || "border-purple-500";
-                const totalInCat = productsByCategory[catKey]?.length || 0;
+            /* ── Homepage Category Showcase: 2 products per category with gradient pills ── */
+            categoryOrder.map((catKey) => {
+              const catProducts = featuredByCategory[catKey];
+              if (!catProducts || catProducts.length === 0) return null;
+              const catTab = CATEGORY_TABS.find(t => t.key === catKey);
+              const catLabel = catTab?.label || catKey;
+              const catGradient = catTab?.gradient || "from-purple-500 to-indigo-500";
+              const totalInCat = productsByCategory[catKey]?.length || 0;
 
-                return (
-                  <div key={catKey}>
-                    <div className={`flex items-center justify-between mb-5 border-l-4 ${catColor} pl-4`}>
-                      <div>
-                        <h3 className="text-xl sm:text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
-                          {catLabel}
-                        </h3>
-                        <p className="text-[12px] text-gray-500 mt-0.5">{totalInCat} products</p>
-                      </div>
-                      <Button
-                        onClick={() => setSelectedCategory(catKey)}
-                        className="bg-purple-950 hover:bg-purple-800 text-white text-[12px] font-semibold px-5 h-9"
-                      >
-                        View All
-                        <ChevronRight className="size-4 ml-1" />
-                      </Button>
+              return (
+                <div key={catKey}>
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="flex items-center gap-3">
+                      <div className={`w-1 h-7 rounded-full bg-gradient-to-b ${catGradient}`}></div>
+                      <h3 className="text-lg sm:text-xl font-bold font-[family-name:var(--font-montserrat)] text-gray-900">{catLabel}</h3>
+                      <span className="text-[12px] text-gray-700 hidden sm:inline">{totalInCat} products</span>
                     </div>
-                    <div className="grid grid-cols-2 gap-4">
-                      {catProducts.map((product) => (
-                        <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
-                      ))}
-                    </div>
+                    <Button
+                      variant="ghost"
+                      onClick={() => setSelectedCategory(catKey)}
+                      className="text-gray-800 hover:text-gray-950 hover:bg-white/60 font-bold gap-1 bg-white/30 backdrop-blur-sm rounded-lg px-3 h-9 text-[13px]"
+                    >
+                      View All
+                      <ChevronRight className="size-4" />
+                    </Button>
                   </div>
-                );
-              })}
-            </div>
+                  <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+                    {catProducts.map((product) => (
+                      <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
+                    ))}
+                  </div>
+                </div>
+              );
+            })
           ) : filteredProducts.length === 0 ? (
             <div className="text-center py-16">
               <Package className="size-16 text-gray-300 mx-auto mb-4" />
@@ -1112,7 +1112,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               </Button>
             </div>
           ) : (
-            <motion.div layout className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+            <motion.div layout className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
               <AnimatePresence mode="popLayout">
                 {filteredProducts.map((product) => (
                   <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
@@ -1767,13 +1767,21 @@ function ProductCard({
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -20 }}
       transition={{ duration: 0.3 }}
-      className="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md hover:border-gray-200 transition-all duration-300 group cursor-pointer"
+      className="bg-white/95 backdrop-blur-sm rounded-xl overflow-hidden shadow-md border border-purple-100/50 hover:shadow-lg transition-all duration-300 group cursor-pointer"
     >
-      <div className="relative aspect-[4/5] bg-gray-50 overflow-hidden" onClick={() => onOpen(product)}>
-        <ProductImg src={product.image} alt={product.title} fill className="object-contain p-2 group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" />
-        <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/50 to-transparent p-3 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
+      <div className="relative aspect-square bg-gradient-to-br from-purple-50/50 to-white overflow-hidden" onClick={() => onOpen(product)}>
+        <ProductImg src={product.image} alt={product.title} fill className="object-contain p-1.5 group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 640px) 50vw, 25vw" />
+        <div className="absolute inset-0 shadow-[inset_0_0_20px_rgba(0,0,0,0.03)] pointer-events-none"></div>
+        {hasOriginalPrice && (
+          <div className="absolute top-1.5 left-1.5 flex flex-col gap-1">
+            <span className="bg-gradient-to-r from-orange-500 to-red-500 text-white text-[9px] font-bold px-1.5 py-0.5 rounded-full shadow-sm">
+              -{getDiscountPercent(product.original_price!, product.price)}%
+            </span>
+          </div>
+        )}
+        <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-2 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
           <Button
-            className="w-full bg-white text-purple-900 hover:bg-gray-100 text-[12px] font-semibold"
+            className="w-full bg-gradient-to-r from-purple-700 to-violet-600 text-white hover:from-purple-800 hover:to-violet-700 text-[11px] font-semibold shadow-md h-7"
             onClick={(e) => { e.stopPropagation(); onAddToCart(product); }}
           >
             Add to Cart
@@ -1781,23 +1789,23 @@ function ProductCard({
         </div>
       </div>
 
-      <div className="p-4" onClick={() => onOpen(product)}>
-        <Badge variant="secondary" className="text-[9px] font-medium mb-2 bg-purple-900/5 text-purple-900 hover:bg-purple-900/10">
+      <div className="p-2.5" onClick={() => onOpen(product)}>
+        <Badge variant="secondary" className="text-[9px] font-medium mb-1.5 bg-purple-900/5 text-purple-900 hover:bg-purple-900/10">
           {product.category}
         </Badge>
-        <h3 className="text-[13px] font-semibold text-purple-900 line-clamp-2 leading-snug mb-2 min-h-[2.5rem]">
+        <h3 className="text-[12px] sm:text-[13px] font-semibold text-gray-900 line-clamp-2 leading-snug mb-1.5 min-h-[2.25rem]">
           {product.title}
         </h3>
-        <div className="flex items-center gap-1 mb-2">
+        <div className="flex items-center gap-1 mb-1.5">
           {renderStars(product.rating ?? 0)}
-          <span className="text-[11px] text-gray-400 ml-1">({product.rating ?? 0})</span>
+          <span className="text-[10px] text-gray-400 ml-0.5">({product.rating ?? 0})</span>
         </div>
         <div className="flex items-baseline gap-2">
-          <span className="text-[16px] font-bold text-purple-900">
+          <span className="text-[14px] sm:text-[15px] font-bold text-gray-900">
             {formatPrice(product.price, currency)}
           </span>
           {hasOriginalPrice && (
-            <span className="text-[12px] text-gray-400 line-through">
+            <span className="text-[11px] text-gray-400 line-through">
               {formatPrice(product.original_price ?? 0, currency)}
             </span>
           )}
