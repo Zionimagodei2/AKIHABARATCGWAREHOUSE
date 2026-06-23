@@ -258,7 +258,6 @@ export default function TCGStore() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [currentPage, setCurrentPage] = useState<PageView>("shop");
-  const [expandedCategories, setExpandedCategories] = useState<Record<string, boolean>>({});
 
   // Group products by category for homepage 2-per-category display
   const productsByCategory = useMemo(() => {
@@ -431,7 +430,7 @@ export default function TCGStore() {
   /* ─────────── Render ─────────── */
 
   return (
-    <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-100 via-violet-200 to-purple-100">
+    <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-900 via-violet-800 to-purple-900">
       {/* ─── Announcement Bar ─── */}
       <div className="bg-purple-950 text-white overflow-hidden relative">
         <div className="animate-marquee flex whitespace-nowrap py-2.5">
@@ -593,7 +592,7 @@ export default function TCGStore() {
 
       {/* ─── Main Content ─── */}
       <main className="flex-1">
-        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} expandedCategories={expandedCategories} setExpandedCategories={setExpandedCategories} />}
+        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} />}
         {currentPage === "about" && <AboutPage />}
         {currentPage === "shipping" && <ShippingPage />}
         {currentPage === "faq" && <FAQPage />}
@@ -603,7 +602,7 @@ export default function TCGStore() {
       </main>
 
       {/* ─── Footer ─── */}
-      <footer className="bg-gradient-to-r from-purple-900 via-violet-800 to-purple-900 mt-auto">
+      <footer className="bg-gradient-to-r from-purple-950 via-violet-800 to-purple-950 mt-auto">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-8">
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
             {/* Column 1: Brand */}
@@ -816,12 +815,12 @@ export default function TCGStore() {
                   <span className="text-[13px] text-gray-500">Subtotal</span>
                   <span className="text-lg font-bold text-purple-900">{formatPrice(cartTotal, currency)}</span>
                 </div>
-                {cartTotal < 150 && (
+                {cartTotal < 500 && (
                   <p className="text-[11px] text-gray-400 text-center">
-                    Add {formatPrice(150 - cartTotal, currency)} more for free shipping
+                    Add {formatPrice(500 - cartTotal, currency)} more for free shipping
                   </p>
                 )}
-                {cartTotal >= 150 && (
+                {cartTotal >= 500 && (
                   <p className="text-[11px] text-green-600 text-center font-medium">
                     You qualify for free shipping!
                   </p>
@@ -854,7 +853,7 @@ export default function TCGStore() {
 
 /* ─────────── Shop Page ─────────── */
 
-function ShopPage({ products, loading, selectedCategory, setSelectedCategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory, expandedCategories, setExpandedCategories }: {
+function ShopPage({ products, loading, selectedCategory, setSelectedCategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory }: {
   products: Product[]; loading: boolean; selectedCategory: string; setSelectedCategory: (v: string) => void;
   searchQuery: string; sortOption: SortOption; setSortOption: (v: SortOption) => void;
   currency: CurrencyCode; filteredProducts: Product[];
@@ -862,9 +861,23 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
   heroIndex: number; setHeroIndex: (v: number) => void;
   scrollToSection: (id: string) => void;
   productsByCategory: Record<string, Product[]>;
-  expandedCategories: Record<string, boolean>;
-  setExpandedCategories: (v: Record<string, boolean>) => void;
 }) {
+  // Determine if we show the homepage category showcase or the full product grid
+  const isHomepageView = selectedCategory === "all" && !searchQuery.trim();
+
+  // Pick 2 best products per category (highest rated, or first 2 if no ratings)
+  const featuredByCategory = useMemo(() => {
+    const result: Record<string, Product[]> = {};
+    for (const [cat, prods] of Object.entries(productsByCategory)) {
+      const sorted = [...prods].sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
+      result[cat] = sorted.slice(0, 2);
+    }
+    return result;
+  }, [productsByCategory]);
+
+  // Category display order
+  const categoryOrder = CATEGORY_TABS.filter(t => t.key !== "all").map(t => t.key);
+
   return (
     <>
       {/* Hero Section */}
@@ -978,87 +991,124 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* Products Section */}
-      <section id="products" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
-          <div>
-            <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
-              Our Collection
-            </h2>
-            <p className="text-[12px] text-gray-500 mt-1">
-              {filteredProducts.length} products
-              {selectedCategory !== "all" && ` in ${CATEGORY_TABS.find((t) => t.key === selectedCategory)?.label}`}
-            </p>
+      <section id="products" className="bg-white py-8">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
+            <div>
+              <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
+                Our Collection
+              </h2>
+              <p className="text-[12px] text-gray-500 mt-1">
+                {isHomepageView ? `${products.length} products across ${Object.keys(productsByCategory).length} categories` : `${filteredProducts.length} products${selectedCategory !== "all" ? ` in ${CATEGORY_TABS.find((t) => t.key === selectedCategory)?.label}` : ""}`}
+              </p>
+            </div>
+            {!isHomepageView && (
+              <Select value={sortOption} onValueChange={(v) => setSortOption(v as SortOption)}>
+                <SelectTrigger className="w-44 h-9 text-[12px] border-gray-200 bg-white">
+                  <SelectValue placeholder="Sort by" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="featured">Featured</SelectItem>
+                  <SelectItem value="price-asc">Price: Low to High</SelectItem>
+                  <SelectItem value="price-desc">Price: High to Low</SelectItem>
+                  <SelectItem value="name-asc">Name: A to Z</SelectItem>
+                  <SelectItem value="name-desc">Name: Z to A</SelectItem>
+                  <SelectItem value="rating">Top Rated</SelectItem>
+                </SelectContent>
+              </Select>
+            )}
           </div>
-          <Select value={sortOption} onValueChange={(v) => setSortOption(v as SortOption)}>
-            <SelectTrigger className="w-44 h-9 text-[12px] border-gray-200 bg-white">
-              <SelectValue placeholder="Sort by" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="featured">Featured</SelectItem>
-              <SelectItem value="price-asc">Price: Low to High</SelectItem>
-              <SelectItem value="price-desc">Price: High to Low</SelectItem>
-              <SelectItem value="name-asc">Name: A to Z</SelectItem>
-              <SelectItem value="name-desc">Name: Z to A</SelectItem>
-              <SelectItem value="rating">Top Rated</SelectItem>
-            </SelectContent>
-          </Select>
-        </div>
 
-        {/* Category Tabs */}
-        <div className="mb-6 -mx-4 px-4 overflow-x-auto scrollbar-none">
-          <div className="flex gap-2 pb-2 min-w-max">
-            {CATEGORY_TABS.map((tab) => (
-              <button
-                key={tab.key}
-                onClick={() => setSelectedCategory(tab.key)}
-                className={`px-4 py-2 rounded-full text-[12px] font-medium transition-all duration-200 whitespace-nowrap ${
-                  selectedCategory === tab.key
-                    ? "bg-purple-950 text-white shadow-md"
-                    : "bg-white text-gray-600 hover:bg-gray-100 border border-gray-200"
-                }`}
-              >
-                {tab.label}
-              </button>
-            ))}
-          </div>
-        </div>
-
-        {/* Product Grid */}
-        {loading ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-            {Array.from({ length: 12 }).map((_, i) => (
-              <div key={i} className="bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100">
-                <div className="aspect-[4/5] animate-shimmer" />
-                <div className="p-4 space-y-3">
-                  <div className="h-4 bg-gray-200 rounded animate-shimmer w-3/4" />
-                  <div className="h-4 bg-gray-200 rounded animate-shimmer w-1/2" />
-                  <div className="h-8 bg-gray-200 rounded animate-shimmer w-1/3" />
-                </div>
-              </div>
-            ))}
-          </div>
-        ) : filteredProducts.length === 0 ? (
-          <div className="text-center py-16">
-            <Package className="size-16 text-gray-300 mx-auto mb-4" />
-            <h3 className="text-[16px] font-semibold text-gray-500">No products found</h3>
-            <p className="text-[13px] text-gray-400 mt-1">Try adjusting your search or category filter</p>
-            <Button variant="outline" className="mt-4 text-[13px]" onClick={() => { /* clear filters handled by parent */ }}>
-              Clear Filters
-            </Button>
-          </div>
-        ) : (
-          <motion.div layout className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-            <AnimatePresence mode="popLayout">
-              {filteredProducts.map((product) => (
-                <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
+          {/* Category Tabs */}
+          <div className="mb-6 -mx-4 px-4 overflow-x-auto scrollbar-none">
+            <div className="flex gap-2 pb-2 min-w-max">
+              {CATEGORY_TABS.map((tab) => (
+                <button
+                  key={tab.key}
+                  onClick={() => setSelectedCategory(tab.key)}
+                  className={`px-4 py-2 rounded-full text-[12px] font-medium transition-all duration-200 whitespace-nowrap ${
+                    selectedCategory === tab.key
+                      ? "bg-purple-950 text-white shadow-md"
+                      : "bg-white text-gray-600 hover:bg-gray-100 border border-gray-200"
+                  }`}
+                >
+                  {tab.label}
+                </button>
               ))}
-            </AnimatePresence>
-          </motion.div>
-        )}
+            </div>
+          </div>
+
+          {loading ? (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+              {Array.from({ length: 12 }).map((_, i) => (
+                <div key={i} className="bg-gray-50 rounded-xl overflow-hidden shadow-sm border border-gray-100">
+                  <div className="aspect-[4/5] animate-shimmer" />
+                  <div className="p-4 space-y-3">
+                    <div className="h-4 bg-gray-200 rounded animate-shimmer w-3/4" />
+                    <div className="h-4 bg-gray-200 rounded animate-shimmer w-1/2" />
+                    <div className="h-8 bg-gray-200 rounded animate-shimmer w-1/3" />
+                  </div>
+                </div>
+              ))}
+            </div>
+          ) : isHomepageView ? (
+            /* ── Homepage Category Showcase: 2 products per category ── */
+            <div className="space-y-12">
+              {categoryOrder.map((catKey) => {
+                const catProducts = featuredByCategory[catKey];
+                if (!catProducts || catProducts.length === 0) return null;
+                const catLabel = CATEGORY_TABS.find(t => t.key === catKey)?.label || catKey;
+                const totalInCat = productsByCategory[catKey]?.length || 0;
+
+                return (
+                  <div key={catKey}>
+                    <div className="flex items-center justify-between mb-5">
+                      <div>
+                        <h3 className="text-xl sm:text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
+                          {catLabel}
+                        </h3>
+                        <p className="text-[12px] text-gray-500 mt-0.5">{totalInCat} products</p>
+                      </div>
+                      <Button
+                        onClick={() => setSelectedCategory(catKey)}
+                        className="bg-purple-950 hover:bg-purple-800 text-white text-[12px] font-semibold px-5 h-9"
+                      >
+                        View All
+                        <ChevronRight className="size-4 ml-1" />
+                      </Button>
+                    </div>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-2xl">
+                      {catProducts.map((product) => (
+                        <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
+                      ))}
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          ) : filteredProducts.length === 0 ? (
+            <div className="text-center py-16">
+              <Package className="size-16 text-gray-300 mx-auto mb-4" />
+              <h3 className="text-[16px] font-semibold text-gray-500">No products found</h3>
+              <p className="text-[13px] text-gray-400 mt-1">Try adjusting your search or category filter</p>
+              <Button variant="outline" className="mt-4 text-[13px]" onClick={() => { setSelectedCategory("all"); }}>
+                Clear Filters
+              </Button>
+            </div>
+          ) : (
+            <motion.div layout className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+              <AnimatePresence mode="popLayout">
+                {filteredProducts.map((product) => (
+                  <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
+                ))}
+              </AnimatePresence>
+            </motion.div>
+          )}
+        </div>
       </section>
 
       {/* About Section */}
-      <section id="about" className="bg-black text-white py-16 mt-8">
+      <section id="about" className="bg-purple-950 text-white py-16 mt-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <p className="text-[11px] font-bold text-gray-400 tracking-[0.2em] uppercase mb-4">
@@ -1111,7 +1161,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* Reviews Section */}
-      <section className="py-16 bg-[#f5f5f0]">
+      <section className="py-16 bg-violet-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Testimonials</p>
@@ -1213,7 +1263,7 @@ function AboutPage() {
       </section>
 
       {/* Our Purpose */}
-      <section className="py-16">
+      <section className="bg-white py-16">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
@@ -1257,7 +1307,7 @@ function AboutPage() {
       </section>
 
       {/* Collection */}
-      <section className="py-16 bg-[#f5f5f0]">
+      <section className="py-16 bg-violet-50">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">What We Carry</p>
@@ -1316,7 +1366,7 @@ function AboutPage() {
       </section>
 
       {/* Guarantee */}
-      <section className="py-16">
+      <section className="bg-white py-16">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="w-14 h-14 rounded-full bg-violet-400/10 flex items-center justify-center mx-auto mb-6">
             <Shield className="size-7 text-violet-400" />
@@ -1353,7 +1403,7 @@ function ShippingPage() {
         </div>
       </section>
 
-      <section className="py-16">
+      <section className="bg-white py-16">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-10">
           {[
             {
@@ -1458,7 +1508,7 @@ function FAQPage() {
         </div>
       </section>
 
-      <section className="py-16">
+      <section className="bg-white py-16">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="space-y-0">
             {faqs.map((faq, i) => (
@@ -1513,7 +1563,7 @@ function ContactPage() {
         </div>
       </section>
 
-      <section className="py-16">
+      <section className="bg-white py-16">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-3 gap-8 mb-12">
             {[
@@ -1594,7 +1644,7 @@ function SignInPage() {
         </div>
       </section>
 
-      <section className="py-16">
+      <section className="bg-violet-50 py-16">
         <div className="max-w-md mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-white rounded-xl p-8 shadow-sm border border-gray-100">
             {isSignUp ? (
@@ -1861,7 +1911,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [orderId, setOrderId] = useState("");
 
-  const shippingCost = cartTotal >= 150 ? 0 : 15;
+  const shippingCost = cartTotal >= 500 ? 0 : 15;
   const grandTotal = cartTotal + shippingCost;
 
   const handleSubmit = async () => {
@@ -1954,7 +2004,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
             <p className="text-[14px] text-gray-300">Your cart is empty.</p>
           </div>
         </section>
-        <section className="py-16">
+        <section className="bg-violet-50 py-16">
           <div className="max-w-md mx-auto px-4 text-center">
             <Button className="bg-purple-950 hover:bg-purple-800 text-white font-semibold px-8 h-11" onClick={() => navigateTo("shop")}>
               Browse Products
@@ -1979,7 +2029,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
         </div>
       </section>
 
-      <section className="py-12">
+      <section className="bg-violet-50 py-12">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-5 gap-8">
             {/* Left: Form (3 cols) */}
