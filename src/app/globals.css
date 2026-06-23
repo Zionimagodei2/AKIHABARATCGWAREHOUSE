@@ -144,6 +144,14 @@
   background: #13aff0;
 }
 
+/* Tawk.to — hide default branding badge, keep native widget */
+#tawk-bubble,
+.tawk-bubble,
+[class*="tawk"] .tawk-badge,
+.tawk-badge {
+  display: none !important;
+}
+
 /* Marquee animation */
 @keyframes marquee {
   0% {

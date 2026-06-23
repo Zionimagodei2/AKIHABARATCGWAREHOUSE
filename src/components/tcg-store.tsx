@@ -259,6 +259,24 @@ export default function TCGStore() {
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [currentPage, setCurrentPage] = useState<PageView>("shop");
 
+  // Load Tawk.to live chat (native widget only — no custom button)
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    if (document.getElementById("tawk-script")) return;
+
+    // Define Tawk_API before the script loads
+    (window as Record<string, unknown>).Tawk_API = (window as Record<string, unknown>).Tawk_API || {};
+
+    const s1 = document.createElement("script");
+    s1.id = "tawk-script";
+    s1.async = true;
+    s1.src = "https://embed.tawk.to/6a37ce08b40d591d46abba12/1jrkvpkov";
+    s1.charset = "UTF-8";
+    s1.setAttribute("crossorigin", "*");
+    const s0 = document.getElementsByTagName("script")[0];
+    s0.parentNode?.insertBefore(s1, s0);
+  }, []);
+
   // Fetch products — apply 12% discount on fujicards products
   useEffect(() => {
     fetch("/products.json")
