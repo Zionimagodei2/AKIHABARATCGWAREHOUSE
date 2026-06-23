@@ -419,9 +419,9 @@ export default function TCGStore() {
   /* ─────────── Render ─────────── */
 
   return (
-    <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-300 via-violet-400 to-fuchsia-300">
+    <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-100 via-violet-200 to-purple-100">
       {/* ─── Announcement Bar ─── */}
-      <div className="bg-[purple-900] text-white overflow-hidden relative">
+      <div className="bg-purple-950 text-white overflow-hidden relative">
         <div className="animate-marquee flex whitespace-nowrap py-2.5">
           {[...ANNOUNCEMENT_MESSAGES, ...ANNOUNCEMENT_MESSAGES].map((msg, i) => (
             <span key={i} className="mx-10 text-[13px] font-light tracking-wide opacity-90">
@@ -441,10 +441,10 @@ export default function TCGStore() {
                 <img src="/logo.png" alt="Akihabara TCG Warehouse" className="w-full h-full object-contain" />
               </div>
               <div className="hidden sm:block">
-                <h1 className="text-[17px] font-extrabold font-[family-name:var(--font-montserrat)] text-[purple-900] leading-none tracking-tight">
+                <h1 className="text-[17px] font-extrabold font-[family-name:var(--font-montserrat)] text-purple-900 leading-none tracking-tight">
                   AKIHABARA
                 </h1>
-                <p className="text-[9px] font-bold text-[violet-400] tracking-[0.25em] uppercase leading-none mt-0.5">
+                <p className="text-[9px] font-bold text-violet-400 tracking-[0.25em] uppercase leading-none mt-0.5">
                   TCG Warehouse
                 </p>
               </div>
@@ -464,8 +464,8 @@ export default function TCGStore() {
                   onClick={() => navigateTo(item.page)}
                   className={`px-3 py-2 text-[13px] font-medium rounded-md transition-colors ${
                     currentPage === item.page
-                      ? "text-[purple-900] bg-gray-50"
-                      : "text-gray-500 hover:text-[purple-900] hover:bg-gray-50"
+                      ? "text-purple-900 bg-gray-50"
+                      : "text-gray-500 hover:text-purple-900 hover:bg-gray-50"
                   }`}
                 >
                   {item.label}
@@ -478,7 +478,7 @@ export default function TCGStore() {
               {/* Sign In button */}
               <Button
                 variant="ghost"
-                className="hidden sm:flex items-center gap-1.5 text-[13px] font-medium text-gray-500 hover:text-[purple-900] px-2"
+                className="hidden sm:flex items-center gap-1.5 text-[13px] font-medium text-gray-500 hover:text-purple-900 px-2"
                 onClick={() => navigateTo("signin")}
               >
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="size-4"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
@@ -490,7 +490,7 @@ export default function TCGStore() {
                   placeholder="Search cards..."
                   value={searchQuery}
                   onChange={(e) => { setSearchQuery(e.target.value); if (currentPage !== "shop") navigateTo("shop"); }}
-                  className="pl-9 w-40 lg:w-56 h-9 text-[13px] bg-gray-50 border-gray-200 focus:border-[purple-900] focus:ring-[purple-900]/10"
+                  className="pl-9 w-40 lg:w-56 h-9 text-[13px] bg-gray-50 border-gray-200 focus:border-purple-900 focus:ring-purple-900/10"
                 />
               </div>
 
@@ -565,8 +565,8 @@ export default function TCGStore() {
                       onClick={() => navigateTo(item.page)}
                       className={`block w-full text-left px-3 py-2.5 text-[13px] font-medium rounded-md transition-colors ${
                         currentPage === item.page
-                          ? "text-[purple-900] bg-gray-50"
-                          : "text-gray-500 hover:text-[purple-900] hover:bg-gray-50"
+                          ? "text-purple-900 bg-gray-50"
+                          : "text-gray-500 hover:text-purple-900 hover:bg-gray-50"
                       }`}
                     >
                       {item.label}
@@ -591,7 +591,7 @@ export default function TCGStore() {
       </main>
 
       {/* ─── Footer ─── */}
-      <footer className="bg-[purple-900] mt-auto">
+      <footer className="bg-gradient-to-r from-purple-900 via-violet-800 to-purple-900 mt-auto">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-8">
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
             {/* Column 1: Brand */}
@@ -604,7 +604,7 @@ export default function TCGStore() {
                   <h3 className="font-extrabold font-[family-name:var(--font-montserrat)] text-white text-[15px] leading-none">
                     AKIHABARA
                   </h3>
-                  <p className="text-[8px] font-bold text-[violet-400] tracking-[0.25em] uppercase leading-none mt-0.5">
+                  <p className="text-[8px] font-bold text-violet-400 tracking-[0.25em] uppercase leading-none mt-0.5">
                     TCG Warehouse
                   </p>
                 </div>
@@ -632,7 +632,7 @@ export default function TCGStore() {
                   <li key={link.label}>
                     <button
                       onClick={() => navigateTo(link.page)}
-                      className="text-[13px] text-gray-400 hover:text-[violet-400] transition-colors"
+                      className="text-[13px] text-gray-400 hover:text-violet-400 transition-colors"
                     >
                       {link.label}
                     </button>
@@ -651,7 +651,7 @@ export default function TCGStore() {
                   <li key={tab.key}>
                     <button
                       onClick={() => { setSelectedCategory(tab.key); navigateTo("shop"); }}
-                      className="text-[13px] text-gray-400 hover:text-[violet-400] transition-colors"
+                      className="text-[13px] text-gray-400 hover:text-violet-400 transition-colors"
                     >
                       {tab.label}
                     </button>
@@ -667,21 +667,21 @@ export default function TCGStore() {
               </h4>
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
-                  <Mail className="size-4 text-[violet-400] mt-0.5 shrink-0" />
+                  <Mail className="size-4 text-violet-400 mt-0.5 shrink-0" />
                   <div>
                     <p className="text-[13px] text-gray-300">support@akihabaratcgwarehouse.com</p>
                     <p className="text-[11px] text-gray-500 mt-0.5">We reply within 24 hours</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
-                  <Clock className="size-4 text-[violet-400] mt-0.5 shrink-0" />
+                  <Clock className="size-4 text-violet-400 mt-0.5 shrink-0" />
                   <div>
                     <p className="text-[13px] text-gray-300">Mon — Sat: 9AM — 6PM JST</p>
                     <p className="text-[11px] text-gray-500 mt-0.5">Sunday: Closed</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
-                  <MapPin className="size-4 text-[violet-400] mt-0.5 shrink-0" />
+                  <MapPin className="size-4 text-violet-400 mt-0.5 shrink-0" />
                   <div>
                     <p className="text-[13px] text-gray-300">Akihabara, Tokyo</p>
                     <p className="text-[11px] text-gray-500 mt-0.5">Japan</p>
@@ -723,7 +723,7 @@ export default function TCGStore() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 20 }}
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-            className="fixed bottom-6 right-6 z-50 bg-[purple-900] hover:bg-[violet-400] text-white rounded-full p-3 shadow-lg transition-colors"
+            className="fixed bottom-6 right-6 z-50 bg-purple-950 hover:bg-violet-500 text-white rounded-full p-3 shadow-lg transition-colors"
             aria-label="Scroll to top"
           >
             <ChevronUp className="size-5" />
@@ -753,7 +753,7 @@ export default function TCGStore() {
               <ShoppingCart className="size-5" />
               Your Cart
               {cartItemCount > 0 && (
-                <Badge className="bg-[purple-900] text-white border-0 text-[10px] font-bold">{cartItemCount}</Badge>
+                <Badge className="bg-purple-950 text-white border-0 text-[10px] font-bold">{cartItemCount}</Badge>
               )}
             </SheetTitle>
             <SheetDescription className="text-[12px] text-gray-500">
@@ -766,7 +766,7 @@ export default function TCGStore() {
               <ShoppingCart className="size-14 text-gray-200 mb-4" />
               <p className="text-gray-500 font-medium text-[14px]">No items yet</p>
               <p className="text-[12px] text-gray-400 mt-1">Add some products to get started</p>
-              <Button className="mt-4 bg-[purple-900] hover:bg-[purple-800] text-white text-[13px]" onClick={() => setCartOpen(false)}>
+              <Button className="mt-4 bg-purple-950 hover:bg-purple-800 text-white text-[13px]" onClick={() => setCartOpen(false)}>
                 Continue Shopping
               </Button>
             </div>
@@ -780,8 +780,8 @@ export default function TCGStore() {
                         <ProductImg src={item.product.image} alt={item.product.title} width={56} height={72} className="w-full h-full object-cover" />
                       </div>
                       <div className="flex-1 min-w-0">
-                        <p className="text-[12px] font-medium text-[purple-900] truncate">{item.product.title}</p>
-                        <p className="text-[13px] font-bold text-[purple-900] mt-1">{formatPrice(item.product.price, currency)}</p>
+                        <p className="text-[12px] font-medium text-purple-900 truncate">{item.product.title}</p>
+                        <p className="text-[13px] font-bold text-purple-900 mt-1">{formatPrice(item.product.price, currency)}</p>
                         <div className="flex items-center gap-2 mt-2">
                           <Button variant="outline" size="icon" className="size-7" onClick={() => updateCartQuantity(item.product.id, -1)}>
                             <Minus className="size-3" />
@@ -802,7 +802,7 @@ export default function TCGStore() {
               <div className="border-t border-gray-200 p-4 space-y-3">
                 <div className="flex justify-between items-center">
                   <span className="text-[13px] text-gray-500">Subtotal</span>
-                  <span className="text-lg font-bold text-[purple-900]">{formatPrice(cartTotal, currency)}</span>
+                  <span className="text-lg font-bold text-purple-900">{formatPrice(cartTotal, currency)}</span>
                 </div>
                 {cartTotal < 150 && (
                   <p className="text-[11px] text-gray-400 text-center">
@@ -814,7 +814,7 @@ export default function TCGStore() {
                     You qualify for free shipping!
                   </p>
                 )}
-                <Button className="w-full bg-[purple-900] hover:bg-[purple-800] text-white font-semibold h-11 text-[14px]" onClick={() => { setCartOpen(false); navigateTo("checkout"); }}>
+                <Button className="w-full bg-purple-950 hover:bg-purple-800 text-white font-semibold h-11 text-[14px]" onClick={() => { setCartOpen(false); navigateTo("checkout"); }}>
                   Proceed to Checkout
                 </Button>
                 <Button variant="outline" className="w-full text-[13px]" onClick={() => setCartOpen(false)}>
@@ -853,7 +853,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
   return (
     <>
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-[purple-900]">
+      <section className="relative overflow-hidden bg-purple-950">
         <div className="max-w-7xl mx-auto">
           <div className="relative">
             <AnimatePresence mode="wait">
@@ -866,10 +866,10 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 className="relative h-64 sm:h-80 lg:h-[420px] w-full"
               >
                 <ProductImg src={HERO_SLIDES[heroIndex].image} alt={HERO_SLIDES[heroIndex].title} fill className="object-cover" priority sizes="100vw" />
-                <div className="absolute inset-0 bg-gradient-to-r from-[purple-900]/90 via-[purple-900]/60 to-transparent" />
+                <div className="absolute inset-0 bg-gradient-to-r from-purple-950/90 via-purple-900/60 to-transparent" />
                 <div className="absolute inset-0 flex items-center px-8 sm:px-12 lg:px-16">
                   <div className="max-w-lg">
-                    <p className="mb-3 text-[11px] font-bold text-[violet-400] tracking-[0.15em] uppercase">
+                    <p className="mb-3 text-[11px] font-bold text-violet-400 tracking-[0.15em] uppercase">
                       {HERO_SLIDES[heroIndex].accent}
                     </p>
                     <h2 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-tight mb-3">
@@ -878,7 +878,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                     <p className="text-[13px] sm:text-[15px] text-gray-300 mb-5 max-w-md leading-relaxed">
                       {HERO_SLIDES[heroIndex].subtitle}
                     </p>
-                    <Button onClick={() => scrollToSection("products")} className="bg-[purple-900] hover:bg-[purple-800] text-white font-semibold px-6 text-[13px] border border-white/20">
+                    <Button onClick={() => scrollToSection("products")} className="bg-purple-950 hover:bg-purple-800 text-white font-semibold px-6 text-[13px] border border-white/20">
                       Shop Now
                     </Button>
                   </div>
@@ -893,7 +893,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
             </button>
             <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2">
               {HERO_SLIDES.map((_, i) => (
-                <button key={i} onClick={() => setHeroIndex(i)} className={`rounded-full transition-all duration-300 ${i === heroIndex ? "w-8 h-2.5 bg-[violet-400]" : "w-2.5 h-2.5 bg-white/40 hover:bg-white/60"}`} aria-label={`Go to slide ${i + 1}`} />
+                <button key={i} onClick={() => setHeroIndex(i)} className={`rounded-full transition-all duration-300 ${i === heroIndex ? "w-8 h-2.5 bg-violet-500" : "w-2.5 h-2.5 bg-white/40 hover:bg-white/60"}`} aria-label={`Go to slide ${i + 1}`} />
               ))}
             </div>
           </div>
@@ -904,8 +904,8 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       <section className="bg-white py-10 border-b border-gray-100">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-6">
-            <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-2">Direct from Japan</p>
-            <h2 className="text-xl sm:text-2xl font-bold font-[family-name:var(--font-montserrat)] text-[purple-900]">
+            <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-2">Direct from Japan</p>
+            <h2 className="text-xl sm:text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
               Our Warehouse
             </h2>
           </div>
@@ -949,11 +949,11 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               { icon: Package, label: "Direct from Japan", desc: "Trusted suppliers" },
             ].map((badge) => (
               <div key={badge.label} className="flex items-center gap-3 justify-center py-2">
-                <div className="w-10 h-10 rounded-lg bg-[purple-900]/5 flex items-center justify-center shrink-0">
-                  <badge.icon className="size-5 text-[purple-900]" />
+                <div className="w-10 h-10 rounded-lg bg-purple-900/5 flex items-center justify-center shrink-0">
+                  <badge.icon className="size-5 text-purple-900" />
                 </div>
                 <div>
-                  <p className="text-[13px] font-semibold text-[purple-900]">{badge.label}</p>
+                  <p className="text-[13px] font-semibold text-purple-900">{badge.label}</p>
                   <p className="text-[11px] text-gray-500">{badge.desc}</p>
                 </div>
               </div>
@@ -966,7 +966,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       <section id="products" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
           <div>
-            <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-[purple-900]">
+            <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
               Our Collection
             </h2>
             <p className="text-[12px] text-gray-500 mt-1">
@@ -998,7 +998,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 onClick={() => setSelectedCategory(tab.key)}
                 className={`px-4 py-2 rounded-full text-[12px] font-medium transition-all duration-200 whitespace-nowrap ${
                   selectedCategory === tab.key
-                    ? "bg-[purple-900] text-white shadow-md"
+                    ? "bg-purple-950 text-white shadow-md"
                     : "bg-white text-gray-600 hover:bg-gray-100 border border-gray-200"
                 }`}
               >
@@ -1099,8 +1099,8 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       <section className="py-16 bg-[#f5f5f0]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-3">Testimonials</p>
-            <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-[purple-900]">
+            <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Testimonials</p>
+            <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
               What Our Clients Say
             </h2>
           </div>
@@ -1162,11 +1162,11 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                   &ldquo;{review.quote}&rdquo;
                 </p>
                 <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 rounded-full bg-[purple-900] flex items-center justify-center text-white text-[13px] font-bold">
+                  <div className="w-9 h-9 rounded-full bg-purple-950 flex items-center justify-center text-white text-[13px] font-bold">
                     {review.name.charAt(0)}
                   </div>
                   <div>
-                    <p className="text-[13px] font-semibold text-[purple-900]">{review.name}</p>
+                    <p className="text-[13px] font-semibold text-purple-900">{review.name}</p>
                     <p className="text-[11px] text-gray-400">Verified Buyer</p>
                   </div>
                 </div>
@@ -1185,9 +1185,9 @@ function AboutPage() {
   return (
     <div>
       {/* Hero */}
-      <section className="bg-[purple-900] py-16 sm:py-24">
+      <section className="bg-purple-950 py-16 sm:py-24">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-4">About Us</p>
+          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">About Us</p>
           <h1 className="text-3xl sm:text-5xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-tight mb-6">
             Trusted Worldwide for Japanese Pokémon TCG and Others
           </h1>
@@ -1202,8 +1202,8 @@ function AboutPage() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-3">Our Purpose</p>
-              <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-[purple-900] mb-4">
+              <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Our Purpose</p>
+              <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-4">
                 Connecting fans with the cards they love
               </h2>
               <p className="text-[14px] text-gray-600 leading-relaxed mb-4">
@@ -1213,8 +1213,8 @@ function AboutPage() {
                 Based in the heart of Akihabara, Tokyo's legendary electronics and hobby district, we have direct access to the newest releases, rarest finds, and best prices. We pass those savings on to you.
               </p>
             </div>
-            <div className="bg-[purple-900]/5 rounded-2xl p-8">
-              <h3 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-[purple-900] mb-6">
+            <div className="bg-purple-900/5 rounded-2xl p-8">
+              <h3 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-6">
                 Why Thousands Trust Us
               </h3>
               <div className="space-y-4">
@@ -1226,11 +1226,11 @@ function AboutPage() {
                   { icon: Heart, title: "Reliable Support", desc: "Our team is available 24/7 to assist you" },
                 ].map((item) => (
                   <div key={item.title} className="flex items-start gap-3">
-                    <div className="w-9 h-9 rounded-lg bg-[violet-400]/10 flex items-center justify-center shrink-0 mt-0.5">
-                      <item.icon className="size-4 text-[violet-400]" />
+                    <div className="w-9 h-9 rounded-lg bg-violet-400/10 flex items-center justify-center shrink-0 mt-0.5">
+                      <item.icon className="size-4 text-violet-400" />
                     </div>
                     <div>
-                      <p className="text-[13px] font-semibold text-[purple-900]">{item.title}</p>
+                      <p className="text-[13px] font-semibold text-purple-900">{item.title}</p>
                       <p className="text-[12px] text-gray-500">{item.desc}</p>
                     </div>
                   </div>
@@ -1245,8 +1245,8 @@ function AboutPage() {
       <section className="py-16 bg-[#f5f5f0]">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-3">What We Carry</p>
-            <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-[purple-900]">
+            <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">What We Carry</p>
+            <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
               Our Collection Includes
             </h2>
           </div>
@@ -1258,10 +1258,10 @@ function AboutPage() {
               { icon: Globe, title: "Bulk Orders & Wholesale", desc: "Perfect for retailers and high-volume resellers." },
             ].map((item) => (
               <div key={item.title} className="bg-white rounded-xl p-6 text-center shadow-sm border border-gray-100">
-                <div className="w-12 h-12 rounded-full bg-[purple-900]/5 flex items-center justify-center mx-auto mb-4">
-                  <item.icon className="size-5 text-[purple-900]" />
+                <div className="w-12 h-12 rounded-full bg-purple-900/5 flex items-center justify-center mx-auto mb-4">
+                  <item.icon className="size-5 text-purple-900" />
                 </div>
-                <h3 className="font-semibold text-[14px] text-[purple-900] mb-2">{item.title}</h3>
+                <h3 className="font-semibold text-[14px] text-purple-900 mb-2">{item.title}</h3>
                 <p className="text-[12px] text-gray-500 leading-relaxed">{item.desc}</p>
               </div>
             ))}
@@ -1270,7 +1270,7 @@ function AboutPage() {
       </section>
 
       {/* Our Business Certificate */}
-      <section className="py-16 bg-[purple-900]">
+      <section className="py-16 bg-purple-950">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <p className="text-[13px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Verified & Registered</p>
@@ -1303,10 +1303,10 @@ function AboutPage() {
       {/* Guarantee */}
       <section className="py-16">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <div className="w-14 h-14 rounded-full bg-[violet-400]/10 flex items-center justify-center mx-auto mb-6">
-            <Shield className="size-7 text-[violet-400]" />
+          <div className="w-14 h-14 rounded-full bg-violet-400/10 flex items-center justify-center mx-auto mb-6">
+            <Shield className="size-7 text-violet-400" />
           </div>
-          <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-[purple-900] mb-4">
+          <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-4">
             Our Guarantee to You
           </h2>
           <p className="text-[14px] text-gray-600 leading-relaxed mb-4">
@@ -1326,9 +1326,9 @@ function AboutPage() {
 function ShippingPage() {
   return (
     <div>
-      <section className="bg-[purple-900] py-16 sm:py-20">
+      <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-4">Shipping Policy</p>
+          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">Shipping Policy</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             Shipping & Delivery
           </h1>
@@ -1367,7 +1367,7 @@ function ShippingPage() {
             },
           ].map((section) => (
             <div key={section.title}>
-              <h2 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-[purple-900] mb-3">
+              <h2 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-3">
                 {section.title}
               </h2>
               <div className="text-[14px] text-gray-600 leading-relaxed whitespace-pre-line">
@@ -1431,9 +1431,9 @@ function FAQPage() {
 
   return (
     <div>
-      <section className="bg-[purple-900] py-16 sm:py-20">
+      <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-4">FAQ</p>
+          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">FAQ</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             Frequently Asked Questions
           </h1>
@@ -1452,7 +1452,7 @@ function FAQPage() {
                   onClick={() => setOpenIndex(openIndex === i ? null : i)}
                   className="w-full flex items-center justify-between py-5 text-left group"
                 >
-                  <span className="text-[14px] font-semibold text-[purple-900] pr-4 group-hover:text-[violet-400] transition-colors">
+                  <span className="text-[14px] font-semibold text-purple-900 pr-4 group-hover:text-violet-400 transition-colors">
                     {faq.q}
                   </span>
                   <ChevronDown className={`size-5 text-gray-400 shrink-0 transition-transform duration-200 ${openIndex === i ? "rotate-180" : ""}`} />
@@ -1486,9 +1486,9 @@ function FAQPage() {
 function ContactPage() {
   return (
     <div>
-      <section className="bg-[purple-900] py-16 sm:py-20">
+      <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-4">Contact Us</p>
+          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">Contact Us</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             Get in Touch
           </h1>
@@ -1507,10 +1507,10 @@ function ContactPage() {
               { icon: MapPin, title: "Location", detail: "Akihabara, Tokyo", sub: "Japan" },
             ].map((item) => (
               <div key={item.title} className="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
-                <div className="w-12 h-12 rounded-full bg-[purple-900]/5 flex items-center justify-center mx-auto mb-4">
-                  <item.icon className="size-5 text-[purple-900]" />
+                <div className="w-12 h-12 rounded-full bg-purple-900/5 flex items-center justify-center mx-auto mb-4">
+                  <item.icon className="size-5 text-purple-900" />
                 </div>
-                <h3 className="font-semibold text-[14px] text-[purple-900] mb-1">{item.title}</h3>
+                <h3 className="font-semibold text-[14px] text-purple-900 mb-1">{item.title}</h3>
                 <p className="text-[13px] text-gray-700">{item.detail}</p>
                 <p className="text-[12px] text-gray-400 mt-0.5">{item.sub}</p>
               </div>
@@ -1519,7 +1519,7 @@ function ContactPage() {
 
           {/* Contact Form */}
           <div className="bg-white rounded-xl p-8 shadow-sm border border-gray-100 max-w-2xl mx-auto">
-            <h2 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-[purple-900] mb-6">
+            <h2 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-6">
               Send Us a Message
             </h2>
             <div className="space-y-4">
@@ -1542,10 +1542,10 @@ function ContactPage() {
                 <textarea
                   rows={5}
                   placeholder="Tell us what you need..."
-                  className="w-full rounded-md border border-gray-200 bg-white px-3 py-2 text-[13px] placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-[purple-900]/10 focus:border-[purple-900]"
+                  className="w-full rounded-md border border-gray-200 bg-white px-3 py-2 text-[13px] placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-purple-900/10 focus:border-purple-900"
                 />
               </div>
-              <Button className="bg-[purple-900] hover:bg-[purple-800] text-white font-semibold px-6 text-[13px] h-10">
+              <Button className="bg-purple-950 hover:bg-purple-800 text-white font-semibold px-6 text-[13px] h-10">
                 Send Message
               </Button>
             </div>
@@ -1567,9 +1567,9 @@ function SignInPage() {
 
   return (
     <div>
-      <section className="bg-[purple-900] py-16 sm:py-20">
+      <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-4">{isSignUp ? "Create Account" : "Welcome Back"}</p>
+          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">{isSignUp ? "Create Account" : "Welcome Back"}</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             {isSignUp ? "Join Akihabara TCG Warehouse" : "Sign In to Your Account"}
           </h1>
@@ -1601,7 +1601,7 @@ function SignInPage() {
                   <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Confirm Password</label>
                   <Input type="password" placeholder="Confirm your password" value={confirmPassword} onChange={(e) => setConfirmPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" />
                 </div>
-                <Button className="w-full bg-[purple-900] hover:bg-[purple-800] text-white font-semibold h-11 text-[14px]">
+                <Button className="w-full bg-purple-950 hover:bg-purple-800 text-white font-semibold h-11 text-[14px]">
                   Create Account
                 </Button>
                 <p className="text-[12px] text-gray-500 text-center mt-4">
@@ -1618,7 +1618,7 @@ function SignInPage() {
                 <div>
                   <div className="flex items-center justify-between mb-1.5">
                     <label className="text-[12px] font-medium text-gray-700">Password</label>
-                    <a href="#" className="text-[11px] text-[violet-400] hover:underline">Forgot password?</a>
+                    <a href="#" className="text-[11px] text-violet-400 hover:underline">Forgot password?</a>
                   </div>
                   <Input type="password" placeholder="Enter your password" value={password} onChange={(e) => setPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" />
                 </div>
@@ -1626,7 +1626,7 @@ function SignInPage() {
                   <input type="checkbox" id="remember" className="rounded border-gray-300" />
                   <label htmlFor="remember" className="text-[12px] text-gray-600">Remember me</label>
                 </div>
-                <Button className="w-full bg-[purple-900] hover:bg-[purple-800] text-white font-semibold h-11 text-[14px]">
+                <Button className="w-full bg-purple-950 hover:bg-purple-800 text-white font-semibold h-11 text-[14px]">
                   Sign In
                 </Button>
               </div>
@@ -1637,7 +1637,7 @@ function SignInPage() {
                 {isSignUp ? "Already have an account?" : "Don't have an account?"}{" "}
                 <button
                   onClick={() => { setIsSignUp(!isSignUp); setEmail(""); setPassword(""); setName(""); setConfirmPassword(""); }}
-                  className="text-[violet-400] font-semibold hover:underline"
+                  className="text-violet-400 font-semibold hover:underline"
                 >
                   {isSignUp ? "Sign In" : "Sign Up"}
                 </button>
@@ -1653,7 +1653,7 @@ function SignInPage() {
               { icon: Package, text: "Track your orders and manage returns" },
             ].map((item) => (
               <div key={item.text} className="flex items-center gap-3 text-[13px] text-gray-500">
-                <item.icon className="size-4 text-[violet-400] shrink-0" />
+                <item.icon className="size-4 text-violet-400 shrink-0" />
                 <span>{item.text}</span>
               </div>
             ))}
@@ -1692,7 +1692,7 @@ function ProductCard({
         <ProductImg src={product.image} alt={product.title} fill className="object-contain p-2 group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" />
         <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/50 to-transparent p-3 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
           <Button
-            className="w-full bg-white text-[purple-900] hover:bg-gray-100 text-[12px] font-semibold"
+            className="w-full bg-white text-purple-900 hover:bg-gray-100 text-[12px] font-semibold"
             onClick={(e) => { e.stopPropagation(); onAddToCart(product); }}
           >
             Add to Cart
@@ -1701,10 +1701,10 @@ function ProductCard({
       </div>
 
       <div className="p-4" onClick={() => onOpen(product)}>
-        <Badge variant="secondary" className="text-[9px] font-medium mb-2 bg-[purple-900]/5 text-[purple-900] hover:bg-[purple-900]/10">
+        <Badge variant="secondary" className="text-[9px] font-medium mb-2 bg-purple-900/5 text-purple-900 hover:bg-purple-900/10">
           {product.category}
         </Badge>
-        <h3 className="text-[13px] font-semibold text-[purple-900] line-clamp-2 leading-snug mb-2 min-h-[2.5rem]">
+        <h3 className="text-[13px] font-semibold text-purple-900 line-clamp-2 leading-snug mb-2 min-h-[2.5rem]">
           {product.title}
         </h3>
         <div className="flex items-center gap-1 mb-2">
@@ -1712,7 +1712,7 @@ function ProductCard({
           <span className="text-[11px] text-gray-400 ml-1">({product.rating ?? 0})</span>
         </div>
         <div className="flex items-baseline gap-2">
-          <span className="text-[16px] font-bold text-[purple-900]">
+          <span className="text-[16px] font-bold text-purple-900">
             {formatPrice(product.price, currency)}
           </span>
           {hasOriginalPrice && (
@@ -1755,10 +1755,10 @@ function ProductDetailModal({
 
       <div className="flex-1 p-6 flex flex-col">
         <DialogHeader className="text-left p-0 mb-4">
-          <Badge variant="secondary" className="text-[10px] font-medium mb-2 w-fit bg-[purple-900]/5 text-[purple-900]">
+          <Badge variant="secondary" className="text-[10px] font-medium mb-2 w-fit bg-purple-900/5 text-purple-900">
             {product.category}
           </Badge>
-          <DialogTitle className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-[purple-900] leading-snug">
+          <DialogTitle className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-purple-900 leading-snug">
             {product.title}
           </DialogTitle>
           <DialogDescription className="sr-only">
@@ -1772,12 +1772,12 @@ function ProductDetailModal({
         </div>
 
         <div className="flex items-baseline gap-3 mb-4">
-          <span className="text-2xl font-bold text-[purple-900]">{formatPrice(product.price, currency)}</span>
+          <span className="text-2xl font-bold text-purple-900">{formatPrice(product.price, currency)}</span>
           {hasOriginalPrice && (
             <span className="text-[14px] text-gray-400 line-through">{formatPrice(product.original_price ?? 0, currency)}</span>
           )}
           {hasOriginalPrice && (
-            <Badge className="bg-[purple-900]/10 text-[purple-900] border-0 text-[11px] font-bold">
+            <Badge className="bg-purple-900/10 text-purple-900 border-0 text-[11px] font-bold">
               Our Price
             </Badge>
           )}
@@ -1808,7 +1808,7 @@ function ProductDetailModal({
             </div>
           </div>
 
-          <Button className="w-full bg-[purple-900] hover:bg-[purple-800] text-white font-semibold h-11 text-[14px]" onClick={handleAdd}>
+          <Button className="w-full bg-purple-950 hover:bg-purple-800 text-white font-semibold h-11 text-[14px]" onClick={handleAdd}>
             <ShoppingCart className="size-4 mr-2" />
             Add to Cart
           </Button>
@@ -1906,7 +1906,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
   if (orderPlaced) {
     return (
       <div>
-        <section className="bg-[purple-900] py-16 sm:py-20">
+        <section className="bg-purple-950 py-16 sm:py-20">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <div className="w-16 h-16 rounded-full bg-green-100 flex items-center justify-center mx-auto mb-6">
               <svg className="size-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" /></svg>
@@ -1917,11 +1917,11 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
             <p className="text-[14px] text-gray-300 max-w-xl mx-auto mb-2">
               Thank you for your order. Your order ID is:
             </p>
-            <p className="text-2xl font-bold text-[violet-400] mb-6">{orderId}</p>
+            <p className="text-2xl font-bold text-violet-400 mb-6">{orderId}</p>
             <p className="text-[13px] text-gray-400 max-w-md mx-auto mb-8">
               We&apos;ll send a confirmation to <span className="text-white font-medium">{customerEmail}</span>. You can also reach us on WhatsApp at <span className="text-white font-medium">+81 80-2935-0455</span> for any questions.
             </p>
-            <Button className="bg-[violet-400] hover:bg-[violet-600] text-white font-semibold px-8 h-11" onClick={() => navigateTo("shop")}>
+            <Button className="bg-violet-500 hover:bg-violet-600 text-white font-semibold px-8 h-11" onClick={() => navigateTo("shop")}>
               Continue Shopping
             </Button>
           </div>
@@ -1933,7 +1933,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
   if (cart.length === 0) {
     return (
       <div>
-        <section className="bg-[purple-900] py-16 sm:py-20">
+        <section className="bg-purple-950 py-16 sm:py-20">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">Checkout</h1>
             <p className="text-[14px] text-gray-300">Your cart is empty.</p>
@@ -1941,7 +1941,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
         </section>
         <section className="py-16">
           <div className="max-w-md mx-auto px-4 text-center">
-            <Button className="bg-[purple-900] hover:bg-[purple-800] text-white font-semibold px-8 h-11" onClick={() => navigateTo("shop")}>
+            <Button className="bg-purple-950 hover:bg-purple-800 text-white font-semibold px-8 h-11" onClick={() => navigateTo("shop")}>
               Browse Products
             </Button>
           </div>
@@ -1952,9 +1952,9 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
 
   return (
     <div>
-      <section className="bg-[purple-900] py-16 sm:py-20">
+      <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-[violet-400] tracking-[0.2em] uppercase mb-4">Secure Checkout</p>
+          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">Secure Checkout</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             Complete Your Order
           </h1>
@@ -1971,8 +1971,8 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
             <div className="lg:col-span-3 space-y-6">
               {/* Contact Information */}
               <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
-                <h2 className="text-[15px] font-bold text-[purple-900] mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-[purple-900] text-white text-[11px] flex items-center justify-center font-bold">1</span>
+                <h2 className="text-[15px] font-bold text-purple-900 mb-4 flex items-center gap-2">
+                  <span className="w-6 h-6 rounded-full bg-purple-950 text-white text-[11px] flex items-center justify-center font-bold">1</span>
                   Contact Information
                 </h2>
                 <div className="grid sm:grid-cols-2 gap-4">
@@ -1993,8 +1993,8 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
 
               {/* Shipping Address */}
               <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
-                <h2 className="text-[15px] font-bold text-[purple-900] mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-[purple-900] text-white text-[11px] flex items-center justify-center font-bold">2</span>
+                <h2 className="text-[15px] font-bold text-purple-900 mb-4 flex items-center gap-2">
+                  <span className="w-6 h-6 rounded-full bg-purple-950 text-white text-[11px] flex items-center justify-center font-bold">2</span>
                   Shipping Address
                 </h2>
                 <div className="space-y-4">
@@ -2012,7 +2012,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
                       <select
                         value={shippingCountry}
                         onChange={(e) => setShippingCountry(e.target.value)}
-                        className="w-full h-10 rounded-md border border-gray-200 bg-white px-3 text-[13px] text-gray-900 focus:outline-none focus:ring-2 focus:ring-[violet-400]/20 focus:border-[violet-400]"
+                        className="w-full h-10 rounded-md border border-gray-200 bg-white px-3 text-[13px] text-gray-900 focus:outline-none focus:ring-2 focus:ring-violet-400/20 focus:border-violet-400"
                       >
                         <option value="">Select country</option>
                         <option value="US">United States</option>
@@ -2046,8 +2046,8 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
 
               {/* Payment Method */}
               <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
-                <h2 className="text-[15px] font-bold text-[purple-900] mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-[purple-900] text-white text-[11px] flex items-center justify-center font-bold">3</span>
+                <h2 className="text-[15px] font-bold text-purple-900 mb-4 flex items-center gap-2">
+                  <span className="w-6 h-6 rounded-full bg-purple-950 text-white text-[11px] flex items-center justify-center font-bold">3</span>
                   Choose Preferred Payment Method *
                 </h2>
                 <div className="grid sm:grid-cols-2 gap-3">
@@ -2062,7 +2062,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
                       key={method.value}
                       className={`flex items-start gap-3 p-4 rounded-lg border-2 cursor-pointer transition-all ${
                         paymentMethod === method.value
-                          ? "border-[violet-400] bg-[violet-400]/5"
+                          ? "border-violet-400 bg-violet-400/5"
                           : "border-gray-200 hover:border-gray-300 bg-white"
                       }`}
                     >
@@ -2072,7 +2072,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
                         value={method.value}
                         checked={paymentMethod === method.value}
                         onChange={(e) => setPaymentMethod(e.target.value)}
-                        className="mt-0.5 accent-[violet-400]"
+                        className="mt-0.5 accent-violet-400"
                       />
                       <div>
                         <span className="text-lg mr-1">{method.icon}</span>
@@ -2086,8 +2086,8 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
 
               {/* Notes */}
               <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
-                <h2 className="text-[15px] font-bold text-[purple-900] mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-[purple-900] text-white text-[11px] flex items-center justify-center font-bold">4</span>
+                <h2 className="text-[15px] font-bold text-purple-900 mb-4 flex items-center gap-2">
+                  <span className="w-6 h-6 rounded-full bg-purple-950 text-white text-[11px] flex items-center justify-center font-bold">4</span>
                   Additional Notes (Optional)
                 </h2>
                 <textarea
@@ -2095,7 +2095,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
                   value={notes}
                   onChange={(e) => setNotes(e.target.value)}
                   rows={3}
-                  className="w-full rounded-md border border-gray-200 bg-white px-3 py-2 text-[13px] text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-[violet-400]/20 focus:border-[violet-400] resize-none"
+                  className="w-full rounded-md border border-gray-200 bg-white px-3 py-2 text-[13px] text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-violet-400/20 focus:border-violet-400 resize-none"
                 />
               </div>
             </div>
@@ -2103,7 +2103,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
             {/* Right: Order Summary (2 cols) */}
             <div className="lg:col-span-2">
               <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100 sticky top-24">
-                <h2 className="text-[15px] font-bold text-[purple-900] mb-4">Order Summary</h2>
+                <h2 className="text-[15px] font-bold text-purple-900 mb-4">Order Summary</h2>
 
                 {/* Cart Items */}
                 <div className="space-y-3 max-h-72 overflow-y-auto mb-4 pr-1">
@@ -2147,7 +2147,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
                   <Separator className="my-2" />
                   <div className="flex justify-between text-[15px] font-bold">
                     <span>Total</span>
-                    <span className="text-[purple-900]">{formatPrice(grandTotal, currency)}</span>
+                    <span className="text-purple-900">{formatPrice(grandTotal, currency)}</span>
                   </div>
                 </div>
 
@@ -2155,7 +2155,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
 
                 {/* Send Order Button */}
                 <Button
-                  className="w-full bg-[purple-900] hover:bg-[purple-800] text-white font-bold h-12 text-[15px] rounded-lg"
+                  className="w-full bg-purple-950 hover:bg-purple-800 text-white font-bold h-12 text-[15px] rounded-lg"
                   disabled={
                     submitting ||
                     !customerName ||

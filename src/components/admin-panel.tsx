@@ -1426,7 +1426,7 @@ export default function AdminPanel() {
 
   if (!isAuthenticated) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-[#0e252c] p-4">
+      <div className="min-h-screen flex items-center justify-center bg-purple-950 p-4">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -1437,7 +1437,7 @@ export default function AdminPanel() {
               <div className="mx-auto mb-4 flex items-center justify-center gap-3">
                 <Image src="/logo.png" alt="Akihabara TCG" width={48} height={48} className="rounded-lg" />
                 <div>
-                  <h1 className="text-xl font-bold text-[#0e252c]">Akihabara TCG</h1>
+                  <h1 className="text-xl font-bold text-purple-950">Akihabara TCG</h1>
                   <p className="text-xs text-gray-500">Admin Panel</p>
                 </div>
               </div>
@@ -1474,7 +1474,7 @@ export default function AdminPanel() {
                     {loginError}
                   </div>
                 )}
-                <Button type="submit" className="w-full bg-[#0e252c] hover:bg-[#162f39]" disabled={loginLoading}>
+                <Button type="submit" className="w-full bg-purple-950 hover:bg-purple-800" disabled={loginLoading}>
                   {loginLoading ? (
                     <RefreshCw className="animate-spin mr-2" size={16} />
                   ) : null}
@@ -1502,7 +1502,7 @@ export default function AdminPanel() {
         <div className="fixed inset-0 bg-black/50 z-40 lg:hidden" onClick={() => setSidebarOpen(false)} />
       )}
       <aside
-        className={`fixed top-0 left-0 z-50 h-full w-64 bg-[#0e252c] flex flex-col transition-transform duration-300 lg:translate-x-0 ${
+        className={`fixed top-0 left-0 z-50 h-full w-64 bg-purple-950 flex flex-col transition-transform duration-300 lg:translate-x-0 ${
           sidebarOpen ? "translate-x-0" : "-translate-x-full"
         }`}
       >
@@ -1707,8 +1707,8 @@ export default function AdminPanel() {
                   <AreaChart data={MOCK_REVENUE_DATA}>
                     <defs>
                       <linearGradient id="colorRevenue" x1="0" y1="0" x2="0" y2="1">
-                        <stop offset="5%" stopColor="#0e252c" stopOpacity={0.15} />
-                        <stop offset="95%" stopColor="#0e252c" stopOpacity={0} />
+                        <stop offset="5%" stopColor="#581c87" stopOpacity={0.15} />
+                        <stop offset="95%" stopColor="#581c87" stopOpacity={0} />
                       </linearGradient>
                     </defs>
                     <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
@@ -1718,7 +1718,7 @@ export default function AdminPanel() {
                       contentStyle={{ borderRadius: "8px", border: "1px solid #e5e7eb", boxShadow: "0 4px 6px -1px rgba(0,0,0,0.1)" }}
                       formatter={(value: number) => [formatPrice(value), "Revenue"]}
                     />
-                    <Area type="monotone" dataKey="revenue" stroke="#0e252c" strokeWidth={2} fillOpacity={1} fill="url(#colorRevenue)" />
+                    <Area type="monotone" dataKey="revenue" stroke="#581c87" strokeWidth={2} fillOpacity={1} fill="url(#colorRevenue)" />
                   </AreaChart>
                 </ResponsiveContainer>
               </div>
@@ -1854,7 +1854,7 @@ export default function AdminPanel() {
   const renderProducts = () => (
     <div className="space-y-6">
       {renderPageHeader("Products", "Manage your product catalog", (
-        <Button onClick={openAddProduct} className="bg-[#0e252c] hover:bg-[#162f39]">
+        <Button onClick={openAddProduct} className="bg-purple-950 hover:bg-purple-800">
           <Plus size={16} className="mr-2" />
           Add Product
         </Button>
@@ -2087,7 +2087,7 @@ export default function AdminPanel() {
                         <X size={10} />
                       </button>
                       {img === pfImage && (
-                        <div className="absolute bottom-0 left-0 right-0 bg-[#0e252c] text-white text-[9px] text-center py-0.5 font-medium">Main</div>
+                        <div className="absolute bottom-0 left-0 right-0 bg-purple-950 text-white text-[9px] text-center py-0.5 font-medium">Main</div>
                       )}
                     </div>
                   ))}
@@ -2210,7 +2210,7 @@ export default function AdminPanel() {
             <Button variant="outline" onClick={() => { setProductDialogOpen(false); resetProductForm(); }}>
               Cancel
             </Button>
-            <Button onClick={saveProduct} disabled={pfSaving} className="bg-[#0e252c] hover:bg-[#162f39]">
+            <Button onClick={saveProduct} disabled={pfSaving} className="bg-purple-950 hover:bg-purple-800">
               {pfSaving && <RefreshCw className="animate-spin mr-2" size={14} />}
               {editingProduct ? "Update Product" : "Create Product"}
             </Button>
@@ -2548,7 +2548,7 @@ export default function AdminPanel() {
                         <TableCell>
                           <div className="flex items-center gap-3">
                             <Avatar className="size-8">
-                              <AvatarFallback className="text-xs bg-[#0e252c] text-white">{getInitials(customer.name)}</AvatarFallback>
+                              <AvatarFallback className="text-xs bg-purple-950 text-white">{getInitials(customer.name)}</AvatarFallback>
                             </Avatar>
                             <span className="font-medium text-sm">{customer.name || "—"}</span>
                           </div>
@@ -2602,7 +2602,7 @@ export default function AdminPanel() {
               {/* Profile */}
               <div className="flex items-center gap-4 p-4 rounded-lg bg-gray-50">
                 <Avatar className="size-14">
-                  <AvatarFallback className="text-lg bg-[#0e252c] text-white">{getInitials(selectedCustomer.name)}</AvatarFallback>
+                  <AvatarFallback className="text-lg bg-purple-950 text-white">{getInitials(selectedCustomer.name)}</AvatarFallback>
                 </Avatar>
                 <div>
                   <h3 className="text-lg font-bold">{selectedCustomer.name || "Unknown"}</h3>
@@ -2797,7 +2797,7 @@ export default function AdminPanel() {
           </div>
           <DialogFooter>
             <Button variant="outline" onClick={() => setEditReviewDialog(null)}>Cancel</Button>
-            <Button onClick={saveReview} className="bg-[#0e252c] hover:bg-[#162f39]">Save Changes</Button>
+            <Button onClick={saveReview} className="bg-purple-950 hover:bg-purple-800">Save Changes</Button>
           </DialogFooter>
         </DialogContent>
       </Dialog>
@@ -2837,7 +2837,7 @@ export default function AdminPanel() {
         {/* Hero Slides Tab */}
         <TabsContent value="slides" className="mt-6 space-y-4">
           <div className="flex justify-end">
-            <Button onClick={() => { resetSlideForm(); setSlideDialogOpen(true); }} className="bg-[#0e252c] hover:bg-[#162f39]">
+            <Button onClick={() => { resetSlideForm(); setSlideDialogOpen(true); }} className="bg-purple-950 hover:bg-purple-800">
               <Plus size={16} className="mr-2" /> Add Slide
             </Button>
           </div>
@@ -2866,7 +2866,7 @@ export default function AdminPanel() {
                             {slide.active ? "Active" : "Inactive"}
                           </Badge>
                           {slide.accent && (
-                            <Badge className="bg-[#0e252c]/10 text-[#0e252c] border-0 text-[10px]">{slide.accent}</Badge>
+                            <Badge className="bg-purple-950/10 text-purple-950 border-0 text-[10px]">{slide.accent}</Badge>
                           )}
                         </div>
                         <h3 className="font-semibold text-sm">{slide.title}</h3>
@@ -2891,7 +2891,7 @@ export default function AdminPanel() {
         {/* Announcements Tab */}
         <TabsContent value="announcements" className="mt-6 space-y-4">
           <div className="flex justify-end">
-            <Button onClick={() => { resetAnnouncementForm(); setAnnouncementDialogOpen(true); }} className="bg-[#0e252c] hover:bg-[#162f39]">
+            <Button onClick={() => { resetAnnouncementForm(); setAnnouncementDialogOpen(true); }} className="bg-purple-950 hover:bg-purple-800">
               <Plus size={16} className="mr-2" /> Add Announcement
             </Button>
           </div>
@@ -2979,7 +2979,7 @@ export default function AdminPanel() {
           </div>
           <DialogFooter>
             <Button variant="outline" onClick={() => { setSlideDialogOpen(false); resetSlideForm(); }}>Cancel</Button>
-            <Button onClick={saveSlide} className="bg-[#0e252c] hover:bg-[#162f39]">
+            <Button onClick={saveSlide} className="bg-purple-950 hover:bg-purple-800">
               {editingSlide ? "Update Slide" : "Create Slide"}
             </Button>
           </DialogFooter>
@@ -3030,7 +3030,7 @@ export default function AdminPanel() {
           </div>
           <DialogFooter>
             <Button variant="outline" onClick={() => { setAnnouncementDialogOpen(false); resetAnnouncementForm(); }}>Cancel</Button>
-            <Button onClick={saveAnnouncement} className="bg-[#0e252c] hover:bg-[#162f39]">
+            <Button onClick={saveAnnouncement} className="bg-purple-950 hover:bg-purple-800">
               {editingAnnouncement ? "Update" : "Create"}
             </Button>
           </DialogFooter>
@@ -3157,7 +3157,7 @@ export default function AdminPanel() {
               </div>
 
               <div className="flex justify-end pt-4">
-                <Button onClick={saveSettings} disabled={settingsSaving} className="bg-[#0e252c] hover:bg-[#162f39] min-w-32">
+                <Button onClick={saveSettings} disabled={settingsSaving} className="bg-purple-950 hover:bg-purple-800 min-w-32">
                   {settingsSaving && <RefreshCw className="animate-spin mr-2" size={14} />}
                   Save Settings
                 </Button>
@@ -3195,7 +3195,7 @@ export default function AdminPanel() {
             <Separator orientation="vertical" className="h-6" />
             <div className="flex items-center gap-2">
               <Avatar className="size-7">
-                <AvatarFallback className="text-[10px] bg-[#0e252c] text-white">{getInitials(adminUser?.name)}</AvatarFallback>
+                <AvatarFallback className="text-[10px] bg-purple-950 text-white">{getInitials(adminUser?.name)}</AvatarFallback>
               </Avatar>
               <span className="text-sm font-medium hidden sm:block">{adminUser?.name}</span>
             </div>
