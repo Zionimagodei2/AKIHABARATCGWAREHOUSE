@@ -41,8 +41,8 @@
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
-  --color-tcg-primary: #0e252c;
-  --color-tcg-accent: #13aff0;
+  --color-tcg-primary: #581c87;
+  --color-tcg-accent: #8b5cf6;
   --color-tcg-sale: #cb2027;
   --color-tcg-gold: #fbbf24;
   --color-tcg-bg: #f8f9fa;
@@ -51,71 +51,71 @@
 
 :root {
   --radius: 0.625rem;
-  --background: #f8f9fa;
-  --foreground: #0e252c;
+  --background: #e9d5ff;
+  --foreground: #1a1033;
   --card: #ffffff;
-  --card-foreground: #0e252c;
+  --card-foreground: #1a1033;
   --popover: #ffffff;
-  --popover-foreground: #0e252c;
-  --primary: #0e252c;
-  --primary-foreground: #f8f9fa;
+  --popover-foreground: #1a1033;
+  --primary: #581c87;
+  --primary-foreground: #f5f3ff;
   --secondary: #e9ecef;
-  --secondary-foreground: #0e252c;
+  --secondary-foreground: #1a1033;
   --muted: #e9ecef;
   --muted-foreground: #6c757d;
-  --accent: #13aff0;
+  --accent: #8b5cf6;
   --accent-foreground: #ffffff;
   --destructive: #cb2027;
   --border: #dee2e6;
   --input: #dee2e6;
-  --ring: #13aff0;
-  --chart-1: #0e252c;
-  --chart-2: #13aff0;
+  --ring: #8b5cf6;
+  --chart-1: #1a1033;
+  --chart-2: #8b5cf6;
   --chart-3: #cb2027;
   --chart-4: #fbbf24;
   --chart-5: #28a745;
-  --sidebar: #0e252c;
+  --sidebar: #1a1033;
   --sidebar-foreground: #f8f9fa;
-  --sidebar-primary: #13aff0;
+  --sidebar-primary: #8b5cf6;
   --sidebar-primary-foreground: #ffffff;
   --sidebar-accent: #1a3a44;
   --sidebar-accent-foreground: #f8f9fa;
   --sidebar-border: #1a3a44;
-  --sidebar-ring: #13aff0;
+  --sidebar-ring: #8b5cf6;
 }
 
 .dark {
-  --background: #0a1a20;
+  --background: #0f0a1e;
   --foreground: #f8f9fa;
-  --card: #0e252c;
+  --card: rgba(26, 16, 51, 0.85);
   --card-foreground: #f8f9fa;
-  --popover: #0e252c;
+  --popover: #1a1033;
   --popover-foreground: #f8f9fa;
-  --primary: #13aff0;
+  --primary: #8b5cf6;
   --primary-foreground: #ffffff;
   --secondary: #1a3a44;
   --secondary-foreground: #f8f9fa;
   --muted: #1a3a44;
   --muted-foreground: #adb5bd;
-  --accent: #13aff0;
+  --accent: #8b5cf6;
   --accent-foreground: #ffffff;
   --destructive: #cb2027;
   --border: #1a3a44;
   --input: #1a3a44;
-  --ring: #13aff0;
-  --chart-1: #13aff0;
+  --ring: #8b5cf6;
+  --chart-1: #8b5cf6;
   --chart-2: #fbbf24;
   --chart-3: #cb2027;
   --chart-4: #28a745;
   --chart-5: #6f42c1;
   --sidebar: #0a1a20;
   --sidebar-foreground: #f8f9fa;
-  --sidebar-primary: #13aff0;
+  --sidebar-primary: #8b5cf6;
   --sidebar-primary-foreground: #ffffff;
   --sidebar-accent: #1a3a44;
   --sidebar-accent-foreground: #f8f9fa;
   --sidebar-border: #1a3a44;
-  --sidebar-ring: #13aff0;
+  --sidebar-ring: #8b5cf6;
 }
 
 @layer base {
@@ -137,11 +137,11 @@
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #0e252c;
+  background: rgba(88, 28, 135, 0.3);
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #13aff0;
+  background: rgba(139, 92, 246, 0.6);
 }
 
 /* Tawk.to — hide default branding badge, keep native widget */
