@@ -258,6 +258,18 @@ export default function TCGStore() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [currentPage, setCurrentPage] = useState<PageView>("shop");
+  const [expandedCategories, setExpandedCategories] = useState<Record<string, boolean>>({});
+
+  // Group products by category for homepage 2-per-category display
+  const productsByCategory = useMemo(() => {
+    const groups: Record<string, Product[]> = {};
+    for (const p of products) {
+      const cat = p.category || "Other TCG";
+      if (!groups[cat]) groups[cat] = [];
+      groups[cat].push(p);
+    }
+    return groups;
+  }, [products]);
 
   // Load Tawk.to live chat (native widget only — no custom button)
   useEffect(() => {
@@ -581,7 +593,7 @@ export default function TCGStore() {
 
       {/* ─── Main Content ─── */}
       <main className="flex-1">
-        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} />}
+        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} expandedCategories={expandedCategories} setExpandedCategories={setExpandedCategories} />}
         {currentPage === "about" && <AboutPage />}
         {currentPage === "shipping" && <ShippingPage />}
         {currentPage === "faq" && <FAQPage />}
@@ -842,13 +854,16 @@ export default function TCGStore() {
 
 /* ─────────── Shop Page ─────────── */
 
-function ShopPage({ products, loading, selectedCategory, setSelectedCategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection }: {
+function ShopPage({ products, loading, selectedCategory, setSelectedCategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory, expandedCategories, setExpandedCategories }: {
   products: Product[]; loading: boolean; selectedCategory: string; setSelectedCategory: (v: string) => void;
   searchQuery: string; sortOption: SortOption; setSortOption: (v: SortOption) => void;
   currency: CurrencyCode; filteredProducts: Product[];
   openProductModal: (p: Product) => void; addToCart: (p: Product) => void;
   heroIndex: number; setHeroIndex: (v: number) => void;
   scrollToSection: (id: string) => void;
+  productsByCategory: Record<string, Product[]>;
+  expandedCategories: Record<string, boolean>;
+  setExpandedCategories: (v: Record<string, boolean>) => void;
 }) {
   return (
     <>
