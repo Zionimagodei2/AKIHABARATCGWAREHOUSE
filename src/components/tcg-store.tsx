@@ -1178,6 +1178,28 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               Your premier source for authentic Japanese TCG products — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam, Disney Lorcana, and more. Whether you're a seasoned collector, a competitive player, or running a card business, we've got you covered.
             </p>
           </div>
+
+          {/* Photo Gallery */}
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 sm:gap-4 mb-12">
+            {[
+              { src: "/images/about/20260623_112319.jpg", alt: "Akihabara TCG Warehouse - Storefront" },
+              { src: "/images/about/20260623_112136.jpg", alt: "Akihabara TCG Warehouse - Products Display" },
+              { src: "/images/about/20260623_112404.jpg", alt: "Akihabara TCG Warehouse - Card Collection" },
+              { src: "/images/about/20260623_112428.jpg", alt: "Akihabara TCG Warehouse - Shipping Area" },
+              { src: "/images/about/20260623_112502.jpg", alt: "Akihabara TCG Warehouse - Warehouse View" },
+            ].map((photo, i) => (
+              <div key={i} className="relative aspect-[4/3] rounded-xl overflow-hidden border border-white/10 hover:border-violet-400/40 transition-all duration-300 group shadow-lg">
+                <img
+                  src={photo.src}
+                  alt={photo.alt}
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                  loading="lazy"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+              </div>
+            ))}
+          </div>
+
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {[
               { icon: Shield, title: "Guaranteed Authenticity", desc: "Every item we sell is verified through trusted third-party channels. No counterfeits, ever." },
@@ -1322,6 +1344,34 @@ function AboutPage() {
       {/* Our Purpose */}
       <section className="py-16">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          {/* Photo Gallery */}
+          <div className="mb-16">
+            <div className="text-center mb-8">
+              <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Our Store</p>
+              <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
+                Inside Akihabara TCG Warehouse
+              </h2>
+            </div>
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 sm:gap-4">
+              {[
+                { src: "/images/about/20260623_112319.jpg", alt: "Akihabara TCG Warehouse - Storefront" },
+                { src: "/images/about/20260623_112136.jpg", alt: "Akihabara TCG Warehouse - Products Display" },
+                { src: "/images/about/20260623_112404.jpg", alt: "Akihabara TCG Warehouse - Card Collection" },
+                { src: "/images/about/20260623_112428.jpg", alt: "Akihabara TCG Warehouse - Shipping Area" },
+                { src: "/images/about/20260623_112502.jpg", alt: "Akihabara TCG Warehouse - Warehouse View" },
+              ].map((photo, i) => (
+                <div key={i} className="relative aspect-[4/3] rounded-xl overflow-hidden border border-purple-100/50 hover:border-purple-300 transition-all duration-300 group shadow-md">
+                  <img
+                    src={photo.src}
+                    alt={photo.alt}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    loading="lazy"
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Our Purpose</p>
@@ -1406,14 +1456,14 @@ function AboutPage() {
           <div className="grid sm:grid-cols-2 gap-8 max-w-3xl mx-auto">
             <div className="bg-white rounded-2xl p-4 shadow-xl border border-violet-500/20 hover:shadow-2xl transition-shadow">
               <img
-                src="/certificate-1.jpg"
+                src="/images/about/certificate-1.png"
                 alt="Business Certificate - Page 1"
                 className="w-full rounded-lg object-contain"
               />
             </div>
             <div className="bg-white rounded-2xl p-4 shadow-xl border border-violet-500/20 hover:shadow-2xl transition-shadow">
               <img
-                src="/certificate-2.jpg"
+                src="/images/about/certificate-2.png"
                 alt="Business Certificate - Page 2"
                 className="w-full rounded-lg object-contain"
               />
