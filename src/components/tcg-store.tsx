@@ -171,12 +171,29 @@ const CATEGORY_TABS = [
   { key: "all", label: "All Products" },
   { key: "Pokemon", label: "Pokémon", gradient: "from-red-500 to-orange-500" },
   { key: "One Piece", label: "One Piece", gradient: "from-yellow-500 to-amber-500" },
-  { key: "Dragon Ball", label: "Dragon Ball", gradient: "from-purple-500 to-indigo-500" },
-  { key: "Weiss Schwarz", label: "Weiss Schwarz", gradient: "from-purple-500 to-indigo-500" },
-  { key: "Union Arena", label: "Union Arena", gradient: "from-purple-500 to-indigo-500" },
-  { key: "Gundam", label: "Gundam", gradient: "from-purple-500 to-indigo-500" },
-  { key: "Disney Lorcana", label: "Lorcana", gradient: "from-purple-500 to-indigo-500" },
+  { key: "Other TCG", label: "Other TCG", gradient: "from-purple-500 to-indigo-500" },
 ];
+
+const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
+  "Pokemon": [
+    { key: "Booster Boxes", label: "Booster Boxes" },
+    { key: "Sealed Case", label: "Sealed Case" },
+    { key: "Special Set & Promo", label: "Special Set & Promo" },
+    { key: "Booster Packs", label: "Booster Packs" },
+  ],
+  "One Piece": [
+    { key: "Booster Boxes", label: "Booster Boxes" },
+    { key: "Sealed Case", label: "Sealed Case" },
+    { key: "Special Set", label: "Special Set" },
+  ],
+  "Other TCG": [
+    { key: "Weiss Schwarz", label: "Weiss Schwarz" },
+    { key: "Union Arena", label: "Union Arena" },
+    { key: "Dragon Ball", label: "Dragon Ball" },
+    { key: "Gundam", label: "Gundam" },
+    { key: "Lorcana", label: "Lorcana" },
+  ],
+};
 
 const HERO_SLIDES = [
   {
