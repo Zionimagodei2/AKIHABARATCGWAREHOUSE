@@ -28,6 +28,7 @@ CREATE TABLE IF NOT EXISTS products (
   images TEXT DEFAULT '[]',
   description TEXT,
   category TEXT NOT NULL,
+  subcategory TEXT,
   categories TEXT DEFAULT '[]',
   rating REAL DEFAULT 4.5,
   review_count INTEGER DEFAULT 0,
@@ -163,6 +164,7 @@ CREATE POLICY "Admin can manage users" ON users FOR ALL USING (true) WITH CHECK 
 -- INDEXES for performance
 -- ============================================================
 CREATE INDEX IF NOT EXISTS idx_products_category ON products(category);
+CREATE INDEX IF NOT EXISTS idx_products_subcategory ON products(subcategory);
 CREATE INDEX IF NOT EXISTS idx_products_featured ON products(featured) WHERE featured = true;
 CREATE INDEX IF NOT EXISTS idx_products_in_stock ON products(in_stock) WHERE in_stock = false;
 CREATE INDEX IF NOT EXISTS idx_orders_status ON orders(status);
@@ -189,11 +191,14 @@ CREATE TRIGGER set_orders_updated_at BEFORE UPDATE ON orders FOR EACH ROW EXECUT
 CREATE TRIGGER set_hero_slides_updated_at BEFORE UPDATE ON hero_slides FOR EACH ROW EXECUTE FUNCTION update_updated_at();
 
 -- ============================================================
--- SEED DATA: Admin user (password: admin123)
+-- SEED DATA: Admin user (password: Akihabarat1$)
 -- ============================================================
 INSERT INTO users (email, name, password, role) VALUES
-  ('admin@akihabara.com', 'Admin', 'admin123', 'admin')
+  ('admin@akihabara.com', 'Admin', 'Akihabarat1$', 'admin')
 ON CONFLICT (email) DO NOTHING;
+
+-- Update existing admin password if already present
+UPDATE users SET password = 'Akihabarat1$' WHERE email = 'admin@akihabara.com' AND password != 'Akihabarat1$';
 
 -- ============================================================
 -- SEED DATA: Default site settings
@@ -226,3 +231,21 @@ INSERT INTO hero_slides (image, title, subtitle, accent, "order", active) VALUES
   ('/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif', 'VSTAR Universe', 'Rare pulls & exclusive artwork from Japan', 'Limited Stock', 1, true),
   ('/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif', 'Ruler of the Black Flame', 'Charizard ex & more — Sealed Booster Boxes', 'Hot', 2, true),
   ('/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif', 'Snow Hazard Collection', 'Complete your Japanese set before they''re gone', 'Sale', 3, true);
+
+-- ============================================================
+-- MIGRATION: Run these if updating an EXISTING database
+-- ============================================================
+
+-- Add subcategory column if it doesn't exist
+DO $$
+BEGIN
+  IF NOT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name = 'products' AND column_name = 'subcategory') THEN
+    ALTER TABLE products ADD COLUMN subcategory TEXT;
+  END IF;
+END $$;
+
+-- Update admin password
+UPDATE users SET password = 'Akihabarat1$' WHERE email = 'admin@akihabara.com';
+
+-- Add index for subcategory if not exists
+CREATE INDEX IF NOT EXISTS idx_products_subcategory ON products(subcategory);

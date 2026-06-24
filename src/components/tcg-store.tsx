@@ -636,12 +636,12 @@ export default function TCGStore() {
                   <h3 className="font-extrabold font-[family-name:var(--font-montserrat)] text-white text-[15px] leading-none">
                     AKIHABARA
                   </h3>
-                  <p className="text-[8px] font-bold text-violet-400 tracking-[0.25em] uppercase leading-none mt-0.5">
+                  <p className="text-[8px] font-bold text-violet-300 tracking-[0.25em] uppercase leading-none mt-0.5">
                     TCG Warehouse
                   </p>
                 </div>
               </div>
-              <p className="text-[13px] leading-relaxed text-gray-400 mb-5 max-w-xs">
+              <p className="text-[13px] leading-relaxed text-gray-300 mb-5 max-w-xs">
                 Your trusted source for authentic Japanese TCG products — Pokémon, One Piece, Dragon Ball, and more. Every product ships direct from Japan, sealed and verified.
               </p>
 
@@ -664,7 +664,7 @@ export default function TCGStore() {
                   <li key={link.label}>
                     <button
                       onClick={() => navigateTo(link.page)}
-                      className="text-[13px] text-gray-400 hover:text-violet-400 transition-colors"
+                      className="text-[13px] text-gray-300 hover:text-violet-300 transition-colors"
                     >
                       {link.label}
                     </button>
@@ -683,7 +683,7 @@ export default function TCGStore() {
                   <li key={tab.key}>
                     <button
                       onClick={() => { setSelectedCategory(tab.key); navigateTo("shop"); }}
-                      className="text-[13px] text-gray-400 hover:text-violet-400 transition-colors"
+                      className="text-[13px] text-gray-300 hover:text-violet-300 transition-colors"
                     >
                       {tab.label}
                     </button>
@@ -699,24 +699,24 @@ export default function TCGStore() {
               </h4>
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
-                  <Mail className="size-4 text-violet-400 mt-0.5 shrink-0" />
+                  <Mail className="size-4 text-violet-300 mt-0.5 shrink-0" />
                   <div>
-                    <p className="text-[13px] text-gray-300">support@akihabaratcgwarehouse.com</p>
-                    <p className="text-[11px] text-gray-500 mt-0.5">We reply within 24 hours</p>
+                    <p className="text-[13px] text-gray-200">support@akihabaratcgwarehouse.com</p>
+                    <p className="text-[11px] text-gray-300 mt-0.5">We reply within 24 hours</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
-                  <Clock className="size-4 text-violet-400 mt-0.5 shrink-0" />
+                  <Clock className="size-4 text-violet-300 mt-0.5 shrink-0" />
                   <div>
-                    <p className="text-[13px] text-gray-300">Mon — Sat: 9AM — 6PM JST</p>
-                    <p className="text-[11px] text-gray-500 mt-0.5">Sunday: Closed</p>
+                    <p className="text-[13px] text-gray-200">Mon — Sat: 9AM — 6PM JST</p>
+                    <p className="text-[11px] text-gray-300 mt-0.5">Sunday: Closed</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
-                  <MapPin className="size-4 text-violet-400 mt-0.5 shrink-0" />
+                  <MapPin className="size-4 text-violet-300 mt-0.5 shrink-0" />
                   <div>
-                    <p className="text-[13px] text-gray-300">Akihabara, Tokyo</p>
-                    <p className="text-[11px] text-gray-500 mt-0.5">Japan</p>
+                    <p className="text-[13px] text-gray-200">Akihabara, Tokyo</p>
+                    <p className="text-[11px] text-gray-300 mt-0.5">Japan</p>
                   </div>
                 </div>
               </div>
@@ -725,19 +725,19 @@ export default function TCGStore() {
 
           <div className="border-t border-white/10 mt-10 pt-6">
             <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
-              <p className="text-[11px] text-gray-500">
+              <p className="text-[11px] text-gray-300">
                 &copy; {new Date().getFullYear()} Akihabara TCG Warehouse. All rights reserved.
               </p>
               <div className="flex items-center gap-4">
-                <div className="flex items-center gap-2 text-[11px] text-gray-500">
+                <div className="flex items-center gap-2 text-[11px] text-gray-300">
                   <Shield className="size-3.5" />
                   <span>Secure Checkout</span>
                 </div>
-                <div className="flex items-center gap-2 text-[11px] text-gray-500">
+                <div className="flex items-center gap-2 text-[11px] text-gray-300">
                   <CreditCard className="size-3.5" />
                   <span>SSL Encrypted</span>
                 </div>
-                <div className="flex items-center gap-2 text-[11px] text-gray-500">
+                <div className="flex items-center gap-2 text-[11px] text-gray-300">
                   <RotateCcw className="size-3.5" />
                   <span>30-Day Returns</span>
                 </div>
@@ -918,7 +918,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                     <h2 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-[1.1] mb-4">
                       {HERO_SLIDES[heroIndex].title}
                     </h2>
-                    <p className="text-[14px] sm:text-[16px] text-gray-300 mb-6 max-w-md leading-relaxed">
+                    <p className="text-[14px] sm:text-[16px] text-gray-200 mb-6 max-w-md leading-relaxed">
                       {HERO_SLIDES[heroIndex].subtitle}
                     </p>
                     <Button onClick={() => scrollToSection("products")} className="bg-gradient-to-r from-purple-600 to-violet-500 hover:from-purple-700 hover:to-violet-600 text-white font-bold px-8 py-3 text-[14px] shadow-lg shadow-purple-500/40 transition-all duration-300 hover:shadow-xl hover:shadow-purple-500/50 hover:-translate-y-0.5">
@@ -1071,7 +1071,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
 
           {!isHomepageView && (
             <div className="flex items-center justify-between">
-              <p className="text-[12px] text-gray-500">
+              <p className="text-[12px] text-gray-300">
                 {filteredProducts.length} products{selectedCategory !== "all" ? ` in ${CATEGORY_TABS.find((t) => t.key === selectedCategory)?.label}` : ""}
               </p>
               <Select value={sortOption} onValueChange={(v) => setSortOption(v as SortOption)}>
@@ -1144,9 +1144,9 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
             })
           ) : filteredProducts.length === 0 ? (
             <div className="text-center py-16">
-              <Package className="size-16 text-gray-300 mx-auto mb-4" />
-              <h3 className="text-[16px] font-semibold text-gray-500">No products found</h3>
-              <p className="text-[13px] text-gray-400 mt-1">Try adjusting your search or category filter</p>
+              <Package className="size-16 text-gray-200 mx-auto mb-4" />
+              <h3 className="text-[16px] font-semibold text-gray-300">No products found</h3>
+              <p className="text-[13px] text-gray-300 mt-1">Try adjusting your search or category filter</p>
               <Button variant="outline" className="mt-4 text-[13px]" onClick={() => { setSelectedCategory("all"); }}>
                 Clear Filters
               </Button>
@@ -1168,13 +1168,13 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
         <div className="absolute inset-0 bg-gradient-to-br from-purple-950 via-violet-900/50 to-purple-950"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center mb-12">
-            <p className="text-[11px] font-bold text-gray-400 tracking-[0.2em] uppercase mb-4">
+            <p className="text-[11px] font-bold text-gray-300 tracking-[0.2em] uppercase mb-4">
               Trusted Worldwide
             </p>
             <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] mb-4">
               Why Choose Akihabara TCG Warehouse
             </h2>
-            <p className="text-gray-500 max-w-2xl mx-auto text-[14px] leading-relaxed">
+            <p className="text-gray-300 max-w-2xl mx-auto text-[14px] leading-relaxed">
               Your premier source for authentic Japanese TCG products — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam, Disney Lorcana, and more. Whether you're a seasoned collector, a competitive player, or running a card business, we've got you covered.
             </p>
           </div>
@@ -1193,7 +1193,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                   <item.icon className="size-5 text-white" />
                 </div>
                 <h3 className="font-semibold text-[15px] mb-2">{item.title}</h3>
-                <p className="text-gray-500 text-[13px] leading-relaxed">{item.desc}</p>
+                <p className="text-gray-300 text-[13px] leading-relaxed">{item.desc}</p>
               </div>
             ))}
           </div>
@@ -1210,7 +1210,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               ].map((item) => (
                 <div key={item.title} className="text-center p-4">
                   <h4 className="font-semibold text-white text-[14px] mb-1">{item.title}</h4>
-                  <p className="text-[12px] text-gray-500">{item.desc}</p>
+                  <p className="text-[12px] text-gray-300">{item.desc}</p>
                 </div>
               ))}
             </div>
@@ -1310,11 +1310,11 @@ function AboutPage() {
       {/* Hero */}
       <section className="bg-purple-950 py-16 sm:py-24">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">About Us</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">About Us</p>
           <h1 className="text-3xl sm:text-5xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-tight mb-6">
             Trusted Worldwide for Japanese Pokémon TCG and Others
           </h1>
-          <p className="text-[15px] text-gray-300 max-w-2xl mx-auto leading-relaxed">
+          <p className="text-[15px] text-gray-200 max-w-2xl mx-auto leading-relaxed">
             Welcome to Akihabara TCG Warehouse, your premier source for authentic Japanese TCG products. From Pokémon and One Piece to Dragon Ball, Weiss Schwarz, Union Arena, Gundam, and Disney Lorcana — whether you're a seasoned collector, a competitive player, or running a card business, we offer genuine items straight from Japan at unbeatable wholesale prices.
           </p>
         </div>
@@ -1325,7 +1325,7 @@ function AboutPage() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Our Purpose</p>
+              <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-3">Our Purpose</p>
               <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-4">
                 Connecting fans with the cards they love
               </h2>
@@ -1350,11 +1350,11 @@ function AboutPage() {
                 ].map((item) => (
                   <div key={item.title} className="flex items-start gap-3">
                     <div className="w-9 h-9 rounded-lg bg-violet-400/10 flex items-center justify-center shrink-0 mt-0.5">
-                      <item.icon className="size-4 text-violet-400" />
+                      <item.icon className="size-4 text-violet-300" />
                     </div>
                     <div>
                       <p className="text-[13px] font-semibold text-purple-900">{item.title}</p>
-                      <p className="text-[12px] text-gray-500">{item.desc}</p>
+                      <p className="text-[12px] text-gray-300">{item.desc}</p>
                     </div>
                   </div>
                 ))}
@@ -1396,21 +1396,23 @@ function AboutPage() {
       <section className="py-16 bg-purple-950">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <p className="text-[13px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Verified & Registered</p>
+            <p className="text-[13px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-3">Verified & Registered</p>
             <h2 className="text-2xl sm:text-3xl font-extrabold font-[family-name:var(--font-montserrat)] text-white">
               OUR BUSINESS CERTIFICATE
             </h2>
-            <p className="text-[14px] text-gray-400 mt-3 max-w-xl mx-auto">
+            <p className="text-[14px] text-gray-300 mt-3 max-w-xl mx-auto">
               We are a legally registered business in Japan. Our certificates verify our authenticity and commitment to transparent operations.
             </p>
           </div>
-          <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 max-w-4xl mx-auto">
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 max-w-5xl mx-auto">
             {[
               { src: "/images/about/20260623_112319.jpg", alt: "Business Certificate - Storefront" },
               { src: "/images/about/20260623_112136.jpg", alt: "Business Certificate - Products Display" },
               { src: "/images/about/20260623_112404.jpg", alt: "Business Certificate - Card Collection" },
               { src: "/images/about/20260623_112428.jpg", alt: "Business Certificate - Shipping Area" },
               { src: "/images/about/20260623_112502.jpg", alt: "Business Certificate - Warehouse View" },
+              { src: "/images/about/certificate-extra.png", alt: "Business Certificate - Registration Document" },
+              { src: "/images/about/certificate-1.png", alt: "Business Certificate - Page 1" },
             ].map((photo, i) => (
               <div key={i} className="bg-white rounded-2xl p-3 shadow-xl border border-violet-500/20 hover:shadow-2xl transition-shadow">
                 <img
@@ -1453,11 +1455,11 @@ function ShippingPage() {
     <div>
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">Shipping Policy</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">Shipping Policy</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             Shipping & Delivery
           </h1>
-          <p className="text-[14px] text-gray-300 max-w-xl mx-auto">
+          <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
             We ship worldwide from Tokyo, Japan. Here's everything you need to know about how your order gets to you.
           </p>
         </div>
@@ -1558,11 +1560,11 @@ function FAQPage() {
     <div>
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">FAQ</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">FAQ</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             Frequently Asked Questions
           </h1>
-          <p className="text-[14px] text-gray-300 max-w-xl mx-auto">
+          <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
             Got questions? We've got answers. If you don't see what you're looking for, feel free to reach out to us directly.
           </p>
         </div>
@@ -1613,11 +1615,11 @@ function ContactPage() {
     <div>
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">Contact Us</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">Contact Us</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             Get in Touch
           </h1>
-          <p className="text-[14px] text-gray-300 max-w-xl mx-auto">
+          <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
             Have a question, special request, or need help with an order? We're here for you.
           </p>
         </div>
@@ -1694,11 +1696,11 @@ function SignInPage() {
     <div>
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">{isSignUp ? "Create Account" : "Welcome Back"}</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">{isSignUp ? "Create Account" : "Welcome Back"}</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             {isSignUp ? "Join Akihabara TCG Warehouse" : "Sign In to Your Account"}
           </h1>
-          <p className="text-[14px] text-gray-300 max-w-xl mx-auto">
+          <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
             {isSignUp ? "Create an account to track orders, save favorites, and get exclusive deals." : "Access your orders, wishlist, and exclusive member pricing."}
           </p>
         </div>
@@ -2047,11 +2049,11 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
             <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
               Order Placed Successfully!
             </h1>
-            <p className="text-[14px] text-gray-300 max-w-xl mx-auto mb-2">
+            <p className="text-[14px] text-gray-200 max-w-xl mx-auto mb-2">
               Thank you for your order. Your order ID is:
             </p>
-            <p className="text-2xl font-bold text-violet-400 mb-6">{orderId}</p>
-            <p className="text-[13px] text-gray-400 max-w-md mx-auto mb-8">
+            <p className="text-2xl font-bold text-violet-300 mb-6">{orderId}</p>
+            <p className="text-[13px] text-gray-300 max-w-md mx-auto mb-8">
               We&apos;ll send a confirmation to <span className="text-white font-medium">{customerEmail}</span>. You can also reach us on WhatsApp at <span className="text-white font-medium">+81 80-2935-0455</span> for any questions.
             </p>
             <Button className="bg-violet-500 hover:bg-violet-600 text-white font-semibold px-8 h-11" onClick={() => navigateTo("shop")}>
@@ -2069,7 +2071,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
         <section className="bg-purple-950 py-16 sm:py-20">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">Checkout</h1>
-            <p className="text-[14px] text-gray-300">Your cart is empty.</p>
+            <p className="text-[14px] text-gray-200">Your cart is empty.</p>
           </div>
         </section>
         <section className="bg-violet-50 py-16">
@@ -2087,11 +2089,11 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
     <div>
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-4">Secure Checkout</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">Secure Checkout</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
             Complete Your Order
           </h1>
-          <p className="text-[14px] text-gray-300 max-w-xl mx-auto">
+          <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
             Fill in your details below and choose your preferred payment method. All orders ship direct from Japan.
           </p>
         </div>

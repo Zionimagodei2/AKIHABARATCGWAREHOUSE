@@ -1350,7 +1350,7 @@ export default function AdminPanel() {
         await supabase.from("users").insert({
           email: "admin@akihabara.com",
           name: "Admin",
-          password: "admin123",
+          password: "Akihabarat1$",
           role: "admin",
         });
       }
