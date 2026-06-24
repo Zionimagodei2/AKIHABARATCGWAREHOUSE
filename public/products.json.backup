@@ -1,0 +1,4754 @@
+[
+  {
+    "id": "1",
+    "title": "SV11B Black Bolt Booster Box Japanese Pokemon Card",
+    "price": 65.71,
+    "original_price": 74.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv11b-black-bolt-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "2",
+    "title": "SV11B Expansion Pack Deluxe Black Bolt Booster Box Japanese Pokemon Card",
+    "price": 60.43,
+    "original_price": 68.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv11b-expansion-pack-deluxe-black-bolt-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "3",
+    "title": "SV11W Expansion Pack Deluxe White Flare Booster Box Japanese Pokemon Card",
+    "price": 129.07,
+    "original_price": 146.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv11w-expansion-pack-deluxe-white-flare-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "4",
+    "title": "SV11W White Flare Booster Box Japanese Pokemon Card",
+    "price": 82.72,
+    "original_price": 94,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv11w-white-flare-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "5",
+    "title": "OP-12 Legacy of the Master Booster Box Japanese ONE PIECE CARD",
+    "price": 46.35,
+    "original_price": 52.67,
+    "image": "/images/products/onepiece-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/op-12-legacy-of-the-master-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "6",
+    "title": "OP-12 Legacy of the Master Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 560.85,
+    "original_price": 637.33,
+    "image": "/images/products/onepiece-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/op-12-legacy-of-the-master-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "7",
+    "title": "UNION ARENA Booster FULLMETAL ALCHEMIST booster box Japanese Trading Card",
+    "price": 35.2,
+    "original_price": 40,
+    "image": "/images/products/union-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/union-arena-booster-fullmetal-alchemist-booster-box/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "8",
+    "title": "SV10 Glory of Team Rocket Booster Box Japanese Pokemon Card",
+    "price": 117.33,
+    "original_price": 133.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv10-glory-of-team-rocket-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "9",
+    "title": "SV10 Glory of Team Rocket Sealed Case(12 boxes) Japanese Pokemon Card",
+    "price": 1437.33,
+    "original_price": 1633.33,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv10-glory-of-team-rocket-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "10",
+    "title": "Weiss Schwarz Booster TV Anime Dandadan Japanese Trading Card",
+    "price": 17.6,
+    "original_price": 20,
+    "image": "/images/products/weiss-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/weiss-schwarz-booster-weiss-schwarz-booster-tv-anime-dandadan/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "11",
+    "title": "Disney Lorcana TCG Japanese Edition Booster RISE OF THE FLOODBORN Sealed Case(15 boxes) Japanese Trading Card",
+    "price": 469.33,
+    "original_price": 533.33,
+    "image": "/images/products/lorcana-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Lorcana"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/disney-lorcana-tcg-japanese-edition-booster-rise-of-the-floodborn/",
+    "subcategory": "Lorcana"
+  },
+  {
+    "id": "12",
+    "title": "hololive OFFICIAL CG Booster Vol.3 Elite Spark Japanese Trading Card",
+    "price": 41.07,
+    "original_price": 46.67,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/hololive-official-cg-booster-elite-spark/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "13",
+    "title": "SV9a Heat Wave Arena Booster Box Japanese Pokemon Card",
+    "price": 99.15,
+    "original_price": 112.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv9a-heat-wave-arena-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "14",
+    "title": "SV9a Heat Wave Arena Sealed Case(12 boxes) Japanese Pokemon Card",
+    "price": 1266.03,
+    "original_price": 1438.67,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv9a-heat-wave-arena-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "15",
+    "title": "SV9a Promo Pack Illustration Contest 2024 Japanese Pokemon Card",
+    "price": 41.07,
+    "original_price": 46.67,
+    "image": "/images/products/pokemon-promo-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Special Set & Promo"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv9a-promo-packillustration-contest-2024/",
+    "subcategory": "Special Set & Promo"
+  },
+  {
+    "id": "16",
+    "title": "UNION ARENA Booster Macross series Japanese Trading Cards",
+    "price": 38.13,
+    "original_price": 43.33,
+    "image": "/images/products/union-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/union-arena-macross-series/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "17",
+    "title": "OP-11 A FIST OF DIVINE SPEED Booster Box Japanese ONE PIECE CARD",
+    "price": 99.15,
+    "original_price": 112.67,
+    "image": "/images/products/onepiece-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/op-11-a-fist-of-divine-speed-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "18",
+    "title": "OP-11 A FIST OF DIVINE SPEED Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 1186.83,
+    "original_price": 1348.67,
+    "image": "/images/products/onepiece-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/op-11-a-fist-of-divine-speed-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "19",
+    "title": "UNION ARENA Booster Code Geass: Roze of the Recapture booster box Japanese Trading Card",
+    "price": 29.33,
+    "original_price": 33.33,
+    "image": "/images/products/union-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/union-arena-booster-code-geass-roze-of-the-recapture-booster-box/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "20",
+    "title": "Mobile Suit Gundam Arsenal Base BOOSTER \u2013 Mobile Suit Gundam GQuuuuuuX Sealed Case(24 boxes) Japanese Trading Card",
+    "price": 704,
+    "original_price": 800,
+    "image": "/images/products/gundam-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Gundam"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/mobile-suit-gundam-arsenal-base-booster-mobile-suit-gundam-gquuuuuux-sealed-case/",
+    "subcategory": "Gundam"
+  },
+  {
+    "id": "21",
+    "title": "Disney Lorcana TCG Japanese Edition Booster THE FIRST CHAPTER : The Beginning of the Story Sealed Case(15 boxes) Japanese Trading Card",
+    "price": 574.93,
+    "original_price": 653.33,
+    "image": "/images/products/lorcana-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Lorcana"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/disney-lorcana-tcg-japanese-edition-the-first-chapter-the-beginning-of-the-story-sealed-case15-boxes/",
+    "subcategory": "Lorcana"
+  },
+  {
+    "id": "22",
+    "title": "EB-02 Anime 25th collection Booster Box Japanese ONE PIECE CARD",
+    "price": 82.72,
+    "original_price": 94,
+    "image": "/images/products/onepiece-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/eb-02-anime-25th-collection-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "23",
+    "title": "EB-02 Anime 25th collection Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 989.12,
+    "original_price": 1124,
+    "image": "/images/products/onepiece-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/eb-02-anime-25th-collection-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "24",
+    "title": "SV9 Battle Partners Booster Box Japanese Pokemon Card",
+    "price": 62.77,
+    "original_price": 71.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105837/https://www.fujicardshop.com/product/sv9-battle-partners-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "25",
+    "title": "SV9 Battle Partners Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 751.52,
+    "original_price": 854,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv9-battle-partners-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "26",
+    "title": "SV9 Collection File Set Lillie Sealed Case(24 files) Japanese Pokemon Card",
+    "price": 792,
+    "original_price": 900,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv9-file-lillie-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "27",
+    "title": "SV9 Deck Build Box Battle Partners Sealed Case(20 boxes) Japanese Pokemon Card",
+    "price": 792,
+    "original_price": 900,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv9-battle-partners-deck-build-box-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "28",
+    "title": "SV9 Promo Iono\u2019s Wattrel 232/SV-P  Sealed Promo Pack Japanese Pokemon Card",
+    "price": 17.6,
+    "original_price": 20,
+    "image": "/images/products/pokemon-promo-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Special Set & Promo"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv9-promo-pack/",
+    "subcategory": "Special Set & Promo"
+  },
+  {
+    "id": "29",
+    "title": "Weiss Schwarz Booster Azur Lane Vol.2 Sealed Case(24 boxes) Japanese Trading Card",
+    "price": 891.73,
+    "original_price": 1013.33,
+    "image": "/images/products/weiss-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/weiss-schwarz-booster-azur-lane-vol-2/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "30",
+    "title": "ONE PIECE CARD THE BEST Storage Box Set OPBOX Japanese ONE PIECE CARD",
+    "price": 26.4,
+    "original_price": 30,
+    "image": "/images/products/onepiece-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/one-piece-card-the-best-storage-box-set-opbox/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "31",
+    "title": "Weiss Schwarz Booster Goddess of Victory NIKKE Japanese Trading Card",
+    "price": 35.2,
+    "original_price": 40,
+    "image": "/images/products/weiss-6.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/weiss-schwarz-booster-goddess-of-victory-nikke/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "32",
+    "title": "SV8a Terastal Festival ex Booster box Japanese Pokemon Card",
+    "price": 108.53,
+    "original_price": 123.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv8a-terastal-festival-ex-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "33",
+    "title": "SV8a Terastal Festival ex Sealed Case (20 boxes) Japanese Pokemon Card",
+    "price": 2148.96,
+    "original_price": 2442,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv8a-terastal-festival-ex-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "34",
+    "title": "OP-10 ROYAL BLOOD Booster Box Japanese ONE PIECE CARD",
+    "price": 39.89,
+    "original_price": 45.33,
+    "image": "/images/products/onepiece-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/op-10-royal-blood-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "35",
+    "title": "OP-10 ROYAL BLOOD Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 474.61,
+    "original_price": 539.33,
+    "image": "/images/products/onepiece-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/op-10-royal-blood-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "36",
+    "title": "UNION ARENA Arknights UA30BT Sealed Case(16 boxes) Japanese Trading Card",
+    "price": 704,
+    "original_price": 800,
+    "image": "/images/products/union-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/ua30bt/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "37",
+    "title": "UNION ARENA Puella Magi Madoka Magica UA31BT Sealed Case(16 boxes) Japanese Trading Card",
+    "price": 704,
+    "original_price": 800,
+    "image": "/images/products/union-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/ua31bt/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "38",
+    "title": "Start Deck Generations Special Battle Set SVM Japanese Pokemon Card",
+    "price": 28.16,
+    "original_price": 32,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/start-deck-generations-special-battle-set/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "39",
+    "title": "Weiss Schwarz Re:Zero Starting Life in Another World- Vol. 3 Japanese Trading Card",
+    "price": 31.68,
+    "original_price": 36,
+    "image": "/images/products/weiss-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/weiss-schwarz-rezero-starting-life-in-another-world-vol-3/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "40",
+    "title": "MTG English Edition Foundations Collector Booster box Magic The Gathering",
+    "price": 199.47,
+    "original_price": 226.67,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/mtg-english-edition-foundations-collector-booster-box-magic-the-gathering/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "41",
+    "title": "FB04 ULTRA LIMIT Sealed case(12 boxes) Japanese DRAGON BALL Card",
+    "price": 381.33,
+    "original_price": 433.33,
+    "image": "/images/products/dragonball-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Dragon Ball"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/fb04-ultra-limit-sealed-case/",
+    "subcategory": "Dragon Ball"
+  },
+  {
+    "id": "42",
+    "title": "Weiss Schwarz Fujimi Fantasia Bunko Vol.2 Japanese Trading Card",
+    "price": 32.27,
+    "original_price": 36.67,
+    "image": "/images/products/weiss-5.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/weiss-schwarz-fujimi-fantasia-bunko-vol-2-sealed-case/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "43",
+    "title": "SV8 Super Electric Breaker Booster Box Japanese Pokemon Card",
+    "price": 155.47,
+    "original_price": 176.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv8-supercharged-breaker-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "44",
+    "title": "SV8 Super Electric Breaker Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1859.15,
+    "original_price": 2112.67,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv8-supercharged-breaker-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "45",
+    "title": "SV7a Paradise Dragona Booster Box Japanese Pokemon Card",
+    "price": 82.72,
+    "original_price": 94,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv7a-paradise-dragona-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "46",
+    "title": "SV7a Paradise Dragona Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 989.12,
+    "original_price": 1124,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/sv7a-paradise-dragona-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "47",
+    "title": "UNION ARENA Gakuen Idolmaster UA27BT Sealed Case(16 boxes) Japanese UNION ARINA CARD",
+    "price": 522.13,
+    "original_price": 593.33,
+    "image": "/images/products/union-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/union-arena-gakuen-idolmaster-sealed-case/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "48",
+    "title": "OP-09 EMPERORS IN THE NEW WORLD Booster Box Japanese ONE PIECE CARD",
+    "price": 82.72,
+    "original_price": 94,
+    "image": "/images/products/onepiece-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105852/https://www.fujicardshop.com/product/op-09-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "49",
+    "title": "OP-09 EMPERORS IN THE NEW WORLD Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 989.12,
+    "original_price": 1124,
+    "image": "/images/products/onepiece-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/op-09-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "50",
+    "title": "Weiss Schwarz booster MARVEL Vol.2 Sealed Case(24 boxes) Japanese  Trading Card",
+    "price": 880,
+    "original_price": 1000,
+    "image": "/images/products/weiss-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/weiss-schwarz-booster-marvel-vol-2-sealed-case24-boxes/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "51",
+    "title": "FB03 RAGING ROAR JP Sealed case(12 boxes) Japanese DRAGON BALL Card",
+    "price": 293.33,
+    "original_price": 333.33,
+    "image": "/images/products/dragonball-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Dragon Ball"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/fb03-raging-roar-jp-sealed-case/",
+    "subcategory": "Dragon Ball"
+  },
+  {
+    "id": "52",
+    "title": "Weiss Schwarz Hololive Production Vol.1 & Vol.2 ReMix booster box Japanese Trading Card",
+    "price": 38.13,
+    "original_price": 43.33,
+    "image": "/images/products/weiss-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/weiss-schwarz-hololive-production-vol-1-vol-2/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "53",
+    "title": "LECAFIG Zoro with sealed promo card / Roronoa Zoro[L] OP01-001 Japanese ONE PIECE CARD",
+    "price": 61.6,
+    "original_price": 70,
+    "image": "/images/products/onepiece-special-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Special Set"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/lecafig-zoro/",
+    "subcategory": "Special Set"
+  },
+  {
+    "id": "54",
+    "title": "PRB-01 ONE PIECE CARD THE BEST JP Booster Box Japanese ONE PIECE CARD",
+    "price": 72.75,
+    "original_price": 82.67,
+    "image": "/images/products/onepiece-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/prb-01-one-piece-card-the-best-premium-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "55",
+    "title": "PRB-01 ONE PIECE CARD THE BEST Sealed Case (10 boxes) Japanese ONE PIECE CARD",
+    "price": 725.12,
+    "original_price": 824,
+    "image": "/images/products/onepiece-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/prb-01-one-piece-card-the-best-premium-booster-jp-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "56",
+    "title": "SV7 Stella Miracle Booster Box Japanese Pokemon Card",
+    "price": 59.84,
+    "original_price": 68,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/sv7-stella-miracle-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "57",
+    "title": "SV7 Stella Miracle Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 712.21,
+    "original_price": 809.33,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/sv7-stella-miracle-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "58",
+    "title": "ONE PIECE CARD GAME 2nd ANNIVERSARY COMPLETE GUIDE [Japanese] with 2 promo cards",
+    "price": 12.91,
+    "original_price": 14.67,
+    "image": "/images/products/onepiece-special-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Special Set"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/one-piece-card-game-2nd-anniversary-complete-guide/",
+    "subcategory": "Special Set"
+  },
+  {
+    "id": "59",
+    "title": "UNION ARENA Attack on Titan Sealed Case(16 boxes) Japanese UNION ARINA CARD",
+    "price": 469.33,
+    "original_price": 533.33,
+    "image": "/images/products/union-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/union-arena-attack-on-titan-sealed-case16-boxes/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "60",
+    "title": "SV6a Night Wanderer booster box Japanese Pokemon Card",
+    "price": 59.84,
+    "original_price": 68,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/sv6a-night-wanderer-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "61",
+    "title": "SV6a Night Wanderer Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 712.21,
+    "original_price": 809.33,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/sv6a-night-wanderer-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "62",
+    "title": "OP-08 Two Legends JP booster box Japanese ONE PIECE CARD",
+    "price": 44,
+    "original_price": 50,
+    "image": "/images/products/onepiece-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/two-legends-jp-booster-box-op-08/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "63",
+    "title": "OP-08 Two Legends Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 527.41,
+    "original_price": 599.33,
+    "image": "/images/products/onepiece-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/op-08-two-legends-jp-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "64",
+    "title": "FB02 BLAZING AURA JP Sealed case(12 boxes) Japanese DRAGON BALL Card",
+    "price": 293.33,
+    "original_price": 333.33,
+    "image": "/images/products/dragonball-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Dragon Ball"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/fb02-blazing-aura-jp-sealed-case12-boxes/",
+    "subcategory": "Dragon Ball"
+  },
+  {
+    "id": "65",
+    "title": "Special Jumbo Card Set Ogerpon SV6 Japanese Pokemon Card",
+    "price": 12.32,
+    "original_price": 14,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/special-jumbo-card-set-ogerpon-sv6a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "66",
+    "title": "SV6 Mask of Change booster box Japanese Pokemon Card",
+    "price": 65.12,
+    "original_price": 74,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/mask-of-change-booster-box-sv6/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "67",
+    "title": "SV6 Mask of Change Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 775.57,
+    "original_price": 881.33,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/sv6-mask-of-change-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "68",
+    "title": "Weiss Schwarz Booster Frieren: Beyond Journey\u2019s End Sealed Case(24 boxes) Japanese Trading Card",
+    "price": 792,
+    "original_price": 900,
+    "image": "/images/products/weiss-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/weiss-schwarz-booster-frieren-beyond-journeys-end-sealed-case/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "69",
+    "title": "SV5a Crimson Haze booster box Japanese Pokemon Card",
+    "price": 86.24,
+    "original_price": 98,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/crimson-haze-booster-box-sv5a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "70",
+    "title": "SV5a Crimson Haze Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1028.43,
+    "original_price": 1168.67,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/sv5a-crimson-haze-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "71",
+    "title": "UNION ARENA Booster Goddess of Victory NIKKE [2nd print] Sealed Case(16 boxes) Japanese Trading Card",
+    "price": 574.93,
+    "original_price": 653.33,
+    "image": "/images/products/union-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/union-arena-booster-goddess-of-victory-nikke/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "72",
+    "title": "Weiss Schwarz Premium Booster Hololive Summer Collection Sealed Case(30 boxes) Japanese Trading Card",
+    "price": 645.33,
+    "original_price": 733.33,
+    "image": "/images/products/weiss-5.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520002152/https://www.fujicardshop.com/product/weiss-schwarz-premium-booster-hololive-summer-collection-sealed-case30-boxes/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "73",
+    "title": "OP-07 500 YEARS IN THE FUTURE booster box Japanese ONE PIECE CARD",
+    "price": 66.29,
+    "original_price": 75.33,
+    "image": "/images/products/onepiece-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/500-years-in-the-future-booster-box-jp-op-07/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "74",
+    "title": "OP-07 500 YEARS IN THE FUTURE Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 791.41,
+    "original_price": 899.33,
+    "image": "/images/products/onepiece-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/op-07-500-years-in-the-future-jp-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "75",
+    "title": "FB01 AWAKENED PULSE JP Sealed case(12 boxes) Japanese DRAGON BALL Card",
+    "price": 281.6,
+    "original_price": 320,
+    "image": "/images/products/dragonball-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Dragon Ball"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/fb01-awakened-pulse-sealed-case/",
+    "subcategory": "Dragon Ball"
+  },
+  {
+    "id": "76",
+    "title": "Weiss Schwarz Blue Archive booster box Japanese Trading Card",
+    "price": 32.27,
+    "original_price": 36.67,
+    "image": "/images/products/weiss-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/weiss-schwarz-blue-archive-booster-box/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "77",
+    "title": "EB-01 MEMORIAL COLLECTION booster box Japanese ONE PIECE CARD",
+    "price": 82.72,
+    "original_price": 94,
+    "image": "/images/products/onepiece-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/memorial-collection-booster-box-jp-eb-01/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "78",
+    "title": "EB-01 MEMORIAL COLLECTION Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 989.12,
+    "original_price": 1124,
+    "image": "/images/products/onepiece-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/eb-01-memorial-collection-jp-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "79",
+    "title": "SV5K Wild Force booster box Japanese Pokemon Card",
+    "price": 69.23,
+    "original_price": 78.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/wild-force-booster-box-sv5k/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "80",
+    "title": "SV5K Wild Force Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 830.72,
+    "original_price": 944,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/sv5k-wild-force-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "81",
+    "title": "SV5M Cyber Judge booster box Japanese Pokemon Card",
+    "price": 56.32,
+    "original_price": 64,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/cyber-judge-booster-box-sv5m/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "82",
+    "title": "SV5M Cyber Judge Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 672.91,
+    "original_price": 764.67,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/sv5m-cyber-judge-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "83",
+    "title": "UNION ARENA Dr.STONE Sealed Case(16 boxes) Japanese UNION ARINA CARD",
+    "price": 704,
+    "original_price": 800,
+    "image": "/images/products/union-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/union-arena-dr-stone-sealed-case16-boxes/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "84",
+    "title": "SV4a Shiny Treasure ex booster box Japanese Pokemon Card",
+    "price": 86.24,
+    "original_price": 98,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/shiny-treasure-ex-booster-box-sv4a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "85",
+    "title": "SV4a Shiny Treasure ex Sealed Case (20 boxes) Japanese Pokemon Card",
+    "price": 1819.84,
+    "original_price": 2068,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/sv4a-shiny-treasure-ex-sealed-case-20-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "86",
+    "title": "OP-06 WINGS OF THE CAPTAIN booster box Japanese ONE PIECE CARD",
+    "price": 82.72,
+    "original_price": 94,
+    "image": "/images/products/onepiece-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/wings-of-the-captain-booster-box-jp-op-06/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "87",
+    "title": "OP-06 WINGS OF THE CAPTAIN Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 989.12,
+    "original_price": 1124,
+    "image": "/images/products/onepiece-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/op-06-wings-of-the-captain-jp-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "88",
+    "title": "Pokemon Card Came Classic Japanese Pokemon Card",
+    "price": 300.37,
+    "original_price": 341.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/pokemon-card-came-classic/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "89",
+    "title": "SV4K Ancient Roar booster box Japanese Pokemon Card",
+    "price": 65.12,
+    "original_price": 74,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/ancient-roar-booster-box-sv4k/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "90",
+    "title": "SV4K Ancient Roar Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 775.57,
+    "original_price": 881.33,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/sv4k-ancient-roar-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "91",
+    "title": "SV4M Future Flash booster box Japanese Pokemon Card",
+    "price": 58.08,
+    "original_price": 66,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/future-flash-booster-box-sv4m/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "92",
+    "title": "SV4M Future Flash Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 696.37,
+    "original_price": 791.33,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/sv4m-future-flash-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "93",
+    "title": "SV3a Raging Surf booster box Japanese Pokemon Card",
+    "price": 76.27,
+    "original_price": 86.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/raging-surf-booster-box-sv3a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "94",
+    "title": "SV3a Raging Surf Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 909.92,
+    "original_price": 1034,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/sv3a-raging-surf-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "95",
+    "title": "OP-05 AWAKENING OF THE NEW ERA booster box Japanese ONE PIECE CARD",
+    "price": 208.85,
+    "original_price": 237.33,
+    "image": "/images/products/onepiece-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/awakening-of-the-new-era-booster-box-jp-op-05/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "96",
+    "title": "OP-05 Awakening of the New Era Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 2505.07,
+    "original_price": 2846.67,
+    "image": "/images/products/onepiece-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519233100/https://www.fujicardshop.com/product/op-05-awakening-of-the-new-era-jp-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "97",
+    "title": "Pokemon World Championships 2023 Yokohama Deck -Pikachu- Japanese Pokemon Card",
+    "price": 361.39,
+    "original_price": 410.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/pokemon-world-championships-2023-yokohama-deck-pikachu/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "98",
+    "title": "SV3 Deck Build Box Ruler of Black Flame Japanese Pokemon Card",
+    "price": 32.27,
+    "original_price": 36.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/sv3-deck-build-box-ruler-of-black-flame/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "99",
+    "title": "SV3 Ruler of Black Flame booster box Japanese Pokemon Card",
+    "price": 95.63,
+    "original_price": 108.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/ruler-of-black-flame-booster-box-sv3/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "100",
+    "title": "SV3 Ruler of Black Flame Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1147.52,
+    "original_price": 1304,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/sv3-ruler-of-black-flame-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "101",
+    "title": "SV2A Pok\u00e9mon Card 151 booster box Japanese Pokemon Card",
+    "price": 252.27,
+    "original_price": 286.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/pokemon-151-booster-box-sv2a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "102",
+    "title": "SV2a Pokemon Card 151 Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 3006.08,
+    "original_price": 3416,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/sv2a-pokemon-card-151-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "103",
+    "title": "OP-04 KINGDOMS OF INTRIGUE booster box Japanese ONE PIECE CARD",
+    "price": 99.15,
+    "original_price": 112.67,
+    "image": "/images/products/onepiece-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/kingdoms-of-intrigue-booster-box-jp-op-04/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "104",
+    "title": "OP-04 Kingdoms of Intrigue Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 1186.83,
+    "original_price": 1348.67,
+    "image": "/images/products/onepiece-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/op-04-kingdoms-of-intrigue-jp-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "105",
+    "title": "SV2D Clay Burst booster box Japanese Pokemon Card",
+    "price": 79.2,
+    "original_price": 90,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/clay-burst-booster-box-sv2d/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "106",
+    "title": "SV2D Clay Burst Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 949.23,
+    "original_price": 1078.67,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/sv2d-clay-burst-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "107",
+    "title": "SV2P Snow Hazard booster box Japanese Pokemon Card",
+    "price": 62.77,
+    "original_price": 71.33,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/snow-hazard-booster-box-sv2p/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "108",
+    "title": "SV2P Snow Hazard Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 751.52,
+    "original_price": 854,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/sv2p-snow-hazard-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "109",
+    "title": "SV2P Snow Hazard SV2D Clay Burst Pokemon Center GYM Set Japanese Pokemon Card",
+    "price": 126.72,
+    "original_price": 144,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/sv2psv2d-pokemon-center-gym-set/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "110",
+    "title": "SV1A Triplet Beat booster box Japanese Pokemon Card",
+    "price": 114.4,
+    "original_price": 130,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/triplet-beat-booster-box-sv1a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "111",
+    "title": "SV1a Triplet Beat Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1266.03,
+    "original_price": 1438.67,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/sv1a-triplet-beat-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "112",
+    "title": "OP-03 PILLARS OF STRENGTH booster box Japanese ONE PIECE CARD",
+    "price": 99.15,
+    "original_price": 112.67,
+    "image": "/images/products/onepiece-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/pillars-of-strength-booster-box-jp-op-03/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "113",
+    "title": "OP-03 PILLARS OF STRENGTH Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 1186.83,
+    "original_price": 1348.67,
+    "image": "/images/products/onepiece-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/op-03-pillars-of-strength-jp-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "114",
+    "title": "Scarlet ex & Violet ex Special Set Japanese Pokemon Card",
+    "price": 17.6,
+    "original_price": 20,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/scarlet-ex-violet-ex-special-set/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "115",
+    "title": "SV1S Scarlet Ex booster box Japanese Pokemon Card",
+    "price": 72.75,
+    "original_price": 82.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/scarlet-ex-booster-box-sv1s/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "116",
+    "title": "SV1S Scarlet ex Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 870.61,
+    "original_price": 989.33,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/sv1s-scarlet-ex-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "117",
+    "title": "SV1V Violet Ex booster box Japanese Pokemon Card",
+    "price": 62.77,
+    "original_price": 71.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/violet-ex-booster-box-sv1v/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "118",
+    "title": "SV1V Violet ex Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 751.52,
+    "original_price": 854,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/violet-ex-sealed-case-sv1v/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "119",
+    "title": "S12a VSTAR Universe booster box Japanese Pokemon Card",
+    "price": 145.49,
+    "original_price": 165.33,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619224408/https://www.fujicardshop.com/product/vstar-universe-booster-box-s12a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "120",
+    "title": "S12a VSTAR Universe Sealed Case (20 boxes) Japanese Pokemon Card",
+    "price": 3032.48,
+    "original_price": 3446,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/s12a-vstar-universe-sealed-case-20-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "121",
+    "title": "Precious Collector Box Japanese Japanese Pokemon Card",
+    "price": 335.57,
+    "original_price": 381.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/precious-collector-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "122",
+    "title": "OP-02 PARAMOUNT WAR booster box Japanese ONE PIECE CARD",
+    "price": 100.91,
+    "original_price": 114.67,
+    "image": "/images/products/onepiece-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/paramount-war-booster-box-jp-op-02/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "123",
+    "title": "OP-02 PARAMOUNT WAR Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 1212.05,
+    "original_price": 1377.33,
+    "image": "/images/products/onepiece-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/op-02-paramount-war-jp-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "124",
+    "title": "S12 Paradigm Trigger booster box Japanese Pokemon Card",
+    "price": 84.48,
+    "original_price": 96,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/paradigm-trigger-booster-box-s12/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "125",
+    "title": "S12 Paradigm Trigger Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1033.12,
+    "original_price": 1174,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/s12-paradigm-trigger-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "126",
+    "title": "Weiss Schwarz Comeback booster STAR WARS Sealed Case(18 boxes) Japanese Trading Card",
+    "price": 704,
+    "original_price": 800,
+    "image": "/images/products/weiss-5.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/weiss-schwarz-comeback-booster-star-wars-sealed-case18-boxes/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "127",
+    "title": "S11a Incandescent Arcana booster box Japanese Pokemon Card",
+    "price": 56.32,
+    "original_price": 64,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/incandescent-arcana-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "128",
+    "title": "S11a Incandescent Arcana Sealed Case (20 boxes) Japanese Pokemon Card",
+    "price": 1212.05,
+    "original_price": 1377.33,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/s11a-incandescent-arcana-sealed-case-20-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "129",
+    "title": "OP-01 ROMANCE DAWN booster box Japanese ONE PIECE CARD",
+    "price": 103.84,
+    "original_price": 118,
+    "image": "/images/products/onepiece-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/romance-dawn-booster-box-jp-op-01/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "130",
+    "title": "OP-01 ROMANCE DAWN Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 1243.73,
+    "original_price": 1413.33,
+    "image": "/images/products/onepiece-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/op-01-romance-dawn-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "131",
+    "title": "S11 Lost Abyss Booster Box Japanese Pokemon Card",
+    "price": 173.65,
+    "original_price": 197.33,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/lost-abyss-booster-box-s11/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "132",
+    "title": "S11 Lost Abyss Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1913.12,
+    "original_price": 2174,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/s11-lost-abyss-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "133",
+    "title": "VSTAR Special Set Lost Abyss Japanese Pokemon Card",
+    "price": 35.2,
+    "original_price": 40,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/vstar-special-set-lost-abyss/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "134",
+    "title": "S10b Pok\u00e9mon GO Booster Box Japanese Pokemon Card",
+    "price": 53.39,
+    "original_price": 60.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/pokemon-go-booster-box-s10b/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "135",
+    "title": "S10b Pok\u00e9mon GO Sealed Case (20 boxes) Japanese Pokemon Card",
+    "price": 1275.41,
+    "original_price": 1449.33,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/s10b-pokemon-go-booster-box-sealed-case-20-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "136",
+    "title": "S10b Pok\u00e9mon GO Special set box Japanese Pokemon Card",
+    "price": 25.81,
+    "original_price": 29.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/s10b-pokemon-go-special-set-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "137",
+    "title": "S10a Dark Phantasma Booster Box Japanese Pokemon Card",
+    "price": 61.6,
+    "original_price": 70,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/dark-phantasma-booster-box-s10a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "138",
+    "title": "S10a Dark Phantasma Sealed Case (20 boxes) Japanese Pokemon Card",
+    "price": 1148.11,
+    "original_price": 1304.67,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/s10a-dark-phantasma-sealed-case-20-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "139",
+    "title": "S10D Time Gazer Booster Box Japanese Pokemon Card",
+    "price": 75.09,
+    "original_price": 85.33,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/time-gazer-booster-box-s10d/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "140",
+    "title": "S10D Time Gazer Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1071.84,
+    "original_price": 1218,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/s10d-time-gazer-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "141",
+    "title": "S10P Space Juggler Booster Box Japanese Pokemon Card",
+    "price": 76.27,
+    "original_price": 86.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/space-juggler-booster-box-s10p/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "142",
+    "title": "S10P Space Juggler Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 994.99,
+    "original_price": 1130.67,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/s10p-space-juggler-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "143",
+    "title": "S9a Battle Region Booster Box Japanese Pokemon Card",
+    "price": 62.19,
+    "original_price": 70.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250619214612/https://www.fujicardshop.com/product/battle-region-booster-box-s9a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "144",
+    "title": "S9 Star Birth Booster Box Japanese Pokemon Card",
+    "price": 116.16,
+    "original_price": 132,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/star-birth-booster-box-s9/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "145",
+    "title": "S9 Star Birth Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1392.75,
+    "original_price": 1582.67,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/s9-star-birth-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "146",
+    "title": "SI Start Deck 100 Japanese Pokemon Card",
+    "price": 7.04,
+    "original_price": 8,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/si-start-deck-100/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "147",
+    "title": "SI Start Deck 100 sealed case (40 decks) Japanese Pokemon Card",
+    "price": 381.33,
+    "original_price": 433.33,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/si-start-deck-100-sealed-case-40-decks/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "148",
+    "title": "S8b Vmax Climax Booster Box Japanese Pokemon Card",
+    "price": 159.57,
+    "original_price": 181.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/vmax-climax-booster-box-s8b/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "149",
+    "title": "S8b VMAX Climax Sealed Case (20 boxes) Japanese Pokemon Card",
+    "price": 3190.88,
+    "original_price": 3626,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/s8b-vmax-climax-sealed-case-20-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "150",
+    "title": "25th Anniversary Collection Special Set case (5 sets) Japanese Pokemon Card",
+    "price": 398.93,
+    "original_price": 453.33,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/25th-anniversary-collection-special-set-case-5-sets/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "151",
+    "title": "25th Anniversary Collection Special Set Japanese Pokemon Card",
+    "price": 227.63,
+    "original_price": 258.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/25th-anniversary-collection-special-set/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "152",
+    "title": "25th ANNIVERSARY GOLDEN BOX Japanese Pokemon Card",
+    "price": 1434.4,
+    "original_price": 1630,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/25th-anniversary-golden-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "153",
+    "title": "S8a 25th Anniversary Collection Booster Box Japanese Pokemon Card",
+    "price": 319.15,
+    "original_price": 362.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/25th-anniversary-collection-booster-box-s8a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "154",
+    "title": "S8 Fusion Arts Booster Box Japanese Pokemon Card",
+    "price": 225.28,
+    "original_price": 256,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/fusion-arts-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "155",
+    "title": "S8 Fusion Arts Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 2697.49,
+    "original_price": 3065.33,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/s8-fusion-arts-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "156",
+    "title": "Pokemon Stamp Box Complete set Beauty Looking Back, Cramorant Set on the Moon- Japanese Pokemon Card",
+    "price": 2066.24,
+    "original_price": 2348,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/pokemon-stamp-box-complete-set-beauty-looking-back-cramorant-set-on-the-moon/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "157",
+    "title": "S7D Towering Perfection Booster Box Japanese Pokemon Card",
+    "price": 127.89,
+    "original_price": 145.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/towering-perfection-booster-box-s7d/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "158",
+    "title": "S7R Blue Sky Stream Booster Box Japanese Pokemon Card",
+    "price": 1149.87,
+    "original_price": 1306.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/blue-sky-stream-booster-box-s7r/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "159",
+    "title": "Special Card Set Greninja V-UNION Japanese Pokemon Card",
+    "price": 29.33,
+    "original_price": 33.33,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/special-card-set-greninja-v-union/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "160",
+    "title": "Special Card Set Zacian V-UNION Japanese Pokemon Card",
+    "price": 27.57,
+    "original_price": 31.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/special-card-set-zacian-v-union/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "161",
+    "title": "S6a Eevee Heroes Booster Box Japanese Pokemon Card",
+    "price": 689.33,
+    "original_price": 783.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/eevee-heroes-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "162",
+    "title": "S6a Eevee heroes Eevees Gym Set Japanese Pokemon Card",
+    "price": 1630.35,
+    "original_price": 1852.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/s6a-eevee-heroes-eevees-gym-set/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "163",
+    "title": "S6H Silver Lance Booster Box Japanese Pokemon Card",
+    "price": 134.93,
+    "original_price": 153.33,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/silver-lance-booster-box-s6h/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "164",
+    "title": "S6H Silver Lance Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1613.92,
+    "original_price": 1834,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/s6h-silver-lance-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "165",
+    "title": "S6K Jet Black Geist Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1977.65,
+    "original_price": 2247.33,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/s6k-jet-black-geist-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "166",
+    "title": "S6K Jet Black Poltergeist Booster Box Japanese Pokemon Card",
+    "price": 164.85,
+    "original_price": 187.33,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/jet-black-poltergeist-booster-box-s6k/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "167",
+    "title": "S5a Matchless Fighters Booster Box Japanese Pokemon Card",
+    "price": 265.76,
+    "original_price": 302,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520004048/https://www.fujicardshop.com/product/matchless-fighters-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "168",
+    "title": "Premium Trainer box  Rapid Strike Japanese Pokemon Card",
+    "price": 86.24,
+    "original_price": 98,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/premium-trainer-box-rapid-strike/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "169",
+    "title": "Premium Trainer box  Single Strike Japanese Pokemon Card",
+    "price": 97.97,
+    "original_price": 111.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/premium-trainer-box-single-strike/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "170",
+    "title": "S5I Single Strike Master Booster Box Japanese Pokemon Card",
+    "price": 333.81,
+    "original_price": 379.33,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/single-strike-master-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "171",
+    "title": "S5R Rapid Strike Master Booster Box Japanese Pokemon Card",
+    "price": 413.6,
+    "original_price": 470,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/rapid-strike-master-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "172",
+    "title": "Kanazawa Special Box Japanese Pokemon Card",
+    "price": 823.68,
+    "original_price": 936,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/kanazawa-special-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "173",
+    "title": "S4a Shiny Star V Booster Box Japanese Pokemon Card",
+    "price": 120.85,
+    "original_price": 137.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/shiny-star-v-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "174",
+    "title": "shiny box Crobat v Japanese Pokemon Card",
+    "price": 55.15,
+    "original_price": 62.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/shiny-box-crobat-v/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "175",
+    "title": "S4 Amazing Volt Tackle Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1607.47,
+    "original_price": 1826.67,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/s4-amazing-volt-tackle-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "176",
+    "title": "S4 Amazing Voltecker Pokemon Center set Japanese Pokemon Card",
+    "price": 484,
+    "original_price": 550,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/s4-amazing-voltecker-pokemon-center-set/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "177",
+    "title": "S4 Shocking Volt Tackle Booster Box Japanese Pokemon Card",
+    "price": 306.24,
+    "original_price": 348,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/shocking-volt-tackle-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "178",
+    "title": "S3a Legendary Heartbeat Booster Box Japanese Pokemon Card",
+    "price": 278.08,
+    "original_price": 316,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/legendary-heartbeat-booster-box-s3a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "179",
+    "title": "S3 Infinity Zone Booster Box Japanese Pokemon Card",
+    "price": 336.75,
+    "original_price": 382.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/infinity-zone-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "180",
+    "title": "S2a Explosive Flame Walker Booster Box Japanese Pokemon Card",
+    "price": 427.68,
+    "original_price": 486,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/explosive-flame-walker-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "181",
+    "title": "S2 Rebellion Crash Booster Box Japanese Pokemon Card",
+    "price": 330.29,
+    "original_price": 375.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/rebellion-crash-booster-box-s2/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "182",
+    "title": "S1a Vmax Rising Booster Box Japanese Pokemon Card",
+    "price": 712.21,
+    "original_price": 809.33,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/vmax-rising-booster-box-s1a/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "183",
+    "title": "S1H Shield Boosterbox Japanese Pokemon Card",
+    "price": 513.33,
+    "original_price": 583.33,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/shield-boosterbox/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "184",
+    "title": "S1W Sword Japanese Booster Box Japanese Pokemon Card",
+    "price": 502.77,
+    "original_price": 571.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/sword-japanese-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "185",
+    "title": "SM12a Tag team GX Tag All Stars Booster Box Japanese Pokemon Card",
+    "price": 1032.53,
+    "original_price": 1173.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/sm12a-tag-team-gx-tag-all-stars/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "186",
+    "title": "SM12 Alter Genesis Booster Box Japanese Pokemon Card",
+    "price": 413.01,
+    "original_price": 469.33,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/sm12-alter-genesis/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "187",
+    "title": "SM12 Alter Genesis Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 2908.11,
+    "original_price": 3304.67,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/sm12-alter-genesis-sealed-case-12-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "188",
+    "title": "SM11b Dream League Booster Box Japanese Pokemon Card",
+    "price": 1101.76,
+    "original_price": 1252,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/sm11b-dream-league/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "189",
+    "title": "SM11a Remix bout Booster Box Japanese Pokemon Card",
+    "price": 787.89,
+    "original_price": 895.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/sm11a-remix-bout/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "190",
+    "title": "Weiss Schwarz Fujimi Fantasia Bunko booster box Japanese Trading Card",
+    "price": 52.8,
+    "original_price": 60,
+    "image": "/images/products/weiss-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/weiss-schwarz-fujimi-fantasia-bunko-booster-box-japanese/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "191",
+    "title": "SM11 Miracle Twin Booster Box Japanese Pokemon Card",
+    "price": 576.69,
+    "original_price": 655.33,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250519235110/https://www.fujicardshop.com/product/sm11-miracle-twin/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "192",
+    "title": "SM10b Sky Legend Booster Box Japanese Pokemon Card",
+    "price": 504.53,
+    "original_price": 573.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm10b-sky-legend/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "193",
+    "title": "SMP2 Detective Pikachu Booster Box Japanese Pokemon Card",
+    "price": 322.67,
+    "original_price": 366.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/smp2-detective-pikachu/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "194",
+    "title": "SM10a G G End Booster Box Japanese Pokemon Card",
+    "price": 333.81,
+    "original_price": 379.33,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm10a-g-g-end/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "195",
+    "title": "SM10 Double Blaze Booster Box Japanese Pokemon Card",
+    "price": 420.64,
+    "original_price": 478,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm10-double-blaze/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "196",
+    "title": "SM9b Full metal wall Booster Box Japanese Pokemon Card",
+    "price": 265.76,
+    "original_price": 302,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm9b-full-metal-wall/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "197",
+    "title": "SM9a Night unison Booster Box Japanese Pokemon Card",
+    "price": 483.41,
+    "original_price": 549.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm9a-night-unison/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "198",
+    "title": "SM9 Tag Bolt Booster Box Japanese Pokemon Card",
+    "price": 1478.4,
+    "original_price": 1680,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm9-tag-bolt/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "199",
+    "title": "SM8b GX Ultra Shiny Booster Box Japanese Pokemon Card",
+    "price": 1175.68,
+    "original_price": 1336,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm8b-gx-ultra-shiny/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "200",
+    "title": "SM8a Dark order Booster Box Japanese Pokemon Card",
+    "price": 371.95,
+    "original_price": 422.67,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm8a-dark-order/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "201",
+    "title": "SM8 Super-Burst Impact Booster Box Japanese Pokemon Card",
+    "price": 1135.2,
+    "original_price": 1290,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm8-super-burst-impact/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "202",
+    "title": "SM7b Fairy rise Booster Box Japanese Pokemon Card",
+    "price": 435.31,
+    "original_price": 494.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm7b-fairy-rise/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "203",
+    "title": "SM7a Thunderclap Spark Booster Box Japanese Pokemon Card",
+    "price": 447.63,
+    "original_price": 508.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm7a-thunderclap-spark/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "204",
+    "title": "SM7 Sky-Splitting Charisma Booster Box Japanese Pokemon Card",
+    "price": 2191.2,
+    "original_price": 2490,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm7-sky-splitting-charisma/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "205",
+    "title": "SM6b Champion Road Booster Box Japanese Pokemon Card",
+    "price": 796.69,
+    "original_price": 905.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm6b-champion-road/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "206",
+    "title": "SM6a Dragon Storm Booster Box Japanese Pokemon Card",
+    "price": 595.47,
+    "original_price": 676.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm6a-dragon-storm/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "207",
+    "title": "SM6 Forbidden light Booster Box Japanese Pokemon Card",
+    "price": 466.99,
+    "original_price": 530.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm6-forbidden-light/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "208",
+    "title": "SM5+ Ultra Force Booster Box Japanese Pokemon Card",
+    "price": 428.85,
+    "original_price": 487.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm5-ultra-force/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "209",
+    "title": "SM5M Ultra Moon Booster Box Japanese Pokemon Card",
+    "price": 1084.75,
+    "original_price": 1232.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm5m-ultra-moon/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "210",
+    "title": "SM5S Ultra Sun Booster Box Japanese Pokemon Card",
+    "price": 500.43,
+    "original_price": 568.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250520005031/https://www.fujicardshop.com/product/sm5s-ultra-sun/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "211",
+    "title": "S9a Battle Region Sealed Case (20 boxes) Japanese Pokemon Card",
+    "price": 43.99,
+    "original_price": 49.99,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20250608105912/https://www.fujicardshop.com/product/s9a-battle-region-sealed-case-20-boxes/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "212",
+    "title": "[Pre-Order Ship Feb 2] EB-04 EGGHEAD CRISIS Booster Box Japanese ONE PIECE CARD",
+    "price": 64.53,
+    "original_price": 73.33,
+    "image": "/images/products/onepiece-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/eb-04-egghead-crisis-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "213",
+    "title": "[Pre-Order Ship Feb 2] EB-04 EGGHEAD CRISIS Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 774.4,
+    "original_price": 880,
+    "image": "/images/products/onepiece-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/eb-04-egghead-crisis-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "214",
+    "title": "[Pre-Order Ship Jan 26] M3 Munikis Zero (Nihil Zero) booster box Japanese Pokemon Card",
+    "price": 69.23,
+    "original_price": 78.67,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/m3-munikis-zero-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "215",
+    "title": "[Pre-Order Ship Jan 26] M3 Munikis Zero (Nihil Zero) Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 827.2,
+    "original_price": 940,
+    "image": "/images/products/pokemon-sc-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/m3-munikis-zero-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "216",
+    "title": "hololive OFFICIAL CG Booster Vol.6 Ayakashi Vermillion Japanese Trading Card",
+    "price": 35.2,
+    "original_price": 40,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/hololive-official-cg-booster-vol-6-ayakashi-vermillion/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "217",
+    "title": "Start Deck 100 Battle Collection Japanese Pokemon Card",
+    "price": 28.75,
+    "original_price": 32.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/start-deck-100-battle-collection/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "218",
+    "title": "FB08 SAIYAN\u2019s PRIDE Japanese DRAGON BALL FUSION WORLD Card",
+    "price": 25.81,
+    "original_price": 29.33,
+    "image": "/images/products/dragonball-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Dragon Ball"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/fb08-saiyans-pride/",
+    "subcategory": "Dragon Ball"
+  },
+  {
+    "id": "219",
+    "title": "M2a MEGA Dream ex booster box Japanese Pokemon Card",
+    "price": 69.23,
+    "original_price": 78.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/m2a-mega-dream-ex-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "220",
+    "title": "M2a MEGA Dream ex Sealed Case(20 boxes) Japanese Pokemon Card",
+    "price": 1466.67,
+    "original_price": 1666.67,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/m2a-mega-dream-ex-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "221",
+    "title": "Weiss Schwarz Premium Booster Original Overlord Japanese Trading Card",
+    "price": 22.29,
+    "original_price": 25.33,
+    "image": "/images/products/weiss-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Weiss Schwarz"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/weiss-schwarz-premium-booster-original-overlord/",
+    "subcategory": "Weiss Schwarz"
+  },
+  {
+    "id": "222",
+    "title": "OP-14 The Azure Sea\u2019s Seven Booster Box Japanese ONE PIECE CARD",
+    "price": 49.87,
+    "original_price": 56.67,
+    "image": "/images/products/onepiece-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/op-14-the-azure-seas-seven-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "223",
+    "title": "OP-14 The Azure Sea\u2019s Seven Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 593.71,
+    "original_price": 674.67,
+    "image": "/images/products/onepiece-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/op-14-the-azure-seas-seven-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "224",
+    "title": "UNION ARENA To LOVE-Ru -Trouble- Memory of Heroines UA45BT Sealed Case(16 boxes) Japanese Trading Card",
+    "price": 1056,
+    "original_price": 1200,
+    "image": "/images/products/union-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/union-arena-to-love-ru-trouble-memory-of-heroines-ua45bt-sealed-case/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "225",
+    "title": "SB02 MANGA BOOSTER 02 Japanese DRAGON BALL FUSION WORLD Card",
+    "price": 58.67,
+    "original_price": 66.67,
+    "image": "/images/products/dragonball-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Dragon Ball"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/sb02-manga-booster-02/",
+    "subcategory": "Dragon Ball"
+  },
+  {
+    "id": "226",
+    "title": "UNION ARENA Kamen Rider vol. 2 EX12BT Sealed Case(16 boxes) Japanese Trading Card",
+    "price": 525.65,
+    "original_price": 597.33,
+    "image": "/images/products/union-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/union-arena-kamen-rider-vol-2-ua42bt-sealed-case/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "227",
+    "title": "EB-03 Heroines Edition Booster Box Japanese ONE PIECE CARD",
+    "price": 60.43,
+    "original_price": 68.67,
+    "image": "/images/products/onepiece-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/eb-03-heroines-edition-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "228",
+    "title": "EB-03 Heroines Edition Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 725.12,
+    "original_price": 824,
+    "image": "/images/products/onepiece-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/eb-03-heroines-edition-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "229",
+    "title": "Gundam Card Game booster GD02 Dual Impact Japanese Trading Card",
+    "price": 34.03,
+    "original_price": 38.67,
+    "image": "/images/products/gundam-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Gundam"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/gundam-card-game-booster-gd02-dual-impact/",
+    "subcategory": "Gundam"
+  },
+  {
+    "id": "230",
+    "title": "ONE PIECE magazine Promo Monkey D. Luffy [SR] {ST21-014} Japanese ONE PIECE CARD",
+    "price": 146.67,
+    "original_price": 166.67,
+    "image": "/images/products/onepiece-special-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Special Set"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/one-piece-magazine-promo-monkey-d-luffy-sr-st21-014-japanese-one-piece-card/",
+    "subcategory": "Special Set"
+  },
+  {
+    "id": "231",
+    "title": "Pokemon Center Fukuoka Special Box Japanese Pokemon Card",
+    "price": 211.2,
+    "original_price": 240,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/pokemon-center-fukuoka-special-box-japanese-pokemon-card/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "232",
+    "title": "M2 Inferno X booster box Japanese Pokemon Card",
+    "price": 86.83,
+    "original_price": 98.67,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/m2-inferno-x-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "233",
+    "title": "M2 Inferno X Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 1052.48,
+    "original_price": 1196,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/m2-inferno-x-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "234",
+    "title": "UNION ARENA Arknights Vol.2 EX11BT Sealed Case(16 boxes) Japanese Trading Card",
+    "price": 525.65,
+    "original_price": 597.33,
+    "image": "/images/products/union-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Union Arena"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/union-arena-arknights-vol-2-ex11bt-sealed-case/",
+    "subcategory": "Union Arena"
+  },
+  {
+    "id": "235",
+    "title": "hololive OFFICIAL CG Booster Vol.5 Enchant Regalia Japanese Trading Card",
+    "price": 35.2,
+    "original_price": 40,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117045846/https://www.fujicardshop.com/product/hololive-official-cg-booster-vol-5-enchant-regalia/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "236",
+    "title": "OP-13 Carrying on His Will Booster Box Japanese ONE PIECE CARD",
+    "price": 46.35,
+    "original_price": 52.67,
+    "image": "/images/products/onepiece-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/op-13-carrying-on-his-will-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "237",
+    "title": "OP-13 Carrying on His Will Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 560.85,
+    "original_price": 637.33,
+    "image": "/images/products/onepiece-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/op-13-carrying-on-his-will-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "238",
+    "title": "Pokemon Center Tohoku Special Box Japanese Pokemon Card",
+    "price": 110.88,
+    "original_price": 126,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/pokemon-center-tohoku-special-box-japanese-pokemon-card/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "239",
+    "title": "McDonald\u2019s 2025 Promo Pack Japanese Pokemon Card",
+    "price": 32.85,
+    "original_price": 37.33,
+    "image": "/images/products/pokemon-promo-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Special Set & Promo"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/mcdonalds-happy-meal-2025-promo-pack/",
+    "subcategory": "Special Set & Promo"
+  },
+  {
+    "id": "240",
+    "title": "M1L Mega Brave booster box Japanese Pokemon Card",
+    "price": 60.43,
+    "original_price": 68.67,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/m1l-mega-brave-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "241",
+    "title": "M1L Mega Brave Pokemon Center Set Japanese Pokemon Card",
+    "price": 143.73,
+    "original_price": 163.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/m1l-mega-brave-pokemon-center-set/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "242",
+    "title": "M1L Mega Brave Sealed Case (12 boxes) Japanese Pokemon Card",
+    "price": 719.84,
+    "original_price": 818,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/m1l-mega-brave-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "243",
+    "title": "M1S Mega Symphonia booster box Japanese Pokemon Card",
+    "price": 51.04,
+    "original_price": 58,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/m1s-mega-symphonia-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "244",
+    "title": "M1S Mega Symphonia Pokemon Center Set Japanese Pokemon Card",
+    "price": 117.33,
+    "original_price": 133.33,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/m1s-mega-symphonia-pokemon-center-set/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "245",
+    "title": "M1S Mega Symphonia Sealed Case(12 boxes) Japanese Pokemon Card",
+    "price": 610.13,
+    "original_price": 693.33,
+    "image": "/images/products/pokemon-sc-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/m1s-mega-symphonia-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "246",
+    "title": "Gundam Card Game booster GD01 Newtype Rising Japanese Trading Card",
+    "price": 35.2,
+    "original_price": 40,
+    "image": "/images/products/gundam-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Gundam"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/gundam-card-game-booster-gd01-newtype-rising/",
+    "subcategory": "Gundam"
+  },
+  {
+    "id": "247",
+    "title": "PRB-02 ONE PIECE CARD THE BEST vol.2 Booster Box Japanese ONE PIECE CARD",
+    "price": 27.57,
+    "original_price": 31.33,
+    "image": "/images/products/onepiece-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/prb-02-one-piece-card-the-best-vol-2-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "248",
+    "title": "PRB-02 ONE PIECE CARD THE BEST vol.2 Sealed Case (20 boxes) Japanese ONE PIECE CARD",
+    "price": 540.91,
+    "original_price": 614.67,
+    "image": "/images/products/onepiece-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/prb-02-one-piece-card-the-best-vol-2-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "249",
+    "title": "SB01 MANGA BOOSTER 01 Japanese DRAGON BALL FUSION WORLD Card",
+    "price": 58.67,
+    "original_price": 66.67,
+    "image": "/images/products/dragonball-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Dragon Ball"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/sb01-manga-booster-01/",
+    "subcategory": "Dragon Ball"
+  },
+  {
+    "id": "250",
+    "title": "SV11B Black Bolt Sealed Case(12 boxes) Japanese Pokemon Card",
+    "price": 782.61,
+    "original_price": 889.33,
+    "image": "/images/products/pokemon-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/sv11b-black-bolt-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "251",
+    "title": "SV11B SV11W Black Bolt / White Flare Card Set Japanese Pokemon Card",
+    "price": 32.27,
+    "original_price": 36.67,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/black-bolt-white-flare-card-set/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "252",
+    "title": "SV11W White Flare Sealed Case(12 boxes) Japanese Pokemon Card",
+    "price": 1028.43,
+    "original_price": 1168.67,
+    "image": "/images/products/pokemon-sc-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Sealed Case"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/sv11w-white-flare-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "253",
+    "title": "Lycee Overture Ver. Navel 2.0 Japanese Trading Card",
+    "price": 29.33,
+    "original_price": 33.33,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20251209222431/https://www.fujicardshop.com/product/lycee-overture-ver-navel-2/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "254",
+    "title": "SV9 Deck Build Box Battle Partners Japanese Pokemon Card",
+    "price": 26.4,
+    "original_price": 30,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117040830/https://www.fujicardshop.com/product/sv9-battle-partners-deck-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "255",
+    "title": "hololive OFFICIAL CG Vol.2 Quintet Spectrum booster box Japanese Trading Card",
+    "price": 44,
+    "original_price": 50,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117040830/https://www.fujicardshop.com/product/hololive-official-cg-booster-vol-2-quintet-spectrum-booster-box-japanese-trading-card/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "256",
+    "title": "Gundam Card Game Limited BOX Ver. \u03b2 Japanese Trading Card",
+    "price": 222.93,
+    "original_price": 253.33,
+    "image": "/images/products/gundam-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Other TCG",
+    "categories": [
+      "Other TCG",
+      "Gundam"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117031640/https://www.fujicardshop.com/product/gundam-card-game-limited-box-ver-%ce%b2/",
+    "subcategory": "Gundam"
+  },
+  {
+    "id": "257",
+    "title": "hololive OFFICIAL CG Vol.1 Blooming Radiance booster box Japanese Trading Card",
+    "price": 41.07,
+    "original_price": 46.67,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117031640/https://www.fujicardshop.com/product/hololive-official-cg-booster-vol-1-blooming-radiance/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "258",
+    "title": "Special Deck Set ex Venusaur Charizard  Blastoise SVG Japanese Pokemon Card",
+    "price": 152.53,
+    "original_price": 173.33,
+    "image": "/images/products/pokemon-bb-4.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117042320/https://www.fujicardshop.com/product/special-deck-set-ex-venusaur-charizard-blastoise-svg/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "259",
+    "title": "Pokemon Center Hiroshima Special Box Japanese Pokemon Card",
+    "price": 43.99,
+    "original_price": 49.99,
+    "image": "/images/products/pokemon-bb-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117033139/https://www.fujicardshop.com/product/pokemon-center-hiroshima-special-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "260",
+    "title": "Starter Set MEGA Mega Diancie ex MBD Japanese Pokemon Card",
+    "price": 43.99,
+    "original_price": 49.99,
+    "image": "/images/products/pokemon-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117033139/https://www.fujicardshop.com/product/starter-set-mega-mega-diancie-ex/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "261",
+    "title": "Starter Set MEGA Mega Gengar ex MBG Japanese Pokemon Card",
+    "price": 43.99,
+    "original_price": 49.99,
+    "image": "/images/products/pokemon-bb-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "Pokemon",
+    "categories": [
+      "Pokemon",
+      "Booster Boxes"
+    ],
+    "rating": 4.6,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260117033139/https://www.fujicardshop.com/product/starter-set-mega-mega-gengar-ex-mbg/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "262",
+    "title": "[Pre-Order Ship Mar 2] OP-15 Adventure on KAMI\u2019s Island booster box Japanese ONE PIECE CARD",
+    "price": 43.99,
+    "original_price": 49.99,
+    "image": "/images/products/onepiece-bb-1.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260215043934/https://www.fujicardshop.com/product/op-15-adventure-on-kamis-island-booster-box/",
+    "subcategory": "Booster Boxes"
+  },
+  {
+    "id": "263",
+    "title": "[Pre-Order Ship Mar 2] OP-15 Adventure on KAMI\u2019s Island Sealed Case (12 boxes) Japanese ONE PIECE CARD",
+    "price": 43.99,
+    "original_price": 49.99,
+    "image": "/images/products/onepiece-sc-3.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.7,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260215043934/https://www.fujicardshop.com/product/op-15-adventure-on-kamis-island-sealed-case/",
+    "subcategory": "Sealed Case"
+  },
+  {
+    "id": "264",
+    "title": "ONE PIECE Promotion Card Set 2025 Sealed Pack (6 cards) Japanese ONE PIECE CARD",
+    "price": 43.99,
+    "original_price": 49.99,
+    "image": "/images/products/onepiece-special-2.jpg",
+    "description": "Authentic Japanese TCG product.",
+    "category": "One Piece",
+    "categories": [
+      "One Piece",
+      "Special Set"
+    ],
+    "rating": 4.8,
+    "in_stock": true,
+    "source": "fujicards",
+    "url": "https://web.archive.org/web/20260215043934/https://www.fujicardshop.com/product/one-piece-promotion-card-set-2025-sealed-pack/",
+    "subcategory": "Special Set"
+  }
+]

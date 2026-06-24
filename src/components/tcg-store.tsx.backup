@@ -169,9 +169,9 @@ const CURRENCY_SYMBOLS: Record<CurrencyCode, string> = {
 
 const CATEGORY_TABS = [
   { key: "all", label: "All Products" },
-  { key: "Pokemon", label: "Pokémon", gradient: "from-red-500 to-orange-500", sectionGradient: "from-red-600/20 to-orange-500/20" },
-  { key: "One Piece", label: "One Piece", gradient: "from-yellow-500 to-amber-500", sectionGradient: "from-yellow-500/20 to-amber-500/20" },
-  { key: "Other TCG", label: "Other Categories", gradient: "from-purple-500 to-indigo-500", sectionGradient: "from-purple-500/20 to-indigo-500/20" },
+  { key: "Pokemon", label: "Pokémon", gradient: "from-red-500 to-orange-500" },
+  { key: "One Piece", label: "One Piece", gradient: "from-yellow-500 to-amber-500" },
+  { key: "Other TCG", label: "Other TCG", gradient: "from-purple-500 to-indigo-500" },
 ];
 
 const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
@@ -179,7 +179,7 @@ const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
     { key: "Booster Boxes", label: "Booster Boxes" },
     { key: "Sealed Case", label: "Sealed Case" },
     { key: "Special Set & Promo", label: "Special Set & Promo" },
-    { key: "Promo", label: "Promo" },
+    { key: "Booster Packs", label: "Booster Packs" },
   ],
   "One Piece": [
     { key: "Booster Boxes", label: "Booster Boxes" },
@@ -192,8 +192,6 @@ const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
     { key: "Dragon Ball", label: "Dragon Ball" },
     { key: "Gundam", label: "Gundam" },
     { key: "Lorcana", label: "Lorcana" },
-    { key: "OSICA", label: "OSICA" },
-    { key: "Lycee", label: "Lycee" },
   ],
 };
 
@@ -279,7 +277,6 @@ export default function TCGStore() {
   const [products, setProducts] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState("all");
-  const [selectedSubcategory, setSelectedSubcategory] = useState("all");
   const [searchQuery, setSearchQuery] = useState("");
   const [sortOption, setSortOption] = useState<SortOption>("featured");
   const [currency, setCurrency] = useState<CurrencyCode>("USD");
@@ -321,7 +318,7 @@ export default function TCGStore() {
     s0.parentNode?.insertBefore(s1, s0);
   }, []);
 
-  // Fetch products — new format already has 12% discount applied
+  // Fetch products — apply 12% discount on fujicards products
   useEffect(() => {
     fetch("/products.json")
       .then((res) => res.json())
@@ -329,11 +326,37 @@ export default function TCGStore() {
         const cleaned = data
           .filter((p) => p.id && p.title && p.price > 0 && p.image && p.category)
           .map((p) => {
-            // New scraped data: price is already our selling price (12% off fujicards)
-            // original_price is fujicards price
+            // Fujicards products: their price is the "original" price,
+            // our site sells exactly 12% cheaper
+            if (p.source === "fujicards" && p.price > 0) {
+              const fijiPrice = p.price; // This is what Fuji charges
+              const ourPrice = Math.round(fijiPrice * 0.88 * 100) / 100; // exactly 12% cheaper
+              return {
+                ...p,
+                original_price: fijiPrice, // Show Fuji's price as "original" (crossed out)
+                price: ourPrice,           // Our selling price
+                description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
+              };
+            }
+            // Existing products from cloned repo: their original_price was set
+            // to random markups. Recalculate so our price is 12% off the MSRP.
+            if (p.source === "existing" && p.original_price && p.original_price > p.price) {
+              // The original_price in the data is the MSRP/retail price.
+              // Our selling price should be 12% off that MSRP.
+              const msrp = p.original_price;
+              const ourPrice = Math.round(msrp * 0.88 * 100) / 100;
+              return {
+                ...p,
+                price: ourPrice,
+                original_price: msrp,
+                description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed.`,
+              };
+            }
+            // Kurocards / other sources: just use as-is, no fake original_price
             return {
               ...p,
-              description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
+              original_price: undefined,
+              description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed.`,
             };
           });
         setProducts(cleaned);
@@ -367,13 +390,6 @@ export default function TCGStore() {
           (p.category && p.category.toLowerCase() === selectedCategory.toLowerCase())
       );
     }
-    if (selectedSubcategory !== "all" && selectedCategory !== "all") {
-      filtered = filtered.filter(
-        (p) =>
-          (p.subcategory && p.subcategory.toLowerCase() === selectedSubcategory.toLowerCase()) ||
-          (p.categories && p.categories.length > 1 && p.categories[1].toLowerCase() === selectedSubcategory.toLowerCase())
-      );
-    }
     if (searchQuery.trim()) {
       const q = searchQuery.toLowerCase();
       filtered = filtered.filter(
@@ -392,7 +408,7 @@ export default function TCGStore() {
       default: break;
     }
     return filtered;
-  }, [products, selectedCategory, selectedSubcategory, searchQuery, sortOption]);
+  }, [products, selectedCategory, searchQuery, sortOption]);
 
   // Cart operations
   const addToCart = useCallback((product: Product, quantity = 1) => {
@@ -444,19 +460,12 @@ export default function TCGStore() {
   /* ─────────── Render ─────────── */
 
   return (
-    <div className="min-h-screen flex flex-col relative bg-gradient-to-br from-purple-900 via-violet-800 to-purple-900 noise-overlay overflow-hidden">
-      {/* Floating Orbs Background */}
-      <div className="fixed inset-0 pointer-events-none overflow-hidden z-0">
-        <div className="orb-1 absolute -top-32 -left-32 w-96 h-96 rounded-full bg-purple-500/40 blur-3xl"></div>
-        <div className="orb-2 absolute top-1/3 -right-48 w-[500px] h-[500px] rounded-full bg-violet-500/30 blur-3xl"></div>
-        <div className="orb-1 absolute -bottom-48 left-1/4 w-[600px] h-[600px] rounded-full bg-fuchsia-400/30 blur-3xl"></div>
-      </div>
-
+    <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-100 via-violet-200 to-purple-100">
       {/* ─── Announcement Bar ─── */}
       <div className="bg-purple-950 text-white overflow-hidden relative">
         <div className="animate-marquee flex whitespace-nowrap py-2.5">
           {[...ANNOUNCEMENT_MESSAGES, ...ANNOUNCEMENT_MESSAGES].map((msg, i) => (
-            <span key={i} className="mx-10 text-[14px] font-light tracking-wide opacity-90">
+            <span key={i} className="mx-10 text-[13px] font-light tracking-wide opacity-90">
               {msg}
             </span>
           ))}
@@ -464,7 +473,7 @@ export default function TCGStore() {
       </div>
 
       {/* ─── Header ─── */}
-      <header className="sticky top-0 z-40 glass-card shadow-sm">
+      <header className="sticky top-0 z-40 bg-white/97 backdrop-blur-md border-b border-gray-100 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-[68px]">
             {/* Logo */}
@@ -613,7 +622,7 @@ export default function TCGStore() {
 
       {/* ─── Main Content ─── */}
       <main className="flex-1">
-        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} selectedSubcategory={selectedSubcategory} setSelectedSubcategory={setSelectedSubcategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} />}
+        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} />}
         {currentPage === "about" && <AboutPage />}
         {currentPage === "shipping" && <ShippingPage />}
         {currentPage === "faq" && <FAQPage />}
@@ -623,7 +632,7 @@ export default function TCGStore() {
       </main>
 
       {/* ─── Footer ─── */}
-      <footer className="bg-gradient-to-r from-purple-950 via-violet-900 to-purple-950 mt-auto relative overflow-hidden">
+      <footer className="bg-gradient-to-r from-purple-900 via-violet-800 to-purple-900 mt-auto">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-8">
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
             {/* Column 1: Brand */}
@@ -874,9 +883,8 @@ export default function TCGStore() {
 
 /* ─────────── Shop Page ─────────── */
 
-function ShopPage({ products, loading, selectedCategory, setSelectedCategory, selectedSubcategory, setSelectedSubcategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory }: {
+function ShopPage({ products, loading, selectedCategory, setSelectedCategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory }: {
   products: Product[]; loading: boolean; selectedCategory: string; setSelectedCategory: (v: string) => void;
-  selectedSubcategory: string; setSelectedSubcategory: (v: string) => void;
   searchQuery: string; sortOption: SortOption; setSortOption: (v: SortOption) => void;
   currency: CurrencyCode; filteredProducts: Product[];
   openProductModal: (p: Product) => void; addToCart: (p: Product) => void;
@@ -887,16 +895,23 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
   // Determine if we show the homepage category showcase or the full product grid
   const isHomepageView = selectedCategory === "all" && !searchQuery.trim();
 
+  // Pick 2 best products per category (highest rated, or first 2 if no ratings)
+  const featuredByCategory = useMemo(() => {
+    const result: Record<string, Product[]> = {};
+    for (const [cat, prods] of Object.entries(productsByCategory)) {
+      const sorted = [...prods].sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
+      result[cat] = sorted.slice(0, 2);
+    }
+    return result;
+  }, [productsByCategory]);
+
   // Category display order
   const categoryOrder = CATEGORY_TABS.filter(t => t.key !== "all").map(t => t.key);
 
   return (
     <>
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-gradient-to-r from-[#1a1033] via-[#2d1f4e] to-[#1a1033]">
-        <div className="absolute inset-0 z-10 pointer-events-none">
-          <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent animate-[shimmer_8s_ease-in-out_infinite]" style={{transform:"skewX(-20deg)",width:"200%"}}></div>
-        </div>
+      <section className="relative overflow-hidden bg-purple-950">
         <div className="max-w-7xl mx-auto">
           <div className="relative">
             <AnimatePresence mode="wait">
@@ -912,29 +927,29 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 <div className="absolute inset-0 bg-gradient-to-r from-purple-950/90 via-purple-900/60 to-transparent" />
                 <div className="absolute inset-0 flex items-center px-8 sm:px-12 lg:px-16">
                   <div className="max-w-lg">
-                    <p className="mb-3 text-[13px] font-bold text-white tracking-[0.2em] uppercase">
+                    <p className="mb-3 text-[11px] font-bold text-violet-400 tracking-[0.15em] uppercase">
                       {HERO_SLIDES[heroIndex].accent}
                     </p>
-                    <h2 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-[1.1] mb-4">
+                    <h2 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-tight mb-3">
                       {HERO_SLIDES[heroIndex].title}
                     </h2>
-                    <p className="text-[14px] sm:text-[16px] text-gray-300 mb-6 max-w-md leading-relaxed">
+                    <p className="text-[13px] sm:text-[15px] text-gray-300 mb-5 max-w-md leading-relaxed">
                       {HERO_SLIDES[heroIndex].subtitle}
                     </p>
-                    <Button onClick={() => scrollToSection("products")} className="bg-gradient-to-r from-purple-600 to-violet-500 hover:from-purple-700 hover:to-violet-600 text-white font-bold px-8 py-3 text-[14px] shadow-lg shadow-purple-500/40 transition-all duration-300 hover:shadow-xl hover:shadow-purple-500/50 hover:-translate-y-0.5">
-                      Shop Now →
+                    <Button onClick={() => scrollToSection("products")} className="bg-purple-950 hover:bg-purple-800 text-white font-semibold px-6 text-[13px] border border-white/20">
+                      Shop Now
                     </Button>
                   </div>
                 </div>
               </motion.div>
             </AnimatePresence>
-            <button onClick={() => setHeroIndex((prev) => (prev - 1 + HERO_SLIDES.length) % HERO_SLIDES.length)} className="absolute left-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2.5 text-white transition-colors z-20" aria-label="Previous slide">
+            <button onClick={() => setHeroIndex((prev) => (prev - 1 + HERO_SLIDES.length) % HERO_SLIDES.length)} className="absolute left-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2 text-white transition-colors" aria-label="Previous slide">
               <ChevronLeft className="size-5" />
             </button>
-            <button onClick={() => setHeroIndex((prev) => (prev + 1) % HERO_SLIDES.length)} className="absolute right-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2.5 text-white transition-colors z-20" aria-label="Next slide">
+            <button onClick={() => setHeroIndex((prev) => (prev + 1) % HERO_SLIDES.length)} className="absolute right-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2 text-white transition-colors" aria-label="Next slide">
               <ChevronRight className="size-5" />
             </button>
-            <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2 z-20">
+            <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2">
               {HERO_SLIDES.map((_, i) => (
                 <button key={i} onClick={() => setHeroIndex(i)} className={`rounded-full transition-all duration-300 ${i === heroIndex ? "w-8 h-2.5 bg-violet-500" : "w-2.5 h-2.5 bg-white/40 hover:bg-white/60"}`} aria-label={`Go to slide ${i + 1}`} />
               ))}
@@ -943,15 +958,12 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
         </div>
       </section>
 
-      {/* Divider */}
-      <div className="h-[2px] bg-gradient-to-r from-transparent via-purple-400/40 to-transparent"></div>
-
       {/* Our Warehouse */}
-      <section className="bg-white/70 backdrop-blur-sm py-10 border-b border-purple-100/30 relative">
+      <section className="bg-white py-10 border-b border-gray-100">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-6">
-            <p className="text-[13px] font-bold text-gray-800 tracking-[0.2em] uppercase mb-2">Direct from Japan</p>
-            <h2 className="text-xl sm:text-2xl font-bold font-[family-name:var(--font-montserrat)] text-gray-900">
+            <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-2">Direct from Japan</p>
+            <h2 className="text-xl sm:text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
               Our Warehouse
             </h2>
           </div>
@@ -985,22 +997,22 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* Trust Badges */}
-      <section className="bg-white/60 backdrop-blur-sm border-b border-purple-100/30">
+      <section className="bg-white border-b border-gray-100">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
-              { icon: Shield, label: "100% Authentic", desc: "Verified products", color: "text-emerald-600 bg-emerald-50" },
-              { icon: Truck, label: "Free Shipping", desc: "Orders over $500", color: "text-blue-600 bg-blue-50" },
-              { icon: Globe, label: "Worldwide", desc: "Secure delivery", color: "text-amber-600 bg-amber-50" },
-              { icon: Package, label: "Direct from Japan", desc: "Trusted suppliers", color: "text-rose-600 bg-rose-50" },
+              { icon: Shield, label: "100% Authentic", desc: "Verified products" },
+              { icon: Truck, label: "Free Shipping", desc: "Orders over $500" },
+              { icon: Globe, label: "Worldwide", desc: "Secure delivery" },
+              { icon: Package, label: "Direct from Japan", desc: "Trusted suppliers" },
             ].map((badge) => (
               <div key={badge.label} className="flex items-center gap-3 justify-center py-2">
-                <div className={`w-10 h-10 rounded-lg flex items-center justify-center shrink-0 ${badge.color}`}>
-                  <badge.icon className="size-5" />
+                <div className="w-10 h-10 rounded-lg bg-purple-900/5 flex items-center justify-center shrink-0">
+                  <badge.icon className="size-5 text-purple-900" />
                 </div>
                 <div>
-                  <p className="text-[14px] font-semibold text-gray-900">{badge.label}</p>
-                  <p className="text-[13px] text-gray-500">{badge.desc}</p>
+                  <p className="text-[13px] font-semibold text-purple-900">{badge.label}</p>
+                  <p className="text-[11px] text-gray-500">{badge.desc}</p>
                 </div>
               </div>
             ))}
@@ -1025,11 +1037,11 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               {CATEGORY_TABS.map((tab) => (
                 <button
                   key={tab.key}
-                  onClick={() => { setSelectedCategory(tab.key); setSelectedSubcategory("all"); }}
-                  className={`px-4 py-2 rounded-full text-[13px] font-medium transition-all duration-200 whitespace-nowrap ${
+                  onClick={() => setSelectedCategory(tab.key)}
+                  className={`px-4 py-2 rounded-full text-[12px] font-medium transition-all duration-200 whitespace-nowrap ${
                     selectedCategory === tab.key
                       ? "bg-purple-950 text-white shadow-md"
-                      : "bg-white/80 backdrop-blur-sm text-gray-600 hover:bg-white border border-purple-100/50"
+                      : "bg-white text-gray-600 hover:bg-gray-100 border border-gray-200"
                   }`}
                 >
                   {tab.label}
@@ -1037,37 +1049,6 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               ))}
             </div>
           </div>
-
-          {/* Sub-Category Tabs */}
-          {!isHomepageView && selectedCategory !== "all" && SUBCATEGORY_TABS[selectedCategory] && (
-            <div className="-mx-4 px-4 overflow-x-auto scrollbar-none">
-              <div className="flex gap-2 pb-2 min-w-max">
-                <button
-                  onClick={() => setSelectedSubcategory("all")}
-                  className={`px-3 py-1.5 rounded-full text-[11px] font-medium transition-all duration-200 whitespace-nowrap ${
-                    selectedSubcategory === "all"
-                      ? "bg-violet-500 text-white shadow-sm"
-                      : "bg-white/60 backdrop-blur-sm text-gray-500 hover:bg-white/80 border border-purple-100/30"
-                  }`}
-                >
-                  All
-                </button>
-                {SUBCATEGORY_TABS[selectedCategory].map((sub) => (
-                  <button
-                    key={sub.key}
-                    onClick={() => setSelectedSubcategory(sub.key)}
-                    className={`px-3 py-1.5 rounded-full text-[11px] font-medium transition-all duration-200 whitespace-nowrap ${
-                      selectedSubcategory === sub.key
-                        ? "bg-violet-500 text-white shadow-sm"
-                        : "bg-white/60 backdrop-blur-sm text-gray-500 hover:bg-white/80 border border-purple-100/30"
-                    }`}
-                  >
-                    {sub.label}
-                  </button>
-                ))}
-              </div>
-            </div>
-          )}
 
           {!isHomepageView && (
             <div className="flex items-center justify-between">
@@ -1104,38 +1085,34 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               ))}
             </div>
           ) : isHomepageView ? (
-            /* ── Homepage Category Showcase: 4 products per category with gradient pills ── */
+            /* ── Homepage Category Showcase: 2 products per category with gradient pills ── */
             categoryOrder.map((catKey) => {
-              const catProducts = productsByCategory[catKey];
+              const catProducts = featuredByCategory[catKey];
               if (!catProducts || catProducts.length === 0) return null;
               const catTab = CATEGORY_TABS.find(t => t.key === catKey);
               const catLabel = catTab?.label || catKey;
               const catGradient = catTab?.gradient || "from-purple-500 to-indigo-500";
-              const totalInCat = catProducts.length;
-              // Show 4 products per category on homepage
-              const displayProducts = [...catProducts]
-                .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0))
-                .slice(0, 4);
+              const totalInCat = productsByCategory[catKey]?.length || 0;
 
               return (
                 <div key={catKey}>
                   <div className="flex items-center justify-between mb-4">
                     <div className="flex items-center gap-3">
-                      <div className={`w-1.5 h-8 rounded-full bg-gradient-to-b ${catGradient}`}></div>
+                      <div className={`w-1 h-7 rounded-full bg-gradient-to-b ${catGradient}`}></div>
                       <h3 className="text-lg sm:text-xl font-bold font-[family-name:var(--font-montserrat)] text-gray-900">{catLabel}</h3>
-                      <span className="text-[12px] text-gray-700 bg-white/60 backdrop-blur-sm px-2 py-0.5 rounded-full">{totalInCat} products</span>
+                      <span className="text-[12px] text-gray-700 hidden sm:inline">{totalInCat} products</span>
                     </div>
                     <Button
                       variant="ghost"
-                      onClick={() => { setSelectedCategory(catKey); setSelectedSubcategory("all"); }}
-                      className="text-gray-800 hover:text-gray-950 hover:bg-white/60 font-bold gap-1 bg-white/40 backdrop-blur-sm rounded-lg px-3 h-9 text-[13px]"
+                      onClick={() => setSelectedCategory(catKey)}
+                      className="text-gray-800 hover:text-gray-950 hover:bg-white/60 font-bold gap-1 bg-white/30 backdrop-blur-sm rounded-lg px-3 h-9 text-[13px]"
                     >
                       View All
                       <ChevronRight className="size-4" />
                     </Button>
                   </div>
                   <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
-                    {displayProducts.map((product) => (
+                    {catProducts.map((product) => (
                       <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
                     ))}
                   </div>
@@ -1164,9 +1141,8 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* About Section */}
-      <section id="about" className="bg-purple-950 text-white py-16 mt-8 relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-purple-950 via-violet-900/50 to-purple-950"></div>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      <section id="about" className="bg-purple-950 text-white py-16 mt-8">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <p className="text-[11px] font-bold text-gray-400 tracking-[0.2em] uppercase mb-4">
               Trusted Worldwide
@@ -1218,7 +1194,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* Reviews Section */}
-      <section className="py-16 bg-violet-50/50">
+      <section className="py-16 bg-violet-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Testimonials</p>
@@ -1274,7 +1250,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 rating: 5,
               },
             ].map((review, i) => (
-              <div key={i} className="bg-white/90 backdrop-blur-sm rounded-xl p-6 shadow-sm border border-purple-100/30">
+              <div key={i} className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
                 <div className="flex items-center gap-0.5 mb-3">
                   {Array.from({ length: review.rating }).map((_, j) => (
                     <Star key={j} className="size-4 fill-amber-400 text-amber-400" />
