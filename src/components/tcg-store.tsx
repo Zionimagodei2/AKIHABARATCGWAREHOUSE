@@ -507,16 +507,7 @@ export default function TCGStore() {
 
             {/* Right side */}
             <div className="flex items-center gap-2 sm:gap-3">
-              {/* Admin button */}
-              <a href="/admin">
-                <Button
-                  variant="ghost"
-                  className="hidden sm:flex items-center gap-1.5 text-[13px] font-medium text-gray-500 hover:text-purple-900 px-2"
-                >
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="size-4"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-                  Admin
-                </Button>
-              </a>
+
               <div className="relative hidden sm:block">
                 <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 size-4 text-gray-400" />
                 <Input
@@ -604,12 +595,7 @@ export default function TCGStore() {
                       {item.label}
                     </button>
                   ))}
-                  <a
-                    href="/admin"
-                    className="block w-full text-left px-3 py-2.5 text-[13px] font-medium rounded-md transition-colors text-gray-500 hover:text-purple-900 hover:bg-gray-50"
-                  >
-                    Admin
-                  </a>
+
                 </div>
               </motion.div>
             )}
