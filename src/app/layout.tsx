@@ -62,7 +62,7 @@ export default function RootLayout({
         <link rel="preload" href="/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif" as="image" />
         <link rel="preload" href="/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif" as="image" />
         <link rel="preload" href="/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif" as="image" />
-        <link rel="preload" href="/logo.png" as="image" />
+        <link rel="preload" href="/logo.png?v=2" as="image" />
       </head>
       <body
         className={`${inter.variable} ${montserrat.variable} antialiased bg-background text-foreground`}
