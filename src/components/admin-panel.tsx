@@ -21,6 +21,7 @@ import {
   TrendingUp,
   TrendingDown,
   DollarSign,
+  Globe,
   Eye,
   ChevronRight,
   AlertTriangle,
@@ -1594,6 +1595,15 @@ export default function AdminPanel() {
               <p className="text-white/50 text-[11px] truncate">{adminUser?.email}</p>
             </div>
           </div>
+          <Button
+            variant="ghost"
+            size="sm"
+            className="w-full justify-start text-white/60 hover:text-violet-300 hover:bg-white/5"
+            onClick={() => window.location.href = "/"}
+          >
+            <Globe size={16} className="mr-2" />
+            Back to Store
+          </Button>
           <Button
             variant="ghost"
             size="sm"
