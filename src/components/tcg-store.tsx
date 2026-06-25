@@ -1013,9 +1013,9 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
         <div className="space-y-10">
           {isHomepageView && (
             <div className="text-center">
-              <p className="text-[13px] font-bold text-purple-950 tracking-[0.2em] uppercase mb-2">Featured Selection</p>
-              <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-gray-900">Our Collection</h2>
-              <p className="text-[14px] text-gray-700 mt-1">Hand-picked highlights from each category</p>
+              <p className="text-[13px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-2">Featured Selection</p>
+              <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-white">Our Collection</h2>
+              <p className="text-[14px] text-gray-300 mt-1">Hand-picked highlights from each category</p>
             </div>
           )}
 
@@ -1122,13 +1122,13 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                   <div className="flex items-center justify-between mb-4">
                     <div className="flex items-center gap-3">
                       <div className={`w-1.5 h-8 rounded-full bg-gradient-to-b ${catGradient}`}></div>
-                      <h3 className="text-lg sm:text-xl font-bold font-[family-name:var(--font-montserrat)] text-gray-900">{catLabel}</h3>
-                      <span className="text-[12px] text-gray-700 bg-white/60 backdrop-blur-sm px-2 py-0.5 rounded-full">{totalInCat} products</span>
+                      <h3 className="text-lg sm:text-xl font-bold font-[family-name:var(--font-montserrat)] text-white">{catLabel}</h3>
+                      <span className="text-[12px] text-gray-200 bg-white/10 backdrop-blur-sm px-2 py-0.5 rounded-full">{totalInCat} products</span>
                     </div>
                     <Button
                       variant="ghost"
                       onClick={() => { setSelectedCategory(catKey); setSelectedSubcategory("all"); }}
-                      className="text-gray-800 hover:text-gray-950 hover:bg-white/60 font-bold gap-1 bg-white/40 backdrop-blur-sm rounded-lg px-3 h-9 text-[13px]"
+                      className="text-gray-200 hover:text-white hover:bg-white/20 font-bold gap-1 bg-white/10 backdrop-blur-sm rounded-lg px-3 h-9 text-[13px]"
                     >
                       View All
                       <ChevronRight className="size-4" />
@@ -1326,18 +1326,18 @@ function AboutPage() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-3">Our Purpose</p>
-              <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-4">
+              <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-white mb-4">
                 Connecting fans with the cards they love
               </h2>
-              <p className="text-[14px] text-gray-600 leading-relaxed mb-4">
+              <p className="text-[14px] text-gray-300 leading-relaxed mb-4">
                 We're here to connect fans around the globe with the most exciting and hard-to-find Japanese Pokémon cards. Our focus is to make every order secure, every card legitimate, and every customer experience smooth and satisfying.
               </p>
-              <p className="text-[14px] text-gray-600 leading-relaxed">
+              <p className="text-[14px] text-gray-300 leading-relaxed">
                 Based in the heart of Akihabara, Tokyo's legendary electronics and hobby district, we have direct access to the newest releases, rarest finds, and best prices. We pass those savings on to you.
               </p>
             </div>
-            <div className="bg-purple-900/5 rounded-2xl p-8">
-              <h3 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-6">
+            <div className="bg-white/5 rounded-2xl p-8 border border-white/10">
+              <h3 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-white mb-6">
                 Why Thousands Trust Us
               </h3>
               <div className="space-y-4">
@@ -1349,11 +1349,11 @@ function AboutPage() {
                   { icon: Heart, title: "Reliable Support", desc: "Our team is available 24/7 to assist you" },
                 ].map((item) => (
                   <div key={item.title} className="flex items-start gap-3">
-                    <div className="w-9 h-9 rounded-lg bg-violet-400/10 flex items-center justify-center shrink-0 mt-0.5">
-                      <item.icon className="size-4 text-violet-300" />
+                    <div className="w-9 h-9 rounded-lg bg-violet-400/20 flex items-center justify-center shrink-0 mt-0.5">
+                      <item.icon className="size-4 text-violet-200" />
                     </div>
                     <div>
-                      <p className="text-[13px] font-semibold text-purple-900">{item.title}</p>
+                      <p className="text-[13px] font-semibold text-white">{item.title}</p>
                       <p className="text-[12px] text-gray-300">{item.desc}</p>
                     </div>
                   </div>
