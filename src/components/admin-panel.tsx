@@ -917,6 +917,13 @@ export default function AdminPanel() {
     }
   }, [activePage, isAuthenticated, fetchStats, fetchProducts, fetchOrders, fetchCustomers, fetchReviews, fetchContent, fetchSettings]);
 
+  // Re-fetch products when page changes (more reliable pagination)
+  useEffect(() => {
+    if (isAuthenticated && activePage === "products") {
+      fetchProducts();
+    }
+  }, [productsPage]);
+
   /* ─────────── Product Helpers ─────────── */
 
   const resetProductForm = () => {
@@ -2017,7 +2024,7 @@ export default function AdminPanel() {
                   <Button
                     variant="outline"
                     size="sm"
-                    disabled={products.length < 20}
+                    disabled={productsPage >= Math.ceil(productsTotal / 20)}
                     onClick={() => setProductsPage((p) => p + 1)}
                   >
                     Next

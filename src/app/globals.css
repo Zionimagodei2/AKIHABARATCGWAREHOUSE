@@ -3,6 +3,27 @@
 
 @custom-variant dark (&:is(.dark *));
 
+/* Force srgb interpolation for Safari compatibility (Safari <16.2 fails on oklab) */
+*,
+*::before,
+*::after {
+  --tw-gradient-interpolation-method: srgb !important;
+}
+
+/* Safari-safe gradient buttons with hover states */
+.btn-gradient-purple {
+  background: linear-gradient(to right in srgb, #9333ea, #8b5cf6);
+}
+.btn-gradient-purple:hover {
+  background: linear-gradient(to right in srgb, #7e22ce, #7c3aed);
+}
+.btn-gradient-cart {
+  background: linear-gradient(to right in srgb, #7e22ce, #7c3aed);
+}
+.btn-gradient-cart:hover {
+  background: linear-gradient(to right in srgb, #581c87, #6d28d9);
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
