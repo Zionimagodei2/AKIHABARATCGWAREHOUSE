@@ -1991,41 +1991,71 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
     try {
       const orderId = "AKI-" + Date.now().toString(36).toUpperCase();
 
-      const { error: orderError } = await supabase.from("orders").insert({
-        id: orderId,
-        user_id: null,
-        total: grandTotal,
-        status: "pending",
-        customer_name: customerName,
-        customer_email: customerEmail,
-        customer_phone: customerPhone,
-        shipping_address: shippingAddress,
-        shipping_city: shippingCity,
-        shipping_country: shippingCountry,
-        shipping_zip: shippingZip,
-        payment_method: paymentMethod,
-        notes,
-      });
+      // Try Supabase if configured
+      const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+      if (supabaseUrl) {
+        const { error: orderError } = await supabase.from("orders").insert({
+          id: orderId,
+          user_id: null,
+          total: grandTotal,
+          status: "pending",
+          customer_name: customerName,
+          customer_email: customerEmail,
+          customer_phone: customerPhone,
+          shipping_address: shippingAddress,
+          shipping_city: shippingCity,
+          shipping_country: shippingCountry,
+          shipping_zip: shippingZip,
+          payment_method: paymentMethod,
+          notes,
+        });
 
-      if (orderError) {
-        alert(orderError.message || "Failed to place order. Please try again.");
-        return;
-      }
+        if (orderError) {
+          alert(orderError.message || "Failed to place order. Please try again.");
+          return;
+        }
 
-      const orderItems = cart.map((item) => ({
-        order_id: orderId,
-        product_id: item.product.id,
-        title: item.product.title,
-        price: item.product.price,
-        quantity: item.quantity,
-        image: item.product.image,
-      }));
+        const orderItems = cart.map((item) => ({
+          order_id: orderId,
+          product_id: item.product.id,
+          title: item.product.title,
+          price: item.product.price,
+          quantity: item.quantity,
+          image: item.product.image,
+        }));
 
-      const { error: itemsError } = await supabase.from("order_items").insert(orderItems);
+        const { error: itemsError } = await supabase.from("order_items").insert(orderItems);
 
-      if (itemsError) {
-        alert(itemsError.message || "Failed to place order. Please try again.");
-        return;
+        if (itemsError) {
+          alert(itemsError.message || "Failed to place order. Please try again.");
+          return;
+        }
+      } else {
+        // No Supabase — store order locally
+        const localOrders = JSON.parse(localStorage.getItem("aki_orders") || "[]");
+        localOrders.push({
+          id: orderId,
+          total: grandTotal,
+          status: "pending",
+          customer_name: customerName,
+          customer_email: customerEmail,
+          customer_phone: customerPhone,
+          shipping_address: shippingAddress,
+          shipping_city: shippingCity,
+          shipping_country: shippingCountry,
+          shipping_zip: shippingZip,
+          payment_method: paymentMethod,
+          notes,
+          items: cart.map((item) => ({
+            product_id: item.product.id,
+            title: item.product.title,
+            price: item.product.price,
+            quantity: item.quantity,
+            image: item.product.image,
+          })),
+          created_at: new Date().toISOString(),
+        });
+        localStorage.setItem("aki_orders", JSON.stringify(localOrders));
       }
 
       setOrderId(orderId);

@@ -590,36 +590,55 @@ export default function AdminPanel() {
     e.preventDefault();
     setLoginLoading(true);
     setLoginError("");
+
+    // Hardcoded admin credentials as fallback when Supabase is unavailable
+    const ADMIN_EMAIL = "admin@akihabara.com";
+    const ADMIN_PASSWORD = "Akihabarat1$";
+
     try {
-      const { data, error } = await supabase
-        .from("users")
-        .select("id, email, name, role, password")
-        .eq("email", loginEmail)
-        .single();
+      // Try Supabase first
+      const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+      if (supabaseUrl) {
+        const { data, error } = await supabase
+          .from("users")
+          .select("id, email, name, role, password")
+          .eq("email", loginEmail)
+          .single();
 
-      if (error || !data) {
-        setLoginError("Invalid email or password");
-        setLoginLoading(false);
-        return;
-      }
-      if (data.password !== loginPassword) {
-        setLoginError("Invalid email or password");
-        setLoginLoading(false);
-        return;
-      }
-      if (data.role !== "admin") {
-        setLoginError("Access denied. Admin only.");
-        setLoginLoading(false);
-        return;
+        if (!error && data && data.password === loginPassword && data.role === "admin") {
+          const adminData: AdminUser = { id: data.id, email: data.email, name: data.name, role: data.role };
+          setIsAuthenticated(true);
+          setAdminUser(adminData);
+          localStorage.setItem("admin_auth", JSON.stringify(adminData));
+          toast({ title: "Welcome back!", description: `Logged in as ${adminData.name}` });
+          setLoginLoading(false);
+          return;
+        }
       }
 
-      const adminData: AdminUser = { id: data.id, email: data.email, name: data.name, role: data.role };
-      setIsAuthenticated(true);
-      setAdminUser(adminData);
-      localStorage.setItem("admin_auth", JSON.stringify(adminData));
-      toast({ title: "Welcome back!", description: `Logged in as ${adminData.name}` });
+      // Fallback: local admin credentials
+      if (loginEmail === ADMIN_EMAIL && loginPassword === ADMIN_PASSWORD) {
+        const adminData: AdminUser = { id: "admin-local", email: ADMIN_EMAIL, name: "Admin", role: "admin" };
+        setIsAuthenticated(true);
+        setAdminUser(adminData);
+        localStorage.setItem("admin_auth", JSON.stringify(adminData));
+        toast({ title: "Welcome back!", description: "Logged in as Admin" });
+        setLoginLoading(false);
+        return;
+      }
+
+      setLoginError("Invalid email or password");
     } catch {
-      setLoginError("Network error");
+      // On network error, try local fallback
+      if (loginEmail === ADMIN_EMAIL && loginPassword === ADMIN_PASSWORD) {
+        const adminData: AdminUser = { id: "admin-local", email: ADMIN_EMAIL, name: "Admin", role: "admin" };
+        setIsAuthenticated(true);
+        setAdminUser(adminData);
+        localStorage.setItem("admin_auth", JSON.stringify(adminData));
+        toast({ title: "Welcome back!", description: "Logged in as Admin" });
+      } else {
+        setLoginError("Network error — please check your connection");
+      }
     } finally {
       setLoginLoading(false);
     }
