@@ -28,6 +28,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.akihabaratcgwarehouse.com"),
   title: "Akihabara TCG Warehouse — Premium Japanese & English TCG Cards",
   description:
     "Your premier source for authentic Japanese TCG products — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam Card Game & Disney Lorcana. Direct from Japan, 100% Authentic, Ships Worldwide.",
@@ -48,16 +49,18 @@ export const metadata: Metadata = {
   authors: [{ name: "Akihabara TCG Warehouse" }],
   icons: {
     icon: [
-      { url: "/favicon.ico" },
-      { url: "/favicon-32.png", type: "image/png", sizes: "32x32" },
+      { url: "/favicon.ico?v=3" },
+      { url: "/favicon-32.png?v=3", type: "image/png", sizes: "32x32" },
     ],
-    apple: "/apple-touch-icon.png",
+    apple: "/apple-touch-icon.png?v=3",
   },
+  manifest: "/site.webmanifest",
   openGraph: {
     title: "Akihabara TCG Warehouse",
     description:
       "Premium Japanese & English TCG Cards — Direct from Japan, 100% Authentic",
     type: "website",
+    images: [{ url: "/og-image.png?v=3", width: 1200, height: 630, alt: "Akihabara TCG Warehouse" }],
   },
 };
 
@@ -73,7 +76,7 @@ export default function RootLayout({
         <link rel="preload" href="/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif" as="image" />
         <link rel="preload" href="/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif" as="image" />
         <link rel="preload" href="/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif" as="image" />
-        <link rel="preload" href="/logo.png?v=2" as="image" />
+        <link rel="preload" href="/logo.png?v=3" as="image" />
       </head>
       <body
         className={`${inter.variable} ${montserrat.variable} antialiased bg-background text-foreground`}
