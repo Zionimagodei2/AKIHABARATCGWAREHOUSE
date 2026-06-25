@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Montserrat } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
@@ -15,6 +15,17 @@ const montserrat = Montserrat({
   display: "swap",
   weight: ["400", "500", "600", "700", "800", "900"],
 });
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+  userScalable: true,
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
+    { media: "(prefers-color-scheme: dark)", color: "#581c87" },
+  ],
+};
 
 export const metadata: Metadata = {
   title: "Akihabara TCG Warehouse — Premium Japanese & English TCG Cards",
