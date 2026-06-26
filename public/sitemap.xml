@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.akihabaratcgwarehouse.com</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.akihabaratcgwarehouse.com/og-image.png</image:loc>
+      <image:title>Akihabara TCG Warehouse - Premium Japanese TCG Cards</image:title>
+      <image:caption>Authentic Japanese Pokemon, One Piece, and TCG cards shipped worldwide from Akihabara, Tokyo</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.akihabaratcgwarehouse.com/admin</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+  </url>
+</urlset>

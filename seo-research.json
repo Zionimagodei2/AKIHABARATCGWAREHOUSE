@@ -1,0 +1,1987 @@
+{
+  "research_title": "TCG Competitor SEO Analysis",
+  "project": "Akihabara TCG Warehouse",
+  "generated_at": "2026-06-26T09:17:19Z",
+  "sites": [
+    {
+      "name": "TCGplayer",
+      "url": "https://www.tcgplayer.com",
+      "scrape_timestamp": "2026-06-26T09:16:40Z",
+      "meta_title": "Your Trusted Marketplace for Collectible Trading Card Games - TCGplayer",
+      "meta_description": "Buy Magic: The Gathering Cards, Yu-Gi-Oh! Cards, Pokémon Cards, One Piece CCG, Digimon TCG, Flesh and Blood, Lorcana, CCG Supplies, and more.",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [
+          "Best Sellers",
+          "Latest Sets"
+        ],
+        "h2": [
+          "Check out these hot products",
+          "New sets from your favorite games:"
+        ],
+        "h3": []
+      },
+      "og_tags": {
+        "og:title": "Your Trusted Marketplace for Collectible Trading Card Games - TCGplayer",
+        "og:description": "Buy Magic: The Gathering Cards, Yu-Gi-Oh! Cards, Pokémon Cards, One Piece CCG, Digimon TCG, Flesh and Blood, Lorcana, CCG Supplies, and more."
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": null,
+      "robots_meta": null,
+      "alt_text_patterns": [
+        "Marvel Super Heroes",
+        "CookieRun: Braverse TCG Is Now Baked Into TCGplayer",
+        "Ascended Heroes Booster Pack",
+        "Marvel Super Heroes - Play Booster Display",
+        "Portgas.D.Ace (118)",
+        "N's Zekrom - 031",
+        "Prismatic Evolutions Booster Pack",
+        "Marshall.D.Teach (119)",
+        "The Time of Battle Booster Box",
+        "Junk Meister",
+        "Froakie - 088/086",
+        "Ampharos - 090/086",
+        "The Best-Selling Presale Cards From Magic: The Gathering | Marvel Super Heroes",
+        "Limited Guide to Magic: The Gathering | Marvel Super Heroes",
+        "Everything We Know About Usurp The Shadow Throne (So Far!)",
+        "Everything We Learned From The Attack Of The Vine! Lorecast",
+        "The Best Decks from Disney Lorcana Challenge Indianapolis",
+        "The Biggest Price Shifts in Yu-Gi-Oh Right Now",
+        "The Best Budget Decks for the One Piece Card Game (July 2026)",
+        "The Best Decks from Riftbound Regional Utrecht"
+      ],
+      "url_structure": {
+        "base_url": "https://www.tcgplayer.com",
+        "url_patterns": [
+          "absolute_paths",
+          "external_links"
+        ],
+        "category_url_patterns": [
+          "/product/...",
+          "/content/...",
+          "/content/article/..."
+        ],
+        "sample_internal_links": [
+          "https://www.tcgplayer.com/content/article/CookieRun-Braverse-TCG-Is-Now-Baked-Into-TCGplayer/dd79c9e6-c1d1-44c4-9715-b1b1d84321aa/",
+          "https://www.tcgplayer.com/product/672434",
+          "https://www.tcgplayer.com/product/672434",
+          "https://www.tcgplayer.com/product/672434",
+          "https://www.tcgplayer.com/product/675603",
+          "https://www.tcgplayer.com/product/675603",
+          "https://www.tcgplayer.com/product/675603",
+          "https://www.tcgplayer.com/product/694932",
+          "https://www.tcgplayer.com/product/694932",
+          "https://www.tcgplayer.com/product/694932",
+          "https://www.tcgplayer.com/product/680480",
+          "https://www.tcgplayer.com/product/680480",
+          "https://www.tcgplayer.com/product/680480",
+          "https://www.tcgplayer.com/product/593294",
+          "https://www.tcgplayer.com/product/593294"
+        ]
+      },
+      "internal_link_count": 51,
+      "key_seo_keywords": [
+        "tcg",
+        "pokémon",
+        "yu-gi-oh",
+        "mtg",
+        "one piece",
+        "lorcana",
+        "booster box",
+        "booster pack",
+        "preorder",
+        "deck",
+        "card game",
+        "ccg",
+        "tcgplayer",
+        "https",
+        "product",
+        "heroes",
+        "booster",
+        "marvel",
+        "super",
+        "best",
+        "pack",
+        "time"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "![Marvel Super Heroes](https://mktg-assets.tcgplayer.com/web/release/2026-06/mtg_marvel_super_heroes_hero_1920x300_v1.jpg)\n\nMagic: The Gathering\n\nMarvel Super Heroes\n\nReleases June 26th\n\nPreorder Now\n...",
+        "primary_h1": "Best Sellers",
+        "h1_count": 2,
+        "h2_count": 2,
+        "h2_topics": [
+          "Check out these hot products",
+          "New sets from your favorite games:"
+        ],
+        "content_themes": [
+          "Best Sellers",
+          "Latest Sets",
+          "Check out these hot products",
+          "New sets from your favorite games:"
+        ],
+        "cta_patterns": [
+          "shop",
+          "sell",
+          "order"
+        ],
+        "trust_signals": [
+          "official"
+        ],
+        "url_path": ""
+      },
+      "seo_techniques": [
+        "image_alt_texts",
+        "comprehensive_alt_texts",
+        "multiple_h1_tags",
+        "substantial_content",
+        "strong_internal_linking"
+      ],
+      "firecrawl_metadata": {
+        "fb:admins": "643675054,673820199,201100738,44203888,549856811,50701868,1195548639",
+        "language": "en",
+        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content",
+        "title": "Your Trusted Marketplace for Collectible Trading Card Games - TCGplayer",
+        "version-marketplace": "develop-build",
+        "version-hash": "develop-commit",
+        "fb:app_id": "136270296395166",
+        "description": "Buy Magic: The Gathering Cards, Yu-Gi-Oh! Cards, Pokémon Cards, One Piece CCG, Digimon TCG, Flesh and Blood, Lorcana, CCG Supplies, and more.",
+        "version-build": "develop-build",
+        "version-discovery": "develop-build",
+        "facebook-domain-verification": "ujhbh9jn9ccwotzunt4vehh5l26w5i",
+        "favicon": "https://www.tcgplayer.com/favicon.ico",
+        "scrapeId": "019f0337-80ea-747f-b873-93a267dfd73d",
+        "sourceURL": "https://www.tcgplayer.com",
+        "url": "https://www.tcgplayer.com/",
+        "statusCode": 200,
+        "contentType": "text/html",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-25T16:40:34.191Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "name": "Cardmarket",
+      "url": "https://www.cardmarket.com",
+      "scrape_timestamp": "2026-06-26T09:16:43Z",
+      "meta_title": "Cardmarket: Buy and Sell Trading Card Games Online",
+      "meta_description": "Buy and sell on Europe’s biggest TCG marketplace for Magic: The Gathering, Yu-Gi-Oh!, Pokémon, Lorcana, One Piece & more. Play hard. Trade smart.",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [
+          "Europe's largest online marketplace for trading card games!"
+        ],
+        "h2": [
+          "Pick your game!",
+          "Cardmarket, the peer-to-peer online marketplace that allows Buying/Selling trading card products in an easy way.",
+          "Best Price",
+          "Secure System",
+          "Easy Handling",
+          "High Demand",
+          "Fair Fees",
+          "Easy Selling",
+          "500.000.000+",
+          "2.000.000+",
+          "600.000.000+",
+          "30",
+          "Ready to start using Cardmarket?"
+        ],
+        "h3": []
+      },
+      "og_tags": {
+        "og:title": "Cardmarket: Buy and Sell Trading Card Games Online",
+        "og:description": "Buy and sell on Europe’s biggest TCG marketplace for Magic: The Gathering, Yu-Gi-Oh!, Pokémon, Lorcana, One Piece & more. Play hard. Trade smart.",
+        "og:image": "https://static.cardmarket.com/img/logos/cardmarket.png"
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": null,
+      "robots_meta": null,
+      "alt_text_patterns": [
+        "cardPreview"
+      ],
+      "url_structure": {
+        "base_url": "https://www.cardmarket.com",
+        "url_patterns": [
+          "absolute_paths"
+        ],
+        "category_url_patterns": [
+          "/en/..."
+        ],
+        "sample_internal_links": [
+          "https://www.cardmarket.com/en/Magic",
+          "https://www.cardmarket.com/en/Pokemon",
+          "https://www.cardmarket.com/en/YuGiOh",
+          "https://www.cardmarket.com/en/OnePiece",
+          "https://www.cardmarket.com/en/Lorcana",
+          "https://www.cardmarket.com/en/Riftbound",
+          "https://www.cardmarket.com/en/FleshAndBlood",
+          "https://www.cardmarket.com/en/StarWarsUnlimited",
+          "https://www.cardmarket.com/en/Digimon",
+          "https://www.cardmarket.com/en/DragonBallSuper",
+          "https://www.cardmarket.com/en/Vanguard",
+          "https://www.cardmarket.com/en/WeissSchwarz",
+          "https://www.cardmarket.com/en/FinalFantasy",
+          "https://www.cardmarket.com/en/FoW",
+          "https://www.cardmarket.com/en/BattleSpiritsSaga"
+        ]
+      },
+      "internal_link_count": 23,
+      "key_seo_keywords": [
+        "trading card game",
+        "tcg",
+        "pokemon",
+        "pokémon",
+        "yu-gi-oh",
+        "one piece",
+        "dragon ball",
+        "lorcana",
+        "card game",
+        "ccg",
+        "tcg marketplace",
+        "cardmarket",
+        "https",
+        "card",
+        "easy",
+        "marketplace",
+        "trading",
+        "game",
+        "peer",
+        "online",
+        "your"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "# Europe's largest online marketplace for trading card games!\n\n## Pick your game!\n\nPick your game!\n\n[Magic: The Gathering](https://www.cardmarket.com/en/Magic \"Magic: The Gathering\")\n\n[Pokémon](https:...",
+        "primary_h1": "Europe's largest online marketplace for trading card games!",
+        "h1_count": 1,
+        "h2_count": 13,
+        "h2_topics": [
+          "Pick your game!",
+          "Cardmarket, the peer-to-peer online marketplace that allows Buying/Selling trading card products in an easy way.",
+          "Best Price",
+          "Secure System",
+          "Easy Handling",
+          "High Demand",
+          "Fair Fees",
+          "Easy Selling",
+          "500.000.000+",
+          "2.000.000+"
+        ],
+        "content_themes": [
+          "Europe's largest online marketplace for trading card games!",
+          "Pick your game!",
+          "Cardmarket, the peer-to-peer online marketplace that allows Buying/Selling trading card products in an easy way.",
+          "Best Price",
+          "Secure System",
+          "Easy Handling",
+          "High Demand",
+          "Fair Fees",
+          "Easy Selling",
+          "500.000.000+",
+          "2.000.000+",
+          "600.000.000+",
+          "30",
+          "Ready to start using Cardmarket?"
+        ],
+        "cta_patterns": [
+          "buy",
+          "sell"
+        ],
+        "trust_signals": [
+          "secure"
+        ],
+        "url_path": ""
+      },
+      "seo_techniques": [
+        "image_alt_texts",
+        "single_h1_tag",
+        "rich_heading_hierarchy",
+        "substantial_content",
+        "strong_internal_linking"
+      ],
+      "firecrawl_metadata": {
+        "og:description": "Buy and sell on Europe’s biggest TCG marketplace for Magic: The Gathering, Yu-Gi-Oh!, Pokémon, Lorcana, One Piece & more. Play hard. Trade smart.",
+        "og:url": "https://www.cardmarket.com/en",
+        "description": "Buy and sell on Europe’s biggest TCG marketplace for Magic: The Gathering, Yu-Gi-Oh!, Pokémon, Lorcana, One Piece & more. Play hard. Trade smart.",
+        "twitter:image:alt": "Cardmarket: Buy and Sell Trading Card Games Online",
+        "ogTitle": "Cardmarket: Buy and Sell Trading Card Games Online",
+        "msapplication-TileColor": "#ffffff",
+        "twitter:card": "summary_large_image",
+        "google-site-verification": [
+          "R0z9o_BHyC-foDPio7w4jTtLyz2aCZwm_9N6CH2NEHo",
+          "uSbmRoevBNAdy4Ol9Of5S5DQnZ0AZkh4D06XEkcuJcI",
+          "wYO5dpslxCVpLo8D9N_zyuZCZIpdZXVbUXWffCriweE",
+          "g4BTf60aPcRifFtHp4CyOstMw3ktjgBpQHSGiPXAnF8",
+          "srYUQ7VbEHQ2qnLC2dYlDftU5EkB2wslMdC1XMNpSrM"
+        ],
+        "author": "Sammelkartenmarkt GmbH & Co. KG",
+        "robots": "index,follow",
+        "og:image": "https://static.cardmarket.com/img/logos/cardmarket.png",
+        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "og:title": "Cardmarket: Buy and Sell Trading Card Games Online",
+        "ogImage": "https://static.cardmarket.com/img/logos/cardmarket.png",
+        "og:type": "website",
+        "twitter:title": "Cardmarket: Buy and Sell Trading Card Games Online",
+        "twitter:description": "Buy and sell on Europe’s biggest TCG marketplace for Magic: The Gathering, Yu-Gi-Oh!, Pokémon, Lorcana, One Piece & more. Play hard. Trade smart.",
+        "msapplication-TileImage": "//static.cardmarket.com/img/526dbb9ae52c5e62404fe903e9769807/static/misc/mstile-144x144.png",
+        "ogSiteName": "Cardmarket: Buy and Sell Trading Card Games Online",
+        "title": "Cardmarket: Buy and Sell Trading Card Games Online",
+        "og:site_name": "Cardmarket: Buy and Sell Trading Card Games Online",
+        "language": "en",
+        "twitter:image": "https://static.cardmarket.com/img/logos/cardmarket.png",
+        "ogUrl": "https://www.cardmarket.com/en",
+        "ogDescription": "Buy and sell on Europe’s biggest TCG marketplace for Magic: The Gathering, Yu-Gi-Oh!, Pokémon, Lorcana, One Piece & more. Play hard. Trade smart.",
+        "favicon": "https://static.cardmarket.com/img/526dbb9ae52c5e62404fe903e9769807/static/misc/favicon-96x96.png",
+        "scrapeId": "019f0337-98d2-762d-927a-386b1fb26c6c",
+        "sourceURL": "https://www.cardmarket.com",
+        "url": "https://www.cardmarket.com/en",
+        "statusCode": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-25T20:48:00.053Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "name": "eBay TCG",
+      "url": "https://www.ebay.com/b/Trading-Card-Games",
+      "scrape_timestamp": "2026-06-26T09:16:46Z",
+      "meta_title": "Discover error | eBay",
+      "meta_description": "Get the best deals on error when you shop the largest online selection at eBay.com. Free shipping on many items | Browse your favorite brands | affordable prices.",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [],
+        "h2": [
+          "We looked everywhere!"
+        ],
+        "h3": []
+      },
+      "og_tags": {
+        "og:title": "Discover error | eBay",
+        "og:description": "Get the best deals on error when you shop the largest online selection at eBay.com. Free shipping on many items | Browse your favorite brands | affordable prices."
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": null,
+      "robots_meta": null,
+      "alt_text_patterns": [],
+      "url_structure": {
+        "base_url": "https://www.ebay.com",
+        "url_patterns": [
+          "absolute_paths",
+          "external_links"
+        ],
+        "category_url_patterns": [],
+        "sample_internal_links": [
+          "https://www.ebay.com/"
+        ]
+      },
+      "internal_link_count": 2,
+      "key_seo_keywords": [
+        "ebay",
+        "https",
+        "looked",
+        "everywhere",
+        "help"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "## We looked everywhere!\n\nLooks like this page is missing. If you still need help, visit our [help pages](https://ocsnext.ebay.com/ocs/home).\n\n[Go to homepage](https://www.ebay.com/)\n\n![](https://i.eb...",
+        "primary_h1": "",
+        "h1_count": 0,
+        "h2_count": 1,
+        "h2_topics": [
+          "We looked everywhere!"
+        ],
+        "content_themes": [
+          "We looked everywhere!"
+        ],
+        "cta_patterns": [],
+        "trust_signals": [],
+        "url_path": "/b/Trading-Card-Games"
+      },
+      "seo_techniques": [
+        "substantial_content"
+      ],
+      "firecrawl_metadata": {
+        "google-adsense-account": "sites-7757056108965234",
+        "og:site_name": "eBay",
+        "robots": "noindex",
+        "ogSiteName": "eBay",
+        "description": "Get the best deals on error when you shop the largest online selection at eBay.com. Free shipping on many items | Browse your favorite brands | affordable prices.",
+        "twitter:title": "Discover error | eBay",
+        "og:title": "Discover error | eBay",
+        "title": "Discover error | eBay",
+        "ogDescription": "Get the best deals on error when you shop the largest online selection at eBay.com. Free shipping on many items | Browse your favorite brands | affordable prices.",
+        "og:url": "https://www.ebay.com/d/error",
+        "og:type": "ebay-objects:ecommerce",
+        "ogUrl": "https://www.ebay.com/d/error",
+        "og:description": "Get the best deals on error when you shop the largest online selection at eBay.com. Free shipping on many items | Browse your favorite brands | affordable prices.",
+        "viewport": "width=device-width, initial-scale=1",
+        "twitter:description": "Get the best deals on error when you shop the largest online selection at eBay.com. Free shipping on many items | Browse your favorite brands | affordable prices.",
+        "fb:app_id": "102628213125203",
+        "y_key": "acf32e2a69cbc2b0",
+        "msvalidate.01": "34E98E6F27109BE1A9DCF19658EEEE33",
+        "language": "en-US",
+        "google-site-verification": "8kHr3jd3Z43q1ovwo0KVgo_NZKIEMjthBxti8m8fYTg",
+        "yandex-verification": "6e11485a66d91eff",
+        "ogTitle": "Discover error | eBay",
+        "favicon": "https://www.ebay.com/favicon.ico",
+        "scrapeId": "019f0337-a52e-715d-a1d3-4ca054285c3d",
+        "sourceURL": "https://www.ebay.com/b/Trading-Card-Games",
+        "url": "https://www.ebay.com/b/Trading-Card-Games",
+        "statusCode": 404,
+        "error": "Not Found",
+        "contentType": "text/html; charset=utf-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-26T09:15:41.227Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "name": "CoolStuffInc",
+      "url": "https://www.coolstuffinc.com",
+      "scrape_timestamp": "2026-06-26T09:16:50Z",
+      "meta_title": "CoolStuffInc.com",
+      "meta_description": "Magic: the Gathering | Lorcana, Pokemon | Yu-Gi-Oh | One Piece",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Daily Sale",
+          "New ReleasesSee all New Releases »",
+          "CoolStuffInc.com Articles"
+        ],
+        "h3": [
+          "Most Expensive Cards in Marvel Super Heroes",
+          "Are there any MTG cards that say \"you win the game\"?",
+          "Upgrading the Witherbloom Pestilence Commander Precon",
+          "The Best Artifacts from Magic: The Gathering's Past",
+          "Weekly Sale Commander - Summerween Sale",
+          "Marvel Super Heroes Early Access Early Impressions",
+          "Best Commander Staples in Magic",
+          "Understanding Commander Deck Types & How They Work"
+        ]
+      },
+      "og_tags": {
+        "og:title": "CoolStuffInc.com",
+        "og:description": "Magic: the Gathering | Lorcana, Pokemon | Yu-Gi-Oh | One Piece",
+        "og:image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/coolstuffinc.com_logo.jpg"
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": null,
+      "robots_meta": null,
+      "alt_text_patterns": [
+        "CoolStuffInc.com",
+        "Turn your cards into cash! Maximize your value with our 25% store credit bonus!",
+        "Account Meeple",
+        "Location Icon",
+        "Account Meeple",
+        "Magic",
+        "Pokemon",
+        "Lorcana",
+        "YuGiOh",
+        "Riftbound League of Legends",
+        "One Piece Card Game",
+        "Gundam",
+        "Hellbreak TCG",
+        "Palworld Trading Card Game",
+        "Cyberpunk 2077 TCG",
+        "Preorder Cyberpunk TCG today!",
+        "Summerween Sale ends Sunday!",
+        "Pokemon Mega Evolution: Chaos Rising is available now!",
+        "Yu-Gi-Oh! Battles of Legends: Glorious Gallery is avaialable now!",
+        "One Piece Card Game - The Time of Battle is in-stores 6/12!"
+      ],
+      "url_structure": {
+        "base_url": "https://www.coolstuffinc.com",
+        "url_patterns": [
+          "absolute_paths",
+          "external_links"
+        ],
+        "category_url_patterns": [
+          "/page/..."
+        ],
+        "sample_internal_links": [
+          "https://www.coolstuffinc.com/",
+          "https://www.coolstuffinc.com/main_selllist.php",
+          "https://www.coolstuffinc.com/user_login.php",
+          "https://www.coolstuffinc.com/main_view_cart.php",
+          "https://www.coolstuffinc.com/user_login.php",
+          "https://www.coolstuffinc.com/main_view_cart.php",
+          "https://www.coolstuffinc.com/sq/",
+          "https://www.coolstuffinc.com/user_login.php",
+          "https://www.coolstuffinc.com/user_login.php",
+          "https://www.coolstuffinc.com/magic+the+gathering/",
+          "https://www.coolstuffinc.com/pokemon/",
+          "https://www.coolstuffinc.com/page/7140/",
+          "https://www.coolstuffinc.com/yu-gi-oh!/",
+          "https://www.coolstuffinc.com/page/8996/",
+          "https://www.coolstuffinc.com/page/7042/"
+        ]
+      },
+      "internal_link_count": 110,
+      "key_seo_keywords": [
+        "trading card game",
+        "tcg",
+        "pokemon",
+        "yu-gi-oh",
+        "mtg",
+        "one piece",
+        "gundam",
+        "lorcana",
+        "preorder",
+        "deck",
+        "card game",
+        "https",
+        "coolstuffinc",
+        "images",
+        "cloudinary",
+        "csicdn",
+        "image",
+        "upload",
+        "logo",
+        "subbar",
+        "page"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "# [![CoolStuffInc.com](https://res.cloudinary.com/csicdn/image/upload/q_auto,fl_lossy,f_auto/v1/Images/CSI%202%20Articles/csi-logo-pride-noicons.png)](https://www.coolstuffinc.com/)\n\n[![Turn your card...",
+        "primary_h1": "",
+        "h1_count": 0,
+        "h2_count": 3,
+        "h2_topics": [
+          "Daily Sale",
+          "New ReleasesSee all New Releases »",
+          "CoolStuffInc.com Articles"
+        ],
+        "content_themes": [
+          "Daily Sale",
+          "New ReleasesSee all New Releases »",
+          "CoolStuffInc.com Articles",
+          "Most Expensive Cards in Marvel Super Heroes",
+          "Are there any MTG cards that say \"you win the game\"?",
+          "Upgrading the Witherbloom Pestilence Commander Precon",
+          "The Best Artifacts from Magic: The Gathering's Past",
+          "Weekly Sale Commander - Summerween Sale",
+          "Marvel Super Heroes Early Access Early Impressions",
+          "Best Commander Staples in Magic",
+          "Understanding Commander Deck Types & How They Work"
+        ],
+        "cta_patterns": [
+          "buy",
+          "sell",
+          "search",
+          "find",
+          "order",
+          "cart"
+        ],
+        "trust_signals": [
+          "guaranteed",
+          "authentic",
+          "since"
+        ],
+        "url_path": ""
+      },
+      "seo_techniques": [
+        "image_alt_texts",
+        "comprehensive_alt_texts",
+        "substantial_content",
+        "strong_internal_linking"
+      ],
+      "firecrawl_metadata": {
+        "description": "Magic: the Gathering | Lorcana, Pokemon | Yu-Gi-Oh | One Piece",
+        "og:image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/coolstuffinc.com_logo.jpg",
+        "og:title": "CoolStuffInc.com",
+        "twitter:title": "CoolStuffInc.com",
+        "twitter:url": "https://www.coolstuffinc.com/",
+        "viewport": "width=device-width, initial-scale=1.0",
+        "og:type": "website",
+        "twitter:card": "summary",
+        "language": "en",
+        "ogImage": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/coolstuffinc.com_logo.jpg",
+        "ogTitle": "CoolStuffInc.com",
+        "og:url": "https://www.coolstuffinc.com/",
+        "twitter:image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/coolstuffinc.com_logo.jpg",
+        "robots": "index, follow",
+        "ogDescription": "Magic: the Gathering | Lorcana, Pokemon | Yu-Gi-Oh | One Piece",
+        "og:description": "Magic: the Gathering | Lorcana, Pokemon | Yu-Gi-Oh | One Piece",
+        "twitter:description": "Magic: the Gathering | Lorcana, Pokemon | Yu-Gi-Oh | One Piece",
+        "title": "CoolStuffInc.com",
+        "ogUrl": "https://www.coolstuffinc.com/",
+        "twitter:site": "@CoolStuffInc",
+        "scrapeId": "019f0337-b109-756b-9bbc-137e99cafe2b",
+        "sourceURL": "https://www.coolstuffinc.com",
+        "url": "https://www.coolstuffinc.com/",
+        "statusCode": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-25T21:31:42.931Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "name": "CardKingdom",
+      "url": "https://www.cardkingdom.com",
+      "scrape_timestamp": "2026-06-26T09:16:54Z",
+      "meta_title": "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories",
+      "meta_description": "Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more, Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [
+          "TRENDING NOW",
+          "Magic: The Gathering Boosters",
+          "Card Kingdom Exclusives",
+          "Certified Graded",
+          "What's On Sale",
+          "Card Kingdom Blog"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "og_tags": {
+        "og:title": "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories",
+        "og:description": "Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more, Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more",
+        "og:image": "https://cms-images.cardkingdom.com/v3/assets/blt7f520a21793912be/bltf32a036ec3e26cb1/6a3d6e38aa47f2d0d7c6f49e/Marvel_Superheroes_MSH_Homepage_Hero_Available_Now1.jpg"
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": null,
+      "robots_meta": null,
+      "alt_text_patterns": [
+        "Black Widow is punching down at the viewer. There is a black and red skyline behind her. There are hands coming up from the bottom of the image. There are comic book panels in the right 1/3rd of the image. The Marvel Super Heroes logo is in the foreground with a red \"Preorder Now\" button.",
+        "Avengers Disassembled",
+        "Avengers Disassembled",
+        "The Unbeatable Squirrel Girl",
+        "The Unbeatable Squirrel Girl",
+        "Hex Magic",
+        "Hex Magic",
+        "Mole Man, Moloid Master",
+        "Mole Man, Moloid Master",
+        "Loki, God of Mischief",
+        "Loki, God of Mischief",
+        "Ultron, Artificial Malevolence",
+        "Ultron, Artificial Malevolence",
+        "The Wondrous Wasp",
+        "The Wondrous Wasp",
+        "Mjolnir, Hammer of Thor",
+        "Mjolnir, Hammer of Thor",
+        "Hidden Lair",
+        "Hidden Lair",
+        "The Ten Rings"
+      ],
+      "url_structure": {
+        "base_url": "https://www.cardkingdom.com",
+        "url_patterns": [
+          "absolute_paths"
+        ],
+        "category_url_patterns": [
+          "/mtg/...",
+          "/mtg/marvel-super-heroes/...",
+          "/mtg/marvel-super-heroes-eternal-legal/...",
+          "/landing/..."
+        ],
+        "sample_internal_links": [
+          "https://www.cardkingdom.com/#landing-wrapper",
+          "https://www.cardkingdom.com/landing/mtg-marvel-super-heroes-cards",
+          "https://www.cardkingdom.com/landing/mtg-secrets-of-strixhaven-cards",
+          "https://www.cardkingdom.com/landing/mtg-teenage-mutant-ninja-turtles-cards",
+          "https://www.cardkingdom.com/landing/mtg-lorwyn-eclipsed-cards",
+          "https://www.cardkingdom.com/landing/mtg-final-fantasy-cards",
+          "https://www.cardkingdom.com/landing/mtg-avatar-the-last-airbender-cards",
+          "https://www.cardkingdom.com/landing/mtg-marvels-spider-man-cards",
+          "https://www.cardkingdom.com/mtg/marvel-super-heroes/avengers-disassembled",
+          "https://www.cardkingdom.com/mtg/marvel-super-heroes/the-unbeatable-squirrel-girl",
+          "https://www.cardkingdom.com/mtg/marvel-super-heroes/hex-magic",
+          "https://www.cardkingdom.com/mtg/marvel-super-heroes/mole-man-moloid-master",
+          "https://www.cardkingdom.com/mtg/marvel-super-heroes/loki-god-of-mischief",
+          "https://www.cardkingdom.com/mtg/marvel-super-heroes/ultron-artificial-malevolence",
+          "https://www.cardkingdom.com/mtg/marvel-super-heroes/the-wondrous-wasp"
+        ]
+      },
+      "internal_link_count": 108,
+      "key_seo_keywords": [
+        "mtg",
+        "sealed",
+        "preorder",
+        "https",
+        "cardkingdom",
+        "marvel",
+        "super",
+        "heroes",
+        "magic",
+        "cards",
+        "gathering",
+        "landing",
+        "avengers"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "[Skip to main content](https://www.cardkingdom.com/#landing-wrapper)\n\n[![Black Widow is punching down at the viewer. There is a black and red skyline behind her. There are hands coming up from the bot...",
+        "primary_h1": "TRENDING NOW",
+        "h1_count": 6,
+        "h2_count": 0,
+        "h2_topics": [],
+        "content_themes": [
+          "TRENDING NOW",
+          "Magic: The Gathering Boosters",
+          "Card Kingdom Exclusives",
+          "Certified Graded",
+          "What's On Sale",
+          "Card Kingdom Blog"
+        ],
+        "cta_patterns": [
+          "shop",
+          "buy",
+          "search",
+          "order"
+        ],
+        "trust_signals": [
+          "authentic",
+          "verified"
+        ],
+        "url_path": ""
+      },
+      "seo_techniques": [
+        "image_alt_texts",
+        "comprehensive_alt_texts",
+        "multiple_h1_tags",
+        "substantial_content",
+        "strong_internal_linking"
+      ],
+      "firecrawl_metadata": {
+        "fb:admins": [
+          "",
+          ""
+        ],
+        "article:publisher": [
+          "https://www.facebook.com/*",
+          "https://www.facebook.com/*"
+        ],
+        "viewport": [
+          "width=device-width, initial-scale=1",
+          "width=device-width, initial-scale=1, shrink-to-fit=no",
+          "width=device-width, initial-scale=1"
+        ],
+        "og:description": [
+          "Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more",
+          "Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more"
+        ],
+        "og:image": "https://cms-images.cardkingdom.com/v3/assets/blt7f520a21793912be/bltf32a036ec3e26cb1/6a3d6e38aa47f2d0d7c6f49e/Marvel_Superheroes_MSH_Homepage_Hero_Available_Now1.jpg",
+        "twitter:card": [
+          "summary_large_image",
+          "summary_large_image"
+        ],
+        "twitter:description": [
+          "Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more",
+          "Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more"
+        ],
+        "robots": [
+          "index, follow",
+          "index, follow"
+        ],
+        "og:title": [
+          "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories",
+          "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories"
+        ],
+        "ogImage": "https://cms-images.cardkingdom.com/v3/assets/blt7f520a21793912be/bltf32a036ec3e26cb1/6a3d6e38aa47f2d0d7c6f49e/Marvel_Superheroes_MSH_Homepage_Hero_Available_Now1.jpg",
+        "keywords": [
+          "Magic The Gathering, magic cards, magic the gathering and purchase, magic singles, magic the gathering pricelist, magic the gathering card lists, magic the gathering deck ideas, magic the gathering cards, magic the gathering cards sell, magic the gathering card prices, wizards of the coast, magic the gathering singles, magic the gathering decks, magic the gathering cardlist, cheap magic singles",
+          ""
+        ],
+        "ogUrl": "https://www.cardkingdom.com/",
+        "ogLocale": "en_US",
+        "og:image:alt": "",
+        "og:site_name": [
+          "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories",
+          "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories"
+        ],
+        "description": "Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more, Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more",
+        "ogDescription": "Find everything Magic: The Gathering - singles, sealed, and new releases at Card Kingdom. Buy and sell MTG cards from Commander, Standard, Modern, and more",
+        "language": "en",
+        "ogTitle": "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories",
+        "title": "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories",
+        "author": [
+          "",
+          ""
+        ],
+        "twitter:title": [
+          "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories",
+          "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories"
+        ],
+        "ogSiteName": "Card Kingdom | Buy MTG Cards | MTG Sealed | MTG Accessories",
+        "og:image:type": "",
+        "og:type": [
+          "website",
+          "website"
+        ],
+        "twitter:image": [
+          "https://cms-images.cardkingdom.com/v3/assets/blt7f520a21793912be/bltf32a036ec3e26cb1/6a3d6e38aa47f2d0d7c6f49e/Marvel_Superheroes_MSH_Homepage_Hero_Available_Now1.jpg",
+          "https://cms-images.cardkingdom.com/v3/assets/blt7f520a21793912be/blt90f7944a7a7cf145/6a344585dea6a769525369c9/Marvel_Superheroes_MSH_Homepage_Hero_Presale_5b.jpg"
+        ],
+        "og:url": [
+          "https://www.cardkingdom.com/",
+          "https://www.cardkingdom.com/"
+        ],
+        "og:locale": [
+          "en_US",
+          "en_US"
+        ],
+        "favicon": "https://www.cardkingdom.com/favicon.ico",
+        "scrapeId": "019f0337-be8e-7541-bd3a-e9f414e40c32",
+        "sourceURL": "https://www.cardkingdom.com",
+        "url": "https://www.cardkingdom.com/",
+        "statusCode": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-25T23:58:17.232Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "name": "TrollAndToad",
+      "url": "https://www.trollandtoad.com",
+      "scrape_timestamp": "2026-06-26T09:16:57Z",
+      "meta_title": "www.trollandtoad.com",
+      "meta_description": "We’re back! Troll and Toad is soft-reopening — explore tons of new products while we fine-tune behind the scenes. Thanks for being here!",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [
+          "www.trollandtoad.com is blocked",
+          "www.trollandtoad.com is blocked"
+        ],
+        "h2": [
+          "Enter Card List",
+          "Item added to your cart",
+          "Featured Sealed",
+          "Featured Singles",
+          "By Category",
+          "Recent Releases"
+        ],
+        "h3": []
+      },
+      "og_tags": {
+        "og:title": "\n      Troll and Toad\n",
+        "og:description": "We’re back! Troll and Toad is soft-reopening — explore tons of new products while we fine-tune behind the scenes. Thanks for being here!",
+        "og:image": "http://www.trollandtoad.com/cdn/shop/files/tnt_logo_small_header.png?height=628&pad_color=ffffff&v=1761243062&width=1200"
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": null,
+      "robots_meta": null,
+      "alt_text_patterns": [
+        "Disney Lorcana Fabled Banner",
+        "Yu-Gi-Oh! Doom Of Dimensions Banner",
+        "Pokémon Ascended Heroes Banner",
+        "Disney Lorcana Fabled Banner",
+        "Yu-Gi-Oh! Doom Of Dimensions Banner",
+        "Pokémon Ascended Heroes Banner",
+        "Disney Lorcana Fabled Banner"
+      ],
+      "url_structure": {
+        "base_url": "https://www.trollandtoad.com",
+        "url_patterns": [
+          "absolute_paths"
+        ],
+        "category_url_patterns": [
+          "/products/...",
+          "/collections/..."
+        ],
+        "sample_internal_links": [
+          "https://www.trollandtoad.com/#MainContent",
+          "https://www.trollandtoad.com/cart",
+          "https://www.trollandtoad.com/collections/disney-lorcana-fabled",
+          "https://www.trollandtoad.com/collections/doom-of-dimensions",
+          "https://www.trollandtoad.com/collections/me-ascended-heroes",
+          "https://www.trollandtoad.com/collections/disney-lorcana-fabled",
+          "https://www.trollandtoad.com/collections/doom-of-dimensions",
+          "https://www.trollandtoad.com/collections/me-ascended-heroes",
+          "https://www.trollandtoad.com/collections/disney-lorcana-fabled",
+          "https://www.trollandtoad.com/products/ascended-heroes-elite-trainer-box",
+          "https://www.trollandtoad.com/products/ascended-heroes-elite-trainer-box",
+          "https://www.trollandtoad.com/products/ascended-heroes-elite-trainer-box",
+          "https://www.trollandtoad.com/products/legendary-modern-decks-box-set",
+          "https://www.trollandtoad.com/products/legendary-modern-decks-box-set",
+          "https://www.trollandtoad.com/products/legendary-modern-decks-box-set"
+        ]
+      },
+      "internal_link_count": 57,
+      "key_seo_keywords": [
+        "pokemon",
+        "pokémon",
+        "yu-gi-oh",
+        "one piece",
+        "lorcana",
+        "elite trainer box",
+        "sealed",
+        "deck",
+        "trollandtoad",
+        "https",
+        "banner",
+        "fabled",
+        "ascended",
+        "heroes",
+        "disney",
+        "products",
+        "doom",
+        "dimensions"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "×\n\n## Enter Card List\n\nSelect Product Line:Magic: the GatheringPokemonLorcanaOne PieceSubmit\n\nSelect All\n\n\nTotal: $0.00\n\n[Skip to content](https://www.trollandtoad.com/#MainContent)\n\nWe’re back! Troll...",
+        "primary_h1": "www.trollandtoad.com is blocked",
+        "h1_count": 2,
+        "h2_count": 6,
+        "h2_topics": [
+          "Enter Card List",
+          "Item added to your cart",
+          "Featured Sealed",
+          "Featured Singles",
+          "By Category",
+          "Recent Releases"
+        ],
+        "content_themes": [
+          "www.trollandtoad.com is blocked",
+          "www.trollandtoad.com is blocked",
+          "Enter Card List",
+          "Item added to your cart",
+          "Featured Sealed",
+          "Featured Singles",
+          "By Category",
+          "Recent Releases"
+        ],
+        "cta_patterns": [
+          "shop",
+          "buy",
+          "explore",
+          "order",
+          "cart",
+          "add to"
+        ],
+        "trust_signals": [],
+        "url_path": ""
+      },
+      "seo_techniques": [
+        "custom_meta_title",
+        "image_alt_texts",
+        "multiple_h1_tags",
+        "rich_heading_hierarchy",
+        "substantial_content",
+        "strong_internal_linking"
+      ],
+      "firecrawl_metadata": {
+        "ogSiteName": "Troll and Toad",
+        "shopify-checkout-api-token": "fc94023d7159737f120ad106ad975a61",
+        "viewport": [
+          "width=device-width,initial-scale=1",
+          "width=device-width, initial-scale=1.0,\n                                 maximum-scale=1.0, user-scalable=no",
+          "width=device-width, initial-scale=1.0,\n                                 maximum-scale=1.0, user-scalable=no"
+        ],
+        "og:url": "https://www.trollandtoad.com/",
+        "og:description": "We’re back! Troll and Toad is soft-reopening — explore tons of new products while we fine-tune behind the scenes. Thanks for being here!",
+        "ogDescription": "We’re back! Troll and Toad is soft-reopening — explore tons of new products while we fine-tune behind the scenes. Thanks for being here!",
+        "ogImage": "http://www.trollandtoad.com/cdn/shop/files/tnt_logo_small_header.png?height=628&pad_color=ffffff&v=1761243062&width=1200",
+        "ogUrl": "https://www.trollandtoad.com/",
+        "og:type": "website",
+        "title": "\n      Troll and Toad\n",
+        "ogTitle": "Troll and Toad",
+        "og:site_name": "Troll and Toad",
+        "og:image:height": "628",
+        "twitter:card": "summary_large_image",
+        "language": "en",
+        "og:title": "Troll and Toad",
+        "twitter:title": "Troll and Toad",
+        "google-site-verification": [
+          "Dp4u-PxiSbfc0JxtlIu3Dl_nlbcvfgKvFSM3f1Vj_eY",
+          "Dp4u-PxiSbfc0JxtlIu3Dl_nlbcvfgKvFSM3f1Vj_eY"
+        ],
+        "target_origin": "https://www.trollandtoad.com",
+        "color-scheme": [
+          "light dark",
+          "light dark"
+        ],
+        "twitter:description": "We’re back! Troll and Toad is soft-reopening — explore tons of new products while we fine-tune behind the scenes. Thanks for being here!",
+        "og:image": "http://www.trollandtoad.com/cdn/shop/files/tnt_logo_small_header.png?height=628&pad_color=ffffff&v=1761243062&width=1200",
+        "shopify-digital-wallet": "/94632313128/digital_wallets/dialog",
+        "og:image:width": "1200",
+        "theme-color": [
+          "",
+          "#fff",
+          "#fff"
+        ],
+        "message_payload": "{\"type\":\"completed\"}",
+        "description": "We’re back! Troll and Toad is soft-reopening — explore tons of new products while we fine-tune behind the scenes. Thanks for being here!",
+        "og:image:secure_url": "https://www.trollandtoad.com/cdn/shop/files/tnt_logo_small_header.png?height=628&pad_color=ffffff&v=1761243062&width=1200",
+        "favicon": "https://www.trollandtoad.com/cdn/shop/files/tnt_icon_only.png?crop=center&height=32&v=1761152007&width=32",
+        "scrapeId": "019f0337-cdda-702c-91bb-98a1c6783b61",
+        "sourceURL": "https://www.trollandtoad.com",
+        "url": "https://www.trollandtoad.com/",
+        "statusCode": 200,
+        "contentType": "text/html; charset=utf-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-26T09:15:57.755Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "name": "DACardWorld",
+      "url": "https://www.dacardworld.com",
+      "scrape_timestamp": "2026-06-26T09:17:01Z",
+      "meta_title": "Close",
+      "meta_description": "Shop a Huge selection of  Trading Cards at Low Prices.  Boxes, Cases, and Packs of Sports and Gaming Cards. Free Shipping on Orders over $199.",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [
+          "Would you like \n          $10 off \n          Your Next Purchase of $100 or More?",
+          "Unlock $10 off\n\n              Your Next Purchase of $100+*"
+        ]
+      },
+      "og_tags": {
+        "og:title": "Dave & Adam's Card World | Shop Sports Cards and Trading Card Games | DA Card World",
+        "og:description": "Shop a Huge selection of  Trading Cards at Low Prices.  Boxes, Cases, and Packs of Sports and Gaming Cards. Free Shipping on Orders over $199."
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": null,
+      "robots_meta": null,
+      "alt_text_patterns": [
+        "2025 Topps Gilded Collection Baseball Hobby Box",
+        "2025/26 Topps Chrome Cactus Jack Basketball Hobby Box",
+        "2025 Topps Chrome Football Hobby Box",
+        "2025/26 Upper Deck Extended Series Hockey Hobby Box",
+        "Pokemon Mega Evolution: Phantasmal Flames Booster Box",
+        "2025 Michael Jackson Bad World Tour Keepsake Premiere Edition Hobby Box",
+        "Baseball",
+        "Basketball",
+        "Football",
+        "Hockey",
+        "Soccer",
+        "Gaming",
+        "Racing",
+        "Entertainment",
+        "Vintage",
+        "Singles",
+        "Live",
+        "Reeds Buys",
+        "Daily Deals",
+        "Best Deals"
+      ],
+      "url_structure": {
+        "base_url": "https://www.dacardworld.com",
+        "url_patterns": [
+          "absolute_paths",
+          "external_links"
+        ],
+        "category_url_patterns": [
+          "/shoppingcart/...",
+          "/sports-cards/...",
+          "/entertainment/...",
+          "/gaming/..."
+        ],
+        "sample_internal_links": [
+          "https://www.dacardworld.com/free-boxes-and-packs",
+          "https://www.dacardworld.com/daily-deals",
+          "https://www.dacardworld.com/buying",
+          "https://www.dacardworld.com/sports-cards/best-prices",
+          "https://www.dacardworld.com/search?Search=2026+Panini+Prizm+World+Cup",
+          "https://www.dacardworld.com/search?Search=2026+Panini+Prizm+World+Cup",
+          "https://www.dacardworld.com/search?Search=2026+Topps+Series+2+Baseball",
+          "https://www.dacardworld.com/topps-mvp-buyback",
+          "https://www.dacardworld.com/sports-cards/hit-parade",
+          "https://www.dacardworld.com/live",
+          "https://www.dacardworld.com/sports-cards/best-prices",
+          "https://www.dacardworld.com/topps-mvp-buyback",
+          "https://www.dacardworld.com/premier-rewards",
+          "https://www.dacardworld.com/premier-rewards",
+          "https://www.dacardworld.com/sports-cards/2025-topps-gilded-collection-baseball-hobby-box"
+        ]
+      },
+      "internal_link_count": 115,
+      "key_seo_keywords": [
+        "pokemon",
+        "booster box",
+        "etb",
+        "deck",
+        "psa",
+        "https",
+        "dacardworld",
+        "deals",
+        "rackcdn",
+        "daily",
+        "images",
+        "free",
+        "topps",
+        "best",
+        "layout"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "[Live\\\\\n![](https://d10w40ipypj16l.cloudfront.net/breaking/live_streams/e133589a-e25f-4b20-968f-daf62e0d1f7f_25-26_SP-Authentic-Hockey_Penalty-Box-Thumbnail_2.png?auto=compress&s=cfafc732bb94e993c7223...",
+        "primary_h1": "",
+        "h1_count": 0,
+        "h2_count": 0,
+        "h2_topics": [],
+        "content_themes": [
+          "Would you like \n          $10 off \n          Your Next Purchase of $100 or More?",
+          "Unlock $10 off\n\n              Your Next Purchase of $100+*"
+        ],
+        "cta_patterns": [
+          "shop",
+          "buy",
+          "browse",
+          "search",
+          "order",
+          "cart",
+          "add to"
+        ],
+        "trust_signals": [
+          "authentic"
+        ],
+        "url_path": ""
+      },
+      "seo_techniques": [
+        "custom_meta_title",
+        "image_alt_texts",
+        "comprehensive_alt_texts",
+        "substantial_content",
+        "strong_internal_linking"
+      ],
+      "firecrawl_metadata": {
+        "description": "Shop a Huge selection of  Trading Cards at Low Prices.  Boxes, Cases, and Packs of Sports and Gaming Cards. Free Shipping on Orders over $199.",
+        "verify-v1": [
+          "z3v3yrw0BQ7SlgUmaXK3rCFK7PLFCzmC1YL7slE4Azs=",
+          "sYJbZisrT7nrh5o7jYUn7Z2OtCbGpeCZ3PkLUW7b10I="
+        ],
+        "google-site-verification": "8pl229HNOLRvj9eQHQqIYvWJq5VPup2aAvO63RC9Acg",
+        "twitter:domain": "dacardworld.com",
+        "twitter:site": "@dacardworld",
+        "utcheck": "49696516_39B0TL62U",
+        "alexaVerifyID": "N-PfjnN6YKt77i7Dw5oiOM2ElaQ",
+        "GOOGLEBOT": "NOODP",
+        "title": "Dave & Adam's Card World | Shop Sports Cards and Trading Card Games | DA Card World",
+        "twitter:creator": "@dacardworld",
+        "twitter:account_id": "14882506",
+        "language": "en",
+        "viewport": [
+          "width=device-width,initial-scale=1",
+          "width=device-width, initial-scale=1.0, interactive-widget=resizes-content"
+        ],
+        "robots": "max-image-preview:large",
+        "favicon": "https://www.dacardworld.com/favicon-32x32.png",
+        "scrapeId": "019f0337-dbdc-715d-b835-2c52a1385d84",
+        "sourceURL": "https://www.dacardworld.com",
+        "url": "https://www.dacardworld.com/",
+        "statusCode": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-26T03:11:49.821Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "name": "Safari-Zone",
+      "url": "https://www.safari-zone.com",
+      "scrape_timestamp": "2026-06-26T09:17:07Z",
+      "meta_title": "safari-zone.com",
+      "meta_description": "",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [
+          "safari-zone.com is blocked",
+          "safari-zone.com is blocked"
+        ],
+        "h2": [
+          "Item added to your cart",
+          "Discord Update",
+          "Preorder Products"
+        ],
+        "h3": [
+          "Pokemon TCG: ME05 Pitch Black Bundle - Preorder",
+          "Pokemon TCG: ME05 Pitch Black Bundle - Preorder",
+          "Lorcana TCG:  (Set 13) Attack of the Vine Box &  Trove Bundle Preorder",
+          "Lorcana TCG:  (Set 13) Attack of the Vine Box &  Trove Bundle Preorder",
+          "DC HeroClix: Fight for Gotham City Savage Bundle (TBD) Preorder",
+          "DC HeroClix: Fight for Gotham City Savage Bundle (TBD) Preorder"
+        ]
+      },
+      "og_tags": {
+        "og:title": "\n      Safari Zone Collectibles\n",
+        "og:image": "http://safari-zone.com/cdn/shop/files/sz_logo_no_bg.png?height=628&pad_color=ffffff&v=1724533540&width=1200"
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": null,
+      "robots_meta": null,
+      "alt_text_patterns": [
+        "Pokemon TCG: ME05 Pitch Black Bundle - Preorder",
+        "Lorcana TCG:  (Set 13) Attack of the Vine Box &  Trove Bundle Preorder",
+        "DC HeroClix: Fight for Gotham City Savage Bundle (TBD) Preorder"
+      ],
+      "url_structure": {
+        "base_url": "https://www.safari-zone.com",
+        "url_patterns": [
+          "external_links"
+        ],
+        "category_url_patterns": [],
+        "sample_internal_links": []
+      },
+      "internal_link_count": 10,
+      "key_seo_keywords": [
+        "tcg",
+        "pokemon",
+        "lorcana",
+        "preorder",
+        "collectible",
+        "pokemon tcg",
+        "bundle",
+        "safari",
+        "zone",
+        "https",
+        "price",
+        "blocked",
+        "products",
+        "pitch",
+        "black",
+        "attack"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "[Skip to content](https://safari-zone.com/#MainContent)\n\n- [YouTube](https://youtube.com/@meyer_madness-j9v?si=KKer1Xvz3MbMEzVl)\n\nWelcome to Safari Zone\n\n## Item added to your cart\n\n[View cart](https:...",
+        "primary_h1": "safari-zone.com is blocked",
+        "h1_count": 2,
+        "h2_count": 3,
+        "h2_topics": [
+          "Item added to your cart",
+          "Discord Update",
+          "Preorder Products"
+        ],
+        "content_themes": [
+          "safari-zone.com is blocked",
+          "safari-zone.com is blocked",
+          "Item added to your cart",
+          "Discord Update",
+          "Preorder Products",
+          "Pokemon TCG: ME05 Pitch Black Bundle - Preorder",
+          "Pokemon TCG: ME05 Pitch Black Bundle - Preorder",
+          "Lorcana TCG:  (Set 13) Attack of the Vine Box &  Trove Bundle Preorder",
+          "Lorcana TCG:  (Set 13) Attack of the Vine Box &  Trove Bundle Preorder",
+          "DC HeroClix: Fight for Gotham City Savage Bundle (TBD) Preorder",
+          "DC HeroClix: Fight for Gotham City Savage Bundle (TBD) Preorder"
+        ],
+        "cta_patterns": [
+          "shop",
+          "buy",
+          "order",
+          "cart"
+        ],
+        "trust_signals": [],
+        "url_path": ""
+      },
+      "seo_techniques": [
+        "custom_meta_title",
+        "image_alt_texts",
+        "multiple_h1_tags",
+        "substantial_content"
+      ],
+      "firecrawl_metadata": {
+        "og:title": "Safari Zone Collectibles",
+        "ogUrl": "https://safari-zone.com/",
+        "og:site_name": "Safari Zone Collectibles",
+        "shopify-checkout-api-token": "3a002472a9c4f7a0c1ba160e0a50e742",
+        "ogDescription": "Safari Zone Collectibles",
+        "title": "\n      Safari Zone Collectibles\n",
+        "twitter:card": "summary_large_image",
+        "og:type": "website",
+        "theme-color": [
+          "#000000",
+          "#fff",
+          "#fff"
+        ],
+        "ogImage": "http://safari-zone.com/cdn/shop/files/sz_logo_no_bg.png?height=628&pad_color=ffffff&v=1724533540&width=1200",
+        "og:url": "https://safari-zone.com/",
+        "ogSiteName": "Safari Zone Collectibles",
+        "language": "en",
+        "viewport": [
+          "width=device-width,initial-scale=1",
+          "width=device-width, initial-scale=1.0,\n                                 maximum-scale=1.0, user-scalable=no",
+          "width=device-width, initial-scale=1.0,\n                                 maximum-scale=1.0, user-scalable=no"
+        ],
+        "og:image": "http://safari-zone.com/cdn/shop/files/sz_logo_no_bg.png?height=628&pad_color=ffffff&v=1724533540&width=1200",
+        "ogTitle": "Safari Zone Collectibles",
+        "og:image:secure_url": "https://safari-zone.com/cdn/shop/files/sz_logo_no_bg.png?height=628&pad_color=ffffff&v=1724533540&width=1200",
+        "og:description": "Safari Zone Collectibles",
+        "twitter:description": "Safari Zone Collectibles",
+        "google-site-verification": "Lxqj6KeiNeg8bHLSnACUBeU-WS_3JsPBtzTzEzlsnt4",
+        "og:image:width": "1200",
+        "og:image:height": "628",
+        "shopify-digital-wallet": "/34454012043/digital_wallets/dialog",
+        "color-scheme": [
+          "light dark",
+          "light dark"
+        ],
+        "target_origin": "https://safari-zone.com",
+        "twitter:title": "Safari Zone Collectibles",
+        "message_payload": "{\"type\":\"completed\"}",
+        "favicon": "https://safari-zone.com/cdn/shop/files/safari_round.png?crop=center&height=32&v=1724855446&width=32",
+        "scrapeId": "019f0337-e9b8-7118-bb5c-baa25d88beb4",
+        "sourceURL": "https://www.safari-zone.com",
+        "url": "https://safari-zone.com/",
+        "statusCode": 200,
+        "contentType": "text/html; charset=utf-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-26T09:16:07.056Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "name": "PlazaJapan",
+      "url": "https://plazajapan.com",
+      "scrape_timestamp": "2026-06-26T09:17:15Z",
+      "meta_title": "5 out of 5 star rating on Trustpilot",
+      "meta_description": "Plaza Japan is the leading online retailer of authentic anime merch, Japanese action figures, plastic scale model kits, and more. Shop our collection today!",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [
+          "Your #1 Source for Authentic Japanese Action Figures, Anime Merch, Plastic Scale Model Kits, and More!",
+          "Your #1 Source for Authentic Japanese Action Figures, Anime Merch, Plastic Scale Model Kits, and More!"
+        ],
+        "h2": [
+          "Japanese Action Figures",
+          "Anime Merch",
+          "Pokemon",
+          "CATEGORIES",
+          "NEW ARRIVALS",
+          "FEATURED",
+          "BEST SELLING",
+          "Our Mission",
+          "Why Shop At Plaza Japan",
+          "FROM OUR BLOG"
+        ],
+        "h3": [
+          "Japanese Anime Merch \nand Figurines",
+          "Diecast and Plastic Scale \nModel Kits",
+          "Japanese Jigsaw Puzzles",
+          "Japanese Anime Merch and Figurines",
+          "Diecast and Plastic Scale Model Kits",
+          "Japanese Jigsaw Puzzles"
+        ]
+      },
+      "og_tags": {
+        "og:title": "Authentic Japanese Action Figures, Plastic Model Kits, Toys & More",
+        "og:description": "Plaza Japan is the leading online retailer of authentic anime merch, Japanese action figures, plastic scale model kits, and more. Shop our collection today!"
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": "https://www.google.com/shopping/merchantverse/",
+      "robots_meta": null,
+      "alt_text_patterns": [
+        "Miniature Toys",
+        "Model Trains",
+        "RC Racing",
+        "Heroes and Villains",
+        "Customizable Figures",
+        "Fierce Macho Figures",
+        "Posable Articulated Figures",
+        "Kawaii Chibi Figures",
+        "Detailed Figurines",
+        "Image alternative text",
+        "One Piece",
+        "Demon Slayer",
+        "Frieren",
+        "Jujutsu Kaisen",
+        "Re:Zero",
+        "Oshi No Ko",
+        "Konosuba",
+        "Chainsaw Man",
+        "My Hero Academia",
+        "Dragon Ball"
+      ],
+      "url_structure": {
+        "base_url": "https://plazajapan.com",
+        "url_patterns": [
+          "external_links"
+        ],
+        "category_url_patterns": [],
+        "sample_internal_links": []
+      },
+      "internal_link_count": 347,
+      "key_seo_keywords": [
+        "pokemon",
+        "one piece",
+        "dragon ball",
+        "japanese",
+        "collectible",
+        "https",
+        "model",
+        "plazajapan",
+        "figures",
+        "plastic",
+        "kits",
+        "anime",
+        "merch",
+        "categories",
+        "action"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "**#1 Store for Japanese Figures, Model Kits & Collectibles**\n\n- [Home](https://www.plazajapan.com/)\n- Categories\n- Account\n- Contact\n\n\n  - [info@plazajapan.com](mailto:info@plazajapan.com)\n\n- More\n\n×\n...",
+        "primary_h1": "Your #1 Source for Authentic Japanese Action Figures, Anime Merch, Plastic Scale Model Kits, and More!",
+        "h1_count": 2,
+        "h2_count": 10,
+        "h2_topics": [
+          "Japanese Action Figures",
+          "Anime Merch",
+          "Pokemon",
+          "CATEGORIES",
+          "NEW ARRIVALS",
+          "FEATURED",
+          "BEST SELLING",
+          "Our Mission",
+          "Why Shop At Plaza Japan",
+          "FROM OUR BLOG"
+        ],
+        "content_themes": [
+          "Your #1 Source for Authentic Japanese Action Figures, Anime Merch, Plastic Scale Model Kits, and More!",
+          "Your #1 Source for Authentic Japanese Action Figures, Anime Merch, Plastic Scale Model Kits, and More!",
+          "Japanese Action Figures",
+          "Anime Merch",
+          "Pokemon",
+          "CATEGORIES",
+          "NEW ARRIVALS",
+          "FEATURED",
+          "BEST SELLING",
+          "Our Mission",
+          "Why Shop At Plaza Japan",
+          "FROM OUR BLOG",
+          "Japanese Anime Merch \nand Figurines",
+          "Diecast and Plastic Scale \nModel Kits",
+          "Japanese Jigsaw Puzzles"
+        ],
+        "cta_patterns": [
+          "shop",
+          "buy",
+          "sell",
+          "browse",
+          "search",
+          "find",
+          "order",
+          "cart",
+          "add to"
+        ],
+        "trust_signals": [
+          "trusted",
+          "authentic",
+          "since",
+          "years"
+        ],
+        "url_path": ""
+      },
+      "seo_techniques": [
+        "custom_meta_title",
+        "optimal_title_length",
+        "canonical_tag",
+        "image_alt_texts",
+        "comprehensive_alt_texts",
+        "multiple_h1_tags",
+        "rich_heading_hierarchy",
+        "substantial_content",
+        "strong_internal_linking"
+      ],
+      "firecrawl_metadata": {
+        "generic-version": "1.1.4",
+        "title": "Authentic Japanese Action Figures, Plastic Model Kits, Toys & More",
+        "platform": "bigcommerce.stencil",
+        "type": "embedded",
+        "referrer": "origin",
+        "msvalidate.01": "BFB5D373C2CDE00283E973344E9F17CF",
+        "facebook-domain-verification": "bvy3ibl56zhh461qo16akkda5vx0cb",
+        "google-site-verification": [
+          "3mRD-hpuQDANbYkH0AZEDuA6IPdZSdfSgjj14632Mdw",
+          "kdjE-YM2UmsBPdvMmLBb8CgDG0JeFHT0klAhFLgwsEs"
+        ],
+        "language": "en",
+        "robots": [
+          "noindex",
+          "noindex"
+        ],
+        "ck-version": "5",
+        "description": "Plaza Japan is the leading online retailer of authentic anime merch, Japanese action figures, plastic scale model kits, and more. Shop our collection today!",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "favicon": "https://cdn11.bigcommerce.com/s-89ffd/product_images/favicon%20%281%29.ico?t=1495272713",
+        "scrapeId": "019f0338-03e7-7279-8250-fdc317e68cb3",
+        "sourceURL": "https://plazajapan.com",
+        "url": "https://www.plazajapan.com/",
+        "statusCode": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-26T09:16:13.598Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "name": "Hobby-Genki",
+      "url": "https://hobby-genki.com",
+      "scrape_timestamp": "2026-06-26T09:17:19Z",
+      "meta_title": "Hobby Genki | Official Anime Figures & Japan Import Store",
+      "meta_description": "Authentic Japanese imports from Japan: S.H.Figuarts, MAFEX, Revoltech & Figma. Anime figures, Pokémon plush, trading cards & game merch. Worldwide shipping.",
+      "meta_keywords": [],
+      "headings": {
+        "h1": [],
+        "h2": [
+          "WHAT’S NEW",
+          "Spring & Summer Japanese Import Highlights",
+          "New added products",
+          "Just released products",
+          "Popular Pre-order",
+          "Hobby Genki: Authentic Japanese Imports & Physical Video Games"
+        ],
+        "h3": [
+          "For US customers: we would like to inform you about a new CPSC regulation that will come into effect on July 8, 2026.More details on our Shipping and Delivery information page",
+          "Secure the best Japanese imports now. Pre-orders are open for top action figures like S.H.Figuarts, Mafex, and Amazing Yamaguchi. Explore a massive selection of stunning scale figures and statues from world-class makers.",
+          "MSS Gamera Vol.14: Viras...",
+          "MSS Gamera Vol.14: Viras...",
+          "MSS Gamera Vol.14: Viras...",
+          "MSS Gamera Vol.14: Viras...",
+          "MSS Godzilla EX Vol.19:...",
+          "MSS Godzilla EX Vol.19:...",
+          "MSS Godzilla EX Vol.19:...",
+          "MSS Godzilla EX Vol. 19:...",
+          "Racing Miku 2026 Sepang...",
+          "Racing Miku 2026 Sepang...",
+          "Racing Miku 2026 Sepang...",
+          "Nekopara Chocola Micro...",
+          "Nekopara Chocola Micro...",
+          "Racing Miku 2026 Sepang...",
+          "Racing Miku 2026 Sepang...",
+          "Nekopara Vanilla Micro...",
+          "Racing Miku 2026 Sepang...",
+          "Omaru Polka - Hololive..."
+        ]
+      },
+      "og_tags": {
+        "og:title": "Hobby Genki | Official Anime Figures & Japan Import Store",
+        "og:description": "Authentic Japanese imports from Japan: S.H.Figuarts, MAFEX, Revoltech & Figma. Anime figures, Pokémon plush, trading cards & game merch. Worldwide shipping."
+      },
+      "twitter_tags": {},
+      "structured_data": [],
+      "canonical_url": null,
+      "robots_meta": null,
+      "alt_text_patterns": [
+        "MSS Gamera Vol.14: Viras...",
+        "MSS Gamera Vol.14: Viras...",
+        "MSS Gamera Vol.14: Viras...",
+        "MSS Gamera Vol.14: Viras...",
+        "MSS Godzilla EX Vol.19:...",
+        "MSS Godzilla EX Vol.19:...",
+        "MSS Godzilla EX Vol.19:...",
+        "MSS Godzilla EX Vol. 19:...",
+        "Racing Miku 2026 Sepang...",
+        "Racing Miku 2026 Sepang...",
+        "Racing Miku 2026 Sepang...",
+        "Nekopara Chocola Micro...",
+        "Nekopara Chocola Micro...",
+        "Racing Miku 2026 Sepang...",
+        "Racing Miku 2026 Sepang...",
+        "Nekopara Vanilla Micro...",
+        "Racing Miku 2026 Sepang...",
+        "Omaru Polka - Hololive...",
+        "Nekopara Vanilla Micro...",
+        "You, Fireworks, and a..."
+      ],
+      "url_structure": {
+        "base_url": "https://hobby-genki.com",
+        "url_patterns": [
+          "absolute_paths",
+          "external_links"
+        ],
+        "category_url_patterns": [
+          "/en/content/...",
+          "/en/godzilla/...",
+          "/en/...",
+          "/en/support/..."
+        ],
+        "sample_internal_links": [
+          "https://hobby-genki.com/en/10-pre-order",
+          "https://hobby-genki.com/en/355-hobby-genki-weekend-deals",
+          "https://hobby-genki.com/en/content/8-pre-orders-and-pay-later-orders",
+          "https://hobby-genki.com/en/498-new-arrivals-just-released-in-stock",
+          "https://hobby-genki.com/en/support/newticket",
+          "https://hobby-genki.com/en/#carousel",
+          "https://hobby-genki.com/en/#carousel",
+          "https://hobby-genki.com/en/content/1-livraison",
+          "https://hobby-genki.com/en/26-shfiguarts",
+          "https://hobby-genki.com/en/36-mafex",
+          "https://hobby-genki.com/en/445-amazing-yamaguchi",
+          "https://hobby-genki.com/en/219-scale-figures-statues",
+          "https://hobby-genki.com/en/godzilla/92440-mss-gamera-vol14-viras-closed-horns-frozen-clear-ver-figure-4580565647934.html",
+          "https://hobby-genki.com/en/godzilla/92440-mss-gamera-vol14-viras-closed-horns-frozen-clear-ver-figure-4580565647934.html",
+          "https://hobby-genki.com/en/#"
+        ]
+      },
+      "internal_link_count": 196,
+      "key_seo_keywords": [
+        "pokemon",
+        "pokémon",
+        "japanese",
+        "holo",
+        "preorder",
+        "hobby",
+        "genki",
+        "https",
+        "gamera",
+        "viras",
+        "racing",
+        "miku",
+        "sepang",
+        "godzilla",
+        "mafex"
+      ],
+      "content_strategy": {
+        "above_fold_preview": "- [![](https://hobby-genki.com/modules/ps_imageslider/images/853eb2758c1012fab010c715c61adccf9b0a4b0d_Bannieres_Hobby_Genki%20miles%202.jpg)](https://linktr.ee/hobby.genki)\n- [![](https://hobby-genki....",
+        "primary_h1": "",
+        "h1_count": 0,
+        "h2_count": 6,
+        "h2_topics": [
+          "WHAT’S NEW",
+          "Spring & Summer Japanese Import Highlights",
+          "New added products",
+          "Just released products",
+          "Popular Pre-order",
+          "Hobby Genki: Authentic Japanese Imports & Physical Video Games"
+        ],
+        "content_themes": [
+          "WHAT’S NEW",
+          "Spring & Summer Japanese Import Highlights",
+          "New added products",
+          "Just released products",
+          "Popular Pre-order",
+          "Hobby Genki: Authentic Japanese Imports & Physical Video Games",
+          "For US customers: we would like to inform you about a new CPSC regulation that will come into effect on July 8, 2026.More details on our Shipping and Delivery information page",
+          "Secure the best Japanese imports now. Pre-orders are open for top action figures like S.H.Figuarts, Mafex, and Amazing Yamaguchi. Explore a massive selection of stunning scale figures and statues from world-class makers.",
+          "MSS Gamera Vol.14: Viras...",
+          "MSS Gamera Vol.14: Viras...",
+          "MSS Gamera Vol.14: Viras...",
+          "MSS Gamera Vol.14: Viras...",
+          "MSS Godzilla EX Vol.19:...",
+          "MSS Godzilla EX Vol.19:...",
+          "MSS Godzilla EX Vol.19:..."
+        ],
+        "cta_patterns": [
+          "shop",
+          "explore",
+          "order"
+        ],
+        "trust_signals": [
+          "secure",
+          "authentic",
+          "official"
+        ],
+        "url_path": ""
+      },
+      "seo_techniques": [
+        "image_alt_texts",
+        "comprehensive_alt_texts",
+        "rich_heading_hierarchy",
+        "substantial_content",
+        "strong_internal_linking"
+      ],
+      "firecrawl_metadata": {
+        "title": "Hobby Genki | Official Anime Figures & Japan Import Store",
+        "language": "en",
+        "description": "Authentic Japanese imports from Japan: S.H.Figuarts, MAFEX, Revoltech & Figma. Anime figures, Pokémon plush, trading cards & game merch. Worldwide shipping.",
+        "keywords": "Japanese Figures,Japanese Games,Japan Import,Japanese Imports,Japan Limited,Japan Collectors Edition,Figure online shop,buy japanese games,buy anime merch,anime figures,toy photo,toys",
+        "position": "1",
+        "viewport": "width=device-width, initial-scale=1",
+        "favicon": "https://hobby-genki.com/img/favicon.ico",
+        "scrapeId": "019f0338-2100-77be-ae82-3f747bfe611f",
+        "sourceURL": "https://hobby-genki.com",
+        "url": "https://hobby-genki.com/en/",
+        "statusCode": 200,
+        "contentType": "text/html; charset=utf-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-06-26T09:16:21.472Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    }
+  ],
+  "failed_sites": [],
+  "analysis": {
+    "common_keywords": [
+      "https",
+      "pokemon",
+      "one piece",
+      "lorcana",
+      "preorder",
+      "tcg",
+      "pokémon",
+      "yu-gi-oh",
+      "deck",
+      "mtg",
+      "card game",
+      "heroes",
+      "booster box",
+      "ccg",
+      "marvel",
+      "super",
+      "best",
+      "trading card game",
+      "dragon ball",
+      "images",
+      "sealed",
+      "products",
+      "collectible",
+      "japanese"
+    ],
+    "keyword_frequency": [
+      {
+        "keyword": "https",
+        "count": 10
+      },
+      {
+        "keyword": "pokemon",
+        "count": 7
+      },
+      {
+        "keyword": "one piece",
+        "count": 5
+      },
+      {
+        "keyword": "lorcana",
+        "count": 5
+      },
+      {
+        "keyword": "preorder",
+        "count": 5
+      },
+      {
+        "keyword": "tcg",
+        "count": 4
+      },
+      {
+        "keyword": "pokémon",
+        "count": 4
+      },
+      {
+        "keyword": "yu-gi-oh",
+        "count": 4
+      },
+      {
+        "keyword": "deck",
+        "count": 4
+      },
+      {
+        "keyword": "mtg",
+        "count": 3
+      },
+      {
+        "keyword": "card game",
+        "count": 3
+      },
+      {
+        "keyword": "heroes",
+        "count": 3
+      },
+      {
+        "keyword": "booster box",
+        "count": 2
+      },
+      {
+        "keyword": "ccg",
+        "count": 2
+      },
+      {
+        "keyword": "marvel",
+        "count": 2
+      },
+      {
+        "keyword": "super",
+        "count": 2
+      },
+      {
+        "keyword": "best",
+        "count": 2
+      },
+      {
+        "keyword": "trading card game",
+        "count": 2
+      },
+      {
+        "keyword": "dragon ball",
+        "count": 2
+      },
+      {
+        "keyword": "images",
+        "count": 2
+      },
+      {
+        "keyword": "sealed",
+        "count": 2
+      },
+      {
+        "keyword": "products",
+        "count": 2
+      },
+      {
+        "keyword": "collectible",
+        "count": 2
+      },
+      {
+        "keyword": "japanese",
+        "count": 2
+      },
+      {
+        "keyword": "booster pack",
+        "count": 1
+      },
+      {
+        "keyword": "tcgplayer",
+        "count": 1
+      },
+      {
+        "keyword": "product",
+        "count": 1
+      },
+      {
+        "keyword": "booster",
+        "count": 1
+      },
+      {
+        "keyword": "pack",
+        "count": 1
+      },
+      {
+        "keyword": "time",
+        "count": 1
+      }
+    ],
+    "common_techniques": [
+      {
+        "technique": "substantial_content",
+        "count": 10,
+        "percentage": "10/10 sites"
+      },
+      {
+        "technique": "image_alt_texts",
+        "count": 9,
+        "percentage": "9/10 sites"
+      },
+      {
+        "technique": "strong_internal_linking",
+        "count": 8,
+        "percentage": "8/10 sites"
+      },
+      {
+        "technique": "comprehensive_alt_texts",
+        "count": 6,
+        "percentage": "6/10 sites"
+      },
+      {
+        "technique": "multiple_h1_tags",
+        "count": 5,
+        "percentage": "5/10 sites"
+      },
+      {
+        "technique": "rich_heading_hierarchy",
+        "count": 4,
+        "percentage": "4/10 sites"
+      },
+      {
+        "technique": "custom_meta_title",
+        "count": 4,
+        "percentage": "4/10 sites"
+      },
+      {
+        "technique": "single_h1_tag",
+        "count": 1,
+        "percentage": "1/10 sites"
+      },
+      {
+        "technique": "optimal_title_length",
+        "count": 1,
+        "percentage": "1/10 sites"
+      },
+      {
+        "technique": "canonical_tag",
+        "count": 1,
+        "percentage": "1/10 sites"
+      }
+    ],
+    "recommendations": [
+      {
+        "priority": "HIGH",
+        "category": "Heading Structure",
+        "recommendation": "Use a single H1 tag per page with the primary keyword. Use H2/H3 tags to create a clear content hierarchy.",
+        "details": "1/10 competitors use a single H1 tag.",
+        "example": "H1: 'Japanese & English TCG Cards | Akihabara TCG Warehouse', H2: 'Shop by Game', H3: 'Pokemon TCG'"
+      },
+      {
+        "priority": "HIGH",
+        "category": "Target Keywords",
+        "recommendation": "Target these high-frequency competitor keywords in titles, headings, and content.",
+        "details": "Top keywords found across competitors: https, pokemon, one piece, lorcana, preorder, tcg, pokémon, yu-gi-oh, deck, mtg",
+        "example": "Include 'trading card game', 'pokemon cards', 'booster box' in key page content"
+      },
+      {
+        "priority": "MEDIUM",
+        "category": "Image Alt Text",
+        "recommendation": "Add descriptive alt text to all product images. Include game name, product type, and language.",
+        "details": "9/10 competitors use image alt text.",
+        "example": "alt='Pokemon TCG Scarlet Violet Booster Box Japanese Sealed' not alt='image1.jpg'"
+      },
+      {
+        "priority": "MEDIUM",
+        "category": "Canonical URLs",
+        "recommendation": "Add canonical link tags to all pages to prevent duplicate content issues.",
+        "details": "1/10 competitors use canonical tags.",
+        "example": "<link rel='canonical' href='https://akihabaratcg.com/pokemon/booster-boxes' />"
+      },
+      {
+        "priority": "MEDIUM",
+        "category": "Internal Linking",
+        "recommendation": "Build strong internal linking with descriptive anchor text. Link between categories, products, and related items.",
+        "details": "8/10 competitors have strong internal linking (20+ links).",
+        "example": "Link 'Pokemon Booster Boxes' to category page, cross-link 'You may also like' products"
+      },
+      {
+        "priority": "MEDIUM",
+        "category": "Content Strategy",
+        "recommendation": "Add category description text below product listings. Include trust signals, brand partnerships, and shipping info.",
+        "details": "Competitors use category descriptions, trust badges, and shipping info to build credibility.",
+        "example": "Add 'About Our Pokemon Cards' section with authenticity guarantee and Japan-sourced details"
+      },
+      {
+        "priority": "MEDIUM",
+        "category": "URL Structure",
+        "recommendation": "Use clean, keyword-rich URL structure: /category/subcategory/product-name format.",
+        "details": "Top competitors use hierarchical URL structures (e.g., /pokemon/booster-boxes, /yugioh/structure-decks).",
+        "example": "/pokemon/japanese-booster-boxes, /one-piece/english-elite-trainer-boxes"
+      },
+      {
+        "priority": "HIGH",
+        "category": "Niche Differentiation",
+        "recommendation": "Leverage 'Akihabara' and 'Japan-sourced' as unique differentiators. Target Japanese TCG-specific keywords that competitors miss.",
+        "details": "Few competitors emphasize Japanese origin/sourcing. This is a unique SEO opportunity.",
+        "example": "Target: 'japanese pokemon cards', 'akihabara card shop', 'authentic japanese booster box', 'japan imported tcg'"
+      }
+    ],
+    "sites_analyzed": 10,
+    "sites_total": 10,
+    "analysis_timestamp": "2026-06-26T09:17:19Z"
+  }
+}

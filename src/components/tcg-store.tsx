@@ -444,7 +444,7 @@ export default function TCGStore() {
   /* ─────────── Render ─────────── */
 
   return (
-    <div className="min-h-screen flex flex-col relative bg-gradient-to-br from-purple-900 via-violet-800 to-purple-900 noise-overlay overflow-hidden" style={{background: "linear-gradient(to bottom right in srgb, #581c87, #6d28d9, #581c87)"}}>
+    <div className="min-h-screen flex flex-col relative bg-gradient-to-br from-purple-900 via-violet-800 to-purple-900 noise-overlay overflow-hidden" style={{background: "linear-gradient(to bottom right, #581c87, #6d28d9, #581c87)"}}>
       {/* Floating Orbs Background */}
       <div className="fixed inset-0 pointer-events-none overflow-hidden z-0">
         <div className="orb-1 absolute -top-32 -left-32 w-96 h-96 rounded-full bg-purple-500/40 blur-3xl"></div>
@@ -615,7 +615,7 @@ export default function TCGStore() {
       </main>
 
       {/* ─── Footer ─── */}
-      <footer className="bg-gradient-to-r from-purple-950 via-violet-900 to-purple-950 mt-auto relative overflow-hidden" style={{background: "linear-gradient(to right in srgb, #3b0764, #4c1d95, #3b0764)"}}>
+      <footer className="bg-gradient-to-r from-purple-950 via-violet-900 to-purple-950 mt-auto relative overflow-hidden" style={{background: "linear-gradient(to right, #3b0764, #4c1d95, #3b0764)"}}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-8">
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
             {/* Column 1: Brand */}
@@ -885,9 +885,9 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
   return (
     <>
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-gradient-to-r from-[#1a1033] via-[#2d1f4e] to-[#1a1033]" style={{background: "linear-gradient(to right in srgb, #1a1033, #2d1f4e, #1a1033)"}}>
+      <section className="relative overflow-hidden bg-gradient-to-r from-[#1a1033] via-[#2d1f4e] to-[#1a1033]" style={{background: "linear-gradient(to right, #1a1033, #2d1f4e, #1a1033)"}}>
         <div className="absolute inset-0 z-10 pointer-events-none">
-          <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent animate-[shimmer_8s_ease-in-out_infinite]" style={{background: "linear-gradient(to right in srgb, transparent, rgba(255,255,255,0.05), transparent)", transform:"skewX(-20deg)", width:"200%"}}></div>
+          <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent animate-[shimmer_8s_ease-in-out_infinite]" style={{background: "linear-gradient(to right, transparent, rgba(255,255,255,0.05), transparent)", transform:"skewX(-20deg)", width:"200%"}}></div>
         </div>
         <div className="max-w-7xl mx-auto">
           <div className="relative">
@@ -901,7 +901,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 className="relative h-64 sm:h-80 lg:h-[420px] w-full"
               >
                 <ProductImg src={HERO_SLIDES[heroIndex].image} alt={HERO_SLIDES[heroIndex].title} fill className="object-cover" priority sizes="100vw" />
-                <div className="absolute inset-0 bg-gradient-to-r from-purple-950/90 via-purple-900/60 to-transparent" style={{background: "linear-gradient(to right in srgb, rgba(59,7,100,0.9), rgba(88,28,135,0.6), transparent)"}} />
+                <div className="absolute inset-0 bg-gradient-to-r from-purple-950/90 via-purple-900/60 to-transparent" style={{background: "linear-gradient(to right, rgba(59,7,100,0.9), rgba(88,28,135,0.6), transparent)"}} />
                 <div className="absolute inset-0 flex items-center px-8 sm:px-12 lg:px-16">
                   <div className="max-w-lg">
                     <p className="mb-3 text-[13px] font-bold text-white tracking-[0.2em] uppercase">
@@ -936,7 +936,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* Divider */}
-      <div className="h-[2px] bg-gradient-to-r from-transparent via-purple-400/40 to-transparent" style={{background: "linear-gradient(to right in srgb, transparent, rgba(192,132,252,0.4), transparent)"}}></div>
+      <div className="h-[2px] bg-gradient-to-r from-transparent via-purple-400/40 to-transparent" style={{background: "linear-gradient(to right, transparent, rgba(192,132,252,0.4), transparent)"}}></div>
 
       {/* Our Warehouse */}
       <section className="bg-white/70 backdrop-blur-sm py-10 border-b border-purple-100/30 relative">
@@ -1157,7 +1157,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
 
       {/* About Section */}
       <section id="about" className="bg-purple-950 text-white py-16 mt-8 relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-purple-950 via-violet-900/50 to-purple-950" style={{background: "linear-gradient(to bottom right in srgb, #3b0764, rgba(76,29,149,0.5), #3b0764)"}}></div>
+        <div className="absolute inset-0 bg-gradient-to-br from-purple-950 via-violet-900/50 to-purple-950" style={{background: "linear-gradient(to bottom right, #3b0764, rgba(76,29,149,0.5), #3b0764)"}}></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center mb-12">
             <p className="text-[11px] font-bold text-gray-300 tracking-[0.2em] uppercase mb-4">
@@ -1807,17 +1807,17 @@ function ProductCard({
       transition={{ duration: 0.3 }}
       className="bg-white/95 backdrop-blur-sm rounded-xl overflow-hidden shadow-md border border-purple-100/50 hover:shadow-lg transition-all duration-300 group cursor-pointer"
     >
-      <div className="relative aspect-square bg-gradient-to-br from-purple-50/50 to-white overflow-hidden" style={{background: "linear-gradient(to bottom right in srgb, rgba(250,245,255,0.5), #ffffff)"}} onClick={() => onOpen(product)}>
+      <div className="relative aspect-square bg-gradient-to-br from-purple-50/50 to-white overflow-hidden" style={{background: "linear-gradient(to bottom right, rgba(250,245,255,0.5), #ffffff)"}} onClick={() => onOpen(product)}>
         <ProductImg src={product.image} alt={product.title} fill className="object-contain p-1.5 group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 640px) 50vw, 25vw" />
         <div className="absolute inset-0 shadow-[inset_0_0_20px_rgba(0,0,0,0.03)] pointer-events-none"></div>
         {hasOriginalPrice && (
           <div className="absolute top-1.5 left-1.5 flex flex-col gap-1">
-            <span className="bg-gradient-to-r from-orange-500 to-red-500 text-white text-[9px] font-bold px-1.5 py-0.5 rounded-full shadow-sm" style={{background: "linear-gradient(to right in srgb, #f97316, #ef4444)"}}>
+            <span className="bg-gradient-to-r from-orange-500 to-red-500 text-white text-[9px] font-bold px-1.5 py-0.5 rounded-full shadow-sm" style={{background: "linear-gradient(to right, #f97316, #ef4444)"}}>
               -{getDiscountPercent(product.original_price!, product.price)}%
             </span>
           </div>
         )}
-        <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-2 translate-y-full group-hover:translate-y-0 transition-transform duration-300" style={{background: "linear-gradient(to top in srgb, rgba(0,0,0,0.6), transparent)"}}>
+        <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-2 translate-y-full group-hover:translate-y-0 transition-transform duration-300" style={{background: "linear-gradient(to top, rgba(0,0,0,0.6), transparent)"}}>
           <Button
             className="w-full bg-gradient-to-r from-purple-700 to-violet-600 text-white hover:from-purple-800 hover:to-violet-700 text-[11px] font-semibold shadow-md h-7 btn-gradient-cart"
             onClick={(e) => { e.stopPropagation(); onAddToCart(product); }}
