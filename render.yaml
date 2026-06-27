@@ -1,13 +1,23 @@
 services:
   - type: web
     name: akihabara-tcg-warehouse
-    runtime: static
+    runtime: node
     plan: free
     region: oregon
-    buildCommand: bun install && bun run build
-    staticPublishPath: out
+    buildCommand: bun install && bun run db:push && bun run build
+    startCommand: bun run start
     envVars:
-      - key: NEXT_PUBLIC_SUPABASE_URL
-        sync: false
-      - key: NEXT_PUBLIC_SUPABASE_ANON_KEY
-        sync: false
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        value: file:/data/akihabara.db
+      - key: ADMIN_EMAIL
+        value: admin@akihabara.com
+      - key: ADMIN_PASSWORD
+        value: Akihabarat1$
+      - key: PORT
+        value: 3000
+    disk:
+      name: akihabara-data
+      mountPath: /data
+      sizeGB: 1
