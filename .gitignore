@@ -66,4 +66,6 @@ download/
 examples/
 mini-services/
 worklog.md
-AKIHABARATCGWAREHOUSE
+AKIHABARATCGWAREHOUSEdb/*.db
+screenshot-*.png
+gemini-conversation.json
