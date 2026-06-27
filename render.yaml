@@ -1,13 +1,13 @@
 services:
   - type: web
     name: akihabara-tcg-warehouse
-    runtime: node
+    runtime: static
     plan: free
     region: oregon
-    buildCommand: bun install && bun run db:push && bun run build
-    startCommand: bash start.sh
+    buildCommand: bun install && bun run build
+    staticPublishPath: out
     envVars:
-      - key: NODE_ENV
-        value: production
-      - key: DATABASE_URL
-        value: file:./db/custom.db
+      - key: NEXT_PUBLIC_SUPABASE_URL
+        sync: false
+      - key: NEXT_PUBLIC_SUPABASE_ANON_KEY
+        sync: false

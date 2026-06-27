@@ -104,7 +104,15 @@ import {
   Area,
   AreaChart,
 } from "recharts";
-// Using Next.js API routes with Prisma/SQLite — no external SDK dependencies
+import {
+  isSupabaseConfigured,
+  selectFrom,
+  insertInto,
+  updateIn,
+  deleteFrom,
+  updateOrderStatus as supabaseUpdateOrderStatus,
+} from "@/lib/supabase-rest";
+// Using Supabase REST API directly from the browser
 
 /* ─────────── Types ─────────── */
 
@@ -277,7 +285,8 @@ function mapProductFromApi(row: Record<string, unknown>): Product {
   };
 }
 
-function prepareProductForApi(p: {
+/** Prepare product data with snake_case keys for Supabase REST API */
+function prepareProductForSupabase(p: {
   title: string;
   price: number;
   originalPrice: number | null;
@@ -295,14 +304,15 @@ function prepareProductForApi(p: {
   return {
     title: p.title,
     price: p.price,
-    originalPrice: p.originalPrice,
+    original_price: p.originalPrice,
     image: p.image,
-    images: p.images,
+    images: JSON.stringify(p.images),
     description: p.description,
     category: p.category,
-    categories: p.categories,
+    categories: JSON.stringify(p.categories),
     rating: p.rating,
-    inStock: p.inStock,
+    review_count: 0,
+    in_stock: p.inStock,
     featured: p.featured,
     source: p.source,
     sku: p.sku,
@@ -624,18 +634,44 @@ export default function AdminPanel() {
   const fetchStats = useCallback(async () => {
     setStatsLoading(true);
     try {
-      const res = await fetch("/api/admin/stats");
-      if (!res.ok) throw new Error("Failed to fetch stats");
-      const data = await res.json();
+      if (!isSupabaseConfigured()) {
+        setStats({ totalProducts: 0, totalOrders: 0, totalRevenue: 0, totalCustomers: 0, recentOrders: [], lowStockProducts: [], ordersByStatus: {} });
+        setStatsLoading(false);
+        return;
+      }
+
+      // Fetch products and orders in parallel, compute stats client-side
+      const [productsResult, ordersResult] = await Promise.all([
+        selectFrom<Record<string, unknown>>("products", "id,price,in_stock,category,title,image,rating,original_price,description,categories,source,sku,review_count,featured,images,created_at,updated_at"),
+        selectFrom<Record<string, unknown>>("orders", "*", { order: "created_at.desc", limit: "10" }),
+      ]);
+
+      const products = productsResult.data ?? [];
+      const orders = ordersResult.data ?? [];
+
+      // Compute stats
+      const totalRevenue = orders.reduce((sum, o) => sum + ((o.total as number) ?? 0), 0);
+      const ordersByStatus: Record<string, number> = {};
+      for (const o of orders) {
+        const s = (o.status as string) ?? "pending";
+        ordersByStatus[s] = (ordersByStatus[s] ?? 0) + 1;
+      }
+
+      // Low stock = in_stock === false
+      const lowStockProducts = products.filter(p => p.in_stock === false).slice(0, 5).map(p => mapProductFromApi(p));
+
+      // Get total order count (we only fetched 10, so fetch a count separately)
+      const allOrdersResult = await selectFrom<Record<string, unknown>>("orders", "id");
+      const totalOrders = allOrdersResult.data?.length ?? orders.length;
 
       setStats({
-        totalProducts: data.totalProducts ?? 0,
-        totalOrders: data.totalOrders ?? 0,
-        totalRevenue: data.totalRevenue ?? 0,
+        totalProducts: products.length,
+        totalOrders,
+        totalRevenue,
         totalCustomers: 0,
-        recentOrders: (data.recentOrders ?? []).map((o: Record<string, unknown>) => mapOrderFromApi(o)),
-        lowStockProducts: (data.lowStockProducts ?? []).map((p: Record<string, unknown>) => mapProductFromApi(p)),
-        ordersByStatus: data.ordersByStatus ?? {},
+        recentOrders: orders.map((o: Record<string, unknown>) => mapOrderFromApi(o)),
+        lowStockProducts,
+        ordersByStatus,
       });
     } catch (err) {
       console.error("Stats error:", err);
@@ -647,22 +683,38 @@ export default function AdminPanel() {
   const fetchProducts = useCallback(async () => {
     setProductsLoading(true);
     try {
-      const params = new URLSearchParams();
-      if (productSearch) params.set("search", productSearch);
-      if (productCategory) params.set("category", productCategory);
-      params.set("limit", "100");
+      if (!isSupabaseConfigured()) {
+        setProducts([]);
+        setProductsTotal(0);
+        setProductsLoading(false);
+        return;
+      }
 
-      const res = await fetch(`/api/products?${params.toString()}`);
-      if (!res.ok) throw new Error("Failed to fetch products");
-      const data = await res.json();
+      // Build filters for Supabase REST
+      const filters: Record<string, string> = { order: "created_at.desc" };
+      if (productCategory) filters.category = `eq.${productCategory}`;
 
-      const allProducts = (data.products ?? []).map((p: Record<string, unknown>) => mapProductFromApi(p));
+      const result = await selectFrom<Record<string, unknown>>("products", "*", filters);
+      if (result.error) throw new Error(result.error);
+
+      let allProducts = (result.data ?? []).map((p: Record<string, unknown>) => mapProductFromApi(p));
+
+      // Client-side search filter (PostgREST doesn't support full-text search easily)
+      if (productSearch) {
+        const q = productSearch.toLowerCase();
+        allProducts = allProducts.filter(p =>
+          p.title.toLowerCase().includes(q) ||
+          p.category.toLowerCase().includes(q) ||
+          (p.description ?? "").toLowerCase().includes(q)
+        );
+      }
+
       const limit = 20;
       const start = (productsPage - 1) * limit;
       const pageProducts = allProducts.slice(start, start + limit);
 
       setProducts(pageProducts);
-      setProductsTotal(data.total ?? 0);
+      setProductsTotal(allProducts.length);
     } catch (err) {
       console.error("Products error:", err);
     } finally {
@@ -673,18 +725,39 @@ export default function AdminPanel() {
   const fetchOrders = useCallback(async () => {
     setOrdersLoading(true);
     try {
-      const params = new URLSearchParams();
-      if (orderStatusFilter !== "all") params.set("status", orderStatusFilter);
-      if (orderSearch) params.set("search", orderSearch);
-      params.set("page", String(ordersPage));
-      params.set("limit", "20");
+      if (!isSupabaseConfigured()) {
+        setOrders([]);
+        setOrdersTotal(0);
+        setOrdersLoading(false);
+        return;
+      }
 
-      const res = await fetch(`/api/orders?${params.toString()}`);
-      if (!res.ok) throw new Error("Failed to fetch orders");
-      const data = await res.json();
+      // Build filters for Supabase REST
+      const filters: Record<string, string> = { order: "created_at.desc" };
+      if (orderStatusFilter !== "all") filters.status = `eq.${orderStatusFilter}`;
 
-      setOrders((data.orders ?? []).map((o: Record<string, unknown>) => mapOrderFromApi(o)));
-      setOrdersTotal(data.pagination?.total ?? 0);
+      const result = await selectFrom<Record<string, unknown>>("orders", "*", filters);
+      if (result.error) throw new Error(result.error);
+
+      let allOrders = (result.data ?? []).map((o: Record<string, unknown>) => mapOrderFromApi(o));
+
+      // Client-side search filter
+      if (orderSearch) {
+        const q = orderSearch.toLowerCase();
+        allOrders = allOrders.filter(o =>
+          (o.customerName ?? "").toLowerCase().includes(q) ||
+          (o.customerEmail ?? "").toLowerCase().includes(q) ||
+          o.id.toLowerCase().includes(q)
+        );
+      }
+
+      // Client-side pagination
+      const limit = 20;
+      const start = (ordersPage - 1) * limit;
+      const pageOrders = allOrders.slice(start, start + limit);
+
+      setOrders(pageOrders);
+      setOrdersTotal(allOrders.length);
     } catch (err) {
       console.error("Orders error:", err);
     } finally {
@@ -721,16 +794,23 @@ export default function AdminPanel() {
   const fetchContent = useCallback(async () => {
     setContentLoading(true);
     try {
-      const [slidesRes, annRes] = await Promise.all([
-        fetch("/api/admin/hero-slides"),
-        fetch("/api/admin/announcements"),
+      if (!isSupabaseConfigured()) {
+        setHeroSlides([]);
+        setAnnouncements([]);
+        setContentLoading(false);
+        return;
+      }
+
+      const [slidesResult, annResult] = await Promise.all([
+        selectFrom<Record<string, unknown>>("hero_slides", "*", { order: "order.asc" }),
+        selectFrom<Record<string, unknown>>("announcements", "*", { order: "order.asc" }),
       ]);
 
-      const slidesData = slidesRes.ok ? await slidesRes.json() : [];
-      const annData = annRes.ok ? await annRes.json() : [];
+      const slidesData = slidesResult.data ?? [];
+      const annData = annResult.data ?? [];
 
-      setHeroSlides((Array.isArray(slidesData) ? slidesData : []).map((s: Record<string, unknown>) => mapHeroSlideFromApi(s)));
-      setAnnouncements((Array.isArray(annData) ? annData : []).map((a: Record<string, unknown>) => mapAnnouncementFromApi(a)));
+      setHeroSlides(slidesData.map((s: Record<string, unknown>) => mapHeroSlideFromApi(s)));
+      setAnnouncements(annData.map((a: Record<string, unknown>) => mapAnnouncementFromApi(a)));
     } catch (err) {
       console.error("Content error:", err);
     } finally {
@@ -741,17 +821,27 @@ export default function AdminPanel() {
   const fetchSettings = useCallback(async () => {
     setSettingsLoading(true);
     try {
-      const res = await fetch("/api/admin/settings");
-      if (!res.ok) throw new Error("Failed to fetch settings");
-      const data = await res.json();
+      if (!isSupabaseConfigured()) {
+        setSettings({});
+        setSettingsLoading(false);
+        return;
+      }
+
+      const result = await selectFrom<{ key: string; value: string }>("site_settings", "*");
+      if (result.error) throw new Error(result.error);
+
+      const settingsMap: Record<string, string> = {};
+      for (const row of result.data ?? []) {
+        settingsMap[row.key] = row.value;
+      }
 
       setSettings({
-        siteName: data.siteName || "",
-        whatsapp: data.whatsappNumber || "",
-        currency: data.currency || "USD",
-        jpyRate: data.currencyJPY || "149.5",
-        eurRate: data.currencyEUR || "0.92",
-        gbpRate: data.currencyGBP || "0.79",
+        siteName: settingsMap.siteName || "",
+        whatsapp: settingsMap.whatsappNumber || "",
+        currency: settingsMap.currency || "USD",
+        jpyRate: settingsMap.currencyJPY || "149.5",
+        eurRate: settingsMap.currencyEUR || "0.92",
+        gbpRate: settingsMap.currencyGBP || "0.79",
       });
     } catch (err) {
       console.error("Settings error:", err);
@@ -856,7 +946,7 @@ export default function AdminPanel() {
     }
     setPfSaving(true);
     try {
-      const productData = prepareProductForApi({
+      const productData = prepareProductForSupabase({
         title: pfTitle,
         price: parseFloat(pfPrice),
         originalPrice: pfOriginalPrice ? parseFloat(pfOriginalPrice) : null,
@@ -873,19 +963,11 @@ export default function AdminPanel() {
       });
 
       if (editingProduct) {
-        const res = await fetch("/api/admin/products", {
-          method: "PATCH",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ id: editingProduct.id, ...productData }),
-        });
-        if (!res.ok) throw new Error("Failed to update product");
+        const result = await updateIn("products", { id: `eq.${editingProduct.id}` }, productData);
+        if (result.error) throw new Error(result.error);
       } else {
-        const res = await fetch("/api/admin/products", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(productData),
-        });
-        if (!res.ok) throw new Error("Failed to create product");
+        const result = await insertInto("products", productData);
+        if (result.error) throw new Error(result.error);
       }
 
       toast({
@@ -905,8 +987,8 @@ export default function AdminPanel() {
 
   const deleteProduct = async (product: Product) => {
     try {
-      const res = await fetch(`/api/admin/products/${product.id}`, { method: "DELETE" });
-      if (!res.ok) throw new Error("Failed to delete product");
+      const result = await deleteFrom("products", { id: `eq.${product.id}` });
+      if (result.error) throw new Error(result.error);
       toast({ title: "Product deleted", description: `${product.title} has been removed` });
       fetchProducts();
     } catch {
@@ -921,10 +1003,19 @@ export default function AdminPanel() {
     setOrderDetailLoading(true);
     setOrderDetailOpen(true);
     try {
-      const res = await fetch(`/api/orders/${orderId}`);
-      if (!res.ok) throw new Error("Failed to fetch order");
-      const data = await res.json();
-      const order = mapOrderFromApi(data as Record<string, unknown>);
+      const [orderResult, itemsResult] = await Promise.all([
+        selectFrom<Record<string, unknown>>("orders", "*", { id: `eq.${orderId}` }),
+        selectFrom<Record<string, unknown>>("order_items", "*", { order_id: `eq.${orderId}` }),
+      ]);
+
+      if (orderResult.error) throw new Error(orderResult.error);
+      if (!orderResult.data?.[0]) throw new Error("Order not found");
+
+      const orderRow = orderResult.data[0];
+      // Attach order_items to the order row so mapOrderFromApi can find them
+      orderRow.order_items = itemsResult.data ?? [];
+
+      const order = mapOrderFromApi(orderRow);
       setSelectedOrder(order);
       setOrderNotes(order.notes || "");
     } catch {
@@ -936,12 +1027,8 @@ export default function AdminPanel() {
 
   const updateOrderStatus = async (orderId: string, status: string) => {
     try {
-      const res = await fetch(`/api/orders/${orderId}`, {
-        method: "PATCH",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ status }),
-      });
-      if (!res.ok) throw new Error("Failed to update order");
+      const { error } = await supabaseUpdateOrderStatus(orderId, status);
+      if (error) throw new Error(error);
       toast({ title: "Order updated", description: `Status changed to ${status}` });
       fetchOrders();
       if (selectedOrder?.id === orderId) {
@@ -1036,19 +1123,15 @@ export default function AdminPanel() {
       };
 
       if (editingSlide) {
-        // No update API available for hero slides
-        toast({ title: "Not supported", description: "Hero slide update is not available via API", variant: "destructive" });
-        return;
+        const result = await updateIn("hero_slides", { id: `eq.${editingSlide.id}` }, payload);
+        if (result.error) throw new Error(result.error);
+        toast({ title: "Slide updated" });
+      } else {
+        const result = await insertInto("hero_slides", payload);
+        if (result.error) throw new Error(result.error);
+        toast({ title: "Slide created" });
       }
 
-      const res = await fetch("/api/admin/hero-slides", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-      });
-      if (!res.ok) throw new Error("Failed to create slide");
-
-      toast({ title: "Slide created" });
       setSlideDialogOpen(false);
       resetSlideForm();
       fetchContent();
@@ -1058,9 +1141,15 @@ export default function AdminPanel() {
     }
   };
 
-  const deleteSlide = async (_slide: HeroSlide) => {
-    // No delete API available for hero slides
-    toast({ title: "Not supported", description: "Hero slide deletion is not available via API", variant: "destructive" });
+  const deleteSlide = async (slide: HeroSlide) => {
+    try {
+      const result = await deleteFrom("hero_slides", { id: `eq.${slide.id}` });
+      if (result.error) throw new Error(result.error);
+      toast({ title: "Slide deleted" });
+      fetchContent();
+    } catch {
+      toast({ title: "Error", description: "Failed to delete slide", variant: "destructive" });
+    }
     setDeleteSlideDialog(null);
   };
 
@@ -1092,19 +1181,15 @@ export default function AdminPanel() {
       };
 
       if (editingAnnouncement) {
-        // No update API available for announcements
-        toast({ title: "Not supported", description: "Announcement update is not available via API", variant: "destructive" });
-        return;
+        const result = await updateIn("announcements", { id: `eq.${editingAnnouncement.id}` }, payload);
+        if (result.error) throw new Error(result.error);
+        toast({ title: "Announcement updated" });
+      } else {
+        const result = await insertInto("announcements", payload);
+        if (result.error) throw new Error(result.error);
+        toast({ title: "Announcement created" });
       }
 
-      const res = await fetch("/api/admin/announcements", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-      });
-      if (!res.ok) throw new Error("Failed to create announcement");
-
-      toast({ title: "Announcement created" });
       setAnnouncementDialogOpen(false);
       resetAnnouncementForm();
       fetchContent();
@@ -1113,9 +1198,15 @@ export default function AdminPanel() {
     }
   };
 
-  const deleteAnnouncement = async (_ann: Announcement) => {
-    // No delete API available for announcements
-    toast({ title: "Not supported", description: "Announcement deletion is not available via API", variant: "destructive" });
+  const deleteAnnouncement = async (ann: Announcement) => {
+    try {
+      const result = await deleteFrom("announcements", { id: `eq.${ann.id}` });
+      if (result.error) throw new Error(result.error);
+      toast({ title: "Announcement deleted" });
+      fetchContent();
+    } catch {
+      toast({ title: "Error", description: "Failed to delete announcement", variant: "destructive" });
+    }
     setDeleteAnnouncementDialog(null);
   };
 
@@ -1124,19 +1215,24 @@ export default function AdminPanel() {
   const saveSettings = async () => {
     setSettingsSaving(true);
     try {
-      const res = await fetch("/api/admin/settings", {
-        method: "PATCH",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          siteName: settings.siteName || "",
-          whatsappNumber: settings.whatsapp || "",
-          currency: settings.currency || "USD",
-          currencyJPY: settings.jpyRate || "149.5",
-          currencyEUR: settings.eurRate || "0.92",
-          currencyGBP: settings.gbpRate || "0.79",
-        }),
-      });
-      if (!res.ok) throw new Error("Failed to save settings");
+      // Upsert each setting as a key-value pair in site_settings table
+      const settingsToSave: Record<string, string> = {
+        siteName: settings.siteName || "",
+        whatsappNumber: settings.whatsapp || "",
+        currency: settings.currency || "USD",
+        currencyJPY: settings.jpyRate || "149.5",
+        currencyEUR: settings.eurRate || "0.92",
+        currencyGBP: settings.gbpRate || "0.79",
+      };
+
+      for (const [key, value] of Object.entries(settingsToSave)) {
+        // Try update first, then insert if key doesn't exist
+        const updateResult = await updateIn("site_settings", { key: `eq.${key}` }, { value });
+        if (updateResult.error || !updateResult.data?.length) {
+          // Key doesn't exist, insert it
+          await insertInto("site_settings", { key, value });
+        }
+      }
 
       toast({ title: "Settings saved", description: "All settings updated successfully" });
     } catch {
@@ -1148,33 +1244,30 @@ export default function AdminPanel() {
 
   const seedDatabase = async () => {
     try {
-      // Seed products via API
+      // Seed products via Supabase REST
       const productsRes = await fetch("/products.json");
       const productsJson: Record<string, unknown>[] = await productsRes.json();
 
       for (const p of productsJson) {
-        await fetch("/api/admin/products", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            title: p.title as string,
-            price: p.price as number,
-            originalPrice: (p.original_price as number) ?? null,
-            image: p.image as string,
-            images: p.images ? [p.image, ...(p.images as string[])] : [p.image],
-            description: (p.description as string) ?? null,
-            category: p.category as string,
-            categories: (p.categories as string[]) ?? [],
-            rating: (p.rating as number) ?? 4.5,
-            inStock: (p.in_stock as boolean) ?? true,
-            featured: false,
-            source: (p.source as string) ?? null,
-            sku: (p.sku as string) ?? null,
-          }),
+        await insertInto("products", {
+          title: p.title as string,
+          price: p.price as number,
+          original_price: (p.original_price as number) ?? null,
+          image: p.image as string,
+          images: JSON.stringify(p.images ? [p.image, ...(p.images as string[])] : [p.image]),
+          description: (p.description as string) ?? null,
+          category: p.category as string,
+          categories: JSON.stringify((p.categories as string[]) ?? []),
+          rating: (p.rating as number) ?? 4.5,
+          review_count: 0,
+          in_stock: (p.in_stock as boolean) ?? true,
+          featured: false,
+          source: (p.source as string) ?? null,
+          sku: (p.sku as string) ?? null,
         });
       }
 
-      // Seed hero slides via API
+      // Seed hero slides via Supabase REST
       const heroSlides = [
         { image: "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.avif", title: "Japanese Pokémon TCG", subtitle: "Direct from Akihabara — Authentic & Sealed", accent: "New Arrivals", order: 0, active: true },
         { image: "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif", title: "VSTAR Universe", subtitle: "Rare pulls & exclusive artwork from Japan", accent: "Limited Stock", order: 1, active: true },
@@ -1182,14 +1275,10 @@ export default function AdminPanel() {
         { image: "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif", title: "Snow Hazard Collection", subtitle: "Complete your Japanese set before they're gone", accent: "Sale", order: 3, active: true },
       ];
       for (const slide of heroSlides) {
-        await fetch("/api/admin/hero-slides", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(slide),
-        });
+        await insertInto("hero_slides", slide);
       }
 
-      // Seed announcements via API
+      // Seed announcements via Supabase REST
       const announcements = [
         { message: "Free Shipping on Orders Over $150", active: true, order: 0 },
         { message: "Direct from Japan — 100% Authentic Sealed Products", active: true, order: 1 },
@@ -1198,26 +1287,24 @@ export default function AdminPanel() {
         { message: "Guaranteed Authenticity on Every Item We Sell", active: true, order: 4 },
       ];
       for (const ann of announcements) {
-        await fetch("/api/admin/announcements", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(ann),
-        });
+        await insertInto("announcements", ann);
       }
 
-      // Seed site settings via API
-      await fetch("/api/admin/settings", {
-        method: "PATCH",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          siteName: "Akihabara TCG Warehouse",
-          whatsappNumber: "+81 80-2935-0455",
-          currency: "USD",
-          currencyJPY: "149.5",
-          currencyEUR: "0.92",
-          currencyGBP: "0.79",
-        }),
-      });
+      // Seed site settings via Supabase REST (upsert pattern)
+      const siteSettings = [
+        { key: "siteName", value: "Akihabara TCG Warehouse" },
+        { key: "whatsappNumber", value: "+81 80-2935-0455" },
+        { key: "currency", value: "USD" },
+        { key: "currencyJPY", value: "149.5" },
+        { key: "currencyEUR", value: "0.92" },
+        { key: "currencyGBP", value: "0.79" },
+      ];
+      for (const s of siteSettings) {
+        const updateResult = await updateIn("site_settings", { key: `eq.${s.key}` }, { value: s.value });
+        if (updateResult.error || !updateResult.data?.length) {
+          await insertInto("site_settings", s);
+        }
+      }
 
       toast({ title: "Database seeded", description: "Sample data has been loaded" });
       fetchStats();
@@ -3018,6 +3105,18 @@ export default function AdminPanel() {
 
         {/* Page Content */}
         <main className="p-4 lg:p-8">
+          {!isSupabaseConfigured() && (
+            <div className="mb-6 rounded-lg border border-amber-200 bg-amber-50 p-4 flex items-center gap-3">
+              <AlertTriangle className="text-amber-600 shrink-0" size={20} />
+              <div>
+                <p className="font-semibold text-amber-800">Supabase Not Configured</p>
+                <p className="text-sm text-amber-700">
+                  Set <code className="bg-amber-100 px-1 rounded">NEXT_PUBLIC_SUPABASE_URL</code> and{" "}
+                  <code className="bg-amber-100 px-1 rounded">NEXT_PUBLIC_SUPABASE_ANON_KEY</code> environment variables to enable data features.
+                </p>
+              </div>
+            </div>
+          )}
           <AnimatePresence mode="wait">
             <motion.div
               key={activePage}

@@ -321,25 +321,15 @@ export default function TCGStore() {
     s0.parentNode?.insertBefore(s1, s0);
   }, []);
 
-  // Fetch products from API (database-backed)
+  // Fetch products — try Supabase REST first, then static JSON
   useEffect(() => {
-    fetch("/api/products")
-      .then((res) => res.json())
-      .then((data: { products: Product[]; total: number }) => {
-        const cleaned = (data.products || [])
-          .filter((p) => p.id && p.title && p.price > 0 && p.image && p.category)
-          .map((p) => ({
-            ...p,
-            description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
-          }));
-        setProducts(cleaned);
-        setLoading(false);
-      })
-      .catch(() => {
-        // Fallback to static JSON if API fails
-        fetch("/products.json")
-          .then((res) => res.json())
-          .then((data: Product[]) => {
+    async function loadProducts() {
+      try {
+        // Try Supabase REST API (zero SDK, zero Proxy)
+        const { isSupabaseConfigured, getProducts } = await import("@/lib/supabase-rest");
+        if (isSupabaseConfigured()) {
+          const { data, error } = await getProducts();
+          if (data && !error && data.length > 0) {
             const cleaned = data
               .filter((p) => p.id && p.title && p.price > 0 && p.image && p.category)
               .map((p) => ({
@@ -348,9 +338,31 @@ export default function TCGStore() {
               }));
             setProducts(cleaned);
             setLoading(false);
-          })
-          .catch(() => setLoading(false));
-      });
+            return;
+          }
+        }
+      } catch {
+        // Supabase not configured or failed — fall through to static JSON
+      }
+
+      // Fallback: load from static products.json (always works, zero dependency)
+      try {
+        const res = await fetch("/products.json");
+        const data: Product[] = await res.json();
+        const cleaned = data
+          .filter((p) => p.id && p.title && p.price > 0 && p.image && p.category)
+          .map((p) => ({
+            ...p,
+            description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
+          }));
+        setProducts(cleaned);
+      } catch {
+        // Silent fail
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadProducts();
   }, []);
 
   // Hero carousel auto-play
@@ -1994,34 +2006,42 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
     try {
       const orderId = "AKI-" + Date.now().toString(36).toUpperCase();
 
-      // Submit order via API
-      const res = await fetch("/api/orders", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          customerName,
-          customerEmail,
-          customerPhone,
-          shippingAddress,
-          shippingCity,
-          shippingCountry,
-          shippingZip,
-          paymentMethod,
-          notes,
-          items: cart.map((item) => ({
-            productId: item.product.id,
-            title: item.product.title,
-            price: item.product.price,
-            quantity: item.quantity,
-            image: item.product.image,
-          })),
-        }),
-      });
+      // Try Supabase REST API first (zero SDK, zero Proxy — works on every browser)
+      const { isSupabaseConfigured, createOrder, storeOrderLocally } = await import("@/lib/supabase-rest");
 
-      if (!res.ok) {
-        const errData = await res.json().catch(() => ({}));
-        alert(errData.error || "Failed to place order. Please try again.");
-        return;
+      const orderItems = cart.map((item) => ({
+        product_id: item.product.id,
+        title: item.product.title,
+        price: item.product.price,
+        quantity: item.quantity,
+        image: item.product.image,
+      }));
+
+      const orderData = {
+        id: orderId,
+        total: grandTotal,
+        status: "pending",
+        customer_name: customerName,
+        customer_email: customerEmail,
+        customer_phone: customerPhone,
+        shipping_address: shippingAddress,
+        shipping_city: shippingCity,
+        shipping_country: shippingCountry,
+        shipping_zip: shippingZip,
+        payment_method: paymentMethod,
+        notes,
+        created_at: new Date().toISOString(),
+      };
+
+      if (isSupabaseConfigured()) {
+        const { error } = await createOrder(orderData, orderItems);
+        if (error) {
+          alert(error || "Failed to place order. Please try again.");
+          return;
+        }
+      } else {
+        // No Supabase — store locally
+        storeOrderLocally(orderData, orderItems);
       }
 
       setOrderId(orderId);
