@@ -104,7 +104,7 @@ import {
   Area,
   AreaChart,
 } from "recharts";
-// Supabase removed — using API routes instead
+// Using Next.js API routes with Prisma/SQLite — no external SDK dependencies
 
 /* ─────────── Types ─────────── */
 
