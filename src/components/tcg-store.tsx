@@ -293,6 +293,7 @@ export default function TCGStore() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [currentPage, setCurrentPage] = useState<PageView>("shop");
+  const [currentUser, setCurrentUser] = useState<{ id: string; email: string; name: string } | null>(null);
   const [visibleCount, setVisibleCount] = useState(12);
 
   // Group products by category for homepage 2-per-category display
@@ -325,6 +326,15 @@ export default function TCGStore() {
       s0.parentNode?.insertBefore(s1, s0);
     }, 5000);
     return () => clearTimeout(timer);
+  }, []);
+
+  // Restore user session on mount
+  useEffect(() => {
+    import("@/lib/supabase-rest").then(({ getCurrentUser }) => {
+      getCurrentUser().then(({ user }) => {
+        if (user) setCurrentUser({ id: user.id, email: user.email, name: user.name || "" });
+      });
+    });
   }, []);
 
   // Fetch products — try Supabase REST first, then static JSON
@@ -520,6 +530,7 @@ export default function TCGStore() {
                 { label: "Shipping", page: "shipping" as PageView },
                 { label: "FAQ", page: "faq" as PageView },
                 { label: "Contact", page: "contact" as PageView },
+                { label: currentUser ? (currentUser.name || currentUser.email) : "Sign In", page: currentUser ? "shop" as PageView : "signin" as PageView },
               ].map((item) => (
                 <button
                   key={item.label}
@@ -612,6 +623,7 @@ export default function TCGStore() {
                     { label: "Shipping", page: "shipping" as PageView },
                     { label: "FAQ", page: "faq" as PageView },
                     { label: "Contact", page: "contact" as PageView },
+                    { label: currentUser ? (currentUser.name || currentUser.email) : "Sign In", page: currentUser ? "shop" as PageView : "signin" as PageView },
                   ].map((item) => (
                     <button
                       key={item.label}
@@ -640,7 +652,7 @@ export default function TCGStore() {
         {currentPage === "shipping" && <ShippingPage />}
         {currentPage === "faq" && <FAQPage />}
         {currentPage === "contact" && <ContactPage />}
-        {currentPage === "signin" && <SignInPage />}
+        {currentPage === "signin" && <SignInPage onSignIn={(user) => { setCurrentUser(user); navigateTo("shop"); }} />}
         {currentPage === "checkout" && <CheckoutPage cart={cart} cartTotal={cartTotal} currency={currency} navigateTo={navigateTo} clearCart={clearCart} />}
       </main>
 
@@ -681,7 +693,7 @@ export default function TCGStore() {
                   { label: "Shipping Policy", page: "shipping" as PageView },
                   { label: "FAQ", page: "faq" as PageView },
                   { label: "Contact Us", page: "contact" as PageView },
-                  { label: "Sign In / Sign Up", page: "signin" as PageView },
+                  { label: currentUser ? `Hi, ${currentUser.name || currentUser.email}` : "Sign In / Sign Up", page: currentUser ? "shop" as PageView : "signin" as PageView },
                 ].map((link) => (
                   <li key={link.label}>
                     <button
@@ -1728,12 +1740,74 @@ function ContactPage() {
 
 /* ─────────── Sign In / Sign Up Page ─────────── */
 
-function SignInPage() {
+function SignInPage({ onSignIn }: { onSignIn: (user: { id: string; email: string; name: string }) => void }) {
   const [isSignUp, setIsSignUp] = useState(false);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [name, setName] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
+  const [success, setSuccess] = useState("");
+
+  const handleSignUp = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setError("");
+    setSuccess("");
+
+    if (!name.trim()) { setError("Please enter your full name."); return; }
+    if (!email.trim()) { setError("Please enter your email address."); return; }
+    if (password.length < 6) { setError("Password must be at least 6 characters."); return; }
+    if (password !== confirmPassword) { setError("Passwords do not match."); return; }
+
+    setLoading(true);
+    try {
+      const { signUp, saveLocalUserCredentials, isSupabaseConfigured } = await import("@/lib/supabase-rest");
+      const { user, error: signUpError } = await signUp(email, password, name);
+
+      if (signUpError) { setError(signUpError); return; }
+
+      if (!isSupabaseConfigured() && user) {
+        saveLocalUserCredentials(email, password, name);
+      }
+
+      if (user) {
+        if (user.access_token) {
+          onSignIn({ id: user.id, email: user.email, name: user.name || name });
+          setSuccess("Account created successfully! Welcome aboard.");
+        } else {
+          setSuccess("Account created! Please check your email to confirm your account, then sign in.");
+          setIsSignUp(false);
+          setPassword("");
+          setConfirmPassword("");
+        }
+      }
+    } catch { setError("Something went wrong. Please try again."); }
+    finally { setLoading(false); }
+  };
+
+  const handleSignIn = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setError("");
+    setSuccess("");
+
+    if (!email.trim()) { setError("Please enter your email address."); return; }
+    if (!password) { setError("Please enter your password."); return; }
+
+    setLoading(true);
+    try {
+      const { signIn: signInFn } = await import("@/lib/supabase-rest");
+      const { user, error: signInError } = await signInFn(email, password);
+
+      if (signInError) { setError(signInError); return; }
+
+      if (user) {
+        onSignIn({ id: user.id, email: user.email, name: user.name || "" });
+        setSuccess("Welcome back!");
+      }
+    } catch { setError("Something went wrong. Please try again."); }
+    finally { setLoading(false); }
+  };
 
   return (
     <div>
@@ -1752,61 +1826,67 @@ function SignInPage() {
       <section className="bg-violet-50 py-16">
         <div className="max-w-md mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-white rounded-xl p-8 shadow-sm border border-gray-100">
+            {error && (
+              <div className="mb-4 p-3 bg-red-50 border border-red-200 rounded-lg text-[13px] text-red-700">{error}</div>
+            )}
+            {success && (
+              <div className="mb-4 p-3 bg-green-50 border border-green-200 rounded-lg text-[13px] text-green-700">{success}</div>
+            )}
+
             {isSignUp ? (
-              /* Sign Up Form */
-              <div className="space-y-4">
+              <form onSubmit={handleSignUp} className="space-y-4">
                 <div>
                   <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Full Name</label>
-                  <Input placeholder="Enter your full name" value={name} onChange={(e) => setName(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                  <Input placeholder="Enter your full name" value={name} onChange={(e) => setName(e.target.value)} className="h-10 text-[13px] border-gray-200" disabled={loading} />
                 </div>
                 <div>
                   <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Email Address</label>
-                  <Input type="email" placeholder="you@example.com" value={email} onChange={(e) => setEmail(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                  <Input type="email" placeholder="you@example.com" value={email} onChange={(e) => setEmail(e.target.value)} className="h-10 text-[13px] border-gray-200" disabled={loading} />
                 </div>
                 <div>
                   <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Password</label>
-                  <Input type="password" placeholder="Create a password" value={password} onChange={(e) => setPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                  <Input type="password" placeholder="Create a password (min 6 characters)" value={password} onChange={(e) => setPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" disabled={loading} />
                 </div>
                 <div>
                   <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Confirm Password</label>
-                  <Input type="password" placeholder="Confirm your password" value={confirmPassword} onChange={(e) => setConfirmPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                  <Input type="password" placeholder="Confirm your password" value={confirmPassword} onChange={(e) => setConfirmPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" disabled={loading} />
                 </div>
-                <Button className="w-full bg-purple-950 hover:bg-purple-800 text-white font-semibold h-11 text-[14px]">
-                  Create Account
+                <Button type="submit" className="w-full bg-purple-950 hover:bg-purple-800 text-white font-semibold h-11 text-[14px]" disabled={loading}>
+                  {loading ? "Creating Account..." : "Create Account"}
                 </Button>
                 <p className="text-[12px] text-gray-500 text-center mt-4">
                   By creating an account, you agree to our Terms of Service and Privacy Policy.
                 </p>
-              </div>
+              </form>
             ) : (
-              /* Sign In Form */
-              <div className="space-y-4">
+              <form onSubmit={handleSignIn} className="space-y-4">
                 <div>
                   <label className="text-[12px] font-medium text-gray-700 mb-1.5 block">Email Address</label>
-                  <Input type="email" placeholder="you@example.com" value={email} onChange={(e) => setEmail(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                  <Input type="email" placeholder="you@example.com" value={email} onChange={(e) => setEmail(e.target.value)} className="h-10 text-[13px] border-gray-200" disabled={loading} />
                 </div>
                 <div>
                   <div className="flex items-center justify-between mb-1.5">
                     <label className="text-[12px] font-medium text-gray-700">Password</label>
-                    <a href="#" className="text-[11px] text-violet-400 hover:underline">Forgot password?</a>
+                    <button type="button" className="text-[11px] text-violet-400 hover:underline">Forgot password?</button>
                   </div>
-                  <Input type="password" placeholder="Enter your password" value={password} onChange={(e) => setPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" />
+                  <Input type="password" placeholder="Enter your password" value={password} onChange={(e) => setPassword(e.target.value)} className="h-10 text-[13px] border-gray-200" disabled={loading} />
                 </div>
                 <div className="flex items-center gap-2">
                   <input type="checkbox" id="remember" className="rounded border-gray-300" />
                   <label htmlFor="remember" className="text-[12px] text-gray-600">Remember me</label>
                 </div>
-                <Button className="w-full bg-purple-950 hover:bg-purple-800 text-white font-semibold h-11 text-[14px]">
-                  Sign In
+                <Button type="submit" className="w-full bg-purple-950 hover:bg-purple-800 text-white font-semibold h-11 text-[14px]" disabled={loading}>
+                  {loading ? "Signing In..." : "Sign In"}
                 </Button>
-              </div>
+              </form>
             )}
 
             <div className="mt-6 pt-6 border-t border-gray-100">
               <p className="text-[12px] text-gray-500 text-center">
                 {isSignUp ? "Already have an account?" : "Don't have an account?"}{" "}
                 <button
-                  onClick={() => { setIsSignUp(!isSignUp); setEmail(""); setPassword(""); setName(""); setConfirmPassword(""); }}
+                  type="button"
+                  onClick={() => { setIsSignUp(!isSignUp); setError(""); setSuccess(""); setEmail(""); setPassword(""); setName(""); setConfirmPassword(""); }}
                   className="text-violet-400 font-semibold hover:underline"
                 >
                   {isSignUp ? "Sign In" : "Sign Up"}
@@ -1815,7 +1895,6 @@ function SignInPage() {
             </div>
           </div>
 
-          {/* Benefits */}
           <div className="mt-8 space-y-3">
             {[
               { icon: Shield, text: "Secure checkout with SSL encryption" },
