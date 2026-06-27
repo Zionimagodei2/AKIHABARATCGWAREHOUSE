@@ -169,10 +169,7 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-        <link rel="preload" href="/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.avif" as="image" />
-        <link rel="preload" href="/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif" as="image" />
-        <link rel="preload" href="/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif" as="image" />
-        <link rel="preload" href="/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif" as="image" />
+        <link rel="preload" href="/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.webp" as="image" />
         <link rel="preload" href="/logo.png?v=3" as="image" />
       </head>
       <body

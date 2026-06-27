@@ -1269,10 +1269,10 @@ export default function AdminPanel() {
 
       // Seed hero slides via Supabase REST
       const heroSlides = [
-        { image: "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.avif", title: "Japanese Pokémon TCG", subtitle: "Direct from Akihabara — Authentic & Sealed", accent: "New Arrivals", order: 0, active: true },
-        { image: "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif", title: "VSTAR Universe", subtitle: "Rare pulls & exclusive artwork from Japan", accent: "Limited Stock", order: 1, active: true },
-        { image: "/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif", title: "Ruler of the Black Flame", subtitle: "Charizard ex & more — Sealed Booster Boxes", accent: "Hot", order: 2, active: true },
-        { image: "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif", title: "Snow Hazard Collection", subtitle: "Complete your Japanese set before they're gone", accent: "Sale", order: 3, active: true },
+        { image: "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.webp", title: "Japanese Pokémon TCG", subtitle: "Direct from Akihabara — Authentic & Sealed", accent: "New Arrivals", order: 0, active: true },
+        { image: "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp", title: "VSTAR Universe", subtitle: "Rare pulls & exclusive artwork from Japan", accent: "Limited Stock", order: 1, active: true },
+        { image: "/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp", title: "Ruler of the Black Flame", subtitle: "Charizard ex & more — Sealed Booster Boxes", accent: "Hot", order: 2, active: true },
+        { image: "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp", title: "Snow Hazard Collection", subtitle: "Complete your Japanese set before they're gone", accent: "Sale", order: 3, active: true },
       ];
       for (const slide of heroSlides) {
         await insertInto("hero_slides", slide);

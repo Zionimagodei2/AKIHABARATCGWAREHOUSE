@@ -68,10 +68,10 @@ interface Product {
   image: string;
   description?: string;
   category: string;
+  subcategory?: string;
   categories?: string[];
   rating?: number;
   in_stock?: boolean;
-  source?: string;
 }
 
 interface CartItem {
@@ -124,12 +124,13 @@ function ProductImg({ src, alt, fill, className, sizes, priority, width, height 
         priority={priority}
         width={fill ? undefined : width}
         height={fill ? undefined : height}
+        decoding="async"
         onError={() => setImgError(true)}
       />
     );
   }
 
-  const imgSrc = imgError ? "/images/existing/ONE.jpg" : src;
+  const imgSrc = imgError ? "/images/existing/ONE.webp" : src;
 
   return (
     <img
@@ -141,11 +142,12 @@ function ProductImg({ src, alt, fill, className, sizes, priority, width, height 
       style={fill ? { position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" } : { width: width || "100%", height: height || "100%", objectFit: "contain" }}
       onError={(e) => {
         const target = e.target as HTMLImageElement;
-        if (target.src !== window.location.origin + "/images/existing/ONE.jpg") {
-          target.src = "/images/existing/ONE.jpg";
+        if (target.src !== window.location.origin + "/images/existing/ONE.webp") {
+          target.src = "/images/existing/ONE.webp";
         }
       }}
       loading={priority ? "eager" : "lazy"}
+      decoding="async"
       fetchPriority={priority ? "high" : undefined}
     />
   );
@@ -199,25 +201,25 @@ const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
 
 const HERO_SLIDES = [
   {
-    image: "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.avif",
+    image: "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.webp",
     title: "Japanese Pokémon TCG",
     subtitle: "Direct from Akihabara — Authentic & Sealed",
     accent: "New Arrivals",
   },
   {
-    image: "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif",
+    image: "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp",
     title: "VSTAR Universe",
     subtitle: "Rare pulls & exclusive artwork from Japan",
     accent: "Limited Stock",
   },
   {
-    image: "/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif",
+    image: "/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp",
     title: "Ruler of the Black Flame",
     subtitle: "Charizard ex & more — Sealed Booster Boxes",
     accent: "Hot",
   },
   {
-    image: "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif",
+    image: "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp",
     title: "Snow Hazard Collection",
     subtitle: "Complete your Japanese set before they're gone",
     accent: "Sale",
@@ -291,6 +293,7 @@ export default function TCGStore() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [currentPage, setCurrentPage] = useState<PageView>("shop");
+  const [visibleCount, setVisibleCount] = useState(12);
 
   // Group products by category for homepage 2-per-category display
   const productsByCategory = useMemo(() => {
@@ -303,22 +306,25 @@ export default function TCGStore() {
     return groups;
   }, [products]);
 
-  // Load Tawk.to live chat (native widget only — no custom button)
+  // Load Tawk.to live chat after a 5-second delay so it doesn't block initial page load
   useEffect(() => {
     if (typeof window === "undefined") return;
-    if (document.getElementById("tawk-script")) return;
+    const timer = setTimeout(() => {
+      if (document.getElementById("tawk-script")) return;
 
-    // Define Tawk_API before the script loads
-    (window as Record<string, unknown>).Tawk_API = (window as Record<string, unknown>).Tawk_API || {};
+      // Define Tawk_API before the script loads
+      (window as Record<string, unknown>).Tawk_API = (window as Record<string, unknown>).Tawk_API || {};
 
-    const s1 = document.createElement("script");
-    s1.id = "tawk-script";
-    s1.async = true;
-    s1.src = "https://embed.tawk.to/6a37ce08b40d591d46abba12/1jrkvpkov";
-    s1.charset = "UTF-8";
-    s1.setAttribute("crossorigin", "*");
-    const s0 = document.getElementsByTagName("script")[0];
-    s0.parentNode?.insertBefore(s1, s0);
+      const s1 = document.createElement("script");
+      s1.id = "tawk-script";
+      s1.async = true;
+      s1.src = "https://embed.tawk.to/6a37ce08b40d591d46abba12/1jrkvpkov";
+      s1.charset = "UTF-8";
+      s1.setAttribute("crossorigin", "*");
+      const s0 = document.getElementsByTagName("script")[0];
+      s0.parentNode?.insertBefore(s1, s0);
+    }, 5000);
+    return () => clearTimeout(timer);
   }, []);
 
   // Fetch products — try Supabase REST first, then static JSON
@@ -353,6 +359,7 @@ export default function TCGStore() {
           .filter((p) => p.id && p.title && p.price > 0 && p.image && p.category)
           .map((p) => ({
             ...p,
+            subcategory: p.categories && p.categories.length > 1 ? p.categories[1] : undefined,
             description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
           }));
         setProducts(cleaned);
@@ -628,7 +635,7 @@ export default function TCGStore() {
 
       {/* ─── Main Content ─── */}
       <main className="flex-1">
-        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} selectedSubcategory={selectedSubcategory} setSelectedSubcategory={setSelectedSubcategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} />}
+        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} selectedSubcategory={selectedSubcategory} setSelectedSubcategory={setSelectedSubcategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} visibleCount={visibleCount} setVisibleCount={setVisibleCount} />}
         {currentPage === "about" && <AboutPage />}
         {currentPage === "shipping" && <ShippingPage />}
         {currentPage === "faq" && <FAQPage />}
@@ -889,7 +896,7 @@ export default function TCGStore() {
 
 /* ─────────── Shop Page ─────────── */
 
-function ShopPage({ products, loading, selectedCategory, setSelectedCategory, selectedSubcategory, setSelectedSubcategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory }: {
+function ShopPage({ products, loading, selectedCategory, setSelectedCategory, selectedSubcategory, setSelectedSubcategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory, visibleCount, setVisibleCount }: {
   products: Product[]; loading: boolean; selectedCategory: string; setSelectedCategory: (v: string) => void;
   selectedSubcategory: string; setSelectedSubcategory: (v: string) => void;
   searchQuery: string; sortOption: SortOption; setSortOption: (v: SortOption) => void;
@@ -898,6 +905,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
   heroIndex: number; setHeroIndex: (v: number) => void;
   scrollToSection: (id: string) => void;
   productsByCategory: Record<string, Product[]>;
+  visibleCount: number; setVisibleCount: (v: number) => void;
 }) {
   // Determine if we show the homepage category showcase or the full product grid
   const isHomepageView = selectedCategory === "all" && !searchQuery.trim();
@@ -923,7 +931,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 transition={{ duration: 0.5 }}
                 className="relative h-64 sm:h-80 lg:h-[420px] w-full"
               >
-                <ProductImg src={HERO_SLIDES[heroIndex].image} alt={HERO_SLIDES[heroIndex].title} fill className="object-cover" priority sizes="100vw" />
+                <ProductImg src={HERO_SLIDES[heroIndex].image} alt={HERO_SLIDES[heroIndex].title} fill className="object-cover" priority={heroIndex === 0} sizes="100vw" />
                 <div className="absolute inset-0 bg-gradient-to-r from-purple-950/90 via-purple-900/60 to-transparent" style={{background: "linear-gradient(to right, rgba(59,7,100,0.9), rgba(88,28,135,0.6), transparent)"}} />
                 <div className="absolute inset-0 flex items-center px-8 sm:px-12 lg:px-16">
                   <div className="max-w-lg">
@@ -1109,11 +1117,19 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
               {Array.from({ length: 8 }).map((_, i) => (
                 <div key={i} className="bg-white/95 rounded-xl overflow-hidden shadow-md border border-purple-100/50">
-                  <div className="aspect-square animate-shimmer" />
+                  <div className="relative aspect-square bg-gradient-to-br from-purple-50/50 to-white animate-shimmer" />
                   <div className="p-2.5 space-y-2">
+                    <div className="h-3 bg-gray-200 rounded animate-shimmer w-1/4" />
                     <div className="h-3 bg-gray-200 rounded animate-shimmer w-3/4" />
-                    <div className="h-3 bg-gray-200 rounded animate-shimmer w-1/2" />
-                    <div className="h-6 bg-gray-200 rounded animate-shimmer w-1/3" />
+                    <div className="flex gap-0.5">
+                      {Array.from({ length: 5 }).map((_, j) => (
+                        <div key={j} className="size-3.5 bg-gray-200 rounded animate-shimmer" />
+                      ))}
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="h-5 bg-gray-200 rounded animate-shimmer w-1/3" />
+                      <div className="h-4 bg-gray-200 rounded animate-shimmer w-1/4" />
+                    </div>
                   </div>
                 </div>
               ))}
@@ -1167,13 +1183,25 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               </Button>
             </div>
           ) : (
-            <motion.div layout className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
-              <AnimatePresence mode="popLayout">
-                {filteredProducts.map((product) => (
-                  <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
-                ))}
-              </AnimatePresence>
-            </motion.div>
+            <>
+              <motion.div layout className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+                <AnimatePresence mode="popLayout">
+                  {filteredProducts.slice(0, visibleCount).map((product) => (
+                    <ProductCard key={product.id} product={product} currency={currency} onOpen={openProductModal} onAddToCart={addToCart} />
+                  ))}
+                </AnimatePresence>
+              </motion.div>
+              {visibleCount < filteredProducts.length && (
+                <div className="flex justify-center mt-8">
+                  <Button
+                    onClick={() => setVisibleCount((prev) => prev + 12)}
+                    className="bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white font-semibold px-8 py-3 text-[14px] rounded-lg border border-white/20 transition-all hover:-translate-y-0.5"
+                  >
+                    Load More Products ({filteredProducts.length - visibleCount} remaining)
+                  </Button>
+                </div>
+              )}
+            </>
           )}
         </div>
       </section>
