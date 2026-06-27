@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useMemo, useCallback, useEffect, useRef } from "react";
-import { supabase } from "@/lib/supabase";
+
 import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -321,25 +321,36 @@ export default function TCGStore() {
     s0.parentNode?.insertBefore(s1, s0);
   }, []);
 
-  // Fetch products — new format already has 12% discount applied
+  // Fetch products from API (database-backed)
   useEffect(() => {
-    fetch("/products.json")
+    fetch("/api/products")
       .then((res) => res.json())
-      .then((data: Product[]) => {
-        const cleaned = data
+      .then((data: { products: Product[]; total: number }) => {
+        const cleaned = (data.products || [])
           .filter((p) => p.id && p.title && p.price > 0 && p.image && p.category)
-          .map((p) => {
-            // New scraped data: price is already our selling price (12% off fujicards)
-            // original_price is fujicards price
-            return {
-              ...p,
-              description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
-            };
-          });
+          .map((p) => ({
+            ...p,
+            description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
+          }));
         setProducts(cleaned);
         setLoading(false);
       })
-      .catch(() => setLoading(false));
+      .catch(() => {
+        // Fallback to static JSON if API fails
+        fetch("/products.json")
+          .then((res) => res.json())
+          .then((data: Product[]) => {
+            const cleaned = data
+              .filter((p) => p.id && p.title && p.price > 0 && p.image && p.category)
+              .map((p) => ({
+                ...p,
+                description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
+              }));
+            setProducts(cleaned);
+            setLoading(false);
+          })
+          .catch(() => setLoading(false));
+      });
   }, []);
 
   // Hero carousel auto-play
@@ -1983,71 +1994,34 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
     try {
       const orderId = "AKI-" + Date.now().toString(36).toUpperCase();
 
-      // Try Supabase if configured
-      const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-      if (supabaseUrl) {
-        const { error: orderError } = await supabase.from("orders").insert({
-          id: orderId,
-          user_id: null,
-          total: grandTotal,
-          status: "pending",
-          customer_name: customerName,
-          customer_email: customerEmail,
-          customer_phone: customerPhone,
-          shipping_address: shippingAddress,
-          shipping_city: shippingCity,
-          shipping_country: shippingCountry,
-          shipping_zip: shippingZip,
-          payment_method: paymentMethod,
-          notes,
-        });
-
-        if (orderError) {
-          alert(orderError.message || "Failed to place order. Please try again.");
-          return;
-        }
-
-        const orderItems = cart.map((item) => ({
-          order_id: orderId,
-          product_id: item.product.id,
-          title: item.product.title,
-          price: item.product.price,
-          quantity: item.quantity,
-          image: item.product.image,
-        }));
-
-        const { error: itemsError } = await supabase.from("order_items").insert(orderItems);
-
-        if (itemsError) {
-          alert(itemsError.message || "Failed to place order. Please try again.");
-          return;
-        }
-      } else {
-        // No Supabase — store order locally
-        const localOrders = JSON.parse(localStorage.getItem("aki_orders") || "[]");
-        localOrders.push({
-          id: orderId,
-          total: grandTotal,
-          status: "pending",
-          customer_name: customerName,
-          customer_email: customerEmail,
-          customer_phone: customerPhone,
-          shipping_address: shippingAddress,
-          shipping_city: shippingCity,
-          shipping_country: shippingCountry,
-          shipping_zip: shippingZip,
-          payment_method: paymentMethod,
+      // Submit order via API
+      const res = await fetch("/api/orders", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          customerName,
+          customerEmail,
+          customerPhone,
+          shippingAddress,
+          shippingCity,
+          shippingCountry,
+          shippingZip,
+          paymentMethod,
           notes,
           items: cart.map((item) => ({
-            product_id: item.product.id,
+            productId: item.product.id,
             title: item.product.title,
             price: item.product.price,
             quantity: item.quantity,
             image: item.product.image,
           })),
-          created_at: new Date().toISOString(),
-        });
-        localStorage.setItem("aki_orders", JSON.stringify(localOrders));
+        }),
+      });
+
+      if (!res.ok) {
+        const errData = await res.json().catch(() => ({}));
+        alert(errData.error || "Failed to place order. Please try again.");
+        return;
       }
 
       setOrderId(orderId);

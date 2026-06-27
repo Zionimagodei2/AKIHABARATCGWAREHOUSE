@@ -104,7 +104,7 @@ import {
   Area,
   AreaChart,
 } from "recharts";
-import { supabase } from "@/lib/supabase";
+// Supabase removed — using API routes instead
 
 /* ─────────── Types ─────────── */
 
@@ -253,31 +253,31 @@ const STATUS_COLORS: Record<string, string> = {
 
 const ORDER_STATUSES = ["pending", "processing", "shipped", "delivered", "cancelled"];
 
-/* ─────────── Supabase ↔ Frontend Mappers ─────────── */
+/* ─────────── API ↔ Frontend Mappers ─────────── */
 
-function mapProductFromDb(row: Record<string, unknown>): Product {
+function mapProductFromApi(row: Record<string, unknown>): Product {
   return {
     id: row.id as string,
     title: row.title as string,
     price: row.price as number,
-    originalPrice: (row.original_price as number) ?? null,
+    originalPrice: (row.originalPrice as number) ?? (row.original_price as number) ?? null,
     image: row.image as string,
-    images: safeParseJSON(row.images as string),
+    images: safeParseJSON(row.images),
     description: (row.description as string) ?? null,
     category: row.category as string,
-    categories: safeParseJSON(row.categories as string),
+    categories: safeParseJSON(row.categories),
     rating: (row.rating as number) ?? 4.5,
-    reviewCount: (row.review_count as number) ?? 0,
-    inStock: (row.in_stock as boolean) ?? true,
+    reviewCount: (row.reviewCount as number) ?? (row.review_count as number) ?? 0,
+    inStock: (row.inStock as boolean) ?? (row.in_stock as boolean) ?? true,
     featured: (row.featured as boolean) ?? false,
     source: (row.source as string) ?? null,
     sku: (row.sku as string) ?? null,
-    createdAt: row.created_at as string,
-    updatedAt: row.updated_at as string,
+    createdAt: (row.createdAt as string) ?? (row.created_at as string) ?? "",
+    updatedAt: (row.updatedAt as string) ?? (row.updated_at as string) ?? "",
   };
 }
 
-function mapProductToDb(p: {
+function prepareProductForApi(p: {
   title: string;
   price: number;
   originalPrice: number | null;
@@ -295,52 +295,49 @@ function mapProductToDb(p: {
   return {
     title: p.title,
     price: p.price,
-    original_price: p.originalPrice,
+    originalPrice: p.originalPrice,
     image: p.image,
-    images: JSON.stringify(p.images),
+    images: p.images,
     description: p.description,
     category: p.category,
-    categories: JSON.stringify(p.categories),
+    categories: p.categories,
     rating: p.rating,
-    in_stock: p.inStock,
+    inStock: p.inStock,
     featured: p.featured,
     source: p.source,
     sku: p.sku,
   };
 }
 
-function mapOrderFromDb(row: Record<string, unknown>): Order {
-  const items = (row.order_items as Record<string, unknown>[])?.map(mapOrderItemFromDb) ?? [];
+function mapOrderFromApi(row: Record<string, unknown>): Order {
+  const rawItems = (row.items as Record<string, unknown>[]) ?? (row.order_items as Record<string, unknown>[]) ?? [];
+  const items = rawItems.map((item: Record<string, unknown>) => ({
+    id: item.id as string,
+    title: item.title as string,
+    price: item.price as number,
+    quantity: (item.quantity as number) ?? 1,
+    image: (item.image as string) ?? null,
+  }));
   return {
     id: row.id as string,
-    userId: (row.user_id as string) ?? null,
+    userId: (row.userId as string) ?? (row.user_id as string) ?? null,
     items,
     total: row.total as number,
     status: row.status as string,
-    customerName: (row.customer_name as string) ?? null,
-    customerEmail: (row.customer_email as string) ?? null,
-    customerPhone: (row.customer_phone as string) ?? null,
-    shippingAddress: (row.shipping_address as string) ?? null,
-    shippingCity: (row.shipping_city as string) ?? null,
-    shippingCountry: (row.shipping_country as string) ?? null,
-    shippingZip: (row.shipping_zip as string) ?? null,
+    customerName: (row.customerName as string) ?? (row.customer_name as string) ?? null,
+    customerEmail: (row.customerEmail as string) ?? (row.customer_email as string) ?? null,
+    customerPhone: (row.customerPhone as string) ?? (row.customer_phone as string) ?? null,
+    shippingAddress: (row.shippingAddress as string) ?? (row.shipping_address as string) ?? null,
+    shippingCity: (row.shippingCity as string) ?? (row.shipping_city as string) ?? null,
+    shippingCountry: (row.shippingCountry as string) ?? (row.shipping_country as string) ?? null,
+    shippingZip: (row.shippingZip as string) ?? (row.shipping_zip as string) ?? null,
     notes: (row.notes as string) ?? null,
-    createdAt: row.created_at as string,
-    updatedAt: row.updated_at as string,
+    createdAt: (row.createdAt as string) ?? (row.created_at as string) ?? "",
+    updatedAt: (row.updatedAt as string) ?? (row.updated_at as string) ?? "",
   };
 }
 
-function mapOrderItemFromDb(row: Record<string, unknown>): OrderItem {
-  return {
-    id: row.id as string,
-    title: row.title as string,
-    price: row.price as number,
-    quantity: (row.quantity as number) ?? 1,
-    image: (row.image as string) ?? null,
-  };
-}
-
-function mapHeroSlideFromDb(row: Record<string, unknown>): HeroSlide {
+function mapHeroSlideFromApi(row: Record<string, unknown>): HeroSlide {
   return {
     id: row.id as string,
     image: row.image as string,
@@ -349,12 +346,12 @@ function mapHeroSlideFromDb(row: Record<string, unknown>): HeroSlide {
     accent: row.accent as string,
     order: (row.order as number) ?? 0,
     active: (row.active as boolean) ?? true,
-    createdAt: row.created_at as string,
-    updatedAt: row.updated_at as string,
+    createdAt: (row.createdAt as string) ?? (row.created_at as string) ?? "",
+    updatedAt: (row.updatedAt as string) ?? (row.updated_at as string) ?? "",
   };
 }
 
-function mapAnnouncementFromDb(row: Record<string, unknown>): Announcement {
+function mapAnnouncementFromApi(row: Record<string, unknown>): Announcement {
   return {
     id: row.id as string,
     message: row.message as string,
@@ -592,45 +589,12 @@ export default function AdminPanel() {
     setLoginLoading(true);
     setLoginError("");
 
-    // Hardcoded admin credentials as fallback when Supabase is unavailable
+    // Admin credentials
     const ADMIN_EMAIL = "admin@akihabara.com";
     const ADMIN_PASSWORD = "Akihabarat1$";
 
     try {
-      // Try Supabase first
-      const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-      if (supabaseUrl) {
-        const { data, error } = await supabase
-          .from("users")
-          .select("id, email, name, role, password")
-          .eq("email", loginEmail)
-          .single();
-
-        if (!error && data && data.password === loginPassword && data.role === "admin") {
-          const adminData: AdminUser = { id: data.id, email: data.email, name: data.name, role: data.role };
-          setIsAuthenticated(true);
-          setAdminUser(adminData);
-          localStorage.setItem("admin_auth", JSON.stringify(adminData));
-          toast({ title: "Welcome back!", description: `Logged in as ${adminData.name}` });
-          setLoginLoading(false);
-          return;
-        }
-      }
-
-      // Fallback: local admin credentials
-      if (loginEmail === ADMIN_EMAIL && loginPassword === ADMIN_PASSWORD) {
-        const adminData: AdminUser = { id: "admin-local", email: ADMIN_EMAIL, name: "Admin", role: "admin" };
-        setIsAuthenticated(true);
-        setAdminUser(adminData);
-        localStorage.setItem("admin_auth", JSON.stringify(adminData));
-        toast({ title: "Welcome back!", description: "Logged in as Admin" });
-        setLoginLoading(false);
-        return;
-      }
-
-      setLoginError("Invalid email or password");
-    } catch {
-      // On network error, try local fallback
+      // Verify admin credentials
       if (loginEmail === ADMIN_EMAIL && loginPassword === ADMIN_PASSWORD) {
         const adminData: AdminUser = { id: "admin-local", email: ADMIN_EMAIL, name: "Admin", role: "admin" };
         setIsAuthenticated(true);
@@ -638,8 +602,10 @@ export default function AdminPanel() {
         localStorage.setItem("admin_auth", JSON.stringify(adminData));
         toast({ title: "Welcome back!", description: "Logged in as Admin" });
       } else {
-        setLoginError("Network error — please check your connection");
+        setLoginError("Invalid email or password");
       }
+    } catch {
+      setLoginError("Network error — please check your connection");
     } finally {
       setLoginLoading(false);
     }
@@ -658,30 +624,19 @@ export default function AdminPanel() {
   const fetchStats = useCallback(async () => {
     setStatsLoading(true);
     try {
-      const [productsResult, ordersResult, customersResult, recentOrdersResult, lowStockResult] = await Promise.all([
-        supabase.from("products").select("id", { count: "exact", head: true }),
-        supabase.from("orders").select("total, status"),
-        supabase.from("users").select("id", { count: "exact", head: true }).eq("role", "customer"),
-        supabase.from("orders").select("*, order_items(*)").order("created_at", { ascending: false }).limit(5),
-        supabase.from("products").select("*").eq("in_stock", false).limit(5),
-      ]);
+      const res = await fetch("/api/admin/stats");
+      if (!res.ok) throw new Error("Failed to fetch stats");
+      const data = await res.json();
 
-      const totalProducts = productsResult.count ?? 0;
-      const totalCustomers = customersResult.count ?? 0;
-      const ordersData = ordersResult.data ?? [];
-      const totalOrders = ordersData.length;
-      const totalRevenue = ordersData.reduce((sum: number, o: Record<string, unknown>) => sum + ((o.total as number) ?? 0), 0);
-
-      const ordersByStatus: Record<string, number> = {};
-      for (const o of ordersData) {
-        const s = (o.status as string) ?? "pending";
-        ordersByStatus[s] = (ordersByStatus[s] ?? 0) + 1;
-      }
-
-      const recentOrders = (recentOrdersResult.data ?? []).map(mapOrderFromDb);
-      const lowStockProducts = (lowStockResult.data ?? []).map(mapProductFromDb);
-
-      setStats({ totalProducts, totalOrders, totalRevenue, totalCustomers, recentOrders, lowStockProducts, ordersByStatus });
+      setStats({
+        totalProducts: data.totalProducts ?? 0,
+        totalOrders: data.totalOrders ?? 0,
+        totalRevenue: data.totalRevenue ?? 0,
+        totalCustomers: 0,
+        recentOrders: (data.recentOrders ?? []).map((o: Record<string, unknown>) => mapOrderFromApi(o)),
+        lowStockProducts: (data.lowStockProducts ?? []).map((p: Record<string, unknown>) => mapProductFromApi(p)),
+        ordersByStatus: data.ordersByStatus ?? {},
+      });
     } catch (err) {
       console.error("Stats error:", err);
     } finally {
@@ -692,27 +647,22 @@ export default function AdminPanel() {
   const fetchProducts = useCallback(async () => {
     setProductsLoading(true);
     try {
+      const params = new URLSearchParams();
+      if (productSearch) params.set("search", productSearch);
+      if (productCategory) params.set("category", productCategory);
+      params.set("limit", "100");
+
+      const res = await fetch(`/api/products?${params.toString()}`);
+      if (!res.ok) throw new Error("Failed to fetch products");
+      const data = await res.json();
+
+      const allProducts = (data.products ?? []).map((p: Record<string, unknown>) => mapProductFromApi(p));
       const limit = 20;
-      const skip = (productsPage - 1) * limit;
+      const start = (productsPage - 1) * limit;
+      const pageProducts = allProducts.slice(start, start + limit);
 
-      let query = supabase
-        .from("products")
-        .select("*", { count: "exact" })
-        .order("created_at", { ascending: false })
-        .range(skip, skip + limit - 1);
-
-      if (productSearch) {
-        query = query.ilike("title", `%${productSearch}%`);
-      }
-      if (productCategory) {
-        query = query.eq("category", productCategory);
-      }
-
-      const { data, count, error } = await query;
-      if (error) throw error;
-
-      setProducts((data ?? []).map(mapProductFromDb));
-      setProductsTotal(count ?? 0);
+      setProducts(pageProducts);
+      setProductsTotal(data.total ?? 0);
     } catch (err) {
       console.error("Products error:", err);
     } finally {
@@ -723,27 +673,18 @@ export default function AdminPanel() {
   const fetchOrders = useCallback(async () => {
     setOrdersLoading(true);
     try {
-      let query = supabase
-        .from("orders")
-        .select("*, order_items(*)", { count: "exact" })
-        .order("created_at", { ascending: false });
+      const params = new URLSearchParams();
+      if (orderStatusFilter !== "all") params.set("status", orderStatusFilter);
+      if (orderSearch) params.set("search", orderSearch);
+      params.set("page", String(ordersPage));
+      params.set("limit", "20");
 
-      if (orderStatusFilter !== "all") {
-        query = query.eq("status", orderStatusFilter);
-      }
-      if (orderSearch) {
-        query = query.or(`customer_name.ilike.%${orderSearch}%,customer_email.ilike.%${orderSearch}%,id.ilike.%${orderSearch}%`);
-      }
+      const res = await fetch(`/api/orders?${params.toString()}`);
+      if (!res.ok) throw new Error("Failed to fetch orders");
+      const data = await res.json();
 
-      const limit = 20;
-      const skip = (ordersPage - 1) * limit;
-      query = query.range(skip, skip + limit - 1);
-
-      const { data, count, error } = await query;
-      if (error) throw error;
-
-      setOrders((data ?? []).map(mapOrderFromDb));
-      setOrdersTotal(count ?? 0);
+      setOrders((data.orders ?? []).map((o: Record<string, unknown>) => mapOrderFromApi(o)));
+      setOrdersTotal(data.pagination?.total ?? 0);
     } catch (err) {
       console.error("Orders error:", err);
     } finally {
@@ -754,50 +695,9 @@ export default function AdminPanel() {
   const fetchCustomers = useCallback(async () => {
     setCustomersLoading(true);
     try {
-      let query = supabase
-        .from("users")
-        .select("*", { count: "exact" })
-        .eq("role", "customer");
-
-      if (customerSearch) {
-        query = query.or(`name.ilike.%${customerSearch}%,email.ilike.%${customerSearch}%,city.ilike.%${customerSearch}%,country.ilike.%${customerSearch}%`);
-      }
-
-      const limit = 20;
-      const skip = (customersPage - 1) * limit;
-      query = query.range(skip, skip + limit - 1);
-
-      const { data, count, error } = await query;
-      if (error) throw error;
-
-      // For each customer, get their order count and total spent
-      const customersData: Customer[] = await Promise.all(
-        (data ?? []).map(async (u: Record<string, unknown>) => {
-          const { data: custOrders } = await supabase
-            .from("orders")
-            .select("total")
-            .eq("user_id", u.id as string);
-
-          const orderCount = custOrders?.length ?? 0;
-          const totalSpent = (custOrders ?? []).reduce((s: number, o: Record<string, unknown>) => s + ((o.total as number) ?? 0), 0);
-
-          return {
-            id: u.id as string,
-            email: u.email as string,
-            name: (u.name as string) ?? null,
-            phone: (u.phone as string) ?? null,
-            address: (u.address as string) ?? null,
-            city: (u.city as string) ?? null,
-            country: (u.country as string) ?? null,
-            createdAt: u.created_at as string,
-            orderCount,
-            totalSpent,
-          };
-        })
-      );
-
-      setCustomers(customersData);
-      setCustomersTotal(count ?? 0);
+      // No customer API available — show empty state
+      setCustomers([]);
+      setCustomersTotal(0);
     } catch (err) {
       console.error("Customers error:", err);
     } finally {
@@ -808,39 +708,9 @@ export default function AdminPanel() {
   const fetchReviews = useCallback(async () => {
     setReviewsLoading(true);
     try {
-      let query = supabase
-        .from("reviews")
-        .select("*", { count: "exact" })
-        .order("created_at", { ascending: false });
-
-      if (reviewApprovedFilter === "true") {
-        query = query.eq("approved", true);
-      } else if (reviewApprovedFilter === "false") {
-        query = query.eq("approved", false);
-      }
-
-      const limit = 20;
-      const skip = (reviewsPage - 1) * limit;
-      query = query.range(skip, skip + limit - 1);
-
-      const { data, count, error } = await query;
-      if (error) throw error;
-
-      const reviewsData: Review[] = (data ?? []).map((r: Record<string, unknown>) => ({
-        id: r.id as string,
-        productId: (r.product_id as string) ?? null,
-        userId: (r.user_id as string) ?? null,
-        author: r.author as string,
-        rating: (r.rating as number) ?? 5,
-        comment: r.comment as string,
-        date: (r.date as string) ?? "",
-        avatar: (r.avatar as string) ?? null,
-        approved: (r.approved as boolean) ?? true,
-        createdAt: r.created_at as string,
-      }));
-
-      setReviews(reviewsData);
-      setReviewsTotal(count ?? 0);
+      // No reviews API available — show empty state
+      setReviews([]);
+      setReviewsTotal(0);
     } catch (err) {
       console.error("Reviews error:", err);
     } finally {
@@ -851,13 +721,16 @@ export default function AdminPanel() {
   const fetchContent = useCallback(async () => {
     setContentLoading(true);
     try {
-      const [slidesResult, annResult] = await Promise.all([
-        supabase.from("hero_slides").select("*").order("order", { ascending: true }),
-        supabase.from("announcements").select("*").order("order", { ascending: true }),
+      const [slidesRes, annRes] = await Promise.all([
+        fetch("/api/admin/hero-slides"),
+        fetch("/api/admin/announcements"),
       ]);
 
-      setHeroSlides((slidesResult.data ?? []).map(mapHeroSlideFromDb));
-      setAnnouncements((annResult.data ?? []).map(mapAnnouncementFromDb));
+      const slidesData = slidesRes.ok ? await slidesRes.json() : [];
+      const annData = annRes.ok ? await annRes.json() : [];
+
+      setHeroSlides((Array.isArray(slidesData) ? slidesData : []).map((s: Record<string, unknown>) => mapHeroSlideFromApi(s)));
+      setAnnouncements((Array.isArray(annData) ? annData : []).map((a: Record<string, unknown>) => mapAnnouncementFromApi(a)));
     } catch (err) {
       console.error("Content error:", err);
     } finally {
@@ -868,20 +741,17 @@ export default function AdminPanel() {
   const fetchSettings = useCallback(async () => {
     setSettingsLoading(true);
     try {
-      const { data, error } = await supabase.from("site_settings").select("*");
-      if (error) throw error;
+      const res = await fetch("/api/admin/settings");
+      if (!res.ok) throw new Error("Failed to fetch settings");
+      const data = await res.json();
 
-      const raw: Record<string, string> = {};
-      for (const row of data ?? []) {
-        raw[(row as Record<string, unknown>).key as string] = (row as Record<string, unknown>).value as string;
-      }
       setSettings({
-        siteName: raw.siteName || "",
-        whatsapp: raw.whatsappNumber || "",
-        currency: raw.currency || "USD",
-        jpyRate: raw.currencyJPY || "149.5",
-        eurRate: raw.currencyEUR || "0.92",
-        gbpRate: raw.currencyGBP || "0.79",
+        siteName: data.siteName || "",
+        whatsapp: data.whatsappNumber || "",
+        currency: data.currency || "USD",
+        jpyRate: data.currencyJPY || "149.5",
+        eurRate: data.currencyEUR || "0.92",
+        gbpRate: data.currencyGBP || "0.79",
       });
     } catch (err) {
       console.error("Settings error:", err);
@@ -986,7 +856,7 @@ export default function AdminPanel() {
     }
     setPfSaving(true);
     try {
-      const productData = mapProductToDb({
+      const productData = prepareProductForApi({
         title: pfTitle,
         price: parseFloat(pfPrice),
         originalPrice: pfOriginalPrice ? parseFloat(pfOriginalPrice) : null,
@@ -1003,16 +873,19 @@ export default function AdminPanel() {
       });
 
       if (editingProduct) {
-        const { error } = await supabase
-          .from("products")
-          .update(productData)
-          .eq("id", editingProduct.id);
-        if (error) throw error;
+        const res = await fetch("/api/admin/products", {
+          method: "PATCH",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ id: editingProduct.id, ...productData }),
+        });
+        if (!res.ok) throw new Error("Failed to update product");
       } else {
-        const { error } = await supabase
-          .from("products")
-          .insert(productData);
-        if (error) throw error;
+        const res = await fetch("/api/admin/products", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(productData),
+        });
+        if (!res.ok) throw new Error("Failed to create product");
       }
 
       toast({
@@ -1032,8 +905,8 @@ export default function AdminPanel() {
 
   const deleteProduct = async (product: Product) => {
     try {
-      const { error } = await supabase.from("products").delete().eq("id", product.id);
-      if (error) throw error;
+      const res = await fetch(`/api/admin/products/${product.id}`, { method: "DELETE" });
+      if (!res.ok) throw new Error("Failed to delete product");
       toast({ title: "Product deleted", description: `${product.title} has been removed` });
       fetchProducts();
     } catch {
@@ -1048,18 +921,12 @@ export default function AdminPanel() {
     setOrderDetailLoading(true);
     setOrderDetailOpen(true);
     try {
-      const { data, error } = await supabase
-        .from("orders")
-        .select("*, order_items(*)")
-        .eq("id", orderId)
-        .single();
-
-      if (error) throw error;
-      if (data) {
-        const order = mapOrderFromDb(data as Record<string, unknown>);
-        setSelectedOrder(order);
-        setOrderNotes(order.notes || "");
-      }
+      const res = await fetch(`/api/orders/${orderId}`);
+      if (!res.ok) throw new Error("Failed to fetch order");
+      const data = await res.json();
+      const order = mapOrderFromApi(data as Record<string, unknown>);
+      setSelectedOrder(order);
+      setOrderNotes(order.notes || "");
     } catch {
       toast({ title: "Error", description: "Failed to load order details", variant: "destructive" });
     } finally {
@@ -1069,11 +936,12 @@ export default function AdminPanel() {
 
   const updateOrderStatus = async (orderId: string, status: string) => {
     try {
-      const { error } = await supabase
-        .from("orders")
-        .update({ status })
-        .eq("id", orderId);
-      if (error) throw error;
+      const res = await fetch(`/api/orders/${orderId}`, {
+        method: "PATCH",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ status }),
+      });
+      if (!res.ok) throw new Error("Failed to update order");
       toast({ title: "Order updated", description: `Status changed to ${status}` });
       fetchOrders();
       if (selectedOrder?.id === orderId) {
@@ -1084,60 +952,18 @@ export default function AdminPanel() {
     }
   };
 
-  const updateOrderNotes = async (orderId: string) => {
-    try {
-      const { error } = await supabase
-        .from("orders")
-        .update({ notes: orderNotes })
-        .eq("id", orderId);
-      if (error) throw error;
-      toast({ title: "Notes saved", description: "Order notes updated" });
-    } catch {
-      toast({ title: "Error", description: "Failed to save notes", variant: "destructive" });
-    }
+  const updateOrderNotes = async (_orderId: string) => {
+    toast({ title: "Not supported", description: "Order notes update is not available via API", variant: "destructive" });
   };
 
   /* ─────────── Customer Helpers ─────────── */
 
-  const openCustomerDetail = async (customerId: string) => {
+  const openCustomerDetail = async (_customerId: string) => {
     setCustomerDetailLoading(true);
     setCustomerDetailOpen(true);
     try {
-      const { data: userData, error: userError } = await supabase
-        .from("users")
-        .select("*")
-        .eq("id", customerId)
-        .single();
-
-      if (userError) throw userError;
-
-      const { data: custOrders } = await supabase
-        .from("orders")
-        .select("*, order_items(*)")
-        .eq("user_id", customerId)
-        .order("created_at", { ascending: false });
-
-      const orderCount = custOrders?.length ?? 0;
-      const totalSpent = (custOrders ?? []).reduce((s: number, o: Record<string, unknown>) => s + ((o.total as number) ?? 0), 0);
-      const u = userData as Record<string, unknown>;
-
-      const detail: CustomerDetail = {
-        id: u.id as string,
-        email: u.email as string,
-        name: (u.name as string) ?? null,
-        phone: (u.phone as string) ?? null,
-        address: (u.address as string) ?? null,
-        city: (u.city as string) ?? null,
-        country: (u.country as string) ?? null,
-        createdAt: u.created_at as string,
-        orderCount,
-        totalSpent,
-        orders: (custOrders ?? []).map(mapOrderFromDb),
-      };
-
-      setSelectedCustomer(detail);
-    } catch {
-      toast({ title: "Error", description: "Failed to load customer details", variant: "destructive" });
+      // No customer API available
+      toast({ title: "Not available", description: "Customer details are not available via API", variant: "destructive" });
     } finally {
       setCustomerDetailLoading(false);
     }
@@ -1145,18 +971,9 @@ export default function AdminPanel() {
 
   /* ─────────── Review Helpers ─────────── */
 
-  const toggleReviewApproval = async (review: Review) => {
-    try {
-      const { error } = await supabase
-        .from("reviews")
-        .update({ approved: !review.approved })
-        .eq("id", review.id);
-      if (error) throw error;
-      toast({ title: "Review updated", description: `Review ${!review.approved ? "approved" : "unapproved"}` });
-      fetchReviews();
-    } catch {
-      toast({ title: "Error", description: "Failed to update review", variant: "destructive" });
-    }
+  const toggleReviewApproval = async (_review: Review) => {
+    // No reviews API available
+    toast({ title: "Not available", description: "Review management is not available via API", variant: "destructive" });
   };
 
   const openEditReview = (review: Review) => {
@@ -1169,34 +986,14 @@ export default function AdminPanel() {
 
   const saveReview = async () => {
     if (!editReviewDialog) return;
-    try {
-      const { error } = await supabase
-        .from("reviews")
-        .update({
-          author: reviewFormAuthor,
-          rating: reviewFormRating,
-          comment: reviewFormComment,
-          approved: reviewFormApproved,
-        })
-        .eq("id", editReviewDialog.id);
-      if (error) throw error;
-      toast({ title: "Review updated", description: "Changes saved" });
-      setEditReviewDialog(null);
-      fetchReviews();
-    } catch {
-      toast({ title: "Error", description: "Failed to update review", variant: "destructive" });
-    }
+    // No reviews API available
+    toast({ title: "Not available", description: "Review management is not available via API", variant: "destructive" });
+    setEditReviewDialog(null);
   };
 
-  const deleteReview = async (review: Review) => {
-    try {
-      const { error } = await supabase.from("reviews").delete().eq("id", review.id);
-      if (error) throw error;
-      toast({ title: "Review deleted" });
-      fetchReviews();
-    } catch {
-      toast({ title: "Error", description: "Failed to delete review", variant: "destructive" });
-    }
+  const deleteReview = async (_review: Review) => {
+    // No reviews API available
+    toast({ title: "Not available", description: "Review management is not available via API", variant: "destructive" });
     setDeleteReviewDialog(null);
   };
 
@@ -1239,19 +1036,19 @@ export default function AdminPanel() {
       };
 
       if (editingSlide) {
-        const { error } = await supabase
-          .from("hero_slides")
-          .update(payload)
-          .eq("id", editingSlide.id);
-        if (error) throw error;
-      } else {
-        const { error } = await supabase
-          .from("hero_slides")
-          .insert(payload);
-        if (error) throw error;
+        // No update API available for hero slides
+        toast({ title: "Not supported", description: "Hero slide update is not available via API", variant: "destructive" });
+        return;
       }
 
-      toast({ title: editingSlide ? "Slide updated" : "Slide created" });
+      const res = await fetch("/api/admin/hero-slides", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+      if (!res.ok) throw new Error("Failed to create slide");
+
+      toast({ title: "Slide created" });
       setSlideDialogOpen(false);
       resetSlideForm();
       fetchContent();
@@ -1261,15 +1058,9 @@ export default function AdminPanel() {
     }
   };
 
-  const deleteSlide = async (slide: HeroSlide) => {
-    try {
-      const { error } = await supabase.from("hero_slides").delete().eq("id", slide.id);
-      if (error) throw error;
-      toast({ title: "Slide deleted" });
-      fetchContent();
-    } catch {
-      toast({ title: "Error", description: "Failed to delete slide", variant: "destructive" });
-    }
+  const deleteSlide = async (_slide: HeroSlide) => {
+    // No delete API available for hero slides
+    toast({ title: "Not supported", description: "Hero slide deletion is not available via API", variant: "destructive" });
     setDeleteSlideDialog(null);
   };
 
@@ -1301,20 +1092,19 @@ export default function AdminPanel() {
       };
 
       if (editingAnnouncement) {
-        const { error } = await supabase
-          .from("announcements")
-          .update(payload)
-          .eq("id", editingAnnouncement.id);
-        if (error) throw error;
-        toast({ title: "Announcement updated" });
-      } else {
-        const { error } = await supabase
-          .from("announcements")
-          .insert(payload);
-        if (error) throw error;
-        toast({ title: "Announcement created" });
+        // No update API available for announcements
+        toast({ title: "Not supported", description: "Announcement update is not available via API", variant: "destructive" });
+        return;
       }
 
+      const res = await fetch("/api/admin/announcements", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+      if (!res.ok) throw new Error("Failed to create announcement");
+
+      toast({ title: "Announcement created" });
       setAnnouncementDialogOpen(false);
       resetAnnouncementForm();
       fetchContent();
@@ -1323,15 +1113,9 @@ export default function AdminPanel() {
     }
   };
 
-  const deleteAnnouncement = async (ann: Announcement) => {
-    try {
-      const { error } = await supabase.from("announcements").delete().eq("id", ann.id);
-      if (error) throw error;
-      toast({ title: "Announcement deleted" });
-      fetchContent();
-    } catch {
-      toast({ title: "Error", description: "Failed to delete announcement", variant: "destructive" });
-    }
+  const deleteAnnouncement = async (_ann: Announcement) => {
+    // No delete API available for announcements
+    toast({ title: "Not supported", description: "Announcement deletion is not available via API", variant: "destructive" });
     setDeleteAnnouncementDialog(null);
   };
 
@@ -1340,21 +1124,19 @@ export default function AdminPanel() {
   const saveSettings = async () => {
     setSettingsSaving(true);
     try {
-      const pairs: { key: string; value: string }[] = [
-        { key: "siteName", value: settings.siteName || "" },
-        { key: "whatsappNumber", value: settings.whatsapp || "" },
-        { key: "currency", value: settings.currency || "USD" },
-        { key: "currencyJPY", value: settings.jpyRate || "149.5" },
-        { key: "currencyEUR", value: settings.eurRate || "0.92" },
-        { key: "currencyGBP", value: settings.gbpRate || "0.79" },
-      ];
-
-      for (const pair of pairs) {
-        const { error } = await supabase
-          .from("site_settings")
-          .upsert({ key: pair.key, value: pair.value }, { onConflict: "key" });
-        if (error) throw error;
-      }
+      const res = await fetch("/api/admin/settings", {
+        method: "PATCH",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          siteName: settings.siteName || "",
+          whatsappNumber: settings.whatsapp || "",
+          currency: settings.currency || "USD",
+          currencyJPY: settings.jpyRate || "149.5",
+          currencyEUR: settings.eurRate || "0.92",
+          currencyGBP: settings.gbpRate || "0.79",
+        }),
+      });
+      if (!res.ok) throw new Error("Failed to save settings");
 
       toast({ title: "Settings saved", description: "All settings updated successfully" });
     } catch {
@@ -1366,58 +1148,48 @@ export default function AdminPanel() {
 
   const seedDatabase = async () => {
     try {
-      // 1. Insert admin user if not exists
-      const { data: existingAdmin } = await supabase
-        .from("users")
-        .select("id")
-        .eq("email", "admin@akihabara.com")
-        .single();
-
-      if (!existingAdmin) {
-        await supabase.from("users").insert({
-          email: "admin@akihabara.com",
-          name: "Admin",
-          password: "Akihabarat1$",
-          role: "admin",
-        });
-      }
-
-      // 2. Fetch products.json from public folder
+      // Seed products via API
       const productsRes = await fetch("/products.json");
       const productsJson: Record<string, unknown>[] = await productsRes.json();
 
-      // 3. Insert products
       for (const p of productsJson) {
-        const productRow = {
-          title: p.title as string,
-          price: p.price as number,
-          original_price: (p.original_price as number) ?? null,
-          image: p.image as string,
-          images: JSON.stringify(p.images ? [p.image, ...(p.images as string[])] : [p.image]),
-          description: (p.description as string) ?? null,
-          category: p.category as string,
-          categories: JSON.stringify(p.categories ?? []),
-          rating: (p.rating as number) ?? 4.5,
-          review_count: 0,
-          in_stock: (p.in_stock as boolean) ?? true,
-          featured: false,
-          source: (p.source as string) ?? null,
-          sku: (p.sku as string) ?? null,
-        };
-
-        await supabase.from("products").insert(productRow);
+        await fetch("/api/admin/products", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            title: p.title as string,
+            price: p.price as number,
+            originalPrice: (p.original_price as number) ?? null,
+            image: p.image as string,
+            images: p.images ? [p.image, ...(p.images as string[])] : [p.image],
+            description: (p.description as string) ?? null,
+            category: p.category as string,
+            categories: (p.categories as string[]) ?? [],
+            rating: (p.rating as number) ?? 4.5,
+            inStock: (p.in_stock as boolean) ?? true,
+            featured: false,
+            source: (p.source as string) ?? null,
+            sku: (p.sku as string) ?? null,
+          }),
+        });
       }
 
-      // 4. Insert hero slides
+      // Seed hero slides via API
       const heroSlides = [
         { image: "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.avif", title: "Japanese Pokémon TCG", subtitle: "Direct from Akihabara — Authentic & Sealed", accent: "New Arrivals", order: 0, active: true },
         { image: "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif", title: "VSTAR Universe", subtitle: "Rare pulls & exclusive artwork from Japan", accent: "Limited Stock", order: 1, active: true },
         { image: "/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif", title: "Ruler of the Black Flame", subtitle: "Charizard ex & more — Sealed Booster Boxes", accent: "Hot", order: 2, active: true },
         { image: "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.avif", title: "Snow Hazard Collection", subtitle: "Complete your Japanese set before they're gone", accent: "Sale", order: 3, active: true },
       ];
-      await supabase.from("hero_slides").insert(heroSlides);
+      for (const slide of heroSlides) {
+        await fetch("/api/admin/hero-slides", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(slide),
+        });
+      }
 
-      // 5. Insert announcements
+      // Seed announcements via API
       const announcements = [
         { message: "Free Shipping on Orders Over $150", active: true, order: 0 },
         { message: "Direct from Japan — 100% Authentic Sealed Products", active: true, order: 1 },
@@ -1425,21 +1197,27 @@ export default function AdminPanel() {
         { message: "Trusted by Thousands of Collectors Worldwide", active: true, order: 3 },
         { message: "Guaranteed Authenticity on Every Item We Sell", active: true, order: 4 },
       ];
-      await supabase.from("announcements").insert(announcements);
-
-      // 6. Insert site settings
-      const siteSettings = [
-        { key: "siteName", value: "Akihabara TCG Warehouse" },
-        { key: "whatsappNumber", value: "+81 80-2935-0455" },
-        { key: "currency", value: "USD" },
-        { key: "currencyUSD", value: "1" },
-        { key: "currencyJPY", value: "149.5" },
-        { key: "currencyEUR", value: "0.92" },
-        { key: "currencyGBP", value: "0.79" },
-      ];
-      for (const s of siteSettings) {
-        await supabase.from("site_settings").upsert(s, { onConflict: "key" });
+      for (const ann of announcements) {
+        await fetch("/api/admin/announcements", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(ann),
+        });
       }
+
+      // Seed site settings via API
+      await fetch("/api/admin/settings", {
+        method: "PATCH",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          siteName: "Akihabara TCG Warehouse",
+          whatsappNumber: "+81 80-2935-0455",
+          currency: "USD",
+          currencyJPY: "149.5",
+          currencyEUR: "0.92",
+          currencyGBP: "0.79",
+        }),
+      });
 
       toast({ title: "Database seeded", description: "Sample data has been loaded" });
       fetchStats();
