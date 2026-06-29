@@ -4,20 +4,20 @@ services:
     runtime: node
     plan: free
     region: oregon
-    buildCommand: bun install && bun run build
-    startCommand: bun run start
+    buildCommand: bun install && bun run db:push && bun run build
+    startCommand: bash start.sh
     envVars:
       - key: NODE_ENV
         value: production
-      - key: NEXT_PUBLIC_SUPABASE_URL
-        value: https://ojnczugjgqudqycxdlje.supabase.co
-      - key: NEXT_PUBLIC_SUPABASE_ANON_KEY
-        value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9qbmN6dWdqZ3F1ZHF5Y3hkbGplIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE5NjQxNDQsImV4cCI6MjA5NzU0MDE0NH0._m4ppmryYkZSpAQvOHRiHrc9Ub5TakQp4Mni6075Dso
-      - key: SUPABASE_URL
-        value: https://ojnczugjgqudqycxdlje.supabase.co
-      - key: SUPABASE_ANON_KEY
-        value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9qbmN6dWdqZ3F1ZHF5Y3hkbGplIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE5NjQxNDQsImV4cCI6MjA5NzU0MDE0NH0._m4ppmryYkZSpAQvOHRiHrc9Ub5TakQp4Mni6075Dso
+      - key: DATABASE_URL
+        value: file:/data/akihabara.db
       - key: ADMIN_EMAIL
         value: admin@akihabara.com
       - key: ADMIN_PASSWORD
         value: Akihabarat1$
+      - key: PORT
+        value: 3000
+    disk:
+      name: akihabara-data
+      mountPath: /data
+      sizeGB: 1
