@@ -307,7 +307,7 @@ export default function TCGStore() {
     return groups;
   }, [products]);
 
-  // Load Tawk.to live chat after a 5-second delay so it doesn't block initial page load
+  // Load Tawk.to live chat after a 1.5-second delay so it doesn't block initial page load
   useEffect(() => {
     if (typeof window === "undefined") return;
     const timer = setTimeout(() => {
@@ -324,7 +324,7 @@ export default function TCGStore() {
       s1.setAttribute("crossorigin", "*");
       const s0 = document.getElementsByTagName("script")[0];
       s0.parentNode?.insertBefore(s1, s0);
-    }, 5000);
+    }, 1500);
     return () => clearTimeout(timer);
   }, []);
 
@@ -1923,6 +1923,7 @@ function ProductCard({
   onAddToCart: (p: Product) => void;
 }) {
   const hasOriginalPrice = (product.original_price ?? 0) > product.price;
+  const isPreOrder = product.in_stock === false;
 
   return (
     <motion.div
@@ -1943,12 +1944,20 @@ function ProductCard({
             </span>
           </div>
         )}
+        {isPreOrder && (
+          <div className="absolute top-1.5 right-1.5">
+            <span className="bg-gradient-to-r from-amber-500 to-orange-500 text-white text-[9px] font-bold px-1.5 py-0.5 rounded-full shadow-sm" style={{background: "linear-gradient(to right, #f59e0b, #f97316)"}}>
+              Pre-Order
+            </span>
+          </div>
+        )}
         <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-2 translate-y-full group-hover:translate-y-0 transition-transform duration-300" style={{background: "linear-gradient(to top, rgba(0,0,0,0.6), transparent)"}}>
           <Button
-            className="w-full bg-gradient-to-r from-purple-700 to-violet-600 text-white hover:from-purple-800 hover:to-violet-700 text-[11px] font-semibold shadow-md h-7 btn-gradient-cart"
+            className={`w-full text-white hover:opacity-90 text-[11px] font-semibold shadow-md h-7 ${isPreOrder ? "bg-gradient-to-r from-amber-600 to-orange-600" : "bg-gradient-to-r from-purple-700 to-violet-600"}`}
+            style={isPreOrder ? {background: "linear-gradient(to right, #d97706, #ea580c)"} : {background: "linear-gradient(to right, #6d28d9, #7c3aed)"}}
             onClick={(e) => { e.stopPropagation(); onAddToCart(product); }}
           >
-            Add to Cart
+            {isPreOrder ? "Pre-Order" : "Add to Cart"}
           </Button>
         </div>
       </div>
@@ -1964,13 +1973,20 @@ function ProductCard({
           {renderStars(product.rating ?? 0)}
           <span className="text-[10px] text-gray-400 ml-0.5">({product.rating ?? 0})</span>
         </div>
-        <div className="flex items-baseline gap-2">
-          <span className="text-[14px] sm:text-[15px] font-bold text-gray-900">
-            {formatPrice(product.price, currency)}
-          </span>
-          {hasOriginalPrice && (
-            <span className="text-[11px] text-gray-400 line-through">
-              {formatPrice(product.original_price ?? 0, currency)}
+        <div className="flex items-center justify-between">
+          <div className="flex items-baseline gap-2">
+            <span className="text-[14px] sm:text-[15px] font-bold text-gray-900">
+              {formatPrice(product.price, currency)}
+            </span>
+            {hasOriginalPrice && (
+              <span className="text-[11px] text-gray-400 line-through">
+                {formatPrice(product.original_price ?? 0, currency)}
+              </span>
+            )}
+          </div>
+          {isPreOrder && (
+            <span className="text-[9px] font-bold text-amber-600 bg-amber-50 px-1.5 py-0.5 rounded">
+              Pre-Order
             </span>
           )}
         </div>
@@ -1994,6 +2010,7 @@ function ProductDetailModal({
 }) {
   const [quantity, setQuantity] = useState(1);
   const hasOriginalPrice = (product.original_price ?? 0) > product.price;
+  const isPreOrder = product.in_stock === false;
 
   const handleAdd = () => {
     onAddToCart(product, quantity);
@@ -2004,6 +2021,13 @@ function ProductDetailModal({
     <div className="flex flex-col md:flex-row">
       <div className="relative w-full md:w-1/2 aspect-square bg-gray-50 shrink-0">
         <ProductImg src={product.image} alt={product.title} fill className="object-contain p-6" sizes="(max-width: 768px) 100vw, 50vw" />
+        {isPreOrder && (
+          <div className="absolute top-3 right-3">
+            <span className="bg-gradient-to-r from-amber-500 to-orange-500 text-white text-[11px] font-bold px-2.5 py-1 rounded-full shadow-md" style={{background: "linear-gradient(to right, #f59e0b, #f97316)"}}>
+              Pre-Order
+            </span>
+          </div>
+        )}
       </div>
 
       <div className="flex-1 p-6 flex flex-col">
@@ -2037,9 +2061,9 @@ function ProductDetailModal({
         </div>
 
         <div className="flex items-center gap-2 mb-4">
-          <div className="w-2.5 h-2.5 rounded-full bg-green-500" />
-          <span className="text-[13px] font-medium text-green-600">
-            In Stock
+          <div className={`w-2.5 h-2.5 rounded-full ${isPreOrder ? "bg-amber-500" : "bg-green-500"}`} />
+          <span className={`text-[13px] font-medium ${isPreOrder ? "text-amber-600" : "text-green-600"}`}>
+            {isPreOrder ? "Pre-Order — Ships when available" : "In Stock"}
           </span>
         </div>
 
@@ -2061,10 +2085,20 @@ function ProductDetailModal({
             </div>
           </div>
 
-          <Button className="w-full bg-purple-950 hover:bg-purple-800 text-white font-semibold h-11 text-[14px]" onClick={handleAdd}>
+          <Button
+            className={`w-full text-white font-semibold h-11 text-[14px] ${isPreOrder ? "bg-gradient-to-r from-amber-600 to-orange-600 hover:opacity-90" : "bg-purple-950 hover:bg-purple-800"}`}
+            style={isPreOrder ? {background: "linear-gradient(to right, #d97706, #ea580c)"} : {}}
+            onClick={handleAdd}
+          >
             <ShoppingCart className="size-4 mr-2" />
-            Add to Cart
+            {isPreOrder ? "Pre-Order Now" : "Add to Cart"}
           </Button>
+
+          {isPreOrder && (
+            <p className="text-[11px] text-amber-600 text-center leading-relaxed">
+              This is a pre-order item. Your order will be reserved and shipped as soon as stock becomes available.
+            </p>
+          )}
 
           <div className="flex items-center justify-center gap-4 pt-2">
             <div className="flex items-center gap-1 text-[11px] text-gray-400"><Shield className="size-3.5" /><span>Authentic</span></div>
