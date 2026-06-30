@@ -10,14 +10,10 @@ services:
       - key: NODE_ENV
         value: production
       - key: DATABASE_URL
-        value: file:/data/akihabara.db
+        value: file:./db/akihabara.db
       - key: ADMIN_EMAIL
         value: admin@akihabara.com
       - key: ADMIN_PASSWORD
         value: Akihabarat1$
       - key: PORT
         value: 3000
-    disk:
-      name: akihabara-data
-      mountPath: /data
-      sizeGB: 1
