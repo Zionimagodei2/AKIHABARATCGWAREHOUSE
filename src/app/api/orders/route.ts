@@ -64,10 +64,24 @@ export async function POST(request: NextRequest) {
       return sum + Number(item.price) * Number(item.quantity)
     }, 0)
 
-    // If paymentMethod is provided but not in schema, append to notes for record
-    const combinedNotes = [body.notes, body.paymentMethod ? `Payment method: ${body.paymentMethod}` : null]
-      .filter(Boolean)
-      .join('\n') || null
+    // If paymentMethod is provided, store it in the paymentMethod field
+    const paymentMethod = body.paymentMethod ?? null
+    const notes = body.notes ?? null
+
+    // Verify product IDs exist to avoid foreign key constraint violations
+    // If a product doesn't exist (e.g., deleted, or not in deployed DB), set productId to null
+    const productIds = body.items
+      .map((item) => item.productId)
+      .filter((id): id is string => Boolean(id))
+
+    let validProductIds = new Set<string>()
+    if (productIds.length > 0) {
+      const existingProducts = await db.product.findMany({
+        where: { id: { in: productIds } },
+        select: { id: true },
+      })
+      validProductIds = new Set(existingProducts.map((p) => p.id))
+    }
 
     const order = await db.order.create({
       data: {
@@ -78,12 +92,14 @@ export async function POST(request: NextRequest) {
         shippingCity: body.shippingCity ?? null,
         shippingCountry: body.shippingCountry ?? null,
         shippingZip: body.shippingZip ?? null,
-        notes: combinedNotes,
+        paymentMethod,
+        notes,
         total,
         status: 'pending',
         items: {
           create: body.items.map((item) => ({
-            productId: item.productId ?? null,
+            // Only link productId if the product actually exists in the database
+            productId: item.productId && validProductIds.has(item.productId) ? item.productId : null,
             title: item.title,
             price: Number(item.price),
             quantity: Number(item.quantity),
