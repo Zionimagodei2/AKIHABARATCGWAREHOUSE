@@ -83,38 +83,57 @@ export async function POST(request: NextRequest) {
       validProductIds = new Set(existingProducts.map((p) => p.id))
     }
 
-    const order = await db.order.create({
-      data: {
-        customerName: body.customerName ?? null,
-        customerEmail: body.customerEmail ?? null,
-        customerPhone: body.customerPhone ?? null,
-        shippingAddress: body.shippingAddress ?? null,
-        shippingCity: body.shippingCity ?? null,
-        shippingCountry: body.shippingCountry ?? null,
-        shippingZip: body.shippingZip ?? null,
-        paymentMethod,
-        notes,
-        total,
-        status: 'pending',
-        items: {
-          create: body.items.map((item) => ({
-            // Only link productId if the product actually exists in the database
-            productId: item.productId && validProductIds.has(item.productId) ? item.productId : null,
-            title: item.title,
-            price: Number(item.price),
-            quantity: Number(item.quantity),
-            image: item.image ?? null,
-          })),
-        },
+    // Build order data — combine paymentMethod into notes as fallback
+    const combinedNotes = [
+      notes,
+      paymentMethod ? `Payment method: ${paymentMethod}` : null,
+    ].filter(Boolean).join('\n') || null
+
+    const orderData = {
+      customerName: body.customerName ?? null,
+      customerEmail: body.customerEmail ?? null,
+      customerPhone: body.customerPhone ?? null,
+      shippingAddress: body.shippingAddress ?? null,
+      shippingCity: body.shippingCity ?? null,
+      shippingCountry: body.shippingCountry ?? null,
+      shippingZip: body.shippingZip ?? null,
+      notes: combinedNotes,
+      total,
+      status: 'pending' as const,
+      items: {
+        create: body.items.map((item) => ({
+          // Only link productId if the product actually exists in the database
+          productId: item.productId && validProductIds.has(item.productId) ? item.productId : null,
+          title: item.title,
+          price: Number(item.price),
+          quantity: Number(item.quantity),
+          image: item.image ?? null,
+        })),
       },
-      include: { items: true },
-    })
+    }
+
+    let order
+    try {
+      // Try with paymentMethod field first (if schema has it)
+      order = await db.order.create({
+        data: { ...orderData, paymentMethod },
+        include: { items: true },
+      })
+    } catch (createError) {
+      // Fallback: if paymentMethod column doesn't exist, retry without it
+      console.error('Order creation with paymentMethod failed, retrying without:', createError)
+      order = await db.order.create({
+        data: orderData,
+        include: { items: true },
+      })
+    }
 
     return NextResponse.json(order, { status: 201 })
   } catch (error) {
     console.error('Failed to create order:', error)
+    const errorMessage = error instanceof Error ? error.message : 'Failed to create order'
     return NextResponse.json(
-      { error: 'Failed to create order' },
+      { error: errorMessage },
       { status: 500 }
     )
   }
