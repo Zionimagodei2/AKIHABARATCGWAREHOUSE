@@ -70,4 +70,4 @@ AKIHABARATCGWAREHOUSEdb/*.db
 screenshot-*.png
 gemini-conversation.json
 db/*.db
-prisma/db/
+upload/

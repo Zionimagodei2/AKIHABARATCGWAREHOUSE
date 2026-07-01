@@ -4,16 +4,12 @@ services:
     runtime: node
     plan: free
     region: oregon
-    buildCommand: bun install && bun run db:push && bun run build
+    buildCommand: bun install && bun run build
     startCommand: bash start.sh
     envVars:
       - key: NODE_ENV
         value: production
-      - key: DATABASE_URL
-        value: file:./db/akihabara.db
       - key: ADMIN_EMAIL
         value: admin@akihabara.com
       - key: ADMIN_PASSWORD
         value: Akihabarat1$
-      - key: PORT
-        value: 3000

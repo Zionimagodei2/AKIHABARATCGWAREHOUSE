@@ -64,31 +64,34 @@ export async function POST(request: NextRequest) {
       return sum + Number(item.price) * Number(item.quantity)
     }, 0)
 
-    // If paymentMethod is provided, store it in the paymentMethod field
+    // Store paymentMethod in notes as fallback (in case column doesn't exist)
     const paymentMethod = body.paymentMethod ?? null
     const notes = body.notes ?? null
+    const combinedNotes = [
+      notes,
+      paymentMethod ? `Payment method: ${paymentMethod}` : null,
+    ].filter(Boolean).join('\n') || null
 
     // Verify product IDs exist to avoid foreign key constraint violations
-    // If a product doesn't exist (e.g., deleted, or not in deployed DB), set productId to null
+    // If a product doesn't exist, set productId to null
     const productIds = body.items
       .map((item) => item.productId)
       .filter((id): id is string => Boolean(id))
 
     let validProductIds = new Set<string>()
     if (productIds.length > 0) {
-      const existingProducts = await db.product.findMany({
-        where: { id: { in: productIds } },
-        select: { id: true },
-      })
-      validProductIds = new Set(existingProducts.map((p) => p.id))
+      try {
+        const existingProducts = await db.product.findMany({
+          where: { id: { in: productIds } },
+          select: { id: true },
+        })
+        validProductIds = new Set(existingProducts.map((p) => p.id))
+      } catch {
+        // If product lookup fails, just set all productIds to null
+      }
     }
 
-    // Build order data — combine paymentMethod into notes as fallback
-    const combinedNotes = [
-      notes,
-      paymentMethod ? `Payment method: ${paymentMethod}` : null,
-    ].filter(Boolean).join('\n') || null
-
+    // Build order data
     const orderData = {
       customerName: body.customerName ?? null,
       customerEmail: body.customerEmail ?? null,
@@ -102,7 +105,6 @@ export async function POST(request: NextRequest) {
       status: 'pending' as const,
       items: {
         create: body.items.map((item) => ({
-          // Only link productId if the product actually exists in the database
           productId: item.productId && validProductIds.has(item.productId) ? item.productId : null,
           title: item.title,
           price: Number(item.price),
@@ -119,9 +121,8 @@ export async function POST(request: NextRequest) {
         data: { ...orderData, paymentMethod },
         include: { items: true },
       })
-    } catch (createError) {
+    } catch {
       // Fallback: if paymentMethod column doesn't exist, retry without it
-      console.error('Order creation with paymentMethod failed, retrying without:', createError)
       order = await db.order.create({
         data: orderData,
         include: { items: true },

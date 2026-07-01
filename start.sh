@@ -3,8 +3,19 @@
 
 echo "=== Akihabara TCG Warehouse - Starting ==="
 
+# Get the absolute path of the project directory
+PROJECT_DIR=$(pwd)
+echo "Project directory: $PROJECT_DIR"
+
+# Set DATABASE_URL with absolute path if not already set or if it's relative
+if [ -z "$DATABASE_URL" ] || echo "$DATABASE_URL" | grep -q "^file:./"; then
+  export DATABASE_URL="file:${PROJECT_DIR}/db/akihabara.db"
+fi
+
+echo "Using DATABASE_URL: $DATABASE_URL"
+
 # Ensure db directory exists
-mkdir -p ./db 2>/dev/null || true
+mkdir -p "${PROJECT_DIR}/db" 2>/dev/null || true
 
 # Always push schema and seed — this is idempotent and ensures data exists
 # On Render free tier, the filesystem is ephemeral, so we seed on every start
@@ -18,4 +29,5 @@ echo "Database ready!"
 
 # Start the Next.js production server
 echo "Starting Next.js server on port ${PORT:-3000}..."
+export PORT="${PORT:-3000}"
 exec bun run start
