@@ -485,13 +485,13 @@ export default function TCGStore() {
   const navigateTo = useCallback((page: PageView) => {
     setCurrentPage(page);
     setMobileMenuOpen(false);
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    window.scrollTo({ top: 0, behavior: "auto" });
   }, []);
 
   /* ─────────── Render ─────────── */
 
   return (
-    <div className="min-h-screen flex flex-col relative bg-gradient-to-br from-purple-900 via-violet-800 to-purple-900 noise-overlay overflow-hidden" style={{background: "linear-gradient(to bottom right, #581c87, #6d28d9, #581c87)"}}>
+    <div className="min-h-screen flex flex-col relative bg-gradient-to-br from-purple-900 via-violet-800 to-purple-900 noise-overlay overflow-x-hidden" style={{background: "linear-gradient(to bottom right, #581c87, #6d28d9, #581c87)"}}>
       {/* Floating Orbs Background */}
       <div className="fixed inset-0 pointer-events-none overflow-hidden z-0">
         <div className="orb-1 absolute -top-32 -left-32 w-96 h-96 rounded-full bg-purple-500/40 blur-3xl"></div>
@@ -2195,6 +2195,13 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
     }
   };
 
+  // Scroll to top when order is placed
+  useEffect(() => {
+    if (orderPlaced) {
+      window.scrollTo({ top: 0, behavior: "auto" });
+    }
+  }, [orderPlaced]);
+
   if (orderPlaced) {
     return (
       <div>
@@ -2243,7 +2250,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
   }
 
   return (
-    <div>
+    <div className="w-full overflow-x-hidden">
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">Secure Checkout</p>
@@ -2258,7 +2265,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
 
       <section className="bg-violet-50 py-12">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid lg:grid-cols-5 gap-8">
+          <div className="grid lg:grid-cols-5 gap-6 lg:gap-8">
             {/* Left: Form (3 cols) */}
             <div className="lg:col-span-3 space-y-6">
               {/* Contact Information */}

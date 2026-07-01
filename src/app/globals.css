@@ -168,6 +168,10 @@
   body {
     @apply bg-background text-foreground;
   }
+  /* Prevent page shake when modals/sheets open/close */
+  html {
+    scrollbar-gutter: stable;
+  }
 }
 
 /* Custom scrollbar */

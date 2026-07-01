@@ -3019,7 +3019,7 @@ export default function AdminPanel() {
   /* ─────────── Main Layout ─────────── */
 
   return (
-    <div className="min-h-screen bg-gray-50/80">
+    <div className="min-h-screen bg-gray-50/80 overflow-x-hidden">
       {renderSidebar()}
 
       {/* Main Content */}
@@ -3050,7 +3050,7 @@ export default function AdminPanel() {
         </header>
 
         {/* Page Content */}
-        <main className="p-4 lg:p-8">
+        <main className="p-4 lg:p-8 min-w-0 overflow-x-hidden">
           <AnimatePresence mode="wait">
             <motion.div
               key={activePage}
