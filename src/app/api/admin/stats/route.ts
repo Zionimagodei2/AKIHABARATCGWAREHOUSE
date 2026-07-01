@@ -1,72 +1,43 @@
-import { NextResponse, NextRequest } from 'next/server';
-import { db } from '@/lib/db';
+import { NextResponse, NextRequest } from 'next/server'
+import { selectFrom, countFrom, isSupabaseConfigured } from '@/lib/supabase-client'
 
-export async function GET(_req: NextRequest) {
+export async function GET() {
   try {
-    const [
-      totalProducts,
-      totalOrders,
-      orders,
-      lowStockProducts,
-      totalReviews,
-    ] = await Promise.all([
-      db.product.count(),
-      db.order.count(),
-      db.order.findMany({
-        include: {
-          items: true,
-        },
-        orderBy: {
-          createdAt: 'desc',
-        },
-      }),
-      db.product.findMany({
-        where: {
-          inStock: false,
-        },
-        take: 10,
-        orderBy: {
-          updatedAt: 'desc',
-        },
-      }),
-      db.review.count(),
-    ]);
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({
+        totalProducts: 0, totalOrders: 0, totalRevenue: 0,
+        recentOrders: [], ordersByStatus: {}, totalReviews: 0,
+      })
+    }
 
-    const totalRevenue = orders.reduce((sum, o) => sum + (o.total || 0), 0);
+    const [productsResult, ordersResult] = await Promise.all([
+      countFrom('products'),
+      selectFrom('orders', '*', {}, { order: 'created_at.desc', limit: 5 }),
+    ])
 
-    const recentOrders = orders.slice(0, 5).map((o) => ({
-      id: o.id,
-      customerName: o.customerName,
-      customerEmail: o.customerEmail,
-      total: o.total,
-      status: o.status,
-      createdAt: o.createdAt,
-      items: o.items,
-    }));
+    const totalProducts = productsResult.count
+    const orders = ordersResult.data || []
 
-    const ordersByStatus = orders.reduce(
-      (acc, o) => {
-        const status = o.status || 'pending';
-        acc[status] = (acc[status] || 0) + 1;
-        return acc;
-      },
-      {} as Record<string, number>,
-    );
+    // Calculate revenue from delivered/shipped orders
+    const totalRevenue = orders.reduce((sum, o) => sum + (Number(o.total) || 0), 0)
+
+    // Orders by status
+    const ordersByStatus: Record<string, number> = {}
+    for (const o of orders) {
+      const s = o.status || 'pending'
+      ordersByStatus[s] = (ordersByStatus[s] || 0) + 1
+    }
 
     return NextResponse.json({
       totalProducts,
-      totalOrders,
+      totalOrders: orders.length,
       totalRevenue,
-      recentOrders,
+      recentOrders: orders,
       ordersByStatus,
-      lowStockProducts,
-      totalReviews,
-    });
+      totalReviews: 0,
+    })
   } catch (error) {
-    console.error('Failed to load admin stats:', error);
-    return NextResponse.json(
-      { error: 'Failed to load stats' },
-      { status: 500 },
-    );
+    console.error('Error fetching stats:', error)
+    return NextResponse.json({ error: 'Failed to fetch stats' }, { status: 500 })
   }
 }

@@ -1,18 +1,8 @@
 import { NextResponse, NextRequest } from 'next/server'
-import { db } from '@/lib/db'
-import { Prisma } from '@prisma/client'
-
-const VALID_STATUSES = [
-  'pending',
-  'processing',
-  'shipped',
-  'delivered',
-  'cancelled',
-] as const
-type OrderStatus = (typeof VALID_STATUSES)[number]
+import { insertInto, selectFrom, isSupabaseConfigured } from '@/lib/supabase-client'
 
 interface OrderItemInput {
-  productId?: string | null
+  product_id?: string | null
   title: string
   price: number
   quantity: number
@@ -34,186 +24,115 @@ interface CreateOrderBody {
 
 export async function POST(request: NextRequest) {
   try {
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({ error: 'Database not configured' }, { status: 500 })
+    }
+
     const body = (await request.json()) as CreateOrderBody
 
     if (!body.items || !Array.isArray(body.items) || body.items.length === 0) {
-      return NextResponse.json(
-        { error: 'Order must contain at least one item' },
-        { status: 400 }
-      )
+      return NextResponse.json({ error: 'Order must contain at least one item' }, { status: 400 })
     }
 
-    // Validate each item has required fields
-    for (const item of body.items) {
-      if (!item.title || item.price == null || item.quantity == null) {
-        return NextResponse.json(
-          { error: 'Each item must have title, price, and quantity' },
-          { status: 400 }
-        )
-      }
-      if (Number(item.quantity) <= 0) {
-        return NextResponse.json(
-          { error: 'Item quantity must be greater than 0' },
-          { status: 400 }
-        )
-      }
-    }
+    // Calculate total
+    const total = body.items.reduce((sum, item) => sum + Number(item.price) * Number(item.quantity), 0)
 
-    // Calculate total from items
-    const total = body.items.reduce((sum, item) => {
-      return sum + Number(item.price) * Number(item.quantity)
-    }, 0)
-
-    // Store paymentMethod in notes as fallback (in case column doesn't exist)
-    const paymentMethod = body.paymentMethod ?? null
-    const notes = body.notes ?? null
-    const combinedNotes = [
-      notes,
-      paymentMethod ? `Payment method: ${paymentMethod}` : null,
-    ].filter(Boolean).join('\n') || null
-
-    // Verify product IDs exist to avoid foreign key constraint violations
-    // If a product doesn't exist, set productId to null
-    const productIds = body.items
-      .map((item) => item.productId)
-      .filter((id): id is string => Boolean(id))
-
-    let validProductIds = new Set<string>()
-    if (productIds.length > 0) {
-      try {
-        const existingProducts = await db.product.findMany({
-          where: { id: { in: productIds } },
-          select: { id: true },
-        })
-        validProductIds = new Set(existingProducts.map((p) => p.id))
-      } catch {
-        // If product lookup fails, just set all productIds to null
-      }
-    }
-
-    // Build order data
+    // Create order
     const orderData = {
-      customerName: body.customerName ?? null,
-      customerEmail: body.customerEmail ?? null,
-      customerPhone: body.customerPhone ?? null,
-      shippingAddress: body.shippingAddress ?? null,
-      shippingCity: body.shippingCity ?? null,
-      shippingCountry: body.shippingCountry ?? null,
-      shippingZip: body.shippingZip ?? null,
-      notes: combinedNotes,
       total,
-      status: 'pending' as const,
-      items: {
-        create: body.items.map((item) => ({
-          productId: item.productId && validProductIds.has(item.productId) ? item.productId : null,
-          title: item.title,
-          price: Number(item.price),
-          quantity: Number(item.quantity),
-          image: item.image ?? null,
-        })),
-      },
+      status: 'pending',
+      customer_name: body.customerName ?? null,
+      customer_email: body.customerEmail ?? null,
+      customer_phone: body.customerPhone ?? null,
+      shipping_address: body.shippingAddress ?? null,
+      shipping_city: body.shippingCity ?? null,
+      shipping_country: body.shippingCountry ?? null,
+      shipping_zip: body.shippingZip ?? null,
+      payment_method: body.paymentMethod ?? null,
+      notes: body.notes ?? null,
     }
 
-    let order
-    try {
-      // Try with paymentMethod field first (if schema has it)
-      order = await db.order.create({
-        data: { ...orderData, paymentMethod },
-        include: { items: true },
-      })
-    } catch {
-      // Fallback: if paymentMethod column doesn't exist, retry without it
-      order = await db.order.create({
-        data: orderData,
-        include: { items: true },
-      })
+    const { data: orderResult, error: orderError } = await insertInto('orders', orderData)
+
+    if (orderError || !orderResult || orderResult.length === 0) {
+      return NextResponse.json({ error: orderError || 'Failed to create order' }, { status: 500 })
+    }
+
+    const order = orderResult[0]
+
+    // Create order items
+    const itemsData = body.items.map(item => ({
+      order_id: order.id,
+      product_id: item.product_id ?? null,
+      title: item.title,
+      price: Number(item.price),
+      quantity: Number(item.quantity),
+      image: item.image ?? null,
+    }))
+
+    const { error: itemsError } = await insertInto('order_items', itemsData)
+
+    if (itemsError) {
+      console.error('Failed to create order items:', itemsError)
     }
 
     return NextResponse.json(order, { status: 201 })
   } catch (error) {
     console.error('Failed to create order:', error)
     const errorMessage = error instanceof Error ? error.message : 'Failed to create order'
-    return NextResponse.json(
-      { error: errorMessage },
-      { status: 500 }
-    )
+    return NextResponse.json({ error: errorMessage }, { status: 500 })
   }
 }
 
 export async function GET(request: NextRequest) {
   try {
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({ orders: [], total: 0 }, { status: 200 })
+    }
+
     const { searchParams } = new URL(request.url)
     const status = searchParams.get('status')
     const search = searchParams.get('search')?.trim() ?? ''
-    const sort = searchParams.get('sort') ?? 'newest'
-    const limitRaw = parseInt(searchParams.get('limit') ?? '10', 10)
+    const limitRaw = parseInt(searchParams.get('limit') ?? '20', 10)
     const pageRaw = parseInt(searchParams.get('page') ?? '1', 10)
 
-    const where: Prisma.OrderWhereInput = {}
+    const filters: Record<string, string> = {}
+    if (status && status !== 'all') filters.status = `eq.${status}`
 
-    if (status && VALID_STATUSES.includes(status as OrderStatus)) {
-      where.status = status
-    }
-
-    if (search) {
-      where.OR = [
-        { customerName: { contains: search } },
-        { customerEmail: { contains: search } },
-        { customerPhone: { contains: search } },
-        { id: { contains: search } },
-      ]
-    }
-
-    let orderBy: Prisma.OrderOrderByWithRelationInput = { createdAt: 'desc' }
-    switch (sort) {
-      case 'newest':
-        orderBy = { createdAt: 'desc' }
-        break
-      case 'oldest':
-        orderBy = { createdAt: 'asc' }
-        break
-      case 'total-desc':
-        orderBy = { total: 'desc' }
-        break
-      case 'total-asc':
-        orderBy = { total: 'asc' }
-        break
-      case 'status':
-        orderBy = [{ status: 'asc' }, { createdAt: 'desc' }]
-        break
-      default:
-        orderBy = { createdAt: 'desc' }
-    }
-
-    const safeLimit = Number.isFinite(limitRaw) ? Math.max(1, Math.min(100, limitRaw)) : 10
+    const safeLimit = Number.isFinite(limitRaw) ? Math.max(1, Math.min(100, limitRaw)) : 20
     const safePage = Number.isFinite(pageRaw) ? Math.max(1, pageRaw) : 1
-    const skip = (safePage - 1) * safeLimit
 
-    const [orders, total] = await Promise.all([
-      db.order.findMany({
-        where,
-        orderBy,
-        skip,
-        take: safeLimit,
-        include: { items: true },
-      }),
-      db.order.count({ where }),
-    ])
+    const { data, error } = await selectFrom('orders', '*', filters, {
+      order: 'created_at.desc',
+      limit: safeLimit,
+      range: `${(safePage - 1) * safeLimit}-${safePage * safeLimit - 1}`,
+    })
 
-    const totalPages = Math.ceil(total / safeLimit)
+    if (error) {
+      return NextResponse.json({ error }, { status: 500 })
+    }
+
+    let orders = data || []
+
+    // Client-side search
+    if (search) {
+      const q = search.toLowerCase()
+      orders = orders.filter((o: Record<string, unknown>) =>
+        String(o.customer_name || '').toLowerCase().includes(q) ||
+        String(o.customer_email || '').toLowerCase().includes(q) ||
+        String(o.id || '').toLowerCase().includes(q)
+      )
+    }
 
     return NextResponse.json({
       orders,
-      total,
+      total: orders.length,
       page: safePage,
       limit: safeLimit,
-      totalPages,
+      totalPages: Math.ceil(orders.length / safeLimit),
     })
   } catch (error) {
     console.error('Failed to list orders:', error)
-    return NextResponse.json(
-      { error: 'Failed to list orders' },
-      { status: 500 }
-    )
+    return NextResponse.json({ error: 'Failed to list orders' }, { status: 500 })
   }
 }

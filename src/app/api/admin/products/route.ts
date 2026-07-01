@@ -1,163 +1,82 @@
-import { NextResponse, NextRequest } from 'next/server';
-import { db } from '@/lib/db';
+import { NextResponse, NextRequest } from 'next/server'
+import { insertInto, updateIn, isSupabaseConfigured } from '@/lib/supabase-client'
 
-export async function GET() {
+export async function POST(request: NextRequest) {
   try {
-    const products = await db.product.findMany({
-      orderBy: {
-        createdAt: 'desc',
-      },
-    });
-    return NextResponse.json(products);
-  } catch (error) {
-    console.error('Failed to fetch products:', error);
-    return NextResponse.json(
-      { error: 'Failed to fetch products' },
-      { status: 500 },
-    );
-  }
-}
-
-export async function POST(req: NextRequest) {
-  try {
-    const body = await req.json();
-
-    const {
-      title,
-      price,
-      originalPrice,
-      image,
-      images,
-      description,
-      category,
-      categories,
-      rating,
-      reviewCount,
-      inStock,
-      featured,
-      source,
-      sku,
-    } = body;
-
-    if (!title || price === undefined || !image) {
-      return NextResponse.json(
-        { error: 'Missing required fields: title, price, image' },
-        { status: 400 },
-      );
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({ error: 'Database not configured' }, { status: 500 })
     }
 
-    const product = await db.product.create({
-      data: {
-        title,
-        price: Number(price),
-        originalPrice:
-          originalPrice !== undefined && originalPrice !== null
-            ? Number(originalPrice)
-            : null,
-        image,
-        images:
-          typeof images === 'string'
-            ? images
-            : JSON.stringify(images || []),
-        description: description || null,
-        category: category || 'Uncategorized',
-        categories:
-          typeof categories === 'string'
-            ? categories
-            : JSON.stringify(categories || []),
-        rating: rating !== undefined ? Number(rating) : 4.5,
-        reviewCount: reviewCount !== undefined ? Number(reviewCount) : 0,
-        inStock: inStock !== undefined ? Boolean(inStock) : true,
-        featured: featured !== undefined ? Boolean(featured) : false,
-        source: source || null,
-        sku: sku || null,
-      },
-    });
+    const body = await request.json()
 
-    return NextResponse.json(product, { status: 201 });
+    const productData = {
+      id: body.id || undefined,
+      title: body.title,
+      price: Number(body.price),
+      original_price: body.originalPrice ? Number(body.originalPrice) : null,
+      image: body.image,
+      images: JSON.stringify(body.images || []),
+      description: body.description || null,
+      category: body.category,
+      categories: JSON.stringify(body.categories || [body.category]),
+      rating: body.rating ? Number(body.rating) : 4.5,
+      review_count: 0,
+      in_stock: body.inStock ?? true,
+      featured: body.featured ?? false,
+      source: body.source || null,
+      sku: body.sku || null,
+    }
+
+    const { data, error } = await insertInto('products', productData)
+
+    if (error) {
+      return NextResponse.json({ error }, { status: 500 })
+    }
+
+    return NextResponse.json(data?.[0] || { success: true }, { status: 201 })
   } catch (error) {
-    console.error('Failed to create product:', error);
-    return NextResponse.json(
-      { error: 'Failed to create product' },
-      { status: 500 },
-    );
+    console.error('Error creating product:', error)
+    return NextResponse.json({ error: 'Failed to create product' }, { status: 500 })
   }
 }
 
-export async function PATCH(req: NextRequest) {
+export async function PATCH(request: NextRequest) {
   try {
-    const body = await req.json();
-    const { id, ...rest } = body;
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({ error: 'Database not configured' }, { status: 500 })
+    }
+
+    const body = await request.json()
+    const { id, ...updates } = body
 
     if (!id) {
-      return NextResponse.json(
-        { error: 'Missing product id' },
-        { status: 400 },
-      );
+      return NextResponse.json({ error: 'Product ID required' }, { status: 400 })
     }
 
-    const existing = await db.product.findUnique({ where: { id } });
-    if (!existing) {
-      return NextResponse.json(
-        { error: 'Product not found' },
-        { status: 404 },
-      );
+    const updateData: Record<string, unknown> = {}
+    if (updates.title !== undefined) updateData.title = updates.title
+    if (updates.price !== undefined) updateData.price = Number(updates.price)
+    if (updates.originalPrice !== undefined) updateData.original_price = updates.originalPrice ? Number(updates.originalPrice) : null
+    if (updates.image !== undefined) updateData.image = updates.image
+    if (updates.images !== undefined) updateData.images = JSON.stringify(updates.images)
+    if (updates.description !== undefined) updateData.description = updates.description
+    if (updates.category !== undefined) updateData.category = updates.category
+    if (updates.categories !== undefined) updateData.categories = JSON.stringify(updates.categories)
+    if (updates.rating !== undefined) updateData.rating = Number(updates.rating)
+    if (updates.inStock !== undefined) updateData.in_stock = updates.inStock
+    if (updates.featured !== undefined) updateData.featured = updates.featured
+    if (updates.source !== undefined) updateData.source = updates.source
+    if (updates.sku !== undefined) updateData.sku = updates.sku
+
+    const { data, error } = await updateIn('products', { id: `eq.${id}` }, updateData)
+
+    if (error) {
+      return NextResponse.json({ error }, { status: 500 })
     }
 
-    const data: Record<string, unknown> = {};
-    const fields = [
-      'title',
-      'description',
-      'image',
-      'category',
-      'source',
-      'sku',
-    ];
-    const numberFields = [
-      'price',
-      'originalPrice',
-      'rating',
-      'reviewCount',
-    ];
-    const booleanFields = ['inStock', 'featured'];
-
-    for (const f of fields) {
-      if (rest[f] !== undefined) data[f] = rest[f];
-    }
-    for (const f of numberFields) {
-      if (rest[f] !== undefined && rest[f] !== null) {
-        data[f] = Number(rest[f]);
-      } else if (rest[f] === null) {
-        data[f] = null;
-      }
-    }
-    for (const f of booleanFields) {
-      if (rest[f] !== undefined) data[f] = Boolean(rest[f]);
-    }
-    if (rest.images !== undefined) {
-      data.images =
-        typeof rest.images === 'string'
-          ? rest.images
-          : JSON.stringify(rest.images || []);
-    }
-    if (rest.categories !== undefined) {
-      data.categories =
-        typeof rest.categories === 'string'
-          ? rest.categories
-          : JSON.stringify(rest.categories || []);
-    }
-
-    const updated = await db.product.update({
-      where: { id },
-      data,
-    });
-
-    return NextResponse.json(updated);
+    return NextResponse.json(data?.[0] || { success: true })
   } catch (error) {
-    console.error('Failed to update product:', error);
-    return NextResponse.json(
-      { error: 'Failed to update product' },
-      { status: 500 },
-    );
+    console.error('Error updating product:', error)
+    return NextResponse.json({ error: 'Failed to update product' }, { status: 500 })
   }
 }

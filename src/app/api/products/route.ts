@@ -1,194 +1,126 @@
-import { NextResponse, NextRequest } from 'next/server';
-import { db } from '@/lib/db';
-import { Prisma } from '@prisma/client';
+import { NextResponse, NextRequest } from 'next/server'
+import { selectFrom, isSupabaseConfigured } from '@/lib/supabase-client'
 
-// Snake-case representation of a product for the frontend
-type ProductSnake = {
-  id: string;
-  title: string;
-  price: number;
-  original_price: number | null;
-  image: string;
-  images: string[];
-  description: string | null;
-  category: string;
-  categories: string[];
-  rating: number;
-  review_count: number;
-  in_stock: boolean;
-  featured: boolean;
-  source: string | null;
-  sku: string | null;
-  created_at: string;
-  updated_at: string;
-};
-
-function parseJsonArray(value: string | null | undefined): string[] {
-  if (!value) return [];
-  try {
-    const parsed = JSON.parse(value);
-    if (Array.isArray(parsed)) {
-      return parsed.map((item) => String(item));
-    }
-    if (typeof parsed === 'string') {
-      return [parsed];
-    }
-    return [];
-  } catch {
-    return [];
-  }
+interface ProductRow {
+  id: string
+  title: string
+  price: number
+  original_price: number | null
+  image: string
+  images: string | string[]
+  description: string | null
+  category: string
+  categories: string | string[]
+  rating: number
+  review_count: number
+  in_stock: boolean
+  featured: boolean
+  source: string | null
+  sku: string | null
+  created_at: string
+  updated_at: string
 }
 
-function transformProduct(product: {
-  id: string;
-  title: string;
-  price: Prisma.Decimal | number;
-  originalPrice: Prisma.Decimal | number | null;
-  image: string;
-  images: string;
-  description: string | null;
-  category: string;
-  categories: string;
-  rating: Prisma.Decimal | number;
-  reviewCount: number;
-  inStock: boolean;
-  featured: boolean;
-  source: string | null;
-  sku: string | null;
-  createdAt: Date;
-  updatedAt: Date;
-}): ProductSnake {
+function transformProduct(p: ProductRow) {
+  let categories: string[] = []
+  try {
+    categories = typeof p.categories === 'string' ? JSON.parse(p.categories) : (p.categories || [])
+  } catch { categories = [] }
+
+  let images: string[] = []
+  try {
+    images = typeof p.images === 'string' ? JSON.parse(p.images) : (p.images || [])
+  } catch { images = [] }
+
   return {
-    id: product.id,
-    title: product.title,
-    price: Number(product.price),
-    original_price:
-      product.originalPrice === null || product.originalPrice === undefined
-        ? null
-        : Number(product.originalPrice),
-    image: product.image,
-    images: parseJsonArray(product.images),
-    description: product.description,
-    category: product.category,
-    categories: parseJsonArray(product.categories),
-    rating: Number(product.rating),
-    review_count: product.reviewCount,
-    in_stock: product.inStock,
-    featured: product.featured,
-    source: product.source,
-    sku: product.sku,
-    created_at: product.createdAt.toISOString(),
-    updated_at: product.updatedAt.toISOString(),
-  };
+    id: p.id,
+    title: p.title,
+    price: p.price,
+    original_price: p.original_price ?? null,
+    image: p.image,
+    images,
+    description: p.description ?? null,
+    category: p.category,
+    categories,
+    rating: p.rating ?? 4.5,
+    review_count: p.review_count ?? 0,
+    in_stock: p.in_stock ?? true,
+    featured: p.featured ?? false,
+    source: p.source ?? null,
+    sku: p.sku ?? null,
+    created_at: p.created_at,
+    updated_at: p.updated_at,
+  }
 }
 
 export async function GET(request: NextRequest) {
   try {
-    const { searchParams } = new URL(request.url);
-
-    const category = searchParams.get('category');
-    const subcategory = searchParams.get('subcategory');
-    const search = searchParams.get('search');
-    const sort = searchParams.get('sort');
-    const featured = searchParams.get('featured');
-    const limit = searchParams.get('limit');
-
-    // Build Prisma where clause
-    const where: Prisma.ProductWhereInput = {};
-
-    if (category && category.trim() !== '') {
-      // Match either the primary category field or the categories JSON array.
-      // SQLite is case-insensitive by default for ASCII LIKE/contains queries.
-      where.OR = [
-        { category: { equals: category } },
-        { category: { contains: category } },
-        { categories: { contains: category } },
-      ];
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({ products: [], total: 0, error: 'Database not configured' }, { status: 200 })
     }
 
-    if (subcategory && subcategory.trim() !== '') {
-      // subcategory lives inside the categories JSON array
-      where.categories = { contains: subcategory };
-    }
+    const { searchParams } = new URL(request.url)
+    const category = searchParams.get('category')
+    const subcategory = searchParams.get('subcategory')
+    const search = searchParams.get('search')
+    const sort = searchParams.get('sort') || 'newest'
+    const featured = searchParams.get('featured')
+    const limitRaw = searchParams.get('limit')
 
-    if (search && search.trim() !== '') {
-      const searchFilter: Prisma.ProductWhereInput = {
-        OR: [
-          { title: { contains: search } },
-          { description: { contains: search } },
-          { sku: { contains: search } },
-        ],
-      };
+    // Build filters
+    const filters: Record<string, string> = {}
+    if (category && category !== 'all') filters.category = `eq.${category}`
+    if (featured === 'true') filters.featured = 'eq.true'
 
-      if (where.AND) {
-        where.AND = Array.isArray(where.AND)
-          ? [...where.AND, searchFilter]
-          : [where.AND, searchFilter];
-      } else {
-        where.AND = [searchFilter];
-      }
-    }
-
-    if (featured !== null && featured !== undefined && featured !== '') {
-      const isFeatured = featured === 'true' || featured === '1';
-      where.featured = isFeatured;
-    }
-
-    // Build orderBy based on sort param
-    let orderBy: Prisma.ProductOrderByWithRelationInput = { createdAt: 'desc' };
+    // Build order
+    let order = 'created_at.desc'
     switch (sort) {
-      case 'price-asc':
-        orderBy = { price: 'asc' };
-        break;
-      case 'price-desc':
-        orderBy = { price: 'desc' };
-        break;
-      case 'rating-desc':
-        orderBy = { rating: 'desc' };
-        break;
-      case 'review-count-desc':
-        orderBy = { reviewCount: 'desc' };
-        break;
-      case 'name-asc':
-        orderBy = { title: 'asc' };
-        break;
-      case 'name-desc':
-        orderBy = { title: 'desc' };
-        break;
-      case 'newest':
-        orderBy = { createdAt: 'desc' };
-        break;
-      case 'featured':
-        orderBy = [{ featured: 'desc' }, { createdAt: 'desc' }];
-        break;
-      default:
-        orderBy = { createdAt: 'desc' };
+      case 'price-asc': order = 'price.asc'; break
+      case 'price-desc': order = 'price.desc'; break
+      case 'name-asc': order = 'title.asc'; break
+      case 'name-desc': order = 'title.desc'; break
+      case 'rating': order = 'rating.desc'; break
+      case 'featured': order = 'featured.desc'; break
+      default: order = 'created_at.desc'
     }
 
-    // Determine limit
-    const parsedLimit = limit ? parseInt(limit, 10) : undefined;
-    const take =
-      parsedLimit && !Number.isNaN(parsedLimit) && parsedLimit > 0
-        ? parsedLimit
-        : undefined;
+    const limit = limitRaw ? parseInt(limitRaw, 10) : undefined
 
-    const [products, total] = await Promise.all([
-      db.product.findMany({
-        where,
-        orderBy,
-        ...(take ? { take } : {}),
-      }),
-      db.product.count({ where }),
-    ]);
+    let { data, error } = await selectFrom<ProductRow>('products', '*', filters, { order, limit })
 
-    const transformed = products.map(transformProduct);
+    if (error) {
+      return NextResponse.json({ error }, { status: 500 })
+    }
 
-    return NextResponse.json({ products: transformed, total });
+    let products = data || []
+
+    // Client-side search (Supabase REST doesn't support ILIKE in query params easily)
+    if (search) {
+      const q = search.toLowerCase()
+      products = products.filter(p =>
+        p.title?.toLowerCase().includes(q) ||
+        p.description?.toLowerCase().includes(q) ||
+        p.category?.toLowerCase().includes(q)
+      )
+    }
+
+    // Client-side subcategory filter
+    if (subcategory && subcategory !== 'all') {
+      products = products.filter(p => {
+        try {
+          const cats = typeof p.categories === 'string' ? JSON.parse(p.categories) : (p.categories || [])
+          return cats.some((c: string) => c.toLowerCase() === subcategory.toLowerCase())
+        } catch {
+          return false
+        }
+      })
+    }
+
+    const transformed = products.map(transformProduct)
+
+    return NextResponse.json({ products: transformed, total: transformed.length })
   } catch (error) {
-    console.error('Error fetching products:', error);
-    return NextResponse.json(
-      { error: 'Failed to fetch products', products: [], total: 0 },
-      { status: 500 },
-    );
+    console.error('Error fetching products:', error)
+    return NextResponse.json({ error: 'Failed to fetch products' }, { status: 500 })
   }
 }

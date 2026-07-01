@@ -1,45 +1,33 @@
 import { NextResponse, NextRequest } from 'next/server'
-import { db } from '@/lib/db'
+import { selectFrom, updateIn, isSupabaseConfigured } from '@/lib/supabase-client'
 
-const VALID_STATUSES = [
-  'pending',
-  'processing',
-  'shipped',
-  'delivered',
-  'cancelled',
-] as const
-type OrderStatus = (typeof VALID_STATUSES)[number]
-
-interface UpdateOrderBody {
-  status: OrderStatus
-}
+const VALID_STATUSES = ['pending', 'processing', 'shipped', 'delivered', 'cancelled']
 
 export async function GET(
-  _request: NextRequest,
+  request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const { id } = await params
-
-    const order = await db.order.findUnique({
-      where: { id },
-      include: { items: true },
-    })
-
-    if (!order) {
-      return NextResponse.json(
-        { error: 'Order not found' },
-        { status: 404 }
-      )
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({ error: 'Database not configured' }, { status: 500 })
     }
 
-    return NextResponse.json(order)
+    const { id } = await params
+
+    const { data: orders, error: orderError } = await selectFrom('orders', '*', { id: `eq.${id}` })
+    if (orderError || !orders || orders.length === 0) {
+      return NextResponse.json({ error: 'Order not found' }, { status: 404 })
+    }
+
+    const { data: items, error: itemsError } = await selectFrom('order_items', '*', { order_id: `eq.${id}` })
+
+    return NextResponse.json({
+      ...orders[0],
+      items: itemsError ? [] : (items || []),
+    })
   } catch (error) {
-    console.error('Failed to get order:', error)
-    return NextResponse.json(
-      { error: 'Failed to get order' },
-      { status: 500 }
-    )
+    console.error('Error fetching order:', error)
+    return NextResponse.json({ error: 'Failed to fetch order' }, { status: 500 })
   }
 }
 
@@ -48,38 +36,27 @@ export async function PATCH(
   { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({ error: 'Database not configured' }, { status: 500 })
+    }
+
     const { id } = await params
-    const body = (await request.json()) as UpdateOrderBody
+    const body = await request.json()
+    const { status } = body
 
-    if (!body.status || !VALID_STATUSES.includes(body.status as OrderStatus)) {
-      return NextResponse.json(
-        {
-          error: `Invalid status. Must be one of: ${VALID_STATUSES.join(', ')}`,
-        },
-        { status: 400 }
-      )
+    if (!VALID_STATUSES.includes(status)) {
+      return NextResponse.json({ error: 'Invalid status' }, { status: 400 })
     }
 
-    const existing = await db.order.findUnique({ where: { id } })
-    if (!existing) {
-      return NextResponse.json(
-        { error: 'Order not found' },
-        { status: 404 }
-      )
+    const { data, error } = await updateIn('orders', { id: `eq.${id}` }, { status })
+
+    if (error) {
+      return NextResponse.json({ error }, { status: 500 })
     }
 
-    const order = await db.order.update({
-      where: { id },
-      data: { status: body.status },
-      include: { items: true },
-    })
-
-    return NextResponse.json(order)
+    return NextResponse.json(data?.[0] || { success: true })
   } catch (error) {
-    console.error('Failed to update order:', error)
-    return NextResponse.json(
-      { error: 'Failed to update order' },
-      { status: 500 }
-    )
+    console.error('Error updating order:', error)
+    return NextResponse.json({ error: 'Failed to update order' }, { status: 500 })
   }
 }

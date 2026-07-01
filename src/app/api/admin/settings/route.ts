@@ -1,65 +1,51 @@
-import { NextResponse, NextRequest } from 'next/server';
-import { db } from '@/lib/db';
+import { NextResponse, NextRequest } from 'next/server'
+import { selectFrom, updateIn, insertInto, isSupabaseConfigured } from '@/lib/supabase-client'
 
 export async function GET() {
   try {
-    const settings = await db.siteSetting.findMany();
-    const map: Record<string, string> = {};
-    for (const s of settings) {
-      map[s.key] = s.value;
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({})
     }
-    return NextResponse.json(map);
+
+    const { data, error } = await selectFrom('site_settings', '*')
+
+    if (error) {
+      return NextResponse.json({ error }, { status: 500 })
+    }
+
+    const settings: Record<string, string> = {}
+    for (const row of data || []) {
+      settings[row.key] = row.value
+    }
+
+    return NextResponse.json(settings)
   } catch (error) {
-    console.error('Failed to fetch settings:', error);
-    return NextResponse.json(
-      { error: 'Failed to fetch settings' },
-      { status: 500 },
-    );
+    console.error('Error fetching settings:', error)
+    return NextResponse.json({ error: 'Failed to fetch settings' }, { status: 500 })
   }
 }
 
-export async function PATCH(req: NextRequest) {
+export async function PATCH(request: NextRequest) {
   try {
-    const body = (await req.json()) as Record<string, unknown>;
-
-    if (
-      !body ||
-      typeof body !== 'object' ||
-      Object.keys(body).length === 0
-    ) {
-      return NextResponse.json(
-        { error: 'No settings provided' },
-        { status: 400 },
-      );
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({ error: 'Database not configured' }, { status: 500 })
     }
 
-    const operations = Object.entries(body).map(([key, value]) =>
-      db.siteSetting.upsert({
-        where: { key },
-        create: {
-          key,
-          value: String(value ?? ''),
-        },
-        update: {
-          value: String(value ?? ''),
-        },
-      }),
-    );
+    const body = await request.json()
+    const settings = body.settings || body
 
-    await Promise.all(operations);
-
-    const all = await db.siteSetting.findMany();
-    const map: Record<string, string> = {};
-    for (const s of all) {
-      map[s.key] = s.value;
+    for (const [key, value] of Object.entries(settings)) {
+      // Try update first
+      const { error: updateError } = await updateIn('site_settings', { key: `eq.${key}` }, { value: String(value) })
+      if (updateError) {
+        // If update fails, try insert
+        await insertInto('site_settings', { key, value: String(value) })
+      }
     }
 
-    return NextResponse.json(map);
+    return NextResponse.json({ success: true })
   } catch (error) {
-    console.error('Failed to update settings:', error);
-    return NextResponse.json(
-      { error: 'Failed to update settings' },
-      { status: 500 },
-    );
+    console.error('Error updating settings:', error)
+    return NextResponse.json({ error: 'Failed to update settings' }, { status: 500 })
   }
 }
