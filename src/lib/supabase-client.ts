@@ -7,11 +7,16 @@
  *
  * IMPORTANT: These are read as functions (not constants) so they're evaluated
  * at runtime, not build time. This ensures env vars set on Render are picked up.
+ * If env vars are not set, hardcoded fallbacks are used.
  */
+
+// Hardcoded fallback — ensures the site works even if Render env vars aren't set
+const FALLBACK_SUPABASE_URL = "https://ojnczugjgqudqycxdlje.supabase.co";
+const FALLBACK_SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9qbmN6dWdqZ3F1ZHF5Y3hkbGplIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE5NjQxNDQsImV4cCI6MjA5NzU0MDE0NH0._m4ppmryYkZSpAQvOHRiHrc9Ub5TakQp4Mni6075Dso";
 
 /** Get the Supabase URL at runtime */
 function getSupabaseUrl(): string {
-  return process.env.NEXT_PUBLIC_SUPABASE_URL || process.env.SUPABASE_URL || "";
+  return process.env.NEXT_PUBLIC_SUPABASE_URL || process.env.SUPABASE_URL || FALLBACK_SUPABASE_URL;
 }
 
 /** Get the Supabase anon key at runtime */
@@ -20,7 +25,7 @@ function getSupabaseKey(): string {
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ||
     process.env.SUPABASE_ANON_KEY ||
     process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY ||
-    ""
+    FALLBACK_SUPABASE_KEY
   );
 }
 
