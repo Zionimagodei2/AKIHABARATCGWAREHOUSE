@@ -9,6 +9,8 @@ services:
     envVars:
       - key: NODE_ENV
         value: production
+      - key: DATABASE_URL
+        value: file:./db/akihabara.db
       - key: ADMIN_EMAIL
         value: admin@akihabara.com
       - key: ADMIN_PASSWORD

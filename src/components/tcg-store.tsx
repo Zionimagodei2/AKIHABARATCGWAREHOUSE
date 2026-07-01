@@ -294,6 +294,7 @@ export default function TCGStore() {
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [currentPage, setCurrentPage] = useState<PageView>("shop");
   const [currentUser, setCurrentUser] = useState<{ id: string; email: string; name: string } | null>(null);
+  const [mounted, setMounted] = useState(false);
   const [visibleCount, setVisibleCount] = useState(12);
 
   // Group products by category for homepage 2-per-category display
@@ -326,6 +327,11 @@ export default function TCGStore() {
       s0.parentNode?.insertBefore(s1, s0);
     }, 1500);
     return () => clearTimeout(timer);
+  }, []);
+
+  // Set mounted flag to prevent hydration mismatches with Radix components
+  useEffect(() => {
+    setMounted(true);
   }, []);
 
   // Restore user session on mount
@@ -567,17 +573,23 @@ export default function TCGStore() {
                 <Search className="size-5" />
               </Button>
 
-              <Select value={currency} onValueChange={(v) => setCurrency(v as CurrencyCode)}>
-                <SelectTrigger className="w-[72px] h-9 text-[11px] font-bold border-gray-200 bg-gray-50">
-                  <SelectValue />
-                </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="USD">USD $</SelectItem>
-                  <SelectItem value="JPY">JPY ¥</SelectItem>
-                  <SelectItem value="EUR">EUR €</SelectItem>
-                  <SelectItem value="GBP">GBP £</SelectItem>
-                </SelectContent>
-              </Select>
+              {mounted ? (
+                <Select value={currency} onValueChange={(v) => setCurrency(v as CurrencyCode)}>
+                  <SelectTrigger className="w-[72px] h-9 text-[11px] font-bold border-gray-200 bg-gray-50">
+                    <SelectValue />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="USD">USD $</SelectItem>
+                    <SelectItem value="JPY">JPY ¥</SelectItem>
+                    <SelectItem value="EUR">EUR €</SelectItem>
+                    <SelectItem value="GBP">GBP £</SelectItem>
+                  </SelectContent>
+                </Select>
+              ) : (
+                <div className="w-[72px] h-9 text-[11px] font-bold border border-gray-200 bg-gray-50 rounded-md flex items-center justify-center">
+                  USD $
+                </div>
+              )}
 
               <Button variant="ghost" size="icon" className="relative" onClick={() => setCartOpen(true)} aria-label="Open shopping cart">
                 <ShoppingCart className="size-5" />
