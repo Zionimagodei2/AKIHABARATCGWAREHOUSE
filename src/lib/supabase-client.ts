@@ -4,37 +4,43 @@
  *
  * Uses the anon key (NEXT_PUBLIC_SUPABASE_URL + NEXT_PUBLIC_SUPABASE_ANON_KEY)
  * which works with Supabase's REST API (PostgREST) without needing a database password.
+ *
+ * IMPORTANT: These are read as functions (not constants) so they're evaluated
+ * at runtime, not build time. This ensures env vars set on Render are picked up.
  */
 
-const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL || process.env.SUPABASE_URL || "";
-const SUPABASE_ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || process.env.SUPABASE_ANON_KEY || process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY || "";
+/** Get the Supabase URL at runtime */
+function getSupabaseUrl(): string {
+  return process.env.NEXT_PUBLIC_SUPABASE_URL || process.env.SUPABASE_URL || "";
+}
+
+/** Get the Supabase anon key at runtime */
+function getSupabaseKey(): string {
+  return (
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ||
+    process.env.SUPABASE_ANON_KEY ||
+    process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY ||
+    ""
+  );
+}
 
 /** Whether Supabase REST API is configured */
 export const isSupabaseConfigured = (): boolean =>
-  Boolean(SUPABASE_URL && SUPABASE_ANON_KEY);
-
-/** Get the Supabase URL */
-export function getSupabaseUrl(): string {
-  return SUPABASE_URL;
-}
-
-/** Get the Supabase anon key */
-export function getSupabaseKey(): string {
-  return SUPABASE_ANON_KEY;
-}
+  Boolean(getSupabaseUrl() && getSupabaseKey());
 
 /** Common headers for all Supabase REST requests */
 function headers(): Record<string, string> {
+  const key = getSupabaseKey();
   return {
-    "apikey": SUPABASE_ANON_KEY,
-    "Authorization": `Bearer ${SUPABASE_ANON_KEY}`,
+    "apikey": key,
+    "Authorization": `Bearer ${key}`,
     "Content-Type": "application/json",
   };
 }
 
 /** Build the REST API base URL for a table */
 function tableUrl(table: string): string {
-  return `${SUPABASE_URL}/rest/v1/${table}`;
+  return `${getSupabaseUrl()}/rest/v1/${table}`;
 }
 
 // ─────────── Generic CRUD ───────────
