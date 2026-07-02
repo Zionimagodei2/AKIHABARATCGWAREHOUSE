@@ -178,14 +178,14 @@ const CATEGORY_TABS = [
 
 const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
   "Pokemon": [
-    { key: "Booster Boxes", label: "Booster Boxes" },
     { key: "Sealed Case", label: "Sealed Case" },
+    { key: "Booster Boxes", label: "Booster Boxes" },
     { key: "Special Set & Promo", label: "Special Set & Promo" },
     { key: "Promo", label: "Promo" },
   ],
   "One Piece": [
-    { key: "Booster Boxes", label: "Booster Boxes" },
     { key: "Sealed Case", label: "Sealed Case" },
+    { key: "Booster Boxes", label: "Booster Boxes" },
     { key: "Special Set", label: "Special Set" },
   ],
   "Other TCG": [
@@ -430,13 +430,51 @@ export default function TCGStore() {
           (p.category && p.category.toLowerCase().includes(q))
       );
     }
+    // Custom sort: priority by subcategory, then OP-xx numerical order
+    const getCategoryPriority = (p: Product): number => {
+      const cats = p.categories || [];
+      const sub = p.subcategory || (cats.length > 1 ? cats[1] : "");
+      const subLower = sub.toLowerCase();
+      if (subLower === "sealed case") return 0;
+      if (subLower === "booster boxes") return 1;
+      if (subLower.includes("special")) return 2;
+      if (subLower === "promo") return 3;
+      return 4;
+    };
+
+    // Extract OP-xx number for numerical sorting (e.g., "OP-14" → 14)
+    const getOpNumber = (p: Product): number => {
+      const match = p.title.match(/OP-(\d+)/i);
+      return match ? parseInt(match[1], 10) : 9999;
+    };
+
+    // Extract SV-xx, EB-xx, etc. for numerical sorting
+    const getSetNumber = (p: Product): number => {
+      const match = p.title.match(/(?:OP|SV|EB|ST|VS|PR)-?(\d+)/i);
+      return match ? parseInt(match[1], 10) : 9999;
+    };
+
     switch (sortOption) {
       case "price-asc": filtered = [...filtered].sort((a, b) => a.price - b.price); break;
       case "price-desc": filtered = [...filtered].sort((a, b) => b.price - a.price); break;
       case "name-asc": filtered = [...filtered].sort((a, b) => a.title.localeCompare(b.title)); break;
       case "name-desc": filtered = [...filtered].sort((a, b) => b.title.localeCompare(a.title)); break;
       case "rating": filtered = [...filtered].sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0)); break;
-      default: break;
+      default:
+        // Featured/default: sort by category priority, then OP-xx number, then rating
+        filtered = [...filtered].sort((a, b) => {
+          const pa = getCategoryPriority(a);
+          const pb = getCategoryPriority(b);
+          if (pa !== pb) return pa - pb;
+          const oa = getOpNumber(a);
+          const ob = getOpNumber(b);
+          if (oa !== ob) return ob - oa; // Higher OP numbers first (newer series)
+          const sa = getSetNumber(a);
+          const sb = getSetNumber(b);
+          if (sa !== sb) return sb - sa;
+          return (b.rating ?? 0) - (a.rating ?? 0);
+        });
+        break;
     }
     return filtered;
   }, [products, selectedCategory, selectedSubcategory, searchQuery, sortOption]);
@@ -1168,9 +1206,28 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               const catLabel = catTab?.label || catKey;
               const catGradient = catTab?.gradient || "from-purple-500 to-indigo-500";
               const totalInCat = catProducts.length;
-              // Show 4 products per category on homepage
+              // Show 4 products per category on homepage, sorted by priority
+              const getCatPriority = (p: Product): number => {
+                const cats = p.categories || [];
+                const sub = p.subcategory || (cats.length > 1 ? cats[1] : "");
+                const subLower = sub.toLowerCase();
+                if (subLower === "sealed case") return 0;
+                if (subLower === "booster boxes") return 1;
+                if (subLower.includes("special")) return 2;
+                if (subLower === "promo") return 3;
+                return 4;
+              };
+              const getOpNum = (p: Product): number => {
+                const m = p.title.match(/OP-(\d+)/i);
+                return m ? parseInt(m[1], 10) : 0;
+              };
               const displayProducts = [...catProducts]
-                .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0))
+                .sort((a, b) => {
+                  const pa = getCatPriority(a);
+                  const pb = getCatPriority(b);
+                  if (pa !== pb) return pa - pb;
+                  return getOpNum(b) - getOpNum(a);
+                })
                 .slice(0, 4);
 
               return (
