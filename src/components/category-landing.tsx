@@ -379,9 +379,9 @@ export default function CategoryLanding({ category }: { category: string }) {
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
               <div className="flex items-center gap-2">
                 <img
-                  src="/logo.webp"
+                  src="/store-logo.webp"
                   alt="Akihabara TCG Warehouse logo"
-                  className="w-8 h-8 object-contain"
+                  className="w-8 h-8 object-cover rounded-sm"
                 />
                 <span className="font-extrabold font-[family-name:var(--font-montserrat)]">
                   AKIHABARA TCG WAREHOUSE

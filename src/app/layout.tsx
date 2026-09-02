@@ -86,10 +86,10 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "/favicon.ico?v=3" },
-      { url: "/favicon-32.png?v=3", type: "image/png", sizes: "32x32" },
+      { url: "/favicon.ico?v=4" },
+      { url: "/favicon-32.png?v=4", type: "image/png", sizes: "32x32" },
     ],
-    apple: "/apple-touch-icon.png?v=3",
+    apple: "/apple-touch-icon.png?v=4",
   },
   manifest: "/site.webmanifest",
   openGraph: {
@@ -127,7 +127,7 @@ export default function RootLayout({
         "@id": "https://www.akihabaratcgwarehouse.com/#store",
         name: "Akihabara TCG Warehouse",
         url: "https://www.akihabaratcgwarehouse.com",
-        logo: "https://www.akihabaratcgwarehouse.com/logo.webp",
+        logo: "https://www.akihabaratcgwarehouse.com/store-logo.webp",
         description: "Premium Japanese & English TCG card shop based in Akihabara, Tokyo. Authentic Pokemon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam & Disney Lorcana trading card games.",
         image: "https://www.akihabaratcgwarehouse.com/og-image.png",
         priceRange: "$$",
@@ -201,7 +201,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
         <link rel="preload" href="/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.webp" as="image" />
-        <link rel="preload" href="/logo.webp" as="image" />
+        <link rel="preload" href="/store-logo.webp" as="image" />
         {/* Tawk.to live chat — warm up connections early so the chat widget
             appears as soon as possible without blocking page render */}
         <link rel="preconnect" href="https://embed.tawk.to" />

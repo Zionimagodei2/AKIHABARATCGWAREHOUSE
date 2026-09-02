@@ -22,7 +22,7 @@ const prefixes = new Set();
 
 // root-level brand assets (referenced from metadata / manifest / docs)
 for (const f of [
-  "/logo.webp",
+  "/store-logo.webp",
   "/og-image.png",
   "/favicon.ico",
   "/favicon-32.png",

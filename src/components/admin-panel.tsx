@@ -1273,7 +1273,7 @@ export default function AdminPanel() {
           <Card className="border-0 shadow-2xl">
             <CardHeader className="text-center pb-2">
               <div className="mx-auto mb-4 flex items-center justify-center gap-3">
-                <Image src="/logo.webp" alt="Akihabara TCG" width={48} height={48} className="rounded-lg" />
+                <Image src="/store-logo.webp" alt="Akihabara TCG" width={48} height={48} className="rounded-lg object-cover" />
                 <div>
                   <h1 className="text-xl font-bold text-purple-950">Akihabara TCG</h1>
                   <p className="text-xs text-gray-500">Admin Panel</p>
@@ -1346,7 +1346,7 @@ export default function AdminPanel() {
       >
         {/* Logo */}
         <div className="p-5 flex items-center gap-3 border-b border-white/10">
-          <Image src="/logo.webp" alt="Logo" width={40} height={40} className="rounded-lg" />
+          <Image src="/store-logo.webp" alt="Logo" width={40} height={40} className="rounded-lg object-cover" />
           <div>
             <h2 className="text-white font-bold text-sm">Akihabara TCG</h2>
             <p className="text-white/50 text-[11px]">Warehouse Admin</p>

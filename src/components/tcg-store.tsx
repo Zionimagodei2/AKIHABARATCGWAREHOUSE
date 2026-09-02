@@ -536,7 +536,7 @@ export default function TCGStore({
             {/* Logo */}
             <button onClick={() => navigateTo("shop")} aria-label="Akihabara TCG Warehouse — home" className="flex items-center gap-3 shrink-0 group">
               <div className="w-10 h-10 rounded-lg overflow-hidden flex items-center justify-center group-hover:opacity-90 transition-opacity shrink-0">
-                <img src="/logo.webp" alt="Akihabara TCG Warehouse logo" className="w-full h-full object-contain" />
+                <img src="/store-logo.webp" alt="Akihabara TCG Warehouse logo" className="w-full h-full object-cover" />
               </div>
               <div className="hidden sm:block">
                 <span className="block text-[17px] font-extrabold font-[family-name:var(--font-montserrat)] text-purple-900 leading-none tracking-tight">
@@ -701,7 +701,7 @@ export default function TCGStore({
             <div className="sm:col-span-2 lg:col-span-1">
               <div className="flex items-center gap-2.5 mb-5">
                 <div className="w-10 h-10 rounded-lg overflow-hidden flex items-center justify-center shrink-0">
-                  <img src="/logo.webp" alt="Akihabara TCG Warehouse" className="w-full h-full object-contain" />
+                  <img src="/store-logo.webp" alt="Akihabara TCG Warehouse" className="w-full h-full object-cover" />
                 </div>
                 <div>
                   <h3 className="font-extrabold font-[family-name:var(--font-montserrat)] text-white text-[15px] leading-none">

@@ -51,18 +51,22 @@ const MIME = {
 
 const COMPRESSIBLE = new Set([".html", ".css", ".js", ".mjs", ".json", ".webmanifest", ".xml", ".txt", ".svg", ".map"]);
 
-/** path → { raw, gz, mime, cacheControl } (lazy, RAM-cached forever) */
+/** path → { raw, gz, mime, cacheControl, mtime } (lazy, RAM-cached, mtime-aware) */
 const cache = new Map();
 
 function loadFile(absPath, urlPath) {
+  const mtime = statSync(absPath).mtimeMs;
   const hit = cache.get(absPath);
-  if (hit) return hit;
+  // A rebuild can swap files under us (e.g. new deploy of ./out) — pick up
+  // new bytes transparently instead of serving stale RAM content forever.
+  if (hit && hit.mtime === mtime) return hit;
   const raw = readFileSync(absPath);
   const ext = extname(absPath);
   const entry = {
     raw,
     gz: COMPRESSIBLE.has(ext) && raw.length > 1024 ? zlib.gzipSync(raw, { level: 6 }) : null,
     mime: MIME[ext] || "application/octet-stream",
+    mtime,
     cacheControl:
       urlPath.startsWith("/images/") || urlPath.startsWith("/_next/static/")
         ? "public, max-age=31536000, immutable"
