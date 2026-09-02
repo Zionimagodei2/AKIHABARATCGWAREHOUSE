@@ -1,0 +1,76 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Render Blueprint — Akihabara TCG Warehouse
+#
+# One-command deployment: in the Render Dashboard choose
+#   New → Blueprint → select this repository
+# Render reads this file, creates the service, builds and deploys it.
+# Every future `git push` to `main` redeploys automatically.
+#
+# Hosting model: free Static Site (always on, global CDN, gzip/brotli).
+# Docs: https://render.com/docs/blueprint-spec
+# ─────────────────────────────────────────────────────────────────────────────
+services:
+  - type: web
+    name: akihabara-tcg-warehouse
+    runtime: static
+
+    # Deterministic build: package-lock.json pins every dependency to the
+    # exact versions the site was developed and tested with.
+    # prisma generate provides types for src/lib/db.ts during type-check.
+    buildCommand: npm ci --legacy-peer-deps --no-audit --no-fund && npx prisma generate && npm run build:static
+
+    # scripts/build-static.sh runs `next build` with NEXT_OUTPUT=export and
+    # writes the fully static site to ./out (208+ HTML pages).
+    staticPublishPath: ./out
+
+    # Keep every push to main deploying automatically; no PR previews on
+    # the free plan.
+    autoDeploy: true
+    pullRequestPreviewsEnabled: false
+
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+
+    # ── Caching & security headers ──────────────────────────────────────────
+    # Product/hero images never change (filenames are content hashes),
+    # so browsers and the CDN can cache them forever. Render clears its
+    # CDN cache on every deploy, so HTML is always fresh.
+    headers:
+      - path: /images/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /_next/static/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /sitemap.xml
+        name: Cache-Control
+        value: public, max-age=3600
+      - path: /robots.txt
+        name: Cache-Control
+        value: public, max-age=3600
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+
+    # ── Canonical trailing-slash URLs ───────────────────────────────────────
+    # The site's internal links, sitemap and canonicals all use trailing
+    # slashes (…/product/<slug>/). These rules 301-redirect any extension-
+    # less request to the canonical form. Render only applies a rule when
+    # no file exists at the requested path, so real pages are unaffected.
+    routes:
+      - type: redirect
+        source: /product/:slug
+        destination: /product/:slug/
+      - type: redirect
+        source: /pokemon-cards
+        destination: /pokemon-cards/
+      - type: redirect
+        source: /one-piece-cards
+        destination: /one-piece-cards/
+      - type: redirect
+        source: /japanese-tcg
+        destination: /japanese-tcg/
