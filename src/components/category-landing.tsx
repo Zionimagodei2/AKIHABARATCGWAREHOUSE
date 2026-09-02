@@ -38,7 +38,7 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
     metaTitle:
       "Japanese Pokemon Cards — Booster Boxes, Sealed Cases | Akihabara TCG",
     metaDescription:
-      "Authentic Japanese Pokemon cards: SV-era booster boxes, special sets & promos. Factory sealed, direct from Akihabara, Tokyo. Ships worldwide with 100% authenticity guarantee.",
+      "Authentic Japanese Pokemon cards: sealed cases, SV-era booster boxes, special sets & promos. Factory sealed, direct from Akihabara, Tokyo. Ships worldwide with 100% authenticity guarantee.",
     keywords: [
       "Japanese Pokemon cards",
       "Pokemon booster box Japanese",
@@ -47,19 +47,24 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
       "Japanese Pokemon TCG",
       "Pokemon cards from Japan",
       "Japanese Pokemon special set",
+      "Pokemon sealed case Japanese",
+      "Japanese Pokemon sealed case",
       "Akihabara Pokemon cards",
     ],
     h1: "Japanese Pokémon Cards",
     eyebrow: "Pokémon TCG · Direct from Japan",
     intro:
-      "Shop {count} authentic Japanese Pokémon cards direct from Akihabara, Tokyo — the world capital of trading card games. Our Pokémon collection spans the newest Scarlet & Violet era sets alongside modern classics, from single booster boxes to special sets and limited promotional products. Japanese Pokémon booster boxes are prized by collectors worldwide for their exclusive artwork, earlier release dates and different pull rates compared to English sets, making them the preferred format for serious collectors and players. Every item we sell is factory sealed and sourced directly from authorized Japanese distributors, then shipped worldwide in protective packaging with full tracking. Orders over $500 ship free, and every purchase is backed by our 100% authenticity guarantee and 30-day returns on sealed products.",
-    sectionOrder: ["Booster Boxes", "Special Set & Promo", "Promo"],
+      "Shop {count} authentic Japanese Pokémon cards direct from Akihabara, Tokyo — the world capital of trading card games. Our Pokémon collection spans the newest Scarlet & Violet era sets alongside modern classics, from single booster boxes and complete sealed display cases to special sets and limited promotional products. Japanese Pokémon booster boxes are prized by collectors worldwide for their exclusive artwork, earlier release dates and different pull rates compared to English sets, making them the preferred format for serious collectors and players. Every item we sell is factory sealed and sourced directly from authorized Japanese distributors, then shipped worldwide in protective packaging with full tracking. Orders over $500 ship free, and every purchase is backed by our 100% authenticity guarantee and 30-day returns on sealed products.",
+    sectionOrder: ["Sealed Case", "Booster Boxes", "Special Set & Promo", "Promo"],
     sectionTitles: {
+      "Sealed Case": "Pokémon Sealed Cases",
       "Booster Boxes": "Pokémon Booster Boxes",
       "Special Set & Promo": "Pokémon Special Sets & Promos",
       Promo: "Pokémon Promo Cards",
     },
     sectionDescriptions: {
+      "Sealed Case":
+        "Complete sealed display cases of 12 or 20 booster boxes — the best per-box pricing for collectors, stores and serious players.",
       "Booster Boxes":
         "Factory-sealed Japanese Pokémon booster boxes from the latest expansions — Scarlet & Violet era sets, legacy classics and everything between.",
       "Special Set & Promo":

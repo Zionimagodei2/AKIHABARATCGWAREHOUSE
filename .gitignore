@@ -69,3 +69,4 @@ server.log
 /db/
 /mini-services/
 Caddyfile
+upload/

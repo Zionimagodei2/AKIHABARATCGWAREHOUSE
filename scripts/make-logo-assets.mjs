@@ -9,7 +9,7 @@ import fs from "fs";
  * never matched the favicon (store photo). This script regenerates every
  * icon from one master image so logo == favicon everywhere.
  */
-const SRC = "/home/z/my-project/upload/file_000000003ea471f4a311e1fe579c1730.png";
+const SRC = "/home/z/my-project/scripts/assets/logo-master.png";
 const PUB = "/home/z/my-project/public";
 
 // sanity: master must be a clean square photo
