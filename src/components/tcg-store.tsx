@@ -529,13 +529,21 @@ export default function TCGStore({
     }
   }, [currentPage, navigateTo]);
 
-  /* Category pills now live in the header — clicking one filters the shop
-     (and navigates back to the shop first when triggered from another page)
-     and opens its subcategory dropdown for refinement. */
+  /* Category pill click = OPEN the subcategory dropdown only — the visitor
+     always gets the chance to choose a subcategory (or "All {Category}")
+     from the menu before any navigation happens. */
   const handleCategoryNav = useCallback((key: string) => {
-    goToProducts(key, "all");
-    setOpenCatDropdown((prev) => (prev === key ? null : key));
-  }, [goToProducts]);
+    const canHover =
+      typeof window !== "undefined" &&
+      !!window.matchMedia?.("(hover: hover)").matches;
+    if (canHover) {
+      // Hover devices already reveal the menu on hover; click keeps it open.
+      setOpenCatDropdown(key);
+    } else {
+      // Touch devices: tap toggles the dropdown (first tap opens, second closes).
+      setOpenCatDropdown((prev) => (prev === key ? null : key));
+    }
+  }, []);
 
   /* Subcategory selection from the header dropdown or the footer accordion. */
   const handleSubcategoryNav = useCallback((catKey: string, subKey: string) => {
@@ -700,7 +708,7 @@ export default function TCGStore({
                   return (
                     <button
                       key={tab.key}
-                      onClick={() => { setOpenCatDropdown(null); handleCategoryNav(tab.key); }}
+                      onClick={() => { setOpenCatDropdown(null); goToProducts(tab.key, "all"); }}
                       aria-pressed={isActive}
                       className={`px-3.5 py-1.5 rounded-full text-[12px] font-semibold whitespace-nowrap transition-all duration-200 shrink-0 border ${
                         isActive
