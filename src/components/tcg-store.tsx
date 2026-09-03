@@ -256,6 +256,9 @@ export default function TCGStore({
   );
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [selectedSubcategory, setSelectedSubcategory] = useState("all");
+  // Open category dropdown in the header / open category accordion in the footer
+  const [openCatDropdown, setOpenCatDropdown] = useState<string | null>(null);
+  const [openFooterCat, setOpenFooterCat] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [sortOption, setSortOption] = useState<SortOption>("featured");
   const [currency, setCurrency] = useState<CurrencyCode>("USD");
@@ -507,12 +510,13 @@ export default function TCGStore({
     window.scrollTo({ top: 0, behavior: "auto" });
   }, []);
 
-  /* Category pills now live in the header — clicking one filters the shop
-     (and navigates back to the shop first when triggered from another page). */
-  const handleCategoryNav = useCallback((key: string) => {
-    setSelectedCategory(key);
-    setSelectedSubcategory("all");
+  /* Shared helper: switch the shop to a category (+optional subcategory)
+     and smooth-scroll to the products grid. */
+  const goToProducts = useCallback((catKey: string, subKey: string) => {
+    setSelectedCategory(catKey);
+    setSelectedSubcategory(subKey);
     setMobileMenuOpen(false);
+    setOpenCatDropdown(null);
     const scrollToProducts = () => {
       const el = document.getElementById("products");
       if (el) el.scrollIntoView({ behavior: "smooth" });
@@ -524,6 +528,37 @@ export default function TCGStore({
       scrollToProducts();
     }
   }, [currentPage, navigateTo]);
+
+  /* Category pills now live in the header — clicking one filters the shop
+     (and navigates back to the shop first when triggered from another page)
+     and opens its subcategory dropdown for refinement. */
+  const handleCategoryNav = useCallback((key: string) => {
+    goToProducts(key, "all");
+    setOpenCatDropdown((prev) => (prev === key ? null : key));
+  }, [goToProducts]);
+
+  /* Subcategory selection from the header dropdown or the footer accordion. */
+  const handleSubcategoryNav = useCallback((catKey: string, subKey: string) => {
+    goToProducts(catKey, subKey);
+  }, [goToProducts]);
+
+  // Close the header dropdown on outside click / Escape
+  useEffect(() => {
+    if (!openCatDropdown) return;
+    const onDoc = (e: MouseEvent) => {
+      const bar = document.getElementById("header-category-bar");
+      if (bar && !bar.contains(e.target as Node)) setOpenCatDropdown(null);
+    };
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setOpenCatDropdown(null);
+    };
+    document.addEventListener("mousedown", onDoc);
+    document.addEventListener("keydown", onKey);
+    return () => {
+      document.removeEventListener("mousedown", onDoc);
+      document.removeEventListener("keydown", onKey);
+    };
+  }, [openCatDropdown]);
 
   /* ─────────── Render ─────────── */
 
@@ -649,25 +684,102 @@ export default function TCGStore({
           </div>
 
           {/* ── Category bar (categories moved from the products section into the header) ── */}
-          <div className="border-t border-purple-100/70 bg-white/70">
-            <div className="flex items-center gap-1.5 overflow-x-auto scrollbar-none py-2 px-1">
+          <div id="header-category-bar" className="border-t border-purple-100/70 bg-white/70">
+            <div className="flex flex-wrap items-center gap-1.5 py-2 px-1">
               <span className="hidden lg:inline-flex items-center pr-2 text-[10px] font-bold uppercase tracking-[0.18em] text-violet-400 shrink-0 select-none">
                 Categories
               </span>
-              {CATEGORY_TABS.map((tab) => (
-                <button
-                  key={tab.key}
-                  onClick={() => handleCategoryNav(tab.key)}
-                  aria-pressed={currentPage === "shop" && selectedCategory === tab.key}
-                  className={`px-3.5 py-1.5 rounded-full text-[12px] font-semibold whitespace-nowrap transition-all duration-200 shrink-0 border ${
-                    currentPage === "shop" && selectedCategory === tab.key
-                      ? "bg-purple-950 text-white shadow-md border-purple-950"
-                      : "bg-purple-50/80 text-gray-600 hover:bg-purple-100 hover:text-purple-900 border-purple-100"
-                  }`}
-                >
-                  {tab.label}
-                </button>
-              ))}
+              {CATEGORY_TABS.map((tab) => {
+                const subs = SUBCATEGORY_TABS[tab.key];
+                const hasDropdown = !!subs && subs.length > 0;
+                const isDropdownOpen = openCatDropdown === tab.key;
+                const isActive = currentPage === "shop" && selectedCategory === tab.key;
+                const isLast = tab.key === CATEGORY_TABS[CATEGORY_TABS.length - 1].key;
+
+                if (!hasDropdown) {
+                  return (
+                    <button
+                      key={tab.key}
+                      onClick={() => { setOpenCatDropdown(null); handleCategoryNav(tab.key); }}
+                      aria-pressed={isActive}
+                      className={`px-3.5 py-1.5 rounded-full text-[12px] font-semibold whitespace-nowrap transition-all duration-200 shrink-0 border ${
+                        isActive
+                          ? "bg-purple-950 text-white shadow-md border-purple-950"
+                          : "bg-purple-50/80 text-gray-600 hover:bg-purple-100 hover:text-purple-900 border-purple-100"
+                      }`}
+                    >
+                      {tab.label}
+                    </button>
+                  );
+                }
+
+                return (
+                  <div
+                    key={tab.key}
+                    className="relative shrink-0"
+                    onMouseEnter={() => {
+                      // Desktop hover opens; touch devices use the tap below
+                      if (typeof window !== "undefined" && window.matchMedia?.("(hover: hover)").matches) {
+                        setOpenCatDropdown(tab.key);
+                      }
+                    }}
+                    onMouseLeave={() => {
+                      if (typeof window !== "undefined" && window.matchMedia?.("(hover: hover)").matches) {
+                        setOpenCatDropdown((prev) => (prev === tab.key ? null : prev));
+                      }
+                    }}
+                  >
+                    <button
+                      onClick={() => handleCategoryNav(tab.key)}
+                      aria-expanded={isDropdownOpen}
+                      aria-haspopup="menu"
+                      aria-pressed={isActive}
+                      className={`flex items-center gap-1 px-3.5 py-1.5 rounded-full text-[12px] font-semibold whitespace-nowrap transition-all duration-200 border ${
+                        isActive
+                          ? "bg-purple-950 text-white shadow-md border-purple-950"
+                          : "bg-purple-50/80 text-gray-600 hover:bg-purple-100 hover:text-purple-900 border-purple-100"
+                      }`}
+                    >
+                      {tab.label}
+                      <ChevronDown className={`size-3.5 transition-transform duration-200 ${isDropdownOpen ? "rotate-180" : ""}`} />
+                    </button>
+
+                    {isDropdownOpen && (
+                      <div
+                        role="menu"
+                        className={`absolute top-full ${isLast ? "right-0" : "left-0"} mt-1.5 w-56 max-w-[calc(100vw-2.5rem)] bg-white rounded-xl shadow-xl shadow-purple-900/10 border border-purple-100 py-1.5 z-50`}
+                      >
+                        <button
+                          role="menuitem"
+                          onClick={() => handleSubcategoryNav(tab.key, "all")}
+                          className={`block w-full text-left px-4 py-2 text-[12px] font-semibold transition-colors ${
+                            selectedSubcategory === "all"
+                              ? "text-purple-900 bg-purple-50"
+                              : "text-gray-700 hover:bg-purple-50 hover:text-purple-900"
+                          }`}
+                        >
+                          All {tab.label}
+                        </button>
+                        <div className="h-px bg-purple-100 my-1" />
+                        {subs!.map((sub) => (
+                          <button
+                            key={sub.key}
+                            role="menuitem"
+                            onClick={() => handleSubcategoryNav(tab.key, sub.key)}
+                            className={`block w-full text-left px-4 py-2 text-[12px] transition-colors ${
+                              currentPage === "shop" && selectedSubcategory === sub.key
+                                ? "text-purple-900 bg-purple-50 font-semibold"
+                                : "text-gray-600 hover:bg-purple-50 hover:text-purple-900"
+                            }`}
+                          >
+                            {sub.label}
+                          </button>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                );
+              })}
             </div>
           </div>
 
@@ -785,44 +897,52 @@ export default function TCGStore({
               </ul>
             </div>
 
-            {/* Column 3: Categories — crawlable links to SEO landing pages */}
+            {/* Column 3: Categories — tap a category to reveal its subcategories.
+                The "View all" SEO links stay in the DOM (class-toggled, not
+                conditionally rendered) so they remain crawlable. */}
             <div>
               <h4 className="font-bold text-white text-[13px] tracking-wide uppercase mb-5">
                 Categories
               </h4>
-              <ul className="space-y-3">
-                <li>
-                  <Link
-                    href="/pokemon-cards"
-                    className="text-[13px] text-gray-300 hover:text-violet-300 transition-colors"
-                  >
-                    Japanese Pokémon Cards
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    href="/one-piece-cards"
-                    className="text-[13px] text-gray-300 hover:text-violet-300 transition-colors"
-                  >
-                    Japanese One Piece Cards
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    href="/japanese-tcg"
-                    className="text-[13px] text-gray-300 hover:text-violet-300 transition-colors"
-                  >
-                    Weiss Schwarz, Union Arena &amp; More
-                  </Link>
-                </li>
-                <li>
-                  <button
-                    onClick={() => { setSelectedCategory("all"); navigateTo("shop"); }}
-                    className="text-[13px] text-gray-300 hover:text-violet-300 transition-colors"
-                  >
-                    Browse In-Store Filters
-                  </button>
-                </li>
+              <ul className="space-y-1.5">
+                {[
+                  { key: "Pokemon", label: "Japanese Pokémon Cards", short: "Pokémon", href: "/pokemon-cards" },
+                  { key: "One Piece", label: "Japanese One Piece Cards", short: "One Piece", href: "/one-piece-cards" },
+                  { key: "Other TCG", label: "Weiss Schwarz, Union Arena & More", short: "Other TCG", href: "/japanese-tcg" },
+                ].map((cat) => {
+                  const subs = SUBCATEGORY_TABS[cat.key] || [];
+                  const isFooterOpen = openFooterCat === cat.key;
+                  return (
+                    <li key={cat.key}>
+                      <button
+                        onClick={() => setOpenFooterCat(isFooterOpen ? null : cat.key)}
+                        aria-expanded={isFooterOpen}
+                        className="flex w-full items-center justify-between gap-2 text-left text-[13px] text-gray-300 hover:text-violet-300 transition-colors py-1"
+                      >
+                        <span>{cat.label}</span>
+                        <ChevronDown className={`size-3.5 shrink-0 transition-transform duration-200 ${isFooterOpen ? "rotate-180" : ""}`} />
+                      </button>
+                      {/* Always rendered; visually toggled to keep links crawlable */}
+                      <div className={`${isFooterOpen ? "block" : "hidden"} mt-1 mb-2 ml-3 border-l border-purple-400/30 pl-3 space-y-1.5`}>
+                        <Link
+                          href={cat.href}
+                          className="block text-[12px] font-semibold text-violet-300 hover:text-violet-200 transition-colors"
+                        >
+                          View all {cat.short} →
+                        </Link>
+                        {subs.map((sub) => (
+                          <button
+                            key={sub.key}
+                            onClick={() => handleSubcategoryNav(cat.key, sub.key)}
+                            className="block w-full text-left text-[12px] text-gray-400 hover:text-violet-300 transition-colors"
+                          >
+                            {sub.label}
+                          </button>
+                        ))}
+                      </div>
+                    </li>
+                  );
+                })}
               </ul>
             </div>
 

@@ -591,7 +591,7 @@ export default function AdminPanel() {
     setLoginError("");
 
     // Admin credentials
-    const ADMIN_EMAIL = "akihabrat1@gmail.com";
+    const ADMIN_EMAIL = "akihabaratcgwarehouse1@gmail.com";
     const ADMIN_PASSWORD = "Akihabarat1$";
 
     try {
@@ -1289,7 +1289,7 @@ export default function AdminPanel() {
                   <Input
                     id="email"
                     type="email"
-                    placeholder="akihabrat1@gmail.com"
+                    placeholder="akihabaratcgwarehouse1@gmail.com"
                     value={loginEmail}
                     onChange={(e) => setLoginEmail(e.target.value)}
                     required
