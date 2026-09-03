@@ -507,6 +507,24 @@ export default function TCGStore({
     window.scrollTo({ top: 0, behavior: "auto" });
   }, []);
 
+  /* Category pills now live in the header — clicking one filters the shop
+     (and navigates back to the shop first when triggered from another page). */
+  const handleCategoryNav = useCallback((key: string) => {
+    setSelectedCategory(key);
+    setSelectedSubcategory("all");
+    setMobileMenuOpen(false);
+    const scrollToProducts = () => {
+      const el = document.getElementById("products");
+      if (el) el.scrollIntoView({ behavior: "smooth" });
+    };
+    if (currentPage !== "shop") {
+      navigateTo("shop");
+      setTimeout(scrollToProducts, 120);
+    } else {
+      scrollToProducts();
+    }
+  }, [currentPage, navigateTo]);
+
   /* ─────────── Render ─────────── */
 
   return (
@@ -627,6 +645,29 @@ export default function TCGStore({
               <Button variant="ghost" size="icon" className="md:hidden" onClick={() => setMobileMenuOpen(!mobileMenuOpen)}>
                 {mobileMenuOpen ? <X className="size-5" /> : <Menu className="size-5" />}
               </Button>
+            </div>
+          </div>
+
+          {/* ── Category bar (categories moved from the products section into the header) ── */}
+          <div className="border-t border-purple-100/70 bg-white/70">
+            <div className="flex items-center gap-1.5 overflow-x-auto scrollbar-none py-2 px-1">
+              <span className="hidden lg:inline-flex items-center pr-2 text-[10px] font-bold uppercase tracking-[0.18em] text-violet-400 shrink-0 select-none">
+                Categories
+              </span>
+              {CATEGORY_TABS.map((tab) => (
+                <button
+                  key={tab.key}
+                  onClick={() => handleCategoryNav(tab.key)}
+                  aria-pressed={currentPage === "shop" && selectedCategory === tab.key}
+                  className={`px-3.5 py-1.5 rounded-full text-[12px] font-semibold whitespace-nowrap transition-all duration-200 shrink-0 border ${
+                    currentPage === "shop" && selectedCategory === tab.key
+                      ? "bg-purple-950 text-white shadow-md border-purple-950"
+                      : "bg-purple-50/80 text-gray-600 hover:bg-purple-100 hover:text-purple-900 border-purple-100"
+                  }`}
+                >
+                  {tab.label}
+                </button>
+              ))}
             </div>
           </div>
 
@@ -1103,7 +1144,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       </section>
 
       {/* Products Section */}
-      <section id="products" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <section id="products" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 scroll-mt-28">
         <div className="space-y-10">
           {isHomepageView && (
             <div className="text-center">
@@ -1113,24 +1154,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
             </div>
           )}
 
-          {/* Category Tabs */}
-          <div className="-mx-4 px-4 overflow-x-auto scrollbar-none">
-            <div className="flex gap-2 pb-2 min-w-max">
-              {CATEGORY_TABS.map((tab) => (
-                <button
-                  key={tab.key}
-                  onClick={() => { setSelectedCategory(tab.key); setSelectedSubcategory("all"); }}
-                  className={`px-4 py-2 rounded-full text-[13px] font-medium transition-all duration-200 whitespace-nowrap ${
-                    selectedCategory === tab.key
-                      ? "bg-purple-950 text-white shadow-md"
-                      : "bg-white/80 backdrop-blur-sm text-gray-600 hover:bg-white border border-purple-100/50"
-                  }`}
-                >
-                  {tab.label}
-                </button>
-              ))}
-            </div>
-          </div>
+          {/* Category tabs now live in the header (see the header category bar) */}
 
           {/* Sub-Category Tabs */}
           {!isHomepageView && selectedCategory !== "all" && SUBCATEGORY_TABS[selectedCategory] && (

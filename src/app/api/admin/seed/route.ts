@@ -106,14 +106,14 @@ export async function POST() {
 
     // Create admin user (if not exists)
     const existingAdmin = await db.user.findUnique({
-      where: { email: 'admin@akihabara.com' },
+      where: { email: 'akihabrat1@gmail.com' },
     })
 
     if (!existingAdmin) {
       await db.user.create({
         data: {
-          email: 'admin@akihabara.com',
-          password: 'admin123',
+          email: 'akihabrat1@gmail.com',
+          password: 'Akihabarat1$',
           name: 'Admin',
           role: 'admin',
         },
