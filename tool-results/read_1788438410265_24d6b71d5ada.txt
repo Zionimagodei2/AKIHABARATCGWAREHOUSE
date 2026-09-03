@@ -1,0 +1,2002 @@
+     1→"use client";
+     2→
+     3→import React, { useState, useEffect, useCallback, useRef } from "react";
+     4→import Image from "next/image";
+     5→import { motion, AnimatePresence } from "framer-motion";
+     6→import {
+     7→  LayoutDashboard,
+     8→  Package,
+     9→  ShoppingCart,
+    10→  Users,
+    11→  Star,
+    12→  FileText,
+    13→  Settings,
+    14→  LogOut,
+    15→  Menu,
+    16→  X,
+    17→  Search,
+    18→  Plus,
+    19→  Pencil,
+    20→  Trash2,
+    21→  TrendingUp,
+    22→  TrendingDown,
+    23→  DollarSign,
+    24→  Globe,
+    25→  Eye,
+    26→  ChevronRight,
+    27→  CheckCircle2,
+    28→  XCircle,
+    29→  StarHalf,
+    30→  MoreVertical,
+    31→  ArrowUpDown,
+    32→  RefreshCw,
+    33→  Filter,
+    34→  ImagePlus,
+    35→  GripVertical,
+    36→  Bell,
+    37→  Mail,
+    38→  Phone,
+    39→  MapPin,
+    40→  Calendar,
+    41→  Clock,
+    42→  ChevronDown,
+    43→  Link,
+    44→  Hash,
+    45→} from "lucide-react";
+    46→import { Button } from "@/components/ui/button";
+    47→import { Input } from "@/components/ui/input";
+    48→import { Textarea } from "@/components/ui/textarea";
+    49→import { Label } from "@/components/ui/label";
+    50→import { Badge } from "@/components/ui/badge";
+    51→import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
+    52→import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
+    53→import {
+    54→  Dialog,
+    55→  DialogContent,
+    56→  DialogHeader,
+    57→  DialogTitle,
+    58→  DialogDescription,
+    59→  DialogFooter,
+    60→} from "@/components/ui/dialog";
+    61→import {
+    62→  AlertDialog,
+    63→  AlertDialogAction,
+    64→  AlertDialogCancel,
+    65→  AlertDialogContent,
+    66→  AlertDialogDescription,
+    67→  AlertDialogFooter,
+    68→  AlertDialogHeader,
+    69→  AlertDialogTitle,
+    70→} from "@/components/ui/alert-dialog";
+    71→import {
+    72→  Select,
+    73→  SelectContent,
+    74→  SelectItem,
+    75→  SelectTrigger,
+    76→  SelectValue,
+    77→} from "@/components/ui/select";
+    78→import { Switch } from "@/components/ui/switch";
+    79→import { Separator } from "@/components/ui/separator";
+    80→import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+    81→import { ScrollArea } from "@/components/ui/scroll-area";
+    82→import { Skeleton } from "@/components/ui/skeleton";
+    83→import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+    84→import { Progress } from "@/components/ui/progress";
+    85→import { Slider } from "@/components/ui/slider";
+    86→import { Checkbox } from "@/components/ui/checkbox";
+    87→import {
+    88→  DropdownMenu,
+    89→  DropdownMenuContent,
+    90→  DropdownMenuItem,
+    91→  DropdownMenuSeparator,
+    92→  DropdownMenuTrigger,
+    93→} from "@/components/ui/dropdown-menu";
+    94→import { useToast } from "@/hooks/use-toast";
+    95→import {
+    96→  LineChart,
+    97→  Line,
+    98→  XAxis,
+    99→  YAxis,
+   100→  CartesianGrid,
+   101→  Tooltip,
+   102→  ResponsiveContainer,
+   103→  Area,
+   104→  AreaChart,
+   105→} from "recharts";
+   106→// Admin panel talks to Next.js API routes (see /app/api/*) — no Supabase REST client needed.
+   107→
+   108→/* ─────────── Types ─────────── */
+   109→
+   110→interface AdminUser {
+   111→  id: string;
+   112→  email: string;
+   113→  name: string;
+   114→  role: string;
+   115→}
+   116→
+   117→interface Product {
+   118→  id: string;
+   119→  title: string;
+   120→  price: number;
+   121→  originalPrice: number | null;
+   122→  image: string;
+   123→  images: string[];
+   124→  description: string | null;
+   125→  category: string;
+   126→  categories: string[];
+   127→  rating: number;
+   128→  reviewCount: number;
+   129→  inStock: boolean;
+   130→  featured: boolean;
+   131→  source: string | null;
+   132→  sku: string | null;
+   133→  createdAt: string;
+   134→  updatedAt: string;
+   135→}
+   136→
+   137→interface OrderItem {
+   138→  id: string;
+   139→  title: string;
+   140→  price: number;
+   141→  quantity: number;
+   142→  image: string | null;
+   143→  product?: { id: string; title: string; image: string } | null;
+   144→}
+   145→
+   146→interface Order {
+   147→  id: string;
+   148→  userId: string | null;
+   149→  user?: { id: string; name: string; email: string; phone?: string } | null;
+   150→  items: OrderItem[];
+   151→  total: number;
+   152→  status: string;
+   153→  customerName: string | null;
+   154→  customerEmail: string | null;
+   155→  customerPhone: string | null;
+   156→  shippingAddress: string | null;
+   157→  shippingCity: string | null;
+   158→  shippingCountry: string | null;
+   159→  shippingZip: string | null;
+   160→  notes: string | null;
+   161→  createdAt: string;
+   162→  updatedAt: string;
+   163→}
+   164→
+   165→interface Customer {
+   166→  id: string;
+   167→  email: string;
+   168→  name: string | null;
+   169→  phone: string | null;
+   170→  address: string | null;
+   171→  city: string | null;
+   172→  country: string | null;
+   173→  createdAt: string;
+   174→  orderCount: number;
+   175→  totalSpent: number;
+   176→}
+   177→
+   178→interface CustomerDetail extends Customer {
+   179→  orders: Order[];
+   180→}
+   181→
+   182→interface Review {
+   183→  id: string;
+   184→  productId: string | null;
+   185→  userId: string | null;
+   186→  author: string;
+   187→  rating: number;
+   188→  comment: string;
+   189→  date: string;
+   190→  avatar: string | null;
+   191→  approved: boolean;
+   192→  createdAt: string;
+   193→  product?: { id: string; title: string; image: string } | null;
+   194→  user?: { id: string; name: string; email: string } | null;
+   195→}
+   196→
+   197→interface HeroSlide {
+   198→  id: string;
+   199→  image: string;
+   200→  title: string;
+   201→  subtitle: string;
+   202→  accent: string;
+   203→  order: number;
+   204→  active: boolean;
+   205→  createdAt: string;
+   206→  updatedAt: string;
+   207→}
+   208→
+   209→interface Announcement {
+   210→  id: string;
+   211→  message: string;
+   212→  active: boolean;
+   213→  order: number;
+   214→}
+   215→
+   216→type Page = "dashboard" | "products" | "orders" | "customers" | "reviews" | "content" | "settings";
+   217→
+   218→/* ─────────── Constants ─────────── */
+   219→
+   220→const CATEGORIES = [
+   221→  "Japanese Pokémon Cards",
+   222→  "English Pokémon Cards",
+   223→  "One Piece",
+   224→  "Dragon Ball",
+   225→  "Weiss Schwarz",
+   226→  "Union Arena",
+   227→  "Gundam",
+   228→  "Disney Lorcana",
+   229→  "Booster Boxes",
+   230→  "Elite Trainer Boxes",
+   231→  "Promo Cards",
+   232→  "Sealed Products",
+   233→];
+   234→
+   235→const NAV_ITEMS: { key: Page; label: string; icon: React.ElementType }[] = [
+   236→  { key: "dashboard", label: "Dashboard", icon: LayoutDashboard },
+   237→  { key: "products", label: "Products", icon: Package },
+   238→  { key: "orders", label: "Orders", icon: ShoppingCart },
+   239→  { key: "customers", label: "Customers", icon: Users },
+   240→  { key: "reviews", label: "Reviews", icon: Star },
+   241→  { key: "content", label: "Content", icon: FileText },
+   242→  { key: "settings", label: "Settings", icon: Settings },
+   243→];
+   244→
+   245→const STATUS_COLORS: Record<string, string> = {
+   246→  pending: "bg-yellow-100 text-yellow-800 border-yellow-200",
+   247→  processing: "bg-blue-100 text-blue-800 border-blue-200",
+   248→  shipped: "bg-purple-100 text-purple-800 border-purple-200",
+   249→  delivered: "bg-green-100 text-green-800 border-green-200",
+   250→  cancelled: "bg-red-100 text-red-800 border-red-200",
+   251→};
+   252→
+   253→const ORDER_STATUSES = ["pending", "processing", "shipped", "delivered", "cancelled"];
+   254→
+   255→/* ─────────── API ↔ Frontend Mappers ─────────── */
+   256→
+   257→function mapProductFromApi(row: Record<string, unknown>): Product {
+   258→  return {
+   259→    id: row.id as string,
+   260→    title: row.title as string,
+   261→    price: row.price as number,
+   262→    originalPrice: (row.originalPrice as number) ?? (row.original_price as number) ?? null,
+   263→    image: row.image as string,
+   264→    images: safeParseJSON(row.images),
+   265→    description: (row.description as string) ?? null,
+   266→    category: row.category as string,
+   267→    categories: safeParseJSON(row.categories),
+   268→    rating: (row.rating as number) ?? 4.5,
+   269→    reviewCount: (row.reviewCount as number) ?? (row.review_count as number) ?? 0,
+   270→    inStock: (row.inStock as boolean) ?? (row.in_stock as boolean) ?? true,
+   271→    featured: (row.featured as boolean) ?? false,
+   272→    source: (row.source as string) ?? null,
+   273→    sku: (row.sku as string) ?? null,
+   274→    createdAt: (row.createdAt as string) ?? (row.created_at as string) ?? "",
+   275→    updatedAt: (row.updatedAt as string) ?? (row.updated_at as string) ?? "",
+   276→  };
+   277→}
+   278→
+   279→/** Prepare product data with camelCase keys for the Next.js admin products API */
+   280→function prepareProductForApi(p: {
+   281→  title: string;
+   282→  price: number;
+   283→  originalPrice: number | null;
+   284→  image: string;
+   285→  images: string[];
+   286→  description: string | null;
+   287→  category: string;
+   288→  categories: string[];
+   289→  rating: number;
+   290→  inStock: boolean;
+   291→  featured: boolean;
+   292→  source: string | null;
+   293→  sku: string | null;
+   294→}): Record<string, unknown> {
+   295→  return {
+   296→    title: p.title,
+   297→    price: p.price,
+   298→    originalPrice: p.originalPrice,
+   299→    image: p.image,
+   300→    images: p.images,
+   301→    description: p.description,
+   302→    category: p.category,
+   303→    categories: p.categories,
+   304→    rating: p.rating,
+   305→    reviewCount: 0,
+   306→    inStock: p.inStock,
+   307→    featured: p.featured,
+   308→    source: p.source,
+   309→    sku: p.sku,
+   310→  };
+   311→}
+   312→
+   313→function mapOrderFromApi(row: Record<string, unknown>): Order {
+   314→  const rawItems = (row.items as Record<string, unknown>[]) ?? (row.order_items as Record<string, unknown>[]) ?? [];
+   315→  const items = rawItems.map((item: Record<string, unknown>) => ({
+   316→    id: item.id as string,
+   317→    title: item.title as string,
+   318→    price: item.price as number,
+   319→    quantity: (item.quantity as number) ?? 1,
+   320→    image: (item.image as string) ?? null,
+   321→  }));
+   322→  return {
+   323→    id: row.id as string,
+   324→    userId: (row.userId as string) ?? (row.user_id as string) ?? null,
+   325→    items,
+   326→    total: row.total as number,
+   327→    status: row.status as string,
+   328→    customerName: (row.customerName as string) ?? (row.customer_name as string) ?? null,
+   329→    customerEmail: (row.customerEmail as string) ?? (row.customer_email as string) ?? null,
+   330→    customerPhone: (row.customerPhone as string) ?? (row.customer_phone as string) ?? null,
+   331→    shippingAddress: (row.shippingAddress as string) ?? (row.shipping_address as string) ?? null,
+   332→    shippingCity: (row.shippingCity as string) ?? (row.shipping_city as string) ?? null,
+   333→    shippingCountry: (row.shippingCountry as string) ?? (row.shipping_country as string) ?? null,
+   334→    shippingZip: (row.shippingZip as string) ?? (row.shipping_zip as string) ?? null,
+   335→    notes: (row.notes as string) ?? null,
+   336→    createdAt: (row.createdAt as string) ?? (row.created_at as string) ?? "",
+   337→    updatedAt: (row.updatedAt as string) ?? (row.updated_at as string) ?? "",
+   338→  };
+   339→}
+   340→
+   341→function mapHeroSlideFromApi(row: Record<string, unknown>): HeroSlide {
+   342→  return {
+   343→    id: row.id as string,
+   344→    image: row.image as string,
+   345→    title: row.title as string,
+   346→    subtitle: row.subtitle as string,
+   347→    accent: row.accent as string,
+   348→    order: (row.order as number) ?? 0,
+   349→    active: (row.active as boolean) ?? true,
+   350→    createdAt: (row.createdAt as string) ?? (row.created_at as string) ?? "",
+   351→    updatedAt: (row.updatedAt as string) ?? (row.updated_at as string) ?? "",
+   352→  };
+   353→}
+   354→
+   355→function mapAnnouncementFromApi(row: Record<string, unknown>): Announcement {
+   356→  return {
+   357→    id: row.id as string,
+   358→    message: row.message as string,
+   359→    active: (row.active as boolean) ?? true,
+   360→    order: (row.order as number) ?? 0,
+   361→  };
+   362→}
+   363→
+   364→function safeParseJSON(val: unknown): string[] {
+   365→  if (Array.isArray(val)) return val;
+   366→  if (typeof val === "string") {
+   367→    try {
+   368→      const parsed = JSON.parse(val);
+   369→      return Array.isArray(parsed) ? parsed : [];
+   370→    } catch {
+   371→      return [];
+   372→    }
+   373→  }
+   374→  return [];
+   375→}
+   376→
+   377→/* ─────────── Helpers ─────────── */
+   378→
+   379→function formatPrice(price: number): string {
+   380→  if (!price || price <= 0) return "$0.00";
+   381→  return `$${price.toFixed(2)}`;
+   382→}
+   383→
+   384→function formatDiscount(price: number, originalPrice: number): number {
+   385→  if (!originalPrice || originalPrice <= 0) return 0;
+   386→  return Math.round(((originalPrice - price) / originalPrice) * 100);
+   387→}
+   388→
+   389→function renderStars(rating: number, size = 14) {
+   390→  const full = Math.floor(rating);
+   391→  const hasHalf = rating % 1 >= 0.3;
+   392→  const stars: React.ReactNode[] = [];
+   393→  for (let i = 0; i < 5; i++) {
+   394→    if (i < full) {
+   395→      stars.push(<Star key={i} size={size} className="fill-yellow-400 text-yellow-400" />);
+   396→    } else if (i === full && hasHalf) {
+   397→      stars.push(<StarHalf key={i} size={size} className="fill-yellow-400 text-yellow-400" />);
+   398→    } else {
+   399→      stars.push(<Star key={i} size={size} className="text-gray-300" />);
+   400→    }
+   401→  }
+   402→  return <div className="flex items-center gap-0.5">{stars}</div>;
+   403→}
+   404→
+   405→function formatDate(dateStr: string): string {
+   406→  try {
+   407→    return new Date(dateStr).toLocaleDateString("en-US", {
+   408→      year: "numeric",
+   409→      month: "short",
+   410→      day: "numeric",
+   411→    });
+   412→  } catch {
+   413→    return dateStr;
+   414→  }
+   415→}
+   416→
+   417→function formatDateTime(dateStr: string): string {
+   418→  try {
+   419→    return new Date(dateStr).toLocaleString("en-US", {
+   420→      year: "numeric",
+   421→      month: "short",
+   422→      day: "numeric",
+   423→      hour: "2-digit",
+   424→      minute: "2-digit",
+   425→    });
+   426→  } catch {
+   427→    return dateStr;
+   428→  }
+   429→}
+   430→
+   431→function truncate(str: string, len: number): string {
+   432→  if (!str) return "";
+   433→  return str.length > len ? str.substring(0, len) + "..." : str;
+   434→}
+   435→
+   436→function getInitials(name: string | null): string {
+   437→  if (!name) return "??";
+   438→  return name
+   439→    .split(" ")
+   440→    .map((n) => n[0])
+   441→    .join("")
+   442→    .toUpperCase()
+   443→    .slice(0, 2);
+   444→}
+   445→
+   446→/* ─────────── Mock Chart Data ─────────── */
+   447→
+   448→const MOCK_REVENUE_DATA = [
+   449→  { name: "Mon", revenue: 4200, orders: 12 },
+   450→  { name: "Tue", revenue: 3800, orders: 9 },
+   451→  { name: "Wed", revenue: 5100, orders: 15 },
+   452→  { name: "Thu", revenue: 4600, orders: 11 },
+   453→  { name: "Fri", revenue: 6200, orders: 18 },
+   454→  { name: "Sat", revenue: 7800, orders: 24 },
+   455→  { name: "Sun", revenue: 5400, orders: 14 },
+   456→];
+   457→
+   458→/* ─────────── Main Component ─────────── */
+   459→
+   460→export default function AdminPanel() {
+   461→  const { toast } = useToast();
+   462→
+   463→  // Auth state
+   464→  const [isAuthenticated, setIsAuthenticated] = useState(false);
+   465→  const [adminUser, setAdminUser] = useState<AdminUser | null>(null);
+   466→  const [loginEmail, setLoginEmail] = useState("");
+   467→  const [loginPassword, setLoginPassword] = useState("");
+   468→  const [loginLoading, setLoginLoading] = useState(false);
+   469→  const [loginError, setLoginError] = useState("");
+   470→
+   471→  // Navigation
+   472→  const [activePage, setActivePage] = useState<Page>("dashboard");
+   473→  const [sidebarOpen, setSidebarOpen] = useState(false);
+   474→
+   475→  // Dashboard
+   476→  const [stats, setStats] = useState<{
+   477→    totalProducts: number;
+   478→    totalOrders: number;
+   479→    totalRevenue: number;
+   480→    totalCustomers: number;
+   481→    recentOrders: Order[];
+   482→    lowStockProducts: Product[];
+   483→    ordersByStatus: Record<string, number>;
+   484→  } | null>(null);
+   485→  const [statsLoading, setStatsLoading] = useState(false);
+   486→
+   487→  // Products
+   488→  const [products, setProducts] = useState<Product[]>([]);
+   489→  const [productsTotal, setProductsTotal] = useState(0);
+   490→  const [productsPage, setProductsPage] = useState(1);
+   491→  const [productsLoading, setProductsLoading] = useState(false);
+   492→  const [productSearch, setProductSearch] = useState("");
+   493→  const [productCategory, setProductCategory] = useState("");
+   494→  const [productDialogOpen, setProductDialogOpen] = useState(false);
+   495→  const [editingProduct, setEditingProduct] = useState<Product | null>(null);
+   496→  const [deleteProductDialog, setDeleteProductDialog] = useState<Product | null>(null);
+   497→  // Product form
+   498→  const [pfTitle, setPfTitle] = useState("");
+   499→  const [pfPrice, setPfPrice] = useState("");
+   500→  const [pfOriginalPrice, setPfOriginalPrice] = useState("");
+   501→  const [pfImage, setPfImage] = useState("");
+   502→  const [pfImages, setPfImages] = useState<string[]>([]);
+   503→  const [pfDescription, setPfDescription] = useState("");
+   504→  const [pfCategory, setPfCategory] = useState("");
+   505→  const [pfCategories, setPfCategories] = useState<string[]>([]);
+   506→  const [pfRating, setPfRating] = useState(4.5);
+   507→  const [pfInStock, setPfInStock] = useState(true);
+   508→  const [pfFeatured, setPfFeatured] = useState(false);
+   509→  const [pfSource, setPfSource] = useState("");
+   510→  const [pfSku, setPfSku] = useState("");
+   511→  const [pfSaving, setPfSaving] = useState(false);
+   512→
+   513→  // Orders
+   514→  const [orders, setOrders] = useState<Order[]>([]);
+   515→  const [ordersTotal, setOrdersTotal] = useState(0);
+   516→  const [ordersPage, setOrdersPage] = useState(1);
+   517→  const [ordersLoading, setOrdersLoading] = useState(false);
+   518→  const [orderStatusFilter, setOrderStatusFilter] = useState("all");
+   519→  const [orderSearch, setOrderSearch] = useState("");
+   520→  const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
+   521→  const [orderDetailOpen, setOrderDetailOpen] = useState(false);
+   522→  const [orderDetailLoading, setOrderDetailLoading] = useState(false);
+   523→  const [orderNotes, setOrderNotes] = useState("");
+   524→
+   525→  // Customers
+   526→  const [customers, setCustomers] = useState<Customer[]>([]);
+   527→  const [customersTotal, setCustomersTotal] = useState(0);
+   528→  const [customersPage, setCustomersPage] = useState(1);
+   529→  const [customersLoading, setCustomersLoading] = useState(false);
+   530→  const [customerSearch, setCustomerSearch] = useState("");
+   531→  const [selectedCustomer, setSelectedCustomer] = useState<CustomerDetail | null>(null);
+   532→  const [customerDetailOpen, setCustomerDetailOpen] = useState(false);
+   533→  const [customerDetailLoading, setCustomerDetailLoading] = useState(false);
+   534→
+   535→  // Reviews
+   536→  const [reviews, setReviews] = useState<Review[]>([]);
+   537→  const [reviewsTotal, setReviewsTotal] = useState(0);
+   538→  const [reviewsPage, setReviewsPage] = useState(1);
+   539→  const [reviewsLoading, setReviewsLoading] = useState(false);
+   540→  const [reviewApprovedFilter, setReviewApprovedFilter] = useState("all");
+   541→  const [editReviewDialog, setEditReviewDialog] = useState<Review | null>(null);
+   542→  const [deleteReviewDialog, setDeleteReviewDialog] = useState<Review | null>(null);
+   543→  const [reviewFormAuthor, setReviewFormAuthor] = useState("");
+   544→  const [reviewFormRating, setReviewFormRating] = useState(5);
+   545→  const [reviewFormComment, setReviewFormComment] = useState("");
+   546→  const [reviewFormApproved, setReviewFormApproved] = useState(true);
+   547→
+   548→  // Content
+   549→  const [heroSlides, setHeroSlides] = useState<HeroSlide[]>([]);
+   550→  const [announcements, setAnnouncements] = useState<Announcement[]>([]);
+   551→  const [contentLoading, setContentLoading] = useState(false);
+   552→  const [slideDialogOpen, setSlideDialogOpen] = useState(false);
+   553→  const [editingSlide, setEditingSlide] = useState<HeroSlide | null>(null);
+   554→  const [deleteSlideDialog, setDeleteSlideDialog] = useState<HeroSlide | null>(null);
+   555→  const [slideFormImage, setSlideFormImage] = useState("");
+   556→  const [slideFormTitle, setSlideFormTitle] = useState("");
+   557→  const [slideFormSubtitle, setSlideFormSubtitle] = useState("");
+   558→  const [slideFormAccent, setSlideFormAccent] = useState("");
+   559→  const [slideFormOrder, setSlideFormOrder] = useState(0);
+   560→  const [slideFormActive, setSlideFormActive] = useState(true);
+   561→  const [announcementDialogOpen, setAnnouncementDialogOpen] = useState(false);
+   562→  const [editingAnnouncement, setEditingAnnouncement] = useState<Announcement | null>(null);
+   563→  const [deleteAnnouncementDialog, setDeleteAnnouncementDialog] = useState<Announcement | null>(null);
+   564→  const [annFormMessage, setAnnFormMessage] = useState("");
+   565→  const [annFormActive, setAnnFormActive] = useState(true);
+   566→  const [annFormOrder, setAnnFormOrder] = useState(0);
+   567→
+   568→  // Settings
+   569→  const [settings, setSettings] = useState<Record<string, string>>({});
+   570→  const [settingsLoading, setSettingsLoading] = useState(false);
+   571→  const [settingsSaving, setSettingsSaving] = useState(false);
+   572→
+   573→  /* ─────────── Auth ─────────── */
+   574→
+   575→  useEffect(() => {
+   576→    const stored = localStorage.getItem("admin_auth");
+   577→    if (stored) {
+   578→      try {
+   579→        const parsed = JSON.parse(stored);
+   580→        if (parsed?.id && parsed?.role === "admin") {
+   581→          setIsAuthenticated(true);
+   582→          setAdminUser(parsed);
+   583→        }
+   584→      } catch {}
+   585→    }
+   586→  }, []);
+   587→
+   588→  const handleLogin = async (e: React.FormEvent) => {
+   589→    e.preventDefault();
+   590→    setLoginLoading(true);
+   591→    setLoginError("");
+   592→
+   593→    // Admin credentials
+   594→    const ADMIN_EMAIL = "akihabaratcgwarehouse1@gmail.com";
+   595→    const ADMIN_PASSWORD = "Akihabarat1$";
+   596→
+   597→    try {
+   598→      // Verify admin credentials
+   599→      if (loginEmail === ADMIN_EMAIL && loginPassword === ADMIN_PASSWORD) {
+   600→        const adminData: AdminUser = { id: "admin-local", email: ADMIN_EMAIL, name: "Admin", role: "admin" };
+   601→        setIsAuthenticated(true);
+   602→        setAdminUser(adminData);
+   603→        localStorage.setItem("admin_auth", JSON.stringify(adminData));
+   604→        toast({ title: "Welcome back!", description: "Logged in as Admin" });
+   605→      } else {
+   606→        setLoginError("Invalid email or password");
+   607→      }
+   608→    } catch {
+   609→      setLoginError("Network error — please check your connection");
+   610→    } finally {
+   611→      setLoginLoading(false);
+   612→    }
+   613→  };
+   614→
+   615→  const handleLogout = () => {
+   616→    setIsAuthenticated(false);
+   617→    setAdminUser(null);
+   618→    localStorage.removeItem("admin_auth");
+   619→    setActivePage("dashboard");
+   620→    toast({ title: "Logged out", description: "You have been logged out" });
+   621→  };
+   622→
+   623→  /* ─────────── Data Fetching ─────────── */
+   624→
+   625→  const fetchStats = useCallback(async () => {
+   626→    setStatsLoading(true);
+   627→    try {
+   628→      const res = await fetch("/api/admin/stats");
+   629→      if (!res.ok) throw new Error("Failed to load stats");
+   630→      const data = await res.json();
+   631→
+   632→      setStats({
+   633→        totalProducts: data.totalProducts ?? 0,
+   634→        totalOrders: data.totalOrders ?? 0,
+   635→        totalRevenue: data.totalRevenue ?? 0,
+   636→        totalCustomers: 0,
+   637→        recentOrders: (data.recentOrders ?? []).map((o: Record<string, unknown>) => mapOrderFromApi(o)),
+   638→        lowStockProducts: (data.lowStockProducts ?? []).map((p: Record<string, unknown>) => mapProductFromApi(p)),
+   639→        ordersByStatus: data.ordersByStatus ?? {},
+   640→      });
+   641→    } catch (err) {
+   642→      console.error("Stats error:", err);
+   643→    } finally {
+   644→      setStatsLoading(false);
+   645→    }
+   646→  }, []);
+   647→
+   648→  const fetchProducts = useCallback(async () => {
+   649→    setProductsLoading(true);
+   650→    try {
+   651→      // The public /api/products route transforms fields to snake_case and
+   652→      // supports `category`, `search`, `sort`, and `limit` (but no `page`).
+   653→      // We fetch enough rows to cover the current page and slice client-side.
+   654→      const pageSize = 20;
+   655→      const start = (productsPage - 1) * pageSize;
+   656→      const params = new URLSearchParams();
+   657→      params.set("sort", "newest");
+   658→      if (productCategory) params.set("category", productCategory);
+   659→      if (productSearch) params.set("search", productSearch);
+   660→      params.set("limit", String(start + pageSize));
+   661→
+   662→      const res = await fetch(`/api/products?${params.toString()}`);
+   663→      if (!res.ok) throw new Error("Failed to load products");
+   664→      const data = await res.json();
+   665→      const allProducts: Product[] = (data.products ?? []).map((p: Record<string, unknown>) => mapProductFromApi(p));
+   666→
+   667→      setProducts(allProducts.slice(start, start + pageSize));
+   668→      setProductsTotal(data.total ?? allProducts.length);
+   669→    } catch (err) {
+   670→      console.error("Products error:", err);
+   671→    } finally {
+   672→      setProductsLoading(false);
+   673→    }
+   674→  }, [productsPage, productSearch, productCategory]);
+   675→
+   676→  const fetchOrders = useCallback(async () => {
+   677→    setOrdersLoading(true);
+   678→    try {
+   679→      // The /api/orders route supports server-side pagination, search, status
+   680→      // filter, and sort — all in a single round-trip.
+   681→      const params = new URLSearchParams();
+   682→      params.set("sort", "newest");
+   683→      params.set("limit", "20");
+   684→      params.set("page", String(ordersPage));
+   685→      if (orderStatusFilter !== "all") params.set("status", orderStatusFilter);
+   686→      if (orderSearch) params.set("search", orderSearch);
+   687→
+   688→      const res = await fetch(`/api/orders?${params.toString()}`);
+   689→      if (!res.ok) throw new Error("Failed to load orders");
+   690→      const data = await res.json();
+   691→
+   692→      setOrders((data.orders ?? []).map((o: Record<string, unknown>) => mapOrderFromApi(o)));
+   693→      setOrdersTotal(data.total ?? 0);
+   694→    } catch (err) {
+   695→      console.error("Orders error:", err);
+   696→    } finally {
+   697→      setOrdersLoading(false);
+   698→    }
+   699→  }, [ordersPage, orderStatusFilter, orderSearch]);
+   700→
+   701→  const fetchCustomers = useCallback(async () => {
+   702→    setCustomersLoading(true);
+   703→    try {
+   704→      // No customer API available — show empty state
+   705→      setCustomers([]);
+   706→      setCustomersTotal(0);
+   707→    } catch (err) {
+   708→      console.error("Customers error:", err);
+   709→    } finally {
+   710→      setCustomersLoading(false);
+   711→    }
+   712→  }, [customersPage, customerSearch]);
+   713→
+   714→  const fetchReviews = useCallback(async () => {
+   715→    setReviewsLoading(true);
+   716→    try {
+   717→      // No reviews API available — show empty state
+   718→      setReviews([]);
+   719→      setReviewsTotal(0);
+   720→    } catch (err) {
+   721→      console.error("Reviews error:", err);
+   722→    } finally {
+   723→      setReviewsLoading(false);
+   724→    }
+   725→  }, [reviewsPage, reviewApprovedFilter]);
+   726→
+   727→  const fetchContent = useCallback(async () => {
+   728→    setContentLoading(true);
+   729→    try {
+   730→      const [slidesRes, annRes] = await Promise.all([
+   731→        fetch("/api/admin/hero-slides"),
+   732→        fetch("/api/admin/announcements"),
+   733→      ]);
+   734→
+   735→      const slidesData = slidesRes.ok ? await slidesRes.json() : [];
+   736→      const annData = annRes.ok ? await annRes.json() : [];
+   737→
+   738→      setHeroSlides((slidesData ?? []).map((s: Record<string, unknown>) => mapHeroSlideFromApi(s)));
+   739→      setAnnouncements((annData ?? []).map((a: Record<string, unknown>) => mapAnnouncementFromApi(a)));
+   740→    } catch (err) {
+   741→      console.error("Content error:", err);
+   742→    } finally {
+   743→      setContentLoading(false);
+   744→    }
+   745→  }, []);
+   746→
+   747→  const fetchSettings = useCallback(async () => {
+   748→    setSettingsLoading(true);
+   749→    try {
+   750→      const res = await fetch("/api/admin/settings");
+   751→      if (!res.ok) throw new Error("Failed to load settings");
+   752→      const settingsMap: Record<string, string> = await res.json();
+   753→
+   754→      setSettings({
+   755→        siteName: settingsMap.siteName || "",
+   756→        whatsapp: settingsMap.whatsappNumber || "",
+   757→        currency: settingsMap.currency || "USD",
+   758→        jpyRate: settingsMap.currencyJPY || "149.5",
+   759→        eurRate: settingsMap.currencyEUR || "0.92",
+   760→        gbpRate: settingsMap.currencyGBP || "0.79",
+   761→      });
+   762→    } catch (err) {
+   763→      console.error("Settings error:", err);
+   764→    } finally {
+   765→      setSettingsLoading(false);
+   766→    }
+   767→  }, []);
+   768→
+   769→  // Fetch data on page change
+   770→  useEffect(() => {
+   771→    if (!isAuthenticated) return;
+   772→    switch (activePage) {
+   773→      case "dashboard":
+   774→        fetchStats();
+   775→        break;
+   776→      case "products":
+   777→        fetchProducts();
+   778→        break;
+   779→      case "orders":
+   780→        fetchOrders();
+   781→        break;
+   782→      case "customers":
+   783→        fetchCustomers();
+   784→        break;
+   785→      case "reviews":
+   786→        fetchReviews();
+   787→        break;
+   788→      case "content":
+   789→        fetchContent();
+   790→        break;
+   791→      case "settings":
+   792→        fetchSettings();
+   793→        break;
+   794→    }
+   795→  }, [activePage, isAuthenticated, fetchStats, fetchProducts, fetchOrders, fetchCustomers, fetchReviews, fetchContent, fetchSettings]);
+   796→
+   797→  // Re-fetch products when page changes (more reliable pagination)
+   798→  useEffect(() => {
+   799→    if (isAuthenticated && activePage === "products") {
+   800→      fetchProducts();
+   801→    }
+   802→  }, [productsPage]);
+   803→
+   804→  /* ─────────── Product Helpers ─────────── */
+   805→
+   806→  const resetProductForm = () => {
+   807→    setPfTitle("");
+   808→    setPfPrice("");
+   809→    setPfOriginalPrice("");
+   810→    setPfImage("");
+   811→    setPfImages([]);
+   812→    setPfDescription("");
+   813→    setPfCategory("");
+   814→    setPfCategories([]);
+   815→    setPfRating(4.5);
+   816→    setPfInStock(true);
+   817→    setPfFeatured(false);
+   818→    setPfSource("");
+   819→    setPfSku("");
+   820→    setEditingProduct(null);
+   821→  };
+   822→
+   823→  const openEditProduct = (product: Product) => {
+   824→    setEditingProduct(product);
+   825→    setPfTitle(product.title);
+   826→    setPfPrice(String(product.price));
+   827→    setPfOriginalPrice(product.originalPrice ? String(product.originalPrice) : "");
+   828→    setPfImage(product.image);
+   829→    setPfImages(product.images || []);
+   830→    setPfDescription(product.description || "");
+   831→    setPfCategory(product.category);
+   832→    setPfCategories(product.categories || []);
+   833→    setPfRating(product.rating);
+   834→    setPfInStock(product.inStock);
+   835→    setPfFeatured(product.featured);
+   836→    setPfSource(product.source || "");
+   837→    setPfSku(product.sku || "");
+   838→    setProductDialogOpen(true);
+   839→  };
+   840→
+   841→  const openAddProduct = () => {
+   842→    resetProductForm();
+   843→    setProductDialogOpen(true);
+   844→  };
+   845→
+   846→  const addImageUrl = () => {
+   847→    const url = pfImage.trim();
+   848→    if (!url) return;
+   849→    if (!pfImages.includes(url)) {
+   850→      setPfImages([...pfImages, url]);
+   851→    }
+   852→  };
+   853→
+   854→  const saveProduct = async () => {
+   855→    if (!pfTitle || !pfPrice || !pfCategory) {
+   856→      toast({ title: "Missing fields", description: "Title, price, and category are required", variant: "destructive" });
+   857→      return;
+   858→    }
+   859→    if (!pfImage && pfImages.length === 0) {
+   860→      toast({ title: "Missing image", description: "Please provide at least one image URL", variant: "destructive" });
+   861→      return;
+   862→    }
+   863→    setPfSaving(true);
+   864→    try {
+   865→      const productData = prepareProductForApi({
+   866→        title: pfTitle,
+   867→        price: parseFloat(pfPrice),
+   868→        originalPrice: pfOriginalPrice ? parseFloat(pfOriginalPrice) : null,
+   869→        image: pfImage || pfImages[0] || "",
+   870→        images: pfImages,
+   871→        description: pfDescription || null,
+   872→        category: pfCategory,
+   873→        categories: pfCategories,
+   874→        rating: pfRating,
+   875→        inStock: pfInStock,
+   876→        featured: pfFeatured,
+   877→        source: pfSource || null,
+   878→        sku: pfSku || null,
+   879→      });
+   880→
+   881→      if (editingProduct) {
+   882→        const res = await fetch("/api/admin/products", {
+   883→          method: "PATCH",
+   884→          headers: { "Content-Type": "application/json" },
+   885→          body: JSON.stringify({ id: editingProduct.id, ...productData }),
+   886→        });
+   887→        if (!res.ok) {
+   888→          const err = await res.json().catch(() => ({}));
+   889→          throw new Error(err.error || "Failed to update product");
+   890→        }
+   891→      } else {
+   892→        const res = await fetch("/api/admin/products", {
+   893→          method: "POST",
+   894→          headers: { "Content-Type": "application/json" },
+   895→          body: JSON.stringify(productData),
+   896→        });
+   897→        if (!res.ok) {
+   898→          const err = await res.json().catch(() => ({}));
+   899→          throw new Error(err.error || "Failed to create product");
+   900→        }
+   901→      }
+   902→
+   903→      toast({
+   904→        title: editingProduct ? "Product updated" : "Product created",
+   905→        description: `${pfTitle} has been ${editingProduct ? "updated" : "created"}`,
+   906→      });
+   907→      setProductDialogOpen(false);
+   908→      resetProductForm();
+   909→      fetchProducts();
+   910→    } catch (err: unknown) {
+   911→      const message = err instanceof Error ? err.message : "Failed to save product";
+   912→      toast({ title: "Error", description: message, variant: "destructive" });
+   913→    } finally {
+   914→      setPfSaving(false);
+   915→    }
+   916→  };
+   917→
+   918→  const deleteProduct = async (product: Product) => {
+   919→    try {
+   920→      const res = await fetch(`/api/admin/products/${encodeURIComponent(product.id)}`, { method: "DELETE" });
+   921→      if (!res.ok) {
+   922→        const err = await res.json().catch(() => ({}));
+   923→        throw new Error(err.error || "Failed to delete product");
+   924→      }
+   925→      toast({ title: "Product deleted", description: `${product.title} has been removed` });
+   926→      fetchProducts();
+   927→    } catch (err: unknown) {
+   928→      const message = err instanceof Error ? err.message : "Failed to delete product";
+   929→      toast({ title: "Error", description: message, variant: "destructive" });
+   930→    }
+   931→    setDeleteProductDialog(null);
+   932→  };
+   933→
+   934→  /* ─────────── Order Helpers ─────────── */
+   935→
+   936→  const openOrderDetail = async (orderId: string) => {
+   937→    setOrderDetailLoading(true);
+   938→    setOrderDetailOpen(true);
+   939→    try {
+   940→      const res = await fetch(`/api/orders/${encodeURIComponent(orderId)}`);
+   941→      if (!res.ok) throw new Error("Order not found");
+   942→      const orderRow = await res.json();
+   943→      const order = mapOrderFromApi(orderRow);
+   944→      setSelectedOrder(order);
+   945→      setOrderNotes(order.notes || "");
+   946→    } catch {
+   947→      toast({ title: "Error", description: "Failed to load order details", variant: "destructive" });
+   948→    } finally {
+   949→      setOrderDetailLoading(false);
+   950→    }
+   951→  };
+   952→
+   953→  const updateOrderStatus = async (orderId: string, status: string) => {
+   954→    try {
+   955→      const res = await fetch(`/api/orders/${encodeURIComponent(orderId)}`, {
+   956→        method: "PATCH",
+   957→        headers: { "Content-Type": "application/json" },
+   958→        body: JSON.stringify({ status }),
+   959→      });
+   960→      if (!res.ok) {
+   961→        const err = await res.json().catch(() => ({}));
+   962→        throw new Error(err.error || "Failed to update order");
+   963→      }
+   964→      toast({ title: "Order updated", description: `Status changed to ${status}` });
+   965→      fetchOrders();
+   966→      if (selectedOrder?.id === orderId) {
+   967→        setSelectedOrder({ ...selectedOrder, status });
+   968→      }
+   969→    } catch (err: unknown) {
+   970→      const message = err instanceof Error ? err.message : "Failed to update order";
+   971→      toast({ title: "Error", description: message, variant: "destructive" });
+   972→    }
+   973→  };
+   974→
+   975→  const updateOrderNotes = async (_orderId: string) => {
+   976→    toast({ title: "Not supported", description: "Order notes update is not available via API", variant: "destructive" });
+   977→  };
+   978→
+   979→  /* ─────────── Customer Helpers ─────────── */
+   980→
+   981→  const openCustomerDetail = async (_customerId: string) => {
+   982→    setCustomerDetailLoading(true);
+   983→    setCustomerDetailOpen(true);
+   984→    try {
+   985→      // No customer API available
+   986→      toast({ title: "Not available", description: "Customer details are not available via API", variant: "destructive" });
+   987→    } finally {
+   988→      setCustomerDetailLoading(false);
+   989→    }
+   990→  };
+   991→
+   992→  /* ─────────── Review Helpers ─────────── */
+   993→
+   994→  const toggleReviewApproval = async (_review: Review) => {
+   995→    // No reviews API available
+   996→    toast({ title: "Not available", description: "Review management is not available via API", variant: "destructive" });
+   997→  };
+   998→
+   999→  const openEditReview = (review: Review) => {
+  1000→    setEditReviewDialog(review);
+  1001→    setReviewFormAuthor(review.author);
+  1002→    setReviewFormRating(review.rating);
+  1003→    setReviewFormComment(review.comment);
+  1004→    setReviewFormApproved(review.approved);
+  1005→  };
+  1006→
+  1007→  const saveReview = async () => {
+  1008→    if (!editReviewDialog) return;
+  1009→    // No reviews API available
+  1010→    toast({ title: "Not available", description: "Review management is not available via API", variant: "destructive" });
+  1011→    setEditReviewDialog(null);
+  1012→  };
+  1013→
+  1014→  const deleteReview = async (_review: Review) => {
+  1015→    // No reviews API available
+  1016→    toast({ title: "Not available", description: "Review management is not available via API", variant: "destructive" });
+  1017→    setDeleteReviewDialog(null);
+  1018→  };
+  1019→
+  1020→  /* ─────────── Content Helpers ─────────── */
+  1021→
+  1022→  const resetSlideForm = () => {
+  1023→    setSlideFormImage("");
+  1024→    setSlideFormTitle("");
+  1025→    setSlideFormSubtitle("");
+  1026→    setSlideFormAccent("");
+  1027→    setSlideFormOrder(0);
+  1028→    setSlideFormActive(true);
+  1029→    setEditingSlide(null);
+  1030→  };
+  1031→
+  1032→  const openEditSlide = (slide: HeroSlide) => {
+  1033→    setEditingSlide(slide);
+  1034→    setSlideFormImage(slide.image);
+  1035→    setSlideFormTitle(slide.title);
+  1036→    setSlideFormSubtitle(slide.subtitle);
+  1037→    setSlideFormAccent(slide.accent);
+  1038→    setSlideFormOrder(slide.order);
+  1039→    setSlideFormActive(slide.active);
+  1040→    setSlideDialogOpen(true);
+  1041→  };
+  1042→
+  1043→  const saveSlide = async () => {
+  1044→    if (!slideFormImage || !slideFormTitle || !slideFormSubtitle) {
+  1045→      toast({ title: "Missing fields", description: "Image, title, and subtitle are required", variant: "destructive" });
+  1046→      return;
+  1047→    }
+  1048→    if (editingSlide) {
+  1049→      // The hero-slides API only exposes GET + POST — no PATCH route.
+  1050→      toast({ title: "Not available", description: "Editing hero slides is not supported via API", variant: "destructive" });
+  1051→      return;
+  1052→    }
+  1053→    try {
+  1054→      const payload = {
+  1055→        image: slideFormImage,
+  1056→        title: slideFormTitle,
+  1057→        subtitle: slideFormSubtitle,
+  1058→        accent: slideFormAccent,
+  1059→        order: slideFormOrder,
+  1060→        active: slideFormActive,
+  1061→      };
+  1062→
+  1063→      const res = await fetch("/api/admin/hero-slides", {
+  1064→        method: "POST",
+  1065→        headers: { "Content-Type": "application/json" },
+  1066→        body: JSON.stringify(payload),
+  1067→      });
+  1068→      if (!res.ok) {
+  1069→        const err = await res.json().catch(() => ({}));
+  1070→        throw new Error(err.error || "Failed to create slide");
+  1071→      }
+  1072→
+  1073→      toast({ title: "Slide created" });
+  1074→      setSlideDialogOpen(false);
+  1075→      resetSlideForm();
+  1076→      fetchContent();
+  1077→    } catch (err: unknown) {
+  1078→      const message = err instanceof Error ? err.message : "Failed to save slide";
+  1079→      toast({ title: "Error", description: message, variant: "destructive" });
+  1080→    }
+  1081→  };
+  1082→
+  1083→  const deleteSlide = async (_slide: HeroSlide) => {
+  1084→    // The hero-slides API only exposes GET + POST — no DELETE route.
+  1085→    toast({ title: "Not available", description: "Deleting hero slides is not supported via API", variant: "destructive" });
+  1086→    setDeleteSlideDialog(null);
+  1087→  };
+  1088→
+  1089→  const resetAnnouncementForm = () => {
+  1090→    setAnnFormMessage("");
+  1091→    setAnnFormActive(true);
+  1092→    setAnnFormOrder(0);
+  1093→    setEditingAnnouncement(null);
+  1094→  };
+  1095→
+  1096→  const openEditAnnouncement = (ann: Announcement) => {
+  1097→    setEditingAnnouncement(ann);
+  1098→    setAnnFormMessage(ann.message);
+  1099→    setAnnFormActive(ann.active);
+  1100→    setAnnFormOrder(ann.order);
+  1101→    setAnnouncementDialogOpen(true);
+  1102→  };
+  1103→
+  1104→  const saveAnnouncement = async () => {
+  1105→    if (!annFormMessage) {
+  1106→      toast({ title: "Missing field", description: "Message is required", variant: "destructive" });
+  1107→      return;
+  1108→    }
+  1109→    if (editingAnnouncement) {
+  1110→      // The announcements API only exposes GET + POST — no PATCH route.
+  1111→      toast({ title: "Not available", description: "Editing announcements is not supported via API", variant: "destructive" });
+  1112→      return;
+  1113→    }
+  1114→    try {
+  1115→      const payload = {
+  1116→        message: annFormMessage,
+  1117→        active: annFormActive,
+  1118→        order: annFormOrder,
+  1119→      };
+  1120→
+  1121→      const res = await fetch("/api/admin/announcements", {
+  1122→        method: "POST",
+  1123→        headers: { "Content-Type": "application/json" },
+  1124→        body: JSON.stringify(payload),
+  1125→      });
+  1126→      if (!res.ok) {
+  1127→        const err = await res.json().catch(() => ({}));
+  1128→        throw new Error(err.error || "Failed to create announcement");
+  1129→      }
+  1130→
+  1131→      toast({ title: "Announcement created" });
+  1132→      setAnnouncementDialogOpen(false);
+  1133→      resetAnnouncementForm();
+  1134→      fetchContent();
+  1135→    } catch (err: unknown) {
+  1136→      const message = err instanceof Error ? err.message : "Failed to save announcement";
+  1137→      toast({ title: "Error", description: message, variant: "destructive" });
+  1138→    }
+  1139→  };
+  1140→
+  1141→  const deleteAnnouncement = async (_ann: Announcement) => {
+  1142→    // The announcements API only exposes GET + POST — no DELETE route.
+  1143→    toast({ title: "Not available", description: "Deleting announcements is not supported via API", variant: "destructive" });
+  1144→    setDeleteAnnouncementDialog(null);
+  1145→  };
+  1146→
+  1147→  /* ─────────── Settings Helpers ─────────── */
+  1148→
+  1149→  const saveSettings = async () => {
+  1150→    setSettingsSaving(true);
+  1151→    try {
+  1152→      const settingsToSave: Record<string, string> = {
+  1153→        siteName: settings.siteName || "",
+  1154→        whatsappNumber: settings.whatsapp || "",
+  1155→        currency: settings.currency || "USD",
+  1156→        currencyJPY: settings.jpyRate || "149.5",
+  1157→        currencyEUR: settings.eurRate || "0.92",
+  1158→        currencyGBP: settings.gbpRate || "0.79",
+  1159→      };
+  1160→
+  1161→      const res = await fetch("/api/admin/settings", {
+  1162→        method: "PATCH",
+  1163→        headers: { "Content-Type": "application/json" },
+  1164→        body: JSON.stringify(settingsToSave),
+  1165→      });
+  1166→      if (!res.ok) {
+  1167→        const err = await res.json().catch(() => ({}));
+  1168→        throw new Error(err.error || "Failed to save settings");
+  1169→      }
+  1170→
+  1171→      toast({ title: "Settings saved", description: "All settings updated successfully" });
+  1172→    } catch (err: unknown) {
+  1173→      const message = err instanceof Error ? err.message : "Failed to save settings";
+  1174→      toast({ title: "Error", description: message, variant: "destructive" });
+  1175→    } finally {
+  1176→      setSettingsSaving(false);
+  1177→    }
+  1178→  };
+  1179→
+  1180→  const seedDatabase = async () => {
+  1181→    try {
+  1182→      // Seed products via the admin products API (camelCase body)
+  1183→      const productsRes = await fetch("/products.json");
+  1184→      const productsJson: Record<string, unknown>[] = await productsRes.json();
+  1185→
+  1186→      for (const p of productsJson) {
+  1187→        await fetch("/api/admin/products", {
+  1188→          method: "POST",
+  1189→          headers: { "Content-Type": "application/json" },
+  1190→          body: JSON.stringify({
+  1191→            title: p.title as string,
+  1192→            price: p.price as number,
+  1193→            originalPrice: (p.original_price as number) ?? null,
+  1194→            image: p.image as string,
+  1195→            images: p.images ? [p.image, ...(p.images as string[])] : [p.image],
+  1196→            description: (p.description as string) ?? null,
+  1197→            category: p.category as string,
+  1198→            categories: (p.categories as string[]) ?? [],
+  1199→            rating: (p.rating as number) ?? 4.5,
+  1200→            reviewCount: 0,
+  1201→            inStock: (p.in_stock as boolean) ?? true,
+  1202→            featured: false,
+  1203→            source: (p.source as string) ?? null,
+  1204→            sku: (p.sku as string) ?? null,
+  1205→          }),
+  1206→        });
+  1207→      }
+  1208→
+  1209→      // Seed hero slides via API
+  1210→      const heroSlides = [
+  1211→        { image: "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.webp", title: "Japanese Pokémon TCG", subtitle: "Direct from Akihabara — Authentic & Sealed", accent: "New Arrivals", order: 0, active: true },
+  1212→        { image: "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp", title: "VSTAR Universe", subtitle: "Rare pulls & exclusive artwork from Japan", accent: "Limited Stock", order: 1, active: true },
+  1213→        { image: "/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp", title: "Ruler of the Black Flame", subtitle: "Charizard ex & more — Sealed Booster Boxes", accent: "Hot", order: 2, active: true },
+  1214→        { image: "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp", title: "Snow Hazard Collection", subtitle: "Complete your Japanese set before they're gone", accent: "Sale", order: 3, active: true },
+  1215→      ];
+  1216→      for (const slide of heroSlides) {
+  1217→        await fetch("/api/admin/hero-slides", {
+  1218→          method: "POST",
+  1219→          headers: { "Content-Type": "application/json" },
+  1220→          body: JSON.stringify(slide),
+  1221→        });
+  1222→      }
+  1223→
+  1224→      // Seed announcements via API
+  1225→      const announcements = [
+  1226→        { message: "Free Shipping on Orders Over $150", active: true, order: 0 },
+  1227→        { message: "Direct from Japan — 100% Authentic Sealed Products", active: true, order: 1 },
+  1228→        { message: "Ships Worldwide — Secure Packaging Guaranteed", active: true, order: 2 },
+  1229→        { message: "Trusted by Thousands of Collectors Worldwide", active: true, order: 3 },
+  1230→        { message: "Guaranteed Authenticity on Every Item We Sell", active: true, order: 4 },
+  1231→      ];
+  1232→      for (const ann of announcements) {
+  1233→        await fetch("/api/admin/announcements", {
+  1234→          method: "POST",
+  1235→          headers: { "Content-Type": "application/json" },
+  1236→          body: JSON.stringify(ann),
+  1237→        });
+  1238→      }
+  1239→
+  1240→      // Seed site settings via API (single PATCH upserts all keys)
+  1241→      const siteSettings = {
+  1242→        siteName: "Akihabara TCG Warehouse",
+  1243→        whatsappNumber: "+81 80-2935-0455",
+  1244→        currency: "USD",
+  1245→        currencyJPY: "149.5",
+  1246→        currencyEUR: "0.92",
+  1247→        currencyGBP: "0.79",
+  1248→      };
+  1249→      await fetch("/api/admin/settings", {
+  1250→        method: "PATCH",
+  1251→        headers: { "Content-Type": "application/json" },
+  1252→        body: JSON.stringify(siteSettings),
+  1253→      });
+  1254→
+  1255→      toast({ title: "Database seeded", description: "Sample data has been loaded" });
+  1256→      fetchStats();
+  1257→    } catch (err) {
+  1258→      console.error("Seed error:", err);
+  1259→      toast({ title: "Error", description: "Failed to seed database", variant: "destructive" });
+  1260→    }
+  1261→  };
+  1262→
+  1263→  /* ─────────── Render: Login Screen ─────────── */
+  1264→
+  1265→  if (!isAuthenticated) {
+  1266→    return (
+  1267→      <div className="min-h-screen flex items-center justify-center bg-purple-950 p-4">
+  1268→        <motion.div
+  1269→          initial={{ opacity: 0, y: 20 }}
+  1270→          animate={{ opacity: 1, y: 0 }}
+  1271→          className="w-full max-w-md"
+  1272→        >
+  1273→          <Card className="border-0 shadow-2xl">
+  1274→            <CardHeader className="text-center pb-2">
+  1275→              <div className="mx-auto mb-4 flex items-center justify-center gap-3">
+  1276→                <Image src="/store-logo.webp" alt="Akihabara TCG" width={48} height={48} className="rounded-lg object-cover" />
+  1277→                <div>
+  1278→                  <h1 className="text-xl font-bold text-purple-950">Akihabara TCG</h1>
+  1279→                  <p className="text-xs text-gray-500">Admin Panel</p>
+  1280→                </div>
+  1281→              </div>
+  1282→              <CardTitle className="text-lg">Sign in to your account</CardTitle>
+  1283→              <CardDescription>Enter your admin credentials to continue</CardDescription>
+  1284→            </CardHeader>
+  1285→            <CardContent>
+  1286→              <form onSubmit={handleLogin} className="space-y-4">
+  1287→                <div className="space-y-2">
+  1288→                  <Label htmlFor="email">Email</Label>
+  1289→                  <Input
+  1290→                    id="email"
+  1291→                    type="email"
+  1292→                    placeholder="akihabaratcgwarehouse1@gmail.com"
+  1293→                    value={loginEmail}
+  1294→                    onChange={(e) => setLoginEmail(e.target.value)}
+  1295→                    required
+  1296→                  />
+  1297→                </div>
+  1298→                <div className="space-y-2">
+  1299→                  <Label htmlFor="password">Password</Label>
+  1300→                  <Input
+  1301→                    id="password"
+  1302→                    type="password"
+  1303→                    placeholder="Enter password"
+  1304→                    value={loginPassword}
+  1305→                    onChange={(e) => setLoginPassword(e.target.value)}
+  1306→                    required
+  1307→                  />
+  1308→                </div>
+  1309→                {loginError && (
+  1310→                  <div className="text-sm text-red-600 bg-red-50 border border-red-200 rounded-md p-3 flex items-center gap-2">
+  1311→                    <XCircle size={16} />
+  1312→                    {loginError}
+  1313→                  </div>
+  1314→                )}
+  1315→                <Button type="submit" className="w-full bg-purple-950 hover:bg-purple-800" disabled={loginLoading}>
+  1316→                  {loginLoading ? (
+  1317→                    <RefreshCw className="animate-spin mr-2" size={16} />
+  1318→                  ) : null}
+  1319→                  Sign In
+  1320→                </Button>
+  1321→                <div className="text-center">
+  1322→                  <Button type="button" variant="ghost" size="sm" onClick={seedDatabase} className="text-xs text-gray-400">
+  1323→                    Seed sample data (first time only)
+  1324→                  </Button>
+  1325→                </div>
+  1326→              </form>
+  1327→            </CardContent>
+  1328→          </Card>
+  1329→        </motion.div>
+  1330→      </div>
+  1331→    );
+  1332→  }
+  1333→
+  1334→  /* ─────────── Render: Sidebar ─────────── */
+  1335→
+  1336→  const renderSidebar = () => (
+  1337→    <>
+  1338→      {/* Mobile overlay */}
+  1339→      {sidebarOpen && (
+  1340→        <div className="fixed inset-0 bg-black/50 z-40 lg:hidden" onClick={() => setSidebarOpen(false)} />
+  1341→      )}
+  1342→      <aside
+  1343→        className={`fixed top-0 left-0 z-50 h-full w-64 bg-purple-950 flex flex-col transition-transform duration-300 lg:translate-x-0 ${
+  1344→          sidebarOpen ? "translate-x-0" : "-translate-x-full"
+  1345→        }`}
+  1346→      >
+  1347→        {/* Logo */}
+  1348→        <div className="p-5 flex items-center gap-3 border-b border-white/10">
+  1349→          <Image src="/store-logo.webp" alt="Logo" width={40} height={40} className="rounded-lg object-cover" />
+  1350→          <div>
+  1351→            <h2 className="text-white font-bold text-sm">Akihabara TCG</h2>
+  1352→            <p className="text-white/50 text-[11px]">Warehouse Admin</p>
+  1353→          </div>
+  1354→          <Button
+  1355→            variant="ghost"
+  1356→            size="icon"
+  1357→            className="ml-auto text-white/60 hover:text-white hover:bg-white/10 lg:hidden"
+  1358→            onClick={() => setSidebarOpen(false)}
+  1359→          >
+  1360→            <X size={20} />
+  1361→          </Button>
+  1362→        </div>
+  1363→
+  1364→        {/* Navigation */}
+  1365→        <ScrollArea className="flex-1 py-4">
+  1366→          <nav className="space-y-1 px-3">
+  1367→            {NAV_ITEMS.map((item) => {
+  1368→              const Icon = item.icon;
+  1369→              const isActive = activePage === item.key;
+  1370→              return (
+  1371→                <button
+  1372→                  key={item.key}
+  1373→                  onClick={() => {
+  1374→                    setActivePage(item.key);
+  1375→                    setSidebarOpen(false);
+  1376→                  }}
+  1377→                  className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-all duration-200 ${
+  1378→                    isActive
+  1379→                      ? "bg-white/15 text-white shadow-sm"
+  1380→                      : "text-white/60 hover:text-white hover:bg-white/8"
+  1381→                  }`}
+  1382→                >
+  1383→                  <Icon size={18} />
+  1384→                  {item.label}
+  1385→                  {item.key === "orders" && stats && stats.ordersByStatus?.pending > 0 && (
+  1386→                    <Badge className="ml-auto bg-yellow-500 text-black text-[10px] h-5 px-1.5">
+  1387→                      {stats.ordersByStatus.pending}
+  1388→                    </Badge>
+  1389→                  )}
+  1390→                </button>
+  1391→              );
+  1392→            })}
+  1393→          </nav>
+  1394→        </ScrollArea>
+  1395→
+  1396→        {/* User / Logout */}
+  1397→        <div className="p-4 border-t border-white/10">
+  1398→          <div className="flex items-center gap-3 mb-3">
+  1399→            <Avatar className="size-8">
+  1400→              <AvatarFallback className="bg-white/20 text-white text-xs">
+  1401→                {getInitials(adminUser?.name)}
+  1402→              </AvatarFallback>
+  1403→            </Avatar>
+  1404→            <div className="flex-1 min-w-0">
+  1405→              <p className="text-white text-sm font-medium truncate">{adminUser?.name}</p>
+  1406→              <p className="text-white/50 text-[11px] truncate">{adminUser?.email}</p>
+  1407→            </div>
+  1408→          </div>
+  1409→          <Button
+  1410→            variant="ghost"
+  1411→            size="sm"
+  1412→            className="w-full justify-start text-white/60 hover:text-violet-300 hover:bg-white/5"
+  1413→            onClick={() => window.location.href = "/"}
+  1414→          >
+  1415→            <Globe size={16} className="mr-2" />
+  1416→            Back to Store
+  1417→          </Button>
+  1418→          <Button
+  1419→            variant="ghost"
+  1420→            size="sm"
+  1421→            className="w-full justify-start text-white/60 hover:text-red-400 hover:bg-white/5"
+  1422→            onClick={handleLogout}
+  1423→          >
+  1424→            <LogOut size={16} className="mr-2" />
+  1425→            Sign Out
+  1426→          </Button>
+  1427→        </div>
+  1428→      </aside>
+  1429→    </>
+  1430→  );
+  1431→
+  1432→  /* ─────────── Render: Page Header ─────────── */
+  1433→
+  1434→  const renderPageHeader = (title: string, subtitle: string, action?: React.ReactNode) => (
+  1435→    <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
+  1436→      <div>
+  1437→        <div className="flex items-center gap-2 text-sm text-gray-500 mb-1">
+  1438→          <span>Admin</span>
+  1439→          <ChevronRight size={14} />
+  1440→          <span className="text-gray-900 font-medium">{title}</span>
+  1441→        </div>
+  1442→        <h1 className="text-2xl font-bold text-gray-900">{title}</h1>
+  1443→        <p className="text-sm text-gray-500 mt-0.5">{subtitle}</p>
+  1444→      </div>
+  1445→      {action && <div className="flex items-center gap-2">{action}</div>}
+  1446→    </div>
+  1447→  );
+  1448→
+  1449→  /* ─────────── Render: Loading Skeletons ─────────── */
+  1450→
+  1451→  const renderSkeleton = (rows = 5) => (
+  1452→    <div className="space-y-3">
+  1453→      <Skeleton className="h-10 w-full" />
+  1454→      {Array.from({ length: rows }).map((_, i) => (
+  1455→        <Skeleton key={i} className="h-14 w-full" />
+  1456→      ))}
+  1457→    </div>
+  1458→  );
+  1459→
+  1460→  /* ─────────── Render: Dashboard ─────────── */
+  1461→
+  1462→  const renderDashboard = () => {
+  1463→    const rev = stats?.totalRevenue || 0;
+  1464→    const ord = stats?.totalOrders || 0;
+  1465→    const prod = stats?.totalProducts || 0;
+  1466→    const cust = stats?.totalCustomers || 0;
+  1467→    const statCards = [
+  1468→      {
+  1469→        title: "Total Revenue",
+  1470→        value: formatPrice(rev),
+  1471→        change: rev > 0 ? `${((rev / Math.max(rev, 1)) * 100).toFixed(1)}%` : "No data",
+  1472→        up: rev > 0,
+  1473→        icon: DollarSign,
+  1474→        color: "text-emerald-600",
+  1475→        bg: "bg-emerald-50",
+  1476→      },
+  1477→      {
+  1478→        title: "Total Orders",
+  1479→        value: String(ord),
+  1480→        change: ord > 0 ? `Active` : "No orders yet",
+  1481→        up: ord > 0,
+  1482→        icon: ShoppingCart,
+  1483→        color: "text-blue-600",
+  1484→        bg: "bg-blue-50",
+  1485→      },
+  1486→      {
+  1487→        title: "Total Products",
+  1488→        value: String(prod),
+  1489→        change: prod > 0 ? `${prod} listed` : "No products",
+  1490→        up: prod > 0,
+  1491→        icon: Package,
+  1492→        color: "text-purple-600",
+  1493→        bg: "bg-purple-50",
+  1494→      },
+  1495→      {
+  1496→        title: "Total Customers",
+  1497→        value: String(cust),
+  1498→        change: cust > 0 ? `${cust} registered` : "No customers yet",
+  1499→        up: cust > 0,
+  1500→        icon: Users,
+  1501→        color: "text-orange-600",
+  1502→        bg: "bg-orange-50",
+  1503→      },
+  1504→    ];
+  1505→
+  1506→    return (
+  1507→      <div className="space-y-6">
+  1508→        {renderPageHeader("Dashboard", "Overview of your store performance")}
+  1509→
+  1510→        {/* Stat Cards */}
+  1511→        <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4">
+  1512→          {statCards.map((card, i) => {
+  1513→            const Icon = card.icon;
+  1514→            return (
+  1515→              <motion.div
+  1516→                key={card.title}
+  1517→                initial={{ opacity: 0, y: 20 }}
+  1518→                animate={{ opacity: 1, y: 0 }}
+  1519→                transition={{ delay: i * 0.1 }}
+  1520→              >
+  1521→                <Card className="border-0 shadow-sm hover:shadow-md transition-shadow">
+  1522→                  <CardContent className="p-5">
+  1523→                    <div className="flex items-start justify-between">
+  1524→                      <div>
+  1525→                        <p className="text-sm text-gray-500 font-medium">{card.title}</p>
+  1526→                        <p className="text-2xl font-bold text-gray-900 mt-1">{card.value}</p>
+  1527→                        <div className={`flex items-center gap-1 mt-2 text-xs font-medium ${card.up ? "text-emerald-600" : "text-gray-400"}`}>
+  1528→                          {card.up ? <TrendingUp size={14} /> : <TrendingDown size={14} />}
+  1529→                          {card.change}
+  1530→                        </div>
+  1531→                      </div>
+  1532→                      <div className={`${card.bg} p-2.5 rounded-lg`}>
+  1533→                        <Icon size={20} className={card.color} />
+  1534→                      </div>
+  1535→                    </div>
+  1536→                  </CardContent>
+  1537→                </Card>
+  1538→              </motion.div>
+  1539→            );
+  1540→          })}
+  1541→        </div>
+  1542→
+  1543→        {/* Charts + Recent Orders */}
+  1544→        <div className="grid grid-cols-1 xl:grid-cols-3 gap-6">
+  1545→          {/* Revenue Chart */}
+  1546→          <Card className="xl:col-span-2 border-0 shadow-sm">
+  1547→            <CardHeader className="pb-2">
+  1548→              <CardTitle className="text-base font-semibold">Revenue Overview</CardTitle>
+  1549→              <CardDescription>Last 7 days performance</CardDescription>
+  1550→            </CardHeader>
+  1551→            <CardContent>
+  1552→              <div className="h-72">
+  1553→                <ResponsiveContainer width="100%" height="100%">
+  1554→                  <AreaChart data={MOCK_REVENUE_DATA}>
+  1555→                    <defs>
+  1556→                      <linearGradient id="colorRevenue" x1="0" y1="0" x2="0" y2="1">
+  1557→                        <stop offset="5%" stopColor="#581c87" stopOpacity={0.15} />
+  1558→                        <stop offset="95%" stopColor="#581c87" stopOpacity={0} />
+  1559→                      </linearGradient>
+  1560→                    </defs>
+  1561→                    <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
+  1562→                    <XAxis dataKey="name" tick={{ fontSize: 12 }} tickLine={false} axisLine={false} />
+  1563→                    <YAxis tick={{ fontSize: 12 }} tickLine={false} axisLine={false} tickFormatter={(v) => `$${(v / 1000).toFixed(0)}k`} />
+  1564→                    <Tooltip
+  1565→                      contentStyle={{ borderRadius: "8px", border: "1px solid #e5e7eb", boxShadow: "0 4px 6px -1px rgba(0,0,0,0.1)" }}
+  1566→                      formatter={(value: number) => [formatPrice(value), "Revenue"]}
+  1567→                    />
+  1568→                    <Area type="monotone" dataKey="revenue" stroke="#581c87" strokeWidth={2} fillOpacity={1} fill="url(#colorRevenue)" />
+  1569→                  </AreaChart>
+  1570→                </ResponsiveContainer>
+  1571→              </div>
+  1572→            </CardContent>
+  1573→          </Card>
+  1574→
+  1575→          {/* Order Status */}
+  1576→          <Card className="border-0 shadow-sm">
+  1577→            <CardHeader className="pb-2">
+  1578→              <CardTitle className="text-base font-semibold">Order Status</CardTitle>
+  1579→              <CardDescription>Current order distribution</CardDescription>
+  1580→            </CardHeader>
+  1581→            <CardContent>
+  1582→              <div className="space-y-4 mt-2">
+  1583→                {ORDER_STATUSES.map((status) => {
+  1584→                  const count = stats?.ordersByStatus?.[status] || 0;
+  1585→                  const total = stats?.totalOrders || 1;
+  1586→                  const pct = Math.round((count / total) * 100);
+  1587→                  return (
+  1588→                    <div key={status}>
+  1589→                      <div className="flex items-center justify-between mb-1.5">
+  1590→                        <span className="text-sm capitalize font-medium">{status}</span>
+  1591→                        <span className="text-sm text-gray-500">{count} ({pct}%)</span>
+  1592→                      </div>
+  1593→                      <Progress value={pct} className="h-2" />
+  1594→                    </div>
+  1595→                  );
+  1596→                })}
+  1597→              </div>
+  1598→            </CardContent>
+  1599→          </Card>
+  1600→        </div>
+  1601→
+  1602→        {/* Recent Orders + Low Stock */}
+  1603→        <div className="grid grid-cols-1 xl:grid-cols-2 gap-6">
+  1604→          {/* Recent Orders */}
+  1605→          <Card className="border-0 shadow-sm">
+  1606→            <CardHeader className="pb-2">
+  1607→              <div className="flex items-center justify-between">
+  1608→                <div>
+  1609→                  <CardTitle className="text-base font-semibold">Recent Orders</CardTitle>
+  1610→                  <CardDescription>Latest 5 orders</CardDescription>
+  1611→                </div>
+  1612→                <Button variant="ghost" size="sm" className="text-xs" onClick={() => setActivePage("orders")}>
+  1613→                  View All <ChevronRight size={14} />
+  1614→                </Button>
+  1615→              </div>
+  1616→            </CardHeader>
+  1617→            <CardContent>
+  1618→              {statsLoading ? (
+  1619→                renderSkeleton(5)
+  1620→              ) : (
+  1621→                <div className="space-y-3">
+  1622→                  {(stats?.recentOrders || []).map((order) => (
+  1623→                    <div
+  1624→                      key={order.id}
+  1625→                      className="flex items-center justify-between p-3 rounded-lg bg-gray-50 hover:bg-gray-100 cursor-pointer transition-colors"
+  1626→                      onClick={() => openOrderDetail(order.id)}
+  1627→                    >
+  1628→                      <div className="flex-1 min-w-0">
+  1629→                        <p className="text-sm font-medium truncate">
+  1630→                          {order.customerName || order.customerEmail || `Order #${order.id.slice(-6)}`}
+  1631→                        </p>
+  1632→                        <p className="text-xs text-gray-500 mt-0.5">{formatDateTime(order.createdAt)}</p>
+  1633→                      </div>
+  1634→                      <div className="flex items-center gap-3 ml-4">
+  1635→                        <span className="text-sm font-semibold">{formatPrice(order.total)}</span>
+  1636→                        <Badge variant="outline" className={`text-[10px] capitalize ${STATUS_COLORS[order.status] || ""}`}>
+  1637→                          {order.status}
+  1638→                        </Badge>
+  1639→                      </div>
+  1640→                    </div>
+  1641→                  ))}
+  1642→                  {(!stats?.recentOrders || stats.recentOrders.length === 0) && (
+  1643→                    <div className="text-center py-8 text-gray-400 text-sm">No orders yet</div>
+  1644→                  )}
+  1645→                </div>
+  1646→              )}
+  1647→            </CardContent>
+  1648→          </Card>
+  1649→
+  1650→          {/* Low Stock / Out of Stock */}
+  1651→          <Card className="border-0 shadow-sm">
+  1652→            <CardHeader className="pb-2">
+  1653→              <div className="flex items-center justify-between">
+  1654→                <div>
+  1655→                  <CardTitle className="text-base font-semibold">Low Stock Alerts</CardTitle>
+  1656→                  <CardDescription>Products that are out of stock</CardDescription>
+  1657→                </div>
+  1658→                <Button variant="ghost" size="sm" className="text-xs" onClick={() => setActivePage("products")}>
+  1659→                  View All <ChevronRight size={14} />
+  1660→                </Button>
+  1661→              </div>
+  1662→            </CardHeader>
+  1663→            <CardContent>
+  1664→              {statsLoading ? (
+  1665→                renderSkeleton(5)
+  1666→              ) : (
+  1667→                <div className="space-y-3">
+  1668→                  {(stats?.lowStockProducts || []).map((product) => (
+  1669→                    <div key={product.id} className="flex items-center gap-3 p-3 rounded-lg bg-gray-50">
+  1670→                      <div className="size-10 rounded-md overflow-hidden bg-gray-200 flex-shrink-0">
+  1671→                        {product.image && (
+  1672→                          <Image src={product.image} alt={product.title} width={40} height={40} className="size-full object-cover" unoptimized />
+  1673→                        )}
+  1674→                      </div>
+  1675→                      <div className="flex-1 min-w-0">
+  1676→                        <p className="text-sm font-medium truncate">{product.title}</p>
+  1677→                        <p className="text-xs text-gray-500">{product.category}</p>
+  1678→                      </div>
+  1679→                      <Badge variant="outline" className="text-[10px] bg-red-50 text-red-700 border-red-200">
+  1680→                        Out of Stock
+  1681→                      </Badge>
+  1682→                    </div>
+  1683→                  ))}
+  1684→                  {(!stats?.lowStockProducts || stats.lowStockProducts.length === 0) && (
+  1685→                    <div className="text-center py-8 text-gray-400 text-sm flex flex-col items-center gap-2">
+  1686→                      <CheckCircle2 size={24} className="text-emerald-500" />
+  1687→                      All products are in stock!
+  1688→                    </div>
+  1689→                  )}
+  1690→                </div>
+  1691→              )}
+  1692→            </CardContent>
+  1693→          </Card>
+  1694→        </div>
+  1695→      </div>
+  1696→    );
+  1697→  };
+  1698→
+  1699→  /* ─────────── Render: Products ─────────── */
+  1700→
+  1701→  const renderProducts = () => (
+  1702→    <div className="space-y-6">
+  1703→      {renderPageHeader("Products", "Manage your product catalog", (
+  1704→        <Button onClick={openAddProduct} className="bg-purple-950 hover:bg-purple-800">
+  1705→          <Plus size={16} className="mr-2" />
+  1706→          Add Product
+  1707→        </Button>
+  1708→      ))}
+  1709→
+  1710→      {/* Filters */}
+  1711→      <div className="flex flex-col sm:flex-row gap-3">
+  1712→        <div className="relative flex-1">
+  1713→          <Search size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
+  1714→          <Input
+  1715→            placeholder="Search products by title, description, or SKU..."
+  1716→            className="pl-9"
+  1717→            value={productSearch}
+  1718→            onChange={(e) => {
+  1719→              setProductSearch(e.target.value);
+  1720→              setProductsPage(1);
+  1721→            }}
+  1722→          />
+  1723→        </div>
+  1724→        <Select value={productCategory} onValueChange={(v) => { setProductCategory(v === "all" ? "" : v); setProductsPage(1); }}>
+  1725→          <SelectTrigger className="w-full sm:w-56">
+  1726→            <SelectValue placeholder="All Categories" />
+  1727→          </SelectTrigger>
+  1728→          <SelectContent>
+  1729→            <SelectItem value="all">All Categories</SelectItem>
+  1730→            {CATEGORIES.map((cat) => (
+  1731→              <SelectItem key={cat} value={cat}>{cat}</SelectItem>
+  1732→            ))}
+  1733→          </SelectContent>
+  1734→        </Select>
+  1735→      </div>
+  1736→
+  1737→      {/* Table */}
+  1738→      <Card className="border-0 shadow-sm">
+  1739→        <CardContent className="p-0">
+  1740→          {productsLoading ? (
+  1741→            <div className="p-6">{renderSkeleton(8)}</div>
+  1742→          ) : products.length === 0 ? (
+  1743→            <div className="text-center py-16 text-gray-400">
+  1744→              <Package size={40} className="mx-auto mb-3 opacity-50" />
+  1745→              <p className="font-medium">No products found</p>
+  1746→              <p className="text-sm mt-1">Try adjusting your search or add a new product</p>
+  1747→            </div>
+  1748→          ) : (
+  1749→            <>
+  1750→              <div className="overflow-x-auto">
+  1751→                <Table>
+  1752→                  <TableHeader>
+  1753→                    <TableRow className="bg-gray-50/50">
+  1754→                      <TableHead className="w-16">Image</TableHead>
+  1755→                      <TableHead>Title</TableHead>
+  1756→                      <TableHead className="hidden md:table-cell">Category</TableHead>
+  1757→                      <TableHead>Price</TableHead>
+  1758→                      <TableHead className="hidden sm:table-cell">Stock</TableHead>
+  1759→                      <TableHead className="hidden lg:table-cell">Featured</TableHead>
+  1760→                      <TableHead className="w-24">Actions</TableHead>
+  1761→                    </TableRow>
+  1762→                  </TableHeader>
+  1763→                  <TableBody>
+  1764→                    {products.map((product) => {
+  1765→                      const discount = product.originalPrice ? formatDiscount(product.price, product.originalPrice) : 0;
+  1766→                      return (
+  1767→                        <TableRow key={product.id} className="hover:bg-gray-50/50">
+  1768→                          <TableCell>
+  1769→                            <div className="size-12 rounded-md overflow-hidden bg-gray-100">
+  1770→                              {product.image && (
+  1771→                                <Image src={product.image} alt={product.title} width={48} height={48} className="size-full object-cover" unoptimized />
+  1772→                              )}
+  1773→                            </div>
+  1774→                          </TableCell>
+  1775→                          <TableCell>
+  1776→                            <div className="min-w-0 max-w-xs">
+  1777→                              <p className="font-medium text-sm truncate">{product.title}</p>
+  1778→                              {product.sku && <p className="text-xs text-gray-400 mt-0.5">SKU: {product.sku}</p>}
+  1779→                            </div>
+  1780→                          </TableCell>
+  1781→                          <TableCell className="hidden md:table-cell">
+  1782→                            <Badge variant="secondary" className="text-[11px]">{product.category}</Badge>
+  1783→                          </TableCell>
+  1784→                          <TableCell>
+  1785→                            <div className="flex items-center gap-1.5 flex-wrap">
+  1786→                              <span className="font-semibold text-sm">{formatPrice(product.price)}</span>
+  1787→                              {product.originalPrice && product.originalPrice > product.price && (
+  1788→                                <>
+  1789→                                  <span className="text-xs text-gray-400 line-through">{formatPrice(product.originalPrice)}</span>
+  1790→                                  <Badge className="bg-emerald-100 text-emerald-700 border-0 text-[10px] h-5">-{discount}%</Badge>
+  1791→                                </>
+  1792→                              )}
+  1793→                            </div>
+  1794→                          </TableCell>
+  1795→                          <TableCell className="hidden sm:table-cell">
+  1796→                            <Badge variant="outline" className={`text-[10px] ${product.inStock ? "bg-emerald-50 text-emerald-700 border-emerald-200" : "bg-red-50 text-red-700 border-red-200"}`}>
+  1797→                              {product.inStock ? "In Stock" : "Out of Stock"}
+  1798→                            </Badge>
+  1799→                          </TableCell>
+  1800→                          <TableCell className="hidden lg:table-cell">
+  1801→                            {product.featured ? (
+  1802→                              <Badge className="bg-amber-100 text-amber-700 border-0 text-[10px]">Featured</Badge>
+  1803→                            ) : (
+  1804→                              <span className="text-xs text-gray-400">—</span>
+  1805→                            )}
+  1806→                          </TableCell>
+  1807→                          <TableCell>
+  1808→                            <DropdownMenu>
+  1809→                              <DropdownMenuTrigger asChild>
+  1810→                                <Button variant="ghost" size="icon" className="size-8">
+  1811→                                  <MoreVertical size={14} />
+  1812→                                </Button>
+  1813→                              </DropdownMenuTrigger>
+  1814→                              <DropdownMenuContent align="end">
+  1815→                                <DropdownMenuItem onClick={() => openEditProduct(product)}>
+  1816→                                  <Pencil size={14} className="mr-2" /> Edit
+  1817→                                </DropdownMenuItem>
+  1818→                                <DropdownMenuSeparator />
+  1819→                                <DropdownMenuItem className="text-red-600" onClick={() => setDeleteProductDialog(product)}>
+  1820→                                  <Trash2 size={14} className="mr-2" /> Delete
+  1821→                                </DropdownMenuItem>
+  1822→                              </DropdownMenuContent>
+  1823→                            </DropdownMenu>
+  1824→                          </TableCell>
+  1825→                        </TableRow>
+  1826→                      );
+  1827→                    })}
+  1828→                  </TableBody>
+  1829→                </Table>
+  1830→              </div>
+  1831→              {/* Pagination */}
+  1832→              <div className="flex items-center justify-between p-4 border-t">
+  1833→                <p className="text-sm text-gray-500">
+  1834→                  Showing {products.length} of {productsTotal} products
+  1835→                </p>
+  1836→                <div className="flex gap-2">
+  1837→                  <Button
+  1838→                    variant="outline"
+  1839→                    size="sm"
+  1840→                    disabled={productsPage <= 1}
+  1841→                    onClick={() => setProductsPage((p) => Math.max(1, p - 1))}
+  1842→                  >
+  1843→                    Previous
+  1844→                  </Button>
+  1845→                  <Button
+  1846→                    variant="outline"
+  1847→                    size="sm"
+  1848→                    disabled={productsPage >= Math.ceil(productsTotal / 20)}
+  1849→                    onClick={() => setProductsPage((p) => p + 1)}
+  1850→                  >
+  1851→                    Next
+  1852→                  </Button>
+  1853→                </div>
+  1854→              </div>
+  1855→            </>
+  1856→          )}
+  1857→        </CardContent>
+  1858→      </Card>
+  1859→
+  1860→      {/* Add/Edit Product Dialog */}
+  1861→      <Dialog open={productDialogOpen} onOpenChange={(open) => { setProductDialogOpen(open); if (!open) resetProductForm(); }}>
+  1862→        <DialogContent className="max-w-3xl max-h-[90vh] overflow-y-auto">
+  1863→          <DialogHeader>
+  1864→            <DialogTitle>{editingProduct ? "Edit Product" : "Add New Product"}</DialogTitle>
+  1865→            <DialogDescription>
+  1866→              {editingProduct ? "Update product details below" : "Fill in the product details to create a new listing"}
+  1867→            </DialogDescription>
+  1868→          </DialogHeader>
+  1869→
+  1870→          <div className="grid gap-6 py-4">
+  1871→            {/* Main Image URL */}
+  1872→            <div className="space-y-2">
+  1873→              <Label htmlFor="pf-main-image">Main Image URL</Label>
+  1874→              <div className="flex gap-2">
+  1875→                <Input
+  1876→                  id="pf-main-image"
+  1877→                  placeholder="https://example.com/image.jpg or /images/your-image.webp"
+  1878→                  value={pfImage}
+  1879→                  onChange={(e) => setPfImage(e.target.value)}
+  1880→                />
+  1881→                <Button type="button" variant="outline" size="sm" onClick={addImageUrl} className="shrink-0">
+  1882→                  Add to Gallery
+  1883→                </Button>
+  1884→              </div>
+  1885→              {pfImage && (
+  1886→                <div className="h-32 w-48 rounded-lg overflow-hidden bg-gray-100">
+  1887→                  <Image src={pfImage} alt="Main image preview" width={192} height={128} className="w-full h-full object-cover" unoptimized />
+  1888→                </div>
+  1889→              )}
+  1890→            </div>
+  1891→
+  1892→            {/* Image Gallery URLs */}
+  1893→            <div className="space-y-2">
+  1894→              <Label>Image Gallery</Label>
+  1895→              <div className="flex gap-2">
+  1896→                <Input
+  1897→                  placeholder="Paste additional image URL and press Add"
+  1898→                  id="pf-gallery-url"
+  1899→                  onKeyDown={(e) => {
+  1900→                    if (e.key === "Enter") {
+  1901→                      e.preventDefault();
+  1902→                      const input = e.target as HTMLInputElement;
+  1903→                      if (input.value.trim()) {
+  1904→                        setPfImages([...pfImages, input.value.trim()]);
+  1905→                        input.value = "";
+  1906→                      }
+  1907→                    }
+  1908→                  }}
+  1909→                />
+  1910→                <Button type="button" variant="outline" size="sm" onClick={() => {
+  1911→                  const input = document.getElementById("pf-gallery-url") as HTMLInputElement;
+  1912→                  if (input?.value.trim()) {
+  1913→                    setPfImages([...pfImages, input.value.trim()]);
+  1914→                    input.value = "";
+  1915→                  }
+  1916→                }} className="shrink-0">
+  1917→                  Add
+  1918→                </Button>
+  1919→              </div>
+  1920→              {/* Image Previews */}
+  1921→              {pfImages.length > 0 && (
+  1922→                <div className="flex flex-wrap gap-3 mt-3">
+  1923→                  {pfImages.map((img, idx) => (
+  1924→                    <div key={idx} className="relative group size-20 rounded-lg overflow-hidden border border-gray-200">
+  1925→                      <Image src={img} alt={`Preview ${idx + 1}`} fill className="object-cover" unoptimized />
+  1926→                      <button
+  1927→                        className="absolute top-1 right-1 size-5 bg-black/60 text-white rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity"
+  1928→                        onClick={() => {
+  1929→                          const newImages = pfImages.filter((_, i) => i !== idx);
+  1930→                          setPfImages(newImages);
+  1931→                          if (pfImage === img) setPfImage(newImages[0] || "");
+  1932→                        }}
+  1933→                      >
+  1934→                        <X size={10} />
+  1935→                      </button>
+  1936→                      {img === pfImage && (
+  1937→                        <div className="absolute bottom-0 left-0 right-0 bg-purple-950 text-white text-[9px] text-center py-0.5 font-medium">Main</div>
+  1938→                      )}
+  1939→                    </div>
+  1940→                  ))}
+  1941→                </div>
+  1942→              )}
+  1943→            </div>
+  1944→
+  1945→            {/* Title */}
+  1946→            <div className="space-y-2">
+  1947→              <Label htmlFor="pf-title">Title *</Label>
+  1948→              <Input id="pf-title" placeholder="Product title" value={pfTitle} onChange={(e) => setPfTitle(e.target.value)} />
+  1949→            </div>
+  1950→
+  1951→            {/* Description */}
+  1952→            <div className="space-y-2">
+  1953→              <Label htmlFor="pf-desc">Description</Label>
+  1954→              <Textarea id="pf-desc" placeholder="Product description..." rows={3} value={pfDescription} onChange={(e) => setPfDescription(e.target.value)} />
+  1955→            </div>
+  1956→
+  1957→            {/* Price & Original Price */}
+  1958→            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+  1959→              <div className="space-y-2">
+  1960→                <Label htmlFor="pf-price">Price (USD) *</Label>
+  1961→                <div className="relative">
+  1962→                  <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm">$</span>
+  1963→                  <Input id="pf-price" type="number" step="0.01" placeholder="0.00" className="pl-7" value={pfPrice} onChange={(e) => setPfPrice(e.target.value)} />
+  1964→                </div>
+  1965→              </div>
+  1966→              <div className="space-y-2">
+  1967→                <Label htmlFor="pf-original">Original Price</Label>
+  1968→                <div className="relative">
+  1969→                  <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm">$</span>
+  1970→                  <Input id="pf-original" type="number" step="0.01" placeholder="0.00" className="pl-7" value={pfOriginalPrice} onChange={(e) => setPfOriginalPrice(e.target.value)} />
+  1971→                </div>
+  1972→                {pfOriginalPrice && pfPrice && parseFloat(pfOriginalPrice) > parseFloat(pfPrice) && (
+  1973→                  <p className="text-xs text-emerald-600 font-medium">
+  1974→                    {formatDiscount(parseFloat(pfPrice), parseFloat(pfOriginalPrice))}% discount will be shown
+  1975→                  </p>
+  1976→                )}
+  1977→              </div>
+  1978→            </div>
+  1979→
+  1980→            {/* Category */}
+  1981→            <div className="space-y-2">
+  1982→              <Label>Primary Category *</Label>
+  1983→              <Select value={pfCategory} onValueChange={setPfCategory}>
+  1984→                <SelectTrigger>
+  1985→                  <SelectValue placeholder="Select a category" />
+  1986→                </SelectTrigger>
+  1987→                <SelectContent>
+  1988→                  {CATEGORIES.map((cat) => (
+  1989→                    <SelectItem key={cat} value={cat}>{cat}</SelectItem>
+  1990→                  ))}
+  1991→                </SelectContent>
+  1992→              </Select>
+  1993→            </div>
+  1994→
+  1995→            {/* Additional Categories */}
+  1996→            <div className="space-y-2">
+  1997→              <Label>Additional Categories</Label>
+  1998→              <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+  1999→                {CATEGORIES.filter((c) => c !== pfCategory).map((cat) => (
+  2000→                  <div key={cat} className="flex items-center gap-2">
+
+[showing lines 1-2000 of 3076; use offset=2001 with limit to continue reading]
