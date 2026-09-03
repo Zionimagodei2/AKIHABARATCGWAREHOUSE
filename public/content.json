@@ -1,0 +1,80 @@
+{
+  "heroSlides": [
+    {
+      "id": "slide-1",
+      "image": "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.webp",
+      "title": "Japanese Pokémon TCG",
+      "subtitle": "Direct from Akihabara — Authentic & Sealed",
+      "accent": "New Arrivals",
+      "order": 0,
+      "active": true
+    },
+    {
+      "id": "slide-2",
+      "image": "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp",
+      "title": "VSTAR Universe",
+      "subtitle": "Rare pulls & exclusive artwork from Japan",
+      "accent": "Limited Stock",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "slide-3",
+      "image": "/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp",
+      "title": "Ruler of the Black Flame",
+      "subtitle": "Charizard ex & more — Sealed Booster Boxes",
+      "accent": "Hot",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "slide-4",
+      "image": "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp",
+      "title": "Snow Hazard Collection",
+      "subtitle": "Complete your Japanese set before they're gone",
+      "accent": "Sale",
+      "order": 3,
+      "active": true
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "message": "Free Shipping on Orders Over $500",
+      "active": true,
+      "order": 0
+    },
+    {
+      "id": "ann-2",
+      "message": "Direct from Japan — 100% Authentic Sealed Products",
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "ann-3",
+      "message": "Ships Worldwide — Secure Packaging Guaranteed",
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "ann-4",
+      "message": "Trusted by Thousands of Collectors Worldwide",
+      "active": true,
+      "order": 3
+    },
+    {
+      "id": "ann-5",
+      "message": "Guaranteed Authenticity on Every Item We Sell",
+      "active": true,
+      "order": 4
+    }
+  ],
+  "settings": {
+    "siteName": "Akihabara TCG Warehouse",
+    "whatsappNumber": "+81 80-2935-0455",
+    "currency": "USD",
+    "currencyJPY": "149.5",
+    "currencyEUR": "0.92",
+    "currencyGBP": "0.79"
+  }
+}

@@ -42,6 +42,14 @@ import {
   ChevronDown,
   Link,
   Hash,
+  CloudUpload,
+  Github,
+  Copy,
+  Download,
+  Upload,
+  Zap,
+  Tag,
+  AlertTriangle,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -103,7 +111,15 @@ import {
   Area,
   AreaChart,
 } from "recharts";
-// Admin panel talks to Next.js API routes (see /app/api/*) — no Supabase REST client needed.
+// Self-contained store database — works on the static deployment (no server
+// needed). Edits live in a localStorage overlay and are published to the
+// GitHub repo, which triggers the store rebuild (see @/lib/admin-store).
+import {
+  adminStore,
+  type PublishStatus as StorePublishStatus,
+  type StoreProduct,
+  type StoreContent,
+} from "@/lib/admin-store";
 
 /* ─────────── Types ─────────── */
 
@@ -217,21 +233,6 @@ type Page = "dashboard" | "products" | "orders" | "customers" | "reviews" | "con
 
 /* ─────────── Constants ─────────── */
 
-const CATEGORIES = [
-  "Japanese Pokémon Cards",
-  "English Pokémon Cards",
-  "One Piece",
-  "Dragon Ball",
-  "Weiss Schwarz",
-  "Union Arena",
-  "Gundam",
-  "Disney Lorcana",
-  "Booster Boxes",
-  "Elite Trainer Boxes",
-  "Promo Cards",
-  "Sealed Products",
-];
-
 const NAV_ITEMS: { key: Page; label: string; icon: React.ElementType }[] = [
   { key: "dashboard", label: "Dashboard", icon: LayoutDashboard },
   { key: "products", label: "Products", icon: Package },
@@ -273,40 +274,6 @@ function mapProductFromApi(row: Record<string, unknown>): Product {
     sku: (row.sku as string) ?? null,
     createdAt: (row.createdAt as string) ?? (row.created_at as string) ?? "",
     updatedAt: (row.updatedAt as string) ?? (row.updated_at as string) ?? "",
-  };
-}
-
-/** Prepare product data with camelCase keys for the Next.js admin products API */
-function prepareProductForApi(p: {
-  title: string;
-  price: number;
-  originalPrice: number | null;
-  image: string;
-  images: string[];
-  description: string | null;
-  category: string;
-  categories: string[];
-  rating: number;
-  inStock: boolean;
-  featured: boolean;
-  source: string | null;
-  sku: string | null;
-}): Record<string, unknown> {
-  return {
-    title: p.title,
-    price: p.price,
-    originalPrice: p.originalPrice,
-    image: p.image,
-    images: p.images,
-    description: p.description,
-    category: p.category,
-    categories: p.categories,
-    rating: p.rating,
-    reviewCount: 0,
-    inStock: p.inStock,
-    featured: p.featured,
-    source: p.source,
-    sku: p.sku,
   };
 }
 
@@ -358,6 +325,33 @@ function mapAnnouncementFromApi(row: Record<string, unknown>): Announcement {
     message: row.message as string,
     active: (row.active as boolean) ?? true,
     order: (row.order as number) ?? 0,
+  };
+}
+
+/** Map a locally-stored review (admin-store format) to the UI shape. */
+function mapReviewFromLocal(r: {
+  id: string;
+  productId: string | null;
+  author: string;
+  rating: number;
+  comment: string;
+  date: string;
+  approved: boolean;
+  createdAt: string;
+}): Review {
+  const product = r.productId ? adminStore.getProduct(r.productId) : undefined;
+  return {
+    id: r.id,
+    productId: r.productId,
+    userId: null,
+    author: r.author,
+    rating: r.rating,
+    comment: r.comment,
+    date: r.date,
+    avatar: null,
+    approved: r.approved,
+    createdAt: r.createdAt,
+    product: product ? { id: product.id, title: product.title, image: product.image } : null,
   };
 }
 
@@ -443,18 +437,6 @@ function getInitials(name: string | null): string {
     .slice(0, 2);
 }
 
-/* ─────────── Mock Chart Data ─────────── */
-
-const MOCK_REVENUE_DATA = [
-  { name: "Mon", revenue: 4200, orders: 12 },
-  { name: "Tue", revenue: 3800, orders: 9 },
-  { name: "Wed", revenue: 5100, orders: 15 },
-  { name: "Thu", revenue: 4600, orders: 11 },
-  { name: "Fri", revenue: 6200, orders: 18 },
-  { name: "Sat", revenue: 7800, orders: 24 },
-  { name: "Sun", revenue: 5400, orders: 14 },
-];
-
 /* ─────────── Main Component ─────────── */
 
 export default function AdminPanel() {
@@ -483,6 +465,8 @@ export default function AdminPanel() {
     ordersByStatus: Record<string, number>;
   } | null>(null);
   const [statsLoading, setStatsLoading] = useState(false);
+  const [revenueChart, setRevenueChart] = useState<{ name: string; revenue: number; orders: number }[]>([]);
+  const [catalogMeta, setCatalogMeta] = useState<{ promosActive: number; outOfStock: number; catalogValue: number }>({ promosActive: 0, outOfStock: 0, catalogValue: 0 });
 
   // Products
   const [products, setProducts] = useState<Product[]>([]);
@@ -570,6 +554,32 @@ export default function AdminPanel() {
   const [settingsLoading, setSettingsLoading] = useState(false);
   const [settingsSaving, setSettingsSaving] = useState(false);
 
+  // Store sync (publish to GitHub) — the static deployment's data pipeline
+  const [unpublishedCount, setUnpublishedCount] = useState(0);
+  const [publishStatus, setPublishStatus] = useState<StorePublishStatus>({ state: "idle", message: "", at: null });
+  const [publishing, setPublishing] = useState(false);
+  const [ghToken, setGhToken] = useState("");
+  const [ghOwner, setGhOwner] = useState("");
+  const [ghRepo, setGhRepo] = useState("");
+  const [ghBranch, setGhBranch] = useState("");
+  const [ghTesting, setGhTesting] = useState(false);
+  const [ghTestResult, setGhTestResult] = useState<{ ok: boolean; message: string } | null>(null);
+
+  // Bulk product actions
+  const [selectedProductIds, setSelectedProductIds] = useState<Set<string>>(new Set());
+  const [bulkDialog, setBulkDialog] = useState<null | "delete" | "promo" | "price" | "stock" | "featured" | "category">(null);
+  const [bulkPercent, setBulkPercent] = useState("12");
+  const [bulkStockIn, setBulkStockIn] = useState(true);
+  const [bulkFeatured, setBulkFeatured] = useState(true);
+  const [bulkCategory, setBulkCategory] = useState("");
+  const [bulkSubcategory, setBulkSubcategory] = useState("");
+  const [bulkBusy, setBulkBusy] = useState(false);
+
+  // Catalog import
+  const [importOpen, setImportOpen] = useState(false);
+  const [importText, setImportText] = useState("");
+  const [importBusy, setImportBusy] = useState(false);
+
   /* ─────────── Auth ─────────── */
 
   useEffect(() => {
@@ -623,23 +633,62 @@ export default function AdminPanel() {
     toast({ title: "Logged out", description: "You have been logged out" });
   };
 
-  /* ─────────── Data Fetching ─────────── */
+  /* ─────────── Store Database (self-contained, no server needed) ─────────── */
+
+  // Initialize the store database once authentication succeeds, and keep the
+  // publish state / unpublished-change counter in sync with the store.
+  useEffect(() => {
+    if (!isAuthenticated) return;
+    let cancelled = false;
+    const syncFromStore = () => {
+      setUnpublishedCount(adminStore.getUnpublishedCount());
+      setPublishStatus(adminStore.publish);
+    };
+    const unsubscribe = adminStore.subscribe(syncFromStore);
+    adminStore.ready().then(() => {
+      if (cancelled) return;
+      const gh = adminStore.getGitHubConfig();
+      setGhOwner(gh.owner);
+      setGhRepo(gh.repo);
+      setGhBranch(gh.branch);
+      setGhToken(gh.token);
+      syncFromStore();
+      // Load the current page's data once the store is ready
+      switch (activePage) {
+        case "dashboard": fetchStats(); break;
+        case "products": fetchProducts(); break;
+        case "orders": fetchOrders(); break;
+        case "customers": fetchCustomers(); break;
+        case "reviews": fetchReviews(); break;
+        case "content": fetchContent(); break;
+        case "settings": fetchSettings(); break;
+      }
+    });
+    return () => {
+      cancelled = true;
+      unsubscribe();
+    };
+  }, [isAuthenticated]);
 
   const fetchStats = useCallback(async () => {
     setStatsLoading(true);
     try {
-      const res = await fetch("/api/admin/stats");
-      if (!res.ok) throw new Error("Failed to load stats");
-      const data = await res.json();
-
+      await adminStore.ready();
+      const s = adminStore.getStats();
+      setRevenueChart(s.revenueLast7Days);
+      setCatalogMeta({ promosActive: s.promosActive, outOfStock: s.outOfStock, catalogValue: s.catalogValue });
       setStats({
-        totalProducts: data.totalProducts ?? 0,
-        totalOrders: data.totalOrders ?? 0,
-        totalRevenue: data.totalRevenue ?? 0,
-        totalCustomers: 0,
-        recentOrders: (data.recentOrders ?? []).map((o: Record<string, unknown>) => mapOrderFromApi(o)),
-        lowStockProducts: (data.lowStockProducts ?? []).map((p: Record<string, unknown>) => mapProductFromApi(p)),
-        ordersByStatus: data.ordersByStatus ?? {},
+        totalProducts: s.totalProducts,
+        totalOrders: s.totalOrders,
+        totalRevenue: s.totalRevenue,
+        totalCustomers: s.totalCustomers,
+        recentOrders: adminStore.getOrders().slice(0, 5).map((o) => mapOrderFromApi(o as unknown as Record<string, unknown>)),
+        lowStockProducts: adminStore
+          .getEffectiveProducts()
+          .filter((p) => p.in_stock === false)
+          .slice(0, 8)
+          .map((p) => mapProductFromApi(p as unknown as Record<string, unknown>)),
+        ordersByStatus: s.ordersByStatus,
       });
     } catch (err) {
       console.error("Stats error:", err);
@@ -651,24 +700,38 @@ export default function AdminPanel() {
   const fetchProducts = useCallback(async () => {
     setProductsLoading(true);
     try {
-      // The public /api/products route transforms fields to snake_case and
-      // supports `category`, `search`, `sort`, and `limit` (but no `page`).
-      // We fetch enough rows to cover the current page and slice client-side.
+      await adminStore.ready();
       const pageSize = 20;
+      const all: Product[] = adminStore
+        .getEffectiveProducts()
+        .map((p) => mapProductFromApi(p as unknown as Record<string, unknown>));
+
+      // Client-side filtering (search + category/subcategory) and pagination
+      const q = productSearch.trim().toLowerCase();
+      let filtered = all;
+      if (q) {
+        filtered = filtered.filter(
+          (p) =>
+            p.title.toLowerCase().includes(q) ||
+            (p.description || "").toLowerCase().includes(q) ||
+            (p.sku || "").toLowerCase().includes(q) ||
+            p.category.toLowerCase().includes(q)
+        );
+      }
+      if (productCategory) {
+        const [cat, sub] = productCategory.split("||");
+        filtered = filtered.filter((p) => {
+          const catOk = p.category === cat;
+          if (!catOk) return false;
+          if (!sub) return true;
+          const subs = p.categories.length > 1 ? p.categories.slice(1) : [];
+          return subs.includes(sub);
+        });
+      }
+
       const start = (productsPage - 1) * pageSize;
-      const params = new URLSearchParams();
-      params.set("sort", "newest");
-      if (productCategory) params.set("category", productCategory);
-      if (productSearch) params.set("search", productSearch);
-      params.set("limit", String(start + pageSize));
-
-      const res = await fetch(`/api/products?${params.toString()}`);
-      if (!res.ok) throw new Error("Failed to load products");
-      const data = await res.json();
-      const allProducts: Product[] = (data.products ?? []).map((p: Record<string, unknown>) => mapProductFromApi(p));
-
-      setProducts(allProducts.slice(start, start + pageSize));
-      setProductsTotal(data.total ?? allProducts.length);
+      setProducts(filtered.slice(start, start + pageSize));
+      setProductsTotal(filtered.length);
     } catch (err) {
       console.error("Products error:", err);
     } finally {
@@ -679,21 +742,27 @@ export default function AdminPanel() {
   const fetchOrders = useCallback(async () => {
     setOrdersLoading(true);
     try {
-      // The /api/orders route supports server-side pagination, search, status
-      // filter, and sort — all in a single round-trip.
-      const params = new URLSearchParams();
-      params.set("sort", "newest");
-      params.set("limit", "20");
-      params.set("page", String(ordersPage));
-      if (orderStatusFilter !== "all") params.set("status", orderStatusFilter);
-      if (orderSearch) params.set("search", orderSearch);
+      await adminStore.ready();
+      const all = adminStore.getOrders().map((o) => mapOrderFromApi(o as unknown as Record<string, unknown>));
 
-      const res = await fetch(`/api/orders?${params.toString()}`);
-      if (!res.ok) throw new Error("Failed to load orders");
-      const data = await res.json();
+      const q = orderSearch.trim().toLowerCase();
+      let filtered = all;
+      if (orderStatusFilter !== "all") {
+        filtered = filtered.filter((o) => o.status === orderStatusFilter);
+      }
+      if (q) {
+        filtered = filtered.filter(
+          (o) =>
+            (o.customerName || "").toLowerCase().includes(q) ||
+            (o.customerEmail || "").toLowerCase().includes(q) ||
+            o.id.toLowerCase().includes(q)
+        );
+      }
 
-      setOrders((data.orders ?? []).map((o: Record<string, unknown>) => mapOrderFromApi(o)));
-      setOrdersTotal(data.total ?? 0);
+      const pageSize = 20;
+      const start = (ordersPage - 1) * pageSize;
+      setOrders(filtered.slice(start, start + pageSize));
+      setOrdersTotal(filtered.length);
     } catch (err) {
       console.error("Orders error:", err);
     } finally {
@@ -704,9 +773,49 @@ export default function AdminPanel() {
   const fetchCustomers = useCallback(async () => {
     setCustomersLoading(true);
     try {
-      // No customer API available — show empty state
-      setCustomers([]);
-      setCustomersTotal(0);
+      await adminStore.ready();
+      // Customers are derived from the order database
+      const map = new Map<string, Customer & { spent: number; count: number }>();
+      adminStore.getOrders().forEach((o) => {
+        const key = (o.customerEmail || o.customerName || "unknown").toLowerCase();
+        if (!key || key === "unknown") return;
+        const entry = map.get(key) || {
+          id: key,
+          email: o.customerEmail || key,
+          name: o.customerName,
+          phone: o.customerPhone,
+          address: o.shippingAddress,
+          city: o.shippingCity,
+          country: o.shippingCountry,
+          createdAt: o.createdAt,
+          orderCount: 0,
+          totalSpent: 0,
+          spent: 0,
+          count: 0,
+        };
+        if (o.status !== "cancelled") entry.spent += o.total;
+        entry.count += 1;
+        entry.orderCount = entry.count;
+        entry.totalSpent = Math.round(entry.spent * 100) / 100;
+        map.set(key, entry);
+      });
+
+      let list = Array.from(map.values());
+      const q = customerSearch.trim().toLowerCase();
+      if (q) {
+        list = list.filter(
+          (c) =>
+            (c.name || "").toLowerCase().includes(q) ||
+            c.email.toLowerCase().includes(q) ||
+            (c.city || "").toLowerCase().includes(q) ||
+            (c.country || "").toLowerCase().includes(q)
+        );
+      }
+
+      const pageSize = 20;
+      const start = (customersPage - 1) * pageSize;
+      setCustomers(list.slice(start, start + pageSize));
+      setCustomersTotal(list.length);
     } catch (err) {
       console.error("Customers error:", err);
     } finally {
@@ -717,9 +826,17 @@ export default function AdminPanel() {
   const fetchReviews = useCallback(async () => {
     setReviewsLoading(true);
     try {
-      // No reviews API available — show empty state
-      setReviews([]);
-      setReviewsTotal(0);
+      await adminStore.ready();
+      const all = adminStore.getReviews().map((r) => mapReviewFromLocal(r));
+
+      let filtered = all;
+      if (reviewApprovedFilter === "approved") filtered = filtered.filter((r) => r.approved);
+      if (reviewApprovedFilter === "pending") filtered = filtered.filter((r) => !r.approved);
+
+      const pageSize = 20;
+      const start = (reviewsPage - 1) * pageSize;
+      setReviews(filtered.slice(start, start + pageSize));
+      setReviewsTotal(filtered.length);
     } catch (err) {
       console.error("Reviews error:", err);
     } finally {
@@ -730,16 +847,18 @@ export default function AdminPanel() {
   const fetchContent = useCallback(async () => {
     setContentLoading(true);
     try {
-      const [slidesRes, annRes] = await Promise.all([
-        fetch("/api/admin/hero-slides"),
-        fetch("/api/admin/announcements"),
-      ]);
-
-      const slidesData = slidesRes.ok ? await slidesRes.json() : [];
-      const annData = annRes.ok ? await annRes.json() : [];
-
-      setHeroSlides((slidesData ?? []).map((s: Record<string, unknown>) => mapHeroSlideFromApi(s)));
-      setAnnouncements((annData ?? []).map((a: Record<string, unknown>) => mapAnnouncementFromApi(a)));
+      await adminStore.ready();
+      const content = adminStore.getContent();
+      setHeroSlides(
+        [...content.heroSlides]
+          .sort((a, b) => a.order - b.order)
+          .map((s) => mapHeroSlideFromApi(s as unknown as Record<string, unknown>))
+      );
+      setAnnouncements(
+        [...content.announcements]
+          .sort((a, b) => a.order - b.order)
+          .map((a) => mapAnnouncementFromApi(a as unknown as Record<string, unknown>))
+      );
     } catch (err) {
       console.error("Content error:", err);
     } finally {
@@ -750,17 +869,15 @@ export default function AdminPanel() {
   const fetchSettings = useCallback(async () => {
     setSettingsLoading(true);
     try {
-      const res = await fetch("/api/admin/settings");
-      if (!res.ok) throw new Error("Failed to load settings");
-      const settingsMap: Record<string, string> = await res.json();
-
+      await adminStore.ready();
+      const s = adminStore.getContent().settings;
       setSettings({
-        siteName: settingsMap.siteName || "",
-        whatsapp: settingsMap.whatsappNumber || "",
-        currency: settingsMap.currency || "USD",
-        jpyRate: settingsMap.currencyJPY || "149.5",
-        eurRate: settingsMap.currencyEUR || "0.92",
-        gbpRate: settingsMap.currencyGBP || "0.79",
+        siteName: s.siteName || "",
+        whatsapp: s.whatsappNumber || "",
+        currency: s.currency || "USD",
+        jpyRate: s.currencyJPY || "149.5",
+        eurRate: s.currencyEUR || "0.92",
+        gbpRate: s.currencyGBP || "0.79",
       });
     } catch (err) {
       console.error("Settings error:", err);
@@ -863,17 +980,23 @@ export default function AdminPanel() {
       toast({ title: "Missing image", description: "Please provide at least one image URL", variant: "destructive" });
       return;
     }
+    const price = parseFloat(pfPrice);
+    if (!Number.isFinite(price) || price <= 0) {
+      toast({ title: "Invalid price", description: "Price must be greater than 0", variant: "destructive" });
+      return;
+    }
     setPfSaving(true);
     try {
-      const productData = prepareProductForApi({
+      adminStore.upsertProduct({
+        id: editingProduct?.id,
         title: pfTitle,
-        price: parseFloat(pfPrice),
+        price,
         originalPrice: pfOriginalPrice ? parseFloat(pfOriginalPrice) : null,
         image: pfImage || pfImages[0] || "",
         images: pfImages,
         description: pfDescription || null,
         category: pfCategory,
-        categories: pfCategories,
+        categories: pfCategories.length > 0 ? pfCategories : [pfCategory],
         rating: pfRating,
         inStock: pfInStock,
         featured: pfFeatured,
@@ -881,35 +1004,14 @@ export default function AdminPanel() {
         sku: pfSku || null,
       });
 
-      if (editingProduct) {
-        const res = await fetch("/api/admin/products", {
-          method: "PATCH",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ id: editingProduct.id, ...productData }),
-        });
-        if (!res.ok) {
-          const err = await res.json().catch(() => ({}));
-          throw new Error(err.error || "Failed to update product");
-        }
-      } else {
-        const res = await fetch("/api/admin/products", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(productData),
-        });
-        if (!res.ok) {
-          const err = await res.json().catch(() => ({}));
-          throw new Error(err.error || "Failed to create product");
-        }
-      }
-
       toast({
         title: editingProduct ? "Product updated" : "Product created",
-        description: `${pfTitle} has been ${editingProduct ? "updated" : "created"}`,
+        description: `${pfTitle} has been ${editingProduct ? "updated" : "created"} — remember to publish your changes`,
       });
       setProductDialogOpen(false);
       resetProductForm();
       fetchProducts();
+      fetchStats();
     } catch (err: unknown) {
       const message = err instanceof Error ? err.message : "Failed to save product";
       toast({ title: "Error", description: message, variant: "destructive" });
@@ -920,18 +1022,114 @@ export default function AdminPanel() {
 
   const deleteProduct = async (product: Product) => {
     try {
-      const res = await fetch(`/api/admin/products/${encodeURIComponent(product.id)}`, { method: "DELETE" });
-      if (!res.ok) {
-        const err = await res.json().catch(() => ({}));
-        throw new Error(err.error || "Failed to delete product");
-      }
-      toast({ title: "Product deleted", description: `${product.title} has been removed` });
+      adminStore.deleteProduct(product.id);
+      toast({ title: "Product deleted", description: `${product.title} has been removed — remember to publish your changes` });
+      setSelectedProductIds((prev) => {
+        const next = new Set(prev);
+        next.delete(product.id);
+        return next;
+      });
       fetchProducts();
+      fetchStats();
     } catch (err: unknown) {
       const message = err instanceof Error ? err.message : "Failed to delete product";
       toast({ title: "Error", description: message, variant: "destructive" });
     }
     setDeleteProductDialog(null);
+  };
+
+  const duplicateProduct = (product: Product) => {
+    const copy = adminStore.duplicateProduct(product.id);
+    if (copy) {
+      toast({ title: "Product duplicated", description: `${product.title} (Copy) created` });
+      fetchProducts();
+    }
+  };
+
+  /* ─────────── Bulk Product Actions ─────────── */
+
+  const selectedIds = Array.from(selectedProductIds);
+
+  const toggleProductSelection = (id: string) => {
+    setSelectedProductIds((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      return next;
+    });
+  };
+
+  const toggleSelectPage = () => {
+    const pageIds = products.map((p) => p.id);
+    const allSelected = pageIds.every((id) => selectedProductIds.has(id));
+    setSelectedProductIds((prev) => {
+      const next = new Set(prev);
+      if (allSelected) pageIds.forEach((id) => next.delete(id));
+      else pageIds.forEach((id) => next.add(id));
+      return next;
+    });
+  };
+
+  const applyBulkAction = async () => {
+    if (selectedIds.length === 0 || !bulkDialog) return;
+    setBulkBusy(true);
+    try {
+      switch (bulkDialog) {
+        case "delete":
+          adminStore.bulkDelete(selectedIds);
+          toast({ title: "Products deleted", description: `${selectedIds.length} products removed` });
+          break;
+        case "promo": {
+          const pct = parseFloat(bulkPercent);
+          if (!Number.isFinite(pct) || pct <= 0 || pct > 90) {
+            toast({ title: "Invalid percent", description: "Enter a discount between 1 and 90", variant: "destructive" });
+            setBulkBusy(false);
+            return;
+          }
+          adminStore.applyPromo(selectedIds, pct);
+          toast({ title: "Promo applied", description: `${selectedIds.length} products now ${pct}% off with struck-through original price` });
+          break;
+        }
+        case "price": {
+          const pct = parseFloat(bulkPercent);
+          if (!Number.isFinite(pct) || pct < -90 || pct > 500) {
+            toast({ title: "Invalid percent", description: "Enter a price change between -90% and +500%", variant: "destructive" });
+            setBulkBusy(false);
+            return;
+          }
+          adminStore.adjustPrice(selectedIds, pct);
+          toast({ title: "Prices adjusted", description: `${selectedIds.length} products changed by ${pct > 0 ? "+" : ""}${pct}%` });
+          break;
+        }
+        case "stock":
+          adminStore.bulkPatch(selectedIds, () => ({ in_stock: bulkStockIn }));
+          toast({ title: "Stock updated", description: `${selectedIds.length} products marked ${bulkStockIn ? "in stock" : "out of stock"}` });
+          break;
+        case "featured":
+          adminStore.bulkPatch(selectedIds, () => ({ featured: bulkFeatured }));
+          toast({ title: "Featured updated", description: `${selectedIds.length} products ${bulkFeatured ? "marked featured (shown first)" : "unfeatured"}` });
+          break;
+        case "category": {
+          if (!bulkCategory) {
+            toast({ title: "Missing category", description: "Choose a destination category", variant: "destructive" });
+            setBulkBusy(false);
+            return;
+          }
+          adminStore.bulkPatch(selectedIds, (p) => ({
+            category: bulkCategory,
+            categories: [bulkCategory, ...(bulkSubcategory ? [bulkSubcategory] : [])],
+          }));
+          toast({ title: "Products moved", description: `${selectedIds.length} products moved to ${bulkCategory}${bulkSubcategory ? ` ▸ ${bulkSubcategory}` : ""}` });
+          break;
+        }
+      }
+      setSelectedProductIds(new Set());
+      setBulkDialog(null);
+      fetchProducts();
+      fetchStats();
+    } finally {
+      setBulkBusy(false);
+    }
   };
 
   /* ─────────── Order Helpers ─────────── */
@@ -940,10 +1138,10 @@ export default function AdminPanel() {
     setOrderDetailLoading(true);
     setOrderDetailOpen(true);
     try {
-      const res = await fetch(`/api/orders/${encodeURIComponent(orderId)}`);
-      if (!res.ok) throw new Error("Order not found");
-      const orderRow = await res.json();
-      const order = mapOrderFromApi(orderRow);
+      await adminStore.ready();
+      const raw = adminStore.getOrders().find((o) => o.id === orderId);
+      if (!raw) throw new Error("Order not found");
+      const order = mapOrderFromApi(raw as unknown as Record<string, unknown>);
       setSelectedOrder(order);
       setOrderNotes(order.notes || "");
     } catch {
@@ -955,17 +1153,10 @@ export default function AdminPanel() {
 
   const updateOrderStatus = async (orderId: string, status: string) => {
     try {
-      const res = await fetch(`/api/orders/${encodeURIComponent(orderId)}`, {
-        method: "PATCH",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ status }),
-      });
-      if (!res.ok) {
-        const err = await res.json().catch(() => ({}));
-        throw new Error(err.error || "Failed to update order");
-      }
+      adminStore.updateOrder(orderId, { status });
       toast({ title: "Order updated", description: `Status changed to ${status}` });
       fetchOrders();
+      fetchStats();
       if (selectedOrder?.id === orderId) {
         setSelectedOrder({ ...selectedOrder, status });
       }
@@ -975,18 +1166,57 @@ export default function AdminPanel() {
     }
   };
 
-  const updateOrderNotes = async (_orderId: string) => {
-    toast({ title: "Not supported", description: "Order notes update is not available via API", variant: "destructive" });
+  const updateOrderNotes = async (orderId: string) => {
+    try {
+      adminStore.updateOrder(orderId, { notes: orderNotes });
+      toast({ title: "Notes saved", description: "Order notes updated" });
+      fetchOrders();
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : "Failed to update notes";
+      toast({ title: "Error", description: message, variant: "destructive" });
+    }
+  };
+
+  const deleteOrder = (orderId: string) => {
+    adminStore.deleteOrder(orderId);
+    toast({ title: "Order deleted", description: `Order ${orderId} removed` });
+    setOrderDetailOpen(false);
+    fetchOrders();
+    fetchStats();
   };
 
   /* ─────────── Customer Helpers ─────────── */
 
-  const openCustomerDetail = async (_customerId: string) => {
+  const openCustomerDetail = async (customerId: string) => {
     setCustomerDetailLoading(true);
     setCustomerDetailOpen(true);
     try {
-      // No customer API available
-      toast({ title: "Not available", description: "Customer details are not available via API", variant: "destructive" });
+      await adminStore.ready();
+      const orders = adminStore
+        .getOrders()
+        .filter((o) => (o.customerEmail || o.customerName || "").toLowerCase() === customerId)
+        .map((o) => mapOrderFromApi(o as unknown as Record<string, unknown>));
+      const first = orders[0];
+      if (first) {
+        const totalSpent = Math.round(
+          orders.filter((o) => o.status !== "cancelled").reduce((s, o) => s + o.total, 0) * 100
+        ) / 100;
+        setSelectedCustomer({
+          id: customerId,
+          email: first.customerEmail || customerId,
+          name: first.customerName,
+          phone: first.customerPhone,
+          address: first.shippingAddress,
+          city: first.shippingCity,
+          country: first.shippingCountry,
+          createdAt: first.createdAt,
+          orderCount: orders.length,
+          totalSpent,
+          orders,
+        });
+      } else {
+        toast({ title: "Not found", description: "No orders for this customer", variant: "destructive" });
+      }
     } finally {
       setCustomerDetailLoading(false);
     }
@@ -994,9 +1224,18 @@ export default function AdminPanel() {
 
   /* ─────────── Review Helpers ─────────── */
 
-  const toggleReviewApproval = async (_review: Review) => {
-    // No reviews API available
-    toast({ title: "Not available", description: "Review management is not available via API", variant: "destructive" });
+  const toggleReviewApproval = async (review: Review) => {
+    adminStore.upsertReview({
+      id: review.id,
+      productId: review.productId,
+      author: review.author,
+      rating: review.rating,
+      comment: review.comment,
+      date: review.date,
+      approved: !review.approved,
+    });
+    toast({ title: review.approved ? "Review hidden" : "Review approved", description: `${review.author}'s review is now ${review.approved ? "hidden" : "approved"}` });
+    fetchReviews();
   };
 
   const openEditReview = (review: Review) => {
@@ -1009,15 +1248,25 @@ export default function AdminPanel() {
 
   const saveReview = async () => {
     if (!editReviewDialog) return;
-    // No reviews API available
-    toast({ title: "Not available", description: "Review management is not available via API", variant: "destructive" });
+    adminStore.upsertReview({
+      id: editReviewDialog.id,
+      productId: editReviewDialog.productId,
+      author: reviewFormAuthor,
+      rating: reviewFormRating,
+      comment: reviewFormComment,
+      date: editReviewDialog.date,
+      approved: reviewFormApproved,
+    });
+    toast({ title: "Review saved", description: `${reviewFormAuthor}'s review has been updated` });
     setEditReviewDialog(null);
+    fetchReviews();
   };
 
-  const deleteReview = async (_review: Review) => {
-    // No reviews API available
-    toast({ title: "Not available", description: "Review management is not available via API", variant: "destructive" });
+  const deleteReview = async (review: Review) => {
+    adminStore.deleteReview(review.id);
+    toast({ title: "Review deleted", description: `${review.author}'s review has been removed` });
     setDeleteReviewDialog(null);
+    fetchReviews();
   };
 
   /* ─────────── Content Helpers ─────────── */
@@ -1048,13 +1297,11 @@ export default function AdminPanel() {
       toast({ title: "Missing fields", description: "Image, title, and subtitle are required", variant: "destructive" });
       return;
     }
-    if (editingSlide) {
-      // The hero-slides API only exposes GET + POST — no PATCH route.
-      toast({ title: "Not available", description: "Editing hero slides is not supported via API", variant: "destructive" });
-      return;
-    }
     try {
-      const payload = {
+      await adminStore.ready();
+      const content = adminStore.getContent();
+      const slide = {
+        id: editingSlide?.id || `slide-${Date.now().toString(36)}`,
         image: slideFormImage,
         title: slideFormTitle,
         subtitle: slideFormSubtitle,
@@ -1062,18 +1309,12 @@ export default function AdminPanel() {
         order: slideFormOrder,
         active: slideFormActive,
       };
+      const slides = editingSlide
+        ? content.heroSlides.map((s) => (s.id === editingSlide.id ? slide : s))
+        : [...content.heroSlides, slide];
+      adminStore.setContent({ ...content, heroSlides: slides });
 
-      const res = await fetch("/api/admin/hero-slides", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-      });
-      if (!res.ok) {
-        const err = await res.json().catch(() => ({}));
-        throw new Error(err.error || "Failed to create slide");
-      }
-
-      toast({ title: "Slide created" });
+      toast({ title: editingSlide ? "Slide updated" : "Slide created", description: "Publish to make it live on the store" });
       setSlideDialogOpen(false);
       resetSlideForm();
       fetchContent();
@@ -1083,10 +1324,16 @@ export default function AdminPanel() {
     }
   };
 
-  const deleteSlide = async (_slide: HeroSlide) => {
-    // The hero-slides API only exposes GET + POST — no DELETE route.
-    toast({ title: "Not available", description: "Deleting hero slides is not supported via API", variant: "destructive" });
+  const deleteSlide = async (slide: HeroSlide) => {
+    await adminStore.ready();
+    const content = adminStore.getContent();
+    adminStore.setContent({
+      ...content,
+      heroSlides: content.heroSlides.filter((s) => s.id !== slide.id),
+    });
+    toast({ title: "Slide deleted", description: "Publish to remove it from the store" });
     setDeleteSlideDialog(null);
+    fetchContent();
   };
 
   const resetAnnouncementForm = () => {
@@ -1109,29 +1356,21 @@ export default function AdminPanel() {
       toast({ title: "Missing field", description: "Message is required", variant: "destructive" });
       return;
     }
-    if (editingAnnouncement) {
-      // The announcements API only exposes GET + POST — no PATCH route.
-      toast({ title: "Not available", description: "Editing announcements is not supported via API", variant: "destructive" });
-      return;
-    }
     try {
-      const payload = {
+      await adminStore.ready();
+      const content = adminStore.getContent();
+      const ann = {
+        id: editingAnnouncement?.id || `ann-${Date.now().toString(36)}`,
         message: annFormMessage,
         active: annFormActive,
         order: annFormOrder,
       };
+      const items = editingAnnouncement
+        ? content.announcements.map((a) => (a.id === editingAnnouncement.id ? ann : a))
+        : [...content.announcements, ann];
+      adminStore.setContent({ ...content, announcements: items });
 
-      const res = await fetch("/api/admin/announcements", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-      });
-      if (!res.ok) {
-        const err = await res.json().catch(() => ({}));
-        throw new Error(err.error || "Failed to create announcement");
-      }
-
-      toast({ title: "Announcement created" });
+      toast({ title: editingAnnouncement ? "Announcement updated" : "Announcement created", description: "Publish to show it in the store's announcement bar" });
       setAnnouncementDialogOpen(false);
       resetAnnouncementForm();
       fetchContent();
@@ -1141,10 +1380,16 @@ export default function AdminPanel() {
     }
   };
 
-  const deleteAnnouncement = async (_ann: Announcement) => {
-    // The announcements API only exposes GET + POST — no DELETE route.
-    toast({ title: "Not available", description: "Deleting announcements is not supported via API", variant: "destructive" });
+  const deleteAnnouncement = async (ann: Announcement) => {
+    await adminStore.ready();
+    const content = adminStore.getContent();
+    adminStore.setContent({
+      ...content,
+      announcements: content.announcements.filter((a) => a.id !== ann.id),
+    });
+    toast({ title: "Announcement deleted", description: "Publish to remove it from the store" });
     setDeleteAnnouncementDialog(null);
+    fetchContent();
   };
 
   /* ─────────── Settings Helpers ─────────── */
@@ -1152,26 +1397,21 @@ export default function AdminPanel() {
   const saveSettings = async () => {
     setSettingsSaving(true);
     try {
-      const settingsToSave: Record<string, string> = {
-        siteName: settings.siteName || "",
-        whatsappNumber: settings.whatsapp || "",
-        currency: settings.currency || "USD",
-        currencyJPY: settings.jpyRate || "149.5",
-        currencyEUR: settings.eurRate || "0.92",
-        currencyGBP: settings.gbpRate || "0.79",
-      };
-
-      const res = await fetch("/api/admin/settings", {
-        method: "PATCH",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(settingsToSave),
+      await adminStore.ready();
+      const content = adminStore.getContent();
+      adminStore.setContent({
+        ...content,
+        settings: {
+          siteName: settings.siteName || "Akihabara TCG Warehouse",
+          whatsappNumber: settings.whatsapp || "",
+          currency: settings.currency || "USD",
+          currencyJPY: settings.jpyRate || "149.5",
+          currencyEUR: settings.eurRate || "0.92",
+          currencyGBP: settings.gbpRate || "0.79",
+        },
       });
-      if (!res.ok) {
-        const err = await res.json().catch(() => ({}));
-        throw new Error(err.error || "Failed to save settings");
-      }
 
-      toast({ title: "Settings saved", description: "All settings updated successfully" });
+      toast({ title: "Settings saved", description: "Publish to apply them to the live store" });
     } catch (err: unknown) {
       const message = err instanceof Error ? err.message : "Failed to save settings";
       toast({ title: "Error", description: message, variant: "destructive" });
@@ -1180,87 +1420,108 @@ export default function AdminPanel() {
     }
   };
 
-  const seedDatabase = async () => {
+  /* ─────────── Store Sync (Publish) ─────────── */
+
+  const handlePublish = async () => {
+    setPublishing(true);
     try {
-      // Seed products via the admin products API (camelCase body)
-      const productsRes = await fetch("/products.json");
-      const productsJson: Record<string, unknown>[] = await productsRes.json();
-
-      for (const p of productsJson) {
-        await fetch("/api/admin/products", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            title: p.title as string,
-            price: p.price as number,
-            originalPrice: (p.original_price as number) ?? null,
-            image: p.image as string,
-            images: p.images ? [p.image, ...(p.images as string[])] : [p.image],
-            description: (p.description as string) ?? null,
-            category: p.category as string,
-            categories: (p.categories as string[]) ?? [],
-            rating: (p.rating as number) ?? 4.5,
-            reviewCount: 0,
-            inStock: (p.in_stock as boolean) ?? true,
-            featured: false,
-            source: (p.source as string) ?? null,
-            sku: (p.sku as string) ?? null,
-          }),
-        });
+      const result = await adminStore.publishChanges();
+      if (!result.ok) {
+        toast({ title: "Publish failed", description: result.error, variant: "destructive" });
+      } else {
+        toast({ title: "Changes published", description: "The live store is rebuilding — usually live within a few minutes" });
+        fetchStats();
       }
-
-      // Seed hero slides via API
-      const heroSlides = [
-        { image: "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.webp", title: "Japanese Pokémon TCG", subtitle: "Direct from Akihabara — Authentic & Sealed", accent: "New Arrivals", order: 0, active: true },
-        { image: "/images/existing/a-vstar-universe-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp", title: "VSTAR Universe", subtitle: "Rare pulls & exclusive artwork from Japan", accent: "Limited Stock", order: 1, active: true },
-        { image: "/images/existing/a-ruler-of-the-black-flame-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp", title: "Ruler of the Black Flame", subtitle: "Charizard ex & more — Sealed Booster Boxes", accent: "Hot", order: 2, active: true },
-        { image: "/images/existing/a-snow-hazard-booster-pack-from-the-japanese-pokemon-tcg-1024x512.webp", title: "Snow Hazard Collection", subtitle: "Complete your Japanese set before they're gone", accent: "Sale", order: 3, active: true },
-      ];
-      for (const slide of heroSlides) {
-        await fetch("/api/admin/hero-slides", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(slide),
-        });
-      }
-
-      // Seed announcements via API
-      const announcements = [
-        { message: "Free Shipping on Orders Over $150", active: true, order: 0 },
-        { message: "Direct from Japan — 100% Authentic Sealed Products", active: true, order: 1 },
-        { message: "Ships Worldwide — Secure Packaging Guaranteed", active: true, order: 2 },
-        { message: "Trusted by Thousands of Collectors Worldwide", active: true, order: 3 },
-        { message: "Guaranteed Authenticity on Every Item We Sell", active: true, order: 4 },
-      ];
-      for (const ann of announcements) {
-        await fetch("/api/admin/announcements", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(ann),
-        });
-      }
-
-      // Seed site settings via API (single PATCH upserts all keys)
-      const siteSettings = {
-        siteName: "Akihabara TCG Warehouse",
-        whatsappNumber: "+81 80-2935-0455",
-        currency: "USD",
-        currencyJPY: "149.5",
-        currencyEUR: "0.92",
-        currencyGBP: "0.79",
-      };
-      await fetch("/api/admin/settings", {
-        method: "PATCH",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(siteSettings),
-      });
-
-      toast({ title: "Database seeded", description: "Sample data has been loaded" });
-      fetchStats();
-    } catch (err) {
-      console.error("Seed error:", err);
-      toast({ title: "Error", description: "Failed to seed database", variant: "destructive" });
+    } finally {
+      setPublishing(false);
     }
+  };
+
+  const handleDiscardChanges = () => {
+    adminStore.discardLocalChanges();
+    toast({ title: "Local changes discarded", description: "Back to the live store data" });
+    fetchProducts();
+    fetchStats();
+    fetchContent();
+    fetchSettings();
+  };
+
+  const saveGitHubConnection = () => {
+    adminStore.saveGitHubConfig({
+      token: ghToken,
+      owner: ghOwner.trim() || "Zionimagodei2",
+      repo: ghRepo.trim() || "AKIHABARATCGWAREHOUSE",
+      branch: ghBranch.trim() || "main",
+    });
+    toast({ title: "Connection saved", description: "The token is stored only in this browser" });
+  };
+
+  const testGitHubConnection = async () => {
+    setGhTesting(true);
+    setGhTestResult(null);
+    try {
+      // Save first so the store tests the current inputs
+      adminStore.saveGitHubConfig({
+        token: ghToken,
+        owner: ghOwner.trim() || "Zionimagodei2",
+        repo: ghRepo.trim() || "AKIHABARATCGWAREHOUSE",
+        branch: ghBranch.trim() || "main",
+      });
+      const result = await adminStore.testGitHub();
+      setGhTestResult(result);
+    } finally {
+      setGhTesting(false);
+    }
+  };
+
+  /* ─────────── Catalog Import / Export ─────────── */
+
+  const exportCatalog = () => {
+    const json = adminStore.exportCatalog();
+    const blob = new Blob([json], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `akihabara-catalog-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+    toast({ title: "Catalog exported", description: `${adminStore.getEffectiveProducts().length} products downloaded` });
+  };
+
+  const importCatalog = async () => {
+    setImportBusy(true);
+    try {
+      const result = adminStore.importCatalog(importText);
+      if (!result.ok) {
+        toast({ title: "Import failed", description: result.error, variant: "destructive" });
+        return;
+      }
+      toast({ title: "Catalog imported", description: `${result.count} products loaded — review and publish` });
+      setImportOpen(false);
+      setImportText("");
+      fetchProducts();
+      fetchStats();
+    } finally {
+      setImportBusy(false);
+    }
+  };
+
+  const handleClearSampleData = () => {
+    adminStore.clearSampleData();
+    toast({ title: "Sample data cleared", description: "Orders and reviews from the demo have been removed" });
+    fetchOrders();
+    fetchCustomers();
+    fetchReviews();
+    fetchStats();
+  };
+
+  const handleRefreshFromLive = async () => {
+    await adminStore.refreshBaseline();
+    toast({ title: "Re-synced", description: "Latest live store data loaded" });
+    fetchProducts();
+    fetchStats();
+    fetchContent();
+    fetchSettings();
   };
 
   /* ─────────── Render: Login Screen ─────────── */
@@ -1321,11 +1582,9 @@ export default function AdminPanel() {
                   ) : null}
                   Sign In
                 </Button>
-                <div className="text-center">
-                  <Button type="button" variant="ghost" size="sm" onClick={seedDatabase} className="text-xs text-gray-400">
-                    Seed sample data (first time only)
-                  </Button>
-                </div>
+                <p className="text-center text-[11px] text-gray-400">
+                  Products, orders and content load automatically from the store
+                </p>
               </form>
             </CardContent>
           </Card>
@@ -1489,7 +1748,7 @@ export default function AdminPanel() {
       {
         title: "Total Products",
         value: String(prod),
-        change: prod > 0 ? `${prod} listed` : "No products",
+        change: prod > 0 ? `${prod} in the catalog` : "No products",
         up: prod > 0,
         icon: Package,
         color: "text-purple-600",
@@ -1509,6 +1768,35 @@ export default function AdminPanel() {
     return (
       <div className="space-y-6">
         {renderPageHeader("Dashboard", "Overview of your store performance")}
+
+        {/* Unpublished changes banner */}
+        {unpublishedCount > 0 && (
+          <Card className="border-amber-200 bg-amber-50 shadow-sm">
+            <CardContent className="p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+              <div className="flex items-start gap-3">
+                <div className="bg-amber-100 p-2 rounded-lg">
+                  <CloudUpload size={18} className="text-amber-700" />
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-amber-900">
+                    {unpublishedCount} unpublished change{unpublishedCount === 1 ? "" : "s"}
+                  </p>
+                  <p className="text-xs text-amber-700 mt-0.5">
+                    Edits are saved in this browser. Publish to push them to the live store (takes a few minutes to rebuild).
+                  </p>
+                </div>
+              </div>
+              <div className="flex gap-2">
+                <Button size="sm" onClick={handlePublish} disabled={publishing} className="bg-purple-950 hover:bg-purple-800">
+                  <CloudUpload size={14} className="mr-1.5" /> Publish now
+                </Button>
+                <Button size="sm" variant="outline" onClick={handleDiscardChanges} className="border-amber-300 text-amber-800 hover:bg-amber-100">
+                  Discard
+                </Button>
+              </div>
+            </CardContent>
+          </Card>
+        )}
 
         {/* Stat Cards */}
         <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4">
@@ -1543,6 +1831,46 @@ export default function AdminPanel() {
           })}
         </div>
 
+        {/* Catalog Health */}
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <Card className="border-0 shadow-sm">
+            <CardContent className="p-4 flex items-center gap-3">
+              <div className="bg-emerald-50 p-2.5 rounded-lg">
+                <Tag size={18} className="text-emerald-600" />
+              </div>
+              <div>
+                <p className="text-xs text-gray-500 font-medium">Active Promos</p>
+                <p className="text-lg font-bold text-gray-900">{catalogMeta.promosActive}</p>
+                <p className="text-[11px] text-gray-400">products with a struck-through price</p>
+              </div>
+            </CardContent>
+          </Card>
+          <Card className="border-0 shadow-sm">
+            <CardContent className="p-4 flex items-center gap-3">
+              <div className="bg-red-50 p-2.5 rounded-lg">
+                <AlertTriangle size={18} className="text-red-600" />
+              </div>
+              <div>
+                <p className="text-xs text-gray-500 font-medium">Out of Stock</p>
+                <p className="text-lg font-bold text-gray-900">{catalogMeta.outOfStock}</p>
+                <p className="text-[11px] text-gray-400">need restocking</p>
+              </div>
+            </CardContent>
+          </Card>
+          <Card className="border-0 shadow-sm">
+            <CardContent className="p-4 flex items-center gap-3">
+              <div className="bg-purple-50 p-2.5 rounded-lg">
+                <DollarSign size={18} className="text-purple-600" />
+              </div>
+              <div>
+                <p className="text-xs text-gray-500 font-medium">Catalog Value</p>
+                <p className="text-lg font-bold text-gray-900">{formatPrice(catalogMeta.catalogValue)}</p>
+                <p className="text-[11px] text-gray-400">sum of all listing prices</p>
+              </div>
+            </CardContent>
+          </Card>
+        </div>
+
         {/* Charts + Recent Orders */}
         <div className="grid grid-cols-1 xl:grid-cols-3 gap-6">
           {/* Revenue Chart */}
@@ -1554,7 +1882,7 @@ export default function AdminPanel() {
             <CardContent>
               <div className="h-72">
                 <ResponsiveContainer width="100%" height="100%">
-                  <AreaChart data={MOCK_REVENUE_DATA}>
+                  <AreaChart data={revenueChart}>
                     <defs>
                       <linearGradient id="colorRevenue" x1="0" y1="0" x2="0" y2="1">
                         <stop offset="5%" stopColor="#581c87" stopOpacity={0.15} />
@@ -1563,7 +1891,7 @@ export default function AdminPanel() {
                     </defs>
                     <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
                     <XAxis dataKey="name" tick={{ fontSize: 12 }} tickLine={false} axisLine={false} />
-                    <YAxis tick={{ fontSize: 12 }} tickLine={false} axisLine={false} tickFormatter={(v) => `$${(v / 1000).toFixed(0)}k`} />
+                    <YAxis tick={{ fontSize: 12 }} tickLine={false} axisLine={false} tickFormatter={(v) => (v >= 1000 ? `$${(v / 1000).toFixed(1)}k` : `$${v}`)} />
                     <Tooltip
                       contentStyle={{ borderRadius: "8px", border: "1px solid #e5e7eb", boxShadow: "0 4px 6px -1px rgba(0,0,0,0.1)" }}
                       formatter={(value: number) => [formatPrice(value), "Revenue"]}
@@ -1701,13 +2029,38 @@ export default function AdminPanel() {
 
   /* ─────────── Render: Products ─────────── */
 
-  const renderProducts = () => (
+  /* Build category ▸ subcategory filter options from the live catalog */
+  const buildCategoryOptions = () => {
+    const map = new Map<string, Set<string>>();
+    adminStore.getEffectiveProducts().forEach((p) => {
+      if (!map.has(p.category)) map.set(p.category, new Set());
+      const subs = p.categories && p.categories.length > 1 ? p.categories.slice(1) : [];
+      subs.forEach((s) => map.get(p.category)!.add(s));
+    });
+    return Array.from(map.entries()).sort().flatMap(([cat, subs]) => [
+      { value: cat, label: cat, isSub: false },
+      ...Array.from(subs).sort().map((s) => ({ value: `${cat}||${s}`, label: `▸ ${s}`, isSub: true })),
+    ]);
+  };
+
+  const renderProducts = () => {
+    const categoryOptions = buildCategoryOptions();
+
+    return (
     <div className="space-y-6">
       {renderPageHeader("Products", "Manage your product catalog", (
-        <Button onClick={openAddProduct} className="bg-purple-950 hover:bg-purple-800">
-          <Plus size={16} className="mr-2" />
-          Add Product
-        </Button>
+        <div className="flex items-center gap-2">
+          <Button variant="outline" size="sm" onClick={() => setImportOpen(true)}>
+            <Upload size={14} className="mr-1.5" /> Import
+          </Button>
+          <Button variant="outline" size="sm" onClick={exportCatalog}>
+            <Download size={14} className="mr-1.5" /> Export
+          </Button>
+          <Button onClick={openAddProduct} className="bg-purple-950 hover:bg-purple-800">
+            <Plus size={16} className="mr-2" />
+            Add Product
+          </Button>
+        </div>
       ))}
 
       {/* Filters */}
@@ -1724,18 +2077,58 @@ export default function AdminPanel() {
             }}
           />
         </div>
-        <Select value={productCategory} onValueChange={(v) => { setProductCategory(v === "all" ? "" : v); setProductsPage(1); }}>
-          <SelectTrigger className="w-full sm:w-56">
+        <Select value={productCategory || "all"} onValueChange={(v) => { setProductCategory(v === "all" ? "" : v); setProductsPage(1); }}>
+          <SelectTrigger className="w-full sm:w-60">
             <SelectValue placeholder="All Categories" />
           </SelectTrigger>
           <SelectContent>
             <SelectItem value="all">All Categories</SelectItem>
-            {CATEGORIES.map((cat) => (
-              <SelectItem key={cat} value={cat}>{cat}</SelectItem>
+            {categoryOptions.map((opt) => (
+              <SelectItem key={opt.value} value={opt.value} className={opt.isSub ? "pl-6 text-gray-600" : "font-medium"}>
+                {opt.label}
+              </SelectItem>
             ))}
           </SelectContent>
         </Select>
       </div>
+
+      {/* Bulk action toolbar */}
+      {selectedProductIds.size > 0 && (
+        <Card className="border-purple-200 bg-purple-50 shadow-sm">
+          <CardContent className="p-3 flex flex-col lg:flex-row lg:items-center gap-3">
+            <div className="flex items-center gap-2 text-sm font-medium text-purple-900">
+              <Zap size={14} className="text-purple-600" />
+              {selectedProductIds.size} selected
+              <button
+                className="text-xs text-purple-600 underline underline-offset-2 hover:text-purple-800"
+                onClick={() => setSelectedProductIds(new Set())}
+              >
+                clear
+              </button>
+            </div>
+            <div className="flex flex-wrap gap-2">
+              <Button size="sm" variant="outline" className="bg-white" onClick={() => setBulkDialog("promo")}>
+                <Tag size={14} className="mr-1.5" /> Set Promo %
+              </Button>
+              <Button size="sm" variant="outline" className="bg-white" onClick={() => setBulkDialog("price")}>
+                <DollarSign size={14} className="mr-1.5" /> Adjust Prices
+              </Button>
+              <Button size="sm" variant="outline" className="bg-white" onClick={() => setBulkDialog("stock")}>
+                <Package size={14} className="mr-1.5" /> Stock
+              </Button>
+              <Button size="sm" variant="outline" className="bg-white" onClick={() => setBulkDialog("featured")}>
+                <Star size={14} className="mr-1.5" /> Featured
+              </Button>
+              <Button size="sm" variant="outline" className="bg-white" onClick={() => setBulkDialog("category")}>
+                <ChevronRight size={14} className="mr-1.5" /> Move Category
+              </Button>
+              <Button size="sm" variant="outline" className="bg-white border-red-200 text-red-700 hover:bg-red-50" onClick={() => setBulkDialog("delete")}>
+                <Trash2 size={14} className="mr-1.5" /> Delete
+              </Button>
+            </div>
+          </CardContent>
+        </Card>
+      )}
 
       {/* Table */}
       <Card className="border-0 shadow-sm">
@@ -1754,6 +2147,13 @@ export default function AdminPanel() {
                 <Table>
                   <TableHeader>
                     <TableRow className="bg-gray-50/50">
+                      <TableHead className="w-10">
+                        <Checkbox
+                          checked={products.length > 0 && products.every((p) => selectedProductIds.has(p.id))}
+                          onCheckedChange={toggleSelectPage}
+                          aria-label="Select all products on this page"
+                        />
+                      </TableHead>
                       <TableHead className="w-16">Image</TableHead>
                       <TableHead>Title</TableHead>
                       <TableHead className="hidden md:table-cell">Category</TableHead>
@@ -1769,6 +2169,13 @@ export default function AdminPanel() {
                       return (
                         <TableRow key={product.id} className="hover:bg-gray-50/50">
                           <TableCell>
+                            <Checkbox
+                              checked={selectedProductIds.has(product.id)}
+                              onCheckedChange={() => toggleProductSelection(product.id)}
+                              aria-label={`Select ${product.title}`}
+                            />
+                          </TableCell>
+                          <TableCell>
                             <div className="size-12 rounded-md overflow-hidden bg-gray-100">
                               {product.image && (
                                 <Image src={product.image} alt={product.title} width={48} height={48} className="size-full object-cover" unoptimized />
@@ -1779,6 +2186,9 @@ export default function AdminPanel() {
                             <div className="min-w-0 max-w-xs">
                               <p className="font-medium text-sm truncate">{product.title}</p>
                               {product.sku && <p className="text-xs text-gray-400 mt-0.5">SKU: {product.sku}</p>}
+                              {product.updatedAt && (
+                                <p className="text-[10px] text-gray-400 mt-0.5">updated {formatDate(product.updatedAt)}</p>
+                              )}
                             </div>
                           </TableCell>
                           <TableCell className="hidden md:table-cell">
@@ -1796,16 +2206,35 @@ export default function AdminPanel() {
                             </div>
                           </TableCell>
                           <TableCell className="hidden sm:table-cell">
-                            <Badge variant="outline" className={`text-[10px] ${product.inStock ? "bg-emerald-50 text-emerald-700 border-emerald-200" : "bg-red-50 text-red-700 border-red-200"}`}>
-                              {product.inStock ? "In Stock" : "Out of Stock"}
-                            </Badge>
+                            <button
+                              onClick={() => {
+                                adminStore.patchProduct(product.id, { in_stock: !product.inStock });
+                                fetchProducts();
+                                fetchStats();
+                              }}
+                              title={product.inStock ? "Click to mark out of stock" : "Click to mark in stock"}
+                              className="cursor-pointer"
+                            >
+                              <Badge variant="outline" className={`text-[10px] ${product.inStock ? "bg-emerald-50 text-emerald-700 border-emerald-200" : "bg-red-50 text-red-700 border-red-200"}`}>
+                                {product.inStock ? "In Stock" : "Out of Stock"}
+                              </Badge>
+                            </button>
                           </TableCell>
                           <TableCell className="hidden lg:table-cell">
-                            {product.featured ? (
-                              <Badge className="bg-amber-100 text-amber-700 border-0 text-[10px]">Featured</Badge>
-                            ) : (
-                              <span className="text-xs text-gray-400">—</span>
-                            )}
+                            <button
+                              onClick={() => {
+                                adminStore.patchProduct(product.id, { featured: !product.featured });
+                                fetchProducts();
+                              }}
+                              title={product.featured ? "Click to unfeature" : "Click to feature (shows first on the store)"}
+                              className="cursor-pointer"
+                            >
+                              {product.featured ? (
+                                <Badge className="bg-amber-100 text-amber-700 border-0 text-[10px]">Featured</Badge>
+                              ) : (
+                                <span className="text-xs text-gray-300 hover:text-amber-500 transition-colors">☆</span>
+                              )}
+                            </button>
                           </TableCell>
                           <TableCell>
                             <DropdownMenu>
@@ -1817,6 +2246,15 @@ export default function AdminPanel() {
                               <DropdownMenuContent align="end">
                                 <DropdownMenuItem onClick={() => openEditProduct(product)}>
                                   <Pencil size={14} className="mr-2" /> Edit
+                                </DropdownMenuItem>
+                                <DropdownMenuItem onClick={() => duplicateProduct(product)}>
+                                  <Copy size={14} className="mr-2" /> Duplicate
+                                </DropdownMenuItem>
+                                <DropdownMenuItem onClick={() => window.open(`/?product=${encodeURIComponent(product.id)}`, "_blank")}>
+                                  <Eye size={14} className="mr-2" /> View on store
+                                </DropdownMenuItem>
+                                <DropdownMenuItem onClick={() => { setSelectedProductIds(new Set([product.id])); setBulkDialog("promo"); }}>
+                                  <Tag size={14} className="mr-2" /> Set promo
                                 </DropdownMenuItem>
                                 <DropdownMenuSeparator />
                                 <DropdownMenuItem className="text-red-600" onClick={() => setDeleteProductDialog(product)}>
@@ -1988,34 +2426,40 @@ export default function AdminPanel() {
                   <SelectValue placeholder="Select a category" />
                 </SelectTrigger>
                 <SelectContent>
-                  {CATEGORIES.map((cat) => (
-                    <SelectItem key={cat} value={cat}>{cat}</SelectItem>
+                  {buildCategoryOptions().filter((o) => !o.isSub).map((opt) => (
+                    <SelectItem key={opt.value} value={opt.value}>{opt.label}</SelectItem>
                   ))}
                 </SelectContent>
               </Select>
             </div>
 
-            {/* Additional Categories */}
+            {/* Subcategory */}
             <div className="space-y-2">
-              <Label>Additional Categories</Label>
+              <Label>Subcategory</Label>
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
-                {CATEGORIES.filter((c) => c !== pfCategory).map((cat) => (
-                  <div key={cat} className="flex items-center gap-2">
-                    <Checkbox
-                      id={`cat-${cat}`}
-                      checked={pfCategories.includes(cat)}
-                      onCheckedChange={(checked) => {
-                        if (checked) {
-                          setPfCategories([...pfCategories, cat]);
-                        } else {
-                          setPfCategories(pfCategories.filter((c) => c !== cat));
-                        }
-                      }}
-                    />
-                    <Label htmlFor={`cat-${cat}`} className="text-xs font-normal cursor-pointer">{cat}</Label>
-                  </div>
-                ))}
+                {buildCategoryOptions()
+                  .filter((o) => o.isSub && pfCategory && o.value.startsWith(`${pfCategory}||`))
+                  .map((opt) => {
+                    const sub = opt.label.replace("▸ ", "");
+                    return (
+                      <div key={opt.value} className="flex items-center gap-2">
+                        <Checkbox
+                          id={`sub-${opt.value}`}
+                          checked={pfCategories.includes(sub)}
+                          onCheckedChange={(checked) => {
+                            if (checked) {
+                              setPfCategories([pfCategory, ...pfCategories.filter((c) => c !== pfCategory), sub]);
+                            } else {
+                              setPfCategories(pfCategories.filter((c) => c !== sub));
+                            }
+                          }}
+                        />
+                        <Label htmlFor={`sub-${opt.value}`} className="text-xs font-normal cursor-pointer">{sub}</Label>
+                      </div>
+                    );
+                  })}
               </div>
+              <p className="text-[11px] text-gray-400">The subcategory controls which filter tab the product appears under on the store.</p>
             </div>
 
             {/* Rating */}
@@ -2085,8 +2529,176 @@ export default function AdminPanel() {
           </AlertDialogFooter>
         </AlertDialogContent>
       </AlertDialog>
+      {/* Bulk Actions Dialogs */}
+      <Dialog open={bulkDialog === "promo" || bulkDialog === "price"} onOpenChange={(open) => !open && setBulkDialog(null)}>
+        <DialogContent className="max-w-md">
+          <DialogHeader>
+            <DialogTitle>{bulkDialog === "promo" ? "Set Promo" : "Adjust Prices"}</DialogTitle>
+            <DialogDescription>
+              {bulkDialog === "promo"
+                ? `${selectedProductIds.size} products — the current price becomes the struck-through original, and the new price is discounted by the percent below.`
+                : `${selectedProductIds.size} products — change all prices by a percent (use negative to reduce, e.g. -10).`}
+            </DialogDescription>
+          </DialogHeader>
+          <div className="space-y-4 py-2">
+            <div className="space-y-2">
+              <Label htmlFor="bulk-percent">
+                {bulkDialog === "promo" ? "Discount percent (%)" : "Price change (%)"}
+              </Label>
+              <Input
+                id="bulk-percent"
+                type="number"
+                step="0.5"
+                value={bulkPercent}
+                onChange={(e) => setBulkPercent(e.target.value)}
+                placeholder="12"
+              />
+            </div>
+            {bulkDialog === "promo" && (
+              <div className="flex gap-2">
+                {[5, 10, 12, 15, 20, 25, 30].map((p) => (
+                  <button
+                    key={p}
+                    onClick={() => setBulkPercent(String(p))}
+                    className="text-xs px-2.5 py-1 rounded-full border border-gray-200 hover:border-purple-400 hover:text-purple-700 transition-colors"
+                  >
+                    {p}%
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setBulkDialog(null)}>Cancel</Button>
+            <Button onClick={applyBulkAction} disabled={bulkBusy} className="bg-purple-950 hover:bg-purple-800">
+              {bulkBusy && <RefreshCw className="animate-spin mr-2" size={14} />}
+              {bulkDialog === "promo" ? "Apply promo" : "Adjust prices"}
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      <Dialog open={bulkDialog === "stock" || bulkDialog === "featured"} onOpenChange={(open) => !open && setBulkDialog(null)}>
+        <DialogContent className="max-w-md">
+          <DialogHeader>
+            <DialogTitle>{bulkDialog === "stock" ? "Update Stock" : "Update Featured"}</DialogTitle>
+            <DialogDescription>
+              {bulkDialog === "stock"
+                ? `${selectedProductIds.size} products — choose the stock state to apply.`
+                : `${selectedProductIds.size} products — featured products are shown first on the store.`}
+            </DialogDescription>
+          </DialogHeader>
+          <div className="space-y-4 py-2">
+            <div className="flex items-center justify-between">
+              <Label htmlFor="bulk-toggle-value">
+                {bulkDialog === "stock" ? "Mark as in stock" : "Mark as featured"}
+              </Label>
+              <Switch
+                id="bulk-toggle-value"
+                checked={bulkDialog === "stock" ? bulkStockIn : bulkFeatured}
+                onCheckedChange={(v) => (bulkDialog === "stock" ? setBulkStockIn(v) : setBulkFeatured(v))}
+              />
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setBulkDialog(null)}>Cancel</Button>
+            <Button onClick={applyBulkAction} disabled={bulkBusy} className="bg-purple-950 hover:bg-purple-800">
+              {bulkBusy && <RefreshCw className="animate-spin mr-2" size={14} />}
+              Apply to {selectedProductIds.size} products
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      <Dialog open={bulkDialog === "category"} onOpenChange={(open) => !open && setBulkDialog(null)}>
+        <DialogContent className="max-w-md">
+          <DialogHeader>
+            <DialogTitle>Move to Category</DialogTitle>
+            <DialogDescription>
+              {selectedProductIds.size} products will be moved to the category (and optional subcategory) below.
+            </DialogDescription>
+          </DialogHeader>
+          <div className="space-y-4 py-2">
+            <div className="space-y-2">
+              <Label>Category</Label>
+              <Select value={bulkCategory} onValueChange={setBulkCategory}>
+                <SelectTrigger>
+                  <SelectValue placeholder="Choose a category" />
+                </SelectTrigger>
+                <SelectContent>
+                  {Array.from(new Set(adminStore.getEffectiveProducts().map((p) => p.category))).sort().map((cat) => (
+                    <SelectItem key={cat} value={cat}>{cat}</SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
+            <div className="space-y-2">
+              <Label htmlFor="bulk-subcategory">Subcategory (optional)</Label>
+              <Input
+                id="bulk-subcategory"
+                value={bulkSubcategory}
+                onChange={(e) => setBulkSubcategory(e.target.value)}
+                placeholder="e.g. Booster Boxes, Sealed Case…"
+              />
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setBulkDialog(null)}>Cancel</Button>
+            <Button onClick={applyBulkAction} disabled={bulkBusy} className="bg-purple-950 hover:bg-purple-800">
+              {bulkBusy && <RefreshCw className="animate-spin mr-2" size={14} />}
+              Move {selectedProductIds.size} products
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      <AlertDialog open={bulkDialog === "delete"} onOpenChange={(open) => !open && setBulkDialog(null)}>
+        <AlertDialogContent>
+          <AlertDialogHeader>
+            <AlertDialogTitle>Delete {selectedProductIds.size} products</AlertDialogTitle>
+            <AlertDialogDescription>
+              These products will be removed from the catalog. Publish afterwards to remove them from the live store.
+            </AlertDialogDescription>
+          </AlertDialogHeader>
+          <AlertDialogFooter>
+            <AlertDialogCancel>Cancel</AlertDialogCancel>
+            <AlertDialogAction className="bg-red-600 hover:bg-red-700" onClick={applyBulkAction}>
+              Delete {selectedProductIds.size} products
+            </AlertDialogAction>
+          </AlertDialogFooter>
+        </AlertDialogContent>
+      </AlertDialog>
+
+      {/* Catalog Import Dialog */}
+      <Dialog open={importOpen} onOpenChange={setImportOpen}>
+        <DialogContent className="max-w-2xl">
+          <DialogHeader>
+            <DialogTitle>Import Catalog</DialogTitle>
+            <DialogDescription>
+              Paste a previously exported catalog JSON (an array of products). This replaces the local working catalog — review, then publish.
+            </DialogDescription>
+          </DialogHeader>
+          <div className="space-y-2 py-2">
+            <Textarea
+              rows={12}
+              className="font-mono text-xs"
+              placeholder='[ { "id": "1", "title": "…", "price": 49.99, "image": "/images/…", "category": "Pokemon", "categories": ["Pokemon", "Booster Boxes"], "rating": 4.5, "in_stock": true } ]'
+              value={importText}
+              onChange={(e) => setImportText(e.target.value)}
+            />
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setImportOpen(false)}>Cancel</Button>
+            <Button onClick={importCatalog} disabled={importBusy || !importText.trim()} className="bg-purple-950 hover:bg-purple-800">
+              {importBusy && <RefreshCw className="animate-spin mr-2" size={14} />}
+              Import catalog
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
     </div>
-  );
+    );
+  };
 
   /* ─────────── Render: Orders ─────────── */
 
@@ -2147,7 +2759,12 @@ export default function AdminPanel() {
                     {orders.map((order) => (
                       <TableRow key={order.id} className="hover:bg-gray-50/50">
                         <TableCell>
-                          <span className="font-mono text-xs font-medium">#{order.id.slice(-8)}</span>
+                          <div className="flex flex-col gap-0.5">
+                            <span className="font-mono text-xs font-medium">#{order.id.slice(-8)}</span>
+                            {order.notes?.includes("Sample order") && (
+                              <Badge className="bg-gray-100 text-gray-600 border-0 text-[9px] h-4 px-1.5 w-fit">Sample</Badge>
+                            )}
+                          </div>
                         </TableCell>
                         <TableCell>
                           <div className="min-w-0">
@@ -2186,6 +2803,10 @@ export default function AdminPanel() {
                                     {s}
                                   </DropdownMenuItem>
                                 ))}
+                                <DropdownMenuSeparator />
+                                <DropdownMenuItem className="text-red-600" onClick={() => deleteOrder(order.id)}>
+                                  <Trash2 size={14} className="mr-2" /> Delete order
+                                </DropdownMenuItem>
                               </DropdownMenuContent>
                             </DropdownMenu>
                           </div>
@@ -2996,14 +3617,30 @@ export default function AdminPanel() {
 
               <Separator />
 
-              <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+              <div className="space-y-3">
                 <div>
-                  <h4 className="text-sm font-medium">Database</h4>
-                  <p className="text-xs text-gray-500 mt-0.5">Seed the database with sample products and content</p>
+                  <h4 className="text-sm font-medium">Store Data</h4>
+                  <p className="text-xs text-gray-500 mt-0.5">
+                    The catalog lives in this store&apos;s repository and loads automatically. Sample orders/reviews can be cleared here.
+                  </p>
                 </div>
-                <Button variant="outline" onClick={seedDatabase}>
-                  <RefreshCw size={14} className="mr-2" /> Seed Database
-                </Button>
+                <div className="flex flex-wrap gap-2">
+                  <Button variant="outline" size="sm" onClick={exportCatalog}>
+                    <Download size={14} className="mr-2" /> Export catalog
+                  </Button>
+                  <Button variant="outline" size="sm" onClick={() => setImportOpen(true)}>
+                    <Upload size={14} className="mr-2" /> Import catalog
+                  </Button>
+                  <Button variant="outline" size="sm" onClick={handleRefreshFromLive}>
+                    <RefreshCw size={14} className="mr-2" /> Re-sync from live store
+                  </Button>
+                  <Button variant="outline" size="sm" onClick={handleDiscardChanges} disabled={unpublishedCount === 0} className="text-amber-700 border-amber-200 hover:bg-amber-50">
+                    Discard local edits ({unpublishedCount})
+                  </Button>
+                  <Button variant="outline" size="sm" onClick={handleClearSampleData} className="text-gray-600">
+                    Clear sample data
+                  </Button>
+                </div>
               </div>
 
               <div className="flex justify-end pt-4">
@@ -3014,6 +3651,78 @@ export default function AdminPanel() {
               </div>
             </div>
           )}
+        </CardContent>
+      </Card>
+
+      {/* Live Store Sync (GitHub) */}
+      <Card className="border-0 shadow-sm">
+        <CardHeader>
+          <div className="flex items-center gap-2">
+            <Github size={18} className="text-purple-950" />
+            <CardTitle className="text-base">Live Store Sync (GitHub)</CardTitle>
+          </div>
+          <CardDescription>
+            Connect your GitHub account so the Publish button can push catalog changes to the live store (the store rebuilds automatically, usually within a few minutes).
+          </CardDescription>
+        </CardHeader>
+        <CardContent>
+          <div className="space-y-5">
+            <div className="rounded-lg bg-purple-50 border border-purple-100 p-4 text-xs text-purple-900 space-y-1.5">
+              <p className="font-semibold">How to get a token (one time, ~2 minutes):</p>
+              <p>1. On GitHub, open <span className="font-mono bg-white/70 rounded px-1">Settings → Developer settings → Fine-grained tokens → Generate new token</span></p>
+              <p>2. <span className="font-medium">Repository access:</span> select <span className="font-mono bg-white/70 rounded px-1">Only select repositories</span> → <span className="font-mono bg-white/70 rounded px-1">AKIHABARATCGWAREHOUSE</span></p>
+              <p>3. <span className="font-medium">Permissions → Repository permissions → Contents:</span> set to <span className="font-medium">Read and write</span> (nothing else needed)</p>
+              <p>4. Generate, copy the token, and paste it below. It is stored only in this browser (localStorage) — never in the site code.</p>
+            </div>
+
+            <div className="space-y-2">
+              <Label htmlFor="gh-token">GitHub Access Token</Label>
+              <Input
+                id="gh-token"
+                type="password"
+                placeholder="github_pat_… (fine-grained, Contents: Read & Write)"
+                value={ghToken}
+                onChange={(e) => setGhToken(e.target.value)}
+              />
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              <div className="space-y-2">
+                <Label htmlFor="gh-owner">Owner</Label>
+                <Input id="gh-owner" value={ghOwner} onChange={(e) => setGhOwner(e.target.value)} placeholder="Zionimagodei2" />
+              </div>
+              <div className="space-y-2">
+                <Label htmlFor="gh-repo">Repository</Label>
+                <Input id="gh-repo" value={ghRepo} onChange={(e) => setGhRepo(e.target.value)} placeholder="AKIHABARATCGWAREHOUSE" />
+              </div>
+              <div className="space-y-2">
+                <Label htmlFor="gh-branch">Branch</Label>
+                <Input id="gh-branch" value={ghBranch} onChange={(e) => setGhBranch(e.target.value)} placeholder="main" />
+              </div>
+            </div>
+
+            {ghTestResult && (
+              <div className={`text-sm rounded-md p-3 border flex items-start gap-2 ${ghTestResult.ok ? "text-emerald-700 bg-emerald-50 border-emerald-200" : "text-red-700 bg-red-50 border-red-200"}`}>
+                {ghTestResult.ok ? <CheckCircle2 size={16} className="mt-0.5 shrink-0" /> : <XCircle size={16} className="mt-0.5 shrink-0" />}
+                {ghTestResult.message}
+              </div>
+            )}
+
+            <div className="flex flex-wrap gap-2">
+              <Button variant="outline" onClick={testGitHubConnection} disabled={ghTesting}>
+                {ghTesting ? <RefreshCw className="animate-spin mr-2" size={14} /> : <Globe size={14} className="mr-2" />}
+                Test connection
+              </Button>
+              <Button onClick={saveGitHubConnection} className="bg-purple-950 hover:bg-purple-800">
+                Save connection
+              </Button>
+              {adminStore.github?.token && (
+                <Badge variant="outline" className="bg-emerald-50 text-emerald-700 border-emerald-200 h-7">
+                  <CheckCircle2 size={12} className="mr-1" /> Token saved in this browser
+                </Badge>
+              )}
+            </div>
+          </div>
         </CardContent>
       </Card>
     </div>
@@ -3028,7 +3737,7 @@ export default function AdminPanel() {
       {/* Main Content */}
       <div className="lg:pl-64">
         {/* Top Bar */}
-        <header className="sticky top-0 z-30 bg-white/80 backdrop-blur-md border-b px-4 lg:px-8 py-3 flex items-center gap-4">
+        <header className="sticky top-0 z-30 bg-white/80 backdrop-blur-md border-b px-4 lg:px-8 py-3 flex items-center gap-3">
           <Button
             variant="ghost"
             size="icon"
@@ -3037,9 +3746,47 @@ export default function AdminPanel() {
           >
             <Menu size={20} />
           </Button>
+          {/* Publish status + action */}
+          {publishStatus.state === "waiting" && (
+            <span className="hidden sm:inline-flex items-center gap-1.5 text-xs font-medium text-amber-700 bg-amber-50 border border-amber-200 rounded-full px-3 py-1.5">
+              <span className="relative flex size-2">
+                <span className="animate-ping absolute inline-flex size-full rounded-full bg-amber-400 opacity-75" />
+                <span className="relative inline-flex rounded-full size-2 bg-amber-500" />
+              </span>
+              Rebuilding the live store…
+            </span>
+          )}
+          {publishStatus.state === "live" && (
+            <span className="hidden sm:inline-flex items-center gap-1.5 text-xs font-medium text-emerald-700 bg-emerald-50 border border-emerald-200 rounded-full px-3 py-1.5">
+              <CheckCircle2 size={12} /> Changes are live
+            </span>
+          )}
+          {publishStatus.state === "error" && (
+            <span className="hidden sm:inline-flex items-center gap-1.5 text-xs font-medium text-red-700 bg-red-50 border border-red-200 rounded-full px-3 py-1.5 truncate max-w-[220px]">
+              <AlertTriangle size={12} /> {publishStatus.message}
+            </span>
+          )}
           <div className="flex-1" />
           <div className="flex items-center gap-3">
-            <Button variant="ghost" size="sm" onClick={() => { setActivePage("dashboard"); fetchStats(); }} className="text-gray-500">
+            <Button
+              onClick={handlePublish}
+              disabled={publishing || publishStatus.state === "publishing" || unpublishedCount === 0}
+              className="bg-purple-950 hover:bg-purple-800"
+              size="sm"
+            >
+              {publishing || publishStatus.state === "publishing" ? (
+                <RefreshCw className="animate-spin mr-2" size={14} />
+              ) : (
+                <CloudUpload size={14} className="mr-1.5" />
+              )}
+              Publish
+              {unpublishedCount > 0 && (
+                <Badge className="ml-1.5 bg-amber-400 text-black text-[10px] h-5 px-1.5 border-0">
+                  {unpublishedCount}
+                </Badge>
+              )}
+            </Button>
+            <Button variant="ghost" size="sm" onClick={() => { setActivePage("dashboard"); handleRefreshFromLive(); }} className="text-gray-500">
               <RefreshCw size={14} className="mr-1" /> Refresh
             </Button>
             <Separator orientation="vertical" className="h-6" />

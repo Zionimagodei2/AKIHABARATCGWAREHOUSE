@@ -13,7 +13,8 @@
 #    public/products.json via src/lib/product-data.ts),
 #  - cart / search / filters / modals are client-side,
 #  - checkout falls back to live-chat / email confirmation without the API,
-#  - /admin is a client page that requires a backend and is robots-disallowed.
+#  - /admin is self-contained: it manages the catalog in-browser (localStorage
+#    overlay) and publishes via the GitHub API — no backend needed here.
 set -uo pipefail
 
 cd "$(dirname "$0")/.."

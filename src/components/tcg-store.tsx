@@ -57,6 +57,11 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import type {
+  StoreContent,
+  StoreHeroSlide,
+  StoreAnnouncement,
+} from "@/lib/admin-store";
 
 /* ─────────── Types ─────────── */
 
@@ -72,6 +77,7 @@ interface Product {
   categories?: string[];
   rating?: number;
   in_stock?: boolean;
+  featured?: boolean;
 }
 
 interface CartItem {
@@ -272,6 +278,10 @@ export default function TCGStore({
   const [currentPage, setCurrentPage] = useState<PageView>("shop");
   const [currentUser, setCurrentUser] = useState<{ id: string; email: string; name: string } | null>(null);
   const [mounted, setMounted] = useState(false);
+  // Store content (hero slides / announcements / settings) — editable from
+  // the admin panel and published to /content.json; falls back to the
+  // hardcoded defaults below until it loads (identical content, no flash).
+  const [storeContent, setStoreContent] = useState<StoreContent | null>(null);
 
   // Group products by category for homepage 2-per-category display
   const productsByCategory = useMemo(() => {
@@ -292,6 +302,46 @@ export default function TCGStore({
   useEffect(() => {
     setMounted(true);
   }, []);
+
+  // Load editable store content (hero slides, announcements, settings) —
+  // published from the admin panel. Silent fallback to defaults.
+  useEffect(() => {
+    let cancelled = false;
+    fetch(`/content.json?_ts=${Date.now()}`)
+      .then((res) => (res.ok ? res.json() : null))
+      .then((data) => {
+        if (cancelled || !data || typeof data !== "object") return;
+        setStoreContent({
+          heroSlides: Array.isArray(data.heroSlides) ? (data.heroSlides as StoreHeroSlide[]) : [],
+          announcements: Array.isArray(data.announcements) ? (data.announcements as StoreAnnouncement[]) : [],
+          settings: data.settings || null,
+        } as unknown as StoreContent);
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  // Active hero slides / announcements / whatsapp (content.json first)
+  const heroSlides = React.useMemo(() => {
+    const slides = (storeContent?.heroSlides || [])
+      .filter((s) => s.active !== false)
+      .sort((a, b) => (a.order || 0) - (b.order || 0))
+      .map((s) => ({ image: s.image, title: s.title, subtitle: s.subtitle, accent: s.accent }));
+    return slides.length > 0 ? slides : HERO_SLIDES;
+  }, [storeContent]);
+
+  const announcementMessages = React.useMemo(() => {
+    const msgs = (storeContent?.announcements || [])
+      .filter((a) => a.active !== false)
+      .sort((a, b) => (a.order || 0) - (b.order || 0))
+      .map((a) => a.message);
+    return msgs.length > 0 ? msgs : ANNOUNCEMENT_MESSAGES;
+  }, [storeContent]);
+
+  const whatsappNumber = storeContent?.settings?.whatsappNumber || "+81 80-2935-0455";
+  const whatsappLink = `https://wa.me/${whatsappNumber.replace(/[^\d]/g, "")}`;
 
   // Product page handoff: /?product=<id> opens that product's modal so the
   // "Add to Cart" CTA on /product/[slug] lands the user in the purchase flow
@@ -367,13 +417,18 @@ export default function TCGStore({
     loadProducts();
   }, []);
 
-  // Hero carousel auto-play
+  // Hero carousel auto-play (re-arms when the editable slide set changes)
   useEffect(() => {
     const timer = setInterval(() => {
-      setHeroIndex((prev) => (prev + 1) % HERO_SLIDES.length);
+      setHeroIndex((prev) => (prev + 1) % Math.max(heroSlides.length, 1));
     }, 5000);
     return () => clearInterval(timer);
-  }, []);
+  }, [heroSlides]);
+
+  // Keep hero index valid when the slide set shrinks
+  useEffect(() => {
+    if (heroIndex >= heroSlides.length) setHeroIndex(0);
+  }, [heroSlides, heroIndex]);
 
   // Scroll-to-top button
   useEffect(() => {
@@ -445,8 +500,12 @@ export default function TCGStore({
       case "name-desc": filtered = [...filtered].sort((a, b) => b.title.localeCompare(a.title)); break;
       case "rating": filtered = [...filtered].sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0)); break;
       default:
-        // Featured/default: sort by category priority, then series prefix, then series number (descending), then rating
+        // Featured/default: admin-featured products first, then category
+        // priority, series prefix, series number (descending), then rating
         filtered = [...filtered].sort((a, b) => {
+          const fa = a.featured === true ? 0 : 1;
+          const fb = b.featured === true ? 0 : 1;
+          if (fa !== fb) return fa - fb;
           const pa = getCategoryPriority(a);
           const pb = getCategoryPriority(b);
           if (pa !== pb) return pa - pb;
@@ -575,8 +634,8 @@ export default function TCGStore({
       {/* ─── Announcement Bar ─── */}
       <div className="bg-purple-950 text-white overflow-hidden relative">
         <div className="animate-marquee flex whitespace-nowrap py-2.5">
-          {[...ANNOUNCEMENT_MESSAGES, ...ANNOUNCEMENT_MESSAGES].map((msg, i) => (
-            <span key={i} aria-hidden={i >= ANNOUNCEMENT_MESSAGES.length} className="mx-10 text-[14px] font-light tracking-wide opacity-90">
+          {[...announcementMessages, ...announcementMessages].map((msg, i) => (
+            <span key={i} aria-hidden={i >= announcementMessages.length} className="mx-10 text-[14px] font-light tracking-wide opacity-90">
               {msg}
             </span>
           ))}
@@ -869,7 +928,7 @@ export default function TCGStore({
 
       {/* ─── Main Content ─── */}
       <main className="flex-1">
-        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} selectedSubcategory={selectedSubcategory} setSelectedSubcategory={setSelectedSubcategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} visibleCount={visibleCount} setVisibleCount={setVisibleCount} />}
+        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} selectedSubcategory={selectedSubcategory} setSelectedSubcategory={setSelectedSubcategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} visibleCount={visibleCount} setVisibleCount={setVisibleCount} heroSlides={heroSlides} />}
         {currentPage === "about" && <AboutPage />}
         {currentPage === "shipping" && <ShippingPage />}
         {currentPage === "faq" && <FAQPage />}
@@ -1051,7 +1110,7 @@ export default function TCGStore({
 
       {/* WhatsApp Floating Contact */}
       <a
-        href="https://wa.me/818029350455"
+        href={whatsappLink}
         target="_blank"
         rel="noopener noreferrer"
         className="fixed left-4 bottom-2 sm:bottom-8 md:bottom-6 z-[999] bg-[#25D366] hover:bg-[#1ebe5d] text-white rounded-full p-3.5 shadow-lg transition-colors flex items-center justify-center"
@@ -1160,7 +1219,7 @@ export default function TCGStore({
 
 /* ─────────── Shop Page ─────────── */
 
-function ShopPage({ products, loading, selectedCategory, setSelectedCategory, selectedSubcategory, setSelectedSubcategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory, visibleCount, setVisibleCount }: {
+function ShopPage({ products, loading, selectedCategory, setSelectedCategory, selectedSubcategory, setSelectedSubcategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory, visibleCount, setVisibleCount, heroSlides }: {
   products: Product[]; loading: boolean; selectedCategory: string; setSelectedCategory: (v: string) => void;
   selectedSubcategory: string; setSelectedSubcategory: (v: string) => void;
   searchQuery: string; sortOption: SortOption; setSortOption: (v: SortOption) => void;
@@ -1170,6 +1229,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
   scrollToSection: (id: string) => void;
   productsByCategory: Record<string, Product[]>;
   visibleCount: number; setVisibleCount: (v: number) => void;
+  heroSlides: { image: string; title: string; subtitle: string; accent: string }[];
 }) {
   // Determine if we show the homepage category showcase or the full product grid
   const isHomepageView = selectedCategory === "all" && !searchQuery.trim();
@@ -1195,18 +1255,18 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 transition={{ duration: 0.5 }}
                 className="relative h-64 sm:h-80 lg:h-[420px] w-full"
               >
-                <ProductImg src={HERO_SLIDES[heroIndex].image} alt={HERO_SLIDES[heroIndex].title} fill className="object-cover" priority={heroIndex === 0} sizes="100vw" />
+                <ProductImg src={heroSlides[heroIndex].image} alt={heroSlides[heroIndex].title} fill className="object-cover" priority={heroIndex === 0} sizes="100vw" />
                 <div className="absolute inset-0 bg-gradient-to-r from-purple-950/90 via-purple-900/60 to-transparent" style={{background: "linear-gradient(to right, rgba(59,7,100,0.9), rgba(88,28,135,0.6), transparent)"}} />
                 <div className="absolute inset-0 flex items-center px-8 sm:px-12 lg:px-16">
                   <div className="max-w-lg">
                     <p className="mb-3 text-[13px] font-bold text-white tracking-[0.2em] uppercase">
-                      {HERO_SLIDES[heroIndex].accent}
+                      {heroSlides[heroIndex].accent}
                     </p>
                     <h2 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-[1.1] mb-4">
-                      {HERO_SLIDES[heroIndex].title}
+                      {heroSlides[heroIndex].title}
                     </h2>
                     <p className="text-[14px] sm:text-[16px] text-gray-200 mb-6 max-w-md leading-relaxed">
-                      {HERO_SLIDES[heroIndex].subtitle}
+                      {heroSlides[heroIndex].subtitle}
                     </p>
                     <Button onClick={() => scrollToSection("products")} className="bg-gradient-to-r from-purple-600 to-violet-500 hover:from-purple-700 hover:to-violet-600 text-white font-bold px-8 py-3 text-[14px] shadow-lg shadow-purple-500/40 transition-all duration-300 hover:shadow-xl hover:shadow-purple-500/50 hover:-translate-y-0.5 btn-gradient-purple">
                       Shop Now →
@@ -1215,14 +1275,14 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 </div>
               </motion.div>
             </AnimatePresence>
-            <button onClick={() => setHeroIndex((prev) => (prev - 1 + HERO_SLIDES.length) % HERO_SLIDES.length)} className="absolute left-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2.5 text-white transition-colors z-20" aria-label="Previous slide">
+            <button onClick={() => setHeroIndex((prev) => (prev - 1 + heroSlides.length) % heroSlides.length)} className="absolute left-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2.5 text-white transition-colors z-20" aria-label="Previous slide">
               <ChevronLeft className="size-5" />
             </button>
-            <button onClick={() => setHeroIndex((prev) => (prev + 1) % HERO_SLIDES.length)} className="absolute right-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2.5 text-white transition-colors z-20" aria-label="Next slide">
+            <button onClick={() => setHeroIndex((prev) => (prev + 1) % heroSlides.length)} className="absolute right-3 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/25 backdrop-blur-sm rounded-full p-2.5 text-white transition-colors z-20" aria-label="Next slide">
               <ChevronRight className="size-5" />
             </button>
             <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2 z-20">
-              {HERO_SLIDES.map((_, i) => (
+              {heroSlides.map((_, i) => (
                 <button key={i} onClick={() => setHeroIndex(i)} className={`rounded-full transition-all duration-300 ${i === heroIndex ? "w-8 h-2.5 bg-violet-500" : "w-2.5 h-2.5 bg-white/40 hover:bg-white/60"}`} aria-label={`Go to slide ${i + 1}`} />
               ))}
             </div>
