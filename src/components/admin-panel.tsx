@@ -595,8 +595,11 @@ export default function AdminPanel() {
     const ADMIN_PASSWORD = "Akihabarat1$";
 
     try {
-      // Verify admin credentials
-      if (loginEmail === ADMIN_EMAIL && loginPassword === ADMIN_PASSWORD) {
+      // Verify admin credentials — email is case-insensitive (Gmail ignores case);
+      // trim() guards against accidental whitespace from mobile keyboards
+      const normalizedEmail = loginEmail.trim().toLowerCase();
+      const normalizedPassword = loginPassword.trim();
+      if (normalizedEmail === ADMIN_EMAIL && normalizedPassword === ADMIN_PASSWORD) {
         const adminData: AdminUser = { id: "admin-local", email: ADMIN_EMAIL, name: "Admin", role: "admin" };
         setIsAuthenticated(true);
         setAdminUser(adminData);
@@ -1289,7 +1292,7 @@ export default function AdminPanel() {
                   <Input
                     id="email"
                     type="email"
-                    placeholder="akihabaratcgwarehouse1@gmail.com"
+                    placeholder="admin@example.com"
                     value={loginEmail}
                     onChange={(e) => setLoginEmail(e.target.value)}
                     required
