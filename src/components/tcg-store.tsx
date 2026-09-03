@@ -529,20 +529,13 @@ export default function TCGStore({
     }
   }, [currentPage, navigateTo]);
 
-  /* Category pill click = OPEN the subcategory dropdown only — the visitor
-     always gets the chance to choose a subcategory (or "All {Category}")
-     from the menu before any navigation happens. */
+  /* Category pill click = open/close the subcategory menu only — the visitor
+     always gets the chance to choose a subcategory (or "All {Category}") from
+     the menu before any navigation happens. Toggle works for both
+     hover-capable pointers (click again to dismiss) and touch (tap to open,
+     tap to close). */
   const handleCategoryNav = useCallback((key: string) => {
-    const canHover =
-      typeof window !== "undefined" &&
-      !!window.matchMedia?.("(hover: hover)").matches;
-    if (canHover) {
-      // Hover devices already reveal the menu on hover; click keeps it open.
-      setOpenCatDropdown(key);
-    } else {
-      // Touch devices: tap toggles the dropdown (first tap opens, second closes).
-      setOpenCatDropdown((prev) => (prev === key ? null : key));
-    }
+    setOpenCatDropdown((prev) => (prev === key ? null : key));
   }, []);
 
   /* Subcategory selection from the header dropdown or the footer accordion. */
@@ -755,7 +748,7 @@ export default function TCGStore({
                     {isDropdownOpen && (
                       <div
                         role="menu"
-                        className={`absolute top-full ${isLast ? "right-0" : "left-0"} mt-1.5 w-56 max-w-[calc(100vw-2.5rem)] bg-white rounded-xl shadow-xl shadow-purple-900/10 border border-purple-100 py-1.5 z-50`}
+                        className={`hidden md:block absolute top-full ${isLast ? "right-0" : "left-0"} mt-1.5 w-56 bg-white rounded-xl shadow-xl shadow-purple-900/10 border border-purple-100 py-1.5 z-50`}
                       >
                         <button
                           role="menuitem"
@@ -789,6 +782,37 @@ export default function TCGStore({
                 );
               })}
             </div>
+
+            {/* Mobile (<md): subcategories expand IN-FLOW below the pills row
+                as a wrapping pill panel — always inside the viewport, never an
+                absolutely-positioned card sliding off the screen edge. */}
+            {openCatDropdown && SUBCATEGORY_TABS[openCatDropdown] && (
+              <div className="md:hidden flex flex-wrap gap-1.5 px-1 pt-2 pb-2.5 border-t border-purple-100/60">
+                <button
+                  onClick={() => handleSubcategoryNav(openCatDropdown, "all")}
+                  className={`px-3 py-1.5 rounded-full text-[11px] font-semibold whitespace-nowrap border transition-all duration-200 ${
+                    currentPage === "shop" && selectedCategory === openCatDropdown && selectedSubcategory === "all"
+                      ? "bg-violet-500 text-white border-violet-500"
+                      : "bg-white/80 text-gray-600 hover:bg-purple-100 hover:text-purple-900 border-purple-100"
+                  }`}
+                >
+                  All {CATEGORY_TABS.find((t) => t.key === openCatDropdown)?.label}
+                </button>
+                {SUBCATEGORY_TABS[openCatDropdown].map((sub) => (
+                  <button
+                    key={sub.key}
+                    onClick={() => handleSubcategoryNav(openCatDropdown, sub.key)}
+                    className={`px-3 py-1.5 rounded-full text-[11px] font-semibold whitespace-nowrap border transition-all duration-200 ${
+                      currentPage === "shop" && selectedCategory === openCatDropdown && selectedSubcategory === sub.key
+                        ? "bg-violet-500 text-white border-violet-500"
+                        : "bg-white/80 text-gray-600 hover:bg-purple-100 hover:text-purple-900 border-purple-100"
+                    }`}
+                  >
+                    {sub.label}
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
 
           {/* Mobile search bar */}
