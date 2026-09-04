@@ -43,13 +43,15 @@ import {
   Link,
   Hash,
   CloudUpload,
-  Github,
   Copy,
   Download,
   Upload,
   Zap,
   Tag,
   AlertTriangle,
+  PackageCheck,
+  Lock,
+  ShieldCheck,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -119,6 +121,7 @@ import {
   type PublishStatus as StorePublishStatus,
   type StoreProduct,
   type StoreContent,
+  type TokenStatus,
 } from "@/lib/admin-store";
 
 /* ─────────── Types ─────────── */
@@ -523,6 +526,8 @@ export default function AdminPanel() {
   const [reviewsLoading, setReviewsLoading] = useState(false);
   const [reviewApprovedFilter, setReviewApprovedFilter] = useState("all");
   const [editReviewDialog, setEditReviewDialog] = useState<Review | null>(null);
+  const [reviewCreateMode, setReviewCreateMode] = useState(false);
+  const [reviewFormProductId, setReviewFormProductId] = useState("");
   const [deleteReviewDialog, setDeleteReviewDialog] = useState<Review | null>(null);
   const [reviewFormAuthor, setReviewFormAuthor] = useState("");
   const [reviewFormRating, setReviewFormRating] = useState(5);
@@ -558,12 +563,28 @@ export default function AdminPanel() {
   const [unpublishedCount, setUnpublishedCount] = useState(0);
   const [publishStatus, setPublishStatus] = useState<StorePublishStatus>({ state: "idle", message: "", at: null });
   const [publishing, setPublishing] = useState(false);
-  const [ghToken, setGhToken] = useState("");
-  const [ghOwner, setGhOwner] = useState("");
-  const [ghRepo, setGhRepo] = useState("");
-  const [ghBranch, setGhBranch] = useState("");
-  const [ghTesting, setGhTesting] = useState(false);
-  const [ghTestResult, setGhTestResult] = useState<{ ok: boolean; message: string } | null>(null);
+  // Publication token (built-in, masked & locked until it expires)
+  const [tokenStatus, setTokenStatus] = useState<TokenStatus | null>(null);
+  const [newToken, setNewToken] = useState("");
+  const [tokenSaving, setTokenSaving] = useState(false);
+  const [tokenResult, setTokenResult] = useState<{ ok: boolean; message: string } | null>(null);
+
+  // Record a real order (from a customer confirmation via WhatsApp / live chat)
+  const [newOrderOpen, setNewOrderOpen] = useState(false);
+  const [noName, setNoName] = useState("");
+  const [noEmail, setNoEmail] = useState("");
+  const [noPhone, setNoPhone] = useState("");
+  const [noAddress, setNoAddress] = useState("");
+  const [noCity, setNoCity] = useState("");
+  const [noCountry, setNoCountry] = useState("");
+  const [noZip, setNoZip] = useState("");
+  const [noPayment, setNoPayment] = useState("WhatsApp");
+  const [noStatus, setNoStatus] = useState("pending");
+  const [noNotes, setNoNotes] = useState("");
+  const [noProductId, setNoProductId] = useState("");
+  const [noProductSearch, setNoProductSearch] = useState("");
+  const [noQuantity, setNoQuantity] = useState(1);
+  const [noSaving, setNoSaving] = useState(false);
 
   // Bulk product actions
   const [selectedProductIds, setSelectedProductIds] = useState<Set<string>>(new Set());
@@ -647,11 +668,7 @@ export default function AdminPanel() {
     const unsubscribe = adminStore.subscribe(syncFromStore);
     adminStore.ready().then(() => {
       if (cancelled) return;
-      const gh = adminStore.getGitHubConfig();
-      setGhOwner(gh.owner);
-      setGhRepo(gh.repo);
-      setGhBranch(gh.branch);
-      setGhToken(gh.token);
+      setTokenStatus(adminStore.getTokenStatus());
       syncFromStore();
       // Load the current page's data once the store is ready
       switch (activePage) {
@@ -1239,26 +1256,71 @@ export default function AdminPanel() {
   };
 
   const openEditReview = (review: Review) => {
+    setReviewCreateMode(false);
     setEditReviewDialog(review);
+    setReviewFormProductId(review.productId || "");
     setReviewFormAuthor(review.author);
     setReviewFormRating(review.rating);
     setReviewFormComment(review.comment);
     setReviewFormApproved(review.approved);
   };
 
+  const openCreateReview = () => {
+    setReviewCreateMode(true);
+    setEditReviewDialog({
+      id: "new",
+      productId: "",
+      userId: null,
+      author: "",
+      rating: 5,
+      comment: "",
+      date: new Date().toISOString().slice(0, 10),
+      avatar: null,
+      approved: true,
+      createdAt: new Date().toISOString(),
+      product: null,
+    });
+    setReviewFormProductId("");
+    setReviewFormAuthor("");
+    setReviewFormRating(5);
+    setReviewFormComment("");
+    setReviewFormApproved(true);
+  };
+
   const saveReview = async () => {
     if (!editReviewDialog) return;
-    adminStore.upsertReview({
-      id: editReviewDialog.id,
-      productId: editReviewDialog.productId,
-      author: reviewFormAuthor,
-      rating: reviewFormRating,
-      comment: reviewFormComment,
-      date: editReviewDialog.date,
-      approved: reviewFormApproved,
-    });
-    toast({ title: "Review saved", description: `${reviewFormAuthor}'s review has been updated` });
+    if (reviewCreateMode) {
+      if (!reviewFormProductId) {
+        toast({ title: "Missing product", description: "Pick the product this review is about", variant: "destructive" });
+        return;
+      }
+      if (!reviewFormAuthor.trim() || !reviewFormComment.trim()) {
+        toast({ title: "Missing details", description: "Author and comment are required", variant: "destructive" });
+        return;
+      }
+      adminStore.upsertReview({
+        productId: reviewFormProductId,
+        author: reviewFormAuthor.trim(),
+        rating: reviewFormRating,
+        comment: reviewFormComment.trim(),
+        date: new Date().toISOString().slice(0, 10),
+        approved: reviewFormApproved,
+      });
+      toast({ title: "Review recorded", description: `${reviewFormAuthor.trim()}'s review has been added` });
+    } else {
+      adminStore.upsertReview({
+        id: editReviewDialog.id,
+        productId: editReviewDialog.productId,
+        author: reviewFormAuthor,
+        rating: reviewFormRating,
+        comment: reviewFormComment,
+        date: editReviewDialog.date,
+        approved: reviewFormApproved,
+      });
+      toast({ title: "Review saved", description: `${reviewFormAuthor}'s review has been updated` });
+    }
     setEditReviewDialog(null);
+    setReviewCreateMode(false);
     fetchReviews();
   };
 
@@ -1446,31 +1508,85 @@ export default function AdminPanel() {
     fetchSettings();
   };
 
-  const saveGitHubConnection = () => {
-    adminStore.saveGitHubConfig({
-      token: ghToken,
-      owner: ghOwner.trim() || "Zionimagodei2",
-      repo: ghRepo.trim() || "AKIHABARATCGWAREHOUSE",
-      branch: ghBranch.trim() || "main",
-    });
-    toast({ title: "Connection saved", description: "The token is stored only in this browser" });
+  /* ─────────── Publication Token ─────────── */
+
+  /** Save a replacement token — only possible once the current one expired. */
+  const handleSaveToken = async () => {
+    setTokenSaving(true);
+    setTokenResult(null);
+    try {
+      const result = await adminStore.savePublicationToken(newToken);
+      if (result.ok) {
+        setTokenResult({ ok: true, message: "New publication token saved and verified" });
+        setNewToken("");
+        setTokenStatus(adminStore.getTokenStatus());
+        toast({ title: "Token updated", description: "The new publication token is active" });
+      } else {
+        setTokenResult({ ok: false, message: result.error || "Could not save the token" });
+      }
+    } finally {
+      setTokenSaving(false);
+    }
   };
 
-  const testGitHubConnection = async () => {
-    setGhTesting(true);
-    setGhTestResult(null);
+  /* ─────────── Record a real order ─────────── */
+
+  const resetNewOrderForm = () => {
+    setNoName("");
+    setNoEmail("");
+    setNoPhone("");
+    setNoAddress("");
+    setNoCity("");
+    setNoCountry("");
+    setNoZip("");
+    setNoPayment("WhatsApp");
+    setNoStatus("pending");
+    setNoNotes("");
+    setNoProductId("");
+    setNoProductSearch("");
+    setNoQuantity(1);
+  };
+
+  const openNewOrder = () => {
+    resetNewOrderForm();
+    setNewOrderOpen(true);
+  };
+
+  const saveNewOrder = async () => {
+    if (!noName.trim() || !noProductId) {
+      toast({ title: "Missing details", description: "Customer name and product are required", variant: "destructive" });
+      return;
+    }
+    const product = adminStore.getProduct(noProductId);
+    if (!product) {
+      toast({ title: "Product not found", description: "Pick a product from the catalog", variant: "destructive" });
+      return;
+    }
+    setNoSaving(true);
     try {
-      // Save first so the store tests the current inputs
-      adminStore.saveGitHubConfig({
-        token: ghToken,
-        owner: ghOwner.trim() || "Zionimagodei2",
-        repo: ghRepo.trim() || "AKIHABARATCGWAREHOUSE",
-        branch: ghBranch.trim() || "main",
+      const qty = Math.max(1, Math.round(noQuantity));
+      adminStore.createOrder({
+        items: [{ id: product.id, title: product.title, price: product.price, quantity: qty, image: product.image }],
+        total: Math.round(product.price * qty * 100) / 100,
+        status: noStatus,
+        customerName: noName.trim(),
+        customerEmail: noEmail.trim() || null,
+        customerPhone: noPhone.trim() || null,
+        shippingAddress: noAddress.trim() || null,
+        shippingCity: noCity.trim() || null,
+        shippingCountry: noCountry.trim() || null,
+        shippingZip: noZip.trim() || null,
+        paymentMethod: noPayment,
+        notes: noNotes.trim() || null,
       });
-      const result = await adminStore.testGitHub();
-      setGhTestResult(result);
+      toast({ title: "Order recorded", description: `${noName.trim()} — ${product.title} ×${qty}` });
+      setNewOrderOpen(false);
+      resetNewOrderForm();
+      fetchOrders();
+      fetchStats();
+      fetchCustomers();
     } finally {
-      setGhTesting(false);
+      setNoSaving(false);
     }
   };
 
@@ -1504,15 +1620,6 @@ export default function AdminPanel() {
     } finally {
       setImportBusy(false);
     }
-  };
-
-  const handleClearSampleData = () => {
-    adminStore.clearSampleData();
-    toast({ title: "Sample data cleared", description: "Orders and reviews from the demo have been removed" });
-    fetchOrders();
-    fetchCustomers();
-    fetchReviews();
-    fetchStats();
   };
 
   const handleRefreshFromLive = async () => {
@@ -1726,6 +1833,7 @@ export default function AdminPanel() {
     const ord = stats?.totalOrders || 0;
     const prod = stats?.totalProducts || 0;
     const cust = stats?.totalCustomers || 0;
+    const hasOrders = ord > 0;
     const statCards = [
       {
         title: "Total Revenue",
@@ -1881,24 +1989,39 @@ export default function AdminPanel() {
             </CardHeader>
             <CardContent>
               <div className="h-72">
-                <ResponsiveContainer width="100%" height="100%">
-                  <AreaChart data={revenueChart}>
-                    <defs>
-                      <linearGradient id="colorRevenue" x1="0" y1="0" x2="0" y2="1">
-                        <stop offset="5%" stopColor="#581c87" stopOpacity={0.15} />
-                        <stop offset="95%" stopColor="#581c87" stopOpacity={0} />
-                      </linearGradient>
-                    </defs>
-                    <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
-                    <XAxis dataKey="name" tick={{ fontSize: 12 }} tickLine={false} axisLine={false} />
-                    <YAxis tick={{ fontSize: 12 }} tickLine={false} axisLine={false} tickFormatter={(v) => (v >= 1000 ? `$${(v / 1000).toFixed(1)}k` : `$${v}`)} />
-                    <Tooltip
-                      contentStyle={{ borderRadius: "8px", border: "1px solid #e5e7eb", boxShadow: "0 4px 6px -1px rgba(0,0,0,0.1)" }}
-                      formatter={(value: number) => [formatPrice(value), "Revenue"]}
-                    />
-                    <Area type="monotone" dataKey="revenue" stroke="#581c87" strokeWidth={2} fillOpacity={1} fill="url(#colorRevenue)" />
-                  </AreaChart>
-                </ResponsiveContainer>
+                {hasOrders ? (
+                  <ResponsiveContainer width="100%" height="100%">
+                    <AreaChart data={revenueChart}>
+                      <defs>
+                        <linearGradient id="colorRevenue" x1="0" y1="0" x2="0" y2="1">
+                          <stop offset="5%" stopColor="#581c87" stopOpacity={0.15} />
+                          <stop offset="95%" stopColor="#581c87" stopOpacity={0} />
+                        </linearGradient>
+                      </defs>
+                      <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
+                      <XAxis dataKey="name" tick={{ fontSize: 12 }} tickLine={false} axisLine={false} />
+                      <YAxis tick={{ fontSize: 12 }} tickLine={false} axisLine={false} tickFormatter={(v) => (v >= 1000 ? `$${(v / 1000).toFixed(1)}k` : `$${v}`)} />
+                      <Tooltip
+                        contentStyle={{ borderRadius: "8px", border: "1px solid #e5e7eb", boxShadow: "0 4px 6px -1px rgba(0,0,0,0.1)" }}
+                        formatter={(value: number) => [formatPrice(value), "Revenue"]}
+                      />
+                      <Area type="monotone" dataKey="revenue" stroke="#581c87" strokeWidth={2} fillOpacity={1} fill="url(#colorRevenue)" />
+                    </AreaChart>
+                  </ResponsiveContainer>
+                ) : (
+                  <div className="h-full flex flex-col items-center justify-center text-center gap-3 px-6">
+                    <div className="bg-purple-50 p-3 rounded-full">
+                      <DollarSign size={22} className="text-purple-500" />
+                    </div>
+                    <p className="text-sm font-medium text-gray-700">No revenue yet</p>
+                    <p className="text-xs text-gray-400 max-w-xs leading-relaxed">
+                      This chart fills in with real revenue as orders are recorded — capture each order you confirm on WhatsApp or live chat from the Orders page.
+                    </p>
+                    <Button size="sm" variant="outline" onClick={() => setActivePage("orders")} className="mt-1">
+                      <ShoppingCart size={14} className="mr-1.5" /> Record an order
+                    </Button>
+                  </div>
+                )}
               </div>
             </CardContent>
           </Card>
@@ -1910,22 +2033,32 @@ export default function AdminPanel() {
               <CardDescription>Current order distribution</CardDescription>
             </CardHeader>
             <CardContent>
-              <div className="space-y-4 mt-2">
-                {ORDER_STATUSES.map((status) => {
-                  const count = stats?.ordersByStatus?.[status] || 0;
-                  const total = stats?.totalOrders || 1;
-                  const pct = Math.round((count / total) * 100);
-                  return (
-                    <div key={status}>
-                      <div className="flex items-center justify-between mb-1.5">
-                        <span className="text-sm capitalize font-medium">{status}</span>
-                        <span className="text-sm text-gray-500">{count} ({pct}%)</span>
+              {hasOrders ? (
+                <div className="space-y-4 mt-2">
+                  {ORDER_STATUSES.map((status) => {
+                    const count = stats?.ordersByStatus?.[status] || 0;
+                    const total = stats?.totalOrders || 1;
+                    const pct = Math.round((count / total) * 100);
+                    return (
+                      <div key={status}>
+                        <div className="flex items-center justify-between mb-1.5">
+                          <span className="text-sm capitalize font-medium">{status}</span>
+                          <span className="text-sm text-gray-500">{count} ({pct}%)</span>
+                        </div>
+                        <Progress value={pct} className="h-2" />
                       </div>
-                      <Progress value={pct} className="h-2" />
-                    </div>
-                  );
-                })}
-              </div>
+                    );
+                  })}
+                </div>
+              ) : (
+                <div className="h-72 flex flex-col items-center justify-center text-center gap-2">
+                  <PackageCheck size={22} className="text-gray-300" />
+                  <p className="text-sm text-gray-500 font-medium">No orders yet</p>
+                  <p className="text-xs text-gray-400 max-w-[220px] leading-relaxed">
+                    Order statuses appear here once real orders are recorded.
+                  </p>
+                </div>
+              )}
             </CardContent>
           </Card>
         </div>
@@ -2704,7 +2837,11 @@ export default function AdminPanel() {
 
   const renderOrders = () => (
     <div className="space-y-6">
-      {renderPageHeader("Orders", "Track and manage customer orders")}
+      {renderPageHeader("Orders", "Track and manage real customer orders", (
+        <Button onClick={openNewOrder} className="bg-purple-950 hover:bg-purple-800">
+          <Plus size={16} className="mr-1.5" /> Record Order
+        </Button>
+      ))}
 
       {/* Status Filter Tabs */}
       <Tabs value={orderStatusFilter} onValueChange={(v) => { setOrderStatusFilter(v); setOrdersPage(1); }}>
@@ -2735,11 +2872,24 @@ export default function AdminPanel() {
           {ordersLoading ? (
             <div className="p-6">{renderSkeleton(8)}</div>
           ) : orders.length === 0 ? (
-            <div className="text-center py-16 text-gray-400">
-              <ShoppingCart size={40} className="mx-auto mb-3 opacity-50" />
-              <p className="font-medium">No orders found</p>
-              <p className="text-sm mt-1">Try adjusting your filters</p>
-            </div>
+            ordersTotal === 0 && orderStatusFilter === "all" && !orderSearch ? (
+              <div className="text-center py-16 text-gray-400">
+                <ShoppingCart size={40} className="mx-auto mb-3 opacity-50" />
+                <p className="font-medium">No orders yet</p>
+                <p className="text-sm mt-1 max-w-md mx-auto leading-relaxed">
+                  When a customer confirms an order on WhatsApp or live chat, record it here so revenue, statuses and customer history stay up to date.
+                </p>
+                <Button size="sm" variant="outline" onClick={openNewOrder} className="mt-4">
+                  <Plus size={14} className="mr-1.5" /> Record your first order
+                </Button>
+              </div>
+            ) : (
+              <div className="text-center py-16 text-gray-400">
+                <Search size={40} className="mx-auto mb-3 opacity-50" />
+                <p className="font-medium">No matching orders</p>
+                <p className="text-sm mt-1">Try adjusting your filters</p>
+              </div>
+            )
           ) : (
             <>
               <div className="overflow-x-auto">
@@ -2761,9 +2911,6 @@ export default function AdminPanel() {
                         <TableCell>
                           <div className="flex flex-col gap-0.5">
                             <span className="font-mono text-xs font-medium">#{order.id.slice(-8)}</span>
-                            {order.notes?.includes("Sample order") && (
-                              <Badge className="bg-gray-100 text-gray-600 border-0 text-[9px] h-4 px-1.5 w-fit">Sample</Badge>
-                            )}
                           </div>
                         </TableCell>
                         <TableCell>
@@ -2831,6 +2978,180 @@ export default function AdminPanel() {
           )}
         </CardContent>
       </Card>
+
+      {/* New Order Dialog (record a real order) */}
+      <Dialog open={newOrderOpen} onOpenChange={setNewOrderOpen}>
+        <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
+          <DialogHeader>
+            <DialogTitle>Record an Order</DialogTitle>
+            <DialogDescription>
+              Capture an order a customer confirmed on WhatsApp or live chat — it feeds the dashboard with real revenue and customer history.
+            </DialogDescription>
+          </DialogHeader>
+          <div className="space-y-5 py-2">
+            {/* Customer */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div className="space-y-2">
+                <Label>Customer Name *</Label>
+                <Input value={noName} onChange={(e) => setNoName(e.target.value)} placeholder="e.g. Emmanuel N." />
+              </div>
+              <div className="space-y-2">
+                <Label>Email</Label>
+                <Input type="email" value={noEmail} onChange={(e) => setNoEmail(e.target.value)} placeholder="customer@email.com" />
+              </div>
+              <div className="space-y-2">
+                <Label>Phone</Label>
+                <Input value={noPhone} onChange={(e) => setNoPhone(e.target.value)} placeholder="+237 6XX XXX XXX" />
+              </div>
+              <div className="space-y-2">
+                <Label>Payment Method</Label>
+                <Select value={noPayment} onValueChange={setNoPayment}>
+                  <SelectTrigger><SelectValue /></SelectTrigger>
+                  <SelectContent>
+                    {["WhatsApp", "Live chat", "Bank transfer", "Card", "Cash"].map((m) => (
+                      <SelectItem key={m} value={m}>{m}</SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </div>
+              <div className="space-y-2">
+                <Label>Address</Label>
+                <Input value={noAddress} onChange={(e) => setNoAddress(e.target.value)} placeholder="Street and number" />
+              </div>
+              <div className="grid grid-cols-2 gap-3">
+                <div className="space-y-2">
+                  <Label>City</Label>
+                  <Input value={noCity} onChange={(e) => setNoCity(e.target.value)} placeholder="Douala" />
+                </div>
+                <div className="space-y-2">
+                  <Label>Country</Label>
+                  <Input value={noCountry} onChange={(e) => setNoCountry(e.target.value)} placeholder="Cameroon" />
+                </div>
+              </div>
+            </div>
+
+            {/* Product picker */}
+            <div className="space-y-2">
+              <Label>Product *</Label>
+              {noProductId && adminStore.getProduct(noProductId) ? (
+                <div className="flex items-center gap-3 p-3 rounded-lg border border-purple-200 bg-purple-50/50">
+                  <div className="size-10 rounded-md overflow-hidden bg-gray-200 shrink-0">
+                    {adminStore.getProduct(noProductId)!.image && (
+                      <Image
+                        src={adminStore.getProduct(noProductId)!.image}
+                        alt={adminStore.getProduct(noProductId)!.title}
+                        width={40}
+                        height={40}
+                        className="size-full object-cover"
+                        unoptimized
+                      />
+                    )}
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <p className="text-sm font-medium truncate">{adminStore.getProduct(noProductId)!.title}</p>
+                    <p className="text-xs text-gray-500">{formatPrice(adminStore.getProduct(noProductId)!.price)}</p>
+                  </div>
+                  <Button type="button" variant="ghost" size="sm" onClick={() => { setNoProductId(""); setNoProductSearch(""); }}>
+                    Change
+                  </Button>
+                </div>
+              ) : (
+                <div className="space-y-2">
+                  <div className="relative">
+                    <Search size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
+                    <Input
+                      className="pl-9"
+                      value={noProductSearch}
+                      onChange={(e) => setNoProductSearch(e.target.value)}
+                      placeholder="Search the catalog by title…"
+                    />
+                  </div>
+                  <div className="rounded-lg border divide-y max-h-44 overflow-y-auto">
+                    {adminStore
+                      .getEffectiveProducts()
+                      .filter((p) =>
+                        noProductSearch.trim()
+                          ? p.title.toLowerCase().includes(noProductSearch.trim().toLowerCase()) ||
+                            (p.sku || "").toLowerCase().includes(noProductSearch.trim().toLowerCase())
+                          : true
+                      )
+                      .slice(0, 12)
+                      .map((p) => (
+                        <button
+                          key={p.id}
+                          type="button"
+                          className="w-full flex items-center gap-3 p-2.5 text-left hover:bg-gray-50 transition-colors"
+                          onClick={() => setNoProductId(p.id)}
+                        >
+                          <div className="size-9 rounded-md overflow-hidden bg-gray-200 shrink-0">
+                            {p.image && (
+                              <Image src={p.image} alt={p.title} width={36} height={36} className="size-full object-cover" unoptimized />
+                            )}
+                          </div>
+                          <div className="flex-1 min-w-0">
+                            <p className="text-sm font-medium truncate">{p.title}</p>
+                            <p className="text-xs text-gray-400">{p.category}</p>
+                          </div>
+                          <span className="text-sm font-semibold shrink-0">{formatPrice(p.price)}</span>
+                        </button>
+                      ))}
+                    {adminStore
+                      .getEffectiveProducts()
+                      .filter((p) =>
+                        noProductSearch.trim()
+                          ? p.title.toLowerCase().includes(noProductSearch.trim().toLowerCase()) ||
+                            (p.sku || "").toLowerCase().includes(noProductSearch.trim().toLowerCase())
+                          : true
+                      ).length === 0 && (
+                      <p className="p-3 text-sm text-gray-400 text-center">No products match “{noProductSearch}”</p>
+                    )}
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* Quantity + status + notes */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div className="space-y-2">
+                <Label>Quantity</Label>
+                <Input
+                  type="number"
+                  min={1}
+                  value={noQuantity}
+                  onChange={(e) => setNoQuantity(Math.max(1, parseInt(e.target.value) || 1))}
+                />
+                {noProductId && adminStore.getProduct(noProductId) && (
+                  <p className="text-xs text-gray-500">
+                    Order total: <span className="font-semibold text-gray-900">{formatPrice(adminStore.getProduct(noProductId)!.price * Math.max(1, noQuantity))}</span>
+                  </p>
+                )}
+              </div>
+              <div className="space-y-2">
+                <Label>Status</Label>
+                <Select value={noStatus} onValueChange={setNoStatus}>
+                  <SelectTrigger><SelectValue /></SelectTrigger>
+                  <SelectContent>
+                    {ORDER_STATUSES.map((s) => (
+                      <SelectItem key={s} value={s} className="capitalize">{s}</SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </div>
+            </div>
+            <div className="space-y-2">
+              <Label>Notes</Label>
+              <Textarea rows={2} value={noNotes} onChange={(e) => setNoNotes(e.target.value)} placeholder="Anything worth remembering about this order…" />
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setNewOrderOpen(false)}>Cancel</Button>
+            <Button onClick={saveNewOrder} disabled={noSaving} className="bg-purple-950 hover:bg-purple-800">
+              {noSaving && <RefreshCw className="animate-spin mr-2" size={14} />}
+              Save Order
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
 
       {/* Order Detail Dialog */}
       <Dialog open={orderDetailOpen} onOpenChange={setOrderDetailOpen}>
@@ -3145,7 +3466,11 @@ export default function AdminPanel() {
 
   const renderReviews = () => (
     <div className="space-y-6">
-      {renderPageHeader("Reviews", "Moderate and manage product reviews")}
+      {renderPageHeader("Reviews", "Moderate and manage product reviews", (
+        <Button onClick={openCreateReview} className="bg-purple-950 hover:bg-purple-800">
+          <Plus size={16} className="mr-1.5" /> Add Review
+        </Button>
+      ))}
 
       {/* Filter */}
       <Tabs value={reviewApprovedFilter} onValueChange={(v) => { setReviewApprovedFilter(v); setReviewsPage(1); }}>
@@ -3164,7 +3489,13 @@ export default function AdminPanel() {
           ) : reviews.length === 0 ? (
             <div className="text-center py-16 text-gray-400">
               <Star size={40} className="mx-auto mb-3 opacity-50" />
-              <p className="font-medium">No reviews found</p>
+              <p className="font-medium">No reviews yet</p>
+              <p className="text-sm mt-1 max-w-md mx-auto leading-relaxed">
+                Record feedback customers send you on WhatsApp or live chat — approved reviews can be shown on the storefront.
+              </p>
+              <Button size="sm" variant="outline" onClick={openCreateReview} className="mt-4">
+                <Plus size={14} className="mr-1.5" /> Add the first review
+              </Button>
             </div>
           ) : (
             <div className="overflow-x-auto">
@@ -3237,17 +3568,34 @@ export default function AdminPanel() {
         </CardContent>
       </Card>
 
-      {/* Edit Review Dialog */}
-      <Dialog open={!!editReviewDialog} onOpenChange={() => setEditReviewDialog(null)}>
+      {/* Edit / Add Review Dialog */}
+      <Dialog open={!!editReviewDialog} onOpenChange={(open) => { if (!open) { setEditReviewDialog(null); setReviewCreateMode(false); } }}>
         <DialogContent className="max-w-lg">
           <DialogHeader>
-            <DialogTitle>Edit Review</DialogTitle>
-            <DialogDescription>Modify review content and approval status</DialogDescription>
+            <DialogTitle>{reviewCreateMode ? "Add Review" : "Edit Review"}</DialogTitle>
+            <DialogDescription>
+              {reviewCreateMode
+                ? "Record feedback a customer sent you about one of your products"
+                : "Modify review content and approval status"}
+            </DialogDescription>
           </DialogHeader>
           <div className="space-y-4 py-2">
+            {reviewCreateMode && (
+              <div className="space-y-2">
+                <Label>Product *</Label>
+                <Select value={reviewFormProductId} onValueChange={setReviewFormProductId}>
+                  <SelectTrigger><SelectValue placeholder="Pick the reviewed product…" /></SelectTrigger>
+                  <SelectContent>
+                    {adminStore.getEffectiveProducts().map((p) => (
+                      <SelectItem key={p.id} value={p.id}>{p.title}</SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </div>
+            )}
             <div className="space-y-2">
               <Label>Author</Label>
-              <Input value={reviewFormAuthor} onChange={(e) => setReviewFormAuthor(e.target.value)} />
+              <Input value={reviewFormAuthor} onChange={(e) => setReviewFormAuthor(e.target.value)} placeholder="Customer name" />
             </div>
             <div className="space-y-2">
               <Label>Rating: {reviewFormRating.toFixed(1)}</Label>
@@ -3256,7 +3604,7 @@ export default function AdminPanel() {
             </div>
             <div className="space-y-2">
               <Label>Comment</Label>
-              <Textarea value={reviewFormComment} onChange={(e) => setReviewFormComment(e.target.value)} rows={3} />
+              <Textarea value={reviewFormComment} onChange={(e) => setReviewFormComment(e.target.value)} rows={3} placeholder="What the customer said…" />
             </div>
             <div className="flex items-center justify-between p-3 rounded-lg border">
               <div>
@@ -3267,8 +3615,10 @@ export default function AdminPanel() {
             </div>
           </div>
           <DialogFooter>
-            <Button variant="outline" onClick={() => setEditReviewDialog(null)}>Cancel</Button>
-            <Button onClick={saveReview} className="bg-purple-950 hover:bg-purple-800">Save Changes</Button>
+            <Button variant="outline" onClick={() => { setEditReviewDialog(null); setReviewCreateMode(false); }}>Cancel</Button>
+            <Button onClick={saveReview} className="bg-purple-950 hover:bg-purple-800">
+              {reviewCreateMode ? "Add Review" : "Save Changes"}
+            </Button>
           </DialogFooter>
         </DialogContent>
       </Dialog>
@@ -3621,7 +3971,7 @@ export default function AdminPanel() {
                 <div>
                   <h4 className="text-sm font-medium">Store Data</h4>
                   <p className="text-xs text-gray-500 mt-0.5">
-                    The catalog lives in this store&apos;s repository and loads automatically. Sample orders/reviews can be cleared here.
+                    The catalog lives in this store&apos;s repository and loads automatically — no external database needed.
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-2">
@@ -3637,9 +3987,6 @@ export default function AdminPanel() {
                   <Button variant="outline" size="sm" onClick={handleDiscardChanges} disabled={unpublishedCount === 0} className="text-amber-700 border-amber-200 hover:bg-amber-50">
                     Discard local edits ({unpublishedCount})
                   </Button>
-                  <Button variant="outline" size="sm" onClick={handleClearSampleData} className="text-gray-600">
-                    Clear sample data
-                  </Button>
                 </div>
               </div>
 
@@ -3653,76 +4000,84 @@ export default function AdminPanel() {
           )}
         </CardContent>
       </Card>
-
-      {/* Live Store Sync (GitHub) */}
+      {/* Publication Token */}
       <Card className="border-0 shadow-sm">
         <CardHeader>
           <div className="flex items-center gap-2">
-            <Github size={18} className="text-purple-950" />
-            <CardTitle className="text-base">Live Store Sync (GitHub)</CardTitle>
+            <ShieldCheck size={18} className="text-purple-950" />
+            <CardTitle className="text-base">Publication Token</CardTitle>
           </div>
           <CardDescription>
-            Connect your GitHub account so the Publish button can push catalog changes to the live store (the store rebuilds automatically, usually within a few minutes).
+            Publishes your catalog changes to the live store with one click.
           </CardDescription>
         </CardHeader>
         <CardContent>
-          <div className="space-y-5">
-            <div className="rounded-lg bg-purple-50 border border-purple-100 p-4 text-xs text-purple-900 space-y-1.5">
-              <p className="font-semibold">How to get a token (one time, ~2 minutes):</p>
-              <p>1. On GitHub, open <span className="font-mono bg-white/70 rounded px-1">Settings → Developer settings → Fine-grained tokens → Generate new token</span></p>
-              <p>2. <span className="font-medium">Repository access:</span> select <span className="font-mono bg-white/70 rounded px-1">Only select repositories</span> → <span className="font-mono bg-white/70 rounded px-1">AKIHABARATCGWAREHOUSE</span></p>
-              <p>3. <span className="font-medium">Permissions → Repository permissions → Contents:</span> set to <span className="font-medium">Read and write</span> (nothing else needed)</p>
-              <p>4. Generate, copy the token, and paste it below. It is stored only in this browser (localStorage) — never in the site code.</p>
-            </div>
-
-            <div className="space-y-2">
-              <Label htmlFor="gh-token">GitHub Access Token</Label>
-              <Input
-                id="gh-token"
-                type="password"
-                placeholder="github_pat_… (fine-grained, Contents: Read & Write)"
-                value={ghToken}
-                onChange={(e) => setGhToken(e.target.value)}
-              />
-            </div>
-
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          {tokenStatus ? (
+            <div className="space-y-4">
               <div className="space-y-2">
-                <Label htmlFor="gh-owner">Owner</Label>
-                <Input id="gh-owner" value={ghOwner} onChange={(e) => setGhOwner(e.target.value)} placeholder="Zionimagodei2" />
+                <Label htmlFor="publication-token">Publication Token</Label>
+                <div className="relative">
+                  <Lock size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" />
+                  <Input
+                    id="publication-token"
+                    type="password"
+                    autoComplete="off"
+                    readOnly
+                    disabled
+                    value="•••••••••••••••••••••••••"
+                    className="pl-9 pr-20 font-mono tracking-widest"
+                    tabIndex={-1}
+                  />
+                  <span
+                    className={`absolute right-3 top-1/2 -translate-y-1/2 inline-flex items-center gap-1 text-[10px] font-semibold rounded-full px-2 py-0.5 border ${
+                      tokenStatus.active
+                        ? "bg-emerald-50 text-emerald-700 border-emerald-200"
+                        : "bg-red-50 text-red-700 border-red-200"
+                    }`}
+                  >
+                    {tokenStatus.active ? <CheckCircle2 size={10} /> : <AlertTriangle size={10} />}
+                    {tokenStatus.active ? "Active" : "Expired"}
+                  </span>
+                </div>
+                <p className="text-xs text-gray-500">
+                  {tokenStatus.active
+                    ? tokenStatus.expiresAt
+                      ? `Valid until ${tokenStatus.expiryLabel} — the field unlocks for a new token after that date.`
+                      : "Custom token active — verified with GitHub."
+                    : `Expired on ${tokenStatus.expiryLabel} — enter a new publication token below.`}
+                </p>
               </div>
-              <div className="space-y-2">
-                <Label htmlFor="gh-repo">Repository</Label>
-                <Input id="gh-repo" value={ghRepo} onChange={(e) => setGhRepo(e.target.value)} placeholder="AKIHABARATCGWAREHOUSE" />
-              </div>
-              <div className="space-y-2">
-                <Label htmlFor="gh-branch">Branch</Label>
-                <Input id="gh-branch" value={ghBranch} onChange={(e) => setGhBranch(e.target.value)} placeholder="main" />
-              </div>
-            </div>
 
-            {ghTestResult && (
-              <div className={`text-sm rounded-md p-3 border flex items-start gap-2 ${ghTestResult.ok ? "text-emerald-700 bg-emerald-50 border-emerald-200" : "text-red-700 bg-red-50 border-red-200"}`}>
-                {ghTestResult.ok ? <CheckCircle2 size={16} className="mt-0.5 shrink-0" /> : <XCircle size={16} className="mt-0.5 shrink-0" />}
-                {ghTestResult.message}
-              </div>
-            )}
+              {tokenStatus.canEdit && (
+                <div className="space-y-3 p-4 rounded-lg border border-amber-200 bg-amber-50/60">
+                  <div className="space-y-2">
+                    <Label htmlFor="new-publication-token">New Publication Token</Label>
+                    <Input
+                      id="new-publication-token"
+                      type="password"
+                      autoComplete="off"
+                      value={newToken}
+                      onChange={(e) => setNewToken(e.target.value)}
+                      placeholder="Paste the replacement token…"
+                    />
+                  </div>
+                  <Button onClick={handleSaveToken} disabled={tokenSaving || !newToken.trim()} className="bg-purple-950 hover:bg-purple-800">
+                    {tokenSaving ? <RefreshCw className="animate-spin mr-2" size={14} /> : <ShieldCheck size={14} className="mr-1.5" />}
+                    Save & verify
+                  </Button>
+                </div>
+              )}
 
-            <div className="flex flex-wrap gap-2">
-              <Button variant="outline" onClick={testGitHubConnection} disabled={ghTesting}>
-                {ghTesting ? <RefreshCw className="animate-spin mr-2" size={14} /> : <Globe size={14} className="mr-2" />}
-                Test connection
-              </Button>
-              <Button onClick={saveGitHubConnection} className="bg-purple-950 hover:bg-purple-800">
-                Save connection
-              </Button>
-              {adminStore.github?.token && (
-                <Badge variant="outline" className="bg-emerald-50 text-emerald-700 border-emerald-200 h-7">
-                  <CheckCircle2 size={12} className="mr-1" /> Token saved in this browser
-                </Badge>
+              {tokenResult && (
+                <div className={`text-sm rounded-md p-3 border flex items-start gap-2 ${tokenResult.ok ? "text-emerald-700 bg-emerald-50 border-emerald-200" : "text-red-700 bg-red-50 border-red-200"}`}>
+                  {tokenResult.ok ? <CheckCircle2 size={16} className="mt-0.5 shrink-0" /> : <XCircle size={16} className="mt-0.5 shrink-0" />}
+                  {tokenResult.message}
+                </div>
               )}
             </div>
-          </div>
+          ) : (
+            renderSkeleton(3)
+          )}
         </CardContent>
       </Card>
     </div>

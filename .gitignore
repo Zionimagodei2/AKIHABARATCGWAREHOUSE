@@ -70,3 +70,5 @@ server.log
 /mini-services/
 Caddyfile
 upload/
+verify-*.png
+scripts/embed-token.py

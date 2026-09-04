@@ -2,14 +2,14 @@
 /* Simulate the Render rebuild landing — v2: proper UTF-8 decoding of the
    base64 PUT bodies captured from the browser publish flow. */
 
+import { execSync } from "node:child_process";
+import fs from "node:fs";
+
 function getPageVar(expr) {
-  const { execSync } = require("child_process");
   const raw = execSync(`agent-browser eval "JSON.stringify(${expr})"`, { encoding: "utf8", maxBuffer: 20 * 1024 * 1024 });
   const line = raw.trim().split("\n").filter((l) => !l.startsWith("[agent-browser]") && l.length > 0).pop();
   return JSON.parse(JSON.parse(line));
 }
-
-const fs = require("fs");
 
 // 1. Capture the RAW base64 of the PUT bodies from the page
 const productsB64 = getPageVar("window.__ghB64['public/products.json']");

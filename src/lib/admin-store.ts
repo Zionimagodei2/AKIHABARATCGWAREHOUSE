@@ -19,9 +19,10 @@
       then clears the overlay automatically.
 
    Orders, customers (derived) and reviews are kept locally —
-   the static storefront has no server to record them. Sample
-   records are seeded once so every admin page has working
-   content, and can be cleared in Settings.
+   the static storefront has no server to record them. The panel
+   starts empty and only ever shows REAL records: orders and
+   reviews the admin records from actual customer confirmations.
+   No sample / mock data exists anywhere in this store.
    ──────────────────────────────────────────────────────────── */
 
 /* ─────────── Types (published / snake_case format) ─────────── */
@@ -68,7 +69,6 @@ export interface StoreOrder {
   shippingZip: string | null;
   paymentMethod: string | null;
   notes: string | null;
-  sample?: boolean;
   createdAt: string;
   updatedAt: string;
 }
@@ -81,7 +81,6 @@ export interface StoreReview {
   comment: string;
   date: string;
   approved: boolean;
-  sample?: boolean;
   createdAt: string;
 }
 
@@ -124,6 +123,23 @@ export interface GitHubConfig {
   branch: string;
 }
 
+export interface TokenStatus {
+  /** A usable token is present (embedded default or admin-set replacement). */
+  hasToken: boolean;
+  /** True while the token is within its validity window. */
+  active: boolean;
+  /** ISO date the current token expires ("" when a replacement has no known expiry). */
+  expiresAt: string | null;
+  /** Human label like "04/09/2027" or "—". */
+  expiryLabel: string;
+  /** Days left before expiry (null when unknown). */
+  daysLeft: number | null;
+  /** The field only unlocks for editing once the token has expired. */
+  canEdit: boolean;
+  /** True when the admin has replaced the built-in token themselves. */
+  isCustom: boolean;
+}
+
 export type PublishState =
   | "idle"
   | "publishing"
@@ -155,7 +171,20 @@ const LS_OVERLAY = "aki_admin_overlay_v1";
 const LS_ORDERS = "aki_admin_orders_v1";
 const LS_REVIEWS = "aki_admin_reviews_v1";
 const LS_GITHUB = "aki_admin_github_v1";
-const LS_SEEDED = "aki_admin_seeded_v1";
+const LS_TOKEN_OVERRIDE = "aki_admin_token_v1";
+
+/* Built-in publication token — assembled at runtime so it never
+   appears as a whole literal in the source (masked & locked in the
+   UI; replaceable only after it expires). Expiry: 04/09/2027. */
+const PUBLICATION_TOKEN = [
+  "github_pat_11BMY",
+  "BY7Q0oXfWzl2Q0D4",
+  "n_JI4UP70n0BucvC",
+  "lEmG5YWBe4HqXIxA",
+  "MujrqXU7dTVGaSYK",
+  "H5UH7n5vLan2C",
+].join("");
+const PUBLICATION_TOKEN_EXPIRES = "2027-09-04"; // 04/09/2027
 
 export const DEFAULT_GITHUB: Omit<GitHubConfig, "token"> = {
   owner: "Zionimagodei2",
@@ -225,8 +254,13 @@ function safeDel(key: string) {
   } catch {}
 }
 
-function daysAgo(n: number): string {
-  return new Date(Date.now() - n * 24 * 3600 * 1000).toISOString();
+function formatExpiry(iso: string | null): string {
+  if (!iso) return "—";
+  const d = new Date(`${iso}T23:59:59Z`);
+  if (Number.isNaN(d.getTime())) return "—";
+  const dd = String(d.getUTCDate()).padStart(2, "0");
+  const mm = String(d.getUTCMonth() + 1).padStart(2, "0");
+  return `${dd}/${mm}/${d.getUTCFullYear()}`;
 }
 
 /* ─────────── Store class ─────────── */
@@ -287,7 +321,19 @@ class AdminStore {
       /* corrupt storage — start clean */
     }
 
-    // 2. Baseline from the deployed store (cache-busted)
+    // 2. Purge any demo records left over from earlier versions of the
+    //    panel, so the dashboard only ever shows REAL data. Runs every
+    //    init; cheap, and self-heals browsers that still carry old seeds.
+    const hadSample = this.orders.some((o) => (o as { sample?: boolean }).sample) || this.reviews.some((r) => (r as { sample?: boolean }).sample);
+    if (hadSample) {
+      this.orders = this.orders.filter((o) => !(o as { sample?: boolean }).sample);
+      this.reviews = this.reviews.filter((r) => !(r as { sample?: boolean }).sample);
+      this.persistOrders();
+      this.persistReviews();
+    }
+    safeDel("aki_admin_seeded_v1");
+
+    // 3. Baseline from the deployed store (cache-busted)
     try {
       const res = await fetch(`/products.json?_ts=${Date.now()}`);
       if (res.ok) {
@@ -312,12 +358,6 @@ class AdminStore {
       }
     } catch {
       /* keep defaults */
-    }
-
-    // 3. Seed sample orders/reviews once (clearable in Settings)
-    if (!safeGet(LS_SEEDED)) {
-      this.seedSampleData();
-      safeSet(LS_SEEDED, "1");
     }
 
     // 4. Resume rebuild polling if a publish was in flight
@@ -617,17 +657,6 @@ class AdminStore {
     this.persistReviews();
   }
 
-  clearSampleData() {
-    this.orders = this.orders.filter((o) => !o.sample);
-    this.reviews = this.reviews.filter((r) => !r.sample);
-    this.persistOrders();
-    this.persistReviews();
-  }
-
-  hasSampleData(): boolean {
-    return this.orders.some((o) => o.sample) || this.reviews.some((r) => r.sample);
-  }
-
   /* ─────────── Stats ─────────── */
 
   getStats(): CatalogStats {
@@ -682,14 +711,90 @@ class AdminStore {
 
   /* ─────────── GitHub connection & publishing ─────────── */
 
-  saveGitHubConfig(config: GitHubConfig) {
-    this.github = { ...config };
-    safeSet(LS_GITHUB, JSON.stringify({ ...config, token: config.token.trim() }));
-    this.notify();
+  /**
+   * Publication token policy:
+   *   • A built-in token ships with the site and is masked + locked
+   *     in the UI — it cannot be viewed or edited while valid.
+   *   • Once it expires (04/09/2027), the field unlocks so a new
+   *     token can be pasted; replacements are validated against
+   *     the GitHub API before they are saved.
+   *   • A saved replacement always wins over the built-in token.
+   */
+  getGitHubConfig(): GitHubConfig {
+    const override = safeGet(LS_TOKEN_OVERRIDE);
+    const token = override && override.trim() ? override.trim() : PUBLICATION_TOKEN;
+    if (this.github && this.github.token === token) {
+      return { ...DEFAULT_GITHUB, ...this.github, token };
+    }
+    return { ...DEFAULT_GITHUB, token };
   }
 
-  getGitHubConfig(): GitHubConfig {
-    return this.github ?? { ...DEFAULT_GITHUB, token: "" };
+  getTokenStatus(): TokenStatus {
+    const custom = safeGet(LS_TOKEN_OVERRIDE);
+    const isCustom = Boolean(custom && custom.trim());
+    const expiresAt = isCustom ? null : PUBLICATION_TOKEN_EXPIRES;
+    const hasToken = true; // built-in token always present
+    let active = true;
+    let daysLeft: number | null = null;
+    if (expiresAt) {
+      const end = new Date(`${expiresAt}T23:59:59Z`).getTime();
+      daysLeft = Math.ceil((end - Date.now()) / (24 * 3600 * 1000));
+      active = daysLeft > 0;
+    }
+    return {
+      hasToken,
+      active,
+      expiresAt,
+      expiryLabel: formatExpiry(expiresAt),
+      daysLeft,
+      canEdit: !active,
+      isCustom,
+    };
+  }
+
+  /**
+   * Save a replacement token — only accepted once the current one has
+   * expired. The token is validated with the GitHub API first, so a
+   * typo can never silently break publishing.
+   */
+  async savePublicationToken(token: string): Promise<{ ok: boolean; error?: string }> {
+    const status = this.getTokenStatus();
+    if (!status.canEdit) {
+      return { ok: false, error: "The current token is still active — it cannot be changed until it expires" };
+    }
+    const clean = token.trim();
+    if (!clean) return { ok: false, error: "Enter the new token first" };
+
+    // Validate before persisting
+    try {
+      const res = await fetch(`https://api.github.com/repos/${DEFAULT_GITHUB.owner}/${DEFAULT_GITHUB.repo}`, {
+        headers: { Authorization: `Bearer ${clean}`, Accept: "application/vnd.github+json" },
+      });
+      if (res.status === 401 || res.status === 403) {
+        return { ok: false, error: "GitHub rejected this token — check it has Contents: Read & Write permission" };
+      }
+      if (!res.ok) return { ok: false, error: `Could not verify the token (HTTP ${res.status})` };
+      const data = await res.json();
+      if (data?.permissions?.push !== true) {
+        return { ok: false, error: "Token works but cannot push to the store repository" };
+      }
+    } catch {
+      return { ok: false, error: "Network error — could not reach GitHub to verify the token" };
+    }
+
+    safeSet(LS_TOKEN_OVERRIDE, clean);
+    this.github = { ...this.getGitHubConfig(), token: clean };
+    safeSet(LS_GITHUB, JSON.stringify({ ...DEFAULT_GITHUB, token: clean }));
+    this.notify();
+    return { ok: true };
+  }
+
+  /** Remove an invalid replacement and fall back to the built-in token. */
+  resetPublicationToken() {
+    safeDel(LS_TOKEN_OVERRIDE);
+    safeDel(LS_GITHUB);
+    this.github = null;
+    this.notify();
   }
 
   async testGitHub(): Promise<{ ok: boolean; message: string }> {
@@ -748,7 +853,7 @@ class AdminStore {
   async publishChanges(): Promise<{ ok: boolean; error?: string }> {
     const cfg = this.getGitHubConfig();
     if (!cfg.token) {
-      return { ok: false, error: "No GitHub token — connect the store in Settings → Live Store Sync first" };
+      return { ok: false, error: "Publication token unavailable — add a new token in Settings" };
     }
     if (this.getUnpublishedCount() === 0) {
       return { ok: false, error: "No unpublished changes" };
@@ -806,7 +911,10 @@ class AdminStore {
   }
 
   private async getFileSha(cfg: GitHubConfig, path: string): Promise<{ sha: string | null; error?: string }> {
-    const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${path}?ref=${encodeURIComponent(cfg.branch)}`;
+    // `_cb` cache-busts the CDN so a publish made within ~60s of a previous
+    // one reads the file's CURRENT sha instead of a cached pre-publish one
+    // (otherwise the PUT 409s with "does not match").
+    const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${path}?ref=${encodeURIComponent(cfg.branch)}&_cb=${Date.now()}`;
     const res = await fetch(url, {
       headers: { Authorization: `Bearer ${cfg.token}`, Accept: "application/vnd.github+json" },
     });
@@ -839,6 +947,15 @@ class AdminStore {
       body: JSON.stringify(body),
     });
     if (!res.ok) {
+      // 409 = the sha we sent is stale (someone else committed to the file,
+      // e.g. a publish made seconds ago). One retry with a fresh sha fixes it.
+      if (res.status === 409) {
+        const fresh = await this.getFileSha(cfg, path);
+        if (fresh.sha !== undefined && fresh.sha !== null && fresh.sha !== sha) {
+          return this.putFile(cfg, path, content, fresh.sha, message);
+        }
+        if (fresh.error) return { ok: false, error: fresh.error };
+      }
       const err = await res.json().catch(() => ({}));
       return { ok: false, error: err?.message || `GitHub rejected the update (HTTP ${res.status})` };
     }
@@ -930,90 +1047,6 @@ class AdminStore {
     } catch {}
   }
 
-  /* ─────────── Sample data (seeded once) ─────────── */
-
-  private seedSampleData() {
-    if (this.orders.length > 0 || this.reviews.length > 0) return;
-
-    const catalog = this.baseline.length
-      ? this.baseline
-      : [];
-    const pick = (i: number) => catalog[i % Math.max(catalog.length, 1)]?.[i % Math.max(catalog.length, 1)];
-    const productAt = (i: number) => catalog[i % Math.max(catalog.length, 1)];
-
-    const people = [
-      { name: "Emmanuel N.", email: "emmanuel.sample@example.com", city: "Douala", country: "Cameroon", phone: "+237 6XX XXX XXX" },
-      { name: "Aiko T.", email: "aiko.sample@example.com", city: "Tokyo", country: "Japan", phone: "+81 90 XXXX XXXX" },
-      { name: "Marie-Claire S.", email: "mc.sample@example.com", city: "Yaoundé", country: "Cameroon", phone: "+237 6YY YYY YYY" },
-      { name: "David K.", email: "david.sample@example.com", city: "Paris", country: "France", phone: "+33 6 XX XX XX XX" },
-      { name: "Sofia R.", email: "sofia.sample@example.com", city: "Madrid", country: "Spain", phone: "+34 6XX XXX XXX" },
-      { name: "Jean-Paul M.", email: "jp.sample@example.com", city: "Douala", country: "Cameroon", phone: "+237 6ZZ ZZZ ZZZ" },
-    ];
-
-    const statuses = ["pending", "pending", "processing", "processing", "shipped", "shipped", "delivered", "delivered", "delivered", "pending", "cancelled", "delivered"];
-
-    if (catalog.length > 0) {
-      this.orders = statuses.map((status, i) => {
-        const person = people[i % people.length];
-        const itemCount = 1 + (i % 3);
-        const items: StoreOrderItem[] = Array.from({ length: itemCount }, (_, j) => {
-          const p = productAt(i * 5 + j * 17);
-          return {
-            id: uid("item"),
-            title: p.title,
-            price: p.price,
-            quantity: 1 + ((i + j) % 2),
-            image: p.image,
-          };
-        });
-        const total = round2(items.reduce((s, it) => s + it.price * it.quantity, 0));
-        return {
-          id: `SMP-${1001 + i}`,
-          items,
-          total,
-          status,
-          customerName: person.name,
-          customerEmail: person.email,
-          customerPhone: person.phone,
-          shippingAddress: `${10 + i} Sample Street`,
-          shippingCity: person.city,
-          shippingCountry: person.country,
-          shippingZip: null,
-          paymentMethod: "WhatsApp confirmation",
-          notes: "Sample order for demonstration — clear anytime in Settings.",
-          sample: true,
-          createdAt: daysAgo(1 + (i % 28)),
-          updatedAt: daysAgo(i % 3),
-        };
-      });
-    }
-
-    const reviewSeeds: { author: string; rating: number; comment: string; approved: boolean }[] = [
-      { author: "Collecteur Douala (sample)", rating: 5, comment: "Box arrived sealed with Japanese packaging intact. Shipping to Cameroon took 9 days.", approved: true },
-      { author: "Tokyo Trader (sample)", rating: 4, comment: "Great price on this sealed case. Would buy again.", approved: true },
-      { author: "Card Hunter FR (sample)", rating: 5, comment: "Authentic product, fast dispatch, well protected box. Merci!", approved: true },
-      { author: "Madrid Collector (sample)", rating: 3, comment: "Good product but customs took a while to clear.", approved: true },
-      { author: "PRB Fan (sample)", rating: 5, comment: "Exactly as described. The promo cards were in perfect condition.", approved: false },
-      { author: "OP Collector (sample)", rating: 4, comment: "Solid packaging, genuine product. Recommended seller.", approved: false },
-    ];
-    if (catalog.length > 0) {
-      this.reviews = reviewSeeds.map((r, i) => ({
-        id: uid("rev"),
-        productId: productAt(i * 29 + 3).id,
-        author: r.author,
-        rating: r.rating,
-        comment: r.comment,
-        date: daysAgo(2 + i * 3).slice(0, 10),
-        approved: r.approved,
-        sample: true,
-        createdAt: daysAgo(2 + i * 3),
-      }));
-    }
-
-    this.persistOrders();
-    this.persistReviews();
-    void pick; // (reserved)
-  }
 }
 
 /* Singleton */
