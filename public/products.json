@@ -11,9 +11,7 @@
       "Booster Boxes"
     ],
     "rating": 4.3,
-    "in_stock": false,
-    "created_at": "2026-09-04T07:41:59.147Z",
-    "updated_at": "2026-09-04T07:42:50.344Z"
+    "in_stock": false
   },
   {
     "id": "3",
@@ -993,7 +991,8 @@
       "Sealed Case"
     ],
     "rating": 4.5,
-    "in_stock": false
+    "in_stock": true,
+    "updated_at": "2026-09-04T07:42:29.154Z"
   },
   {
     "id": "73",
