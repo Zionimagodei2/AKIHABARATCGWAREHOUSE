@@ -1,4 +1,4 @@
-import { supabase } from '@/lib/supabase'
+import { insertInto, deleteFrom, isSupabaseConfigured } from '@/lib/supabase-client'
 import { NextRequest, NextResponse } from 'next/server'
 
 const VALID_PAYMENT_METHODS = ['bank_transfer', 'paypal', 'credit_card', 'wise', 'crypto']
@@ -27,6 +27,16 @@ interface CheckoutBody {
 
 export async function POST(request: NextRequest) {
   try {
+    // REST client (PostgREST via fetch) — no SDK dependency, works with the
+    // built-in fallback credentials so checkout works on any host, including
+    // a fresh Render account with no environment variables configured.
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json(
+        { success: false, error: 'Database not configured' },
+        { status: 500 }
+      )
+    }
+
     const body: CheckoutBody = await request.json()
 
     // 1. Validate required fields
@@ -114,8 +124,8 @@ export async function POST(request: NextRequest) {
 
     const now = new Date().toISOString()
 
-    // 3. Insert order into Supabase
-    const { error: orderError } = await supabase.from('orders').insert({
+    // 3. Insert order into Supabase (PostgREST)
+    const { error: orderError } = await insertInto('orders', {
       id: orderId,
       customer_name: customerName.trim(),
       customer_email: customerEmail.trim(),
@@ -141,7 +151,7 @@ export async function POST(request: NextRequest) {
       )
     }
 
-    // 4. Insert order items into Supabase
+    // 4. Insert order items into Supabase (PostgREST)
     const orderItems = items.map((item) => ({
       order_id: orderId,
       product_id: item.productId || null,
@@ -151,12 +161,12 @@ export async function POST(request: NextRequest) {
       image: item.image || null,
     }))
 
-    const { error: itemsError } = await supabase.from('order_items').insert(orderItems)
+    const { error: itemsError } = await insertInto('order_items', orderItems)
 
     if (itemsError) {
       console.error('Order items insert error:', itemsError)
       // Attempt to clean up the order since items failed
-      await supabase.from('orders').delete().eq('id', orderId)
+      await deleteFrom('orders', { id: `eq.${orderId}` })
       return NextResponse.json(
         { success: false, error: 'Failed to create order items' },
         { status: 500 }
