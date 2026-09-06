@@ -5,9 +5,9 @@
   "scripts": {
     "dev": "bash scripts/preview.sh > dev.log 2>&1",
     "dev:next": "next dev -p 3000 2>&1 | tee dev.log",
-    "build": "next build && cp -r .next/static .next/standalone/.next/ && cp -r public .next/standalone/",
+    "build": "next build && node scripts/postbuild.mjs",
     "build:static": "bash scripts/build-static.sh",
-    "start": "NODE_ENV=production bun .next/standalone/server.js 2>&1 | tee server.log",
+    "start": "node scripts/start-server.mjs",
     "lint": "eslint .",
     "db:push": "prisma db push --accept-data-loss || echo '[db:push] skipped — no database configured (static site mode)'",
     "db:generate": "prisma generate",
