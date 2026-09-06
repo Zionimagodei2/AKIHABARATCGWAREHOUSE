@@ -5,8 +5,9 @@
   "scripts": {
     "dev": "bash scripts/preview.sh > dev.log 2>&1",
     "dev:next": "next dev -p 3000 2>&1 | tee dev.log",
-    "build": "next build && node scripts/postbuild.mjs",
+    "build": "bash scripts/build-static.sh && next build && node scripts/postbuild.mjs",
     "build:static": "bash scripts/build-static.sh",
+    "build:server": "next build && node scripts/postbuild.mjs",
     "start": "node scripts/start-server.mjs",
     "lint": "eslint .",
     "db:push": "prisma db push --accept-data-loss || echo '[db:push] skipped — no database configured (static site mode)'",

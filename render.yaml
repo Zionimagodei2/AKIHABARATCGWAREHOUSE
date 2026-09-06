@@ -6,32 +6,33 @@
 # Render reads this file, creates the service, builds and deploys it.
 # Every future `git push` to `main` redeploys automatically.
 #
-# Hosting model: Web Service (Node). The site needs its /api routes
-# (checkout, orders, auth, admin data) to run server-side, so a plain
-# Node web service is required — NOT a static site.
+# Hosting model: free Static Site (always on, global CDN, gzip/brotli).
+# This matches the architecture the site is built for:
+#   - storefront catalog baked into static HTML at build time,
+#   - cart / search / filters are client-side,
+#   - checkout works with or without a backend (offline order flow),
+#   - /admin is self-contained (localStorage overlay + GitHub publish).
 #
-#   Build:  npm install && npm run build
-#     → next build (output: "standalone") + scripts/postbuild.mjs stages
-#       static & public assets next to the standalone server (works for
-#       both flat and nested standalone layouts).
-#   Start:  npm start
-#     → scripts/start-server.mjs launches the standalone server bound to
-#       0.0.0.0 (Render's HOSTNAME quirk) on Render's PORT env var.
+# `npm run build` performs BOTH builds:
+#   1. static export  → ./out            (what the static host publishes)
+#   2. standalone server → .next/standalone (bonus: lets the same repo run
+#      as a Web Service with `npm start` — API routes incl. /api/checkout —
+#      without changing the build command)
 #
 # Docs: https://render.com/docs/blueprint-spec
 # ─────────────────────────────────────────────────────────────────────────────
 services:
   - type: web
     name: akihabara-tcg-warehouse
-    runtime: node
+    runtime: static
 
-    # Deterministic install from package-lock.json, then the standalone build.
-    # (When creating the service manually in the Render dashboard instead of
-    # via this blueprint, use the same two commands.)
+    # Same command the manually-created service uses, so blueprint and
+    # manual deploys behave identically.
     buildCommand: npm install --no-audit --no-fund && npm run build
-    startCommand: npm start
+    staticPublishPath: ./out
 
-    # Keep every push to main deploying automatically.
+    # Keep every push to main deploying automatically; no PR previews on
+    # the free plan.
     autoDeploy: true
     pullRequestPreviewsEnabled: false
 
@@ -39,6 +40,10 @@ services:
       - key: NODE_VERSION
         value: "24"
 
+    # ── Caching & security headers ──────────────────────────────────────────
+    # Product/hero images never change (filenames are content hashes),
+    # so browsers and the CDN can cache them forever. Render clears its
+    # CDN cache on every deploy, so HTML is always fresh.
     headers:
       - path: /images/*
         name: Cache-Control
@@ -58,3 +63,22 @@ services:
       - path: /*
         name: Referrer-Policy
         value: strict-origin-when-cross-origin
+
+    # ── Canonical trailing-slash URLs ───────────────────────────────────────
+    # The site's internal links, sitemap and canonicals all use trailing
+    # slashes (…/product/<slug>/). These rules 301-redirect any extension-
+    # less request to the canonical form. Render only applies a rule when
+    # no file exists at the requested path, so real pages are unaffected.
+    routes:
+      - type: redirect
+        source: /product/:slug
+        destination: /product/:slug/
+      - type: redirect
+        source: /pokemon-cards
+        destination: /pokemon-cards/
+      - type: redirect
+        source: /one-piece-cards
+        destination: /one-piece-cards/
+      - type: redirect
+        source: /japanese-tcg
+        destination: /japanese-tcg/
