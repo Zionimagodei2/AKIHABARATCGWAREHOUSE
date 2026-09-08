@@ -1627,6 +1627,8 @@ export default function AdminPanel() {
     toast({ title: "Re-synced", description: "Latest live store data loaded" });
     fetchProducts();
     fetchStats();
+    fetchOrders();
+    fetchCustomers();
     fetchContent();
     fetchSettings();
   };

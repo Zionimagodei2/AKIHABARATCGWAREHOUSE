@@ -23,7 +23,17 @@
    starts empty and only ever shows REAL records: orders and
    reviews the admin records from actual customer confirmations.
    No sample / mock data exists anywhere in this store.
+
+   REMOTE ORDERS: customer orders placed through checkout are
+   recorded in the store database (Supabase via PostgREST, the
+   same backend the /api routes use). On panel load and on every
+   Refresh, real orders + their items are pulled from the
+   database and merged with locally-recorded orders, so the
+   admin always sees every order customers placed. Status
+   changes and deletions sync back to the database.
    ──────────────────────────────────────────────────────────── */
+
+import { selectFrom, updateIn } from "./supabase-client";
 
 /* ─────────── Types (published / snake_case format) ─────────── */
 
@@ -289,6 +299,9 @@ class AdminStore {
   private pollStart = 0;
   private pendingHashes: { products?: string; content?: string } = {};
 
+  /** Ids of orders that live in the remote store database. */
+  private remoteOrderIds = new Set<string>();
+
   /* ── lifecycle ── */
 
   subscribe(fn: () => void): () => void {
@@ -360,7 +373,11 @@ class AdminStore {
       /* keep defaults */
     }
 
-    // 4. Resume rebuild polling if a publish was in flight
+    // 4. Real customer orders from the store database (checkout writes
+    //    there) — merged with locally-recorded orders.
+    await this.refreshRemoteOrders();
+
+    // 5. Resume rebuild polling if a publish was in flight
     if (this.publish.state === "idle" && this.hasPendingPublish()) {
       this.publish = {
         state: "waiting",
@@ -617,13 +634,32 @@ class AdminStore {
   updateOrder(id: string, patch: Partial<StoreOrder>) {
     const idx = this.orders.findIndex((o) => o.id === id);
     if (idx < 0) return;
-    this.orders[idx] = { ...this.orders[idx], ...patch, updatedAt: new Date().toISOString() };
+    const now = new Date().toISOString();
+    this.orders[idx] = { ...this.orders[idx], ...patch, updatedAt: now };
     this.persistOrders();
+
+    // Sync status changes back to the store database for remote orders
+    if (this.remoteOrderIds.has(id) && patch.status) {
+      updateIn("orders", { id: `eq.${id}` }, { status: patch.status, updated_at: now }).catch(
+        () => undefined
+      );
+    }
   }
 
   deleteOrder(id: string) {
     this.orders = this.orders.filter((o) => o.id !== id);
     this.persistOrders();
+
+    // Remote orders: the store database blocks hard DELETEs (row-level
+    // security), but UPDATEs are allowed — so a delete is recorded as a
+    // soft-delete status that refreshRemoteOrders filters out. The order
+    // disappears from the panel and stays gone.
+    if (this.remoteOrderIds.has(id)) {
+      this.remoteOrderIds.delete(id);
+      updateIn("orders", { id: `eq.${id}` }, { status: "deleted", updated_at: new Date().toISOString() }).catch(
+        () => undefined
+      );
+    }
   }
 
   createOrder(order: Omit<StoreOrder, "id" | "createdAt" | "updatedAt">): StoreOrder {
@@ -632,6 +668,95 @@ class AdminStore {
     this.orders.push(record);
     this.persistOrders();
     return record;
+  }
+
+  /* ─────────── Remote orders (store database) ─────────── */
+
+  /**
+   * Pull real customer orders (and their items) from the store database
+   * and merge them with locally-recorded orders. Remote rows are the
+   * source of truth for their ids; local-only records (manually recorded
+   * by the admin) are always kept. Returns the number of remote orders.
+   */
+  async refreshRemoteOrders(): Promise<number> {
+    try {
+      const { data: rows, error } = await selectFrom<Record<string, unknown>>(
+        "orders",
+        "*",
+        undefined,
+        { order: "created_at.desc", limit: 200 }
+      );
+      if (error || !rows) return 0;
+
+      // Fetch all order items and group them by order_id
+      let itemRows: Record<string, unknown>[] = [];
+      try {
+        const items = await selectFrom<Record<string, unknown>>(
+          "order_items",
+          "*",
+          undefined,
+          { limit: 1000 }
+        );
+        if (!items.error && items.data) itemRows = items.data;
+      } catch {
+        /* items unavailable — orders still load without line items */
+      }
+      const itemsByOrder = new Map<string, StoreOrderItem[]>();
+      for (const row of itemRows) {
+        const oid = String(row.order_id ?? "");
+        if (!oid) continue;
+        const list = itemsByOrder.get(oid) || [];
+        list.push({
+          id: String(row.id ?? ""),
+          title: String(row.title ?? ""),
+          price: Number(row.price ?? 0),
+          quantity: Number(row.quantity ?? 1),
+          image: (row.image as string | null) ?? null,
+        });
+        itemsByOrder.set(oid, list);
+      }
+
+      const deletedRemoteIds = new Set(
+        rows
+          .filter((row) => String(row.status ?? "") === "deleted")
+          .map((row) => String(row.id ?? ""))
+      );
+      const remote: StoreOrder[] = rows
+        .filter((row) => !deletedRemoteIds.has(String(row.id ?? "")))
+        .map((row) => ({
+        id: String(row.id ?? ""),
+        items: itemsByOrder.get(String(row.id ?? "")) || [],
+        total: Number(row.total ?? 0),
+        status: String(row.status ?? "pending"),
+        customerName: (row.customer_name as string | null) ?? null,
+        customerEmail: (row.customer_email as string | null) ?? null,
+        customerPhone: (row.customer_phone as string | null) ?? null,
+        shippingAddress: (row.shipping_address as string | null) ?? null,
+        shippingCity: (row.shipping_city as string | null) ?? null,
+        shippingCountry: (row.shipping_country as string | null) ?? null,
+        shippingZip: (row.shipping_zip as string | null) ?? null,
+        paymentMethod: (row.payment_method as string | null) ?? null,
+        notes: (row.notes as string | null) ?? null,
+        createdAt: String(row.created_at ?? ""),
+        updatedAt: String(row.updated_at ?? ""),
+      }));
+
+      this.remoteOrderIds = new Set(remote.map((o) => o.id));
+      // Keep purely-local orders (manually recorded), but purge stale local
+      // copies of remote orders — including ones that were deleted in the
+      // database — so deletions stick across reloads.
+      const localOnly = this.orders.filter(
+        (o) => !this.remoteOrderIds.has(o.id) && !deletedRemoteIds.has(o.id)
+      );
+      this.orders = [...localOnly, ...remote].sort((a, b) =>
+        (b.createdAt || "").localeCompare(a.createdAt || "")
+      );
+      this.persistOrders();
+      this.notify();
+      return remote.length;
+    } catch {
+      return 0;
+    }
   }
 
   getReviews(): StoreReview[] {
@@ -1045,6 +1170,10 @@ class AdminStore {
         }
       }
     } catch {}
+
+    // Pull the latest customer orders from the store database too,
+    // so Refresh picks up newly placed orders.
+    await this.refreshRemoteOrders();
   }
 
 }

@@ -2,6 +2,7 @@
 
 import React, { useState, useMemo, useCallback, useEffect, useRef } from "react";
 import Link from "next/link";
+import { directSignUp, directSignIn, directCreateOrder } from "@/lib/store-api";
 
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -2089,19 +2090,29 @@ function SignInPage({ onSignIn }: { onSignIn: (user: { id: string; email: string
 
     setLoading(true);
     try {
+      let user: { id?: string; email?: string; name?: string | null } | null = null;
       const res = await fetch("/api/auth/signup", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, password, name }),
       });
-      const data = await res.json();
 
-      if (!res.ok) { setError(data.error || "Sign up failed."); return; }
+      if (res.status === 404) {
+        // Static deployment — no /api routes. Create the account directly
+        // in the store database from the browser.
+        user = await directSignUp({ email, password, name });
+      } else {
+        const data = await res.json().catch(() => ({ error: "Sign up failed." }));
+        if (!res.ok) { setError(data.error || "Sign up failed."); return; }
+        user = data;
+      }
 
-      // Auto sign-in after signup (data is the user object directly)
-      onSignIn({ id: data.id, email: data.email, name: data.name || name });
+      // Auto sign-in after signup (user is the user object)
+      onSignIn({ id: user.id, email: user.email, name: user.name || name });
       setSuccess("Account created successfully! Welcome aboard.");
-    } catch { setError("Network error. Please try again."); }
+    } catch (err) {
+      setError(err instanceof Error && err.message ? err.message : "Network error. Please try again.");
+    }
     finally { setLoading(false); }
   };
 
@@ -2115,19 +2126,29 @@ function SignInPage({ onSignIn }: { onSignIn: (user: { id: string; email: string
 
     setLoading(true);
     try {
+      let user: { id?: string; email?: string; name?: string | null } | null = null;
       const res = await fetch("/api/auth/signin", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, password }),
       });
-      const data = await res.json();
 
-      if (!res.ok) { setError(data.error || "Invalid email or password."); return; }
+      if (res.status === 404) {
+        // Static deployment — no /api routes. Check credentials directly
+        // against the store database from the browser.
+        user = await directSignIn({ email, password });
+      } else {
+        const data = await res.json().catch(() => ({ error: "Invalid email or password." }));
+        if (!res.ok) { setError(data.error || "Invalid email or password."); return; }
+        user = data;
+      }
 
-      // data is the user object directly
-      onSignIn({ id: data.id, email: data.email, name: data.name || "" });
+      // user is the user object
+      onSignIn({ id: user.id, email: user.email, name: user.name || "" });
       setSuccess("Welcome back!");
-    } catch { setError("Network error. Please try again."); }
+    } catch (err) {
+      setError(err instanceof Error && err.message ? err.message : "Network error. Please try again.");
+    }
     finally { setLoading(false); }
   };
 
@@ -2605,7 +2626,32 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
         }),
       });
 
-      if (res.ok) {
+      if (res.status === 404) {
+        // Static deployment — no /api routes. Record the order directly in
+        // the store database from the browser so it reaches the admin panel.
+        const dbOrderId = await directCreateOrder({
+          customerName,
+          customerEmail,
+          customerPhone,
+          shippingAddress,
+          shippingCity,
+          shippingCountry,
+          shippingZip,
+          paymentMethod,
+          notes,
+          items: cart.map((item) => ({
+            productId: item.product.id,
+            title: item.product.title,
+            price: item.product.price,
+            quantity: item.quantity,
+            image: item.product.image,
+          })),
+        });
+        setOfflineOrder(false);
+        setOrderId(dbOrderId || newOrderId);
+        setOrderPlaced(true);
+        clearCart();
+      } else if (res.ok) {
         setOfflineOrder(false);
         setOrderId(newOrderId);
         setOrderPlaced(true);
@@ -2615,7 +2661,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
         placeOfflineOrder();
       }
     } catch {
-      // No API at all (static hosting) — offline flow
+      // No network / direct insert failed — offline flow
       placeOfflineOrder();
     } finally {
       setSubmitting(false);
