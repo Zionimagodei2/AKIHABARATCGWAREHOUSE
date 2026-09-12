@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import {
   allProducts,
+  categoryPhrase,
   categoryProducts,
   groupBySubcategory,
   SITE_URL,
@@ -11,8 +12,9 @@ import {
 
 /* ────────────────────────────────────────────────────────────
    Category Landing Page — shared template for /pokemon-cards,
-   /one-piece-cards and /japanese-tcg. Server-rendered, unique
-   copy + metadata per category, every product linked internally.
+   /one-piece-cards, /english-one-piece-cards and /japanese-tcg.
+   Server-rendered, unique copy + metadata per category, every
+   product linked internally.
    ──────────────────────────────────────────────────────────── */
 
 export interface CategoryLandingConfig {
@@ -76,8 +78,8 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
       "/images/existing/shiny-japanese-charizard-ex-pokemon-tcg-card-art-1024x512.webp",
   },
 
-  "One Piece": {
-    key: "One Piece",
+  "Japanese One Piece": {
+    key: "Japanese One Piece",
     slug: "/one-piece-cards",
     metaTitle:
       "Japanese One Piece Cards — Booster Boxes & Sealed Cases | Akihabara TCG",
@@ -94,14 +96,14 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
       "Akihabara One Piece cards",
     ],
     h1: "Japanese One Piece Card Game",
-    eyebrow: "One Piece Card Game · Direct from Japan",
+    eyebrow: "Japanese One Piece · Direct from Japan",
     intro:
       "The One Piece Card Game has become one of the most sought-after trading card games in the world, and Japanese-language product leads the market. We stock {count} authentic Japanese One Piece products direct from Akihabara — from the latest OP-series booster boxes and complete sealed display cases to special sets and promos. Japanese One Piece boxes release months ahead of English sets, often feature exclusive Japanese artwork, and are the preferred choice for collectors chasing the newest cards first. Everything is factory sealed, sourced from authorized Japanese distributors, and shipped worldwide with tracking and protective packaging. Enjoy free shipping on orders over $500 plus our 100% authenticity guarantee and 30-day returns on sealed products.",
     sectionOrder: ["Sealed Case", "Booster Boxes", "Special Set"],
     sectionTitles: {
-      "Sealed Case": "One Piece Sealed Cases",
-      "Booster Boxes": "One Piece Booster Boxes",
-      "Special Set": "One Piece Special Sets",
+      "Sealed Case": "Japanese One Piece Sealed Cases",
+      "Booster Boxes": "Japanese One Piece Booster Boxes",
+      "Special Set": "Japanese One Piece Special Sets",
     },
     sectionDescriptions: {
       "Sealed Case":
@@ -113,6 +115,43 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
     },
     heroImage:
       "/images/existing/5942991877667752868_121-1024x579.webp",
+  },
+
+  "English One Piece": {
+    key: "English One Piece",
+    slug: "/english-one-piece-cards",
+    metaTitle:
+      "English One Piece Cards — Booster Boxes & Sealed Cases | Akihabara TCG",
+    metaDescription:
+      "English One Piece Card Game booster boxes and sealed cases: OP-01 through the newest expansions, extra boosters and premium boosters. Factory sealed, tournament-legal, ships worldwide.",
+    keywords: [
+      "English One Piece cards",
+      "One Piece card game English",
+      "English One Piece booster box",
+      "One Piece booster box English",
+      "OP booster box English",
+      "buy English One Piece cards online",
+      "English One Piece sealed case",
+      "One Piece 12 box case",
+      "Romance Dawn booster box English",
+      "One Piece TCG sealed product",
+    ],
+    h1: "English One Piece Card Game",
+    eyebrow: "English One Piece · Sealed Cases & Booster Boxes",
+    intro:
+      "The English edition of the One Piece Card Game is the tournament-standard format played around the world — and we stock the deepest sealed selection anywhere. This collection brings together {count} English One Piece products: every current booster box from OP-01 Romance Dawn through the newest OP-series expansions, the Heroines extra booster, The Best premium boosters, and complete factory-sealed 12-box display cases for collectors, stores and box breakers. English boxes contain 24 booster packs per display and pull the same leader, alt-art and secret rare chase cards as their Japanese counterparts, fully legal for official tournaments. Every item is factory sealed from authorized North American distribution, shipped worldwide with tracking and protective packaging, and covered by our 100% authenticity guarantee with free shipping over $500 and 30-day returns on sealed products.",
+    sectionOrder: ["Sealed Case", "Booster Boxes"],
+    sectionTitles: {
+      "Sealed Case": "English One Piece Sealed Cases",
+      "Booster Boxes": "English One Piece Booster Boxes",
+    },
+    sectionDescriptions: {
+      "Sealed Case":
+        "Complete factory-sealed 12-box display cases — distribution-level product with the best per-box pricing for collectors, stores and box breakers.",
+      "Booster Boxes":
+        "Factory-sealed English One Piece booster boxes — every main expansion from Romance Dawn to the latest releases, plus extra and premium boosters.",
+    },
+    heroImage: "/images/onepiece-english/hero-english-op.webp",
   },
 
   "Other TCG": {
@@ -350,7 +389,7 @@ export default function CategoryLanding({ category }: { category: string }) {
           {/* Cross-links to other categories */}
           <section className="bg-white rounded-2xl border border-gray-200 p-6 sm:p-8 mb-8">
             <h2 className="text-lg font-extrabold font-[family-name:var(--font-montserrat)] text-purple-950 mb-5">
-              Explore More Japanese TCG Collections
+              Explore More TCG Collections
             </h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {otherCategories.map((c) => (
@@ -373,7 +412,7 @@ export default function CategoryLanding({ category }: { category: string }) {
               className="inline-flex items-center gap-2 mt-6 text-purple-700 hover:text-purple-900 font-semibold text-[15px]"
             >
               ← Browse the complete catalog of {allProducts.length} authentic
-              Japanese TCG products
+              Japanese & English TCG products
             </Link>
           </section>
         </main>
@@ -422,7 +461,7 @@ function CategoryProductCard({ p }: { p: Product }) {
       <div className="relative aspect-square bg-gray-50 flex items-center justify-center p-4">
         <img
           src={p.image}
-          alt={`${p.title} — Japanese ${p.category} ${p.subcategory || "TCG"}`}
+          alt={`${p.title} — ${categoryPhrase(p.category)} ${p.subcategory || "TCG"}`}
           className="max-h-full max-w-full object-contain"
           loading="lazy"
           width={220}

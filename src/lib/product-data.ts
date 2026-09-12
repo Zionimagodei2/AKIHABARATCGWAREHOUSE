@@ -52,10 +52,26 @@ function extractSeries(title: string): string | null {
   return m ? m[0].toUpperCase() : null;
 }
 
+/* Language qualifier for descriptions/alt text — "English One Piece"
+   products are English editions; everything else defaults to Japanese. */
+export function productLanguage(category: string): string {
+  return /^english/i.test(category) ? "English" : "Japanese";
+}
+
+/* Clean "language + category" phrase without doubling when the category
+   already carries the language ("English One Piece" stays as-is). */
+export function categoryPhrase(category: string): string {
+  const lang = productLanguage(category);
+  return category.toLowerCase().startsWith(lang.toLowerCase())
+    ? category
+    : `${lang} ${category}`;
+}
+
 export function generateDescription(p: Product): string {
   const cats = p.categories || [];
   const sub = p.subcategory || (cats.length > 1 ? cats[1] : undefined);
   const series = extractSeries(p.title);
+  const language = categoryPhrase(p.category);
   const discount =
     p.original_price && p.original_price > p.price
       ? ` Now ${Math.round(((p.original_price - p.price) / p.original_price) * 100)}% off (was $${p.original_price.toFixed(2)}).`
@@ -70,7 +86,7 @@ export function generateDescription(p: Product): string {
     : `${p.category} card game`;
 
   return (
-    `Buy the ${p.title} — an authentic Japanese ${p.category} TCG ${productType} from the ${seriesPhrase}, factory sealed and sourced directly from authorized distributors in Akihabara, Tokyo. ` +
+    `Buy the ${p.title} — an authentic ${language} ${p.category} TCG ${productType} from the ${seriesPhrase}, factory sealed and sourced directly from authorized distributors. ` +
     `In stock${p.price ? ` at $${p.price.toFixed(2)} with fast worldwide shipping` : ""}${discount} ` +
     `Every order ships in secure protective packaging with tracking, backed by our 100% authenticity guarantee and 30-day returns on sealed products.`
   );
@@ -123,7 +139,8 @@ export function relatedProducts(p: Product, count = 4): Product[] {
 /** URL path for each category's landing page (used by breadcrumbs, sitemap) */
 export const CATEGORY_PAGES: Record<string, string> = {
   Pokemon: "/pokemon-cards",
-  "One Piece": "/one-piece-cards",
+  "Japanese One Piece": "/one-piece-cards",
+  "English One Piece": "/english-one-piece-cards",
   "Other TCG": "/japanese-tcg",
 };
 

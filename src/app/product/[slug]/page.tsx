@@ -3,7 +3,9 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
   allProducts,
+  categoryPhrase,
   getProductBySlug,
+  productLanguage,
   relatedProducts,
   categoryPageUrl,
   SITE_URL,
@@ -38,9 +40,10 @@ export async function generateMetadata({
   }
 
   const cat = product.category;
-  const title = truncate(`${product.title} | Japanese ${cat} Cards`, 65);
+  const phrase = categoryPhrase(cat);
+  const title = truncate(`${product.title} | ${phrase} Cards`, 65);
   const description = truncate(
-    `Authentic Japanese ${cat} ${product.subcategory || "TCG product"} — ${product.title}. Factory sealed, ships worldwide from Akihabara, Tokyo. $${product.price.toFixed(2)} with 100% authenticity guarantee.`,
+    `Authentic ${phrase} ${product.subcategory || "TCG product"} — ${product.title}. Factory sealed, ships worldwide. $${product.price.toFixed(2)} with 100% authenticity guarantee.`,
     158
   );
   const url = `${SITE_URL}/product/${product.slug}${URL_TRAILING}`;
@@ -50,7 +53,7 @@ export async function generateMetadata({
     description,
     keywords: [
       product.title,
-      `Japanese ${cat} cards`,
+      `${phrase} cards`,
       `${cat} ${product.subcategory || "booster box"}`,
       `buy ${cat} cards online`,
       "authentic Japanese TCG",
@@ -92,6 +95,8 @@ export default async function ProductPage({
   if (!product) notFound();
 
   const related = relatedProducts(product, 4);
+  const phrase = categoryPhrase(product.category);
+  const isEnglish = productLanguage(product.category) === "English";
   const discount =
     product.original_price && product.original_price > product.price
       ? Math.round(
@@ -252,7 +257,7 @@ export default async function ProductPage({
             <div className="bg-white rounded-2xl border border-gray-200 p-6 sm:p-10 flex items-center justify-center min-h-[320px] sm:min-h-[420px]">
               <img
                 src={product.image}
-                alt={`${product.title} — authentic Japanese ${product.category} trading card game product`}
+                alt={`${product.title} — authentic ${phrase} trading card game product`}
                 className="max-h-[360px] w-auto object-contain"
                 width={480}
                 height={480}
@@ -263,7 +268,7 @@ export default async function ProductPage({
             {/* Product info */}
             <div>
               <p className="text-[11px] font-bold text-violet-600 tracking-[0.2em] uppercase mb-2">
-                Japanese {product.category} · {product.subcategory || "Sealed Product"}
+                {phrase} · {product.subcategory || "Sealed Product"}
               </p>
               <h1 className="text-2xl sm:text-3xl font-extrabold font-[family-name:var(--font-montserrat)] text-purple-950 leading-tight mb-4">
                 {product.title}
@@ -332,11 +337,11 @@ export default async function ProductPage({
                 <ul className="space-y-2 text-[13px] text-gray-600">
                   <li className="flex items-center gap-2">
                     <span className="text-purple-600" aria-hidden="true">✓</span>
-                    100% authentic — sourced from authorized Japanese distributors
+                    100% authentic — sourced from authorized {isEnglish ? "North American" : "Japanese"} distributors
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="text-purple-600" aria-hidden="true">✓</span>
-                    Factory sealed, direct from Akihabara, Tokyo
+                    Factory sealed{isEnglish ? " tournament-legal product" : ", direct from Akihabara, Tokyo"}
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="text-purple-600" aria-hidden="true">✓</span>
@@ -356,7 +361,7 @@ export default async function ProductPage({
             <section className="mt-12 sm:mt-16">
               <div className="flex items-baseline justify-between flex-wrap gap-2 mb-6">
                 <h2 className="text-xl font-extrabold font-[family-name:var(--font-montserrat)] text-purple-950">
-                  More Japanese {product.category} Cards
+                  More {phrase} Cards
                 </h2>
                 <Link
                   href={categoryPageUrl(product.category)}
@@ -375,7 +380,7 @@ export default async function ProductPage({
                     <div className="aspect-square bg-gray-50 flex items-center justify-center p-4">
                       <img
                         src={r.image}
-                        alt={`${r.title} — Japanese ${r.category} TCG`}
+                        alt={`${r.title} — ${categoryPhrase(r.category)} TCG`}
                         className="max-h-full max-w-full object-contain"
                         loading="lazy"
                         width={200}
@@ -405,7 +410,7 @@ export default async function ProductPage({
               href="/"
               className="inline-flex items-center gap-2 text-purple-700 hover:text-purple-900 font-semibold text-[15px]"
             >
-              ← Browse all 200+ authentic Japanese TCG products
+              ← Browse all 250+ authentic Japanese & English TCG products
             </Link>
           </div>
         </main>
@@ -425,8 +430,8 @@ export default async function ProductPage({
                 </span>
               </div>
               <p className="text-[12px] text-violet-300">
-                Authentic Japanese TCG cards · Direct from Akihabara, Tokyo ·
-                Ships worldwide
+                Authentic Japanese & English TCG cards · Direct from Akihabara,
+                Tokyo · Ships worldwide
               </p>
             </div>
           </div>

@@ -2,8 +2,8 @@ import CategoryLanding, {
   categoryMetadata,
 } from "@/components/category-landing";
 
-export const metadata = categoryMetadata("One Piece");
+export const metadata = categoryMetadata("Japanese One Piece");
 
 export default function OnePieceCardsPage() {
-  return <CategoryLanding category="One Piece" />;
+  return <CategoryLanding category="Japanese One Piece" />;
 }

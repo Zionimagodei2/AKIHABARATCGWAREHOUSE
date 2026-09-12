@@ -144,7 +144,8 @@ const CURRENCY_SYMBOLS: Record<CurrencyCode, string> = {
 const CATEGORY_TABS = [
   { key: "all", label: "All Products" },
   { key: "Pokemon", label: "Pokémon", gradient: "from-red-500 to-orange-500", sectionGradient: "from-red-600/20 to-orange-500/20" },
-  { key: "One Piece", label: "One Piece", gradient: "from-yellow-500 to-amber-500", sectionGradient: "from-yellow-500/20 to-amber-500/20" },
+  { key: "English One Piece", label: "English One Piece", gradient: "from-sky-500 to-blue-600", sectionGradient: "from-sky-500/20 to-blue-600/20" },
+  { key: "Japanese One Piece", label: "Japanese One Piece", gradient: "from-yellow-500 to-amber-500", sectionGradient: "from-yellow-500/20 to-amber-500/20" },
   { key: "Other TCG", label: "Other Categories", gradient: "from-purple-500 to-indigo-500", sectionGradient: "from-purple-500/20 to-indigo-500/20" },
 ];
 
@@ -155,7 +156,11 @@ const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
     { key: "Special Set & Promo", label: "Special Set & Promo" },
     { key: "Promo", label: "Promo" },
   ],
-  "One Piece": [
+  "English One Piece": [
+    { key: "Sealed Case", label: "Sealed Case" },
+    { key: "Booster Boxes", label: "Booster Boxes" },
+  ],
+  "Japanese One Piece": [
     { key: "Sealed Case", label: "Sealed Case" },
     { key: "Booster Boxes", label: "Booster Boxes" },
     { key: "Special Set", label: "Special Set" },
@@ -664,7 +669,7 @@ export default function TCGStore({
 
             {/* SEO h1 — describes the page for search engines and screen readers */}
             <h1 className="sr-only">
-              Akihabara TCG Warehouse — Authentic Japanese TCG Cards: Pokemon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam & Disney Lorcana
+              Akihabara TCG Warehouse — Authentic Japanese & English TCG Cards: Pokemon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam & Disney Lorcana
             </h1>
 
             {/* Desktop Navigation */}
@@ -958,7 +963,7 @@ export default function TCGStore({
                 </div>
               </div>
               <p className="text-[13px] leading-relaxed text-gray-300 mb-5 max-w-xs">
-                Your trusted source for authentic Japanese TCG products — Pokémon, One Piece, Dragon Ball, and more. Every product ships direct from Japan, sealed and verified.
+                Your trusted source for authentic Japanese & English TCG products — Pokémon, One Piece, Dragon Ball, and more. Every product ships sealed and verified.
               </p>
 
             </div>
@@ -999,7 +1004,8 @@ export default function TCGStore({
               <ul className="space-y-1.5">
                 {[
                   { key: "Pokemon", label: "Japanese Pokémon Cards", short: "Pokémon", href: "/pokemon-cards" },
-                  { key: "One Piece", label: "Japanese One Piece Cards", short: "One Piece", href: "/one-piece-cards" },
+                  { key: "English One Piece", label: "English One Piece Cards", short: "English One Piece", href: "/english-one-piece-cards" },
+                  { key: "Japanese One Piece", label: "Japanese One Piece Cards", short: "Japanese One Piece", href: "/one-piece-cards" },
                   { key: "Other TCG", label: "Weiss Schwarz, Union Arena & More", short: "Other TCG", href: "/japanese-tcg" },
                 ].map((cat) => {
                   const subs = SUBCATEGORY_TABS[cat.key] || [];
@@ -1558,7 +1564,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               Why Choose Akihabara TCG Warehouse
             </h2>
             <p className="text-gray-300 max-w-2xl mx-auto text-[14px] leading-relaxed">
-              Your premier source for authentic Japanese TCG products — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam, Disney Lorcana, and more. Whether you're a seasoned collector, a competitive player, or running a card business, we've got you covered.
+              Your premier source for authentic Japanese & English TCG products — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam, Disney Lorcana, and more. Whether you're a seasoned collector, a competitive player, or running a card business, we've got you covered.
             </p>
           </div>
 
@@ -1698,7 +1704,7 @@ function AboutPage() {
             Trusted Worldwide for Japanese Pokémon TCG and Others
           </h1>
           <p className="text-[15px] text-gray-200 max-w-2xl mx-auto leading-relaxed">
-            Welcome to Akihabara TCG Warehouse, your premier source for authentic Japanese TCG products. From Pokémon and One Piece to Dragon Ball, Weiss Schwarz, Union Arena, Gundam, and Disney Lorcana — whether you're a seasoned collector, a competitive player, or running a card business, we offer genuine items straight from Japan at unbeatable wholesale prices.
+            Welcome to Akihabara TCG Warehouse, your premier source for authentic Japanese & English TCG products. From Pokémon and One Piece to Dragon Ball, Weiss Schwarz, Union Arena, Gundam, and Disney Lorcana — whether you're a seasoned collector, a competitive player, or running a card business, we offer genuine items at unbeatable prices.
           </p>
         </div>
       </section>
