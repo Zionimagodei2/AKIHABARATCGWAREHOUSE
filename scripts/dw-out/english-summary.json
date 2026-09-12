@@ -1,0 +1,33 @@
+{
+  "boosterBoxes": 17,
+  "sealedCases": 9,
+  "images": [
+    "/images/onepiece-english/op-01-bb.webp",
+    "/images/onepiece-english/op-02-bb.webp",
+    "/images/onepiece-english/op-03-bb.webp",
+    "/images/onepiece-english/op-04-bb.webp",
+    "/images/onepiece-english/op-06-bb.webp",
+    "/images/onepiece-english/op-07-bb.webp",
+    "/images/onepiece-english/op-08-bb.webp",
+    "/images/onepiece-english/op-10-bb.webp",
+    "/images/onepiece-english/op-11-bb.webp",
+    "/images/onepiece-english/op-13-bb.webp",
+    "/images/onepiece-english/op-14-bb.webp",
+    "/images/onepiece-english/op-15-bb.webp",
+    "/images/onepiece-english/op-16-bb.webp",
+    "/images/onepiece-english/op-17-bb.webp",
+    "/images/onepiece-english/eb-03-bb.webp",
+    "/images/onepiece-english/prb-01-bb.webp",
+    "/images/onepiece-english/prb-02-bb.webp",
+    "/images/onepiece-english/op-02-sc.webp",
+    "/images/onepiece-english/op-04-sc.webp",
+    "/images/onepiece-english/op-05-sc.webp",
+    "/images/onepiece-english/op-08-sc.webp",
+    "/images/onepiece-english/op-13-sc.webp",
+    "/images/onepiece-english/op-14-sc.webp",
+    "/images/onepiece-english/op-15-sc.webp",
+    "/images/onepiece-english/op-17-sc.webp",
+    "/images/onepiece-english/prb-01-sc.webp"
+  ],
+  "hero": "/images/onepiece-english/hero-english-op.webp"
+}

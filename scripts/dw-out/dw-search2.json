@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "href": "https://help.dacardworld.com/en/categories/227776-contact-us",
+      "img": "https://www.dacardworld.com/images/layout/top-bar-phone.svg",
+      "alt": "1-888-440-9787",
+      "text": "1-888-440-9787"
+    },
+    {
+      "href": "https://help.dacardworld.com/en/articles/880704",
+      "img": "https://www.dacardworld.com/images/layout/top-bar-truck.svg",
+      "alt": "We Ship Internationally",
+      "text": "We Ship Internationally"
+    },
+    {
+      "href": "https://www.dacardworld.com/free-boxes-and-packs",
+      "img": "https://www.dacardworld.com/images/layout/top-bar-gift.svg",
+      "alt": "FREE Gifts with orders $100+",
+      "text": "FREE Gifts with orders $100+"
+    },
+    {
+      "href": "https://help.dacardworld.com/en/categories/227776-contact-us",
+      "img": "https://www.dacardworld.com/images/layout/top-bar-question.svg",
+      "alt": "Have any questions?",
+      "text": ""
+    },
+    {
+      "href": "https://www.dacardworld.com/",
+      "img": "https://www.dacardworld.com/images/layout/daveandadams-primary-wordmark_website_top-nav-bar.svg",
+      "alt": "Dave & Adam's Card World logo",
+      "text": ""
+    },
+    {
+      "href": "https://www.dacardworld.com/login",
+      "img": "https://www.dacardworld.com/images/layout/nav-profile-icon.svg",
+      "alt": "profile",
+      "text": ""
+    },
+    {
+      "href": "https://www.dacardworld.com/free-boxes-and-packs",
+      "img": "https://www.dacardworld.com/images/layout/elements/gifts.svg",
+      "alt": "",
+      "text": "Free Gifts\non orders $100+"
+    },
+    {
+      "href": "https://help.dacardworld.com/en/articles/880704",
+      "img": "https://www.dacardworld.com/images/layout/elements/ups.svg",
+      "alt": "",
+      "text": "We Ship Internationally!\nOrder confidently today!"
+    },
+    {
+      "href": "https://help.dacardworld.com/en/articles/1040704",
+      "img": "https://www.dacardworld.com/images/layout/elements/truck.svg",
+      "alt": "",
+      "text": "Same Day Shipping\norder by 3 PM EST"
+    },
+    {
+      "href": "https://www.dacardworld.com/daily-deals",
+      "img": "https://www.dacardworld.com/images/layout/elements/daily-deals.svg",
+      "alt": "",
+      "text": "Daily Deals\nDeals added daily"
+    },
+    {
+      "href": "https://www.dacardworld.com/buying",
+      "img": "https://www.dacardworld.com/images/layout/elements/buying.svg",
+      "alt": "",
+      "text": "Always Buying\nGet paid within 48 hours"
+    },
+    {
+      "href": "https://www.dacardworld.com/sports-cards/best-prices",
+      "img": "https://www.dacardworld.com/images/layout/elements/best-deals.svg",
+      "alt": "",
+      "text": "Best Deals\nSave on hundreds of items!"
+    }
+  ],
+  "title": "Search | DA Card World",
+  "h1s": []
+}
