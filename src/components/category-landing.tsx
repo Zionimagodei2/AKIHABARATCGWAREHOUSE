@@ -123,7 +123,7 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
     metaTitle:
       "English One Piece Cards — Booster Boxes & Sealed Cases | Akihabara TCG",
     metaDescription:
-      "English One Piece Card Game booster boxes and sealed cases: OP-01 through the newest expansions, extra boosters and premium boosters. Factory sealed, tournament-legal, ships worldwide.",
+      "English One Piece Card Game booster boxes and sealed cases: every set from OP-01 Romance Dawn to OP-17, Memorial Collection and Anime 25th extra boosters, The Best premium boosters. Factory sealed, ships worldwide.",
     keywords: [
       "English One Piece cards",
       "One Piece card game English",
@@ -135,11 +135,15 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
       "One Piece 12 box case",
       "Romance Dawn booster box English",
       "One Piece TCG sealed product",
+      "Emperors in the New World booster box",
+      "Legacy of the Master booster box English",
+      "Memorial Collection booster box English",
+      "Anime 25th Collection booster box",
     ],
     h1: "English One Piece Card Game",
     eyebrow: "English One Piece · Sealed Cases & Booster Boxes",
     intro:
-      "The English edition of the One Piece Card Game is the tournament-standard format played around the world — and we stock the deepest sealed selection anywhere. This collection brings together {count} English One Piece products: every current booster box from OP-01 Romance Dawn through the newest OP-series expansions, the Heroines extra booster, The Best premium boosters, and complete factory-sealed 12-box display cases for collectors, stores and box breakers. English boxes contain 24 booster packs per display and pull the same leader, alt-art and secret rare chase cards as their Japanese counterparts, fully legal for official tournaments. Every item is factory sealed from authorized North American distribution, shipped worldwide with tracking and protective packaging, and covered by our 100% authenticity guarantee with free shipping over $500 and 30-day returns on sealed products.",
+      "The English edition of the One Piece Card Game is the tournament-standard format played around the world — and we stock the deepest sealed selection anywhere. This collection brings together {count} English One Piece products: every main-set booster box from OP-01 Romance Dawn through OP-17 The World's Strongest Warriors, the Memorial Collection, Anime 25th Collection and Heroines extra boosters, The Best premium boosters, and complete factory-sealed 12-box display cases for collectors, stores and box breakers. English boxes contain 24 booster packs per display and pull the same leader, alt-art and secret rare chase cards as their Japanese counterparts, fully legal for official tournaments. Every item is factory sealed from authorized North American distribution, shipped worldwide with tracking and protective packaging, and covered by our 100% authenticity guarantee with free shipping over $500 and 30-day returns on sealed products.",
     sectionOrder: ["Sealed Case", "Booster Boxes"],
     sectionTitles: {
       "Sealed Case": "English One Piece Sealed Cases",
