@@ -19,6 +19,47 @@
 
 import { selectFrom, insertInto } from "./supabase-client";
 
+/* ────────────────────────────────────────────────────────────
+   postToApi — POST JSON to a Next.js API route and report
+   whether a REAL backend answered.
+
+   Why `res.status === 404` is not enough: the production static
+   deployment sits behind Cloudflare, which answers POST requests
+   to paths that do not exist on a static origin with an EMPTY
+   `200 OK` (no content-type, zero-length body). A real Next.js
+   API route ALWAYS replies with `content-type: application/json`
+   and a JSON body. So anything else — an empty 200, an HTML 404
+   page, a redirect, a network error — means "no backend" and the
+   caller must use its direct-to-database fallback.
+   ──────────────────────────────────────────────────────────── */
+
+export type ApiResult =
+  | { real: true; ok: boolean; status: number; data: Record<string, unknown> }
+  | { real: false };
+
+export async function postToApi(path: string, body: unknown): Promise<ApiResult> {
+  try {
+    const res = await fetch(path, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+    const contentType = (res.headers.get("content-type") || "").toLowerCase();
+    if (!contentType.includes("application/json")) return { real: false };
+    const text = await res.text();
+    if (!text.trim()) return { real: false };
+    try {
+      const data = JSON.parse(text);
+      if (!data || typeof data !== "object") return { real: false };
+      return { real: true, ok: res.ok, status: res.status, data };
+    } catch {
+      return { real: false };
+    }
+  } catch {
+    return { real: false };
+  }
+}
+
 /** SHA-256 hex digest — identical output to Node's crypto.createHash('sha256') */
 export async function sha256hex(text: string): Promise<string> {
   const bytes = new TextEncoder().encode(text);
@@ -177,8 +218,21 @@ export async function directCreateOrder(input: {
     image: item.image || null,
   }));
   // Items failure is non-fatal (matches the server route behaviour —
-  // the order itself is already recorded).
-  await insertInto("order_items", itemsData).catch(() => undefined);
+  // the order itself is already recorded). One retry without the
+  // product link guards against the database catalog running behind
+  // the live products.json (order_items.product_id has a FK to the
+  // products table): the line items are still recorded with title,
+  // price and quantity either way.
+  const inserted = await insertInto("order_items", itemsData);
+  if (inserted.error) {
+    await insertInto(
+      "order_items",
+      itemsData.map(({ product_id: _drop, ...rest }) => ({
+        ...rest,
+        product_id: null,
+      }))
+    ).catch(() => undefined);
+  }
 
   return finalId;
 }

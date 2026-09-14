@@ -74,6 +74,13 @@ export async function POST(request: NextRequest) {
 
     if (itemsError) {
       console.error('Failed to create order items:', itemsError)
+      // Retry without the product link: order_items.product_id has a FK to
+      // the products table, which can run behind the live catalog. The line
+      // items are still worth recording (title / price / quantity).
+      await insertInto(
+        'order_items',
+        itemsData.map(({ product_id: _drop, ...rest }) => ({ ...rest, product_id: null }))
+      ).catch(() => undefined)
     }
 
     return NextResponse.json(order, { status: 201 })

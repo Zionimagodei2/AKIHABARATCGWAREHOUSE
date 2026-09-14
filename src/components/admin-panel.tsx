@@ -691,6 +691,9 @@ export default function AdminPanel() {
     setStatsLoading(true);
     try {
       await adminStore.ready();
+      // Fresh order data from the store database for the dashboard counters
+      // and the Recent Orders list (cheap: two REST GETs).
+      await adminStore.refreshRemoteOrders();
       const s = adminStore.getStats();
       setRevenueChart(s.revenueLast7Days);
       setCatalogMeta({ promosActive: s.promosActive, outOfStock: s.outOfStock, catalogValue: s.catalogValue });
@@ -760,6 +763,11 @@ export default function AdminPanel() {
     setOrdersLoading(true);
     try {
       await adminStore.ready();
+      // Re-pull customer orders from the store database on every visit to
+      // the Orders tab (checkout writes there directly on the static
+      // deployment), so orders placed while the panel is open show up
+      // without a full page reload.
+      await adminStore.refreshRemoteOrders();
       const all = adminStore.getOrders().map((o) => mapOrderFromApi(o as unknown as Record<string, unknown>));
 
       const q = orderSearch.trim().toLowerCase();

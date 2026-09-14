@@ -165,12 +165,23 @@ export async function POST(request: NextRequest) {
 
     if (itemsError) {
       console.error('Order items insert error:', itemsError)
-      // Attempt to clean up the order since items failed
-      await deleteFrom('orders', { id: `eq.${orderId}` })
-      return NextResponse.json(
-        { success: false, error: 'Failed to create order items' },
-        { status: 500 }
+      // Retry without the product link before considering the checkout
+      // failed: order_items.product_id has a FK to the products table,
+      // which can run behind the live catalog. Recording the line items
+      // (title / price / quantity) without the link is far better than
+      // losing the entire order.
+      const retry = await insertInto(
+        'order_items',
+        orderItems.map(({ product_id: _drop, ...rest }) => ({ ...rest, product_id: null }))
       )
+      if (retry.error) {
+        // Still failing — clean up the orphan order row.
+        await deleteFrom('orders', { id: `eq.${orderId}` })
+        return NextResponse.json(
+          { success: false, error: 'Failed to create order items' },
+          { status: 500 }
+        )
+      }
     }
 
     // 5. Return success response

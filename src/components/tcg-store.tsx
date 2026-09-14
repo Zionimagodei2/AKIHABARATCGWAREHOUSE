@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo, useCallback, useEffect, useRef } from "react";
 import Link from "next/link";
-import { directSignUp, directSignIn, directCreateOrder } from "@/lib/store-api";
+import { directSignUp, directSignIn, directCreateOrder, postToApi } from "@/lib/store-api";
 
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -2097,20 +2097,18 @@ function SignInPage({ onSignIn }: { onSignIn: (user: { id: string; email: string
     setLoading(true);
     try {
       let user: { id?: string; email?: string; name?: string | null } | null = null;
-      const res = await fetch("/api/auth/signup", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email, password, name }),
-      });
+      // postToApi() only counts a JSON response as "backend present": the
+      // static deployment answers POSTs to missing routes with an EMPTY 200,
+      // so a bare status/ok check cannot detect the static host.
+      const api = await postToApi("/api/auth/signup", { email, password, name });
 
-      if (res.status === 404) {
+      if (!api.real) {
         // Static deployment — no /api routes. Create the account directly
         // in the store database from the browser.
         user = await directSignUp({ email, password, name });
       } else {
-        const data = await res.json().catch(() => ({ error: "Sign up failed." }));
-        if (!res.ok) { setError(data.error || "Sign up failed."); return; }
-        user = data;
+        if (!api.ok) { setError(String(api.data.error || "Sign up failed.")); return; }
+        user = api.data as { id?: string; email?: string; name?: string | null };
       }
 
       // Auto sign-in after signup (user is the user object)
@@ -2133,20 +2131,15 @@ function SignInPage({ onSignIn }: { onSignIn: (user: { id: string; email: string
     setLoading(true);
     try {
       let user: { id?: string; email?: string; name?: string | null } | null = null;
-      const res = await fetch("/api/auth/signin", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email, password }),
-      });
+      const api = await postToApi("/api/auth/signin", { email, password });
 
-      if (res.status === 404) {
+      if (!api.real) {
         // Static deployment — no /api routes. Check credentials directly
         // against the store database from the browser.
         user = await directSignIn({ email, password });
       } else {
-        const data = await res.json().catch(() => ({ error: "Invalid email or password." }));
-        if (!res.ok) { setError(data.error || "Invalid email or password."); return; }
-        user = data;
+        if (!api.ok) { setError(String(api.data.error || "Invalid email or password.")); return; }
+        user = api.data as { id?: string; email?: string; name?: string | null };
       }
 
       // user is the user object
@@ -2608,31 +2601,40 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
     };
 
     try {
-      // Submit order via API (used when the site is deployed with a backend)
-      const res = await fetch("/api/orders", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          customerName,
-          customerEmail,
-          customerPhone,
-          shippingAddress,
-          shippingCity,
-          shippingCountry,
-          shippingZip,
-          paymentMethod,
-          notes,
-          items: cart.map((item) => ({
-            productId: item.product.id,
-            title: item.product.title,
-            price: item.product.price,
-            quantity: item.quantity,
-            image: item.product.image,
-          })),
-        }),
+      // Submit order via API (used when the site is deployed with a backend).
+      // postToApi() only counts a JSON response as "backend present": the
+      // static deployment (Cloudflare → Render static) answers POSTs to
+      // missing routes with an EMPTY 200, so a bare res.ok check would
+      // silently swallow the order.
+      const orderItems = cart.map((item) => ({
+        productId: item.product.id,
+        product_id: item.product.id,
+        title: item.product.title,
+        price: item.product.price,
+        quantity: item.quantity,
+        image: item.product.image,
+      }));
+      const api = await postToApi("/api/orders", {
+        customerName,
+        customerEmail,
+        customerPhone,
+        shippingAddress,
+        shippingCity,
+        shippingCountry,
+        shippingZip,
+        paymentMethod,
+        notes,
+        items: orderItems,
       });
 
-      if (res.status === 404) {
+      if (api.real && api.ok) {
+        // Backend accepted the order.
+        const serverId = (api.data as { id?: string }).id;
+        setOfflineOrder(false);
+        setOrderId(String(serverId || newOrderId));
+        setOrderPlaced(true);
+        clearCart();
+      } else if (!api.real) {
         // Static deployment — no /api routes. Record the order directly in
         // the store database from the browser so it reaches the admin panel.
         const dbOrderId = await directCreateOrder({
@@ -2655,11 +2657,6 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
         });
         setOfflineOrder(false);
         setOrderId(dbOrderId || newOrderId);
-        setOrderPlaced(true);
-        clearCart();
-      } else if (res.ok) {
-        setOfflineOrder(false);
-        setOrderId(newOrderId);
         setOrderPlaced(true);
         clearCart();
       } else {
