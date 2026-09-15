@@ -2,8 +2,8 @@
   {
     "id": "2",
     "title": "M6 Storm Emeralda booster box Japanese Pokemon Card",
-    "price": 69.41,
-    "original_price": 78.87,
+    "price": 58.1,
+    "original_price": 69.41,
     "image": "/images/fujicards/fb0f4f26327d.webp",
     "category": "Pokemon",
     "categories": [
@@ -11,7 +11,9 @@
       "Booster Boxes"
     ],
     "rating": 4.3,
-    "in_stock": false
+    "in_stock": false,
+    "created_at": "2026-09-15T21:46:51.780Z",
+    "updated_at": "2026-09-15T21:46:51.780Z"
   },
   {
     "id": "3",
@@ -3790,9 +3792,9 @@
       "Booster Boxes"
     ],
     "rating": 4.7,
-    "review_count": 23,
     "in_stock": true,
-    "description": "Buy the OP-05 Awakening of the New Era Booster Box — the factory-sealed English edition of the fifth main expansion of the One Piece Card Game, featuring Gear 5 Luffy, the Revolutionary Army and the Commanders of the New Era, containing 24 booster packs of 6 cards plus 1 DON!! card per pack. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $1019.84 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products."
+    "description": "Buy the OP-05 Awakening of the New Era Booster Box — the factory-sealed English edition of the fifth main expansion of the One Piece Card Game, featuring Gear 5 Luffy, the Revolutionary Army and the Commanders of the New Era, containing 24 booster packs of 6 cards plus 1 DON!! card per pack. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $1019.84 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products.",
+    "review_count": 23
   },
   {
     "id": "271",
@@ -3806,9 +3808,9 @@
       "Booster Boxes"
     ],
     "rating": 4.8,
-    "review_count": 41,
     "in_stock": true,
-    "description": "Buy the OP-09 Emperors in the New World Booster Box — the factory-sealed English edition of the ninth main expansion — the 2nd Anniversary set headlined by the Four Emperors Shanks, Luffy, Buggy and Blackbeard, containing 24 booster packs of 6 cards plus 1 DON!! card per pack. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $633.03 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products."
+    "description": "Buy the OP-09 Emperors in the New World Booster Box — the factory-sealed English edition of the ninth main expansion — the 2nd Anniversary set headlined by the Four Emperors Shanks, Luffy, Buggy and Blackbeard, containing 24 booster packs of 6 cards plus 1 DON!! card per pack. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $633.03 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products.",
+    "review_count": 41
   },
   {
     "id": "272",
@@ -3822,9 +3824,9 @@
       "Booster Boxes"
     ],
     "rating": 4.6,
-    "review_count": 38,
     "in_stock": true,
-    "description": "Buy the OP-12 Legacy of the Master Booster Box — the factory-sealed English edition of the twelfth main expansion, built around the Germa 66 legacy and the Vinsmoke siblings with six new Leader cards and a Treasure Rare chase, containing 24 booster packs of 6 cards plus 1 DON!! card per pack. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $256.23 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products."
+    "description": "Buy the OP-12 Legacy of the Master Booster Box — the factory-sealed English edition of the twelfth main expansion, built around the Germa 66 legacy and the Vinsmoke siblings with six new Leader cards and a Treasure Rare chase, containing 24 booster packs of 6 cards plus 1 DON!! card per pack. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $256.23 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products.",
+    "review_count": 38
   },
   {
     "id": "273",
@@ -3838,9 +3840,9 @@
       "Booster Boxes"
     ],
     "rating": 4.5,
-    "review_count": 19,
     "in_stock": true,
-    "description": "Buy the EB-01 Memorial Collection Extra Booster Box — the factory-sealed English edition of the first extra booster — a nostalgia set reprinting classic cards from the anime's most memorable moments across 61 card types, containing 24 booster packs per box — the Memorial Collection with 12 cards per pack, one of the richest pack configurations in the game. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $827.91 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products."
+    "description": "Buy the EB-01 Memorial Collection Extra Booster Box — the factory-sealed English edition of the first extra booster — a nostalgia set reprinting classic cards from the anime's most memorable moments across 61 card types, containing 24 booster packs per box — the Memorial Collection with 12 cards per pack, one of the richest pack configurations in the game. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $827.91 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products.",
+    "review_count": 19
   },
   {
     "id": "274",
@@ -3854,8 +3856,8 @@
       "Booster Boxes"
     ],
     "rating": 4.5,
-    "review_count": 26,
     "in_stock": true,
-    "description": "Buy the EB-02 Anime 25th Collection Extra Booster Box — the factory-sealed English edition of the anime 25th anniversary extra booster, celebrating a quarter century of the One Piece anime with 26 special alt-art cards, containing 24 booster packs per box — the Memorial Collection with 12 cards per pack, one of the richest pack configurations in the game. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $784.03 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products."
+    "description": "Buy the EB-02 Anime 25th Collection Extra Booster Box — the factory-sealed English edition of the anime 25th anniversary extra booster, celebrating a quarter century of the One Piece anime with 26 special alt-art cards, containing 24 booster packs per box — the Memorial Collection with 12 cards per pack, one of the richest pack configurations in the game. English One Piece boxes are the tournament-standard format played worldwide, with Leader cards, alt-art Special cards, Super Rares, Secret Rares and Treasure Rare chase pulls in every display. Sealed English displays are out of print at distribution once a set sells through, so factory-sealed boxes remain the collector's choice for long-term value. In stock at $784.03 with fast worldwide shipping, secure protective packaging and full tracking. Every box is factory sealed from authorized North American distribution and backed by our 100% authenticity guarantee and 30-day returns on sealed products.",
+    "review_count": 26
   }
 ]
