@@ -662,22 +662,24 @@
   {
     "id": "49",
     "title": "OP-17 The World's Strongest Warriors booster box Japanese ONE PIECE CARD",
-    "price": 138.22,
-    "original_price": 161.92,
-    "image": "/images/fujicards/0a9d9c5190c7.webp",
+    "price": 101.07,
+    "original_price": 120.03,
+    "image": "https://www.fujicardshop.com/wp-content/uploads/2026/05/OP-17-bb.webp",
     "category": "Japanese One Piece",
     "categories": [
       "Japanese One Piece",
       "Booster Boxes"
     ],
     "rating": 4.4,
-    "in_stock": false
+    "in_stock": false,
+    "created_at": "2026-09-18T21:39:38.783Z",
+    "updated_at": "2026-09-18T21:40:00.163Z"
   },
   {
     "id": "50",
     "title": "OP-16 The Time of Battle booster box Japanese ONE PIECE CARD",
-    "price": 99.15,
-    "original_price": 116.16,
+    "price": 87.5,
+    "original_price": 107.07,
     "image": "/images/fujicards/86e8d17c5249.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -685,13 +687,15 @@
       "Booster Boxes"
     ],
     "rating": 4.4,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:42:23.373Z",
+    "updated_at": "2026-09-18T21:42:23.373Z"
   },
   {
     "id": "51",
     "title": "OP-15 Adventure on KAMI’s Island booster box Japanese ONE PIECE CARD",
-    "price": 95.4,
-    "original_price": 111.76,
+    "price": 57.9,
+    "original_price": 61.08,
     "image": "/images/fujicards/4dbecc0910fe.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -699,7 +703,9 @@
       "Booster Boxes"
     ],
     "rating": 4.4,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:43:59.303Z",
+    "updated_at": "2026-09-18T21:43:59.303Z"
   },
   {
     "id": "52",
@@ -788,8 +794,8 @@
   {
     "id": "58",
     "title": "OP-11 A FIST OF DIVINE SPEED Booster Box Japanese ONE PIECE CARD",
-    "price": 172.02,
-    "original_price": 201.52,
+    "price": 151.01,
+    "original_price": 185.87,
     "image": "/images/fujicards/83600228d027.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -797,13 +803,15 @@
       "Booster Boxes"
     ],
     "rating": 4.7,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:59:17.514Z",
+    "updated_at": "2026-09-18T21:59:17.514Z"
   },
   {
     "id": "59",
     "title": "EB-02 Anime 25th collection Booster Box Japanese ONE PIECE CARD",
-    "price": 193.81,
-    "original_price": 227.04,
+    "price": 149.05,
+    "original_price": 179.25,
     "image": "/images/fujicards/aaa1ed4427dc.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -811,7 +819,9 @@
       "Booster Boxes"
     ],
     "rating": 4.6,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T22:01:25.661Z",
+    "updated_at": "2026-09-18T22:01:25.661Z"
   },
   {
     "id": "60",
@@ -914,8 +924,8 @@
   {
     "id": "67",
     "title": "OP-05 AWAKENING OF THE NEW ERA booster box Japanese ONE PIECE CARD",
-    "price": 365.82,
-    "original_price": 428.56,
+    "price": 231.54,
+    "original_price": 295.81,
     "image": "/images/fujicards/bd6cbb53f745.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -923,7 +933,9 @@
       "Booster Boxes"
     ],
     "rating": 4.6,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:46:30.744Z",
+    "updated_at": "2026-09-18T21:46:30.744Z"
   },
   {
     "id": "68",
@@ -970,8 +982,8 @@
   {
     "id": "71",
     "title": "OP-01 ROMANCE DAWN booster box Japanese ONE PIECE CARD",
-    "price": 280.18,
-    "original_price": 328.24,
+    "price": 198.71,
+    "original_price": 245.25,
     "image": "/images/fujicards/7d331c294b2c.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -979,7 +991,9 @@
       "Booster Boxes"
     ],
     "rating": 4.7,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:47:34.556Z",
+    "updated_at": "2026-09-18T21:47:34.556Z"
   },
   {
     "id": "72",
@@ -1003,8 +1017,8 @@
   {
     "id": "73",
     "title": "OP-16 The Time of Battle Sealed Case (12 boxes) Japanese ONE PIECE CARD",
-    "price": 1189.4,
-    "original_price": 1391.28,
+    "price": 1050.9,
+    "original_price": 1289.5,
     "image": "/images/fujicards/sc-op-16.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -1012,13 +1026,15 @@
       "Sealed Case"
     ],
     "rating": 4.6,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:34:53.512Z",
+    "updated_at": "2026-09-18T21:34:53.512Z"
   },
   {
     "id": "74",
     "title": "OP-15 Adventure on KAMI’s Island Sealed Case (12 boxes) Japanese ONE PIECE CARD",
-    "price": 1137.49,
-    "original_price": 1330.56,
+    "price": 680,
+    "original_price": 730.47,
     "image": "/images/fujicards/sc-op-15.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -1026,7 +1042,9 @@
       "Sealed Case"
     ],
     "rating": 4.3,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:34:09.766Z",
+    "updated_at": "2026-09-18T21:34:09.766Z"
   },
   {
     "id": "75",
@@ -1115,8 +1133,8 @@
   {
     "id": "81",
     "title": "OP-11 A FIST OF DIVINE SPEED Sealed Case (12 boxes) Japanese ONE PIECE CARD",
-    "price": 2068.09,
-    "original_price": 2419.12,
+    "price": 1789.89,
+    "original_price": 2165.67,
     "image": "/images/fujicards/sc-op-11.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -1124,13 +1142,15 @@
       "Sealed Case"
     ],
     "rating": 4.6,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:53:54.477Z",
+    "updated_at": "2026-09-18T21:53:54.477Z"
   },
   {
     "id": "82",
     "title": "EB-02 Anime 25th collection Sealed Case (12 boxes) Japanese ONE PIECE CARD",
-    "price": 2326.13,
-    "original_price": 2720.96,
+    "price": 1756.79,
+    "original_price": 2259.17,
     "image": "/images/fujicards/sc-eb-02.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -1138,7 +1158,9 @@
       "Sealed Case"
     ],
     "rating": 4.3,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:52:54.595Z",
+    "updated_at": "2026-09-18T21:52:54.595Z"
   },
   {
     "id": "83",
@@ -1241,8 +1263,8 @@
   {
     "id": "90",
     "title": "OP-05 Awakening of the New Era Sealed Case (12 boxes) Japanese ONE PIECE CARD",
-    "price": 4394.23,
-    "original_price": 5140.08,
+    "price": 2279.64,
+    "original_price": 2450.9,
     "image": "/images/fujicards/sc-op-05.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -1250,7 +1272,9 @@
       "Sealed Case"
     ],
     "rating": 4.7,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:50:20.150Z",
+    "updated_at": "2026-09-18T21:50:20.150Z"
   },
   {
     "id": "91",
@@ -1297,8 +1321,8 @@
   {
     "id": "94",
     "title": "OP-01 ROMANCE DAWN Sealed Case (12 boxes) Japanese ONE PIECE CARD",
-    "price": 2688.45,
-    "original_price": 3930.96,
+    "price": 2334.56,
+    "original_price": 2850,
     "image": "/images/fujicards/sc-op-01.webp",
     "category": "Japanese One Piece",
     "categories": [
@@ -1306,7 +1330,9 @@
       "Sealed Case"
     ],
     "rating": 4.4,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-18T21:56:48.974Z",
+    "updated_at": "2026-09-18T21:56:48.974Z"
   },
   {
     "id": "95",
