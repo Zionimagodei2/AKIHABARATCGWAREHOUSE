@@ -6,7 +6,7 @@
       "title": "Japanese Pokémon TCG",
       "subtitle": "Direct from Akihabara — Authentic & Sealed",
       "accent": "New Arrivals",
-      "order": 0,
+      "order": 3,
       "active": true
     },
     {
@@ -15,7 +15,7 @@
       "title": "VSTAR Universe",
       "subtitle": "Rare pulls & exclusive artwork from Japan",
       "accent": "Limited Stock",
-      "order": 1,
+      "order": 4,
       "active": true
     },
     {
@@ -24,7 +24,7 @@
       "title": "Ruler of the Black Flame",
       "subtitle": "Charizard ex & more — Sealed Booster Boxes",
       "accent": "Hot",
-      "order": 2,
+      "order": 6,
       "active": true
     },
     {
@@ -33,7 +33,34 @@
       "title": "Snow Hazard Collection",
       "subtitle": "Complete your Japanese set before they're gone",
       "accent": "Sale",
-      "order": 3,
+      "order": 5,
+      "active": true
+    },
+    {
+      "id": "slide-mubb7qx1",
+      "image": "https://www.fujicardshop.com/wp-content/uploads/2026/04/M6a-bb.jpg",
+      "title": "    Pokémon TCG 30th Celebration",
+      "subtitle": "    The 30th Anniversary Collection Is Now In Stock",
+      "accent": "New",
+      "order": 0,
+      "active": true
+    },
+    {
+      "id": "slide-mubbggs0",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoeKYIGmqYe_QV3VM3jA-gkncu_Xk3Wcy7NZ6WqpjPmw&s",
+      "title": "    ONE PIECE OP-17",
+      "subtitle": "    OP-17 Cases/Booster Boxes In Stock",
+      "accent": "New ",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "slide-mubbkidg",
+      "image": "https://static.wixstatic.com/media/ff3d42_31be6f2a1e994ffcb70426196d71fa13~mv2.webp/v1/fill/w_980,h_980,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ff3d42_31be6f2a1e994ffcb70426196d71fa13~mv2.webp",
+      "title": "    ONE PIECE OP-18",
+      "subtitle": "Pre order ",
+      "accent": "Sealed cases/ Booster boxes",
+      "order": 2,
       "active": true
     }
   ],
