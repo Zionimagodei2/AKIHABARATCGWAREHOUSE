@@ -53,6 +53,7 @@ export interface StoreProduct {
   sku?: string | null;
   source?: string | null;
   featured?: boolean;
+  sort_order?: number;
   created_at?: string;
   updated_at?: string;
 }
@@ -102,6 +103,10 @@ export interface StoreHeroSlide {
   accent: string;
   order: number;
   active: boolean;
+  /** Optional explicit product link — when set, the storefront's
+   *  "Shop Now" button opens this product's page. When empty the
+   *  storefront auto-links by image / set-code / category. */
+  productId?: string | null;
 }
 
 export interface StoreAnnouncement {
@@ -409,13 +414,28 @@ class AdminStore {
   /* ─────────── Products ─────────── */
 
   getEffectiveProducts(): StoreProduct[] {
+    // Adds newer than the baseline — but an add whose id already exists in
+    // the baseline (published earlier, overlay never cleared because the
+    // rebuild poll was interrupted) must REPLACE the baseline row instead
+    // of appearing twice (the source of the historical duplicate rows).
+    const baselineIds = new Set(this.baseline.map((p) => p.id));
+    const staleAdds = this.overlay.adds.filter((a) => baselineIds.has(a.id));
+
     const edited = this.baseline
       .filter((p) => !this.overlay.deletes.includes(p.id))
-      .map((p) => this.overlay.edits[p.id] ?? p);
-    const adds = [...this.overlay.adds].sort((a, b) =>
-      (b.created_at || "").localeCompare(a.created_at || "")
-    );
-    return [...adds, ...edited];
+      .map((p) => {
+        const add = staleAdds.find((a) => a.id === p.id);
+        return add ?? this.overlay.edits[p.id] ?? p;
+      });
+    const freshAdds = [...this.overlay.adds]
+      .filter((a) => !baselineIds.has(a.id))
+      .sort((a, b) => (b.created_at || "").localeCompare(a.created_at || ""));
+
+    const merged = [...freshAdds, ...edited];
+    // Final defense: one row per id (last occurrence wins).
+    const byId = new Map<string, StoreProduct>();
+    for (const p of merged) byId.set(p.id, p);
+    return [...byId.values()];
   }
 
   getProduct(id: string): StoreProduct | undefined {
@@ -451,6 +471,7 @@ class AdminStore {
     featured?: boolean;
     source?: string | null;
     sku?: string | null;
+    sortOrder?: number | null;
   }): StoreProduct {
     const now = new Date().toISOString();
     const categories =
@@ -475,6 +496,10 @@ class AdminStore {
       sku: input.sku?.trim() || null,
       source: input.source?.trim() || null,
       featured: input.featured ?? false,
+      sort_order:
+        input.sortOrder != null && Number.isFinite(input.sortOrder)
+          ? Math.round(input.sortOrder)
+          : undefined,
       created_at: input.id
         ? (this.getProduct(input.id)?.created_at ?? now)
         : now,
@@ -496,6 +521,19 @@ class AdminStore {
       this.overlay.adds.push(record);
     }
     this.persist();
+  }
+
+  /** Set the manual display position of one product (overlay edit).
+   *  `order` = null clears the manual position (back to automatic). */
+  setProductOrder(id: string, order: number | null) {
+    const base = this.getProduct(id);
+    if (!base) return;
+    const rec: StoreProduct = {
+      ...base,
+      sort_order: order == null || !Number.isFinite(order) ? undefined : Math.round(order),
+      updated_at: new Date().toISOString(),
+    };
+    this.applyProductRecord(rec);
   }
 
   patchProduct(id: string, patch: Partial<StoreProduct>) {
@@ -951,7 +989,7 @@ class AdminStore {
 
   /** Build the products.json content to commit (canonical field order). */
   private buildProductsFile(): StoreProduct[] {
-    return this.getEffectiveProducts().map((p) => {
+    const out = this.getEffectiveProducts().map((p) => {
       const rec: Record<string, unknown> = {
         id: p.id,
         title: p.title,
@@ -969,10 +1007,16 @@ class AdminStore {
       if (p.source) rec.source = p.source;
       if (p.review_count) rec.review_count = p.review_count;
       if (p.featured) rec.featured = true;
+      if (p.sort_order != null && Number.isFinite(p.sort_order)) rec.sort_order = Math.round(p.sort_order);
       if (p.created_at) rec.created_at = p.created_at;
       if (p.updated_at) rec.updated_at = p.updated_at;
       return rec as unknown as StoreProduct;
     });
+    // One row per id (last occurrence wins) — the historical duplicate
+    // rows in products.json came from stale overlay adds published twice.
+    const byId = new Map<string, StoreProduct>();
+    for (const rec of out) byId.set(rec.id, rec);
+    return [...byId.values()];
   }
 
   async publishChanges(): Promise<{ ok: boolean; error?: string }> {

@@ -63,6 +63,7 @@ import type {
   StoreHeroSlide,
   StoreAnnouncement,
 } from "@/lib/admin-store";
+import { resolveSlideTarget } from "@/lib/hero-link";
 
 /* ─────────── Types ─────────── */
 
@@ -79,6 +80,9 @@ interface Product {
   rating?: number;
   in_stock?: boolean;
   featured?: boolean;
+  /** Manual display position set from the admin panel (lower = first). */
+  sort_order?: number;
+  slug?: string;
 }
 
 interface CartItem {
@@ -149,6 +153,8 @@ const CATEGORY_TABS = [
   { key: "Other TCG", label: "Other Categories", gradient: "from-purple-500 to-indigo-500", sectionGradient: "from-purple-500/20 to-indigo-500/20" },
 ];
 
+/* Known subcategory display order per category (unknown ones from the
+   catalog are appended automatically — see buildSubcategoryTabs). */
 const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
   "Pokemon": [
     { key: "Sealed Case", label: "Sealed Case" },
@@ -175,6 +181,48 @@ const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
     { key: "Lycee", label: "Lycee" },
   ],
 };
+
+/* ── Dynamic category navigation ──
+   The tabs above are the base; categories the admin creates later
+   (new products carrying an unseen `category`) appear automatically —
+   inserted before "Other Categories" so it stays last. Subcategory
+   tabs follow the catalog the same way. */
+function buildCategoryTabs(products: Product[]): typeof CATEGORY_TABS {
+  const known = CATEGORY_TABS.map((t) => t.key);
+  const inCatalog = new Set<string>();
+  for (const p of products) if (p.category && p.category !== "all") inCatalog.add(p.category);
+  const fresh = [...inCatalog]
+    .filter((c) => !known.includes(c))
+    .sort((a, b) => a.localeCompare(b));
+  if (fresh.length === 0) return CATEGORY_TABS;
+  const base = CATEGORY_TABS.filter((t) => t.key !== "all" && t.key !== "Other TCG");
+  return [
+    CATEGORY_TABS[0],
+    ...base,
+    ...fresh.map((c) => ({
+      key: c,
+      label: c,
+      gradient: "from-teal-500 to-emerald-600",
+      sectionGradient: "from-teal-500/20 to-emerald-600/20",
+    })),
+    CATEGORY_TABS[CATEGORY_TABS.length - 1],
+  ];
+}
+
+function buildSubcategoryTabs(category: string, products: Product[]): { key: string; label: string }[] {
+  const known = SUBCATEGORY_TABS[category] || [];
+  const knownKeys = known.map((s) => s.key.toLowerCase());
+  const inCatalog = new Set<string>();
+  for (const p of products) {
+    if ((p.category || "") !== category) continue;
+    const subs = p.categories && p.categories.length > 1 ? p.categories.slice(1) : p.subcategory ? [p.subcategory] : [];
+    subs.forEach((s) => inCatalog.add(s));
+  }
+  const fresh = [...inCatalog]
+    .filter((s) => !knownKeys.includes(s.toLowerCase()))
+    .sort((a, b) => a.localeCompare(b));
+  return [...known, ...fresh.map((s) => ({ key: s, label: s }))];
+}
 
 const HERO_SLIDES = [
   {
@@ -334,9 +382,13 @@ export default function TCGStore({
     const slides = (storeContent?.heroSlides || [])
       .filter((s) => s.active !== false)
       .sort((a, b) => (a.order || 0) - (b.order || 0))
-      .map((s) => ({ image: s.image, title: s.title, subtitle: s.subtitle, accent: s.accent }));
-    return slides.length > 0 ? slides : HERO_SLIDES;
+      .map((s) => ({ image: s.image, title: s.title, subtitle: s.subtitle, accent: s.accent, productId: s.productId ?? null }));
+    return slides.length > 0 ? slides : HERO_SLIDES.map((s) => ({ ...s, productId: null }));
   }, [storeContent]);
+
+  // Dynamic category tabs — categories created from the admin panel appear
+  // here automatically (inserted before "Other Categories").
+  const categoryTabs = React.useMemo(() => buildCategoryTabs(products), [products]);
 
   const announcementMessages = React.useMemo(() => {
     const msgs = (storeContent?.announcements || [])
@@ -506,9 +558,13 @@ export default function TCGStore({
       case "name-desc": filtered = [...filtered].sort((a, b) => b.title.localeCompare(a.title)); break;
       case "rating": filtered = [...filtered].sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0)); break;
       default:
-        // Featured/default: admin-featured products first, then category
+        // Featured/default: manual position (sort_order, set from the
+        // admin panel) first, then admin-featured products, category
         // priority, series prefix, series number (descending), then rating
         filtered = [...filtered].sort((a, b) => {
+          const oa = typeof a.sort_order === "number" ? a.sort_order : Number.MAX_SAFE_INTEGER;
+          const ob = typeof b.sort_order === "number" ? b.sort_order : Number.MAX_SAFE_INTEGER;
+          if (oa !== ob) return oa - ob;              // Manual position first
           const fa = a.featured === true ? 0 : 1;
           const fb = b.featured === true ? 0 : 1;
           if (fa !== fb) return fa - fb;
@@ -755,12 +811,12 @@ export default function TCGStore({
               <span className="hidden lg:inline-flex items-center pr-2 text-[10px] font-bold uppercase tracking-[0.18em] text-violet-400 shrink-0 select-none">
                 Categories
               </span>
-              {CATEGORY_TABS.map((tab) => {
-                const subs = SUBCATEGORY_TABS[tab.key];
+              {categoryTabs.map((tab) => {
+                const subs = buildSubcategoryTabs(tab.key, products);
                 const hasDropdown = !!subs && subs.length > 0;
                 const isDropdownOpen = openCatDropdown === tab.key;
                 const isActive = currentPage === "shop" && selectedCategory === tab.key;
-                const isLast = tab.key === CATEGORY_TABS[CATEGORY_TABS.length - 1].key;
+                const isLast = tab.key === categoryTabs[categoryTabs.length - 1].key;
 
                 if (!hasDropdown) {
                   return (
@@ -851,7 +907,7 @@ export default function TCGStore({
             {/* Mobile (<md): subcategories expand IN-FLOW below the pills row
                 as a wrapping pill panel — always inside the viewport, never an
                 absolutely-positioned card sliding off the screen edge. */}
-            {openCatDropdown && SUBCATEGORY_TABS[openCatDropdown] && (
+            {openCatDropdown && buildSubcategoryTabs(openCatDropdown, products).length > 0 && (
               <div className="md:hidden flex flex-wrap gap-1.5 px-1 pt-2 pb-2.5 border-t border-purple-100/60">
                 <button
                   onClick={() => handleSubcategoryNav(openCatDropdown, "all")}
@@ -861,9 +917,9 @@ export default function TCGStore({
                       : "bg-white/80 text-gray-600 hover:bg-purple-100 hover:text-purple-900 border-purple-100"
                   }`}
                 >
-                  All {CATEGORY_TABS.find((t) => t.key === openCatDropdown)?.label}
+                  All {categoryTabs.find((t) => t.key === openCatDropdown)?.label}
                 </button>
-                {SUBCATEGORY_TABS[openCatDropdown].map((sub) => (
+                {buildSubcategoryTabs(openCatDropdown, products).map((sub) => (
                   <button
                     key={sub.key}
                     onClick={() => handleSubcategoryNav(openCatDropdown, sub.key)}
@@ -1008,7 +1064,7 @@ export default function TCGStore({
                   { key: "Japanese One Piece", label: "Japanese One Piece Cards", short: "Japanese One Piece", href: "/one-piece-cards" },
                   { key: "Other TCG", label: "Weiss Schwarz, Union Arena & More", short: "Other TCG", href: "/japanese-tcg" },
                 ].map((cat) => {
-                  const subs = SUBCATEGORY_TABS[cat.key] || [];
+                  const subs = buildSubcategoryTabs(cat.key, products);
                   const isFooterOpen = openFooterCat === cat.key;
                   return (
                     <li key={cat.key}>
@@ -1236,13 +1292,36 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
   scrollToSection: (id: string) => void;
   productsByCategory: Record<string, Product[]>;
   visibleCount: number; setVisibleCount: (v: number) => void;
-  heroSlides: { image: string; title: string; subtitle: string; accent: string }[];
+  heroSlides: { image: string; title: string; subtitle: string; accent: string; productId?: string | null }[];
 }) {
   // Determine if we show the homepage category showcase or the full product grid
   const isHomepageView = selectedCategory === "all" && !searchQuery.trim();
 
+  // Dynamic tabs (admin-created categories/subcategories appear automatically)
+  const categoryTabs = buildCategoryTabs(products);
   // Category display order
-  const categoryOrder = CATEGORY_TABS.filter(t => t.key !== "all").map(t => t.key);
+  const categoryOrder = categoryTabs.filter(t => t.key !== "all").map(t => t.key);
+
+  // Where "Shop Now" takes the customer for the slide on screen:
+  // linked product page → product detail page; else matching category →
+  // category view; else the classic scroll to the products grid. Fully
+  // automatic — re-resolved on every render against the live catalog.
+  const heroTarget = heroSlides[heroIndex]
+    ? resolveSlideTarget(heroSlides[heroIndex], products)
+    : null;
+  const handleShopNow = () => {
+    if (heroTarget?.kind === "product") {
+      window.location.href = `/product/${heroTarget.slug}`;
+      return;
+    }
+    if (heroTarget?.kind === "category") {
+      setSelectedCategory(heroTarget.category);
+      setSelectedSubcategory(heroTarget.subcategory || "all");
+      scrollToSection("products");
+      return;
+    }
+    scrollToSection("products");
+  };
 
   return (
     <>
@@ -1275,7 +1354,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                     <p className="text-[14px] sm:text-[16px] text-gray-200 mb-6 max-w-md leading-relaxed">
                       {heroSlides[heroIndex].subtitle}
                     </p>
-                    <Button onClick={() => scrollToSection("products")} className="bg-gradient-to-r from-purple-600 to-violet-500 hover:from-purple-700 hover:to-violet-600 text-white font-bold px-8 py-3 text-[14px] shadow-lg shadow-purple-500/40 transition-all duration-300 hover:shadow-xl hover:shadow-purple-500/50 hover:-translate-y-0.5 btn-gradient-purple">
+                    <Button onClick={handleShopNow} className="bg-gradient-to-r from-purple-600 to-violet-500 hover:from-purple-700 hover:to-violet-600 text-white font-bold px-8 py-3 text-[14px] shadow-lg shadow-purple-500/40 transition-all duration-300 hover:shadow-xl hover:shadow-purple-500/50 hover:-translate-y-0.5 btn-gradient-purple">
                       Shop Now →
                     </Button>
                   </div>
@@ -1376,7 +1455,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
           {/* Category tabs now live in the header (see the header category bar) */}
 
           {/* Sub-Category Tabs */}
-          {!isHomepageView && selectedCategory !== "all" && SUBCATEGORY_TABS[selectedCategory] && (
+          {!isHomepageView && selectedCategory !== "all" && buildSubcategoryTabs(selectedCategory, products).length > 0 && (
             <div className="-mx-4 px-4 overflow-x-auto scrollbar-none">
               <div className="flex gap-2 pb-2 min-w-max">
                 <button
@@ -1389,7 +1468,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 >
                   All
                 </button>
-                {SUBCATEGORY_TABS[selectedCategory].map((sub) => (
+                {buildSubcategoryTabs(selectedCategory, products).map((sub) => (
                   <button
                     key={sub.key}
                     onClick={() => setSelectedSubcategory(sub.key)}
@@ -1409,7 +1488,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
           {!isHomepageView && (
             <div className="flex items-center justify-between">
               <p className="text-[12px] text-gray-300">
-                {filteredProducts.length} products{selectedCategory !== "all" ? ` in ${CATEGORY_TABS.find((t) => t.key === selectedCategory)?.label}` : ""}
+                {filteredProducts.length} products{selectedCategory !== "all" ? ` in ${categoryTabs.find((t) => t.key === selectedCategory)?.label}` : ""}
               </p>
               <Select value={sortOption} onValueChange={(v) => setSortOption(v as SortOption)}>
                 <SelectTrigger className="w-44 h-9 text-[12px] border-gray-200 bg-white">
@@ -1453,7 +1532,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
             categoryOrder.map((catKey) => {
               const catProducts = productsByCategory[catKey];
               if (!catProducts || catProducts.length === 0) return null;
-              const catTab = CATEGORY_TABS.find(t => t.key === catKey);
+              const catTab = categoryTabs.find(t => t.key === catKey);
               const catLabel = catTab?.label || catKey;
               const catGradient = catTab?.gradient || "from-purple-500 to-indigo-500";
               const totalInCat = catProducts.length;
@@ -1485,6 +1564,10 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
               };
               const displayProducts = [...catProducts]
                 .sort((a, b) => {
+                  // Manual position (admin "Position" field) takes priority
+                  const oa = typeof a.sort_order === "number" ? a.sort_order : Number.MAX_SAFE_INTEGER;
+                  const ob = typeof b.sort_order === "number" ? b.sort_order : Number.MAX_SAFE_INTEGER;
+                  if (oa !== ob) return oa - ob;
                   const pa = getCatPriority(a);
                   const pb = getCatPriority(b);
                   if (pa !== pb) return pa - pb;

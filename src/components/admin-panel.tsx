@@ -52,6 +52,8 @@ import {
   PackageCheck,
   Lock,
   ShieldCheck,
+  ArrowUp,
+  ArrowDown,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -123,6 +125,7 @@ import {
   type StoreContent,
   type TokenStatus,
 } from "@/lib/admin-store";
+import { resolveSlideTarget } from "@/lib/hero-link";
 
 /* ─────────── Types ─────────── */
 
@@ -149,6 +152,8 @@ interface Product {
   featured: boolean;
   source: string | null;
   sku: string | null;
+  /** Manual display position — lower shows first on the store. */
+  sortOrder: number | null;
   createdAt: string;
   updatedAt: string;
 }
@@ -221,6 +226,8 @@ interface HeroSlide {
   accent: string;
   order: number;
   active: boolean;
+  /** Explicit "Shop Now" product link — empty = automatic detection. */
+  productId: string | null;
   createdAt: string;
   updatedAt: string;
 }
@@ -275,6 +282,10 @@ function mapProductFromApi(row: Record<string, unknown>): Product {
     featured: (row.featured as boolean) ?? false,
     source: (row.source as string) ?? null,
     sku: (row.sku as string) ?? null,
+    sortOrder:
+      (row.sortOrder as number) ??
+      (row.sort_order as number) ??
+      (typeof row.sort_order === "number" ? row.sort_order : null),
     createdAt: (row.createdAt as string) ?? (row.created_at as string) ?? "",
     updatedAt: (row.updatedAt as string) ?? (row.updated_at as string) ?? "",
   };
@@ -317,6 +328,7 @@ function mapHeroSlideFromApi(row: Record<string, unknown>): HeroSlide {
     accent: row.accent as string,
     order: (row.order as number) ?? 0,
     active: (row.active as boolean) ?? true,
+    productId: (row.productId as string | null) ?? (row.product_id as string | null) ?? null,
     createdAt: (row.createdAt as string) ?? (row.created_at as string) ?? "",
     updatedAt: (row.updatedAt as string) ?? (row.updated_at as string) ?? "",
   };
@@ -369,6 +381,11 @@ function safeParseJSON(val: unknown): string[] {
     }
   }
   return [];
+}
+
+/** Simple id-safe slug for form element ids. */
+function slugish(s: string): string {
+  return String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-");
 }
 
 /* ─────────── Helpers ─────────── */
@@ -495,7 +512,13 @@ export default function AdminPanel() {
   const [pfFeatured, setPfFeatured] = useState(false);
   const [pfSource, setPfSource] = useState("");
   const [pfSku, setPfSku] = useState("");
+  const [pfSortOrder, setPfSortOrder] = useState("");
+  // New-category creation (product form) — null = input hidden
+  const [pfNewCategory, setPfNewCategory] = useState<string | null>(null);
+  const [pfNewSubcategory, setPfNewSubcategory] = useState<string | null>(null);
   const [pfSaving, setPfSaving] = useState(false);
+  // Quick reorder (products table)
+  const [reorderBusy, setReorderBusy] = useState(false);
 
   // Orders
   const [orders, setOrders] = useState<Order[]>([]);
@@ -547,6 +570,8 @@ export default function AdminPanel() {
   const [slideFormAccent, setSlideFormAccent] = useState("");
   const [slideFormOrder, setSlideFormOrder] = useState(0);
   const [slideFormActive, setSlideFormActive] = useState(true);
+  const [slideFormProductId, setSlideFormProductId] = useState("");
+  const [slideProductSearch, setSlideProductSearch] = useState("");
   const [announcementDialogOpen, setAnnouncementDialogOpen] = useState(false);
   const [editingAnnouncement, setEditingAnnouncement] = useState<Announcement | null>(null);
   const [deleteAnnouncementDialog, setDeleteAnnouncementDialog] = useState<Announcement | null>(null);
@@ -748,6 +773,14 @@ export default function AdminPanel() {
           return subs.includes(sub);
         });
       }
+
+      // Default listing order mirrors the storefront: manual position
+      // (sort_order) first, then natural catalog order.
+      filtered = [...filtered].sort((a, b) => {
+        const oa = a.sortOrder ?? Number.MAX_SAFE_INTEGER;
+        const ob = b.sortOrder ?? Number.MAX_SAFE_INTEGER;
+        return oa !== ob ? oa - ob : 0;
+      });
 
       const start = (productsPage - 1) * pageSize;
       setProducts(filtered.slice(start, start + pageSize));
@@ -962,6 +995,9 @@ export default function AdminPanel() {
     setPfFeatured(false);
     setPfSource("");
     setPfSku("");
+    setPfSortOrder("");
+    setPfNewCategory("");
+    setPfNewSubcategory("");
     setEditingProduct(null);
   };
 
@@ -980,6 +1016,9 @@ export default function AdminPanel() {
     setPfFeatured(product.featured);
     setPfSource(product.source || "");
     setPfSku(product.sku || "");
+    setPfSortOrder(product.sortOrder != null ? String(product.sortOrder) : "");
+    setPfNewCategory("");
+    setPfNewSubcategory("");
     setProductDialogOpen(true);
   };
 
@@ -1027,6 +1066,7 @@ export default function AdminPanel() {
         featured: pfFeatured,
         source: pfSource || null,
         sku: pfSku || null,
+        sortOrder: pfSortOrder.trim() !== "" ? parseInt(pfSortOrder, 10) : null,
       });
 
       toast({
@@ -1068,6 +1108,56 @@ export default function AdminPanel() {
     if (copy) {
       toast({ title: "Product duplicated", description: `${product.title} (Copy) created` });
       fetchProducts();
+    }
+  };
+
+  /* ── Manual display order (per category) ──
+     Active when a specific category (or subcategory) filter is selected.
+     Moving a row reindexes that whole filtered list 1..N so positions
+     stay dense — the store shows lower numbers first everywhere. */
+  const moveProductOrder = async (product: Product, dir: -1 | 1) => {
+    if (!productCategory) {
+      toast({
+        title: "Pick a category first",
+        description: "Choose a category (or subcategory) filter above — the arrows then order products within it.",
+        variant: "destructive",
+      });
+      return;
+    }
+    if (reorderBusy) return;
+    setReorderBusy(true);
+    try {
+      await adminStore.ready();
+      const [cat, sub] = productCategory.split("||");
+      const list = adminStore
+        .getEffectiveProducts()
+        .map((p) => mapProductFromApi(p as unknown as Record<string, unknown>))
+        .filter((p) => {
+          if (p.category !== cat) return false;
+          if (!sub) return true;
+          const subs = p.categories.length > 1 ? p.categories.slice(1) : [];
+          return subs.includes(sub);
+        });
+      // Current display order: manual sort_order first (stable on ties)
+      const ordered = [...list].sort((a, b) => {
+        const oa = a.sortOrder ?? Number.MAX_SAFE_INTEGER;
+        const ob = b.sortOrder ?? Number.MAX_SAFE_INTEGER;
+        return oa !== ob ? oa - ob : 0;
+      });
+      const idx = ordered.findIndex((p) => p.id === product.id);
+      const swapWith = idx + dir;
+      if (idx < 0 || swapWith < 0 || swapWith >= ordered.length) return;
+      [ordered[idx], ordered[swapWith]] = [ordered[swapWith], ordered[idx]];
+      ordered.forEach((p, i) => {
+        if ((p.sortOrder ?? null) !== i + 1) adminStore.setProductOrder(p.id, i + 1);
+      });
+      toast({
+        title: "Order updated",
+        description: `“${product.title}” moved ${dir === -1 ? "up" : "down"} in ${sub || cat} — publish to make it live`,
+      });
+      fetchProducts();
+    } finally {
+      setReorderBusy(false);
     }
   };
 
@@ -1348,6 +1438,8 @@ export default function AdminPanel() {
     setSlideFormAccent("");
     setSlideFormOrder(0);
     setSlideFormActive(true);
+    setSlideFormProductId("");
+    setSlideProductSearch("");
     setEditingSlide(null);
   };
 
@@ -1359,6 +1451,8 @@ export default function AdminPanel() {
     setSlideFormAccent(slide.accent);
     setSlideFormOrder(slide.order);
     setSlideFormActive(slide.active);
+    setSlideFormProductId(slide.productId || "");
+    setSlideProductSearch("");
     setSlideDialogOpen(true);
   };
 
@@ -1378,6 +1472,7 @@ export default function AdminPanel() {
         accent: slideFormAccent,
         order: slideFormOrder,
         active: slideFormActive,
+        productId: slideFormProductId || null,
       };
       const slides = editingSlide
         ? content.heroSlides.map((s) => (s.id === editingSlide.id ? slide : s))
@@ -2303,6 +2398,7 @@ export default function AdminPanel() {
                       <TableHead>Price</TableHead>
                       <TableHead className="hidden sm:table-cell">Stock</TableHead>
                       <TableHead className="hidden lg:table-cell">Featured</TableHead>
+                      <TableHead className="hidden md:table-cell w-24">Order</TableHead>
                       <TableHead className="w-24">Actions</TableHead>
                     </TableRow>
                   </TableHeader>
@@ -2317,6 +2413,37 @@ export default function AdminPanel() {
                               onCheckedChange={() => toggleProductSelection(product.id)}
                               aria-label={`Select ${product.title}`}
                             />
+                          </TableCell>
+                          <TableCell className="hidden md:table-cell">
+                            <div className="flex items-center gap-1">
+                              {product.sortOrder != null ? (
+                                <span className="inline-flex items-center justify-center size-5 rounded-full bg-purple-100 text-[10px] font-bold text-purple-800" title={`Shows at position ${product.sortOrder}`}>
+                                  {product.sortOrder}
+                                </span>
+                              ) : (
+                                <span className="text-[10px] text-gray-300" title="Automatic order">auto</span>
+                              )}
+                              <button
+                                type="button"
+                                disabled={reorderBusy || !productCategory}
+                                onClick={() => moveProductOrder(product, -1)}
+                                className="p-1 rounded hover:bg-purple-100 disabled:opacity-30 disabled:cursor-not-allowed text-gray-500 hover:text-purple-700"
+                                title={productCategory ? `Move “${product.title}” earlier (shows first)` : "Select a category filter to enable ordering"}
+                                aria-label="Move earlier"
+                              >
+                                <ArrowUp size={13} />
+                              </button>
+                              <button
+                                type="button"
+                                disabled={reorderBusy || !productCategory}
+                                onClick={() => moveProductOrder(product, 1)}
+                                className="p-1 rounded hover:bg-purple-100 disabled:opacity-30 disabled:cursor-not-allowed text-gray-500 hover:text-purple-700"
+                                title={productCategory ? `Move “${product.title}” later (shows last)` : "Select a category filter to enable ordering"}
+                                aria-label="Move later"
+                              >
+                                <ArrowDown size={13} />
+                              </button>
+                            </div>
                           </TableCell>
                           <TableCell>
                             <div className="size-12 rounded-md overflow-hidden bg-gray-100">
@@ -2564,45 +2691,151 @@ export default function AdminPanel() {
             {/* Category */}
             <div className="space-y-2">
               <Label>Primary Category *</Label>
-              <Select value={pfCategory} onValueChange={setPfCategory}>
-                <SelectTrigger>
-                  <SelectValue placeholder="Select a category" />
-                </SelectTrigger>
-                <SelectContent>
-                  {buildCategoryOptions().filter((o) => !o.isSub).map((opt) => (
-                    <SelectItem key={opt.value} value={opt.value}>{opt.label}</SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
+              <div className="flex gap-2">
+                <Select value={buildCategoryOptions().some((o) => !o.isSub && o.value === pfCategory) ? pfCategory : (pfCategory ? "__custom__" : "")} onValueChange={(v) => { if (v !== "__custom__") setPfCategory(v); }}>
+                  <SelectTrigger>
+                    <SelectValue placeholder="Select a category" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    {buildCategoryOptions().filter((o) => !o.isSub).map((opt) => (
+                      <SelectItem key={opt.value} value={opt.value}>{opt.label}</SelectItem>
+                    ))}
+                    {pfCategory && !buildCategoryOptions().some((o) => !o.isSub && o.value === pfCategory) && (
+                      <SelectItem value="__custom__">{pfCategory} (new)</SelectItem>
+                    )}
+                  </SelectContent>
+                </Select>
+                <Button
+                  type="button"
+                  variant="outline"
+                  className="shrink-0"
+                  onClick={() => setPfNewCategory(pfNewCategory === null ? "" : null)}
+                >
+                  <Plus size={14} className="mr-1" /> New
+                </Button>
+              </div>
+              {pfNewCategory !== null && (
+                <div className="flex gap-2">
+                  <Input
+                    autoFocus
+                    placeholder="New category name (e.g. English Pokémon)"
+                    value={pfNewCategory}
+                    onChange={(e) => setPfNewCategory(e.target.value)}
+                    onKeyDown={(e) => {
+                      if (e.key === "Enter" && pfNewCategory.trim()) {
+                        e.preventDefault();
+                        setPfCategory(pfNewCategory.trim());
+                        setPfCategories([pfNewCategory.trim()]);
+                        setPfNewCategory(null);
+                      }
+                    }}
+                  />
+                  <Button
+                    type="button"
+                    disabled={!pfNewCategory.trim()}
+                    onClick={() => {
+                      setPfCategory(pfNewCategory.trim());
+                      setPfCategories([pfNewCategory.trim()]);
+                      setPfNewCategory(null);
+                    }}
+                  >
+                    Create
+                  </Button>
+                </div>
+              )}
+              {pfCategory && !buildCategoryOptions().some((o) => !o.isSub && o.value === pfCategory) && (
+                <p className="text-[11px] text-emerald-700">
+                  New category “{pfCategory}” — it gets its own tab on the store once you save & publish.
+                </p>
+              )}
             </div>
 
             {/* Subcategory */}
             <div className="space-y-2">
-              <Label>Subcategory</Label>
-              <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
-                {buildCategoryOptions()
-                  .filter((o) => o.isSub && pfCategory && o.value.startsWith(`${pfCategory}||`))
-                  .map((opt) => {
-                    const sub = opt.label.replace("▸ ", "");
-                    return (
-                      <div key={opt.value} className="flex items-center gap-2">
-                        <Checkbox
-                          id={`sub-${opt.value}`}
-                          checked={pfCategories.includes(sub)}
-                          onCheckedChange={(checked) => {
-                            if (checked) {
-                              setPfCategories([pfCategory, ...pfCategories.filter((c) => c !== pfCategory), sub]);
-                            } else {
-                              setPfCategories(pfCategories.filter((c) => c !== sub));
-                            }
-                          }}
-                        />
-                        <Label htmlFor={`sub-${opt.value}`} className="text-xs font-normal cursor-pointer">{sub}</Label>
-                      </div>
-                    );
-                  })}
+              <div className="flex items-center justify-between">
+                <Label>Subcategory</Label>
+                <Button
+                  type="button"
+                  variant="ghost"
+                  size="sm"
+                  className="h-7 text-[11px] px-2"
+                  onClick={() => setPfNewSubcategory(pfNewSubcategory === null ? "" : null)}
+                >
+                  <Plus size={12} className="mr-1" /> New subcategory
+                </Button>
               </div>
+              <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                {(() => {
+                  const existingSubs = buildCategoryOptions()
+                    .filter((o) => o.isSub && pfCategory && o.value.startsWith(`${pfCategory}||`))
+                    .map((opt) => opt.label.replace("▸ ", ""));
+                  // Subcategories already on the product but not yet in the
+                  // catalog options (just-created ones) must stay visible.
+                  const assigned = pfCategories.filter(
+                    (c) => c !== pfCategory && !existingSubs.includes(c)
+                  );
+                  return [...existingSubs, ...assigned].map((sub) => (
+                    <div key={sub} className="flex items-center gap-2">
+                      <Checkbox
+                        id={`sub-${slugish(sub)}`}
+                        checked={pfCategories.includes(sub)}
+                        onCheckedChange={(checked) => {
+                          if (checked) {
+                            setPfCategories([pfCategory, ...pfCategories.filter((c) => c !== pfCategory), sub]);
+                          } else {
+                            setPfCategories(pfCategories.filter((c) => c !== sub));
+                          }
+                        }}
+                      />
+                      <Label htmlFor={`sub-${slugish(sub)}`} className="text-xs font-normal cursor-pointer">{sub}</Label>
+                    </div>
+                  ));
+                })()}
+              </div>
+              {pfNewSubcategory !== null && (
+                <div className="flex gap-2">
+                  <Input
+                    autoFocus
+                    placeholder={`New subcategory under “${pfCategory || "category"}”`}
+                    value={pfNewSubcategory}
+                    onChange={(e) => setPfNewSubcategory(e.target.value)}
+                    onKeyDown={(e) => {
+                      if (e.key === "Enter" && pfNewSubcategory.trim() && pfCategory) {
+                        e.preventDefault();
+                        setPfCategories([pfCategory, ...pfCategories.filter((c) => c !== pfCategory), pfNewSubcategory.trim()]);
+                        setPfNewSubcategory(null);
+                      }
+                    }}
+                  />
+                  <Button
+                    type="button"
+                    disabled={!pfNewSubcategory.trim() || !pfCategory}
+                    onClick={() => {
+                      setPfCategories([pfCategory, ...pfCategories.filter((c) => c !== pfCategory), pfNewSubcategory.trim()]);
+                      setPfNewSubcategory(null);
+                    }}
+                  >
+                    Add
+                  </Button>
+                </div>
+              )}
               <p className="text-[11px] text-gray-400">The subcategory controls which filter tab the product appears under on the store.</p>
+            </div>
+
+            {/* Display position */}
+            <div className="space-y-2">
+              <Label htmlFor="pf-sort-order">Display Position (optional)</Label>
+              <Input
+                id="pf-sort-order"
+                type="number"
+                placeholder="Auto"
+                value={pfSortOrder}
+                onChange={(e) => setPfSortOrder(e.target.value)}
+              />
+              <p className="text-[11px] text-gray-400">
+                Lower number shows first (1 = first, 2 = second…). Leave empty for automatic ordering.
+                Applies everywhere the product appears — homepage sections, category pages and the shop grid.
+              </p>
             </div>
 
             {/* Rating */}
@@ -3702,6 +3935,17 @@ export default function AdminPanel() {
                         </div>
                         <h3 className="font-semibold text-sm">{slide.title}</h3>
                         <p className="text-sm text-gray-500 mt-0.5">{slide.subtitle}</p>
+                        <p className="text-[11px] mt-1.5 text-purple-800 bg-purple-50 border border-purple-100 rounded px-2 py-1 inline-block">
+                          {(() => {
+                            const target = resolveSlideTarget(
+                              slide,
+                              adminStore.getEffectiveProducts() as unknown as Parameters<typeof resolveSlideTarget>[1]
+                            );
+                            if (target?.kind === "product") return `Shop Now → product page: ${target.product.title}`;
+                            if (target?.kind === "category") return `Shop Now → ${target.category}${target.subcategory ? ` ▸ ${target.subcategory}` : ""} category`;
+                            return "Shop Now → product grid (no matching product/category yet)";
+                          })()}
+                        </p>
                       </div>
                       <div className="flex items-center gap-2 mt-3">
                         <Button variant="outline" size="sm" onClick={() => openEditSlide(slide)}>
@@ -3799,6 +4043,63 @@ export default function AdminPanel() {
                 <Label>Order</Label>
                 <Input type="number" value={slideFormOrder} onChange={(e) => setSlideFormOrder(parseInt(e.target.value) || 0)} />
               </div>
+            </div>
+            {/* Shop Now destination */}
+            <div className="space-y-2 p-3 rounded-lg border border-purple-100 bg-purple-50/40">
+              <Label className="text-sm font-medium">Shop Now links to (optional)</Label>
+              <Input
+                placeholder="Type to search a product…"
+                value={slideProductSearch}
+                onChange={(e) => {
+                  setSlideProductSearch(e.target.value);
+                  setSlideFormProductId("");
+                }}
+              />
+              <div className="max-h-40 overflow-y-auto rounded-md border bg-white divide-y">
+                {(slideProductSearch.trim()
+                  ? adminStore.getEffectiveProducts().filter((p) =>
+                      p.title.toLowerCase().includes(slideProductSearch.trim().toLowerCase())
+                    )
+                  : []
+                )
+                  .slice(0, 20)
+                  .map((p) => (
+                    <button
+                      key={p.id}
+                      type="button"
+                      onClick={() => {
+                        setSlideFormProductId(p.id);
+                        setSlideProductSearch(p.title);
+                      }}
+                      className={`flex w-full items-center gap-2 px-2 py-1.5 text-left text-xs hover:bg-purple-50 ${slideFormProductId === p.id ? "bg-purple-100" : ""}`}
+                    >
+                      <span className="size-8 rounded overflow-hidden bg-gray-100 shrink-0">
+                        {p.image && <Image src={p.image} alt="" width={32} height={32} className="size-full object-cover" unoptimized />}
+                      </span>
+                      <span className="min-w-0 flex-1 truncate">{p.title}</span>
+                      {slideFormProductId === p.id && <span className="text-[10px] font-bold text-purple-700 shrink-0">LINKED</span>}
+                    </button>
+                  ))}
+                {slideProductSearch.trim() &&
+                  adminStore.getEffectiveProducts().filter((p) =>
+                    p.title.toLowerCase().includes(slideProductSearch.trim().toLowerCase())
+                  ).length === 0 && (
+                    <p className="px-2 py-2 text-xs text-gray-400">No product matches — leave empty for automatic linking.</p>
+                  )}
+              </div>
+              {slideFormProductId ? (
+                <p className="text-[11px] text-purple-800">
+                  Shop Now opens this product&apos;s page.{" "}
+                  <button type="button" className="underline" onClick={() => { setSlideFormProductId(""); setSlideProductSearch(""); }}>
+                    Clear
+                  </button>
+                </p>
+              ) : (
+                <p className="text-[11px] text-gray-500">
+                  Empty = automatic: the store links the slide to a product with the same image or a set code in the title
+                  (e.g. &quot;OP-18&quot;), or to the matching category.
+                </p>
+              )}
             </div>
             <div className="flex items-center justify-between p-3 rounded-lg border">
               <div>
