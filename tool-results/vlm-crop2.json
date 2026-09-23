@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The text in the white rounded speech-bubble tooltip reads: **\"Questions? We reply fast on WhatsApp\"**\n\n**Position relative to the green WhatsApp button:** The tooltip is positioned **directly above** the green \"Chat with us\" button, with a small gap between them. It appears to be centered horizontally over the top portion of the green button.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1790199986,
+  "id": "202609240546248ba40b75edb94322",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "202609240546248ba40b75edb94322",
+  "usage": {
+    "completion_tokens": 73,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 296,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 369
+  }
+}
