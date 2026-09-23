@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Based on the image, here is a description of the order confirmation page:\n\n**Headline**\nThe main headline is **\"One Last Step — Send on WhatsApp\"**.\n\n**Prominent Green WhatsApp Button**\nYes, there is a prominent green button. It is labeled **\"Send Order on WhatsApp\"** and features the WhatsApp phone icon. Below the button, there is smaller text that reads: \"Opens WhatsApp with your order details pre-filled — just press Send.\"\n\n**Secondary Options**\nBelow the main WhatsApp button, there are two other options presented side-by-side:\n*   A purple button labeled **\"Confirm Via Email\"**\n*   An empty or light-colored input field/button (likely for entering an email address)\n\nAdditionally, at the bottom of the section, there is another purple button labeled **\"Continue Shopping\"**.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1790200829,
+  "id": "2026092406002530873bfa396b49fc",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "2026092406002530873bfa396b49fc",
+  "usage": {
+    "completion_tokens": 168,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 1445,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1613
+  }
+}
