@@ -20,12 +20,13 @@
     },
     {
       "id": "slide-mubbkidg",
-      "image": "https://static.wixstatic.com/media/ff3d42_31be6f2a1e994ffcb70426196d71fa13~mv2.webp/v1/fill/w_980,h_980,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ff3d42_31be6f2a1e994ffcb70426196d71fa13~mv2.webp",
+      "image": "https://grailborne.com.au/cdn/shop/files/one-piece-card-game-op-18-the-dominance-of-god-booster-box-english.png?v=1789892503&width=900",
       "title": "    ONE PIECE OP-18",
       "subtitle": "Pre order ",
       "accent": "Sealed cases/ Booster boxes",
       "order": 2,
-      "active": true
+      "active": true,
+      "productId": null
     }
   ],
   "announcements": [
