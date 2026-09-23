@@ -4828,5 +4828,41 @@
     "description": "Buy EB-03 One Piece Heroines Edition English Booster Box for the ONE PIECE CARD GAME. This English One Piece Extra Booster box is a sealed product for collectors, players, breakers, TCG stores and resellers. Expand your One Piece TCG collection by opening sealed booster packs from the One Piece Heroines Edition, or keep the box sealed for your collection. Perfect for customers searching for English One Piece booster boxes and Extra Booster products. Secure packaging and worldwide tracked shipping are available.",
     "created_at": "2026-09-19T02:07:39.305Z",
     "updated_at": "2026-09-19T02:34:58.563Z"
+  },
+  {
+    "id": "275",
+    "title": "OP-18 The Dominance of God Booster Box English ONE PIECE CARD",
+    "price": 389.99,
+    "original_price": 439.99,
+    "image": "/images/onepiece-english/op-18-bb.webp",
+    "category": "English One Piece",
+    "categories": [
+      "English One Piece",
+      "Booster Boxes"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "description": "Pre-order the OP-18 The Dominance of God English Booster Box for the ONE PIECE CARD GAME. The Dominance of God is the eighteenth main expansion, following OP-17 The World's Strongest Warriors, and is one of the most anticipated English One Piece releases of 2026. Each factory-sealed booster box contains 24 booster packs pulling you into the God's Knights storyline with a brand-new theme, leader cards and alt-art chase cards. This is a pre-order product: the official English release is estimated for November 2026 and orders ship as soon as stock arrives from Bandai. Ideal for collectors, players, TCG stores, breakers and resellers searching for the latest English One Piece booster products. Reserve your OP-18 booster box now to lock in launch allocation. Authentic Bandai product, secure packaging and worldwide tracked shipping.",
+    "created_at": "2026-09-23T21:26:13.659Z",
+    "updated_at": "2026-09-23T21:26:13.659Z",
+    "sort_order": 1
+  },
+  {
+    "id": "276",
+    "title": "OP-18 The Dominance of God Sealed Case (12 Boxes) – English ONE PIECE CARD",
+    "price": 4299.0,
+    "original_price": 4699.0,
+    "image": "/images/onepiece-english/op-18-sc.webp",
+    "category": "English One Piece",
+    "categories": [
+      "English One Piece",
+      "Sealed Case"
+    ],
+    "rating": 4.5,
+    "in_stock": true,
+    "description": "Pre-order the OP-18 The Dominance of God Sealed Case - a factory-sealed English ONE PIECE CARD GAME case containing 12 booster boxes (288 booster packs total) from The Dominance of God expansion, the eighteenth main set of the One Piece Card Game. Buying by the case is the best way to guarantee launch-day allocation for this high-demand November 2026 release, and factory-sealed cases are the preferred format for collectors, TCG stores, breakers and resellers looking to purchase sealed English One Piece booster boxes in bulk. Open packs, build a complete master set or hold sealed inventory for resale. This is a pre-order product: the official English release is estimated for November 2026 and orders ship as soon as stock arrives from Bandai. Shop authentic English One Piece products with secure packaging, tracked worldwide shipping and competitive supplier pricing.",
+    "created_at": "2026-09-23T21:26:13.659Z",
+    "updated_at": "2026-09-23T21:26:13.659Z",
+    "sort_order": 2
   }
 ]
