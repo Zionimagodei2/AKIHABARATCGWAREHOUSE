@@ -10,6 +10,7 @@ interface OrderItemInput {
 }
 
 interface CreateOrderBody {
+  orderId?: string
   customerName?: string
   customerEmail?: string
   customerPhone?: string
@@ -37,8 +38,9 @@ export async function POST(request: NextRequest) {
     // Calculate total
     const total = body.items.reduce((sum, item) => sum + Number(item.price) * Number(item.quantity), 0)
 
-    // Create order
-    const orderData = {
+    // Create order. An explicit orderId from the client is used as-is so the
+    // WhatsApp order message the customer sends matches the admin record.
+    const orderData: Record<string, unknown> = {
       total,
       status: 'pending',
       customer_name: body.customerName ?? null,
@@ -50,6 +52,9 @@ export async function POST(request: NextRequest) {
       shipping_zip: body.shippingZip ?? null,
       payment_method: body.paymentMethod ?? null,
       notes: body.notes ?? null,
+    }
+    if (body.orderId?.trim()) {
+      orderData.id = body.orderId.trim()
     }
 
     const { data: orderResult, error: orderError } = await insertInto('orders', orderData)

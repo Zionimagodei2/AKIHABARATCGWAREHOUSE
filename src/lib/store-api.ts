@@ -165,6 +165,7 @@ export interface DirectOrderItem {
  * Returns the created order id.
  */
 export async function directCreateOrder(input: {
+  orderId?: string;
   customerName?: string;
   customerEmail?: string;
   customerPhone?: string;
@@ -185,7 +186,10 @@ export async function directCreateOrder(input: {
       input.items.reduce((sum, item) => sum + Number(item.price) * Number(item.quantity), 0) * 100
     ) / 100;
 
-  const orderId = `AKI-${Date.now().toString(36).toUpperCase()}`;
+  // Use the caller-provided id (so the WhatsApp order message the customer
+  // sends matches the record in the admin panel); fall back to generating one.
+  const orderId =
+    input.orderId?.trim() || `AKI-${Date.now().toString(36).toUpperCase()}`;
   const now = new Date().toISOString();
 
   const { data, error } = await insertInto("orders", {

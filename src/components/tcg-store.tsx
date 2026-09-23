@@ -1017,7 +1017,7 @@ export default function TCGStore({
         {currentPage === "faq" && <FAQPage />}
         {currentPage === "contact" && <ContactPage />}
         {currentPage === "signin" && <SignInPage onSignIn={(user) => { setCurrentUser(user); localStorage.setItem("aki_user", JSON.stringify(user)); navigateTo("shop"); }} />}
-        {currentPage === "checkout" && <CheckoutPage cart={cart} cartTotal={cartTotal} currency={currency} navigateTo={navigateTo} clearCart={clearCart} />}
+        {currentPage === "checkout" && <CheckoutPage cart={cart} cartTotal={cartTotal} currency={currency} navigateTo={navigateTo} clearCart={clearCart} whatsappLink={whatsappLink} />}
       </main>
 
       {/* ─── Footer ─── */}
@@ -2626,12 +2626,13 @@ function ProductDetailModal({
 
 /* ─────────── Checkout Page ─────────── */
 
-function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
+function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsappLink }: {
   cart: CartItem[];
   cartTotal: number;
   currency: CurrencyCode;
   navigateTo: (page: PageView) => void;
   clearCart: () => void;
+  whatsappLink: string;
 }) {
   const [customerName, setCustomerName] = useState("");
   const [customerEmail, setCustomerEmail] = useState("");
@@ -2649,9 +2650,60 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
   // configured) are stored locally and confirmed via live chat or email.
   const [offlineOrder, setOfflineOrder] = useState(false);
   const [orderSummary, setOrderSummary] = useState("");
+  // Deep link (wa.me?text=…) for the placed order — rebuilt whenever the
+  // final order id becomes available, so both the auto-opened tab and the
+  // confirmation-screen button carry the exact same order reference.
+  const [waOrderUrl, setWaOrderUrl] = useState("");
+  // Plain-text copy of the placed order (captured BEFORE the cart is cleared)
+  // so the confirmation screen can still offer email / clipboard fallbacks.
+  const [placedOrderText, setPlacedOrderText] = useState("");
 
   const shippingCost = cartTotal >= 500 ? 0 : 15;
   const grandTotal = cartTotal + shippingCost;
+
+  /* Pre-filled WhatsApp order message: everything the shop needs to confirm
+     and ship the order, so the customer only has to press Send. */
+  const COUNTRY_LABELS: Record<string, string> = {
+    US: "United States", CA: "Canada", GB: "United Kingdom", DE: "Germany",
+    FR: "France", ES: "Spain", IT: "Italy", AU: "Australia", JP: "Japan",
+    KR: "South Korea", SG: "Singapore", BR: "Brazil", MX: "Mexico",
+    NL: "Netherlands", SE: "Sweden", CH: "Switzerland", PH: "Philippines",
+    MY: "Malaysia", OTHER: "Other",
+  };
+  const PAYMENT_LABELS: Record<string, string> = {
+    bank_transfer: "Bank Transfer",
+    paypal: "PayPal",
+    wise: "Wise (TransferWise)",
+    credit_card: "Credit / Debit Card",
+    crypto: "Cryptocurrency",
+  };
+  const buildWhatsAppOrderMessage = (orderId: string) =>
+    [
+      "*New Order — " + orderId + "*",
+      "Akihabara TCG Warehouse",
+      "",
+      "*Items*",
+      ...cart.map(
+        (item) =>
+          `${item.quantity}x ${item.product.title} — ${formatPrice(item.product.price * item.quantity, currency)}`
+      ),
+      "",
+      `Subtotal: ${formatPrice(cartTotal, currency)}`,
+      `Shipping: ${shippingCost === 0 ? "Free" : formatPrice(shippingCost, currency)}`,
+      `*Total: ${formatPrice(grandTotal, currency)}*`,
+      "",
+      `Name: ${customerName}`,
+      `Email: ${customerEmail}`,
+      `Phone: ${customerPhone}`,
+      `Ship to: ${shippingAddress}, ${shippingCity}, ${COUNTRY_LABELS[shippingCountry] || shippingCountry}${shippingZip ? " " + shippingZip : ""}`,
+      `Payment: ${PAYMENT_LABELS[paymentMethod] || paymentMethod}`,
+      ...(notes.trim() ? [`Notes: ${notes.trim()}`] : []),
+      "",
+      "— sent from akihabaratcgwarehouse.com",
+    ].join("\n");
+
+  const buildWhatsAppOrderUrl = (orderId: string) =>
+    `${whatsappLink}?text=${encodeURIComponent(buildWhatsAppOrderMessage(orderId))}`;
 
   // Open the Tawk.to widget (loaded globally by the root layout) with the
   // customer's details pre-attached, so confirming an offline order in chat
@@ -2683,19 +2735,23 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
     }
   };
 
-  const copyOrderDetails = async () => {
-    try {
-      await navigator.clipboard.writeText(orderSummary);
-    } catch {
-      // clipboard unavailable (permissions / non-secure context)
-    }
-  };
-
   const handleSubmit = async () => {
     if (!customerName || !customerEmail || !customerPhone || !shippingAddress || !shippingCity || !shippingCountry || !paymentMethod) return;
 
     setSubmitting(true);
     const newOrderId = "AKI-" + Date.now().toString(36).toUpperCase();
+
+    // Hand the order to the shop on WhatsApp: open the chat with the full
+    // order pre-filled BEFORE any await so popup blockers allow it (this runs
+    // synchronously inside the click handler). The order is still saved to
+    // the store database below — WhatsApp is the confirmation channel, the
+    // database is what the admin panel reads.
+    const waUrl = buildWhatsAppOrderUrl(newOrderId);
+    setWaOrderUrl(waUrl);
+    setPlacedOrderText(buildWhatsAppOrderMessage(newOrderId));
+    window.open(waUrl, "_blank", "noopener,noreferrer");
+    // If the popup was blocked, the confirmation screen still shows a large
+    // "Send Order via WhatsApp" button — the customer never dead-ends.
 
     // No backend available (static hosting, or database not configured) —
     // save the order locally and guide the customer to confirm it via live
@@ -2767,6 +2823,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
         image: item.product.image,
       }));
       const api = await postToApi("/api/orders", {
+        orderId: newOrderId,
         customerName,
         customerEmail,
         customerPhone,
@@ -2782,14 +2839,21 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
       if (api.real && api.ok) {
         // Backend accepted the order.
         const serverId = (api.data as { id?: string }).id;
+        const finalId = String(serverId || newOrderId);
         setOfflineOrder(false);
-        setOrderId(String(serverId || newOrderId));
+        setOrderId(finalId);
+        // Keep the WhatsApp message and the stored order id in sync.
+        if (finalId !== newOrderId) {
+          setWaOrderUrl(buildWhatsAppOrderUrl(finalId));
+          setPlacedOrderText(buildWhatsAppOrderMessage(finalId));
+        }
         setOrderPlaced(true);
         clearCart();
       } else if (!api.real) {
         // Static deployment — no /api routes. Record the order directly in
         // the store database from the browser so it reaches the admin panel.
         const dbOrderId = await directCreateOrder({
+          orderId: newOrderId,
           customerName,
           customerEmail,
           customerPhone,
@@ -2807,8 +2871,13 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
             image: item.product.image,
           })),
         });
+        const finalId = dbOrderId || newOrderId;
         setOfflineOrder(false);
-        setOrderId(dbOrderId || newOrderId);
+        setOrderId(finalId);
+        if (finalId !== newOrderId) {
+          setWaOrderUrl(buildWhatsAppOrderUrl(finalId));
+          setPlacedOrderText(buildWhatsAppOrderMessage(finalId));
+        }
         setOrderPlaced(true);
         clearCart();
       } else {
@@ -2839,43 +2908,61 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
               <svg className="size-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" /></svg>
             </div>
             <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
-              {offlineOrder ? "Order Saved — One Quick Step!" : "Order Placed Successfully!"}
+              One Last Step — Send on WhatsApp
             </h1>
             <p className="text-[14px] text-gray-200 max-w-xl mx-auto mb-2">
-              {offlineOrder ? "Your order reference is:" : "Thank you for your order. Your order ID is:"}
+              Your order reference is:
             </p>
             <p className="text-2xl font-bold text-violet-300 mb-6">{orderId}</p>
             <p className="text-[13px] text-gray-300 max-w-md mx-auto mb-8">
-              {offlineOrder ? (
+              {waOrderUrl ? (
                 <>
-                  We&apos;ve saved your order details. To finalize it, tap <span className="text-white font-medium">Confirm via Live Chat</span> or email us below — our team will confirm payment and shipping within 24 hours. You can also reach us on WhatsApp at <span className="text-white font-medium">+81 80-2935-0455</span>.
+                  We&apos;ve prepared your order message — if WhatsApp didn&apos;t open automatically, tap the green button below, check the pre-filled order details and press <span className="text-white font-medium">Send</span>. Our team will confirm payment and shipping shortly.
                 </>
               ) : (
                 <>
-                  We&apos;ll send a confirmation to <span className="text-white font-medium">{customerEmail}</span>. You can also reach us on WhatsApp at <span className="text-white font-medium">+81 80-2935-0455</span> for any questions.
+                  We&apos;ve saved your order details. Our team will confirm payment and shipping within 24 hours. You can also reach us on WhatsApp at <span className="text-white font-medium">+81 80-2935-0455</span>.
                 </>
               )}
             </p>
-            {offlineOrder && (
-              <div className="flex flex-col sm:flex-row gap-3 justify-center items-center mb-6">
+            {waOrderUrl && (
+              <div className="flex flex-col items-center gap-3 mb-6">
+                <a
+                  href={waOrderUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-3 rounded-full bg-gradient-to-b from-[#2fe671] to-[#20bd5a] px-8 py-4 text-[16px] font-extrabold text-white shadow-[0_10px_34px_rgba(37,211,102,0.55)] ring-2 ring-white/70 hover:scale-[1.03] active:scale-[0.97] transition-transform"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                  </svg>
+                  Send Order on WhatsApp
+                </a>
+                <p className="text-[11px] text-gray-400">
+                  Opens WhatsApp with your order details pre-filled — just press Send.
+                </p>
+              </div>
+            )}
+            <div className="flex flex-col sm:flex-row gap-3 justify-center items-center mb-6">
+              <a
+                href={`mailto:support@akihabaratcgwarehouse.com?subject=${encodeURIComponent(`Order ${orderId} — Akihabara TCG Warehouse`)}&body=${encodeURIComponent(orderSummary || placedOrderText)}`}
+                className="inline-flex items-center justify-center h-11 px-8 rounded-md border border-violet-400/40 text-violet-200 hover:bg-violet-500/10 font-semibold text-[14px] transition-colors"
+              >
+                Confirm via Email
+              </a>
+              {offlineOrder && (
                 <Button className="bg-violet-500 hover:bg-violet-600 text-white font-semibold px-8 h-11" onClick={confirmViaLiveChat}>
                   Confirm via Live Chat
                 </Button>
-                <a
-                  href={`mailto:support@akihabaratcgwarehouse.com?subject=${encodeURIComponent(`Order ${orderId} — Akihabara TCG Warehouse`)}&body=${encodeURIComponent(orderSummary)}`}
-                  className="inline-flex items-center justify-center h-11 px-8 rounded-md border border-violet-400/40 text-violet-200 hover:bg-violet-500/10 font-semibold text-[14px] transition-colors"
-                >
-                  Confirm via Email
-                </a>
-                <Button
-                  variant="outline"
-                  className="border-violet-400/40 text-violet-200 hover:bg-violet-500/10 h-11 font-semibold"
-                  onClick={copyOrderDetails}
-                >
-                  Copy Order Details
-                </Button>
-              </div>
-            )}
+              )}
+              <Button
+                variant="outline"
+                className="border-violet-400/40 text-violet-200 hover:bg-violet-500/10 h-11 font-semibold"
+                onClick={() => navigator.clipboard?.writeText(orderSummary || placedOrderText).catch(() => {})}
+              >
+                Copy Order Details
+              </Button>
+            </div>
             {offlineOrder && orderSummary && (
               <details className="max-w-xl mx-auto mb-8 text-left">
                 <summary className="text-[12px] text-violet-300 cursor-pointer select-none text-center">
@@ -2922,7 +3009,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
             Complete Your Order
           </h1>
           <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
-            Fill in your details below and choose your preferred payment method. All orders ship direct from Japan.
+            Fill in your details below, then hit <span className="font-semibold text-[#2fe671]">Send Order via WhatsApp</span> — your order opens in WhatsApp, pre-filled and ready to send. All orders ship direct from Japan.
           </p>
         </div>
       </section>
@@ -3116,9 +3203,9 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
 
                 <Separator className="my-4" />
 
-                {/* Send Order Button */}
+                {/* Send Order Button — hands the order to WhatsApp */}
                 <Button
-                  className="w-full bg-purple-950 hover:bg-purple-800 text-white font-bold h-12 text-[15px] rounded-lg"
+                  className="w-full bg-gradient-to-b from-[#2fe671] to-[#20bd5a] hover:from-[#2fe671] hover:to-[#1aa851] text-white font-extrabold h-12 text-[15px] rounded-lg shadow-[0_6px_20px_rgba(37,211,102,0.4)]"
                   disabled={
                     submitting ||
                     !customerName ||
@@ -3134,15 +3221,20 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart }: {
                   {submitting ? (
                     <span className="flex items-center gap-2">
                       <svg className="animate-spin size-4" viewBox="0 0 24 24" fill="none"><circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" /><path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" /></svg>
-                      Processing...
+                      Opening WhatsApp...
                     </span>
                   ) : (
                     <span className="flex items-center gap-2">
-                      <svg className="size-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" /></svg>
-                      Send Order
+                      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                      </svg>
+                      Send Order via WhatsApp
                     </span>
                   )}
                 </Button>
+                <p className="mt-2 text-[11px] text-center text-gray-400 leading-snug">
+                  Opens WhatsApp with your order pre-filled — just press <span className="font-semibold text-gray-500">Send</span> to place it.
+                </p>
 
                 <div className="mt-4 space-y-2">
                   <div className="flex items-center gap-2 text-[11px] text-gray-400">
