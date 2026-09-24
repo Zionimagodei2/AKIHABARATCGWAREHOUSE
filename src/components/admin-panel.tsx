@@ -517,6 +517,11 @@ export default function AdminPanel() {
   const [pfNewCategory, setPfNewCategory] = useState<string | null>(null);
   const [pfNewSubcategory, setPfNewSubcategory] = useState<string | null>(null);
   const [pfSaving, setPfSaving] = useState(false);
+  // Categories manager (Products page) — rename / delete whole categories
+  const [categoriesOpen, setCategoriesOpen] = useState(false);
+  const [catRename, setCatRename] = useState<{ name: string; value: string } | null>(null);
+  const [catDelete, setCatDelete] = useState<{ name: string; count: number; mode: "move" | "delete"; moveTo: string; keepSub: boolean } | null>(null);
+  const [catBusy, setCatBusy] = useState(false);
   // Quick reorder (products table)
   const [reorderBusy, setReorderBusy] = useState(false);
 
@@ -1108,6 +1113,94 @@ export default function AdminPanel() {
     if (copy) {
       toast({ title: "Product duplicated", description: `${product.title} (Copy) created` });
       fetchProducts();
+    }
+  };
+
+  /* ── Category management (rename / delete whole categories) ── */
+
+  /** Live catalog grouped by category: product count + subcategory list. */
+  const getCategoryStats = () => {
+    const map = new Map<string, { count: number; subs: Set<string> }>();
+    adminStore.getEffectiveProducts().forEach((p) => {
+      if (!p.category) return;
+      if (!map.has(p.category)) map.set(p.category, { count: 0, subs: new Set<string>() });
+      const entry = map.get(p.category)!;
+      entry.count += 1;
+      const subs = p.categories && p.categories.length > 1 ? p.categories.slice(1) : [];
+      subs.forEach((s) => entry.subs.add(s));
+    });
+    return Array.from(map.entries())
+      .map(([name, e]) => ({ name, count: e.count, subs: Array.from(e.subs).sort() }))
+      .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+  };
+
+  const refreshAfterCategoryChange = () => {
+    // The active filter may reference the removed/renamed category — reset it
+    setProductCategory("");
+    setProductsPage(1);
+    fetchProducts();
+    fetchStats();
+  };
+
+  const confirmRenameCategory = () => {
+    if (!catRename) return;
+    const from = catRename.name;
+    const to = catRename.value.trim();
+    if (!to || to === from) return;
+    try {
+      // Merge detection: does the target name already exist? (checked before
+      // the rename — afterwards it always exists)
+      const mergeTargetExists = getCategoryStats().some((c) => c.name === to && c.name !== from);
+      const n = adminStore.renameCategory(from, to);
+      toast({
+        title: "Category renamed",
+        description: `“${from}” is now “${to}” — ${n} product${n === 1 ? "" : "s"} updated${mergeTargetExists ? " (merged into the existing category)" : ""}. Publish to make it live.`,
+      });
+      setCatRename(null);
+      refreshAfterCategoryChange();
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : "Failed to rename category";
+      toast({ title: "Error", description: message, variant: "destructive" });
+    }
+  };
+
+  const openDeleteCategory = (cat: { name: string; count: number }) => {
+    const others = getCategoryStats().map((c) => c.name).filter((n) => n !== cat.name).sort();
+    const fallback = others.includes("Other TCG") ? "Other TCG" : others[0] || "";
+    setCatDelete({
+      name: cat.name,
+      count: cat.count,
+      // With nowhere to move the products, delete is the only option
+      mode: others.length === 0 ? "delete" : "move",
+      moveTo: fallback,
+      keepSub: true,
+    });
+  };
+
+  const confirmDeleteCategory = () => {
+    if (!catDelete) return;
+    setCatBusy(true);
+    try {
+      const deleting = catDelete.mode === "delete";
+      const n = adminStore.deleteCategory(catDelete.name, {
+        deleteProducts: deleting,
+        moveTo: deleting ? undefined : catDelete.moveTo,
+        keepAsSubcategory: catDelete.keepSub,
+      });
+      toast({
+        title: "Category deleted",
+        description: deleting
+          ? `“${catDelete.name}” and its ${n} product${n === 1 ? "" : "s"} were removed — publish to make it live.`
+          : `“${catDelete.name}” was deleted — ${n} product${n === 1 ? "" : "s"} moved to “${catDelete.moveTo}”. Publish to make it live.`,
+      });
+      setCatDelete(null);
+      setSelectedProductIds(new Set());
+      refreshAfterCategoryChange();
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : "Failed to delete category";
+      toast({ title: "Error", description: message, variant: "destructive" });
+    } finally {
+      setCatBusy(false);
     }
   };
 
@@ -2288,6 +2381,9 @@ export default function AdminPanel() {
     <div className="space-y-6">
       {renderPageHeader("Products", "Manage your product catalog", (
         <div className="flex items-center gap-2">
+          <Button variant="outline" size="sm" onClick={() => { setCatRename(null); setCatDelete(null); setCategoriesOpen(true); }}>
+            <Tag size={14} className="mr-1.5" /> Categories
+          </Button>
           <Button variant="outline" size="sm" onClick={() => setImportOpen(true)}>
             <Upload size={14} className="mr-1.5" /> Import
           </Button>
@@ -3044,6 +3140,192 @@ export default function AdminPanel() {
           </AlertDialogFooter>
         </AlertDialogContent>
       </AlertDialog>
+
+      {/* Categories Manager — rename / delete whole categories */}
+      <Dialog
+        open={categoriesOpen}
+        onOpenChange={(open) => {
+          setCategoriesOpen(open);
+          if (!open) {
+            setCatRename(null);
+            setCatDelete(null);
+          }
+        }}
+      >
+        <DialogContent className="max-w-lg">
+          <DialogHeader>
+            <DialogTitle>Manage Categories</DialogTitle>
+            <DialogDescription>
+              Rename a category (applies to every product in it) or delete it. Publish afterwards to make changes live on the store.
+            </DialogDescription>
+          </DialogHeader>
+
+          {catDelete ? (
+            /* ── Delete confirmation ── */
+            <div className="space-y-4 py-2">
+              <div className="rounded-lg border border-red-200 bg-red-50 p-3">
+                <p className="text-sm font-medium text-red-900">Delete category “{catDelete.name}”?</p>
+                <p className="mt-1 text-xs text-red-700">
+                  {catDelete.count} product{catDelete.count === 1 ? "" : "s"} use{catDelete.count === 1 ? "s" : ""} this category. Choose what happens to them:
+                </p>
+              </div>
+
+              {(() => {
+                const others = getCategoryStats()
+                  .map((c) => c.name)
+                  .filter((n) => n !== catDelete.name)
+                  .sort();
+                return (
+                  <>
+                    {others.length > 0 && (
+                      <>
+                        <button
+                          type="button"
+                          onClick={() => setCatDelete({ ...catDelete, mode: "move" })}
+                          className={`w-full rounded-lg border p-3 text-left transition-colors ${
+                            catDelete.mode === "move"
+                              ? "border-purple-400 bg-purple-50"
+                              : "border-gray-200 hover:border-gray-300"
+                          }`}
+                        >
+                          <p className="text-sm font-medium">Move products to another category</p>
+                          <p className="mt-0.5 text-xs text-gray-500">Keep the products on the store, filed under a different category.</p>
+                        </button>
+                        {catDelete.mode === "move" && (
+                          <div className="space-y-3">
+                            <Select
+                              value={catDelete.moveTo}
+                              onValueChange={(v) => setCatDelete({ ...catDelete, moveTo: v })}
+                            >
+                              <SelectTrigger>
+                                <SelectValue placeholder="Choose a category" />
+                              </SelectTrigger>
+                              <SelectContent>
+                                {others.map((c) => (
+                                  <SelectItem key={c} value={c}>{c}</SelectItem>
+                                ))}
+                              </SelectContent>
+                            </Select>
+                            <label className="flex items-start gap-2 text-sm cursor-pointer">
+                              <Checkbox
+                                className="mt-0.5"
+                                checked={catDelete.keepSub}
+                                onCheckedChange={(v) => setCatDelete({ ...catDelete, keepSub: Boolean(v) })}
+                              />
+                              <span>
+                                Keep “{catDelete.name}” as a subcategory for moved products that don&apos;t have one
+                                <span className="text-gray-500"> (recommended — they stay easy to find)</span>
+                              </span>
+                            </label>
+                          </div>
+                        )}
+                      </>
+                    )}
+                    <button
+                      type="button"
+                      onClick={() => setCatDelete({ ...catDelete, mode: "delete" })}
+                      className={`w-full rounded-lg border p-3 text-left transition-colors ${
+                        catDelete.mode === "delete"
+                          ? "border-red-400 bg-red-50"
+                          : "border-gray-200 hover:border-gray-300"
+                      }`}
+                    >
+                      <p className="text-sm font-medium text-red-700">Delete the products too</p>
+                      <p className="mt-0.5 text-xs text-gray-500">
+                        Remove the category and its {catDelete.count} product{catDelete.count === 1 ? "" : "s"} from the catalog.
+                      </p>
+                    </button>
+                  </>
+                );
+              })()}
+
+              <div className="flex justify-end gap-2 pt-1">
+                <Button variant="outline" onClick={() => setCatDelete(null)}>Back</Button>
+                <Button
+                  className="bg-red-600 hover:bg-red-700"
+                  disabled={catBusy || (catDelete.mode === "move" && !catDelete.moveTo)}
+                  onClick={confirmDeleteCategory}
+                >
+                  {catBusy && <RefreshCw className="animate-spin mr-2" size={14} />}
+                  Delete category
+                </Button>
+              </div>
+            </div>
+          ) : (
+            /* ── Category list ── */
+            <div className="max-h-[55vh] space-y-2 overflow-y-auto py-2 pr-1">
+              {getCategoryStats().length === 0 && (
+                <p className="py-8 text-center text-sm text-gray-500">
+                  No categories yet — create one from the product form.
+                </p>
+              )}
+              {getCategoryStats().map((c) =>
+                catRename?.name === c.name ? (
+                  <div key={c.name} className="space-y-2 rounded-lg border border-purple-300 bg-purple-50/50 p-3">
+                    <Input
+                      autoFocus
+                      value={catRename.value}
+                      onChange={(e) => setCatRename({ name: c.name, value: e.target.value })}
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter") confirmRenameCategory();
+                        if (e.key === "Escape") setCatRename(null);
+                      }}
+                      placeholder="Category name"
+                    />
+                    {catRename.value.trim() !== c.name &&
+                      getCategoryStats().some((o) => o.name === catRename.value.trim() && o.name !== c.name) && (
+                        <p className="text-xs text-amber-700 flex items-start gap-1.5">
+                          <AlertTriangle size={13} className="mt-0.5 shrink-0" />
+                          A category named “{catRename.value.trim()}” already exists — saving merges “{c.name}” into it.
+                        </p>
+                      )}
+                    <div className="flex justify-end gap-2">
+                      <Button variant="outline" size="sm" onClick={() => setCatRename(null)}>Cancel</Button>
+                      <Button
+                        size="sm"
+                        className="bg-purple-950 hover:bg-purple-800"
+                        disabled={!catRename.value.trim() || catRename.value.trim() === c.name}
+                        onClick={confirmRenameCategory}
+                      >
+                        Save
+                      </Button>
+                    </div>
+                  </div>
+                ) : (
+                  <div key={c.name} className="flex items-center gap-2 rounded-lg border p-3">
+                    <div className="min-w-0 flex-1">
+                      <p className="truncate font-medium">{c.name}</p>
+                      <p className="text-xs text-gray-500">
+                        {c.count} product{c.count === 1 ? "" : "s"}
+                        {c.subs.length > 0 &&
+                          ` · ${c.subs.length} subcategor${c.subs.length === 1 ? "y" : "ies"}: ${c.subs.slice(0, 3).join(", ")}${c.subs.length > 3 ? "…" : ""}`}
+                      </p>
+                    </div>
+                    <Button
+                      variant="ghost"
+                      size="icon"
+                      className="h-8 w-8"
+                      title="Rename category"
+                      onClick={() => setCatRename({ name: c.name, value: c.name })}
+                    >
+                      <Pencil size={14} />
+                    </Button>
+                    <Button
+                      variant="ghost"
+                      size="icon"
+                      className="h-8 w-8 text-red-600 hover:bg-red-50 hover:text-red-700"
+                      title="Delete category"
+                      onClick={() => openDeleteCategory(c)}
+                    >
+                      <Trash2 size={14} />
+                    </Button>
+                  </div>
+                )
+              )}
+            </div>
+          )}
+        </DialogContent>
+      </Dialog>
 
       {/* Catalog Import Dialog */}
       <Dialog open={importOpen} onOpenChange={setImportOpen}>

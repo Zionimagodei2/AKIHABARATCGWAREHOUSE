@@ -579,6 +579,58 @@ class AdminStore {
     ids.forEach((id) => this.deleteProduct(id));
   }
 
+  /* ─────────── Category management ─────────── */
+
+  /** Rename a category across every product that uses it.
+   *  Updates both `category` and `categories[0]`; subcategories move along
+   *  untouched. Renaming onto an existing category merges the two. Returns
+   *  the number of products affected. */
+  renameCategory(from: string, to: string): number {
+    const src = from.trim();
+    const dst = to.trim();
+    if (!src || !dst || src === dst) return 0;
+    const affected = this.getEffectiveProducts().filter((p) => p.category === src);
+    const now = new Date().toISOString();
+    affected.forEach((p) => {
+      const cats = p.categories && p.categories.length > 0 ? [...p.categories] : [p.category];
+      cats[0] = dst;
+      this.applyProductRecord({ ...p, category: dst, categories: cats, updated_at: now });
+    });
+    return affected.length;
+  }
+
+  /** Delete a category. Its products are either deleted too, or moved to
+   *  `moveTo` — where products without a subcategory can keep the old
+   *  category name as their subcategory so they stay easy to find.
+   *  Returns the number of products handled. */
+  deleteCategory(
+    name: string,
+    opts: { deleteProducts: boolean; moveTo?: string; keepAsSubcategory?: boolean }
+  ): number {
+    const src = name.trim();
+    if (!src) return 0;
+    const affected = this.getEffectiveProducts().filter((p) => p.category === src);
+    const now = new Date().toISOString();
+    if (opts.deleteProducts) {
+      affected.forEach((p) => this.deleteProduct(p.id));
+      return affected.length;
+    }
+    const target = (opts.moveTo || "").trim();
+    if (!target || target === src) return 0;
+    affected.forEach((p) => {
+      const subs = p.categories && p.categories.length > 1 ? p.categories.slice(1) : [];
+      const cats =
+        opts.keepAsSubcategory && subs.length === 0 ? [target, src] : [target, ...subs];
+      this.applyProductRecord({
+        ...p,
+        category: target,
+        categories: cats,
+        updated_at: now,
+      });
+    });
+    return affected.length;
+  }
+
   /** Apply a promo: strike the current price, sell at (1 - percent/100). */
   applyPromo(ids: string[], percent: number) {
     this.bulkPatch(ids, (p) => {

@@ -187,25 +187,30 @@ const SUBCATEGORY_TABS: Record<string, { key: string; label: string }[]> = {
    (new products carrying an unseen `category`) appear automatically —
    inserted before "Other Categories" so it stays last. Subcategory
    tabs follow the catalog the same way. */
-function buildCategoryTabs(products: Product[]): typeof CATEGORY_TABS {
+function buildCategoryTabs(products: Product[], loading = false): typeof CATEGORY_TABS {
   const known = CATEGORY_TABS.map((t) => t.key);
   const inCatalog = new Set<string>();
   for (const p of products) if (p.category && p.category !== "all") inCatalog.add(p.category);
   const fresh = [...inCatalog]
     .filter((c) => !known.includes(c))
     .sort((a, b) => a.localeCompare(b));
-  if (fresh.length === 0) return CATEGORY_TABS;
-  const base = CATEGORY_TABS.filter((t) => t.key !== "all" && t.key !== "Other TCG");
+  // Before the catalog arrives (or if it failed to load) keep the default
+  // tabs. Once loaded, a default tab whose category was renamed or deleted
+  // from the admin panel is hidden so no empty tab lingers on the store.
+  const keepDefaults = loading || products.length === 0;
+  const base = keepDefaults
+    ? CATEGORY_TABS
+    : CATEGORY_TABS.filter((t) => t.key === "all" || inCatalog.has(t.key));
   return [
-    CATEGORY_TABS[0],
-    ...base,
+    base[0],
+    ...base.filter((t) => t.key !== "all" && t.key !== "Other TCG"),
     ...fresh.map((c) => ({
       key: c,
       label: c,
       gradient: "from-teal-500 to-emerald-600",
       sectionGradient: "from-teal-500/20 to-emerald-600/20",
     })),
-    CATEGORY_TABS[CATEGORY_TABS.length - 1],
+    ...(keepDefaults || inCatalog.has("Other TCG") ? [CATEGORY_TABS[CATEGORY_TABS.length - 1]] : []),
   ];
 }
 
@@ -387,8 +392,9 @@ export default function TCGStore({
   }, [storeContent]);
 
   // Dynamic category tabs — categories created from the admin panel appear
-  // here automatically (inserted before "Other Categories").
-  const categoryTabs = React.useMemo(() => buildCategoryTabs(products), [products]);
+  // here automatically (inserted before "Other Categories"); categories
+  // renamed or deleted from the admin panel disappear once the catalog loads.
+  const categoryTabs = React.useMemo(() => buildCategoryTabs(products, loading), [products, loading]);
 
   const announcementMessages = React.useMemo(() => {
     const msgs = (storeContent?.announcements || [])
@@ -1366,8 +1372,9 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
   // Determine if we show the homepage category showcase or the full product grid
   const isHomepageView = selectedCategory === "all" && !searchQuery.trim();
 
-  // Dynamic tabs (admin-created categories/subcategories appear automatically)
-  const categoryTabs = buildCategoryTabs(products);
+  // Dynamic tabs (admin-created categories/subcategories appear automatically;
+  // renamed/deleted default categories disappear once the catalog is loaded)
+  const categoryTabs = buildCategoryTabs(products, loading);
   // Category display order
   const categoryOrder = categoryTabs.filter(t => t.key !== "all").map(t => t.key);
 
