@@ -938,10 +938,10 @@
       "Pokemon",
       "Booster Boxes"
     ],
-    "rating": 4.3,
-    "in_stock": false,
+    "rating": 4.5,
+    "in_stock": true,
     "created_at": "2026-09-15T21:46:51.780Z",
-    "updated_at": "2026-09-15T21:46:51.780Z"
+    "updated_at": "2026-09-25T21:13:15.992Z"
   },
   {
     "id": "3",
@@ -1599,9 +1599,9 @@
       "Booster Boxes"
     ],
     "rating": 4.4,
-    "in_stock": false,
+    "in_stock": true,
     "created_at": "2026-09-18T21:39:38.783Z",
-    "updated_at": "2026-09-18T21:40:00.163Z"
+    "updated_at": "2026-09-25T21:37:55.320Z"
   },
   {
     "id": "50",
@@ -1942,7 +1942,7 @@
       "https://www.fujicardshop.com/wp-content/uploads/2026/05/OP-17-bb.webp"
     ],
     "created_at": "2026-09-18T20:07:57.150Z",
-    "updated_at": "2026-09-18T21:31:52.853Z"
+    "updated_at": "2026-09-25T21:38:09.482Z"
   },
   {
     "id": "73",
@@ -2268,7 +2268,7 @@
   },
   {
     "id": "95",
-    "title": "[Pre-Order/Ship Aug-Sep] ONE PIECE Card Saikyo Jump Promo Pack &quot;Summit Powerhouse Pack&quot; Japanese ONE PIECE CARD",
+    "title": "ONE PIECE Card Saikyo Jump Promo Pack &quot;Summit Powerhouse Pack&quot; Japanese ONE PIECE CARD",
     "price": 32.11,
     "original_price": 36.49,
     "image": "/images/fujicards/f606e79ea8b5.webp",
@@ -2278,7 +2278,9 @@
       "Special Set"
     ],
     "rating": 4.5,
-    "in_stock": true
+    "in_stock": true,
+    "created_at": "2026-09-25T21:40:23.437Z",
+    "updated_at": "2026-09-25T21:40:23.437Z"
   },
   {
     "id": "96",
@@ -3650,7 +3652,9 @@
       "hololive CG"
     ],
     "rating": 4.5,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:42:28.900Z",
+    "updated_at": "2026-09-25T21:42:28.900Z"
   },
   {
     "id": "194",
@@ -3664,7 +3668,9 @@
       "hololive CG"
     ],
     "rating": 4.5,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:42:41.598Z",
+    "updated_at": "2026-09-25T21:42:41.598Z"
   },
   {
     "id": "195",
@@ -3678,7 +3684,9 @@
       "hololive CG"
     ],
     "rating": 4.5,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:44:19.120Z",
+    "updated_at": "2026-09-25T21:44:19.120Z"
   },
   {
     "id": "196",
@@ -3692,7 +3700,9 @@
       "hololive CG"
     ],
     "rating": 4.5,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:44:50.531Z",
+    "updated_at": "2026-09-25T21:44:50.531Z"
   },
   {
     "id": "197",
@@ -3706,7 +3716,9 @@
       "hololive CG"
     ],
     "rating": 4.5,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:45:30.851Z",
+    "updated_at": "2026-09-25T21:45:30.851Z"
   },
   {
     "id": "198",
@@ -3720,7 +3732,9 @@
       "hololive CG"
     ],
     "rating": 4.5,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:45:38.853Z",
+    "updated_at": "2026-09-25T21:45:38.853Z"
   },
   {
     "id": "199",
@@ -3734,7 +3748,9 @@
       "hololive CG"
     ],
     "rating": 4.5,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:46:17.904Z",
+    "updated_at": "2026-09-25T21:46:17.904Z"
   },
   {
     "id": "200",
@@ -3748,7 +3764,9 @@
       "hololive CG"
     ],
     "rating": 4.5,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:46:28.129Z",
+    "updated_at": "2026-09-25T21:46:28.129Z"
   },
   {
     "id": "201",
@@ -3790,7 +3808,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:05:57.121Z",
+    "updated_at": "2026-09-25T21:05:57.121Z"
   },
   {
     "id": "204",
@@ -3804,7 +3824,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:07:59.191Z",
+    "updated_at": "2026-09-25T21:07:59.191Z"
   },
   {
     "id": "205",
@@ -3818,7 +3840,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:09:00.086Z",
+    "updated_at": "2026-09-25T21:09:00.086Z"
   },
   {
     "id": "206",
@@ -3832,7 +3856,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:09:23.089Z",
+    "updated_at": "2026-09-25T21:09:23.089Z"
   },
   {
     "id": "207",
@@ -3846,7 +3872,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:14:13.528Z",
+    "updated_at": "2026-09-25T21:14:13.528Z"
   },
   {
     "id": "208",
@@ -3860,7 +3888,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:14:44.564Z",
+    "updated_at": "2026-09-25T21:14:44.564Z"
   },
   {
     "id": "209",
@@ -3888,7 +3918,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:15:20.488Z",
+    "updated_at": "2026-09-25T21:15:20.488Z"
   },
   {
     "id": "211",
@@ -3902,7 +3934,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:15:33.343Z",
+    "updated_at": "2026-09-25T21:15:33.343Z"
   },
   {
     "id": "212",
@@ -3916,7 +3950,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:16:04.265Z",
+    "updated_at": "2026-09-25T21:16:04.265Z"
   },
   {
     "id": "213",
@@ -3930,7 +3966,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:16:19.750Z",
+    "updated_at": "2026-09-25T21:16:19.750Z"
   },
   {
     "id": "214",
@@ -3944,7 +3982,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:16:52.975Z",
+    "updated_at": "2026-09-25T21:16:52.975Z"
   },
   {
     "id": "215",
@@ -3958,7 +3998,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:17:01.802Z",
+    "updated_at": "2026-09-25T21:17:01.802Z"
   },
   {
     "id": "216",
@@ -3972,7 +4014,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:17:47.890Z",
+    "updated_at": "2026-09-25T21:17:47.890Z"
   },
   {
     "id": "217",
@@ -3986,7 +4030,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:34:32.908Z",
+    "updated_at": "2026-09-25T21:34:32.908Z"
   },
   {
     "id": "218",
@@ -4000,7 +4046,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:34:57.083Z",
+    "updated_at": "2026-09-25T21:34:57.083Z"
   },
   {
     "id": "219",
@@ -4014,7 +4062,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:35:26.277Z",
+    "updated_at": "2026-09-25T21:35:26.277Z"
   },
   {
     "id": "220",
@@ -4028,7 +4078,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:18:52.919Z",
+    "updated_at": "2026-09-25T21:18:52.919Z"
   },
   {
     "id": "221",
@@ -4042,7 +4094,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:19:15.388Z",
+    "updated_at": "2026-09-25T21:19:15.388Z"
   },
   {
     "id": "222",
@@ -4056,7 +4110,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:19:34.927Z",
+    "updated_at": "2026-09-25T21:19:34.927Z"
   },
   {
     "id": "223",
@@ -4070,7 +4126,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:20:07.665Z",
+    "updated_at": "2026-09-25T21:20:07.665Z"
   },
   {
     "id": "224",
@@ -4084,7 +4142,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:20:42.381Z",
+    "updated_at": "2026-09-25T21:20:42.381Z"
   },
   {
     "id": "225",
@@ -4098,7 +4158,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:21:18.039Z",
+    "updated_at": "2026-09-25T21:21:18.039Z"
   },
   {
     "id": "226",
@@ -4112,7 +4174,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:22:18.785Z",
+    "updated_at": "2026-09-25T21:22:18.785Z"
   },
   {
     "id": "227",
@@ -4126,7 +4190,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:22:44.040Z",
+    "updated_at": "2026-09-25T21:22:44.040Z"
   },
   {
     "id": "228",
@@ -4140,7 +4206,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:23:19.618Z",
+    "updated_at": "2026-09-25T21:23:19.618Z"
   },
   {
     "id": "229",
@@ -4154,7 +4222,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:23:39.285Z",
+    "updated_at": "2026-09-25T21:23:39.285Z"
   },
   {
     "id": "230",
@@ -4168,7 +4238,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:26:08.226Z",
+    "updated_at": "2026-09-25T21:26:08.226Z"
   },
   {
     "id": "231",
@@ -4182,7 +4254,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:26:44.531Z",
+    "updated_at": "2026-09-25T21:26:44.531Z"
   },
   {
     "id": "232",
@@ -4196,7 +4270,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:27:19.211Z",
+    "updated_at": "2026-09-25T21:27:19.211Z"
   },
   {
     "id": "233",
@@ -4210,7 +4286,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:27:37.207Z",
+    "updated_at": "2026-09-25T21:27:37.207Z"
   },
   {
     "id": "234",
@@ -4224,7 +4302,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:28:40.973Z",
+    "updated_at": "2026-09-25T21:28:40.973Z"
   },
   {
     "id": "235",
@@ -4238,7 +4318,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:29:38.917Z",
+    "updated_at": "2026-09-25T21:29:38.917Z"
   },
   {
     "id": "236",
@@ -4252,7 +4334,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:30:13.299Z",
+    "updated_at": "2026-09-25T21:30:13.299Z"
   },
   {
     "id": "237",
@@ -4266,7 +4350,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:30:22.299Z",
+    "updated_at": "2026-09-25T21:30:22.299Z"
   },
   {
     "id": "238",
@@ -4280,7 +4366,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:31:08.775Z",
+    "updated_at": "2026-09-25T21:31:08.775Z"
   },
   {
     "id": "239",
@@ -4294,7 +4382,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:31:16.969Z",
+    "updated_at": "2026-09-25T21:31:16.969Z"
   },
   {
     "id": "240",
@@ -4308,7 +4398,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:33:15.113Z",
+    "updated_at": "2026-09-25T21:33:15.113Z"
   },
   {
     "id": "241",
@@ -4322,7 +4414,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:33:07.328Z",
+    "updated_at": "2026-09-25T21:33:07.328Z"
   },
   {
     "id": "242",
@@ -4336,11 +4430,13 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:32:54.331Z",
+    "updated_at": "2026-09-25T21:32:54.331Z"
   },
   {
     "id": "243",
-    "title": "[Pre-Order Ship Jan 26] M3 Munikis Zero (Nihil Zero) Sealed Case (12 boxes) Japanese Pokemon Card",
+    "title": "M3 Munikis Zero (Nihil Zero) Sealed Case (12 boxes) Japanese Pokemon Card",
     "price": 698.82,
     "original_price": 827.2,
     "image": "/images/fujicards/sc-m3.webp",
@@ -4350,7 +4446,9 @@
       "Sealed Case"
     ],
     "rating": 4.8,
-    "in_stock": false
+    "in_stock": true,
+    "created_at": "2026-09-25T21:10:36.553Z",
+    "updated_at": "2026-09-25T21:10:36.553Z"
   },
   {
     "id": "244",
