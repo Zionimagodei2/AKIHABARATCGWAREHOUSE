@@ -631,6 +631,72 @@ class AdminStore {
     return affected.length;
   }
 
+  /** Rename a subcategory inside one category. Every product in `category`
+   *  carrying subcategory `from` gets it replaced by `to` (position kept);
+   *  renaming onto an existing subcategory of the same category merges them.
+   *  Returns the number of products affected. */
+  renameSubcategory(category: string, from: string, to: string): number {
+    const cat = category.trim();
+    const src = from.trim();
+    const dst = to.trim();
+    if (!cat || !src || !dst || src === dst) return 0;
+    const affected = this.getEffectiveProducts().filter(
+      (p) =>
+        p.category === cat &&
+        p.categories &&
+        p.categories.length > 1 &&
+        p.categories.slice(1).includes(src)
+    );
+    const now = new Date().toISOString();
+    affected.forEach((p) => {
+      const cats = [...(p.categories as string[])];
+      const idx = cats.indexOf(src);
+      cats.splice(idx, 1);
+      if (!cats.includes(dst)) cats.splice(idx, 0, dst); // same slot, no duplicates
+      this.applyProductRecord({ ...p, categories: cats, updated_at: now });
+    });
+    return affected.length;
+  }
+
+  /** Delete a subcategory inside one category.
+   *  - "strip": only the subcategory is removed — products stay in the
+   *     category (without a subcategory if it was their only one).
+   *  - "move": products' subcategory is replaced by `moveTo` (another
+   *     subcategory of the same category).
+   *  - "delete": the products carrying the subcategory are deleted too.
+   *  Returns the number of products handled. */
+  deleteSubcategory(
+    category: string,
+    name: string,
+    opts: { mode: "strip" | "move" | "delete"; moveTo?: string }
+  ): number {
+    const cat = category.trim();
+    const src = name.trim();
+    if (!cat || !src) return 0;
+    const affected = this.getEffectiveProducts().filter(
+      (p) =>
+        p.category === cat &&
+        p.categories &&
+        p.categories.length > 1 &&
+        p.categories.slice(1).includes(src)
+    );
+    const now = new Date().toISOString();
+    if (opts.mode === "delete") {
+      affected.forEach((p) => this.deleteProduct(p.id));
+      return affected.length;
+    }
+    const target = (opts.moveTo || "").trim();
+    if (opts.mode === "move" && (!target || target === src)) return 0;
+    affected.forEach((p) => {
+      const cats = [...(p.categories as string[])];
+      const idx = Math.max(1, cats.indexOf(src)); // never drop the category slot
+      cats.splice(idx, 1);
+      if (opts.mode === "move" && !cats.includes(target)) cats.splice(idx, 0, target);
+      this.applyProductRecord({ ...p, categories: cats, updated_at: now });
+    });
+    return affected.length;
+  }
+
   /** Apply a promo: strike the current price, sell at (1 - percent/100). */
   applyPromo(ids: string[], percent: number) {
     this.bulkPatch(ids, (p) => {

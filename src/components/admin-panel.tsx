@@ -522,6 +522,10 @@ export default function AdminPanel() {
   const [catRename, setCatRename] = useState<{ name: string; value: string } | null>(null);
   const [catDelete, setCatDelete] = useState<{ name: string; count: number; mode: "move" | "delete"; moveTo: string; keepSub: boolean } | null>(null);
   const [catBusy, setCatBusy] = useState(false);
+  // Subcategory management — expand a category to manage its subcategories
+  const [catExpanded, setCatExpanded] = useState<string | null>(null);
+  const [subRename, setSubRename] = useState<{ category: string; name: string; value: string } | null>(null);
+  const [subDelete, setSubDelete] = useState<{ category: string; name: string; count: number; mode: "strip" | "move" | "delete"; moveTo: string } | null>(null);
   // Quick reorder (products table)
   const [reorderBusy, setReorderBusy] = useState(false);
 
@@ -1118,19 +1122,26 @@ export default function AdminPanel() {
 
   /* ── Category management (rename / delete whole categories) ── */
 
-  /** Live catalog grouped by category: product count + subcategory list. */
+  /** Live catalog grouped by category: product count + subcategory list
+   *  with a product count per subcategory. */
   const getCategoryStats = () => {
-    const map = new Map<string, { count: number; subs: Set<string> }>();
+    const map = new Map<string, { count: number; subs: Map<string, number> }>();
     adminStore.getEffectiveProducts().forEach((p) => {
       if (!p.category) return;
-      if (!map.has(p.category)) map.set(p.category, { count: 0, subs: new Set<string>() });
+      if (!map.has(p.category)) map.set(p.category, { count: 0, subs: new Map<string, number>() });
       const entry = map.get(p.category)!;
       entry.count += 1;
       const subs = p.categories && p.categories.length > 1 ? p.categories.slice(1) : [];
-      subs.forEach((s) => entry.subs.add(s));
+      subs.forEach((s) => entry.subs.set(s, (entry.subs.get(s) || 0) + 1));
     });
     return Array.from(map.entries())
-      .map(([name, e]) => ({ name, count: e.count, subs: Array.from(e.subs).sort() }))
+      .map(([name, e]) => ({
+        name,
+        count: e.count,
+        subs: Array.from(e.subs.entries())
+          .map(([n, c]) => ({ name: n, count: c }))
+          .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name)),
+      }))
       .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
   };
 
@@ -1198,6 +1209,72 @@ export default function AdminPanel() {
       refreshAfterCategoryChange();
     } catch (err: unknown) {
       const message = err instanceof Error ? err.message : "Failed to delete category";
+      toast({ title: "Error", description: message, variant: "destructive" });
+    } finally {
+      setCatBusy(false);
+    }
+  };
+
+  /* ── Subcategory management (rename / delete within a category) ── */
+
+  const confirmRenameSubcategory = () => {
+    if (!subRename) return;
+    const { category, name: from } = subRename;
+    const to = subRename.value.trim();
+    if (!to || to === from) return;
+    try {
+      // Merge detection: does the target sub already exist in this category?
+      // (checked before the rename — afterwards it always exists)
+      const cat = getCategoryStats().find((c) => c.name === category);
+      const mergeTargetExists = !!cat?.subs.some((s) => s.name === to && s.name !== from);
+      const n = adminStore.renameSubcategory(category, from, to);
+      toast({
+        title: "Subcategory renamed",
+        description: `“${from}” is now “${to}” in ${category} — ${n} product${n === 1 ? "" : "s"} updated${mergeTargetExists ? " (merged into the existing subcategory)" : ""}. Publish to make it live.`,
+      });
+      setSubRename(null);
+      refreshAfterCategoryChange();
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : "Failed to rename subcategory";
+      toast({ title: "Error", description: message, variant: "destructive" });
+    }
+  };
+
+  const openDeleteSubcategory = (category: string, sub: { name: string; count: number }) => {
+    const siblings = getCategoryStats()
+      .find((c) => c.name === category)
+      ?.subs.map((s) => s.name)
+      .filter((n) => n !== sub.name) ?? [];
+    setSubDelete({
+      category,
+      name: sub.name,
+      count: sub.count,
+      // Strip (products stay in the category) is the safe default; the
+      // confirmation panel offers move / delete as alternatives
+      mode: "strip",
+      moveTo: siblings[0] || "",
+    });
+  };
+
+  const confirmDeleteSubcategory = () => {
+    if (!subDelete) return;
+    setCatBusy(true);
+    try {
+      const n = adminStore.deleteSubcategory(subDelete.category, subDelete.name, {
+        mode: subDelete.mode,
+        moveTo: subDelete.mode === "move" ? subDelete.moveTo : undefined,
+      });
+      const detail =
+        subDelete.mode === "delete"
+          ? `“${subDelete.name}” and its ${n} product${n === 1 ? "" : "s"} were removed from ${subDelete.category}.`
+          : subDelete.mode === "move"
+            ? `“${subDelete.name}” was deleted — ${n} product${n === 1 ? "" : "s"} moved to “${subDelete.moveTo}”.`
+            : `“${subDelete.name}” was removed — ${n} product${n === 1 ? "" : "s"} stay in ${subDelete.category} (now without that subcategory).`;
+      toast({ title: "Subcategory deleted", description: `${detail} Publish to make it live.` });
+      setSubDelete(null);
+      refreshAfterCategoryChange();
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : "Failed to delete subcategory";
       toast({ title: "Error", description: message, variant: "destructive" });
     } finally {
       setCatBusy(false);
@@ -2381,7 +2458,7 @@ export default function AdminPanel() {
     <div className="space-y-6">
       {renderPageHeader("Products", "Manage your product catalog", (
         <div className="flex items-center gap-2">
-          <Button variant="outline" size="sm" onClick={() => { setCatRename(null); setCatDelete(null); setCategoriesOpen(true); }}>
+          <Button variant="outline" size="sm" onClick={() => { setCatRename(null); setCatDelete(null); setCatExpanded(null); setSubRename(null); setSubDelete(null); setCategoriesOpen(true); }}>
             <Tag size={14} className="mr-1.5" /> Categories
           </Button>
           <Button variant="outline" size="sm" onClick={() => setImportOpen(true)}>
@@ -3141,7 +3218,7 @@ export default function AdminPanel() {
         </AlertDialogContent>
       </AlertDialog>
 
-      {/* Categories Manager — rename / delete whole categories */}
+      {/* Categories Manager — rename / delete categories & subcategories */}
       <Dialog
         open={categoriesOpen}
         onOpenChange={(open) => {
@@ -3149,6 +3226,9 @@ export default function AdminPanel() {
           if (!open) {
             setCatRename(null);
             setCatDelete(null);
+            setCatExpanded(null);
+            setSubRename(null);
+            setSubDelete(null);
           }
         }}
       >
@@ -3156,7 +3236,7 @@ export default function AdminPanel() {
           <DialogHeader>
             <DialogTitle>Manage Categories</DialogTitle>
             <DialogDescription>
-              Rename a category (applies to every product in it) or delete it. Publish afterwards to make changes live on the store.
+              Rename or delete categories — expand a category to manage its subcategories the same way. Publish afterwards to make changes live.
             </DialogDescription>
           </DialogHeader>
 
@@ -3251,6 +3331,100 @@ export default function AdminPanel() {
                 </Button>
               </div>
             </div>
+          ) : subDelete ? (
+            /* ── Subcategory delete confirmation ── */
+            <div className="space-y-4 py-2">
+              <div className="rounded-lg border border-red-200 bg-red-50 p-3">
+                <p className="text-sm font-medium text-red-900">
+                  Delete subcategory “{subDelete.name}” from {subDelete.category}?
+                </p>
+                <p className="mt-1 text-xs text-red-700">
+                  {subDelete.count} product{subDelete.count === 1 ? "" : "s"} use{subDelete.count === 1 ? "s" : ""} this subcategory. Choose what happens to them:
+                </p>
+              </div>
+
+              {(() => {
+                const siblings = getCategoryStats()
+                  .find((c) => c.name === subDelete.category)
+                  ?.subs.map((s) => s.name)
+                  .filter((n) => n !== subDelete.name) ?? [];
+                return (
+                  <>
+                    <button
+                      type="button"
+                      onClick={() => setSubDelete({ ...subDelete, mode: "strip" })}
+                      className={`w-full rounded-lg border p-3 text-left transition-colors ${
+                        subDelete.mode === "strip"
+                          ? "border-purple-400 bg-purple-50"
+                          : "border-gray-200 hover:border-gray-300"
+                      }`}
+                    >
+                      <p className="text-sm font-medium">Remove the subcategory only</p>
+                      <p className="mt-0.5 text-xs text-gray-500">
+                        Products stay in {subDelete.category}{` — they just lose “${subDelete.name}” as their subcategory.`}
+                      </p>
+                    </button>
+                    {siblings.length > 0 && (
+                      <>
+                        <button
+                          type="button"
+                          onClick={() => setSubDelete({ ...subDelete, mode: "move" })}
+                          className={`w-full rounded-lg border p-3 text-left transition-colors ${
+                            subDelete.mode === "move"
+                              ? "border-purple-400 bg-purple-50"
+                              : "border-gray-200 hover:border-gray-300"
+                          }`}
+                        >
+                          <p className="text-sm font-medium">Move products to another subcategory</p>
+                          <p className="mt-0.5 text-xs text-gray-500">Products stay in {subDelete.category}, filed under a different subcategory.</p>
+                        </button>
+                        {subDelete.mode === "move" && (
+                          <Select
+                            value={subDelete.moveTo}
+                            onValueChange={(v) => setSubDelete({ ...subDelete, moveTo: v })}
+                          >
+                            <SelectTrigger>
+                              <SelectValue placeholder="Choose a subcategory" />
+                            </SelectTrigger>
+                            <SelectContent>
+                              {siblings.map((s) => (
+                                <SelectItem key={s} value={s}>{s}</SelectItem>
+                              ))}
+                            </SelectContent>
+                          </Select>
+                        )}
+                      </>
+                    )}
+                    <button
+                      type="button"
+                      onClick={() => setSubDelete({ ...subDelete, mode: "delete" })}
+                      className={`w-full rounded-lg border p-3 text-left transition-colors ${
+                        subDelete.mode === "delete"
+                          ? "border-red-400 bg-red-50"
+                          : "border-gray-200 hover:border-gray-300"
+                      }`}
+                    >
+                      <p className="text-sm font-medium text-red-700">Delete the products too</p>
+                      <p className="mt-0.5 text-xs text-gray-500">
+                        Remove “{subDelete.name}” and its {subDelete.count} product{subDelete.count === 1 ? "" : "s"} from the catalog.
+                      </p>
+                    </button>
+                  </>
+                );
+              })()}
+
+              <div className="flex justify-end gap-2 pt-1">
+                <Button variant="outline" onClick={() => setSubDelete(null)}>Back</Button>
+                <Button
+                  className="bg-red-600 hover:bg-red-700"
+                  disabled={catBusy || (subDelete.mode === "move" && !subDelete.moveTo)}
+                  onClick={confirmDeleteSubcategory}
+                >
+                  {catBusy && <RefreshCw className="animate-spin mr-2" size={14} />}
+                  Delete subcategory
+                </Button>
+              </div>
+            </div>
           ) : (
             /* ── Category list ── */
             <div className="max-h-[55vh] space-y-2 overflow-y-auto py-2 pr-1">
@@ -3292,33 +3466,115 @@ export default function AdminPanel() {
                     </div>
                   </div>
                 ) : (
-                  <div key={c.name} className="flex items-center gap-2 rounded-lg border p-3">
-                    <div className="min-w-0 flex-1">
-                      <p className="truncate font-medium">{c.name}</p>
-                      <p className="text-xs text-gray-500">
-                        {c.count} product{c.count === 1 ? "" : "s"}
-                        {c.subs.length > 0 &&
-                          ` · ${c.subs.length} subcategor${c.subs.length === 1 ? "y" : "ies"}: ${c.subs.slice(0, 3).join(", ")}${c.subs.length > 3 ? "…" : ""}`}
-                      </p>
+                  <div key={c.name} className="rounded-lg border">
+                    <div className="flex items-center gap-2 p-3">
+                      {c.subs.length > 0 ? (
+                        <button
+                          type="button"
+                          onClick={() => setCatExpanded(catExpanded === c.name ? null : c.name)}
+                          aria-expanded={catExpanded === c.name}
+                          title={catExpanded === c.name ? "Hide subcategories" : "Show subcategories"}
+                          className="flex size-8 shrink-0 items-center justify-center rounded-md text-gray-400 transition-colors hover:bg-gray-100 hover:text-purple-900"
+                        >
+                          <ChevronDown size={16} className={`transition-transform duration-200 ${catExpanded === c.name ? "rotate-180" : ""}`} />
+                        </button>
+                      ) : (
+                        <span className="w-8 shrink-0" aria-hidden="true" />
+                      )}
+                      <div className="min-w-0 flex-1">
+                        <p className="truncate font-medium">{c.name}</p>
+                        <p className="text-xs text-gray-500">
+                          {c.count} product{c.count === 1 ? "" : "s"}
+                          {c.subs.length > 0 &&
+                            ` · ${c.subs.length} subcategor${c.subs.length === 1 ? "y" : "ies"}`}
+                        </p>
+                      </div>
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        className="h-8 w-8"
+                        title="Rename category"
+                        onClick={() => setCatRename({ name: c.name, value: c.name })}
+                      >
+                        <Pencil size={14} />
+                      </Button>
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        className="h-8 w-8 text-red-600 hover:bg-red-50 hover:text-red-700"
+                        title="Delete category"
+                        onClick={() => openDeleteCategory(c)}
+                      >
+                        <Trash2 size={14} />
+                      </Button>
                     </div>
-                    <Button
-                      variant="ghost"
-                      size="icon"
-                      className="h-8 w-8"
-                      title="Rename category"
-                      onClick={() => setCatRename({ name: c.name, value: c.name })}
-                    >
-                      <Pencil size={14} />
-                    </Button>
-                    <Button
-                      variant="ghost"
-                      size="icon"
-                      className="h-8 w-8 text-red-600 hover:bg-red-50 hover:text-red-700"
-                      title="Delete category"
-                      onClick={() => openDeleteCategory(c)}
-                    >
-                      <Trash2 size={14} />
-                    </Button>
+
+                    {/* Subcategories — expand a category to manage them */}
+                    {catExpanded === c.name && c.subs.length > 0 && (
+                      <div className="space-y-1 border-t bg-gray-50/60 px-3 py-2">
+                        {c.subs.map((s) =>
+                          subRename?.category === c.name && subRename.name === s.name ? (
+                            <div key={s.name} className="space-y-2 rounded-md border border-purple-300 bg-white p-2.5">
+                              <Input
+                                autoFocus
+                                value={subRename.value}
+                                onChange={(e) => setSubRename({ category: c.name, name: s.name, value: e.target.value })}
+                                onKeyDown={(e) => {
+                                  if (e.key === "Enter") confirmRenameSubcategory();
+                                  if (e.key === "Escape") setSubRename(null);
+                                }}
+                                placeholder="Subcategory name"
+                                className="h-8 text-[13px]"
+                              />
+                              {subRename.value.trim() !== s.name &&
+                                c.subs.some((o) => o.name === subRename.value.trim() && o.name !== s.name) && (
+                                  <p className="text-xs text-amber-700 flex items-start gap-1.5">
+                                    <AlertTriangle size={13} className="mt-0.5 shrink-0" />
+                                    A subcategory named “{subRename.value.trim()}” already exists in {c.name} — saving merges “{s.name}” into it.
+                                  </p>
+                                )}
+                              <div className="flex justify-end gap-2">
+                                <Button variant="outline" size="sm" className="h-7" onClick={() => setSubRename(null)}>Cancel</Button>
+                                <Button
+                                  size="sm"
+                                  className="h-7 bg-purple-950 hover:bg-purple-800"
+                                  disabled={!subRename.value.trim() || subRename.value.trim() === s.name}
+                                  onClick={confirmRenameSubcategory}
+                                >
+                                  Save
+                                </Button>
+                              </div>
+                            </div>
+                          ) : (
+                            <div key={s.name} className="flex items-center gap-2 rounded-md px-1.5 py-1.5 hover:bg-white">
+                              <ChevronRight size={13} className="shrink-0 text-violet-400" />
+                              <div className="min-w-0 flex-1">
+                                <p className="truncate text-[13px] font-medium text-gray-700">{s.name}</p>
+                                <p className="text-[11px] text-gray-500">{s.count} product{s.count === 1 ? "" : "s"}</p>
+                              </div>
+                              <Button
+                                variant="ghost"
+                                size="icon"
+                                className="size-7"
+                                title="Rename subcategory"
+                                onClick={() => setSubRename({ category: c.name, name: s.name, value: s.name })}
+                              >
+                                <Pencil size={12} />
+                              </Button>
+                              <Button
+                                variant="ghost"
+                                size="icon"
+                                className="size-7 text-red-600 hover:bg-red-50 hover:text-red-700"
+                                title="Delete subcategory"
+                                onClick={() => openDeleteSubcategory(c.name, s)}
+                              >
+                                <Trash2 size={12} />
+                              </Button>
+                            </div>
+                          )
+                        )}
+                      </div>
+                    )}
                   </div>
                 )
               )}

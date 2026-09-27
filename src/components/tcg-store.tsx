@@ -214,7 +214,7 @@ function buildCategoryTabs(products: Product[], loading = false): typeof CATEGOR
   ];
 }
 
-function buildSubcategoryTabs(category: string, products: Product[]): { key: string; label: string }[] {
+function buildSubcategoryTabs(category: string, products: Product[], loading = false): { key: string; label: string }[] {
   const known = SUBCATEGORY_TABS[category] || [];
   const knownKeys = known.map((s) => s.key.toLowerCase());
   const inCatalog = new Set<string>();
@@ -226,7 +226,15 @@ function buildSubcategoryTabs(category: string, products: Product[]): { key: str
   const fresh = [...inCatalog]
     .filter((s) => !knownKeys.includes(s.toLowerCase()))
     .sort((a, b) => a.localeCompare(b));
-  return [...known, ...fresh.map((s) => ({ key: s, label: s }))];
+  // Ghost-tab guard: while the catalog is loading (or failed to load) keep
+  // the defaults; once loaded, a known subcategory with no products behind
+  // it (renamed or deleted from the admin panel) is hidden instead of
+  // lingering as an empty tab.
+  const keepKnown = loading || products.length === 0;
+  const visibleKnown = keepKnown
+    ? known
+    : known.filter((s) => [...inCatalog].some((c) => c.toLowerCase() === s.key.toLowerCase()));
+  return [...visibleKnown, ...fresh.map((s) => ({ key: s, label: s }))];
 }
 
 const HERO_SLIDES = [
@@ -535,8 +543,8 @@ export default function TCGStore({
     if (selectedSubcategory !== "all" && selectedCategory !== "all") {
       filtered = filtered.filter(
         (p) =>
-          (p.subcategory && p.subcategory.toLowerCase() === selectedSubcategory.toLowerCase()) ||
-          (p.categories && p.categories.length > 1 && p.categories[1].toLowerCase() === selectedSubcategory.toLowerCase())
+          (p.categories && p.categories.length > 1 && p.categories.slice(1).some((c) => c.toLowerCase() === selectedSubcategory.toLowerCase())) ||
+          (p.subcategory && p.subcategory.toLowerCase() === selectedSubcategory.toLowerCase())
       );
     }
     if (searchQuery.trim()) {
@@ -832,14 +840,18 @@ export default function TCGStore({
             </div>
           </div>
 
-          {/* ── Category bar (categories moved from the products section into the header) ── */}
+          {/* ── Category bar (categories moved from the products section into the header) ──
+              Mobile: main categories in ONE horizontally-scrollable row —
+              subcategories stay hidden until a category is tapped. Desktop:
+              pills wrap onto multiple lines as before. */}
           <div id="header-category-bar" className="border-t border-purple-100/70 bg-white/70">
-            <div className="flex flex-wrap items-center gap-1.5 py-2 px-1">
+            <div className="relative">
+            <div className="flex items-center gap-1.5 py-2 px-1 flex-nowrap overflow-x-auto overscroll-x-contain [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden md:flex-wrap md:overflow-x-visible">
               <span className="hidden lg:inline-flex items-center pr-2 text-[10px] font-bold uppercase tracking-[0.18em] text-violet-400 shrink-0 select-none">
                 Categories
               </span>
               {categoryTabs.map((tab) => {
-                const subs = buildSubcategoryTabs(tab.key, products);
+                const subs = buildSubcategoryTabs(tab.key, products, loading);
                 const hasDropdown = !!subs && subs.length > 0;
                 const isDropdownOpen = openCatDropdown === tab.key;
                 const isActive = currentPage === "shop" && selectedCategory === tab.key;
@@ -930,11 +942,14 @@ export default function TCGStore({
                 );
               })}
             </div>
+            {/* Mobile scroll affordance — soft fade hinting the row continues */}
+            <div aria-hidden="true" className="md:hidden pointer-events-none absolute inset-y-0 right-0 w-10 bg-gradient-to-l from-white via-white/70 to-transparent" />
+            </div>
 
             {/* Mobile (<md): subcategories expand IN-FLOW below the pills row
                 as a wrapping pill panel — always inside the viewport, never an
                 absolutely-positioned card sliding off the screen edge. */}
-            {openCatDropdown && buildSubcategoryTabs(openCatDropdown, products).length > 0 && (
+            {openCatDropdown && buildSubcategoryTabs(openCatDropdown, products, loading).length > 0 && (
               <div className="md:hidden flex flex-wrap gap-1.5 px-1 pt-2 pb-2.5 border-t border-purple-100/60">
                 <button
                   onClick={() => handleSubcategoryNav(openCatDropdown, "all")}
@@ -946,7 +961,7 @@ export default function TCGStore({
                 >
                   All {categoryTabs.find((t) => t.key === openCatDropdown)?.label}
                 </button>
-                {buildSubcategoryTabs(openCatDropdown, products).map((sub) => (
+                {buildSubcategoryTabs(openCatDropdown, products, loading).map((sub) => (
                   <button
                     key={sub.key}
                     onClick={() => handleSubcategoryNav(openCatDropdown, sub.key)}
@@ -1091,7 +1106,7 @@ export default function TCGStore({
                   { key: "Japanese One Piece", label: "Japanese One Piece Cards", short: "Japanese One Piece", href: "/one-piece-cards" },
                   { key: "Other TCG", label: "Weiss Schwarz, Union Arena & More", short: "Other TCG", href: "/japanese-tcg" },
                 ].map((cat) => {
-                  const subs = buildSubcategoryTabs(cat.key, products);
+                  const subs = buildSubcategoryTabs(cat.key, products, loading);
                   const isFooterOpen = openFooterCat === cat.key;
                   return (
                     <li key={cat.key}>
@@ -1531,7 +1546,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
           {/* Category tabs now live in the header (see the header category bar) */}
 
           {/* Sub-Category Tabs */}
-          {!isHomepageView && selectedCategory !== "all" && buildSubcategoryTabs(selectedCategory, products).length > 0 && (
+          {!isHomepageView && selectedCategory !== "all" && buildSubcategoryTabs(selectedCategory, products, loading).length > 0 && (
             <div className="-mx-4 px-4 overflow-x-auto scrollbar-none">
               <div className="flex gap-2 pb-2 min-w-max">
                 <button
@@ -1544,7 +1559,7 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
                 >
                   All
                 </button>
-                {buildSubcategoryTabs(selectedCategory, products).map((sub) => (
+                {buildSubcategoryTabs(selectedCategory, products, loading).map((sub) => (
                   <button
                     key={sub.key}
                     onClick={() => setSelectedSubcategory(sub.key)}

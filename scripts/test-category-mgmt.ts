@@ -20,6 +20,7 @@ const BASELINE = [
   { id: "p3", title: "C", price: 30, image: "c.jpg", category: "Other TCG", categories: ["Other TCG", "Weiss Schwarz"], created_at: "2026-01-01", updated_at: "2026-01-01" },
   { id: "p4", title: "D", price: 40, image: "d.jpg", category: "Other TCG", categories: ["Other TCG"], created_at: "2026-01-01", updated_at: "2026-01-01" },
   { id: "p5", title: "E", price: 50, image: "e.jpg", category: "Lorcana", categories: ["Lorcana"], created_at: "2026-01-01", updated_at: "2026-01-01" },
+  { id: "p6", title: "F", price: 60, image: "f.jpg", category: "Pokemon", categories: ["Pokemon", "Booster Boxes", "Promo"], created_at: "2026-01-01", updated_at: "2026-01-01" },
 ];
 (globalThis as Record<string, unknown>).fetch = async (url: string) => {
   if (String(url).includes("products.json")) {
@@ -48,7 +49,7 @@ async function main() {
 
   console.log("── renameCategory ──");
   const n1 = adminStore.renameCategory("Pokemon", "Pokémon TCG");
-  check("returns affected count", n1, 2);
+  check("returns affected count", n1, 3);
   check("p1 category+cats[0] updated, subs kept", cat("p1"), "Pokémon TCG | Pokémon TCG ▸ Booster Boxes");
   check("p2 (no subs) updated", cat("p2"), "Pokémon TCG | Pokémon TCG");
   check("other categories untouched", cat("p3"), "Other TCG | Other TCG ▸ Weiss Schwarz");
@@ -87,6 +88,53 @@ async function main() {
   check("unpublished changes recorded", adminStore.getUnpublishedCount() > 0, true);
   const published = JSON.parse(adminStore.exportCatalog());
   check("no product left on deleted category", published.filter((p: { category: string }) => p.category === "Pokémon TCG" || p.category === "Digimon").length, 0);
+
+  console.log("── renameSubcategory ──");
+  // Fresh store (reset overlay via import) for clean sub tests
+  adminStore.importCatalog(JSON.stringify(BASELINE));
+  const s1 = adminStore.renameSubcategory("Pokemon", "Booster Boxes", "Booster Box");
+  check("returns affected count (p1 + p6)", s1, 2);
+  check("p1 sub renamed in place", cat("p1"), "Pokemon | Pokemon ▸ Booster Box");
+  check("p6 first sub renamed, second kept", cat("p6"), "Pokemon | Pokemon ▸ Booster Box ▸ Promo");
+  check("product without that sub untouched", cat("p2"), "Pokemon | Pokemon");
+  const s1b = adminStore.renameSubcategory("Pokemon", "Booster Boxes", "X");
+  check("renaming the old (now empty) sub affects 0", s1b, 0);
+  const s1c = adminStore.renameSubcategory("Other TCG", "Weiss Schwarz", "Weiss");
+  check("other categories untouched", s1c, 1);
+
+  console.log("── renameSubcategory onto existing = merge (no duplicate) ──");
+  const s2 = adminStore.renameSubcategory("Pokemon", "Promo", "Booster Box");
+  check("returns affected count", s2, 1);
+  check("p6 merged, no duplicate entries", cat("p6"), "Pokemon | Pokemon ▸ Booster Box");
+
+  console.log("── renameSubcategory same/empty = no-op ──");
+  check("same name → 0", adminStore.renameSubcategory("Pokemon", "Booster Box", "Booster Box"), 0);
+  check("empty target → 0", adminStore.renameSubcategory("Pokemon", "Booster Box", "  "), 0);
+
+  console.log("── deleteSubcategory: strip (products stay in category) ──");
+  adminStore.importCatalog(JSON.stringify(BASELINE));
+  const s3 = adminStore.deleteSubcategory("Pokemon", "Promo", { mode: "strip" });
+  check("returns affected count", s3, 1);
+  check("p6 loses only that sub, keeps the rest", cat("p6"), "Pokemon | Pokemon ▸ Booster Boxes");
+  const s3b = adminStore.deleteSubcategory("Pokemon", "Booster Boxes", { mode: "strip" });
+  check("strip last sub → product stays, category-only", cat("p1"), "Pokemon | Pokemon");
+  check("category itself never dropped", cat("p6"), "Pokemon | Pokemon");
+
+  console.log("── deleteSubcategory: move to sibling ──");
+  adminStore.importCatalog(JSON.stringify(BASELINE));
+  const s4 = adminStore.deleteSubcategory("Pokemon", "Promo", { mode: "move", moveTo: "Booster Boxes" });
+  check("returns affected count", s4, 1);
+  check("p6 sub replaced in place", cat("p6"), "Pokemon | Pokemon ▸ Booster Boxes");
+  const s4b = adminStore.deleteSubcategory("Pokemon", "Booster Boxes", { mode: "move", moveTo: "Promo" });
+  check("p6 keeps existing Promo, no duplicate", cat("p6"), "Pokemon | Pokemon ▸ Promo");
+
+  console.log("── deleteSubcategory: delete products ──");
+  adminStore.importCatalog(JSON.stringify(BASELINE));
+  const before2 = adminStore.getEffectiveProducts().length;
+  const s5 = adminStore.deleteSubcategory("Other TCG", "Weiss Schwarz", { mode: "delete" });
+  check("returns affected count", s5, 1);
+  check("product removed, others stay", adminStore.getEffectiveProducts().length, before2 - 1);
+  check("p4 (same category, no sub) untouched", cat("p4"), "Other TCG | Other TCG");
 
   console.log(failures === 0 ? "\nALL TESTS PASSED" : `\n${failures} TEST(S) FAILED`);
   process.exit(failures === 0 ? 0 : 1);
