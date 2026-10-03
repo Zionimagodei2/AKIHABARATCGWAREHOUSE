@@ -6,8 +6,9 @@
       "title": "    Pokémon TCG 30th Celebration",
       "subtitle": "    The 30th Anniversary Collection Is Now In Stock",
       "accent": "New",
-      "order": 0,
-      "active": true
+      "order": 2,
+      "active": true,
+      "productId": null
     },
     {
       "id": "slide-mubbggs0",
@@ -15,8 +16,9 @@
       "title": "    ONE PIECE OP-17",
       "subtitle": "    OP-17 Cases/Booster Boxes In Stock",
       "accent": "New ",
-      "order": 1,
-      "active": true
+      "order": 3,
+      "active": true,
+      "productId": null
     },
     {
       "id": "slide-mubbkidg",
@@ -24,9 +26,19 @@
       "title": "    ONE PIECE OP-18",
       "subtitle": "Pre order ",
       "accent": "Sealed cases/ Booster boxes",
-      "order": 2,
+      "order": 0,
       "active": true,
       "productId": null
+    },
+    {
+      "id": "slide-muszbmmm",
+      "image": "https://grailborne.com.au/cdn/shop/files/s-l1600_4.jpg?v=1789356888&width=900",
+      "title": "One piece EB-05",
+      "subtitle": "Sealed cases/ Booster boxes ",
+      "accent": "Pre order",
+      "order": 1,
+      "active": true,
+      "productId": "p-musytfk059vm"
     }
   ],
   "announcements": [
