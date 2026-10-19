@@ -807,6 +807,12 @@ export default function TCGStore({
               >
                 Releases
               </Link>
+              <Link
+                href="/blog/"
+                className="px-3 py-2 text-[13px] font-medium rounded-md transition-colors text-gray-500 hover:text-purple-900 hover:bg-gray-50"
+              >
+                Blog
+              </Link>
             </nav>
 
             {/* Right side */}
@@ -1115,6 +1121,7 @@ export default function TCGStore({
                   { label: "Set Guides", href: "/sets/" },
                   { label: "Buying Guides", href: "/guides/" },
                   { label: "Release Calendar", href: "/release-calendar/" },
+                  { label: "Blog", href: "/blog/" },
                 ].map((link) => (
                   <li key={link.label}>
                     <Link
