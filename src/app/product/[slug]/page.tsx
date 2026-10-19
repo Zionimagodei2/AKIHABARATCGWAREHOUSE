@@ -11,6 +11,10 @@ import {
   SITE_URL,
   URL_TRAILING,
 } from "@/lib/product-data";
+import {
+  setHubForProduct,
+  setHubLabel,
+} from "@/lib/content-data";
 
 /* ────────────────────────────────────────────────────────────
    Individual Product Page — server-rendered for SEO
@@ -41,10 +45,10 @@ export async function generateMetadata({
 
   const cat = product.category;
   const phrase = categoryPhrase(cat);
-  const title = truncate(`${product.title} | ${phrase} Cards`, 65);
+  const title = truncate(`${product.title} | ${phrase} Cards`, 60);
   const description = truncate(
     `Authentic ${phrase} ${product.subcategory || "TCG product"} — ${product.title}. Factory sealed, ships worldwide. $${product.price.toFixed(2)} with 100% authenticity guarantee.`,
-    158
+    155
   );
   const url = `${SITE_URL}/product/${product.slug}${URL_TRAILING}`;
 
@@ -95,6 +99,7 @@ export default async function ProductPage({
   if (!product) notFound();
 
   const related = relatedProducts(product, 4);
+  const hubSlug = setHubForProduct(product.title);
   const phrase = categoryPhrase(product.category);
   const isEnglish = productLanguage(product.category) === "English";
   const discount =
@@ -355,6 +360,22 @@ export default async function ProductPage({
               </div>
             </div>
           </div>
+
+          {/* Set guide cross-link — editorial internal linking */}
+          {hubSlug && (
+            <div className="mt-8 bg-purple-50 border border-purple-100 rounded-xl p-5">
+              <p className="text-[14px] text-gray-700">
+                <span className="font-bold text-purple-950">Collecting this set? </span>
+                Read our in-depth guide:{" "}
+                <Link
+                  href={`/sets/${hubSlug}/`}
+                  className="font-semibold text-purple-700 hover:text-purple-900 underline underline-offset-2"
+                >
+                  {setHubLabel(hubSlug)} →
+                </Link>
+              </p>
+            </div>
+          )}
 
           {/* Related products — internal linking */}
           {related.length > 0 && (

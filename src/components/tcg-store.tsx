@@ -71,7 +71,7 @@ interface Product {
   id: string;
   title: string;
   price: number;
-  original_price?: number;
+  original_price?: number | null;
   image: string;
   description?: string;
   category: string;
@@ -317,13 +317,18 @@ function getDiscountPercent(original: number, sale: number): number {
 
 export default function TCGStore({
   initialProducts,
+  initialTotal,
 }: {
   initialProducts?: Product[];
+  /** Full catalog size; when the SSR preview is smaller, the client
+      hydrates the rest from /products.json after mount. */
+  initialTotal?: number;
 }) {
   const [products, setProducts] = useState<Product[]>(initialProducts || []);
   const [loading, setLoading] = useState(!initialProducts || initialProducts.length === 0);
-  // Render the full catalog in the initial HTML (SEO: crawlers can't click
-  // "Load More"; product images lazy-load so the page stays fast)
+  // Render the SSR preview in the initial HTML (SEO: first page of the
+  // catalog is present for crawlers; the client hydrates the rest from
+  // /products.json. Product images lazy-load so the page stays fast.)
   const [visibleCount, setVisibleCount] = useState(() =>
     initialProducts && initialProducts.length > 0 ? initialProducts.length : 12
   );
@@ -463,11 +468,13 @@ export default function TCGStore({
     }
   }, []);
 
-  // Fetch products from API (database-backed)
-  // Skipped when server-rendered products are provided (SEO: catalog is
-  // already present in the initial HTML, no client round-trip needed)
+  // Fetch products from API (database-backed), then static JSON fallback.
+  // Skipped only when the server already rendered the FULL catalog.
+  // When the server rendered just a preview page (SEO: small initial HTML),
+  // the client hydrates the rest from /products.json after mount.
   useEffect(() => {
-    if (initialProducts && initialProducts.length > 0) return;
+    const initial = initialProducts || [];
+    if (initialTotal && initial.length >= initialTotal) return;
 
     async function loadProducts() {
       try {
@@ -481,7 +488,7 @@ export default function TCGStore({
               subcategory: p.categories && p.categories.length > 1 ? p.categories[1] : undefined,
               description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
             }));
-          setProducts(cleaned);
+          setProducts((prev) => (cleaned.length > prev.length ? cleaned : prev));
           setLoading(false);
           return;
         }
@@ -500,9 +507,11 @@ export default function TCGStore({
             subcategory: p.categories && p.categories.length > 1 ? p.categories[1] : undefined,
             description: p.description || `Authentic Japanese TCG product. Brand new and factory sealed. Order ${p.title} directly from Japan at unbeatable prices.`,
           }));
-        setProducts(cleaned);
+        // Only swap in the fetched catalog when it's fuller than the SSR
+        // preview — never downgrade to a smaller/failed payload.
+        setProducts((prev) => (cleaned.length > prev.length ? cleaned : prev));
       } catch {
-        // Silent fail
+        // Silent fail — keep the SSR preview
       } finally {
         setLoading(false);
       }
@@ -785,6 +794,19 @@ export default function TCGStore({
                   {item.label}
                 </button>
               ))}
+              {/* Editorial routes — real links so crawlers follow them */}
+              <Link
+                href="/sets/"
+                className="px-3 py-2 text-[13px] font-medium rounded-md transition-colors text-gray-500 hover:text-purple-900 hover:bg-gray-50"
+              >
+                Set Guides
+              </Link>
+              <Link
+                href="/release-calendar/"
+                className="px-3 py-2 text-[13px] font-medium rounded-md transition-colors text-gray-500 hover:text-purple-900 hover:bg-gray-50"
+              >
+                Releases
+              </Link>
             </nav>
 
             {/* Right side */}
@@ -1087,6 +1109,20 @@ export default function TCGStore({
                     >
                       {link.label}
                     </button>
+                  </li>
+                ))}
+                {[
+                  { label: "Set Guides", href: "/sets/" },
+                  { label: "Buying Guides", href: "/guides/" },
+                  { label: "Release Calendar", href: "/release-calendar/" },
+                ].map((link) => (
+                  <li key={link.label}>
+                    <Link
+                      href={link.href}
+                      className="text-[13px] text-gray-300 hover:text-violet-300 transition-colors"
+                    >
+                      {link.label}
+                    </Link>
                   </li>
                 ))}
               </ul>

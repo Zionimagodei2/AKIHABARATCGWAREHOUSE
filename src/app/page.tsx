@@ -4,6 +4,11 @@ import { allProducts, SITE_URL, URL_TRAILING, type Product } from "@/lib/product
 export default function Home() {
   const products = allProducts;
 
+  // SEO/perf: server-render only the first catalog page (24 products) in the
+  // initial HTML. The client hydrates the full catalog from /products.json.
+  // Crawlers still reach every product via the sitemap and category pages.
+  const firstPage = products.slice(0, 24);
+
   // Product structured data — top products by rating for rich results
   // (price, availability & rating stars in search results)
   const topProducts = [...products]
@@ -115,8 +120,45 @@ export default function Home() {
     })),
   };
 
+  // Organization + WebSite structured data (P6 trust schema).
+  // sameAs social links pending — client to provide Facebook/TikTok/Instagram URLs.
+  const orgJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Akihabara TCG Warehouse",
+    url: SITE_URL,
+    logo: `${SITE_URL}/store-logo.webp`,
+    description:
+      "Authentic Japanese & English trading card games, sourced directly from authorized Japanese distributors and shipped worldwide.",
+    email: "support@akihabaratcgwarehouse.com",
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: "Akihabara, Tokyo",
+      addressCountry: "JP",
+    },
+  };
+
+  const websiteJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Akihabara TCG Warehouse",
+    url: SITE_URL,
+    publisher: {
+      "@type": "Organization",
+      name: "Akihabara TCG Warehouse",
+    },
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+      />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }}
@@ -125,7 +167,7 @@ export default function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
-      <TCGStore initialProducts={products} />
+      <TCGStore initialProducts={firstPage} initialTotal={products.length} />
     </>
   );
 }

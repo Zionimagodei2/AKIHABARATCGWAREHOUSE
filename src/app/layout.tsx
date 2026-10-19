@@ -30,9 +30,9 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.akihabaratcgwarehouse.com"),
-  title: "Japanese & English TCG Cards | Pokemon, One Piece, Gundam | Akihabara TCG Warehouse",
+  title: "Japanese & English TCG Cards | Akihabara TCG Warehouse",
   description:
-    "Shop authentic Japanese & English trading card games at Akihabara TCG Warehouse. Pokemon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam Card Game & Disney Lorcana. Direct from Japan, 100% Authentic, Ships Worldwide.",
+    "Authentic Japanese & English Pokémon, One Piece and Dragon Ball booster boxes. Factory sealed, direct from Japan, ships worldwide.",
   keywords: [
     "Japanese Pokemon cards",
     "Japanese One Piece cards",
@@ -95,7 +95,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Japanese & English TCG Cards | Akihabara TCG Warehouse",
     description:
-      "Shop authentic Japanese & English trading card games. Pokemon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam & more. Direct from Japan, 100% Authentic, Ships Worldwide.",
+      "Authentic Japanese & English Pokémon, One Piece and Dragon Ball booster boxes. Factory sealed, direct from Japan, ships worldwide.",
     type: "website",
     url: "https://www.akihabaratcgwarehouse.com",
     siteName: "Akihabara TCG Warehouse",
@@ -106,7 +106,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Japanese & English TCG Cards | Akihabara TCG Warehouse",
     description:
-      "Shop authentic Japanese & English trading card games. Pokemon, One Piece, Dragon Ball & more. Direct from Japan, Ships Worldwide.",
+      "Authentic Japanese & English Pokémon, One Piece and Dragon Ball booster boxes. Factory sealed, direct from Japan, ships worldwide.",
     images: ["/og-image.png?v=3"],
   },
   category: "Shopping",

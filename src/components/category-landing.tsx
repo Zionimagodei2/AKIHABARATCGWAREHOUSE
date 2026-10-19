@@ -38,9 +38,9 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
     key: "Pokemon",
     slug: "/pokemon-cards",
     metaTitle:
-      "Japanese Pokemon Cards — Booster Boxes, Sealed Cases | Akihabara TCG",
+      "Japanese Pokemon Cards — Booster Boxes | Akihabara TCG",
     metaDescription:
-      "Authentic Japanese Pokemon cards: sealed cases, SV-era booster boxes, special sets & promos. Factory sealed, direct from Akihabara, Tokyo. Ships worldwide with 100% authenticity guarantee.",
+      "Authentic Japanese Pokemon cards: booster boxes, sealed cases & special sets. Factory sealed, direct from Japan, ships worldwide.",
     keywords: [
       "Japanese Pokemon cards",
       "Pokemon booster box Japanese",
@@ -82,9 +82,9 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
     key: "Japanese One Piece",
     slug: "/one-piece-cards",
     metaTitle:
-      "Japanese One Piece Cards — Booster Boxes & Sealed Cases | Akihabara TCG",
+      "Japanese One Piece Cards — Booster Boxes | Akihabara TCG",
     metaDescription:
-      "Authentic Japanese One Piece Card Game products: OP booster boxes, sealed display cases and special sets. Factory sealed, direct from Akihabara, ships worldwide.",
+      "Authentic Japanese One Piece Card Game: OP booster boxes & sealed cases. Factory sealed, direct from Japan, ships worldwide.",
     keywords: [
       "Japanese One Piece cards",
       "One Piece card game Japanese",
@@ -121,9 +121,9 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
     key: "English One Piece",
     slug: "/english-one-piece-cards",
     metaTitle:
-      "English One Piece Cards — Booster Boxes & Sealed Cases | Akihabara TCG",
+      "English One Piece Cards — Booster Boxes | Akihabara TCG",
     metaDescription:
-      "English One Piece Card Game booster boxes and sealed cases: every set from OP-01 Romance Dawn to OP-17, Memorial Collection and Anime 25th extra boosters, The Best premium boosters. Factory sealed, ships worldwide.",
+      "English One Piece Card Game booster boxes & sealed cases. 100% authentic, factory sealed, ships worldwide from Japan.",
     keywords: [
       "English One Piece cards",
       "One Piece card game English",
@@ -162,9 +162,9 @@ export const CATEGORY_CONFIG: Record<string, CategoryLandingConfig> = {
     key: "Other TCG",
     slug: "/japanese-tcg",
     metaTitle:
-      "Japanese TCG — Weiss Schwarz, Union Arena, Dragon Ball, Gundam | Akihabara",
+      "Japanese TCG Cards — Dragon Ball & More | Akihabara TCG",
     metaDescription:
-      "Authentic Japanese trading card games: Weiss Schwarz, Union Arena, Dragon Ball Fusion World, Gundam, Disney Lorcana & hololive. Direct from Akihabara, ships worldwide.",
+      "Authentic Japanese TCG: Dragon Ball, Weiss Schwarz, Union Arena & Gundam. Factory sealed, direct from Japan, ships worldwide.",
     keywords: [
       "Japanese TCG",
       "Weiss Schwarz cards",

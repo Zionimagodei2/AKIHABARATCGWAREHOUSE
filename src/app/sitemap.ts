@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { allProducts, CATEGORY_PAGES, SITE_URL, URL_TRAILING } from "@/lib/product-data";
+import { SET_SLUGS, GUIDE_SLUGS } from "@/lib/content-data";
 
 /* Dynamic sitemap — serves /sitemap.xml with category landing pages
    and every product URL, generated from the same slug source as the pages */
@@ -35,5 +36,39 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...homepage, ...categoryPages, ...productPages];
+  // Editorial content — set hubs, guides, release calendar
+  const editorialPages: MetadataRoute.Sitemap = [
+    {
+      url: `${SITE_URL}/sets${URL_TRAILING}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    },
+    ...SET_SLUGS.map((slug) => ({
+      url: `${SITE_URL}/sets/${slug}${URL_TRAILING}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    })),
+    {
+      url: `${SITE_URL}/guides${URL_TRAILING}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+    },
+    ...GUIDE_SLUGS.map((slug) => ({
+      url: `${SITE_URL}/guides/${slug}${URL_TRAILING}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+    })),
+    {
+      url: `${SITE_URL}/release-calendar${URL_TRAILING}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    },
+  ];
+
+  return [...homepage, ...categoryPages, ...productPages, ...editorialPages];
 }
