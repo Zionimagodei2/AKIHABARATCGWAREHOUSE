@@ -104,8 +104,7 @@ export default async function BlogPostPage({
 
         <article className="max-w-3xl mx-auto px-4 sm:px-6 py-10">
           <p className="text-[13px] text-gray-400 mb-3">
-            By the Akihabara TCG Warehouse team · {p.datePublished} ·{" "}
-            {p.readMinutes} min read
+            By the Warehouse · {p.datePublished} · {p.readMinutes} min read
           </p>
           <h1 className="text-3xl sm:text-4xl font-extrabold text-purple-950 leading-tight mb-6">
             {p.h1}
