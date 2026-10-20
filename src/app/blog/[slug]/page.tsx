@@ -126,6 +126,64 @@ export default async function BlogPostPage({
                   <p key={j}>{para}</p>
                 ))}
               </div>
+              {s.math && (
+                <div className="mt-4 bg-white border border-gray-200 rounded-xl px-5 py-4 font-mono text-[13.5px] text-purple-950 leading-loose">
+                  {s.math.map((line, j) => (
+                    <p key={j}>{line}</p>
+                  ))}
+                </div>
+              )}
+              {s.table && (
+                <div className="mt-4 overflow-x-auto">
+                  <table className="w-full text-[13.5px] bg-white border border-gray-200 rounded-xl overflow-hidden">
+                    <thead>
+                      <tr className="bg-purple-950 text-white text-left">
+                        {s.table.head.map((h) => (
+                          <th key={h} className="px-4 py-2.5 font-bold">{h}</th>
+                        ))}
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {s.table.rows.map((row, j) => (
+                        <tr key={j} className="border-t border-gray-100">
+                          {row.map((cell, k) => (
+                            <td
+                              key={k}
+                              className={
+                                k === 0
+                                  ? "px-4 py-2.5 font-semibold text-purple-950"
+                                  : "px-4 py-2.5 text-gray-600"
+                              }
+                            >
+                              {cell}
+                            </td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              )}
+              {s.note && (
+                <aside className="mt-4 border-l-4 border-amber-400 bg-amber-50 rounded-r-xl px-5 py-4">
+                  <p className="text-[11px] font-bold text-amber-600 tracking-[0.15em] uppercase mb-1.5">
+                    Warehouse Note
+                  </p>
+                  <p className="text-[14.5px] text-purple-950 leading-relaxed italic">
+                    {s.note}
+                  </p>
+                </aside>
+              )}
+              {s.checklist && (
+                <ul className="mt-4 space-y-2">
+                  {s.checklist.map((item, j) => (
+                    <li key={j} className="flex gap-2.5 text-[14.5px] text-gray-700">
+                      <span aria-hidden="true" className="mt-0.5 inline-block w-4 h-4 shrink-0 rounded border-2 border-purple-400" />
+                      <span>{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </section>
           ))}
 
