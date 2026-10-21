@@ -185,7 +185,180 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "are-japanese-pokemon-cards-a-good-investment",
     "takeaway": [
       "Verdict: buy Japanese Pokémon cards because they are the best version of the hobby — better print, honest per-card prices, sets built to be opened. If some of them appreciate, treat it as a bonus on a collection, not a return on a portfolio. The moment the purchase needs the price to cooperate, it has stopped being collecting and started being an unpriced bet.",
-      "And if you do park money in sealed product, do it the way the numbers above demand: divided, diversified, and sized to be forgotten for years. More of this shop-floor math lives on [the Warehouse blog](/blog/)."
+      "And if you do park money in sealed product, do it the way the numbers above demand: divided, diversified, and sized to be forgotten for years. More of this shop-floor math lives on [the Warehouse blog](/blog/).",
+      "Two operational reads before any money moves: [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — because condition is where sealed value leaks — and [should you open or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/), the decision every buyer eventually faces."
+    ]
+  },
+  "black-bolt-vs-white-flare-which-to-buy": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "Demand for the pair tracks which legendary more collectors want, and that balance shifts over time — the $12.88 shelf gap as of October 21, 2026 is the current footprint of that preference. What doesn't shift is the structure underneath: identical boxes. Buy the demand you personally have, not the demand you're guessing strangers will have later.",
+        "q": "Is Black Bolt more popular than White Flare?"
+      },
+      {
+        "a": "Only if you genuinely want both legendaries. Together they're $292.42 at October 21, 2026 prices, and because both boxes share the same structure and release, buying both concentrates your money in one paired set rather than spreading risk. As a collector's choice, it's fine. As diversification, it isn't any.",
+        "q": "Should I buy both Black Bolt and White Flare?"
+      },
+      {
+        "a": "It depends on what you measure. Both formats contain exactly 140 cards; the Deluxe costs $24.84 more on either set, and that premium buys the AR-or-better guaranteed pack structure — not more cards. If guaranteed hits and zero bulk matter to you, it's a fair price. If you measure purely by cost per card, the standard box wins on both sets.",
+        "q": "Is the Deluxe box worth it over the standard box?"
+      }
+    ],
+    "h1": "Black Bolt vs White Flare: Which One Should You Buy?",
+    "intro": [
+      "Two boxes sit on the shelf. Same card count, same pack structure, same release day, same gimmick — one headlined by Zekrom, the other by Reshiram, and $12.88 between them. If you're stuck choosing between SV11B Black Bolt and SV11W White Flare, here is the short answer first: structurally, they are the same bet. Pick by which legendary you actually want to pull, and run the Deluxe math carefully if you're buying Deluxe. Everything below is the working.",
+      "This article is for collectors deciding between the two standard boxes or the two Deluxe boxes. It is not for anyone hunting for the objectively 'better investment' of the pair — we'll say it plainly now and prove it with the numbers later: the data doesn't support that claim, for either side."
+    ],
+    "metaDescription": "SV11B Black Bolt vs SV11W White Flare: same structure, $12.88 apart. Per-pack math, Deluxe math, and how to choose — by legendary, not by hype.",
+    "metaTitle": "Black Bolt vs White Flare: Which Box to Buy?",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "One release, two boxes: what you're actually choosing between",
+        "note": "The question we hear most about this pair is 'which one is better value?' — asked as if one box secretly contains more. It doesn't. When we walk a customer through the pack counts and the secret counts side by side, the choice almost always resolves in about ten seconds: they wanted one of the two legendaries all along. The value question was really a permission question.",
+        "paragraphs": [
+          "Black Bolt and White Flare released together in Japan on June 6, 2025, as a paired set — the SV11B / SV11W split. Each standard box holds [20 packs of 7 cards](/blog/how-many-packs-in-a-booster-box/), 140 cards per box. Each set carries 86 or more secret cards above the base set, and across the pair, all 156 Unova Pokémon appear as AR (Art Rare) or better. The full breakdown of both sets lives on our [SV11 set hub](/sets/sv11-black-bolt-white-flare/).",
+          "The headline difference is the new BWR rarity: Black Bolt's face is Zekrom ex, White Flare's is Reshiram ex. That is the real fork in the road. Not pack counts, not secret counts, not structure — those are twins. The legendary on the chase card, and the price."
+        ]
+      },
+      {
+        "h": "The money layer: a $12.88 gap, and what it buys you (nothing structural)",
+        "math": [
+          "Black Bolt standard: $152.65 ÷ 20 packs = $7.63 per pack",
+          "White Flare standard: $139.77 ÷ 20 packs = $6.99 per pack",
+          "Per card (140 per box): Black Bolt $1.09 — White Flare $1.00",
+          "The gap: $152.65 − $139.77 = $12.88, for an identical 140-card structure",
+          "Deluxe: 4 packs × 35 cards = 140 cards — the same total as a standard box",
+          "Black Bolt Deluxe: $177.49 ÷ 140 = $1.27 per card (vs $1.09 standard)",
+          "White Flare Deluxe: $164.61 ÷ 140 = $1.18 per card (vs $1.00 standard)",
+          "Deluxe premium over standard: $24.84 on both sets — it buys the AR-or-better guarantee, not more cards"
+        ],
+        "paragraphs": [
+          "Prices below are our shelf prices as of October 21, 2026. The [Black Bolt standard box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $152.65. The [White Flare standard box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) is $139.77. Here is that gap with the arithmetic exposed:",
+          "So the $12.88 buys exactly one thing: a different legendary at the top of the chase, and whatever demand follows that legendary. It does not buy more packs, more secrets, or better odds at anything. Anyone telling you Black Bolt is 'worth the premium' on structure is selling you a story the arithmetic doesn't back.",
+          "Now the Deluxe boxes, because this is where buyers actually overpay by accident. A Deluxe box is 4 packs of 35 cards — the same 140 cards as a standard box — with AR or better guaranteed in the pack structure. The [Black Bolt Deluxe](/product/sv11b-expansion-pack-deluxe-black-bolt-booster-box-japanese-pokemon-card/) is $177.49 and the [White Flare Deluxe](/product/sv11w-expansion-pack-deluxe-white-flare-booster-box-japanese-pokemon-card/) is $164.61. Notice something: the gap between the two Deluxe boxes is also exactly $12.88. The legendary premium is a flat charge applied across the whole product line, not a quirk of one box."
+        ]
+      },
+      {
+        "h": "The head-to-head, in one table",
+        "paragraphs": [
+          "Everything above, compressed. Read down the rows and watch which ones actually differ.",
+          "The pattern is the whole story: the only rows that differ are the price rows and the legendary row. That is the entire decision, and no amount of extra research changes it."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Black Bolt (SV11B)",
+            "White Flare (SV11W)"
+          ],
+          "rows": [
+            [
+              "Release",
+              "June 6, 2025 (Japan)",
+              "June 6, 2025 (Japan)"
+            ],
+            [
+              "Standard box",
+              "20 packs × 7 cards = 140 cards",
+              "20 packs × 7 cards = 140 cards"
+            ],
+            [
+              "Box price (as of Oct 21, 2026)",
+              "$152.65",
+              "$139.77"
+            ],
+            [
+              "Cost per pack",
+              "$7.63",
+              "$6.99"
+            ],
+            [
+              "Cost per card",
+              "$1.09",
+              "$1.00"
+            ],
+            [
+              "Headline BWR card",
+              "Zekrom ex",
+              "Reshiram ex"
+            ],
+            [
+              "Secret cards",
+              "86+",
+              "86+"
+            ],
+            [
+              "Deluxe box",
+              "4 packs × 35 cards, AR or better guaranteed",
+              "4 packs × 35 cards, AR or better guaranteed"
+            ],
+            [
+              "Deluxe price",
+              "$177.49 ($1.27/card)",
+              "$164.61 ($1.18/card)"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "So how do you actually choose?",
+        "paragraphs": [
+          "By the legendary. If Zekrom is your Pokémon — if that's the card you'd keep, grade, or build a shelf around — Black Bolt is your box and the $12.88 is simply the price of wanting the right thing. If it's Reshiram, White Flare gives you the identical pull structure for less money. There is no third answer hiding in the spreadsheets.",
+          "By format, second. If you were going Deluxe anyway, the per-card premium over standard — $1.27 vs $1.09 on Black Bolt, $1.18 vs $1.00 on White Flare — buys the guaranteed AR-or-better structure. For collectors who hate bulk, that guarantee is a real feature. For anyone opening on a budget, the standard boxes deliver the same 140 cards for $24.84 less, and the guarantee is the only thing you give up.",
+          "And if you're building toward completion of either set, read [what a master set actually commits you to](/blog/what-is-a-master-set-pokemon/) before buying either box. Eighty-six-plus secrets per set is a long road, and which box you start with is the smallest decision on it."
+        ]
+      },
+      {
+        "h": "The practical layer: buying the pair well, step by step",
+        "paragraphs": [
+          "Step one: settle the legendary before you look at prices. Prices will argue with you; the legendary won't. Decide which card you would actually keep if you pulled it — that is your set. Buyers who skip this step end up comparison-shopping between two boxes when only one of them contains the card they want, and 'saving' $12.88 toward the wrong chase is the most expensive saving in this hobby.",
+          "Step two: choose the format with the per-card numbers in front of you, not the pack theater. A Deluxe box looks small — 4 packs against the standard box's 20 — until you run the division: 4 × 35 is the same 140 cards, rearranged so the strong cards are guaranteed by the pack structure rather than hoped for. If you judge a box by its worst pack, Deluxe is built for you. If you judge it by its best pack, standard is — and it costs $24.84 less for the privilege of the gamble.",
+          "Step three: before ordering a second box of either set, price the headline single. This is the step that separates collectors from repeat customers of variance. The BWR you want trades as a single at some price, and that price is either less than another box or it isn't. If it is, buy the card and let someone else pay for the other 139.",
+          "Step four: check what else is coming before this pair takes the whole month's budget. SV11 is one stop on a Japanese release schedule that doesn't pause, and the [release calendar](/release-calendar/) shows what's confirmed next. More than one collector has emptied the budget on a paired set a week before a set they wanted more was announced — the boxes keep, but the regret is immediate."
+        ]
+      },
+      {
+        "h": "Where this decision goes wrong",
+        "paragraphs": [
+          "The most common failure mode is buying both boxes 'to be safe.' That doesn't diversify anything. You've doubled your exposure to the same structure, the same release day, the same design philosophy — $152.65 + $139.77 = $292.42 riding on one paired set. If the pair cools in the market, both boxes cool together. Buying both is a perfectly good choice if you love both legendaries. It is not a hedge, and it shouldn't be justified as one.",
+          "The second failure mode is chase disappointment. The BWR card is a headline, not a promise. Most boxes of either set will not contain the headline card, and a box bought only for that one card is a box bought to be disappointed. The recovery is real, though: every card in both sets trades as a single. If the legendary is the actual goal, price the single directly before buying a second box hunting it. That's the move almost nobody makes and almost everybody should.",
+          "Third: assuming today's $12.88 gap is a law of nature. It's a shelf price as of October 21, 2026. Gaps between paired sets move as stock and demand move. If you're reading this later, re-run the division on current prices — the method survives even when the numbers change. Our [pack-count reference](/blog/how-many-packs-in-a-booster-box/) keeps the underlying structures straight."
+        ]
+      },
+      {
+        "h": "The Japan context: what buying the Japanese pair means",
+        "paragraphs": [
+          "Both sets are Japanese-language releases, printed for the Japanese market. Japanese-language cards are not legal in English-language official tournaments, so for competitive players the language question settles itself before the legendary question even starts. For collectors, the calculus runs the other way: Japanese print quality, and an AR-or-better treatment spanning all 156 Unova Pokémon, are exactly why this pair drew a global audience.",
+          "It also means the pair lives on a Japanese release schedule, not an English one. If you plan purchases around what's coming next, the [release calendar](/release-calendar/) is where the Warehouse posts confirmed dates."
+        ]
+      },
+      {
+        "h": "Who should buy neither",
+        "paragraphs": [
+          "Anyone expecting one of these boxes to be the objectively better investment should buy neither, because the premise is false and a false premise makes both choices wrong. The numbers show two identical structures at two prices separated by one legendary's popularity. Popularity is a real thing, but it is not an edge you can arithmetic your way into from a product page.",
+          "And whichever box you do buy, the next decision arrives shrink-wrapped: [open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is a separate question with its own math. Decide it on purpose, not on impulse, and not in the same breath as this one."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the legendary first: Zekrom (Black Bolt) or Reshiram (White Flare) — this is the actual decision",
+          "Choose format second: standard for the lowest cost per card, Deluxe only if the AR-or-better guarantee is worth $24.84 to you",
+          "Re-run the per-pack division on today's prices before ordering — the $12.88 gap can move",
+          "Set the box's job before it ships: open it, hold it sealed, or build toward a master set — each job changes which box is 'right'",
+          "If the headline card is the goal, price the single before buying a second box chasing it",
+          "If you're buying both, say out loud that it's for love of both legendaries — not diversification"
+        ],
+        "h": "The decision, as a checklist",
+        "paragraphs": [
+          "Run through this before you check out, in this order. The order is the point: legendary first, format second, arithmetic third."
+        ]
+      }
+    ],
+    "slug": "black-bolt-vs-white-flare-which-to-buy",
+    "takeaway": [
+      "Black Bolt and White Flare are the same machine wearing two different legendaries. The $12.88 gap is a preference fee, not a value signal. Pay it gladly if Zekrom is your card; pocket it if Reshiram is. Just don't let anyone — including us — convince you the arithmetic prefers one of them. It doesn't, and now you've seen the arithmetic.",
+      "Decided? The [Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) and the [White Flare box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) are both on the shelf. If you want a read on current stock of either before you order, ask us in chat."
     ]
   },
   "buying-tcg-from-japan-shipping-customs-proxy": {
@@ -327,7 +500,143 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "buying-tcg-from-japan-shipping-customs-proxy",
     "takeaway": [
       "Buying TCG from Japan is not a shortcut around cost; it is a choice about where cost and risk sit. Proxies move both onto you and call the difference savings. Marketplaces split them unpredictably. A specialist store prices them into the shelf and answers for them. Any of the three can be the right answer — for a buyer who has written the stack down, priced the total-loss case, and checked their own customs rules first.",
-      "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box."
+      "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box.",
+      "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes."
+    ]
+  },
+  "dragon-ball-fusion-world-beginners-guide": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "Fusion World is the current, streamlined generation of Bandai's Dragon Ball card game, with its own card pool and the Awaken and Combo structure described above. Rules and cards are not interchangeable with the older game, so buy product carrying Fusion World branding and set codes such as FB12.",
+        "q": "Is Dragon Ball Fusion World the same game as the older Dragon Ball Super Card Game?"
+      },
+      {
+        "a": "One starter deck: a Leader plus a ready 50-card deck. That is a complete, legal setup out of the box. Booster boxes expand a collection and a card pool, but on their own they do not give you a playable deck.",
+        "q": "How many cards do I need to start playing?"
+      },
+      {
+        "a": "No. At $1,265, as of October 21, 2026, the case is a collector format bought for sealed bulk. A beginner cannot use that volume of cards from one set, does not yet know which Leader they play, and gets far more playing and learning value from a starter deck and a single box.",
+        "q": "Should a beginner buy the FB12 case for its value?"
+      }
+    ],
+    "h1": "Dragon Ball Fusion World: A Beginner's Guide to Your First Game and First Purchase",
+    "intro": [
+      "Fusion World is Dragon Ball's current card game, built by Bandai, and the fastest way to understand it is this: your Leader starts on the table, you defend 8 Life cards, and when your Life drops to 4 or fewer, your Leader Awakens — flips to a stronger side — for the comeback half of the game. Everything else is learning how battles and Combos move those 8 Life.",
+      "This guide is for new players, and for Pokémon and One Piece collectors curious about the third game on our shelves. It covers how a game actually flows, what the products are, and — the part that saves money — what to buy first and in what order. It is not a competitive deck-building guide, and it will not invent prices: the only hard price below is the one product whose price we can stand behind today."
+    ],
+    "metaDescription": "How Fusion World actually plays — 8 Life, Awaken, Combo — and what to buy first, from starter decks to the FB12 case, in the right order.",
+    "metaTitle": "Dragon Ball Fusion World Beginner Guide: Start Right",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "How a game of Fusion World actually flows",
+        "paragraphs": [
+          "Setup is quick. Your Leader card starts in play, on its starting side. You build a 50-card deck to go with it, set out 8 Life cards face down, and draw your opening hand. Those 8 Life cards are your health. When you take damage, Life cards move into your hand — which means getting hit literally gives you more options, one of the neatest ideas in the game.",
+          "On your turn you build up energy, play Battle Cards, and attack — at your opponent's Leader, or at their Battle Cards that are in play and open to attack. Battles are where the game's signature mechanic lives: Combo. During a battle, both players can add cards from hand purely for their Combo power, stacking +10,000 power per card onto the fighter they support. A battle is rarely decided by the two cards that started it; it is decided by how much each player is willing to spend from hand to win it.",
+          "The hinge of every game is the Awaken. The moment your Life drops to 4 or fewer, your Leader flips to its Awakened side — stronger, with better abilities. Taking early damage is therefore not pure loss: it moves cards into your hand and pushes you toward the stronger version of your Leader. The game ends when a player with no Life left takes a final attack they cannot stop. That is the whole shape: 8 Life, an Awaken at 4, and battles priced in Combo power.",
+          "The Combo arithmetic is worth seeing once with the rule's own numbers. Every card committed to a Combo adds +10,000 power: two cards committed is +20,000, three is +30,000. Because those cards leave your hand, every battle asks the same question — is winning this one fight worth shrinking the hand that has to survive the rest of the game? Beginners answer yes too often. Strong players answer it per battle, not per habit."
+        ]
+      },
+      {
+        "h": "The products: starter decks, booster boxes, cases",
+        "paragraphs": [
+          "Three product types matter to a beginner. Starter decks are pre-built, playable decks — a Leader and a ready 50-card deck — designed to teach the game out of the box. Booster boxes are for expanding: packs of randomized cards from a set, which is where new Leaders, Battle Cards, and chase rarities come from. Sealed cases are booster boxes in bulk, and they are a collector and reseller format, not a learning format.",
+          "The current set, as we write, is [FB12 Reach the God](/sets/fb12-reach-the-god/), releasing December 18, 2026 on Bandai's official schedule. It carries 123 card types and is the first Fusion World set built around Dragon Ball Super: Beerus — new ground for the game, which is part of why it holds collector attention as well as player attention. An FB12 booster box holds 24 packs of 6 cards, and the [FB12 sealed case](/product/dragon-ball-super-fusion-world-fb12-reach-the-god-booster-box-sealed-case-english/) sits at $1,265 as of October 21, 2026. That is real money, and it is priced that way because of what a case is for.",
+          "Coming right behind it, the [release calendar](/release-calendar/) lists the FS13 and FS14 starter decks for January 22, 2027. For a brand-new player that timing matters: a fresh starter deck wave is the cleanest entry point the game offers, and it lands about a month after FB12.",
+          "One more product note for collectors crossing over from Pokémon or One Piece: Fusion World sets are compact. FB12's 123 types is a small set by the standards of the other games on our shelves, and that cuts both ways — a single box makes a visible dent in a set, and a patient collector can see the whole shape of the set without case money. Compact sets reward the one-box-at-a-time buyer."
+        ]
+      },
+      {
+        "h": "What to buy first, in order",
+        "paragraphs": [
+          "First: a starter deck, and learn the game on it. It is the only product that teaches you anything — every card in it was chosen to work together, and you will only learn what your deck is missing after it loses a few games. Second: a second starter deck, or a single booster box, once you know which part of the game you enjoy. Third, and only then: more boxes, aimed at the set whose cards fit the deck you are actually building.",
+          "Notice where the case sits in that order: nowhere near the top. A case is a full run of boxes from one set, bought before you know whether you like the game, which Leader you play, or which cards your deck wants. At $1,265 it is also the only purchase on this page that can be a genuine financial mistake rather than a hobby expense. The table puts the four routes side by side."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Cost posture",
+            "Playable out of the box",
+            "Collecting value",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Starter deck",
+              "Lowest — one small purchase",
+              "Yes — a complete, legal deck immediately",
+              "Low — fixed contents, no chase pulls",
+              "Learning the game and your first dozen matches"
+            ],
+            [
+              "One booster box",
+              "Moderate — 24 packs of one set",
+              "No — random cards, not a legal deck on their own",
+              "Moderate — full access to the set's chase cards",
+              "Expanding once you know what your deck needs"
+            ],
+            [
+              "Two booster boxes",
+              "Higher — double the packs, deeper into the set",
+              "Still no — more pieces, not a finished deck",
+              "Higher — more of the set, more trade stock",
+              "Committed players building toward a specific deck"
+            ],
+            [
+              "Sealed case",
+              "$1,265 as of October 21, 2026 — the serious end",
+              "No — far more cards than a beginner can use",
+              "Highest — sealed bulk holds collector and resale value",
+              "Collectors and stores, not first purchases"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Three mistakes beginners make",
+        "paragraphs": [
+          "Mistake one: buying big first. The case is the extreme version, but the same error happens at box scale — buying several boxes of a set before playing a single game, then discovering you would rather play a different Leader whose cards live in a different set. Product keeps; curiosity is perishable. Buy in the order that protects both.",
+          "Mistake two: ignoring the Awaken. New players defend every Life card like it is sacred, spending Combo cards to protect Life seven and six — then reach the late game with an empty hand, facing an opponent whose Leader Awakened turns ago. Your first 4 Life are a resource that buys hand cards and your stronger Leader side. Spend them like it.",
+          "Mistake three: importing habits from other games. Fusion World's Combo step means a Battle Card's printed power is a starting bid, not a result. Pokémon players used to fixed math and One Piece players used to counter steps both have to recalibrate; if you already play One Piece, our [colors explainer](/blog/one-piece-card-game-colors-explained/) covers that game's different logic. The transferable skill is reading what a battle will cost — not the numbers themselves."
+        ]
+      },
+      {
+        "h": "Your first month, sequenced",
+        "paragraphs": [
+          "Week one is starter deck only. Play the deck as it comes, even when a card looks weak — you are learning what the deck is trying to do, and a pre-built deck's lessons live in its choices. By the end of the week you should be able to say, in plain words, how your Leader plans to win and around which Life count your games usually turn.",
+          "Weeks two to four are where the single booster box earns its place. Open it against your written list of gaps: cards that answer the problems you actually lost to go into the deck, and everything else becomes trade stock or collection — not regrets. If FS13 and FS14 land on January 22, 2027 during your first month, a second, different starter deck is a legitimate alternative to that box: it teaches a second Leader's shape of game for the same step in the sequence."
+        ]
+      },
+      {
+        "h": "The context: a Japanese-first game",
+        "note": "The question Dragon Ball-curious buyers ask us most is some version of: I collect Pokémon or One Piece — is this the same game with different art? It is not. The Awaken flip and the Combo step make Fusion World play its own way, and the honest answer is that one starter deck teaches you more about whether it is for you than any comparison chart we could write.",
+        "paragraphs": [
+          "Fusion World follows the pattern of the other [Japanese TCGs](/japanese-tcg/) we stock: sets release in Japan first, and Japanese product is what the market trades earliest. FB12's December 18, 2026 date is the Japanese release on Bandai's schedule. For a beginner this mostly means one practical thing — the freshest cards, the earliest deck ideas, and the first wave of singles all appear in Japanese product first.",
+          "It also makes starter waves matter. FS13 and FS14 arriving on January 22, 2027 give new players a designed on-ramp a month after FB12: learn on a starter, then expand into the current set. If you are counting packs and boxes while you plan, [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) keeps the verified counts for the sets on our shelves in one place.",
+          "One practical consequence for beginners: Japanese cards carry Japanese text. If you cannot read it, your first games run slower, because every Battle Card's effect has to be looked up, memorized, or asked about. That is not a reason to avoid Japanese product — it is the earliest and deepest stock there is — but it is a real learning cost, and it is why many new players learn on whichever printing they can read fluently, then buy Japanese for collecting and for sets they already know."
+        ]
+      },
+      {
+        "checklist": [
+          "Buy one starter deck — any Leader that appeals to you; there is no wrong first Leader",
+          "Play at least five games on the unmodified deck before buying anything else",
+          "In one early game, let your Life fall to 4 on purpose and feel what the Awaken changes",
+          "Write down what your deck cannot do — that gap, not a rarity, decides your next purchase",
+          "Add one booster box from the current set once you know the gap you are filling",
+          "Check the release calendar before pre-ordering; FS13 and FS14 starters land January 22, 2027",
+          "Keep any sealed box sealed until you have a deliberate reason to open it"
+        ],
+        "h": "Your first purchase and first game: the checklist",
+        "paragraphs": [
+          "In order. Do not skip ahead — each step makes the next one cheaper, in money or in mistakes."
+        ]
+      }
+    ],
+    "slug": "dragon-ball-fusion-world-beginners-guide",
+    "takeaway": [
+      "Fusion World earns its place next to Pokémon and One Piece by being genuinely different: 8 Life that turns into hand cards, an Awaken that rewards taking damage, and battles settled by how much of your hand you are willing to spend. Learn it on a starter deck, expand into FB12 once you know your deck's gaps, and leave the $1,265 case to the collectors it is made for.",
+      "And when a box does land in your hands and the seal starts calling, run it through [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you break it — that framework was written for exactly that moment. More first-timer guides live on [the blog](/blog/)."
     ]
   },
   "how-many-packs-in-a-booster-box": {
@@ -499,7 +808,303 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "how-many-packs-in-a-booster-box",
     "takeaway": [
       "The count is not trivia. It is the denominator of every price in this hobby, and the difference between a $2.92 pack and a $10.38 pack is invisible until you divide. A booster box is not a unit — a pack is, and a card is.",
-      "So the habit to take from this page is a sequence: name the set, confirm the count, divide the price, then — and only then — have an opinion about whether the box is cheap or expensive."
+      "So the habit to take from this page is a sequence: name the set, confirm the count, divide the price, then — and only then — have an opinion about whether the box is cheap or expensive.",
+      "New to Dragon Ball's game entirely? [Our Fusion World beginner's guide](/blog/dragon-ball-fusion-world-beginners-guide/) explains how a game flows and where FB12's 24-pack boxes fit your first purchase."
+    ]
+  },
+  "how-to-spot-fake-one-piece-cards": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "Sometimes you can spot a bad fake from a photo — fuzzy text, wrong colors, mismatched codes. But a competent fake survives photos easily. Treat photos as a screening step, not a verdict, and never pay photo-only prices for high-value singles you cannot inspect or return.",
+        "q": "Can I tell if a One Piece card is fake from a photo alone?"
+      },
+      {
+        "a": "Both printings are counterfeited, and the checks are the same for each. What differs is the reference you compare against: Japanese and English printings have legitimate production differences, so always compare a suspect card against a known-real card from the same printing.",
+        "q": "Are Japanese One Piece cards faked as often as English ones?"
+      },
+      {
+        "a": "Stop opening further product from that purchase, photograph everything including the packaging and any remaining sealed packs, and contact the seller with the evidence before leaving feedback or filing anything. Documentation made early is what makes refunds and platform claims succeed.",
+        "q": "What if I already opened a box and the cards look wrong?"
+      }
+    ],
+    "h1": "How to Spot Fake One Piece Cards: Checks That Actually Work",
+    "intro": [
+      "The short answer: no single test proves a One Piece card is real. Anyone selling you a one-step verdict — bend it, shine a light, done — is overselling. What actually works is a stack of small checks that each catch different fakes, finished with the one method we trust completely: putting the suspect card directly beside a card you know is authentic and comparing everything at once.",
+      "This guide is for anyone buying One Piece singles or sealed product — Japanese or English — from marketplaces, social sellers, or shops they do not know yet. It is not a certification service, and it cannot bless a specific card from a photograph. What it can do is tell you exactly what to look at, in what order, and what to do when something fails."
+    ],
+    "metaDescription": "Hands-on checks for fake One Piece cards — print, stock, fonts, codes — and the one comparison method that actually settles it.",
+    "metaTitle": "How to Tell If One Piece Cards Are Fake",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "Start here: indicators, not proof",
+        "paragraphs": [
+          "Every check below produces evidence, not a verdict. A card can fail one check because of a printing quirk and pass the rest. A good fake can pass several checks and fail only one. That is why the combination matters more than the order: print, stock, text, and codes are four different manufacturing steps, and a counterfeiter has to fake all four convincingly. Most cannot.",
+          "It is also why provenance — who sold the card and whether they stand behind it — beats inspection in the end. Checks tell you whether to buy. Provenance tells you what happens if the checks were wrong. Keep both in mind as you read, because the second half of this guide covers the part most checklists skip: what to do when a card fails."
+        ]
+      },
+      {
+        "h": "The print check: sharpness, rosettes, and color",
+        "paragraphs": [
+          "Real One Piece cards come off clean offset printing. Under a phone flashlight or a cheap loupe, text edges stay crisp, fine lines in the artwork stay separate, and color fields sit flat and even. Counterfeits are usually printed from scans or lower-grade digital files, and it shows: text looks slightly soft at the edges, thin lines blur together, and busy artwork turns muddy.",
+          "Zoom in further and look for the rosette pattern — the tiny dot structure offset printing leaves behind. On a real card the dots form a regular, even pattern. On many fakes the pattern is irregular, blotchy, or missing entirely, because the copying process could not reproduce it. Color is the third tell in this family: fakes frequently run over-saturated, with reds and blues pushed too hard, or washed out, because the counterfeiter is matching a screen image instead of the original ink values.",
+          "None of this needs equipment beyond your phone camera's zoom. Photograph the card straight-on in daylight, zoom into the text and the artwork's fine detail, and compare what you see against the table below. The same print tells apply across TCGs — our [guide to spotting fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/) walks through the identical print logic on Pokémon stock."
+        ],
+        "table": {
+          "head": [
+            "Check",
+            "What real looks like",
+            "What fakes often show"
+          ],
+          "rows": [
+            [
+              "Print sharpness",
+              "Crisp text edges; fine artwork lines stay separate",
+              "Soft or fuzzy text; lines blur together"
+            ],
+            [
+              "Rosette pattern",
+              "Regular, even dot structure under magnification",
+              "Irregular, blotchy, or absent dots"
+            ],
+            [
+              "Color saturation",
+              "Flat, even color matched to the set's printing",
+              "Over-saturated, washed out, or shifted hues"
+            ],
+            [
+              "Card stock",
+              "Firm, consistent thickness with a smooth finish",
+              "Too glossy, too flimsy, or noticeably thicker"
+            ],
+            [
+              "Font and spacing",
+              "Clean type, even letter spacing, correct line breaks",
+              "Slightly wrong letterforms; cramped or uneven spacing"
+            ],
+            [
+              "Rarity and set codes",
+              "Codes match the card's set, rarity, and language printing",
+              "Codes mismatched to the card, the set, or the rarity"
+            ],
+            [
+              "Light behavior",
+              "Consistent, muted response with light behind the card",
+              "Noticeably different brightness or color versus a real card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Stock and feel: the check your hands do",
+        "note": "The photos buyers send us are almost always of the front of the card, perfectly lit, showing the artwork. The photos that actually help are the boring ones: the card's edges, the back, the text block zoomed in, and the suspect card beside any card from the same set. If you are asking any seller to verify a card, ask for those.",
+        "paragraphs": [
+          "Pick the card up. Real One Piece cards use a specific, consistent stock: firm without being stiff, smooth without being slippery, and the same thickness across every card in a set. Fakes most often get this wrong in one of two directions — a glossy, almost plastic feel, or a flimsy stock that flexes too easily. If you have handled real cards from the same set, your fingers will flag the difference before your eyes do.",
+          "The light test belongs to this family. Hold the card in front of a bright light and note how much light comes through and what color it takes. Real cards respond consistently because the stock is consistent. The catch — and it matters — is that this only works as a comparison. A light test on its own proves nothing, because you need a known-real card of the same printing beside it to know what normal looks like for that set."
+        ]
+      },
+      {
+        "h": "Text, fonts, and codes: where cheap fakes get lazy",
+        "paragraphs": [
+          "Counterfeiters copy artwork from scans, but text has to be re-typeset or scanned at quality, and both routes leave marks. Read the card's text block slowly. Look for letterforms that are almost right — a slightly different curve on a letter, spacing that breathes unevenly, a line break landing in a different place than the real printing. Real cards are typeset once and printed identically millions of times; any inconsistency in the typography is a red flag that costs nothing to check.",
+          "Then check the codes. Every card carries a set code and a rarity marking, and they have to agree with each other, with the card's number, and with the language printing in your hand. A card whose code belongs to a different set, or whose rarity marking does not match the version that set actually printed, has failed a check the counterfeiter did not even know existed. The discipline is the same one we teach for Pokémon in [our rarity symbols breakdown](/blog/japanese-pokemon-rarity-symbols-explained/): codes are printed facts, and printed facts can be cross-checked."
+        ]
+      },
+      {
+        "h": "The comparison method: the only check we fully endorse",
+        "paragraphs": [
+          "Here is the method that settles it. Take a card you are certain is authentic — ideally from the same set and the same language printing — and lay it directly beside the suspect card. Same light, same angle. Now run every check above on both at once: print sharpness, rosette, color, stock, thickness, text, codes. Fakes survive isolated inspection because your memory of what real looks like is fuzzy. They do not survive a side-by-side, because every small wrongness becomes a visible difference.",
+          "This is also why the first cards you buy in a new set matter. Sealed product from a source you trust — a current set like [OP-17 The World's Strongest Warriors](/sets/op-17-worlds-strongest-warriors/) — gives you a reference library of known-real cards from that exact printing. Every single you buy afterwards can be checked against them. Build the reference set first, and every later purchase gets safer.",
+          "Do the comparison under neutral light — daylight or a plain lamp beats a colored room light, because saturation differences are half the evidence. And be honest about what a clean pass means. If the two cards look identical after the full stack, the conclusion is not 'proven real.' It is 'no evidence of fake' — which, combined with a seller who stands behind the card, is the strongest position a buyer can actually reach."
+        ]
+      },
+      {
+        "h": "Sealed product is a different problem",
+        "paragraphs": [
+          "Everything above assumes you can see and handle the card. A sealed box hides the cards entirely, so the checks shift from the cards to the packaging: shrink wrap, seals, box print quality, and what you know about the seller. A resealed box can hold real cards with the hits removed, or swapped packs — the cards being genuine does not mean the box was honest.",
+          "That is a separate inspection with its own protocol, and we have written it up in full: [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). Read it before buying sealed from any source you have not used before, especially marketplace listings priced below what the box normally sells for. With sealed product, a price that looks like a gift is usually a cost someone else already took out of the box."
+        ]
+      },
+      {
+        "h": "When a card fails: what to do next",
+        "paragraphs": [
+          "Stop, document, and do not pass it on. Photograph the card and the specific failures you found while you still have the seller's listing and messages. Contact the seller first — honest sellers exist, and some genuinely do not know — and give them the chance to refund. If they refuse or vanish, move to the platform's claim process or your payment provider with your photos and the comparison evidence ready. Claims are won with documentation, not opinions.",
+          "One rule has no exceptions: never resell a card you believe is fake, and never trade it onward quietly. Every fake that stays in circulation gets sold to someone with fewer checks than you. Mark it, keep it as a reference copy for comparisons if it is useful, or destroy it — but its journey through the hobby ends with you. And if the purchase came through a route with no recourse at all, treat the loss as tuition and change routes: [buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) breaks down which routes leave you protected and which leave you holding the risk.",
+          "The same discipline applies in person — at events, local meetups, and card-show tables — where there is no platform claim to fall back on. Run the stack before money moves, bring your own reference card from the same set, and treat any pressure to skip the checks — a queue forming behind you, a price that supposedly expires in five minutes — as information about the seller, not about the card."
+        ]
+      },
+      {
+        "h": "The context that changes the checks: Japanese vs English printings",
+        "paragraphs": [
+          "One Piece cards are printed for the Japanese market first — [OP-18](/sets/op-18-the-dominance-of-god/) continues that pattern — and the English printing follows. The two printings are both authentic, but they are not identical objects: finish, texture, and small production details can differ between print origins. That means a Japanese card compared against an English reference can show differences that are printing differences, not fake tells.",
+          "So compare like with like: Japanese suspect, Japanese reference; English suspect, English reference. If you are buying Japanese singles, your reference cards should come from Japanese product — a [Japanese OP-17 booster box](/product/op-17-the-world-s-strongest-warriors-booster-box-japanese-one-piece-card/) is a box of known-real references from the current printing. Most of the [One Piece cards](/one-piece-cards/) we handle are Japanese for exactly this reason: the chain from a sealed Japanese box to your hands is short, documented, and checkable."
+        ]
+      },
+      {
+        "checklist": [
+          "Photograph the card front, back, and edges before you handle it further",
+          "Zoom into the text block: check sharpness, letterforms, and spacing",
+          "Check the rosette pattern under magnification against your reference card",
+          "Compare color saturation side by side — same light, same angle",
+          "Feel the stock and compare thickness against the reference card",
+          "Cross-check the set code, card number, and rarity marking for agreement",
+          "Run the light test comparatively, never on its own",
+          "If two or more checks fail, start the seller conversation before opening, grading, or trading anything"
+        ],
+        "h": "The 60-second check, in order",
+        "paragraphs": [
+          "Run it the same way every time and it becomes habit. Sixty seconds per card is enough for the full stack once the reference card is beside it."
+        ]
+      }
+    ],
+    "slug": "how-to-spot-fake-one-piece-cards",
+    "takeaway": [
+      "Fake detection is not a trick, it is a stack: print, stock, text, codes, and above all comparison against a card you know is real. No single layer is proof, and any guide that promises one is selling you confidence instead of safety.",
+      "Buy your reference cards from sources that stand behind them, run the checks in order, and when you are ready to play the cards that passed, [building your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) is the natural next step. The cheapest fake is the one you never bought — and provenance, not eyesight, is what makes that true most of the time."
+    ]
+  },
+  "how-to-store-sealed-booster-boxes": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "A sealed bin helps with dust and pests but does almost nothing about temperature, and garage temperature swings are the core problem — plus a humidity cycle every time the door opens. For a few weeks, fine. For stock you are holding for years, no: the bin belongs in a climate-stable room, or the stock does.",
+        "q": "Can I store booster boxes in a garage if they're in a plastic bin?"
+      },
+      {
+        "a": "No. Intact factory shrink is part of the product's value and its first line of authenticity evidence. Inspect the shrink itself — seams, tears, scuffs — and photograph it. The moment you remove it, the box is an opened box for resale purposes, whatever is inside.",
+        "q": "Should I take the factory shrink off to inspect the box?"
+      },
+      {
+        "a": "Once a year, thoroughly: handle each box, compare it against your inventory photos, check for damp smell, soft corners, and shrink damage, and refresh silica gel. Slow damage caught at year one is a storage fix. Caught at year five, it is a price cut.",
+        "q": "How often should I check stored sealed product?"
+      }
+    ],
+    "h1": "How to Store Sealed Booster Boxes So They Stay Worth Storing",
+    "intro": [
+      "Store sealed product like the Warehouse does: in a climate-stable room, off the floor, out of direct sun, factory shrink untouched, nothing heavy stacked on top, and an inventory record with the purchase price and date. That is the whole system. Everything below is why each part matters and what it costs you when it is skipped — because sealed value is condition, and condition is lost slowly, invisibly, and permanently.",
+      "This guide is for collectors holding boxes and cases for months or years. It is not for short-horizon flippers: if a box will be sold within a few weeks, storage discipline will not change its price, and your time is better spent on the sale. Storage pays over years, not weeks — hold that boundary before you build shelves around it."
+    ],
+    "metaDescription": "Heat, humidity, sun, and stacking quietly destroy sealed box value. The room-by-room storage verdict, the exact setup, and the yearly check.",
+    "metaTitle": "How to Store Sealed Booster Boxes Without Killing Value",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "What actually damages a sealed box, ranked",
+        "paragraphs": [
+          "Ranked by how much value they destroy and how quietly they do it — this is an experience ranking from handling sealed stock every week, not laboratory data. First: water and humidity. Damp air swells cardboard, feeds mold, and makes the foil cards inside packs curl as humidity swings back and forth. One wet incident can end a box's sealed premium in an afternoon; slow damp does the same work over a season.",
+          "Second: heat, which accelerates everything humidity starts, dries out adhesives, and in extremes warps contents. Third: direct sunlight, which fades box art and shrink unevenly — a sun-bleached box reads as damaged stock to any buyer before they check anything else. Fourth: crushing weight. Stacked cases bend box corners and can crease the packs inside, and corner condition is the first thing a serious buyer inspects. Fifth: damaged shrink — tears and scuffs invite the reseal question even when the box is completely honest. Sixth: pests, the garage special, because mice and insects treat stored cardboard as housing."
+        ]
+      },
+      {
+        "h": "The room-by-room verdict",
+        "paragraphs": [
+          "Most storage failures are room failures. The same box survives a decade in one room and is ruined in one summer in another, and no bin or bag fixes a wrong room. Judge your options by temperature stability first, humidity second, and everything else after that."
+        ],
+        "table": {
+          "head": [
+            "Room",
+            "Temperature stability",
+            "Humidity risk",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Climate-controlled living space",
+              "High — follows the home's heating and cooling",
+              "Low",
+              "Best option. This is where valuable sealed stock belongs"
+            ],
+            [
+              "Bedroom closet (interior wall)",
+              "Good — buffered from outside walls",
+              "Low to moderate",
+              "Good. The realistic choice for most collectors"
+            ],
+            [
+              "Attic",
+              "Poor — the biggest swings in the house",
+              "Moderate to high",
+              "Never. Summer heat and winter cold cycle your stock twice a year"
+            ],
+            [
+              "Garage",
+              "Poor — barely better than outdoors",
+              "High, plus pests and fumes",
+              "Never for anything you care about. Fine for empty packaging"
+            ],
+            [
+              "Rented storage unit",
+              "Varies — climate-controlled units only",
+              "Varies",
+              "Acceptable only if genuinely climate-controlled; a standard unit is a rented garage"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The exact setup",
+        "note": "When cases arrive at the Warehouse, they are checked — shrink, seams, corners — then shelved flat on low racks, off the floor, in the same room conditions we would keep our own collection in. Single boxes never go under cases, and nothing sealed sits where sun through a door can reach it. It is not a complicated system. It is just a consistent one.",
+        "paragraphs": [
+          "Shelving first: boxes live on a shelf or in a closed bin, off the floor. Floors are where water arrives first — spills, leaks, mopping — and a box sitting on concrete wicks moisture straight up through the cardboard. Inside a closed storage bin, a silica gel pack is a common, cheap precaution against damp air; replace or recharge it when you do your yearly check.",
+          "Stacking discipline: never stack cases on top of single boxes. Cases are heavy, and a single box under one is being slowly crushed into a condition problem. Cases sit flat on the lowest shelf — for scale, one case is twelve boxes in a single unit, which is exactly the arithmetic broken down in [sealed case vs booster box: the math](/blog/sealed-case-vs-booster-box-the-math/) — while single boxes stand upright on their own shelf, snug enough not to lean, loose enough to slide out without tearing shrink.",
+          "Leave the factory shrink alone. Shrink condition is part of what a buyer pays for, and intact factory shrink is also your first authenticity evidence — the checks in [our resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) start with shrink and seams for a reason. If a box's shrink tears in handling, note it in your inventory rather than rewrapping it: a rewrapped box invites questions that an honestly noted tear never will."
+        ]
+      },
+      {
+        "h": "Inventory like you mean it",
+        "math": [
+          "Units to photograph and log = single boxes + (cases × 12)",
+          "Recorded cost per unit = what you actually paid landed, with the date",
+          "Review cycle: one full condition pass per year, same month every year"
+        ],
+        "paragraphs": [
+          "Storage protects condition; records protect value. For every box or case you hold, keep a photo of its condition the day it goes on the shelf, plus one line in a simple spreadsheet: product, purchase price, purchase date, where it is stored. It takes two minutes per item and pays off three ways — you can prove what you own, you can see what your shelf is actually worth, and you will never discover a forgotten box after its moment has passed. When a single OP-18 case on the shelf is $755 of stock (as of October 21, 2026), 'roughly what I paid' stops being good enough bookkeeping.",
+          "The records habit is the same one we argue for in [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/): a shelf you cannot list from records is a portfolio without books. And the bookkeeping starts at the door — the landed-cost math in [buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) is what your purchase-price column should hold, not the first shelf price you happened to see."
+        ]
+      },
+      {
+        "h": "Insurance, honestly",
+        "paragraphs": [
+          "We will not tell you your home insurance covers your collection, because policies vary enormously and collectibles are exactly the category insurers treat specially — some cap them, some exclude them, some require a rider or an appraisal above a set value. The honest directive: read your policy's collectibles wording, and if your shelf's total value surprises you, ask your insurer directly what it would take to cover it. That is a ten-minute question that should not be improvised after a leak.",
+          "What you control is the evidence. The dated photos and purchase records from your inventory are what any claim, from any insurer, asks for first. A collector with photos and receipts is in a different conversation than a collector working from a number they remember."
+        ]
+      },
+      {
+        "h": "The risk layer: damage you only discover at resale",
+        "paragraphs": [
+          "Here is the failure mode that makes storage different from every other collecting skill: the damage is invisible while it happens. Humidity does not announce itself. A corner softens a fraction at a time. You find out at the worst possible moment — when a buyer inspects the box in person, or when you open a case you held for five years and find the top boxes scuffed and soft-cornered. By the time you can see storage damage, the premium it cost you is already gone.",
+          "The recovery protocol is the yearly condition pass. Once a year, handle every item: check shrink, corners, and any smell of damp; compare against your inventory photos; re-shelve anything that drifted into a wrong room or a wrong stack. Condition is the whole game with sealed product — the same reason [grading rewards the cleanest copies](/blog/psa-grading-japanese-cards-worth-it/) is why a yearly pass protects real money. If you do find damage, grade it honestly and price the box as what it now is: a box with a disclosed flaw keeps most of its value and all of your reputation, while a damaged box discovered by your buyer keeps neither. A box whose sealed premium is already gone to damage also changes the math in [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) — sometimes the honest answer becomes 'open it and enjoy it.'"
+        ]
+      },
+      {
+        "h": "Climate context: where you live changes the enemy",
+        "paragraphs": [
+          "Storage advice is local even when the product is global. In humid climates — including much of Japan, where most of the stock on our [Japanese TCG shelves](/japanese-tcg/) originates — moisture is the standing enemy and the closed bin with silica gel matters most. In hot, dry climates, heat and sun do the damage and the attic ban matters most. A box shipped from Japan has already survived one climate and an international journey; give it a day to reach room temperature before shelving it somewhere very different, and never shelve a parcel that arrived damp — dry the room, inspect the box, and log its condition that day.",
+          "One more context difference: Japanese and English boxes age the same way, but buyers scrutinize Japanese sealed product's shrink especially hard, because factory shrink style is part of how authenticity is judged in the first place. That makes your shrink discipline and our [guide to spotting fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/) the same habit seen from two sides. Browse [our Pokémon range](/pokemon-cards/) and notice how much of a listing's trust comes from the box simply looking right — that look is storage, preserved."
+        ]
+      },
+      {
+        "checklist": [
+          "Climate-stable room chosen — no attics, no garages",
+          "Everything off the floor, on shelving or in a closed bin",
+          "No direct sunlight reaching stock at any hour",
+          "Silica gel in closed bins, refreshed at the yearly check",
+          "Cases flat and low; single boxes upright, never under cases",
+          "Factory shrink untouched; any tear noted in the inventory",
+          "Photo, purchase price, and date logged for every box and case",
+          "Yearly condition pass against the photos, same month every year"
+        ],
+        "h": "The storage checklist",
+        "paragraphs": [
+          "Run this once when you set the shelf up, and again at every yearly pass. Eight lines between your collection and every failure mode above."
+        ]
+      }
+    ],
+    "slug": "how-to-store-sealed-booster-boxes",
+    "takeaway": [
+      "Sealed value is not made by the market alone — it is kept, or lost, on your shelf. The collectors whose five-year-old boxes still command a premium are not luckier than everyone else. They stored boringly, recorded everything, and checked once a year.",
+      "Deciding what earns shelf space starts with the math in [sealed case vs booster box](/blog/sealed-case-vs-booster-box-the-math/) and the honest verdict in [should you open or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/). Store what survives that scrutiny — and store it like it matters, because to the buyer in five years, it will."
     ]
   },
   "how-to-tell-if-a-booster-box-is-resealed": {
@@ -652,7 +1257,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Inspection is a filter, not a certificate. Run the checks, hunt for the detail that refuses to match, and let inconsistencies — not any single test — make the call. But build your buying around provenance, because the seller is the only check that comes with recourse attached.",
       "And keep the evidence habit even when a box looks perfect: photographs before opening, seller details written down, video for anything suspect. Five minutes of routine is what separates a buyer who catches reseals from a buyer who argues about them.",
-      "Provenance is the strongest check in this guide, which is why the buying route matters: [buying TCG from Japan — shipping, customs, and proxies](/blog/buying-tcg-from-japan-shipping-customs-proxy/) compares the routes by fake and reseal risk, and our [guide to spotting fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/) covers the cards themselves once a box is open. If a box passes inspection and the pulls are real, [our investment breakdown](/blog/are-japanese-pokemon-cards-a-good-investment/) helps you decide what to hold and what to move."
+      "Provenance is the strongest check in this guide, which is why the buying route matters: [buying TCG from Japan — shipping, customs, and proxies](/blog/buying-tcg-from-japan-shipping-customs-proxy/) compares the routes by fake and reseal risk, and our [guide to spotting fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/) covers the cards themselves once a box is open. If a box passes inspection and the pulls are real, [our investment breakdown](/blog/are-japanese-pokemon-cards-a-good-investment/) helps you decide what to hold and what to move.",
+      "One Piece buyers face the same problem one level down: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) runs the card-level checks with the same honesty about what inspection can and cannot prove."
     ]
   },
   "japanese-pokemon-rarity-symbols-explained": {
@@ -995,7 +1601,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Open Japanese, play English, resell English. That is the short version, and it survives the math: in the one same-set comparison we can run on our own shelves, English costs 52% more per pack — money an opener never recovers and a player has no choice but to spend. Neither language is the better product in the abstract. Each is better at a job.",
       "So the real mistake was never picking the wrong language. It is buying one language to do the other language's job — Japanese cards carried hopefully toward a tournament desk, or English boxes ripped open at a 52% per-pack premium for cards that were never going to be played. Name the job first. The language chooses itself.",
-      "Two follow-ups worth your time before you buy: if the cards you open might one day be graded, read [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) — condition is where Japanese copies earn their keep. And if resale value is doing any work in your decision, [our honest take on Japanese cards as an investment](/blog/are-japanese-pokemon-cards-a-good-investment/) separates the hobby math from the investment math. Not sure how the boxes you're comparing are even built? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) has every count that matters."
+      "Two follow-ups worth your time before you buy: if the cards you open might one day be graded, read [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) — condition is where Japanese copies earn their keep. And if resale value is doing any work in your decision, [our honest take on Japanese cards as an investment](/blog/are-japanese-pokemon-cards-a-good-investment/) separates the hobby math from the investment math. Not sure how the boxes you're comparing are even built? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) has every count that matters.",
+      "Whichever language you choose, the next decision arrives with the box: [should you open it or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/) — the framework there applies to Japanese and English product alike."
     ]
   },
   "one-piece-card-game-colors-explained": {
@@ -1168,7 +1775,183 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "one-piece-card-game-colors-explained",
     "takeaway": [
       "Color in the One Piece Card Game is a plan, a card pool, and a budget, all chosen at once. Red attacks, green rests, blue bounces and draws, purple ramps DON!!, black removes by cost, and yellow weaponizes its own life total. None of those identities is going anywhere, which is why they — and not this month's results — are the right basis for your first purchase.",
-      "Start with the color whose plan you already enjoy, feed it from one pool, and let the Japanese-first release rhythm work for you instead of against you. Browse the current [One Piece range](/one-piece-cards/) when you are ready, and bring us your playstyle, not a decklist you copied — the Warehouse would rather sell you the right color once than the wrong color twice."
+      "Start with the color whose plan you already enjoy, feed it from one pool, and let the Japanese-first release rhythm work for you instead of against you. Browse the current [One Piece range](/one-piece-cards/) when you are ready, and bring us your playstyle, not a decklist you copied — the Warehouse would rather sell you the right color once than the wrong color twice.",
+      "Picked your color? [How to build your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) turns it into a legal 50-card list — skeleton, budget table, and the testing loop that saves you from buying the wrong singles."
+    ]
+  },
+  "one-piece-how-to-build-your-first-deck": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "Only if your Leader carries both colors. The Leader's color identity is the whole rule: a single-color Leader locks you to that one color, while a two-color Leader opens both pools. Either way, a card whose color does not appear on your Leader cannot go in the 50.",
+        "q": "Can my deck use cards from two colors?"
+      },
+      {
+        "a": "No. A box is an upgrade pool — 24 packs of random cards spread across the set's colors and rarities. It will strengthen a starter deck and hand you trade stock, but the specific playsets your Leader needs come from singles, bought after testing. Budget for starter, then box, then a short singles list, in that order.",
+        "q": "Is one booster box enough to build a complete deck?"
+      },
+      {
+        "a": "Exactly 10, always — the DON!! deck is fixed at 10 and sits separate from your 50. Starter decks include them, and they are the one part of the build you never tune: same ten slots, every deck, every color.",
+        "q": "How many DON!! cards do I need, and where do I get them?"
+      }
+    ],
+    "h1": "How to Build Your First One Piece Deck (Without Buying the Wrong Cards First)",
+    "intro": [
+      "Build in this order and you will not waste money: choose a Leader, let its color lock your card pool, fill exactly 50 main-deck slots inside a proven allocation, add exactly 10 DON!! cards, and only then chase the expensive pieces. Every One Piece deck follows the same skeleton — 1 Leader, a 50-card main deck, a 10-card DON!! deck, no more than 4 copies of any single card number, and colors that match the Leader. The players who overspend are almost never bad at the game. They bought cards before they had a skeleton to put them in.",
+      "This guide is for new players holding a starter deck, a booster box, or a pile of pulls and wondering how it becomes a deck. It is not for experienced players tuning for a regional — you already know your ratios, and the framework below is a starting point, not a ceiling. It is also not a shopping list. If a guide tells you the exact 50 cards to buy before you have played a single game, it is selling you someone else's deck."
+    ],
+    "metaDescription": "Your first One Piece deck, built in order: pick a Leader, respect the 50 + 10 structure, allocate the 50, and test before you spend.",
+    "metaTitle": "Build Your First One Piece Deck: A Beginner's Framework",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "checklist": [
+          "1 Leader card, chosen first",
+          "Main deck: exactly 50 cards",
+          "DON!! deck: exactly 10 cards, kept separate from the 50",
+          "Max 4 copies of any card number",
+          "Every card's color matches the Leader's color(s)"
+        ],
+        "h": "The skeleton: five numbers that never change",
+        "paragraphs": [
+          "Leader first. Your Leader card sits outside the 50 and defines everything: its color (or colors) is the only color pool you may build from, and its life total and effect set the tempo of your whole game plan.",
+          "Main deck: exactly 50 cards. Not 49 for luck, not 51 because you could not make the last cut. Exactly 50 — the game will not let you register anything else. The DON!! deck is exactly 10 DON!! cards, separate from the 50: they power every play you make, one fresh DON!! arriving per turn, and [the six-color guide](/blog/one-piece-card-game-colors-explained/) explains how each color spends them differently.",
+          "The last rule is the 4-copy limit: no more than 4 copies of the same card number anywhere in the 50. Different printings of the same card number still count as the same card — check the number printed on the card, not the artwork. Sleeve those five numbers into your head before you buy a single card and half of all beginner mistakes never happen."
+        ]
+      },
+      {
+        "h": "Pick your Leader by color, not by hype",
+        "note": "The first-deck question we hear most is 'which Leader is the strongest?' The honest answer from the Warehouse: the strongest Leader is the one whose color you enjoy, because a first deck you stop playing after a week teaches you nothing. Pick the color first. The Leader follows.",
+        "paragraphs": [
+          "The six colors play genuinely different games. Red attacks early and often, built around Rush. Green rests opposing characters and controls the board. Blue bounces threats back to hand or deck and draws cards. Purple manipulates DON!!, ramping ahead of the normal curve. Black removes characters by cost thresholds. Yellow works with your life cards and Trigger effects to survive and swing back. The full breakdown is in [our One Piece colors guide](/blog/one-piece-card-game-colors-explained/) — read it before you choose, because the Leader locks the pool: a red Leader cannot run a single green card.",
+          "Choose the color whose plan sounds like a game you want to play fifty times, not the Leader topping this month's tournament reports. Tournament results reflect practiced pilots with complete collections playing a field they prepared for. Your first deck's job is different: teach you the game while staying fun enough that you keep playing it long enough to get good."
+        ]
+      },
+      {
+        "h": "Allocating the 50: a starting framework, not a law",
+        "paragraphs": [
+          "Once the skeleton is fixed, the 50 slots divide by job. The bands below are a starting framework — the allocation most functional beginner decks land near — not a meta law and not a tournament recipe. Counts overlap on purpose: most blockers are also early-game bodies, and most mid-game threats double as attackers, so the bands describe roles your cards cover rather than separate piles that must sum perfectly.",
+          "If your counts land far outside a band, treat it as a question to answer, not automatically a mistake. Zero blockers means your Leader eats every attack. Ten finishers means opening hands full of cards you cannot play until your DON!! count climbs. The bands exist to make those problems visible on paper before they cost you games at the table."
+        ],
+        "table": {
+          "head": [
+            "Slot",
+            "Starting band",
+            "Its job"
+          ],
+          "rows": [
+            [
+              "Early-game bodies (cost 1–2)",
+              "10–14",
+              "Play something every early turn; trade up or chip damage"
+            ],
+            [
+              "Mid-game threats (cost 3–5)",
+              "14–18",
+              "The working core — pressure, board presence, removal targets"
+            ],
+            [
+              "Blockers",
+              "8–12",
+              "Protect the Leader and key characters (usually also bodies)"
+            ],
+            [
+              "Events & counters",
+              "4–8",
+              "Answers and combat tricks characters cannot provide"
+            ],
+            [
+              "Top-end finishers (cost 7+)",
+              "4–6",
+              "Close the game once your DON!! count is high"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Where the cards come from: starter first, box second, singles last",
+        "math": [
+          "OP-18 box: $70 ÷ 24 packs = $2.92 per pack (as of October 21, 2026)",
+          "OP-18 case: $755 ÷ 12 boxes = $62.92 per box = $2.62 per pack",
+          "Singles come last: only the slots your test games proved are weak"
+        ],
+        "paragraphs": [
+          "The cheapest functional base is a starter deck: it arrives as a legal, color-coherent deck with its DON!! cards included, built to be played out of the box. Your first upgrade pool should widen that base, not replace it — which is what a booster box is for. A box of [OP-18 The Dominance of God](/sets/op-18-the-dominance-of-god/) is on pre-order at the Warehouse now, and its 24 packs give you a spread of the newest set to test against your starter's frame. If you are unsure what 24 packs actually means in cards, [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) lays out the counts for every box we stock.",
+          "Run the money honestly. As of October 21, 2026, the [OP-18 Japanese booster box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is $70 for 24 packs — $2.92 a pack. That is a fair price for an upgrade pool. It is not a deck in a box: pulls are random across the set's colors and rarities, and no single box guarantees the specific cards your Leader needs. Anyone who tells you one box completes a deck is selling you the box.",
+          "So the order is: starter deck for the legal base, one box for the upgrade pool and the fun of opening, then singles for the exact missing pieces — bought only after testing shows you which pieces are actually missing. [Where to buy One Piece cards online](/guides/where-to-buy-one-piece-cards-online/) covers the singles route, and if you are timing a box purchase around a release, the [pre-order timing guide](/blog/preorder-japanese-booster-box-or-wait/) explains when waiting saves money and when it quietly costs you the set."
+        ]
+      },
+      {
+        "h": "Three ways to fund the build",
+        "paragraphs": [
+          "Same skeleton, three budgets. All three produce a legal deck; they differ in what your first month of games feels like and how much a wrong guess costs you. Pick by the experience you want, not by the ceiling you imagine."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Cost posture",
+            "Competitiveness out of the gate",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Starter deck only",
+              "Lowest — one purchase, fully legal deck",
+              "Casual-ready; will lose to tuned decks",
+              "Learning the game and your color"
+            ],
+            [
+              "Starter + one booster box",
+              "Moderate — $70 for OP-18 at current pre-order pricing",
+              "Noticeably stronger; real upgrades plus trade stock",
+              "Most new players — the route we recommend"
+            ],
+            [
+              "Singles-only build",
+              "Variable — cheapest per exact card, easiest to overspend",
+              "Highest ceiling, if the list is proven",
+              "Players who already know their Leader and list"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Test before you spend: the proxy loop",
+        "paragraphs": [
+          "Before buying any card that costs real money, proxy it: a printed slip over a bulk card, in a friendly game, with your opponent's agreement. Play the deck ten times. Keep a note of what actually loses you games — the finisher that never leaves your hand, the answer you keep wishing you had drawn, the matchup where your board folds. That notebook, not a tournament report, is your shopping list.",
+          "This loop is the recovery path for every deckbuilding mistake. A wrong cheap card is a lesson. A wrong expensive card bought four times is an expensive lesson — unless the proxy loop caught it first, in which case it was free. Buy playsets only of cards that survived testing.",
+          "Two mistakes drain more new-player budgets than any others. The first is copying a tournament list card-for-card: those lists assume the pilot's experience, the local field they were tuned against, and full playsets you do not own yet. Borrow the list's ideas — its ratios, its curve — not its exact 50. The second is ignoring your DON!! curve: DON!! grows by roughly one per turn, so a deck stacked with high-cost cards sits idle while a leaner deck is already attacking. If your hand is regularly unplayable before turn four, the curve is the bug, not your luck."
+        ]
+      },
+      {
+        "h": "Japanese or English pool? Timing and price differ",
+        "paragraphs": [
+          "You can build from Japanese or English cards, and the choice follows the same logic as our [Japanese vs English breakdown](/blog/japanese-vs-english-pokemon-cards-which-to-buy/): Japanese sets release first and typically cost less per pack. OP-17 is the clean example — Japan released August 22, 2026 and English August 28, a six-day gap — and as of October 21, 2026 the [Japanese OP-17 box](/product/op-17-the-world-s-strongest-warriors-booster-box-japanese-one-piece-card/) is $101.07 against $153.69 for the English box. The current pool is all laid out in the [OP-17 set hub](/sets/op-17-worlds-strongest-warriors/). New cards exist in Japanese before they exist in English, every set.",
+          "Two cautions before building Japanese-only. First, availability cuts both ways: the newest cards reach you first, but so does the sell-out. Second, event rules: many official events outside Japan are played in the local language, so check your store's event rules before committing a competition deck to Japanese cards. For casual play with friends, none of this matters — agree it with your group and play.",
+          "However you source, learn to check what you are buying: singles bought card-by-card are where fakes circulate, so read [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) before your first singles order, and browse [our One Piece range](/one-piece-cards/) to see what is actually in print and in stock before you build around a card nobody can sell you."
+        ]
+      },
+      {
+        "checklist": [
+          "Leader chosen by color identity, not tournament hype",
+          "50 main-deck cards, 10 DON!! cards, max 4 copies per card number",
+          "Every card's color matches the Leader's color(s)",
+          "Allocation checked against the framework bands",
+          "Starter deck as the base; box as the upgrade pool; singles last",
+          "Expensive pieces proxied and tested across at least ten games",
+          "DON!! curve checked — playable cards in hand before turn four",
+          "A written list of what loses you games, kept from your test matches"
+        ],
+        "h": "The first-deck checklist",
+        "paragraphs": [
+          "Build against this list and your first deck will be legal, coherent, and upgradeable — which is all a first deck has to be."
+        ]
+      }
+    ],
+    "slug": "one-piece-how-to-build-your-first-deck",
+    "takeaway": [
+      "A first deck is a teaching tool that happens to be legal. Skeleton first, color second, allocation third, spending last — in that order, every time. The players still enjoying this game in a year are the ones whose first deck taught them cheaply.",
+      "Ready to start? Browse [the One Piece range](/one-piece-cards/) for starter decks and boxes, and keep an eye on the [release calendar](/release-calendar/) for what your color gets next. And if you end up holding sealed product you are saving rather than opening, store it the way we describe in [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — a box kept right is money kept."
     ]
   },
   "preorder-japanese-booster-box-or-wait": {
@@ -1591,7 +2374,143 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "'Case' is a quantity, not a discount. At our October 20, 2026 prices, the OP-17 English case saves $290.88 across twelve boxes against buying singles — real money, worth having if the twelve boxes have a plan. The OP-17 Japanese case costs $2.16 more across twelve than the same boxes bought one at a time. Same store, same week, same label on the outer carton. The label did none of that. The division did all of it.",
       "So the habit to take from this article is smaller than a case: two divisions, run every time, before the money moves. Case price by boxes. Box price by packs. Two minutes of arithmetic is the cheapest due diligence in this hobby — and the only version of 'bulk discount' that has ever been guaranteed.",
-      "The case question usually hides an investment question, so read [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before committing case money. Every figure in this article came from dividing by pack counts — [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the reference table behind the math. And if you're importing a case from Japan yourself, [the shipping, customs, and proxy breakdown](/blog/buying-tcg-from-japan-shipping-customs-proxy/) shows what the case really costs landed."
+      "The case question usually hides an investment question, so read [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before committing case money. Every figure in this article came from dividing by pack counts — [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the reference table behind the math. And if you're importing a case from Japan yourself, [the shipping, customs, and proxy breakdown](/blog/buying-tcg-from-japan-shipping-customs-proxy/) shows what the case really costs landed.",
+      "A case only holds its value if it survives storage: [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers the conditions that quietly destroy the premium the math above depends on."
+    ]
+  },
+  "should-you-open-or-keep-sealed-booster-box": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "No. Sealed preserves the premium and keeps every option open, but it doesn't promise appreciation — sets cool, demand moves, and tastes change. Sealed is the reversible choice, not the risk-free one. If a box must gain value for the purchase to make sense, the purchase doesn't make sense.",
+        "q": "Does keeping a box sealed guarantee it gains value?"
+      },
+      {
+        "a": "No — and this is the most common misunderstanding of the 'open half' strategy. The sealed premium belongs to the intact, unopened box. Once the wrap is broken, the remaining packs are loose packs and price as loose packs, even if you never open them. Open-half works at the box level — open one box, keep a second box sealed — not inside a single box.",
+        "q": "If I open half the packs, does the box keep its sealed value?"
+      },
+      {
+        "a": "As long as your stated horizon says — which means the honest answer is: until the date or exit condition you set when you bought it. If you never set one, set it now. Indefinite holds by default are how both the enjoyment and the premium quietly expire.",
+        "q": "How long should I keep a box sealed?"
+      }
+    ],
+    "h1": "Should You Open Your Booster Box or Keep It Sealed?",
+    "intro": [
+      "Direct answer: open what you bought to enjoy. Keep a box sealed only when you can name the reason and the horizon — 'I'll hold this for three years because sealed special sets are my thing' is a reason; 'it might go up' is a hope wearing a strategy's clothes. The shrink wrap makes the decision feel permanent. It isn't quite. But it is one-directional, and that asymmetry is what this article prices.",
+      "This is for anyone with a sealed box on the shelf and an itch. It is not for anyone who needs a box to be an ATM: if the money in that box has a job to do on a deadline, no cardboard rectangle should be holding it."
+    ],
+    "metaDescription": "Open your booster box or keep it sealed? The sealed premium explained with real prices, plus a decision framework — before the wrap decides for you.",
+    "metaTitle": "Open It or Keep It Sealed? The Booster Box Decision",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "The sealed premium: what the plastic is actually worth",
+        "math": [
+          "SV11B Black Bolt sealed: $152.65 ÷ 140 cards = $1.09 per card, with a guaranteed structure",
+          "SV11B opened: value = the sum of the singles you actually pulled — unknown until you open",
+          "The sealed premium = sealed price − expected singles sum. Direction: usually positive. Exact size: unknowable before you open",
+          "M6a 30th Celebration sealed: $207.50 ÷ 120 cards = $1.73 per card, every card holo"
+        ],
+        "paragraphs": [
+          "A sealed box carries a premium over the cards inside it, and that premium is real money. Take SV11B Black Bolt at our shelf price as of October 21, 2026: [the box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $152.65 for 140 cards. The moment you open it, the box stops being a box. Its value becomes the sum of whatever singles you pulled — and for most boxes of most sets, that sum lands below the sealed price. The gap between the two numbers is the sealed premium, and opening is how you spend it.",
+          "Buyers sometimes talk about the premium as if it were a markup trick. It isn't. It's the price of two concrete things: certainty (a sealed box's structure is guaranteed; an opened box's contents are whatever variance dealt you) and optionality (a sealed box can still become anything — a gift, a hold, a draft night, a sale — while an opened box can only be the cards it turned out to be). Certainty and options cost money in every market. This one is no different.",
+          "Why can't we give you the exact premium for your box? Because the singles sum depends on your specific pulls, and anyone quoting you a precise expected return on a specific sealed box is inventing numbers. The honest version: the premium exists, it is usually positive, and opening spends it whether your pulls are glorious or grim.",
+          "One refinement matters: the premium is not the same size on every box, because the floor under the singles sum isn't the same. A standard box can, in principle, whiff almost completely. A set built like M6a cannot fall as far — every one of its 120 cards is holo, and every pack guarantees one of its 30 Pikachu cards, so the singles sum starts from a higher floor. That doesn't make opening M6a safe. It makes its premium smaller relative to its price, which is exactly what the per-card division shows you before the wrap comes off: $1.73 per guaranteed-holo card, set against Black Bolt's $1.09 per card of unknown finish."
+        ]
+      },
+      {
+        "h": "Three ways to play it",
+        "paragraphs": [
+          "Every sealed box on every shelf is in one of these three states, whether its owner chose the state or drifted into it.",
+          "Note the asymmetry the table exposes: keeping sealed is the only fully reversible choice. That is worth something. It is just not worth everything — a box kept sealed for a decade by someone who wanted to open it represents a decade of deferred enjoyment, and enjoyment was the product.",
+          "Notice what the third column quietly admits: the split strategy only works across two boxes, never inside one. Break the wrap on a single box and the sealed premium on its still-unopened packs dies with it — loose packs price as loose packs, as the FAQ below spells out. Splitting therefore costs two boxes, which is why it suits deliberate collectors, and not anyone who stretched to afford the first one."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Open it now",
+            "Keep it sealed",
+            "Open one, keep one"
+          ],
+          "rows": [
+            [
+              "Enjoyment",
+              "Full — the box does its job today",
+              "Deferred — enjoyment becomes watching a price",
+              "Both — one box for joy, one for the shelf"
+            ],
+            [
+              "Expected value",
+              "The singles sum, usually below the sealed price",
+              "The sealed price, preserved while unopened",
+              "Half the premium spent, half preserved"
+            ],
+            [
+              "Liquidity",
+              "Singles sell one by one; slow, effortful",
+              "One item, one buyer; the fastest exit",
+              "Mixed — a sealed box to sell, singles to trade"
+            ],
+            [
+              "Regret profile",
+              "Whiff regret: 'I should have sold it sealed'",
+              "Opportunity regret: 'I never even enjoyed it'",
+              "Hedged — smaller regrets in both directions"
+            ],
+            [
+              "Reversibility",
+              "None — a box cannot be un-opened",
+              "Total — you can always open it later",
+              "Partial — the opened box is spent, the sealed one isn't"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The framework: four questions before the wrap comes off (or doesn't)",
+        "note": "From the Warehouse side of the counter, the pattern we see is buyers asking us in chat whether they should open the box they just bought. What they're really asking for is permission. Our answer is always some version of: we can price the box for you, but we can't want it for you. The boxes people regret are rarely the opened ones or the sealed ones — they're the ones decided by drift.",
+        "paragraphs": [
+          "One: why did you buy it? If you bought [M6a](/product/m6a-30th-celebration-booster-box-japanese-pok-mon-tcg/) because 30 Pikachu cards with one guaranteed in every pack made you grin, the box already told you its job. Shelving it converts a joy purchase into a speculation you never signed up for. If you bought it as a deliberate hold, the reverse applies — opening it on a whim spends a position you built on purpose.",
+          "Two: what is your horizon, in actual time? 'Long term' is not a horizon. A date is. If you can't attach a rough date and a rough exit condition, you don't have a hold strategy — you have a box and a mood. This is the same discipline we apply to [pre-orders](/blog/preorder-japanese-booster-box-or-wait/): name the condition under which the decision changes, before the moment arrives and decides for you.",
+          "Three: would you buy it again at today's price? The classic test, and it cuts both ways. If your sealed box has risen and you wouldn't rebuy it at the current shelf price, you're no longer holding a thesis — you're holding inertia. And if you would rebuy it happily, opening it 'because it's worth more now' makes even less sense than it did on day one.",
+          "Four: where will it live? A sealed box is a physical object with enemies — heat, humidity, sunlight, shelf wear, the slow crush of other boxes stacked on it. Our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/) covers the specifics. The short version: a hold strategy without a storage plan quietly converts premium into damage."
+        ]
+      },
+      {
+        "h": "Regret runs in both directions",
+        "paragraphs": [
+          "Open-and-whiff: you tear a box, the pulls land below the premium, and the loss feels like a verdict on the decision. It isn't one. You bought variance and received variance; the decision and the outcome are different things. The recovery is boring and real — the singles are still cards: gradeable, tradeable, sellable one by one. And the experience itself was the thing the premium had been renting you all along. Judge the decision by the framework you used, not by the pull you got.",
+          "Sealed-forever: the quieter failure. The box appreciates or it doesn't, but either way, it sat. Storage risk compounds, tastes move on, the set's moment passes, and the 'someday' exit keeps moving one more season into the future. The recovery: put the exit condition in writing at the moment you buy — a date, a price, an occasion — and let the written version overrule the mood of the month. And if the box's job was always joy, schedule the opening like the event it is instead of waiting to feel ready.",
+          "Then there's the meta-risk that covers both directions: treating this as an investment decision at all when the sums involved are hobby-sized. We wrote the longer version of that warning in [our breakdown of Japanese cards as an investment](/blog/are-japanese-pokemon-cards-a-good-investment/). The short version: the sealed premium is a fee for fun and optionality. Fees are fine. Mistaking them for yield is how collectors become reluctant, unhappy speculators."
+        ]
+      },
+      {
+        "h": "The Japanese-box wrinkle",
+        "paragraphs": [
+          "The boxes on our shelves are Japanese-language product, and that changes the texture of this decision without changing its logic. A sealed Japanese box is a standardized, globally understood object — the [case and box math](/blog/sealed-case-vs-booster-box-the-math/) works the same way in any country. Opened Japanese singles, meanwhile, enter a collector market that prizes exactly what Japanese sets do best: print quality, and structures like M6a's all-holo run or SV11's AR-or-better Unova treatment. The premium exists on both sides of the decision; the framework — reason, horizon, rebuy test, storage — doesn't care which language is printed on the box.",
+          "One more wrinkle, named honestly: the [god pack](/blog/what-is-a-god-pack-japanese-pokemon/). The small chance of a monster pack is part of what the sealed premium prices in, and opening to chase it is the purest form of spending the premium on variance. That's a legitimate purchase — entertainment is a legitimate purchase — as long as you know it's the transaction you're making."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the box's job in one sentence: open for joy, hold with a horizon, or split across two boxes",
+          "Write the hold conditions down — a date or a price at which you will re-decide, not 'someday'",
+          "Run the rebuy test: would you buy this exact box again at today's shelf price?",
+          "Check the storage: cool, dry, dark, uncrushed — or the premium is quietly leaking",
+          "Price the premium honestly: box price minus a realistic singles sum is what opening costs",
+          "If opening: do it on purpose, not on impulse — make it the event you paid for",
+          "If keeping sealed: put the review date in the calendar now, while the decision is fresh"
+        ],
+        "h": "Before you decide: the checklist",
+        "paragraphs": [
+          "Work through these in order. Most boxes fail at question one — nobody ever actually said what the box was for."
+        ]
+      }
+    ],
+    "slug": "should-you-open-or-keep-sealed-booster-box",
+    "takeaway": [
+      "A sealed box is an option; an opened box is an experience. Options are worth money and experiences are worth money, and the sealed premium is simply the exchange rate between them. Neither choice is the smart one in the abstract. The smart one is the choice you made on purpose, with a reason and a date attached to it.",
+      "Still torn on a specific box? Tell us which one in chat and we'll walk through its numbers with you. The [Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) and the [M6a box](/product/m6a-30th-celebration-booster-box-japanese-pok-mon-tcg/) come up most often, and the framework above is exactly the one we'll use."
     ]
   },
   "what-is-a-god-pack-japanese-pokemon": {
@@ -1739,7 +2658,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "God packs are real, they are thrilling, and they are not a strategy. The generosity you can take to the bank in Japanese Pokémon is structural — a 100 percent holo rate in M6a at $1.73 a card as of October 20, 2026, an AR floor in every Deluxe pack, a Pikachu guaranteed in every M6a pack. Price the structure. Enjoy the jackpot if it comes. Never confuse the two.",
       "If you are weighing a Japanese box right now, build the little table from this page for it — packs, cards, guarantee, cost per card — and the decision usually makes itself. And if you ever tear open a pack and find hit after hit after hit, you will know exactly what you are holding: not a system working. Just variance, smiling.",
-      "Chasing structure instead of jackpots starts with knowing what each box actually contains: [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) lays out the verified counts side by side. Collectors who pull a genuine chase card face the next question — [what a master set is and what it costs to build one](/blog/what-is-a-master-set-pokemon/) — and anyone tempted to treat a lucky pull as an investment should read [our honest investment breakdown](/blog/are-japanese-pokemon-cards-a-good-investment/) first."
+      "Chasing structure instead of jackpots starts with knowing what each box actually contains: [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) lays out the verified counts side by side. Collectors who pull a genuine chase card face the next question — [what a master set is and what it costs to build one](/blog/what-is-a-master-set-pokemon/) — and anyone tempted to treat a lucky pull as an investment should read [our honest investment breakdown](/blog/are-japanese-pokemon-cards-a-good-investment/) first.",
+      "If the all-holo structure of special sets appeals to you, the current head-to-head is [Black Bolt vs White Flare](/blog/black-bolt-vs-white-flare-which-to-buy/) — two sets built on the same skeleton, priced $12.88 apart, with the full comparison run."
     ]
   },
   "what-is-a-master-set-pokemon": {
@@ -1873,7 +2793,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "what-is-a-master-set-pokemon",
     "takeaway": [
       "A master set is a definition before it is a purchase: one of every card, with the argument about variants settled in advance. At modern Japanese scale — a base list around a hundred cards and 86 or more secret rares above it — the project is roughly 189 cards, sixteen binder pages, and a budget that lives almost entirely in its final ten percent.",
-      "Build one only of a set you love, price the tail before the first box, and buy the bulk cheap and the chase cards deliberately. When you are ready to start, the [Pokémon range](/pokemon-cards/) is where the boxes live — and if you tell the Warehouse which set you are chasing, we will tell you honestly whether its tail is kind or cruel."
+      "Build one only of a set you love, price the tail before the first box, and buy the bulk cheap and the chase cards deliberately. When you are ready to start, the [Pokémon range](/pokemon-cards/) is where the boxes live — and if you tell the Warehouse which set you are chasing, we will tell you honestly whether its tail is kind or cruel.",
+      "Chasing an SV11 master set starts with a box decision: [Black Bolt vs White Flare](/blog/black-bolt-vs-white-flare-which-to-buy/) runs both sets' structure and prices side by side before you commit to either legendary."
     ]
   }
 };
