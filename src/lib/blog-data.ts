@@ -33,6 +33,475 @@ export interface BlogPost {
 }
 
 export const POSTS: Record<string, BlogPost> = {
+  "are-japanese-pokemon-cards-a-good-investment": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "Some do. Anniversary sets and genuinely popular chase cards have held demand well, but 'Japanese Pokémon' as a blanket category includes plenty of product that sits flat or retraces after restocks — and flat is a slow loss once inflation and exit fees are counted. Value holding is set-by-set, not language-by-language.",
+        "q": "Do Japanese Pokémon cards hold their value?"
+      },
+      {
+        "a": "Neither qualifies as an investment in the strict sense; they are different speculations. Sealed product is simpler to value and sell whole but bulkier and slower to exit. Singles — especially popular characters — exit faster but carry condition and grading risk. The comparison table in this article is the honest version of the answer.",
+        "q": "Is it better to invest in sealed boxes or singles?"
+      },
+      {
+        "a": "Because a case is priced as its own product, not as twelve singles minus a bulk discount. Unopened cases carry their own collector demand, and case pricing follows case supply. OP-17's Japanese case works out to $101.25 a box against $101.07 for single boxes, as of October 21, 2026 — which is why the only safe habit is to divide every time.",
+        "q": "Why does a sealed case sometimes cost more per box than single boxes?"
+      }
+    ],
+    "h1": "Are Japanese Pokémon Cards a Good Investment? The Honest Answer",
+    "intro": [
+      "The short answer is two answers. As a hobby, Japanese Pokémon cards are easy to justify: the print quality is better, the cost per card undercuts English equivalents, and sets like M6a are built to be opened. As an investment — money you expect to grow and be able to take back out — most Japanese sealed product fails the honest tests: liquidity, storage, reprint risk, and the simple arithmetic of what else that money could be doing. This article runs those tests with real prices instead of vibes.",
+      "Who this is for: collectors who keep hearing that the closet is a portfolio, and anyone about to spend case money on a thesis they read in a comment thread. Who it is not for: anyone who needs the money back on a date. Rent, tuition, and emergency funds have deadlines; cardboard does not respect them.",
+      "Every price below is a price on our own shelf, as of October 21, 2026, and most of them come from the set at the center of the current argument: [M6a 30th Celebration](/sets/m6a-30th-celebration/). If the numbers move, the method still holds — divide before you believe."
+    ],
+    "metaDescription": "Japanese Pokémon cards as an investment: per-pack math, the case paradox, liquidity and reprint risk, and the narrow cases where sealed can make sense.",
+    "metaTitle": "Are Japanese Pokémon Cards a Good Investment?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "First, the only honest unit: what a card actually costs you",
+        "math": [
+          "M6a booster box: $207.50 ÷ 20 packs = $10.38 per pack",
+          "M6a per card: $207.50 ÷ 120 cards = $1.73 per card — every one of them holo",
+          "SV11B Black Bolt box: $152.65 ÷ 20 packs = $7.63 per pack",
+          "SV11B per card: $152.65 ÷ 140 cards = $1.09 per card"
+        ],
+        "paragraphs": [
+          "Box prices are marketing. Cost per pack and cost per card are arithmetic, and arithmetic is where most 'investments' in this hobby quietly fall apart. Take the [M6a 30th Celebration booster box](/product/m6a-30th-celebration-booster-box-japanese-pok-mon-tcg/) at $207.50. That is the most expensive standard box on our Pokémon shelf, and per card it is also one of the most defensible: 120 cards, every single one holo, works out to $1.73 a card.",
+          "Compare the [SV11B Black Bolt booster box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) at $152.65 for 140 cards — $1.09 a card. Neither number tells you what the box will be worth in three years. What they tell you is what you are paying for the floor: the guaranteed contents. An investment case built on guaranteed contents can at least be argued. One built on hoped-for chase cards is a lottery ticket with extra steps.",
+          "That is the first test any sealed 'investment' has to pass: if the price only makes sense assuming the best possible outcome, it is not an investment case. It is a hope with a receipt. The collectors who come out ahead in this hobby are, almost without exception, the ones who bought the floor cheaply and let any appreciation arrive as a surprise."
+        ]
+      },
+      {
+        "h": "The case paradox: bulk is not a discount until you divide",
+        "math": [
+          "OP-17 Japanese single box: $101.07 ($4.21 per pack)",
+          "OP-17 Japanese case: $1,215 ÷ 12 boxes = $101.25 per box — $0.18 MORE per box than singles",
+          "OP-17 English single box: $153.69 ($6.40 per pack)",
+          "OP-17 English case: $1,553.36 ÷ 12 = $129.45 per box — here the case does save $24.24 per box"
+        ],
+        "note": "From the Warehouse: the most common start to a case conversation in our chat is a buyer assuming the bulk discount exists and asking how big it is. Sometimes the honest answer is that it is negative. The buyers who do well here are the ones who ask for the per-box number first and the story second.",
+        "paragraphs": [
+          "Serious buyers graduate from boxes to cases, assuming wholesale logic applies. Sometimes it does. Sometimes the case is its own collectible with its own price, and the per-box number comes out worse than buying single boxes. Our [sealed case vs booster box breakdown](/blog/sealed-case-vs-booster-box-the-math/) works through the full comparison; the headline example is OP-17, the same set in both languages.",
+          "Same set, same shelf, opposite answers depending on language. Anyone who tells you cases are always the smart money has not divided recently — and the difference is not small change at the English end, where the case genuinely saves real money per box."
+        ]
+      },
+      {
+        "h": "Four places people park card money, compared honestly",
+        "paragraphs": [
+          "If cards are where your spare money goes, there are really four vehicles, and they fail in different ways. Sealed Japanese boxes lean on collector demand and thinner specialist attention outside Japan. Sealed English boxes lean on the biggest resale pool in the hobby. Graded singles lean on character popularity and slab populations. Raw chase singles are pure timing.",
+          "Notice what the table does not contain: a winner. Each option trades a different risk. The closest thing to a free lunch is liquidity — the ability to leave — and on that measure, popular singles and English sealed beat Japanese sealed, because the buyer pool for Japanese product outside Japan is smaller and more specialist.",
+          "Graded singles deserve one extra warning: the grade is doing the work, not the card. Understanding what the letters on a Japanese card actually mean — AR, SAR, UR and the rest — is covered in our [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/), and it matters here because a raw SAR and a graded SAR are different assets with different buyers, different fees, and different exit speeds.",
+          "One more line the table cannot show: your own behavior. The best-performing vehicle on paper loses to the one you will actually hold through a 30% dip without panic-selling at the bottom of it. Match the vehicle to the temperament, not just to the spreadsheet — a position you abandon mid-fall performs worse than a mediocre one you keep."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Liquidity",
+            "Storage burden",
+            "Main risk",
+            "Realistic horizon"
+          ],
+          "rows": [
+            [
+              "Sealed Japanese boxes",
+              "Medium — real collector demand, smaller buyer pool than English",
+              "High — bulky, condition-sensitive",
+              "Reprints and hype retrace",
+              "3–5+ years"
+            ],
+            [
+              "Sealed English boxes",
+              "Highest — the largest resale pool in the hobby",
+              "High — the same bulk problem",
+              "Large print runs; a very public, efficient market",
+              "3–5+ years"
+            ],
+            [
+              "Graded singles",
+              "High for popular characters, slow for everything else",
+              "Low — slabs stack flat",
+              "Grading fees, grade risk, population growth",
+              "1–3 years"
+            ],
+            [
+              "Raw chase singles",
+              "Fast when hyped, thin when not",
+              "Low",
+              "Spike-and-retrace after restocks; condition disputes",
+              "Weeks to months"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The five ways this goes wrong — and what recovery looks like",
+        "math": [
+          "Worked example (hypothetical): $1,000 of sealed product sits untouched for 3 years and its price does not move",
+          "At a hypothetical 3% annual inflation, break-even is $1,000 × 1.03 × 1.03 × 1.03 = $1,092.73",
+          "The flat box is still 'worth $1,000' — about $915 in today's purchasing power. Flat is a slow loss, not a hold."
+        ],
+        "note": "The recovery for all five failure modes is the same discipline: size positions as money that can sit for five years, spread across the four vehicles instead of doubling down on one set, and buy product you would genuinely enjoy opening if the price fell. Enjoyment is the floor that no reprint can take away.",
+        "paragraphs": [
+          "Reprints. Japanese sets get restocks, and a box bought at a scarcity price during a sellout can retrace the moment fresh supply lands. The recovery is boring: never pay scarcity prices for a set whose print window is still open. Our [pre-order timing guide](/blog/preorder-japanese-booster-box-or-wait/) exists precisely because the first price is rarely the final price.",
+          "Hype retrace. Chase singles spike at release and bleed as supply surfaces and attention rotates to the next set. If your thesis requires selling inside the first fortnight, you are a trader, not an investor, and you should size positions like one — small, and with an exit decided before you buy.",
+          "Liquidity and storage. A case is twelve boxes of bulky, condition-sensitive cardboard. It needs dry, flat, boring storage for years, and when you sell, you sell into a smaller pool than English product — one buyer at a time, with shipping risk on every transaction. Buying secondhand adds another layer: know how to spot a fake before money moves. Start with our [guide to spotting fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/).",
+          "Exit costs. Every resale pays a toll — marketplace fees, payment processing, shipping, and the occasional dispute. None of these appear in the screenshots people post of what their box 'is worth.' A price on a screen is not a price in your account, and the gap between them widens exactly when everyone tries to leave at once.",
+          "Opportunity cost. This is the one nobody posts about. Money asleep in a closet is money not compounding anywhere else, and a box that merely keeps its price can still be a loss:"
+        ]
+      },
+      {
+        "h": "The Japan part of the equation",
+        "paragraphs": [
+          "Japanese product carries two structural facts that change the math. First, Japanese cards are not tournament-legal in English-language events, so the entire player demand that supports English singles prices does not exist for Japanese cards — the buyer is a collector, full stop. Second, Japanese sets release first: OP-17 landed in Japan on August 22, 2026, six days ahead of the English release on August 28, which makes Japanese prices the early signal and English the deeper market that follows.",
+          "Against that, Japanese print quality and centering are generally better, which is why Japanese chase cards grade well and why the collector niche pays attention in the first place. It is a real edge. It is just a narrower one than the internet version, in which every Japanese box is a vault. The full language-by-language split — price, quality, legality, resale — is in our [Japanese vs English buying guide](/guides/japanese-vs-english-pokemon-cards/).",
+          "There is a timing asymmetry buried in that six-day gap. Japanese prices form first, on thinner information, which means early Japanese buyers are partly paying for discovery. English prices form later, in a deeper market, and tend to be harder to move afterward. Neither is an advantage by itself — but it explains why the same set can look volatile in Japanese and merely expensive in English during the same week."
+        ]
+      },
+      {
+        "h": "The narrow exceptions where the math can work",
+        "paragraphs": [
+          "Exceptions exist, and they share a shape: the value sits in the guaranteed structure, not in a hoped-for spike. M6a guarantees a Pikachu in every pack and a holo in every slot, so the box delivers its promise even if the resale price never moves — the floor is the product itself. Entry price matters the same way: a set bought near its per-card floor has far less room to disappoint than one bought at a celebration premium after the crowd has already arrived.",
+          "The second exception is patience with genuinely loved sets bought after the hype has left — not during it. Both exceptions are speculation with a hobby floor, and calling them that is not an insult. It is how you size them: money whose worst case is 'I own cards I like,' never money whose worst case is a missed payment. Browse what is actually available on our [Pokémon shelf](/pokemon-cards/) and run the per-card division on anything that tempts you before the story gets a vote.",
+          "What does not qualify as an exception, no matter how often it gets dressed up as one: a set being hot this week. Launch heat is the crowd's signal, not yours, and it is the most expensive signal in the hobby to follow. Every exception above was bought against the crowd's attention, not with it. That is not a coincidence — it is the whole mechanism."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide the price: cost per pack and cost per card written down, not vibes",
+          "Check the case math separately — bulk is not automatically cheaper",
+          "Name your exit: who buys this, in which language market, after what fees",
+          "Set the horizon in years and the size as money that can sit untouched",
+          "Confirm you would enjoy opening it if the resale price fell 30% — if not, do not buy it",
+          "Store it like inventory: cool, dry, flat — and insured if the pile grows"
+        ],
+        "h": "Before a box goes in the 'investment' pile",
+        "paragraphs": [
+          "Run every candidate purchase through this list. If it fails one line, it is a hobby purchase — which is fine, as long as it is priced and sized as one. Our full head-to-head on the language question, with the per-pack numbers for both sides, is [the Japanese vs English comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/)."
+        ]
+      }
+    ],
+    "slug": "are-japanese-pokemon-cards-a-good-investment",
+    "takeaway": [
+      "Verdict: buy Japanese Pokémon cards because they are the best version of the hobby — better print, honest per-card prices, sets built to be opened. If some of them appreciate, treat it as a bonus on a collection, not a return on a portfolio. The moment the purchase needs the price to cooperate, it has stopped being collecting and started being an unpriced bet.",
+      "And if you do park money in sealed product, do it the way the numbers above demand: divided, diversified, and sized to be forgotten for years. More of this shop-floor math lives on [the Warehouse blog](/blog/)."
+    ]
+  },
+  "buying-tcg-from-japan-shipping-customs-proxy": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "Possibly. It depends on your country, the parcel's declared value, and rules and thresholds that governments change over time — which is why no article, including this one, can responsibly hand you a current number for your situation. Your own customs authority's published guidance is the only source to trust, and it should be checked before you order, not when the parcel is already at the border. On proxy and marketplace routes, an unexpected customs bill lands on you alone.",
+        "q": "Will I pay customs on cards shipped from Japan?"
+      },
+      {
+        "a": "Safe is the wrong frame. A proxy is a chain of custody — a Japanese seller, a domestic parcel, a warehouse, an international parcel — and at almost every link, the risk sits with you rather than the service. For goods you can verify in photographs and afford to lose, that trade can be reasonable. For sealed product you cannot inspect before it is forwarded to you, the risk is structural, not incidental. Keep proxy orders small enough to lose, and never let a fee stack that saves a little money talk you into a parcel you cannot afford to write off.",
+        "q": "Is using a proxy service safe?"
+      },
+      {
+        "a": "Because the specialist shelf price has the stack inside it: Japan-side sourcing, domestic handling, international shipping, inspection of the stock, and a seller who answers for the product if something is wrong. The Japanese domestic price excludes all of that, which is why it looks cheaper from a distance. The proxy route does not make those costs disappear either — it itemizes them and hands them to you one by one. The honest comparison is never price against price; it is landed cost against landed cost.",
+        "q": "Why does a specialist store charge more than the Japanese shelf price?"
+      }
+    ],
+    "h1": "Buying TCG From Japan: Shipping, Customs, and the Proxy Question",
+    "intro": [
+      "There are three real routes to Japanese TCG product from outside Japan: a proxy service that buys domestically on your behalf, marketplaces where sellers ship internationally, and a specialist store that stocks Japanese product and ships it to your door. Every route works. They differ in what the product truly costs by the time it reaches you, in who carries the risk when something is wrong, and in how much of your own time the route consumes.",
+      "This guide prices all three honestly, including the fee stack nobody itemizes for you up front. It is written for buyers importing Japanese boxes, cases, and singles from outside Japan. One boundary before anything else, because it decides who should stop reading now: if you cannot absorb the total loss of a parcel going wrong, the proxy route is not for you. Its savings are real — but so is the fact that when a proxy purchase goes bad, the loss is usually yours, in full."
+    ],
+    "metaDescription": "Proxy, marketplace, or specialist store: the three real routes to Japanese TCG, with the full fee stack, customs reality, and fake risks priced in.",
+    "metaTitle": "Buying TCG From Japan: Shipping, Customs & Proxies",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "Route by route: the exact sequence",
+        "paragraphs": [
+          "Proxy service. You find a listing on a Japanese marketplace or shop that does not ship abroad, submit the link to the proxy, and the proxy buys it domestically, receives it at their Japanese warehouse, and forwards it internationally — usually after you choose between shipping one parcel now or consolidating several purchases into a single shipment. Our own [Japanese TCG range](/japanese-tcg/) exists because a store performs this chain invisibly on your behalf; done yourself, every link in the chain is a fee, a wait, and a decision.",
+          "Marketplace direct. You buy from an international marketplace seller who ships to your country. Fewer middlemen and a platform standing between you and the seller — and prices that often look like bargains, partly because the seller's risk controls are thinner than a store's, and sometimes because the product deserves suspicion. Our guide on [where to buy One Piece cards online](/guides/where-to-buy-one-piece-cards-online/) walks through reading those listings with the suspicion built in.",
+          "Specialist store. You order, the store ships from its own stock, and the price on the product page is the price of the product — sourcing, inspection, and the Japan-side leg are already inside it. You pay more per box than a domestic Japanese listing shows, and frequently less than people expect once the proxy stack is honestly totaled. That total is the subject of the next section.",
+          "One practical difference hides inside all three sequences: who handles the customs paperwork, and who answers when it is wrong. On the proxy and marketplace routes, that person is you — a misdeclared value or an incomplete form is your problem, at your border, on your parcel. A specialist store ships as an exporter with its own paperwork in order, and that quiet competence is part of what its margin buys."
+        ]
+      },
+      {
+        "h": "The money layer: a proxy stack, itemized",
+        "math": [
+          "Hypothetical worked example (every figure invented for illustration — your numbers will differ, the structure will not):",
+          "Item price $70 (hypothetical) + domestic shipping inside Japan $8 (hypothetical) = $78",
+          "$78 + proxy service fee $10 (hypothetical) = $88",
+          "$88 + international shipping $28 (hypothetical) = $116 landed, before any customs",
+          "Against a hypothetical $110 specialist-store shelf price, the headline saving was $40. After the stack, the proxy parcel costs $6 more — and still carries risks the store price already absorbed."
+        ],
+        "paragraphs": [
+          "A proxy listing advertises an item price. Nobody's landed cost is the item price. Here is the stack on a single box, with every figure a clearly labeled hypothetical:",
+          "Then customs. Duties and import taxes vary by country, by product value, and by thresholds that governments change — sometimes yearly. We will not state any country's current threshold here, because a number printed in an article goes wrong quietly and costs you money at the border. Before ordering on any route, check your own customs authority's current rules for your country and your order value; on the proxy and marketplace routes, an unexpected customs bill lands on you alone, with no seller to argue with.",
+          "Consolidation deserves its own warning, because it feels like saving money. Holding purchases at a proxy warehouse to ship together can cut per-item shipping — and it also means your first box sits in someone else's warehouse while you shop for a second, inside storage windows and weight-step pricing that punish a parcel at exactly the size a couple of booster boxes reach. If you consolidate, consolidate with a deadline, not an intention. International shipping itself is stepped rather than smooth: carriers price by weight bands and volumetric size, so a parcel just over a band boundary can cost startlingly more than one just under it, and a booster case ships nothing like the same boxes loose. Buyers who consolidate blindly discover this at the payment screen, after the storage clock has already been running. The same discipline applies at case scale: our breakdown of [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) shows how to run those numbers before a case is involved."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "Read this as a price on your own time and risk tolerance, not as a ranking. All three routes deliver genuine product every day; they just send the bill to different places."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Proxy service",
+            "Marketplace direct",
+            "Specialist store"
+          ],
+          "rows": [
+            [
+              "True cost",
+              "Item price plus a four-layer fee stack; customs on you",
+              "List price plus shipping; customs usually on you",
+              "Shelf price plus checkout shipping; sourcing already inside"
+            ],
+            [
+              "Fake and reseal risk",
+              "Highest — you are buying listings you cannot inspect",
+              "Moderate to high — depends entirely on the seller",
+              "Lowest — the store inspects its own stock and answers for it"
+            ],
+            [
+              "Returns",
+              "Effectively none once the parcel is forwarded",
+              "Platform-dependent, and slow across borders",
+              "A real returns conversation with an accountable seller"
+            ],
+            [
+              "Speed",
+              "Slowest — domestic leg, warehouse wait, then the international leg",
+              "Variable — days to weeks depending on the seller",
+              "Fastest predictable — it ships from stock"
+            ],
+            [
+              "Your effort",
+              "High — sourcing, translating, consolidating, tracking",
+              "Moderate — you vet every seller yourself",
+              "Low — order, then track"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The risk layer: what actually goes wrong",
+        "note": "From the Warehouse counter: plenty of first-time customers arrive here after a parcel from Japan went wrong — a resealed box, a customs surprise, a proxy shipment that cost more than our shelf price by the time it landed. The detail that repeats is that the saving they were chasing was small, usually smaller than the cost of one bad outcome. Cheap routes are fine. Unpriced risk is what turns out to be expensive.",
+        "paragraphs": [
+          "The expensive failures are product failures. Open marketplaces and proxy listings are where resealed boxes and counterfeits circulate, because the seller's accountability ends at the listing photograph. Before any sealed box from a non-store route gets opened, run it through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and keep the tells from our guide on [how to spot fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/) beside it while you work. If the wrap, the seams, or the weight feel wrong, photograph everything before breaking a seal — that sequence is your only leverage.",
+          "Seller vetting on marketplaces is a skill with a short checklist of its own: an account age measured in years, feedback that mentions sealed product specifically rather than generic praise, listing photographs of the actual box instead of stock images, and a price within sight of the wider market. A listing that fails two of those four is not a bargain. It is a warning with a price attached, and the discipline is walking away while walking away is still free.",
+          "The quiet failures are administrative. A customs bill you did not budget converts a saving into a loss. A parcel consolidated past a storage window accrues fees while you are not looking. A marketplace return across a border can cost more than the item it returns. The recovery protocol is unglamorous and complete: the first order on any new route stays small enough to lose entirely; arrivals are photographed before opening, and expensive boxes are opened on video; and every route's total-loss scenario gets priced before the order is placed, not after the parcel is missing."
+        ]
+      },
+      {
+        "h": "Context: the one real advantage of Japan-side stock",
+        "paragraphs": [
+          "Japanese product releases in Japan first, and stock positioned in Japan moves on the Japanese date. OP-17 is the clean recent example: the Japanese release landed August 22, 2026, and the English release followed on August 28 — six days apart — and for Japanese-language sets there is no later local edition to wait for at all. That gap is why release-week buyers care about route at all: the calendar rewards whoever is closest to Japan. Our [release calendar](/release-calendar/) tracks the confirmed dates, and our guide to [pre-ordering Japanese booster boxes or waiting](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+          "Concretely, the [OP-17 booster box, Japanese](/product/op-17-the-world-s-strongest-warriors-booster-box-japanese-one-piece-card/) sits in our stock because the Warehouse buys on the Japanese side of that calendar; the [OP-17 set hub](/sets/op-17-worlds-strongest-warriors/) lays out the set itself. Whichever route you choose, choose it before release week rather than during it — routes picked under hype are how the fee stack and the fake risk both get ignored at the same time.",
+          "The release-window effect cuts both ways, and honest route planning admits it: Japan-side access gets product earlier, and earlier product is also the least price-stable. Buying on the Japanese date means buying before the market has decided what the set is worth. Some buyers want exactly that exposure. Others are paying a premium for speed they never use. Know which one you are before the calendar chooses for you."
+        ]
+      },
+      {
+        "h": "Who each route is not for",
+        "paragraphs": [
+          "Proxy services are not for first-time importers buying a sealed case, anyone buying against a deadline, or — repeating the boundary from the top of this page, because it is the one that matters — anyone who cannot absorb a total loss on the parcel. Marketplace-direct buying is not for sealed investors who cannot verify a box in hand before the return window closes. A specialist store is not for bargain hunters chasing far-below-market listings: when a listing sits far under every other price for the same box, the discount is usually risk wearing a costume, and a store declining to match it is information, not stubbornness.",
+          "None of this argues you out of importing. It argues for importing with the costs and the loss scenarios written down first — which is, not coincidentally, how the stock behind our [One Piece cards](/one-piece-cards/) shelves got there: sourced on the Japan side, priced with the stack already inside.",
+          "There is a softer boundary worth stating as well. If researching routes, translating listings, and tracking parcels across two carriers sounds like a chore rather than a hobby, that feeling is data. Your time has a price, and a route that consumes your evenings is not cheaper than the store shelf, whatever the item price claims."
+        ]
+      },
+      {
+        "checklist": [
+          "Write the landed cost for your route — every fee layer, not the headline price",
+          "Check your own customs authority's current rules for your country and order value",
+          "Confirm the release date on the calendar and choose the route before release week",
+          "Keep the first order on any new route small enough to lose entirely",
+          "Photograph the parcel and the box before opening; open expensive boxes on video",
+          "Run sealed boxes through the reseal checks before breaking the wrap",
+          "If consolidating proxy purchases, set a ship-by date the day the first item arrives"
+        ],
+        "h": "The before-you-order checklist",
+        "paragraphs": [
+          "Five minutes with this list is cheaper than any lesson a parcel can teach you."
+        ]
+      }
+    ],
+    "slug": "buying-tcg-from-japan-shipping-customs-proxy",
+    "takeaway": [
+      "Buying TCG from Japan is not a shortcut around cost; it is a choice about where cost and risk sit. Proxies move both onto you and call the difference savings. Marketplaces split them unpredictably. A specialist store prices them into the shelf and answers for them. Any of the three can be the right answer — for a buyer who has written the stack down, priced the total-loss case, and checked their own customs rules first.",
+      "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box."
+    ]
+  },
+  "how-many-packs-in-a-booster-box": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "20 packs for the current sets we stock — M6a 30th Celebration at 6 cards per pack (120 cards) and SV11 Black Bolt / White Flare at 7 cards per pack (140 cards). Older and special-edition boxes can differ, which is exactly why the count belongs on every product page, including ours.",
+        "q": "How many packs are in a Japanese Pokémon booster box?"
+      },
+      {
+        "a": "24 packs, verified for both OP-17 World's Strongest Warriors and OP-18 The Dominance of God. It is one reason One Piece undercuts Pokémon per pack at our prices — the OP-18 pre-order works out to $2.92 a pack, as of October 21, 2026.",
+        "q": "How many packs are in a Japanese One Piece booster box?"
+      },
+      {
+        "a": "Different release models. The English market consolidates sets into larger 36-pack boxes; Japan releases more frequently in 20-pack boxes. More packs is not more value by itself — cost per pack, and what each pack guarantees, is the comparison that matters.",
+        "q": "Why do English Pokémon boxes have 36 packs but Japanese boxes only 20?"
+      }
+    ],
+    "h1": "How Many Packs Are in a Booster Box? The Verified Counts",
+    "intro": [
+      "There is no universal number, and anyone who gives you one without naming a set is guessing. The verified counts for the Japanese product we stock: Pokémon boxes hold 20 packs, One Piece boxes hold 24, and the trap is that English Pokémon boxes hold 36 — a number that quietly wrecks price comparisons when it gets carried across the Pacific.",
+      "This page lists only counts we can stand behind, set by set, with our box prices attached so the count turns into the number that actually matters: cost per pack. Where a count is not verified — and a few cells below are deliberately blank — we say so rather than filling the gap with a plausible-sounding number.",
+      "It is written for buyers comparing boxes across stores, languages, or sets. If a listing hides the pack count, treat the omission as part of the price."
+    ],
+    "metaDescription": "Japanese booster boxes hold 20 or 24 packs — not 36. Verified pack and card counts for M6a, SV11, One Piece and Fusion World, with cost-per-pack math.",
+    "metaTitle": "How Many Packs in a Booster Box? Verified Counts",
+    "readMinutes": 8,
+    "sections": [
+      {
+        "h": "The verified counts, set by set",
+        "paragraphs": [
+          "[M6a 30th Celebration](/sets/m6a-30th-celebration/) is a 20-pack box with 6 cards per pack — 120 cards, every one holo, built for the 30th anniversary. [SV11 Black Bolt and White Flare](/sets/sv11-black-bolt-white-flare/) run 20 packs of 7 cards, 140 per box. One Piece plays bigger: [OP-17 World's Strongest Warriors](/sets/op-17-worlds-strongest-warriors/) and the upcoming OP-18 both ship 24 packs per box. Dragon Ball's [FB12 Reach the God](/sets/fb12-reach-the-god/) is 24 packs of 6 — 144 cards, the fullest standard box on this page.",
+          "Two cells in that table deserve honesty. For the One Piece rows we sell and verify by pack count, and we have left cards-per-pack blank rather than print a number this page has not verified — the product pages carry the full specifications. And the Deluxe row is a different animal entirely: 4 packs, but each pack holds 35 cards. Pack counts only compare cleanly inside the same structure.",
+          "Counts also vary inside a single game more than most buyers expect. Pokémon's standard Japanese box has been 20 packs across the current sets we stock, but special editions, Deluxe boxes, and older releases follow their own configurations. The set is the unit of truth, never the game, and never the language.",
+          "A note on what is missing from the table, deliberately: many other sets exist — older Pokémon eras, other games entirely — and their counts are not listed here because this page has not verified them. Some follow the patterns above; some do not. A reference page that prints verified counts and admits the rest are unchecked is worth more than one that fills every cell from memory."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Packs per box",
+            "Cards per pack",
+            "Cards per box",
+            "Store box price",
+            "Cost per pack"
+          ],
+          "rows": [
+            [
+              "M6a 30th Celebration (Pokémon JP)",
+              "20",
+              "6",
+              "120",
+              "$207.50",
+              "$10.38"
+            ],
+            [
+              "SV11B Black Bolt (Pokémon JP)",
+              "20",
+              "7",
+              "140",
+              "$152.65",
+              "$7.63"
+            ],
+            [
+              "SV11W White Flare (Pokémon JP)",
+              "20",
+              "7",
+              "140",
+              "$139.77",
+              "$6.99"
+            ],
+            [
+              "SV11B Deluxe (Pokémon JP)",
+              "4",
+              "35",
+              "140",
+              "$177.49",
+              "$44.37 per 35-card pack"
+            ],
+            [
+              "OP-17 World's Strongest Warriors (One Piece JP)",
+              "24",
+              "—",
+              "—",
+              "$101.07",
+              "$4.21"
+            ],
+            [
+              "OP-18 The Dominance of God (One Piece JP, pre-order)",
+              "24",
+              "—",
+              "—",
+              "$70.00",
+              "$2.92"
+            ],
+            [
+              "FB12 Reach the God (Fusion World JP)",
+              "24",
+              "6",
+              "144",
+              "See product page",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Why the count matters more than the sticker price",
+        "math": [
+          "M6a: $207.50 ÷ 20 packs = $10.38 per pack",
+          "SV11W White Flare: $139.77 ÷ 20 packs = $6.99 per pack",
+          "OP-18 pre-order: $70.00 ÷ 24 packs = $2.92 per pack",
+          "OP-17: $101.07 ÷ 24 packs = $4.21 per pack"
+        ],
+        "note": "From the Warehouse: the single most common pricing misunderstanding in our chat is a 20-pack Japanese box compared against a 36-pack English box elsewhere and read as expensive. Per pack, the Japanese box is usually the cheaper opening. The count is the missing half of every price.",
+        "paragraphs": [
+          "A $207.50 box and a $139.77 box are not comparable until both are divided by their pack counts. After division, the shelf rearranges itself: M6a is a $10.38 pack, SV11W is a $6.99 pack, and the OP-18 pre-order at $70 is a $2.92 pack — the cheapest opening on the shelf, hiding inside one of the smallest stickers. Prices here are as of October 21, 2026; the method does not expire when they move.",
+          "The same division, run on cases instead of boxes, is how you catch a bulk deal that is not one. That worked example — including a Japanese case that costs more per box than buying the boxes singly — lives in our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/). Per-pack first, opinions second.",
+          "Run the same division per card when structures differ, as the Deluxe example below shows: packs are the denominator for standard boxes, but when the packs themselves change size, cards become the only honest denominator left."
+        ]
+      },
+      {
+        "h": "How to verify a pack count before you pay",
+        "paragraphs": [
+          "Three checks, in order. First, the product page: any accountable seller prints the count in the listing — here is the [OP-18 Japanese booster box pre-order](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) page showing 24 packs before you spend anything. Second, the set hub: our [OP-18 set hub](/sets/op-18-the-dominance-of-god/) and the [OP-17 set hub](/sets/op-17-worlds-strongest-warriors/) carry the box configuration for each set in one place, next to release dates and box contents.",
+          "Third, the box itself. Japanese boxes print their pack and card counts on the packaging — check the flap printing on any box a reseller offers you, and treat a seller who cannot confirm the count as a seller who has not handled the product. Counts change between sets, and even between the standard and Deluxe editions of the same set, so verify the exact product in front of you, not the game it belongs to.",
+          "The same arithmetic scales up. A case count is just boxes times packs: an OP-18 case is 12 boxes at 24 packs, which is 288 packs — and dividing the case price by 288 is how you find out whether the case is a deal per pack or merely a bigger receipt. Run that division before any case purchase, every time."
+        ]
+      },
+      {
+        "h": "The exceptions: Deluxe packs and all-holo boxes",
+        "paragraphs": [
+          "Structure sets break the pattern on purpose. The [SV11B Deluxe box](/product/sv11b-expansion-pack-deluxe-black-bolt-booster-box-japanese-pokemon-card/) holds only 4 packs — but they are 35-card packs with a guaranteed Art Rare or better in each, so the box carries the same 140 cards as a standard [SV11B Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) or a [SV11W White Flare box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/). Per card, the Deluxe runs $1.27 against $1.09 for the standard box: you pay the difference for the guaranteed structure, not for more cardboard.",
+          "Judged by pack count alone, the Deluxe looks absurd — four packs for $177.49. Judged by cards and guarantees, it is a premium structure with a clear asking price. Both readings are available to anyone who counts; only one of them is right for a buyer deciding whether the guarantee is worth $0.18 more per card.",
+          "M6a bends the count the other way — fewer cards per pack at 6, but every card holo, with one of the set's 30 Pikachu cards guaranteed in every pack. That structure is also what makes its famous pack type possible; the full story is in our explainer on [what a god pack is](/blog/what-is-a-god-pack-japanese-pokemon/)."
+        ]
+      },
+      {
+        "h": "The 36-pack trap, and other ways counts burn buyers",
+        "paragraphs": [
+          "The standard English Pokémon booster box holds 36 packs. Buyers raised on English product import that number unconsciously, then judge a 20-pack Japanese box as short value — or worse, a reseller quotes a Japanese box price to an English-trained buyer who never asks the count and never learns he paid a 36-pack expectation for a 20-pack product. Both errors are the same error: comparing stickers instead of packs.",
+          "A quieter version of the trap runs in reverse. A Japanese box advertised next to an English box at a similar sticker price can look like parity while delivering nearly half the packs — or, just as often, the Japanese box is genuinely cheaper per pack and the buyer walks away from the better deal because the pack counts were never put side by side. Either direction, the missing count is where the money leaks.",
+          "The recovery is procedural, not clever. Ask for the count in writing before paying anyone. Divide the price by it. If the seller cannot or will not state the count, the discount they are offering is not worth the ambiguity — walk to a seller who prints it.",
+          "Marketplaces make the trap easy to fall into, because listings sort by sticker price. A results page will happily rank a 20-pack Japanese box beside a 36-pack English box and let the cheaper-looking number win the click. Until a platform sorts by cost per pack — and none of them do — the division is the buyer's job, done by hand, every single time."
+        ]
+      },
+      {
+        "h": "Why Japan counts smaller",
+        "paragraphs": [
+          "Japanese sets release more frequently in smaller boxes — 20 packs for Pokémon, 24 for One Piece — while the English market consolidates into 36-pack boxes and special collections. Neither system is the real one; they are different release philosophies, and the pack count is simply where the difference becomes visible, and billable.",
+          "Counts also move with the calendar. New sets are announced with their box configurations confirmed ahead of release, which is why our [release calendar](/release-calendar/) exists: when OP-18 lands on November 20, 2026, its 24-pack count was public before the first box shipped. Check the configuration of the next set before you look at its price — in that order, every time.",
+          "It also explains a confusion that surfaces whenever a Japanese box is listed on an English-language marketplace without the count in the title: two listings for the same set can look wildly different in value while being the same 20 packs, simply because one seller printed the count and the other assumed you knew it. You did not — nobody does, for every set — which is why the verification habit in the previous section is not pedantry. It is the price of admission."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the exact set and edition — standard, Deluxe, and special boxes of the same set count differently",
+          "Confirm packs per box for that product, from the listing or the set hub",
+          "Divide: box price ÷ packs = cost per pack, written down next to the listing",
+          "For structure sets, divide by total cards as well",
+          "Never carry the English 36-pack assumption into a Japanese listing",
+          "If the count is not stated, ask — and treat silence as a no"
+        ],
+        "h": "Before you buy any booster box",
+        "paragraphs": [
+          "Six habits, none of them optional if the box costs real money. Counts verified, division done, and the structure understood — that is the whole discipline, and it transfers to every set released after this page. For the wider shelf these counts come from, browse [Japanese TCG](/japanese-tcg/) with the numbers in hand."
+        ]
+      }
+    ],
+    "slug": "how-many-packs-in-a-booster-box",
+    "takeaway": [
+      "The count is not trivia. It is the denominator of every price in this hobby, and the difference between a $2.92 pack and a $10.38 pack is invisible until you divide. A booster box is not a unit — a pack is, and a card is.",
+      "So the habit to take from this page is a sequence: name the set, confirm the count, divide the price, then — and only then — have an opinion about whether the box is cheap or expensive."
+    ]
+  },
   "how-to-tell-if-a-booster-box-is-resealed": {
     "datePublished": "2026-10-20",
     "faqs": [
@@ -182,7 +651,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "how-to-tell-if-a-booster-box-is-resealed",
     "takeaway": [
       "Inspection is a filter, not a certificate. Run the checks, hunt for the detail that refuses to match, and let inconsistencies — not any single test — make the call. But build your buying around provenance, because the seller is the only check that comes with recourse attached.",
-      "And keep the evidence habit even when a box looks perfect: photographs before opening, seller details written down, video for anything suspect. Five minutes of routine is what separates a buyer who catches reseals from a buyer who argues about them."
+      "And keep the evidence habit even when a box looks perfect: photographs before opening, seller details written down, video for anything suspect. Five minutes of routine is what separates a buyer who catches reseals from a buyer who argues about them.",
+      "Provenance is the strongest check in this guide, which is why the buying route matters: [buying TCG from Japan — shipping, customs, and proxies](/blog/buying-tcg-from-japan-shipping-customs-proxy/) compares the routes by fake and reseal risk, and our [guide to spotting fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/) covers the cards themselves once a box is open. If a box passes inspection and the pulls are real, [our investment breakdown](/blog/are-japanese-pokemon-cards-a-good-investment/) helps you decide what to hold and what to move."
     ]
   },
   "japanese-pokemon-rarity-symbols-explained": {
@@ -386,7 +856,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "japanese-pokemon-rarity-symbols-explained",
     "takeaway": [
       "The rarity code is the fastest honest fact on a Japanese card: two seconds, bottom corner, no equipment. Learn the ladder once — C up through UR, with AR and SAR as the modern art tiers and BWR and FUR as the newest era specials — and every Japanese card you ever hold introduces itself properly.",
-      "Just keep the discipline that makes the ladder useful instead of misleading. Believe the code over the artwork. Identify with the code, then appraise with everything else. Do that, and you will never pay a SAR price for an AR card, never dismiss an older-era code as a fake, and never mistake a letter for a price tag again."
+      "Just keep the discipline that makes the ladder useful instead of misleading. Believe the code over the artwork. Identify with the code, then appraise with everything else. Do that, and you will never pay a SAR price for an AR card, never dismiss an older-era code as a fake, and never mistake a letter for a price tag again.",
+      "Knowing the codes is step one; using them is step two. If you're building toward completion, [what a master set is — and what building one actually involves](/blog/what-is-a-master-set-pokemon/) puts the rarity ladder to work. If a high-code card has you wondering about grading, [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) runs the break-even before you ship anything. And when a listing quotes a box price, [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is how you check what you're really paying per pack."
     ]
   },
   "japanese-vs-english-pokemon-cards-which-to-buy": {
@@ -523,7 +994,181 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "japanese-vs-english-pokemon-cards-which-to-buy",
     "takeaway": [
       "Open Japanese, play English, resell English. That is the short version, and it survives the math: in the one same-set comparison we can run on our own shelves, English costs 52% more per pack — money an opener never recovers and a player has no choice but to spend. Neither language is the better product in the abstract. Each is better at a job.",
-      "So the real mistake was never picking the wrong language. It is buying one language to do the other language's job — Japanese cards carried hopefully toward a tournament desk, or English boxes ripped open at a 52% per-pack premium for cards that were never going to be played. Name the job first. The language chooses itself."
+      "So the real mistake was never picking the wrong language. It is buying one language to do the other language's job — Japanese cards carried hopefully toward a tournament desk, or English boxes ripped open at a 52% per-pack premium for cards that were never going to be played. Name the job first. The language chooses itself.",
+      "Two follow-ups worth your time before you buy: if the cards you open might one day be graded, read [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) — condition is where Japanese copies earn their keep. And if resale value is doing any work in your decision, [our honest take on Japanese cards as an investment](/blog/are-japanese-pokemon-cards-a-good-investment/) separates the hobby math from the investment math. Not sure how the boxes you're comparing are even built? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) has every count that matters."
+    ]
+  },
+  "one-piece-card-game-colors-explained": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "No. Your deck may only contain cards that match your Leader's colors. A single-color Leader gives you a one-color pool; a Leader printed with two colors opens exactly those two. That restriction is the whole reason color choice is also a budget choice — every purchase either belongs to your pool or it does not.",
+        "q": "Can I put cards of any color in my One Piece deck?"
+      },
+      {
+        "a": "The honest answer is the one whose plan you understand fastest. Red is the usual recommendation because attacking early teaches the game's timing quickly, and green's rest-and-attack plan is similarly readable. Purple's DON!! accounting and yellow's life management are the two identities beginners most often misjudge in their first games — not because they are weak, but because the plan is harder to see.",
+        "q": "Which One Piece color is best for a complete beginner?"
+      },
+      {
+        "a": "Yes — the six colors and their identities are identical in both languages. What differs is timing and price: OP-17 released in Japan on August 22, 2026 and in English on August 28, 2026, and as of October 21, 2026 the Japanese OP-17 box is $101.07 at the Warehouse against $153.69 for the English box. Your local scene's language matters more than the color system, which never changes.",
+        "q": "Are the colors the same in Japanese and English One Piece cards?"
+      }
+    ],
+    "h1": "One Piece Card Game Colors Explained: What Each Color Does and How to Pick Yours",
+    "intro": [
+      "Short answer first: the One Piece Card Game has six colors — red, green, blue, purple, black, and yellow — and color is not decoration. Your Leader's colors decide which cards you are allowed to build with, and each color wins games in a different way. Red rushes. Green controls the board by resting characters. Blue removes threats and draws cards. Purple bends the DON!! economy. Black deletes characters by cost. Yellow plays with life cards and Trigger effects. Pick the color whose way of winning matches how you like to play, and the game gets cheaper and more enjoyable at the same time.",
+      "This guide is for new and returning players choosing a first color or a first Leader, and for collectors opening [Japanese One Piece boxes](/one-piece-cards/) who want to understand what they are pulling and why some pulls only fit certain decks. It is not a tier list. It will not tell you which color is strongest this month, because that answer changes with every set and anyone selling you a permanent one is selling you something. What does not change is what each color is built to do. That identity has stayed stable across the game's life, and it is what this page explains."
+    ],
+    "metaDescription": "All six One Piece Card Game colors explained: what each color does, how it wins, what it struggles against, and how to pick your first color on a budget.",
+    "metaTitle": "One Piece Card Game Colors Explained: All Six Colors",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The six colors at a glance",
+        "paragraphs": [
+          "Here is the whole system on one screen. Read the 'wins by' column as a tendency, not a promise: new printings, awkward matchups, and the current card pool bend these lines every set. But a red deck that wins slowly is the exception, and a yellow deck that wins without ever touching its life cards is rarer still. When you sit down across from a Leader, this table is your first read on what kind of game you are about to play."
+        ],
+        "table": {
+          "head": [
+            "Color",
+            "Identity in one line",
+            "Wins by",
+            "Tends to struggle against"
+          ],
+          "rows": [
+            [
+              "Red",
+              "Aggressive pressure with Rush attackers",
+              "Attacking early and often, before defenses are set up",
+              "Removal-heavy decks that survive the first waves"
+            ],
+            [
+              "Green",
+              "Rest mechanics and board control",
+              "Resting opposing characters, then attacking or removing them while they are vulnerable",
+              "Fast decks that go under its setup, and bounce effects"
+            ],
+            [
+              "Blue",
+              "Bounce, removal, and card draw",
+              "Returning characters to hand or deck while outdrawing the opponent",
+              "Aggro that rebuilds cheaply after every bounce"
+            ],
+            [
+              "Purple",
+              "DON!! ramp and DON!!-powered effects",
+              "Gaining extra DON!! early, then spending the surplus on oversized plays",
+              "Early pressure that lands before the ramp comes online"
+            ],
+            [
+              "Black",
+              "Cost-based removal and discard pressure",
+              "KO-ing characters by cost thresholds and shrinking the opponent's options",
+              "Decks whose key characters sit above its cost thresholds"
+            ],
+            [
+              "Yellow",
+              "Life manipulation and Trigger effects",
+              "Turning life cards into a resource and punishing attacks with Triggers",
+              "Decks that finish fast, before the life engine starts to matter"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "How each color actually plays",
+        "paragraphs": [
+          "Red is the color of the first punch. Its signature mechanic is Rush — characters that can attack the turn they are played — backed by cheap attackers and power boosts that turn every turn into a question the opponent has to answer right now. Red decks run out of cards before they run out of aggression, and good red players win on the turns where the opponent is still setting up. If your instinct in any card game is to attack first and read the board later, red is home.",
+          "Green plays the board like a chess problem. Its effects rest opposing characters — turning them sideways so they cannot block or attack — and then punish them while they are exposed, either by attacking into them or removing them with follow-up effects. Green also rests and re-stands its own cards for advantage. It rewards players who plan two turns ahead and loses to opponents who simply go underneath it before the machinery starts turning.",
+          "Blue is the color of answers and information. It bounces characters back to the hand or the bottom of the deck — removal that ignores how big the character is — and it draws more cards than any other color while doing it, often with Navy-themed effects. A blue game plan is attrition: answer everything, keep the hand full, and let the opponent run out of threats first. Blue struggles when the bounced cards are cheap enough to just come back next turn.",
+          "Purple is built around DON!!, the resource cards you attach to characters and Leaders for power. Purple ramps — putting extra DON!! into play ahead of schedule — and then pays that surplus back out for effects that ask you to return DON!! to the DON!! deck. The result is a deck that plays bigger cards earlier than anyone else at the table. The weakness is the mirror image of blue's: purple needs a few turns to build its economy, and fast decks try to end the game before the big turns arrive.",
+          "Black removes characters by cost. Its effects KO anything at or below a cost threshold, and black decks work to lower opposing characters' costs until they fall inside the kill zone, while discard effects shrink the opponent's hand at the same time. It is a grinding, unglamorous color that asks one question all game: how much does your best character cost? Characters printed above the thresholds are black's honest problem, and black players build around that ceiling rather than pretending it is not there.",
+          "Yellow treats your life cards as a second hand. Its characters and events gain power from manipulating life — taking it, adding to it, looking at it — and its Trigger effects fire when a life card is flipped by an attack, turning the opponent's aggression into your card advantage. Yellow games swing late: a yellow player at two life is not losing the way other colors are losing at two life. If you enjoy comebacks and defensive traps more than clean aggression, yellow is your color."
+        ]
+      },
+      {
+        "h": "Choosing your first color: match the plan, not the hype",
+        "paragraphs": [
+          "The most common beginner mistake is choosing a color because it won a recent event. Tournament results describe what the best players in the room did with a full card pool and weeks of practice; they say very little about what your first fifty games will feel like. Choose instead by plan. Read the left column below honestly — pick the row that sounds like the games you already enjoy in other hobbies — and start there. A color you understand beats a stronger color you are imitating, because you will see your own mistakes clearly and fix them faster.",
+          "One structural fact matters before you buy anything: your Leader's colors lock your card pool. A red Leader builds only from red cards (a dual-color Leader opens exactly its two colors). That means your first Leader choice is also a purchasing decision — every box you open and every single you buy either feeds that pool or does not. It is also why the [where-to-buy guide for One Piece cards](/guides/where-to-buy-one-piece-cards-online/) matters more for this game than for most: buying into the wrong pool is the expensive version of this lesson."
+        ],
+        "table": {
+          "head": [
+            "If you like...",
+            "Start with",
+            "Because"
+          ],
+          "rows": [
+            [
+              "Winning fast and learning by attacking",
+              "Red",
+              "The plan is honest: attack early, ask questions, end games before they get complicated"
+            ],
+            [
+              "Controlling the board and solving puzzles",
+              "Green or Blue",
+              "Both reward planned turns — green by resting threats, blue by bouncing and outdrawing them"
+            ],
+            [
+              "Big turns and resource engines",
+              "Purple",
+              "Ramping extra DON!! and cashing it in for oversized plays is the whole identity"
+            ],
+            [
+              "Removing threats and grinding games out",
+              "Black",
+              "Cost-based KO effects and discard pressure win long games of attrition"
+            ],
+            [
+              "Comebacks and defensive tricks",
+              "Yellow",
+              "Life manipulation and Triggers turn the opponent's attacks into your resources"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: color is a budget decision",
+        "note": "The first question new players ask at the Warehouse is rarely 'which color is strongest?' It is 'which color does my favorite character play?' The honest answer takes a minute: popular characters appear as Leaders in more than one color across different sets, so the character does not pick your color for you. Your preferred way of winning does. Players who accept that in week one spend noticeably less in month two.",
+        "paragraphs": [
+          "A single-color deck is cheaper to build than a two-color deck, for a simple reason: every card you buy is competing for slots in one pool instead of two, and you are not paying the premium that popular cross-color staples carry. Whatever color you choose, learn the shape of the product before you open it — a standard One Piece booster box holds 24 packs, and [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is worth reading before you compare box prices anywhere, because a cheap box with fewer packs is not cheap.",
+          "At the Warehouse, current Japanese prices as of October 21, 2026 make the point concretely. The [OP-18 The Dominance of God Japanese booster box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is on pre-order at $70 — OP-18 releases November 20, 2026, with Yoshitaka Amano art as its headline — while the OP-17 Japanese box sits at $101.07 and the English OP-17 box at $153.69. Same hobby, same 24-pack shape, very different cost of feeding your pool. Whether a case beats single boxes is its own question, and we ran those numbers in [sealed case vs booster box: the math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "Japan gets the cards first: the context layer",
+        "paragraphs": [
+          "One Piece releases in Japanese first and in English shortly after, and the gap changes what each card pool looks like at any given moment. [OP-17 The World's Strongest Warriors](/sets/op-17-worlds-strongest-warriors/) — the Elbaf arc set, with the Four Emperors appearing as Leaders and the debut of Rocks D. Xebec — released in Japan on August 22, 2026 and in English on August 28, 2026. Six days is short, but it means Japanese singles, Japanese prices, and Japanese tournament results exist before the English pool plays a single game. English players effectively get to preview their format; Japanese players pay early-adopter prices for the privilege of going first.",
+          "That rhythm continues into the next set: [OP-18 The Dominance of God](/sets/op-18-the-dominance-of-god/) arrives November 20, 2026. If you play in English, the practical move is to watch what the Japanese pool does with a new set during the gap, then buy with information instead of guesses — the [OP-17 English booster box](/product/op-17-the-world-s-strongest-warriors-booster-box-english-one-piece-card/) and its Japanese counterpart are the same set at $153.69 versus $101.07 as of October 21, 2026, and knowing what the colors actually want from the set is how you decide which side of that gap your money belongs on. The [release calendar](/release-calendar/) tracks every confirmed date so you can plan purchases around the gaps instead of being surprised by them."
+        ]
+      },
+      {
+        "h": "Where color-picking goes wrong, and how to recover",
+        "paragraphs": [
+          "The failure mode we see most: a player buys into whichever color just topped an event, discovers they hate how it plays — the ramp player who cannot stand slow starts, the control player bored by red's directness — and now owns a pool they do not want to play. The cards are fine. The match between player and plan is broken, and no new purchase fixes that, because the next color will be chosen the same way.",
+          "Recovery is cheap if you do it before the expensive version of the mistake. Test before you buy: proxy the deck, borrow a friend's build, or play casual games with stand-ins until the plan either clicks or clearly does not. Give a color twenty games, not two. If it still fights you, trade out of the pool while the cards are current and somebody else wants them — a pool sold early funds most of the next one, while a pool that sits in a binder for a year funds a fraction of it. And if you are pre-ordering into a new set to feed a color, read [pre-order or wait](/blog/preorder-japanese-booster-box-or-wait/) first: the gap between Japanese and English releases means the wait option is real in this game, and patience is sometimes the entire discount."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the way you like to win (fast attacks, control, big turns, removal, comebacks) before naming any color",
+          "Match that plan to one color from the table above — not to a tournament result",
+          "Check your chosen Leader's colors: that is your entire legal card pool",
+          "Confirm the box shape before comparing prices (24 packs is the One Piece standard)",
+          "Decide Japanese or English pool using the release gap and your local scene, not habit",
+          "Proxy or borrow the deck for at least a few casual games before buying singles",
+          "Set a first-month budget for one pool only — do not split it across two colors"
+        ],
+        "h": "Your first-color checklist",
+        "paragraphs": [
+          "Run through this before your first serious purchase. It takes ten minutes and it is the difference between a pool you grow and a pool you abandon."
+        ]
+      }
+    ],
+    "slug": "one-piece-card-game-colors-explained",
+    "takeaway": [
+      "Color in the One Piece Card Game is a plan, a card pool, and a budget, all chosen at once. Red attacks, green rests, blue bounces and draws, purple ramps DON!!, black removes by cost, and yellow weaponizes its own life total. None of those identities is going anywhere, which is why they — and not this month's results — are the right basis for your first purchase.",
+      "Start with the color whose plan you already enjoy, feed it from one pool, and let the Japanese-first release rhythm work for you instead of against you. Browse the current [One Piece range](/one-piece-cards/) when you are ready, and bring us your playstyle, not a decklist you copied — the Warehouse would rather sell you the right color once than the wrong color twice."
     ]
   },
   "preorder-japanese-booster-box-or-wait": {
@@ -665,7 +1310,137 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "preorder-japanese-booster-box-or-wait",
     "takeaway": [
       "Pre-order the sets you would regret missing, wait on the routine ones, and never pay the release-week spike. The per-pack math tells you what a price actually is; the signals checklist tells you which lane a set belongs in; the regret question tells you who you are as a buyer. Everything else is noise with a price tag attached.",
-      "Prices change and allocations move, so treat every number here as stamped: store prices as of October 20, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second — in that order, every time."
+      "Prices change and allocations move, so treat every number here as stamped: store prices as of October 20, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second — in that order, every time.",
+      "Deciding where to place the order matters as much as when: [buying TCG from Japan — shipping, customs, and the proxy fee stack](/blog/buying-tcg-from-japan-shipping-customs-proxy/) shows what each route really costs landed. If you're pre-ordering with one eye on future value, read [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. And when comparing two sets' pre-order prices, divide first — [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with."
+    ]
+  },
+  "psa-grading-japanese-cards-worth-it": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "Compare what that grade actually sells for — real sold prices, not listings — against the break-even number you ran before submitting. If the sold prices sit below your break-even, yes, the submission lost money, and the loss was locked in the day you shipped it, not the day the grade posted. This is exactly why the checklist asks the one-grade-down question before you submit: if a lower grade loses, the honest options were sell raw or do not submit.",
+        "q": "My card came back one grade below the top grade. Did I lose money?"
+      },
+      {
+        "a": "Probably not — and it is not an insult to the card. M6a guarantees one of its 30 Pikachu cards in every pack, so supply is real and most of those cards will never clear the break-even formula after fees and insured shipping. The exception is the specific Pikachu art the market treats as the set's chase, in genuinely flawless condition. Read the rarity code, inspect under a lamp, run the formula with the grader's current fees — and let the arithmetic overrule the pull-day excitement.",
+        "q": "Should I grade the Pikachu I pulled from an M6a pack?"
+      },
+      {
+        "a": "We deliberately do not print fees or turnaround times, here or anywhere on this site. Both change constantly, graders revise service levels without asking bloggers, and a stale number copied from an article produces bad submissions. Check the grading company's own current published schedule, take the fee for the service level you would actually use, price your time into the break-even formula — and remember that however long the queue is, the market keeps moving while your card is in it.",
+        "q": "What does grading cost right now, and how long does it take?"
+      }
+    ],
+    "h1": "Is Grading Japanese Pokémon Cards Worth It? Run This Test First",
+    "intro": [
+      "Short answer: grading Japanese Pokémon cards pays for a narrow band of cards — high-demand chase cards in genuinely clean condition — and quietly loses money on almost everything else. The slab does not create value. It certifies condition, and certification only matters when buyers are already competing for the card itself.",
+      "This page is the test we would run before paying any grader: the break-even formula, the inspection steps, the decision table, and the failure modes. It is written for collectors holding a real candidate — a top-rarity chase card they are tempted to submit. It is not for anyone hoping a slab rescues a played card, inflates bulk, or turns a mid-tier pull into a payday. Grading cannot do any of those things, and the fees do not care how hopeful the submission was."
+    ],
+    "metaDescription": "Grading pays for clean, high-demand Japanese chase cards and burns money on the rest. The break-even math, inspection steps, and honest risks.",
+    "metaTitle": "Is PSA Grading Japanese Pokémon Cards Worth It?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The break-even formula (check the grader's current fees first)",
+        "math": [
+          "Graded price needed = raw price + grading fee + insured shipping (out) + insured shipping (back) + selling fees + your time",
+          "Hypothetical worked example (every figure invented for illustration — check the grader's current schedule before using real money):",
+          "Raw value $120 (hypothetical) + grading fee $30 (hypothetical) + insured shipping both ways $24 (hypothetical) + selling fees $26 (hypothetical) = $200 break-even",
+          "So in this example the graded copy must realistically sell above $200 before grading earns a single dollar."
+        ],
+        "paragraphs": [
+          "Every grading decision reduces to one inequality. The graded card must sell for more than the raw card would have — by enough to cover every cost of getting it into the slab and back out to a buyer. Graders change their fees, service levels, and turnaround estimates constantly, so we will not print a fee table here: it would be stale within months, and wrong numbers make wrong decisions. Open the grading company's current published schedule, take the real fee for the service level you would actually use, and run this:",
+          "Read the example the right way. A top grade might clear that bar on a genuinely wanted card. A grade one step down often will not — on many cards, the second-highest grade trades close to, or below, the optimistic raw price, because raw buyers pay for the dream of the top grade while buyers of the lower grade pay only for the card. If the realistic outcome range straddles your break-even line, the correct move is to sell raw and let someone else fund the gamble.",
+          "A second trap hides in how submissions get priced: service levels are usually tied to the card's declared value, so the card you hope becomes valuable costs more to grade than the card that does not — the fee scales with your optimism. That is another reason the formula must be run against the current schedule rather than a remembered one. The fee you paid on a cheap bulk submission two years ago tells you nothing about what a high-value chase card costs to submit today, and collectors who budget from memory underbudget on exactly the submissions where the stakes are highest.",
+          "One line in the formula gets skipped constantly: your time. Weeks in a queue, photographing and listing the slab, shipping it to a buyer — if the margin only works when your hours are valued at zero, the margin does not exist. Price your time in, honestly, before the card leaves your desk."
+        ]
+      },
+      {
+        "h": "Before you pay: the inspection that decides everything",
+        "paragraphs": [
+          "Grading is a condition game, and the submission is won or lost at your desk, before anything is mailed. First, confirm what you actually hold: the rarity code printed at the bottom of every Japanese card states its tier — our [Japanese Pokémon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) decodes AR, SAR, UR, BWR, FUR and the rest. Submitting a card whose tier you have misread is the most expensive beginner error in this hobby, because every downstream number in the formula is built on the wrong card.",
+          "Then inspect in a fixed order, under a bright desk lamp. Centering: compare the borders left to right and top to bottom; a visibly lopsided card is capped before it travels anywhere. Surface: tilt the card slowly under the light and look for print lines, scratches, and faint roller lines in the foil. Edges: hold the card against a dark background and look for silvering and nicks. Corners: any whitening or softness counts against you. Photograph the front and back, in the sleeve, before it leaves — those photos are your evidence if anything comes back wrong.",
+          "This is where Japanese cards hold a structural edge. Japanese print quality and centering are generally better than English, as we break down in [Japanese vs English Pokémon cards](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) — and because a top grade requires a clean starting copy, a pack-fresh Japanese chase card begins the race a step ahead. That guarantees nothing. It means the inspection pass rate is genuinely higher, which is exactly the kind of small, real advantage worth building a decision on."
+        ]
+      },
+      {
+        "h": "The decision table: grade it, sell it raw, or hold it",
+        "paragraphs": [
+          "Apply the formula by card type and the answer is rarely mysterious:",
+          "Notice what the table assumes: you inspected honestly. The most common way collectors lose money on grading is grading the card they wish they had instead of the card on the desk — the one whose corner they decided not to look at twice.",
+          "There is also a middle move the table leaves out: grading only the single best card from a box and selling the rest raw, immediately, while the set is still warm. Mixed strategies are where most sensible collectors land. A box produces one or two genuine candidates at most; treating every holo in it as a submission candidate is how a profitable box becomes a break-even box with extra steps."
+        ],
+        "table": {
+          "head": [
+            "Card in hand",
+            "Grade it",
+            "Sell it raw",
+            "Hold it raw"
+          ],
+          "rows": [
+            [
+              "Top-tier SAR or BWR chase, pack-fresh, centered, clean under the lamp",
+              "Yes — this is the narrow band where the graded premium actually lives",
+              "Only if you need the cash now; you leave the premium behind",
+              "Reasonable if you believe demand for the card is still rising"
+            ],
+            [
+              "Mid-tier AR, clean, but modest demand",
+              "Usually no — the fee stack eats a premium this thin",
+              "Yes — raw buyers pay full price for these today",
+              "Fine for a collection; do not call it an investment"
+            ],
+            [
+              "Bulk holo, played card, or anything with visible wear",
+              "Never — the fee exceeds the card's value at almost any grade",
+              "Sell as bulk and move on",
+              "Only for sentimental reasons"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The risk layer: how grading goes wrong, and the recovery",
+        "note": "From the Warehouse counter: the grading question we hear most is asked within the first hour of a big pull, about a card still warm from the pack. Excitement is not a grading criterion. The submissions that make sense are almost boring — the card was checked under a lamp, the math was run cold, and the owner could state their break-even number out loud before anyone mentioned a slab.",
+        "paragraphs": [
+          "Grade disappointment is the headline risk. You pay for the round trip, you wait, and the card comes back one grade below the dream, selling for less than an optimistic raw listing would have fetched the month you pulled it. Second is time: while your card sits in a queue, the market does not wait with it — a set's hype window can close before the slab comes home, and a card that was hot at submission can be ordinary at return. Third is transit: cards are lost and damaged in the mail rarely, but rarely is not never, and the value at stake is exactly why the shipping line in the formula says insured, both ways.",
+          "The recovery protocol is boring and complete. Insure both legs for the card's realistic graded value, not its raw price. Photograph everything before it leaves. Submit in a batch only when each card in the batch passes the break-even test on its own — batching losers with winners does not average anything out; it just adds fees. And decide your disappointment price in advance: the grade at which you sell immediately rather than holding the slab and hoping."
+        ]
+      },
+      {
+        "h": "Context: graded Japanese cards are a smaller, more serious market",
+        "paragraphs": [
+          "A raw card is liquid immediately — list it today, sell it this week. A graded card waits for the right buyer, and a graded Japanese card waits in a smaller pool: fewer casual buyers, but the buyers who are there know exactly what a Japanese SAR in a top grade is and pay accordingly. That trade — speed for premium — is the real decision, and it is why grading belongs inside a wider plan rather than as a reflex after every good pull; we lay out that wider frame in [are Japanese Pokémon cards a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/).",
+          "One more honest boundary: a slab authenticates, but it is an expensive way to learn that a card is fake. Learn the tells first — texture, print patterns, rarity-code mismatches — with our guide on [how to spot fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/), and never submit a card you have doubts about hoping the grader settles the question. Settle it yourself, for free, before the fee.",
+          "Finally, condition honesty compounds. A collector known for accurately described raw cards sells raw faster, and often at better prices, over time — the ungraded market runs on trust nearly as much as the graded one does. Grading everything is sometimes less a strategy than an admission that your descriptions are not believed. Build the reputation, and half the break-even tests in this article become unnecessary, because your raw cards start fetching what they are actually worth."
+        ]
+      },
+      {
+        "h": "The realistic candidates, from sets on our shelves",
+        "paragraphs": [
+          "M6a 30th Celebration is the current example of a set with genuine candidates. The Mew ex and Mewtwo ex with art by YOSHIROTTEN are the kind of cards demand concentrates on — we profile them on the [M6a 30th Celebration set hub](/sets/m6a-30th-celebration/), and the box itself is on our shelf as the [M6a 30th Celebration booster box](/product/m6a-30th-celebration-booster-box-japanese-pok-mon-tcg/), $207.50 as of October 21, 2026. The set's 30 Pikachu cards, one guaranteed in every pack, cut the other way: a guaranteed-per-pack card has real supply behind it, so most of those Pikachu fail the break-even test unless the specific art is the set's chase and your copy is flawless under the lamp.",
+          "SV11B Black Bolt makes the same point from the other direction. Its headline rares — the BWR Zekrom ex and Reshiram ex we cover on the [SV11 Black Bolt & White Flare hub](/sets/sv11-black-bolt-white-flare/) — are exactly the profile worth inspecting closely, while the set's ordinary holos are not, however good they look in a binder. The [SV11B Black Bolt booster box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $152.65 as of October 21, 2026; a box buys you the chance to inspect candidates, not a promise that any single card inside clears the grading bar. And if you enjoy the hunt itself, our explainer on [what a god pack is](/blog/what-is-a-god-pack-japanese-pokemon/) covers the other way a Japanese box can over-deliver."
+        ]
+      },
+      {
+        "checklist": [
+          "Read the rarity code off the card itself and confirm the tier before valuing it",
+          "Inspect under a bright lamp: centering, surface, edges, corners — in that order",
+          "Find real raw sold prices for the card, not asking prices",
+          "Pull the grader's current published fee from their own schedule — never from an article, including this one",
+          "Run the break-even formula; submit only if a realistic top-grade price clears it with room to spare",
+          "Ask the one-grade-down question: if it comes back a grade lower, do you still make money? If not, sell raw",
+          "Photograph front and back in the sleeve, and insure both shipping legs"
+        ],
+        "h": "The pre-submission checklist",
+        "paragraphs": [
+          "Run every candidate through this, in order. One failure ends the submission."
+        ]
+      }
+    ],
+    "slug": "psa-grading-japanese-cards-worth-it",
+    "takeaway": [
+      "Grading Japanese Pokémon cards is a filter, not a lottery ticket. For the narrow band — a high-demand SAR, BWR, or FUR chase card, pack-fresh, centered, flawless under the lamp — the premium is real, and Japanese print quality gives you a genuine head start. For everything else, the formula returns the same answer every time: the fees win and you lose. Run the arithmetic cold, with the grader's current schedule open in another tab, and let the number decide instead of the excitement.",
+      "If you are still hunting for the right candidate, browse the sets where candidates actually live — our [Japanese Pokémon cards](/pokemon-cards/) shelves are where we pull from — and inspect what you open before you dream about slabs."
     ]
   },
   "sealed-case-vs-booster-box-the-math": {
@@ -815,7 +1590,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "sealed-case-vs-booster-box-the-math",
     "takeaway": [
       "'Case' is a quantity, not a discount. At our October 20, 2026 prices, the OP-17 English case saves $290.88 across twelve boxes against buying singles — real money, worth having if the twelve boxes have a plan. The OP-17 Japanese case costs $2.16 more across twelve than the same boxes bought one at a time. Same store, same week, same label on the outer carton. The label did none of that. The division did all of it.",
-      "So the habit to take from this article is smaller than a case: two divisions, run every time, before the money moves. Case price by boxes. Box price by packs. Two minutes of arithmetic is the cheapest due diligence in this hobby — and the only version of 'bulk discount' that has ever been guaranteed."
+      "So the habit to take from this article is smaller than a case: two divisions, run every time, before the money moves. Case price by boxes. Box price by packs. Two minutes of arithmetic is the cheapest due diligence in this hobby — and the only version of 'bulk discount' that has ever been guaranteed.",
+      "The case question usually hides an investment question, so read [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before committing case money. Every figure in this article came from dividing by pack counts — [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the reference table behind the math. And if you're importing a case from Japan yourself, [the shipping, customs, and proxy breakdown](/blog/buying-tcg-from-japan-shipping-customs-proxy/) shows what the case really costs landed."
     ]
   },
   "what-is-a-god-pack-japanese-pokemon": {
@@ -962,7 +1738,142 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "what-is-a-god-pack-japanese-pokemon",
     "takeaway": [
       "God packs are real, they are thrilling, and they are not a strategy. The generosity you can take to the bank in Japanese Pokémon is structural — a 100 percent holo rate in M6a at $1.73 a card as of October 20, 2026, an AR floor in every Deluxe pack, a Pikachu guaranteed in every M6a pack. Price the structure. Enjoy the jackpot if it comes. Never confuse the two.",
-      "If you are weighing a Japanese box right now, build the little table from this page for it — packs, cards, guarantee, cost per card — and the decision usually makes itself. And if you ever tear open a pack and find hit after hit after hit, you will know exactly what you are holding: not a system working. Just variance, smiling."
+      "If you are weighing a Japanese box right now, build the little table from this page for it — packs, cards, guarantee, cost per card — and the decision usually makes itself. And if you ever tear open a pack and find hit after hit after hit, you will know exactly what you are holding: not a system working. Just variance, smiling.",
+      "Chasing structure instead of jackpots starts with knowing what each box actually contains: [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) lays out the verified counts side by side. Collectors who pull a genuine chase card face the next question — [what a master set is and what it costs to build one](/blog/what-is-a-master-set-pokemon/) — and anyone tempted to treat a lucky pull as an investment should read [our honest investment breakdown](/blog/are-japanese-pokemon-cards-a-good-investment/) first."
+    ]
+  },
+  "what-is-a-master-set-pokemon": {
+    "datePublished": "2026-10-21",
+    "faqs": [
+      {
+        "a": "Usually not by much, and often not at all. A completed master set can attract a completion premium from a buyer who values the work being done, but most sets change hands near the sum of their card values — and selling 200 cards one by one frequently nets more, slowly. Build a master set because you want to own it. Treating it as an investment vehicle is a separate question, which we take apart in our investment guide.",
+        "q": "Is a finished master set worth more than the sum of its cards?"
+      },
+      {
+        "a": "That depends on which definition you chose — which is exactly why you choose before buying. In the strict definition, yes: every parallel and variant printing counts, including reverse holos in English sets. In the common definition most collectors use, the set is complete with the numbered cards and all secret rares, and parallels are optional. Neither is wrong. Switching definitions halfway through a build is what gets expensive.",
+        "q": "Do reverse holos and variants count toward a master set?"
+      },
+      {
+        "a": "Plan in months, not weekends. The bulk of a modern set can be assembled quickly through boxes and bulk singles; the tail — the top secret rares — decides the real timeline, because those cards move at their own prices and availability. Collectors who finish are the ones who picked a pace their budget could sustain for the whole list, not the ones who sprinted through the cheap ninety percent.",
+        "q": "How long does it take to complete a master set?"
+      }
+    ],
+    "h1": "What Is a Master Set in Pokémon? The Complete Collector's Definition",
+    "intro": [
+      "A master set is one copy of every card in a set — not just the numbered base set, but the cards hiding above the number line too. The strict definition counts everything: the base set, every secret rare, and every variant printing the set contains, including reverse holos where they exist. The common definition — the one most collectors actually build — counts the full numbered set plus all of its secret rares, and treats variant printings as optional. Both definitions are legitimate. They are not the same size, the same price, or the same amount of work, and deciding which one you mean before you buy a single card is the entire game.",
+      "This guide is for collectors considering a master set of a Japanese Pokémon set — what the commitment actually contains, what it costs in binder space and in money, and how the alternatives compare. It is not for anyone looking for a fast project or a quiet flip: a master set is the slowest, most expensive way to own a set, and this page shows the arithmetic instead of hiding it. If the definitions of AR, SAR, and the rest are new to you, start with [Japanese Pokémon rarity symbols explained](/blog/japanese-pokemon-rarity-symbols-explained/) — a master set is built out of exactly those letters."
+    ],
+    "metaDescription": "What a Pokémon master set actually contains, what it costs in binder slots and money, and how to choose between a master set, a base set, or sealed.",
+    "metaTitle": "What Is a Master Set? Pokémon Master Set Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "What a master set actually contains",
+        "paragraphs": [
+          "Work from the inside out. The base set is every card with a set number — the commons, uncommons, and regular rares that form the numbered list. Above the number line sit the secret rares: full-art cards, special art rares, and gold cards whose numbers run past the base set's total. In modern Japanese sets this secret layer is not a garnish. It is where most of the set's art, and most of its cost, lives.",
+          "Take SV11B Black Bolt as the worked example, because its scale is honest about what 'modern' means. SV11B places all 156 Unova Pokémon as Art Rare or better, and the set carries 86 or more secret rares above its base list. Read that slowly: one hundred and fifty-six Pokémon at illustration-rare level or above. A master set of SV11B is not a base set with a few chase cards taped on — the chase layer is the majority of the project, and you can browse the shape of it on the [SV11B set hub](/sets/sv11-black-bolt-white-flare/) before committing to anything.",
+          "Variants are the third layer, and the one the two definitions argue about. English sets print a reverse-holo parallel of nearly every base card, so a strict English master set roughly doubles the base chase. Japanese sets structure their variants differently — the variant weight sits in the secret slots rather than in a full parallel mirror of the base set — which is one reason Japanese master sets are the more attainable version of this project. Whichever language you build in, write your definition down. Strict or common. Everything after that is just shopping.",
+          "Every card in the set carries the same set mark and a collector number, and a master set is tracked against that numbering: base cards at or below the set's printed total, secret rares above it. That numbering is the project's skeleton. A binder page with a gap in the sequence is the whole hobby in miniature — you can see exactly what is missing, what it will take to fill the hole, and whether the remaining gaps are commons or the expensive kind of empty."
+        ]
+      },
+      {
+        "h": "The binder math nobody does first",
+        "math": [
+          "A modern Japanese base set, at real shelf scale: 103 cards",
+          "Secret rares above the number line, at SV11B scale: 86+ cards",
+          "103 + 86 = 189 cards — before a single variant",
+          "189 ÷ 12 cards per binder page = 15.75 → 16 pages minimum",
+          "Add variant slots and the set's own bulk, and plan on a dedicated binder, not spare pages"
+        ],
+        "paragraphs": [
+          "Here are two real numbers from sets on our shelf. The base set of [M6a 30th Celebration](/sets/m6a-30th-celebration/) runs 103 cards before its secret rares. SV11B hides 86 or more secret rares above its number line. A set that combined both scales — and modern Japanese sets live at roughly this size — needs 189 slots before you count one variant, one duplicate you keep for trading, or one card you simply like enough to double-slot.",
+          "Sixteen pages of a twelve-pocket binder, minimum, for one set. Collectors consistently plan binder space for the base set they can see and then discover the secret layer needs a second home. Do this arithmetic for your target set before the first purchase, and buy the binder for the finished number, not the starting one. The same discipline applies to product: a [booster box's pack count](/blog/how-many-packs-in-a-booster-box/) tells you how much of the base set a box can even show you, which is the next calculation."
+        ]
+      },
+      {
+        "h": "The money layer: where the cost actually sits",
+        "note": "The sentence the Warehouse hears most from master set builders is 'I am only missing a few cards.' Those few cards are almost always the same few — the top secret rares — and they regularly cost more than everything already sitting in the binder. Nobody regrets finishing a master set of a set they loved. Plenty regret starting one just because a set was new.",
+        "paragraphs": [
+          "A master set's cost is not spread across its cards; it is stacked at the top. The pattern is well known to anyone who has finished one: the last ten percent of the list costs more than the first ninety percent combined. The base set assembles almost by accident — a few boxes, some bulk singles, some trades. The secret rares thin out as you climb, until the final handful of Special Art Rares are effectively the price of the entire project wearing a trench coat.",
+          "This is also why opening boxes is the romantic route and rarely the completing one. A box shows you a small number of secret-rare slots against a list of 86 or more in a set like the [SV11B Black Bolt booster box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/)'s home set — the arithmetic does not close, no matter how good the box feels. Boxes are for the base set, the mid-tier secrets, and the joy of pulling something yourself; phenomena like [god packs](/blog/what-is-a-god-pack-japanese-pokemon/) are real, but they are seasoning, not a completion strategy. The tail of a master set is bought as singles, one deliberate purchase at a time. Price the top ten cards on your list before you start, because that number — not the box price — is your real budget.",
+          "Duplicates deserve a line in the budget too. Boxes and bulk lots leave every builder holding spares — extra base cards, repeated mid-tier secrets — and those spares are not waste. Current-set duplicates are trade stock: they convert, at local meetups and in shop trades, into list cards you have not pulled. Builders who move duplicates as they go quietly fund a real share of the tail. Builders who let four copies of everything pile up in a box are storing money at zero interest and calling it a collection byproduct. Set your duplicate rule at the start — keep one, move the rest — and the build gets cheaper without getting slower."
+        ]
+      },
+      {
+        "h": "Decision layer: master set vs the alternatives",
+        "paragraphs": [
+          "Most collectors standing where you are standing are actually choosing between four different projects that all get called 'collecting the set.' They end with different shelves, different costs, and different regrets. Pick by the right-hand column, not by habit."
+        ],
+        "table": {
+          "head": [
+            "Approach",
+            "What you end up owning",
+            "Cost shape",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Master set (strict)",
+              "Every card, every secret rare, every variant",
+              "Highest — the tail dominates everything",
+              "Completists who genuinely love this specific set"
+            ],
+            [
+              "Master set (common)",
+              "Full numbered set plus all secret rares",
+              "High — secrets still dominate, variants skipped",
+              "Most collectors who say 'master set' and mean it"
+            ],
+            [
+              "Base set only",
+              "The numbered set, nothing above the line",
+              "Lowest of the completion routes",
+              "Display collectors and binders on a budget"
+            ],
+            [
+              "Singles highlights only",
+              "Just the chase cards you actually love",
+              "Pay only for the top end, nothing else",
+              "Character collectors who never wanted the commons"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Risk layer: how master set builds go wrong",
+        "paragraphs": [
+          "The first failure mode is starting a master set of a set you do not love. At card fifty, enthusiasm carries you. At card one hundred and sixty, with the expensive tail still ahead, only actual affection for the set finishes the job — and an unfinished master set is the worst object in the hobby: too complete to abandon comfortably, too incomplete to display proudly, and worth less than its parts because the parts were bought at retail one at a time. If you would not enjoy the binder at ninety percent, do not start it at zero.",
+          "The second failure mode is price movement mid-build. Cards spike when a set is new and loud, and drift when the next set takes the attention. That leaves two honest schools for the expensive tail. Buy the costly cards first: you lock the pain in early, while the set is liquid and every card is findable, and the rest of the build gets cheaper as you go. Or buy them last: you spend months learning the set's real prices instead of its launch prices, and some builders watch the tail cool considerably. Both schools have finished many sets. The losing move is the third one nobody admits to — buying the tail impulsively, mid-build, at spike prices, because a listing felt urgent.",
+          "Recovery, if a build stalls: pause purchases rather than forcing them, sell or trade your duplicates while the set is current, and consider formally downgrading your target from the strict definition to the common one. A finished common-definition set you are proud of beats a strict build abandoned at eighty percent — and protecting the expensive centerpieces you do own matters more than the count, which is where [PSA grading Japanese cards](/blog/psa-grading-japanese-cards-worth-it/) becomes a real question rather than a default."
+        ]
+      },
+      {
+        "h": "Context layer: Japanese vs English master sets",
+        "paragraphs": [
+          "The same set is a different project in each language. Japanese sets release first, their variant weight sits in the secret slots rather than in a parallel mirror of the base set, and Japanese print quality gives the centerpiece cards a cleaner starting point if grading enters the plan later. English sets add the reverse-holo layer across nearly the whole base set, which makes the strict definition substantially larger — a fact that surprises collectors who priced the project using Japanese numbers. The full comparison is in [Japanese vs English Pokémon cards](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) and the shorter [Japanese vs English guide](/guides/japanese-vs-english-pokemon-cards/).",
+          "One more practical difference: because Japanese sets arrive first, their singles market sets the early prices for everything. Building the Japanese master set means shopping in the market that moves first — better availability of the tail early, launch-window prices to match. Whether that trade suits you is a budget question, and it connects directly to [whether Japanese Pokémon cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/): a master set is a collection first, and the collectors who finish them treat any value question as secondary."
+        ]
+      },
+      {
+        "checklist": [
+          "Write your definition down: strict (every variant) or common (numbered set + all secret rares)",
+          "Count the slots: base + secrets, then buy a binder for the finished number",
+          "Price the ten most expensive cards on the list before buying anything else",
+          "Choose your school: expensive tail first, or expensive tail last — on purpose",
+          "Set a monthly pace your budget can hold for the whole list, not just the cheap start",
+          "Buy boxes for the base and mid-tier secrets; plan to buy the tail as singles",
+          "Re-check your definition at the halfway point, before the tail purchases begin"
+        ],
+        "h": "Before you start: the master set checklist",
+        "paragraphs": [
+          "Six decisions, made once, in order. Every stalled build we have ever heard about skipped at least one of them."
+        ]
+      }
+    ],
+    "slug": "what-is-a-master-set-pokemon",
+    "takeaway": [
+      "A master set is a definition before it is a purchase: one of every card, with the argument about variants settled in advance. At modern Japanese scale — a base list around a hundred cards and 86 or more secret rares above it — the project is roughly 189 cards, sixteen binder pages, and a budget that lives almost entirely in its final ten percent.",
+      "Build one only of a set you love, price the tail before the first box, and buy the bulk cheap and the chase cards deliberately. When you are ready to start, the [Pokémon range](/pokemon-cards/) is where the boxes live — and if you tell the Warehouse which set you are chasing, we will tell you honestly whether its tail is kind or cruel."
     ]
   }
 };

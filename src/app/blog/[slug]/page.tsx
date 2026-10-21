@@ -4,6 +4,30 @@ import { notFound } from "next/navigation";
 import { POSTS, POST_SLUGS, type BlogPost } from "@/lib/blog-data";
 import { SITE_URL, URL_TRAILING } from "@/lib/product-data";
 
+/* Render a paragraph that may contain [label](/internal/path/) links. */
+function RichText({ text }: { text: string }) {
+  const parts = text.split(/(\[[^\]]+\]\([^)]+\))/g);
+  return (
+    <>
+      {parts.map((part, i) => {
+        const m = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+        if (m) {
+          return (
+            <Link
+              key={i}
+              href={m[2]}
+              className="text-purple-700 font-medium underline decoration-purple-300 underline-offset-2 hover:text-purple-900"
+            >
+              {m[1]}
+            </Link>
+          );
+        }
+        return <span key={i}>{part}</span>;
+      })}
+    </>
+  );
+}
+
 /* Blog article — /blog/<slug>/  (Article + FAQPage schema) */
 
 export function generateStaticParams() {
@@ -112,7 +136,7 @@ export default async function BlogPostPage({
 
           <div className="text-[16px] text-gray-700 leading-relaxed mb-8 space-y-4">
             {p.intro.map((para, i) => (
-              <p key={i}>{para}</p>
+              <p key={i}><RichText text={para} /></p>
             ))}
           </div>
 
@@ -123,7 +147,7 @@ export default async function BlogPostPage({
               </h2>
               <div className="text-[15px] text-gray-700 leading-relaxed space-y-3">
                 {s.paragraphs.map((para, j) => (
-                  <p key={j}>{para}</p>
+                  <p key={j}><RichText text={para} /></p>
                 ))}
               </div>
               {s.math && (
@@ -193,7 +217,7 @@ export default async function BlogPostPage({
             </h2>
             <div className="text-[15px] text-gray-700 leading-relaxed space-y-3">
               {p.takeaway.map((para, i) => (
-                <p key={i}>{para}</p>
+                <p key={i}><RichText text={para} /></p>
               ))}
             </div>
           </section>
