@@ -26,7 +26,7 @@
       "title": "    ONE PIECE OP-18",
       "subtitle": "Pre order ",
       "accent": "Sealed cases/ Booster boxes",
-      "order": 1,
+      "order": 0,
       "active": true,
       "productId": "276"
     },
@@ -36,7 +36,7 @@
       "title": "One piece EB-05",
       "subtitle": "Sealed cases/ Booster boxes ",
       "accent": "Pre order",
-      "order": 0,
+      "order": 1,
       "active": true,
       "productId": "p-musytfk059vm"
     }

@@ -186,7 +186,359 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Verdict: buy Japanese Pokémon cards because they are the best version of the hobby — better print, honest per-card prices, sets built to be opened. If some of them appreciate, treat it as a bonus on a collection, not a return on a portfolio. The moment the purchase needs the price to cooperate, it has stopped being collecting and started being an unpriced bet.",
       "And if you do park money in sealed product, do it the way the numbers above demand: divided, diversified, and sized to be forgotten for years. More of this shop-floor math lives on [the Warehouse blog](/blog/).",
-      "Two operational reads before any money moves: [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — because condition is where sealed value leaks — and [should you open or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/), the decision every buyer eventually faces."
+      "Two operational reads before any money moves: [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — because condition is where sealed value leaks — and [should you open or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/), the decision every buyer eventually faces.",
+      "The price context behind this article now has a full ladder: [best-value Japanese Pokémon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) ranks every Japanese box the Warehouse sells by price, and runs per-card math only where the structure is verified."
+    ]
+  },
+  "best-one-piece-booster-box-to-buy": {
+    "datePublished": "2026-10-24",
+    "faqs": [
+      {
+        "a": "OP-18 Japanese, at Warehouse prices as of October 24, 2026: $70 for a 24-pack box is $2.92 per pack, and inside the $755 case the rate falls to $2.62 per pack. The next cheapest is OP-17 Japanese at $4.21 per pack.",
+        "q": "What is the cheapest One Piece booster box per pack?"
+      },
+      {
+        "a": "No. OP-18's case undercuts its box by $7.08 per box and OP-17 English's case saves $24.24 per box, but the OP-17 Japanese case works out to $101.25 per box — $0.18 more than the $101.07 single-box price. Divide the case price by 12 before assuming anything.",
+        "q": "Is a One Piece case always cheaper than buying boxes?"
+      },
+      {
+        "a": "For a first deck pool, the OP-18 Japanese box at $70 builds the most cards per dollar at $2.92 per pack. Choose OP-17 English at $153.69 if you need to read every card or play where English text is required, and accept $6.40 per pack as the price of that requirement.",
+        "q": "Japanese or English One Piece boxes — which should a new player buy?"
+      }
+    ],
+    "h1": "The Best One Piece Booster Box to Buy, Settled with Numbers",
+    "intro": [
+      "There is no single best One Piece booster box, and any answer that skips your use case is selling something. There is, however, a best box for each job, and the Warehouse stocks few enough One Piece lines that the whole field fits on one page: OP-18, OP-17 Japanese, and OP-17 English, each as a box and as a case. Every box here holds 24 packs and every case holds 12 boxes, so the comparison is clean arithmetic. All prices are Warehouse prices as of October 24, 2026, and the full set pages are the [OP-17 World's Strongest Warriors hub](/sets/op-17-worlds-strongest-warriors/) and the [OP-18 The Dominance of God hub](/sets/op-18-the-dominance-of-god/).",
+      "This guide is not for anyone who wants one answer with no questions asked. The right box depends entirely on the job: building a first deck pool, chasing the current set, feeding a playgroup, or reading every card in English. State the job and the numbers below settle the rest, because the three case structures on this page point in three different directions, and two of them punish buyers who assume instead of dividing."
+    ],
+    "metaDescription": "OP-18 at $2.92 a pack or OP-17 English at $6.40? Every One Piece box the Warehouse stocks, compared per pack and per case, with a verdict per buyer.",
+    "metaTitle": "Best One Piece Booster Box to Buy: The Numbers",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "The whole field, priced",
+        "paragraphs": [
+          "Start with the shelf as it stands. OP-18 The Dominance of God releases November 20, 2026, and is on pre-order: the [OP-18 Japanese booster box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is $70 and its case is $755, as of October 24, 2026. OP-17 World's Strongest Warriors is the fourth-anniversary set, built around the Elbaf arc, released in Japan on August 22, 2026 and in English on August 28, 2026. The [OP-17 Japanese box](/product/op-17-the-world-s-strongest-warriors-booster-box-japanese-one-piece-card/) is $101.07 with a case at $1,215, and the [OP-17 English box](/product/op-17-the-world-s-strongest-warriors-booster-box-english-one-piece-card/) is $153.69 with a case at $1,553.36, all as of October 24, 2026.",
+          "Six listings, three sets, two languages. The box prices alone suggest a simple ladder — OP-18 cheapest, OP-17 English dearest — but box price is the wrong unit for two of the three buying decisions on this page. Players think in packs, playgroups think in cases, and both units reverse conclusions the box price suggests. So the next step is to convert everything twice: once per pack, once per box inside a case."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Box price",
+            "Case price",
+            "Per pack (box)",
+            "Per box (in case)"
+          ],
+          "rows": [
+            [
+              "OP-18 Japanese",
+              "$70",
+              "$755",
+              "$2.92",
+              "$62.92"
+            ],
+            [
+              "OP-17 Japanese",
+              "$101.07",
+              "$1,215",
+              "$4.21",
+              "$101.25"
+            ],
+            [
+              "OP-17 English",
+              "$153.69",
+              "$1,553.36",
+              "$6.40",
+              "$129.45"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "OP-18 box: $70.00 ÷ 24 packs = $2.92 per pack",
+          "OP-18 case: $755 ÷ 12 = $62.92 per box → $2.62 per pack (saves $7.08 per box)",
+          "OP-17 JP box: $101.07 ÷ 24 = $4.21 per pack",
+          "OP-17 JP case: $1,215 ÷ 12 = $101.25 per box — $0.18 MORE per box than the single",
+          "OP-17 EN box: $153.69 ÷ 24 = $6.40 per pack",
+          "OP-17 EN case: $1,553.36 ÷ 12 = $129.45 per box → $5.39 per pack (saves $24.24 per box)"
+        ],
+        "paragraphs": [
+          "Nothing in the table above is a claim. Each figure is one division away from a listed price, and here is every division. A box holds 24 packs and a case holds 12 boxes, the standard One Piece structure confirmed in [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/). Per-pack cost decides what a player's pool really costs. Per-box-in-case decides whether bulk buying helps or quietly hurts."
+        ]
+      },
+      {
+        "h": "Three cases, three different answers",
+        "note": "Warehouse Note: the three cases on this page were priced by three different logics and it shows. One discounts honestly, one quietly charges a bulk premium, one discounts hardest because its single price starts highest. None of that is visible until the case price is divided by 12, which is why the division is step one of every case purchase, not a refinement.",
+        "paragraphs": [
+          "The OP-18 case is a genuine bulk discount: $62.92 per box against $70 bought singly, a saving of $7.08 on every box and the cheapest per-pack rate on the page at $2.62. For a playgroup or a sealed holder, the case is simply the correct format, and the reasoning is laid out in full in the [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/). There is no catch in the arithmetic.",
+          "The OP-17 Japanese case is the trap. At $1,215 it sounds like the committed buyer's move, but divided by 12 it is $101.25 per box, which is $0.18 more per box than the $101.07 single. The case penalizes the buyer it appears to reward. Unless a group needs exactly twelve boxes in one shipment for reasons of logistics, the Japanese OP-17 case is the wrong format at this store, full stop. This is the exact failure [the sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) exists to catch: identical structure, opposite verdict, decided only by doing the division.",
+          "The OP-17 English case is the biggest saver of the three in absolute dollars: $129.45 per box against $153.69 singly, $24.24 saved on every box, pulling the per-pack cost down from $6.40 to $5.39. English product starts expensive and its case claws back the most. A playgroup committed to English text should never buy that set box by box."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "With the arithmetic done, the decision table is short. Find your row, and note that two of the four rows are decided by the case analysis rather than by the sets themselves."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "New player building a first deck pool",
+              "OP-18 Japanese box at $70",
+              "Lowest entry at $2.92 per pack; a fresh, current pool to build from, with singles finishing the list"
+            ],
+            [
+              "Collector chasing the current set",
+              "OP-18 box, or the case if holding sealed",
+              "The newest set with Yoshitaka Amano art on Loki and Saint Shamrock; the case undercuts the box by $7.08"
+            ],
+            [
+              "Playgroup splitting a case",
+              "OP-18 case at $755, or OP-17 English case at $1,553.36",
+              "Both cases genuinely discount — $7.08 and $24.24 per box. The OP-17 Japanese case does not and is excluded"
+            ],
+            [
+              "English-only reader",
+              "OP-17 English box at $153.69, case at $1,553.36 for groups",
+              "The only fully English option on the shelf today; the case drops the per-pack cost from $6.40 to $5.39"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "How the deck builders should read this",
+        "paragraphs": [
+          "A booster box is a pool, not a deck, and that fact shapes which box serves a player. The skeleton in [how to build your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) is a Leader, a 50-card main deck, and a 10-card DON!! deck, with at most four copies of any card number and every card's color matching the Leader. A box of 24 packs feeds that structure with bodies and staples; it does not finish a list, and the finishing is done with singles. For that job, per-pack cost is the only price that matters, and OP-18's $2.92 — or $2.62 inside a shared case — is the cheapest pool-building rate the Warehouse offers in this game as of October 24, 2026.",
+          "OP-17 Japanese at $4.21 per pack earns its place for a narrower reason: the player who specifically wants the anniversary set's Elbaf card pool and accepts paying roughly 44 percent more per pack than OP-18 for that particular pool. That is a legitimate want. It is just not a value play, and it should never be bought as one."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "The expensive failure on this page is buying the OP-17 Japanese case on the assumption that bulk always discounts. It does not: the buyer pays $0.18 more per box, $2.16 across the case, for the privilege of buying twelve at once. The recovery, if a case already landed, is simply to note that the damage is small and the lesson permanent — divide before paying, on every set, forever. The second failure is paying the English premium without needing English. At $6.40 per pack, OP-17 English costs more than double OP-18's per-pack rate; that premium buys readable card text and local event legality, and it buys nothing else. A collector who reads Japanese or collects sealed is paying for a feature that never gets used.",
+          "The third failure is softer: chasing the newest set because it is newest. OP-18's price makes that mistake cheap this cycle, but the habit is the problem. A box bought for a job — pool, chase, split, or shelf — performs. A box bought because a release date arrived is inventory in search of a reason, and the recovery is to assign it a job before opening it, or hold it sealed until it has one."
+        ]
+      },
+      {
+        "h": "Context: anniversary set versus Amano set",
+        "paragraphs": [
+          "OP-17 is the fourth-anniversary set, the kind of release built to be remembered: Elbaf arc material, Four Emperors Leaders, the debut of Rocks D. Xebec. Its Japanese box still commands $101.07 two months after release, which says the anniversary premium is holding. OP-18 counters with a different kind of headline — Yoshitaka Amano art, revealed at One Piece Day 2026 — and a lower entry price. Neither set is the other's substitute. One is a milestone set mid-run; the other is an art-led set at the start of its window. Collectors with room for both are not duplicating anything, and buyers choosing between them are choosing a theme, with the prices above deciding what the theme costs. The wider [One Piece card range](/one-piece-cards/) covers the rest of the shelf if neither set fits the job."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the job in one sentence: deck pool, current-set chase, playgroup split, or English reading",
+          "Use the right unit: per pack for players, per box inside the case for groups",
+          "Divide every case price by 12 yourself before paying it — the OP-17 Japanese case fails this test",
+          "If the job is a deck pool, price OP-18 first: $2.92 per pack is the cheapest entry as of October 24, 2026",
+          "Pay the English premium only if English text is actually required",
+          "Plan the singles step: the box builds the pool, singles finish the list",
+          "If splitting a case, fix shares and payment before the case ships"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "Before paying for any One Piece box on this page, walk the list.",
+          "For links, return to the set pages: the OP-17 hub and the OP-18 hub settle contents and release details, and this article settles price."
+        ]
+      }
+    ],
+    "slug": "best-one-piece-booster-box-to-buy",
+    "takeaway": [
+      "The best One Piece booster box is the one whose arithmetic matches your job. OP-18 wins on price at every unit — $2.92 per pack, $62.92 per box in a case that honestly discounts. OP-17 English wins for readers and its case saves the most per box. OP-17 Japanese is a theme purchase at $4.21 per pack, and its case is the one format on this page to avoid, charging $0.18 more per box for buying in bulk. Three sets, three case structures, three answers — all of them visible the moment the division gets done."
+    ]
+  },
+  "best-value-japanese-pokemon-booster-boxes": {
+    "datePublished": "2026-10-24",
+    "faqs": [
+      {
+        "a": "M3, at $58.85 as of October 24, 2026 — the smallest cheque in the store for a full Japanese box. Cheapest box and cheapest per card are different titles, though: per card, the verified floor is SV11W White Flare at $1.00.",
+        "q": "What is the cheapest Japanese Pokémon booster box?"
+      },
+      {
+        "a": "Because their pack and card structures are not part of the verified set this guide runs on. A per-card figure needs both a price and a card count; with only the price verified, printing a per-card number would mean inventing the other half. The price ladder itself is verified and complete.",
+        "q": "Why is there no cost-per-card figure for M2a, M3, M4, and M5?"
+      },
+      {
+        "a": "Start inside your band and buy one box. Under $60, M3 at $58.85 (as of October 24, 2026) is the low-risk introduction. If verified per-card efficiency matters more than the smallest cheque, White Flare at $139.77 and $1.00 a card is the strongest documented value in the store. Open it, judge the keep-rate, then decide on box two.",
+        "q": "Which box should a first-time buyer of Japanese Pokémon start with?"
+      }
+    ],
+    "h1": "Best Value Japanese Pokémon Booster Boxes: The Honest Price Ladder",
+    "intro": [
+      "Short answer: the cheapest Japanese Pokémon booster box in the store is M3 at $58.85, and the cheapest verified cost per card belongs to SV11W White Flare at $1.00 a card — both as of October 24, 2026. Those are two different answers because 'value' is two different questions: the smallest cheque, and the most cards for the money. This guide lays out the full seven-box price ladder, runs per-card math only where a set's structure is verified, and says plainly where the data runs out.",
+      "Everything below works from [the store's Japanese Pokémon range](/pokemon-cards/) and its verified prices. Where a box's pack and card counts are confirmed, the per-card number is shown with its arithmetic. Where they are not confirmed, no per-card number appears — a value ranking built on unverified structure is marketing, not analysis, and the Warehouse does not publish it."
+    ],
+    "metaDescription": "Every Japanese Pokémon box in the store, priced as of October 24, 2026 — per-card math where structure is verified, honest limits where it is not.",
+    "metaTitle": "Best Value Japanese Pokémon Booster Boxes, Ranked by Price",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "The price ladder: all seven boxes",
+        "paragraphs": [
+          "Here is the complete ladder, cheapest to most expensive, every price a Warehouse shelf price as of October 24, 2026. Two of these sets — the SV11 pair — share a verified structure of 20 packs × 7 cards = 140 cards. M6a is verified at 20 packs × 6 cards = 120 cards. For M2a, M3, M4, and M5, the Warehouse publishes the price and only the price in this guide, because their pack structures are not part of the verified set used here.",
+          "Read the dashes in the last column as honesty, not missing effort. A per-card figure for the M-series boxes would require pack counts this guide has not verified, and printing one anyway is exactly how bad buying decisions get dressed up as research. The ladder itself — what each box costs against the others — is fully verified and fully usable."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Shelf price (Oct 24, 2026)",
+            "Verified structure",
+            "Cost per card"
+          ],
+          "rows": [
+            [
+              "M3",
+              "$58.85",
+              "Price verified; structure not in this guide's verified set",
+              "—"
+            ],
+            [
+              "M4",
+              "$73.56",
+              "Price verified; structure not in this guide's verified set",
+              "—"
+            ],
+            [
+              "M5",
+              "$76.34",
+              "Price verified; structure not in this guide's verified set",
+              "—"
+            ],
+            [
+              "M2a",
+              "$95.64",
+              "Price verified; structure not in this guide's verified set",
+              "—"
+            ],
+            [
+              "SV11W White Flare",
+              "$139.77",
+              "20 packs × 7 cards = 140 cards",
+              "$1.00"
+            ],
+            [
+              "SV11B Black Bolt",
+              "$152.65",
+              "20 packs × 7 cards = 140 cards",
+              "$1.09"
+            ],
+            [
+              "M6a 30th Celebration",
+              "$207.50",
+              "20 packs × 6 cards = 120 cards, all holographic",
+              "$1.73"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math that can be run, run in the open",
+        "math": [
+          "SV11W White Flare: $139.77 ÷ 140 cards = $1.00 per card",
+          "SV11B Black Bolt: $152.65 ÷ 140 cards = $1.09 per card",
+          "M6a 30th Celebration: $207.50 ÷ 120 cards = $1.73 per card",
+          "M-series boxes (M2a, M3, M4, M5): price known, structure unverified here — no per-card figure published"
+        ],
+        "paragraphs": [
+          "Among the structure-verified boxes, White Flare is the per-card floor of the store at $1.00 a card, with Black Bolt nine cents behind it. The head-to-head between those two — same skeleton, different legendary, $12.88 apart — is worked through in [Black Bolt vs White Flare](/blog/black-bolt-vs-white-flare-which-to-buy/), and the pair's home is [the SV11 set hub](/sets/sv11-black-bolt-white-flare/). M6a sits at the top of both ladders, price and per-card, for structural reasons: every card holographic, a Pikachu guaranteed per pack, an anniversary identity — the full case is made on [the M6a set hub](/sets/m6a-30th-celebration/).",
+          "What per-card math cannot tell you is what the cards are. A dollar a card for 140 cards you do not want is worse value than $1.73 a card for 120 cards you collect seriously. Per-card cost ranks efficiency; it says nothing about fit. That is why the decision table below is organized by budget and purpose together, and why [the pack-count guide](/blog/how-many-packs-in-a-booster-box/) is worth reading before treating any per-card figure as a verdict."
+        ]
+      },
+      {
+        "h": "What actually moves a Japanese box's price",
+        "paragraphs": [
+          "Three forces do most of the work, offered as reasoning about how this market behaves, not as measured data. Print age: a set's box price tends to firm up as its print run recedes and shelf stock thins, because no new supply is being made at the original price. Chase demand: a set with one or two cards everyone wants concentrates demand into its sealed box, since the box is the only way to pull them fresh. Reprint risk: the opposite force — the credible possibility of more supply caps how far a box price can run, because buyers discount what might be printed again.",
+          "Anniversary and event sets add a fourth force: identity. M6a's price is not only about 120 cards; it is about being the 30th anniversary box, a dated artifact. Identity-driven prices behave differently from play-driven ones — they depend on collectors continuing to care about the milestone. None of these forces comes with a dial the Warehouse can read for you. They are the questions to hold in mind while looking at the ladder, not a forecast."
+        ]
+      },
+      {
+        "h": "The decision table: value by budget band",
+        "paragraphs": [
+          "Match the band to the money actually available, then argue about purpose inside the band — not before it. A buyer with $80 arguing about M6a is having the wrong conversation."
+        ],
+        "table": {
+          "head": [
+            "Budget band",
+            "Boxes in band (Oct 24, 2026)",
+            "Best fit",
+            "Ask first"
+          ],
+          "rows": [
+            [
+              "Under $60",
+              "M3 — $58.85",
+              "The entry point: a full Japanese box for the smallest cheque in the store",
+              "Am I buying to open, collect, or hold? At this price the answer matters more than the set"
+            ],
+            [
+              "$60–$100",
+              "M4 — $73.56 · M5 — $76.34 · M2a — $95.64",
+              "The comparison band: three boxes close enough in price that purpose, not price, should decide",
+              "Which set's cards do I actually want in hand?"
+            ],
+            [
+              "$140–$155",
+              "SV11W White Flare — $139.77 · SV11B Black Bolt — $152.65",
+              "The verified-structure band: full per-card math available, $1.00–$1.09 a card",
+              "Zekrom or Reshiram? The sets share a skeleton — pick the legendary"
+            ],
+            [
+              "$200+",
+              "M6a 30th Celebration — $207.50",
+              "The anniversary band: all-holo, guaranteed Pikachu per pack, $1.73 a card",
+              "Am I paying for the celebration itself — because that, not card volume, is what the premium buys"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The questions that decide value for you",
+        "note": "Warehouse Note: when a buyer asks which box is 'best value', the Warehouse answers with a question — what are you collecting? The ladder in this guide exists because the honest answer changes with the reply: M3 for the smallest cheque, White Flare for verified per-card efficiency, M6a for the anniversary. A store that gives one answer to every buyer is selling stock, not advice.",
+        "paragraphs": [
+          "Value is personal in exactly four ways. What are you collecting — a set, a species, a legendary, a shelf of sealed boxes? How much of the box's contents will you actually keep or play, versus sell or store? Does the chase structure suit you — many mid-level hits, or one grail and a long tail? And is this box competing with a specific single you could simply buy? Answer those four and the ladder mostly reads itself: the right box is the one whose contents match the answers, at a price inside your band.",
+          "One more practical step: before buying up a band, read how the sealed-investment framing actually behaves over time in [are Japanese Pokémon cards a good investment?](/blog/are-japanese-pokemon-cards-a-good-investment/). Several boxes on this ladder get bought as 'investments' by default. Some of them should be bought as enjoyment instead — which is a better reason, stated plainly. And whichever band you land in, the sealed-versus-open decision comes before the which-box decision: [should you open or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework, and scaling from a box to a case changes the math again — [the sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs those numbers properly."
+        ]
+      },
+      {
+        "h": "Risk, failure modes, and recovery",
+        "paragraphs": [
+          "The classic failure is buying the cheapest box and discovering the contents were never the point: $58.85 spent on cards you do not collect is worse value than $139.77 spent on a set you love. The recovery is cheap — buy one box in a band, open it, and let the keep-rate of that box, how much of it you actually keep, judge the next purchase. A second failure is band creep: starting at M3 money and drifting to M6a money because the premium felt justified mid-shop. The ladder is the recovery: total the year's box spending against the band you chose, and buy the difference in singles if the drift already happened.",
+          "Reprint risk, flagged in the price section, is the sealed holder's specific exposure: a box held for its price can be repriced by supply news that has nothing to do with the cards. Holders protect themselves the boring way — buy boxes they would be content to open, and store them the way [the sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) describes, so the worst case is a rip they enjoy at a fair per-card cost rather than a stranded asset."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Not for anyone hunting a guaranteed-return pick. No box on this ladder is one, no honest guide can name one, and a store that claims otherwise is selling the claim, not the box. Not for buyers who need a per-card ranking of all seven boxes: three of the seven can be ranked that way on verified structure, and the other four cannot — yet. And not for resellers working on margin timelines shorter than shipping; this ladder is shelf prices for collectors, not a wholesale sheet."
+        ]
+      },
+      {
+        "checklist": [
+          "Budget band chosen first — under $60, $60–$100, $140–$155, or $200+",
+          "Purpose stated in one sentence: open, complete, play, or hold sealed",
+          "Per-card math used only where structure is verified — the SV11 pair and M6a",
+          "For M-series boxes, the decision made on price and purpose, not invented per-card figures",
+          "Chase card priced as a single, as the standing alternative to any box",
+          "Reprint and supply risk accepted in writing — at least in your own notes",
+          "One box bought and judged before a second is ordered"
+        ],
+        "h": "Before you buy: the value checklist",
+        "paragraphs": [
+          "Seven checks, in order. The ladder does the rest."
+        ]
+      }
+    ],
+    "slug": "best-value-japanese-pokemon-booster-boxes",
+    "takeaway": [
+      "The ladder, one last time, all prices as of October 24, 2026: M3 $58.85, M4 $73.56, M5 $76.34, M2a $95.64, White Flare $139.77, Black Bolt $152.65, M6a $207.50. Verified per-card: White Flare $1.00, Black Bolt $1.09, M6a $1.73. Everything else in this guide is framework — the questions that turn a price into a value judgment for one specific buyer.",
+      "That is the most honest form a 'best value' guide can take. The Warehouse publishes its prices, shows its arithmetic where arithmetic is possible, and refuses the fake precision of ranking what it has not verified. Pick your band, answer the four questions, and the right box is usually the one still standing."
     ]
   },
   "black-bolt-vs-white-flare-which-to-buy": {
@@ -636,7 +988,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "dragon-ball-fusion-world-beginners-guide",
     "takeaway": [
       "Fusion World earns its place next to Pokémon and One Piece by being genuinely different: 8 Life that turns into hand cards, an Awaken that rewards taking damage, and battles settled by how much of your hand you are willing to spend. Learn it on a starter deck, expand into FB12 once you know your deck's gaps, and leave the $1,265 case to the collectors it is made for.",
-      "And when a box does land in your hands and the seal starts calling, run it through [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you break it — that framework was written for exactly that moment. More first-timer guides live on [the blog](/blog/)."
+      "And when a box does land in your hands and the seal starts calling, run it through [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you break it — that framework was written for exactly that moment. More first-timer guides live on [the blog](/blog/).",
+      "Choosing between the three games? [Which TCG should you start?](/blog/which-tcg-should-you-start/) compares Fusion World with One Piece and Pokémon on rules, structure, and the real cost of the first box."
     ]
   },
   "how-many-packs-in-a-booster-box": {
@@ -809,7 +1162,158 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The count is not trivia. It is the denominator of every price in this hobby, and the difference between a $2.92 pack and a $10.38 pack is invisible until you divide. A booster box is not a unit — a pack is, and a card is.",
       "So the habit to take from this page is a sequence: name the set, confirm the count, divide the price, then — and only then — have an opinion about whether the box is cheap or expensive.",
-      "New to Dragon Ball's game entirely? [Our Fusion World beginner's guide](/blog/dragon-ball-fusion-world-beginners-guide/) explains how a game flows and where FB12's 24-pack boxes fit your first purchase."
+      "New to Dragon Ball's game entirely? [Our Fusion World beginner's guide](/blog/dragon-ball-fusion-world-beginners-guide/) explains how a game flows and where FB12's 24-pack boxes fit your first purchase.",
+      "Counts become decisions here: [the best One Piece booster box to buy](/blog/best-one-piece-booster-box-to-buy/) divides every current box and case price down to the pack, and the three cases give three different answers."
+    ]
+  },
+  "how-to-read-japanese-pokemon-cards": {
+    "datePublished": "2026-10-24",
+    "faqs": [
+      {
+        "a": "No. Collecting runs on the set code and card number in the bottom corner plus the artwork — binders, master sets, and gap-finding are all organized by number. The only language-bound zone on a card is its written effect text, and the set's card list supplies that for any card you need to check.",
+        "q": "Do I need to speak Japanese to collect Japanese Pokémon cards?"
+      },
+      {
+        "a": "Take the card's number from the bottom corner to the set's card list, where the card's full text is published. For cards in your own deck, keep that text saved or printed as a reference. A phone translation app works as a quick aid for casual play, but confirm anything a game hinges on against the list entry.",
+        "q": "How do I find out what a Japanese card's attack does?"
+      },
+      {
+        "a": "It depends on the event — language rules are set by the event and region, and some require local-language cards. Check your event's rules before buying Japanese cards for tournament play. This is advice, not a ruling: the event's own documentation decides it.",
+        "q": "Can I use Japanese cards at official tournaments?"
+      }
+    ],
+    "h1": "How to Read Japanese Pokémon Cards Without Reading Japanese",
+    "intro": [
+      "Short answer: you do not need to read Japanese to use Japanese Pokémon cards. A Pokémon card is not a paragraph of text with a picture attached. It is a fixed layout system — name and HP at the top, symbols where the costs live, numerals where the damage lives, and a set code with a card number in the bottom corner. Once you know which zone carries which information, the language printed on the card stops being the thing you depend on. The number in the corner does the work that translation would.",
+      "This guide walks the card zone by zone, then gives the working method collectors and players actually use: identify by number and artwork, confirm against the set's card list, and keep a reference for the cards in your own deck. It also covers the honest friction — because there is some — and the cases where English is simply the right purchase instead."
+    ],
+    "metaDescription": "You do not need to read Japanese to use Japanese Pokémon cards. Identify any card by number, symbols and artwork — zone by zone, with a working method.",
+    "metaTitle": "How to Read Japanese Pokémon Cards (No Japanese Needed)",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "A card is a system, not a sentence",
+        "paragraphs": [
+          "Start at the top. The top band carries the card's name and its HP, and the HP is a numeral — it reads identically in every language on earth. Beside the name sits the type symbol, an icon for the card's energy type. Neither of these asks you to read a word of Japanese.",
+          "The middle of the card is artwork and the attack block. Attack names are printed in Japanese text, but look at what sits beside each attack: its cost, shown as energy symbols. Those symbols are language-independent — a cost of two fire symbols and one colorless symbol is the same instruction in Tokyo, Toronto, or Douala. And the damage each attack deals is printed as a numeral. Cost and damage, the two numbers that decide most of what a card does in a game, are both symbol-and-number work.",
+          "Along the bottom runs the weakness, resistance, and retreat row — again icons and numbers, showing what hits the card harder, what it shrugs off, and what it costs to pull it back. The illustrator credit sits along the bottom edge. None of this row requires reading.",
+          "The most important zone is the smallest: the bottom corner, which carries the set code and the card's number within the set. That pair is the card's identity in a form no language can obscure. The rarity mark near it is part of the same corner system — [Japanese rarity symbols explained](/blog/japanese-pokemon-rarity-symbols-explained/) decodes those marks in full."
+        ]
+      },
+      {
+        "h": "The number in the corner does the translating",
+        "math": [
+          "Corner reads: 045 / 103, plus a set code",
+          "045 = this card's position in the set",
+          "103 = the set's base card count",
+          "Number + artwork = the card's identity, in any language"
+        ],
+        "paragraphs": [
+          "Here is the habit to build: never start by trying to translate a card's name. Start with the number and the artwork. A corner that reads 045/103 tells you this is card 45 in a set whose base list runs to 103, and the set code beside it tells you which set that is. Take that number to the set's official card list — every set's cards are published as an ordered list — and position 45 is your card, with its full text available there.",
+          "Confirm with the artwork as the second key. Number plus artwork is a lock: if both match the list entry, the identification is certain, whatever the name says. If the number matches but the artwork differs, you are holding a different print of the card — a parallel or alternate-art version — and the set code and the list will separate the two. Artwork alone can mislead when two prints look similar; the number never does.",
+          "This is also why experienced collectors handle unfamiliar Japanese cards without hesitation. They are not reading faster than you. They are reading a different part of the card — the corner instead of the title."
+        ]
+      },
+      {
+        "h": "Zone by zone: what each part of the card tells you",
+        "paragraphs": [
+          "Exactly one zone on the whole card is language-bound: the written effect text. Everything else is symbols, numerals, and layout. The table below is the honest map of that — including the one row where you will need help."
+        ],
+        "table": {
+          "head": [
+            "Zone",
+            "What it shows",
+            "Japanese needed?"
+          ],
+          "rows": [
+            [
+              "Name and HP (top)",
+              "Which Pokémon it is, and its hit points as a numeral",
+              "No — HP is a number"
+            ],
+            [
+              "Type symbol",
+              "The card's energy type, shown as an icon",
+              "No"
+            ],
+            [
+              "Attack costs",
+              "Energy symbols printed beside each attack",
+              "No — symbols are universal"
+            ],
+            [
+              "Damage figures",
+              "How hard each attack hits, printed as numerals",
+              "No"
+            ],
+            [
+              "Weakness / resistance / retreat row",
+              "Icon-based modifiers and retreat cost along the bottom",
+              "No"
+            ],
+            [
+              "Attack and ability effect text",
+              "What an attack or ability does beyond its damage number",
+              "Yes — this is the one zone that needs a reference"
+            ],
+            [
+              "Set code and card number (corner)",
+              "The card's identity and its position in its set",
+              "No"
+            ],
+            [
+              "Illustrator credit",
+              "Who drew the artwork",
+              "No"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Playing with Japanese cards: the reference method",
+        "note": "Warehouse Note: Incoming Japanese stock at the Warehouse gets sorted by set code and card number before anything else — binders, listings, and set completion all key off that corner. Fluency in Japanese is not what makes the sorting accurate. The numbering system is.",
+        "paragraphs": [
+          "For that one text zone, players use two tools. The first is a phone translation app: point the camera at the attack text and read the rendering. Treat it as a working aid for casual play — a fast way to get the sense of an effect — and confirm anything a game hinges on against the card's entry in the set list. The second tool matters more: a reference for your own deck. Before a game, have the text of every card in your deck saved or printed in a form you can check in seconds. A deck is a small, fixed set of cards; its reference fits on a single page or phone screen.",
+          "Expect your first games with a Japanese deck to run slower. That is the real cost, and it is temporary — the cards you play every week become familiar through their costs, damage numbers, and artwork long before their text does. What does not work is playing from memory alone: half-remembering an effect is how casual games go wrong. The reference at the table is not a crutch; it is the method.",
+          "The same zones do one more job. The corner number, set code, print quality, and symbol alignment are the first things checked when a card's authenticity is in question — [how to spot fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/) works through exactly these zones."
+        ]
+      },
+      {
+        "h": "Collecting: why language barely matters",
+        "paragraphs": [
+          "Collecting runs on the corner number almost entirely. Binders are organized by set and number, gaps are found by number, and a master set — every card of a set, completed in numerical order — is by definition a numbers exercise; [what is a master set](/blog/what-is-a-master-set-pokemon/) lays out that pursuit in full. Identifying, ordering, gap-finding, and displaying a collection never once requires reading the card's name.",
+          "The Warehouse's set coverage is organized the same way. The [Black Bolt and White Flare set hub](/sets/sv11-black-bolt-white-flare/) and the [M6a 30th Celebration hub](/sets/m6a-30th-celebration/) both work from numbered set lists, and the wider range is browsable under [Japanese TCG](/japanese-tcg/) — every route into a set starts from its list, not its language.",
+          "Which means the real Japanese-versus-English collecting question was never about legibility. It is about print character, availability, and price — the comparison run properly in [Japanese vs English Pokémon cards: which to buy](/blog/japanese-vs-english-pokemon-cards-which-to-buy/). Readability should not be the factor that scares anyone off the Japanese side of that decision."
+        ]
+      },
+      {
+        "h": "The honest friction — and when English is the right buy",
+        "paragraphs": [
+          "The failure modes are worth naming plainly. Misidentifying a card by artwork alone, when two prints of it look alike — recovery: set code plus number, every time, no exceptions. Misremembering an effect mid-game because the reference stayed in a bag — recovery: the deck reference comes to the table, not to the venue. And the slow first month with a new Japanese deck — recovery: repetitions; it fades on its own as the deck becomes familiar.",
+          "Some buyers should simply buy English, and the Warehouse will say so. If you will not keep a deck reference and know the friction will irritate you every game, English removes a cost you have honestly assessed. And if you play organized events, language rules are set event by event: some events require local-language cards, some allow foreign printings with a reference at hand. Check your event's rules before buying Japanese cards for tournament play — that check takes minutes and decides the question completely.",
+          "This guide is not for tournament players whose local events require local-language cards and who have already confirmed that rule — for them the method above is a collecting skill only, and their play purchases should be English."
+        ]
+      },
+      {
+        "checklist": [
+          "Find the set code and card number in the bottom corner before anything else",
+          "Match number plus artwork against the set's card list to confirm the card's identity",
+          "Read HP, attack costs, and damage straight off the symbols and numerals",
+          "Save or print the full text of every card in your own deck",
+          "Use a translation app as an aid, and confirm close calls against the list entry",
+          "Organize binders and want-lists by number, not by name",
+          "Check your event's language rules before buying Japanese cards for tournament play"
+        ],
+        "h": "Before you buy, sleeve, or play: the checklist",
+        "paragraphs": [
+          "Run this order on any Japanese card and the language barrier reduces to one manageable errand — the effect text of cards you actually play."
+        ]
+      }
+    ],
+    "slug": "how-to-read-japanese-pokemon-cards",
+    "takeaway": [
+      "A Japanese Pokémon card withholds exactly one thing from a non-reader: the wording of its effects. Everything else — identity, type, cost, damage, rarity, place in the set — is printed in symbols and numbers that never needed translating. Learn the zones, trust the corner number, keep a reference for your own deck, and the language barrier shrinks to a single errand.",
+      "Still deciding which game to enter at all? [Which TCG should you start with](/blog/which-tcg-should-you-start/) compares Pokémon against One Piece and Dragon Ball Fusion World on play, collecting, and verified starting cost — and the full Japanese range lives under [Japanese TCG](/japanese-tcg/)."
     ]
   },
   "how-to-spot-fake-one-piece-cards": {
@@ -1463,7 +1967,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The rarity code is the fastest honest fact on a Japanese card: two seconds, bottom corner, no equipment. Learn the ladder once — C up through UR, with AR and SAR as the modern art tiers and BWR and FUR as the newest era specials — and every Japanese card you ever hold introduces itself properly.",
       "Just keep the discipline that makes the ladder useful instead of misleading. Believe the code over the artwork. Identify with the code, then appraise with everything else. Do that, and you will never pay a SAR price for an AR card, never dismiss an older-era code as a fake, and never mistake a letter for a price tag again.",
-      "Knowing the codes is step one; using them is step two. If you're building toward completion, [what a master set is — and what building one actually involves](/blog/what-is-a-master-set-pokemon/) puts the rarity ladder to work. If a high-code card has you wondering about grading, [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) runs the break-even before you ship anything. And when a listing quotes a box price, [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is how you check what you're really paying per pack."
+      "Knowing the codes is step one; using them is step two. If you're building toward completion, [what a master set is — and what building one actually involves](/blog/what-is-a-master-set-pokemon/) puts the rarity ladder to work. If a high-code card has you wondering about grading, [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) runs the break-even before you ship anything. And when a listing quotes a box price, [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is how you check what you're really paying per pack.",
+      "Knowing the rarities is step one; using a card you cannot read is step two. [How to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) walks the card zone by zone — and shows why the corner number matters more than the language."
     ]
   },
   "japanese-vs-english-pokemon-cards-which-to-buy": {
@@ -1602,7 +2107,140 @@ export const POSTS: Record<string, BlogPost> = {
       "Open Japanese, play English, resell English. That is the short version, and it survives the math: in the one same-set comparison we can run on our own shelves, English costs 52% more per pack — money an opener never recovers and a player has no choice but to spend. Neither language is the better product in the abstract. Each is better at a job.",
       "So the real mistake was never picking the wrong language. It is buying one language to do the other language's job — Japanese cards carried hopefully toward a tournament desk, or English boxes ripped open at a 52% per-pack premium for cards that were never going to be played. Name the job first. The language chooses itself.",
       "Two follow-ups worth your time before you buy: if the cards you open might one day be graded, read [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) — condition is where Japanese copies earn their keep. And if resale value is doing any work in your decision, [our honest take on Japanese cards as an investment](/blog/are-japanese-pokemon-cards-a-good-investment/) separates the hobby math from the investment math. Not sure how the boxes you're comparing are even built? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) has every count that matters.",
-      "Whichever language you choose, the next decision arrives with the box: [should you open it or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/) — the framework there applies to Japanese and English product alike."
+      "Whichever language you choose, the next decision arrives with the box: [should you open it or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/) — the framework there applies to Japanese and English product alike.",
+      "If Japanese wins your decision, two reads follow naturally: [how to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) — the skill is smaller than it looks — and [the best-value Japanese booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/), the full price ladder from $58.85 up."
+    ]
+  },
+  "m6a-30th-celebration-buyers-guide": {
+    "datePublished": "2026-10-24",
+    "faqs": [
+      {
+        "a": "20 packs of 6 cards — 120 cards per box. Every card is holographic, the base set is 103 cards with secret rares above it, and one of the set's 30 Pikachu cards is guaranteed in every pack.",
+        "q": "How many packs and cards come in an M6a 30th Celebration box?"
+      },
+      {
+        "a": "Structure. At $207.50 as of October 24, 2026, the math is $207.50 ÷ 120 cards = $1.73 per card. The all-holo build, the guaranteed Pikachu per pack, the new FUR rarity, and the set's one-time 30th anniversary identity all sit inside that number. It explains the premium; it does not guarantee the contents resell for more.",
+        "q": "Why is M6a the most expensive Japanese box per card?"
+      },
+      {
+        "a": "Both are defensible; drifting between them is not. Open it if the 120 holographic cards and the chase are the point. Keep it sealed if the dated anniversary artifact is the point — and store it properly from day one. Decide before purchase, because opening is the one decision that cannot be reversed.",
+        "q": "Should I open M6a or keep it sealed?"
+      }
+    ],
+    "h1": "M6a 30th Celebration: The Complete Buyer's Guide",
+    "intro": [
+      "Short answer first. M6a 30th Celebration is the Pokémon TCG's 30th anniversary set, released worldwide on September 16, 2026, and it breaks the normal set template on purpose: 20 packs per box, 6 cards per pack, and every one of the 120 cards is holographic. At the Warehouse the box is $207.50 as of October 24, 2026 — $10.38 a pack, $1.73 a card, the highest per-card price of any Japanese box in the store. This guide covers what is actually in the set, runs the money math in the open, and gives a straight verdict on who the premium is worth paying for.",
+      "The set is built around three hooks. There are 30 different Pikachu cards in it, with one Pikachu guaranteed in every pack. The headline cards are Mew ex and Mewtwo ex, drawn in an art collaboration with YOSHIROTTEN. And a Classic Collection subset reprints iconic cards from across the game's history. If that sounds like a celebration product rather than a workhorse set, that is exactly what it is — and it is priced like one."
+    ],
+    "metaDescription": "M6a 30th Celebration buyer's guide: 20 packs, 120 all-holo cards, 30 Pikachu, Mew ex by YOSHIROTTEN — and the $207.50 box math, exposed.",
+    "metaTitle": "M6a 30th Celebration Buyer's Guide: Price & Full Math",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "What is in the set: the verified structure",
+        "paragraphs": [
+          "Start with the skeleton. An M6a booster box holds 20 packs of 6 cards, 120 cards in total — the pack-count context for how that compares with other Japanese boxes is in [the booster box pack-count guide](/blog/how-many-packs-in-a-booster-box/). The base set runs to 103 cards, with secret rares sitting above that number. The structural break from a normal set is the finish: there are no plain cards in M6a. Every card in every pack is holographic, which changes both the opening experience and the economics of completing the set.",
+          "M6a also debuts a new rarity: FUR, short for Futuristic Rare. Where it sits in the pull hierarchy and how to read the symbols on Japanese cards generally is covered in [the Japanese rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/). The full set overview lives on [the M6a 30th Celebration set hub](/sets/m6a-30th-celebration/), and the box itself is [the M6a 30th Celebration booster box](/product/m6a-30th-celebration-booster-box-japanese-pok-mon-tcg/).",
+          "The Classic Collection subset deserves its own sentence: it reprints iconic cards from earlier eras of the game inside a modern anniversary frame. For long-time collectors that subset is the emotional core of the set. For everyone else it is a reminder that M6a was designed as a milestone product first and a standard expansion second."
+        ]
+      },
+      {
+        "h": "The money layer: what $207.50 actually buys",
+        "math": [
+          "Warehouse box price, as of October 24, 2026: $207.50",
+          "Per pack: $207.50 ÷ 20 packs = $10.38",
+          "Per card: $207.50 ÷ 120 cards = $1.73",
+          "Japanese domestic MSRP: ¥7,200 per box (Japan list price, before import costs)"
+        ],
+        "paragraphs": [
+          "The math is simple and worth staring at. At $1.73 per card, M6a is the most expensive Japanese box in the store on a per-card basis — and that is before a single card is pulled. The Japanese MSRP of ¥7,200 is the domestic list price in Japan; an imported box on a shelf outside Japan carries shipping, distribution, and handling on top of it, which is why shelf prices and MSRP never match. Neither number is a promise about what the contents are worth after opening.",
+          "What the premium buys is structure, not certainty: an all-holo box with a guaranteed Pikachu in every pack and an anniversary identity that a normal set cannot copy. Whether sealed product at a premium behaves like an asset is a separate question, and [the Japanese cards investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) works through it without the hype. The other decision the price forces — rip it or keep it sealed — has its own framework in [should you open or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/)"
+        ]
+      },
+      {
+        "h": "Why the structure argues for a premium — and where the argument stops",
+        "paragraphs": [
+          "Three structural facts support a premium conversation. First, the all-holo build removes the bulk problem: a normal box is mostly plain commons whose individual value rounds to nothing, while every M6a card at least carries a holographic finish. Second, the Pikachu guarantee is real arithmetic — one per pack means a floor of 20 Pikachu cards in every box, spread across 30 different designs. Third, anniversary sets are one-time identities: there will never be another 30th anniversary set, and the September 16, 2026 release date is fixed history.",
+          "Here is where the argument stops. A higher floor is not a higher ceiling. The guaranteed Pikachu are not the chase Pikachu, the all-holo finish does not make the secret rares any easier to pull, and a premium paid at retail is a premium the contents have to earn back before the box is 'worth it' in resale terms. The Warehouse sells M6a as a celebration product with a defensible structure — not as a value lock, because no sealed box is one."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "What M6a gives",
+            "The honest catch"
+          ],
+          "rows": [
+            [
+              "Pikachu collector",
+              "30 different Pikachu cards; one guaranteed in every pack",
+              "Guaranteed does not mean equal — the chase Pikachu still sits in the rare slots"
+            ],
+            [
+              "Set builder",
+              "103 base cards, all holographic, plus secret rares above the base set",
+              "All-holo means there is no cheap bulk route to finishing the set"
+            ],
+            [
+              "Rip-for-fun buyer",
+              "Every pack is a hit reel — no dead packs of plain commons",
+              "$10.38 a pack is the most expensive rip in the store"
+            ],
+            [
+              "Sealed holder",
+              "An anniversary identity with a fixed release date: September 16, 2026",
+              "The premium is paid in full on day one — see the risk section below"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "How to buy M6a well",
+        "paragraphs": [
+          "Decide the box's job before paying for it. If it is for opening, set the rip budget at the box price and treat anything pulled above it as a bonus, not an expectation. If it is for holding sealed, read [the open-or-sealed framework](/blog/should-you-open-or-keep-sealed-booster-box/) first and store it properly from day one — the sealed premium only survives if the box does.",
+          "Check the physical box on arrival: shrink intact, corners square, no reseal signs. The checks take two minutes and are laid out in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). Finally, place M6a in the calendar: it landed September 16, 2026, and [the release calendar](/release-calendar/) shows what is coming next — anniversary money spent here is money not spent on the next set, so sequence the purchases on purpose."
+        ]
+      },
+      {
+        "h": "Risk, failure modes, and recovery",
+        "note": "Warehouse Note: anniversary stock gets the shelf treatment at the Warehouse — boxes are checked for shrink integrity when they arrive, stored flat and out of direct light, and never stacked under cases. A premium box that arrives crushed is a premium nobody should pay, so condition checks happen before a box is listed, not after a complaint. The full storage method is in [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/).",
+        "paragraphs": [
+          "The most common failure is variance disappointment: a buyer opens a $207.50 box expecting the chase Mew ex or the rarest Pikachu, pulls neither, and feels the box 'failed'. The box did not fail — the expectation did. With 103 base cards plus secret rares above them, no single box can deliver the set's headline cards on demand. The recovery is arithmetic, not another box: price the specific single you wanted, compare it with another $207.50 of variance, and buy the single when it costs less than the gamble.",
+          "The second failure mode is premium compression on sealed boxes: if supply stays plentiful or buying attention moves to the next release, the sealed premium can narrow. Recovery depends on which buyer you were. Holders who bought the anniversary identity can simply keep holding — the identity does not expire. Buyers who wanted the cards should open the box and enjoy the 120 holographic cards they actually paid for, rather than watching a price chart."
+        ]
+      },
+      {
+        "h": "Context: where M6a sits in the hobby",
+        "paragraphs": [
+          "Thirty years in, the Pokémon TCG marks its anniversaries with product that doubles as a museum. The Classic Collection reprints are the clearest signal: iconic cards from the game's history, reissued so a new collector can hold the lineage in one set. The all-holo build pushes the same idea further — a set where even the 'ordinary' cards are presentation pieces. Readers who know [what a god pack is](/blog/what-is-a-god-pack-japanese-pokemon/) will recognize the impulse: M6a applies a mild version of that all-hit logic to an entire set rather than a single rare pack.",
+          "The FUR rarity is the forward-looking piece. New rarities exist to give future sets a new ceiling, and learning to read this one now — its look, its placement above the base 103 — is part of the set's value to collectors who stay in the hobby. M6a is a snapshot of where the game has been and a first look at where its rarity ladder is going."
+        ]
+      },
+      {
+        "h": "Who M6a is NOT for",
+        "paragraphs": [
+          "Not for buyers expecting normal pull economics: at $10.38 a pack there is no cheap rip here, and the all-holo floor does not convert into resale guarantees. Not for players who need playsets of specific cards — singles are the rational route, always. And not for anyone whose plan requires the box to be worth more later; that is a hope, not a plan, and [the investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) explains the difference in full."
+        ]
+      },
+      {
+        "checklist": [
+          "Budget set at the full box price — $207.50 as of October 24, 2026 — with the rip-or-hold decision made first",
+          "Per-card math understood: $1.73 a card, the store's highest, paid for structure not certainty",
+          "Target identified: a specific chase card, the Pikachu run, the Classic Collection, or a sealed hold",
+          "Physical box verified on arrival: shrink intact, corners square, no reseal signs",
+          "Singles priced for your chase card, so the box is a choice rather than a default",
+          "Storage ready if holding sealed: flat, dark, dry, off the floor",
+          "Next releases checked on the calendar, so this purchase fits the year's sequence"
+        ],
+        "h": "Before you buy: the M6a checklist",
+        "paragraphs": [
+          "Run these checks before the money moves. If a box fails the physical checks, everything else on this list is irrelevant."
+        ]
+      }
+    ],
+    "slug": "m6a-30th-celebration-buyers-guide",
+    "takeaway": [
+      "M6a 30th Celebration earns its premium conversation honestly: 120 holographic cards, a Pikachu in every pack, Mew ex and Mewtwo ex in YOSHIROTTEN art, a new rarity, and thirty years of history in the Classic Collection. At $207.50 a box — $1.73 a card, as of October 24, 2026 — it is the most expensive Japanese box in the store per card, and this guide has not hidden that number once.",
+      "Buy it as the celebration it is: to open and enjoy, to chase Pikachu with a floor under every pack, or to hold as a dated anniversary artifact. Do not buy it as a promise. The Warehouse stocks it proudly and describes it plainly — both, in this hobby, are the point."
     ]
   },
   "one-piece-card-game-colors-explained": {
@@ -1776,7 +2414,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Color in the One Piece Card Game is a plan, a card pool, and a budget, all chosen at once. Red attacks, green rests, blue bounces and draws, purple ramps DON!!, black removes by cost, and yellow weaponizes its own life total. None of those identities is going anywhere, which is why they — and not this month's results — are the right basis for your first purchase.",
       "Start with the color whose plan you already enjoy, feed it from one pool, and let the Japanese-first release rhythm work for you instead of against you. Browse the current [One Piece range](/one-piece-cards/) when you are ready, and bring us your playstyle, not a decklist you copied — the Warehouse would rather sell you the right color once than the wrong color twice.",
-      "Picked your color? [How to build your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) turns it into a legal 50-card list — skeleton, budget table, and the testing loop that saves you from buying the wrong singles."
+      "Picked your color? [How to build your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) turns it into a legal 50-card list — skeleton, budget table, and the testing loop that saves you from buying the wrong singles.",
+      "Still deciding which game gets your first box? [Which TCG should you start?](/blog/which-tcg-should-you-start/) puts One Piece beside Pokémon and Dragon Ball Fusion World with the real entry prices on the table."
     ]
   },
   "one-piece-how-to-build-your-first-deck": {
@@ -1954,6 +2593,134 @@ export const POSTS: Record<string, BlogPost> = {
       "Ready to start? Browse [the One Piece range](/one-piece-cards/) for starter decks and boxes, and keep an eye on the [release calendar](/release-calendar/) for what your color gets next. And if you end up holding sealed product you are saving rather than opening, store it the way we describe in [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — a box kept right is money kept."
     ]
   },
+  "op-18-the-dominance-of-god-preorder-guide": {
+    "datePublished": "2026-10-24",
+    "faqs": [
+      {
+        "a": "November 20, 2026. The set was previewed at One Piece Day 2026, where Yoshitaka Amano art for Loki and Saint Shamrock was revealed.",
+        "q": "When does OP-18 The Dominance of God release?"
+      },
+      {
+        "a": "Yes, at Warehouse prices as of October 24, 2026. The case is $755 for 12 boxes, which is $62.92 per box against $70 for a single box — a saving of $7.08 per box. That is not true of every set: the OP-17 Japanese case works out to $101.25 per box, slightly more than its $101.07 single-box price, so always run the division.",
+        "q": "Is the OP-18 case actually cheaper than buying boxes one at a time?"
+      },
+      {
+        "a": "A Japanese OP-18 booster box holds 24 packs. A case holds 12 boxes, so a full case is 288 packs. At the case price of $755 as of October 24, 2026, that is $62.92 per box or about $2.62 per pack.",
+        "q": "How many packs are in an OP-18 box and case?"
+      }
+    ],
+    "h1": "OP-18 The Dominance of God: The Pre-Order Guide",
+    "intro": [
+      "OP-18 The Dominance of God releases on November 20, 2026, and the pre-order question is not whether the set looks strong. It does. The question is whether the numbers justify locking money down weeks before release, and the honest answer is: run the division first. At the Warehouse, OP-18 turns out to be one of the rare releases where the case genuinely beats the single box, and this guide proves it with arithmetic instead of adjectives. Full set details live on the [OP-18 The Dominance of God hub](/sets/op-18-the-dominance-of-god/), and every price below is a Warehouse price as of October 24, 2026.",
+      "This guide is not for anyone pre-ordering on hype without a plan for the cards. If there is no deck these packs feed, no shelf the sealed box belongs on, and no point at which you would sell or split the case, a pre-order is just a lottery ticket bought early. It is written for buyers who decide with a calculator: players building a card pool, playgroups splitting cases, and sealed holders who want the per-box price working for them instead of against them."
+    ],
+    "metaDescription": "OP-18 releases Nov 20, 2026. Amano art, $70 a box, and a case that actually undercuts singles. The Warehouse runs the pre-order math before you commit.",
+    "metaTitle": "OP-18 The Dominance of God Pre-Order Guide",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "What OP-18 actually is",
+        "paragraphs": [
+          "The Dominance of God is the next main One Piece Card Game booster release, landing November 20, 2026. A Japanese booster box holds 24 packs, and a sealed case holds 12 boxes, the standard One Piece structure. The set was previewed at One Piece Day 2026, where the headline reveal was card art by Yoshitaka Amano, including Loki and Saint Shamrock. Amano is a defining illustrator of the Final Fantasy series, and his involvement makes OP-18 a crossover object: a playable set that also sits in front of an art audience that does not normally buy card game product.",
+          "Warehouse pricing as of October 24, 2026: the [OP-18 Japanese booster box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is $70, and the [OP-18 Japanese booster box case](/product/one-piece-op-18-japanese-booster-box-case-pre-order-one-piece-card-game/) is $755. Those two numbers are the entire decision. Everything else in this guide is what follows from dividing them honestly, and the [release calendar](/release-calendar/) is where OP-18 sits against the rest of the year's sets if you are choosing where a limited budget goes."
+        ]
+      },
+      {
+        "h": "The Amano factor, stated as reasoning",
+        "note": "Warehouse Note: artist reveals move pre-orders faster than card text does. When a set's preview is an illustrator announcement rather than a mechanics announcement, the early allocation tends to be claimed by people buying the art first and the game second. Planning a purchase around that crowd is different from planning around players alone.",
+        "paragraphs": [
+          "Artist-driven demand is a real force in this hobby, but it needs to be stated as reasoning, not dressed up as data. The reasoning runs like this: when a famous illustrator's work appears in a set, the buyer pool widens beyond players. Art collectors and fans of the artist compete for the same sealed product and the same chase singles, and that wider pool supports prices at release instead of letting them sag. Loki and Saint Shamrock carry Amano's name into OP-18, and Saint Shamrock in particular is the kind of character whose first major cards attract attention well outside the playing community.",
+          "Treat that as a reason to take the pre-order window seriously, not as a promise. No pull rates, print numbers, or secondary prices for OP-18 exist in this guide because none are verified yet, and any guide quoting them before release is inventing them. What the Amano factor changes is the risk balance: a set with an audience beyond players is less likely to be the set still sitting discounted months later, which is exactly the outcome pre-ordering is supposed to protect you from. The comparison against the set it follows is in [the best One Piece booster box breakdown](/blog/best-one-piece-booster-box-to-buy/), where OP-18's numbers are set against OP-17's."
+        ]
+      },
+      {
+        "h": "The pre-order math, exposed",
+        "math": [
+          "OP-18 box: $70.00 ÷ 24 packs = $2.92 per pack",
+          "OP-18 case: $755.00 ÷ 12 boxes = $62.92 per box",
+          "Case saving: $70.00 − $62.92 = $7.08 per box",
+          "OP-17 JP case (contrast): $1,215 ÷ 12 = $101.25 per box vs $101.07 single — the case costs MORE"
+        ],
+        "paragraphs": [
+          "Here is the division most buyers skip. A single OP-18 box at $70 with 24 packs works out to $2.92 per pack, the cheapest per-pack entry the Warehouse currently offers in One Piece. The case is where it gets interesting: $755 across 12 boxes is $62.92 per box, which undercuts the single-box price by $7.08 on every box in the case. The case buyer is not paying a bulk premium or splitting the difference. The case buyer is simply paying less for the identical product.",
+          "Do not generalize that result, because the set OP-18 follows proves the opposite. With OP-17, the Warehouse's Japanese case works out to $101.25 per box against a $101.07 single-box price: that case costs more per box than buying the boxes one at a time. Same store, same game, same case structure, opposite answer. The lesson is the spine of this guide and of [the sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/): a case is never automatically the deal. It is a deal only after the division says so, and for OP-18 the division says so clearly."
+        ]
+      },
+      {
+        "h": "Who should lock what",
+        "paragraphs": [
+          "The right pre-order depends on the job the cards have to do, so decide by buyer type rather than by excitement level."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Move",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Playgroup or league splitting product",
+              "Lock the case at $755",
+              "$62.92 per box is the lowest per-box price available, and 12 boxes divide cleanly across a group"
+            ],
+            [
+              "Player building a deck pool",
+              "Lock one or two boxes at $70",
+              "$2.92 per pack builds a pool cheaply; singles finish the list afterward"
+            ],
+            [
+              "Sealed holder",
+              "Lock the case, keep it sealed",
+              "You capture the $7.08 per-box discount and the Amano-audience demand without opening anything"
+            ],
+            [
+              "Singles hunter after one or two cards",
+              "Wait for release-day singles",
+              "A box is 24 packs of variance; buying the exact card after release skips the gamble entirely"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Pre-order or wait: the working framework",
+        "paragraphs": [
+          "Start from the job, not the set. If the cards feed a deck, the framework in [how to build your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) applies: sealed product builds the pool, singles finish the list, and the pre-order question is really about the pool's price per pack. At $2.92 a pack, OP-18's pool is cheap by current standards. If the cards feed a collection or a sealed shelf, the question is whether release-week demand from the Amano audience makes waiting more expensive, and the honest answer is that nobody can price that in advance, which is itself an argument for the discounted case over the full-price box.",
+          "The general discipline is the one laid out in [pre-order a Japanese booster box or wait](/blog/preorder-japanese-booster-box-or-wait/): pre-order when the price is verified, the per-unit math favors the format you are buying, and you know what the product is for. Wait when any of those three is missing. OP-18 passes all three checks for case buyers and box buyers alike, which is not something this guide gets to say about every release. One practical step before paying: confirm which format you are ordering. The box and the case are separate listings, and the $7.08 per-box difference only exists if the case is what actually lands in the cart."
+        ]
+      },
+      {
+        "h": "Failure modes and how to recover",
+        "paragraphs": [
+          "The first failure mode is assuming the case discount is a law of nature and extending the habit to sets where it reverses. OP-17's case, at $0.18 more per box than singles, is the standing counterexample: the recovery is boring and permanent, which is to divide every case price by 12 before paying it, every time, including the next set after this one. The second failure mode is pre-ordering against a plan that does not exist. A case bought on excitement becomes twelve boxes of obligation, and the recovery is to make the plan after the fact honestly: split it with the playgroup it should have been bought with, or hold it sealed rather than cracking packs in frustration, because opened product cannot be un-opened.",
+          "The third failure mode is softer: buying the box when the actual want was two specific cards. Variance does not care about your list. If release day passes and the pulls miss, the recovery is the singles market, and the discipline is to price the singles against what the next box would cost rather than chasing the miss pack by pack. Pre-ordering is a pricing tool. Used on the wrong want, it becomes the most expensive way to buy two cards."
+        ]
+      },
+      {
+        "h": "Where OP-18 sits in the year",
+        "paragraphs": [
+          "Context matters for timing. OP-17, the fourth-anniversary Elbaf set, released in Japan on August 22, 2026 and in English on August 28, and its Warehouse prices still stand at $101.07 for a Japanese box as of October 24, 2026. OP-18 arrives November 20 at $70 a box: a newer set entering cheaper per pack than its predecessor's current price. That gap is the practical story of this pre-order window. Buyers choosing between chasing the anniversary set and locking the new one are not choosing between equal prices, and the full side-by-side is in [the best One Piece booster box to buy](/blog/best-one-piece-booster-box-to-buy/). Browse the wider [One Piece range](/one-piece-cards/) if your pool needs older product alongside the new set."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide the case price by 12 yourself: $755 ÷ 12 = $62.92 per box, below the $70 single-box price",
+          "Name the job: deck pool, playgroup split, or sealed hold — one of the three, in words",
+          "Confirm the listing format in the cart: box ($70) or case ($755), not the one you assumed",
+          "Check the release date against your calendar: November 20, 2026",
+          "Set the singles rule in advance: which cards you will buy directly after release instead of chasing in packs",
+          "If splitting a case, agree the split and payment before the case ships, not after it lands"
+        ],
+        "h": "The pre-order checklist",
+        "paragraphs": [
+          "Before any money moves on OP-18, walk the list. If an item fails, the pre-order waits."
+        ]
+      }
+    ],
+    "slug": "op-18-the-dominance-of-god-preorder-guide",
+    "takeaway": [
+      "OP-18's pre-order case is unusually clean: a verified November 20, 2026 release, a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first."
+    ]
+  },
   "preorder-japanese-booster-box-or-wait": {
     "datePublished": "2026-10-19",
     "faqs": [
@@ -2094,7 +2861,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Pre-order the sets you would regret missing, wait on the routine ones, and never pay the release-week spike. The per-pack math tells you what a price actually is; the signals checklist tells you which lane a set belongs in; the regret question tells you who you are as a buyer. Everything else is noise with a price tag attached.",
       "Prices change and allocations move, so treat every number here as stamped: store prices as of October 20, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second — in that order, every time.",
-      "Deciding where to place the order matters as much as when: [buying TCG from Japan — shipping, customs, and the proxy fee stack](/blog/buying-tcg-from-japan-shipping-customs-proxy/) shows what each route really costs landed. If you're pre-ordering with one eye on future value, read [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. And when comparing two sets' pre-order prices, divide first — [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with."
+      "Deciding where to place the order matters as much as when: [buying TCG from Japan — shipping, customs, and the proxy fee stack](/blog/buying-tcg-from-japan-shipping-customs-proxy/) shows what each route really costs landed. If you're pre-ordering with one eye on future value, read [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. And when comparing two sets' pre-order prices, divide first — [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with.",
+      "Applying this framework to a live release? The [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs it against a real set with real case math — including when the case is the deal and when it quietly is not."
     ]
   },
   "psa-grading-japanese-cards-worth-it": {
@@ -2659,7 +3427,8 @@ export const POSTS: Record<string, BlogPost> = {
       "God packs are real, they are thrilling, and they are not a strategy. The generosity you can take to the bank in Japanese Pokémon is structural — a 100 percent holo rate in M6a at $1.73 a card as of October 20, 2026, an AR floor in every Deluxe pack, a Pikachu guaranteed in every M6a pack. Price the structure. Enjoy the jackpot if it comes. Never confuse the two.",
       "If you are weighing a Japanese box right now, build the little table from this page for it — packs, cards, guarantee, cost per card — and the decision usually makes itself. And if you ever tear open a pack and find hit after hit after hit, you will know exactly what you are holding: not a system working. Just variance, smiling.",
       "Chasing structure instead of jackpots starts with knowing what each box actually contains: [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) lays out the verified counts side by side. Collectors who pull a genuine chase card face the next question — [what a master set is and what it costs to build one](/blog/what-is-a-master-set-pokemon/) — and anyone tempted to treat a lucky pull as an investment should read [our honest investment breakdown](/blog/are-japanese-pokemon-cards-a-good-investment/) first.",
-      "If the all-holo structure of special sets appeals to you, the current head-to-head is [Black Bolt vs White Flare](/blog/black-bolt-vs-white-flare-which-to-buy/) — two sets built on the same skeleton, priced $12.88 apart, with the full comparison run."
+      "If the all-holo structure of special sets appeals to you, the current head-to-head is [Black Bolt vs White Flare](/blog/black-bolt-vs-white-flare-which-to-buy/) — two sets built on the same skeleton, priced $12.88 apart, with the full comparison run.",
+      "For the set that applied god-pack logic to an entire release, read the [M6a 30th Celebration buyer's guide](/blog/m6a-30th-celebration-buyers-guide/) — every card holographic, a Pikachu in every pack, and the per-card math that comes with that structure."
     ]
   },
   "what-is-a-master-set-pokemon": {
@@ -2795,6 +3564,177 @@ export const POSTS: Record<string, BlogPost> = {
       "A master set is a definition before it is a purchase: one of every card, with the argument about variants settled in advance. At modern Japanese scale — a base list around a hundred cards and 86 or more secret rares above it — the project is roughly 189 cards, sixteen binder pages, and a budget that lives almost entirely in its final ten percent.",
       "Build one only of a set you love, price the tail before the first box, and buy the bulk cheap and the chase cards deliberately. When you are ready to start, the [Pokémon range](/pokemon-cards/) is where the boxes live — and if you tell the Warehouse which set you are chasing, we will tell you honestly whether its tail is kind or cruel.",
       "Chasing an SV11 master set starts with a box decision: [Black Bolt vs White Flare](/blog/black-bolt-vs-white-flare-which-to-buy/) runs both sets' structure and prices side by side before you commit to either legendary."
+    ]
+  },
+  "which-tcg-should-you-start": {
+    "datePublished": "2026-10-24",
+    "faqs": [
+      {
+        "a": "The One Piece OP-18 Japanese booster box at $70, as of October 24, 2026 — the cheapest verified entry box of the three games at the Warehouse. OP-17 runs $101.07 in Japanese and $153.69 in English, and Pokémon's M6a 30th Celebration box is $207.50. Dragon Ball's only verified price here is the FB12 sealed case at $1,265, which is a commitment buy, not a starter.",
+        "q": "Which TCG is the cheapest to start?"
+      },
+      {
+        "a": "Pokémon, on the evidence of the catalog: it carries the deepest Japanese import range at the Warehouse, with sets like the SV11 pair — every Unova Pokémon at illustration-rare or better — and M6a, where every card is holographic. One Piece and Dragon Ball are play-first doors; Pokémon is the collector-first one.",
+        "q": "Which of the three is best for collecting?"
+      },
+      {
+        "a": "Not for a first buy. A case is a group or commitment purchase — FB12's is $1,265 as of October 24, 2026. Start one box deep in whichever game you choose, live with it for a month, and let that experience — not the discount arithmetic — decide whether a case ever makes sense for you.",
+        "q": "Should I start with a sealed case to save money?"
+      }
+    ],
+    "h1": "Which TCG Should You Start? Pokémon vs One Piece vs Dragon Ball Fusion World",
+    "intro": [
+      "There is no best first trading card game — there is a best first game for a specific person. The three games at the Warehouse are three different doors. Pokémon is the collector-first door, backed by the deepest Japanese import catalog. One Piece is the structured player's game, built around a Leader and a six-color identity system. Dragon Ball Fusion World is the most direct fight of the three: a Leader in play, 8 Life in front of you, and a win that takes one attack more than zeroing your opponent out. The right choice depends on what you will actually do with your Saturdays — hunt cards, play games, or follow one anime.",
+      "One boundary before anything else: this comparison is not for anyone choosing a game purely as an investment vehicle. A game you neither collect with love nor play with anyone is a box in a cupboard, whatever it cost. Choose by use first; the cards that hold attention are the ones that get opened, played, displayed, and finished."
+    ],
+    "metaDescription": "Pokémon, One Piece or Dragon Ball Fusion World first? Compare the three games on collecting, play structure and verified starting prices at the Warehouse.",
+    "metaTitle": "Pokémon vs One Piece vs Dragon Ball: Which TCG to Start?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "Pokémon: the collector-first door",
+        "paragraphs": [
+          "Honesty first about how this comparison treats Pokémon: it runs on catalog depth, set structure, and the Japanese-import experience — because that is what the Pokémon door at the Warehouse actually is. Pokémon carries the deepest Japanese catalog here by a wide margin, and of the three games, this is the one most people enter through collecting: completing sets, chasing specific illustration cards, building binders in numerical order.",
+          "The current anchors show the shape of it. The SV11 pair — Black Bolt and White Flare — put every Unova Pokémon at illustration-rare or better across the two sets, which makes the pair a structured collecting project rather than a lottery. M6a 30th Celebration is the anniversary statement: every card in the set holographic, a Pikachu guaranteed in every pack, at $207.50 a box as of October 24, 2026. These are sets designed to be completed and displayed as much as opened.",
+          "Notice what kind of project the SV11 pair is: two sets, one Pokédex between them, completed in numerical order. A collector picks a side, works its numbered list, and treats the second set as the sequel rather than a restart. That structure — a finite list, visible gaps, a finish line — is the deep appeal of this door. Nobody 'finishes' a game they play weekly; a master set, by contrast, can actually be completed, and the completion is the trophy.",
+          "If Japanese text is the thing holding you back from this door, it should not be: [how to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) shows how identification runs on set codes, card numbers, symbols, and artwork. And the language-versus-language buying question itself is covered head-on in [Japanese vs English Pokémon cards: which to buy](/blog/japanese-vs-english-pokemon-cards-which-to-buy/)."
+        ]
+      },
+      {
+        "h": "One Piece: the structured player's game",
+        "paragraphs": [
+          "One Piece is a constructed game with a skeleton you can state in one breath: a Leader card, a main deck of exactly 50 cards, and a separate 10-card DON!! deck. No card number may appear more than 4 times, and every card in the deck must match the colors of your Leader. That color lock is the game's whole personality, because the six colors are six genuinely different ways to play."
+        ],
+        "table": {
+          "head": [
+            "Color",
+            "Identity"
+          ],
+          "rows": [
+            [
+              "Red",
+              "Aggressive, Rush"
+            ],
+            [
+              "Green",
+              "Rest and control"
+            ],
+            [
+              "Blue",
+              "Bounce and draw"
+            ],
+            [
+              "Purple",
+              "DON!! ramp"
+            ],
+            [
+              "Black",
+              "Cost-based KO"
+            ],
+            [
+              "Yellow",
+              "Life manipulation and Triggers"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "One Piece, continued: sets and prices",
+        "paragraphs": [
+          "Your Leader's colors decide which of those games you are playing before the first card is drawn, which is why [One Piece card game colors explained](/blog/one-piece-card-game-colors-explained/) is the natural next read, and [how to build your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) turns a chosen color into a legal 50-card list. Box math for planning a pool is in [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/).",
+          "The current sets frame the entry. OP-17 is the 4th anniversary set, built on the Elbaf arc — the full picture is in the [OP-17 set hub](/sets/op-17-worlds-strongest-warriors/) — and OP-18 follows on November 20, 2026, with Yoshitaka Amano artwork. Verified prices, as of October 24, 2026: the OP-18 Japanese box is $70, the OP-17 Japanese box is $101.07, and the OP-17 English box is $153.69. One Piece is the only one of the three doors with a two-figure entry box."
+        ]
+      },
+      {
+        "h": "Dragon Ball Fusion World: the life race",
+        "paragraphs": [
+          "Fusion World's structure is the most direct of the three. Your Leader starts in play — there is no building toward it. Each player defends 8 Life. When your Life falls to 4 or fewer, your Leader Awakens, and the game you are playing changes character mid-match. Battles carry the signature mechanic: during a fight you may play cards from your hand as Combo, each adding +10,000 power. And the win condition has a sting — reduce the opponent's Life to 0, and then land one more attack. Zero is not the finish; the finish is the hit after zero, which means a player on no Life is never quite dead until that last attack connects. A deck is 50 cards plus the Leader.",
+          "The current set is FB12, Reach the God, releasing December 18, 2026: 123 types, and the first Dragon Ball Super: Beerus set. The full breakdown for new players — how a turn flows, what Awaken timing does to your decisions — is in the [Dragon Ball Fusion World beginner's guide](/blog/dragon-ball-fusion-world-beginners-guide/), and the set itself sits in the [FB12 set hub](/sets/fb12-reach-the-god/). One verified price only: the FB12 sealed case is $1,265 as of October 24, 2026. No box price is stated here because none is verified — and a case, in any case, is never a first purchase."
+        ]
+      },
+      {
+        "h": "The money layer: verified doors in, side by side",
+        "math": [
+          "Cheapest verified entry box: One Piece OP-18 Japanese box — $70",
+          "OP-17 Japanese box — $101.07 · OP-17 English box — $153.69",
+          "Pokémon M6a 30th Celebration box — $207.50",
+          "Dragon Ball FB12 sealed case — $1,265 (commitment buy, not a starter)",
+          "All prices as of October 24, 2026"
+        ],
+        "note": "Warehouse Note: The most common first-buy mistake the Warehouse sees is not picking the wrong game — it is picking the right game at the wrong size. A first box teaches you whether a game fits your life. A first case assumes you already know.",
+        "paragraphs": [
+          "Read the table the right way. One Piece offers the cheapest verified door in: a $70 box starts a real card pool today. Pokémon's current anchor box is an anniversary product, and its $207.50 reflects that occasion — do not mistake the anchor's price for the cost of entering the hobby, but do respect that the current Pokémon headline set is a premium one. Dragon Ball, on verified numbers, currently presents a case price and nothing smaller — treat its entry as reading-led for now: learn the game from the beginner's guide, and let FB12's arrival on December 18, 2026 set the moment to buy in."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "Match the person, not the hype. Four common starting positions, and the door each one points to:"
+        ],
+        "table": {
+          "head": [
+            "You are...",
+            "Start with",
+            "Why"
+          ],
+          "rows": [
+            [
+              "A pure collector",
+              "Pokémon",
+              "The deepest Japanese catalog, and sets built to be completed and displayed"
+            ],
+            [
+              "Wanting to play every week",
+              "One Piece or Dragon Ball Fusion World",
+              "Both are play-first systems built around a Leader and a structured deck"
+            ],
+            [
+              "On the smallest budget",
+              "One Piece — the OP-18 box at $70",
+              "The cheapest verified entry box of the three, as of October 24, 2026"
+            ],
+            [
+              "An anime fan of one series",
+              "That series' game",
+              "You will open more packs and play more games when the characters are already yours"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "How a first buy goes wrong",
+        "paragraphs": [
+          "The failure modes repeat across all three games. Buying the case first — FB12's $1,265 is the extreme example — before you have played or collected a single month of the game, converts curiosity into inventory. Choosing purely as an investment does the same thing slower. Choosing a game nobody around you plays strands the weekly-play door entirely: a constructed game needs opponents, and a beautiful deck with no one across the table is a collection accident. And buying the premium anniversary box as a 'starter' skews the verdict on a whole hobby — you judged the celebration, not the game.",
+          "The recovery is the same in every case: shrink the commitment. Start one box deep — or one set's worth of collecting — live with it for a month of real use, and scale only into the game that survived contact with your actual life. The first purchase is tuition. The entire skill is keeping tuition cheap. When you are ready to browse what is actually in stock across all three, the full range is under [Japanese TCG](/japanese-tcg/)."
+        ]
+      },
+      {
+        "h": "The calendar layer: when each door opens",
+        "paragraphs": [
+          "Timing is a real part of this choice, because two of the three doors are mid-swing between sets. One Piece's OP-17 is the current, in-hand set — the 4th anniversary Elbaf release — with OP-18 arriving November 20, 2026. A One Piece starter today buys into a living game with its next set weeks away, not months. Dragon Ball's FB12 does not release until December 18, 2026, which makes Dragon Ball the planned entry of the three: the beginner's guide can be read now, the decision made calmly, and the first purchase timed to the set's arrival rather than to impulse.",
+          "Pokémon's anchors are the present tense — the SV11 pair and M6a are current sets with current stock — so the Pokémon collector starts immediately, while the Dragon Ball player starts deliberately and the One Piece player starts now with a sequel already dated. None of these timings is an argument by itself. But a starter who hates waiting should not pick the December door in October and then blame the game for the wait."
+        ]
+      },
+      {
+        "checklist": [
+          "Name your primary reason honestly: collecting, weekly play, or one beloved series",
+          "If playing: pick the game people around you actually play",
+          "Start one box deep in that game — never a case",
+          "One Piece starters: the $70 OP-18 box is the cheapest verified door (October 24, 2026)",
+          "Pokémon collectors: start with the set whose numbered list you want to complete",
+          "Dragon Ball: finish the beginner's guide before FB12 lands on December 18, 2026",
+          "Reassess after a month of real use — not after a single opening"
+        ],
+        "h": "Make the call: the starter checklist",
+        "paragraphs": [
+          "Work through these in order; the first two answer most of the question by themselves."
+        ]
+      }
+    ],
+    "slug": "which-tcg-should-you-start",
+    "takeaway": [
+      "Three games, three honest shapes: Pokémon collects deepest, One Piece structures play best on a budget, and Dragon Ball runs the most direct fight — 8 Life, an Awakening at 4, and one attack beyond zero. None of those is a ranking. They are descriptions, and the right door is the one that matches the Saturdays you actually have.",
+      "If the anime fan in you is doing the choosing, trust that answer and skip the agonizing — fandom is a legitimate strategy, because it is the one that keeps you opening, playing, and finishing sets a year from now."
     ]
   }
 };
