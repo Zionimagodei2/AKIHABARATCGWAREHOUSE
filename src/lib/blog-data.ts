@@ -1990,7 +1990,8 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "best-japanese-pokemon-sealed-case-to-buy",
     "takeaway": [
-      "The best Japanese Pokemon sealed case is the one whose division survives contact with its own single. M1S wins the current-era rate at $64.43 per box, SV11B and SV11W win the biggest savings at over $90 per box each, and SV2a wins the largest absolute saving at $153.76 per box. M3 is the warning that makes the whole guide necessary: its case costs $16.73 more per box than its single, and no buyer who divides will ever pay it. Sixteen cases, every division shown, one rule at the end: divide the case, compare it to its own single, and only then pay."
+      "The best Japanese Pokemon sealed case is the one whose division survives contact with its own single. M1S wins the current-era rate at $64.43 per box, SV11B and SV11W win the biggest savings at over $90 per box each, and SV2a wins the largest absolute saving at $153.76 per box. M3 is the warning that makes the whole guide necessary: its case costs $16.73 more per box than its single, and no buyer who divides will ever pay it. Sixteen cases, every division shown, one rule at the end: divide the case, compare it to its own single, and only then pay.",
+      "For the Mega case with the widest saving in this cycle's comparison, the [M2 Inferno X buyers guide](/blog/m2-inferno-x-buyers-guide/) prices the case at $1,333.69 against twelve singles at $2,198.16."
     ]
   },
   "best-japanese-pokemon-special-set-to-buy": {
@@ -2668,7 +2669,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The ladder, one last time, all prices as of October 24, 2026: M3 $58.85, M4 $73.56, M5 $76.34, M2a $95.64, White Flare $139.77, Black Bolt $152.65, M6a $207.50. Verified per-card: White Flare $1.00, Black Bolt $1.09, M6a $1.73. Everything else in this guide is framework — the questions that turn a price into a value judgment for one specific buyer.",
       "That is the most honest form a 'best value' guide can take. The Warehouse publishes its prices, shows its arithmetic where arithmetic is possible, and refuses the fake precision of ranking what it has not verified. Pick your band, answer the four questions, and the right box is usually the one still standing.",
       "Learning the game instead of building a collection? The [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) prices fixed MEGA starters, random Start Deck 100, and the four-deck Generations set per card.",
-      "When the set is chosen and the question becomes format, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices 16 cases against their own singles, with M1S cheapest at $64.43 per box."
+      "When the set is chosen and the question becomes format, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices 16 cases against their own singles, with M1S cheapest at $64.43 per box.",
+      "For the Team Rocket set, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the box at $212.99 against the case at $1,821.40, or $151.78 per box in the case."
     ]
   },
   "black-bolt-vs-white-flare-which-to-buy": {
@@ -2840,7 +2842,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "black-bolt-vs-white-flare-which-to-buy",
     "takeaway": [
       "Black Bolt and White Flare are the same machine wearing two different legendaries. The $12.88 gap is a preference fee, not a value signal. Pay it gladly if Zekrom is your card; pocket it if Reshiram is. Just don't let anyone — including us — convince you the arithmetic prefers one of them. It doesn't, and now you've seen the arithmetic.",
-      "Decided? The [Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) and the [White Flare box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) are both on the shelf. If you want a read on current stock of either before you order, ask us in chat."
+      "Decided? The [Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) and the [White Flare box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) are both on the shelf. If you want a read on current stock of either before you order, ask us in chat.",
+      "For the set that came just before this pair, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the box at $212.99 against a case that saves $734.48 against twelve singles."
     ]
   },
   "buying-tcg-from-japan-shipping-customs-proxy": {
@@ -4427,6 +4430,212 @@ export const POSTS: Record<string, BlogPost> = {
       "If Japanese wins your decision, two reads follow naturally: [how to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) — the skill is smaller than it looks — and [the best-value Japanese booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/), the full price ladder from $58.85 up."
     ]
   },
+  "m2-inferno-x-buyers-guide": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "No, not for profit. The box costs $183.18 and the headline chase, the Mega Charizard X ex MUR, carried a Tokyo shop ask of 128,000 yen on October 28, 2026, which is 23.7 boxes at the 5,400 yen release price. One card at 23.7 boxes is the opposite of a box strategy. Open Inferno X because you want Mega Evolution cards, and buy the Charizard single if it is the only card you want.",
+        "q": "Is Inferno X worth opening?"
+      },
+      {
+        "a": "M2, unless you specifically want the High Class Pack format. M2 Inferno X is a standard expansion: 30 packs of 5 cards for $183.18. M2a MEGA Dream ex is a High Class Pack: 10 packs of 10 cards for $114.77, with a different card list and a different chase, Mega Gengar ex. The codes look alike and the products are not, so match the code on the listing before paying.",
+        "q": "Should I buy M2 Inferno X or M2a MEGA Dream ex?"
+      },
+      {
+        "a": "Yes, on this shelf, on this date, and by more than SV10's case does. The M2 case is $1,333.69 for a printed 12 boxes, which is $111.14 per box, while twelve singles cost $2,198.16. The case saves $864.47 across the case, or $72.04 per box. As with every case on this shelf, divide before believing: here the division favors the case by a wide margin.",
+        "q": "Is the M2 case really cheaper than twelve single boxes?"
+      }
+    ],
+    "h1": "M2 Inferno X: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the M2 box at $183.18 if you want to open the Mega Charizard X chase, and buy the case at $1,333.69 if you want to hold or split the set at $111.14 per box, saving $864.47 against twelve singles. The set is 116 cards, released in Japan on September 26, 2025, in boxes of 30 packs of 5 cards. Open neither format for profit: the MUR chase carried a 128,000 yen Tokyo ask on October 28, 2026, and no box guarantees it.",
+      "Inferno X, set code M2, is the standalone Mega Evolution expansion headlined by Mega Charizard X ex, with no sister set on its release day, unlike M1L Mega Brave which shipped alongside M1S Mega Symphonia. Every price in this guide comes from one store on one date, November 3, 2026, from the Warehouse shelf itself: the box, the sealed case, the M2a lookalike, and the Mega siblings that decide whether M2 is the right buy. Third-party figures appear only where they are dated, and the dates stay attached to them."
+    ],
+    "metaDescription": "Inferno X (M2) from one store: box $183.18, case $1,333.69, $111.14 per box in a case, and the Mega Charizard X chase priced in yen.",
+    "metaTitle": "M2 Inferno X: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because M2 punishes the buyer who gets the order backwards twice over: wrong format, or wrong code. A collector who wants to open the set buys the [M2 box](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at $183.18: 30 packs of 5 cards, 150 cards, $6.11 per pack and $1.22 per card. A sealed holder, a splitter, or a group buy buys the [M2 case](/product/m2-inferno-x-sealed-case-12-boxes-japanese-pokemon-card/) at $1,333.69: a printed 12 boxes at $111.14 per box, $3.70 per pack and $0.74 per card, with $864.47 saved against twelve singles. A buyer who wants the High Class Pack instead buys [M2a MEGA Dream ex](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) at $114.77, a different product with 10 packs of 10 cards, and should not pay M2 money for it or M2a money expecting M2 cards. A player who wants Mega cards for play outside Asia buys English Phantasmal Flames, released November 14, 2025, instead of either Japanese format, because Japanese cards are generally not legal at official events outside Asia.",
+          "The case is the story of this page, because the saving is the largest on the current Mega shelf in this guide's comparison. Twelve singles cost $2,198.16 and the case costs $1,333.69, a gap of $864.47 that pays for more than four additional boxes at the case rate. A buyer who assumed cases always cost more per box than singles, the usual pattern on the wider Japanese shelf, would have paid $864.47 for the privilege of opening the same twelve boxes one at a time. The rest of this guide is about making sure that saving is real, that M2 is not confused with M2a, and that the Charizard chase is priced as a single rather than a promise."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $864.47 gap",
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The M2 box is $183.18 for 30 packs of 5 cards, which is $6.11 per pack and $1.22 per card, both divisions shown below. Against the original Japanese retail price, the box has traveled a long way: packs retailed at 180 yen for 5 cards, which puts a box at 5,400 yen at release. The Warehouse price is a November 3, 2026 shelf price in dollars, not a yen conversion, so no exchange-rate claim is made here; the point is simpler, that a box which retailed at 5,400 yen now sits at $183.18 on this shelf, and the buyer should know how far from release pricing that is before paying.",
+          "The case arithmetic is where the page earns its keep. The M2 case is $1,333.69 for a printed 12 boxes, which is $111.14 per box, $3.70 per pack across 360 packs, and $0.74 per card across 1,800 cards. Twelve singles at $183.18 cost $2,198.16, so the case saves $864.47 in total and $72.04 per box. For context, and dated as it must be: another Tokyo shop listed its M2 sealed box at 16,728 yen, about $109, on October 7, 2026, and a marketplace lowest ask sat at 15,798 yen on September 30, 2026. Those are Japan-domestic asks on earlier dates, before any forwarding, while the Warehouse figure is in-hand shelf stock on November 3, 2026. The gap between them is the honest cost of buying from a store that holds the stock and ships it, not evidence that either figure is wrong.",
+          "The Mega shelf puts M2 in its price band, and M2 sits at the top of it. [Mega Brave](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) is $94.91 and [Mega Symphonia](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) is $84.97, while M3 is $70.62, M4 is $88.27, M5 is $91.61, and M6 is $82.80. M2 at $183.18 costs roughly twice the M1 boxes and more than twice M3 through M6, and the reason is one card: Mega Charizard X ex, whose rarest print carried a 128,000 yen Tokyo ask on October 28, 2026. Whether that premium is worth paying depends on whether the buyer wants Charizard specifically, because M1S at $84.97 buys a full Mega box for less than half the M2 box price. The M2a lookalike belongs in the same comparison and is priced separately below, because its 10-pack format makes its per-pack figure look nothing like M2's until the pack counts are stated."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 3 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "M2 box",
+              "$183.18",
+              "30 packs of 5 cards; 116 cards",
+              "$6.11 per pack; $1.22 per card"
+            ],
+            [
+              "M2 case",
+              "$1,333.69",
+              "12 boxes printed",
+              "$111.14 per box; $3.70 per pack; $0.74 per card"
+            ],
+            [
+              "12 M2 singles",
+              "$2,198.16",
+              "12 × $183.18",
+              "Case saves $864.47; $72.04 per box"
+            ],
+            [
+              "M2a box",
+              "$114.77",
+              "10 packs of 10 cards; High Class Pack",
+              "$11.48 per pack; $1.15 per card"
+            ],
+            [
+              "M2a case",
+              "$1,858.56",
+              "20 boxes printed",
+              "$92.93 per box; $9.29 per pack; $0.93 per card"
+            ],
+            [
+              "M1S box",
+              "$84.97",
+              "Mega Symphonia; M1 era",
+              "Box price only"
+            ],
+            [
+              "M1L box",
+              "$94.91",
+              "Mega Brave; M1 era",
+              "Box price only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "M2 box per pack: $183.18 ÷ 30 = $6.11 per pack",
+          "M2 box per card: $183.18 ÷ 150 = $1.22 per card",
+          "M2 case per box: $1,333.69 ÷ 12 = $111.14 per box",
+          "M2 case per pack: $1,333.69 ÷ 360 = $3.70 per pack",
+          "M2 case per card: $1,333.69 ÷ 1,800 = $0.74 per card",
+          "M2 twelve singles: 12 × $183.18 = $2,198.16",
+          "M2 case saving: $2,198.16 − $1,333.69 = $864.47 across the case",
+          "M2 saving per box: $864.47 ÷ 12 = $72.04 per box",
+          "M2a case per box: $1,858.56 ÷ 20 = $92.93 per box",
+          "M2a twenty singles: 20 × $114.77 = $2,295.40; case saves $436.84 ($21.84 per box)",
+          "M2a box per pack: $114.77 ÷ 10 = $11.48 per pack; case per pack: $1,858.56 ÷ 200 = $9.29",
+          "MUR vs release box: 128,000 ÷ 5,400 = 23.7 MSRP boxes; SAR: 89,800 ÷ 5,400 = 16.6 MSRP boxes"
+        ],
+        "paragraphs": [
+          "Nothing in the table above is a claim without a division behind it, and here is every division. The method behind the format comparison is laid out in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/), and the full case ladder across the Japanese shelf sits in the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/). The one figure this page does not divide is a yen-to-dollar conversion of the 5,400 yen release price, because the exchange rate on the day is not printed on the listing and converting it would invent a rate. Shelf prices are compared in the currency they are listed in, and dated third-party conversions are cited as theirs, not ours."
+        ]
+      },
+      {
+        "h": "The practical layer: codes, counts, and what to check",
+        "paragraphs": [
+          "The set code is M2, and the set runs 80 base cards plus 36 secrets: 12 Art Rares, 17 Secret Rares, 6 Special Art Rares, and 1 MUR, for 116 cards in the official database. The headline card is Mega Charizard X ex, printed across the tiers with the Special Art Rare at 110/080 and the MUR at 116/080. A buyer checking a single should match the number, not just the name, because several prints of one Pokemon at very different prices is exactly how the wrong print gets bought. The rarity marks themselves are decoded in the [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/), and the Japanese text on the cards is decoded in [how to read Japanese Pokemon cards](/blog/how-to-read-japanese-pokemon-cards/).",
+          "Two checks belong before payment, and both are free. First, confirm the code on the listing is M2 and not M2a: M2a MEGA Dream ex, released November 28, 2025, is a High Class Pack with 10 packs of 10 cards, a different card list, and a different chase in Mega Gengar ex, whose Special Art Rare carried a 44,800 yen Tokyo ask on October 22, 2026. Second, confirm the box seal before opening anything at this price, using the checks in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). M2 is the most expensive Mega box among the seven compared sets, which is also what makes it the most rewarding box to reseal, and the seal check costs minutes against a $183.18 box. Sealed product should be stored properly from the day it arrives, per [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "What the other guides miss: one store, both formats, and the Charizard economy",
+        "note": "Warehouse Note: the question we get most in chat about M2 is whether the case price is a mistake, because $111.14 per box against a $183.18 single looks too good to be a real listing. It is real, and we checked the division twice because the direction surprised us too: the case saves $864.47 against twelve singles. No other guide we found prices the M2 box and case from one store on one date, which is why the saving usually arrives as a rumor instead of a number.",
+        "paragraphs": [
+          "The top guides for this query do the card list well: the Buyee M2 guide covers the September 26, 2025 release, the 30 packs of 5 cards, and the Mega Charizard X headline, the Samurai M2 list transcribes all 116 cards with the 36-card secret run, and the PACTCG list adds the English equivalent, Phantasmal Flames, released November 14, 2025. What none of them does is price the box and the case from one store on one date, because that needs a store that stocks both formats at once. This page does, and the pricing produces the finding no card list can offer: the case saves $864.47, which reverses the usual case trap and changes the format decision entirely. A buyer who read only the card lists would default to singles and pay $864.47 more for the same twelve boxes.",
+          "The second finding the card lists underplay is the shape of the Charizard economy, and it is a warning, not a selling point. On October 28, 2026, a Tokyo shop listed the MUR Mega Charizard X ex at 128,000 yen with a 90,000 yen buyback, both sold out, and the SAR at 89,800 yen. Against the 5,400 yen release box, the MUR ask equals 23.7 boxes and the SAR equals 16.6 boxes, arithmetic the Tokyo shop itself published. An earlier marketplace snapshot on October 5, 2026 put the MUR lowest ask at 74,900 yen and the SAR at 60,000 yen, which shows how much asks move between shops and dates rather than settling anything. The Pokemon Company publishes no pull rates for Inferno X, and one retailer-reported box pattern circulates, but a pattern is not a promise, so no number of boxes guarantees either print. The grading question for anything pulled is settled in the [PSA grading Japanese cards guide](/blog/psa-grading-japanese-cards-worth-it/), and the anniversary end of the Mega era sits in the [M6a 30th Celebration buyers guide](/blog/m6a-30th-celebration-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "With the arithmetic done, the decision table is short. Find your row. The code row comes first because it overrides every other row: a buyer who pays M2 money for M2a cards, or the reverse, has bought the wrong product at a good price."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener chasing Charizard",
+              "M2 box at $183.18",
+              "30 packs of 5; $6.11 per pack; the chase lives here, not guaranteed"
+            ],
+            [
+              "Sealed holder or splitter",
+              "M2 case at $1,333.69",
+              "Printed 12 boxes at $111.14 per box; saves $864.47 vs singles"
+            ],
+            [
+              "High Class Pack buyer",
+              "M2a box at $114.77",
+              "10 packs of 10 cards; different list, Mega Gengar chase"
+            ],
+            [
+              "Player outside Asia",
+              "English Phantasmal Flames, not Japanese M2",
+              "Playable language; Japanese cards generally not legal at official events outside Asia"
+            ],
+            [
+              "Budget Mega buyer",
+              "M1S box at $84.97",
+              "A full Mega box for less than half the M2 box price"
+            ],
+            [
+              "Anyone wanting a guaranteed MUR",
+              "The MUR single",
+              "Tokyo ask 128,000 yen on Oct 28, 2026; no box guarantees it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "The expensive failure on this page is opening boxes for the MUR. At 23.7 release boxes per MUR ask, the chase is priced as a luxury single, and the SAR at 16.6 boxes is not far behind. The recovery, if boxes are already open, is to keep the best pulls, grade only the cleanest through the logic in the [PSA grading Japanese cards guide](/blog/psa-grading-japanese-cards-worth-it/), and stop opening to chase the loss, per [should you open or keep a sealed booster box](/blog/should-you-open-or-keep-sealed-booster-box/). The second failure is the release-price trap: 5,400 yen is the printed box price, not a price a buyer outside Japan can simply click, because Pokemon Center Online sells the box by lottery to addresses in Japan only, with the latest round's entries closing October 5, 2026 and shipping December 10 to 25, 2026. A buyer who budgets 5,400 yen for a box has budgeted a lottery ticket, not a purchase. The third failure is the M2 and M2a confusion, covered by the code check above. The fourth failure is reseals on the most expensive Mega box in the compared group, covered by the seal checks linked above. The fifth failure is softer: buying twelve singles out of habit and paying $864.47 more than the case for the same twelve boxes, which is why the case division sits at the top of this page instead of the bottom."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Mega Charizard X ex MUR, a guaranteed return, or a box at the 5,400 yen release price, because no box guarantees the MUR and the release price is a lottery price for Japan addresses, not a shelf price. It is also not for the player who needs tournament-legal cards outside Asia, because Japanese cards are generally not legal at official events outside Asia. This guide is for the buyer deciding between the M2 box and case from one store on one date, who will accept the chase as a lottery ticket with a price on it rather than asking a guide to promise it."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide code first: M2 for Inferno X, M2a for MEGA Dream ex, and match the code on the listing",
+          "Decide language next: Japanese for the 116-card set, English Phantasmal Flames for play outside Asia",
+          "Compare box against case: box $183.18 against case $1,333.69, or $111.14 per box in the case",
+          "Divide the case by its printed 12: $1,333.69 ÷ 12 = $111.14 per box, saving $864.47 vs twelve singles",
+          "Do not budget 5,400 yen for a box: that is a Japan-only lottery price, not a shelf price",
+          "Match singles by number, not name: Charizard SAR at 110/080, MUR at 116/080",
+          "Check the seal before opening a $183.18 box, and store sealed product properly from arrival",
+          "Open only if you want the cards: no box guarantees the MUR, and buy the single if it is the only card you want"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "Before paying for M2 in either format, walk the list. For the format question across the wider shelf, the sealed case guide settles it, and for the value question across Japanese boxes, the [best value Japanese Pokemon booster box guide](/blog/best-value-japanese-pokemon-booster-boxes/) still frames it. This article settles the M2 question, and the M2 question is always decided code first, format second, before a single yen or dollar moves."
+        ]
+      }
+    ],
+    "slug": "m2-inferno-x-buyers-guide",
+    "takeaway": [
+      "The M2 box at $183.18 is the way to open Inferno X, and the case at $1,333.69 is the way to hold or split it at $111.14 per box, saving $864.47 against twelve singles. The set is 116 cards from September 26, 2025, in 30 packs of 5, with Mega Charizard X ex at the top and no box guaranteeing it. Buy the box to open, buy the case to hold or split, buy the Charizard single if it is the only card you want, and do not confuse M2 with M2a. That is the whole article: one store, one date, every division shown."
+    ]
+  },
   "m6a-30th-celebration-buyers-guide": {
     "datePublished": "2026-10-24",
     "faqs": [
@@ -4557,7 +4766,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "M6a 30th Celebration earns its premium conversation honestly: 120 holographic cards, a Pikachu in every pack, Mew ex and Mewtwo ex in YOSHIROTTEN art, a new rarity, and thirty years of history in the Classic Collection. At $207.50 a box — $1.73 a card, as of October 24, 2026 — it is the most expensive Japanese box in the store per card, and this guide has not hidden that number once.",
       "Buy it as the celebration it is: to open and enjoy, to chase Pikachu with a floor under every pack, or to hold as a dated anniversary artifact. Do not buy it as a promise. The Warehouse stocks it proudly and describes it plainly — both, in this hobby, are the point.",
-      "Collecting special sets beyond the anniversary range? The [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional Pokemon Center boxes, the anniversary ladder, and the themed gift sets from one shelf, including the box that holds no packs at all."
+      "Collecting special sets beyond the anniversary range? The [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional Pokemon Center boxes, the anniversary ladder, and the themed gift sets from one shelf, including the box that holds no packs at all.",
+      "For the Mega set built around one Charizard, the [M2 Inferno X buyers guide](/blog/m2-inferno-x-buyers-guide/) prices the box at $183.18 against the case at $1,333.69, or $111.14 per box in the case."
     ]
   },
   "one-piece-card-game-colors-explained": {
@@ -5602,6 +5812,204 @@ export const POSTS: Record<string, BlogPost> = {
       "Still torn on a specific box? Tell us which one in chat and we'll walk through its numbers with you. The [Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) and the [M6a box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) come up most often, and the framework above is exactly the one we'll use."
     ]
   },
+  "sv10-glory-of-team-rocket-buyers-guide": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "No, not for profit. The box costs $212.99 and the chase is one card in a 132-card set with no published pull rates. The English version of the chase, Team Rocket's Mewtwo ex Special Illustration Rare 231/182, traded at a recorded near-mint $378 as of November 2, 2026, which is more than the box, but one sale of one card is not a box strategy. Open SV10 because you want Team Rocket cards, and buy the Mewtwo single if it is the only card you want.",
+        "q": "Is SV10 worth opening?"
+      },
+      {
+        "a": "Buy Japanese if you want the Japanese set: 132 cards, 30 packs of 5, and the original April 18, 2025 release. Buy English Destined Rivals if you want to play outside Asia or collect in English, but know it is a different product: 244 cards merging SV10 with Heat Wave Arena, released May 30, 2025. The Japanese box is not a cheaper English box; it is a different set in a different language.",
+        "q": "Should I buy Japanese SV10 or English Destined Rivals?"
+      },
+      {
+        "a": "Yes, on this shelf, on this date. The case is $1,821.40 for a printed 12 boxes, which is $151.78 per box, while twelve singles cost $2,555.88. The case saves $734.48 across the case, or $61.21 per box. That is the opposite of the usual case trap, where a case costs more per box than singles, so divide every time instead of assuming the pattern holds.",
+        "q": "Is the SV10 case really cheaper than twelve single boxes?"
+      }
+    ],
+    "h1": "SV10 Glory of Team Rocket: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV10 box at $212.99 if you want to open Team Rocket's Mewtwo ex chase, and buy the case at $1,821.40 if you want to hold or split the set at $151.78 per box, saving $734.48 against twelve singles. The set is 132 cards, released in Japan on April 18, 2025, in boxes of 30 packs of 5 cards. Open neither format for profit: no box guarantees any secret rare, and the chase single is a purchase, not a plan.",
+      "Glory of Team Rocket, set code SV10, is the set that brought Team Rocket's Pokemon back after a twenty-year gap, built around Team Rocket's Mewtwo ex printed four separate times across four rarity tiers. Every price in this guide comes from one store on one date, November 3, 2026, from the Warehouse shelf itself: the box, the sealed case, and the neighboring sets that decide whether SV10 is the right buy or the wrong one. Third-party figures appear only where they are dated, and the dates stay attached to them."
+    ],
+    "metaDescription": "Glory of Team Rocket (SV10) from one store: box $212.99, case $1,821.40, $151.78 per box in a case, and the Mewtwo chase priced honestly.",
+    "metaTitle": "SV10 Glory of Team Rocket: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV10 punishes the buyer who gets the order backwards. A collector who wants to open the set buys the [SV10 box](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/) at $212.99: 30 packs of 5 cards, 150 cards, $7.10 per pack and $1.42 per card. A sealed holder, a splitter, or a group buy buys the [SV10 case](/product/sv10-glory-of-team-rocket-sealed-case-12-boxes-japanese-pokemon-card/) at $1,821.40: a printed 12 boxes at $151.78 per box, $5.06 per pack and $1.01 per card, with $734.48 saved against twelve singles. A player who wants Team Rocket cards for play outside Asia buys neither Japanese format and buys English Destined Rivals instead, because Japanese cards are generally not legal at official events outside Asia, and the language decision should be confirmed with the event organizer before paying.",
+          "The case is the story of this page, because it breaks the pattern buyers have learned to expect. On much of the Japanese shelf, a sealed case costs slightly more per box than buying singles, and the premium buys factory-sealed provenance. SV10 runs the other way, and by a lot: $61.21 saved per box, $734.48 across the case. A buyer who assumed the usual trap and bought twelve singles would have paid $734.48 for the privilege of opening the same twelve boxes one at a time. The rest of this guide is about making sure that saving is real, that the box is the right format for the buyer, and that the chase is priced as a single rather than a promise."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $734.48 gap",
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The SV10 box is $212.99 for 30 packs of 5 cards, which is $7.10 per pack and $1.42 per card, both divisions shown below. Against the original Japanese retail price, the box has traveled a long way: packs retailed at 180 yen for 5 cards, which puts a box at 5,400 yen at release. The Warehouse price is a November 3, 2026 shelf price in dollars, not a yen conversion, so no exchange-rate claim is made here; the point is simpler, that a box which retailed at 5,400 yen now sits at $212.99 on this shelf, and the buyer should know how far from release pricing that is before paying.",
+          "The case arithmetic is where the page earns its keep. The SV10 case is $1,821.40 for a printed 12 boxes, which is $151.78 per box, $5.06 per pack across 360 packs, and $1.01 per card across 1,800 cards. Twelve singles at $212.99 cost $2,555.88, so the case saves $734.48 in total and $61.21 per box. For context, and dated as it must be: another Tokyo shop listed its SV10 sealed box at 20,783 yen, about $135, on October 7, 2026, and a marketplace lowest ask sat at 21,800 yen, about $142, on September 30, 2026. Those are Japan-domestic asks on earlier dates, before any forwarding, while the Warehouse figure is in-hand shelf stock on November 3, 2026. The gap between them is the honest cost of buying from a store that holds the stock and ships it, not evidence that either figure is wrong.",
+          "The neighboring shelf puts SV10 in its price band. [Heat Wave Arena](/product/sv9a-heat-wave-arena-booster-box-japanese-pokemon-card/), the set English Destined Rivals merges with SV10, is $163.32 a box. [Black Bolt](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $183.18 and White Flare $167.72, while Battle Partners is $84.97. SV10 at $212.99 is the highest box price among those five compared sets, which matches its position as the set with the single most talked-about chase card in the group. Whether that premium is worth paying depends on whether the buyer wants Team Rocket specifically, because Battle Partners at $84.97 buys a full box of a different set for less than half the SV10 box price."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 3 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV10 box",
+              "$212.99",
+              "30 packs of 5 cards; 132 cards",
+              "$7.10 per pack; $1.42 per card"
+            ],
+            [
+              "SV10 case",
+              "$1,821.40",
+              "12 boxes printed",
+              "$151.78 per box; $5.06 per pack; $1.01 per card"
+            ],
+            [
+              "12 SV10 singles",
+              "$2,555.88",
+              "12 × $212.99",
+              "Case saves $734.48; $61.21 per box"
+            ],
+            [
+              "Heat Wave Arena box",
+              "$163.32",
+              "SV9a; merged into English Destined Rivals",
+              "Box price only"
+            ],
+            [
+              "Black Bolt box",
+              "$183.18",
+              "SV11B",
+              "Box price only"
+            ],
+            [
+              "Battle Partners box",
+              "$84.97",
+              "SV9",
+              "Box price only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "SV10 box per pack: $212.99 ÷ 30 = $7.10 per pack",
+          "SV10 box per card: $212.99 ÷ 150 = $1.42 per card",
+          "SV10 case per box: $1,821.40 ÷ 12 = $151.78 per box",
+          "SV10 case per pack: $1,821.40 ÷ 360 = $5.06 per pack",
+          "SV10 case per card: $1,821.40 ÷ 1,800 = $1.01 per card",
+          "SV10 twelve singles: 12 × $212.99 = $2,555.88",
+          "SV10 case saving: $2,555.88 − $1,821.40 = $734.48 across the case",
+          "SV10 saving per box: $734.48 ÷ 12 = $61.21 per box",
+          "SV10 box vs Heat Wave Arena box: $212.99 − $163.32 = $49.67 more",
+          "SV10 box vs Battle Partners box: $212.99 − $84.97 = $128.02 more"
+        ],
+        "paragraphs": [
+          "Nothing in the table above is a claim without a division behind it, and here is every division. The method behind the format comparison is laid out in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/), and the full case ladder across the Japanese shelf sits in the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/). The one figure this page does not divide is a yen-to-dollar conversion of the 5,400 yen release price, because the exchange rate on the day is not printed on the listing and converting it would invent a rate. Shelf prices are compared in the currency they are listed in, and dated third-party conversions are cited as theirs, not ours."
+        ]
+      },
+      {
+        "h": "The practical layer: codes, counts, and what to check",
+        "paragraphs": [
+          "The set code is SV10, printed in the bottom-left of each card next to the card number, and the set runs 98 base cards plus 34 secrets numbered 99 to 132: 12 Art Rares, 13 Secret Rares, 6 Special Art Rares, and 3 Ultra Rares. The headline card is Team Rocket's Mewtwo ex, printed four times across four rarity tiers, with the Ultra Rare at 130/098 and the English Special Illustration Rare at 231/182. A buyer checking a single should match the number, not just the name, because four prints of one Pokemon at four prices is exactly how the wrong print gets bought. The rarity marks themselves are decoded in the [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/), and the Japanese text on the cards is decoded in [how to read Japanese Pokemon cards](/blog/how-to-read-japanese-pokemon-cards/).",
+          "Two checks belong before payment, and both are free. First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count is what makes the $151.78 per-box figure a division rather than an assumption. Second, confirm the box seal before opening anything at this price, using the checks in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). SV10 is the most expensive box among the five compared sets, which is also what makes it the most rewarding box to reseal, and the seal check costs minutes against a $212.99 box. Sealed product should be stored properly from the day it arrives, per [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "What the other guides miss: one store, both formats, and the English merge",
+        "note": "Warehouse Note: the question we get most in chat about SV10 is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $734.48 against twelve singles, and we checked the division twice because the direction surprised us too. No other guide we found prices the SV10 box and case from one store on one date, which is why the saving usually arrives as a rumor instead of a number.",
+        "paragraphs": [
+          "The top guides for this query do the card list well: the Samurai SV10 list transcribes all 132 cards with the 34 secrets from 99 to 132, the SNKRDUNK list covers the same 98 plus 34 split with the secret rares called out, and the CardGamer list walks the main set with the set code in the bottom-left. What none of them does is price the box and the case from one store on one date, because that needs a store that stocks both formats at once. This page does, and the pricing produces the finding no card list can offer: the case saves $734.48, which reverses the usual case trap and changes the format decision entirely. A buyer who read only the card lists would default to singles and pay $734.48 more for the same twelve boxes.",
+          "The second finding the card lists underplay is the English merge, and it changes what the Japanese set is. English Destined Rivals, released May 30, 2025, is not the English SV10: it merges SV10 with Heat Wave Arena, released March 14, 2025, into a 244-card set, and adds starter-set cards on top. A buyer who wants the pure 132-card Japanese set and buys English instead has bought a different set, and a buyer who wants English playability and buys Japanese instead has bought cards that are generally not legal at official events outside Asia. The language question is worked through for the wider game in the [Japanese versus English Pokemon guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/), and the value question for the neighboring SV11 pair sits in the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/). The third finding is an absence, stated plainly: this store does not stock the standalone Team Rocket Attache Case Set, a premium product with 30 packs that shipped alongside the standard box, so a buyer who wants that product should not pay box money expecting it."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "With the arithmetic done, the decision table is short. Find your row. The language row comes first because it overrides every other row: a player who buys the wrong language has bought the wrong product at a good price."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener chasing Mewtwo",
+              "SV10 box at $212.99",
+              "30 packs of 5; $7.10 per pack; the chase lives here, not guaranteed"
+            ],
+            [
+              "Sealed holder or splitter",
+              "SV10 case at $1,821.40",
+              "Printed 12 boxes at $151.78 per box; saves $734.48 vs singles"
+            ],
+            [
+              "Player outside Asia",
+              "English Destined Rivals, not Japanese SV10",
+              "Playable language; Japanese cards generally not legal at official events outside Asia"
+            ],
+            [
+              "Budget buyer who likes the era",
+              "Battle Partners box at $84.97",
+              "A full SV-era box for $128.02 less than SV10"
+            ],
+            [
+              "Attache Case hunter",
+              "Neither listing here",
+              "The store does not stock the Attache Case Set; do not pay box money expecting it"
+            ],
+            [
+              "Anyone wanting a guaranteed Mewtwo",
+              "The Mewtwo single",
+              "English SIR traded near-mint $378 as of Nov 2, 2026; no box guarantees any secret rare"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "The expensive failure on this page is opening boxes for profit. The English Mewtwo Special Illustration Rare traded at a recorded near-mint $378 as of November 2, 2026, down from a $482 peak in April 2026, and graded PSA 10 copies sold around $861 to $960 in October 2026. Those are English figures for the English chase, cited as dated third-party sales, and they still do not make a box a plan: the Japanese box holds 150 cards from a 132-card set with no published pull rates, and most boxes contain no card worth the box price. The recovery, if boxes are already open, is to keep the best pulls, grade only the cleanest through the logic in the [PSA grading Japanese cards guide](/blog/psa-grading-japanese-cards-worth-it/), and stop opening to chase the loss, per [should you open or keep a sealed booster box](/blog/should-you-open-or-keep-sealed-booster-box/). The second failure is buying Japanese to play at an official event outside Asia: confirm legality with the event organizer before paying, because the general rule runs against Japanese cards outside Asia. The third failure is reseals on the most expensive box in the compared group, covered by the seal checks linked above. The fourth failure is softer: buying twelve singles out of habit and paying $734.48 more than the case for the same twelve boxes, which is why the case division sits at the top of this page instead of the bottom."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Team Rocket's Mewtwo ex, a guaranteed return, or the Attache Case Set, because no box guarantees any secret rare and the store does not stock the Attache Case Set. It is also not for the player who needs tournament-legal cards outside Asia, because Japanese cards are generally not legal at official events outside Asia. This guide is for the buyer deciding between the SV10 box and case from one store on one date, who will accept the chase as a lottery ticket with a price on it rather than asking a guide to promise it."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide language first: Japanese for the 132-card set, English Destined Rivals for play outside Asia",
+          "Compare box against case: box $212.99 against case $1,821.40, or $151.78 per box in the case",
+          "Divide the case by its printed 12: $1,821.40 ÷ 12 = $151.78 per box, saving $734.48 vs twelve singles",
+          "Do not convert the 5,400 yen release price yourself: shelf prices are compared as listed, dated conversions cited as theirs",
+          "Match singles by number, not name: Mewtwo ex prints four times, UR at 130/098, English SIR at 231/182",
+          "Check the seal before opening a $212.99 box, and store sealed product properly from arrival",
+          "Open only if you want the cards: no box guarantees any secret rare",
+          "Buy the Mewtwo single if it is the only card you want, and confirm tournament legality before buying Japanese to play"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "Before paying for SV10 in either format, walk the list. For the format question across the wider shelf, the sealed case guide settles it, and for the value question across Japanese boxes, the [best value Japanese Pokemon booster box guide](/blog/best-value-japanese-pokemon-booster-boxes/) still frames it. This article settles the SV10 question, and the SV10 question is always decided box against case before a single yen or dollar moves."
+        ]
+      }
+    ],
+    "slug": "sv10-glory-of-team-rocket-buyers-guide",
+    "takeaway": [
+      "The SV10 box at $212.99 is the way to open Team Rocket's set, and the case at $1,821.40 is the way to hold or split it at $151.78 per box, saving $734.48 against twelve singles. The set is 132 cards from April 18, 2025, in 30 packs of 5, with Team Rocket's Mewtwo ex printed four times and no box guaranteeing any of them. Buy the box to open, buy the case to hold or split, buy the Mewtwo single if it is the only card you want, and buy English Destined Rivals if the cards need to be playable outside Asia. That is the whole article: one store, one date, every division shown."
+    ]
+  },
   "what-is-a-god-pack-japanese-pokemon": {
     "datePublished": "2026-10-19",
     "faqs": [
@@ -6060,7 +6468,6 @@ export const POSTS: Record<string, BlogPost> = {
       "If Pokemon is the game you picked, the [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) prices the fixed MEGA starters against random Start Deck 100 and the four-deck Generations set, per card and per match."
     ]
   }
-
 };
 
 export const POST_SLUGS = Object.keys(POSTS);
