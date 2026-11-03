@@ -187,7 +187,1754 @@ export const POSTS: Record<string, BlogPost> = {
       "Verdict: buy Japanese Pokémon cards because they are the best version of the hobby — better print, honest per-card prices, sets built to be opened. If some of them appreciate, treat it as a bonus on a collection, not a return on a portfolio. The moment the purchase needs the price to cooperate, it has stopped being collecting and started being an unpriced bet.",
       "And if you do park money in sealed product, do it the way the numbers above demand: divided, diversified, and sized to be forgotten for years. More of this shop-floor math lives on [the Warehouse blog](/blog/).",
       "Two operational reads before any money moves: [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — because condition is where sealed value leaks — and [should you open or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/), the decision every buyer eventually faces.",
-      "The price context behind this article now has a full ladder: [best-value Japanese Pokémon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) ranks every Japanese box the Warehouse sells by price, and runs per-card math only where the structure is verified."
+      "The price context behind this article now has a full ladder: [best-value Japanese Pokémon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) ranks every Japanese box the Warehouse sells by price, and runs per-card math only where the structure is verified.",
+      "If the question is which sealed special set to hold rather than which card to chase, the [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional boxes, the anniversary ladder, and the themed sets from one shelf."
+    ]
+  },
+  "best-disney-lorcana-booster-box-to-buy": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "If you want exactly one box, no — our Lorcana stock is sealed cases of four boxes, so the honest comparison is the case price divided by four. A Reign of Jafar case at $463.45 works out to $115.86 per box, which is below the $143.76 box MSRP, but you are still buying four boxes. The case suits groups that split, players who want a deep pool from one set, and sealed holders. A solo buyer who wants one box should buy one box from a store that sells singles.",
+        "q": "Can I buy a single Lorcana booster box from this store?"
+      },
+      {
+        "a": "Whispers in the Well has the strongest third-party expected-value case: a June 2026 analysis counting only resellable rarities put a ~$110 single box at about 91 cents of expected value per dollar, ahead of Winterspell and Wilds Unknown at roughly a 23% loss on the same method. That analysis used a ~$110 single box, not our $254.75 case-derived box — same cards, very different entry price.",
+        "q": "Which Lorcana set gives the best value per box?"
+      },
+      {
+        "a": "No. Lorcana sets eventually rotate out of Core Constructed, and trackers already mark Reign of Jafar as rotated out. If you buy to play Core Constructed events, check the current legal list before buying any set older than Fabled, and weight recent sets more heavily. If you buy to open or hold sealed, rotation matters far less than the per-box price.",
+        "q": "Are older Lorcana sets still legal to play?"
+      }
+    ],
+    "h1": "Best Disney Lorcana Booster Box to Buy: The Case-Math Answer",
+    "intro": [
+      "Short answer: on our shelf you buy a sealed case of four boxes, so the best box is the case with the best per-box price for your purpose — Reign of Jafar at $115.86 per box for the cheapest entry, Whispers in the Well at $254.75 for the strongest expected-value case, and Hyperia City at $180.00 for the newest set. Every price below is our live case price as of November 3, 2026, divided to per-box and per-pack so you can check it.",
+      "Who this is for: Lorcana players building a pool from one set, groups splitting a case, and sealed holders who want the real per-box cost before they pay a case price. Who it is not for: anyone who wants exactly one box — we do not sell Lorcana single boxes — and anyone chasing one specific Enchanted or Iconic, for whom singles beat sealed every time."
+    ],
+    "metaDescription": "Best Disney Lorcana booster box to buy: real sealed-case prices divided to per-box and per-pack. Reign of Jafar, Whispers, Hyperia City.",
+    "metaTitle": "Best Disney Lorcana Booster Box to Buy in 2026",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer: three different bests",
+        "paragraphs": [
+          "There is no single best Lorcana box: a player wants playable cards at the lowest cost per pack, an opener wants the best chase shot per dollar, and a sealed holder wants the set most likely to appreciate unopened. Rank them together and you get a list that serves nobody, which is exactly what most rankings do.",
+          "For the player on a budget, the answer is [Reign of Jafar](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/): its $463.45 case is the cheapest on our shelf, and $115.86 per box undercuts the $143.76 box MSRP by nearly $28. For the opener chasing expected value, the answer is [Whispers in the Well](/product/disney-lorcana-whispers-in-the-well-booster-box-sealed-case-set-10-english/) — with a large caveat about entry price, covered in the money layer. For the sealed holder, the tension is between [The First Chapter](/product/disney-lorcana-the-first-chapter-booster-box-sealed-case-set-1-english/) at $436.84 per box, already priced as a collectible, and [Hyperia City](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) at $180.00 per box — above MSRP, so you must believe the set will grow into its price.",
+          "One more buyer deserves a line: the group. Four friends splitting a case each pay the per-box price, not the case price. A Reign of Jafar split costs each person $115.86 for a full box — cheaper than a single MSRP box anywhere — and how most of our Lorcana cases leave the shelf."
+        ]
+      },
+      {
+        "h": "The money layer: every case on our shelf, divided",
+        "math": [
+          "Hyperia City (Set 14): $720 ÷ 4 boxes = $180.00 per box; $180.00 ÷ 24 packs = $7.50 per pack",
+          "Attack of the Vine (Set 13): $694.31 ÷ 4 boxes = $173.58 per box; $173.58 ÷ 24 packs = $7.23 per pack",
+          "Wilds Unknown (Set 12): $1,268.02 ÷ 4 boxes = $317.01 per box; $317.01 ÷ 24 packs = $13.21 per pack",
+          "Winterspell (Set 11): $1,289.06 ÷ 4 boxes = $322.27 per box; $322.27 ÷ 24 packs = $13.43 per pack",
+          "Whispers in the Well (Set 10): $1,019 ÷ 4 boxes = $254.75 per box; $254.75 ÷ 24 packs = $10.61 per pack",
+          "Fabled (Set 9): $746.16 ÷ 4 boxes = $186.54 per box; $186.54 ÷ 24 packs = $7.77 per pack",
+          "Reign of Jafar (Set 8): $463.45 ÷ 4 boxes = $115.86 per box; $115.86 ÷ 24 packs = $4.83 per pack",
+          "Archazia's Island (Set 7): $745.68 ÷ 4 boxes = $186.42 per box; $186.42 ÷ 24 packs = $7.77 per pack",
+          "Azurite Sea (Set 6): $476.63 ÷ 4 boxes = $119.16 per box; $119.16 ÷ 24 packs = $4.96 per pack",
+          "Shimmering Skies (Set 5): $655.20 ÷ 4 boxes = $163.80 per box; $163.80 ÷ 24 packs = $6.83 per pack",
+          "Ursula's Return (Set 4): $504 ÷ 4 boxes = $126.00 per box; $126.00 ÷ 24 packs = $5.25 per pack",
+          "Into the Inklands (Set 3): $554.40 ÷ 4 boxes = $138.60 per box; $138.60 ÷ 24 packs = $5.78 per pack",
+          "Rise of the Floodborn (Set 2): $504 ÷ 4 boxes = $126.00 per box; $126.00 ÷ 24 packs = $5.25 per pack",
+          "The First Chapter (Set 1): $1,747.37 ÷ 4 boxes = $436.84 per box; $436.84 ÷ 24 packs = $18.20 per pack",
+          "Japanese First Chapter case: $564.07 ÷ 15 boxes = $37.60 per box (Japanese boxes are configured differently; check the listing for pack counts)",
+          "MSRP anchor: $143.76 ÷ 24 packs = $5.99 per pack",
+          "Reign of Jafar vs MSRP: $143.76 − $115.86 = $27.90 below MSRP per box",
+          "Hyperia City vs MSRP: $180.00 − $143.76 = $36.24 above MSRP per box"
+        ],
+        "paragraphs": [
+          "Lorcana cases hold four boxes of 24 packs of 12 cards — the configuration on our case listings. Store prices as of November 3, 2026. Divide before you read any ranking: the most expensive case is not the most expensive box, and the cheapest case is not always the best buy.",
+          "The spread is the story. Cheapest per box: Reign of Jafar at $115.86, Azurite Sea at $119.16, then Ursula's Return and Rise of the Floodborn at $126.00. Most expensive: The First Chapter at $436.84 — a first-set premium, priced as history — then Winterspell at $322.27 and Wilds Unknown at $317.01. Between those poles sit the argued-over sets: Hyperia City at $180.00, Fabled at $186.54, Archazia's Island at $186.42, and Whispers at $254.75.",
+          "Hold those numbers against the MSRP anchor: a Hyperia City box lists at $143.76 ($5.99 per pack), while our Hyperia case works out to $180.00 per box — $36.24 above MSRP. That is not a mistake in the arithmetic; it is what a sealed case costs when the set is under two weeks old and case supply is tight. The honest conclusion is that a buyer who wants one Hyperia box at list price should buy it at a local store, not as a quarter of our case. The reverse holds for Reign of Jafar: $115.86 per box, $27.90 below MSRP, is why older cases can be the best value on the shelf.",
+          "The Whispers caveat matters most. The third-party analysis behind its expected-value crown used a single box at roughly $110; our case prices the box at $254.75. Whispers still has the strongest card pool, but at case prices the EV crown is a reason to split a case, not to pay $1,019 alone. The same divide-first discipline runs through our [sealed case vs booster box breakdown](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The decision layer: seven sets, side by side",
+        "paragraphs": [
+          "Seven sets cover nearly every buyer; the money layer above carries the full shelf. Prices are our case prices as of November 3, 2026.",
+          "Read the table by buyer type: players scan the per-pack column, openers weigh chase against entry price, and sealed holders ask which set's sealed supply is thinnest relative to its nostalgia."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Case price",
+            "Per box",
+            "Per pack",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Reign of Jafar (Set 8)",
+              "$463.45",
+              "$115.86",
+              "$4.83",
+              "Cheapest entry; players and case-splitters"
+            ],
+            [
+              "Azurite Sea (Set 6)",
+              "$476.63",
+              "$119.16",
+              "$4.96",
+              "Budget play pool; second-cheapest box"
+            ],
+            [
+              "Hyperia City (Set 14)",
+              "$720",
+              "$180.00",
+              "$7.50",
+              "Newest set; sealed holders and current-format players"
+            ],
+            [
+              "Fabled (Set 9)",
+              "$746.16",
+              "$186.54",
+              "$7.77",
+              "Iconic rarity debut; balanced opener pick"
+            ],
+            [
+              "Whispers in the Well (Set 10)",
+              "$1,019",
+              "$254.75",
+              "$10.61",
+              "Strongest Legendary pool; split, do not solo"
+            ],
+            [
+              "Wilds Unknown (Set 12)",
+              "$1,268.02",
+              "$317.01",
+              "$13.21",
+              "Pixar debut chase; pay for the experience, not EV"
+            ],
+            [
+              "The First Chapter (Set 1)",
+              "$1,747.37",
+              "$436.84",
+              "$18.20",
+              "Sealed collectible only; never a value-per-pack buy"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other rankings miss: the case is the product",
+        "note": "From the Warehouse: the question we get most about Lorcana is not which set is best, it is whether we sell single boxes — and the answer is no, cases only. That single fact reorders every ranking: a set that looks cheap as a single box can be the most expensive case on the shelf, and a set nobody is talking about can be the cheapest box you can actually buy from us. We would rather lose the single-box sale than hide the case behind a box price we do not offer.",
+        "paragraphs": [
+          "Every top ranking shares the same blind spot: single boxes at single-box prices, with no sealed-case cost and no per-box price inside the case. One puts Wilds Unknown first on chase value, another puts Whispers first on expected value, a third walks through Hyperia City at MSRP — and a reader who takes any of them to a case-only store walks in with the wrong numbers. Our case prices invert those rankings: Wilds Unknown, the chase king, is $317.01 per box here, while Reign of Jafar, which no ranking headlines, is the cheapest box we sell.",
+          "The second gap is stock truth. Rankings assume every set is equally buyable. Ours is not a hypothetical shelf: all fourteen English sets are in stock as sealed cases as of November 3, 2026, plus a Japanese First Chapter case at $564.07 for fifteen boxes ($37.60 per box). That Japanese case belongs to a different buyer — someone collecting Japanese product, not building an English play pool — and the $37.60 number must not leak into an English comparison.",
+          "The third gap is the split. Nobody in the top three explains that a four-box case divided four ways is a single-box purchase at the case-derived price. With three friends, the case-only problem disappears: Reign of Jafar at $115.86 each, Azurite Sea at $119.16, Ursula's Return or Floodborn at $126.00. Splitting does not make an expensive set cheap — four ways, Whispers is still $254.75 a box — it only makes a case purchase possible."
+        ]
+      },
+      {
+        "h": "The risk layer: rotation, reprints, and the case trap",
+        "paragraphs": [
+          "Rotation is the risk players underestimate and collectors overestimate: Lorcana sets eventually leave Core Constructed legality, and trackers already mark Reign of Jafar as rotated out. That does not make Reign of Jafar worthless — its cards still play casually and still collect — but a competitive player buying it for events is buying the wrong set. Check the current legal list before paying, and weight sets from Fabled onward for competitive play.",
+          "Reprints are the quieter risk: a set that is expensive because it is scarce can get cheaper if supply returns, and a sealed case bought at a scarcity price can retrace on your shelf. The First Chapter at $436.84 per box carries this risk in its purest form: you are paying for first-set status, and status is the one value driver no reprint policy can promise to protect. The recovery is boring: never pay scarcity prices with money you need back on a date, and store sealed product properly — see our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/).",
+          "The case trap is specific to case-only buying: four boxes of a set you do not enjoy is not a bargain at any per-pack price. A $4.83 pack from a set whose games bore you is $4.83 spent on cardboard you will not play, so try the set before any case. Still choosing between games? [which TCG should you start](/blog/which-tcg-should-you-start/) compares Lorcana against Pokémon, One Piece, and Dragon Ball on rules and real first-box cost."
+        ]
+      },
+      {
+        "h": "Context: release order, the Iconic debut, and the Japanese exception",
+        "paragraphs": [
+          "The release order explains the price ladder — Ravensburger's own pages confirm the Whispers and Wilds Unknown dates; the rest are cross-checked across two trackers. Reign of Jafar arrived May 30, 2025; Fabled followed August 29, 2025, debuting the Iconic rarity above Enchanted; Whispers in the Well arrived November 14, 2025; Winterspell February 20, 2026; Wilds Unknown May 15, 2026, bringing Pixar characters in for the first time; Attack of the Vine July 17, 2026; and Hyperia City, set fourteen, went on sale everywhere October 23, 2026 after an October 16 prerelease. Older sets are generally cheaper per box here, except The First Chapter, priced as history, and mid-run sets whose chase cards still pull demand.",
+          "The Iconic debut changes how to read Fabled onward: before Fabled, Enchanted cards were the top chase; from Fabled on, Iconic cards sit above them, including the Wilds Unknown Buzz Lightyear Iconic, tracked around $3,500 at market. That is why Wilds Unknown tops chase-value rankings while losing on expected value: one extraordinary card does not make 24 packs a good investment, and a ranking built on ceilings will always flatter the set with the tallest spike. The Wilds Unknown Buzz Lightyear Iconic, tracked around $3,500, is a ceiling, not a reason to pay $317.01 a box for the chance to pull it.",
+          "The Japanese exception is easy to misread. Our Japanese First Chapter case holds fifteen boxes for $564.07 ($37.60 per box) — dramatically below any English per-box price — but Japanese boxes are configured differently, so the comparison does not transfer, and the buyer pool for Japanese product outside Japan is smaller and more specialist. It is a legitimate collectible for Japanese-product collectors, not a cheaper way to buy English Lorcana. If your question is really about buying from Japan, our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-box buyers who will not split a case: our stock will not serve you, and paying a four-box case price for one box's worth of interest is the worst version of this purchase. Second, chase-card hunters after one specific Enchanted or Iconic: buy the single instead of gambling on pull rates below one in 96 packs. Third, anyone stretching a budget for a case: the per-box bargain disappears the moment the purchase strains something essential.",
+          "Who this guide is for, restated: players who will use four boxes of one set, groups of up to four splitting, and sealed holders who understand a case is a multi-year position. If you are in one of those groups, the table above is your shortlist. If not, buy elsewhere in the format that fits — we would rather say that than sell you a case you regret."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: player, opener, sealed holder, or case-split group",
+          "Divide the case price by four for the per-box price, then by 24 for the per-pack price — never compare a case price to a box price",
+          "Check Core Constructed legality before buying any set older than Fabled for competitive play",
+          "If splitting, agree the split in writing before ordering: who gets which box, who pays what, who holds sealed extras",
+          "If buying Whispers for value, compare the $254.75 case-derived box against the ~$110 single-box price in the EV study — same cards, different entry",
+          "If buying Hyperia City, decide whether you are paying $36.24 above MSRP per box for newness or whether a local single box serves you better",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the Lorcana case checklist",
+        "paragraphs": [
+          "Run this before the next Lorcana case you consider. Ten minutes replaces a week of ranking articles with a decision built on your shelf's prices."
+        ]
+      }
+    ],
+    "slug": "best-disney-lorcana-booster-box-to-buy",
+    "takeaway": [
+      "The best Lorcana box on our shelf depends on the buyer, but the arithmetic does not: Reign of Jafar is cheapest at $115.86, Whispers carries the strongest card pool at $254.75 per box, and Hyperia City is newest at $180.00 — above MSRP, honestly stated. Divide every case before you believe any ranking, and let the per-box number choose the set.",
+      "Prices move, so treat every number here as stamped: our case prices as of November 3, 2026. When the next set arrives, divide first — case by boxes, box by packs — then ask whether the set is worth its per-pack price.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. Weighing Lorcana against another game? [which TCG should you start](/blog/which-tcg-should-you-start/) compares real first-box costs. And if a case lands and the seal starts calling, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment.",
+      "New to sealed buying? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience."
+    ]
+  },
+  "best-dragon-ball-fusion-world-booster-box": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "No. Our Fusion World stock is English sealed cases of twelve boxes, not Japanese single boxes and not English single boxes. A case divided by twelve is the per-box price: FB04 Ultra Limit at $1,279.26 a case is $106.61 per box, the cheapest mainline box on our shelf. For one English box, split a case; for Japanese boxes, you need a store that stocks Japanese product — we do not.",
+        "q": "Can I buy a single Fusion World booster box from this store?"
+      },
+      {
+        "a": "FB12 Reach the God, releasing in English on December 18, 2026, is the cheapest current case on a per-box basis among recent sets at $126.50 per box — but its case configuration is still listed as expected (twelve boxes, 24 packs each), so treat the per-pack figure as provisional until the set ships. FB11 Brightness of Hope, already out since October 16, 2026, is $212.75 per box. Newest is not cheapest here; FB12's pre-order case price undercuts FB11's live price by $86.25 per box.",
+        "q": "Should I buy FB11 or wait for FB12?"
+      },
+      {
+        "a": "The Manga Boosters are collector items first and player product second. SB01 at $26,910 a case ($2,242.50 per box) and SB02 at $9,522.14 a case ($793.51 per box) price every card as manga-panel art, not as game pieces. Buy them only if you collect the manga-art line specifically; for play, any mainline FB set gives you more game for a tenth of the price.",
+        "q": "Are the Manga Booster sets worth it for players?"
+      }
+    ],
+    "h1": "Best Dragon Ball Fusion World Booster Box to Buy",
+    "intro": [
+      "Short answer: the best Fusion World box on our shelf is the case with the best per-box price for your purpose — FB04 Ultra Limit at $106.61 per box for the cheapest mainline entry, FB12 Reach the God at $126.50 per box if you want the newest set on pre-order, and FB11 Brightness of Hope at $212.75 per box if you want the latest released set today. Every price below is our own live English sealed-case price as of November 3, 2026, divided by twelve boxes and then by 24 packs, so you can check it.",
+      "Who this is for: Fusion World players building a pool, groups splitting a twelve-box case, and sealed holders who want the real per-box cost across all twelve mainline sets. Who it is not for: anyone who wants a single box without splitting, anyone who wants Japanese boxes — we stock English cases only — and anyone buying a Manga Booster to play with, since those are priced as art objects."
+    ],
+    "metaDescription": "Best Dragon Ball Fusion World booster box to buy: real English case prices divided to per-box and per-pack across FB01-FB12, plus Manga math.",
+    "metaTitle": "Best Dragon Ball Fusion World Booster Box to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer: value, newest, and chase",
+        "paragraphs": [
+          "Fusion World buyers split three ways, and this shelf answers them sharply: the price spread is wider and the case is bigger — twelve boxes, not four. A player wants the cheapest playable packs, a new-set buyer wants the latest release without the newest-set premium, and a collector wants the sets whose sealed price already reflects scarcity. One ranking cannot serve all three.",
+          "For the player, the answer is [FB04 Ultra Limit](/product/dragon-ball-super-fusion-world-fb04-ultra-limit-booster-box-sealed-case-english/): $1,279.26 a case is $106.61 per box, the cheapest mainline box we sell, followed by FB02 at $111.08 and FB05 at $111.73. For the new-set buyer, the answer is [FB12 Reach the God](/product/dragon-ball-super-fusion-world-fb12-reach-the-god-booster-box-sealed-case-englis/): its pre-order case at $1,518 is $126.50 per box, undercutting the live FB11 price by $86.25 per box. For the collector, the answer is the expensive end — FB01 Awakened Pulse at $369.15 per box and FB09 Dual Evolution at $402.50 per box — where you are paying for scarcity and early-set status, not for packs to open.",
+          "The group buyer changes the arithmetic again. Twelve boxes split three ways is four boxes each; split four ways, three boxes each. An FB12 case split four ways costs each person $379.50 for three boxes — $126.50 per box, the same per-box price, but a commitment a solo buyer can actually make. Splitting does not make an expensive set cheap; it makes a twelve-box case purchasable — the whole case-buying discipline, applied to every game in our [sealed case vs booster box breakdown](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The money layer: all twelve mainline sets, divided",
+        "math": [
+          "FB12 Reach the God: $1,518 ÷ 12 boxes = $126.50 per box; $126.50 ÷ 24 packs = $5.27 per pack",
+          "FB11 Brightness of Hope: $2,553 ÷ 12 boxes = $212.75 per box; $212.75 ÷ 24 packs = $8.86 per pack",
+          "FB10 Cross Force: $2,333.57 ÷ 12 boxes = $194.46 per box; $194.46 ÷ 24 packs = $8.10 per pack",
+          "FB09 Dual Evolution: $4,830 ÷ 12 boxes = $402.50 per box; $402.50 ÷ 24 packs = $16.77 per pack",
+          "FB08 Saiyan's Pride: $2,450.08 ÷ 12 boxes = $204.17 per box; $204.17 ÷ 24 packs = $8.51 per pack",
+          "FB07 Wish for Shenron: $1,587 ÷ 12 boxes = $132.25 per box; $132.25 ÷ 24 packs = $5.51 per pack",
+          "FB06 Rivals Clash: $1,449.76 ÷ 12 boxes = $120.81 per box; $120.81 ÷ 24 packs = $5.03 per pack",
+          "FB05 New Adventure: $1,340.70 ÷ 12 boxes = $111.73 per box; $111.73 ÷ 24 packs = $4.66 per pack",
+          "FB04 Ultra Limit: $1,279.26 ÷ 12 boxes = $106.61 per box; $106.61 ÷ 24 packs = $4.44 per pack",
+          "FB03 Raging Roar: $1,587 ÷ 12 boxes = $132.25 per box; $132.25 ÷ 24 packs = $5.51 per pack",
+          "FB02 Blazing Aura: $1,332.92 ÷ 12 boxes = $111.08 per box; $111.08 ÷ 24 packs = $4.63 per pack",
+          "FB01 Awakened Pulse: $4,429.80 ÷ 12 boxes = $369.15 per box; $369.15 ÷ 24 packs = $15.38 per pack",
+          "SB02 Manga Booster 02: $9,522.14 ÷ 12 boxes = $793.51 per box; $793.51 ÷ 24 packs = $33.06 per pack",
+          "SB01 Manga Booster 01: $26,910 ÷ 12 boxes = $2,242.50 per box; $2,242.50 ÷ 24 packs = $93.44 per pack",
+          "FB12 vs FB11 gap: $212.75 − $126.50 = $86.25 cheaper per box on the FB12 pre-order case",
+          "Cheapest vs priciest mainline: $402.50 − $106.61 = $295.89 per box between FB09 and FB04",
+          "FB12 four-way split: $1,518 ÷ 4 = $379.50 per person for 3 boxes each"
+        ],
+        "paragraphs": [
+          "English Fusion World cases hold twelve boxes, each box holds 24 packs, each pack holds 12 cards — the configuration on our FB11 and FB12 case listings, and the standard English configuration. Store prices as of November 3, 2026. FB12's configuration is listed as expected until the set ships in December; every other figure below is a live case price.",
+          "The ladder has three tiers. The value tier — FB04 at $106.61, FB02 at $111.08, FB05 at $111.73, FB06 at $120.81, FB12 at $126.50 per box — is where players should shop, at about $5.00 a pack or less. The mid tier — FB03 and FB07 at $132.25, FB10 at $194.46, FB08 at $204.17, FB11 at $212.75 — is where recent-set demand lives. The scarcity tier — FB01 at $369.15 and FB09 at $402.50 — is where sealed supply, not play value, sets the price.",
+          "Two gaps decide real purchases. First, FB12 at $126.50 undercuts FB11 at $212.75 by $86.25 per box — the December pre-order is cheaper than the October live case, the opposite of the usual newest-set premium. Second, FB09 at $402.50 costs nearly four times FB04 at $106.61, and nothing in FB09's play value is four times FB04's; the difference is sealed scarcity, and a player who pays it for packs to open buys scarcity and then destroys it by opening. New to the game? Our [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) teaches the rules before you spend case money on them."
+        ]
+      },
+      {
+        "h": "The decision layer: six sets, side by side",
+        "paragraphs": [
+          "Six sets cover nearly every buyer, so the table keeps to six and the money layer above carries the full twelve. Prices are our case prices as of November 3, 2026; the verdict column states the honest shape of each set.",
+          "Read the table by buyer type. Players scan the per-pack column and stop under $5.00 a pack. New-set buyers compare FB12 against FB11 and notice newer is cheaper this time. Collectors ask what justifies the scarcity tier: early-set status for FB01, sealed tightness for FB09 — not play strength. The Manga Boosters are absent deliberately: at $793.51 and $2,242.50 per box, they are not comparable products, and putting them in a player table would mislead."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Case price",
+            "Per box",
+            "Per pack",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "FB04 Ultra Limit",
+              "$1,279.26",
+              "$106.61",
+              "$4.44",
+              "Cheapest mainline box; players first"
+            ],
+            [
+              "FB02 Blazing Aura",
+              "$1,332.92",
+              "$111.08",
+              "$4.63",
+              "Budget play pool; early-set cards cheap"
+            ],
+            [
+              "FB12 Reach the God (pre-order)",
+              "$1,518",
+              "$126.50",
+              "$5.27",
+              "Newest set; best new-set value"
+            ],
+            [
+              "FB07 Wish for Shenron",
+              "$1,587",
+              "$132.25",
+              "$5.51",
+              "Visual Parallel chase at a mid price"
+            ],
+            [
+              "FB11 Brightness of Hope",
+              "$2,553",
+              "$212.75",
+              "$8.86",
+              "Latest released set; SUPER Alt-Art Secrets"
+            ],
+            [
+              "FB09 Dual Evolution",
+              "$4,830",
+              "$402.50",
+              "$16.77",
+              "Sealed scarcity only; never a value open"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other guides miss: English cases, the full ladder, and the split",
+        "note": "From the Warehouse: the question we get most about Fusion World is whether we carry the Japanese boxes — and the answer is no, English cases only. That single fact reorders the whole market: the Japanese price guides quoting yen box prices describe a product we do not sell, and a buyer who takes a Japanese ranking to our shelf is comparing two different products. Our ladder above is English cases, divided, from our own prices — the only ranking that maps to what you can actually put in a cart here.",
+        "paragraphs": [
+          "The top guides share three gaps, each costing a buyer money. First, they rank Japanese boxes — one covers FB-01 to FB-10 in yen, another ranks by SNKRDUNK prices, a retailer page lists single English boxes at retail — and none gives the English sealed-case price for all twelve sets from one store, divided to per-box and per-pack. Our ladder above is that missing piece.",
+          "Second, none confronts the language split honestly. Japanese and English packs are configured differently — Bandai's official FB-01 pages list 6 cards per Japanese pack against 12 per English — so a Japanese box price and an English box price are not two prices for the same thing. A buyer comparing a ¥7,899 Japanese FB11 box to our $212.75 English box compares different pack counts and different buyer pools. If your question is really about buying from Japan, our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed.",
+          "Third, none explains the split. A twelve-box case is a group purchase wearing a single-buyer price tag. FB12 split four ways is $379.50 per person for three boxes; FB04 split four ways is $319.82. Those are purchasable numbers for a playgroup, where $1,279.26 and $1,518 are not — and the split is also the only sane way to touch the scarcity tier."
+        ]
+      },
+      {
+        "h": "The risk layer: pre-order promises, scarcity prices, and the wrong game",
+        "paragraphs": [
+          "FB12 carries the pre-order risk, stated plainly: its case configuration is listed as expected — twelve boxes, 24 packs, 12 cards — and its English date is December 18, 2026 — Bandai's official date — after the Japanese release on December 12. If the configuration changes or the date slips, the per-pack figure moves with it, so confirm the listing before paying and treat $5.27 per pack as provisional. Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/)'s first rule applies: pre-order the sets you would regret missing, wait on the rest.",
+          "Scarcity prices carry the second risk. FB01 at $369.15 and FB09 at $402.50 are priced on sealed supply, which can loosen — a case bought at a scarcity price can retrace on your shelf. The recovery is boring: never pay scarcity prices with money you need back on a date, and store sealed product properly (see our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/)). The Manga Boosters are the extreme case: SB01 at $2,242.50 per box is a bet on manga-art collectibility, never to be funded from a play budget.",
+          "The third risk is buying the wrong game. Fusion World is separate from the earlier Masters line, with its own card pool — FB boosters do not play with Masters cards. A buyer expecting compatibility has bought the wrong thing, and no per-box price fixes it. The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) covers the split before you spend, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Fusion World against Pokémon and One Piece if you are choosing between games."
+        ]
+      },
+      {
+        "h": "Context: twelve sets, two manga spinoffs, and the rarity ladder",
+        "paragraphs": [
+          "Fusion World launched in Japan on February 16, 2024, releasing a mainline booster roughly every quarter since: FB01 through FB12, plus two Manga Booster spinoffs and a story booster. FB11 reached Japanese shelves September 12, 2026 and English shelves October 16, 2026, with five Leaders, a Dragon Ball Legends collaboration, and SUPER Alt-Art versions of all Secret Rares. FB10 Cross Force arrived in June 2026 with the Vegito chase that dominated that summer. The Japanese guides' full set lists are worth reading alongside this guide — as long as you remember their prices are Japanese prices for Japanese product.",
+          "The rarity ladder prevents an expensive misunderstanding. There is no God Rare in Fusion World — that rarity belongs to the separate Masters and DIVERS lines. Fusion World's top tier runs SCR, then SCR★, then SCR★★ SUPER Alt-Art, and FB11's SUPER Alt-Art versions of every Secret Rare are its current expression. A buyer chasing a 'God Rare' here chases something that does not exist in this game; check the actual ladder before paying a premium for a rarity name.",
+          "The [FB12 set hub](/sets/fb12-reach-the-god/) tracks the December set as release approaches, and our [release calendar](/release-calendar/) carries the confirmed dates — worth bookmarking if FB12 is your set, because pre-order prices move as the date closes in."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-box buyers who will not split a case: we sell twelve-box cases, and a case bought for one box's interest is the worst version of this purchase. Second, Japanese-product buyers: our Fusion World shelf is English only, and no division here turns an English case into a Japanese box. Third, Manga Booster buyers funding play: SB01 and SB02 are art collectibles, and spending $793.51 or $2,242.50 per box to build a deck is the most expensive way to lose a game playable at $4.44 a pack.",
+          "Who this guide is for, restated plainly: players who will use twelve boxes of one set or a share of one, groups splitting a case, and sealed holders who understand that a case is a multi-year position. If you are in one of those groups, the ladder above is your shortlist. If you are not, buy the format that fits — a single box elsewhere, a starter deck, or singles — and come back to cases when the quantity matches the plan."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: player, new-set buyer, sealed holder, or case-split group",
+          "Divide the case price by twelve for the per-box price, then by 24 for the per-pack price — never compare a case price to a box price",
+          "If buying FB12, confirm the expected configuration (12 boxes, 24 packs, 12 cards) and the December 18, 2026 English date on the listing before paying",
+          "If splitting, agree the split in writing before ordering: boxes each, price each, who holds sealed extras",
+          "If buying FB01 or FB09, name the reason in one sentence: scarcity and early-set status, not play value — and fund it from a collection budget, not a play budget",
+          "If buying a Manga Booster, confirm you are collecting manga art, not building a deck",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the Fusion World case checklist",
+        "paragraphs": [
+          "Run this in order before the next Fusion World case you consider. It takes ten minutes and it replaces a shelf of Japanese price guides with a decision built on the English cases you can actually buy."
+        ]
+      }
+    ],
+    "slug": "best-dragon-ball-fusion-world-booster-box",
+    "takeaway": [
+      "The best Fusion World box on our shelf depends on the buyer, but the arithmetic does not: FB04 is the cheapest mainline box at $106.61, FB12 is the newest set and the best new-set value at $126.50 per box on pre-order, and FB11 is the latest released set at $212.75 per box. Divide every case by twelve before you believe any ranking, and let the per-box number, not the headline, choose the set.",
+      "Prices move, so treat every number here as stamped: our English case prices as of November 3, 2026. When FB12 ships in December, re-run the division — the pre-order price undercutting FB11 today may not survive contact with release week.",
+      "Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. If the seal starts calling once a case lands, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New to the game itself? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) teaches the rules before you spend case money on them, and [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with for every other set on the shelf. For the original Dragon Ball game, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all 13 Masters sealed cases per box and per pack."
+    ]
+  },
+  "best-dragon-ball-masters-booster-box-to-buy": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "Not from this shelf. The Warehouse sells Masters as sealed cases of 12 boxes, not as single boxes. The per-box figures on this page are case-split prices: buy a case, or split one with other buyers, and your box costs the case price divided by 12. A single box bought elsewhere costs far more: one US retailer lists a single B31 box at $449.99, against a $150.65 case-split box.",
+        "q": "Can I buy just one Dragon Ball Masters booster box?"
+      },
+      {
+        "a": "No. Masters is the original Dragon Ball Super Card Game line, running from the early B sets through the Zenkai era into the Ultra Bout and Masters sets B20 to B32. Fusion World is the newer reboot with its own FB and SB sets, its own rules, and its own card pool. The cards do not mix, so pick the game first and the set second.",
+        "q": "Is Dragon Ball Masters the same game as Fusion World?"
+      },
+      {
+        "a": "Only as a collector piece, never as a playing buy. At $9,315 a case, or $776.25 a box and $32.34 a pack on a case split, B27 costs more than seven times the cheapest case on this shelf. Its price is collector pricing on a Zenkai-era set, and no playing purpose justifies it when B25 offers the same game at $102.92 a box.",
+        "q": "Is the B27 History of Z case worth $9,315?"
+      }
+    ],
+    "h1": "Best Dragon Ball Masters Booster Box to Buy, Priced From the Case",
+    "intro": [
+      "Short answer: the cheapest Dragon Ball Masters box on the Warehouse shelf is a B25 Legend of the Dragon Balls case-split box at $102.92, or $4.29 per pack, while the best all-round current box is B32 Chromatic Ascension at $104.65 a box, or $4.36 per pack. The dearest case is B27 History of Z at $9,315, or $776.25 a box, and it is a collector piece, not a playing buy. Every price below is a Warehouse price as of November 3, 2026, divided so you can check it.",
+      "Who this is for: Dragon Ball Super Card Game players who play the Masters line, collectors completing the B20 to B32 run, and groups splitting a sealed case. Who it is not for: Fusion World players, who need the FB and SB sets instead, and anyone who wants exactly one box, since this shelf sells cases, not singles.",
+      "One fact shapes this whole guide: there is no single-box shelf for Masters here. The Warehouse stocks 13 sealed cases, each holding 12 boxes of 24 packs with 12 cards per pack, and every per-box figure below is a case price divided by 12. That is a different number from a single-box market price, and the guide says which is which wherever the two could be confused."
+    ],
+    "metaDescription": "Best Dragon Ball Masters booster box to buy: all 13 sealed cases from B20 to B32 priced per box and per pack, plus the B27 outlier explained.",
+    "metaTitle": "Best Dragon Ball Masters Booster Box to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The shelf: 13 cases, no singles, one game",
+        "paragraphs": [
+          "The Masters shelf holds 13 sealed cases and nothing else: B20 Power Absorbed through B32 Chromatic Ascension, skipping no number in between, each an English sealed case of 12 booster boxes. The case prices run from $1,235.10 for B25 Legend of the Dragon Balls to $2,140.36 for B20 Power Absorbed, with one extreme outlier in B27 History of Z at $9,315.00. Divided by 12, the per-box range is $102.92 to $178.36 excluding B27, and divided again by 24 packs, the per-pack range is $4.29 to $7.43 excluding B27. That is a tight, playable ladder with one collector spike on top of it, and the tightness is the point: for Masters, the set choice barely moves the price, so the choice should turn on the cards, not the cost.",
+          "Masters is the original Dragon Ball Super Card Game, and the B numbers are its spine. The early numbers here, B20 to B27, sit in the Zenkai era, where Z-Cards and new rarity tiers reshaped decks, and the later numbers, B28 to B32, run through the Masters and Ultra Bout era, where the game relaunched its set structure with new series numbering. A B32 box and a B20 box are the same game and the same configuration, 24 packs of 12 cards, but they hold different card pools from different eras, and an older pool does not slot into a newer deck without checking legality. The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) covers the other Dragon Ball game, and the difference between the two games is the first decision this guide asks you to make."
+        ]
+      },
+      {
+        "h": "The money layer: case divided by 12, box divided by 24",
+        "math": [
+          "B25 Legend of the Dragon Balls: $1,235.10 ÷ 12 boxes = $102.92 per box; $102.92 ÷ 24 packs = $4.29 per pack",
+          "B32 Chromatic Ascension: $1,255.80 ÷ 12 boxes = $104.65 per box; $104.65 ÷ 24 packs = $4.36 per pack",
+          "B28 Prismatic Clash: $1,276.50 ÷ 12 boxes = $106.38 per box; $106.38 ÷ 24 packs = $4.43 per pack",
+          "B26 Ultimate Advent: $1,353.30 ÷ 12 boxes = $112.77 per box; $112.77 ÷ 24 packs = $4.70 per pack",
+          "B24 Beyond Generations: $1,393.80 ÷ 12 boxes = $116.15 per box; $116.15 ÷ 24 packs = $4.84 per pack",
+          "B22 Critical Blow: $1,587.90 ÷ 12 boxes = $132.33 per box; $132.33 ÷ 24 packs = $5.51 per pack",
+          "B23 Perfect Combination: $1,621.50 ÷ 12 boxes = $135.12 per box; $135.12 ÷ 24 packs = $5.63 per pack",
+          "B30 Three Glorious Fighters: $1,671.02 ÷ 12 boxes = $139.25 per box; $139.25 ÷ 24 packs = $5.80 per pack",
+          "B21 Wild Resurgence: $1,690.50 ÷ 12 boxes = $140.88 per box; $140.88 ÷ 24 packs = $5.87 per pack",
+          "B29 Fearsome Rivals: $1,725.76 ÷ 12 boxes = $143.81 per box; $143.81 ÷ 24 packs = $5.99 per pack",
+          "B31 Impact Beyond Dimensions: $1,807.80 ÷ 12 boxes = $150.65 per box; $150.65 ÷ 24 packs = $6.28 per pack",
+          "B20 Power Absorbed: $2,140.36 ÷ 12 boxes = $178.36 per box; $178.36 ÷ 24 packs = $7.43 per pack",
+          "B27 History of Z: $9,315.00 ÷ 12 boxes = $776.25 per box; $776.25 ÷ 24 packs = $32.34 per pack",
+          "B27 premium over cheapest case: $9,315.00 ÷ $1,235.10 = 7.54 times the B25 case",
+          "One case in packs and cards: 12 boxes × 24 packs = 288 packs; 288 packs × 12 cards = 3,456 cards",
+          "B31 single-box market gap: $449.99 − $150.65 = $299.34 more for one loose box than a case-split box",
+          "B31 single-box ratio: $449.99 ÷ $150.65 = 2.99 times the case-split box"
+        ],
+        "paragraphs": [
+          "Per-pack cost is the honest unit, and on this shelf it barely moves: eleven of the thirteen cases land between $4.29 and $6.28 a pack, and only B20 at $7.43 steps clearly above the pack. Compare that with the single-box market, where one US retailer lists a single B31 box at $449.99, or $18.75 a pack, against the $6.28 case-split pack from the same set. The $299.34 gap between a loose box and a case-split box is the single most important number on this page, because it means a buyer who wants one Masters box and buys it loose pays three times the case-split price. The case is the product here, and the per-box figures are only real if you buy or split a case.",
+          "The B27 figure needs its own paragraph because it breaks the ladder. At $9,315 a case, B27 costs 7.54 times the cheapest case, and its $32.34 case-split pack costs more than the dearest normal pack by a factor of four. Nothing in the box configuration explains it: B27 holds the same 12 boxes, 24 packs, and 12 cards as every other case here. What explains it is collector demand on a Zenkai-era set with chase cards that grade into four figures, including a B27 Goku secret rare whose graded copies have sold in the thousands. That is collector pricing, and it belongs in a different budget from playing money. The [sealed case versus box math](/blog/sealed-case-vs-booster-box-the-math/) explains why case prices detach from box prices in general, and B27 is the extreme case of that detachment."
+        ]
+      },
+      {
+        "h": "The decision layer: which case for which buyer",
+        "paragraphs": [
+          "Read the table by your situation, not by price alone. Price picks the cheapest row; situation picks the right one."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Case price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Lowest cost per pack",
+              "B25 Legend of the Dragon Balls",
+              "$1,235.10",
+              "Cheapest case at $102.92 a box and $4.29 a pack"
+            ],
+            [
+              "Newest set, near-cheapest",
+              "B32 Chromatic Ascension",
+              "$1,255.80",
+              "Newest Masters set at $104.65 a box and $4.36 a pack"
+            ],
+            [
+              "Newest-era value",
+              "B28 Prismatic Clash",
+              "$1,276.50",
+              "First Masters-era set at $106.38 a box and $4.43 a pack"
+            ],
+            [
+              "Zenkai-era value",
+              "B26 Ultimate Advent",
+              "$1,353.30",
+              "Cheapest Zenkai-era case above B25 at $112.77 a box"
+            ],
+            [
+              "Fusion Warriors theme",
+              "B31 Impact Beyond Dimensions",
+              "$1,807.80",
+              "Fusion Warriors set at $150.65 a box; loose boxes cost far more"
+            ],
+            [
+              "Oldest set on the shelf",
+              "B20 Power Absorbed",
+              "$2,140.36",
+              "Earliest B number here at $178.36 a box; pay for age, not packs"
+            ],
+            [
+              "Collector only, never to play",
+              "B27 History of Z",
+              "$9,315.00",
+              "Collector pricing at $776.25 a box; no playing purpose justifies it"
+            ],
+            [
+              "Case split group",
+              "Any case B25 to B32 except B27",
+              "$1,235.10 to $2,140.36",
+              "Split 12 ways: each member takes boxes at the case-split price"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: buying a case, splitting a case, checking the game",
+        "paragraphs": [
+          "Buying a case is straightforward, and splitting one takes a plan. A case holds 12 identical boxes, so a split needs 12 buyers, or fewer buyers taking multiple boxes, and one person to hold the sealed case until it is divided. Agree the split before paying: who takes how many boxes, who pays the shipping share, and what happens to the case box itself, since an unopened case carries its own collector value that a split destroys. A group that cannot fill 12 boxes should not buy a case to open alone, because 288 packs is a collection, not an opening session, and the cards will sit while the budget recovers. The [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the shipping and customs leg of a Tokyo shipment before you commit to a four-figure case.",
+          "Two checks come before any Masters purchase. First, confirm the game: Masters cards and Fusion World cards do not mix, and a buyer who wants Fusion World must buy FB and SB sets, not B sets, no matter how good a B case price looks. Second, confirm the format: Masters spans several eras with different legality windows, so check the event or playgroup rules for the era you are buying into before paying case money. On arrival, check the case seal and each box before opening, using the [guide to spotting a resealed box](/blog/how-to-tell-if-a-booster-box-is-resealed/), because a tampered case turns twelve boxes into loose packs. If the case is for a shelf, the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe, and the [open-or-keep-sealed framework](/blog/should-you-open-or-keep-sealed-booster-box/) is the decision to make before the first box comes out."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the case-only shelf, the loose-box gap, and Masters versus Fusion World",
+        "note": "Warehouse Note: the question we get most about Dragon Ball is not which set is strongest, it is whether the Masters boxes and the Fusion World boxes are the same game. They are not, and the confusion costs real money: a buyer who orders a B case expecting Fusion World cards has bought twelve boxes of the wrong game. Every Masters listing here says Masters in its name for exactly that reason, and this guide repeats it because the search results mix the two games freely.",
+        "paragraphs": [
+          "The top guides share three gaps. First, they price loose boxes, not cases: retailer listings put a single B31 box near $450, a single B29 box near $250 on resale, and a Fusion World box near its own market price, and none of them tells a buyer what twelve boxes cost from one store. On this shelf, the B31 case-split box is $150.65, less than a third of the loose-box listing, and that gap is the buying decision. Second, none of them states the case-only truth plainly: this store sells Masters by the case, so a buyer who wants one box must split a case or pay the loose-box premium elsewhere, and a guide that never says so has priced a product the reader cannot buy as listed. Third, none of them separates Masters from Fusion World cleanly: search results interleave B sets, FB sets, and SB sets as one Dragon Ball shelf, while the games have different rules, different card pools, and different legality. The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) is the Fusion World starting point, and this guide is the Masters one, and the two should never be read as one shelf.",
+          "The pack-count trap is the fourth gap, and it is specific to Dragon Ball. Fusion World boxes hold 24 packs of 12 cards, Masters boxes hold 24 packs of 12 cards, and older Dragon Ball products held different counts, so a buyer carrying a number from another era will misprice every box. The configuration on this page, 12 boxes per case, 24 packs per box, 12 cards per pack, is confirmed on the store's own B31 case page, and it holds across the B20 to B32 cases here. The [how many packs in a booster box guide](/blog/how-many-packs-in-a-booster-box/) covers the counts across games, and it is worth checking before trusting any pack count from memory."
+        ]
+      },
+      {
+        "h": "The risk layer: era legality, the B27 trap, and the 288-pack commitment",
+        "paragraphs": [
+          "Era legality is the biggest risk on the playing side. Masters has run for years across eras, and an older B set may not be legal in the format a playgroup or event uses, while a newer set may lack the cards an older deck needs. The recovery is research before payment: confirm the era, confirm the format, and only then commit case money. The second risk is the B27 trap, and it is psychological: a buyer who sees one $9,315 case beside twelve $1,200 to $2,100 cases can mistake the outlier for the standard and either overpay for B27 or talk themselves out of Masters entirely. B27 is not the standard; it is the exception, and the standard case costs $1,235 to $2,140. The third risk is the 288-pack commitment itself: a case is 3,456 cards, and opening it for value is a losing proposition in the same way it is for every game, since the chase cards sit in a small fraction of packs. Open a case to play, to build, or to share, never to profit, and never let one expensive case become the whole hobby budget.",
+          "Fakes and reseals deserve one line at case scale: a tampered case is twelve boxes of damage, not one, so the seal check on arrival matters twelve times as much. The reseal guide linked above is the pre-opening check, and a case that fails it should be reported before any box is opened, not after."
+        ]
+      },
+      {
+        "h": "Context: Masters, Zenkai, and Fusion World in time",
+        "paragraphs": [
+          "Masters began as the Dragon Ball Super Card Game and grew through numbered B sets, with the Zenkai series adding Z-Cards and new mechanics in the B20s, and the Masters and Ultra Bout relaunch carrying the numbering into B28 through B32. Fusion World arrived later as a separate game with faster play, its own FB sets from FB01 Awakened Pulse through FB12 Reach the God, and its own SB manga booster sets, and it now runs alongside Masters rather than replacing it. A buyer choosing between them is choosing a game, not a set: Masters rewards the long collection and the deep card pool, Fusion World rewards the newer, faster format, and the [which TCG should you start guide](/blog/which-tcg-should-you-start/) compares Dragon Ball against Pokemon, One Piece, and Lorcana on rules and first-purchase cost. In time, the B20 to B32 run covers the Zenkai era into the current Masters era, and the case prices reflect that span: the oldest case here, B20, costs the most among the normal cases at $178.36 a box, while the newest, B32, costs near the least at $104.65, because sealed supply, not age alone, sets the price. Buy the era you will play, not the era you remember."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, Fusion World players: buy FB and SB sets, not B sets, and start from the Fusion World guide linked above. Second, buyers who want exactly one box and will not split a case: the loose-box market is your route, and you should budget near $450 for a B31-class box rather than the $150.65 case-split figure, which you cannot buy alone. Third, investors who need the money back on a date: Masters cases are bulky, era-exposed, and slow to exit, and B27 at $9,315 is the warning against treating a case as a portfolio. Who this guide is for, restated: Masters players, B-set collectors, and case-split groups who will divide by 12 and then by 24 before they pay."
+        ]
+      },
+      {
+        "checklist": [
+          "Confirm the game first: Masters B sets are not Fusion World FB and SB sets",
+          "Confirm the era and format rules before paying case money",
+          "Form the split before buying: 12 boxes need 12 buyers or fewer buyers taking multiples",
+          "Divide every case by 12 for the box price, then by 24 for the pack price",
+          "Never pay loose-box prices for a case-split box, and never expect a case-split price alone",
+          "Treat B27 as a collector piece: $776.25 a box is not a playing price",
+          "Check the case seal and each box on arrival using the reseal guide",
+          "Decide open or sealed before the first box comes out, and never open a case expecting profit"
+        ],
+        "h": "Action layer: the Masters case checklist",
+        "paragraphs": [
+          "Run this before paying. It takes five minutes and it replaces a shelf of loose-box listings with a decision built on the 13 cases one store will actually sell you."
+        ]
+      }
+    ],
+    "slug": "best-dragon-ball-masters-booster-box-to-buy",
+    "takeaway": [
+      "The best Dragon Ball Masters booster box is a case-split box, because that is the only way this shelf sells them. A player on a budget takes B25 at $102.92 a box and $4.29 a pack. A player who wants the newest set takes B32 at $104.65 a box and $4.36 a pack. A group splits any case from B25 to B32 except B27 and pays the case-split price each. B27 at $776.25 a box is for collectors only. Divide by 12, then by 24, and let the arithmetic choose.",
+      "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next Masters set arrives, divide the case first, check the game second, and ask whether you are buying a case, a split, or a loose box, because that one fact changes what the price buys.",
+      "Still deciding between the two Dragon Ball games? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) is the other game's starting point, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Dragon Ball against the other games on this store. If the case is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe."
+    ]
+  },
+  "best-english-one-piece-booster-box-to-buy": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "The OP-12 Legacy of the Master box at $162.56, which works out to $6.77 per pack across its 24 packs. It is the cheapest English box on this shelf, and unlike the premium and extra boosters, its pack count is the standard 24 packs of 12 cards, so the per-pack figure is solid.",
+        "q": "What is the cheapest English One Piece booster box on this shelf?"
+      },
+      {
+        "a": "No. The Warehouse box is explicitly a 1st-print white-bottom box at $555.45, and the blue-bottom first-wave boxes are the ones market guides price in four figures. A white-bottom box is a later print of the same set, not the blue-bottom collector piece. Buy the white-bottom box to open or to hold the set, not to own the blue-bottom grail.",
+        "q": "Is the OP-01 white-bottom box the same as the expensive blue-bottom box?"
+      },
+      {
+        "a": "On this shelf, yes, for the sets where both exist: the OP-16 case splits to $160.93 a box against $215.05 for a single box, OP-12 splits to $138.93 against $162.56, and OP-17 splits to $178.64 against $212.09. A case is 12 boxes, so the split only makes sense if you will open, hold, or share all 12, or split them with other buyers.",
+        "q": "Is buying a sealed case cheaper per box than buying single boxes?"
+      }
+    ],
+    "h1": "Best English One Piece Booster Box to Buy, Priced Per Pack",
+    "intro": [
+      "Short answer: the cheapest English One Piece box on the Warehouse shelf is OP-12 Legacy of the Master at $162.56, or $6.77 per pack, while the best all-round new box is OP-17 The World's Strongest Warriors at $212.09, or $8.84 per pack. The most expensive box here is EB-01 Memorial Collection at $790.60, and the famous OP-01 Romance Dawn box at $555.45 is a white-bottom print, not the four-figure blue-bottom grail. Every price below is a Warehouse price as of November 3, 2026, divided so you can check it.",
+      "Who this is for: English-speaking players and collectors who want the English card pool, buyers choosing between the 22 English boxes on one shelf, and anyone deciding between a single box and a sealed case. Who it is not for: buyers who want the cheapest One Piece product in any language, since Japanese boxes run far lower, and buyers chasing one specific manga rare, who should buy the single card instead of a box.",
+      "One warning before the numbers: two formats on this shelf do not divide the same way. The 17 main-set OP boxes and the EB-01 and EB-03 extra boosters are 24 packs of 12 cards, so per-pack math is exact. The two PRB premium boosters print a per-pack price but no packs-per-box figure, so this guide prices them per box only and says so, rather than inventing a division."
+    ],
+    "metaDescription": "Best English One Piece booster box to buy: all 22 boxes on the Warehouse shelf priced per pack, case-split prices, and the white-bottom OP-01 trap.",
+    "metaTitle": "Best English One Piece Booster Box to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The shelf: 22 boxes in three formats",
+        "paragraphs": [
+          "The English shelf holds 22 booster boxes: 17 numbered main-set boxes from OP-01 Romance Dawn through OP-17 The World's Strongest Warriors, three extra boosters in EB-01 Memorial Collection, EB-02 Anime 25th Collection, and EB-03 Heroines Edition, and two premium boosters in PRB-01 The Best and PRB-02 The Best Vol. 2. The main-set boxes run from $162.56 for OP-12 to $722.10 for OP-03, the extra boosters from $246.00 for EB-03 to $790.60 for EB-01, and the premium boosters at $541.95 for PRB-01 and $230.92 for PRB-02. That is a $628.04 spread from the cheapest box to the dearest, and the spread is the story: English One Piece is not one price, it is a ladder, and where you step on it decides what you get.",
+          "The three formats are not interchangeable. A main-set box is the standard release: a full set of new cards, 24 packs of 12 cards, built for play and for opening. An extra booster is a smaller themed release that slots between main sets: EB-01 collects memorial cards, EB-02 collects anime-illustrated cards, and EB-03 collects heroines, each with a smaller card pool than a main set. A premium booster is a reprint collection: PRB-01 and PRB-02 gather the best cards from earlier sets with new parallel treatments, so they are for collectors who missed the originals, not for players chasing a new meta. The [guide to building your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) explains which of these actually helps a new deck, and the [One Piece colors guide](/blog/one-piece-card-game-colors-explained/) explains what the leaders inside them do."
+        ]
+      },
+      {
+        "h": "The money layer: per pack, per box, against MSRP",
+        "math": [
+          "OP-12 Legacy of the Master: $162.56 ÷ 24 packs = $6.77 per pack",
+          "OP-10 Royal Blood: $179.34 ÷ 24 packs = $7.47 per pack",
+          "OP-17 The World's Strongest Warriors: $212.09 ÷ 24 packs = $8.84 per pack",
+          "OP-16 The Time of Battle: $215.05 ÷ 24 packs = $8.96 per pack",
+          "OP-15 Adventure on Kami's Island: $266.52 ÷ 24 packs = $11.10 per pack",
+          "OP-14 The Azure Sea's Seven: $271.39 ÷ 24 packs = $11.31 per pack",
+          "OP-08 Two Legends: $303.90 ÷ 24 packs = $12.66 per pack",
+          "OP-13 Carrying On His Will: $310.50 ÷ 24 packs = $12.94 per pack",
+          "OP-07 500 Years in the Future: $438.10 ÷ 24 packs = $18.25 per pack",
+          "OP-02 Paramount War: $485.47 ÷ 24 packs = $20.23 per pack",
+          "OP-11 A Fist of Divine Speed: $486.65 ÷ 24 packs = $20.28 per pack",
+          "OP-09 Emperors in the New World: $539.72 ÷ 24 packs = $22.49 per pack",
+          "OP-01 Romance Dawn (white bottom): $555.45 ÷ 24 packs = $23.14 per pack",
+          "OP-06 Wings of the Captain: $588.62 ÷ 24 packs = $24.53 per pack",
+          "OP-05 Awakening of the New Era: $621.00 ÷ 24 packs = $25.88 per pack",
+          "OP-04 Kingdoms of Intrigue: $674.49 ÷ 24 packs = $28.10 per pack",
+          "OP-03 Pillars of Strength: $722.10 ÷ 24 packs = $30.09 per pack",
+          "EB-03 Heroines Edition: $246.00 ÷ 24 packs = $10.25 per pack",
+          "EB-01 Memorial Collection: $790.60 ÷ 24 packs = $32.94 per pack",
+          "Bandai MSRP box equivalent: $4.99 per pack × 24 packs = $119.76 per box",
+          "OP-12 premium over MSRP box: $162.56 − $119.76 = $42.80",
+          "OP-17 premium over MSRP box: $212.09 − $119.76 = $92.33",
+          "OP-05 premium over MSRP box: $621.00 − $119.76 = $501.24",
+          "Full shelf spread: $790.60 − $162.56 = $628.04 from cheapest to dearest box",
+          "EB-01 versus OP-12: $790.60 ÷ $162.56 = 4.86 times the cheapest box"
+        ],
+        "paragraphs": [
+          "Per-pack cost is the only honest unit, because every main-set box holds the same 24 packs. The cheapest pack on the shelf is OP-12 at $6.77, and the dearest main-set pack is OP-03 at $30.09, which is more than four times the OP-12 pack for the same count of cards. The gap is age and print status, not card count: OP-12 is a recent set still in healthy supply, while OP-03 is an older set whose sealed supply has thinned. A buyer who wants packs to open should start at the bottom of the ladder and climb only for a reason, because the cards inside a $30 pack are not four times better than the cards inside a $7 pack.",
+          "Bandai's own MSRP puts the comparison in perspective. For main sets from OP-11 onward and for extra boosters EB-02, EB-03, and EB-05, Bandai prints $4.99 per pack, which is $119.76 for a 24-pack box. Every English box on this shelf sits above that figure, from OP-12 at $42.80 over the MSRP box to OP-05 at $501.24 over it. That premium is the sealed-market markup on out-of-print and in-demand English product, and it is the reason this guide divides instead of quoting headlines: a box that looks reasonable at $212 is $92 over its MSRP box, and a box that looks steep at $621 is $501 over it. The [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) prices the Japanese side of the same sets, where the same OP-17 box costs far less, which is the right comparison for any buyer who does not need English text."
+        ]
+      },
+      {
+        "h": "The decision layer: which box for which buyer",
+        "paragraphs": [
+          "Read the table by your situation, not by price alone. Price picks the cheapest row; situation picks the right one."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Lowest cost per pack",
+              "OP-12 Legacy of the Master",
+              "$162.56",
+              "Cheapest box and cheapest pack at $6.77; a recent set in healthy supply"
+            ],
+            [
+              "Newest cards, fair price",
+              "OP-17 The World's Strongest Warriors",
+              "$212.09",
+              "Newest main set on the shelf at $8.84 per pack; current card pool"
+            ],
+            [
+              "Newest cards, lowest cost",
+              "OP-16 The Time of Battle",
+              "$215.05",
+              "One set back from newest at $8.96 per pack; nearly the OP-17 price"
+            ],
+            [
+              "Heroines collector",
+              "EB-03 Heroines Edition",
+              "$246.00",
+              "All-female lineup with the Vivi leader debut at $10.25 per pack"
+            ],
+            [
+              "Reprint collector on a budget",
+              "PRB-02 The Best Vol. 2",
+              "$230.92",
+              "Best-of reprints at the lowest premium-box price; no per-pack claim made"
+            ],
+            [
+              "Gear 5 Luffy chaser",
+              "OP-05 Awakening of the New Era",
+              "$621.00",
+              "The manga Gear 5 set at $25.88 per pack; buy knowing the premium"
+            ],
+            [
+              "Set completist, oldest set",
+              "OP-01 Romance Dawn (white bottom)",
+              "$555.45",
+              "The founding set at $23.14 per pack; white bottom, not blue bottom"
+            ],
+            [
+              "Do not buy to open",
+              "EB-01 Memorial Collection",
+              "$790.60",
+              "Dearest box at $32.94 per pack; a collector piece, not an opening buy"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: from shelf to sealed box in hand",
+        "paragraphs": [
+          "Buy in this order: format, then set, then print. Format first, because a premium booster will not build a current deck and an extra booster will not complete a main set. Set second, because the per-pack ladder above is the real choice: OP-12, OP-10, OP-17, and OP-16 are the four cheapest packs, and everything above $12 a pack needs a specific reason, like a character, a leader, or a set you are completing. Print third, and only for OP-01: check the bottom of the box. The Warehouse box is listed as 1st-print white bottom, which is a later print run, and it must not be bought at blue-bottom prices. Market guides put blue-bottom and later-wave OP-01 boxes in four figures, which is exactly why the white-bottom distinction is worth $800 or more of care.",
+          "Two practical facts catch overseas buyers. First, English boxes on this shelf ship from Tokyo, so the shipping and customs leg is part of the real cost, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices that leg before you pay. Second, a sealed box is only sealed once: check the wrap and the box condition on arrival before opening, because a reseal turns a $621 box into loose packs, and the [guide to spotting a resealed box](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what to look for. If the box is for a shelf rather than a table, the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe, and the [open-or-keep-sealed framework](/blog/should-you-open-or-keep-sealed-booster-box/) is the way to decide before the wrap comes off."
+        ]
+      },
+      {
+        "h": "What the other guides miss: a buyable shelf, the white-bottom trap, and the PRB gap",
+        "note": "Warehouse Note: the question we get most about English One Piece boxes is not which set is best, it is whether the OP-01 box on the shelf is the expensive one from the videos. It is not, and the listing says so in plain words: 1st-print white bottom. A guide that quotes a four-figure OP-01 price next to a $555 box without explaining the print difference has set a buyer up to overpay or to feel cheated, and neither outcome helps anyone.",
+        "paragraphs": [
+          "The top guides share three gaps. First, they quote market prices, not a shelf: one guide lists TCGplayer market prices from October 2026, another ranks sets by chase cards and graded values, and neither tells the reader what one store will actually sell them today. On this shelf, OP-05 is $621.00 against a TCGplayer market price of $1,053.09 from October 11, 2026, while OP-03 is $722.10 against a market price of $506.41 on the same date, so the Warehouse is cheaper on one famous set and dearer on another, and only a shelf price shows which. Second, none of them states the white-bottom distinction next to the OP-01 price: the founding set's blue-bottom first wave is a collector grail, the white-bottom box is a later print, and the two must never share one price. Third, none of them admits the PRB pack-count gap: Bandai prints a $5.49 per-pack price for PRB-02 but no packs-per-box figure, so any guide that divides a PRB box into a per-pack price has invented its divisor. This guide prices PRB-01 at $541.95 and PRB-02 at $230.92 per box and stops there, because an honest gap beats a fabricated division.",
+          "The case question is the fourth gap, and it favors the buyer here. The [sealed case versus box math](/blog/sealed-case-vs-booster-box-the-math/) warns that a case sometimes costs more per box than singles, but on this English shelf the reverse holds wherever both exist: the OP-16 case splits to $160.93 a box against $215.05 single, OP-12 splits to $138.93 against $162.56, OP-17 splits to $178.64 against $212.09, and OP-10 splits to $133.00 against $179.34. The [OP-18 preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) covers the next set, whose English case already splits to $139.23 a box, which is the cheapest per-box figure on the coming shelf."
+        ]
+      },
+      {
+        "h": "The risk layer: reprints, reseals, and the opened-box return",
+        "paragraphs": [
+          "Reprint risk is the biggest risk on the dear end of the ladder. English One Piece has been reprinted before, and a reprint announcement collapses the premium on the reprinted set while leaving the rest of the ladder alone. The $501.24 premium sitting on OP-05 is the most exposed money on this page: it survives only while OP-05 stays out of print. The second risk is the opened-box return, and it is brutal for this game: a November 2026 box-value study found a typical opened One Piece box returns only about 22 percent of its sealed price, which means a $212 OP-17 box opened for value typically yields about $47 of cards. Open to play, to collect, or for the experience, never to profit, and never open EB-01 at $790.60 expecting the cards to cover the box. The third risk is fakes and reseals at the top of the ladder, where the margin rewards tampering: the [fake One Piece card guide](/blog/how-to-spot-fake-one-piece-cards/) and the reseal guide above are the pre-opening checks, and a box that fails either check should not be opened at all.",
+          "Recovery in every case is the same discipline: buy the cheaper box next time. If a reprint hits a set you hold sealed, the sealed box is still a complete set of packs, and the loss is only realized if you sell into the dip. If an opening disappoints, the fix is not another box at the same price, it is dropping down the ladder to OP-12 or OP-10 packs until the hobby budget recovers. Sealed product rewards patience and punishes chasing, and the ladder above is built to make patience the easy choice."
+        ]
+      },
+      {
+        "h": "Context: English versus Japanese, and where the sets sit in time",
+        "paragraphs": [
+          "English and Japanese One Piece are the same game in different print runs, and the differences are price, text, and timing. English boxes cost more because the English print runs are smaller and the sealed market is deeper: the same OP-17 set that costs $212.09 in English sits far lower in Japanese on the same store, and the Japanese boxes carry Japanese text. English sets also trail the Japanese release by months: OP-17 reached Japan in August 2026 and English shelves on August 28, 2026, while OP-18 is dated November 20, 2026 in English against November 21, 2026 in Japan, a rare near-simultaneous release. A player who needs English text for local events pays the English premium; a collector who reads art rather than text does not, and the [Japanese versus English Pokemon comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) makes the same price-versus-text argument for the other big game on this store.",
+          "In time, the ladder runs from OP-01 in December 2022 through OP-17 in August 2026, with the extra boosters interleaved: EB-01 in May 2024, EB-02 in the 25th-anniversary year, and EB-03 in February 2026. The oldest sets carry the largest premiums because their sealed supply is gone, not because their cards play better: OP-03 at $30.09 a pack and OP-04 at $28.10 a pack are history purchases, while OP-12 at $6.77 a pack and OP-10 at $7.47 a pack are playing purchases. Buy history with history money and play with play money, and never confuse the two."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, buyers who want the lowest price in any language: buy Japanese boxes instead, accept Japanese text, and use the Japanese buying guide linked above. Second, buyers chasing one specific card: a box is the worst route to a single card at every price on this page, and the manga rares that headline the rankings sit in a tiny fraction of boxes, so buy the single. Third, investors who need the money back on a date: sealed English boxes are volatile, reprint-exposed, and slow to exit, and the 22 percent typical opened return above is the warning against treating them as a portfolio. Who this guide is for, restated: English players, English collectors, and case splitters who will divide the arithmetic before they pay."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick format first: main set for play, extra booster for a theme, premium booster for reprints",
+          "Start at the bottom of the per-pack ladder: OP-12 at $6.77, OP-10 at $7.47, OP-17 at $8.84",
+          "Above $12 a pack, name the reason: a character, a leader, or a set you are completing",
+          "For OP-01, read the print: white bottom is a later print, never pay blue-bottom prices for it",
+          "For PRB boxes, accept the box price: no honest per-pack figure exists without a pack count",
+          "Compare case versus single where both exist: the case splits cheaper on this shelf",
+          "Check wrap and box condition on arrival before opening, using the reseal guide",
+          "Decide open or sealed before the wrap comes off, and never open EB-01 expecting profit"
+        ],
+        "h": "Action layer: the English One Piece box checklist",
+        "paragraphs": [
+          "Run this before paying. It takes five minutes and it replaces a shelf of market-price rankings with a decision built on the 22 boxes one store will actually sell you."
+        ]
+      }
+    ],
+    "slug": "best-english-one-piece-booster-box-to-buy",
+    "takeaway": [
+      "The best English One Piece booster box is the one that matches your budget and your reason. A player on a budget buys OP-12 at $162.56 and gets the cheapest pack on the shelf at $6.77. A player who wants the newest cards buys OP-17 at $212.09 at $8.84 a pack. A collector buys EB-03 for the heroines at $246.00 or PRB-02 for reprints at $230.92, and a history buyer buys OP-01 white bottom at $555.45 knowing exactly which print it is. Divide by 24, compare against the $119.76 MSRP box, and let the arithmetic choose.",
+      "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next English set arrives, divide first, check the print second, and ask whether the box is a main set, an extra booster, or a premium booster, because that one fact changes what the price buys.",
+      "Still deciding between English and Japanese? The [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) prices the Japanese shelf, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the shipping leg. If the box is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe."
+    ]
+  },
+  "best-japanese-one-piece-booster-box-to-buy": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "OP-15 Adventure on KAMI's Island at $69.48. A standard Japanese One Piece box holds 24 packs, so $69.48 ÷ 24 = $2.90 per pack, the lowest per-pack rate on the Japanese shelf as of November 3, 2026. The next cheapest are OP-18 on pre-order at $3.50 per pack and EB-04 at $3.79 per pack.",
+        "q": "What is the cheapest Japanese One Piece booster box per pack?"
+      },
+      {
+        "a": "For collecting and for reading the cards as printed, Japanese boxes are cheaper per pack across this whole shelf, and the Japanese shelf is far deeper: 24 boxes against a much smaller English range. For official play outside Asia, Japanese cards are not legal at most Bandai tournaments, so an English box is the correct buy even though it costs more per pack. Buy Japanese for the collection, English for the event.",
+        "q": "Japanese or English One Piece boxes — which should I buy?"
+      },
+      {
+        "a": "Only after dividing. Most Japanese One Piece cases on this shelf cost the same per box as buying singly, and eleven of them cost more per box than the single box. The two real case bargains are OP-02, which saves $40.97 per box inside its case, and OP-03, which saves $35.13 per box. Every other case on this page saves $8.50 or less, or nothing at all.",
+        "q": "Is a Japanese One Piece sealed case cheaper than buying boxes?"
+      }
+    ],
+    "h1": "The Best Japanese One Piece Booster Box, Settled Across the Whole Shelf",
+    "intro": [
+      "The cheapest Japanese One Piece box on the Warehouse shelf as of November 3, 2026 is OP-15 at $69.48, or $2.90 per pack, and the newest box, OP-18 on pre-order, is second-cheapest at $84, or $3.50 per pack. The dearest is the first set, OP-01 Romance Dawn, at $238.45, or $9.94 per pack. The surprise in this guide is not the box ranking but the case ranking: most Japanese One Piece cases on this shelf cost about the same per box as buying singly, and eleven of them cost more, so the case decision needs its own division on every set.",
+      "This guide prices all 24 Japanese One Piece booster boxes the Warehouse stocks, from OP-01 through OP-18 plus the four Extra Boosters and the two Premium Boosters, at Warehouse prices as of November 3, 2026. A standard Japanese One Piece box holds 24 packs of 6 cards each. That structure is what makes the per-pack column below honest for the main sets. Two exceptions are stated plainly where they apply: the Extra Booster per-pack figures use the 24-pack box shown in retail listings, because the Japanese product pages print no packs-per-box figure for EB-01 through EB-03, and the Premium Boosters are priced per box only, because Bandai prints no packs-per-box figure for PRB at all."
+    ],
+    "metaDescription": "All 24 Japanese One Piece boxes priced per pack from one store: OP-15 cheapest at $2.90, OP-01 dearest at $9.94, and the case trap eleven sets hide.",
+    "metaTitle": "Best Japanese One Piece Booster Box to Buy, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The whole shelf, priced",
+        "paragraphs": [
+          "Start with the main line, OP-01 through OP-18, because that is where most buyers land and where the price spread is widest. The cheapest end of the ladder is the recent sets: the [OP-15 Adventure on KAMI's Island box](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) at $69.48, the [OP-18 pre-order box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) at $84, and the [OP-16 The Time of Battle box](/product/op-16-the-time-of-battle-booster-box-japanese-one-piece-card/) at $105. The dearest end is the early sets, and the climb is steep: OP-02 at $206.42 and OP-01 at $238.45, more than triple the OP-15 box price for the same 24 packs. Age, not contents, sets most of that gap. The first sets are the foundation of the game, and sealed supply of the earliest printings is what the price is actually measuring.",
+          "The middle of the ladder is where the buying decisions live. Three boxes sit at exactly $98.26: OP-14, OP-10, and OP-08, all at $4.09 per pack. That flat price across three different sets is a useful anchor: if a buyer wants a mid-priced box and has no set preference, any of the three costs the same per pack, so the choice becomes theme and chase cards rather than money. Above them, OP-13 at $135 and OP-12 at $129.79 sit close together, and OP-11 at $181.21 and OP-09 at $175.78 form a dearer pair. The [OP-17 World's Strongest Warriors box](/product/op-17-the-worlds-strongest-warriors-booster-box-japanese-one-piece-card/) at $121.28 is the anniversary set, still carrying a premium over its neighbours. None of this is visible from box prices alone, which is why the per-pack column is the column that matters. A box is 24 packs, and packs are what get opened."
+        ],
+        "table": {
+          "head": [
+            "Main set",
+            "Box price",
+            "Per pack (24 packs)"
+          ],
+          "rows": [
+            [
+              "OP-15 Adventure on KAMI's Island",
+              "$69.48",
+              "$2.90"
+            ],
+            [
+              "OP-18 The Dominance of God (pre-order)",
+              "$84.00",
+              "$3.50"
+            ],
+            [
+              "OP-16 The Time of Battle",
+              "$105.00",
+              "$4.38"
+            ],
+            [
+              "OP-17 World's Strongest Warriors",
+              "$121.28",
+              "$5.05"
+            ],
+            [
+              "OP-13 Carrying on His Will",
+              "$135.00",
+              "$5.63"
+            ],
+            [
+              "OP-12 Legacy of the Master",
+              "$129.79",
+              "$5.41"
+            ],
+            [
+              "OP-14 Azure Sea's Seven",
+              "$98.26",
+              "$4.09"
+            ],
+            [
+              "OP-10 Royal Blood",
+              "$98.26",
+              "$4.09"
+            ],
+            [
+              "OP-08 Two Legends",
+              "$98.26",
+              "$4.09"
+            ],
+            [
+              "OP-07 500 Years in the Future",
+              "$134.32",
+              "$5.60"
+            ],
+            [
+              "OP-06 Wings of the Captain",
+              "$165.86",
+              "$6.91"
+            ],
+            [
+              "OP-11 A Fist of Divine Speed",
+              "$181.21",
+              "$7.55"
+            ],
+            [
+              "OP-09 Emperors in the New World",
+              "$175.78",
+              "$7.32"
+            ],
+            [
+              "OP-03 Pillars of Strength",
+              "$175.78",
+              "$7.32"
+            ],
+            [
+              "OP-05 Awakening of the New Era",
+              "$186.61",
+              "$7.78"
+            ],
+            [
+              "OP-04 Kingdoms of Intrigue",
+              "$186.59",
+              "$7.77"
+            ],
+            [
+              "OP-02 Paramount War",
+              "$206.42",
+              "$8.60"
+            ],
+            [
+              "OP-01 Romance Dawn",
+              "$238.45",
+              "$9.94"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Extra Boosters and Premium Boosters",
+        "paragraphs": [
+          "The six remaining boxes do not follow the main-line pattern, and they should not be ranked as if they did. The four Extra Boosters are smaller, focused sets: EB-04 Egghead Crisis at $91.03 is the cheapest of the four and the third-cheapest box on the whole Japanese shelf at $3.79 per pack on a 24-pack listing basis, while EB-01 Memorial Collection and EB-03 Heroines Edition both sit at $155.04, or $6.46 per pack, and EB-02 Anime 25th Collection sits at $178.86, or $7.45 per pack. EB-01 is the first Extra Booster, released in Japan on January 27, 2024 with 61 card types, and EB-02 is the anime-anniversary set with 87 plus 1 types. Their prices reflect theme and age, not a worse deal per pack: EB-04 is simply a younger, larger-printing set, and its $3.79 per-pack rate makes it a genuine value entry for a buyer who wants Extra Booster cards without paying the anniversary premium.",
+          "The two Premium Boosters are a different product shape and must be compared per box, not per pack. The [PRB-02 The Best vol.2 box](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) is $74.82 and the [PRB-01 The Best box](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) is $149.63. PRB-01 collects 111 card numbers plus 30 DON!! cards, with ten cards per pack, and Bandai prints no packs-per-box figure on either the Japanese or the English product page, so any per-pack figure for PRB would be invented. PRB-02 at $74.82 is the second-cheapest premium entry on the shelf and the natural first PRB buy; PRB-01 at $149.63 is double the price for the original curated set. A buyer comparing PRB-02 to a main-set box should compare box to box and chase pool to chase pool, never a fabricated per-pack rate. The wider [One Piece card range](/one-piece-cards/) covers the rest of the shelf if none of these 24 boxes fits the job."
+        ],
+        "table": {
+          "head": [
+            "Extra / Premium set",
+            "Box price",
+            "Per-pack basis"
+          ],
+          "rows": [
+            [
+              "EB-04 Egghead Crisis",
+              "$91.03",
+              "$3.79 (24-pack listing)"
+            ],
+            [
+              "EB-01 Memorial Collection",
+              "$155.04",
+              "$6.46 (24-pack listing)"
+            ],
+            [
+              "EB-03 Heroines Edition",
+              "$155.04",
+              "$6.46 (24-pack listing)"
+            ],
+            [
+              "EB-02 Anime 25th Collection",
+              "$178.86",
+              "$7.45 (24-pack listing)"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "$74.82",
+              "Per box only: no packs-per-box figure printed"
+            ],
+            [
+              "PRB-01 The Best",
+              "$149.63",
+              "Per box only: no packs-per-box figure printed"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "OP-15 box: $69.48 ÷ 24 packs = $2.90 per pack",
+          "OP-18 box: $84.00 ÷ 24 packs = $3.50 per pack",
+          "OP-16 box: $105.00 ÷ 24 packs = $4.38 per pack",
+          "OP-14 box: $98.26 ÷ 24 packs = $4.09 per pack",
+          "OP-10 box: $98.26 ÷ 24 packs = $4.09 per pack",
+          "OP-08 box: $98.26 ÷ 24 packs = $4.09 per pack",
+          "OP-17 box: $121.28 ÷ 24 packs = $5.05 per pack",
+          "OP-12 box: $129.79 ÷ 24 packs = $5.41 per pack",
+          "OP-13 box: $135.00 ÷ 24 packs = $5.63 per pack",
+          "OP-07 box: $134.32 ÷ 24 packs = $5.60 per pack",
+          "OP-06 box: $165.86 ÷ 24 packs = $6.91 per pack",
+          "OP-09 box: $175.78 ÷ 24 packs = $7.32 per pack",
+          "OP-03 box: $175.78 ÷ 24 packs = $7.32 per pack",
+          "OP-11 box: $181.21 ÷ 24 packs = $7.55 per pack",
+          "OP-04 box: $186.59 ÷ 24 packs = $7.77 per pack",
+          "OP-05 box: $186.61 ÷ 24 packs = $7.78 per pack",
+          "OP-02 box: $206.42 ÷ 24 packs = $8.60 per pack",
+          "OP-01 box: $238.45 ÷ 24 packs = $9.94 per pack",
+          "EB-04 box: $91.03 ÷ 24 packs = $3.79 per pack (listing basis)",
+          "EB-01 box: $155.04 ÷ 24 packs = $6.46 per pack (listing basis)",
+          "EB-03 box: $155.04 ÷ 24 packs = $6.46 per pack (listing basis)",
+          "EB-02 box: $178.86 ÷ 24 packs = $7.45 per pack (listing basis)",
+          "OP-18 case: $906 ÷ 12 = $75.50 per box, $8.50 less than the $84 single",
+          "OP-15 case: $816 ÷ 12 = $68.00 per box, $1.48 less than the $69.48 single",
+          "OP-02 case: $1,985.38 ÷ 12 = $165.45 per box, $40.97 less than the $206.42 single",
+          "OP-03 case: $1,687.81 ÷ 12 = $140.65 per box, $35.13 less than the $175.78 single",
+          "OP-01 case: $2,801.47 ÷ 12 = $233.46 per box, $4.99 less than the $238.45 single",
+          "OP-17 case: $1,458 ÷ 12 = $121.50 per box, $0.22 MORE than the $121.28 single",
+          "OP-05 case: $2,244.73 ÷ 12 = $187.06 per box, $0.45 MORE than the $186.61 single",
+          "OP-07 case: $1,613.24 ÷ 12 = $134.44 per box, $0.12 MORE than the $134.32 single"
+        ],
+        "paragraphs": [
+          "Nothing in the tables above is a claim. Each figure is one division away from a listed price, and here is every division for the main sets and the Extra Boosters, plus the case divisions that decide the next section. The standard box holds 24 packs, confirmed in [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/). Per-pack cost decides what an opener really pays. Per-box-inside-a-case decides whether bulk buying helps or quietly hurts, and on this shelf that second division is where the money is."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the case trap",
+        "note": "Warehouse Note: the question we get most in chat about Japanese One Piece cases is whether the case is the smart buy, and the honest answer on this shelf is usually no. We priced all 24 Japanese cases against their single boxes, and the pattern surprised us too: most cases land within a dollar of the single price, and eleven charge more per box than buying singly. A case discount is not a property of cases. It is a property of one set at one price, and it has to be checked set by set.",
+        "paragraphs": [
+          "The top guides for this query rank boxes and stop there. They cover beginner picks, chase sets, and the Japanese-versus-English question, and they do it well. What none of them does is price a whole store's case shelf against its own box shelf, because no single guide has both shelves in front of it. This page does, and the result overturns the default advice. Of the 24 Japanese One Piece cases the Warehouse stocks, only two discount heavily: OP-02, whose case works out to $165.45 per box against a $206.42 single, and OP-03, whose case works out to $140.65 per box against a $175.78 single. Those are real bargains, $40.97 and $35.13 saved on every box, and a playgroup splitting either case is buying correctly.",
+          "Everything else is thin or backwards. OP-18's case is a genuine discount at $75.50 per box against the $84 pre-order single, and OP-01's case saves $4.99 per box, but EB-02 at $3.18 saved and OP-11 at $2.22 saved are the next best, and then the savings collapse to under a dollar: OP-15 saves $1.48, PRB-01 saves $0.67, OP-12 saves $0.54, EB-04 saves $0.53, OP-04 saves $0.47, OP-06 saves $0.35, and PRB-02 saves $0.34. Eleven cases charge more per box than the single: OP-17 by $0.22, OP-05 by $0.45, OP-07 by $0.12, OP-16 by $0.09, EB-03 and EB-01 by $0.09 each, OP-14, OP-10, and OP-08 by $0.07 each, and OP-09 by $0.04 and OP-13 by $0.03. The amounts are small, and that is exactly why they survive: nobody divides a $1,458 case to find a 22-cent penalty. The penalty is small per box, but the lesson is permanent. Divide before paying, on every set, forever. The full case-versus-box method is laid out in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ],
+        "table": {
+          "head": [
+            "Case",
+            "Case price",
+            "Per box in case",
+            "Single box",
+            "Difference"
+          ],
+          "rows": [
+            [
+              "OP-02 case (12 boxes)",
+              "$1,985.38",
+              "$165.45",
+              "$206.42",
+              "Saves $40.97"
+            ],
+            [
+              "OP-03 case (12 boxes)",
+              "$1,687.81",
+              "$140.65",
+              "$175.78",
+              "Saves $35.13"
+            ],
+            [
+              "OP-18 case (12 boxes)",
+              "$906.00",
+              "$75.50",
+              "$84.00",
+              "Saves $8.50"
+            ],
+            [
+              "OP-01 case (12 boxes)",
+              "$2,801.47",
+              "$233.46",
+              "$238.45",
+              "Saves $4.99"
+            ],
+            [
+              "EB-02 case (12 boxes)",
+              "$2,108.15",
+              "$175.68",
+              "$178.86",
+              "Saves $3.18"
+            ],
+            [
+              "OP-17 case (12 boxes)",
+              "$1,458.00",
+              "$121.50",
+              "$121.28",
+              "Costs $0.22 MORE"
+            ],
+            [
+              "OP-05 case (12 boxes)",
+              "$2,244.73",
+              "$187.06",
+              "$186.61",
+              "Costs $0.45 MORE"
+            ],
+            [
+              "OP-07 case (12 boxes)",
+              "$1,613.24",
+              "$134.44",
+              "$134.32",
+              "Costs $0.12 MORE"
+            ],
+            [
+              "EB-01 case (12 boxes)",
+              "$1,861.50",
+              "$155.13",
+              "$155.04",
+              "Costs $0.09 MORE"
+            ],
+            [
+              "EB-03 case (12 boxes)",
+              "$1,861.50",
+              "$155.13",
+              "$155.04",
+              "Costs $0.09 MORE"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "With the arithmetic done, the decision table is short. Find your row. Two of the rows are decided by the case analysis rather than by the sets themselves, which is why the case table above comes before the verdict rather than after it."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "New player building a first pool",
+              "OP-15 box at $69.48",
+              "Lowest entry at $2.90 per pack; a current, affordable pool to build from, with singles finishing the list"
+            ],
+            [
+              "Player who wants the newest set",
+              "OP-18 pre-order box at $84",
+              "Second-cheapest per pack at $3.50; the current set at a new-set price, with a case that honestly discounts"
+            ],
+            [
+              "Collector chasing the game's icons",
+              "OP-05 box at $186.61",
+              "The manga-rare set: Gear 5 Luffy parallels made this the collector's set, and the sealed price reflects it"
+            ],
+            [
+              "Playgroup splitting a case",
+              "OP-02 or OP-03 case",
+              "The only two cases with large discounts: $40.97 and $35.13 saved per box. Every other case saves $8.50 or less"
+            ],
+            [
+              "Extra Booster buyer on a budget",
+              "EB-04 box at $91.03",
+              "Cheapest Extra Booster at $3.79 per pack on a listing basis; the Egghead set without the anniversary premium"
+            ],
+            [
+              "Premium collector",
+              "PRB-02 box at $74.82",
+              "The cheaper Premium Booster entry; PRB-01 at $149.63 is the original curated set at double the price"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Three boxes worth knowing by name",
+        "paragraphs": [
+          "OP-15 is the value box, and the reason is unglamorous: it is a recent set with a full printing behind it, so the market has not added a scarcity premium yet. At $2.90 per pack it undercuts even the OP-18 pre-order, and for a player building a first deck pool that is the whole argument. The skeleton in [how to build your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) is a Leader, a 50-card main deck, and a 10-card DON!! deck, and a box of 24 packs feeds that structure with bodies and staples. It does not finish a list, and the finishing is done with singles. For that job, per-pack cost is the only price that matters, and OP-15 wins it.",
+          "OP-05 is the opposite buy: the collector's set, bought for what is inside rather than what it costs per pack. The set made the game a collector's game with its manga-rare parallels, headlined by Gear 5 Luffy, and at $186.61 the sealed box still carries that reputation. A buyer paying $7.78 per pack for OP-05 is not overpaying for packs. They are paying for a sealed position in the set other sets are measured against, and the price has held because the chase has held. That is a legitimate buy, and it should be made with eyes open: the per-pack premium over OP-15 is $4.88, and it buys history, not cardboard.",
+          "OP-01 is the foundation buy and the dearest box on the shelf at $238.45, or $9.94 per pack. It is the first booster set in the game's history, the set that introduced the game's identity, Leaders, and mechanics. A buyer choosing OP-01 over OP-15 is paying $168.97 more per box for the origin set's sealed scarcity. Some collectors will pay that gladly, and some will not, and both are right, because the two boxes are not substitutes. One is a pool. The other is a piece of the game's history in a sealed box. The [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) covers the newest set's window in full for buyers deciding between the new set and the old ones."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "The expensive failure on this page is buying a case on the assumption that bulk always discounts. It does not: eleven Japanese One Piece cases on this shelf charge more per box than the single, and most of the rest save under a dollar. The recovery, if a case already landed, is to note that the damage is small and the lesson permanent. The second failure is paying the early-set premium without needing the early set. At $9.94 per pack, OP-01 costs more than triple OP-15's rate, and that premium buys origin-set scarcity and nothing else. A player who wants cards to play with is paying for a feature that never gets used.",
+          "The third failure is format confusion. Japanese cards are not legal at most official tournaments outside Asia, so a player who buys Japanese boxes for an event they plan to attend abroad has bought the wrong product, however good the per-pack price looks. The recovery is to check the event's legality rules before buying, not after opening. The fourth failure is reseals and tampering on older sealed product, which is where the price is highest and the incentive is greatest. The checks are weight, seal pattern, and case consistency, laid out in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and sealed product should be stored properly from the day it arrives, per [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/). The fifth failure is softer: buying PRB or EB boxes while expecting a per-pack figure the manufacturer never printed. PRB has no official packs-per-box figure, and EB-01 through EB-03 have none on the Japanese pages. Treat any per-pack figure for those products that is not labelled with its basis as a guess, including the listing-basis figures on this page."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants one answer with no questions asked, and it is not for the buyer who needs English card text or official tournament legality outside Asia. It is not for the sealed investor who wants a guaranteed return: no box on this page guarantees anything, and the case table above shows that even the bulk format can cost more than buying singly. It is also not for the buyer chasing a single card. A box is a pool, not a single, and the cheapest route to one named card is almost always buying that single. This guide is for the buyer who wants the whole Japanese shelf priced honestly, per pack and per case, and who will pick a box by its job: pool, newest set, icon chase, group split, or premium collection."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the job in one sentence: deck pool, newest set, icon chase, group split, or premium collection",
+          "Use the right unit: per pack for openers, per box inside the case for groups",
+          "Start from OP-15 at $2.90 per pack unless a specific set is the reason for buying",
+          "Divide every case price by its box count before paying: eleven Japanese cases on this shelf cost more per box than the single",
+          "If splitting a case, prefer OP-02 or OP-03: they are the only cases saving more than $8.50 per box",
+          "Pay the early-set premium only if origin-set scarcity is actually what you want",
+          "Check tournament legality before buying Japanese boxes for an event outside Asia",
+          "Treat PRB per-pack figures as guesses: Bandai prints no packs-per-box figure for PRB"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "Before paying for any Japanese One Piece box on this page, walk the list. For the newest set's dates and window, return to the OP-18 pre-order guide, and for the English shelf, the English-versus-Japanese comparison in the earlier One Piece box guide settles the language question. This article settles price."
+        ]
+      }
+    ],
+    "slug": "best-japanese-one-piece-booster-box-to-buy",
+    "takeaway": [
+      "The best Japanese One Piece booster box is the one whose arithmetic matches your job. OP-15 wins on price at $2.90 per pack, OP-18 wins as the newest set at $3.50 per pack on pre-order, and OP-05 wins as the collector's set at $7.78 per pack. The case verdict is the part other guides skip: only OP-02 and OP-03 cases discount heavily, eleven cases cost more per box than buying singly, and the rest save under a dollar. Twenty-four boxes, one shelf, every division shown. For the mixed-language shelf that started this comparison, the [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) still settles OP-17 and OP-18 across both languages."
+    ]
+  },
+  "best-japanese-pokemon-sealed-case-to-buy": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "At Warehouse prices as of November 3, 2026, the cheapest current-era case per box is M1S Mega Symphonia at $64.43 per box inside its 12-box case, against an $84.97 single box. The largest saving per box is SV2a Pokemon 151, whose case works out to $317.44 per box against a $471.20 single, a saving of $153.76 on every box.",
+        "q": "What is the cheapest Japanese Pokemon sealed case per box?"
+      },
+      {
+        "a": "No, and this shelf proves it. M3 Munikis Zero is the counterexample: its case works out to $87.35 per box, which is $16.73 more per box than the $70.62 single. Every other featured case on this page does discount, but the M3 case is the reason the division has to be done on every set rather than assumed once.",
+        "q": "Is a Japanese Pokemon sealed case always cheaper than buying boxes?"
+      },
+      {
+        "a": "A case is 12 sealed boxes for most sets, or 20 boxes for the High Class Packs: M2a Mega Dream ex, SV4a Shiny Treasure ex, SV8a Terastal Festival ex, S8b VMAX Climax, and S12a VSTAR Universe. A case does not guarantee any particular card. The Pokemon Company does not publish pull rates, so a case buys 12 or 20 sealed boxes of random cards, not a set of pulls.",
+        "q": "How many boxes are in a Japanese Pokemon sealed case?"
+      }
+    ],
+    "h1": "The Best Japanese Pokemon Sealed Case, Priced Box by Box",
+    "intro": [
+      "The cheapest current-era Japanese Pokemon case per box on the Warehouse shelf as of November 3, 2026 is M1S Mega Symphonia at $64.43 per box inside its case, against an $84.97 single box, and the largest saving on this page is SV2a Pokemon 151 at $153.76 saved on every box. The case that breaks the rule is M3 Munikis Zero, whose case costs $16.73 more per box than buying singly. A sealed case is a bulk format, not a bulk discount, and this guide prices the whole featured ladder so the difference is visible before money moves.",
+      "The Warehouse stocks 37 Japanese Pokemon sealed cases, from the MEGA era back through Scarlet and Violet to the Sword and Shield era. This guide prices the 16 cases that matter most to a buyer deciding today: the five MEGA-era cases, the current Scarlet and Violet ladder, and the four High Class Pack cases that anchor long-term sealed collections. Every case price is a Warehouse price as of November 3, 2026, and every per-box figure is one division away from a listed price. Standard boxes hold 30 packs of 5 cards, which is the basis for the per-pack column; High Class Pack cases are priced per box only, because their boxes hold a different pack count and mixing the two would corrupt the comparison."
+    ],
+    "metaDescription": "All 16 key Japanese Pokemon cases priced per box from one store: M1S cheapest at $64.43, 151 saving $153.76, and the M3 case that costs more.",
+    "metaTitle": "Best Japanese Pokemon Sealed Case to Buy, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The case shelf, priced",
+        "paragraphs": [
+          "Start with the MEGA era, because that is where a buyer deciding today will land first. The [M1S Mega Symphonia case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) at $773.15 works out to $64.43 per box, the cheapest current-era case rate on the shelf, and the [M1L Mega Brave case](/product/m1l-mega-brave-sealed-case-12-boxes-japanese-pokemon-card/) at $912.18 works out to $76.02 per box. Both discount honestly against their singles: M1S saves $20.54 per box and M1L saves $18.89. M2 Inferno X is the MEGA case with the biggest current-era saving: its case at $1,333.69 works out to $111.14 per box against a $183.18 single, a saving of $72.04 on every box. That gap exists because the single box carries a chase premium for the Mega Charizard X cards, while the case price has not kept pace. A buyer who wants Inferno X in bulk is, unusually, rewarded for it.",
+          "Then there is M3. The [M3 Munikis Zero case](/product/m3-munikis-zero-nihil-zero-sealed-case-12-boxes-japanese-pokemon-card/) at $1,048.24 works out to $87.35 per box, against a $70.62 single box. The case charges $16.73 more per box than buying singly, $200.80 more across the case, for the privilege of buying twelve at once. M3 is a current MEGA expansion, released January 23, 2026, with Mega Zygarde ex as its headline, and its single box is one of the cheapest current boxes on the shelf. The case price simply did not follow the single price down. A buyer who assumes a case discounts will overpay here by the largest margin on this page, which is why M3 leads this guide rather than sitting in a footnote. The Scarlet and Violet ladder tells a different story: every featured SV case discounts, and two of them discount enormously. The [SV11B Black Bolt case](/product/sv11b-black-bolt-sealed-case-12-boxes-japanese-pokemon-card/) at $991.73 works out to $82.64 per box against a $183.18 single, saving $100.54 per box, and the [SV11W White Flare case](/product/sv11w-white-flare-sealed-case-12-boxes-japanese-pokemon-card/) at $892.12 works out to $74.34 per box against a $167.72 single, saving $93.38. The pair is covered in full in the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/), and the case table is the financial half of that comparison: whichever set a buyer prefers, the case is dramatically cheaper than the single."
+        ],
+        "table": {
+          "head": [
+            "Case",
+            "Case price",
+            "Boxes",
+            "Per box in case",
+            "Single box",
+            "Saving per box"
+          ],
+          "rows": [
+            [
+              "M1S Mega Symphonia",
+              "$773.15",
+              "12",
+              "$64.43",
+              "$84.97",
+              "$20.54"
+            ],
+            [
+              "M1L Mega Brave",
+              "$912.18",
+              "12",
+              "$76.02",
+              "$94.91",
+              "$18.89"
+            ],
+            [
+              "M2 Inferno X",
+              "$1,333.69",
+              "12",
+              "$111.14",
+              "$183.18",
+              "$72.04"
+            ],
+            [
+              "M2a MEGA Dream ex",
+              "$1,858.56",
+              "20",
+              "$92.93",
+              "$114.77",
+              "$21.84"
+            ],
+            [
+              "M3 Munikis Zero",
+              "$1,048.24",
+              "12",
+              "$87.35",
+              "$70.62",
+              "Costs $16.73 MORE"
+            ],
+            [
+              "SV11B Black Bolt",
+              "$991.73",
+              "12",
+              "$82.64",
+              "$183.18",
+              "$100.54"
+            ],
+            [
+              "SV11W White Flare",
+              "$892.12",
+              "12",
+              "$74.34",
+              "$167.72",
+              "$93.38"
+            ],
+            [
+              "SV10 Glory of Team Rocket",
+              "$1,821.40",
+              "12",
+              "$151.78",
+              "$212.99",
+              "$61.21"
+            ],
+            [
+              "SV9 Battle Partners",
+              "$952.33",
+              "12",
+              "$79.36",
+              "$84.97",
+              "$5.61"
+            ],
+            [
+              "SV9a Heat Wave Arena",
+              "$1,604.33",
+              "12",
+              "$133.69",
+              "$163.32",
+              "$29.63"
+            ],
+            [
+              "SV8 Super Electric Breaker",
+              "$2,355.91",
+              "12",
+              "$196.33",
+              "$258.23",
+              "$61.90"
+            ],
+            [
+              "SV8a Terastal Festival ex",
+              "$2,723.16",
+              "20",
+              "$136.16",
+              "$163.32",
+              "$27.16"
+            ],
+            [
+              "SV4a Shiny Treasure ex",
+              "$2,306.10",
+              "20",
+              "$115.31",
+              "$141.24",
+              "$25.93"
+            ],
+            [
+              "SV2a Pokemon 151",
+              "$3,809.32",
+              "12",
+              "$317.44",
+              "$471.20",
+              "$153.76"
+            ],
+            [
+              "S8b VMAX Climax",
+              "$4,043.47",
+              "20",
+              "$202.17",
+              "$291.34",
+              "$89.17"
+            ],
+            [
+              "S12a VSTAR Universe",
+              "$3,842.76",
+              "20",
+              "$192.14",
+              "$241.67",
+              "$49.53"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "M1S case: $773.15 ÷ 12 = $64.43 per box (single $84.97, saves $20.54)",
+          "M1L case: $912.18 ÷ 12 = $76.02 per box (single $94.91, saves $18.89)",
+          "M2 case: $1,333.69 ÷ 12 = $111.14 per box (single $183.18, saves $72.04)",
+          "M2a case: $1,858.56 ÷ 20 = $92.93 per box (single $114.77, saves $21.84)",
+          "M3 case: $1,048.24 ÷ 12 = $87.35 per box (single $70.62, costs $16.73 MORE)",
+          "SV11B case: $991.73 ÷ 12 = $82.64 per box (single $183.18, saves $100.54)",
+          "SV11W case: $892.12 ÷ 12 = $74.34 per box (single $167.72, saves $93.38)",
+          "SV10 case: $1,821.40 ÷ 12 = $151.78 per box (single $212.99, saves $61.21)",
+          "SV9 case: $952.33 ÷ 12 = $79.36 per box (single $84.97, saves $5.61)",
+          "SV9a case: $1,604.33 ÷ 12 = $133.69 per box (single $163.32, saves $29.63)",
+          "SV8 case: $2,355.91 ÷ 12 = $196.33 per box (single $258.23, saves $61.90)",
+          "SV8a case: $2,723.16 ÷ 20 = $136.16 per box (single $163.32, saves $27.16)",
+          "SV4a case: $2,306.10 ÷ 20 = $115.31 per box (single $141.24, saves $25.93)",
+          "SV2a case: $3,809.32 ÷ 12 = $317.44 per box (single $471.20, saves $153.76)",
+          "S8b case: $4,043.47 ÷ 20 = $202.17 per box (single $291.34, saves $89.17)",
+          "S12a case: $3,842.76 ÷ 20 = $192.14 per box (single $241.67, saves $49.53)",
+          "M1S per pack: $84.97 ÷ 30 = $2.83 per pack single, $64.43 ÷ 30 = $2.15 per pack in case",
+          "M1L per pack: $94.91 ÷ 30 = $3.16 per pack single, $76.02 ÷ 30 = $2.53 per pack in case",
+          "M2 per pack: $183.18 ÷ 30 = $6.11 per pack single, $111.14 ÷ 30 = $3.70 per pack in case",
+          "M3 per pack: $70.62 ÷ 30 = $2.35 per pack single, $87.35 ÷ 30 = $2.91 per pack in case",
+          "SV11B per pack: $183.18 ÷ 30 = $6.11 per pack single, $82.64 ÷ 30 = $2.75 per pack in case",
+          "SV11W per pack: $167.72 ÷ 30 = $5.59 per pack single, $74.34 ÷ 30 = $2.48 per pack in case",
+          "SV10 per pack: $212.99 ÷ 30 = $7.10 per pack single, $151.78 ÷ 30 = $5.06 per pack in case",
+          "SV8 per pack: $258.23 ÷ 30 = $8.61 per pack single, $196.33 ÷ 30 = $6.54 per pack in case"
+        ],
+        "paragraphs": [
+          "Nothing in the table above is a claim. Each figure is one division away from a listed price, and here is every division, case first and then per-pack for the standard 30-pack boxes. The per-pack column is where the Black Bolt and White Flare cases show their real size: a buyer paying $6.11 per pack for a Black Bolt single pays $2.75 per pack inside the case, less than half. The same halving does not apply to M3, where the case per-pack rate of $2.91 is worse than the single rate of $2.35. The division, not the format, decides. The method behind this whole comparison is laid out in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "What the other guides miss: one store's full case ladder",
+        "note": "Warehouse Note: the question we get most in chat about Pokemon cases is which case is the best deal, and the honest answer is that the question has no single answer until the case price is divided by its box count. We divided all 16 featured cases against their own singles on this page, and two results changed our own advice: M3's case costs more than its single, and the Black Bolt and White Flare cases save more than $90 per box each. Neither fact appears in any box guide, because box guides do not price cases.",
+        "paragraphs": [
+          "The top guides for this query rank Japanese Pokemon boxes, and the best of them do it with real prices and real set facts. What none of them does is price a case ladder from a single store, because a case ladder needs both the case price and the single price from the same shelf at the same date. This page has both, and the ladder it produces has three findings no box guide can offer. First, the MEGA era splits: M1S, M1L, and M2 cases discount, M2a discounts, and M3 inverts. A buyer treating the MEGA era as one case decision will get four of the five right and overpay on the fifth by $200.80 across the case. Second, the Scarlet and Violet ladder is uniformly discounted but wildly uneven: SV9's case saves only $5.61 per box while SV11B's saves $100.54, so picking the set first and the format second leaves very different amounts of money on the table depending on which set was picked. Third, the High Class Pack cases are the quiet value on the shelf. S12a VSTAR Universe at $192.14 per box inside its 20-box case, S8b VMAX Climax at $202.17, SV8a Terastal Festival ex at $136.16, and SV4a Shiny Treasure ex at $115.31 all discount against their singles by $25 to $89 per box, and they are the sets collectors hold sealed longest. A box guide that never prices cases cannot see any of this, which is why the case ladder is the section of this page that earns its existence.",
+          "There is also an absence worth naming plainly. The newest MEGA boxes, M4 Ninja Spinner at $88.27, M5 Abyss Eye at $91.61, and M6 Storm Emeralda at $82.80, have no sealed cases on the Warehouse shelf as of November 3, 2026. A buyer who wants a case of the newest set cannot buy one here today, whatever a guide promises about case buying in general. The M6a 30th Celebration set is covered separately in the [M6a buyers guide](/blog/m6a-30th-celebration-buyers-guide/), and its case position should be checked there rather than assumed from this page. The wider [Pokemon card range](/pokemon-cards/) covers the rest of the shelf, including the 21 cases not featured here, and every one of them deserves the same division before paying."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "With the arithmetic done, the decision table is short. Find your row. Two of the rows are decided by the case analysis rather than by the sets themselves, which is why the case table above comes before the verdict rather than after it."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Playgroup splitting a current case",
+              "M1S case at $773.15",
+              "Cheapest current-era case rate at $64.43 per box; $2.15 per pack inside the case"
+            ],
+            [
+              "Chase buyer who wants the biggest saving",
+              "SV11B or SV11W case",
+              "$100.54 and $93.38 saved per box; the per-pack rate more than halves inside the case"
+            ],
+            [
+              "MEGA collector buying in bulk",
+              "M2 case at $1,333.69",
+              "$72.04 saved per box; the Inferno X chase premium is in the single, not the case"
+            ],
+            [
+              "Sealed holder, long term",
+              "S12a or S8b case",
+              "High Class Pack cases at $192.14 and $202.17 per box; the sets collectors hold sealed longest"
+            ],
+            [
+              "Budget single-box buyer",
+              "M3 single box at $70.62, NOT the case",
+              "The M3 case costs $16.73 more per box than the single; buy twelve singles before touching that case"
+            ],
+            [
+              "151 collector",
+              "SV2a case at $3,809.32",
+              "The largest absolute saving on the page at $153.76 per box; the original 151 set at a case rate no single can match"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "How to read a case price honestly",
+        "paragraphs": [
+          "A case price is a large number designed to be compared to nothing. The discipline is to convert it twice before judging it: once per box, once per pack where the pack count is standard. The per-box conversion is always safe, because the box count is printed in the product name: 12 boxes for standard cases, 20 for the High Class Pack cases on this page, and 24 files for the SV9 Collection File case, which is a different product shape and is excluded from the featured ladder for that reason. The per-pack conversion is safe only for standard 30-pack boxes. SV2a Pokemon 151 is excluded from the per-pack column because its official page prints no pack count per box, and the High Class Pack cases are excluded because their boxes hold a different pack count. A per-pack figure that mixes those formats is not a comparison. It is a category error with a dollar sign on it.",
+          "The second discipline is to compare the case to its own single, on the same shelf, on the same date. A case that saves $100 against a third-party single price but $5 against this store's single is a $5 saving, not a $100 saving, because this store's single is the price the buyer would otherwise pay. Every saving on this page is measured against the Warehouse single for the same set, as of November 3, 2026. That is the only comparison that decides whether the buyer's money moves correctly. The single-box side of the comparison is covered in the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/), which is the companion to this page: boxes first for the set choice, cases here for the format choice."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "The expensive failure on this page is buying the M3 case on the assumption that cases discount. It does not: the buyer pays $200.80 more across the case than twelve singles cost. The recovery, if a case already landed, is to note that the damage is bounded and the lesson permanent, and to open or hold the case on its merits rather than compounding the error by defending the format. The second failure is buying a case for pulls that are not guaranteed. The Pokemon Company does not publish pull rates, so a case buys 12 or 20 sealed boxes of random cards, not a set of chase cards. A buyer who needs a specific card should buy that single, and the grading question for anything pulled is settled in the [PSA grading Japanese cards guide](/blog/psa-grading-japanese-cards-worth-it/). The third failure is reseals and tampering on older sealed cases, where the price is highest and the incentive is greatest. The checks are weight, seal pattern, and case consistency, laid out in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and the hold-versus-open decision is worked through in [should you open or keep a sealed booster box](/blog/should-you-open-or-keep-sealed-booster-box/). Sealed cases should be stored properly from the day they arrive, per [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/). The fourth failure is softer: buying a case of a set nobody in the buyer's group wants, because the per-box saving looked good. A case is twelve or twenty boxes of one set. If the group does not want that set, the saving is a discount on inventory, not on enjoyment."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants one case answer with no division, and it is not for the buyer who needs a single card, a guaranteed pull, or a guaranteed return. No case on this page guarantees any card, and no case guarantees appreciation. It is also not for the buyer who wants the newest MEGA set in case format today, because M4, M5, and M6 have no cases on this shelf as of November 3, 2026. This guide is for the buyer deciding between a case and singles for a set they already want, in a group that will actually open or hold twelve or twenty boxes of it, and who will divide before paying."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the set first: the case decision is meaningless without the set decision",
+          "Divide the case price by its box count: 12 for standard cases, 20 for High Class Pack cases",
+          "Compare the per-box result to the same store's single box, same date, before judging the saving",
+          "Start from M1S at $64.43 per box for the cheapest current-era case rate",
+          "Never buy the M3 case at $1,048.24 while its single is $70.62: twelve singles cost $847.44, the case costs $200.80 more",
+          "Use per-pack figures only for standard 30-pack boxes; keep High Class Pack and 151 cases per-box only",
+          "Fix shares and payment before a group case ships: twelve or twenty boxes is a commitment, not a purchase",
+          "Store sealed cases properly from arrival, and check seals before opening anything old"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "Before paying for any Japanese Pokemon case on this page, walk the list. For the set choice itself, return to the best-value boxes guide, and for the Black Bolt and White Flare pair, the versus guide settles the set question. This article settles the format question, and the format question is always a division."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-sealed-case-to-buy",
+    "takeaway": [
+      "The best Japanese Pokemon sealed case is the one whose division survives contact with its own single. M1S wins the current-era rate at $64.43 per box, SV11B and SV11W win the biggest savings at over $90 per box each, and SV2a wins the largest absolute saving at $153.76 per box. M3 is the warning that makes the whole guide necessary: its case costs $16.73 more per box than its single, and no buyer who divides will ever pay it. Sixteen cases, every division shown, one rule at the end: divide the case, compare it to its own single, and only then pay."
+    ]
+  },
+  "best-japanese-pokemon-special-set-to-buy": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "No. The Pokemon Center Special Boxes hold one promo card, deck sleeves, a deck case, and a long card box, and no booster packs. A buyer who pays $199.62 for the Fukuoka box expecting packs has bought supplies and a promo, not cards to open. Check the contents line before paying for any box with Special Box in the name.",
+        "q": "Do Pokemon Center Special Boxes contain booster packs?"
+      },
+      {
+        "a": "The Tohoku box at $161.70, if the goal is a regional Special Box at the lowest price. All three regional boxes launched at the same official price, ¥2,090, with the same contents type, so the $53.52 gap between Tohoku and Hiroshima is collector demand for the region and the promo, not extra contents.",
+        "q": "Which Pokemon Center Special Box is the best value?"
+      },
+      {
+        "a": "For playing, no. Special sets are collector and gift products: supply boxes, anniversary boxes, and deck sets. A player gets more playable cards per dollar from a booster box, priced in our best-value Japanese Pokemon booster boxes guide, or from a fixed starter deck. Buy a special set because you want the set itself.",
+        "q": "Are special sets a good way to build a playable collection?"
+      }
+    ],
+    "h1": "Best Japanese Pokemon Special Set to Buy, by What Is Inside",
+    "intro": [
+      "Short answer: the best Japanese Pokemon special set depends on what you mean by special, because the category hides three different products. For a playable gift, the Special Card Set Mega Gallade ex at $21.18 is the cheapest entry. For a regional collector, the Pokemon Center Tohoku Special Box at $161.70 is the cheapest of the three regional boxes, all of which hold a promo and supplies and zero booster packs. For a sealed anniversary holder, the 25th Anniversary Collection Special Set at $476.16 is the mid-point between the Pokemon GO Special Set at $136.06 and the Golden Box at $2,192.35. Every price below is a Warehouse price as of November 3, 2026.",
+      "Who this is for: collectors who want the box itself, gift buyers who want a complete themed set, and Pikachu promo collectors chasing the regional boxes. Who it is not for: players building a deck, openers chasing packs per dollar, and anyone who assumes a box with Special in the name contains booster packs."
+    ],
+    "metaDescription": "Best Japanese Pokemon special set to buy: real shelf prices for Center boxes, anniversary sets, and gift sets, with the no-packs trap priced plainly.",
+    "metaTitle": "Best Japanese Pokemon Special Set to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The shelf: three kinds of special, one confusing name",
+        "paragraphs": [
+          "The word special covers three products that share nothing except a box. First, the supply-and-promo box: the [Pokemon Center Fukuoka Special Box](/product/pokemon-center-fukuoka-special-box-japanese-pokemon-card/) at $199.62, the [Pokemon Center Hiroshima Special Box](/product/pokemon-center-hiroshima-special-box-japanese-pokemon-card/) at $215.22, and the [Pokemon Center Tohoku Special Box](/product/pokemon-center-tohoku-special-box-japanese-pokemon-card/) at $161.70. Each holds one regional Pikachu promo card, deck sleeves, a deck case, and a long card box, and none holds a booster pack. Second, the themed card set: the [Special Card Set Mega Gallade ex](/product/special-card-set-mega-gallade-ex-japanese-pokemon-card/) at $21.18, the [S10b Pokemon GO Special Set](/product/s10b-poke-mon-go-special-set-box-japanese-pokemon-card/) at $136.06, the [Black Bolt and White Flare Card Set](/product/sv11b-sv11w-black-bolt-white-flare-card-set-japanese-pokemon-card/) at $39.04, and the [Special Deck Set ex with Venusaur, Charizard, and Blastoise](/product/special-deck-set-ex-venusaur-charizard-blastoise-svg-japanese-pokemon-card/) at $235.30. Third, the anniversary sealed box: the [25th Anniversary Collection Special Set](/product/25th-anniversary-collection-special-set-japanese-pokemon-card/) at $476.16, the [25th Anniversary Golden Box](/product/25th-anniversary-golden-box-japanese-pokemon-card/) at $2,192.35, and the [Precious Collector Box](/product/precious-collector-box-japanese-japanese-pokemon-card/) at $565.38. The [M1L Mega Brave Pokemon Center Set](/product/m1l-mega-brave-pokemon-center-set-japanese-pokemon-card/) at $219.70 and the [M1S Mega Symphonia Pokemon Center Set](/product/m1s-mega-symphonia-pokemon-center-set-japanese-pokemon-card/) at $177.30 sit between the groups: Pokemon Center sets built around a current expansion rather than a region.",
+          "A buyer who treats these as one category will misprice all three. The supply box buyer pays for a promo and matching supplies. The themed set buyer pays for cards. The anniversary buyer pays for sealed history. The money layer below prices each group on its own terms, because no single per-pack figure covers a shelf where the most expensive regional box contains no packs at all."
+        ]
+      },
+      {
+        "h": "The money layer: same contents type, different prices",
+        "math": [
+          "Tohoku vs Hiroshima gap: $215.22 − $161.70 = $53.52 for the same contents type",
+          "Fukuoka vs Tohoku gap: $199.62 − $161.70 = $37.92 for the same contents type",
+          "Regional boxes average: ($199.62 + $215.22 + $161.70) ÷ 3 = $192.18",
+          "Golden Box vs Anniversary Collection: $2,192.35 − $476.16 = $1,716.19",
+          "Golden Box multiple of Anniversary Collection: $2,192.35 ÷ $476.16 = 4.60×",
+          "Precious Collector Box vs Anniversary Collection: $565.38 − $476.16 = $89.22",
+          "M1L vs M1S gap: $219.70 − $177.30 = $42.40",
+          "Cheapest special entry vs priciest: $2,192.35 ÷ $21.18 = 103.5×",
+          "Fukuoka market check: Warehouse $199.62 vs third-party sealed range $230–$300 (April 2026 estimates) = $30.38 below that range's floor",
+          "Tohoku market check: Warehouse $161.70 vs third-party sealed range $195–$245 (April 2026 estimates) = $33.30 below that range's floor"
+        ],
+        "paragraphs": [
+          "The regional boxes are the cleanest math on the shelf, because their contents type is identical. All three launched at the same official price, ¥2,090 tax included, and all three were sold through lottery sales on the Pokemon Center Online Japan, never through general shops. Today the Warehouse prices them at $161.70 for Tohoku, $199.62 for Fukuoka, and $215.22 for Hiroshima. The $53.52 spread between the cheapest and dearest buys no extra card and no extra supply: it buys the region, the promo art, and the collector demand attached to each. Fukuoka's box celebrates the store's renewal with a food and festival theme, its Pikachu wearing a traditional Hanagasa hat; Tohoku's celebrates the Sendai Tanabata Festival with streamers and bamboo; Hiroshima's pairs Pikachu with the Red Gyarados that guards that store. Pick the region you care about, because the contents will not justify the premium on their own.",
+          "The anniversary ladder is steeper. The 25th Anniversary Collection Special Set at $476.16 and the Golden Box at $2,192.35 are both 25th-anniversary sealed products, and the Golden Box costs 4.60 times the Collection set. That multiple is not four times the cards; it is the premium for the Golden Box as an object, the kind of sealed-position pricing covered in the [open or keep sealed framework](/blog/should-you-open-or-keep-sealed-booster-box/). The Precious Collector Box at $565.38 sits $89.22 above the Collection set, a smaller step for a different kind of prestige box. Against third-party estimates from April 2026, the Warehouse regional prices look soft: sealed Fukuoka boxes were estimated at $230 to $300 and sealed Tohoku boxes at $195 to $245, putting the Warehouse Fukuoka $30.38 below that range's floor and Tohoku $33.30 below it. Those are third-party estimates from April 2026, not live offers, and they are quoted here so the reader can see the direction of the market, not as a promise that any box resells at those figures. For the pack-per-dollar comparison that special sets cannot win, the [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide is the honest alternative."
+        ]
+      },
+      {
+        "h": "The decision layer: which special set for which buyer",
+        "paragraphs": [
+          "Read the table by what you want the box to be, not by the word special. A box that is a gift, a display piece, and a card product are three purchases."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Cheapest special entry",
+              "Special Card Set Mega Gallade ex",
+              "$21.18",
+              "Lowest price on the special shelf; a themed set, not a supply box"
+            ],
+            [
+              "Player-adjacent gift",
+              "Black Bolt / White Flare Card Set",
+              "$39.04",
+              "A card set tied to the Black Bolt and White Flare era; see the head-to-head guide before choosing a side"
+            ],
+            [
+              "Regional Pikachu collector, lowest cost",
+              "Pokemon Center Tohoku Special Box",
+              "$161.70",
+              "Cheapest regional box; same contents type as the $215.22 Hiroshima box"
+            ],
+            [
+              "Regional collector, specific store",
+              "Fukuoka or Hiroshima Special Box",
+              "$199.62 / $215.22",
+              "Pay the regional premium only if that store's theme and promo are the ones you collect"
+            ],
+            [
+              "Current-era Center set buyer",
+              "M1S Mega Symphonia Pokemon Center Set",
+              "$177.30",
+              "Cheaper than the M1L set by $42.40; a Center set, not a regional lottery box"
+            ],
+            [
+              "Anniversary sealed holder",
+              "25th Anniversary Collection Special Set",
+              "$476.16",
+              "The mid-point anniversary position; the Golden Box at $2,192.35 is a different budget entirely"
+            ],
+            [
+              "Prestige sealed holder",
+              "Precious Collector Box",
+              "$565.38",
+              "Above the Anniversary Collection by $89.22; buy the object, not the packs"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: what actually arrives in the box",
+        "paragraphs": [
+          "Before paying, read the contents line, because the name will not tell you. A Pokemon Center Special Box arrives as a promo card, deck sleeves, a deck case, and a long card box, all sharing one regional artwork. It is a complete matching supply kit with a collectible promo, and it is also a box with nothing to open in the pack sense. A buyer who wants the experience of opening packs should not buy it, and a buyer who wants matching supplies for a deck themed around that region will use every piece. The themed card sets are the opposite: they arrive as cards, and the question is which theme, not whether packs are inside. The anniversary boxes arrive sealed, and the practical question is storage, not contents: a $2,192.35 Golden Box kept in a damp room or stacked under weight loses the condition premium it was bought for, so keep it cool, dry, dark, and unstacked, as the [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/) lays out, with the seal untouched until a decision is made.",
+          "Ordering from overseas adds a second practical layer. These are Japanese products shipped from Japan, and the landed cost is the shelf price plus shipping and any customs charge, which the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices route by route. A $21.18 Gallade set absorbs shipping very differently from a $2,192.35 Golden Box, and the shipping share of a cheap set can exceed the price of the set itself. For the regional boxes, there is one more practical fact: they were lottery products, so restocks do not follow a normal retail rhythm. When a regional box is in stock, that is the buying window; waiting for a sale on a lottery product is waiting for an event that may not come."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the no-packs trap and the single-shelf price",
+        "note": "Warehouse Note: the question we get most about special sets is whether the Special Box has packs inside, and the answer surprises almost everyone who asks. A box that costs $215.22 and contains no packs sounds like a mistake until the buyer sees the matching supplies and the regional promo, and then it makes sense as a collector's object. We would rather lose the sale than let a buyer open a supply box expecting packs.",
+        "paragraphs": [
+          "The top guides share two gaps. First, they rank special sets as if every box held cards to open, and none of them states plainly that the regional Special Boxes hold zero packs. A buyer who follows those rankings to a $215.22 Hiroshima box and opens it looking for packs has been misled by a category name. Second, none of them prices one store's actual shelf. The rankings quote anniversary boxes from other sellers at other dates, while our shelf runs from $21.18 to $2,192.35, a 103.5 times spread, with the regional trio at $161.70 to $215.22 and the anniversary pair at $476.16 and $2,192.35. That spread is the article: special is not a price band, it is three product types, and the buyer's job is to pick the type before picking the box. The [M6a 30th Celebration buyers guide](/blog/m6a-30th-celebration-buyers-guide/) shows the same discipline applied to the current anniversary set, with box configs and prices separated instead of blended."
+        ]
+      },
+      {
+        "h": "The risk layer: lottery scarcity, promo volatility, and sealed premiums",
+        "paragraphs": [
+          "Lottery scarcity cuts both ways. The regional boxes were never general retail, so supply is thin and restocks are irregular, which supports their prices; it also means a buyer who misses a window may wait months, and a buyer who overpays for one region may watch another region's box sit cheaper for the same contents type. The recovery is to buy the region you actually collect, because a regional premium paid for a region you do not care about is the worst version of this purchase. Promo volatility is the second risk: third-party estimates put the Fukuoka Pikachu promo raw at roughly $150 to $185 and the Tohoku Pikachu promo raw at roughly $115 to $155 in April 2026, and those figures move with grading, condition, and restocks, including the March 2026 restocks that briefly increased supply. A sealed box bought at a premium justified by a promo price can retrace when the promo does. The third risk is the sealed premium itself: a Golden Box at $2,192.35 is a multi-year position, and the honest limitation is that no guide can promise its future price. The [Japanese Pokemon cards as an investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) makes the same point set by set: value holding is product by product, never category by category. If the purchase strains anything essential, it is the wrong purchase at any price on this shelf."
+        ]
+      },
+      {
+        "h": "Context: Japan's special sets versus the English equivalents",
+        "paragraphs": [
+          "Japan's special-set range is wider than the English range because it includes products English never gets. The regional Pokemon Center boxes are Japan-only by design: lottery sales through the Japanese Pokemon Center Online, regional festival themes, and promos numbered in the Japanese SV-P sequence, like Fukuoka's Pikachu SV-P 289, Tohoku's SV-P 288, and Hiroshima's SV-P 290. English collectors get Elite Trainer Boxes and collection boxes, but not a Fukuoka box. The anniversary boxes follow the same pattern: the Japanese 25th Anniversary products are Japanese sealed objects with Japanese contents, and their prices in dollars reflect import, scarcity, and collector demand, not a currency conversion of a Japanese retail price. The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the print and price differences that sit behind every figure here, and the [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) decodes the rarities inside the themed sets. A buyer choosing between a Japanese special set and an English equivalent is choosing a market, not a translation."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, players building a deck: special sets give themed cards or supplies, not a tuned 60-card list, and the fixed starter decks in our starter deck guide are the cheaper, playable route. Second, openers chasing packs per dollar: a supply box has no packs, an anniversary box is priced as an object, and a booster box beats both on cards per dollar. Third, anyone buying a special set as a guaranteed investment: the promo estimates quoted here are dated third-party figures, the sealed premiums are collector sentiment, and sentiment moves. Who this guide is for, restated: collectors of the box itself, gift buyers who want a complete themed set, and regional Pikachu collectors. If that is you, the table above is your shortlist."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the type first: supply-and-promo box, themed card set, or anniversary sealed box",
+          "If the name says Special Box, confirm it holds no packs before paying",
+          "If buying regional, pick the region you collect: Tohoku $161.70, Fukuoka $199.62, Hiroshima $215.22",
+          "If buying anniversary, decide the budget first: $476.16 Collection set or $2,192.35 Golden Box, not both by accident",
+          "Add shipping and customs to cheap sets: the landed cost of a $21.18 set is mostly delivery",
+          "Store sealed boxes cool, dry, dark, and unstacked, seal untouched until you decide",
+          "Never fund a sealed premium with money needed back on a date",
+          "If you want packs, buy a booster box instead and keep the special set for collecting"
+        ],
+        "h": "Action layer: the special set checklist",
+        "paragraphs": [
+          "Run this before paying. It takes five minutes and it replaces a shelf of generic special-set rankings with a decision built on the products you can actually buy."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-special-set-to-buy",
+    "takeaway": [
+      "The best Japanese Pokemon special set is the one whose type matches your reason. The Gallade set at $21.18 is the cheapest themed entry. The Tohoku box at $161.70 is the cheapest regional collector's box, and the $53.52 gap to Hiroshima buys a region, not contents. The Anniversary Collection set at $476.16 is the mid-point sealed position, and the Golden Box at $2,192.35 is a different budget for a different buyer. Name the type, check the contents line, and let the shelf's own prices choose.",
+      "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026, with third-party market estimates dated April 2026 where quoted. When the next special set arrives, ask first whether it holds packs at all, because that one answer changes what the price buys.",
+      "Still deciding between special sets and boxes? The [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices the pack route, the [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) guide prices the playable route, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a sealed box lands. If grading is part of the plan, the [PSA grading guide for Japanese cards](/blog/psa-grading-japanese-cards-worth-it/) prices that step before you commit."
+    ]
+  },
+  "best-japanese-pokemon-starter-deck-to-buy": {
+    "datePublished": "2026-11-03",
+    "faqs": [
+      {
+        "a": "The Starter Set MEGA Mega Diancie ex at $11.15. It is a fixed 60-card deck with two Mega Diancie ex, the same component types as the Gengar starter, at less than half the Gengar starter's $24.54. The $13.39 gap between them is character demand for Gengar, not extra cards.",
+        "q": "What is the cheapest fixed Japanese Pokemon starter deck on this shelf?"
+      },
+      {
+        "a": "No. A Start Deck 100 product holds one random deck, and a match needs two decks. One Battle Collection unit at $26.77 gives you one playable deck and a second player still needs one. Buy two if two people are learning together, or buy a fixed starter each and choose your Pokemon.",
+        "q": "Is one Start Deck 100 Battle Collection enough for two players?"
+      },
+      {
+        "a": "For learning the game, yes, with one condition: check the regulation mark on the cards before entering an event. Japan's rotation moved in January 2026 and older marks have left Standard since. For kitchen-table games with friends, any deck on this page plays fine, and the cheapest fixed deck is the right first purchase.",
+        "q": "Can I learn Pokemon with a Japanese deck if I cannot read Japanese?"
+      }
+    ],
+    "h1": "Best Japanese Pokemon Starter Deck to Buy, Priced Per Card",
+    "intro": [
+      "Short answer: the cheapest way to start playing in Japanese is the Starter Set MEGA Mega Diancie ex at $11.15 for a fixed 60-card deck, while the newest experience is the Start Deck 100 Battle Collection at $26.77 for one random 60-card deck out of 100. If two people are learning together, the best buy on this shelf is the Start Deck Generations Special Battle Set at $33.46, because it holds four complete 60-card decks, which works out to $8.37 per deck. Every price below is a Warehouse price as of November 3, 2026, divided so you can check it.",
+      "Who this is for: new players who want a playable deck rather than a pile of packs, parents buying a first deck, and collectors who want the MEGA starter pair. Who it is not for: anyone who wants to choose their exact deck list card by card, anyone who needs English card text for events, and anyone buying a random deck expecting a specific Pokemon inside."
+    ],
+    "metaDescription": "Best Japanese Pokemon starter deck to buy: fixed MEGA starters, random Start Deck 100, and the 4-deck Generations set, priced per card from store stock.",
+    "metaTitle": "Best Japanese Pokemon Starter Deck to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The shelf: five decks, two kinds of product",
+        "paragraphs": [
+          "This shelf holds two different kinds of product wearing the same word, and the difference decides the purchase. A fixed starter is a known 60-card list: buy it and you know every card. A Start Deck 100 product is one random deck drawn from a numbered set: buy it and you know the card count, not the Pokemon. The [Starter Set MEGA Mega Diancie ex](/product/starter-set-mega-mega-diancie-ex-mbd-japanese-pokemon-card/) at $11.15 and the [Starter Set MEGA Mega Gengar ex](/product/starter-set-mega-mega-gengar-ex-mbg-japanese-pokemon-card/) at $24.54 are fixed decks, released in Japan on September 5, 2025, each with two headline Mega ex cards, an ACE SPEC, damage counters, status markers, a one-player playmat, a player's guide, and a coin. The [Start Deck 100 Battle Collection](/product/start-deck-100-battle-collection-japanese-pokemon-card/) at $26.77 is the random kind: one 60-card deck drawn from 100 numbered decks, released in Japan on December 19, 2025, from a 742-card pool, with at least two Pokemon ex in every deck. The [SI Start Deck 100](/product/si-start-deck-100-japanese-pokemon-card/) at $8.93 is the older random product, from the original 2021 Start Deck 100 line, which offered 101 decks including a secret God Deck across a 414-card pool. The [Start Deck Generations Special Battle Set](/product/start-deck-generations-special-battle-set-svm-japanese-pokemon-card/) at $33.46 is the outlier: four fixed 60-card decks in one box, Generations I, II, VIII, and IX, plus four promo cards, released November 22, 2024.",
+          "Five products, three buying logics. Fixed decks reward choosing. Random decks reward surprise and collection. The four-deck set rewards households. The rest of this guide prices each logic honestly, because the cheapest product on the shelf is not the cheapest way to play a match, and the most expensive is not the best deck."
+        ]
+      },
+      {
+        "h": "The money layer: per card, per deck, per match",
+        "math": [
+          "Starter Set MEGA Mega Diancie ex: $11.15 ÷ 60 cards = $0.19 per card",
+          "Starter Set MEGA Mega Gengar ex: $24.54 ÷ 60 cards = $0.41 per card",
+          "Gengar premium over Diancie: $24.54 − $11.15 = $13.39 for the same component types",
+          "SI Start Deck 100: $8.93 ÷ 60 cards = $0.15 per card",
+          "Start Deck 100 Battle Collection: $26.77 ÷ 60 cards = $0.45 per card",
+          "Start Deck Generations Special Battle Set: $33.46 ÷ 4 decks = $8.37 per deck",
+          "Generations set per card: $33.46 ÷ 244 cards (240 + 4 promos) = $0.14 per card",
+          "Two Battle Collection decks for one match: $26.77 × 2 = $53.54",
+          "Two fixed MEGA starters for one match: $11.15 + $24.54 = $35.69",
+          "Cheapest playable match: 2 × SI Start Deck 100 = $17.86, or 1 × Generations set = $33.46 for up to 4 players' decks"
+        ],
+        "paragraphs": [
+          "A Pokemon deck is 60 cards, so per-card cost is the honest unit, and per-match cost is the unit that catches buyers out. The cheapest card on the shelf is the Generations set at $0.14 per card, and the cheapest single deck is the SI Start Deck 100 at $8.93. But one deck is not a match. A match needs two decks, so the cheapest playable match from random product is two SI decks at $17.86, and the cheapest match from fixed product is the Diancie plus Gengar pair at $35.69. The Generations set at $33.46 covers a match and leaves two spare decks, which is why it wins the household comparison even though it is the second-priciest single item here. Compare that with packs: a Japanese booster box gives random cards at a per-pack price, and the [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices that route. A starter deck is cheaper than a box and playable on arrival; a box is for building, not for learning.",
+          "The Gengar premium deserves its own line. Both MEGA starters launched at the same official price, ¥1,800, with the same component types, and the Gengar deck's published list runs Gastly, Haunter, two Mega Gengar ex, and 15 Darkness Energy. Nothing in the box explains a $13.39 gap. Character demand explains it, and a buyer who wants Gengar specifically should pay it knowingly, while a buyer who wants a deck should buy Diancie and keep the difference. That is the same divide-first discipline as the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/), applied to a $24 purchase instead of a $1,000 case."
+        ]
+      },
+      {
+        "h": "The decision layer: which deck for which buyer",
+        "paragraphs": [
+          "Read the table by your situation, not by price alone. Price picks the cheapest row; situation picks the right one."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Solo learner, lowest cost",
+              "SI Start Deck 100",
+              "$8.93",
+              "Cheapest single deck at $0.15 per card; random, so accept any of the 101 decks"
+            ],
+            [
+              "Solo learner, wants to choose",
+              "Starter Set MEGA Mega Diancie ex",
+              "$11.15",
+              "Fixed 60-card list, two Mega Diancie ex, cheapest fixed deck at $0.19 per card"
+            ],
+            [
+              "Gengar fan",
+              "Starter Set MEGA Mega Gengar ex",
+              "$24.54",
+              "Fixed list with two Mega Gengar ex; the $13.39 premium is character demand, paid knowingly"
+            ],
+            [
+              "Newest experience, likes surprise",
+              "Start Deck 100 Battle Collection",
+              "$26.77",
+              "One random deck from 100, 742-card pool, at least 2 ex; newest release, December 19, 2025"
+            ],
+            [
+              "Two learners or a household",
+              "Start Deck Generations Special Battle Set",
+              "$33.46",
+              "Four fixed decks at $8.37 each; a match plus spares in one box"
+            ],
+            [
+              "Collector of the MEGA pair",
+              "Diancie + Gengar starters",
+              "$35.69",
+              "Both fixed lists; the pair is also a complete two-player match"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: from box to first game",
+        "paragraphs": [
+          "A fixed MEGA starter is the fastest route to a first game. Open it, lay out the 60-card deck, the playmat, the damage counters, and the coin, and play: the player's guide walks through the structure, and the deck's Trainer cards, including four Ultra Ball and two Rare Candy in the Gengar list, teach search and evolution in the first games. A random Start Deck 100 product needs one extra step before it can teach anything: find the deck number and read its list, because the list is fixed once the number is known, even though the buyer did not choose it. Two players each need their own deck, so a household starting from zero needs two random units or one Generations set, not one random unit. The Generations set is the most complete teaching box on the shelf: four decks, two coins, a marker sheet, a playmat, a beginner's guide, an instructions booklet, a damage case, and a card box, plus four promos of Meowth, Paldean Wooper, Suicune, and Duraludon.",
+          "Two practical facts about Japanese product catch overseas buyers. First, the card text is Japanese, so a new player learns the game from the guide and from card art, positions, and numbers before they learn it from text; the [guide to reading Japanese Pokemon cards](/blog/how-to-read-japanese-pokemon-cards/) explains where the set code, the number, and the regulation mark sit on the card. Second, Japanese products carry no Pokemon TCG Live code card, unlike the English Battle Decks, so the digital version of the deck is not included. Check the regulation mark on the cards you pull before entering any event: Japan's rotation moved in January 2026, and older marks have left Standard since, which matters for events and not at all for kitchen-table games."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the random-deck catch and the Japanese shelf",
+        "note": "Warehouse Note: the question we get most about starter decks is not which deck is strongest, it is whether the deck inside is the one pictured. For Start Deck 100 products the answer is no, not necessarily, and that single fact reorders the whole ranking. A guide that lists Start Deck 100 as a deck to buy without saying it is a lottery has sold a surprise as a choice, and a buyer who wanted one Pokemon has bought a one-in-a-hundred chance at it.",
+        "paragraphs": [
+          "The top guides share three gaps. First, they rank English Battle Decks and League Battle Decks, which this store does not stock, and quote English MSRPs like $14.99 for the Mega Battle Decks, while the Japanese MEGA starters launched at ¥1,800 and sit on our shelf at $11.15 and $24.54. Second, none of them states the random-deck catch plainly: a Start Deck 100 unit is one deck out of 100, or 101 in the original line, and a match needs two decks, so the headline price is half a match. Third, none of them prices a real Japanese shelf. Our five products span $8.93 to $33.46, and the cheapest playable match is $17.86, not the price of any single item. A ranking that never divides by 60 cards and never doubles for a match is not a buying guide; it is a list of names. The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the print, price, and legality differences that sit behind every number here."
+        ]
+      },
+      {
+        "h": "The risk layer: randomness, text, rotation, and the collector trap",
+        "paragraphs": [
+          "Randomness is the biggest risk, and it is also the product. A Battle Collection buyer chasing the secret deck, the one with a gold Mega Charizard Y ex, is chasing a pull that appeared roughly 0.39 percent of the time in a 1,000-pull community sample, and the gold card had no TCGplayer market price at the time of that coverage. Buy the Battle Collection for a playable random deck and a fun opening; buy singles if a specific card is the goal. The second risk is Japanese text at events: a deck you cannot read is a disadvantage in timed play, and some events restrict languages, so confirm the event's language rules before travelling with a Japanese deck. The third risk is rotation: older decks, including the SI Start Deck 100, carry older regulation marks, so check legality before paying event-entry prices for a practice deck. The recovery in every case is the same: these are $9 to $34 purchases, not case purchases, so the cost of a wrong pick is one deck, and the fix is to buy the fixed deck next. Collectors face a different trap: the Special Deck Set ex with Venusaur, Charizard, and Blastoise sits at $235.30 on our shelf, and it is a collector's set, not a learner's deck, so buying it to learn the game is the most expensive way to start. If a sealed product starts calling once it lands, the [open or keep sealed framework](/blog/should-you-open-or-keep-sealed-booster-box/) is the way to decide."
+        ]
+      },
+      {
+        "h": "Context: Japan's starter range versus the English range",
+        "paragraphs": [
+          "Japan has run its own entry-level deck format alongside English Battle Decks since the Scarlet and Violet era, and the two ranges are not translations of each other. The Japanese MEGA starters arrived September 5, 2025, and their English counterparts, the Mega Battle Decks, arrived October 24, 2025, with a playmat, coin, deck box, and a TCG Live code card, at $14.99 MSRP. The Japanese versions carry damage counters, a player's guide, and an illustration rare Haunter in the Gengar set instead of a code card, and the card lists differ between languages. The original Start Deck 100 never received an English release at all: it stayed exclusive to Japan, Taiwan, Hong Kong, South Korea, and mainland China. That is why a buyer searching in English finds English deck rankings that never mention the products on this shelf. The [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) helps decode what the pulls inside these decks actually are, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the shipping and customs leg of an overseas order."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, players who need English card text for events: buy an English Battle Deck instead, and accept that it is a different product with a different list. Second, collectors chasing one specific card: a random deck is the worst route to a single card, and a fixed deck is only slightly better, since most of its value is playability, not singles. Buy the single. Third, anyone who wants a competitive deck out of the box: starter decks teach the game and give a legal skeleton, and the competitive step is singles and upgrades, not a second starter. Who this guide is for, restated: new players, households learning together, and collectors of the MEGA pair. If that is you, the table above is your shortlist."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide fixed or random first: fixed if you want to choose, random if you want surprise",
+          "Count decks, not items: a match needs two decks, so double single random units",
+          "If two people are learning, price the Generations set first: $8.37 per deck is the household rate",
+          "If buying Gengar, name the reason: character demand, not extra cards",
+          "Check the regulation mark before entering an event; ignore it for kitchen-table games",
+          "Read the Japanese card layout guide before the first game if you cannot read the text",
+          "Do not buy the $235.30 collector deck set to learn the game",
+          "Store the deck in sleeves after the first games; a starter is a playing deck, not a display piece"
+        ],
+        "h": "Action layer: the starter deck checklist",
+        "paragraphs": [
+          "Run this before paying. It takes five minutes and it replaces a shelf of English deck rankings with a decision built on the Japanese products you can actually buy."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-starter-deck-to-buy",
+    "takeaway": [
+      "The best Japanese Pokemon starter deck is the one that matches how you will play. A solo learner on a budget buys the SI Start Deck 100 at $8.93 and accepts the lottery. A solo learner who wants to choose buys the Diancie starter at $11.15. A household buys the Generations set at $33.46 and gets four decks at $8.37 each. The Gengar starter at $24.54 is for Gengar fans, and the Battle Collection at $26.77 is for players who want the newest random-deck experience. Divide by 60, double for a match, and let the arithmetic choose.",
+      "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next starter range arrives, divide first, then ask whether the deck is fixed or random, because that one fact changes what the price buys.",
+      "Still deciding between a deck and a box? The [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices the box route, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Pokemon against One Piece, Lorcana, and Dragon Ball on rules and real first purchase cost. If the deck is for a collector shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping sealed product safe."
     ]
   },
   "best-one-piece-booster-box-to-buy": {
@@ -351,7 +2098,8 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "best-one-piece-booster-box-to-buy",
     "takeaway": [
-      "The best One Piece booster box is the one whose arithmetic matches your job. OP-18 wins on price at every unit — $2.92 per pack, $62.92 per box in a case that honestly discounts. OP-17 English wins for readers and its case saves the most per box. OP-17 Japanese is a theme purchase at $4.21 per pack, and its case is the one format on this page to avoid, charging $0.18 more per box for buying in bulk. Three sets, three case structures, three answers — all of them visible the moment the division gets done."
+      "The best One Piece booster box is the one whose arithmetic matches your job. OP-18 wins on price at every unit — $2.92 per pack, $62.92 per box in a case that honestly discounts. OP-17 English wins for readers and its case saves the most per box. OP-17 Japanese is a theme purchase at $4.21 per pack, and its case is the one format on this page to avoid, charging $0.18 more per box for buying in bulk. Three sets, three case structures, three answers — all of them visible the moment the division gets done. For the English-only shelf, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
+      "For the full Japanese-only shelf, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack and exposes the case trap eleven sets hide."
     ]
   },
   "best-value-japanese-pokemon-booster-boxes": {
@@ -538,7 +2286,9 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "best-value-japanese-pokemon-booster-boxes",
     "takeaway": [
       "The ladder, one last time, all prices as of October 24, 2026: M3 $58.85, M4 $73.56, M5 $76.34, M2a $95.64, White Flare $139.77, Black Bolt $152.65, M6a $207.50. Verified per-card: White Flare $1.00, Black Bolt $1.09, M6a $1.73. Everything else in this guide is framework — the questions that turn a price into a value judgment for one specific buyer.",
-      "That is the most honest form a 'best value' guide can take. The Warehouse publishes its prices, shows its arithmetic where arithmetic is possible, and refuses the fake precision of ranking what it has not verified. Pick your band, answer the four questions, and the right box is usually the one still standing."
+      "That is the most honest form a 'best value' guide can take. The Warehouse publishes its prices, shows its arithmetic where arithmetic is possible, and refuses the fake precision of ranking what it has not verified. Pick your band, answer the four questions, and the right box is usually the one still standing.",
+      "Learning the game instead of building a collection? The [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) prices fixed MEGA starters, random Start Deck 100, and the four-deck Generations set per card.",
+      "When the set is chosen and the question becomes format, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices 16 cases against their own singles, with M1S cheapest at $64.43 per box."
     ]
   },
   "black-bolt-vs-white-flare-which-to-buy": {
@@ -989,7 +2739,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Fusion World earns its place next to Pokémon and One Piece by being genuinely different: 8 Life that turns into hand cards, an Awaken that rewards taking damage, and battles settled by how much of your hand you are willing to spend. Learn it on a starter deck, expand into FB12 once you know your deck's gaps, and leave the $1,265 case to the collectors it is made for.",
       "And when a box does land in your hands and the seal starts calling, run it through [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you break it — that framework was written for exactly that moment. More first-timer guides live on [the blog](/blog/).",
-      "Choosing between the three games? [Which TCG should you start?](/blog/which-tcg-should-you-start/) compares Fusion World with One Piece and Pokémon on rules, structure, and the real cost of the first box."
+      "Choosing between the three games? [Which TCG should you start?](/blog/which-tcg-should-you-start/) compares Fusion World with One Piece and Pokémon on rules, structure, and the real cost of the first box.",
+      "Once you know the rules and want to buy sealed, [the best Dragon Ball Fusion World booster box to buy](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve FB cases by per-box price from our live English case prices — including why the FB12 pre-order case undercuts FB11. For the other Dragon Ball game, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all 13 Masters sealed cases per box and per pack."
     ]
   },
   "how-many-packs-in-a-booster-box": {
@@ -2240,7 +3991,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "m6a-30th-celebration-buyers-guide",
     "takeaway": [
       "M6a 30th Celebration earns its premium conversation honestly: 120 holographic cards, a Pikachu in every pack, Mew ex and Mewtwo ex in YOSHIROTTEN art, a new rarity, and thirty years of history in the Classic Collection. At $207.50 a box — $1.73 a card, as of October 24, 2026 — it is the most expensive Japanese box in the store per card, and this guide has not hidden that number once.",
-      "Buy it as the celebration it is: to open and enjoy, to chase Pikachu with a floor under every pack, or to hold as a dated anniversary artifact. Do not buy it as a promise. The Warehouse stocks it proudly and describes it plainly — both, in this hobby, are the point."
+      "Buy it as the celebration it is: to open and enjoy, to chase Pikachu with a floor under every pack, or to hold as a dated anniversary artifact. Do not buy it as a promise. The Warehouse stocks it proudly and describes it plainly — both, in this hobby, are the point.",
+      "Collecting special sets beyond the anniversary range? The [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional Pokemon Center boxes, the anniversary ladder, and the themed gift sets from one shelf, including the box that holds no packs at all."
     ]
   },
   "one-piece-card-game-colors-explained": {
@@ -2718,7 +4470,8 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "op-18-the-dominance-of-god-preorder-guide",
     "takeaway": [
-      "OP-18's pre-order case is unusually clean: a verified November 20, 2026 release, a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first."
+      "OP-18's pre-order case is unusually clean: a verified November 20, 2026 release, a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first. For the full English back catalogue, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
+      "For the whole Japanese shelf around this pre-order, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack, with OP-18 second-cheapest at $3.50 per pack."
     ]
   },
   "preorder-japanese-booster-box-or-wait": {
@@ -3143,7 +4896,9 @@ export const POSTS: Record<string, BlogPost> = {
       "'Case' is a quantity, not a discount. At our October 20, 2026 prices, the OP-17 English case saves $290.88 across twelve boxes against buying singles — real money, worth having if the twelve boxes have a plan. The OP-17 Japanese case costs $2.16 more across twelve than the same boxes bought one at a time. Same store, same week, same label on the outer carton. The label did none of that. The division did all of it.",
       "So the habit to take from this article is smaller than a case: two divisions, run every time, before the money moves. Case price by boxes. Box price by packs. Two minutes of arithmetic is the cheapest due diligence in this hobby — and the only version of 'bulk discount' that has ever been guaranteed.",
       "The case question usually hides an investment question, so read [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before committing case money. Every figure in this article came from dividing by pack counts — [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the reference table behind the math. And if you're importing a case from Japan yourself, [the shipping, customs, and proxy breakdown](/blog/buying-tcg-from-japan-shipping-customs-proxy/) shows what the case really costs landed.",
-      "A case only holds its value if it survives storage: [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers the conditions that quietly destroy the premium the math above depends on."
+      "A case only holds its value if it survives storage: [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers the conditions that quietly destroy the premium the math above depends on.",
+      "Two new case guides apply this same division to single games: [the best Disney Lorcana booster box to buy](/blog/best-disney-lorcana-booster-box-to-buy/) divides all fourteen Lorcana cases to per-box and per-pack, and [the best Dragon Ball Fusion World booster box](/blog/best-dragon-ball-fusion-world-booster-box/) does the same across all twelve FB sets — both from our live case prices, so the per-box numbers are checkable rather than claimed.",
+      "For the Pokemon side of the same method, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices 16 cases box by box, including the M3 case that costs more than its single."
     ]
   },
   "should-you-open-or-keep-sealed-booster-box": {
@@ -3734,9 +5489,12 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "which-tcg-should-you-start",
     "takeaway": [
       "Three games, three honest shapes: Pokémon collects deepest, One Piece structures play best on a budget, and Dragon Ball runs the most direct fight — 8 Life, an Awakening at 4, and one attack beyond zero. None of those is a ranking. They are descriptions, and the right door is the one that matches the Saturdays you actually have.",
-      "If the anime fan in you is doing the choosing, trust that answer and skip the agonizing — fandom is a legitimate strategy, because it is the one that keeps you opening, playing, and finishing sets a year from now."
+      "If the anime fan in you is doing the choosing, trust that answer and skip the agonizing — fandom is a legitimate strategy, because it is the one that keeps you opening, playing, and finishing sets a year from now.",
+      "If Lorcana is the game you picked, the next step is sealed: [the best Disney Lorcana booster box to buy](/blog/best-disney-lorcana-booster-box-to-buy/) divides all fourteen Lorcana cases to per-box and per-pack from our live prices, so you can see which set is actually cheapest before you commit to a case.",
+      "If Pokemon is the game you picked, the [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) prices the fixed MEGA starters against random Start Deck 100 and the four-deck Generations set, per card and per match."
     ]
   }
+
 };
 
 export const POST_SLUGS = Object.keys(POSTS);
