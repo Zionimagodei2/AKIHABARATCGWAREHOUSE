@@ -4128,7 +4128,7 @@ export const POSTS: Record<string, BlogPost> = {
           "SV11B Black Bolt: $991.73 / 12 = $82.64 per box; $183.18 - $82.64 = $100.54 spread per box",
           "Black Bolt full case: 12 x $183.18 - $991.73 = $1,206.43 gross spread before selling fees and onward shipping",
           "M3 Munikis Zero: $1,048.24 / 12 = $87.35 per box; $87.35 - $70.62 = $16.73 MORE per box in the case",
-          "SV2a Pokemon 151: $3,809.32 / 12 = $317.44 per box; no single box on the shelf, so no spread to compute",
+          "SV2a Pokemon 151: $3,809.32 / 12 = $317.44 per box; $471.20 - $317.44 = $153.76 spread per box",
           "SV8a Terastal Festival ex: $2,723.16 / 20 boxes = $136.16 per box (High Class Pack, compared per box only)",
           "Three-way split of M1S: $773.15 / 3 = $257.72 per person for 4 boxes, against 4 x $84.97 = $339.88 singly"
         ],
@@ -4136,7 +4136,7 @@ export const POSTS: Record<string, BlogPost> = {
         "paragraphs": [
           "Start with the cheapest way into bulk: the [M1S Mega Symphonia case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) at $773.15 works out to $64.43 per box, $20.54 under its $84.97 single box. That is the lowest per-box cost on the ladder. For a first bulk order, low outlay matters more than a large spread, because the risk being tested is the supplier and the shipping route, not the set. M1S launched on August 1, 2025, alongside M1L, at 180 yen per pack tax-included on the official product data, which is why the 30-pack box divides so cleanly.",
           "The largest gross spread belongs to [SV11B Black Bolt](/product/sv11b-black-bolt-sealed-case-12-boxes-japanese-pokemon-card/): $991.73 for 12 boxes is $82.64 per box against a $183.18 single, a $100.54 spread per box and $1,206.43 across the case before selling fees, payment fees, and onward shipping. [SV11W White Flare](/product/sv11w-white-flare-sealed-case-12-boxes-japanese-pokemon-card/) is close behind at $93.38 per box. Those spreads are gross, not profit.",
-          "At the other end, [SV2a Pokemon 151](/product/sv2a-pokemon-card-151-sealed-case-12-boxes-japanese-pokemon-card/) concentrates $3,809.32 into a single set at $317.44 per box, with no single 151 box on the shelf to spread against: a conviction buy for a shop that already sells 151, not a starter case. The High Class Pack cases are the same kind of commitment: [S12a VSTAR Universe](/product/s12a-vstar-universe-sealed-case-20-boxes-japanese-pokemon-card/) at $192.14 per box and S8b VMAX Climax at $202.17 are 20-box cases, so their totals run past $3,800 and $4,000.",
+          "At the other end, [SV2a Pokemon 151](/product/sv2a-pokemon-card-151-sealed-case-12-boxes-japanese-pokemon-card/) concentrates $3,809.32 into a single set at $317.44 per box, against a $471.20 single box, a $153.76 spread per box: a conviction buy for a shop that already sells 151, not a starter case. The High Class Pack cases are the same kind of commitment: [S12a VSTAR Universe](/product/s12a-vstar-universe-sealed-case-20-boxes-japanese-pokemon-card/) at $192.14 per box and S8b VMAX Climax at $202.17 are 20-box cases, so their totals run past $3,800 and $4,000.",
           "The collector-focused [Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) is the companion for buyers who hold rather than resell, and the [case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game on the shelf."
         ],
         "table": {
@@ -4210,8 +4210,8 @@ export const POSTS: Record<string, BlogPost> = {
               "$3,809.32",
               "12",
               "$317.44",
-              "Not on shelf",
-              "-"
+              "$471.20",
+              "+$153.76"
             ],
             [
               "SV8a Terastal Festival ex",
@@ -4269,7 +4269,7 @@ export const POSTS: Record<string, BlogPost> = {
         "h": "The decision layer: which case for which bulk buyer",
         "paragraphs": [
           "A solo reseller starting out should buy M1S: cheapest per box, cheapest case total among current sets, and easy to split three ways at $257.72 per person for four boxes. If the test order goes wrong, the amount at risk is $773.15, not $4,000.",
-          "A shop stocking current demand should look at Black Bolt and White Flare first, where the spreads are widest, and at M2 Inferno X, where a $72.04 spread pairs with a current-era set. Shops should not chase the 151 case for margin alone: its $317.44 per-box cost leaves little room if the single-box reference moves, and the whole $3,809.32 sits in one set.",
+          "A shop stocking current demand should look at Black Bolt and White Flare first, where the spreads are widest, and at M2 Inferno X, where a $72.04 spread pairs with a current-era set. Shops should weigh the 151 case carefully: its $153.76 spread per box is real, but the whole $3,809.32 sits in one set, so a restock that moves the single-box reference hits the entire position at once.",
           "A group splitting a case should pick by headcount, not by hype. Three people split a 12-box case into four boxes each; four people into three. The split price is the per-box cost times boxes per person, and anyone paying more than the single-box price for their share is overpaying for the split.",
           "Nobody should buy the [M3 Munikis Zero case](/product/m3-munikis-zero-nihil-zero-sealed-case-12-boxes-japanese-pokemon-card/) to save money. At $87.35 per box against a $70.62 single, the case is the expensive route. Buy M3 singles, or skip M3 for bulk entirely."
         ],
