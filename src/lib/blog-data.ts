@@ -920,7 +920,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best English One Piece booster box is the one that matches your budget and your reason. A player on a budget buys OP-12 at $162.56 and gets the cheapest pack on the shelf at $6.77. A player who wants the newest cards buys OP-17 at $212.09 at $8.84 a pack. A collector buys EB-03 for the heroines at $246.00 or PRB-02 for reprints at $230.92, and a history buyer buys OP-01 white bottom at $555.45 knowing exactly which print it is. Divide by 24, compare against the $119.76 MSRP box, and let the arithmetic choose.",
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next English set arrives, divide first, check the print second, and ask whether the box is a main set, an extra booster, or a premium booster, because that one fact changes what the price buys.",
-      "Still deciding between English and Japanese? The [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) prices the Japanese shelf, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the shipping leg. If the box is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe. For one set in both languages, the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices the Japanese box at $155.04 against the English box at $790.60."
+      "Still deciding between English and Japanese? The [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) prices the Japanese shelf, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the shipping leg. If the box is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe. For one set in both languages, the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices the Japanese box at $155.04 against the English box at $790.60.",
+      "For the Premium Booster volumes specifically, [PRB-01 vs PRB-02](/blog/prb-01-vs-prb-02-which-to-buy/) compares Vol. 1 and Vol. 2 in Japanese and English, box and case."
     ]
   },
   "best-japanese-one-piece-booster-box-to-buy": {
@@ -1692,7 +1693,8 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "best-japanese-one-piece-sealed-case-to-buy",
     "takeaway": [
-      "The best Japanese One Piece sealed case is the one whose division survives contact with its own single. OP-15 wins the cheapest rate at $68.00 per box, OP-02 wins the biggest saving at $40.97 per box, and OP-03 is the only other discount large enough to decide on. Eleven cases cost more than their single, by pennies that add up across a case, and OP-18 cannot be ranked until its listing prints a box count. Twenty-four cases, every division shown, one rule at the end: divide the case, compare it to its own single, and only then pay."
+      "The best Japanese One Piece sealed case is the one whose division survives contact with its own single. OP-15 wins the cheapest rate at $68.00 per box, OP-02 wins the biggest saving at $40.97 per box, and OP-03 is the only other discount large enough to decide on. Eleven cases cost more than their single, by pennies that add up across a case, and OP-18 cannot be ranked until its listing prints a box count. Twenty-four cases, every division shown, one rule at the end: divide the case, compare it to its own single, and only then pay.",
+      "Choosing between the two Premium Booster volumes? [PRB-01 vs PRB-02](/blog/prb-01-vs-prb-02-which-to-buy/) prices all eight PRB products, with Vol. 2's SR floor and the English premium laid out."
     ]
   },
   "best-japanese-pokemon-sealed-case-to-buy": {
@@ -1991,7 +1993,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "best-japanese-pokemon-sealed-case-to-buy",
     "takeaway": [
       "The best Japanese Pokemon sealed case is the one whose division survives contact with its own single. M1S wins the current-era rate at $64.43 per box, SV11B and SV11W win the biggest savings at over $90 per box each, and SV2a wins the largest absolute saving at $153.76 per box. M3 is the warning that makes the whole guide necessary: its case costs $16.73 more per box than its single, and no buyer who divides will ever pay it. Sixteen cases, every division shown, one rule at the end: divide the case, compare it to its own single, and only then pay.",
-      "For the Mega case with the widest saving in this cycle's comparison, the [M2 Inferno X buyers guide](/blog/m2-inferno-x-buyers-guide/) prices the case at $1,333.69 against twelve singles at $2,198.16."
+      "For the Mega case with the widest saving in this cycle's comparison, the [M2 Inferno X buyers guide](/blog/m2-inferno-x-buyers-guide/) prices the case at $1,333.69 against twelve singles at $2,198.16.",
+      "Buying in bulk to resell rather than hold? [Japanese Pokemon cards wholesale](/blog/japanese-pokemon-cards-wholesale-buyers-guide/) divides the reseller ladder case by case, including the M3 case that costs more per box than singles."
     ]
   },
   "best-japanese-pokemon-special-set-to-buy": {
@@ -4084,6 +4087,283 @@ export const POSTS: Record<string, BlogPost> = {
       "One Piece buyers face the same problem one level down: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) runs the card-level checks with the same honesty about what inspection can and cannot prove."
     ]
   },
+  "japanese-pokemon-cards-wholesale-buyers-guide": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "No. On this shelf the wholesale unit is one sealed case, and there is no minimum beyond that. Marketplace listings demanding 10, 20, or 100 boxes impose their own minimums, not a rule of the Japanese market.",
+        "q": "Is there a minimum order for buying Japanese Pokemon cards wholesale?"
+      },
+      {
+        "a": "A case is not automatically cheaper per box. M3 Munikis Zero proves it: its case works out to $87.35 per box against a $70.62 single, so the case costs $16.73 more per box. Every case has to be divided before it is called a deal.",
+        "q": "Is a sealed case always cheaper per box than buying single boxes?"
+      },
+      {
+        "a": "Start with one case, not ten. Check the seals and packing, and run the landed cost (case price plus shipping plus whatever duty your country charges) before scaling. The bulk buyers who get hurt scale a supplier they have never tested.",
+        "q": "How should a new bulk buyer start without risking a large order?"
+      }
+    ],
+    "h1": "Japanese Pokemon Cards Wholesale: The Case-Math Guide",
+    "intro": [
+      "Wholesale Japanese Pokemon, on this shelf, means buying sealed cases at listed prices: there is no hidden price list and no separate wholesale tier behind the case price. The cheapest case per box as of November 4, 2026 is M1S Mega Symphonia at $64.43 per box, and the largest gross spread against single boxes is SV11B Black Bolt at $100.54 per box. One case breaks the rule entirely: M3 Munikis Zero costs more per box in a case than singly.",
+      "Who this is for: small shops, market stall sellers, and groups splitting cases who buy in bulk to resell or stock. Who it is not for: anyone expecting a secret distributor discount, or a guaranteed resale price, because no case price promises what the boxes inside will sell for later.",
+      "Every price below is a Warehouse price as of November 4, 2026, from the live shelf. Cases are 12 boxes unless marked as 20-box High Class Packs. Standard MEGA-era boxes hold 30 packs of 5 cards; standard Scarlet and Violet boxes hold 20 packs of 5 cards; High Class Pack boxes are compared per box only, because their pack counts differ."
+    ],
+    "metaDescription": "Wholesale Japanese Pokemon means sealed cases at listed prices: M1S at $64.43 per box, Black Bolt spread $100.54, and the M3 case that costs more.",
+    "metaTitle": "Japanese Pokemon Cards Wholesale: The Case-Math Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: wholesale here is a case, not a club",
+        "paragraphs": [
+          "There is no official international wholesale program for Japanese Pokemon product that a shop overseas can simply join. Japanese distribution serves Japanese retail, and overseas shops source through exporters, retailers, and marketplaces instead. That changes what a bulk buyer should ask for: not an application form, but a dated price list and a first order small enough to test.",
+          "On this shelf, the price list is public and the wholesale unit is one sealed case. There is no members-only list, no approval step, and no minimum beyond a single case. Anyone promising a cheaper price behind the case price should be asked to show it, because on this shelf the case price is the price.",
+          "That single fact is also why this guide exists. Wholesale pages elsewhere hide prices behind applications or quote minimum orders of 10, 20, or even 100 boxes without a per-box figure. This page shows the reseller ladder divided, dated, and with the one case that loses money against singles left in plain sight."
+        ]
+      },
+      {
+        "h": "The money layer: twelve cases, divided",
+        "math": [
+          "M1S Mega Symphonia: $773.15 / 12 boxes = $64.43 per box; $64.43 / 30 packs = $2.15 per pack",
+          "SV11B Black Bolt: $991.73 / 12 = $82.64 per box; $183.18 - $82.64 = $100.54 spread per box",
+          "Black Bolt full case: 12 x $183.18 - $991.73 = $1,206.43 gross spread before selling fees and onward shipping",
+          "M3 Munikis Zero: $1,048.24 / 12 = $87.35 per box; $87.35 - $70.62 = $16.73 MORE per box in the case",
+          "SV2a Pokemon 151: $3,809.32 / 12 = $317.44 per box; no single box on the shelf, so no spread to compute",
+          "SV8a Terastal Festival ex: $2,723.16 / 20 boxes = $136.16 per box (High Class Pack, compared per box only)",
+          "Three-way split of M1S: $773.15 / 3 = $257.72 per person for 4 boxes, against 4 x $84.97 = $339.88 singly"
+        ],
+        "note": "The question we get most from bulk buyers is whether a cheaper price sits behind the case price. It does not on this shelf. The case price is the price, which is why this page divides it in public instead of asking for an application first.",
+        "paragraphs": [
+          "Start with the cheapest way into bulk: the [M1S Mega Symphonia case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) at $773.15 works out to $64.43 per box, $20.54 under its $84.97 single box. That is the lowest per-box cost on the ladder. For a first bulk order, low outlay matters more than a large spread, because the risk being tested is the supplier and the shipping route, not the set. M1S launched on August 1, 2025, alongside M1L, at 180 yen per pack tax-included on the official product data, which is why the 30-pack box divides so cleanly.",
+          "The largest gross spread belongs to [SV11B Black Bolt](/product/sv11b-black-bolt-sealed-case-12-boxes-japanese-pokemon-card/): $991.73 for 12 boxes is $82.64 per box against a $183.18 single, a $100.54 spread per box and $1,206.43 across the case before selling fees, payment fees, and onward shipping. [SV11W White Flare](/product/sv11w-white-flare-sealed-case-12-boxes-japanese-pokemon-card/) is close behind at $93.38 per box. Those spreads are gross, not profit.",
+          "At the other end, [SV2a Pokemon 151](/product/sv2a-pokemon-card-151-sealed-case-12-boxes-japanese-pokemon-card/) concentrates $3,809.32 into a single set at $317.44 per box, with no single 151 box on the shelf to spread against: a conviction buy for a shop that already sells 151, not a starter case. The High Class Pack cases are the same kind of commitment: [S12a VSTAR Universe](/product/s12a-vstar-universe-sealed-case-20-boxes-japanese-pokemon-card/) at $192.14 per box and S8b VMAX Climax at $202.17 are 20-box cases, so their totals run past $3,800 and $4,000.",
+          "The collector-focused [Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) is the companion for buyers who hold rather than resell, and the [case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game on the shelf."
+        ],
+        "table": {
+          "head": [
+            "Case",
+            "Case price",
+            "Boxes",
+            "Per box",
+            "Single box",
+            "Spread per box"
+          ],
+          "rows": [
+            [
+              "M1S Mega Symphonia",
+              "$773.15",
+              "12",
+              "$64.43",
+              "$84.97",
+              "+$20.54"
+            ],
+            [
+              "M1L Mega Brave",
+              "$912.18",
+              "12",
+              "$76.02",
+              "$94.91",
+              "+$18.89"
+            ],
+            [
+              "M2 Inferno X",
+              "$1,333.69",
+              "12",
+              "$111.14",
+              "$183.18",
+              "+$72.04"
+            ],
+            [
+              "M3 Munikis Zero",
+              "$1,048.24",
+              "12",
+              "$87.35",
+              "$70.62",
+              "-$16.73"
+            ],
+            [
+              "SV11B Black Bolt",
+              "$991.73",
+              "12",
+              "$82.64",
+              "$183.18",
+              "+$100.54"
+            ],
+            [
+              "SV11W White Flare",
+              "$892.12",
+              "12",
+              "$74.34",
+              "$167.72",
+              "+$93.38"
+            ],
+            [
+              "SV10 Glory of Team Rocket",
+              "$1,821.40",
+              "12",
+              "$151.78",
+              "$212.99",
+              "+$61.21"
+            ],
+            [
+              "SV2a Pokemon 151",
+              "$3,809.32",
+              "12",
+              "$317.44",
+              "Not on shelf",
+              "-"
+            ],
+            [
+              "SV8a Terastal Festival ex",
+              "$2,723.16",
+              "20",
+              "$136.16",
+              "$163.32",
+              "+$27.16"
+            ],
+            [
+              "S12a VSTAR Universe",
+              "$3,842.76",
+              "20",
+              "$192.14",
+              "$241.67",
+              "+$49.53"
+            ],
+            [
+              "SV4a Shiny Treasure ex",
+              "$2,306.10",
+              "20",
+              "$115.30",
+              "$141.24",
+              "+$25.94"
+            ],
+            [
+              "S8b VMAX Climax",
+              "$4,043.47",
+              "20",
+              "$202.17",
+              "$291.34",
+              "+$89.17"
+            ]
+          ]
+        }
+      },
+      {
+        "checklist": [
+          "Divide the case price by the box count; write down the per-box cost",
+          "Compare with the single-box price, same shelf, same date",
+          "Confirm the case size: 12 boxes, or 20 for High Class Packs",
+          "Confirm the language: Japanese, on every product",
+          "Check seals on arrival, box by box, before breaking the case",
+          "Work out the landed cost: case plus shipping plus any duty",
+          "Line up split buyers or listings before opening anything"
+        ],
+        "h": "The practical layer: how a bulk order actually goes",
+        "paragraphs": [
+          "First, choose by per-box cost, not by case total. A $773.15 case and a $4,043.47 case are not two sizes of the same decision: one is twelve boxes of a current set, the other twenty boxes of a High Class Pack set with a different buyer. Divide first, compare the per-box figures, then check the single-box price.",
+          "Second, start with one case. It tests everything before money scales: whether seals arrive intact, how boxes are packed, what shipping costs to your country, and what duty lands on top. Our [resealed box checks](/blog/how-to-tell-if-a-booster-box-is-resealed/) apply to every box in the case, and our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) covers what happens after twenty boxes arrive at once.",
+          "Third, decide the exit before the case ships: split it, list it, or hold it. A split needs buyers lined up before opening, because an opened case cannot be sold as sealed again. A listing needs the per-box cost written down, so fees do not quietly eat the spread. A hold needs dry, cool storage, because sealed stock earns nothing while it sits."
+        ]
+      },
+      {
+        "h": "The decision layer: which case for which bulk buyer",
+        "paragraphs": [
+          "A solo reseller starting out should buy M1S: cheapest per box, cheapest case total among current sets, and easy to split three ways at $257.72 per person for four boxes. If the test order goes wrong, the amount at risk is $773.15, not $4,000.",
+          "A shop stocking current demand should look at Black Bolt and White Flare first, where the spreads are widest, and at M2 Inferno X, where a $72.04 spread pairs with a current-era set. Shops should not chase the 151 case for margin alone: its $317.44 per-box cost leaves little room if the single-box reference moves, and the whole $3,809.32 sits in one set.",
+          "A group splitting a case should pick by headcount, not by hype. Three people split a 12-box case into four boxes each; four people into three. The split price is the per-box cost times boxes per person, and anyone paying more than the single-box price for their share is overpaying for the split.",
+          "Nobody should buy the [M3 Munikis Zero case](/product/m3-munikis-zero-nihil-zero-sealed-case-12-boxes-japanese-pokemon-card/) to save money. At $87.35 per box against a $70.62 single, the case is the expensive route. Buy M3 singles, or skip M3 for bulk entirely."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "First pick",
+            "Why",
+            "Avoid"
+          ],
+          "rows": [
+            [
+              "Solo reseller, first order",
+              "M1S, $64.43 per box",
+              "Lowest outlay, lowest per-box cost",
+              "151 case: $3,809.32 in one set"
+            ],
+            [
+              "Shop stocking demand",
+              "Black Bolt, $82.64 per box",
+              "Widest spread, $100.54 per box",
+              "M3 case: dearer per box than singles"
+            ],
+            [
+              "Group splitting a case",
+              "Any 12-box case, divided by headcount",
+              "Split price is per-box cost times boxes each",
+              "Opening before buyers are lined up"
+            ],
+            [
+              "Sealed holder, not reseller",
+              "VSTAR or VMAX Climax, per box only",
+              "High Class Pack stock for the long shelf",
+              "Treating a hold as income"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other wholesale pages miss: a public, dated ladder",
+        "paragraphs": [
+          "Search wholesale Japanese Pokemon and the top results fall into three kinds: marketplace listings with minimum orders from 1 to 100 boxes and no consistent per-box figure, members-only price lists that unlock only after an application, and exporter guides that explain the market without pricing a single case. None lets a buyer divide a case before contacting anyone.",
+          "This page is the missing piece for one store: every case on the reseller ladder, priced, divided, dated November 4, 2026, with the losing case included. The marketplace trap it guards against is specific: listings that mix Chinese or Korean product with Japanese product, and minimum orders that turn a test buy into a warehouse.",
+          "The other gap is the program that does not exist. Because there is no official international wholesale program to join, a page promising distributor pricing for Japanese product should be read as a claim about that seller, not about the market. Ask for the case price, divide it, and compare it with a public shelf like this one."
+        ]
+      },
+      {
+        "h": "The risk layer: reprints, duties, and the case that loses",
+        "paragraphs": [
+          "Reprints and restocks are the main risk to a bulk position. A case bought for its spread can lose that spread if the set is reprinted or restocked and single-box prices fall. That risk is highest on the widest spreads, because a wide spread often means the single price is elevated by scarcity that a restock removes.",
+          "Duties and shipping are the second risk, and they vary by destination. This guide quotes no duty rate, because no single rate is true for every country. Our [Japan shipping and customs guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the route and the questions to ask before a bulk order, and the landed cost has to be computed for your country before the spread is believed.",
+          "Storage is the third risk, and it scales with the case. Twenty boxes need dry, cool, unstacked space where seals are not crushed. Damaged seals cost money twice, once in condition and once in buyer trust.",
+          "Finally, no case guarantees any particular card. The Pokemon Company does not publish pull rates, so a case buys sealed boxes of random cards. A bulk buyer who needs one specific card should buy that single, not a case, and our [investment honesty guide](/blog/are-japanese-pokemon-cards-a-good-investment/) runs the longer version of that argument."
+        ]
+      },
+      {
+        "h": "Context: why Japanese wholesale works this way",
+        "paragraphs": [
+          "Japanese product is distributed for Japanese retail. That explains the whole structure overseas buyers meet: no international wholesale application, exporter-retailers as the normal route, marketplaces with minimum orders as the noisy alternative, and price lists that appear only after approval. A buyer who understands that structure stops looking for a program and starts vetting sellers.",
+          "Vetting a seller means three checks: a public price that can be divided, a stated language and box count for every product, and a first order small enough to test packing and delivery. The Tokyo exporter guide that spells out this market recommends new volume buyers start with a small test order before committing to larger quantities, and on this shelf that test is one case.",
+          "Language is part of the check, not a detail. Japanese boxes are the product with the 30-pack MEGA boxes and 20-pack Scarlet and Violet boxes described here; English boxes are a different product, and marketplace results observed for this guide mix the two freely. Our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the differences that matter at the shelf."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer who wants exactly one box: buy the single box rather than tying up case money. It is not for anyone who needs a guaranteed resale price or a promised profit, because no case on this page promises either. It is not for a buyer who cannot store twelve or twenty sealed boxes properly, because crushed seals and damp storage destroy the spread faster than any price move.",
+          "It is also not for a buyer chasing one specific card. Sealed cases are the wrong tool for that job at any quantity: the card may not be in the case at all. Buy the single, keep the case money for stock that sells as sealed product."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick by per-box cost, not by case total",
+          "Divide: case by boxes, box by packs where verified",
+          "Compare with the single-box price, same date",
+          "Reject any case dearer per box than singles, like M3",
+          "Start with one case; test seals, packing, shipping, duty",
+          "Compute the landed cost before believing the spread",
+          "Line up split buyers or listings before opening",
+          "Store sealed boxes dry, cool, and unstacked"
+        ],
+        "h": "Action layer: the bulk-buy checklist",
+        "paragraphs": [
+          "Run this list in order, before money moves. If any step fails, the case waits."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-cards-wholesale-buyers-guide",
+    "takeaway": [
+      "Wholesale on this shelf is a case at a listed price, not a club with a hidden list: M1S is cheapest at $64.43 per box, Black Bolt carries the widest gross spread at $100.54 per box, and M3 is the case that costs more per box than singles. Divide every case, compare it with the single on the same date, and let the per-box number choose.",
+      "Start with one case. Test the seals, the packing, the shipping, and the duty, and only then scale. The bulk buyers who lose money are not the ones who bought the wrong set; they are the ones who scaled an untested seller or an undivided price.",
+      "Still deciding between sealed and singles? The [case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a case lands. New to sealed buying? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and the [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience."
+    ]
+  },
   "japanese-pokemon-rarity-symbols-explained": {
     "datePublished": "2026-10-20",
     "faqs": [
@@ -5247,6 +5527,198 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "OP-18's pre-order case is unusually clean: a verified November 20, 2026 release, a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first. For the full English back catalogue, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
       "For the whole Japanese shelf around this pre-order, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack, with OP-18 second-cheapest at $3.50 per pack."
+    ]
+  },
+  "prb-01-vs-prb-02-which-to-buy": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "For most buyers, yes: PRB-02 is cheaper in both languages ($74.82 Japanese and $230.92 English, against $149.63 and $541.95 for PRB-01) and every pack carries an official floor of at least one Super Rare or better, which PRB-01 does not print. PRB-01 wins only for the collector who wants the first volume's art and its Sanji Leader.",
+        "q": "Is PRB-02 better than PRB-01?"
+      },
+      {
+        "a": "Only if the collection specifically needs English Vol. 1. The Japanese box is $149.63, a $392.32 gap, and the official English page prints $5.49 per pack with no packs-per-box figure, so the $541.95 is a secondary-market price for a 2024 set, not a retail list price. An English buyer who just wants Premium Booster packs should buy PRB-02 English at $230.92.",
+        "q": "Is the English PRB-01 box worth $541.95?"
+      },
+      {
+        "a": "The listing does not state it, so this guide does not divide the $2,168.92 case price. The Japanese PRB-02 case states 20 boxes and divides to $74.48 per box, and the English PRB-01 case states 10 boxes and divides to $509.06 per box. Until the English PRB-02 listing states its count, any per-box figure for it is a guess.",
+        "q": "How many boxes are in the English PRB-02 sealed case?"
+      }
+    ],
+    "h1": "PRB-01 vs PRB-02: Which One Piece The Best Set to Buy",
+    "intro": [
+      "For most buyers, PRB-02 wins: its Japanese box is $74.82 against $149.63 for PRB-01, and every PRB-02 pack carries an official floor of at least one Super Rare or better, a guarantee PRB-01 does not carry. PRB-01 is the pick for the collector who wants the first volume's reprint art and its Sanji Leader, not for the buyer chasing value per pack.",
+      "Who this is for: One Piece collectors and players choosing between the two Premium Booster volumes, in Japanese or English, by the box or by the case. Who it is not for: anyone chasing one named card, for whom singles beat sealed at any volume, and anyone who assumes the two volumes are interchangeable, because the SR floor and the price gap say otherwise.",
+      "Every price below is a Warehouse price as of November 4, 2026. Japanese PRB-01 boxes hold 10 packs of 10 cards; for PRB-02 the official pages print the 10-card pack but no packs-per-box figure, so PRB-02 is compared per box, not per pack."
+    ],
+    "metaDescription": "PRB-01 vs PRB-02 from one shelf: Vol. 2 is cheaper with an SR floor in every pack, Vol. 1 is the art set, and English costs multiples of Japanese.",
+    "metaTitle": "PRB-01 vs PRB-02: Which One Piece The Best Set to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: Vol. 2 for most buyers, Vol. 1 for the art collector",
+        "paragraphs": [
+          "PRB-02 is cheaper in both languages, newer, and the only volume with a printed rarity floor. Its Japanese box at $74.82 is $74.81 less than the PRB-01 Japanese box, and its English box at $230.92 is $311.03 less than the English PRB-01 box. A buyer who wants Premium Booster packs to open, with a guaranteed Super Rare or better in every pack, has no reason to pay the Vol. 1 premium.",
+          "PRB-01 earns its price a different way. It is the first volume of ONE PIECE CARD THE BEST, released in Japan on July 27, 2024, built from popular returning cards with new parallel artwork, a Sanji Leader, and 30 DON!! card designs. Its English box at $541.95 is a secondary-market price for a 2024 set, not a retail list price: the official English page prints $5.49 per pack, and no official page prints a packs-per-box figure for the English box, so the shelf price cannot be divided into a per-pack figure honestly.",
+          "Language is the second decision, and it is larger than the volume decision. English PRB-01 costs $392.32 more per box than Japanese PRB-01, and English PRB-02 costs $156.10 more than Japanese PRB-02. A buyer who cannot read Japanese and plays in English events has a reason to pay it; a buyer who opens for the art does not.",
+          "The case buyer faces a narrower choice. Japanese cases barely discount, so a Japanese case is a quantity decision: twenty PRB-02 boxes at $74.48 per box, or ten PRB-01 boxes at $148.96. English PRB-01 is the only case where the discount itself matters, $32.89 per box, but it still leaves each box above $500. In every case, the volume and the language should be decided before the case size, because a cheap case of the wrong volume is still the wrong buy."
+        ]
+      },
+      {
+        "h": "The money layer: all eight products, divided",
+        "math": [
+          "PRB-01 Japanese: case $1,489.57 / 10 boxes = $148.96 per box; single $149.63 - $148.96 = $0.67 spread",
+          "PRB-01 Japanese per pack: $149.63 / 10 packs = $14.96 per pack; per card: $149.63 / 100 cards = $1.50 per card",
+          "PRB-02 Japanese: case $1,489.57 / 20 boxes = $74.48 per box; single $74.82 - $74.48 = $0.34 spread",
+          "PRB-01 English: case $5,090.64 / 10 boxes = $509.06 per box; single $541.95 - $509.06 = $32.89 spread",
+          "PRB-02 English: case $2,168.92, boxes per case not stated on the listing, so no per-box division is possible",
+          "Volume gap, Japanese: $149.63 - $74.82 = $74.81 cheaper for PRB-02 per box",
+          "Volume gap, English: $541.95 - $230.92 = $311.03 cheaper for PRB-02 per box",
+          "Language gap, PRB-01: $541.95 - $149.63 = $392.32 more for English per box"
+        ],
+        "note": "The question we get most about PRB is whether the English box is the same product at a different price. It is not the same buy: the language, the release date, and the secondary premium all differ, and the English PRB-01 box at $541.95 is priced as a 2024 collectible, not as ten packs at list.",
+        "paragraphs": [
+          "The Japanese side is the clearest comparison on the shelf. The [PRB-01 Japanese box](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) at $149.63 and its [10-box case](/product/prb-01-one-piece-card-the-best-sealed-case-10-boxes-japanese-one-piece-card/) at $1,489.57 divide to $148.96 per box, a spread of just $0.67: the case barely discounts at all. The [PRB-02 Japanese box](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) at $74.82 and its [20-box case](/product/prb-02-one-piece-card-the-best-vol-2-sealed-case-20-boxes-japanese-one-piece-car/) at $1,489.57 divide to $74.48 per box, a spread of $0.34. Neither Japanese case is a bulk discount in any meaningful sense; both cases are a way to buy many boxes at once, not a way to buy them cheaply.",
+          "The English side is where the money actually moves. The [PRB-01 English box](/product/prb-01-the-best-premium-booster-box-english-one-piece-card/) at $541.95 and its [10-box case](/product/prb-01-the-best-premium-sealed-case-10-boxes-english-one-piece-card/) at $5,090.64 divide to $509.06 per box, a real $32.89 spread, but the entry price is still more than triple the Japanese box. The [PRB-02 English box](/product/prb-02-the-best-volume-2-premium-booster-box-english-one-piece-card/) at $230.92 is the sane English entry, while its [English case](/product/prb-02-one-piece-card-the-best-vol-2-sealed-case-english-one-piece-card/) at $2,168.92 cannot be divided from its listing, because the listing does not state the box count. Any page that quotes a per-box price for that case is guessing.",
+          "The [Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) and the [English One Piece box guide](/blog/best-english-one-piece-booster-box-to-buy/) price the wider shelves these eight products sit on, and the [case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Box price",
+            "Case price",
+            "Boxes per case",
+            "Per box"
+          ],
+          "rows": [
+            [
+              "PRB-01 Japanese box",
+              "$149.63",
+              "$1,489.57",
+              "10",
+              "$148.96"
+            ],
+            [
+              "PRB-02 Japanese box",
+              "$74.82",
+              "$1,489.57",
+              "20",
+              "$74.48"
+            ],
+            [
+              "PRB-01 English box",
+              "$541.95",
+              "$5,090.64",
+              "10",
+              "$509.06"
+            ],
+            [
+              "PRB-02 English box",
+              "$230.92",
+              "$2,168.92",
+              "Not stated",
+              "Cannot divide"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: what actually differs between the volumes",
+        "paragraphs": [
+          "PRB-01 is a reprint volume with new art: 111 card numbers plus 30 DON!! card designs, drawn from earlier boosters, starter decks, and promos, with new parallel illustrations and a Sanji Leader. PRB-02 is the second volume, released in Japan on July 26, 2025 and in English on October 3, 2025, with a larger pool described as 179 types plus 30 DON!! types, popular cards returning with new parallel illustrations, new cards, and a Sanji super parallel. The volumes are not two printings of one set; they are two different card pools.",
+          "The distinction that decides most purchases is the rarity floor. Bandai documents that every PRB-02 pack contains at least one Super Rare card or better. That guarantee belongs to PRB-02, not to the Premium Booster label in general, and PRB-01 carries no such printed floor. A buyer who values a guaranteed hit per pack should not let a seller transfer PRB-02's guarantee onto a PRB-01 box.",
+          "Set stamps settle arguments that card numbers cannot. A THE BEST reprint can carry the same card number as its original-set print and still be a different print with a different price: marketplace asks measured in August 2026 put THE BEST prints of the Shanks and Ace comic parallels at multiples of their original-set prints. Check the stamp on the card face, not just the number, before paying a reprint premium or an original premium. Our [fake One Piece checks](/blog/how-to-spot-fake-one-piece-cards/) cover the physical checks that apply to any sealed buy."
+        ]
+      },
+      {
+        "h": "The decision layer: which volume for which buyer",
+        "paragraphs": [
+          "A player or opener buying Japanese should buy PRB-02: half the box price of PRB-01, plus the SR floor. A collector who wants the first volume's art, its Sanji Leader, and the 2024 set's place in the line should buy PRB-01 Japanese and accept that the case barely discounts. An English buyer should buy PRB-02 English unless the collection specifically needs Vol. 1, because the $311.03 English volume gap buys a lot of singles.",
+          "A case buyer should buy Japanese PRB-02's 20-box case only if twenty boxes is the quantity actually wanted: the $0.34 per-box spread is not a reason to buy twenty boxes. English PRB-01's case is the only PRB case with a meaningful spread, $32.89 per box, and it still leaves the per-box cost above $500."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why",
+            "Do not buy"
+          ],
+          "rows": [
+            [
+              "Japanese opener or player",
+              "PRB-02 Japanese box, $74.82",
+              "Cheapest box plus SR floor in every pack",
+              "PRB-01 at double the price for no floor"
+            ],
+            [
+              "Vol. 1 art collector",
+              "PRB-01 Japanese box, $149.63",
+              "First volume art, Sanji Leader, 30 DON!! designs",
+              "English PRB-01 at $541.95 unless English is required"
+            ],
+            [
+              "English buyer",
+              "PRB-02 English box, $230.92",
+              "Sane English entry; Vol. 2 floor applies",
+              "English PRB-01 unless the set is specifically needed"
+            ],
+            [
+              "Case buyer",
+              "PRB-01 English case, $509.06 per box",
+              "Only PRB case with a real spread, $32.89",
+              "Any case for its spread alone: JP spreads are under $1"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other PRB pages miss: the floor, the premium, and the undividable case",
+        "paragraphs": [
+          "Pack guides rank PRB-02 well for its SR floor, and reprint guides cover THE BEST prints against originals, but no page prices all eight PRB products from one store with the case division shown. That is the gap this page fills, and it contains three findings the rankings skip.",
+          "First, the SR floor is volume-specific: guides that praise Premium Booster packs generally risk letting readers attach PRB-02's guarantee to PRB-01. Second, the English premium is the story for Vol. 1: $541.95 against a $5.49 printed pack MSRP is a secondary-market price, and any per-pack figure for the English box would need a pack count no official page prints. Third, the English PRB-02 case cannot be divided from its listing at all, because the box count is unstated. A guide that quotes a per-box price for it is inventing a divisor."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint premiums, sealed premiums, and no guaranteed chase",
+        "paragraphs": [
+          "Reprint prints can outprice originals, but asking prices are not sale prices. The August 2026 marketplace measurement that put THE BEST Shanks and Ace comic parallels at multiples of their original prints measured asks, not confirmed sales, and a single listing can move an ask a long way. A buyer paying a reprint premium should know which print they hold and why, not just that the number matches.",
+          "Sealed premiums can collapse. English PRB-01 at $541.95 is priced as a 2024 collectible; if supply loosens or attention moves to a newer volume, that premium is the part of the price with the furthest to fall. Japanese PRB-01 at $149.63 carries a smaller premium over its $14.96 per-pack division, but it is still a premium over the ¥550 printed pack price at any reasonable conversion, and premiums are not floors.",
+          "No box guarantees any named card. PRB-02 guarantees a Super Rare or better in every pack, not a particular Super Rare, and PRB-01 guarantees nothing of the kind in print. A buyer who needs one named card should buy that single: our [first One Piece deck guide](/blog/one-piece-how-to-build-your-first-deck/) and [colors guide](/blog/one-piece-card-game-colors-explained/) cover the playing side, where singles are the rational route."
+        ]
+      },
+      {
+        "h": "Context: where the PRB line sits in One Piece",
+        "paragraphs": [
+          "The Premium Booster line is the reprint-and-popular-cards line beside the numbered OP boosters and the EB Extra Boosters. PRB-01 arrived on July 27, 2024 in Japan and November 8, 2024 in English; PRB-02 followed on July 26, 2025 in Japan and October 3, 2025 in English. The game's own tutorial documentation describes Premium Booster packs as loaded with popular cards for deck enhancement, which is the honest frame: these are curated popular-card products, not new mainline sets, and not complete reproductions of the sets they draw from.",
+          "That frame explains the pricing shape. A curated reprint volume holds value differently from a mainline set: its chase cards are known on release, its pool is fixed, and its premium depends on which reprints the market wants rather than on new-set discovery. Vol. 2's SR floor then does something Vol. 1 never did: it gives every pack a minimum, which is why the cheaper volume is also the safer opener. Our [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) covers the same language decision for the Extra Booster line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one named card: buy the single, at any volume. It is not for a buyer who wants the cheapest One Piece packs on the shelf in general, because mainline OP boxes are cheaper per pack than either PRB volume; PRB is a premium product, and its price says so. It is not for a buyer who needs English tournament legality without checking the current list, because legality is a property of the card and the format, not of the box it came in."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the volume first: PRB-02 for value and the SR floor, PRB-01 for the art",
+          "Choose the language second: Japanese unless English play requires English",
+          "Divide the case by its stated box count; refuse any per-box figure for the unstated English PRB-02 case",
+          "Check the set stamp on any reprint single, not just the card number",
+          "Remember PRB-02's floor is SR or better per pack, not a named card",
+          "Compare the box price with the single you actually want before buying sealed"
+        ],
+        "h": "Action layer: the PRB checklist",
+        "paragraphs": [
+          "Run this list before money moves. If any step fails, the box waits."
+        ]
+      }
+    ],
+    "slug": "prb-01-vs-prb-02-which-to-buy",
+    "takeaway": [
+      "PRB-02 is the buy for most people: $74.82 Japanese and $230.92 English, with a Super Rare or better in every pack. PRB-01 is the collector's volume: $149.63 Japanese and $541.95 English, for the first volume's art and its Sanji Leader, with no printed rarity floor.",
+      "Cases barely discount in Japanese: $0.67 per box on PRB-01 and $0.34 on PRB-02. Buy a case because you want that many boxes, not because the case saves money, and never trust a per-box figure for the English PRB-02 case until its box count is stated.",
+      "Still weighing sealed against singles? The [Japanese One Piece box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the mainline alternative, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a box lands."
     ]
   },
   "preorder-japanese-booster-box-or-wait": {
