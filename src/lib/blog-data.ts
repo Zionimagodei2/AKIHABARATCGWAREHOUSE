@@ -1841,7 +1841,7 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "best-japanese-dragon-ball-fusion-world-booster-box-to-buy",
     "takeaway": [
       "The November 4, 2026 Japanese shelf, one last time: FB08 $26.02 at $1.08 a pack and $0.18 a card, FB07 $27.88 at $1.16 and $0.19, SB01 $57.61 at $2.40 and $0.40, SB02 $57.61 at $2.40 a pack with per-card withheld, and FB09 $64.12 at $2.67 and $0.45. Against them, the English cases: FB07 $132.25 a box, FB08 $204.17, FB09 $402.50, SB02 $793.51, and SB01 $2,242.50, all divided from the same shelf on the same date.",
-      "If the question is the English line in full, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve sets from their cases, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) prices the cases themselves. If the question is starting the game rather than collecting it, the [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) sequences the first purchase before the first game.",
+      "If the question is the English line in full, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve sets from their cases, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) prices the cases themselves. If the question is starting the game rather than collecting it, the [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) sequences the first purchase before the first game. For FB07 in depth, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) prices the Japanese box against the English case and names the case-only English shelf.",
       "Pick the language first, then the set, then divide before you pay. In Japanese, that order costs between $26.02 and $64.12. In English, the same order starts at $132.25 a box inside a case. Knowing which shelf you are standing on is the whole purchase."
     ]
   },
@@ -2236,7 +2236,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese One Piece booster box is the one whose arithmetic matches your job. OP-15 wins on price at $2.90 per pack, OP-18 wins as the newest set at $3.50 per pack on pre-order, and OP-05 wins as the collector's set at $7.78 per pack. The case verdict is the part other guides skip: only OP-02 and OP-03 cases discount heavily, eleven cases cost more per box than buying singly, and the rest save under a dollar. Twenty-four boxes, one shelf, every division shown. For the mixed-language shelf that started this comparison, the [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) still settles OP-17 and OP-18 across both languages. The full 24-case ladder, with OP-18's unranked preorder case, is in the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/), and the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices one set in both languages.",
       "For the cross-game view, Pokemon and One Piece priced together, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/).",
-      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf."
+      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf. For the next Extra Booster in depth, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the anime-art set in both languages."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -4228,7 +4228,7 @@ export const POSTS: Record<string, BlogPost> = {
       "And when a box does land in your hands and the seal starts calling, run it through [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you break it — that framework was written for exactly that moment. More first-timer guides live on [the blog](/blog/).",
       "Choosing between the three games? [Which TCG should you start?](/blog/which-tcg-should-you-start/) compares Fusion World with One Piece and Pokémon on rules, structure, and the real cost of the first box.",
       "Once you know the rules and want to buy sealed, [the best Dragon Ball Fusion World booster box to buy](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve FB cases by per-box price from our live English case prices — including why the FB12 pre-order case undercuts FB11. For the other Dragon Ball game, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all 13 Masters sealed cases per box and per pack.",
-      "When the first game is behind you and the question becomes which Japanese box to buy, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices all five Japanese boxes on the shelf, from FB08 at $26.02 to FB09 at $64.12."
+      "When the first game is behind you and the question becomes which Japanese box to buy, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices all five Japanese boxes on the shelf, from FB08 at $26.02 to FB09 at $64.12. For FB07 in depth, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) prices the Japanese box against the English case."
     ]
   },
   "eb-01-japanese-vs-english-which-to-buy": {
@@ -4413,7 +4413,393 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "eb-01-japanese-vs-english-which-to-buy",
     "takeaway": [
-      "EB-01 in Japanese costs $155.04 a box and in English costs $790.60, a 5.10 times gap for the same 61 card types, and the cases hold the same shape at 4.59 times. Buy English to play, buy Japanese for the lowest sealed price, buy the Oden alternate art as a single if it is the only card you want, and open neither for profit when a typical opened English box returns $166.66 against $790.60 sealed. Two counts stay unprinted, the Japanese packs-per-box and the English case box count, and this guide leaves both blank rather than inventing them. That honesty is the whole article: two languages, one store, one date, every division shown."
+      "EB-01 in Japanese costs $155.04 a box and in English costs $790.60, a 5.10 times gap for the same 61 card types, and the cases hold the same shape at 4.59 times. Buy English to play, buy Japanese for the lowest sealed price, buy the Oden alternate art as a single if it is the only card you want, and open neither for profit when a typical opened English box returns $166.66 against $790.60 sealed. Two counts stay unprinted, the Japanese packs-per-box and the English case box count, and this guide leaves both blank rather than inventing them. That honesty is the whole article: two languages, one store, one date, every division shown. For the next Extra Booster in the same line, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf, with the English case division honestly withheld."
+    ]
+  },
+  "eb-02-anime-25th-collection-buyers-guide": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "No. The Japanese box is 24 packs of six cards at 220 yen a pack, released January 25, 2025. The English box is 24 packs of twelve cards at a $4.99 MSRP per pack, released May 9, 2025, with tournament legality from May 16, 2025. Same 87 plus 1 card types, different pack sizes, different prices, and on the Warehouse shelf the English box costs $97.84 more than the Japanese box while holding twice as many cards.",
+        "q": "Is the Japanese EB-02 box the same product as the English box?"
+      },
+      {
+        "a": "The Japanese case is, by a small margin: $2,108.15 for 12 boxes is $175.68 a box against $178.86 single, a saving of $3.18 a box and $38.17 across the case. The English case cannot be divided the same way, because its Warehouse listing prints no box count; its $3,129.99 total is cited here without a per-box figure, and any guide that divides it is assuming a box count the listing does not state.",
+        "q": "Is the EB-02 sealed case cheaper per box?"
+      },
+      {
+        "a": "Buy the single. A box holds 144 Japanese cards drawn from an 87 plus 1 type pool, and no box guarantees the Luffy comic parallel EB02-061, any SPR leader, or any named card. Bandai publishes no pull rates for EB-02, and third-party tracking dated September 30, 2026 put the lowest raw ask for the Luffy comic parallel at 300,000 yen, which is an asking price, not a sale, and not a reason to buy boxes instead of the card.",
+        "q": "Should I buy an EB-02 box to pull the Luffy Manga card?"
+      }
+    ],
+    "h1": "EB-02 Anime 25th Collection Buyer's Guide: Worth It?",
+    "intro": [
+      "Short answer: buy the Japanese box if the job is opening anime-art One Piece cards at a sane price, buy the Japanese case if the job is twelve boxes, buy the English box if the job is English-language cards, and buy none of them for one named card. The [EB-02 Japanese booster box](/product/eb-02-anime-25th-collection-booster-box-japanese-one-piece-card/) costs $178.86 on the Warehouse shelf on November 4, 2026, which divides to $7.45 a pack and $1.24 a card. The English box costs $276.70, which divides to $11.53 a pack but only $0.96 a card, because the English box holds twice as many cards.",
+      "That second division is the whole guide in one line, and it is the division most EB-02 coverage never runs. EB-02 is a small set, 87 types plus 1 secret on the official Japanese page, built from anime illustrations rather than manga panels, and its chase is a comic-parallel Luffy plus 26 Special Cards that are reprinted leaders from older sets. A buyer who compares only the sticker prices concludes the Japanese box is cheaper. A buyer who divides finds the English box is cheaper per card, dearer per pack, and the right buy only if English cards are the job.",
+      "This page exists because the usual EB-02 coverage ranks the chase cards, reviews the anime art, or lists one shop's box price, but never all four Warehouse products on one day."
+    ],
+    "metaDescription": "EB-02 buyer's guide, Nov 4, 2026: Japanese box $178.86, Japanese case $175.68 a box, English box $276.70, Luffy comic parallel chase, 87 plus 1 set.",
+    "metaTitle": "EB-02 Anime 25th Collection Buyer's Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about EB-02 is whether the English case is the smart bulk buy, because buyers assume every case discounts. For EB-02 we cannot verify that at all, because the English case listing prints no box count, and we say so before the sale rather than inventing a division. A buyer who discovers after checkout that a case division was assumed, not printed, has been misled by an assumption we could have corrected.",
+        "paragraphs": [
+          "Buy the Japanese box if the job is opening EB-02 for the anime art and the set chase. At $178.86, it is $23.82 more than the older [EB-01 Japanese box](/product/eb-01-memorial-collection-booster-box-japanese-one-piece-card/) at $155.04, and the premium buys the anime-illustration set rather than the memorial set: new art drawn by animators of the television series, a new green and purple Luffy leader, and the 26 Special Cards.",
+          "Buy the Japanese case, not twelve singles, if the job is twelve boxes. The [EB-02 Japanese sealed case](/product/eb-02-anime-25th-collection-sealed-case-12-boxes-japanese-one-piece-card/) costs $2,108.15 for 12 boxes, which is $175.68 a box against $178.86 single. The saving is real but small, $3.18 a box, and it should be weighed honestly: it is a bulk saving, not a bargain, and it only matters if twelve boxes is actually the job. The full case rule, with the cases where it runs the other way, is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "Buy the English box if the job is English-language cards, and buy the single for any named card, without exception in this set. The [EB-02 English box](/product/eb-02-anime-25th-collection-extra-booster-box-english-one-piece-card/) at $276.70 is the only EB-02 product on this shelf that is tournament-legal in English-language settings, and its 288 cards make it the cheapest EB-02 card on the shelf at $0.96 a card. The chase cards, led by the Luffy comic parallel EB02-061, are the cards a box is least likely to contain, and the singles market, not the sealed box, is where named cards are bought."
+        ]
+      },
+      {
+        "h": "The money layer: four products, one honest gap",
+        "math": [
+          "EB-02 Japanese box per pack: $178.86 / 24 packs = $7.45 per pack",
+          "EB-02 Japanese box per card: $178.86 / 144 cards = $1.24 per card",
+          "EB-02 Japanese case per box: $2,108.15 / 12 boxes = $175.68 per box",
+          "EB-02 Japanese case per pack: $2,108.15 / 288 packs = $7.32 per pack",
+          "EB-02 Japanese case per card: $2,108.15 / 1,728 cards = $1.22 per card",
+          "EB-02 Japanese twelve singles vs case: 12 x $178.86 = $2,146.32; $2,146.32 - $2,108.15 = $38.17 saved by the case",
+          "EB-02 Japanese case saving per box: $178.86 - $175.68 = $3.18 per box",
+          "EB-02 English box per pack: $276.70 / 24 packs = $11.53 per pack",
+          "EB-02 English box per card: $276.70 / 288 cards = $0.96 per card",
+          "EB-02 English vs Japanese box gap: $276.70 - $178.86 = $97.84 per box; $11.53 - $7.45 = $4.08 per pack",
+          "EB-02 English box cards per dollar: 288 / $276.70 = 1.04 cards per dollar; Japanese box: 144 / $178.86 = 0.81 cards per dollar",
+          "EB-02 English case vs Japanese case total: $3,129.99 - $2,108.15 = $1,021.84 more for the English case",
+          "EB-02 Japanese box vs EB-01 Japanese box: $178.86 - $155.04 = $23.82 per box",
+          "EB-02 Japanese official box: 24 packs x 220 yen = 5,280 yen",
+          "EB-02 English MSRP box: 24 packs x $4.99 = $119.76; $276.70 - $119.76 = $156.94 above MSRP box"
+        ],
+        "paragraphs": [
+          "Start with the Japanese pair, because the Japanese pair contains the only clean case verdict. The Japanese box at $178.86 divides to $7.45 a pack across 24 packs of six cards, and $1.24 a card across 144 cards. The Japanese case at $2,108.15 divides to $175.68 a box, $7.32 a pack, and $1.22 a card. Twelve singles cost $2,146.32, so the case saves $38.17 across the case. That saving is real but small.",
+          "Then the English pair, where the verdict flips from arithmetic to disclosure. The English box at $276.70 divides to $11.53 a pack across 24 packs of twelve cards, and $0.96 a card across 288 cards, which makes it the cheapest EB-02 card on the shelf even though it is the dearest EB-02 box. Per dollar, the English box yields 1.04 cards against the Japanese box at 0.81 cards. The [EB-02 English sealed case](/product/eb-02-anime-25th-collection-sealed-case-english-one-piece-card/) costs $3,129.99, which is $1,021.84 more than the Japanese case in total, and that is where this guide stops dividing: the English case listing prints no box count, so no per-box, per-pack, or per-card figure is claimed for it. A guide that divides it by twelve is assuming the standard English case size, not reading the listing.",
+          "The neighbours and the MSRP complete the money layer. The Japanese EB-01 box at $155.04 sits $23.82 below EB-02, which prices the anime-art premium directly: same Extra Booster line, same 24-pack shape, different art and chase. The English MSRP box is $119.76, from 24 packs at $4.99, so the Warehouse English box at $276.70 sits $156.94 above the MSRP box, and the Warehouse Japanese box, converted from its 5,280-yen official box price, sits in the same imported-product territory. The full Japanese ladder is in [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/), and the English ladder in [Best English One Piece Booster Box to Buy](/blog/best-english-one-piece-booster-box-to-buy/)."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "EB-02, full title Anime 25th Collection, is the One Piece Card Game's second Extra Booster, released in Japan on January 25, 2025, at 220 yen per pack for six cards, and in English on May 9, 2025, at $4.99 per pack for twelve cards, with tournament legality from May 16, 2025. The official Japanese page lists 87 types plus 1 secret card: 1 Leader, 29 Commons, 21 Rares, 9 Super Rares, 1 Secret Rare, and 26 Special Cards. The box shape used here is 24 packs, per box renders and trade listings; the Japanese product page itself prints no packs-per-box line.",
+          "The chase structure is what makes EB-02 different from a mainline set, and it should be named exactly, because vague chase talk is how buyers overpay. The headline is Monkey D. Luffy EB02-061 as a Secret Rare with a comic-parallel print, the set's Manga-style chase, beside a Luffy leader at EB02-010. The 26 Special Cards are the set's defining detail: they are reprinted leaders carrying older set numbers, from OP05 through OP08 and EB-01, including Boa Hancock OP07-038 and Uta OP06-001, all with new anime illustrations. The official card list runs to 105 rows for EB-02, which is not a contradiction of the 87 plus 1 figure: 61 base prints, 18 parallel rows, and the 26 older-number leaders together make the 105.",
+          "Two facts about the chase belong in every honest EB-02 guide. First, Bandai publishes no pull rates, so no frequency figure for the comic parallel, the SPR leaders, or any other treatment is quoted here, and any guide quoting one is quoting community estimates. Second, the set is small, and small sets duplicate: with 87 types plus 1 secret across 144 Japanese cards, a single box repeats its Commons and Rares heavily, and trade reviews of the English box report roughly two hits per box. A box is a broad spread of a small set, not a chase delivery system."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "Every figure divided from the Warehouse shelf on November 4, 2026; the English case row carries no division, because its listing prints no box count."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Japanese single box",
+              "$178.86",
+              "24",
+              "$7.45",
+              "$1.24",
+              "Opening the anime-art set"
+            ],
+            [
+              "Japanese sealed case (12 boxes)",
+              "$2,108.15",
+              "288",
+              "$7.32",
+              "$1.22",
+              "Twelve boxes is the job"
+            ],
+            [
+              "English single box",
+              "$276.70",
+              "24",
+              "$11.53",
+              "$0.96",
+              "English cards, cheapest per card"
+            ],
+            [
+              "English sealed case",
+              "$3,129.99",
+              "Not printed",
+              "Not divided here",
+              "Not divided here",
+              "English cases in bulk, eyes open"
+            ],
+            [
+              "Japanese EB-01 box",
+              "$155.04",
+              "Not printed",
+              "Not divided here",
+              "Not divided here",
+              "Cheaper Extra Booster entry"
+            ],
+            [
+              "Named EB-02 single",
+              "Varies by card",
+              "0",
+              "Not divided",
+              "Not divided",
+              "One named card is the goal"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The strongest EB-02 guides each cover one part of the question well. One best-boxes guide picks EB-02 as the anime-fan choice and warns against Japanese boxes for players competing outside Asia. One chase guide names the Luffy comic parallel and the SPR leaders, with third-party asking prices dated September 30, 2026. One review of the English box counts 24 packs of twelve cards, 87 types, and roughly two hits per box. None of them prices all four Warehouse products from one store on one day, and none of them runs the per-card division that reverses the cheap-versus-dear verdict between the two languages.",
+          "The second gap is the 87 versus 105 confusion. Guides that quote one figure without the other leave a buyer wondering whether they found a different set, a reprint, or a fake. This page states both figures and the bridge between them: 87 plus 1 types on the official Japanese page, 105 rows on the official card list once parallels and older-number leaders are counted. The third gap is the English case box count. Guides that divide the English case assume twelve boxes; this page refuses the assumption, because the listing does not print it, and a bulk buyer deserves to know which figures are read and which are assumed."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, chasing the Luffy comic parallel with boxes. Third-party tracking dated September 30, 2026 put the lowest raw ask for the Luffy comic parallel EB02-061 at 300,000 yen, and an ask is not a sale. No box guarantees it, Bandai publishes no pull rates, and a small set's chase slot is deep enough that singles beat sealed for named cards in almost every case. The open-or-hold decision in full is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "Second, buying the English case as a verified discount. It may well contain twelve boxes, as English cases on this shelf usually do, but its listing does not say so, and a $3,129.99 purchase should never rest on usually. Ask for the box count before checkout, or buy the English box, whose 24 packs and 288 cards are printed and divided here.",
+          "Third, buying the wrong language for the wrong reason. The Japanese box is cheaper per pack by $4.08, but it is Japanese-language cards, which cannot be played in English-language tournament settings that require English cards. The English box is dearer per pack but cheaper per card, and it is the playable, resalable English product in English-speaking markets. Price alone should never choose the language; the language should be chosen first, and then the price divided within it. The language trade-off for Extra Boosters specifically is priced in [EB-01 Japanese vs English: Which to Buy](/blog/eb-01-japanese-vs-english-which-to-buy/).",
+          "Fourth, mistaking a small set for a complete set. Eighty-seven types plus 1 secret sounds finishable, and from boxes alone it is not: the secret tier and the SPR leaders are deep enough that singles finish the set far cheaper than sealed, and the Commons and Rares will duplicate long before the last Special Card appears. Price the singles for the last few numbers before opening a second box.",
+          "Fifth, reseals and loose-pack traps. EB-02's anime art and small set make it a target for loose-pack sellers who undercut the sealed box by selling the packs out of it, and for premium pricing that treats the anniversary label as value by itself. Check the seal before opening, using the checks in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/)."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the small-set trap",
+        "paragraphs": [
+          "The two versions share the card pool and differ in price structure. Japanese packs cost 220 yen for six cards, English packs carry a $4.99 MSRP for twelve cards, and the Japanese release preceded the English release by just over three months, January 25 against May 9, 2025. On the Warehouse shelf, the Japanese box at $178.86 undercuts the English box at $276.70 by $97.84, while the English box undercuts the Japanese box per card, $0.96 against $1.24, because it holds twice the cards. A buyer comparing across languages without dividing is comparing two different products in two different markets, and the division is the only honest bridge between them.",
+          "The small-set trap cuts both ways. A small set is satisfying to open, because every pack feels close to the set, and it is expensive to complete, because the last few numbers hide in the secret and Special tiers. That is why the per-card figure matters more here than in a mainline set: the English box at $0.96 a card is the cheapest way to own EB-02 cardboard, and the Japanese box at $1.24 a card is the cheapest way to own it in Japanese. Neither figure is a promise about the chase cards inside. The shipping and customs leg is priced in [Buying TCG From Japan: Shipping, Customs, and the Proxy Question](/blog/buying-tcg-from-japan-shipping-customs-proxy/).",
+          "One boundary to state plainly: this guide covers EB-02 Extra Booster boxes and cases only. Mainline sets, Premium Boosters like PRB-02, and starter decks are different products, and the PRB comparison is in [PRB-01 vs PRB-02: Which to Buy](/blog/prb-01-vs-prb-02-which-to-buy/). OP-18, the November 21, 2026 Japanese release, is a preorder, not a competitor to EB-02."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who need one named card, for players who need English-legal cards but are tempted by the cheaper Japanese per-pack price, or for buyers who need the money back on a date. It is not for collectors chasing the full 87 plus 1 pool from boxes alone, because the secret and Special tiers are deep enough that singles finish the set far cheaper than sealed. And it is not for English case buyers looking for a verified bulk discount, because on this shelf, for this set, in English, the case division cannot be verified from the listing."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the language first: Japanese at $178.86 or English at $276.70, before any other comparison.",
+          "Divide before you pay: Japanese $178.86 divided by 24 packs, then by 144 cards; English $276.70 divided by 24 packs, then by 288 cards.",
+          "Divide the case in that language: Japanese $175.68 a box is a discount; the English case prints no box count, so divide nothing from it.",
+          "If the goal is the Luffy comic parallel, any SPR leader, or any named card, price the single first.",
+          "Check the seal on arrival before opening, using the reseal checks linked in the risk section.",
+          "If the goal is the full 87 plus 1 pool, price the secret and Special cards as singles before opening a second box."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. Language first, because it changes every price that follows; division second, because the two languages give opposite cheap-versus-dear answers; singles pricing third, because the chase cards are the reason most buyers overpay."
+        ]
+      }
+    ],
+    "slug": "eb-02-anime-25th-collection-buyers-guide",
+    "takeaway": [
+      "On November 4, 2026, the Warehouse EB-02 Japanese box costs $178.86, which is $7.45 a pack and $1.24 a card. Buy it to open the anime-art set, buy the Japanese case at $175.68 a box for twelve boxes, buy the English box at $0.96 a card for English cards, and buy the single for the Luffy comic parallel or any SPR leader.",
+      "Prices move; the method does not. Choose the language first, divide the case in that language, and never divide a case whose listing prints no box count.",
+      "For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best English One Piece Booster Box to Buy](/blog/best-english-one-piece-booster-box-to-buy/)."
+    ]
+  },
+  "fb07-wish-for-shenron-buyers-guide": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "No. The Japanese box is 24 packs of six cards at 220 yen a pack, released September 13, 2025. The English product on this shelf is a sealed case of 12 boxes, each box 24 packs of twelve cards, released September 19, 2025. Same 125 card types, different pack sizes, different prices, and on the Warehouse shelf the English case divides to $132.25 a box against $27.88 for the Japanese box.",
+        "q": "Is the Japanese FB07 box the same product as the English case?"
+      },
+      {
+        "a": "Not on this shelf. The store lists no English FB07 single box, only the English sealed case at $1,587.00 for 12 boxes. An English buyer therefore faces a $1,587 entry for sealed English FB07, against $27.88 for one Japanese box. That is a shelf fact, not a Bandai rule, and it is the single most expensive language gap in the Fusion World line covered here.",
+        "q": "Can I buy a single English FB07 box?"
+      },
+      {
+        "a": "Buy the single. A Japanese box holds 144 cards drawn from a 125-type pool, and no box guarantees the Son Goku: GT Secret Rare, any Super Rare alt-art, or any named card. Bandai publishes no pull rates for FB07, and a third-party back-order ask dated September 29, 2026 put a graded Son Goku: GT Secret Rare alt-art at 145,656 yen, which is an asking price for a graded card, not a reason to buy boxes instead of the card.",
+        "q": "Should I buy an FB07 box to pull the Son Goku: GT Secret Rare?"
+      }
+    ],
+    "h1": "FB07 Wish for Shenron Buyer's Guide: Worth It?",
+    "intro": [
+      "Short answer: buy the Japanese box if the job is opening Fusion World cheaply, buy the English case only if the job is English boxes in bulk at a four-figure entry, and buy neither for one named card. The [FB07 Japanese booster box](/product/fb07-wish-for-shenron-japanese-dragon-ball-fusion-world-card/) costs $27.88 on the Warehouse shelf on November 4, 2026, which divides to $1.16 a pack and $0.19 a card. The [FB07 English sealed case](/product/dragon-ball-super-fusion-world-fb07-wish-for-shenron-booster-box-sealed-case-eng/) costs $1,587.00 for 12 boxes, which divides to $132.25 a box, $5.51 a pack, and $0.46 a card.",
+      "That gap, $104.37 a box between the same set in two languages, is the whole guide in one line, and it is a gap most FB07 coverage never prices, because most FB07 coverage prices one language, one shop, or one box. FB07 is the Shenron set: 125 card types, the Super Rare slot expanded from 12 to 15 types, and a wish-granting theme built around the dragon himself. It is also the set where the English buyer has no single-box option on this shelf at all.",
+      "This page exists because the usual FB07 coverage does one of three things well and none completely: it lists the set, it names the chase cards, or it compares Japanese and English dates. None of it prices the Japanese box against the English case from one store on one day, and that division, with the case-only English shelf stated plainly, is the purchase decision."
+    ],
+    "metaDescription": "FB07 buyer's guide, Nov 4, 2026: Japanese box $27.88, English case $132.25 a box, 125 types, SR slot expanded to 15, Shenron chase, digital codes.",
+    "metaTitle": "FB07 Wish for Shenron Buyer's Guide: Price & Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about FB07 is whether an English single box exists somewhere cheaper, because buyers refuse to believe a set can be case-only in English. On this shelf it is: the store lists the English FB07 case and no English FB07 single box, and we say so before the sale, not after a buyer has budgeted for a box that is not stocked. A buyer who plans around a product that does not exist has been failed by every guide that stayed silent about it.",
+        "paragraphs": [
+          "Buy the Japanese box if the job is opening Fusion World. At $27.88, it is the second-cheapest Japanese Fusion World box on the shelf, $1.86 above FB08 at $26.02 and $36.24 below FB09 at $64.12, and it is the cheapest way into the Shenron theme, the expanded Super Rare slot, and the current Fusion World card pool. For a player who wants current cards, or a collector opening one box of the set, the Japanese box is the rational entry, and the full Japanese ladder is in [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/).",
+          "Buy the English case, not an English box, if the job is English boxes in bulk, and only with eyes open about the entry price. The English case costs $1,587.00 for 12 boxes, which is $132.25 a box, and there is no cheaper sealed English FB07 route on this shelf. A single English box, bought alone, is not an option here at any price, which is a different problem from an expensive option. The wider English case ladder is in [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/).",
+          "Buy the single for any named card, without exception in this set. The Son Goku: GT Secret Rare alt-art, the Super Rare alt-arts, and the Shenron leader are the cards that make FB07 famous, and they are also the cards a box is least likely to contain."
+        ]
+      },
+      {
+        "h": "The money layer: one cheap box, one four-figure case",
+        "math": [
+          "FB07 Japanese box per pack: $27.88 / 24 packs = $1.16 per pack",
+          "FB07 Japanese box per card: $27.88 / 144 cards = $0.19 per card",
+          "FB07 English case per box: $1,587.00 / 12 boxes = $132.25 per box",
+          "FB07 English case per pack: $1,587.00 / 288 packs = $5.51 per pack",
+          "FB07 English case per card: $1,587.00 / 3,456 cards = $0.46 per card",
+          "FB07 Japanese vs English gap per box: $132.25 - $27.88 = $104.37 per box",
+          "FB07 Japanese vs English gap per pack: $5.51 - $1.16 = $4.35 per pack",
+          "FB08 Japanese box per pack: $26.02 / 24 packs = $1.08 per pack",
+          "FB08 Japanese box per card: $26.02 / 144 cards = $0.18 per card",
+          "FB09 Japanese box per pack: $64.12 / 24 packs = $2.67 per pack",
+          "FB09 Japanese box per card: $64.12 / 144 cards = $0.45 per card",
+          "SB01 and SB02 Japanese box per pack: $57.61 / 24 packs = $2.40 per pack",
+          "SB01 and SB02 Japanese box per card: $57.61 / 144 cards = $0.40 per card",
+          "FB07 vs FB08 Japanese box: $27.88 - $26.02 = $1.86 per box",
+          "FB09 vs FB07 Japanese box: $64.12 - $27.88 = $36.24 per box",
+          "FB04 English case per box: $1,279.26 / 12 boxes = $106.61 per box",
+          "FB06 English case per box: $1,449.76 / 12 boxes = $120.81 per box",
+          "FB07 English case vs FB06 English case per box: $132.25 - $120.81 = $11.44 per box",
+          "FB07 Japanese official box: 24 packs x 220 yen = 5,280 yen"
+        ],
+        "paragraphs": [
+          "Start with the Japanese box, because the Japanese box is the good news. Twenty-four packs of six cards is 144 cards, and $27.88 divided by 24 is $1.16 a pack, divided by 144 is $0.19 a card. Those are among the lowest verified figures on the Japanese Fusion World shelf, and they are verified in the strong sense: the pack contents are printed on Bandai's product page, the price is the Warehouse shelf price on November 4, 2026, not a marketplace ask or a buyback quote. Honesty note: Bandai's pages print per-pack contents but no packs-per-box figure, so the 24-pack box used here is the store and trade box shape, stated as such rather than attributed to Bandai.",
+          "Then the English case, because the English case is the shock. The case costs $1,587.00 for 12 boxes, which is $132.25 a box, $5.51 a pack, and $0.46 a card. Against the Japanese box, that is $104.37 more per box and $4.35 more per pack, for the same 125 card types in a different language and pack size. The full version of the case rule, with the cases where it runs the other way, is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). The English case neighbours put the figure in context: FB04's case divides to $106.61 a box and FB06's to $120.81 a box, so FB07 at $132.25 sits $11.44 above FB06 per box, the dearer of the three on this shelf.",
+          "The Japanese neighbours complete the money layer. [FB08](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) at $26.02 is $1.86 cheaper per box than FB07, at $1.08 a pack, which prices the Shenron theme at under two dollars a box against its successor. [FB09](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) at $64.12 is $36.24 dearer per box, at $2.67 a pack, which prices the Dual Evolution chase. The Manga Boosters [SB01](/product/sb01-manga-booster-01-japanese-dragon-ball-fusion-world-card/) and [SB02](/product/sb02-manga-booster-02-japanese-dragon-ball-fusion-world-card/), each at $57.61, divide to $2.40 a pack, which prices the manga-illustration alt-arts at roughly double the FB07 pack. The beginner's route into all of this, including how Fusion World differs from the older Masters line, is in [Dragon Ball Fusion World Beginners Guide](/blog/dragon-ball-fusion-world-beginners-guide/)."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "FB07, full title Wish for Shenron, is the seventh Fusion World booster, released in Japan on September 13, 2025, at 220 yen per pack for six cards plus a digital code, and in English on September 19, 2025, at twelve cards per pack plus a digital code. The official card-type count is 125, plus 3 reprints: 5 Leaders, 40 Commons, 30 Uncommons, 30 Rares, 15 Super Rares, and 2 Secret Rares. The structural fact that matters most is the Super Rare expansion: FB01 through FB06 carried 12 Super Rare types, and from FB07 Bandai expanded the slot to 15 types, a change that carried into FB08. More Super Rare types means each individual Super Rare is a thinner slice of the slot, which is a dilution buyers should understand before paying a chase premium.",
+          "The chase treatments are the set's identity. The theme is Shenron himself: wish-granting mechanics, a Dragon Ball and Shenron leader line, and the set's headline Secret Rare tier led by Son Goku: GT as a Secret Rare alt-art, catalogued FB07-122. There is no God Rare in Fusion World at all, a fact worth stating because the older Masters line has one and buyers carry the expectation across: Fusion World's top tier runs Secret Rare, then Secret Rare alt-art, then Super alt-art. The Shenron leader line reappears two months later in SB02 Manga Booster 02, released in Japan on November 8, 2025, which means the theme, though not the set, can be bought a second way.",
+          "Two facts about the chase structure belong in every honest FB07 guide. First, Bandai publishes no pull rates, so no frequency figure for the Secret Rare alt-arts, the Super Rare alt-arts, or any other treatment is quoted here, and any guide quoting one is quoting community estimates. Second, every pack in both languages carries a one-use code for the digital version of the game, which means a sealed box preserves something an opened box loses: the codes. That fact changes the reseal calculus, and it is covered in the risk section."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 4, 2026. Per-pack and per-card figures use 24 packs for every row; the English row divides the 12-box case, whose box count is printed on its listing."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Japanese single box",
+              "$27.88",
+              "24",
+              "$1.16",
+              "$0.19",
+              "Opening Fusion World cheaply"
+            ],
+            [
+              "English sealed case (12 boxes)",
+              "$1,587.00",
+              "288",
+              "$5.51",
+              "$0.46",
+              "English boxes in bulk"
+            ],
+            [
+              "Japanese FB08 box",
+              "$26.02",
+              "24",
+              "$1.08",
+              "$0.18",
+              "Cheapest Japanese entry"
+            ],
+            [
+              "Japanese FB09 box",
+              "$64.12",
+              "24",
+              "$2.67",
+              "$0.45",
+              "Dual Evolution chase"
+            ],
+            [
+              "Japanese SB01 or SB02 box",
+              "$57.61",
+              "24",
+              "$2.40",
+              "$0.40",
+              "Manga-illustration alt-arts"
+            ],
+            [
+              "English FB07 single box",
+              "Not stocked",
+              "0",
+              "Not divided",
+              "Not divided",
+              "Does not exist on this shelf"
+            ],
+            [
+              "Named FB07 single",
+              "Varies by card",
+              "0",
+              "Not divided",
+              "Not divided",
+              "One named card is the goal"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The strongest FB07 guides each cover one part of the question well. One Japanese-box guide gives the full FB-01 to FB-10 lineup, the 125-type count, the Super Rare expansion to 15, and the Japanese six-card versus English twelve-card pack difference. One card-list guide gives both release dates, the rarity breakdown, and the headline Secret Rares. One release post gives the September 13, 2025 Japanese date, the 220-yen pack, and the six-cards-plus-code contents. None of them prices the Japanese box against the English case from one store on one day, and none of them states that the English single box is not stocked on that store.",
+          "The second gap is the Super Rare dilution. Guides that celebrate the expanded Super Rare slot without dividing it leave a buyer expecting more chase per box, when the expansion means more types sharing the slot. The third gap is the digital code. Guides that treat a Fusion World box as paper only miss the one-use code in every pack, which is the reason an opened or resealed box is worth less than its cards alone suggest. The fourth gap is the SB02 connection: the Shenron leader reprinted two months later means theme buyers have a second product to price, and no FB07 guide that ignores SB02 prices the theme completely."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, chasing a Secret Rare alt-art with boxes. No box guarantees the Son Goku: GT Secret Rare alt-art or any named card, Bandai publishes no pull rates, and a third-party back-order ask dated September 29, 2026 put a graded Son Goku: GT Secret Rare alt-art at 145,656 yen, which is an asking price for a graded card, not a sale and not a reason to buy boxes instead of the card. Singles beat sealed for named cards in almost every case, and the open-or-hold decision in full is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "Second, buying the English case as if it were an English box multiplied. It is twelve boxes at $1,587.00, and the entry price is the whole case, not one twelfth of it on instalments. A buyer who budgets $132.25 for English FB07 has budgeted for a box that is not sold singly on this shelf, and the budget fails at checkout, not at the card table.",
+          "Third, buying the wrong language for the wrong reason. The Japanese box is cheaper per pack by $4.35, but it is Japanese-language cards, which cannot be played in English-language tournament settings that require English cards, and which carry different collector demand. The English case is dearer, but it is the playable, resalable English product in English-speaking markets. Price alone should never choose the language; the language should be chosen first, and then the price divided within it. The language trade-off for Fusion World specifically is priced in [Best Dragon Ball Fusion World Booster Box](/blog/best-dragon-ball-fusion-world-booster-box/).",
+          "Fourth, ignoring the digital codes. Every pack carries a one-use code for the digital version, so a box whose shrink wrap is damaged or re-glued may have lost its codes even if its cards are untouched. Check the seal before opening, using the checks in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and treat a code-less box as diminished, because for a digital player it is.",
+          "Fifth, paying a chase premium for the expanded Super Rare slot. Fifteen Super Rare types instead of twelve means more variety and thinner odds per named Super Rare, not a richer box. FB07's argument is its $1.16 Japanese pack, not its rarity table."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the case-only shelf",
+        "paragraphs": [
+          "The two versions share the card pool and differ in price structure. Japanese packs cost 220 yen for six cards, English packs carry twelve cards, and the Japanese release preceded the English release by six days, September 13 against September 19, 2025. On the Warehouse shelf, the Japanese box at $27.88 undercuts the English case's per-box figure of $132.25 by $104.37, and the Japanese case does not exist as a separate product here: the English case is the only case, and the Japanese box is the only box.",
+          "The case-only English shelf is the structural fact this guide most wants the reader to keep. It is not a Bandai rule, and it may not hold on other stores; it is what this store lists on November 4, 2026, and it changes the English buyer's decision from which box to whether a four-figure case is the job at all. For most English buyers it is not, and the honest English answer is often to wait, to buy the Japanese box for opening, or to buy the named single. The shipping and customs leg is priced in [Buying TCG From Japan: Shipping, Customs, and the Proxy Question](/blog/buying-tcg-from-japan-shipping-customs-proxy/).",
+          "One boundary to state plainly: this guide covers FB07 main-set boxes and cases only. Manga Boosters SB01 and SB02, starter decks, and the Story Booster are different products, and the Manga line is priced here only where it touches the Shenron theme. FB12, the December 2026 release, is a preorder, not a competitor to FB07."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who need one named card, for players who need English-legal cards but are tempted by the cheaper Japanese price, or for buyers who need the money back on a date. It is not for collectors chasing the full 125-type pool from boxes alone, because the Super Rare and Secret Rare tiers are deep enough that singles finish the set far cheaper than sealed. And it is not for English buyers looking for a single sealed box, because on this shelf, for this set, in English, there is no single box to buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the language first: Japanese at $27.88 a box or English at $1,587.00 a case, before any other comparison.",
+          "Divide before you pay: Japanese $27.88 divided by 24 packs, then by 144 cards; English $1,587.00 divided by 12 boxes, then by 288 packs.",
+          "Do not budget for an English single box: it is not stocked on this shelf.",
+          "If the goal is the Son Goku: GT Secret Rare alt-art or any named card, price the single first.",
+          "Check the seal on arrival before opening, using the reseal checks linked in the risk section, and remember every pack carries a one-use digital code.",
+          "If the goal is the full 125-type pool, price the Super Rare and Secret Rare cards as singles before opening a second box."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. Language first, because it changes every price that follows; case division second, because the English answer is a four-figure case, not a box; singles pricing third, because the chase cards are the reason most buyers overpay."
+        ]
+      }
+    ],
+    "slug": "fb07-wish-for-shenron-buyers-guide",
+    "takeaway": [
+      "On November 4, 2026, the Warehouse FB07 Japanese box costs $27.88, which is $1.16 a pack and $0.19 a card. Buy it to open Fusion World cheaply, buy the English case at $132.25 a box only for English boxes in bulk, and buy the single for the Son Goku: GT Secret Rare alt-art or any named card.",
+      "Prices move; the method does not. Choose the language first, divide the case in that language, and never budget for a product the shelf does not stock.",
+      "For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the English case ladder, see [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/)."
     ]
   },
   "how-many-packs-in-a-booster-box": {
