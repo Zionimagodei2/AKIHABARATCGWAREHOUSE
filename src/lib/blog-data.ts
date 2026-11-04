@@ -1842,7 +1842,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The November 4, 2026 Japanese shelf, one last time: FB08 $26.02 at $1.08 a pack and $0.18 a card, FB07 $27.88 at $1.16 and $0.19, SB01 $57.61 at $2.40 and $0.40, SB02 $57.61 at $2.40 a pack with per-card withheld, and FB09 $64.12 at $2.67 and $0.45. Against them, the English cases: FB07 $132.25 a box, FB08 $204.17, FB09 $402.50, SB02 $793.51, and SB01 $2,242.50, all divided from the same shelf on the same date.",
       "If the question is the English line in full, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve sets from their cases, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) prices the cases themselves. If the question is starting the game rather than collecting it, the [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) sequences the first purchase before the first game. For FB07 in depth, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) prices the Japanese box against the English case and names the case-only English shelf.  For FB08 in depth, the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) prices the cheapest Japanese box against the dearest English case.",
-      "Pick the language first, then the set, then divide before you pay. In Japanese, that order costs between $26.02 and $64.12. In English, the same order starts at $132.25 a box inside a case. Knowing which shelf you are standing on is the whole purchase."
+      "Pick the language first, then the set, then divide before you pay. In Japanese, that order costs between $26.02 and $64.12. In English, the same order starts at $132.25 a box inside a case. Knowing which shelf you are standing on is the whole purchase. For the anniversary set in depth, see [FB09 Dual Evolution Buyer's Guide](/blog/fb09-dual-evolution-buyers-guide/)."
     ]
   },
   "best-japanese-one-piece-booster-box-to-buy": {
@@ -2236,7 +2236,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese One Piece booster box is the one whose arithmetic matches your job. OP-15 wins on price at $2.90 per pack, OP-18 wins as the newest set at $3.50 per pack on pre-order, and OP-05 wins as the collector's set at $7.78 per pack. The case verdict is the part other guides skip: only OP-02 and OP-03 cases discount heavily, eleven cases cost more per box than buying singly, and the rest save under a dollar. Twenty-four boxes, one shelf, every division shown. For the mixed-language shelf that started this comparison, the [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) still settles OP-17 and OP-18 across both languages. The full 24-case ladder, with OP-18's unranked preorder case, is in the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/), and the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices one set in both languages.",
       "For the cross-game view, Pokemon and One Piece priced together, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/).",
-      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf. For the next Extra Booster in depth, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the anime-art set in both languages.  For the predecessor set in depth, the [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) prices all four sealed products and the case inversion."
+      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf. For the next Extra Booster in depth, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the anime-art set in both languages.  For the predecessor set in depth, the [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) prices all four sealed products and the case inversion. For the full OP-15 breakdown, see [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/)."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -4999,7 +4999,208 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 4, 2026, the Warehouse FB08 Japanese box costs $26.02, which is $1.08 a pack and $0.18 a card. Buy it to open Fusion World cheaply, buy the English case at $204.17 a box only for English boxes in bulk, and buy the single for any named Secret Rare or Super Rare alt-art.",
       "Prices move; the method does not. Choose the language first, divide the case in that language, and never budget for a product the shelf does not stock.",
-      "For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the predecessor set, see [FB07 Wish for Shenron Buyer's Guide](/blog/fb07-wish-for-shenron-buyers-guide/). For the beginner's route into the game, see [Dragon Ball Fusion World Beginners Guide](/blog/dragon-ball-fusion-world-beginners-guide/)."
+      "For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the predecessor set, see [FB07 Wish for Shenron Buyer's Guide](/blog/fb07-wish-for-shenron-buyers-guide/). For the beginner's route into the game, see [Dragon Ball Fusion World Beginners Guide](/blog/dragon-ball-fusion-world-beginners-guide/). For the successor set, see [FB09 Dual Evolution Buyer's Guide](/blog/fb09-dual-evolution-buyers-guide/)."
+    ]
+  },
+  "fb09-dual-evolution-buyers-guide": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "No. The Japanese box is 24 packs of six cards at 220 yen a pack, released March 14, 2026. The English product on this shelf is a sealed case of 12 boxes, each box 24 packs of twelve cards, released March 13, 2026. Same 123 card types, different pack sizes, different prices, and on the Warehouse shelf the English case divides to $402.50 a box against $64.12 for the Japanese box.",
+        "q": "Is the Japanese FB09 box the same product as the English case?"
+      },
+      {
+        "a": "Not on this shelf. The store lists no English FB09 single box, only the English sealed case at $4,830.00 for 12 boxes. An English buyer therefore faces a $4,830 entry for sealed English FB09, against $64.12 for one Japanese box. That is a shelf fact, not a Bandai rule, and it is the widest language gap in the Fusion World line covered here.",
+        "q": "Can I buy a single English FB09 box?"
+      },
+      {
+        "a": "Buy the single. A Japanese box holds 144 cards drawn from a 123-type pool, and no box guarantees any Gogeta Secret Rare, any Super Alt-Art, or any named card. Bandai publishes no pull rates for FB09, and a third-party asking price dated September 24, 2026 put a sealed Japanese FB09 box at 9,400 yen, about $61, which is an asking price, not a sale and not a reason to buy boxes instead of the card.",
+        "q": "Should I buy an FB09 box to pull a Gogeta Secret Rare?"
+      }
+    ],
+    "h1": "FB09 Dual Evolution Buyer's Guide: Worth It?",
+    "intro": [
+      "Short answer: buy the Japanese box if the job is opening the second-anniversary Fusion World set, buy the English case only if the job is English boxes in bulk at a four-figure entry, and buy neither for one named card. The [FB09 Japanese booster box](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) costs $64.12 on the Warehouse shelf on November 4, 2026, which divides to $2.67 a pack and $0.45 a card. The [FB09 English sealed case](/product/dragon-ball-super-fusion-world-fb09-dual-evolution-booster-box-sealed-case-engli/) costs $4,830.00 for 12 boxes, which divides to $402.50 a box, $16.77 a pack, and $1.40 a card.",
+      "That gap, $338.38 a box between the same set in two languages, is the whole guide in one line, and it is a gap most FB09 coverage never prices, because most of it prices one language, one shop, or one box. FB09 is the Dual Evolution set: 123 card types, three Gogeta Secret Rares, five all-Saiyan Leaders carrying the new [Fusion Evolve] and [Ki] mechanics, and the debut of the Leader Super Alt-Art as a new rarity. It is also the set where the English buyer has no single-box option on this shelf at all, and where the English case is the dearest Fusion World case the store lists.",
+      "This page exists because the usual FB09 coverage does one of three things well and none completely: it lists the set, it names the chase cards, or it explains the new mechanics. None of it prices the Japanese box against the English case from one store on one day, and that division, with the case-only English shelf stated plainly, is the purchase decision."
+    ],
+    "metaDescription": "FB09 buyer's guide, Nov 4, 2026: Japanese box $64.12, English case $402.50 a box, 123 types, Gogeta SCR trio, Fusion Evolve, first Leader Super Alt-Arts.",
+    "metaTitle": "FB09 Dual Evolution Buyer's Guide: Price & Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about FB09 is whether the $4,830 English case price is a misprint, because buyers assume a case cannot cost more than double the next dearest Fusion World case. It is not a misprint: the store lists the English FB09 case at $4,830.00 for 12 boxes, and we say so before the sale, not after a buyer has budgeted for an English box that is not stocked. A buyer who plans around a product that does not exist has been failed by every guide that stayed silent about it.",
+        "paragraphs": [
+          "Buy the Japanese box if the job is opening Fusion World at the second-anniversary set. At $64.12, it is the dearest Japanese Fusion World box among the recent run, $36.24 above FB07 at $27.88 and $38.10 above FB08 at $26.02, but it is the only sealed Japanese route into the Gogeta trio, the [Fusion Evolve] mechanic, and the first Leader Super Alt-Art cards. For a player who wants current cards, or a collector opening one box of the set, the Japanese box is the rational entry, and the full Japanese ladder is in [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/).",
+          "Buy the English case, not an English box, if the job is English boxes in bulk, and only with eyes open about the entry price: $4,830.00 for 12 boxes, $402.50 a box, with no cheaper sealed English FB09 route on this shelf. A single English box, bought alone, is not an option here at any price, which is a different problem from an expensive option. The wider English case ladder is in [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/).",
+          "Buy the single for any named card, without exception in this set. The three Gogeta Secret Rares, the Super Alt-Art versions of all three, and the Leader Super Alt-Arts are the cards that make FB09 famous, and they are also the cards a box is least likely to contain."
+        ]
+      },
+      {
+        "h": "The money layer: a $64 box against a $4,830 case",
+        "math": [
+          "FB09 Japanese box per pack: $64.12 / 24 packs = $2.67 per pack",
+          "FB09 Japanese box per card: $64.12 / 144 cards = $0.45 per card",
+          "FB09 English case per box: $4,830.00 / 12 boxes = $402.50 per box",
+          "FB09 English case per pack: $4,830.00 / 288 packs = $16.77 per pack",
+          "FB09 English case per card: $4,830.00 / 3,456 cards = $1.40 per card",
+          "FB09 Japanese vs English gap per box: $402.50 - $64.12 = $338.38 per box",
+          "FB09 Japanese vs English gap per pack: $16.77 - $2.67 = $14.10 per pack",
+          "FB09 Japanese vs English gap per card: $1.40 - $0.45 = $0.95 per card",
+          "FB09 Japanese official box: 24 packs x 220 yen = 5,280 yen",
+          "FB09 vs FB08 Japanese box: $64.12 - $26.02 = $38.10 per box",
+          "FB09 vs FB07 Japanese box: $64.12 - $27.88 = $36.24 per box",
+          "FB09 vs SB01 or SB02 Japanese box: $64.12 - $57.61 = $6.51 per box",
+          "FB08 Japanese box per pack: $26.02 / 24 packs = $1.08 per pack",
+          "FB08 Japanese box per card: $26.02 / 144 cards = $0.18 per card",
+          "FB07 Japanese box per pack: $27.88 / 24 packs = $1.16 per pack",
+          "FB10 English case per box: $2,333.57 / 12 boxes = $194.46 per box",
+          "FB11 English case per box: $2,553.00 / 12 boxes = $212.75 per box",
+          "FB07 English case per box: $1,587.00 / 12 boxes = $132.25 per box",
+          "FB09 English case vs FB10 English case per box: $402.50 - $194.46 = $208.04 per box",
+          "FB09 English case vs FB07 English case per box: $402.50 - $132.25 = $270.25 per box"
+        ],
+        "paragraphs": [
+          "Start with the Japanese box, because it is the sane price. Twenty-four packs of six cards is 144 cards, and $64.12 divided by 24 is $2.67 a pack, divided by 144 is $0.45 a card. Those figures are verified in the strong sense: pack contents are printed on Bandai's product page, and the price is the Warehouse shelf price on November 4, 2026, not a marketplace ask or a buyback quote. Honesty note: Bandai's pages print per-pack contents but no packs-per-box figure, so the 24-pack box used here is the store and trade box shape, stated as such rather than attributed to Bandai.",
+          "Then the English case, because the English case is the shock. The case costs $4,830.00 for 12 boxes, which is $402.50 a box, $16.77 a pack, and $1.40 a card. Against the Japanese box, that is $338.38 more per box and $14.10 more per pack, for the same 123 card types in a different language and pack size. The full version of the case rule, with the cases where it runs the other way, is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). The English case neighbours put the figure in context: FB10's case divides to $194.46 a box and FB11's to $212.75 a box, so FB09 at $402.50 sits $208.04 above FB10 per box and $270.25 above FB07 per box. It is the dearest Fusion World case on this shelf by a wide margin.",
+          "The Japanese neighbours complete the money layer. [FB08](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) at $26.02 is $38.10 cheaper per box than FB09, at $1.08 a pack, which prices the Dual Evolution mechanics and the Gogeta trio at about thirty-eight dollars a box against its predecessor. [FB07](/product/fb07-wish-for-shenron-japanese-dragon-ball-fusion-world-card/) at $27.88 is $36.24 cheaper, at $1.16 a pack. The Manga Boosters [SB01](/product/sb01-manga-booster-01-japanese-dragon-ball-fusion-world-card/) and [SB02](/product/sb02-manga-booster-02-japanese-dragon-ball-fusion-world-card/), each at $57.61, divide to $2.40 a pack, which prices the manga-illustration alt-arts just below FB09. ",
+          "One dated third-party cross-check, labelled as such: a Tokyo exporter guide dated September 24, 2026 put the lowest SNKRDUNK asking price for a sealed Japanese FB09 box at 9,400 yen, about $61. The Warehouse shelf price of $64.12 sits about $3 above that ask, the normal shape of a stocked shelf price against a lowest ask."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "FB09, full title Dual Evolution, is the ninth Fusion World booster, released in English on March 13, 2026 and in Japan on March 14, 2026, at 220 yen per pack for six cards plus a digital code in Japan, and twelve cards plus a digital code per pack in English. The English-first release by one day continues the pattern set by FB08, reversing the usual Japan-first expectation buyers carry from FB07, where Japan led by six days. The official card-type count is 123: 5 Leaders, 40 Commons, 35 Uncommons, 25 Rares, 15 Super Rares, and 3 Secret Rares.",
+          "The chase structure is the set's identity. The three Secret Rares are a Gogeta trio: FB09-121 Gogeta: BR, from the Broly film; FB09-122 Gogeta, from Fusion Reborn; and FB09-123 Gogeta: GT. All three carry Super Alt-Art versions, and all five Leaders carry alt-art versions as well. The five Leaders are all Saiyans, one per colour: Red Gogeta: BR, Blue Son Goku, Green Son Gohan: SH, Yellow Son Goku and Vegeta, Black Gogeta: GT. That all-Saiyan Leader line is a deck-building fact: a Saiyan player finds five on-ramps in one set.",
+          "The mechanics are the set's other identity. FB09 is the second-anniversary set, introducing [Fusion Evolve] and [Ki] on its Leaders, the first new Leader keywords of this scale since launch, and debuting the Leader Super Alt-Art as a new rarity: two Leaders carry Super Alt-Art versions, the first time Leaders have appeared at that tier. There is no God Rare in Fusion World at all, a fact worth stating because the older Masters line has one and buyers carry the expectation across: Fusion World's top tier runs Secret Rare, then Secret Rare Super Alt-Art, then Leader Super Alt-Art. Two EX starter decks launched the same day as the set, March 14 in Japan and March 13 in English, which means a new player has a second, cheaper route into the mechanics without buying a box at all."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 4, 2026."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Japanese single box",
+              "$64.12",
+              "24",
+              "$2.67",
+              "$0.45",
+              "Opening the anniversary set"
+            ],
+            [
+              "English sealed case (12 boxes)",
+              "$4,830.00",
+              "288",
+              "$16.77",
+              "$1.40",
+              "English boxes in bulk"
+            ],
+            [
+              "Japanese FB08 box",
+              "$26.02",
+              "24",
+              "$1.08",
+              "$0.18",
+              "Cheapest recent Japanese entry"
+            ],
+            [
+              "Japanese FB07 box",
+              "$27.88",
+              "24",
+              "$1.16",
+              "$0.19",
+              "Shenron theme on a budget"
+            ],
+            [
+              "Japanese SB01 or SB02 box",
+              "$57.61",
+              "24",
+              "$2.40",
+              "$0.40",
+              "Manga-illustration alt-arts"
+            ],
+            [
+              "English FB09 single box",
+              "Not stocked",
+              "0",
+              "Not divided",
+              "Not divided",
+              "Does not exist on this shelf"
+            ],
+            [
+              "Named FB09 single",
+              "Varies by card",
+              "0",
+              "Not divided",
+              "Not divided",
+              "One named card is the goal"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The strongest FB09 guides each cover one part of the question well. The official news post gives both release dates, the alt-art lineup, the Secret Rare trio, and the debut of the Leader Super Alt-Art rarity. One card-list guide gives the full 123-type count, the rarity breakdown, and the 41 alternate-art versions catalogued so far. One set guide gives the [Fusion Evolve] and [Ki] mechanics, the Japanese six-card versus English twelve-card pack difference, and the dated SNKRDUNK asking price. None of them prices the Japanese box against the English case from one store on one day, and none of them states that the English single box is not stocked on that store.",
+          "The second gap is the English case premium itself. Guides that call the case expensive without dividing it leave a buyer guessing at the size: the gap is $338.38 a box, about five hundred percent, which no shipping or import story explains on its own, because the same store's FB10 case divides to $194.46 a box. The third gap is the English-first release. Guides that print the two dates without comment miss the pattern: FB08 and FB09 both reached English shelves a day before Japan, which matters to a buyer timing a preorder, because the English price is set before the Japanese price is even live. The fourth gap is the Leader line as a purchase fact: five Saiyan Leaders in one set means a Saiyan player buys one set, not five."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, chasing a Gogeta Secret Rare with boxes. No box guarantees any Gogeta Secret Rare, any Super Alt-Art, or any named card, Bandai publishes no pull rates, and the dated September 24, 2026 SNKRDUNK ask of about $61 for a sealed Japanese box is an asking price, not a reason to buy boxes instead of the card. Singles beat sealed for named cards in almost every case, and the open-or-hold decision in full is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "Second, buying the English case as if it were an English box multiplied. It is twelve boxes at $4,830.00, and the entry price is the whole case, not one twelfth of it on instalments. A buyer who budgets $402.50 for English FB09 has budgeted for a box not sold singly on this shelf.",
+          "Third, buying the wrong language for the wrong reason. The Japanese box is cheaper per pack by $14.10, but it is Japanese-language cards, which cannot be played where English cards are required, and which carry different collector demand. The English case is dearer, but it is the playable, resalable English product in English-speaking markets. Price alone should never choose the language; the language should be chosen first, and then the price divided within it. The language trade-off for Fusion World specifically is priced in [Best Dragon Ball Fusion World Booster Box](/blog/best-dragon-ball-fusion-world-booster-box/).",
+          "Fourth, ignoring the digital codes. Every pack carries a one-use code for the digital version, so a box whose shrink wrap is damaged or re-glued may have lost its codes even if its cards are untouched. Check the seal before opening, using the checks in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and treat a code-less box as diminished, because for a digital player it is.",
+          "Fifth, paying an anniversary premium for the new rarity tier. New rarities attract premiums, but a debut rarity is also the rarity with the least price history. FB09's argument is its $2.67 Japanese pack and its five Saiyan Leaders, not its newest tier."
+        ]
+      },
+      {
+        "h": "Context: English first, and the dearest case on the shelf",
+        "paragraphs": [
+          "The two versions share the card pool and differ in price structure. Japanese packs cost 220 yen for six cards, English packs carry twelve cards, and the English release preceded the Japanese release by one day, March 13 against March 14, 2026. On the Warehouse shelf, the Japanese box at $64.12 undercuts the English case's per-box figure of $402.50 by $338.38, and neither a Japanese case nor an English single box exists here.",
+          "The case-only English shelf is the structural fact to keep. It is not a Bandai rule, and it may not hold on other stores; it is what this store lists on November 4, 2026, and it changes the English buyer's decision from which box to whether a four-figure case is the job at all. For most English buyers it is not, and the honest English answer is often to wait, to buy the Japanese box for opening, or to buy the named single. The shipping and customs leg is priced in [Buying TCG From Japan: Shipping, Customs, and the Proxy Question](/blog/buying-tcg-from-japan-shipping-customs-proxy/).",
+          "One boundary to state plainly: this guide covers FB09 main-set boxes and cases only. Manga Boosters SB01 and SB02, starter decks, and the EX starter decks that launched alongside FB09 are different products. FB10, the June 2026 successor, is a separate purchase, and its English case at $194.46 a box is the clearest proof that FB09's English case price is a property of this set's shelf, not of the line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who need one named card, for players who need English-legal cards but are tempted by the cheaper Japanese price, or for buyers who need the money back on a date. It is not for collectors chasing the full 123-type pool from boxes alone, because the Secret Rare and Super Alt-Art tiers are deep enough that singles finish the set far cheaper than sealed. And it is not for English buyers looking for a single sealed box, because on this shelf, for this set, in English, there is no single box to buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the language first: Japanese at $64.12 a box or English at $4,830.00 a case, before any other comparison.",
+          "Divide before you pay: Japanese $64.12 divided by 24 packs, then by 144 cards; English $4,830.00 divided by 12 boxes, then by 288 packs.",
+          "Do not budget for an English single box: it is not stocked on this shelf.",
+          "If the goal is any Gogeta Secret Rare or any named card, price the single first.",
+          "Check the seal on arrival before opening, using the reseal checks linked in the risk section, and remember every pack carries a one-use digital code.",
+          "If the goal is the full 123-type pool, price the Secret Rare and Super Alt-Art cards as singles before opening a second box."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. Language first, because it changes every price that follows; case division second, because the English answer is a four-figure case; singles pricing third, because chase cards are the reason most buyers overpay."
+        ]
+      }
+    ],
+    "slug": "fb09-dual-evolution-buyers-guide",
+    "takeaway": [
+      "On November 4, 2026, the Warehouse FB09 Japanese box costs $64.12, which is $2.67 a pack and $0.45 a card. Buy it to open the anniversary set, buy the English case at $402.50 a box only for English boxes in bulk, and buy the single for any Gogeta Secret Rare or any named card.",
+      "Prices move; the method does not. Choose the language first, divide the case in that language, and never budget for a product the shelf does not stock.",
+      "For the predecessor set, see [FB08 Saiyan's Pride Buyer's Guide](/blog/fb08-saiyans-pride-buyers-guide/). For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the English case ladder, see [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/)."
     ]
   },
   "how-many-packs-in-a-booster-box": {
@@ -7464,6 +7665,222 @@ export const POSTS: Record<string, BlogPost> = {
       "Ready to start? Browse [the One Piece range](/one-piece-cards/) for starter decks and boxes, and keep an eye on the [release calendar](/release-calendar/) for what your color gets next. And if you end up holding sealed product you are saving rather than opening, store it the way we describe in [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — a box kept right is money kept."
     ]
   },
+  "op-15-adventure-on-kamis-island-buyers-guide": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "No, and that is the most important fact in this guide. The Japanese set is OP-15 at 125+1 types, released February 28, 2026. The English set is coded OP15-EB04, released April 3, 2026, at 159+1 types, because it folds in the second half of the Japanese EB-04 cards. Same Skypiea theme, different card pool, and the English box costs $266.52 on the Warehouse shelf against $69.48 for the Japanese box.",
+        "q": "Is the English OP-15 box the same set as the Japanese OP-15 box?"
+      },
+      {
+        "a": "Yes, in both languages, and that is unusual enough to state plainly. The Japanese case at $816.00 divides to $68.00 a box, $1.48 below the $69.48 single box. The English case at $2,270.16 divides to $189.18 a box, $77.34 below the $266.52 single box. Both cases save per box, which is the normal direction of the case rule and the opposite of OP-16, where the Japanese case cost more per box than the single.",
+        "q": "Does the OP-15 sealed case actually save money over single boxes?"
+      },
+      {
+        "a": "Buy the single. A Japanese box holds 144 cards drawn from a 125+1-type pool, and no box guarantees the Enel Secret Rare, the Luffy Secret Rare, or any named card. Bandai publishes no pull rates for OP-15, and a dated third-party page put the English sealed box at $250 on November 3, 2026, which is a market snapshot, not a reason to buy boxes instead of the card.",
+        "q": "Should I buy an OP-15 box to pull the Enel Secret Rare?"
+      }
+    ],
+    "h1": "OP-15 Adventure on Kami's Island Buyer's Guide: Worth It?",
+    "intro": [
+      "Short answer: buy the Japanese box if the job is opening the Skypiea set cheaply, buy the English box or case if the job is English cards, and buy neither for one named card. The [OP-15 Japanese booster box](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) costs $69.48 on the Warehouse shelf on November 4, 2026, which divides to $2.90 a pack and $0.48 a card. The [OP-15 English booster box](/product/op-15-adventure-on-kamis-island-booster-box-english-one-piece-card/) costs $266.52, which divides to $11.11 a pack and $0.93 a card.",
+      "That gap, $197.04 a box between the two languages, is the whole guide in one line, but it is not the most interesting fact on this page. The most interesting fact is that the English set is not the Japanese set: the English product is coded OP15-EB04, it carries 159+1 types against the Japanese 125+1, and it folds in the second half of the Japanese EB-04 cards. Most OP-15 coverage treats the two as translations of one set. They are not, and a buyer who assumes they are will miscount the set.",
+      "This page exists because the usual OP-15 coverage does one of three things well and none completely: it lists the parallels, it names the chase cards, or it compares Japanese and English prices. None of it prices all four sealed OP-15 products from one store on one day, and none of it states plainly that the English card pool is bigger. That division, with the code difference stated up front, is the purchase decision."
+    ],
+    "metaDescription": "OP-15 buyer's guide, Nov 4, 2026: Japanese box $69.48, English box $266.52, both cases save, Enel and Luffy SEC, and why EN OP-15 is not the JP set.",
+    "metaTitle": "OP-15 Kami's Island Buyer's Guide: Price & Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about OP-15 is whether the English box is worth nearly four times the Japanese box, because buyers assume the English set must contain something the Japanese set does not. It does contain something more: 34 extra types, the EB-04 second half, folded into the English product under the code OP15-EB04. Whether that is worth $197.04 a box is a different question from whether the sets are identical, and we say they are not identical before the sale, not after a buyer has counted a set that does not match.",
+        "paragraphs": [
+          "Buy the Japanese box if the job is opening One Piece cheaply. At $69.48, it is the cheapest Japanese One Piece box among the recent numbered run, $28.78 below OP-14 at $98.26, $35.52 below OP-16 at $105.00, and $51.80 below OP-17 at $121.28, and the cheapest way into the Skypiea theme, the Enel and Luffy Secret Rares, and the six new Leaders. For a player who wants current cards, or a collector opening one box, the Japanese box is the rational entry; the full Japanese ladder is in [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+          "Buy the English box if the job is English cards, and the English case if the job is English boxes in bulk: the box costs $266.52, and the case at $2,270.16 divides to $189.18 a box, a saving of $77.34 a box against the single. The English route is dearer in every form, but it is the playable, resalable English product in English-speaking markets, and it contains cards the Japanese box does not. The wider English ladder is in [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
+          "Buy the Japanese case if the job is Japanese boxes in bulk: $816.00 divides to $68.00 a box, $1.48 below the single box, a small saving but in the right direction. Buy the single for any named card, without exception in this set: the Enel and Luffy Secret Rares, the six Special cards, and the parallels are the cards that make OP-15 famous, and the cards a box is least likely to contain."
+        ]
+      },
+      {
+        "h": "The money layer: four products, two languages, both cases saving",
+        "math": [
+          "OP-15 Japanese box per pack: $69.48 / 24 packs = $2.90 per pack",
+          "OP-15 Japanese box per card: $69.48 / 144 cards = $0.48 per card",
+          "OP-15 Japanese case per box: $816.00 / 12 boxes = $68.00 per box",
+          "OP-15 Japanese case per pack: $816.00 / 288 packs = $2.83 per pack",
+          "OP-15 Japanese case per card: $816.00 / 1,728 cards = $0.47 per card",
+          "OP-15 Japanese case saving per box: $69.48 - $68.00 = $1.48 per box",
+          "OP-15 Japanese case saving per case: $1.48 x 12 boxes = $17.76 per case",
+          "OP-15 English box per pack: $266.52 / 24 packs = $11.11 per pack",
+          "OP-15 English box per card: $266.52 / 288 cards = $0.93 per card",
+          "OP-15 English case per box: $2,270.16 / 12 boxes = $189.18 per box",
+          "OP-15 English case per pack: $2,270.16 / 288 packs = $7.88 per pack",
+          "OP-15 English case per card: $2,270.16 / 3,456 cards = $0.66 per card",
+          "OP-15 English case saving per box: $266.52 - $189.18 = $77.34 per box",
+          "OP-15 English case saving per case: $77.34 x 12 boxes = $928.08 per case",
+          "OP-15 English vs Japanese gap per box: $266.52 - $69.48 = $197.04 per box",
+          "OP-15 English vs Japanese gap per pack: $11.11 - $2.90 = $8.21 per pack",
+          "OP-15 English vs Japanese gap per card: $0.93 - $0.48 = $0.45 per card",
+          "OP-15 English MSRP arithmetic: 24 packs x $4.99 = $119.76 per box",
+          "OP-15 English box above MSRP arithmetic: $266.52 - $119.76 = $146.76 per box",
+          "OP-15 English case per box above MSRP arithmetic: $189.18 - $119.76 = $69.42 per box",
+          "OP-15 Japanese official box: 24 packs x 220 yen = 5,280 yen",
+          "OP-15 vs OP-14 Japanese box: $69.48 - $98.26 = -$28.78 per box",
+          "OP-15 vs OP-16 Japanese box: $69.48 - $105.00 = -$35.52 per box",
+          "OP-15 vs OP-17 Japanese box: $69.48 - $121.28 = -$51.80 per box",
+          "OP-15 vs OP-18 Japanese preorder box: $69.48 - $84.00 = -$14.52 per box",
+          "OP-14 Japanese box per pack: $98.26 / 24 packs = $4.09 per pack",
+          "OP-16 Japanese box per pack: $105.00 / 24 packs = $4.38 per pack"
+        ],
+        "paragraphs": [
+          "Start with the Japanese box, because it is the good news. Twenty-four packs of six cards is 144 cards, and $69.48 divided by 24 is $2.90 a pack, divided by 144 is $0.48 a card. Those figures are verified in the strong sense: pack contents are printed on Bandai's product page, and the price is the Warehouse shelf price on November 4, 2026, not a marketplace ask or a buyback quote. Honesty note: the 24-pack box is the store and trade shape; Bandai's pages print per-pack contents but no packs-per-box figure.",
+          "Then the Japanese case, because it is the quiet surprise. The case costs $816.00 for 12 boxes, which is $68.00 a box, $2.83 a pack, and $0.47 a card, a saving of $1.48 a box and $17.76 a case against single boxes. The full case rule is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). The contrast that matters is OP-16, covered in [OP-16 The Time of Battle Buyer's Guide](/blog/op-16-the-time-of-battle-buyers-guide/), where the Japanese case cost $0.09 more per box than the single: OP-15's case runs the normal way, OP-16's did not, and a buyer who assumes cases always save will be wrong about one set in two.",
+          "Then the English side, because it is the shock. The English box costs $266.52, which is $11.11 a pack and $0.93 a card, and the English case at $2,270.16 divides to $189.18 a box, $7.88 a pack, and $0.66 a card, a saving of $77.34 a box and $928.08 a case. Against the Japanese box, the English box costs $197.04 more per box and $8.21 more per pack. Against the pack-price arithmetic, 24 packs at the printed $4.99 gives $119.76 a box, so the English box sits $146.76 above that arithmetic and even the case-divided box sits $69.42 above it. The premium is real, and pack size alone does not explain it: the English box holds twice the cards per pack, yet still costs nearly twice as much per card.",
+          "The Japanese neighbours complete the money layer. [OP-14](/product/op-14-the-azure-seas-seven-booster-box-japanese-one-piece-card/) at $98.26 is $28.78 dearer per box than OP-15, at $4.09 a pack. [OP-16](/product/op-16-the-time-of-battle-booster-box-japanese-one-piece-card/) at $105.00 is $35.52 dearer, at $4.38 a pack. [OP-17](/product/op-17-the-worlds-strongest-warriors-booster-box-japanese-one-piece-card/) at $121.28 is $51.80 dearer, at $5.05 a pack. OP-15 is the cheapest Japanese numbered box on this shelf, and the gap is wide enough that a buyer choosing purely on price chooses OP-15 before any other recent set. Dated cross-check: a page dated November 3, 2026 put the English sealed box at $250 from TCGplayer data; the Warehouse box at $266.52 sits $16.52 above it."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "OP-15, full title Adventure on Kami's Island, is the fifteenth One Piece booster, released in Japan on February 28, 2026, at 220 yen per pack for six cards, and in English on April 3, 2026, at $4.99 per pack, under the code OP15-EB04. The theme is the Skypiea arc: the Straw Hat crew reaches the island in the sky and is drawn into its war of gods. The set's two Secret Rare numbers are OP15-118 Enel, the self-appointed god of Skypiea, and OP15-119 Monkey D. Luffy, his challenger; Enel is the only number with two parallel rows.",
+          "The official rarity breakdown for the Japanese set is 6 Special cards, 6 Leaders, 2 Secret Rares, 10 Super Rares, 26 Rares, 30 Uncommons, 45 Commons, and 1 DON!! card, which sums to 126, the printed 125+1 types. The English product prints 159+1 types, and the difference is not a counting quirk: the English set folds in the second half of the Japanese EB-04 cards, following OP-14, which folded in the first half. That is why the English code is OP15-EB04 and not OP-15, and why an English collector counting to 125 will stop 34 types short. Honesty note on counts: aggregator timelines differ by counting method, with one listing 149 base cards for OP-15, and the official card database lists 152 rows including parallels and Special cards. This guide uses the official product-page figures, 125+1 in Japanese and 159+1 in English, rather than picking the biggest number.",
+          "Two further facts belong in every honest OP-15 guide. First, Bandai issued an official apology notice on February 27, 2026 regarding an illustration error in OP-15, the day before the Japanese release, a first-printing detail for collectors checking print runs. Second, Bandai publishes no pull rates for OP-15, so no frequency figure for the Secret Rares, the Special cards, or any parallel is quoted here; any guide quoting one is quoting community estimates."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 4, 2026."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Japanese single box",
+              "$69.48",
+              "24",
+              "$2.90",
+              "$0.48",
+              "Opening the Skypiea set cheaply"
+            ],
+            [
+              "Japanese sealed case (12 boxes)",
+              "$816.00",
+              "288",
+              "$2.83",
+              "$0.47",
+              "Japanese boxes in bulk"
+            ],
+            [
+              "English single box",
+              "$266.52",
+              "24",
+              "$11.11",
+              "$0.93",
+              "English cards, one box"
+            ],
+            [
+              "English sealed case (12 boxes)",
+              "$2,270.16",
+              "288",
+              "$7.88",
+              "$0.66",
+              "English boxes in bulk"
+            ],
+            [
+              "Japanese OP-14 box",
+              "$98.26",
+              "24",
+              "$4.09",
+              "$0.68",
+              "Azure Sea's Seven theme"
+            ],
+            [
+              "Japanese OP-16 box",
+              "$105.00",
+              "24",
+              "$4.38",
+              "$0.73",
+              "Paramount War theme"
+            ],
+            [
+              "Japanese OP-17 box",
+              "$121.28",
+              "24",
+              "$5.05",
+              "$0.84",
+              "Newest numbered set"
+            ],
+            [
+              "Named OP-15 single",
+              "Varies by card",
+              "0",
+              "Not divided",
+              "Not divided",
+              "One named card is the goal"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The strongest OP-15 guides each cover one part of the question well. One parallel and Special card guide gives both release dates, the rarity breakdown, the two Secret Rare numbers, and the fact that Enel carries two parallel rows. One pre-order tracking page gives the English MSRP arithmetic of $119.76, the dated $250 sealed-box figure, and the ten-to-thirteen-week cadence of recent English releases. None of them prices all four sealed OP-15 products from one store on one day, and none of them states plainly that the English set is bigger than the Japanese one.",
+          "The second gap is the case direction. Guides that repeat the rule that cases always save will be wrong about OP-16 and right about OP-15 without knowing why. OP-15's Japanese case saves $1.48 a box and its English case saves $77.34 a box, and those two divisions are the whole case story for this set. The third gap is the EB-04 fold-in: guides that call the English set OP-15 without its OP15-EB04 code leave a collector counting a set that does not match the product they bought. The fourth gap is the price ladder: OP-15 is the cheapest Japanese numbered box on this shelf, and no guide that prices it alone tells a buyer that."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, chasing an Enel or Luffy Secret Rare with boxes. No box guarantees either Secret Rare, any Special card, or any named card, Bandai publishes no pull rates, and the dated November 3, 2026 English box figure of $250 is a market snapshot, not a reason to buy boxes instead of the card. Singles beat sealed for named cards in almost every case, and the open-or-hold decision in full is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "Second, counting the wrong set. A buyer collecting the English set to 125 types will stop 34 types short, and a buyer collecting the Japanese set to 159 types will chase 34 cards that do not exist there. Check the code before counting, not after.",
+          "Third, buying the wrong language for the wrong reason. The Japanese box is cheaper per pack by $8.21, but it is Japanese-language cards, which cannot be played where English cards are required, and which carry different collector demand. The English box is dearer, but it is the playable, resalable English product in English-speaking markets, and it contains the EB-04 second half the Japanese box does not. Price alone should never choose the language; the language should be chosen first, and then the price divided within it.",
+          "Fourth, assuming the case always saves. OP-15's cases do save, in both languages, but OP-16's Japanese case did not, and the only way to know is to divide the case on the day. A buyer who bulk-buys on the rule instead of the division will eventually pay a premium for buying more.",
+          "Fifth, paying a chase premium for the Skypiea theme without pricing it twice. The Skypiea Leaders and the Enel and Luffy Secret Rares are the set's identity, and identity cards carry premiums that fall as the set ages. OP-15's argument is its $2.90 Japanese pack, not its theme premium. The first-deck route, including how Leaders shape a deck, is in [One Piece: How to Build Your First Deck](/blog/one-piece-how-to-build-your-first-deck/)."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the set that is two sets",
+        "paragraphs": [
+          "The two versions share the Skypiea theme and differ in card pool, code, and price structure. Japanese packs cost 220 yen for six cards, English packs cost $4.99, and the Japanese release preceded the English release by five weeks, February 28 against April 3, 2026. On the Warehouse shelf, the Japanese box at $69.48 undercuts the English box at $266.52 by $197.04, and both languages offer a sealed case that saves per box, which rewards the bulk buyer in both languages.",
+          "The dual-code structure is the structural fact to keep. It is not a misprint, and it is not unique to OP-15: OP-14 carried the first half of EB-04 under its own dual code, and OP-15 carries the second half. But OP-15 is where the consequence is clearest, because the English set is a third larger than the Japanese set by type count. For most English buyers the honest answer is still the English box or case, because it is the playable product in English-speaking markets; the point is to buy it knowing it is bigger, not assuming it is the same. The shipping and customs leg is priced in [Buying TCG From Japan: Shipping, Customs, and the Proxy Question](/blog/buying-tcg-from-japan-shipping-customs-proxy/).",
+          "One boundary to state plainly: this guide covers OP-15 main-set boxes and cases only. EB-04 as a standalone Japanese product, starter decks, and release-event cards are different products. OP-16, the May 2026 successor, is a separate purchase, and its Japanese case premium is the clearest proof that OP-15's case savings are a property of this set's shelf, not of the line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who need one named card, for players who need English-legal cards but are tempted by the cheaper Japanese price, or for buyers who need their money back on a date. It is not for collectors chasing the full English 159+1-type pool from Japanese boxes, because 34 of those types do not exist there. And it is not for buyers who assume a sealed case always saves money, because the only honest version of that rule is the division on the day, and OP-16 is the recent proof."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the language first: Japanese at $69.48 a box or English at $266.52 a box, before any other comparison.",
+          "Check the code: Japanese OP-15 is 125+1 types, English OP15-EB04 is 159+1 types; count the set you actually bought.",
+          "Divide before you pay: Japanese $69.48 divided by 24 packs, then by 144 cards; English $266.52 divided by 24 packs, then by 288 cards.",
+          "Divide the case too: Japanese $816.00 divided by 12 boxes, English $2,270.16 divided by 12 boxes, and compare per box, not per case.",
+          "If the goal is the Enel or Luffy Secret Rare or any named card, price the single first.",
+          "If the goal is the full pool, price the Secret Rare, Special, and parallel cards as singles before opening a second box."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. Language first, because it changes every price that follows; code second, because the English set is bigger; case division third, because both OP-15 cases save and the next set's might not."
+        ]
+      }
+    ],
+    "slug": "op-15-adventure-on-kamis-island-buyers-guide",
+    "takeaway": [
+      "On November 4, 2026, the Warehouse OP-15 Japanese box costs $69.48, which is $2.90 a pack and $0.48 a card. Buy it to open the Skypiea set cheaply, buy the English box at $266.52 or its case at $189.18 a box for English cards, and buy the single for the Enel or Luffy Secret Rare or any named card.",
+      "Prices move; the method does not. Choose the language first, check the code second, divide the case third, and never count a set you did not buy.",
+      "For the successor set, see [OP-16 The Time of Battle Buyer's Guide](/blog/op-16-the-time-of-battle-buyers-guide/). For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/)."
+    ]
+  },
   "op-16-the-time-of-battle-buyers-guide": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -7668,7 +8085,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 4, 2026, the Warehouse OP-16 Japanese box costs $105.00, which is $4.38 a pack and $0.73 a card. Buy it to open One Piece cheaply, buy the English case at $160.93 a box only for English boxes in bulk, and buy the single for any named Three Admirals card.",
       "Prices move; the method does not. Choose the language first, divide the case in that language, and never assume a case discounts until the division says so.",
-      "For the successor set, see [OP-17 World's Strongest Warriors Buyer's Guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/). For the preorder successor, see [OP-18 The Dominance of God Preorder Guide](/blog/op-18-the-dominance-of-god-preorder-guide/). For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/)."
+      "For the successor set, see [OP-17 World's Strongest Warriors Buyer's Guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/). For the preorder successor, see [OP-18 The Dominance of God Preorder Guide](/blog/op-18-the-dominance-of-god-preorder-guide/). For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the predecessor set, see [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/)."
     ]
   },
   "op-17-worlds-strongest-warriors-buyers-guide": {
