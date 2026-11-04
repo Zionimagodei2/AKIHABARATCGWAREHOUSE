@@ -1466,6 +1466,214 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Premium Booster volumes specifically, [PRB-01 vs PRB-02](/blog/prb-01-vs-prb-02-which-to-buy/) compares Vol. 1 and Vol. 2 in Japanese and English, box and case."
     ]
   },
+  "best-japanese-booster-box-to-buy": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "M3 Munikis Zero, at $70.62 for 30 packs, which is $2.35 a pack and $0.47 a card. It is the cheapest sealed Japanese box on the Warehouse shelf and the cheapest verified pack on it, as of November 4, 2026.",
+        "q": "What is the cheapest Japanese booster box on the shelf right now?"
+      },
+      {
+        "a": "OP-18 is a preorder for the November 21, 2026 Japanese release, while OP-16 and OP-17 are in-stock boxes. A preorder locks the $84 price and the allocation; it does not ship until release. If the box must arrive this month, buy OP-16 or OP-17 instead.",
+        "q": "Is the OP-18 box in stock, or is it a preorder?"
+      },
+      {
+        "a": "No. Fusion World and Lorcana are stocked on this shelf as English sealed cases only, not as Japanese boxes. A cross-game Japanese ladder that included them would be inventing stock. If English boxes are the goal, the English guides linked in this article price them properly.",
+        "q": "Why are Fusion World and Lorcana not in the Japanese ladder?"
+      }
+    ],
+    "h1": "Best Japanese Booster Box to Buy: The Price Ladder, by Budget",
+    "intro": [
+      "Short answer: the best Japanese booster box to buy depends on the budget, not the game. Under $75, buy M3 Munikis Zero at $70.62. Under $100, buy M6 Storm Emeralda at $82.80 or M1S Mega Symphonia at $84.97. If One Piece is the game, buy the OP-18 preorder at $84, or OP-16 at $105 in stock.",
+      "Every price below is a price on the Warehouse shelf on November 4, 2026, and every per-pack figure is divided from a verified pack count: 30 packs for the MEGA-era Pokemon boxes, 24 packs for the Japanese One Piece boxes, 20 packs for the SV-era boxes named at the premium end. Where a pack count was not verified this cycle, no per-pack figure is claimed.",
+      "This page exists because the usual answers to this question rank boxes by hype or by a single store's opinion. The ladder below ranks them by what a buyer actually pays per pack, on one shelf, on one day, across both Japanese games the store stocks."
+    ],
+    "metaDescription": "Best Japanese booster box ranked by price November 4, 2026: M3 $70.62, M6 $82.80, M1S $84.97, OP-18 $84 preorder, with per-pack math for every box.",
+    "metaTitle": "Best Japanese Booster Box to Buy, by Budget",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by budget",
+        "note": "We stock every box on this ladder in Japanese, so the ranking below is priced from one shelf on one day rather than assembled from other stores.",
+        "paragraphs": [
+          "Under $75, there is one answer: [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $70.62. It is the cheapest sealed Japanese box on the shelf, the cheapest verified pack at $2.35, and the cheapest verified card at $0.47. No other Japanese box beats it on any of the three measures, and the next box up costs $12.18 more.",
+          "From $75 to $100, the choice splits by game. [M6 Storm Emeralda](/product/m6-storm-emeralda-booster-box-japanese-pokemon-card/) at $82.80 is the newest MEGA-era box, released July 31, 2026, headlined by Mega Rayquaza ex, at $2.76 a pack. [M1S Mega Symphonia](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) at $84.97 is $2.17 more per box but $0.07 more per pack, and it buys the Mega Gardevoir ex chase instead. [OP-18 The Dominance of God](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) at $84 is a preorder for the November 21, 2026 Japanese release, at $3.50 a pack, and it is the only One Piece option in this band.",
+          "From $100 to $130, One Piece takes over. [OP-16 The Time of Battle](/product/op-16-the-time-of-battle-booster-box-japanese-one-piece-card/) at $105 is the cheapest in-stock Japanese One Piece box, at $4.38 a pack. [OP-17 The World's Strongest Warriors](/product/op-17-the-worlds-strongest-warriors-booster-box-japanese-one-piece-card/) at $121.28 is the newest released One Piece set, from August 22, 2026, at $5.05 a pack. Pokemon buyers in this band should look at [M1L Mega Brave](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) at $94.91 instead, which sits below the band, or at [M2a Mega Dream ex](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) at $114.77, whose per-pack figure is not claimed here because its High Class Pack count was not re-verified this cycle.",
+          "Above $130, the buyer is no longer shopping on price. [M2 Inferno X](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at $183.18 and [SV11W White Flare](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) at $167.72 are chase-led purchases, and [M6a 30th Celebration](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) at $249.00 is the premium end of the shelf at $12.45 a pack. The full Pokemon-only ranking, with every box judged by buyer type, is in [Best Japanese Pokemon Booster Box to Buy, by Buyer](/blog/best-japanese-pokemon-booster-box-to-buy/)."
+        ]
+      },
+      {
+        "h": "The money layer: the ladder, divided",
+        "math": [
+          "M3: $70.62 / 30 packs = $2.35 per pack; $70.62 / 150 cards = $0.47 per card",
+          "M6: $82.80 / 30 packs = $2.76 per pack; $82.80 / 150 cards = $0.55 per card",
+          "M1S: $84.97 / 30 packs = $2.83 per pack; $84.97 / 150 cards = $0.57 per card",
+          "OP-18 preorder: $84.00 / 24 packs = $3.50 per pack; $84.00 / 144 cards = $0.58 per card",
+          "M1L: $94.91 / 30 packs = $3.16 per pack; $94.91 / 150 cards = $0.63 per card",
+          "OP-16: $105.00 / 24 packs = $4.38 per pack; $105.00 / 144 cards = $0.73 per card",
+          "OP-17: $121.28 / 24 packs = $5.05 per pack; $121.28 / 144 cards = $0.84 per card",
+          "SV11W: $167.72 / 20 packs = $8.39 per pack; $167.72 / 140 cards = $1.20 per card",
+          "M6a: $249.00 / 20 packs = $12.45 per pack; $249.00 / 120 cards = $2.08 per card",
+          "M3 vs OP-17: $121.28 - $70.62 = $50.66 per box; $5.05 - $2.35 = $2.70 per pack",
+          "M3 vs M6a: $249.00 - $70.62 = $178.38 per box; $12.45 - $2.35 = $10.10 per pack"
+        ],
+        "paragraphs": [
+          "Read the ladder bottom-up, because the cheapest pack is the story. M3 at $2.35 a pack undercuts the next box, M6 at $2.76, by $0.41 a pack, and undercuts the dearest verified pack on the ladder, M6a at $12.45, by $10.10 a pack. That $10.10 gap is the difference between a box bought for opening and a box bought for a celebration set where every card is holo.",
+          "The One Piece side of the ladder runs dearer per pack than Pokemon at every step, and the reason is structural, not a markup story: One Piece boxes hold 24 packs against 30 in the MEGA era, and 6 cards per pack against 5, so each One Piece pack carries more cards and a higher price. OP-18 at $3.50 a pack is the cheapest One Piece entry, but it is a preorder, and preorders should never be compared to in-stock boxes without saying so, which is why the ladder labels it every time.",
+          "Two more shelf facts belong in the money layer. M4 Ninja Spinner at $88.27 and M5 Abyss Eye at $91.61 also sit on the shelf between M1S and M1L on box price; their per-pack figures are left out because this cycle verified pack counts for the ladder boxes only, and a guessed divisor would corrupt the whole table. And the case-split rule from [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) applies here too: any order of a full case should be divided by its box count before checkout, because cases are priced as their own product."
+        ]
+      },
+      {
+        "h": "What is actually in each ladder box",
+        "paragraphs": [
+          "The Pokemon boxes on the ladder share the MEGA-era structure: 30 packs per box, 5 cards per pack, 150 cards per box. M3 Munikis Zero, released January 23, 2026, is a 117-card set headlined by Mega Zygarde ex. M6 Storm Emeralda, released July 31, 2026, is a 113-card set headlined by Mega Rayquaza ex, at a Japanese retail of 200 yen per pack and 6,000 yen per box. M1S Mega Symphonia and M1L Mega Brave, both released August 1, 2025, are 92-card sets at 180 yen per pack and 5,400 yen per box, and the head-to-head between them is in [M1L vs M1S: Which to Buy](/blog/m1l-vs-m1s-which-to-buy/).",
+          "The One Piece boxes share a different structure: 24 packs per box, 6 cards per pack, 144 cards per box. OP-16, released May 30, 2026, runs 220 yen per pack at Japanese retail. OP-17, released August 22, 2026, runs 240 yen per pack and 5,760 yen per box. OP-18, the November 21, 2026 release, is the preorder at the foot of the One Piece ladder. The deeper One Piece ranking, set by set, is in [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+          "The premium end uses the older SV-era structure, which is why its per-pack figures jump: SV11W White Flare holds 20 packs of 7 cards, 140 cards per box, and M6a 30th Celebration holds 20 packs of 6 cards, 120 cards per box, every one holo. Fewer packs and fewer cards per box at a higher price is exactly what a premium set looks like in arithmetic, and the ladder shows it rather than hiding it."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "One table, every verified rung, priced November 4, 2026. Per-pack figures appear only where the pack count is verified; M4 and M5 are named in the money layer with box prices only, for the same reason."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero",
+              "$70.62",
+              "30",
+              "$2.35",
+              "$0.47",
+              "Cheapest pack wins"
+            ],
+            [
+              "M6 Storm Emeralda",
+              "$82.80",
+              "30",
+              "$2.76",
+              "$0.55",
+              "Newest MEGA set"
+            ],
+            [
+              "M1S Mega Symphonia",
+              "$84.97",
+              "30",
+              "$2.83",
+              "$0.57",
+              "Gardevoir chase"
+            ],
+            [
+              "OP-18 preorder",
+              "$84.00",
+              "24",
+              "$3.50",
+              "$0.58",
+              "One Piece, can wait"
+            ],
+            [
+              "M1L Mega Brave",
+              "$94.91",
+              "30",
+              "$3.16",
+              "$0.63",
+              "Lucario chase"
+            ],
+            [
+              "OP-16 Time of Battle",
+              "$105.00",
+              "24",
+              "$4.38",
+              "$0.73",
+              "One Piece, in stock"
+            ],
+            [
+              "OP-17 Strongest Warriors",
+              "$121.28",
+              "24",
+              "$5.05",
+              "$0.84",
+              "Newest One Piece set"
+            ],
+            [
+              "SV11W White Flare",
+              "$167.72",
+              "20",
+              "$8.39",
+              "$1.20",
+              "Twin-set collector"
+            ],
+            [
+              "M6a 30th Celebration",
+              "$249.00",
+              "20",
+              "$12.45",
+              "$2.08",
+              "Premium holo set"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The strongest guides for this question each cover one game well. One ranks Japanese Pokemon boxes across chase cards, pack contents, listed prices, and availability, with M2 top overall and M1S best value. One indexes One Piece box prices across all 23 sets, refreshed daily. One walks OP-17's release, chase cards, and lottery-driven Japanese availability. None of them puts both games on one ladder, priced from one store on one day, with per-card math beside per-pack math.",
+          "That cross-game, one-shelf view is this page's reason to exist. A buyer who only reads the Pokemon ranking never learns that the cheapest One Piece entry costs $1.15 more per pack than the cheapest Pokemon box, or that the OP-18 preorder undercuts every in-stock One Piece box by $21. A buyer who only reads the One Piece index never learns that M3 beats every One Piece box on cost per card. The ladder answers the question the buyer actually asked, which game to spend in, not just which set.",
+          "The second gap is the preorder label. Rankings that list OP-18 beside in-stock boxes without marking it as a preorder invite a buyer to compare a November 21 release against boxes that ship this week. This page marks it in the table, in the money layer, and in the answer, because a price without an availability date is not a price. The preorder discipline in full is in [Preorder a Japanese Booster Box or Wait](/blog/preorder-japanese-booster-box-or-wait/)."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, comparing box stickers instead of per-pack figures. A $70.62 box and a $121.28 box look $50.66 apart; divided, they are $2.35 against $5.05 a pack, and the card counts differ too, 150 against 144. Always divide by packs, then by cards, before ranking.",
+          "Second, buying a preorder as if it were stock. OP-18 at $84 ships after its November 21, 2026 release, not this week. If the box is a gift with a date, or stock for a store with a deadline, buy OP-16 or OP-17 instead and treat the preorder as a separate decision.",
+          "Third, buying the wrong language. Every box on this ladder is Japanese. English boxes, including the English One Piece and Fusion World cases on this shelf, are different products with different pack counts and prices. The language trade-off, with same-set math, is in [Japanese vs English Pokemon Cards: Which to Buy](/blog/japanese-vs-english-pokemon-cards-which-to-buy/).",
+          "Fourth, reseals and loose-pack traps. Japanese boxes arrive shrink-wrapped, and damaged or re-glued wrap should be verified before opening. The checks are in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and they apply to every rung of this ladder.",
+          "Fifth, opening a premium box for value. M6a at $12.45 a pack and SV11W at $8.39 a pack are not value purchases, and opening them in search of a single chase card is the most expensive way to acquire that card. Singles beat sealed for named cards in almost every case; sealed wins for the opening experience, the set chase, and the sealed holding. The open-or-hold decision is argued in full in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/)."
+        ]
+      },
+      {
+        "h": "Context: why Japanese boxes cost what they cost",
+        "paragraphs": [
+          "Japanese boxes are cheaper per pack than English boxes for structural reasons: smaller packs, more frequent releases, and a retail system that prices packs at 180 to 240 yen depending on the set. M3, M1S, and M1L sit at the 180-yen tier; M6 sits at the 200-yen tier; OP-17 sits at 240 yen. Those retail tiers explain much of the ladder's shape before any store markup is considered, and they are why a per-pack comparison across games must still be divided from the store's own prices, not from retail tiers.",
+          "Release timing moves the ladder too. The newest boxes, M6 and OP-17, command more than the older M3, even though M3 is the cheapest pack on the shelf. Newness is a real demand factor, and it cuts both ways: it also means the newest boxes are the most likely to see restocks or follow-up printings that soften prices. The cheapest rung is often the older set the market has stopped watching.",
+          "One boundary to state plainly: this ladder covers Japanese-language boxes only. The store's Fusion World and Lorcana stock is English sealed cases, and its English One Piece stock is English cases and boxes, none of which belong in a Japanese ladder. English buyers should use the English guides: [Best English One Piece Booster Box to Buy](/blog/best-english-one-piece-booster-box-to-buy/) and [Best Dragon Ball Fusion World Booster Box](/blog/best-dragon-ball-fusion-world-booster-box/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for English-card buyers, for single-card buyers, or for buyers who need the money back on a date. It is not for players who need a specific deck list this week, because sealed boxes are a lottery ticket for named cards, not a deck order. And it is not for collectors chasing the full MEGA-era set from boxes alone: with secret tiers this deep, singles finish sets far cheaper than sealed. The value-first companion to this ladder is [Best Value Japanese Pokemon Booster Boxes](/blog/best-value-japanese-pokemon-booster-boxes/)."
+        ]
+      },
+      {
+        "checklist": [
+          "Set the budget band first: under $75 means M3, under $100 means M6, M1S, or the OP-18 preorder.",
+          "Divide before you pay: box price divided by verified packs, then by cards per box.",
+          "Check availability: OP-18 is a preorder for November 21, 2026; everything else on the ladder is in stock.",
+          "Pick the game before the set: Pokemon wins on cost per pack, One Piece wins if One Piece is the collection.",
+          "If the goal is a single named card, price the single before opening a box.",
+          "Check the seal on arrival before opening, using the reseal checks linked in the risk section."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. Budget first, because it removes most of the ladder at a glance; division second, because it stops the sticker-price error; availability third, because a preorder is not stock."
+        ]
+      }
+    ],
+    "slug": "best-japanese-booster-box-to-buy",
+    "takeaway": [
+      "On November 4, 2026, the Warehouse Japanese shelf runs from M3 Munikis Zero at $70.62 and $2.35 a pack to M6a 30th Celebration at $249.00 and $12.45 a pack, with One Piece entering at the OP-18 preorder at $84 and $3.50 a pack. Buy M3 for the cheapest pack, M6 or M1S under $100, OP-16 for in-stock One Piece, and the premium rungs only for the chase.",
+      "Prices move; the method does not. Divide by verified packs, divide by cards, check the preorder label, and buy the game before the set."
+    ]
+  },
   "best-japanese-dragon-ball-fusion-world-booster-box-to-buy": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -2024,7 +2232,8 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "best-japanese-one-piece-booster-box-to-buy",
     "takeaway": [
-      "The best Japanese One Piece booster box is the one whose arithmetic matches your job. OP-15 wins on price at $2.90 per pack, OP-18 wins as the newest set at $3.50 per pack on pre-order, and OP-05 wins as the collector's set at $7.78 per pack. The case verdict is the part other guides skip: only OP-02 and OP-03 cases discount heavily, eleven cases cost more per box than buying singly, and the rest save under a dollar. Twenty-four boxes, one shelf, every division shown. For the mixed-language shelf that started this comparison, the [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) still settles OP-17 and OP-18 across both languages. The full 24-case ladder, with OP-18's unranked preorder case, is in the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/), and the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices one set in both languages."
+      "The best Japanese One Piece booster box is the one whose arithmetic matches your job. OP-15 wins on price at $2.90 per pack, OP-18 wins as the newest set at $3.50 per pack on pre-order, and OP-05 wins as the collector's set at $7.78 per pack. The case verdict is the part other guides skip: only OP-02 and OP-03 cases discount heavily, eleven cases cost more per box than buying singly, and the rest save under a dollar. Twenty-four boxes, one shelf, every division shown. For the mixed-language shelf that started this comparison, the [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) still settles OP-17 and OP-18 across both languages. The full 24-case ladder, with OP-18's unranked preorder case, is in the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/), and the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices one set in both languages.",
+      "For the cross-game view, Pokemon and One Piece priced together, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/)."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -2578,7 +2787,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The November 4, 2026 shelf, one last time: M3 $70.62, M2 $183.18 at $6.11 a pack, M2a $114.77 at $1.15 a card, SV11W $167.72 at $1.20 a card, SV11B $183.18 at $1.31 a card, SV10 $212.99 at $1.42 a card, M6a $249.00 at $2.08 a card, SV8a $163.32 at $1.63 a card, and SV2a 151 $471.20 at $3.37 a card. Verified per-card figures only where structure is verified; everything else is shelf price plus case division, stated as such.",
       "If the question is format rather than set, the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices sixteen cases against their own singles, and the [best Japanese Pokémon starter deck guide](/blog/best-japanese-pokemon-starter-deck-to-buy/) prices the play-first route. If the question is value in the abstract, the [best value boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) is the price ladder this guide deliberately did not repeat.",
-      "Pick the job, then the box, then divide before you pay. That order is the whole method, and it survives any price move: when the shelf reprices, the divisions rerun, and the right box for each buyer is usually still standing."
+      "Pick the job, then the box, then divide before you pay. That order is the whole method, and it survives any price move: when the shelf reprices, the divisions rerun, and the right box for each buyer is usually still standing.",
+      "New this cycle: the launch-pair head-to-head in [M1L vs M1S: Mega Brave or Mega Symphonia?](/blog/m1l-vs-m1s-which-to-buy/), and the cross-game price ladder in [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/)."
     ]
   },
   "best-japanese-pokemon-sealed-case-to-buy": {
@@ -3732,7 +3942,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Black Bolt and White Flare are the same machine wearing two different legendaries. The $12.88 gap is a preference fee, not a value signal. Pay it gladly if Zekrom is your card; pocket it if Reshiram is. Just don't let anyone — including us — convince you the arithmetic prefers one of them. It doesn't, and now you've seen the arithmetic.",
       "Decided? The [Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) and the [White Flare box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) are both on the shelf. If you want a read on current stock of either before you order, ask us in chat.",
-      "For the set that came just before this pair, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the box at $212.99 against a case that saves $734.48 against twelve singles."
+      "For the set that came just before this pair, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the box at $212.99 against a case that saves $734.48 against twelve singles.",
+      "The same twin-set discipline now covers the MEGA-era launch pair in [M1L vs M1S: Mega Brave or Mega Symphonia?](/blog/m1l-vs-m1s-which-to-buy/)."
     ]
   },
   "buying-tcg-from-japan-shipping-customs-proxy": {
@@ -5595,6 +5806,190 @@ export const POSTS: Record<string, BlogPost> = {
       "Two follow-ups worth your time before you buy: if the cards you open might one day be graded, read [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) — condition is where Japanese copies earn their keep. And if resale value is doing any work in your decision, [our honest take on Japanese cards as an investment](/blog/are-japanese-pokemon-cards-a-good-investment/) separates the hobby math from the investment math. Not sure how the boxes you're comparing are even built? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) has every count that matters.",
       "Whichever language you choose, the next decision arrives with the box: [should you open it or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/) — the framework there applies to Japanese and English product alike.",
       "If Japanese wins your decision, two reads follow naturally: [how to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) — the skill is smaller than it looks — and [the best-value Japanese booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/), the full price ladder from $58.85 up."
+    ]
+  },
+  "m1l-vs-m1s-which-to-buy": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "No. The two sets share a release day and a box structure, but not a card pool. Mega Lucario ex appears only in M1L packs, and Mega Gardevoir ex appears only in M1S packs. If Lucario is the target, only a Mega Brave box can produce it.",
+        "q": "Can I pull Mega Lucario ex from a Mega Symphonia box?"
+      },
+      {
+        "a": "M1S, by $0.33 a pack. M1S costs $84.97 for 30 packs, which is $2.83 a pack, while M1L costs $94.91 for 30 packs, which is $3.16 a pack. The gap is $9.94 per box, and it widens to $139.03 across a 12-box case split.",
+        "q": "Which box is cheaper per pack, M1L or M1S?"
+      },
+      {
+        "a": "Yes, on both sets, as of November 4, 2026. The M1L case splits to $76.02 a box against $94.91 loose, saving $226.74 across 12 boxes. The M1S case splits to $64.43 a box against $84.97 loose, saving $246.49. Cases are priced as their own product, so divide every time rather than assuming the saving.",
+        "q": "Is the sealed case cheaper than buying 12 loose boxes?"
+      }
+    ],
+    "h1": "M1L vs M1S: Mega Brave or Mega Symphonia? Which Box to Buy",
+    "intro": [
+      "Short answer: buy M1S Mega Symphonia if price decides, because at $84.97 it undercuts M1L Mega Brave at $94.91 by $9.94 for an identical box structure of 30 packs of 5 cards from a 92-card set. Buy M1L only if Mega Lucario ex is the card you want, since neither set's chase cards appear in the other set's packs.",
+      "This guide is for buyers choosing between the two halves of the August 1, 2025 MEGA-era launch, and for sealed collectors deciding between a loose box, a case split, or a Pokemon Center Set. Every price below is a price on the Warehouse shelf on November 4, 2026, and every division is shown so it can be re-run.",
+      "The two sets are a matched pair, not rivals in the usual sense: same day, same structure, same rarity architecture, different flagship. That sameness is exactly what makes the decision interesting, because once format is removed from the argument, only three things are left: which chase card you want, what the box costs per pack, and whether a case split beats a loose box."
+    ],
+    "metaDescription": "M1L vs M1S priced November 4, 2026: Mega Brave $94.91 vs Mega Symphonia $84.97, case-split math, chase cards, and which box fits which buyer.",
+    "metaTitle": "M1L vs M1S: Mega Brave or Mega Symphonia?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "We stock both boxes, both 12-box cases, and both Pokemon Center Sets, so the comparison below is priced from one shelf on one day rather than stitched together from other stores.",
+        "paragraphs": [
+          "If Mega Lucario ex is the card you want, buy [M1L Mega Brave](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/). It is the only one of the pair that contains it, in four print rarities up to the gold Mega Ultra Rare at 092/063. No price advantage in M1S compensates for opening the wrong set, because the wrong set cannot produce the card at any price.",
+          "If Mega Gardevoir ex is the card you want, buy [M1S Mega Symphonia](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/). It is the Psychic-type half of the launch, built around Gardevoir in the same rarity architecture, with its own Special Art Rare at 087/063 and its own gold Mega Ultra Rare at 092/063.",
+          "If price decides and neither flagship owns your attention, buy M1S. The boxes are structurally identical, so the cheaper box buys the same 30 packs, the same 150 cards, and the same rarity architecture for $9.94 less. That is the whole argument for the price buyer, and it is enough.",
+          "If you want both flagships, buy one box of each rather than two of one. The pair costs $179.88, which blends to $3.00 a pack across 60 packs, and it is the only way to chase both Mega Lucario ex and Mega Gardevoir ex from sealed product. Two boxes of the same set double your packs without widening your chase pool by a single card.",
+          "If you are buying sealed to hold, buy the case split, not the loose box. The case math in the money layer below saves $226.74 on M1L and $246.49 on M1S across 12 boxes, and a factory-sealed case is a cleaner holding than 12 loose boxes bought at different times. Read the sealed-case comparison in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) before committing case money."
+        ]
+      },
+      {
+        "h": "The money layer: the math, run twice",
+        "math": [
+          "M1L box: $94.91 / 30 packs = $3.16 per pack; $94.91 / 150 cards = $0.63 per card",
+          "M1S box: $84.97 / 30 packs = $2.83 per pack; $84.97 / 150 cards = $0.57 per card",
+          "Box gap: $94.91 - $84.97 = $9.94 per box; $3.16 - $2.83 = $0.33 per pack; M1L costs 11.7% more per pack",
+          "M1L case split: $912.18 / 12 boxes = $76.02 per box; $76.02 / 30 packs = $2.53 per pack",
+          "M1L case saving: 12 x $94.91 = $1,138.92 loose; $1,138.92 - $912.18 = $226.74 saved (19.9%)",
+          "M1S case split: $773.15 / 12 boxes = $64.43 per box; $64.43 / 30 packs = $2.15 per pack",
+          "M1S case saving: 12 x $84.97 = $1,019.64 loose; $1,019.64 - $773.15 = $246.49 saved (24.2%)",
+          "Both boxes: $94.91 + $84.97 = $179.88; $179.88 / 60 packs = $3.00 per pack",
+          "Center set premiums: M1L $219.70 - $94.91 = $124.79; M1S $177.30 - $84.97 = $92.33"
+        ],
+        "paragraphs": [
+          "Start with the loose boxes, because that is where most buyers stop. [M1L Mega Brave](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) at $94.91 divides to $3.16 a pack and $0.63 a card. [M1S Mega Symphonia](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) at $84.97 divides to $2.83 a pack and $0.57 a card. The $9.94 box gap looks small until it is multiplied: twelve loose boxes widen it to $119.28, and the two 12-box cases widen it to $139.03 in M1S's favour.",
+          "The case split is where the real money sits. The [M1L sealed case](/product/m1l-mega-brave-sealed-case-12-boxes-japanese-pokemon-card/) at $912.18 splits to $76.02 a box and $2.53 a pack, saving $226.74 against 12 loose boxes. The [M1S sealed case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) at $773.15 splits to $64.43 a box and $2.15 a pack, saving $246.49. Note the reversal: M1S is cheaper loose and cheaper split, and its case discount is deeper in percentage terms, 24.2% against 19.9%.",
+          "The Pokemon Center Sets sit in a different price band and should not be compared pack-for-pack with boxes, because their contents are a separate product configuration. The [M1L Pokemon Center Set](/product/m1l-mega-brave-pokemon-center-set-japanese-pokemon-card/) costs $219.70, which is $124.79 above the M1L box. The [M1S Pokemon Center Set](/product/m1s-mega-symphonia-pokemon-center-set-japanese-pokemon-card/) costs $177.30, which is $92.33 above the M1S box. Buy a Center Set for the set itself, not as a cheap route to packs; check the product page for its exact contents before assuming anything about what is inside.",
+          "For context inside the MEGA era, both boxes sit in the middle of the current shelf. [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $70.62 is cheaper per pack than either, and [M2 Inferno X](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at $183.18 is far above both. The full ladder, with every current Japanese box ranked, is in [Best Japanese Pokemon Booster Box to Buy, by Buyer](/blog/best-japanese-pokemon-booster-box-to-buy/). The cross-game ladder, Pokemon and One Piece together, is in [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/)."
+        ]
+      },
+      {
+        "h": "What is actually in each box",
+        "paragraphs": [
+          "Both sets released in Japan on August 1, 2025, as the opening pair of the MEGA series, and both follow the same published structure: 30 packs per box, 5 cards per pack, 150 cards per box, at a Japanese retail of 180 yen per pack and 5,400 yen per box. Each set totals 92 cards: a 63-card main set plus a secret tier of 12 Art Rares, 11 Super Rares, 5 Special Art Rares, and 1 gold Mega Ultra Rare. The Pokemon Company does not publish pull rates, so no pull-rate figure appears in this guide; any source quoting one is estimating from opening data, not citing an official number.",
+          "M1L Mega Brave is the Fighting-leaning half, headlined by Mega Lucario ex, with its Special Art Rare at 088/063 and its gold Mega Ultra Rare at 092/063. M1S Mega Symphonia is the Psychic-type half, headlined by Mega Gardevoir ex, with its Special Art Rare at 087/063 and its gold Mega Ultra Rare at 092/063. The set codes matter when ordering: M1L and M1S look alike in a listing, and a single wrong letter buys the wrong flagship. Confirm the code on the product page before paying.",
+          "A practical note on reading the cards: both sets are Japanese-language, and the set code, card number, and rarity symbols are printed on every card. Our guide to [How to Read Japanese Pokemon Cards](/blog/how-to-read-japanese-pokemon-cards/) covers the symbols, and the pack-count rules behind every division in this article are in [How Many Packs Are in a Booster Box?](/blog/how-many-packs-in-a-booster-box/)."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "One table, every option on the November 4, 2026 shelf, with the arithmetic visible. Prices are Warehouse shelf prices; pack counts are the published 30-pack structure for both sets."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Cost per pack",
+            "Cost per card",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "M1L Mega Brave box",
+              "$94.91",
+              "$3.16",
+              "$0.63",
+              "Mega Lucario ex chasers"
+            ],
+            [
+              "M1S Mega Symphonia box",
+              "$84.97",
+              "$2.83",
+              "$0.57",
+              "Price buyers; Gardevoir chasers"
+            ],
+            [
+              "M1L case, per box",
+              "$76.02",
+              "$2.53",
+              "$0.51",
+              "Sealed holders; group splits"
+            ],
+            [
+              "M1S case, per box",
+              "$64.43",
+              "$2.15",
+              "$0.43",
+              "Cheapest sealed MEGA entry"
+            ],
+            [
+              "One box of each",
+              "$179.88",
+              "$3.00 blended",
+              "$0.60 blended",
+              "Both flagships from sealed"
+            ],
+            [
+              "M1L Pokemon Center Set",
+              "$219.70",
+              "Not a pack product",
+              "Not comparable",
+              "Center Set collectors"
+            ],
+            [
+              "M1S Pokemon Center Set",
+              "$177.30",
+              "Not a pack product",
+              "Not comparable",
+              "Center Set collectors"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The three strongest guides for this comparison all answer the same question: which art do you prefer, Lucario or Gardevoir? One walks through release dates, differences, and hits; one gives the full M1L card list by rarity; one gives the full M1S card list the same way. All three are careful on set facts, and all three stop where the money starts. None of them prices both boxes, both cases, and both Center Sets from one store on one day, and none of them runs the case-split division that saves over $220.",
+          "That gap is this page's reason to exist. A buyer who follows the top guides picks by art and pays whatever the first listing asks. A buyer who reads this page picks by chase card first, then checks whether the case split beats the loose box, then checks the Center Set premium before paying it. The art question still matters, but it should be answered after the arithmetic, not instead of it.",
+          "The second gap is the identical-structure trap. Because both boxes hold 30 packs of 5 cards, listings sometimes imply the sets are interchangeable. They are not: the card pools are disjoint, and opening M1S cannot produce a single M1L card. The twin-set comparison that gets this right for the next pair is [Black Bolt vs White Flare: Which to Buy](/blog/black-bolt-vs-white-flare-which-to-buy/), and the same discipline applies here."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, buying the wrong set. M1L and M1S share a launch, a structure, and a naming pattern, and the only thing that separates them in a listing is one letter. Check the code, the flagship, and the product page before paying, because a sealed box cannot be exchanged for the other set's chase cards.",
+          "Second, paying loose-box prices for case quantities. Twelve loose M1L boxes cost $1,138.92; the case costs $912.18. Twelve loose M1S boxes cost $1,019.64; the case costs $773.15. Any order of six or more boxes should be re-priced as a case split before checkout.",
+          "Third, reseals and loose-pack traps. Japanese boxes arrive shrink-wrapped, and a box with damaged, re-glued, or missing wrap should be refused or verified before opening. Our reseal checks are in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and the same checks apply to both sets here.",
+          "Fourth, treating the pair as an investment thesis. Both sets are in print-era supply, both have English counterparts, and reprints or restocks can move sealed prices down as fast as demand moved them up. Buy the box to open or to hold because you want the set, not because a comment thread promised appreciation. The honest version of that argument is in [Are Japanese Pokemon Cards a Good Investment?](/blog/are-japanese-pokemon-cards-a-good-investment/).",
+          "Fifth, confusing the Japanese boxes with the English product. In English, both sets were merged into the single Mega Evolution set, released September 26, 2025, with a different box structure. An English box is not a cheaper M1L or M1S; it is a different product with a different card pool. If you play in English tournaments, the language question matters more than the price gap, as covered in [Japanese vs English Pokemon Cards: Which to Buy](/blog/japanese-vs-english-pokemon-cards-which-to-buy/)."
+        ]
+      },
+      {
+        "h": "Context: Japan vs the English Mega Evolution set",
+        "paragraphs": [
+          "In Japan, the MEGA era opened as two sets on one day. In English, the same cards arrived seven weeks later, on September 26, 2025, combined into Mega Evolution, the first English MEGA set. English boxes hold 36 packs of 10 cards, against 30 packs of 5 cards in Japanese, so a per-box price comparison across languages compares different quantities and should never be made without dividing first.",
+          "The language decision follows the same rule as every other Japanese-versus-English choice on this site: open in Japanese for the lower cost per card and the earlier release, play in English where tournament legality or readability demands it. Japanese boxes also carry the original set split, which matters to collectors who want the M1L and M1S identities intact rather than merged into one English checklist.",
+          "One more context point: the MEGA era did not stop at this pair. M2 Inferno X, covered in our [M2 Inferno X Buyers Guide](/blog/m2-inferno-x-buyers-guide/), followed in September 2025, and the era has since run through M6 Storm Emeralda. The launch pair's prices should be judged against that longer shelf, not in isolation, which is why the ladder in the money layer names the cheaper M3 and the dearer M2 alongside them."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who want English cards: the English product is Mega Evolution, not M1L or M1S, and nothing here prices it. It is not for single-card buyers: if one named card is the goal, buying that single, graded or ungraded, beats opening boxes on cost in almost every case. It is not for buyers who need the money back on a date, because sealed cardboard has no redemption schedule. And it is not for completionists chasing both 92-card sets from boxes alone: with secret tiers that deep, singles finish a set far cheaper than sealed ever will."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the flagship first: Mega Lucario ex means M1L, Mega Gardevoir ex means M1S, neither means buy on price and take M1S.",
+          "Divide before you pay: box price divided by 30 packs, and case price divided by 12 boxes, every time.",
+          "Re-price any order of six or more boxes as a case split: M1L saves $226.74, M1S saves $246.49 per case.",
+          "Confirm the set code on the product page: M1L is Brave, M1S is Symphonia, one letter apart.",
+          "Check the seal on arrival before opening, using the reseal checks linked in the risk section.",
+          "If the goal is a single named card, price the single before opening a box."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. The flagship decision comes first because it is the only one that cannot be fixed by arithmetic afterwards; everything else is division, and division is free."
+        ]
+      }
+    ],
+    "slug": "m1l-vs-m1s-which-to-buy",
+    "takeaway": [
+      "On November 4, 2026, the Warehouse shelf prices the launch pair at $94.91 for M1L Mega Brave and $84.97 for M1S Mega Symphonia, with case splits at $76.02 and $64.43 a box. Buy M1L for Mega Lucario ex, buy M1S for Mega Gardevoir ex or for price, and buy the case split whenever quantity justifies it.",
+      "The pair costs $179.88 together, and that pair is the honest answer for anyone who wants both flagships from sealed product. Prices move; the method does not. Divide by 30 packs, divide by 12 boxes, and check the set code before you pay."
     ]
   },
   "m2-inferno-x-buyers-guide": {
