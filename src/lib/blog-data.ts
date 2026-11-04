@@ -1463,7 +1463,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The best English One Piece booster box is the one that matches your budget and your reason. A player on a budget buys OP-12 at $162.56 and gets the cheapest pack on the shelf at $6.77. A player who wants the newest cards buys OP-17 at $212.09 at $8.84 a pack. A collector buys EB-03 for the heroines at $246.00 or PRB-02 for reprints at $230.92, and a history buyer buys OP-01 white bottom at $555.45 knowing exactly which print it is. Divide by 24, compare against the $119.76 MSRP box, and let the arithmetic choose.",
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next English set arrives, divide first, check the print second, and ask whether the box is a main set, an extra booster, or a premium booster, because that one fact changes what the price buys.",
       "Still deciding between English and Japanese? The [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) prices the Japanese shelf, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the shipping leg. If the box is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe. For one set in both languages, the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices the Japanese box at $155.04 against the English box at $790.60.",
-      "For the Premium Booster volumes specifically, [PRB-01 vs PRB-02](/blog/prb-01-vs-prb-02-which-to-buy/) compares Vol. 1 and Vol. 2 in Japanese and English, box and case."
+      "For the Premium Booster volumes specifically, [PRB-01 vs PRB-02](/blog/prb-01-vs-prb-02-which-to-buy/) compares Vol. 1 and Vol. 2 in Japanese and English, box and case.",
+      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the English case at $178.64 a box against the $212.09 single, and the Japanese pair beside it."
     ]
   },
   "best-japanese-booster-box-to-buy": {
@@ -1671,7 +1672,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "best-japanese-booster-box-to-buy",
     "takeaway": [
       "On November 4, 2026, the Warehouse Japanese shelf runs from M3 Munikis Zero at $70.62 and $2.35 a pack to M6a 30th Celebration at $249.00 and $12.45 a pack, with One Piece entering at the OP-18 preorder at $84 and $3.50 a pack. Buy M3 for the cheapest pack, M6 or M1S under $100, OP-16 for in-stock One Piece, and the premium rungs only for the chase.",
-      "Prices move; the method does not. Divide by verified packs, divide by cards, check the preorder label, and buy the game before the set."
+      "Prices move; the method does not. Divide by verified packs, divide by cards, check the preorder label, and buy the game before the set.",
+      "For the cheapest rung in depth, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) prices the $70.62 box and the case that costs more per box than a single."
     ]
   },
   "best-japanese-dragon-ball-fusion-world-booster-box-to-buy": {
@@ -2233,7 +2235,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "best-japanese-one-piece-booster-box-to-buy",
     "takeaway": [
       "The best Japanese One Piece booster box is the one whose arithmetic matches your job. OP-15 wins on price at $2.90 per pack, OP-18 wins as the newest set at $3.50 per pack on pre-order, and OP-05 wins as the collector's set at $7.78 per pack. The case verdict is the part other guides skip: only OP-02 and OP-03 cases discount heavily, eleven cases cost more per box than buying singly, and the rest save under a dollar. Twenty-four boxes, one shelf, every division shown. For the mixed-language shelf that started this comparison, the [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) still settles OP-17 and OP-18 across both languages. The full 24-case ladder, with OP-18's unranked preorder case, is in the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/), and the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices one set in both languages.",
-      "For the cross-game view, Pokemon and One Piece priced together, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/)."
+      "For the cross-game view, Pokemon and One Piece priced together, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/).",
+      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -2788,7 +2791,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The November 4, 2026 shelf, one last time: M3 $70.62, M2 $183.18 at $6.11 a pack, M2a $114.77 at $1.15 a card, SV11W $167.72 at $1.20 a card, SV11B $183.18 at $1.31 a card, SV10 $212.99 at $1.42 a card, M6a $249.00 at $2.08 a card, SV8a $163.32 at $1.63 a card, and SV2a 151 $471.20 at $3.37 a card. Verified per-card figures only where structure is verified; everything else is shelf price plus case division, stated as such.",
       "If the question is format rather than set, the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices sixteen cases against their own singles, and the [best Japanese Pokémon starter deck guide](/blog/best-japanese-pokemon-starter-deck-to-buy/) prices the play-first route. If the question is value in the abstract, the [best value boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) is the price ladder this guide deliberately did not repeat.",
       "Pick the job, then the box, then divide before you pay. That order is the whole method, and it survives any price move: when the shelf reprices, the divisions rerun, and the right box for each buyer is usually still standing.",
-      "New this cycle: the launch-pair head-to-head in [M1L vs M1S: Mega Brave or Mega Symphonia?](/blog/m1l-vs-m1s-which-to-buy/), and the cross-game price ladder in [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/)."
+      "New this cycle: the launch-pair head-to-head in [M1L vs M1S: Mega Brave or Mega Symphonia?](/blog/m1l-vs-m1s-which-to-buy/), and the cross-game price ladder in [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/).",
+      "For the cheapest box on this shelf in depth, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) prices the $70.62 box, the $87.35-a-box case trap, and the Mega Zygarde ex chase."
     ]
   },
   "best-japanese-pokemon-sealed-case-to-buy": {
@@ -6198,6 +6202,198 @@ export const POSTS: Record<string, BlogPost> = {
       "The M2 box at $183.18 is the way to open Inferno X, and the case at $1,333.69 is the way to hold or split it at $111.14 per box, saving $864.47 against twelve singles. The set is 116 cards from September 26, 2025, in 30 packs of 5, with Mega Charizard X ex at the top and no box guaranteeing it. Buy the box to open, buy the case to hold or split, buy the Charizard single if it is the only card you want, and do not confuse M2 with M2a. That is the whole article: one store, one date, every division shown."
     ]
   },
+  "m3-munikis-zero-buyers-guide": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "Yes, in the sense that Munikis Zero and Nihil Zero are the same Japanese set, code M3, released January 23, 2026. The Warehouse listing uses the Munikis Zero name, and other shops use Nihil Zero. If a listing shows a different set code, a different release date, or a different chase card, it is not this set under another name.",
+        "q": "Is Munikis Zero the same set as Nihil Zero?"
+      },
+      {
+        "a": "No. The Warehouse case costs $1,048.24 for 12 boxes, which is $87.35 a box, against $70.62 for a single box. Buying the case costs $16.73 more per box, or $200.80 more across the case. Buy the case only if a sealed case itself is the goal, never as a bulk discount, because on this shelf it is not one.",
+        "q": "Is the M3 sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "Buy the single card. A box holds 150 cards drawn from a 117-card set, and no box guarantees Mega Zygarde ex in any print. The box is the right buy for opening, for the set chase, or for holding sealed. For one named card, the single is cheaper in almost every case.",
+        "q": "Should I buy an M3 box to pull Mega Zygarde ex?"
+      }
+    ],
+    "h1": "M3 Munikis Zero Buyer's Guide: Worth It at $70.62?",
+    "intro": [
+      "Short answer: yes, if the job is opening a current MEGA-era box cheaply. The [M3 Munikis Zero booster box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) costs $70.62 on the Warehouse shelf on November 4, 2026, which divides to $2.35 a pack and $0.47 a card. It is the cheapest sealed Japanese Pokemon box on the shelf, the cheapest verified pack, and the cheapest verified card, and no other MEGA-era box beats it on any of those three measures.",
+      "That answer comes with two warnings that belong in the first paragraph, not buried. First, the sealed case is not a discount: the M3 case costs more per box than a single box, and this guide shows the division. Second, the cheapest box is not the best chase box. M3 headlines Mega Zygarde ex, not a Charizard, not a Pikachu, and a buyer chasing one named card should buy the single, not the box.",
+      "This page exists because the usual M3 coverage ranks the set by hype scores or by a single shop's price on a single day. The guide below prices the box, the case, and the neighbouring MEGA boxes from one shelf on one day, explains the name confusion that makes M3 hard to shop for, and states plainly who should not buy it."
+    ],
+    "metaDescription": "M3 Munikis Zero buyer's guide, November 4, 2026: box $70.62, $2.35 a pack, case $87.35 a box, Mega Zygarde ex chase, and who should not buy it.",
+    "metaTitle": "M3 Munikis Zero Buyer's Guide: Price & Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about M3 is not about the cards at all. It is whether Munikis Zero and Nihil Zero are the same set, because buyers find both names at different prices and worry one of them is a fake or a different product. They are the same set, and the price to compare is the one on this page, divided by 30 packs.",
+        "paragraphs": [
+          "Buy the box if the job is opening a current MEGA-era set for the lowest verified cost per pack. At $70.62, M3 undercuts the next MEGA box, [M6 Storm Emeralda](/product/m6-storm-emeralda-booster-box-japanese-pokemon-card/) at $82.80, by $12.18 a box, and undercuts [M1S Mega Symphonia](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) at $84.97 by $14.35. For a first Japanese box, for a gift, or for a second box to open beside a chase box, that gap is the whole argument.",
+          "Buy the box for the set chase, not for one card. M3 is a 117-card set, and a box holds 150 cards, so a single box gives a broad spread of the set without completing it. The chase sits at the top of the rarity ladder: Mega Zygarde ex as the set's single MUR, numbered 117/080, with SR and SAR prints of the same card below it. Collectors chasing the full 117 should budget for singles to finish, because boxes alone are an expensive way to find the last few numbers.",
+          "Do not buy the case expecting a bulk saving, and do not buy the box expecting an investment return. The case math is in the next section and it runs the wrong way. The investment case is weaker still: M3 is a current, in-print-era set with no scarcity story, and its value proposition is the low entry price, not a promised rise. The honest investment test, applied across the whole shelf, is in [Are Japanese Pokemon Cards a Good Investment](/blog/are-japanese-pokemon-cards-a-good-investment/)."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and neighbours",
+        "math": [
+          "M3 box per pack: $70.62 / 30 packs = $2.35 per pack",
+          "M3 box per card: $70.62 / 150 cards = $0.47 per card",
+          "M3 case per box: $1,048.24 / 12 boxes = $87.35 per box",
+          "M3 case per pack: $1,048.24 / 360 packs = $2.91 per pack",
+          "M3 case per card: $1,048.24 / 1,800 cards = $0.58 per card",
+          "M3 case premium per box: $87.35 - $70.62 = $16.73 per box",
+          "M3 twelve singles vs case: 12 x $70.62 = $847.44; $1,048.24 - $847.44 = $200.80 extra for the case",
+          "M3 vs M6: $82.80 - $70.62 = $12.18 per box; $2.76 - $2.35 = $0.41 per pack",
+          "M3 vs M1S: $84.97 - $70.62 = $14.35 per box; $2.83 - $2.35 = $0.48 per pack",
+          "M3 vs M2: $183.18 - $70.62 = $112.56 per box; $6.11 - $2.35 = $3.76 per pack",
+          "M3 official Japanese box: 30 packs x 180 yen = 5,400 yen",
+          "M3 two boxes: 2 x $70.62 = $141.24 for 300 cards"
+        ],
+        "paragraphs": [
+          "Start with the box, because the box is the good news. Thirty packs of five cards is 150 cards, and $70.62 divided by 30 is $2.35 a pack, divided by 150 is $0.47 a card. Those are the lowest verified figures on the Japanese shelf, and they are verified in the strong sense: the pack count is printed on the box, the card count follows from it, and the price is the Warehouse shelf price on November 4, 2026, not a marketplace ask or a buyback quote.",
+          "Then divide the case, because the case is the trap. The [M3 sealed case](/product/m3-munikis-zero-nihil-zero-sealed-case-12-boxes-japanese-pokemon-card/) costs $1,048.24 for 12 boxes, which is $87.35 a box, $2.91 a pack, and $0.58 a card. Every one of those figures is worse than the single box. Twelve single boxes cost $847.44, so the case charges $200.80 more for the same 12 boxes in factory packaging. Cases are priced as their own product, not as twelve singles minus a discount, and the full version of that rule, with the cases where it runs the other way, is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "The neighbours put the M3 price in context. M6 Storm Emeralda at $82.80 is the newest MEGA box and the next rung up, at $2.76 a pack. M1S Mega Symphonia at $84.97, at $2.83 a pack, buys the Mega Gardevoir ex chase instead of the Zygarde chase. [M1L Mega Brave](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) at $94.91 is the twin-set alternative, argued head to head in [M1L vs M1S: Which to Buy](/blog/m1l-vs-m1s-which-to-buy/). At the dear end, [M2 Inferno X](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at $183.18 is $112.56 more per box and $3.76 more per pack, which is what a Charizard-led chase costs. The full ladder, M3 at the foot, is in [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/)."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "M3 is the third expansion in the Pokemon TCG MEGA series, tied to Pokemon Legends: Z-A, released in Japan on January 23, 2026. The official Japanese product page prints a pack of five cards at 180 yen, and the box holds 30 packs, for an official Japanese box price of 5,400 yen. The set runs 117 numbered cards: 80 base cards plus a 37-card secret tier running from Art Rare up to a single gold-etched Mega Ultra Rare.",
+          "The chase ladder is narrow at the top, and that narrowness matters for expectations. Mega Zygarde ex appears four times in the set: 046/080 as RR, 097/080 as SR, 113/080 as SAR, and 117/080 as the single MUR. The MUR is the set's flagship pull, a gold-etched full-art treatment that appears once per MEGA set, and M3 carries just the one MUR slot. Below the Zygarde line, trade coverage of the set names Meowth ex SAR and Bianca's Encouragement SAR among the secret-tier chases. The Pokemon Company publishes no pull rates, so no odds figure is quoted here, and any guide quoting one for M3 is quoting community estimates, not an official number.",
+          "Two naming facts prevent the most common shopping errors. First, Munikis Zero is the official Japanese product name, rendered from the Japanese, and Nihil Zero is the alternate English rendering of the same set; a box labelled either name with set code M3 and a January 23, 2026 release is this set. Second, M3 is an Expansion Pack, not a High Class Pack: 30 packs of five cards, not the 10-pack structure of sets like M2a. A listing that describes M3 as a 10-pack box, or prices it per 10-pack box, is describing a different product shape. The rarity ladder itself, from AR through SAR to MUR, is explained in [Japanese Pokemon Rarity Symbols, Explained](/blog/japanese-pokemon-rarity-symbols-explained/)."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 4, 2026. Per-pack and per-card figures appear only where the pack count is verified, which for every row below it is: 30 packs of five cards."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "M3 single box",
+              "$70.62",
+              "30",
+              "$2.35",
+              "$0.47",
+              "Cheapest opening"
+            ],
+            [
+              "M3 sealed case (12 boxes)",
+              "$1,048.24",
+              "360",
+              "$2.91",
+              "$0.58",
+              "Sealed case itself is the goal"
+            ],
+            [
+              "M6 Storm Emeralda box",
+              "$82.80",
+              "30",
+              "$2.76",
+              "$0.55",
+              "Newest MEGA set"
+            ],
+            [
+              "M1S Mega Symphonia box",
+              "$84.97",
+              "30",
+              "$2.83",
+              "$0.57",
+              "Gardevoir chase"
+            ],
+            [
+              "M1L Mega Brave box",
+              "$94.91",
+              "30",
+              "$3.16",
+              "$0.63",
+              "Lucario chase"
+            ],
+            [
+              "M2 Inferno X box",
+              "$183.18",
+              "30",
+              "$6.11",
+              "$1.22",
+              "Charizard chase"
+            ],
+            [
+              "M3 single card (named chase)",
+              "Varies by card",
+              "0",
+              "Not divided",
+              "Not divided",
+              "One named card is the goal"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The strongest M3 guides each cover one part of the question well. One full buying guide gives the 117-card structure, the single MUR slot, the January 2026 release, and the English counterpart, Perfect Order, released March 27, 2026. One purpose-ranked guide places M3 as the beginner box on a budget, with a third-party buyback quote for an unopened box. One market-timing guide places M3 in a value-buy basket beside M2a, M4, and M5, on the strength of its low entry price. None of them prices the M3 case against the M3 box from the same store on the same day, and that is the gap that costs real money.",
+          "The second gap is the name. Guides that use only one rendering, Munikis Zero or Nihil Zero, leave a buyer searching the other name to wonder whether they found a different set, a reprint, or a fake. This page states the equivalence up front, in the answer and in the FAQ, because a buyer who cannot confirm what they are buying cannot compare prices at all. The third gap is the price-tier lock: M3 released at the 180-yen pack tier, and sets releasing from May 2026 moved to 200 yen a pack, so M3's low per-pack figure is partly a locked historical tier, not a discount the store invented. A guide that quotes the per-pack figure without the tier behind it invites the reader to expect the same tier from every new set, and the new sets will not deliver it."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, buying the case as a discount. It is not one, on this shelf, on this date. The division is $87.35 a box in the case against $70.62 single, and the $200.80 gap across the case is the most expensive mistake available in this article. Divide every case, every time, including cases of sets where the case does run cheaper, because the direction flips by set.",
+          "Second, buying the box for one card. No box guarantees Mega Zygarde ex in any print, and the MUR is a single numbered slot in a 117-card set. The expected outcome of opening a box is a broad spread of the set, not the flagship card. Singles beat sealed for named cards in almost every case, and the open-or-hold decision in full is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "Third, buying the wrong name or the wrong format. A Nihil Zero listing is the same set, but a listing that calls M3 a High Class Pack, a 10-pack box, or an English set is not. M3 on this shelf is Japanese, 30 packs of five cards. English buyers want Perfect Order, the March 27, 2026 English counterpart, which is a different product with different pack counts and prices.",
+          "Fourth, reseals and loose-pack traps. Japanese boxes arrive shrink-wrapped, and damaged or re-glued wrap should be checked before opening, especially on a low-priced box where a loose-pack seller can undercut the sealed price by selling the packs out of it. The checks are in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and they apply to M3 exactly as they apply to a premium box.",
+          "Fifth, reading a low price as a low-quality signal, or as a coming rise. M3 is cheap because it is a current set at the old 180-yen tier with a Zygarde headline rather than a mascot headline, not because the cards are misprinted or the set is defective. Equally, nothing in the low price promises a rise: current sets can be reprinted, attention can move to the next MEGA release, and a sealed box that sits flat is a slow loss once storage and exit costs are counted."
+        ]
+      },
+      {
+        "h": "Context: Japan vs the English set, and the 180-yen lock",
+        "paragraphs": [
+          "The Japanese box and the English counterpart differ in more than language. The Japanese M3 box is 30 packs of five cards at 180 yen a pack, released January 23, 2026. The English counterpart, Perfect Order, set code ME03, released physically worldwide on March 27, 2026, roughly two months later, headlined by the same Mega Zygarde ex alongside the English Mega Evolution line. English boxes use larger packs and higher per-pack prices, and English chase structures differ, so a per-pack comparison across languages must be divided from each store's own prices, not carried across. The language trade-off, with same-set math for another set, is in [Japanese vs English Pokemon Cards: Which to Buy](/blog/japanese-vs-english-pokemon-cards-which-to-buy/).",
+          "The 180-yen tier is the quiet context behind the whole article. M3, M1, M2, and M2a all released at 180 yen a pack, for a 5,400-yen official box. From May 2026, new Japanese sets moved to 200 yen a pack, for a 6,000-yen official box, on rising materials costs as reported by trade coverage of the announcement. Products already released did not change price, so M3 keeps its 180-yen cost basis while newer sets start higher. That is a real, structural reason to prefer an older set on price, and it is also a reason not to extrapolate: the next MEGA release will not inherit M3's tier.",
+          "One boundary to state plainly: this guide covers the Japanese M3 box and case only. The store's English Pokemon stock, special sets, and starter decks are different products, and none of them belongs in an M3 division. Buyers who want the cheapest Japanese Pokemon entry across all sets, rather than M3 specifically, should use [Best Value Japanese Pokemon Booster Boxes](/blog/best-value-japanese-pokemon-booster-boxes/), where M3 sits at the foot of a wider ladder."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for English-card buyers, for single-card buyers, or for buyers who need the money back on a date. It is not for players who need a specific deck list this week, because a sealed box is a lottery ticket for named cards, not a deck order. It is not for collectors chasing the full 117-card set from boxes alone, because the secret tier is deep enough that singles finish the set far cheaper than sealed. And it is not for case buyers looking for a bulk discount, because on this shelf, for this set, the case is the premium option, not the discount one."
+        ]
+      },
+      {
+        "checklist": [
+          "Confirm the set: code M3, January 23, 2026, 30 packs of five cards, whether the listing says Munikis Zero or Nihil Zero.",
+          "Divide before you pay: $70.62 divided by 30 packs, then by 150 cards, before comparing with any other box.",
+          "Do not buy the case for a discount: $1,048.24 divided by 12 is $87.35 a box, more than the $70.62 single.",
+          "Pick the job before the product: opening means the box, one named card means the single, a sealed case means the case at a premium.",
+          "Check the seal on arrival before opening, using the reseal checks linked in the risk section.",
+          "If the goal is the full 117-card set, price the singles for the last few numbers before opening a second box."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. Confirm the set first, because the two names cause the most confusion; divide second, because the sticker price hides the case trap; pick the job third, because the box, the case, and the single serve different jobs and only one of them is cheap."
+        ]
+      }
+    ],
+    "slug": "m3-munikis-zero-buyers-guide",
+    "takeaway": [
+      "On November 4, 2026, the Warehouse M3 box costs $70.62, which is $2.35 a pack and $0.47 a card, the cheapest verified figures on the Japanese shelf. Buy it to open a current MEGA set cheaply, buy the single for Mega Zygarde ex or any named card, and do not buy the case expecting a discount, because the case costs $87.35 a box.",
+      "Prices move; the method does not. Confirm the M3 code and the 30-pack structure, divide by verified packs, divide the case too, and buy the job before the product.",
+      "For the wider Japanese ladder, M3 at the foot, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/). For the Pokemon-only ranking by buyer, see [Best Japanese Pokemon Booster Box to Buy, by Buyer](/blog/best-japanese-pokemon-booster-box-to-buy/)."
+    ]
+  },
   "m6a-30th-celebration-buyers-guide": {
     "datePublished": "2026-10-24",
     "faqs": [
@@ -6680,6 +6876,201 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "A first deck is a teaching tool that happens to be legal. Skeleton first, color second, allocation third, spending last — in that order, every time. The players still enjoying this game in a year are the ones whose first deck taught them cheaply.",
       "Ready to start? Browse [the One Piece range](/one-piece-cards/) for starter decks and boxes, and keep an eye on the [release calendar](/release-calendar/) for what your color gets next. And if you end up holding sealed product you are saving rather than opening, store it the way we describe in [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — a box kept right is money kept."
+    ]
+  },
+  "op-17-worlds-strongest-warriors-buyers-guide": {
+    "datePublished": "2026-11-04",
+    "faqs": [
+      {
+        "a": "No, in the sense that matters for shopping. The Japanese box is 24 packs of six cards at 240 yen a pack, released August 22, 2026. The English box is 24 packs at a $4.99 MSRP, released August 28, 2026. Same 131 plus 4 card types, different pack sizes, different prices, and on the Warehouse shelf the English box costs $90.81 more than the Japanese box.",
+        "q": "Is the Japanese OP-17 box the same product as the English box?"
+      },
+      {
+        "a": "The Japanese case is not. It costs $1,458 for 12 boxes, which is $121.50 a box, against $121.28 for a single Japanese box, so the case costs $0.22 more per box. The English case runs the other way: $2,143.63 for 12 boxes is $178.64 a box, against $212.09 single, a saving of $33.45 a box. Same set, opposite case verdicts by language, which is why every case must be divided separately.",
+        "q": "Is the OP-17 sealed case cheaper per box?"
+      },
+      {
+        "a": "Buy the single. A box holds 144 cards drawn from a 131 plus 4 card pool, and no box guarantees a Manga parallel, a Super Leader Parallel, or the Treasure Rare. Third-party market tracking dated October 25, 2026 found every one of the sixteen most valuable English OP-17 singles lower than on release day, which is the normal direction for a new set, not a reason to chase it harder.",
+        "q": "Should I buy an OP-17 box to pull the Shanks Manga card?"
+      }
+    ],
+    "h1": "OP-17 World's Strongest Warriors Buyer's Guide: Worth It?",
+    "intro": [
+      "Short answer: buy the Japanese box to open the newest One Piece set at a sane price, buy the English case if the goal is English boxes in bulk, and buy neither box for one named card. The [OP-17 Japanese booster box](/product/op-17-the-worlds-strongest-warriors-booster-box-japanese-one-piece-card/) costs $121.28 on the Warehouse shelf on November 4, 2026, which divides to $5.05 a pack and $0.84 a card. The English box costs $212.09, and the English case is the only OP-17 case on the shelf that actually discounts.",
+      "That answer needs its context in the same paragraph, because OP-17 is the game's fourth-anniversary set and anniversary sets invite the most expensive mistake in the hobby: paying an anniversary premium for a lottery ticket. The chase cards are real, led by four Manga parallels and a new Super Leader Parallel, but Bandai publishes no pull rates, and third-party tracking shows the top English singles falling from release day through late October. A box is an opening experience and a set chase, not a claim on a Manga card.",
+      "This page exists because the usual OP-17 coverage does one of three things well and none completely: it tracks English singles prices, it lists the chase treatments, or it compares Japanese and English dates. None of it prices the Japanese box, the Japanese case, the English box, and the English case from one store on one day, and that four-way division is the purchase decision."
+    ],
+    "metaDescription": "OP-17 buyer's guide, Nov 4, 2026: Japanese box $121.28, English box $212.09, English case $178.64 a box, Manga and Super Leader chase.",
+    "metaTitle": "OP-17 World's Strongest Warriors Buyer's Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about OP-17 is whether the Japanese case is the smart buy, because buyers assume a case must discount. For OP-17 it does not, in Japanese, and we say so before the sale, not after it, because a buyer who discovers the $0.22 premium after checkout has been misled by an assumption we could have corrected.",
+        "paragraphs": [
+          "Buy the Japanese box if the job is opening the newest One Piece set. At $121.28, it is the dearest Japanese One Piece box in the current main line, above OP-16 at $105 and OP-15 at $69.48, but it is also the only one carrying the fourth-anniversary chase treatments, and it is $90.81 cheaper than the English box on the same shelf. For a player who wants current cards, or a collector opening one box of the new set, the Japanese box is the rational entry.",
+          "Buy the English case, not the English box, if the job is English boxes in bulk. The [OP-17 English sealed case](/product/op-17-the-worlds-strongest-warriors-sealed-case-12-boxes-english-one-piece-card/) costs $2,143.63 for 12 boxes, which is $178.64 a box against $212.09 single, a saving of $33.45 a box and $401.45 across the case. That is a genuine bulk discount, and it is the only OP-17 case verdict that runs in the buyer's favour. A single English box, bought alone, is the most expensive way to buy English OP-17 on this shelf.",
+          "Buy the single for any named card, without exception in this set. The Manga parallels, the Super Leader Parallel Luffy, and the Treasure Rare Lucky Roux are the cards that make OP-17 famous, and they are also the cards a box is least likely to contain."
+        ]
+      },
+      {
+        "h": "The money layer: four products, two verdicts",
+        "math": [
+          "OP-17 Japanese box per pack: $121.28 / 24 packs = $5.05 per pack",
+          "OP-17 Japanese box per card: $121.28 / 144 cards = $0.84 per card",
+          "OP-17 Japanese case per box: $1,458.00 / 12 boxes = $121.50 per box",
+          "OP-17 Japanese case premium per box: $121.50 - $121.28 = $0.22 per box",
+          "OP-17 Japanese twelve singles vs case: 12 x $121.28 = $1,455.36; $1,458.00 - $1,455.36 = $2.64 extra for the case",
+          "OP-17 Japanese case per pack: $1,458.00 / 288 packs = $5.06 per pack",
+          "OP-17 English box per pack: $212.09 / 24 packs = $8.84 per pack",
+          "OP-17 English case per box: $2,143.63 / 12 boxes = $178.64 per box",
+          "OP-17 English case saving per box: $212.09 - $178.64 = $33.45 per box",
+          "OP-17 English twelve singles vs case: 12 x $212.09 = $2,545.08; $2,545.08 - $2,143.63 = $401.45 saved by the case",
+          "OP-17 English case per pack: $2,143.63 / 288 packs = $7.44 per pack",
+          "OP-17 Japanese vs English box gap: $212.09 - $121.28 = $90.81 per box; $8.84 - $5.05 = $3.79 per pack",
+          "OP-17 vs OP-16 Japanese: $121.28 - $105.00 = $16.28 per box; $5.05 - $4.38 = $0.67 per pack",
+          "OP-17 vs OP-15 Japanese: $121.28 - $69.48 = $51.80 per box; $5.05 - $2.90 = $2.15 per pack",
+          "OP-17 English MSRP box: 24 packs x $4.99 = $119.76; $212.09 - $119.76 = $92.33 above MSRP box"
+        ],
+        "paragraphs": [
+          "Start with the Japanese pair, because the Japanese pair contains the surprise. The Japanese box at $121.28 divides to $5.05 a pack across 24 packs of six cards, and $0.84 a card across 144 cards. The [Japanese case](/product/op-17-the-worlds-strongest-warriors-sealed-case-12-boxes-japanese-one-piece-card/) at $1,458 divides to $121.50 a box, which is $0.22 more per box than buying singly, and $2.64 more across the case. The premium is tiny, and that tininess is itself the lesson: a case premium does not have to be large to matter, because it proves the case was never priced as a discount.",
+          "Then the English pair, where the verdict flips completely. The [English box](/product/op-17-the-worlds-strongest-warriors-booster-box-english-one-piece-card/) at $212.09 divides to $8.84 a pack across 24 packs. The English case at $2,143.63 divides to $178.64 a box, $7.44 a pack, saving $33.45 a box and $401.45 across the case against twelve singles. Same set, same box count, opposite case verdicts by language. No rule of thumb survives that pair, which is why the case law in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) is stated as a habit, divide every time, rather than as a claim about cases in general.",
+          "The neighbours and the MSRP complete the money layer. The Japanese ladder runs OP-15 at $69.48 and $2.90 a pack, OP-16 at $105 and $4.38 a pack, OP-17 at $121.28 and $5.05 a pack, with the OP-18 preorder at $84 and $3.50 a pack sitting below OP-17 as a future release, not a current competitor. The English MSRP box is $119.76, from 24 packs at $4.99, so the Warehouse English box at $212.09 sits $92.33 above the MSRP box, and the Warehouse English case at $178.64 a box sits $58.88 above it. The full Japanese ladder is in [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/), and the English ladder in [Best English One Piece Booster Box to Buy](/blog/best-english-one-piece-booster-box-to-buy/)."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "OP-17, full title The World's Strongest Warriors, is the One Piece Card Game's fourth-anniversary main booster, built around the Elbaf arc, the Four Emperors, and the Rocks Pirates. It released in Japan on August 22, 2026, at 240 yen per pack for six cards, and in English on August 28, 2026, after pre-release events on August 21, at a $4.99 MSRP per pack. Both versions list 131 card types plus 4, and the Japanese page breaks the pool down as 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, 6 Leaders, 3 Secret Rares, 10 Special Cards, 1 Treasure Rare, and 4 DON!! cards. A Japanese box holds 24 packs of six cards, 144 cards, and an English box holds 24 packs.",
+          "The chase treatments are the set's identity, and they should be named exactly, because vague chase talk is how buyers overpay. Four Manga parallels, full comic-panel treatments, cover Edward Newgate OP17-005, Shanks OP17-022, Kaido OP17-062, and Charlotte Linlin OP17-112. Three Secret Rares sit on the official Japanese page: Rocks D. Xebec OP17-118 and Loki OP17-119, each with a parallel SEC-P version, plus a comic-parallel reprint of the EB-04 Luffy SEC. The new top treatments are the Super Leader Parallel, headlined by Monkey D. Luffy OP17-079, and the Pirate Crew Super Parallels for Luffy and Rocks D. Xebec. The Treasure Rare is Lucky Roux OP17-033. The six Leaders are Newgate, Shanks, Rocks D. Xebec, Kaido, Luffy, and Linlin, one per colour in the game's six-colour structure, explained in [One Piece Card Game Colors Explained](/blog/one-piece-card-game-colors-explained/).",
+          "Two facts about the chase structure belong in every honest OP-17 guide. First, Bandai publishes no pull rates, so no frequency figure for Manga parallels, Super Leader Parallels, or the Treasure Rare is quoted here, and any guide quoting one is quoting community estimates. Second, god packs, packs where every card carries a foil or high-rarity treatment, are a community term, not a Bandai product name, and for OP-17 they are not confirmed either way by Bandai's product pages. A buyer should never pay a premium for a box on a god-pack promise, because no official source makes one."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 4, 2026. Per-pack figures use 24 packs for every row; per-card figures use 144 cards for the Japanese rows, and are left out for the English rows because the English pack card count is not the figure this guide divides from."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Japanese single box",
+              "$121.28",
+              "24",
+              "$5.05",
+              "$0.84",
+              "Opening the new set"
+            ],
+            [
+              "Japanese sealed case (12 boxes)",
+              "$1,458.00",
+              "288",
+              "$5.06",
+              "$0.84",
+              "Sealed case itself is the goal"
+            ],
+            [
+              "English single box",
+              "$212.09",
+              "24",
+              "$8.84",
+              "Not divided here",
+              "One English box, now"
+            ],
+            [
+              "English sealed case (12 boxes)",
+              "$2,143.63",
+              "288",
+              "$7.44",
+              "Not divided here",
+              "English boxes in bulk"
+            ],
+            [
+              "Japanese OP-16 box",
+              "$105.00",
+              "24",
+              "$4.38",
+              "$0.73",
+              "Cheaper current set"
+            ],
+            [
+              "Japanese OP-15 box",
+              "$69.48",
+              "24",
+              "$2.90",
+              "$0.48",
+              "Cheapest current set"
+            ],
+            [
+              "Named OP-17 single",
+              "Varies by card",
+              "0",
+              "Not divided",
+              "Not divided",
+              "One named card is the goal"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The strongest OP-17 guides each cover one part of the question well. One eight-week market report tracks English singles from release day to October 25, 2026, and finds every one of the sixteen most valuable singles lower than on release day. One chase guide names the four Manga parallels, the Super Leader line, and the Treasure Rare with card numbers. One Japanese-versus-English guide gives both release dates, both pack prices, and the shared 131 plus 4 card pool. One box-value report, dated November 1, 2026, simulates opened-box returns across the whole One Piece line. None of them prices all four OP-17 sealed products from one store on one day, and that is the gap that decides the purchase.",
+          "The second gap is the case inversion. Guides that price only the English case leave a Japanese buyer to assume the Japanese case discounts too. On this shelf it does not, by $0.22 a box, while the English case discounts by $33.45 a box. The third gap is the Warehouse-versus-market comparison for English boxes: third-party tracking put the English OP-17 box at $320.26 on October 25, 2026, against the Warehouse English box at $212.09 on November 4, 2026. Different dates and markets, so no arbitrage is claimed, but an undated price comparison is not a comparison."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, chasing a Manga card with boxes. The four Manga parallels are the set's most famous cards and its rarest widely known treatments, and no box guarantees one. Third-party tracking dated October 25, 2026 put the Shanks Manga at $1,486.69, down 9.8 percent from release day, and the Luffy Super Leader Alternate Art at $1,383.43, down 44.7 percent. Falling chase prices do not make boxes cheaper to open for those cards; they make the singles cheaper to buy directly, which is the opposite trade.",
+          "Second, opening for value in general. A third-party box-value report dated November 1, 2026 simulated that a typical opened One Piece box returns 22 percent of its sealed price, across the line, with only a small share of simulated boxes beating the sealed price. That is a simulation from third-party prices, not Warehouse data, and it is quoted as a direction, not a guarantee. But the direction is consistent: sealed wins for holding, singles win for named cards, and opening wins for the experience. Buying a box to make money on the contents is the most likely way to lose money on the contents.",
+          "Third, buying the Japanese case as a discount. It costs $2.64 more than twelve singles, not less. The amount is small, which makes the error easy to dismiss, but the habit is the point: if the habit fails on a $2.64 case, it will fail on a $200 case too. Divide every case, in both languages, before checkout.",
+          "Fourth, buying the wrong language for the wrong reason. The Japanese box is cheaper per pack by $3.79, but it is Japanese-language cards, which cannot be played in English-language tournament settings that require English cards, and which carry different collector demand. The English box is dearer, but it is the playable, resalable English product in English-speaking markets. Price alone should never choose the language; the language should be chosen first, and then the price divided within it. The language trade-off for One Piece specifically is priced in [EB-01 Japanese vs English: Which to Buy](/blog/eb-01-japanese-vs-english-which-to-buy/).",
+          "Fifth, reseals, loose packs, and anniversary premiums. OP-17's anniversary status makes it a target for loose-pack sellers who undercut the sealed box by selling packs out of it, and for premium pricing that treats the anniversary label as value by itself. Check the seal before opening, using the checks in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and treat the anniversary label as a description of the set, not as a price justification."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the anniversary effect",
+        "paragraphs": [
+          "The two versions share the card pool and differ in price structure. Japanese packs cost 240 yen for six cards, English packs carry a $4.99 MSRP, and the Japanese release preceded the English release by six days, August 22 against August 28, 2026. On the Warehouse shelf, the Japanese box at $121.28 undercuts the English box at $212.09 by $90.81, and the Japanese case at $121.50 a box undercuts the English case at $178.64 a box by $57.14. A buyer comparing across languages without dividing is comparing two different products in two different markets, and the division is the only honest bridge between them.",
+          "The anniversary effect cuts both ways, and the market data shows it. Anniversary sets attract the most attention, the most opening, and the most singles supply in the weeks after release, which is consistent with the tracked fall in top singles from release day to late October. Attention does not protect prices; supply does the opposite. For a buyer, that means the anniversary premium is highest at release and softest after, which argues for patience on singles and for buying sealed only when the sealed price itself, divided, makes sense. The shipping and customs leg is priced in [Buying TCG From Japan: Shipping, Customs, and the Proxy Question](/blog/buying-tcg-from-japan-shipping-customs-proxy/).",
+          "One boundary to state plainly: this guide covers OP-17 main-set boxes and cases only. Extra Boosters, Premium Boosters like PRB-02, and starter decks are different products, and the PRB comparison is in [PRB-01 vs PRB-02: Which to Buy](/blog/prb-01-vs-prb-02-which-to-buy/). OP-18, the November 21, 2026 Japanese release, is a preorder, not a current competitor to OP-17."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who need one named card, for players who need English-legal cards but are tempted by the cheaper Japanese price, or for buyers who need the money back on a date. It is not for collectors chasing the full OP-17 pool from boxes alone, because the parallel and SP tiers are deep enough that singles finish the set far cheaper than sealed. And it is not for Japanese case buyers looking for a bulk discount, because on this shelf, for this set, in Japanese, the case is a $0.22 premium, while the English case is the discount."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the language first: Japanese at $121.28 or English at $212.09, before any other comparison.",
+          "Divide the case in that language: Japanese $121.50 a box is a premium, English $178.64 a box is a discount.",
+          "Divide before you pay: Japanese $121.28 divided by 24 packs, then by 144 cards.",
+          "If the goal is a Manga parallel, a Super Leader Parallel, or the Treasure Rare, price the single first.",
+          "Check the seal on arrival before opening, using the reseal checks linked in the risk section.",
+          "If the goal is the full 131 plus 4 pool, price the parallels and SP cards as singles before opening a second box."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. Language first, because it changes every price that follows; case division second, because the two languages give opposite answers; singles pricing third, because the chase cards are the reason most buyers overpay."
+        ]
+      }
+    ],
+    "slug": "op-17-worlds-strongest-warriors-buyers-guide",
+    "takeaway": [
+      "On November 4, 2026, the Warehouse OP-17 Japanese box costs $121.28, which is $5.05 a pack and $0.84 a card. Buy it to open the newest One Piece set, buy the English case at $178.64 a box for English boxes in bulk, and buy the single for any Manga, Super Leader, or Treasure Rare card.",
+      "Prices move; the method does not. Choose the language first, divide the case in that language, and buy the job before the product.",
+      "For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best English One Piece Booster Box to Buy](/blog/best-english-one-piece-booster-box-to-buy/)."
     ]
   },
   "op-18-the-dominance-of-god-preorder-guide": {
