@@ -2239,7 +2239,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf. For the next Extra Booster in depth, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the anime-art set in both languages.  For the predecessor set in depth, the [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) prices all four sealed products and the case inversion. For the full OP-15 breakdown, see [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/).",
       "For the anniversary set, see [OP-13 Carrying on His Will Buyer's Guide](/blog/op-13-carrying-on-his-will-buyers-guide/).",
       "For the master-disciple set, see [OP-12 Legacy of the Master Buyer's Guide](/blog/op-12-legacy-of-the-master-buyers-guide/).",
-      "For the collector's set in depth, see [OP-05 Awakening of the New Era Buyer's Guide](/blog/op-05-awakening-of-the-new-era-buyers-guide/)."
+      "For the collector's set in depth, see [OP-05 Awakening of the New Era Buyer's Guide](/blog/op-05-awakening-of-the-new-era-buyers-guide/).",
+      "For the Dressrosa set in depth, see [OP-04 Kingdoms of Intrigue Buyer's Guide](/blog/op-04-kingdoms-of-intrigue-buyers-guide/)."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -3587,7 +3588,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The best One Piece booster box is the one whose arithmetic matches your job. OP-18 wins on price at every unit — $2.92 per pack, $62.92 per box in a case that honestly discounts. OP-17 English wins for readers and its case saves the most per box. OP-17 Japanese is a theme purchase at $4.21 per pack, and its case is the one format on this page to avoid, charging $0.18 more per box for buying in bulk. Three sets, three case structures, three answers — all of them visible the moment the division gets done. For the English-only shelf, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
       "For the full Japanese-only shelf, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack and exposes the case trap eleven sets hide.",
       "For the anniversary set, see [OP-13 Carrying on His Will Buyer's Guide](/blog/op-13-carrying-on-his-will-buyers-guide/).",
-      "For the dearest English box on the shelf, see [OP-11 A Fist of Divine Speed Buyer's Guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/)."
+      "For the dearest English box on the shelf, see [OP-11 A Fist of Divine Speed Buyer's Guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/).",
+      "For the Yellow debut set in depth, see [OP-03 Pillars of Strength Buyer's Guide](/blog/op-03-pillars-of-strength-buyers-guide/)."
     ]
   },
   "best-value-japanese-pokemon-booster-boxes": {
@@ -7670,6 +7672,391 @@ export const POSTS: Record<string, BlogPost> = {
       "Ready to start? Browse [the One Piece range](/one-piece-cards/) for starter decks and boxes, and keep an eye on the [release calendar](/release-calendar/) for what your color gets next. And if you end up holding sealed product you are saving rather than opening, store it the way we describe in [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — a box kept right is money kept."
     ]
   },
+  "op-03-pillars-of-strength-buyers-guide": {
+    "datePublished": "2026-11-05",
+    "faqs": [
+      {
+        "a": "Yes, and it is the heaviest Japanese case discount in this run. On November 5, 2026, the Warehouse Japanese case costs $1,687.81, which divides to $140.65 a box, $35.13 below the $175.78 single box, a saving of $421.55 across the case and $0.98 a card.",
+        "q": "Does the OP-03 Japanese sealed case save money over single boxes?"
+      },
+      {
+        "a": "Buy the single. No box guarantees the Sogeking Manga card or any named card, and Bandai publishes no pull rates for OP-03. A dated November 4, 2026 check put the TCGplayer market price for the Sogeking Manga at $914.48, more than five Japanese boxes, and it is still the cheapest certain route to that card.",
+        "q": "Should I buy an OP-03 box to pull the Sogeking Manga card?"
+      },
+      {
+        "a": "Not with its original win condition. Nami's leader card carried a deck-out victory condition so unusual it was eventually banned from competitive play. Check the current ban list before building a deck around it, and buy the card as a collector's piece unless the list says otherwise.",
+        "q": "Can I play the Nami leader from OP-03 in tournaments?"
+      }
+    ],
+    "h1": "OP-03 Pillars of Strength Buyer's Guide: Worth It?",
+    "intro": [
+      "Short answer: buy the Japanese sealed case if the job is Japanese boxes in bulk, buy the Japanese single box if the job is opening Pillars of Strength, and buy neither box for the Sogeking Manga card or any named card. The [OP-03 Japanese booster box](/product/op-03-pillars-of-strength-booster-box-japanese-one-piece-card/) costs $175.78 on the Warehouse shelf on November 5, 2026, which divides to $7.32 a pack and $1.22 a card. The [OP-03 English booster box](/product/op-03-pillars-of-strength-booster-box-english-one-piece-card/) costs $722.10, which divides to $30.09 a pack and $2.51 a card.",
+      "The fact that earns this guide its keep is the Japanese case. The Warehouse Japanese case costs $1,687.81, which divides to $140.65 a box, a saving of $35.13 a box and $421.55 across the case, and $0.98 a card — the cheapest per-card route in this run of set guides.",
+      "OP-03 is Pillars of Strength, the set that introduced Yellow as a playable colour, carried the four WANTED poster Special cards, and put the Sogeking comic parallel at the top of the chase. It released in Japan on February 11, 2023, and in English on June 30, 2023, and it is out of print in both languages. The rest of this guide runs the numbers before you spend."
+    ],
+    "metaDescription": "OP-03 Pillars of Strength, Nov 5, 2026: Japanese box $175.78, Japanese case $140.65 a box — Sogeking Manga $914.48.",
+    "metaTitle": "OP-03 Pillars of Strength Buyer's Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about OP-03 is whether the Japanese case price is a listing error, because buyers see $1,687.81 next to twelve singles at $2,109.36 and expect the case to be the dearer one. It is not an error. The case genuinely discounts on this set, which is rare enough on this shelf that buyers who learned from OP-04 and OP-05 that cases barely move will walk past the one case that does. Divide the case every time, even when the last three sets taught you not to bother.",
+        "paragraphs": [
+          "Buy the Japanese sealed case if the job is Japanese boxes in bulk. At $1,687.81 it divides to $140.65 a box, a saving of $35.13 a box against the $175.78 single box, or $421.55 across the case. That is the heaviest Japanese case discount in this run of set guides, and it makes the case the cheapest per-card route in the set at $0.98 a card. The wider Japanese ladder is in [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+          "Buy the Japanese single box if the job is opening Pillars of Strength once. At $175.78 it is $7.32 a pack and $1.22 a card, and it is the cheapest way into the Yellow debut pool: the Sogeking comic parallel, the Nami alternate art, and the four WANTED poster Specials at the top.",
+          "Buy the English sealed case if the job is English boxes in bulk. At $6,781.47 it divides to $565.12 a box, a saving of $156.98 a box against the $722.10 single box, or $1,883.73 across the case. That is the largest per-box case saving on this page, and it is the only English arithmetic here that points clearly at the case. The wider English ladder is in [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
+          "Buy the English single box only if the job is one English box and only one, and only after seeing the market figure. At $722.10 it is $30.09 a pack and $2.51 a card, and it is $223.05 above the November 5, 2026 market figure of $499.05. Buy the single for any named card, without exception in this set: the Sogeking Manga card, the Nami alternate art, and every other chase card are the cards a box is least likely to contain."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and the case split",
+        "math": [
+          "OP-03 Japanese box per pack: $175.78 / 24 packs = $7.32 per pack",
+          "OP-03 Japanese box per card: $175.78 / 144 cards = $1.22 per card",
+          "OP-03 Japanese case per box: $1,687.81 / 12 boxes = $140.65 per box",
+          "OP-03 Japanese case saving per box: $175.78 - $140.65 = $35.13 per box",
+          "OP-03 Japanese case saving per case: ($175.78 x 12) - $1,687.81 = $421.55 per case",
+          "OP-03 Japanese case per pack: $1,687.81 / 288 packs = $5.86 per pack",
+          "OP-03 Japanese case per card: $1,687.81 / 1,728 cards = $0.98 per card",
+          "OP-03 English box per pack: $722.10 / 24 packs = $30.09 per pack",
+          "OP-03 English box per card: $722.10 / 288 cards = $2.51 per card",
+          "OP-03 English case per box: $6,781.47 / 12 boxes = $565.12 per box",
+          "OP-03 English case saving per box: $722.10 - $565.12 = $156.98 per box",
+          "OP-03 English case saving per case: ($722.10 x 12) - $6,781.47 = $1,883.73 per case",
+          "OP-03 English case per pack: $6,781.47 / 288 packs = $23.55 per pack",
+          "OP-03 English case per card: $6,781.47 / 3,456 cards = $1.96 per card",
+          "OP-03 English vs Japanese gap per box: $722.10 - $175.78 = $546.32 per box",
+          "OP-03 English vs Japanese gap per pack: ($722.10 - $175.78) / 24 = $22.76 per pack",
+          "OP-03 English box vs MSRP: 24 packs x $4.19 = $100.56; $722.10 / $100.56 = 7.18x MSRP",
+          "OP-03 English box vs market Nov 5, 2026: $722.10 - $499.05 = $223.05 above market"
+        ],
+        "paragraphs": [
+          "Read the case lines twice, because this time both of them point the same way, which is the first time in this run. The [Japanese sealed case](/product/op-03-pillars-of-strength-sealed-case-12-boxes-japanese-one-piece-card/) saves $35.13 a box, $421.55 across the case, and the [English sealed case](/product/op-03-pillars-of-strength-sealed-case-12-boxes-english-one-piece-card/) saves $156.98 a box, $1,883.73 across the case. Both cases discount, and the Japanese case is the one that matters, because it is the only Japanese case in this run that discounts heavily. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "The language gap is $546.32 a box, or $22.76 a pack. That gap buys English cards and nothing else: the same set, the same chase pool, twice the cards per pack in English (12 against 6) and a different language on every card. A buyer who does not need English cards is paying $546.32 for a language.",
+          "Two market checks put the Warehouse shelf in context. A sealed OP-03 English box trades at $499.05 against an original MSRP of $100.56, which is 4.96 times issue price, according to a November 5, 2026 market check, and the Warehouse English box at $722.10 sits $223.05 above that market figure. A November 1, 2026 box-value report puts the same box at $499.05, a typical opened box at $50.19, and the share of boxes that beat their sealed price at 3%, with the verdict Hold it. Both figures are dated market snapshots, not Warehouse prices, and both point the same way: opening this box for value is a long shot at the market price, and a longer one at the shelf price. A typical opened box returns 7.0% of the $722.10 shelf price and 28.6% of the $175.78 Japanese shelf price. The Japanese box has its own gap: a Tokyo seller listed it at 14,779 yen, about $96, on October 23, 2026, and the Warehouse $175.78 sits $79.78 above that listing, which was sold out at the time."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "The Japanese box holds 24 packs of 6 cards, 144 cards in total. The English box holds 24 packs of 12 cards, 288 cards in total. Bandai's official product page lists 127 card types: 8 leaders, 45 Commons, 32 Uncommons, 26 Rares, 10 Super Rares, 2 Secret Rares, and 4 Specials. The set's weight is in what it introduced, not in its size.",
+          "The chase sits in one card above the rest. Sogeking's comic parallel (OP03-122) carries a November 4, 2026 TCGplayer market price of $914.48, which is 5.20 Japanese boxes and 1.27 English boxes at shelf prices. It is the set's Manga Rare and the highest-value card in the set by a wide margin. Below it, Nami's alternate art leader (OP03-040) sits at $260.90 and Charlotte Katakuri's alternate art leader (OP03-099) at $81.37, both on the same November 4, 2026 TCGplayer market check. The base printings of the same cards tell the other half of the story: the Sogeking base card is $13.07 and the Katakuri base card is $2.45. None of these is guaranteed in any box: Bandai publishes no pull rates for OP-03, and the comic parallel is the kind of card most boxes never contain.",
+          "The set's other claim is structural. OP-03 introduced Yellow as a playable colour, the fifth colour in the game, and its four Special cards are the WANTED poster prints: Luffy (ST01-012), Kid (OP01-051), Doflamingo (ST03-009), and Kaido (ST04-003). Those Specials carry starter-deck and earlier-set numbers, so the same stamp warning applies as on OP-04: check the set stamp before paying OP-03 money for a card numbered from another product. The set's most famous leader is also its most famous ban: Nami's leader card carried a deck-out victory condition so unusual it was eventually banned from competitive play. The set's colours and mechanics are explained in [One Piece Card Game Colors Explained](/blog/one-piece-card-game-colors-explained/), and deck-building from a box starts in [How to Build Your First One Piece Deck](/blog/one-piece-how-to-build-your-first-deck/)."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "The table's honest row is the last one. A Sogeking Manga single at a dated $914.48 market price costs more than five Japanese boxes, and it is still the cheapest certain route to that card, because no box guarantees it. The case rows are the table's news: the cheapest per-card route in the set is $0.98 a card in the Japanese case, and both cases discount, which is the first time in this run that is true."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Japanese single box",
+              "$175.78",
+              "24",
+              "$7.32",
+              "$1.22",
+              "Opening Pillars of Strength at the cheapest shelf price"
+            ],
+            [
+              "Japanese sealed case (12 boxes)",
+              "$1,687.81",
+              "288",
+              "$5.86",
+              "$0.98",
+              "Japanese boxes in bulk, the set's cheapest per-card route"
+            ],
+            [
+              "English single box",
+              "$722.10",
+              "24",
+              "$30.09",
+              "$2.51",
+              "One English box, English cards only, above market"
+            ],
+            [
+              "English sealed case (12 boxes)",
+              "$6,781.47",
+              "288",
+              "$23.55",
+              "$1.96",
+              "English boxes in bulk, the set's best per-box deal"
+            ],
+            [
+              "Japanese OP-04 box",
+              "$186.59",
+              "24",
+              "$7.77",
+              "$1.30",
+              "The successor set instead of Pillars of Strength"
+            ],
+            [
+              "Sogeking Manga single (market, Nov 4, 2026)",
+              "$914.48",
+              "0",
+              "Not divided",
+              "Not divided",
+              "The named card is the job"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The top results for OP-03 cover chase-card prices, box prices, and the Sogeking comic parallel, and they cover them well. What none of them does is run the four-product math on one shelf. A chase-card table can tell you the Sogeking Manga exists; it cannot tell you that this store's Japanese case undercuts its own Japanese single box by $35.13 a box while its English case undercuts its own English single box by $156.98 a box. That comparison only exists where the four shelf prices sit side by side, and it is the comparison that decides between the four products.",
+          "The second gap is the shelf-versus-market figure, and on this set it runs both ways at once. The Warehouse English box at $722.10 sits $223.05 above the November 5, 2026 market figure of $499.05, while the Warehouse Japanese box at $175.78 sits $79.78 above a Tokyo seller's October 23, 2026 listing of about $96. Market trackers report the market; price tables report the sets; neither reports what this store charges today.",
+          "The third gap is the ban. Nami's leader card carried a deck-out victory condition unusual enough to be banned from competitive play, and a guide that lists the Nami alternate art at $260.90 without naming the ban leaves a player buying a card they cannot play. Check the ban list, then pay."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "Chasing the Sogeking Manga in boxes. At a dated $914.48 market price, the Manga card costs more than five Japanese boxes, and a box carries no guarantee of any named card. The expected outcome of opening for one card is paying box prices for bulk. Buy the single.",
+          "Buying the English single box when the case is the deal. Twelve singles cost $8,665.20; the case costs $6,781.47. The buyer who wanted one box and bought it at $722.10 paid $156.98 more per box than the case buyer. Divide before you buy, every time, even when the product shape looks like a single-box purchase.",
+          "Paying OP-03 money for a card numbered from another product. The set's four Special cards carry starter-deck and earlier-set numbers, and the dearest printings in the set are the ones most often listed without a set stamp. If the listing does not show the set stamp, do not pay OP-03 money for it.",
+          "Paying sealed-box money for a reseal. OP-03's English box trades at more than seven times its $100.56 pack-price arithmetic and 4.96 times its issue price at market, and that premium is exactly what resealers monetize. Check the seal, the wrap tension, and the pack order before opening, and read [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. A box opened is a box that cannot be returned as sealed.",
+          "Treating a sealed box as an investment with a timetable. The November 1, 2026 box-value report prices a typical opened OP-03 box at $50.19 against a $499.05 sealed box, with 3% of boxes beating their sealed price, and sealed prices themselves move on reprints and restocks. The set is out of print in both languages, which supports the price, and it does not guarantee it. A sealed box held for value is a speculation with storage costs and no maturity date."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the language gap",
+        "paragraphs": [
+          "Japan got Pillars of Strength on February 11, 2023; English followed on June 30, 2023, a gap of just under five months. That gap is the normal Bandai pattern for numbered sets, and it is why the Japanese print is the earlier, cheaper, and more plentiful product: it has had longer to circulate. The English print's premium is a language premium plus a supply premium, not a content premium. Both prints are now out of print, which is why neither has restocked at retail.",
+          "The pack contents differ by language in a way that confuses buyers. Japanese packs hold 6 cards; English packs hold 12. The English box therefore holds 288 cards against the Japanese box's 144, which is why the English cost per card ($2.51) sits closer to the Japanese cost per card ($1.22) than the box prices suggest, though on this set the English box is dearer per card too. Cost per pack favours Japanese by $22.76; cost per card favours Japanese by $1.29. Which one matters depends on whether the buyer counts packs or cards.",
+          "Tournament legality follows language and region: English-region official events run on English cards, so a Japanese box, however cheap, does not build a tournament-legal deck in an English region. Collectors face no such constraint, and for them the Japanese case is simply the cheapest Pillars of Strength, at $0.98 a card. The language comparison in full is in [EB-01 Japanese vs English: Which to Buy](/blog/eb-01-japanese-vs-english-which-to-buy/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer whose only target is the Sogeking Manga card: buy the single, check the stamp, and skip every sealed product on this page. It is not for the English-only player who will not pay $722.10 for one box or $6,781.47 for a case: no cheaper English Pillars of Strength exists on this shelf, and the market figure of $499.05 is a different seller's price, not this store's. It is not for the player who wants to build around Nami's leader without checking the ban list first: the deck-out victory condition that made the card famous is the reason it cannot be played. And it is not for the buyer who needs a return on a date: sealed OP-03 is a speculation, and the only dated value figures on this page (November 1, 2026) price a typical opened box at $50.19 against a $499.05 sealed box, with 3% of boxes beating their sealed price."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the language first: Japanese for price, English for English-region play and English cards.",
+          "Divide the case before assuming it discounts: Japanese case $140.65 a box (saves $35.13), English case $565.12 a box (saves $156.98).",
+          "If a named card is the job, price the single before pricing any box — and check the set stamp on any Special card carrying another product's number.",
+          "Check the ban list before building around Nami's leader.",
+          "Check the seal and wrap on arrival, before opening, using the reseal guide.",
+          "Confirm the shelf price on the product page: every figure here is dated November 5, 2026, and prices move.",
+          "For the successor set, read the OP-04 guide; for the earlier sets, read the OP-05 guide first and work backwards."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Language first, case division second, named-card check third. Everything else on this page is the evidence behind those three steps."
+        ]
+      }
+    ],
+    "slug": "op-03-pillars-of-strength-buyers-guide",
+    "takeaway": [
+      "On November 5, 2026, the Warehouse OP-03 Japanese box costs $175.78, which is $7.32 a pack and $1.22 a card, and the Japanese case costs $1,687.81, which is $140.65 a box and $0.98 a card. Buy the case for Japanese boxes in bulk, buy the single box to open Pillars of Strength, and buy the single for the Sogeking Manga card or any named card.",
+      "Prices move; the method does not. Choose the language first, divide the case second, and never assume a case discounts: on this set both cases discount, the Japanese by $421.55 and the English by $1,883.73 — and the English single box sits $223.05 above the dated market figure.",
+      "For the successor set, see [OP-04 Kingdoms of Intrigue Buyer's Guide](/blog/op-04-kingdoms-of-intrigue-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/)."
+    ]
+  },
+  "op-04-kingdoms-of-intrigue-buyers-guide": {
+    "datePublished": "2026-11-05",
+    "faqs": [
+      {
+        "a": "Almost none. On November 5, 2026, the Warehouse Japanese case costs $2,233.45, which divides to $186.12 a box, forty-seven cents below the $186.59 single box, a saving of $5.63 across the case. Buy the case only if twelve Japanese boxes is the plan regardless of price.",
+        "q": "Does the OP-04 Japanese sealed case save money over single boxes?"
+      },
+      {
+        "a": "Buy the single. No box guarantees the Sabo Manga card or any named card, and Bandai publishes no pull rates for OP-04. A dated November 4, 2026 check put the TCGplayer market price for the Sabo Manga at $749.48, more than four Japanese boxes, and it is still the cheapest certain route to that card.",
+        "q": "Should I buy an OP-04 box to pull the Sabo Manga card?"
+      },
+      {
+        "a": "It is a different seller's price for a sealed box in hand. The November 5, 2026 market figure of $497.13 is a snapshot of completed-sale pricing across sellers, while the Warehouse $674.49 is the live shelf price for one sealed box. The English sealed case at $527.96 a box sits much closer to the market figure, which is why bulk buyers should divide the case before buying the single.",
+        "q": "Why is the Warehouse OP-04 English box more expensive than the market price?"
+      }
+    ],
+    "h1": "OP-04 Kingdoms of Intrigue Buyer's Guide: Worth It?",
+    "intro": [
+      "Short answer: buy the Japanese box if the job is opening Kingdoms of Intrigue, buy the English sealed case if the job is English boxes in bulk, and buy neither box for the Sabo Manga card or any named card. The [OP-04 Japanese booster box](/product/op-04-kingdoms-of-intrigue-booster-box-japanese-one-piece-card/) costs $186.59 on the Warehouse shelf on November 5, 2026, which divides to $7.77 a pack and $1.30 a card. The [OP-04 English booster box](/product/op-04-kingdoms-of-intrigue-booster-box-english-one-piece-card/) costs $674.49, which divides to $28.10 a pack and $2.34 a card.",
+      "The fact that earns this guide its keep runs the other way from the last set in this run. The Warehouse English box at $674.49 sits $177.36 above the November 5, 2026 market figure of $497.13, while the OP-05 English box sat $361.04 below its market figure. A buyer who learned from OP-05 that this shelf undercuts the market will overpay on OP-04 if they carry that lesson across one set. The shelf is not a rule; it is four prices, and they have to be divided set by set.",
+      "OP-04 is Kingdoms of Intrigue, the Dressrosa set: Doflamingo runs it, Sabo's Manga Rare sits at the top of the chase, and the set's price list is topped by a card carrying an OP-01 number. It released in Japan on May 27, 2023, and in English on September 22, 2023. The rest of this guide runs the numbers before you spend."
+    ],
+    "metaDescription": "OP-04 Kingdoms of Intrigue, Nov 5, 2026: Japanese box $186.59, English box $674.49 — $177.36 above market — Sabo Manga $749.48.",
+    "metaTitle": "OP-04 Kingdoms of Intrigue Buyer's Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about OP-04 is whether the English box price is a listing error, because buyers see $674.49 next to a market figure near $497 and expect the store to be the cheaper one. It is not an error. The $674.49 box is the live shelf price for a sealed box in hand, and the $497.13 figure is a November 5, 2026 market snapshot from a different set of sellers. We say that before the sale, because a buyer who assumes the shelf always sits below market will pay $177.36 extra without noticing.",
+        "paragraphs": [
+          "Buy the Japanese box if the job is opening Kingdoms of Intrigue. At $186.59 it is two cents cheaper than the OP-05 Japanese box, and it is still the cheapest way into the Dressrosa pool: Sabo's Manga Rare, the Vivi and Doflamingo alternate arts, and the set's Dressrosa leaders at the top. The wider Japanese ladder is in [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+          "Buy the English sealed case if the job is English boxes in bulk. At $6,335.52 it divides to $527.96 a box, a saving of $146.53 a box against the $674.49 single box, or $1,758.36 across the case. That is the largest per-box case saving in this run of set guides, and it is the only English case arithmetic on this page that points clearly at the case.",
+          "Buy the English single box only if the job is one English box and only one, and only after seeing the market figure. At $674.49 it is $28.10 a pack and $2.34 a card, and it is $177.36 above the November 5, 2026 market figure of $497.13. The wider English ladder is in [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
+          "Buy the Japanese case only if the job is twelve Japanese boxes regardless of price. It saves almost nothing: $2,233.45 divides to $186.12 a box, forty-seven cents below the single box. Buy the single for any named card, without exception in this set: the Sabo Manga card, the Vivi alternate art, and every other chase card are the cards a box is least likely to contain."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and the case split",
+        "math": [
+          "OP-04 Japanese box per pack: $186.59 / 24 packs = $7.77 per pack",
+          "OP-04 Japanese box per card: $186.59 / 144 cards = $1.30 per card",
+          "OP-04 Japanese case per box: $2,233.45 / 12 boxes = $186.12 per box",
+          "OP-04 Japanese case saving per box: $186.59 - $186.12 = $0.47 per box",
+          "OP-04 Japanese case saving per case: ($186.59 x 12) - $2,233.45 = $5.63 per case",
+          "OP-04 Japanese case per pack: $2,233.45 / 288 packs = $7.76 per pack",
+          "OP-04 Japanese case per card: $2,233.45 / 1,728 cards = $1.29 per card",
+          "OP-04 English box per pack: $674.49 / 24 packs = $28.10 per pack",
+          "OP-04 English box per card: $674.49 / 288 cards = $2.34 per card",
+          "OP-04 English case per box: $6,335.52 / 12 boxes = $527.96 per box",
+          "OP-04 English case saving per box: $674.49 - $527.96 = $146.53 per box",
+          "OP-04 English case saving per case: ($674.49 x 12) - $6,335.52 = $1,758.36 per case",
+          "OP-04 English case per pack: $6,335.52 / 288 packs = $22.00 per pack",
+          "OP-04 English case per card: $6,335.52 / 3,456 cards = $1.83 per card",
+          "OP-04 English vs Japanese gap per box: $674.49 - $186.59 = $487.90 per box",
+          "OP-04 English vs Japanese gap per pack: ($674.49 - $186.59) / 24 = $20.33 per pack",
+          "OP-04 English box vs MSRP: 24 packs x $4.49 = $107.76; $674.49 / $107.76 = 6.26x MSRP",
+          "OP-04 English box vs market Nov 5, 2026: $674.49 - $497.13 = $177.36 above market"
+        ],
+        "paragraphs": [
+          "Read the case lines twice, because they point in opposite directions and the gap between them is the whole guide. The [Japanese sealed case](/product/op-04-kingdoms-of-intrigue-sealed-case-12-boxes-japanese-one-piece-card/) saves forty-seven cents a box, $5.63 across twelve boxes, which is rounding, not a bulk deal. The [English sealed case](/product/op-04-kingdoms-of-intrigue-sealed-case-12-boxes-english-one-piece-card/) saves $146.53 a box, $1,758.36 across the case, which is the largest English case saving in this run. Same set, same case shape, opposite arithmetic. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "The language gap is $487.90 a box, or $20.33 a pack. That gap buys English cards and nothing else: the same set, the same chase pool, twice the cards per pack in English (12 against 6) and a different language on every card. A buyer who does not need English cards is paying $487.90 for a language.",
+          "Two market checks put the Warehouse shelf in context. A sealed OP-04 English box trades at $497.13 against an original MSRP of $107.76, which is 4.61 times issue price, according to a November 5, 2026 market check, and the Warehouse English box at $674.49 sits $177.36 above that market figure. A November 1, 2026 box-value report puts the same box at $499.71, a typical opened box at $58.86, and the share of boxes that beat their sealed price at 6%, with the verdict Hold it. Both figures are dated market snapshots, not Warehouse prices, and both point the same way: opening this box for value is a long shot at the market price, and a longer one at the shelf price. A typical opened box returns 8.7% of the $674.49 shelf price and 31.5% of the $186.59 Japanese shelf price."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "The Japanese box holds 24 packs of 6 cards, 144 cards in total. The English box holds 24 packs of 12 cards, 288 cards in total. Bandai's official product page lists 124 card types plus a Don! card: 6 leaders, all multi-coloured, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, 2 Secret Rares, and 5 Specials, with 25 alternate-art types. The chase sits in the alternate arts and the set's single Manga Rare, not in the base list.",
+          "The chase sits in one card above the rest. Sabo's Manga Rare (OP04-083) carries a November 4, 2026 TCGplayer market price of $749.48, which is 4.02 Japanese boxes and 1.11 English boxes at shelf prices. Below it, the alternate arts stack up as a Dressrosa portrait gallery: Nefeltari Vivi (OP04-001) at $99.34, Donquixote Doflamingo (OP04-019) at $58.54, Crocodile (OP04-058) at $43.29, and Rebecca (OP04-039) at $41.40, all on the same November 4, 2026 TCGplayer market check. None of these is guaranteed in any box: Bandai publishes no pull rates for OP-04, and the Manga Rare is the kind of card most boxes never contain.",
+          "The set's price list carries a trap worth naming before the money moves. The highest TCGplayer market price in the Kingdoms of Intrigue list is Boa Hancock (SP) OP01-078 at $1,040.86, a card that carries an OP-01 number: the set's Special slot reprints earlier cards, so the dearest card in the set's list is not an OP-04 card at all. A buyer paying OP-04 money for an OP-01-numbered card should know which set they are buying, and a seller who does not show the set stamp has not shown the card. For players, the set's weight is in Doflamingo's purple decks and the Dressrosa leaders: a player buying for a deck should start from the card list, not the box. The set's colours and mechanics are explained in [One Piece Card Game Colors Explained](/blog/one-piece-card-game-colors-explained/), and deck-building from a box starts in [How to Build Your First One Piece Deck](/blog/one-piece-how-to-build-your-first-deck/)."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "The table's honest row is the last one. A Sabo Manga single at a dated $749.48 market price costs more than four Japanese boxes, and it is still the cheapest certain route to that card, because no box guarantees it. The case rows are the table's warning: the cheapest per-card route in the set is $1.29 a card in the Japanese case, and the most expensive mistake is buying the English single box at $177.36 above market when the English case saves $146.53 a box."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Japanese single box",
+              "$186.59",
+              "24",
+              "$7.77",
+              "$1.30",
+              "Opening Kingdoms of Intrigue at the cheapest shelf price"
+            ],
+            [
+              "Japanese sealed case (12 boxes)",
+              "$2,233.45",
+              "288",
+              "$7.76",
+              "$1.29",
+              "Twelve Japanese boxes regardless of price"
+            ],
+            [
+              "English single box",
+              "$674.49",
+              "24",
+              "$28.10",
+              "$2.34",
+              "One English box, English cards only, above market"
+            ],
+            [
+              "English sealed case (12 boxes)",
+              "$6,335.52",
+              "288",
+              "$22.00",
+              "$1.83",
+              "English boxes in bulk, the set's best per-box deal"
+            ],
+            [
+              "Japanese OP-05 box",
+              "$186.61",
+              "24",
+              "$7.78",
+              "$1.30",
+              "The successor set instead of Kingdoms of Intrigue"
+            ],
+            [
+              "Sabo Manga single (market, Nov 4, 2026)",
+              "$749.48",
+              "0",
+              "Not divided",
+              "Not divided",
+              "The named card is the job"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The top results for OP-04 cover price tables, box prices, and sold listings for single cards, and they cover them well. What none of them does is run the four-product math on one shelf. A price table can tell you the Sabo Manga exists; it cannot tell you that this store's English case undercuts its own English single box by $146.53 a box while its Japanese case saves forty-seven cents. That comparison only exists where the four shelf prices sit side by side, and it is the comparison that decides between the four products.",
+          "The second gap is the shelf-versus-market figure, and on this set it is the story. The Warehouse English box at $674.49 sits $177.36 above the November 5, 2026 market figure of $497.13. Market trackers report the market; price tables report the sets; neither reports what this store charges today. That gap is the only price in this article a reader cannot get anywhere else, and it is dated November 5, 2026, because it will move.",
+          "The third gap is the set stamp on the dearest card in the list. The highest-priced card in the Kingdoms of Intrigue market list carries an OP-01 number, because the set's Special slot reprints earlier cards. A card list that does not name the stamp does not protect a buyer paying OP-04 money for an OP-01 card. Check the stamp, then pay."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "Chasing the Sabo Manga in boxes. At a dated $749.48 market price, the Manga card costs more than four Japanese boxes, and a box carries no guarantee of any named card. The expected outcome of opening for one card is paying box prices for bulk. Buy the single.",
+          "Buying the Japanese case for a discount that is not there. Twelve singles cost $2,239.08; the case costs $2,233.45. The buyer who wanted a deal saves $5.63 and twelve boxes of storage. Divide before you buy, every time, even when the product shape looks like a bulk deal.",
+          "Paying OP-04 money for an OP-01 card. The set's Special slot reprints earlier cards, and the dearest card in the set's market list, Boa Hancock (SP) OP01-078 at $1,040.86, carries an OP-01 number. If the listing does not show the set stamp, do not pay OP-04 money for it.",
+          "Paying sealed-box money for a reseal. OP-04's English box trades at more than six times its $107.76 pack-price arithmetic and 4.61 times its issue price at market, and that premium is exactly what resealers monetize. Check the seal, the wrap tension, and the pack order before opening, and read [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. A box opened is a box that cannot be returned as sealed.",
+          "Treating a sealed box as an investment with a timetable. The November 1, 2026 box-value report prices a typical opened OP-04 box at $58.86 against a $499.71 sealed box, with 6% of boxes beating their sealed price, and sealed prices themselves move on reprints and restocks. A sealed box held for value is a speculation with storage costs and no maturity date, and the honest plan for it is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/)."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the language gap",
+        "paragraphs": [
+          "Japan got Kingdoms of Intrigue on May 27, 2023; English followed on September 22, 2023, a gap of just under four months. That gap is the normal Bandai pattern for numbered sets, and it is why the Japanese print is the earlier, cheaper, and more plentiful product: it has had longer to circulate. The English print's premium is a language premium plus a supply premium, not a content premium.",
+          "The pack contents differ by language in a way that confuses buyers. Japanese packs hold 6 cards; English packs hold 12. The English box therefore holds 288 cards against the Japanese box's 144, which is why the English cost per card ($2.34) sits closer to the Japanese cost per card ($1.30) than the box prices suggest, though on this set the English box is dearer per card too. Cost per pack favours Japanese by $20.33; cost per card favours Japanese by $1.04. Which one matters depends on whether the buyer counts packs or cards.",
+          "Tournament legality follows language and region: English-region official events run on English cards, so a Japanese box, however cheap, does not build a tournament-legal deck in an English region. Collectors face no such constraint, and for them the Japanese box is simply the cheaper Kingdoms of Intrigue. The language comparison in full is in [EB-01 Japanese vs English: Which to Buy](/blog/eb-01-japanese-vs-english-which-to-buy/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer whose only target is the Sabo Manga card: buy the single, check the stamp, and skip every sealed product on this page. It is not for the English-only player who will not pay $674.49 for one box or $6,335.52 for a case: no cheaper English Kingdoms of Intrigue exists on this shelf, and the market figure of $497.13 is a different seller's price, not this store's. It is not for the bulk buyer who wants the Japanese case to discount: it saves forty-seven cents a box. And it is not for the buyer who needs a return on a date: sealed OP-04 is a speculation, and the only dated value figures on this page (November 1, 2026) price a typical opened box at $58.86 against a $499.71 sealed box, with 6% of boxes beating their sealed price."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the language first: Japanese for price, English for English-region play and English cards.",
+          "Divide the case before assuming it discounts: Japanese case $186.12 a box (saves $0.47), English case $527.96 a box (saves $146.53).",
+          "If a named card is the job, price the single before pricing any box — and check the set stamp on any SP card carrying an OP-01 number.",
+          "Check the seal and wrap on arrival, before opening, using the reseal guide.",
+          "Confirm the shelf price on the product page: every figure here is dated November 5, 2026, and prices move.",
+          "For the successor set, read the OP-05 guide; for the earlier set, read the OP-03 guide."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Language first, case division second, named-card check third. Everything else on this page is the evidence behind those three steps."
+        ]
+      }
+    ],
+    "slug": "op-04-kingdoms-of-intrigue-buyers-guide",
+    "takeaway": [
+      "On November 5, 2026, the Warehouse OP-04 Japanese box costs $186.59, which is $7.77 a pack and $1.30 a card. Buy it to open Kingdoms of Intrigue, buy the English case at $527.96 a box for English boxes in bulk, and buy the single for the Sabo Manga card or any named card.",
+      "Prices move; the method does not. Choose the language first, divide the case second, and never assume a case discounts: on this set the Japanese case saves forty-seven cents a box and the English case pays a saving of $1,758.36 — and the English single box sits $177.36 above the dated market figure.",
+      "For the successor set, see [OP-05 Awakening of the New Era Buyer's Guide](/blog/op-05-awakening-of-the-new-era-buyers-guide/). For the earlier set, see [OP-03 Pillars of Strength Buyer's Guide](/blog/op-03-pillars-of-strength-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/)."
+    ]
+  },
   "op-05-awakening-of-the-new-era-buyers-guide": {
     "datePublished": "2026-11-05",
     "faqs": [
@@ -7859,7 +8246,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 5, 2026, the Warehouse OP-05 Japanese box costs $186.61, which is $7.78 a pack and $1.30 a card. Buy it to open Awakening of the New Era, buy the English case at $555.94 a box for English boxes in bulk, and buy the single for the Luffy Manga card or any named card.",
       "Prices move; the method does not. Choose the language first, divide the case second, and never assume a case discounts: on this set the Japanese case charges a premium and the English case pays a saving of $780.75 — and the English single box sits $361.04 below the dated market figure.",
-      "For the successor set, see [OP-06 Wings of the Captain Buyer's Guide](/blog/op-06-wings-of-the-captain-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/)."
+      "For the successor set, see [OP-06 Wings of the Captain Buyer's Guide](/blog/op-06-wings-of-the-captain-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the predecessor set, see [OP-04 Kingdoms of Intrigue Buyer's Guide](/blog/op-04-kingdoms-of-intrigue-buyers-guide/)."
     ]
   },
   "op-06-wings-of-the-captain-buyers-guide": {
