@@ -2236,7 +2236,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese One Piece booster box is the one whose arithmetic matches your job. OP-15 wins on price at $2.90 per pack, OP-18 wins as the newest set at $3.50 per pack on pre-order, and OP-05 wins as the collector's set at $7.78 per pack. The case verdict is the part other guides skip: only OP-02 and OP-03 cases discount heavily, eleven cases cost more per box than buying singly, and the rest save under a dollar. Twenty-four boxes, one shelf, every division shown. For the mixed-language shelf that started this comparison, the [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) still settles OP-17 and OP-18 across both languages. The full 24-case ladder, with OP-18's unranked preorder case, is in the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/), and the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices one set in both languages.",
       "For the cross-game view, Pokemon and One Piece priced together, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/).",
-      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf. For the next Extra Booster in depth, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the anime-art set in both languages.  For the predecessor set in depth, the [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) prices all four sealed products and the case inversion. For the full OP-15 breakdown, see [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/)."
+      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf. For the next Extra Booster in depth, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the anime-art set in both languages.  For the predecessor set in depth, the [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) prices all four sealed products and the case inversion. For the full OP-15 breakdown, see [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/).",
+      "For the anniversary set, see [OP-13 Carrying on His Will Buyer's Guide](/blog/op-13-carrying-on-his-will-buyers-guide/)."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -3582,7 +3583,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "best-one-piece-booster-box-to-buy",
     "takeaway": [
       "The best One Piece booster box is the one whose arithmetic matches your job. OP-18 wins on price at every unit — $2.92 per pack, $62.92 per box in a case that honestly discounts. OP-17 English wins for readers and its case saves the most per box. OP-17 Japanese is a theme purchase at $4.21 per pack, and its case is the one format on this page to avoid, charging $0.18 more per box for buying in bulk. Three sets, three case structures, three answers — all of them visible the moment the division gets done. For the English-only shelf, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
-      "For the full Japanese-only shelf, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack and exposes the case trap eleven sets hide."
+      "For the full Japanese-only shelf, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack and exposes the case trap eleven sets hide.",
+      "For the anniversary set, see [OP-13 Carrying on His Will Buyer's Guide](/blog/op-13-carrying-on-his-will-buyers-guide/)."
     ]
   },
   "best-value-japanese-pokemon-booster-boxes": {
@@ -7665,6 +7667,341 @@ export const POSTS: Record<string, BlogPost> = {
       "Ready to start? Browse [the One Piece range](/one-piece-cards/) for starter decks and boxes, and keep an eye on the [release calendar](/release-calendar/) for what your color gets next. And if you end up holding sealed product you are saving rather than opening, store it the way we describe in [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) — a box kept right is money kept."
     ]
   },
+  "op-13-carrying-on-his-will-buyers-guide": {
+    "datePublished": "2026-11-05",
+    "faqs": [
+      {
+        "a": "It depends on the job. OP-14 Japanese at $98.26 is cheaper per card at $0.68 against OP-13 at $0.94, but OP-14 cannot give you the Three Brothers Secret Rares, the Roger and Imu Leaders, or the Red Super Alt-Art cards, which exist only in OP-13. Buy OP-13 for the anniversary pool, buy OP-14 for Warlords cards, and never buy one set hoping it contains the other's chase cards.",
+        "q": "Is OP-13 still worth buying when OP-14 is cheaper?"
+      },
+      {
+        "a": "In English, yes; in Japanese, no. The English case at $3,229.20 divides to $269.10 a box, $41.40 below the $310.50 single box. The Japanese case at $1,620.37 divides to $135.03 a box, $0.03 above the $135.00 single box. Divide the case in the language you are buying, because the answer flips between the two.",
+        "q": "Does the OP-13 sealed case actually save money over single boxes?"
+      },
+      {
+        "a": "Buy the single. No box guarantees the Red Super Alt-Art Luffy, Ace, or Sabo, and Bandai publishes no pull rates for OP-13. Dated third-party figures put the Luffy ask at 1,500,000 yen on a single SNKRDUNK listing on October 1, 2026, and at 9,211 euros on a price index on November 1, 2026, but asks and index figures are not sales, and a box is not a route to that card.",
+        "q": "Should I buy OP-13 boxes to pull the Red Super Alt-Art Luffy?"
+      }
+    ],
+    "h1": "OP-13 Carrying on His Will Buyer's Guide: Worth It?",
+    "intro": [
+      "Short answer: buy the Japanese box to open the anniversary set at the lowest per-card price in its class, buy the English box only if you need English cards, and buy neither box for the Red Super Alt-Art Luffy. The [OP-13 Japanese booster box](/product/op-13-carrying-on-his-will-booster-box-japanese-one-piece-card/) costs $135.00 on the Warehouse shelf on November 5, 2026, which is $5.63 a pack and $0.94 a card. The [English box](/product/op-13-carrying-on-his-will-booster-box-english-one-piece-card/) costs $310.50, which is 2.30 times the Japanese box.",
+      "The twist is the case, again. The [Japanese sealed case](/product/op-13-carrying-on-his-will-sealed-case-12-boxes-japanese-one-piece-card/) divides to $135.03 a box, three cents more than the single box, so the case rule breaks in Japanese for the second set running. The [English case](/product/op-13-carrying-on-his-will-sealed-case-12-boxes-english-one-piece-card/) divides to $269.10 a box and saves $41.40 a box, so the case rule holds in English. Language first, division second, every time.",
+      "OP-13 is Carrying on His Will, the third-anniversary set built around Luffy, Ace, and Sabo. It released in Japan on August 23, 2025, and in English on November 7, 2025, with six Leader cards including the first-ever Roger and Imu Leaders, three Secret Rares for the Three Brothers, and a Red Super Alt-Art rarity found in no other set. The rest of this guide runs the numbers before you spend."
+    ],
+    "metaDescription": "OP-13 guide, Nov 5, 2026: Japanese box $135.00, English box $310.50, Japanese case costs more per box, Three Brothers SECs, Red Super Alt-Art.",
+    "metaTitle": "OP-13 Carrying on His Will Buyer's Guide: Price & Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about OP-13 is whether a set this old is still worth buying when newer sets are cheaper. Buyers see the $135.00 Japanese box next to the $98.26 OP-14 box and assume the older set lost. It did not lose; it is a different purchase, an anniversary set with a chase pool no newer set repeats.",
+        "paragraphs": [
+          "Opening the anniversary set: buy the Japanese box at $135.00. Twenty-four packs of six cards is 144 cards at $0.94 a card, and the pool holds the Three Brothers Secret Rares, six Leaders, and the anniversary Special cards that exist nowhere else. If the job is opening OP-13, that is the price of the job.",
+          "Playing in English: buy the English box at $310.50, or the English case at $269.10 a box if you need twelve boxes. Japanese cards do not play in English-region official events, so the cheaper Japanese price is not a saving for a sanctioned player. See [how to build your first deck](/blog/one-piece-how-to-build-your-first-deck/) before you commit a box to a colour.",
+          "Sealed collecting: buy the Japanese single, not the Japanese case, because the case costs more per box. Buy the English case only if you actually want twelve English boxes, since the $41.40 saving per box only exists if all twelve boxes are wanted. If you want one named card, especially a Red Super Alt-Art, buy the single card instead of any box on this page."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and the case rule breaks once more",
+        "math": [
+          "OP-13 Japanese box per pack: $135.00 / 24 packs = $5.63 per pack",
+          "OP-13 Japanese box per card: $135.00 / 144 cards = $0.94 per card",
+          "OP-13 Japanese case per box: $1,620.37 / 12 boxes = $135.03 per box",
+          "OP-13 Japanese case premium: $135.03 - $135.00 = $0.03 more per box than the single",
+          "OP-13 English box per pack: $310.50 / 24 packs = $12.94 per pack",
+          "OP-13 English box per card: $310.50 / 288 cards = $1.08 per card",
+          "OP-13 English case per box: $3,229.20 / 12 boxes = $269.10 per box",
+          "OP-13 English case saving: $310.50 - $269.10 = $41.40 saved per box",
+          "OP-13 English premium over Japanese: $310.50 / $135.00 = 2.30 times"
+        ],
+        "paragraphs": [
+          "Start with the Japanese box, because it is straightforward. Twenty-four packs of six cards is 144 cards, and $135.00 divided by 24 is $5.63 a pack, divided by 144 is $0.94 a card. The Japanese pack price printed by Bandai is 220 yen, so a box at Japanese retail works out to 5,280 yen; the Warehouse shelf price of $135.00 is the figure to compare against other Warehouse boxes, not against a yen conversion.",
+          "The Japanese case repeats the OP-14 pattern. Twelve boxes at $1,620.37 divide to $135.03 a box, which is $0.03 above the $135.00 single box. Three cents is small, but the direction matters twice in a row: two neighbouring sets where the Japanese case costs more per box than the single. The case rule is a division, not a promise, and [the sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows the same check applied across sets.",
+          "English is the opposite story. The English box at $310.50 divides to $12.94 a pack on the retailer-described 24-pack box, and $1.08 a card on the retailer-described 24 packs of 12 cards, which is 288 cards. Bandai's English page prints $4.99 a pack but does not print a pack count, so the 12-card pack figure comes from retailer listings, stated here so you can check it. Against the $4.99 pack price, a 24-pack box at retail is $119.76, which puts the Warehouse English box at 2.59 times that retail figure.",
+          "For outside context, dated third-party figures frame the English box's history: trend reporting from early 2026 describes English OP-13 boxes surging from around the $120 retail figure past $500 and toward $700, while the Warehouse shelf now stands at $310.50, well below that reported peak and still well above retail. A September-era SNKRDUNK lowest ask of 16,700 yen for a sealed Japanese box on October 1, 2026, and an eBay-derived figure from $121 on November 3, 2026, sit below the Warehouse $135.00. Those are asks and listings on those dates, not Warehouse prices and not sales, and they move."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "The Japanese box holds 24 packs of 6 cards, released August 23, 2025, at 220 yen a pack. The Japanese comparison page prints 132+1 types, while the official English page prints 133+1 types for the English set, a one-type difference between the two official counts that this guide states plainly rather than smoothing over. Base numbering runs to OP13-120, with 6 Leaders, 26 Rares, 10 Super Rares, 3 Secret Rares, 6 Special cards, 2 3rd Anniversary Special cards, and 1 Treasure Rare.",
+          "The six Leaders are Luffy, Ace, Roger, Sabo, Imu, and Jewelry Bonney, and the Roger and Imu Leaders are firsts: Roger is the first Leader printed with 7000 power. The three Secret Rares are the Three Brothers themselves, Luffy OP13-118, Ace OP13-119, and Sabo OP13-120, each with parallel versions including the Red Super Alt-Art, a flame-treated rarity Bandai ties to this set's anniversary theme and to no other set.",
+          "The English box, released November 7, 2025, holds 24 packs at $4.99 a pack from the 133+1-type pool printed on Bandai's English page. One retailer listing prints 128+1 types for the same box; where a retailer count disagrees with Bandai's page, the page wins. Tournament legality starts 7 days after release in your region, per Bandai's English product page, so both versions are long legal by November 2026, and language, not legality timing, is the divider. [One Piece colours explained](/blog/one-piece-card-game-colors-explained/) helps if six Leaders pull you in six directions at once."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 5, 2026."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Japanese single box",
+              "$135.00",
+              "24",
+              "$5.63",
+              "$0.94",
+              "Opening the anniversary set"
+            ],
+            [
+              "Japanese sealed case (12 boxes)",
+              "$1,620.37",
+              "288",
+              "$5.63",
+              "$0.94",
+              "You want 12 boxes and accept the $0.03 premium"
+            ],
+            [
+              "English single box",
+              "$310.50",
+              "24",
+              "$12.94",
+              "$1.08",
+              "Playing or collecting in English"
+            ],
+            [
+              "English sealed case (12 boxes)",
+              "$3,229.20",
+              "288",
+              "$11.21",
+              "$0.94",
+              "You want 12 English boxes and the $41.40 saving"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The strongest OP-13 guides each cover one part of the question well. One chase guide gives both release dates, the six Leaders, the three Secret Rares with their parallel rows, and dated SNKRDUNK asks for the Red Super Alt-Art cards. One price guide gives the Japanese-versus-English pack comparison across sets. Neither runs the Warehouse case division, and that is the gap this page owns.",
+          "First, no top guide states the Japanese case premium. A buyer reading only chase guides walks in assuming twelve boxes must be cheaper per box, and for OP-13 in Japanese that assumption costs money, three cents a box and twelve boxes of capital. Second, no top guide puts the one-type count difference, 132+1 in Japanese against 133+1 in English, in front of the buyer, so buyers who count their pulls against the wrong checklist wonder what they missed.",
+          "Third, no top guide separates asks from sales on the chase cards. A single-listing ask of 1,500,000 yen for the Red Super Alt-Art Luffy on October 1, 2026, and an index figure of 9,211 euros for the English copy on November 1, 2026, are both printed in this guide's research, and both are asks and index figures, not confirmed sales. A chase card's ask is not its price, and a box is not a route to it."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, chasing a Red Super Alt-Art with boxes. No box guarantees the Red Super Alt-Art Luffy, Ace, or Sabo, any Secret Rare, or any named card, and Bandai publishes no pull rates for OP-13. Dated community estimates put the set's rarest parallel packs at roughly 1 per 10 to 20 cases, which is an estimate, not a Bandai figure, and it argues for buying the single, not for buying cases.",
+          "Second, buying Japanese for English-region play. Japanese cards do not play in English-region official events, so a $135.00 box that cannot sit on your tournament table is not a bargain. Decide the event language before the box language, not after.",
+          "Third, reseals and fakes. A box priced far below the Warehouse shelf deserves the checks in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/): seal, weight feel, print quality, and seller history, in that order. A deal that skips those checks is not a deal.",
+          "Fourth, the Japanese case premium. Twelve boxes at $1,620.37 is $135.03 a box against a $135.00 single. The premium is three cents, but the capital tied up is twelve boxes, and the resale of eleven unwanted boxes is a second transaction with its own fees and risk. Only buy the case if twelve boxes are the plan.",
+          "Fifth, price movement. The English box's own history, from around $120 retail toward $700 in early 2026 reporting and back to $310.50 on the Warehouse shelf now, is the warning: sealed prices move hard in both directions. [Should you open or keep sealed](/blog/should-you-open-or-keep-sealed-booster-box/) frames the choice honestly: open it because you want the cards, not because a dated ask promised a return."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the anniversary premium",
+        "paragraphs": [
+          "The two versions share the anniversary theme and differ in card count, price structure, and chase heat. Japanese packs cost 220 yen for six cards, English packs cost $4.99, and the Japanese release preceded the English release by 76 days, August 23, 2025 to November 7, 2025. The English box carries the larger premium over Japanese, 2.30 times, because English OP-13 demand ran hotter for longer than its neighbours, not because the English box holds more cards: 133+1 types against 132+1 is one type, not a reason for a $175.50 gap.",
+          "Against its neighbours, the Japanese OP-13 box at $135.00 sits $36.74 above [OP-14](/blog/op-14-azure-seas-seven-buyers-guide/) at $98.26, and the English OP-13 box at $310.50 sits $39.11 above the English OP-14 box at $271.39. The anniversary chase pool, not the card count, explains the gap: no newer set prints Red Super Alt-Arts, Roger and Imu Leaders, or the anniversary Special cards, so OP-13 keeps a premium its successors do not earn. Compare like with like on [best Japanese One Piece booster box](/blog/best-japanese-one-piece-booster-box-to-buy/) and [best English One Piece booster box](/blog/best-english-one-piece-booster-box-to-buy/).",
+          "Preorder timing also matters for the next set in the chain, not this one: OP-13 is long released, so [preorder or wait](/blog/preorder-japanese-booster-box-or-wait/) does not apply here. For OP-13 the question is never timing; it is whether the anniversary pool is worth $135.00 in Japanese or $310.50 in English, and the table above is the whole answer."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who need one named card, for players who need English-legal cards but are tempted by the cheaper Japanese price, or for buyers who need their money back on a date. It is not for collectors who want the Red Super Alt-Art Luffy and think a case improves the odds enough to matter: at community-estimated rarity, a case is still a lottery ticket with a box count attached. It is not for case buyers who assume a discount without dividing: in Japanese, OP-13 has none.",
+          "It is for openers who want the anniversary pool at $0.94 a Japanese card, for English players and collectors who accept the 2.30 times premium for English cards, and for sealed buyers who divide first and buy the English case only when twelve boxes are genuinely wanted."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the language first: Japanese at $135.00 a box or English at $310.50 a box, before any other comparison.",
+          "Check the count: Japanese 132+1 types, English 133+1 types on Bandai's pages; do not count pulls against a retailer's different total.",
+          "Divide the case: Japanese $1,620.37 / 12 = $135.03 a box, a premium; English $3,229.20 / 12 = $269.10 a box, a saving.",
+          "Check the seal on arrival using the reseal guide, and keep the box sealed until you decide to open or hold.",
+          "Buy the single card for any Red Super Alt-Art, Secret Rare, or named chase; no box guarantees it."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. Language first, because it changes every price that follows; count second, because the two official counts differ by one; case division third, because the two languages point opposite ways; seal fourth, because a broken seal ends the sealed argument."
+        ]
+      }
+    ],
+    "slug": "op-13-carrying-on-his-will-buyers-guide",
+    "takeaway": [
+      "On November 5, 2026, the Warehouse OP-13 Japanese box costs $135.00, which is $5.63 a pack and $0.94 a card. Buy it to open the anniversary set, buy the English box at $310.50 or its case at $269.10 a box for English cards, and buy the single for any Red Super Alt-Art or named card.",
+      "The case rule breaks in Japanese and holds in English: the Japanese case divides to $135.03 a box, a $0.03 premium over the single, while the English case divides to $269.10 a box, a $41.40 saving. Language first, division second, every time.",
+      "For the successor set, see [OP-14 Azure Sea's Seven Buyer's Guide](/blog/op-14-azure-seas-seven-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/)."
+    ]
+  },
+  "op-14-azure-seas-seven-buyers-guide": {
+    "datePublished": "2026-11-05",
+    "faqs": [
+      {
+        "a": "No, and that is the most important fact in this guide. The Japanese set is OP-14 at 128+1 types, released November 22, 2025. The English set is coded OP14-EB04, released January 16, 2026, at 163+2 types, because it folds in the second half of the Japanese EB-04 cards. Same Warlords theme, different card pool, and the English box costs $271.39 on the Warehouse shelf against $98.26 for the Japanese box.",
+        "q": "Is the English OP-14 box the same set as the Japanese OP-14 box?"
+      },
+      {
+        "a": "In English, yes; in Japanese, no. The English case at $2,459.34 divides to $204.95 a box, $66.44 below the $271.39 single box. The Japanese case at $1,179.92 divides to $98.33 a box, $0.07 above the $98.26 single box. Divide the case in the language you are buying, because the answer flips between the two.",
+        "q": "Does the OP-14 sealed case actually save money over single boxes?"
+      },
+      {
+        "a": "Buy the single. A Japanese box holds 144 cards drawn from a 128+1-type pool, and no box guarantees the Mihawk Secret Rare, the Crocodile Secret Rare, or any named card. Bandai publishes no pull rates for OP-14, and a dated third-party page put the Japanese sealed box ask at 7,500 yen on September 24, 2026, which is a market snapshot, not a reason to buy boxes instead of the card.",
+        "q": "Should I buy an OP-14 box to pull the Mihawk or Crocodile Secret Rare?"
+      }
+    ],
+    "h1": "OP-14 Azure Sea's Seven Buyer's Guide: Worth It?",
+    "intro": [
+      "Short answer: buy the Japanese box to open the Warlords set cheaply, buy the English box only if you need English cards, and buy neither box for one named card. The [OP-14 Japanese booster box](/product/op-14-the-azure-seas-seven-booster-box-japanese-one-piece-card/) costs $98.26 on the Warehouse shelf on November 5, 2026, which is $4.09 a pack and $0.68 a card. The [English box](/product/op-14-the-azure-seas-seven-booster-box-english-one-piece-card/) costs $271.39, which is 2.76 times the Japanese box, and it is not the same set.",
+      "The twist is the case. The [Japanese sealed case](/product/op-14-the-azure-seas-seven-sealed-case-12-boxes-japanese-one-piece-card/) divides to $98.33 a box, seven cents more than the single box, so the case rule breaks in Japanese. The [English case](/product/op-14-the-azure-seas-seven-sealed-case-12-boxes-english-one-piece-card/) divides to $204.95 a box and saves $66.44 a box, so the case rule holds in English. Language first, division second, every time.",
+      "OP-14 is The Azure Sea's Seven, the Seven Warlords set. It released in Japan on November 22, 2025, at 128+1 types, and in English on January 16, 2026, as OP14-EB04, at 163+2 types, because the English set folds in the second half of the Japanese EB-04 cards. Seven Leader cards, two Secret Rares, and two 3rd Anniversary Buggy Special cards sit on top of that split, and the rest of this guide runs the numbers before you spend."
+    ],
+    "metaDescription": "OP-14 buyer's guide, Nov 5, 2026: Japanese box $98.26, English box $271.39, Japanese case costs more per box, 7 Warlord Leaders, Mihawk and Crocodile SEC.",
+    "metaTitle": "OP-14 Azure Sea's Seven Buyer's Guide: Price & Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about OP-14 is whether the English box is worth nearly three times the Japanese box. Buyers assume a bigger price means a bigger version of the same set. It is a bigger set, but it is not the same set, and the extra types are EB-04 cards, not extra OP-14 cards.",
+        "paragraphs": [
+          "Opening the set cheaply: buy the Japanese box at $98.26. Twenty-four packs of six cards is 144 cards at $0.68 a card, the cheapest Japanese One Piece box in the recent numbered run except [OP-15](/blog/op-15-adventure-on-kamis-island-buyers-guide/), which costs $69.48. If the job is opening Warlords cards, nothing else on the shelf beats that per-card figure except its successor.",
+          "Playing in English: buy the English box at $271.39, or the English case at $204.95 a box if you need twelve boxes. Japanese cards do not play in English-region official events, so the cheaper Japanese price is not a saving for a sanctioned player. See [how to build your first deck](/blog/one-piece-how-to-build-your-first-deck/) before you commit a box to a colour.",
+          "Sealed collecting: buy the Japanese single, not the Japanese case, because the case costs more per box. Buy the English case only if you actually want twelve English boxes, since the $66.44 saving per box only exists if all twelve boxes are wanted. If you want one named card, buy the single card instead of any box on this page."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and the case rule breaks once",
+        "math": [
+          "OP-14 Japanese box per pack: $98.26 / 24 packs = $4.09 per pack",
+          "OP-14 Japanese box per card: $98.26 / 144 cards = $0.68 per card",
+          "OP-14 Japanese case per box: $1,179.92 / 12 boxes = $98.33 per box",
+          "OP-14 Japanese case premium: $98.33 - $98.26 = $0.07 more per box than the single",
+          "OP-14 English box per pack: $271.39 / 24 packs = $11.31 per pack",
+          "OP-14 English box per card: $271.39 / 288 cards = $0.94 per card",
+          "OP-14 English case per box: $2,459.34 / 12 boxes = $204.95 per box",
+          "OP-14 English case saving: $271.39 - $204.95 = $66.44 saved per box",
+          "OP-14 English premium over Japanese: $271.39 / $98.26 = 2.76 times"
+        ],
+        "paragraphs": [
+          "Start with the Japanese box, because it is straightforward. Twenty-four packs of six cards is 144 cards, and $98.26 divided by 24 is $4.09 a pack, divided by 144 is $0.68 a card. The Japanese pack price printed by Bandai is 220 yen, so a box at Japanese retail works out to 5,280 yen; the Warehouse shelf price of $98.26 is the figure to compare against other Warehouse boxes, not against a yen conversion.",
+          "The Japanese case is the trap in this set. Twelve boxes at $1,179.92 divide to $98.33 a box, which is $0.07 above the $98.26 single box. Seven cents is small, but the direction matters: a buyer who assumes a case always discounts pays more per box and ties up twelve boxes of money to do it. The case rule is a division, not a promise, and [the sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows the same check applied across sets.",
+          "English is the opposite story. The English box at $271.39 divides to $11.31 a pack on the retailer-described 24-pack box, and $0.94 a card on the retailer-described 24 packs of 12 cards, which is 288 cards. Bandai's English page prints $4.99 a pack but does not print a pack count, so the 12-card pack figure comes from retailer listings, stated here so you can check it. Against the $4.99 pack price, a 24-pack box at retail is $119.76, which puts the Warehouse English box at 2.27 times that retail figure.",
+          "For outside context, dated third-party figures put the Japanese box lower elsewhere: a September 24, 2026 SNKRDUNK lowest ask of 7,500 yen for a sealed Japanese box, and an eBay-derived figure from $86 on November 4, 2026. Those are asks and listings on those dates, not Warehouse prices and not sales, and they move. The Warehouse figures above are the shelf on November 5, 2026, and they are the ones this guide's advice rests on."
+        ]
+      },
+      {
+        "h": "What is actually in the box",
+        "paragraphs": [
+          "The Japanese box holds 24 packs of 6 cards from a 128+1-type pool, released November 22, 2025, at 220 yen a pack. Seven Leader cards appear in one set, one for each Warlord, which is the set's headline for deck builders: more Leader options in a single box than any neighbouring set offers. The two Secret Rares are Dracule Mihawk and Crocodile, with 10 Super Rares, 6 Special cards, and 2 3rd Anniversary Special cards, the Buggy Gold and Buggy Silver variants, on top.",
+          "The English box, coded OP14-EB04 and released January 16, 2026, holds 24 packs at $4.99 a pack from a 163+2-type pool. Its rarity ladder adds a Treasure Rare and 3rd Anniversary Special cards to the usual Commons, Uncommons, Rares, Super Rares, Secret Rares, Leaders, Specials, and DON!! card. The 35 extra types over the Japanese pool are the second half of the Japanese EB-04 set, which is why the English box is bigger and why counting English cards against the Japanese checklist fails.",
+          "Tournament legality starts 7 days after release in your region, per Bandai's English product page, so both versions are long legal by November 2026. Language is the real divider: the Japanese box is for opening and collecting, the English box is for playing in English-region events and for collectors who want English cards. [One Piece colours explained](/blog/one-piece-card-game-colors-explained/) helps if the seven Leaders pull you in seven directions at once."
+        ]
+      },
+      {
+        "h": "The decision table",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 5, 2026."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Shelf price",
+            "Packs",
+            "Cost per pack",
+            "Cost per card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Japanese single box",
+              "$98.26",
+              "24",
+              "$4.09",
+              "$0.68",
+              "Opening the Warlords set cheaply"
+            ],
+            [
+              "Japanese sealed case (12 boxes)",
+              "$1,179.92",
+              "288",
+              "$4.10",
+              "$0.68",
+              "You want 12 boxes and accept the $0.07 premium"
+            ],
+            [
+              "English single box",
+              "$271.39",
+              "24",
+              "$11.31",
+              "$0.94",
+              "Playing or collecting in English"
+            ],
+            [
+              "English sealed case (12 boxes)",
+              "$2,459.34",
+              "288",
+              "$8.54",
+              "$0.71",
+              "You want 12 English boxes and the $66.44 saving"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss",
+        "paragraphs": [
+          "The strongest OP-14 guides each cover one part of the question well. One chase-card guide gives both release dates, the rarity breakdown, the two Secret Rare names, and dated SNKRDUNK asks for the box and the Buggy variants. One price guide gives the Japanese-versus-English pack comparison across sets. Neither runs the Warehouse case division, and that is the gap this page owns.",
+          "First, no top guide states the Japanese case premium. A buyer reading only chase guides walks in assuming twelve boxes must be cheaper per box, and for OP-14 in Japanese that assumption costs money. Second, no top guide puts the English case saving next to the Japanese case premium in one table, so buyers never see that the case rule points opposite ways in the two languages of the same set.",
+          "Third, one third-party guide prints 120 cards for the English set against the official 163+2 types. Those two figures count different things, base numbering versus card types, and the official product page wins. If a guide's card count disagrees with Bandai's page, trust the page and treat the guide's count as its own counting method, not as a correction."
+        ]
+      },
+      {
+        "h": "Risk: five ways this purchase goes wrong",
+        "paragraphs": [
+          "First, chasing a Mihawk or Crocodile Secret Rare with boxes. No box guarantees either Secret Rare, any Special card, or any named card, and Bandai publishes no pull rates for OP-14. A box is 144 Japanese cards or 288 English cards drawn from a large pool, not a route to one card. Buy the single for the named card.",
+          "Second, buying Japanese for English-region play. Japanese cards do not play in English-region official events, so a $98.26 box that cannot sit on your tournament table is not a bargain. Decide the event language before the box language, not after.",
+          "Third, reseals and fakes. A box priced far below the Warehouse shelf deserves the checks in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/): seal, weight feel, print quality, and seller history, in that order. A deal that skips those checks is not a deal.",
+          "Fourth, the Japanese case premium. Twelve boxes at $1,179.92 is $98.33 a box against a $98.26 single. The premium is seven cents, but the capital tied up is twelve boxes, and the resale of eleven unwanted boxes is a second transaction with its own fees and risk. Only buy the case if twelve boxes are the plan.",
+          "Fifth, price movement. Sealed prices move with demand, reprints, and the next set's release, and a box bought to open has no resale date. [Should you open or keep sealed](/blog/should-you-open-or-keep-sealed-booster-box/) frames the choice honestly: open it because you want the cards, not because a dated ask promised a return."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the set that is two sets",
+        "paragraphs": [
+          "The two versions share the Warlords theme and differ in card pool, code, and price structure. Japanese packs cost 220 yen for six cards, English packs cost $4.99, and the Japanese release preceded the English release by 55 days, November 22, 2025 to January 16, 2026. The English code OP14-EB04 is the giveaway: it is the first half of the EB-04 story in English dress, with the second half landing in the English OP-15 set.",
+          "That split explains the price gap better than any single factor. The English box is not a translated Japanese box; it is a larger product, 163+2 types against 128+1, with a different chase pool and a different per-card figure, $0.94 against $0.68. Compare English boxes against English boxes and Japanese boxes against Japanese boxes, and the ladder reads cleanly: [best Japanese One Piece booster box](/blog/best-japanese-one-piece-booster-box-to-buy/) and [best English One Piece booster box](/blog/best-english-one-piece-booster-box-to-buy/).",
+          "Against its neighbours, the Japanese OP-14 box at $98.26 sits $28.78 above [OP-15](/blog/op-15-adventure-on-kamis-island-buyers-guide/) at $69.48 and $6.74 below [OP-16](/blog/op-16-the-time-of-battle-buyers-guide/) at $105.00. The successor is cheaper to open, the predecessor is dearer, and neither fact changes the OP-14 decision: buy OP-14 for Warlords cards, not because its price sits between two other sets."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who need one named card, for players who need English-legal cards but are tempted by the cheaper Japanese price, or for buyers who need their money back on a date. It is not for collectors who want the English 163+2 pool but buy the Japanese box and then wonder where the extra 35 types went. It is not for case buyers who assume a discount without dividing: in Japanese, OP-14 has none.",
+          "It is for openers who want Warlords Leaders and the Seven Warlords pool at the lowest per-card price on the recent Japanese ladder except OP-15, for English players and collectors who accept the 2.76 times premium for English cards, and for sealed buyers who divide first and buy the English case only when twelve boxes are genuinely wanted."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the language first: Japanese at $98.26 a box or English at $271.39 a box, before any other comparison.",
+          "Check the code: Japanese OP-14 is 128+1 types, English OP14-EB04 is 163+2 types; count the set you actually bought.",
+          "Divide the case: Japanese $1,179.92 / 12 = $98.33 a box, a premium; English $2,459.34 / 12 = $204.95 a box, a saving.",
+          "Check the seal on arrival using the reseal guide, and keep the box sealed until you decide to open or hold.",
+          "Buy the single card for Mihawk, Crocodile, or any named chase; no box guarantees it."
+        ],
+        "h": "Before you buy: the checklist",
+        "paragraphs": [
+          "Run the list in order. Language first, because it changes every price that follows; code second, because the English set is bigger; case division third, because the two languages point opposite ways; seal fourth, because a broken seal ends the sealed argument."
+        ]
+      }
+    ],
+    "slug": "op-14-azure-seas-seven-buyers-guide",
+    "takeaway": [
+      "On November 5, 2026, the Warehouse OP-14 Japanese box costs $98.26, which is $4.09 a pack and $0.68 a card. Buy it to open the Warlords set cheaply, buy the English box at $271.39 or its case at $204.95 a box for English cards, and buy the single for the Mihawk or Crocodile Secret Rare or any named card.",
+      "The case rule breaks in Japanese and holds in English: the Japanese case divides to $98.33 a box, a $0.07 premium over the single, while the English case divides to $204.95 a box, a $66.44 saving. Language first, division second, every time.",
+      "For the successor set, see [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+      "For the predecessor anniversary set, see [OP-13 Carrying on His Will Buyer's Guide](/blog/op-13-carrying-on-his-will-buyers-guide/)."
+    ]
+  },
   "op-15-adventure-on-kamis-island-buyers-guide": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -7878,7 +8215,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 4, 2026, the Warehouse OP-15 Japanese box costs $69.48, which is $2.90 a pack and $0.48 a card. Buy it to open the Skypiea set cheaply, buy the English box at $266.52 or its case at $189.18 a box for English cards, and buy the single for the Enel or Luffy Secret Rare or any named card.",
       "Prices move; the method does not. Choose the language first, check the code second, divide the case third, and never count a set you did not buy.",
-      "For the successor set, see [OP-16 The Time of Battle Buyer's Guide](/blog/op-16-the-time-of-battle-buyers-guide/). For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/)."
+      "For the successor set, see [OP-16 The Time of Battle Buyer's Guide](/blog/op-16-the-time-of-battle-buyers-guide/). For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
+      "For the predecessor set, see [OP-14 Azure Sea's Seven Buyer's Guide](/blog/op-14-azure-seas-seven-buyers-guide/)."
     ]
   },
   "op-16-the-time-of-battle-buyers-guide": {
@@ -8085,7 +8423,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 4, 2026, the Warehouse OP-16 Japanese box costs $105.00, which is $4.38 a pack and $0.73 a card. Buy it to open One Piece cheaply, buy the English case at $160.93 a box only for English boxes in bulk, and buy the single for any named Three Admirals card.",
       "Prices move; the method does not. Choose the language first, divide the case in that language, and never assume a case discounts until the division says so.",
-      "For the successor set, see [OP-17 World's Strongest Warriors Buyer's Guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/). For the preorder successor, see [OP-18 The Dominance of God Preorder Guide](/blog/op-18-the-dominance-of-god-preorder-guide/). For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the predecessor set, see [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/)."
+      "For the successor set, see [OP-17 World's Strongest Warriors Buyer's Guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/). For the preorder successor, see [OP-18 The Dominance of God Preorder Guide](/blog/op-18-the-dominance-of-god-preorder-guide/). For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the predecessor set, see [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/).",
+      "For the earlier Warlords set, see [OP-14 Azure Sea's Seven Buyer's Guide](/blog/op-14-azure-seas-seven-buyers-guide/)."
     ]
   },
   "op-17-worlds-strongest-warriors-buyers-guide": {
