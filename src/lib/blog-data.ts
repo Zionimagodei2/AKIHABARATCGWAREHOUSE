@@ -1676,6 +1676,168 @@ export const POSTS: Record<string, BlogPost> = {
       "For the cheapest rung in depth, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) prices the $70.62 box and the case that costs more per box than a single."
     ]
   },
+  "best-japanese-card-shop-online": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "The one that survives the six checks in this guide: real stock, sealed authenticity, landed cost stated before checkout, honest duty handling, a human who answers, and a written returns policy. No single shop wins for every order — the right route changes with the size of the order and how much risk you can absorb — so run the checks on any shop, including ours, and buy from the one that passes them.",
+        "q": "What is the best Japanese card shop online?"
+      },
+      {
+        "a": "Yes, in most cases. The $800 duty-free de minimis exemption was suspended for every country effective August 29, 2025, and CBP made the suspension indefinite in June 2026, with the statute repealed effective July 1, 2027. Every shipment now needs an entry and owes the duties that apply at any value. Check your own customs authority's current rules before ordering, because rates and paperwork keep moving.",
+        "q": "Do I pay customs duty on Japanese cards shipped to the US now?"
+      },
+      {
+        "a": "Sometimes, on paper. A proxy buys at the Japanese list price, but then adds domestic shipping, a service fee, and international shipping, and the duty lands on you. On our worked example, an OP-15 box listed at about $34.29 in Japan lands at $80.29 through the proxy stack before duty, against a $69.48 shelf price. Run your own numbers with the same stack before you decide the proxy is cheaper.",
+        "q": "Is it cheaper to buy Japanese cards through a proxy?"
+      }
+    ],
+    "h1": "Best Japanese Card Shop Online: The Checks That Actually Matter",
+    "intro": [
+      "The best Japanese card shop online is not the one with the lowest box price. It is the one that passes six checks: it actually holds the stock it lists, it answers for sealed authenticity, its landed cost is stated honestly, and it does not pretend the old $800 duty-free rule still exists, because it does not. Run them on any shop, and buy from the one that survives.",
+      "This guide is for collectors outside Japan buying sealed Japanese boxes and cases who want the product to arrive genuine and the bill to hold no surprises. It is not for anyone chasing the single cheapest listing on the internet regardless of who is selling it, and it is not for buyers who need a card in hand tomorrow, because no honest Japan route delivers that."
+    ],
+    "metaDescription": "The best Japanese card shop online survives six checks: real stock, sealed authenticity, honest landed cost, and duty now that de minimis is dead.",
+    "metaTitle": "Best Japanese Card Shop Online: How to Pick One",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: four kinds of shop, one test",
+        "paragraphs": [
+          "There are four kinds of shop selling Japanese cards to buyers outside Japan. A Japan-based specialist store stocks Japanese product and ships it to you. A proxy lets you buy domestic Japanese listings you could not otherwise reach. An international marketplace connects you with sellers who ship across borders. A local reseller buys Japanese stock and sells it on in your own country. All four deliver genuine product every day. They differ in what the product truly costs by the time it reaches you, who carries the risk when something goes wrong, and how much of your time the route takes.",
+          "The test is the same for all four, and it has six parts: does the shop hold the stock it lists, can it prove a sealed box is sealed, does it state the full landed cost before checkout, does it handle customs paperwork honestly, does it answer when something goes wrong, and does it sell at a price that makes sense once all of that is counted. A shop that fails any one of those is not the cheapest option. It is the most expensive lesson in the hobby, priced as a bargain. The sections below run each check with numbers from our own shelf. Our guide to [buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the three main routes side by side; this guide is the checklist you run against whichever route you choose."
+        ]
+      },
+      {
+        "h": "The money layer: landed cost, worked with real prices",
+        "math": [
+          "OP-15 Japanese list price: ¥5,280 per box (24 packs × ¥220)",
+          "List price in dollars: ¥5,280 ÷ ¥154 per $1 = $34.29",
+          "Our shelf price for the same box: $69.48 (as of November 6, 2026)",
+          "Gap between list and shelf: $69.48 − $34.29 = $35.19",
+          "Proxy stack, clearly labeled hypotheticals: $34.29 + $8 domestic shipping + $10 proxy fee + $28 international shipping = $80.29 landed, before any duty",
+          "Proxy route vs our shelf: $80.29 − $69.48 = $10.81 more than the shelf price, before checkout shipping and duty on either route"
+        ],
+        "paragraphs": [
+          "Start with the number every other guide hides: the landed cost. OP-15 Adventure on Kami's Island lists at ¥220 a pack, which is ¥5,280 a box of 24 packs, or about $34.29 at ¥154 to the dollar. Our shelf price for the same sealed box is $69.48 as of November 6, 2026 — see the [OP-15 box on our shelf](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/). The $35.19 between those two numbers is not markup in the abstract. It is sourcing, shipping, inspection, and a seller who answers for the product.",
+          "Now run the route that looks cheaper. A proxy buys the same box domestically for about $34.29, then the stack starts: domestic shipping inside Japan, a proxy service fee, and international shipping to your door, each a separate charge, each labeled hypothetical here. On the worked example those three add $46, which lands the parcel at $80.29 before any duty — $10.81 more than our shelf price before either route's checkout shipping and duty. The headline saving was $35.19. After the stack it is a loss, and the proxy parcel still carries risks the shelf price already absorbed. That is the whole point of landed cost: the cheapest listing is rarely the cheapest parcel.",
+          "Duty is the part of the stack that changed most recently, and it is where most guides are now wrong. Since August 29, 2025, the United States no longer lets parcels worth $800 or less in duty-free, so every shipment owes the duties that apply, at any value. Budget the duty as a real line in the landed cost, not as a footnote you discover at the border. Our guide to [buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) itemizes the same stack route by route."
+        ]
+      },
+      {
+        "h": "The practical layer: six checks before you pay",
+        "paragraphs": [
+          "Checks one and two are about the product. First, stock that is real: a shop that lists a box should be able to ship it, and a shop that lists twenty-four sets should show you which ones are actually in stock rather than listing everything. Our shelf, as of November 6, 2026, carries every Japanese One Piece set from OP-01 through OP-18 plus the EB and PRB lines, and the price board in our [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) proves it with a current price for each. Second, sealed authenticity: ask how the shop verifies a sealed box before it ships, and what happens if the wrap, the seams, or the weight feel wrong on arrival. If the answer is a shrug, the price is not a bargain. Run every sealed box from a new seller through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you break a seal.",
+          "Checks three and four are about the money. Third, the landed cost in writing: the product price, the shipping at checkout, and the duty situation stated before you pay, not discovered at the border. A shop that quotes a box price and stays silent on shipping and duty is quoting half a price. Fourth, payment protection: a checkout that takes a card or a protected payment method, with a receipt and an order number, beats a direct transfer to a stranger every time, and the difference is worth more than any discount the transfer was buying.",
+          "Checks five and six are about the seller. Fifth, a human who answers: send a question before you order and time the reply, because the reply you get before the sale is the reply you will get after a problem, only slower. Sixth, a returns conversation that exists: not a promise that nothing ever goes wrong, but a stated policy for what happens when it does. A shop with no returns policy has not eliminated returns. It has eliminated your leverage. If a shop fails check five or six, stop comparing prices: you are comparing a seller with a stranger."
+        ]
+      },
+      {
+        "h": "What's missing from every other 'best shop' list",
+        "paragraphs": [
+          "Read the top results for this search and three gaps repeat. First, they rank shops by catalog and price and never run the landed-cost math, so the \"cheapest\" shop in the ranking is often the most expensive parcel once the stack is added. Second, they give you a list of names and no vetting sequence, which leaves a first-time buyer choosing on vibes alone. Third, and most costly, they are out of date on customs: at least one still tells American buyers that packages under $800 enter duty-free, a rule that ended on August 29, 2025 for every country.",
+          "The customs change deserves the detail, because it is the one fact on this page with a date that matters more than a price. For years, Section 321 of the Tariff Act of 1930 let shipments worth $800 or less enter the United States duty-free. Executive Order 14324 suspended that treatment for every country effective August 29, 2025. CBP then made the suspension indefinite through interim final rules published June 24, 2026, and the One Big Beautiful Bill Act repeals the exemption from the statute entirely effective July 1, 2027. The practical meaning is simple: a parcel worth $1 owes the same treatment as a parcel worth $799, and every shipment now needs an entry with a tariff classification. Check your own customs authority's current rules before you order — and treat a shop that still advertises the $800 rule as live as one that has not updated its advice since August 2025."
+        ]
+      },
+      {
+        "h": "The decision layer: the four routes side by side",
+        "paragraphs": [
+          "Read this as a price on your own time and risk tolerance, not as a ranking. All four routes deliver genuine product every day. They send the bill to different places, and the right route depends on what you are buying and how much risk you can absorb. A single box you want to open this weekend belongs on the fastest predictable route. A case you are splitting with friends belongs on the route whose per-box math you have actually run, and the case math in [sealed case vs booster box](/blog/sealed-case-vs-booster-box-the-math/) is the place to run it. A grail single worth hundreds belongs on the route with the strongest authentication, whatever it costs."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Japan specialist store",
+            "Japan marketplace via proxy",
+            "International marketplace",
+            "Local reseller"
+          ],
+          "rows": [
+            [
+              "True cost",
+              "Shelf price plus checkout shipping; sourcing already inside",
+              "Item price plus a four-layer fee stack; customs on you",
+              "List price plus shipping; customs usually on you",
+              "Highest shelf price; no international leg for you"
+            ],
+            [
+              "Fake and reseal risk",
+              "Lowest — the store inspects its own stock and answers for it",
+              "Highest — you buy listings you cannot inspect",
+              "Moderate to high — depends entirely on the seller",
+              "Low if the reseller is established; verify the same way"
+            ],
+            [
+              "Returns",
+              "A real returns conversation with an accountable seller",
+              "Effectively none once the parcel is forwarded",
+              "Platform-dependent, and slow across borders",
+              "Easiest — same country, same language, same law"
+            ],
+            [
+              "Speed",
+              "Fastest predictable — it ships from stock",
+              "Slowest — domestic leg, warehouse wait, then the international leg",
+              "Variable — days to weeks depending on the seller",
+              "Fastest of all — it is already in your country"
+            ],
+            [
+              "Your effort",
+              "Low — order, then track",
+              "High — sourcing, translating, consolidating, tracking",
+              "Moderate — you vet every seller yourself",
+              "Low — but the selection is whatever the reseller chose to stock"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The risk layer: what goes wrong and the recovery",
+        "note": "From the Warehouse counter: plenty of first-time customers arrive here after a parcel from Japan went wrong — a resealed box, a customs surprise, a proxy shipment that cost more than our shelf price by the time it landed. The detail that repeats is that the saving they were chasing was small, usually smaller than the cost of one bad outcome. Cheap routes are fine. Unpriced risk is what turns out to be expensive.",
+        "paragraphs": [
+          "The expensive failures are product failures. Open marketplaces and proxy listings are where resealed boxes and counterfeits circulate, because the seller's accountability ends at the listing photograph. Before any sealed box from a non-store route gets opened, run it through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and keep the tells from our guide on [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) beside it. Japanese Pokémon cards have their own tells, covered in [how to spot fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/). If anything feels wrong, photograph everything before breaking a seal.",
+          "The quiet failures are administrative. A customs bill you did not budget converts a saving into a loss. A parcel consolidated past a storage window accrues fees while you are not looking. A marketplace return across a border can cost more than the item it returns. The recovery protocol is unglamorous: the first order on any new route stays small enough to lose entirely; arrivals are photographed before opening; and every route's total-loss scenario gets priced before the order is placed, not after the parcel is missing. Once the parcel arrives safely, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers what comes next.",
+          "The third failure is the one nobody warns you about: the shop that was fine for boxes and terrible for everything else. Pre-orders are the test case. A shop that takes pre-order money without a stated allocation policy is selling you a queue position, not a box, and the difference shows up on release week. Our guide to [pre-ordering a Japanese booster box or waiting](/blog/preorder-japanese-booster-box-or-wait/) covers the framework, and the live example is the [OP-18 pre-order](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) on our own shelf, priced at $84 as of November 6, 2026. Ask any shop the same question before you pre-order: if the allocation is cut, who gets the box, and when is the money back if I do not."
+        ]
+      },
+      {
+        "h": "Context: Japan first, and what that buys you",
+        "paragraphs": [
+          "Japanese product releases in Japan first, and stock positioned in Japan moves on the Japanese date. OP-17 is the clean recent example: the Japanese release landed August 22, 2026, and the English release followed on August 28, six days later. That gap is why release-week buyers care about route at all: the calendar rewards whoever is closest to Japan. Our [release calendar](/release-calendar/) tracks the confirmed dates, and the next one on it is OP-18 The Dominance of God, releasing November 21, 2026; the [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the pre-order decision against that real set.",
+          "The language gap cuts both ways, and it is the second thing a shop choice decides. Japanese cards are cheaper than their English counterparts for the same set — the Japanese OP-17 box is $121.28 against the English box at $212.09 on the same shelf as of November 6, 2026 — but the cards are in Japanese, and tournament legality depends on the event, not the language. Players who need cards they can read at the table should weigh the [Japanese vs English Pokémon comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) before choosing a language by price alone."
+        ]
+      },
+      {
+        "h": "Who should NOT buy from a Japanese shop",
+        "paragraphs": [
+          "Three groups should stop here. First, anyone who needs the product this week for an event: no honest Japan route guarantees that, and a shop that promises it is promising something it does not control. Buy local, even at the higher price. Second, anyone buying a single card they need to read at the table: buy the language you play in, not the language that is cheaper, because a card you cannot read is a card you cannot play. Third, anyone whose budget only works if the cheapest listing is genuine: if the order only makes sense at the lowest price on the internet, the order does not make sense.",
+          "Who this is for: collectors buying sealed Japanese product they cannot get at home, players building with Japanese cards they can read or have translated, and anyone ordering a case or several boxes where the per-box math rewards the Japan route."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the route: specialist store, proxy, marketplace, or local reseller — and why it fits this order",
+          "Run the landed-cost math: item price plus shipping plus duty, in writing, before checkout",
+          "Verify the stock is real: current prices and availability on the shelf, not a catalog of everything",
+          "Check sealed authenticity: ask how the shop verifies a box, and what happens if it arrives wrong",
+          "Confirm payment protection and a returns policy that exists in writing",
+          "Send a question first and time the reply — it is the reply you will get after a problem",
+          "First order on a new route stays small enough to lose entirely",
+          "Photograph the arrival before opening; open expensive boxes on video"
+        ],
+        "h": "Action layer: the checklist before you pay",
+        "paragraphs": [
+          "Run this in order, before the next order you place. It takes ten minutes and it replaces a month of watching tracking pages with a decision you made while calm."
+        ]
+      }
+    ],
+    "slug": "best-japanese-card-shop-online",
+    "takeaway": [
+      "The best Japanese card shop online is the one that survives the six checks: real stock, sealed authenticity, landed cost in writing, honest duty, a human who answers, and a returns policy that exists. Price is the last check, not the first, because the cheapest listing is the most expensive parcel once the stack is added.",
+      "Prices change and customs rules move, so treat every number here as stamped: store prices and the duty position as of November 6, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second.",
+      "Starting your comparison with a real shelf helps: [our Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) list every box from OP-01 to OP-18 with per-pack math, and [the best Japanese Pokémon booster box to buy](/blog/best-japanese-pokemon-booster-box-to-buy/) does the same for the MEGA era. If you are weighing sealed against singles, read [whether Japanese Pokémon cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget."
+    ]
+  },
   "best-japanese-dragon-ball-fusion-world-booster-box-to-buy": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -1843,6 +2005,336 @@ export const POSTS: Record<string, BlogPost> = {
       "The November 4, 2026 Japanese shelf, one last time: FB08 $26.02 at $1.08 a pack and $0.18 a card, FB07 $27.88 at $1.16 and $0.19, SB01 $57.61 at $2.40 and $0.40, SB02 $57.61 at $2.40 a pack with per-card withheld, and FB09 $64.12 at $2.67 and $0.45. Against them, the English cases: FB07 $132.25 a box, FB08 $204.17, FB09 $402.50, SB02 $793.51, and SB01 $2,242.50, all divided from the same shelf on the same date.",
       "If the question is the English line in full, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve sets from their cases, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) prices the cases themselves. If the question is starting the game rather than collecting it, the [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) sequences the first purchase before the first game. For FB07 in depth, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) prices the Japanese box against the English case and names the case-only English shelf.  For FB08 in depth, the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) prices the cheapest Japanese box against the dearest English case.",
       "Pick the language first, then the set, then divide before you pay. In Japanese, that order costs between $26.02 and $64.12. In English, the same order starts at $132.25 a box inside a case. Knowing which shelf you are standing on is the whole purchase. For the anniversary set in depth, see [FB09 Dual Evolution Buyer's Guide](/blog/fb09-dual-evolution-buyers-guide/)."
+    ]
+  },
+  "best-japanese-one-piece-booster-box-price": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "On our shelf as of November 6, 2026, OP-15 Adventure on Kami's Island at $69.48 a box, or $2.90 a pack across 24 packs. PRB-02 is next at $74.82, or $3.12 a pack. Prices move with allocation and the release calendar, so verify at checkout — the board above is dated for exactly that reason.",
+        "q": "What is the cheapest Japanese One Piece booster box right now?"
+      },
+      {
+        "a": "24 packs of 6 cards. That is the same across the OP main line, the EB Extra Booster line, and the PRB Premium Booster line, which is why the per-pack price on this page is always the box price divided by 24. Sealed cases hold 12 boxes, except PRB-02 at 20 boxes and PRB-01 at 10.",
+        "q": "How many packs are in a Japanese One Piece booster box?"
+      },
+      {
+        "a": "Not always. On our shelf as of November 6, 2026, thirteen of twenty-four cases save money per box and eleven cost the same or more. The biggest saving is OP-02 at $40.97 a box; the biggest penalty is OP-05 at $0.45 more a box. Divide the case price by the box count and compare it against the single-box price every time — never assume the case is a discount.",
+        "q": "Is a sealed case cheaper than buying booster boxes one at a time?"
+      }
+    ],
+    "h1": "Japanese One Piece Booster Box Prices: Every Box on Our Shelf, With the Math",
+    "intro": [
+      "The cheapest Japanese One Piece booster box per pack on our shelf right now is OP-15 Adventure on Kami's Island at $69.48, which is $2.90 a pack across 24 packs. The most expensive is OP-01 Romance Dawn at $238.45, or $9.94 a pack. And the fact that decides more purchases than any price on this page: eleven of the twenty-four sealed cases on our shelf cost the same or more per box than buying the boxes one at a time, so never assume a case is a discount. Every price below is a price on our own shelf as of November 6, 2026, with the division shown.",
+      "This page is for One Piece buyers who want the whole board before they choose a set: collectors comparing sets, players pricing a box to open, and anyone splitting a case who needs the fair per-box number. It is not for anyone buying a single card, because singles are priced card by card and a box price tells you nothing about them, and it is not for anyone who wants a prediction, because no honest page can tell you what these boxes will cost next month."
+    ],
+    "metaDescription": "Every Japanese One Piece booster box price on our shelf as of November 6, 2026 — box price, per-pack math, and the cases that cost more than singles.",
+    "metaTitle": "Japanese One Piece Booster Box Prices: Full Board",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: the cheapest box per pack right now",
+        "paragraphs": [
+          "OP-15 Adventure on Kami's Island is the cheapest Japanese One Piece box per pack on our shelf: $69.48 for 24 packs, which is $2.90 a pack. Next is PRB-02 The Best vol.2 at $74.82, or $3.12 a pack, then the OP-18 pre-order at $84, or $3.50 a pack, and EB-04 Egghead Crisis at $91.03, or $3.79 a pack. Those four are the value end of the board, and they are all recent sets: OP-15 released February 28, 2026, EB-04 on January 31, 2026, and OP-18 is the current pre-order, releasing November 21, 2026.",
+          "At the other end, OP-01 Romance Dawn is $238.45 a box, or $9.94 a pack, and OP-02 Paramount War is $206.42, or $8.60 a pack. Both are out-of-print 2022 sets, and their prices are scarcity prices, not play prices: the packs inside are worth more unopened than opened. Between those poles sits the middle of the board, where most buying actually happens: OP-08, OP-10, and OP-14 at $98.26, or $4.09 a pack, and OP-16 at $105, or $4.38 a pack. The full board is in the next section, and the decision table after it turns the board into a choice."
+        ]
+      },
+      {
+        "h": "The money layer: the full price board",
+        "math": [
+          "Per pack: box price ÷ 24 packs (every Japanese One Piece box holds 24 packs of 6 cards)",
+          "Cheapest per pack: $69.48 ÷ 24 = $2.90 per pack (OP-15)",
+          "Most expensive per pack: $238.45 ÷ 24 = $9.94 per pack (OP-01)",
+          "OP-18 pre-order: $84.00 ÷ 24 = $3.50 per pack; case $906 ÷ 12 boxes = $75.50 per box, or $3.15 per pack",
+          "Case saving, OP-02: $206.42 − $165.45 = $40.97 per box; across 12 boxes, $491.64",
+          "Case penalty, OP-17: $121.50 − $121.28 = $0.22 more per box; across 12 boxes, $2.64 more than singles",
+          "OP-18 price move: $84.00 now vs $70.00 on October 20, 2026 = $14.00 higher, a 20% rise before release"
+        ],
+        "paragraphs": [
+          "Every Japanese One Piece booster box holds 24 packs of 6 cards, so the only division that matters is the box price divided by 24. The table above runs it for all twenty-four Japanese boxes on our shelf, with the sealed-case price divided down to a per-box number beside it. Two patterns jump out. First, the per-pack spread is more than three to one: $2.90 a pack for OP-15 against $9.94 for OP-01. Second, the case column does not behave the way most buyers expect: thirteen cases save money per box, and eleven cost the same or more.",
+          "The biggest case saving on the board is OP-02 Paramount War: $40.97 a box, or $491.64 across a full case of twelve, against buying the same twelve boxes one at a time. OP-03 saves $35.13 a box, and the OP-18 pre-order case saves $8.50 a box. The penalties are small in dollars and large in principle: OP-17's case costs $0.22 more per box than a single, OP-05's costs $0.45 more, and OP-08, OP-10, and OP-14 each cost $0.07 more. A case is priced as its own product, not as twelve singles minus a bulk discount, and on this shelf the case price sometimes carries its own collector premium. The only safe habit is the one in the table: divide every time. Our breakdown of [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across games.",
+          "One price on the board moved while this page was being written, and it is worth naming because it is the market working in public. OP-18's pre-order box was $70 on October 20, 2026, and is $84 as of November 6, 2026, a $14 rise, or 20%, with the release still two weeks away. The case moved with it, from $755 to $906. Pre-order prices are set while demand is still uncertain, and they move as the release approaches and allocation tightens. If you are deciding whether to pre-order, our framework in [pre-order a Japanese booster box or wait](/blog/preorder-japanese-booster-box-or-wait/) is the place to run the decision."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Box price",
+            "Per pack",
+            "Case per box",
+            "Case vs single"
+          ],
+          "rows": [
+            [
+              "OP-01 Romance Dawn",
+              "$238.45",
+              "$9.94",
+              "$233.46",
+              "Saves $4.99 a box"
+            ],
+            [
+              "OP-02 Paramount War",
+              "$206.42",
+              "$8.60",
+              "$165.45",
+              "Saves $40.97 a box"
+            ],
+            [
+              "OP-03 Pillars of Strength",
+              "$175.78",
+              "$7.32",
+              "$140.65",
+              "Saves $35.13 a box"
+            ],
+            [
+              "OP-04 Kingdoms of Intrigue",
+              "$186.59",
+              "$7.77",
+              "$186.12",
+              "Saves $0.47 a box"
+            ],
+            [
+              "OP-05 Awakening of the New Era",
+              "$186.61",
+              "$7.78",
+              "$187.06",
+              "Costs $0.45 MORE a box"
+            ],
+            [
+              "OP-06 Wings of the Captain",
+              "$165.86",
+              "$6.91",
+              "$165.51",
+              "Saves $0.35 a box"
+            ],
+            [
+              "OP-07 500 Years in the Future",
+              "$134.32",
+              "$5.60",
+              "$134.44",
+              "Costs $0.12 MORE a box"
+            ],
+            [
+              "OP-08 Two Legends",
+              "$98.26",
+              "$4.09",
+              "$98.33",
+              "Costs $0.07 MORE a box"
+            ],
+            [
+              "OP-09 Emperors in the New World",
+              "$175.78",
+              "$7.32",
+              "$175.82",
+              "Costs $0.04 MORE a box"
+            ],
+            [
+              "OP-10 Royal Blood",
+              "$98.26",
+              "$4.09",
+              "$98.33",
+              "Costs $0.07 MORE a box"
+            ],
+            [
+              "OP-11 A Fist of Divine Speed",
+              "$181.21",
+              "$7.55",
+              "$178.99",
+              "Saves $2.22 a box"
+            ],
+            [
+              "OP-12 Legacy of the Master",
+              "$129.79",
+              "$5.41",
+              "$129.25",
+              "Saves $0.54 a box"
+            ],
+            [
+              "OP-13 Carrying on His Will",
+              "$135.00",
+              "$5.63",
+              "$135.03",
+              "Costs $0.03 MORE a box"
+            ],
+            [
+              "OP-14 The Azure Sea's Seven",
+              "$98.26",
+              "$4.09",
+              "$98.33",
+              "Costs $0.07 MORE a box"
+            ],
+            [
+              "OP-15 Adventure on Kami's Island",
+              "$69.48",
+              "$2.90",
+              "$68.00",
+              "Saves $1.48 a box"
+            ],
+            [
+              "OP-16 The Time of Battle",
+              "$105.00",
+              "$4.38",
+              "$105.09",
+              "Costs $0.09 MORE a box"
+            ],
+            [
+              "OP-17 The World's Strongest Warriors",
+              "$121.28",
+              "$5.05",
+              "$121.50",
+              "Costs $0.22 MORE a box"
+            ],
+            [
+              "OP-18 The Dominance of God (pre-order)",
+              "$84.00",
+              "$3.50",
+              "$75.50",
+              "Saves $8.50 a box"
+            ],
+            [
+              "EB-01 Memorial Collection",
+              "$155.04",
+              "$6.46",
+              "$155.13",
+              "Costs $0.09 MORE a box"
+            ],
+            [
+              "EB-02 Anime 25th Collection",
+              "$178.86",
+              "$7.45",
+              "$175.68",
+              "Saves $3.18 a box"
+            ],
+            [
+              "EB-03 Heroines Edition",
+              "$155.04",
+              "$6.46",
+              "$155.13",
+              "Costs $0.09 MORE a box"
+            ],
+            [
+              "EB-04 Egghead Crisis",
+              "$91.03",
+              "$3.79",
+              "$90.50",
+              "Saves $0.53 a box"
+            ],
+            [
+              "PRB-01 The Best",
+              "$149.63",
+              "$6.23",
+              "$148.96",
+              "Saves $0.67 a box"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "$74.82",
+              "$3.12",
+              "$74.48",
+              "Saves $0.34 a box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: three buyers, three picks",
+        "paragraphs": [
+          "The board is data. The table is a decision. Pick the row that matches the buyer you actually are, not the buyer you wish you were, and the set follows. A player who wants packs to open should buy the cheapest per-pack box and enjoy it. A collector holding sealed should buy the case where the case actually discounts, which on this board is OP-02, OP-03, and OP-18, and nowhere else by more than a few dollars. A first-time buyer should start with PRB-02, the game's best cards at $3.12 a pack without the early sets' scarcity premium.",
+          "The row that is missing is the flipper's row, deliberately. Buying a box to resell it in release week means competing against every store's launch stock with a single box and no edge, and the board punishes that lane twice: the pre-order price moves before release, as OP-18 just showed, and the settled price after release is usually below the spike. If the plan needs the price to keep rising to work, the plan is the risk."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Best pick",
+            "Why",
+            "Watch out"
+          ],
+          "rows": [
+            [
+              "Cheapest packs to open",
+              "OP-15 at $2.90 a pack",
+              "Lowest per-pack price on the board, recent set, in stock",
+              "A new set's singles are cheap too — opening is for fun, not profit"
+            ],
+            [
+              "Pre-order value",
+              "OP-18 case at $75.50 a box",
+              "Biggest case saving among current product, and the price is already rising",
+              "Pre-order prices move; the $70 price from October is gone"
+            ],
+            [
+              "Collector, sealed hold",
+              "OP-02 case at $165.45 a box",
+              "Largest case discount on the board, out-of-print 2022 set",
+              "Old sealed stock needs the reseal checks before you trust the wrap"
+            ],
+            [
+              "First One Piece box",
+              "PRB-02 at $3.12 a pack",
+              "Reprint set with the game's best cards, low entry price",
+              "Reprint sets do not carry the same chase as a mainline set"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other price pages",
+        "paragraphs": [
+          "The top results for this search fall into two kinds, and both leave the buyer short. The first kind quotes eBay medians and completed-sale prices, which tell you what strangers paid each other last month, not what a sealed box costs from a store that will answer for it today. The second kind lists one shop's prices with no per-pack math and no case column, which leaves the two divisions that actually decide a purchase to the reader. ",
+          "This page is built to fill exactly those gaps: one store's actual in-stock shelf prices, dated November 6, 2026, every box divided to a per-pack price, every case divided to a per-box price, and the eleven cases that cost more than singles named in plain text. It is not a market index and does not pretend to be one. It is a shelf with the arithmetic done, which is the only version of a price page a buyer can actually act on. When the prices move, the page is re-dated."
+        ]
+      },
+      {
+        "h": "The practical layer: reading the board",
+        "paragraphs": [
+          "Three lines make up the board, and they are not the same product. The OP line is the main series, OP-01 Romance Dawn through OP-18 The Dominance of God, twenty-four packs a box, six cards a pack, and the line where the game's meta lives. The EB line is the Extra Booster series, smaller sets built around a theme: EB-01 Memorial Collection, EB-02 Anime 25th Collection, EB-03 Heroines Edition, and EB-04 Egghead Crisis. The PRB line is the Premium Booster reprint series, PRB-01 and PRB-02, which reprint the best cards from across the game at a lower entry price. The [EB-03 buyers guide](/blog/eb-03-heroines-edition-buyers-guide/) and [EB-04 buyers guide](/blog/eb-04-egghead-crisis-buyers-guide/) cover the recent Extra Boosters, and [PRB-01 vs PRB-02](/blog/prb-01-vs-prb-02-which-to-buy/) compares the reprint sets.",
+          "The dates that matter are the recent ones, because they explain the bottom of the board. OP-15 released February 28, 2026, OP-16 on May 30, 2026, and OP-17 on August 22, 2026, each at a Japanese list price of ¥220 or ¥240 a pack, which is ¥5,280 or ¥5,760 a box. Those are Japanese retail prices at release; our shelf prices sit above them because a shelf price carries sourcing, shipping, and allocation, which the list price does not. EB-05 Heroines Edition vol.2, the next Extra Booster, released October 31, 2026, and its English case is already on our shelf; the Japanese box is not listed yet, and this page will add it when it is.",
+          "If you are buying to play rather than to collect, the board is only half the question. Japanese cards are cheaper than their English counterparts for the same set, but they are in Japanese, and the cards you can read at the table matter more than the price per pack. Our guide to [which One Piece booster box to buy](/blog/best-one-piece-booster-box-to-buy/) weighs the English board against the Japanese one, and [how to build your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) turns a box into something you can actually play."
+        ]
+      },
+      {
+        "h": "The risk layer: prices move, and old sets carry extra risk",
+        "note": "From the Warehouse counter: the question we get most about the old sets is whether the price on the board is real, because a 2022 box at $238 looks like a misprint next to a 2026 box at $69. It is real, and it is the scarcity, not the cards. The second question is whether the case discount is real, and that one we answer by dividing in front of the customer, because eleven of our twenty-four cases cost more per box than singles, and nobody believes that until they see the division.",
+        "paragraphs": [
+          "Prices on this board are a photograph, not a promise. OP-18 moved 20% in seventeen days, and the rest of the board moves with allocation, restocks, and the release calendar. A price you read today is a price you should verify at checkout, and a price you remember from last month is a price you should forget. The recovery when a price moves against you is the same as in our pre-order framework: decide in advance the most you will pay, and walk away cleanly if the market passes it.",
+          "Old sets carry a second risk that new sets do not: reseals. A sealed OP-01 box is worth enough that the wrap itself is worth faking. Before any sealed box from a non-store route gets opened, run it through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/), and photograph everything before breaking a seal.",
+          "The third risk is the one buyers inflict on themselves: buying the most expensive box because it is the most expensive, on the theory that price equals quality. It does not. OP-01 is expensive because it is scarce, not because its packs are better, and a buyer who opens it is spending $9.94 a pack on cards that are mostly worth less than the pack. If you want the cards, buy the singles. If you want the packs, buy the cheapest per-pack box. If you want the sealed history, buy the box and do not open it."
+        ]
+      },
+      {
+        "h": "Context: Japanese list price vs shelf price",
+        "paragraphs": [
+          "A fair question about this board is why the shelf prices are so far above the Japanese list prices, and the honest answer has three parts. First, the list price is the Japanese retail price at release, before the box leaves Japan: OP-15 and OP-16 list at ¥5,280 a box, about $34 at ¥154 to the dollar, and OP-17 and OP-18 at ¥5,760, about $37. Second, a shelf price outside Japan carries Japan-side sourcing, domestic handling, international shipping, and inspection, which the list price does not. Third, and largest on the old sets, the market: once a set is out of print, the price is set by scarcity, not by the list price, which is why OP-01 sits at $238.45.",
+          "The same three parts explain why our prices differ from the eBay medians quoted elsewhere. An eBay median is the middle of what strangers paid each other, including private sellers, damaged boxes, and listings that may not be what they claim. A shelf price is a sealed box from a store that inspects its stock and answers for it, with the shipping and handling already inside the number. They are two different purchases, and the board above is the second one. For the full landed-cost picture, read [buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) and [the best Japanese card shop online](/blog/best-japanese-card-shop-online/)."
+        ]
+      },
+      {
+        "h": "Who should NOT buy by price alone",
+        "paragraphs": [
+          "Three groups should stop here. First, anyone buying a single card they need for a deck: a box price tells you nothing about a single, and the cheapest way to get one card is to buy that card, not twenty-four packs that might contain it. Second, anyone who needs the cards in English for tournament play: the Japanese board is the wrong board, and the English board in [the best English One Piece booster box to buy](/blog/best-english-one-piece-booster-box-to-buy/) is the one to read. Third, anyone whose budget only works if the box pays for itself in pulls: it almost certainly will not, and the [investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) reaches the same conclusion for Pokémon.",
+          "Who this page is for: collectors comparing sets before they choose, players pricing a box to open with friends, and anyone splitting a case who needs the fair per-box number before the money moves. For those buyers, the board is the whole decision, and the decision table above is how to read it."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick your buyer row in the decision table before you pick a set",
+          "Divide the box price by 24 for the per-pack price; divide the case price by the box count for the per-box price",
+          "Compare the case per-box price against the single-box price — eleven of twenty-four cases cost more",
+          "Check the price is dated: this board is November 6, 2026, and prices move",
+          "If pre-ordering OP-18, confirm the allocation and cancellation policy before paying",
+          "If buying an old set, run the reseal checks before breaking the seal",
+          "Buy the language you play in, not the language that is cheaper"
+        ],
+        "h": "Action layer: the checklist",
+        "paragraphs": [
+          "Run this in order, before the next box you buy. It takes five minutes and it replaces an afternoon of comparing listings with a decision you made while calm."
+        ]
+      }
+    ],
+    "slug": "best-japanese-one-piece-booster-box-price",
+    "takeaway": [
+      "The cheapest Japanese One Piece box per pack on our shelf is OP-15 at $2.90, the most expensive is OP-01 at $9.94, and the case is not automatically the deal: eleven of twenty-four cases cost the same or more per box than singles. Divide every time, and buy the row that matches the buyer you actually are.",
+      "Prices change and allocations move, so treat every number here as stamped: store prices as of November 6, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second — in that order, every time.",
+      "Comparing across games? [The best Japanese Pokémon booster box to buy](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the same board for the MEGA era, and [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) covers how to choose the shop itself, including the duty position now that the $800 exemption is gone."
     ]
   },
   "best-japanese-one-piece-booster-box-to-buy": {
@@ -2242,7 +2734,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the collector's set in depth, see [OP-05 Awakening of the New Era Buyer's Guide](/blog/op-05-awakening-of-the-new-era-buyers-guide/).",
       "For the Dressrosa set in depth, see [OP-04 Kingdoms of Intrigue Buyer's Guide](/blog/op-04-kingdoms-of-intrigue-buyers-guide/).",
       "For the Marineford set in depth, see [OP-02 Paramount War Buyer's Guide](/blog/op-02-paramount-war-buyers-guide/).",
-      "For the Heroines set in depth, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/)."
+      "For the Heroines set in depth, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/).",
+      "For the full shelf with every box divided to a per-pack price and every case divided to a per-box price, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) — including the eleven cases that cost more than singles."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -4099,7 +4592,7 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "buying-tcg-from-japan-shipping-customs-proxy",
     "takeaway": [
       "Buying TCG from Japan is not a shortcut around cost; it is a choice about where cost and risk sit. Proxies move both onto you and call the difference savings. Marketplaces split them unpredictably. A specialist store prices them into the shelf and answers for them. Any of the three can be the right answer — for a buyer who has written the stack down, priced the total-loss case, and checked their own customs rules first.",
-      "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box.",
+      "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box. Choosing the shop itself is a separate decision: [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) runs the six checks — real stock, sealed authenticity, landed cost, and the duty position now that de minimis is dead.",
       "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes."
     ]
   },
@@ -11485,7 +11978,7 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "op-18-the-dominance-of-god-preorder-guide",
     "takeaway": [
       "OP-18's pre-order case is unusually clean: a verified November 20, 2026 release, a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first. For the full English back catalogue, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
-      "For the whole Japanese shelf around this pre-order, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack, with OP-18 second-cheapest at $3.50 per pack."
+      "For the whole Japanese shelf around this pre-order, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack, with OP-18 second-cheapest at $3.50 per pack. For the price of every other Japanese box on the shelf beside OP-18, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/)."
     ]
   },
   "prb-01-vs-prb-02-which-to-buy": {
@@ -11820,7 +12313,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Pre-order the sets you would regret missing, wait on the routine ones, and never pay the release-week spike. The per-pack math tells you what a price actually is; the signals checklist tells you which lane a set belongs in; the regret question tells you who you are as a buyer. Everything else is noise with a price tag attached.",
       "Prices change and allocations move, so treat every number here as stamped: store prices as of October 20, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second — in that order, every time.",
-      "Deciding where to place the order matters as much as when: [buying TCG from Japan — shipping, customs, and the proxy fee stack](/blog/buying-tcg-from-japan-shipping-customs-proxy/) shows what each route really costs landed. If you're pre-ordering with one eye on future value, read [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. And when comparing two sets' pre-order prices, divide first — [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with.",
+      "Deciding where to place the order matters as much as when: [buying TCG from Japan — shipping, customs, and the proxy fee stack](/blog/buying-tcg-from-japan-shipping-customs-proxy/) shows what each route really costs landed. If you're pre-ordering with one eye on future value, read [whether Japanese cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. And when comparing two sets' pre-order prices, divide first — [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with. And when the shop itself is the question, [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) runs the six checks that separate a seller from a stranger with a listing.",
       "Applying this framework to a live release? The [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs it against a real set with real case math — including when the case is the deal and when it quietly is not."
     ]
   },
