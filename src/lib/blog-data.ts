@@ -1035,7 +1035,289 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our English case prices as of November 3, 2026. When FB12 ships in December, re-run the division — the pre-order price undercutting FB11 today may not survive contact with release week.",
       "Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. If the seal starts calling once a case lands, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New to the game itself? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) teaches the rules before you spend case money on them, and [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with for every other set on the shelf. For the original Dragon Ball game, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all 13 Masters sealed cases per box and per pack. Buying the case itself, not just the box? The [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) covers twelve-box split math, the FB12 pre-order gap, and the Manga art prices.",
-      "For the Japanese singles behind these English cases, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices FB07, FB08, FB09, and both Manga Boosters from $26.02, with the English case gaps divided alongside."
+      "For the Japanese singles behind these English cases, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices FB07, FB08, FB09, and both Manga Boosters from $26.02, with the English case gaps divided alongside.",
+      "New this cycle: the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) answers the Japanese question directly — Japanese singles from $26.02, English cases divided to the pack, and why we do not sell a sealed Japanese box."
+    ]
+  },
+  "best-dragon-ball-fusion-world-japanese": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "No. The Warehouse does not stock sealed Japanese Fusion World boxes as of November 6, 2026. What we stock in Japanese is one single card per set: FB07 at $27.88, FB08 at $26.02, FB09 at $64.12, and SB01 and SB02 at $57.61 each. Sealed Fusion World on our shelf is English cases only, twelve boxes to a case. If a listing elsewhere offers a sealed Japanese box far below the ¥5,280 list price, treat it as a warning, not a bargain.",
+        "q": "Can I buy a sealed Japanese Dragon Ball Fusion World box from the Warehouse?"
+      },
+      {
+        "a": "Six cards, against twelve in the English pack. A Japanese box holds 24 packs of 6 cards, 144 cards, at a ¥220 list price per pack and ¥5,280 per box. An English box holds 24 packs of 12 cards, 288 cards. The Japanese pack is half the cards at less than half the English shelf price per pack, which is why the per-card division matters more than the per-pack one. [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with.",
+        "q": "How many cards are in a Japanese Dragon Ball Fusion World pack?"
+      },
+      {
+        "a": "For opening, the English FB04 case at $106.61 a box, $4.44 a pack. For a Japanese card, the FB08 single at $26.02 is the cheapest Japanese Fusion World item on the shelf, and the FB09 single at $64.12 is the dearest, which tracks the set: FB09 is the 2nd anniversary set with the first Leader double-star cards. For a sealed hold, FB01 at $369.15 a box and FB09 at $402.50 are the scarcity tier, and both are English cases. The [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the same shelf set by set.",
+        "q": "What is the best Japanese Dragon Ball Fusion World product to buy first?"
+      }
+    ],
+    "h1": "Best Japanese Dragon Ball Fusion World to Buy",
+    "intro": [
+      "The best Japanese Dragon Ball Fusion World buy depends on what Japanese means to you. If it means Japanese cards, the answer is a single card: FB08 at $26.02 is the cheapest Japanese Fusion World item on our shelf, and FB09 at $64.12 is the dearest. If it means opening packs, the answer is an English case, because the Warehouse does not sell sealed Japanese Fusion World boxes, and the cheapest English box is FB04 at $106.61, or $4.44 a pack. Prices as of November 6, 2026.",
+      "This guide is for buyers who searched for Japanese Fusion World and want the honest shelf answer instead of a yen price list they cannot pay. It is not for anyone who needs a sealed Japanese box today, because we do not stock one, and it is not for players who need cards for sanctioned English-region events, because Japanese cards are not legal there. The [Dragon Ball Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) covers how the game plays; this guide covers what to buy."
+    ],
+    "metaDescription": "Best Japanese Dragon Ball Fusion World buys: Japanese singles from $26.02, English cases divided to the pack, and the Japanese box math nobody prints.",
+    "metaTitle": "Best Japanese Dragon Ball Fusion World to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: the best Japanese Fusion World buy is not a Japanese box",
+        "paragraphs": [
+          "Start with the fact every other guide skips. The Warehouse sells Fusion World two ways: sealed English cases, twelve boxes to a case, across FB01 to FB12 plus both Manga Boosters, and Japanese single cards, one listing per set. There is no sealed Japanese Fusion World box on the shelf. A buyer looking for a Japanese box has three honest options: buy the Japanese single, buy the English case, or wait for a listing that does not exist yet.",
+          "That split decides the whole guide. For the collector who wants Japanese cards: FB08 Saiyan's Pride at $26.02, FB07 Wish for Shenron at $27.88, SB01 and SB02 at $57.61 each, and FB09 Dual Evolution at $64.12. For the opener, the value tier is FB04 Ultra Limit at $106.61 a box, FB02 Blazing Aura at $111.08, and FB05 New Adventure at $111.73. For the sealed holder, the scarcity tier is FB01 Awakened Pulse at $369.15 a box and FB09 at $402.50. The [FB09 Japanese single](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) is the dearest of the five.",
+          "The trap is the middle option buyers invent for themselves: a sealed Japanese box from a marketplace at a price that looks like a discount on the ¥5,280 list. A Japanese box lists at ¥5,280 for 24 packs of 6 cards, and any sealed Japanese box offered far below that list is either not what it claims to be or not sealed at all. The [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) runs the same division for the case buyer."
+        ]
+      },
+      {
+        "h": "The money layer: every case divided, and the Japanese box in yen",
+        "math": [
+          "FB04 Ultra Limit per box: $1,279.26 ÷ 12 boxes = $106.61 per box",
+          "FB04 Ultra Limit per pack: $106.61 ÷ 24 packs = $4.44 per pack",
+          "FB02 Blazing Aura per pack: $1,332.92 ÷ 12 boxes = $111.08 per box; $111.08 ÷ 24 packs = $4.63 per pack",
+          "FB05 New Adventure per pack: $1,340.70 ÷ 12 boxes = $111.73 per box; $111.73 ÷ 24 packs = $4.66 per pack",
+          "FB12 Reach the God per pack: $1,518.00 ÷ 12 boxes = $126.50 per box; $126.50 ÷ 24 packs = $5.27 per pack",
+          "FB07 Wish for Shenron per pack: $1,587.00 ÷ 12 boxes = $132.25 per box; $132.25 ÷ 24 packs = $5.51 per pack",
+          "FB08 Saiyan's Pride per pack: $2,450.08 ÷ 12 boxes = $204.17 per box; $204.17 ÷ 24 packs = $8.51 per pack",
+          "FB09 Dual Evolution per pack: $4,830.00 ÷ 12 boxes = $402.50 per box; $402.50 ÷ 24 packs = $16.77 per pack",
+          "FB01 Awakened Pulse per pack: $4,429.80 ÷ 12 boxes = $369.15 per box; $369.15 ÷ 24 packs = $15.38 per pack",
+          "SB01 Manga Booster 01 per pack: $26,910.00 ÷ 12 boxes = $2,242.50 per box; $2,242.50 ÷ 24 packs = $93.44 per pack",
+          "SB02 Manga Booster 02 per pack: $9,522.14 ÷ 12 boxes = $793.51 per box; $793.51 ÷ 24 packs = $33.06 per pack",
+          "Japanese box list: 24 packs × 6 cards = 144 cards per box",
+          "Japanese box list per pack: ¥5,280 ÷ 24 packs = ¥220 per pack",
+          "Japanese box list per card: ¥5,280 ÷ 144 cards = ¥36.67 per card",
+          "English FB12 per card: $5.27 ÷ 12 cards = $0.44 per card",
+          "Japanese singles spread: $64.12 − $26.02 = $38.10 from cheapest to dearest"
+        ],
+        "paragraphs": [
+          "The table below is the whole Fusion World shelf in one place: every English case divided to the box and the pack, plus the five Japanese singles with their set prices. Every English case holds 12 boxes, every English box holds 24 packs of 12 cards, and every Japanese box holds 24 packs of 6 cards. The per-pack column decides an opener's buy; the per-box column decides a holder's buy. The [FB04 Ultra Limit case](/product/dragon-ball-super-fusion-world-fb04-ultra-limit-booster-box-sealed-case-english/) is the value-tier buy, and the [FB12 Reach the God case](/product/dragon-ball-super-fusion-world-fb12-reach-the-god-booster-box-sealed-case-englis/) is the newest-set buy.",
+          "Two patterns jump out. First, the English ladder has three tiers: the value tier at $4.44 to $5.27 a pack, the mid tier at $5.51 to $8.86, and the scarcity tier at $15.38 and $16.77. FB12, the newest set, is cheaper per pack than FB11, FB10, and FB08, the opposite of the usual newest-set premium and the most useful fact on this page for a new-set buyer. Second, the Japanese singles do not follow the English ladder: FB09 is the dearest Japanese single at $64.12 and its English case is also the dearest mainline case, but FB08 is the cheapest Japanese single at $26.02 while its English case sits mid-ladder at $204.17 a box.",
+          "The third pattern is the card-count gap. A Japanese box holds 144 cards and an English box holds 288, so a Japanese pack at its ¥220 list is 6 cards and an English pack on our shelf is 12 cards at $4.44 to $16.77. The Japanese list price per card is ¥36.67, and the English FB12 shelf price per card is $0.44. Those two numbers are in different currencies and cannot be compared without a conversion rate, which is why guides that rank Japanese boxes in yen and English boxes in dollars without saying so compare two different things.",
+          "The Manga Boosters sit outside the ladder on purpose. SB01 at $2,242.50 a box and SB02 at $793.51 a box are not comparable products: every card in SB01 carries a premium holofoil finish with Akira Toriyama manga-panel art, and the set celebrates the franchise's 40th anniversary. The [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) carries the full twelve-set ladder."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Shelf price",
+            "Per box",
+            "Per pack"
+          ],
+          "rows": [
+            [
+              "FB04 Ultra Limit case (EN)",
+              "$1,279.26",
+              "$106.61",
+              "$4.44"
+            ],
+            [
+              "FB02 Blazing Aura case (EN)",
+              "$1,332.92",
+              "$111.08",
+              "$4.63"
+            ],
+            [
+              "FB05 New Adventure case (EN)",
+              "$1,340.70",
+              "$111.73",
+              "$4.66"
+            ],
+            [
+              "FB12 Reach the God case (EN)",
+              "$1,518.00",
+              "$126.50",
+              "$5.27"
+            ],
+            [
+              "FB07 Wish for Shenron case (EN)",
+              "$1,587.00",
+              "$132.25",
+              "$5.51"
+            ],
+            [
+              "FB10 Cross Force case (EN)",
+              "$2,333.57",
+              "$194.46",
+              "$8.10"
+            ],
+            [
+              "FB08 Saiyan's Pride case (EN)",
+              "$2,450.08",
+              "$204.17",
+              "$8.51"
+            ],
+            [
+              "FB11 Brightness of Hope case (EN)",
+              "$2,553.00",
+              "$212.75",
+              "$8.86"
+            ],
+            [
+              "FB01 Awakened Pulse case (EN)",
+              "$4,429.80",
+              "$369.15",
+              "$15.38"
+            ],
+            [
+              "FB09 Dual Evolution case (EN)",
+              "$4,830.00",
+              "$402.50",
+              "$16.77"
+            ],
+            [
+              "SB02 Manga Booster 02 case (EN)",
+              "$9,522.14",
+              "$793.51",
+              "$33.06"
+            ],
+            [
+              "SB01 Manga Booster 01 case (EN)",
+              "$26,910.00",
+              "$2,242.50",
+              "$93.44"
+            ],
+            [
+              "FB08 Japanese single",
+              "$26.02",
+              "Single card",
+              "—"
+            ],
+            [
+              "FB07 Japanese single",
+              "$27.88",
+              "Single card",
+              "—"
+            ],
+            [
+              "SB01 Japanese single",
+              "$57.61",
+              "Single card",
+              "—"
+            ],
+            [
+              "SB02 Japanese single",
+              "$57.61",
+              "Single card",
+              "—"
+            ],
+            [
+              "FB09 Japanese single",
+              "$64.12",
+              "Single card",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: four buyers, four Japanese picks",
+        "paragraphs": [
+          "Match the buyer first, then the product. The table below is the shortlist; the money layer above is the evidence behind it.",
+          "The Japanese collector wants Japanese cards and does not need packs: FB08 at $26.02 is the cheapest way onto the shelf, and FB09 at $64.12 is the dearest single because it is the 2nd anniversary set. The opener wants packs and does not care about the language on the box: FB04 at $4.44 a pack. The new-set buyer wants the latest release without the newest-set premium: FB12 at $5.27 a pack, shipping December 18, 2026, so it is a pre-order, not stock in hand. The sealed holder wants the sets whose price already reflects scarcity: FB01 and FB09, both English cases, both above $15 a pack."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Japanese collector",
+              "FB08 Japanese single",
+              "$26.02",
+              "Cheapest Japanese card"
+            ],
+            [
+              "Japanese collector, anniversary",
+              "FB09 Japanese single",
+              "$64.12",
+              "2nd anniversary set"
+            ],
+            [
+              "Opener",
+              "FB04 case (EN)",
+              "$1,279.26",
+              "$4.44 a pack"
+            ],
+            [
+              "New-set buyer",
+              "FB12 case (EN)",
+              "$1,518.00",
+              "$5.27 a pack, Dec 18"
+            ],
+            [
+              "Sealed holder",
+              "FB09 case (EN)",
+              "$4,830.00",
+              "$16.77 a pack, scarcity"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other Japanese Fusion World guides",
+        "note": "From the Warehouse: the question we get most about Japanese Fusion World is whether we sell the Japanese box, because every guide a buyer reads ranks Japanese boxes in yen and assumes the box is buyable. It is not buyable from us, and we would rather say that in the first paragraph than let a buyer reach checkout and find it out there.",
+        "paragraphs": [
+          "The top guides for Japanese Fusion World share one gap: they rank Japanese boxes by yen market price and never say where, or whether, the box can be bought. SNKRDUNK's box price guide ranks all twelve mainline boxes by its own market data, with Manga Booster 01 at the top and FB07 among the dearest, and it does that job well. Samurai Sword's Japanese booster box guide covers FB-01 to FB-10 with set facts from Bandai's official pages, and it does that job well. But neither divides an English case against a Japanese box, neither prints a USD shelf price the buyer can actually pay, and neither says the Japanese box differs from the English box where it matters most to an opener: six cards a pack against twelve.",
+          "That single-language view hides two findings. First, the per-card gap: a Japanese box holds 144 cards and an English box holds 288, so the pack price alone tells a buyer nothing about the value of the cards inside. Second, the availability gap: Japanese sealed Fusion World is a product other stores list and we do not, and a guide that ranks it without saying so sends buyers to a checkout that does not exist. The third gap is the digital code. Every Fusion World pack, Japanese or English, includes a serial code for the digital version, so a sealed box preserves unused codes and an opened or resealed box does not.",
+          "This guide owns those gaps, because it is the only one written from the shelf the prices come from. Every dollar figure above is our own case or single price as of November 6, 2026, every yen figure is Bandai's list, and the two are kept in separate columns so no buyer mistakes one for the other."
+        ]
+      },
+      {
+        "h": "The practical layer: what a Japanese box is, set by set",
+        "paragraphs": [
+          "Fusion World launched in Japan on February 16, 2024, and has released a mainline booster roughly every quarter since: FB01 Awakened Pulse through FB12 Reach the God, plus two Manga Boosters, SB01 in June 2025 and SB02 in November 2025. The sets this guide prices are the five newest mainline sets and the two Manga Boosters, because those are the sets with Japanese singles on our shelf. FB07 Wish for Shenron reached Japan on September 13, 2025, with 125 card types. FB08 Saiyan's Pride followed on December 13, 2025, with 122 card types. FB09 Dual Evolution, the 2nd anniversary set, arrived March 14, 2026, with 123 card types, the Fusion Evolve and Ki mechanics, and the first Leader double-star cards. FB10 Cross Force arrived June 13, 2026, with 123 card types and a Vegito Secret Rare that changed hands for over ¥500,000 in Japan. FB11 Brightness of Hope reached Japan on September 12, 2026. FB12 Reach the God is due December 18, 2026.",
+          "The Japanese format is the same in every set: a pack holds 6 cards plus a digital serial code, a box holds 24 packs, and the list price is ¥220 a pack, ¥5,280 a box. The English format is the same too: a pack holds 12 cards plus the code, a box holds 24 packs, and a case holds 12 boxes. A Japanese box is 144 cards and an English box is 288, and a buyer who wants to open Japanese packs is buying half the cards per pack at a list price that only makes sense in yen. The [FB07 Wish for Shenron buyers guide](/blog/fb07-wish-for-shenron-buyers-guide/), the [FB08 Saiyan's Pride buyers guide](/blog/fb08-saiyans-pride-buyers-guide/), and the [FB09 Dual Evolution buyers guide](/blog/fb09-dual-evolution-buyers-guide/) cover each set's cards in detail.",
+          "To buy Japanese from this shelf, the steps are short. First, decide whether you want a card or packs: a card means one of the five Japanese singles, packs mean an English case. Second, if it is a single, confirm the exact card with the Warehouse before ordering, because the listing names the set, not the individual card. Third, if it is a case, divide it first: case price divided by 12, then by 24. Fourth, confirm the language your events require, because Japanese cards are not legal in English-region sanctioned play. [Buying TCG from Japan, shipping and customs](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers shipping and customs, and the [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience."
+        ]
+      },
+      {
+        "h": "The risk layer: fakes, the FB12 wait, and the single-card listing",
+        "paragraphs": [
+          "The first risk is the fake Japanese box. A sealed Japanese Fusion World box is worth enough that the wrap is worth faking, and a price far below the ¥5,280 list is a warning, not a bargain. Buy from a store that answers for the product, photograph everything before breaking a seal, and run every box from a non-store route through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). The second risk is the FB12 wait: FB12 is due December 18, 2026, so the $126.50-a-box case price is a pre-order price for stock that has not shipped, and a buyer who needs packs for a December event should buy FB11 or FB10 instead.",
+          "The third risk is the single-card listing itself. Our Japanese listings name the set, not the individual card, so a buyer who orders the FB09 single expecting a specific Gogeta and receives a different card from the set has misunderstood the listing, not been misled by it. Confirm the exact card before ordering. The fourth risk is the reprint: a restock or reprint announcement reprices sealed stock without warning, and holders protect themselves by buying sealed product they would be content to open and storing it as the [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) describes. The fifth risk is the language: Japanese cards are not legal in English-region sanctioned events, so decide the language before the case is bought, not after."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English — two different products",
+        "paragraphs": [
+          "Japanese Fusion World is not a discount version of the English product; it is a different product for a different market. The Japanese pack is smaller, 6 cards against 12, the Japanese box is smaller, 144 cards against 288, and the Japanese release comes first by days or weeks. The Japanese market is built for volume and for the digital code in every pack, and the Japanese box lists at ¥5,280 because it is priced for that market, not for an overseas buyer converting yen.",
+          "The shelf price sits above the list price because it carries sourcing, shipping, and inspection the list price does not, and the gap is widest where demand is strongest. FB09 is the dearest mainline case at $402.50 a box because it is the 2nd anniversary set with the first Leader double-star cards, and its Japanese single is the dearest too, at $64.12. FB01 is the second-dearest case at $369.15 a box because it is the first set, and sealed first-set stock is finite. The gap is narrowest on the sets still in print: FB04 at $106.61 a box and FB02 at $111.08 sit close to list once shipping is counted. The market data agrees: TCGplayer's market price for a Cross Force box was $242.92 on October 20, 2026, against our FB10 case divided to $194.46 a box."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, anyone who needs a sealed Japanese box today: we do not stock one. Second, anyone who needs English cards for sanctioned play: Japanese cards are not legal in English-region events, and the Japanese singles here are collector cards, not tournament cards. Third, anyone whose budget only works if the sealed product pays for itself in pulls: at $4.44 to $16.77 a pack in English, or $26.02 to $64.12 for a single Japanese card, it almost certainly will not.",
+          "Who this guide is for, restated plainly: collectors who want Japanese Fusion World cards and will buy the single, openers who want the most packs for the least money and will buy the English case, new-set buyers who want FB12 without the newest-set premium, and sealed holders who understand a case is a multi-year position. If you are in one of those groups, the table above is your shortlist. If you are not, buy the format that fits."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide what Japanese means to you: a Japanese card, or packs to open",
+          "If it is a card, buy the single and confirm the exact card before ordering",
+          "If it is packs, buy the English case and divide it first: case ÷ 12 boxes, then ÷ 24 packs",
+          "Compare the per-pack number with the table, not the case price with another case price",
+          "Remember the card count: 6 cards in a Japanese pack, 12 in an English pack",
+          "If you want FB12, remember it ships December 18, 2026, and it is a pre-order until then",
+          "Confirm the language your events require before buying a Japanese card to play with",
+          "Inspect the seal on arrival before opening, and store sealed boxes cool, dry, and dark"
+        ],
+        "h": "Action layer: the Japanese Fusion World checklist",
+        "paragraphs": [
+          "Run this in order before the next Japanese Fusion World product you consider. It takes five minutes and it replaces an afternoon of comparing yen listings with a decision built on the shelf price you can actually pay."
+        ]
+      }
+    ],
+    "slug": "best-dragon-ball-fusion-world-japanese",
+    "takeaway": [
+      "The best Japanese Dragon Ball Fusion World buy is a single card, not a box: FB08 at $26.02 is the cheapest Japanese item on the shelf and FB09 at $64.12 is the dearest, and the Warehouse does not sell sealed Japanese Fusion World boxes. For packs, the English case is the buy, and the cheapest opening is FB04 at $4.44 a pack, with FB12 at $5.27 a pack the cheapest new-set buy. A Japanese box lists at ¥5,280 for 24 packs of 6 cards, half the cards of an English box, and every pack in either language carries a digital serial code.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, and Bandai's yen list for the Japanese box. When FB12 ships on December 18, 2026, run the checklist first and divide the case before you pay.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the full Dragon Ball shelf, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) divides all twelve cases. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
     ]
   },
   "best-dragon-ball-fusion-world-sealed-case-to-buy": {
@@ -1309,7 +1591,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "A Fusion World case is twelve boxes and 288 packs, and the case to buy is the one whose per-box price fits the job: FB04 at $106.61 per box for the cheapest mainline packs, FB12 at $126.50 on pre-order for the newest set, FB01 at $369.15 and FB09 at $402.50 only for sealed scarcity, and the Manga Boosters only as art collectibles. The case total is the commitment; the per-box price is what a split group pays each.",
       "The discipline is the split: agree the headcount and the per-person price before paying, confirm FB12's expected configuration before trusting its $5.27 per pack, and never let a Japanese yen price or a God Rare name into an English case decision. Buy the case for the packs and the play, buy singles for named cards, and never fund a scarcity case from money needed back soon.",
-      "Still weighing the case against the box? The [Fusion World box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the same twelve sets by buyer, and [the case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on the shelf."
+      "Still weighing the case against the box? The [Fusion World box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the same twelve sets by buyer, and [the case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on the shelf.",
+      "For the Japanese side of the shelf, the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) prices the five Japanese singles and divides the English cases against the ¥5,280 Japanese box list."
     ]
   },
   "best-dragon-ball-masters-booster-box-to-buy": {
@@ -3510,7 +3793,288 @@ export const POSTS: Record<string, BlogPost> = {
       "Pick the job, then the box, then divide before you pay. That order is the whole method, and it survives any price move: when the shelf reprices, the divisions rerun, and the right box for each buyer is usually still standing.",
       "New this cycle: the launch-pair head-to-head in [M1L vs M1S: Mega Brave or Mega Symphonia?](/blog/m1l-vs-m1s-which-to-buy/), and the cross-game price ladder in [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/).",
       "For the cheapest box on this shelf in depth, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) prices the $70.62 box, the $87.35-a-box case trap, and the Mega Zygarde ex chase.",
-      "For the whole shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices with every case beside them, and the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase."
+      "For the whole shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices with every case beside them, and the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase.",
+      "New this cycle: the [best Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) ranks the pack as a pack — cheapest $2.35, cheapest card $0.47 — instead of ranking boxes."
+    ]
+  },
+  "best-japanese-pokemon-booster-pack": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "The cheapest Japanese Pokemon pack on our shelf is $2.35, inside an M3 Munikis Zero box at $70.62 for thirty packs. The cheapest pack per card is the same one, $0.47 a card. The cheapest actual single sealed pack we sell is the Iono's Wattrel promo pack at $21.18, which is a different product: a promo pack, not a booster pack from a box. The full board for every Japanese Pokemon box is on our [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/).",
+        "q": "What is the cheapest Japanese Pokemon booster pack to buy?"
+      },
+      {
+        "a": "No, and the difference is the whole point of this guide. A standard Japanese pack holds 5 cards, a high-class pack holds 10, a special-set pack holds 7, and the M6a 30th Celebration pack holds 6 foil cards. The cheapest pack per card is M3 at $0.47, the cheapest 7-card pack per card is SV11W White Flare at $1.20, and the cheapest 10-card pack per card is M2a MEGA Dream ex at $1.15. Compare packs by the card, not by the pack. [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with.",
+        "q": "Do all Japanese Pokemon packs hold the same number of cards?"
+      },
+      {
+        "a": "Only three sealed single packs are on our shelf: the Iono's Wattrel promo pack at $21.18, the McDonald's 2025 promo pack at $43.49, and the SV9a promo pack at $49.07. Everything else is sold as a sealed box, and the pack inside it is priced by dividing the box. A loose single pack from a marketplace is a different risk entirely: weighed, searched, or resealed packs are the oldest scam in the hobby, so buy the box or buy the promo, and run any loose pack through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/).",
+        "q": "Can I buy a single Japanese Pokemon booster pack from the Warehouse?"
+      }
+    ],
+    "h1": "Best Japanese Pokemon Booster Pack to Buy",
+    "intro": [
+      "The best Japanese Pokemon booster pack is the M3 Munikis Zero pack at $2.35, or $0.47 a card, and it is the cheapest pack on our shelf by both measures. The best pack for a grader is different, the best pack for a collector is different again, and the only way to tell them apart is to divide the box: box price divided by packs, then by cards. Prices as of November 6, 2026.",
+      "This guide is for buyers who want packs to open, not boxes to hold, and who want the pack priced as a pack instead of ranked as a box. It is not for singles buyers, because a pack is the wrong tool for a want list, and it is not for anyone who needs a single loose pack from a marketplace, because loose packs are where the scams live. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the same shelf box by box."
+    ],
+    "metaDescription": "Best Japanese Pokemon booster pack, divided: cheapest pack $2.35, cheapest card $0.47, and the three sealed promo packs on our shelf.",
+    "metaTitle": "Best Japanese Pokemon Booster Pack to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: the cheapest pack, and the three packs that beat it",
+        "paragraphs": [
+          "The cheapest Japanese Pokemon pack on our shelf is $2.35, inside an M3 Munikis Zero box at $70.62 for thirty packs of five cards, and it is also the cheapest pack per card at $0.47. Nothing else on the shelf touches it on either number. The next cheapest packs are M6 Storm Emeralda at $2.76 and M1S Mega Symphonia and SV9 Battle Partners at $2.83, all standard thirty-pack boxes, all current MEGA-era or Scarlet and Violet-era sets, all in print. The [M3 Munikis Zero box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is the cheapest pack on the shelf, and the [M2a MEGA Dream ex box](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) is the cheapest card among the big packs.",
+          "But the cheapest pack is not the best pack for every job, because a pack is not one product. A standard pack holds 5 cards, a special-set pack holds 7, a high-class pack holds 10, and the M6a 30th Celebration pack holds 6 foil cards, and the price per card moves in the opposite direction from the price per pack. The M2a MEGA Dream ex pack costs $11.48, nearly five times the M3 pack, but it holds 10 cards, so it costs $1.15 a card, cheaper per card than the SV11W White Flare pack at $1.20 and the M6a pack at $2.08. A buyer who compares packs by the pack buys M3 every time. A buyer who compares them by the card buys M3 first and M2a second.",
+          "The third pack worth naming is the one that is not a booster pack at all. The Warehouse sells three sealed single packs: the Iono's Wattrel promo pack at $21.18, the McDonald's 2025 promo pack at $43.49, and the SV9a promo pack at $49.07. Those are the only packs on the shelf you can buy one of, and they are promo products, not booster packs from a box. Everything else is sold as a sealed box, and the pack inside it is priced by dividing the box. The cheapest of the three is the [Iono's Wattrel promo pack](/product/sv9-promo-ionos-wattrel-232-sv-p-sealed-promo-pack-japanese-pokemon-card/). The [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same division across all thirty-two Pokemon boxes, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks them by the job each box does."
+        ]
+      },
+      {
+        "h": "The money layer: every pack divided, by the pack and by the card",
+        "math": [
+          "M3 Munikis Zero per pack: $70.62 ÷ 30 packs = $2.35 per pack",
+          "M3 Munikis Zero per card: $2.35 ÷ 5 cards = $0.47 per card",
+          "M6 Storm Emeralda per pack: $82.80 ÷ 30 packs = $2.76 per pack",
+          "M6 Storm Emeralda per card: $2.76 ÷ 5 cards = $0.55 per card",
+          "M1S Mega Symphonia per pack: $84.97 ÷ 30 packs = $2.83 per pack",
+          "SV9 Battle Partners per pack: $84.97 ÷ 30 packs = $2.83 per pack",
+          "M2 Inferno X per pack: $183.18 ÷ 30 packs = $6.11 per pack",
+          "M2 Inferno X per card: $6.11 ÷ 5 cards = $1.22 per card",
+          "SV11W White Flare per pack: $167.72 ÷ 20 packs = $8.39 per pack",
+          "SV11W White Flare per card: $8.39 ÷ 7 cards = $1.20 per card",
+          "SV11B Black Bolt per pack: $183.18 ÷ 20 packs = $9.16 per pack",
+          "SV11B Black Bolt per card: $9.16 ÷ 7 cards = $1.31 per card",
+          "M2a MEGA Dream ex per pack: $114.77 ÷ 10 packs = $11.48 per pack",
+          "M2a MEGA Dream ex per card: $11.48 ÷ 10 cards = $1.15 per card",
+          "M6a 30th Celebration per pack: $249.00 ÷ 20 packs = $12.45 per pack",
+          "M6a 30th Celebration per card: $12.45 ÷ 6 cards = $2.08 per card",
+          "Pokemon Card 151 per pack: $471.20 ÷ 20 packs = $23.56 per pack",
+          "Pokemon Card 151 per card: $23.56 ÷ 7 cards = $3.37 per card",
+          "Eevee Heroes per pack: $1,159.80 ÷ 30 packs = $38.66 per pack",
+          "Blue Sky Stream per pack: $2,586.65 ÷ 30 packs = $86.22 per pack",
+          "M2 case saving per pack: $6.11 − $3.70 = $2.41 saved per pack",
+          "M2a case saving per pack: $11.48 − $9.29 = $2.19 saved per pack"
+        ],
+        "paragraphs": [
+          "The table below is the pack board: every Japanese Pokemon box on the shelf that matters to a pack buyer, divided to the pack and then to the card. Standard boxes hold 30 packs of 5 cards. Special sets hold 20 packs of 7. M6a holds 20 packs of 6 foil cards. M2a holds 10 packs of 10 cards. The per-pack column is what the pack costs; the per-card column is what the cardboard costs, and the two columns rank the shelf differently, which is the point.",
+          "Two patterns jump out. First, the per-pack spread is thirty-six to one: $2.35 for an M3 pack against $86.22 for a Blue Sky Stream pack, and the spread is a scarcity spread, not a quality spread. Blue Sky Stream and Eevee Heroes are 2021 sets, priced for collectors who want sealed stock that is no longer printed. Second, the per-card column forgives the expensive packs: the M2a pack costs $11.48, which looks dear, but at $1.15 a card it is the second-cheapest card on the shelf, and the SV2a Card 151 pack costs $23.56, which looks ruinous, but at $3.37 a card it is cheaper per card than the Eevee Heroes pack at $7.73 a card. A buyer who opens for cards should read the per-card column. A buyer who opens for the experience should read the per-pack column.",
+          "The third pattern is the case. Two packs on this board have a case price on the shelf, and both cases save real money per pack: the M2 Inferno X case divides to $111.14 a box, or $3.70 a pack, against $6.11 for the single box, saving $2.41 a pack; the M2a case divides to $92.93 a box, or $9.29 a pack, against $11.48 for the single box, saving $2.19 a pack. A buyer who knows they will open more than one box should divide the case before buying the single. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case on the shelf, and the [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) is the single-game version of the same discipline."
+        ],
+        "table": {
+          "head": [
+            "Box (pack inside it)",
+            "Box price",
+            "Per pack",
+            "Per card"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero (30 × 5)",
+              "$70.62",
+              "$2.35",
+              "$0.47"
+            ],
+            [
+              "M6 Storm Emeralda (30 × 5)",
+              "$82.80",
+              "$2.76",
+              "$0.55"
+            ],
+            [
+              "M1S Mega Symphonia (30 × 5)",
+              "$84.97",
+              "$2.83",
+              "$0.57"
+            ],
+            [
+              "SV9 Battle Partners (30 × 5)",
+              "$84.97",
+              "$2.83",
+              "$0.57"
+            ],
+            [
+              "M4 Ninja Spinner (30 × 5)",
+              "$88.27",
+              "$2.94",
+              "$0.59"
+            ],
+            [
+              "M5 Abyss Eye (30 × 5)",
+              "$91.61",
+              "$3.05",
+              "$0.61"
+            ],
+            [
+              "M1L Mega Brave (30 × 5)",
+              "$94.91",
+              "$3.16",
+              "$0.63"
+            ],
+            [
+              "SV10 Glory of Team Rocket (30 × 5)",
+              "$212.99",
+              "$7.10",
+              "$1.42"
+            ],
+            [
+              "SV8 Super Electric Breaker (30 × 5)",
+              "$258.23",
+              "$8.61",
+              "$1.72"
+            ],
+            [
+              "SV11W White Flare (20 × 7)",
+              "$167.72",
+              "$8.39",
+              "$1.20"
+            ],
+            [
+              "SV11B Black Bolt (20 × 7)",
+              "$183.18",
+              "$9.16",
+              "$1.31"
+            ],
+            [
+              "M2 Inferno X (30 × 5)",
+              "$183.18",
+              "$6.11",
+              "$1.22"
+            ],
+            [
+              "M2a MEGA Dream ex (10 × 10)",
+              "$114.77",
+              "$11.48",
+              "$1.15"
+            ],
+            [
+              "M6a 30th Celebration (20 × 6 foil)",
+              "$249.00",
+              "$12.45",
+              "$2.08"
+            ],
+            [
+              "Pokemon Card 151 (20 × 7)",
+              "$471.20",
+              "$23.56",
+              "$3.37"
+            ],
+            [
+              "Eevee Heroes (30 × 5)",
+              "$1,159.80",
+              "$38.66",
+              "$7.73"
+            ],
+            [
+              "Blue Sky Stream (30 × 5)",
+              "$2,586.65",
+              "$86.22",
+              "$17.24"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: four buyers, four packs",
+        "paragraphs": [
+          "Match the buyer first, then the pack. The table below is the shortlist; the money layer above is the evidence behind it.",
+          "The opener wants the most packs for the least money: M3 at $2.35 a pack, thirty packs in the box, and the cheapest card on the shelf at $0.47. The grader wants the most cards per dollar with the highest gem rate: M2a at $1.15 a card, ten cards a pack, and Japanese print quality that grades noticeably better than English. The promo collector who wants one pack buys the Iono's Wattrel promo at $21.18. The sealed holder does not buy packs at all and should read the case guide instead, because a pack is meant to be opened and a holder's money belongs in the box."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener",
+              "M3 box",
+              "$70.62",
+              "$2.35 a pack, $0.47 a card"
+            ],
+            [
+              "Grader",
+              "M2a box",
+              "$114.77",
+              "$1.15 a card, 10 a pack"
+            ],
+            [
+              "Promo collector",
+              "Iono's Wattrel promo pack",
+              "$21.18",
+              "Cheapest single sealed pack"
+            ],
+            [
+              "Chase hunter",
+              "M2 Inferno X box",
+              "$183.18",
+              "$6.11 a pack, Charizard chase"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other Pokemon pack guides",
+        "note": "From the Warehouse: the question we get most about packs is whether a buyer can buy just one booster pack, because every guide they read ranks boxes and never says the pack is not sold on its own. On our shelf it is not, except for the three promo packs. Value is a division, not a ranking: divide the box by the packs, then by the cards, and the cheapest pack per card is usually not the pack with the best chase card.",
+        "paragraphs": [
+          "The top guides for Japanese Pokemon packs share one gap: they rank boxes and call it a pack guide. Samurai Sword's MEGA-era guide compares the Japanese booster boxes across chase cards, pack contents, and prices, and it does that job well. Neokyo's six-box comparison organizes boxes by who they suit and why, and it does that job well. SNKRDUNK's top thirty ranks boxes by return on investment from retail to highest sale, and it does that job well. But none of them divides a box to the pack, none divides a pack to the card, and none prices the single sealed packs a buyer can actually buy one of.",
+          "That box-level view hides two findings. First, the per-card inversion: the M2a pack looks expensive at $11.48 and is the second-cheapest card on the shelf at $1.15, while the M6a pack looks reasonable at $12.45 and is $2.08 a card, nearly twice the M2a card. Second, the single-pack gap: the only packs sold singly on our shelf are the three promo packs, and no box-ranking guide mentions them, because a box guide has no reason to. A buyer who wants one pack and follows a box guide ends up buying thirty.",
+          "The third gap is the pull rate. The Pokemon Company does not publish pull rates for Japanese sets, so no guide can tell a buyer the odds of a chase card per pack, and any guide that implies it can is guessing. What a guide can do, and what this one does, is price the pack honestly: the cost per pack, the cost per card, and the chase card at the top of the set, so the buyer knows the price of the lottery ticket and the size of the prize."
+        ]
+      },
+      {
+        "h": "The practical layer: reading a Japanese pack before you buy it",
+        "paragraphs": [
+          "A Japanese Pokemon pack is identified by the set code on the box, and the code tells the buyer the pack's size before a single yen is spent. Standard expansion sets carry a code like M3, M5, or SV9, and their packs hold 5 cards. Special sets carry codes like SV11B, SV11W, and SV2a, and their packs hold 7. High-class packs carry codes like M2a, and their packs hold 10. M6a, the 30th Celebration set, is the exception: 20 packs of 6 foil cards, every card foil, at $12.45 a pack. The [how to read Japanese Pokemon cards guide](/blog/how-to-read-japanese-pokemon-cards/) covers the rest of the pack: the set symbol, the rarity marks, and the card numbering.",
+          "The list prices behind the shelf are small and worth knowing. A standard Japanese pack lists at ¥180, and M6 Storm Emeralda lists at ¥200 a pack, which is why M6 costs $2.76 a pack on our shelf against M3 at $2.35. The box lists at ¥5,400 for thirty packs at ¥180, and the shelf price sits above the list because it carries sourcing, shipping, and inspection the list price does not. The gap is widest where demand is strongest: Pokemon Card 151 lists at ¥3,600 a box in Japan and sells on our shelf at $471.20, because it is out of print and the sealed stock is finite.",
+          "To buy packs from this shelf, the steps are short. First, decide the job: the most packs, the cheapest cards, the best chase, or one promo pack. Second, divide the box: box price divided by packs, then by cards, and compare the per-card number with the table above. Third, if the job is grading, read the [PSA grading Japanese cards guide](/blog/psa-grading-japanese-cards-worth-it/) before buying, because Japanese print quality grades better than English. Fourth, if the job is one pack, buy one of the three promo packs and do not buy a loose booster pack from a marketplace. [How to spot the rarity symbols](/blog/japanese-pokemon-rarity-symbols-explained/) covers what the pulls mean, and the [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience."
+        ]
+      },
+      {
+        "h": "The risk layer: loose packs, reseals, and the chase trap",
+        "paragraphs": [
+          "The first risk is the loose pack. A single booster pack from a marketplace is the oldest scam in the hobby: packs are weighed, searched, and resealed, and a pack that has been opened and closed again looks identical to a sealed one until it is opened. The Warehouse does not sell loose booster packs, and that is a policy, not an oversight. The recovery is the box: buy the sealed box, or buy one of the three sealed promo packs, and run anything else through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and photograph everything before breaking a seal.",
+          "The second risk is the chase trap. The M2 Inferno X pack costs $6.11 because its chase is the Mega Charizard X ex, and the M6a pack costs $12.45 because every card in it is foil, but neither pack guarantees its chase, and the Pokemon Company publishes no pull rates, so no buyer can calculate the odds. A budget that only works if the pulls pay for the box is a budget that will fail. The third risk is the reprint: a restock or reprint announcement reprices sealed stock without warning, and holders protect themselves by buying sealed product they would be content to open and storing it as the [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) describes. The fourth risk is the language: Japanese cards are not legal in English-region sanctioned events, so decide the language before the box is bought, not after."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English — why the Japanese pack is smaller and cheaper",
+        "paragraphs": [
+          "Japanese Pokemon packs are small because the Japanese market is built for volume. A standard pack holds 5 cards at ¥180, a box holds 30 packs, and the boxes are meant to be opened often. The English pack holds 10 or 11 cards, the English box holds 36 packs, and the English product is priced for a different market. The Japanese pack is not a discount version of the English pack; it is a different product, and the difference is visible in the print quality: Japanese cards are cut and centered more precisely than English cards, which is why Japanese chase cards grade to PSA 10 more often.",
+          "The release gap runs the same way. Japanese sets arrive first, often months before the English version, and the MEGA era is the current example: M1S Mega Symphonia and M1L Mega Brave arrived in August 2025, M2a MEGA Dream ex arrived in November 2025, M3 Munikis Zero in January 2026, M5 Abyss Eye in May 2026, and M6 Storm Emeralda on July 31, 2026. A buyer who wants the newest cards first buys Japanese, and a buyer who wants the deepest sealed market buys English. The two markets are not in competition; they are two different shelves, and this guide prices the Japanese one."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, anyone buying singles: a pack is the wrong tool for a want list, because no pack guarantees any card. Second, anyone who needs English cards for sanctioned play: Japanese cards are not legal in English-region events. Third, anyone whose budget only works if the pulls pay for the box: at $2.35 to $86.22 a pack, with no published pull rates, it almost certainly will not.",
+          "Who this guide is for, restated plainly: openers who want the most packs for the least money, graders who want the cheapest cards with the best centering, promo collectors who want one sealed pack, and chase hunters who know the price of the ticket before they buy it. If you are in one of those groups, the table above is your shortlist. If you are not, buy the format that fits."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: most packs, cheapest cards, best chase, or one promo pack",
+          "Divide every box before you pay: box price ÷ packs, then ÷ cards",
+          "Compare packs by the card, not by the pack: M2a at $1.15 a card beats M6a at $2.08",
+          "If you want one pack, buy a sealed promo pack: Iono's Wattrel at $21.18 is the cheapest",
+          "Never buy a loose booster pack from a marketplace: weighed, searched, or resealed",
+          "If you will open more than one box, divide the case first: M2 saves $2.41 a pack",
+          "Confirm the language your events require before buying a Japanese box to play with",
+          "Inspect the seal on arrival before opening, and store sealed boxes cool, dry, and dark"
+        ],
+        "h": "Action layer: the pack-buyer's checklist",
+        "paragraphs": [
+          "Run this in order before the next Japanese Pokemon pack you consider. It takes five minutes and it replaces an afternoon of comparing yen listings with a decision built on the shelf price you can actually pay."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-booster-pack",
+    "takeaway": [
+      "The best Japanese Pokemon booster pack is the M3 pack at $2.35, or $0.47 a card, and it is the cheapest pack on the shelf by both measures. The best pack per card among the big packs is M2a at $1.15 a card, and the cheapest single sealed pack you can buy one of is the Iono's Wattrel promo at $21.18. The Warehouse does not sell loose booster packs. Divide the box by the packs, then by the cards, and let the per-card number choose the pack.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026. When the next MEGA-era set opens for pre-order, run the checklist first and divide the box before you pay.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
     ]
   },
   "best-japanese-pokemon-sealed-case-to-buy": {
@@ -7754,7 +8318,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The cheapest Japanese Pokémon box per pack on our shelf is M3 at $2.35, the most expensive is Pokémon Card 151 at $23.56, and the case is not automatically the deal: twenty-six of twenty-eight cases save money per box and two cost more. Divide every time, and buy the row that matches the buyer you actually are.",
       "Treat every number here as stamped: store prices as of November 6, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second — in that order, every time.",
-      "Comparing across games? [The Japanese One Piece booster box price board](/blog/best-japanese-one-piece-booster-box-price/) runs the same board for One Piece, and [the best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For one set in depth, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase behind it."
+      "Comparing across games? [The Japanese One Piece booster box price board](/blog/best-japanese-one-piece-booster-box-price/) runs the same board for One Piece, and [the best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For one set in depth, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase behind it.",
+      "New this cycle: the [best Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) divides every box to the pack and then to the card, and prices the three sealed promo packs."
     ]
   },
   "japanese-pokemon-cards-wholesale-buyers-guide": {
