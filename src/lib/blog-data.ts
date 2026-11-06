@@ -2336,7 +2336,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese card shop online is the one that survives the six checks: real stock, sealed authenticity, landed cost in writing, honest duty, a human who answers, and a returns policy that exists. Price is the last check, not the first, because the cheapest listing is the most expensive parcel once the stack is added.",
       "Prices change and customs rules move, so treat every number here as stamped: store prices and the duty position as of November 6, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second.",
-      "Starting your comparison with a real shelf helps: [our Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) list every box from OP-01 to OP-18 with per-pack math, and [the best Japanese Pokémon booster box to buy](/blog/best-japanese-pokemon-booster-box-to-buy/) does the same for the MEGA era. If you are weighing sealed against singles, read [whether Japanese Pokémon cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. Country buyers get the same treatment per market: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) run the landed cost in SGD and pesos."
+      "Starting your comparison with a real shelf helps: [our Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) list every box from OP-01 to OP-18 with per-pack math, and [the best Japanese Pokémon booster box to buy](/blog/best-japanese-pokemon-booster-box-to-buy/) does the same for the MEGA era. If you are weighing sealed against singles, read [whether Japanese Pokémon cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. Country buyers get the same treatment per market: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) run the landed cost in SGD and pesos. For the landed cost in a single country, see [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/)."
     ]
   },
   "best-japanese-dragon-ball-fusion-world-booster-box-to-buy": {
@@ -6045,6 +6045,330 @@ export const POSTS: Record<string, BlogPost> = {
       "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides every box. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs. The Singapore hub runs the same numbers for a different tax line: [buying Japanese TCG cards in Singapore](/blog/buying-japanese-tcg-cards-in-singapore/)."
     ]
   },
+  "buying-japanese-tcg-cards-in-netherlands": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "Yes, on every parcel. BTW of 21% applies from the first euro, and duty is a flat €3 per tariff classification on parcels up to €150, or normal duty by classification above €150. A single M3 box lands at €80.28 with the €3 duty and 21% BTW included, and the dearest current box under the line, M2a, lands at €128.20. The full line is worked in the [shipping and customs guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/).",
+        "q": "Do I pay VAT and duty when I buy a Japanese booster box from Japan to the Netherlands?"
+      },
+      {
+        "a": "It depends on the set, so compare per pack. Kaikan Cards in Beugen sells the M2a box at €109.95 as of November 1, 2026, which is €18.25 under the Warehouse landed cost of €128.20, so on M2a the Dutch shop wins. On M3 the Japan-direct box lands at €2.68 a pack, under most local sealed stock. The comparison table is in the decision layer above, and the full pack board is on our [Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/).",
+        "q": "Is it cheaper to buy Japanese Pokemon cards on Cardmarket or direct from Japan?"
+      },
+      {
+        "a": "No. The exact shipping quote is confirmed at checkout or on WhatsApp at wa.me/818029350455, because the rate depends on the parcel weight and the service chosen. What this guide does give you is everything else in the landed cost: the box price in euros at the stated exchange rate, and the exact duty and BTW on the goods, so the only unknown left is the shipping line itself. Never trust a guide that quotes a delivery time or a shipping price for a parcel it has not weighed.",
+        "q": "How much is shipping from Japan to the Netherlands?"
+      }
+    ],
+    "h1": "Buying Japanese TCG Cards in Netherlands",
+    "intro": [
+      "Buy Japanese Pokemon and One Piece cards in the Netherlands by watching two numbers: €150 and 21%. Since July 1, 2026, the European Union charges a flat €3 customs duty per tariff line on parcels up to €150, and 21% Dutch BTW applies from the very first euro, so there is no tax-free parcel from Japan any more. This guide prices the shelf in euros, runs the landed cost for a box and a case, and compares Japan-direct against Cardmarket and the Dutch shops. Prices as of November 6, 2026, at €0.897 to the dollar.",
+      "This guide is for Dutch buyers who want sealed Japanese boxes shipped from Japan, with the duty and tax stated before they pay. It is not for singles buyers, because a sealed box is the wrong tool for a want list, and not for anyone who needs English cards for sanctioned play: Japanese cards are not legal in European events. The [best Japanese card shop online guide](/blog/best-japanese-card-shop-online/) ranks the Japan-direct shops; this guide prices what one of them actually costs a Dutch buyer."
+    ],
+    "metaDescription": "Buy Japanese Pokemon and One Piece cards in the Netherlands: the €3 duty and 21% BTW, landed cost in euros, and Japan-direct vs Cardmarket math.",
+    "metaTitle": "Buying Japanese TCG Cards in Netherlands",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: €3 plus 21% BTW from the first euro",
+        "paragraphs": [
+          "Dutch BTW has no low-value threshold. Since July 1, 2021, the EU abolished the low-value VAT exemption, so 21% BTW is due on every commercial import from Japan, from the first euro, on the price plus shipping and insurance. A seller can collect it at checkout through IOSS, the Import One-Stop Shop, and then the parcel clears with nothing to pay at the border; without IOSS, the carrier collects the BTW on delivery plus its own clearance fee.",
+          "The duty side changed on July 1, 2026. Until June 30, 2026, consignments with an intrinsic value of €150 or less were duty-free. From July 1, 2026, that exemption is abolished under Council Regulation (EU) 2026/382 and replaced by a temporary flat €3 customs duty per tariff classification on consignments up to €150, running until July 1, 2028. Above €150, normal duty applies by TARIC classification on the CIF value, and this guide prints no rate for trading cards because no verified rate for the card line is on file.",
+          "The €3 is charged per tariff classification, not per physical unit: the Commission's own example is five T-shirts at €3 for the parcel, and one T-shirt plus one watch at €6. Five boxes of one Pokemon set are one classification, so the duty on them is €3, not €15. A parcel mixing different product types can multiply the fee, so the landed cost below is always calculated per parcel, not per box.",
+          "In US dollars the €150 line is $167.22 of goods value, because €150 divided by the November 6, 2026 rate of €0.897 is $167.22. That line cuts through the shelf: M3, M6, M1S, OP-18, M1L and M2a all sit under it, while M2 $183.18 and M6a $249.00 are already over it. Two M3 boxes are $141.24, or €126.69, still under the line; three are $211.86, or €190.04, over it. The line is a parcel line, not a box line."
+        ]
+      },
+      {
+        "h": "The money layer: every box and case in euros",
+        "math": [
+          "Exchange rate used: 1 USD = €0.897, November 6, 2026 (mid-market)",
+          "€150 line in USD: €150.00 / 0.897 = $167.22 of goods value",
+          "M3 Munikis Zero box in EUR: $70.62 x 0.897 = €63.35",
+          "M3 Munikis Zero box duty base: €63.35 + €3.00 = €66.35",
+          "M3 Munikis Zero box landed with 21% BTW: €66.35 x 1.21 = €80.28",
+          "M6 Storm Emeralda box in EUR: $82.80 x 0.897 = €74.27",
+          "M6 Storm Emeralda box duty base: €74.27 + €3.00 = €77.27",
+          "M6 Storm Emeralda box landed with 21% BTW: €77.27 x 1.21 = €93.50",
+          "M1S Mega Symphonia box in EUR: $84.97 x 0.897 = €76.22",
+          "M1S Mega Symphonia box duty base: €76.22 + €3.00 = €79.22",
+          "M1S Mega Symphonia box landed with 21% BTW: €79.22 x 1.21 = €95.86",
+          "OP-18 Japanese box in EUR: $84.00 x 0.897 = €75.35",
+          "OP-18 Japanese box duty base: €75.35 + €3.00 = €78.35",
+          "OP-18 Japanese box landed with 21% BTW: €78.35 x 1.21 = €94.80",
+          "M1L Mega Brave box in EUR: $94.91 x 0.897 = €85.13",
+          "M1L Mega Brave box duty base: €85.13 + €3.00 = €88.13",
+          "M1L Mega Brave box landed with 21% BTW: €88.13 x 1.21 = €106.64",
+          "M2a MEGA Dream ex box in EUR: $114.77 x 0.897 = €102.95",
+          "M2a MEGA Dream ex box duty base: €102.95 + €3.00 = €105.95",
+          "M2a MEGA Dream ex box landed with 21% BTW: €105.95 x 1.21 = €128.20",
+          "M2 Inferno X box in EUR: $183.18 x 0.897 = €164.31",
+          "M2 Inferno X box VAT floor at 21% (parcel over €150, duty by classification on top): €164.31 x 1.21 = €198.82",
+          "M6a 30th Celebration box in EUR: $249.00 x 0.897 = €223.35",
+          "M6a 30th Celebration box VAT floor at 21% (parcel over €150, duty by classification on top): €223.35 x 1.21 = €270.25",
+          "OP-18 Japanese case in EUR: $906.00 x 0.897 = €812.68",
+          "OP-18 Japanese case VAT floor at 21% (parcel over €150, duty by classification on top): €812.68 x 1.21 = €983.34",
+          "OP-18 Japanese case per box landed: €983.34 / 12 boxes = €81.95",
+          "OP-18 Japanese case saving per box: €94.80 - €81.95 = €12.85",
+          "OP-18 Japanese case per pack landed: €81.95 / 24 packs = €3.41",
+          "M1S Mega Symphonia case in EUR: $773.15 x 0.897 = €693.52",
+          "M1S Mega Symphonia case VAT floor at 21% (parcel over €150, duty by classification on top): €693.52 x 1.21 = €839.16",
+          "M1S Mega Symphonia case per box landed: €839.16 / 12 boxes = €69.93",
+          "M1S Mega Symphonia case saving per box: €95.86 - €69.93 = €25.93",
+          "M1S Mega Symphonia case per pack landed: €69.93 / 30 packs = €2.33",
+          "M1L Mega Brave case in EUR: $912.18 x 0.897 = €818.23",
+          "M1L Mega Brave case VAT floor at 21% (parcel over €150, duty by classification on top): €818.23 x 1.21 = €990.06",
+          "M1L Mega Brave case per box landed: €990.06 / 12 boxes = €82.51",
+          "M1L Mega Brave case saving per box: €106.64 - €82.51 = €24.13",
+          "M1L Mega Brave case per pack landed: €82.51 / 30 packs = €2.75",
+          "M2 Inferno X case in EUR: $1,333.69 x 0.897 = €1,196.32",
+          "M2 Inferno X case VAT floor at 21% (parcel over €150, duty by classification on top): €1,196.32 x 1.21 = €1,447.55",
+          "M2 Inferno X case per box landed: €1,447.55 / 12 boxes = €120.63",
+          "M2 Inferno X case saving per box: €198.82 - €120.63 = €78.19",
+          "M2 Inferno X case per pack landed: €120.63 / 30 packs = €4.02",
+          "M2a MEGA Dream ex case in EUR: $1,858.56 x 0.897 = €1,667.13",
+          "M2a MEGA Dream ex case VAT floor at 21% (parcel over €150, duty by classification on top): €1,667.13 x 1.21 = €2,017.23",
+          "M2a MEGA Dream ex case per box landed: €2,017.23 / 20 boxes = €100.86",
+          "M2a MEGA Dream ex case saving per box: €128.20 - €100.86 = €27.34",
+          "M2a MEGA Dream ex case per pack landed: €100.86 / 10 packs = €10.09",
+          "M3 Munikis Zero case in EUR: $1,048.24 x 0.897 = €940.27",
+          "M3 Munikis Zero case VAT floor at 21% (parcel over €150, duty by classification on top): €940.27 x 1.21 = €1,137.73",
+          "M3 Munikis Zero case per box landed: €1,137.73 / 12 boxes = €94.81",
+          "M3 Munikis Zero case per box: €94.81, against €80.28 for a single box landed",
+          "M3 Munikis Zero case premium per box: €94.81 - €80.28 = €14.53 more per box",
+          "M3 Munikis Zero case per pack landed: €94.81 / 30 packs = €3.16",
+          "M3 Munikis Zero pack landed: €80.28 / 30 packs = €2.68",
+          "M6 Storm Emeralda pack landed: €93.50 / 30 packs = €3.12",
+          "M1S Mega Symphonia pack landed: €95.86 / 30 packs = €3.20",
+          "OP-18 Japanese pack landed: €94.80 / 24 packs = €3.95",
+          "M1L Mega Brave pack landed: €106.64 / 30 packs = €3.55",
+          "M2a MEGA Dream ex pack landed: €128.20 / 10 packs = €12.82",
+          "M2 Inferno X pack landed: €198.82 / 30 packs = €6.63",
+          "M6a 30th Celebration pack landed: €270.25 / 20 packs = €13.51",
+          "Two M3 Munikis Zero boxes in EUR: $141.24 x 0.897 = €126.69",
+          "Two M3 Munikis Zero boxes landed: €129.69 x 1.21 = €156.92",
+          "Three M3 Munikis Zero boxes in EUR: $211.86 x 0.897 = €190.04",
+          "Three M3 Munikis Zero boxes VAT floor at 21%: €190.04 x 1.21 = €229.95"
+        ],
+        "paragraphs": [
+          "The table above is the Dutch price board: every current box a Dutch buyer is likely to order, converted at €0.897 to the dollar, with the landed column showing the tax on the goods value alone. For boxes under €150 the landed figure is exact: the €3 duty plus 21% BTW. For the M2 and M6a boxes and every case, marked with an asterisk, it is a floor: 21% BTW on the goods value, with duty by classification on top, unquantified because no verified rate for the card line is on file.",
+          "First, the case is usually the better buy, but not always. The OP-18 case divides to €81.95 a box landed against €94.80 for a single box, saving €12.85 a box, and the M2 Inferno X case divides to €120.63 a box landed against €198.82, saving €78.19 a box. The M3 case breaks the pattern: at $1,048.24 for twelve boxes it costs €94.81 a box landed, against €80.28 for a single M3 box, so the case buyer pays €14.53 more per box. Divide the case before buying it, every time. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case on the shelf.",
+          "Second, the shipping line is missing from every number above, and that is deliberate. BTW is charged on the price plus shipping and insurance, so the landed figures understate the tax on any parcel by the tax on its freight. The shipping quote is confirmed only at checkout or on WhatsApp, because the rate depends on parcel weight and the service chosen. What the table gives you is everything else: the box price in euros at the stated rate, and the exact duty and BTW on the goods."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Shelf price",
+            "In EUR",
+            "Landed",
+            "Per pack"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero (30 x 5)",
+              "$70.62",
+              "€63.35",
+              "€80.28",
+              "€2.68"
+            ],
+            [
+              "M6 Storm Emeralda (30 x 5)",
+              "$82.80",
+              "€74.27",
+              "€93.50",
+              "€3.12"
+            ],
+            [
+              "OP-18 Japanese (24 x 6)",
+              "$84.00",
+              "€75.35",
+              "€94.80",
+              "€3.95"
+            ],
+            [
+              "M1S Mega Symphonia (30 x 5)",
+              "$84.97",
+              "€76.22",
+              "€95.86",
+              "€3.20"
+            ],
+            [
+              "M1L Mega Brave (30 x 5)",
+              "$94.91",
+              "€85.13",
+              "€106.64",
+              "€3.55"
+            ],
+            [
+              "M2a MEGA Dream ex (10 x 10)",
+              "$114.77",
+              "€102.95",
+              "€128.20",
+              "€12.82"
+            ],
+            [
+              "M2 Inferno X (30 x 5)*",
+              "$183.18",
+              "€164.31",
+              "€198.82*",
+              "€6.63"
+            ],
+            [
+              "M6a 30th Celebration (20 x 6)*",
+              "$249.00",
+              "€223.35",
+              "€270.25*",
+              "€13.51"
+            ],
+            [
+              "OP-18 Japanese case (12 boxes)*",
+              "$906.00",
+              "€812.68",
+              "€983.34*",
+              "€3.41"
+            ],
+            [
+              "M2 Inferno X case (12 boxes)*",
+              "$1,333.69",
+              "€1,196.32",
+              "€1,447.55*",
+              "€4.02"
+            ],
+            [
+              "M3 Munikis Zero case (12 boxes)*",
+              "$1,048.24",
+              "€940.27",
+              "€1,137.73*",
+              "€3.16"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Cardmarket vs Dutch shops",
+        "paragraphs": [
+          "A Dutch buyer has five real routes to a Japanese box, and they differ on price, provenance and tax, not just on convenience. Japan-direct means a sealed box shipped from Japan, priced in dollars, with the €150 line and 21% BTW doing the tax work. Cardmarket means a European seller, priced in euros, with no import tax because the import already happened, and a seven-step condition scale to read before paying. The Dutch shop means the same already-imported stock on a shelf in the Netherlands, at a small premium, with same-week delivery.",
+          "Cardmarket is Europe's largest TCG marketplace, with more than 500 million offers and 2 million buyers, and it is the default price reference for Dutch collectors. The local shops are real and competitive: Kaikan Cards in Beugen sells the M2a MEGA Dream ex box at €109.95 as of November 1, 2026, factory sealed from its own import, with the wrap, the logo in the wrap and the JAN barcode checked on arrival. That is €18.25 under the Warehouse landed cost of €128.20 for the same box, so on M2a the Dutch shop wins outright. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices the Pokemon shelf the same way.",
+          "First, the official Pokemon Center Online opened its first mainland European site in October 2025, for Germany, and delivers to German addresses only, so a Dutch buyer has no official store. Second, the local route cannot offer the Japan-direct price on every set: the M3 box lands at €80.28 from Japan, or €2.68 a pack, and a local sealed box carries the import cost, the BTW and the shop margin on top of the same goods. Compare per pack, not per box, and let the set decide the route: M2a goes local, M3 goes Japan-direct."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "M3 box landed",
+            "Per pack",
+            "Tax",
+            "Risk"
+          ],
+          "rows": [
+            [
+              "Japan-direct (Warehouse)",
+              "€80.28 + shipping",
+              "€2.68",
+              "€3 + 21% BTW, IOSS or border",
+              "Sealed, verifiable"
+            ],
+            [
+              "Cardmarket (EU sellers)",
+              "EUR price, no import tax",
+              "Varies by seller",
+              "None, already imported",
+              "Condition scale; seller rating only"
+            ],
+            [
+              "Kaikan Cards (Beugen, NL)",
+              "EUR price, ships from NL",
+              "M2a €109.95",
+              "None, already imported",
+              "Shop checks wrap + JAN barcode"
+            ],
+            [
+              "Local game shop (2HG, TCGBaas)",
+              "EUR price, local shipping",
+              "Above €2.68",
+              "None, already imported",
+              "Shop to walk into; stock varies"
+            ],
+            [
+              "Japan proxy / forwarder",
+              "Box + service fee + shipping",
+              "Above €2.68",
+              "Same €150 line",
+              "Consolidation delays; lottery access"
+            ],
+            [
+              "Pokemon Center Online",
+              "Germany only",
+              "Not available",
+              "No Dutch delivery",
+              "Not a route for a Dutch address"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other Netherlands guides",
+        "note": "From the Warehouse: the question we get most from Dutch buyers is whether anything is still duty-free under €150, because guides written before July 2026 say it is. It is not: the exemption died on July 1, 2026, and the €3 flat duty replaced it. The second question is whether the €3 applies per box, and the answer is per tariff classification, so five boxes of one set cost €3 in duty, not €15.",
+        "paragraphs": [
+          "The top guides for Dutch buyers share one gap: none of them runs the landed cost. The Kaikan Cards guide to Japanese Pokemon 151 walks through the Japanese and English box differences, pack counts and tournament legality, and it does that job well. The Zukan guide to where to buy Pokemon cards maps the marketplaces by region and names Cardmarket for Europe, and it does that job well. But none of them names the €3 duty, none converts a real shelf price into euros, and none divides a case to the box.",
+          "That gap hides three findings. First, the tax cliff: two M3 boxes clear under the €150 line and three cross it. Second, the per-pack parity: the Japan-direct sealed box costs about the same per pack as the local loose-pack market, so the buyer chooses between sealed provenance and loose-pack risk at the same price. Third, the IOSS choice: a seller who charges BTW at checkout leaves nothing to pay at the border, while a seller who does not leaves the carrier to collect the BTW plus a clearance fee on delivery. They live in the division."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to the Netherlands",
+        "paragraphs": [
+          "The order itself is short. First, pick the box and divide it: box price divided by packs, then by cards, against the table above, and check the goods value against the $167.22 line that keeps a parcel under €150. Second, decide one box or a case, and if the answer is a case, divide the case first, because the M3 case proves the word case is not a promise. Third, confirm the exact shipping quote at checkout or on WhatsApp at wa.me/818029350455, since the rate depends on parcel weight and the service chosen. Fourth, pay in dollars; the euro figures here are conversions for planning.",
+          "On arrival, the checks are the same as for any sealed box. Inspect the seal before opening, photograph the box, and compare the set code on the box with the set you ordered: M3, M6, M2a and M6a are current MEGA-era codes, OP-18 is the current One Piece set, and the [how to read Japanese Pokemon cards guide](/blog/how-to-read-japanese-pokemon-cards/) covers the set symbol and rarity marks. If the parcel is over €150, the carrier collects the BTW and any duty on delivery, so keep the invoice and the IOSS receipt with the parcel. If the seal looks wrong, do not open it: run it through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first, because a reseal claim is only provable while the seal is intact.",
+          "Dutch weather is the one local condition worth naming: sealed product stored in a damp cellar or an unheated attic can warp and fade, so store sealed boxes cool, dry and dark, off the floor and out of direct sun. The [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) covers the full routine."
+        ]
+      },
+      {
+        "h": "The risk layer: loose packs, carrier bills, and reprints",
+        "paragraphs": [
+          "The first risk is the loose pack, and it is the only risk that is entirely avoidable. A single booster pack from a marketplace is the oldest scam in the hobby: packs are weighed, searched and resealed, and look identical to sealed ones until opened. The Warehouse does not sell loose booster packs. The recovery is the box: buy the sealed box, or buy nothing.",
+          "The second risk is the carrier bill. A parcel that arrives without IOSS is held until the BTW and the clearance fee are paid, and the fee is the carrier's own charge, not a tax: PostNL and DHL both add one, and it is charged per parcel, not per box. Ask before paying whether the seller uses IOSS, and on any order near the €150 line, ask which side of it the parcel falls, because the duty treatment changes at that line.",
+          "The third risk is the reprint: a restock or reprint announcement reprices sealed stock without warning, and holders protect themselves by buying sealed product they would be content to open. The fourth risk is the language: Japanese cards are not legal in European sanctioned events, so decide the language before the box is bought. The [PSA grading Japanese cards guide](/blog/psa-grading-japanese-cards-worth-it/) covers grading before a buyer spends on it."
+        ]
+      },
+      {
+        "h": "Context: Japan vs Netherlands retail, and why the Japanese box costs what it costs",
+        "paragraphs": [
+          "Japanese Pokemon packs are small because the Japanese market is built for volume: a standard pack holds 5 cards at ¥180, a box holds 30 packs, against 10 or 11 cards and 36 packs in English. The Japanese pack is not a discount version of the English pack: Japanese cards are cut and centered more precisely, which is why Japanese chase cards grade to PSA 10 more often.",
+          "Japanese sets arrive first, often months before the English version, and the MEGA era is the current example: M1S and M1L arrived in August 2025, M2 on September 26, 2025, M2a on November 28, 2025, M3 in January 2026, M5 in May 2026, M6 on July 31, 2026, and M6a on September 16, 2026. A Dutch buyer who wants the newest cards first buys Japanese. Dutch retail adds its own layer: local prices carry the import cost, the BTW and the shop margin, so the Japan-direct box can land under the local shelf price even with shipping."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, anyone buying singles: a sealed box is the wrong tool for a want list, and Cardmarket is the faster route to a single. Second, anyone who needs English cards for sanctioned play: Japanese cards are not legal in European events. Third, anyone whose budget only works if the pulls pay for the box: at €2.68 to €13.51 a pack, with no published pull rates, it almost certainly will not.",
+          "Who this guide is for, restated plainly: Dutch openers who want the most packs for the least money, graders who want the cheapest cards with the best centering, case buyers who divide before they pay, and collectors who want the newest Japanese sets first."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide every box before you pay: box price in euros, then by packs, then by cards",
+          "Check the goods value against $167.22, the €150 line in dollars",
+          "One box per parcel if you want the €3 flat duty; a case crosses €150 and pays duty by classification",
+          "Divide the case before buying it: the M3 case costs €14.53 more per box than a single",
+          "Ask whether the seller uses IOSS before paying, so nothing is collected at the border",
+          "Confirm the exact shipping quote at checkout or on WhatsApp before paying",
+          "Never buy a loose booster pack from a marketplace: weighed, searched, or resealed",
+          "Inspect the seal on arrival and photograph the box before opening",
+          "Store sealed boxes cool, dry and dark: damp cellars and attics warp cardboard",
+          "Confirm the language your events require before buying a Japanese box to play with"
+        ],
+        "h": "Action layer: the Dutch buyer's checklist",
+        "paragraphs": [
+          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing euro listings."
+        ]
+      }
+    ],
+    "slug": "buying-japanese-tcg-cards-in-netherlands",
+    "takeaway": [
+      "One Japanese booster box shipped to the Netherlands pays 21% BTW from the first euro plus a flat €3 duty per tariff classification while the parcel stays under €150, because the old duty-free line died on July 1, 2026. A sealed case crosses €150 and pays 21% BTW plus duty by classification on top. The cheapest pack on the shelf is M3 at €2.68 landed, against a local market where every box already carries import cost, BTW and margin.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, converted at €0.897 to the dollar, with duty and BTW calculated on goods value only because the shipping quote is confirmed at checkout. When the next MEGA-era set opens for pre-order, run the checklist first and divide the box before you pay.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides every box. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs. The Singapore hub runs the same numbers for a different tax line: [buying Japanese TCG cards in Singapore](/blog/buying-japanese-tcg-cards-in-singapore/)."
+    ]
+  },
   "buying-japanese-tcg-cards-in-philippines": {
     "datePublished": "2026-11-06",
     "faqs": [
@@ -6681,7 +7005,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Buying TCG from Japan is not a shortcut around cost; it is a choice about where cost and risk sit. Proxies move both onto you and call the difference savings. Marketplaces split them unpredictably. A specialist store prices them into the shelf and answers for them. Any of the three can be the right answer — for a buyer who has written the stack down, priced the total-loss case, and checked their own customs rules first.",
       "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box. Choosing the shop itself is a separate decision: [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) runs the six checks — real stock, sealed authenticity, landed cost, and the duty position now that de minimis is dead. Country buyers can skip the general math: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) runs the S$400 GST line in SGD, and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) runs the ₱10,000 de minimis line in pesos.",
-      "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes."
+      "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes. The country hubs run the same numbers for a single destination: [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) works the €3 duty and 21% BTW, and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/) works the 7,5% duty and 11% VAT in rupiah."
     ]
   },
   "dragon-ball-fusion-world-beginners-guide": {
@@ -10722,6 +11046,337 @@ export const POSTS: Record<string, BlogPost> = {
       "Buy it as the celebration it is: to open and enjoy, to chase Pikachu with a floor under every pack, or to hold as a dated anniversary artifact. Do not buy it as a promise. The Warehouse stocks it proudly and describes it plainly — both, in this hobby, are the point.",
       "Collecting special sets beyond the anniversary range? The [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional Pokemon Center boxes, the anniversary ladder, and the themed gift sets from one shelf, including the box that holds no packs at all.",
       "For the Mega set built around one Charizard, the [M2 Inferno X buyers guide](/blog/m2-inferno-x-buyers-guide/) prices the box at $183.18 against the case at $1,333.69, or $111.14 per box in the case."
+    ]
+  },
+  "membeli-kartu-tcg-jepang-di-indonesia": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "Ya, di setiap paket di atas US$3 FOB: bea masuk flat 7,5% ditambah PPN efektif 11% atas nilai impor, jadi sekitar 19,3% di atas harga barang sebelum ongkir. Satu box M3 landed Rp1.526.334, dan tidak ada paket bebas karena ambang US$3 hanya ambang bea, bukan ambang PPN. Garis lengkapnya dihitung di panduan [pengiriman dan bea cukai dari Jepang](/blog/buying-tcg-from-japan-shipping-customs-proxy/).",
+        "q": "Apakah saya bayar pajak saat beli booster box Jepang dari Jepang ke Indonesia?"
+      },
+      {
+        "a": "Tergantung set, jadi bandingkan per pack. Box M1L di Tokopedia dijual Rp1.903.000 pada 6 November 2026, Rp148.322 di bawah harga landed Warehouse Rp2.051.322, jadi untuk M1L Tokopedia menang. Untuk M3, box Japan-direct landed Rp50.878 per pack, di bawah kebanyakan stok sealed lokal. Tabel perbandingannya ada di decision layer di atas, dan papan pack lengkap ada di panduan [pack booster Pokemon Jepang terbaik](/blog/best-japanese-pokemon-booster-pack/).",
+        "q": "Lebih murah beli di Tokopedia atau langsung dari Jepang?"
+      },
+      {
+        "a": "Tidak ada angka di sini. Ongkir yang persis dikonfirmasi saat checkout atau di WhatsApp di wa.me/818029350455, karena tarifnya tergantung berat paket dan layanan yang dipilih. Yang panduan ini berikan adalah segala hal lain dalam harga landed: harga box dalam rupiah pada kurs yang dinyatakan, dan bea plus PPN yang persis, sehingga satu-satunya yang belum diketahui adalah ongkirnya sendiri. Jangan percaya panduan yang mengutip waktu pengiriman atau harga ongkir untuk paket yang belum pernah ditimbangnya.",
+        "q": "Berapa ongkir dari Jepang ke Indonesia?"
+      }
+    ],
+    "h1": "Membeli Kartu TCG Jepang di Indonesia",
+    "intro": [
+      "Beli kartu Pokemon dan One Piece Jepang di Indonesia dengan memperhatikan satu hal: tidak ada lagi paket bebas pajak. Sejak 5 Maret 2025, setiap paket dari Jepang dikenai bea masuk flat 7,5% ditambah PPN efektif 11%, dan ambang bebas bea hanya US$3 FOB, sekitar Rp54.339, jadi setiap box sungguhan kena pajak. Panduan ini menghitung harga landed dalam rupiah untuk satu box dan satu case, lalu membandingkannya dengan Tokopedia dan Shopee. Harga per 6 November 2026, kurs Rp18.113 per dolar.",
+      "Panduan ini untuk pembeli Indonesia yang ingin sealed box Jepang dikirim dari Jepang, dengan bea dan pajak dihitung sebelum membayar. Panduan ini bukan untuk pembeli single, karena sealed box adalah alat yang salah untuk want list, dan bukan untuk yang butuh kartu Inggris untuk turnamen resmi: kartu Jepang tidak legal di event resmi di luar Asia. Panduan [toko kartu Jepang online terbaik](/blog/best-japanese-card-shop-online/) memberi peringkat toko-toko Japan-direct; panduan ini menghitung berapa biaya sebenarnya bagi pembeli Indonesia."
+    ],
+    "metaDescription": "Beli kartu Pokemon dan One Piece Jepang di Indonesia: bea 7,5% + PPN 11% di setiap paket, harga landed dalam rupiah, dan bandingkan dengan Tokopedia.",
+    "metaTitle": "Membeli Kartu TCG Jepang di Indonesia",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "Jawabannya: bea 7,5% + PPN 11% di setiap paket",
+        "paragraphs": [
+          "Aturannya ada di PMK 4/2025, berlaku sejak 5 Maret 2025. Paket barang kiriman yang diberitahukan melalui Consignment Note dengan nilai pabean FOB US$3 sampai US$1.500 dikenai tarif bea masuk flat 7,5% untuk barang umum, dan dibebaskan dari bea masuk tambahan serta PPh. Kartu trading bukan salah satu dari delapan kelompok komoditas khusus yang dikenai tarif 0%, 15% atau 25%, jadi tarif 7,5% yang berlaku. PPN diatur menurut ketentuan yang berlaku: tarif 12% dengan dasar pengenaan pajak dikali 11/12, jadi PPN efektifnya 11% atas nilai impor.",
+          "Yang paling sering disalahpahami adalah ambang US$3. Ambang itu hanya ambang bea masuk: di bawah US$3, bea dibebaskan, tetapi PPN tetap berlaku karena tidak ada ambang bebas PPN. US$3 sama dengan Rp54.339 pada kurs 6 November 2026, jadi setiap box di rak kami, yang termurah sekalipun, melewati ambang itu berkali-kali lipat. Tidak ada cerita paket kecil gratis di sini: setiap pesanan nyata membayar sekitar 19,3% di atas harga barang, sebelum ongkir dan biaya kurir.",
+          "Di atas FOB US$1.500, atau Rp27.169.500, band flat tidak berlaku lagi. Paket itu butuh deklarasi impor penuh (PIB), dengan tarif bea normal menurut klasifikasi HS ditambah PPN dan PPh 22. Satu case di rak kami melewati garis itu: case M2a MEGA Dream ex seharga $1.858,56, atau Rp33.664.097, jadi harga landed-nya tidak bisa dihitung dari band flat 7,5% dan panduan ini tidak akan berpura-pura bisa. Semua case lain berada di bawah garis itu.",
+          "Rumus landed di panduan ini sederhana dan bisa diulang: harga barang dikali 1,075 untuk bea, lalu hasilnya dikali 1,11 untuk PPN. Ongkir tidak termasuk, karena ongkir dikonfirmasi saat checkout dan PPN dihitung atas nilai CIF, jadi semua angka landed di sini adalah lantai, bukan total akhir. Yang panduan ini berikan adalah segala hal lain: harga box dalam rupiah pada kurs yang dinyatakan, dan bea plus PPN yang persis, sehingga satu-satunya yang belum diketahui adalah ongkirnya."
+        ]
+      },
+      {
+        "h": "Lapisan uang: setiap box dan case dalam rupiah",
+        "math": [
+          "Kurs yang dipakai: 1 USD = Rp18.113, 6 November 2026 (mid-market)",
+          "Ambang bea US$3 dalam rupiah: US$3 x 18.113 = Rp54.339",
+          "Garis FOB US$1.500 dalam rupiah: US$1.500 x 18.113 = Rp27.169.500",
+          "M3 Munikis Zero box dalam Rp: $70.62 x 18.113 = Rp1.279.140",
+          "M3 Munikis Zero box bea masuk 7,5%: Rp1.279.140 x 0.075 = Rp95.936",
+          "M3 Munikis Zero box PPN 11%: Rp1.375.076 x 0.11 = Rp151.258",
+          "M3 Munikis Zero box landed: Rp1.279.140 + Rp95.936 + Rp151.258 = Rp1.526.334",
+          "M6 Storm Emeralda box dalam Rp: $82.80 x 18.113 = Rp1.499.756",
+          "M6 Storm Emeralda box bea masuk 7,5%: Rp1.499.756 x 0.075 = Rp112.482",
+          "M6 Storm Emeralda box PPN 11%: Rp1.612.238 x 0.11 = Rp177.346",
+          "M6 Storm Emeralda box landed: Rp1.499.756 + Rp112.482 + Rp177.346 = Rp1.789.584",
+          "M1S Mega Symphonia box dalam Rp: $84.97 x 18.113 = Rp1.539.062",
+          "M1S Mega Symphonia box bea masuk 7,5%: Rp1.539.062 x 0.075 = Rp115.430",
+          "M1S Mega Symphonia box PPN 11%: Rp1.654.492 x 0.11 = Rp181.994",
+          "M1S Mega Symphonia box landed: Rp1.539.062 + Rp115.430 + Rp181.994 = Rp1.836.486",
+          "OP-18 Japanese box dalam Rp: $84.00 x 18.113 = Rp1.521.492",
+          "OP-18 Japanese box bea masuk 7,5%: Rp1.521.492 x 0.075 = Rp114.112",
+          "OP-18 Japanese box PPN 11%: Rp1.635.604 x 0.11 = Rp179.916",
+          "OP-18 Japanese box landed: Rp1.521.492 + Rp114.112 + Rp179.916 = Rp1.815.520",
+          "M1L Mega Brave box dalam Rp: $94.91 x 18.113 = Rp1.719.105",
+          "M1L Mega Brave box bea masuk 7,5%: Rp1.719.105 x 0.075 = Rp128.933",
+          "M1L Mega Brave box PPN 11%: Rp1.848.038 x 0.11 = Rp203.284",
+          "M1L Mega Brave box landed: Rp1.719.105 + Rp128.933 + Rp203.284 = Rp2.051.322",
+          "M2a MEGA Dream ex box dalam Rp: $114.77 x 18.113 = Rp2.078.829",
+          "M2a MEGA Dream ex box bea masuk 7,5%: Rp2.078.829 x 0.075 = Rp155.912",
+          "M2a MEGA Dream ex box PPN 11%: Rp2.234.741 x 0.11 = Rp245.822",
+          "M2a MEGA Dream ex box landed: Rp2.078.829 + Rp155.912 + Rp245.822 = Rp2.480.563",
+          "M2 Inferno X box dalam Rp: $183.18 x 18.113 = Rp3.317.939",
+          "M2 Inferno X box bea masuk 7,5%: Rp3.317.939 x 0.075 = Rp248.845",
+          "M2 Inferno X box PPN 11%: Rp3.566.784 x 0.11 = Rp392.346",
+          "M2 Inferno X box landed: Rp3.317.939 + Rp248.845 + Rp392.346 = Rp3.959.130",
+          "M6a 30th Celebration box dalam Rp: $249.00 x 18.113 = Rp4.510.137",
+          "M6a 30th Celebration box bea masuk 7,5%: Rp4.510.137 x 0.075 = Rp338.260",
+          "M6a 30th Celebration box PPN 11%: Rp4.848.397 x 0.11 = Rp533.324",
+          "M6a 30th Celebration box landed: Rp4.510.137 + Rp338.260 + Rp533.324 = Rp5.381.721",
+          "OP-18 Japanese case dalam Rp: $906.00 x 18.113 = Rp16.410.378",
+          "OP-18 Japanese case bea masuk 7,5%: Rp16.410.378 x 0.075 = Rp1.230.778",
+          "OP-18 Japanese case PPN 11%: Rp17.641.156 x 0.11 = Rp1.940.527",
+          "OP-18 Japanese case landed: Rp16.410.378 + Rp1.230.778 + Rp1.940.527 = Rp19.581.683",
+          "OP-18 Japanese case per box landed: Rp19.581.683 / 12 boxes = Rp1.631.807",
+          "OP-18 Japanese case hemat per box: Rp1.815.520 - Rp1.631.807 = Rp183.713",
+          "OP-18 Japanese case per pack landed: Rp1.631.807 / 24 packs = Rp67.992",
+          "M1S Mega Symphonia case dalam Rp: $773.15 x 18.113 = Rp14.004.066",
+          "M1S Mega Symphonia case bea masuk 7,5%: Rp14.004.066 x 0.075 = Rp1.050.305",
+          "M1S Mega Symphonia case PPN 11%: Rp15.054.371 x 0.11 = Rp1.655.981",
+          "M1S Mega Symphonia case landed: Rp14.004.066 + Rp1.050.305 + Rp1.655.981 = Rp16.710.352",
+          "M1S Mega Symphonia case per box landed: Rp16.710.352 / 12 boxes = Rp1.392.529",
+          "M1S Mega Symphonia case hemat per box: Rp1.836.486 - Rp1.392.529 = Rp443.957",
+          "M1S Mega Symphonia case per pack landed: Rp1.392.529 / 30 packs = Rp46.418",
+          "M1L Mega Brave case dalam Rp: $912.18 x 18.113 = Rp16.522.316",
+          "M1L Mega Brave case bea masuk 7,5%: Rp16.522.316 x 0.075 = Rp1.239.174",
+          "M1L Mega Brave case PPN 11%: Rp17.761.490 x 0.11 = Rp1.953.764",
+          "M1L Mega Brave case landed: Rp16.522.316 + Rp1.239.174 + Rp1.953.764 = Rp19.715.254",
+          "M1L Mega Brave case per box landed: Rp19.715.254 / 12 boxes = Rp1.642.938",
+          "M1L Mega Brave case hemat per box: Rp2.051.322 - Rp1.642.938 = Rp408.384",
+          "M1L Mega Brave case per pack landed: Rp1.642.938 / 30 packs = Rp54.765",
+          "M2 Inferno X case dalam Rp: $1,333.69 x 18.113 = Rp24.157.127",
+          "M2 Inferno X case bea masuk 7,5%: Rp24.157.127 x 0.075 = Rp1.811.785",
+          "M2 Inferno X case PPN 11%: Rp25.968.912 x 0.11 = Rp2.856.580",
+          "M2 Inferno X case landed: Rp24.157.127 + Rp1.811.785 + Rp2.856.580 = Rp28.825.492",
+          "M2 Inferno X case per box landed: Rp28.825.492 / 12 boxes = Rp2.402.124",
+          "M2 Inferno X case hemat per box: Rp3.959.130 - Rp2.402.124 = Rp1.557.006",
+          "M2 Inferno X case per pack landed: Rp2.402.124 / 30 packs = Rp80.071",
+          "M3 Munikis Zero case dalam Rp: $1,048.24 x 18.113 = Rp18.986.771",
+          "M3 Munikis Zero case bea masuk 7,5%: Rp18.986.771 x 0.075 = Rp1.424.008",
+          "M3 Munikis Zero case PPN 11%: Rp20.410.779 x 0.11 = Rp2.245.186",
+          "M3 Munikis Zero case landed: Rp18.986.771 + Rp1.424.008 + Rp2.245.186 = Rp22.655.965",
+          "M3 Munikis Zero case per box landed: Rp22.655.965 / 12 boxes = Rp1.887.997",
+          "M3 Munikis Zero case per box: Rp1.887.997, melawan Rp1.526.334 untuk satu box landed",
+          "M3 Munikis Zero case lebih mahal per box: Rp1.887.997 - Rp1.526.334 = Rp361.663 lebih per box",
+          "M3 Munikis Zero case per pack landed: Rp1.887.997 / 30 packs = Rp62.933",
+          "M2a MEGA Dream ex case dalam Rp: $1,858.56 x 18.113 = Rp33.664.097",
+          "M2a MEGA Dream ex case di atas band FOB US$1.500: tarif flat 7,5% tidak berlaku; deklarasi penuh PIB diperlukan",
+          "M3 Munikis Zero pack landed: Rp1.526.334 / 30 packs = Rp50.878",
+          "M6 Storm Emeralda pack landed: Rp1.789.584 / 30 packs = Rp59.653",
+          "M1S Mega Symphonia pack landed: Rp1.836.486 / 30 packs = Rp61.216",
+          "OP-18 Japanese pack landed: Rp1.815.520 / 24 packs = Rp75.647",
+          "M1L Mega Brave pack landed: Rp2.051.322 / 30 packs = Rp68.377",
+          "M2a MEGA Dream ex pack landed: Rp2.480.563 / 10 packs = Rp248.056",
+          "M2 Inferno X pack landed: Rp3.959.130 / 30 packs = Rp131.971",
+          "M6a 30th Celebration pack landed: Rp5.381.721 / 20 packs = Rp269.086"
+        ],
+        "paragraphs": [
+          "Tabel di atas adalah papan harga Indonesia: setiap box yang mungkin dipesan pembeli Indonesia, dikonversi pada Rp18.113 per dolar, dengan kolom landed yang menunjukkan bea 7,5% plus PPN 11% atas harga barang. Kolom landed adalah yang paling banyak dibayar pembeli dalam pajak atas barangnya: bea dan PPN dihitung atas nilai barang, dan PPN atas ongkir ditambahkan setelah ongkir dikonfirmasi.",
+          "Dua pola layak diperhatikan. Pertama, case biasanya lebih murah, tetapi tidak selalu, dan pengecualiannya mahal. Case OP-18 dibagi menjadi Rp1.631.807 per box landed melawan Rp1.815.520 untuk satu box, menghemat Rp183.713 per box, dan case M2 Inferno X dibagi menjadi Rp2.402.124 per box landed melawan Rp3.959.130, menghemat Rp1.557.006 per box. Case M3 mematahkan pola itu: seharga $1.048,24 untuk dua belas box, case itu berharga Rp1.887.997 per box landed, melawan Rp1.526.334 untuk satu box M3, jadi pembeli case membayar Rp361.663 lebih per box. Bagi case sebelum membelinya, setiap kali. Panduan [case Pokemon Jepang terbaik](/blog/best-japanese-pokemon-sealed-case-to-buy/) membagi setiap case di rak.",
+          "Kedua, case M2a adalah pengecualian yang berbeda: bukan karena harganya, tetapi karena band-nya. Case M2a seharga $1.858,56 melewati FOB US$1.500, jadi tidak masuk band flat 7,5% dan butuh deklarasi penuh. Pembeli yang mengira semua case dihitung dengan rumus yang sama akan salah di case ini. Satu box M2a sendiri, seharga $114,77, berada jauh di bawah garis itu dan landed-nya Rp2.480.563, atau Rp248.056 per pack."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Harga rak",
+            "Dalam Rp",
+            "Landed",
+            "Per pack"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero (30 x 5)",
+              "$70.62",
+              "Rp1.279.140",
+              "Rp1.526.334",
+              "Rp50.878"
+            ],
+            [
+              "M6 Storm Emeralda (30 x 5)",
+              "$82.80",
+              "Rp1.499.756",
+              "Rp1.789.584",
+              "Rp59.653"
+            ],
+            [
+              "OP-18 Japanese (24 x 6)",
+              "$84.00",
+              "Rp1.521.492",
+              "Rp1.815.520",
+              "Rp75.647"
+            ],
+            [
+              "M1S Mega Symphonia (30 x 5)",
+              "$84.97",
+              "Rp1.539.062",
+              "Rp1.836.486",
+              "Rp61.216"
+            ],
+            [
+              "M1L Mega Brave (30 x 5)",
+              "$94.91",
+              "Rp1.719.105",
+              "Rp2.051.322",
+              "Rp68.377"
+            ],
+            [
+              "M2a MEGA Dream ex (10 x 10)",
+              "$114.77",
+              "Rp2.078.829",
+              "Rp2.480.563",
+              "Rp248.056"
+            ],
+            [
+              "M2 Inferno X (30 x 5)",
+              "$183.18",
+              "Rp3.317.939",
+              "Rp3.959.130",
+              "Rp131.971"
+            ],
+            [
+              "M6a 30th Celebration (20 x 6)",
+              "$249.00",
+              "Rp4.510.137",
+              "Rp5.381.721",
+              "Rp269.086"
+            ],
+            [
+              "OP-18 Japanese case (12 boxes)",
+              "$906.00",
+              "Rp16.410.378",
+              "Rp19.581.683",
+              "Rp67.992"
+            ],
+            [
+              "M2 Inferno X case (12 boxes)",
+              "$1,333.69",
+              "Rp24.157.127",
+              "Rp28.825.492",
+              "Rp80.071"
+            ],
+            [
+              "M3 Munikis Zero case (12 boxes)",
+              "$1,048.24",
+              "Rp18.986.771",
+              "Rp22.655.965",
+              "Rp62.933"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Lapisan keputusan: Japan-direct vs Tokopedia vs Shopee",
+        "paragraphs": [
+          "Pembeli Indonesia punya lima rute nyata menuju box Jepang, dan rute-rute itu berbeda pada harga, asal barang dan pajak, bukan hanya pada kenyamanan. Japan-direct berarti sealed box dikirim dari Jepang, dihargai dalam dolar, dengan bea 7,5% dan PPN 11% yang mengerjakan pajaknya. Tokopedia berarti seller lokal, dihargai dalam rupiah, tanpa pajak impor karena impornya sudah terjadi, tetapi dengan risiko kondisi dan asal barang dari marketplace. Shopee Indonesia berarti pasar sealed yang sama dengan format live. Edisi Bahasa Indonesia berarti produk resmi berbahasa Indonesia, bukan impor Jepang. Proxy berarti alamat Jepang dan satu kaki forwarding, satu-satunya jalan ke produk lotre.",
+          "Tokopedia adalah basis listing lokal terbesar untuk box Jepang, dan perbandingan konkretnya jujur: Zlap Collectibles menjual box M1L Mega Brave seharga Rp1.903.000 pada 6 November 2026, sementara harga landed Warehouse untuk box yang sama adalah Rp2.051.322, jadi Tokopedia lebih murah Rp148.322 untuk M1L. Itu kemenangan lokal yang nyata, dan panduan ini tidak akan menyembunyikannya. Tetapi harga itu adalah satu listing yang bisa bergerak, dan pembeli marketplace menanggung risiko asal barang serta kondisi yang tidak bisa diverifikasi sebelum barang tiba. Panduan [box Pokemon Jepang terbaik](/blog/best-japanese-pokemon-booster-box-to-buy/) menghitung rak Pokemon dengan cara yang sama, dan panduan [pembeli M2 Inferno X](/blog/m2-inferno-x-buyers-guide/) membawa detail set-nya.",
+          "Dua fakta menjadi jangkar perbandingan. Pertama, Indonesia punya edisi Pokemon TCG berbahasa Indonesia sendiri, cetakan resmi berbahasa lokal dengan tekstur gaya Jepang: Futuristic Box perayaan 30 tahun, seharga $340, memasangkan dua promo Pikachu ex dengan tiga box booster edisi Indonesia, 60 pack seluruhnya, rilis 28 September 2026. Untuk pemain, itu pesaing nyata bagi impor Jepang; untuk kolektor yang mengejar SAR Jepang, bukan. Kedua, perilaku belanja lokal berbeda: TikTok Shop dan Shopee Live menjual pack yang dibuka langsung di stream, format rip and ship yang menjadi ciri belanja Indonesia, dan pembeli yang membandingkan harga harus membandingkan harga sealed box dengan sealed box, bukan dengan pack yang dibuka di live."
+        ],
+        "table": {
+          "head": [
+            "Rute",
+            "Box M3 landed",
+            "Per pack",
+            "Pajak",
+            "Risiko"
+          ],
+          "rows": [
+            [
+              "Japan-direct (Warehouse)",
+              "Rp1.526.334 + ongkir",
+              "Rp50.878",
+              "Bea 7,5% + PPN 11% di bea cukai",
+              "Sealed, terverifikasi"
+            ],
+            [
+              "Tokopedia (seller lokal)",
+              "Harga listing dalam rupiah",
+              "Tergantung listing",
+              "Tidak ada, sudah diimpor",
+              "Reputasi seller saja"
+            ],
+            [
+              "Shopee Indonesia",
+              "Harga listing dalam rupiah",
+              "Tergantung listing",
+              "Tidak ada, sudah diimpor",
+              "Live rip and ship; kondisi bervariasi"
+            ],
+            [
+              "Edisi Bahasa Indonesia",
+              "Futuristic Box $340",
+              "Bukan box Jepang",
+              "Produk resmi lokal",
+              "Untuk pemain, bukan kolektor SAR Jepang"
+            ],
+            [
+              "Proxy / forwarder Jepang",
+              "Box + fee + ongkir",
+              "Di atas Rp50.878",
+              "Garis US$3 yang sama",
+              "Keterlambatan konsolidasi; akses lotre"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Yang tidak ada di panduan Indonesia lain",
+        "note": "Dari Warehouse: pertanyaan yang paling sering kami terima dari pembeli Indonesia adalah apakah paket kecil bebas pajak, karena setiap panduan lama menyebut ambang US$3 seolah-olah paket kecil gratis. Bukan: US$3 hanya ambang bea, PPN tetap berlaku dari rupiah pertama, dan setiap box sungguhan melewati US$3. Pertanyaan kedua adalah apakah case selalu lebih murah, dan case M3 adalah jawabannya: Rp1.887.997 per box dalam case melawan Rp1.526.334 per box satuan, jadi tidak, dan bagi sebelum membayar.",
+        "paragraphs": [
+          "Panduan-panduan teratas untuk pembeli Indonesia punya satu kekurangan yang sama: tidak ada yang menghitung harga landed. Listing Tokopedia menunjukkan harga dan isi box, dan itu dikerjakan dengan baik. Papan seller PACTCG menunjukkan harga ask harian dalam yen untuk 35 set, dan itu dikerjakan dengan baik. Panduan pasar Indonesia menunjukkan kanal-kanal lokal, dan itu dikerjakan dengan baik. Tetapi tidak ada yang menyebut PMK 4/2025, tidak ada yang mengonversi harga rak nyata ke rupiah, dan tidak ada yang membagi case ke box.",
+          "Kekurangan itu menyembunyikan tiga temuan. Pertama, tidak ada paket gratis: ambang US$3 hanya ambang bea, dan setiap box membayar sekitar 19,3% di atas harga barang. Kedua, jebakan case: case M3 berharga Rp361.663 lebih per box daripada satu box, jadi kata case bukan janji. Ketiga, garis US$1.500: case M2a melewatinya dan keluar dari band flat, jadi pembeli case besar membayar dengan aturan yang berbeda. Panduan yang hanya mendaftar toko tidak bisa memunculkan ketiganya. Ketiganya hidup di pembagian."
+        ]
+      },
+      {
+        "h": "Lapisan praktis: memesan dari Jepang ke Indonesia",
+        "paragraphs": [
+          "Pesanannya sendiri singkat. Pertama, pilih box dan bagi: harga box dibagi pack, lalu dibagi kartu, berdasarkan tabel di atas, dan cek nilai FOB terhadap garis US$1.500 yang mengubah aturan main. Kedua, putuskan satu box atau satu case, dan jika jawabannya case, bagi case dulu, karena case M3 membuktikan kata case bukan janji. Ketiga, konfirmasi ongkir yang persis saat checkout atau di WhatsApp di wa.me/818029350455, karena tarifnya tergantung berat paket dan layanan yang dipilih. Keempat, bayar dalam dolar dan biarkan konversi terjadi pada kurs di atas; angka rupiah di sini adalah konversi untuk perencanaan, bukan daftar harga terpisah.",
+          "Saat tiba, pemeriksaannya sama seperti box sealed lainnya. Periksa segel sebelum membuka, foto box dari setiap sisi, dan bandingkan kode set pada box dengan set yang dipesan: M3, M6, M2a dan M6a adalah kode era MEGA saat ini, OP-18 adalah set One Piece saat ini, dan panduan [cara membaca kartu Pokemon Jepang](/blog/how-to-read-japanese-pokemon-cards/) membahas simbol set dan tanda rarity. Simpan invoice dan Consignment Note bersama paket sampai bea cukai selesai. Jika segel terlihat salah, jangan dibuka: jalankan dulu panduan [cara mengetahui box booster dibuka ulang](/blog/how-to-tell-if-a-booster-box-is-resealed/), karena klaim reseal hanya bisa dibuktikan selama segel masih utuh.",
+          "Iklim tropis adalah satu kondisi lokal yang layak disebut: box sealed yang disimpan di tempat panas dan lembap bisa melengkung dan memudar, jadi simpan box sealed di tempat sejuk, kering dan gelap, jauh dari lantai dan sinar matahari langsung. Panduan [cara menyimpan box booster sealed](/blog/how-to-store-sealed-booster-boxes/) membahas rutinitas lengkapnya."
+        ]
+      },
+      {
+        "h": "Lapisan risiko: loose pack, garis US$1.500, dan reprint",
+        "paragraphs": [
+          "Risiko pertama adalah loose pack, dan ini satu-satunya risiko yang sepenuhnya bisa dihindari. Satu booster pack dari marketplace adalah penipuan tertua di hobi ini: pack ditimbang, dicari isinya dan disegel ulang, dan pack yang disegel ulang terlihat sama persis dengan pack sealed sampai dibuka. Warehouse tidak menjual loose booster pack. Pemulihannya adalah box: beli sealed box, atau jangan beli.",
+          "Risiko kedua adalah case di atas garis US$1.500. Case M2a membutuhkan deklarasi impor penuh, dan tarifnya mengikuti klasifikasi HS, bukan band flat 7,5%, jadi harga landed-nya tidak bisa dihitung sebelum klasifikasi ditetapkan. Pembeli yang memesan case besar tanpa memeriksa garis itu akan terkejut di bea cukai. Tanyakan nilai FOB paket sebelum membayar pada pesanan apa pun yang mendekati garis.",
+          "Risiko ketiga adalah reprint: pengumuman restock atau reprint mengubah harga produk sealed tanpa peringatan, dan pemegang melindungi diri dengan membeli produk sealed yang mereka rela buka. Risiko keempat adalah bahasa: kartu Jepang tidak legal di event resmi di luar Asia, jadi putuskan bahasa sebelum box dibeli, bukan sesudahnya. Panduan [apakah grading PSA kartu Jepang sepadan](/blog/psa-grading-japanese-cards-worth-it/) membahas grading sebelum pembeli mengeluarkan uang untuk itu."
+        ]
+      },
+      {
+        "h": "Konteks: ritel Jepang vs Indonesia, dan mengapa box Jepang berharga segitu",
+        "paragraphs": [
+          "Pack Pokemon Jepang kecil karena pasar Jepang dibangun untuk volume: satu pack standar berisi 5 kartu seharga ¥180, satu box berisi 30 pack. Pack Inggris berisi 10 atau 11 kartu dan box Inggris berisi 36 pack. Pack Jepang bukan versi diskon dari pack Inggris: kartu Jepang dipotong dan dipusatkan lebih presisi, itulah sebabnya kartu chase Jepang lebih sering mendapat PSA 10.",
+          "Jeda rilis berjalan dengan cara yang sama. Set Jepang tiba lebih dulu, sering berbulan-bulan sebelum versi Inggris, dan era MEGA adalah contoh saat ini: M1S dan M1L tiba pada Agustus 2025, M2 pada 26 September 2025, M2a pada 28 November 2025, M3 pada Januari 2026, M5 pada Mei 2026, M6 pada 31 Juli 2026, dan M6a pada 16 September 2026. Pembeli Indonesia yang ingin kartu terbaru lebih dulu membeli Jepang. Ritel lokal menambah lapisannya sendiri: harga lokal membawa biaya impor, pajak dan margin toko, sehingga box Japan-direct, bahkan dengan ongkir, bisa landed di bawah harga rak lokal. Panduan [pembeli M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) dan panduan [preorder OP-18](/blog/op-18-the-dominance-of-god-preorder-guide/) membawa detail set-nya."
+        ]
+      },
+      {
+        "h": "Panduan ini BUKAN untuk siapa",
+        "paragraphs": [
+          "Tiga kelompok sebaiknya tidak bertindak berdasarkan panduan ini. Pertama, siapa pun yang membeli single: sealed box adalah alat yang salah untuk want list, dan Tokopedia atau toko lokal adalah rute yang lebih cepat menuju satu kartu. Kedua, siapa pun yang butuh kartu Inggris untuk turnamen resmi: kartu Jepang tidak legal di event resmi di luar Asia. Ketiga, siapa pun yang anggarannya hanya masuk akal jika hasil bukaannya membayar box-nya: dengan Rp50.878 sampai Rp269.086 per pack, tanpa pull rate resmi, hampir pasti tidak.",
+          "Untuk siapa panduan ini, dinyatakan dengan jelas: opener Indonesia yang ingin pack terbanyak dengan uang paling sedikit, grader yang ingin kartu termurah dengan centering terbaik, pembeli case yang membagi sebelum membayar, dan kolektor yang ingin set Jepang terbaru lebih dulu."
+        ]
+      },
+      {
+        "checklist": [
+          "Bagi setiap box sebelum membayar: harga box dalam rupiah, lalu per pack, lalu per kartu",
+          "Cek nilai FOB terhadap garis US$1.500, atau Rp27.169.500",
+          "Satu box per paket jika ingin band flat 7,5%; case M2a melewati garis dan butuh deklarasi penuh",
+          "Bagi case sebelum membelinya: case M3 berharga Rp361.663 lebih per box daripada satu box",
+          "Tanyakan nilai FOB paket sebelum membayar pada pesanan apa pun yang mendekati garis US$1.500",
+          "Konfirmasi ongkir yang persis saat checkout atau di WhatsApp sebelum membayar",
+          "Jangan pernah beli loose booster pack dari marketplace: ditimbang, dicari isinya, atau disegel ulang",
+          "Periksa segel saat tiba dan foto box sebelum membuka",
+          "Simpan box sealed di tempat sejuk, kering dan gelap: panas dan lembap tropis melengkungkan kardus",
+          "Konfirmasi bahasa yang dibutuhkan event Anda sebelum membeli box Jepang untuk dimainkan"
+        ],
+        "h": "Lapisan aksi: checklist pembeli Indonesia",
+        "paragraphs": [
+          "Jalankan ini secara berurutan sebelum box Jepang berikutnya yang Anda pertimbangkan. Butuh lima menit dan menggantikan satu sore membandingkan listing rupiah."
+        ]
+      }
+    ],
+    "slug": "membeli-kartu-tcg-jepang-di-indonesia",
+    "takeaway": [
+      "Satu booster box Jepang yang dikirim ke Indonesia membayar bea masuk flat 7,5% ditambah PPN efektif 11% di setiap paket, karena ambang bebas bea hanya US$3 FOB dan tidak ada ambang bebas PPN. Case yang melewati FOB US$1.500 keluar dari band flat dan butuh deklarasi penuh. Pack termurah di rak adalah M3 seharga Rp50.878 landed, melawan pasar lokal yang setiap box-nya sudah membawa biaya impor, pajak dan margin.",
+      "Harga bergerak, jadi perlakukan setiap angka di sini sebagai cap waktu: harga rak kami per 6 November 2026, dikonversi pada Rp18.113 per dolar, dengan bea dan PPN dihitung atas nilai barang saja karena ongkir dikonfirmasi saat checkout. Saat set era MEGA berikutnya dibuka untuk preorder, jalankan checklist dulu dan bagi box sebelum membayar.",
+      "Masih bimbang antara sealed dan single? Panduan [matematika sealed case vs booster box](/blog/sealed-case-vs-booster-box-the-math/) menjalankan disiplin yang sama untuk satu game. Untuk rak Pokemon saja, [papan harga booster box Pokemon Jepang](/blog/japanese-pokemon-booster-box-price/) membagi setiap box. Dan jika Anda belum memilih game, [TCG mana yang harus dimulai](/blog/which-tcg-should-you-start/) membandingkan biaya box pertama yang nyata. Hub Malaysia menjalankan angka yang sama untuk garis pajak yang berbeda: [beli kartu TCG Jepang di Malaysia](/blog/buying-japanese-tcg-cards-in-malaysia/)."
     ]
   },
   "one-piece-card-game-colors-explained": {
