@@ -2336,7 +2336,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese card shop online is the one that survives the six checks: real stock, sealed authenticity, landed cost in writing, honest duty, a human who answers, and a returns policy that exists. Price is the last check, not the first, because the cheapest listing is the most expensive parcel once the stack is added.",
       "Prices change and customs rules move, so treat every number here as stamped: store prices and the duty position as of November 6, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second.",
-      "Starting your comparison with a real shelf helps: [our Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) list every box from OP-01 to OP-18 with per-pack math, and [the best Japanese Pokémon booster box to buy](/blog/best-japanese-pokemon-booster-box-to-buy/) does the same for the MEGA era. If you are weighing sealed against singles, read [whether Japanese Pokémon cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget."
+      "Starting your comparison with a real shelf helps: [our Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) list every box from OP-01 to OP-18 with per-pack math, and [the best Japanese Pokémon booster box to buy](/blog/best-japanese-pokemon-booster-box-to-buy/) does the same for the MEGA era. If you are weighing sealed against singles, read [whether Japanese Pokémon cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. Country buyers get the same treatment per market: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) run the landed cost in SGD and pesos."
     ]
   },
   "best-japanese-dragon-ball-fusion-world-booster-box-to-buy": {
@@ -5478,6 +5478,502 @@ export const POSTS: Record<string, BlogPost> = {
       "The same twin-set discipline now covers the MEGA-era launch pair in [M1L vs M1S: Mega Brave or Mega Symphonia?](/blog/m1l-vs-m1s-which-to-buy/)."
     ]
   },
+  "buying-japanese-tcg-cards-in-philippines": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "A single Japanese booster box almost always clears with no duty or VAT, because the de minimis line is ₱10,000 in FOB value and the most expensive current box on our shelf, the M6a 30th Celebration box at $249, converts to ₱15,687, which is over the line, while every other current box sits under it. Boxes under ₱5,000 pay only the ₱100 customs documentary stamp and the ₱30 BIR stamp; boxes over ₱5,000 up to ₱10,000 add a ₱125 import processing charge. The full line is worked in the [shipping and customs guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/).",
+        "q": "Do I pay customs duty or VAT when I buy a Japanese booster box from Japan to the Philippines?"
+      },
+      {
+        "a": "The cheapest per-pack route on our shelf is the M3 Munikis Zero box at $70.62, which divides to $2.35 a pack, or ₱148.05 at the November 6, 2026 rate of ₱63.00 to the dollar. Shopee Philippines sellers list the same Japanese boxes with peso pricing, but every Shopee box is a resold import that already carries the seller's own import cost and margin, so compare the Shopee listing against the landed total in the table below, not against the dollar shelf price. The full pack board is on our [Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/).",
+        "q": "Is it cheaper to buy Japanese Pokemon boxes on Shopee Philippines or direct from Japan?"
+      },
+      {
+        "a": "No. The exact shipping quote is confirmed at checkout or on WhatsApp at wa.me/818029350455, because the rate depends on the parcel weight and the service chosen. What this guide does give you is everything else in the landed cost: the box price in pesos at the stated exchange rate, and the exact duty, VAT, and small charges, if any, so the only unknown left is the shipping line itself. Never trust a guide that quotes a delivery time or a shipping price for a parcel it has not weighed.",
+        "q": "How much is shipping from Japan to the Philippines?"
+      }
+    ],
+    "h1": "Buying Japanese TCG Cards in the Philippines",
+    "intro": [
+      "Buy Japanese Pokemon and One Piece cards in the Philippines by watching one number: ₱10,000. A single booster box from Japan, with one exception, sits under it and clears with no duty and no VAT; a sealed case, or the dearest single box, crosses it and pays duty plus 12% VAT on the full landed cost. This guide prices the shelf in Philippine pesos, runs the landed cost for a box and a case, and compares Japan-direct against Shopee Philippines and Facebook Marketplace. Prices as of November 6, 2026, at ₱63.00 to the US dollar.",
+      "This guide is for Philippines buyers who want sealed Japanese boxes shipped from Japan and want the tax line stated before they pay. It is not for singles buyers, because a sealed box is the wrong tool for a want list, and it is not for anyone who needs English cards for sanctioned play, because Japanese cards are not legal in English-region events. The [best Japanese card shop online guide](/blog/best-japanese-card-shop-online/) ranks the Japan-direct shops; this guide prices what one of them actually costs a Philippines buyer."
+    ],
+    "metaDescription": "Buy Japanese Pokemon and One Piece cards in the Philippines: the ₱10,000 de minimis line, landed cost in pesos, and Japan-direct vs Shopee PH math.",
+    "metaTitle": "Buying Japanese TCG Cards in the Philippines",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: one box clears free, a case pays duty plus 12% VAT",
+        "paragraphs": [
+          "The Philippines exempts goods with a Free on Board or Free Carrier value of ₱10,000 or less from customs duties and VAT, under Section 423 of the Customs Modernization and Tariff Act, Republic Act 10863, and the test is on the value of the goods themselves, before international shipping and insurance. That detail matters: unlike Singapore, where the line is measured on CIF including freight, the Philippines line ignores the shipping cost entirely, so a heavy parcel does not push a cheap box over the line. Parcels to the same recipient at the same address arriving on the same day are combined for the test. The rule is published by the Bureau of Customs, and the figure has not moved.",
+          "There are small charges inside the free band, and they are the part most guides miss. Under Customs Administrative Order 02-2025, effective May 7, 2025, online purchases over ₱5,000 up to ₱10,000 carry an import processing charge of ₱125, and a customs documentary stamp of ₱100 plus a BIR documentary stamp of ₱30 apply regardless of value. So a box under ₱5,000 clears with at most ₱130 in stamps, a box between ₱5,000 and ₱10,000 clears with ₱255 in small charges, and neither pays duty or VAT. Above ₱10,000 the whole shipment is assessed: duty by HS classification, most consumer goods at 3 to 15 percent, plus 12% VAT on the dutiable value plus duty. Shipments over ₱50,000 go through formal entry, which usually means hiring a licensed customs broker.",
+          "The practical lines in US dollars are $158.73 for the de minimis line and $79.37 for the processing-charge line, at the November 6, 2026 rate of ₱63.00. Almost every current box on our shelf sits under the ₱10,000 line: M3 at $70.62, M6 at $82.80, OP-18 at $84.00, M2a at $114.77, and OP-17 at $121.28 all clear with no duty or VAT. The one exception is the M6a 30th Celebration box at $249, or ₱15,687, which crosses the line and pays duty plus VAT on the full amount."
+        ]
+      },
+      {
+        "h": "The money layer: every box and case in Philippine pesos",
+        "math": [
+          "Exchange rate used: 1 USD = ₱63.00, November 6, 2026 (mid-market)",
+          "M3 Munikis Zero box in pesos: $70.62 x 63 = ₱4,449.06",
+          "M3 Munikis Zero box landed: ₱4,449.06 + ₱130 stamps = ₱4,579.06",
+          "M6 Storm Emeralda box in pesos: $82.80 x 63 = ₱5,216.40",
+          "M6 Storm Emeralda box landed: ₱5,216.40 + ₱125 + ₱130 = ₱5,471.40",
+          "OP-18 Japanese box in pesos: $84.00 x 63 = ₱5,292.00",
+          "OP-18 Japanese box landed: ₱5,292.00 + ₱125 + ₱130 = ₱5,547.00",
+          "M2a MEGA Dream ex box in pesos: $114.77 x 63 = ₱7,230.51",
+          "M2a MEGA Dream ex box landed: ₱7,230.51 + ₱125 + ₱130 = ₱7,485.51",
+          "OP-17 Japanese box in pesos: $121.28 x 63 = ₱7,640.64",
+          "OP-17 Japanese box landed: ₱7,640.64 + ₱125 + ₱130 = ₱7,895.64",
+          "M6a 30th Celebration box in pesos: $249.00 x 63 = ₱15,687.00",
+          "M6a duty at 3%: ₱15,687.00 x 0.03 = ₱470.61",
+          "M6a VAT at 3% duty: (₱15,687.00 + ₱470.61) x 0.12 = ₱1,938.91",
+          "M6a landed at 3% duty: ₱15,687.00 + ₱470.61 + ₱1,938.91 = ₱18,096.52",
+          "M6a duty at 15%: ₱15,687.00 x 0.15 = ₱2,353.05",
+          "M6a VAT at 15% duty: (₱15,687.00 + ₱2,353.05) x 0.12 = ₱2,164.81",
+          "M6a landed at 15% duty: ₱15,687.00 + ₱2,353.05 + ₱2,164.81 = ₱20,204.86",
+          "₱10,000 de minimis line in USD: ₱10,000 / 63 = $158.73",
+          "₱5,000 processing-charge line in USD: ₱5,000 / 63 = $79.37",
+          "OP-18 case in pesos: $906.00 x 63 = ₱57,078.00",
+          "OP-18 case landed at 3% duty: ₱57,078.00 x 1.03 x 1.12 = ₱65,845.18",
+          "OP-18 case landed at 15% duty: ₱57,078.00 x 1.15 x 1.12 = ₱73,516.46",
+          "OP-18 case per box at 3% duty: ₱65,845.18 / 12 boxes = ₱5,487.10",
+          "OP-18 case per box at 15% duty: ₱73,516.46 / 12 boxes = ₱6,126.37",
+          "OP-18 case saving per box at 3% duty: ₱5,547.00 - ₱5,487.10 = ₱59.90",
+          "OP-18 case premium per box at 15% duty: ₱6,126.37 - ₱5,547.00 = ₱579.37",
+          "M3 case per box: $1,048.24 / 12 boxes = $87.35, against $70.62 for a single box",
+          "M3 case per box in pesos: $87.35 x 63 = ₱5,503.05, against ₱4,449.06 single",
+          "M3 pack in pesos: $2.35 x 63 = ₱148.05 per pack",
+          "OP-18 pack in pesos: $3.50 x 63 = ₱220.50 per pack",
+          "M2a pack in pesos: $11.48 x 63 = ₱723.24 per pack"
+        ],
+        "paragraphs": [
+          "The table below is the Philippines price board: every current box a Philippines buyer is likely to order, converted at ₱63.00 to the dollar, with the small charges added where they apply and the duty-plus-VAT range shown where the box crosses the line. The duty range is honest about what is unknown: the exact HS rate for trading cards is set by Customs on the shipment, and most consumer goods fall between 3 and 15 percent, so the table shows both ends instead of pretending to know one number.",
+          "Two patterns deserve attention. First, the M6a box is the trap for buyers who assume every box clears free. At ₱15,687 it is the only current single box over the line, and it lands between ₱18,097 and ₱20,205 depending on the duty rate, which is ₱2,410 to ₱4,518 above its converted shelf price. Second, the case is barely a saving even in the best case. The OP-18 case divides to ₱5,487.10 a box at 3% duty, saving ₱59.90 a box against a single box landed at ₱5,547, and at 15% duty it divides to ₱6,126.37 a box, costing ₱579.37 more per box than buying singles. A case only wins if the duty lands at the low end, and the buyer cannot know the rate before the parcel is assessed. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case on the shelf.",
+          "Third, the M3 case breaks the pattern the same way it does everywhere: at $1,048.24 for twelve boxes it costs $87.35 a box, against $70.62 for a single M3 box, so the case buyer pays ₱1,053.99 more per box for the privilege of buying twelve. Divide the case before buying it, every time, because the word case does not mean discount. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the same shelf box by box."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Shelf price",
+            "In PHP",
+            "Small charges",
+            "Landed"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero (30 x 5)",
+              "$70.62",
+              "₱4,449.06",
+              "₱130",
+              "₱4,579.06"
+            ],
+            [
+              "M6 Storm Emeralda (30 x 5)",
+              "$82.80",
+              "₱5,216.40",
+              "₱255",
+              "₱5,471.40"
+            ],
+            [
+              "OP-18 Japanese (24 packs)",
+              "$84.00",
+              "₱5,292.00",
+              "₱255",
+              "₱5,547.00"
+            ],
+            [
+              "M2a MEGA Dream ex (10 x 10)",
+              "$114.77",
+              "₱7,230.51",
+              "₱255",
+              "₱7,485.51"
+            ],
+            [
+              "OP-17 Japanese (24 packs)",
+              "$121.28",
+              "₱7,640.64",
+              "₱255",
+              "₱7,895.64"
+            ],
+            [
+              "M6a 30th Celebration (20 x 6 foil)",
+              "$249.00",
+              "₱15,687.00",
+              "Duty + VAT",
+              "₱18,097 - ₱20,205"
+            ],
+            [
+              "OP-18 case (12 boxes)",
+              "$906.00",
+              "₱57,078.00",
+              "Duty + VAT",
+              "₱65,845 - ₱73,516"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Shopee PH vs Facebook Marketplace",
+        "paragraphs": [
+          "A Philippines buyer has three real routes to a Japanese box, and they differ on price, provenance, and protection. Japan-direct means a sealed box shipped from Japan, priced in dollars, with the ₱10,000 line doing the tax work. Shopee Philippines means local sellers with peso pricing and platform buyer protection, usually the same Japanese boxes resold after the seller has already paid their own import cost and margin. Facebook Marketplace means singles and sealed stock discovered first in groups and listings, with no platform protection and meetups arranged in chat.",
+          "The honest comparison is landed total against listing price, not dollar shelf price against peso listing. A Shopee listing for an M3 box shows a peso price that already includes the seller's import cost, their margin, and the platform fee, while the Japan-direct M3 lands at ₱4,579.06 before shipping, so add the shipping quote to the Japan-direct total and compare that sum with the Shopee listing. If the Shopee listing is within a few hundred pesos, the local route wins on speed and protection. If it is thousands above, Japan-direct wins on price. What no listing can tell the buyer is the provenance of the seal: a sealed box from the Warehouse carries factory provenance, while a loose pack or a resealed box from any marketplace carries the oldest scam in the hobby.",
+          "The local route wins on two things Japan-direct cannot offer: same-week delivery without a customs line, and a shop to walk into. Metro Manila has the densest local game shop network in the country, around Greenhills in San Juan, Makati, and Quezon City, and Toy Kingdom and Toys R Us in SM and Robinsons malls carry retail English product. Facebook groups are where singles are discovered first, and that is a real advantage for a buyer building a deck or a want list. What the local routes cannot offer is the Japan-direct price on current sealed stock, because every local box has already paid its own import cost before it reaches the shelf. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the One Piece shelf the same way."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "M3 box landed",
+            "Tax",
+            "Protection"
+          ],
+          "rows": [
+            [
+              "Japan-direct (Warehouse)",
+              "₱4,579.06 + shipping",
+              "None under ₱10,000 FOB",
+              "Sealed, verifiable"
+            ],
+            [
+              "Shopee PH (local seller)",
+              "Peso listing, seller import + margin",
+              "None, already imported",
+              "Platform protection"
+            ],
+            [
+              "Lazada PH (official retailer)",
+              "Peso listing",
+              "None, already imported",
+              "Platform protection"
+            ],
+            [
+              "Facebook Marketplace",
+              "Singles first, meetup prices",
+              "None, already imported",
+              "No protection"
+            ],
+            [
+              "Carousell PH",
+              "Smaller, serious collectors",
+              "None, already imported",
+              "Seller reputation only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other Philippines guides",
+        "note": "From the Warehouse: the question we get most from Philippines buyers is whether a parcel under ₱10,000 is really tax-free, because every marketplace listing they read either says nothing about tax or warns about customs without ever naming the number. It is ₱10,000 in FOB value, it ignores the shipping cost, and it is the whole decision: one box under it, a case over it. The second question is whether the small charges are real, and they are: ₱125 over ₱5,000, plus ₱130 in stamps at any value, under CAO 02-2025.",
+        "paragraphs": [
+          "The top results for Philippines buyers share one gap: there is no editorial guide at all. The search results are Shopee Philippines listing pages, one after another, for Japanese Pokemon boxes, packs, and promo sets. But no page explains the ₱10,000 de minimis line, no page names the ₱125 processing charge or the ₱130 in stamps, no page warns that same-day parcels to the same address are combined, and no page runs the landed cost in pesos. A buyer who only reads listings learns what boxes cost in pesos and nothing about what the parcel costs at the door.",
+          "That gap hides three findings. First, the shipping exclusion: because the test is FOB value, a heavy parcel does not push a cheap box over the line, which is the opposite of Singapore's CIF rule and the reason a Philippines buyer should not borrow Singapore advice. Second, the M6a trap: the only current single box over the line lands ₱2,410 to ₱4,518 above its shelf price, and no listing warns the buyer. Third, the case illusion: the OP-18 case saves ₱59.90 a box in the best case and costs ₱579.37 more a box in the worst case, so a case is a gamble on the duty rate, not a discount.",
+          "The third gap is the formal-entry line at ₱50,000, which no listing mentions. A case at ₱57,078 in goods value goes through formal entry, which usually means hiring a licensed customs broker, and that cost sits on top of the duty and VAT in the table above. A buyer who orders a case expecting a courier delivery will instead get a broker's invoice."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to the Philippines",
+        "paragraphs": [
+          "The order itself is short. First, pick the box and divide it: box price divided by packs, then by cards, against the table above, and check the goods value against the $158.73 line that keeps a parcel under ₱10,000, and against the $79.37 line that avoids the ₱125 processing charge. Second, decide one box or a case, and if the answer is a case, remember the formal-entry line at ₱50,000 and the duty gamble in the table. Third, confirm the exact shipping quote at checkout or on WhatsApp at wa.me/818029350455, since the rate depends on parcel weight and the service chosen. Fourth, pay in dollars and let the conversion happen at the rate above; the peso figures here are conversions for planning, not a separate price list.",
+          "On arrival, the checks are the same as for any sealed box. Inspect the seal before opening, photograph the box from every side, and compare the set code on the box with the set you ordered: M3, M6, M2a, and M6a are current MEGA-era codes, OP-18 is the current One Piece set, and the [how to read Japanese Pokemon cards guide](/blog/how-to-read-japanese-pokemon-cards/) covers the set symbol and rarity marks. If the parcel crosses ₱10,000, Customs assesses duty and VAT on the full landed cost and the courier collects it on delivery. If the seal looks wrong, do not open it: run it through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first, because a reseal claim is only provable while the seal is intact.",
+          "The Philippines climate is the one local condition worth naming: sealed product stored in tropical heat and humidity can warp and fade, so store sealed boxes cool, dry, and dark, off the floor and out of direct sun. The [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) covers the full routine, and the [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience on the next MEGA-era set."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the broker line",
+        "paragraphs": [
+          "The first risk is the loose pack, and it is the only risk that is entirely avoidable. A single booster pack from a marketplace is the oldest scam in the hobby: packs are weighed, searched, and resealed, and a pack that has been opened and closed again looks identical to a sealed one until it is opened. The Warehouse does not sell loose booster packs. The recovery is the box: buy the sealed box, or buy nothing, and run anything else through the reseal guide before breaking a seal.",
+          "The second risk is the same-day consolidation rule. Parcels to the same recipient at the same address arriving on the same day are combined for the ₱10,000 test, so two ₱7,000 parcels landing together are one ₱14,000 parcel for duty and VAT purposes. Splitting an order only works if the parcels genuinely arrive on different days. The third risk is the reprint: a restock or reprint announcement reprices sealed stock without warning, and holders protect themselves by buying sealed product they would be content to open. The fourth risk is the language: Japanese cards are not legal in English-region sanctioned events, so decide the language before the box is bought, not after. The [PSA grading Japanese cards guide](/blog/psa-grading-japanese-cards-worth-it/) covers grading before a buyer spends on it, because Japanese print quality grades better than English."
+        ]
+      },
+      {
+        "h": "Context: Japan vs Philippines retail — why the Japanese box costs what it costs",
+        "paragraphs": [
+          "Japanese Pokemon packs are small because the Japanese market is built for volume. A standard pack holds 5 cards at ¥180 and a box holds 30 packs. The English pack holds 10 or 11 cards, the English box holds 36 packs, and the English product is priced for a different market. The difference is visible in the print quality: Japanese cards are cut and centered more precisely than English cards, which is why Japanese chase cards grade to PSA 10 more often.",
+          "The release gap runs the same way. Japanese sets arrive first, often months before the English version, and the MEGA era is the current example: M1S and M1L arrived in August 2025, M2a in November 2025, M3 in January 2026, M5 in May 2026, and M6 on July 31, 2026. A Philippines buyer who wants the newest cards first buys Japanese. The local market adds its own layer: Facebook Marketplace and Shopee Philippines carry the same Japanese boxes at resold prices, because every local box has already paid its own import cost before it reaches the listing. The [M3 Munikis Zero buyers guide](/blog/m3-munikis-zero-buyers-guide/) and the [OP-18 preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) carry the set-level detail for the two boxes this guide prices first."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, anyone buying singles: a sealed box is the wrong tool for a want list, because no box guarantees any card, and Facebook Marketplace or a Greenhills shop is the faster route to a single. Second, anyone who needs English cards for sanctioned play: Japanese cards are not legal in English-region events, and no tax saving changes that. Third, anyone whose budget only works if the pulls pay for the box: at ₱148.05 to ₱723.24 a pack, with no published pull rates, it will not.",
+          "Who this guide is for, restated plainly: Philippines openers who want the most packs for the least money, graders who want the cheapest cards with the best centering, and collectors who want the newest Japanese sets first. If you are in one of those groups, the table above is your shortlist. If you are not, buy the format that fits."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide every box before you pay: box price in pesos, then by packs, then by cards",
+          "Check the goods value against $158.73, the ₱10,000 line in dollars; shipping does not count",
+          "Check the $79.37 line too: boxes over it pay the ₱125 processing charge",
+          "One box per parcel if you want the de minimis relief; same-day parcels to one address are combined",
+          "Divide the case before buying it: the OP-18 case only saves money if duty lands at 3%",
+          "Cases over ₱50,000 need formal entry, usually a licensed customs broker",
+          "Confirm the exact shipping quote at checkout or on WhatsApp before paying",
+          "Never buy a loose booster pack from a marketplace: weighed, searched, or resealed",
+          "Inspect the seal on arrival and photograph the box before opening",
+          "Store sealed boxes cool, dry, and dark: tropical humidity warps cardboard",
+          "Confirm the language your events require before buying a Japanese box to play with"
+        ],
+        "h": "Action layer: the Philippines buyer's checklist",
+        "paragraphs": [
+          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing peso listings with a decision built on the shelf price you can actually pay."
+        ]
+      }
+    ],
+    "slug": "buying-japanese-tcg-cards-in-philippines",
+    "takeaway": [
+      "One Japanese booster box shipped to the Philippines clears with no duty and no VAT, because the de minimis line is ₱10,000 in FOB value and every current box except M6a sits under it. The M6a box at ₱15,687 crosses the line and lands between ₱18,097 and ₱20,205. The cheapest pack on the shelf is M3 at ₱148.05, and a case only saves money if the duty rate lands at the low end.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, converted at ₱63.00 to the dollar, with duty shown as a range because the exact HS rate is set by Customs on the shipment. When the next MEGA-era set opens for pre-order, run the checklist first and divide the box before you pay.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides every box. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
+    ]
+  },
+  "buying-japanese-tcg-cards-in-singapore": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "A single Japanese booster box almost always clears with no GST at the border, because the relief line is S$400 CIF and the most expensive current box on our shelf, the M6a 30th Celebration box at $249, converts to S$318.72 in goods value. Two boxes in one parcel, or any sealed case, cross the line and attract 9% GST on the full CIF value, not just the excess. The one exception is the OVR rule: if the seller is GST-registered in Singapore, 9% is charged at checkout instead of at the border, so the buyer pays it once either way, never twice. The full line is worked in the [shipping and customs guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/).",
+        "q": "Do I pay GST when I buy a Japanese booster box from Japan to Singapore?"
+      },
+      {
+        "a": "The cheapest per-pack route on our shelf is the M3 Munikis Zero box at $70.62, which divides to $2.35 a pack, or S$3.01 at the November 6, 2026 rate of S$1.28 to the dollar. Carousell Singapore lists Japanese Pokemon packs at S$2 to S$6, so the Japan-direct sealed box sits inside the local loose-pack range while carrying sealed-box provenance instead of loose-pack risk. The comparison table is in the decision layer below, and the full pack board is on our [Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/).",
+        "q": "Is it cheaper to buy Japanese Pokemon packs on Carousell Singapore or direct from Japan?"
+      },
+      {
+        "a": "No. The exact shipping quote is confirmed at checkout or on WhatsApp at wa.me/818029350455, because the rate depends on the parcel weight and the service chosen. What this guide does give you is everything else in the landed cost: the box price in SGD at the stated exchange rate, and the exact GST, if any, so the only unknown left is the shipping line itself. Never trust a guide that quotes a delivery time or a shipping price for a parcel it has not weighed.",
+        "q": "How much is shipping from Japan to Singapore?"
+      }
+    ],
+    "h1": "Buying Japanese TCG Cards in Singapore",
+    "intro": [
+      "Buy Japanese Pokemon and One Piece cards in Singapore by watching one number: S$400. A single booster box from Japan, even the dearest current box on our shelf, stays under it and clears with no GST at the border; two boxes in one parcel, or any sealed case, cross it and attract 9% GST on the full value. This guide prices the shelf in Singapore dollars, runs the landed cost for a box and a case, and compares Japan-direct against Carousell and Shopee Singapore pack by pack. Prices as of November 6, 2026, at S$1.28 to the US dollar.",
+      "This guide is for Singapore buyers who want sealed Japanese boxes shipped from Japan and want the tax line stated before they pay. It is not for singles buyers, because a sealed box is the wrong tool for a want list, and it is not for anyone who needs English cards for sanctioned play, because Japanese cards are not legal in English-region events. The [best Japanese card shop online guide](/blog/best-japanese-card-shop-online/) ranks the Japan-direct shops; this guide prices what one of them actually costs a Singapore buyer."
+    ],
+    "metaDescription": "Buy Japanese Pokemon and One Piece cards in Singapore: the S$400 GST line, landed cost in SGD, and Japan-direct vs Carousell per-box math.",
+    "metaTitle": "Buying Japanese TCG Cards in Singapore",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: one box clears free, two boxes pay 9% on everything",
+        "paragraphs": [
+          "Singapore grants GST import relief on goods imported by air or post with a total CIF value of S$400 or less, and trading cards are non-dutiable, so the only tax in play is the 9% GST. CIF means cost plus insurance plus freight, so the line is measured on the parcel as it lands, not on the box price alone. If the CIF value exceeds S$400, GST is payable on the entire shipment value, not just the excess. That cliff is the whole buying decision. The rule is published by Singapore Customs, and the 9% rate has applied since January 1, 2024.",
+          "There is one wrinkle that changes who collects the tax. Since January 1, 2023, the Overseas Vendor Registration regime means low-value goods up to S$400 bought from a GST-registered overseas seller are charged GST at checkout instead of at the border, while purchases from non-registered sellers still get the relief at import. Either way the buyer pays 9% at most once. A guide that calls a sub-S$400 parcel simply tax-free is out of date, and one that warns of double GST is wrong the other way. The [shipping and customs guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) carries the full mechanism; this guide prices its consequences.",
+          "The practical line in US dollars is $312.50 of goods value, because S$400 divided by the November 6, 2026 rate of S$1.28 is $312.50, and the shipping and insurance then sit on top of the goods value inside the CIF total. A single box is safe by a wide margin: the most expensive current box on our shelf is the M6a 30th Celebration box at $249, or S$318.72. Two current boxes together are not safe: two M2 Inferno X boxes at $183.18 each are $366.36 in goods alone, or S$468.94 before a cent of freight, and the 9% then applies to the whole parcel."
+        ]
+      },
+      {
+        "h": "The money layer: every box and case in Singapore dollars",
+        "math": [
+          "Exchange rate used: 1 USD = S$1.28, November 6, 2026 (mid-market)",
+          "M3 Munikis Zero box in SGD: $70.62 x 1.28 = S$90.39",
+          "M3 Munikis Zero box with 9% GST: S$90.39 x 1.09 = S$98.53",
+          "OP-18 Japanese box in SGD: $84.00 x 1.28 = S$107.52",
+          "OP-18 Japanese box with 9% GST: S$107.52 x 1.09 = S$117.20",
+          "M2a MEGA Dream ex box in SGD: $114.77 x 1.28 = S$146.91",
+          "M2a MEGA Dream ex box with 9% GST: S$146.91 x 1.09 = S$160.13",
+          "M6 Storm Emeralda box in SGD: $82.80 x 1.28 = S$105.98",
+          "M6 Storm Emeralda box with 9% GST: S$105.98 x 1.09 = S$115.52",
+          "M6a 30th Celebration box in SGD: $249.00 x 1.28 = S$318.72",
+          "M6a 30th Celebration box with 9% GST: S$318.72 x 1.09 = S$347.40",
+          "S$400 relief line in USD: S$400 / 1.28 = $312.50 of goods value",
+          "OP-18 case in SGD: $906.00 x 1.28 = S$1,159.68",
+          "OP-18 case GST at 9%: S$1,159.68 x 0.09 = S$104.37",
+          "OP-18 case landed (goods + GST): S$1,159.68 + S$104.37 = S$1,264.05",
+          "OP-18 case per box landed: S$1,264.05 / 12 boxes = S$105.34",
+          "OP-18 case saving per box: S$117.20 - S$105.34 = S$11.86",
+          "M2 Inferno X case in SGD: $1,333.69 x 1.28 = S$1,707.12",
+          "M2 Inferno X case GST at 9%: S$1,707.12 x 0.09 = S$153.64",
+          "M2 Inferno X case landed: S$1,707.12 + S$153.64 = S$1,860.76",
+          "M2 Inferno X case per box landed: S$1,860.76 / 12 boxes = S$155.06",
+          "M2 Inferno X single box with GST: $183.18 x 1.28 x 1.09 = S$255.57",
+          "M2 case saving per box: S$255.57 - S$155.06 = S$100.51",
+          "M3 case per box: $1,048.24 / 12 boxes = $87.35, against $70.62 for a single box",
+          "M3 case premium per box: $87.35 - $70.62 = $16.73 more per box",
+          "M3 pack in SGD: $2.35 x 1.28 = S$3.01 per pack",
+          "OP-18 pack in SGD: $3.50 x 1.28 = S$4.48 per pack",
+          "M2a pack in SGD: $11.48 x 1.28 = S$14.69 per pack"
+        ],
+        "paragraphs": [
+          "The table below is the Singapore price board: every current box a Singapore buyer is likely to order, converted at S$1.28 to the dollar, with the 9% GST column shown. The GST column is the most the buyer pays in tax on that item: at checkout if the seller is OVR-registered, at the border only when the parcel crosses S$400 CIF. A single box never pays GST at the border, so the GST column for a single box is a worst case, not a certainty.",
+          "Two patterns deserve attention. First, the case is usually the better buy, but not always, and the exception is expensive. The OP-18 case divides to S$105.34 a box landed against S$117.20 for a single box with GST, saving S$11.86 a box, and the M2 Inferno X case divides to S$155.06 a box landed against S$255.57 for a single box, saving S$100.51 a box. The M3 case breaks the pattern: at $1,048.24 for twelve boxes it costs $87.35 a box, against $70.62 for a single M3 box, so the case buyer pays $16.73 more per box for the privilege of buying twelve. Divide the case before buying it, every time, because the word case does not mean discount. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case on the shelf, and the [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) is the one-game version of the same discipline.",
+          "Second, the GST is charged on CIF, so the numbers above understate the tax on any parcel that crosses the line, because the freight and insurance sit inside the taxable value and the shipping quote is confirmed only at checkout. On a single box under the line that does not matter, because no GST is due at the border at all."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Shelf price",
+            "In SGD",
+            "With 9% GST",
+            "Per pack"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero (30 x 5)",
+              "$70.62",
+              "S$90.39",
+              "S$98.53",
+              "S$3.01"
+            ],
+            [
+              "M6 Storm Emeralda (30 x 5)",
+              "$82.80",
+              "S$105.98",
+              "S$115.52",
+              "S$3.53"
+            ],
+            [
+              "OP-18 Japanese (24 packs)",
+              "$84.00",
+              "S$107.52",
+              "S$117.20",
+              "S$4.48"
+            ],
+            [
+              "M2a MEGA Dream ex (10 x 10)",
+              "$114.77",
+              "S$146.91",
+              "S$160.13",
+              "S$14.69"
+            ],
+            [
+              "M6a 30th Celebration (20 x 6 foil)",
+              "$249.00",
+              "S$318.72",
+              "S$347.40",
+              "S$15.94"
+            ],
+            [
+              "OP-18 case (12 boxes)",
+              "$906.00",
+              "S$1,159.68",
+              "S$1,264.05",
+              "S$4.39"
+            ],
+            [
+              "M2 Inferno X case (12 boxes)",
+              "$1,333.69",
+              "S$1,707.12",
+              "S$1,860.76",
+              "S$5.17"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Carousell vs Shopee Singapore",
+        "paragraphs": [
+          "A Singapore buyer has three real routes to a Japanese box, and they differ on price, provenance, and tax, not just on convenience. Japan-direct means a sealed box shipped from Japan, priced in dollars, with the S$400 line doing the tax work. Carousell Singapore means a local seller, priced in SGD, with no import tax because the import already happened, but with the condition and provenance risk of a peer-to-peer sale. Shopee Singapore means the same local stock on a platform with buyer protection, at a small premium.",
+          "The per-pack comparison is the one that surprises buyers. Carousell Singapore lists Japanese Pokemon packs at S$2 to S$6, and the M3 box from Japan divides to S$3.01 a pack, squarely inside that range, while the OP-18 box divides to S$4.48 a pack, also inside it. The Japan-direct box is not the cheap route and the local loose pack is not the expensive route; they cost about the same per pack, and the difference is what the buyer gets for the money. The sealed box carries factory provenance and thirty packs from one print run. The loose pack may have been weighed, searched, or resealed, and no Carousell listing can prove otherwise.",
+          "The local route wins on two things Japan-direct cannot offer: same-week delivery without a customs line, and a shop to walk into. Singapore has more than sixty dedicated Pokemon TCG shops across the island, listed by region in the TCG Talk Singapore directory. What the local shops cannot offer is the Japan-direct price on current sealed stock, because every local box has already paid its own import cost, GST, and margin before it reaches the shelf. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the One Piece shelf the same way."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "M3 box landed",
+            "Per pack",
+            "Tax",
+            "Risk"
+          ],
+          "rows": [
+            [
+              "Japan-direct (Warehouse)",
+              "S$90.39 + shipping",
+              "S$3.01",
+              "None under S$400 CIF",
+              "Sealed, verifiable"
+            ],
+            [
+              "Carousell SG (loose packs)",
+              "S$2-S$6 a pack",
+              "S$2-S$6",
+              "None, already imported",
+              "Weighed / resealed risk"
+            ],
+            [
+              "Carousell SG (sealed box)",
+              "Local markup over import",
+              "Above S$3.01",
+              "None, already imported",
+              "Seller reputation only"
+            ],
+            [
+              "Shopee SG (local seller)",
+              "Local price + platform fee",
+              "Above S$3.01",
+              "None, already imported",
+              "Platform protection"
+            ],
+            [
+              "Japan proxy (Buy&Ship etc.)",
+              "Box + 6% fee + shipping",
+              "Above S$3.01",
+              "Same S$400 line",
+              "Consolidation delays"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other Singapore guides",
+        "note": "From the Warehouse: the question we get most from Singapore buyers is whether the S$400 line is real, because every guide they read either says Japanese cards are tax-free or warns about GST without ever naming the number. It is real, it is S$400 CIF, and it is the whole decision: one box under it, two boxes over it. The second question is whether a case is always cheaper, and the M3 case is the answer: $87.35 a box in a case against $70.62 single, so no, and divide before you pay.",
+        "paragraphs": [
+          "The top guides for Singapore buyers share one gap: none of them runs the landed cost. The TCG Talk store guide for Singapore is a thorough directory of Japan stores that ship to Singapore, ranking Card Rush, Toreca Camp, and the proxy services by range and reliability, and it does that job well. The Doorzo set pages explain how a Singapore buyer can order a Japan release through a proxy, and they do that job well. The Carousell Singapore pack pages show what loose packs cost locally, and they do that job well. But none of them names the S$400 GST line, none converts a real shelf price into Singapore dollars, none divides a case to the box, and none compares the Japan-direct per-pack cost with the Carousell loose-pack range.",
+          "That gap hides two findings. First, the tax cliff: a single box is tax-free at the border and two boxes pay 9% on everything, so the difference between one parcel and two is a S$100-plus swing on a pair of M2 boxes. Second, the per-pack parity: the Japan-direct sealed box costs about the same per pack as a loose Carousell pack, which means the buyer is not choosing between cheap and expensive but between sealed provenance and loose-pack risk at the same price. A guide that only lists stores cannot surface either finding, because neither finding lives in a store list. It lives in the division.",
+          "The third gap is the OVR wrinkle, which no store guide mentions. A Singapore buyer who orders from an OVR-registered seller pays 9% at checkout on a sub-S$400 parcel and nothing at the border, while the same parcel from a non-registered seller pays nothing anywhere. The honest statement is the one this guide makes: 9% at most once, and the S$400 line decides where it is collected."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Singapore",
+        "paragraphs": [
+          "The order itself is short. First, pick the box and divide it: box price divided by packs, then by cards, against the table above, and check the goods value against the $312.50 line that keeps a parcel under S$400 CIF once shipping is added. Second, decide one box or a case, and if the answer is a case, divide the case first, because the M3 case proves the word case is not a promise. Third, confirm the exact shipping quote at checkout or on WhatsApp at wa.me/818029350455, since the rate depends on parcel weight and the service chosen, and the store ships from Japan to Singapore. Fourth, pay in dollars and let the conversion happen at the rate above; the SGD figures in this guide are conversions for planning, not a separate price list.",
+          "On arrival, the checks are the same as for any sealed box. Inspect the seal before opening, photograph the box from every side, and compare the set code on the box with the set you ordered: M3, M6, M2a, and M6a are current MEGA-era codes, OP-18 is the current One Piece set, and the [how to read Japanese Pokemon cards guide](/blog/how-to-read-japanese-pokemon-cards/) covers the set symbol and rarity marks. If the parcel crosses S$400 CIF, Singapore Customs assesses the GST on the full value and the courier collects it on delivery, so keep the invoice with the parcel until it clears. If the seal looks wrong, do not open it: run it through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first, because a reseal claim is only provable while the seal is intact.",
+          "Singapore's humidity is the one local condition worth naming: sealed product stored in heat and humidity can warp and fade, so store sealed boxes cool, dry, and dark, off the floor and out of direct sun. The [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) covers the full routine, and the [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience on the next MEGA-era set."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the same-flight trap",
+        "paragraphs": [
+          "The first risk is the loose pack, and it is the only risk that is entirely avoidable. A single booster pack from a marketplace is the oldest scam in the hobby: packs are weighed, searched, and resealed, and a pack that has been opened and closed again looks identical to a sealed one until it is opened. The Warehouse does not sell loose booster packs. The recovery is the box: buy the sealed box, or buy nothing, and run anything else through the reseal guide before breaking a seal.",
+          "The second risk is the same-flight trap. Singapore Customs treats all goods consigned to the same importer and arriving on the same flight as one consignment, even under different freight documents, so two S$300 parcels on the same flight are one S$600 parcel for GST purposes, and the 9% applies to the whole value. Splitting an order across parcels only works if the parcels genuinely travel on different flights. The third risk is the reprint: a restock or reprint announcement reprices sealed stock without warning, and holders protect themselves by buying sealed product they would be content to open. The fourth risk is the language: Japanese cards are not legal in English-region sanctioned events, so decide the language before the box is bought, not after. The [PSA grading Japanese cards guide](/blog/psa-grading-japanese-cards-worth-it/) covers grading before a buyer spends on it, because Japanese print quality grades better than English and that is a real reason to buy Japanese."
+        ]
+      },
+      {
+        "h": "Context: Japan vs Singapore retail — why the Japanese box costs what it costs",
+        "paragraphs": [
+          "Japanese Pokemon packs are small because the Japanese market is built for volume. A standard pack holds 5 cards at ¥180, a box holds 30 packs, and the boxes are meant to be opened often. The English pack holds 10 or 11 cards, the English box holds 36 packs, and the English product is priced for a different market. The Japanese pack is not a discount version of the English pack; it is a different product, and the difference is visible in the print quality: Japanese cards are cut and centered more precisely than English cards, which is why Japanese chase cards grade to PSA 10 more often.",
+          "The release gap runs the same way. Japanese sets arrive first, often months before the English version, and the MEGA era is the current example: M1S and M1L arrived in August 2025, M2a in November 2025, M3 in January 2026, M5 in May 2026, and M6 on July 31, 2026. A Singapore buyer who wants the newest cards first buys Japanese. Singapore retail adds its own layer: local prices typically run 10 to 30 percent above global averages because of import costs and GST, which is why the Japan-direct box, even with shipping, can land under the local shelf price. The [M3 Munikis Zero buyers guide](/blog/m3-munikis-zero-buyers-guide/) and the [OP-18 preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) carry the set-level detail for the two boxes this guide prices first."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, anyone buying singles: a sealed box is the wrong tool for a want list, because no box guarantees any card, and Carousell Singapore or a local shop is the faster route to a single. Second, anyone who needs English cards for sanctioned play: Japanese cards are not legal in English-region events, and no tax saving changes that. Third, anyone whose budget only works if the pulls pay for the box: at S$3.01 to S$15.94 a pack, with no published pull rates, it almost certainly will not.",
+          "Who this guide is for, restated plainly: Singapore openers who want the most packs for the least money, graders who want the cheapest cards with the best centering, case buyers who divide before they pay, and collectors who want the newest Japanese sets first. If you are in one of those groups, the table above is your shortlist. If you are not, buy the format that fits."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide every box before you pay: box price in SGD, then by packs, then by cards",
+          "Check the goods value against $312.50, the S$400 line in dollars before shipping",
+          "One box per parcel if you want the border relief; two boxes in one parcel pay 9% on all of it",
+          "Divide the case before buying it: the M3 case costs $16.73 more per box than a single",
+          "Confirm the exact shipping quote at checkout or on WhatsApp before paying",
+          "Never buy a loose booster pack from a marketplace: weighed, searched, or resealed",
+          "Inspect the seal on arrival and photograph the box before opening",
+          "Store sealed boxes cool, dry, and dark: Singapore humidity warps cardboard",
+          "Confirm the language your events require before buying a Japanese box to play with"
+        ],
+        "h": "Action layer: the Singapore buyer's checklist",
+        "paragraphs": [
+          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing yen listings with a decision built on the shelf price you can actually pay."
+        ]
+      }
+    ],
+    "slug": "buying-japanese-tcg-cards-in-singapore",
+    "takeaway": [
+      "One Japanese booster box shipped to Singapore clears with no GST at the border, because the relief line is S$400 CIF and even the dearest current box, M6a at S$318.72, sits under it. Two boxes in one parcel, or any sealed case, cross the line and pay 9% on the full value. The cheapest pack on the shelf is M3 at S$3.01, inside the Carousell loose-pack range of S$2 to S$6, with sealed provenance instead of loose-pack risk.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, converted at S$1.28 to the dollar, with GST calculated on goods value only because the shipping quote is confirmed at checkout. When the next MEGA-era set opens for pre-order, run the checklist first and divide the box before you pay.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides every box. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
+    ]
+  },
   "buying-tcg-from-japan-shipping-customs-proxy": {
     "datePublished": "2026-10-21",
     "faqs": [
@@ -5617,7 +6113,7 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "buying-tcg-from-japan-shipping-customs-proxy",
     "takeaway": [
       "Buying TCG from Japan is not a shortcut around cost; it is a choice about where cost and risk sit. Proxies move both onto you and call the difference savings. Marketplaces split them unpredictably. A specialist store prices them into the shelf and answers for them. Any of the three can be the right answer — for a buyer who has written the stack down, priced the total-loss case, and checked their own customs rules first.",
-      "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box. Choosing the shop itself is a separate decision: [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) runs the six checks — real stock, sealed authenticity, landed cost, and the duty position now that de minimis is dead.",
+      "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box. Choosing the shop itself is a separate decision: [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) runs the six checks — real stock, sealed authenticity, landed cost, and the duty position now that de minimis is dead. Country buyers can skip the general math: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) runs the S$400 GST line in SGD, and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) runs the ₱10,000 de minimis line in pesos.",
       "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes."
     ]
   },
