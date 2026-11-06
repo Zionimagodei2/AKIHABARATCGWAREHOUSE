@@ -376,6 +376,222 @@ export const POSTS: Record<string, BlogPost> = {
       "New to sealed buying? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience. Buying the case itself, not just the box? The [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) covers split math, the Enchanted distribution per case, and the Japanese case trap."
     ]
   },
+  "best-disney-lorcana-japanese": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "Fifteen boxes. Each box holds 16 packs of 6 cards, so the case is 240 packs and 1,440 cards for $564.07, which divides to $37.60 a box, $2.35 a pack, and $0.39 a card. The English First Chapter case holds four boxes instead of fifteen, which is why the per-box numbers sit so far apart.",
+        "q": "How many boxes are in the Japanese First Chapter sealed case?"
+      },
+      {
+        "a": "Japanese Lorcana cards are printed for Japan, and they are the cards Japan's organized play runs on. Outside Japan, confirm the event's language rules before buying Japanese cards to play: some events require the local language, and a Japanese card that cannot be played is a collector's item, not a deck card. Collectors face no such constraint, and the [Japanese vs English Pokemon cards guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) shows the same language split in Pokemon.",
+        "q": "Are Japanese Lorcana cards tournament legal?"
+      },
+      {
+        "a": "Yes, by a wide margin, and the margin is the story. The Japanese case is $564.07 for fifteen boxes; the English case is $1,747.37 for four. Per box that is $37.60 against $436.84, a gap of $399.24, and per card it is $0.39 against $1.52. The Japanese box is smaller, 96 cards against 288, so compare per card and per pack, never box to box, and the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) runs the same division across all fourteen English cases.",
+        "q": "Is the Japanese First Chapter case cheaper than the English one?"
+      }
+    ],
+    "h1": "Best Disney Lorcana Japanese: The First Chapter Case at $37.60 a Box",
+    "intro": [
+      "The best Disney Lorcana Japanese buy on our shelf is the First Chapter sealed case: fifteen boxes for $564.07, which is $37.60 a box, $2.35 a pack, and $0.39 a card. The same set in English costs $1,747.37 a case, or $436.84 a box, $399.24 more per box for cards that play the same game in a different language. Buy the Japanese case to open cheap packs from the set that started Lorcana in Japan, or to hold the first Japanese printing sealed; buy English if the cards need to play in an English-region event. Prices as of November 6, 2026.",
+      "This guide is for collectors who want Japanese Lorcana at the lowest per-box price on our shelf, openers who want 240 packs of the first Japanese set, and sealed holders who know the Japanese line is fourteen sets deep and this case is only the first. It is not for anyone who needs English cards for sanctioned play outside Japan, and it is not for anyone chasing the Iconic Mickey from Hyperia City, because that card lives in set 14, not in this case. The [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks the English cases the same way."
+    ],
+    "metaDescription": "Best Disney Lorcana Japanese buy: the First Chapter sealed case at $37.60 a box against $436.84 English. The case math and who should skip it.",
+    "metaTitle": "Best Disney Lorcana Japanese: The First Chapter Case",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "The answer: one Japanese product, and it is a case",
+        "paragraphs": [
+          "Our shelf carries exactly one Japanese Lorcana product: the First Chapter sealed case, fifteen boxes, $564.07. There is no single Japanese box on the shelf, no Japanese starter deck, and no Japanese case for any later set. That single fact shapes the whole guide, because the best Japanese Lorcana buy is not a choice between fourteen Japanese sets. It is one case, and the question is whether that case fits the buyer.",
+          "The English side is the mirror image: sealed cases for all fourteen sets, from The First Chapter at $1,747.37 down to Reign of Jafar at $463.45, each holding four boxes. The Japanese case holds fifteen boxes because the Japanese box is smaller, and the case price is the product here, not the box price. Divide the case first, then decide, because $564.07 for fifteen boxes and $1,747.37 for four boxes are not prices for the same quantity of anything.",
+          "The per-box number is the whole story. Fifteen boxes at $564.07 is $37.60 a box; four English boxes at $1,747.37 is $436.84 a box. The Japanese case costs $1,183.30 less in total and delivers 1,440 cards against the English case's 1,152. That gap is real, and it is also the trap: the cheaper case only wins if Japanese cards do the job the buyer needs done."
+        ]
+      },
+      {
+        "h": "The money layer: the Japanese case, divided",
+        "math": [
+          "Japanese case per box: $564.07 ÷ 15 boxes = $37.60 per box",
+          "Japanese case per pack: $37.60 ÷ 16 packs = $2.35 per pack",
+          "Japanese case per card: $2.35 ÷ 6 cards = $0.39 per card",
+          "Japanese case total cards: 15 boxes × 16 packs × 6 cards = 1,440 cards",
+          "English case per box: $1,747.37 ÷ 4 boxes = $436.84 per box",
+          "English case per pack: $436.84 ÷ 24 packs = $18.20 per pack",
+          "English case per card: $18.20 ÷ 12 cards = $1.52 per card",
+          "English case total cards: 4 boxes × 24 packs × 12 cards = 1,152 cards",
+          "Per-box gap: $436.84 − $37.60 = $399.24 cheaper per box in Japanese",
+          "Case gap: $1,747.37 − $564.07 = $1,183.30 cheaper per case in Japanese",
+          "Card gap: 1,440 − 1,152 = 288 more cards in the Japanese case"
+        ],
+        "paragraphs": [
+          "The Japanese box is a different shape from the English box, and the division has to respect that. A Japanese First Chapter box holds 16 packs of 6 cards, 96 cards in total, with one foil guaranteed in every pack. An English box holds 24 packs of 12 cards, 288 cards in total. Comparing the two box prices without the pack counts compares a 96-card box with a 288-card box and learns nothing.",
+          "Run the division per card and the picture sharpens. The Japanese case works out at $0.39 a card; the English case at $1.52 a card. The Japanese case is cheaper per card by $1.13, and cheaper per pack by $15.85, $2.35 against $18.20. The English First Chapter case is the most expensive Lorcana case on our shelf by a distance, because it is the first set, sealed, out of print, and priced as a collector's object, while the Japanese case is the cheapest per-box Lorcana product on the shelf.",
+          "The Japanese list price frames the shelf price honestly. A Japanese First Chapter box lists at ¥5,280, which is ¥330 a pack, and marketplace asks for the same box run to ¥9,499 on SNKRDUNK as of June 2026. Our shelf price of $37.60 a box is a price a buyer can actually pay, not a marketplace ask. The [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) explains the same gap for Pokemon: a shelf price carries sourcing, shipping, and inspection that a list price does not."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per box",
+            "Per pack",
+            "Per card",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Japanese First Chapter case (15 boxes)",
+              "$564.07",
+              "$37.60",
+              "$2.35",
+              "$0.39",
+              "Opening cheap; holding the first JP printing"
+            ],
+            [
+              "English First Chapter case (4 boxes)",
+              "$1,747.37",
+              "$436.84",
+              "$18.20",
+              "$1.52",
+              "First-set status only"
+            ],
+            [
+              "English Reign of Jafar case (4 boxes)",
+              "$463.45",
+              "$115.86",
+              "$4.83",
+              "$0.40",
+              "Cheapest English case"
+            ],
+            [
+              "English Hyperia City case (4 boxes)",
+              "$720.00",
+              "$180.00",
+              "$7.50",
+              "—",
+              "Newest English set; Iconic chase in play"
+            ],
+            [
+              "Japanese First Chapter box, list price",
+              "¥5,280",
+              "¥5,280",
+              "¥330",
+              "¥55",
+              "The Japanese retail anchor, not a shelf price"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: five buyers, five picks",
+        "paragraphs": [
+          "Match the buyer first, then the product. Lorcana punishes the buyer who picks a set before picking a job, because the same $564.07 case is a bargain for one buyer and a mistake for the next.",
+          "The opener is the buyer this case was made for. Two hundred and forty packs at $2.35 a pack is the cheapest way to open Lorcana on our shelf, and every pack carries a guaranteed foil. The collector who wants the first Japanese printing sealed gets the same case for a different reason: it is the first set, in Japanese, at a per-box price no English case approaches. The sealed holder should note the gap honestly: the case is cheap because the Japanese line is young and the English first set is already a collector's object, and a reprint reprices sealed stock without warning."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener",
+              "Japanese First Chapter case",
+              "$564.07",
+              "240 packs at $2.35; cheapest opening on the shelf"
+            ],
+            [
+              "Sealed holder",
+              "Japanese First Chapter case",
+              "$564.07",
+              "$37.60 a box; first Japanese printing, sealed"
+            ],
+            [
+              "English player",
+              "English case, any set",
+              "$463.45+",
+              "Cards that play in English-region events"
+            ],
+            [
+              "Iconic chaser",
+              "Hyperia City singles",
+              "—",
+              "The Iconic Mickey lives in set 14, not this case"
+            ],
+            [
+              "Budget buyer",
+              "Japanese First Chapter case",
+              "$564.07",
+              "Lowest per-box price of any Lorcana case we carry"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other Japanese Lorcana guides",
+        "note": "From the Warehouse: the question we get most about Japanese Lorcana is whether the Japanese case is a cheaper way to buy the English set, because $37.60 a box looks like a mistake next to $436.84. It is not a mistake and it is not the same set in a cheaper language. It is a smaller box, 96 cards against 288, in Japanese, from a line that started in January 2025. Buy it to open Japanese packs or to hold the first Japanese printing. Do not buy it expecting English cards, and do not buy it expecting the Iconic Mickey, because that card is in set 14 and this case is set 1.",
+        "paragraphs": [
+          "The top guides for Japanese Lorcana share three gaps, and each one costs a buyer money. First, they price in yen and in marketplace asks: SNKRDUNK's ultimate Japanese box guide lists the First Chapter box at ¥9,499 against a ¥5,280 list price, with a card-shop buy-in of ¥7,000 and above. Those are asks from other sellers, not a price you can pay at a store that answers for the case. Our $564.07 is our own shelf price, dated, with the fifteen-box division beside it.",
+          "Second, none of them divides a case. The Japanese case holds fifteen boxes and the English case holds four, and the $37.60-a-box figure is the number a group splitting a case actually needs. It appears nowhere in the top results. Third, none of them runs the Japanese-versus-English per-card math: $0.39 a card against $1.52, with 288 more cards in the cheaper case. That pair of numbers is the whole decision for a buyer choosing between languages.",
+          "Fourth, none of them says plainly what our shelf says: only the First Chapter exists in Japanese here. A buyer who reads the yen guides and comes looking for a Japanese Hyperia City or Wilds Unknown case will not find one on this shelf. The guides describe a fourteen-set Japanese line; we stock one set of it, and the honest guide says so before the buyer clicks."
+        ]
+      },
+      {
+        "h": "The practical layer: what Japanese Lorcana actually is",
+        "paragraphs": [
+          "Disney Lorcana reached Japan in January 2025, with The First Chapter releasing on January 25, 2025, distributed by Takara Tomy with Ravensburger. The Japanese set is a fully translated First Chapter with 204 cards against the English set's 216, in smaller packs: 6 cards a pack at ¥330, 16 packs a box, one foil guaranteed in every pack. Three starter decks launched with it, each a 60-card deck. That smaller pack is the whole format difference, and it is why the Japanese box costs less than the English box at retail.",
+          "The Japanese line runs to fourteen sets. Wilds Unknown, set 12, released May 8, 2026, and was the first Japanese set to launch at the same time as the English edition. It also changed the pack: 7 cards instead of 6, with one slot given to the Curator's Library, cards from sets 10 and 11 printed in Japanese for the first time. Hyperia City, set 14, followed on October 16, 2026, with 16 packs of 7 cards a box, Pixar's Coco entering Lorcana for the first time, and a new Ink Drop mechanic.",
+          "The chase structure is where Japanese Lorcana stops being a translation. Japanese sets carry Epic and Iconic rarities: the Iconic Mickey Mouse from Hyperia City, Best in Town, carried marketplace prices of ¥138,000 to ¥180,000 in late October 2026, and the Iconic Cinderella sat at ¥72,800 to ¥160,000 on the same dates. The Enchanted cards are still the headline chase of the early sets, with the First Chapter's Enchanted Elsa the card SNKRDUNK calls the set's holy grail. Our [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) covers the English case math for all fourteen sets, and [buying TCG from Japan, shipping and customs](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers how a case like this one reaches a buyer outside Japan."
+        ]
+      },
+      {
+        "h": "The risk layer: language, legality, and the reprint",
+        "paragraphs": [
+          "The first risk is the language. Japanese cards are printed for Japan, and the buyer who needs cards for English-region sanctioned play should buy the English case, not this one. The price gap makes the wrong choice tempting: $37.60 a box against $436.84 is the kind of gap that makes a buyer rationalize a language they cannot play with. Decide the language before the money moves.",
+          "The second risk is the reprint. A restock or reprint announcement reprices sealed stock without warning. Holders protect themselves the boring way: buy a case they would be content to open, and store it as the [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) describes, so the worst case is an opening they enjoy at $2.35 a pack.",
+          "The third risk is the case-size trap. A Lorcana case is not a fixed size: the English case holds four boxes and the Japanese case holds fifteen. A buyer who assumes four boxes and orders one Japanese case expecting four has ordered fifteen, and a group that splits a case on a four-box assumption has promised boxes that do not exist. Count the boxes in the listing before the split is agreed. And the fourth risk is the reseal: a sealed case at $564.07 is worth faking the wrap for, so run every sealed product from a non-store route through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and photograph everything before breaking a seal."
+        ]
+      },
+      {
+        "h": "Context: why the Japanese box is smaller",
+        "paragraphs": [
+          "The Japanese box is smaller by design, not by accident. Japan's card market runs on smaller, cheaper packs: ¥330 a pack with a guaranteed foil, against an English pack that holds twelve cards and costs several times as much. The Japanese box gives a buyer 96 cards for ¥5,280 at list; the English box gives 288 cards at a much higher retail price. The Japanese buyer opens more boxes, more often, for less money per opening; the English buyer opens fewer, bigger boxes.",
+          "That design choice is also why the Japanese line has its own chase economy. A 6-card pack with a guaranteed foil puts a foil in every buyer's hand, and the Epic and Iconic rarities give the small pack a ceiling the English pack does not have. From Wilds Unknown onward the pack grew to 7 cards so one slot could carry the Curator's Library, older English sets reprinted into Japanese for the first time. The line is a parallel product now, with its own rarities, release dates, and prices.",
+          "The rule is: compare per card, never box to box. The Japanese case wins per card at $0.39 against $1.52, and it wins per pack at $2.35 against $18.20, but it loses the language question outright for an English-region player. The [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) runs the same per-card comparison across all four games on our shelf, so a buyer weighing Lorcana against Pokemon or One Piece can see the same division in one table."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, anyone who needs English cards for sanctioned play outside Japan: buy the English case, not this one, at the English price. Second, anyone chasing the Iconic Mickey or the Iconic Cinderella: those cards live in Hyperia City, set 14, and no First Chapter case contains them. Third, anyone whose budget only works if the case pays for itself in pulls: at $0.39 a card against a 204-card set with Enchanted cards as the headline chase, it almost certainly will not, and the [investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) reaches the same conclusion for sealed product generally.",
+          "Who this guide is for, restated plainly: openers who want 240 packs of the first Japanese set at $2.35 a pack, collectors who want the first Japanese printing sealed at $37.60 a box, and buyers who read Japanese or collect Japanese cards and do not need the cards to play in English. If you are in one of those groups, the table above is your shortlist. If you are not, buy the format that fits and come back to the Japanese First Chapter when the quantity matches the plan."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the language first: Japanese cards for Japan or for collecting, English cards for English-region play",
+          "Divide the case before you pay: $564.07 ÷ 15 boxes = $37.60 a box, $2.35 a pack, $0.39 a card",
+          "Remember the case holds fifteen boxes, not four: count the boxes in the listing before agreeing any split",
+          "If the Iconic Mickey is the plan, buy Hyperia City singles: this case is set 1, the Iconic is set 14",
+          "If buying the case to split, agree the split in writing before ordering: boxes each, price each, who holds sealed extras",
+          "Confirm the set on the listing: First Chapter is set 1, and the Japanese line is fourteen sets deep",
+          "Inspect the seal on arrival before opening, and store sealed boxes cool, dry, and dark"
+        ],
+        "h": "Action layer: the Japanese Lorcana checklist",
+        "paragraphs": [
+          "Run this in order before the next Japanese Lorcana case you consider. It takes five minutes and it replaces an afternoon of comparing yen listings with a decision built on the shelf price you can actually pay."
+        ]
+      }
+    ],
+    "slug": "best-disney-lorcana-japanese",
+    "takeaway": [
+      "The Japanese First Chapter case is $564.07 for fifteen boxes, or $37.60 a box, $2.35 a pack, and $0.39 a card, against $1,747.37 for the English case at $436.84 a box. Buy the Japanese case to open or to hold the first Japanese printing; buy English if the cards need to play in an English-region event, and buy Hyperia City singles if the Iconic Mickey is the plan. Divide per card, never box to box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, with the SNKRDUNK yen figures dated June and October 2026. When the next Japanese set reaches our shelf, run the checklist first and the checkout second.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. Weighing Lorcana against another game? The [best sealed TCG products from Japan](/blog/best-sealed-tcg-products-japan/) compares all four games on one shelf. And if a case lands and the seal starts calling, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment."
+    ]
+  },
   "best-disney-lorcana-sealed-case-to-buy": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -640,7 +856,9 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "A Lorcana case is four boxes and 96 packs, and the case to buy is the one whose per-box price fits the job: Reign of Jafar at $115.86 per box for the cheapest packs, Hyperia City at $180.00 for the newest set, The First Chapter at $436.84 only for sealed first-set status. The case price is the product, and the per-box figure is what a split group pays each.",
       "The distribution is the discipline: about one Enchanted per case on community rates, no guarantee, and no Iconic strategy at 1,500 packs per hit. Buy the case for the packs and the play, buy singles for named cards, and never fund a case from a budget it strains.",
-      "Still weighing the box against the case? The [Lorcana box guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks the same fourteen cases by buyer, and [the case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on the shelf."
+      "Still weighing the box against the case? The [Lorcana box guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks the same fourteen cases by buyer, and [the case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on the shelf.",
+      "Also see the [companion guide](/blog/best-disney-lorcana-japanese/) for the wider comparison.",
+      "Also see the [companion guide](/blog/best-sealed-tcg-products-japan/) for the wider comparison."
     ]
   },
   "best-dragon-ball-fusion-world-booster-box": {
@@ -4088,6 +4306,247 @@ export const POSTS: Record<string, BlogPost> = {
       "For the dearest English box on the shelf, see [OP-11 A Fist of Divine Speed Buyer's Guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/).",
       "For the Yellow debut set in depth, see [OP-03 Pillars of Strength Buyer's Guide](/blog/op-03-pillars-of-strength-buyers-guide/).",
       "For the origin set in depth, see [OP-01 Romance Dawn Buyer's Guide](/blog/op-01-romance-dawn-buyers-guide/)."
+    ]
+  },
+  "best-sealed-tcg-products-japan": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "Two products tie at $2.35 a pack: the Pokemon M3 box at $70.62, thirty packs of five cards, and the Japanese Lorcana First Chapter case at $37.60 a box, sixteen packs of six. Per card they split: M3 is $0.47 a card and the Lorcana case is $0.39, so the Lorcana case is the cheapest card on the shelf and M3 is the cheapest Pokemon pack. The full board for every Japanese Pokemon box is on our [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/).",
+        "q": "What is the cheapest sealed Japanese TCG product to buy?"
+      },
+      {
+        "a": "No, and this shelf proves it twice. Every Japanese One Piece case on our shelf costs more per box than the singles: OP-17 by $0.22 a box, OP-16 by $0.09, OP-05 by $0.45, OP-09 by $0.04. The Pokemon M3 case costs $16.73 more per box than its single. Twenty-six of twenty-eight Pokemon cases save money, so a case usually beats the singles, but usually is not always, and the only way to know is to divide.",
+        "q": "Is a sealed case always cheaper than buying boxes one at a time?"
+      },
+      {
+        "a": "Start with the cheapest per-pack box in the game you actually want to open: M3 at $2.35 a pack for Pokemon, OP-16 at $4.38 for One Piece, or the Japanese Lorcana First Chapter case at $2.35 a pack if Lorcana is the game. All three are in print, low stakes, and cheap enough to learn the format on. Skip the sealed case until you know the game, and skip any box whose price only works if the pulls pay for it. [Which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs.",
+        "q": "Which sealed product should a first-time Japanese TCG buyer start with?"
+      }
+    ],
+    "h1": "Best Sealed TCG Products from Japan: Four Games, One Shelf",
+    "intro": [
+      "The best sealed TCG products from Japan depend on the job, but the arithmetic does not: the cheapest sealed pack on our shelf is a Pokemon M3 box at $2.35, the biggest case discount is a Pokemon Card 151 case at $153.76 a box, and the strangest finding is that every Japanese One Piece case on our shelf costs more per box than buying the singles. One store, four games. Prices as of November 6, 2026.",
+      "This guide is for buyers choosing their first sealed Japanese product, or their next one, across Pokemon, One Piece, Dragon Ball, and Lorcana, with the shelf prices in front of them instead of marketplace asks. It is not for singles buyers, because a sealed product is the wrong tool for a want list, and it is not for anyone who needs English cards for sanctioned play, because most of the value on this shelf is Japanese. The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) is the single-game version."
+    ],
+    "metaDescription": "Best sealed TCG products from Japan: Pokemon from $2.35 a pack, One Piece cases that cost more than singles, and the Lorcana trap.",
+    "metaTitle": "Best Sealed TCG Products from Japan",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: the best sealed buy in each game",
+        "paragraphs": [
+          "Four games, four different best buys, separated by the per-pack number. In Pokemon the cheapest sealed pack is M3 Munikis Zero at $2.35, and the best case discount is Pokemon Card 151 at $153.76 a box. In One Piece the cheapest Japanese pack is OP-16 at $4.38, but the case costs $0.09 more per box than the single, so the best One Piece buy is the single box.",
+          "Dragon Ball sells cases only, and the cheapest per box is FB12 Reach the God at $126.50, or $5.27 a pack. In Lorcana the cheapest English case is Reign of Jafar at $115.86 a box, and the cheapest per box on the whole shelf is the Japanese First Chapter case at $37.60, or $2.35 a pack. The cheapest opening is Pokemon M3 or Japanese Lorcana; the biggest case saving is Pokemon Card 151.",
+          "That spread is the point of the guide. No single game wins every column, and the best sealed product from Japan is a row in the table below that matches the buyer's job. The [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same division across all thirty-two Pokemon boxes, and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) runs it for the one Japanese Lorcana product."
+        ]
+      },
+      {
+        "h": "The money layer: four games, one table",
+        "math": [
+          "Pokemon M3 per pack: $70.62 ÷ 30 packs = $2.35 per pack",
+          "Pokemon M3 case penalty: $87.35 − $70.62 = $16.73 MORE per box",
+          "Pokemon SV2a case saving: $471.20 − $317.44 = $153.76 per box",
+          "Pokemon SV2a case saving total: $153.76 × 12 boxes = $1,845.12",
+          "Pokemon SV11B case saving: $183.18 − $82.64 = $100.54 per box",
+          "One Piece OP-17 case penalty: $121.50 − $121.28 = $0.22 MORE per box",
+          "One Piece OP-16 case penalty: $105.09 − $105.00 = $0.09 MORE per box",
+          "One Piece OP-05 case penalty: $187.06 − $186.61 = $0.45 MORE per box",
+          "One Piece OP-09 case penalty: $175.82 − $175.78 = $0.04 MORE per box",
+          "Dragon Ball FB12 per box: $1,518.00 ÷ 12 boxes = $126.50 per box",
+          "Dragon Ball FB12 per pack: $126.50 ÷ 24 packs = $5.27 per pack",
+          "Lorcana Reign of Jafar per box: $463.45 ÷ 4 boxes = $115.86 per box",
+          "Lorcana JP First Chapter per box: $564.07 ÷ 15 boxes = $37.60 per box",
+          "Lorcana JP vs EN First Chapter per box: $436.84 − $37.60 = $399.24 cheaper"
+        ],
+        "paragraphs": [
+          "The table below is the whole shelf in one place: every game, the format the store sells, and the per-pack number. Pokemon boxes hold 30 packs of 5, except SV11B, SV11W, and SV2a at 20 packs of 7, and M6a at 20 packs of 6 foil. One Piece boxes hold 24 packs of 6, every case 12 boxes. Dragon Ball boxes hold 24 packs of 12, every case 12 boxes. Lorcana English boxes hold 24 packs of 12, 4 boxes to a case; the Japanese First Chapter box holds 16 packs of 6, 15 boxes to a case.",
+          "Two patterns jump out. First, the per-pack spread is ten to one: $2.35 a pack for M3 and for the Japanese Lorcana case, against $23.56 for Pokemon Card 151. Second, the case column does not behave the way most buyers expect. Twenty-six of twenty-eight Pokemon cases save money per box, the biggest saving Pokemon Card 151 at $153.76 a box, but every Japanese One Piece case costs more per box than the single, by $0.04 to $0.45, and the M3 case costs $16.73 more per box. A case is priced as its own product, not as twelve singles minus a bulk discount. Divide it to know which kind you are buying.",
+          "The third pattern is the format gap. Dragon Ball sells cases only, so the per-box number is the only number. Lorcana sells cases only on this shelf too, and the case size changes with the language: four boxes in English, fifteen in Japanese. A buyer who assumes a case is a case has already made the most expensive mistake on this page. Our [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/), [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/), and [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) rank each game's shelf on its own."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Format",
+            "Per pack",
+            "Per box",
+            "Case verdict"
+          ],
+          "rows": [
+            [
+              "Pokemon M3 Munikis Zero box",
+              "$70.62",
+              "$2.35",
+              "$70.62",
+              "Cheapest pack"
+            ],
+            [
+              "Pokemon M3 case",
+              "$1,048.20",
+              "$2.91",
+              "$87.35",
+              "Costs $16.73 MORE"
+            ],
+            [
+              "Pokemon SV11B Black Bolt box",
+              "$183.18",
+              "$9.16",
+              "$183.18",
+              "Saves $100.54"
+            ],
+            [
+              "Pokemon SV2a Card 151 box",
+              "$471.20",
+              "$23.56",
+              "$471.20",
+              "Saves $153.76"
+            ],
+            [
+              "One Piece OP-16 box (JP)",
+              "$105.00",
+              "$4.38",
+              "$105.00",
+              "Costs $0.09 MORE"
+            ],
+            [
+              "One Piece OP-17 box (JP)",
+              "$121.28",
+              "$5.05",
+              "$121.28",
+              "Costs $0.22 MORE"
+            ],
+            [
+              "Dragon Ball FB12 case (EN)",
+              "$1,518.00",
+              "$5.27",
+              "$126.50",
+              "Cheapest FB"
+            ],
+            [
+              "Lorcana Reign of Jafar case (EN)",
+              "$463.45",
+              "$4.83",
+              "$115.86",
+              "Cheapest English case"
+            ],
+            [
+              "Lorcana First Chapter case (EN)",
+              "$1,747.37",
+              "$18.20",
+              "$436.84",
+              "First-set status only"
+            ],
+            [
+              "Lorcana First Chapter case (JP)",
+              "$564.07",
+              "$2.35",
+              "$37.60",
+              "Cheapest per box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: four buyers, four sealed picks",
+        "paragraphs": [
+          "Match the buyer first, then the product.",
+          "The opener wants the most packs for the least money: M3 at $2.35 a pack, or the Japanese Lorcana case at the same $2.35. The group splitter wants the biggest case saving: the SV2a case at $153.76 a box or the SV11B case at $100.54, both twelve-box Pokemon cases. The sealed holder wants out-of-print stock with the widest gap between single and case: the same two Pokemon cases. The first-time buyer wants the cheapest lesson: one M3 box."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener",
+              "Pokemon M3 box",
+              "$70.62",
+              "Thirty packs at $2.35"
+            ],
+            [
+              "Group splitter",
+              "Pokemon SV11B case",
+              "$991.73",
+              "$82.64 a box"
+            ],
+            [
+              "Dragon Ball buyer",
+              "FB12 case",
+              "$1,518.00",
+              "$126.50 a box"
+            ],
+            [
+              "Lorcana buyer",
+              "JP First Chapter case",
+              "$564.07",
+              "$37.60 a box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other sealed-product guides",
+        "note": "From the Warehouse: the question we get most about sealed product is whether the case is always the smart buy, because every guide says cases save money. On our shelf, cases usually save money and sometimes do not, and the exceptions cost buyers real dollars: every One Piece case charges a little more per box than the singles, and the M3 case charges $16.73 more. We have watched buyers order a case expecting a bulk discount and find they paid a premium for the cardboard. Divide the case before you pay. The per-box number is the price; the case price is the packaging.",
+        "paragraphs": [
+          "The top guides for sealed Japanese product share one gap: each covers a single game. Dark Wolf's best Japanese Pokemon boxes guide ranks Pokemon boxes, prices, and fake-spotting, and it does that job well. JapanHacks' One Piece boxes guide picks OP-05 for collectors, OP-09 for players, and the newest set for beginners, and it does that job well. But no top result puts all four games on one shelf with one store's USD prices, and none divides a case in more than one game.",
+          "That single-game view hides the two findings that matter most. First, the One Piece case penalty: every Japanese One Piece case costs more per box than the singles, by $0.04 to $0.45, and no One Piece guide mentions it, because none divides the case against the single. Second, the case-size trap: a Pokemon, One Piece, or Dragon Ball case is twelve boxes, a Lorcana English case is four, and a Lorcana Japanese case is fifteen. A guide that says 'buy the case' without saying how many boxes are in it has not finished the sentence.",
+          "Third, none of them prices in USD from a shelf that answers for the product. The top results price in yen, in marketplace asks, or in another store's currency, and a buyer who follows them still has to convert, guess at shipping, and hope the seller is real. Every price on this page is our own shelf price, dated November 6, 2026, with the case divided beside it. No other guide can write that section."
+        ]
+      },
+      {
+        "h": "The practical layer: sealed formats, game by game",
+        "paragraphs": [
+          "Pokemon is the most familiar format on the shelf. A standard Japanese box holds 30 packs of 5 cards at ¥180 a pack, or ¥5,400 a box. The special sets break the pattern: SV11B, SV11W, and SV2a hold 20 packs of 7, M6a 20 packs of 6 foil cards. Every Pokemon case holds 12 boxes, and the case price is divided by 12 for the per-box number. [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this shelf by the job each box does.",
+          "One Piece is the most regular format: every Japanese box holds 24 packs of 6 cards, and every case holds 12 boxes. The Japanese list price is ¥240 a pack for OP-18, or ¥5,760 a box; the English pack lists at $4.99. The regularity is what makes the case penalty visible: with the same 24-pack box in every set, the only moving number is the price. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the same shelf set by set.",
+          "Dragon Ball is the simplest format and the hardest to buy into: every English box holds 24 packs of 12 cards, every case holds 12 boxes, and the store sells cases only. FB12 Reach the God is the cheapest case per box at $126.50, FB11 the dearest of the three newest sets at $212.75, and the Manga Boosters sit far above both, SB01 at $2,242.50 a box and SB02 at $793.51. Lorcana is the format that changes with the language: the English box holds 24 packs of 12 with 4 boxes to a case, while the Japanese First Chapter box holds 16 packs of 6 with 15 boxes to a case, and from set 12 the Japanese pack grew to 7 cards. The Japanese case is the cheapest per box on the shelf at $37.60, the English First Chapter case the dearest at $436.84. The [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) rank each game's shelf on its own."
+        ]
+      },
+      {
+        "h": "The risk layer: the case that costs more, reseals, reprints",
+        "paragraphs": [
+          "The first risk is the case premium. A buyer who orders a One Piece case expecting the usual bulk discount pays $0.04 to $0.45 more per box than the singles, or $0.42 to $5.41 more across the case, and an M3 case costs $16.73 more per box, or $200.76 across the case. The recovery is the division itself: case price divided by boxes per case, compared with the single, before the order is placed. If the case costs more and the buyer still wants it, that is a choice.",
+          "The second risk is the reseal. A sealed case is worth enough that the wrap is worth faking, and a price far below the shelf prices on this page is a warning, not a bargain. Run every sealed box from a non-store route through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and photograph everything before breaking a seal. The third risk is the reprint: a restock or reprint announcement reprices sealed stock without warning, and holders protect themselves the boring way, by buying sealed product they would be content to open and storing it as the [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) describes. The fourth risk is the language. Most of the value on this shelf is Japanese, and Japanese cards are not legal in English-region sanctioned events, so decide the language before the case is bought, not after. [Buying TCG from Japan, shipping and customs](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers shipping and customs; the [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience."
+        ]
+      },
+      {
+        "h": "Context: why Japanese sealed costs what it costs",
+        "paragraphs": [
+          "Japanese sealed product is cheap at list because the Japanese market is built for volume. A Pokemon pack lists at ¥180, a One Piece pack at ¥240, a Lorcana pack at ¥330, and the boxes list at ¥5,400, ¥5,760, and ¥5,280. The packs are small, and the boxes are meant to be opened often. The English equivalents are bigger packs at higher prices: an English One Piece pack lists at $4.99, and an English Lorcana box holds 288 cards against the Japanese box's 96. The Japanese product is not a discount version of the English product; it is a different product for a different market.",
+          "The shelf price sits above the list price because it carries sourcing, shipping, and inspection the list price does not. The gap is widest where demand is strongest: Pokemon Card 151 lists at ¥3,600 a box in Japan, 20 packs at ¥180, and sells on our shelf at $471.20, because it is out of print and the sealed stock is finite. The gap is narrowest on the sets still in print: M3 at $70.62 and OP-16 at $105 sit close to list once shipping is counted. Allocation pressure does the rest: first printings sell through, and the sealed price follows the stock, which is why the English First Chapter case costs $436.84 a box while Reign of Jafar costs $115.86.",
+          "The same force will reach the Japanese line as it grows, which is why the Japanese First Chapter case at $37.60 a box is worth noting now, while it is still the cheapest per-box Lorcana product on the shelf."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, anyone buying singles: a sealed product is the wrong tool for a want list, because no box guarantees any card. Second, anyone who needs English cards for sanctioned play: most of the value on this shelf is Japanese. Third, anyone whose budget only works if the sealed product pays for itself in pulls: at $2.35 to $23.56 a pack, it almost certainly will not.",
+          "Who this guide is for, restated plainly: openers who want the most packs for the least money, groups splitting a twelve-box case at a real per-box number, sealed holders who understand a case is a multi-year position, and first-time buyers who want the cheapest lesson on the shelf. If you are in one of those groups, the table above is your shortlist. If you are not, buy the format that fits."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the game first, then the format: box, case, or single, in that order",
+          "Divide every case before you pay: case price ÷ boxes per case, then ÷ packs, then ÷ cards",
+          "Check how many boxes are in the case: 12 for Pokemon, One Piece, and Dragon Ball; 4 for English Lorcana; 15 for Japanese Lorcana",
+          "If the case costs more per box than the single, decide that with eyes open: it is a choice, not a discount",
+          "If splitting a case, agree it in writing before ordering: boxes each, price each, who holds sealed extras",
+          "Confirm the language your events require before buying a Japanese case to play with",
+          "Inspect the seal on arrival before opening, and store sealed boxes cool, dry, and dark"
+        ],
+        "h": "Action layer: the sealed-buy checklist",
+        "paragraphs": [
+          "Run this in order before the next sealed Japanese product you consider. It takes five minutes and it replaces an afternoon of comparing yen listings with a decision built on the shelf price you can actually pay."
+        ]
+      }
+    ],
+    "slug": "best-sealed-tcg-products-japan",
+    "takeaway": [
+      "The cheapest sealed pack on our shelf is $2.35, in a Pokemon M3 box and in the Japanese Lorcana First Chapter case, and the biggest case saving is the Pokemon Card 151 case at $153.76 a box. Every Japanese One Piece case costs more per box than the singles, by $0.04 to $0.45, and the M3 case costs $16.73 more. Divide the case before you pay, and let the per-box number choose the format.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026. When the next set in any of the four games opens for pre-order, run the checklist first.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
     ]
   },
   "best-value-japanese-pokemon-booster-boxes": {
@@ -12291,7 +12750,7 @@ export const POSTS: Record<string, BlogPost> = {
     "datePublished": "2026-10-24",
     "faqs": [
       {
-        "a": "November 20, 2026. The set was previewed at One Piece Day 2026, where Yoshitaka Amano art for Loki and Saint Shamrock was revealed.",
+        "a": "November 21, 2026 in Japan (November 20 in English). The set was previewed at One Piece Day 2026, where Yoshitaka Amano art for Loki and Saint Shamrock was revealed.",
         "q": "When does OP-18 The Dominance of God release?"
       },
       {
@@ -12305,7 +12764,7 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "h1": "OP-18 The Dominance of God: The Pre-Order Guide",
     "intro": [
-      "OP-18 The Dominance of God releases on November 20, 2026, and the pre-order question is not whether the set looks strong. It does. The question is whether the numbers justify locking money down weeks before release, and the honest answer is: run the division first. At the Warehouse, OP-18 turns out to be one of the rare releases where the case genuinely beats the single box, and this guide proves it with arithmetic instead of adjectives. Full set details live on the [OP-18 The Dominance of God hub](/sets/op-18-the-dominance-of-god/), and every price below is a Warehouse price as of October 24, 2026.",
+      "OP-18 The Dominance of God releases in Japan on November 21, 2026 (English November 20), and the pre-order question is not whether the set looks strong. It does. The question is whether the numbers justify locking money down weeks before release, and the honest answer is: run the division first. At the Warehouse, OP-18 turns out to be one of the rare releases where the case genuinely beats the single box, and this guide proves it with arithmetic instead of adjectives. Full set details live on the [OP-18 The Dominance of God hub](/sets/op-18-the-dominance-of-god/), and every price below is a Warehouse price as of October 24, 2026.",
       "This guide is not for anyone pre-ordering on hype without a plan for the cards. If there is no deck these packs feed, no shelf the sealed box belongs on, and no point at which you would sell or split the case, a pre-order is just a lottery ticket bought early. It is written for buyers who decide with a calculator: players building a card pool, playgroups splitting cases, and sealed holders who want the per-box price working for them instead of against them."
     ],
     "metaDescription": "OP-18 releases Nov 20, 2026. Amano art, $70 a box, and a case that actually undercuts singles. The Warehouse runs the pre-order math before you commit.",
@@ -12315,7 +12774,7 @@ export const POSTS: Record<string, BlogPost> = {
       {
         "h": "What OP-18 actually is",
         "paragraphs": [
-          "The Dominance of God is the next main One Piece Card Game booster release, landing November 20, 2026. A Japanese booster box holds 24 packs, and a sealed case holds 12 boxes, the standard One Piece structure. The set was previewed at One Piece Day 2026, where the headline reveal was card art by Yoshitaka Amano, including Loki and Saint Shamrock. Amano is a defining illustrator of the Final Fantasy series, and his involvement makes OP-18 a crossover object: a playable set that also sits in front of an art audience that does not normally buy card game product.",
+          "The Dominance of God is the next main One Piece Card Game booster release, landing in Japan on November 21, 2026. A Japanese booster box holds 24 packs, and a sealed case holds 12 boxes, the standard One Piece structure. The set was previewed at One Piece Day 2026, where the headline reveal was card art by Yoshitaka Amano, including Loki and Saint Shamrock. Amano is a defining illustrator of the Final Fantasy series, and his involvement makes OP-18 a crossover object: a playable set that also sits in front of an art audience that does not normally buy card game product.",
           "Warehouse pricing as of October 24, 2026: the [OP-18 Japanese booster box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is $70, and the [OP-18 Japanese booster box case](/product/one-piece-op-18-japanese-booster-box-case-pre-order-one-piece-card-game/) is $755. Those two numbers are the entire decision. Everything else in this guide is what follows from dividing them honestly, and the [release calendar](/release-calendar/) is where OP-18 sits against the rest of the year's sets if you are choosing where a limited budget goes."
         ]
       },
@@ -12392,7 +12851,7 @@ export const POSTS: Record<string, BlogPost> = {
       {
         "h": "Where OP-18 sits in the year",
         "paragraphs": [
-          "Context matters for timing. OP-17, the fourth-anniversary Elbaf set, released in Japan on August 22, 2026 and in English on August 28, and its Warehouse prices still stand at $101.07 for a Japanese box as of October 24, 2026. OP-18 arrives November 20 at $70 a box: a newer set entering cheaper per pack than its predecessor's current price. That gap is the practical story of this pre-order window. Buyers choosing between chasing the anniversary set and locking the new one are not choosing between equal prices, and the full side-by-side is in [the best One Piece booster box to buy](/blog/best-one-piece-booster-box-to-buy/). Browse the wider [One Piece range](/one-piece-cards/) if your pool needs older product alongside the new set."
+          "Context matters for timing. OP-17, the fourth-anniversary Elbaf set, released in Japan on August 22, 2026 and in English on August 28, and its Warehouse prices still stand at $101.07 for a Japanese box as of October 24, 2026. OP-18 arrives November 21 at $70 a box: a newer set entering cheaper per pack than its predecessor's current price. That gap is the practical story of this pre-order window. Buyers choosing between chasing the anniversary set and locking the new one are not choosing between equal prices, and the full side-by-side is in [the best One Piece booster box to buy](/blog/best-one-piece-booster-box-to-buy/). Browse the wider [One Piece range](/one-piece-cards/) if your pool needs older product alongside the new set."
         ]
       },
       {
@@ -12400,7 +12859,7 @@ export const POSTS: Record<string, BlogPost> = {
           "Divide the case price by 12 yourself: $755 ÷ 12 = $62.92 per box, below the $70 single-box price",
           "Name the job: deck pool, playgroup split, or sealed hold — one of the three, in words",
           "Confirm the listing format in the cart: box ($70) or case ($755), not the one you assumed",
-          "Check the release date against your calendar: November 20, 2026",
+          "Check the release date against your calendar: November 21, 2026 (Japan; November 20 in English)",
           "Set the singles rule in advance: which cards you will buy directly after release instead of chasing in packs",
           "If splitting a case, agree the split and payment before the case ships, not after it lands"
         ],
@@ -12412,7 +12871,7 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "op-18-the-dominance-of-god-preorder-guide",
     "takeaway": [
-      "OP-18's pre-order case is unusually clean: a verified November 20, 2026 release, a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first. For the full English back catalogue, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
+      "OP-18's pre-order case is unusually clean: a verified November 21, 2026 Japanese release (November 20 in English), a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first. For the full English back catalogue, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
       "For the whole Japanese shelf around this pre-order, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack, with OP-18 second-cheapest at $3.50 per pack. For the price of every other Japanese box on the shelf beside OP-18, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/)."
     ]
   },
@@ -13035,7 +13494,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Pokemon side of the same method, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices 16 cases box by box, including the M3 case that costs more than its single.",
       "The Japanese One Piece shelf gets the same treatment in the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/), which divides all 24 cases against their own singles.",
       "Two case-first guides now carry this method further: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) divides all fourteen Lorcana cases with split and Enchanted math, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) divides all fourteen Fusion World cases with twelve-box split math.",
-      "Two November 5, 2026 case guides extend the same division to single sets: the [OP-10 Royal Blood Buyer's Guide](/blog/op-10-royal-blood-buyers-guide/) finds the Japanese case charging a premium while the English case saves $556.09, and the [OP-09 Emperors in the New World Buyer's Guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/) finds the Japanese case charging a premium with no English case listed at all."
+      "Two November 5, 2026 case guides extend the same division to single sets: the [OP-10 Royal Blood Buyer's Guide](/blog/op-10-royal-blood-buyers-guide/) finds the Japanese case charging a premium while the English case saves $556.09, and the [OP-09 Emperors in the New World Buyer's Guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/) finds the Japanese case charging a premium with no English case listed at all.",
+      "Also see the [companion guide](/blog/best-sealed-tcg-products-japan/) for the wider comparison."
     ]
   },
   "should-you-open-or-keep-sealed-booster-box": {
