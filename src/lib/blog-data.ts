@@ -2336,7 +2336,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese card shop online is the one that survives the six checks: real stock, sealed authenticity, landed cost in writing, honest duty, a human who answers, and a returns policy that exists. Price is the last check, not the first, because the cheapest listing is the most expensive parcel once the stack is added.",
       "Prices change and customs rules move, so treat every number here as stamped: store prices and the duty position as of November 6, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second.",
-      "Starting your comparison with a real shelf helps: [our Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) list every box from OP-01 to OP-18 with per-pack math, and [the best Japanese Pokémon booster box to buy](/blog/best-japanese-pokemon-booster-box-to-buy/) does the same for the MEGA era. If you are weighing sealed against singles, read [whether Japanese Pokémon cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. Country buyers get the same treatment per market: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) run the landed cost in SGD and pesos. For the landed cost in a single country, see [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/)."
+      "Starting your comparison with a real shelf helps: [our Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) list every box from OP-01 to OP-18 with per-pack math, and [the best Japanese Pokémon booster box to buy](/blog/best-japanese-pokemon-booster-box-to-buy/) does the same for the MEGA era. If you are weighing sealed against singles, read [whether Japanese Pokémon cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. Country buyers get the same treatment per market: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) run the landed cost in SGD and pesos. For the landed cost in a single country, see [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/). The [Thailand hub](/blog/buying-japanese-tcg-cards-in-thailand/) and the [Spain hub](/blog/comprar-cartas-tcg-japonesas-en-espana/) run the same numbers in baht and euros."
     ]
   },
   "best-japanese-dragon-ball-fusion-world-booster-box-to-buy": {
@@ -6865,6 +6865,409 @@ export const POSTS: Record<string, BlogPost> = {
       "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides every box. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
     ]
   },
+  "buying-japanese-tcg-cards-in-thailand": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "ใช่ ทุกพัสดุ ตั้งแต่วันที่ 1 มกราคม 2026 การยกเว้นอากรสำหรับพัสดุไม่เกิน 1,500 บาทถูกยกเลิกตามประกาศกรมศุลกากรที่ 219/2568 พัสดุทุกชิ้นที่มีมูลค่าตั้งแต่ 1 บาทขึ้นไปเสียอากรตามพิกัดบวก VAT 7% บ็อกซ์ M3 หนึ่งกล่อง landed floor อยู่ที่ 2,535 บาท ซึ่งเป็นราคาสินค้า 2,369 บาทบวก VAT 7% เท่านั้น และเส้นสมมติที่มีอากร 10% อยู่ที่ 2,788 บาท เส้นเต็มคำนวณไว้ในคู่มือ[การส่งสินค้าและศุลกากรจากญี่ปุ่น](/blog/buying-tcg-from-japan-shipping-customs-proxy/)",
+        "q": "ซื้อบ็อกซ์ญี่ปุ่นจากญี่ปุ่นมาไทยต้องเสียภาษีไหม?"
+      },
+      {
+        "a": "ขึ้นกับเซ็ต ดังนั้นเทียบกันต่อซอง บ็อกซ์ภาษาอังกฤษชุด Chaos Rising ขายในตลาดกรุงเทพฯ ที่ 2,800 ถึง 3,500 บาท ส่วนบ็อกซ์ญี่ปุ่น M3 สั่งตรงจากญี่ปุ่นอยู่ที่ floor 2,535 บาท หรือ 2,788 บาทในเส้นสมมติ ซึ่งต่ำกว่าช่วงนั้นทั้งสองชั้น แต่ตลาดท้องถิ่นไม่มีภาษีนำเข้าเพิ่มเพราะนำเข้ามาแล้ว และผู้ซื้อต้องรับความเสี่ยงเรื่องสภาพสินค้าและที่มา ตารางเปรียบเทียบอยู่ในชั้นตัดสินใจข้างบน และบอร์ดซองเต็มอยู่ในคู่มือ[ซองบูสเตอร์โปเกมอนญี่ปุ่นที่ดีที่สุด](/blog/best-japanese-pokemon-booster-pack/)",
+        "q": "ซื้อการ์ดโปเกมอนญี่ปุ่นใน Facebook หรือ Shopee ถูกกว่าสั่งตรงจากญี่ปุ่นไหม?"
+      },
+      {
+        "a": "ไม่มีตัวเลขที่นี่ ค่าขนส่งที่แน่นอนยืนยันตอน checkout หรือทาง WhatsApp ที่ wa.me/818029350455 เพราะอัตราขึ้นกับน้ำหนักพัสดุและบริการที่เลือก สิ่งที่คู่มือนี้ให้คือทุกอย่างอื่นในราคา landed: ราคาบ็อกซ์เป็นบาทที่อัตราแลกเปลี่ยนที่ระบุ และภาษีที่แน่นอนถ้ามี ดังนั้นสิ่งเดียวที่ยังไม่รู้คือบรรทัดค่าขนส่งเอง อย่าเชื่อคู่มือที่อ้างเวลาส่งหรือราคาขนส่งสำหรับพัสดุที่มันไม่เคยชั่งน้ำหนัก",
+        "q": "ค่าส่งจากญี่ปุ่นมาไทยเท่าไร?"
+      }
+    ],
+    "h1": "ซื้อการ์ด TCG ญี่ปุ่นในประเทศไทย",
+    "intro": [
+      "ซื้อการ์ดโปเกมอนและวันพีซญี่ปุ่นในประเทศไทยโดยดูที่ตัวเลขเดียว: 1 บาท ตั้งแต่วันที่ 1 มกราคม 2026 ประเทศไทยยกเลิกการยกเว้นอากรสำหรับพัสดุมูลค่าไม่เกิน 1,500 บาท ทุกพัสดุจากญี่ปุ่นต้องเสียอากรตามพิกัดศุลกากรบวก VAT 7% ตั้งแต่บาทแรก คู่มือนี้คำนวณราคา landed เป็นบาทสำหรับหนึ่งบ็อกซ์และหนึ่งเคส และเปรียบเทียบการสั่งตรงจากญี่ปุ่นกับ Facebook Marketplace กลุ่ม LINE Shopee และ Lazada ราคา ณ วันที่ 6 พฤศจิกายน 2026 อัตราแลกเปลี่ยน 33.55 บาทต่อดอลลาร์",
+      "คู่มือนี้สำหรับผู้ซื้อชาวไทยที่ต้องการซีลด์บ็อกซ์ญี่ปุ่นส่งตรงจากญี่ปุ่น โดยระบุภาษีและอากรก่อนจ่ายเงิน ไม่ใช่สำหรับผู้ซื้อซิงเกิล เพราะซีลด์บ็อกซ์เป็นเครื่องมือที่ผิดสำหรับ want list และไม่ใช่สำหรับผู้ที่ต้องการการ์ดภาษาอังกฤษสำหรับการแข่งขันอย่างเป็นทางการ: การ์ดญี่ปุ่นไม่ถูกกฎหมายในอีเวนต์อย่างเป็นทางการนอกเอเชีย คู่มือ[ร้านการ์ดญี่ปุ่นออนไลน์ที่ดีที่สุด](/blog/best-japanese-card-shop-online/) จัดอันดับร้าน Japan-direct คู่มือนี้คำนวณว่าร้านหนึ่งๆ มีค่าใช้จ่ายเท่าไรสำหรับผู้ซื้อชาวไทย"
+    ],
+    "metaDescription": "ซื้อการ์ดโปเกมอนและวันพีซญี่ปุ่นในไทย: อากรตั้งแต่บาทแรก + VAT 7%, ราคา landed เป็นบาท, เทียบ Japan-direct กับ Facebook และ Shopee",
+    "metaTitle": "ซื้อการ์ด TCG ญี่ปุ่นในประเทศไทย",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "คำตอบ: ไม่มีพัสดุปลอดภาษีอีกต่อไป — อากรตั้งแต่บาทแรก",
+        "paragraphs": [
+          "ตัวเลขที่ต้องจำมีเพียงตัวเดียว: 1 บาท ประกาศกรมศุลกากรที่ 219/2568 ซึ่งลงราชกิจจานุเบกษาเมื่อวันที่ 11 ธันวาคม 2025 ปรับเกณฑ์การยกเว้นอากรประเภท 12 ให้เหลือเฉพาะของที่มีมูลค่าศุลกากรไม่เกิน 1 บาทต่อชิ้น มีผลตั้งแต่วันที่ 1 มกราคม 2026 การยกเว้นอากรสำหรับพัสดุมูลค่าไม่เกิน 1,500 บาทจึงสิ้นสุดลงในวันนั้น ของทุกชิ้นที่มีมูลค่าตั้งแต่ 1 บาทขึ้นไปต้องเสียอากรตามพิกัดศุลกากร และ VAT 7% คิดบนฐาน (CIF + อากร)",
+          "VAT ไม่ใช่เรื่องใหม่ของปี 2026 ตั้งแต่เดือนกรกฎาคม 2024 กรมศุลกากรเก็บ VAT 7% สำหรับของนำเข้ามูลค่า 1 ถึง 1,500 บาทแล้ว โดยให้เจ้าหน้าที่ไปรษณีย์ไทยเก็บตอนรับของ สิ่งที่เปลี่ยนในปี 2026 คืออากร: จากเดิมที่ยกเว้นอากรแต่เก็บ VAT กลายเป็นเก็บทั้งอากรและ VAT แพลตฟอร์มอีคอมเมิร์ซรายใหญ่ ได้แก่ Shopee Lazada TikTok Shop Temu และ Shein ได้ตกลงเก็บภาษีที่ขั้นตอน checkout ส่วนพัสดุไปรษณีย์ทั่วไปจ่ายผ่านไปรษณีย์ไทยตอนรับของ",
+          "เส้น 1,500 บาทเก่าคิดเป็นเงินดอลลาร์ได้ 44.71 ดอลลาร์ เพราะ 1,500 หารด้วยอัตรา 33.55 บาทต่อดอลลาร์ของวันที่ 6 พฤศจิกายน 2026 ได้ 44.71 ดอลลาร์ บ็อกซ์ทุกกล่องในร้านของเราอยู่เหนือเส้นนั้นหลายเท่า: บ็อกซ์ที่ถูกที่สุดคือ M3 ราคา 70.62 ดอลลาร์ หรือ 2,369 บาท",
+          "สิ่งเดียวที่คู่มือนี้ไม่พิมพ์เป็นตัวเลขตายตัวคืออัตราอากรของการ์ด อากรคิดตามพิกัด HS ของสินค้า และอัตราสำหรับพิกัดการ์ดยังไม่มีแหล่งข้อมูลทางการที่ยืนยันได้ในรอบนี้ ตัวเลขที่แน่นอนจึงมีสองชั้น: ชั้น floor คือ VAT 7% อย่างเดียว ซึ่งเป็นขั้นต่ำที่ต้องจ่ายแน่ๆ และชั้นสมมติคืออากร 10% ซึ่งเป็นอัตราทั่วไปของสินค้าอุปโภคบริโภคส่วนใหญ่ตามพิกัด MFN คู่มือนี้ติดป้ายกำกับชั้นสมมติไว้ทุกครั้ง และผู้ซื้อควรยืนยันอัตราพิกัดกับผู้ขนส่งก่อนจ่ายเงิน"
+        ]
+      },
+      {
+        "h": "ชั้นเงิน: ทุกบ็อกซ์และทุกเคสเป็นบาท",
+        "math": [
+          "อัตราแลกเปลี่ยนที่ใช้: 1 USD = ฿33.55, 6 พฤศจิกายน 2026 (mid-market)",
+          "เส้น 1,500 บาทเก่าในดอลลาร์: ฿1,500 / 33.55 = $44.71",
+          "ซอง M3 หนึ่งซองในบาท: $2.35 x 33.55 = ฿79",
+          "M3 Munikis Zero box ในบาท: $70.62 x 33.55 = ฿2,369",
+          "M3 Munikis Zero box VAT 7% (floor): ฿2,369 x 0.07 = ฿166",
+          "M3 Munikis Zero box landed floor (VAT อย่างเดียว): ฿2,369 + ฿166 = ฿2,535",
+          "M3 Munikis Zero box อากรสมมติ 10%: ฿2,369 x 0.10 = ฿237",
+          "M3 Munikis Zero box VAT 7% บนฐานรวมอากร: ฿2,606 x 0.07 = ฿182",
+          "M3 Munikis Zero box landed สมมติ (อากร 10% + VAT): ฿2,606 + ฿182 = ฿2,788",
+          "M6 Storm Emeralda box ในบาท: $82.80 x 33.55 = ฿2,778",
+          "M6 Storm Emeralda box VAT 7% (floor): ฿2,778 x 0.07 = ฿194",
+          "M6 Storm Emeralda box landed floor (VAT อย่างเดียว): ฿2,778 + ฿194 = ฿2,972",
+          "M6 Storm Emeralda box อากรสมมติ 10%: ฿2,778 x 0.10 = ฿278",
+          "M6 Storm Emeralda box VAT 7% บนฐานรวมอากร: ฿3,056 x 0.07 = ฿214",
+          "M6 Storm Emeralda box landed สมมติ (อากร 10% + VAT): ฿3,056 + ฿214 = ฿3,270",
+          "M1S Mega Symphonia box ในบาท: $84.97 x 33.55 = ฿2,851",
+          "M1S Mega Symphonia box VAT 7% (floor): ฿2,851 x 0.07 = ฿200",
+          "M1S Mega Symphonia box landed floor (VAT อย่างเดียว): ฿2,851 + ฿200 = ฿3,051",
+          "M1S Mega Symphonia box อากรสมมติ 10%: ฿2,851 x 0.10 = ฿285",
+          "M1S Mega Symphonia box VAT 7% บนฐานรวมอากร: ฿3,136 x 0.07 = ฿220",
+          "M1S Mega Symphonia box landed สมมติ (อากร 10% + VAT): ฿3,136 + ฿220 = ฿3,356",
+          "OP-18 Japanese box ในบาท: $84.00 x 33.55 = ฿2,818",
+          "OP-18 Japanese box VAT 7% (floor): ฿2,818 x 0.07 = ฿197",
+          "OP-18 Japanese box landed floor (VAT อย่างเดียว): ฿2,818 + ฿197 = ฿3,015",
+          "OP-18 Japanese box อากรสมมติ 10%: ฿2,818 x 0.10 = ฿282",
+          "OP-18 Japanese box VAT 7% บนฐานรวมอากร: ฿3,100 x 0.07 = ฿217",
+          "OP-18 Japanese box landed สมมติ (อากร 10% + VAT): ฿3,100 + ฿217 = ฿3,317",
+          "M1L Mega Brave box ในบาท: $94.91 x 33.55 = ฿3,184",
+          "M1L Mega Brave box VAT 7% (floor): ฿3,184 x 0.07 = ฿223",
+          "M1L Mega Brave box landed floor (VAT อย่างเดียว): ฿3,184 + ฿223 = ฿3,407",
+          "M1L Mega Brave box อากรสมมติ 10%: ฿3,184 x 0.10 = ฿318",
+          "M1L Mega Brave box VAT 7% บนฐานรวมอากร: ฿3,502 x 0.07 = ฿245",
+          "M1L Mega Brave box landed สมมติ (อากร 10% + VAT): ฿3,502 + ฿245 = ฿3,747",
+          "M2a MEGA Dream ex box ในบาท: $114.77 x 33.55 = ฿3,851",
+          "M2a MEGA Dream ex box VAT 7% (floor): ฿3,851 x 0.07 = ฿270",
+          "M2a MEGA Dream ex box landed floor (VAT อย่างเดียว): ฿3,851 + ฿270 = ฿4,121",
+          "M2a MEGA Dream ex box อากรสมมติ 10%: ฿3,851 x 0.10 = ฿385",
+          "M2a MEGA Dream ex box VAT 7% บนฐานรวมอากร: ฿4,236 x 0.07 = ฿297",
+          "M2a MEGA Dream ex box landed สมมติ (อากร 10% + VAT): ฿4,236 + ฿297 = ฿4,533",
+          "M2 Inferno X box ในบาท: $183.18 x 33.55 = ฿6,146",
+          "M2 Inferno X box VAT 7% (floor): ฿6,146 x 0.07 = ฿430",
+          "M2 Inferno X box landed floor (VAT อย่างเดียว): ฿6,146 + ฿430 = ฿6,576",
+          "M2 Inferno X box อากรสมมติ 10%: ฿6,146 x 0.10 = ฿615",
+          "M2 Inferno X box VAT 7% บนฐานรวมอากร: ฿6,761 x 0.07 = ฿473",
+          "M2 Inferno X box landed สมมติ (อากร 10% + VAT): ฿6,761 + ฿473 = ฿7,234",
+          "M6a 30th Celebration box ในบาท: $249.00 x 33.55 = ฿8,354",
+          "M6a 30th Celebration box VAT 7% (floor): ฿8,354 x 0.07 = ฿585",
+          "M6a 30th Celebration box landed floor (VAT อย่างเดียว): ฿8,354 + ฿585 = ฿8,939",
+          "M6a 30th Celebration box อากรสมมติ 10%: ฿8,354 x 0.10 = ฿835",
+          "M6a 30th Celebration box VAT 7% บนฐานรวมอากร: ฿9,189 x 0.07 = ฿643",
+          "M6a 30th Celebration box landed สมมติ (อากร 10% + VAT): ฿9,189 + ฿643 = ฿9,832",
+          "OP-18 Japanese case ในบาท: $906.00 x 33.55 = ฿30,396",
+          "OP-18 Japanese case VAT 7% (floor): ฿30,396 x 0.07 = ฿2,128",
+          "OP-18 Japanese case landed floor: ฿30,396 + ฿2,128 = ฿32,524",
+          "OP-18 Japanese case per box landed floor: ฿32,524 / 12 boxes = ฿2,710",
+          "OP-18 Japanese case ประหยัดต่อ box (floor): ฿3,015 - ฿2,710 = ฿305",
+          "OP-18 Japanese case อากรสมมติ 10%: ฿30,396 x 0.10 = ฿3,040",
+          "OP-18 Japanese case VAT 7% บนฐานรวมอากร: ฿33,436 x 0.07 = ฿2,341",
+          "OP-18 Japanese case landed สมมติ: ฿33,436 + ฿2,341 = ฿35,777",
+          "OP-18 Japanese case per box landed สมมติ: ฿35,777 / 12 boxes = ฿2,981",
+          "OP-18 Japanese case ประหยัดต่อ box (สมมติ): ฿3,317 - ฿2,981 = ฿336",
+          "OP-18 Japanese case per pack landed floor: ฿2,710 / 24 packs = ฿113",
+          "M1S Mega Symphonia case ในบาท: $773.15 x 33.55 = ฿25,939",
+          "M1S Mega Symphonia case VAT 7% (floor): ฿25,939 x 0.07 = ฿1,816",
+          "M1S Mega Symphonia case landed floor: ฿25,939 + ฿1,816 = ฿27,755",
+          "M1S Mega Symphonia case per box landed floor: ฿27,755 / 12 boxes = ฿2,313",
+          "M1S Mega Symphonia case ประหยัดต่อ box (floor): ฿3,051 - ฿2,313 = ฿738",
+          "M1S Mega Symphonia case อากรสมมติ 10%: ฿25,939 x 0.10 = ฿2,594",
+          "M1S Mega Symphonia case VAT 7% บนฐานรวมอากร: ฿28,533 x 0.07 = ฿1,997",
+          "M1S Mega Symphonia case landed สมมติ: ฿28,533 + ฿1,997 = ฿30,530",
+          "M1S Mega Symphonia case per box landed สมมติ: ฿30,530 / 12 boxes = ฿2,544",
+          "M1S Mega Symphonia case ประหยัดต่อ box (สมมติ): ฿3,356 - ฿2,544 = ฿812",
+          "M1S Mega Symphonia case per pack landed floor: ฿2,313 / 30 packs = ฿77",
+          "M1L Mega Brave case ในบาท: $912.18 x 33.55 = ฿30,604",
+          "M1L Mega Brave case VAT 7% (floor): ฿30,604 x 0.07 = ฿2,142",
+          "M1L Mega Brave case landed floor: ฿30,604 + ฿2,142 = ฿32,746",
+          "M1L Mega Brave case per box landed floor: ฿32,746 / 12 boxes = ฿2,729",
+          "M1L Mega Brave case ประหยัดต่อ box (floor): ฿3,407 - ฿2,729 = ฿678",
+          "M1L Mega Brave case อากรสมมติ 10%: ฿30,604 x 0.10 = ฿3,060",
+          "M1L Mega Brave case VAT 7% บนฐานรวมอากร: ฿33,664 x 0.07 = ฿2,356",
+          "M1L Mega Brave case landed สมมติ: ฿33,664 + ฿2,356 = ฿36,020",
+          "M1L Mega Brave case per box landed สมมติ: ฿36,020 / 12 boxes = ฿3,002",
+          "M1L Mega Brave case ประหยัดต่อ box (สมมติ): ฿3,747 - ฿3,002 = ฿745",
+          "M1L Mega Brave case per pack landed floor: ฿2,729 / 30 packs = ฿91",
+          "M2 Inferno X case ในบาท: $1,333.69 x 33.55 = ฿44,745",
+          "M2 Inferno X case VAT 7% (floor): ฿44,745 x 0.07 = ฿3,132",
+          "M2 Inferno X case landed floor: ฿44,745 + ฿3,132 = ฿47,877",
+          "M2 Inferno X case per box landed floor: ฿47,877 / 12 boxes = ฿3,990",
+          "M2 Inferno X case ประหยัดต่อ box (floor): ฿6,576 - ฿3,990 = ฿2,586",
+          "M2 Inferno X case อากรสมมติ 10%: ฿44,745 x 0.10 = ฿4,475",
+          "M2 Inferno X case VAT 7% บนฐานรวมอากร: ฿49,220 x 0.07 = ฿3,445",
+          "M2 Inferno X case landed สมมติ: ฿49,220 + ฿3,445 = ฿52,665",
+          "M2 Inferno X case per box landed สมมติ: ฿52,665 / 12 boxes = ฿4,389",
+          "M2 Inferno X case ประหยัดต่อ box (สมมติ): ฿7,234 - ฿4,389 = ฿2,845",
+          "M2 Inferno X case per pack landed floor: ฿3,990 / 30 packs = ฿133",
+          "M2a MEGA Dream ex case ในบาท: $1,858.56 x 33.55 = ฿62,355",
+          "M2a MEGA Dream ex case VAT 7% (floor): ฿62,355 x 0.07 = ฿4,365",
+          "M2a MEGA Dream ex case landed floor: ฿62,355 + ฿4,365 = ฿66,720",
+          "M2a MEGA Dream ex case per box landed floor: ฿66,720 / 20 boxes = ฿3,336",
+          "M2a MEGA Dream ex case ประหยัดต่อ box (floor): ฿4,121 - ฿3,336 = ฿785",
+          "M2a MEGA Dream ex case อากรสมมติ 10%: ฿62,355 x 0.10 = ฿6,236",
+          "M2a MEGA Dream ex case VAT 7% บนฐานรวมอากร: ฿68,591 x 0.07 = ฿4,801",
+          "M2a MEGA Dream ex case landed สมมติ: ฿68,591 + ฿4,801 = ฿73,392",
+          "M2a MEGA Dream ex case per box landed สมมติ: ฿73,392 / 20 boxes = ฿3,670",
+          "M2a MEGA Dream ex case ประหยัดต่อ box (สมมติ): ฿4,533 - ฿3,670 = ฿863",
+          "M2a MEGA Dream ex case per pack landed floor: ฿3,336 / 10 packs = ฿334",
+          "M3 Munikis Zero case ในบาท: $1,048.24 x 33.55 = ฿35,168",
+          "M3 Munikis Zero case VAT 7% (floor): ฿35,168 x 0.07 = ฿2,462",
+          "M3 Munikis Zero case landed floor: ฿35,168 + ฿2,462 = ฿37,630",
+          "M3 Munikis Zero case per box landed floor: ฿37,630 / 12 boxes = ฿3,136",
+          "M3 Munikis Zero case per box: ฿3,136, เทียบกับ ฿2,535 สำหรับหนึ่ง box landed floor",
+          "M3 Munikis Zero case แพงกว่าต่อ box (floor): ฿3,136 - ฿2,535 = ฿601 มากกว่า per box",
+          "M3 Munikis Zero case อากรสมมติ 10%: ฿35,168 x 0.10 = ฿3,517",
+          "M3 Munikis Zero case VAT 7% บนฐานรวมอากร: ฿38,685 x 0.07 = ฿2,708",
+          "M3 Munikis Zero case landed สมมติ: ฿38,685 + ฿2,708 = ฿41,393",
+          "M3 Munikis Zero case per box landed สมมติ: ฿41,393 / 12 boxes = ฿3,449",
+          "M3 Munikis Zero case แพงกว่าต่อ box (สมมติ): ฿3,449 - ฿2,788 = ฿661 มากกว่า per box",
+          "M3 Munikis Zero case per pack landed floor: ฿3,136 / 30 packs = ฿105",
+          "M3 Munikis Zero pack landed floor: ฿2,535 / 30 packs = ฿85",
+          "M3 Munikis Zero pack landed สมมติ: ฿2,788 / 30 packs = ฿93",
+          "M6 Storm Emeralda pack landed floor: ฿2,972 / 30 packs = ฿99",
+          "M6 Storm Emeralda pack landed สมมติ: ฿3,270 / 30 packs = ฿109",
+          "M1S Mega Symphonia pack landed floor: ฿3,051 / 30 packs = ฿102",
+          "M1S Mega Symphonia pack landed สมมติ: ฿3,356 / 30 packs = ฿112",
+          "OP-18 Japanese pack landed floor: ฿3,015 / 24 packs = ฿126",
+          "OP-18 Japanese pack landed สมมติ: ฿3,317 / 24 packs = ฿138",
+          "M1L Mega Brave pack landed floor: ฿3,407 / 30 packs = ฿114",
+          "M1L Mega Brave pack landed สมมติ: ฿3,747 / 30 packs = ฿125",
+          "M2a MEGA Dream ex pack landed floor: ฿4,121 / 10 packs = ฿412",
+          "M2a MEGA Dream ex pack landed สมมติ: ฿4,533 / 10 packs = ฿453",
+          "M2 Inferno X pack landed floor: ฿6,576 / 30 packs = ฿219",
+          "M2 Inferno X pack landed สมมติ: ฿7,234 / 30 packs = ฿241",
+          "M6a 30th Celebration pack landed floor: ฿8,939 / 20 packs = ฿447",
+          "M6a 30th Celebration pack landed สมมติ: ฿9,832 / 20 packs = ฿492"
+        ],
+        "paragraphs": [
+          "ตารางข้างบนคือบอร์ดราคาไทย: บ็อกซ์ทุกกล่องที่ผู้ซื้อชาวไทยมีแนวโน้มจะสั่ง แปลงด้วยอัตรา 33.55 บาทต่อดอลลาร์ คอลัมน์ landed floor คือราคาสินค้าบวก VAT 7% อย่างเดียว ส่วนคอลัมน์ landed สมมติคือราคาสินค้าบวกอากร 10% แล้วบวก VAT 7% บนฐานรวมอากร ทั้งสองคอลัมน์ยังไม่รวมค่าขนส่ง เพราะ VAT คิดบน CIF ซึ่งรวมค่าขนส่งด้วย ดังนั้นตัวเลขทุกตัวคือพื้น ไม่ใช่ยอดสุดท้าย",
+          "สองรูปแบบสมควรได้รับความสนใจ รูปแบบแรก เคสมักจะถูกกว่า แต่ไม่เสมอไป และข้อยกเว้นนั้นแพง เคส OP-18 แบ่งได้ 2,710 บาทต่อบ็อกซ์ในชั้น floor เทียบกับ 3,015 บาทสำหรับบ็อกซ์เดี่ยว ประหยัด 305 บาทต่อบ็อกซ์ แต่เคส M3 ทำลายรูปแบบนี้: ราคา 1,048.24 ดอลลาร์สำหรับสิบสองบ็อกซ์ แบ่งได้ 3,136 บาทต่อบ็อกซ์ในชั้น floor เทียบกับ 2,535 บาทสำหรับบ็อกซ์ M3 เดี่ยว ดังนั้นผู้ซื้อเคสจ่ายแพงกว่า 601 บาทต่อบ็อกซ์ แบ่งเคสก่อนซื้อทุกครั้ง",
+          "รูปแบบที่สอง ช่องว่างระหว่าง floor กับเส้นสมมติคือความเสี่ยงด้านอัตราอากร สำหรับบ็อกซ์ M3 floor อยู่ที่ 2,535 บาท ส่วนเส้นสมมติอยู่ที่ 2,788 บาท ต่างกัน 253 บาท ซึ่งเป็นอากร 10% บวก VAT บนอากรนั้น ถ้าอัตราพิกัดจริงของการ์ดสูงกว่า 10% ตัวเลขสุดท้ายก็สูงกว่านั้นอีก และถ้าต่ำกว่าก็ต่ำกว่า สิ่งที่แน่นอนคือ floor: ไม่มีทางจ่ายต่ำกว่า VAT 7% บนราคาสินค้าได้อีกแล้ว"
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "ราคาชั้นวาง",
+            "เป็นบาท",
+            "Landed floor",
+            "Landed สมมติ",
+            "ต่อซอง"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero (30 x 5)",
+              "$70.62",
+              "฿2,369",
+              "฿2,535",
+              "฿2,788",
+              "฿85"
+            ],
+            [
+              "M6 Storm Emeralda (30 x 5)",
+              "$82.80",
+              "฿2,778",
+              "฿2,972",
+              "฿3,270",
+              "฿99"
+            ],
+            [
+              "OP-18 Japanese (24 x 6)",
+              "$84.00",
+              "฿2,818",
+              "฿3,015",
+              "฿3,317",
+              "฿126"
+            ],
+            [
+              "M1S Mega Symphonia (30 x 5)",
+              "$84.97",
+              "฿2,851",
+              "฿3,051",
+              "฿3,356",
+              "฿102"
+            ],
+            [
+              "M1L Mega Brave (30 x 5)",
+              "$94.91",
+              "฿3,184",
+              "฿3,407",
+              "฿3,747",
+              "฿114"
+            ],
+            [
+              "M2a MEGA Dream ex (10 x 10)",
+              "$114.77",
+              "฿3,851",
+              "฿4,121",
+              "฿4,533",
+              "฿412"
+            ],
+            [
+              "M2 Inferno X (30 x 5)",
+              "$183.18",
+              "฿6,146",
+              "฿6,576",
+              "฿7,234",
+              "฿219"
+            ],
+            [
+              "M6a 30th Celebration (20 x 6)",
+              "$249.00",
+              "฿8,354",
+              "฿8,939",
+              "฿9,832",
+              "฿447"
+            ],
+            [
+              "OP-18 Japanese case (12 boxes)",
+              "$906.00",
+              "฿30,396",
+              "฿32,524",
+              "฿35,777",
+              "฿113"
+            ],
+            [
+              "M2 Inferno X case (12 boxes)",
+              "$1,333.69",
+              "฿44,745",
+              "฿47,877",
+              "฿52,665",
+              "฿133"
+            ],
+            [
+              "M3 Munikis Zero case (12 boxes)",
+              "$1,048.24",
+              "฿35,168",
+              "฿37,630",
+              "฿41,393",
+              "฿105"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "ชั้นตัดสินใจ: Japan-direct เทียบกับ Facebook เทียบกับ LINE เทียบกับ Shopee",
+        "paragraphs": [
+          "ผู้ซื้อชาวไทยมีห้าช่องทางจริงไปสู่บ็อกซ์ญี่ปุ่น และช่องทางเหล่านี้ต่างกันที่ราคา ที่มา และภาษี ไม่ใช่แค่ความสะดวก Japan-direct หมายถึงซีลด์บ็อกซ์ส่งจากญี่ปุ่น ราคาเป็นดอลลาร์ โดยอากรและ VAT ทำงานตามเส้นบาทแรก Facebook Marketplace หมายถึงตลาดมือสองที่ใหญ่ที่สุดของไทยสำหรับซิงเกิลและซีลด์ ราคาเป็นบาท ไม่มีภาษีนำเข้าเพราะนำเข้ามาแล้ว แต่ไม่มีการคุ้มครองผู้ซื้อ กลุ่ม LINE หมายถึงช่องทางเทรดส่วนตัวหลักของนักสะสมจริงจังในไทย โดยกลุ่ม ซื้อขายการ์ด Pokemon เป็นกลุ่มภาษาไทยที่ใหญ่ที่สุด Shopee TH และ Lazada TH หมายถึงสินค้าใหม่ซีลด์จากผู้ขายท้องถิ่น",
+          "ตัวเลขเปรียบเทียบที่ซื่อสัตย์ที่สุดมาจากตลาดท้องถิ่นเอง คู่มือ Thailand Collector's Guide ของ TCG Talk ระบุราคาบ็อกซ์ภาษาอังกฤษชุด Chaos Rising ไว้ที่ 2,800 ถึง 3,500 บาท นั่นคือบ็อกซ์ภาษาอังกฤษ ไม่ใช่ญี่ปุ่น แต่เป็นเกณฑ์ราคาซีลด์บ็อกซ์ในตลาดกรุงเทพฯ บ็อกซ์ญี่ปุ่น M3 ของเราอยู่ที่ floor 2,535 บาท หรือ 2,788 บาทในเส้นสมมติ ซึ่งต่ำกว่าช่วงราคาบ็อกซ์ภาษาอังกฤษนั้นทั้งสองชั้น ส่วนที่เมกาพลาซ่าสะพานเหล็ก ผู้เยี่ยมชมพบกล่องสตาร์เตอร์ญี่ปุ่นสองกล่องราคารวมประมาณ 2,000 บาท ซึ่งเป็นราคาต่อรองหน้าร้าน ไม่ใช่ราคาตั้งขายออนไลน์",
+          "สองข้อเท็จจริงเป็นหลักยึดของการเปรียบเทียบ ข้อแรก ประเทศไทยไม่มี Pokemon Center ร้านค้าอย่างเป็นทางการจึงไม่มีอยู่จริง ผู้ซื้อไทยซื้อจากร้านค้าในห้างและตลาดออนไลน์ ข้อสอง กรุงเทพฯ เป็นศูนย์กลาง re-export ของภูมิภาค: ผู้ซื้อจากเวียดนามและฟิลิปปินส์มักสั่งซื้อผ่านร้านกรุงเทพฯ ซึ่งกดสต็อกท้องถิ่นให้ตึงตัวในสัปดาห์วางจำหน่าย ผู้ซื้อที่ต้องการสินค้าซีลด์ในราคาปลีกควรซื้อตรงจากร้านในวันวางจำหน่ายหรือก่อนหน้านั้น อย่ารอ"
+        ],
+        "table": {
+          "head": [
+            "ช่องทาง",
+            "บ็อกซ์ M3 landed",
+            "ต่อซอง",
+            "ภาษี",
+            "ความเสี่ยง"
+          ],
+          "rows": [
+            [
+              "Japan-direct (Warehouse)",
+              "฿2,535 + ค่าขนส่ง",
+              "฿85",
+              "อากร + VAT 7% ที่ศุลกากร",
+              "ซีลด์ ตรวจสอบได้"
+            ],
+            [
+              "Facebook Marketplace",
+              "ราคาตั้งขาย เป็นบาท",
+              "ขึ้นกับ listing",
+              "ไม่มี จ่ายตอนนำเข้าแล้ว",
+              "สภาพสินค้า; ไม่มีคุ้มครองผู้ซื้อ"
+            ],
+            [
+              "กลุ่ม LINE (ซื้อขายการ์ด Pokemon)",
+              "ราคาตกลงกัน เป็นบาท",
+              "ขึ้นกับดีล",
+              "ไม่มี จ่ายตอนนำเข้าแล้ว",
+              "กลุ่มปิด; ต้องนัดเจอตัว"
+            ],
+            [
+              "Shopee TH",
+              "ราคาตั้งขาย เป็นบาท",
+              "ขึ้นกับ listing",
+              "ไม่มี จ่ายตอนนำเข้าแล้ว",
+              "Live rip and ship; สภาพต่างกัน"
+            ],
+            [
+              "Lazada TH",
+              "ราคาตั้งขาย เป็นบาท",
+              "ขึ้นกับ listing",
+              "ไม่มี จ่ายตอนนำเข้าแล้ว",
+              "สินค้าใหม่ซีลด์; ส่วนใหญ่เป็นภาษาอังกฤษ"
+            ],
+            [
+              "Proxy / forwarder ญี่ปุ่น",
+              "บ็อกซ์ + ค่าบริการ + ขนส่ง",
+              "สูงกว่า ฿85",
+              "เส้น 1 บาทเดียวกัน",
+              "ล่าช้าจากการรวมพัสดุ; เข้าถึงลอตเตอรี่"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "สิ่งที่คู่มือไทยอื่นไม่มี",
+        "note": "จาก Warehouse: คำถามที่เราได้รับบ่อยที่สุดจากผู้ซื้อชาวไทยคือพัสดุเล็กยังปลอดภาษีอยู่หรือไม่ เพราะคู่มือเก่าทุกเล่มบอกว่าไม่เกิน 1,500 บาทไม่เสียอากร คำตอบคือไม่แล้ว: ตั้งแต่วันที่ 1 มกราคม 2026 อากรเริ่มที่บาทแรก คำถามที่สองคือเคสถูกกว่าเสมอหรือไม่ และเคส M3 คือคำตอบ: 3,136 บาทต่อบ็อกซ์ในเคส เทียบกับ 2,535 บาทต่อบ็อกซ์เดี่ยว",
+        "paragraphs": [
+          "คู่มือชั้นนำสำหรับผู้ซื้อชาวไทยมีช่องว่างเดียวกัน: ไม่มีเล่มไหนคำนวณราคา landed คู่มือ Thailand Collector's Guide ของ TCG Talk ให้ราคาบาท ตำแหน่งร้านกรุงเทพฯ และเคล็ดลับการซื้อ และทำหน้าที่นั้นได้ดี คู่มือร้านในกรุงเทพฯ ของ Woahpoke ระบุร้านสิบเอ็ดแห่งพร้อมราคาหน้าร้าน และทำหน้าที่นั้นได้ดี คู่มือ proxy ของ OneMall อธิบายวิธีซื้อการ์ดญี่ปุ่นจากญี่ปุ่นทีละขั้น และทำหน้าที่นั้นได้ดี แต่ไม่มีเล่มไหนเอ่ยชื่อประกาศ 219/2568 ไม่มีเล่มไหนแปลงราคาชั้นวางจริงเป็นบาท และไม่มีเล่มไหนแบ่งเคสเป็นบ็อกซ์",
+          "ช่องว่างนั้นซ่อนสามข้อค้นพบ ข้อแรก ไม่มีพัสดุฟรีอีกแล้ว: อากรเริ่มที่บาทแรก และซอง M3 ซองเดียวราคา 79 บาทก็ต้องเสียอากรกับ VAT แล้ว ข้อสอง กับดักเคส: เคส M3 แพงกว่า 601 บาทต่อบ็อกซ์เมื่อเทียบกับบ็อกซ์เดี่ยว ดังนั้นคำว่าเคสไม่ใช่คำสัญญา ข้อสาม ความไม่แน่นอนของอัตราอากร: พิกัดการ์ดยังไม่ยืนยันเป็นรายพิกัด และคู่มือที่แกล้งทำเป็นรู้อัตรานั้นกำลังโกหกผู้อ่าน"
+        ]
+      },
+      {
+        "h": "ชั้นปฏิบัติ: สั่งจากญี่ปุ่นมาไทย",
+        "paragraphs": [
+          "คำสั่งซื้อเองสั้นมาก ข้อแรก เลือกบ็อกซ์แล้วหาร: ราคาบ็อกซ์หารด้วยจำนวนซอง แล้วหารด้วยจำนวนการ์ด เทียบกับตารางข้างบน และเช็คค่าของกับเส้น 44.71 ดอลลาร์ซึ่งเป็นเส้น 1,500 บาทเก่า ทุกบ็อกซ์เกินเส้นนั้นอยู่แล้ว ดังนั้นอย่าคิดว่ามีพัสดุเล็ก ข้อสอง ตัดสินใจว่าจะเอาหนึ่งบ็อกซ์หรือหนึ่งเคส และถ้าคำตอบคือเคส ให้หารเคสก่อน เพราะเคส M3 พิสูจน์แล้วว่าคำว่าเคสไม่ใช่คำสัญญา ข้อสาม ยืนยันค่าขนส่งที่แน่นอนตอน checkout หรือทาง WhatsApp ที่ wa.me/818029350455 เพราะอัตราขึ้นกับน้ำหนักพัสดุและบริการที่เลือก",
+          "เมื่อของมาถึง การตรวจสอบเหมือนกับซีลด์บ็อกซ์ทุกกล่อง ตรวจซีลก่อนเปิด ถ่ายรูปบ็อกซ์ทุกด้าน และเทียบรหัสเซ็ตบนกล่องกับเซ็ตที่สั่ง: M3 M6 M2a และ M6a เป็นรหัสยุค MEGA ปัจจุบัน OP-18 คือเซ็ตวันพีซปัจจุบัน และคู่มือ[วิธีอ่านการ์ดโปเกมอนญี่ปุ่น](/blog/how-to-read-japanese-pokemon-cards/) อธิบายสัญลักษณ์เซ็ตและเครื่องหมายแรริตี้ ถ้าซีลดูผิดปกติ อย่าเปิด: ใช้คู่มือ[วิธีดูว่าบ็อกซ์ถูกเปิดซ้ำหรือไม่](/blog/how-to-tell-if-a-booster-box-is-resealed/) ก่อน เพราะข้อเรียกร้องเรื่อง reseal พิสูจน์ได้เฉพาะตอนที่ซีลยังสมบูรณ์",
+          "อากาศร้อนชื้นของไทยคือเงื่อนไขท้องถิ่นเดียวที่ควรเอ่ยถึง: สินค้าซีลด์ที่เก็บในที่ร้อนและชื้นจะบิดและซีดได้ ดังนั้นเก็บบ็อกซ์ซีลด์ไว้ในที่เย็น แห้ง และมืด ห่างจากพื้นและแสงแดดโดยตรง คู่มือ[วิธีเก็บบ็อกซ์ซีลด์](/blog/how-to-store-sealed-booster-boxes/) อธิบายขั้นตอนทั้งหมด"
+        ]
+      },
+      {
+        "h": "ชั้นความเสี่ยง: ซองหลวม อัตราอากรที่ไม่แน่นอน และการ reprint",
+        "paragraphs": [
+          "ความเสี่ยงแรกคือซองหลวม และเป็นความเสี่ยงเดียวที่หลีกเลี่ยงได้ทั้งหมด ซองบูสเตอร์เดี่ยวจากตลาดออนไลน์คือกลโกงที่เก่าแก่ที่สุดในงานอดิเรกนี้: ซองถูกชั่งน้ำหนัก ค้นหาไพ่ข้างใน แล้วซีลใหม่ และซองที่ซีลใหม่ดูเหมือนซองซีลด์ทุกประการจนกว่าจะเปิด Warehouse ไม่ขายซองบูสเตอร์เดี่ยว ทางแก้คือบ็อกซ์: ซื้อซีลด์บ็อกซ์ หรือไม่ซื้อเลย",
+          "ความเสี่ยงที่สองคืออัตราอากรที่ไม่แน่นอน อากรของการ์ดคิดตามพิกัด HS และอัตราสำหรับพิกัดนั้นยังไม่ยืนยันเป็นรายพิกัดในรอบนี้ ชั้น floor คือส่วนที่แน่นอน: VAT 7% บนราคาสินค้า ส่วนเส้นสมมติ 10% คือการประมาณจากอัตราทั่วไปของสินค้าอุปโภคบริโภค ถ้าอัตราจริงสูงกว่าหรือต่ำกว่า ราคาสุดท้ายก็ขยับตาม ถามผู้ขนส่งว่าพิกัดใดใช้กับพัสดุของคุณก่อนจ่ายเงิน และอย่าเชื่อคู่มือที่พิมพ์อัตราอากรโดยไม่มีแหล่งที่มา",
+          "ความเสี่ยงที่สามคือการ reprint: ประกาศ restock หรือ reprint จะปรับราคาสินค้าซีลด์โดยไม่เตือนล่วงหน้า และผู้ถือครองป้องกันตัวเองด้วยการซื้อสินค้าซีลด์ที่พวกเขายินดีจะเปิด ความเสี่ยงที่สี่คือภาษา: การ์ดญี่ปุ่นไม่ถูกกฎหมายในอีเวนต์อย่างเป็นทางการนอกเอเชีย ดังนั้นตัดสินใจเรื่องภาษาก่อนซื้อบ็อกซ์ ไม่ใช่หลังซื้อ ประเทศไทยมีชุดภาษาไทยอย่างเป็นทางการของตัวเอง ซึ่งเป็นทางเลือกสำหรับผู้เล่นในท้องถิ่น คู่มือ[การ์ดญี่ปุ่นคุ้มค่ากับการเกรด PSA หรือไม่](/blog/psa-grading-japanese-cards-worth-it/) อธิบายเรื่องการเกรดก่อนที่ผู้ซื้อจะเสียเงินกับมัน"
+        ]
+      },
+      {
+        "h": "บริบท: ร้านค้าญี่ปุ่นเทียบกับร้านค้าไทย และทำไมบ็อกซ์ญี่ปุ่นจึงราคาเท่านี้",
+        "paragraphs": [
+          "ซองโปเกมอนญี่ปุ่นมีขนาดเล็กเพราะตลาดญี่ปุ่นสร้างมาเพื่อปริมาณ: ซองมาตรฐานมี 5 ใบ ราคา 180 เยน บ็อกซ์หนึ่งมี 30 ซอง ซองภาษาอังกฤษมี 10 หรือ 11 ใบ และบ็อกซ์ภาษาอังกฤษมี 36 ซอง ซองญี่ปุ่นไม่ใช่รุ่นลดราคาของซองอังกฤษ: การ์ดญี่ปุ่นตัดและจัดกึ่งกลางแม่นยำกว่า ซึ่งเป็นเหตุผลที่การ์ด chase ญี่ปุ่นได้ PSA 10 บ่อยกว่า",
+          "ช่องว่างการวางจำหน่ายเป็นไปในทางเดียวกัน เซ็ตญี่ปุ่นมาก่อน มักจะหลายเดือนก่อนเวอร์ชันภาษาอังกฤษ และยุค MEGA คือตัวอย่างปัจจุบัน: M1S และ M1L มาถึงในเดือนสิงหาคม 2025 M2 ในวันที่ 26 กันยายน 2025 M2a ในวันที่ 28 พฤศจิกายน 2025 M3 ในเดือนมกราคม 2026 M5 ในเดือนพฤษภาคม 2026 M6 ในวันที่ 31 กรกฎาคม 2026 และ M6a ในวันที่ 16 กันยายน 2026 ผู้ซื้อชาวไทยที่ต้องการการ์ดใหม่ที่สุดก่อนใครซื้อญี่ปุ่น"
+        ]
+      },
+      {
+        "h": "คู่มือนี้ไม่เหมาะกับใคร",
+        "paragraphs": [
+          "สามกลุ่มไม่ควรทำตามคู่มือนี้ กลุ่มแรก ผู้ที่ซื้อซิงเกิล: ซีลด์บ็อกซ์เป็นเครื่องมือที่ผิดสำหรับ want list กลุ่มที่สอง ผู้ที่ต้องการการ์ดภาษาอังกฤษสำหรับการแข่งขันอย่างเป็นทางการ: การ์ดญี่ปุ่นไม่ถูกกฎหมายในอีเวนต์อย่างเป็นทางการนอกเอเชีย กลุ่มที่สาม ผู้ที่งบประมาณจะลงตัวก็ต่อเมื่อไพ่ที่เปิดได้จ่ายค่าบ็อกซ์คืน: ด้วยราคา 85 ถึง 492 บาทต่อซอง และไม่มี pull rate ที่ประกาศไว้ เกือบจะแน่นอนว่าไม่",
+          "คู่มือนี้เหมาะกับใคร พูดให้ชัด: opener ชาวไทยที่ต้องการซองมากที่สุดด้วยเงินน้อยที่สุด grader ที่ต้องการการ์ดที่ถูกที่สุดและจัดกึ่งกลางดีที่สุด ผู้ซื้อเคสที่หารก่อนจ่าย และนักสะสมที่ต้องการเซ็ตญี่ปุ่นใหม่ที่สุดก่อนใคร"
+        ]
+      },
+      {
+        "checklist": [
+          "หารทุกบ็อกซ์ก่อนจ่าย: ราคาบ็อกซ์เป็นบาท แล้วหารด้วยซอง แล้วหารด้วยการ์ด",
+          "เช็คค่าของกับเส้น 44.71 ดอลลาร์ ซึ่งเป็นเส้น 1,500 บาทเก่า ทุกบ็อกซ์เกินเส้นนั้นอยู่แล้ว",
+          "จำไว้ว่าอากรเริ่มที่บาทแรก: แม้แต่ซองเดียวก็เสียอากรและ VAT",
+          "หารเคสก่อนซื้อ: เคส M3 แพงกว่า 601 บาทต่อบ็อกซ์เมื่อเทียบกับบ็อกซ์เดี่ยวในชั้น floor",
+          "ถามผู้ขนส่งว่าพิกัดใดใช้กับพัสดุของคุณก่อนจ่าย เพราะอัตราอากรของการ์ดยังไม่ยืนยัน",
+          "ยืนยันค่าขนส่งที่แน่นอนตอน checkout หรือทาง WhatsApp ก่อนจ่าย",
+          "อย่าซื้อซองบูสเตอร์เดี่ยวจากตลาดออนไลน์: ถูกชั่ง ถูกค้น หรือถูกซีลใหม่",
+          "ตรวจซีลตอนรับของและถ่ายรูปบ็อกซ์ก่อนเปิด",
+          "เก็บบ็อกซ์ซีลด์ไว้ในที่เย็น แห้ง และมืด: ความร้อนชื้นของไทยทำให้กระดาษบิด",
+          "ยืนยันภาษาที่อีเวนต์ของคุณต้องการก่อนซื้อบ็อกซ์ญี่ปุ่นมาเล่น"
+        ],
+        "h": "ชั้นลงมือ: เช็กลิสต์ผู้ซื้อชาวไทย",
+        "paragraphs": [
+          "ทำตามลำดับนี้ก่อนบ็อกซ์ญี่ปุ่นกล่องต่อไปที่คุณกำลังพิจารณา ใช้เวลาห้านาทีและแทนที่การเปรียบเทียบ listing เยนทั้งบ่าย"
+        ]
+      }
+    ],
+    "slug": "buying-japanese-tcg-cards-in-thailand",
+    "takeaway": [
+      "บ็อกซ์ญี่ปุ่นหนึ่งกล่องที่ส่งมาไทยเสียอากรตามพิกัดบวก VAT 7% ตั้งแต่บาทแรก เพราะการยกเว้นอากรสำหรับพัสดุไม่เกิน 1,500 บาทสิ้นสุดลงในวันที่ 1 มกราคม 2026 ตามประกาศกรมศุลกากรที่ 219/2568 ชั้นต่ำที่ต้องจ่ายแน่ๆ คือ VAT 7% บนราคาสินค้า: บ็อกซ์ M3 อยู่ที่ 2,535 บาท ส่วนเส้นสมมติที่มีอากร 10% อยู่ที่ 2,788 บาท เคสที่แบ่งแล้วถูกกว่าคือบ็อกซ์ OP-18 และ M2 แต่เคส M3 แพงกว่า 601 บาทต่อบ็อกซ์เมื่อเทียบกับบ็อกซ์เดี่ยว",
+      "ราคาเคลื่อนไหว ดังนั้นถือว่าตัวเลขทุกตัวที่นี่มีตราประทับเวลา: ราคาชั้นวางของเรา ณ วันที่ 6 พฤศจิกายน 2026 แปลงด้วยอัตรา 33.55 บาทต่อดอลลาร์ โดยภาษีคำนวณบนราคาสินค้าอย่างเดียวเพราะค่าขนส่งยืนยันตอน checkout เมื่อเซ็ตยุค MEGA ชุดต่อไปเปิดพรีออเดอร์ ให้ทำเช็กลิสต์ก่อนและหารบ็อกซ์ก่อนจ่าย",
+      "ยังลังเลระหว่างซีลด์กับซิงเกิลอยู่หรือ? คู่มือ[คณิตศาสตร์ซีลด์เคสเทียบกับบ็อกซ์](/blog/sealed-case-vs-booster-box-the-math/) ใช้วินัยเดียวกันสำหรับเกมเดียว สำหรับชั้นวางโปเกมอนอย่างเดียว [บอร์ดราคาบ็อกซ์โปเกมอนญี่ปุ่น](/blog/japanese-pokemon-booster-box-price/) แบ่งทุกบ็อกซ์ และถ้าคุณยังไม่ได้เลือกเกม [TCG ไหนที่ควรเริ่ม](/blog/which-tcg-should-you-start/) เปรียบเทียบต้นทุนบ็อกซ์แรกจริงๆ ฮับมาเลเซียคำนวณตัวเลขเดียวกันสำหรับเส้นภาษีที่ต่างกัน: [ซื้อการ์ด TCG ญี่ปุ่นในมาเลเซีย](/blog/buying-japanese-tcg-cards-in-malaysia/)"
+    ]
+  },
   "buying-tcg-from-japan-shipping-customs-proxy": {
     "datePublished": "2026-10-21",
     "faqs": [
@@ -7005,7 +7408,347 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Buying TCG from Japan is not a shortcut around cost; it is a choice about where cost and risk sit. Proxies move both onto you and call the difference savings. Marketplaces split them unpredictably. A specialist store prices them into the shelf and answers for them. Any of the three can be the right answer — for a buyer who has written the stack down, priced the total-loss case, and checked their own customs rules first.",
       "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box. Choosing the shop itself is a separate decision: [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) runs the six checks — real stock, sealed authenticity, landed cost, and the duty position now that de minimis is dead. Country buyers can skip the general math: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) runs the S$400 GST line in SGD, and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) runs the ₱10,000 de minimis line in pesos.",
-      "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes. The country hubs run the same numbers for a single destination: [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) works the €3 duty and 21% BTW, and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/) works the 7,5% duty and 11% VAT in rupiah."
+      "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes. The country hubs run the same numbers for a single destination: [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) works the €3 duty and 21% BTW, and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/) works the 7,5% duty and 11% VAT in rupiah. [Buying Japanese TCG cards in Thailand](/blog/buying-japanese-tcg-cards-in-thailand/) works the abolished ฿1,500 line and 7% VAT in baht, and [comprar cartas TCG japonesas en España](/blog/comprar-cartas-tcg-japonesas-en-espana/) works the €3 duty, €2 fee and 21% IVA in euros."
+    ]
+  },
+  "comprar-cartas-tcg-japonesas-en-espana": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "Sí, en cada paquete. El IVA del 21 % se aplica desde el primer euro, y el arancel es un fijo de 3 € por categoría en paquetes de hasta 150 €, más una tasa de tramitación de 2 € por categoría desde el 1 de noviembre de 2026. Una sola caja M3 landed es de 82,70 € con el arancel de 3 €, la tasa de 2 € y el IVA del 21 % incluidos, y la caja más cara actual por debajo de la línea, la M2a, landed es de 130,62 €. La línea completa está calculada en la guía [envío y aduanas desde Japón](/blog/buying-tcg-from-japan-shipping-customs-proxy/)",
+        "q": "¿Pago IVA y arancel al comprar una caja japonesa desde Japón a España?"
+      },
+      {
+        "a": "Depende del set, así que compara por sobre. Reino de Cartas vende la caja M6 a 127,99 €, mientras que el coste landed del Warehouse para la misma caja es de 95,92 €, así que en M6 Japan-direct gana por 32,07 €. En M3 la caja Japan-direct landed es de 2,76 € por sobre, por debajo de la mayoría del stock sellado local. La tabla de comparación está en la capa de decisión de arriba, y el tablero completo de sobres está en nuestra guía [mejor sobre de Pokémon japonés](/blog/best-japanese-pokemon-booster-pack/)",
+        "q": "¿Es más barato comprar cartas Pokémon japonesas en Cardmarket o directo desde Japón?"
+      },
+      {
+        "a": "No. La cotización exacta de envío se confirma en el checkout o por WhatsApp en wa.me/818029350455, porque la tarifa depende del peso del paquete y del servicio elegido. Lo que sí te da esta guía es todo lo demás del coste landed: el precio de la caja en euros al tipo de cambio declarado, y el arancel y el IVA exactos sobre la mercancía, así que la única incógnita que queda es la línea de envío. Nunca confíes en una guía que cita un tiempo de entrega o un precio de envío para un paquete que no ha pesado.",
+        "q": "¿Cuánto cuesta el envío desde Japón a España?"
+      }
+    ],
+    "h1": "Comprar Cartas TCG Japonesas en España",
+    "intro": [
+      "Compra cartas Pokémon y One Piece japonesas en España mirando dos números: 150 € y 21 %. Desde el 1 de julio de 2026 la Unión Europea cobra un arancel fijo de 3 € por categoría en paquetes de hasta 150 €, y desde el 1 de noviembre de 2026 se suma una tasa de tramitación de 2 € por categoría; el IVA del 21 % se aplica desde el primer euro, así que ya no existe el paquete libre de impuestos desde Japón. Esta guía pone los precios en euros, calcula el coste landed de una caja y de un case,. Precios a 6 de noviembre de 2026, a 0,897 € por dólar.",
+      "Esta guía es para compradores españoles que quieren cajas selladas japonesas enviadas desde Japón, con el arancel y el impuesto declarados antes de pagar. No es para compradores de singles, porque una caja sellada es la herramienta equivocada para una want list, y no es para quien necesite cartas en inglés para el juego sancionado: las cartas japonesas no son legales en eventos europeos. La guía [mejor tienda de cartas japonesas online](/blog/best-japanese-card-shop-online/) clasifica las tiendas Japan-direct; esta guía calcula lo que cuesta una de ellas para un comprador español."
+    ],
+    "metaDescription": "Compra cartas Pokémon y One Piece japonesas en España: IVA 21% desde el primer euro, arancel 3 € + tasa 2 €, coste landed y Japan-direct vs Cardmarket.",
+    "metaTitle": "Comprar Cartas TCG Japonesas en España",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "La respuesta: 3 € más 2 € más 21 % de IVA desde el primer euro",
+        "paragraphs": [
+          "El IVA español no tiene umbral de valor bajo. Desde el 1 de julio de 2021 la Unión Europea abolió la exención de IVA para importaciones de bajo valor, así que el 21 % de IVA se debe en cada importación comercial desde Japón, desde el primer euro, sobre el precio más el envío y el seguro. El vendedor puede cobrarlo en el checkout a través del IOSS, y entonces el paquete pasa la aduana sin ningún pago en la frontera; sin IOSS, el transportista cobra el IVA en la entrega y añade su propia tasa.",
+          "El arancel cambió el 1 de julio de 2026. Hasta el 30 de junio de 2026, los envíos de 150 € o menos estaban exentos de arancel. Desde esa fecha la exención está abolida por el Reglamento (UE) 2026/382 y sustituida por un arancel fijo temporal de 3 € por categoría arancelaria en envíos de hasta 150 €, vigente hasta el 1 de julio de 2028. Por encima de 150 € se aplica el arancel normal por clasificación TARIC sobre el valor CIF,.",
+          "Desde el 1 de noviembre de 2026 hay una segunda tasa: la tasa de tramitación de 2 € por categoría de artículos, confirmada por la Agencia Tributaria. Se paga junto con los 3 € por categoría, se aplica con independencia del valor del envío, y forma parte de la base imponible del IVA. Los 3 € se cobran por clasificación arancelaria, no por unidad física: cinco cajas de un mismo set son una sola clasificación, así que el arancel sobre ellas es de 3 €, no de 15 €.",
+          "En dólares, la línea de 150 € son 167,22 $ de valor de mercancía, porque 150 dividido por el tipo de 0,897 € del 6 de noviembre de 2026 son 167,22 $. Esa línea atraviesa el estante: la caja M3 a 70,62 $, la M6 a 82,80 $, la M1S a 84,97 $, la OP-18 a 84,00 $, la M1L a 94,91 $ y la M2a a 114,77 $ quedan todas por debajo, mientras que la caja M2 a 183,18 $ y la M6a a 249,00 $ ya están por encima."
+        ]
+      },
+      {
+        "h": "La capa de dinero: cada caja y cada case en euros",
+        "math": [
+          "Tipo de cambio usado: 1 USD = €0.897, 6 de noviembre de 2026 (mid-market)",
+          "Línea de €150 en dólares: €150.00 / 0.897 = $167.22 de valor de mercancía",
+          "M3 Munikis Zero box en EUR: $70.62 x 0.897 = €63.35",
+          "M3 Munikis Zero box arancel + tasa: €3.00 + €2.00 = €5.00",
+          "M3 Munikis Zero box base imponible: €63.35 + €5.00 = €68.35",
+          "M3 Munikis Zero box landed con IVA 21%: €68.35 x 1.21 = €82.70",
+          "M6 Storm Emeralda box en EUR: $82.80 x 0.897 = €74.27",
+          "M6 Storm Emeralda box arancel + tasa: €3.00 + €2.00 = €5.00",
+          "M6 Storm Emeralda box base imponible: €74.27 + €5.00 = €79.27",
+          "M6 Storm Emeralda box landed con IVA 21%: €79.27 x 1.21 = €95.92",
+          "M1S Mega Symphonia box en EUR: $84.97 x 0.897 = €76.22",
+          "M1S Mega Symphonia box arancel + tasa: €3.00 + €2.00 = €5.00",
+          "M1S Mega Symphonia box base imponible: €76.22 + €5.00 = €81.22",
+          "M1S Mega Symphonia box landed con IVA 21%: €81.22 x 1.21 = €98.28",
+          "OP-18 Japanese box en EUR: $84.00 x 0.897 = €75.35",
+          "OP-18 Japanese box arancel + tasa: €3.00 + €2.00 = €5.00",
+          "OP-18 Japanese box base imponible: €75.35 + €5.00 = €80.35",
+          "OP-18 Japanese box landed con IVA 21%: €80.35 x 1.21 = €97.22",
+          "M1L Mega Brave box en EUR: $94.91 x 0.897 = €85.13",
+          "M1L Mega Brave box arancel + tasa: €3.00 + €2.00 = €5.00",
+          "M1L Mega Brave box base imponible: €85.13 + €5.00 = €90.13",
+          "M1L Mega Brave box landed con IVA 21%: €90.13 x 1.21 = €109.06",
+          "M2a MEGA Dream ex box en EUR: $114.77 x 0.897 = €102.95",
+          "M2a MEGA Dream ex box arancel + tasa: €3.00 + €2.00 = €5.00",
+          "M2a MEGA Dream ex box base imponible: €102.95 + €5.00 = €107.95",
+          "M2a MEGA Dream ex box landed con IVA 21%: €107.95 x 1.21 = €130.62",
+          "M2 Inferno X box en EUR: $183.18 x 0.897 = €164.31",
+          "M2 Inferno X box base IVA (suelo): €164.31 + €2.00 = €166.31",
+          "M2 Inferno X box IVA 21% (suelo, arancel por clasificación encima): €166.31 x 1.21 = €201.24",
+          "M6a 30th Celebration box en EUR: $249.00 x 0.897 = €223.35",
+          "M6a 30th Celebration box base IVA (suelo): €223.35 + €2.00 = €225.35",
+          "M6a 30th Celebration box IVA 21% (suelo, arancel por clasificación encima): €225.35 x 1.21 = €272.67",
+          "OP-18 Japanese case en EUR: $906.00 x 0.897 = €812.68",
+          "OP-18 Japanese case base IVA (suelo): €812.68 + €2.00 = €814.68",
+          "OP-18 Japanese case IVA 21% (suelo, arancel por clasificación encima): €814.68 x 1.21 = €985.76",
+          "OP-18 Japanese case per box landed: €985.76 / 12 boxes = €82.15",
+          "OP-18 Japanese case ahorro per box: €97.22 - €82.15 = €15.07",
+          "OP-18 Japanese case per pack landed: €82.15 / 24 packs = €3.42",
+          "M1S Mega Symphonia case en EUR: $773.15 x 0.897 = €693.52",
+          "M1S Mega Symphonia case base IVA (suelo): €693.52 + €2.00 = €695.52",
+          "M1S Mega Symphonia case IVA 21% (suelo, arancel por clasificación encima): €695.52 x 1.21 = €841.58",
+          "M1S Mega Symphonia case per box landed: €841.58 / 12 boxes = €70.13",
+          "M1S Mega Symphonia case ahorro per box: €98.28 - €70.13 = €28.15",
+          "M1S Mega Symphonia case per pack landed: €70.13 / 30 packs = €2.34",
+          "M1L Mega Brave case en EUR: $912.18 x 0.897 = €818.23",
+          "M1L Mega Brave case base IVA (suelo): €818.23 + €2.00 = €820.23",
+          "M1L Mega Brave case IVA 21% (suelo, arancel por clasificación encima): €820.23 x 1.21 = €992.48",
+          "M1L Mega Brave case per box landed: €992.48 / 12 boxes = €82.71",
+          "M1L Mega Brave case ahorro per box: €109.06 - €82.71 = €26.35",
+          "M1L Mega Brave case per pack landed: €82.71 / 30 packs = €2.76",
+          "M2 Inferno X case en EUR: $1,333.69 x 0.897 = €1,196.32",
+          "M2 Inferno X case base IVA (suelo): €1,196.32 + €2.00 = €1,198.32",
+          "M2 Inferno X case IVA 21% (suelo, arancel por clasificación encima): €1,198.32 x 1.21 = €1,449.97",
+          "M2 Inferno X case per box landed: €1,449.97 / 12 boxes = €120.83",
+          "M2 Inferno X case ahorro per box: €201.24 - €120.83 = €80.41",
+          "M2 Inferno X case per pack landed: €120.83 / 30 packs = €4.03",
+          "M2a MEGA Dream ex case en EUR: $1,858.56 x 0.897 = €1,667.13",
+          "M2a MEGA Dream ex case base IVA (suelo): €1,667.13 + €2.00 = €1,669.13",
+          "M2a MEGA Dream ex case IVA 21% (suelo, arancel por clasificación encima): €1,669.13 x 1.21 = €2,019.65",
+          "M2a MEGA Dream ex case per box landed: €2,019.65 / 20 boxes = €100.98",
+          "M2a MEGA Dream ex case ahorro per box: €130.62 - €100.98 = €29.64",
+          "M2a MEGA Dream ex case per pack landed: €100.98 / 10 packs = €10.10",
+          "M3 Munikis Zero case en EUR: $1,048.24 x 0.897 = €940.27",
+          "M3 Munikis Zero case base IVA (suelo): €940.27 + €2.00 = €942.27",
+          "M3 Munikis Zero case IVA 21% (suelo, arancel por clasificación encima): €942.27 x 1.21 = €1,140.15",
+          "M3 Munikis Zero case per box landed: €1,140.15 / 12 boxes = €95.01",
+          "M3 Munikis Zero case per box: €95.01, frente a €82.70 por una sola box landed",
+          "M3 Munikis Zero case sobrecoste per box: €95.01 - €82.70 = €12.31 más per box",
+          "M3 Munikis Zero case per pack landed: €95.01 / 30 packs = €3.17",
+          "M3 Munikis Zero pack landed: €82.70 / 30 packs = €2.76",
+          "M6 Storm Emeralda pack landed: €95.92 / 30 packs = €3.20",
+          "M1S Mega Symphonia pack landed: €98.28 / 30 packs = €3.28",
+          "OP-18 Japanese pack landed: €97.22 / 24 packs = €4.05",
+          "M1L Mega Brave pack landed: €109.06 / 30 packs = €3.64",
+          "M2a MEGA Dream ex pack landed: €130.62 / 10 packs = €13.06",
+          "M2 Inferno X pack landed: €201.24 / 30 packs = €6.71",
+          "M6a 30th Celebration pack landed: €272.67 / 20 packs = €13.63",
+          "Dos boxes M3 Munikis Zero en EUR: $141.24 x 0.897 = €126.69",
+          "Dos boxes M3 Munikis Zero base imponible: €126.69 + €5.00 = €131.69",
+          "Dos boxes M3 Munikis Zero landed: €131.69 x 1.21 = €159.34",
+          "Tres boxes M3 Munikis Zero en EUR: $211.86 x 0.897 = €190.04",
+          "Tres boxes M3 Munikis Zero base IVA (suelo): €190.04 + €2.00 = €192.04",
+          "Tres boxes M3 Munikis Zero IVA 21% (suelo): €192.04 x 1.21 = €232.37"
+        ],
+        "paragraphs": [
+          "La tabla de arriba es el tablero de precios español: cada caja actual que un comprador español probablemente pida, convertida a 0,897 € por dólar, con la columna landed mostrando el impuesto sobre el valor de la mercancía sola. Para las cajas por debajo de 150 € la cifra landed es exacta: el arancel de 3 € más la tasa de 2 € más el 21 % de IVA. Para las cajas M2 y M6a y para cada case, marcadas con un asterisco, la cifra landed es un suelo: 21 % de IVA sobre la mercancía.",
+          "Dos patrones merecen atención. Primero, el case suele ser la mejor compra, pero no siempre. El case OP-18 se divide en 82,15 € por caja landed frente a 97,22 € por una sola caja, ahorrando 15,07 € por caja, y el case M2 Inferno X se divide en 120,83 € por caja landed frente a 201,24 €, ahorrando 80,41 € por caja. El case M3 rompe el patrón: a 1.048,24 $ por doce cajas cuesta 95,01 € por caja landed, frente a 82,70 € por una sola caja M3, así que el comprador de case paga 12,31 € más por caja.",
+          "Segundo, la línea de envío falta en cada número de arriba, y es deliberado. El IVA se cobra sobre el precio más el envío y el seguro, así que las cifras landed subestiman el impuesto de cualquier paquete en el impuesto sobre su flete. La cotización de envío se confirma solo en el checkout o por WhatsApp, porque la tarifa depende del peso del paquete y del servicio elegido."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Precio de estante",
+            "En EUR",
+            "Landed",
+            "Por sobre"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero (30 x 5)",
+              "$70.62",
+              "€63.35",
+              "€82.70",
+              "€2.76"
+            ],
+            [
+              "M6 Storm Emeralda (30 x 5)",
+              "$82.80",
+              "€74.27",
+              "€95.92",
+              "€3.20"
+            ],
+            [
+              "OP-18 Japanese (24 x 6)",
+              "$84.00",
+              "€75.35",
+              "€97.22",
+              "€4.05"
+            ],
+            [
+              "M1S Mega Symphonia (30 x 5)",
+              "$84.97",
+              "€76.22",
+              "€98.28",
+              "€3.28"
+            ],
+            [
+              "M1L Mega Brave (30 x 5)",
+              "$94.91",
+              "€85.13",
+              "€109.06",
+              "€3.64"
+            ],
+            [
+              "M2a MEGA Dream ex (10 x 10)",
+              "$114.77",
+              "€102.95",
+              "€130.62",
+              "€13.06"
+            ],
+            [
+              "M2 Inferno X (30 x 5)*",
+              "$183.18",
+              "€164.31",
+              "€201.24*",
+              "€6.71"
+            ],
+            [
+              "M6a 30th Celebration (20 x 6)*",
+              "$249.00",
+              "€223.35",
+              "€272.67*",
+              "€13.63"
+            ],
+            [
+              "OP-18 Japanese case (12 boxes)*",
+              "$906.00",
+              "€812.68",
+              "€985.76*",
+              "€3.42"
+            ],
+            [
+              "M2 Inferno X case (12 boxes)*",
+              "$1,333.69",
+              "€1,196.32",
+              "€1,449.97*",
+              "€4.03"
+            ],
+            [
+              "M3 Munikis Zero case (12 boxes)*",
+              "$1,048.24",
+              "€940.27",
+              "€1,140.15*",
+              "€3.17"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "La capa de decisión: Japan-direct frente a Cardmarket frente a Wallapop frente a las tiendas",
+        "paragraphs": [
+          "Un comprador español tiene cinco rutas reales hacia una caja japonesa, y difieren en precio, procedencia e impuesto, no solo en comodidad. Japan-direct significa una caja sellada enviada desde Japón, con precio en dólares, y la línea de 150 € con el 21 % de IVA haciendo el trabajo fiscal. Cardmarket significa un vendedor europeo, con precio en euros, sin impuesto de importación porque la importación ya ocurrió, y una escala de estado de siete pasos que hay que leer antes de pagar. Wallapop significa el clasificado local, con precios negociables y sin protección del comprador. La tienda española significa el mismo stock ya importado,.",
+          "Cardmarket es el mayor marketplace de TCG de Europa, con más de 500 millones de ofertas y 2 millones de compradores en 30 países, y es la referencia de precios por defecto para los coleccionistas españoles. Wallapop es la capa local: los anuncios en español de cartas Pokémon japonesas son densos, con vendedores que enlazan sus tiendas de Cardmarket en el texto del anuncio. Las tiendas españolas son reales y competitivas: Reino de Cartas vende la caja M6 Storm Emeralda japonesa a 127,99 €, sellada,. El coste landed del Warehouse para la misma caja es de 95,92 €, así que en M6 Japan-direct gana por 32,07 €.",
+          "Dos hechos anclan la comparación. Primero, no hay tienda oficial de Pokémon Center en España: la primera tienda de Europa continental abrió en octubre de 2025 para Alemania y solo entrega a direcciones alemanas. Segundo, la ruta local no puede ofrecer el precio Japan-direct en cada set: la caja M3 landed es de 82,70 € desde Japón, o 2,76 € por sobre, y una caja sellada local carga el coste de importación, el IVA y el margen de la tienda."
+        ],
+        "table": {
+          "head": [
+            "Ruta",
+            "Caja M3 landed",
+            "Por sobre",
+            "Impuesto",
+            "Riesgo"
+          ],
+          "rows": [
+            [
+              "Japan-direct (Warehouse)",
+              "€82.70 + envío",
+              "€2.76",
+              "3 € + 2 € + 21% IVA, IOSS o frontera",
+              "Sellado, verificable"
+            ],
+            [
+              "Cardmarket (vendedores UE)",
+              "Precio en EUR, sin impuesto de importación",
+              "Varía por vendedor",
+              "Ninguno, ya importado",
+              "Escala de estado; solo la valoración del vendedor"
+            ],
+            [
+              "Wallapop (venta local)",
+              "Precio en EUR, negociable",
+              "Varía",
+              "Ninguno, ya importado",
+              "Estado sin verificar; sin protección del comprador"
+            ],
+            [
+              "Reino de Cartas (ES)",
+              "€127.99 la caja M6",
+              "€4.27",
+              "Ninguno, ya importado",
+              "Tienda con stock; 1 unidad"
+            ],
+            [
+              "eBay.es",
+              "Precio en EUR",
+              "Varía",
+              "Ninguno, ya importado",
+              "Protección del comprador; sobreprecios"
+            ],
+            [
+              "Proxy / forwarder Japón",
+              "Caja + tarifa de servicio + envío",
+              "Más de €2.76",
+              "La misma línea de 150 €",
+              "Retrasos por consolidación; acceso a lotería"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Lo que falta en otras guías de España",
+        "note": "Desde el Warehouse: la pregunta que más recibimos de los compradores españoles es si algo sigue exento de arancel por debajo de 150 €, porque cada guía escrita antes de julio de 2026 dice que sí. No lo está: la exención murió el 1 de julio de 2026 y el arancel fijo de 3 € la sustituyó,. La segunda pregunta es si los 3 € se aplican por caja, y la respuesta es por categoría arancelaria, así que cinco cajas de un set cuestan 3 € de arancel, no 15 €.",
+        "paragraphs": [
+          "Las guías principales para compradores españoles comparten una carencia: ninguna calcula el coste landed. La guía de MiPokedex explica cómo comprar desde España paso a paso, dónde buscar y cómo mandar a PSA, y hace bien ese trabajo. La guía de CardFolio explica por qué el idioma cambia el precio y que la carta española suele valer menos que la inglesa, y hace bien ese trabajo. Pero ninguna nombra el arancel de 3 € ni la tasa de 2 €, ninguna convierte un precio real de estante a euros, y ninguna divide un case por caja.",
+          "Esa carencia esconde tres hallazgos. Primero, el acantilado fiscal: dos cajas M3 pasan por debajo de la línea de 150 € y tres la cruzan, así que la diferencia entre un paquete y dos es una factura de arancel e IVA sobre todo el envío. Tercero, la elección IOSS: un vendedor que cobra el IVA en el checkout no deja nada que pagar en la frontera, mientras que uno que no lo hace deja que el transportista cobre el IVA más una tasa de gestión en la entrega."
+        ]
+      },
+      {
+        "h": "La capa práctica: pedir desde Japón a España",
+        "paragraphs": [
+          "El pedido en sí es corto. Primero, elige la caja y divídela: precio de la caja dividido por sobres, luego por cartas, contra la tabla de arriba, y comprueba el valor de la mercancía contra la línea de 167,22 $ que mantiene un paquete por debajo de 150 €. Segundo, decide una caja o un case, y si la respuesta es un case, divide el case primero, porque el case M3 demuestra que la palabra case no es una promesa. Tercero, confirma la cotización exacta de envío en el checkout o por WhatsApp en wa.me/818029350455.",
+          "A la llegada, las comprobaciones son las mismas que para cualquier caja sellada. Inspecciona el precinto antes de abrir, fotografía la caja por todos lados, y compara el código de set de la caja con el set que pediste: M3, M6, M2a y M6a son códigos actuales de la era MEGA, OP-18 es el set actual de One Piece, y la guía [cómo leer las cartas Pokémon japonesas](/blog/how-to-read-japanese-pokemon-cards/) cubre el símbolo de set y las marcas de rareza. Si el precinto parece incorrecto, no lo abras: pásalo primero por [cómo saber si una caja ha sido reprecintada](/blog/how-to-tell-if-a-booster-box-is-resealed/).",
+          "El calor español es la única condición local que merece ser nombrada: el producto sellado guardado en un ático sin aislar o en un trastero caluroso puede deformarse, así que guarda las cajas selladas en un lugar fresco, seco y oscuro. La guía [cómo guardar las cajas selladas](/blog/how-to-store-sealed-booster-boxes/) cubre toda la rutina."
+        ]
+      },
+      {
+        "h": "La capa de riesgo: sobres sueltos, facturas del transportista y reprints",
+        "paragraphs": [
+          "El primer riesgo es el sobre suelto, y es el único riesgo totalmente evitable. Un solo sobre de un marketplace es la estafa más antigua del hobby: los sobres se pesan, se buscan y se vuelven a precintar, y un sobre reprecintado se ve idéntico a uno sellado hasta que se abre. El Warehouse no vende sobres sueltos. La solución es la caja: compra la caja sellada, o no compres nada.",
+          "El segundo riesgo es la factura del transportista. Un paquete que llega sin IOSS se retiene hasta que se pagan el IVA y la tasa de gestión, y la tasa es el cargo propio del transportista, no un impuesto: se cobra por paquete, no por caja. Pregunta antes de pagar si el vendedor usa IOSS, y en cualquier pedido cerca de la línea de 150 €, pregunta a qué lado de la línea cae el paquete.",
+          "El tercer riesgo es el reprint: un anuncio de restock o reprint cambia el precio del producto sellado sin aviso. El cuarto riesgo es el idioma: las cartas japonesas no son legales en eventos sancionados europeos, así que decide el idioma antes de comprar la caja, no después. En Canarias, Ceuta y Melilla rigen otros impuestos, no el IVA del 21 %. La guía [si merece la pena graduar cartas japonesas con PSA](/blog/psa-grading-japanese-cards-worth-it/) cubre la graduación antes de gastar en ella."
+        ]
+      },
+      {
+        "h": "Contexto: retail japonés frente a retail español, y por qué la caja japonesa cuesta lo que cuesta",
+        "paragraphs": [
+          "Los sobres de Pokémon japoneses son pequeños porque el mercado japonés está construido para el volumen: un sobre estándar trae 5 cartas a 180 ¥, una caja trae 30 sobres. El sobre en inglés trae 10 u 11 cartas y la caja inglesa trae 36. El sobre japonés no es una versión con descuento del sobre en inglés: las cartas japonesas se cortan y se centran con más precisión, por eso las chase japonesas llegan a PSA 10 más a menudo.",
+          "La brecha de lanzamiento funciona igual. Los sets japoneses llegan primero, a menudo meses antes que la versión en inglés, y la era MEGA es el ejemplo actual: M1S y M1L llegaron en agosto de 2025, M2 el 26 de septiembre de 2025, M2a el 28 de noviembre de 2025, M3 en enero de 2026, M5 en mayo de 2026, M6 el 31 de julio de 2026 y M6a el 16 de septiembre de 2026. Un comprador español que quiere las cartas más nuevas primero compra japonés."
+        ]
+      },
+      {
+        "h": "Para quién NO es esta guía",
+        "paragraphs": [
+          "Tres grupos no deberían actuar según esta guía. Primero, quien compra singles: una caja sellada es la herramienta equivocada para una want list,. Segundo, quien necesita cartas en inglés para el juego sancionado: las cartas japonesas no son legales en eventos europeos. Tercero, quien tiene un presupuesto que solo cuadra si las aperturas pagan la caja: a 2,76 € a 13,63 € por sobre, sin pull rates publicados, casi seguro que no.",
+          "Para quién es esta guía, dicho claramente: openers españoles que quieren la mayor cantidad de sobres por el menor dinero, graders que quieren las cartas más baratas con el mejor centrado, compradores de case que dividen antes de pagar, y coleccionistas que quieren los sets japoneses más nuevos primero."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide cada caja antes de pagar: precio de la caja en euros, luego por sobres, luego por cartas",
+          "Comprueba el valor de la mercancía contra 167,22 $, la línea de 150 € en dólares",
+          "Una caja por paquete si quieres el arancel fijo de 3 €; un case cruza los 150 € y paga arancel por clasificación",
+          "Divide el case antes de comprarlo: el case M3 cuesta 12,31 € más por caja que una sola",
+          "Pregunta si el vendedor usa IOSS antes de pagar, para que no se cobre nada en la frontera",
+          "Confirma la cotización exacta de envío en el checkout o por WhatsApp antes de pagar",
+          "Nunca compres un sobre suelto en un marketplace: pesado, buscado o reprecintado",
+          "Inspecciona el precinto a la llegada y fotografía la caja antes de abrirla",
+          "Guarda las cajas selladas en un lugar fresco, seco y oscuro: los áticos calurosos deforman el cartón",
+          "Confirma el idioma que exigen tus eventos antes de comprar una caja japonesa para jugar"
+        ],
+        "h": "La capa de acción: la checklist del comprador español",
+        "paragraphs": [
+          "Haz esto en orden antes de la próxima caja japonesa que consideres. Lleva cinco minutos y sustituye una tarde comparando anuncios en euros."
+        ]
+      }
+    ],
+    "slug": "comprar-cartas-tcg-japonesas-en-espana",
+    "takeaway": [
+      "Una caja japonesa enviada a España paga el 21 % de IVA desde el primer euro más un arancel fijo de 3 € por categoría y una tasa de tramitación de 2 € por categoría mientras el paquete se mantenga por debajo de 150 €, porque la antigua línea libre de arancel murió el 1 de julio de 2026 y la tasa llegó el 1 de noviembre de 2026. Un case sellado cruza los 150 € y paga el 21 % de IVA más el arancel por clasificación encima. El sobre más barato del estante es el M3 a 2,76 € landed, frente a un mercado local donde cada caja ya carga el coste de importación, el IVA y el margen.",
+      "Los precios se mueven, así que trata cada número aquí como sellado con fecha: nuestros precios de estante a 6 de noviembre de 2026, convertidos a 0,897 € por dólar, con el arancel y el IVA calculados solo sobre el valor de la mercancía porque la cotización de envío se confirma en el checkout. Cuando el próximo set de la era MEGA abra la preventa, haz la checklist primero y divide la caja antes de pagar.",
+      "¿Todavía decidiendo entre sellado y singles? La guía [matemáticas de case sellado frente a caja](/blog/sealed-case-vs-booster-box-the-math/) aplica la misma disciplina para un juego a la vez. Solo para el estante de Pokémon, el [tablero de precios de cajas japonesas](/blog/japanese-pokemon-booster-box-price/) divide cada caja. Y si aún no has elegido juego, [qué TCG deberías empezar](/blog/which-tcg-should-you-start/) compara los costes reales de la primera caja. El hub de Países Bajos aplica los mismos números con la misma línea fiscal: [comprar cartas TCG japonesas en Países Bajos](/blog/buying-japanese-tcg-cards-in-netherlands/)"
     ]
   },
   "dragon-ball-fusion-world-beginners-guide": {
