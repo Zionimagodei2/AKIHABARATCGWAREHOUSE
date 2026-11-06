@@ -3291,7 +3291,8 @@ export const POSTS: Record<string, BlogPost> = {
       "If the question is format rather than set, the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices sixteen cases against their own singles, and the [best Japanese Pokémon starter deck guide](/blog/best-japanese-pokemon-starter-deck-to-buy/) prices the play-first route. If the question is value in the abstract, the [best value boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) is the price ladder this guide deliberately did not repeat.",
       "Pick the job, then the box, then divide before you pay. That order is the whole method, and it survives any price move: when the shelf reprices, the divisions rerun, and the right box for each buyer is usually still standing.",
       "New this cycle: the launch-pair head-to-head in [M1L vs M1S: Mega Brave or Mega Symphonia?](/blog/m1l-vs-m1s-which-to-buy/), and the cross-game price ladder in [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/).",
-      "For the cheapest box on this shelf in depth, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) prices the $70.62 box, the $87.35-a-box case trap, and the Mega Zygarde ex chase."
+      "For the cheapest box on this shelf in depth, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) prices the $70.62 box, the $87.35-a-box case trap, and the Mega Zygarde ex chase.",
+      "For the whole shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices with every case beside them, and the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase."
     ]
   },
   "best-japanese-pokemon-sealed-case-to-buy": {
@@ -3592,7 +3593,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The best Japanese Pokemon sealed case is the one whose division survives contact with its own single. M1S wins the current-era rate at $64.43 per box, SV11B and SV11W win the biggest savings at over $90 per box each, and SV2a wins the largest absolute saving at $153.76 per box. M3 is the warning that makes the whole guide necessary: its case costs $16.73 more per box than its single, and no buyer who divides will ever pay it. Sixteen cases, every division shown, one rule at the end: divide the case, compare it to its own single, and only then pay.",
       "For the Mega case with the widest saving in this cycle's comparison, the [M2 Inferno X buyers guide](/blog/m2-inferno-x-buyers-guide/) prices the case at $1,333.69 against twelve singles at $2,198.16.",
       "Buying in bulk to resell rather than hold? [Japanese Pokemon cards wholesale](/blog/japanese-pokemon-cards-wholesale-buyers-guide/) divides the reseller ladder case by case, including the M3 case that costs more per box than singles.",
-      "For the single-box side of the same shelf, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every box by buyer, including the M3 case trap this guide prices and the SV11 case saving."
+      "For the single-box side of the same shelf, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every box by buyer, including the M3 case trap this guide prices and the SV11 case saving.",
+      "For the same shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices, with every case beside them — including the M3 and SV5a cases that cost more per box than singles."
     ]
   },
   "best-japanese-pokemon-special-set-to-buy": {
@@ -6861,6 +6863,439 @@ export const POSTS: Record<string, BlogPost> = {
       "And keep the evidence habit even when a box looks perfect: photographs before opening, seller details written down, video for anything suspect. Five minutes of routine is what separates a buyer who catches reseals from a buyer who argues about them.",
       "Provenance is the strongest check in this guide, which is why the buying route matters: [buying TCG from Japan — shipping, customs, and proxies](/blog/buying-tcg-from-japan-shipping-customs-proxy/) compares the routes by fake and reseal risk, and our [guide to spotting fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/) covers the cards themselves once a box is open. If a box passes inspection and the pulls are real, [our investment breakdown](/blog/are-japanese-pokemon-cards-a-good-investment/) helps you decide what to hold and what to move.",
       "One Piece buyers face the same problem one level down: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) runs the card-level checks with the same honesty about what inspection can and cannot prove."
+    ]
+  },
+  "japanese-pokemon-booster-box-price": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "M3 Munikis Zero, at $70.62 a box, which is $2.35 a pack across 30 packs of 5 cards. M1S Mega Symphonia and SV9 Battle Partners tie for second at $2.83 a pack. The cheapest box and the cheapest pack are the same product this time, which is not always true on this shelf — The cheapest verified card is M2a at $1.15; M2 is $1.22 a card.",
+        "q": "What is the cheapest Japanese Pokémon booster box per pack right now?"
+      },
+      {
+        "a": "Twenty-six of the twenty-eight cases on this board save money per box, and two cost more. The biggest saving is Pokémon Card 151 at $153.76 a box; the biggest per-box rate saving is SV11B Black Bolt at $100.54 a box. The two exceptions are M3, whose case costs $16.73 more per box than its single, and SV5a Crimson Haze, whose case costs $1.56 more. Divide the case by its box count and compare it against the single every time.",
+        "q": "Is a sealed case cheaper than buying booster boxes one at a time?"
+      },
+      {
+        "a": "Scarcity, not cardboard. Pokémon Card 151 is a 2023 set built around the original 151 Pokémon, it is out of print, and every sealed box left is one fewer than yesterday. The box holds 20 packs of 7 cards, so $471.20 is $23.56 a pack and $3.37 a card — the dearest verified figures on the board. Buy it to hold sealed; buy M3 or M2 if the goal is packs to open.",
+        "q": "Why is Pokémon Card 151 so much more expensive than the other boxes?"
+      }
+    ],
+    "h1": "Japanese Pokémon Booster Box Prices: Every Box on Our Shelf, With the Math",
+    "intro": [
+      "The cheapest Japanese Pokémon booster box per pack on our shelf right now is M3 Munikis Zero at $70.62, or $2.35 a pack across 30 packs. The most expensive is Pokémon Card 151 at $471.20, or $23.56 a pack. And the fact that decides more purchases than any price on this page: twenty-six of the twenty-eight sealed cases on our shelf save money per box, while two cost more, so the case is a division, not a discount. Every price below is a price on our own shelf as of November 6, 2026, with the division shown.",
+      "This page is for buyers who want the whole board before they choose: collectors comparing sets, players pricing a box to open, and anyone splitting a case who needs the fair per-box number. It is not for anyone buying a single card — singles are priced card by card, and a box price tells you nothing about them — and not for anyone who wants a prediction, because no honest page can tell you what these boxes will cost next month."
+    ],
+    "metaDescription": "Every Japanese Pokémon booster box price on our shelf as of November 6, 2026 — box price, per-pack math, and the cases that cost more than singles.",
+    "metaTitle": "Japanese Pokémon Booster Box Prices: Full Board",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: the cheapest box per pack right now",
+        "paragraphs": [
+          "M3 Munikis Zero is the cheapest Japanese Pokémon box per pack on our shelf: $70.62 for 30 packs, or $2.35 a pack. Next are M1S Mega Symphonia and SV9 Battle Partners, both at $2.83 a pack, then M4 Ninja Spinner and SV4M Future Flash at $2.94. Those five are the value end of the board, and four are 2025–2026 sets: M3 released January 23, 2026, M4 on March 13, 2026, SV9 on January 24, 2025, and M1S at the MEGA launch on August 1, 2025.",
+          "At the other end, Pokémon Card 151 is $471.20 a box, or $23.56 a pack — a scarcity price for a 2023 set built around the original 151 Pokémon — and SV8 Super Electric Breaker is $258.23, or $8.61 a pack, the priciest current-era box because its sealed supply is thin. The full board is in the next section, and the decision table after it turns the board into a choice."
+        ]
+      },
+      {
+        "h": "The money layer: the full price board",
+        "math": [
+          "Per pack, standard box: box price ÷ 30 packs (every standard Japanese expansion box holds 30 packs of 5 cards)",
+          "Cheapest per pack: $70.62 ÷ 30 = $2.35 per pack (M3 Munikis Zero)",
+          "Most expensive per pack: $471.20 ÷ 20 = $23.56 per pack (Pokémon Card 151, 20 packs of 7 cards)",
+          "M6a 30th Celebration: $249.00 ÷ 20 = $12.45 per pack; $249.00 ÷ 120 cards = $2.08 per card",
+          "M2a MEGA Dream ex: $114.77 ÷ 10 = $11.48 per pack; $114.77 ÷ 100 cards = $1.15 per card",
+          "Case saving, Pokémon Card 151: $471.20 − $317.44 = $153.76 per box; across 12 boxes, $1,845.12",
+          "Case saving, SV11B Black Bolt: $183.18 − $82.64 = $100.54 per box; across 12 boxes, $1,206.48",
+          "Case penalty, M3 Munikis Zero: $87.35 − $70.62 = $16.73 more per box; across 12 boxes, $200.76 more than singles",
+          "Case penalty, SV5a Crimson Haze: $108.60 − $107.04 = $1.56 more per box; across 12 boxes, $18.72 more than singles"
+        ],
+        "paragraphs": [
+          "Every standard Japanese Pokémon box holds 30 packs of 5 cards, so most rows divide the box price by 30. The exceptions are printed in the Packs column: high-class boxes (M2a, SV4a, SV8a) hold 10 packs of 10 cards, special sets (SV2a, SV11B, SV11W) hold 20 packs of 7, and the M6a anniversary box holds 20 packs of 6 foil cards. The table runs the division for all thirty-two MEGA-era and Scarlet & Violet boxes on our shelf, with each sealed-case price divided to a per-box number beside it.",
+          "Two patterns jump out. First, the per-pack spread is ten to one: $2.35 a pack for M3 against $23.56 for Pokémon Card 151. Second, the case column does not behave the way most buyers expect: twenty-six cases save money per box, and two cost more. The biggest case saving is Pokémon Card 151 at $153.76 a box, or $1,845.12 across a case of twelve; the biggest by rate is SV11B Black Bolt at $100.54 a box. The penalties are the lesson: M3's case costs $16.73 more per box than its single, and SV5a's costs $1.56 more. A case is priced as its own product, not as twelve singles minus a bulk discount. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division across games.",
+          "Four sets have no case on our shelf: M4, M5, M6, and M6a. Where a case exists, the board shows it; where it does not, the dash is the fact. Eight more cases sit on the shelf without a single box beside them, and their per-box prices are the only way to price those sets here: SV1S Scarlet ex at $91.94, SV1V Violet ex at $79.36, S9 Star Birth at $147.08, S6H Silver Lance at $170.43, S12a VSTAR Universe at $192.14, S8b VMAX Climax at $202.17, S6K Jet-Black Spirit at $208.84, and S8 Fusion Arts at $284.86."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Box price",
+            "Packs",
+            "Per pack",
+            "Case per box",
+            "Case vs single"
+          ],
+          "rows": [
+            [
+              "M1L Mega Brave",
+              "$94.91",
+              "30 × 5",
+              "$3.16",
+              "$76.02",
+              "Saves $18.89 a box"
+            ],
+            [
+              "M1S Mega Symphonia",
+              "$84.97",
+              "30 × 5",
+              "$2.83",
+              "$64.43",
+              "Saves $20.54 a box"
+            ],
+            [
+              "M2 Inferno X",
+              "$183.18",
+              "30 × 5",
+              "$6.11",
+              "$111.14",
+              "Saves $72.04 a box"
+            ],
+            [
+              "M2a MEGA Dream ex",
+              "$114.77",
+              "10 × 10",
+              "$11.48",
+              "$92.93",
+              "Saves $21.84 a box"
+            ],
+            [
+              "M3 Munikis Zero",
+              "$70.62",
+              "30 × 5",
+              "$2.35",
+              "$87.35",
+              "Costs $16.73 MORE a box"
+            ],
+            [
+              "M4 Ninja Spinner",
+              "$88.27",
+              "30 × 5",
+              "$2.94",
+              "—",
+              "No case on shelf"
+            ],
+            [
+              "M5 Abyss Eye",
+              "$91.61",
+              "30 × 5",
+              "$3.05",
+              "—",
+              "No case on shelf"
+            ],
+            [
+              "M6 Storm Emeralda",
+              "$82.80",
+              "30 × 5",
+              "$2.76",
+              "—",
+              "No case on shelf"
+            ],
+            [
+              "M6a 30th Celebration",
+              "$249.00",
+              "20 × 6",
+              "$12.45",
+              "—",
+              "No case on shelf"
+            ],
+            [
+              "SV1a Triplet Beat",
+              "$152.29",
+              "30 × 5",
+              "$5.08",
+              "$133.69",
+              "Saves $18.60 a box"
+            ],
+            [
+              "SV2a Pokémon Card 151",
+              "$471.20",
+              "20 × 7",
+              "$23.56",
+              "$317.44",
+              "Saves $153.76 a box"
+            ],
+            [
+              "SV2D Clay Burst",
+              "$102.64",
+              "30 × 5",
+              "$3.42",
+              "$100.24",
+              "Saves $2.40 a box"
+            ],
+            [
+              "SV2P Snow Hazard",
+              "$94.91",
+              "30 × 5",
+              "$3.16",
+              "$79.36",
+              "Saves $15.55 a box"
+            ],
+            [
+              "SV3 Ruler of Black Flame",
+              "$152.29",
+              "30 × 5",
+              "$5.08",
+              "$121.18",
+              "Saves $31.11 a box"
+            ],
+            [
+              "SV3a Raging Surf",
+              "$102.64",
+              "30 × 5",
+              "$3.42",
+              "$96.09",
+              "Saves $6.55 a box"
+            ],
+            [
+              "SV4K Ancient Roar",
+              "$91.61",
+              "30 × 5",
+              "$3.05",
+              "$81.90",
+              "Saves $9.71 a box"
+            ],
+            [
+              "SV4M Future Flash",
+              "$88.27",
+              "30 × 5",
+              "$2.94",
+              "$73.54",
+              "Saves $14.73 a box"
+            ],
+            [
+              "SV4a Shiny Treasure ex",
+              "$141.24",
+              "10 × 10",
+              "$14.12",
+              "$115.31",
+              "Saves $25.93 a box"
+            ],
+            [
+              "SV5K Wild Force",
+              "$107.04",
+              "30 × 5",
+              "$3.57",
+              "$87.72",
+              "Saves $19.32 a box"
+            ],
+            [
+              "SV5M Cyber Judge",
+              "$88.27",
+              "30 × 5",
+              "$2.94",
+              "$71.06",
+              "Saves $17.21 a box"
+            ],
+            [
+              "SV5a Crimson Haze",
+              "$107.04",
+              "30 × 5",
+              "$3.57",
+              "$108.60",
+              "Costs $1.56 MORE a box"
+            ],
+            [
+              "SV6 Mask of Change",
+              "$111.46",
+              "30 × 5",
+              "$3.72",
+              "$81.90",
+              "Saves $29.56 a box"
+            ],
+            [
+              "SV6a Night Wanderer",
+              "$91.61",
+              "30 × 5",
+              "$3.05",
+              "$75.21",
+              "Saves $16.40 a box"
+            ],
+            [
+              "SV7 Stella Miracle",
+              "$91.61",
+              "30 × 5",
+              "$3.05",
+              "$75.21",
+              "Saves $16.40 a box"
+            ],
+            [
+              "SV7a Paradise Dragona",
+              "$141.24",
+              "30 × 5",
+              "$4.71",
+              "$104.45",
+              "Saves $36.79 a box"
+            ],
+            [
+              "SV8 Super Electric Breaker",
+              "$258.23",
+              "30 × 5",
+              "$8.61",
+              "$196.33",
+              "Saves $61.90 a box"
+            ],
+            [
+              "SV8a Terastal Festival ex",
+              "$163.32",
+              "10 × 10",
+              "$16.33",
+              "$136.16",
+              "Saves $27.16 a box"
+            ],
+            [
+              "SV9 Battle Partners",
+              "$84.97",
+              "30 × 5",
+              "$2.83",
+              "$79.36",
+              "Saves $5.61 a box"
+            ],
+            [
+              "SV9a Heat Wave Arena",
+              "$163.32",
+              "30 × 5",
+              "$5.44",
+              "$133.69",
+              "Saves $29.63 a box"
+            ],
+            [
+              "SV10 Glory of Team Rocket",
+              "$212.99",
+              "30 × 5",
+              "$7.10",
+              "$151.78",
+              "Saves $61.21 a box"
+            ],
+            [
+              "SV11B Black Bolt",
+              "$183.18",
+              "20 × 7",
+              "$9.16",
+              "$82.64",
+              "Saves $100.54 a box"
+            ],
+            [
+              "SV11W White Flare",
+              "$167.72",
+              "20 × 7",
+              "$8.39",
+              "$74.34",
+              "Saves $93.38 a box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: three buyers, three picks",
+        "paragraphs": [
+          "The board is data; the table is a decision. Pick the row that matches the buyer you actually are. A player who wants packs to open should buy the cheapest per-pack box and enjoy it. A collector holding sealed should buy the case where the case actually discounts — on this board, SV11B, SV2a, and M2. A first-time buyer should start with M3, the cheapest sealed Japanese box at $70.62, and learn the format before paying a chase premium.",
+          "The flipper's row is missing deliberately. Buying a box to resell in release week means competing against every store's launch stock with a single box and no edge, and the board punishes that lane twice: the pre-order price moves before release, and the settled price after release is usually below the spike. If the plan needs the price to keep rising to work, the plan is the risk."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Best pick",
+            "Why",
+            "Watch out"
+          ],
+          "rows": [
+            [
+              "Cheapest packs to open",
+              "M3 at $2.35 a pack",
+              "Lowest per-pack price on the board, current set, in stock",
+              "A new set's singles are cheap too — opening is for fun, not profit"
+            ],
+            [
+              "Cheapest card",
+              "M2a at $1.15 a card",
+              "10 packs of 10 cards; the cheapest verified card on the board",
+              "High-class boxes are 10 packs, not 30 — fewer packs to open"
+            ],
+            [
+              "Sealed hold",
+              "SV2a case at $317.44 a box",
+              "Largest case discount on the board, out-of-print 2023 set",
+              "Old sealed stock needs the reseal checks before you trust the wrap"
+            ],
+            [
+              "Bulk buyer",
+              "SV11B case at $82.64 a box",
+              "Saves $100.54 a box; the largest per-box rate saving",
+              "Do not buy the Deluxe box by mistake — it is a different product"
+            ],
+            [
+              "First Japanese box",
+              "M3 at $70.62",
+              "Smallest cheque for a sealed Japanese box",
+              "Check the set code: M3 is not M2, and the chase is Mega Zygarde ex"
+            ],
+            [
+              "Anniversary collector",
+              "M6a at $12.45 a pack",
+              "20 packs of 6 foil cards; Pikachu in every pack",
+              "The most expensive verified card on the board at $2.08"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other price pages",
+        "paragraphs": [
+          "The top results fall into three kinds, all leaving the buyer short. The first is the yen ladder: a store's own Japanese prices converted at ¥154 to the dollar, useful if you buy in yen and useless if you buy in dollars. The second is the marketplace ask: a lowest ask on SNKRDUNK or an eBay median, which tells you what strangers ask each other, not what a sealed box costs from a store that will answer for it today. The third is the single-set history, a price tracker for one box like Pokémon Card 151, which answers one set and leaves the other thirty-one unpriced.",
+          "This page fills exactly those gaps: one store's actual in-stock shelf prices in dollars, dated November 6, 2026, every box divided to a per-pack price on a verified pack count, every case divided to a per-box price, and the two cases that cost more than singles named in plain text. It is not a market index — a shelf with the arithmetic done, the only version of a price page a buyer can act on. When the prices move, the page is re-dated."
+        ]
+      },
+      {
+        "h": "The practical layer: reading the board",
+        "paragraphs": [
+          "Four formats make up the board. The standard expansion box is 30 packs of 5 cards, 150 cards, covering every M-series main set from M1L through M6 and most Scarlet & Violet sets. The high-class box is 10 packs of 10 cards, 100 cards, covering M2a, SV4a, and SV8a. The special set box is 20 packs of 7 cards, 140 cards, covering SV2a and the SV11 pair. The anniversary box is 20 packs of 6 foil cards, 120 cards, covering only M6a. The [how many packs in a booster box guide](/blog/how-many-packs-in-a-booster-box/) maps every format on the shelf.",
+          "The Deluxe trap is the live version of the format problem: the [SV11B Deluxe](/product/sv11b-expansion-pack-deluxe-black-bolt-booster-box-japanese-pokemon-card/) at $212.99 and the [SV11W Deluxe](/product/sv11w-expansion-pack-deluxe-white-flare-booster-box-japanese-pokemon-card/) at $197.53 are 35-card Deluxe packs with a guaranteed Art Rare each — a different product from the standard 20-pack box, not a bigger version of it. Check the word Deluxe on the listing before paying; the head-to-head between the standard pair is the [Black Bolt vs White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/).",
+          "The dates that matter are the recent ones. M1L and M1S launched the MEGA era on August 1, 2025; M3 followed on January 23, 2026, M4 on March 13, 2026, M5 on May 22, 2026, and M6 on July 31, 2026, each at a Japanese list price of ¥180 or ¥200 a pack (¥5,400 or ¥6,000 a box), and M6a released September 16, 2026 at ¥360 a pack. In the Scarlet & Violet era, SV5K and SV5M released January 26, 2024, SV9 on January 24, 2025, SV9a on March 14, 2025, and SV10 on April 18, 2025. For one set in depth, read the [M2](/blog/m2-inferno-x-buyers-guide/), [M3](/blog/m3-munikis-zero-buyers-guide/), [M6a](/blog/m6a-30th-celebration-buyers-guide/), [SV10](/blog/sv10-glory-of-team-rocket-buyers-guide/), and [SV9a](/blog/sv9a-heat-wave-arena-buyers-guide/) buyers guides. If you are buying to play, read [Japanese vs English Pokémon cards](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) before choosing a language, and [how to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) before opening a box you cannot read."
+        ]
+      },
+      {
+        "h": "The risk layer: prices move, and old sets carry extra risk",
+        "note": "From the Warehouse counter: the question we get most about the old sets is whether the price on the board is real, because a 2023 box at $471 looks like a misprint next to a 2026 box at $70. It is real, and it is the scarcity, not the cards. The second question is whether the case discount is real, and that one we answer by dividing in front of the customer, because two of our twenty-eight cases cost more per box than singles, and nobody believes that until they see the division.",
+        "paragraphs": [
+          "Prices on this board are a photograph, not a promise. Verify the price at checkout, and forget the price you remember from last month. The recovery when a price moves against you is the pre-order rule: decide in advance the most you will pay, and walk away cleanly if the market passes it — see [pre-order a Japanese booster box or wait](/blog/preorder-japanese-booster-box-or-wait/).",
+          "Old sets carry a second risk: reseals. A sealed 151 box is worth enough that the wrap itself is worth faking, so run any sealed box from a non-store route through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and photograph everything before breaking a seal. The third risk is one buyers inflict on themselves: buying the most expensive box because it is the most expensive, on the theory that price equals quality. It does not. SV2a is expensive because it is scarce, not because its packs are better, and a buyer who opens it spends $23.56 a pack on cards mostly worth less than the pack. If you want the cards, buy the singles. If you want the packs, buy the cheapest per-pack box. If you want the sealed history, buy the box and do not open it.",
+          "Beyond the board sits the vintage shelf: thirty-one more sealed boxes from the Sword & Shield and Sun & Moon eras, priced as collectibles rather than per-pack value. The top is SM7 Sky-Splitting Charisma at $3,924.12, followed by SM11 Miracle Twin at $1,867.15, SM8b GX Ultra Shiny at $1,719.29, and SM12a Tag Team GX All Stars at $1,668.53. Their pack counts vary by era, so this page claims no per-pack figure for them. Store any sealed hold as the [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) describes, and grade the pulls, not the box, using [is PSA grading Japanese cards worth it](/blog/psa-grading-japanese-cards-worth-it/)."
+        ]
+      },
+      {
+        "h": "Context: Japanese list price vs shelf price",
+        "paragraphs": [
+          "A fair question is why shelf prices sit so far above Japanese list prices; the answer has three parts. First, the list price is the Japanese retail price at release, before the box leaves Japan: a standard box lists at ¥5,400 (30 packs at ¥180), the M5 and M6 boxes at ¥6,000 (30 at ¥200), and M6a at ¥7,200 (20 at ¥360). At ¥154 to the dollar, ¥180 a pack is about $1.17 — the list price is the floor, not the shelf price. Second, a shelf price outside Japan carries sourcing, handling, international shipping, and inspection, which the list price does not. Third, and largest on the old sets: once a set is out of print, scarcity sets the price, not the list price — which is why SV2a sits at $471.20.",
+          "The same three parts explain the gap to eBay medians. An eBay median is the middle of what strangers paid each other, including private sellers and damaged boxes. A shelf price is a sealed box from a store that inspects its stock and answers for it, shipping and handling already inside the number. Two different purchases; the board above is the second. For the full landed-cost picture, read [buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) and [the best Japanese card shop online](/blog/best-japanese-card-shop-online/). The same board for the other game we carry is the [Japanese One Piece booster box price board](/blog/best-japanese-one-piece-booster-box-price/)."
+        ]
+      },
+      {
+        "h": "Who should NOT buy by price alone",
+        "paragraphs": [
+          "Three groups should stop here. First, anyone buying a single card for a deck: a box price tells you nothing about a single, and the cheapest way to get one card is to buy that card, not thirty packs that might contain it. Second, anyone who needs English cards for tournament play: the Japanese board is the wrong board. Third, anyone whose budget only works if the box pays for itself in pulls: it almost certainly will not, and the [investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) reaches the same conclusion with the numbers.",
+          "Who this page is for: collectors comparing sets, players pricing a box to open with friends, and anyone splitting a case who needs the fair per-box number before the money moves. For those buyers, the board is the whole decision."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick your buyer row in the decision table before you pick a set",
+          "Divide the box price by the printed pack count for the per-pack price; divide the case price by the box count for the per-box price",
+          "Compare the case per-box price against the single-box price — two of twenty-eight cases cost more",
+          "Check the format word on the listing: standard, high-class, special set, or Deluxe",
+          "Check the price is dated: this board is November 6, 2026, and prices move",
+          "If buying an old set, run the reseal checks before breaking the seal",
+          "Buy the language you play in, not the language that is cheaper"
+        ],
+        "h": "Action layer: the checklist",
+        "paragraphs": [
+          "Run this in order before the next box you buy. Five minutes replaces an afternoon of comparing listings with a decision made while calm."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-booster-box-price",
+    "takeaway": [
+      "The cheapest Japanese Pokémon box per pack on our shelf is M3 at $2.35, the most expensive is Pokémon Card 151 at $23.56, and the case is not automatically the deal: twenty-six of twenty-eight cases save money per box and two cost more. Divide every time, and buy the row that matches the buyer you actually are.",
+      "Treat every number here as stamped: store prices as of November 6, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second — in that order, every time.",
+      "Comparing across games? [The Japanese One Piece booster box price board](/blog/best-japanese-one-piece-booster-box-price/) runs the same board for One Piece, and [the best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For one set in depth, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase behind it."
     ]
   },
   "japanese-pokemon-cards-wholesale-buyers-guide": {
@@ -12933,7 +13368,215 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "sv10-glory-of-team-rocket-buyers-guide",
     "takeaway": [
-      "The SV10 box at $212.99 is the way to open Team Rocket's set, and the case at $1,821.40 is the way to hold or split it at $151.78 per box, saving $734.48 against twelve singles. The set is 132 cards from April 18, 2025, in 30 packs of 5, with Team Rocket's Mewtwo ex printed four times and no box guaranteeing any of them. Buy the box to open, buy the case to hold or split, buy the Mewtwo single if it is the only card you want, and buy English Destined Rivals if the cards need to be playable outside Asia. That is the whole article: one store, one date, every division shown."
+      "The SV10 box at $212.99 is the way to open Team Rocket's set, and the case at $1,821.40 is the way to hold or split it at $151.78 per box, saving $734.48 against twelve singles. The set is 132 cards from April 18, 2025, in 30 packs of 5, with Team Rocket's Mewtwo ex printed four times and no box guaranteeing any of them. Buy the box to open, buy the case to hold or split, buy the Mewtwo single if it is the only card you want, and buy English Destined Rivals if the cards need to be playable outside Asia. That is the whole article: one store, one date, every division shown.",
+      "For the other half of Destined Rivals, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $1,604.33 case at $133.69 a box, and the Cynthia's Garchomp ex SAR behind it — and the [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) carries both sets on the full thirty-two-box shelf."
+    ]
+  },
+  "sv9a-heat-wave-arena-buyers-guide": {
+    "datePublished": "2026-11-06",
+    "faqs": [
+      {
+        "a": "Thirty packs of 5 cards, 150 cards in a box. At our shelf price of $163.32, that is $5.44 a pack and $1.09 a card. The set is 92 cards in total, numbered to /063 in the main set, and the box is an enhanced expansion pack, not a mainline expansion.",
+        "q": "How many packs are in a Heat Wave Arena booster box?"
+      },
+      {
+        "a": "Yes. The case is $1,604.33 for twelve boxes, which is $133.69 a box against a $163.32 single — a saving of $29.63 a box, or $355.51 across the case. It is one of the twenty-six cases on our shelf that save money; the two that cost more are M3 and SV5a, and the full board is on our [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/).",
+        "q": "Is the Heat Wave Arena sealed case cheaper than buying boxes one at a time?"
+      },
+      {
+        "a": "Buy the single if the card is the whole plan. Cynthia's Garchomp ex SAR 087/063 carried a TCGplayer market price of $216.91 on November 4, 2026 — $53.59 more than the whole $163.32 box — but a box does not guarantee the SAR, and The Pokémon Company publishes no pull rates for this set. Buy the box to open thirty packs and enjoy the set; buy the single to own the card. Never buy the box as a cheaper way to get a card it does not guarantee.",
+        "q": "Should I buy the box or the Cynthia's Garchomp ex single?"
+      }
+    ],
+    "h1": "SV9a Heat Wave Arena Buyers Guide: Cynthia's Garchomp and the $5.44 Pack",
+    "intro": [
+      "SV9a Heat Wave Arena is the trainer set built around Cynthia's Garchomp ex, and the box on our shelf is $163.32 — $5.44 a pack across 30 packs, $1.09 a card. The case is $1,604.33, or $133.69 a box, saving $29.63 a box against twelve singles. Buy the box to open, the case to split or hold, and the Garchomp SAR single if that one card is the whole plan. Prices as of November 6, 2026.",
+      "This guide is for buyers choosing between the box, the case, and the single for one specific set: Heat Wave Arena collectors chasing the Cynthia's Garchomp ex SAR, players who want the trainer-Pokémon pool, and groups splitting a case. It is not for anyone who wants a guaranteed hit, because no Japanese box guarantees one, and it is not for anyone who needs the cards in English, because the English version of this set is Destined Rivals, a different product. The full price board for every Japanese Pokémon box is on our [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/)."
+    ],
+    "metaDescription": "SV9a Heat Wave Arena buyers guide: box $163.32, case $133.69 a box, and the Cynthia's Garchomp ex chase — priced from our shelf, November 6, 2026.",
+    "metaTitle": "SV9a Heat Wave Arena Buyers Guide",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "The answer: box, case, or single",
+        "paragraphs": [
+          "Three ways to buy this set, three different prices, and the right one depends on what you actually want. The box is $163.32: thirty packs, five cards each, 150 cards, at $5.44 a pack and $1.09 a card. The case is $1,604.33 for twelve boxes, which is $133.69 a box, $4.46 a pack, and $0.89 a card — a saving of $29.63 a box, or $355.51 across the case, against twelve singles. The single is the chase card itself: Cynthia's Garchomp ex SAR 087/063 carried a TCGplayer market price of $216.91 on November 4, 2026, which is $53.59 more than the whole box.",
+          "That comparison is the trap and the lesson in one line. The box costs less than the SAR, but the box does not contain the SAR — it contains thirty packs that might. A buyer who wants the card should buy the card. A buyer who wants the opening should buy the box. A buyer who wants twelve boxes should buy the case and save $355.51. The [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the sibling set the same way, and the two sets share their English home in Destined Rivals."
+        ]
+      },
+      {
+        "h": "The money layer: every way to buy SV9a, divided",
+        "math": [
+          "Box per pack: $163.32 ÷ 30 packs = $5.44 per pack",
+          "Box per card: $163.32 ÷ 150 cards = $1.09 per card",
+          "Case per box: $1,604.33 ÷ 12 boxes = $133.69 per box",
+          "Case per pack: $133.69 ÷ 30 packs = $4.46 per pack",
+          "Case per card: $133.69 ÷ 150 cards = $0.89 per card",
+          "Case saving per box: $163.32 − $133.69 = $29.63 per box",
+          "Case saving across the case: $29.63 × 12 boxes = $355.51",
+          "Box vs SV10: $212.99 − $163.32 = $49.67 cheaper than Glory of Team Rocket",
+          "Box vs SV9: $163.32 − $84.97 = $78.35 more than Battle Partners",
+          "Garchomp SAR vs the box: $216.91 − $163.32 = $53.59 more than a whole box (TCGplayer market, November 4, 2026)"
+        ],
+        "paragraphs": [
+          "Heat Wave Arena is an enhanced expansion pack, and its box is the standard Japanese format: 30 packs of 5 cards at a Japanese list price of ¥180 a pack, or ¥5,400 a box. Our shelf price of $163.32 sits above that list price because a shelf price carries sourcing, shipping, and inspection the list price does not — the same three-part gap our [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) explains for the whole shelf.",
+          "The table below is the whole decision in one place. The case is the value play for anyone who wants twelve boxes, and the single is the honest play for anyone who wants one card. What the table does not contain is an expected-value column, deliberately: The Pokémon Company publishes no pull rates for this set, so no honest page can price the chance of pulling the SAR. Any guide that prints a pull rate for SV9a is printing a guess.",
+          "One more number belongs here because it reframes the set. TCGPursuit's TCGplayer-based cost to collect one of each card in Heat Wave Arena was $608.79 as of November 5, 2026. Four boxes at $163.32 cost $653.28 and deliver 600 cards, but mostly duplicates — the set is completed by buying singles, not by opening boxes. Open the box for the opening; buy the singles for the set."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Per card",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Booster box",
+              "$163.32",
+              "$5.44",
+              "$1.09",
+              "Opening thirty packs; the set experience"
+            ],
+            [
+              "Sealed case (12 boxes)",
+              "$1,604.33",
+              "$4.46",
+              "$0.89",
+              "Splitting with a group; holding sealed"
+            ],
+            [
+              "Case per box",
+              "$133.69",
+              "$4.46",
+              "$0.89",
+              "The fair split number — saves $29.63 a box"
+            ],
+            [
+              "Garchomp ex SAR single",
+              "$216.91",
+              "—",
+              "—",
+              "Owning the chase card itself (TCGplayer, Nov 4, 2026)"
+            ],
+            [
+              "SV10 box, for comparison",
+              "$212.99",
+              "$7.10",
+              "$1.42",
+              "The sibling set; $49.67 dearer than SV9a"
+            ],
+            [
+              "SV9 box, for comparison",
+              "$84.97",
+              "$2.83",
+              "$0.57",
+              "The cheapest current-era box; $78.35 less than SV9a"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The decision layer: four buyers, four picks",
+        "paragraphs": [
+          "Match the buyer first, then the product. The set rewards the buyer who knows which of the four they are before the money moves, and punishes the buyer who discovers it after.",
+          "The chase-card buyer is the one most likely to overpay, because the SAR's price makes the box look cheap by comparison. It is not cheap by comparison; it is a different purchase. If the card is the plan, the $216.91 single is the plan, and the box is a lottery ticket dressed as a discount."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener",
+              "One box",
+              "$163.32",
+              "Thirty packs of the trainer set at $5.44 a pack"
+            ],
+            [
+              "Group or holder",
+              "Sealed case",
+              "$1,604.33",
+              "$133.69 a box; saves $355.51 across the case"
+            ],
+            [
+              "Chase-card buyer",
+              "Garchomp ex SAR single",
+              "$216.91",
+              "The card itself, no pull-rate gamble (TCGplayer, Nov 4, 2026)"
+            ],
+            [
+              "Set completer",
+              "Singles",
+              "$608.79",
+              "One of each card, TCGplayer-based, Nov 5, 2026 — cheaper than four boxes"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other Heat Wave Arena guides",
+        "note": "From the Warehouse: the question we get most about this set is whether the box is a cheap way to get Cynthia's Garchomp ex, because the SAR's price is higher than the box's price. It is not. A box is thirty packs that might contain the card; the single is the card. We have watched buyers open two boxes, miss the SAR twice, and end up paying for the boxes and the single. Buy the card if the card is the plan — the box is for the opening, not the chase.",
+        "paragraphs": [
+          "The top guides for this set share three gaps, each costing a buyer money. First, they price in yen or in marketplace asks: one Tokyo store's guide lists the box at ¥16,995 with SNKRDUNK asks beside it, and another compares the Japanese box at $147 to $246 against an English Destined Rivals box at $430 to $520. Those are asks from other sellers, not a price you can pay at a store that answers for the box. Our $163.32 is our own shelf price, dated, with the case beside it.",
+          "Second, none of them divides the case. The case is $1,604.33, and the $133.69-a-box figure is the number a group splitting a case actually needs — it appears nowhere in the top results, because none of them stocks the case. Third, none of them runs the single-versus-box break-even honestly: the SAR at $216.91 costs more than the box, and the box does not guarantee the SAR. That pair of facts is the whole decision for the chase buyer, and it is the section this guide exists to write."
+        ]
+      },
+      {
+        "h": "The practical layer: what's in the set",
+        "paragraphs": [
+          "Heat Wave Arena (SV9a, Japanese: 熱風のアリーナ) released in Japan on March 14, 2025, as a 92-card enhanced expansion pack: 63 cards in the main set, numbered to /063, plus a secret tier. Each box holds 30 packs of 5 cards, 150 cards, at a Japanese list price of ¥180 a pack. The set is built around Trainer's Pokémon — partner Pokémon tied to named trainers — and it is designed for Sealed Battle play, the format where players build decks from packs opened on the spot.",
+          "The chase cards are three named-Trainer cards, and the set's value sits in them. Cynthia's Garchomp ex leads, printed four times: RR 044/063, SR 080/063, SAR 087/063, and UR 091/063. The SAR is the set's headline card, at a TCGplayer market price of $216.91 on November 4, 2026; the UR is $28.98 on the same date. Behind it sit Ethan's Ho-Oh ex SAR 086/063 and Misty's Psyduck AR 071/063. The set's rarity ladder runs AR, SR, SAR, and UR, with five SARs and three URs in total. Our guide to [Japanese Pokémon rarity symbols](/blog/japanese-pokemon-rarity-symbols-explained/) decodes every code on these cards.",
+          "If the cards need to be playable outside Asia, buy the English version instead. Heat Wave Arena's cards reached English inside Destined Rivals, released May 30, 2025, a 244-card set merging SV9a with SV10 Glory of Team Rocket. The English box is a different product — 36 packs of 10 cards, 360 cards — and the Japanese box is not a cheaper English box. Our [Japanese vs English Pokémon cards guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality and the language choice, and the [SV10 buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the other half of Destined Rivals."
+        ]
+      },
+      {
+        "h": "The risk layer: no guaranteed hits, and the reseal check",
+        "paragraphs": [
+          "The first risk is the pull-rate gap. The Pokémon Company publishes no pull rates for SV9a, and a sealed box follows a pattern, not a promise: most boxes contain a spread of Art Rares and Double Rares, and the SAR is a low-probability event, not a scheduled one. A buyer who opens expecting the Garchomp SAR has bought a hope, not a card. The recovery is the decision table above: if the card is the plan, buy the card.",
+          "The second risk is the reseal. A sealed SV9a box at $163.32 is worth enough that the wrap is worth faking, and a price far below the shelf prices on this page is a warning, not a bargain. Run every sealed box from a non-store route through [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) and photograph everything before breaking a seal. The third risk is the English trap: buying the Japanese box to play in English-region sanctioned events, where the cards are not legal. Collectors and casual players face no such constraint, but tournament players do, and the language should be decided before the box is bought, not after.",
+          "The fourth risk is the reprint. SV9a is a 2025 set, and a restock or reprint announcement reprices sealed stock without warning. Holders protect themselves the boring way: buy boxes they would be content to open, and store them as the [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) describes, so the worst case is an opening they enjoy. If the pulls are worth grading, [is PSA grading Japanese cards worth it](/blog/psa-grading-japanese-cards-worth-it/) runs the grading math."
+        ]
+      },
+      {
+        "h": "Context: the trainer-Pokémon run, SV9 to SV10",
+        "paragraphs": [
+          "Heat Wave Arena sits in the middle of a three-set trainer run. SV9 Battle Partners opened it on January 24, 2025, with N, Lillie, Hop, and Iono; SV9a followed on March 14, 2025, with Cynthia, Ethan, and Misty; SV10 Glory of Team Rocket closed it on April 18, 2025, with Team Rocket's Mewtwo ex. The three sets share the Trainer's Pokémon mechanic, and English merged the last two into Destined Rivals while the first became Journey Together. A buyer collecting the run wants all three boxes, and the shelf prices them at $84.97, $163.32, and $212.99 — SV9a is the middle set by price as well as by date.",
+          "That run is also why SV9a is the set to buy now rather than later. SV9 is the cheapest current-era box at $2.83 a pack, SV10 is the priciest of the three at $7.10 a pack, and SV9a sits between them at $5.44 — the set whose chase card carries the run's most famous trainer, at a box price that has not yet followed the SAR. If the plan is to open one box from the run, SV9a is the one with the best card in it. If the plan is to hold sealed, the case at $133.69 a box is the way to hold it."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, anyone who needs a guaranteed Cynthia's Garchomp ex: no box guarantees it, and the single is the only guaranteed route. Second, anyone who needs the cards in English for sanctioned play: buy Destined Rivals, not this box. Third, anyone whose budget only works if the box pays for itself in pulls: at $5.44 a pack against a $608.79 set-completion cost, it almost certainly will not, and the [investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) reaches the same conclusion for Pokémon generally.",
+          "Who this guide is for, restated plainly: openers who want thirty packs of a trainer set with the best chase card of the run, groups splitting a twelve-box case at $133.69 a box, and sealed holders who understand that a case is a multi-year position. If you are in one of those groups, the table above is your shortlist. If you are not, buy the format that fits — the single, the English set, or a cheaper box — and come back to SV9a when the quantity matches the plan."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: opener, group splitter, chase-card buyer, or set completer",
+          "Divide the box price by 30 for the per-pack price, and the case price by 12 for the per-box price",
+          "If buying the case, agree the split in writing before ordering: boxes each, price each, who holds sealed extras",
+          "If the Garchomp SAR is the plan, buy the single — the box does not guarantee it",
+          "Confirm the set code on the listing: SV9a is not SV9, and the chase is Cynthia's Garchomp ex",
+          "If the cards are for sanctioned play, confirm the language your events require",
+          "Inspect the seal on arrival before opening, and store sealed boxes cool, dry, and dark"
+        ],
+        "h": "Action layer: the SV9a checklist",
+        "paragraphs": [
+          "Run this in order before the next Heat Wave Arena box you consider. It takes five minutes and it replaces an afternoon of comparing yen listings with a decision built on the shelf price you can actually pay."
+        ]
+      }
+    ],
+    "slug": "sv9a-heat-wave-arena-buyers-guide",
+    "takeaway": [
+      "The SV9a box is $163.32, or $5.44 a pack, and the case is $1,604.33, or $133.69 a box — a $29.63-a-box saving. Buy the box to open, the case to split or hold, and the Garchomp SAR single at $216.91 if that one card is the whole plan. Divide before you pay, and let the per-box number, not the headline, choose the format.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, with the TCGplayer figures dated November 4 and 5, 2026. When the next set in the trainer run opens for pre-order, run the checklist first and the checkout second.",
+      "Still deciding between a box and a case? The [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same division across all thirty-two MEGA-era and Scarlet & Violet boxes, and the [best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For the sibling set, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the other half of Destined Rivals."
     ]
   },
   "what-is-a-god-pack-japanese-pokemon": {
