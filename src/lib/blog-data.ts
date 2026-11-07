@@ -5818,7 +5818,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Mega case with the widest saving in this cycle's comparison, the [M2 Inferno X buyers guide](/blog/m2-inferno-x-buyers-guide/) prices the case at $1,333.69 against twelve singles at $2,198.16.",
       "Buying in bulk to resell rather than hold? [Japanese Pokemon cards wholesale](/blog/japanese-pokemon-cards-wholesale-buyers-guide/) divides the reseller ladder case by case, including the M3 case that costs more per box than singles.",
       "For the single-box side of the same shelf, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every box by buyer, including the M3 case trap this guide prices and the SV11 case saving.",
-      "For the same shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices, with every case beside them — including the M3 and SV5a cases that cost more per box than singles."
+      "For the same shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices, with every case beside them — including the M3 and SV5a cases that cost more per box than singles.",
+      "For the case question in depth, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) divides a 20-box case to $136.16 a box, saving $543.24, and the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) divides its case to $92.93 a box, saving $436.84."
     ]
   },
   "best-japanese-pokemon-special-set-to-buy": {
@@ -13279,7 +13280,183 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "m2-inferno-x-buyers-guide",
     "takeaway": [
-      "The M2 box at $183.18 is the way to open Inferno X, and the case at $1,333.69 is the way to hold or split it at $111.14 per box, saving $864.47 against twelve singles. The set is 116 cards from September 26, 2025, in 30 packs of 5, with Mega Charizard X ex at the top and no box guaranteeing it. Buy the box to open, buy the case to hold or split, buy the Charizard single if it is the only card you want, and do not confuse M2 with M2a. That is the whole article: one store, one date, every division shown."
+      "The M2 box at $183.18 is the way to open Inferno X, and the case at $1,333.69 is the way to hold or split it at $111.14 per box, saving $864.47 against twelve singles. The set is 116 cards from September 26, 2025, in 30 packs of 5, with Mega Charizard X ex at the top and no box guaranteeing it. Buy the box to open, buy the case to hold or split, buy the Charizard single if it is the only card you want, and do not confuse M2 with M2a. That is the whole article: one store, one date, every division shown.",
+      "For the high-class pack beside it, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices the set that introduced the Mega Attack Rare: box $114.77, case $92.93 a box, and the Mega Gengar ex SAR at about $207 on its own."
+    ]
+  },
+  "m2a-mega-dream-ex-buyers-guide": {
+    "datePublished": "2026-11-07",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the biggest MEGA-era checklist in Japanese and accept $11.48 a pack, which is $1.15 a card, cheaper per card than M2 at $1.83. The case is the better sealed buy at $92.93 a box, saving $436.84 against twenty singles. For profit, no: no box guarantees the Mega Gengar ex SAR, which alone costs about $207 as a raw single, 1.80 times a box. Open M2a because you want MEGA cards, and buy the Gengar single if it is the only card you want.",
+        "q": "Is M2a MEGA Dream ex worth buying?"
+      },
+      {
+        "a": "A box holds 10 packs of 10 cards, 100 cards in total, at an official retail of 5,500 yen. The official product page prints the pack price (550 yen) and the cards per pack (10) but no pack count per box; 10 packs per box is the box standard as listed by Bulbapedia. At our shelf price of $114.77, that is $11.48 per pack and $1.15 per card.",
+        "q": "How many packs are in an M2a booster box?"
+      },
+      {
+        "a": "The sealed case on our shelf is $1,858.56 for 20 boxes, which divides to $92.93 a box against $114.77 for a single box, a $436.84 saving across the case, or $21.84 per box. That is a 19% discount, honest but not dramatic. Buy the case if you are holding, splitting, or running a group buy; buy one box first if you only want to open the set and see it.",
+        "q": "Should I buy the M2a case or single boxes?"
+      }
+    ],
+    "h1": "M2a MEGA Dream ex: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the M2a box at $114.77 if you want to open MEGA Dream ex, and buy the case at $1,858.56 if you want to hold or split it at $92.93 per box, saving $436.84 against twenty singles. The set is 250 cards, released in Japan on November 28, 2025, in boxes of 10 packs of 10 cards, and it is the set that introduced the Mega Attack Rare. The chase is the Mega Gengar ex SAR, which asks about $207 as a raw single, 1.80 times the price of a box. Open neither format for profit: no box guarantees the Gengar.",
+      "Who this is for: collectors who want the biggest MEGA-era checklist in Japanese, sealed holders who divide the case before they pay, and buyers choosing between the high-class pack and the standard M2 expansion. Who it is not for: anyone chasing one named card, who should buy the single; anyone who needs the cheapest pack on the shelf, because M2a costs $11.48 a pack; and anyone who wants English cards for tournament play."
+    ],
+    "metaDescription": "MEGA Dream ex (M2a) from one store: box $114.77, case $1,858.56, $92.93 a box in a case, and the Mega Gengar ex SAR priced honestly.",
+    "metaTitle": "M2a MEGA Dream ex: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because M2a punishes the buyer who gets the order backwards. A collector who wants to open the set buys the [M2a box](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) at $114.77: 10 packs of 10 cards, 100 cards, $11.48 per pack and $1.15 per card. A sealed holder, a splitter, or a group buy buys the [M2a case](/product/m2a-mega-dream-ex-sealed-case-20-boxes-japanese-pokemon-card/) at $1,858.56: a printed 20 boxes at $92.93 per box, $9.29 per pack and $0.93 per card, with $436.84 saved against twenty singles. A buyer who wants one named card buys the single, because the Mega Gengar ex SAR at about $207 costs 1.80 times a whole box, and no box guarantees it.",
+          "The pack arithmetic is the story of this page, because it looks wrong until you count the cards. M2a costs $11.48 a pack, which is more per pack than the [M2 Inferno X box](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at $9.16 a pack, and a buyer who stops there walks away. Keep dividing: an M2a pack holds 10 cards and an M2 pack holds 5, so M2a costs $1.15 a card against $1.83 a card for M2. The high-class pack is the dearer pack and the cheaper card, and that inversion is the decision this guide exists to make. The [M2 Inferno X guide](/blog/m2-inferno-x-buyers-guide/) prices the standard expansion the same way, box against case, so the two pages read as one comparison."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $436.84 gap",
+        "math": [
+          "M2a box per pack: $114.77 ÷ 10 = $11.48 per pack",
+          "M2a box per card: $114.77 ÷ 100 = $1.15 per card",
+          "M2a case per box: $1,858.56 ÷ 20 = $92.93 per box",
+          "M2a case per pack: $1,858.56 ÷ 200 = $9.29 per pack",
+          "M2a case per card: $1,858.56 ÷ 2,000 = $0.93 per card",
+          "M2a twenty singles: 20 × $114.77 = $2,295.40",
+          "M2a case saving: $2,295.40 − $1,858.56 = $436.84 across the case",
+          "M2a saving per box: $436.84 ÷ 20 = $21.84 per box",
+          "M2a official box: ¥5,500 ÷ ¥158 = $34.81; official pack ¥550 ÷ ¥158 = $3.48",
+          "M2a box vs official: $114.77 ÷ $34.81 = 3.30x the official Japanese price",
+          "Mega Gengar ex SAR vs box: $207.00 ÷ $114.77 = 1.80x the price of a box",
+          "Mega Gengar ex SAR vs case box: $207.00 ÷ $92.93 = 2.23x the price of a case-split box",
+          "M2 Inferno X box per pack: $183.18 ÷ 20 = $9.16 per pack; per card $183.18 ÷ 100 = $1.83",
+          "M2 Inferno X gap: $183.18 − $114.77 = $68.41 more per box; M2 case per box $1,333.69 ÷ 12 = $111.14",
+          "M2 case saving: 12 × $183.18 = $2,198.16; $2,198.16 − $1,333.69 = $864.47 across the case",
+          "M3 Munikis Zero box per pack: $70.62 ÷ 20 = $3.53 per pack; per card $70.62 ÷ 100 = $0.71",
+          "M3 Munikis Zero gap: $114.77 − $70.62 = $44.15 more per box; M3 case per box $1,048.24 ÷ 12 = $87.35",
+          "M6 Storm Emeralda box per pack: $82.80 ÷ 20 = $4.14 per pack",
+          "M6a 30th Celebration box per pack: $249.00 ÷ 20 = $12.45 per pack; $249.00 − $114.77 = $134.23 more per box"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The M2a box is $114.77 for 10 packs of 10 cards, which is $11.48 per pack and $1.15 per card, both divisions shown above. Against the original Japanese retail price, the box has traveled a long way: packs retailed at 550 yen for 10 cards, which puts a box at 5,500 yen at release, or $34.81 at 158 yen to the dollar. Our box is 3.30 times the official price, and that multiple is a scarcity story, not a markup story: Pokémon Center Online sold M2a through a lottery, not open sale, so the print run went to winners, not shelves. The Warehouse price is a November 7, 2026 shelf price in dollars, not a yen conversion, so no exchange-rate claim is made on the shelf figure itself.",
+          "The case arithmetic is the quieter saving on the page, and the one that rewards the patient buyer. The M2a case is $1,858.56 for a printed 20 boxes, which is $92.93 per box, $9.29 per pack across 200 packs, and $0.93 per card across 2,000 cards. Twenty singles at $114.77 cost $2,295.40, so the case saves $436.84 in total and $21.84 per box. That is a 19% discount on the singles price, honest but not dramatic, and it is the shape a real case discount takes: meaningful across twenty boxes, invisible on one. A case that saved half would be the figure to suspect; a case that saves a fifth is a case to trust.",
+          "The neighboring shelf puts M2a in its price band. [M2 Inferno X](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) is $183.18 a box, $68.41 more than M2a, at $9.16 a pack and $1.83 a card, so the standard expansion costs more per box and more per card than the high-class pack, because its 20 packs hold half the cards each. [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is $70.62 a box, $44.15 less than M2a, at $3.53 a pack and $0.71 a card, the cheapest per-card price in the MEGA line. [M6 Storm Emeralda](/product/m6-storm-emeralda-booster-box-japanese-pokemon-card/) is $82.80 a box at $4.14 a pack, and [M6a 30th Celebration](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) is $249.00 a box at $12.45 a pack, $134.23 more than M2a. M2a sits in the middle of the MEGA line by the box and near the top by the pack, because the pack is where the 10-card format shows. The full board sits in our [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/)."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Seven rows cover nearly every buyer, so the table keeps to seven and the money layer above carries the full division. Prices are our shelf prices as of November 7, 2026, except the chase row, which is a dated marketplace ask and labeled as such. The per-pack column is the case divided by twenty boxes and then by ten packs, because we sell M2a as single boxes and as a sealed case of twenty, never as loose packs.",
+          "Read the table by buyer type. Collectors scan the chase row first and notice the arithmetic that decides the purchase: one Mega Gengar ex SAR at about $207 costs 1.80 times a whole box, so a buyer who wants one named card should buy the card, not the seal. Openers scan the per-card column and notice M2a at $1.15 against M2 at $1.83, and the only reason to pay more per pack is the 10-card pack itself. Holders scan the case row and notice $92.93 a box, the only way the per-pack number comes down to $9.29. The full case ladder across the Japanese shelf sits in the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/)."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 7 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "M2a box",
+              "$114.77",
+              "10 packs of 10 cards; 250 cards",
+              "$11.48 per pack; $1.15 per card"
+            ],
+            [
+              "M2a case",
+              "$1,858.56",
+              "20 boxes printed",
+              "$92.93 per box; $9.29 per pack; $0.93 per card"
+            ],
+            [
+              "20 M2a singles",
+              "$2,295.40",
+              "20 × $114.77",
+              "Case saves $436.84; $21.84 per box"
+            ],
+            [
+              "Mega Gengar ex SAR 240/193",
+              "About $207",
+              "Mercari lowest raw ask, Nov 5, 2026",
+              "About 1.80x the box price; an ask, not a sale"
+            ],
+            [
+              "M2 Inferno X box",
+              "$183.18",
+              "20 packs of 5 cards; 100 cards",
+              "$9.16 per pack; $1.83 per card"
+            ],
+            [
+              "M3 Munikis Zero box",
+              "$70.62",
+              "20 packs of 5 cards; 100 cards",
+              "$3.53 per pack; $0.71 per card"
+            ],
+            [
+              "M6a 30th Celebration box",
+              "$249.00",
+              "20 packs of 5 cards; 100 cards",
+              "$12.45 per pack; $2.49 per card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about M2a is whether the box is worth it at $11.48 a pack when M2 costs $9.16. Our answer is to count the cards, not the packs: ten cards in an M2a pack against five in an M2 pack, $1.15 a card against $1.83. The second question is whether the Mega Attack Rare is the chase, and it is not: the MA cards are the new rarity, the SAR cards are the expensive ones, and the Gengar SAR is the card that costs 1.80 times a box.",
+        "paragraphs": [
+          "The top results for this question are card lists and chase guides, and none of them divides a price. The first is a complete M2a guide with the full rarity breakdown: 250 cards, 193 in the main set, 57 secrets, 10 Mega Attack Rares, and the box at retail. The second compares M2a against a set that has not released yet, which is a calendar question, not a buying question. The third is a Mega Gengar ex price guide with dated SNKRDUNK asks. All three are useful for learning the set. None of them divides a real store's shelf price to the pack or the card, none of them prices the case, and none of them compares M2a's per-card price against the rest of the MEGA line on the same shelf.",
+          "That gap hides three findings. First, the per-card inversion: no guide shows that the dearer pack is the cheaper card, because no guide divides both M2a and M2 on the same page. Second, the case saving: no guide shows that a case saves $436.84, or $21.84 a box, because no guide divides a case at all. Third, the MA trap: no guide separates the new Mega Attack Rare from the Special Art Rare clearly enough to stop a buyer paying SAR money for an MA card, and the Gengar exists in both tiers, SAR 240/193 and MA 230/193, at very different prices. Our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed."
+        ]
+      },
+      {
+        "h": "The risk layer: the Gengar chase, the MA trap, and the lottery",
+        "paragraphs": [
+          "The first risk is the chase. The Mega Gengar ex SAR carried a lowest raw ask of 30,000 yen, about $207, on Mercari as re-checked on November 5, 2026, which is 1.80 times a whole box, and the PSA 10 slab of the same card started at 58,444 yen, about $403, the same day. No box guarantees it, the official page publishes no pull rates, and box contents are an expectation, not a guarantee. A buyer who opens for the Gengar is buying a lottery ticket with a $114.77 face value, and the recovery is to buy the single if the Gengar is the only card you want.",
+          "The second risk is the MA trap, and it is specific to this set because the MA rarity is new. Mega Gengar ex appears twice in M2a: the SAR at 240/193 and the MA at 230/193, and the MA is the cheaper card by a distance. A listing that says only Mega Gengar ex, without the number, is a listing that can hide a $160 gap. The recovery is to buy by card number, 240/193 for the SAR, and to check the rarity icon before paying, because the two prints look like the same card to a buyer who has not seen the set.",
+          "The third risk is the lottery, which is a supply story, not a quality story. Pokémon Center Online sold M2a through a lottery, so the first print run went to winners, and the $114.77 box price already assumes that scarcity. A reprint or a wider second run would cut the sealed price first, because sealed is where the scarcity premium lives. The recovery is the same as in every sealed guide we write: buy the box to open it, buy the case to hold it only if you can afford the price going the wrong way, and check the seal before opening, photograph the box, and store sealed product properly, as our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) explains."
+        ]
+      },
+      {
+        "h": "Context: 250 cards, a new rarity, and a fan-translated name",
+        "paragraphs": [
+          "M2a earns its price on scope, not on one card. The set is 250 cards: a 193-card main set and 57 secret rares, split into 20 Art Rares, 9 Super Rares, 10 Mega Attack Rares, 17 Special Art Rares, and 1 Mega Ultra Rare. The Mega Attack Rare is new with this set, a tier built around Mega Evolution attacks, and its debut is the reason the set has six rarity tiers instead of five. The new Mega ex cards are Mega Dragonite ex, Mega Eelektross ex, and Mega Froslass ex, and the set also strengthens two existing decks, N's Pokémon and Team Rocket's Pokémon, with support cards that players will recognize from the official page. The mirror prints run across the set too, in energy-mark and Monster Ball patterns, so a master set of M2a means collecting the mirrors as well, which is why our [master set guide](/blog/what-is-a-master-set-pokemon/) exists.",
+          "One more context fact, because it decides purchases: the set's name is a fan translation. The official Japanese name is the high-class pack MEGA Dream ex, and Bulbapedia notes that the set has no official English name, so MEGA Dream ex is the name the community uses, not a name The Pokémon Company printed. The English equivalent, Ascended Heroes, launched on January 30, 2026 as a special set, about two months after the Japanese release, with over 290 cards. Japanese cards are for Japanese-language play and collecting, and the language split is the same one our [Japanese versus English Pokemon cards guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers in full. The $114.77 buys the Japanese list, MA and all, not the English one."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, not the seal, especially when one Mega Gengar ex SAR costs 1.80 times a box. Second, cheapest-pack buyers: M2a costs $11.48 a pack, and M3 at $3.53 a pack is the cheapest way to open MEGA-era cards, even though the cards are different. Third, MA buyers paying SAR money: if a listing does not print the card number, assume the cheaper print until proven otherwise.",
+          "Who this guide is for, restated plainly: collectors who want the biggest MEGA-era checklist in Japanese and will open ten packs of it, sealed holders who divide the case before they pay for it, and buyers who have already decided the set and need the format call. If you are in one of those groups, the box at $114.77 and the case at $92.93 a box are your shortlist, with the single only if the Gengar is the card. If you are not, buy the format that fits and come back to M2a when the set, not the price, is the reason."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 10 packs and 100 cards, then divide the case by 20 boxes, 200 packs, and 2,000 cards, and never compare a case price to a box price",
+          "If buying for one named card, stop and buy the single instead; one Mega Gengar ex SAR costs 1.80 times a box",
+          "If buying the Gengar, buy by card number: SAR 240/193, not MA 230/193",
+          "If buying the case, confirm the case price at checkout; $92.93 a box is the live shelf figure for November 7, 2026",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the M2a buying checklist",
+        "paragraphs": [
+          "Run this in order before the next M2a box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision built on prices you can actually pay."
+        ]
+      }
+    ],
+    "slug": "m2a-mega-dream-ex-buyers-guide",
+    "takeaway": [
+      "The M2a box at $114.77 is the middle of the MEGA line at $11.48 a pack, but $1.15 a card, cheaper per card than M2 at $1.83, because the pack holds ten cards instead of five. The case at $1,858.56 is the way to buy it sealed, at $92.93 a box and $9.29 a pack, saving $436.84 against twenty singles. The set is 250 cards, released November 28, 2025, and the chase is the Mega Gengar ex SAR, which alone costs about $207 as a raw single.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace asks as of November 5, 2026. The Mega Attack Rare is new with this set and is not the chase tier: the SAR at 240/193 is the expensive Gengar, and the MA at 230/193 is the cheaper one, so buy by card number.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [M2 Inferno X guide](/blog/m2-inferno-x-buyers-guide/) prices the standard expansion M2a sits beside. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the other high-class pack the same way, box $163.32 against a case that saves $543.24, with the Umbreon ex SAR at $372.02 on its own."
     ]
   },
   "m3-munikis-zero-buyers-guide": {
@@ -13471,7 +13648,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 4, 2026, the Warehouse M3 box costs $70.62, which is $2.35 a pack and $0.47 a card, the cheapest verified figures on the Japanese shelf. Buy it to open a current MEGA set cheaply, buy the single for Mega Zygarde ex or any named card, and do not buy the case expecting a discount, because the case costs $87.35 a box.",
       "Prices move; the method does not. Confirm the M3 code and the 30-pack structure, divide by verified packs, divide the case too, and buy the job before the product.",
-      "For the wider Japanese ladder, M3 at the foot, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/). For the Pokemon-only ranking by buyer, see [Best Japanese Pokemon Booster Box to Buy, by Buyer](/blog/best-japanese-pokemon-booster-box-to-buy/)."
+      "For the wider Japanese ladder, M3 at the foot, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/). For the Pokemon-only ranking by buyer, see [Best Japanese Pokemon Booster Box to Buy, by Buyer](/blog/best-japanese-pokemon-booster-box-to-buy/).",
+      "For the high-class pack in the same MEGA line, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices M2a at $114.77 a box, $1.15 a card, against M3's $0.71, with the Mega Gengar ex SAR at about $207 on its own."
     ]
   },
   "m6a-30th-celebration-buyers-guide": {
@@ -19012,6 +19190,182 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the newest set the same way, box $183.18 against a case that saves $100.54 a box, with the Deluxe pack divided beside them."
     ]
   },
+  "sv8a-terastal-festival-ex-buyers-guide": {
+    "datePublished": "2026-11-07",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want all nine Eeveelutions in Japanese and accept $16.33 a pack, which is $1.63 a card with a Pokémon ex guaranteed in every pack. The case is the better sealed buy at $136.16 a box, saving $543.24 against twenty singles. For profit, no: no box guarantees the Umbreon ex SAR, which carries a $372.02 market price on its own, 2.28 times a box. Open SV8a because you want Eeveelution cards, and buy the Umbreon single if it is the only card you want.",
+        "q": "Is SV8a Terastal Festival ex worth buying?"
+      },
+      {
+        "a": "A box holds 10 packs of 10 cards, 100 cards in total, at an official retail of 5,500 yen. The official product page prints the pack price (550 yen) and the cards per pack (10) and the release date (December 6, 2024), and the box standard is 10 packs. At our shelf price of $163.32, that is $16.33 per pack and $1.63 per card, with every card foil.",
+        "q": "How many packs are in an SV8a booster box?"
+      },
+      {
+        "a": "The sealed case on our shelf is $2,723.16 for 20 boxes, which divides to $136.16 a box against $163.32 for a single box, a $543.24 saving across the case, or $27.16 per box. That is a 17% discount, honest but not dramatic. Buy the case if you are holding, splitting, or running a group buy; buy one box first if you only want to open the set and see it.",
+        "q": "Should I buy the SV8a case or single boxes?"
+      }
+    ],
+    "h1": "SV8a Terastal Festival ex: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV8a box at $163.32 if you want to open Terastal Festival ex, and buy the case at $2,723.16 if you want to hold or split it at $136.16 per box, saving $543.24 against twenty singles. The set is 237 cards, released in Japan on December 6, 2024, in boxes of 10 packs of 10 cards, and it is the Japanese source of English Prismatic Evolutions. The chase is the Umbreon ex SAR, which carries a $372.02 market price on its own, 2.28 times the price of a box. Open neither format for profit: no box guarantees the Umbreon.",
+      "Who this is for: collectors who want all nine Eeveelutions in Japanese, sealed holders who divide the case before they pay, and buyers choosing between the Japanese box and the English ETB. Who it is not for: anyone chasing one named card, who should buy the single; anyone who needs the cheapest box on the shelf, because SV8a costs $16.33 a pack; and anyone who wants English cards for tournament play."
+    ],
+    "metaDescription": "Terastal Festival ex (SV8a) from one store: box $163.32, case $2,723.16, $136.16 a box in a case, and the Umbreon ex SAR priced honestly.",
+    "metaTitle": "SV8a Terastal Festival ex: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV8a punishes the buyer who gets the order backwards. A collector who wants to open the set buys the [SV8a box](/product/sv8a-terastal-festival-ex-booster-box-japanese-pokemon-card/) at $163.32: 10 packs of 10 cards, 100 cards, $16.33 per pack and $1.63 per card. A sealed holder, a splitter, or a group buy buys the [SV8a case](/product/sv8a-terastal-festival-ex-sealed-case-20-boxes-japanese-pokemon-card/) at $2,723.16: a printed 20 boxes at $136.16 per box, $13.62 per pack and $1.36 per card, with $543.24 saved against twenty singles. A buyer who wants one named card buys the single, because the Umbreon ex SAR at $372.02 costs 2.28 times a whole box, and no box guarantees it.",
+          "The pack arithmetic is the story of this page, because it looks expensive until you count what the pack guarantees. Every SV8a pack holds 10 cards, all of them foil, and the official page promises a Pokémon ex in every pack, which is a guarantee no standard expansion prints. That is why the box costs $16.33 a pack while [Heat Wave Arena](/product/sv9a-heat-wave-arena-booster-box-japanese-pokemon-card/), a standard expansion at the same $163.32 a box, costs $5.44 a pack: Heat Wave holds 30 packs of 5 cards, SV8a holds 10 packs of 10, and the two boxes are different products at the same price."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $543.24 gap",
+        "math": [
+          "SV8a box per pack: $163.32 ÷ 10 = $16.33 per pack",
+          "SV8a box per card: $163.32 ÷ 100 = $1.63 per card",
+          "SV8a case per box: $2,723.16 ÷ 20 = $136.16 per box",
+          "SV8a case per pack: $2,723.16 ÷ 200 = $13.62 per pack",
+          "SV8a case per card: $2,723.16 ÷ 2,000 = $1.36 per card",
+          "SV8a twenty singles: 20 × $163.32 = $3,266.40",
+          "SV8a case saving: $3,266.40 − $2,723.16 = $543.24 across the case",
+          "SV8a saving per box: $543.24 ÷ 20 = $27.16 per box",
+          "SV8a official box: ¥5,500 ÷ ¥158 = $34.81; official pack ¥550 ÷ ¥158 = $3.48",
+          "SV8a box vs official: $163.32 ÷ $34.81 = 4.69x the official Japanese price",
+          "Umbreon ex SAR vs box: $372.02 ÷ $163.32 = 2.28x the price of a box",
+          "Umbreon ex SAR vs case box: $372.02 ÷ $136.16 = 2.73x the price of a case-split box",
+          "Complete set vs box: $1,122.72 ÷ $163.32 = 6.87 boxes; 7 boxes cost 7 × $163.32 = $1,143.24",
+          "Master set vs box: $1,807.82 ÷ $163.32 = 11.07 boxes",
+          "SV9a Heat Wave Arena box per pack: $163.32 ÷ 30 = $5.44 per pack; SV9a case per box $1,604.33 ÷ 12 = $133.69",
+          "SV9a case saving: 12 × $163.32 = $1,959.84; $1,959.84 − $1,604.33 = $355.51 across the case",
+          "SV10 Glory of Team Rocket box per pack: $212.99 ÷ 30 = $7.10 per pack; $212.99 − $163.32 = $49.67 more per box",
+          "SV11B Black Bolt box per pack: $183.18 ÷ 20 = $9.16 per pack; $183.18 − $163.32 = $19.86 more per box",
+          "SV2a Pokemon 151 box per pack: $471.20 ÷ 20 = $23.56 per pack; $471.20 − $163.32 = $307.88 more per box",
+          "SV8 Super Electric Breaker box per pack: $258.23 ÷ 30 = $8.61 per pack; $258.23 − $163.32 = $94.91 more per box"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The SV8a box is $163.32 for 10 packs of 10 cards, which is $16.33 per pack and $1.63 per card, both divisions shown above. Against the original Japanese retail price, the box has traveled a long way: packs retailed at 550 yen for 10 cards, which puts a box at 5,500 yen at release, or $34.81 at 158 yen to the dollar. Our box is 4.69 times the official price, and that multiple is a chase story, not a markup story: the set is twenty-three months old, the print run is done, and the Umbreon ex SAR alone carries a $372.02 market price. The Warehouse price is a November 7, 2026 shelf price in dollars, not a yen conversion, so no exchange-rate claim is made on the shelf figure itself.",
+          "The case arithmetic is the largest saving on the page in dollars and the most ordinary in percentage. The SV8a case is $2,723.16 for a printed 20 boxes, which is $136.16 per box, $13.62 per pack across 200 packs, and $1.36 per card across 2,000 cards. Twenty singles at $163.32 cost $3,266.40, so the case saves $543.24 in total and $27.16 per box. That is a 17% discount on the singles price, and it is the shape a real case discount takes: meaningful across twenty boxes, invisible on one. A case that saved half would be the figure to suspect; a case that saves a sixth is a case to trust.",
+          "The neighboring shelf puts SV8a in its price band, and it starts with a coincidence worth naming. [Heat Wave Arena](/product/sv9a-heat-wave-arena-booster-box-japanese-pokemon-card/) is $163.32 a box, exactly the same price as SV8a, but a different product: 30 packs of 5 cards at $5.44 a pack, against SV8a's 10 packs of 10 at $16.33. [Glory of Team Rocket](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/) is $212.99, $49.67 more, at $7.10 a pack. [Black Bolt](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $183.18, $19.86 more, at $9.16 a pack. [Pokemon 151](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) is $471.20, $307.88 more, at $23.56 a pack. SV8a sits in the middle of the shelf by the box and near the top by the pack, because the pack is where the 10-card, all-foil format shows. The full board sits in our [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/)."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Seven rows cover nearly every buyer, so the table keeps to seven and the money layer above carries the full division. Prices are our shelf prices as of November 7, 2026, except the chase rows, which are dated marketplace figures and labeled as such. The per-pack column is the case divided by twenty boxes and then by ten packs, because we sell SV8a as single boxes and as a sealed case of twenty, never as loose packs.",
+          "Read the table by buyer type. Collectors scan the chase rows first and notice the arithmetic that decides the purchase: one Umbreon ex SAR at $372.02 costs 2.28 times a whole box, and the complete set as singles costs $1,122.72, about the price of seven boxes, so a buyer who wants the set should buy the singles and a buyer who wants the opening should buy the box. Openers scan the per-card column and notice SV8a at $1.63 against Heat Wave at $1.09 a card, and the premium buys the guaranteed ex per pack and the all-foil pack. Holders scan the case row and notice $136.16 a box, the only way the per-pack number comes down to $13.62. The full case ladder across the Japanese shelf sits in the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/)."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 7 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV8a box",
+              "$163.32",
+              "10 packs of 10 cards; 237 cards",
+              "$16.33 per pack; $1.63 per card"
+            ],
+            [
+              "SV8a case",
+              "$2,723.16",
+              "20 boxes printed",
+              "$136.16 per box; $13.62 per pack; $1.36 per card"
+            ],
+            [
+              "20 SV8a singles",
+              "$3,266.40",
+              "20 × $163.32",
+              "Case saves $543.24; $27.16 per box"
+            ],
+            [
+              "Umbreon ex SAR 217/187",
+              "$372.02",
+              "TCGplayer market, Nov 7, 2026",
+              "2.28x the box price; a market price, not an ask"
+            ],
+            [
+              "Umbreon 092/187 Master Ball mirror",
+              "About $252",
+              "SNKRDUNK lowest ask, Oct 23, 2026",
+              "About 1.59x the box price; an ask, not a sale"
+            ],
+            [
+              "Complete set (237 cards)",
+              "$1,122.72",
+              "TCGplayer market, Nov 7, 2026",
+              "About 6.87 boxes; 7 boxes cost $1,143.24"
+            ],
+            [
+              "SV9a Heat Wave Arena box",
+              "$163.32",
+              "30 packs of 5 cards; 150 cards",
+              "$5.44 per pack; $1.09 per card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about SV8a is whether the box is worth it at $16.33 a pack when Heat Wave Arena costs the same $163.32 a box. Our answer is to count the packs: ten packs of ten cards against thirty packs of five, and a guaranteed Pokémon ex in every SV8a pack against no guarantee in a standard box. The second question is whether the Umbreon ex SAR is the only chase, and it is not: the plain Umbreon Master Ball mirror asks about $252 on its own, and the complete set costs $1,122.72 as singles, about seven boxes.",
+        "paragraphs": [
+          "The top results for this query are card lists and English comparisons, and none of them divides a price. The first is a full SV8a card list with all 237 cards and the secret tiers. The second is a Japanese-versus-English guide that prices the English ETB and the Japanese box in yen. The third is a Prismatic-versus-Terastal comparison that explains the format differences and the God Pack. All three are useful for learning the set. None of them divides a real store's shelf price to the pack or the card, none of them prices the case, and none of them states the complete-set cost against the box price on the same page.",
+          "That gap hides three findings. First, the same-price coincidence: no guide shows that SV8a and Heat Wave Arena cost the same $163.32 a box for different products, because no guide divides both on the same shelf. Second, the case saving: no guide shows that a case saves $543.24, or $27.16 a box, because no guide divides a case at all. Third, the second chase: no guide prices the Umbreon Master Ball mirror at about $252 beside the SAR at $372.02, so a buyer who misses the SAR never learns the mirror is the cheaper Umbreon. Our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed."
+        ]
+      },
+      {
+        "h": "The risk layer: the Umbreon chase, the SAR myth, and the reprint",
+        "paragraphs": [
+          "The first risk is the chase. The Umbreon ex SAR carried a $372.02 market price on TCGplayer on November 7, 2026, which is 2.28 times a whole box, and the plain Umbreon Master Ball mirror carried a lowest ask of 39,887 yen, about $252, on October 23, 2026. No box guarantees either card, the official page publishes no pull rates, and box contents are an expectation, not a guarantee. A buyer who opens for the Umbreon is buying a lottery ticket with a $163.32 face value, and the recovery is to buy the single if the Umbreon is the only card you want. The complete set as singles costs $1,122.72, about the price of seven boxes, so the singles route is also the cheaper route to the full set.",
+          "The second risk is the SAR myth, and it is specific to this set because the community repeats it as fact. Collectors report about one Special Art Rare per box, and one reporting source calls it guaranteed, but The Pokémon Company publishes no pull rates and no box guarantee for SV8a, so the one-SAR-per-box figure is a community average, not a promise. A box can hold zero SARs, and a buyer who budgets on one SAR per box is budgeting on a rumor. The recovery is to treat the SAR as a bonus and the guaranteed Pokémon ex per pack as the floor, because the ex guarantee is the one the official page actually prints.",
+          "The third risk is the reprint, and it is the quiet one. SV8a is twenty-three months old, the print run is done, and the $163.32 box price already assumes scarcity, with the Umbreon chase doing most of the work. But Pokémon has reprinted popular sets before, and a reprint announcement would cut the sealed price first and the singles second, because sealed is where the scarcity premium lives. The recovery is the same as in every sealed guide we write: buy the box to open it, buy the case to hold it only if you can afford the price going the wrong way, and check the seal before opening, photograph the box, and store sealed product properly, as our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) explains."
+        ]
+      },
+      {
+        "h": "Context: 237 cards, nine Eeveelutions, and no Art Rares",
+        "paragraphs": [
+          "The set earns its price on structure, not on one card. SV8a prints 187 base cards and 50 secret cards, 237 in total, and the secret run is unusual: 33 Special Art Rares numbered 200/187 to 232/187, with Super Rares and Ultra Rares around them, and no Art Rare tier at all. Every pack holds 10 cards, all of them foil, and the official page promises a Pokémon ex in every pack. The nine Eeveelutions all appear as ex cards, Eevee ex, Flareon ex, Vaporeon ex, Jolteon ex, Espeon ex, Umbreon ex, Leafeon ex, Glaceon ex, and Sylveon ex, and the Umbreon ex SAR at 217/187, illustrated by YASHIRO Nanaco, is the most expensive card in the set. Below it, the Sylveon ex, Espeon ex, and Leafeon ex SARs are the next tier, and the plain Umbreon at 092/187 carries the Master Ball mirror that asks about $252 on its own.",
+          "One more context fact, because it decides purchases: the Japanese set and the English set are different products with different formats and different prices. The Japanese set released December 6, 2024; the English set, Prismatic Evolutions, followed on January 17, 2025, as a special set with no standalone English booster box, sold through Elite Trainer Boxes of nine packs. Japanese cards are for Japanese-language play and collecting, and the language split is the same one our [Japanese versus English Pokemon cards guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers in full. The $163.32 buys the Japanese list, Umbreon and all, not the English one. The God Pack, a pack of nothing but Special Art Rares, exists only in the Japanese print, which is the one structural reason the Japanese box carries a premium the English ETB never will."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, not the seal, especially when one Umbreon ex SAR costs 2.28 times a box. Second, cheapest-pack buyers: SV8a costs $16.33 a pack, and Heat Wave Arena at $5.44 a pack is the cheapest way to open Scarlet and Violet cards at the same box price, even though the cards are different. Third, SAR counters: if your plan needs one Special Art Rare per box, it is built on a community average, not a guarantee, and the box can hold zero.",
+          "Who this guide is for, restated plainly: collectors who want all nine Eeveelutions in Japanese and will open ten packs of it, sealed holders who divide the case before they pay for it, and buyers who have already decided the set and need the format call. If you are in one of those groups, the box at $163.32 and the case at $136.16 a box are your shortlist, with the single only if the Umbreon is the card. If you are not, buy the format that fits and come back to SV8a when the set, not the price, is the reason."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 10 packs and 100 cards, then divide the case by 20 boxes, 200 packs, and 2,000 cards, and never compare a case price to a box price",
+          "If buying for one named card, stop and buy the single instead; one Umbreon ex SAR costs 2.28 times a box",
+          "If buying for the set, compare the complete set at $1,122.72 against seven boxes at $1,143.24 before opening anything",
+          "If buying the case, confirm the case price at checkout; $136.16 a box is the live shelf figure for November 7, 2026",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV8a buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV8a box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision built on prices you can actually pay."
+        ]
+      }
+    ],
+    "slug": "sv8a-terastal-festival-ex-buyers-guide",
+    "takeaway": [
+      "The SV8a box at $163.32 is the middle of the shelf at $16.33 a pack, but $1.63 a card, with a Pokémon ex guaranteed in every pack and all ten cards foil. The case at $2,723.16 is the way to buy it sealed, at $136.16 a box and $13.62 a pack, saving $543.24 against twenty singles. The set is 237 cards, released December 6, 2024, and the chase is the Umbreon ex SAR, which carries a $372.02 market price on its own.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace figures as of November 7, 2026. The one-SAR-per-box figure is a community average, not a guarantee, and the box can hold zero. The complete set as singles costs $1,122.72, about the price of seven boxes, so buy the singles if the set is the goal.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that shares SV8a's $163.32 box price. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices the other high-class pack the same way, box $114.77 against a case that saves $436.84, with the Mega Gengar ex SAR at about $207 on its own."
+    ]
+  },
   "sv9a-heat-wave-arena-buyers-guide": {
     "datePublished": "2026-11-06",
     "faqs": [
@@ -19216,7 +19570,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The SV9a box is $163.32, or $5.44 a pack, and the case is $1,604.33, or $133.69 a box — a $29.63-a-box saving. Buy the box to open, the case to split or hold, and the Garchomp SAR single at $216.91 if that one card is the whole plan. Divide before you pay, and let the per-box number, not the headline, choose the format.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, with the TCGplayer figures dated November 4 and 5, 2026. When the next set in the trainer run opens for pre-order, run the checklist first and the checkout second.",
-      "Still deciding between a box and a case? The [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same division across all thirty-two MEGA-era and Scarlet & Violet boxes, and the [best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For the sibling set, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the other half of Destined Rivals."
+      "Still deciding between a box and a case? The [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same division across all thirty-two MEGA-era and Scarlet & Violet boxes, and the [best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For the sibling set, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the other half of Destined Rivals.",
+      "For the set that shares this box price, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices SV8a at the same $163.32 a box for a different product: 10 packs of 10 foil cards with a guaranteed Pokémon ex, and the Umbreon ex SAR at $372.02 on its own."
     ]
   },
   "what-is-a-god-pack-japanese-pokemon": {
