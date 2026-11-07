@@ -2499,7 +2499,181 @@ export const POSTS: Record<string, BlogPost> = {
       "The best Dragon Ball Masters booster box is a case-split box, because that is the only way this shelf sells them. A player on a budget takes B25 at $102.92 a box and $4.29 a pack. A player who wants the newest set takes B32 at $104.65 a box and $4.36 a pack. A group splits any case from B25 to B32 except B27 and pays the case-split price each. B27 at $776.25 a box is for collectors only. Divide by 12, then by 24, and let the arithmetic choose.",
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next Masters set arrives, divide the case first, check the game second, and ask whether you are buying a case, a split, or a loose box, because that one fact changes what the price buys.",
       "Still deciding between the two Dragon Ball games? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) is the other game's starting point, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Dragon Ball against the other games on this store. If the case is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe.",
-      "New this cycle: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) explains why there is no Japanese Masters box on this shelf and prices the Fusion World Japanese boxes beside these English cases."
+      "New this cycle: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) explains why there is no Japanese Masters box on this shelf and prices the Fusion World Japanese boxes beside these English cases.",
+      "For the Japanese question in depth, the [best Dragon Ball Super Card Game Japanese box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) answers it honestly: Masters has no Japanese version, Fusion World does, and the cases divide to $102.93 a box."
+    ]
+  },
+  "best-dragon-ball-super-card-game-japanese-booster-box": {
+    "datePublished": "2026-11-07",
+    "faqs": [
+      {
+        "a": "For Fusion World, yes: Japanese boxes are 24 packs of 6 cards, ¥5,280 a box for FB01 to FB10 and ¥5,760 for FB11 and FB12 at Japanese retail. For Masters, no Japanese version is currently released, and Masters listings in Japan include English-version cards, so a buyer searching for a Japanese Masters box is searching for a product that may not exist. The honest buy for Masters is an English sealed case, divided to $102.93 a box for B25 on our shelf as of November 7, 2026.",
+        "q": "Is there a Japanese Dragon Ball Super Card Game booster box?"
+      },
+      {
+        "a": "Both hold 24 packs, but a Japanese pack has 6 cards and an English pack has 12, so a Japanese box holds 144 cards and an English box holds 288. Japanese packs cost ¥220 for FB01 to FB10 and ¥240 for FB11 and FB12 at retail, and packs up to FB10 also include a code for the digital version of the game. Compare the two by pack and card count, never by the word box, and remember Japanese cards are generally not legal at official events outside Asia.",
+        "q": "What is the difference between a Japanese and an English Fusion World booster box?"
+      },
+      {
+        "a": "B25 Legend of the Dragon Balls at $102.93 a box, or $4.29 a pack, from a twelve-box sealed case at $1,235.10 on our shelf as of November 7, 2026. The newest set, B32 Chromatic Ascension, is $104.65 a box, only $1.72 more, but divides by 20 packs, not 24, so its per-pack price is $5.23. Both figures are case-split prices: we sell Masters as twelve-box sealed cases only, so a single box means splitting a case with a group.",
+        "q": "What is the cheapest Dragon Ball Super Card Game Masters box?"
+      }
+    ],
+    "h1": "Best Dragon Ball Super Card Game Japanese Booster Box to Buy",
+    "intro": [
+      "Short answer: the phrase hides two different games. If you mean Fusion World, the Japanese booster box is real: 24 packs of 6 cards, ¥220 a pack for FB01 to FB10 and ¥240 for FB11 and FB12, a box at ¥5,280 or ¥5,760 at Japanese retail. If you mean Masters, there is no Japanese version: the game sells in English only, and the honest buy is an English sealed case from our shelf, divided to $102.93 a box for B25 and $104.65 for the newest set, B32. Every price below is our own live English case price as of November 7, 2026, or an official Japanese retail figure.",
+      "Who this is for: Dragon Ball buyers who typed the game's full name into a search box and want to know which game they are actually shopping for, players choosing between Masters and Fusion World, and case splitters who divide before they pay. Who it is not for: anyone who wants a sealed Japanese Masters box, because no such product exists; anyone who wants a single Japanese Fusion World box from us, because we stock English cases only; and anyone buying a B27 case to open, because at $776.25 a box it is a sealed collectible."
+    ],
+    "metaDescription": "Masters has no Japanese version; Fusion World does. Japanese boxes: 24 packs, 6 cards, ¥220-¥240. Our Masters cases divided to the pack.",
+    "metaTitle": "Best Dragon Ball Super Card Game Japanese Box",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer: which game first, which box second",
+        "paragraphs": [
+          "The search phrase is the trap. \"Dragon Ball Super Card Game\" is the name of the original game, Masters, and it is also the first half of the newer game's full name, Dragon Ball Super Card Game Fusion World. The two are separate, independent games with their own official sites, products, and card lists, and no official statement says cards from one can be used in the other. A buyer who skips the game question and buys the cheapest box with the right words on it can spend hundreds of dollars on cards that do not play in the game they own.",
+          "For the Fusion World buyer, the answer is a Japanese box at Japanese retail: FB01 to FB10 at ¥5,280 a box, FB11 and FB12 at ¥5,760, each 24 packs of 6 Japanese cards. We do not stock Japanese Fusion World boxes; our shelf answers differently, with the [cheapest English Fusion World case](/blog/best-dragon-ball-fusion-world-booster-box/) at $106.61 a box for FB04 Ultra Limit and the newest set, [FB12 Reach the God](/blog/best-dragon-ball-fusion-world-booster-box/), at $126.50 a box on pre-order. For the Masters buyer, the answer is an English sealed case, the only format Masters sells in: [B25 Legend of the Dragon Balls](/product/dragon-ball-super-card-game-masters-b25-legend-of-the-dragon-balls-booster-box-s/) at $102.93 a box is the cheapest Masters box we sell, and [B32 Chromatic Ascension](/product/dragon-ball-super-card-game-masters-b32-chromatic-ascension-booster-box-sealed-c/) at $104.65 a box is the newest set. For the buyer who only wants one box and will not split a case, the answer is neither of our cases: buy a single box elsewhere, and come back to cases when the quantity matches the plan."
+        ]
+      },
+      {
+        "h": "The money layer: two games, divided",
+        "math": [
+          "Fusion World Japanese box FB01-FB10: 24 packs × ¥220 = ¥5,280 per box; ¥220 per pack; ¥220 ÷ 6 = ¥36.67 per card",
+          "Fusion World Japanese box FB11-FB12: 24 packs × ¥240 = ¥5,760 per box; ¥240 per pack; ¥240 ÷ 6 = ¥40 per card",
+          "Fusion World Japanese box in dollars, approximate at ¥154/USD: ¥5,280 ÷ 154 = $34.29; ¥5,760 ÷ 154 = $37.40",
+          "Fusion World box card counts: Japanese 24 × 6 = 144 cards; English 24 × 12 = 288 cards",
+          "Masters B25 Legend of the Dragon Balls: $1,235.10 ÷ 12 = $102.93 per box; $102.93 ÷ 24 = $4.29 per pack",
+          "Masters B32 Chromatic Ascension: $1,255.80 ÷ 12 = $104.65 per box; $104.65 ÷ 20 = $5.23 per pack",
+          "Masters B28 Prismatic Clash: $1,276.50 ÷ 12 = $106.38 per box; $106.38 ÷ 24 = $4.43 per pack",
+          "Masters B26 Ultimate Advent: $1,353.30 ÷ 12 = $112.78 per box; $112.78 ÷ 24 = $4.70 per pack",
+          "Masters B24 Beyond Generations: $1,393.80 ÷ 12 = $116.15 per box; $116.15 ÷ 24 = $4.84 per pack",
+          "Masters B22 Critical Blow: $1,587.90 ÷ 12 = $132.33 per box; $132.33 ÷ 24 = $5.51 per pack",
+          "Masters B23 Perfect Combination: $1,621.50 ÷ 12 = $135.13 per box; $135.13 ÷ 24 = $5.63 per pack",
+          "Masters B30 Three Glorious Fighters: $1,671.02 ÷ 12 = $139.25 per box; $139.25 ÷ 24 = $5.80 per pack",
+          "Masters B21 Wild Resurgence: $1,690.50 ÷ 12 = $140.88 per box; $140.88 ÷ 24 = $5.87 per pack",
+          "Masters B29 Fearsome Rivals: $1,725.76 ÷ 12 = $143.81 per box; $143.81 ÷ 24 = $5.99 per pack",
+          "Masters B31 Impact Beyond Dimensions: $1,807.80 ÷ 12 = $150.65 per box; $150.65 ÷ 24 = $6.28 per pack",
+          "Masters B20 Power Absorbed: $2,140.36 ÷ 12 = $178.36 per box; $178.36 ÷ 24 = $7.43 per pack",
+          "Masters B27 History of Z: $9,315 ÷ 12 = $776.25 per box; $776.25 ÷ 24 = $32.34 per pack",
+          "B25 vs US retail: $5.99 − $4.29 = $1.70 saved per pack against the $5.99 US retail pack price",
+          "B32 vs B25: $104.65 − $102.93 = $1.72 more per box for the newest set",
+          "B27 vs B25: $776.25 − $102.93 = $673.32 more per box for the scarcity case",
+          "Cheapest vs priciest, excluding B27: $178.36 − $102.93 = $75.43 per box between B20 and B25"
+        ],
+        "paragraphs": [
+          "Start with the Japanese side, because its arithmetic is official. Bandai's official Japanese product pages print ¥220 including tax per pack for FB01 to FB10 and ¥240 for FB11 and FB12, with 6 cards per pack, and the box holds 24 packs, so a Japanese box is ¥5,280 for the first ten sets and ¥5,760 for the last two, ¥36.67 and ¥40 per card. At ¥154 to the dollar, that is about $34.29 and $37.40 a box, approximate, and the conversion is stated rather than hidden. The official pages print no box price and no packs-per-box figure, so the 24-pack box is the retailer standard, stated as such. An English box holds the same 24 packs but 12 cards each, 288 cards against 144 in Japanese, which is why a Japanese box price and an English box price are never two prices for the same thing.",
+          "The Masters ladder is where the page earns its keep, because it is the only ranking that maps to what you can actually put in a cart here. Every Masters case on our shelf holds twelve boxes, B32 holds 20 packs a box and B20 to B31 hold 24, and every figure below is a live case price as of November 7, 2026. The value tier is B25 at $102.93 a box and $4.29 a pack, B32 at $104.65 and $5.23, B28 at $106.38 and $4.43, B26 at $112.78 and $4.70, and B24 at $116.15 and $4.84. The mid tier runs B22 at $132.33 to B31 at $150.65. The dear tier is B20 at $178.36, and then B27 at $776.25, which is not a tier at all but a sealed collectible priced on scarcity.",
+          "Two gaps decide real purchases. First, B25 at $4.29 a pack undercuts the $5.99 US retail pack price by $1.70 a pack, so the cheapest case on our shelf already beats retail before any split. Second, the newest set costs almost nothing extra: B32 at $104.65 is only $1.72 a box above B25, so a buyer who wants the current set pays no newest-set premium here. The gap to avoid is B27: $776.25 a box is $673.32 above B25, and nothing in B27's play value is seven times B25's; the difference is sealed scarcity, and a player who pays it for packs to open buys scarcity and then destroys it by opening."
+        ]
+      },
+      {
+        "h": "The decision layer: Masters case, Fusion World box, or neither",
+        "paragraphs": [
+          "Six rows cover nearly every buyer, so the table keeps to six and the money layer above carries the full thirteen-case ladder. Prices are our case prices as of November 7, 2026, except the two Japanese rows, which are official Japanese retail prices in yen with an approximate dollar conversion at ¥154, stated as such. The per-pack column for Masters is the case divided by twelve boxes and then by 24 packs, except B32, which is divided by 20 packs, because that is the configuration printed on our own B32 listing.",
+          "Read the table by buyer type. Players scan the per-pack column and stop under $5.00 a pack: B25, B28, B26, and B24. New-set buyers compare B32 against B25 and notice newer costs $1.72 more a box, not a premium worth agonizing over. Japanese-product buyers compare the two yen rows and notice the ¥20-a-pack step from FB10 to FB11, then remember we do not stock Japanese boxes at all, so the yen rows are a guide to buying elsewhere. Collectors ask what justifies B27: sealed tightness and the History of Z chase, not play strength. The full Masters ladder sits in our [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/), and the Fusion World English cases in the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/)."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "What you get",
+            "Price",
+            "Per pack"
+          ],
+          "rows": [
+            [
+              "Masters B25 case-split box",
+              "English Masters, 24 packs of 12 cards",
+              "$102.93 per box",
+              "$4.29"
+            ],
+            [
+              "Masters B32 case-split box",
+              "Newest Masters set, 20 packs of 12 cards",
+              "$104.65 per box",
+              "$5.23"
+            ],
+            [
+              "Masters B28 case-split box",
+              "English Masters, 24 packs of 12 cards",
+              "$106.38 per box",
+              "$4.43"
+            ],
+            [
+              "Fusion World Japanese box FB01-FB10",
+              "Japanese, 24 packs of 6 cards",
+              "¥5,280 at retail (about $34.29)",
+              "¥220"
+            ],
+            [
+              "Fusion World Japanese box FB11-FB12",
+              "Japanese, 24 packs of 6 cards",
+              "¥5,760 at retail (about $37.40)",
+              "¥240"
+            ],
+            [
+              "Masters B27 case-split box",
+              "English Masters, sealed scarcity",
+              "$776.25 per box",
+              "$32.34"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the two-game trap, in the open",
+        "note": "From the Warehouse: the question we get most about Dragon Ball is whether we carry the Japanese boxes, and the answer is no, English cases only, for both games. That single fact reorders the whole market: the Japanese price guides quoting yen box prices describe a product we do not sell, and a buyer who takes a Japanese ranking to our shelf is comparing two different products. Worse, half the listings a buyer finds in Japan for Masters are English cards sold in Japan, so even a buyer who flies to Tokyo can come home with the wrong language. Our ladder above is English cases, divided, from our own prices, and the yen rows are labeled as retail figures for a product bought elsewhere.",
+        "paragraphs": [
+          "The top results share three gaps, each costing a buyer money. First, none disambiguates the search phrase. One ranks Fusion World boxes in yen, another lists Fusion World sets in order, a third compares Masters and Fusion World as games, but none says plainly that typing \"Dragon Ball Super Card Game Japanese booster box\" is two questions, and that the Masters half has no Japanese answer at all. A buyer who does not know there are two games cannot know which answer they are reading.",
+          "Second, none of them gives the Masters case ladder. The Masters-versus-Fusion-World comparison is the closest any of them comes, and it prints the $5.99 US retail pack price and the 20-pack B32 box, but no case price, no per-box division, and no per-pack figure from a store that holds the stock. Our ladder above is that missing piece: thirteen cases, B20 to B32, divided twice, from our own November 7, 2026 prices.",
+          "Third, none warns about the language trap in Japan itself. Masters listings in Japan include English-version cards, because the game is sold in English in Asia, so a buyer searching in Japan for a Japanese Masters box can easily buy English cards at a Japanese premium. If your question is really about buying from Japan, our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed, and the [Japanese Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices the Japanese boxes we do not stock."
+        ]
+      },
+      {
+        "h": "The risk layer: the wrong game, the wrong language, and B27",
+        "paragraphs": [
+          "The first risk is buying the wrong game. Masters and Fusion World are separate games with separate card pools, and no official statement says their cards play together. A buyer who owns Masters cards and buys a Fusion World box, or the reverse, has bought cardboard that does not play in their game, and no per-box price fixes it. The recovery is boring: name the game before you name the set, check the code on the box, FB for Fusion World and B for Masters.",
+          "The second risk is the language trap. A Japanese Fusion World box is 24 packs of 6 Japanese cards, and an English one is 24 packs of 12 English cards, so the two boxes hold different card counts and serve different buyers. Masters adds a second layer: listings in Japan include English-version cards, so a \"Japanese\" Masters listing can be an English product at a Japanese price. The recovery is to confirm the language on the listing before paying, and to confirm tournament legality with the event organizer.",
+          "The third risk is B27. At $776.25 a box and $32.34 a pack, History of Z is priced on sealed scarcity, which can loosen, and a case bought at a scarcity price can retrace on your shelf. The recovery is the same as for every scarcity tier on this site: never pay scarcity prices with money you need back on a date, and store sealed product properly, as our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/) explains. A reseal check matters most exactly where the money is, so read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening anything at this price."
+        ]
+      },
+      {
+        "h": "Context: one name, two games, and the 2024 split",
+        "paragraphs": [
+          "Fusion World launched in Japan on February 16, 2024, as a new game under the Dragon Ball Super Card Game name, with a mainline booster roughly every quarter since: FB01 Awakened Pulse through FB12 Reach the God, plus two Manga Boosters and a story booster. FB11 Brightness of Hope reached Japanese shelves on September 12, 2026 and English shelves on October 16, 2026, with 123 card types in both languages. FB12 Reach the God reaches Japan on December 12, 2026 and English shelves on December 18, 2026, alongside two starter decks. The set codes are the same in both languages, FB01 for Awakened Pulse in either, so the code on the box tells you the set whatever the language.",
+          "Masters is the older game, running since 2017, and its numbering tells the story: B20 Power Absorbed through B32 Chromatic Ascension, with B32 as the 9th Anniversary release and the fifth Ultra Bout set. B32 changed the box: 20 packs where B31 and earlier held 24, which is why its per-pack figure divides by 20 and not 24, and why any guide that divides every Masters box by 24 gets B32 wrong. The two games share a name and a franchise and almost nothing else.",
+          "The [FB12 set hub](/sets/fb12-reach-the-god/) tracks the December set as release approaches, and our [release calendar](/release-calendar/) carries the confirmed dates. For the English cases behind this guide, the [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) covers twelve-box split math, and the [sealed case versus booster box breakdown](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-box buyers who will not split a case: we sell twelve-box Masters cases, and a case bought for one box's interest is the worst version of this purchase. Second, Japanese Masters buyers: there is no Japanese version of Masters to buy, and no division here turns an English case into one. Third, B27 buyers funding play: History of Z at $776.25 a box is a sealed collectible, and spending $32.34 a pack to build a deck is the most expensive way to lose a game playable at $4.29 a pack.",
+          "Who this guide is for, restated plainly: buyers who now know which of the two games they want, players who will use twelve boxes of one Masters set or a share of one, groups splitting a case, and Fusion World buyers who want the Japanese retail figures before they shop elsewhere. If you are in one of those groups, the ladder above is your shortlist. If you are not, buy the format that fits and come back to cases when the quantity matches the plan."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the game first: Masters or Fusion World, and check the code, B for Masters and FB for Fusion World",
+          "If Masters, accept there is no Japanese version; the buy is an English case, divided by twelve boxes",
+          "If Fusion World Japanese, remember the box is 24 packs of 6 cards at ¥220 or ¥240 a pack, and we do not stock it",
+          "Divide the case price by twelve for the per-box price, then by 24 packs, except B32, which divides by 20",
+          "If buying B32, confirm the 20-pack box on the listing before paying, because every earlier set divides by 24",
+          "If splitting, agree the split in writing before ordering: boxes each, price each, who holds sealed extras",
+          "If buying B27, name the reason in one sentence: scarcity and sealed status, not play value, and fund it from a collection budget",
+          "Confirm the language on the listing before paying, and confirm tournament legality with the event organizer"
+        ],
+        "h": "Action layer: the Japanese-box buying checklist",
+        "paragraphs": [
+          "Run this in order before the next Dragon Ball box you consider. It takes ten minutes and it replaces a shelf of Japanese price guides with a decision built on the game you actually play and the cases you can actually buy."
+        ]
+      }
+    ],
+    "slug": "best-dragon-ball-super-card-game-japanese-booster-box",
+    "takeaway": [
+      "The phrase \"Dragon Ball Super Card Game Japanese booster box\" is two questions, and the answers point in opposite directions. Fusion World has a Japanese box: 24 packs of 6 cards, ¥5,280 for FB01 to FB10 and ¥5,760 for FB11 and FB12 at Japanese retail. Masters has no Japanese version, and the honest buy is an English sealed case, divided to $102.93 a box for B25 and $104.65 for the newest set, B32, with B27 at $776.25 a box standing apart as a sealed collectible, not a play purchase.",
+      "Prices move, so treat every number here as stamped: our English case prices as of November 7, 2026, and the Japanese figures as official retail prices in yen, with dollar conversions at ¥154 marked approximate. When FB12 ships in December, re-run the division: the pre-order price undercutting FB11 today may not survive contact with release week.",
+      "For the full Masters ladder in depth, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all thirteen cases per box and per pack. For the Japanese side, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices the Japanese boxes we do not stock, and the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) divides the English cases. If the seal starts calling once a case lands, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment.",
+      "New this cycle: the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers the same two-game question for Pokémon: Japan never made an ETB, so the English $49.99 box and the Japanese booster box are different products with different per-pack math."
     ]
   },
   "best-english-one-piece-booster-box-to-buy": {
@@ -3233,7 +3407,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The November 4, 2026 Japanese shelf, one last time: FB08 $26.02 at $1.08 a pack and $0.18 a card, FB07 $27.88 at $1.16 and $0.19, SB01 $57.61 at $2.40 and $0.40, SB02 $57.61 at $2.40 a pack with per-card withheld, and FB09 $64.12 at $2.67 and $0.45. Against them, the English cases: FB07 $132.25 a box, FB08 $204.17, FB09 $402.50, SB02 $793.51, and SB01 $2,242.50, all divided from the same shelf on the same date.",
       "If the question is the English line in full, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve sets from their cases, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) prices the cases themselves. If the question is starting the game rather than collecting it, the [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) sequences the first purchase before the first game. For FB07 in depth, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) prices the Japanese box against the English case and names the case-only English shelf.  For FB08 in depth, the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) prices the cheapest Japanese box against the dearest English case.",
       "Pick the language first, then the set, then divide before you pay. In Japanese, that order costs between $26.02 and $64.12. In English, the same order starts at $132.25 a box inside a case. Knowing which shelf you are standing on is the whole purchase. For the anniversary set in depth, see [FB09 Dual Evolution Buyer's Guide](/blog/fb09-dual-evolution-buyers-guide/).",
-      "New this cycle: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) ranks the whole Japanese line, Fusion World boxes, Manga Boosters, and the Masters English cases, from $1.08 a pack."
+      "New this cycle: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) ranks the whole Japanese line, Fusion World boxes, Manga Boosters, and the Masters English cases, from $1.08 a pack.",
+      "For the Masters half of the Japanese question, the [best Dragon Ball Super Card Game Japanese box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) explains why there is no Japanese Masters box and divides all thirteen English cases to the pack."
     ]
   },
   "best-japanese-one-piece-booster-box-price": {
@@ -4807,6 +4982,170 @@ export const POSTS: Record<string, BlogPost> = {
       "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
     ]
   },
+  "best-japanese-pokemon-etb": {
+    "datePublished": "2026-11-07",
+    "faqs": [
+      {
+        "a": "No. Japan never made an ETB. Standard Japanese releases arrive as a booster box and a booster pack only, and the accessories that come in an English ETB, sleeves, dice, a player's guide, and a promo, live in separate Japanese products like the Deck Build Box, the Card File Set, and the special set. The closest Japanese product to an ETB-style bundle is the special set, and our shelf carries the Pokémon GO Special Set at $136.06 and the 25th Anniversary Collection Special Set at $476.16, both priced as bundles, not as ETBs.",
+        "q": "Does Japan have a Pokémon Elite Trainer Box?"
+      },
+      {
+        "a": "The English ETB is cheaper per pack than any Japanese single box: $49.99 for 9 packs is $5.55 a pack, against $12.45 for the Japanese 30th Celebration box, $9.16 for Black Bolt, and $7.10 for Glory of Team Rocket. The only Japanese price that beats the ETB is the Black Bolt case at $82.64 a box, or $4.13 a pack, and that requires splitting a twelve-box case. The ETB figure is a kit price, though: the $49.99 also buys the promo, sleeves, and dice, so the comparison is packs-plus-accessories against packs alone.",
+        "q": "Is the English ETB or the Japanese booster box cheaper per pack?"
+      },
+      {
+        "a": "Buy the English ETB at $49.99 if you want the ETB experience, sleeves, dice, and promo included. Buy the Japanese booster box if you want the set in Japanese: the M6a 30th Celebration box at $249 is the only sealed box of that set, and Black Bolt at $183.18 is the newest set. Buy the Japanese special set if you want a celebration bundle: the Pokémon GO Special Set at $136.06 is the cheapest on our shelf. Buy the Japanese case if you want the cheapest pack: the Black Bolt case divides to $4.13 a pack, but confirm the case price at checkout before a large order.",
+        "q": "What should I buy instead of a Japanese ETB?"
+      }
+    ],
+    "h1": "Best Japanese Pokémon ETB: The Honest Answer",
+    "intro": [
+      "Short answer: there is no Japanese Pokémon ETB, because Japan never made one. The Elite Trainer Box is an English-only format: 9 booster packs plus a promo, sleeves, dice, and a guide, $49.99 for the 30th Celebration ETB. What Japan sells instead is a booster box, a special set, or a sealed case: the [M6a 30th Celebration box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) at $249, or $12.45 a pack, if you want the anniversary set in Japanese, and the [SV11B Black Bolt case](/product/sv11b-black-bolt-sealed-case-12-boxes-japanese-pokemon-card/) at $82.64 a box, or $4.13 a pack, if you want the cheapest Japanese pack on our shelf. Every price below is our own live shelf price as of November 7, 2026, or an official retail figure.",
+      "Who this is for: buyers who searched for a Japanese ETB and want the straight answer before they pay, collectors choosing between the English ETB and the Japanese box for the same set, and players who want the cheapest Japanese pack without paying for accessories they will not use. Who it is not for: anyone who wants an ETB in Japanese, because the product does not exist; anyone who wants the sleeves, dice, and promo in an English ETB, who should buy the English ETB; and anyone chasing one named card, who should buy the single."
+    ],
+    "metaDescription": "Japan never made an ETB. The English ETB is $49.99 for 9 packs; Japan sells boxes, special sets, and cases instead, divided to the pack.",
+    "metaTitle": "Best Japanese Pokémon ETB: The Honest Answer",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because the ETB question punishes the buyer who gets the order backwards. A collector who wants the English experience, sleeves and dice included, buys the English ETB at $49.99: 9 packs, $5.55 a pack, plus a full-art promo and the accessories, and the Pokémon Center version holds 11 packs and two promos. A collector who wants the same set in Japanese buys the Japanese booster box instead: the [M6a 30th Celebration box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) at $249 is 20 packs of 6 cards, $12.45 a pack, and it is the only sealed booster box of the set, because no English booster box was announced. A player who wants Japanese packs at the lowest price buys the case: the [SV11B Black Bolt case](/product/sv11b-black-bolt-sealed-case-12-boxes-japanese-pokemon-card/) at $991.73 divides to $82.64 a box and $4.13 a pack, cheaper per pack than the English ETB itself.",
+          "The special set is the fourth answer, and the one most buyers miss. Japan's closest thing to an ETB-style bundle is the special set: a themed box with packs and promos, not an accessory kit. The [Pokémon GO Special Set](/product/s10b-poke-mon-go-special-set-box-japanese-pokemon-card/) at $136.06 is the cheapest Japanese bundle on our shelf, and the [25th Anniversary Collection Special Set](/product/25th-anniversary-collection-special-set-japanese-pokemon-card/) at $476.16 is the anniversary bundle that put reprints in a separate promo pack. Neither is an ETB, and neither should be bought as one. The full special-set board sits in our [best Japanese Pokémon special set guide](/blog/best-japanese-pokemon-special-set-to-buy/)."
+        ]
+      },
+      {
+        "h": "The money layer: ETB, box, special set, and case",
+        "math": [
+          "English 30th Celebration ETB per pack: $49.99 ÷ 9 = $5.55 per pack",
+          "English ETB vs Japanese M6a box per pack: $12.45 − $5.55 = $6.90 more per pack for the Japanese box",
+          "Japanese M6a 30th Celebration box per pack: $249 ÷ 20 = $12.45 per pack; per card $249 ÷ 120 = $2.08",
+          "Japanese M6a box at retail: 20 packs × ¥360 = ¥7,200; ¥360 per pack; 6 cards per pack",
+          "Japanese SV11B Black Bolt box per pack: $183.18 ÷ 20 = $9.16 per pack; per card $183.18 ÷ 140 = $1.31",
+          "Japanese SV10 Glory of Team Rocket box per pack: $212.99 ÷ 30 = $7.10 per pack; per card $212.99 ÷ 150 = $1.42",
+          "Japanese SV11B case per box: $991.73 ÷ 12 = $82.64 per box; per pack $991.73 ÷ 240 = $4.13; per card $991.73 ÷ 1,680 = $0.59",
+          "Japanese SV11B case per pack vs English ETB per pack: $5.55 − $4.13 = $1.42 cheaper per pack in the case",
+          "Japanese SV11B twelve singles vs case: 12 × $183.18 = $2,198.16; $2,198.16 − $991.73 = $1,206.43 saved across the case",
+          "English ETB vs Japanese SV10 box per pack: $7.10 − $5.55 = $1.55 more per pack for the Japanese box",
+          "Japanese S8a 25th Anniversary box at retail: 16 packs × ¥297 = ¥4,752; ¥297 per pack; ¥297 ÷ 5 = ¥59.40 per card",
+          "Japanese S8a booster box vs 25th Special Set on our shelf: $563.89 − $476.16 = $87.73 more for the booster box",
+          "Japanese M3 Munikis Zero box: $70.62, the cheapest Japanese booster box on our shelf"
+        ],
+        "paragraphs": [
+          "Start with the English ETB, because its arithmetic is complete. The 30th Celebration Elite Trainer Box is $49.99 for 9 booster packs, $5.55 a pack, plus a full-art foil Nidorina promo, 65 card sleeves, 16 foil Basic Energy, 6 damage-counter dice, a coin-flip die, a plastic coin, a collector's box with dividers, a player's guide, and a Pokémon TCG Live code. The Pokémon Center version holds 11 packs and two promos. The $5.55 is the pack price inside an accessory kit: the sleeves, dice, and promo are part of the $49.99, so the ETB is not a $5.55-a-pack purchase, it is a $49.99 kit that happens to contain 9 packs.",
+          "The Japanese box arithmetic is where the page earns its keep, because it shows the ETB has no Japanese twin. The [M6a 30th Celebration box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) is $249 for 20 packs of 6 cards, $12.45 a pack and $2.08 a card, against ¥7,200 at Japanese retail, ¥360 a pack. The [SV11B Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $183.18 for 20 packs of 7 cards, $9.16 a pack and $1.31 a card. The [SV10 Glory of Team Rocket box](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/) is $212.99 for 30 packs of 5 cards, $7.10 a pack and $1.42 a card. Every Japanese box costs more per pack than the English ETB, and the reason is not a markup: Japanese packs hold fewer cards, 5 to 7 against 10 in English, and Japanese boxes carry the scarcity of a product sold mainly by lottery in Japan.",
+          "The cheapest Japanese booster box on the shelf is [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $70.62."
+        ]
+      },
+      {
+        "h": "The decision layer: four ways to buy Japanese Pokémon",
+        "paragraphs": [
+          "Six rows cover nearly every buyer, so the table keeps to six and the money layer above carries the full division. Prices are our shelf prices as of November 7, 2026, except the English ETB row, which is the $49.99 manufacturer's price for the 30th Celebration ETB, stated as such. The per-pack column is the shelf price divided by the pack count, and the special-set row carries no per-pack figure, because a bundle is priced as a bundle, not as packs.",
+          "Read the table by buyer type. Accessory buyers scan the first row and stop: the ETB is the only product here with sleeves, dice, and a promo, and no Japanese product replaces it. Anniversary buyers compare the second row against the first and notice the Japanese box costs $6.90 more per pack and holds no accessories, so the premium buys the Japanese set, not a better deal. Players scan the fifth row and notice $4.13 a pack, the only Japanese price that beats the ETB, and the only row that requires splitting a case. Bundle buyers scan the sixth row and notice $136.06, the cheapest way into a Japanese celebration product."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 7 2026",
+            "What is printed",
+            "Per pack"
+          ],
+          "rows": [
+            [
+              "English 30th Celebration ETB",
+              "$49.99",
+              "9 packs + Nidorina promo, sleeves, dice, guide",
+              "$5.55"
+            ],
+            [
+              "Japanese M6a 30th box",
+              "$249",
+              "20 packs of 6 cards; only sealed box of the set",
+              "$12.45"
+            ],
+            [
+              "Japanese SV11B Black Bolt box",
+              "$183.18",
+              "20 packs of 7 cards; 174 cards",
+              "$9.16"
+            ],
+            [
+              "Japanese SV10 Glory of Team Rocket box",
+              "$212.99",
+              "30 packs of 5 cards; 132 cards",
+              "$7.10"
+            ],
+            [
+              "Japanese SV11B case-split box",
+              "$82.64 per box",
+              "12 boxes printed; 240 packs",
+              "$4.13"
+            ],
+            [
+              "Japanese Pokémon GO Special Set",
+              "$136.06",
+              "Special set bundle; cheapest Japanese bundle",
+              "Priced as a bundle, not per pack"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the per-pack ladder, in one place",
+        "note": "From the Warehouse: the question we get most about ETBs is whether we sell a Japanese one, and the answer is that nobody does, because Japan never made one. The second question is whether the Japanese box is the same thing in another language, and the answer is no: different pack counts, different card counts, different prices, and a different product line. Our ladder above is the only place the English ETB, the Japanese box, the special set, and the Japanese case sit side by side with their per-pack figures divided from one store's shelf.",
+        "paragraphs": [
+          "The top results for this question compare English boxes against Japanese boxes, and none of them divides a Japanese shelf price. The first compares the English Fusion Strike ETB, eight packs and no promo, against the Japanese S8 Fusion Arts box, and prices the Japanese side from the official page: ¥165 a pack for 5 cards. The second compares the English 30th Celebration ETB at $49.99 against the Japanese 20-pack box at ¥7,200 retail, and states plainly that no English booster box was announced. The third is a guide to Japanese releases: standard Japanese releases have a booster box and a booster pack only, English releases add ETBs, bundles, and blisters. All three are useful for learning the formats. None of them divides a case price or a special-set price from a store that holds the stock.",
+          "That gap hides three findings. First, the case flip: no guide shows that a Japanese case pack at $4.13 undercuts the English ETB pack at $5.55, because no guide divides a case at all. Second, the special-set middle: no guide prices the Pokémon GO Special Set at $136.06 or the 25th Anniversary Special Set at $476.16 beside the ETB, so a buyer who wants a Japanese bundle never sees the option that exists. Third, the anniversary trap: no guide states that the Japanese 30th box at $12.45 a pack costs $6.90 more per pack than the English ETB, so a buyer who assumes the Japanese version is cheaper pays the premium without knowing it."
+        ]
+      },
+      {
+        "h": "The risk layer: the English ETB trap, the special-set trap, and the case price",
+        "paragraphs": [
+          "The first risk is buying the English ETB for a Japanese set. The ETB is English cards in English packs, and the set inside it is the English set, which for the 30th Celebration folds in cards from both the Japanese 30th set and the separate Japanese Premium Deck Set Espeon and Umbreon. A buyer who wants the Japanese 30th list and buys the English ETB has bought a different set, and the $49.99 does not convert into Japanese cards. The recovery is to name the language before the format, and to read our [Japanese versus English Pokémon cards guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) before paying.",
+          "The second risk is the special-set trap. A special set is a celebration product, not an ETB, and its price buys the theme, the promos, and the scarcity, not packs at the cheapest rate. The 25th Anniversary Collection Special Set at $476.16 is the clearest case: the set is 28 main cards, the famous reprints sit in a separate promo pack you earned by buying boosters, and the booster box alone is $563.89 on our shelf, $87.73 more than the special set. A buyer who pays $476.16 expecting a box of packs has bought the wrong product. The recovery is to read the contents before paying, and to buy the [best Japanese Pokémon special set guide](/blog/best-japanese-pokemon-special-set-to-buy/)'s contents table, not the name.",
+          "The third risk is the case price itself. At $82.64 a box against a $183.18 single, the Black Bolt case is the deepest discount on the shelf, and a discount that deep is the first figure to move when the catalog corrects, so confirm it at checkout before a large order. The fourth risk is the chase: no box guarantees any secret rare, the official pages publish no pull rates, and a buyer opening for one named card should buy the single. Check the seal before opening, photograph the box, and store sealed product properly, as our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) explains."
+        ]
+      },
+      {
+        "h": "Context: why Japan never made an ETB",
+        "paragraphs": [
+          "The format split is a market split, not an oversight. English Pokémon releases are built around a wide accessory line: a typical main booster arrives with a booster bundle, a Build and Battle Box, an Elite Trainer Box, sometimes a Pokémon Center version, and several blisters, because the English market sells the game as a hobby kit. Japanese releases are built around the pack: a standard Japanese expansion arrives as a booster box and a booster pack, 30 packs of 5 cards for a main set, 20 packs for special expansions, and the accessories live in separate products, the Deck Build Box, the Card File Set, and the special set. The ETB is an English answer to an English market, and Japan never needed one.",
+          "The 30th Celebration set is the sharpest example: it launched worldwide on the same day, September 16, 2026, the first Pokémon set ever to do so, and the two markets still built different products. English got the ETB at $49.99 with 9 packs and the Nidorina promo, plus a Booster Bundle and an Ultra-Premium Collection, and no English booster box was announced. Japan got the 20-pack box at ¥7,200 retail, 6 cards a pack with a Pikachu guaranteed in every pack, plus the Futuristic Box at ¥27,500. Same anniversary, same launch day, and the sealed box exists only in Japanese.",
+          "The older anniversary tells the same story in the other direction. The 25th Anniversary Collection, released October 22, 2021, was a compact 28-card celebration sold at ¥297 a pack, every card holo, in boxes of 16 packs at ¥4,752, with the famous reprints in a separate 25-card promo pack you earned by buying four booster packs. The English Celebrations set that followed was a different product with its own list. A master set of either anniversary means collecting the promo packs too, which is why our [master set guide](/blog/what-is-a-master-set-pokemon/) exists."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, English ETB buyers: if you want sleeves, dice, and a promo in one box, buy the English ETB, and no Japanese price on this page replaces it. Second, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, not the seal, especially when one Zekrom ex BWR costs 142% of a Black Bolt box. Third, English-tournament players: Japanese cards do not play in English events, and no per-pack saving changes that, because the cheapest Japanese pack here still costs $4.13.",
+          "Who this guide is for, restated plainly: buyers who searched for a Japanese ETB and want the straight answer, collectors choosing between the English ETB and the Japanese box for the same set, and players who will use twelve boxes of one Japanese set or a share of one. If you are in one of those groups, the case at $82.64 a box is your shortlist, and the ETB at $49.99 is your accessory buy. If you are not, buy the format that fits and come back to Japanese boxes when the set, not the name, is the reason."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the language first: Japanese or English, because the ETB exists only in English",
+          "If English, buy the ETB at $49.99 for 9 packs plus the promo, sleeves, and dice, and know the $5.55 is a kit price, not a pack price",
+          "If Japanese, choose the format: booster box, special set, or sealed case, and never call any of them an ETB",
+          "Divide the box by its pack count, 30 for a main set, 20 for SV11B and M6a, and never compare a case price to a box price",
+          "If buying the case, confirm the case price at checkout; $82.64 a box is the deepest discount on the shelf and the first figure to move",
+          "If buying a special set, read the contents before paying; the 25th Anniversary reprints sit in a separate promo pack",
+          "If buying for one named card, stop and buy the single instead",
+          "Confirm tournament legality with the event organizer before paying for Japanese cards"
+        ],
+        "h": "Action layer: the ETB buying checklist",
+        "paragraphs": [
+          "Run this in order before the next Pokémon box you consider. It takes ten minutes and it replaces a shelf of format guides with a decision built on the language you actually want and the packs you can actually buy."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-etb",
+    "takeaway": [
+      "There is no Japanese Pokémon ETB, because Japan never made one. The English ETB is $49.99 for 9 packs plus a promo, sleeves, dice, and a guide, $5.55 a pack inside a kit. Japan sells a booster box, a special set, or a sealed case instead: the M6a 30th Celebration box at $249, or $12.45 a pack, the Pokémon GO Special Set at $136.06, and the Black Bolt case at $82.64 a box, or $4.13 a pack, the only Japanese price on the page that beats the ETB.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the English ETB figure as the manufacturer's $49.99 for the 30th Celebration set. The case price is the figure to confirm at checkout: $82.64 a box is the deepest case discount on our shelf, and the first one to move if the catalog corrects.",
+      "For the whole shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best Japanese Pokémon special set guide](/blog/best-japanese-pokemon-special-set-to-buy/) prices the bundles the ETB question is really about. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [best Dragon Ball Super Card Game Japanese box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) answers the same two-game question for Dragon Ball: Masters has no Japanese version, Fusion World does, and the cases divide to $102.93 a box."
+    ]
+  },
   "best-japanese-pokemon-sealed-case-to-buy": {
     "datePublished": "2026-11-03",
     "faqs": [
@@ -5271,7 +5610,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese Pokemon special set is the one whose type matches your reason. The Gallade set at $21.18 is the cheapest themed entry. The Tohoku box at $161.70 is the cheapest regional collector's box, and the $53.52 gap to Hiroshima buys a region, not contents. The Anniversary Collection set at $476.16 is the mid-point sealed position, and the Golden Box at $2,192.35 is a different budget for a different buyer. Name the type, check the contents line, and let the shelf's own prices choose.",
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026, with third-party market estimates dated April 2026 where quoted. When the next special set arrives, ask first whether it holds packs at all, because that one answer changes what the price buys.",
-      "Still deciding between special sets and boxes? The [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices the pack route, the [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) guide prices the playable route, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a sealed box lands. If grading is part of the plan, the [PSA grading guide for Japanese cards](/blog/psa-grading-japanese-cards-worth-it/) prices that step before you commit."
+      "Still deciding between special sets and boxes? The [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices the pack route, the [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) guide prices the playable route, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a sealed box lands. If grading is part of the plan, the [PSA grading guide for Japanese cards](/blog/psa-grading-japanese-cards-worth-it/) prices that step before you commit.",
+      "For the ETB question in depth, the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers it honestly: Japan never made an ETB, the English box is $49.99 for 9 packs, and the Japanese case divides to $4.13 a pack."
     ]
   },
   "best-japanese-pokemon-starter-deck-to-buy": {
@@ -17759,7 +18099,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The Black Bolt box at $183.18 is the middle of the shelf at $9.16 a pack, the Deluxe at $212.99 costs $29.81 more for the same 140 cards and buys only a guaranteed Art Rare per pack, and the case at $991.73 is the way to buy it sealed, at $82.64 a box and $4.13 a pack, saving $1,206.43 against twelve singles. The set is 174 cards, released June 6, 2025, and the chase is the Zekrom ex BWR, which alone costs about $260 as a single.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace asks as of October 7, 2026. The case price is the figure to confirm at checkout: $82.64 a box is the deepest case discount on our shelf, and the first one to move if the catalog corrects.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) proves the twin sets are the same bet. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, the largest case saving we stock."
+      "New this cycle: the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, the largest case saving we stock.",
+      "For the ETB question in depth, the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers it honestly: Japan never made an ETB, and the Black Bolt case at $82.64 a box is the only Japanese price that beats the English ETB per pack."
     ]
   },
   "sv2a-pokemon-151-buyers-guide": {
