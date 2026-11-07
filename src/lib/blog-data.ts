@@ -1944,7 +1944,195 @@ export const POSTS: Record<string, BlogPost> = {
       "Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. If the seal starts calling once a case lands, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New to the game itself? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) teaches the rules before you spend case money on them, and [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with for every other set on the shelf. For the original Dragon Ball game, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all 13 Masters sealed cases per box and per pack. Buying the case itself, not just the box? The [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) covers twelve-box split math, the FB12 pre-order gap, and the Manga art prices.",
       "For the Japanese singles behind these English cases, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices FB07, FB08, FB09, and both Manga Boosters from $26.02, with the English case gaps divided alongside.",
-      "New this cycle: the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) answers the Japanese question directly — Japanese singles from $26.02, English cases divided to the pack, and why we do not sell a sealed Japanese box."
+      "New this cycle: the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) answers the Japanese question directly — Japanese singles from $26.02, English cases divided to the pack, and why we do not sell a sealed Japanese box.",
+      "For the pack question in depth, the [best Dragon Ball Fusion World booster pack guide](/blog/best-dragon-ball-fusion-world-booster-pack/) divides every English case and Japanese box on our shelf to the pack — Japanese FB08 at $1.08, English FB04 case-split at $4.44."
+    ]
+  },
+  "best-dragon-ball-fusion-world-booster-pack": {
+    "datePublished": "2026-11-07",
+    "faqs": [
+      {
+        "a": "An English Fusion World pack holds 12 cards; a Japanese pack holds 6. A box holds 24 packs in both languages, and an English sealed case holds 12 boxes, which is 288 packs. The Japanese pack also carries a serial code for the official digital version of Fusion World; the English pack does not list one.",
+        "q": "How many cards are in a Dragon Ball Fusion World booster pack?"
+      },
+      {
+        "a": "A Japanese single box is cheapest per pack on our shelf: FB08 Saiyan's Pride at $26.02 divides to $1.08 a pack, against $4.44 a pack for the cheapest English case split, FB04 Ultra Limit. An English box bought alone is not an option here — we sell English cases only — so the box question for English buyers is really the case-split question, and the case split beats the $4.99 official pack price on five sets. A loose pack from a marketplace is the most expensive route and the least protected.",
+        "q": "Is it cheaper to buy Fusion World packs or a booster box?"
+      },
+      {
+        "a": "Per card, yes, and by a wide margin: a Japanese FB08 pack costs $0.18 a card against $0.37 a card for the cheapest English pack, FB04. Per pack, Japanese wins too — $1.08 against $4.44 — but a Japanese pack gives you 6 cards and an English pack gives you 12, the Japanese cards print in Japanese, and Japanese cards are not legal at official events outside Asia. Buy Japanese packs for the collection and the art; buy English packs to play.",
+        "q": "Are Japanese Fusion World packs worth buying?"
+      }
+    ],
+    "h1": "Best Dragon Ball Fusion World Booster Pack to Buy",
+    "intro": [
+      "Short answer: buy the pack by the language, not by the set. On our shelf as of November 7, 2026, an English Fusion World pack costs $4.44 for FB04 Ultra Limit and $16.77 for FB09 Dual Evolution when you divide our sealed cases — twelve boxes, 24 packs each — while a Japanese box of FB08 Saiyan's Pride divides to $1.08 a pack, because a Japanese pack holds 6 cards against 12 in English. The cheapest sealed pack we sell is a Japanese box, the most expensive mainline pack is an English case split of a scarce set, and a loose pack from a marketplace carries the weakest protection of the three.",
+      "Who this is for: Fusion World players choosing between Japanese boxes and English cases, groups splitting a twelve-box case, and collectors comparing the 6-card Japanese pack with the 12-card English pack. Who it is not for: anyone who wants one named card, because the single is cheaper than the pack every time; anyone who wants a single English box without splitting a case, because we sell English cases only; and anyone chasing a God Rare, because that rarity does not exist in Fusion World."
+    ],
+    "metaDescription": "A Fusion World pack is 12 English cards or 6 Japanese. We divide every English case and Japanese box on our shelf to the pack.",
+    "metaTitle": "Best Dragon Ball Fusion World Booster Pack to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer: which pack, and how many",
+        "paragraphs": [
+          "Start with the language, because the pack is a different product in each. An English Fusion World pack holds 12 cards at a $4.99 official price; a Japanese pack holds 6 cards at ¥220. The store sells the two formats in different shapes: English as sealed cases of twelve boxes, Japanese as single boxes for five sets — FB07 at $27.88, FB08 at $26.02, FB09 at $64.12, and both Manga Boosters at $57.61. Divide each by 24 packs and the Japanese pack costs $1.08 to $2.67, while the English pack costs $4.44 to $16.77 from a case split. Same game, same 12-card English pack against a 6-card Japanese pack, and a price gap driven by format, not by cards.",
+          "So the buyer types split cleanly. If you want to play, buy the cheapest current pack that is legal in the format you play: the Japanese FB08 box at $1.08 a pack if you collect or play casually, or the English FB04 case split at $4.44 a pack if you need English cards for an official event. If you want the opening experience, buy FB12 Reach the God at $5.27 a pack from a case split — the newest set, on pre-order for December 18, 2026 — and stop after one box, because the expected-value math below does not improve with volume. If you want a sealed FB01 or FB09 pack, understand you are buying a collectible, not cards to open: $15.38 and $16.77 a pack are $1.28 and $1.40 a card for cards you can buy as singles for far less.",
+          "The quantity question matters more than the set question. One pack is a lottery ticket with a $4.99 face value in English and a ¥220 face in Japanese. Twenty-four packs, a full box, is where the pull structure starts to behave: FoilKraken's November 2026 box value report puts a typical opened Fusion World box at 27% of its sealed price, and names FB09 Dual Evolution the best box to open at 60% returned — the highest return in the line, and still a loss on average. A full English case, 288 packs, is where the per-pack price bottoms out, because a case is priced as its own product."
+        ]
+      },
+      {
+        "h": "The money layer: every English case and Japanese box, divided",
+        "math": [
+          "FB12 Reach the God case: $1,518 / 12 boxes = $126.50 per box; $126.50 / 24 packs = $5.27 per pack; $5.27 / 12 = $0.44 per card",
+          "FB11 Brightness of Hope case: $2,553 / 12 boxes = $212.75 per box; $212.75 / 24 packs = $8.86 per pack; $8.86 / 12 = $0.74 per card",
+          "FB10 Cross Force case: $2,333.57 / 12 boxes = $194.46 per box; $194.46 / 24 packs = $8.10 per pack; $8.10 / 12 = $0.68 per card",
+          "FB09 Dual Evolution case: $4,830 / 12 boxes = $402.50 per box; $402.50 / 24 packs = $16.77 per pack; $16.77 / 12 = $1.40 per card",
+          "FB08 Saiyan's Pride case: $2,450.08 / 12 boxes = $204.17 per box; $204.17 / 24 packs = $8.51 per pack; $8.51 / 12 = $0.71 per card",
+          "FB07 Wish for Shenron case: $1,587 / 12 boxes = $132.25 per box; $132.25 / 24 packs = $5.51 per pack; $5.51 / 12 = $0.46 per card",
+          "FB06 Rivals Clash case: $1,449.76 / 12 boxes = $120.81 per box; $120.81 / 24 packs = $5.03 per pack; $5.03 / 12 = $0.42 per card",
+          "FB05 New Adventure case: $1,340.70 / 12 boxes = $111.73 per box; $111.73 / 24 packs = $4.66 per pack; $4.66 / 12 = $0.39 per card",
+          "FB04 Ultra Limit case: $1,279.26 / 12 boxes = $106.61 per box; $106.61 / 24 packs = $4.44 per pack; $4.44 / 12 = $0.37 per card",
+          "FB03 Raging Roar case: $1,587 / 12 boxes = $132.25 per box; $132.25 / 24 packs = $5.51 per pack; $5.51 / 12 = $0.46 per card",
+          "FB02 Blazing Aura case: $1,332.92 / 12 boxes = $111.08 per box; $111.08 / 24 packs = $4.63 per pack; $4.63 / 12 = $0.39 per card",
+          "FB01 Awakened Pulse case: $4,429.80 / 12 boxes = $369.15 per box; $369.15 / 24 packs = $15.38 per pack; $15.38 / 12 = $1.28 per card",
+          "SB02 Manga Booster 02 case: $9,522.14 / 12 boxes = $793.51 per box; $793.51 / 24 packs = $33.06 per pack; $33.06 / 12 = $2.76 per card",
+          "SB01 Manga Booster 01 case: $26,910 / 12 boxes = $2,242.50 per box; $2,242.50 / 24 packs = $93.44 per pack; $93.44 / 12 = $7.79 per card",
+          "Japanese FB08 box: $26.02 / 24 packs = $1.08 per pack; $1.08 / 6 = $0.18 per card",
+          "Japanese FB07 box: $27.88 / 24 packs = $1.16 per pack; $1.16 / 6 = $0.19 per card",
+          "Japanese FB09 box: $64.12 / 24 packs = $2.67 per pack; $2.67 / 6 = $0.45 per card",
+          "Japanese SB01 box: $57.61 / 24 packs = $2.40 per pack; $2.40 / 6 = $0.40 per card",
+          "Japanese SB02 box: $57.61 / 24 packs = $2.40 per pack; $2.40 / 6 = $0.40 per card",
+          "Cheapest vs priciest English pack: $16.77 - $4.44 = $12.33; $16.77 / $4.44 = 3.78x",
+          "FB04 case-split box vs official box: 24 x $4.99 = $119.76; $119.76 - $106.61 = $13.16 saved per box",
+          "FB12 vs FB11 per pack: $8.86 - $5.27 = $3.59 cheaper on the FB12 pre-order",
+          "Japanese FB08 vs English FB04 per card: $0.37 - $0.18 = $0.19 cheaper per card in Japanese"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run twice: case price divided by twelve boxes, then by 24 packs. An English case holds twelve boxes of 24 packs of 12 cards; a Japanese box holds 24 packs of 6 cards. Store prices as of November 7, 2026. FB12's configuration is listed as expected until the set ships in December; every other figure below is a live case or box price.",
+          "The English ladder has three tiers. The value tier — FB04 at $4.44, FB02 at $4.63, FB05 at $4.66, FB06 at $5.03, FB12 at $5.27 per pack — is where players should shop, at about $5.30 a pack or less, and three of those five sets beat the $4.99 official pack price on a case split. The mid tier — FB03 and FB07 at $5.51, FB10 at $8.10, FB08 at $8.51, FB11 at $8.86 — is where recent-set demand lives. The scarcity tier — FB01 at $15.38 and FB09 at $16.77 — is where sealed supply, not play value, sets the price.",
+          "The Japanese ladder sits below all of it. FB08 at $1.08 a pack is the cheapest sealed pack we sell in any game, and even the most expensive Japanese pack here, FB09 at $2.67, undercuts the cheapest English pack, FB04 at $4.44, by $1.77. Per card the gap is just as stark: $0.18 for a Japanese FB08 card against $0.37 for an English FB04 card. The trade is not price but language and legality, and the context section prices that trade properly."
+        ]
+      },
+      {
+        "h": "The decision layer: five ways to buy a Fusion World pack",
+        "paragraphs": [
+          "The table's first row is the decision. A Japanese FB08 box at $26.02 gives you 24 packs at $1.08 each with a full chain of custody — the box was never opened, and every pack inside it is factory-sealed. An English FB04 case split gives you the same guarantee at $4.44 a pack, but only as a share of a twelve-box case. A loose pack from a marketplace gives you neither guarantee, and its price is whatever the seller sets, with no chain of custody behind it. The loose-pack premium buys nothing except immediacy and single-pack quantity, and it costs the one protection a sealed box gives you: provenance. Our [guide to telling a resealed box](/blog/how-to-tell-if-a-booster-box-is-resealed/) covers the box-level checks; at pack level the checks are thinner, which is exactly why the premium is backwards.",
+          "The Manga row deserves a sentence because it looks like a bad deal on per-pack price and is not one — it is a different product. At $2.40 a pack in Japanese and $33.06 to $93.44 a pack in English, Manga Booster packs price every card as manga-panel art, not as game pieces. If you collect the manga-art line, the Japanese SB01 and SB02 boxes at $57.61 are the cheapest way into it by a factor of fourteen. If you play, any mainline FB set gives you more game for a tenth of the price."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Japanese single box (our shelf)",
+            "English case split (our shelf)",
+            "Loose pack (marketplace)",
+            "English single box",
+            "Manga Booster pack"
+          ],
+          "rows": [
+            [
+              "Price per pack",
+              "$1.08-$2.67 by set",
+              "$4.44-$16.77 by set",
+              "No fixed price; seller-set",
+              "Not sold here at any price",
+              "$2.40 Japanese; $33.06-$93.44 English"
+            ],
+            [
+              "Cards per pack",
+              "6 Japanese",
+              "12 English",
+              "6 or 12, by language",
+              "12 English",
+              "6 Japanese; 12 English"
+            ],
+            [
+              "Digital code",
+              "Yes, one per pack",
+              "Not listed",
+              "Uncertain: code may be used",
+              "Not listed",
+              "Yes, in Japanese packs"
+            ],
+            [
+              "Reseal risk",
+              "Low: factory seal, 24 packs",
+              "Lowest: unopened case, split by us",
+              "Highest: single packs are the easiest to tamper with",
+              "Low if sealed",
+              "Low: factory seal"
+            ],
+            [
+              "Best for",
+              "Cheapest sealed pack; collectors and casual play",
+              "Lowest English per-pack price; groups splitting a case",
+              "One pack, one night, no commitment",
+              "Not an option on this shelf",
+              "Manga-art collecting, Japanese boxes only"
+            ],
+            [
+              "Worst for",
+              "Play: Japanese cards are not legal at official events outside Asia",
+              "Small budgets: a case is $1,279-$4,830",
+              "Value: you pay the most per card",
+              "Every buyer, here",
+              "Play: priced as art, not game pieces"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the pack question we get most about Fusion World is whether we carry the Japanese boxes — and the answer is yes, five of them, and no, we do not carry English single boxes. That single fact reorders the whole market: the Japanese price guides quoting yen box prices describe a product we sell in only five sets, and the English box rankings describe a product we sell only as a case split. Our ladder above is the only ranking that maps to what you can actually put in a cart here.",
+        "paragraphs": [
+          "The top results for this query answer three different questions, and none of them is the pack question. The box-value report ranks boxes by what an opened box returns — 27% of sealed price on average — a box question, not a pack question, pricing single English boxes we do not sell. The game-comparison guide prices the pack at the $4.99 official figure and moves on to which game to play. The set guides list a set, name its chase cards, and compare Japanese and English dates. None of them divides a real store's sealed cases to the pack, none of them puts all fourteen sets on one per-pack ladder, and none of them compares the English 12-card pack with the Japanese 6-card pack on a per-card basis. That is the gap this page owns: the same shelf, the same division, every set, both languages.",
+          "The second gap is the loose-pack premium, stated with numbers instead of a warning. The guides that mention loose packs treat them as a normal way to buy. They are a normal way to buy, and they are also the most expensive way per card and the least protected. A loose English pack has to beat $4.44 — the FB04 case-split price — to be worth anything at all, and it has to do it while carrying the one risk a sealed box never carries: somebody chose to sell this pack loose instead of opening it. Sometimes the reason is innocent. The price still has to cover the doubt."
+        ]
+      },
+      {
+        "h": "The risk layer: loose packs, pre-orders, and the wrong game",
+        "paragraphs": [
+          "The risks sort into three kinds, and only one of them is about money. The first is the searched pack: a pack that has been opened and resealed is a real listing category on marketplaces, and the tell is usually the seller, not the pack — a seller with loose packs of a set they never sell sealed, or loose packs priced below every sealed source. The second is the format trap: buying Japanese packs for an official event outside Asia, where they are not legal, is paying the least for cards you cannot play. The third is the pre-order risk on FB12: its case configuration is listed as expected — twelve boxes, 24 packs, 12 cards — and its English date is December 18, 2026, after the Japanese release on December 12. If the configuration changes or the date slips, the $5.27 per-pack figure moves with it, so confirm the listing before paying and treat it as provisional. Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/)'s first rule applies: pre-order the sets you would regret missing, wait on the rest.",
+          "Scarcity prices carry the second risk. FB01 at $15.38 and FB09 at $16.77 a pack are priced on sealed supply, which can loosen — a pack bought at a scarcity price can retrace on your shelf. The recovery is boring: never pay scarcity prices with money you need back on a date, and store sealed product properly (see our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/)). The Manga Boosters are the extreme case: SB01 at $93.44 a pack in English is a bet on manga-art collectibility, never to be funded from a play budget.",
+          "The third risk is buying the wrong game. Fusion World is separate from the earlier Masters line, with its own card pool — FB boosters do not play with Masters cards. A buyer expecting compatibility has bought the wrong thing, and no per-pack price fixes it. The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) covers the split before you spend, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Fusion World against Pokémon and One Piece if you are choosing between games."
+        ]
+      },
+      {
+        "h": "Context: 12 cards vs 6, and the rarity ladder",
+        "paragraphs": [
+          "Fusion World launched in Japan on February 16, 2024, releasing a mainline booster roughly every quarter since: FB01 through FB12, plus two Manga Booster spinoffs. FB11 reached Japanese shelves September 12, 2026 and English shelves October 16, 2026, with five Leaders, a Dragon Ball Legends collaboration, and SUPER Alt-Art versions of all Secret Rares. FB12 Reach the God follows in Japan on December 12, 2026 and in English on December 18, 2026. Read the Japanese guides alongside this one, remembering their prices are Japanese prices for Japanese product, and our shelf sells Japanese boxes for only five sets.",
+          "The rarity ladder prevents an expensive misunderstanding. There is no God Rare in Fusion World — that rarity belongs to the separate Masters and DIVERS lines. Fusion World's top tier runs SCR, then SCR★, then SCR★★ SUPER Alt-Art, and FB11's SUPER Alt-Art versions of every Secret Rare are its current expression. A buyer chasing a 'God Rare' here chases something that does not exist in this game; check the actual ladder before paying a premium for a rarity name.",
+          "The digital code is the one place the Japanese pack beats the English pack on something other than price. Every Japanese pack carries a serial code for the official digital version of Fusion World, so a Japanese box is also 24 digital packs. If your question is really about buying from Japan rather than buying Japanese product here, our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card. A single Secret Rare or Super Alt-Art costs less as a single than as the packs it takes on average to pull one, and no division in this article changes that. It is not for the player who needs a tournament-legal deck this weekend: buy the singles, or a starter deck, and skip the pack lottery entirely. It is not for the collector chasing a God Rare, because no Fusion World pack, at any price, contains one. And it is not for anyone who treats a pack as an investment: the pack is a consumable, the case is the sealed product that holds value, and the card inside is worth what the market says the morning after you open it."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the language first: Japanese for collecting and casual play, English for official events outside Asia.",
+          "Divide before you pay: Japanese box / 24 = your per-pack price; English case / 12 / 24 = yours. Never compare a case price to a box price.",
+          "Cheapest sealed pack on the shelf is Japanese FB08 at $1.08; cheapest English pack is the FB04 case split at $4.44.",
+          "Count the cards: 12 English, 6 Japanese — and divide per card, not per pack, when comparing languages.",
+          "If you want one card, buy the single. If you want the opening, open one box and stop.",
+          "If buying FB12, confirm the expected configuration (12 boxes, 24 packs, 12 cards) and the December 18, 2026 English date on the listing before paying.",
+          "Never pay loose-pack prices above the case-split price for the same set; the premium buys less protection, not more."
+        ],
+        "h": "Action layer: the Fusion World pack checklist",
+        "paragraphs": [
+          "Run the checklist in order and the pack decision makes itself. Language first, division second, legality third, and the single-card question last, because it is the question that cancels the other three. If the checklist points at a case split, the case is the buy; if it points at one pack, buy the cheapest sealed source you can verify, not the cheapest listing you can find."
+        ]
+      }
+    ],
+    "slug": "best-dragon-ball-fusion-world-booster-pack",
+    "takeaway": [
+      "The best Fusion World pack on our shelf depends on the language, but the arithmetic does not: a Japanese FB08 box divides to $1.08 a pack and $0.18 a card, the cheapest sealed pack we sell, while the cheapest English pack is the FB04 case split at $4.44 a pack and $0.37 a card. Divide every case by twelve and then by 24 before you believe any ranking, and let the per-pack number, not the headline, choose the set.",
+      "Prices move, so treat every number here as stamped: our English case and Japanese box prices as of November 7, 2026. When FB12 ships in December, re-run the division — the pre-order price undercutting FB11 today may not survive contact with release week.",
+      "For the box behind the pack, the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) prices all fourteen sets by the box, and the [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) prices the case the split comes from. For the Japanese boxes behind the Japanese packs, the [best Japanese Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices FB07, FB08, FB09, and both Manga Boosters from $26.02. For the pack question in the other games we stock, the [best Japanese Pokémon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) runs the same division for Pokémon, and the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) runs it for One Piece. New to the game itself? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) teaches the rules before you spend case money on them, and [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with for every other set on the shelf.",
+      "Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. If the seal starts calling once a case lands, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment. For the original Dragon Ball game, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all 13 Masters sealed cases per box and per pack."
     ]
   },
   "best-dragon-ball-fusion-world-japanese": {
@@ -2500,7 +2688,8 @@ export const POSTS: Record<string, BlogPost> = {
       "A Fusion World case is twelve boxes and 288 packs, and the case to buy is the one whose per-box price fits the job: FB04 at $106.61 per box for the cheapest mainline packs, FB12 at $126.50 on pre-order for the newest set, FB01 at $369.15 and FB09 at $402.50 only for sealed scarcity, and the Manga Boosters only as art collectibles. The case total is the commitment; the per-box price is what a split group pays each.",
       "The discipline is the split: agree the headcount and the per-person price before paying, confirm FB12's expected configuration before trusting its $5.27 per pack, and never let a Japanese yen price or a God Rare name into an English case decision. Buy the case for the packs and the play, buy singles for named cards, and never fund a scarcity case from money needed back soon.",
       "Still weighing the case against the box? The [Fusion World box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the same twelve sets by buyer, and [the case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on the shelf.",
-      "For the Japanese side of the shelf, the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) prices the five Japanese singles and divides the English cases against the ¥5,280 Japanese box list."
+      "For the Japanese side of the shelf, the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) prices the five Japanese singles and divides the English cases against the ¥5,280 Japanese box list.",
+      "For the pack question in depth, the [best Dragon Ball Fusion World booster pack guide](/blog/best-dragon-ball-fusion-world-booster-pack/) divides every sealed case to the pack, from $4.44 for FB04 to $16.77 for FB09, and every Japanese box from $1.08."
     ]
   },
   "best-dragon-ball-masters-booster-box-to-buy": {
@@ -4323,7 +4512,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Marineford set in depth, see [OP-02 Paramount War Buyer's Guide](/blog/op-02-paramount-war-buyers-guide/).",
       "For the Heroines set in depth, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/).",
       "For the full shelf with every box divided to a per-pack price and every case divided to a per-box price, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) — including the eleven cases that cost more than singles.",
-      "New this cycle: the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) ranks all twenty-four Japanese boxes by buyer type, divides every case, and prices the English gap beside them."
+      "New this cycle: the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) ranks all twenty-four Japanese boxes by buyer type, divides every case, and prices the English gap beside them.",
+      "For the pack question in depth, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides all eighteen main sets and four Extra Boosters to the pack — OP-15 at $2.90, OP-18 at $3.50 on pre-order, OP-01 at $9.94."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -6122,7 +6312,202 @@ export const POSTS: Record<string, BlogPost> = {
       "For the anniversary set, see [OP-13 Carrying on His Will Buyer's Guide](/blog/op-13-carrying-on-his-will-buyers-guide/).",
       "For the dearest English box on the shelf, see [OP-11 A Fist of Divine Speed Buyer's Guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/).",
       "For the Yellow debut set in depth, see [OP-03 Pillars of Strength Buyer's Guide](/blog/op-03-pillars-of-strength-buyers-guide/).",
-      "For the origin set in depth, see [OP-01 Romance Dawn Buyer's Guide](/blog/op-01-romance-dawn-buyers-guide/)."
+      "For the origin set in depth, see [OP-01 Romance Dawn Buyer's Guide](/blog/op-01-romance-dawn-buyers-guide/).",
+      "For the pack question in depth, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides every Japanese box to the pack and compares it per card against English — OP-15 at $2.90 a pack and $0.48 a card."
+    ]
+  },
+  "best-one-piece-japanese-booster-pack": {
+    "datePublished": "2026-11-07",
+    "faqs": [
+      {
+        "a": "A Japanese One Piece booster pack holds 6 cards. A Japanese booster box holds 24 packs, and a sealed case holds 12 boxes. An English One Piece pack holds 12 cards, and an English box also holds 24 packs. The Premium Booster packs, PRB-01 and PRB-02, are the exception: 10 cards per pack, at ¥550 in Japan and $5.49 in English.",
+        "q": "How many cards are in a Japanese One Piece booster pack?"
+      },
+      {
+        "a": "A Japanese single box is cheapest per pack on our shelf: OP-15 Adventure on Kami's Island at $69.48 divides to $2.90 a pack, against $5.98 a pack for the cheapest English box, OP-10 Royal Blood at $143.47. An English box bought alone is a real option here — we sell English single boxes — but the Japanese box beats it on per-pack price in every set where both exist. A loose pack from a marketplace is the most expensive route and the least protected.",
+        "q": "Is it cheaper to buy One Piece packs or a booster box?"
+      },
+      {
+        "a": "Per card, it depends on the set: a Japanese OP-15 pack costs $0.48 a card against $0.50 a card for the cheapest English pack, OP-10, but an English OP-08 pack is $0.84 a card against $1.66 for a Japanese OP-01 pack, and English wins per card on most sets where both exist. Per pack, the comparison flips the other way: a Japanese pack gives you 6 cards and an English pack gives you 12, the Japanese cards print in Japanese, and Japanese cards are not legal at official events outside Asia. Buy Japanese packs for the collection and the art; buy English packs to play.",
+        "q": "Are Japanese One Piece packs worth buying?"
+      }
+    ],
+    "h1": "Best One Piece Japanese Booster Pack to Buy",
+    "intro": [
+      "Short answer: buy the pack by the set, and buy the set by the division. On our shelf as of November 7, 2026, a Japanese One Piece pack costs $2.90 for OP-15 Adventure on Kami's Island and $9.94 for OP-01 Romance Dawn when you divide our Japanese boxes — 24 packs, 6 cards each — while the newest set, OP-18 The Dominance of God, divides to $3.50 a pack on pre-order, cheaper than OP-17 at $5.05. The cheapest sealed pack we sell is a Japanese box, and an English box costs more per pack but holds twice the cards; a loose pack from a marketplace carries the weakest protection of the three.",
+      "Who this is for: One Piece buyers choosing between Japanese boxes and English boxes, collectors comparing the 6-card Japanese pack with the 12-card English pack, and anyone timing a purchase around OP-18. Who it is not for: anyone who wants one named card, because the single is cheaper than the pack every time; anyone who needs tournament-legal cards for an official event outside Asia, because Japanese cards are not legal there; and anyone chasing a pack to pay for itself, because the arithmetic says it almost never does."
+    ],
+    "metaDescription": "A Japanese One Piece pack is 6 cards. We divide all 18 main sets and 4 Extra Boosters on our shelf to the pack, against English.",
+    "metaTitle": "Best One Piece Japanese Booster Pack to Buy",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer: which pack, and how many",
+        "paragraphs": [
+          "Start with the set, because the pack price is the set price. A Japanese One Piece pack is the same physical product in every set: 6 cards, one of them rare or higher, at a ¥220 to ¥240 official price depending on the set. What changes is what the set is worth sealed. On our shelf, a Japanese box of [OP-15 Adventure on Kami's Island](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) costs $69.48, which divides to $2.90 a pack, while a box of [OP-01 Romance Dawn](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) costs $238.45, which divides to $9.94 a pack. Same 6 cards, same pack shape, more than three times the price: OP-01 started the game in 2022, and its sealed supply is the thinnest on the shelf.",
+          "So the buyer types split cleanly. If you want to play casually or collect, buy the cheapest current pack that fits your set: OP-15 at $2.90, OP-18 at $3.50 on pre-order, or OP-08, OP-10, and OP-14 at $4.09. If you want the newest set, buy [OP-18 The Dominance of God](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) at $3.50 a pack — the rare release where the newest set is also one of the cheapest, undercutting OP-17 by $1.55 a pack. A sealed OP-01 pack is a collectible, not cards to open: $9.94 a pack is $1.66 a card for cards you can buy as singles for far less.",
+          "The quantity question matters more than the set question. One pack is a lottery ticket with a ¥240 face value in Japan. Twenty-four packs, a full box, is where the pull structure starts to behave: FoilKraken's November 2026 box value report puts a typical opened One Piece box at 22% of its sealed price, the lowest return of the four games it tracks. A full case, 288 packs, is where the per-pack price bottoms out — an OP-18 case split divides to $3.15 a pack, against $3.50 for a single box."
+        ]
+      },
+      {
+        "h": "The money layer: all eighteen main sets and four Extra Boosters, divided",
+        "math": [
+          "OP-01 Romance Dawn box: $238.45 / 24 packs = $9.94 per pack; $9.94 / 6 = $1.66 per card",
+          "OP-02 Paramount War box: $206.42 / 24 packs = $8.60 per pack; $8.60 / 6 = $1.43 per card",
+          "OP-03 Pillars of Strength box: $175.78 / 24 packs = $7.32 per pack; $7.32 / 6 = $1.22 per card",
+          "OP-04 Kingdoms of Intrigue box: $186.59 / 24 packs = $7.77 per pack; $7.77 / 6 = $1.30 per card",
+          "OP-05 Awakening of the New Era box: $186.61 / 24 packs = $7.78 per pack; $7.78 / 6 = $1.30 per card",
+          "OP-06 Wings of the Captain box: $165.86 / 24 packs = $6.91 per pack; $6.91 / 6 = $1.15 per card",
+          "OP-07 500 Years in the Future box: $134.32 / 24 packs = $5.60 per pack; $5.60 / 6 = $0.93 per card",
+          "OP-08 Two Legends box: $98.26 / 24 packs = $4.09 per pack; $4.09 / 6 = $0.68 per card",
+          "OP-09 Emperors in the New World box: $175.78 / 24 packs = $7.32 per pack; $7.32 / 6 = $1.22 per card",
+          "OP-10 Royal Blood box: $98.26 / 24 packs = $4.09 per pack; $4.09 / 6 = $0.68 per card",
+          "OP-11 A Fist of Divine Speed box: $181.21 / 24 packs = $7.55 per pack; $7.55 / 6 = $1.26 per card",
+          "OP-12 Legacy of the Master box: $129.79 / 24 packs = $5.41 per pack; $5.41 / 6 = $0.90 per card",
+          "OP-13 Carrying on His Will box: $135.00 / 24 packs = $5.63 per pack; $5.63 / 6 = $0.94 per card",
+          "OP-14 The Azure Sea's Seven box: $98.26 / 24 packs = $4.09 per pack; $4.09 / 6 = $0.68 per card",
+          "OP-15 Adventure on Kami's Island box: $69.48 / 24 packs = $2.90 per pack; $2.90 / 6 = $0.48 per card",
+          "OP-16 The Time of Battle box: $105.00 / 24 packs = $4.38 per pack; $4.38 / 6 = $0.73 per card",
+          "OP-17 The World's Strongest Warriors box: $121.28 / 24 packs = $5.05 per pack; $5.05 / 6 = $0.84 per card",
+          "OP-18 The Dominance of God box: $84.00 / 24 packs = $3.50 per pack; $3.50 / 6 = $0.58 per card",
+          "EB-01 Memorial Collection box: $155.04 / 24 packs = $6.46 per pack; $6.46 / 6 = $1.08 per card",
+          "EB-02 Anime 25th Collection box: $178.86 / 24 packs = $7.45 per pack; $7.45 / 6 = $1.24 per card",
+          "EB-03 Heroines Edition box: $155.04 / 24 packs = $6.46 per pack; $6.46 / 6 = $1.08 per card",
+          "EB-04 Egghead Crisis box: $91.03 / 24 packs = $3.79 per pack; $3.79 / 6 = $0.63 per card",
+          "OP-18 case split: $906 / 12 boxes = $75.50 per box; $75.50 / 24 packs = $3.15 per pack; $3.15 / 6 = $0.52 per card",
+          "English OP-08 box: $243.12 / 24 packs = $10.13 per pack; $10.13 / 12 = $0.84 per card",
+          "English OP-10 box: $143.47 / 24 packs = $5.98 per pack; $5.98 / 12 = $0.50 per card",
+          "English OP-16 box: $172.04 / 24 packs = $7.17 per pack; $7.17 / 12 = $0.60 per card",
+          "English OP-17 box: $169.67 / 24 packs = $7.07 per pack; $7.07 / 12 = $0.59 per card",
+          "English OP-18 case: $1,336.65 / 12 boxes = $111.39 per box; $111.39 / 24 packs = $4.64 per pack; $4.64 / 12 = $0.39 per card",
+          "Cheapest vs priciest Japanese mainline pack: $9.94 - $2.90 = $7.04; $9.94 / $2.90 = 3.43x",
+          "OP-18 vs OP-17 per pack: $5.05 - $3.50 = $1.55 cheaper; per box: $121.28 - $84.00 = $37.28 cheaper",
+          "OP-18 case split vs single box: $3.50 - $3.15 = $0.35 saved per pack; $84.00 - $75.50 = $8.50 saved per box"
+        ],
+        "paragraphs": [
+          "Every line above is one division: box price divided by 24 packs, then by 6 cards for Japanese or 12 for English. A Japanese box holds 24 packs of 6 cards; an English box, 24 packs of 12; a sealed case, 12 boxes in either language. Store prices as of November 7, 2026. OP-18's prices are pre-order prices until the set ships in Japan on November 21, 2026 and in English on November 20, 2026; every other figure below is a live box or case price.",
+          "The ladder has three tiers. The value tier — OP-15 at $2.90, OP-18 at $3.50, EB-04 at $3.79, OP-08, OP-10, and OP-14 at $4.09 per pack — is where buyers should shop, at $4.09 a pack or less. The mid tier — OP-16 at $4.38, OP-17 at $5.05, OP-12 at $5.41, OP-07 at $5.60, OP-13 at $5.63 — is where recent-set demand lives. The scarcity tier — OP-01 at $9.94, OP-02 at $8.60, OP-05 at $7.78, OP-04 at $7.77 — is where sealed supply, not play value, sets the price. Among Extra Boosters, EB-04 at $3.79 is a value buy and EB-02 at $7.45 is a nostalgia buy.",
+          "Read the English lines as the other half of the same decision. An English OP-10 pack costs $5.98 against a Japanese OP-10 pack at $4.09, but the English pack holds twice the cards: $0.50 a card against $0.68. An English OP-17 pack costs $7.07 against a Japanese OP-17 pack at $5.05, and again the per-card math flips it: $0.59 a card in English against $0.84 in Japanese. The one place English wins on every measure is the OP-18 case: $4.64 a pack and $0.39 a card, the cheapest per-card figure on the page, because the English case is priced for the pre-order window. The Premium Boosters are absent from the ladder deliberately: Bandai publishes no packs-per-box figure for PRB-01 or PRB-02, so no honest per-pack division exists. The packs hold 10 cards at ¥550 in Japan and $5.49 in English, and the [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) prices the boxes without pretending to divide them."
+        ]
+      },
+      {
+        "h": "The decision layer: five ways to buy a One Piece pack",
+        "paragraphs": [
+          "The table's first row is the decision. A Japanese OP-15 box at $69.48 gives you 24 packs at $2.90 each with a full chain of custody — the box was never opened. An English OP-10 box at $143.47 gives you the same guarantee at $5.98 a pack, but with twice the cards per pack and cards you can play at an official event. A loose pack from a marketplace gives you neither guarantee, and it costs the most per card of the three sealed routes. The loose-pack premium buys nothing except immediacy and single-pack quantity, and it costs the one protection a sealed box gives you: provenance. Our [guide to telling a resealed box](/blog/how-to-tell-if-a-booster-box-is-resealed/) covers the box-level checks; at pack level the checks are thinner, which is exactly why the premium is backwards.",
+          "The case-split row deserves a sentence: it looks like a small saving, and it is the cheapest sealed pack on the page. An OP-18 case split divides to $3.15 a pack against $3.50 for a single Japanese box, and the English OP-18 case divides to $4.64 a pack and $0.39 a card, the cheapest per-card figure in this article. If you will use twelve boxes of one set or a share of one, the case is the buy; if you will not, the single box is the buy, and the difference is $0.35 a pack in Japanese and a case commitment of $906 in English."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Japanese single box (our shelf)",
+            "English single box (our shelf)",
+            "Case split (our shelf)",
+            "Loose pack (marketplace)",
+            "Premium Booster pack"
+          ],
+          "rows": [
+            [
+              "Price per pack",
+              "$2.90-$9.94 by set",
+              "$5.98-$10.13 by set",
+              "$3.15-$4.64 (OP-18 splits)",
+              "No fixed price; seller-set",
+              "¥550 JP / $5.49 EN official; box not divided"
+            ],
+            [
+              "Cards per pack",
+              "6 Japanese",
+              "12 English",
+              "6 or 12, by language",
+              "6 or 12, by language",
+              "10"
+            ],
+            [
+              "Tournament legality",
+              "Not legal at official events outside Asia",
+              "Legal",
+              "Legal if English; not if Japanese",
+              "Depends on language",
+              "Legal in English; not in Japanese outside Asia"
+            ],
+            [
+              "Reseal risk",
+              "Low: factory seal, 24 packs",
+              "Low: factory seal, 24 packs",
+              "Lowest: unopened case, split by us",
+              "Highest: single packs are the easiest to tamper with",
+              "Low: factory seal"
+            ],
+            [
+              "Best for",
+              "Cheapest sealed pack; collectors and casual play",
+              "Play at official events; twice the cards",
+              "Lowest per-pack price, any set",
+              "One pack, one night, no commitment",
+              "Reprints and DON!! cards; 10 cards a pack"
+            ],
+            [
+              "Worst for",
+              "Play: not legal at official events outside Asia",
+              "Per-pack price: $5.98-$10.13",
+              "Small budgets: a case is $906-$1,337",
+              "Value: no chain of custody behind the price",
+              "Per-pack division: Bandai publishes no packs-per-box figure"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the pack question we get most about One Piece is whether the Japanese box is worth it when the English box holds twice the cards — and the answer is in the per-card column, not the per-pack column. A Japanese OP-15 pack is $2.90 and an English OP-10 pack is $5.98, and the buyer who stops at the pack price buys the wrong thing: $0.48 a card against $0.50, nearly identical, with the language and the legality deciding it instead of the price. Our ladder above is the only ranking that divides both languages to the card from one store.",
+        "paragraphs": [
+          "The top results for this query answer three different questions, and none of them is the pack question. The best-boxes guide ranks boxes by chase-card value — a box question. The Japanese price guide compares six boxes against marketplace asks in yen — a market question. The where-to-buy guide tells you which Tokyo shops stock OP-18 — a travel question. None of them divides one store's Japanese boxes to the pack, none of them puts all eighteen main sets and four Extra Boosters on one per-pack ladder, and none of them compares the Japanese 6-card pack with the English 12-card pack on a per-card basis. That is the gap this page owns: the same shelf, the same division, every set, both languages.",
+          "The second gap is the loose-pack premium, stated with numbers instead of a warning. The guides that mention loose packs treat them as a normal way to buy. They are a normal way to buy, and they are also the most expensive way per card and the least protected. A loose Japanese OP-15 pack has to beat $2.90 — the sealed-box price — to be worth anything at all, while carrying the one risk a sealed box never carries: somebody chose to sell this pack loose instead of opening it. Sometimes the reason is innocent. The price still has to cover the doubt."
+        ]
+      },
+      {
+        "h": "The risk layer: loose packs, pre-orders, and the wrong language",
+        "paragraphs": [
+          "The risks sort into three kinds, and only one of them is about money. The first is the searched pack: a pack that has been opened and resealed is a real listing category on marketplaces, and the tell is usually the seller, not the pack — a seller with loose packs of a set they never sell sealed, or loose packs priced below every sealed source. The second is the format trap: buying Japanese packs to build a deck for an official event outside Asia, where Japanese cards are not legal, is paying the least for cards you cannot play. The third is the pre-order risk on OP-18: its prices are pre-order prices until the set ships in Japan on November 21, 2026 and in English on November 20, 2026, and a pre-order price can move before release — our [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the full case-versus-box division for the set. Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/)'s first rule applies: pre-order the sets you would regret missing, wait on the rest.",
+          "Scarcity prices carry the second risk. OP-01 at $9.94 and OP-02 at $8.60 a pack are priced on sealed supply, which can loosen — a pack bought at a scarcity price can retrace on your shelf. The recovery is boring: never pay scarcity prices with money you need back on a date, and store sealed product properly (see our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/)). EB-02 at $7.45 a pack carries the same risk as nostalgia: the Anime 25th Collection premium is the most volatile in this game.",
+          "The third risk is buying the wrong language for the wrong reason. Japanese boxes are usually cheaper at retail and beloved by collectors — but cheaper at retail is not cheaper per card once you count the cards. OP-01 Japanese is $1.66 a card while OP-08 English is $0.84 a card, and a buyer who takes a Japanese ranking to an English table has bought the wrong thing twice. The [EB-01 Japanese vs English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) works the same comparison for a single set, and it is worth reading before any cross-language purchase."
+        ]
+      },
+      {
+        "h": "Context: 6 cards vs 12, and eighteen sets of history",
+        "paragraphs": [
+          "One Piece Card Game launched in Japan in July 2022 with OP-01 Romance Dawn, and the line has run eighteen main sets since, roughly one a quarter, plus four Extra Boosters and two Premium Boosters. OP-17 The World's Strongest Warriors, the fourth-anniversary Elbaf set, released in Japan on August 22, 2026 and in English on August 28. OP-18 The Dominance of God follows in Japan on November 21, 2026 at ¥240 a pack and in English on November 20, 2026. Read the Japanese guides alongside this one, remembering their prices are Japanese prices for Japanese product, quoted in yen, while our shelf prices the same boxes in dollars.",
+          "The pack contents have stayed stable across the line, which is what makes the division honest. A Japanese main-set pack holds 6 cards; an English main-set pack holds 12; a Premium Booster pack holds 10. The official Japanese pack price has crept from ¥220 for OP-16 to ¥240 for OP-17 and OP-18, and the English pack price sits at a $4.99 official figure. Bandai publishes no pull rates for any One Piece set, so no chase frequency is quoted here — any guide that quotes one is guessing. If your question is really about buying from Japan rather than buying Japanese product here, our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card. A single Secret Rare or Parallel costs less as a single than as the packs it takes on average to pull one, and no division in this article changes that. It is not for the player who needs a tournament-legal deck this weekend: buy the singles, or a starter deck, and skip the pack lottery entirely. It is not for the collector chasing a Premium Booster pull from a main-set pack, because PRB cards do not appear in OP packs. And it is not for anyone who treats a pack as an investment: the pack is a consumable, the case is the sealed product that holds value, and the card inside is worth what the market says the morning after you open it."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the set first: cheapest current pack is Japanese OP-15 at $2.90, newest is OP-18 at $3.50 on pre-order.",
+          "Divide before you pay: Japanese box / 24 = your per-pack price, then / 6 for per card; English box / 24, then / 12.",
+          "Count the cards: 6 Japanese, 12 English, 10 Premium Booster — and divide per card, not per pack, when comparing languages.",
+          "Check legality: Japanese cards are not legal at official events outside Asia.",
+          "If you want one card, buy the single. If you want the opening, open one box and stop.",
+          "If buying OP-18, confirm the November 21, 2026 Japanese date and the November 20, 2026 English date on the listing before paying.",
+          "Never pay loose-pack prices above the sealed-box price for the same set; the premium buys less protection, not more."
+        ],
+        "h": "Action layer: the One Piece pack checklist",
+        "paragraphs": [
+          "Run the checklist in order and the pack decision makes itself. Set first, division second, legality third, and the single-card question last, because it is the question that cancels the other three. If the checklist points at a case split, the case is the buy; if it points at one pack, buy the cheapest sealed source you can verify, not the cheapest listing you can find."
+        ]
+      }
+    ],
+    "slug": "best-one-piece-japanese-booster-pack",
+    "takeaway": [
+      "The best Japanese One Piece pack on our shelf is OP-15 at $2.90 a pack and $0.48 a card, with OP-18 at $3.50 a pack on pre-order as the newest set and one of the cheapest. Divide every box by 24 before you believe any ranking, and divide per card before you compare languages, because the pack price alone will mislead you twice.",
+      "Prices move, so treat every number here as stamped: our Japanese and English box and case prices as of November 7, 2026. When OP-18 ships on November 21, re-run the division — the pre-order price undercutting OP-17 today may not survive contact with release week.",
+      "For the box behind the pack, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all the sets by the box, the [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) prices the English boxes, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices the case the split comes from. For the pack question in the other games we stock, the [best Japanese Pokémon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) runs the same division for Pokémon, and the [best Dragon Ball Fusion World booster pack guide](/blog/best-dragon-ball-fusion-world-booster-pack/) runs it for Fusion World. New to the game itself? [How to build your first One Piece deck](/blog/one-piece-how-to-build-your-first-deck/) teaches the game before you spend box money on it, and [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with for every other set on the shelf.",
+      "Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. If the seal starts calling once a case lands, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience."
     ]
   },
   "best-sealed-tcg-products-japan": {
