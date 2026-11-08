@@ -6500,7 +6500,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the single-box side of the same shelf, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every box by buyer, including the M3 case trap this guide prices and the SV11 case saving.",
       "For the same shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices, with every case beside them — including the M3 and SV5a cases that cost more per box than singles.",
       "For the case question in depth, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) divides a 20-box case to $136.16 a box, saving $543.24, and the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) divides its case to $92.93 a box, saving $436.84.",
-      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) divides a 12-box case at $952.33, or $79.36 a box, saving $67.31 against twelve singles."
+      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) divides a 12-box case at $952.33, or $79.36 a box, saving $67.31 against twelve singles.",
+      "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices a case that saves $234.29 against twelve singles, or $19.52 a box, more than Triplet Beat's $223.15, and its twin [SV1V Violet ex](/blog/sv1v-violet-ex-buyers-guide/) saves $106.91 a case."
     ]
   },
   "best-japanese-pokemon-special-set-to-buy": {
@@ -20575,7 +20576,372 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV1a box at $152.29 sits high on the 30-pack shelf at $5.08 a pack, and $1.02 a card, for 150 cards from a 103-card set. The case at $1,604.33 is the way to buy it sealed, at $133.69 a box and $4.46 a pack, saving $223.15 against twelve singles. The set is 103 cards, released March 10, 2023, and the chase is the Magikarp Art Rare, which carried a $129.90 TCGplayer market price on November 7, 2026, or 0.85 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, November 4 and November 7, 2026. No pull rate is guaranteed, and the box can hold zero Magikarp cards. The TCGplayer market for a sealed box was $151.19, so our box costs $1.10 more: pay it for sealed stock from Japan in one parcel, not for a discount.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, with a case that saves $196.81, and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box."
+      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, with a case that saves $196.81, and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box.",
+      "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices the launch set at $111.46 a box, with a case that saves $234.29, and the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the twin at $88.27 a box, with a case that saves $106.91."
+    ]
+  },
+  "sv1s-scarlet-ex-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the first Scarlet & Violet set in Japanese and accept $3.72 a pack, which is $0.74 a card for 150 cards from a 108-card set. The case is the better sealed buy at $91.94 a box, saving $234.29 against twelve singles. For profit, no: no box guarantees the Gardevoir ex Special Art Rare, which carried a $196.46 TCGplayer market price on November 3, 2026, or 1.76 times a box, and a box that misses it holds mostly bulk. Open SV1S because you want the set, and buy the Gardevoir single if it is the only card you want.",
+        "q": "Is SV1S Scarlet ex worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (January 20, 2023), and the box standard is 30 packs. At our shelf price of $111.46, that is $3.72 per pack and $0.74 per card.",
+        "q": "How many packs are in an SV1S booster box?"
+      },
+      {
+        "a": "Buy the single if Gardevoir ex is the only card you want. One Gardevoir ex Special Art Rare carried a $196.46 TCGplayer market price on November 3, 2026, which is 1.76 times a box and 48 percent of the whole set's value on its own, and a box can hold no Gardevoir at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 108-card set and the chance at the whole secret block, and buy the case at $91.94 a box if you want to hold sealed.",
+        "q": "Should I buy the SV1S box or the Gardevoir ex SAR single?"
+      }
+    ],
+    "h1": "SV1S Scarlet ex: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV1S box at $111.46 to open Scarlet ex, and the case at $1,103.23 to hold it: the case divides to $91.94 a box and saves $234.29 against twelve singles, more than Triplet Beat's $223.15. The set is the first of the Scarlet & Violet era, released in Japan on January 20, 2023, with 108 cards, and its chase is the Gardevoir ex Special Art Rare at 101/078, which carried a $196.46 TCGplayer market price on November 3, 2026, or 1.76 times the box, and 48 percent of the set's value. One card decides this set, and this guide prices that fact instead of hiding it.",
+      "Who this is for: collectors who want the set that launched the Scarlet & Violet era in Japanese, sealed holders who divide the case before they pay, and buyers choosing between the twin launch sets who want the price gap stated plainly. Who it is not for: anyone chasing one named card, because the Gardevoir costs 1.76 times a box and no pull is guaranteed; anyone who wants the cheapest 30-pack box, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Scarlet ex (SV1S): box $111.46, case $1,103.23, Gardevoir ex SAR $196.46. The twin-set guide with every division shown.",
+    "metaTitle": "SV1S Scarlet ex: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second: SV1S rewards the buyer who gets the order right and punishes the one who does not. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 108-card set, so one box covers the main set once over with duplicates to trade, and the second box is mostly cards you already own. A sealed holder should buy the case, not twelve singles, because the case at $1,103.23 divides to $91.94 a box and saves $234.29 against twelve singles at $1,337.52, or $19.52 a box. A case splitter should do the same division before listing: every box out of this case starts $19.52 ahead. A single-card chaser should stop here and buy the Gardevoir instead: one card at $196.46 costs 1.76 times a box, and the box can hold no Gardevoir at all.",
+          "The chase is narrow, and that decides everything on this page. Scarlet ex came out in Japan on January 20, 2023, as the first half of the era's launch, paired with Violet ex on the same day. It prints 108 cards: a 78-card base set and a 30-card secret block of 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The set is Koraidon-themed, and Koraidon ex is the mascot chase, but the dearest card is not the mascot: the Gardevoir ex Special Art Rare at 101/078 carried a $196.46 TCGplayer market price on November 3, 2026, while the Koraidon ex Special Art Rare sits below it. The set is 46 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $234.29 gap",
+        "math": [
+          "SV1S box per pack: $111.46 / 30 = $3.72 per pack",
+          "SV1S box per card: $111.46 / 150 = $0.74 per card",
+          "SV1S case per box: $1,103.23 / 12 = $91.94 per box",
+          "SV1S case per pack: $1,103.23 / 360 = $3.06 per pack",
+          "SV1S case per card: $1,103.23 / 1,800 = $0.61 per card",
+          "SV1S twelve singles: 12 x $111.46 = $1,337.52",
+          "SV1S case saving: $1,337.52 - $1,103.23 = $234.29 across the case",
+          "SV1S saving per box: $234.29 / 12 = $19.52 per box",
+          "SV1S official box: Y5,400 / Y158.48 = $34.07; official pack Y180 / Y158.48 = $1.14",
+          "SV1S box vs official: $111.46 / $34.07 = 3.27x the official Japanese price",
+          "SV1S case box vs official: $91.94 / $34.07 = 2.70x the official Japanese price",
+          "Gardevoir ex SAR vs box: $196.46 / $111.46 = 1.76x the price of a box",
+          "Gardevoir vs complete set: $196.46 / $410.75 = 0.48 of the set's value",
+          "Complete set vs box: $410.75 / $111.46 = 3.69 boxes; 4 boxes cost 4 x $111.46 = $445.84",
+          "Complete set vs four boxes: $445.84 - $410.75 = $35.09 cheaper as singles",
+          "SV1S box vs SV1V box: $111.46 - $88.27 = $23.19 more; $111.46 / $88.27 = 1.26x",
+          "SV1S case vs SV1V case: $1,103.23 - $952.33 = $150.90 more",
+          "Gardevoir JP SAR vs EN SIR: $196.46 / $60.64 = 3.24x the English print",
+          "SV1S box vs Mask of Change: $111.46 - $111.46 = $0.00; the same price to the cent",
+          "SV1S box vs Clay Burst: $111.46 - $102.64 = $8.82 more per box",
+          "SV1S box vs Triplet Beat: $152.29 - $111.46 = $40.83 less per box"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV1S box](/product/scarlet-booster-box-sv1s/) is $111.46 for 30 packs of 5 cards, which is $3.72 per pack and $0.74 per card. That per-pack price sits mid-shelf: it ties Mask of Change at $3.72 to the cent, beats Clay Burst at $3.42, Crimson Haze at $3.57, and Snow Hazard at $3.16, and trails Triplet Beat and Ruler of Black Flame at $5.08. One box gives the main set once over and most of the secrets.",
+          "The case arithmetic is the reason to buy this set sealed, and this guide exists to print it. The [SV1S case](/product/sv1s-scarlet-ex-sealed-case-12-boxes-japanese-pokemon-card/) is $1,103.23 for 12 boxes: $91.94 a box, $3.06 a pack, $0.61 a card. Twelve single boxes cost $1,337.52, so the case saves $234.29 in total, or $19.52 a box. That beats Triplet Beat's case saving of $223.15, or $18.60 a box: a splitter who lists case boxes at the single-box price keeps $19.52 on every box before fees. Compare [Night Wanderer](/blog/sv6a-night-wanderer-buyers-guide/), whose case saves $196.81, or $16.40 a box, and [Clay Burst](/blog/sv2d-clay-burst-buyers-guide/), whose case saves only $28.81, or $2.40 a box.",
+          "The official price is the anchor the market has left behind. A box retailed at Y5,400 in Japan, which is $34.07 at Y158.48 to the dollar, and a pack at Y180 is $1.14. Our box at $111.46 is 3.27 times the official price, and the case-split box at $91.94 is 2.70 times it. That multiple is not a markup story: the print run ended in 2023, and every sealed box left is secondary stock. The comparison that matters is the twin: the Violet ex box is $88.27, so Scarlet costs $23.19 more per box, and the cases sit $150.90 apart."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer; the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the TCGplayer figures, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row and see the $19.52 margin, and single-card chasers scan the Gardevoir row and stop there.",
+          "Two rows decide more than the rest. The Gardevoir row decides the chaser: one card at $196.46 costs 1.76 times a box, and it holds 48 percent of the complete set's $410.75 value on its own, so the set has one expensive card and then a cliff. The twin row decides the buyer who wants both launch sets: Violet ex is $23.19 cheaper per box and $150.90 cheaper per case, so buy Violet first and Scarlet second, unless the Gardevoir is the card you want. The complete-set row decides the collector: all 108 cards as singles cost $410.75, or 3.69 boxes, and $35.09 less than four boxes at $445.84, so a collector who wants the set and not the gamble should buy singles."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV1S box",
+              "$111.46",
+              "30 packs, 150 cards",
+              "$111.46 / $3.72 / $0.74"
+            ],
+            [
+              "SV1S case",
+              "$1,103.23",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$91.94 / $3.06 / $0.61"
+            ],
+            [
+              "Gardevoir ex SAR single",
+              "$196.46 (TCGplayer market, Nov 3 2026)",
+              "1 card, the chase",
+              "1.76x a box; 48% of the set"
+            ],
+            [
+              "Complete set as singles",
+              "$410.75 (TCGplayer market, Nov 8 2026)",
+              "108 cards",
+              "3.69 boxes; $35.09 less than 4 boxes"
+            ],
+            [
+              "SV1V box (twin)",
+              "$88.27",
+              "30 packs, 150 cards",
+              "$88.27 / $2.94 / $0.59"
+            ],
+            [
+              "SV1V case (twin)",
+              "$952.33",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$79.36 / $2.65 / $0.53"
+            ],
+            [
+              "Mask of Change box",
+              "$111.46",
+              "30 packs, 150 cards",
+              "$111.46 / $3.72 / $0.74"
+            ],
+            [
+              "EN Scarlet & Violet route",
+              "No EN product on our shelf",
+              "Gardevoir ex SIR $60.64",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the twin-set price gap",
+        "note": "From the Warehouse: the question we get most about the twin launch sets is which one to buy first. Our answer never changes: buy the set whose mascot you want to pull, because the boxes cost $23.19 apart and the chase cards decide the rest. Most buyers who ask it buy the Scarlet box for the Gardevoir and the Violet box later for the Miriam, in that order.",
+        "paragraphs": [
+          "The top guides for this set are card lists and set tables: the set-code tables give the release date, the pack price, and the English twin, and the card-price pages list all 108 cards and name Gardevoir ex as the dearest card. None of them divides a shelf: none shows a case split, none runs the single-versus-box test, and none prices the twin gap of $23.19 per box and $150.90 per case. That division is the section this page owns, and it is the only part of the decision no card list can answer.",
+          "One more correction the lists do not make: the chase is not the mascot. Koraidon ex is the theme Pokemon, but the Gardevoir ex Special Art Rare at $196.46 costs more than the Koraidon ex Special Art Rare, and it holds 48 percent of the complete set's $410.75 value on its own, while the rest of the set is flat. The same discipline applies to the prices: every marketplace figure here carries its date, the shelf prices are stamped November 8, 2026, and the TCGplayer figures are stamped November 3 and November 8, 2026, so a reader who finds a different number later can tell which figure moved."
+        ]
+      },
+      {
+        "h": "The risk layer: one card holds 48% of the set",
+        "paragraphs": [
+          "The first risk is concentration: the Gardevoir at $196.46 is 48 percent of the complete set value of $410.75, so one card carries nearly half the set. A box that misses Gardevoir and the five SARs holds a Koraidon ex at best, and the rest of the set is bulk: most of the 108 cards carry a TCGplayer market price under $1.00. The second risk is the grading gap. A PSA 10 Gardevoir ex from the English set carried a $213.75 ninety-day sold median against a $60.64 raw price: grading pays only if the card comes back a 10, and the population of 10s is already large, so the slab is not scarce. The third risk is the reseal. A 46-month-old box with a $196.46 chase is exactly the product a resealer targets, so check the seal before opening, photograph the box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, because a reseal claim is only provable while the seal is intact.",
+          "The English overlap is the risk most buyers miss, because the same art costs far less in English. The English Gardevoir ex Special Illustration Rare from Scarlet & Violet carried a $60.64 TCGplayer market price on November 7, 2026, against $196.46 for the Japanese Special Art Rare, so the Japanese print costs 3.24 times the English one. Buy the Japanese card because you want the Japanese print, the 101/078 number, and the set it belongs to, not because you think the English price will follow it. And check the number on any listing before you pay: the set also prints a double-rare Gardevoir ex in the base set, worth under a dollar."
+        ]
+      },
+      {
+        "h": "Context: 108 cards, Koraidon, and the English twin",
+        "paragraphs": [
+          "The set is the launch set, and that explains its shape. Scarlet ex prints 108 cards: a 78-card base set and a 30-card secret block. The five SARs are the set in miniature: Koraidon ex and Gardevoir ex head them, with Professor Sada's Research as the Trainer SAR from this half of the pair. The secret block also holds the Koraidon ex Ultra Rare and the gold Hyper Rare, so value spreads across the tiers, even though Gardevoir sits above them all. The set was designed as the first Scarlet & Violet expansion, and that design is why the set is short, balanced, and flat outside its one card: it was made to launch an era, not to be chased.",
+          "The English twin is Scarlet & Violet, released March 31, 2023, about ten weeks after the Japanese release. It combines Scarlet ex and Violet ex into one 258-card English set, so a buyer who wants the English cards buys one product instead of two Japanese boxes. That is the trade: the Japanese boxes give you the 108-card set with the Gardevoir ex SAR at 101/078, and the English set gives you the same art across a larger checklist at lower prices. Japanese cards are not legal in English tournaments, so a player who buys SV1S for play has bought the wrong product; the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full. If you are buying to open, the question is whether you want 150 cards from a 108-card set or a share of a 258-card English set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Gardevoir ex Special Art Rare single at $196.46, which costs 1.76 times a box, or the Koraidon ex Special Art Rare if that is the card you want. Second, budget openers: at $3.72 a pack, SV1S is dearer than Clay Burst, Crimson Haze, and Snow Hazard, so a buyer who wants the cheapest 30-pack box should buy [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) at $2.83 a pack instead. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV1S for play has bought the wrong product, and the English Scarlet & Violet product is the one that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the launch set in Japanese and will open 30 packs of it, sealed holders who will buy the case at $91.94 a box knowing the saving is $19.52 a box, and buyers choosing between the twins who now know Scarlet costs $23.19 more per box than Violet. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Gardevoir ex SAR costs 1.76 times a box",
+          "If buying sealed, compare our box at $111.46 against the twin at $88.27 and decide whether the $23.19 is worth the Gardevoir chase",
+          "If buying the case, confirm the case price at checkout; $91.94 a box is the live shelf figure for November 8, 2026, and the saving is $19.52 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV1S buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV1S box you consider. It takes ten minutes and replaces a shelf of shop rankings with one division you can re-run yourself. Start with the buyer type, because the right format follows from it, and end with the seal check, because a 46-month-old box with a $196.46 chase is the product most worth verifying before you open it."
+        ]
+      }
+    ],
+    "slug": "sv1s-scarlet-ex-buyers-guide",
+    "takeaway": [
+      "The SV1S box at $111.46 sits mid-shelf at $3.72 a pack, and $0.74 a card, for 150 cards from a 108-card set. The case at $1,103.23 is the way to buy it sealed, at $91.94 a box and $3.06 a pack, saving $234.29 against twelve singles. The set is 108 cards, released January 20, 2023, and the chase is the Gardevoir ex Special Art Rare, which carried a $196.46 TCGplayer market price on November 3, 2026, or 1.76 times a box and 48 percent of the set's value.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of November 3 and November 8, 2026. No pull rate is guaranteed, and the box can hold zero Gardevoir cards. The twin box, Violet ex, is $88.27, so Scarlet costs $23.19 more: pay it for the Gardevoir chase, not for the cardboard.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Triplet Beat guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first subset the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the twin at $88.27 a box, with a case that saves $106.91, and the Miriam SAR at $77.77, or 0.88 times a box."
+    ]
+  },
+  "sv1v-violet-ex-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the cheaper twin of the Scarlet & Violet launch and accept $2.94 a pack, which is $0.59 a card for 150 cards from a 108-card set. The case is the better sealed buy at $79.36 a box, saving $106.91 against twelve singles. For profit, no: no box guarantees the Miriam Special Art Rare, which carried a $77.77 TCGplayer market price on November 7, 2026, or 0.88 times a box, and one collector estimate puts the Miriam at one pull in 500 to 700 packs. Open SV1V because you want the set, and buy the Miriam single if it is the only card you want.",
+        "q": "Is SV1V Violet ex worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (January 20, 2023), and the box standard is 30 packs. At our shelf price of $88.27, that is $2.94 per pack and $0.59 per card.",
+        "q": "How many packs are in an SV1V booster box?"
+      },
+      {
+        "a": "Buy the single if Miriam is the only card you want. One Miriam Special Art Rare carried a $77.77 TCGplayer market price on November 7, 2026, which is 0.88 times a box, and one collector estimate puts her pull at one in 500 to 700 packs, which is $1,470.00 to $2,058.00 of packs at our per-pack price. A box can hold no Miriam at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 108-card set and the chance at the whole secret block, and buy the case at $79.36 a box if you want to hold sealed.",
+        "q": "Should I buy the SV1V box or the Miriam SAR single?"
+      }
+    ],
+    "h1": "SV1V Violet ex: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV1V box at $88.27 to open Violet ex, and the case at $952.33 to hold it: the case divides to $79.36 a box and saves $106.91 against twelve singles. The set is the second half of the Scarlet & Violet era's launch, released in Japan on January 20, 2023, with 108 cards, and its chase is the Miriam Special Art Rare at 105/078, which carried a $77.77 TCGplayer market price on November 7, 2026, or 0.88 times the box. Violet is the cheaper twin by $23.19 a box, and this guide prices what that discount does and does not buy.",
+      "Who this is for: collectors who want the Miraidon half of the launch in Japanese, sealed holders who divide the case before they pay, and buyers choosing between the twin launch sets who want the price gap stated plainly. Who it is not for: anyone chasing one named card, because the Miriam costs 0.88 times a box and no pull is guaranteed; anyone who wants the cheapest 30-pack box, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Violet ex (SV1V): box $88.27, case $952.33, Miriam SAR $77.77. The twin-set guide with every division shown.",
+    "metaTitle": "SV1V Violet ex: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second: SV1V rewards the buyer who gets the order right. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 108-card set, so one box covers the main set once over, and the second box is mostly cards you already own. A sealed holder should buy the case, not twelve singles: the case at $952.33 divides to $79.36 a box and saves $106.91 against twelve singles at $1,059.24, or $8.91 a box. A case splitter should do the same division before listing: every box out of this case starts $8.91 ahead. A single-card chaser should stop here and buy the Miriam instead: one card at $77.77 costs 0.88 times a box, and the box can hold no Miriam at all.",
+          "The chase is wider than its twin, and that decides everything on this page. Violet ex came out in Japan on January 20, 2023, the second half of the era's launch, paired with Scarlet ex the same day. It prints 108 cards: a 78-card base set and a 30-card secret block of 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The set is Miraidon-themed, but the dearest card is not the mascot: the Miriam Special Art Rare at 105/078 carried a $77.77 TCGplayer market price on November 7, 2026, ahead of the Miraidon ex Special Art Rare at $46.69. The set is 46 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $106.91 gap",
+        "math": [
+          "SV1V box per pack: $88.27 / 30 = $2.94 per pack",
+          "SV1V box per card: $88.27 / 150 = $0.59 per card",
+          "SV1V case per box: $952.33 / 12 = $79.36 per box",
+          "SV1V case per pack: $952.33 / 360 = $2.65 per pack",
+          "SV1V case per card: $952.33 / 1,800 = $0.53 per card",
+          "SV1V twelve singles: 12 x $88.27 = $1,059.24",
+          "SV1V case saving: $1,059.24 - $952.33 = $106.91 across the case",
+          "SV1V saving per box: $106.91 / 12 = $8.91 per box",
+          "SV1V official box: Y5,400 / Y158.48 = $34.07; official pack Y180 / Y158.48 = $1.14",
+          "SV1V box vs official: $88.27 / $34.07 = 2.59x the official Japanese price",
+          "SV1V case box vs official: $79.36 / $34.07 = 2.33x the official Japanese price",
+          "Miriam SAR vs box: $77.77 / $88.27 = 0.88x the price of a box",
+          "Miraidon ex SAR vs box: $46.69 / $88.27 = 0.53x the price of a box",
+          "Miriam + Miraidon SAR vs box: $77.77 + $46.69 = $124.46; $124.46 / $88.27 = 1.41x the price of a box",
+          "Miriam PSA 10 vs raw: $275.00 / $77.77 = 3.54x; $275.00 - $77.77 = $197.23",
+          "Miriam pull estimate: 500 packs x $2.94 = $1,470.00; 700 packs x $2.94 = $2,058.00",
+          "SV1V box vs SV1S box: $111.46 - $88.27 = $23.19 less; $88.27 / $111.46 = 0.79x",
+          "SV1V case vs SV1S case: $1,103.23 - $952.33 = $150.90 less",
+          "SV1V box vs Battle Partners: $88.27 - $84.97 = $3.30 more per box",
+          "SV1V box vs Snow Hazard: $94.91 - $88.27 = $6.64 less per box",
+          "SV1V box vs Night Wanderer: $91.61 - $88.27 = $3.34 less per box"
+        ],
+        "paragraphs": [
+          "Start with the box: the [SV1V box](/product/violet-booster-box-sv1v/) is $88.27 for 30 packs of 5 cards, or $2.94 per pack and $0.59 per card. That per-pack price sits low on the shelf: cheaper than Snow Hazard at $3.16, Night Wanderer at $3.05, Clay Burst at $3.42, and Crimson Haze at $3.57, and only $3.30 above Battle Partners at $2.83, the cheapest 30-pack box we stock. One box gives the main set once over and most of the secrets.",
+          "The case arithmetic is the reason to buy this set sealed, and this guide exists to print it. The [SV1V case](/product/sv1v-violet-ex-sealed-case-12-boxes-japanese-pokemon-card/) is $952.33 for 12 boxes: $79.36 a box, $2.65 a pack, $0.53 a card. Twelve singles cost $1,059.24, so the case saves $106.91 in total, or $8.91 a box. That is smaller than its twin: Scarlet ex saves $234.29 a case, or $19.52 a box, because the Scarlet box starts higher. The Violet case is still a real discount: a splitter who lists case boxes at the single-box price keeps $8.91 on every box before fees. Compare [Night Wanderer](/blog/sv6a-night-wanderer-buyers-guide/), whose case saves $196.81, and [Clay Burst](/blog/sv2d-clay-burst-buyers-guide/), whose case saves only $28.81.",
+          "The official price is the anchor the market has left behind. A box retailed at Y5,400 in Japan, or $34.07 at Y158.48 to the dollar, and a pack at Y180 is $1.14. Our box at $88.27 is 2.59 times the official price, and the case-split box at $79.36 is 2.33 times it. That multiple is not a markup story: the print run ended in 2023, and every sealed box left is secondary stock. The comparison that matters is the twin: the Scarlet ex box is $111.46, so Violet costs $23.19 less per box, and the cases sit $150.90 apart."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer; the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the TCGplayer figures, which are dated. Read the table by buyer type: openers scan the per-pack row, holders scan the case row and see the $8.91 margin, and single-card chasers scan the Miriam row and stop there.",
+          "Two rows decide more than the rest. The Miriam row decides the chaser: one card at $77.77 costs 0.88 times a box, and one collector estimate puts her pull at one in 500 to 700 packs, or $1,470.00 to $2,058.00 of packs, against $77.77 for the single. The twin row decides the buyer who wants both launch sets: Scarlet ex is $23.19 dearer per box and $150.90 dearer per case, so buy Violet first and Scarlet second, unless the Gardevoir is the card you want. The two-chase row decides the opener: Miriam at $77.77 plus Miraidon ex at $46.69 is $124.46, or 1.41 times a box, so the top two cards together cost more than the box that might hold them."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV1V box",
+              "$88.27",
+              "30 packs, 150 cards",
+              "$88.27 / $2.94 / $0.59"
+            ],
+            [
+              "SV1V case",
+              "$952.33",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$79.36 / $2.65 / $0.53"
+            ],
+            [
+              "Miriam SAR single",
+              "$77.77 (TCGplayer market, Nov 7 2026)",
+              "1 card, the chase",
+              "0.88x a box; 1 in 500-700 packs (est.)"
+            ],
+            [
+              "Miraidon ex SAR single",
+              "$46.69 (TCGplayer market, Nov 7 2026)",
+              "1 card, mascot chase",
+              "0.53x a box"
+            ],
+            [
+              "Miriam + Miraidon SAR",
+              "$124.46 (TCGplayer market, Nov 7 2026)",
+              "2 cards, top of the set",
+              "1.41x a box"
+            ],
+            [
+              "SV1S box (twin)",
+              "$111.46",
+              "30 packs, 150 cards",
+              "$111.46 / $3.72 / $0.74"
+            ],
+            [
+              "SV1S case (twin)",
+              "$1,103.23",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$91.94 / $3.06 / $0.61"
+            ],
+            [
+              "Battle Partners box",
+              "$84.97",
+              "30 packs, 150 cards",
+              "$84.97 / $2.83 / $0.57"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the cheaper twin is the better opener",
+        "note": "From the Warehouse: the question we get most about Violet ex is whether the Miriam is really in this box. It is, 105/078, and it is the only card in either twin set that costs almost a whole box on its own. Our answer in chat is the one on this page: the single is $77.77, the box is $88.27, and the gap between them is $10.50, so buy the single if Miriam is the only card you want.",
+        "paragraphs": [
+          "The top guides for this set are card lists and set tables: the set-code tables give the release date, the pack price, and the English twin, and the card-price pages list all 108 cards and name Miriam as the dearest card. The Miriam guides price the single and the PSA 10, but none of them divides a shelf: none shows a case split, none runs the single-versus-box test, and none prices the twin gap of $23.19 per box and $150.90 per case. That division is the section this page owns.",
+          "One more correction the lists do not make: the cheaper twin is the better opener, not the worse set. Violet ex costs $23.19 less per box than Scarlet ex, $2.94 a pack against $3.72, and its two chase cards together cost $124.46, or 1.41 times a box, while Scarlet's one chase card costs $196.46, or 1.76 times a box. Value in Violet spreads across two cards instead of sitting on one, and the box is cheaper, so the opener's downside is smaller on every line. The same discipline applies to the prices: every marketplace figure carries its date, the shelf prices are stamped November 8, 2026, and the TCGplayer figures November 7, 2026, so a reader who finds a different number later can tell which figure moved."
+        ]
+      },
+      {
+        "h": "The risk layer: the Miriam gap, the grading gap, and the English overlap",
+        "paragraphs": [
+          "The first risk is the pull. One collector estimate puts the Miriam Special Art Rare at one pull in 500 to 700 packs, which is $1,470.00 to $2,058.00 of packs at our $2.94 per-pack price, against $77.77 for the single. That estimate is not an official rate, because the Pokemon Company publishes no pull rates for this set, and it is why the single-versus-box test matters more here than in any other guide on the shelf: the box is $88.27 and the card is $77.77, a gap of $10.50, so the box only wins if you want the other 149 cards too. The second risk is the grading gap. A PSA 10 Miriam carried a $275 CardZ reference price on November 8, 2026, against $77.77 raw, or 3.54 times the raw price: grading pays only if the card comes back a 10, and 10,894 tens already exist, so the slab is not scarce. The third risk is the reseal. A 46-month-old box with a $77.77 chase is exactly the product a resealer targets, so check the seal, photograph the box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything: a reseal claim is only provable while the seal is intact.",
+          "The English overlap is the risk most buyers miss, because the same art costs far less in English. The English Miraidon ex Special Illustration Rare carried an $18.27 recorded TCGplayer market figure on November 7, 2026, against $46.69 for the Japanese Special Art Rare, so the Japanese print costs about 2.56 times the English one. Buy the Japanese card because you want the Japanese print, the 102/078 number, and the set it belongs to. And check the number on any listing before you pay: the set also prints Miriam as a regular uncommon at 077/078 and as a Super Rare at 100/078, both worth far less than the 105/078 Special Art Rare."
+        ]
+      },
+      {
+        "h": "Context: 108 cards, Miraidon, and the English twin",
+        "paragraphs": [
+          "The set is the launch set, and that explains its shape. Violet ex prints 108 cards: a 78-card base set and a 30-card secret block. The five SARs are the set in miniature: Miraidon ex and Miriam head them, with Professor Turo's Research as the Trainer SAR from this half of the pair, and Arven debuted in this set alongside Miriam. The secret block also holds the Miraidon ex Ultra Rare and the gold Hyper Rare, so value spreads across the tiers, even though Miriam sits above them all. The set was designed as the first Scarlet & Violet expansion, and that is why it is short, balanced, and flat outside its two cards.",
+          "The English twin is Scarlet & Violet, released March 31, 2023, about ten weeks after the Japanese release. It combines Scarlet ex and Violet ex into one 258-card English set, so an English buyer buys one product instead of two Japanese boxes. That is the trade: the Japanese boxes give you the 108-card set with the Miriam SAR at 105/078, and the English set gives you the same art across a larger checklist at lower prices. Japanese cards are not legal in English tournaments, so a player who buys SV1V for play has bought the wrong product; the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full. If you are buying to open, the question is whether you want 150 cards from a 108-card set or a share of a 258-card English one."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card. The right move is the Miriam Special Art Rare single at $77.77, which costs 0.88 times a box, or the Miraidon ex Special Art Rare at $46.69 if that is the card you want. Second, budget openers: at $2.94 a pack, SV1V is dearer than Battle Partners at $2.83, so a buyer who wants the cheapest 30-pack box should buy [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) instead. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV1V for play has bought the wrong product; the English Scarlet & Violet product is the one that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the launch set in Japanese and will open 30 packs of it, sealed holders who will buy the case at $79.36 a box knowing the saving is $8.91 a box, and buyers choosing between the twins who now know Violet costs $23.19 less per box than Scarlet. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Miriam SAR costs 0.88 times a box",
+          "If buying sealed, compare our box at $88.27 against the twin at $111.46 and decide whether the $23.19 saving is worth the Miraidon chase",
+          "If buying the case, confirm the case price at checkout; $79.36 a box is the live shelf figure for November 8, 2026, and the saving is $8.91 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV1V buying checklist",
+        "paragraphs": [
+          "Run this before the next SV1V box you consider. It takes ten minutes and replaces a shelf of shop rankings with one division you can re-run yourself. Start with the buyer type, because the right format follows from it, and end with the seal check, because a 46-month-old box with a $77.77 chase is the product most worth verifying before you open it."
+        ]
+      }
+    ],
+    "slug": "sv1v-violet-ex-buyers-guide",
+    "takeaway": [
+      "The SV1V box at $88.27 sits low on the 30-pack shelf at $2.94 a pack, and $0.59 a card, for 150 cards from a 108-card set. The case at $952.33 is the sealed buy: $79.36 a box and $2.65 a pack, saving $106.91 against twelve singles. The set is 108 cards, released January 20, 2023, and the chase is the Miriam Special Art Rare, which carried a $77.77 market price on November 7, 2026, or 0.88 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of November 7 and November 8, 2026. No pull rate is guaranteed, and the box can hold zero Miriam cards. The twin box, Scarlet ex, is $111.46, so Violet costs $23.19 less per box: pay the saving for the Miraidon chase.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Triplet Beat guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first subset the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices the twin at $111.46 a box, with a case that saves $234.29, and the Gardevoir ex SAR at $196.46, or 1.76 times a box, holding 48 percent of the set's value."
     ]
   },
   "sv2a-pokemon-151-buyers-guide": {
