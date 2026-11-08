@@ -5258,7 +5258,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the cheapest box on this shelf in depth, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) prices the $70.62 box, the $87.35-a-box case trap, and the Mega Zygarde ex chase.",
       "For the whole shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices with every case beside them, and the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase.",
       "New this cycle: the [best Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) ranks the pack as a pack — cheapest $2.35, cheapest card $0.47 — instead of ranking boxes.",
-      "For the newest set in depth, the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the $183.18 box, the Deluxe premium, and the $82.64-a-box case."
+      "For the newest set in depth, the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the $183.18 box, the Deluxe premium, and the $82.64-a-box case.",
+      "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the dearest 30-pack main set on our shelf at $5.08 a pack, box $152.29, case $1,454.15."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -6005,7 +6006,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Buying in bulk to resell rather than hold? [Japanese Pokemon cards wholesale](/blog/japanese-pokemon-cards-wholesale-buyers-guide/) divides the reseller ladder case by case, including the M3 case that costs more per box than singles.",
       "For the single-box side of the same shelf, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every box by buyer, including the M3 case trap this guide prices and the SV11 case saving.",
       "For the same shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices, with every case beside them — including the M3 and SV5a cases that cost more per box than singles.",
-      "For the case question in depth, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) divides a 20-box case to $136.16 a box, saving $543.24, and the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) divides its case to $92.93 a box, saving $436.84."
+      "For the case question in depth, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) divides a 20-box case to $136.16 a box, saving $543.24, and the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) divides its case to $92.93 a box, saving $436.84.",
+      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) divides a 12-box case at $952.33, or $79.36 a box, saving $67.31 against twelve singles."
     ]
   },
   "best-japanese-pokemon-special-set-to-buy": {
@@ -6171,7 +6173,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The best Japanese Pokemon special set is the one whose type matches your reason. The Gallade set at $21.18 is the cheapest themed entry. The Tohoku box at $161.70 is the cheapest regional collector's box, and the $53.52 gap to Hiroshima buys a region, not contents. The Anniversary Collection set at $476.16 is the mid-point sealed position, and the Golden Box at $2,192.35 is a different budget for a different buyer. Name the type, check the contents line, and let the shelf's own prices choose.",
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026, with third-party market estimates dated April 2026 where quoted. When the next special set arrives, ask first whether it holds packs at all, because that one answer changes what the price buys.",
       "Still deciding between special sets and boxes? The [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices the pack route, the [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) guide prices the playable route, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a sealed box lands. If grading is part of the plan, the [PSA grading guide for Japanese cards](/blog/psa-grading-japanese-cards-worth-it/) prices that step before you commit.",
-      "For the ETB question in depth, the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers it honestly: Japan never made an ETB, the English box is $49.99 for 9 packs, and the Japanese case divides to $4.13 a pack."
+      "For the ETB question in depth, the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers it honestly: Japan never made an ETB, the English box is $49.99 for 9 packs, and the Japanese case divides to $4.13 a pack.",
+      "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the High Class Pack the same way, box $141.24 against a case that saves $518.70."
     ]
   },
   "best-japanese-pokemon-starter-deck-to-buy": {
@@ -13861,7 +13864,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The M2a box at $114.77 is the middle of the MEGA line at $11.48 a pack, but $1.15 a card, cheaper per card than M2 at $1.83, because the pack holds ten cards instead of five. The case at $1,858.56 is the way to buy it sealed, at $92.93 a box and $9.29 a pack, saving $436.84 against twenty singles. The set is 250 cards, released November 28, 2025, and the chase is the Mega Gengar ex SAR, which alone costs about $207 as a raw single.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace asks as of November 5, 2026. The Mega Attack Rare is new with this set and is not the chase tier: the SAR at 240/193 is the expensive Gengar, and the MA at 230/193 is the cheaper one, so buy by card number.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [M2 Inferno X guide](/blog/m2-inferno-x-buyers-guide/) prices the standard expansion M2a sits beside. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the other high-class pack the same way, box $163.32 against a case that saves $543.24, with the Umbreon ex SAR at $372.02 on its own."
+      "New this cycle: the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the other high-class pack the same way, box $163.32 against a case that saves $543.24, with the Umbreon ex SAR at $372.02 on its own.",
+      "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the other High Class Pack the same way, box $141.24 against a case that saves $518.70, with the Mew ex SAR at $272.15 on its own."
     ]
   },
   "m3-munikis-zero-buyers-guide": {
@@ -19592,7 +19596,556 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV2a box at $471.20 is the dearest box on our shelf at $23.56 a pack, and the case at $3,809.32 is the way to buy it sealed, at $317.44 a box and $15.87 a pack, saving $1,845.08 against twelve singles, the largest case saving on the shelf. The set is 210 cards, released June 16, 2023, and the chase is the starter-trio SAR cards, Mew ex, Erika's Invitation SAR, and the Master Ball mirrors, with the Gengar mirror asking more than the box itself.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace asks as of October 2, 2026. The reprint notice is the fact that outlives every price on this page: the publisher has printed more before, and sealed supply can grow again.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks the shelf by value. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the newest set the same way, box $183.18 against a case that saves $100.54 a box, with the Deluxe pack divided beside them."
+      "New this cycle: the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the newest set the same way, box $183.18 against a case that saves $100.54 a box, with the Deluxe pack divided beside them.",
+      "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the other Charizard-chase set, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own."
+    ]
+  },
+  "sv3-ruler-of-black-flame-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Dark Tera Charizard set in Japanese and accept $5.08 a pack, which is $1.02 a card for 150 cards from a 141-card set. The case is the better sealed buy at $121.18 a box, saving $373.33 against twelve singles. For profit, no: no box guarantees the Charizard ex SAR, which carries a $130.09 ask on its own, 0.85 times a box, so even pulling it loses money against the box price. Open SV3 because you want the set, and buy the Charizard ex single if it is the only card you want.",
+        "q": "Is SV3 Ruler of Black Flame worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (July 28, 2023), and the box standard is 30 packs. At our shelf price of $152.29, that is $5.08 per pack and $1.02 per card.",
+        "q": "How many packs are in an SV3 booster box?"
+      },
+      {
+        "a": "Buy the single if Charizard ex is the only card you want. One Charizard ex SAR carried a ¥20,555 lowest ask on October 5, 2026, about $130.09, which is 0.85 times a box and less than a box at $152.29. A box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 141-card set and the chance at the whole secret block, and buy the case at $121.18 a box if you want to hold sealed.",
+        "q": "Should I buy the SV3 box or the Charizard ex SAR single?"
+      }
+    ],
+    "h1": "SV3 Ruler of Black Flame: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV3 box at $152.29 if you want to open Ruler of Black Flame, and buy the case at $1,454.15 if you want to hold or split it at $121.18 a box. The honest headline is the one no other guide prints: our box costs $55.14 more than the cheapest Japanese secondary ask, so you are paying for sealed stock from Japan, not the lowest yen price. The chase is the Charizard ex SAR, which carried a ¥20,555 lowest ask on October 5, 2026, about $130.09, or 0.85 times a box, which means the single costs less than the box that might hold it.",
+      "Who this is for: collectors who want the Dark Tera Charizard set in Japanese, buyers choosing between a Japanese box and an English Obsidian Flames ETB, and sealed holders who divide the case before they pay. Who it is not for: anyone chasing one named card to pay for the box, because the Charizard ex SAR costs less than a box and no pull is guaranteed; anyone who wants the cheapest sealed Pokemon on the shelf, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Ruler of Black Flame (SV3) from one store: box $152.29, case $1,454.15, $121.18 a box in a case, and the Charizard ex SAR priced honestly.",
+    "metaTitle": "SV3 Ruler of Black Flame: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV3 punishes the buyer who gets the order backwards. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 141-card set, so one box covers the set with duplicates to trade. A sealed holder should buy the case, because the case splits to $121.18 a box against $152.29 for a single box, a $373.33 saving across 12 boxes. A case splitter should do the same division before listing, because the $31.11 saved per box is the margin. A single-card chaser should stop here and buy the Charizard ex SAR instead, because one card at $130.09 costs less than a box at $152.29, and the box can hold no SAR at all: SV3 is the rare set where chasing the box for one card loses money even if you pull it.",
+          "The set is built on one card and the chase is narrow, and that combination decides everything on this page. Ruler of Black Flame came out in Japan on July 28, 2023, as an Expansion Pack, and it prints 141 cards: a 108-card base set and a 33-card secret block of 12 Art Rares, 12 Super Rares, 6 Special Art Rares, and 3 Ultra Rares. The six SARs are Eiscue ex, Charizard ex, Revavroom ex, Pidgeot ex, Geeta, and Poppy, and the Charizard ex SAR, illustrated by AKIRA EGAWA, is the card the whole set is priced around. The rest of the set is bulk that trades for a dollar or less, and the set is 39 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $373.33 gap",
+        "math": [
+          "SV3 box per pack: $152.29 ÷ 30 = $5.08 per pack",
+          "SV3 box per card: $152.29 ÷ 150 = $1.02 per card",
+          "SV3 case per box: $1,454.15 ÷ 12 = $121.18 per box",
+          "SV3 case per pack: $1,454.15 ÷ 360 = $4.04 per pack",
+          "SV3 case per card: $1,454.15 ÷ 1,800 = $0.81 per card",
+          "SV3 twelve singles: 12 × $152.29 = $1,827.48",
+          "SV3 case saving: $1,827.48 − $1,454.15 = $373.33 across the case",
+          "SV3 saving per box: $373.33 ÷ 12 = $31.11 per box",
+          "SV3 official box: ¥5,400 ÷ ¥158 = $34.18; official pack ¥180 ÷ ¥158 = $1.14",
+          "SV3 box vs official: $152.29 ÷ $34.18 = 4.46x the official Japanese price",
+          "SV3 case box vs official: $121.18 ÷ $34.18 = 3.55x the official Japanese price",
+          "Charizard ex SAR vs box: $130.09 ÷ $152.29 = 0.85x the price of a box",
+          "Charizard ex SAR vs case box: $130.09 ÷ $121.18 = 1.07x the price of a case-split box",
+          "Charizard ex SAR PSA 10 vs box: $373.42 ÷ $152.29 = 2.45x the price of a box",
+          "SV3 box vs Japan ask: $152.29 − $97.15 = $55.14 above the Oct 5, 2026 SNKRDUNK lowest ask",
+          "SV3 case box vs Japan ask: $121.18 − $97.15 = $24.03 above the same ask",
+          "SV9 box per pack: $84.97 ÷ 30 = $2.83 per pack; SV3 box costs $152.29 − $84.97 = $67.32 more",
+          "SV2D box per pack: $102.64 ÷ 30 = $3.42 per pack; SV3 box costs $152.29 − $102.64 = $49.65 more",
+          "SV4K box per pack: $91.61 ÷ 30 = $3.05 per pack; SV3 box costs $152.29 − $91.61 = $60.68 more",
+          "English ETB per pack: $49.99 ÷ 9 = $5.55 per pack; SV3 box costs $5.55 − $5.08 = $0.47 less per pack"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV3 box](/product/sv3-ruler-of-black-flame-booster-box-japanese-pokemon-card/) is $152.29 for 30 packs of 5 cards, which is $5.08 per pack and $1.02 per card. That per-pack price is the dearest of the 30-pack main sets on our shelf: dearer than Battle Partners at $2.83 a pack, Ancient Roar at $3.05, and Clay Burst at $3.42, and the reason is one card. The box is 150 cards from a 141-card set, so the arithmetic of the set is duplication: one box gives the main set and most of the secrets, and the second box is mostly cards you already own.",
+          "The case arithmetic is the largest saving on the page in dollars and the most ordinary in percentage. The [SV3 case](/product/sv3-ruler-of-black-flame-sealed-case-12-boxes-japanese-pokemon-card/) is $1,454.15 for 12 boxes, which divides to $121.18 a box, $4.04 a pack, and $0.81 a card. Twelve single boxes cost $1,827.48, so the case saves $373.33, or $31.11 per box, a 20% discount. That is the sealed-holder number: if you are buying 12 boxes, the case is the only way to buy them, and the $373.33 is the difference between holding and overpaying.",
+          "The neighboring shelf puts SV3 in its price band, and it starts with the set that came two years later. [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) is $84.97 a box, $2.83 a pack, which makes SV3 $67.32 more per box for a set two years older with a dearer chase. Clay Burst is $102.64 a box, $3.42 a pack, so SV3 sits $49.65 above it per box. [Ancient Roar](/blog/japanese-pokemon-booster-box-price/) is $91.61 a box, $3.05 a pack, so SV3 sits $60.68 above it per box. ",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,400 in Japan, which is $34.18 at ¥158 to the dollar, and a pack at ¥180 is $1.14. Our box at $152.29 is 4.46 times the official price, and even the case-split box at $121.18 is 3.55 times it. That multiple is not a markup story: the print run ended in 2023, the set is 39 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2023 retail, but our price against the cheapest sealed box in Japan today, and that is where the next section starts. The English Obsidian Flames ETB retails at $49.99 for 9 packs, or $5.55 a pack, so our Japanese box at $5.08 a pack is $0.47 cheaper per pack than the English ETB."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, so the table keeps to eight and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the Japan ask and the chase card, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row, and single-card chasers scan the Charizard ex SAR row and stop there, because the single costs less than the box.",
+          "Read the Japan ask row carefully, because it is the row that decides whether our price is fair. The lowest ask for a sealed SV3 box on SNKRDUNK was ¥15,350 on October 5, 2026, which is $97.15 at ¥158 to the dollar. Our box at $152.29 is $55.14 above it, and our case-split box at $121.18 is $24.03 above it. An ask is not a sale, and it is not a landed price: it carries no international shipping, no import handling, and no guarantee the seller ships sealed stock to your country. What you pay for on our shelf is a sealed box from Japan in one parcel with one tracking number, and the $55.14 is the price of that. If the cheapest yen price is the goal, the secondary market wins, and this guide says so plainly. "
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV3 box",
+              "$152.29",
+              "30 packs, 150 cards",
+              "$152.29 / $5.08 / $1.02"
+            ],
+            [
+              "SV3 case",
+              "$1,454.15",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$121.18 / $4.04 / $0.81"
+            ],
+            [
+              "Charizard ex SAR single",
+              "$130.09 (¥20,555 ask, Oct 5 2026)",
+              "1 card, the chase",
+              "0.85x a box"
+            ],
+            [
+              "Japan secondary box",
+              "$97.15 (¥15,350 ask, Oct 5 2026)",
+              "1 sealed box, ask not a sale",
+              "$55.14 less than our box"
+            ],
+            [
+              "SV9 box",
+              "$84.97",
+              "30 packs, 150 cards",
+              "$84.97 / $2.83 / $0.57"
+            ],
+            [
+              "SV2D box",
+              "$102.64",
+              "30 packs, 150 cards",
+              "$102.64 / $3.42 / $0.68"
+            ],
+            [
+              "SV4K box",
+              "$91.61",
+              "30 packs, 150 cards",
+              "$91.61 / $3.05 / $0.61"
+            ],
+            [
+              "Obsidian Flames EN route",
+              "$49.99 ETB MSRP, 9 packs",
+              "No EN product on our shelf",
+              "$5.55 / pack"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about SV3 is whether to buy the box or the Charizard single. The answer we give in chat is the one on this page: the single costs less than the box, so buy the single if Charizard is the only card you want, and buy the box only if you want the set. Most buyers who ask it buy the single.",
+        "paragraphs": [
+          "The top results for this query are an ETB-versus-box comparison, a buying guide, and a set list, and none of them divides a price from a store shelf. The first compares the English Obsidian Flames ETB against the Japanese box and stops at another store's listing. The second lists the chase cards with dated SNKRDUNK asks and stops at the Charizard ex SAR. The third runs the whole SV era in order with release dates and card counts. All three are useful, and none of them answers the question a buyer actually has: what does a box cost from the store in front of you, what does the case save, and is the box worth more than the single.",
+          "That gap hides three findings. First, the single-versus-box inversion is missing: no top guide says the Charizard ex SAR at $130.09 costs less than the box at $152.29, which is the fact that ends the chase-the-box argument before it starts. Second, the case split is missing: no guide shows that 12 SV3 boxes cost $1,454.15, or $121.18 a box, which is the number that decides a sealed hold. Third, the grading spread is missing: no guide says the raw Charizard ex SAR asks ¥20,555 while the PSA 10 asks ¥59,000, or $373.42, which is 2.45 times a box, so the grade is worth more than the box and the raw card is worth less than it. This page prints all three, because a buyer who sees them makes a better decision than a buyer who does not."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card set, the reprint, and the English overlap",
+        "paragraphs": [
+          "The first risk is the chase, and it is the whole set. The Charizard ex SAR carried a ¥20,555 lowest ask on October 5, 2026, about $130.09, and the PSA 10 carried a ¥59,000 ask on the same date, about $373.42, with a CardZ reference price of $449 from completed sales on November 7, 2026. The raw card costs less than a box and the graded card costs more than two boxes,  A box bought to chase Charizard ex is a bet that pays $152.29 for a chance at a $130.09 card, and the box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set.",
+          "The second risk is the reprint, and it is the quiet one. SV3 is 39 months old, the print run is done, and the $152.29 box price is secondary-market pricing, not retail. A reprint would cut the sealed price, and a sealed box held for a year is a bet that no reprint comes. The third risk is the English overlap, and it cuts both ways: the same Charizard ex art exists in English as the 223/197 Special Illustration Rare in Obsidian Flames, which is legal in English events while the Japanese single is not, and the English ETB at $5.55 a pack is dearer per pack than our Japanese box at $5.08. A buyer who wants the art in English pays more per pack for the ETB and gets a legal card; a buyer who wants the Japanese box pays less per pack and gets a card that is not. The fourth risk is the reseal: a box at 4.46 times its official price is worth faking, so check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is intact. Our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what a factory seal looks like and what a reseal looks like."
+        ]
+      },
+      {
+        "h": "Context: 141 cards, Dark Tera, and the English twin",
+        "paragraphs": [
+          "The set earns its price on structure, not on one card. SV3 prints 108 base cards and 33 secret cards, 141 in total, and the secret block is 12 Art Rares, 12 Super Rares, 6 Special Art Rares, and 3 Ultra Rares. The set introduced the Dark Tera mechanic: the Charizard ex is a Dark-type Pokemon that uses Fire Energy, the first Tera Pokemon of a type different from its usual one,  One box holds 150 cards, so even a perfect box with no duplicates covers the set once and leaves the secrets to chance. Buy SV3 to open the Charizard set, not to complete it from boxes.",
+          "One more context fact, because it decides purchases: the Japanese set and the English set are different products with different sizes. Obsidian Flames came out in English on August 11, 2023, two weeks after SV3, and it prints over 190 cards against the Japanese 141, because the English set blends SV3 with cards from elsewhere. The English booster holds 10 cards against the Japanese 5, and the English Charizard ex SIR is a different number, 223/197, from the Japanese SAR, 134/108. We carry no Obsidian Flames product on our shelf, so the English route is the secondary market, not us. If you want the same art in English, buy Obsidian Flames singles; if you want the Japanese source set, buy the SV3 box. The two products share cards and share nothing else."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Charizard ex SAR single at $130.09, which costs less than a box. Second, budget openers: at $5.08 a pack, SV3 is the dearest 30-pack main set on our shelf, and [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) costs $2.83 a pack for 30 packs of a newer set. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV3 for play has bought the wrong product, and our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full.",
+          "Who this guide is for, restated plainly: collectors who want the Dark Tera Charizard set in Japanese and will open 30 packs of it, sealed holders who will buy the case at $121.18 a box, and buyers choosing between the Japanese box and the English Obsidian Flames ETB who now know the Japanese box is $0.47 cheaper per pack. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Charizard ex SAR costs 0.85 times a box",
+          "If buying sealed, compare our box at $152.29 against the Japan ask at $97.15 and decide whether the $55.14 is worth sealed stock from Japan in one parcel",
+          "If buying the case, confirm the case price at checkout; $121.18 a box is the live shelf figure for November 8, 2026",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV3 buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV3 box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision you can defend: the buyer type, the division, the single-versus-box test, the Japan ask comparison, and the seal check. Skip any step and you are guessing, and SV3 at $5.08 a pack is too expensive to guess on."
+        ]
+      }
+    ],
+    "slug": "sv3-ruler-of-black-flame-buyers-guide",
+    "takeaway": [
+      "The SV3 box at $152.29 is the dearest 30-pack main set on our shelf at $5.08 a pack, but $1.02 a card, for 150 cards from a 141-card set. The case at $1,454.15 is the way to buy it sealed, at $121.18 a box and $4.04 a pack, saving $373.33 against twelve singles. The set is 141 cards, released July 28, 2023, and the chase is the Charizard ex SAR, which carried a ¥20,555 lowest ask on October 5, 2026, about $130.09, or 0.85 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, October 5 and November 7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $97.15, so our box costs $55.14 more, and the case-split box costs $24.03 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Pokemon 151 guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the other Charizard-chase set the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase on our shelf, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own."
+    ]
+  },
+  "sv4a-shiny-treasure-ex-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want shiny Pokemon in Japanese and accept $14.12 a pack, which is $1.41 a card with a Pokemon ex guaranteed in every pack. The case is the better sealed buy at $115.31 a box, saving $518.70 against twenty singles. For profit, no: no box guarantees the Mew ex SAR, which carries a ¥43,000 ask on its own, 1.93 times a box, and that card fell 21.82% from March to October 2026. Open SV4a because you want shiny cards, and buy the Mew ex single if it is the only card you want.",
+        "q": "Is SV4a Shiny Treasure ex worth buying?"
+      },
+      {
+        "a": "A box holds 10 packs of 10 cards, 100 cards in total, at an official retail of 5,500 yen. The official product page prints the pack price (550 yen) and the cards per pack (10) and the release date (December 1, 2023), and the box standard is 10 packs. At our shelf price of $141.24, that is $14.12 per pack and $1.41 per card, with a Pokemon ex guaranteed in every pack.",
+        "q": "How many packs are in an SV4a booster box?"
+      },
+      {
+        "a": "Buy the single if Mew ex is the only card you want. One Mew ex SAR carried a ¥43,000 lowest ask on October 7, 2026, about $272.15, which is 1.93 times a box and less than two boxes at $282.48. A box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 100 shiny-era cards and the chance at the whole secret block, and buy the case at $115.31 a box if you want to hold sealed.",
+        "q": "Should I buy the SV4a box or the Mew ex SAR single?"
+      }
+    ],
+    "h1": "SV4a Shiny Treasure ex: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV4a box at $141.24 if you want to open Shiny Treasure ex, and buy the case at $2,306.10 if you want to hold or split it at $115.31 a box. The honest headline is the one no other guide prints: our box costs $41.24 more than the cheapest Japanese secondary ask, so you are paying for sealed stock from Japan, not the lowest yen price. The chase is the Mew ex SAR, which carried a ¥43,000 lowest ask on October 7, 2026, about $272.15, or 1.93 times a box.",
+      "Who this is for: collectors who want shiny Pokemon in Japanese, buyers choosing between a Japanese box and an English Paldean Fates product, and sealed holders who divide the case before they pay. Who it is not for: anyone chasing one named card to pay for the box, because the Mew ex SAR costs nearly two boxes and no pull is guaranteed; anyone who wants the cheapest sealed Pokemon on the shelf, because Heat Wave Arena costs less per pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Shiny Treasure ex (SV4a) from one store: box $141.24, case $2,306.10, $115.31 a box in a case, and the Mew ex SAR priced honestly.",
+    "metaTitle": "SV4a Shiny Treasure ex: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV4a punishes the buyer who gets the order backwards. A collector who wants shiny cards should open the box: every pack holds 10 cards and guarantees one Pokemon ex, so 10 packs give 100 cards with 10 guaranteed ex cards, and the secret block is 170 cards deep. A sealed holder should buy the case, because the case splits to $115.31 a box against $141.24 for a single box, a $518.70 saving across 20 boxes. A case splitter should do the same division before listing, because the $25.94 saved per box is the margin. A single-card chaser should stop here and buy the Mew ex SAR instead, because one card at $272.15 costs less than two boxes at $282.48 and the box can hold no SAR at all.",
+          "The pack guarantee is the reason this set still sells three years after release. Shiny Treasure ex came out in Japan on December 1, 2023, as a High Class Pack, the year-end high-rarity release, and it prints 360 cards: a 190-card base set and a 170-card secret block. The secret block breaks into 129 Shiny Rare cards, 18 SSR, 4 Art Rares, 5 Super Rares, 8 Special Art Rares, and 6 Ultra Rares. That structure is the whole product: a box is 100 cards drawn from a 360-card set, so one box can never complete it, and the chase is concentrated in 8 SAR cards led by Mew ex, Charizard ex, and Gardevoir ex."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $518.70 gap",
+        "math": [
+          "SV4a box per pack: $141.24 ÷ 10 = $14.12 per pack",
+          "SV4a box per card: $141.24 ÷ 100 = $1.41 per card",
+          "SV4a case per box: $2,306.10 ÷ 20 = $115.31 per box",
+          "SV4a case per pack: $2,306.10 ÷ 200 = $11.53 per pack",
+          "SV4a case per card: $2,306.10 ÷ 2,000 = $1.15 per card",
+          "SV4a twenty singles: 20 × $141.24 = $2,824.80",
+          "SV4a case saving: $2,824.80 − $2,306.10 = $518.70 across the case",
+          "SV4a saving per box: $518.70 ÷ 20 = $25.94 per box",
+          "SV4a official box: ¥5,500 ÷ ¥158 = $34.81; official pack ¥550 ÷ ¥158 = $3.48",
+          "SV4a box vs official: $141.24 ÷ $34.81 = 4.06x the official Japanese price",
+          "SV4a case box vs official: $115.31 ÷ $34.81 = 3.31x the official Japanese price",
+          "Mew ex SAR vs box: $272.15 ÷ $141.24 = 1.93x the price of a box",
+          "Mew ex SAR vs case box: $272.15 ÷ $115.31 = 2.36x the price of a case-split box",
+          "Mew ex SAR slide: ¥55,000 (Mar 2026) − ¥43,000 (Oct 7, 2026) = ¥12,000, a 21.82% fall",
+          "SV4a box vs Japan ask: $141.24 − $100.00 = $41.24 above the Sep 30, 2026 SNKRDUNK lowest ask",
+          "SV4a case box vs Japan ask: $115.31 − $100.00 = $15.31 above the same ask",
+          "God pack at 4% per box: 1 ÷ 0.04 = 25 boxes; 25 × $141.24 = $3,531.00 to expect one",
+          "M2a box per pack: $114.77 ÷ 10 = $11.48 per pack; SV4a box costs $141.24 − $114.77 = $26.47 more",
+          "SV8a box per pack: $163.32 ÷ 10 = $16.33 per pack; SV4a box costs $163.32 − $141.24 = $22.08 less",
+          "SV2a Pokemon 151 box per pack: $471.20 ÷ 20 = $23.56 per pack; SV4a box costs $471.20 − $141.24 = $329.96 less"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV4a box](/product/sv4a-shiny-treasure-ex-booster-box-japanese-pokemon-card/) is $141.24 for 10 packs of 10 cards, which is $14.12 per pack and $1.41 per card, with one Pokemon ex guaranteed in every pack. That guarantee is the floor of the product: 10 ex cards per box, every one of them shiny or better in the secret block, and the rest of the pack is base-set cards and Shiny Rares. At $14.12 a pack, SV4a costs more per pack than M2a at $11.48 and less than Terastal Festival ex at $16.33, and the reason is the same in both cases: a High Class Pack with a deep secret block and a chase card worth nearly two boxes.",
+          "The case arithmetic is the largest saving on the page in dollars and the most ordinary in percentage. The [SV4a case](/product/sv4a-shiny-treasure-ex-sealed-case-20-boxes-japanese-pokemon-card/) is $2,306.10 for 20 boxes, which divides to $115.31 a box, $11.53 a pack, and $1.15 a card. Twenty single boxes cost $2,824.80, so the case saves $518.70, or $25.94 per box, an 18% discount. That is the sealed-holder number: if you are buying 20 boxes, the case is the only way to buy them, and the $518.70 is the difference between holding and overpaying.",
+          "The neighboring shelf puts SV4a in its price band, and it starts with the closest comparison. [M2a MEGA Dream ex](/blog/m2a-mega-dream-ex-buyers-guide/) is the other High Class Pack on the shelf, also 10 packs of 10 cards, and its [box](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) is $114.77, or $11.48 a pack, which makes SV4a $26.47 more per box. The gap is the chase: M2a chases the Mega Gengar ex SAR at about $207, while SV4a chases the Mew ex SAR at $272.15. [Terastal Festival ex](/blog/sv8a-terastal-festival-ex-buyers-guide/) is the dearer High Class Pack at $163.32 a box, $16.33 a pack, so SV4a sits $22.08 below it per box. [Pokemon 151](/blog/sv2a-pokemon-151-buyers-guide/) is the outlier at $471.20 a box, $23.56 a pack, which makes SV4a $329.96 cheaper per box for a set with a larger secret block.",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,500 in Japan, which is $34.81 at ¥158 to the dollar, and a pack at ¥550 is $3.48. Our box at $141.24 is 4.06 times the official price, and even the case-split box at $115.31 is 3.31 times it. That multiple is not a markup story: the print run ended in 2023, the set is 35 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2023 retail, but our price against the cheapest sealed box in Japan today, and that is where the next section starts."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, so the table keeps to eight and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the Japan ask and the chase card, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row, and single-card chasers scan the Mew ex SAR row and stop there.",
+          "Read the Japan ask row carefully, because it is the row that decides whether our price is fair. The lowest ask for a sealed SV4a box on SNKRDUNK was ¥15,800 on September 30, 2026, which is $100.00 at ¥158 to the dollar. Our box at $141.24 is $41.24 above it, and our case-split box at $115.31 is $15.31 above it. An ask is not a sale, and it is not a landed price: it carries no international shipping, no import handling, and no guarantee the seller ships sealed stock to your country. What you pay for on our shelf is a sealed box from Japan in one parcel with one tracking number, and the $41.24 is the price of that. If the cheapest yen price is the goal, the secondary market wins, and this guide says so plainly."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV4a box",
+              "$141.24",
+              "10 packs, 100 cards, 1 ex guaranteed per pack",
+              "$141.24 / $14.12 / $1.41"
+            ],
+            [
+              "SV4a case",
+              "$2,306.10",
+              "20 boxes, 200 packs, 2,000 cards",
+              "$115.31 / $11.53 / $1.15"
+            ],
+            [
+              "Mew ex SAR single",
+              "$272.15 (¥43,000 ask, Oct 7 2026)",
+              "1 card, the chase",
+              "1.93x a box"
+            ],
+            [
+              "Japan secondary box",
+              "$100.00 (¥15,800 ask, Sep 30 2026)",
+              "1 sealed box, ask not a sale",
+              "$41.24 less than our box"
+            ],
+            [
+              "M2a box",
+              "$114.77",
+              "10 packs, 100 cards",
+              "$114.77 / $11.48 / $1.15"
+            ],
+            [
+              "SV8a box",
+              "$163.32",
+              "10 packs, 100 cards, 1 ex guaranteed per pack",
+              "$163.32 / $16.33 / $1.63"
+            ],
+            [
+              "SV2a box",
+              "$471.20",
+              "20 packs, 100 cards",
+              "$471.20 / $23.56 / $4.71"
+            ],
+            [
+              "Paldean Fates EN route",
+              "No EN product on our shelf",
+              "245 cards, no shiny guaranteed per pack",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about SV4a is whether the box is worth it at $14.12 a pack when the official price was $3.48. The answer we give in chat is the one on this page: the official price died with the print run in 2023, and the live question is whether $141.24 beats the Japan ask and the case split. Most buyers who ask it buy the case.",
+        "paragraphs": [
+          "The top results for this query are a chase-card guide, a god-pack guide, and a price index, and none of them divides a price from a store shelf. The first lists the top 10 chase cards with March 2026 asks and stops at the Mew ex SAR. The second explains god packs and quotes a 4% per-box community estimate. The third indexes 25 Scarlet and Violet boxes with store listings and SNKRDUNK asks. All three are useful, and none of them answers the question a buyer actually has: what does a box cost from the store in front of you, what does the case save, and is the box worth more than the single.",
+          "That gap hides three findings. First, the same-price coincidence is missing: our SV4a box and our SV7a box both cost $141.24, for two sets with nothing in common except the shelf. Second, the case split is missing: no top guide shows that 20 SV4a boxes cost $2,306.10, or $115.31 a box, which is the number that decides a sealed hold. Third, the honesty gap is missing: no guide says the box costs $41.24 more than the cheapest Japanese ask, or that the Mew ex SAR fell 21.82% from ¥55,000 in March to ¥43,000 in October. This page prints all three, because a buyer who sees them makes a better decision than a buyer who does not."
+        ]
+      },
+      {
+        "h": "The risk layer: the Mew slide, the god-pack estimate, and the reprint",
+        "paragraphs": [
+          "The first risk is the chase, and it is falling. The Mew ex SAR carried a ¥55,000 lowest ask in March 2026 and a ¥43,000 lowest ask on October 7, 2026, a 21.82% fall in seven months, and its PSA 10 ask was ¥135,000 on the same date. A box bought to chase Mew ex is a bet that the card stops falling, and the last seven months say it has not. The Charizard ex SAR at ¥40,000 and the Gardevoir ex SAR at ¥18,000 in March are the same story at a lower price: chase cards in a 35-month-old set drift down as supply from opened boxes accumulates, and a sealed box does not protect the buyer from that.",
+          "The second risk is the god pack, and it is specific to this set because the community repeats the 4% figure as if it were printed on the box. The Pokemon Company publishes no pull rates for Shiny Treasure ex and no god-pack odds for any set, in any language, and never has. The 4% per-box estimate, about 1 box in 25 packs, comes from community opening data, and at that estimate a buyer should expect one god pack per 25 boxes, which costs $3,531.00 at our box price. Treat the 4% as a rumor with a denominator, not a promise, and never buy 25 boxes expecting a god pack.",
+          "The third risk is the reprint, and it is the quiet one. SV4a is 35 months old, the print run is done, and the $141.24 box price is secondary-market pricing, not retail. A reprint would cut the sealed price, and a sealed box held for a year is a bet that no reprint comes. The fourth risk is the reseal: a High Class Pack at 4 times its official price is worth faking, so check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is intact. Our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what a factory seal looks like and what a reseal looks like."
+        ]
+      },
+      {
+        "h": "Context: 360 cards, a High Class Pack, and the English twin",
+        "paragraphs": [
+          "The set earns its price on structure, not on one card. SV4a prints 190 base cards and 170 secret cards, 360 in total, and the secret block is the deepest in the Scarlet and Violet era: 129 Shiny Rare cards alone, which is why completing a master set is a volume problem rather than a single-card problem. One box holds 100 cards, so even a perfect box with no duplicates covers less than a third of the set, and the 129 Shiny Rares mean duplicates pile up fast. Buy SV4a to open shiny cards, not to complete the set from boxes.",
+          "One more context fact, because it decides purchases: the Japanese set and the English set are different products with different guarantees. Paldean Fates came out in English on January 26, 2024, as set code SV4.5, with 245 cards drawn from Shiny Treasure ex plus leftover cards from Raging Surf, Ancient Roar, and Future Flash. The English booster does not guarantee a shiny in every pack, while the Japanese pack guarantees one Pokemon ex in every pack. We carry no Paldean Fates product on our shelf, so the English route is the secondary market, not us. If you want the same art in English, buy Paldean Fates singles; if you want the guaranteed ex per pack, buy the Japanese box. The two products share cards and share nothing else."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Mew ex SAR single at $272.15, which costs less than two boxes and is guaranteed to be the card. Second, budget openers: at $14.12 a pack, SV4a is dearer per pack than M2a at $11.48, and [Heat Wave Arena](/blog/sv9a-heat-wave-arena-buyers-guide/) costs $5.44 a pack for 30 packs of the same era. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV4a for play has bought the wrong product, and our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full.",
+          "Who this guide is for, restated plainly: collectors who want shiny Pokemon in Japanese and will open 10 packs of it, sealed holders who will buy the case at $115.31 a box, and buyers choosing between the Japanese box and the English Paldean Fates route who now know the pack guarantee is the difference. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 10 packs and 100 cards, then divide the case by 20 boxes, 200 packs, and 2,000 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Mew ex SAR costs 1.93 times a box",
+          "If buying sealed, compare our box at $141.24 against the Japan ask at $100.00 and decide whether the $41.24 is worth sealed stock from Japan in one parcel",
+          "If buying the case, confirm the case price at checkout; $115.31 a box is the live shelf figure for November 8, 2026",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV4a buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV4a box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision you can defend: the buyer type, the division, the single-versus-box test, the Japan ask comparison, and the seal check. Skip any step and you are guessing, and SV4a at $14.12 a pack is too expensive to guess on."
+        ]
+      }
+    ],
+    "slug": "sv4a-shiny-treasure-ex-buyers-guide",
+    "takeaway": [
+      "The SV4a box at $141.24 is the second most expensive 10-pack box on our shelf at $14.12 a pack, but $1.41 a card, with a Pokemon ex guaranteed in every pack and 360 cards in the set. The case at $2,306.10 is the way to buy it sealed, at $115.31 a box and $11.53 a pack, saving $518.70 against twenty singles. The set is 360 cards, released December 1, 2023, and the chase is the Mew ex SAR, which carried a ¥43,000 ask on October 7, 2026, down 21.82% from March.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and October 7, 2026. The god-pack figure is a community estimate, not a guarantee, and the box can hold zero SAR cards. The Japan ask for a sealed box was $100.00, so our box costs $41.24 more, and the case-split box costs $15.31 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best Japanese Pokemon special set guide](/blog/best-japanese-pokemon-special-set-to-buy/) ranks the special sets the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the set that shares SV4a's $141.24 box price, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own."
+    ]
+  },
+  "sv7a-paradise-dragona-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Surging Sparks source set in Japanese and accept $4.71 a pack, which is $0.94 a card for 150 cards from a 94-card set. The case is the better sealed buy at $104.45 a box, saving $441.47 against twelve singles. For profit, no: no box guarantees the Latias ex SAR, which carries a $159.23 market price on its own, 1.13 times a box, and the complete set as singles costs $372.23, less than three boxes. Open SV7a because you want the set, and buy the Latias ex single if it is the only card you want.",
+        "q": "Is SV7a Paradise Dragona worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (September 13, 2024), and the box standard is 30 packs. At our shelf price of $141.24, that is $4.71 per pack and $0.94 per card.",
+        "q": "How many packs are in an SV7a booster box?"
+      },
+      {
+        "a": "Buy the single if Latias ex is the only card you want. One Latias ex SAR carried a $159.23 TCGplayer market price on November 6, 2026, which is 1.13 times a box and more than a box at $141.24. A box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 94-card set and the chance at the whole secret block, and buy the case at $104.45 a box if you want to hold sealed.",
+        "q": "Should I buy the SV7a box or the Latias ex SAR single?"
+      }
+    ],
+    "h1": "SV7a Paradise Dragona: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV7a box at $141.24 if you want to open Paradise Dragona, and buy the case at $1,253.41 if you want to hold or split it at $104.45 a box. The honest headline is the one no other guide prints: our box costs $46.30 more than the cheapest Japanese secondary ask, so you are paying for sealed stock from Japan, not the lowest yen price. The chase is the Latias ex SAR, which carried a $159.23 TCGplayer market price on November 6, 2026, or 1.13 times a box, which means the single costs nearly as much as the box that might hold it.",
+      "Who this is for: collectors who want the Surging Sparks source set in Japanese, buyers choosing between a Japanese box and an English Surging Sparks product, and sealed holders who divide the case before they pay. Who it is not for: anyone chasing one named card to pay for the box, because the Latias ex SAR costs more than the box itself; anyone who wants the cheapest sealed Pokemon on the shelf, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Paradise Dragona (SV7a) from one store: box $141.24, case $1,253.41, $104.45 a box in a case, and the Latias ex SAR priced honestly.",
+    "metaTitle": "SV7a Paradise Dragona: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV7a punishes the buyer who gets the order backwards. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 94-card set, so one box covers the set with duplicates to trade. A sealed holder should buy the case, because the case splits to $104.45 a box against $141.24 for a single box, a $441.47 saving across 12 boxes. A case splitter should do the same division before listing, because the $36.79 saved per box is the margin. A single-card chaser should stop here and buy the Latias ex SAR instead, because one card at $159.23 costs more than a box at $141.24, and the box can hold no SAR at all: buying boxes to find Latias ex is paying $141.24 for a chance at a $159.23 card.",
+          "The set is small and the chase is narrow, and that combination decides everything on this page. Paradise Dragona came out in Japan on September 13, 2024, as an Enhanced Expansion Pack, and it prints 94 cards: a 64-card main set and 30 secret cards. The main set is one of the smallest in the Scarlet and Violet era, which means duplicates pile up fast: 150 cards from one box against 94 cards in the set, so a second box adds almost nothing new. The value sits in two cards, the Latias ex SAR and the Lisia's Appeal SIR, and the rest of the set is bulk that trades for a dollar or less."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $441.47 gap",
+        "math": [
+          "SV7a box per pack: $141.24 ÷ 30 = $4.71 per pack",
+          "SV7a box per card: $141.24 ÷ 150 = $0.94 per card",
+          "SV7a case per box: $1,253.41 ÷ 12 = $104.45 per box",
+          "SV7a case per pack: $1,253.41 ÷ 360 = $3.48 per pack",
+          "SV7a case per card: $1,253.41 ÷ 1,800 = $0.70 per card",
+          "SV7a twelve singles: 12 × $141.24 = $1,694.88",
+          "SV7a case saving: $1,694.88 − $1,253.41 = $441.47 across the case",
+          "SV7a saving per box: $441.47 ÷ 12 = $36.79 per box",
+          "SV7a official box: ¥5,400 ÷ ¥158 = $34.18; official pack ¥180 ÷ ¥158 = $1.14",
+          "SV7a box vs official: $141.24 ÷ $34.18 = 4.13x the official Japanese price",
+          "Latias ex SAR vs box: $159.23 ÷ $141.24 = 1.13x the price of a box",
+          "Latias ex SAR vs case box: $159.23 ÷ $104.45 = 1.52x the price of a case-split box",
+          "Complete set vs box: $372.23 ÷ $141.24 = 2.64 boxes; 3 boxes cost 3 × $141.24 = $423.72",
+          "Complete set vs three boxes: $423.72 − $372.23 = $51.49 cheaper as singles",
+          "SV7a box vs Japan ask: $141.24 − $94.94 = $46.30 above the Sep 30, 2026 SNKRDUNK lowest ask",
+          "SV7a case box vs Japan ask: $104.45 − $94.94 = $9.51 above the same ask",
+          "SV8 box per pack: $258.23 ÷ 30 = $8.61 per pack; SV7a box costs $258.23 − $141.24 = $116.99 less",
+          "SV7 box per pack: $91.61 ÷ 30 = $3.05 per pack; SV7a box costs $141.24 − $91.61 = $49.63 more",
+          "SV9a box per pack: $163.32 ÷ 30 = $5.44 per pack; SV7a box costs $163.32 − $141.24 = $22.08 less",
+          "English Latias ex SIR vs Japanese: $165.14 − $159.23 = $5.91 more for the English single"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV7a box](/product/sv7a-paradise-dragona-booster-box-japanese-pokemon-card/) is $141.24 for 30 packs of 5 cards, which is $4.71 per pack and $0.94 per card. That per-pack price is the middle of the shelf for a 30-pack box: dearer than Battle Partners at $2.83 a pack and Stella Miracle at $3.05, cheaper than Heat Wave Arena at $5.44 and Super Electric Breaker at $8.61. The box is 150 cards from a 94-card set, so the arithmetic of the set is duplication: one box gives the main set and most of the secrets, and the second box is mostly cards you already own.",
+          "The case arithmetic is the largest saving on the page in dollars and the most ordinary in percentage. The [SV7a case](/product/sv7a-paradise-dragona-sealed-case-12-boxes-japanese-pokemon-card/) is $1,253.41 for 12 boxes, which divides to $104.45 a box, $3.48 a pack, and $0.70 a card. Twelve single boxes cost $1,694.88, so the case saves $441.47, or $36.79 per box, a 26% discount. That is the sealed-holder number: if you are buying 12 boxes, the case is the only way to buy them, and the $441.47 is the difference between holding and overpaying.",
+          "The neighboring shelf puts SV7a in its price band, and it starts with the set that shares its English home. [Super Electric Breaker](/blog/japanese-pokemon-booster-box-price/) is the other third of Surging Sparks in Japanese, and its [box](/product/sv8-super-electric-breaker-booster-box-japanese-pokemon-card/) is $258.23, or $8.61 a pack, which makes SV7a $116.99 cheaper per box for the smaller third of the same English set. Stella Miracle is the set that came before SV7a, and its [box](/product/sv7-stella-miracle-booster-box-japanese-pokemon-card/) is $91.61, or $3.05 a pack, which makes SV7a $49.63 more per box. [Heat Wave Arena](/blog/sv9a-heat-wave-arena-buyers-guide/) is $163.32 a box, $5.44 a pack, so SV7a sits $22.08 below it per box. The pattern is plain: SV7a is priced as the small enhanced expansion it is, between the cheap main sets and the dearer Super Electric Breaker.",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,400 in Japan, which is $34.18 at ¥158 to the dollar, and a pack at ¥180 is $1.14. Our box at $141.24 is 4.13 times the official price, and even the case-split box at $104.45 is 3.06 times it. That multiple is not a markup story: the print run ended in 2024, the set is 26 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2024 retail, but our price against the cheapest sealed box in Japan today, and that is where the next section starts."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, so the table keeps to eight and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the Japan ask and the chase cards, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row, and single-card chasers scan the Latias ex SAR row and stop there, because the single costs more than the box.",
+          "Read the Japan ask row carefully, because it is the row that decides whether our price is fair. The lowest ask for a sealed SV7a box on SNKRDUNK was ¥15,000 on September 30, 2026, which is $94.94 at ¥158 to the dollar. Our box at $141.24 is $46.30 above it, and our case-split box at $104.45 is $9.51 above it. An ask is not a sale, and it is not a landed price: it carries no international shipping, no import handling, and no guarantee the seller ships sealed stock to your country. What you pay for on our shelf is a sealed box from Japan in one parcel with one tracking number, and the $46.30 is the price of that. If the cheapest yen price is the goal, the secondary market wins, and this guide says so plainly."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV7a box",
+              "$141.24",
+              "30 packs, 150 cards",
+              "$141.24 / $4.71 / $0.94"
+            ],
+            [
+              "SV7a case",
+              "$1,253.41",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$104.45 / $3.48 / $0.70"
+            ],
+            [
+              "Latias ex SAR single",
+              "$159.23 (TCGplayer market, Nov 6 2026)",
+              "1 card, the chase",
+              "1.13x a box"
+            ],
+            [
+              "Complete set as singles",
+              "$372.23 (TCGplayer market, Nov 7 2026)",
+              "94 cards",
+              "2.64 boxes; $51.49 less than 3 boxes"
+            ],
+            [
+              "Japan secondary box",
+              "$94.94 (¥15,000 ask, Sep 30 2026)",
+              "1 sealed box, ask not a sale",
+              "$46.30 less than our box"
+            ],
+            [
+              "SV8 box",
+              "$258.23",
+              "30 packs, 150 cards",
+              "$258.23 / $8.61 / $1.72"
+            ],
+            [
+              "SV7 box",
+              "$91.61",
+              "30 packs, 150 cards",
+              "$91.61 / $3.05 / $0.61"
+            ],
+            [
+              "Surging Sparks EN route",
+              "No EN product on our shelf",
+              "SV7a is one-third of the set",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about SV7a is whether to buy it or the SV8 box, since both feed the same English set. The answer we give in chat is the one on this page: SV7a is the small third at $4.71 a pack and SV8 is the large two-thirds at $8.61, and most buyers who ask it buy one SV7a box and skip SV8 entirely.",
+        "paragraphs": [
+          "The top results for this query are Surging Sparks comparisons, an eBay listing, and a release-date piece, and none of them divides a price from a store shelf. The first compares the English Surging Sparks box against the two Japanese boxes and stops at the listing prices. The second is a single sealed box on eBay at $85.01. The third dates the set to September 13, 2024, and lists 64 main-set cards. All three are useful, and none of them answers the question a buyer actually has: what does a box cost from the store in front of you, what does the case save, and is the box worth more than the single.",
+          "That gap hides three findings. First, the same-price coincidence is missing: our SV7a box and our SV4a box both cost $141.24, for two sets with nothing in common except the shelf. Second, the case split is missing: no top guide shows that 12 SV7a boxes cost $1,253.41, or $104.45 a box, which is the number that decides a sealed hold. Third, the single-versus-box inversion is missing: no guide says the Latias ex SAR at $159.23 costs more than the box at $141.24, which is the fact that ends the chase-the-box argument before it starts. This page prints all three, because a buyer who sees them makes a better decision than a buyer who does not."
+        ]
+      },
+      {
+        "h": "The risk layer: the Latias inversion, the small set, and the English overlap",
+        "paragraphs": [
+          "The first risk is the chase, and it is upside down. The Latias ex SAR carried a $159.23 TCGplayer market price on November 6, 2026, which is 1.13 times the price of a box, and 1.52 times the price of a case-split box. A box bought to chase Latias ex is a bet that pays $141.24 for a chance at a $159.23 card, and the box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. The complete set as singles costs $372.23, which is less than three boxes at $423.72, so even the set-completion buyer loses $51.49 by opening boxes instead of buying singles.",
+          "The second risk is the small set, and it is specific to this set because the main set is only 64 cards. One box holds 150 cards against 94 in the set, so duplicates arrive in the first box and dominate the second. The Lisia's Appeal SIR was the top chase at release, at ¥23,000 to ¥27,000 on Mercari on September 13, 2024, ahead of the Latias ex SIR at ¥9,000 to ¥11,000, and two years later Latias ex leads the set while the rest of the secrets trade for a dollar or less. A buyer who opens three boxes owns three copies of most of the set and one copy of nothing rare.",
+          "The third risk is the English overlap, and it is the quiet one. SV7a is one-third of the English Surging Sparks set, which came out on November 8, 2024, and SV8 Super Electric Breaker is the other two-thirds. The same Latias ex art exists in English as the 239/191 Special Illustration Rare, which carried a $165.14 TCGplayer market price on November 7, 2026, only $5.91 more than the Japanese single. A buyer who wants the Latias art in English pays nearly the same for the single and gets a card legal in English events, while the Japanese single is not. The fourth risk is the reseal: a box at 4 times its official price is worth faking, so check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is intact. Our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what a factory seal looks like and what a reseal looks like."
+        ]
+      },
+      {
+        "h": "Context: 94 cards, an enhanced expansion, and the Surging Sparks split",
+        "paragraphs": [
+          "The set earns its price on structure, not on one card. SV7a prints 64 main-set cards and 30 secret cards, 94 in total, and it is an Enhanced Expansion Pack, the smaller format the Pokemon Company uses between main sets. The small main set is the point: Paradise Dragona is a dragon-themed set built around Latias ex and the Stellar Tera mechanic, with Alolan Exeggutor ex as the Stellar Tera showcase, and the set is meant to be opened once, not chased across cases. One box covers the set; a case is a sealed hold, not an opening plan.",
+          "One more context fact, because it decides purchases: the Japanese set and the English set are different products with different splits. Surging Sparks came out in English on November 8, 2024, with over 250 cards, and Bulbapedia maps it to two Japanese sets: SV8 Super Electric Breaker for two-thirds and SV7a Paradise Dragona for one-third. The two Japanese sets are not the same product: SV8 is a full Expansion Pack at $258.23 a box, SV7a is an Enhanced Expansion Pack at $141.24, and the English set blends them. We carry no Surging Sparks product on our shelf, so the English route is the secondary market, not us. If you want the same cards in English, buy Surging Sparks singles; if you want the Japanese source set, buy the SV7a box. The two products share cards and share nothing else."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Latias ex SAR single at $159.23, which costs more than a box but is guaranteed to be the card. Second, budget openers: at $4.71 a pack, SV7a is the middle of the 30-pack shelf, and [Battle Partners](/blog/japanese-pokemon-booster-box-price/) costs $2.83 a pack for 30 packs of the same era. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV7a for play has bought the wrong product, and our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full.",
+          "Who this guide is for, restated plainly: collectors who want the Surging Sparks source set in Japanese and will open 30 packs of it, sealed holders who will buy the case at $104.45 a box, and buyers choosing between the Japanese box and the English Surging Sparks route who now know the one-third split is the difference. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Latias ex SAR costs 1.13 times a box",
+          "If buying sealed, compare our box at $141.24 against the Japan ask at $94.94 and decide whether the $46.30 is worth sealed stock from Japan in one parcel",
+          "If buying the case, confirm the case price at checkout; $104.45 a box is the live shelf figure for November 8, 2026",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV7a buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV7a box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision you can defend: the buyer type, the division, the single-versus-box test, the Japan ask comparison, and the seal check. Skip any step and you are guessing, and SV7a at $4.71 a pack is too expensive to guess on."
+        ]
+      }
+    ],
+    "slug": "sv7a-paradise-dragona-buyers-guide",
+    "takeaway": [
+      "The SV7a box at $141.24 is the middle of the 30-pack shelf at $4.71 a pack, but $0.94 a card, for 150 cards from a 94-card set. The case at $1,253.41 is the way to buy it sealed, at $104.45 a box and $3.48 a pack, saving $441.47 against twelve singles. The set is 94 cards, released September 13, 2024, and the chase is the Latias ex SAR, which carried a $159.23 TCGplayer market price on November 6, 2026, or 1.13 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and November 6-7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $94.94, so our box costs $46.30 more, and the case-split box costs $9.51 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Terastal Festival ex guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the other High Class Pack the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the set that shares SV7a's $141.24 box price, box $141.24 against a case that saves $518.70, with the Mew ex SAR at $272.15 on its own."
     ]
   },
   "sv8a-terastal-festival-ex-buyers-guide": {
@@ -19768,7 +20321,193 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV8a box at $163.32 is the middle of the shelf at $16.33 a pack, but $1.63 a card, with a Pokémon ex guaranteed in every pack and all ten cards foil. The case at $2,723.16 is the way to buy it sealed, at $136.16 a box and $13.62 a pack, saving $543.24 against twenty singles. The set is 237 cards, released December 6, 2024, and the chase is the Umbreon ex SAR, which carries a $372.02 market price on its own.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace figures as of November 7, 2026. The one-SAR-per-box figure is a community average, not a guarantee, and the box can hold zero. The complete set as singles costs $1,122.72, about the price of seven boxes, so buy the singles if the set is the goal.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that shares SV8a's $163.32 box price. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices the other high-class pack the same way, box $114.77 against a case that saves $436.84, with the Mega Gengar ex SAR at about $207 on its own."
+      "New this cycle: the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices the other high-class pack the same way, box $114.77 against a case that saves $436.84, with the Mega Gengar ex SAR at about $207 on its own.",
+      "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the 30-pack set from the same era, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own."
+    ]
+  },
+  "sv9-battle-partners-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Trainer's Pokemon set in Japanese and accept $2.83 a pack, which is $0.57 a card for 150 cards from a 132-card set. The case is the better sealed buy at $79.36 a box, saving $67.31 against twelve singles, though that is a thin margin. For profit, no: no box guarantees the Lillie's Clefairy ex SAR, which carries a $126.70 market price on its own, 1.49 times a box, and that card fell 39.29% from March to September 2026. Open SV9 because you want Trainer's Pokemon, and buy the Clefairy ex single if it is the only card you want.",
+        "q": "Is SV9 Battle Partners worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (January 24, 2025), and the box standard is 30 packs. At our shelf price of $84.97, that is $2.83 per pack and $0.57 per card.",
+        "q": "How many packs are in an SV9 booster box?"
+      },
+      {
+        "a": "Buy the single if Clefairy ex is the only card you want. One Lillie's Clefairy ex SAR carried a $126.70 TCGplayer market price on November 8, 2026, which is 1.49 times a box and more than a box at $84.97. A box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 132-card set and the chance at the whole secret block, and buy the case at $79.36 a box if you want to hold sealed.",
+        "q": "Should I buy the SV9 box or the Lillie's Clefairy ex SAR single?"
+      }
+    ],
+    "h1": "SV9 Battle Partners: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV9 box at $84.97 if you want to open Battle Partners, and buy the case at $952.33 if you want to hold or split it at $79.36 a box. The honest headline is the one no other guide prints: our box costs $22.31 more than the cheapest Japanese secondary ask, so you are paying for sealed stock from Japan, not the lowest yen price. The chase is the Lillie's Clefairy ex SAR, which carried a $126.70 TCGplayer market price on November 8, 2026, or 1.49 times a box, and it has fallen 39.29% since March.",
+      "Who this is for: collectors who want the Trainer's Pokemon set in Japanese, buyers choosing between a Japanese box and an English Journey Together product, and sealed holders who divide the case before they pay. Who it is not for: anyone chasing one named card to pay for the box, because the Lillie's Clefairy ex SAR costs nearly one and a half boxes and no pull is guaranteed; anyone who wants the cheapest sealed Pokemon on the shelf, because Battle Partners is cheap but not the cheapest; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Battle Partners (SV9) from one store: box $84.97, case $952.33, $79.36 a box in a case, and the Lillie's Clefairy ex SAR priced honestly.",
+    "metaTitle": "SV9 Battle Partners: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV9 punishes the buyer who gets the order backwards. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 132-card set, so one box covers the set with duplicates to trade. A sealed holder should buy the case, because the case splits to $79.36 a box against $84.97 for a single box, a $67.31 saving across 12 boxes. A case splitter should do the same division before listing, because the $5.61 saved per box is thin and the margin lives or dies on it. A single-card chaser should stop here and buy the Lillie's Clefairy ex SAR instead, because one card at $126.70 costs more than a box at $84.97 and the box can hold no SAR at all.",
+          "The set is built on one idea and the chase is narrow, and that combination decides everything on this page. Battle Partners came out in Japan on January 24, 2025, as an Expansion Pack built around Trainer's Pokemon: N, Lillie, Hop, and Iono each get their own tagged Pokemon, printed at every rarity the set has. It prints 132 cards: a 100-card base set and a 32-card secret block of 12 Art Rares, 11 Super Rares, 6 Special Art Rares, and 3 Ultra Rares. The value sits in six SAR cards led by Lillie's Clefairy ex, and the rest of the set is bulk that trades for a dollar or less."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $67.31 gap",
+        "math": [
+          "SV9 box per pack: $84.97 ÷ 30 = $2.83 per pack",
+          "SV9 box per card: $84.97 ÷ 150 = $0.57 per card",
+          "SV9 case per box: $952.33 ÷ 12 = $79.36 per box",
+          "SV9 case per pack: $952.33 ÷ 360 = $2.65 per pack",
+          "SV9 case per card: $952.33 ÷ 1,800 = $0.53 per card",
+          "SV9 twelve singles: 12 × $84.97 = $1,019.64",
+          "SV9 case saving: $1,019.64 − $952.33 = $67.31 across the case",
+          "SV9 saving per box: $67.31 ÷ 12 = $5.61 per box",
+          "SV9 official box: ¥5,400 ÷ ¥158 = $34.18; official pack ¥180 ÷ ¥158 = $1.14",
+          "SV9 box vs official: $84.97 ÷ $34.18 = 2.49x the official Japanese price",
+          "SV9 case box vs official: $79.36 ÷ $34.18 = 2.32x the official Japanese price",
+          "Clefairy ex SAR vs box: $126.70 ÷ $84.97 = 1.49x the price of a box",
+          "Clefairy ex SAR vs case box: $126.70 ÷ $79.36 = 1.60x the price of a case-split box",
+          "Complete set vs box: $382.55 ÷ $84.97 = 4.50 boxes; 5 boxes cost 5 × $84.97 = $424.85",
+          "Complete set vs five boxes: $424.85 − $382.55 = $42.30 cheaper as singles",
+          "SV9 box vs Japan ask: $84.97 − $62.66 = $22.31 above the Sep 23, 2026 SNKRDUNK lowest ask",
+          "SV9 case box vs Japan ask: $79.36 − $62.66 = $16.70 above the same ask",
+          "Clefairy ex SAR slide: ¥28,000 (Mar 2026) − ¥17,000 (Sep 23, 2026) = ¥11,000, a 39.29% fall",
+          "SV9a box per pack: $163.32 ÷ 30 = $5.44 per pack; SV9 box costs $163.32 − $84.97 = $78.35 less",
+          "SV7a box per pack: $141.24 ÷ 30 = $4.71 per pack; SV9 box costs $141.24 − $84.97 = $56.27 less",
+          "SV8 box per pack: $258.23 ÷ 30 = $8.61 per pack; SV9 box costs $258.23 − $84.97 = $173.26 less",
+          "English Clefairy ex SIR vs Japanese SAR: $126.70 − $75.19 = $51.51 more for the Japanese single"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV9 box](/product/sv9-battle-partners-booster-box-japanese-pokemon-card/) is $84.97 for 30 packs of 5 cards, which is $2.83 per pack and $0.57 per card. That per-pack price undercuts Stella Miracle at $3.05 a pack, Paradise Dragona at $4.71, and Heat Wave Arena at $5.44. The box is 150 cards from a 132-card set, so the arithmetic of the set is duplication: one box gives the main set and most of the secrets, and the second box is mostly cards you already own.",
+          "The case arithmetic is the smallest saving on the page in dollars and the most honest in percentage. The [SV9 case](/product/sv9-battle-partners-sealed-case-12-boxes-japanese-pokemon-card/) is $952.33 for 12 boxes, which divides to $79.36 a box, $2.65 a pack, and $0.53 a card. Twelve single boxes cost $1,019.64, so the case saves $67.31, or $5.61 per box, a 7% discount. That is the sealed-holder number, and it is thin: if you are buying 12 boxes, the case is still the only way to buy them, but the $67.31 is the difference between holding and overpaying by a little, not by a lot, and a splitter who lists case boxes at the single-box price keeps the whole $5.61.",
+          "The neighboring shelf puts SV9 in its price band, and it starts with the set that shares its release season. [Heat Wave Arena](/blog/sv9a-heat-wave-arena-buyers-guide/) is the set that came two months after SV9, and its box is $163.32, or $5.44 a pack, which makes SV9 $78.35 cheaper per box for a set with the same 30-pack shape. [Paradise Dragona](/blog/sv7a-paradise-dragona-buyers-guide/) is $141.24 a box, $4.71 a pack, so SV9 sits $56.27 below it per box. [Super Electric Breaker](/blog/japanese-pokemon-booster-box-price/) is $258.23 a box, $8.61 a pack, so SV9 sits $173.26 below it per box. The pattern is plain: SV9 is priced as the cheap Trainer's Pokemon set it is.",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,400 in Japan, which is $34.18 at ¥158 to the dollar, and a pack at ¥180 is $1.14. Our box at $84.97 is 2.49 times the official price, and even the case-split box at $79.36 is 2.32 times it. That multiple is not a markup story: the print run ended in 2025, the set is 21 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2025 retail, but our price against the cheapest sealed box in Japan today, and that is where the next section starts."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, so the table keeps to eight and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the Japan ask and the chase cards, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row, and single-card chasers scan the Lillie's Clefairy ex SAR row and stop there, because the single costs more than the box.",
+          "Read the Japan ask row carefully, because it is the row that decides whether our price is fair. The lowest ask for a sealed SV9 box on SNKRDUNK was ¥9,900 on September 23, 2026, which is $62.66 at ¥158 to the dollar. Our box at $84.97 is $22.31 above it, and our case-split box at $79.36 is $16.70 above it. An ask is not a sale, and it is not a landed price: it carries no international shipping, no import handling, and no guarantee the seller ships sealed stock to your country. What you pay for on our shelf is a sealed box from Japan in one parcel with one tracking number, and the $22.31 is the price of that. If the cheapest yen price is the goal, the secondary market wins, and this guide says so plainly. "
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV9 box",
+              "$84.97",
+              "30 packs, 150 cards",
+              "$84.97 / $2.83 / $0.57"
+            ],
+            [
+              "SV9 case",
+              "$952.33",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$79.36 / $2.65 / $0.53"
+            ],
+            [
+              "Clefairy ex SAR single",
+              "$126.70 (TCGplayer market, Nov 8 2026)",
+              "1 card, the chase",
+              "1.49x a box"
+            ],
+            [
+              "Complete set as singles",
+              "$382.55 (TCGplayer market, Nov 8 2026)",
+              "132 cards",
+              "4.50 boxes; $42.30 less than 5 boxes"
+            ],
+            [
+              "Japan secondary box",
+              "$62.66 (¥9,900 ask, Sep 23 2026)",
+              "1 sealed box, ask not a sale",
+              "$22.31 less than our box"
+            ],
+            [
+              "SV9a box",
+              "$163.32",
+              "30 packs, 150 cards",
+              "$163.32 / $5.44 / $1.09"
+            ],
+            [
+              "SV7a box",
+              "$141.24",
+              "30 packs, 150 cards",
+              "$141.24 / $4.71 / $0.94"
+            ],
+            [
+              "Journey Together EN route",
+              "No EN product on our shelf",
+              "Clefairy ex SIR $75.19",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about SV9 is whether the box is worth it when the Clefairy SAR keeps falling. The answer we give in chat is the one on this page: the box is the cheapest 30-pack box with a named chase on our shelf, and the chase card is a separate purchase. Most buyers who ask it buy one box to open and the Clefairy single if they want the card.",
+        "paragraphs": [
+          "The top results for this query are a chase-card guide, a buying guide, and a price index, and none of them divides a price from a store shelf. The first lists the top 10 chase cards with dated SNKRDUNK asks and stops at the Clefairy ex SAR. The second covers the box contents and the Journey Together comparison and stops at another store's listing. The third indexes 25 Scarlet and Violet boxes with store listings and SNKRDUNK asks. All three are useful, and none of them answers the question a buyer actually has: what does a box cost from the store in front of you, what does the case save, and is the box worth more than the single.",
+          "That gap hides three findings. First, the thin case saving is missing: no top guide shows that 12 SV9 boxes cost $952.33, or $79.36 a box, which is the number that decides a sealed hold. Second, the single-versus-box inversion is missing: no guide says the Clefairy ex SAR at $126.70 costs more than the box at $84.97, which is the fact that ends the chase-the-box argument before it starts. Third, the English price gap is missing: no guide says the same art in English costs $75.19, or $51.51 less than the Japanese single. This page prints all three, because a buyer who sees them makes a better decision than a buyer who does not."
+        ]
+      },
+      {
+        "h": "The risk layer: the Clefairy slide, the Trainer's Pokemon bet, and the reprint",
+        "paragraphs": [
+          "The first risk is the chase, and it is falling. The Lillie's Clefairy ex SAR carried a ¥28,000 lowest ask in March 2026 and a ¥17,000 lowest ask on September 23, 2026, a 39.29% fall in six months, and its PSA 10 ask was ¥45,000 on October 7, 2026. A box bought to chase Clefairy ex is a bet that the card stops falling, and the last six months say it has not. The Iono's Bellibolt ex and N's Zoroark ex cards are the same story at a lower price: chase cards in a 21-month-old set drift down as supply from opened boxes accumulates, and a sealed box does not protect the buyer from that.",
+          "The second risk is the Trainer's Pokemon bet, and it is specific to this set because the whole set is one mechanic. Battle Partners prints N's, Lillie's, Hop's, and Iono's Pokemon at every rarity, and the six SAR cards are all Trainer's Pokemon. That concentration is the appeal and the risk at once: if Trainer's Pokemon stay in demand, the set holds, and if the next era moves on, the set has no second theme to fall back on. The complete set as singles costs $382.55, which is less than five boxes at $424.85, ",
+          "The third risk is the English overlap, and it is the quiet one. The same Lillie's Clefairy ex art exists in English as the 184/159 Special Illustration Rare in Journey Together, which carried a $75.19 TCGplayer market price on November 7, 2026, or $51.51 less than the Japanese single. A buyer who wants the Clefairy art in English pays less for the single and gets a card legal in English events, while the Japanese single is not. The fourth risk is the reseal: a box at 2.49 times its official price is worth faking, so check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is intact. Our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what a factory seal looks like and what a reseal looks like."
+        ]
+      },
+      {
+        "h": "Context: 132 cards, Trainer's Pokemon, and the English twin",
+        "paragraphs": [
+          "The set earns its price on structure, not on one card. SV9 prints 100 base cards and 32 secret cards, 132 in total, and the secret block is the deepest part of the product: 12 Art Rares, 11 Super Rares, 6 Special Art Rares, and 3 Ultra Rares. The six SARs are Volcanion ex, Iono's Bellibolt ex, Lillie's Clefairy ex, N's Zoroark ex, Hop's Zacian ex, and Salamence ex, and only Iono's Bellibolt ex and N's Zoroark ex go a step further into the Ultra Rare tier. One box holds 150 cards, so even a perfect box with no duplicates covers the set once and leaves the secrets to chance,  Buy SV9 to open Trainer's Pokemon, not to complete the set from boxes.",
+          "One more context fact, because it decides purchases: the Japanese set and the English set are different products with different splits. Journey Together came out in English on March 28, 2025, as set code SV09, and it is the English set built from SV9. The English booster holds 10 cards against the Japanese 5, the English set prints over 190 cards against the Japanese 132, and the English Clefairy ex SIR is a different number, 184/159, from the Japanese SAR, 126/100. We carry no Journey Together product on our shelf, so the English route is the secondary market, not us. If you want the same art in English, buy Journey Together singles; if you want the Japanese source set, buy the SV9 box. The two products share cards and share nothing else."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Clefairy ex SAR single at $126.70, which costs more than a box but is guaranteed to be the card. Second, sealed holders chasing a margin: at $5.61 saved per box, the SV9 case pays a thin premium for the convenience of one parcel, and [Terastal Festival ex](/blog/sv8a-terastal-festival-ex-buyers-guide/) saves $27.16 per box by the same division. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV9 for play has bought the wrong product, and our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full.",
+          "Who this guide is for, restated plainly: collectors who want the Trainer's Pokemon set in Japanese and will open 30 packs of it, sealed holders who will buy the case at $79.36 a box, and buyers choosing between the Japanese box and the English Journey Together route who now know the $51.51 single gap is the difference. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Clefairy ex SAR costs 1.49 times a box",
+          "If buying sealed, compare our box at $84.97 against the Japan ask at $62.66 and decide whether the $22.31 is worth sealed stock from Japan in one parcel",
+          "If buying the case, confirm the case price at checkout; $79.36 a box is the live shelf figure for November 8, 2026, and the saving is only $5.61 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV9 buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV9 box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision you can defend: the buyer type, the division, the single-versus-box test, the Japan ask comparison, and the seal check. Skip any step and you are guessing, and SV9 at $2.83 a pack is cheap enough to guess on only if you can afford to be wrong."
+        ]
+      }
+    ],
+    "slug": "sv9-battle-partners-buyers-guide",
+    "takeaway": [
+      "The SV9 box at $84.97 is the cheapest 30-pack box with a named chase on our shelf at $2.83 a pack, but $0.57 a card, for 150 cards from a 132-card set. The case at $952.33 is the way to buy it sealed, at $79.36 a box and $2.65 a pack, saving $67.31 against twelve singles. The set is 132 cards, released January 24, 2025, and the chase is the Lillie's Clefairy ex SAR, which carried a $126.70 TCGplayer market price on November 8, 2026, down 39.29% from March.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 23 and October 7, 2026, and November 7-8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $62.66, so our box costs $22.31 more, and the case-split box costs $16.70 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that came two months after SV9 the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the Charizard set that costs $67.32 more per box than SV9, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own."
     ]
   },
   "sv9a-heat-wave-arena-buyers-guide": {
@@ -19976,7 +20715,9 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV9a box is $163.32, or $5.44 a pack, and the case is $1,604.33, or $133.69 a box — a $29.63-a-box saving. Buy the box to open, the case to split or hold, and the Garchomp SAR single at $216.91 if that one card is the whole plan. Divide before you pay, and let the per-box number, not the headline, choose the format.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, with the TCGplayer figures dated November 4 and 5, 2026. When the next set in the trainer run opens for pre-order, run the checklist first and the checkout second.",
       "Still deciding between a box and a case? The [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same division across all thirty-two MEGA-era and Scarlet & Violet boxes, and the [best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For the sibling set, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the other half of Destined Rivals.",
-      "For the set that shares this box price, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices SV8a at the same $163.32 a box for a different product: 10 packs of 10 foil cards with a guaranteed Pokémon ex, and the Umbreon ex SAR at $372.02 on its own."
+      "For the set that shares this box price, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices SV8a at the same $163.32 a box for a different product: 10 packs of 10 foil cards with a guaranteed Pokémon ex, and the Umbreon ex SAR at $372.02 on its own.",
+      "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the 30-pack set from the same era, box $141.24 against a case that saves $441.47.",
+      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the set that came two months before Heat Wave Arena, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own."
     ]
   },
   "what-is-a-god-pack-japanese-pokemon": {
