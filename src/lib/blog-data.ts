@@ -5259,7 +5259,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices with every case beside them, and the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase.",
       "New this cycle: the [best Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) ranks the pack as a pack — cheapest $2.35, cheapest card $0.47 — instead of ranking boxes.",
       "For the newest set in depth, the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the $183.18 box, the Deluxe premium, and the $82.64-a-box case.",
-      "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the dearest 30-pack main set on our shelf at $5.08 a pack, box $152.29, case $1,454.15."
+      "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the dearest 30-pack main set on our shelf at $5.08 a pack, box $152.29, case $1,454.15.",
+      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the Iono set at $102.64 a box, $3.42 a pack, with a case that saves only $28.81."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -19597,7 +19598,191 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace asks as of October 2, 2026. The reprint notice is the fact that outlives every price on this page: the publisher has printed more before, and sealed supply can grow again.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks the shelf by value. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the newest set the same way, box $183.18 against a case that saves $100.54 a box, with the Deluxe pack divided beside them.",
-      "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the other Charizard-chase set, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own."
+      "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the other Charizard-chase set, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own.",
+      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came a month after Pokemon 151 at $102.64 a box, with the Iono SAR at $296.26 carrying more than half the set's value."
+    ]
+  },
+  "sv2d-clay-burst-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Iono set in Japanese and accept $3.42 a pack, which is $0.68 a card for 150 cards from a 99-card set. The case is the better sealed buy at $100.24 a box, saving $28.81 against twelve singles. For profit, no: no box guarantees the Iono SAR, which carries a $296.26 market price on its own, or 2.89 times a box, so even pulling it loses money against the box price once the rest of the box is bulk. Open SV2D because you want the set, and buy the Iono single if it is the only card you want.",
+        "q": "Is SV2D Clay Burst worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (April 14, 2023), and the box standard is 30 packs. At our shelf price of $102.64, that is $3.42 per pack and $0.68 per card.",
+        "q": "How many packs are in an SV2D booster box?"
+      },
+      {
+        "a": "Buy the single if Iono is the only card you want. One Iono SAR carried a $296.26 TCGplayer market price on November 7, 2026, which is 2.89 times a box and nearly three boxes at $102.64. A box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 99-card set and the chance at the whole secret block, and buy the case at $100.24 a box if you want to hold sealed.",
+        "q": "Should I buy the SV2D box or the Iono SAR single?"
+      }
+    ],
+    "h1": "SV2D Clay Burst: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV2D box at $102.64 if you want to open Clay Burst, and buy the case at $1,202.87 if you want to hold or split it at $100.24 a box. The honest headline is the one no other guide prints: the chase is the Iono SAR, which carried a $296.26 TCGplayer market price on November 7, 2026, or 2.89 times a box, so one card costs nearly three boxes. Our box costs $35.55 more than the cheapest Japanese secondary ask, so you are paying for sealed stock from Japan, not the lowest yen price.",
+      "Who this is for: collectors who want the Iono set in Japanese, buyers choosing between a Japanese box and an English Paldea Evolved product, and sealed holders who divide the case before they pay. Who it is not for: anyone chasing one named card, because the Iono SAR costs 2.89 boxes and no pull is guaranteed; anyone who wants the cheapest 30-pack box, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Clay Burst (SV2D) from one store: box $102.64, case $1,202.87, and the Iono SAR at $296.26 priced honestly. The case saves $28.81.",
+    "metaTitle": "SV2D Clay Burst: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV2D punishes the buyer who gets the order backwards. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 99-card set, so one box covers the set with duplicates to trade. A sealed holder should buy the case, not twelve singles, because the case at $1,202.87 divides to $100.24 a box and saves $28.81 against twelve singles at $1,231.68. A case splitter should do the same division before listing, because the margin is $2.40 a box: every box out of this case starts only $2.40 ahead of the single-box price, so fees eat the split fast. A single-card chaser should stop here and buy the Iono SAR instead, because one card at $296.26 costs nearly three boxes at $102.64, and the box can hold no SAR at all.",
+          "The set is built on one card and the chase is narrow, and that combination decides everything on this page. Clay Burst came out in Japan on April 14, 2023, as a main expansion released beside its twin, Snow Hazard, with the Treasures of Ruin as the theme. It prints 99 cards: a 71-card base set and a 28-card secret block of 12 Art Rares, 8 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The five SARs are Chi-Yu ex, Tinkaton ex, Ting-Lu ex, Saguaro, and Iono, and only Iono carries real money at $296.26, with the next card, Tinkaton ex, at $47.32. The set sold out on day one, went to an official made-to-order reprint from August to October 2023, and saw a further restock in August and September 2024, and it is 43 months old, so every sealed box left is secondary stock. It prints no Water-type or Metal-type Pokemon anywhere in the set, because those went to Snow Hazard instead."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $28.81 gap",
+        "math": [
+          "SV2D box per pack: $102.64 ÷ 30 = $3.42 per pack",
+          "SV2D box per card: $102.64 ÷ 150 = $0.68 per card",
+          "SV2D case per box: $1,202.87 ÷ 12 = $100.24 per box",
+          "SV2D case per pack: $1,202.87 ÷ 360 = $3.34 per pack",
+          "SV2D case per card: $1,202.87 ÷ 1,800 = $0.67 per card",
+          "SV2D twelve singles: 12 × $102.64 = $1,231.68",
+          "SV2D case saving: $1,231.68 − $1,202.87 = $28.81 across the case",
+          "SV2D saving per box: $28.81 ÷ 12 = $2.40 per box",
+          "SV2D official box: ¥5,400 ÷ ¥158 = $34.18; official pack ¥180 ÷ ¥158 = $1.14",
+          "SV2D box vs official: $102.64 ÷ $34.18 = 3.00x the official Japanese price",
+          "SV2D case box vs official: $100.24 ÷ $34.18 = 2.93x the official Japanese price",
+          "Iono SAR vs box: $296.26 ÷ $102.64 = 2.89x the price of a box",
+          "Iono SAR vs case box: $296.26 ÷ $100.24 = 2.96x the price of a case-split box",
+          "Tinkaton ex SAR vs box: $47.32 ÷ $102.64 = 0.46x the price of a box",
+          "Complete set vs box: $567.88 ÷ $102.64 = 5.53 boxes; 6 boxes cost 6 × $102.64 = $615.84",
+          "Complete set vs six boxes: $615.84 − $567.88 = $47.96 cheaper as singles",
+          "SV2D box vs Japan ask: $102.64 − $67.09 = $35.55 above the Sep 1, 2026 SNKRDUNK lowest ask",
+          "SV2D case box vs Japan ask: $100.24 − $67.09 = $33.15 above the same ask",
+          "SV2D box vs Battle Partners: $102.64 − $84.97 = $17.67 more per box",
+          "SV2D box vs Mask of Change: $111.46 − $102.64 = $8.82 less per box",
+          "Iono SAR vs English Iono SIR: $296.26 − $50.38 = $245.88 more; $296.26 ÷ $50.38 = 5.88x"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV2D box](/product/sv2d-clay-burst-booster-box-japanese-pokemon-card/) is $102.64 for 30 packs of 5 cards, which is $3.42 per pack and $0.68 per card. That per-pack price sits mid-shelf: dearer than Battle Partners at $2.83 a pack, cheaper than Crimson Haze at $3.57 a pack, Mask of Change at $3.72, and Ruler of Black Flame at $5.08. The box is 150 cards from a 99-card set, so one box gives the main set twice over and most of the secrets.",
+          "The case arithmetic is a thin real saving, and this guide exists to print it. The [SV2D case](/product/sv2d-clay-burst-sealed-case-12-boxes-japanese-pokemon-card/) is $1,202.87 for 12 boxes, which divides to $100.24 a box, $3.34 a pack, and $0.67 a card. Twelve single boxes cost $1,231.68, so the case saves $28.81 in total, or $2.40 a box. That is a real saving, but a convenience saving, not a discount: a splitter who lists case boxes at the single-box price keeps $2.40 on every box before fees. Compare [Raging Surf](/blog/sv3a-raging-surf-buyers-guide/), whose case saves $78.62, or $6.55 a box, on the same $102.64 box price.",
+          "The neighboring shelf puts SV2D in its price band, and it starts with the set that shares its box price to the cent. [Raging Surf](/blog/sv3a-raging-surf-buyers-guide/) is $102.64 a box, $3.42 a pack, the same as SV2D, but its case is $49.81 cheaper at $1,153.06. [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) is $84.97 a box, $2.83 a pack, so SV2D sits $17.67 above it per box. [Crimson Haze](/blog/sv5a-crimson-haze-buyers-guide/) is $107.04 a box, $3.57 a pack, so SV2D sits $4.40 below it per box. [Mask of Change](/blog/sv6-mask-of-change-buyers-guide/) is $111.46 a box, $3.72 a pack, so SV2D sits $8.82 below it per box. The [Gym Set](/product/sv2p-snow-hazard-sv2d-clay-burst-pokemon-center-gym-set-japanese-pokemon-card/) that pairs both sister sets is a separate product at $149.44, launched at an official MSRP of ¥12,800, and its contents are priced on its own product page rather than divided here.",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,400 in Japan, which is $34.18 at ¥158 to the dollar, and a pack at ¥180 is $1.14. Our box at $102.64 is 3.00 times the official price, and the case-split box at $100.24 is 2.93 times it. That multiple is not a markup story: the print run ended in 2023, the set is 43 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2023 retail, but our price against the cheapest sealed box in Japan today, and that is where the next section starts."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, so the table keeps to eight and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the Japan ask and the chase cards, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row and see the $2.40 margin, and single-card chasers scan the Iono SAR row and stop there.",
+          "Two rows decide more than the rest. The Iono SAR row decides the chaser: one card at $296.26 costs 2.89 boxes, and the next card in the set, Tinkaton ex at $47.32, costs 0.46 times a box, so the set has one expensive card and then a cliff. The Gym Set row decides the buyer who wants both sisters: it pairs Snow Hazard and Clay Burst in one product at $149.44, with contents priced on its own page. The English row decides the buyer who only wants the art: the English Iono SIR from Paldea Evolved carried a $50.38 TCGplayer near-mint market price on November 8, 2026, which is $245.88 less than the Japanese SAR, or 5.88 times cheaper."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV2D box",
+              "$102.64",
+              "30 packs, 150 cards",
+              "$102.64 / $3.42 / $0.68"
+            ],
+            [
+              "SV2D case",
+              "$1,202.87",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$100.24 / $3.34 / $0.67"
+            ],
+            [
+              "Iono SAR single",
+              "$296.26 (TCGplayer market, Nov 7 2026)",
+              "1 card, the chase",
+              "2.89x a box"
+            ],
+            [
+              "Complete set as singles",
+              "$567.88 (TCGplayer market, Nov 7 2026)",
+              "99 cards",
+              "5.53 boxes; $47.96 less than 6 boxes"
+            ],
+            [
+              "Japan secondary box",
+              "$67.09 (¥10,600 ask, Sep 1 2026)",
+              "1 sealed box, ask not a sale",
+              "$35.55 less than our box"
+            ],
+            [
+              "Gym Set (SV2P + SV2D)",
+              "$149.44",
+              "Both sister sets, one product",
+              "Separate product, see its page"
+            ],
+            [
+              "SV3a box",
+              "$102.64",
+              "30 packs, 150 cards",
+              "$102.64 / $3.42 / $0.68"
+            ],
+            [
+              "EN Paldea Evolved route",
+              "No EN product on our shelf",
+              "Iono SIR $50.38",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about SV2D is whether to buy the box or the Iono single. The answer we give in chat is the one on this page: the single costs nearly three boxes, so buy the single if Iono is the only card you want, and buy the box only if you want the set. Most buyers who ask it buy one box to open and the Iono single if they want the card.",
+        "paragraphs": [
+          "The top guides for this set are card lists and set tables, and they are good at what they do. The Samurai Sword card list transcribes all 99 cards from Limitless TCG and names the Iono SAR as the chase. The sets-in-order table gives the release date, the pack price, and the English twin. The TCGPursuit price page ranks every card by TCGplayer market price as of November 7, 2026. None of them divides a shelf: none shows a case split, none runs the single-versus-box test, none prices the Gym Set against the box, and none states the case margin. That division is the section this page owns, and it is the only part of the decision no card list can answer.",
+          "One more correction the lists do not make: a third-party summary elsewhere on the web describes Clay Burst as a 100-card set, and that figure does not survive a card-by-card check. Limitless TCG lists 99 cards, 71 in the main set and 28 secrets, and we use 99 throughout this guide. The same discipline applies to the prices: every marketplace figure here carries its date, the shelf prices are stamped November 8, 2026, and the Japan ask is stamped September 1, 2026, so a reader who finds a different number later can tell which figure moved."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card set, the reprint, and the English overlap",
+        "paragraphs": [
+          "The first risk is concentration. The Iono SAR at $296.26 is 52 percent of the complete set value of $567.88, so one card carries more than half the set. A box that misses Iono and the other four SARs holds a Tinkaton ex at best, and the rest of the set is bulk: only 17 of the 99 cards carry a TCGplayer market price of $3.00 or more. The second risk is the reprint. Clay Burst has already been reprinted twice, as a made-to-order run in August to October 2023 and a restock in August and September 2024, and a third run would cut the box premium the way the first two cut the day-one price. The third risk is the reseal. A 43-month-old box with a $296.26 chase is exactly the product a resealer targets, so check the seal before opening, photograph the box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, because a reseal claim is only provable while the seal is intact.",
+          "The English overlap is the risk most buyers miss, because the same art costs far less in English. The English Iono SIR from Paldea Evolved carried a $50.38 TCGplayer near-mint market price on November 8, 2026, against $296.26 for the Japanese SAR, and the graded gap is wider still: a PSA 10 Japanese Iono SAR carried a $449 CardZ reference price on November 8, 2026, against $135 for a PSA 10 English Iono SIR on November 7, 2026. Buy the Japanese card because you want the Japanese print, the 096/071 number, and the set it belongs to, not because it is the only Iono. And remember the second Iono SAR: Shiny Treasure ex prints its own Iono SAR at 350/190, a different card with different art, so check the number on any listing before you pay."
+        ]
+      },
+      {
+        "h": "Context: 99 cards, no Water, no Metal, and the English twin",
+        "paragraphs": [
+          "The set is a twin, and the twin explains its shape. Clay Burst and Snow Hazard released together on April 14, 2023, and the Treasures of Ruin split between them: Chi-Yu ex and Ting-Lu ex went to Clay Burst, Chien-Pao ex and Wo-Chien ex went to Snow Hazard. That split is why Clay Burst prints no Water-type or Metal-type Pokemon: those types went to the other box. The five SARs are the set in miniature: three Pokemon ex, one Trainer in Saguaro, and Iono, the Levincia Gym Leader, whose card the market priced above every Pokemon in the set. The secret block is 12 Art Rares, 8 Super Rares, 5 Special Art Rares, and 3 Ultra Rares, and the Ultra Rares are the gold cards, with Grass Energy at $8.05 as the cheapest of the top ten.",
+          "The English twin is Paldea Evolved, released June 9, 2023, about two months after the Japanese release. It combines Clay Burst, Snow Hazard, and Triplet Beat into one 279-card English set, so a buyer who wants the English cards buys one product instead of three Japanese boxes. That is the trade: the Japanese boxes give you the 99-card set with the Iono SAR at 096/071, and the English set gives you the same art spread across a larger checklist at lower prices. Japanese cards are not legal in English tournaments, so a player who buys SV2D for play has bought the wrong product, and the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full. If you are buying to open, the question is whether you want 150 cards from a 99-card set or a share of a 279-card English set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Iono SAR single at $296.26, which costs nearly three boxes, or the English Iono SIR at $50.38 if the art is what you want. Second, budget openers: at $3.42 a pack, SV2D is dearer than Battle Partners at $2.83, so a buyer who wants the cheapest 30-pack box should buy [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) instead. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV2D for play has bought the wrong product, and the English Paldea Evolved product is the one that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the Iono set in Japanese and will open 30 packs of it, sealed holders who will buy the case at $100.24 a box knowing the saving is $2.40 a box, and buyers choosing between the Japanese box and the English route who now know the Japanese SAR costs 5.88 times the English SIR. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Iono SAR costs 2.89 times a box",
+          "If buying sealed, compare our box at $102.64 against the Japan ask at $67.09 and decide whether the $35.55 is worth sealed stock from Japan in one parcel",
+          "If buying the case, confirm the case price at checkout; $100.24 a box is the live shelf figure for November 8, 2026, and the saving is $2.40 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV2D buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV2D box you consider. It takes ten minutes and it replaces a shelf of shop rankings with one division you can re-run yourself. Start with the buyer type, because the right format follows from it, and end with the seal check, because a 43-month-old box with a $296.26 chase is the product most worth verifying before you open it."
+        ]
+      }
+    ],
+    "slug": "sv2d-clay-burst-buyers-guide",
+    "takeaway": [
+      "The SV2D box at $102.64 is the middle of the 30-pack shelf at $3.42 a pack, and $0.68 a card, for 150 cards from a 99-card set. The case at $1,202.87 is the way to buy it sealed, at $100.24 a box and $3.34 a pack, saving $28.81 against twelve singles. The set is 99 cards, released April 14, 2023, and the chase is the Iono SAR, which carried a $296.26 TCGplayer market price on November 7, 2026, or 2.89 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 1, November 7, and November 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $67.09, so our box costs $35.55 more, and the case-split box costs $33.15 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the set that came five months after Clay Burst at the same $102.64 a box, but with a case that saves $78.62, and a chase that tops out at $37.39, not $296.26."
     ]
   },
   "sv3-ruler-of-black-flame-buyers-guide": {
@@ -19779,7 +19964,191 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV3 box at $152.29 is the dearest 30-pack main set on our shelf at $5.08 a pack, but $1.02 a card, for 150 cards from a 141-card set. The case at $1,454.15 is the way to buy it sealed, at $121.18 a box and $4.04 a pack, saving $373.33 against twelve singles. The set is 141 cards, released July 28, 2023, and the chase is the Charizard ex SAR, which carried a ¥20,555 lowest ask on October 5, 2026, about $130.09, or 0.85 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, October 5 and November 7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $97.15, so our box costs $55.14 more, and the case-split box costs $24.03 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Pokemon 151 guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the other Charizard-chase set the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase on our shelf, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own."
+      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase on our shelf, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own.",
+      "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the set that came two months after Ruler of Black Flame at $102.64 a box, with a case that saves $78.62 and a chase that tops out at $37.39."
+    ]
+  },
+  "sv3a-raging-surf-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Paradox Rift third in Japanese and accept $3.42 a pack, which is $0.68 a card for 150 cards from a 92-card set. The case is the better sealed buy at $96.09 a box, saving $78.62 against twelve singles. For profit, no: no box guarantees a SAR, and the dearest card in the set, the Parasol Lady SAR, carries a $37.39 market price on its own, or 0.36 times a box, so even the best pull loses money against the box price. Open SV3a because you want the set, and buy the Parasol Lady single if it is the only card you want.",
+        "q": "Is SV3a Raging Surf worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (September 22, 2023), and the box standard is 30 packs. At our shelf price of $102.64, that is $3.42 per pack and $0.68 per card.",
+        "q": "How many packs are in an SV3a booster box?"
+      },
+      {
+        "a": "Buy the single if Parasol Lady is the only card you want. One Parasol Lady SAR carried a $37.39 TCGplayer market price on November 7, 2026, which is 0.36 times a box and a third of a box at $102.64. A box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 92-card set and the chance at the whole secret block, and buy the case at $96.09 a box if you want to hold sealed.",
+        "q": "Should I buy the SV3a box or the Parasol Lady SAR single?"
+      }
+    ],
+    "h1": "SV3a Raging Surf: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV3a box at $102.64 if you want to open Raging Surf, and buy the case at $1,153.06 if you want to hold or split it at $96.09 a box. The honest headline is the one no other guide prints: the top card is not Gholdengo. The Parasol Lady SAR carried a $37.39 TCGplayer market price on November 7, 2026, above the Gholdengo ex SAR at $32.07, and the most expensive card in the set costs 0.36 times a box. Our box costs $17.02 more than a Tokyo shop's sealed-box listing, so you are paying for sealed stock from Japan, not the lowest yen price.",
+      "Who this is for: collectors who want the Paradox Rift third in Japanese, sealed holders who divide the case before they pay, because this is the set where the division pays, and buyers choosing between a Japanese box and an English Paradox Rift product. Who it is not for: anyone chasing one named card, because the dearest card in the set costs $37.39 and no pull is guaranteed; anyone who wants the cheapest 30-pack box, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Raging Surf (SV3a) from one store: box $102.64, case $1,153.06, and the Parasol Lady SAR at $37.39 priced honestly. Case saves $78.62.",
+    "metaTitle": "SV3a Raging Surf: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV3a rewards the buyer who gets the order right and punishes the one who does not. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 92-card set, so one box covers the set with duplicates to trade, and the second box is mostly cards you already own. A sealed holder should buy the case, not twelve singles, because the case at $1,153.06 divides to $96.09 a box and saves $78.62 against twelve singles at $1,231.68, or $6.55 a box. A case splitter should do the same division before listing, because the margin is real here: every box out of this case starts $6.55 ahead. A single-card chaser should stop here and buy the Parasol Lady SAR instead, because one card at $37.39 costs 0.36 times a box, and the box can hold no SAR at all.",
+          "The set is built flat and the chase is wide, and that combination decides everything on this page. Raging Surf came out in Japan on September 22, 2023, as an Enhanced Expansion Pack built for Sealed-format tournaments, and it is one third of the English Paradox Rift. It prints 92 cards: a 62-card base set and a 30-card secret block. The five SARs are Garchomp ex, Tapu Koko ex, Gholdengo ex, Rika, and Parasol Lady, and the top three sit within $5.91 of each other: Parasol Lady at $37.39, Gholdengo ex at $32.07, and Garchomp ex at $31.48. No card in the set costs more than $37.39, and the set is 37 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $78.62 gap",
+        "math": [
+          "SV3a box per pack: $102.64 ÷ 30 = $3.42 per pack",
+          "SV3a box per card: $102.64 ÷ 150 = $0.68 per card",
+          "SV3a case per box: $1,153.06 ÷ 12 = $96.09 per box",
+          "SV3a case per pack: $1,153.06 ÷ 360 = $3.20 per pack",
+          "SV3a case per card: $1,153.06 ÷ 1,800 = $0.64 per card",
+          "SV3a twelve singles: 12 × $102.64 = $1,231.68",
+          "SV3a case saving: $1,231.68 − $1,153.06 = $78.62 across the case",
+          "SV3a saving per box: $78.62 ÷ 12 = $6.55 per box",
+          "SV3a official box: ¥5,400 ÷ ¥158 = $34.18; official pack ¥180 ÷ ¥158 = $1.14",
+          "SV3a box vs official: $102.64 ÷ $34.18 = 3.00x the official Japanese price",
+          "SV3a case box vs official: $96.09 ÷ $34.18 = 2.81x the official Japanese price",
+          "Parasol Lady SAR vs box: $37.39 ÷ $102.64 = 0.36x the price of a box",
+          "Gholdengo ex SAR vs box: $32.07 ÷ $102.64 = 0.31x the price of a box",
+          "Garchomp ex SAR vs box: $31.48 ÷ $102.64 = 0.31x the price of a box",
+          "Complete set vs box: $327.19 ÷ $102.64 = 3.19 boxes; 4 boxes cost 4 × $102.64 = $410.56",
+          "Complete set vs four boxes: $410.56 − $327.19 = $83.37 cheaper as singles",
+          "SV3a box vs Tokyo listing: $102.64 − $85.62 = $17.02 above the Sep 30, 2026 Tokyo sealed-box listing",
+          "SV3a case box vs Tokyo listing: $96.09 − $85.62 = $10.47 above the same listing",
+          "SV3a box vs Battle Partners: $102.64 − $84.97 = $17.67 more per box",
+          "SV3a box vs Mask of Change: $111.46 − $102.64 = $8.82 less per box",
+          "Gholdengo ex SAR vs English SIR: $32.07 − $29.87 = $2.20 more; $32.07 ÷ $29.87 = 1.07x"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV3a box](/product/sv3a-raging-surf-booster-box-japanese-pokemon-card/) is $102.64 for 30 packs of 5 cards, which is $3.42 per pack and $0.68 per card. That per-pack price sits mid-shelf: dearer than Battle Partners at $2.83 a pack, cheaper than Crimson Haze at $3.57 a pack, Mask of Change at $3.72, and Ruler of Black Flame at $5.08. The box is 150 cards from a 92-card set, so one box gives the main set twice over and most of the secrets.",
+          "The case arithmetic is the reason to buy this set sealed, and this guide exists to print it. The [SV3a case](/product/sv3a-raging-surf-sealed-case-12-boxes-japanese-pokemon-card/) is $1,153.06 for 12 boxes, which divides to $96.09 a box, $3.20 a pack, and $0.64 a card. Twelve single boxes cost $1,231.68, so the case saves $78.62 in total, or $6.55 a box. That is a real discount, not a convenience fee: a splitter who lists case boxes at the single-box price keeps $6.55 on every box before fees. Compare [Clay Burst](/blog/sv2d-clay-burst-buyers-guide/), whose case saves only $28.81, or $2.40 a box, on the same $102.64 box price.",
+          "The neighboring shelf puts SV3a in its price band, and it starts with the set that shares its box price to the cent. [Clay Burst](/blog/sv2d-clay-burst-buyers-guide/) is $102.64 a box, $3.42 a pack, the same as SV3a, but its case is $49.81 dearer at $1,202.87. [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) is $84.97 a box, $2.83 a pack, so SV3a sits $17.67 above it per box. [Crimson Haze](/blog/sv5a-crimson-haze-buyers-guide/) is $107.04 a box, $3.57 a pack, so SV3a sits $4.40 below it per box. [Mask of Change](/blog/sv6-mask-of-change-buyers-guide/) is $111.46 a box, $3.72 a pack, so SV3a sits $8.82 below it per box.",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,400 in Japan, which is $34.18 at ¥158 to the dollar, and a pack at ¥180 is $1.14. Our box at $102.64 is 3.00 times the official price, and the case-split box at $96.09 is 2.81 times it. That multiple is not a markup story: the print run ended in 2023, the set is 37 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2023 retail, but our price against the cheapest sealed box in Japan today, and a Tokyo shop listed the sealed box at ¥13,528, or $85.62, on September 30, 2026: our box costs $17.02 more, and the case-split box costs $10.47 more."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, so the table keeps to eight and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the Tokyo listing and the chase cards, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row and see the $6.55 margin, and single-card chasers scan the Parasol Lady row and stop there.",
+          "Two rows decide more than the rest. The Parasol Lady row decides the chaser: one card at $37.39 costs 0.36 times a box, and the second card, Gholdengo ex at $32.07, costs 0.31 times a box, so the set has no card worth chasing through sealed product. The complete-set row decides the collector: all 92 cards as singles cost $327.19, which is 3.19 boxes, and $83.37 less than four boxes at $410.56, so a collector who wants the set and not the gamble should buy singles. The English row decides the buyer who only wants the famous card: the English Gholdengo ex SIR carried a $29.87 TCGplayer market price on November 6, 2026, $2.20 less than the Japanese SAR, so there is no language premium either way."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV3a box",
+              "$102.64",
+              "30 packs, 150 cards",
+              "$102.64 / $3.42 / $0.68"
+            ],
+            [
+              "SV3a case",
+              "$1,153.06",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$96.09 / $3.20 / $0.64"
+            ],
+            [
+              "Parasol Lady SAR single",
+              "$37.39 (TCGplayer market, Nov 7 2026)",
+              "1 card, the chase",
+              "0.36x a box"
+            ],
+            [
+              "Complete set as singles",
+              "$327.19 (TCGplayer market, Nov 7 2026)",
+              "92 cards",
+              "3.19 boxes; $83.37 less than 4 boxes"
+            ],
+            [
+              "Tokyo sealed box",
+              "$85.62 (¥13,528 listing, Sep 30 2026)",
+              "1 sealed box, listing not a sale",
+              "$17.02 less than our box"
+            ],
+            [
+              "Gholdengo ex SAR single",
+              "$32.07 (TCGplayer market, Nov 7 2026)",
+              "1 card, second chase",
+              "0.31x a box"
+            ],
+            [
+              "SV2D box",
+              "$102.64",
+              "30 packs, 150 cards",
+              "$102.64 / $3.42 / $0.68"
+            ],
+            [
+              "EN Paradox Rift route",
+              "No EN product on our shelf",
+              "Gholdengo ex SIR $29.87",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the wrong chase card",
+        "note": "From the Warehouse: the question we get most about SV3a is whether the case is the smart buy. The answer we give in chat is the one on this page: the case saves $78.62 against twelve singles, so buy the case if you want to hold sealed, and buy the Parasol Lady single if you want the card. Most buyers who ask it buy one box to open and the Parasol Lady single if they want the card.",
+        "paragraphs": [
+          "The top guides for this set crown the wrong card, and the market says so. The Samurai Sword Gholdengo guide is a careful page: it prints the official database row for the SAR at 087/062, the English Paradox Rift match, and the dated SNKRDUNK asks. The japan-figure list ranks the set's best cards and puts Parasol Lady first at $37.03, but its figures are 153 days old. The TCGPursuit price page ranks every card by TCGplayer market price as of November 7, 2026, and it is the page that settles the question: Parasol Lady at $37.39, Gholdengo ex at $32.07, Garchomp ex at $31.48. Gholdengo is the famous card and the one the guides write about, but Parasol Lady is the dearest card, and a buyer who chases Gholdengo through sealed boxes is chasing the second card in the set.",
+          "None of the three pages divides a shelf either: none shows a case split, none runs the single-versus-box test, and none prices the Tokyo listing against our box. That division is the section this page owns, and it is the only part of the decision no card list can answer. The same discipline applies to the prices: every marketplace figure here carries its date, the shelf prices are stamped November 8, 2026, and the Tokyo listing is stamped September 30, 2026, so a reader who finds a different number later can tell which figure moved."
+        ]
+      },
+      {
+        "h": "The risk layer: the flat set, the reprint, and the English overlap",
+        "paragraphs": [
+          "The first risk is flatness. No card in Raging Surf costs more than $37.39, so no pull rescues a bad box: a box that holds no SAR at all is a box of bulk, and even the best pull in the set is worth a third of the box that held it. The complete set costs $327.19 as singles, which is 3.19 boxes, so opening four boxes to complete the set spends $410.56 to build $327.19 of cards. The second risk is the reprint. Gholdengo ex was printed again as a SAR in SV8a Terastal Festival ex at 220/187, so the SV3a print is not the only SAR of this card, and any further reprint of the set's top cards would cut the small premium the box still carries. The third risk is the reseal. A 37-month-old box is exactly the product a resealer targets, so check the seal before opening, photograph the box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, because a reseal claim is only provable while the seal is intact.",
+          "The English overlap is the risk most buyers miss, because the same cards cost the same or less in English. The English Gholdengo ex SIR from Paradox Rift carried a $29.87 TCGplayer market price on November 6, 2026, against $32.07 for the Japanese SAR, so the Japanese card costs $2.20 more, not less. The graded gap runs the other way: the lowest PSA 10 ask for the Japanese Gholdengo ex SAR on SNKRDUNK was ¥20,000 on September 30, 2026, or $126.58 at ¥158 to the dollar, against a Tokyo shop's PSA 10 listing at ¥20,280. Buy the Japanese card because you want the Japanese print, the 087/062 number, and the set it belongs to, not because it is the only Gholdengo ex. And remember the set's design: Raging Surf was built for Sealed-format tournaments, so its cards were made to be played from fresh packs, not hoarded."
+        ]
+      },
+      {
+        "h": "Context: 92 cards, a Sealed-format set, and the English twin",
+        "paragraphs": [
+          "The set is small on purpose, and the purpose explains its shape. Raging Surf prints 92 cards: a 62-card base set and a 30-card secret block. The five SARs are the set in miniature: three Pokemon ex in Garchomp, Tapu Koko, and Gholdengo, and two Trainers in Rika and Parasol Lady, and the Trainers beat the Pokemon on price, which is rare. The secret block also holds the Garchomp ex Ultra Rare at $19.48 and the Groudon Art Rare at $24.95, so value spreads across the tiers instead of sitting on one card. The set was designed for Sealed-format tournaments, where players build decks from sealed product on the day, and that design is why the set is short, balanced, and flat: it was made to be opened and played, not chased.",
+          "The English twin is Paradox Rift, released November 3, 2023, about six weeks after the Japanese release. It combines Raging Surf with Ancient Roar and Future Flash into one 266-card English set, so a buyer who wants the English cards buys one product instead of three Japanese boxes. That is the trade: the Japanese boxes give you the 92-card set with the Parasol Lady SAR at 089/062, and the English set gives you the same cards spread across a larger checklist at lower prices. Japanese cards are not legal in English tournaments, so a player who buys SV3a for play has bought the wrong product, and the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full. If you are buying to open, the question is whether you want 150 cards from a 92-card set or a share of a 266-card English set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Parasol Lady SAR single at $37.39, which costs 0.36 times a box, or the Gholdengo ex SAR at $32.07 if that is the card you want. Second, profit openers: no card in the set costs more than $37.39, so a box at $102.64 needs three top hits to break even, and a box holds no guaranteed SAR at all. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV3a for play has bought the wrong product, and the English Paradox Rift product is the one that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the Paradox Rift third in Japanese and will open 30 packs of it, sealed holders who will buy the case at $96.09 a box knowing the saving is $6.55 a box, and buyers choosing between the Japanese box and the English route who now know the Japanese SAR costs $2.20 more than the English SIR. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Parasol Lady SAR costs 0.36 times a box",
+          "If buying sealed, compare our box at $102.64 against the Tokyo listing at $85.62 and decide whether the $17.02 is worth sealed stock from Japan in one parcel",
+          "If buying the case, confirm the case price at checkout; $96.09 a box is the live shelf figure for November 8, 2026, and the saving is $6.55 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV3a buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV3a box you consider. It takes ten minutes and it replaces a shelf of shop rankings with one division you can re-run yourself. Start with the buyer type, because the right format follows from it, and end with the seal check, because a 37-month-old box is the product most worth verifying before you open it."
+        ]
+      }
+    ],
+    "slug": "sv3a-raging-surf-buyers-guide",
+    "takeaway": [
+      "The SV3a box at $102.64 is the middle of the 30-pack shelf at $3.42 a pack, and $0.68 a card, for 150 cards from a 92-card set. The case at $1,153.06 is the way to buy it sealed, at $96.09 a box and $3.20 a pack, saving $78.62 against twelve singles. The set is 92 cards, released September 22, 2023, and the chase is the Parasol Lady SAR, which carried a $37.39 TCGplayer market price on November 7, 2026, or 0.36 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30, November 6, and November 7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Tokyo listing for a sealed box was $85.62, so our box costs $17.02 more, and the case-split box costs $10.47 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came five months before Raging Surf at the same $102.64 a box, but with a case that saves only $28.81, and a chase, the Iono SAR at $296.26, that costs 2.89 boxes."
     ]
   },
   "sv4a-shiny-treasure-ex-buyers-guide": {
@@ -19962,7 +20331,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV4a box at $141.24 is the second most expensive 10-pack box on our shelf at $14.12 a pack, but $1.41 a card, with a Pokemon ex guaranteed in every pack and 360 cards in the set. The case at $2,306.10 is the way to buy it sealed, at $115.31 a box and $11.53 a pack, saving $518.70 against twenty singles. The set is 360 cards, released December 1, 2023, and the chase is the Mew ex SAR, which carried a ¥43,000 ask on October 7, 2026, down 21.82% from March.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and October 7, 2026. The god-pack figure is a community estimate, not a guarantee, and the box can hold zero SAR cards. The Japan ask for a sealed box was $100.00, so our box costs $41.24 more, and the case-split box costs $15.31 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best Japanese Pokemon special set guide](/blog/best-japanese-pokemon-special-set-to-buy/) ranks the special sets the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the set that shares SV4a's $141.24 box price, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own."
+      "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the set that shares SV4a's $141.24 box price, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own.",
+      "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the Paradox Rift third at $102.64 a box, and names the Parasol Lady SAR, not Gholdengo, as the dearest card at $37.39."
     ]
   },
   "sv5a-crimson-haze-buyers-guide": {
