@@ -19965,6 +19965,374 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the set that shares SV4a's $141.24 box price, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own."
     ]
   },
+  "sv5a-crimson-haze-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Kitakami set in Japanese and accept $3.57 a pack, which is $0.71 a card for 150 cards from a 96-card set. For sealed holding, buy twelve single boxes at $107.04, not the case at $1,303.24, because the case costs $18.76 more than its own singles. For profit, no: no box guarantees the Greninja ex SAR, which carries a $234.60 market price on its own, 2.19 times a box. Open SV5a because you want the set, and buy the Greninja ex single if it is the only card you want.",
+        "q": "Is SV5a Crimson Haze worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (March 22, 2024), and the box standard is 30 packs. At our shelf price of $107.04, that is $3.57 per pack and $0.71 per card.",
+        "q": "How many packs are in an SV5a booster box?"
+      },
+      {
+        "a": "Buy the single if Greninja ex is the only card you want. One Greninja ex SAR carried a $234.60 TCGplayer market price on November 5, 2026, which is 2.19 times a box and more than two boxes at $107.04. A box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 96-card set and the chance at the whole secret block, and buy twelve single boxes, not the case, if you want to hold sealed.",
+        "q": "Should I buy the SV5a box or the Greninja ex SAR single?"
+      }
+    ],
+    "h1": "SV5a Crimson Haze: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV5a box at $107.04 if you want to open Crimson Haze, and do not buy the case at $1,303.24, because twelve singles cost $1,284.48, which is $18.76 less than the case. The honest headline is the one no other guide prints: our case costs more than its own singles, so the sealed buy here is twelve boxes, not one case. The chase is the Greninja ex SAR, which carried a $234.60 TCGplayer market price on November 5, 2026, or 2.19 times a box, and the English print of the same art costs $235.66, so there is no language discount either way.",
+      "Who this is for: collectors who want the Kitakami set in Japanese and will open 30 packs of it, buyers choosing between a Japanese box and an English Twilight Masquerade product, and sealed holders who divide the case before they pay, because this is the set where the division changes the answer. Who it is not for: anyone chasing one named card, because the Greninja ex SAR costs more than two boxes and no pull is guaranteed; anyone who buys cases on autopilot, because this case loses $18.76 against its own singles; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Crimson Haze (SV5a) from one store: box $107.04, case $1,303.24, and the Greninja ex SAR priced honestly. The case costs more than 12 singles.",
+    "metaTitle": "SV5a Crimson Haze: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV5a punishes the buyer who gets the order backwards. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 96-card set, so one box covers the set with duplicates to trade, and the set is small and the secrets are few. A sealed holder should buy twelve single boxes, not the case, because the case costs $18.76 more than twelve singles, which is the only set on our shelf where that sentence is true. A case splitter should do the same division before listing, because there is no margin to split: every box out of this case starts $1.56 underwater. A single-card chaser should stop here and buy the Greninja ex SAR instead, because one card at $234.60 costs more than two boxes at $107.04, and the box can hold no SAR at all.",
+          "The set is built on two cards and the chase is narrow, and that combination decides everything on this page. Crimson Haze came out in Japan on March 22, 2024, as an Enhanced Expansion Pack built around Kitakami, with Bloodmoon Ursaluna ex as the headline and Greninja ex as the card the market prices. It prints 96 cards: a 66-card base set and a 30-card secret block of 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The five SARs are Sinistcha ex, Greninja ex, Bloodmoon Ursaluna ex, Perrin, and Lana's Aid, and only Greninja ex and Perrin carry real money. The rest of the set is bulk, and the set is 31 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $18.76 inversion",
+        "math": [
+          "SV5a box per pack: $107.04 ÷ 30 = $3.57 per pack",
+          "SV5a box per card: $107.04 ÷ 150 = $0.71 per card",
+          "SV5a case per box: $1,303.24 ÷ 12 = $108.60 per box",
+          "SV5a case per pack: $1,303.24 ÷ 360 = $3.62 per pack",
+          "SV5a case per card: $1,303.24 ÷ 1,800 = $0.72 per card",
+          "SV5a twelve singles: 12 × $107.04 = $1,284.48",
+          "SV5a case excess: $1,303.24 − $1,284.48 = $18.76 more than twelve singles",
+          "SV5a excess per box: $18.76 ÷ 12 = $1.56 more per box in the case",
+          "SV5a official box: ¥5,400 ÷ ¥158 = $34.18; official pack ¥180 ÷ ¥158 = $1.14",
+          "SV5a box vs official: $107.04 ÷ $34.18 = 3.13x the official Japanese price",
+          "SV5a case box vs official: $108.60 ÷ $34.18 = 3.18x the official Japanese price",
+          "Greninja ex SAR vs box: $234.60 ÷ $107.04 = 2.19x the price of a box",
+          "Greninja ex SAR vs case box: $234.60 ÷ $108.60 = 2.16x the price of a case-split box",
+          "Perrin SAR vs box: $117.10 ÷ $107.04 = 1.09x the price of a box",
+          "Complete set vs box: $538.53 ÷ $107.04 = 5.03 boxes; 6 boxes cost 6 × $107.04 = $642.24",
+          "Complete set vs six boxes: $642.24 − $538.53 = $103.71 cheaper as singles",
+          "SV5a box vs Japan ask: $107.04 − $75.82 = $31.22 above the Sep 30, 2026 SNKRDUNK lowest ask",
+          "SV5a case box vs Japan ask: $108.60 − $75.82 = $32.78 above the same ask",
+          "SV6 box per pack: $111.46 ÷ 30 = $3.72 per pack; SV5a box costs $111.46 − $107.04 = $4.42 less",
+          "SV9 box per pack: $84.97 ÷ 30 = $2.83 per pack; SV5a box costs $107.04 − $84.97 = $22.07 more",
+          "SV7a box per pack: $141.24 ÷ 30 = $4.71 per pack; SV5a box costs $141.24 − $107.04 = $34.20 less",
+          "English Greninja ex SIR vs Japanese SAR: $235.66 − $234.60 = $1.06 more for the English single"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV5a box](/product/sv5a-crimson-haze-booster-box-japanese-pokemon-card/) is $107.04 for 30 packs of 5 cards, which is $3.57 per pack and $0.71 per card. That per-pack price sits mid-shelf: dearer than Battle Partners at $2.83 a pack and Clay Burst at $3.42, cheaper than Paradise Dragona at $4.71 and Ruler of Black Flame at $5.08. The box is 150 cards from a 96-card set, so one box gives the main set twice over and most of the secrets, and the second box is mostly cards you already own.",
+          "The case arithmetic is the inversion this guide exists to print. The [SV5a case](/product/sv5a-crimson-haze-sealed-case-12-boxes-japanese-pokemon-card/) is $1,303.24 for 12 boxes, which divides to $108.60 a box, $3.62 a pack, and $0.72 a card. Twelve single boxes cost $1,284.48, so the case costs $18.76 more than its own singles, or $1.56 more per box. There is no saving to describe, because the case is the dearer way to buy twelve boxes. A splitter who lists case boxes at the single-box price loses $1.56 on every box before fees, and a holder who buys the case pays for the convenience of one parcel with money that buys nothing. Buy twelve singles instead.",
+          "The neighboring shelf puts SV5a in its price band, and it starts with the set that shares its English twin. [Mask of Change](/blog/sv6-mask-of-change-buyers-guide/) is $111.46 a box, $3.72 a pack, which makes SV5a $4.42 cheaper per box for the set that came five weeks earlier. [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) is $84.97 a box, $2.83 a pack, so SV5a sits $22.07 above it per box. [Paradise Dragona](/blog/sv7a-paradise-dragona-buyers-guide/) is $141.24 a box, $4.71 a pack, so SV5a sits $34.20 below it per box. Wild Force, the January 2024 set, is $107.04 a box, the same price as SV5a to the cent, which is the shelf telling you these two sets trade as one tier.",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,400 in Japan, which is $34.18 at ¥158 to the dollar, and a pack at ¥180 is $1.14. Our box at $107.04 is 3.13 times the official price, and the case-split box at $108.60 is 3.18 times it. That multiple is not a markup story: the print run ended in 2024, the set is 31 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2024 retail, but our price against the cheapest sealed box in Japan today, and that is where the next section starts."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, so the table keeps to eight and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the Japan ask and the chase cards, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row and see the inversion, and single-card chasers scan the Greninja ex SAR row and stop there.",
+          "Read the Japan ask row carefully, because it is the row that decides whether our price is fair. The lowest ask for a sealed SV5a box on SNKRDUNK was ¥11,980 on September 30, 2026, or $75.82 at ¥158 to the dollar. Our box at $107.04 is $31.22 above it, and our case-split box at $108.60 is $32.78 above it. An ask is not a sale, and it is not a landed price: it carries no international shipping, no import handling, and no guarantee the seller ships sealed stock to your country. What you pay for on our shelf is a sealed box from Japan in one parcel with one tracking number, and the $31.22 is the price of that. If the cheapest yen price is the goal, the secondary market wins."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV5a box",
+              "$107.04",
+              "30 packs, 150 cards",
+              "$107.04 / $3.57 / $0.71"
+            ],
+            [
+              "SV5a case",
+              "$1,303.24",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$108.60 / $3.62 / $0.72"
+            ],
+            [
+              "Greninja ex SAR single",
+              "$234.60 (TCGplayer market, Nov 5 2026)",
+              "1 card, the chase",
+              "2.19x a box"
+            ],
+            [
+              "Complete set as singles",
+              "$538.53 (TCGplayer market, Nov 7 2026)",
+              "96 cards",
+              "5.03 boxes; $103.71 less than 6 boxes"
+            ],
+            [
+              "Japan secondary box",
+              "$75.82 (¥11,980 ask, Sep 30 2026)",
+              "1 sealed box, ask not a sale",
+              "$31.22 less than our box"
+            ],
+            [
+              "SV6 box",
+              "$111.46",
+              "30 packs, 150 cards",
+              "$111.46 / $3.72 / $0.74"
+            ],
+            [
+              "SV9 box",
+              "$84.97",
+              "30 packs, 150 cards",
+              "$84.97 / $2.83 / $0.57"
+            ],
+            [
+              "Twilight Masquerade EN route",
+              "No EN product on our shelf",
+              "Greninja ex SIR $235.66",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about SV5a is whether the case is the smart buy. The answer we give in chat is the one on this page: the case costs more than twelve singles, so buy twelve singles and skip the case entirely. Most buyers who ask it buy one box to open and the Greninja single if they want the card.",
+        "paragraphs": [
+          "The top results for this query are a set list, a card-price list, and a complete-set calculator, and none of them divides a price from a store shelf. The first runs the whole SV era in order with release dates and card counts. The second lists the chase cards with TCGplayer market prices and stops at the Greninja ex SAR. The third prices a complete set as singles and stops at $538.53. All three are useful, and none of them answers the question a buyer actually has: what does a box cost from the store in front of you, what does the case save, and is the box worth more than the single.",
+          "That gap hides three findings. First, the case inversion is missing: no top guide says that 12 SV5a boxes cost $1,303.24 in a case and $1,284.48 as singles, which decides a sealed hold against the case. Second, the single-versus-box inversion is missing: no guide says the Greninja ex SAR at $234.60 costs more than two boxes at $107.04. Third, the language parity is missing: no guide says the same Greninja art in English costs $235.66, or $1.06 more than the Japanese single, so there is no cheap English route to this card either. This page prints all three, because a buyer who sees them makes a better decision than a buyer who does not."
+        ]
+      },
+      {
+        "h": "The risk layer: the two-card set, the English parity, and the reprint",
+        "paragraphs": [
+          "The first risk is the chase, and it is two cards wide. The Greninja ex SAR carried a $234.60 TCGplayer market price on November 5, 2026, and the Perrin SAR carried $117.10, and together they are $351.70, or 3.29 times a box, while the other three SARs and the three URs trade for a fraction of that. A box bought to chase Greninja ex is a bet on one card in a 96-card set, and the box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. The PSA 10 Greninja ex SAR carried a $404 reference price from completed sales on November 7, 2026, or 3.77 times a box, but that is the graded card, not the raw one.",
+          "The second risk is the English parity, and it is the quiet one. The same Greninja ex art exists in English as the 214/167 Special Illustration Rare in Twilight Masquerade, which carried a $235.66 market price on November 7, 2026, or $1.06 more than the Japanese single. A buyer who wants the Greninja art in English pays the same money for the single and gets a card legal in English events, while the Japanese single is not. There is no language arbitrage here, so the Japanese box has to be bought for the Japanese set, not for a cheaper route to the card. The third risk is the reprint: SV5a is 31 months old and the $107.04 box price is secondary-market pricing, so a reprint would cut the sealed price. The fourth risk is the reseal: a box at 3.13 times its official price is worth faking, so check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is intact. Our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what a factory seal looks like and what a reseal looks like."
+        ]
+      },
+      {
+        "h": "Context: 96 cards, Kitakami, and the English twin",
+        "paragraphs": [
+          "The set earns its price on structure, not on one card. SV5a prints 66 base cards and 30 secret cards, 96 in total, and the secret block is 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The set is built on Kitakami, the region from the Teal Mask story, and it prints Bloodmoon Ursaluna ex as the headline, Greninja ex as a Fighting-type Tera Pokemon, and Sinistcha ex, Magcargo ex, Scream Tail ex, and Iron Thorns ex alongside them. It also prints two ACE SPEC Item cards, Unfair Stamp and Hyper Aroma, which follow the one-per-deck restriction. One box holds 150 cards, so even a perfect box with no duplicates covers the set once and leaves the secrets to chance. Buy SV5a to open the Kitakami set, not to complete it from boxes.",
+          "One more context fact, because it decides purchases: the Japanese set and the English set are different products. Twilight Masquerade came out in English on May 24, 2024, built from SV5a and SV6 together, with SV5a as one-third and SV6 as two-thirds. The English booster holds 10 cards against the Japanese 5, the English set prints over 220 cards against the Japanese 96, and the English Greninja ex SIR is a different number, 214/167, from the Japanese SAR, 090/066. We carry no Twilight Masquerade product on our shelf, so the English route is the secondary market, not us. If you want the same art in English, buy Twilight Masquerade singles; if you want the Japanese source set, buy the SV5a box. The two products share cards and share nothing else. Our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Greninja ex SAR single at $234.60, which costs more than two boxes but is guaranteed to be the card. Second, case buyers on autopilot: this is the one set on our shelf where the case loses money, and [Terastal Festival ex](/blog/sv8a-terastal-festival-ex-buyers-guide/) saves $27.16 per box by the same division. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV5a for play has bought the wrong product, and the English Greninja ex SIR at $235.66 is the card that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the Kitakami set in Japanese and will open 30 packs of it, sealed holders who will buy twelve single boxes at $107.04 instead of the case, and buyers choosing between the Japanese box and the English route who now know the two Greninja singles cost within $1.06 of each other. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying sealed, buy twelve single boxes at $107.04, not the case at $1,303.24, because the case costs $18.76 more than its own singles",
+          "If buying for one named card, stop and buy the single instead; one Greninja ex SAR costs 2.19 times a box",
+          "If buying sealed, compare our box at $107.04 against the Japan ask at $75.82 and decide whether the $31.22 is worth sealed stock from Japan in one parcel",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, because the English Greninja ex SIR costs $235.66 and is the legal card",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV5a buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV5a box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision you can defend: the buyer type, the division, the single-versus-box test, the Japan ask comparison, and the seal check. Skip any step and you are guessing, and the case is the one place where guessing costs money before you open anything."
+        ]
+      }
+    ],
+    "slug": "sv5a-crimson-haze-buyers-guide",
+    "takeaway": [
+      "The SV5a box at $107.04 is the middle of the 30-pack shelf at $3.57 a pack, but $0.71 a card, for 150 cards from a 96-card set. The case at $1,303.24 is the one case on our shelf that loses money, at $108.60 a box against $107.04 for a single box, so twelve singles at $1,284.48 are the sealed buy. The set is 96 cards, released March 22, 2024, and the chase is the Greninja ex SAR, which carried a $234.60 TCGplayer market price on November 5, 2026, or 2.19 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and November 5 and 7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $75.82, so our box costs $31.22 more, and the case-split box costs $32.78 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that shares SV5a's $3.57-a-pack tier the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) prices the set that came five weeks after Crimson Haze and shares its English twin, box $111.46 against a case that saves $354.72, with the Carmine SAR at $87.83 on its own."
+    ]
+  },
+  "sv6-mask-of-change-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Ogerpon set in Japanese and accept $3.72 a pack, which is $0.74 a card for 150 cards from a 133-card set. The case is the better sealed buy at $81.90 a box, saving $354.72 against twelve singles. For profit, no: no box guarantees the Carmine SAR, which carries an $87.83 market price on its own, 0.79 times a box, so even pulling it loses money against the box price. Open SV6 because you want the set, and buy the Carmine single if it is the only card you want.",
+        "q": "Is SV6 Mask of Change worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (April 26, 2024), and the box standard is 30 packs. At our shelf price of $111.46, that is $3.72 per pack and $0.74 per card.",
+        "q": "How many packs are in an SV6 booster box?"
+      },
+      {
+        "a": "Buy the single if Carmine is the only card you want. One Carmine SAR carried an $87.83 TCGplayer market price on November 5, 2026, which is 0.79 times a box and less than a box at $111.46. A box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 133-card set and the chance at the whole secret block, and buy the case at $81.90 a box if you want to hold sealed.",
+        "q": "Should I buy the SV6 box or the Carmine SAR single?"
+      }
+    ],
+    "h1": "SV6 Mask of Change: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV6 box at $111.46 if you want to open Mask of Change, and buy the case at $982.80 if you want to hold or split it at $81.90 a box. The honest headline is the one no other guide prints: our box costs $44.37 more than the cheapest Japanese secondary ask, so you are paying for sealed stock from Japan, not the lowest yen price. The chase is the Carmine SAR, which carried an $87.83 TCGplayer market price on November 5, 2026, or 0.79 times a box: the single costs less than the box that might hold it.",
+      "Who this is for: collectors who want the Ogerpon set in Japanese, buyers choosing between a Japanese box and an English Twilight Masquerade product, and sealed holders who divide the case before they pay. Who it is not for: anyone chasing one named card, because the Carmine SAR costs less than a box and no pull is guaranteed; anyone who wants the cheapest sealed Pokemon on the shelf, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Mask of Change (SV6) from one store: box $111.46, case $982.80, $81.90 a box in a case, and the Carmine SAR priced honestly.",
+    "metaTitle": "SV6 Mask of Change: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV6 punishes the buyer who gets the order backwards. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 133-card set, so one box covers the set with duplicates to trade. A sealed holder should buy the case, because it splits to $81.90 a box against $111.46 for a single box, a $354.72 saving across 12 boxes. A case splitter should do the same division before listing, because the $29.56 saved per box is the margin. A single-card chaser should stop here and buy the Carmine SAR instead, because one card at $87.83 costs less than a box at $111.46, and the box can hold no SAR at all: SV6 is the rare set where chasing the box for one card loses money even if you pull it.",
+          "The set is built on four masks and the chase is wide, and that combination decides everything on this page. Mask of Change came out in Japan on April 26, 2024, as an Expansion Pack built around Ogerpon, the Legendary Pokemon from the Teal Mask story, with four mask forms printed at every rarity the set has. It prints 133 cards: a 101-card base set and a 32-card secret block of 12 Art Rares, 11 Super Rares, 6 Special Art Rares, and 3 Ultra Rares. The six SARs are the four Ogerpon ex mask forms, Carmine, and Kieran, and Carmine is the card the market prices highest. The rest of the set is bulk, and the set is 30 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $354.72 gap",
+        "math": [
+          "SV6 box per pack: $111.46 ÷ 30 = $3.72 per pack",
+          "SV6 box per card: $111.46 ÷ 150 = $0.74 per card",
+          "SV6 case per box: $982.80 ÷ 12 = $81.90 per box",
+          "SV6 case per pack: $982.80 ÷ 360 = $2.73 per pack",
+          "SV6 case per card: $982.80 ÷ 1,800 = $0.55 per card",
+          "SV6 twelve singles: 12 × $111.46 = $1,337.52",
+          "SV6 case saving: $1,337.52 − $982.80 = $354.72 across the case",
+          "SV6 saving per box: $354.72 ÷ 12 = $29.56 per box",
+          "SV6 official box: ¥5,400 ÷ ¥158 = $34.18; official pack ¥180 ÷ ¥158 = $1.14",
+          "SV6 box vs official: $111.46 ÷ $34.18 = 3.26x the official Japanese price",
+          "SV6 case box vs official: $81.90 ÷ $34.18 = 2.40x the official Japanese price",
+          "Carmine SAR vs box: $87.83 ÷ $111.46 = 0.79x the price of a box",
+          "Carmine SAR vs case box: $87.83 ÷ $81.90 = 1.07x the price of a case-split box",
+          "Ogerpon ex UR ask vs box: $41.14 ÷ $111.46 = 0.37x the price of a box",
+          "Complete set vs box: $299.67 ÷ $111.46 = 2.69 boxes; 3 boxes cost 3 × $111.46 = $334.38",
+          "Complete set vs three boxes: $334.38 − $299.67 = $34.71 cheaper as singles",
+          "SV6 box vs Japan ask: $111.46 − $67.09 = $44.37 above the Sep 30, 2026 SNKRDUNK lowest ask",
+          "SV6 case box vs Japan ask: $81.90 − $67.09 = $14.81 above the same ask",
+          "SV5a box per pack: $107.04 ÷ 30 = $3.57 per pack; SV6 box costs $111.46 − $107.04 = $4.42 more",
+          "SV6a box per pack: $91.61 ÷ 30 = $3.05 per pack; SV6 box costs $111.46 − $91.61 = $19.85 more",
+          "SV9 box per pack: $84.97 ÷ 30 = $2.83 per pack; SV6 box costs $111.46 − $84.97 = $26.49 more",
+          "EN Ogerpon ex SIR vs JP Ogerpon ex UR ask: $41.14 − $20.00 = $21.14 more for the Japanese UR ask"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV6 box](/product/sv6-mask-of-change-booster-box-japanese-pokemon-card/) is $111.46 for 30 packs of 5 cards, which is $3.72 per pack and $0.74 per card. That per-pack price sits mid-shelf: dearer than Battle Partners at $2.83 a pack and Crimson Haze at $3.57, cheaper than Paradise Dragona at $4.71 and Ruler of Black Flame at $5.08. The box is 150 cards from a 133-card set, so the arithmetic of the set is duplication: one box gives the main set and most of the secrets, and the second box is mostly cards you already own.",
+          "The case arithmetic is the largest saving in percentage on this page and the most ordinary in dollars. The [SV6 case](/product/sv6-mask-of-change-sealed-case-12-boxes-japanese-pokemon-card/) is $982.80 for 12 boxes, which divides to $81.90 a box, $2.73 a pack, and $0.55 a card. Twelve single boxes cost $1,337.52, so the case saves $354.72, or $29.56 per box, a 27% discount. That is the sealed-holder number: if you are buying 12 boxes, the case is the only way to buy them. A splitter who lists case boxes at the single-box price keeps the whole $29.56, which is a real margin, unlike the thin case on Battle Partners or the inverted case on Crimson Haze.",
+          "The neighboring shelf puts SV6 in its price band, and it starts with the set that shares its English twin. [Crimson Haze](/blog/sv5a-crimson-haze-buyers-guide/) is $107.04 a box, $3.57 a pack, which makes SV6 $4.42 more per box for the set that came five weeks later. Night Wanderer is $91.61 a box, $3.05 a pack, so SV6 sits $19.85 above it per box on the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/), which divides all thirty-two boxes to per-pack prices. [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) is $84.97 a box, $2.83 a pack, so SV6 sits $26.49 above it per box. The pattern is plain: SV6 is priced as the Ogerpon set it is, between its twin and its successor.",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,400 in Japan, which is $34.18 at ¥158 to the dollar, and a pack at ¥180 is $1.14. Our box at $111.46 is 3.26 times the official price, and the case-split box at $81.90 is 2.40 times it. That multiple is not a markup story: the print run ended in 2024, the set is 30 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2024 retail, but our price against the cheapest sealed box in Japan today, and that is where the next section starts."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, so the table keeps to eight and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the Japan ask and the chase cards, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row, and single-card chasers scan the Carmine SAR row and stop there.",
+          "Read the Japan ask row carefully, because it is the row that decides whether our price is fair. The lowest ask for a sealed SV6 box on SNKRDUNK was ¥10,600 on September 30, 2026, which is $67.09 at ¥158 to the dollar. Our box at $111.46 is $44.37 above it, and our case-split box at $81.90 is $14.81 above it. An ask is not a sale, and it is not a landed price: it carries no international shipping, no import handling, and no guarantee the seller ships sealed stock to your country. What you pay for on our shelf is a sealed box from Japan in one parcel with one tracking number, and the $44.37 is the price of that. If the cheapest yen price is the goal, the secondary market wins, and this guide says so plainly."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV6 box",
+              "$111.46",
+              "30 packs, 150 cards",
+              "$111.46 / $3.72 / $0.74"
+            ],
+            [
+              "SV6 case",
+              "$982.80",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$81.90 / $2.73 / $0.55"
+            ],
+            [
+              "Carmine SAR single",
+              "$87.83 (TCGplayer market, Nov 5 2026)",
+              "1 card, the chase",
+              "0.79x a box"
+            ],
+            [
+              "Complete set as singles",
+              "$299.67 (TCGplayer market, Nov 8 2026)",
+              "133 cards",
+              "2.69 boxes; $34.71 less than 3 boxes"
+            ],
+            [
+              "Japan secondary box",
+              "$67.09 (¥10,600 ask, Sep 30 2026)",
+              "1 sealed box, ask not a sale",
+              "$44.37 less than our box"
+            ],
+            [
+              "SV5a box",
+              "$107.04",
+              "30 packs, 150 cards",
+              "$107.04 / $3.57 / $0.71"
+            ],
+            [
+              "SV6a box",
+              "$91.61",
+              "30 packs, 150 cards",
+              "$91.61 / $3.05 / $0.61"
+            ],
+            [
+              "Twilight Masquerade EN route",
+              "No EN product on our shelf",
+              "Ogerpon ex SIR $20.00",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about SV6 is whether to buy the box or the Carmine single. The answer we give in chat is the one on this page: the single costs less than the box, so buy the single if Carmine is the only card you want, and buy the box only if you want the set. Most buyers who ask it buy the single.",
+        "paragraphs": [
+          "The top results for this query are a buying guide, a chase-card guide, and a set list, and none of them divides a price from a store shelf. The first covers the official facts and another store's listing with the SNKRDUNK ask. The second lists the Ogerpon prints with PSA 10 back orders and stops at the graded cards. The third runs the whole SV era in order with release dates and card counts. All three are useful, and none of them answers the question a buyer actually has: what does a box cost from the store in front of you, what does the case save, and is the box worth more than the single.",
+          "That gap hides three findings. First, the single-versus-box inversion is missing: no top guide says the Carmine SAR at $87.83 costs less than the box at $111.46, which is the fact that ends the chase-the-box argument before it starts. Second, the case split is missing: no guide shows that 12 SV6 boxes cost $982.80, or $81.90 a box, which decides a sealed hold at a 27% saving, the deepest percentage on the 30-pack shelf. Third, the top-card correction is missing: no guide says Carmine, not Ogerpon, is the most valuable card in the set, because every Ogerpon guide leads with the masks and never prices Carmine. This page prints all three, because a buyer who sees them makes a better decision than a buyer who does not."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card set, the reprint, and the English overlap",
+        "paragraphs": [
+          "The first risk is the chase, and it is one card. The Carmine SAR carried an $87.83 TCGplayer market price on November 5, 2026, and the Teal Mask Ogerpon ex UR carried a ¥6,500 lowest raw ask on October 2, 2026, about $41.14, which is less than half of Carmine. A box bought to chase Carmine is a bet that pays $111.46 for a chance at an $87.83 card, and the box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. The four Ogerpon ex SARs are the cards the set is named for, and none of them is the most valuable card in it.",
+          "The second risk is the reprint, and it is the quiet one. The four Ogerpon ex SARs were reprinted in Terastal Festival ex on December 6, 2024, as SAR 201, 204, 208, and 216, with new art by Yukihiro Tada, and the Teal Mask Ogerpon ex UR was reprinted there too, as 234/187. A reprint gives every buyer a second route to the same art, and that is why the Ogerpon SARs trade below Carmine, who has no reprint. Our [Terastal Festival ex guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the set that holds those reprints. The third risk is the English overlap: the same Teal Mask Ogerpon ex art exists in English as the 211/167 Special Illustration Rare in Twilight Masquerade, which carried a $20.00 raw market price on November 7, 2026, or $21.14 less than the Japanese UR raw ask, and the English card is legal in English events while the Japanese single is not. The fourth risk is the reseal: a box at 3.26 times its official price is worth faking, so check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is intact. Our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what a factory seal looks like and what a reseal looks like."
+        ]
+      },
+      {
+        "h": "Context: 133 cards, four masks, and the English twin",
+        "paragraphs": [
+          "The set earns its price on structure, not on one card. SV6 prints 101 base cards and 32 secret cards, 133 in total, and the secret block is 12 Art Rares, 11 Super Rares, 6 Special Art Rares, and 3 Ultra Rares. The four Ogerpon ex mask forms are Teal Mask, Hearthflame Mask, Wellspring Mask, and Cornerstone Mask, each printed as a double rare, a Super Rare, and a Special Art Rare illustrated by Yano Keiji, and only the Teal Mask goes a step further into the Ultra Rare tier at 131/101. The set also prints Dragapult ex, Palafin ex, and Blissey ex, three ACE SPEC cards, and the Kitakami Trainers Carmine and Kieran. One box holds 150 cards, so even a perfect box with no duplicates covers the set once and leaves the secrets to chance. Buy SV6 to open the Ogerpon set, not to complete it from boxes.",
+          "One more context fact, because it decides purchases: the Japanese set and the English set are different products. Twilight Masquerade came out in English on May 24, 2024, built from SV6 and SV5a together, with SV6 as two-thirds and SV5a as one-third. The English booster holds 10 cards against the Japanese 5, the English set prints over 220 cards against the Japanese 133, and the English Teal Mask Ogerpon ex SIR is a different number, 211/167, from the Japanese SAR, 125/101. We carry no Twilight Masquerade product on our shelf, so the English route is the secondary market, not us. If you want the same art in English, buy Twilight Masquerade singles; if you want the Japanese source set, buy the SV6 box. The two products share cards and share nothing else. Our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Carmine SAR single at $87.83, which costs less than a box. Second, budget openers: at $3.72 a pack, SV6 is dearer than Battle Partners at $2.83 and Crimson Haze at $3.57, so a buyer who wants the cheapest 30-pack box should buy Battle Partners instead. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV6 for play has bought the wrong product, and the English Teal Mask Ogerpon ex SIR at $20.00 is the card that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the Ogerpon set in Japanese and will open 30 packs of it, sealed holders who will buy the case at $81.90 a box, and buyers choosing between the Japanese box and the English route who now know the Japanese UR ask is $21.14 more than the English SIR raw price. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Carmine SAR costs 0.79 times a box",
+          "If buying sealed, compare our box at $111.46 against the Japan ask at $67.09 and decide whether the $44.37 is worth sealed stock from Japan in one parcel",
+          "If buying the case, confirm the case price at checkout; $81.90 a box is the live shelf figure for November 8, 2026, and the saving is $29.56 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV6 buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV6 box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision you can defend: the buyer type, the division, the single-versus-box test, the Japan ask comparison, and the seal check. Skip any step and you are guessing."
+        ]
+      }
+    ],
+    "slug": "sv6-mask-of-change-buyers-guide",
+    "takeaway": [
+      "The SV6 box at $111.46 is the middle of the 30-pack shelf at $3.72 a pack, but $0.74 a card, for 150 cards from a 133-card set. The case at $982.80 is the way to buy it sealed, at $81.90 a box and $2.73 a pack, saving $354.72 against twelve singles. The set is 133 cards, released April 26, 2024, and the chase is the Carmine SAR, which carried an $87.83 TCGplayer market price on November 5, 2026, or 0.79 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30, October 2, and November 5, 7, and 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $67.09, so our box costs $44.37 more, and the case-split box costs $14.81 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the set that came five weeks before Mask of Change and shares its English twin, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own."
+    ]
+  },
   "sv7a-paradise-dragona-buyers-guide": {
     "datePublished": "2026-11-08",
     "faqs": [
@@ -20322,7 +20690,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace figures as of November 7, 2026. The one-SAR-per-box figure is a community average, not a guarantee, and the box can hold zero. The complete set as singles costs $1,122.72, about the price of seven boxes, so buy the singles if the set is the goal.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that shares SV8a's $163.32 box price. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices the other high-class pack the same way, box $114.77 against a case that saves $436.84, with the Mega Gengar ex SAR at about $207 on its own.",
-      "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the 30-pack set from the same era, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own."
+      "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the 30-pack set from the same era, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own.",
+      "New this cycle: the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) prices the set whose Ogerpon ex SARs were reprinted here, box $111.46 against a case that saves $354.72, with the Carmine SAR at $87.83 on its own."
     ]
   },
   "sv9-battle-partners-buyers-guide": {
@@ -20717,7 +21086,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Still deciding between a box and a case? The [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same division across all thirty-two MEGA-era and Scarlet & Violet boxes, and the [best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For the sibling set, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the other half of Destined Rivals.",
       "For the set that shares this box price, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices SV8a at the same $163.32 a box for a different product: 10 packs of 10 foil cards with a guaranteed Pokémon ex, and the Umbreon ex SAR at $372.02 on its own.",
       "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the 30-pack set from the same era, box $141.24 against a case that saves $441.47.",
-      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the set that came two months before Heat Wave Arena, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own."
+      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the set that came two months before Heat Wave Arena, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own.",
+      "New this cycle: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the 30-pack set from the same era, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own."
     ]
   },
   "what-is-a-god-pack-japanese-pokemon": {
