@@ -2413,7 +2413,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese Dragon Ball Fusion World buy is a single card, not a box: FB08 at $26.02 is the cheapest Japanese item on the shelf and FB09 at $64.12 is the dearest, and the Warehouse does not sell sealed Japanese Fusion World boxes. For packs, the English case is the buy, and the cheapest opening is FB04 at $4.44 a pack, with FB12 at $5.27 a pack the cheapest new-set buy. A Japanese box lists at ¥5,280 for 24 packs of 6 cards, half the cards of an English box, and every pack in either language carries a digital serial code.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, and Bandai's yen list for the Japanese box. When FB12 ships on December 18, 2026, run the checklist first and divide the case before you pay.",
-      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the full Dragon Ball shelf, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) divides all twelve cases. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the full Dragon Ball shelf, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) divides all twelve cases. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs.",
+      "New this cycle: the [best Dragon Ball TCG from Japan guide](/blog/best-dragon-ball-tcg-japan/) prices all three Dragon Ball games on one shelf — Fusion World, Masters, and Manga Booster — to per-pack and per-card, and names the $26.02 FB08 box the cheapest sealed entry in any game."
     ]
   },
   "best-dragon-ball-fusion-world-sealed-case-to-buy": {
@@ -3058,7 +3059,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next Masters set arrives, divide the case first, check the game second, and ask whether you are buying a case, a split, or a loose box, because that one fact changes what the price buys.",
       "Still deciding between the two Dragon Ball games? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) is the other game's starting point, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Dragon Ball against the other games on this store. If the case is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe.",
       "New this cycle: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) explains why there is no Japanese Masters box on this shelf and prices the Fusion World Japanese boxes beside these English cases.",
-      "For the Japanese question in depth, the [best Dragon Ball Super Card Game Japanese box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) answers it honestly: Masters has no Japanese version, Fusion World does, and the cases divide to $102.93 a box."
+      "For the Japanese question in depth, the [best Dragon Ball Super Card Game Japanese box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) answers it honestly: Masters has no Japanese version, Fusion World does, and the cases divide to $102.93 a box.",
+      "New this cycle: the [best Dragon Ball TCG from Japan guide](/blog/best-dragon-ball-tcg-japan/) puts the Masters case ladder beside Fusion World and Manga Booster on one shelf, and names B25 the cheapest English case at $1,235.10."
     ]
   },
   "best-dragon-ball-super-card-game-japanese-booster-box": {
@@ -3232,6 +3234,269 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our English case prices as of November 7, 2026, and the Japanese figures as official retail prices in yen, with dollar conversions at ¥154 marked approximate. When FB12 ships in December, re-run the division: the pre-order price undercutting FB11 today may not survive contact with release week.",
       "For the full Masters ladder in depth, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all thirteen cases per box and per pack. For the Japanese side, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices the Japanese boxes we do not stock, and the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) divides the English cases. If the seal starts calling once a case lands, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment.",
       "New this cycle: the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers the same two-game question for Pokémon: Japan never made an ETB, so the English $49.99 box and the Japanese booster box are different products with different per-pack math."
+    ]
+  },
+  "best-dragon-ball-tcg-japan": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "Fusion World, if you want to play the current game or open the cheapest box on the shelf. The [FB08 Japanese box](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) is $26.02, or $1.08 a pack, and Fusion World is the game Bandai is building now, with a digital version and quarterly sets. Masters, if you want the deeper game with the bigger card pool and you are buying English cases in bulk: the cheapest case-split Masters box is B25 at $102.93. Manga Booster, if you want Toriyama-illustrated alt-arts: the Japanese SB01 or SB02 box at $57.61 is the sane entry, never the English case.",
+        "q": "Which Dragon Ball TCG should I buy first?"
+      },
+      {
+        "a": "No. Masters and Fusion World are separate games with separate cards, rules, and card pools, and Bandai has never said the cards can be mixed. Masters cards carry BT, EB, EX, and B-series numbers and the older card layout with the name at the top; Fusion World cards carry FB, SB, FS, and ST numbers and the newer layout with the name at the bottom. A Masters deck and a Fusion World deck cannot share a card, and buying one game's product for the other game's table is the most expensive mistake on this page.",
+        "q": "Can I play Masters cards in Fusion World?"
+      },
+      {
+        "a": "Yes, and it is the dearest single listing on the Warehouse shelf. The [SB01 English sealed case](/product/dragon-ball-super-fusion-world-sb01-manga-booster-01-booster-box-sealed-case-eng/) is $26,910.00 for 12 boxes, which divides to $2,242.50 a box, $93.44 a pack, and $7.79 a card. The same set's Japanese box is $57.61. The case price is a shelf fact, not a misprint, and it is why this guide exists: the English Manga Booster case costs 38.93 times its Japanese box, and no other Dragon Ball product on the shelf has a gap anything like it.",
+        "q": "Is the English Manga Booster 01 case really $26,910?"
+      }
+    ],
+    "h1": "Best Dragon Ball TCG from Japan: Fusion World vs Masters, Priced",
+    "intro": [
+      "Short answer: the best Dragon Ball TCG buy from Japan is the Fusion World Japanese box, and the cheapest of those is FB08 at $26.02, or $1.08 a pack. Masters is the better buy only in English and only by the case, where B25 divides to $102.93 a box. Manga Booster is the third game on the shelf, and its Japanese box at $57.61 is the only sane way into Toriyama-illustrated alt-arts, because its English case costs $26,910. Every price on this page is the Warehouse shelf price on November 8, 2026, and every division is shown so you can re-run it.",
+      "Who this is for: Dragon Ball fans choosing between the two games for the first time, collectors who want the cheapest sealed entry into the franchise, and buyers deciding whether Masters and Fusion World are the same product. Who it is not for: anyone chasing one named card, because no box on this page guarantees any Secret Rare or God Rare; anyone who needs a single English box, because the English shelf here is cases only; and anyone buying for the digital game alone, because physical and digital products are separate."
+    ],
+    "metaDescription": "Fusion World vs Masters vs Manga Booster from one Japanese shelf, Nov 8 2026: cheapest box $26.02, dearest case $26,910, every price divided to the pack.",
+    "metaTitle": "Best Dragon Ball TCG from Japan: Priced by Game",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about Dragon Ball is whether Masters and Fusion World are the same game with different boxes. They are not, and the confusion costs buyers real money: a Masters case bought for a Fusion World table is twelve boxes of cards that cannot be played there. We say it before the sale, not after, because the two games share a name, a franchise, and a shelf, and nothing else.",
+        "paragraphs": [
+          "Buy Fusion World if the job is opening Dragon Ball cards at the lowest price or playing the current game. The Japanese boxes are the cheapest sealed Dragon Ball on this shelf by a wide margin: FB08 at $26.02, FB07 at $27.88, and even the anniversary set FB09 at $64.12, each a 24-pack box of six-card packs. Fusion World is the game Bandai launched in February 2024, it has the digital version, and its sets arrive quarterly, FB12 being the newest on this shelf. A new player starts here, because no other Dragon Ball product divides below $1.08 a pack.",
+          "Buy Masters if the job is the deeper game and the purchase is English and in bulk. Masters is the original game, launched in July 2017, with the larger rules toolkit, Unison and Z-cards, and the God Rare tier Fusion World does not have. On this shelf it sells only as English sealed cases, and the cheapest case-split box is B25 at $102.93, with the newest set B32 at $104.65. A case is twelve boxes and a four-figure entry, so Masters is a group split or a committed buy, never an impulse box.",
+          "Buy Manga Booster if the job is the art. SB01 and SB02 are Fusion World sets built around alt-art cards illustrated by Akira Toriyama himself, plus collectible energy markers packed into the boosters, and the Japanese boxes are $57.61 each, or $2.40 a pack. The English cases are a different universe: SB02 at $9,522.14 and SB01 at $26,910.00, the dearest listing on the shelf. The Manga Booster decision is therefore a language decision, and the Japanese box is the only entry that makes sense for almost every buyer."
+        ]
+      },
+      {
+        "h": "The money layer: three games, one shelf, every price divided",
+        "math": [
+          "FB08 Japanese box per pack: $26.02 ÷ 24 packs = $1.08 per pack",
+          "FB08 Japanese box per card: $26.02 ÷ 144 cards = $0.18 per card",
+          "FB07 Japanese box per pack: $27.88 ÷ 24 packs = $1.16 per pack",
+          "FB07 Japanese box per card: $27.88 ÷ 144 cards = $0.19 per card",
+          "SB01 Japanese box per pack: $57.61 ÷ 24 packs = $2.40 per pack",
+          "SB01 Japanese box per card: $57.61 ÷ 144 cards = $0.40 per card",
+          "FB09 Japanese box per pack: $64.12 ÷ 24 packs = $2.67 per pack",
+          "FB09 Japanese box per card: $64.12 ÷ 144 cards = $0.45 per card",
+          "FB09 vs FB08 Japanese box: $64.12 − $26.02 = $38.10 per box",
+          "FB09 vs SB01 Japanese box: $64.12 − $57.61 = $6.51 per box",
+          "FB04 English case per box: $1,279.26 ÷ 12 boxes = $106.61 per box",
+          "FB04 English case per pack: $106.61 ÷ 24 packs = $4.44 per pack",
+          "FB04 English case per card: $1,279.26 ÷ 3,456 cards = $0.37 per card",
+          "FB02 English case per box: $1,332.92 ÷ 12 boxes = $111.08 per box",
+          "FB05 English case per box: $1,340.70 ÷ 12 boxes = $111.73 per box",
+          "FB12 English case per box: $1,518.00 ÷ 12 boxes = $126.50 per box",
+          "FB12 English case per pack: $126.50 ÷ 24 packs = $5.27 per pack",
+          "FB10 English case per box: $2,333.57 ÷ 12 boxes = $194.46 per box",
+          "FB11 English case per box: $2,553.00 ÷ 12 boxes = $212.75 per box",
+          "FB09 English case per box: $4,830.00 ÷ 12 boxes = $402.50 per box",
+          "FB09 English case per pack: $402.50 ÷ 24 packs = $16.77 per pack",
+          "FB09 English case per card: $4,830.00 ÷ 3,456 cards = $1.40 per card",
+          "FB09 English case vs Japanese box: $402.50 − $64.12 = $338.38 per box",
+          "FB01 English case per box: $4,429.80 ÷ 12 boxes = $369.15 per box",
+          "FB01 English case per pack: $369.15 ÷ 24 packs = $15.38 per pack",
+          "B25 Masters case per box: $1,235.10 ÷ 12 boxes = $102.93 per box",
+          "B25 Masters case per pack: $102.93 ÷ 24 packs = $4.29 per pack",
+          "B25 Masters case per card: $1,235.10 ÷ 3,456 cards = $0.36 per card",
+          "B32 Masters case per box: $1,255.80 ÷ 12 boxes = $104.65 per box",
+          "B32 Masters case per pack: $104.65 ÷ 24 packs = $4.36 per pack",
+          "B28 Masters case per box: $1,276.50 ÷ 12 boxes = $106.38 per box",
+          "B26 Masters case per box: $1,353.30 ÷ 12 boxes = $112.78 per box",
+          "B24 Masters case per box: $1,393.80 ÷ 12 boxes = $116.15 per box",
+          "B20 Masters case per box: $2,140.36 ÷ 12 boxes = $178.36 per box",
+          "B27 Masters case per box: $9,315.00 ÷ 12 boxes = $776.25 per box",
+          "B27 Masters case per pack: $776.25 ÷ 24 packs = $32.34 per pack",
+          "B27 vs B25 Masters case per box: $776.25 − $102.93 = $673.32 per box",
+          "SB02 English case per box: $9,522.14 ÷ 12 boxes = $793.51 per box",
+          "SB02 English case per pack: $793.51 ÷ 24 packs = $33.06 per pack",
+          "SB01 English case per box: $26,910.00 ÷ 12 boxes = $2,242.50 per box",
+          "SB01 English case per pack: $2,242.50 ÷ 24 packs = $93.44 per pack",
+          "SB01 English case per card: $26,910.00 ÷ 3,456 cards = $7.79 per card",
+          "SB01 English case vs FB09 English case: $26,910.00 − $4,830.00 = $22,080.00",
+          "SB01 English case vs Japanese box: $2,242.50 ÷ $57.61 = 38.93x the Japanese box",
+          "Cheapest English case-split box: B25 $102.93 vs FB04 $106.61 = $3.68 apart",
+          "FB09 official box: 24 packs × ¥220 = ¥5,280"
+        ],
+        "paragraphs": [
+          "Start with the Japanese boxes, the only Dragon Ball on this shelf sold by the box. The [FB08 box](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) is $26.02 for 24 packs of six cards, which is $1.08 a pack and $0.18 a card. The [FB07 box](/product/fb07-wish-for-shenron-japanese-dragon-ball-fusion-world-card/) is $27.88, or $1.16 a pack and $0.19 a card. The [SB01 box](/product/sb01-manga-booster-01-japanese-dragon-ball-fusion-world-card/) and the [SB02 box](/product/sb02-manga-booster-02-japanese-dragon-ball-fusion-world-card/) are $57.61 each, or $2.40 a pack and $0.40 a card. The [FB09 box](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) is $64.12, or $2.67 a pack and $0.45 a card, which prices the second-anniversary set and its Gogeta Secret Rare trio at $38.10 above FB08 and $6.51 above the Manga Boosters. Bandai's own pages print six cards per pack and ¥220 a pack for FB01 to FB10, and ¥240 for FB11 and FB12, so an FB09 box retails at ¥5,280 in Japan.",
+          "Then the English cases, because the English shelf is cases only, and the division is the whole purchase. The cheapest Fusion World case-split box is FB04 at $106.61, or $4.44 a pack and $0.37 a card, followed by FB02 at $111.08 and FB05 at $111.73. The newest set, FB12, divides to $126.50 a box. The ladder climbs through FB10 at $194.46 and FB11 at $212.75, then jumps: FB01, the first set, divides to $369.15 a box, and FB09, the anniversary set, divides to $402.50 a box, or $16.77 a pack. That FB09 figure is $338.38 above its own Japanese box, for the same 123 card types in a different language and pack size.",
+          "Masters divides cheaper than Fusion World in English. The [B25 case](/product/dragon-ball-super-card-game-masters-b25-legend-of-the-dragon-balls-booster-box-s/) is $1,235.10 for 12 boxes, or $102.93 a box, $4.29 a pack, and $0.36 a card, which is $3.68 below the cheapest Fusion World case-split box. The newest set, [B32](/product/dragon-ball-super-card-game-masters-b32-chromatic-ascension-booster-box-sealed-c/), is $104.65 a box, or $4.36 a pack. B28 is $106.38, B26 is $112.78, B24 is $116.15, and B20 is $178.36. The outlier is B27, History of Z, at $9,315.00 a case, or $776.25 a box and $32.34 a pack, which is $673.32 above B25 per box.",
+          "The Manga Booster English cases are the shock. The [SB02 case](/product/dragon-ball-super-fusion-world-sb02-manga-booster-02-booster-box-sealed-case-eng/) is $9,522.14, or $793.51 a box and $33.06 a pack. The [SB01 case](/product/dragon-ball-super-fusion-world-sb01-manga-booster-01-booster-box-sealed-case-eng/) is $26,910.00, or $2,242.50 a box, $93.44 a pack, and $7.79 a card. Against FB09's English case, SB01 costs $22,080.00 more, and against its own Japanese box it costs 38.93 times as much per box. The Japanese SB01 box at $57.61 is the same 110 card types plus 21 energy markers, in Japanese."
+        ]
+      },
+      {
+        "h": "The decision layer: Fusion World, Masters, or Manga Booster",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 8, 2026. Read it by buyer type: openers scan the Japanese-box rows, English buyers scan the case rows and check the entry price first, and art collectors scan the Manga Booster rows.",
+          "Two rows decide more than the rest. The FB08 row decides the opener: $26.02 is the cheapest sealed Dragon Ball on the shelf. The SB01 row decides the collector: the Japanese box at $57.61 and the English case at $2,242.50 a box are the same set, and the $2,184.89 gap between them is the largest language gap in the Dragon Ball line."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Warehouse price, Nov 8 2026",
+            "Packs / cards",
+            "Per-box / per-pack / per-card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Fusion World FB08 Japanese box",
+              "$26.02",
+              "24 packs, 144 cards",
+              "$26.02 / $1.08 / $0.18",
+              "Cheapest sealed opening"
+            ],
+            [
+              "Fusion World FB07 Japanese box",
+              "$27.88",
+              "24 packs, 144 cards",
+              "$27.88 / $1.16 / $0.19",
+              "Shenron theme on a budget"
+            ],
+            [
+              "Manga Booster SB01/SB02 Japanese box",
+              "$57.61",
+              "24 packs, 144 cards",
+              "$57.61 / $2.40 / $0.40",
+              "Toriyama alt-arts, sane entry"
+            ],
+            [
+              "Fusion World FB09 Japanese box",
+              "$64.12",
+              "24 packs, 144 cards",
+              "$64.12 / $2.67 / $0.45",
+              "Anniversary set, Gogeta trio"
+            ],
+            [
+              "Masters B25 English case (12 boxes)",
+              "$1,235.10",
+              "288 packs, 3,456 cards",
+              "$102.93 / $4.29 / $0.36",
+              "Cheapest English case-split box"
+            ],
+            [
+              "Masters B32 English case (12 boxes)",
+              "$1,255.80",
+              "288 packs, 3,456 cards",
+              "$104.65 / $4.36 / $0.36",
+              "Newest Masters set"
+            ],
+            [
+              "Fusion World FB04 English case (12 boxes)",
+              "$1,279.26",
+              "288 packs, 3,456 cards",
+              "$106.61 / $4.44 / $0.37",
+              "Cheapest Fusion World case"
+            ],
+            [
+              "Fusion World FB12 English case (12 boxes)",
+              "$1,518.00",
+              "288 packs, 3,456 cards",
+              "$126.50 / $5.27 / $0.44",
+              "Newest Fusion World set"
+            ],
+            [
+              "Fusion World FB09 English case (12 boxes)",
+              "$4,830.00",
+              "288 packs, 3,456 cards",
+              "$402.50 / $16.77 / $1.40",
+              "English boxes in bulk only"
+            ],
+            [
+              "Masters B27 English case (12 boxes)",
+              "$9,315.00",
+              "288 packs, 3,456 cards",
+              "$776.25 / $32.34 / $2.70",
+              "History of Z collector set"
+            ],
+            [
+              "Manga Booster SB02 English case (12 boxes)",
+              "$9,522.14",
+              "288 packs, 3,456 cards",
+              "$793.51 / $33.06 / $2.76",
+              "Almost never the right buy"
+            ],
+            [
+              "Manga Booster SB01 English case (12 boxes)",
+              "$26,910.00",
+              "288 packs, 3,456 cards",
+              "$2,242.50 / $93.44 / $7.79",
+              "Do not buy; buy the Japanese box"
+            ],
+            [
+              "English single box, any game",
+              "Not stocked",
+              "0",
+              "Not divided",
+              "Does not exist on this shelf"
+            ],
+            [
+              "Named single card",
+              "Varies by card",
+              "0",
+              "Not divided",
+              "One named card is the goal"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case-only shelf and the $26,910 case",
+        "note": "From the Warehouse: the question we get most about Dragon Ball is whether the $26,910 SB01 case price is a misprint, because buyers assume no case can cost more than double the next dearest one. It is not a misprint: the store lists the SB01 English sealed case at $26,910.00 for 12 boxes, and we say so before the sale, not after a buyer has budgeted for a Manga Booster box that is not stocked in English at any price.",
+        "paragraphs": [
+          "The top guides for this question are shop-picking guides and game-explainer guides. The Buyee guide ranks Japanese card shops by category, budget versus reliability, and never prices a single box. The Janbox guide warns buyers to check the game and set before paying, and names FB11, FB10, and FB09 as the recent releases. None of them divides a shelf: none shows a Japanese box against an English case from one store on one day, none states that the English shelf is cases only, and none prices the Manga Booster gap at all.",
+          "The second gap is the English case premium itself. Guides that call English Dragon Ball expensive without dividing it leave a buyer guessing at the size: the FB09 gap is $338.38 a box, and the SB01 gap is $2,184.89 a box, and neither is explained by shipping alone, because the same store's FB04 case divides to $106.61 a box. The third gap is the price inversion: most coverage treats Masters as the older, dearer game, but on this shelf the cheapest Masters case-split box, B25 at $102.93, undercuts the cheapest Fusion World case-split box, FB04 at $106.61, by $3.68. The fourth gap is the newest-set trap: FB12, scheduled for December 2026, is already listed as a case at $126.50 a box, while FB11, the September 2026 set, divides to $212.75, so the newest set is not the dearest."
+        ]
+      },
+      {
+        "h": "The risk layer: two games, one name, and the reprint trap",
+        "paragraphs": [
+          "The first risk is buying the wrong game. Masters and Fusion World share the Dragon Ball Super Card Game name, and their cards look similar at a glance, but the cards are not compatible, the rules are not the same, and the card numbers do not overlap: Masters numbers start with BT, EB, EX, and B, while Fusion World numbers start with FB, SB, FS, and ST. A Masters case bought for a Fusion World table is twelve boxes of unplayable cards. Check the set code before you pay, and check the layout: Masters prints the card name at the top, Fusion World at the bottom.",
+          "The second risk is chasing a named card with boxes. Fusion World's top tier is Secret Rare, then Secret Rare Super Alt-Art, then Leader Super Alt-Art, and there is no God Rare in Fusion World at all, while Masters has God Rares in selected releases. Bandai publishes no pull rates for either game, and no box guarantees any Secret Rare, God Rare, or named card. A box is the worst way to find one named card, and the open-or-hold decision in full is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "The third risk is budgeting for an English single box. It is not stocked on this shelf in either game, at any price. An English buyer who budgets $102.93 for Masters or $106.61 for Fusion World has budgeted for a case-split box, not a box for sale: the entry price is the whole case, $1,235.10 for B25 and $26,910.00 for SB01. The case-versus-box division in full is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "The fourth risk is the digital code. Every Fusion World pack carries a one-use code for the digital version, so a box whose shrink wrap is damaged or re-glued may have lost its codes even if its cards are untouched. Check the seal before opening, using the checks in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). The fifth risk is the anniversary premium: FB09's $64.12 Japanese box is $38.10 above FB08, and its English case is $208.04 above FB10 per box, for a set whose new rarity tier has the least price history in the line."
+        ]
+      },
+      {
+        "h": "Context: 2017, 2024, and the Toriyama line",
+        "paragraphs": [
+          "Masters is the original game. It launched in July 2017 with Galactic Battle, and it has accumulated nine years of mechanics since: Union, Over Realm, Unison cards, and Z-cards with a Z-Deck that is not randomised. Its rarity ladder runs to Secret Rare and, in selected releases, God Rare. Both games are still receiving releases in 2026: B31 arrived in July and B32 in November, so Masters is not a dead game, it is the deeper one.",
+          "Fusion World is the 2024 game, launched in Japan on February 16, 2024 with FB01 Awakened Pulse, and it was built to be simpler: three card types, Leader, Battle, and Extra, shorter card text, and more direct combat. It is the only one of the two with an official digital version, on Windows and Mac, and every pack carries a digital code. Its sets arrive roughly quarterly, FB01 to FB12, and the English release has twice beaten the Japanese release by a day, FB08 and FB09 both reaching English shelves first, which matters to a buyer timing a preorder.",
+          "The Manga Boosters are Fusion World's most distinctive line, and the reason is printed on Bandai's own product pages: the alt-art cards are illustrated by Akira Toriyama himself. SB01, released in Japan on June 28, 2025 and in English on June 27, holds 110 card types plus 21 energy marker designs, the first energy markers in the game. SB02 repeats the formula at 132 card types including its own 21 energy markers, with two Secret Rares against SB01's one. The Story Booster ST01, a Majin Buu set released in August 2026, breaks the box format again with 20 packs of 12 foil cards, but it is not on this shelf."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card in either game, and the right move is the single, because no pull rate is published and no box guarantees any Secret Rare or God Rare. Second, English buyers who need one sealed box: on this shelf, for both games, in English, there is no single box to buy, and the honest English answer is often to wait, to buy the Japanese box for opening, or to buy the named single. Third, players who have not chosen a game: Masters and Fusion World cards cannot be mixed, so pick one first, using the [Dragon Ball Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) for Fusion World and the [best Masters box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) for Masters, and only then divide a price.",
+          "Who this guide is for, restated plainly: Dragon Ball fans choosing between the two games for the first time, collectors who want the cheapest sealed entry into the franchise at $26.02, and buyers who need the English case division before they commit four figures to a case. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the game first: Fusion World for the current game and the cheapest box, Masters for the deeper game and the cheaper English case-split box, Manga Booster for the Toriyama art",
+          "Check the set code on the listing: FB, SB, FS, and ST are Fusion World; BT, EB, EX, and B are Masters, and the two cannot be mixed",
+          "Divide before you pay: Japanese $26.02 to $64.12 divided by 24 packs, then by 144 cards; English cases divided by 12 boxes, then by 288 packs",
+          "Do not budget for an English single box: it is not stocked on this shelf in either game",
+          "If the goal is any Secret Rare, God Rare, or named card, price the single first",
+          "If buying Manga Booster, buy the Japanese box at $57.61; the English SB01 case at $26,910.00 is 38.93 times its Japanese box",
+          "Check the seal on arrival before opening, and remember every Fusion World pack carries a one-use digital code",
+          "Confirm language before you pay: Japanese cards are cheaper per pack by dollars, but they are Japanese-language cards"
+        ],
+        "h": "Action layer: the Dragon Ball buying checklist",
+        "paragraphs": [
+          "Run this in order before the next Dragon Ball box you consider. Game first; set code second, because the wrong game is twelve boxes of unplayable cards; case division third, because the English answer is always a four-figure case; singles pricing fourth, because chase cards are the reason most buyers overpay."
+        ]
+      }
+    ],
+    "slug": "best-dragon-ball-tcg-japan",
+    "takeaway": [
+      "On November 8, 2026, the Warehouse Dragon Ball shelf holds three games, not one. Fusion World Japanese boxes run $26.02 to $64.12, or $1.08 to $2.67 a pack. Masters English cases divide to $102.93 to $776.25 a box, with B25 the cheapest and B27 the dearest. Manga Booster Japanese boxes are $57.61, while the English SB01 case is $26,910.00, or $2,242.50 a box.",
+      "Prices move; the method does not. Choose the game first, divide the case in that game, and never budget for a product the shelf does not stock.",
+      "For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the English case ladder, see [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/). For Masters alone, see [Best Dragon Ball Masters Booster Box to Buy](/blog/best-dragon-ball-masters-booster-box-to-buy/). For the whole Japanese shelf as one dated board, see [Best Japanese TCG to Buy in 2026](/blog/best-japanese-tcg/)."
     ]
   },
   "best-english-one-piece-booster-box-to-buy": {
@@ -5260,7 +5525,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) ranks the pack as a pack — cheapest $2.35, cheapest card $0.47 — instead of ranking boxes.",
       "For the newest set in depth, the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the $183.18 box, the Deluxe premium, and the $82.64-a-box case.",
       "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the dearest 30-pack main set on our shelf at $5.08 a pack, box $152.29, case $1,454.15.",
-      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the Iono set at $102.64 a box, $3.42 a pack, with a case that saves only $28.81."
+      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the Iono set at $102.64 a box, $3.42 a pack, with a case that saves only $28.81.",
+      "New this cycle: the [best Japanese TCG to buy in 2026](/blog/best-japanese-tcg/) puts Pokémon beside One Piece, Dragon Ball, and Lorcana on one shelf and divides every game's cheapest entry to per-pack and per-card — Pokémon's cheapest box is $70.62."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -6335,6 +6601,232 @@ export const POSTS: Record<string, BlogPost> = {
       "The best Japanese Pokemon starter deck is the one that matches how you will play. A solo learner on a budget buys the SI Start Deck 100 at $8.93 and accepts the lottery. A solo learner who wants to choose buys the Diancie starter at $11.15. A household buys the Generations set at $33.46 and gets four decks at $8.37 each. The Gengar starter at $24.54 is for Gengar fans, and the Battle Collection at $26.77 is for players who want the newest random-deck experience. Divide by 60, double for a match, and let the arithmetic choose.",
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next starter range arrives, divide first, then ask whether the deck is fixed or random, because that one fact changes what the price buys.",
       "Still deciding between a deck and a box? The [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices the box route, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Pokemon against One Piece, Lorcana, and Dragon Ball on rules and real first purchase cost. If the deck is for a collector shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping sealed product safe."
+    ]
+  },
+  "best-japanese-tcg": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "Pokémon, unless you have a reason not to. It has the most liquid market, the deepest price history, the most accessible entry points, and it is the game every shop stocks and every price tracker covers, so any card you own has a price somebody will quote you. One Piece is the pick if you want the highest growth upside and can stomach the volatility, Dragon Ball Fusion World is the pick if you want the cheapest sealed entry at $1.08 a pack, and Lorcana is the pick if you want the gentlest first game and the broadest buyer pool outside the hobby.",
+        "q": "What is the best Japanese TCG to start collecting in 2026?"
+      },
+      {
+        "a": "Dragon Ball Fusion World, by a wide margin. The [FB08 Japanese box](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) is $26.02 for 24 packs of six cards, which is $1.08 a pack and $0.18 a card. The next cheapest is Pokémon: the [M3 box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $70.62 is $2.35 a pack. One Piece's cheapest box, OP-15 at $69.48, is $2.90 a pack, and Lorcana's cheapest entry, a Reign of Jafar case, divides to $4.83 a pack. Per card, the order changes: Dragon Ball is still cheapest at $0.18, but Lorcana at $0.40 a card beats Pokémon at $0.47, because a Lorcana pack holds twelve cards.",
+        "q": "What is the cheapest Japanese TCG per pack?"
+      },
+      {
+        "a": "Japanese if you collect, open, or want the cheapest sealed price, and English if you play in English events or want the most liquid resale market. Japanese cards are not legal in English tournaments, so a player who buys Japanese for play has bought the wrong product, and the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full. On price, the Japanese box is almost always cheaper per pack: our Japanese OP-17 box is $121.28 against a $305.73 TCGplayer market for the newest One Piece box on October 16, 2026, and our Japanese FB09 box is $64.12 against a $402.50 case-split English box. Choose the language first, then divide the price within it.",
+        "q": "Should I buy Japanese or English cards?"
+      }
+    ],
+    "h1": "Best Japanese TCG to Buy in 2026: Four Games, One Shelf, Priced",
+    "intro": [
+      "Short answer: the best Japanese TCG to buy in 2026 depends on the buyer. The cheapest sealed entry is Dragon Ball Fusion World at $26.02 a box, or $1.08 a pack. The most liquid market is Pokémon, with the cheapest box at $70.62. The highest upside is One Piece, with the cheapest box at $69.48. The gentlest first game is Lorcana, but its cheapest entry is a $463.45 case, because no single Lorcana box is stocked here. Every price on this page is the Warehouse shelf price on November 8, 2026, and every division is shown so you can re-run it.",
+      "Who this is for: buyers choosing their first Japanese TCG, collectors comparing the four games on one day, and anyone who has read a ranking that names a winner without dividing a single price. Who it is not for: anyone chasing one named card, because no box on this page guarantees any chase card; anyone who needs a single English box, because the English shelf here is cases only; and anyone buying for an English tournament, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Pokémon vs One Piece vs Dragon Ball vs Lorcana from one Japanese shelf, Nov 8 2026: cheapest pack $1.08, dearest entry $1,747.37, every price divided.",
+    "metaTitle": "Best Japanese TCG to Buy in 2026: Priced by Game",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "Warehouse Note: the question we get most about choosing a game is whether the cheapest game is the best game. It is not, and the shelf proves it: Dragon Ball is the cheapest per pack at $1.08, and it is also the game with the smallest English case market and the least price history. Cheap is a fact about the box. Best is a fact about the buyer, and the buyer comes first.",
+        "paragraphs": [
+          "Buy Pokémon if the job is the safest first collection. It is the default recommendation for a reason that has nothing to do with the rules: it has the most liquid market, the most developed grading ecosystem, and the most accessible entry points, and it is the game every shop stocks. The shelf backs it: 150 Pokémon products, more than the other three games combined, with boxes from $70.62 for M3 to $471.20 for the 151 set. A first-time buyer who wants the lowest risk of being stuck with cards nobody will buy starts with Pokémon.",
+          "Buy One Piece if the job is growth and you can stomach the swing. It is the fastest-growing game in the hobby, the highest-upside play in the 2026 rankings, and the game with the busiest anime tournament scene. The shelf prices it between Pokémon and Lorcana: the cheapest Japanese box, OP-15, is $69.48, or $2.90 a pack, and the newest set, OP-17, is $121.28, or $5.05 a pack. But Bandai reprints One Piece to meet demand, which caps how much sealed product can appreciate, so a buyer who wants sealed appreciation should know the reprint model works against them in a way it does not for out-of-print Pokémon.",
+          "Buy Dragon Ball Fusion World if the job is the cheapest sealed opening or the franchise itself. At $26.02 a box, FB08 is less than half the price of the cheapest Pokémon or One Piece box, and at $1.08 a pack it is the cheapest sealed product on the whole shelf. Fusion World is the current Dragon Ball game, launched in February 2024. Buy Lorcana if the job is the gentlest first game or the broadest buyer pool: Disney art recruits players who have never touched a TCG. But Lorcana is also the dearest entry on this shelf, because its cheapest product is a case, not a box."
+        ]
+      },
+      {
+        "h": "The money layer: cheapest pack, cheapest card, cheapest entry",
+        "math": [
+          "Dragon Ball FB08 Japanese box per pack: $26.02 ÷ 24 packs = $1.08 per pack",
+          "Dragon Ball FB08 Japanese box per card: $26.02 ÷ 144 cards = $0.18 per card",
+          "Pokémon M3 box per pack: $70.62 ÷ 30 packs = $2.35 per pack",
+          "Pokémon M3 box per card: $70.62 ÷ 150 cards = $0.47 per card",
+          "Pokémon SV9 box per pack: $84.97 ÷ 30 packs = $2.83 per pack",
+          "Pokémon SV9 box per card: $84.97 ÷ 150 cards = $0.57 per card",
+          "One Piece OP-15 box per pack: $69.48 ÷ 24 packs = $2.90 per pack",
+          "One Piece OP-15 box per card: $69.48 ÷ 144 cards = $0.48 per card",
+          "One Piece OP-18 pre-order box per pack: $84.00 ÷ 24 packs = $3.50 per pack",
+          "One Piece OP-18 pre-order box per card: $84.00 ÷ 144 cards = $0.58 per card",
+          "One Piece OP-17 box per pack: $121.28 ÷ 24 packs = $5.05 per pack",
+          "One Piece OP-17 box per card: $121.28 ÷ 144 cards = $0.84 per card",
+          "One Piece OP-12 box per pack: $129.79 ÷ 24 packs = $5.41 per pack",
+          "Lorcana Reign of Jafar case per box: $463.45 ÷ 4 boxes = $115.86 per box",
+          "Lorcana Reign of Jafar case per pack: $115.86 ÷ 24 packs = $4.83 per pack",
+          "Lorcana Reign of Jafar case per card: $463.45 ÷ 1,152 cards = $0.40 per card",
+          "Lorcana Hyperia City case per box: $720.00 ÷ 4 boxes = $180.00 per box",
+          "Lorcana Hyperia City case per pack: $180.00 ÷ 24 packs = $7.50 per pack",
+          "Lorcana Hyperia City case per card: $720.00 ÷ 1,152 cards = $0.63 per card",
+          "Lorcana First Chapter case per box: $1,747.37 ÷ 4 boxes = $436.84 per box",
+          "Lorcana First Chapter case per pack: $436.84 ÷ 24 packs = $18.20 per pack",
+          "Lorcana First Chapter case per card: $1,747.37 ÷ 1,152 cards = $1.52 per card",
+          "Pokémon SV1a box per pack: $152.29 ÷ 30 packs = $5.08 per pack",
+          "Pokémon SV1a box per card: $152.29 ÷ 150 cards = $1.02 per card",
+          "Pokémon SV2a 151 box per pack: $471.20 ÷ 20 packs = $23.56 per pack",
+          "Pokémon SV2a 151 box per card: $471.20 ÷ 140 cards = $3.37 per card",
+          "Cheapest entry gap: $69.48 − $26.02 = $43.46 between One Piece and Dragon Ball",
+          "Lorcana entry vs Pokémon entry: $463.45 − $70.62 = $392.83",
+          "One Piece OP-17 vs OP-15: $121.28 − $69.48 = $51.80 per box",
+          "Pokémon SV2a vs SV9: $471.20 − $84.97 = $386.23 per box",
+          "Lorcana First Chapter vs Reign of Jafar case: $1,747.37 − $463.45 = $1,283.92 per case"
+        ],
+        "paragraphs": [
+          "Start with the cheapest pack, because it is the number every ranking skips. The [FB08 box](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) is $26.02 for 24 packs of six cards, which is $1.08 a pack and $0.18 a card. Nothing else on the shelf is close: the next cheapest pack is Pokémon, where the [M3 box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $70.62 divides to $2.35 a pack and $0.47 a card. The [SV9 box](/product/sv9-battle-partners-booster-box-japanese-pokemon-card/) at $84.97 is $2.83 a pack. Dragon Ball wins the per-pack race by $1.27, and it wins it because a Fusion World box is $26.02, not because its packs hold more cards.",
+          "Then One Piece, whose per-pack price tells a different story from its per-card price. The [OP-15 box](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) is $69.48 for 24 packs of six cards, which is $2.90 a pack and $0.48 a card, so it is $1.01 dearer than the cheapest Pokémon box per pack. The [OP-18 pre-order box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) at $84.00 is $3.50 a pack. The [OP-17 box](/product/op-17-the-worlds-strongest-warriors-booster-box-japanese-one-piece-card/) at $121.28 is $5.05 a pack, which is $51.80 above OP-15 per box for the newest set. The [OP-12 box](/product/op-12-legacy-of-the-master-booster-box-japanese-one-piece-card/) at $129.79 is $5.41 a pack. One Piece boxes are dearer than Pokémon boxes per pack at every point on the ladder, and the gap is the price of the game's growth.",
+          "Then Lorcana, whose arithmetic runs the other way. The shelf sells no single Lorcana box, only sealed cases of four boxes, and the cheapest is the [Reign of Jafar case](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) at $463.45, which divides to $115.86 a box, $4.83 a pack, and $0.40 a card. That per-pack figure is the dearest of the four games' cheapest entries, but the per-card figure is the second cheapest on the shelf, because a Lorcana pack holds twelve cards. The newest set, the [Hyperia City case](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) at $720.00, divides to $180.00 a box, $7.50 a pack, and $0.63 a card. The dearest, the [First Chapter case](/product/disney-lorcana-the-first-chapter-booster-box-sealed-case-set-1-english/) at $1,747.37, divides to $436.84 a box and $18.20 a pack, which is $1,283.92 above the cheapest case for the same four boxes.",
+          "The Pokémon shelf has one exception to the 30-pack rule every other box on this page follows. The [SV2a 151 box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) is $471.20, but it holds 20 packs of seven cards, not 30 packs of five, so it divides to $23.56 a pack and $3.37 a card, which is $386.23 above the SV9 box per box and the dearest per-card figure on this page. A buyer who divides 151 by 30 packs gets $15.71 a pack and the wrong answer. The [SV1a box](/product/sv1a-triplet-beat-booster-box-japanese-pokemon-card/) at $152.29, or $5.08 a pack for a standard 30-pack box, is the honest comparison for a collector who wants a Scarlet and Violet subset instead."
+        ]
+      },
+      {
+        "h": "The decision layer: four games side by side",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 8, 2026. Read it by buyer type: openers scan the per-pack column, collectors scan the per-card column, and first-time buyers scan the entry column.",
+          "Two rows decide more than the rest. The FB08 row decides the opener: $26.02 is the cheapest sealed entry on the shelf, and nothing else in any game comes within $43.46 of it. The Reign of Jafar row decides the first-time buyer: Lorcana is the only game whose cheapest entry is a case, at $463.45, which is $392.83 above the cheapest Pokémon entry."
+        ],
+        "table": {
+          "head": [
+            "Game",
+            "Cheapest entry, Nov 8 2026",
+            "Packs / cards in the entry",
+            "Per-pack / per-card",
+            "Buy it if"
+          ],
+          "rows": [
+            [
+              "Dragon Ball Fusion World",
+              "FB08 Japanese box, $26.02",
+              "24 packs, 144 cards",
+              "$1.08 / $0.18",
+              "Cheapest sealed opening"
+            ],
+            [
+              "Pokémon",
+              "M3 box, $70.62",
+              "30 packs, 150 cards",
+              "$2.35 / $0.47",
+              "Safest first collection"
+            ],
+            [
+              "One Piece",
+              "OP-15 box, $69.48",
+              "24 packs, 144 cards",
+              "$2.90 / $0.48",
+              "Growth and tournaments"
+            ],
+            [
+              "Disney Lorcana",
+              "Reign of Jafar case, $463.45",
+              "96 packs, 1,152 cards",
+              "$4.83 / $0.40",
+              "Gentlest first game"
+            ],
+            [
+              "Pokémon, current set",
+              "SV9 box, $84.97",
+              "30 packs, 150 cards",
+              "$2.83 / $0.57",
+              "Current Pokémon set"
+            ],
+            [
+              "One Piece, newest set",
+              "OP-17 box, $121.28",
+              "24 packs, 144 cards",
+              "$5.05 / $0.84",
+              "Newest One Piece set"
+            ],
+            [
+              "Lorcana, newest set",
+              "Hyperia City case, $720.00",
+              "96 packs, 1,152 cards",
+              "$7.50 / $0.63",
+              "Newest Lorcana set"
+            ],
+            [
+              "Pokémon, 151 set",
+              "SV2a box, $471.20",
+              "20 packs, 140 cards",
+              "$23.56 / $3.37",
+              "151 chase, not value"
+            ],
+            [
+              "Lorcana, first set",
+              "First Chapter case, $1,747.37",
+              "96 packs, 1,152 cards",
+              "$18.20 / $1.52",
+              "First set collector case"
+            ],
+            [
+              "English single box, any game",
+              "Not stocked",
+              "0",
+              "Not divided",
+              "Does not exist on this shelf"
+            ],
+            [
+              "Named single card",
+              "Varies by card",
+              "0",
+              "Not divided",
+              "One named card is the goal"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about choosing a game is whether the rankings are wrong about Lorcana being cheap to start. They are not wrong about the game, they are silent about the shelf: on this shelf, Lorcana's cheapest entry is a $463.45 case, because no single Lorcana box is stocked. A buyer who plans around a $115.86 box has planned around a product that is not sold singly here, and we say so before the sale, not after.",
+        "paragraphs": [
+          "The top guides for this question rank the games and stop. The PreGradeCards guide gives the short answer every collector repeats: Pokémon for liquidity, One Piece for upside, Lorcana for the broadest buyer pool, and Dragon Ball Fusion World for the Toriyama tribute. The Loaded Dice guide ranks the best games of 2026 and sorts them by buyer: Pokémon and Lorcana for beginners, Pokémon and One Piece for collectors. The ShonenTCG guide prices the newest box of five anime games from TCGplayer market data, and its October 16, 2026 table puts One Piece's newest box as the dearest. None of them divides one store's shelf: none shows what the cheapest entry actually costs in one place on one day, none prices the Japanese box against the English market, and none states that a game's cheapest entry can be a case.",
+          "The second gap is the per-pack versus per-card inversion. Guides that rank by box price call Lorcana dear and Dragon Ball cheap, and both are true, but neither is the whole answer: Lorcana at $4.83 a pack is the dearest cheapest entry per pack, and at $0.40 a card it is the second cheapest per card, because its packs hold twelve cards against five or six. A buyer who compares packs without counting cards buys the wrong game. The third gap is the 151 exception: guides that divide every Pokémon box by 30 packs get the 151 set wrong by $7.85 a pack, because its box holds 20 packs of seven cards. The fourth gap is the Japanese-versus-English price: our Japanese OP-17 box is $121.28, against a $305.73 TCGplayer market for the newest One Piece box on October 16, 2026, so a guide that prices only one language hides the saving."
+        ]
+      },
+      {
+        "h": "The risk layer: reprints, language, and the case-only shelf",
+        "paragraphs": [
+          "The first risk is the reprint model. Bandai runs One Piece on a reprint-to-demand model: when a set sells out and prices spike, Bandai prints more, and the OP-13 box that jumped about 47 percent in November 2025 was slated for reprint around June 2026. That is good stewardship for players and a structural cap for sealed holders. Vintage Pokémon works the other way: the supply of a 1999 Base Set box is fixed forever.",
+          "The second risk is language. Japanese cards are not legal in English tournaments, so a player who buys Japanese for play has bought the wrong product. The rule is simple: choose the language first, then divide the price within it. The third risk is the case-only shelf: this store sells no single English box in any game, and no single Lorcana box at all, so an English buyer who budgets for one box has budgeted for a product that does not exist here.",
+          "The fourth risk is chasing a named card with boxes. No box on this page guarantees any chase card. Lorcana's Enchanted tier runs at roughly one per 96 packs by community tracking, or about one per sealed four-box case, and Ravensburger publishes no official pull rate, so a case can hold zero. A box is the worst way to find one named card, and the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) covers when grading the card you do pull is worth the fee. The fifth risk is the fakes and reseals that follow every hot game: a 2026 box with a four-figure chase is exactly the product a resealer targets, so check the seal before opening, using the checks in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and photograph the box, because a reseal claim is only provable while the seal is intact."
+        ]
+      },
+      {
+        "h": "Context: four games, four histories",
+        "paragraphs": [
+          "Pokémon is the oldest game on the shelf by decades. It was first sold in Japan on October 20, 1996, it is printed in eleven languages, and it has the deepest price history in the hobby, with sales records going back to 1999. It generated about $2 billion in card sales during 2024, and its 30th anniversary in 2026 is driving record sales. That history is the liquidity: a Pokémon card has a price somebody will quote you, in any language, on any day, and no other game on this shelf can say the same.",
+          "One Piece is the youngest game on the shelf and the fastest growing. Bandai launched it in Japan on July 8, 2022, it passed Yu-Gi-Oh to take the number three spot by TCGplayer gross merchandise value in late 2025 and held it into 2026, and OP-01 was up 299 percent in 2025 alone by one market primer's count. Its catalysts are the manga finale and the art: manga rares dominate the premium market, with cards like the Luffy manga rare reaching four figures raw. It is also the most volatile game on this shelf, with prices that can swing 20 to 50 percent in a week.",
+          "Dragon Ball Fusion World is the 2024 game, launched in Japan on February 16, 2024, and the rankings call its first set the most culturally significant first-set release of the decade. Its sets arrive roughly quarterly, FB12 being the newest on this shelf, and it is the only one of the four games with an official digital version. Lorcana is the 2023 game, launched on August 18, 2023 by Ravensburger, with a Japanese edition since January 2025, and it is the game whose buyer pool reaches beyond the hobby: Disney collectors who have never played a TCG buy Enchanted rares, and the median Enchanted card traded at about $101 on October 18, 2026 against $0.19 for a median common."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card in any of the four games, and the right move is the single, because no pull rate is published and no box guarantees any chase card. Second, English-event players: Japanese cards are not legal in English tournaments, so a player who buys Japanese for play has bought the wrong product, and the English product is the one that is legal. Third, buyers who need the money back on a date: sealed prices move, One Piece moves fastest, and no sealed box on this shelf is a savings account.",
+          "Who this guide is for, restated plainly: buyers choosing their first Japanese TCG who want the decision in divided prices instead of stars, and collectors comparing the four games on one day from one shelf. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the buyer type first: safest collection, growth, cheapest opening, or gentlest first game, because the winner changes with the buyer",
+          "Divide before you pay: Dragon Ball by 24 packs and 144 cards, Pokémon by 30 packs and 150 cards except 151 at 20 packs and 140 cards, One Piece by 24 packs and 144 cards, Lorcana cases by 4 boxes, then 24 packs and 288 cards",
+          "Do not budget for a single Lorcana box or a single English box: neither is stocked on this shelf",
+          "If the goal is any named card, price the single first; no box guarantees any chase card",
+          "Choose the language before the price: Japanese cards are cheaper per pack, but they are not legal in English events",
+          "If buying Lorcana, confirm the entry is the whole case: $463.45 at the cheapest, $1,747.37 for the First Chapter",
+          "If buying One Piece sealed to hold, remember Bandai reprints to demand, which caps sealed appreciation",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the four-game buying checklist",
+        "paragraphs": [
+          "Run this in order before the next box you consider in any game. Buyer type first, because it changes the winner; division second, because the cheapest game per pack is not the cheapest game per card; language third; seal check last."
+        ]
+      }
+    ],
+    "slug": "best-japanese-tcg",
+    "takeaway": [
+      "On November 8, 2026, the Warehouse shelf prices the four Japanese games like this: Dragon Ball Fusion World is cheapest per pack at $1.08, Pokémon is cheapest per pack among the big two at $2.35, One Piece is cheapest at $2.90, and Lorcana is dearest per pack at $4.83 but second cheapest per card at $0.40. The cheapest entries are $26.02, $70.62, $69.48, and $463.45, in that order.",
+      "Prices move; the method does not. Choose the buyer type first, divide the box or the case in that game, and never budget for a product the shelf does not stock.",
+      "For Dragon Ball alone, see [Best Dragon Ball TCG from Japan](/blog/best-dragon-ball-tcg-japan/). For Pokémon alone, see [Best Japanese Pokémon Booster Box to Buy](/blog/best-japanese-pokemon-booster-box-to-buy/). For One Piece alone, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For Lorcana alone, see [Best Disney Lorcana Booster Box to Buy](/blog/best-disney-lorcana-booster-box-to-buy/). For the first-game question in full, see [Which TCG Should You Start](/blog/which-tcg-should-you-start/)."
     ]
   },
   "best-one-piece-booster-box-to-buy": {
@@ -22290,7 +22782,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Three games, three honest shapes: Pokémon collects deepest, One Piece structures play best on a budget, and Dragon Ball runs the most direct fight — 8 Life, an Awakening at 4, and one attack beyond zero. None of those is a ranking. They are descriptions, and the right door is the one that matches the Saturdays you actually have.",
       "If the anime fan in you is doing the choosing, trust that answer and skip the agonizing — fandom is a legitimate strategy, because it is the one that keeps you opening, playing, and finishing sets a year from now.",
       "If Lorcana is the game you picked, the next step is sealed: [the best Disney Lorcana booster box to buy](/blog/best-disney-lorcana-booster-box-to-buy/) divides all fourteen Lorcana cases to per-box and per-pack from our live prices, so you can see which set is actually cheapest before you commit to a case.",
-      "If Pokemon is the game you picked, the [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) prices the fixed MEGA starters against random Start Deck 100 and the four-deck Generations set, per card and per match."
+      "If Pokemon is the game you picked, the [best Japanese Pokemon starter deck](/blog/best-japanese-pokemon-starter-deck-to-buy/) prices the fixed MEGA starters against random Start Deck 100 and the four-deck Generations set, per card and per match.",
+      "New this cycle: the [best Japanese TCG to buy in 2026](/blog/best-japanese-tcg/) answers this question in divided prices instead of stars — Pokémon for liquidity, One Piece for upside, Dragon Ball for the cheapest entry at $26.02, Lorcana for the gentlest first game."
     ]
   }
 };
