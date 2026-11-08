@@ -19435,6 +19435,190 @@ export const POSTS: Record<string, BlogPost> = {
       "For the White Flare verdict in depth, the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) prices the twin at $167.72 a box against Black Bolt's $183.18, with the Deluxe at $197.53 and the case flagged for checkout confirmation."
     ]
   },
+  "sv1a-triplet-beat-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the first Scarlet & Violet subset in Japanese and accept $5.08 a pack, which is $1.02 a card for 150 cards from a 103-card set. The case is the better sealed buy at $133.69 a box, saving $223.15 against twelve singles. For profit, no: no box guarantees the Magikarp Art Rare, which carries a $129.90 market price on its own, or 0.85 times a box, so even pulling it loses money against the box price once the rest of the box is bulk. Open SV1a because you want the set, and buy the Magikarp single if it is the only card you want.",
+        "q": "Is SV1a Triplet Beat worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (March 10, 2023), and the box standard is 30 packs. At our shelf price of $152.29, that is $5.08 per pack and $1.02 per card.",
+        "q": "How many packs are in an SV1a booster box?"
+      },
+      {
+        "a": "Buy the single if Magikarp is the only card you want. One Magikarp Art Rare carried a $129.90 TCGplayer market price on November 7, 2026, which is 0.85 times a box and most of a box at $152.29. A box can hold no Magikarp at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 103-card set and the chance at the whole secret block, and buy the case at $133.69 a box if you want to hold sealed.",
+        "q": "Should I buy the SV1a box or the Magikarp Art Rare single?"
+      }
+    ],
+    "h1": "SV1a Triplet Beat: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV1a box at $152.29 if you want to open Triplet Beat, and buy the case at $1,604.33 if you want to hold or split it at $133.69 a box. The honest headline is the one no other guide prints: the chase is not a Special Art Rare. The Magikarp Art Rare carried a $129.90 TCGplayer market price on November 7, 2026, more than twice the dearest SAR in the set, the Meowscarada ex SAR at $54.66, and one card holds 27 percent of the whole set's value. Our box costs $1.10 more than the TCGplayer market for a sealed box, so you are paying the market price for sealed stock from Japan, not a premium over it.",
+      "Who this is for: collectors who want the first Scarlet & Violet subset in Japanese, sealed holders who divide the case before they pay, because this is the set where the division pays, and buyers choosing between a Japanese box and an English Paldea Evolved product. Who it is not for: anyone chasing one named card, because the Magikarp costs 0.85 times a box and no pull is guaranteed; anyone who wants the cheapest 30-pack box, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Triplet Beat (SV1a) from one store: box $152.29, case $1,604.33, and the Magikarp AR at $129.90 priced honestly. Case saves $223.15.",
+    "metaTitle": "SV1a Triplet Beat: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV1a rewards the buyer who gets the order right and punishes the one who does not. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 103-card set, so one box covers the set with duplicates to trade, and the second box is mostly cards you already own. A sealed holder should buy the case, not twelve singles, because the case at $1,604.33 divides to $133.69 a box and saves $223.15 against twelve singles at $1,827.48, or $18.60 a box. A case splitter should do the same division before listing: every box out of this case starts $18.60 ahead. A single-card chaser should stop here and buy the Magikarp instead, because one card at $129.90 costs 0.85 times a box, and the box can hold no Art Rare of that card at all.",
+          "The set is built on one card and the chase is narrow, and that combination decides everything on this page. Triplet Beat came out in Japan on March 10, 2023, as the first subset of the Scarlet & Violet era, built around the three Paldea starters' final evolutions, Meowscarada, Skeledirge, and Quaquaval, and it is one third of the English Paldea Evolved. It prints 103 cards: a 73-card base set and a 30-card secret block of 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The five SARs are Meowscarada ex, Skeledirge ex, Quaquaval ex, Dendra, and Boss's Orders, and the dearest of them, Meowscarada ex at $54.66, costs less than half the Magikarp. The set is 44 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $223.15 gap",
+        "math": [
+          "SV1a box per pack: $152.29 ÷ 30 = $5.08 per pack",
+          "SV1a box per card: $152.29 ÷ 150 = $1.02 per card",
+          "SV1a case per box: $1,604.33 ÷ 12 = $133.69 per box",
+          "SV1a case per pack: $1,604.33 ÷ 360 = $4.46 per pack",
+          "SV1a case per card: $1,604.33 ÷ 1,800 = $0.89 per card",
+          "SV1a twelve singles: 12 × $152.29 = $1,827.48",
+          "SV1a case saving: $1,827.48 − $1,604.33 = $223.15 across the case",
+          "SV1a saving per box: $223.15 ÷ 12 = $18.60 per box",
+          "SV1a official box: ¥5,400 ÷ ¥158.48 = $34.07; official pack ¥180 ÷ ¥158.48 = $1.14",
+          "SV1a box vs official: $152.29 ÷ $34.07 = 4.47x the official Japanese price",
+          "SV1a case box vs official: $133.69 ÷ $34.07 = 3.92x the official Japanese price",
+          "Magikarp AR vs box: $129.90 ÷ $152.29 = 0.85x the price of a box",
+          "Meowscarada ex SAR vs box: $54.66 ÷ $152.29 = 0.36x the price of a box",
+          "Skeledirge ex SAR vs box: $52.79 ÷ $152.29 = 0.35x the price of a box",
+          "Magikarp vs complete set: $129.90 ÷ $476.42 = 0.27 of the set's value",
+          "SV1a top three vs box: $237.35 ÷ $152.29 = 1.56x the price of a box",
+          "Complete set vs box: $476.42 ÷ $152.29 = 3.13 boxes; 4 boxes cost 4 × $152.29 = $609.16",
+          "Complete set vs four boxes: $609.16 − $476.42 = $132.74 cheaper as singles",
+          "SV1a box vs TCGplayer box market: $152.29 − $151.19 = $1.10 above the Nov 7, 2026 market",
+          "Magikarp PSA 10 vs raw: $196.00 ÷ $129.90 = 1.51x; $196.00 − $129.90 = $66.10",
+          "SV1a box vs Clay Burst: $152.29 − $102.64 = $49.65 more per box",
+          "SV1a box vs Mask of Change: $152.29 − $111.46 = $40.83 more per box"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV1a box](/product/sv1a-triplet-beat-booster-box-japanese-pokemon-card/) is $152.29 for 30 packs of 5 cards, which is $5.08 per pack and $1.02 per card. That per-pack price sits high on the shelf: it ties Ruler of Black Flame at $5.08 a pack, and it is dearer than Mask of Change at $3.72, Crimson Haze at $3.57, and Clay Burst at $3.42. The box is 150 cards from a 103-card set, so one box gives the main set once over and most of the secrets.",
+          "The case arithmetic is the reason to buy this set sealed, and this guide exists to print it. The [SV1a case](/product/sv1a-triplet-beat-sealed-case-12-boxes-japanese-pokemon-card/) is $1,604.33 for 12 boxes, which divides to $133.69 a box, $4.46 a pack, and $0.89 a card. Twelve single boxes cost $1,827.48, so the case saves $223.15 in total, or $18.60 a box. That is a real discount, not a convenience fee: a splitter who lists case boxes at the single-box price keeps $18.60 on every box before fees. Compare [Night Wanderer](/blog/sv6a-night-wanderer-buyers-guide/), whose case saves $196.81, or $16.40 a box, and [Clay Burst](/blog/sv2d-clay-burst-buyers-guide/), whose case saves only $28.81, or $2.40 a box.",
+          "The neighboring shelf puts SV1a in its price band, starting with the set that shares its box price to the cent. [Ruler of Black Flame](/blog/sv3-ruler-of-black-flame-buyers-guide/) is $152.29 a box, $5.08 a pack, the same as SV1a. [Clay Burst](/blog/sv2d-clay-burst-buyers-guide/) is $102.64 a box, $3.42 a pack, so SV1a sits $49.65 above it per box. [Mask of Change](/blog/sv6-mask-of-change-buyers-guide/) is $111.46 a box, $3.72 a pack, so SV1a sits $40.83 above it per box. [Crimson Haze](/blog/sv5a-crimson-haze-buyers-guide/) is $107.04 a box, $3.57 a pack, so SV1a sits $45.25 above it per box.",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,400 in Japan, which is $34.07 at ¥158.48 to the dollar, and a pack at ¥180 is $1.14. Our box at $152.29 is 4.47 times the official price, and the case-split box at $133.69 is 3.92 times it. That multiple is not a markup story: the print run ended in 2023, the set is 44 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2023 retail, but our price against the market for a sealed box today, and the TCGplayer market for a Triplet Beat box was $151.19 on November 7, 2026: our box costs $1.10 more, which is the market price for sealed stock from Japan in one parcel, not a premium over it."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the TCGplayer figures, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row and see the $18.60 margin, and single-card chasers scan the Magikarp row and stop there.",
+          "Two rows decide more than the rest. The Magikarp row decides the chaser: one card at $129.90 costs 0.85 times a box, and the second card, Meowscarada ex at $54.66, costs 0.36 times a box, so the set has one expensive card and then a cliff. The complete-set row decides the collector: all 103 cards as singles cost $476.42, which is 3.13 boxes, and $132.74 less than four boxes at $609.16, so a collector who wants the set and not the gamble should buy singles. The English row decides the buyer who only wants the art: the English Magikarp illustration rare from Paldea Evolved carried a €440.06 Cardmarket price on November 4, 2026, against $129.90 for the Japanese Art Rare, so the same artwork costs far more in English, and the Japanese print is the cheap way to own it."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV1a box",
+              "$152.29",
+              "30 packs, 150 cards",
+              "$152.29 / $5.08 / $1.02"
+            ],
+            [
+              "SV1a case",
+              "$1,604.33",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$133.69 / $4.46 / $0.89"
+            ],
+            [
+              "Magikarp AR single",
+              "$129.90 (TCGplayer market, Nov 7 2026)",
+              "1 card, the chase",
+              "0.85x a box"
+            ],
+            [
+              "Complete set as singles",
+              "$476.42 (TCGplayer market, Nov 7 2026)",
+              "103 cards",
+              "3.13 boxes; $132.74 less than 4 boxes"
+            ],
+            [
+              "TCGplayer sealed box",
+              "$151.19 (market, Nov 7 2026)",
+              "1 sealed box, market not an ask",
+              "$1.10 less than our box"
+            ],
+            [
+              "Meowscarada ex SAR single",
+              "$54.66 (TCGplayer market, Nov 7 2026)",
+              "1 card, dearest SAR",
+              "0.36x a box"
+            ],
+            [
+              "SV3 box",
+              "$152.29",
+              "30 packs, 150 cards",
+              "$152.29 / $5.08 / $1.02"
+            ],
+            [
+              "EN Paldea Evolved route",
+              "No EN product on our shelf",
+              "Magikarp IR €440.06",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: an Art Rare outprices every SAR",
+        "note": "From the Warehouse: the question we get most about SV1a is whether to buy the box or the Magikarp single. The answer we give in chat is the one on this page: the single costs 0.85 times a box, so buy the single if Magikarp is the only card you want, and buy the box only if you want the set. Most buyers who ask it buy one box to open and the Magikarp single if they want the card.",
+        "paragraphs": [
+          "The top guides for this set are card lists and set tables. The Serebii database transcribes all 103 cards in number order and names the set's theme. The sets-in-order table gives the release date, the pack price, and the English twin. The Bulbapedia set list gives every card number and the set's place as the first Scarlet & Violet subset. None of them divides a shelf: none shows a case split, none runs the single-versus-box test, and none prices the TCGplayer box market against our box. That division is the section this page owns, and it is the only part of the decision no card list can answer.",
+          "One more correction the lists do not make: the chase is not a Special Art Rare. The Magikarp Art Rare at $129.90 costs more than twice the dearest SAR, the Meowscarada ex SAR at $54.66, and it holds 27 percent of the complete set's $476.42 value on its own, while the top three cards together cost $237.35, or 1.56 times a box. The same discipline applies to the prices: every marketplace figure here carries its date, the shelf prices are stamped November 8, 2026, and the TCGplayer figures are stamped November 7, 2026, so a reader who finds a different number later can tell which figure moved."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card set, the grading gap, and the English overlap",
+        "paragraphs": [
+          "The first risk is concentration. The Magikarp at $129.90 is 27 percent of the complete set value of $476.42, so one card carries more than a quarter of the set. A box that misses Magikarp and the five SARs holds a Dedenne ex at best, and the rest of the set is bulk: only 24 of the 103 cards carry a TCGplayer market price of $3.00 or more. The second risk is the grading gap. A PSA 10 Magikarp carried a $196 CardZ reference price on November 8, 2026, against $129.90 raw, or 1.51 times the raw price, so grading pays only if the card comes back a 10, and the PSA 10 population is already 60,448 copies, so the slab is not scarce. The third risk is the reseal. A 44-month-old box with a $129.90 chase is exactly the product a resealer targets, so check the seal before opening, photograph the box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, because a reseal claim is only provable while the seal is intact.",
+          "The English overlap is the risk most buyers miss, because the same art costs far more in English. The English Magikarp illustration rare from Paldea Evolved carried a €440.06 Cardmarket price on November 4, 2026, against $129.90 for the Japanese Art Rare, so the English card costs several times the Japanese one even before currency, and a buyer who wants the art should buy the Japanese print. Buy the Japanese card because you want the Japanese print, the 080/073 number, and the set it belongs to. And remember the second Magikarp: the set also prints a common Magikarp at 022/073, a different card worth pennies, so check the number on any listing before you pay."
+        ]
+      },
+      {
+        "h": "Context: 103 cards, three starters, and the English twin",
+        "paragraphs": [
+          "The set is the first subset, and that position explains its shape. Triplet Beat prints 103 cards: a 73-card base set and a 30-card secret block. The five SARs are the set in miniature: the three starter evolutions in Meowscarada ex, Skeledirge ex, and Quaquaval ex, plus two Trainers in Dendra and Boss's Orders, and the Trainers sit in the top five on price, which is rare. The secret block also holds the Meowscarada ex Ultra Rare at $17.20 and the Dedenne ex at $13.40, so value spreads across the tiers instead of sitting on one card, even though Magikarp sits above them all. The set was designed as an Enhanced Expansion Pack, a smaller set between main expansions, and that design is why the set is short, balanced, and flat outside its one card: it was made to be opened and completed, not chased.",
+          "The English twin is Paldea Evolved, released June 9, 2023, about three months after the Japanese release. It combines Triplet Beat, Clay Burst, and Snow Hazard into one 279-card English set, so a buyer who wants the English cards buys one product instead of three Japanese boxes. That is the trade: the Japanese boxes give you the 103-card set with the Magikarp Art Rare at 080/073, and the English set gives you the same art spread across a larger checklist at higher prices. Japanese cards are not legal in English tournaments, so a player who buys SV1a for play has bought the wrong product, and the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full. If you are buying to open, the question is whether you want 150 cards from a 103-card set or a share of a 279-card English set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Magikarp Art Rare single at $129.90, which costs 0.85 times a box, or the Meowscarada ex SAR at $54.66 if that is the card you want. Second, budget openers: at $5.08 a pack, SV1a is dearer than Mask of Change at $3.72, Crimson Haze at $3.57, and Clay Burst at $3.42, so a buyer who wants the cheapest 30-pack box should buy [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) instead. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV1a for play has bought the wrong product, and the English Paldea Evolved product is the one that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the first Scarlet & Violet subset in Japanese and will open 30 packs of it, sealed holders who will buy the case at $133.69 a box knowing the saving is $18.60 a box, and buyers choosing between the Japanese box and the English route who now know the English Magikarp costs several times the Japanese Art Rare. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Magikarp Art Rare costs 0.85 times a box",
+          "If buying sealed, compare our box at $152.29 against the TCGplayer market at $151.19 and decide whether the $1.10 is worth sealed stock from Japan in one parcel",
+          "If buying the case, confirm the case price at checkout; $133.69 a box is the live shelf figure for November 8, 2026, and the saving is $18.60 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV1a buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV1a box you consider. It takes ten minutes and it replaces a shelf of shop rankings with one division you can re-run yourself. Start with the buyer type, because the right format follows from it, and end with the seal check, because a 44-month-old box with a $129.90 chase is the product most worth verifying before you open it."
+        ]
+      }
+    ],
+    "slug": "sv1a-triplet-beat-buyers-guide",
+    "takeaway": [
+      "The SV1a box at $152.29 sits high on the 30-pack shelf at $5.08 a pack, and $1.02 a card, for 150 cards from a 103-card set. The case at $1,604.33 is the way to buy it sealed, at $133.69 a box and $4.46 a pack, saving $223.15 against twelve singles. The set is 103 cards, released March 10, 2023, and the chase is the Magikarp Art Rare, which carried a $129.90 TCGplayer market price on November 7, 2026, or 0.85 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, November 4 and November 7, 2026. No pull rate is guaranteed, and the box can hold zero Magikarp cards. The TCGplayer market for a sealed box was $151.19, so our box costs $1.10 more: pay it for sealed stock from Japan in one parcel, not for a discount.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, with a case that saves $196.81, and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box."
+    ]
+  },
   "sv2a-pokemon-151-buyers-guide": {
     "datePublished": "2026-11-07",
     "faqs": [
@@ -19599,7 +19783,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks the shelf by value. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the newest set the same way, box $183.18 against a case that saves $100.54 a box, with the Deluxe pack divided beside them.",
       "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the other Charizard-chase set, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own.",
-      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came a month after Pokemon 151 at $102.64 a box, with the Iono SAR at $296.26 carrying more than half the set's value."
+      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came a month after Pokemon 151 at $102.64 a box, with the Iono SAR at $296.26 carrying more than half the set's value.",
+      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the set that came two months before Pokemon 151 at $152.29 a box, with a case that saves $223.15 and a chase that tops out at $129.90."
     ]
   },
   "sv2d-clay-burst-buyers-guide": {
@@ -19782,7 +19967,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV2D box at $102.64 is the middle of the 30-pack shelf at $3.42 a pack, and $0.68 a card, for 150 cards from a 99-card set. The case at $1,202.87 is the way to buy it sealed, at $100.24 a box and $3.34 a pack, saving $28.81 against twelve singles. The set is 99 cards, released April 14, 2023, and the chase is the Iono SAR, which carried a $296.26 TCGplayer market price on November 7, 2026, or 2.89 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 1, November 7, and November 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $67.09, so our box costs $35.55 more, and the case-split box costs $33.15 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the set that came five months after Clay Burst at the same $102.64 a box, but with a case that saves $78.62, and a chase that tops out at $37.39, not $296.26."
+      "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the set that came five months after Clay Burst at the same $102.64 a box, but with a case that saves $78.62, and a chase that tops out at $37.39, not $296.26.",
+      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, the third Paldea Evolved part beside Clay Burst, with the Magikarp Art Rare at $129.90 carrying 27 percent of the set's value."
     ]
   },
   "sv3-ruler-of-black-flame-buyers-guide": {
@@ -20700,7 +20886,195 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV6 box at $111.46 is the middle of the 30-pack shelf at $3.72 a pack, but $0.74 a card, for 150 cards from a 133-card set. The case at $982.80 is the way to buy it sealed, at $81.90 a box and $2.73 a pack, saving $354.72 against twelve singles. The set is 133 cards, released April 26, 2024, and the chase is the Carmine SAR, which carried an $87.83 TCGplayer market price on November 5, 2026, or 0.79 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30, October 2, and November 5, 7, and 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $67.09, so our box costs $44.37 more, and the case-split box costs $14.81 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the set that came five weeks before Mask of Change and shares its English twin, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own."
+      "New this cycle: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the set that came five weeks before Mask of Change and shares its English twin, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own.",
+      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the set that came a month after Mask of Change at $91.61 a box, with a case that saves $196.81 and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box."
+    ]
+  },
+  "sv6a-night-wanderer-buyers-guide": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Shrouded Fable set in Japanese and accept $3.05 a pack, which is $0.61 a card for 150 cards from a 94-card set. The case is the better sealed buy at $75.21 a box, saving $196.81 against twelve singles. For profit, no: no box guarantees a SAR, and the dearest card in the set, the Cassiopeia SAR, carries a $21.81 market price on its own, or 0.24 times a box, so even the best pull loses money against the box price. Open SV6a because you want the set, and buy the Cassiopeia single if it is the only card you want.",
+        "q": "Is SV6a Night Wanderer worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (June 7, 2024), and the box standard is 30 packs. At our shelf price of $91.61, that is $3.05 per pack and $0.61 per card.",
+        "q": "How many packs are in an SV6a booster box?"
+      },
+      {
+        "a": "Buy the single if Cassiopeia is the only card you want. One Cassiopeia SAR carried a $21.81 TCGplayer market price on November 7, 2026, which is 0.24 times a box and a quarter of a box at $91.61. A box can hold no SAR at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 94-card set and the chance at the whole secret block, and buy the case at $75.21 a box if you want to hold sealed.",
+        "q": "Should I buy the SV6a box or the Cassiopeia SAR single?"
+      }
+    ],
+    "h1": "SV6a Night Wanderer: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV6a box at $91.61 if you want to open Night Wanderer, and buy the case at $902.51 if you want to hold or split it at $75.21 a box. The honest headline is the one no other guide prints: the famous card is not the dearest card. The Pecharunt ex SAR, the card the set is built around, carried a $10.96 TCGplayer market price on November 7, 2026, fourth in the set, while the Cassiopeia SAR tops it at $21.81, or 0.24 times a box. Our box costs $19.64 more than a Tokyo shop's sealed-box listing, so you are paying for sealed stock from Japan, not the lowest yen price.",
+      "Who this is for: collectors who want the Shrouded Fable set in Japanese, sealed holders who divide the case before they pay, because this is the set where the division pays, and buyers choosing between a Japanese box and an English Shrouded Fable product. Who it is not for: anyone chasing one named card, because the dearest card in the set costs $21.81 and no pull is guaranteed; anyone who wants the cheapest 30-pack box, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Night Wanderer (SV6a) from one store: box $91.61, case $902.51, and the Cassiopeia SAR at $21.81 priced honestly. Case saves $196.81.",
+    "metaTitle": "SV6a Night Wanderer: Buyer's Guide, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV6a rewards the buyer who gets the order right and punishes the one who does not. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 94-card set, so one box covers the set with duplicates to trade, and the second box is mostly cards you already own. A sealed holder should buy the case, not twelve singles, because the case at $902.51 divides to $75.21 a box and saves $196.81 against twelve singles at $1,099.32, or $16.40 a box. A case splitter should do the same division before listing: every box out of this case starts $16.40 ahead. A single-card chaser should stop here and buy the Cassiopeia SAR instead, because one card at $21.81 costs 0.24 times a box, and the box can hold no SAR at all.",
+          "The set is built flat and the chase is wide, and that combination decides everything on this page. Night Wanderer came out in Japan on June 7, 2024, as an Enhanced Expansion Pack built around Pecharunt and the Loyal Three, Okidogi, Munkidori, and Fezandipiti, and it is the whole of the English Shrouded Fable. It prints 94 cards: a 64-card base set and a 30-card secret block of 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The five SARs are Okidogi ex, Munkidori ex, Fezandipiti ex, Pecharunt ex, and Cassiopeia, and the top three sit within $10.43 of each other: Cassiopeia at $21.81, Fezandipiti ex at $18.99, and the Persian Art Rare at $11.38. No card in the set costs more than $21.81, and the set is 29 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $196.81 gap",
+        "math": [
+          "SV6a box per pack: $91.61 ÷ 30 = $3.05 per pack",
+          "SV6a box per card: $91.61 ÷ 150 = $0.61 per card",
+          "SV6a case per box: $902.51 ÷ 12 = $75.21 per box",
+          "SV6a case per pack: $902.51 ÷ 360 = $2.51 per pack",
+          "SV6a case per card: $902.51 ÷ 1,800 = $0.50 per card",
+          "SV6a twelve singles: 12 × $91.61 = $1,099.32",
+          "SV6a case saving: $1,099.32 − $902.51 = $196.81 across the case",
+          "SV6a saving per box: $196.81 ÷ 12 = $16.40 per box",
+          "SV6a official box: ¥5,400 ÷ ¥158.48 = $34.07; official pack ¥180 ÷ ¥158.48 = $1.14",
+          "SV6a box vs official: $91.61 ÷ $34.07 = 2.69x the official Japanese price",
+          "SV6a case box vs official: $75.21 ÷ $34.07 = 2.21x the official Japanese price",
+          "Cassiopeia SAR vs box: $21.81 ÷ $91.61 = 0.24x the price of a box",
+          "Fezandipiti ex SAR vs box: $18.99 ÷ $91.61 = 0.21x the price of a box",
+          "Pecharunt ex SAR vs box: $10.96 ÷ $91.61 = 0.12x the price of a box",
+          "SV6a top three vs box: $52.18 ÷ $91.61 = 0.57x the price of a box",
+          "Complete set vs box: $187.12 ÷ $91.61 = 2.04 boxes; 2 boxes cost 2 × $91.61 = $183.22",
+          "Complete set vs two boxes: $187.12 − $183.22 = $3.90 more than two boxes",
+          "SV6a box vs Tokyo listing: $91.61 − $71.97 = $19.64 above the Oct 7, 2026 Samurai Sword sealed-box listing",
+          "SV6a case box vs Tokyo listing: $75.21 − $71.97 = $3.24 above the same listing",
+          "SV6a box vs Battle Partners: $91.61 − $84.97 = $6.64 more per box",
+          "SV6a box vs Raging Surf: $102.64 − $91.61 = $11.03 less per box",
+          "SV6a box vs Mask of Change: $111.46 − $91.61 = $19.85 less per box",
+          "Cassiopeia fall from $55: $55.00 − $21.81 = $33.19; $33.19 ÷ $55.00 = 0.60",
+          "Cassiopeia fall from $70: $70.00 − $21.81 = $48.19; $48.19 ÷ $70.00 = 0.69",
+          "EN Pecharunt ex SIR vs JP SAR: $21.43 − $10.96 = $10.47 more; $21.43 ÷ $10.96 = 1.96x"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The [SV6a box](/product/sv6a-night-wanderer-booster-box-japanese-pokemon-card/) is $91.61 for 30 packs of 5 cards, which is $3.05 per pack and $0.61 per card. That per-pack price sits low on the shelf: dearer than Battle Partners at $2.83 a pack, cheaper than Clay Burst and Raging Surf at $3.42, Crimson Haze at $3.57, and Mask of Change at $3.72. The box is 150 cards from a 94-card set, so one box gives the main set twice over and most of the secrets.",
+          "The case arithmetic is the reason to buy this set sealed, and this guide exists to print it. The [SV6a case](/product/sv6a-night-wanderer-sealed-case-12-boxes-japanese-pokemon-card/) is $902.51 for 12 boxes, which divides to $75.21 a box, $2.51 a pack, and $0.50 a card. Twelve single boxes cost $1,099.32, so the case saves $196.81 in total, or $16.40 a box. That is a real discount, not a convenience fee: a splitter who lists case boxes at the single-box price keeps $16.40 on every box before fees. Compare [Mask of Change](/blog/sv6-mask-of-change-buyers-guide/), whose case saves $354.72, or $29.56 a box, and [Raging Surf](/blog/sv3a-raging-surf-buyers-guide/), whose case saves $78.62, or $6.55 a box.",
+          "The neighboring shelf puts SV6a in its price band, starting with the set that came a month before it. [Mask of Change](/blog/sv6-mask-of-change-buyers-guide/) is $111.46 a box, $3.72 a pack, so SV6a sits $19.85 below it per box. [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) is $84.97 a box, $2.83 a pack, so SV6a sits $6.64 above it per box. [Raging Surf](/blog/sv3a-raging-surf-buyers-guide/) is $102.64 a box, $3.42 a pack, so SV6a sits $11.03 below it per box. [Crimson Haze](/blog/sv5a-crimson-haze-buyers-guide/) is $107.04 a box, $3.57 a pack, so SV6a sits $15.43 below it per box.",
+          "The official price is the anchor the market has left behind. A box retailed at ¥5,400 in Japan, which is $34.07 at ¥158.48 to the dollar, and a pack at ¥180 is $1.14. Our box at $91.61 is 2.69 times the official price, and the case-split box at $75.21 is 2.21 times it. That multiple is not a markup story: the print run ended in 2024, the set is 29 months old, and every sealed box left is secondary stock. The honest comparison is not our price against the 2024 retail, but our price against the cheapest sealed box in Japan today, and Samurai Sword listed the sealed box at ¥11,405, or $71.97, on October 7, 2026: our box costs $19.64 more, and the case-split box costs $3.24 more."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer, and the money layer above carries the full division. Prices are our shelf prices as of November 8, 2026, except the Tokyo listing and the chase cards, which are dated marketplace figures. Read the table by buyer type: openers scan the per-pack row, holders scan the case row and see the $16.40 margin, and single-card chasers scan the Cassiopeia row and stop there.",
+          "Two rows decide more than the rest. The Cassiopeia row decides the chaser: one card at $21.81 costs 0.24 times a box, and the second card, Fezandipiti ex at $18.99, costs 0.21 times a box, so the set has no card worth chasing through sealed product. The complete-set row decides the collector: all 94 cards as singles cost $187.12, which is 2.04 boxes, and $3.90 more than two boxes at $183.22, so a collector who wants the set and not the gamble should buy singles, because two boxes give duplicates, not a complete set. The English row decides the buyer who only wants the famous card: the English Pecharunt ex SIR from Shrouded Fable carried a $21.43 CardTrack near-mint price on November 8, 2026, $10.47 more than the Japanese SAR, or 1.96 times it, so the English single costs nearly twice the Japanese one."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 8 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV6a box",
+              "$91.61",
+              "30 packs, 150 cards",
+              "$91.61 / $3.05 / $0.61"
+            ],
+            [
+              "SV6a case",
+              "$902.51",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$75.21 / $2.51 / $0.50"
+            ],
+            [
+              "Cassiopeia SAR single",
+              "$21.81 (TCGplayer market, Nov 7 2026)",
+              "1 card, the chase",
+              "0.24x a box"
+            ],
+            [
+              "Complete set as singles",
+              "$187.12 (TCGplayer market, Nov 7 2026)",
+              "94 cards",
+              "2.04 boxes; $3.90 more than 2 boxes"
+            ],
+            [
+              "Tokyo sealed box",
+              "$71.97 (¥11,405 listing, Oct 7 2026)",
+              "1 sealed box, listing not a sale",
+              "$19.64 less than our box"
+            ],
+            [
+              "Fezandipiti ex SAR single",
+              "$18.99 (TCGplayer market, Nov 7 2026)",
+              "1 card, second chase",
+              "0.21x a box"
+            ],
+            [
+              "SV6 box",
+              "$111.46",
+              "30 packs, 150 cards",
+              "$111.46 / $3.72 / $0.74"
+            ],
+            [
+              "EN Shrouded Fable route",
+              "No EN product on our shelf",
+              "Pecharunt ex SIR $21.43",
+              "Secondary market only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the wrong famous card",
+        "note": "From the Warehouse: the question we get most about SV6a is whether the case is the smart buy. The answer we give in chat is the one on this page: the case saves $196.81 against twelve singles, so buy the case if you want to hold sealed, and buy the Cassiopeia single if you want the card. Most buyers who ask it buy one box to open and the Cassiopeia single if they want the card.",
+        "paragraphs": [
+          "The top guides for this set are card lists and set tables. The Serebii database transcribes all 94 cards in number order and names the set's theme. The Samurai Sword Shrouded Fable page gives the English card list, the Japanese release date, and the pack price. The sets-in-order table gives the release date, the pack price, and the English twin. None of them divides a shelf: none shows a case split, none runs the single-versus-box test, and none prices the Tokyo listing against our box. That division is the section this page owns, and it is the only part of the decision no card list can answer.",
+          "One more correction the lists do not make: the set is sold on Pecharunt, but Pecharunt is not the chase. The Pecharunt ex SAR at $10.96 is the fourth card in the set, behind Cassiopeia at $21.81, Fezandipiti ex at $18.99, and the Persian Art Rare at $11.38, and the top three cards together cost $52.18, or 0.57 times a box. The same discipline applies to the prices: every marketplace figure here carries its date, the shelf prices are stamped November 8, 2026, and the Tokyo listing is stamped October 7, 2026, so a reader who finds a different number later can tell which figure moved."
+        ]
+      },
+      {
+        "h": "The risk layer: the flat set, the fallen chase, and the English overlap",
+        "paragraphs": [
+          "The first risk is flatness. No card in Night Wanderer costs more than $21.81, so no pull rescues a bad box: a box that holds no SAR at all is a box of bulk, and even the best pull in the set is worth a quarter of the box that held it. The complete set costs $187.12 as singles, which is 2.04 boxes, so opening three boxes to complete the set spends $274.83 to build $187.12 of cards. The second risk is the fallen chase. The Cassiopeia SAR sat at $55 to $70 on resale platforms in June 2024, at release, and it carries a $21.81 TCGplayer market price now, down 60 percent from the bottom of that range and 69 percent from the top, so a buyer who paid release prices for the chase has already lost most of it. The third risk is the reseal. A 29-month-old box is exactly the product a resealer targets, so check the seal before opening, photograph the box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, because a reseal claim is only provable while the seal is intact.",
+          "The English overlap is the risk most buyers miss, because the same art costs more in English this time. The English Pecharunt ex SIR from Shrouded Fable carried a $21.43 CardTrack near-mint price on November 8, 2026, against $10.96 for the Japanese SAR, so the English card costs $10.47 more, not less, which is the reverse of the usual language gap and a reminder to price the exact printing, not the language. Buy the Japanese card because you want the Japanese print, the 090/064 number, and the set it belongs to. And remember the set's design: Night Wanderer was built around a story, the Loyal Three and their master, so its cards were made to be collected as a set, not chased one by one."
+        ]
+      },
+      {
+        "h": "Context: 94 cards, the Loyal Three, and the English twin",
+        "paragraphs": [
+          "The set is small on purpose, and the purpose explains its shape. Night Wanderer prints 94 cards: a 64-card base set and a 30-card secret block. The five SARs are the set in miniature: three Pokemon ex in Okidogi, Munkidori, and Fezandipiti, the Loyal Three, plus Pecharunt ex and Cassiopeia, the Trainer who outprices them all, which is rare. The secret block also holds the Earthen Vessel ACE SPEC at $9.17 and the Persian Art Rare at $11.38, so value spreads across the tiers instead of sitting on one card. The set also carries ACE SPEC cards and Terastal Pokemon, continuing both threads from the sets before it. It was designed as an Enhanced Expansion Pack, a smaller set between main expansions, and that design is why the set is short, balanced, and flat: it was made to be opened and completed, not chased.",
+          "The English twin is Shrouded Fable, released August 2, 2024, about eight weeks after the Japanese release. It takes the whole of Night Wanderer into one 99-card English set, so a buyer who wants the English cards buys one product instead of a Japanese box. That is the trade: the Japanese box gives you the 94-card set with the Cassiopeia SAR at 091/064, and the English set gives you the same cards spread across a 99-card checklist at different prices. Japanese cards are not legal in English tournaments, so a player who buys SV6a for play has bought the wrong product, and the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full. If you are buying to open, the question is whether you want 150 cards from a 94-card set or a share of a 99-card English set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the Cassiopeia SAR single at $21.81, which costs 0.24 times a box, or the Fezandipiti ex SAR at $18.99 if that is the card you want. Second, profit openers: no card in the set costs more than $21.81, so a box at $91.61 needs five top hits to break even, and a box holds no guaranteed SAR at all. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV6a for play has bought the wrong product, and the English Shrouded Fable product is the one that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the Shrouded Fable set in Japanese and will open 30 packs of it, sealed holders who will buy the case at $75.21 a box knowing the saving is $16.40 a box, and buyers choosing between the Japanese box and the English route who now know the English Pecharunt costs 1.96 times the Japanese SAR. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Cassiopeia SAR costs 0.24 times a box",
+          "If buying sealed, compare our box at $91.61 against the Tokyo listing at $71.97 and decide whether the $19.64 is worth sealed stock from Japan in one parcel",
+          "If buying the case, confirm the case price at checkout; $75.21 a box is the live shelf figure for November 8, 2026, and the saving is $16.40 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV6a buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV6a box you consider. It takes ten minutes and it replaces a shelf of shop rankings with one division you can re-run yourself. Start with the buyer type, because the right format follows from it, and end with the seal check, because a 29-month-old box is the product most worth verifying before you open it."
+        ]
+      }
+    ],
+    "slug": "sv6a-night-wanderer-buyers-guide",
+    "takeaway": [
+      "The SV6a box at $91.61 is the low end of the 30-pack shelf at $3.05 a pack, and $0.61 a card, for 150 cards from a 94-card set. The case at $902.51 is the way to buy it sealed, at $75.21 a box and $2.51 a pack, saving $196.81 against twelve singles. The set is 94 cards, released June 7, 2024, and the chase is the Cassiopeia SAR, which carried a $21.81 TCGplayer market price on November 7, 2026, or 0.24 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, October 7, November 7, and November 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Tokyo listing for a sealed box was $71.97, so our box costs $19.64 more, and the case-split box costs $3.24 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, with a case that saves $223.15, and a chase, the Magikarp Art Rare at $129.90, that costs 0.85 times a box."
     ]
   },
   "sv7a-paradise-dragona-buyers-guide": {
@@ -20883,7 +21257,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV7a box at $141.24 is the middle of the 30-pack shelf at $4.71 a pack, but $0.94 a card, for 150 cards from a 94-card set. The case at $1,253.41 is the way to buy it sealed, at $104.45 a box and $3.48 a pack, saving $441.47 against twelve singles. The set is 94 cards, released September 13, 2024, and the chase is the Latias ex SAR, which carried a $159.23 TCGplayer market price on November 6, 2026, or 1.13 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and November 6-7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $94.94, so our box costs $46.30 more, and the case-split box costs $9.51 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Terastal Festival ex guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the other High Class Pack the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the set that shares SV7a's $141.24 box price, box $141.24 against a case that saves $518.70, with the Mew ex SAR at $272.15 on its own."
+      "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the set that shares SV7a's $141.24 box price, box $141.24 against a case that saves $518.70, with the Mew ex SAR at $272.15 on its own.",
+      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles."
     ]
   },
   "sv8a-terastal-festival-ex-buyers-guide": {
