@@ -5348,6 +5348,231 @@ export const POSTS: Record<string, BlogPost> = {
       "Choosing between the two Premium Booster volumes? [PRB-01 vs PRB-02](/blog/prb-01-vs-prb-02-which-to-buy/) prices all eight PRB products, with Vol. 2's SR floor and the English premium laid out."
     ]
   },
+  "best-japanese-pokemon-booster-box": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "M3 Munikis Zero at $70.62, or $2.35 a pack. It is the cheapest current-era box on the shelf, it is a 2026 set with 117 cards, and it holds the Mega Zygarde ex MUR chase. If the job is the chase rather than the opening, M2 Inferno X at $183.18 holds the Mega Charizard X ex MUR, and if the job is a guaranteed hit in every pack, M2a MEGA Dream ex at $114.77 is a High Class Pack with 10 packs of 10 cards and one ex or better in each pack.",
+        "q": "Which Japanese Pokémon booster box should I buy first?"
+      },
+      {
+        "a": "On price per pack, yes, by a wide margin. A standard Japanese box holds 30 packs of 5 cards for $70.62 to $94.91 at the cheap end of this shelf, while an English box holds 36 packs of 10 cards and usually costs several times as much. The trade is legality and language: Japanese cards are not legal at official English-language events, and the cards are printed in Japanese. Sealed Japanese boxes also follow a strong pattern of one Secret Rare or better per box, but The Pokémon Company publishes no pull rates, so nothing is guaranteed.",
+        "q": "Is a Japanese booster box better than an English one?"
+      },
+      {
+        "a": "A standard Japanese expansion box holds 30 packs of 5 cards, or 150 cards. A High Class Pack holds 10 packs of 10 cards, or 100 cards. The exceptions on this shelf are the 20-pack boxes: Black Bolt and White Flare and Pokémon Card 151 hold 20 packs of 7 cards, or 140 cards; the 30th Celebration box holds 20 packs of 6 cards, or 120 cards; and Battle Region holds 30 packs of 6 cards, or 180 cards. The full pack-count table is in [How Many Packs in a Booster Box](/blog/how-many-packs-in-a-booster-box/).",
+        "q": "How many packs are in a Japanese Pokémon booster box?"
+      }
+    ],
+    "h1": "Best Japanese Pokémon Booster Box: Every Box Priced",
+    "intro": [
+      "Short answer: the best Japanese Pokémon booster box to buy is M3 Munikis Zero at $70.62, or $2.35 a pack, if the job is opening a current set for the least money, and M2 Inferno X at $183.18 if the job is the chase, because it holds the Mega Charizard X ex MUR. The shelf holds 83 Japanese Pokémon booster boxes on November 8, 2026, from $43.03 to $3,924.12, and every box below is divided to the pack and the card.",
+      "Who this is for: buyers choosing their first Japanese Pokémon box, collectors weighing a current MEGA box against a sealed classic, and anyone who wants the whole shelf priced before they pay. Who it is not for: anyone chasing one named card, because no box guarantees any Secret Rare or Special Art Rare and The Pokémon Company publishes no pull rates; anyone who needs cards legal at English events, because Japanese cards are not; and anyone buying only for sealed appreciation, because Japanese sets are reprinted freely and sealed upside is capped."
+    ],
+    "metaDescription": "Every Japanese Pokémon booster box on the Warehouse shelf, divided to the pack: best overall $70.62, best chase $183.18, cheapest $43.03. Nov 8, 2026.",
+    "metaTitle": "Best Japanese Pokémon Booster Box to Buy in 2026",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "note": "From the Warehouse: the question we get most about Japanese Pokémon boxes is which one to buy first, and the honest answer is that there is no one best box, only a best box for the job. A buyer who opens for fun and a buyer who hunts one card are buying different products that happen to share a shape, and the shelf prices them very differently.",
+        "paragraphs": [
+          "Buy M3 Munikis Zero if the job is opening a current set cheaply. The [M3 box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is $70.62 for 30 packs of 5 cards, which is $2.35 a pack and $0.47 a card, the cheapest verified pack and the cheapest verified card of any current-era box. M3 came out in Japan on January 23, 2026, as the third MEGA expansion, tied to Pokémon Legends: Z-A, and its chase is the Mega Zygarde ex MUR with the Meowth ex SAR and Bianca's Encouragement SAR behind it. It is a 117-card set, so one box gives a broad spread of the set without completing it. The full M3 division is in the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/).",
+          "Buy M2 Inferno X if the job is the chase. The [M2 box](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) is $183.18, or $6.11 a pack and $1.22 a card, which is $3.76 a pack above M3, and the premium buys the Mega Charizard X ex MUR, the headline chase of the MEGA era. M2 came out on September 26, 2025, and Samurai Sword scores it 8.6 out of 10, the highest of its MEGA-era picks, for that one card. A buyer who wants the Charizard and nothing else should still price the single first, because no box guarantees any MUR.",
+          "Buy M2a MEGA Dream ex if the job is a guaranteed hit in every pack. The [M2a box](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) is $114.77 for 10 packs of 10 cards, or $11.48 a pack and $1.15 a card, and it is a High Class Pack, which means every pack holds 10 cards and guarantees one Pokémon ex or better. M2a came out on November 28, 2025, and its chase is the Mega Gengar ex SAR, the Mega Dragonite ex MUR, and the Lisia SAR. The full M2a division is in the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/).",
+          "Buy SV8a Terastal Festival ex if the job is the best High Class Pack on value. The [SV8a box](/product/sv8a-terastal-festival-ex-booster-box-japanese-pokemon-card/) is $163.32 for 10 packs of 10 cards, or $16.33 a pack and $1.63 a card, and it is the Eeveelution set: Umbreon ex SAR, Sylveon ex SAR, and the Pikachu ex UR. It came out on December 6, 2024, and it is the High Class Pack the rival guides name most often. Buy S12a VSTAR Universe if the job is the sealed classic. The [S12a box](/product/vstar-universe-booster-box-s12a/) is $241.67 for 10 packs of 10 cards, or $24.17 a pack, and it is the final Sword & Shield High Class Pack, released December 2, 2022, with 262 cards and the Charizard VSTAR SAR."
+        ]
+      },
+      {
+        "h": "The money layer: the whole shelf, divided",
+        "math": [
+          "Rebellion Crash box per pack: $43.03 ÷ 30 = $1.43 per pack",
+          "Rebellion Crash box per card: $43.03 ÷ 150 = $0.29 per card",
+          "M3 box per pack: $70.62 ÷ 30 = $2.35 per pack",
+          "M3 box per card: $70.62 ÷ 150 = $0.47 per card",
+          "M6 box per pack: $82.80 ÷ 30 = $2.76 per pack",
+          "M1S box per pack: $84.97 ÷ 30 = $2.83 per pack",
+          "SV9 box per pack: $84.97 ÷ 30 = $2.83 per pack",
+          "M1L box per pack: $94.91 ÷ 30 = $3.16 per pack",
+          "M2a box per pack: $114.77 ÷ 10 = $11.48 per pack",
+          "M2a box per card: $114.77 ÷ 100 = $1.15 per card",
+          "SV4a box per pack: $141.24 ÷ 10 = $14.12 per pack",
+          "SV8a box per pack: $163.32 ÷ 10 = $16.33 per pack",
+          "SV11W box per pack: $167.72 ÷ 20 = $8.39 per pack",
+          "SV11W box per card: $167.72 ÷ 140 = $1.20 per card",
+          "M2 box per pack: $183.18 ÷ 30 = $6.11 per pack",
+          "M2 box per card: $183.18 ÷ 150 = $1.22 per card",
+          "SV11B box per pack: $183.18 ÷ 20 = $9.16 per pack",
+          "S12a box per pack: $241.67 ÷ 10 = $24.17 per pack",
+          "S12a box per card: $241.67 ÷ 100 = $2.42 per card",
+          "M6a box per pack: $249.00 ÷ 20 = $12.45 per pack",
+          "M6a box per card: $249.00 ÷ 120 = $2.08 per card",
+          "SV2a box per pack: $471.20 ÷ 20 = $23.56 per pack",
+          "SV2a box per card: $471.20 ÷ 140 = $3.37 per card",
+          "M2 vs M3 per pack: $6.11 − $2.35 = $3.76 per pack",
+          "SV2a vs M3 per box: $471.20 − $70.62 = $400.58 per box",
+          "M1S case per box: $773.15 ÷ 12 = $64.43 per box",
+          "M1S case saving per box: $84.97 − $64.43 = $20.54 per box",
+          "M2 case per box: $1,333.69 ÷ 12 = $111.14 per box",
+          "M2 case saving per box: $183.18 − $111.14 = $72.04 per box",
+          "M3 case per box: $1,048.24 ÷ 12 = $87.35 per box",
+          "M3 case premium per box: $87.35 − $70.62 = $16.73 per box"
+        ],
+        "paragraphs": [
+          "Start at the floor, because the floor is the surprise. The cheapest box on the shelf is not a 2026 set at all: it is Rebellion Crash (s2), released March 6, 2020, at $43.03 for 30 packs of 5 cards, which is $1.43 a pack and $0.29 a card. It is the cheapest box, the cheapest pack, and the cheapest card on the whole shelf, and it is a Sword & Shield expansion of 96 cards built around Dragapult V. The price is the live shelf price on November 8, 2026, and the cheapness is age, not a sale. The [cheapest-box ladder](/blog/cheapest-japanese-pokemon-booster-box/) carries the full floor, sixteen boxes deep.",
+          "Then the current era, where the money is. M3 at $70.62 is the cheapest current box and the cheapest current pack at $2.35, and the next rungs are close: M6 Storm Emeralda at $82.80, or $2.76 a pack, released July 31, 2026 with the Mega Rayquaza ex MUR and SAR and the Raikou ex SAR; M1S Mega Symphonia and SV9 Battle Partners both at $84.97, or $2.83 a pack. M1S came out August 1, 2025 with the Acerola SAR and Mega Gardevoir ex, and SV9 came out January 24, 2025 as the Trainer Pokémon set, with 132 cards. M1L Mega Brave, the twin set to M1S and the set that introduced the MUR rarity, is $94.91, or $3.16 a pack. Five current boxes sit between $70.62 and $94.91, and the whole current era costs less per pack than any High Class Pack on the shelf.",
+          "Then the premium formats, where the per-pack number jumps. The High Class Packs divide at $11.48 a pack for M2a, $14.12 for SV4a, $16.33 for SV8a, and $24.17 for S12a, because each pack holds 10 cards and guarantees an ex or better. The 20-pack boxes sit between: SV11W White Flare at $8.39 a pack and SV11B Black Bolt at $9.16, both released June 6, 2025, with 20 packs of 7 cards; SV2a Pokémon Card 151 at $23.56 a pack, released June 16, 2023, with the Charizard ex SAR and the Master Ball mirror prints; and M6a 30th Celebration at $12.45 a pack, released September 16, 2026, with 20 packs of 6 all-holo cards and a Pikachu in every pack.",
+          "Then the cases, where the shelf contradicts itself. The M1S case at $773.15 divides to $64.43 a box, which saves $20.54 a box against the $84.97 single. The M2 case at $1,333.69 divides to $111.14 a box, which saves $72.04 a box against the $183.18 single. But the M3 case at $1,048.24 divides to $87.35 a box, which costs $16.73 a box MORE than the $70.62 single, so the cheapest box is the worst case buy. The case-versus-box division in full is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The decision layer: one table, six buyers",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 8, 2026. Read it by buyer: openers scan the per-pack column, hunters the chase column, holders the case column.",
+          "Two rows decide more than the rest. The M3 row decides the opener: $2.35 a pack is the cheapest current pack. The M2 row decides the hunter: $6.11 a pack is $3.76 above M3, and the premium buys one card, the Mega Charizard X ex MUR."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy this box",
+            "Warehouse price, Nov 8 2026",
+            "Per pack / per card",
+            "Why it wins"
+          ],
+          "rows": [
+            [
+              "Cheapest opening",
+              "Rebellion Crash (s2)",
+              "$43.03",
+              "$1.43 / $0.29",
+              "Cheapest box, pack, and card on the shelf"
+            ],
+            [
+              "Best overall value",
+              "M3 Munikis Zero",
+              "$70.62",
+              "$2.35 / $0.47",
+              "Cheapest current pack; 2026 set, MUR chase"
+            ],
+            [
+              "Best chase",
+              "M2 Inferno X",
+              "$183.18",
+              "$6.11 / $1.22",
+              "Mega Charizard X ex MUR; top-ranked MEGA box"
+            ],
+            [
+              "Best beginner",
+              "M2a MEGA Dream ex",
+              "$114.77",
+              "$11.48 / $1.15",
+              "High Class Pack; an ex or better in every pack"
+            ],
+            [
+              "Best High Class Pack",
+              "SV8a Terastal Festival ex",
+              "$163.32",
+              "$16.33 / $1.63",
+              "Eeveelution SARs; whole-family chase"
+            ],
+            [
+              "Best sealed classic",
+              "S12a VSTAR Universe",
+              "$241.67",
+              "$24.17 / $2.42",
+              "Final SWSH High Class Pack; Charizard VSTAR SAR"
+            ],
+            [
+              "Best anniversary",
+              "M6a 30th Celebration",
+              "$249.00",
+              "$12.45 / $2.08",
+              "All-holo 20-pack box; Pikachu in every pack"
+            ],
+            [
+              "Best collector set",
+              "SV2a Pokémon Card 151",
+              "$471.20",
+              "$23.56 / $3.37",
+              "Charizard ex SAR; Master Ball mirrors"
+            ],
+            [
+              "Best case saving",
+              "M2 Inferno X case (12)",
+              "$1,333.69",
+              "$111.14 / $0.74 a box",
+              "Saves $72.04 a box vs singles"
+            ],
+            [
+              "Worst case buy",
+              "M3 case (12)",
+              "$1,048.24",
+              "$87.35 / $0.58 a box",
+              "Costs $16.73 a box MORE than singles"
+            ],
+            [
+              "Do not buy for one card",
+              "Any box, any set",
+              "Varies",
+              "Not divided",
+              "No box guarantees any Secret Rare"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the $43.03 box and the case trap",
+        "note": "From the Warehouse: the question we get most after a buyer reads a ranking guide is why our cheapest box costs less than half of the guide's cheapest pick. The answer is that ranking guides cover the current era, and our shelf covers six years. The $43.03 box is real, it is sealed, and it is a 2020 set, and that combination is exactly what a ranking guide cannot show.",
+        "paragraphs": [
+          "The top guides for this question are ranking guides and shop-picking guides. The Samurai Sword guide ranks the MEGA-era boxes with editorial scores and names Inferno X first at 8.6 out of 10, Mega Symphonia the best value, and MEGA Dream ex the best for beginners. The Japan Hacks guide names Pokémon Card 151, Terastal Festival ex, and VSTAR Universe as its 2026 picks, and states that Japanese boxes guarantee Secret Rare pulls. The Neokyo guide compares six boxes by purpose, with flea-market and buyback prices. None of them divides a shelf: none shows all 83 boxes on one shelf on one day, none divides a case against its singles, and none prices a 2020 box against a 2026 box.",
+          "The second gap is the case trap: none of the top three mentions that a sealed case can cost more per box than a single box, because none of them divides a case at all. On this shelf the M3 case costs $16.73 a box more than the single, while the M2 case saves $72.04 a box, and the two facts sit three rows apart in the same table. The third gap is the guarantee. Japan Hacks states Japanese boxes guarantee Secret Rare pulls, but PACTCG states the honest position: nothing in a Japanese box is officially guaranteed, and sealed boxes follow a strong pattern of one Super Rare or better, three Art Rares, and four Double Rares per box. A buyer who budgets on a guarantee is budgeting on a pattern. The fourth gap is the reprint. Black Jade Wolf states: Japanese sets are reprinted far more freely than English ones, so sealed upside is capped, and no top-three guide prices that risk into its ranking."
+        ]
+      },
+      {
+        "h": "The risk layer: reprints, fakes, and the chase trap",
+        "paragraphs": [
+          "The first risk is the reprint. Japanese sets are reprinted far more freely than English ones, which is why a 2020 box sits at $43.03 while a 2023 box sits at $471.20. A buyer who pays $471.20 for SV2a 151 as sealed appreciation is betting the set will not be reprinted, and that bet has already lost for other Japanese sets. Buy the box to open it, or buy it knowing the reprint risk, and the price is honest either way. The investment case in full is in [Are Japanese Pokémon Cards a Good Investment](/blog/are-japanese-pokemon-cards-a-good-investment/).",
+          "The second risk is chasing a named card with boxes: The Pokémon Company publishes no pull rates, and no box guarantees any Secret Rare, Special Art Rare, or MUR. A box is the worst way to find one named card: the M2 box at $183.18 can hold no Charizard at all, and the SV2a box at $471.20 can hold no Charizard ex SAR. Price the single first, and open the box for the opening. The third risk is the reseal. A $43.03 box from 2020 and a $3,924.12 Sky-Splitting Charisma box are both products a resealer targets, so check the seal before opening, using the checks in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). The fourth risk is the language: Japanese cards are printed in Japanese and are not legal at official English-language events, so a player who buys for tournament play has bought the wrong product. The legality comparison in full is in [Japanese vs English Pokémon Cards: Which to Buy](/blog/japanese-vs-english-pokemon-cards-which-to-buy/)."
+        ]
+      },
+      {
+        "h": "Context: four eras on one shelf",
+        "paragraphs": [
+          "The shelf holds four eras at once. The MEGA era, M1L to M6a, runs from August 2025 to the present, with 30-pack boxes at ¥180 a pack for M1 to M4 and ¥200 a pack from M5 on, so an official MEGA box lists at ¥5,400 or ¥6,000 in Japan. The Scarlet & Violet era, SV1a to SV11W, runs from 2023 to June 2025, with the same 30-pack format at ¥180 a pack and the High Class Packs at ¥550 a pack. The Sword & Shield era, S1 to S12a, runs from December 2019 to December 2022, with 30-pack boxes at ¥165 a pack and the High Class Packs at ¥550. The Sun & Moon era, SM1 to SM12a, runs from 2016 to 2019, and its boxes are the dearest on the shelf, up to $3,924.12, because the print runs ended years ago.",
+          "The price ladder follows the era, not the quality. The cheapest boxes are the oldest and the newest: Rebellion Crash from 2020 at $43.03, and the MEGA boxes from 2025 and 2026 at $70.62 to $94.91, because both ends are well supplied. The middle is dear: SV2a 151 from 2023 at $471.20, and the Sun & Moon boxes from 2016 to 2019 at $514.25 to $3,924.12, because those print runs ended and the chase cards in them never came back. A buyer who understands that ladder buys the era, not the box: the current era for opening, the old era for the chase, and never the middle for value. The rarity marks on every card in these sets are explained in [Japanese Pokémon Rarity Symbols Explained](/blog/japanese-pokemon-rarity-symbols-explained/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right move is the single, because no pull rate is published and no box guarantees any Secret Rare, Special Art Rare, or MUR. Second, tournament players: Japanese cards are not legal at official English-language events, so a player who buys for competition has bought the wrong product, whatever the per-pack price. Third, sealed-only investors who need the price to rise: Japanese sets are reprinted freely, the M3 case costs more than its singles, and the cheapest box on the shelf is a 2020 set at $43.03, which is what a reprint does to a sealed price.",
+          "Who this guide is for, restated plainly: buyers choosing their first Japanese Pokémon box and willing to open it, collectors who want the cheapest current pack at $2.35 or the best chase at $6.11 a pack, and buyers who need the whole shelf divided. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Choose the job first: cheapest opening, chase, guaranteed hits, or sealed classic, because each job buys a different box",
+          "Divide before you pay: standard boxes by 30 packs and 150 cards, High Class Packs by 10 packs and 100 cards, 20-pack boxes by 20 packs",
+          "If buying a case, divide it by 12 boxes first: the M2 case saves $72.04 a box and the M3 case costs $16.73 a box more than singles",
+          "If the goal is any Secret Rare, Special Art Rare, or MUR, price the single first",
+          "Check the seal on arrival before opening, and remember no pull rate is guaranteed",
+          "Confirm the language before you pay: Japanese cards are cheaper per pack, but they are Japanese-language cards and not legal at English events",
+          "If buying the cheapest box, know it is a 2020 set: Rebellion Crash at $43.03 is the floor, not the value",
+          "Confirm the box price at checkout: every figure here is the live shelf price for November 8, 2026"
+        ],
+        "h": "Action layer: the buying checklist",
+        "paragraphs": [
+          "Run this in order before your next Japanese Pokémon box. Job first, because the best box for opening and the best box for chasing are different products; division second, because the per-pack number is the only honest comparison across box formats; case division third, because a case can cost more per box than a single; singles pricing fourth, because chase cards are the reason most buyers overpay."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-booster-box",
+    "takeaway": [
+      "On November 8, 2026, the Warehouse Japanese Pokémon shelf holds 83 booster boxes, from Rebellion Crash at $43.03 to Sky-Splitting Charisma at $3,924.12. The best overall buy is M3 Munikis Zero at $70.62, or $2.35 a pack; the best chase is M2 Inferno X at $183.18, or $6.11 a pack, for the Mega Charizard X ex MUR; and the best beginner box is M2a MEGA Dream ex at $114.77, with an ex or better in every pack.",
+      "Prices move; the method does not. Divide every box by its packs and cards, divide every case by 12 boxes, and never budget for a pull that is not guaranteed.",
+      "For the cheapest box on the shelf, box by box, see [Cheapest Japanese Pokémon Booster Box](/blog/cheapest-japanese-pokemon-booster-box/). For the best-value ladder in full, see [Best Value Japanese Pokémon Booster Boxes](/blog/best-value-japanese-pokemon-booster-boxes/). For the case-versus-box division, see [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). For grading, see [Is PSA Grading Japanese Cards Worth It](/blog/psa-grading-japanese-cards-worth-it/)."
+    ]
+  },
   "best-japanese-pokemon-booster-box-to-buy": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -5526,7 +5751,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the newest set in depth, the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the $183.18 box, the Deluxe premium, and the $82.64-a-box case.",
       "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the dearest 30-pack main set on our shelf at $5.08 a pack, box $152.29, case $1,454.15.",
       "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the Iono set at $102.64 a box, $3.42 a pack, with a case that saves only $28.81.",
-      "New this cycle: the [best Japanese TCG to buy in 2026](/blog/best-japanese-tcg/) puts Pokémon beside One Piece, Dragon Ball, and Lorcana on one shelf and divides every game's cheapest entry to per-pack and per-card — Pokémon's cheapest box is $70.62."
+      "New this cycle: the [best Japanese TCG to buy in 2026](/blog/best-japanese-tcg/) puts Pokémon beside One Piece, Dragon Ball, and Lorcana on one shelf and divides every game's cheapest entry to per-pack and per-card — Pokémon's cheapest box is $70.62.",
+      "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) finds the floor is Rebellion Crash at $43.03, or $1.43 a pack, below M3 at $70.62, with the sixteen cheapest boxes all under $95."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -7842,7 +8068,8 @@ export const POSTS: Record<string, BlogPost> = {
       "When the set is chosen and the question becomes format, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices 16 cases against their own singles, with M1S cheapest at $64.43 per box.",
       "For the Team Rocket set, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the box at $212.99 against the case at $1,821.40, or $151.78 per box in the case.",
       "For the same shelf ranked by buyer instead of by price, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) names a pick for first boxes, chase openings, twin sets, anniversary boxes, and sealed holds, with the case alternative priced next to every single.",
-      "For the dearest box on this shelf in depth, the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the $471.20 box, the $317.44-a-box case, and the Charizard chase."
+      "For the dearest box on this shelf in depth, the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the $471.20 box, the $317.44-a-box case, and the Charizard chase.",
+      "New this cycle: the [Best Japanese Pokémon Booster Box guide](/blog/best-japanese-pokemon-booster-box/) divides all 83 Japanese Pokémon boxes on the shelf, from $43.03 to $3,924.12, with M3 Munikis Zero the best overall buy at $70.62, or $2.35 a pack."
     ]
   },
   "black-bolt-vs-white-flare-which-to-buy": {
@@ -9953,6 +10180,244 @@ export const POSTS: Record<string, BlogPost> = {
       "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box. Choosing the shop itself is a separate decision: [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) runs the six checks — real stock, sealed authenticity, landed cost, and the duty position now that de minimis is dead. Country buyers can skip the general math: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) runs the S$400 GST line in SGD, and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) runs the ₱10,000 de minimis line in pesos.",
       "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes. The country hubs run the same numbers for a single destination: [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) works the €3 duty and 21% BTW, and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/) works the 7,5% duty and 11% VAT in rupiah. [Buying Japanese TCG cards in Thailand](/blog/buying-japanese-tcg-cards-in-thailand/) works the abolished ฿1,500 line and 7% VAT in baht, and [comprar cartas TCG japonesas en España](/blog/comprar-cartas-tcg-japonesas-en-espana/) works the €3 duty, €2 fee and 21% IVA in euros.",
       "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf on one ladder, and the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) divides all fourteen Lorcana cases."
+    ]
+  },
+  "cheapest-japanese-pokemon-booster-box": {
+    "datePublished": "2026-11-08",
+    "faqs": [
+      {
+        "a": "Rebellion Crash (s2) at $43.03, or $1.43 a pack and $0.29 a card, on the Warehouse shelf on November 8, 2026. It is a Sword & Shield expansion released March 6, 2020, with 30 packs of 5 cards. The cheapest current-era box is M3 Munikis Zero at $70.62, or $2.35 a pack, and the sixteen cheapest boxes on the shelf all sit under $95.",
+        "q": "What is the cheapest Japanese Pokémon booster box?"
+      },
+      {
+        "a": "It depends on the job. If the job is opening the most packs for the least money, yes: $100 buys two Rebellion Crash boxes at $86.06, or 60 packs and 300 cards, with $13.94 left over. If the job is the chase, no: the cheapest box holds a 2020 chase, Dragapult V, not a 2026 MUR, and a buyer who wants a current chase should pay $70.62 for M3 or $183.18 for M2 instead. If the job is sealed holding, no: Japanese sets are reprinted freely, and the cheapest box on the shelf is a 2020 set at $43.03, which is what a reprint does to a sealed price.",
+        "q": "Is the cheapest booster box worth buying?"
+      },
+      {
+        "a": "Usually, but not always, and the exception is the cheapest box itself. The M1S case at $773.15 divides to $64.43 a box, saving $20.54 a box against the $84.97 single, and the M2 case at $1,333.69 divides to $111.14 a box, saving $72.04 a box. But the M3 case at $1,048.24 divides to $87.35 a box, which costs $16.73 a box more than the $70.62 single, or $200.76 more across the case. Divide every case by 12 boxes before you pay; never compare a case price to a box price without dividing.",
+        "q": "Is it cheaper to buy a sealed case?"
+      }
+    ],
+    "h1": "Cheapest Japanese Pokémon Booster Box: The Floor, Priced",
+    "intro": [
+      "Short answer: the cheapest Japanese Pokémon booster box on the Warehouse shelf is Rebellion Crash (s2) at $43.03, or $1.43 a pack and $0.29 a card, on November 8, 2026. The cheapest current-era box is M3 Munikis Zero at $70.62, or $2.35 a pack. The floor is not the value, and the rest of this page is the arithmetic that separates the two.",
+      "Who this is for: buyers with a hard budget who want the most packs for their money, openers who want the cheapest way into a sealed box, and anyone who wants to know what the cheapest box costs them in chase and age. Who it is not for: anyone chasing one named card, because the cheapest box holds a 2020 chase and no box guarantees any Secret Rare; anyone who needs cards legal at English events, because Japanese cards are not; and anyone buying only for sealed appreciation, because the cheapest box on the shelf is itself the proof that reprints cap sealed prices."
+    ],
+    "metaDescription": "The cheapest Japanese Pokémon booster box is $43.03 on the Warehouse shelf, Nov 8 2026 — the full floor ladder, per-pack math, and what cheap costs you.",
+    "metaTitle": "Cheapest Japanese Pokémon Booster Box in 2026",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: the floor is $43.03",
+        "note": "From the Warehouse: the question we get most about cheap boxes is whether the cheapest box is a trick, a damaged listing, or a mistake. It is none of those. It is a 2020 set that was printed in large numbers and never became scarce, and the shelf prices it at $43.03 because that is what a six-year-old box with a 2020 chase is worth.",
+        "paragraphs": [
+          "Buy Rebellion Crash (s2) if the job is the most packs for the least money. The [Rebellion Crash box](/product/rebellion-crash-booster-box-s2-japanese-pokemon-cards/) is $43.03 for 30 packs of 5 cards, which is $1.43 a pack and $0.29 a card, the cheapest box, the cheapest pack, and the cheapest card on the whole shelf. It came out in Japan on March 6, 2020, as the second Sword & Shield expansion, with 96 cards built around Dragapult V; its English twin is Rebel Clash. One box gives 150 cards from a 96-card set, so it covers the set with duplicates to trade. The price is the live shelf price on November 8, 2026; the cheapness is age and supply, not a sale.",
+          "Buy M3 Munikis Zero if the job is the cheapest current box. The [M3 box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is $70.62, or $2.35 a pack and $0.47 a card, which is $27.59 a box and $0.92 a pack above Rebellion Crash, and the premium buys a 2026 set with a MUR chase instead of a 2020 set. M3 came out on January 23, 2026, as the third MEGA expansion, tied to Pokémon Legends: Z-A, with the Mega Zygarde ex MUR, the Meowth ex SAR, and Bianca's Encouragement SAR. The full M3 division is in the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/).",
+          "Buy M6 Storm Emeralda if the job is the cheapest newest box. The [M6 box](/product/m6-storm-emeralda-booster-box-japanese-pokemon-card/) is $82.80, or $2.76 a pack, released July 31, 2026 with the Mega Rayquaza ex MUR and SAR and the Raikou ex SAR. It is $12.18 a box above M3, and the newest set on the floor ladder. Buy M1S Mega Symphonia or SV9 Battle Partners if the job is the cheapest box under $85 with a named chase. Both are $84.97, or $2.83 a pack: M1S, released August 1, 2025, holds the Acerola SAR and Mega Gardevoir ex, and SV9, released January 24, 2025, is the Trainer Pokémon set, with 132 cards."
+        ]
+      },
+      {
+        "h": "The money layer: the cheapest sixteen, divided",
+        "math": [
+          "Rebellion Crash box per pack: $43.03 ÷ 30 = $1.43 per pack",
+          "Rebellion Crash box per card: $43.03 ÷ 150 = $0.29 per card",
+          "M3 box per pack: $70.62 ÷ 30 = $2.35 per pack",
+          "M3 box per card: $70.62 ÷ 150 = $0.47 per card",
+          "M6 box per pack: $82.80 ÷ 30 = $2.76 per pack",
+          "M1S box per pack: $84.97 ÷ 30 = $2.83 per pack",
+          "SV9 box per pack: $84.97 ÷ 30 = $2.83 per pack",
+          "M4 box per pack: $88.27 ÷ 30 = $2.94 per pack",
+          "SV5M box per pack: $88.27 ÷ 30 = $2.94 per pack",
+          "SV4M box per pack: $88.27 ÷ 30 = $2.94 per pack",
+          "M5 box per pack: $91.61 ÷ 30 = $3.05 per pack",
+          "SV7 box per pack: $91.61 ÷ 30 = $3.05 per pack",
+          "SV6a box per pack: $91.61 ÷ 30 = $3.05 per pack",
+          "SV4K box per pack: $91.61 ÷ 30 = $3.05 per pack",
+          "S9a box per pack: $91.61 ÷ 30 = $3.05 per pack",
+          "S9a box per card: $91.61 ÷ 180 = $0.51 per card",
+          "M1L box per pack: $94.91 ÷ 30 = $3.16 per pack",
+          "SV2P box per pack: $94.91 ÷ 30 = $3.16 per pack",
+          "M2a box per pack: $114.77 ÷ 10 = $11.48 per pack",
+          "SV4a box per pack: $141.24 ÷ 10 = $14.12 per pack",
+          "SV8a box per pack: $163.32 ÷ 10 = $16.33 per pack",
+          "S12a box per pack: $241.67 ÷ 10 = $24.17 per pack",
+          "Rebellion Crash vs M3 per box: $70.62 − $43.03 = $27.59 per box",
+          "Rebellion Crash vs M3 per pack: $2.35 − $1.43 = $0.92 per pack",
+          "Two Rebellion Crash boxes: $43.03 × 2 = $86.06",
+          "M1S case per box: $773.15 ÷ 12 = $64.43 per box",
+          "M1S case saving per box: $84.97 − $64.43 = $20.54 per box",
+          "M1S case saving total: $20.54 × 12 = $246.48",
+          "M2 case per box: $1,333.69 ÷ 12 = $111.14 per box",
+          "M2 case saving per box: $183.18 − $111.14 = $72.04 per box",
+          "M2 case saving total: $72.04 × 12 = $864.48",
+          "M3 case per box: $1,048.24 ÷ 12 = $87.35 per box",
+          "M3 case premium per box: $87.35 − $70.62 = $16.73 per box",
+          "M3 case premium total: $16.73 × 12 = $200.76",
+          "SV9 case per box: $952.33 ÷ 12 = $79.36 per box",
+          "SV9 case saving per box: $84.97 − $79.36 = $5.61 per box",
+          "SV7 case per box: $902.51 ÷ 12 = $75.21 per box",
+          "SV7 case saving per box: $91.61 − $75.21 = $16.40 per box"
+        ],
+        "paragraphs": [
+          "The floor ladder runs sixteen boxes deep before it crosses $95, and every one is a 30-pack box except Battle Region, with 30 packs of 6 cards. After Rebellion Crash at $43.03 comes M3 at $70.62, then M6 at $82.80, then M1S and SV9 at $84.97, then M4 Ninja Spinner, SV5M Cyber Judge, and SV4M Future Flash at $88.27, then a five-way tie at $91.61: M5 Abyss Eye, SV7 Stella Miracle, SV6a Night Wanderer, SV4K Ancient Roar, and Battle Region (s9a). The ladder closes at $94.91 with M1L Mega Brave and SV2P Snow Hazard. The per-pack column tells the real story: the floor runs $1.43 to $3.16 a pack, and the cheapest per card after Rebellion Crash is M3 at $0.47, then Battle Region at $0.51, because its 180 cards beat every 150-card box. The [best-box guide](/blog/best-japanese-pokemon-booster-box/) ranks the same shelf by buyer instead of by price.",
+          "Then the budget math, because a floor price is only useful against a budget. One hundred dollars buys two Rebellion Crash boxes at $86.06, or 60 packs and 300 cards, with $13.94 left over. Two hundred dollars buys M3 and M6 at $153.42, or 60 packs from two 2026 sets, with $46.58 left over. Two hundred and fifty dollars buys M3, M6, and M1S at $238.39, or 90 packs, with $11.61 left over. The cheapest way to 90 packs is three Rebellion Crash boxes at $129.09; the cheapest way to 90 current-era packs is three M3 boxes at $211.86, $82.77 more for a 2026 chase.",
+          "Then the cases, because the floor has a trap in it. The M1S case at $773.15 divides to $64.43 a box, saving $20.54 a box, or $246.48 across the case, against the $84.97 single. The M2 case at $1,333.69 divides to $111.14 a box, saving $72.04 a box, or $864.48 across the case, against the $183.18 single. The SV9 case saves $5.61 a box and the SV7 case saves $16.40 a box. But the M3 case at $1,048.24 divides to $87.35 a box, which costs $16.73 a box more than the $70.62 single, or $200.76 more across the case. The cheapest current box is the one box on the floor where the case is the dearer buy: a buyer who buys the case to save money loses $200.76. The case-versus-box division in full is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "Then the premium formats, for the buyer who asks whether the cheapest High Class Pack is cheap at all. It is not: the cheapest is M2a at $114.77, or $11.48 a pack, and the ladder climbs through SV4a at $14.12, SV8a at $16.33, and S12a at $24.17. A High Class Pack holds 10 packs of 10 cards and guarantees one Pokémon ex or better in every pack, so the cheapest High Class Pack costs nearly five times the cheapest expansion pack per pack. The floor for High Class Packs is M2a, and the floor for everything else is Rebellion Crash."
+        ]
+      },
+      {
+        "h": "The decision layer: cheapest box, cheapest pack, cheapest card",
+        "paragraphs": [
+          "One table, every figure divided from the Warehouse shelf on November 8, 2026. Read it by the measure that matters: box price for the entry, per-pack for the opening, per-card for the collection, case division for the bulk buy.",
+          "Two rows decide more than the rest. The Rebellion Crash row decides the budget: $43.03 is the floor on every measure. The M3 case row decides the bulk buy: it is the only row where the case costs more than the single, by $200.76 across twelve boxes."
+        ],
+        "table": {
+          "head": [
+            "Measure",
+            "Winner",
+            "Warehouse price, Nov 8 2026",
+            "Per pack / per card",
+            "The catch"
+          ],
+          "rows": [
+            [
+              "Cheapest box",
+              "Rebellion Crash (s2)",
+              "$43.03",
+              "$1.43 / $0.29",
+              "2020 set; Dragapult V chase, not a 2026 MUR"
+            ],
+            [
+              "Cheapest current box",
+              "M3 Munikis Zero",
+              "$70.62",
+              "$2.35 / $0.47",
+              "Cheapest current pack and card"
+            ],
+            [
+              "Cheapest newest box",
+              "M6 Storm Emeralda",
+              "$82.80",
+              "$2.76 / $0.55",
+              "July 2026 set; Mega Rayquaza ex chase"
+            ],
+            [
+              "Cheapest per card after s2",
+              "M3 Munikis Zero",
+              "$70.62",
+              "$2.35 / $0.47",
+              "150 cards; Battle Region is $0.51 with 180"
+            ],
+            [
+              "Cheapest 180-card box",
+              "Battle Region (s9a)",
+              "$91.61",
+              "$3.05 / $0.51",
+              "30 packs of 6 cards; Feb 2022 set"
+            ],
+            [
+              "Cheapest High Class Pack",
+              "M2a MEGA Dream ex",
+              "$114.77",
+              "$11.48 / $1.15",
+              "10 packs of 10; an ex or better per pack"
+            ],
+            [
+              "Cheapest case per box",
+              "M1S case (12)",
+              "$773.15",
+              "$64.43 / $0.43 a box",
+              "Saves $20.54 a box vs singles"
+            ],
+            [
+              "Biggest case saving",
+              "M2 case (12)",
+              "$1,333.69",
+              "$111.14 / $0.74 a box",
+              "Saves $72.04 a box, $864.48 a case"
+            ],
+            [
+              "Worst case buy",
+              "M3 case (12)",
+              "$1,048.24",
+              "$87.35 / $0.58 a box",
+              "Costs $16.73 a box MORE than singles"
+            ],
+            [
+              "$100 buys most packs",
+              "2x Rebellion Crash",
+              "$86.06",
+              "60 packs / 300 cards",
+              "$13.94 left over"
+            ],
+            [
+              "$200 buys best mix",
+              "M3 + M6",
+              "$153.42",
+              "60 packs / 300 cards",
+              "Two 2026 sets; $46.58 left over"
+            ],
+            [
+              "Do not buy for one card",
+              "Any box, any set",
+              "Varies",
+              "Not divided",
+              "No box guarantees any Secret Rare"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case inversion and the $43 box",
+        "note": "From the Warehouse: the question we get most about cheap boxes is why our own M3 guide, dated November 4, called M3 the cheapest box on the shelf when Rebellion Crash sits at $43.03 below it. The answer is a listing quirk we found doing this sweep: the Rebellion Crash title is spelled in lowercase, and the earlier sweep filtered on a capital B. The correction is the point of this page, and it is why the floor is worth a page of its own.",
+        "paragraphs": [
+          "The top guides for this question are price ladders and release calendars. The Samurai Sword price ladder lines up Japanese boxes by price in yen and finds the same pattern: the MEGA-era boxes sit on the lowest rungs, with M1S and M1L the cheapest sealed options in its store. The OneMall release calendar lists Mercari asks and Rakuten shop prices for the 2026 sets, and notes that the lowest Mercari boxes are often sold without shrink wrap. Our own M3 guide, dated November 4, called M3 the cheapest sealed Japanese Pokémon box on the shelf at $70.62. None of them finds the $43.03 box: the ladder is priced in yen from one Tokyo store, the calendar covers 2026 sets only, and our M3 guide missed a lowercase title. A full case-insensitive sweep of the 331 products on our shelf on November 8 finds Rebellion Crash at $43.03 below M3 by $27.59 a box.",
+          "The second gap is the case inversion. None of the top three divides a case against its singles, because none of them prices cases at all. On this shelf the M3 case costs $16.73 a box more than the single while the M2 case saves $72.04 a box, and the two facts decide opposite purchases. The third gap is the budget. No top guide states what $100 or $200 actually buys in packs and cards from one shelf on one day: two Rebellion Crash boxes at $86.06, or M3 and M6 at $153.42. The fourth gap is the per-card column: Battle Region at $91.61 holds 180 cards while every other box at that price holds 150, so it is the cheapest card at its price point at $0.51, and a box-price ranking hides that."
+        ]
+      },
+      {
+        "h": "The risk layer: what cheap costs you",
+        "paragraphs": [
+          "The first cost is age: the cheapest box is a 2020 set, and the sixteen cheapest boxes span 2020 to 2026, with the oldest sets the cheapest. A 2020 chase is a 2020 chase: Dragapult V, not a Mega Charizard X ex MUR or a Mega Rayquaza ex MUR, and the cards in a 2020 box have had six years for their market to settle. A buyer who opens Rebellion Crash for the chase is opening the wrong box, and the $27.59 saved against M3 is the price of that mistake. The second cost is the reprint: Japanese sets are reprinted far more freely than English ones, which is why a 2020 box sits at $43.03 while a 2023 box sits at $471.20. A buyer who holds the cheapest box as sealed appreciation is holding the box the market has already repriced once, and it can be repriced again.",
+          "The third cost is the guarantee that does not exist: The Pokémon Company publishes no pull rates, and no box guarantees any Secret Rare, Special Art Rare, or MUR. Sealed Japanese boxes follow a strong pattern of one Super Rare or better, three Art Rares, and four Double Rares per box, but a pattern is not a guarantee, and a box can hold no chase at all. Price the single first if the goal is one card. The fourth cost is the seal. A $43.03 box from 2020 is exactly the product a resealer targets, because the price is low enough that a buyer skips the checks, so check the seal before opening, using the checks in [How to Tell if a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). The fifth cost is the language: Japanese cards are printed in Japanese and are not legal at official English-language events, so a player who buys the cheapest box for tournament play has bought the wrong product at any price."
+        ]
+      },
+      {
+        "h": "Context: why old boxes are cheap and new boxes are not",
+        "paragraphs": [
+          "The floor ladder is a supply story, not a quality story. Rebellion Crash was printed in large numbers in 2020, the set never became scarce, and six years of supply keep it at $43.03. The MEGA boxes from 2025 and 2026 sit at $70.62 to $94.91 because they are in print now and the allocation is fresh: M3 at ¥180 a pack lists at ¥5,400 a box in Japan, and M5 and M6 at ¥200 a pack list at ¥6,000. The middle is dear: SV2a 151 from 2023 sits at $471.20 and the Sun & Moon boxes from 2016 to 2019 sit at $514.25 to $3,924.12, because those print runs ended and the chase cards in them never came back. The cheapest boxes are the oldest and the newest, and the dearest are the ones in the middle with finished print runs.",
+          "The same ladder explains why the cheapest box is not the best value: value is the chase divided by the price, and the $27.59 between Rebellion Crash and M3 buys a 2026 MUR chase instead of a 2020 V chase. A collector who wants the set should open the box: one Rebellion Crash box gives 150 cards from a 96-card set, and one M3 box gives 150 cards from a 117-card set, so either box covers its set with duplicates to trade. A sealed holder should buy the case, not twelve singles, except for M3, where the case costs more. The rarity marks on every card in these sets are explained in [Japanese Pokémon Rarity Symbols Explained](/blog/japanese-pokemon-rarity-symbols-explained/), and the grading case for the cards inside is in [Is PSA Grading Japanese Cards Worth It](/blog/psa-grading-japanese-cards-worth-it/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: the cheapest box is the worst way to find one named card, because its chase is a 2020 card and no box guarantees any Secret Rare or MUR. Second, tournament players: Japanese cards are not legal at official English-language events, so a player who buys the cheapest box for competition has bought the wrong product, whatever the per-pack price. Third, sealed-only investors who need the price to rise: the cheapest box on the shelf is a 2020 set at $43.03, which is what a reprint does to a sealed price, and the cheapest current box loses money by the case.",
+          "Who this guide is for, restated plainly: buyers with a hard budget who want the most packs for their money, openers who want the cheapest way into a sealed box, and buyers who want to know what the floor costs them before they pay it. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Set the budget first: $100 buys two Rebellion Crash boxes, $200 buys M3 and M6, $250 buys M3, M6, and M1S",
+          "Divide before you pay: standard boxes by 30 packs and 150 cards, Battle Region by 30 packs and 180 cards, High Class Packs by 10 packs and 100 cards",
+          "If buying a case, divide it by 12 boxes first: the M2 case saves $864.48 and the M3 case costs $200.76 more than singles",
+          "If the goal is any Secret Rare, Special Art Rare, or MUR, price the single first",
+          "Check the seal on arrival before opening, and remember no pull rate is guaranteed",
+          "Confirm the language before you pay: Japanese cards are cheaper per pack, but they are Japanese-language cards and not legal at English events",
+          "If buying the cheapest box, know it is a 2020 set: Rebellion Crash at $43.03 is the floor, not the value",
+          "Confirm the box price at checkout: every figure here is the live shelf price for November 8, 2026"
+        ],
+        "h": "Action layer: the budget checklist",
+        "paragraphs": [
+          "Run this in order before the next cheap box you consider. Budget first, because the floor only matters against a number; division second, because the per-pack and per-card numbers are the only honest comparison across 30-pack, 20-pack, and 10-pack boxes; case division third, because the cheapest box is the one box where the case costs more; singles pricing fourth, because chase cards are the reason most buyers overpay."
+        ]
+      }
+    ],
+    "slug": "cheapest-japanese-pokemon-booster-box",
+    "takeaway": [
+      "On November 8, 2026, the cheapest Japanese Pokémon booster box on the Warehouse shelf is Rebellion Crash (s2) at $43.03, or $1.43 a pack and $0.29 a card, and the cheapest current-era box is M3 Munikis Zero at $70.62, or $2.35 a pack. Sixteen boxes sit under $95, and the floor runs $1.43 to $3.16 a pack.",
+      "The floor is not the value. The $27.59 between Rebellion Crash and M3 buys a 2026 set with a MUR chase instead of a 2020 set, and the M3 case costs $200.76 more than its singles while the M2 case saves $864.48. Divide the box, divide the case, and buy the job, not the price.",
+      "For the same shelf ranked by buyer instead of by price, see [Best Japanese Pokémon Booster Box](/blog/best-japanese-pokemon-booster-box/). For the best-value ladder in full, see [Best Value Japanese Pokémon Booster Boxes](/blog/best-value-japanese-pokemon-booster-boxes/). For the case-versus-box division, see [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). For whether to open or hold, see [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/)."
     ]
   },
   "comprar-cartas-tcg-japonesas-en-espana": {
@@ -13168,7 +13633,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Treat every number here as stamped: store prices as of November 6, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second — in that order, every time.",
       "Comparing across games? [The Japanese One Piece booster box price board](/blog/best-japanese-one-piece-booster-box-price/) runs the same board for One Piece, and [the best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For one set in depth, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase behind it.",
       "New this cycle: the [best Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) divides every box to the pack and then to the card, and prices the three sealed promo packs.",
-      "For the dearest box on this board in depth, the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the $471.20 box against a case that saves $1,845.08."
+      "For the dearest box on this board in depth, the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the $471.20 box against a case that saves $1,845.08.",
+      "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) prices the floor box by box, from Rebellion Crash at $43.03 to the sixteen cheapest under $95, with per-pack and per-card math for each."
     ]
   },
   "japanese-pokemon-cards-wholesale-buyers-guide": {
@@ -14551,7 +15017,8 @@ export const POSTS: Record<string, BlogPost> = {
       "On November 4, 2026, the Warehouse M3 box costs $70.62, which is $2.35 a pack and $0.47 a card, the cheapest verified figures on the Japanese shelf. Buy it to open a current MEGA set cheaply, buy the single for Mega Zygarde ex or any named card, and do not buy the case expecting a discount, because the case costs $87.35 a box.",
       "Prices move; the method does not. Confirm the M3 code and the 30-pack structure, divide by verified packs, divide the case too, and buy the job before the product.",
       "For the wider Japanese ladder, M3 at the foot, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/). For the Pokemon-only ranking by buyer, see [Best Japanese Pokemon Booster Box to Buy, by Buyer](/blog/best-japanese-pokemon-booster-box-to-buy/).",
-      "For the high-class pack in the same MEGA line, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices M2a at $114.77 a box, $1.15 a card, against M3's $0.71, with the Mega Gengar ex SAR at about $207 on its own."
+      "For the high-class pack in the same MEGA line, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices M2a at $114.77 a box, $1.15 a card, against M3's $0.71, with the Mega Gengar ex SAR at about $207 on its own.",
+      "New this cycle: the [Best Japanese Pokémon Booster Box guide](/blog/best-japanese-pokemon-booster-box/) ranks M3 first overall at $70.62, or $2.35 a pack, against the whole 83-box shelf, and the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) shows the M3 case costs $16.73 a box more than the single."
     ]
   },
   "m6a-30th-celebration-buyers-guide": {
