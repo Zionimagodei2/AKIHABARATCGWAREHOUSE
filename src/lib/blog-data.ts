@@ -6501,7 +6501,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the same shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two MEGA-era and Scarlet & Violet boxes to per-pack prices, with every case beside them — including the M3 and SV5a cases that cost more per box than singles.",
       "For the case question in depth, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) divides a 20-box case to $136.16 a box, saving $543.24, and the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) divides its case to $92.93 a box, saving $436.84.",
       "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) divides a 12-box case at $952.33, or $79.36 a box, saving $67.31 against twelve singles.",
-      "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices a case that saves $234.29 against twelve singles, or $19.52 a box, more than Triplet Beat's $223.15, and its twin [SV1V Violet ex](/blog/sv1v-violet-ex-buyers-guide/) saves $106.91 a case."
+      "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices a case that saves $234.29 against twelve singles, or $19.52 a box, more than Triplet Beat's $223.15, and its twin [SV1V Violet ex](/blog/sv1v-violet-ex-buyers-guide/) saves $106.91 a case.",
+      "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices a case that saves $116.52 against twelve singles, or $9.71 a box, and the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices a case that saves $186.59, or $15.55 a box."
     ]
   },
   "best-japanese-pokemon-special-set-to-buy": {
@@ -20577,7 +20578,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, November 4 and November 7, 2026. No pull rate is guaranteed, and the box can hold zero Magikarp cards. The TCGplayer market for a sealed box was $151.19, so our box costs $1.10 more: pay it for sealed stock from Japan in one parcel, not for a discount.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, with a case that saves $196.81, and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box.",
-      "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices the launch set at $111.46 a box, with a case that saves $234.29, and the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the twin at $88.27 a box, with a case that saves $106.91."
+      "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices the launch set at $111.46 a box, with a case that saves $234.29, and the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the twin at $88.27 a box, with a case that saves $106.91.",
+      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the second Paldea Evolved component at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90."
     ]
   },
   "sv1s-scarlet-ex-buyers-guide": {
@@ -21293,7 +21295,192 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 1, November 7, and November 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $67.09, so our box costs $35.55 more, and the case-split box costs $33.15 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the set that came five months after Clay Burst at the same $102.64 a box, but with a case that saves $78.62, and a chase that tops out at $37.39, not $296.26.",
-      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, the third Paldea Evolved part beside Clay Burst, with the Magikarp Art Rare at $129.90 carrying 27 percent of the set's value."
+      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, the third Paldea Evolved part beside Clay Burst, with the Magikarp Art Rare at $129.90 carrying 27 percent of the set's value.",
+      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the twin at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90, or 0.42 times a box."
+    ]
+  },
+  "sv2p-snow-hazard-buyers-guide": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Chien-Pao half of the April 2023 dual release and accept $3.16 a pack, which is $0.63 a card for 150 cards from a 99-card set. The case is the better sealed buy at $79.36 a box, saving $186.59 against twelve singles. For profit, no: no box guarantees the Chien-Pao ex Special Art Rare, which carried a $39.90 TCGplayer market price on November 7, 2026, or 0.42 times a box, and the Pokemon Company publishes no pull rates for this set. Open SV2P because you want the set, and buy the Chien-Pao single if it is the only card you want.",
+        "q": "Is SV2P Snow Hazard worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product page prints the pack price (180 yen) and the cards per pack (5) and the release date (April 14, 2023), and the box standard is 30 packs. At our shelf price of $94.91, that is $3.16 per pack and $0.63 per card.",
+        "q": "How many packs are in an SV2P booster box?"
+      },
+      {
+        "a": "Buy the single if Chien-Pao is the only card you want. One Chien-Pao ex Special Art Rare carried a $39.90 TCGplayer market price on November 7, 2026, which is 0.42 times a box, and the Grusha Special Art Rare carried a lowest raw ask of 4,300 yen on SNKRDUNK on October 7, 2026, about $27.15, or 0.29 times a box. Together the two top cards cost about $67.05, or 0.71 times a box, with no pull risk at all. A box can hold no Chien-Pao at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 99-card set and the chance at the whole secret block, and buy the case at $79.36 a box if you want to hold sealed.",
+        "q": "Should I buy the SV2P box or the Chien-Pao SAR single?"
+      }
+    ],
+    "h1": "SV2P Snow Hazard: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV2P box at $94.91 to open Snow Hazard, and the case at $952.33 to hold it: the case divides to $79.36 a box and saves $186.59 against twelve singles. The set is the Chien-Pao half of the April 14, 2023 dual release, with 99 cards, and its chase is the Chien-Pao ex Special Art Rare at 093/071, which carried a $39.90 TCGplayer market price on November 7, 2026, or 0.42 times the box. Snow Hazard is the cheaper twin by $7.73 a box, and this guide prices what that discount does and does not buy.",
+      "Who this is for: collectors who want the Chien-Pao half of the Paldea Evolved era in Japanese, sealed holders who divide the case before they pay, and buyers choosing between the twin sets who want the price gap stated plainly. Who it is not for: anyone chasing one named card, because the Chien-Pao SAR costs 0.42 times a box and no pull is guaranteed; anyone who wants the cheapest 30-pack box, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Snow Hazard (SV2P): box $94.91, case $952.33, Chien-Pao SAR $39.90. The twin-set guide with every division shown.",
+    "metaTitle": "SV2P Snow Hazard: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second: SV2P rewards the buyer who gets the order right. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 99-card set, so one box covers the main set once over, and the second box is mostly cards you already own. A sealed holder should buy the case, not twelve singles: the case at $952.33 divides to $79.36 a box and saves $186.59 against twelve singles at $1,138.92, or $15.55 a box. A case splitter should do the same division before listing: every box out of this case starts $15.55 ahead. A single-card chaser should stop here and buy the Chien-Pao instead: one card at $39.90 costs 0.42 times a box, and the box can hold no Chien-Pao at all.",
+          "The chase is narrower than its twin, and that decides everything on this page. Snow Hazard came out in Japan on April 14, 2023, the Chien-Pao half of a same-day dual release with Clay Burst. It prints 99 cards: a 71-card base set and a 28-card secret block of 12 Art Rares, 8 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The set is Chien-Pao-themed, and the dearest card is the mascot itself: the Chien-Pao ex Special Art Rare at 093/071 carried a $39.90 TCGplayer market price on November 7, 2026, ahead of the Grusha Special Art Rare at 095/071, whose lowest raw ask on SNKRDUNK was 4,300 yen on October 7, 2026, about $27.15. The set is 43 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $186.59 gap",
+        "math": [
+          "SV2P box per pack: $94.91 / 30 = $3.16 per pack",
+          "SV2P box per card: $94.91 / 150 = $0.63 per card",
+          "SV2P case per box: $952.33 / 12 = $79.36 per box",
+          "SV2P case per pack: $952.33 / 360 = $2.65 per pack",
+          "SV2P case per card: $952.33 / 1,800 = $0.53 per card",
+          "SV2P twelve singles: 12 x $94.91 = $1,138.92",
+          "SV2P case saving: $1,138.92 - $952.33 = $186.59 across the case",
+          "SV2P saving per box: $186.59 / 12 = $15.55 per box",
+          "SV2P official box: Y5,400 / Y158.40 = $34.09; official pack Y180 / Y158.40 = $1.14",
+          "SV2P box vs official: $94.91 / $34.09 = 2.78x the official Japanese price",
+          "SV2P case box vs official: $79.36 / $34.09 = 2.33x the official Japanese price",
+          "Chien-Pao ex SAR vs box: $39.90 / $94.91 = 0.42x the price of a box",
+          "Grusha SAR ask vs box: Y4,300 / Y158.40 = $27.15; $27.15 / $94.91 = 0.29x the price of a box",
+          "Chien-Pao + Grusha vs box: $39.90 + $27.15 = $67.05; $67.05 / $94.91 = 0.71x the price of a box",
+          "SV2P complete set vs box: $243.87 / $94.91 = 2.57x the price of a box",
+          "SV2P master set vs box: $263.41 / $94.91 = 2.78x the price of a box",
+          "SV2P box vs Clay Burst box: $102.64 - $94.91 = $7.73 less; $94.91 / $102.64 = 0.92x",
+          "SV2P case vs Clay Burst case: $1,202.87 - $952.33 = $250.54 less",
+          "SV2P box vs Violet ex box: $94.91 - $88.27 = $6.64 more per box",
+          "SV2P box vs Battle Partners box: $94.91 - $84.97 = $9.94 more per box",
+          "SV2P box vs M3 box: $94.91 - $70.62 = $24.29 more per box",
+          "Japanese Chien-Pao SAR vs English SIR: $39.90 / $26.70 = 1.49x; $39.90 - $26.70 = $13.20",
+          "SV2P box vs Japan sealed: Y11,673 / Y158.40 = $73.69; $94.91 / $73.69 = 1.29x; $94.91 - $73.69 = $21.22"
+        ],
+        "paragraphs": [
+          "Start with the box: the [SV2P box](/product/sv2p-snow-hazard-booster-box-japanese-pokemon-card/) is $94.91 for 30 packs of 5 cards, or $3.16 per pack and $0.63 per card. That per-pack price sits in the middle of the shelf: cheaper than Clay Burst at $3.42, Crimson Haze at $3.57, and Mask of Change at $3.72, and $9.94 above Battle Partners at $2.83, the cheapest 30-pack box we stock. One box gives the main set once over and most of the secrets.",
+          "The case arithmetic is the reason to buy this set sealed, and this guide exists to print it. The [SV2P case](/product/sv2p-snow-hazard-sealed-case-12-boxes-japanese-pokemon-card/) is $952.33 for 12 boxes: $79.36 a box, $2.65 a pack, $0.53 a card. Twelve singles cost $1,138.92, so the case saves $186.59 in total, or $15.55 a box. That is a bigger saving than its twin: Clay Burst saves $28.81 a case, or $2.40 a box, because the Clay Burst case starts higher. The Snow Hazard case is a real discount: a splitter who lists case boxes at the single-box price keeps $15.55 on every box before fees. Compare [Night Wanderer](/blog/sv6a-night-wanderer-buyers-guide/), whose case saves $196.81, and [Clay Burst](/blog/sv2d-clay-burst-buyers-guide/), whose case saves only $28.81.",
+          "The official price is the anchor the market has left behind. A box retailed at Y5,400 in Japan, or $34.09 at Y158.40 to the dollar, and a pack at Y180 is $1.14. Our box at $94.91 is 2.78 times the official price, and the case-split box at $79.36 is 2.33 times it. That multiple is not a markup story: the print run ended in 2023, and every sealed box left is secondary stock. The comparison that matters is the twin: the Clay Burst box is $102.64, so Snow Hazard costs $7.73 less per box, and the cases sit $250.54 apart."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer; the money layer above carries the full division. Prices are our shelf prices as of November 9, 2026, except the TCGplayer figures, which are dated. Read the table by buyer type: openers scan the per-pack row, holders scan the case row and see the $15.55 margin, and single-card chasers scan the Chien-Pao row and stop there.",
+          "Two rows decide more than the rest. The Chien-Pao row decides the chaser: one card at $39.90 costs 0.42 times a box, and the Pokemon Company publishes no pull rates for this set, so the box only wins if you want the other 149 cards too. The twin row decides the buyer who wants both April 2023 sets: Clay Burst is $7.73 dearer per box and $250.54 dearer per case, so buy Snow Hazard first and Clay Burst second, unless the Iono is the card you want. The two-chase row decides the opener: Chien-Pao at $39.90 plus the Grusha ask at $27.15 is $67.05, or 0.71 times a box, so the top two cards together cost less than the box that might hold them."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 9 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV2P box",
+              "$94.91",
+              "30 packs, 150 cards",
+              "$94.91 / $3.16 / $0.63"
+            ],
+            [
+              "SV2P case",
+              "$952.33",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$79.36 / $2.65 / $0.53"
+            ],
+            [
+              "Chien-Pao ex SAR single",
+              "$39.90 (TCGplayer market, Nov 7 2026)",
+              "1 card, the chase",
+              "0.42x a box"
+            ],
+            [
+              "Grusha SAR single",
+              "$27.15 (SNKRDUNK lowest raw ask, Oct 7 2026)",
+              "1 card, trainer chase",
+              "0.29x a box; ask, not a sale price"
+            ],
+            [
+              "Chien-Pao + Grusha SAR",
+              "$67.05 (market + ask, Nov 7 / Oct 7 2026)",
+              "2 cards, top of the set",
+              "0.71x a box"
+            ],
+            [
+              "SV2D box (twin)",
+              "$102.64",
+              "30 packs, 150 cards",
+              "$102.64 / $3.42 / $0.68"
+            ],
+            [
+              "SV2D case (twin)",
+              "$1,202.87",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$100.24 / $3.34 / $0.67"
+            ],
+            [
+              "Battle Partners box",
+              "$84.97",
+              "30 packs, 150 cards",
+              "$84.97 / $2.83 / $0.57"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case that actually saves",
+        "note": "From the Warehouse: the question we get most about Snow Hazard is whether the case is worth it when the box already costs $94.91. It is, and the reason is the division, not the price: the case divides to $79.36 a box, $15.55 under the single, while the twin case saves only $2.40 a box. Our answer in chat is the one on this page: buy the case if you are holding sealed, buy the single if Chien-Pao is the only card you want.",
+        "paragraphs": [
+          "The top guides for this set are card lists and chase tables: the set-code tables give the release date, the pack price, and the English twin, and the chase pages list all 99 cards and name Chien-Pao as the dearest card. The chase guides price the single and the PSA 10, but none of them divides a shelf: none shows a case split, none runs the single-versus-box test, and none prices the twin gap of $7.73 per box and $250.54 per case. That division is the section this page owns.",
+          "One more correction the lists do not make: the cheaper twin is the better sealed buy, not the worse set. Snow Hazard costs $7.73 less per box than Clay Burst, $3.16 a pack against $3.42, and its case saves $186.59 while the Clay Burst case saves $28.81, so the sealed buyer keeps $157.78 more across a Snow Hazard case than across a Clay Burst case. Value in Snow Hazard spreads across two cards instead of sitting on one trainer, and the box is cheaper, so the opener's downside is smaller on every line. The same discipline applies to the prices: every marketplace figure carries its date, the shelf prices are stamped November 9, 2026, and the TCGplayer figures November 7, 2026, so a reader who finds a different number later can tell which figure moved."
+        ]
+      },
+      {
+        "h": "The risk layer: the Grusha gap, the reprint shadow, and the tear strip",
+        "paragraphs": [
+          "The first risk is the pull. The Pokemon Company publishes no pull rates for this set, so no number in this guide promises a Chien-Pao in any box. One card at $39.90 costs 0.42 times a box, and the Grusha ask at $27.15 costs 0.29 times a box, so the two top cards together cost $67.05, or 0.71 times a box, with no pull risk at all. That is why the single-versus-box test matters more here than in any other guide on the shelf: the box is $94.91 and the two chases together are $67.05, a gap of $27.86, so the box only wins if you want the other 148 cards too. The second risk is the grading gap. A PSA 10 Grusha carried a SNKRDUNK ask of 35,000 yen on October 7, 2026, about $220.96, against a raw ask of $27.15, or 8.14 times the raw ask: grading pays only if the card comes back a 10, and an ask is not a sale price. The third risk is the reseal. A 43-month-old box with a $39.90 chase is exactly the product a resealer targets, so check the seal, photograph the box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything: a reseal claim is only provable while the seal is intact.",
+          "The reprint shadow is the risk most buyers miss, because Japanese sets are reprinted freely and a reprint kills the scarcity premium. No source reports a Snow Hazard reprint, and the box price has risen, not collapsed: the highest recorded sale was 8,500 yen against 5,400 yen retail, and current Japan asks sit at 10,500 to 11,800 yen. But the mechanism is dated and real: Pokemon Card 151 went to official made-to-order reprint in 2026, a different set, and the same mechanism would cut a Snow Hazard box the same way. Since September 2022 Japanese boxes open via a perforated tear strip, so a torn or creased strip means the box was opened, and re-shrink film is stiffer and crinklier than factory film. Buy sealed from a named shop, check the strip and all six faces, and film the opening."
+        ]
+      },
+      {
+        "h": "Context: 99 cards, Chien-Pao, and the English twin",
+        "paragraphs": [
+          "The set is the second main set of the Scarlet and Violet era, and that explains its shape. Snow Hazard prints 99 cards: a 71-card base set and a 28-card secret block. The five SARs are the set in miniature: Chien-Pao ex and Grusha head them, with Wo-Chien ex, Squawkabilly ex, and Giacomo behind them, and the three gold Ultra Rares are Chien-Pao ex, Super Rod, and Basic Water Energy. Chien-Pao ex is the only card in the set printed at both SAR and UR, so the mascot sits at the top of two tiers at once. The set was designed as one half of a dual release with Clay Burst, and that is why it is short, balanced, and flat outside its two cards.",
+          "The English twin is Paldea Evolved, released June 9, 2023, about eight weeks after the Japanese release. It combines Snow Hazard, Clay Burst, and Triplet Beat into one 279-card English set, so an English buyer buys one product instead of three Japanese boxes. That is the trade: the Japanese boxes give you the 99-card set with the Chien-Pao SAR at 093/071, and the English set gives you the same art across a larger checklist at lower prices. The English Chien-Pao ex Special Illustration Rare carried a $26.70 TCGplayer figure on November 8, 2026, against $39.90 for the Japanese Special Art Rare, so the Japanese print costs 1.49 times the English one. Japanese cards are not legal in English tournaments, so a player who buys SV2P for play has bought the wrong product; the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full. If you are buying to open, the question is whether you want 150 cards from a 99-card set or a share of a 279-card English one."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card. The right move is the Chien-Pao ex Special Art Rare single at $39.90, which costs 0.42 times a box, or the Grusha Special Art Rare at about $27.15 if that is the card you want. Second, budget openers: at $3.16 a pack, SV2P is dearer than Battle Partners at $2.83, so a buyer who wants the cheapest 30-pack box should buy [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) instead. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV2P for play has bought the wrong product; the English Paldea Evolved product is the one that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the Chien-Pao half of the April 2023 dual release in Japanese and will open 30 packs of it, sealed holders who will buy the case at $79.36 a box knowing the saving is $15.55 a box, and buyers choosing between the twins who now know Snow Hazard costs $7.73 less per box than Clay Burst. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Chien-Pao SAR costs 0.42 times a box",
+          "If buying sealed, compare our box at $94.91 against the twin at $102.64 and decide whether the $7.73 saving is worth the Chien-Pao chase",
+          "If buying the case, confirm the case price at checkout; $79.36 a box is the live shelf figure for November 9, 2026, and the saving is $15.55 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the tear strip before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV2P buying checklist",
+        "paragraphs": [
+          "Run this before the next SV2P box you consider. It takes ten minutes and replaces a shelf of shop rankings with one division you can re-run yourself. Start with the buyer type, because the right format follows from it, and end with the seal check, because a 43-month-old box with a $39.90 chase is the product most worth verifying before you open it."
+        ]
+      }
+    ],
+    "slug": "sv2p-snow-hazard-buyers-guide",
+    "takeaway": [
+      "The SV2P box at $94.91 sits in the middle of the 30-pack shelf at $3.16 a pack, and $0.63 a card, for 150 cards from a 99-card set. The case at $952.33 is the sealed buy: $79.36 a box and $2.65 a pack, saving $186.59 against twelve singles. The set is 99 cards, released April 14, 2023, and the chase is the Chien-Pao ex Special Art Rare, which carried a $39.90 market price on November 7, 2026, or 0.42 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace figures as of November 7 and October 7, 2026. No pull rate is guaranteed, and the box can hold zero Chien-Pao cards. The twin box, Clay Burst, is $102.64, so Snow Hazard costs $7.73 less per box: pay the saving for the Chien-Pao chase.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Clay Burst guide](/blog/sv2d-clay-burst-buyers-guide/) prices the twin the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices the October 2023 set at $91.61 a box, with a case that saves $116.52, and the Roaring Moon ex SAR at $40.22, or 0.44 times a box."
     ]
   },
   "sv3-ruler-of-black-flame-buyers-guide": {
@@ -21659,7 +21846,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV3a box at $102.64 is the middle of the 30-pack shelf at $3.42 a pack, and $0.68 a card, for 150 cards from a 92-card set. The case at $1,153.06 is the way to buy it sealed, at $96.09 a box and $3.20 a pack, saving $78.62 against twelve singles. The set is 92 cards, released September 22, 2023, and the chase is the Parasol Lady SAR, which carried a $37.39 TCGplayer market price on November 7, 2026, or 0.36 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30, November 6, and November 7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Tokyo listing for a sealed box was $85.62, so our box costs $17.02 more, and the case-split box costs $10.47 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came five months before Raging Surf at the same $102.64 a box, but with a case that saves only $28.81, and a chase, the Iono SAR at $296.26, that costs 2.89 boxes."
+      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came five months before Raging Surf at the same $102.64 a box, but with a case that saves only $28.81, and a chase, the Iono SAR at $296.26, that costs 2.89 boxes.",
+      "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices the first Paradox Rift component at $91.61 a box, with a case that saves $116.52, and the Roaring Moon ex SAR at $40.22, or 0.44 times a box."
     ]
   },
   "sv4a-shiny-treasure-ex-buyers-guide": {
@@ -21844,6 +22032,189 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best Japanese Pokemon special set guide](/blog/best-japanese-pokemon-special-set-to-buy/) ranks the special sets the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the set that shares SV4a's $141.24 box price, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own.",
       "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the Paradox Rift third at $102.64 a box, and names the Parasol Lady SAR, not Gholdengo, as the dearest card at $37.39."
+    ]
+  },
+  "sv4k-ancient-roar-buyers-guide": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Roaring Moon half of the October 2023 dual release and accept $3.05 a pack, which is $0.61 a card for 150 cards from a 94-card set. The case is the better sealed buy at $81.90 a box, saving $116.52 against twelve singles. For profit, no: no box guarantees the Roaring Moon ex Special Art Rare, which carried a $40.22 TCGplayer market price on November 7, 2026, or 0.44 times a box, and the Pokemon Company publishes no pull rates for this set. Open SV4K because you want the set, and buy the Roaring Moon single if it is the only card you want.",
+        "q": "Is SV4K Ancient Roar worth buying?"
+      },
+      {
+        "a": "A box holds 30 packs of 5 cards, 150 cards in total, at an official retail of 5,400 yen. The official product spec prints the pack price (180 yen) and the cards per pack (5) and the release date (October 27, 2023), and the box standard is 30 packs. At our shelf price of $91.61, that is $3.05 per pack and $0.61 per card.",
+        "q": "How many packs are in an SV4K booster box?"
+      },
+      {
+        "a": "Buy the single if Roaring Moon is the only card you want. One Roaring Moon ex Special Art Rare carried a $40.22 TCGplayer market price on November 7, 2026, which is 0.44 times a box, and the top five chase cards together cost $114.37, or 1.25 times a box, with no pull risk at all. A box can hold no Roaring Moon at all, because the Pokemon Company publishes no pull rates for this set. Buy the box if you want 150 cards from a 94-card set and the chance at the whole secret block, and buy the case at $81.90 a box if you want to hold sealed.",
+        "q": "Should I buy the SV4K box or the Roaring Moon SAR single?"
+      }
+    ],
+    "h1": "SV4K Ancient Roar: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV4K box at $91.61 to open Ancient Roar, and the case at $982.80 to hold it: the case divides to $81.90 a box and saves $116.52 against twelve singles. The set is the Roaring Moon half of the October 27, 2023 dual release, with 94 cards, and its chase is the Roaring Moon ex Special Art Rare at 090/066, which carried a $40.22 TCGplayer market price on November 7, 2026, or 0.44 times the box. Ancient Roar is the dearer twin by $3.34 a box, and this guide prices what that premium does and does not buy.",
+      "Who this is for: collectors who want the Roaring Moon half of the Paradox Rift era in Japanese, sealed holders who divide the case before they pay, and buyers choosing between the twin sets who want the price gap stated plainly. Who it is not for: anyone chasing one named card, because the Roaring Moon SAR costs 0.44 times a box and no pull is guaranteed; anyone who wants the cheapest 30-pack box, because Battle Partners costs $2.83 a pack; and anyone who plays in English events, because Japanese cards are not legal there."
+    ],
+    "metaDescription": "Ancient Roar (SV4K): box $91.61, case $982.80, Roaring Moon SAR $40.22. The twin-set guide with every division shown.",
+    "metaTitle": "SV4K Ancient Roar: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second: SV4K rewards the buyer who gets the order right. A collector who wants the set should open the box: 30 packs of 5 cards give 150 cards from a 94-card set, so one box covers the main set once over, and the second box is mostly cards you already own. A sealed holder should buy the case, not twelve singles: the case at $982.80 divides to $81.90 a box and saves $116.52 against twelve singles at $1,099.32, or $9.71 a box. A case splitter should do the same division before listing: every box out of this case starts $9.71 ahead. A single-card chaser should stop here and buy the Roaring Moon instead: one card at $40.22 costs 0.44 times a box, and the box can hold no Roaring Moon at all.",
+          "The chase is concentrated in one Pokemon, and that decides everything on this page. Ancient Roar came out in Japan on October 27, 2023, the Roaring Moon half of a same-day dual release with Future Flash. It prints 94 cards: a 66-card base set and a 28-card secret block of 12 Art Rares, 9 Super Rares, 5 Special Art Rares, and 2 Ultra Rares. Some lists count a 95th card, the Basic Darkness Energy at 095/066, which carries no TCGplayer market price; this guide uses 94 and notes the 95th. The set is Roaring Moon-themed, and the dearest card is the mascot itself: the Roaring Moon ex Special Art Rare at 090/066 carried a $40.22 TCGplayer market price on November 7, 2026, ahead of the Golisopod ex Special Art Rare at $28.33. The set is 36 months old, so every sealed box left is secondary stock."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $116.52 gap",
+        "math": [
+          "SV4K box per pack: $91.61 / 30 = $3.05 per pack",
+          "SV4K box per card: $91.61 / 150 = $0.61 per card",
+          "SV4K case per box: $982.80 / 12 = $81.90 per box",
+          "SV4K case per pack: $982.80 / 360 = $2.73 per pack",
+          "SV4K case per card: $982.80 / 1,800 = $0.55 per card",
+          "SV4K twelve singles: 12 x $91.61 = $1,099.32",
+          "SV4K case saving: $1,099.32 - $982.80 = $116.52 across the case",
+          "SV4K saving per box: $116.52 / 12 = $9.71 per box",
+          "SV4K official box: Y5,400 / Y158.40 = $34.09; official pack Y180 / Y158.40 = $1.14",
+          "SV4K official carton: Y64,800 / Y158.40 = $409.09",
+          "SV4K box vs official: $91.61 / $34.09 = 2.69x the official Japanese price",
+          "SV4K case box vs official: $81.90 / $34.09 = 2.40x the official Japanese price",
+          "Roaring Moon ex SAR vs box: $40.22 / $91.61 = 0.44x the price of a box",
+          "SV4K top 5 chases vs box: $40.22 + $28.33 + $18.97 + $14.91 + $11.94 = $114.37; $114.37 / $91.61 = 1.25x the price of a box",
+          "SV4K top 3 chases vs box: $40.22 + $28.33 + $18.97 = $87.52; $87.52 / $91.61 = 0.96x the price of a box",
+          "SV4K complete set vs box: $211.05 / $91.61 = 2.30x the price of a box",
+          "SV4K box vs Future Flash box: $91.61 - $88.27 = $3.34 more per box",
+          "SV4K case vs Future Flash case: $982.80 - $882.46 = $100.34 more",
+          "SV4K box vs Raging Surf box: $102.64 - $91.61 = $11.03 less per box",
+          "SV4K box vs Battle Partners box: $91.61 - $84.97 = $6.64 more per box",
+          "Japanese Roaring Moon SAR vs English SIR: $40.22 / $27.14 = 1.48x; $40.22 - $27.14 = $13.08",
+          "SV4K box vs Japan direct: Y10,192 / Y158.40 = $64.34; $91.61 - $69.51 = $22.10; $91.61 / $69.51 = 1.32x"
+        ],
+        "paragraphs": [
+          "Start with the box: the [SV4K box](/product/sv4k-ancient-roar-booster-box-japanese-pokemon-card/) is $91.61 for 30 packs of 5 cards, or $3.05 per pack and $0.61 per card. That per-pack price sits low on the shelf: cheaper than Raging Surf at $3.42, Crimson Haze at $3.57, and Mask of Change at $3.72, and $6.64 above Battle Partners at $2.83, the cheapest 30-pack box we stock. One box gives the main set once over and most of the secrets.",
+          "The case arithmetic is the reason to buy this set sealed, and this guide exists to print it. The [SV4K case](/product/sv4k-ancient-roar-sealed-case-12-boxes-japanese-pokemon-card/) is $982.80 for 12 boxes: $81.90 a box, $2.73 a pack, $0.55 a card. Twelve singles cost $1,099.32, so the case saves $116.52 in total, or $9.71 a box. That is a smaller saving than its twin: Future Flash saves $176.78 a case, or $14.73 a box, because the Future Flash case starts lower. The Ancient Roar case is still a real discount: a splitter who lists case boxes at the single-box price keeps $9.71 on every box before fees. Compare [Night Wanderer](/blog/sv6a-night-wanderer-buyers-guide/), whose case saves $196.81, and [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/), whose case costs $200.80 more than twelve singles.",
+          "The official price is the anchor the market has left behind. A box retailed at Y5,400 in Japan, or $34.09 at Y158.40 to the dollar, and a pack at Y180 is $1.14. Our box at $91.61 is 2.69 times the official price, and the case-split box at $81.90 is 2.40 times it. That multiple is not a markup story: the print run ended in 2023, and every sealed box left is secondary stock. The comparison that matters is the twin: the Future Flash box is $88.27, so Ancient Roar costs $3.34 more per box, and the cases sit $100.34 apart."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single",
+        "paragraphs": [
+          "Eight rows cover nearly every buyer; the money layer above carries the full division. Prices are our shelf prices as of November 9, 2026, except the TCGplayer figures, which are dated. Read the table by buyer type: openers scan the per-pack row, holders scan the case row and see the $9.71 margin, and single-card chasers scan the Roaring Moon row and stop there.",
+          "Two rows decide more than the rest. The Roaring Moon row decides the chaser: one card at $40.22 costs 0.44 times a box, and the Pokemon Company publishes no pull rates for this set, so the box only wins if you want the other 149 cards too. The twin row decides the buyer who wants both October 2023 sets: Future Flash is $3.34 cheaper per box and $100.34 cheaper per case, so buy Future Flash first and Ancient Roar second, unless the Roaring Moon is the card you want. The top-five row decides the opener: the five best cards together cost $114.37, or 1.25 times a box, so the top of the set costs more than the box that might hold it."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 9 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV4K box",
+              "$91.61",
+              "30 packs, 150 cards",
+              "$91.61 / $3.05 / $0.61"
+            ],
+            [
+              "SV4K case",
+              "$982.80",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$81.90 / $2.73 / $0.55"
+            ],
+            [
+              "Roaring Moon ex SAR single",
+              "$40.22 (TCGplayer market, Nov 7 2026)",
+              "1 card, the chase",
+              "0.44x a box"
+            ],
+            [
+              "Top 5 chase singles",
+              "$114.37 (TCGplayer market, Nov 7 2026)",
+              "5 cards, top of the set",
+              "1.25x a box"
+            ],
+            [
+              "Golisopod ex SAR single",
+              "$28.33 (TCGplayer market, Nov 7 2026)",
+              "1 card, second chase",
+              "0.31x a box"
+            ],
+            [
+              "SV4M box (twin)",
+              "$88.27",
+              "30 packs, 150 cards",
+              "$88.27 / $2.94 / $0.59"
+            ],
+            [
+              "SV4M case (twin)",
+              "$882.46",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$73.54 / $2.45 / $0.49"
+            ],
+            [
+              "Battle Partners box",
+              "$84.97",
+              "30 packs, 150 cards",
+              "$84.97 / $2.83 / $0.57"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case that actually saves",
+        "note": "From the Warehouse: the question we get most about Ancient Roar is whether the Roaring Moon is really in this box. It is, 090/066, and it is the only card in the set that costs almost half a box on its own. Our answer in chat is the one on this page: the single is $40.22, the box is $91.61, and the gap between them is $51.39, so buy the single if Roaring Moon is the only card you want.",
+        "paragraphs": [
+          "The top guides for this set are card lists and set tables: the set-code tables give the release date, the pack price, and the English twin, and the card-price pages list all 94 cards and name Roaring Moon as the dearest card. The chase guides price the single and the PSA 10, but none of them divides a shelf: none shows a case split, none runs the single-versus-box test, and none prices the twin gap of $3.34 per box and $100.34 per case. That division is the section this page owns.",
+          "One more correction the lists do not make: the dearer twin is the better opener, not the worse set. Ancient Roar costs $3.34 more per box than Future Flash, $3.05 a pack against $2.94, and its top card costs $40.22 while the Future Flash top card, Iron Valiant ex, is the chase of the other half of the pair. Value in Ancient Roar sits on one Pokemon printed four times in the set, and the box is cheaper than every 30-pack box above it on the shelf, so the opener's downside is smaller than the price suggests. The same discipline applies to the prices: every marketplace figure carries its date, the shelf prices are stamped November 9, 2026, and the TCGplayer figures November 7, 2026, so a reader who finds a different number later can tell which figure moved."
+        ]
+      },
+      {
+        "h": "The risk layer: the Roaring Moon gap, the reprint shadow, and the tear strip",
+        "paragraphs": [
+          "The first risk is the pull. The Pokemon Company publishes no pull rates for this set, so no number in this guide promises a Roaring Moon in any box. Community-observed figures put an Art Rare at about 3 per box, a Special Art Rare at roughly 1 per 1 to 3 boxes, and an Ultra Rare at roughly 1 per 6 to 7 boxes, but those are low-confidence community estimates, not measured SV4K samples, and no SV4K-specific measured sample was found. One card at $40.22 costs 0.44 times a box, and the top five cards together cost $114.37, or 1.25 times a box, so the box only wins if you want the other 145 cards too. The second risk is the grading gap. A graded 10 of the top card costs several times the raw price, and grading pays only if the card comes back a 10, so the slab is not the plan. The third risk is the reseal. A 36-month-old box with a $40.22 chase is exactly the product a resealer targets, so check the seal, photograph the box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything: a reseal claim is only provable while the seal is intact.",
+          "The reprint shadow is the risk most buyers miss, because Japanese sets are reprinted freely and a reprint kills the scarcity premium. No verified reprint announcement exists for Ancient Roar, and the box price is flat to firm, not collapsing: the last recorded sale was $69.51 on November 7, 2026, with 164 boxes sold in six months and the trend labelled Accumulating. But the mechanism is dated and real: a Destined Rivals Elite Trainer Box peaked near $280 in April 2026, then halved to $120.56 by August 23, 2026, once 2026 reprint stock hit retail, a different product, and the same mechanism would cut an Ancient Roar box the same way. Since September 2022 Japanese boxes open via a perforated tear strip, so a torn or creased strip means the box was opened, and re-shrink film is stiffer and crinklier than factory film. Buy sealed from a named shop, check the strip and all six faces, and film the opening."
+        ]
+      },
+      {
+        "h": "Context: 94 cards, Roaring Moon, and the English twin",
+        "paragraphs": [
+          "The set is the fourth main set of the Scarlet and Violet era, and that explains its shape. Ancient Roar prints 94 cards: a 66-card base set and a 28-card secret block. The five SARs are the set in miniature: Roaring Moon ex and Golisopod ex head them, with Sandy Shocks ex, Professor Sada's Vitality, and Mela behind them, and the two gold Ultra Rares are Roaring Moon ex and Gorgeous Mantle, an Item card with no base-set counterpart. Roaring Moon ex is the only Pokemon in the set printed four times, as a regular ex at 054/066, a Super Rare at 084/066, a Special Art Rare at 090/066, and an Ultra Rare at 093/066, so the mascot sits at the top of every tier at once. The set was designed as one half of a dual release with Future Flash, and that is why it is short, balanced, and flat outside its one card.",
+          "The English twin is Scarlet and Violet: Paradox Rift, released November 3, 2023, about one week after the Japanese release. It folds Ancient Roar, Future Flash, Raging Surf, and Terastal Starter cards into one 266-card English set, so an English buyer buys one product instead of three Japanese boxes. That is the trade: the Japanese boxes give you the 94-card set with the Roaring Moon SAR at 090/066, and the English set gives you the same art across a larger checklist at lower prices. The English Roaring Moon ex Special Illustration Rare carried a $27.14 TCGplayer market figure on November 8, 2026, against $40.22 for the Japanese Special Art Rare, so the Japanese print costs 1.48 times the English one. Japanese cards are not legal in English tournaments, so a player who buys SV4K for play has bought the wrong product; the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full. If you are buying to open, the question is whether you want 150 cards from a 94-card set or a share of a 266-card English one."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card. The right move is the Roaring Moon ex Special Art Rare single at $40.22, which costs 0.44 times a box, or the Golisopod ex Special Art Rare at $28.33 if that is the card you want. Second, budget openers: at $3.05 a pack, SV4K is dearer than Battle Partners at $2.83, so a buyer who wants the cheapest 30-pack box should buy [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) instead. Third, English-event players: Japanese cards are not legal in English tournaments, so a player who buys SV4K for play has bought the wrong product; the English Paradox Rift product is the one that is legal.",
+          "Who this guide is for, restated plainly: collectors who want the Roaring Moon half of the October 2023 dual release in Japanese and will open 30 packs of it, sealed holders who will buy the case at $81.90 a box knowing the saving is $9.71 a box, and buyers choosing between the twins who now know Ancient Roar costs $3.34 more per box than Future Flash. If that is you, the checklist below is the order of operations."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Roaring Moon SAR costs 0.44 times a box",
+          "If buying sealed, compare our box at $91.61 against the twin at $88.27 and decide whether the $3.34 premium is worth the Roaring Moon chase",
+          "If buying the case, confirm the case price at checkout; $81.90 a box is the live shelf figure for November 9, 2026, and the saving is $9.71 a box",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "Check the tear strip before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV4K buying checklist",
+        "paragraphs": [
+          "Run this before the next SV4K box you consider. It takes ten minutes and replaces a shelf of shop rankings with one division you can re-run yourself. Start with the buyer type, because the right format follows from it, and end with the seal check, because a 36-month-old box with a $40.22 chase is the product most worth verifying before you open it."
+        ]
+      }
+    ],
+    "slug": "sv4k-ancient-roar-buyers-guide",
+    "takeaway": [
+      "The SV4K box at $91.61 sits low on the 30-pack shelf at $3.05 a pack, and $0.61 a card, for 150 cards from a 94-card set. The case at $982.80 is the sealed buy: $81.90 a box and $2.73 a pack, saving $116.52 against twelve singles. The set is 94 cards, released October 27, 2023, and the chase is the Roaring Moon ex Special Art Rare, which carried a $40.22 market price on November 7, 2026, or 0.44 times a box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace figures as of November 7 and November 8, 2026. No pull rate is guaranteed, and the box can hold zero Roaring Moon cards. The twin box, Future Flash, is $88.27, so Ancient Roar costs $3.34 more per box: pay the premium for the Roaring Moon chase.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Raging Surf guide](/blog/sv3a-raging-surf-buyers-guide/) prices the third Paradox Rift component the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
+      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the April 2023 set at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90, or 0.42 times a box."
     ]
   },
   "sv5a-crimson-haze-buyers-guide": {
