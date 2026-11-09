@@ -22461,7 +22461,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The Future Flash box at $88.27 is $2.94 a pack and $0.59 a card, for 150 cards from a 95-card set. The case at $882.46 is the sealed buy: $73.54 a box and $2.45 a pack, saving $176.78 against twelve singles.",
       "The chase is split: Iron Valiant ex SAR is $24.45, or 28 percent of a box, and Altaria ex SAR was last listed near $49.99 in March 2026. The top two SARs together cost $74.44, less than one box.",
       "Future Flash is the cheaper twin: its box is $3.34 less than Ancient Roar, its case is $100.34 less, and its case saves $60.26 more. Buy Future Flash for sealed value, Ancient Roar for Roaring Moon.",
-      "The set is 95 cards, released October 27, 2023, with no reprint announced and no complete-set cost published. Buy sealed from a named shop, check the tear strip, and film the opening."
+      "The set is 95 cards, released October 27, 2023, with no reprint announced and no complete-set cost published. Buy sealed from a named shop, check the tear strip, and film the opening.",
+      "New this cycle: the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the next Future set at $88.27 a box, the same box price as Future Flash, with a case that saves $206.53 against twelve singles."
     ]
   },
   "sv5a-crimson-haze-buyers-guide": {
@@ -22898,7 +22899,172 @@ export const POSTS: Record<string, BlogPost> = {
       "The Wild Force box at $107.04 is $3.57 a pack and $0.71 a card, for 150 cards from a 100-card set. The case at $1,052.69 is the sealed buy: $87.72 a box and $2.92 a pack, saving $231.79 against twelve singles.",
       "Raging Bolt ex SAR is $54.21, or 50.6 percent of a box, and the complete set is $366.71, or 3.43 boxes. Buy the single for the chase and the singles for the set.",
       "Cyber Judge is the cheaper twin: its box is $18.77 less and its case is $199.98 less, but the Wild Force case saves $25.26 more. Buy Wild Force for the case deal, Cyber Judge for the cheaper box.",
-      "The set is 100 cards, released January 26, 2024, with no reprint announced. Buy sealed from a named shop, check the tear strip, and film the opening."
+      "The set is 100 cards, released January 26, 2024, with no reprint announced. Buy sealed from a named shop, check the tear strip, and film the opening.",
+      "New this cycle: the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the Future twin at $88.27 a box, $2.94 a pack, with a case that saves $206.53 against twelve singles."
+    ]
+  },
+  "sv5m-cyber-judge-buyers-guide": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "30 packs of 5 cards, 150 cards per box. The box is $88.27 on our shelf as of November 9, 2026, which is $2.94 a pack. The sealed case holds 12 boxes, 360 packs, for $852.71.",
+        "q": "How many packs are in an SV5M Cyber Judge booster box?"
+      },
+      {
+        "a": "Iron Crown ex SAR #94, at $29.78 on TCGplayer as of November 7, 2026. Bianca's Devotion SAR #97 is second at $28.16, and the five SARs median $21.22. The full 100-card set is $228.50 at TCGplayer market prices.",
+        "q": "What is the most valuable card in Cyber Judge?"
+      },
+      {
+        "a": "Against 12 single boxes, yes: $852.71 against $1,059.24 saves $206.53, or $17.21 a box. Against singles, no, if you want specific cards: the top five cards cost $108.78 as singles. Buy the case to open or hold; buy singles to complete.",
+        "q": "Is the SV5M Cyber Judge sealed case worth it?"
+      }
+    ],
+    "h1": "SV5M Cyber Judge: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: yes, if you buy the case or a single box and stop there. The SV5M Cyber Judge booster box is $88.27 on our shelf as of November 9, 2026, which divides to $2.94 a pack and $0.59 a card across its 30 packs of 5. The sealed case is $852.71 for 12 boxes, $71.06 a box, and saves $206.53 against 12 single boxes. The best card in the set, Iron Crown ex SAR, is $29.78 on TCGplayer, a third of a box, so no single pull pays for the box. Buy sealed to open with friends or to hold; buy the five best singles for $108.78 if a specific card is the goal.",
+      "Who this is for: collectors finishing a Future Pokemon set, players who want Iron Crown ex and the ACE SPEC cards for play, and buyers who like the twin-set structure and want the cheaper twin. Who it is not for: anyone chasing a card that pays for the box, anyone who wants Miraidon ex as the headline, and anyone buying English who should read the Temporal Forces section first."
+    ],
+    "metaDescription": "SV5M Cyber Judge buyer's guide: box $88.27, case $852.71, Iron Crown ex SAR $29.78, and the case math that decides box vs case vs singles.",
+    "metaTitle": "SV5M Cyber Judge Buyer's Guide: Box & Case Prices",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The shelf: one box, one case, one question",
+        "paragraphs": [
+          "Cyber Judge is the Future half of a same-day pair. It released in Japan on January 26, 2024, alongside its Ancient twin, [SV5K Wild Force](/blog/sv5k-wild-force-buyers-guide/), and the two sets split the Paradox Pokemon between them the same way earlier Scarlet and Violet pairs did. The set is 100 cards: a 71-card base list plus a 29-card secret tier of 12 Art Rares, 9 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. A box holds 30 packs of 5 cards, 150 cards in total, at ¥180 a pack and ¥5,400 a box at Japanese MSRP. The three Future Paradox ex, Iron Leaves ex, Iron Crown ex, and Iron Boulder ex, lead the set, and the ACE SPEC mechanic returns here with Prime Catcher, Reboot Pod, and Hero's Cape.",
+          "On our shelf there are two sealed products and one question. The [booster box](/product/sv5m-cyber-judge-booster-box-japanese-pokemon-card/) is $88.27 and the [sealed case of 12 boxes](/product/sv5m-cyber-judge-sealed-case-12-boxes-japanese-pokemon-card/) is $852.71, both in stock as of November 9, 2026. The question is not whether the set is good. It is whether the box, the case, or the singles are the right way to buy it, and the answer changes with what you want out of the set. The rest of this guide divides each route until the answer is arithmetic."
+        ]
+      },
+      {
+        "h": "The money layer: per pack, per card, per case",
+        "math": [
+          "SV5M Cyber Judge booster box: $88.27 ÷ 30 packs = $2.94 per pack",
+          "Per card: $88.27 ÷ 150 cards = $0.59 per card",
+          "Sealed case: $852.71 ÷ 12 boxes = $71.06 per box",
+          "Case saving: 12 × $88.27 = $1,059.24 − $852.71 = $206.53",
+          "Case saving per box: $206.53 ÷ 12 = $17.21 per box (19.5%)",
+          "Case per pack: $852.71 ÷ 360 packs = $2.37 per pack",
+          "MSRP: ¥5,400 ÷ ¥158.31 = $34.11 per box",
+          "Premium over MSRP: $88.27 − $34.11 = $54.16 (2.59× MSRP)",
+          "TCGplayer box: $86.33; our box is $88.27 − $86.33 = $1.94 above it",
+          "Best card: Iron Crown ex SAR $29.78 ÷ $88.27 = 0.34× a box",
+          "Top five cards: $29.78 + $28.16 + $21.22 + $15.79 + $13.83 = $108.78 (1.23× a box)",
+          "Complete set: $228.50 ÷ $88.27 = 2.59 boxes; 3 boxes cost $264.81, $36.31 more than the set"
+        ],
+        "paragraphs": [
+          "A pack at $2.94 and a card at $0.59 are the honest units, and the case is the only route that moves them much. At the case price the pack falls to $2.37 and the box to $71.06, which is $15.27 below the TCGplayer box market of $86.33. A single box at $88.27 sits $1.94 above that same market, so the case is the only sealed price on this shelf that beats the open market instead of trailing it. The MSRP line is the context: ¥5,400 converts to $34.11 at ¥158.31 to the dollar on November 9, 2026, so the shelf price is 2.59 times the Japanese retail price. That premium is the market repricing a set that is almost three years old, not a markup the store invented, and it is the same premium every sealed SV box on the shelf carries.",
+          "The singles math is the counterweight. The complete 100-card set is $228.50 at TCGplayer market prices as of November 7, 2026, which is 2.59 boxes, and three boxes at $264.81 cost $36.31 more than the set while leaving a 350-card duplicate pile behind. The top five cards together are $108.78, or 1.23 boxes, and the single best card is a third of a box. That is the whole buying decision in one comparison: sealed product buys the opening experience and the chance at a SAR, singles buy the cards, and the case is the only sealed route that pays for itself against the market. The [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs this same comparison across the whole shelf."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or singles",
+        "paragraphs": [
+          "Read the table by your situation, not by price alone. The cheapest row is not the right row for every buyer, and the most expensive row is not the best value."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Open one box for fun",
+              "1 booster box",
+              "$88.27",
+              "30 packs at $2.94 each; expect Art Rares and maybe one SAR, never a guaranteed hit"
+            ],
+            [
+              "Open with a group or hold sealed",
+              "Sealed case",
+              "$852.71",
+              "$71.06 a box and $2.37 a pack; the only price here that beats the TCGplayer box"
+            ],
+            [
+              "Want Iron Crown ex SAR",
+              "Single card",
+              "$29.78",
+              "A third of a box, guaranteed; the box is a lottery ticket for it"
+            ],
+            [
+              "Want the top five cards",
+              "Five singles",
+              "$108.78",
+              "1.23 boxes for the five best cards, no duplicates, no bulk"
+            ],
+            [
+              "Want the full 100-card set",
+              "Singles set",
+              "$228.50",
+              "2.59 boxes; $36.31 less than 3 boxes, and no 350-card duplicate pile"
+            ],
+            [
+              "Want the twin too",
+              "SV5K box + SV5M box",
+              "$195.31",
+              "Wild Force $107.04 + Cyber Judge $88.27; the pair is the Temporal Forces story"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: what is actually in the box",
+        "paragraphs": [
+          "Each of the three Future Paradox ex is printed four times, and that repetition is the set's structure. Iron Leaves ex appears as a base Double Rare at #16, a Super Rare at #90, a Special Art Rare at #93 worth $21.22, and an Ultra Rare at #98 worth $5.81. Iron Crown ex appears at #36, #92, #94 as the SAR worth $29.78, and #99 as the Ultra Rare worth $5.14. Iron Boulder ex appears at #41, #87, #95 as the SAR worth $13.83, and #100 as the Ultra Rare worth $5.14. Pulling the chase card can therefore mean four different cards at four different prices, and the SAR is the only one of the four that matters financially. The [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) shows where each mark sits on the card, so you can tell which printing you hold without looking it up.",
+          "The Art Rare tier carries more value than its name suggests. Twelve Art Rares median $4.58, and the top three are all non-ex Pokemon: Deerling at $15.79, Sawsbuck at $13.14, and Litten at $11.65. The fourth-most-valuable card in the whole set is a Deerling, which is the kind of fact a chase list built only on ex cards misses. The ACE SPEC cards are the play value: Prime Catcher at $0.35 and Reboot Pod at $0.22 are cheap, while Hero's Cape at $3.91 is the priciest ACE SPEC in the set and the one players actually run. Two practical facts before paying: the card text is Japanese, so read the [guide to reading Japanese Pokemon cards](/blog/how-to-read-japanese-pokemon-cards/) before the first game, and Japanese product carries no Pokemon TCG Live code card, so the digital version of the deck is not included. Check the shrink and the tear strip against the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening, and film the opening if the box is for a collection record."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the twin trap and the SAR spread",
+        "note": "Warehouse Note: the question we get most about Cyber Judge is whether it is the Miraidon set. It is not, not at the top. Miraidon appears once, as a $0.18 Rare, and the set's money sits in three Future Paradox ex and two Supporters. A guide that calls this the Miraidon set has read the English twin's marketing, not the Japanese card list.",
+        "paragraphs": [
+          "The top guides share three gaps. First, they rank by the English twin's chase order, where Iron Crown ex is the headline Special Illustration Rare, and they never say that in Japanese the second-most-valuable card is a Supporter, Bianca's Devotion SAR at $28.16, nearly tied with the top card. Second, none of them divides a live store's box and case to the pack: our box is $2.94 a pack, our case is $2.37 a pack, and the twin gap is $18.77 a box and $199.98 a case against Wild Force, figures no ranking page carries because no ranking page sells the product. Third, none of them states the SAR spread plainly: five SARs with a $21.22 median, 86 of 100 cards under $5, and the top five cards holding 48 percent of the set's $228.50 value. A box that misses all five SARs is an $88 box of bulk, and a guide that never says so is selling the opening, not the odds.",
+          "The twin trap is the second gap in practice. Wild Force and Cyber Judge released the same day, share a card count, and feed the same English set, so buyers treat them as interchangeable. They are not priced that way: Wild Force is $107.04 a box and $1,052.69 a case on our shelf, against $88.27 and $852.71 here, and the Wild Force case saves $25.26 more than the Cyber Judge case. Buy Wild Force for the case deal and the Ancient trio; buy Cyber Judge for the cheaper box and the Future trio. The [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the twin with the same method, and the [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide ranks this box against the whole shelf."
+        ]
+      },
+      {
+        "h": "The risk layer: concentration, drift, and the sealed-box traps",
+        "paragraphs": [
+          "Concentration is the biggest risk, and it is measurable. Five cards hold 48 percent of the set's value, 86 of 100 cards are under $5, and the set value fell 5.0 percent over 90 days, from $240.44 on August 10, 2026 to $228.50 on November 8, 2026, on Sparkl's TCGplayer series. A box is therefore a bet that one of five cards shows up, and the drift says the bet has been getting cheaper, not richer. The recovery is the same as in every set guide: if a specific card is the goal, buy the single; if the opening is the goal, accept the bulk and price it at $0.59 a card.",
+          "The sealed traps are the usual ones. A resealed box hides its history behind fresh shrink, so check the tear strip and the pack seal before paying, and buy sealed only from a named shop with a return policy. Price drift cuts both ways: the box is 2.59 times MSRP today, and a reprint or a demand shift can move it either way, so a case bought as an investment is a speculation, not a savings plan. Check the regulation mark on the cards before entering an event, since Japan's rotation moved in January 2026 and older marks have left Standard since. If the sealed box starts calling once it lands, the [open or keep sealed framework](/blog/should-you-open-or-keep-sealed-booster-box/) is the way to decide, and the [M2 Inferno X buyer's guide](/blog/m2-inferno-x-buyers-guide/) prices the set with the strongest chase on the current shelf if this one feels too thin."
+        ]
+      },
+      {
+        "h": "Context: Japan's Future set versus the English Temporal Forces",
+        "paragraphs": [
+          "The English twin is Temporal Forces, released March 22, 2024, with 218 cards: a 162-card main list plus 56 secret rares, merging Wild Force and Cyber Judge into one set with 22 Illustration Rares, 10 Special Illustration Rares, and 6 gold Hyper Rares. The Future trio crosses over as the headliners, and the English Iron Crown ex Special Illustration Rare at #206 is $43.86 on TCGplayer as of November 7, 2026, against $29.78 for the Japanese SAR: the English printing costs 1.47 times as much, $14.08 more, for the same Pokemon in a different frame. That gap is the whole Japan-versus-English question in one card. The Japanese box gives the SAR art at the lower price and a 30-pack box; the English set gives playable English text and the Special Illustration Rare treatment.",
+          "Which to buy depends on the table, not the language. A collector who wants the Iron Crown ex art buys the Japanese SAR at $29.78 and keeps $14.08. A player who needs English text for events buys the English set and accepts the premium. A buyer who wants both twins in one product buys Temporal Forces and accepts that the Japanese split, two 100-card sets with their own SAR orders, is gone. The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers print, price, and legality in full, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the shipping and customs leg of an overseas order."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, Miraidon hunters: the gold Miraidon ex is in Paldean Fates, not here, at $13.80 raw as of November 8, 2026, and the Miraidon in this set is a $0.18 Rare. Buy the single, not the box. Second, buyers who need a pull to pay for the box: the best card is 0.34 times the box, the top five together are 1.23 boxes, and no box here pays for itself in singles. Third, players who need English card text for events: buy Temporal Forces instead, and accept that the English Iron Crown ex costs $14.08 more. Who this guide is for, restated: Future Pokemon collectors, ACE SPEC players, and twin-set buyers who want the cheaper half of the pair. If that is you, the table above is your shortlist."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide box, case, or singles first: the case is the only sealed price that beats the TCGplayer box",
+          "If buying the case, divide it: $71.06 a box and $2.37 a pack is the number to beat",
+          "If chasing Iron Crown ex SAR, price the $29.78 single before the $88.27 box",
+          "Name the SAR you want: five SARs median $21.22, and 86 of 100 cards are under $5",
+          "Check the twin price: Wild Force is $18.77 more a box, so buy Cyber Judge for the cheaper half",
+          "Check the shrink and tear strip before opening, and film the opening",
+          "Check the regulation mark before entering an event; ignore it for kitchen-table games",
+          "Do not buy the box to fund the next box: the best card is a third of the price"
+        ],
+        "h": "Action layer: the Cyber Judge checklist",
+        "paragraphs": [
+          "Run this before paying. It takes five minutes and it replaces a shelf of English chase rankings with a decision built on the Japanese products you can actually buy."
+        ]
+      }
+    ],
+    "slug": "sv5m-cyber-judge-buyers-guide",
+    "takeaway": [
+      "Cyber Judge is an $88.27 box that divides to $2.94 a pack, with a $71.06-a-box case behind it. The top card is a third of a box, so the box is a purchase, not an investment. The [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the Ancient twin at $107.04 a box, $18.77 more.",
+      "The set's value is concentrated: five cards hold 48 percent of the $228.50 set value, and 86 of 100 cards are under $5. If the goal is Iron Crown ex SAR, the single at $29.78 beats the box. The [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same comparison for every set on the shelf.",
+      "Still deciding between the Japanese box and the English twin? The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers print, price, and legality, and the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the next set in the line at $91.61 a box."
     ]
   },
   "sv6-mask-of-change-buyers-guide": {
@@ -23084,7 +23250,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the set that came five weeks before Mask of Change and shares its English twin, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own.",
       "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the set that came a month after Mask of Change at $91.61 a box, with a case that saves $196.81 and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box.",
-      "New this cycle: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the set that came three months before Mask of Change at $107.04 a box, with a case that saves $231.79 against twelve singles."
+      "New this cycle: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the set that came three months before Mask of Change at $107.04 a box, with a case that saves $231.79 against twelve singles.",
+      "New this cycle: the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the set that came six weeks after Mask of Change at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles."
     ]
   },
   "sv6a-night-wanderer-buyers-guide": {
@@ -23274,6 +23441,171 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, with a case that saves $223.15, and a chase, the Magikarp Art Rare at $129.90, that costs 0.85 times a box."
     ]
   },
+  "sv7-stella-miracle-buyers-guide": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "30 packs of 5 cards, 150 cards per box. The box is $91.61 on our shelf as of November 9, 2026, which is $3.05 a pack. The sealed case holds 12 boxes, 360 packs, for $902.51.",
+        "q": "How many packs are in an SV7 Stella Miracle booster box?"
+      },
+      {
+        "a": "Dachsbun ex SAR #129, at $40.52 on TCGplayer as of November 7, 2026. The mascot, Terapagos ex SAR #130, is second at $29.56, and the six SARs together hold 60.8 percent of the set's $231.46 value.",
+        "q": "What is the most valuable card in Stellar Miracle?"
+      },
+      {
+        "a": "Against 12 single boxes, yes: $902.51 against $1,099.32 saves $196.81, or $16.40 a box. Against singles, no, if you want specific cards: the top five cards cost $132.57 as singles. Buy the case to open or hold; buy singles to complete.",
+        "q": "Is the SV7 Stella Miracle sealed case worth it?"
+      }
+    ],
+    "h1": "SV7 Stella Miracle: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: yes, if you buy the case or a single box and stop there. The SV7 Stella Miracle booster box is $91.61 on our shelf as of November 9, 2026, which divides to $3.05 a pack and $0.61 a card across its 30 packs of 5. The sealed case is $902.51 for 12 boxes, $75.21 a box, and saves $196.81 against 12 single boxes. The best card in the set, Dachsbun ex SAR, is $40.52 on TCGplayer, under half a box, so no single pull pays for the box. Buy sealed to open with friends or to hold; buy the five best singles for $132.57 if a specific card is the goal.",
+      "Who this is for: collectors finishing a Stellar Tera set, players who want Terapagos ex and the ACE SPEC cards for play, and buyers who want the set that introduced the Stellar mechanic in Japanese. Who it is not for: anyone chasing a card that pays for the box, anyone who assumes the mascot is the most valuable card, and anyone buying English who should read the Stellar Crown section first."
+    ],
+    "metaDescription": "SV7 Stella Miracle buyer's guide: box $91.61, case $902.51, Dachsbun ex SAR $40.52, and the Terapagos four-printing math that decides the buy.",
+    "metaTitle": "SV7 Stella Miracle Buyer's Guide: Box & Case Prices",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The shelf: one box, one case, one mechanic",
+        "paragraphs": [
+          "Stellar Miracle is the set that introduced Stellar Tera Pokemon ex to the Scarlet and Violet era. It released in Japan on July 19, 2024, as a 135-card set: a 102-card base list plus a 33-card secret tier of 12 Art Rares, 12 Super Rares, 6 Special Art Rares, and 3 Ultra Rares. A box holds 30 packs of 5 cards, 150 cards in total, at ¥180 a pack and ¥5,400 a box at Japanese MSRP. Terapagos ex is the mascot and the mechanic's center: it is printed four separate times, at four separate rarities, so pulling the chase card can mean four different cards. The Supporter chase runs alongside it, led by Lacey and Briar, and the ACE SPEC cards return with Sparkling Crystal, Deluxe Bomb, and Great Big Tree.",
+          "On our shelf there are two sealed products and one question. The [booster box](/product/sv7-stella-miracle-booster-box-japanese-pokemon-card/) is $91.61 and the [sealed case of 12 boxes](/product/sv7-stella-miracle-sealed-case-12-boxes-japanese-pokemon-card/) is $902.51, both in stock as of November 9, 2026. A separate Deck Build Box carries the same Stellar Miracle name, but it is not on our shelf; the booster box and the sealed case are the two sealed products here. The question is whether the box, the case, or the singles are the right way to buy the set, and the answer changes with what you want out of it. The rest of this guide divides each route until the answer is arithmetic."
+        ]
+      },
+      {
+        "h": "The money layer: per pack, per card, per case",
+        "math": [
+          "SV7 Stella Miracle booster box: $91.61 ÷ 30 packs = $3.05 per pack",
+          "Per card: $91.61 ÷ 150 cards = $0.61 per card",
+          "Sealed case: $902.51 ÷ 12 boxes = $75.21 per box",
+          "Case saving: 12 × $91.61 = $1,099.32 − $902.51 = $196.81",
+          "Case saving per box: $196.81 ÷ 12 = $16.40 per box (17.9%)",
+          "Case per pack: $902.51 ÷ 360 packs = $2.51 per pack",
+          "MSRP: ¥5,400 ÷ ¥158.31 = $34.11 per box",
+          "Premium over MSRP: $91.61 − $34.11 = $57.50 (2.69× MSRP)",
+          "TCGplayer box: $91.52; our box is $91.61 − $91.52 = $0.09 above it",
+          "Best card: Dachsbun ex SAR $40.52 ÷ $91.61 = 0.44× a box",
+          "Top five cards: $40.52 + $29.56 + $29.03 + $20.14 + $13.32 = $132.57 (1.45× a box)",
+          "Six SARs: $140.82 ÷ $231.46 = 60.8% of the set's value",
+          "Complete set: $231.46 ÷ $91.61 = 2.53 boxes; 3 boxes cost $274.83, $43.37 more than the set"
+        ],
+        "paragraphs": [
+          "A pack at $3.05 and a card at $0.61 are the honest units, and the case is the only route that moves them much. At the case price the pack falls to $2.51 and the box to $75.21, which is $16.31 below the TCGplayer box market of $91.52. A single box at $91.61 sits $0.09 above that same market, effectively at market, so the case is the only sealed price on this shelf that beats the open market by a real margin. The MSRP line is the context: ¥5,400 converts to $34.11 at ¥158.31 to the dollar on November 9, 2026, so the shelf price is 2.69 times the Japanese retail price. That premium is the market repricing a set that is more than two years old, not a markup the store invented, and it is the same premium every sealed SV box on the shelf carries.",
+          "The singles math is the counterweight. The complete 135-card set is $231.46 at TCGplayer market prices as of November 7, 2026, which is 2.53 boxes, and three boxes at $274.83 cost $43.37 more than the set while leaving a 315-card duplicate pile behind. The top five cards together are $132.57, or 1.45 boxes, and the six SARs together are $140.82, which is 60.8 percent of the whole set's value in six cards. That is the whole buying decision in one comparison: sealed product buys the opening experience and the chance at a SAR, singles buy the cards, and the case is the only sealed route that pays for itself against the market. The [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs this same comparison across the whole shelf."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or singles",
+        "paragraphs": [
+          "Read the table by your situation, not by price alone. The cheapest row is not the right row for every buyer, and the most expensive row is not the best value."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Open one box for fun",
+              "1 booster box",
+              "$91.61",
+              "30 packs at $3.05 each; expect Art Rares and maybe one SAR, never a guaranteed hit"
+            ],
+            [
+              "Open with a group or hold sealed",
+              "Sealed case",
+              "$902.51",
+              "$75.21 a box and $2.51 a pack; the only price here that beats the TCGplayer box"
+            ],
+            [
+              "Want Dachsbun ex SAR",
+              "Single card",
+              "$40.52",
+              "Under half a box, guaranteed; the box is a lottery ticket for it"
+            ],
+            [
+              "Want the top five cards",
+              "Five singles",
+              "$132.57",
+              "1.45 boxes for the five best cards, no duplicates, no bulk"
+            ],
+            [
+              "Want the full 135-card set",
+              "Singles set",
+              "$231.46",
+              "2.53 boxes; $43.37 less than 3 boxes, and no 315-card duplicate pile"
+            ],
+            [
+              "Want the Stellar mechanic cheap",
+              "SV7 box over SV7a",
+              "$91.61",
+              "Paradise Dragona is $141.24 a box; this set is $49.63 cheaper for the same mechanic"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: what is actually in the box",
+        "paragraphs": [
+          "Terapagos ex is printed four times, and that repetition is the set's structure. It appears as a base Double Rare at #88, a Super Rare at #122, a Special Art Rare at #130 worth $29.56, and an Ultra Rare at #133 worth $6.11. The same pattern runs through the other ex cards: Hydrapple ex, Galvantula ex, and Dachsbun ex each appear twice in the secret tier, once as a Super Rare and once as a Special Art Rare, and Lacey and Briar are the only two Supporters that get the same treatment, at #124 and #131 for Lacey and #126 and #132 for Briar. Pulling the chase card can therefore mean four different cards at four different prices, and the SAR is the only one of the four that matters financially. The [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) shows where each mark sits on the card, so you can tell which printing you hold without looking it up.",
+          "The Art Rare tier is thin here, which is itself a fact. Twelve Art Rares median $2.35, and the top one, Milcery at $6.42, is worth less than the cheapest SAR. The value sits in the six SARs: Hydrapple ex at $29.03, Galvantula ex at $13.32, Dachsbun ex at $40.52, Terapagos ex at $29.56, Lacey at $20.14, and Briar at $8.25. The ACE SPEC cards are the play value and they are cheap: Sparkling Crystal at $0.27, Deluxe Bomb at $0.23, and Great Big Tree at $0.22. Two practical facts before paying: the card text is Japanese, so read the [guide to reading Japanese Pokemon cards](/blog/how-to-read-japanese-pokemon-cards/) before the first game, and Japanese product carries no Pokemon TCG Live code card, so the digital version of the deck is not included. Check the shrink and the tear strip against the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening, and film the opening if the box is for a collection record."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the mascot trap and the SAR wall",
+        "note": "Warehouse Note: the question we get most about Stella Miracle is whether Terapagos ex is the card to chase. It is the mascot, and it is second. Dachsbun ex SAR at $40.52 beats the mascot by $10.96, and the set's value sits in six SARs, not one Pokemon. A guide that calls this the Terapagos set has read the cover, not the price list.",
+        "paragraphs": [
+          "The top guides share three gaps. First, they rank by the mascot. Terapagos ex is the set's face, the mechanic's center, and the second-most-valuable card, but Dachsbun ex SAR is $40.52 against $29.56 for the mascot, and Hydrapple ex SAR at $29.03 is nearly tied with it. A ranking that leads with the mascot misprices the set by $10.96 on the first card. Second, none of them divides a live store's box and case to the pack: our box is $3.05 a pack, our case is $2.51 a pack, and the gap to the companion set is $49.63 a box against Paradise Dragona, figures no ranking page carries because no ranking page sells the product. Third, none of them states the SAR wall plainly: six SARs hold 60.8 percent of the set's $231.46 value, 126 of 135 cards are under $5, and the top five cards hold 57 percent. A box that misses all six SARs is a $91.61 box of bulk, and a guide that never says so is selling the opening, not the odds.",
+          "The Lacey inversion is the gap no guide names at all. The Japanese Lacey SAR is $20.14 on TCGplayer, while the English Lacey Special Illustration Rare in Stellar Crown is $18.04: the Japanese card costs $2.10 more than the English one. Every other SAR in the set runs the usual way, English dearer than Japanese, by 1.14 to 1.70 times, but Lacey runs backwards. A buyer who assumes Japanese is always cheaper overpays on exactly one card, and it is a Supporter, the card type collectors chase hardest. The [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the companion set at $141.24 a box, and the [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide ranks this box against the whole shelf."
+        ]
+      },
+      {
+        "h": "The risk layer: concentration, flat drift, and the sealed-box traps",
+        "paragraphs": [
+          "Concentration is the biggest risk, and it is measurable. Six cards hold 60.8 percent of the set's value, 126 of 135 cards are under $5, and the set value was flat over 90 days, from $231.76 on August 9, 2026 to $231.43 on November 7, 2026, a fall of 0.1 percent on Sparkl's TCGplayer series. Flat is not falling, but it is not rising either: a box is a bet that one of six cards shows up, and the drift says the bet has gone nowhere for three months. The recovery is the same as in every set guide: if a specific card is the goal, buy the single; if the opening is the goal, accept the bulk and price it at $0.61 a card.",
+          "The sealed traps are the usual ones. A resealed box hides its history behind fresh shrink, so check the tear strip and the pack seal before paying, and buy sealed only from a named shop with a return policy. Price drift cuts both ways: the box is 2.69 times MSRP today, and a reprint or a demand shift can move it either way, so a case bought as an investment is a speculation, not a savings plan. Check the regulation mark on the cards before entering an event, since Japan's rotation moved in January 2026 and older marks have left Standard since. If the sealed box starts calling once it lands, the [open or keep sealed framework](/blog/should-you-open-or-keep-sealed-booster-box/) is the way to decide, and the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the set that came six months before this one at $88.27 a box if this one feels too dear."
+        ]
+      },
+      {
+        "h": "Context: Japan's Stellar set versus the English Stellar Crown",
+        "paragraphs": [
+          "The English twin is Stellar Crown, released September 13, 2024, with 175 cards: a 142-card main list plus 33 secret rares, adapting the Japanese set and adding 42 cards, most of them from Japan's Battle Academy deck kit. The six Special Illustration Rares cross over, and the English prices run dearer than the Japanese SARs on five of the six: Dachsbun ex at $68.95 against $40.52, or 1.70 times; Terapagos ex at $33.63 against $29.56, or 1.14 times; Hydrapple ex at $39.56 against $29.03, or 1.36 times; Galvantula ex at $19.28 against $13.32, or 1.45 times; Briar at $11.32 against $8.25, or 1.37 times. Lacey is the exception, at $18.04 against $20.14, or 0.90 times: the one English card that costs less than its Japanese twin. That exception is the whole Japan-versus-English question in one card. The Japanese box gives the SAR art at the lower price on five of six cards; the English set gives playable English text and the Special Illustration Rare treatment.",
+          "Which to buy depends on the table, not the language. A collector who wants the Dachsbun ex art buys the Japanese SAR at $40.52 and keeps $28.43. A player who needs English text for events buys Stellar Crown and accepts the premium. A buyer who wants Lacey specifically buys the English printing and saves $2.10. The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers print, price, and legality in full, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the shipping and customs leg of an overseas order."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, buyers who assume the mascot is the most valuable card: Dachsbun ex SAR is $40.52 and Terapagos ex SAR is $29.56, and a box bought for the mascot is a box bought for the second-best card. Second, buyers who need a pull to pay for the box: the best card is 0.44 times the box, the top five together are 1.45 boxes, and no box here pays for itself in singles. Third, players who need English card text for events: buy Stellar Crown instead, and accept that five of the six chase cards cost more in English. Who this guide is for, restated: Stellar Tera collectors, Terapagos ex players, and buyers who want the set that introduced the mechanic in Japanese. If that is you, the table above is your shortlist."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide box, case, or singles first: the case is the only sealed price that beats the TCGplayer box",
+          "If buying the case, divide it: $75.21 a box and $2.51 a pack is the number to beat",
+          "If chasing Dachsbun ex SAR, price the $40.52 single before the $91.61 box",
+          "Name the SAR you want: six SARs hold 60.8 percent of the set's value, and 126 of 135 cards are under $5",
+          "Check the Lacey inversion: the Japanese SAR at $20.14 costs more than the English SIR at $18.04",
+          "Check the shrink and tear strip before opening, and film the opening",
+          "Check the regulation mark before entering an event; ignore it for kitchen-table games",
+          "Do not buy the box to fund the next box: the best card is under half the price"
+        ],
+        "h": "Action layer: the Stella Miracle checklist",
+        "paragraphs": [
+          "Run this before paying. It takes five minutes and it replaces a shelf of English chase rankings with a decision built on the Japanese products you can actually buy."
+        ]
+      }
+    ],
+    "slug": "sv7-stella-miracle-buyers-guide",
+    "takeaway": [
+      "Stella Miracle is a $91.61 box that divides to $3.05 a pack, with a $75.21-a-box case behind it. The top card is under half a box, so the box is a purchase, not an investment. The [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the companion set at $141.24 a box, $49.63 more.",
+      "The set's value is a wall of six SARs holding 60.8 percent of the $231.46 set value, and 126 of 135 cards are under $5. If the goal is Dachsbun ex SAR, the single at $40.52 beats the box. The [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same comparison for every set on the shelf.",
+      "Still deciding between the Japanese box and the English twin? The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers print, price, and legality, and the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the set that came six months before this one at $88.27 a box."
+    ]
+  },
   "sv7a-paradise-dragona-buyers-guide": {
     "datePublished": "2026-11-08",
     "faqs": [
@@ -23455,7 +23787,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and November 6-7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $94.94, so our box costs $46.30 more, and the case-split box costs $9.51 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Terastal Festival ex guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the other High Class Pack the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the set that shares SV7a's $141.24 box price, box $141.24 against a case that saves $518.70, with the Mew ex SAR at $272.15 on its own.",
-      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles."
+      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles.",
+      "New this cycle: the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the main set that came two months before Paradise Dragona at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles."
     ]
   },
   "sv8a-terastal-festival-ex-buyers-guide": {
