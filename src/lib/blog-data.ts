@@ -3049,7 +3049,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Masters case checklist",
         "paragraphs": [
-          "Run this before paying. It takes five minutes and it replaces a shelf of loose-box listings with a decision built on the 13 cases one store will actually sell you."
+          "Run this before paying. It takes five minutes and it replaces a shelf of loose-box listings with a decision built on the 13 cases one store will actually sell you. Our [Japanese box buyers guide](/blog/dragon-ball-super-card-game-japanese-booster-box/) runs the same market for the Japanese print, damaged tier included."
         ]
       }
     ],
@@ -3224,7 +3224,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Japanese-box buying checklist",
         "paragraphs": [
-          "Run this in order before the next Dragon Ball box you consider. It takes ten minutes and it replaces a shelf of Japanese price guides with a decision built on the game you actually play and the cases you can actually buy."
+          "Run this in order before the next Dragon Ball box you consider. It takes ten minutes and it replaces a shelf of Japanese price guides with a decision built on the game you actually play and the cases you can actually buy. Our [Japanese box buyers guide](/blog/dragon-ball-super-card-game-japanese-booster-box/) prices the same boxes by dated market price, damaged tier, and pre-order."
         ]
       }
     ],
@@ -4398,7 +4398,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Before you buy: the checklist",
         "paragraphs": [
-          "Seven checks, in order. The shelf on November 4, 2026 says: FB08 for the cheapest box, FB07 for the structure story, SB01 and SB02 for the manga art, and FB09 for the newest mainline set, with the English cases priced alongside so no buyer mistakes one language's product for the other's."
+          "Seven checks, in order. The shelf on November 4, 2026 says: FB08 for the cheapest box, FB07 for the structure story, SB01 and SB02 for the manga art, and FB09 for the newest mainline set, with the English cases priced alongside so no buyer mistakes one language's product for the other's. Our [Japanese box price table](/blog/dragon-ball-super-card-game-japanese-booster-box-price/) prices the same boxes alongside the English Masters cases."
         ]
       }
     ],
@@ -12039,7 +12039,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Japanese Fusion World price checklist",
         "paragraphs": [
-          "Run this in order before the next Japanese Fusion World price you pay. It takes ten minutes and it replaces a single quoted number with the three prices that actually decide the purchase."
+          "Run this before the next Japanese Fusion World price you pay. It replaces a single quoted number with the three prices that decide the purchase. Our [Japanese box price table](/blog/dragon-ball-super-card-game-japanese-booster-box-price/) puts both games in one table."
         ]
       }
     ],
@@ -12048,6 +12048,385 @@ export const POSTS: Record<string, BlogPost> = {
       "Every Fusion World Japanese box price lives in one table now: official MSRP from $33.42 to $50.13, dated asks from $49.99 for FB11 to $575.95 for SB01, and our shelf from the $26.02 FB08 single to the $402.50 FB09 English box. Eight sets carry no current ask, and the table says so rather than inventing one.",
       "The multiples are the story: FB11 at 1.37 times MSRP is the closest to retail, SB01 at 11.49 times is the furthest, FB12 at 5.02 times is a pre-order premium, and the FB09 English box at 6.99 times the Japanese ask is the gap between the two languages stated as a number.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, the marketplace asks as of September 29, 2026 or June 16, 2026, and yen converted at Y158 per dollar on November 9, 2026. An ask without a date is stale, and a pre-order premium is the price of the wait, not of the cards."
+    ]
+  },
+  "dragon-ball-super-card-game-japanese-booster-box": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "No, not today. Our five Japanese Dragon Ball listings are single cards, from $26.02 for FB08 to $64.12 for FB09, and there is no sealed Japanese box on our shelf. The sealed route on our shelf is the English case, from $102.93 a box for B25, or the Japanese ask market, where the cheapest current box ask is FB11 at 7,899 yen, about $49.99, as of September 29, 2026.",
+        "q": "Can I buy a sealed Japanese Dragon Ball booster box from the Warehouse?"
+      },
+      {
+        "a": "For the current line, no confirmed version exists: the official site has no Japan region, and Neokyo's October 31, 2026 comparison says it is not known whether a Japanese version of Masters is currently being released. For the old line, yes: Japanese Masters boxes ran from BT01 Galactic Battle in July 2017 through the BT23 era in 2023, and they now trade only on Japanese secondhand markets, with no verified sealed price published.",
+        "q": "Is there a Japanese Masters booster box?"
+      },
+      {
+        "a": "A damaged box has a dented, creased, or scuffed outer box, with the cards inside stated unaffected, sold as-is with no returns. Sometimes it is worth it: the FB-02 damaged box at 5,258 yen, about $33.28, is essentially the official retail price. Sometimes it is not: the FB-05 damaged box at 8,283 yen, about $52.42, costs more than the clean FB11 ask at $49.99. Run the division before you pay.",
+        "q": "What is a damaged box, and is it worth it?"
+      }
+    ],
+    "h1": "Dragon Ball Super Card Game Japanese Booster Box: The Buyer's Guide",
+    "intro": [
+      "Short answer: the Japanese Dragon Ball box you can buy today is a Fusion World box, and the price that matters is the dated market price, not the official 5,280 yen retail figure. The cheapest current ask is FB11 at 7,899 yen, about $49.99, September 29, 2026, and the cheapest damaged-box listing is FB-02 at 5,258 yen, about $33.28, October 21, 2026. Masters has no Japanese box in the current line, only English cases on our shelf from $102.93 a box, plus legacy Japanese Masters boxes from 2017 to 2023 trading secondhand in Japan.",
+      "Who this is for: buyers who want the Japanese box that actually exists, collectors weighing a damaged box against a clean ask, and anyone hunting a listed Japanese Masters box and wanting to know if it is real. Who it is not for: anyone who wants a sealed Japanese box from our shelf today, because we stock English cases and Japanese singles only, and anyone who wants one price for the whole line, because there is none."
+    ],
+    "metaDescription": "Which Japanese Dragon Ball box can you actually buy? Dated asks, damaged-box prices, pre-orders, and the legacy Masters market, priced.",
+    "metaTitle": "Dragon Ball Super Card Game Japanese Box Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The Japanese box is a Fusion World box. Twelve mainline sets run FB01 to FB12, each box holding 24 packs of 6 Japanese cards, at 220 yen a pack for FB01 to FB10 and 240 yen for FB11 and FB12, so the official retail box is 5,280 yen for the first ten sets and 5,760 yen for the last two, about $33.42 and $36.46 at 158 yen per dollar, November 9, 2026. Retail is not the market: the asks are what sellers want, the damaged boxes are what one Tokyo shop lists, and the pre-orders are what the next two sets cost before they exist. Our [two-game guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) runs the official figures; this guide runs the market.",
+          "The Masters buyer gets a different answer. There is no Japanese version of the current Masters line: the official site's region selector has no Japan option, and Neokyo's October 31, 2026 comparison says it is not known whether a Japanese version of Masters is currently being released. The honest buy is an English sealed case from our shelf: cheapest [B25 Legend of the Dragon Balls](/product/dragon-ball-super-card-game-masters-b25-legend-of-the-dragon-balls-booster-box-s/) at $102.93 a box, newest [B32 Chromatic Ascension](/product/dragon-ball-super-card-game-masters-b32-chromatic-ascension-booster-box-sealed-c/) at $104.65 a box on pre-order. The legacy buyer gets a third answer: Japanese Masters boxes did exist, from BT01 Galactic Battle in July 2017 through the BT23 era in 2023, and now trade only on Japanese secondhand markets.",
+          "A collector buys the FB11 ask at about $49.99 or the FB-02 damaged box at about $33.28, checking condition before paying. An opener buys the English Masters case, because no sealed Japanese box sits on our shelf today. A sealed holder pays the B25 or B32 case-split. A legacy hunter buys on Mercari Japan or Yahoo Auctions Japan, with the set code checked first: BT for the old Masters line, FB for Fusion World, B for the current Masters line. Our [Japanese Fusion World price page](/blog/dragon-ball-fusion-world-japanese-price/) runs the same market numbers set by set."
+        ]
+      },
+      {
+        "h": "The money layer: asks, damaged boxes, and the shelf",
+        "math": [
+          "FB11 ask in dollars: Y7,899 / Y158 = $49.99",
+          "FB09 ask in dollars: Y9,099 / Y158 = $57.59",
+          "FB10 ask in dollars: Y10,499 / Y158 = $66.45",
+          "ST01 ask in dollars, Sep 29 2026: Y11,900 / Y158 = $75.32",
+          "ST01 ask fall, Sep 1 to Sep 29 2026: Y21,800 - Y11,900 = Y9,900, -45.4%",
+          "FB-02 damaged box in dollars: Y5,258 / Y158 = $33.28",
+          "FB-04 damaged box in dollars: Y7,014 / Y158 = $44.39",
+          "FB-05 damaged box in dollars: Y8,283 / Y158 = $52.42",
+          "FB-09 damaged box in dollars: Y11,105 / Y158 = $70.28",
+          "FB-10 damaged box in dollars: Y10,719 / Y158 = $67.84",
+          "FB-09 damaged against the ask: Y11,105 - Y9,099 = Y2,006, +22.0%",
+          "FB-10 damaged against the ask: Y10,719 - Y10,499 = Y220, +2.1%",
+          "FB-02 damaged against MSRP: Y5,258 - Y5,280 = -Y22, -0.4%",
+          "FB-04 damaged against MSRP: Y7,014 - Y5,280 = Y1,734, +32.8%",
+          "FB-05 damaged against MSRP: Y8,283 - Y5,280 = Y3,003, +56.9%",
+          "FB12 pre-order against MSRP: $182.92 / $36.46 = 5.02x",
+          "ST02 pre-order against ST01 MSRP: $150.46 / $41.77 = 3.60x",
+          "FB10 tape-cut against the ask: $66.45 - $57.08 = $9.37, 14.1% below",
+          "Cheapest Masters box, B25: $1,235.10 / 12 = $102.93 per box",
+          "Newest Masters box, B32: $1,255.80 / 12 = $104.65 per box",
+          "Cheapest Japanese ask against cheapest Masters box: $102.93 / $49.99 = 2.06x",
+          "Five Japanese singles together: $26.02 + $27.88 + $57.61 + $57.61 + $64.12 = $233.24"
+        ],
+        "paragraphs": [
+          "Start with the asks, the only Japanese box prices that move like a market. September 29, 2026, the lowest SNKRDUNK ask was 7,899 yen for FB11, about $49.99, 9,099 yen for FB09, about $57.59, 10,499 yen for FB10, about $66.45, and 11,900 yen for ST01, about $75.32. June 16, 2026, the asks were 27,800 yen for FB07, about $175.95, 91,000 yen for SB01, about $575.95, and 48,499 yen for SB02, about $306.96. Against official box prices, FB11 trades at 1.37 times and SB01 at 11.49. The asks move fast: ST01 fell 45.4% in 28 days, from 21,800 yen on September 1 to 11,900 yen on September 29.",
+          "The damaged-box tier is the market the top results never price. Samurai Sword Tokyo lists damaged boxes, outer box dented, creased, or scuffed, cards stated unaffected, as of October 21, 2026: FB-02 at 5,258 yen, about $33.28, FB-04 at 7,014 yen, about $44.39, FB-05 at 8,283 yen, about $52.42, FB-09 at 11,105 yen, about $70.28, and FB-10 at 10,719 yen, about $67.84. Against the official 5,280 yen box, FB-02 sits 22 yen below retail, while FB-04 sits 32.8% above it and FB-05 sits 56.9% above it. Against the asks the tier flips: the FB-09 damaged box costs 2,006 yen, 22.0%, more than the September ask, and the FB-10 damaged box costs 220 yen, 2.1%, more. A damaged box is not automatically a discount.",
+          "The pre-orders carry the steepest premiums in the line. The FB12 Japanese box has no current ask, and the only Japanese box price in the market is a pre-order listing at $182.92, 5.02 times the $36.46 official box price, for a set that releases in Japan on December 12, 2026. ST02 follows on January 16, 2027 in Japan, with a pre-order elsewhere at $150.46, 3.60 times the ST01 box price. One tape-cut FB10 box lists at $57.08, 14.1% below the September ask of $66.45, and the condition explains the gap: tape-cut is not sealed. The shelf is the only layer you can pay today: five Japanese singles from $26.02 to $64.12, $233.24 for all five, and English Masters cases from $102.93 a box for B25. Our [pre-order guide](/blog/preorder-japanese-booster-box-or-wait/) covers when a falling ask means wait."
+        ]
+      },
+      {
+        "h": "The decision layer: eight Japanese boxes, one table",
+        "paragraphs": [
+          "Eight rows cover every Japanese box with a dated market price. Yen converts at 158 per dollar, November 9, 2026; the per-pack column divides by 24 packs except ST01, which divides by 20. There is no row for a legacy Japanese Masters box, because no verified sealed price for one exists. The Masters English cases are priced per box and per pack in our [Masters price table](/blog/dragon-ball-super-card-game-japanese-booster-box-price/), cheapest at $102.93 a box for B25.",
+          "Read the table by condition, not by set. The damaged rows are the cheapest way into a sealed Japanese box, and FB-02 at $33.28 undercuts the cheapest clean ask by $16.71, but the discount is not automatic: FB-05 damaged at $52.42 costs more than the FB11 clean ask at $49.99. The ask rows are the clean route, the newest set cheapest of them. The pre-order row is the most expensive route at $7.62 a pack, and it buys certainty about allocation, not cards. Our [best Japanese Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices the same boxes at official retail."
+        ],
+        "table": {
+          "head": [
+            "Japanese box",
+            "Dated market price",
+            "Per pack / per card",
+            "What it is"
+          ],
+          "rows": [
+            [
+              "FB-02 damaged box",
+              "Y5,258, Oct 21 2026 ($33.28)",
+              "Y219/pack, $0.23/card",
+              "Damaged outer box, cards sealed inside"
+            ],
+            [
+              "FB-04 damaged box",
+              "Y7,014, Oct 21 2026 ($44.39)",
+              "Y292/pack, $0.31/card",
+              "Damaged outer box, cards sealed inside"
+            ],
+            [
+              "FB-05 damaged box",
+              "Y8,283, Oct 21 2026 ($52.42)",
+              "Y345/pack, $0.36/card",
+              "Damaged outer box, cards sealed inside"
+            ],
+            [
+              "FB11 ask",
+              "Y7,899, Sep 29 2026 ($49.99)",
+              "Y329/pack, $0.35/card",
+              "Lowest SNKRDUNK ask, sealed"
+            ],
+            [
+              "FB09 ask",
+              "Y9,099, Sep 29 2026 ($57.59)",
+              "Y379/pack, $0.40/card",
+              "Lowest SNKRDUNK ask, sealed"
+            ],
+            [
+              "FB10 ask",
+              "Y10,499, Sep 29 2026 ($66.45)",
+              "Y437/pack, $0.46/card",
+              "Lowest SNKRDUNK ask, sealed"
+            ],
+            [
+              "ST01 ask",
+              "Y11,900, Sep 29 2026 ($75.32)",
+              "Y595/pack, $0.63/card",
+              "Lowest SNKRDUNK ask, sealed, 20-pack box"
+            ],
+            [
+              "FB12 pre-order",
+              "$182.92, Nov 9 2026",
+              "$7.62/pack, $1.27/card",
+              "Pre-order, releases Dec 12, 2026"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top results miss: the damaged tier and the legacy game",
+        "note": "From the Warehouse: the question we get most about Japanese Dragon Ball boxes is whether the cheapest price online is the price, and the honest answer is that the cheapest price is usually a damaged box or a tape-cut box, and the listing photo will not tell you which one it is.",
+        "paragraphs": [
+          "The top results for this question price one listing each and stop there. A UK pre-order page prices the ST02 box at $150.46 and says nothing about ST01. A Japanese box listing prices the FB12 box at $182.92 and says nothing about the $36.46 official box price behind it. A tape-cut FB10 box lists at $57.08 with no mention that the September ask is $66.45. Samurai Sword Tokyo runs the full card list with the dated asks and the damaged-box prices, but prices no shelf and lists no English case. Neokyo compares the two games, prints the $5.99 pack price and the 20-pack B32 box, and prices no box at all. None of the five puts the damaged tier, the ask market, and the shelf in one place.",
+          "That gap hides three findings. First, the damaged tier: five Japanese boxes carry a damaged-box price, and the tier runs from 0.4% below retail to 56.9% above it, so condition is a price, not a discount. Second, the speed of the asks: ST01 fell 45.4% in 28 days, and FB09 fell 23.5% between June 16 and September 29, 2026, so any Japanese box price without a date is stale on arrival. Third, the legacy game: Japanese Masters boxes ran from BT01 in July 2017 through the BT23 era in 2023, and the current line has no confirmed Japanese version, so a buyer searching for one today is hunting a secondhand product, not a current one. Our [buying-from-Japan guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed."
+        ]
+      },
+      {
+        "h": "The risk layer: tape-cut, damaged, pre-order, and the wrong language",
+        "paragraphs": [
+          "The first risk is condition. The FB10 tape-cut listing at $57.08 is 14.1% below the September ask of $66.45, and the gap is the condition: tape-cut is not sealed, and a box whose tape is cut has been opened or handled. The damaged boxes are sold as-is, with no returns and no refunds, and the cards inside are stated unaffected, which is a fair trade for an opener and a poor trade for a sealed collector: a dented FB-05 at $52.42 costs more than a clean FB11 ask at $49.99. Sealed buyers should read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before paying for any loose box, buy the damaged tier for the cards and never for the box, and never pay a damaged price above the clean ask for the same set.",
+          "The second risk is the pre-order. FB12 releases in Japan on December 12, 2026 and in English on December 18, 2026, and the $182.92 Japanese box price is a pre-order listing, not an ask, at 5.02 times the $36.46 official box price. ST02 follows on January 16, 2027, with a pre-order at $150.46 against a $41.77 ST01 box price. Our [B32 English case](/product/dragon-ball-super-card-game-masters-b32-chromatic-ascension-booster-box-sealed-c/) is itself a pre-order at $1,255.80, $104.65 a box, for a November 27, 2026 release. A pre-order premium buys certainty about allocation and is the first number to fall when the set lands.",
+          "The third risk is the wrong language and the wrong game. Japanese cards are not legal in English-format events, so a player who buys Japanese for the table has bought the wrong language. Masters and Fusion World are separate games with separate card pools, and no official statement says their cards play together. Masters listings in Japan include English-version cards, because the game is sold in English in Asia, so a Japanese Masters listing can be an English product at a Japanese price. The recovery is boring: name the game, check the code, confirm the language, and confirm legality with the event organizer. Opening is a losing trade on average: FoilKraken reported on November 1, 2026 that an opened Fusion World box returns 27% of its sealed price, with FB09 the best to open at 60%, still a loss."
+        ]
+      },
+      {
+        "h": "Context: Japanese Masters boxes existed, then stopped",
+        "paragraphs": [
+          "The original Dragon Ball Super Card Game launched in Japan in July 2017 with Galactic Battle, set code BT01, and the Japanese release was real: the Special Rare Son Goku chase card was seeded at approximately one per case, twelve booster boxes, in the initial Japanese release. The Japanese line ran through the BT sets, with BT23 Perfect Combination listed as a December 1, 2023 release, 24 packs of 12 cards and 155 card types. Those boxes are the ones a buyer finds today on Mercari Japan, Yahoo Auctions Japan, Yahoo Flea Market, and Rakuten Japan. No verified sealed price for a legacy Japanese Masters box is published anywhere we checked, so this guide states the gap rather than filling it.",
+          "The current Masters line is a different product. B31 Impact Beyond Dimensions released in North America on July 3, 2026, and B32 Chromatic Ascension follows on November 27, 2026, as the fifth Ultra Bout set and the 9th Anniversary release, with 185 card types and a 20-pack box where B31 and earlier held 24. The official site lists regions in English only, with no Japan option, and Neokyo's October 31, 2026 comparison concludes it is not known whether a Japanese version of Masters is currently being released. Fusion World is now the Japanese game: launched in Japan on February 16, 2024, it runs FB01 to FB12, and the Japanese print is the edition the alternate-art foiling was designed around.",
+          "One configuration is now confirmed by the product itself. The SB01 Manga Booster instruction manual states that each box contains 24 booster packs of 6 cards, 110 card types plus 21 Energy markers, which confirms the 24-pack trade box shape behind the 7,920 yen, $50.13, official box price. Earlier cycles withheld per-pack math for SB01 and SB02 because the pack count was disputed between 20 and 24; the manual settles it at 24, and the SB01 ask of 91,000 yen, about $575.95, is 11.49 times that box price. The [FB08 guide](/blog/fb08-saiyans-pride-buyers-guide/) still calls the $26.02 listing a box; the listing is one card, and this page prices it as one."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants a sealed Japanese box from our shelf today, because there is none: the five Japanese listings are single cards from $26.02 to $64.12. It is not for the buyer who treats a marketplace ask as a sold price: the asks here are dated, and ST01 fell 45.4% in 28 days. It is not for the buyer who wants a Japanese Masters box from the current line, because no such product exists, and the legacy boxes are secondhand only.",
+          "It is also not for the buyer who buys a damaged box expecting a mint outer box: the damaged tier is sold as-is with no returns, and the FB-05 damaged box costs more than the clean FB11 ask. And it is not for the player who needs cards for an English-format event: Japanese cards are not legal there, so buy the English case or the English singles, and keep the Japanese print for the collection."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the game first: Masters or Fusion World, and check the code, B for current Masters, BT for legacy Masters, FB for Fusion World",
+          "If Fusion World Japanese, ask which market price you are looking at: official retail, dated ask, damaged-box listing, or pre-order",
+          "Check the date on any ask: ST01 fell 45.4% between September 1 and September 29, 2026",
+          "Run the damaged-box division before you pay: FB-02 is $33.28, but FB-05 damaged is $52.42, above the clean FB11 ask",
+          "Read the condition before you pay: tape-cut is not sealed, damaged is sold as-is with no returns",
+          "Price the pre-order premium before you pay it: FB12 is 5.02 times retail and ST02 is 3.60 times the ST01 box price",
+          "If Masters, accept there is no Japanese version in the current line; the buy is an English case, divided by twelve boxes",
+          "Confirm the exact shipping quote at checkout or on WhatsApp: no shipping price or delivery time is estimated in this guide"
+        ],
+        "h": "Action layer: the Japanese-box buying checklist",
+        "paragraphs": [
+          "Run this in order before the next Japanese Dragon Ball box you consider. It takes ten minutes and it replaces a single quoted price with the dated market price that actually decides the purchase."
+        ]
+      }
+    ],
+    "slug": "dragon-ball-super-card-game-japanese-booster-box",
+    "takeaway": [
+      "The Japanese Dragon Ball box you can buy today is a Fusion World box, and its price depends on which market you buy it in: the cheapest clean ask is FB11 at about $49.99 as of September 29, 2026, the cheapest damaged-box listing is FB-02 at about $33.28 as of October 21, 2026, and the pre-order route is the dearest, FB12 at $182.92, 5.02 times retail. Masters has no Japanese box in the current line, only English cases from $102.93 a box, and legacy Japanese Masters boxes from 2017 to 2023 that trade secondhand only.",
+      "The damaged tier is the finding no top result prices: five boxes from 0.4% below retail to 56.9% above it, so condition is a price, not a discount. The asks move fast, ST01 falling 45.4% in 28 days, and any Japanese box price without a date is stale on arrival. The SB01 box is now confirmed at 24 packs by its own instruction manual, settling the pack-count dispute from earlier cycles.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, the marketplace asks as of September 29, 2026 or June 16, 2026, the damaged-box prices as of October 21, 2026, and yen converted at 158 per dollar on November 9, 2026. The November 7 two-game guide converts at 154 yen per dollar, so its dollar figures run about 2.6% high against this page. Confirm the shipping quote at checkout, because no shipping price or delivery time is estimated in this guide."
+    ]
+  },
+  "dragon-ball-super-card-game-japanese-booster-box-price": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "By market price, the FB-02 damaged box at 5,258 yen, about $33.28, as of October 21, 2026. By clean ask, FB11 at 7,899 yen, about $49.99, as of September 29, 2026. By shelf price, the B25 Masters case-split at $102.93 a box. The three answers are different because they price three different things.",
+        "q": "What is the cheapest Dragon Ball Super Card Game box?"
+      },
+      {
+        "a": "ToyWiz lists a single B31 box at $449.99, while our B31 case at $1,807.80 divides to $150.65 a box across twelve boxes. Same set, different quantity: a single-box retail ask against a twelve-box case split. Against the $143.76 box retail, the ToyWiz box is 3.13 times retail and our case-split is only $6.89 above it.",
+        "q": "Why does one B31 box cost $449.99 and another $150.65?"
+      },
+      {
+        "a": "Buy the Japanese ask if you want the Japanese print sealed and you accept an asking price that moves: FB11 at $49.99 against a Masters case at $102.93 a box. Buy the Masters case if you want sealed boxes in bulk from a shelf price you can pay today, from $102.93 a box for B25. Buy the single if you want one named card, because the dearest single on our shelf is $64.12 and no box guarantees the card you want.",
+        "q": "Should I buy the Japanese box or the Masters case?"
+      }
+    ],
+    "h1": "Dragon Ball Super Card Game Japanese Booster Box Prices, Priced",
+    "intro": [
+      "Short answer: the cheapest sealed Dragon Ball box you can pay for today is the Japanese FB-02 damaged box at 5,258 yen, about $33.28, as of October 21, 2026, and the cheapest clean ask is FB11 at 7,899 yen, about $49.99, as of September 29, 2026. The cheapest sealed box on our shelf is the Masters B25 case-split at $102.93 a box, and the dearest box price in the market is the ToyWiz B31 box at $449.99, 2.99 times our B31 case-split price.",
+      "Who this is for: buyers who want the price of a named Dragon Ball box before they pay, and collectors comparing the Japanese ask against the English case. Who it is not for: anyone who wants a single price for the whole line, because there is none, and anyone who treats an ask or a damaged-box listing as a sold price."
+    ],
+    "metaDescription": "Every Dragon Ball box price in one table: Fusion World Japanese asks, Masters cases divided, and outside box prices - B20 to B32, FB01 to FB12.",
+    "metaTitle": "Dragon Ball Super Card Game Japanese Box Prices",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "Four different prices answer four different questions. The official price is what Bandai prints: 5,280 yen a box for FB01 to FB10 and 5,760 yen for FB11 and FB12, about $33.42 and $36.46 at 158 yen per dollar on November 9, 2026, and $5.99 a pack for Masters, $143.76 a box for B20 to B31 and $119.80 for B32. The ask is what the Japanese secondary market wants, dated September 29, 2026 for FB09, FB10, FB11, and ST01. The damaged tier is what one Tokyo shop lists for dented boxes, dated October 21, 2026. The shelf is what you can pay today: thirteen English Masters cases from $102.93 to $178.36 a box, excluding B27.",
+          "A collector buys the FB11 ask at about $49.99 or the FB-02 damaged box at about $33.28. An opener buys the [B25 case-split](/product/dragon-ball-super-card-game-masters-b25-legend-of-the-dragon-balls-booster-box-s/) at $102.93 a box, $4.29 a pack, the cheapest per-pack price on our shelf. A sealed holder pays the [B32 case-split](/product/dragon-ball-super-card-game-masters-b32-chromatic-ascension-booster-box-sealed-c/) at $104.65 a box on pre-order, the newest set. A buyer who wants one named card buys the single: the dearest Japanese single on our shelf is FB09 at $64.12, still less than the cheapest Masters box. A buyer who pays $449.99 for a single B31 box elsewhere has paid 2.99 times our case-split price."
+        ]
+      },
+      {
+        "h": "The money layer: two games, every box divided",
+        "math": [
+          "Fusion World Japanese box MSRP, FB01-FB10: Y5,280 / Y158 = $33.42",
+          "Fusion World Japanese box MSRP, FB11-FB12: Y5,760 / Y158 = $36.46",
+          "FB11 ask in dollars: Y7,899 / Y158 = $49.99",
+          "FB09 ask in dollars: Y9,099 / Y158 = $57.59",
+          "FB10 ask in dollars: Y10,499 / Y158 = $66.45",
+          "ST01 ask fall, Sep 1 to Sep 29 2026: Y21,800 - Y11,900 = Y9,900, -45.4%",
+          "FB-02 damaged box in dollars: Y5,258 / Y158 = $33.28",
+          "Cheapest Masters box, B25: $1,235.10 / 12 = $102.93 per box; $102.93 / 24 = $4.29 per pack; $4.29 / 12 = $0.36 per card",
+          "Newest Masters box, B32: $1,255.80 / 12 = $104.65 per box; $104.65 / 20 = $5.23 per pack; $5.23 / 12 = $0.44 per card",
+          "Dearest Masters box ex-B27, B20: $2,140.36 / 12 = $178.36 per box; $178.36 / 24 = $7.43 per pack; $7.43 / 12 = $0.62 per card",
+          "Masters box MSRP, B20-B31: $5.99 x 24 = $143.76 per box; B32: $5.99 x 20 = $119.80 per box",
+          "B25 against MSRP: $143.76 - $102.93 = $40.83 below, 28.4% under retail",
+          "B32 against MSRP: $119.80 - $104.65 = $15.15 below, 12.6% under retail",
+          "B31 ToyWiz box against our B31: $449.99 / $150.65 = 2.99x",
+          "B31 ToyWiz box against MSRP: $449.99 / $143.76 = 3.13x",
+          "Masters spread ex-B27: $178.36 - $102.93 = $75.43 per box",
+          "Cheapest Japanese ask against cheapest Masters box: $102.93 / $49.99 = 2.06x",
+          "Five Japanese singles against the B25 case: $1,235.10 / $233.24 = 5.30x"
+        ],
+        "paragraphs": [
+          "Start with the Japanese side. A mainline box is 24 packs: 220 yen a pack for FB01 to FB10, 5,280 yen a box, about $33.42, and 240 yen a pack for FB11 and FB12, 5,760 yen a box, about $36.46. The asks sit above that floor: FB11 at $49.99 is 1.37 times retail, FB09 at $57.59 is 1.72, FB10 at $66.45 is 1.99, ST01 at $75.32 is 1.80, FB07 at $175.95 is 5.27, SB02 at $306.96 is 6.12, and SB01 at $575.95 is 11.49. The damaged tier sits on both sides of the floor: FB-02 at $33.28 is 22 yen below retail, FB-04 at $44.39 is 32.8% above it, FB-05 at $52.42 is 56.9% above it.",
+          "The Masters ladder maps to what you can actually put in a cart here. Every Masters case on our shelf holds twelve boxes, B32 holds 20 packs a box and B20 to B31 hold 24, all live case prices as of November 9, 2026. The value tier is B25 at $102.93 a box and $4.29 a pack, B32 at $104.65 and $5.23, B28 at $106.38 and $4.43, B26 at $112.78 and $4.70, and B24 at $116.15 and $4.84. The mid tier runs B22 at $132.33 to B31 at $150.65. The dear tier is B20 at $178.36, B27 at $776.25 is not a tier but a sealed collectible priced on scarcity, a likely catalog outlier at 5.15 times the next-dearest case, excluded from every dearest claim on this page.",
+          "Two gaps decide real purchases. First, B25 at $4.29 a pack undercuts the $5.99 US retail pack price by $1.70 a pack, and B32 at $104.65 a box undercuts its $119.80 box retail by $15.15. Second, the outside box prices show what a single box costs elsewhere: ToyWiz lists a B31 box at $449.99, 2.99 times our B31 case-split of $150.65 and 3.13 times the $143.76 box retail; a UK shop lists the same box at 136.99 pounds, a Canadian shop at B31 C$219.95, B30 C$249.95, B28 C$229.95.",
+          "Shipping is free over $500: any Masters case clears it alone, twenty FB08 singles at $520.40 clear it, eight FB09 singles at $512.96 clear it. Opening is a losing trade on average: FoilKraken reported on November 1, 2026 that an opened Fusion World box returns 27% of its sealed price, FB09, the best set to open, returns 60%, still a loss. Our [open-or-keep-sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) runs the same return math across the whole shelf."
+        ]
+      },
+      {
+        "h": "The decision layer: every box price, one table",
+        "paragraphs": [
+          "Ten rows cover the whole price question. Yen converts at 158 per dollar, November 9, 2026; shelf prices are ours as of the same date. The Japanese rows divide by 24 packs except ST01, which divides by 20, and the Masters rows divide by 12 boxes and then by 24 packs, except B32, which divides by 20. The B27 case at $776.25 a box is deliberately absent, flagged as a likely catalog outlier at 5.15 times the next-dearest case, so the dearest trusted box price here is the ToyWiz B31 at $449.99.",
+          "Read the table by column, not by row. The price column is the market, and its gaps are honest: eight Fusion World sets carry no current ask, and the table leaves them out. The per-pack column is the verdict: the Japanese damaged box at $0.23 a card and the FB11 ask at $0.35 a card are the cheapest cards in the table, the B25 case-split at $0.36 a card is the cheapest sealed Masters route, and the ToyWiz B31 at $1.56 a card is the dearest, 4.33 times the B25 card. The [best Fusion World booster box page](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the English cases; our [Japanese Fusion World price page](/blog/dragon-ball-fusion-world-japanese-price/) runs the full fifteen-set table."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Price, Nov 9 2026",
+            "Per pack / per card",
+            "What it is"
+          ],
+          "rows": [
+            [
+              "FB-02 damaged box",
+              "Y5,258, Oct 21 2026 ($33.28)",
+              "Y219/pack, $0.23/card",
+              "Damaged outer box, sealed inside"
+            ],
+            [
+              "FB11 Japanese ask",
+              "Y7,899, Sep 29 2026 ($49.99)",
+              "Y329/pack, $0.35/card",
+              "Lowest SNKRDUNK ask, sealed"
+            ],
+            [
+              "FB09 Japanese ask",
+              "Y9,099, Sep 29 2026 ($57.59)",
+              "Y379/pack, $0.40/card",
+              "Lowest SNKRDUNK ask, sealed"
+            ],
+            [
+              "FB10 Japanese ask",
+              "Y10,499, Sep 29 2026 ($66.45)",
+              "Y437/pack, $0.46/card",
+              "Lowest SNKRDUNK ask, sealed"
+            ],
+            [
+              "ST01 Japanese ask",
+              "Y11,900, Sep 29 2026 ($75.32)",
+              "Y595/pack, $0.63/card",
+              "Lowest SNKRDUNK ask, sealed, 20-pack box"
+            ],
+            [
+              "FB12 pre-order",
+              "$182.92",
+              "$7.62/pack, $1.27/card",
+              "Pre-order, releases Dec 12, 2026"
+            ],
+            [
+              "B25 Masters case-split",
+              "$102.93/box",
+              "$4.29/pack, $0.36/card",
+              "English case $1,235.10, 12 boxes"
+            ],
+            [
+              "B32 Masters case-split",
+              "$104.65/box",
+              "$5.23/pack, $0.44/card",
+              "English case $1,255.80, pre-order, 20-pack box"
+            ],
+            [
+              "B20 Masters case-split",
+              "$178.36/box",
+              "$7.43/pack, $0.62/card",
+              "English case $2,140.36, 12 boxes"
+            ],
+            [
+              "B31 ToyWiz box",
+              "$449.99",
+              "$18.75/pack, $1.56/card",
+              "Outside retail box, single box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top results miss: one table, two games, three markets",
+        "note": "From the Warehouse: the question we get most about Dragon Ball prices is which number is the price, and the honest answer is that there are four of them, official, ask, damaged, and shelf, and the buyer who quotes only one of them is quoting the wrong one for their purchase.",
+        "paragraphs": [
+          "The top results for this question price one listing each and stop there. A UK pre-order page prices the ST02 box at $150.46 and says nothing about ST01. A Japanese box listing prices the FB12 box at $182.92 and says nothing about the $36.46 official box price behind it. A tape-cut FB10 box lists at $57.08 and says nothing about the $66.45 ask. Samurai Sword Tokyo runs the full card list with the dated asks and the damaged-box prices, but prices no shelf and lists no English case. Neokyo compares Masters and Fusion World as games and prints the $5.99 pack price, but no case price and no per-box division. None of the five puts both games in one table.",
+          "That gap hides three findings. First, the shelf beats retail: B25 at $102.93 a box is $40.83, or 28.4%, below the $143.76 box retail, and B32 at $104.65 is $15.15 below its $119.80 retail. Second, the outside box is the dearest route: the ToyWiz B31 at $449.99 costs 2.99 times our B31 case-split of $150.65. Third, the asks move: ST01 fell 45.4% in 28 days, FB09 fell 23.5% and FB10 fell 7.9% between June 16 and September 29, 2026, so any Dragon Ball box price without a date is stale on arrival."
+        ]
+      },
+      {
+        "h": "The risk layer: asks are not prices, pre-orders are not boxes, B27 is not a play purchase",
+        "paragraphs": [
+          "The first risk is treating an ask as a price. SNKRDUNK asks are the lowest prices sellers are asking, not the prices buyers paid, and they move: FB09 fell 23.5%, FB10 fell 7.9%, and ST01 fell 45.4% in 28 days. Every ask here carries its date; any ask without one should be treated as stale. The table's missing sets are sets with no current ask, and the honest price for those sets is the shelf price or no price at all.",
+          "The second risk is the pre-order. FB12 releases in Japan on December 12, 2026 and in English on December 18, 2026, and the $182.92 Japanese box price is a pre-order listing, not an ask, at 5.02 times the $36.46 official box price. ST02 follows on January 16, 2027, with a pre-order at $150.46 against a $41.77 ST01 box price. Our [B32 English case](/product/dragon-ball-super-card-game-masters-b32-chromatic-ascension-booster-box-sealed-c/) is itself a pre-order at $1,255.80, $104.65 a box, for a November 27, 2026 release. A pre-order premium buys certainty about allocation and is the first number to fall when the set lands.",
+          "The third risk is B27. At $776.25 a box and $32.34 a pack, History of Z is priced on sealed scarcity, which can loosen, and a case bought at a scarcity price can retrace on your shelf. It is flagged as a likely catalog outlier, 5.15 times the next-dearest case, so this page excludes it from every dearest claim. Never pay scarcity prices with money you need back on a date, and store sealed product properly, as our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/) explains. Read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening anything at this price.",
+          "The fourth risk is the box that is not a box. Our five Japanese listings are single cards, and the FB08 guide's $1.08-a-pack division is the proof of how easy the mistake is: divide $26.02 by 24 packs and you get a pack price for a product that has no packs. The Manga Booster pack count is now settled at 24 by the SB01 instruction manual, so the $50.13 box price stands. Opening is a losing trade on average: FoilKraken reported on November 1, 2026 that an opened Fusion World box returns 27% of its sealed price, with FB09 the best to open at 60%, still a loss."
+        ]
+      },
+      {
+        "h": "Context: why the cheapest box is $33.28 and the dearest trusted price is $449.99",
+        "paragraphs": [
+          "The multiples follow the story of each set, not the order of release. FB-02 sits at retail in the damaged tier because it is the second set of the line. FB-05 sits 56.9% above retail damaged because it is the Dokkan Battle collaboration set. SB01 sits at 11.49 times retail because it marked the 40th manga anniversary, shipped 110 types plus 21 markers at 330 yen a pack, and sold at first by lottery through Toei Animation's store. FB11 sits at 1.37 times because it is the newest set, released September 12, 2026 with a Dragon Ball Legends collaboration.",
+          "The Masters side follows a different logic. B25 is the cheapest case on our shelf because Legend of the Dragon Balls is the deepest-stocked case, and B20 is the dearest trusted case because Power Absorbed is the oldest Ultra Bout case we hold. B31 at $449.99 elsewhere is not a market price for the set: it is a single-box retail ask, and the same set divides to $150.65 a box from our case. The [FB09 guide](/blog/fb09-dual-evolution-buyers-guide/) and [FB07 guide](/blog/fb07-wish-for-shenron-buyers-guide/) price the two sets where the chase ladder changed.",
+          "The currency is the last number to check. Yen converts at 158 per dollar on November 9, 2026: exchange-rates.org printed 157.95 to 158.03, WaveRate 158.25, MigraPay 158.09. The November 7 two-game guide converts at 154 yen per dollar, so its dollar figures run about 2.6% high against this page. The rarity ladder sets the ceiling no box price can cross: Leader, Common, Uncommon, Rare, Super Rare, Secret Rare, with the chase tier stepping up from SCR to SCR star to SCR double-star, and there is no God Rare in Fusion World."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one price for Dragon Ball Super Card Game boxes. There is none: the official price, the ask, the damaged-box price, and the shelf price are four different numbers. It is not for the buyer who treats a marketplace ask as a sold price: the asks here are dated, and ST01 fell 45.4% in 28 days. It is not for the buyer who wants a sealed Japanese box from our shelf today, because there is none, and the five Japanese listings are single cards.",
+          "It is also not for the buyer who wants the cheapest Dragon Ball box of any kind without checking the game: the B25 Masters case at $102.93 a box undercuts every Fusion World case, but Masters cards do not play in Fusion World. And it is not for the buyer who needs a price for FB01 to FB06 today: there is no current ask for those sets, and this guide states the gap rather than filling it with a guess."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the set before you name the price: FB01 to FB12, SB01, SB02, or ST01 for Fusion World, B20 to B32 for Masters, and check the set code on the listing",
+          "Ask which of the four prices you are looking at: official, dated ask, damaged-box listing, or our shelf price",
+          "Check the date on any ask: ST01 fell 45.4% between September 1 and September 29, 2026",
+          "Divide any English case by 12 boxes and 24 packs before you compare it to a Japanese ask: B25 is $102.93 a box and $4.29 a pack, except B32, which divides by 20",
+          "Read the listing title before you pay: our five Japanese listings end in Card, and the photo shows box art, not the card",
+          "Price the pre-order premium before you pay it: FB12 is 5.02 times retail and ST02 is 3.60 times the ST01 box price",
+          "Compare the outside box against our case-split before you pay retail ask: the ToyWiz B31 is $449.99 against our $150.65 a box",
+          "Run the whole division again on the day you buy, because asks move, shelf prices move, and yesterday's $49.99 is not a promise"
+        ],
+        "h": "Action layer: the Dragon Ball box price checklist",
+        "paragraphs": [
+          "Run this in order before the next Dragon Ball box price you pay: it replaces a single quoted number with the four prices that decide the purchase."
+        ]
+      }
+    ],
+    "slug": "dragon-ball-super-card-game-japanese-booster-box-price",
+    "takeaway": [
+      "Every Dragon Ball box price lives in one table now: the Japanese damaged tier from $33.28, the clean asks from $49.99 for FB11 to $575.95 for SB01, the pre-orders at $182.92 for FB12 and $150.46 for ST02, our Masters cases from $102.93 a box for B25 to $178.36 for B20, and the outside B31 box at $449.99. Eight Fusion World sets carry no current ask, and the table leaves them out rather than inventing one.",
+      "The multiples are the story: the B25 case-split beats US retail by $40.83 a box, the ToyWiz B31 costs 2.99 times our case-split for the same set, SB01 trades at 11.49 times retail on the anniversary lottery, and the FB09 English box at 6.99 times the Japanese ask is the gap between the two languages stated as a number. B27 at $776.25 a box is excluded as a likely catalog outlier.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, the marketplace asks as of September 29, 2026 or June 16, 2026, the damaged-box prices as of October 21, 2026, and yen converted at 158 per dollar on November 9, 2026. An ask without a date is stale, a pre-order premium is the price of the wait, and a single-box retail ask is the most expensive way to buy a Masters box."
     ]
   },
   "eb-01-japanese-vs-english-which-to-buy": {
