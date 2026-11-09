@@ -21847,7 +21847,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30, November 6, and November 7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Tokyo listing for a sealed box was $85.62, so our box costs $17.02 more, and the case-split box costs $10.47 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came five months before Raging Surf at the same $102.64 a box, but with a case that saves only $28.81, and a chase, the Iono SAR at $296.26, that costs 2.89 boxes.",
-      "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices the first Paradox Rift component at $91.61 a box, with a case that saves $116.52, and the Roaring Moon ex SAR at $40.22, or 0.44 times a box."
+      "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices the first Paradox Rift component at $91.61 a box, with a case that saves $116.52, and the Roaring Moon ex SAR at $40.22, or 0.44 times a box.",
+      "New this cycle: the [SV4M Future Flash buyer's guide](/blog/sv4m-future-flash-buyers-guide/) prices the October twin of Ancient Roar at $88.27 a box, with a case that saves $176.78 against twelve singles."
     ]
   },
   "sv4a-shiny-treasure-ex-buyers-guide": {
@@ -22214,7 +22215,253 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV4K box at $91.61 sits low on the 30-pack shelf at $3.05 a pack, and $0.61 a card, for 150 cards from a 94-card set. The case at $982.80 is the sealed buy: $81.90 a box and $2.73 a pack, saving $116.52 against twelve singles. The set is 94 cards, released October 27, 2023, and the chase is the Roaring Moon ex Special Art Rare, which carried a $40.22 market price on November 7, 2026, or 0.44 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace figures as of November 7 and November 8, 2026. No pull rate is guaranteed, and the box can hold zero Roaring Moon cards. The twin box, Future Flash, is $88.27, so Ancient Roar costs $3.34 more per box: pay the premium for the Roaring Moon chase.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Raging Surf guide](/blog/sv3a-raging-surf-buyers-guide/) prices the third Paradox Rift component the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the April 2023 set at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90, or 0.42 times a box."
+      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the April 2023 set at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90, or 0.42 times a box.",
+      "New this cycle: the [SV4M Future Flash buyer's guide](/blog/sv4m-future-flash-buyers-guide/) prices the cheaper October twin at $88.27 a box, with a case that saves $176.78, or $60.26 more than this set's case."
+    ]
+  },
+  "sv4m-future-flash-buyers-guide": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Future Flash chase and accept $2.94 a pack, which is $0.59 a card for 150 cards from a 95-card set. The case is the better sealed buy at $73.54 a box, saving $176.78 against twelve singles. For profit, no: no box guarantees the Iron Valiant ex Special Art Rare, which carried a $24.45 TCGplayer market price on November 8, 2026, and no reprint has been announced but a reprint would cut the sealed premium.",
+        "q": "Is SV4M Future Flash worth buying?"
+      },
+      {
+        "a": "Thirty packs of 5 cards, or 150 cards per box, at 180 yen a pack and 5,400 yen a box in Japan. The case holds 12 boxes, or 360 packs and 1,800 cards. The 30-pack figure carries the usual caveat: Bulbapedia notes it is taken from a sibling set, but it matches every retailer listing and the 5,400 yen box price.",
+        "q": "How many packs are in a Future Flash booster box?"
+      },
+      {
+        "a": "Altaria ex Special Art Rare 090/066, last listed near $49.99 ungraded in March 2026, with a PSA 10 near $105. No current November 2026 Japanese raw price could be verified, so this guide stamps the figure March 2026. The English twin of the same art, Paradox Rift 253/182, carried a $43.67 TCGplayer market price on November 7, 2026. Iron Valiant ex Special Art Rare 089/066, the mascot, carried a $24.45 TCGplayer market price on November 8, 2026.",
+        "q": "What is the most valuable card in Future Flash?"
+      }
+    ],
+    "h1": "SV4M Future Flash: The Buyer's Guide, Priced",
+    "intro": [
+      "Future Flash is the cheaper twin of the October 2023 dual release, and the shelf math says so twice over: the box is $88.27, the case is $882.46, and the case saves $176.78 against twelve single boxes. Buy the single for Iron Valiant ex at $24.45, the case for sealed Future Flash at $73.54 a box, and one box only for the opening itself.",
+      "This guide divides both Warehouse prices, prices every chase single with its date, settles the Ancient Roar fork with the same shelf, and names the buyers who should walk away. Warehouse prices are from November 9, 2026, and every yen figure converts at 158.43 yen to the dollar."
+    ],
+    "metaDescription": "Is SV4M Future Flash worth buying? The Warehouse divides the $88.27 box and $882.46 case, prices the chase singles, and settles the Ancient Roar fork.",
+    "metaTitle": "SV4M Future Flash: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "Start with the buyer, not the box. A collector who opens packs wants the set, and one box gets most of it: 30 packs of 5 cards put 150 cards in hand from a 95-card set, so the first box covers the main set once over and the second box is mostly cards already owned. Open one box, then buy the missing singles.",
+          "A sealed holder should buy the [case](/product/sv4m-future-flash-sealed-case-12-boxes-japanese-pokemon-card/), not twelve singles. The case at $882.46 divides to $73.54 a box, $2.45 a pack, and $0.49 a card, and it saves $176.78 against twelve single boxes at $88.27 each. Twelve singles cost $1,059.24, so the case is the discount, and the per-box saving is $14.73. A case splitter works from the same division: $73.54 a box is the floor for every box that leaves the case.",
+          "A single-card chaser should not buy a box at all. Iron Valiant ex Special Art Rare 089/066 carried a $24.45 TCGplayer market price on November 8, 2026, which is 28 percent of one box, and Altaria ex Special Art Rare 090/066, the set's most valuable card, was last listed near $49.99 in March 2026. The two together cost $74.44, $13.83 less than one box, with no pull risk at all.",
+          "A sealed investor buying on the reprint question should know no reprint has been announced, and the box price trend is flat to firm: Cardz recorded a last sale of $63.86 on November 7, 2026, with 170 boxes sold in six months and the trend labelled Accumulating. That is a holding pattern, not a collapse, and not a surge either."
+        ]
+      },
+      {
+        "h": "The Warehouse math: what $88.27 and $882.46 buy",
+        "math": [
+          "SV4M box per pack: $88.27 / 30 = $2.94 per pack",
+          "SV4M box per card: $88.27 / 150 = $0.59 per card",
+          "SV4M case per box: $882.46 / 12 = $73.54 per box",
+          "SV4M case per pack: $882.46 / 360 = $2.45 per pack",
+          "SV4M case per card: $882.46 / 1,800 = $0.49 per card",
+          "Twelve single boxes: 12 x $88.27 = $1,059.24",
+          "Case saving: $1,059.24 - $882.46 = $176.78",
+          "Case saving per box: $176.78 / 12 = $14.73 per box",
+          "Box vs SV4K box: $91.61 - $88.27 = $3.34 cheaper",
+          "Case vs SV4K case: $982.80 - $882.46 = $100.34 cheaper",
+          "Case saving vs SV4K: $176.78 - $116.52 = $60.26 more saved",
+          "Case per-box vs SV4K: $81.90 - $73.54 = $8.36 cheaper",
+          "Iron Valiant ex SAR vs box: $24.45 / $88.27 = 27.7% of a box",
+          "Box vs Iron Valiant ex SAR: $88.27 / $24.45 = 3.61 singles per box",
+          "Top two SARs: $24.45 + $49.99 = $74.44 (Altaria price as of Mar 2026)",
+          "Top two SARs vs box: $88.27 - $74.44 = $13.83 left over",
+          "MSRP in dollars: 5,400 yen / 158.43 yen = $34.08",
+          "SST sealed box: 9,947 yen / 158.43 yen = $62.78",
+          "SST no-shrink box: 9,541 yen / 158.43 yen = $60.22",
+          "SNKRDUNK lowest ask: 9,300 yen / 158.43 yen = $58.70",
+          "Warehouse premium vs SST sealed: $88.27 - $62.78 = $25.49",
+          "Warehouse premium vs SNKRDUNK ask: $88.27 - $58.70 = $29.57",
+          "Warehouse premium vs Cardz last sold: $88.27 - $63.86 = $24.41"
+        ],
+        "paragraphs": [
+          "The box is the unit everything else divides from. At $88.27 for 30 packs, the [box](/product/sv4m-future-flash-booster-box-japanese-pokemon-card/) costs $2.94 a pack and $0.59 a card, and those two numbers are the test for every other price on this page. A loose pack dearer than $2.94 is worse than the box.",
+          "The case is where the shelf rewards the bigger buy. At $882.46 for 12 boxes, the case costs $73.54 a box, $2.45 a pack, and $0.49 a card, against $2.94 a pack and $0.59 a card for a single box. The case saves $176.78 against twelve singles, or $14.73 a box, the largest saving of the two October twins: the [Ancient Roar case](/blog/sv4k-ancient-roar-buyers-guide/) saves $116.52, so Future Flash saves $60.26 more. The cheaper twin is also the better case deal, and the per-box case price undercuts Ancient Roar's $81.90 by $8.36.",
+          "The comparison that decides most buyers is the one against the twin on the same shelf. The Future Flash box at $88.27 is $3.34 cheaper than the Ancient Roar box at $91.61, and the Future Flash case at $882.46 is $100.34 cheaper than the Ancient Roar case at $982.80. Nothing else about the two sets is priced this far apart: same release day, same 30-pack box, same 180 yen pack price, and the only difference that matters is which chase cards sit inside. The [sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) runs the same division across the whole shelf, and Future Flash sits near the top of it."
+        ]
+      },
+      {
+        "h": "The chase singles vs the box",
+        "paragraphs": [
+          "The set has 95 cards: 66 in the main set and 29 secrets, split 12 Art Rares, 9 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The third Ultra Rare is what separates Future Flash from its twin: Basic Metal Energy 095/066, an energy card at the top of the numbering, where Ancient Roar stops at two Ultra Rares. Iron Valiant ex is the mascot and appears three times, as a regular ex at 038/066, as the Special Art Rare at 089/066, and as the Ultra Rare at 093/066, but the most valuable card is Altaria ex Special Art Rare 090/066, not the mascot.",
+          "The pull rates are estimates, not promises, because The Pokemon Company publishes none. Community-observed figures for the era put an Art Rare near 3 per box, a Special Art Rare near 1 per 1 to 3 boxes, and an Ultra Rare near 1 per 6 to 7 boxes. No measured sample exists for this set alone. A box that costs $88.27 and holds no guaranteed Special Art Rare is a gamble on the chase, and the gamble is priced in the singles: Iron Valiant ex at $24.45 is 28 percent of the box, and the top two Special Art Rares together are $74.44 against an $88.27 box.",
+          "There is no complete-set cost to quote for Future Flash, because no tracker published one that this guide could verify. That gap matters for a collector: the set cannot be priced as a finished binder the way [Ancient Roar](/blog/sv4k-ancient-roar-buyers-guide/) can at $211.05 or [Snow Hazard](/blog/sv2p-snow-hazard-buyers-guide/) at $243.87. Buy the box for the opening and the singles for the set."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Warehouse price, Nov 9 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV4M box",
+              "$88.27",
+              "30 packs, 150 cards",
+              "$88.27 / $2.94 / $0.59"
+            ],
+            [
+              "SV4M case",
+              "$882.46",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$73.54 / $2.45 / $0.49"
+            ],
+            [
+              "Iron Valiant ex SAR single",
+              "$24.45 (TCGplayer market, Nov 8 2026)",
+              "1 card, the mascot",
+              "0.28x a box"
+            ],
+            [
+              "Altaria ex SAR single",
+              "~$49.99 (as of Mar 2026)",
+              "1 card, the most valuable",
+              "0.57x a box"
+            ],
+            [
+              "Top two SARs",
+              "$74.44",
+              "2 cards, both chases",
+              "0.84x a box"
+            ],
+            [
+              "SV4K box (twin)",
+              "$91.61",
+              "30 packs, 150 cards",
+              "$91.61 / $3.05 / $0.61"
+            ],
+            [
+              "SV4K case (twin)",
+              "$982.80",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$81.90 / $2.73 / $0.55"
+            ],
+            [
+              "Battle Partners box",
+              "$84.97",
+              "30 packs, 150 cards",
+              "$84.97 / $2.83 / $0.57"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Ancient Roar vs Future Flash: the fork",
+        "paragraphs": [
+          "The two sets were released on the same day, October 27, 2023, with the same 30-pack box, the same 5 cards per pack, and the same 180 yen pack price in Japan. They split the Paradox Pokemon between them, Ancient Roar holding the ancient forms and Future Flash the future forms, and the type pools do not overlap: Future Flash holds no Darkness-type Pokemon, and Ancient Roar holds no Lightning-type or Metal-type Pokemon. The choice between them is a choice of chase, not a choice of format.",
+          "On price, Future Flash wins every line of the table. Its box is $3.34 cheaper, its case is $100.34 cheaper, its case saves $60.26 more, and its per-box case price is $8.36 lower. A buyer who wants sealed product and has no strong feeling about Roaring Moon should buy Future Flash and keep the difference. A buyer who wants Roaring Moon ex Special Art Rare at $40.22 has no substitute in Future Flash: Iron Valiant ex at $24.45 is cheaper, but it is a different card.",
+          "Both sets fold into the same English twin, Scarlet and Violet Paradox Rift, released November 3, 2023 with 266 cards. Paradox Rift takes its cards from Ancient Roar, Future Flash, and [Raging Surf](/blog/sv3a-raging-surf-buyers-guide/) in roughly equal thirds, so an English buyer gets both twins in one set and a Japanese buyer picks a side. The Raging Surf third is the other fork on this shelf."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Ancient Roar (SV4K)",
+            "Future Flash (SV4M)"
+          ],
+          "rows": [
+            [
+              "Release",
+              "Oct 27, 2023",
+              "Oct 27, 2023"
+            ],
+            [
+              "Cards",
+              "94 (66 + 28)",
+              "95 (66 + 29)"
+            ],
+            [
+              "Secret split",
+              "12 AR, 9 SR, 5 SAR, 2 UR",
+              "12 AR, 9 SR, 5 SAR, 3 UR"
+            ],
+            [
+              "Box, Warehouse",
+              "$91.61",
+              "$88.27"
+            ],
+            [
+              "Case, Warehouse",
+              "$982.80",
+              "$882.46"
+            ],
+            [
+              "Case per box",
+              "$81.90",
+              "$73.54"
+            ],
+            [
+              "Case saving",
+              "$116.52",
+              "$176.78"
+            ],
+            [
+              "Top chase",
+              "Roaring Moon ex SAR $40.22",
+              "Altaria ex SAR ~$49.99 (Mar 2026)"
+            ],
+            [
+              "Mascot",
+              "Roaring Moon ex",
+              "Iron Valiant ex"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top three miss",
+        "note": "From the Warehouse: the question we get most about the October twins is which one to buy, and the answer in chat is the one on this page. The Future Flash box is $3.34 cheaper and its case saves $60.26 more, so a buyer who wants sealed product buys Future Flash, and a buyer who wants Roaring Moon buys the single for $40.22. The fork is a price question with a chase answer, and the shelf settles both.",
+        "paragraphs": [
+          "Search for whether Future Flash is worth buying and the top three results answer almost nothing. The first is a top-ten card list from February 2026, updated in March, which prices the cards but never divides a box, never tests a single against a box, and never calls a buy or a pass. The second is a price-tracker row: a last sale of $63.86, 170 sold in six months, and a trend labelled Accumulating, with no guidance attached. The third is a single-card price page for Steelix. None of them is a buyer's guide, and that is the opening this page takes.",
+          "What none of them covers is the division itself: no result divides the live box price into a per-pack or per-card cost, divides the case into a per-box price, or runs the case against twelve singles to find the saving. No result prices the Ancient Roar fork from one shelf, and no result says who should not buy. This page owns all five, because the Warehouse shelf is the only source that holds the box, the case, and the twin at the same time.",
+          "The staleness matters too. The top-ten list's prices are eight months old, and its Altaria figure of about $49.99 is the best Japanese raw price available anywhere, which is why this guide stamps it March 2026. A price with a date is useful; a price without one is a trap. Every figure on this page carries its date, and the one that could not be re-checked says so."
+        ]
+      },
+      {
+        "h": "Who should not buy Future Flash",
+        "paragraphs": [
+          "A buyer chasing profit should not buy this box to flip the pulls. No box guarantees a Special Art Rare, the community estimate is roughly one per one to three boxes, and the most valuable card's price is eight months stale, which means the upside is unpriced as much as it is uncertain. The dated warning is the Destined Rivals Elite Trainer Box: near $280 in April 2026, halved to $120.56 by August 23, 2026 once reprint stock reached retail. No reprint has been announced for Future Flash, but the mechanism is real, and a reprint kills a scarcity premium in weeks.",
+          "A player who needs cards for sanctioned English-region Standard events should not buy Japanese Future Flash for play. Japanese prints are not legal in sanctioned English-region Standard tournaments, so the box is a collector's product and a sealed product, not a deck-building one. The English twin, Paradox Rift, is the playable version: its Iron Valiant ex hyper rare carried a $4.31 to $4.49 TCGplayer market price on November 7 and 8, 2026, against $24.45 for the Japanese Special Art Rare.",
+          "A buyer hunting the cheapest box on earth should not stop here either. The Warehouse box at $88.27 sits $25.49 above the Samurai Sword Tokyo sealed listing of 9,947 yen, $29.57 above the lowest SNKRDUNK ask of 9,300 yen, and $24.41 above the Cardz last sale of $63.86, all converted at 158.43 yen. Those Japan-direct prices are before shipping, fees, and import costs, and the Warehouse price is a landed price, but the gap is real. The case is where this shelf gets competitive: $73.54 a box against Japan-direct boxes near $59 to $64 before the same costs are added. The [cheapest box guide](/blog/cheapest-japanese-pokemon-booster-box/) ranks the whole shelf the same way, and the [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) covers the checks that apply to any sealed box."
+        ]
+      },
+      {
+        "h": "Japan, the English twin, and the landed price",
+        "paragraphs": [
+          "Japan is the price floor and the Warehouse is the landed price. The box left Japan at 5,400 yen, which is $34.08 at 158.43 yen, and it now trades at roughly two and a half times that: Samurai Sword Tokyo lists a sealed box at 9,947 yen, or $62.78, and a no-shrink box at 9,541 yen, or $60.22, both updated October 7, 2026. The lowest SNKRDUNK ask was 9,300 yen, or $58.70, on September 30, 2026, and Cardz recorded a last sale of $63.86 on November 7, 2026. The set is three years old and the buy-at-retail window is long gone; the question is whether $88.27 is worth it against the $24.45 single.",
+          "The English twin is the other way to own these cards. Scarlet and Violet Paradox Rift was released November 3, 2023 with 266 cards, folding in Ancient Roar, Future Flash, and Raging Surf. The same Jiro Sasumo Altaria art that tops Future Flash appears in Paradox Rift as the Special Illustration Rare 253/182, which carried a $43.67 TCGplayer market price on November 7, 2026. The Japanese Special Art Rare was last listed near $49.99 in March 2026, so the Japanese premium over the English twin is small and dated. The Iron Valiant gap is the wide one: $24.45 for the Japanese Special Art Rare against $4.31 to $4.49 for the English hyper rare.",
+          "The reseal check is the same for every sealed Japanese box of this era. Since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened, and rising sealed prices have raised the re-shrink risk across the market. Buy factory-sealed from a named shop, check the tear strip and all six faces, and film the opening. Missing shrink wrap alone is not proof of tampering, since many Japanese shops remove it at the till, but a damaged tear strip is. The [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) walks through the same checks with photos of what to look for, and the [best box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) puts Future Flash in the context of the full shelf."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Iron Valiant ex SAR costs 0.28 times a box",
+          "If buying sealed, compare our box at $88.27 against the twin at $91.61 and decide whether the $3.34 premium is worth the Roaring Moon chase",
+          "If buying the case, confirm the case price at checkout; $73.54 a box is the floor for every box that leaves it",
+          "If buying for play in English events, buy Paradox Rift instead; Japanese prints are not legal there",
+          "Check the tear strip and all six faces before opening, and film the opening"
+        ],
+        "h": "Your Future Flash checklist",
+        "paragraphs": [
+          "Decide the buyer type before the product: single-card chaser, collector opening one box, sealed holder, or case splitter. The product follows the type, and the type decides whether the box, the case, or the single is the buy.",
+          "Run the division before paying: the box at $88.27 is $2.94 a pack, the case at $882.46 is $73.54 a box, and the case saves $176.78 against twelve singles. Then check the fork: the twin at $91.61 a box and $982.80 a case, and the chase singles at $24.45 and about $49.99. The next set in this series is [Wild Force](/blog/sv5k-wild-force-buyers-guide/), the January 2024 twin-set opener, priced the same way."
+        ]
+      }
+    ],
+    "slug": "sv4m-future-flash-buyers-guide",
+    "takeaway": [
+      "The Future Flash box at $88.27 is $2.94 a pack and $0.59 a card, for 150 cards from a 95-card set. The case at $882.46 is the sealed buy: $73.54 a box and $2.45 a pack, saving $176.78 against twelve singles.",
+      "The chase is split: Iron Valiant ex SAR is $24.45, or 28 percent of a box, and Altaria ex SAR was last listed near $49.99 in March 2026. The top two SARs together cost $74.44, less than one box.",
+      "Future Flash is the cheaper twin: its box is $3.34 less than Ancient Roar, its case is $100.34 less, and its case saves $60.26 more. Buy Future Flash for sealed value, Ancient Roar for Roaring Moon.",
+      "The set is 95 cards, released October 27, 2023, with no reprint announced and no complete-set cost published. Buy sealed from a named shop, check the tear strip, and film the opening."
     ]
   },
   "sv5a-crimson-haze-buyers-guide": {
@@ -22398,7 +22645,260 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV5a box at $107.04 is the middle of the 30-pack shelf at $3.57 a pack, but $0.71 a card, for 150 cards from a 96-card set. The case at $1,303.24 is the one case on our shelf that loses money, at $108.60 a box against $107.04 for a single box, so twelve singles at $1,284.48 are the sealed buy. The set is 96 cards, released March 22, 2024, and the chase is the Greninja ex SAR, which carried a $234.60 TCGplayer market price on November 5, 2026, or 2.19 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and November 5 and 7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $75.82, so our box costs $31.22 more, and the case-split box costs $32.78 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that shares SV5a's $3.57-a-pack tier the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) prices the set that came five weeks after Crimson Haze and shares its English twin, box $111.46 against a case that saves $354.72, with the Carmine SAR at $87.83 on its own."
+      "New this cycle: the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) prices the set that came five weeks after Crimson Haze and shares its English twin, box $111.46 against a case that saves $354.72, with the Carmine SAR at $87.83 on its own.",
+      "New this cycle: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the January 2024 twin-set opener at $107.04 a box, with a case that saves $231.79 and Raging Bolt ex at $54.21."
+    ]
+  },
+  "sv5k-wild-force-buyers-guide": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Wild Force chase and accept $3.57 a pack, which is $0.71 a card for 150 cards from a 100-card set. The case is the better sealed buy at $87.72 a box, saving $231.79 against twelve singles. For profit, no: no box guarantees the Raging Bolt ex Special Art Rare, which carried a $54.21 TCGplayer market price on November 7, 2026, and a reprint would cut the sealed premium even though none has been announced.",
+        "q": "Is SV5K Wild Force worth buying?"
+      },
+      {
+        "a": "One hundred cards: 71 in the main set and 29 secrets, split 12 Art Rares, 9 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The box holds 30 packs of 5 cards, or 150 cards, at 180 yen a pack and 5,400 yen a box in Japan. Wild Force was released January 26, 2024, on the same day as its twin, Cyber Judge.",
+        "q": "How many cards are in Wild Force?"
+      },
+      {
+        "a": "Raging Bolt ex Special Art Rare 095/071, at a $54.21 TCGplayer market price on November 7, 2026. It is the only chase single in the set with a verified current TCGplayer figure: the other four Special Art Rares have no published TCGplayer market price this guide could verify, so no figure is quoted for them. The Japanese card is Morty's Confidence 097/071; the English print is named Morty's Conviction, so never quote an English price as the Japanese one.",
+        "q": "What is the most expensive card in Wild Force?"
+      }
+    ],
+    "h1": "SV5K Wild Force: The Buyer's Guide, Priced",
+    "intro": [
+      "Wild Force is the priciest box on the Scarlet and Violet shelf, and the case is where it earns its keep: the box is $107.04, the case is $1,052.69, and the case saves $231.79 against twelve single boxes. Buy the single for Raging Bolt ex at $54.21, the case for sealed Wild Force at $87.72 a box, and one box only for the opening itself.",
+      "This guide divides both Warehouse prices, prices the chase with its date, settles the Cyber Judge fork, and names the buyers who should walk away. Warehouse prices are from November 9, 2026, and every yen figure converts at 158.43 yen to the dollar."
+    ],
+    "metaDescription": "Is SV5K Wild Force worth buying? The Warehouse divides the $107.04 box and $1,052.69 case, prices Raging Bolt ex, and settles the Cyber Judge fork.",
+    "metaTitle": "SV5K Wild Force: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "Start with the buyer, not the box. A collector who opens packs wants the set, and one box gets most of it: 30 packs of 5 cards put 150 cards in hand from a 100-card set, so the first box covers the main set once over and the second box is mostly cards already owned. Open one box, then buy the missing singles.",
+          "A sealed holder should buy the [case](/product/sv5k-wild-force-sealed-case-12-boxes-japanese-pokemon-card/), not twelve singles. The case at $1,052.69 divides to $87.72 a box, $2.92 a pack, and $0.58 a card, and it saves $231.79 against twelve single boxes at $107.04 each. Twelve singles cost $1,284.48, so the case is the discount, and the per-box saving is $19.32. A case splitter works from the same division: $87.72 a box is the floor for every box that leaves the case.",
+          "A single-card chaser should not buy a box at all. Raging Bolt ex Special Art Rare 095/071 carried a $54.21 TCGplayer market price on November 7, 2026, which is 50.6 percent of one box, and the top three beast Special Art Rares together cost about $87.74 as Japanese raw asks, which is less than one box. The complete set costs $366.71 at TCGplayer market prices on November 8, 2026, or 3.43 boxes' worth, so a collector finishing the set buys singles, not boxes.",
+          "A sealed investor should know no reprint has been announced, and the box price trend is flat to firm: Cardz recorded a last sale of $73.30 on November 7, 2026, with 161 boxes sold in six months and the trend labelled Accumulating."
+        ]
+      },
+      {
+        "h": "The Warehouse math: what $107.04 and $1,052.69 buy",
+        "math": [
+          "SV5K box per pack: $107.04 / 30 = $3.57 per pack",
+          "SV5K box per card: $107.04 / 150 = $0.71 per card",
+          "SV5K case per box: $1,052.69 / 12 = $87.72 per box",
+          "SV5K case per pack: $1,052.69 / 360 = $2.92 per pack",
+          "SV5K case per card: $1,052.69 / 1,800 = $0.58 per card",
+          "Twelve single boxes: 12 x $107.04 = $1,284.48",
+          "Case saving: $1,284.48 - $1,052.69 = $231.79",
+          "Case saving per box: $231.79 / 12 = $19.32 per box",
+          "Raging Bolt ex SAR vs box: $54.21 / $107.04 = 50.6% of a box",
+          "Box vs Raging Bolt ex SAR: $107.04 / $54.21 = 1.97 singles per box",
+          "Complete set vs box: $366.71 / $107.04 = 3.43 boxes",
+          "MSRP in dollars: 5,400 yen / 158.43 yen = $34.08",
+          "SST sealed box: 11,182 yen / 158.43 yen = $70.58",
+          "SST no-shrink box: 10,872 yen / 158.43 yen = $68.62",
+          "SNKRDUNK lowest ask: 9,950 yen / 158.43 yen = $62.80",
+          "Warehouse premium vs SST sealed: $107.04 - $70.58 = $36.46",
+          "Warehouse premium vs SNKRDUNK ask: $107.04 - $62.80 = $44.24",
+          "Warehouse premium vs Cardz last sold: $107.04 - $73.30 = $33.74",
+          "Box vs SV5M box: $107.04 - $88.27 = $18.77 more",
+          "Case vs SV5M case: $1,052.69 - $852.71 = $199.98 more",
+          "SV5M case saving: $1,059.24 - $852.71 = $206.53",
+          "Case saving vs SV5M: $231.79 - $206.53 = $25.26 more saved",
+          "SV5M case per box: $852.71 / 12 = $71.06 per box",
+          "Case per-box vs SV5M: $87.72 - $71.06 = $16.66 more",
+          "Top three beast SARs as asks: 13,900 yen / 158.43 yen = $87.74"
+        ],
+        "paragraphs": [
+          "The box is the unit everything else divides from. At $107.04 for 30 packs, the [box](/product/sv5k-wild-force-booster-box-japanese-pokemon-card/) costs $3.57 a pack and $0.71 a card, and those two numbers are the test for every other price on this page. That per-pack price sits near the top of the shelf, behind Scarlet ex and Mask of Change at $3.72 a pack, level with Crimson Haze at $3.57, and ahead of Raging Surf at $3.42. A loose pack dearer than $3.57 is worse than the box.",
+          "The case is where the shelf rewards the bigger buy. At $1,052.69 for 12 boxes, the case costs $87.72 a box, $2.92 a pack, and $0.58 a card, against $3.57 a pack and $0.71 a card for a single box. The case saves $231.79 against twelve singles, or $19.32 a box, bigger than both October twins' savings: the [Future Flash case](/blog/sv4m-future-flash-buyers-guide/) saves $176.78 and the [Ancient Roar case](/blog/sv4k-ancient-roar-buyers-guide/) saves $116.52. The dearer box is the better case deal, and the per-pack price falls $0.65 when the case is bought instead of the box.",
+          "The comparison that decides most buyers is the one against the twin on the same shelf. The Wild Force box at $107.04 is $18.77 dearer than the [Cyber Judge box](/product/sv5m-cyber-judge-booster-box-japanese-pokemon-card/) at $88.27, and the Wild Force case at $1,052.69 is $199.98 dearer than the Cyber Judge case at $852.71. But the Wild Force case saves $25.26 more, so the dearer box is the better case deal and the cheaper box is the better single-box buy. The [sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) runs the same division across the whole shelf."
+        ]
+      },
+      {
+        "h": "The chase singles vs the box",
+        "paragraphs": [
+          "The set has 100 cards: 71 in the main set and 29 secrets, split 12 Art Rares, 9 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. The five Special Art Rares are Gouging Fire ex 093/071, Walking Wake ex 094/071, Raging Bolt ex 095/071, Eri 096/071, and Morty's Confidence 097/071, and the three Ultra Rares are the same three beasts again at 098, 099, and 100. Two ACE SPEC cards sit in the set, Neo Upper Energy and Awakening Drum, and neither is guaranteed in a box. One naming trap: the Japanese card is Morty's Confidence, the English print Morty's Conviction, so never quote an English price as the Japanese one.",
+          "The pull rates are estimates, not promises, because The Pokemon Company publishes none. Community-observed figures for the era put an Art Rare near 3 per box, a Special Art Rare near 1 per 1 to 3 boxes, and an Ultra Rare near 1 per 6 to 7 boxes, with at least one Super Rare or better in most boxes. No measured sample exists for this set alone. A box that costs $107.04 and holds no guaranteed Special Art Rare is a gamble on the chase, priced in the singles: Raging Bolt ex at $54.21 is 50.6 percent of the box, and the top three beast Special Art Rares together cost about $87.74 as Japanese raw asks, less than one box.",
+          "Only one chase single here carries a verified current TCGplayer figure: Raging Bolt ex at $54.21 on November 7, 2026. The other four Special Art Rares have no published TCGplayer market price this guide could verify, so no figure is quoted for them. A Cardmarket 30-day average puts Morty's Confidence at $59.09, updated October 19, 2026, but Cardmarket is a different market from TCGplayer. The complete set is the honest total: $366.71 at TCGplayer market prices on November 8, 2026, or 3.43 boxes' worth, so the singles route finishes the set and the box route does not."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Warehouse price, Nov 9 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV5K box",
+              "$107.04",
+              "30 packs, 150 cards",
+              "$107.04 / $3.57 / $0.71"
+            ],
+            [
+              "SV5K case",
+              "$1,052.69",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$87.72 / $2.92 / $0.58"
+            ],
+            [
+              "Raging Bolt ex SAR single",
+              "$54.21 (TCGplayer market, Nov 7 2026)",
+              "1 card, the top chase",
+              "0.51x a box"
+            ],
+            [
+              "Top three beast SARs (asks)",
+              "~$87.74 (SNKRDUNK asks, Sep 24 2026)",
+              "3 cards, the ancient beasts",
+              "0.82x a box"
+            ],
+            [
+              "Complete set",
+              "$366.71 (TCGplayer market, Nov 8 2026)",
+              "100 cards, the finished binder",
+              "3.43x a box"
+            ],
+            [
+              "SV5M box (twin)",
+              "$88.27",
+              "30 packs, 150 cards",
+              "$88.27 / $2.94 / $0.59"
+            ],
+            [
+              "SV5M case (twin)",
+              "$852.71",
+              "12 boxes, 360 packs, 1,800 cards",
+              "$71.06 / $2.37 / $0.47"
+            ],
+            [
+              "Ancient Roar box",
+              "$91.61",
+              "30 packs, 150 cards",
+              "$91.61 / $3.05 / $0.61"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Wild Force vs Cyber Judge: the fork",
+        "paragraphs": [
+          "The two sets were released on the same day, January 26, 2024, with the same 30-pack box, the same 5 cards per pack, and the same 180 yen pack price in Japan. They split the Paradox Pokemon between them: Wild Force holds the ancient forms, Raging Bolt, Gouging Fire, and Walking Wake, and Cyber Judge the future forms, Iron Leaves, Iron Crown, and Iron Boulder. The fork is Ancient against Future, and the chase identity follows the split. One correction: Iron Crown ex is a Cyber Judge card, not a Future Flash card, even though search results often confuse the two.",
+          "On price, the fork cuts both ways. The Cyber Judge box at $88.27 is $18.77 cheaper than the Wild Force box, and the Cyber Judge case at $852.71 is $199.98 cheaper than the Wild Force case, so a buyer who wants one sealed box should buy Cyber Judge and keep the difference. But the Wild Force case saves $25.26 more, and its per-box case price of $87.72 is only $16.66 above Cyber Judge's $71.06. A buyer who wants the case should run both divisions and decide whether the Raging Bolt chase is worth $16.66 a box. No Cyber Judge chase price is quoted here, because none was verified; do not carry Wild Force prices across the fork.",
+          "Both sets fold into the same English twin, Scarlet and Violet Temporal Forces, released March 22, 2024 with 218 cards. The English Raging Bolt ex Special Illustration Rare carried a $56.31 TCGplayer market price on November 7, 2026, $2.10 more than the Japanese Special Art Rare at $54.21. That is the rare case where the Japanese chase is cheaper than its English twin, and one more reason to buy the Japanese single before the box. The [Crimson Haze guide](/blog/sv5a-crimson-haze-buyers-guide/) and the [Mask of Change guide](/blog/sv6-mask-of-change-buyers-guide/) price the two sets that followed the January twins."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Wild Force (SV5K)",
+            "Cyber Judge (SV5M)"
+          ],
+          "rows": [
+            [
+              "Release",
+              "Jan 26, 2024",
+              "Jan 26, 2024"
+            ],
+            [
+              "Cards",
+              "100 (71 + 29)",
+              "100 (71 + 29)"
+            ],
+            [
+              "Secret split",
+              "12 AR, 9 SR, 5 SAR, 3 UR",
+              "12 AR, 9 SR, 5 SAR, 3 UR"
+            ],
+            [
+              "Box, Warehouse",
+              "$107.04",
+              "$88.27"
+            ],
+            [
+              "Case, Warehouse",
+              "$1,052.69",
+              "$852.71"
+            ],
+            [
+              "Case per box",
+              "$87.72",
+              "$71.06"
+            ],
+            [
+              "Case saving",
+              "$231.79",
+              "$206.53"
+            ],
+            [
+              "Top chase",
+              "Raging Bolt ex SAR $54.21",
+              "Iron Crown ex (no verified TCGplayer price)"
+            ],
+            [
+              "Mascot trio",
+              "Raging Bolt, Gouging Fire, Walking Wake",
+              "Iron Leaves, Iron Crown, Iron Boulder"
+            ],
+            [
+              "ACE SPEC",
+              "Neo Upper Energy, Awakening Drum",
+              "Prime Catcher, Reboot Pod"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top three miss",
+        "note": "From the Warehouse: the question we get most about the January twins is whether the dearer box is the better box, and the answer in chat is the one on this page. Wild Force costs $18.77 more a box than Cyber Judge, but its case saves $25.26 more, so the dearer box is the better case deal and the cheaper box is the better single-box buy. The fork is a price question with a chase answer, and the shelf settles both.",
+        "paragraphs": [
+          "Search for whether Wild Force is worth buying and only one of the top three results is a buying guide. The Samurai Sword Tokyo guide, updated September 24, 2026, gives a verdict by buyer type and a top-ten table, but it uses SNKRDUNK asks and its own PSA 10 back-order listings, not TCGplayer market prices for the Japanese prints, and it never divides a live store price. The second result is a cross-set comparison with the English twin, and the third is a single-card sale listing for a Grotle Art Rare at $5.60. That is the opening this page takes.",
+          "What none of them covers is the division itself: no result divides the live box price into a per-pack or per-card cost, divides the case into a per-box price, or runs the case against twelve singles to find the $231.79 saving. No result tests the complete set against the sealed cost, gives a who-should-not-buy verdict tied to a real shelf price, or prices the Japanese chase singles with dated TCGplayer figures. This page owns all five, because the Warehouse shelf is the only source that holds the box, the case, and the twin at the same time.",
+          "Two source traps needed settling first. A Korean guide lists the secret split as 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 2 Ultra Rares, but three Ultra Rares are confirmed by number, Gouging Fire ex 098/071, Walking Wake ex 099/071, and Raging Bolt ex 100/071, so the split used here is 12, 9, 5, and 3."
+        ]
+      },
+      {
+        "h": "Who should not buy Wild Force",
+        "paragraphs": [
+          "A buyer chasing profit should not buy this box to flip the pulls. No box guarantees a Special Art Rare, the community estimate is roughly one per one to three boxes, and the top chase at $54.21 is only half a box. The dated warning is the Destined Rivals Elite Trainer Box: near $280 in April 2026, halved to $120.56 by August 23, 2026 once reprint stock reached retail. No reprint has been announced for Wild Force, but the mechanism is real, and a reprint kills a scarcity premium in weeks.",
+          "A player who needs cards for sanctioned English-region Standard events should not buy Japanese Wild Force for play: Japanese prints are not legal there, so the box is a collector's product and a sealed product, not a deck-building one. The English twin, Temporal Forces, is the playable version: its Raging Bolt ex Special Illustration Rare carried a $56.31 TCGplayer market price on November 7, 2026, against $54.21 for the Japanese Special Art Rare. Same Pokemon, different market, and this time the English card costs more.",
+          "A buyer hunting the cheapest box on earth should not stop here either. The Warehouse box at $107.04 sits $36.46 above the Samurai Sword Tokyo sealed listing of 11,182 yen, $44.24 above the lowest SNKRDUNK ask of 9,950 yen, and $33.74 above the Cardz last sale of $73.30, all converted at 158.43 yen. Those Japan-direct prices are before shipping, fees, and import costs, and the Warehouse price is a landed price, but the gap is real. The case is where this shelf gets competitive: $87.72 a box against Japan-direct boxes near $63 to $74 before the same costs are added; the [cheapest box guide](/blog/cheapest-japanese-pokemon-booster-box/) and the [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) cover the shelf and the checks."
+        ]
+      },
+      {
+        "h": "Japan, the English twin, and the landed price",
+        "paragraphs": [
+          "Japan is the price floor and the Warehouse is the landed price. The box left Japan at 5,400 yen, which is $34.08 at 158.43 yen, and it now trades well above that: Samurai Sword Tokyo lists a sealed box at 11,182 yen, or $70.58, updated October 7, 2026, and at 11,730 yen, or $74.04, on September 24, 2026. The lowest SNKRDUNK ask was 9,950 yen, or $62.80, on September 30, 2026, and Cardz recorded a last sale of $73.30 on November 7, 2026. The set is nearly three years old and the buy-at-retail window is long gone.",
+          "The English twin is the other way to own these cards. Scarlet and Violet Temporal Forces was released March 22, 2024 with 218 cards, folding in Wild Force and Cyber Judge. The Japanese chase is the cheaper one here: Raging Bolt ex Special Art Rare at $54.21 against the English Special Illustration Rare at $56.31, a $2.10 gap in favour of the Japanese print.",
+          "The reseal check is the same for every sealed Japanese box of this era. Since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened, and rising sealed prices have raised the re-shrink risk across the market. Buy factory-sealed from a named shop, check the tear strip and all six faces, and film the opening. Missing shrink wrap alone is not proof of tampering, since many Japanese shops remove it at the till, but a damaged tear strip is. The [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) and the [best value guide](/blog/best-value-japanese-pokemon-booster-boxes/) cover the checks and the full shelf."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 30 packs and 150 cards, then divide the case by 12 boxes, 360 packs, and 1,800 cards, and never compare a case price to a box price without dividing",
+          "If buying for one named card, stop and buy the single instead; one Raging Bolt ex SAR costs 0.51 times a box",
+          "If buying sealed, compare our box at $107.04 against the twin at $88.27 and decide whether the $18.77 premium is worth the Raging Bolt chase",
+          "If buying the case, confirm the case price at checkout; $87.72 a box is the floor for every box that leaves it",
+          "If buying for play in English events, buy Temporal Forces instead; Japanese prints are not legal there",
+          "Check the tear strip and all six faces before opening, and film the opening"
+        ],
+        "h": "Your Wild Force checklist",
+        "paragraphs": [
+          "Decide the buyer type before the product: single-card chaser, collector opening one box, sealed holder, or case splitter. The product follows the type.",
+          "Run the division before paying: the box at $107.04 is $3.57 a pack, the case at $1,052.69 is $87.72 a box, and the case saves $231.79 against twelve singles. Then check the fork: the twin at $88.27 a box and $852.71 a case, and the chase single at $54.21. The next set in this series is the [Future Flash guide](/blog/sv4m-future-flash-buyers-guide/), the October 2023 twin-set opener, priced the same way."
+        ]
+      }
+    ],
+    "slug": "sv5k-wild-force-buyers-guide",
+    "takeaway": [
+      "The Wild Force box at $107.04 is $3.57 a pack and $0.71 a card, for 150 cards from a 100-card set. The case at $1,052.69 is the sealed buy: $87.72 a box and $2.92 a pack, saving $231.79 against twelve singles.",
+      "Raging Bolt ex SAR is $54.21, or 50.6 percent of a box, and the complete set is $366.71, or 3.43 boxes. Buy the single for the chase and the singles for the set.",
+      "Cyber Judge is the cheaper twin: its box is $18.77 less and its case is $199.98 less, but the Wild Force case saves $25.26 more. Buy Wild Force for the case deal, Cyber Judge for the cheaper box.",
+      "The set is 100 cards, released January 26, 2024, with no reprint announced. Buy sealed from a named shop, check the tear strip, and film the opening."
     ]
   },
   "sv6-mask-of-change-buyers-guide": {
@@ -22583,7 +23083,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30, October 2, and November 5, 7, and 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $67.09, so our box costs $44.37 more, and the case-split box costs $14.81 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the set that came five weeks before Mask of Change and shares its English twin, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own.",
-      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the set that came a month after Mask of Change at $91.61 a box, with a case that saves $196.81 and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box."
+      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the set that came a month after Mask of Change at $91.61 a box, with a case that saves $196.81 and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box.",
+      "New this cycle: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the set that came three months before Mask of Change at $107.04 a box, with a case that saves $231.79 against twelve singles."
     ]
   },
   "sv6a-night-wanderer-buyers-guide": {
