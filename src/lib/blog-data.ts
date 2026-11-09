@@ -4964,7 +4964,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Heroines set in depth, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/).",
       "For the full shelf with every box divided to a per-pack price and every case divided to a per-box price, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) — including the eleven cases that cost more than singles.",
       "New this cycle: the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) ranks all twenty-four Japanese boxes by buyer type, divides every case, and prices the English gap beside them.",
-      "For the pack question in depth, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides all eighteen main sets and four Extra Boosters to the pack — OP-15 at $2.90, OP-18 at $3.50 on pre-order, OP-01 at $9.94."
+      "For the pack question in depth, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides all eighteen main sets and four Extra Boosters to the pack — OP-15 at $2.90, OP-18 at $3.50 on pre-order, OP-01 at $9.94.",
+      "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -5753,7 +5754,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the Iono set at $102.64 a box, $3.42 a pack, with a case that saves only $28.81.",
       "New this cycle: the [best Japanese TCG to buy in 2026](/blog/best-japanese-tcg/) puts Pokémon beside One Piece, Dragon Ball, and Lorcana on one shelf and divides every game's cheapest entry to per-pack and per-card — Pokémon's cheapest box is $70.62.",
       "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) finds the floor is Rebellion Crash at $43.03, or $1.43 a pack, below M3 at $70.62, with the sixteen cheapest boxes all under $95.",
-      "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the MEGA-era opener, box $94.91 against a case that saves $226.74, with the 092/063 trap and the 20-pack correction."
+      "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the MEGA-era opener, box $94.91 against a case that saves $226.74, with the 092/063 trap and the 20-pack correction.",
+      "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -6034,6 +6036,228 @@ export const POSTS: Record<string, BlogPost> = {
       "The best Japanese Pokemon booster pack is the M3 pack at $2.35, or $0.47 a card, and it is the cheapest pack on the shelf by both measures. The best pack per card among the big packs is M2a at $1.15 a card, and the cheapest single sealed pack you can buy one of is the Iono's Wattrel promo at $21.18. The Warehouse does not sell loose booster packs. Divide the box by the packs, then by the cards, and let the per-card number choose the pack.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026. When the next MEGA-era set opens for pre-order, run the checklist first and divide the box before you pay.",
       "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
+    ]
+  },
+  "best-japanese-pokemon-cards": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "The M3 Munikis Zero box at $70.62 on our shelf as of November 9, 2026, which is $2.35 a pack across 30 packs of five cards. The cheapest way into Japanese Pokémon at all is cheaper still: the Starter Set MEGA Mega Diancie ex at $11.15, a fixed 60-card deck at $0.19 a card, though it holds no booster packs.",
+        "q": "What is the cheapest Japanese Pokémon box to buy?"
+      },
+      {
+        "a": "As cards to open, play, or collect, yes at these per-pack prices: current MEGA boxes run $2.35 to $3.16 a pack, against $8.33 a pack for the English Mega Evolution box. As an investment, no card here is a guarantee: the top two M1L chase cards have fallen by more than half since March, and no Japanese set publishes pull rates, so a box is a hope, not a plan, and the single is the honest route to a named card.",
+        "q": "Are Japanese Pokémon cards worth buying in 2026?"
+      },
+      {
+        "a": "Buy the starter set if you want to play today: the Diancie set is $11.15 and the Gengar set is $24.54, both fixed 60-card decks with everything needed to play, $35.69 for the pair. Buy the booster box if you want packs and the chase: the M3 box at $70.62 is the cheapest entry, and the M1L case at $912.18 is the cheapest per pack at $2.53. Buy neither for a named card; buy the single.",
+        "q": "Should I buy a booster box or a starter set?"
+      }
+    ],
+    "h1": "Best Japanese Pokémon Cards to Buy in 2026, Priced",
+    "intro": [
+      "Short answer: the best Japanese Pokémon buy on our shelf today is the M3 Munikis Zero box at $70.62, or $2.35 a pack, and the cheapest way into the game at all is the Mega Diancie ex starter set at $11.15. If you want the chase cards, buy the single: the Mega Lucario ex gold costs 2.73 boxes, and no box guarantees it.",
+      "This guide ranks twelve Japanese Pokémon products we actually stock, from an $11.15 starter set to a $471.20 box, and divides every one of them to the pack and the card. Every price is our own shelf price as of November 9, 2026. Marketplace figures are TCGplayer market prices unless labelled otherwise, and every one carries its date.",
+      "The top results for this question are investment lists and set rankings priced on marketplaces. None of them divides one store's live shelf across every format, and none of them tells you that the cheapest pack on the shelf is $2.35 or that a sealed case can cost less per box than the market price of a single box. That is the gap this guide owns."
+    ],
+    "metaDescription": "The best Japanese Pokémon cards to buy, ranked on our live shelf: cheapest box $70.62, cheapest pack $2.35, and an $11.15 starter set. Prices Nov 9, 2026.",
+    "metaTitle": "Best Japanese Pokémon Cards to Buy in 2026",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The ranking: twelve products, one shelf",
+        "paragraphs": [
+          "The ranking is by per-pack price, because that is the number that decides whether a box is cheap or dear. A box that costs more can still be the better buy if it holds more packs, and a box that costs less can be the worse buy if it holds fewer. The starter set sits first because it is measured per card, not per pack: it is a fixed 60-card deck, not a lottery, and at $11.15 the [Mega Diancie ex starter set](/product/starter-set-mega-mega-diancie-ex-mbd-japanese-pokemon-card/) is nineteen cents a card.",
+          "The top of the list is the MEGA era. [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is the cheapest box on the shelf at $70.62, and its twin-set neighbours [M1S Mega Symphonia](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) and [SV9 Battle Partners](/product/sv9-battle-partners-booster-box-japanese-pokemon-card/) sit at $84.97, or $2.83 a pack. [M1L Mega Brave](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) is $94.91, or $3.16 a pack, and its case is where the value moves: $912.18 for twelve boxes, or $2.53 a pack. Four current sets under $100, all 30 packs of five cards, all on the shelf today.",
+          "The middle of the list is where the formats split. [M2 Inferno X](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) is $183.18 for 30 packs, or $6.11 a pack, and [SV10 Glory of Team Rocket](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/) is $212.99 for 30 packs, or $7.10 a pack. Then the high-class packs arrive: [M2a Mega Dream ex](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) is $114.77 for 10 packs of 10 cards, or $11.48 a pack, and [M6a 30th Celebration](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) is $249 for 20 packs of 6 cards, or $12.45 a pack. A high-class pack costs four times a standard pack because every card in it is holographic, and the box holds a third as many packs.",
+          "The dear end is the collector end. [SV4a Shiny Treasure ex](/product/sv4a-shiny-treasure-ex-booster-box-japanese-pokemon-card/) is $141.24 for 10 packs of 10, or $14.12 a pack. [SV8a Terastal Festival ex](/product/sv8a-terastal-festival-ex-booster-box-japanese-pokemon-card/) is $163.32 for 10 packs of 10, or $16.33 a pack. [SV2a Pokémon 151](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) is $471.20 for 20 packs of 7 cards, or $23.56 a pack, and it is the dearest box on the shelf by $222.20 over the next dearest, the SV8 Super Electric Breaker box at $258.23. The 151 box is not dear because it holds more packs. It is dear because it is 151, and the market has priced the set, not the cardboard."
+        ],
+        "table": {
+          "head": [
+            "Rank",
+            "Product",
+            "Price",
+            "Per pack",
+            "Buy it for"
+          ],
+          "rows": [
+            [
+              "1",
+              "Starter Set MEGA Mega Diancie ex",
+              "$11.15",
+              "$0.19 a card",
+              "Cheapest way to play; a fixed 60-card deck"
+            ],
+            [
+              "2",
+              "M3 Munikis Zero box",
+              "$70.62",
+              "$2.35",
+              "Cheapest box and cheapest pack on the shelf"
+            ],
+            [
+              "3",
+              "M1S Mega Symphonia box",
+              "$84.97",
+              "$2.83",
+              "Gardevoir chase at the second-cheapest box price"
+            ],
+            [
+              "4",
+              "SV9 Battle Partners box",
+              "$84.97",
+              "$2.83",
+              "Lillie's Determination chase, same price as M1S"
+            ],
+            [
+              "5",
+              "M1L Mega Brave box",
+              "$94.91",
+              "$3.16",
+              "Lucario chase; the case is the value play"
+            ],
+            [
+              "6",
+              "M2 Inferno X box",
+              "$183.18",
+              "$6.11",
+              "Charizard chase; the case is $3.70 a pack"
+            ],
+            [
+              "7",
+              "SV10 Glory of Team Rocket box",
+              "$212.99",
+              "$7.10",
+              "Team Rocket theme; 30 packs of five"
+            ],
+            [
+              "8",
+              "M2a Mega Dream ex box",
+              "$114.77",
+              "$11.48",
+              "High-class pack; 10 packs, 10 cards each"
+            ],
+            [
+              "9",
+              "M6a 30th Celebration box",
+              "$249.00",
+              "$12.45",
+              "Anniversary set; every card holographic"
+            ],
+            [
+              "10",
+              "SV4a Shiny Treasure ex box",
+              "$141.24",
+              "$14.12",
+              "Shiny cards; 10 packs of 10"
+            ],
+            [
+              "11",
+              "SV8a Terastal Festival ex box",
+              "$163.32",
+              "$16.33",
+              "Eeveelutions; Umbreon chase"
+            ],
+            [
+              "12",
+              "SV2a Pokémon 151 box",
+              "$471.20",
+              "$23.56",
+              "The collector benchmark; Charizard chase"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: per pack, per card, per case",
+        "math": [
+          "M3 Munikis Zero box: $70.62 ÷ 30 packs = $2.35 per pack",
+          "M3 per card: $70.62 ÷ 150 cards = $0.47 per card",
+          "Starter Set MEGA Mega Diancie ex per card: $11.15 ÷ 60 cards = $0.19 per card",
+          "Starter Set MEGA Mega Gengar ex per card: $24.54 ÷ 60 cards = $0.41 per card",
+          "Both starter sets together: $11.15 + $24.54 = $35.69",
+          "M1S Mega Symphonia box: $84.97 ÷ 30 packs = $2.83 per pack",
+          "M1L Mega Brave box: $94.91 ÷ 30 packs = $3.16 per pack",
+          "M1L sealed case per box: $912.18 ÷ 12 boxes = $76.02 per box",
+          "M1L case per pack: $912.18 ÷ 360 packs = $2.53 per pack",
+          "M1L case saving: $94.91 × 12 = $1,138.92 − $912.18 = $226.74",
+          "M2 Inferno X box: $183.18 ÷ 30 packs = $6.11 per pack",
+          "M2 case per pack: $1,333.69 ÷ 360 packs = $3.70 per pack",
+          "M2 case saving: $183.18 × 12 = $2,198.16 − $1,333.69 = $864.47",
+          "M2a Mega Dream ex box: $114.77 ÷ 10 packs = $11.48 per pack",
+          "M2a case per pack: $1,858.56 ÷ 200 packs = $9.29 per pack",
+          "M6a 30th Celebration box: $249.00 ÷ 20 packs = $12.45 per pack",
+          "SV4a Shiny Treasure ex box: $141.24 ÷ 10 packs = $14.12 per pack",
+          "SV8a Terastal Festival ex box: $163.32 ÷ 10 packs = $16.33 per pack",
+          "SV8a case per pack: $2,723.16 ÷ 200 packs = $13.62 per pack",
+          "SV2a Pokémon 151 box: $471.20 ÷ 20 packs = $23.56 per pack",
+          "SV2a per card: $471.20 ÷ 140 cards = $3.37 per card",
+          "SV2a case per pack: $3,809.32 ÷ 240 packs = $15.87 per pack",
+          "SV2a case saving: $471.20 × 12 = $5,654.40 − $3,809.32 = $1,845.08"
+        ],
+        "paragraphs": [
+          "Start with the division, because it is the whole ranking. The cheapest pack on the shelf is $2.35, on the M3 box, and the cheapest card is nineteen cents, in the Diancie starter set. The dearest pack is $23.56, on the 151 box, which is ten times the M3 pack. Ten times the price does not buy ten times the cards: the 151 box holds 140 cards against the M3 box's 150.",
+          "The case column is where the ranking changes. The M1L case at $2.53 a pack undercuts the M1S single box at $2.83 a pack, so a buyer who wants twelve boxes of M1L pays less per pack than a buyer who wants one box of M1S. The M2 case at $3.70 a pack undercuts the M1L single box at $3.16 a pack by nothing, but it undercuts the M2 single box at $6.11 by $2.41 a pack, a saving of $864.47 on twelve boxes. The SV2a case is the largest saving on the shelf in dollars: $1,845.08, or 32.6% of twelve single boxes, and it cuts the per-pack price from $23.56 to $15.87.",
+          "The starter sets deserve their own arithmetic because they are not packs at all. The Diancie set is $11.15 for a fixed 60-card deck, or $0.19 a card, and the Gengar set is $24.54, or $0.41 a card. Both together are $35.69, which is less than half the cheapest booster box, and they are the only products on this shelf where every card is known before you pay. That is the trade: a deck you can read against packs you cannot."
+        ]
+      },
+      {
+        "h": "The chase ladder: five cards that decide five boxes",
+        "paragraphs": [
+          "Every box on this shelf is priced by its chase card, and the chase card is priced by the market, so the honest comparison is the single against the box. The Mega Lucario ex Mega Ultra Rare from M1L is $259.54 on TCGplayer market as of November 7, 2026, which is 2.73 boxes of money for one card. The Charizard ex Special Art Rare from SV2a is about $279, which is 59% of a whole 151 box. The Umbreon ex Special Art Rare from SV8a is $372.02 on the market, which is 2.28 times its box. The Mew ex Special Art Rare from SV4a carried a ¥43,000 Tokyo ask in our November 8 guide, 1.93 times its box. And the Mega Charizard X ex Mega Ultra Rare from M2 carried a ¥128,000 Tokyo shop ask on October 28, 2026, which is 23.7 boxes at the ¥5,400 release price.",
+          "The ladder has a shape. In the current MEGA sets, the top card costs two to three boxes. In the high-class packs, the top card costs about two boxes. In M2, the top card costs nearly twenty-four boxes, because Charizard in a gold frame is a different market from Charizard in a set. The buyer who wants one card should buy the single in every row of this ladder except none of them. There is no row where opening boxes is the cheaper route to a named card.",
+          "The second fact about the ladder is that it falls. The top two M1L cards have fallen by more than half since March, when the Lucario gold was about ¥52,000 and the Lillie Special Art Rare about ¥50,000. A box bought for its chase card in spring is a box bought at the top. The shelf price of a box moves slower than the market price of its chase card, which is why the single is the honest comparison and the box is the fun one."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the starter set and the case flip",
+        "note": "Warehouse Note: the question we get most about Japanese Pokémon is which box to buy first, and the answer is usually not a box. The cheapest way onto this shelf is the Diancie starter set at $11.15, and the cheapest pack is the M3 box at $2.35. Buyers who skip both and pay $471.20 for a 151 box are buying the set, not the packs, and they should know that before the box arrives.",
+        "paragraphs": [
+          "The top results for this query are a chase-card investment guide, a set ranking priced on TCGplayer, and a buy-and-sell timing guide. All three are written for the buyer who already knows the sets. None of them prices a live store's shelf across formats, none of them divides a starter set to the card, and none of them says that the cheapest Japanese Pokémon product is eleven dollars, not seventy.",
+          "The case flip is the other half of what they miss. Our M1L single box is $14.55 above the TCGplayer box market of $80.36, and our M1L case box is $4.34 below it. The same shelf prices one box above the market and twelve boxes below it, and the same pattern holds on M2, SV2a, and SV8a: the case is the only sealed price that beats the market, and the single box is the premium. A guide that prices only the single box tells the buyer the shelf is dear. A guide that divides the case tells the buyer the shelf is cheap at volume. Both are true, and the buyer needs both numbers before paying."
+        ]
+      },
+      {
+        "h": "Context: Japan's boxes versus English",
+        "paragraphs": [
+          "The comparison that decides most purchases is not box against box but Japanese against English. An English Mega Evolution box holds 36 packs of 10 cards at $8.33 a pack on TCGplayer market, against $2.35 to $3.16 a pack for the current Japanese MEGA boxes. The English buyer pays for readable text and tournament legality. The Japanese buyer pays a third of the per-pack price for the same chase-art family in a language they may not read. If you play the English game, [buy English](/blog/japanese-vs-english-pokemon-cards-which-to-buy/). If you collect the art, Japanese is the cheaper route, and the case is cheaper still.",
+          "There is one format English has that Japan does not: the Elite Trainer Box. There is no Japanese Pokémon ETB, because Japan never made one, and the closest Japanese products are the booster box, the special set, or the sealed case. Our [ETB guide](/blog/best-japanese-pokemon-etb/) works the substitution out in full: the M6a 30th Celebration box at $249, or $12.45 a pack, if you want the anniversary set in Japanese, and the SV11B Black Bolt case at $82.64 a box, or $4.13 a pack, if you want the cheapest Japanese pack on that shelf. The [best box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the whole shelf by buyer instead of by price, and the [sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case the same way this guide divides the boxes."
+        ]
+      },
+      {
+        "h": "The risk layer: reseal checks and the pull-rate gap",
+        "paragraphs": [
+          "No Japanese set on this shelf publishes pull rates, and this guide states that plainly rather than inventing odds. Without published rates, opening boxes for one card is a hope, not a plan, and the single is cheaper than the hope in every row of the chase ladder. The price rule, from Pokémon's own guidance, is the top warning: a pack or box priced dramatically below suggested retail is a near-certain fake flag, and on this shelf the cheapest real box is $70.62, so a $30 box of a current set is not a bargain.",
+          "The reseal checks are the same for every box here, and they are worth running before you open anything. Look for a second or off-centre seam, loose or cloudy or glue-shiny film, and flaps not flush. Japanese boxes open along a perforated tear strip, so a pre-torn strip means the box was opened. Count the packs: 30 for a standard box, 20 for SV2a and M6a, 10 for the high-class packs. A box that rattles or feels light is missing packs. Our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) works every check with photographs of what to look for, and the [rarity guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the [Mega Ultra Rare](/blog/japanese-pokemon-rarity-symbols-explained/) gold frame that marks the top of the ladder."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the single-card hunter who wants only the Mega Lucario ex gold. That buyer should buy the single at $259.54 and skip the sealed product entirely. It is not for anyone expecting a named chase card from a box, because no pull rate is published for any set here. It is not for the English-only player, who should buy Mega Evolution and read the cards. It is not for the buyer who wants Gardevoir, who should buy the [M1S box](/blog/m1l-vs-m1s-which-to-buy/) at $84.97 and not M1L at any price. And it is not for the buyer who treats the spring prices as the market: the top two M1L cards have fallen by more than half since March."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the format first: starter set to play, box to open, case to open volume, single to own a card",
+          "If buying a box, divide it: $2.35 a pack on M3 is the number to beat",
+          "If buying a case, divide it too: the M1L case is $2.53 a pack, the M2 case $3.70",
+          "If buying the single, check name, number, and set mark: both MEGA gold cards are 092/063",
+          "If buying the box, confirm the pack count: 30 for a standard box, 20 for SV2a and M6a, 10 for high-class packs",
+          "When the box arrives, count the packs and check the tear strip and the film seams before opening",
+          "Film the opening in one continuous video, it is the only evidence a platform accepts"
+        ],
+        "h": "Action layer: the buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the shelf stops being a gamble. Decide the format before you pay, divide the price before you trust it, verify the card number before you buy the single, and verify the seal before you open the box. The best Japanese Pokémon cards to buy are the ones whose arithmetic you have already run, and on this shelf the arithmetic points to the M3 box, the Diancie starter set, and the M1L case, in that order. For the whole shelf ranked by buyer, the [best box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) names a pick for first boxes, chase openings, and twin sets."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-cards",
+    "takeaway": [
+      "The best Japanese Pokémon buy on our shelf is the M3 box at $70.62, or $2.35 a pack, and the cheapest way in is the Diancie starter set at $11.15. The chase cards cost two to three boxes each as singles, and no box guarantees one.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace figures as of October 28 to November 9, 2026. The Pokémon Company publishes no pull rates for these sets, so no per-box odds appear in this guide.",
+      "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases."
     ]
   },
   "best-japanese-pokemon-etb": {
@@ -6829,7 +7053,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese Pokemon starter deck is the one that matches how you will play. A solo learner on a budget buys the SI Start Deck 100 at $8.93 and accepts the lottery. A solo learner who wants to choose buys the Diancie starter at $11.15. A household buys the Generations set at $33.46 and gets four decks at $8.37 each. The Gengar starter at $24.54 is for Gengar fans, and the Battle Collection at $26.77 is for players who want the newest random-deck experience. Divide by 60, double for a match, and let the arithmetic choose.",
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next starter range arrives, divide first, then ask whether the deck is fixed or random, because that one fact changes what the price buys.",
-      "Still deciding between a deck and a box? The [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices the box route, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Pokemon against One Piece, Lorcana, and Dragon Ball on rules and real first purchase cost. If the deck is for a collector shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping sealed product safe."
+      "Still deciding between a deck and a box? The [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices the box route, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Pokemon against One Piece, Lorcana, and Dragon Ball on rules and real first purchase cost. If the deck is for a collector shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping sealed product safe.",
+      "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box."
     ]
   },
   "best-japanese-tcg": {
@@ -13205,6 +13430,202 @@ export const POSTS: Record<string, BlogPost> = {
       "For the twin, the [Black Bolt buyer’s guide](/blog/sv11b-black-bolt-buyers-guide/) prices the Zekrom half at $183.18 a box, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case. For the same worth-it question in the other game we stock, the [best Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen Lorcana sets to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter. New this cycle: the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) is the English-versus-Japanese comparison this article summarizes."
     ]
   },
+  "japanese-booster-box-price": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "On our shelf as of November 9, 2026, a Japanese booster box runs from $69.48 for the One Piece OP-15 box to $471.20 for the Pokémon 151 box. Most current Pokémon boxes sit between $70.62 and $94.91, and most current One Piece boxes between $69.48 and $121.28. Dragon Ball Fusion World and Disney Lorcana sell by the sealed case, so their box prices are the case divided by its boxes: $111.08 to $402.50 for Fusion World, $115.86 to $436.84 for English Lorcana.",
+        "q": "How much is a Japanese booster box?"
+      },
+      {
+        "a": "The cheapest single box is the One Piece OP-15 Adventure on KAMI's Island box at $69.48, or $2.90 a pack across 24 packs of 6 cards. The cheapest pack on the shelf is cheaper still: the Japanese Disney Lorcana First Chapter case at $564.07 divides to $37.60 a box and $1.57 a pack across 15 boxes of 24 packs.",
+        "q": "What is the cheapest Japanese booster box?"
+      },
+      {
+        "a": "Per pack, yes, by a wide margin. Current Japanese Pokémon boxes run $2.35 to $3.16 a pack, against $8.33 a pack for the English Mega Evolution box on TCGplayer market. The English buyer pays for readable text and tournament legality; the Japanese buyer pays a third of the per-pack price for the same chase-art family. The exception is the English-only formats, like the Elite Trainer Box, which Japan never made.",
+        "q": "Are Japanese booster boxes cheaper than English ones?"
+      }
+    ],
+    "h1": "Japanese Booster Box Prices: Every Game on One Shelf, Divided",
+    "intro": [
+      "Short answer: the cheapest Japanese booster box on our shelf is the One Piece OP-15 box at $69.48, or $2.90 a pack, one dollar and fourteen cents under the cheapest Pokémon box, M3 at $70.62. The dearest is the Pokémon 151 box at $471.20, or $23.56 a pack. Between them sit 83 Pokémon boxes, 24 One Piece boxes, and two games we sell only by the sealed case.",
+      "This guide prices every booster box on the Warehouse shelf as of November 9, 2026, in dollars, divided to the pack and the card. Pokémon and One Piece sell by the single box. Dragon Ball Fusion World and Disney Lorcana sell by the sealed case, so their box prices are the case divided by its boxes, and their pack prices are the case divided by its packs.",
+      "The best-known price ladder for this question covers Pokémon only, in yen, and never divides to the pack. What it misses is the cross-game comparison: the cheapest pack on a four-game shelf is not a Pokémon pack at all."
+    ],
+    "metaDescription": "Every Japanese booster box price on one shelf: Pokémon from $70.62, One Piece from $69.48, Dragon Ball and Lorcana by the case. Nov 9, 2026.",
+    "metaTitle": "Japanese Booster Box Prices: The Full Shelf",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The whole shelf, priced",
+        "paragraphs": [
+          "Four games, one shelf, and the prices do not overlap the way a buyer expects. Pokémon runs from $70.62 to $471.20 across 83 boxes. One Piece runs from $69.48 to $238.45 across 24 boxes. Dragon Ball Fusion World runs from $111.08 to $402.50 a box, divided from its English sealed cases. Disney Lorcana runs from $115.86 to $436.84 a box, divided from its English sealed cases, with one Japanese case that breaks the pattern entirely.",
+          "The cheapest single box on the shelf is One Piece, not Pokémon, by $1.14. The cheapest pack is not a single box at all: it is the Japanese Lorcana First Chapter case at $1.57 a pack. The dearest pack is the Pokémon 151 box at $23.56, which costs more per pack than a whole M3 box costs per box. The table below is the shelf in one view, and the sections after it divide each game."
+        ],
+        "table": {
+          "head": [
+            "Game",
+            "Cheapest box",
+            "Dearest box",
+            "Cheapest pack",
+            "Packs per box"
+          ],
+          "rows": [
+            [
+              "Pokémon, Japanese",
+              "M3 Munikis Zero, $70.62",
+              "SV2a Pokémon 151, $471.20",
+              "$2.35",
+              "10, 20, or 30"
+            ],
+            [
+              "One Piece, Japanese",
+              "OP-15, $69.48",
+              "OP-01 Romance Dawn, $238.45",
+              "$2.90",
+              "24"
+            ],
+            [
+              "Dragon Ball Fusion World, English case",
+              "FB02, $111.08 a box",
+              "FB09, $402.50 a box",
+              "$4.63",
+              "24"
+            ],
+            [
+              "Disney Lorcana, English case",
+              "Reign of Jafar, $115.86 a box",
+              "First Chapter, $436.84 a box",
+              "$4.83",
+              "24"
+            ],
+            [
+              "Disney Lorcana, Japanese case",
+              "First Chapter, $37.60 a box",
+              "First Chapter, $37.60 a box",
+              "$1.57",
+              "24"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Pokémon: 83 boxes, $70.62 to $471.20",
+        "math": [
+          "Cheapest Pokémon box: M3 Munikis Zero $70.62 ÷ 30 packs = $2.35 per pack",
+          "M3 per card: $70.62 ÷ 150 cards = $0.47 per card",
+          "M1L Mega Brave box: $94.91 ÷ 30 packs = $3.16 per pack",
+          "M1L case per pack: $912.18 ÷ 360 packs = $2.53 per pack",
+          "SV8 Super Electric Breaker box: $258.23 ÷ 30 packs = $8.61 per pack",
+          "M6a 30th Celebration box: $249.00 ÷ 20 packs = $12.45 per pack",
+          "SV8a Terastal Festival ex box: $163.32 ÷ 10 packs = $16.33 per pack",
+          "Dearest Pokémon box: SV2a Pokémon 151 $471.20 ÷ 20 packs = $23.56 per pack",
+          "SV2a per card: $471.20 ÷ 140 cards = $3.37 per card",
+          "SV2a case per pack: $3,809.32 ÷ 240 packs = $15.87 per pack",
+          "Pokémon spread: $471.20 − $70.62 = $400.58",
+          "Dearest against cheapest: $471.20 ÷ $70.62 = 6.67 times"
+        ],
+        "paragraphs": [
+          "Pokémon is the deepest shelf here, and its price range is the widest: $400.58 from the cheapest box to the dearest, a 6.67-times spread. The bottom of the range is the current MEGA era. [M3](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is $70.62, M1S and SV9 are $84.97, [M1L](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) is $94.91, and every one of them is 30 packs of five cards at $2.35 to $3.16 a pack. A buyer who wants a current Japanese box pays under $100, and the only decision is which chase card they want.",
+          "The top of the range is history, not volume. The [SV2a 151 box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) is $471.20 for 20 packs of 7 cards, or $23.56 a pack and $3.37 a card, and it is dear because it is 151, the set every collector benchmarks against. The next dearest boxes are the SV8 Super Electric Breaker at $258.23, or $8.61 a pack, and the M6a 30th Celebration at $249, or $12.45 a pack. Between the current era and the benchmarks sit the high-class packs, 10 packs of 10 cards at $11.48 to $16.33 a pack, where every card is holographic and the box holds a third as many packs.",
+          "The case column is where the Pokémon range narrows. The M1L case is $2.53 a pack against a $3.16 single box, and the SV2a case is $15.87 a pack against a $23.56 single box, a saving of $1,845.08 on twelve boxes. A buyer who wants volume should divide the case before they divide the box, because on this shelf the case is the only sealed price that beats the market. Our [Pokémon box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the same 83 boxes by buyer, and the [Pokémon price guide](/blog/japanese-pokemon-booster-box-price/) prices the Pokémon shelf alone."
+        ]
+      },
+      {
+        "h": "One Piece: 24 boxes, $69.48 to $238.45",
+        "math": [
+          "Cheapest One Piece box: OP-15 $69.48 ÷ 24 packs = $2.90 per pack",
+          "OP-15 per card: $69.48 ÷ 144 cards = $0.48 per card",
+          "OP-18 pre-order box: $84.00 ÷ 24 packs = $3.50 per pack",
+          "OP-18 case per box: $906.00 ÷ 12 boxes = $75.50 per box",
+          "OP-18 case per pack: $906.00 ÷ 288 packs = $3.15 per pack",
+          "OP-18 case saving: $84.00 × 12 = $1,008.00 − $906.00 = $102.00",
+          "OP-16 box: $105.00 ÷ 24 packs = $4.38 per pack",
+          "OP-17 box: $121.28 ÷ 24 packs = $5.05 per pack",
+          "Dearest One Piece box: OP-01 $238.45 ÷ 24 packs = $9.94 per pack",
+          "One Piece spread: $238.45 − $69.48 = $168.97",
+          "Dearest against cheapest: $238.45 ÷ $69.48 = 3.43 times",
+          "Cheapest box on the shelf: OP-15 $69.48 against M3 $70.62 = $1.14 less"
+        ],
+        "paragraphs": [
+          "One Piece is the tidiest shelf here, because every Japanese box holds 24 packs of 6 cards, so the per-pack ranking is the same as the price ranking. The cheapest box is [OP-15 Adventure on KAMI's Island](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) at $69.48, or $2.90 a pack and $0.48 a card. The newest box, [OP-18 The Dominance of God](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/), is second-cheapest on pre-order at $84, or $3.50 a pack, and its case is $906, or $75.50 a box and $3.15 a pack, a saving of $102 on twelve boxes. OP-16 is $105, or $4.38 a pack, and OP-17 is $121.28, or $5.05 a pack.",
+          "The dear end is the first set. [OP-01 Romance Dawn](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) is $238.45, or $9.94 a pack, which is 3.43 times the OP-15 box. The spread across the whole One Piece shelf is $168.97, less than half the Pokémon spread, because One Piece has no 151: no single set has pulled away from the rest the way Pokémon 151 has. The four Extra Boosters and the two Premium Boosters sit inside the same range, from the PRB-02 box at $74.82 to the EB-02 box at $178.86.",
+          "One warning belongs in this section: OP-18 is a pre-order, not stock in hand, and its $84 price is the pre-order price as of November 9, 2026. Pre-order prices move, and a pre-order box is a promise, not a parcel. Our [One Piece box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes the same way, and the [OP-18 preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) works the case arithmetic out in full."
+        ]
+      },
+      {
+        "h": "Dragon Ball and Lorcana: sold by the case",
+        "math": [
+          "Fusion World FB02 case per box: $1,332.92 ÷ 12 boxes = $111.08 per box",
+          "FB02 per pack: $1,332.92 ÷ 288 packs = $4.63 per pack",
+          "Fusion World FB07 case per box: $1,587.00 ÷ 12 boxes = $132.25 per box",
+          "FB07 per pack: $1,587.00 ÷ 288 packs = $5.51 per pack",
+          "Fusion World FB09 case per box: $4,830.00 ÷ 12 boxes = $402.50 per box",
+          "FB09 per pack: $4,830.00 ÷ 288 packs = $16.77 per pack",
+          "Lorcana Reign of Jafar case per box: $463.45 ÷ 4 boxes = $115.86 per box",
+          "Lorcana Jafar per pack: $463.45 ÷ 96 packs = $4.83 per pack",
+          "Lorcana First Chapter case per box: $1,747.37 ÷ 4 boxes = $436.84 per box",
+          "Lorcana First Chapter per pack: $1,747.37 ÷ 96 packs = $18.20 per pack",
+          "Lorcana Japanese First Chapter case per box: $564.07 ÷ 15 boxes = $37.60 per box",
+          "Lorcana Japanese First Chapter per pack: $564.07 ÷ 360 packs = $1.57 per pack"
+        ],
+        "paragraphs": [
+          "Two games on this shelf sell only by the sealed case, and their prices only make sense divided. Dragon Ball Fusion World cases hold 12 boxes, and each box holds 24 packs of 12 cards, so a case is 288 packs. The cheapest case is [FB02 Blazing Aura](/product/dragon-ball-super-fusion-world-fb02-blazing-aura-booster-box-sealed-case-english/) at $1,332.92, or $111.08 a box and $4.63 a pack. FB07 Wish for Shenron is $1,587, or $132.25 a box and $5.51 a pack. The dearest is [FB09 Dual Evolution](/product/dragon-ball-super-fusion-world-fb09-dual-evolution-booster-box-sealed-case-engli/) at $4,830, or $402.50 a box and $16.77 a pack. These are English cases, not Japanese boxes: the Japanese Fusion World box is a different product at a different price, and our [FB09 guide](/blog/fb09-dual-evolution-buyers-guide/) works the Japanese against English comparison out in full.",
+          "Disney Lorcana cases hold 4 boxes, and each box holds 24 packs of 12 cards, so a case is 96 packs. The cheapest English case is [Reign of Jafar](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) at $463.45, or $115.86 a box and $4.83 a pack. The dearest is [The First Chapter](/product/disney-lorcana-the-first-chapter-booster-box-sealed-case-set-1-english/) at $1,747.37, or $436.84 a box and $18.20 a pack. A Lorcana box holds twice as many cards as a Pokémon box, 288 against 150, which is why the per-pack price is the honest comparison and the per-box price is not.",
+          "The exception is the Japanese Lorcana case. The [Japanese edition of The First Chapter](/product/disney-lorcana-tcg-japanese-edition-booster-the-first-chapter-the-beginning-of-t/) comes in a sealed case of 15 boxes at $564.07, which divides to $37.60 a box and $1.57 a pack. That is the cheapest pack on the whole four-game shelf, under the M3 Pokémon pack at $2.35 and the OP-15 pack at $2.90, and it is the cheapest pack because the Japanese case holds fifteen boxes where the English case holds four. Our [Lorcana box guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks the Lorcana shelf by buyer, and the [Fusion World box guide](/blog/best-dragon-ball-fusion-world-booster-box/) does the same for Dragon Ball."
+        ]
+      },
+      {
+        "h": "What the other ladders miss: the cheapest pack is not Pokémon",
+        "note": "Warehouse Note: the question we get most about booster box prices is which game is cheapest, and the answer surprises every buyer who asks it. The cheapest single box is One Piece, not Pokémon, by $1.14. The cheapest pack is a Japanese Lorcana case at $1.57. The shelf rewards the buyer who compares across games, and it punishes the buyer who only ever prices Pokémon.",
+        "paragraphs": [
+          "The best-known ladder for this question lines Japanese Pokémon boxes up by price in yen, from the MEGA era at the bottom to the Sword and Shield boxes at the top. It is a good ladder, and it is incomplete in three ways. It covers one game, so it cannot see that One Piece undercuts Pokémon on the cheapest box. It prices in yen, so a dollar buyer has to convert every rung. And it never divides to the pack, so it cannot see that a $471.20 box holds 20 packs while a $70.62 box holds 30, and that the dear box is ten times the cheap box per pack.",
+          "The other gap is the case. A ladder of single-box prices tells the buyer the shelf is dear, because the single box is the premium. The M1L single box is $14.55 above the TCGplayer box market, and the M1L case box is $4.34 below it. The OP-18 single box is $84, and the OP-18 case box is $75.50. A price guide that never divides a case is a guide that never shows the buyer the cheapest price on its own shelf. Our [case-versus-box guide](/blog/sealed-case-vs-booster-box-the-math/) divides the case decision for every game."
+        ]
+      },
+      {
+        "h": "Context: why Japanese boxes cost what they cost",
+        "paragraphs": [
+          "The floor under every Japanese box is the Japanese retail price. A standard Pokémon box is ¥5,400 at retail, 30 packs at ¥180, and the M3 box at $70.62 is the shelf's markup over that floor after shipping, import, and margin. A Japanese One Piece box is 24 packs at ¥240, or ¥5,760 at retail, and the OP-15 box at $69.48 sits near the same floor. The English boxes cost more per pack because the English print runs are smaller, the packs hold more cards, and the distribution chain is longer: an English Mega Evolution box is $8.33 a pack on TCGplayer market, against $2.35 to $3.16 for the current Japanese MEGA boxes.",
+          "The second force is age. Current sets sit near the floor, and older sets climb away from it. The 151 box is $471.20 because the set is out of print and every collector benchmarks against it, not because it holds more packs. The First Chapter Lorcana case is $1,747.37 because it is the first set, not because it holds more cards. The third force is the pre-order: OP-18 at $84 is the second-cheapest One Piece box because it has not released yet, and pre-order prices are the lowest prices a set ever carries, until they are not."
+        ]
+      },
+      {
+        "h": "The risk layer: pre-orders, reseals, and the price that moves",
+        "paragraphs": [
+          "Three risks belong on a price guide, because a price is only true on the day it is printed. The first is the pre-order: OP-18 at $84 is a pre-order price, and pre-order prices move with allocation, so the number to trust is the one on the product page on the day you pay, not the one in this guide. The second is the reseal: a box priced dramatically below suggested retail is a near-certain fake flag, and on this shelf the cheapest real box is $69.48, so a $30 box of a current set is not a bargain. Japanese boxes open along a perforated tear strip, so a pre-torn strip means the box was opened, and the pack count must be 30 for a standard Pokémon box, 24 for One Piece, and 24 for Lorcana and Fusion World.",
+          "The third risk is the price itself. Every number in this guide is our shelf price as of November 9, 2026, and prices move with the market, with allocation, and with the yen. The method does not move: divide the box by its packs, divide the case by its boxes, and compare per pack, never per box. A buyer who divides will not overpay for a box that holds ten packs when the box beside it holds thirty."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants a single number. There is no one price for a Japanese booster box: the range on this shelf is $69.48 to $471.20, and the per-pack range is $1.57 to $23.56. It is not for the buyer who wants English Pokémon, whose ladder is different and dearer per pack. It is not for the buyer who wants a pre-order treated as stock in hand: OP-18 at $84 is a promise, not a parcel. And it is not for the buyer who will not divide: a box price without a pack count is a number without a meaning."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the game first: Pokémon for depth, One Piece for the cheapest box, Lorcana for the cheapest pack",
+          "Divide every box by its packs: 30 for a standard Pokémon box, 24 for One Piece, Lorcana, and Fusion World",
+          "Divide every case by its boxes: 12 for Pokémon and Fusion World, 4 for English Lorcana, 15 for Japanese Lorcana",
+          "Compare per pack, never per box: a $471.20 box can cost more per pack than a $70.62 box costs per box",
+          "Check the pre-order flag: OP-18 at $84 is a pre-order price, not stock in hand",
+          "When the box arrives, count the packs and check the tear strip before opening",
+          "Film the opening in one continuous video, it is the only evidence a platform accepts"
+        ],
+        "h": "Action layer: the price checklist",
+        "paragraphs": [
+          "Run the checklist in order and the shelf stops being a wall of prices. Pick the game, divide the box, divide the case, compare per pack, and check the pre-order flag before you pay. The cheapest box on the shelf is OP-15 at $69.48, the cheapest pack is the Japanese Lorcana case at $1.57, and the cheapest current Pokémon pack is M3 at $2.35. For the Pokémon shelf alone, the [Pokémon price guide](/blog/japanese-pokemon-booster-box-price/) prices every box, and for the best box by buyer rather than by price, the [best box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) names the pick."
+        ]
+      }
+    ],
+    "slug": "japanese-booster-box-price",
+    "takeaway": [
+      "The cheapest Japanese booster box on our shelf is OP-15 at $69.48, and the cheapest pack is the Japanese Lorcana case at $1.57. Pokémon runs $70.62 to $471.20 a box, and the dearest pack on the shelf is the 151 box at $23.56.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026. Divide the box by its packs and the case by its boxes, and compare per pack, never per box.",
+      "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box."
+    ]
+  },
   "japanese-pokemon-booster-box-price": {
     "datePublished": "2026-11-06",
     "faqs": [
@@ -13638,7 +14059,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Comparing across games? [The Japanese One Piece booster box price board](/blog/best-japanese-one-piece-booster-box-price/) runs the same board for One Piece, and [the best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For one set in depth, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $133.69-a-box case, and the Cynthia's Garchomp ex chase behind it.",
       "New this cycle: the [best Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) divides every box to the pack and then to the card, and prices the three sealed promo packs.",
       "For the dearest box on this board in depth, the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the $471.20 box against a case that saves $1,845.08.",
-      "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) prices the floor box by box, from Rebellion Crash at $43.03 to the sixteen cheapest under $95, with per-pack and per-card math for each."
+      "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) prices the floor box by box, from Rebellion Crash at $43.03 to the sixteen cheapest under $95, with per-pack and per-card math for each.",
+      "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases."
     ]
   },
   "japanese-pokemon-cards-wholesale-buyers-guide": {
