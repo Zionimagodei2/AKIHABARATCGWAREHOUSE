@@ -2405,7 +2405,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Japanese Fusion World checklist",
         "paragraphs": [
-          "Run this in order before the next Japanese Fusion World product you consider. It takes five minutes and it replaces an afternoon of comparing yen listings with a decision built on the shelf price you can actually pay."
+          "Run this in order before the next Japanese Fusion World product you consider. It takes five minutes and it replaces an afternoon of comparing yen listings with a decision built on the shelf price you can actually pay. The [Japanese Dragon Ball price guide](/blog/buy-dragon-ball-cards-japanese-price/) divides every price on the shelf, from the $26.02 single to the $4,830.00 case."
         ]
       }
     ],
@@ -8640,7 +8640,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "The decision, as a checklist",
         "paragraphs": [
-          "Run through this before you check out, in this order. The order is the point: legendary first, format second, arithmetic third."
+          "Run through this before you check out, in this order. The order is the point: legendary first, format second, arithmetic third. The [White Flare buyers guide](/blog/sv11w-white-flare-buyers-guide/) runs the same division for the Reshiram half, box against Deluxe against case."
         ]
       }
     ],
@@ -8809,7 +8809,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Japanese Dragon Ball checklist",
         "paragraphs": [
-          "Run the checklist in order and the buy is boring, which is the point. Name the game, name the card, check the five singles, price the alternative, confirm the identity, confirm the shipping. A boring buy arrives as described."
+          "Run the checklist in order and the buy is boring, which is the point. Name the game, name the card, check the five singles, price the alternative, confirm the identity, confirm the shipping. A boring buy arrives as described. For every price behind the purchase, the [Japanese Dragon Ball price guide](/blog/buy-dragon-ball-cards-japanese-price/) divides the five singles, the official boxes, and the English cases to the pack and the card."
         ]
       }
     ],
@@ -8817,6 +8817,180 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Japanese Dragon Ball cards on this shelf are five singles, FB08 $26.02 to FB09 $64.12, not boxes, and the sealed route here is the English case from FB04 at $106.61 a box. The listings do not name the card, so confirm the card before you pay if the identity matters.",
       "Name the game, name the card, check the five singles, price the alternative, and confirm the shipping. A boring buy is a buy that arrives as described."
+    ]
+  },
+  "buy-dragon-ball-cards-japanese-price": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "As single cards on our shelf, $26.02 to $64.12, with all five together at $233.24. As sealed Japanese boxes, ¥5,280 (about $33.42) at official retail for FB01 through FB10 and ¥5,760 (about $36.46) for FB11 and FB12, though the market asks run far above that, from ¥7,899 for FB11 to ¥91,000 for SB01. As English sealed cases on our shelf, $1,235.10 to $4,830.00 for the mainline sets, or $102.93 to $402.50 a box.",
+        "q": "How much do Japanese Dragon Ball cards cost?"
+      },
+      {
+        "a": "It is not a box. Our five Japanese Dragon Ball listings are single cards, and the image shows the set's box art, which is how the misreading starts. The title ends in 'Card', the price is a card's price, and a sealed SB01 box asks about $575.95 on SNKRDUNK, so a $57.61 SB01 box is impossible. Buy the card if you want the card, and price a sealed box from the official retail and the marketplace ask, not from a single card's price.",
+        "q": "Why is a Japanese Dragon Ball 'box' only $26.02?"
+      },
+      {
+        "a": "Per pack at official retail, Japanese: $1.39 a pack against $4.44 for the cheapest English Fusion World case, FB04. But Japanese sealed boxes trade far above retail on SNKRDUNK, with FB07 at 5.27 times MSRP, so the English case is the cheaper sealed route a buyer can actually pay for on our shelf. For one named card, the single decides it: our Japanese singles run $26.02 to $64.12, and the English case price tells you nothing about them.",
+        "q": "Is it cheaper to buy Japanese or English Dragon Ball cards?"
+      }
+    ],
+    "h1": "Japanese Dragon Ball Cards: Every Price, Divided",
+    "intro": [
+      "Short answer: Japanese Dragon Ball cards cost $26.02 to $64.12 as single cards on our shelf, a sealed Japanese booster box costs ¥5,280 ($33.42) at official retail for FB01 through FB10 and ¥5,760 ($36.46) for FB11 and FB12, and the English sealed cases we stock run $1,235.10 to $4,830.00 for the mainline sets. The five Japanese listings on our shelf are single cards, not boxes, and that one distinction decides whether any price you compare is real. Every figure below is divided to the pack and the card, and every yen figure converts at ¥158 per dollar, November 9, 2026.",
+      "Who this is for: buyers comparing Japanese and English Dragon Ball prices before they pay, collectors who want the cheapest sealed route into a set, and anyone who has seen a $26 Japanese 'box' and wondered why it costs less than a pack of Pokémon. Who it is not for: anyone buying one named chase card, who should price the single; anyone who needs a guaranteed sealed Japanese box today, because our Japanese stock is singles; and anyone shopping the older Dragon Ball Heroes or Carddass lines, which are a different market."
+    ],
+    "metaDescription": "Every Japanese Dragon Ball price on our shelf, divided: five single cards $26.02–$64.12, official boxes ¥5,280–¥5,760, English cases from $1,235.10.",
+    "metaTitle": "Japanese Dragon Ball Cards: Prices, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because Japanese Dragon Ball punishes the buyer who confuses a card with a box. A buyer who wants one Japanese card pays $26.02 to $64.12 on our shelf, depending on the set, and owns the card the same day. A buyer who wants a sealed Japanese box pays official retail, ¥5,280 for FB01 through FB10 and ¥5,760 for FB11 and FB12, and then pays the market: the lowest SNKRDUNK asks run from ¥7,899 for FB11 to ¥91,000 for SB01, and a sealed Japanese box on our shelf does not exist, because our Japanese stock is five single cards. A buyer who wants sealed product from this store buys English: the cheapest sealed case is the Masters B25 at $1,235.10, $102.93 a box, and the cheapest Fusion World case is FB04 Ultra Limit at $1,279.26, $106.61 a box.",
+          "The distinction that decides everything is printed on the listing and missed by nearly every price comparison on the internet: our five Japanese Dragon Ball listings are single cards, not booster boxes. The image shows the set's box art, the title ends in 'Card', and the price is a card's price. A sealed SB01 box asks about $575.95 on SNKRDUNK, so a $57.61 SB01 'box' is impossible, and any guide that divides $57.61 by 24 packs is dividing a card. Our [how-to guide](/blog/buy-dragon-ball-cards-japanese/) walks the purchase step by step; this page is the price reference behind it."
+        ]
+      },
+      {
+        "h": "The money layer: the five singles, the official boxes, and the English cases",
+        "math": [
+          "Five Japanese singles, all together: $26.02 + $27.88 + $57.61 + $57.61 + $64.12 = $233.24",
+          "Singles spread, dearest against cheapest: $64.12 − $26.02 = $38.10; $64.12 ÷ $26.02 = 2.46×",
+          "Official Japanese box, FB01–FB10: ¥5,280 ÷ ¥158 = $33.42",
+          "Official Japanese box, FB11–FB12: ¥5,760 ÷ ¥158 = $36.46",
+          "Official Japanese box per pack: $33.42 ÷ 24 = $1.39 per pack",
+          "Official Japanese box per card: $33.42 ÷ 144 = $0.23 per card",
+          "Cheapest English Fusion World case per box: $1,279.26 ÷ 12 = $106.61 per box",
+          "Cheapest English Fusion World case per pack: $106.61 ÷ 24 = $4.44 per pack",
+          "Dearest mainline English Fusion World case per box: $4,830.00 ÷ 12 = $402.50 per box",
+          "Dearest mainline English Fusion World case per pack: $402.50 ÷ 24 = $16.77 per pack",
+          "Cheapest English Masters case per box: $1,235.10 ÷ 12 = $102.93 per box",
+          "Cheapest English Masters case per pack: $102.93 ÷ 24 = $4.29 per pack",
+          "B32 per pack, corrected: $1,255.80 ÷ 12 = $104.65 per box; $104.65 ÷ 20 = $5.23 per pack",
+          "SB01 box on SNKRDUNK, June 16 2026: ¥91,000 ÷ ¥158 = $575.95",
+          "SB01 ask against its MSRP: ¥91,000 ÷ ¥7,920 = 11.49×",
+          "FB09 ask fall, June to September 2026: (¥9,099 − ¥11,900) ÷ ¥11,900 = −23.5%",
+          "Free shipping threshold: 20 × $26.02 = $520.40; 8 × $64.12 = $512.96"
+        ],
+        "paragraphs": [
+          "Start with the singles, because they are the only Japanese Dragon Ball prices on our shelf. Five cards: FB08 at $26.02, FB07 at $27.88, SB02 and SB01 at $57.61 each, and FB09 at $64.12. All five together cost $233.24, and the spread from cheapest to dearest is $38.10, with the dearest at 2.46 times the cheapest. These are single cards from the Fusion World sets, each one the set's named card, and the price is the whole purchase: there is no pack to open and no box to divide. A buyer who wants all five pays $233.24 and owns five cards; a buyer who wants one pays its own price and nothing else.",
+          "The official Japanese box is the next line, and it is the cheapest sealed route in theory and the hardest to buy in practice. Bandai's official pages print ¥220 a pack for FB01 through FB10 and ¥240 a pack for FB11 and FB12, six cards a pack, and a box holds 24 packs, which puts the official box at ¥5,280, about $33.42, for the older sets and ¥5,760, about $36.46, for the two newest. That is $1.39 a pack and $0.23 a card at official retail, the cheapest per-pack figure in this guide by a wide margin. But official retail is not the market: the lowest SNKRDUNK asks on June 16, 2026 ran from ¥11,399 for FB10 to ¥91,000 for SB01, 2.16 times MSRP at the low end and 11.49 times at the top, and the asks fell by September 29, with FB09 down 23.5% and FB10 down 7.9%.",
+          "The English sealed cases are the sealed route a buyer can actually pay for here, and the division is where the choice lives. The cheapest Fusion World case is [FB04 Ultra Limit](/product/dragon-ball-super-fusion-world-fb04-ultra-limit-booster-box-sealed-case-english/) at $1,279.26, which is $106.61 a box, $4.44 a pack, and $0.74 a card. The dearest mainline Fusion World case is FB09 Dual Evolution at $4,830.00, which is $402.50 a box, $16.77 a pack, and $2.80 a card, a gap of $295.89 a box between the cheapest and the dearest case in the same game. The cheapest Masters case is [B25 Legend of the Dragon Balls](/product/dragon-ball-super-card-game-masters-b25-legend-of-the-dragon-balls-booster-box-s/) at $1,235.10, $102.93 a box and $4.29 a pack, which makes the oldest game on the shelf the cheapest sealed entry as well. Every case on the shelf holds 12 boxes, so the per-box figure is always the case price divided by twelve, and the per-pack figure is the per-box figure divided by the packs the store lists for that set.",
+          "Two corrections belong in the money layer, because both change figures buyers already have. First, B32 Chromatic Ascension: the store lists 20 packs per box for B32, not 24, so the case at $1,255.80 is $104.65 a box and $5.23 a pack, and any guide that divides B32 by 24 packs understates the per-pack cost. Second, the Manga Boosters: the store lists 24 packs per box for the SB01 and SB02 cases, but outside guides disagree, with Shonen Grail listing 20, so this guide gives SB per-box figures only, $2,242.50 for SB01 and $793.51 for SB02, and withholds the per-pack division until the count is settled. The B27 History of Z case at $9,315.00, $776.25 a box, is flagged as a likely catalog outlier and excluded from every 'dearest' claim in this guide."
+        ]
+      },
+      {
+        "h": "The decision layer: single, Japanese box, or English case, side by side",
+        "paragraphs": [
+          "Seven rows cover the real choice, so the table keeps to seven and the money layer above carries the full division. Prices are our shelf prices as of November 9, 2026. Yen figures convert at ¥158 per dollar, November 9, 2026, and the SNKRDUNK asks are dated in the text.",
+          "Read the table by buyer type. Single-card buyers scan the first two rows and see that the whole Japanese shelf spans $38.10, so the set decides the price more than the card does. Sealed buyers compare the two official-retail rows against the three case rows and see the real trade: Japanese retail is $1.39 a pack and unbuyable at that price, while the English cases run $4.29 to $16.77 a pack and are on the shelf today. The [best-box guide](/blog/best-fusion-world-booster-box-japanese/) ranks the Fusion World sets for opening, and the [Masters guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) does the same for the older game."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Warehouse price, Nov 9 2026",
+            "What you get",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "Japanese single card — FB08",
+              "$26.02",
+              "One card, Saiyan's Pride set",
+              "One card; the cheapest Japanese entry"
+            ],
+            [
+              "Japanese single card — FB09",
+              "$64.12",
+              "One card, Dual Evolution set",
+              "One card; the dearest of the five"
+            ],
+            [
+              "Japanese box at official retail — FB01–FB10",
+              "¥5,280 (about $33.42)",
+              "24 packs of 6 cards; 144 cards",
+              "$1.39 per pack; $0.23 per card"
+            ],
+            [
+              "Japanese box at official retail — FB11–FB12",
+              "¥5,760 (about $36.46)",
+              "24 packs of 6 cards; 144 cards",
+              "$1.52 per pack; $0.25 per card"
+            ],
+            [
+              "English sealed case — FB04 Ultra Limit",
+              "$1,279.26",
+              "12 boxes; 288 packs; 1,728 cards",
+              "$106.61 per box; $4.44 per pack"
+            ],
+            [
+              "English sealed case — FB09 Dual Evolution",
+              "$4,830.00",
+              "12 boxes; 288 packs; 1,728 cards",
+              "$402.50 per box; $16.77 per pack"
+            ],
+            [
+              "English sealed case — Masters B25",
+              "$1,235.10",
+              "12 boxes; 288 packs; 3,456 cards",
+              "$102.93 per box; $4.29 per pack"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top results miss: the shelf nobody prices",
+        "note": "From the Warehouse: the question we get most about Japanese Dragon Ball is why a 'box' costs $26.02, and the honest answer is that it is not a box. Our five Japanese listings are single cards with the set's box art on the image, and a sealed SB01 box asks about $575.95 on SNKRDUNK, so a $57.61 SB01 box is impossible. We say so on the listing and we say so here, because a buyer who divides $57.61 by 24 packs is dividing a card.",
+        "paragraphs": [
+          "The top results for this question give price bands without a shelf behind them. The first lists standard booster packs at $5 to $20 and rare cards at $100 to $2,000 and up, true of every card game and useful for none. The second explains the difference between Fusion World and Masters and names the sets, but prints no price at all. The third tracks eBay singles by grade, which is a database, not a decision. None of them prices a real shelf, none of them separates a single card from a sealed box, and none of them says that the five Japanese Dragon Ball listings on our shelf are cards.",
+          "That gap hides three findings. First, the correction: five listings that read as boxes are single cards, and the correction changes every per-pack figure ever computed from them. Second, the official-retail gap: a Japanese box costs $33.42 at MSRP and the cheapest English case costs $106.61 a box, so the buyer who can buy at Japanese retail pays a third of the sealed price, and the buyer who cannot pays the case price. Third, the falling asks: FB09 fell 23.5% and FB10 fell 7.9% between June and September 2026, so a price guide that quotes June asks in November is quoting a market that no longer exists. The [Fusion World overview](/blog/best-dragon-ball-fusion-world-japanese/) covers the game itself; this page is the prices."
+        ]
+      },
+      {
+        "h": "The risk layer: fakes, falling asks, and the SB01 trap",
+        "paragraphs": [
+          "The first risk is the fake and the reseal. Japanese sealed boxes trade far above retail, and that premium is exactly what resealers arbitrage, so a loose Japanese box from an unknown seller is the riskiest purchase in this guide. Buy sealed cases from a store that prints the case config, twelve boxes and the packs per box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you pay for any loose box. Our Japanese stock is singles, which removes the reseal question entirely: a card is either the card or it is not.",
+          "The second risk is the falling ask. SNKRDUNK asks are not sale prices, and they move: FB09 fell 23.5% and FB10 fell 7.9%, and the record chase in SB01, the E-42 Gold Energy Marker, fell about 40% from June to late October 2026. An ask is a seller's hope, and a buyer who treats June's ¥91,000 SB01 ask as November's price is paying for a market that has already moved. The [shipping and customs guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers what else lands on top of a Japanese price before the parcel reaches you.",
+          "The third risk is the catalog itself. The B27 case at $9,315.00 is 5.15 times the next-dearest Masters case and is flagged here as a likely catalog outlier, not a market price, so do not plan a purchase around it. The SB pack count is disputed, 24 on our shelf against 20 in outside guides, so the per-pack figure for SB is withheld in this guide rather than guessed. And the five Japanese singles carry box art on their images, which is how the misreading started: check the title, which ends in 'Card', and the price, which is a card's price, before you divide anything."
+        ]
+      },
+      {
+        "h": "Context: three games in one search",
+        "paragraphs": [
+          "Three games share the search, and they are not the same purchase. Dragon Ball Super Card Game Fusion World is the current line, with Japanese booster sets FB01 through FB12, released roughly quarterly since February 2024, plus the SB01 and SB02 Manga Boosters for the fortieth anniversary and the ST01 Story Booster. Dragon Ball Super Card Game Masters is the older line, launched in July 2017, with sets B20 through B32 on our shelf. Dragon Ball Heroes and the vintage Carddass lines are a third market, older and graded, and they are not stocked here. Cards are not interchangeable between the games, so the set code decides the purchase before the price does.",
+          "The formats differ in the hand as well as on the shelf. A Fusion World pack holds 6 cards and a digital serial code, and a box holds 24 packs, 144 cards. A Masters pack holds 12 cards, and a box holds 24 packs for most sets and 20 for B32, which is why the per-pack division has to be run set by set and never assumed. The Japanese Fusion World sets release in Japan first and in English months later: FB11 reached Japan on September 12, 2026 and English on October 16, FB12 reaches Japan on December 12, 2026 and English on December 18, so the Japanese price leads and the English case price follows.",
+          "The language gap is the last context that matters. Japanese packs cost ¥220 to ¥240 at official retail, and Japanese boxes trade above that on SNKRDUNK, while English sealed cases are the buyable sealed route on our shelf at $102.93 to $402.50 a box. A buyer who wants the cheapest sealed Dragon Ball buys the Masters B25 case; a buyer who wants the newest Japanese set watches the FB12 pre-order case at $1,518.00, $126.50 a box, and a buyer who wants one Japanese card buys the single, which is the only Japanese Dragon Ball format on this shelf. The [beginners' guide](/blog/dragon-ball-fusion-world-beginners-guide/) explains the game for new players, and the [best Dragon Ball guide](/blog/best-dragon-ball-tcg-japan/) compares the games side by side."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, named-chase buyers: a box or a case is the worst way to find one card, and the right purchase is the single, especially when the chase is a Manga Booster card with a five-figure ask. Second, buyers who need a sealed Japanese box today: our Japanese stock is five single cards, and the sealed Japanese route is official retail plus a marketplace ask, not our shelf, so this guide prices that route without selling it. Third, Heroes and Carddass collectors: those are different games with different markets, and nothing in this guide prices them.",
+          "Who this guide is for, restated plainly: buyers comparing Japanese and English Dragon Ball prices before they pay, collectors who want the cheapest sealed route into a set, and anyone who has seen a $26 Japanese 'box' and wants to know what it actually is before they divide it by 24 packs."
+        ]
+      },
+      {
+        "checklist": [
+          "Read the title before you divide: a listing that ends in 'Card' is a single card, not a box, however the image looks",
+          "Price the single first: the five Japanese cards run $26.02 to $64.12, and the whole set of five is $233.24",
+          "Divide any case by 12 boxes, then by the packs the store lists for that set: 24 for most, 20 for B32",
+          "Compare the Japanese official box, ¥5,280 or ¥5,760, against the SNKRDUNK ask for the same set before you pay either",
+          "Check the ask date: FB09 fell 23.5% between June and September 2026, and a June ask is not a November price",
+          "Exclude the B27 case from every comparison until the catalog is corrected: $9,315.00 is a flagged outlier",
+          "Confirm the case price at checkout and the shipping quote there too: the exact shipping cost is confirmed at checkout or on WhatsApp, never guessed here",
+          "Run the whole division again on the day you buy, because shelf prices and marketplace asks move, and yesterday's $26.02 is not a promise"
+        ],
+        "h": "Action layer: the Japanese Dragon Ball price checklist",
+        "paragraphs": [
+          "Run this in order before the next Japanese Dragon Ball card you consider. It takes ten minutes and it replaces a shelf of price bands with a decision built on prices you can actually pay."
+        ]
+      }
+    ],
+    "slug": "buy-dragon-ball-cards-japanese-price",
+    "takeaway": [
+      "Japanese Dragon Ball cards cost $26.02 to $64.12 as single cards on our shelf, a sealed Japanese box costs ¥5,280 to ¥5,760 at official retail, and the English sealed cases we stock run $1,235.10 to $4,830.00 for the mainline sets, or $102.93 to $402.50 a box. The five Japanese listings are single cards, not boxes, and that one distinction decides whether any price you compare is real.",
+      "The cheapest sealed Dragon Ball on the shelf is the Masters B25 case at $102.93 a box, the cheapest Fusion World case is FB04 at $106.61 a box, and the dearest mainline case is FB09 at $402.50 a box. B32 divides by 20 packs, not 24, so its per-pack cost is $5.23, and the SB per-pack division is withheld until the 20-versus-24 count is settled.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, SNKRDUNK asks as of June 16 and September 29, 2026, and yen converted at ¥158 per dollar, November 9, 2026. The B27 case at $9,315.00 is a flagged catalog outlier and excluded from every comparison in this guide."
     ]
   },
   "buying-japanese-tcg-cards-in-australia": {
@@ -13761,7 +13935,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the White Flare buying checklist",
         "paragraphs": [
-          "Run the checklist in order and the verdict makes itself. Target first, format second, case confirmation third, and the twin comparison last, because it is the question that changes the answer only if you care which legendary is on the cover."
+          "Run the checklist in order and the verdict makes itself. Target first, format second, case confirmation third, and the twin comparison last, because it is the question that changes the answer only if you care which legendary is on the cover. For the full division behind this verdict, the [White Flare buyers guide](/blog/sv11w-white-flare-buyers-guide/) runs the box, Deluxe, and case to the pack and the card."
         ]
       }
     ],
@@ -21336,6 +21510,174 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, the largest case saving we stock.",
       "For the ETB question in depth, the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers it honestly: Japan never made an ETB, and the Black Bolt case at $82.64 a box is the only Japanese price that beats the English ETB per pack.",
       "For the White Flare verdict in depth, the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) prices the twin at $167.72 a box against Black Bolt's $183.18, with the Deluxe at $197.53 and the case flagged for checkout confirmation."
+    ]
+  },
+  "sv11w-white-flare-buyers-guide": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Reshiram half of Unova in Japanese and accept $8.39 a pack, in the middle of the shelf. The case is the better sealed buy at $74.34 a box, saving $1,120.52 against twelve singles, but confirm the case price at checkout, because it is the deepest discount on the shelf. For profit, no: no box guarantees the Reshiram ex BWR, which alone costs about $316 as a single, 189% of a box. Open White Flare because you want Unova cards, and buy the Reshiram single if it is the only card you want.",
+        "q": "Is White Flare worth buying?"
+      },
+      {
+        "a": "Buy the half whose legendary you want: Reshiram means White Flare, Zekrom means Black Bolt, and opening the wrong side will not land your target. White Flare is the cheaper twin on our shelf, by $15.46 a box and $99.61 a case, but the two boxes hold different halves of Unova, so price is the second question and the card you want is the first. Buy both only if you want the full 156-species Unova set, because one box holds 78 species and the other holds the other 78.",
+        "q": "White Flare or Black Bolt — which box should I buy?"
+      },
+      {
+        "a": "Only if a guaranteed Art Rare in every pack is worth $29.81 to you. The Deluxe box costs $197.53 against $167.72 for the standard box, holds the same 140 cards, and works out at $1.41 per card against $1.20. The guarantee covers Art Rares, not Special Art Rares and not the BWR. For a binder builder completing the Art Rare tier it is a fair price for certainty; for a chase hunter it is the wrong purchase.",
+        "q": "Is the White Flare Deluxe box worth it?"
+      }
+    ],
+    "h1": "SV11W White Flare: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the SV11W White Flare box at $167.72 if you want to open White Flare, and buy the case at $892.12 if you want to hold or split it at $74.34 per box, saving $1,120.52 against twelve singles. Skip the Deluxe box at $197.53 unless the guaranteed Art Rare per pack is worth $29.81 to you, because it holds the same 140 cards as the standard box. The set is 174 cards, released in Japan on June 6, 2025, in boxes of 20 packs of 7 cards. Open neither format for profit: no box guarantees the Reshiram ex BWR, which alone carries a raw lowest ask of ¥50,000, about $316, on SNKRDUNK as of September 30, 2026.",
+      "Who this is for: collectors who want the White Flare half of Unova in Japanese, sealed holders who divide the case before they pay, and buyers choosing between White Flare and Black Bolt. Who it is not for: anyone chasing one named card, who should buy the single; anyone who needs English cards for tournament play; and anyone who wants the cheapest box on the shelf."
+    ],
+    "metaDescription": "White Flare (SV11W) from one store: box $167.72, Deluxe $197.53, case $892.12, $74.34 per box in a case, and the Reshiram chase priced honestly.",
+    "metaTitle": "SV11W White Flare: Buyer's Guide, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the format second, because White Flare punishes the buyer who gets the order backwards. A collector who wants to open the set buys the [standard box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) at $167.72, twenty packs of seven cards, $8.39 a pack. A sealed holder buys the [case](/product/sv11w-white-flare-sealed-case-12-boxes-japanese-pokemon-card/) at $892.12, twelve boxes at $74.34 each, and saves $1,120.52 against twelve single boxes. A buyer chasing one named card buys neither: the Reshiram ex BWR alone carries a raw lowest ask of ¥50,000, about $316, on SNKRDUNK as of September 30, 2026, which is 1.89 times the price of a whole box, so the single is the purchase and the box is the gamble.",
+          "The Deluxe box is the only format that needs a second thought. The [Deluxe](/product/sv11w-expansion-pack-deluxe-white-flare-booster-box-japanese-pokemon-card/) costs $197.53 for four 35-card packs, the same 140 cards as the standard box, and the $29.81 premium buys one thing only: a guaranteed Art Rare in every pack. That is a real thing to want, and it is also the whole of what the premium buys. If the guarantee is not worth $29.81 to you, the standard box is the same cards for less, and the case is the same cards for much less. The [Black Bolt guide](/blog/sv11b-black-bolt-buyers-guide/) runs the same division on the twin set, and the [head-to-head](/blog/black-bolt-vs-white-flare-which-to-buy/) settles which half of Unova you want first."
+        ]
+      },
+      {
+        "h": "The money layer: box, Deluxe, case, and the $1,120.52 gap",
+        "math": [
+          "White Flare box per pack: $167.72 ÷ 20 = $8.39 per pack",
+          "White Flare box per card: $167.72 ÷ 140 = $1.20 per card",
+          "White Flare Deluxe per pack: $197.53 ÷ 4 = $49.38 per pack",
+          "White Flare Deluxe per card: $197.53 ÷ 140 = $1.41 per card",
+          "Deluxe premium over the standard box: $197.53 − $167.72 = $29.81",
+          "White Flare case per box: $892.12 ÷ 12 = $74.34 per box",
+          "White Flare case per pack: $892.12 ÷ 240 = $3.72 per pack",
+          "White Flare case per card: $892.12 ÷ 1,680 = $0.53 per card",
+          "Case saving against twelve single boxes: 12 × $167.72 = $2,012.64; $2,012.64 − $892.12 = $1,120.52",
+          "Official box MSRP in dollars: ¥5,800 ÷ ¥158 = $36.71",
+          "Standard box premium over MSRP: $167.72 ÷ $36.71 = 4.57×",
+          "Case per-box premium over MSRP: $74.34 ÷ $36.71 = 2.03×",
+          "Reshiram ex BWR raw in dollars: ¥50,000 ÷ ¥158 = $316.46",
+          "Reshiram ex BWR against one box: $316.46 ÷ $167.72 = 1.89×",
+          "Black Bolt box premium over White Flare: $183.18 − $167.72 = $15.46",
+          "Black Bolt case premium over White Flare: $991.73 − $892.12 = $99.61",
+          "Black Bolt case per box: $991.73 ÷ 12 = $82.64 per box"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The White Flare box is $167.72 for 20 packs of 7 cards, which is $8.39 per pack and $1.20 per card, both divisions shown above. Against the original Japanese retail of ¥5,800, about $36.71 at ¥158 per dollar on November 9, 2026, the box trades at 4.57 times MSRP. That multiple is the market speaking: White Flare left retail behind in June 2025 and has not come back, and no buyer should compare $167.72 against $36.71 as if the lower number were available. It is not. The box costs what the shelf says it costs, and the division is what tells you whether it is worth it.",
+          "The Deluxe arithmetic is where the page earns its keep, because it exposes a premium that buys no extra cards. The Deluxe box is $197.53 for four 35-card packs, 140 cards in total, which is $1.41 per card and $49.38 per pack, against $1.20 per card in the standard box. The premium is $29.81 for the same 140 cards, and the only thing it adds is certainty: one Art Rare guaranteed in each 35-card pack. A guaranteed Art Rare is not a guaranteed Special Art Rare, and it is certainly not a guaranteed BWR. The Deluxe is a different opening experience, not a better one, and the $29.81 is the price of knowing what one card in each pack will be.",
+          "The case is the only format where the arithmetic is generous. Twelve boxes at $892.12 is $74.34 per box, $3.72 per pack, and $0.53 per card, and the saving against twelve single boxes is $1,120.52. The case per-box price is still 2.03 times the ¥5,800 MSRP, so even the case is not a retail price, but it is the cheapest sealed route to White Flare on our shelf by a wide margin, and it is the only format where the division moves the per-pack cost below $4. A case splitter who divides $892.12 by twelve before listing has a fair per-box number; a splitter who divides by anything else is guessing.",
+          "The chase arithmetic closes the money layer. The Reshiram ex BWR, card 174/086, carried a raw lowest ask of ¥50,000 on SNKRDUNK as of September 30, 2026, about $316.46 at ¥158 per dollar. That is 1.89 times one box. The English print of the same card trades higher still, at €551.07 on Cardmarket as of November 4, 2026, so the Japanese raw copy is the cheaper of the two right now, and the gap is the whole point of checking both markets before paying. None of this makes opening a box profitable. It makes the single the rational purchase for anyone who wants one named card, and the box the rational purchase for anyone who wants the set."
+        ]
+      },
+      {
+        "h": "The decision layer: box, Deluxe, case, or the single, side by side",
+        "paragraphs": [
+          "Six rows cover nearly every buyer, so the table keeps to six and the money layer above carries the full division. Prices are our shelf prices as of November 9, 2026, except the chase row, which is a dated marketplace ask. Yen figures convert at ¥158 per dollar, November 9, 2026.",
+          "Read the table by buyer type. Collectors scan the chase row first and notice the arithmetic that decides the purchase: one Reshiram ex BWR at about $316 costs 189% of a whole box, so a buyer who wants one named card should buy the single and skip the seal. Openers compare the two box rows and see that the Deluxe premium buys certainty, not cards. Holders compare the case row against twelve singles and see $1,120.52 of saving. The [price board](/blog/japanese-pokemon-booster-box-price/) puts White Flare against all thirty-two Japanese Pokémon boxes on our shelf, and the [case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every sealed case the same way."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Warehouse price, Nov 9 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "Opener — standard box",
+              "$167.72",
+              "20 packs of 7 cards; 174 cards",
+              "$8.39 per pack; $1.20 per card"
+            ],
+            [
+              "Opener — Deluxe box",
+              "$197.53",
+              "4 packs of 35 cards; 140 cards, 1 Art Rare guaranteed per pack",
+              "$49.38 per pack; $1.41 per card"
+            ],
+            [
+              "Sealed holder — case",
+              "$892.12",
+              "12 boxes; 240 packs; 1,680 cards",
+              "$74.34 per box; $3.72 per pack"
+            ],
+            [
+              "Black Bolt box, for comparison",
+              "$183.18",
+              "20 packs of 7 cards; 174 cards",
+              "$9.16 per pack; $1.31 per card"
+            ],
+            [
+              "Black Bolt case, for comparison",
+              "$991.73",
+              "12 boxes; 240 packs; 1,680 cards",
+              "$82.64 per box; $4.13 per pack"
+            ],
+            [
+              "Reshiram ex BWR single",
+              "¥50,000 raw ask, Sep 30 2026",
+              "One card, 174/086, SNKRDUNK lowest ask",
+              "About $316.46; 1.89× one box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most about White Flare is whether it is the cheaper twin, and the honest answer is yes on the box and yes on the case, by $15.46 and $99.61, but cheaper is not the same as better value, because the two boxes hold different halves of Unova and the card you want decides the box.",
+        "paragraphs": [
+          "The top results for this question compare the English Elite Trainer Box against the Japanese box, or rank the chase cards, and none of them divides a Japanese shelf price. The first compares nine English packs and a promo against twenty Japanese packs and calls it a comparison, but it never prices either side. The second ranks the chase cards by market price and stops there. Neither one tells you that the Deluxe costs $29.81 more for the same 140 cards, that the case saves $1,120.52, or that the Japanese BWR raw ask is cheaper than the English raw price right now.",
+          "That gap hides three findings. First, the Deluxe premium: no guide prices the Deluxe box at $197.53 beside the standard box at $167.72, so a buyer cannot see that the premium buys the same 140 cards at $29.81 more, and the guarantee is one Art Rare per pack, not one chase card. Second, the case: no guide divides $892.12 by twelve, so the $74.34 per-box figure, the cheapest sealed route to this set, stays invisible. Third, the chase: no guide puts the Japanese raw ask of ¥50,000 beside the English Cardmarket price of €551.07, so the buyer who checks only one market pays the dearer one. Our [worth-buying page](/blog/is-sv11w-worth-buying/) gives the short verdict; this guide is the division behind it."
+        ]
+      },
+      {
+        "h": "The risk layer: the BWR chase, the Deluxe trap, and the case price",
+        "paragraphs": [
+          "The first risk is the chase. The BWR rarity is new, and in the Japanese pair it holds exactly two cards: Zekrom ex in Black Bolt and Reshiram ex in White Flare. The English twin set adds Victini BWRs, one per version, which is why English guides quote four BWRs and Japanese guides quote two; both are right about different printings, and the confusion costs buyers who compare prices across languages without checking which printing they are pricing. The Reshiram ex BWR alone costs about $316 raw, 1.89 times a box, and no box guarantees it. The set is top-heavy by design: the value sits in the Reshiram ex BWR and its SAR, and the rest of the SARs are affordable. Open White Flare because you want Unova cards, and buy the Reshiram single if it is the only card you want.",
+          "The second risk is the Deluxe trap. The Deluxe box costs $29.81 more than the standard box for the same 140 cards, and the only thing the premium buys is certainty, one Art Rare guaranteed in each 35-card pack. The guarantee does not extend to the SARs or the BWR, and a buyer who pays the premium expecting a chase card has bought the wrong certainty. The Deluxe is worth it for a binder builder who wants the Art Rare tier complete without trading; it is a bad buy for a chase hunter, and it is never a discount.",
+          "The third risk is the case price itself. The case at $892.12 is the deepest discount on our shelf for this set, and it is the first figure to move if the catalog corrects, so confirm it at checkout before you plan a split around $74.34 a box. Prices move, and the Simplified Chinese edition of the pair, released November 6, 2026 with the same 174-card numbering, puts the same cards in front of a new audience, which is a fact to watch, not a prediction to make. Sealed buyers should also read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before paying for any loose box, and buyers choosing between languages should read the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) before they pay for cards they cannot play in English-format events."
+        ]
+      },
+      {
+        "h": "Context: 174 cards, half of Unova, and a new rarity",
+        "paragraphs": [
+          "Black Bolt and White Flare are the paired sets that close the Scarlet and Violet era, and the scope is the whole appeal. Together they cover all 156 Pokémon first found in the Unova region, and every one of them appears with special artwork. Each box holds 78 of the 156 species, so the two boxes divide Unova rather than duplicating it: buy one box and you have half the region, buy both and you have the full Pokédex slice. White Flare is the Pokémon White half, built around Reshiram, and Black Bolt is the Pokémon Black half, built around Zekrom.",
+          "The set is 174 cards: 86 in the base set and 88 in the secret-rarity run, split into 72 Art Rares, 8 Super Rares, 7 Special Art Rares, and a single BWR. Reshiram ex appears at all three top tiers, as Super Rare 160, Special Art Rare 168, and Black White Rare 174, which is why one Pokémon carries the set's value at three different prices. The other Special Art Rares are Whimsicott ex, Keldeo ex, Jellicent ex, Hydreigon ex, and Bouffalant ex, with the Hilda supporter card at 173 as the headline non-Pokémon pull. Kyurem ex and Meloetta ex, which some guides place in White Flare, are Black Bolt cards; check the set code before you pay for either.",
+          "The Deluxe format is new with this pair, and it is a different opening experience, not a better one. One Deluxe pack holds 35 cards at ¥1,450, with one Art Rare guaranteed, and the Deluxe box holds four of them, 140 cards in total, at the same combined ¥5,800 as the standard box. The English release followed on July 18, 2025, as Elite Trainer Boxes with nine packs and a promo, with no English booster box at all, which makes the Japanese twenty-pack box the only box format for this set. Japanese cards are not legal in English-format events, so a player buys Japanese for the collection and English for the table. Our [set page](/sets/sv11-black-bolt-white-flare/) gathers both halves, and the [preorder guide](/blog/preorder-japanese-booster-box-or-wait/) covers when to pay early and when to wait."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, especially when one Reshiram ex BWR costs 189% of a box. Second, English-format players: Japanese cards cannot be played in English-format events, so a player who needs tournament-legal cards should buy the English Elite Trainer Box instead. Third, cheapest-box hunters: White Flare at $8.39 a pack is not the cheapest box on the shelf, and a buyer who wants the lowest per-pack price should read the price board and buy M3 Munikis Zero at $2.35 a pack instead.",
+          "Who this guide is for, restated plainly: collectors who want the White Flare half of Unova in Japanese and will open twenty packs of it, sealed holders who divide the case before they pay for it, and buyers who have already decided between Reshiram and Zekrom and want the division that follows from that choice."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, Deluxe buyer, or single-card chaser",
+          "Divide the box by 20 packs and 140 cards, then divide the case by 12 boxes, 240 packs, and 1,680 cards, and never compare a case price to a box price",
+          "Price the Deluxe premium before you pay it: $197.53 minus $167.72 is $29.81 for the same 140 cards and one guaranteed Art Rare per pack",
+          "Price the chase before you open for it: one Reshiram ex BWR raw is about $316, 1.89 times a box",
+          "Check the set code on any Kyurem ex or Meloetta ex you buy: both are Black Bolt cards, not White Flare",
+          "Confirm the case price at checkout: $74.34 a box is the deepest discount on this set and the first figure to move",
+          "If you play in English-format events, buy the English Elite Trainer Box instead: Japanese cards are not legal there",
+          "Run the whole division again on the day you buy, because shelf prices move and yesterday's $167.72 is not a promise"
+        ],
+        "h": "Action layer: the White Flare buying checklist",
+        "paragraphs": [
+          "Run this in order before the next White Flare box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision built on prices you can actually pay."
+        ]
+      }
+    ],
+    "slug": "sv11w-white-flare-buyers-guide",
+    "takeaway": [
+      "The White Flare box at $167.72 is the middle of the shelf at $8.39 a pack, the Deluxe at $197.53 costs $29.81 more for the same 140 cards and buys only a guaranteed Art Rare per pack, and the case at $892.12 is the way to buy it sealed, at $74.34 a box and $3.72 a pack, saving $1,120.52 against twelve singles. The set is 174 cards, released June 6, 2025, and the chase is the Reshiram ex BWR, which alone costs about $316 as a single.",
+      "White Flare is the cheaper twin, by $15.46 a box and $99.61 a case against Black Bolt, but the two boxes divide Unova rather than duplicating it, so the card you want decides the box and the price decides nothing on its own. Reshiram ex appears at three tiers, Super Rare 160, Special Art Rare 168, and Black White Rare 174, and Kyurem ex and Meloetta ex are Black Bolt cards, not White Flare.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace asks as of September 30, 2026. The case price is the figure to confirm at checkout: $74.34 a box is the deepest case discount on this set, and the first one to move if the catalog corrects."
     ]
   },
   "sv1a-triplet-beat-buyers-guide": {
