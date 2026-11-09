@@ -5752,7 +5752,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the dearest 30-pack main set on our shelf at $5.08 a pack, box $152.29, case $1,454.15.",
       "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the Iono set at $102.64 a box, $3.42 a pack, with a case that saves only $28.81.",
       "New this cycle: the [best Japanese TCG to buy in 2026](/blog/best-japanese-tcg/) puts Pokémon beside One Piece, Dragon Ball, and Lorcana on one shelf and divides every game's cheapest entry to per-pack and per-card — Pokémon's cheapest box is $70.62.",
-      "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) finds the floor is Rebellion Crash at $43.03, or $1.43 a pack, below M3 at $70.62, with the sixteen cheapest boxes all under $95."
+      "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) finds the floor is Rebellion Crash at $43.03, or $1.43 a pack, below M3 at $70.62, with the sixteen cheapest boxes all under $95.",
+      "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the MEGA-era opener, box $94.91 against a case that saves $226.74, with the 092/063 trap and the 20-pack correction."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -8071,7 +8072,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Team Rocket set, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the box at $212.99 against the case at $1,821.40, or $151.78 per box in the case.",
       "For the same shelf ranked by buyer instead of by price, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) names a pick for first boxes, chase openings, twin sets, anniversary boxes, and sealed holds, with the case alternative priced next to every single.",
       "For the dearest box on this shelf in depth, the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the $471.20 box, the $317.44-a-box case, and the Charizard chase.",
-      "New this cycle: the [Best Japanese Pokémon Booster Box guide](/blog/best-japanese-pokemon-booster-box/) divides all 83 Japanese Pokémon boxes on the shelf, from $43.03 to $3,924.12, with M3 Munikis Zero the best overall buy at $70.62, or $2.35 a pack."
+      "New this cycle: the [Best Japanese Pokémon Booster Box guide](/blog/best-japanese-pokemon-booster-box/) divides all 83 Japanese Pokémon boxes on the shelf, from $43.03 to $3,924.12, with M3 Munikis Zero the best overall buy at $70.62, or $2.35 a pack.",
+      "New this cycle: the [SV8 Super Electric Breaker buyer's guide](/blog/sv8-super-electric-breaker-buyers-guide/) prices the dearest 30-pack main set on the shelf at $8.61 a pack, box $258.23, case $2,355.91."
     ]
   },
   "black-bolt-vs-white-flare-which-to-buy": {
@@ -14262,6 +14264,181 @@ export const POSTS: Record<string, BlogPost> = {
       "If Japanese wins your decision, two reads follow naturally: [how to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) — the skill is smaller than it looks — and [the best-value Japanese booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/), the full price ladder from $58.85 up."
     ]
   },
+  "m1l-mega-brave-buyers-guide": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "Thirty packs of five cards, so 150 cards in a sealed box. The pack price is ¥180 including tax on the official Japanese product page, which makes the box ¥5,400 by arithmetic — ¥180 times 30. The 20-pack figure you may have seen belongs to the Premium Trainer Box MEGA, a different product released the same day with 10 M1L packs and 10 M1S packs for ¥6,350. Count the packs when a box arrives: anything other than 30 means the box was opened.",
+        "q": "How many packs are in an M1L booster box?"
+      },
+      {
+        "a": "At our shelf price of $94.91, in one of three ways. Buy the case at $912.18 if you are opening volume — $2.53 a pack, a saving of $226.74, and the only sealed price here that sits below the TCGplayer box market of $80.36. Buy the Mega Lucario ex MUR single at $259.54 if that is the card you actually want — it costs 2.73 boxes and it is the only way to guarantee it. Buy one box only for the fun of opening it, knowing 86% of the set's value sits in five cards and 83 of the 92 cards are under $5.",
+        "q": "Is M1L Mega Brave worth buying at $94.91?"
+      },
+      {
+        "a": "Buy M1L for Mega Lucario ex and Lillie's Determination, and buy M1S for Mega Gardevoir ex at a lower box price — $84.97 against $94.91. Neither MUR appears in the other's packs, so there is no box that gives you both flagships. If you want both, the honest answer is one box of each: $179.88 together on our shelf as of November 9, 2026.",
+        "q": "M1L or M1S — which should I buy?"
+      }
+    ],
+    "h1": "M1L Mega Brave: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the case if you are opening volume, buy the Mega Lucario ex MUR single if that is the card you want, and buy one box only for the fun of opening it. The M1L Mega Brave booster box is $94.91 on our shelf as of November 9, 2026, which divides to $3.16 a pack — and the sealed case is $912.18, or $2.53 a pack, a saving of $226.74 against twelve single boxes.",
+      "The set is the opener of the MEGA era, released in Japan on August 1, 2025, and its arithmetic is unusually clean. A complete set is $562.36 at TCGplayer market prices, or 5.93 boxes — but 86% of that value sits in five cards, and 83 of the 92 cards are under $5. This guide divides every number on the shelf, lists the chase cards with dated prices, kills the 20-pack confusion outright, and says plainly where no number exists — because The Pokémon Company publishes no pull rates for M1L.",
+      "All shelf prices are from the Warehouse's own store as of November 9, 2026, at ¥158.33 to the dollar. Marketplace figures are TCGplayer market prices unless labelled as shop asks, and every one carries its date. Prices move; the method does not."
+    ],
+    "metaDescription": "M1L box $94.91 is $3.16 a pack; the case is $2.53. The MUR costs 2.73 boxes. The Warehouse divides the shelf, the M1S twin, and the English set.",
+    "metaTitle": "Is M1L Mega Brave Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The shelf: one box, one case, one gold Lucario",
+        "paragraphs": [
+          "Mega Brave, M1L in the MEGA era, released in Japan on Friday, August 1, 2025, alongside its twin set M1S Mega Symphonia. It opens the Mega Evolution era, and its cover card is Mega Lucario ex, printed in four tiers up to a gold Mega Ultra Rare that had never existed before. A pack is ¥180 including tax with five cards, on the official Japanese product page, and a box holds 30 packs. That makes the Japanese box ¥5,400 by arithmetic, though neither figure is printed on the official page; both are verified by Bulbapedia and retailer consensus.",
+          "The set is 92 cards: 63 in the base set, numbered 001 to 063, and 29 in the secret tier, numbered 064 to 092. The secret tier breaks down as 12 Art Rares from 064 to 075, 11 Super Rares from 076 to 086, 5 Special Art Rares from 087 to 091, and 1 Mega Ultra Rare at 092. Two counting flags: Serebii lists the set as 98 cards, but its own card list ends at 092, so the extra six are unresolved and this guide uses 92; and some catalogs list a 93rd card, Mew ex 002/043, a non-pack promo, not a booster pull. On our shelf the [M1L Mega Brave booster box](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) is $94.91 and the [M1L Mega Brave sealed case](/product/m1l-mega-brave-sealed-case-12-boxes-japanese-pokemon-card/) is $912.18, both in stock as of November 9, 2026, and the [M1L Mega Brave Pokémon Center Set](/product/m1l-mega-brave-pokemon-center-set-japanese-pokemon-card/) is $219.70 — its contents are not described here, because they were not verified in this research."
+        ]
+      },
+      {
+        "h": "The 20-pack confusion: kill it before you buy",
+        "paragraphs": [
+          "The single most common error about this set is the pack count, so this section exists to kill it. A booster box of M1L holds 30 packs. The 20-pack figure that circulates comes from a different product: the Premium Trainer Box MEGA, released the same day, August 1, 2025, holding 10 M1L packs and 10 M1S packs for ¥6,350. That is a trainer box, not a booster box, and anyone who prices M1L at 20 packs a box divides by the wrong number.",
+          "The confusion matters because it changes the verdict. At 20 packs, a $94.91 box would be $4.75 a pack — a bad price. At 30 packs it is $3.16 a pack, which is the cheapest way onto this shelf to chase a gold card. Check the listing, and if it does not say 30 packs, ask before you pay."
+        ]
+      },
+      {
+        "h": "The money layer: per pack, per card, per case",
+        "math": [
+          "M1L Mega Brave booster box: $94.91 ÷ 30 packs = $3.16 per pack",
+          "Per card: $94.91 ÷ 150 cards = $0.63 per card",
+          "Sealed case per box: $912.18 ÷ 12 boxes = $76.02 per box",
+          "Case per pack: $912.18 ÷ 360 packs = $2.53 per pack",
+          "Case per card: $912.18 ÷ 1,800 cards = $0.51 per card",
+          "Twelve single boxes: $94.91 × 12 = $1,138.92",
+          "Case saving: $1,138.92 − $912.18 = $226.74",
+          "Japanese MSRP: ¥5,400 ÷ ¥158.33 = $34.11 per box",
+          "Box against MSRP: $94.91 ÷ $34.11 = 2.78 times MSRP",
+          "Box against TCGplayer box: $94.91 − $80.36 = $14.55",
+          "Complete set against the box: $562.36 ÷ $94.91 = 5.93 boxes",
+          "Pokémon Center Set against the box: $219.70 ÷ $94.91 = 2.31",
+          "English box per pack: $299.77 ÷ 36 packs = $8.33 per pack"
+        ],
+        "paragraphs": [
+          "Start with the division, because it is the whole decision. A single box at $94.91 is $3.16 a pack and $0.63 a card. A [sealed case](/blog/best-japanese-pokemon-sealed-case-to-buy/) at $912.18 is $76.02 a box, $2.53 a pack, and $0.51 a card — a saving of $226.74 against [twelve single boxes](/blog/sealed-case-vs-booster-box-the-math/), or 19.9% of the twelve-box total. The case is the only sealed format that changes the per-pack price by more than sixty cents.",
+          "That margin is against the TCGplayer box market. Sparkl puts the M1L box at $80.36 TCGplayer market as of November 7, 2026, which makes our single box $14.55 dearer, 18.1% above the US market estimate. But the case box at $76.02 sits $4.34 below that same market price. The flip is the buying decision in one line: the single box is a premium over the market, and the case is a discount on it. Japanese retail is ¥5,400, or $34.11 at ¥158.33 to the dollar, so the shelf box is 2.78 times MSRP."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or singles",
+        "paragraphs": [
+          "There are six honest ways to spend money on M1L, and the table prices all of them. The box is for opening. The case is for opening a lot, or for holding sealed — at $76.02 a box it is the only sealed price here that beats the TCGplayer box market. The Mega Lucario ex MUR single is for the buyer who wants the flagship: $259.54 buys it outright, and no number of boxes guarantees it. The Lillie's Determination SAR single is for the buyer who wants the second chase without the lottery. The complete set at $562.36 is for the collector who wants all 92 cards without opening anything. And the [M1S box](/blog/m1l-vs-m1s-which-to-buy/) is for the buyer who wants Gardevoir instead — $9.94 cheaper, with a flagship that never appears in M1L packs.",
+          "Notice what the table does not contain: a row that says buy boxes until you pull the MUR. That row does not exist because the odds do not exist. Without published pull rates, opening boxes for one card is a hope, not a plan, and the single is cheaper than the hope."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Open one box for fun",
+              "1 booster box",
+              "$94.91",
+              "30 packs at $3.16 each; expect Art Rares and maybe one SAR, never a guaranteed hit"
+            ],
+            [
+              "Open volume or hold sealed",
+              "Sealed case",
+              "$912.18",
+              "$76.02 a box and $2.53 a pack; saves $226.74 and beats the TCGplayer box market"
+            ],
+            [
+              "Want Mega Lucario ex MUR",
+              "Single card",
+              "$259.54",
+              "TCGplayer market, Nov 7, 2026; 2.73 boxes of money for one card — the only way to guarantee it"
+            ],
+            [
+              "Want Lillie's Determination SAR",
+              "Single card",
+              "$110.75",
+              "TCGplayer market, Nov 7, 2026; more than a whole box, and the set's second chase"
+            ],
+            [
+              "Want the whole set",
+              "Singles (complete set)",
+              "$562.36",
+              "TCGplayer market, Nov 7, 2026; 5.93 boxes of value, and the only way to own all 92"
+            ],
+            [
+              "Want Gardevoir instead",
+              "M1S booster box",
+              "$84.97",
+              "$9.94 cheaper than M1L; Gardevoir MUR $233.99 — it never appears in M1L packs"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The chase ladder: Lucario, Lillie, and the Gardevoir correction",
+        "paragraphs": [
+          "Mega Lucario ex is the set four times over: regular ex at 029, Super Rare at 078, Special Art Rare at 088, and the gold [Mega Ultra Rare](/blog/japanese-pokemon-rarity-symbols-explained/) at 092. The MUR is $259.54 TCGplayer market, Near Mint, as of November 7, 2026, via Sparkl, with a Cardmarket figure of €172.10 beside it and a Tokyo shop ask of ¥39,800, about $251.37, as of November 4, 2026 — the two markets within a few dollars of each other. The shop's buyback is ¥28,000, 70% of its ask, which is the honest floor: the shop wants copies back. The SAR is $59.09 on TCGplayer against a Tokyo ask of about $37.77, and the SR is $5.61.",
+          "The second chase is a Supporter, not a Pokémon. Lillie's Determination SAR 091/063 is $110.75 TCGplayer market as of November 7, 2026, against a Tokyo ask of ¥17,800, about $112.41 — near-identical across the two markets, with a buyback of ¥12,000, 67% of the ask. Its Super Rare at 086 is $11.08. Note the name: TCGplayer renders it Lillie's Determination, Samurai sometimes Lillie's Resolve; this guide uses the TCGplayer standard. Below them: Mega Venusaur ex SAR 087/063 $39.25 on TCGplayer against a Tokyo ask of about $31.45, Mega Absol ex SAR 089/063 $17.32, Lt. Surge's Deal SAR 090/063 $5.05, and the top Art Rare, Ivysaur 065/063, $4.78.",
+          "The correction first, because it is the error most often made: Mega Gardevoir ex is not in M1L packs. It is the flagship of the twin set, M1S Mega Symphonia, where its MUR is $233.99 TCGplayer market and its SAR is $76.39. Any table listing Gardevoir under M1L is wrong. The top two have also fallen hard since spring: in March the Lucario MUR was about ¥52,000 and the Lillie SAR about ¥50,000."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the 092/063 trap and the case flip",
+        "note": "Warehouse Note: the question we get most about M1L is whether to buy one box or the case. The answer is in the flip: our single box is $14.55 above the TCGplayer box market, and our case box is $4.34 below it. If you are buying one box, you are paying a premium for the shelf. If you are buying twelve, you are buying below the market. Decide how many boxes you actually want before you decide which price to pay.",
+        "paragraphs": [
+          "The top results for this query are a chase-card guide, a price guide whose prices are dated April 2026, and a box buying guide. None of them divides a live store's box and case prices down to the pack. None of them carries November 2026 TCGplayer prices for the Japanese cards. None of them prices the complete set against the box, and none of them warns about the trap this section owns.",
+          "The trap is the number 092/063. Both sets' Mega Ultra Rare is numbered 092/063 — Mega Lucario ex in M1L, Mega Gardevoir ex in M1S. A listing that says only 092/063 MUR, Japanese, could be either card, and in Tokyo they sit about ¥5,000 apart. Check the name, the number, and the set mark in the bottom-left corner before you pay. The case flip is the other half: the same shelf prices one box above the market and twelve boxes below it. The single box at $94.91 is 18.1% over the TCGplayer box market of $80.36, and the case box at $76.02 is below it."
+        ]
+      },
+      {
+        "h": "Context: Japan's M1L versus English Mega Evolution",
+        "paragraphs": [
+          "Mega Evolution, the English set that carries both M1L and M1S, released on September 26, 2025. It is 188 cards: 132 in the main set and 56 secrets, with 28 of the secret-tier cards coming from M1L and 28 from M1S — no single Japanese box holds all of them. An English box holds 36 packs of 10 cards, with an MSRP of $162 and a TCGplayer market price of $299.77 to $302.17 between October 27 and November 8, 2026, or $8.33 to $8.39 a pack. The Elite Trainer Box is 9 packs and the Pokémon Center version 11 packs with two promos; neither has a stated MSRP.",
+          "The English chase is the same two gold cards in English, and every one of them fell in a year. Mega Lucario ex gold is $207.45 as of October 27, 2026, and $200.83 on November 8 — down 61% from $533.38 in late October 2025. Mega Gardevoir ex SIR is $165.04, Mega Lucario ex SIR is $161.91, Mega Gardevoir ex gold is $153.29, Mega Venusaur ex SIR is $111.80, and Lillie's Determination SIR is $47.21. Every chase card fell 33% to 65% in a year while the English box rose 19%. And gold is not automatically the top card — Gardevoir SIR has traded above its own gold card for three straight weeks.",
+          "The comparison the buyer needs is per pack. English is $8.33 a pack for readable text and tournament legality. Japanese M1L is $3.16 a pack for the same chase-art family at 2.63 times less money per pack. If you play the English game, [buy English](/blog/japanese-vs-english-pokemon-cards-which-to-buy/). If you collect the art, Japanese is the cheaper route to the same two gold cards — and the case, at $2.53 a pack, is cheaper still."
+        ]
+      },
+      {
+        "h": "The risk layer: reseal checks and weighed packs",
+        "paragraphs": [
+          "No M1L-specific fake or reseal report was found in our research, and this guide says that plainly rather than inventing one. What applies to M1L are the [general Japanese-box risks](/blog/how-to-tell-if-a-booster-box-is-resealed/), and they apply harder here because the set is fifteen months old and above MSRP. Look for a second or off-centre seam, loose or cloudy or glue-shiny film, flaps not flush, and a dotted tear strip already torn — Japanese boxes open along a perforated strip since September 2022, so a pre-torn strip means the box was opened. Check pack crimps for flattening, re-gluing, or slits, count the packs — it must be 30 — and a box that rattles or feels light is missing packs.",
+          "The subtler scam is not the box but the pack. Pack weighing and box mapping — hits removed, dead packs swapped in, the box reshrunk — is the documented model, and it is invisible from outside a sealed pack. Buy packs inside a sealed display or off a shop shelf, never loose from a stranger. The price rule, from Pokémon's own guidance, is the top warning: a pack or box priced dramatically below suggested retail is a near-certain fake flag. On arrival, check three things: 30 packs, the tear strip intact, the film seams clean. Film the opening in one continuous video — the only evidence a platform accepts."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the single-card hunter who wants only the Mega Lucario ex MUR. That buyer should buy the single at $259.54 and skip the sealed product entirely — a box is $94.91 and guarantees nothing, and the case is $912.18 of lottery tickets on five cards. It is not for anyone expecting a MUR from a box, because no pull rate is published. It is not for the English-only player, who should buy Mega Evolution and read the cards. It is not for the buyer who wants Gardevoir, who should buy M1S at $84.97 and not M1L at any price. And it is not for the buyer who treats the spring prices as the market: the top two cards have fallen by more than half since March."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide box, case, or single first: the case is the only sealed price that beats the TCGplayer box market",
+          "If buying the case, divide it: $76.02 a box and $2.53 a pack is the number to beat",
+          "If buying the single, check name, number, and set mark: both MURs are 092/063",
+          "If buying the box, confirm 30 packs: the 20-pack figure is the Premium Trainer Box, not a booster box",
+          "When the box arrives, count 30 packs and check the tear strip and the film seams before opening",
+          "Film the opening in one continuous video — it is the only evidence a platform accepts",
+          "Do not buy M1L for Gardevoir: it never appears in M1L packs"
+        ],
+        "h": "Action layer: the M1L checklist",
+        "paragraphs": [
+          "Run the checklist in order and the set stops being a gamble. Decide the format before you pay, divide the price before you trust it, verify the card number before you buy the single, and verify the seal before you open the box. M1L is a two-card set with a clean price ladder — the case to open, the single to own, the box only for fun — and the only wrong move is opening boxes in the hope of a card that costs more than two boxes itself. For the whole shelf ranked by buyer, the [best box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) names a pick for first boxes, chase openings, and twin sets."
+        ]
+      }
+    ],
+    "slug": "m1l-mega-brave-buyers-guide",
+    "takeaway": [
+      "The M1L box at $94.91 is $3.16 a pack, the case is $2.53 a pack and saves $226.74, and the Mega Lucario ex MUR at $259.54 costs 2.73 boxes. Buy the case to open, buy the single to own the chase.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace figures as of November 4 to 9, 2026. The Pokémon Company publishes no pull rates for M1L, so no per-box odds appear in this guide.",
+      "New this cycle: the [SV8 Super Electric Breaker buyer's guide](/blog/sv8-super-electric-breaker-buyers-guide/) prices the Scarlet & Violet set the same way, box $258.23 against a case that saves $742.85, with the Pikachu ex SAR at $253.96."
+    ]
+  },
   "m1l-vs-m1s-which-to-buy": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -14443,7 +14620,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "m1l-vs-m1s-which-to-buy",
     "takeaway": [
       "On November 4, 2026, the Warehouse shelf prices the launch pair at $94.91 for M1L Mega Brave and $84.97 for M1S Mega Symphonia, with case splits at $76.02 and $64.43 a box. Buy M1L for Mega Lucario ex, buy M1S for Mega Gardevoir ex or for price, and buy the case split whenever quantity justifies it.",
-      "The pair costs $179.88 together, and that pair is the honest answer for anyone who wants both flagships from sealed product. Prices move; the method does not. Divide by 30 packs, divide by 12 boxes, and check the set code before you pay."
+      "The pair costs $179.88 together, and that pair is the honest answer for anyone who wants both flagships from sealed product. Prices move; the method does not. Divide by 30 packs, divide by 12 boxes, and check the set code before you pay.",
+      "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the launch pair's Lucario half in depth, box $94.91 against a case that saves $226.74, with the Mega Lucario ex MUR at $259.54."
     ]
   },
   "m2-inferno-x-buyers-guide": {
@@ -23791,6 +23969,167 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the main set that came two months before Paradise Dragona at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles."
     ]
   },
+  "sv8-super-electric-breaker-buyers-guide": {
+    "datePublished": "2026-11-09",
+    "faqs": [
+      {
+        "a": "Thirty packs of five cards, so 150 cards in a sealed box. The pack price is ¥180 including tax on the official Japanese product page, which makes the box ¥5,400 by arithmetic — ¥180 times 30. Note the 30-pack count itself is not printed on the official page; it is verified by Bulbapedia and retailer consensus. Count the packs when a box arrives: anything other than 30 means the box was opened.",
+        "q": "How many packs are in an SV8 booster box?"
+      },
+      {
+        "a": "At our shelf price of $258.23, only in one of three ways. Buy the case at $2,355.91 if you are opening volume — $6.54 a pack, a saving of $742.85. Buy the Pikachu ex SAR single at $253.96 if that is the card you actually want — it costs 98% of a whole box and it is the only way to guarantee it. Buy one box only for the fun of opening it, knowing the average pack returns far less than its $8.61 cost.",
+        "q": "Is SV8 Super Electric Breaker worth buying at $258.23?"
+      },
+      {
+        "a": "There are none to quote. The Pokémon Company publishes no pull rates for SV8, and no measured Japanese opening dataset exists, so any per-box odds you have seen for this set are invented. English Surging Sparks does have measured rates — a Special Illustration Rare about once in 87 packs — but those numbers belong to the English print run and do not transfer to Japanese SV8.",
+        "q": "What are the pull rates for SV8 Super Electric Breaker?"
+      }
+    ],
+    "h1": "SV8 Super Electric Breaker: The Buyer's Guide, Priced",
+    "intro": [
+      "Short answer: buy the case if you are opening volume, buy the Pikachu ex SAR single if that is the card you want, and buy one box only for the fun of opening it. The SV8 Super Electric Breaker booster box is $258.23 on our shelf as of November 9, 2026, which divides to $8.61 a pack — and the sealed case is $2,355.91, or $6.54 a pack, a saving of $742.85 against twelve single boxes.",
+      "The set is a year old, the chase is effectively one card, and the arithmetic is unusually clean. One Pikachu ex SAR at $253.96 costs 98% of a whole box, and a complete set at $622.83 costs 2.41 boxes. This guide divides every number on the shelf, lists the chase cards with dated prices, and says plainly where no number exists — because The Pokémon Company publishes no pull rates for this set, and every odds claim you have read about SV8 is invented.",
+      "All shelf prices are from the Warehouse's own store as of November 9, 2026, at ¥158.33 to the dollar. Marketplace figures are TCGplayer market prices unless labelled as shop asks, and every one carries its date. Prices move; the method does not."
+    ],
+    "metaDescription": "SV8 box $258.23 is $8.61 a pack; the case is $6.54. One Pikachu ex SAR costs a whole box. The Warehouse divides the shelf, the set, and the English twin.",
+    "metaTitle": "Is SV8 Super Electric Breaker Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The shelf: one box, one case, one Pikachu",
+        "paragraphs": [
+          "Super Electric Breaker, SV8 in the Scarlet & Violet era, released in Japan on Friday, October 18, 2024. Its Japanese name is 超電ブレイカー, Chōden Breaker, and it is a main Expansion Pack — not a high-class pack, not a subset — built around Stellar Tera Pikachu ex and the Blueberry Academy and Terarium theme, with an Electric focus running through the set.",
+          "The set is 138 cards: 106 in the base set and 32 in the secret tier. The secret tier breaks down as 12 Art Rares numbered 107 to 118, 11 Super Rares from 119 to 129, 6 Special Art Rares from 130 to 135, and 3 Ultra Rares from 136 to 138. Pikachu ex appears four times — as a regular ex at 033, a Super Rare at 122, the flagship Special Art Rare at 132, and an Ultra Rare at 136 — and only Durant ex, Milotic ex, and Hydreigon ex get both a Super Rare and a Special Art Rare. One flag: Serebii alone lists #095 as Scramble Switch, an ACE SPEC the other lists skip, so treat that single card as single-source.",
+          "A pack is ¥180 including tax with five cards, on the official Japanese product page, and a box holds 30 packs. That makes the Japanese box ¥5,400 by arithmetic — ¥180 times 30 — though no source prints ¥5,400 as a box price directly, and the 30-pack count itself is not printed on the official page either; it is verified by Bulbapedia and retailer consensus. On our shelf the [SV8 Super Electric Breaker booster box](/product/sv8-super-electric-breaker-booster-box-japanese-pokemon-card/) is $258.23 and the [SV8 Super Electric Breaker sealed case](/product/sv8-super-electric-breaker-sealed-case-12-boxes-japanese-pokemon-card/) is $2,355.91, both in stock as of November 9, 2026."
+        ]
+      },
+      {
+        "h": "The money layer: per pack, per card, per case",
+        "math": [
+          "SV8 Super Electric Breaker booster box: $258.23 ÷ 30 packs = $8.61 per pack",
+          "Per card: $258.23 ÷ 150 cards = $1.72 per card",
+          "Sealed case per box: $2,355.91 ÷ 12 boxes = $196.33 per box",
+          "Case per pack: $2,355.91 ÷ 360 packs = $6.54 per pack",
+          "Case per card: $2,355.91 ÷ 1,800 cards = $1.31 per card",
+          "Twelve single boxes: $258.23 × 12 = $3,098.76",
+          "Case saving: $3,098.76 − $2,355.91 = $742.85",
+          "Japanese MSRP: ¥5,400 ÷ ¥158.33 = $34.11 per box",
+          "Box against MSRP: $258.23 ÷ $34.11 = 7.57 times MSRP",
+          "Pikachu ex SAR against the box: $253.96 ÷ $258.23 = 98.35%",
+          "Complete set against the box: $622.83 ÷ $258.23 = 2.41 boxes"
+        ],
+        "paragraphs": [
+          "Start with the division, because it is the whole decision. A single box at $258.23 is $8.61 a pack and $1.72 a card. A [sealed case](/blog/best-japanese-pokemon-sealed-case-to-buy/) at $2,355.91 is $196.33 a box, $6.54 a pack, and $1.31 a card — a saving of $742.85 against [twelve single boxes](/blog/sealed-case-vs-booster-box-the-math/), or 24.0% of the twelve-box total. The case is the only sealed format on this shelf that meaningfully changes the per-pack price, and it changes it by more than two dollars a pack.",
+          "The MSRP comparison is the shock of this set. Japanese retail for a box is ¥5,400, which is $34.11 at ¥158.33 to the dollar, or $1.14 a pack. Our shelf box is 7.57 times that. You are not paying Japanese retail plus a little shipping; you are paying a year of scarcity, import, and a chase card that carries the whole set."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or singles",
+        "paragraphs": [
+          "There are five honest ways to spend money on SV8, and the table prices all of them. The box is for opening. The case is for opening a lot, or for [holding sealed](/blog/should-you-open-or-keep-sealed-booster-box/) — at $196.33 a box it is the only sealed price here that approaches a sane per-pack number. The Pikachu ex SAR single is for the buyer who wants the card, not the ritual: $253.96 buys the flagship outright, and no number of boxes guarantees it. The complete set at $622.83 is for the collector who wants all 138 cards without opening anything. And the [English Surging Sparks box](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) is the alternative for the buyer who wants the same Pikachu art in English.",
+          "Notice what the table does not contain: a row that says buy boxes until you pull the SAR. That row does not exist because the odds do not exist. Without published pull rates, opening boxes for one card is a hope, not a plan, and the single is cheaper than the hope."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Open one box for fun",
+              "1 booster box",
+              "$258.23",
+              "30 packs at $8.61 each; expect Art Rares and maybe one SAR, never a guaranteed hit"
+            ],
+            [
+              "Open volume or hold sealed",
+              "Sealed case",
+              "$2,355.91",
+              "$196.33 a box and $6.54 a pack; saves $742.85 against 12 singles"
+            ],
+            [
+              "Want Pikachu ex SAR",
+              "Single card",
+              "$253.96",
+              "TCGplayer market, Nov 6, 2026; 98% of a whole box, and the only way to guarantee the card"
+            ],
+            [
+              "Want the whole set",
+              "Singles (complete set)",
+              "$622.83",
+              "TCGplayer market, Nov 9, 2026; 2.41 boxes of value, and the only way to own all 138"
+            ],
+            [
+              "Want the English chase instead",
+              "Surging Sparks box",
+              "$304.96",
+              "36 packs at $8.47 each; Pikachu ex SIR $241.30, Nov 7, 2026"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What is actually in the box: the chase ladder",
+        "paragraphs": [
+          "The chase ladder is short, and that is the point. Pikachu ex SAR 132/106 is the flagship, at $253.96 TCGplayer market as of November 6, 2026, via BinderFoundry. A PSA 10 of the same card is $559 as a reference price from CardZ on November 8, 2026, with a population of 20,848 and a price down 34.9% over six months — the graded premium has been falling while the raw card held. The cheapest live raw copy in Japan was ¥39,999, about $276, on Mercari on November 6, 2026.",
+          "Below the flagship, the honest thing to say is that TCGplayer market prices for Japanese SV8 singles are thinly published. Only the Pikachu SAR and the complete-set total could be verified on TCGplayer. The rest of the ladder comes from SNKRDUNK asks in early October 2026 — asking prices from one Tokyo marketplace, not sales, and not TCGplayer — so read them as the shape of the ladder, not as prices you can bank on. Pikachu ex UR 136/106 was asking about $64; Milotic ex SAR 131/106 about $71 raw and $117 graded PSA 10; Pikachu ex SR 122/106 about $32; Hydreigon ex SAR 133/106 and Jasmine's Gaze SAR 135/106 about $25 each; Night Stretcher UR 137/106 about $19; Durant ex SAR 130/106 about $13; Clemont's Quick Wit SAR 134/106 about $7.",
+          "The complete set is $622.83 at TCGplayer market prices as of November 9, 2026, via BinderFoundry — with one of the 138 cards still having no market price, so the true total is slightly higher. The same figure was $623.26 on November 8, so it moved overnight, which is why every price in this guide carries a date. At 2.41 boxes, the set is cheaper as singles than as sealed product."
+        ]
+      },
+      {
+        "h": "What the other guides miss: no pull rates, and the pack-price test",
+        "note": "Warehouse Note: the question we get most about SV8 is whether the box is a good investment at $258.23. It is not, on the numbers in this guide. A box returns $8.61 a pack of cardboard and a lottery ticket on one card that costs $253.96 to buy outright. If you want the return, buy the card. If you want the opening, buy the case and open it with people.",
+        "paragraphs": [
+          "The top results for this query are a card list, a comparison of English and Japanese boxes, and a single-card sale page. None of them divides a live seller's box and case prices down to the pack. None of them answers box versus case versus singles with live prices. None of them is honest about the pull rates. Those three gaps are this guide's job, and the first of them is the most important: The Pokémon Company publishes no pull rates for SV8. Not low rates, not secret rates — none. Every odds claim you have read about this set is invented, and this guide prints none of it.",
+          "The pack-price test is the section no ranking page owns. A box is $8.61 a pack. A case is $6.54 a pack. Japanese retail is $1.14 a pack. Put those three numbers side by side and the buying decision writes itself: if you are opening, the case is the only format that brings the per-pack price under seven dollars, and it still costs nearly six times Japanese retail per pack. If you are not opening, the single is the only format that guarantees anything. The box sits in the middle as the worst of both — the dearest way to open, and no guarantee at all."
+        ]
+      },
+      {
+        "h": "Context: Japan's SV8 versus English Surging Sparks",
+        "paragraphs": [
+          "Surging Sparks, the English set that carries most of SV8, released on November 8, 2024 — 21 days after the Japanese set — with 252 cards: 191 in the main set and 61 secrets. It is not a one-to-one translation. Roughly two thirds of it comes from SV8, about a third from [SV7a Paradise Dragona](/blog/sv7a-paradise-dragona-buyers-guide/), plus cards from the Stellar Tera starter sets and SV-P promos, and no official source equates the two sets; the pairing is Bulbapedia's. A Surging Sparks booster box holds 36 packs of 10 cards, 360 cards in all, with an MSRP of $161.64 and a TCGplayer market price of $304.96 as of November 8, 2026 — $8.47 a pack and $0.85 a card. The Elite Trainer Box is 9 packs, MSRP $49.99, market $118.14, and a loose pack runs $8.70 against a $4.49 MSRP.",
+          "The English chase is the same Pikachu in different clothes. Pikachu ex SIR 238 is $241.30 TCGplayer market as of November 7, 2026, Latias ex SIR 239 is $165.14, Milotic ex SIR 237 is $100.86, Pikachu ex HR 247 is $66.82, Hydreigon ex SIR 240 is $29.83, Durant ex SIR 236 is $29.69, and Pikachu ex UR 219 is $23.63. Compare the flagships and the two markets are at near-parity in November 2026: $253.96 for the Japanese SAR against $241.30 for the English SIR, both down about 15% in thirty days. Per card, English is cheaper — $0.85 against $1.72 — because an English box holds 360 cards against a Japanese box's 150.",
+          "Here is the one place real pull rates exist, and they belong to English only. Across 9,022 measured English packs, a Special Illustration Rare appears about once in 87 packs, which is a 34% chance of at least one in a 36-pack box; a Hyper Rare appears about once in 189 packs; and the average pack's hit value is $1.81 against an $8.70 loose-pack price. That last line is the caution this guide borrows from English and labels as English: open for fun, buy the single if you want one card. Do not port those rates to SV8."
+        ]
+      },
+      {
+        "h": "The risk layer: reseal checks and the SV8a trap",
+        "paragraphs": [
+          "No SV8-specific counterfeit or reseal report was found in our research, and this guide says that plainly rather than inventing one. What applies to SV8 are the [general Japanese-box checks](/blog/how-to-tell-if-a-booster-box-is-resealed/), and they are worth running on every sealed box that arrives. Look for a second or off-centre seam on the shrink film, loose or cloudy or glue-shiny film, flaps that are not flush, a dotted tear line that is already torn, a misaligned zip strip, and pack crimps that are uneven, flattened, or re-glued. Count the packs: a sealed SV8 box holds 30, and anything else means it was opened. A price far below the market is a near-certain fake flag, in Pokémon's own guidance. Film the opening in one continuous video, and verify any graded slab against the lab's own register.",
+          "One tell does not apply here, and getting it wrong costs money: the Poké Ball printed wrap check belongs to English boxes, not Japanese ones, so do not use it on SV8. The other trap is the name. [SV8a Terastal Festival ex](/blog/sv8a-terastal-festival-ex-buyers-guide/) is a different product — a high-class pack released December 6, 2024, with 10 cards a pack, all foil, at ¥550 a pack and 10 packs a box, built around Eevee and the eight Eeveelutions with Umbreon ex SAR as its top chase. Its box is $163.32 on our shelf, $16.33 a pack, and its case is $2,723.16 for 20 boxes. If a listing says SV8 and the pack count is 10, you are looking at the wrong set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants only Pikachu ex SAR. That buyer should buy the single at $253.96 and skip the sealed product entirely — a box is $258.23 and guarantees nothing, and the case is $2,355.91 of lottery tickets. It is not for anyone expecting a guaranteed Special Art Rare per box, because no such guarantee exists and no pull rate is published to support one. It is not for the English-only player, who should buy Surging Sparks and read the cards. It is not for the buyer hunting Japanese retail prices, because ¥5,400 a box is a Japanese price for a Japanese shopper in October 2024, not a price available to anyone importing a year later. And it is not for the investor counting on the PSA 10 Pikachu SAR to recover: the graded price is down 34.9% in six months."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide box, case, or single first: the case is the only sealed price that brings the pack under $7",
+          "If buying the case, divide it: $196.33 a box and $6.54 a pack is the number to beat",
+          "If buying the single, check the number: Pikachu ex SAR is 132/106, not the SR at 122 or the UR at 136",
+          "When the box arrives, count 30 packs and check the tear line and the film seams before opening",
+          "Film the opening in one continuous video — it is the only evidence a platform accepts",
+          "Do not use the English Poké Ball wrap tell on a Japanese box",
+          "Check the set code: SV8a Terastal Festival ex is a different product at a different price"
+        ],
+        "h": "Action layer: the SV8 checklist",
+        "paragraphs": [
+          "Run the checklist in order and the set stops being a gamble. Decide the format before you pay, divide the price before you trust it, verify the card number before you buy the single, and verify the seal before you open the box. SV8 is a one-card set with a clean price ladder — the case to open, the single to own, the box only for fun — and the only wrong move is opening boxes in the hope of a card that costs less than the box itself. For the whole shelf ranked by value, the [best value guide](/blog/best-value-japanese-pokemon-booster-boxes/) divides every box the same way."
+        ]
+      }
+    ],
+    "slug": "sv8-super-electric-breaker-buyers-guide",
+    "takeaway": [
+      "The SV8 box at $258.23 is $8.61 a pack, the case is $6.54 a pack and saves $742.85, and one Pikachu ex SAR at $253.96 costs 98% of a whole box. Buy the case to open, buy the single to own the chase.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace figures as of November 6 to 9, 2026. The Pokémon Company publishes no pull rates for SV8, so no per-box odds appear in this guide.",
+      "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the MEGA-era set the same way, box $94.91 against a case that saves $226.74, with the Mega Lucario ex MUR at $259.54."
+    ]
+  },
   "sv8a-terastal-festival-ex-buyers-guide": {
     "datePublished": "2026-11-07",
     "faqs": [
@@ -23966,7 +24305,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that shares SV8a's $163.32 box price. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices the other high-class pack the same way, box $114.77 against a case that saves $436.84, with the Mega Gengar ex SAR at about $207 on its own.",
       "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the 30-pack set from the same era, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own.",
-      "New this cycle: the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) prices the set whose Ogerpon ex SARs were reprinted here, box $111.46 against a case that saves $354.72, with the Carmine SAR at $87.83 on its own."
+      "New this cycle: the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) prices the set whose Ogerpon ex SARs were reprinted here, box $111.46 against a case that saves $354.72, with the Carmine SAR at $87.83 on its own.",
+      "New this cycle: the [SV8 Super Electric Breaker buyer's guide](/blog/sv8-super-electric-breaker-buyers-guide/) prices the set that feeds this one, box $258.23 against a case that saves $742.85, with the Pikachu ex SAR at $253.96."
     ]
   },
   "sv9-battle-partners-buyers-guide": {
