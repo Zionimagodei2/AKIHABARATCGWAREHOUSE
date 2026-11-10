@@ -6212,7 +6212,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese Pokemon booster pack is the M3 pack at $2.35, or $0.47 a card, and it is the cheapest pack on the shelf by both measures. The best pack per card among the big packs is M2a at $1.15 a card, and the cheapest single sealed pack you can buy one of is the Iono's Wattrel promo at $21.18. The Warehouse does not sell loose booster packs. Divide the box by the packs, then by the cards, and let the per-card number choose the pack.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026. When the next MEGA-era set opens for pre-order, run the checklist first and divide the box before you pay.",
-      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs."
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs.",
+      "Learning with decks instead of packs? The [best Japanese Pokémon starter deck guide](/blog/best-japanese-pokemon-starter-deck/) compares the eight starter products and prices the two-deck start."
     ]
   },
   "best-japanese-pokemon-cards": {
@@ -7074,6 +7075,199 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the High Class Pack the same way, box $141.24 against a case that saves $518.70."
     ]
   },
+  "best-japanese-pokemon-starter-deck": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "A 60-card starter deck, not a booster box. A starter deck is a fixed, ready-to-play deck: the MEGA Starter Set ex decks are 60 cards with two copies of the headline Mega ex, a playmat, a coin and counters, at an official ¥1,800 each. A booster box is 30 randomised packs of 5 cards, 150 cards, with no guaranteed deck inside. Our cheapest starter deck is $8.93 for a 60-card deck; our SV9 Battle Partners booster box is $84.97 for 150 random cards. The deck teaches you the game; the box is a lottery with a deck somewhere inside it.",
+        "q": "What is the difference between a Japanese Pokémon starter deck and a booster box?"
+      },
+      {
+        "a": "For the cards in the MEGA Starter Set ex decks, yes, as far as the regulation marks go. The cards carry the I mark, and the April 10, 2026 rotation kept H, I and J in Standard while G rotated out. But Japanese-language cards are printed for the Japanese scene: at an official event outside Japan, confirm the language rule with the organiser before you pay, because the deck you buy to learn with at home and the deck you play at an event are two different purchases.",
+        "q": "Are Japanese Pokémon starter decks legal to play?"
+      },
+      {
+        "a": "One deck is not a game: a match needs two decks, and the official pages for the MEGA Starter Set ex and the MEGA Start Deck 100 both say so. The cheapest two-deck start on our shelf is the SI Start Deck 100 at $8.93 plus the Mega Diancie ex starter at $11.15, which is $20.08 for two 60-card decks. One deck teaches you the cards; two decks teach you the game.",
+        "q": "Do I need one starter deck or two?"
+      }
+    ],
+    "h1": "Best Japanese Pokémon Starter Deck to Buy",
+    "intro": [
+      "Short answer: buy the fixed deck, not the random one, and buy two. On our shelf as of November 10, 2026, the best Japanese Pokémon starter deck to buy first is the Starter Set MEGA Mega Diancie ex at $11.15, a fixed 60-card deck at $0.19 a card, below its ¥1,800 official price converted to dollars. The cheapest way to start at all is the SI Start Deck 100 at $8.93, and the cheapest two-deck start, which is what a match actually needs, is $20.08. Every price below is from the eight starter products we stock, divided to the card.",
+      "Who this is for: first-time players buying their first Japanese deck, parents and gift buyers who want a complete game in one box, and collectors who want the MEGA ex cards at the cheapest per-card price on the shelf. Who it is not for: anyone chasing one named card, because the single is cheaper than any deck; anyone who wants a randomised opening, because a starter deck is fixed by design and a booster box is the product for that; and anyone buying a deck to play at an official event outside Japan without checking the language rule first."
+    ],
+    "metaDescription": "The best Japanese Pokémon starter deck, priced from one shelf: all 8 starter products divided to the card, fixed vs random, two-deck start $20.08.",
+    "metaTitle": "Best Japanese Pokémon Starter Deck to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer: which starter deck, and how many",
+        "paragraphs": [
+          "A Japanese starter deck is a fixed 60-card deck, and the shelf holds three different kinds of starter product. The fixed decks are the MEGA Starter Set ex line: Mega Diancie ex and Mega Gengar ex, each a single 60-card deck built around two copies of its headline Mega ex, with a playmat, a coin and counters, released September 5, 2025 at an official ¥1,800 including tax. The random decks are the Start Deck 100 line: one random 60-card deck out of 100, each with two or more Pokémon ex inside, at an official ¥891. The multi-deck boxes are the Start Deck Generations Special Battle Set, four decks and four promos, and the Deck Build Boxes, fixed card pools for building rather than playing.",
+          "The buyer types split on that shape. If you are starting from zero and want the best first deck, buy the [Mega Diancie ex starter](/product/starter-set-mega-mega-diancie-ex-mbd-japanese-pokemon-card/) at $11.15: a complete 60-card deck with the play accessories, at $0.19 a card the cheapest per-card fixed deck we sell. If you want the cheapest possible start, buy the [SI Start Deck 100](/product/si-start-deck-100-japanese-pokemon-card/) at $8.93, $0.15 a card, a single fixed deck from the older Start Deck 100 line, not a MEGA product. If you want two people playing tonight, buy the [Start Deck Generations Special Battle Set](/product/start-deck-generations-special-battle-set-svm-japanese-pokemon-card/) at $33.46: four decks at $8.37 a deck, $0.14 a card, the cheapest per-deck start on the shelf. And if you want the surprise of a random deck, buy the Start Deck 100 Battle Collection at $26.77, but read the money layer first: it is the worst value on the page.",
+          "The quantity question matters more than the deck question. A match needs two decks, and the official pages for both the MEGA Starter Set ex and the MEGA Start Deck 100 say so. One deck is a collection; two decks are a game. The cheapest two-deck start on our shelf is $20.08: the SI Start Deck 100 at $8.93 and the Mega Diancie ex starter at $11.15. The best two-deck start is $35.69: two MEGA starters, Diancie at $11.15 and [Gengar](/product/starter-set-mega-mega-gengar-ex-mbg-japanese-pokemon-card/) at $24.54, two different Mega ex decks with playmats and coins for both players."
+        ]
+      },
+      {
+        "h": "The money layer: all eight starter products, divided to the card",
+        "math": [
+          "SI Start Deck 100: $8.93 / 60 cards = $0.15 per card",
+          "Starter Set MEGA Mega Diancie ex (MBD): $11.15 / 60 cards = $0.19 per card; official ¥1,800 / ¥154 = $11.69; $11.15 - $11.69 = $0.54 below converted list",
+          "Starter Set MEGA Mega Gengar ex (MBG): $24.54 / 60 cards = $0.41 per card; $24.54 / $11.69 = 2.10x converted list; $24.54 - $11.69 = $12.85 above list",
+          "Special Card Set Mega Gallade ex: $21.18 (ready-to-play set; card count not published on our listing, so no per-card division)",
+          "Start Deck 100 Battle Collection: $26.77 / 60 cards = $0.45 per card; official ¥891 / ¥154 = $5.79; $26.77 / $5.79 = 4.63x converted list",
+          "SV9 Deck Build Box Battle Partners: $31.21 / 171 cards = $0.18 per card; 52 card types in the box",
+          "Start Deck Generations Special Battle Set (SVM): $33.46 / 240 cards = $0.14 per card; $33.46 / 4 decks = $8.37 per deck; official ¥4,620 / ¥154 = $30.00; $33.46 - $30.00 = $3.46 above converted list",
+          "SV3 Deck Build Box Ruler of Black Flame: $39.04 (fixed build pool; card count not published on our listing, so no per-card division)",
+          "Cheapest two-deck start: $8.93 + $11.15 = $20.08 for two 60-card decks",
+          "Best two-deck start (two MEGA starters): $11.15 + $24.54 = $35.69",
+          "Gengar vs Diancie: $24.54 - $11.15 = $13.39; $24.54 / $11.15 = 2.20x for the same 60 cards",
+          "Most vs least starter product: $39.04 - $8.93 = $30.11; $39.04 / $8.93 = 4.37x",
+          "Starter deck vs booster box per card: SV9 Battle Partners box $84.97 / 150 cards = $0.57 per card; cheapest starter deck $0.15 per card; $0.57 / $0.15 = 3.80x",
+          "Battle Academy (Japan, official): ¥3,290 / ¥154 = $21.36 for four decks; $21.36 / 4 = $5.34 per deck"
+        ],
+        "paragraphs": [
+          "Every line above is one division: shelf price divided by the cards the product contains, with official Japanese prices converted at ¥154 to the dollar. The per-card ladder runs from $0.14 to $0.45, and the cheapest per-card product is not a single deck but a four-deck box: the Generations Special Battle Set at $0.14 a card, $8.37 a deck, against its ¥4,620 official price, $30.00 converted, so our $33.46 is $3.46 above list for four decks and four promos. The cheapest single deck is the SI Start Deck 100 at $0.15 a card, and the cheapest fixed MEGA deck is Diancie at $0.19 a card.",
+          "The two MEGA starters are the same product: a fixed 60-card deck, two copies of the headline Mega ex, a playmat, a coin, counters, released the same day at the same ¥1,800. On our shelf one costs $11.15 and the other $24.54, which is 2.20 times as much for the same 60 cards. The difference is the Pokémon on the front: Gengar is the chase, Diancie is not, and the $13.39 gap is the price of the character. A buyer who wants a deck to learn with buys Diancie and saves $13.39; a buyer who wants Gengar pays the premium for the card, not the deck.",
+          "The worst value on the page is the one that looks like the cheapest way to gamble: the Start Deck 100 Battle Collection at $26.77 for one random 60-card deck, $0.45 a card, against an official ¥891, which converts to $5.79. That is 4.63 times the converted official price, for a deck whose contents are random out of 100 possibilities. The random deck is the only starter product where you cannot know what you are buying, and it is also the most expensive per card. If the surprise is the point, buy it with your eyes open; if the deck is the point, buy the fixed Diancie starter for $15.62 less.",
+          "Two products carry no per-card division, and the reason is stated: the Special Card Set Mega Gallade ex at $21.18 and the SV3 Deck Build Box at $39.04 do not publish a card count on our listing. The SV9 Deck Build Box does publish one, through the official SV9 page: 171 cards in 52 types, which divides to $0.18 a card at our $31.21. A Deck Build Box is not a starter deck in the playing sense: it is a fixed pool for building, and its value is in the 52 types it contains, not in a 60-card deck."
+        ]
+      },
+      {
+        "h": "The decision layer: fixed deck, random deck, multi-deck box, or build box",
+        "paragraphs": [
+          "A fixed deck is the only product where you know every card before you pay, which is why it is the right first purchase. A random deck is the only product where the contents are a surprise, which is why it is the worst value per card on the page. A multi-deck box is the only product that gives two people a game in one purchase, which is why the Generations set is the cheapest per-deck start. A build box gives you cards to build with rather than a deck to play with, which is why it belongs in a different column from the starters.",
+          "The booster box row is there because it is the purchase most first-time buyers actually make instead of a starter deck, and it is the wrong one for learning. Our SV9 Battle Partners booster box is $84.97 for 30 packs of 5 cards, 150 cards at $0.57 a card, with no guaranteed deck inside. Two starter decks cost $20.08 and give two complete 60-card decks; the box costs 4.23 times as much and gives no deck at all."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Fixed MEGA starter (Diancie / Gengar)",
+            "SI Start Deck 100",
+            "Random Start Deck 100 Battle Collection",
+            "Generations Special Battle Set",
+            "SV9 Deck Build Box",
+            "SV9 booster box"
+          ],
+          "rows": [
+            [
+              "Price",
+              "$11.15 / $24.54",
+              "$8.93",
+              "$26.77",
+              "$33.46",
+              "$31.21",
+              "$84.97"
+            ],
+            [
+              "Cards",
+              "60, fixed",
+              "60, fixed",
+              "60, random of 100",
+              "240 (4 decks) + 4 promos",
+              "171, 52 types",
+              "150, random"
+            ],
+            [
+              "Price per card",
+              "$0.19 / $0.41",
+              "$0.15",
+              "$0.45",
+              "$0.14",
+              "$0.18",
+              "$0.57"
+            ],
+            [
+              "Know the contents?",
+              "Yes, every card",
+              "Yes",
+              "No: random deck",
+              "Yes: four known decks",
+              "Yes: 52 known types",
+              "No: randomised packs"
+            ],
+            [
+              "Play out of the box",
+              "Yes, with playmat and coin",
+              "Yes",
+              "Yes",
+              "Yes, four players' worth",
+              "No: build first",
+              "No: build first"
+            ],
+            [
+              "Best for",
+              "First deck, one player",
+              "Cheapest single deck",
+              "The surprise",
+              "Two players, one purchase",
+              "Building a Battle Partners deck",
+              "Opening packs"
+            ],
+            [
+              "Worst for",
+              "Two players: buy two",
+              "Gengar fans: it is not Gengar",
+              "Value: 4.63x official price",
+              "One player: four decks is too many",
+              "Learning: it is not a deck",
+              "Learning: no deck inside"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided",
+        "note": "From the Warehouse: the question we get most in chat about starter decks is not which deck, it is whether one deck is enough, and the answer is always no, because a match needs two. The second question is whether the random deck is a bargain, and the answer is also no: the random deck is the most expensive per card on our shelf and the only one whose contents you cannot check before you pay. A fixed deck is a known quantity at a known price, and that is the whole point of a starter product.",
+        "paragraphs": [
+          "The top results for this query answer three different questions, and none of them is the buying question. The beginner-deck guide ranks English starter decks for new players, which is the right question for an English buyer and the wrong shelf for a Japanese one. The Japanese starter-deck decision guide turns the official pokemon-card.com descriptions into a choice between fixed, random and multi-deck products, which is the right shape of answer, but it prices none of it from a single shelf and it makes no claim about which deck is stronger, because the official pages do not say. The Generations import guide prices one product, the SVM decks, at $10 to $28 through independent shops, a range that decides nothing about the other seven products. None of them divides a real store's whole starter shelf to the card, none puts the two identical MEGA starters side by side to show the $13.39 character premium, and none prices the two-deck start, the purchase a first-time buyer actually has to make. That is the gap this page owns.",
+          "The second gap is the new three-deck box, and it is a trap the top guides do not flag clearly enough. The Special Deck Set MEGA releases in Japan on November 13, 2026 at an official ¥5,500 for three 60-card decks: Mega Feraligatr ex, Mega Dragonite ex and Mega Gengar ex. It is not the MBG single-deck starter, and its Gengar deck is not the MBG deck: different numbering, different contents, no ACE SPEC. Search results for Mega Gengar ex deck already mix the two, and a buyer who pays three-deck money for a one-deck product, or one-deck money expecting three decks, has been caught by the name. Our shelf stocks the single-deck starters, MBG and MBD, at $24.54 and $11.15. The three-deck box is not on it."
+        ]
+      },
+      {
+        "h": "The risk layer: rotation, language, and the random deck",
+        "paragraphs": [
+          "The risks sort into three kinds, and the first is rotation. A card is legal in Standard according to the regulation mark printed at its bottom left, not according to the year on the box. Since April 10, 2026, cards marked G are out of Standard, and H, I and J are in. The MEGA starters carry the I mark, and the 2024 decks on this shelf, including Generations, carry the H mark, so both are Standard-legal. But the mark is on the card, not on the box, so read the letter on the cards before assuming an older deck is legal: the 2024 decks still on shelves elsewhere are mostly G-marked, and those stopped being legal in April.",
+          "The second risk is language, and it is the one that follows every Japanese purchase. Japanese cards are printed for the Japanese scene. At an official event outside Japan, the language rule is set by the organiser, and the deck you buy to learn with at home is not automatically the deck you play at an event. Buy the Japanese deck to learn and to collect, and the English deck for official events outside Japan. Our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) prices that trade in full.",
+          "The third risk is the random deck, and it is the only risk that is also a price. The Start Deck 100 Battle Collection is one random deck out of 100, and randomness has a cost on this shelf: $0.45 a card against $0.19 for the fixed Diancie starter and $0.15 for the SI Start Deck 100. There is no recovery plan for a random deck you do not like: the product did what it said. If you want a specific deck, buy the fixed one. If you want the surprise, pay the $26.77 knowing the surprise is the product."
+        ]
+      },
+      {
+        "h": "Context: Japan first, and what a starter deck is for",
+        "paragraphs": [
+          "Japanese starter products release in Japan first, and the Japanese product is what the market trades earliest. The MEGA starters released September 5, 2025, and the Special Deck Set MEGA follows on November 13, 2026. The Start Deck Generations decks released November 22, 2024 with no English version at all, which is why they remain a Japanese-only purchase: nine decks, one per main-series region from Kanto to Paldea, each led by two ex Pokémon from that region, at an official ¥850 a deck and ¥4,620 for the four-deck Special Battle Set. A buyer who wants the Kanto deck, Pikachu ex and Snorlax ex, buys it as a Japanese product or not at all.",
+          "The context that matters most is what a starter deck is for. It is a teaching product: 60 cards, at most four copies of any one card, six Prize cards, and a fixed list so that two beginners can learn the same game from the same known quantities. The official beginner pages sort the range by stage: start-here, ready-for-a-challenge, and experienced. The MEGA starters sit at the start-here level with the playmat and coin included; the Deck Build Boxes sit a level up, because they hand you 171 cards and ask you to build; the booster box sits outside the teaching range entirely. Buy for the stage you are at, and when you have never played that stage is a fixed deck, bought twice."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card. A single Mega Gengar ex costs less as a single than as the $24.54 starter deck built around it. It is not for the player who needs a tournament-legal deck this weekend outside Japan: buy the English deck, or the singles, and check the language rule before you pay. It is not for the collector chasing the Special Art Rares, because the high-value SARs live in the MEGA Dream ex high-class pack, not in any starter deck. And it is not for anyone who treats a starter deck as an investment: the deck is a teaching product, and the sealed box is the product that holds value."
+        ]
+      },
+      {
+        "checklist": [
+          "Buy two decks, not one: a match needs two, and the cheapest two-deck start on the shelf is $20.08.",
+          "Best first deck: Mega Diancie ex starter at $11.15, $0.19 a card, below its ¥1,800 official price converted.",
+          "Cheapest per-deck start: Generations Special Battle Set at $33.46, four decks at $8.37 each, $0.14 a card.",
+          "Skip the random deck unless the surprise is the point: $26.77 for one random deck at $0.45 a card, 4.63 times its official price converted.",
+          "Check the regulation mark on the cards: H, I and J are in Standard since April 10, 2026; G is out.",
+          "Do not confuse the MBG single-deck Gengar starter with the three-deck Special Deck Set MEGA releasing November 13, 2026 at ¥5,500.",
+          "If you want one card, buy the single. If you want to learn, buy the fixed deck. If you want packs, buy the box and skip the deck."
+        ],
+        "h": "Action layer: the starter deck checklist",
+        "paragraphs": [
+          "Two decks first, fixed before random, per-card division second, and the single-card question last, because it cancels the other three. If the checklist points at Diancie, the deck is the buy; if it points at the Generations box, four decks are the buy; if it points at a booster box, the box is the buy and the deck was never the product."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-starter-deck",
+    "takeaway": [
+      "The best Japanese Pokémon starter deck to buy first is the Starter Set MEGA Mega Diancie ex at $11.15: a fixed 60-card deck at $0.19 a card, below its ¥1,800 official price converted to dollars, with the playmat, coin and counters included. The cheapest two-deck start on the shelf is $20.08, and the cheapest per-deck start is the Generations Special Battle Set at $8.37 a deck.",
+      "The two MEGA starters are the same product at two prices: Diancie at $11.15 and Gengar at $24.54, a $13.39 gap for the same 60 cards, because Gengar is the chase. The random Start Deck 100 Battle Collection is the worst value on the page at $0.45 a card, 4.63 times its official price converted, and the SV9 booster box at $0.57 a card is the wrong product for learning entirely.",
+      "For the boxes behind the decks, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices the sealed boxes, the [SV9 Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) covers the set behind the Deck Build Box, and the [best Japanese Pokémon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) runs the same division for packs. For the same first-deck question in the other games we stock, the [which TCG to start guide](/blog/which-tcg-should-you-start/) compares the games, and the [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) covers the first Dragon Ball purchase."
+    ]
+  },
   "best-japanese-pokemon-starter-deck-to-buy": {
     "datePublished": "2026-11-03",
     "faqs": [
@@ -7231,7 +7425,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The best Japanese Pokemon starter deck is the one that matches how you will play. A solo learner on a budget buys the SI Start Deck 100 at $8.93 and accepts the lottery. A solo learner who wants to choose buys the Diancie starter at $11.15. A household buys the Generations set at $33.46 and gets four decks at $8.37 each. The Gengar starter at $24.54 is for Gengar fans, and the Battle Collection at $26.77 is for players who want the newest random-deck experience. Divide by 60, double for a match, and let the arithmetic choose.",
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next starter range arrives, divide first, then ask whether the deck is fixed or random, because that one fact changes what the price buys.",
       "Still deciding between a deck and a box? The [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices the box route, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Pokemon against One Piece, Lorcana, and Dragon Ball on rules and real first purchase cost. If the deck is for a collector shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping sealed product safe.",
-      "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box."
+      "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box.",
+      "The [best Japanese Pokémon starter deck guide](/blog/best-japanese-pokemon-starter-deck/) divides all eight starter products on the shelf to the card and prices the two-deck start at $20.08."
     ]
   },
   "best-japanese-tcg": {
@@ -11891,7 +12086,8 @@ export const POSTS: Record<string, BlogPost> = {
       "And when a box does land in your hands and the seal starts calling, run it through [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you break it — that framework was written for exactly that moment. More first-timer guides live on [the blog](/blog/).",
       "Choosing between the three games? [Which TCG should you start?](/blog/which-tcg-should-you-start/) compares Fusion World with One Piece and Pokémon on rules, structure, and the real cost of the first box.",
       "Once you know the rules and want to buy sealed, [the best Dragon Ball Fusion World booster box to buy](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve FB cases by per-box price from our live English case prices — including why the FB12 pre-order case undercuts FB11. For the other Dragon Ball game, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all 13 Masters sealed cases per box and per pack.",
-      "When the first game is behind you and the question becomes which Japanese box to buy, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices all five Japanese boxes on the shelf, from FB08 at $26.02 to FB09 at $64.12. For FB07 in depth, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) prices the Japanese box against the English case."
+      "When the first game is behind you and the question becomes which Japanese box to buy, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices all five Japanese boxes on the shelf, from FB08 at $26.02 to FB09 at $64.12. For FB07 in depth, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) prices the Japanese box against the English case.",
+      "Buying Dragon Ball from Japan? The [Dragon Ball TCG Japan buyer's guide](/blog/dragon-ball-tcg-japan/) prices all 27 sealed cases to the box, the pack and the card, and names the cheapest sealed entry in each line."
     ]
   },
   "dragon-ball-fusion-world-japanese": {
@@ -12678,6 +12874,212 @@ export const POSTS: Record<string, BlogPost> = {
       "Every Dragon Ball box price lives in one table now: the Japanese damaged tier from $33.28, the clean asks from $49.99 for FB11 to $575.95 for SB01, the pre-orders at $182.92 for FB12 and $150.46 for ST02, our Masters cases from $102.93 a box for B25 to $178.36 for B20, and the outside B31 box at $449.99. Eight Fusion World sets carry no current ask, and the table leaves them out rather than inventing one.",
       "The multiples are the story: the B25 case-split beats US retail by $40.83 a box, the ToyWiz B31 costs 2.99 times our case-split for the same set, SB01 trades at 11.49 times retail on the anniversary lottery, and the FB09 English box at 6.99 times the Japanese ask is the gap between the two languages stated as a number. B27 at $776.25 a box is excluded as a likely catalog outlier.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, the marketplace asks as of September 29, 2026 or June 16, 2026, the damaged-box prices as of October 21, 2026, and yen converted at 158 per dollar on November 9, 2026. An ask without a date is stale, a pre-order premium is the price of the wait, and a single-box retail ask is the most expensive way to buy a Masters box."
+    ]
+  },
+  "dragon-ball-tcg-japan": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "On our shelf, yes for sealed English cases and no for sealed Japanese boxes, because we do not stock sealed Japanese boxes. A Fusion World English case splits to $4.44 a pack for FB04 and $5.27 for the FB12 pre-order, against an official Japanese pack price of ¥220 (about $1.43) for FB01 to FB10 and ¥240 (about $1.56) for FB11 and FB12. The Japanese pack is cheaper at the counter in Tokyo, but the cheapest sealed Japanese FB09 box anyone could point at on September 29, 2026 was a ¥9,099 asking price, about $59, and our English FB09 case is $4,830. Buy the English case here for sealed play; buy the Japanese single here for the Japanese card itself.",
+        "q": "Is it cheaper to buy Dragon Ball cards from Japan or in English?"
+      },
+      {
+        "a": "Fusion World is Bandai's current Dragon Ball card game, launched in Japan on February 16, 2024, with twelve main booster sets so far, FB01 Awakened Pulse through FB12 Reach the God, plus the Manga Booster spin-offs. Masters is the older Dragon Ball Super Card Game line, sets B20 through B32 on our shelf, which ran before Fusion World took over as the current game. Fusion World is where new releases land; Masters is where the back catalogue lives, and its cheapest case, B25 at $1,235.10, is also the cheapest sealed Dragon Ball on our shelf.",
+        "q": "What is the difference between Dragon Ball Fusion World and Masters?"
+      },
+      {
+        "a": "Japanese-language Dragon Ball cards are printed for the Japanese scene, and the language rule at an official event outside Japan is set by that event's organiser, not by the card. If you buy Japanese cards to play outside Japan, confirm the language rule with your local tournament organiser before you pay. If you buy them to collect, the language is the point: the Japanese print is the first print, and for Fusion World it is the print the alternate-art foiling was designed around.",
+        "q": "Are Japanese Dragon Ball cards legal to play outside Japan?"
+      }
+    ],
+    "h1": "Dragon Ball TCG Japan: Buyer's Guide",
+    "intro": [
+      "Short answer: buy Dragon Ball TCG from Japan by the line, not by the character. On our shelf as of November 10, 2026, the cheapest sealed Dragon Ball is a Masters case split at $102.93 a box and $4.29 a pack for B25 Legend of the Dragon Balls, the current game, Fusion World, runs $106.61 to $402.50 a box across FB01 to FB12, and the Manga Boosters sit at the far end at $793.51 and $2,242.50 a box. Every number below is divided from the 27 sealed cases and five Japanese singles we stock.",
+      "Who this is for: buyers choosing between the three lines, collectors comparing a Japanese first print with an English case, and players deciding whether the current game or the back catalogue is cheaper. Who it is not for: anyone hunting one named card, because the single is cheaper than the case every time; anyone who needs a sealed Japanese booster box, because we do not stock sealed Japanese boxes and this guide says so plainly instead of pretending otherwise; and anyone buying FB12 to open on arrival, because it is a pre-order until December 12, 2026."
+    ],
+    "metaDescription": "Dragon Ball TCG from Japan, priced from one shelf: all 27 sealed cases divided to box and pack, Fusion World vs Masters vs Manga.",
+    "metaTitle": "Dragon Ball TCG Japan: Buyer's Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer: which line, and why",
+        "paragraphs": [
+          "Dragon Ball TCG in Japan is two games and one spin-off, and the first decision is which of the three you are buying. Fusion World is the current game: twelve main sets, FB01 Awakened Pulse through FB12 Reach the God, released roughly one a quarter since February 16, 2024, with FB12 scheduled for December 12, 2026 in Japan and December 18, 2026 in English. Masters is the older Dragon Ball Super Card Game line, B20 Power Absorbed through B32 Chromatic Ascension on our shelf. One break matters for every number below: B32, the newest Masters set, holds 20 packs a box, not 24, and is scheduled for November 27, 2026 in North America.",
+          "The buyer types split on that line. If you want to play the current game, buy Fusion World, and buy the cheapest current set rather than the newest: FB04 Ultra Limit at $106.61 a box is the cheapest Fusion World case on the shelf, and [FB12](/product/dragon-ball-super-fusion-world-fb12-reach-the-god-booster-box-sealed-case-englis/), the newest, is $126.50 a box as a pre-order, which makes the newest set the second-cheapest way into the current game. If you want the cheapest sealed Dragon Ball of any kind, buy Masters: B25 at $102.93 and B32 at $104.65 a box are the two cheapest on the shelf. The Manga Boosters are the anniversary spin-off with manga-illustration alternate arts, and SB01 is $2,242.50 a box and $93.44 a pack, more per pack than most people spend on a whole box.",
+          "The Japanese question sits on top of the line question, and it has a blunt answer on this shelf. We stock sealed English cases and Japanese single cards, not sealed Japanese boxes. The five Japanese singles are FB07 at $27.88, FB08 at $26.02, FB09 at $64.12, SB01 at $57.61 and SB02 at $57.61. If the card you want is one of those five, the Japanese print is right here. If you want a sealed Japanese box, we do not have one to sell you."
+        ]
+      },
+      {
+        "h": "The money layer: all 27 cases, divided to the box and the pack",
+        "math": [
+          "FB01 Awakened Pulse: $4,429.80 / 12 boxes = $369.15 per box; $369.15 / 24 packs = $15.38 per pack; $15.38 / 12 cards = $1.28 per card",
+          "FB02 Blazing Aura: $1,332.92 / 12 boxes = $111.08 per box; $111.08 / 24 packs = $4.63 per pack; $4.63 / 12 cards = $0.39 per card",
+          "FB03 Raging Roar: $1,587.00 / 12 boxes = $132.25 per box; $132.25 / 24 packs = $5.51 per pack; $5.51 / 12 cards = $0.46 per card",
+          "FB04 Ultra Limit: $1,279.26 / 12 boxes = $106.61 per box; $106.61 / 24 packs = $4.44 per pack; $4.44 / 12 cards = $0.37 per card",
+          "FB05 New Adventure: $1,340.70 / 12 boxes = $111.73 per box; $111.73 / 24 packs = $4.66 per pack; $4.66 / 12 cards = $0.39 per card",
+          "FB06 Rivals Clash: $1,449.76 / 12 boxes = $120.81 per box; $120.81 / 24 packs = $5.03 per pack; $5.03 / 12 cards = $0.42 per card",
+          "FB07 Wish for Shenron: $1,587.00 / 12 boxes = $132.25 per box; $132.25 / 24 packs = $5.51 per pack; $5.51 / 12 cards = $0.46 per card",
+          "FB08 Saiyan's Pride: $2,450.08 / 12 boxes = $204.17 per box; $204.17 / 24 packs = $8.51 per pack; $8.51 / 12 cards = $0.71 per card",
+          "FB09 Dual Evolution: $4,830.00 / 12 boxes = $402.50 per box; $402.50 / 24 packs = $16.77 per pack; $16.77 / 12 cards = $1.40 per card",
+          "FB10 Cross Force: $2,333.57 / 12 boxes = $194.46 per box; $194.46 / 24 packs = $8.10 per pack; $8.10 / 12 cards = $0.68 per card",
+          "FB11 Brightness of Hope: $2,553.00 / 12 boxes = $212.75 per box; $212.75 / 24 packs = $8.86 per pack; $8.86 / 12 cards = $0.74 per card",
+          "FB12 Reach the God: $1,518.00 / 12 boxes = $126.50 per box; $126.50 / 24 packs = $5.27 per pack; $5.27 / 12 cards = $0.44 per card",
+          "B20 Power Absorbed: $2,140.36 / 12 boxes = $178.36 per box; $178.36 / 24 packs = $7.43 per pack; $7.43 / 12 cards = $0.62 per card",
+          "B21 Wild Resurgence: $1,690.50 / 12 boxes = $140.88 per box; $140.88 / 24 packs = $5.87 per pack; $5.87 / 12 cards = $0.49 per card",
+          "B22 Critical Blow: $1,587.90 / 12 boxes = $132.33 per box; $132.33 / 24 packs = $5.51 per pack; $5.51 / 12 cards = $0.46 per card",
+          "B23 Perfect Combination: $1,621.50 / 12 boxes = $135.13 per box; $135.13 / 24 packs = $5.63 per pack; $5.63 / 12 cards = $0.47 per card",
+          "B24 Beyond Generations: $1,393.80 / 12 boxes = $116.15 per box; $116.15 / 24 packs = $4.84 per pack; $4.84 / 12 cards = $0.40 per card",
+          "B25 Legend of the Dragon Balls: $1,235.10 / 12 boxes = $102.93 per box; $102.93 / 24 packs = $4.29 per pack; $4.29 / 12 cards = $0.36 per card",
+          "B26 Ultimate Advent: $1,353.30 / 12 boxes = $112.78 per box; $112.78 / 24 packs = $4.70 per pack; $4.70 / 12 cards = $0.39 per card",
+          "B27 History of Z: $9,315.00 / 12 boxes = $776.25 per box; $776.25 / 24 packs = $32.34 per pack; $32.34 / 12 cards = $2.70 per card",
+          "B28 Prismatic Clash: $1,276.50 / 12 boxes = $106.38 per box; $106.38 / 24 packs = $4.43 per pack; $4.43 / 12 cards = $0.37 per card",
+          "B29 Fearsome Rivals: $1,725.76 / 12 boxes = $143.81 per box; $143.81 / 24 packs = $5.99 per pack; $5.99 / 12 cards = $0.50 per card",
+          "B30 Three Glorious Fighters: $1,671.02 / 12 boxes = $139.25 per box; $139.25 / 24 packs = $5.80 per pack; $5.80 / 12 cards = $0.48 per card",
+          "B31 Impact Beyond Dimensions: $1,807.80 / 12 boxes = $150.65 per box; $150.65 / 24 packs = $6.28 per pack; $6.28 / 12 cards = $0.52 per card",
+          "B32 Chromatic Ascension: $1,255.80 / 12 boxes = $104.65 per box; $104.65 / 20 packs = $5.23 per pack; $5.23 / 12 cards = $0.44 per card",
+          "SB01 Manga Booster 01: $26,910.00 / 12 boxes = $2,242.50 per box; $2,242.50 / 24 packs = $93.44 per pack; $93.44 / 12 cards = $7.79 per card",
+          "SB02 Manga Booster 02: $9,522.14 / 12 boxes = $793.51 per box; $793.51 / 24 packs = $33.06 per pack; $33.06 / 12 cards = $2.76 per card",
+          "SB01 vs SB02 case: $26,910.00 - $9,522.14 = $17,387.86; $26,910.00 / $9,522.14 = 2.83x",
+          "B27 premium over cheapest Masters case: $9,315.00 / $1,235.10 = 7.54x the B25 case",
+          "FB09 vs FB04 per pack: $16.77 - $4.44 = $12.33; $16.77 / $4.44 = 3.78x",
+          "Japanese box asks, Sept 29, 2026 (SNKRDUNK lowest asks, not sales): FB09 ¥9,099 = $59.08; $59.08 / 24 packs = $2.46 per pack; $2.46 / 6 cards = $0.41 per card",
+          "Japanese box asks, Sept 29, 2026: FB10 ¥10,499 = $68.18; $68.18 / 24 = $2.84 per pack; $2.84 / 6 = $0.47 per card",
+          "Japanese box asks, Sept 29, 2026: FB11 ¥7,899 = $51.29; $51.29 / 24 = $2.14 per pack; $2.14 / 6 = $0.36 per card",
+          "Japanese official pack-price sum: 24 packs x ¥220 = ¥5,280 = $34.29 at ¥154/USD (FB01-FB10); 24 packs x ¥240 = ¥5,760 = $37.40 (FB11-FB12)",
+          "Japanese singles spread on our shelf: $64.12 - $26.02 = $38.10 from cheapest to dearest"
+        ],
+        "paragraphs": [
+          "Every line above is the same division, run three times: case price divided by 12 boxes, then by packs per box, then by 12 cards for the English product. A sealed case holds 12 boxes; at 24 packs a box that is 288 packs and 3,456 cards, except B32, whose 20-pack boxes make 240 packs and 2,880 cards a case. The cheapest per-pack lines on the page are all Masters: B25 at $4.29, B28 at $4.43 and B26 at $4.70. B32 breaks the pattern: its $104.65 box divides to $5.23 a pack, not $4.36. The cheapest Fusion World pack is FB04 at $4.44, fifteen cents a pack above the cheapest Masters pack.",
+          "Read the ladder as a map of sealed supply, not of card quality. FB09 at $16.77 a pack is the most expensive Fusion World pack because its sealed supply is the thinnest relative to demand, not because its cards are four times better than FB04's. FB01 at $15.38 is expensive for the opposite reason: it is the first set, and first sets hold a premium even when the cards inside are the weakest of the line. B27 at $32.34 a pack is the outlier of the whole page: a $9,315 case, 7.54 times the cheapest Masters case, for a set whose sealed supply has effectively dried up. Nobody buys B27 to open packs.",
+          "The Japanese lines at the bottom of the math are not our prices. Bandai's official Japanese pack price is ¥220 including tax for FB01 to FB10 and ¥240 for FB11 and FB12, six cards to a pack, and Bandai prints no box price at all. The lowest asking prices for sealed Japanese boxes on SNKRDUNK on September 29, 2026 were ¥9,099 for FB09, ¥10,499 for FB10 and ¥7,899 for FB11, which convert at ¥154 to about $59, $68 and $51 a box, or $2.46, $2.84 and $2.14 a pack. Those are asking prices, not sales: a Japanese box trades above the sum of its 24 packs at official price, about $34.29, because sealed supply is thin."
+        ]
+      },
+      {
+        "h": "The decision layer: Fusion World, Masters, Manga, or Japanese singles",
+        "paragraphs": [
+          "The table's first row is the decision, and it is a line decision before it is a set decision. Fusion World is the only line still receiving new sets. Masters is the only line where the whole back catalogue is available at $4.29 to $7.43 a pack, which makes it the value line for anyone who wants sealed Dragon Ball to open. The Manga Boosters are the only line where the price is about the art: SB01 at $93.44 a pack buys manga-illustration alternate arts that exist nowhere else.",
+          "The Japanese singles row is the row most buyers actually need. A [Japanese FB09 single](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) at $64.12 costs less than four English FB09 packs at $16.77, and it is the exact card, in the exact language, with no lottery attached. The five singles on the shelf run $26.02 to $64.12, and the spread between the cheapest and the dearest is $38.10, which is the whole Japanese question in one number: the Japanese print is a single-card purchase, and it is priced like one."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Fusion World (FB01-FB12)",
+            "Masters (B20-B32)",
+            "Manga Booster (SB01-SB02)",
+            "Japanese singles",
+            "Sealed Japanese box (elsewhere)"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$106.61-$402.50",
+              "$102.93-$776.25",
+              "$793.51-$2,242.50",
+              "No box: singles $26.02-$64.12",
+              "About $51-$68 (asks, Sept 29, 2026)"
+            ],
+            [
+              "Price per pack",
+              "$4.44-$16.77",
+              "$4.29-$32.34",
+              "$33.06-$93.44",
+              "No packs: one card each",
+              "$2.14-$2.84 (asks, Sept 29, 2026)"
+            ],
+            [
+              "Packs per box",
+              "24",
+              "24 (20 for B32)",
+              "24",
+              "No packs: one card each",
+              "24 (6 cards each)"
+            ],
+            [
+              "Cards per pack",
+              "12 English",
+              "12 English",
+              "12 English",
+              "1 card, Japanese",
+              "6 Japanese"
+            ],
+            [
+              "New releases",
+              "Yes: FB12 Dec 2026",
+              "No: back catalogue",
+              "No: anniversary spin-off",
+              "Depends on the card",
+              "Yes, with the Japanese schedule"
+            ],
+            [
+              "Best for",
+              "Playing the current game",
+              "Cheapest sealed Dragon Ball",
+              "Manga-art collecting",
+              "One exact Japanese card",
+              "Sealed Japanese collecting"
+            ],
+            [
+              "Worst for",
+              "Chasing one card: buy the single",
+              "Current-format play",
+              "Any budget under $793 a box",
+              "Sealed play: it is one card",
+              "Value: we do not stock it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, three lines, divided",
+        "note": "From the Warehouse: the question we get most in chat about Dragon Ball is not which set, it is whether to buy Japanese or English, and the question underneath it is always the same: am I overpaying for the language? Our answer never changes: divide the case you can actually buy, then compare it with the Japanese price you can actually verify. The language premium is real, it is measurable, and on FB09 it is $14.31 a pack between our English case split and the cheapest Japanese box ask anyone recorded. Measure it before you pay it.",
+        "paragraphs": [
+          "The top results for this query answer three different questions, and none of them is the buying question. The proxy guide explains how to shop Japanese stores through a forwarder, a shopping method, not a price. The shop-ranking guide ranks Japanese singles shops, a vendor question. The product-collection page lists price ranges of $5 to $20 a pack and $100 to $2,000 for rare cards, which is a range so wide it decides nothing. None of them divides a real store's sealed cases across all three lines, and none states plainly that a Japan-based store can stock English cases and Japanese singles while stocking no sealed Japanese boxes. That is the gap this page owns.",
+          "The second gap is the Japanese box price itself. The guides that mention Japanese boxes quote either the official pack price, which is not a box price, or a marketplace range with no date. Bandai does not publish a Japanese box price, so any guide that prints one without saying where it came from is inventing it. The only verifiable Japanese box figures are dated asking prices, printed here with their date and source. A buyer who knows the FB09 Japanese box was asking ¥9,099 on September 29, 2026 can decide whether $64.12 for the single, or $402.50 for the English case, is the better use of the same money. The third gap is a pack-count trap inside our own shelf: B32 holds 20 packs a box where every earlier Masters box holds 24, so dividing its $104.65 box by 24 gives $4.36 a pack instead of the true $5.23, and any guide that prints $4.36 has carried the old count into the new set."
+        ]
+      },
+      {
+        "h": "The risk layer: pre-orders, the B27 outlier, and reseals",
+        "paragraphs": [
+          "The risks sort into three kinds, and the first is timing. FB12 Reach the God releases in Japan on December 12, 2026 and in English on December 18, 2026, and our $1,518 case is a pre-order, not stock in hand. A pre-order case is a promise priced at $126.50 a box, and the promise is worth exactly as much as the seller's allocation. Buy it if you want the set on release week; do not buy it expecting to open it the day you pay. The same timing risk runs the other way on FB01: the first set is the most expensive per pack in the line after FB09, and its premium is a collector premium, not a play premium.",
+          "The second risk is the outlier. [B27 History of Z](/product/dragon-ball-super-card-game-masters-b27-history-of-z-booster-box-sealed-case-eng/) at $9,315 a case is not a typo and not a deal: it is a sealed case of a set whose supply has dried up, priced for a collector who wants the sealed object. At $32.34 a pack it is more than seven times the cheapest Masters pack, and no pull inside justifies opening it. The recovery plan for every sealed purchase on this page is the same, and it is the plan in our [guide to opening or keeping a box sealed](/blog/should-you-open-or-keep-sealed-booster-box/): decide before you open whether you are buying an experience or a card, and if it is a card, buy the card.",
+          "The third risk is the reseal. A sealed case is the only Dragon Ball product with a full chain of custody: 12 factory-sealed boxes, unopened. A loose box, and a loose Japanese box above all, may have been opened, picked, and resealed. Our [guide to telling a resealed box](/blog/how-to-tell-if-a-booster-box-is-resealed/) covers the box-level checks, and the rule behind them is simple: the cheaper the sealed Japanese box looks against the dated asks above, the more suspicious it is, because a genuine sealed Japanese box does not trade below its own asking market."
+        ]
+      },
+      {
+        "h": "Context: Japan first, and the Japanese-box gap",
+        "paragraphs": [
+          "Dragon Ball is a Japanese-first game: sets release in Japan first, and the Japanese print is the first print. Fusion World launched in Japan on February 16, 2024, and the Japanese schedule has stayed about a quarter ahead of the English one ever since: FB11 reached Japan on September 12, 2026 and English shelves on October 16, and FB12 reaches Japan on December 12, 2026 with English following on December 18. The two starter decks that launch with FB12, FS13 The Saiyan Raised on Earth and FS14 The Prince of Saiyan, follow the same pattern. A buyer who wants the newest Dragon Ball first buys Japanese; a buyer who wants the newest Dragon Ball cheapest buys the English pre-order, which is why our FB12 case at $126.50 a box undercuts FB11 at $212.75.",
+          "The configuration gap is the part the top guides blur. A Japanese Fusion World pack holds 6 cards; an English pack holds 12. A Japanese box holds 24 packs of 6, which is 144 cards; an English box holds 24 packs of 12, which is 288 cards. Every pack in both languages carries a code for the digital version, which is why an opened Fusion World pack is worth less than an ordinary opened pack: the one-use code is spent. The per-card math follows from the configuration, not from the price: our cheapest English card is B25 at $0.36, and the cheapest Japanese box ask converts to $0.36 a card for FB11, which means the two languages meet at the same per-card price at the bottom of their ladders and diverge everywhere above it.",
+          "The gap this store cannot close is the sealed Japanese box. We ship from Japan, and the exact shipping quote is confirmed at checkout or on WhatsApp, because we do not publish invented shipping rates. What the shelf says is 27 sealed English cases, five Japanese singles, and no sealed Japanese box. The dated asks in the money layer are the numbers to carry into that purchase."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card. A single Japanese FB09 card at $64.12 is cheaper than four English FB09 packs at $16.77, and no division in this article changes that. It is not for the buyer who wants a sealed Japanese booster box from this store, because we do not stock one. It is not for the player who needs a tournament-legal deck this weekend in English: buy the singles, or the cheapest current Fusion World case, and skip the sealed-box lottery. And it is not for anyone who treats a Manga Booster case as an opening product: at $793.51 to $2,242.50 a box, opening one to chase a card is the most expensive way to buy that card."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the line first: Fusion World to play the current game, Masters for the cheapest sealed Dragon Ball, Manga Booster only for the art.",
+          "Divide before you pay: case price / 12 = your per-box price; per-box / 24 = your per-pack price; compare the pack, not the case.",
+          "Cheapest packs on the shelf: B25 Masters $4.29, B32 Masters $4.36, FB04 Fusion World $4.44.",
+          "FB12 is a pre-order until December 12, 2026 in Japan: $1,518 a case, $126.50 a box, and no box ships before release.",
+          "If the card is Japanese and named, buy the single: five Japanese singles on the shelf, $26.02 to $64.12.",
+          "If a sealed Japanese box is offered far below the September 29, 2026 asks of about $51 to $68, treat it as suspect and check the reseal guide first.",
+          "Confirm the exact shipping quote at checkout or on WhatsApp before you pay; we ship from Japan and do not publish invented delivery times."
+        ],
+        "h": "Action layer: the Dragon Ball Japan checklist",
+        "paragraphs": [
+          "Line first, division second, language third, and the single-card question last, because it cancels the other three. If the checklist points at a case, the case is the buy; if it points at one Japanese card, the single is the buy; if it points at a sealed Japanese box, the buy happens elsewhere, with the dated numbers above in hand."
+        ]
+      }
+    ],
+    "slug": "dragon-ball-tcg-japan",
+    "takeaway": [
+      "Dragon Ball TCG from Japan is three lines on one shelf: Fusion World, the current game at $106.61 to $402.50 a box; Masters, the back catalogue at $102.93 to $776.25 a box with the cheapest packs on the page; and the Manga Boosters at $793.51 and $2,242.50 a box. The cheapest sealed Dragon Ball you can buy from us is a Masters B25 box at $102.93, and the cheapest way into the current game is an FB04 box at $106.61.",
+      "The Japanese question has a measured answer, not a slogan. A Japanese pack is officially ¥220 or ¥240, six cards, against twelve in an English pack, and the cheapest sealed Japanese box asks recorded on September 29, 2026 convert to $2.14 to $2.84 a pack. Our English case splits run $4.29 to $16.77 a pack, so the Japanese box is cheaper per pack and the English case is the one you can actually buy sealed from this shelf.",
+      "For the lines in depth, the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve FB cases, the [best Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all thirteen Masters cases, and the [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) covers the first purchase. For the same Japan question in the other games we stock, the [best Japanese card shop guide](/blog/best-japanese-card-shop-online/) ranks the shops, and the [buying TCG from Japan guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers shipping, customs and proxies."
     ]
   },
   "eb-01-japanese-vs-english-which-to-buy": {
