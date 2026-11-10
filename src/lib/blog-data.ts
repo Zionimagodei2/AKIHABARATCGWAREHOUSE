@@ -1087,7 +1087,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Lorcana case checklist",
         "paragraphs": [
-          "Run this before the next Lorcana case you consider. Ten minutes replaces a week of ranking articles with a decision built on your shelf's prices."
+          "Run this before the next Lorcana case you consider. Ten minutes replaces a week of ranking articles with a decision built on your shelf's prices. For the full price of every set, our [Disney Lorcana booster box prices](/blog/disney-lorcana-booster-box-price/) page divides all fourteen cases to per-box, per-pack, and per-card."
         ]
       }
     ],
@@ -1755,7 +1755,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Lorcana case checklist",
         "paragraphs": [
-          "Run this list in order before money moves. If any step fails, the case waits."
+          "Run this list in order before money moves. If any step fails, the case waits. For the full price of every set, our [Disney Lorcana booster box prices](/blog/disney-lorcana-booster-box-price/) page divides all fourteen cases to per-box, per-pack, and per-card."
         ]
       }
     ],
@@ -3678,7 +3678,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the English One Piece box checklist",
         "paragraphs": [
-          "Run this before paying. It takes five minutes and it replaces a shelf of market-price rankings with a decision built on the 22 boxes one store will actually sell you."
+          "Run this before paying. It takes five minutes and it replaces a shelf of market-price rankings with a decision built on the 22 boxes one store will actually sell you. For the full price of every English box, our [English One Piece booster box prices](/blog/english-one-piece-booster-box-price/) page divides all twenty-two boxes to per-pack and per-card."
         ]
       }
     ],
@@ -4730,7 +4730,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the checklist",
         "paragraphs": [
-          "Run this in order, before the next box you buy. It takes five minutes and it replaces an afternoon of comparing listings with a decision you made while calm."
+          "Run this in order, before the next box you buy. It takes five minutes and it replaces an afternoon of comparing listings with a decision you made while calm. The English shelf is priced the same way on our [English One Piece booster box prices](/blog/english-one-piece-booster-box-price/) page, which divides all twenty-two English boxes to per-pack and per-card."
         ]
       }
     ],
@@ -11505,6 +11505,257 @@ export const POSTS: Record<string, BlogPost> = {
       "¿Todavía decidiendo entre sellado y singles? La guía [matemáticas de case sellado frente a caja](/blog/sealed-case-vs-booster-box-the-math/) aplica la misma disciplina para un juego a la vez. Solo para el estante de Pokémon, el [tablero de precios de cajas japonesas](/blog/japanese-pokemon-booster-box-price/) divide cada caja. Y si aún no has elegido juego, [qué TCG deberías empezar](/blog/which-tcg-should-you-start/) compara los costes reales de la primera caja. El hub de Países Bajos aplica los mismos números con la misma línea fiscal: [comprar cartas TCG japonesas en Países Bajos](/blog/buying-japanese-tcg-cards-in-netherlands/)"
     ]
   },
+  "disney-lorcana-booster-box-price": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "No. Our Lorcana stock is sealed cases of four boxes, so the honest comparison is the case price divided by four. A Reign of Jafar case at $463.45 works out to $115.86 per box, which is below the $143.76 box retail, but you are still buying four boxes. The case suits groups that split, players who want a deep pool from one set, and sealed holders. A solo buyer who wants one box should buy one box from a store that sells singles.",
+        "q": "Can I buy a single Disney Lorcana booster box from this store?"
+      },
+      {
+        "a": "Reign of Jafar, at $4.83 a pack inside its $463.45 case, then Azurite Sea at $4.96 a pack inside its $476.63 case. Both are below the $5.99 retail pack price. The dearest pack is The First Chapter at $18.20, inside its $1,747.37 case. Per-pack price is the column players should read; per-box price is the column sealed holders should read.",
+        "q": "Which Lorcana set is cheapest per pack?"
+      },
+      {
+        "a": "Because it is the first set, released August 2023, and sealed supply is thin against its nostalgia. The $1,747.37 case divides to $436.84 a box, $18.20 a pack, $1.52 a card, which is 3.04 times the $143.76 retail box. You are paying for first-set status, not for cards: the same 288 cards cost $115.86 a box in Reign of Jafar. Never pay a scarcity price with money you need back on a date.",
+        "q": "Why is The First Chapter $436.84 a box?"
+      }
+    ],
+    "h1": "Disney Lorcana Booster Box Prices, Priced",
+    "intro": [
+      "Short answer: the cheapest Disney Lorcana booster box you can pay for on our shelf is Reign of Jafar at $115.86 a box, inside its $463.45 sealed case, and the dearest is The First Chapter at $436.84 a box, inside its $1,747.37 case. The newest set, Hyperia City, is $180.00 a box inside its $720.00 case, $36.24 above the $143.76 box retail. Every price below is our live case price as of November 10, 2026, divided so you can check it.",
+      "Who this is for: buyers who want the price of a named Lorcana box before they pay, and collectors comparing one set against another on the same shelf. Who it is not for: anyone who wants a single Lorcana box from us, because we sell sealed cases of four boxes only, and anyone who wants one price for the whole line, because there is none: the cheapest box and the dearest differ by $320.98."
+    ],
+    "metaDescription": "Every Disney Lorcana box price in one table: all 14 English sets from our sealed cases, divided to per-box, per-pack and per-card, against MSRP.",
+    "metaTitle": "Disney Lorcana Booster Box Prices, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "Three buyers, three answers. A player building a pool from one set buys the cheapest per-pack price: [Reign of Jafar](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) at $4.83 a pack, then [Azurite Sea](/product/disney-lorcana-azurite-sea-booster-box-sealed-case-set-6-english/) at $4.96, then Ursula's Return or Rise of the Floodborn at $5.25. An opener chasing the newest cards buys [Hyperia City](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) at $180.00 a box, $7.50 a pack, knowing the premium is newness, not value. A sealed holder buys the set whose sealed supply is thinnest against its nostalgia: The First Chapter at $436.84 a box, already priced as history, or Hyperia City at $180.00, betting the newest set grows into its price.",
+          "The anchor for all three is the retail box: $143.76, from 24 packs at $5.99, $0.50 a card. Four sets sit below it on our shelf and ten sit above it. Below the line: Reign of Jafar at $115.86, Azurite Sea at $119.16, Ursula's Return and Rise of the Floodborn at $126.00, and Into the Inklands at $138.60. Above the line by the smallest margin: Shimmering Skies at $163.80, Attack of the Vine at $173.58, Hyperia City at $180.00. By the widest: Winterspell at $322.27 and The First Chapter at $436.84, 3.04 times retail.",
+          "One fact reorders every comparison on this page: we do not sell single Lorcana boxes. Every price here is a sealed case of four boxes divided by four, then by 24 packs. A buyer who wants exactly one box should buy one from a store that sells them; a buyer who will use four boxes of one set, or split a case four ways with friends, pays the per-box price in the table. Our [best Lorcana box guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks the same fourteen cases by buyer type; this page prices them."
+        ]
+      },
+      {
+        "h": "The money layer: all fourteen cases, divided",
+        "math": [
+          "Set 1 The First Chapter: $1,747.37 / 4 = $436.84 per box; $436.84 / 24 = $18.20 per pack; $18.20 / 12 = $1.52 per card",
+          "Set 2 Rise of the Floodborn: $504.00 / 4 = $126.00 per box; $126.00 / 24 = $5.25 per pack; $5.25 / 12 = $0.44 per card",
+          "Set 3 Into the Inklands: $554.40 / 4 = $138.60 per box; $138.60 / 24 = $5.78 per pack; $5.78 / 12 = $0.48 per card",
+          "Set 4 Ursula's Return: $504.00 / 4 = $126.00 per box; $126.00 / 24 = $5.25 per pack; $5.25 / 12 = $0.44 per card",
+          "Set 5 Shimmering Skies: $655.20 / 4 = $163.80 per box; $163.80 / 24 = $6.83 per pack; $6.83 / 12 = $0.57 per card",
+          "Set 6 Azurite Sea: $476.63 / 4 = $119.16 per box; $119.16 / 24 = $4.96 per pack; $4.96 / 12 = $0.41 per card",
+          "Set 7 Archazia's Island: $745.68 / 4 = $186.42 per box; $186.42 / 24 = $7.77 per pack; $7.77 / 12 = $0.65 per card",
+          "Set 8 Reign of Jafar: $463.45 / 4 = $115.86 per box; $115.86 / 24 = $4.83 per pack; $4.83 / 12 = $0.40 per card",
+          "Set 9 Fabled: $746.16 / 4 = $186.54 per box; $186.54 / 24 = $7.77 per pack; $7.77 / 12 = $0.65 per card",
+          "Set 10 Whispers in the Well: $1,019.00 / 4 = $254.75 per box; $254.75 / 24 = $10.61 per pack; $10.61 / 12 = $0.88 per card",
+          "Set 11 Winterspell: $1,289.06 / 4 = $322.27 per box; $322.27 / 24 = $13.43 per pack; $13.43 / 12 = $1.12 per card",
+          "Set 12 Wilds Unknown: $1,268.02 / 4 = $317.01 per box; $317.01 / 24 = $13.21 per pack; $13.21 / 12 = $1.10 per card",
+          "Set 13 Attack of the Vine!: $694.31 / 4 = $173.58 per box; $173.58 / 24 = $7.23 per pack; $7.23 / 12 = $0.60 per card",
+          "Set 14 Hyperia City: $720.00 / 4 = $180.00 per box; $180.00 / 24 = $7.50 per pack; $7.50 / 12 = $0.63 per card",
+          "Box MSRP: 24 x $5.99 = $143.76 per box; $143.76 / 24 = $5.99 per pack; $5.99 / 12 = $0.50 per card",
+          "Case MSRP: 4 x $143.76 = $575.04 per case",
+          "Cheapest box vs MSRP: $143.76 - $115.86 = $27.90 below, 19.4% under retail",
+          "Dearest box vs MSRP: $436.84 - $143.76 = $293.08 above, 203.9% over retail",
+          "Box spread: $436.84 - $115.86 = $320.98 per box; $436.84 / $115.86 = 3.77x",
+          "All fourteen cases: $11,387.28 for 56 boxes, $203.34 per box, $8.47 per pack, $0.71 per card",
+          "Hyperia City outside: our $180.00 vs TCGplayer market $159.40 (Oct 22, 2026) = $20.60 above, 12.9%",
+          "Japanese First Chapter case: $564.07 / 15 boxes = $37.60 per box"
+        ],
+        "paragraphs": [
+          "Lorcana cases hold four boxes of 24 packs of 12 cards: the configuration printed on our case listings. Store prices as of November 10, 2026. Divide before you read any ranking: the most expensive case is not the most expensive box. The spread is the story. Cheapest per box: Reign of Jafar at $115.86, Azurite Sea at $119.16, then Ursula's Return and Rise of the Floodborn at $126.00. Most expensive: The First Chapter at $436.84, then Winterspell at $322.27 and Wilds Unknown at $317.01. Between those poles sit the argued-over sets: Hyperia City at $180.00, Fabled at $186.54, Archazia's Island at $186.42, and Whispers in the Well at $254.75.",
+          "Hold those numbers against the $143.76 retail box. Five sets sit below it, and the gap is real money: Reign of Jafar saves $27.90 a box against retail, Azurite Sea saves $24.60, Floodborn and Ursula's Return save $17.76, and Into the Inklands saves $5.16. Nine sets sit above it: Shimmering Skies $20.04 more a box, Attack of the Vine $29.82, Hyperia City $36.24, Whispers $110.99, Wilds Unknown $173.25, Winterspell $178.51, and The First Chapter $293.08. A case at retail would cost $575.04; our cheapest case is $463.45 and our dearest is $1,747.37. Buy all fourteen cases and the bill is $11,387.28 for 56 boxes, $203.34 a box on average, $8.47 a pack, $0.71 a card.",
+          "The outside anchors put our Hyperia City price in context. TCGplayer's market price for a sealed Hyperia box was $159.40 on October 22, 2026, $20.60 below our $180.00 case-split, and $153.38 on October 25, two days after release. A UK shop lists the same box at 120.00 pounds with the case at 480.00 pounds, four times the box, and a pack at 5.00 pounds; other UK listings run 124.99 to 139.99 pounds. An Australian shop lists it at 299.99 Australian dollars, out of stock. Our case-split is the dearest of those routes: a buyer who wants one Hyperia box at list price should buy it at a local store, not as a quarter of our case. Shipping is free over $500: every case clears it alone except Reign of Jafar at $463.45, which needs $36.55 more in the cart, and Azurite Sea at $476.63, which needs $23.37."
+        ]
+      },
+      {
+        "h": "The decision layer: fourteen sets, one table",
+        "paragraphs": [
+          "Fourteen rows cover the whole price question. Case prices are ours as of November 10, 2026; every case holds four boxes, every box holds 24 packs of 12 cards. The per-box column divides the case by four, the per-pack column divides the box by 24, and the per-card column divides the pack by 12. The last column is the box against the $143.76 retail box: a minus is a saving, a plus is a premium.",
+          "Read the table by buyer type, not by set number. Players scan the per-pack column: Reign of Jafar at $4.83 is the cheapest pack on the shelf, Azurite Sea at $4.96 next, and The First Chapter at $18.20 is never a play purchase. Openers weigh chase against entry price: Wilds Unknown at $317.01 a box and Winterspell at $322.27 are the most expensive ways to chase a card. Sealed holders ask which set's sealed supply is thinnest against its nostalgia, and the table answers with the two poles: The First Chapter at 3.04 times retail and Reign of Jafar at 19.4% below it. Our [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) covers split math and the Enchanted distribution per case; our [best Lorcana pack guide](/blog/best-disney-lorcana-booster-pack/) divides the same cases to the pack."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Case price",
+            "Per box",
+            "Per pack",
+            "Per card",
+            "vs MSRP box"
+          ],
+          "rows": [
+            [
+              "Set 1 The First Chapter",
+              "$1,747.37",
+              "$436.84",
+              "$18.20",
+              "$1.52",
+              "+$293.08"
+            ],
+            [
+              "Set 2 Rise of the Floodborn",
+              "$504.00",
+              "$126.00",
+              "$5.25",
+              "$0.44",
+              "-$17.76"
+            ],
+            [
+              "Set 3 Into the Inklands",
+              "$554.40",
+              "$138.60",
+              "$5.78",
+              "$0.48",
+              "-$5.16"
+            ],
+            [
+              "Set 4 Ursula's Return",
+              "$504.00",
+              "$126.00",
+              "$5.25",
+              "$0.44",
+              "-$17.76"
+            ],
+            [
+              "Set 5 Shimmering Skies",
+              "$655.20",
+              "$163.80",
+              "$6.83",
+              "$0.57",
+              "+$20.04"
+            ],
+            [
+              "Set 6 Azurite Sea",
+              "$476.63",
+              "$119.16",
+              "$4.96",
+              "$0.41",
+              "-$24.60"
+            ],
+            [
+              "Set 7 Archazia's Island",
+              "$745.68",
+              "$186.42",
+              "$7.77",
+              "$0.65",
+              "+$42.66"
+            ],
+            [
+              "Set 8 Reign of Jafar",
+              "$463.45",
+              "$115.86",
+              "$4.83",
+              "$0.40",
+              "-$27.90"
+            ],
+            [
+              "Set 9 Fabled",
+              "$746.16",
+              "$186.54",
+              "$7.77",
+              "$0.65",
+              "+$42.78"
+            ],
+            [
+              "Set 10 Whispers in the Well",
+              "$1,019.00",
+              "$254.75",
+              "$10.61",
+              "$0.88",
+              "+$110.99"
+            ],
+            [
+              "Set 11 Winterspell",
+              "$1,289.06",
+              "$322.27",
+              "$13.43",
+              "$1.12",
+              "+$178.51"
+            ],
+            [
+              "Set 12 Wilds Unknown",
+              "$1,268.02",
+              "$317.01",
+              "$13.21",
+              "$1.10",
+              "+$173.25"
+            ],
+            [
+              "Set 13 Attack of the Vine!",
+              "$694.31",
+              "$173.58",
+              "$7.23",
+              "$0.60",
+              "+$29.82"
+            ],
+            [
+              "Set 14 Hyperia City",
+              "$720.00",
+              "$180.00",
+              "$7.50",
+              "$0.63",
+              "+$36.24"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top results miss: one set is not a price",
+        "note": "From the Warehouse: the question we get most about Lorcana prices is whether the box price online is the box price, and the honest answer is that it is usually one set's price, and the set is almost always the newest one. Nobody prices the other thirteen.",
+        "paragraphs": [
+          "The top results for this question price one set each and stop there. A complete guide prints a table of guide prices, about 130 euros a box and 5.99 euros a pack, and says prices vary by retailer, which is true and useless for a buyer choosing between sets. A Hyperia City price comparison prints the $143.76 MSRP against a $159.40 TCGplayer market price and calls the box the best long-term value, without saying what any other set costs. A Hyperia City preview prints the $143.76 list price and the $153.38 market price two days after release, and nothing about the thirteen sets that came before it. A UK shop lists the Hyperia box at 120.00 pounds and the case at 480.00 pounds, which quietly confirms the four-box case, but prices no other set. None of the five puts all fourteen sets in one table.",
+          "That gap hides three findings. First, the ladder is not a slope: the cheapest box is set eight, not set one, and the dearest is set one, not set fourteen, so release order does not predict price. Second, the case is the product: five sets sit below retail per box only because the case divides that way, and comparing a case price to a box price gives the opposite of the truth. Third, the outside market undercuts us on the newest set: our Hyperia case-split at $180.00 is $20.60 above the TCGplayer market price, while our Reign of Jafar case-split at $115.86 is $27.90 below retail, so the same shelf is both the dearest and the cheapest route depending on the set."
+        ]
+      },
+      {
+        "h": "The risk layer: rotation, reprints, and the case trap",
+        "paragraphs": [
+          "Rotation is the risk players underestimate and collectors overestimate. Lorcana sets eventually leave Core Constructed legality, and trackers already mark Reign of Jafar as rotated out. That does not make Reign of Jafar worthless: its cards still play casually and still collect, but a competitive player buying it for events is buying the wrong set. Check the current legal list before paying, and weight sets from Fabled onward for competitive play. Our [best Lorcana box guide](/blog/best-disney-lorcana-booster-box-to-buy/) carries the same warning, and it has not changed.",
+          "Reprints and the next product are the quieter risks. A set that is expensive because it is scarce can get cheaper if supply returns, and a sealed case bought at a scarcity price can retrace on your shelf. The First Chapter at $436.84 per box carries this risk in its purest form: you are paying for first-set status, and no reprint policy promises to protect status. The next set changes the game itself: Into the Inkdark arrives in February 2027 with the first Collector's Boosters at $34.99 a pack and $419.88 for a twelve-pack display, and Hyperia City is the last set before they arrive. A buyer paying $180.00 a box for Hyperia City should know the product after it costs nearly five times as much per pack.",
+          "The case trap is specific to case-only buying: four boxes of a set you do not enjoy is not a bargain at any per-pack price. A $4.83 pack from a set whose games bore you is $4.83 spent on cardboard you will not play, so try the set before any case. Opening is a losing trade on average for most sets: the expected value of the cards inside a box is usually below the box price, and the chase card is the exception, not the rule. Store sealed product properly, as our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/) explains, and read our [open-or-keep-sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) before the seal starts calling. Still choosing between games? [Which TCG should you start](/blog/which-tcg-should-you-start/) compares Lorcana against Pokemon, One Piece, and Dragon Ball on rules and real first-box cost."
+        ]
+      },
+      {
+        "h": "Context: release order and the price ladder",
+        "paragraphs": [
+          "The release order explains the ladder, and the exceptions prove it. The First Chapter arrived in August 2023, Rise of the Floodborn in November 2023, Into the Inklands in February 2024, Ursula's Return in May 2024, Shimmering Skies in August 2024, Azurite Sea in November 2024, Archazia's Island in March 2025, Reign of Jafar on May 30, 2025, Fabled on August 29, 2025, Whispers in the Well on November 14, 2025, Winterspell on February 20, 2026, Wilds Unknown on May 15, 2026, Attack of the Vine on July 24, 2026, and Hyperia City on October 23, 2026. Older sets are generally cheaper per box here, except The First Chapter, priced as history, and the two 2026 winter sets, whose chase cards still pull demand.",
+          "The Iconic debut changes how to read Fabled onward. Before Fabled, Enchanted cards were the top chase; from Fabled on, Iconic cards sit above them, including the Wilds Unknown Buzz Lightyear Iconic, tracked around $3,500 at market. That is why Wilds Unknown tops chase-value rankings while losing on expected value: one extraordinary card does not make 24 packs a good investment, and a ranking built on ceilings flatters the set with the tallest spike. The Buzz Lightyear Iconic is a ceiling, not a reason to pay $317.01 a box for the chance to pull it.",
+          "The Japanese exception is easy to misread. Our Japanese First Chapter case holds fifteen boxes for $564.07, which is $37.60 per box, dramatically below any English per-box price. Japanese boxes are configured differently, so the comparison does not transfer, and the buyer pool for Japanese product outside Japan is smaller and more specialist. It is a legitimate collectible for Japanese-product collectors, not a cheaper way to buy English Lorcana. The case link is the truncated sitemap form, because the full product URL is over 127 characters and 404s in full form: [Japanese First Chapter case](/product/disney-lorcana-tcg-japanese-edition-booster-the-first-chapter-the-beginning-of-t/). If your question is really about buying from Japan, our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed, and our [best Japanese Lorcana guide](/blog/best-disney-lorcana-japanese/) covers the Japanese line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants exactly one Lorcana box. We sell sealed cases of four boxes, and paying a four-box case price for one box's worth of interest is the worst version of this purchase. It is not for the buyer who wants the cheapest Lorcana box of any kind without checking the set: Reign of Jafar at $115.86 a box is the cheapest, but it is rotated out of Core Constructed, so a competitive player buying it for events has bought the wrong set.",
+          "It is also not for the buyer chasing one specific Enchanted or Iconic card: buy the single instead of gambling on pull rates below one in 96 packs, because no box on this page guarantees the card you want. And it is not for the buyer who treats a market price as a shelf price: our Hyperia City case-split at $180.00 is $20.60 above the TCGplayer market, and the market moves daily, so run the division again on the day you buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the set before you name the price: sets 1 to 14, and check the set number on the listing",
+          "Divide the case price by four for the per-box price, then by 24 for the per-pack price, then by 12 for the per-card price",
+          "Compare the per-box price against the $143.76 retail box before you decide whether a set is cheap or dear",
+          "Check Core Constructed legality before buying any set older than Fabled for competitive play",
+          "If splitting a case, agree the split in writing before ordering: who gets which box, who pays what, who holds sealed extras",
+          "If buying Hyperia City, decide whether you are paying $36.24 above retail per box for newness or whether a local single box serves you better",
+          "If buying The First Chapter, decide whether you are paying $293.08 above retail for first-set status, and never with money you need back on a date",
+          "Run the whole division again on the day you buy, because case prices move and yesterday's $115.86 is not a promise"
+        ],
+        "h": "Action layer: the Lorcana box price checklist",
+        "paragraphs": [
+          "Run this in order before the next Lorcana box price you pay: it replaces a single quoted number with the fourteen prices that decide the purchase."
+        ]
+      }
+    ],
+    "slug": "disney-lorcana-booster-box-price",
+    "takeaway": [
+      "Every Disney Lorcana box price lives in one table now: fourteen English sets, from Reign of Jafar at $115.86 a box to The First Chapter at $436.84, with Hyperia City newest at $180.00. Five sets sit below the $143.76 retail box and nine above it, and the whole fourteen-case shelf costs $11,387.28 for 56 boxes, $203.34 a box on average.",
+      "The multiples are the story: Reign of Jafar is 19.4% below retail, The First Chapter is 203.9% above it, and the cheapest box is 3.77 times cheaper than the dearest. Our Hyperia City case-split is $20.60 above the TCGplayer market, while our Reign of Jafar case-split is $27.90 below retail, so the same shelf is both the dearest and the cheapest route depending on the set.",
+      "Prices move, so treat every number here as stamped: our case prices as of November 10, 2026, the TCGplayer market price as of October 22, 2026, and the UK and Australian listings as of November 10, 2026. A case price divided by four is the only box price we offer, and a market price without a date is stale on arrival."
+    ]
+  },
   "dragon-ball-fusion-world-beginners-guide": {
     "datePublished": "2026-10-21",
     "faqs": [
@@ -13183,6 +13434,314 @@ export const POSTS: Record<string, BlogPost> = {
       "On November 5, 2026, the Warehouse EB-04 Japanese box costs $91.03, which is $3.79 a pack and $0.63 a card, and it sits $22.61 below the lowest Mercari asking price for the same box. Buy the single box to open Egghead Crisis, buy the Japanese case only for twelve boxes regardless of price, check the English case listing before paying $2,548.65, and buy the single for the Koby Manga card or any named card.",
       "Prices move; the method does not. Choose the language first, read the English listing second, divide the case third, and never assume a case discounts: on this set the Japanese case saves $0.53 a box — and the Japanese box is the only one in this run to sit below its Japanese resale range.",
       "For the sets that carry EB-04 cards in English, see [OP-14 Azure Sea's Seven Buyer's Guide](/blog/op-14-azure-seas-seven-buyers-guide/) and [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/). For the sibling Extra Booster, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/)."
+    ]
+  },
+  "english-one-piece-booster-box-price": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "As a single box, OP-12 Legacy of the Master at $130.05, or $5.42 a pack, as of November 10, 2026. As a case-split, the OP-18 case divides to $111.39 a box, $4.64 a pack, on pre-order for November 20, 2026, and the OP-12 case divides to $111.14 a box. The case-split is cheaper than any single box, but it buys twelve boxes, not one.",
+        "q": "What is the cheapest English One Piece booster box?"
+      },
+      {
+        "a": "Because it is not on our shelf yet. The OP-18 English single box does not exist as a listing; only the sealed case exists, on pre-order at $1,336.65 for twelve boxes, $111.39 a box. The set releases in English on November 20, 2026. The Japanese OP-18 box is on our shelf as a pre-order at $84.00, with its case at $906.00.",
+        "q": "Why is there no English OP-18 single box in the table?"
+      },
+      {
+        "a": "If you want twelve boxes of one set, yes: every case on this page saves against its own single, from $18.91 a box on OP-12 to $96.59 on OP-01, and $26.31 on PRB-01 across ten boxes. If you want one box, no: the case price is twelve times the commitment, and the saving only exists if you use all twelve. The OP-18 and EB-05 cases are the exception that proves the rule: their case-splits sit below the retail box itself.",
+        "q": "Should I buy the case instead of the single box?"
+      }
+    ],
+    "h1": "English One Piece Booster Box Prices, Priced",
+    "intro": [
+      "Short answer: the cheapest English One Piece booster box on our shelf is OP-12 Legacy of the Master at $130.05, $5.42 a pack, and the dearest single box is EB-01 Memorial Collection at $632.48, $26.35 a pack. Two case-splits beat retail outright: the OP-18 case divides to $111.39 a box and the EB-05 case to $115.92, both below the $119.76 retail box. Every price below is our live shelf price as of November 10, 2026, divided so you can check it.",
+      "Who this is for: buyers who want the price of a named English One Piece box before they pay, and collectors comparing one set against another on the same shelf. Who it is not for: anyone who wants a single price for the whole line, because there is none, and anyone who wants an English OP-18 box, because only the case is on our shelf yet, on pre-order."
+    ],
+    "metaDescription": "Every English One Piece box price in one table: all 22 boxes on our shelf, divided to per-pack and per-card, against the $119.76 MSRP box.",
+    "metaTitle": "English One Piece Booster Box Prices, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "Three buyers, three answers. A player building a pool buys the cheapest per-pack price: [OP-12 Legacy of the Master](/product/op-12-legacy-of-the-master-booster-box-english-one-piece-card/) at $5.42 a pack, then [OP-10 Royal Blood](/product/op-10-royal-blood-booster-box-english-one-piece-card/) at $5.98, then [OP-17 The World's Strongest Warriors](/product/op-17-the-worlds-strongest-warriors-booster-box-english-one-piece-card/) at $7.07. An opener chasing the newest cards buys the OP-18 case-split at $111.39 a box, $4.64 a pack, on pre-order for November 20, 2026, or the EB-05 case-split at $115.92, $4.83 a pack. A sealed holder buys the set whose sealed supply is thinnest against its nostalgia: OP-03 at $577.68 a box, or EB-01 at $632.48.",
+          "The anchor for all three is the retail box: $119.76, from 24 packs at $4.99, $0.42 a card. Only one single box sits near it: OP-12 at $130.05, $10.29 above retail. Every other single box sits further above, from OP-10 at $143.47 to OP-03 at $577.68, 4.82 times retail. The case is where retail gets beaten: the OP-18 case-split at $111.39 is $8.37 below the retail box, the EB-05 case-split at $115.92 is $3.84 below it, and the OP-12 case-split saves $18.91 a box against its own single. Our [best English One Piece box guide](/blog/best-english-one-piece-booster-box-to-buy/) ranks the same boxes by buyer type; this page prices them.",
+          "Two product shapes need stating before any division. Extra Boosters are 24 packs of 12 cards in English, the same box shape as the main sets, so their per-pack figures divide the same way. Premium Boosters are different: Bandai prints 10 cards per pack and no pack count at all, so PRB-01 and PRB-02 are priced per box only on this page, and any per-pack figure for them is a guess. Our [best Japanese One Piece box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) applies the same discipline to the Japanese shelf."
+        ]
+      },
+      {
+        "h": "The money layer: twenty-two boxes, divided",
+        "math": [
+          "OP-12 Legacy of the Master: $130.05 / 24 = $5.42 per pack; $5.42 / 12 = $0.45 per card",
+          "OP-10 Royal Blood: $143.47 / 24 = $5.98 per pack; $5.98 / 12 = $0.50 per card",
+          "OP-17 The World's Strongest Warriors: $169.67 / 24 = $7.07 per pack; $7.07 / 12 = $0.59 per card",
+          "OP-16 The Time of Battle: $172.04 / 24 = $7.17 per pack; $7.17 / 12 = $0.60 per card",
+          "OP-15 Adventure on Kami's Island: $213.22 / 24 = $8.88 per pack; $8.88 / 12 = $0.74 per card",
+          "OP-14 The Azure Sea's Seven: $217.11 / 24 = $9.05 per pack; $9.05 / 12 = $0.75 per card",
+          "OP-08 Two Legends: $243.12 / 24 = $10.13 per pack; $10.13 / 12 = $0.84 per card",
+          "OP-13 Carrying On His Will: $248.40 / 24 = $10.35 per pack; $10.35 / 12 = $0.86 per card",
+          "OP-07 500 Years in the Future: $350.48 / 24 = $14.60 per pack; $14.60 / 12 = $1.22 per card",
+          "OP-02 Paramount War: $388.38 / 24 = $16.18 per pack; $16.18 / 12 = $1.35 per card",
+          "OP-11 A Fist of Divine Speed: $389.32 / 24 = $16.22 per pack; $16.22 / 12 = $1.35 per card",
+          "OP-09 Emperors in the New World: $431.78 / 24 = $17.99 per pack; $17.99 / 12 = $1.50 per card",
+          "OP-01 Romance Dawn: $444.36 / 24 = $18.52 per pack; $18.52 / 12 = $1.54 per card",
+          "OP-06 Wings of the Captain: $470.90 / 24 = $19.62 per pack; $19.62 / 12 = $1.64 per card",
+          "OP-05 Awakening of the New Era: $496.80 / 24 = $20.70 per pack; $20.70 / 12 = $1.73 per card",
+          "OP-04 Kingdoms of Intrigue: $539.59 / 24 = $22.48 per pack; $22.48 / 12 = $1.87 per card",
+          "OP-03 Pillars of Strength: $577.68 / 24 = $24.07 per pack; $24.07 / 12 = $2.01 per card",
+          "EB-03 Heroines Edition: $196.80 / 24 = $8.20 per pack; $8.20 / 12 = $0.68 per card",
+          "EB-02 Anime 25th Collection: $221.36 / 24 = $9.22 per pack; $9.22 / 12 = $0.77 per card",
+          "EB-01 Memorial Collection: $632.48 / 24 = $26.35 per pack; $26.35 / 12 = $2.20 per card",
+          "PRB-02 The Best vol.2: $184.74 per box only; PRB-01 The Best: $433.56 per box only",
+          "Main-set box MSRP: 24 x $4.99 = $119.76 per box; $4.99 / 12 = $0.42 per card",
+          "EB-01 launch box MSRP: 24 x $4.49 = $107.76 per box; $632.48 / $107.76 = 5.87x launch",
+          "Cheapest box vs MSRP: $130.05 - $119.76 = $10.29 above, 8.6% over retail",
+          "Dearest main-set box vs MSRP: $577.68 - $119.76 = $457.92 above, 382.4% over retail",
+          "Box spread: $632.48 - $130.05 = $502.43 per box; EB-01 pack $26.35 / OP-12 pack $5.42 = 4.86x",
+          "OP-17 fall in 6 days: $212.09 - $169.67 = $42.42, -20.0%; OP-17 case fell the same -20.0%",
+          "OP-12 fall in 5 days: $162.56 - $130.05 = $32.51, -20.0%",
+          "OP-18 case-split: $1,336.65 / 12 = $111.39 per box; $111.39 / 24 = $4.64 per pack; vs MSRP -$8.37, -7.0%",
+          "EB-05 case-split: $1,391.04 / 12 = $115.92 per box; $115.92 / 24 = $4.83 per pack; vs MSRP -$3.84, -3.2%",
+          "EB-05 case-split vs TCGplayer market $242.52 (Nov 8, 2026): $242.52 - $115.92 = $126.60 below, -52.2%",
+          "OP-18 case-split vs preorder market ~$351 (Oct 24, 2026): $351 - $111.39 = $239.61 below, -68.3%",
+          "OP-12 case-split: $1,333.70 / 12 = $111.14 per box; saves $18.91 per box, $226.90 per case",
+          "OP-10 case-split: $1,276.79 / 12 = $106.40 per box; saves $37.07 per box, $444.85 per case",
+          "OP-17 case-split: $1,714.90 / 12 = $142.91 per box; saves $26.76 per box, $321.14 per case",
+          "OP-16 case-split: $1,544.94 / 12 = $128.75 per box; saves $43.29 per box, $519.54 per case",
+          "OP-01 case-split: $4,173.19 / 12 = $347.77 per box; saves $96.59 per box, $1,159.13 per case",
+          "PRB-01 case-split: $4,072.51 / 10 = $407.25 per box; saves $26.31 per box, $263.09 per case"
+        ],
+        "paragraphs": [
+          "Every English main-set box holds 24 packs of 12 cards, 288 cards a box, and every Extra Booster box holds the same. Store prices as of November 10, 2026. The value tier is the newest run: OP-12 at $130.05 a box and $5.42 a pack, OP-10 at $143.47 and $5.98, OP-17 at $169.67 and $7.07, OP-16 at $172.04 and $7.17. The mid tier runs OP-15 at $213.22 through OP-13 at $248.40. The dear tier runs OP-07 at $350.48 through OP-03 at $577.68. The Extra Boosters sit across the tiers: EB-03 at $196.80 and $8.20 a pack, EB-02 at $221.36 and $9.22, and EB-01 at $632.48 and $26.35, the dearest single box on the shelf. The Premium Boosters are priced per box only: PRB-02 at $184.74 and PRB-01 at $433.56, a 2.35 times gap.",
+          "Hold those numbers against the $119.76 retail box. Only OP-12 sits near it, $10.29 above, and every other single box sits further above, from OP-10 at $23.71 over to OP-03 at $457.92 over, 382.4% above retail. The case is where retail gets beaten, and both findings on this page are cases. The OP-18 case at $1,336.65 divides to $111.39 a box, $4.64 a pack, $8.37 below the retail box, and the EB-05 case at $1,391.04 divides to $115.92 a box, $4.83 a pack, $3.84 below it. Both are pre-order or fresh stock: OP-18 releases in English on November 20, 2026, and EB-05 released October 30, 2026. The OP-12 case divides to $111.14 a box and saves $18.91 against its own single; the OP-10 case saves $37.07, the OP-17 case $26.76, the OP-16 case $43.29, and the OP-01 case $96.59.",
+          "The outside anchors put our singles in context. The EB-05 box trades at $242.52 on TCGplayer as of November 8, 2026, $126.60 above our $115.92 case-split, and a single pack trades at $8.01, 1.6 times the $4.99 list. The OP-18 box pre-orders at about $351 on the same market as of October 24, 2026, $239.61 above our $111.39 case-split, and a shop lists it at $119.99, close to retail. The OP-17 box traded between about $345 and $405 in the eight weeks before its release, dipped to $339 in release week, and sat at about $310 on October 24, against our $169.67. The EB-03 box tracks at $323.61 on PriceCharting, with sales of $320.00 to $324.97 between September 27 and October 7, 2026, against our $196.80. Shipping is free over $500: any case clears it alone, and three dear single boxes clear it together, OP-03 plus OP-04 plus OP-05 at $1,614.07."
+        ]
+      },
+      {
+        "h": "The decision layer: every English box, one table",
+        "paragraphs": [
+          "Twenty-two rows cover the whole price question. Box prices are ours as of November 10, 2026; every main-set and Extra Booster box holds 24 packs of 12 cards, so per-pack divides the box by 24 and per-card divides the pack by 12. The Premium Boosters are priced per box only, because Bandai prints no pack count for them. The last column is the box against the $119.76 retail box, except EB-02 and EB-03, whose English launch pack prices are not verified here, and EB-01, measured against its own $107.76 launch box.",
+          "Read the table by buyer type, not by set number. Players scan the per-pack column: OP-12 at $5.42 is the cheapest pack, OP-10 at $5.98 next, and EB-01 at $26.35 is never a play purchase. Openers weigh chase against entry price: OP-03 at $577.68 and EB-01 at $632.48 are the most expensive ways to chase. Sealed holders ask which set's sealed supply is thinnest against its nostalgia: OP-12 at 8.6% above retail and OP-03 at 382.4% above it. Two boxes are absent on purpose: the OP-18 and EB-05 singles are not on our shelf, only their cases, and their case-splits are in the money layer above. Our [best Japanese One Piece box price page](/blog/best-japanese-one-piece-booster-box-price/) runs the same table for the Japanese shelf."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Box price",
+            "Per pack",
+            "Per card",
+            "vs MSRP box"
+          ],
+          "rows": [
+            [
+              "OP-12 Legacy of the Master",
+              "$130.05",
+              "$5.42",
+              "$0.45",
+              "+$10.29"
+            ],
+            [
+              "OP-10 Royal Blood",
+              "$143.47",
+              "$5.98",
+              "$0.50",
+              "+$23.71"
+            ],
+            [
+              "OP-17 The World's Strongest Warriors",
+              "$169.67",
+              "$7.07",
+              "$0.59",
+              "+$49.91"
+            ],
+            [
+              "OP-16 The Time of Battle",
+              "$172.04",
+              "$7.17",
+              "$0.60",
+              "+$52.28"
+            ],
+            [
+              "EB-03 Heroines Edition",
+              "$196.80",
+              "$8.20",
+              "$0.68",
+              "EB, no MSRP stated"
+            ],
+            [
+              "OP-15 Adventure on Kami's Island",
+              "$213.22",
+              "$8.88",
+              "$0.74",
+              "+$93.46"
+            ],
+            [
+              "OP-14 The Azure Sea's Seven",
+              "$217.11",
+              "$9.05",
+              "$0.75",
+              "+$97.35"
+            ],
+            [
+              "EB-02 Anime 25th Collection",
+              "$221.36",
+              "$9.22",
+              "$0.77",
+              "EB, no MSRP stated"
+            ],
+            [
+              "OP-08 Two Legends",
+              "$243.12",
+              "$10.13",
+              "$0.84",
+              "+$123.36"
+            ],
+            [
+              "OP-13 Carrying On His Will",
+              "$248.40",
+              "$10.35",
+              "$0.86",
+              "+$128.64"
+            ],
+            [
+              "OP-07 500 Years in the Future",
+              "$350.48",
+              "$14.60",
+              "$1.22",
+              "+$230.72"
+            ],
+            [
+              "OP-02 Paramount War",
+              "$388.38",
+              "$16.18",
+              "$1.35",
+              "+$268.62"
+            ],
+            [
+              "OP-11 A Fist of Divine Speed",
+              "$389.32",
+              "$16.22",
+              "$1.35",
+              "+$269.56"
+            ],
+            [
+              "OP-09 Emperors in the New World",
+              "$431.78",
+              "$17.99",
+              "$1.50",
+              "+$312.02"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "$184.74",
+              "Per box only",
+              "Per box only",
+              "PRB, no MSRP stated"
+            ],
+            [
+              "OP-01 Romance Dawn",
+              "$444.36",
+              "$18.52",
+              "$1.54",
+              "+$324.60"
+            ],
+            [
+              "OP-06 Wings of the Captain",
+              "$470.90",
+              "$19.62",
+              "$1.64",
+              "+$351.14"
+            ],
+            [
+              "OP-05 Awakening of the New Era",
+              "$496.80",
+              "$20.70",
+              "$1.73",
+              "+$377.04"
+            ],
+            [
+              "OP-04 Kingdoms of Intrigue",
+              "$539.59",
+              "$22.48",
+              "$1.87",
+              "+$419.83"
+            ],
+            [
+              "OP-03 Pillars of Strength",
+              "$577.68",
+              "$24.07",
+              "$2.01",
+              "+$457.92"
+            ],
+            [
+              "PRB-01 The Best",
+              "$433.56",
+              "Per box only",
+              "Per box only",
+              "PRB, no MSRP stated"
+            ],
+            [
+              "EB-01 Memorial Collection",
+              "$632.48",
+              "$26.35",
+              "$2.20",
+              "5.87x its $107.76 launch box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top results miss: one set is not a price",
+        "note": "From the Warehouse: the question we get most about One Piece prices is whether the box price online is the box price, and the honest answer is that it is usually one set's preorder price, and the set is almost always the newest one. Nobody prices the other twenty-one.",
+        "paragraphs": [
+          "The top results for this question price one set each and stop there. Our own OP-17 guide prices the English box at $212.09 as of November 4, 2026, and it is already stale: the same box is $169.67 today, down 20.0% in six days. An EB-05 chase-card page prices the box at $242.52 on TCGplayer as of November 8, 2026, about two times list, without saying what our case-split costs. An OP-18 calendar prices the box at $119.76 at retail against about $351 on the preorder market, with a shop preorder at $119.99, and no other set priced. None of the three puts all twenty-two English boxes in one table, and none prices a case-split.",
+          "That gap hides three findings. First, the newest sets fell together: OP-17 down 20.0% in six days and OP-12 down 20.0% in five, so any English box price without a date is stale on arrival. Second, the case beats the market, not just retail: the OP-18 case-split at $111.39 is 68.3% below the preorder market, and the EB-05 case-split at $115.92 is 52.2% below the TCGplayer market. Third, the language gap is a number, not a feeling: the Japanese OP-17 box is $121.28 against the English $169.67, the Japanese OP-01 box is $238.45 against the English $444.36, and the Japanese EB-01 box is $155.04 against the English $632.48, so the English premium runs from $0.26 on OP-12 to $477.44 on EB-01."
+        ]
+      },
+      {
+        "h": "The risk layer: pre-orders, the EB-01 trap, and the case that is not a box",
+        "paragraphs": [
+          "The first risk is the pre-order. The OP-18 English box pre-orders at about $351 on the market as of October 24, 2026, 2.93 times the $119.76 retail box, for a set that releases on November 20, 2026. Our OP-18 case is itself a pre-order at $1,336.65, $111.39 a box, for the same date, and the Japanese OP-18 box is a pre-order at $84.00, its case at $906.00, $75.50 a box. A pre-order premium buys certainty about allocation and is the first number to fall when the set lands: OP-17 traded between about $345 and $405 before release and sits at $169.67 today. Our [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) covers when paying early beats patience, and our [pre-order framework](/blog/preorder-japanese-booster-box-or-wait/) covers the wait.",
+          "The second risk is EB-01. At $632.48 a box and $26.35 a pack, it is 5.87 times its $107.76 launch box, and it is the dearest single box on the shelf for a set whose Japanese box is $155.04. The premium is first-Extra-Booster status, and no reprint policy promises to protect status. The EB-01 English case at $6,831.59 carries no box count on its listing, so this page does not divide it. Never pay scarcity prices with money you need back on a date, and store sealed product properly, as our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/) explains.",
+          "The third risk is the box that is not a box. Our EB-02, EB-03, EB-04, and PRB-02 English cases carry no box count on their listings, so this page cites case prices only: EB-02 at $2,503.99, EB-03 at $1,848.86, EB-04 at $2,038.92, and PRB-02 at $1,735.14. The PRB boxes carry no pack count at all, so their per-pack price does not exist, and a listing that prints one is guessing. The fourth risk is the fake: English One Piece boxes are resealed and counterfeited, so read our [guide to spotting fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) before paying for any loose box, and our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening anything at this price. Opening is a losing trade on average: no box here guarantees the card you want, and our [open-or-keep-sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) runs the same return math across the shelf."
+        ]
+      },
+      {
+        "h": "Context: why OP-03 costs 4.44 times OP-12",
+        "paragraphs": [
+          "The multiples follow the story of each set, not the order of release. OP-12 is the cheapest box because it is the newest main set in single-box form, released in English on August 22, 2025, with supply still deep. OP-03 sits at $577.68, 4.44 times OP-12, because Pillars of Strength is a 2023 set whose sealed supply thinned while its chase cards held demand. OP-01 at $444.36 is the first set, Romance Dawn, and its first-print white-bottom box is the one on our shelf. EB-01 at $632.48 is the first Extra Booster, released in English on May 3, 2024, and its premium is first-of-kind status on a smaller set: 61 types against 127 in a main set.",
+          "The language gap runs the same way. The Japanese box is cheaper for every set where both exist, growing with age: OP-12 is $129.79 in Japanese against $130.05 in English, a $0.26 gap; OP-01 is $238.45 against $444.36, a $205.91 gap; and EB-01 is $155.04 against $632.48, a $477.44 gap. Per card the gap flips for the newest set: the Japanese OP-17 box is $121.28 for 24 packs of 6 cards, $5.05 a pack and $0.84 a card, while the English box is $169.67 for 24 packs of 12 cards, $7.07 a pack and $0.59 a card, so English costs more per pack and less per card. A player who counts cards buys English; a collector who counts packs buys Japanese. Our [Japanese versus English EB-01 guide](/blog/eb-01-japanese-vs-english-which-to-buy/) runs the same comparison for the first Extra Booster, and our [OP-17 guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices all four OP-17 products.",
+          "The two newest sets fell together, and the fall is the last number to check. OP-17 fell $42.42, 20.0%, between November 4 and November 10, 2026, and its case fell the same 20.0%, from $2,143.63 to $1,714.90. OP-12 fell $32.51, 20.0%, between November 5 and November 10. Two sets falling exactly 20.0% in the same week is a market move, not a listing error, and it is why every price here carries the date November 10, 2026. A price without a date is stale, and a pre-order premium is the price of the wait."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one price for English One Piece boxes. There is none: the cheapest single box is $130.05 and the dearest is $632.48, and the case-splits undercut both. It is not for the buyer who wants an English OP-18 single box today, because there is none: the OP-18 case is a pre-order, and the single box arrives with the release on November 20, 2026.",
+          "It is also not for the buyer who treats a marketplace price as a shelf price: the EB-05 box trades at $242.52 on TCGplayer while our case-split is $115.92, and the OP-18 box pre-orders at about $351 while our case-split is $111.39, so market and shelf are two different prices. And it is not for the buyer who wants a per-pack price for a Premium Booster: Bandai prints no pack count for PRB, and this guide refuses to invent one."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the set before you name the price: OP-01 to OP-18, EB-01 to EB-05, or PRB-01 to PRB-02, and check the set code on the listing",
+          "Ask which of the prices you are looking at: our shelf price, the retail box, the TCGplayer market, or a pre-order ask",
+          "Check the date on any market price: OP-17 fell 20.0% in six days and OP-12 fell 20.0% in five",
+          "Divide any case by 12 boxes and 24 packs before you compare it to a single box: OP-18 is $111.39 a box and $4.64 a pack, except PRB-01, which divides by 10",
+          "Read the listing before you pay: our OP-18 and EB-05 single boxes do not exist, only their cases, and our EB-01 case carries no box count",
+          "Price the pre-order premium before you pay it: OP-18 is 2.93 times retail on the market and $8.37 below it on our case-split",
+          "Compare the Japanese box before you pay the English premium: OP-12 differs by $0.26 and EB-01 by $477.44",
+          "Run the whole division again on the day you buy, because shelf prices move, market prices move, and yesterday's $130.05 is not a promise"
+        ],
+        "h": "Action layer: the English One Piece box price checklist",
+        "paragraphs": [
+          "Run this in order before the next English One Piece box price you pay: it replaces one quoted number with the twenty-two prices that decide the purchase."
+        ]
+      }
+    ],
+    "slug": "english-one-piece-booster-box-price",
+    "takeaway": [
+      "Every English One Piece box price lives in one table now: twenty-two single boxes, from OP-12 at $130.05 to EB-01 at $632.48, with the Premium Boosters priced per box only because Bandai prints no pack count for them. The cheapest pack is OP-12 at $5.42 and the dearest is EB-01 at $26.35, a 4.86 times gap.",
+      "The multiples are the story: the OP-18 case-split at $111.39 a box is $8.37 below the retail box and 68.3% below the preorder market, the EB-05 case-split at $115.92 is $3.84 below retail and 52.2% below the TCGplayer market, and OP-17 and OP-12 both fell exactly 20.0% in under a week. The English premium over Japanese runs from $0.26 on OP-12 to $477.44 on EB-01.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 10, 2026, the TCGplayer market prices as of November 8, 2026, the preorder market as of October 24, 2026, and the PriceCharting figures as of September 27 to October 7, 2026. An ask without a date is stale, a pre-order premium is the price of the wait, and a case-split is the cheapest English box on this shelf."
     ]
   },
   "fb07-wish-for-shenron-buyers-guide": {
