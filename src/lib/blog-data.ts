@@ -5815,7 +5815,7 @@ export const POSTS: Record<string, BlogPost> = {
           "SV10 case: $1,821.40 ÷ 12 boxes = $151.78 per box (single $212.99, saves $61.21 per box)"
         ],
         "paragraphs": [
-          "Read the verified ranking twice, because it contradicts the obvious one. The cheapest box is M3 at $70.62, but the cheapest verified pack is M2 at $6.11 and the cheapest verified card is M2a at $1.15. A buyer who sorts by box price alone buys M3; a buyer who sorts by what each pack or card costs buys M2 or M2a. All three answers are correct, and they answer different questions.",
+          "Read the verified ranking twice, because it contradicts the obvious one. The cheapest box is M3 at $70.62, but the cheapest verified pack is M2 at $6.11 and the cheapest verified card is M2a at $1.15. A buyer who sorts by box price alone buys M3; a buyer who sorts by what each pack or card costs buys M2 or M2a. All three answers are correct, and they answer different questions. Australian buyers can price the same picks in AUD, with the A$1,000 border line applied, in our [Japanese Pokemon booster box prices in Australia](/blog/japanese-pokemon-booster-box-australia-price/) guide.",
           "The case column changes more decisions than the box column. SV11B is the extreme: the case at $82.64 a box undercuts the $183.18 single by $100.54 a box, which is $1,206.48 across twelve boxes at the rounded per-box rate. SV11W is nearly as stark at $93.38 saved per box. But the case is not a universal discount, and M3 is the proof: its case costs $87.35 a box against a $70.62 single, so a buyer who wants twelve M3 boxes should buy twelve singles and pocket the $200.76 difference. The full case shelf, sixteen cases divided, is the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/).",
           "For the boxes whose structure is not verified here, M1L, M1S, M3, M4, M5, and M6 among them, the honest statement is the price and the case division, nothing more. Their pack counts are not printed on the store listing, and a per-pack figure built on an assumed count would be fabrication dressed as arithmetic. When a future listing prints those counts, this guide's math extends to them; until then, the dashes are the method."
         ]
@@ -9668,7 +9668,7 @@ export const POSTS: Record<string, BlogPost> = {
           "M2 Inferno X pack with 10% GST: A$8.86 x 1.10 = A$9.75"
         ],
         "paragraphs": [
-          "The table above is the Australian price board: every current box an Australian buyer is likely to order, converted at A$1.45 to the dollar, with the 10% GST column shown. The GST column is the most the buyer pays in tax: at checkout if the seller is registered, at the border only when the parcel crosses A$1,000. A single box never pays GST at the border, so its GST column is a worst case.",
+          "The table above is the Australian price board: every current box an Australian buyer is likely to order, converted at A$1.45 to the dollar, with the 10% GST column shown. The GST column is the most the buyer pays in tax: at checkout if the seller is registered, at the border only when the parcel crosses A$1,000. A single box never pays GST at the border, so its GST column is a worst case. For the Pokemon-only board, our [Japanese Pokemon booster box prices in Australia](/blog/japanese-pokemon-booster-box-australia-price/) guide prices all 90 boxes in AUD against the A$1,000 line.",
           "Two patterns deserve attention. First, the case is usually the better buy, but not always. The OP-18 case divides to A$120.42 a box landed against A$133.98 for a single box with GST, saving A$13.56 a box, and the M2 Inferno X case divides to A$177.27 a box landed against A$292.17, saving A$114.90 a box. The M3 case breaks the pattern: at $1,048.24 for twelve boxes it costs A$139.33 a box landed, against A$112.64 for a single M3 box with GST, so the case buyer pays A$26.69 more per box. Divide the case before buying it, every time. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case on the shelf.",
           "Second, the GST on a case is charged on the Value of Taxable Importation, so the numbers above understate the tax on any parcel that crosses the line: freight, insurance and duty sit inside the taxable value, and the shipping quote is confirmed only at checkout. The case figures are a floor. On a single box under the line that does not matter, because no GST is due at the border at all."
         ],
@@ -10783,7 +10783,7 @@ export const POSTS: Record<string, BlogPost> = {
           "M2a pack in SGD: $11.48 x 1.28 = S$14.69 per pack"
         ],
         "paragraphs": [
-          "The table below is the Singapore price board: every current box a Singapore buyer is likely to order, converted at S$1.28 to the dollar, with the 9% GST column shown. The GST column is the most the buyer pays in tax on that item: at checkout if the seller is OVR-registered, at the border only when the parcel crosses S$400 CIF. A single box never pays GST at the border, so the GST column for a single box is a worst case, not a certainty.",
+          "The table below is the Singapore price board: every current box a Singapore buyer is likely to order, converted at S$1.28 to the dollar, with the 9% GST column shown. The GST column is the most the buyer pays in tax on that item: at checkout if the seller is OVR-registered, at the border only when the parcel crosses S$400 CIF. A single box never pays GST at the border, so the GST column for a single box is a worst case, not a certainty. For the Pokemon-only board, our [Japanese Pokemon booster box prices in Singapore](/blog/japanese-pokemon-booster-box-singapore-price/) guide prices all 90 boxes in SGD against the S$400 line.",
           "Two patterns deserve attention. First, the case is usually the better buy, but not always, and the exception is expensive. The OP-18 case divides to S$105.34 a box landed against S$117.20 for a single box with GST, saving S$11.86 a box, and the M2 Inferno X case divides to S$155.06 a box landed against S$255.57 for a single box, saving S$100.51 a box. The M3 case breaks the pattern: at $1,048.24 for twelve boxes it costs $87.35 a box, against $70.62 for a single M3 box, so the case buyer pays $16.73 more per box for the privilege of buying twelve. Divide the case before buying it, every time, because the word case does not mean discount. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case on the shelf, and the [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) is the one-game version of the same discipline.",
           "Second, the GST is charged on CIF, so the numbers above understate the tax on any parcel that crosses the line, because the freight and insurance sit inside the taxable value and the shipping quote is confirmed only at checkout. On a single box under the line that does not matter, because no GST is due at the border at all."
         ],
@@ -17239,6 +17239,108 @@ export const POSTS: Record<string, BlogPost> = {
       "OP-18 is a pre-order in both languages — Japanese box $84, Japanese case $75.50 a box, English case $111.39 a box with no single stocked — and English OP-17 and OP-12 both fell exactly 20.0% in under a week. For the Japanese boxes alone, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all 24; for the English boxes alone, the [English One Piece booster box prices](/blog/english-one-piece-booster-box-price/) divides all 22."
     ]
   },
+  "japanese-pokemon-booster-box-australia-price": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "Not at the border, if the customs value is A$1,000 or less: seventy-one of the ninety boxes on our shelf clear on goods value alone. GST may still be collected at checkout, because overseas sellers with A$75,000 or more of Australian GST turnover must collect 10% GST at the point of sale on low-value goods. The exact treatment of an order is confirmed at checkout, and the invoice should carry the seller's GST registration details.",
+        "q": "Will I pay GST on one Japanese Pokemon booster box shipped to Australia?"
+      },
+      {
+        "a": "It is taxed at the border: duty by classification, commonly 5% at the general rate, plus 10% GST on the customs value plus duty plus freight and insurance, plus import processing and biosecurity charges, and a formal import declaration is required. The SV2a sealed case at A$5,523.51 of goods attracts A$276.18 of duty and A$579.97 of GST, for A$6,379.66 before freight, insurance and clearance charges.",
+        "q": "What happens if my order is over A$1,000?"
+      },
+      {
+        "a": "No. Our shelf prices are listed in US dollars as the goods price, and the AUD figures on this page are conversions at A$1.45 to the dollar for comparison. Whether GST is collected at checkout depends on the seller's registration, so the exact GST treatment is confirmed at checkout, and the buyer should check the invoice before paying.",
+        "q": "Is the Warehouse price GST-inclusive?"
+      }
+    ],
+    "h1": "Japanese Pokemon Booster Box Prices in Australia: The A$1,000 Line, in AUD",
+    "intro": [
+      "One Japanese Pokemon booster box shipped to Australia clears the border with no duty or GST: the line is A$1,000 of customs value, and seventy-one of the ninety boxes sit under it on goods value. A sealed case, or any box over A$1,000, is taxed at the border instead: duty, then 10% GST on the customs value plus duty plus freight and insurance. This guide prices all 90 Japanese Pokemon booster boxes in Australian dollars, runs the landed cost, and compares Japan-direct against eBay Australia and local shops. Prices as of November 10, 2026, converted at A$1.45 to the dollar.",
+      "The cheapest box per pack is M3 Munikis Zero at A$3.41 a pack, and the dearest is Pokemon Card 151 at A$34.16 a pack."
+    ],
+    "metaDescription": "Every Japanese Pokemon booster box price in Australian dollars as of November 10, 2026: the A$1,000 line, border GST, and eBay Australia math.",
+    "metaTitle": "Japanese Pokemon Booster Box Prices in Australia",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: A$1,000 is the line, and GST is charged either way",
+        "paragraphs": [
+          "Goods with a customs value of A$1,000 or less are low value imported goods: no duty, GST or charges are payable at the border, and they clear on a self-assessed clearance declaration. But GST still exists below the line. Since July 1, 2018, overseas sellers with A$75,000 or more of Australian GST turnover must collect 10% GST at the point of sale, so a low-value parcel is not necessarily tax-free: the GST is charged at checkout instead.",
+          "A consignment over A$1,000 is taxed at the border: customs duty, commonly 5% at the general rate, with Japanese origin to be checked against JAEPA, plus 10% GST on the customs value plus duty plus freight and insurance, plus processing and biosecurity charges and a formal import declaration. The surprise risk is double charging, GST at checkout and again at the border, which the ATO explicitly warns against and which is prevented by the supplier putting its GST registration details on the import documents.",
+          "The two boxes closest to the line are Shield at $651.07, or A$944.05, and Ultra Force at $680.87, or A$987.26: freight and insurance are part of the taxable value, so an Ultra Force box can cross A$1,000 once the shipping is added."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in Australian dollars",
+        "paragraphs": [
+          "Ninety Japanese Pokemon booster boxes are in stock, $43.03 to $3,924.12, a $41,700.52 shelf, as of November 10, 2026. Every AUD figure is the dollar shelf price multiplied by 1.45, the mid-market rate on November 10, 2026. Most boxes hold [30 packs](/blog/how-many-packs-in-a-booster-box/) of 5 cards. Exceptions: high-class boxes M2a, SV4a and SV8a at 10 packs of 10 cards; special sets SV2a, SV11B and SV11W at 20 packs of 7; M6a at 20 packs of 6 foil cards; and the two Deluxe boxes at 4 packs of 35 cards.",
+          "Under A$150 (23 boxes): A$62.39: S2 Rebellion Crash; A$102.40: M3 Munikis Zero; A$120.06: M6 Storm Emeralda; A$123.21: M1S Mega Symphonia, SV9 Battle Partners; A$127.99: M4 Ninja Spinner, SV5M Cyber Judge, SV4M Future Flash, SV1V Violet ex; A$132.83: M5 Abyss Eye, SV7 Stellar Miracle, SV6a Night Wanderer, SV4K Ancient Roar, S11a Incandescent Arcana, S9a Battle Region, S9 Star Birth; A$137.62: M1L Mega Brave, SV2P Snow Hazard; A$143.43: SMP2 Detective Pikachu, SM9a Night Unison, SM9 Tag Bolt; A$148.83: SV3a Raging Surf, SV2D Clay Burst.",
+          "A$150 to A$300 (23 boxes): A$155.21: SV5a Crimson Haze, SV5K Wild Force; A$156.83: S10P Space Juggler; A$161.62: SV6 Mask of Change, SV1S Scarlet ex; A$166.42: M2a Mega Dream ex; A$204.80: SV7a Paradise Dragona, SV4a Shiny Treasure ex; A$216.01: S10D Time Gazer; A$220.82: SV3 Ruler of Black Flame, SV1A Triplet Beat; A$233.32: SM9b Full Metal Wall; A$236.81: SV9a Heat Wave Arena, SV8a Terastal Festival ex; A$243.19: SV11W White Flare, S6H Silver Lance; A$246.44: S4a Shiny Star V, S4 Shocking Volt Tackle; A$265.61: M2 Inferno X, SV11B Black Bolt; A$267.19: S7D Towering Perfection; A$286.42: SV11W Deluxe White Flare; A$291.20: S6K Jet-Black Spirit.",
+          "A$300 to A$1,000 (25 boxes): A$308.84: SV11B Deluxe Black Bolt, SV10 Glory of Team Rocket; A$350.42: S12a VSTAR Universe, S12 Paradigm Trigger; A$352.02: S10a Dark Phantasma; A$361.05: M6a 30th Celebration; A$374.43: SV8 Super Electric Breaker; A$376.01: S10b Pokemon GO; A$422.44: S8b VMAX Climax, S8 Fusion Arts, S1a VMAX Rising; A$545.65: S2a Explosive Flame Walker; A$598.46: S5a Matchless Fighter; A$620.85: S5i Single Strike Master; A$624.05: S11 Lost Abyss; A$632.06: S3a Legendary Heartbeat, S3 Infinity Zone; A$683.24: SV2a Pokemon 151; A$704.06: S1W Sword; A$740.86: S5R Rapid Strike Master; A$745.66: SM8a Dark Order; A$798.47: SM12 Alter Genesis; A$817.64: S8a 25th Anniversary; A$944.05: S1H Shield; A$987.26: SM5+ Ultra Force.",
+          "Over A$1,000 (19 boxes): A$1,012.87: SM6 Forbidden Light; A$1,051.25: SM5S Ultra Sun; A$1,057.67: SM7a Thunderclap Spark; A$1,147.27: SM7b Fairy Rise; A$1,297.69: SM6b Champion Road; A$1,366.49: SM10a GG End; A$1,412.89: SM10 Double Blaze; A$1,608.11: SM10b Sky Legend; A$1,644.91: SM6a Dragon Storm; A$1,681.71: S6a Eevee Heroes; A$1,769.74: SM8 Super-Burst Impact; A$1,859.34: SM11a Remix Bout; A$2,100.95: SM11b Dream League; A$2,208.15: SM5M Ultra Moon; A$2,419.37: SM12a Tag Team GX All Stars; A$2,492.97: SM8b GX Ultra Shiny; A$2,707.37: SM11 Miracle Twin; A$3,750.64: S7R Blue Sky Stream; A$5,689.97: SM7 Sky-Splitting Charisma.",
+          "[M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) is the cheapest box per pack at $2.35, or A$3.41 a pack, and A$0.68 a card. M6a divides to $12.45 a pack, or A$18.05, and A$3.01 a card. [151](/blog/sv2a-pokemon-151-buyers-guide/) is the dearest at $23.56 a pack, or A$34.16, and A$4.88 a card. The two Deluxe boxes, at 35 cards a pack: SV11B Deluxe is $53.25 a pack, or A$77.21, and SV11W Deluxe is $49.38 a pack, or A$71.60.",
+          "The case column surprises buyers. The SV2a sealed case costs $3,809.32, or A$5,523.51, for twelve boxes, which is $317.44 a box, or A$460.29: against the $471.20 single, or A$683.24, that saves $153.76 a box, or A$222.95, and $1,845.12 in total, or A$2,675.42. The M3 case runs the other way: $1,048.24, or A$1,519.95, is $87.35 a box, or A$126.66, against the $70.62 single, or A$102.40, so the case costs $16.73 more per box, or A$24.26. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs eBay Australia vs local shops",
+        "paragraphs": [
+          "An Australian buyer has three real routes to a Japanese box. Japan-direct means a sealed box shipped from Japan, priced in dollars. eBay Australia means the deepest local market for singles, graded cards and sealed product, priced in AUD with the import already done, at the cost of peer-to-peer condition risk. Local shops mean GST included, simpler delivery and Australian Consumer Law protection if anything arrives damaged, at the highest shelf price of the three routes.",
+          "The local comparison starts with Woolworths, which lists M6a at A$367.99 through an Everyday Market partner, against our A$361.05 in goods value: Japan-direct is A$6.94 cheaper before shipping, so the shipping quote decides it. Against AkibaDesk, a Japan-based shop posting on OzBargain on October 20, 2026 with delivered prices in AUD: M6 Storm Emeralda at about A$132 delivered against our A$120.06 in goods, M4 Ninja Spinner at about A$129 delivered against our A$127.99 in goods, and SV11W White Flare at about A$289 delivered against our A$243.19 in goods.",
+          "AkibaDesk lists M6a 30th Celebration at about A$304 delivered, against our A$361.05 in goods value, so our M6a is A$57.05 above a delivered Japan-direct price before shipping is even added. M6a is our dearest box by demand, not by list, and a buyer who wants it should check the AkibaDesk price before paying ours. The [M6a buyers guide](/blog/m6a-30th-celebration-buyers-guide/) runs the set in full, and the gap is flagged for the owner to check.",
+          "Warehouse Note: the question we get most in chat from Australian buyers is whether GST is charged twice, once at checkout and once at the border. It can be, on orders over A$1,000, which is why the worked case example shows the duty line and the GST line separately."
+        ]
+      },
+      {
+        "h": "What's missing from other Australia price pages",
+        "paragraphs": [
+          "The top results for this query quote prices in US dollars or in AUD without ever naming the A$1,000 line, which leaves the buyer guessing whether the border will charge them. None of them run the border math on a sealed case, so none of them can say what a case actually lands for. None of them name the double-GST trap, and none of them compare a Japan-direct price against a delivered Australian price for the same set.",
+          "The question no other page answers is the pairing question: which boxes can share one parcel without crossing A$1,000. Two M6a boxes at A$722.10 of goods clear together with room to spare. A M6a and a Pokemon Card 151 at A$1,044.29 of goods cross together before shipping is added, so that pairing pays duty and GST at the border even though each box alone would clear."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Australia",
+        "paragraphs": [
+          "Pick the box from the board above and convert it at A$1.45, the rate used on this page. Add the shipping quote to the goods value and check the A$1,000 line on the total, because the line is measured on customs value plus freight and insurance, not on the box alone. Confirm the exact [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying, because the quote depends on the parcel.",
+          "Orders over $500 ship free, which matters before splitting an order to stay under the A$1,000 line: splitting saves the border tax but pays shipping twice. Track the parcel and store the box sealed and upright on arrival; our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers the humidity and stacking rules for a sealed collection."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the double-GST trap",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route. A box that has been opened and re-shrunk looks sealed until it is opened, and the only defence is buying factory-sealed stock from a seller whose reputation is on the line, then checking the shrink, seams and box condition against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. TCGplayer does not ship directly to Australia, so the local depth market is eBay Australia, against peer sellers rather than a platform price.",
+          "M6a 30th Celebration was $207.50 on October 24, 2026 and is $249.00 on November 10, exactly 20.0% higher in seventeen days: a price on this page is a stamp, not a promise. A restock or reprint announcement can cut a premium the same week, so check the live shelf price before paying. The double-GST trap is the third risk, specific to Australia: on a consignment over A$1,000, GST can be collected at checkout and charged again at the border if the import documents do not carry the seller's GST registration details. The SV2a case at A$5,523.51 of goods attracts duty of 5%, or A$276.18, and then GST of 10% on A$5,799.69, or A$579.97, for a goods-plus-duty-plus-GST total of A$6,379.66 before freight, insurance and clearance charges."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Australian retail",
+        "paragraphs": [
+          "A standard Scarlet and Violet era box lists at 30 packs of 180 yen, or 5,400 yen, which is $35.06 at 154 yen to the dollar. A MEGA era box lists at 30 packs of 200 yen, or 6,000 yen, which is $38.96, after the pack price rose from 180 to 200 yen in May 2026. Pokemon Card 151 lists at 20 packs of 180 yen, or 3,600 yen, which is $23.38, and M6a lists at 20 packs of 200 yen, or 4,000 yen, which is $25.97.",
+          "Rebellion Crash at $43.03 is 1.23 times its era list, M3 at $70.62 is 1.81 times the MEGA list, [M6a](/blog/m6a-30th-celebration-buyers-guide/) at $249.00 is 9.59 times its list, and Pokemon Card 151 at $471.20 is 20.15 times its list. The multiple is the market speaking: 151 is a chase set with a Charizard, M6a is an anniversary box with a Pikachu in every pack, and Rebellion Crash never caught fire. Woolworths lists M6a at A$367.99, and the Ocean Road Magazine beginners guide to buying Japanese boxes in Australia, published May 16, 2026, advises buying locally first for GST-included pricing and simpler returns. The [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same ninety boxes in dollars."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card. If the card is a Charizard, a Pikachu or a specific Secret Art Rare, the single is cheaper than the box. It is not for a buyer who needs the box this week: Japan-direct shipping takes days to weeks, and a local shop or an eBay Australia seller with stock on hand is the route when the deadline is the weekend. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card, and the Pokemon Company publishes no pull rates."
+        ]
+      },
+      {
+        "h": "Action layer: the Australian buyer's checklist",
+        "paragraphs": [
+          "One, pick the box from the board and note its AUD goods value. Two, multiply the dollar price by 1.45 and add the shipping quote, then check the A$1,000 line on the total. Three, if the total is over A$1,000, add duty at 5% and then GST at 10% on the customs value plus duty plus freight and insurance. Four, compare the eBay Australia and local shop price for the same set and weigh sealed provenance and returns protection against the saving. Five, confirm the shipping quote and the GST treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-booster-box-australia-price",
+    "takeaway": [
+      "One Japanese Pokemon booster box shipped to Australia clears the border with no duty or GST, because the line is A$1,000 of customs value and seventy-one of the ninety boxes on our shelf sit under it on goods value alone. A sealed case, or any of the nineteen boxes over A$1,000, pays duty and GST at the border instead. The cheapest pack on the shelf is M3 at A$3.41, and the dearest box is Pokemon Card 151 at A$683.24.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 10, 2026, converted at A$1.45 to the dollar, with duty and GST calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the A$1,000 check on the parcel as it lands, not on the box alone.",
+      "For the Australia hub this guide sits inside, the [buying Japanese TCG cards in Australia guide](/blog/buying-japanese-tcg-cards-in-australia/) runs the same A$1,000 line across all four games, with One Piece, Dragon Ball and Lorcana in Australian dollars. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does."
+    ]
+  },
   "japanese-pokemon-booster-box-price": {
     "datePublished": "2026-11-06",
     "faqs": [
@@ -17285,7 +17387,7 @@ export const POSTS: Record<string, BlogPost> = {
           "Case penalty, SV5a Crimson Haze: $108.60 − $107.04 = $1.56 more per box; across 12 boxes, $18.72 more than singles"
         ],
         "paragraphs": [
-          "Every standard Japanese Pokémon box holds 30 packs of 5 cards, so most rows divide the box price by 30. The exceptions are printed in the Packs column: high-class boxes (M2a, SV4a, SV8a) hold 10 packs of 10 cards, special sets (SV2a, SV11B, SV11W) hold 20 packs of 7, and the M6a anniversary box holds 20 packs of 6 foil cards. The table runs the division for all thirty-two MEGA-era and Scarlet & Violet boxes on our shelf, with each sealed-case price divided to a per-box number beside it.",
+          "Every standard Japanese Pokémon box holds 30 packs of 5 cards, so most rows divide the box price by 30. The exceptions are printed in the Packs column: high-class boxes (M2a, SV4a, SV8a) hold 10 packs of 10 cards, special sets (SV2a, SV11B, SV11W) hold 20 packs of 7, and the M6a anniversary box holds 20 packs of 6 foil cards. The table runs the division for all thirty-two MEGA-era and Scarlet & Violet boxes on our shelf, with each sealed-case price divided to a per-box number beside it. Singapore buyers can read the same ninety boxes converted to SGD, with the S$400 GST line applied box by box, in our [Japanese Pokemon booster box prices in Singapore](/blog/japanese-pokemon-booster-box-singapore-price/) guide.",
           "Two patterns jump out. First, the per-pack spread is ten to one: $2.35 a pack for M3 against $23.56 for Pokémon Card 151. Second, the case column does not behave the way most buyers expect: twenty-six cases save money per box, and two cost more. The biggest case saving is Pokémon Card 151 at $153.76 a box, or $1,845.12 across a case of twelve; the biggest by rate is SV11B Black Bolt at $100.54 a box. The penalties are the lesson: M3's case costs $16.73 more per box than its single, and SV5a's costs $1.56 more. A case is priced as its own product, not as twelve singles minus a bulk discount. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division across games.",
           "Four sets have no case on our shelf: M4, M5, M6, and M6a. Where a case exists, the board shows it; where it does not, the dash is the fact. Eight more cases sit on the shelf without a single box beside them, and their per-box prices are the only way to price those sets here: SV1S Scarlet ex at $91.94, SV1V Violet ex at $79.36, S9 Star Birth at $147.08, S6H Silver Lance at $170.43, S12a VSTAR Universe at $192.14, S8b VMAX Climax at $202.17, S6K Jet-Black Spirit at $208.84, and S8 Fusion Arts at $284.86."
         ],
@@ -17674,6 +17776,107 @@ export const POSTS: Record<string, BlogPost> = {
       "For the dearest box on this board in depth, the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the $471.20 box against a case that saves $1,845.08.",
       "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) prices the floor box by box, from Rebellion Crash at $43.03 to the sixteen cheapest under $95, with per-pack and per-card math for each.",
       "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases."
+    ]
+  },
+  "japanese-pokemon-booster-box-singapore-price": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "No, if the parcel's CIF value is S$400 or less. All ninety single boxes on our shelf clear the line on goods value alone, from Rebellion Crash at S$55.08 to the SM7 box at S$5,022.87 in goods, though the thirty-three boxes over S$400 in goods value do not. Remember the line is measured on CIF, cost plus insurance plus freight, so a box near the line can cross once shipping is added.",
+        "q": "Will I pay GST on one Japanese Pokemon booster box shipped to Singapore?"
+      },
+      {
+        "a": "GST of 9% is payable on the full CIF value, not just the excess. Two M6a boxes at S$637.44 of goods attract S$57.37 of GST, for a goods-plus-GST total of S$694.81 before shipping. The SV2a sealed case at S$4,875.93 of goods attracts S$438.83 of GST, for S$5,314.76 before shipping.",
+        "q": "What happens if my parcel is over S$400?"
+      },
+      {
+        "a": "Sometimes, and by small amounts. Against one seller's list dated July 22, 2026, Carousell was cheaper on five of eight sets we compared, by S$1.51 to S$20.59, and Japan-direct was cheaper on three, by S$1.12 to S$2.41. Loose packs on Carousell run S$2 to S$6 against S$3.01 a pack for a sealed M3 box, so the money is about the same and the difference is sealed provenance against loose-pack risk.",
+        "q": "Is Carousell Singapore cheaper than buying from Japan?"
+      }
+    ],
+    "h1": "Japanese Pokemon Booster Box Prices in Singapore: The S$400 Line, in SGD",
+    "intro": [
+      "One Japanese Pokemon booster box shipped to Singapore clears with no GST at the border, because the relief line is S$400 CIF and even the dearest box on our shelf, the M6a 30th Celebration box at $249, converts to S$318.72 in goods value. Two boxes in one parcel, or any sealed case, cross the line and pay 9% GST on the full value, not just the excess. This guide prices all 90 Japanese Pokemon booster boxes on our shelf in Singapore dollars, runs the landed cost for a box and a case, and compares Japan-direct against Carousell Singapore box by box. Prices as of November 10, 2026, converted at S$1.28 to the dollar.",
+      "The cheapest box per pack is M3 Munikis Zero at S$3.01 a pack, and the dearest is Pokemon Card 151 at S$30.16 a pack."
+    ],
+    "metaDescription": "Every Japanese Pokemon booster box price in Singapore dollars as of November 10, 2026: the S$400 GST line, landed cost, and Carousell math.",
+    "metaTitle": "Japanese Pokemon Booster Box Prices in Singapore",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: one box clears, two boxes pay 9% on everything",
+        "paragraphs": [
+          "Singapore grants GST import relief on goods imported by air or post with a total CIF value of S$400 or less, and trading cards are non-dutiable, so the only tax in play is the 9% GST. CIF is the parcel as it lands, freight and insurance included. If the CIF value exceeds S$400, GST is payable on the entire shipment value, not just the excess. The 9% rate has applied since January 1, 2024 (Singapore Customs).",
+          "Fifty-seven of the ninety boxes clear the line on goods value alone, and thirty-three exceed it before shipping is even added. The three boxes closest to the line are VMAX Climax, Fusion Arts and VMAX Rising, all at $291.34, or S$372.92 in goods value: add freight and insurance to any one of them and the parcel can cross S$400. Since January 1, 2023, the Overseas Vendor Registration regime also means low-value goods bought from a GST-registered overseas seller are charged GST at checkout instead. Our shelf prices are listed in US dollars, and the exact GST treatment of an order is confirmed at checkout."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in Singapore dollars",
+        "paragraphs": [
+          "Ninety Japanese Pokemon booster boxes are in stock, $43.03 to $3,924.12, a $41,700.52 shelf, as of November 10, 2026. Every SGD figure is the dollar shelf price multiplied by 1.28, the mid-market rate on November 10, 2026. Most boxes hold [30 packs](/blog/how-many-packs-in-a-booster-box/) of 5 cards. Exceptions: high-class boxes M2a, SV4a and SV8a at 10 packs of 10 cards; special sets SV2a, SV11B and SV11W at 20 packs of 7; M6a at 20 packs of 6 foil cards; and the two Deluxe boxes at 4 packs of 35 cards. Older boxes carry no per-pack claim here; pack counts vary by era.",
+          "Under S$100 (2 boxes): S$55.08: S2 Rebellion Crash; S$90.39: M3 Munikis Zero.",
+          "S$100 to S$200 (32 boxes): S$105.98: M6 Storm Emeralda; S$108.76: M1S Mega Symphonia, SV9 Battle Partners; S$112.99: M4 Ninja Spinner, SV5M Cyber Judge, SV4M Future Flash, SV1V Violet ex; S$117.26: M5 Abyss Eye, SV7 Stellar Miracle, SV6a Night Wanderer, SV4K Ancient Roar, S11a Incandescent Arcana, S9a Battle Region, S9 Star Birth; S$121.48: M1L Mega Brave, SV2P Snow Hazard; S$126.62: SMP2 Detective Pikachu, SM9a Night Unison, SM9 Tag Bolt; S$131.38: SV3a Raging Surf, SV2D Clay Burst; S$137.01: SV5a Crimson Haze, SV5K Wild Force; S$138.44: S10P Space Juggler; S$142.67: SV6 Mask of Change, SV1S Scarlet ex; S$146.91: M2a Mega Dream ex; S$180.79: SV7a Paradise Dragona, SV4a Shiny Treasure ex; S$190.68: S10D Time Gazer; S$194.93: SV3 Ruler of Black Flame, SV1A Triplet Beat.",
+          "S$200 to S$400 (23 boxes): S$205.96: SM9b Full Metal Wall; S$209.05: SV9a Heat Wave Arena, SV8a Terastal Festival ex; S$214.68: SV11W White Flare, S6H Silver Lance; S$217.55: S4a Shiny Star V, S4 Shocking Volt Tackle; S$234.47: M2 Inferno X, SV11B Black Bolt; S$235.87: S7D Towering Perfection; S$252.84: SV11W Deluxe White Flare; S$257.06: S6K Jet-Black Spirit; S$272.63: SV11B Deluxe Black Bolt, SV10 Glory of Team Rocket; S$309.34: S12a VSTAR Universe, S12 Paradigm Trigger; S$310.75: S10a Dark Phantasma; S$318.72: M6a 30th Celebration; S$330.53: SV8 Super Electric Breaker; S$331.93: S10b Pokemon GO; S$372.92: S8b VMAX Climax, S8 Fusion Arts, S1a VMAX Rising.",
+          "Over S$400 (33 boxes): S$481.68: S2a Explosive Flame Walker; S$528.29: S5a Matchless Fighter; S$548.06: S5i Single Strike Master; S$550.89: S11 Lost Abyss; S$557.95: S3a Legendary Heartbeat, S3 Infinity Zone; S$603.14: SV2a Pokemon 151; S$621.52: S1W Sword; S$654.00: S5R Rapid Strike Master; S$658.24: SM8a Dark Order; S$704.86: SM12 Alter Genesis; S$721.78: S8a 25th Anniversary; S$833.37: S1H Shield; S$871.51: SM5+ Ultra Force; S$894.12: SM6 Forbidden Light; S$928.00: SM5S Ultra Sun; S$933.67: SM7a Thunderclap Spark; S$1,012.76: SM7b Fairy Rise; S$1,145.55: SM6b Champion Road; S$1,206.28: SM10a GG End; S$1,247.24: SM10 Double Blaze; S$1,419.57: SM10b Sky Legend; S$1,452.06: SM6a Dragon Storm; S$1,484.54: S6a Eevee Heroes; S$1,562.25: SM8 Super-Burst Impact; S$1,641.34: SM11a Remix Bout; S$1,854.63: SM11b Dream League; S$1,949.26: SM5M Ultra Moon; S$2,135.72: SM12a Tag Team GX All Stars; S$2,200.69: SM8b GX Ultra Shiny; S$2,389.95: SM11 Miracle Twin; S$3,310.91: S7R Blue Sky Stream; S$5,022.87: SM7 Sky-Splitting Charisma.",
+          "[M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) is the cheapest box per pack at $2.35, or S$3.01 a pack, and S$0.60 a card. M6a divides to $12.45 a pack, or S$15.94, and S$2.66 a card. [151](/blog/sv2a-pokemon-151-buyers-guide/) is the dearest at $23.56 a pack, or S$30.16, and S$4.31 a card. The two Deluxe boxes, at 35 cards a pack: SV11B Deluxe is $53.25 a pack, or S$68.16, and SV11W Deluxe is $49.38 a pack, or S$63.21.",
+          "The case column surprises buyers. The SV2a sealed case costs $3,809.32, or S$4,875.93, for twelve boxes, which is $317.44 a box, or S$406.33: against the $471.20 single, or S$603.14, that saves $153.76 a box, or S$196.81, and $1,845.12 in total, or S$2,361.75. The M3 case runs the other way: $1,048.24, or S$1,341.75, is $87.35 a box, or S$111.81, against the $70.62 single, or S$90.39, so the case costs $16.73 more per box, or S$21.42. Divide every time: a case is its own product, not twelve singles minus a discount. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Carousell vs Shopee Singapore",
+        "paragraphs": [
+          "A Singapore buyer has three real routes to a Japanese box. Japan-direct means a sealed box shipped from Japan, priced in dollars. Carousell Singapore means a local seller, priced in SGD, with no import tax, but with peer-to-peer condition risk. Shopee Singapore means the same local stock on a platform with buyer protection, at a small premium. Singapore also has more than sixty dedicated Pokemon TCG shops (TCG Talk directory).",
+          "The box-by-box comparison against one Carousell seller's list, dated July 22, 2026 and seen on November 10, 2026: M3 Munikis Zero, our S$90.39 against the seller's S$88.88, so Carousell is S$1.51 cheaper. M1S Mega Symphonia, our S$108.76 against S$109.88, so Japan-direct is S$1.12 cheaper. SV11B Black Bolt, our S$234.47 against S$236.88, so Japan-direct is S$2.41 cheaper. M1L Mega Brave, our S$121.48 against S$115.88, so Carousell is S$5.60 cheaper. M4 Ninja Spinner, our S$112.99 against S$107.88, so Carousell is S$5.11 cheaper. M5 Abyss Eye, our S$117.26 against S$105.88, so Carousell is S$11.38 cheaper. M2 Inferno X, our S$234.47 against S$213.88, so Carousell is S$20.59 cheaper. SV11W White Flare, our S$214.68 against S$199.88, so Carousell is S$14.80 cheaper. Three of the eight go to Japan-direct, five go to Carousell, and the widest gap in either direction is S$20.59.",
+          "Warehouse Note: the question we get most in chat from Singapore buyers is whether a second box in the same parcel gets taxed. The answer is yes on the whole parcel, not on the second box. Adding a second M6a moves the parcel from S$318.72 of goods to S$637.44, and the GST on that parcel is 9% of S$637.44, or S$57.37, for a goods-plus-GST total of S$694.81 before shipping. Two M3 boxes stay clear at S$180.79 of goods.",
+          "The loose-pack comparison surprises buyers. Carousell Singapore lists Japanese Pokemon packs at S$2 to S$6, and the M3 box from Japan divides to S$3.01 a pack, squarely inside that range. The sealed box carries factory provenance and thirty packs from one print run. The loose pack may have been weighed, searched or resealed, and no Carousell listing can prove otherwise. Read our [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) guide before buying either one second-hand."
+        ]
+      },
+      {
+        "h": "What's missing from other Singapore price pages",
+        "paragraphs": [
+          "The top results for this query quote prices in US dollars and never convert them, which leaves the buyer guessing at the tax. None of them divide the shelf against the S$400 line box by box, so none of them can say which boxes clear and which do not. None of them compare a Japan-direct price against a Carousell ask for the same set, and none of them warn that CIF includes shipping.",
+          "The question no other page answers is the pairing question: which two boxes can share one parcel without crossing S$400. Two M3 boxes at S$180.79 of goods clear with room to spare. A M3 and a M6a at S$409.11 of goods already cross before shipping is added, so that pairing pays GST even though each box alone would clear. Run the pairing before the checkout, not after it."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Singapore",
+        "paragraphs": [
+          "Pick the box from the board above and convert it at S$1.28, the rate used on this page. Add the shipping quote to the goods value and check the S$400 line on the total, because the line is measured on CIF, not on the box alone. Confirm the exact [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying, because the quote depends on the parcel. Keep the invoice with the parcel, since customs works from it if the parcel is inspected.",
+          "Orders over $500 ship free, which is worth knowing before splitting an order to stay under the S$400 line: splitting saves the GST but pays shipping twice. Track the parcel and store the box sealed and upright on arrival; our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers the humidity and stacking rules that matter in Singapore."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and stale asks",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route. A box that has been opened and re-shrunk looks sealed until it is opened, and the only defence is buying factory-sealed stock from a seller whose reputation is on the line, then checking the shrink, the seams and the box condition against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. The Japan-direct route removes most of this risk because the box comes sealed from the store.",
+          "Reprints are the second risk, and they move prices in both directions. M6a 30th Celebration was $207.50 on October 24, 2026 and is $249.00 on November 10, exactly 20.0% higher in seventeen days, which is a reminder that a price on this page is a stamp, not a promise. A restock or reprint announcement can cut a premium the same week, so check the live shelf price before paying. Stale asks are the third risk: the Carousell seller list quoted above is dated July 22, 2026, more than three months before this page, so any single ask on it may have moved."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Singapore retail",
+        "paragraphs": [
+          "A standard Scarlet and Violet era box lists at 30 packs of 180 yen, or 5,400 yen, which is $35.06 at 154 yen to the dollar. A MEGA era box lists at 30 packs of 200 yen, or 6,000 yen, which is $38.96, after the pack price rose from 180 to 200 yen in May 2026. Pokemon Card 151 lists at 20 packs of 180 yen, or 3,600 yen, which is $23.38, and M6a lists at 20 packs of 200 yen, or 4,000 yen, which is $25.97.",
+          "The shelf is a multiple of that list, not a markup on it. Rebellion Crash at $43.03 is 1.23 times its era list, M3 at $70.62 is 1.81 times the MEGA list, M6a at $249.00 is 9.59 times its list, and Pokemon Card 151 at $471.20 is 20.15 times its list. The multiple is the market speaking: 151 is a chase set with a Charizard, [M6a](/blog/m6a-30th-celebration-buyers-guide/) is an anniversary box with a Pikachu in every pack, and Rebellion Crash never caught fire. Carousell Singapore lists modern sealed boxes at S$120 to S$250 and up. The [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same ninety boxes in dollars."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card. If the card is a Charizard, a Pikachu or a specific Secret Art Rare, the single is cheaper than the box. It is not for a buyer who needs the box this week: Japan-direct shipping takes days, and a local shop or Carousell meet-up is the route when the deadline is the weekend. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card, and the Pokemon Company publishes no pull rates. And it is not for a reseller flipping on margin: the S$400 line eats the flip on a two-box order."
+        ]
+      },
+      {
+        "h": "Action layer: the Singapore buyer's checklist",
+        "paragraphs": [
+          "One, pick the box from the board and note its SGD goods value. Two, multiply the dollar price by 1.28 and add the shipping quote, then check the S$400 line on the total. Three, if the total is over S$400, add 9% GST on the full CIF before deciding the order is worth it. Four, compare the Carousell ask for the same set and weigh sealed provenance against the local saving. Five, confirm the shipping quote at checkout or on WhatsApp before paying, and keep the invoice. Six, check the live shelf price again before the next order: the numbers here are stamped November 10, 2026."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-booster-box-singapore-price",
+    "takeaway": [
+      "One Japanese Pokemon booster box shipped to Singapore clears with no GST at the border, because the relief line is S$400 CIF and fifty-seven of the ninety boxes on our shelf clear it on goods value alone. Two boxes in one parcel, or any sealed case, cross the line and pay 9% GST on the full value. The cheapest pack on the shelf is M3 at S$3.01, and the dearest box is Pokemon Card 151 at S$603.14.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 10, 2026, converted at S$1.28 to the dollar, with GST calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the S$400 check on the parcel as it lands, not on the box alone.",
+      "For the Singapore hub this guide sits inside, the [buying Japanese TCG cards in Singapore guide](/blog/buying-japanese-tcg-cards-in-singapore/) runs the same S$400 line across all four games, with One Piece, Dragon Ball and Lorcana in Singapore dollars. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does."
     ]
   },
   "japanese-pokemon-cards-price": {
