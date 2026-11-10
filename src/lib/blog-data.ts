@@ -5142,7 +5142,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the full shelf with every box divided to a per-pack price and every case divided to a per-box price, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) — including the eleven cases that cost more than singles.",
       "New this cycle: the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) ranks all twenty-four Japanese boxes by buyer type, divides every case, and prices the English gap beside them.",
       "For the pack question in depth, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides all eighteen main sets and four Extra Boosters to the pack — OP-15 at $2.90, OP-18 at $3.50 on pre-order, OP-01 at $9.94.",
-      "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases."
+      "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases.",
+      "New this cycle: the [Japanese One Piece cards price index](/blog/japanese-one-piece-cards-price/) prices every set in both languages in one table, with the JP-versus-EN gap and the case division for each."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -5932,7 +5933,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best Japanese TCG to buy in 2026](/blog/best-japanese-tcg/) puts Pokémon beside One Piece, Dragon Ball, and Lorcana on one shelf and divides every game's cheapest entry to per-pack and per-card — Pokémon's cheapest box is $70.62.",
       "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) finds the floor is Rebellion Crash at $43.03, or $1.43 a pack, below M3 at $70.62, with the sixteen cheapest boxes all under $95.",
       "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the MEGA-era opener, box $94.91 against a case that saves $226.74, with the 092/063 trap and the 20-pack correction.",
-      "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box."
+      "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box.",
+      "New this cycle: the [Japanese Pokémon cards price index](/blog/japanese-pokemon-cards-price/) prices every format on the shelf in one place — all 90 boxes, 40 cases, the starters, and the five premium boxes no guide had priced."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -6905,7 +6907,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the case question in depth, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) divides a 20-box case to $136.16 a box, saving $543.24, and the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) divides its case to $92.93 a box, saving $436.84.",
       "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) divides a 12-box case at $952.33, or $79.36 a box, saving $67.31 against twelve singles.",
       "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices a case that saves $234.29 against twelve singles, or $19.52 a box, more than Triplet Beat's $223.15, and its twin [SV1V Violet ex](/blog/sv1v-violet-ex-buyers-guide/) saves $106.91 a case.",
-      "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices a case that saves $116.52 against twelve singles, or $9.71 a box, and the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices a case that saves $186.59, or $15.55 a box."
+      "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices a case that saves $116.52 against twelve singles, or $9.71 a box, and the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices a case that saves $186.59, or $15.55 a box.",
+      "New this cycle: the [Japanese Pokémon cards price index](/blog/japanese-pokemon-cards-price/) puts the case ladder beside every other format, with the five premium boxes priced for the first time."
     ]
   },
   "best-japanese-pokemon-special-set-to-buy": {
@@ -14143,7 +14146,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Every English One Piece box price lives in one table now: twenty-two single boxes, from OP-12 at $130.05 to EB-01 at $632.48, with the Premium Boosters priced per box only because Bandai prints no pack count for them. The cheapest pack is OP-12 at $5.42 and the dearest is EB-01 at $26.35, a 4.86 times gap.",
       "The multiples are the story: the OP-18 case-split at $111.39 a box is $8.37 below the retail box and 68.3% below the preorder market, the EB-05 case-split at $115.92 is $3.84 below retail and 52.2% below the TCGplayer market, and OP-17 and OP-12 both fell exactly 20.0% in under a week. The English premium over Japanese runs from $0.26 on OP-12 to $477.44 on EB-01.",
-      "Prices move, so treat every number here as stamped: our shelf prices as of November 10, 2026, the TCGplayer market prices as of November 8, 2026, the preorder market as of October 24, 2026, and the PriceCharting figures as of September 27 to October 7, 2026. An ask without a date is stale, a pre-order premium is the price of the wait, and a case-split is the cheapest English box on this shelf."
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 10, 2026, the TCGplayer market prices as of November 8, 2026, the preorder market as of October 24, 2026, and the PriceCharting figures as of September 27 to October 7, 2026. An ask without a date is stale, a pre-order premium is the price of the wait, and a case-split is the cheapest English box on this shelf.",
+      "New this cycle: the [Japanese One Piece cards price index](/blog/japanese-one-piece-cards-price/) sets the English prices beside the Japanese ones for all 25 sets, with the gap and the case saving for each."
     ]
   },
   "fb07-wish-for-shenron-buyers-guide": {
@@ -15889,6 +15893,346 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box."
     ]
   },
+  "japanese-one-piece-cards-price": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "On this shelf, yes for all 22 sets stocked in both languages, and effectively tied on the 22nd: OP-12 is $129.79 in Japanese and $130.05 in English, a $0.26 gap. The widest gap is EB-01 at $477.44. The exception is not a set but a format: the English case saves money on every set with a printed box count, while the Japanese case usually does not.",
+        "q": "Is the Japanese One Piece box always cheaper than the English box?"
+      },
+      {
+        "a": "In English, the case: sixteen cases with printed box counts save $13,113.53 in total against twelve singles, from $18.91 a box on OP-12 to $125.58 on OP-03. In Japanese, the single box: only OP-02 and OP-03 save real money in a case, $40.97 and $35.13 a box, and eleven Japanese cases cost more per box than buying singly. Divide the case on the set you want, on the day you buy.",
+        "q": "Should I buy a One Piece case or twelve single boxes?"
+      },
+      {
+        "a": "EB-01 Memorial Collection is the scarcest English Extra Booster on the shelf, and English supply thinned first while Japanese supply held. The gap is $477.44, 4.08 times. The cards are the same game in a different language; what the English price buys is the printing and the scarcity. The English EB-01 case is $6,831.59 with no box count printed, so no per-box saving can be claimed for it.",
+        "q": "Why is the English EB-01 box $632.48 when the Japanese box is $155.04?"
+      }
+    ],
+    "h1": "Japanese One Piece Cards Prices, Priced",
+    "intro": [
+      "Short answer: every One Piece card price on the Warehouse shelf, in both languages, as of November 10, 2026. All 24 Japanese boxes run $69.48 to $238.45, $3,394.77 for the set; all 22 English boxes run $130.05 to $632.48, $7,295.31 for the set — buying every English box costs 2.15 times buying every Japanese box. The gap is $0.26 on OP-12 and $477.44 on EB-01, and the case tells the same story in reverse: English cases save $13,113.53 against buying singly, while eleven Japanese cases cost more per box than the single box beside them.",
+      "This guide is for buyers choosing between the Japanese and English printings of the same set, and between a single box and a case. It is not for anyone pricing a single card — that is a sold-listing question — and it is not for anyone who needs the English set for sanctioned play, because the language decision is a tournament rule, not a price decision. Every figure below is a Warehouse shelf price as of November 10, 2026."
+    ],
+    "metaDescription": "Every One Piece card price in both languages: 24 Japanese boxes, 22 English boxes, the JP-vs-EN gap per set, and case savings, divided.",
+    "metaTitle": "Japanese One Piece Cards Prices, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "Buy Japanese if the cards are the same and the language does not matter: the Japanese box is cheaper on all 22 sets stocked in both languages, and on OP-12 Legacy of the Master the gap is just $0.26 — $129.79 in Japanese against $130.05 in English, effectively a tie. Buy English if the cards need to play in an English-region event, or if the set is English-only on this shelf — EB-05 Heroines Edition vol.2 has no Japanese box stocked, and OP-18 The Dominance of God has no English single box, only a case. Buy the case in English and the single box in Japanese: English cases save $18.91 to $125.58 a box, while Japanese cases save nothing on most sets and cost more per box on eleven of them.",
+          "The numbers behind that: 24 Japanese boxes total $3,394.77, $141.45 on average, from [OP-15 Adventure on KAMI's Island](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) at $69.48 to [OP-01 Romance Dawn](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) at $238.45. Twenty-two English boxes total $7,295.31, $331.61 on average, from OP-12 at $130.05 to [EB-01 Memorial Collection](/product/eb-01-memorial-collection-extra-booster-box-english-one-piece-card/) at $632.48. The whole One Piece shelf — 99 products, both languages, boxes, cases, promos and premium sets — is $118,624.70.",
+          "Two prices moved since the last guides, and both moved the same way. The English OP-17 box fell from $212.09 on November 4 to $169.67, and the English OP-12 box fell from $162.56 on November 5 to $130.05 — both exactly 20.0% down in five to six days. The Japanese boxes did not move with them. The English premium is shrinking on the newest sets and still enormous on the oldest ones, and the table below shows the gap set by set."
+        ]
+      },
+      {
+        "h": "The money layer: Japanese vs English, set by set",
+        "math": [
+          "All 24 JP boxes: $3,394.77 ÷ 24 = $141.45 average; cheapest OP-15 $69.48, dearest OP-01 $238.45",
+          "All 22 EN boxes: $7,295.31 ÷ 22 = $331.61 average; cheapest OP-12 $130.05, dearest EB-01 $632.48",
+          "Full-set ratio: $7,295.31 ÷ $3,394.77 = 2.15x",
+          "Widest gaps: EB-01 $632.48 − $155.04 = $477.44 (4.08x); OP-03 $577.68 − $175.78 = $401.90 (3.29x); OP-04 $539.59 − $186.59 = $353.00 (2.89x); OP-15 $213.22 − $69.48 = $143.74 (3.07x)",
+          "Narrowest gaps: OP-12 $130.05 − $129.79 = $0.26; OP-17 $169.67 − $121.28 = $48.39; OP-10 $143.47 − $98.26 = $45.21; OP-16 $172.04 − $105.00 = $67.04",
+          "Per pack (24 packs): OP-15 JP $69.48 ÷ 24 = $2.90; OP-01 JP $238.45 ÷ 24 = $9.94; OP-12 EN $130.05 ÷ 24 = $5.42; EB-01 EN $632.48 ÷ 24 = $26.35",
+          "Per card (144 cards): OP-12 JP $129.79 ÷ 144 = $0.90; OP-12 EN $130.05 ÷ 144 = $0.90; OP-01 JP $238.45 ÷ 144 = $1.66; OP-01 EN $444.36 ÷ 144 = $3.09; EB-01 JP $155.04 ÷ 144 = $1.08; EB-01 EN $632.48 ÷ 144 = $4.39",
+          "JP cases: 24 cases $39,858.31; OP-02 case $1,985.38 ÷ 12 = $165.45/box; $206.42 − $165.45 = $40.97 saved/box",
+          "JP OP-03 case: $1,687.81 ÷ 12 = $140.65/box; $175.78 − $140.65 = $35.13 saved/box",
+          "JP cases costing more per box than the single: 11 of 23 (EB-01, EB-03, OP-05, OP-07, OP-08, OP-09, OP-10, OP-13, OP-14, OP-16, OP-17); net JP case saving across all 23 sets $1,075.74",
+          "EN cases: 16 sets with printed counts save $13,113.53 in total vs 12 singles",
+          "EN OP-03 case: 12 × $577.68 = $6,932.16; $6,932.16 − $5,425.18 = $1,506.98 saved/case; $1,506.98 ÷ 12 = $125.58 saved/box",
+          "EN OP-01 case: $4,173.19 ÷ 12 = $347.77/box; $444.36 − $347.77 = $96.59 saved/box",
+          "EN OP-12 case: $1,333.70 ÷ 12 = $111.14/box; $130.05 − $111.14 = $18.91 saved/box",
+          "EN PRB-01 case: $4,072.51 ÷ 10 = $407.25/box; $433.56 − $407.25 = $26.31 saved/box; PRB-01 gap $433.56 − $149.63 = $283.93; PRB-02 gap $184.74 − $74.82 = $109.92",
+          "OP-18: JP box $84.00; JP case $906.00 ÷ 12 = $75.50/box; $84.00 − $75.50 = $8.50 saved/box; EN case $1,336.65 ÷ 12 = $111.39/box; $111.39 − $84.00 = $27.39; $111.39 − $75.50 = $35.89",
+          "EN OP-17 fell: $212.09 → $169.67; $169.67 ÷ $212.09 = 0.80 (−20.0%); EN OP-12 fell: $162.56 → $130.05; $130.05 ÷ $162.56 = 0.80 (−20.0%)",
+          "Official anchors: JP pack ¥220 (OP-01 to OP-16) / ¥240 (OP-17, OP-18, EB-05); EN pack $4.99; JP box at list 24 × ¥220 = ¥5,280; ¥5,280 ÷ ¥154 = $34.29; OP-15 $69.48 ÷ $34.29 = 2.03x list",
+          "EN OP-12 vs MSRP: $130.05 − $119.76 = $10.29 over MSRP",
+          "Whole OP shelf: 99 products $118,624.70; JP boxes + cases $3,394.77 + $39,858.31 = $43,253.08; EN boxes + cases $7,295.31 + $67,438.62 = $74,733.93",
+          "Free shipping $500: cheapest JP box needs $500.00 − $69.48 = $430.52 more; cheapest EN box needs $500.00 − $130.05 = $369.95 more"
+        ],
+        "paragraphs": [
+          "The gap is the story, so run it set by set. EB-01 Memorial Collection is the widest: $155.04 in Japanese against $632.48 in English, a $477.44 gap, 4.08 times. OP-03 Pillars of Strength is next: $175.78 against $577.68, a $401.90 gap, 3.29 times. OP-04 Kingdoms of Intrigue is $186.59 against $539.59, $353.00, 2.89 times. OP-05 is $186.61 against $496.80, $310.19, 2.66 times. The narrowest gaps are the newest sets: OP-12 at $0.26, OP-17 at $48.39, OP-10 at $45.21, OP-16 at $67.04. The pattern is age: the older the set, the wider the English premium, because English supply thins first.",
+          "Per pack, a standard box holds 24 packs of 6 cards, 144 cards, in both languages. OP-15 in Japanese is $69.48 divided by 24, $2.90 a pack and $0.48 a card. OP-01 in Japanese is $238.45 divided by 24, $9.94 a pack and $1.66 a card. OP-12 in English is $130.05 divided by 24, $5.42 a pack and $0.90 a card — the same $0.90 a card as the Japanese OP-12 at $129.79. EB-01 in English is $632.48 divided by 24, $26.35 a pack and $4.39 a card, against $6.46 a pack and $1.08 a card in Japanese. The Extra Boosters use the 24-pack box shown in retail listings, because Bandai prints no packs-per-box figure for EB-01 through EB-04; the Premium Boosters are priced per box only, because Bandai prints no packs-per-box figure for PRB at all.",
+          "Cases are where the two languages split. In Japanese, 24 cases total $39,858.31, and only two save real money: OP-02 Paramount War, $1,985.38 for 12 boxes, $165.45 a box against the $206.42 single, saving $40.97 a box; and OP-03, $1,687.81 for 12, $140.65 a box against $175.78, saving $35.13 a box. Eleven Japanese cases cost more per box than buying singly — EB-01, EB-03, OP-05, OP-07, OP-08, OP-09, OP-10, OP-13, OP-14, OP-16 and OP-17 — each by less than a dollar a box, but more is more, and the case buys twelve boxes, not a discount. Across all 23 Japanese sets with both a single and a case, the net saving from buying cases is $1,075.74.",
+          "In English the case is the deal. Sixteen English cases with printed box counts save $13,113.53 in total against buying twelve singles. OP-03 saves the most per box, $125.58: twelve singles are $6,932.16 and the case is $5,425.18, a $1,506.98 saving on the case. OP-01 saves $96.59 a box, OP-04 $117.22, OP-06 $108.26, OP-02 $84.34, OP-07 $81.67. The smallest English case saving is OP-12 at $18.91 a box — still more than the best Japanese case saving on any set except OP-02 and OP-03. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the Japanese boxes; the [English One Piece booster box prices](/blog/english-one-piece-booster-box-price/) prices the English ones. This page is the comparison between them.",
+          "OP-18 is the set to watch, because it is the newest and the least settled. The [Japanese box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is a pre-order at $84, and the [Japanese case](/product/one-piece-op-18-japanese-booster-box-case-pre-order-one-piece-card-game/) is a pre-order at $906 for 12 boxes, $75.50 a box, saving $8.50 against the single. The [English case](/product/op-18-the-dominance-of-god-sealed-case-12-boxes-english-one-piece-card/) is a pre-order at $1,336.65 for 12 boxes, $111.39 a box — $27.39 more per box than the Japanese single, $35.89 more than the Japanese case split — and no English single box is stocked. The Japanese set releases November 21, 2026 and the English set November 20, 2026. EB-05 is the mirror image: an [English case](/product/one-piece-eb-05-heroines-edition-vol-2-english-booster-box-case-factory-sealed/) at $1,391.04 with no box count printed on the listing, so no per-box figure is run here, and no Japanese box stocked at all."
+        ]
+      },
+      {
+        "h": "The decision layer: 25 sets, two languages, one table",
+        "paragraphs": [
+          "Read the table for the set you want, then read the gap column. A gap under $50 means the languages are priced as the same product; a gap over $200 means the English printing is a different market. OP-12, OP-17, OP-10 and OP-16 are the four sets where the gap is under $70, and all four are recent. EB-01, OP-03, OP-04 and OP-05 are the four where the gap is over $300, and all four are old.",
+          "Three rows carry no English box price because no English single box is stocked: OP-18, EB-04, and EB-05. One row carries no Japanese box price because no Japanese box is stocked: EB-05. The PRB rows carry no per-pack figure in either language, because Bandai prints no packs-per-box figure for the Premium Boosters."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "JP box",
+            "EN box",
+            "Gap (EN − JP)",
+            "JP / pack",
+            "EN / pack"
+          ],
+          "rows": [
+            [
+              "OP-01 Romance Dawn",
+              "$238.45",
+              "$444.36",
+              "$205.91",
+              "$9.94",
+              "$18.52"
+            ],
+            [
+              "OP-02 Paramount War",
+              "$206.42",
+              "$388.38",
+              "$181.96",
+              "$8.60",
+              "$16.18"
+            ],
+            [
+              "OP-03 Pillars of Strength",
+              "$175.78",
+              "$577.68",
+              "$401.90",
+              "$7.32",
+              "$24.07"
+            ],
+            [
+              "OP-04 Kingdoms of Intrigue",
+              "$186.59",
+              "$539.59",
+              "$353.00",
+              "$7.77",
+              "$22.48"
+            ],
+            [
+              "OP-05 Awakening of the New Era",
+              "$186.61",
+              "$496.80",
+              "$310.19",
+              "$7.78",
+              "$20.70"
+            ],
+            [
+              "OP-06 Wings of the Captain",
+              "$165.86",
+              "$470.90",
+              "$305.04",
+              "$6.91",
+              "$19.62"
+            ],
+            [
+              "OP-07 500 Years in the Future",
+              "$134.32",
+              "$350.48",
+              "$216.16",
+              "$5.60",
+              "$14.60"
+            ],
+            [
+              "OP-08 Two Legends",
+              "$98.26",
+              "$243.12",
+              "$144.86",
+              "$4.09",
+              "$10.13"
+            ],
+            [
+              "OP-09 Emperors in the New World",
+              "$175.78",
+              "$431.78",
+              "$256.00",
+              "$7.32",
+              "$17.99"
+            ],
+            [
+              "OP-10 Royal Blood",
+              "$98.26",
+              "$143.47",
+              "$45.21",
+              "$4.09",
+              "$5.98"
+            ],
+            [
+              "OP-11 A Fist of Divine Speed",
+              "$181.21",
+              "$389.32",
+              "$208.11",
+              "$7.55",
+              "$16.22"
+            ],
+            [
+              "OP-12 Legacy of the Master",
+              "$129.79",
+              "$130.05",
+              "$0.26",
+              "$5.41",
+              "$5.42"
+            ],
+            [
+              "OP-13 Carrying On His Will",
+              "$135.00",
+              "$248.40",
+              "$113.40",
+              "$5.63",
+              "$10.35"
+            ],
+            [
+              "OP-14 Azure Seas Seven",
+              "$98.26",
+              "$217.11",
+              "$118.85",
+              "$4.09",
+              "$9.05"
+            ],
+            [
+              "OP-15 Adventure on KAMI's Island",
+              "$69.48",
+              "$213.22",
+              "$143.74",
+              "$2.90",
+              "$8.88"
+            ],
+            [
+              "OP-16 The Time of Battle",
+              "$105.00",
+              "$172.04",
+              "$67.04",
+              "$4.38",
+              "$7.17"
+            ],
+            [
+              "OP-17 Worlds Strongest Warriors",
+              "$121.28",
+              "$169.67",
+              "$48.39",
+              "$5.05",
+              "$7.07"
+            ],
+            [
+              "OP-18 The Dominance of God",
+              "$84.00 (pre-order)",
+              "Not stocked (case $1,336.65)",
+              "—",
+              "$3.50",
+              "—"
+            ],
+            [
+              "EB-01 Memorial Collection",
+              "$155.04",
+              "$632.48",
+              "$477.44",
+              "$6.46",
+              "$26.35"
+            ],
+            [
+              "EB-02 Anime 25th Collection",
+              "$178.86",
+              "$221.36",
+              "$42.50",
+              "$7.45",
+              "$9.22"
+            ],
+            [
+              "EB-03 Heroines Edition",
+              "$155.04",
+              "$196.80",
+              "$41.76",
+              "$6.46",
+              "$8.20"
+            ],
+            [
+              "EB-04 Egghead Crisis",
+              "$91.03",
+              "Not stocked (EN case $2,038.92, no count printed)",
+              "—",
+              "$3.79",
+              "—"
+            ],
+            [
+              "EB-05 Heroines Edition vol.2",
+              "Not stocked",
+              "Not stocked (EN case $1,391.04, no count printed)",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "PRB-01 The Best",
+              "$149.63",
+              "$433.56",
+              "$283.93",
+              "Per box only",
+              "Per box only"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "$74.82",
+              "$184.74",
+              "$109.92",
+              "Per box only",
+              "Per box only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top results miss: the case is not a discount in Japanese",
+        "note": "From the Warehouse: the question we get most about One Piece prices is whether to buy the Japanese box or the English box, and the answer is almost always the Japanese box — except when it is not. The exception is the player who needs English cards for an event, and the collector who wants the English printing itself. The price gap is not a quality gap. The cards play the same game. What the buyer is paying for in English is the printing, the language, and the thinner supply — and on EB-01 that costs $477.44 a box.",
+        "paragraphs": [
+          "The top results for this question price Japanese boxes, or they price Japanese against English packs. Samurai Sword Tokyo lists the Japanese sealed boxes OP-01 through OP-17 with EB and PRB, and compares Japanese and English pack prices from the official product pages: ¥220 to ¥240 a pack in Japanese, $4.99 in English. None of them runs the case division in either language, and none of them shows the JP-versus-EN gap for every set in one table. The case division is the missing piece: it is the difference between paying $1,985.38 for twelve OP-02 boxes and paying $2,477.04 for twelve singles, and between paying $5,425.18 for twelve English OP-03 boxes and $6,932.16 for twelve singles.",
+          "The second missing piece is the English case. Every English case with a printed box count saves money against twelve singles, from $18.91 a box on OP-12 to $125.58 on OP-03. No top result says that, because no top result divides an English case. The Japanese case is the opposite story, and it is the one buyers get wrong: eleven Japanese cases cost more per box than the single beside them, and the buyer who assumes a case is a discount pays extra for the privilege of buying twelve."
+        ]
+      },
+      {
+        "h": "The risk layer: pre-orders, the EB-01 gap, and the missing counts",
+        "paragraphs": [
+          "OP-18 is a pre-order in both languages, and pre-orders carry the risk that the price moves before release. The Japanese box is $84 and the Japanese case $906; the English case is $1,336.65 with no single box stocked. If the English single appears after release, its price is unknown today, and the $111.39 case-split figure is the only English per-box number that exists. The recovery is patience: the pre-order price is a price, not a promise, and the shelf reprices.",
+          "EB-01 is the gap risk. At $632.48 the English box is 4.08 times the Japanese box, and the English case is $6,831.59 with no box count printed — no per-box division is possible, and no saving can be claimed. A buyer who pays English prices for EB-01 is paying for the scarcest English Extra Booster, and scarcity is the one premium a reprint or a restock can remove. The Japanese EB-01 box at $155.04 is the same cards for a quarter of the price.",
+          "The missing counts are the third risk, and they are stated plainly wherever they bite. The English EB-01, EB-02, EB-03, EB-04 and EB-05 cases and the English PRB-02 case print no box count, so no per-box figure is run for them here. The Japanese EB-01 through EB-03 cases print 12 boxes, and PRB-02 prints 20. A guide that divides a case without a printed count is guessing, and this page does not guess."
+        ]
+      },
+      {
+        "h": "Context: pack prices, release order, and the 144-card box",
+        "paragraphs": [
+          "The official anchors are the pack prices. Japanese packs moved from ¥220 to ¥240 between OP-16, released May 30, 2026, and OP-17, released August 22, 2026; English packs print $4.99 throughout. A Japanese box at list is 24 packs times ¥220, ¥5,280, or $34.29 at ¥154 to the dollar — and the cheapest Japanese box on the shelf, OP-15 at $69.48, is 2.03 times list. The shelf premium is age and scarcity, not pack math.",
+          "Release order explains the ladder. OP-01 Romance Dawn is the first set and the dearest Japanese box at $238.45; OP-15 is recent and the cheapest at $69.48. The English ladder runs the same way, steepened: OP-01 is $444.36 in English, OP-12 is $130.05. The sets that closed the gap are the recent ones — OP-12, OP-17, OP-10, OP-16 — because English supply is still deep on them. The sets with the widest gaps are the ones whose English supply thinned first.",
+          "The 144-card box is the unit that makes the comparison honest. A standard box in either language holds 24 packs of 6 cards. Compare cost per card, never cost per pack, and never compare a Japanese box against an English case. The Premium Boosters break the rule: Bandai prints no packs-per-box figure for PRB-01 or PRB-02, so they are priced per box only, $149.63 and $74.82 in Japanese, $433.56 and $184.74 in English."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone pricing a single card. A Manga Rare or a Comic Parallel is a sold-listing question, and no sealed price here answers it. It is not for anyone who needs the Japanese set for sanctioned play outside Japan, or the English set for play in Japan — the language rule at an event is the organiser's. And it is not for the buyer who wants the cheapest One Piece product of any kind: the cheapest is the Japanese OP-15 box at $69.48, and if the game itself does not matter, the [best Japanese booster box guide](/blog/best-japanese-booster-box-to-buy/) compares all four games by budget.",
+          "It is for the buyer who has picked a set and a language and wants the price of both, the case division, and the gap — in one place, dated, with the divisions shown."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the set first, then the language: the gap is $0.26 on OP-12 and $477.44 on EB-01.",
+          "Divide the case before you pay: Japanese cases usually save nothing; English cases save $18.91 to $125.58 a box.",
+          "Never divide a case with no printed box count — EB-01, EB-02, EB-03, EB-04, EB-05 and PRB-02 in English print none.",
+          "Price PRB per box only: Bandai prints no packs-per-box figure for the Premium Boosters.",
+          "Check the pre-order date on OP-18: Japanese November 21, 2026, English November 20, 2026.",
+          "Compare per card, never per pack: a standard box is 24 packs of 6 cards, 144 cards, in both languages.",
+          "Add $500 for free shipping: the cheapest Japanese box needs $430.52 more in the cart.",
+          "Check the shelf price on the day: English OP-17 and OP-12 both fell exactly 20.0% in under a week."
+        ],
+        "h": "Action layer: the One Piece price checklist",
+        "paragraphs": [
+          "Work the list in order, and the gap stops being a surprise."
+        ]
+      }
+    ],
+    "slug": "japanese-one-piece-cards-price",
+    "takeaway": [
+      "All 24 Japanese boxes are $3,394.77 and all 22 English boxes are $7,295.31 — English costs 2.15 times Japanese for the same sets. The gap runs $0.26 on OP-12 to $477.44 on EB-01, and it is widest on the oldest sets.",
+      "English cases save $13,113.53 against twelve singles across the sixteen sets with printed box counts; Japanese cases save real money on two sets only, OP-02 and OP-03, and eleven Japanese cases cost more per box than the single beside them.",
+      "OP-18 is a pre-order in both languages — Japanese box $84, Japanese case $75.50 a box, English case $111.39 a box with no single stocked — and English OP-17 and OP-12 both fell exactly 20.0% in under a week. For the Japanese boxes alone, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all 24; for the English boxes alone, the [English One Piece booster box prices](/blog/english-one-piece-booster-box-price/) divides all 22."
+    ]
+  },
   "japanese-pokemon-booster-box-price": {
     "datePublished": "2026-11-06",
     "faqs": [
@@ -16324,6 +16668,192 @@ export const POSTS: Record<string, BlogPost> = {
       "For the dearest box on this board in depth, the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the $471.20 box against a case that saves $1,845.08.",
       "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) prices the floor box by box, from Rebellion Crash at $43.03 to the sixteen cheapest under $95, with per-pack and per-card math for each.",
       "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases."
+    ]
+  },
+  "japanese-pokemon-cards-price": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "The SI Start Deck 100 at $8.93, a fixed 60-card deck at $0.15 a card. The cheapest booster box is s2 Rebellion Crash at $43.03, $1.43 a pack and $0.29 a card. The cheapest sealed case is M1S Mega Symphonia at $773.15, $64.43 a box. All three are different answers because they are different formats, and the deck is the cheapest way to own cards at all.",
+        "q": "What is the cheapest Japanese Pokémon card product on this shelf?"
+      },
+      {
+        "a": "M3 Munikis Zero, SV11W White Flare, SV11B Black Bolt and M6a 30th Celebration each rose exactly 20.0% between October 24 and November 10, 2026 — $58.85 to $70.62, $139.77 to $167.72, $152.65 to $183.18, and $207.50 to $249.00. That is a shelf repricing across four lines at once, not four separate market moves. Other boxes, including the cheapest and dearest, did not move in the same window. Prices here are dated November 10, 2026; check the shelf again before paying.",
+        "q": "Why did four Pokémon boxes rise 20% in November 2026?"
+      },
+      {
+        "a": "They are priced as objects, not as cards. The Stamp Box at $3,784.78, the Eevee Heroes Gym Set at $3,014.21 and the Kanazawa Special Box at $1,417.33 sell on the box, the promo and the occasion — the regional Special Boxes sell at 12 to 16 times their ¥2,090 launch price. No pack or card count is printed for them, so no per-card value can be run. Buy one to keep it, not to open it for value.",
+        "q": "Are the premium Pokémon boxes worth their prices?"
+      }
+    ],
+    "h1": "Japanese Pokémon Cards Prices, Priced",
+    "intro": [
+      "Short answer: every Japanese Pokémon card price on the Warehouse shelf, in one place, as of November 10, 2026. All 90 booster boxes run $43.03 to $3,924.12, all 40 booster cases $773.15 to $4,043.47, the eight starter and deck products $8.93 to $39.04, and five premium boxes the price guides have never priced — the Stamp Box at $3,784.78, the Eevee Heroes Gym Set at $3,014.21, the Kanazawa Special Box at $1,417.33, the Yokohama World Championships deck at $456.10, and the Came Classic at $353.50 — add $9,025.92 of stock no guide has divided. The whole Pokémon shelf is 161 products for $119,804.82.",
+      "This guide is for buyers who want the price of every format before they choose one: openers comparing a box against a starter deck, sealed holders weighing a case, collectors hunting the premium boxes. It is not for anyone chasing a single card's market price — that is a different question, answered by sold listings, not by a sealed shelf — and it is not for anyone who needs English cards for sanctioned play outside Japan."
+    ],
+    "metaDescription": "Every Japanese Pokémon card price on one shelf: 90 boxes, 40 cases, starters, and the five premium boxes no guide prices.",
+    "metaTitle": "Japanese Pokémon Cards Prices, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "Buy by format, not by set. The cheapest way into sealed Pokémon on this shelf is the s2 Rebellion Crash box at $43.03, $1.43 a pack, $0.29 a card — the floor of the whole 90-box ladder. The cheapest way to play tonight is the SI Start Deck 100 at $8.93, a fixed 60-card deck at $0.15 a card. The cheapest sealed case is M1S Mega Symphonia at $773.15, which divides to $64.43 a box against the $84.97 single. The dearest single item is the Pokémon Stamp Box at $3,784.78, and the dearest box is SM7 Sky-Splitting Charisma at $3,924.12, $130.80 a pack.",
+          "The ladder behind those anchors: 90 boxes total $41,700.52, an average of $463.34 a box and a median of $199.18 — half the boxes cost more than $199.18, half less. The 40 booster cases total $62,780.02, an average of $1,569.50 a case. Starters and deck products run $8.93 to $39.04, special sets $136.06 to $476.16, and the premium and Centre boxes $101.47 to $3,784.78. Every figure below is a Warehouse shelf price as of November 10, 2026, with every division shown.",
+          "One pattern first, because it changes how to read every price on this page: four boxes we priced on October 24 are all exactly 20.0% higher on November 10. M3 Munikis Zero went $58.85 to $70.62, SV11W White Flare $139.77 to $167.72, SV11B Black Bolt $152.65 to $183.18, and M6a 30th Celebration $207.50 to $249.00. That is a shelf repricing, not a market move on four unrelated sets, and it is why every price here carries its date."
+        ]
+      },
+      {
+        "h": "The money layer: the whole shelf, divided",
+        "math": [
+          "All 90 boxes: $41,700.52 ÷ 90 = $463.34 average; median $199.18",
+          "Cheapest box s2: $43.03 ÷ 30 packs = $1.43/pack; $43.03 ÷ 150 cards = $0.29/card",
+          "M3: $70.62 ÷ 30 = $2.35/pack; $70.62 ÷ 150 = $0.47/card; $70.62 ÷ $58.85 = 1.20 (+20.0% vs Oct 24)",
+          "M6: $82.80 ÷ 30 = $2.76/pack; M1S and SV9: $84.97 ÷ 30 = $2.83/pack; $84.97 ÷ 150 = $0.57/card",
+          "SV11W: $167.72 ÷ 140 cards = $1.20/card; SV11B: $183.18 ÷ 140 = $1.31/card; M6a: $249.00 ÷ 120 = $2.08/card",
+          "Dearest box SM7: $3,924.12 ÷ 30 = $130.80/pack; $3,924.12 ÷ 150 = $26.16/card",
+          "Box spread: $3,924.12 − $43.03 = $3,881.09; $3,924.12 ÷ $43.03 = 91.19x",
+          "All 40 booster cases: $62,780.02 ÷ 40 = $1,569.50 average",
+          "SV11B case: $991.73 ÷ 12 = $82.64/box; $183.18 − $82.64 = $100.54 saved/box; $100.54 × 12 = $1,206.48/case",
+          "SV11W case: $892.12 ÷ 12 = $74.34/box; $167.72 − $74.34 = $93.38 saved/box",
+          "M2 case: $1,333.69 ÷ 12 = $111.14/box; $183.18 − $111.14 = $72.04 saved/box",
+          "M1S case: $773.15 ÷ 12 = $64.43/box; $84.97 − $64.43 = $20.54 saved/box; 12 × $84.97 = $1,019.64; $1,019.64 − $773.15 = $246.49/case",
+          "Dearest case S8b: $4,043.47 ÷ 20 = $202.17/box",
+          "M3 case trap: $1,048.24 ÷ 12 = $87.35/box; $87.35 − $70.62 = $16.73 more than the single",
+          "SV5a case trap: $1,303.24 ÷ 12 = $108.60/box; $108.60 − $107.04 = $1.56 more than the single",
+          "All 27 matched cases vs singles: $9,655.96 saved in total",
+          "Starters: SI $8.93 ÷ 60 = $0.15/card; Diancie $11.15 ÷ 60 = $0.19/card; Gengar $24.54 ÷ 60 = $0.41/card; $24.54 − $11.15 = $13.39 character premium",
+          "SV9 Deck Build: $31.21 ÷ 171 = $0.18/card; Generations Battle Set: $33.46 ÷ 240 = $0.14/card; Start Deck 100 Battle Collection: $26.77 ÷ 60 = $0.45/card",
+          "Cheapest two-deck start: $8.93 + $11.15 = $20.08",
+          "Five new premium boxes: $3,784.78 + $3,014.21 + $1,417.33 + $456.10 + $353.50 = $9,025.92; $9,025.92 ÷ $41,700.52 = 21.64%",
+          "Stamp Box vs cheapest box: $3,784.78 ÷ $43.03 = 87.96x; vs Golden Box: $3,784.78 − $2,192.35 = $1,592.43",
+          "Regional boxes vs launch ¥2,090 ($13.57 at ¥154): Tohoku $161.70 ÷ $13.57 = 11.91x; Fukuoka $199.62 ÷ $13.57 = 14.71x; Hiroshima $215.22 ÷ $13.57 = 15.86x",
+          "Whole shelf: 161 products $119,804.82; boxes + booster cases $41,700.52 + $62,780.02 = $104,480.54; starters, specials, premium and promos $15,324.28",
+          "Free shipping $500: cheapest box needs $500.00 − $43.03 = $456.97 more; cheapest case $773.15 clears alone",
+          "Official list anchor: ¥6,000 ÷ ¥154 = $38.96 a box; s2 $43.03 − $38.96 = $4.07 over list; M3 $70.62 − $38.96 = $31.66 over list"
+        ],
+        "paragraphs": [
+          "Start with the boxes, because they are most of the shelf. Ninety booster boxes, $41,700.52 if every one were bought, $463.34 on average. The floor is the [s2 Rebellion Crash box](/product/rebellion-crash-booster-box-s2-japanese-pokemon-cards/) at $43.03. A standard Japanese box holds 30 packs of 5 cards, 150 cards, so $43.03 divides to $1.43 a pack and $0.29 a card. The next three rungs are the [M3 Munikis Zero box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $70.62 ($2.35 a pack, $0.47 a card), M6 Storm Emeralda at $82.80 ($2.76 a pack), and M1S Mega Symphonia and SV9 Battle Partners, both $84.97 ($2.83 a pack, $0.57 a card). The ceiling is the [SM7 Sky-Splitting Charisma box](/product/sm7-sky-splitting-charisma-booster-box-japanese-pokemon-card/) at $3,924.12, $130.80 a pack and $26.16 a card — 91.19 times the floor.",
+          "Three boxes have verified structures that are not the standard 30-pack box, and their per-card figures are the honest ones to quote. SV11W White Flare is 20 packs of 7 cards, 140 cards, so $167.72 divides to $1.20 a card. SV11B Black Bolt is the same structure, $183.18 to $1.31 a card. M6a 30th Celebration is 20 packs of 6 cards, all holographic, 120 cards, so $249.00 divides to $2.08 a card. Those three were $1.00, $1.09 and $1.73 a card on October 24; the repricing moved all three.",
+          "Cases divide differently, and on Pokémon they mostly save real money — the opposite of the One Piece pattern. Twenty-seven cases match a stocked single box, and 25 of them save money. The biggest saving is SV11B Black Bolt: the case is $991.73 for 12 boxes, $82.64 a box, against the $183.18 single — $100.54 saved per box, $1,206.48 on the case. SV11W White Flare saves $93.38 a box, M2 Inferno X $72.04, SV8 Super Electric Breaker $61.90, SV10 Glory of Team Rocket $61.21. Thirteen cases save more than $20 a box, and buying all 27 matched cases instead of their singles saves $9,655.96 in total. The two exceptions are SV5a Crimson Haze, up $1.56 a box, and M3 Munikis Zero, up $16.73 a box — both flagged for the owner to check. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) runs the case-by-case division; the point here is the shape: cases on this shelf are a bulk buy that usually pays, and the saving is biggest on the newest sets.",
+          "The starter and deck products are the cheapest cards on the shelf by the card, and the comparison is the one that decides most first purchases. The [SI Start Deck 100](/product/si-start-deck-100-japanese-pokemon-card/) is $8.93 for a fixed 60-card deck, $0.15 a card. The [Mega Diancie ex starter](/product/starter-set-mega-mega-diancie-ex-mbd-japanese-pokemon-card/) is $11.15, $0.19 a card, and the Mega Gengar ex starter is $24.54, $0.41 a card — the same 60 cards at two prices, a $13.39 character premium. The SV9 Deck Build Box is $31.21 for 171 cards, $0.18 a card, and the Generations Special Battle Set is $33.46 for 240 cards, $0.14 a card — the cheapest per-card sealed product on the shelf. The cheapest two-deck start is $20.08, the SI deck plus Diancie. Against those, the cheapest booster box is $0.29 a card — just over twice the cheapest deck — and the median box is $1.33 a card, over nine times the cheapest deck. The [best Japanese Pokémon starter deck guide](/blog/best-japanese-pokemon-starter-deck/) prices all eight; the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box/) prices all 90 boxes.",
+          "The premium boxes are where this page earns its keep, because five of them have never been priced on this blog. The [Pokémon Stamp Box](/product/pokemon-stamp-box-complete-set-beauty-looking-back-cramorant-set-on-the-moon-jap/) is $3,784.78, the dearest single Pokémon product on the shelf — 87.96 times the cheapest box, and $1,592.43 more than the [25th Anniversary Golden Box](/product/25th-anniversary-golden-box-japanese-pokemon-card/) at $2,192.35. The [S6a Eevee Heroes Gym Set](/product/s6a-eevee-heroes-eevees-gym-set-japanese-pokemon-card/) is $3,014.21. The [Kanazawa Special Box](/product/kanazawa-special-box-japanese-pokemon-card/) is $1,417.33. The [World Championships 2023 Yokohama Deck, Pikachu](/product/pokemon-world-championships-2023-yokohama-deck-pikachu-japanese-pokemon-card/), is $456.10. The [Pokémon Card Came Classic](/product/pokemon-card-came-classic-japanese-pokemon-card/) is $353.50. Together the five are $9,025.92, 21.64% of what all 90 booster boxes cost combined. None divides to a per-pack or per-card figure here, because none prints a pack or card count — they are priced as sets.",
+          "The rest of the premium shelf is priced already. The three regional Pokémon Center Special Boxes launched at the same official price, ¥2,090, which is $13.57 at ¥154 to the dollar — and now sell at $161.70 for Tohoku, $199.62 for Fukuoka and $215.22 for Hiroshima, which is 11.91, 14.71 and 15.86 times launch. The 25th Anniversary Collection Special Set is $476.16 and the Pokémon GO Special Set is $136.06. The [Precious Collector Box](/product/precious-collector-box-japanese-japanese-pokemon-card/) is $565.38. The three sealed promo packs are $21.18, $43.49 and $49.07. The whole Pokémon shelf, 161 products, is $119,804.82. Free shipping starts at $500, so the cheapest box needs $456.97 more in the cart, while the cheapest case clears the line on its own."
+        ]
+      },
+      {
+        "h": "The decision layer: six formats, one table",
+        "paragraphs": [
+          "Read the table by what you are buying, not by what is cheapest. A box is the only format that gives randomised packs; a starter deck is the only format that gives a playable deck; a case is the only format that gives twelve or twenty boxes at once; a premium box is the only format that gives the box itself as the collectible.",
+          "The trap in the table is the case row. A case looks like a discount because the number is bigger, and on Pokémon it usually is one — 25 of the 27 matched cases save money, and thirteen save more than $20 a box. But two cases cost more per box than the single beside them, SV5a and M3, and the saving is biggest on the newest sets. Buy the case to hold many boxes, check the division, and never assume the case is cheaper."
+        ],
+        "table": {
+          "head": [
+            "Format",
+            "Products on shelf",
+            "Cheapest",
+            "Dearest",
+            "Per-pack / per-card anchor"
+          ],
+          "rows": [
+            [
+              "Booster box",
+              "90",
+              "s2 Rebellion Crash $43.03",
+              "SM7 Sky-Splitting Charisma $3,924.12",
+              "$1.43/pack, $0.29/card to $130.80/pack, $26.16/card"
+            ],
+            [
+              "Sealed case",
+              "40 booster cases",
+              "M1S Mega Symphonia $773.15",
+              "S8b VMAX Climax $4,043.47",
+              "$64.43/box to $202.17/box; 25 of 27 matched cases save vs single"
+            ],
+            [
+              "Starter deck & Deck Build Box",
+              "8",
+              "SI Start Deck 100 $8.93",
+              "SV3 Deck Build Box $39.04",
+              "$0.14/card to $0.45/card"
+            ],
+            [
+              "Special set",
+              "2",
+              "Pokémon GO S10b $136.06",
+              "25th Anniversary Collection $476.16",
+              "Priced as a set; no pack division"
+            ],
+            [
+              "Premium & Centre box",
+              "16",
+              "Premium Trainer Rapid Strike $101.47",
+              "Stamp Box $3,784.78",
+              "Priced as a set; contents vary"
+            ],
+            [
+              "Promo pack",
+              "3",
+              "Iono's Wattrel $21.18",
+              "SV9a Illustration Contest $49.07",
+              "$21.18 to $49.07 a pack"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top results miss: the five boxes nobody prices",
+        "note": "From the Warehouse: the question we get most about Pokémon prices is not which box is cheapest — it is whether the expensive boxes are worth it. The honest answer is that the shelf has two different markets in it. The boxes are priced to open, and the premium boxes are priced to keep. A buyer who pays $3,784.78 for the Stamp Box expecting packs has bought the wrong product; a buyer who pays $43.03 for s2 expecting a chase card has bought the wrong product too. The price is only the first half of the decision.",
+        "paragraphs": [
+          "The top results for this question price single cards, or they price one box at official retail. Estimonia's value guide prices vintage singles from PriceCharting. Tokyo Card Report and Neokyo compare Japanese and English packs at official prices, ¥200 a pack against $4.49. None of them prices a sealed case, a starter deck, or a premium box from a live shelf — and none of them prices the Stamp Box, the Eevee Heroes Gym Set, the Kanazawa box, the Yokohama deck, or the Came Classic at all. Those five are $9,025.92 of stock with no price anywhere but the shelf itself until now.",
+          "The second thing the top results miss is the repricing. Four boxes moved exactly 20.0% in seventeen days. A guide that quotes October prices as current is wrong on the shelf today, and a buyer who budgets from an old guide arrives $11.77 short on M3 alone. Every price on this page is dated November 10, 2026 for exactly that reason."
+        ]
+      },
+      {
+        "h": "The risk layer: the 20% repricing, reprints, and the case trap",
+        "paragraphs": [
+          "The repricing is the risk to name first. Four boxes rose exactly 20.0% between October 24 and November 10. Nothing in the data says the rise stops there, and nothing says it applies to the next box you buy — s2 Rebellion Crash and SM7 Sky-Splitting Charisma are unchanged at $43.03 and $3,924.12 across the same window. Budget from the price on the shelf today, not from a guide, and check the price again at checkout.",
+          "Reprints are the second risk. Japanese sets reprint routinely, and a reprint collapses the premium on a box that was scarce last month. The boxes most exposed are the dearest ones: SM7 at $3,924.12, Blue Sky Stream at $2,586.65, Miracle Twin at $1,867.15. A sealed holder pays for scarcity that a reprint can remove overnight: buy the box to open, or buy it knowing the premium is a bet, not a fact.",
+          "The case trap is the third, and it is smaller than buyers fear but real. Two of the 27 matched cases cost more per box than the single: SV5a Crimson Haze by $1.56 a box and M3 Munikis Zero by $16.73 a box. Both are flagged for the owner to check. The SV11B and SV11W case gaps are the opposite extreme — $100.54 and $93.38 saved per box — and those are large enough to check too, because a case at less than half the single-box price per box may be a stale case price. The recovery is the same division before payment: case price by the printed box count, against the single-box price the same day."
+        ]
+      },
+      {
+        "h": "Context: why Japanese cards cost what they cost",
+        "paragraphs": [
+          "The official anchor is the pack. A standard Japanese expansion pack is ¥200 for 5 cards, ¥40 a card, and a standard box is ¥6,000 for 30 packs — $38.96 at ¥154 to the dollar. The cheapest box on the shelf, s2 at $43.03, is $4.07 over list. M3 at $70.62 is $31.66 over list. The shelf premium is the gap between list and street, and it grows with age and scarcity.",
+          "The English comparison sets the scale. An English booster is $4.49 for 10 cards at Pokémon Center, about $0.45 a card, against ¥40 a card — about $0.26 — for a Japanese pack at list. Japanese cards are cheaper per card at list, and usually cheaper per card on the shelf too: the median Japanese box is $1.33 a card, and the cheapest deck is $0.14 a card. The exception is the top chase tier, where Japanese gold cards sell for more than their English equivalents — the reason a box is never a reliable way to buy a chase card.",
+          "The premium boxes sit outside that logic entirely. The Stamp Box, the Golden Box, the Kanazawa box and the regional Special Boxes are priced as objects, not as cards: the box, the promo, the region, the anniversary. Their prices move on collector demand, not pack math, which is why the regional boxes sell at 12 to 16 times their ¥2,090 launch price."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone buying a single card. A single card's price is a sold-listing question, and no sealed price on this page answers it. It is not for anyone who needs English cards for sanctioned play outside Japan — Japanese cards are printed for the Japanese scene, and the language rule at an event is the organiser's, not the shelf's. And it is not for anyone deciding between Japanese and English boxes on price alone: the English boxes are a different shelf.",
+          "It is also not for the buyer who wants one number. There is no single price for Japanese Pokémon cards. There are six formats, 161 products, and a $3,881.09 spread between the cheapest and dearest box. The right question is which format, and this page answers that one."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the format first: deck to play, box to open, case to hold, premium box to keep.",
+          "Check the price on the shelf today — four boxes moved 20.0% in seventeen days.",
+          "Divide before you pay: box by 30 packs, case by its printed box count, deck by its card count.",
+          "Compare the case division against the single-box price on the same day.",
+          "Do not divide a premium box: no pack or card count is printed, so any per-card figure is invented.",
+          "Check the structure before trusting a per-card figure: standard boxes are 30 packs of 5; SV11B and SV11W are 20 packs of 7; M6a is 20 packs of 6.",
+          "Add $500 for free shipping: a single box under $500 does not clear the line alone.",
+          "Read the contents line on any box with Special Box in the name — some hold supplies and a promo, not packs."
+        ],
+        "h": "Action layer: the Pokémon price checklist",
+        "paragraphs": [
+          "Work the list in order, and the price stops being a guess."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-cards-price",
+    "takeaway": [
+      "The whole Pokémon shelf is 161 products for $119,804.82: 90 boxes $43.03 to $3,924.12, 40 booster cases $773.15 to $4,043.47, eight starter and deck products $8.93 to $39.04, and premium boxes to $3,784.78. The cheapest card on the shelf is $0.14, in the Generations Special Battle Set.",
+      "Five premium boxes are priced here for the first time anywhere on the blog — the Stamp Box $3,784.78, the Eevee Heroes Gym Set $3,014.21, the Kanazawa Special Box $1,417.33, the Yokohama deck $456.10 and the Came Classic $353.50, $9,025.92 together — and none of them divides to a per-card figure, because no count is printed.",
+      "Four boxes rose exactly 20.0% between October 24 and November 10, and the case usually pays on Pokémon: 25 of 27 matched cases save money, thirteen by more than $20 a box, $9,655.96 in total. Divide before you pay, and check the price on the day. For the box-by-box ladder, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box/) divides all 90; for the cases, the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) runs each division."
     ]
   },
   "japanese-pokemon-cards-wholesale-buyers-guide": {
