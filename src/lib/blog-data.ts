@@ -1098,7 +1098,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. Weighing Lorcana against another game? [which TCG should you start](/blog/which-tcg-should-you-start/) compares real first-box costs. And if a case lands and the seal starts calling, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment.",
       "New to sealed buying? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience. Buying the case itself, not just the box? The [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) covers split math, the Enchanted distribution per case, and the Japanese case trap.",
       "New this cycle: the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) ranks all fourteen English cases plus the Japanese First Chapter case on one ladder, from $2.35 a pack to $18.20.",
-      "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen sets' sealed cases to the pack: $4.83 for Reign of Jafar, $7.50 for Hyperia City, and $18.20 for The First Chapter."
+      "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen sets' sealed cases to the pack: $4.83 for Reign of Jafar, $7.50 for Hyperia City, and $18.20 for The First Chapter.",
+      "For the case math behind the box pick, the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) divides all fifteen cases, including the Japanese First Chapter case at $37.60 a box."
     ]
   },
   "best-disney-lorcana-booster-pack": {
@@ -1766,7 +1767,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Still weighing the box against the case? The [Lorcana box guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks the same fourteen cases by buyer, and [the case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on the shelf.",
       "Also see the [companion guide](/blog/best-disney-lorcana-japanese/) for the wider comparison.",
       "Also see the [companion guide](/blog/best-sealed-tcg-products-japan/) for the wider comparison.",
-      "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every sealed case to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter."
+      "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every sealed case to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter.",
+      "Every case divided: the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) runs all fifteen cases, per box, per pack and per card, with five English cases below list."
     ]
   },
   "best-dragon-ball-fusion-world-booster-box": {
@@ -3496,7 +3498,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 8, 2026, the Warehouse Dragon Ball shelf holds three games, not one. Fusion World Japanese boxes run $26.02 to $64.12, or $1.08 to $2.67 a pack. Masters English cases divide to $102.93 to $776.25 a box, with B25 the cheapest and B27 the dearest. Manga Booster Japanese boxes are $57.61, while the English SB01 case is $26,910.00, or $2,242.50 a box.",
       "Prices move; the method does not. Choose the game first, divide the case in that game, and never budget for a product the shelf does not stock.",
-      "For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the English case ladder, see [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/). For Masters alone, see [Best Dragon Ball Masters Booster Box to Buy](/blog/best-dragon-ball-masters-booster-box-to-buy/). For the whole Japanese shelf as one dated board, see [Best Japanese TCG to Buy in 2026](/blog/best-japanese-tcg/). The [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) divides every product on the shelf, per box, per pack and per card."
+      "For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the English case ladder, see [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/). For Masters alone, see [Best Dragon Ball Masters Booster Box to Buy](/blog/best-dragon-ball-masters-booster-box-to-buy/). For the whole Japanese shelf as one dated board, see [Best Japanese TCG to Buy in 2026](/blog/best-japanese-tcg/). The [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) divides every product on the shelf, per box, per pack and per card.",
+      "For every channel that sells Japanese Dragon Ball, the [where to buy guide](/blog/where-to-buy-dragon-ball-tcg-japan/) prices the Warehouse shelf, Japan Figure, TikTok Shop, SNKRDUNK asks and the Buyee proxy route, divided per pack."
     ]
   },
   "best-english-one-piece-booster-box-to-buy": {
@@ -12335,6 +12338,210 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our case prices as of November 10, 2026, the TCGplayer market price as of October 22, 2026, and the UK and Australian listings as of November 10, 2026. A case price divided by four is the only box price we offer, and a market price without a date is stale on arrival."
     ]
   },
+  "disney-lorcana-sealed-case-price": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "The Japanese First Chapter case at $564.07, which divides to $37.60 a box, $1.57 a pack and $0.13 a card. The cheapest English case is Reign of Jafar at $463.45, $115.86 a box, $4.83 a pack and $0.40 a card. The Japanese case is cheaper per box because it holds fifteen boxes and carries Japanese cards.",
+        "q": "What is the cheapest Disney Lorcana sealed case?"
+      },
+      {
+        "a": "Four boxes in every English case, 24 packs per box and 12 cards per pack, so 96 packs and 1,152 cards per case. The Japanese First Chapter case is different: fifteen boxes, 360 packs and 4,320 cards. The store stocks no single Lorcana boxes, only sealed cases.",
+        "q": "How many booster boxes are in a Disney Lorcana sealed case?"
+      },
+      {
+        "a": "It depends on the set. Five of the fourteen English cases divide below the US list price of a four-box case, $575.04: Jafar, Azurite Sea, Ursula's Return, Rise of the Floodborn and Into the Inklands. The other nine divide above list, up to $1,172.33 above it for the English First Chapter case. Divide the case before paying; the format alone does not save money.",
+        "q": "Is a Lorcana case cheaper than buying four boxes?"
+      }
+    ],
+    "h1": "Disney Lorcana Sealed Case Prices: Full Index",
+    "intro": [
+      "Short answer: fifteen Disney Lorcana sealed cases sit on the Warehouse shelf as of November 10, 2026, $11,951.35 for the whole ladder. The cheapest way into a Lorcana case is the Japanese First Chapter case at $564.07, $37.60 a box, and the cheapest English case is Reign of Jafar at $463.45, $115.86 a box. The dearest is the English First Chapter case at $1,747.37, $436.84 a box. Every figure below is a live Warehouse price, divided per box, per pack and per card so you can check it.",
+      "This index is for the buyer who has picked Lorcana and wants the price of every sealed case on the shelf, Set 1 to Set 14 plus the one Japanese case, divided. It is not a ranking: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy, the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks the boxes, and the [Disney Lorcana booster box price page](/blog/disney-lorcana-booster-box-price/) prices the boxes. This page answers the question those three do not: what does each sealed case actually cost, divided."
+    ],
+    "metaDescription": "Every Disney Lorcana sealed case on the Warehouse shelf divided: all 14 English cases and the Japanese First Chapter case, per box, per pack, per card.",
+    "metaTitle": "Disney Lorcana Sealed Case Prices: Full Index",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by set",
+        "paragraphs": [
+          "The shelf splits two ways, and the cheapest row of each split is the story. The Japanese split is one case: the [Japanese First Chapter case](/product/disney-lorcana-tcg-japanese-edition-booster-the-first-chapter-the-beginning-of-t/) at $564.07, fifteen boxes inside, $37.60 a box, $1.57 a pack and $0.13 a card. The English split is fourteen cases, four boxes each, and the cheapest is [Reign of Jafar](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) at $463.45, $115.86 a box, $4.83 a pack and $0.40 a card. The dearest English case is the [First Chapter case](/product/disney-lorcana-the-first-chapter-booster-box-sealed-case-set-1-english/) at $1,747.37, $436.84 a box, $18.20 a pack and $1.52 a card.",
+          "Five of the fourteen English cases divide below the US list price of a four-box case. A Lorcana display lists at $143.76 in the US, $5.99 a pack, so a four-box case lists at $575.04. [Reign of Jafar](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) at $463.45 sits $111.59 below that list, [Azurite Sea](/product/disney-lorcana-azurite-sea-booster-box-sealed-case-set-6-english/) at $476.63 sits $98.41 below it, and [Ursula's Return](/product/disney-lorcana-ursulas-return-booster-box-sealed-case-set-4-english/) and [Rise of the Floodborn](/product/disney-lorcana-rise-of-the-floodborn-booster-box-sealed-case-set-2-english/) at $504.00 each sit $71.04 below it, with [Into the Inklands](/product/disney-lorcana-into-the-inklands-booster-box-sealed-case-set-3-english/) at $554.40 also below list by $20.64. The other nine English cases divide above list, from [Shimmering Skies](/product/disney-lorcana-shimmering-skies-booster-box-sealed-case-set-5-english/) at $655.20 up to the First Chapter case at $1,747.37, which is $1,172.33 above list.",
+          "The ladder between the two ends runs like this. After Jafar and Azurite Sea come Ursula's Return and Floodborn at $504.00, Inklands at $554.40, Shimmering Skies at $655.20, [Attack of the Vine](/product/disney-lorcana-attack-of-the-vine-booster-box-sealed-case-set-13-english/) at $694.31, [Hyperia City](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) at $720.00, [Archazia's Island](/product/disney-lorcana-archazias-island-booster-box-sealed-case-set-7-english/) at $745.68, [Fabled](/product/disney-lorcana-fabled-booster-box-sealed-case-set-9-english/) at $746.16, [Whispers in the Well](/product/disney-lorcana-whispers-in-the-well-booster-box-sealed-case-set-10-english/) at $1,019.00, [Wilds Unknown](/product/disney-lorcana-wilds-unknown-booster-box-sealed-case-set-12-english/) at $1,268.02 and [Winterspell](/product/disney-lorcana-winterspell-booster-box-sealed-case-set-11-english/) at $1,289.06, before the First Chapter case at $1,747.37. The [best sealed TCG products guide](/blog/best-sealed-tcg-products-japan/) puts this ladder beside the Pokemon, One Piece and Dragon Ball shelves."
+        ]
+      },
+      {
+        "h": "The money layer: every case divided",
+        "math": [
+          "Reign of Jafar case: $463.45 / 4 boxes = $115.86 per box; $463.45 / 96 packs = $4.83 per pack; $463.45 / 1,152 cards = $0.40 per card",
+          "Azurite Sea case: $476.63 / 4 = $119.16 per box; $476.63 / 96 = $4.96 per pack; $476.63 / 1,152 = $0.41 per card",
+          "Ursula's Return case: $504.00 / 4 = $126.00 per box; $504.00 / 96 = $5.25 per pack; $504.00 / 1,152 = $0.44 per card",
+          "Rise of the Floodborn case: $504.00 / 4 = $126.00 per box; $504.00 / 96 = $5.25 per pack; $504.00 / 1,152 = $0.44 per card",
+          "Into the Inklands case: $554.40 / 4 = $138.60 per box; $554.40 / 96 = $5.78 per pack; $554.40 / 1,152 = $0.48 per card",
+          "Shimmering Skies case: $655.20 / 4 = $163.80 per box; $655.20 / 96 = $6.83 per pack; $655.20 / 1,152 = $0.57 per card",
+          "Attack of the Vine case: $694.31 / 4 = $173.58 per box; $694.31 / 96 = $7.23 per pack; $694.31 / 1,152 = $0.60 per card",
+          "Hyperia City case: $720.00 / 4 = $180.00 per box; $720.00 / 96 = $7.50 per pack; $720.00 / 1,152 = $0.63 per card",
+          "Archazia's Island case: $745.68 / 4 = $186.42 per box; $745.68 / 96 = $7.77 per pack; $745.68 / 1,152 = $0.65 per card",
+          "Fabled case: $746.16 / 4 = $186.54 per box; $746.16 / 96 = $7.77 per pack; $746.16 / 1,152 = $0.65 per card",
+          "Whispers in the Well case: $1,019.00 / 4 = $254.75 per box; $1,019.00 / 96 = $10.61 per pack; $1,019.00 / 1,152 = $0.88 per card",
+          "Wilds Unknown case: $1,268.02 / 4 = $317.01 per box; $1,268.02 / 96 = $13.21 per pack; $1,268.02 / 1,152 = $1.10 per card",
+          "Winterspell case: $1,289.06 / 4 = $322.27 per box; $1,289.06 / 96 = $13.43 per pack; $1,289.06 / 1,152 = $1.12 per card",
+          "First Chapter English case: $1,747.37 / 4 = $436.84 per box; $1,747.37 / 96 = $18.20 per pack; $1,747.37 / 1,152 = $1.52 per card",
+          "First Chapter Japanese case: $564.07 / 15 boxes = $37.60 per box; $564.07 / 360 packs = $1.57 per pack; $564.07 / 4,320 cards = $0.13 per card",
+          "US list case: 4 boxes x $143.76 = $575.04 per case; $5.99 per pack at list",
+          "Jafar below list: $575.04 - $463.45 = $111.59 below list per case",
+          "First Chapter English above list: $1,747.37 - $575.04 = $1,172.33 above list per case",
+          "Winterspell vs eBay asking price: $1,289.06 - $849.99 = $439.07 above the eBay asking price found November 10, 2026",
+          "Wilds Unknown vs eBay asking price: $1,268.02 - $1,199.99 = $68.03 above the eBay asking price found November 10, 2026",
+          "Hyperia City per box vs TCGplayer sold box: $180.00 - $131.95 = $48.05 above the October 31, 2026 sold price",
+          "Japanese First Chapter per box vs English First Chapter per box: $436.84 - $37.60 = $399.24",
+          "Whole Lorcana case ladder: $11,951.35 for all fifteen cases; English cases total $11,387.28 for fourteen"
+        ],
+        "paragraphs": [
+          "Read the divisions in order and the shelf tells you which sets the market still wants. The two cheapest English cases, Jafar and Azurite Sea, divide to $4.83 and $4.96 a pack, both below the $5.99 list pack price, and the two $504.00 cases divide to $5.25 a pack, also below list. Those four cases are the only ones where the case format itself saves money against list. Inklands at $5.78 a pack is the fifth case under list, by $20.64 a case, which is a rounding error on a $554.40 buy and not a reason to pick it.",
+          "The other nine English cases charge a premium for the set inside, not for the cardboard. Hyperia City, the newest set, divides to $7.50 a pack against a $5.99 list pack, and the TCGplayer sold price for a sealed Hyperia box on October 31, 2026 was $131.95, which puts our $180.00 per-box division $48.05 above the open market for the same box. Winterspell divides to $13.43 a pack, and an eBay asking price for a sealed Winterspell case found November 10, 2026 was $849.99, which puts our $1,289.06 case $439.07 above that ask. Wilds Unknown divides to $13.21 a pack against a $1,199.99 eBay ask, $68.03 above it. Asking prices are not sold prices, and a case on eBay is one seller, not the market, but a $439.07 gap is a fact a buyer should see before paying.",
+          "The Japanese case is the outlier that makes the whole index worth reading. Fifteen boxes for $564.07 is $37.60 a box and $0.13 a card, against $436.84 a box and $1.52 a card for the English First Chapter case, a $399.24 gap per box for the same set in a different language. The Japanese cards carry Japanese text, and the case holds fifteen boxes where the English case holds four, so the per-box figure is doing most of the work. Buy it for Japanese cards at a Japanese price, not as a cheap way to own the English set.",
+          "Every case except the cheapest clears the $500 free-shipping line on its own. The Jafar case at $463.45 does not, so check the shipping line on Jafar before you assume it ships free. The figures above are Warehouse shelf prices as of November 10, 2026, and the case is the unit: divide by four boxes, then by 96 packs, then by 1,152 cards for every English case, and by fifteen boxes, 360 packs and 4,320 cards for the Japanese case."
+        ]
+      },
+      {
+        "h": "The decision layer: which case, by buyer",
+        "paragraphs": [
+          "Buy Jafar or Azurite Sea if the job is opening Lorcana packs cheapest in English. Both divide below list per pack, both are recent enough sets that the cards still see play, and the $13.18 gap between the two cases is $3.30 a box, which is noise. Buy the Japanese First Chapter case if the job is Japanese cards or the cheapest cardboard on the shelf, and only then.",
+          "Buy Hyperia City if the job is the newest set, and know you are paying $48.05 a box above the late-October TCGplayer sold price for the privilege of a sealed case from a store instead of a single box from the open market. Buy Winterspell, Wilds Unknown or the English First Chapter case only if the job is holding that set sealed, because at $13.21 to $18.20 a pack you are paying a collector premium, not a pack price, and opening the case destroys the premium on the first pack.",
+          "The [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) separates the Japanese case from the English shelf in full, and the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) covers the single-pack route for buyers who do not want a case at all."
+        ],
+        "table": {
+          "head": [
+            "Case",
+            "Case price",
+            "Per box",
+            "Per pack",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Reign of Jafar (EN)",
+              "$463.45",
+              "$115.86",
+              "$4.83",
+              "Cheapest English case, below list"
+            ],
+            [
+              "Azurite Sea (EN)",
+              "$476.63",
+              "$119.16",
+              "$4.96",
+              "Second cheapest, below list"
+            ],
+            [
+              "First Chapter (JP)",
+              "$564.07",
+              "$37.60",
+              "$1.57",
+              "Cheapest per box on the shelf, Japanese cards"
+            ],
+            [
+              "Hyperia City (EN)",
+              "$720.00",
+              "$180.00",
+              "$7.50",
+              "Newest set, Set 14"
+            ],
+            [
+              "Fabled (EN)",
+              "$746.16",
+              "$186.54",
+              "$7.77",
+              "Recent set at a mid premium"
+            ],
+            [
+              "Whispers in the Well (EN)",
+              "$1,019.00",
+              "$254.75",
+              "$10.61",
+              "Set 10 scarcity"
+            ],
+            [
+              "Wilds Unknown (EN)",
+              "$1,268.02",
+              "$317.01",
+              "$13.21",
+              "Set 12 scarcity"
+            ],
+            [
+              "Winterspell (EN)",
+              "$1,289.06",
+              "$322.27",
+              "$13.43",
+              "Set 11 scarcity, dearest mid set"
+            ],
+            [
+              "First Chapter (EN)",
+              "$1,747.37",
+              "$436.84",
+              "$18.20",
+              "Launch set, collector only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing: the case shelf no one else divides",
+        "note": "From the Warehouse: the question we get most about Lorcana is whether a case is cheaper than four boxes. The answer is on this page and it is not the same for every set. Five cases divide below the US list price of a four-box case and nine divide above it, and the gap runs from $111.59 below list at Jafar to $1,172.33 above it at the English First Chapter. No other page divides all fifteen cases because no other page stocks all fifteen. If a case divides above list, you are paying for the set, not the format, and you should know that before you pay.",
+        "paragraphs": [
+          "The top results for this query price single boxes. They give you the Hyperia City MSRP of $143.76, the TCGplayer sold price near $131.95, and the eBay asking prices for sealed cases, and then they stop. None of them divides a case, because none of them holds fifteen cases to divide. The missing section is the one this page is: every case on one shelf, divided the same way, so the buyer can see that Jafar at $4.83 a pack and the English First Chapter at $18.20 a pack are the same format at nearly four times the price.",
+          "The second gap the top results leave is the Japanese case. The English shelf and the Japanese shelf are different products with different box counts, and a buyer who compares the $564.07 Japanese case against the $1,747.37 English case without dividing by boxes will think the Japanese case is a third of the price. It is, per case, and it is a twelfth of the price per box. Both numbers are true and only the divided one helps you decide."
+        ]
+      },
+      {
+        "h": "The practical layer: what a Lorcana case actually is",
+        "paragraphs": [
+          "A Lorcana booster box holds 24 packs of 12 cards, 288 cards in the box. An English sealed case holds four boxes, 96 packs, 1,152 cards. The Japanese First Chapter case holds fifteen boxes, 360 packs, 4,320 cards. That is the whole configuration, and it has not changed across the fourteen sets: Set 1, the First Chapter, launched in August 2023, Set 13, Attack of the Vine, released July 24, 2026, and Set 14, Hyperia City, released October 23, 2026, all in the same 24-pack box.",
+          "To buy, pick the set on the product page and check the set number in the listing title before paying, because the case prices on this shelf run from $463.45 to $1,747.37 and two sets sit $13.18 apart. Every case is factory sealed. The Warehouse ships from Japan, and the exact shipping quote for your country is confirmed at checkout or on WhatsApp, since the store does not publish per-country shipping rates. Cases at $504.00 and above clear the $500 free-shipping line alone; the Jafar case at $463.45 does not, so add a pack or a second item if free shipping matters to the order.",
+          "The store stocks no single Lorcana boxes, no single packs and no starter decks. If the buy is one box, the case page is the wrong page, and the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) explains the workaround. If the buy is Japanese cards, the Japanese First Chapter case is the only Japanese Lorcana product on the shelf, and the cards carry Japanese text, so check your local tournament rules before buying them to play."
+        ]
+      },
+      {
+        "h": "The risk layer: where the case price breaks",
+        "paragraphs": [
+          "The first risk is paying a premium the market does not support. Two cases on this shelf sit above eBay asking prices found the same day, Winterspell by $439.07 and Wilds Unknown by $68.03, and the Hyperia City case divides to $48.05 a box above the TCGplayer sold price for a single box. Asking prices are one seller each, not the market, and a sealed case from a store carries a guarantee a marketplace listing does not, but the gap is real and it is widest exactly where the set is scarcest. If the plan is to resell the case, buy the sets where our division sits below the open market, not the ones where it sits above it.",
+          "The second risk is the set itself. Lorcana cases are not one product at one price: the same four boxes cost $463.45 as Jafar and $1,747.37 as First Chapter, and the difference is age and scarcity, not cardboard. A case bought at a scarcity premium can fall when the set is reprinted or when demand moves to the next set, and Hyperia City already showed the pattern, with TCGplayer sold prices falling from about $174.47 on October 16 to $131.95 on October 31, 2026, below list within two weeks of release.",
+          "The third risk is the seal. A case is only worth the case price while it is factory sealed, so check the shrink and the case tape on arrival, photograph it before opening, and do not accept a case with broken tape at a sealed price. The [how to tell if a booster box is resealed guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) covers the checks box by box, and the same checks apply to the case."
+        ]
+      },
+      {
+        "h": "Who this index is not for",
+        "paragraphs": [
+          "This index is not for the buyer who wants one pack or one box. The store stocks no single Lorcana packs and no single boxes, so the cheapest entry to Lorcana here is a $463.45 case, and a buyer with a $150 budget should buy a box on the open market instead of stretching for a case. It is not for the player who needs a deck to play this weekend either: no starter decks are stocked, and a case of 96 packs is a slow way to build one deck.",
+          "It is not for the speculator who wants every set at list price. Nine of fourteen English cases divide above list, and the two dearest divide to more than double list per pack. It is for the buyer who has picked a set, wants the whole case, and wants the division before paying, and for the collector who wants to see the full fourteen-set ladder in one place."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the set first: Jafar and Azurite Sea are the value cases, First Chapter English is the collector case.",
+          "Divide every case by 4 boxes, then by 96 packs, then by 1,152 cards; divide the Japanese case by 15, 360 and 4,320.",
+          "Compare per pack against the $5.99 list pack, not against the case price.",
+          "Check the eBay and TCGplayer price for the same set before paying a premium case.",
+          "Confirm the set number in the listing title: two cases sit $13.18 apart.",
+          "Remember Jafar at $463.45 does not clear the $500 free-shipping line alone.",
+          "Buy the Japanese case only for Japanese cards; check tournament rules before playing them.",
+          "Photograph the seal and case tape on arrival before opening anything."
+        ],
+        "h": "Action layer: the buying checklist",
+        "paragraphs": [
+          "Work the list in order and the case you buy is the case you meant to buy, at a per-pack price you checked yourself. The [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) turns the division into a pick, and the [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) runs the same channel math for the Dragon Ball shelf."
+        ]
+      }
+    ],
+    "slug": "disney-lorcana-sealed-case-price",
+    "takeaway": [
+      "Fifteen Disney Lorcana sealed cases sit on the Warehouse shelf as of November 10, 2026, $11,951.35 for the ladder: fourteen English cases from $463.45 to $1,747.37 and one Japanese First Chapter case at $564.07.",
+      "The cheapest English pack is Jafar at $4.83, below the $5.99 list pack, and the cheapest pack on the shelf is the Japanese First Chapter at $1.57. The dearest is the English First Chapter at $18.20 a pack, a scarcity price, not a pack price.",
+      "Divide before paying: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy, the [Disney Lorcana booster box price page](/blog/disney-lorcana-booster-box-price/) prices the boxes, and this index divides every case against them."
+    ]
+  },
   "dragon-ball-fusion-world-beginners-guide": {
     "datePublished": "2026-10-21",
     "faqs": [
@@ -13656,7 +13863,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Thirty-two Dragon Ball products sit on the Warehouse shelf as of November 10, 2026, $91,430.81 for the ladder: five Japanese boxes from $26.02, thirteen Masters cases from $1,235.10, twelve Fusion World cases from $1,279.26, and two Manga Booster cases to $26,910.00.",
       "The cheapest pack on the shelf is Japanese — FB08 at $1.08, $0.18 a card — and the cheapest English pack is B25 at $4.29. The dearest pack is the SB01 case at $93.44, a scarcity price, not a pack price.",
-      "Divide before paying: the [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) picks the buy, the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the cases, and this index divides every product against them."
+      "Divide before paying: the [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) picks the buy, the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the cases, and this index divides every product against them.",
+      "For the channel view behind this index, the [where to buy guide](/blog/where-to-buy-dragon-ball-tcg-japan/) runs the Buyee invoice: a list-price box lands near $44.03 before international shipping, $18.01 more than FB08."
     ]
   },
   "eb-01-japanese-vs-english-which-to-buy": {
@@ -29146,6 +29354,186 @@ export const POSTS: Record<string, BlogPost> = {
       "A master set is a definition before it is a purchase: one of every card, with the argument about variants settled in advance. At modern Japanese scale — a base list around a hundred cards and 86 or more secret rares above it — the project is roughly 189 cards, sixteen binder pages, and a budget that lives almost entirely in its final ten percent.",
       "Build one only of a set you love, price the tail before the first box, and buy the bulk cheap and the chase cards deliberately. When you are ready to start, the [Pokémon range](/pokemon-cards/) is where the boxes live — and if you tell the Warehouse which set you are chasing, we will tell you honestly whether its tail is kind or cruel.",
       "Chasing an SV11 master set starts with a box decision: [Black Bolt vs White Flare](/blog/black-bolt-vs-white-flare-which-to-buy/) runs both sets' structure and prices side by side before you commit to either legendary."
+    ]
+  },
+  "where-to-buy-dragon-ball-tcg-japan": {
+    "datePublished": "2026-11-10",
+    "faqs": [
+      {
+        "a": "The Warehouse shelf: FB08 Saiyan's Pride at $26.02, $1.08 a pack and $0.18 a card, which is $8.27 below the Japanese list price of $34.29. The Buyee proxy route for the same list-price box lands near $44.03 before international shipping, and the cheapest marketplace ask found this week, a TikTok Shop FB02 at $54.77 all-in, is more than double FB08.",
+        "q": "What is the cheapest place to buy Japanese Dragon Ball cards?"
+      },
+      {
+        "a": "No. Japanese cards are not legal at sanctioned English-region events, so buy Japanese boxes to collect or to open, not to play in an English-region tournament. The English Fusion World cases on the Warehouse shelf, from FB04 at $1,279.26, are the tournament-legal route.",
+        "q": "Are Japanese Dragon Ball cards legal in English tournaments?"
+      },
+      {
+        "a": "Not for a set the store stocks. A ¥5,280 list-price box through Buyee is ¥6,780, $44.03, before international shipping, which is $18.01 more than the Warehouse FB08 at $26.02. Buyee earns its fee when the set is one no store stocks, and the fee layer is fixed in yen, so it hurts worst on cheap boxes.",
+        "q": "Is Buyee cheaper than buying from a store?"
+      }
+    ],
+    "h1": "Where to Buy Dragon Ball TCG Japan",
+    "intro": [
+      "Short answer: the cheapest sealed Japanese Dragon Ball box you can buy today is on the Warehouse shelf, FB08 Saiyan's Pride at $26.02, $1.08 a pack, and the dearest is FB09 Dual Evolution at $64.12, $2.67 a pack. The proxy route costs more: the same list-price box through Buyee lands near $44.03 before international shipping, $18.01 more than FB08. Every channel below is priced from a live listing, divided per pack, so you can see where the money goes.",
+      "This guide is for the buyer who searched where to buy Japanese Dragon Ball cards and wants the honest channel answer instead of a list of shop names. It covers the Warehouse shelf, the Japan Figure import store, TikTok Shop, SNKRDUNK asking prices and the Buyee proxy route, with the [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) behind every Warehouse figure and the [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) picking the buy. Prices as of November 10, 2026."
+    ],
+    "metaDescription": "Five ways to buy Japanese Dragon Ball cards, priced: the Warehouse, Japan Figure, TikTok Shop, SNKRDUNK asks and Buyee, divided per pack.",
+    "metaTitle": "Where to Buy Dragon Ball TCG Japan",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "If the job is a sealed Japanese box in hand today, buy from the Warehouse. Five sealed Japanese boxes sit on the shelf: [FB08 Saiyan's Pride](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) at $26.02, [FB07 Wish for Shenron](/product/fb07-wish-for-shenron-japanese-dragon-ball-fusion-world-card/) at $27.88, [SB01 Manga Booster 01](/product/sb01-manga-booster-01-japanese-dragon-ball-fusion-world-card/) and [SB02 Manga Booster 02](/product/sb02-manga-booster-02-japanese-dragon-ball-fusion-world-card/) at $57.61 each, and [FB09 Dual Evolution](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) at $64.12. Every one holds 24 packs of six cards, 144 cards, so the per-pack ladder runs $1.08 to $2.67 and the per-card ladder $0.18 to $0.45. No other channel checked this week beats FB08 at $26.02 for a sealed Japanese box.",
+          "If the job is FB12, nobody has a sealed Japanese box in hand. FB12, Reach the God, releases in Japan on December 12, 2026, and the Japan Figure pre-order asks $182.92 a box, $7.62 a pack, which is 4.89 times the Japanese list price of $37.40. If the job is FB10, the box is sold out everywhere checked: the Japan Figure tape-cut box at $57.08 is sold out, and the Samurai Sword Tokyo damaged box at ¥11,105, about $72.11, is sold out too. Sold out is the normal state for Japanese Fusion World boxes older than FB09, and the Warehouse shelf is the exception, not the rule.",
+          "One correction before the math. An earlier guide on this site described these five Japanese listings as single cards. The listing photos show sealed boxes, the pages say factory sealed, and the box math below uses 24 packs per box. The [FB08 buyers guide](/blog/fb08-saiyans-pride-buyers-guide/) already prices FB08 as a box at $26.02, $1.08 a pack, and this guide follows that reading. If you read the older single-card wording anywhere on this site, treat it as superseded.",
+          "If the job is English boxes in bulk, the channel changes. The Warehouse sells English Fusion World as sealed cases of twelve boxes, from [FB04 Ultra Limit](/product/dragon-ball-super-fusion-world-fb04-ultra-limit-booster-box-sealed-case-english/) at $1,279.26, $106.61 a box and $4.44 a pack, to FB09 at $4,830.00, $402.50 a box and $16.77 a pack. The cheapest English pack on the shelf is the [Masters B25 case](/product/dragon-ball-super-card-game-masters-b25-legend-of-the-dragon-balls-booster-box-s/) at $1,235.10, $4.29 a pack. Japanese boxes are the cheap way to open packs; English cases are the bulk way to own boxes."
+        ]
+      },
+      {
+        "h": "The money layer: five channels, one box, divided",
+        "math": [
+          "FB08 Warehouse: $26.02 / 24 packs = $1.08 per pack; $26.02 / 144 cards = $0.18 per card",
+          "FB07 Warehouse: $27.88 / 24 = $1.16 per pack; $27.88 / 144 = $0.19 per card",
+          "FB09 Warehouse: $64.12 / 24 = $2.67 per pack; $64.12 / 144 = $0.45 per card",
+          "SB01 and SB02 Warehouse: $57.61 / 24 = $2.40 per pack; $57.61 / 144 = $0.40 per card",
+          "Japanese box list FB01 to FB10: 24 packs x ¥220 = ¥5,280; ¥5,280 / ¥154 = $34.29",
+          "Japanese box list FB11 and FB12: 24 packs x ¥240 = ¥5,760; ¥5,760 / ¥154 = $37.40",
+          "Japan Figure FB12 pre-order: $182.92 / 24 = $7.62 per pack; $182.92 / 144 = $1.27 per card",
+          "Japan Figure FB12 vs list: $182.92 / $37.40 = 4.89x list",
+          "TikTok Shop FB02 all-in: $50.00 + $4.77 shipping = $54.77; $54.77 / 24 = $2.28 per pack; $54.77 / 144 = $0.38 per card",
+          "SNKRDUNK FB09 asking price: ¥9,400 / ¥154 = $61.04; $61.04 / 24 = $2.54 per pack",
+          "Samurai Sword Tokyo damaged FB09: ¥11,105 / ¥154 = $72.11; $72.11 / 24 = $3.00 per pack",
+          "Samurai Sword Tokyo ST-01: ¥23,000 / ¥154 = $149.35",
+          "Buyee list-price box: ¥5,280 + ¥500 purchase fee + ¥500 Standard plan + ¥500 domestic shipping = ¥6,780 before international shipping",
+          "Buyee all-in: ¥6,780 / ¥154 = $44.03; ¥6,780 / 24 packs = ¥282.50 per pack; ¥282.50 / ¥154 = $1.83 per pack",
+          "Buyee fee layer over list: ¥6,780 - ¥5,280 = ¥1,500; ¥1,500 / ¥154 = $9.74",
+          "Buyee vs Warehouse FB08: $44.03 - $26.02 = $18.01 more through the proxy, before international shipping",
+          "FB09 Warehouse vs SNKRDUNK ask: $64.12 - $61.04 = $3.08 above the asking price",
+          "English FB04 case: $1,279.26 / 12 boxes = $106.61 per box; $106.61 / 24 = $4.44 per pack",
+          "Cheapest English pack B25 case: $1,235.10 / 288 packs = $4.29 per pack"
+        ],
+        "paragraphs": [
+          "Start with the Warehouse ladder, because it is the only channel where the price is a buy price. FB08 at $26.02 is $8.27 below the Japanese list price of $34.29, and FB07 at $27.88 is $6.41 below list. That is the whole point of buying from a store that holds stock: the box costs less than the yen list converted at ¥154 to the dollar. FB09 at $64.12 is the exception, $29.83 above list, because Dual Evolution is the second-anniversary set with the Fusion Evolve mechanic and the first Leader double-star cards, and the market prices the chase.",
+          "Now run the same box through Buyee, the proxy route most buyers actually use. A list-price box is ¥5,280, and the invoice adds a ¥500 purchase fee per order, a ¥500 Standard guarantee plan, and domestic shipping of ¥150 to ¥1,500 per order, so ¥500 in the middle of that range. The total is ¥6,780, $44.03, before international shipping, which is $9.74 of fees over list and $18.01 more than the Warehouse FB08. The fee layer is fixed in yen, so it hurts worst on cheap boxes: on a ¥5,280 box it adds 28.4 percent, and on a ¥9,400 SNKRDUNK-priced box it would add 16.0 percent. The proxy earns its fee when the set is one no store stocks. When the store stocks it, the proxy is the expensive way to buy the same box.",
+          "The marketplace numbers need the same honesty. The SNKRDUNK asking price for a sealed FB09 box on September 24, 2026 was ¥9,400, $61.04, which is $3.08 below the Warehouse FB09 at $64.12, but an ask is not a sale, and the SNKRDUNK price does not include the marketplace fee or the shipping to your country. The TikTok Shop FB02 at $50.00 plus $4.77 shipping is $54.77 all-in, $2.28 a pack, from a seller rated 4.8 with 123,900 sales, and that is a real buy price for a set the Warehouse does not stock as a Japanese box. The Japan Figure FB12 pre-order at $182.92 is 4.89 times list, which is what pre-order scarcity costs when the Japanese release is still a month away.",
+          "The English comparison closes the layer. The cheapest English case, FB04 at $1,279.26, divides to $4.44 a pack, and the cheapest English pack anywhere on the shelf is the Masters B25 case at $4.29 a pack. Both are more than double the dearest Japanese per-pack price on the Warehouse shelf, because an English box holds twelve cards a pack against six in a Japanese pack, and the English case holds twelve boxes. Compare per card, not per pack: the Japanese FB08 is $0.18 a card and the cheapest English case is $0.36 a card, so the Japanese box is still half the price per card."
+        ]
+      },
+      {
+        "h": "The decision layer: channel vs channel",
+        "paragraphs": [
+          "Read the table by what is actually for sale. Only two rows are a sealed Japanese box you can buy today at a buy price: the Warehouse and TikTok Shop. The SNKRDUNK row is an asking price, the Buyee row is a worked example for a list-price box, and the Japan Figure row is a pre-order for a set that releases December 12, 2026. A buyer who treats all six rows as shops will overpay or wait for a box that does not exist yet.",
+          "The JToys row carries the trap this guide exists to name. JToys Australia lists FB09 at $549.99 AUD with 24 packs of 12 cards, and twelve cards a pack is the English configuration, not the Japanese one. That is an English box at an Australian price, not a Japanese box at a bargain, and comparing $549.99 AUD against the Warehouse FB09 at $64.12 without checking the pack size is how buyers pay eight times too much. The same shop lists the Japanese ST-01 Story Booster box at $319.99 AUD, which is a Japanese box, and the two listings sit side by side.",
+          "The [best Dragon Ball Fusion World Japanese guide](/blog/best-dragon-ball-fusion-world-japanese/) runs the five Japanese boxes in full, the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the twelve English cases, and the [buying TCG from Japan guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers shipping and customs for the proxy route."
+        ],
+        "table": {
+          "head": [
+            "Channel",
+            "Example buy",
+            "All-in per pack",
+            "Sealed?",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Warehouse direct",
+              "FB08 $26.02",
+              "$1.08",
+              "Factory sealed",
+              "Sealed Japanese boxes in hand"
+            ],
+            [
+              "TikTok Shop",
+              "FB02 $54.77 all-in",
+              "$2.28",
+              "Sealed, seller rated",
+              "One older Japanese box"
+            ],
+            [
+              "SNKRDUNK ask",
+              "FB09 ¥9,400 ($61.04)",
+              "$2.54",
+              "Ask, not a sale",
+              "Price check before buying"
+            ],
+            [
+              "Buyee proxy",
+              "List box ¥6,780 ($44.03)",
+              "$1.83",
+              "Depends on seller",
+              "Sets no store stocks"
+            ],
+            [
+              "Japan Figure",
+              "FB12 pre-order $182.92",
+              "$7.62",
+              "Pre-order",
+              "FB12 before release"
+            ],
+            [
+              "JToys Australia",
+              "FB09 $549.99 AUD",
+              "English, 12 cards a pack",
+              "Sealed",
+              "Australian buyers, English edition"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing: the proxy invoice nobody shows",
+        "note": "From the Warehouse: the question we get most about buying from Japan is whether a proxy is cheaper than buying from us. The invoice answers it. A ¥5,280 list-price box through Buyee is ¥6,780 before it leaves Japan, and international shipping still sits on top of that. Our FB08 is $26.02 on the shelf, $18.01 less than the proxy's pre-shipping total for a list-price box. Proxies earn their fee when the set is one we do not stock. When we stock it, the proxy is the expensive way to buy the same box.",
+        "paragraphs": [
+          "The top results for this query are shop listings and proxy guides, and they share one gap: none of them shows a full invoice. They quote the box price, or the proxy fee, but never the fee plus the plan plus the domestic shipping plus the international shipping in one place. The missing section is the worked invoice, and the Buyee example above is it: ¥5,280 becomes ¥6,780 before the box leaves Japan, and the international leg is still to come. A buyer who only reads the headline fee of ¥500 per order will think the proxy adds 9.5 percent. It adds 28.4 percent on a list-price box.",
+          "The second gap is the per-seller multiplication. Buyee processes each order separately, even from the same seller, with separate domestic shipping per order, and a want list of ten singles from ten sellers is ten purchase fees and ten domestic shipping charges before a card leaves Japan. A single box from one seller is the cheapest proxy shape there is, and it still costs $18.01 more than the Warehouse FB08. The proxy route is for the set nobody stocks, not for the box on the shelf."
+        ]
+      },
+      {
+        "h": "The practical layer: Japanese vs English, and the 6-card trap",
+        "paragraphs": [
+          "A Japanese Fusion World box holds 24 packs of six cards, 144 cards, and a digital serial code in every pack. An English box holds 24 packs of twelve cards, 288 cards, with a digital code in every pack too. The official Japanese pack price is ¥220 for FB01 to FB10 and ¥240 for FB11 and FB12, so a Japanese box lists at ¥5,280 for the older sets and ¥5,760 for FB11 and FB12. FB09, Dual Evolution, released in Japan on March 14, 2026 and in English on March 13, 2026, with 123 card types. FB12, Reach the God, releases in Japan on December 12, 2026, with 123 card types, and the English release follows on December 18, 2026.",
+          "To buy, check three things on the listing before paying: the language, the cards per pack, and the condition words. Japanese means six cards a pack; twelve cards a pack means English whatever the title says. Sealed means factory sealed; tape-cut means the box was opened and re-taped, which is what the Japan Figure FB10 listing at $57.08 was, and it is sold out anyway; damaged box means the box is dented, which is what the Samurai Sword Tokyo FB09 listing at ¥11,105 was, and it is sold out too. The [FB09 buyers guide](/blog/fb09-dual-evolution-buyers-guide/) runs the dearest Japanese box in full.",
+          "The Warehouse ships from Japan, and the exact shipping quote for your country is confirmed at checkout or on WhatsApp, since the store does not publish per-country shipping rates. Five Japanese boxes clear no free-shipping line on their own, so a single $26.02 box will carry a shipping charge, and the honest comparison is the all-in price: FB08 at $26.02 plus shipping against the Buyee $44.03 before international shipping. Ask for the quote before you compare."
+        ]
+      },
+      {
+        "h": "The risk layer: tape-cut, damaged, and sold-out boxes",
+        "paragraphs": [
+          "The first risk is the condition word. A tape-cut box was opened, and a damaged box is dented, and both sell at a discount for that reason, but neither is a sealed box at a sealed price. The two cheapest FB10 and FB09 listings found this week were both tape-cut or damaged, and both are sold out, which tells you the market clears the compromised boxes first and leaves the sealed ones at full price. Pay the sealed price only for a sealed box, and read the condition line twice.",
+          "The second risk is the proxy inspection. Buyee sells inspection as a ¥300 plan, and it checks the item against the listing description, which is a description check, not counterfeit detection. The guarantee plans are ¥0 for Lite with no compensation, or ¥500 for Standard or Insured Delivery. A buyer who pays for Lite and receives the wrong box has no claim, and a buyer who pays for Standard still has to prove the box is wrong. The fee guide is clear about this; the listings are not.",
+          "The third risk is the pre-order. Japan Figure asks $182.92 for an FB12 box that lists at $37.40 in Japan, 4.89 times list, a month before release. Pre-order prices fall when the set releases and supply arrives, and Hyperia City showed the pattern in Lorcana, with TCGplayer sold prices falling below list within two weeks. If the job is FB12, wait for the release and check the Warehouse shelf first, because the pre-order premium is the most expensive way to own the set."
+        ]
+      },
+      {
+        "h": "Who this guide is not for",
+        "paragraphs": [
+          "This guide is not for the player who needs Japanese cards for sanctioned English-region events, because Japanese cards are not legal there. It is not for the single-card buyer either: the Warehouse sells sealed Japanese boxes and English sealed cases, not singles, and a buyer who wants one Leader card should buy the single on the open market instead of opening a $64.12 box for it.",
+          "It is not for the buyer who wants a case of Japanese boxes. No sealed Japanese cases are stocked; the Japanese format on this shelf is the single box, and the case format is English only. It is for the buyer who wants a sealed Japanese box, wants to know every channel that sells one, and wants the invoice before paying."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the set first: FB08 is the cheapest sealed Japanese box at $26.02, FB09 the dearest at $64.12.",
+          "Check the language: six cards a pack is Japanese, twelve cards a pack is English.",
+          "Divide every box by 24 packs, then by 144 cards for Japanese or 288 for English.",
+          "Run the Buyee invoice before proxying: ¥500 fee plus ¥500 plan plus domestic shipping, then international shipping.",
+          "Read the condition words: sealed, tape-cut and damaged are three different prices.",
+          "Ask for the shipping quote at checkout or on WhatsApp before comparing channels.",
+          "Never pay a pre-order premium for FB12 without checking the $37.40 list price first.",
+          "Check the shelf price on the day: FB12 is a pre-order and its figure moves with the release."
+        ],
+        "h": "Action layer: the buying checklist",
+        "paragraphs": [
+          "Work the list in order and the box you buy is the box you meant to buy, at a per-pack price you checked yourself. The [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) divides every Dragon Ball product on the shelf, and the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) runs the same division for the Lorcana shelf."
+        ]
+      }
+    ],
+    "slug": "where-to-buy-dragon-ball-tcg-japan",
+    "takeaway": [
+      "Five sealed Japanese Dragon Ball boxes sit on the Warehouse shelf as of November 10, 2026, $26.02 to $64.12: FB08 cheapest at $1.08 a pack, FB09 dearest at $2.67 a pack, with FB07 and both Manga Boosters between them.",
+      "The proxy route costs more than the shelf: a list-price box through Buyee is $44.03 before international shipping, $18.01 more than FB08, and the Japan Figure FB12 pre-order at $182.92 is 4.89 times the Japanese list price.",
+      "Divide before paying: the [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) divides every product on the shelf, the [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) picks the buy, and this guide prices every channel against them."
     ]
   },
   "which-tcg-should-you-start": {
