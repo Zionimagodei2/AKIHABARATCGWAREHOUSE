@@ -5129,7 +5129,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "The buying checklist",
         "paragraphs": [
-          "Before paying for any Japanese One Piece box on this page, walk the list. For the newest set's dates and window, return to the OP-18 pre-order guide, and for the English shelf, the English-versus-Japanese comparison in the earlier One Piece box guide settles the language question. This article settles price."
+          "Before paying for any Japanese One Piece box on this page, walk the list. For the newest set's dates and window, return to the OP-18 pre-order guide, and for the English shelf, the English-versus-Japanese comparison in the earlier One Piece box guide settles the language question. This article settles price. For the same twenty-four boxes priced in pesos, the [Japanese One Piece booster box Philippines price guide](/blog/japanese-one-piece-booster-box-philippines-price/) runs the PHP 10,000 line and divides every case."
         ]
       }
     ],
@@ -5921,7 +5921,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Before you buy: the checklist",
         "paragraphs": [
-          "Seven checks, in order. The shelf does the rest, and the shelf on November 4, 2026 says: M3 for the smallest cheque, M2 for the cheapest verified pack, M2a for the cheapest verified card, SV11 for the twin set with the case story, and M6a for the anniversary itself."
+          "Seven checks, in order. The shelf does the rest, and the shelf on November 4, 2026 says: M3 for the smallest cheque, M2 for the cheapest verified pack, M2a for the cheapest verified card, SV11 for the twin set with the case story, and M6a for the anniversary itself. For the same ninety boxes priced in euros, the [Japanese Pokemon booster box Netherlands price guide](/blog/japanese-pokemon-booster-box-netherlands-price/) lands every box at the EUR 150 rules."
         ]
       }
     ],
@@ -10458,7 +10458,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Dutch buyer's checklist",
         "paragraphs": [
-          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing euro listings."
+          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing euro listings. For Pokemon boxes priced in euros, the [Japanese Pokemon booster box Netherlands price guide](/blog/japanese-pokemon-booster-box-netherlands-price/) runs the same EUR 150 stack across all ninety boxes."
         ]
       }
     ],
@@ -10706,7 +10706,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Philippines buyer's checklist",
         "paragraphs": [
-          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing peso listings with a decision built on the shelf price you can actually pay."
+          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing peso listings with a decision built on the shelf price you can actually pay. For One Piece boxes priced in pesos, the [Japanese One Piece booster box Philippines price guide](/blog/japanese-one-piece-booster-box-philippines-price/) runs the same PHP 10,000 line across all twenty-four boxes."
         ]
       }
     ],
@@ -16899,6 +16899,229 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box."
     ]
   },
+  "japanese-one-piece-booster-box-philippines-price": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Not at the border, if the FOB value is PHP 10,000 or less: fifteen of the twenty-four boxes on our shelf clear on goods value alone, from OP-15 at PHP 4,395.30 to EB-01 and EB-03 at PHP 9,807.83. Processing charges still apply: PHP 130.00 direct by the claimant or PHP 239.88 through a courier for an OP-15, and PHP 255.00 direct or PHP 321.80 through a courier for an OP-17. Above the line, duty at 3 to 15% plus 12% VAT on the dutiable value plus duty applies, so an OP-01 lands at PHP 17,401.31 to PHP 19,428.64 before shipping.",
+        "q": "Will I pay duty or VAT on one Japanese One Piece booster box shipped to the Philippines?"
+      },
+      {
+        "a": "It depends on the set, and only two cases discount heavily. The OP-02 case costs PHP 125,595.14 in goods and works out to PHP 10,466.26 a box, saving PHP 2,591.87 a box against the single. The OP-03 case costs PHP 106,770.86 in goods and works out to PHP 8,897.57 a box, saving PHP 2,222.27 a box. The OP-17 case runs the other way: PHP 92,233.08 in goods works out to PHP 7,686.09 a box, which is PHP 13.92 more per box than the single. Divide the case for the set you want; the format alone does not save money.",
+        "q": "What does a sealed One Piece case cost to land in the Philippines?"
+      },
+      {
+        "a": "Mixed, and this page names the gap. Our OP-07 at $134.32 is $54.32 above the OP Box Index eBay median of $80, and our OP-17 at $121.28 is $52.08 above the CardZ last-sold figure of $69.20, though a last-sold figure is one completed sale, not a market price. Against a Japanese store we are cheaper: our OP-01 at $238.45 is $14.15 below the Samurai Sword Tokyo store price of about $252.60. No current Philippine listing for a sealed Japanese One Piece box was found, so there is no local price to beat. Compare the landed cost, not the goods price, and weigh sealed provenance against the saving.",
+        "q": "Is the Warehouse price cheaper than buying locally in the Philippines or on eBay?"
+      }
+    ],
+    "h1": "Japanese One Piece Booster Box Prices in the Philippines: Every Box Landed, in Pesos",
+    "intro": [
+      "Every Japanese One Piece booster box shipped to the Philippines clears the border with no duty or VAT if the FOB value is PHP 10,000 or less, and fifteen of the twenty-four boxes on this shelf sit under that line on goods value alone. Processing charges still apply, PHP 130.00 to PHP 375.20 depending on the box and the channel, and the nine boxes over the line pay duty at 3 to 15% plus 12% VAT. This guide prices all 24 boxes landed, and compares Japan-direct against local shops and eBay. Prices as of November 11, 2026, converted at PHP 63.26 to the dollar, the Bangko Sentral ng Pilipinas reference rate on November 10, 2026.",
+      "The cheapest box per pack is OP-15 at PHP 183.14, and the dearest box is OP-01 at PHP 15,084.35 of goods."
+    ],
+    "metaDescription": "Every Japanese One Piece booster box price in Philippine pesos as of November 11, 2026: the PHP 10,000 line, per-pack math, and case divisions.",
+    "metaTitle": "Japanese One Piece Booster Box Prices Philippines",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: PHP 10,000 is the line, and fifteen One Piece boxes sit under it",
+        "paragraphs": [
+          "The de minimis line is PHP 10,000 of FOB or FCA value per parcel, under Section 423 of the Customs Modernization and Tariff Act (Republic Act 10863) and Customs Administrative Order 02-2025, effective May 7, 2025. Below it a parcel pays no duty and no VAT; above it, duty plus 12% VAT apply. The duty rate for trading cards under HS 9504.40 is not published in a form we could verify, so this page shows the landed cost above the line as a range at 3% and at 15% duty.",
+          "Fifteen of the twenty-four Japanese One Piece boxes on our shelf sit under the line on goods value alone, from OP-15 at PHP 4,395.30 up to EB-01 and EB-03 at PHP 9,807.83. Nine sit over it, from OP-06 at PHP 10,492.30 up to OP-01 at PHP 15,084.35. The line is measured on FOB goods value, not the parcel total: shipping never pushes a parcel over it, and parcels sent the same day to the same recipient combine, so two boxes in two parcels on the same day count as one.",
+          "Under the line, processing charges still apply. An OP-15 at PHP 4,395.30 clears direct for PHP 130.00 in total, PHP 0 import processing charge plus PHP 100 customs documentary stamp and PHP 30 BIR documentary stamp tax, landing at PHP 4,525.30 before shipping; through a courier it pays 2.5% of the goods value plus the same stamps, landing at PHP 4,635.18. An OP-17 at PHP 7,672.17 pays PHP 125 direct, landing at PHP 7,927.17, or 2.5% through a courier, landing at PHP 7,993.97. Above the line, an OP-01 lands at PHP 17,401.31 at 3% duty or PHP 19,428.64 at 15%, before shipping."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in Philippine pesos",
+        "math": [
+          "OP-15 box: $69.48 x PHP 63.26 = PHP 4,395.30; PHP 4,395.30 / 24 packs = PHP 183.14 per pack; PHP 183.14 / 6 cards = PHP 30.52 per card",
+          "PRB-02 box: $74.82 x PHP 63.26 = PHP 4,733.11 of goods; per box only, no packs-per-box figure printed",
+          "OP-18 box: $84.00 x PHP 63.26 = PHP 5,313.84; PHP 5,313.84 / 24 packs = PHP 221.41 per pack; PHP 221.41 / 6 cards = PHP 36.90 per card",
+          "EB-04 box: $91.03 x PHP 63.26 = PHP 5,758.56; PHP 5,758.56 / 24 packs = PHP 239.94 per pack; PHP 239.94 / 6 cards = PHP 39.99 per card",
+          "OP-16 box: $105.00 x PHP 63.26 = PHP 6,642.30; PHP 6,642.30 / 24 packs = PHP 276.76 per pack; PHP 276.76 / 6 cards = PHP 46.13 per card",
+          "OP-17 box: $121.28 x PHP 63.26 = PHP 7,672.17; PHP 7,672.17 / 24 packs = PHP 319.67 per pack; PHP 319.67 / 6 cards = PHP 53.28 per card",
+          "OP-12 box: $129.79 x PHP 63.26 = PHP 8,210.52; PHP 8,210.52 / 24 packs = PHP 342.11 per pack; PHP 342.11 / 6 cards = PHP 57.02 per card",
+          "OP-13 box: $135.00 x PHP 63.26 = PHP 8,540.10; PHP 8,540.10 / 24 packs = PHP 355.84 per pack; PHP 355.84 / 6 cards = PHP 59.31 per card",
+          "OP-07 box: $134.32 x PHP 63.26 = PHP 8,497.08; PHP 8,497.08 / 24 packs = PHP 354.05 per pack; PHP 354.05 / 6 cards = PHP 59.01 per card",
+          "PRB-01 box: $149.63 x PHP 63.26 = PHP 9,465.59; PHP 9,465.59 / 10 packs = PHP 946.56 per pack; PHP 946.56 / 10 cards = PHP 94.66 per card",
+          "EB-01 box: $155.04 x PHP 63.26 = PHP 9,807.83; PHP 9,807.83 / 24 packs = PHP 408.66 per pack; PHP 408.66 / 6 cards = PHP 68.11 per card",
+          "OP-01 box: $238.45 x PHP 63.26 = PHP 15,084.35; PHP 15,084.35 / 24 packs = PHP 628.51 per pack; PHP 628.51 / 6 cards = PHP 104.75 per card",
+          "OP-02 box: $206.42 x PHP 63.26 = PHP 13,058.13; PHP 13,058.13 / 24 packs = PHP 544.09 per pack; PHP 544.09 / 6 cards = PHP 90.68 per card",
+          "OP-05 box: $186.61 x PHP 63.26 = PHP 11,804.95; PHP 11,804.95 / 24 packs = PHP 491.87 per pack; PHP 491.87 / 6 cards = PHP 81.98 per card",
+          "OP-06 box: $165.86 x PHP 63.26 = PHP 10,492.30; PHP 10,492.30 / 24 packs = PHP 437.18 per pack; PHP 437.18 / 6 cards = PHP 72.86 per card",
+          "OP-15 under the line, courier: goods PHP 4,395.30 + IPC 2.5% PHP 109.88 + PHP 100 CDS + PHP 30 BIR DST = PHP 4,635.18 landed before shipping",
+          "OP-15 under the line, direct: goods PHP 4,395.30 + IPC PHP 0.00 + PHP 100 CDS + PHP 30 BIR DST = PHP 4,525.30 landed before shipping",
+          "OP-17 under the line, courier: goods PHP 7,672.17 + IPC 2.5% PHP 191.80 + PHP 100 CDS + PHP 30 BIR DST = PHP 7,993.97 landed before shipping",
+          "OP-17 under the line, direct: goods PHP 7,672.17 + IPC PHP 125.00 + PHP 100 CDS + PHP 30 BIR DST = PHP 7,927.17 landed before shipping",
+          "EB-01 under the line, courier: goods PHP 9,807.83 + IPC 2.5% PHP 245.20 + PHP 100 CDS + PHP 30 BIR DST = PHP 10,183.03 landed before shipping",
+          "EB-01 under the line, direct: goods PHP 9,807.83 + IPC PHP 125.00 + PHP 100 CDS + PHP 30 BIR DST = PHP 10,062.83 landed before shipping",
+          "OP-01 over the line at 3% duty: PHP 15,084.35 x 1.03 x 1.12 = PHP 17,401.31 landed before shipping",
+          "OP-01 over the line at 15% duty: PHP 15,084.35 x 1.15 x 1.12 = PHP 19,428.64 landed before shipping",
+          "OP-02 over the line at 3% duty: PHP 13,058.13 x 1.03 x 1.12 = PHP 15,063.86 landed before shipping",
+          "OP-02 over the line at 15% duty: PHP 13,058.13 x 1.15 x 1.12 = PHP 16,818.87 landed before shipping",
+          "OP-06 over the line at 3% duty: PHP 10,492.30 x 1.03 x 1.12 = PHP 12,103.92 landed before shipping",
+          "OP-06 over the line at 15% duty: PHP 10,492.30 x 1.15 x 1.12 = PHP 13,514.08 landed before shipping",
+          "OP-05 over the line at 3% duty: PHP 11,804.95 x 1.03 x 1.12 = PHP 13,618.19 landed before shipping",
+          "OP-05 over the line at 15% duty: PHP 11,804.95 x 1.15 x 1.12 = PHP 15,204.78 landed before shipping",
+          "OP-01 case: $2,801.47 x PHP 63.26 = PHP 177,220.99 goods; PHP 177,220.99 / 12 boxes = PHP 14,768.42 per box; single PHP 15,084.35 - PHP 14,768.42 = PHP 315.93 saved per box",
+          "OP-02 case: $1,985.38 x PHP 63.26 = PHP 125,595.14 goods; PHP 125,595.14 / 12 boxes = PHP 10,466.26 per box; single PHP 13,058.13 - PHP 10,466.26 = PHP 2,591.87 saved per box",
+          "OP-03 case: $1,687.81 x PHP 63.26 = PHP 106,770.86 goods; PHP 106,770.86 / 12 boxes = PHP 8,897.57 per box; single PHP 11,119.84 - PHP 8,897.57 = PHP 2,222.27 saved per box",
+          "OP-15 case: $816.00 x PHP 63.26 = PHP 51,620.16 goods; PHP 51,620.16 / 12 boxes = PHP 4,301.68 per box; single PHP 4,395.30 - PHP 4,301.68 = PHP 93.62 saved per box",
+          "OP-18 case: $906.00 x PHP 63.26 = PHP 57,313.56 goods; PHP 57,313.56 / 12 boxes = PHP 4,776.13 per box; single PHP 5,313.84 - PHP 4,776.13 = PHP 537.71 saved per box",
+          "OP-17 case: $1,458.00 x PHP 63.26 = PHP 92,233.08 goods; PHP 92,233.08 / 12 boxes = PHP 7,686.09 per box; PHP 7,686.09 - single PHP 7,672.17 = PHP 13.92 more per box",
+          "OP-05 case: $2,244.73 x PHP 63.26 = PHP 142,001.62 goods; PHP 142,001.62 / 12 boxes = PHP 11,833.47 per box; PHP 11,833.47 - single PHP 11,804.95 = PHP 28.52 more per box",
+          "OP-07 case: $1,613.24 x PHP 63.26 = PHP 102,053.56 goods; PHP 102,053.56 / 12 boxes = PHP 8,504.46 per box; PHP 8,504.46 - single PHP 8,497.08 = PHP 7.38 more per box",
+          "EB-04 case: $1,086.02 x PHP 63.26 = PHP 68,701.63 goods; PHP 68,701.63 / 12 boxes = PHP 5,725.14 per box; single PHP 5,758.56 - PHP 5,725.14 = PHP 33.42 saved per box",
+          "PRB-01 case: $1,489.57 x PHP 63.26 = PHP 94,230.20 goods; PHP 94,230.20 / 10 boxes = PHP 9,423.02 per box; single PHP 9,465.59 - PHP 9,423.02 = PHP 42.57 saved per box",
+          "PRB-02 case: $1,489.57 x PHP 63.26 = PHP 94,230.20 goods; PHP 94,230.20 / 20 boxes = PHP 4,711.51 per box; single PHP 4,733.11 - PHP 4,711.51 = PHP 21.60 saved per box",
+          "Whole box ladder: $3,394.77 x PHP 63.26 = PHP 214,753.15; under the line $1,699.21 = PHP 107,492.02; over the line $1,695.56 = PHP 107,261.13",
+          "Whole case ladder: $39,858.31 x PHP 63.26 = PHP 2,521,436.69",
+          "OP-15 + PRB-02 pairing: PHP 4,395.30 + PHP 4,733.11 = PHP 9,128.41 of goods, under the line",
+          "OP-15 + OP-18 pairing: PHP 4,395.30 + PHP 5,313.84 = PHP 9,709.14 of goods, under the line",
+          "Two OP-15 pairing: 2 x PHP 4,395.30 = PHP 8,790.60 of goods, under the line",
+          "OP-15 + EB-04 pairing: PHP 4,395.30 + PHP 5,758.56 = PHP 10,153.86 of goods, over the line",
+          "Samurai Sword OP-01: JPY 38,901 / 154 = $252.60; our $238.45 is $14.15 cheaper",
+          "SNKRDUNK OP-01 lowest ask: JPY 38,000 / 154 = $246.75; our $238.45 is $8.30 cheaper",
+          "CardZ OP-17 last sold: our $121.28 - $69.20 = $52.08 dearer (one completed sale, not a market price)",
+          "CardZ PRB-02 last sold: our $74.82 - $63.19 = $11.63 dearer (one completed sale, not a market price)",
+          "OP Box Index OP-07 eBay median: our $134.32 - $80.00 = $54.32 dearer",
+          "OP Box Index OP-01 eBay floor: our $238.45 - $200.00 = $38.45 above the lowest eBay ask",
+          "OP Box Index EB-01 eBay floor: our $155.04 - $110.00 = $45.04 above the lowest eBay ask",
+          "Free shipping: OP-01 + OP-02 + OP-15: $238.45 + $206.42 + $69.48 = $514.35, clears the $500 line"
+        ],
+        "paragraphs": [
+          "Twenty-four Japanese One Piece booster boxes are in stock, $69.48 to $238.45, a $3,394.77 shelf, as of November 11, 2026. Goods value is PHP 214,753.15, of which $1,699.21 sits under the PHP 10,000 line and $1,695.56 sits over it. Every peso figure is the dollar shelf price multiplied by 63.26, the Bangko Sentral ng Pilipinas reference rate on November 10, 2026. A standard box holds 24 packs of 6 cards. Two exceptions: the Extra Booster per-pack figures use the 24-pack box shown in retail listings, because Bandai prints no packs-per-box figure for EB-01 through EB-04, and PRB-01 is 10 packs of 10 cards on a retail-listing basis, while PRB-02 carries no packs-per-box figure and is priced per box only.",
+          "Under PHP 5,000 of goods (2 boxes): 4,395.30: OP-15 Adventure on KAMI's Island; 4,733.11: PRB-02 The Best vol.2.",
+          "PHP 5,000 to PHP 10,000 of goods (13 boxes): 5,313.84: OP-18 The Dominance of God; 5,758.56: EB-04 Egghead Crisis; 6,215.93: OP-14 Azure Sea's Seven; 6,215.93: OP-10 Royal Blood; 6,215.93: OP-08 Two Legends; 6,642.30: OP-16 The Time of Battle; 7,672.17: OP-17 World's Strongest Warriors; 8,210.52: OP-12 Legacy of the Master; 8,497.08: OP-07 500 Years in the Future; 8,540.10: OP-13 Carrying on His Will; 9,465.59: PRB-01 The Best; 9,807.83: EB-03 Heroines Edition; 9,807.83: EB-01 Memorial Collection.",
+          "PHP 10,000 to PHP 12,500 of goods (7 boxes): 10,492.30: OP-06 Wings of the Captain; 11,119.84: OP-09 Emperors in the New World; 11,119.84: OP-03 Pillars of Strength; 11,314.68: EB-02 Anime 25th Collection; 11,463.34: OP-11 A Fist of Divine Speed; 11,803.68: OP-04 Kingdoms of Intrigue; 11,804.95: OP-05 Awakening of the New Era.",
+          "Over PHP 12,500 of goods (2 boxes): 13,058.13: OP-02 Paramount War; 15,084.35: OP-01 Romance Dawn.",
+          "[OP-15 Adventure on KAMI's Island](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) is the cheapest box per pack at PHP 183.14, or PHP 30.52 a card. [OP-18 The Dominance of God](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/), on pre-order for its Japanese release on November 21, 2026, is second-cheapest at PHP 221.41 a pack. [OP-01 Romance Dawn](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) is the dearest main-set box at PHP 628.51 a pack, or PHP 104.75 a card; PRB-01 divides dearer per pack on a listing basis, at PHP 946.56, but it holds 10 cards a pack. [PRB-02 The Best vol.2](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) at PHP 4,733.11 and [PRB-01 The Best](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) at PHP 9,465.59 are priced per box only for PRB-02 and per pack on a listing basis for PRB-01, because Bandai prints no packs-per-box figure for the Premium Boosters. OP-14, OP-10 and OP-08 all sit at exactly PHP 6,215.93 and divide to PHP 259.00 a pack.",
+          "The case column splits the shelf the same way. The OP-02 case works out to PHP 10,466.26 a box against a PHP 13,058.13 single, saving PHP 2,591.87 a box, and the OP-03 case works out to PHP 8,897.57 a box against a PHP 11,119.84 single, saving PHP 2,222.27 a box. Those are the only two large case discounts on this shelf. OP-18, OP-01 and OP-15 cases save PHP 537.71, PHP 315.93 and PHP 93.62 a box, and every other case saves PHP 42.57 or less, or costs more per box than the single: OP-17 by PHP 13.92, OP-05 by PHP 28.52 and OP-07 by PHP 7.38. The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division, and the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the same twenty-four boxes in dollars.",
+          "Two boxes sent the same day to the same recipient combine for the PHP 10,000 line. OP-15 with PRB-02 is PHP 9,128.41 of goods, under the line; OP-15 with OP-18 is PHP 9,709.14, under the line; two OP-15 boxes are PHP 8,790.60, under the line. OP-15 with EB-04 is PHP 10,153.86, over the line by PHP 153.86, so a buyer who adds EB-04 to an OP-15 order pays duty and VAT on the whole parcel. Split the order across days, or accept the duty."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs local shops vs eBay",
+        "note": "From the Warehouse: the question we get most from Philippines buyers is whether the PHP 10,000 line means a box under it is free to land. It is not free: the processing charges are PHP 130.00 to PHP 375.20, and they apply to every parcel. The line spares duty and VAT only. The only number that matters for a box is its FOB goods value against PHP 10,000, and every figure on this page is built from that division.",
+        "paragraphs": [
+          "A Philippines buyer has three real routes. Japan-direct means a sealed box shipped from Japan, priced in dollars, with the border charges on this page. A local shop means stock already in the Philippines, priced in pesos with the import already done. eBay means a global listing in dollars, with its own shipping and import treatment on top.",
+          "The local comparison is thin, and this page says so plainly. Laugh Tale TCG Shop in Carmona lists an OP-05 box at PHP 3,300 and a case at PHP 38,400, but those listings are dated 2023, so no buying decision should rest on them. No current Philippine listing for a sealed Japanese One Piece box was found, which is itself a finding.",
+          "The eBay comparison is mixed. OP Box Index eBay medians from November 10, 2026 put OP-07 at $80 against our $134.32, so we are $54.32 dearer, and OP-01 from $200 against our $238.45, so we are $38.45 above the lowest eBay ask. CardZ last-sold figures from November 9, 2026 put OP-17 at $69.20 against our $121.28 and PRB-02 at $63.19 against our $74.82, so we are $52.08 and $11.63 dearer on those two, but a last-sold figure is one completed sale, not a market price. Against a Japanese store we are cheaper: Samurai Sword Tokyo listed OP-01 at JPY 38,901 on October 15, 2026, about $252.60, against our $238.45. Compare landed cost against the delivered ask."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Goods PHP",
+            "Per pack",
+            "Landed cost",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "OP-15 Adventure on KAMI's Island",
+              "PHP 4,395.30",
+              "PHP 183.14",
+              "PHP 4,525.30",
+              "Cheapest pack, open it"
+            ],
+            [
+              "OP-18 The Dominance of God (pre-order)",
+              "PHP 5,313.84",
+              "PHP 221.41",
+              "PHP 5,568.84",
+              "Newest set, second-cheapest pack"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "PHP 4,733.11",
+              "Per box only",
+              "PHP 4,863.11",
+              "Cheapest premium entry"
+            ],
+            [
+              "OP-01 Romance Dawn",
+              "PHP 15,084.35",
+              "PHP 628.51",
+              "PHP 17,401.31 to PHP 19,428.64",
+              "Origin set, collector only"
+            ],
+            [
+              "OP-02 Paramount War",
+              "PHP 13,058.13",
+              "PHP 544.09",
+              "PHP 15,063.86 to PHP 16,818.87",
+              "Case is the real bargain"
+            ],
+            [
+              "OP-17 World's Strongest Warriors",
+              "PHP 7,672.17",
+              "PHP 319.67",
+              "PHP 7,927.17",
+              "Anniversary set, check eBay first"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What is missing from other Philippines One Piece price pages",
+        "paragraphs": [
+          "The top results for this query do not price a Japanese One Piece box in pesos at all. The first is a release-date page quoting a TCGplayer market price for the English OP-17 box, the second a local shop page with listings dated 2023, and the third a sale listing for a single Premium Booster box. None of them runs the PHP 10,000 line, names the processing charges, or divides a case.",
+          "The second gap is the case division. No other page prices all twenty-four Japanese One Piece cases against their single boxes, and the result is that only two cases discount heavily, OP-02 and OP-03, while three cost more per box than buying singly. The third gap is the same-day rule: no other page warns that two boxes sent the same day to the same recipient combine for the line."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to the Philippines",
+        "paragraphs": [
+          "Pick the box from the board above, multiply the dollar price by 63.26, then check the goods value against PHP 10,000. If it is under, add the processing charges from the math lines. If it is over, multiply by 1.03 and 1.12 for the low end of the landed range, and by 1.15 and 1.12 for the high end, then confirm the exact duty rate with the Bureau of Customs. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying.",
+          "Orders over $500 ship free: a single OP-01 at $238.45 does not clear the line, but OP-01 with OP-02 and OP-15 at $514.35 does, so the trio saves shipping. Store the box sealed and upright; our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers the humidity and stacking rules. Keep the invoice with the parcel: it is the proof of the FOB goods value if customs asks."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the case that costs more",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route. A box that has been opened and re-shrunk looks sealed until it is opened. The only defence is factory-sealed stock from a seller whose reputation is on the line, checked against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. eBay sellers carry the widest range of provenance, so the reseal check matters most there: the OP-07 gap above, $54.32 dearer on our shelf than the eBay median, is the price of that provenance.",
+          "The second risk is the reprint: a restock or reprint announcement can cut a premium the same week, and OP-01 at $238.45 carries the largest premium on this shelf, so it carries the largest reprint risk. Check the live shelf price before paying: a price on this page is a stamp, not a promise. The third risk is format confusion: Japanese One Piece cards are not legal at most official Bandai tournaments outside Asia, so a player who buys Japanese boxes for an event abroad has bought the wrong product, however good the per-pack price looks.",
+          "The fourth risk is a case price that does not add up, and this page prints it rather than hiding it. The OP-17 case works out to PHP 7,686.09 a box against a PHP 7,672.17 single, OP-05 to PHP 11,833.47 against PHP 11,804.95, and OP-07 to PHP 8,504.46 against PHP 8,497.08, so all three cost more per box than buying singly. The amounts are small, and that is why they survive. Divide before paying, on every set, forever."
+        ]
+      },
+      {
+        "h": "Context: Japan store price vs shelf vs Philippine retail",
+        "paragraphs": [
+          "A Japanese store price is the honest anchor. Samurai Sword Tokyo listed OP-01 at JPY 38,901 on October 15, 2026, about $252.60 at 154 yen to the dollar, with the lowest SNKRDUNK ask at JPY 38,000, about $246.75. Our OP-01 at $238.45 sits $14.15 below the store price and $8.30 below the lowest ask. The OP Box Index range from November 10, 2026 runs $80 to $261; our shelf runs $69.48 to $238.45, so our dearest box sits $22.55 below the index top while our OP-07 sits $54.32 above the index bottom.",
+          "The English comparison is a different product. The English OP-17 sealed box carried a TCGplayer market price of $307.34 on October 19, 2026, against our Japanese OP-17 at $121.28, and Bandai's English booster is $4.99 a pack. An English box costs more because it is the tournament-legal product outside Asia. Buy English to play outside Asia; buy Japanese to collect. FoilKraken's OP-01 figure of $1,332.47 is the English TCGplayer price, not a Japanese box price. The [Japanese Pokemon booster box Philippines price guide](/blog/japanese-pokemon-booster-box-philippines-price/) runs the same PHP 10,000 line across the ninety Pokemon boxes."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card. If the card is a manga-rare Luffy or a single Leader, the single is cheaper than the box. It is not for a buyer who needs the box this week. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card, and Bandai publishes no pull rates. It is not for a buyer who wants English card text or tournament legality outside Asia: Japanese cards are not legal at most Bandai events outside Asia."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its goods value in pesos, not its dollar price.",
+          "Check the goods value against PHP 10,000 before anything else: fifteen boxes clear it, nine do not.",
+          "If it is under, add the processing charges: PHP 130.00 direct for a box at PHP 5,000 or less, PHP 255.00 direct above PHP 5,000.",
+          "If it is over, run the 3% and 15% duty range and confirm the exact rate through the Bureau of Customs estimator.",
+          "Remember same-day parcels to the same recipient combine: OP-15 with EB-04 is PHP 10,153.86, over the line.",
+          "Divide every case before paying: only OP-02 and OP-03 discount heavily, and OP-17, OP-05 and OP-07 cost more per box than the single.",
+          "Remember a single OP-01 at $238.45 does not clear the $500 free-shipping line, but OP-01 with OP-02 and OP-15 at $514.35 does.",
+          "Confirm the shipping quote and the duty treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel."
+        ],
+        "h": "Action layer: the Philippines buyer's checklist",
+        "paragraphs": [
+          "Work the list and the box you buy is the box you meant to buy. For the Philippines hub this guide sits inside, the [buying Japanese TCG cards in Philippines guide](/blog/buying-japanese-tcg-cards-in-philippines/) runs the same PHP 10,000 line across all four games. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Philippines price guide](/blog/japanese-pokemon-booster-box-philippines-price/) runs the same line across the ninety Pokemon boxes."
+        ]
+      }
+    ],
+    "slug": "japanese-one-piece-booster-box-philippines-price",
+    "takeaway": [
+      "One Japanese One Piece booster box shipped to the Philippines clears the border with no duty or VAT, because the line is PHP 10,000 of FOB value and fifteen of the twenty-four boxes on our shelf sit under it on goods value alone. Processing charges of PHP 130.00 to PHP 375.20 still apply, and a box over the line pays duty at 3 to 15% plus 12% VAT. The cheapest pack on the shelf is OP-15 at PHP 183.14, and the dearest box is OP-01 Romance Dawn at PHP 15,084.35 of goods.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at PHP 63.26 to the dollar, with duty and VAT calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the PHP 10,000 check on the FOB goods value, not the parcel total, because shipping never pushes a parcel over the line and same-day parcels to the same recipient combine.",
+      "For the Philippines hub this guide sits inside, the [buying Japanese TCG cards in Philippines guide](/blog/buying-japanese-tcg-cards-in-philippines/) runs the same PHP 10,000 line across all four games, with Pokemon, Dragon Ball and Lorcana in Philippine pesos. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Philippines price guide](/blog/japanese-pokemon-booster-box-philippines-price/) runs the same line across the ninety Pokemon boxes."
+    ]
+  },
   "japanese-one-piece-cards-price": {
     "datePublished": "2026-11-10",
     "faqs": [
@@ -17533,6 +17756,203 @@ export const POSTS: Record<string, BlogPost> = {
       "Every Japanese Pokemon booster box shipped to Indonesia pays the border: a flat 7.5% duty plus 11% VAT, a combined factor of 1.19325 on the goods value, because the duty-free line is US$3 and no box on this shelf sits under it, and VAT applies from the first dollar. The cheapest pack on the shelf is M3 at Rp50,728.92 landed, and the dearest box is Pokemon Card 151 at Rp10,154,404.76 landed.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at Rp18,060 to the dollar, with duty and VAT calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and remember SM7 at $3,924.12 sits above the US$1,500 ceiling and pays the MFN rate, not the 7.5% flat rate.",
       "For the Indonesia hub this guide sits inside, the [membeli kartu TCG Jepang di Indonesia guide](/blog/membeli-kartu-tcg-jepang-di-indonesia/) runs the same 7.5% plus 11% rule across all four games, with One Piece, Dragon Ball and Lorcana in Indonesian rupiah. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does."
+    ]
+  },
+  "japanese-pokemon-booster-box-netherlands-price": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Every box pays 21% BTW from the first euro, plus duty. At EUR 150 of goods or less, which is 39 of the ninety boxes, the duty is a flat EUR 3 per item plus a EUR 2 handling fee per item, so the landed cost is (goods plus EUR 3 plus EUR 2) times 1.21: an M3 lands at EUR 82.24 before shipping. Above EUR 150, which is 51 boxes, the duty is the normal TARIC rate for HS 9504.40, not yet verified, so a 151 lands at a EUR 508.41 floor before shipping, with duty still to be added.",
+        "q": "How much tax will I pay on a Japanese Pokemon booster box shipped to the Netherlands?"
+      },
+      {
+        "a": "It depends on the set. The SV2a case lands at a EUR 4,110.09 floor, or EUR 342.51 a box, against a single 151 landed at a EUR 508.41 floor, so the case saves EUR 165.90 a box. The M3 case runs the other way: it lands at a EUR 1,131.01 floor, or EUR 94.25 a box, against a single M3 landed at EUR 82.24, so the case costs EUR 12.01 more a box. Divide the case for the set you want; the format alone does not save money.",
+        "q": "Is a sealed case cheaper than buying twelve boxes in the Netherlands?"
+      },
+      {
+        "a": "On the one box compared, no. Kaikan Cards in Beugen lists M2a at EUR 109.95, and our M2a lands at EUR 129.88 before shipping, so Kaikan is EUR 19.93 cheaper before either side adds shipping, and EUR 14.98 cheaper even after Kaikan adds its EUR 4.95 mailbox shipping. Kaikan ships in the Netherlands in 1 to 2 business days via DHL or PostNL. Our shelf wins on range, with ninety boxes against one shop's list, so compare the landed cost plus shipping for the set you want.",
+        "q": "Is the Warehouse cheaper than Kaikan Cards?"
+      }
+    ],
+    "h1": "Japanese Pokemon Booster Box Prices in the Netherlands: Every Box Landed, in Euros",
+    "intro": [
+      "Every Japanese Pokemon booster box shipped to the Netherlands pays tax at the border: 21% Dutch BTW applies from the first euro. The EUR 150 line decides the duty: a consignment of EUR 150 or less pays a temporary flat customs duty of EUR 3 per item plus a EUR 2 handling fee per item, and a consignment above EUR 150 pays the normal TARIC duty rate. This guide prices all 90 boxes landed, and compares Japan-direct against Kaikan Cards in Beugen and the wider European market. Prices as of November 11, 2026, converted at EUR 0.8917 to the dollar, the ECB rate updated November 10, 2026.",
+      "The cheapest box per pack is S2 Rebellion Crash at EUR 1.75 landed, and the dearest box is SM7 Sky-Splitting Charisma at EUR 4,233.96 landed before shipping, as a floor, with TARIC duty still to be added."
+    ],
+    "metaDescription": "Every Japanese Pokemon booster box price in euros as of November 11, 2026: the EUR 150 line, EUR 3 duty, EUR 2 fee, and 21% BTW, landed.",
+    "metaTitle": "Japanese Pokemon Booster Box Prices Netherlands",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: EUR 150 is the line, and 21% BTW starts at the first euro",
+        "paragraphs": [
+          "Council Regulation (EU) 2026/382 sets the EUR 150 line: from 1 July 2026 until 1 July 2028, low-value consignments of EUR 150 or less pay a temporary flat customs duty of EUR 3 per item, charged per tariff line rather than per parcel. The rate ends 1 July 2028. Dutch BTW at 21% applies from the first euro, with no VAT threshold since July 2021, so no box on this shelf is tax-free.",
+          "A EUR 2 handling fee per item or category applies from 1 November 2026, per the Spanish tax agency AEAT and DHL. The European Commission guidance page, updated July 20, 2026, still describes the Union handling fee as proposed, so this page includes the EUR 2 citing AEAT and DHL. A product identifier is mandatory from 1 November 2026.",
+          "On this shelf, 39 of the ninety boxes sit at EUR 150 of goods or less, so they land at (goods plus EUR 3 duty plus EUR 2 fee) times 1.21. 51 sit above EUR 150, so their landed figures here are the VAT-inclusive floor, goods times 1.21, with the normal TARIC duty still to be added: the duty rate for trading cards under HS 9504.40 is not published in a verifiable form, so the buyer confirms it at checkout or through the TARIC consultation. Every landed figure here is on goods value only: shipping and insurance are excluded."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in euros, landed",
+        "math": [
+          "M3 box: $70.62 x EUR 0.8917 = EUR 62.97 goods; (EUR 62.97 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 82.24 landed; EUR 82.24 / 30 packs = EUR 2.74 per pack; EUR 82.24 / 150 cards = EUR 0.55 per card",
+          "S2 box: $43.03 x EUR 0.8917 = EUR 38.37 goods; (EUR 38.37 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 52.48 landed; EUR 52.48 / 30 packs = EUR 1.75 per pack; EUR 52.48 / 150 cards = EUR 0.35 per card",
+          "M6a box: $249.00 x EUR 0.8917 = EUR 222.03 goods; EUR 222.03 x 1.21 = EUR 268.66 landed (VAT-inclusive floor, duty TBD); EUR 268.66 / 20 packs = EUR 13.43 per pack; EUR 268.66 / 120 cards = EUR 2.24 per card",
+          "SV2a box: $471.20 x EUR 0.8917 = EUR 420.17 goods; EUR 420.17 x 1.21 = EUR 508.41 landed (VAT-inclusive floor, duty TBD); EUR 508.41 / 20 packs = EUR 25.42 per pack; EUR 508.41 / 140 cards = EUR 3.63 per card",
+          "M2a box: $114.77 x EUR 0.8917 = EUR 102.34 goods; (EUR 102.34 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 129.88 landed; EUR 129.88 / 10 packs = EUR 12.99 per pack; EUR 129.88 / 100 cards = EUR 1.30 per card",
+          "M2 box: $183.18 x EUR 0.8917 = EUR 163.34 goods; EUR 163.34 x 1.21 = EUR 197.64 landed (VAT-inclusive floor, duty TBD); EUR 197.64 / 20 packs = EUR 9.88 per pack; EUR 197.64 / 100 cards = EUR 1.98 per card",
+          "M1L box: $94.91 x EUR 0.8917 = EUR 84.63 goods; (EUR 84.63 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 108.45 landed; EUR 108.45 / 30 packs = EUR 3.62 per pack; EUR 108.45 / 150 cards = EUR 0.72 per card",
+          "M1S box: $84.97 x EUR 0.8917 = EUR 75.77 goods; (EUR 75.77 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 97.73 landed; EUR 97.73 / 30 packs = EUR 3.26 per pack; EUR 97.73 / 150 cards = EUR 0.65 per card",
+          "SV11B box: $183.18 x EUR 0.8917 = EUR 163.34 goods; EUR 163.34 x 1.21 = EUR 197.64 landed (VAT-inclusive floor, duty TBD); EUR 197.64 / 20 packs = EUR 9.88 per pack; EUR 197.64 / 140 cards = EUR 1.41 per card",
+          "SV11W box: $167.72 x EUR 0.8917 = EUR 149.56 goods; (EUR 149.56 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 187.02 landed; EUR 187.02 / 20 packs = EUR 9.35 per pack; EUR 187.02 / 140 cards = EUR 1.34 per card",
+          "SV9a box: $163.32 x EUR 0.8917 = EUR 145.63 goods; (EUR 145.63 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 182.26 landed; EUR 182.26 / 30 packs = EUR 6.08 per pack; EUR 182.26 / 150 cards = EUR 1.22 per card",
+          "SV10 box: $212.99 x EUR 0.8917 = EUR 189.92 goods; EUR 189.92 x 1.21 = EUR 229.80 landed (VAT-inclusive floor, duty TBD); EUR 229.80 / 30 packs = EUR 7.66 per pack; EUR 229.80 / 150 cards = EUR 1.53 per card",
+          "SV8a box: $163.32 x EUR 0.8917 = EUR 145.63 goods; (EUR 145.63 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 182.26 landed; EUR 182.26 / 10 packs = EUR 18.23 per pack; EUR 182.26 / 100 cards = EUR 1.82 per card",
+          "SV4a box: $141.24 x EUR 0.8917 = EUR 125.94 goods; (EUR 125.94 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 158.44 landed; EUR 158.44 / 10 packs = EUR 15.84 per pack; EUR 158.44 / 100 cards = EUR 1.58 per card",
+          "SV8 box: $258.23 x EUR 0.8917 = EUR 230.26 goods; EUR 230.26 x 1.21 = EUR 278.61 landed (VAT-inclusive floor, duty TBD); EUR 278.61 / 30 packs = EUR 9.29 per pack; EUR 278.61 / 150 cards = EUR 1.86 per card",
+          "M6 box: $82.80 x EUR 0.8917 = EUR 73.83 goods; (EUR 73.83 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 95.38 landed; EUR 95.38 / 30 packs = EUR 3.18 per pack; EUR 95.38 / 150 cards = EUR 0.64 per card",
+          "M5 box: $91.61 x EUR 0.8917 = EUR 81.69 goods; (EUR 81.69 + EUR 3 duty + EUR 2 fee) x 1.21 = EUR 104.89 landed; EUR 104.89 / 30 packs = EUR 3.50 per pack; EUR 104.89 / 150 cards = EUR 0.70 per card",
+          "SV11B Deluxe box: $212.99 x EUR 0.8917 = EUR 189.92 goods; EUR 189.92 x 1.21 = EUR 229.80 landed (VAT-inclusive floor, duty TBD); EUR 229.80 / 4 packs = EUR 57.45 per pack; EUR 229.80 / 140 cards = EUR 1.64 per card",
+          "SV11W Deluxe box: $197.53 x EUR 0.8917 = EUR 176.14 goods; EUR 176.14 x 1.21 = EUR 213.13 landed (VAT-inclusive floor, duty TBD); EUR 213.13 / 4 packs = EUR 53.28 per pack; EUR 213.13 / 140 cards = EUR 1.52 per card",
+          "SV2a case: $3,809.32 x EUR 0.8917 = EUR 3,396.77 goods; EUR 3,396.77 x 1.21 = EUR 4,110.09 landed (VAT-inclusive floor, duty TBD); EUR 4,110.09 / 12 = EUR 342.51 per box vs single landed EUR 508.41, saves EUR 165.90 per box",
+          "M3 case: $1,048.24 x EUR 0.8917 = EUR 934.72 goods; EUR 934.72 x 1.21 = EUR 1,131.01 landed (VAT-inclusive floor, duty TBD); EUR 1,131.01 / 12 = EUR 94.25 per box vs single landed EUR 82.24, costs EUR 12.01 more per box",
+          "Whole ladder: $41,700.52 x EUR 0.8917 = EUR 37,184.35 goods; under EUR 150 $4,271.55 = EUR 3,808.96 goods, landed EUR 4,844.73; over EUR 150 $37,428.97 = EUR 33,375.41 goods, landed floor EUR 40,384.28; total landed EUR 45,229.01 (floor)",
+          "M3 + M1S pairing: EUR 62.97 + EUR 75.77 = EUR 138.74 of goods, under EUR 150; (EUR 138.74 + EUR 6 duty + EUR 4 fee) x 1.21 = EUR 179.98 landed",
+          "Two M3 pairing: 2 x EUR 62.97 = EUR 125.94 of goods, under EUR 150; (EUR 125.94 + EUR 6 duty + EUR 4 fee) x 1.21 = EUR 164.49 landed",
+          "M6a + 151 pairing: EUR 222.03 + EUR 420.17 = EUR 642.20 of goods, over EUR 150; EUR 642.20 x 1.21 = EUR 777.06 landed (VAT-inclusive floor, duty TBD)",
+          "Kaikan M2a: our landed EUR 129.88 - EUR 109.95 = EUR 19.93 dearer (Kaikan ships NL in 1-2 business days via DHL/PostNL; mailbox shipping EUR 4.95, parcel EUR 6.95)",
+          "CardZ M6a last sold: our $249.00 - $160.00 = $89.00 dearer (one completed sale, not a market price)",
+          "CardZ M2a last sold: our $114.77 - $82.15 = $32.62 dearer (one completed sale, not a market price)",
+          "TCGRadar M6a list: JPY 7,200 / 154 = $46.75; our $249.00 is 5.33x the list price",
+          "Free shipping: 151 + M3: $471.20 + $70.62 = $541.82, clears the $500 line"
+        ],
+        "paragraphs": [
+          "Ninety Japanese Pokemon booster boxes are in stock, $43.03 to $3,924.12, a $41,700.52 shelf. Goods value is EUR 37,184.35, and landed cost is EUR 45,229.01 before shipping, as a floor: the 51 boxes over EUR 150 still owe TARIC duty. Every euro figure is the dollar price multiplied by 0.8917, the ECB rate updated November 10, 2026. Most boxes hold [30 packs](/blog/how-many-packs-in-a-booster-box/) of 5 cards. Exceptions: M2a, SV4a and SV8a at 10 packs of 10 cards; SV2a, SV11B and SV11W at 20 packs of 7; M6a at 20 packs of 6 foil cards; and two Deluxe boxes at 4 packs of 35 cards.",
+          "Under EUR 50 (1 box): 38.37: S2 Rebellion Crash.",
+          "EUR 50 to EUR 100 (27 boxes): 62.97: M3 Munikis Zero; 73.83: M6 Storm Emeralda; 75.77: M1S Mega Symphonia; 75.77: SV9 Battle Partners; 78.71: M4 Ninja Spinner; 78.71: SV5M Cyber Judge; 78.71: SV4M Future Flash; 78.71: SV1V Violet; 81.69: M5 Abyss Eye; 81.69: SV7 Stella Miracle; 81.69: SV6a Night Wanderer; 81.69: SV4K Ancient Roar; 81.69: S11a Incandescent Arcana; 81.69: S9a Battle Region; 81.69: S9 Star Birth; 84.63: M1L Mega Brave; 84.63: SV2P Snow Hazard; 88.21: SMP2 Detective Pikachu; 88.21: SM9a Night Unison; 88.21: SM9 Tag Bolt; 91.52: SV3a Raging Surf; 91.52: SV2D Clay Burst; 95.45: SV5a Crimson Haze; 95.45: SV5K Wild Force; 96.45: S10P Space Juggler; 99.39: SV6 Mask Of Change; 99.39: SV1S Scarlet.",
+          "EUR 100 to EUR 150 (11 boxes): 102.34: M2a MEGA Dream ex; 125.94: SV7a Paradise Dragona; 125.94: SV4a Shiny Treasure ex; 132.84: S10D Time Gazer; 135.80: SV3 Ruler Of Black Flame; 135.80: SV1A Triplet Beat; 143.48: SM9b Full Metal Wall; 145.63: SV9a Heat Wave Arena; 145.63: SV8a Terastal Festival ex; 149.56: SV11W White Flare; 149.56: S6h Silver Lance.",
+          "Over EUR 150 (51 boxes): 151.55: S4a Shiny Star V; 151.55: S4 Shocking Volt Tackle : Electryfing Tackle; 163.34: M2 Inferno X; 163.34: SV11B Black Bolt; 164.31: S7d Towering Perfection; 176.14: SV11W Deluxe White Flare; 179.08: S6k Jet Black Spirit; 189.92: SV11B Deluxe Black Bolt; 189.92: SV10 Glory Of Team Rocket; 215.50: S12a Vstar Universe; 215.50: S12 Paradigm Trigger; 216.48: S10a Dark Phantasma; 222.03: M6a 30th CELEBRATION Pokémon; 230.26: SV8 Super Electric Breaker; 231.24: S10b GO; 259.79: S8b VMAX Climax; 259.79: S8 Fusion Arts; 259.79: S1a VMAX Rising; 335.56: S2a explosive Flame Walker; 368.03: S5a Matchless Fighter; 381.80: S5i Single Strike Master; 383.77: S11 Lost Abyss; 388.69: S3a Legendary Heartbeat Pulse; 388.69: S3 Infinity Zone; 420.17: SV2a Pokemon Card 151; 432.97: S1W Sword; 455.61: S5r Rapid Strike Master; 458.56: SM8a Dark Order; 491.03: SM12 Alter Genesis; 502.82: S8a 25th Anniversary; 580.56: S1h Shield; 607.13: SM5+ Ultra Force; 622.88: SM6 Forbidden Light; 646.48: SM5S Ultra Sun; 650.43: SM7a Thunderclap Spark; 705.53: SM7b Fairy Rise; 798.04: SM6b Champion Road; 840.35: SM10a G G End; 868.88: SM10 Double Blaze; 988.93: SM10b Sky Legend; 1,011.56: SM6a Dragon Storm; 1,034.19: S6a Eevee Heroes; 1,088.33: SM8 Super-Burst Impact; 1,143.43: SM11a Remix Bout; 1,292.01: SM11b Dream League; 1,357.93: SM5M Ultra Moon; 1,487.83: SM12a Tag Team GX Tag All Stars; 1,533.09: SM8b GX Ultra Shiny; 1,664.94: SM11 Miracle Twin; 2,306.52: S7r Blue Sky Stream; 3,499.14: SM7 Sky-Splitting Charisma.",
+          "S2 Rebellion Crash is the cheapest box per pack at $1.43, or EUR 1.75 a pack landed; [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) is second-cheapest at $2.35, or EUR 2.74 a pack landed. [M6a](/blog/m6a-30th-celebration-buyers-guide/) divides to $12.45 a pack, or EUR 13.43 landed. [151](/blog/sv2a-pokemon-151-buyers-guide/) is the dearest 20-pack box per pack at $23.56 a pack, or EUR 25.42 landed. The two Deluxe boxes, at 35 cards a pack, divide dearer per pack: SV11B Deluxe is $53.25 a pack, or EUR 57.45 landed, and SV11W Deluxe is $49.38 a pack, or EUR 53.28 landed. Compare the [M3 box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/), [M6a box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) and [151 box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) first.",
+          "The case column splits the shelf. The SV2a sealed case costs $3,809.32, or EUR 3,396.77 in goods, and lands at a EUR 4,110.09 floor, which is EUR 342.51 a box: against the $471.20 single, landed at a EUR 508.41 floor, that saves EUR 165.90 a box. The M3 case runs the other way: $1,048.24, or EUR 934.72 in goods, lands at a EUR 1,131.01 floor, EUR 94.25 a box against the $70.62 single, landed at EUR 82.24, so the case costs EUR 12.01 more per box. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Kaikan vs Cardmarket",
+        "note": "From the Warehouse: the question we get most from Netherlands buyers is why a box under EUR 150 still pays tax when the EUR 150 line sounds like a free pass. It is not a free pass: the EUR 150 line only caps the duty at EUR 3 per item, and 21% BTW applies from the first euro on every box. The only numbers that matter for a box are its goods value against EUR 150, and the EUR 3 plus EUR 2 plus 21% stack below it.",
+        "paragraphs": [
+          "Three routes: Japan-direct, a sealed box shipped from Japan, priced in dollars, with the border charges on this page; Kaikan Cards in Beugen, a Dutch shop with stock already in the Netherlands, priced in euros with the import already done; and Cardmarket, priced in euros by thousands of sellers.",
+          "The Kaikan comparison is honest and unfavourable to us on the one box compared. Kaikan lists the M2a MEGA Dream ex box at EUR 109.95, shipping in the Netherlands in 1 to 2 business days, mailbox EUR 4.95, parcel EUR 6.95. Our M2a lands at EUR 129.88 before shipping, so Kaikan is EUR 19.93 cheaper before shipping, EUR 14.98 after its EUR 4.95 mailbox shipping. Kaikan prices are domestic delivered asks with the tax inside; ours is landed cost before shipping, so add the shipping quote before deciding.",
+          "Cardmarket runs the other way. FoilKraken's Europe versus US comparison, prices updated November 11, 2026, finds Cardmarket typically 19% cheaper than TCGplayer on sealed boxes. CardZ last-sold figures from November 9, 2026 put M6a at $160 against our $249.00 and M2a at $82.15 against our $114.77, so we are $89.00 and $32.62 dearer on those two, but a last-sold figure is one completed sale, not a market price. Japan-direct wins on range: ninety boxes sit on our shelf and no Dutch shop lists ninety, but where one does, the domestic ask can be lower, and this page names the gap."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Landed EUR",
+            "Per pack",
+            "Dutch ask",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "S2 Rebellion Crash",
+              "EUR 52.48",
+              "EUR 1.75",
+              "Not listed",
+              "Cheapest pack, open it"
+            ],
+            [
+              "M3 Munikis Zero",
+              "EUR 82.24",
+              "EUR 2.74",
+              "Not listed",
+              "Second-cheapest pack"
+            ],
+            [
+              "M1S Mega Symphonia",
+              "EUR 97.73",
+              "EUR 3.26",
+              "Not listed",
+              "Cheap MEGA box"
+            ],
+            [
+              "M6a 30th Celebration",
+              "EUR 274.71",
+              "EUR 13.74",
+              "Not listed",
+              "Dearest by demand, check the price first"
+            ],
+            [
+              "Pokemon Card 151",
+              "EUR 508.41",
+              "EUR 25.42",
+              "Not listed",
+              "Dearest standard box, collector only"
+            ],
+            [
+              "SV2a sealed case",
+              "EUR 4,110.09",
+              "EUR 342.51 per box",
+              "Not listed",
+              "Only real case saving on the shelf"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What is missing from other Netherlands Pokemon price pages",
+        "paragraphs": [
+          "The top results for this query quote prices without ever running the EUR 150 stack. The first is a Europe guide for the 30th Celebration set that prices the Japanese M6a box at JPY 7,200, never converted to a landed euro cost. The second is a Europe versus US comparison that proves Cardmarket is cheaper than TCGplayer but prices no box to a Dutch door. The third is a market-cap page that lists a last-sold price for one set. None of them names the EUR 3 flat duty, the EUR 2 handling fee from 1 November 2026, or the border math on a sealed case.",
+          "The second gap is language. English pages quote dollars and Dutch pages quote Cardmarket asks; neither gives the landed euro cost of a Japan-direct box. A buyer searching japanse pokemon booster box prijs finds asks, not divisions. This page gives the division with the price, so the buyer can check the number instead of trusting it."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to the Netherlands",
+        "paragraphs": [
+          "Pick the box from the board above, multiply the dollar price by 0.8917, then check the goods value against EUR 150. At EUR 150 or less, add EUR 3 duty and EUR 2 fee, then multiply by 1.21. Over EUR 150, multiply by 1.21 for the VAT-inclusive floor and confirm the TARIC duty rate. For a two-box order the charges apply per item. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying.",
+          "Orders over $500 ship free: a single 151 at $471.20 does not clear the line, but a 151 with an M3 at $541.82 does, so the pair saves shipping. Store the box sealed and upright; our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers the humidity and stacking rules. Keep the invoice with the parcel: it is the proof of the goods value if customs asks."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the EUR 2 fee that arrived in November",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route. A box that has been opened and re-shrunk looks sealed until it is opened. The only defence is factory-sealed stock from a seller whose reputation is on the line, checked against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. Cardmarket carries the deepest European stock, so the reseal check matters most there.",
+          "M6a 30th Celebration was $207.50 on October 24, 2026 and is $249.00 on November 10, exactly 20.0% higher in seventeen days. A restock or reprint announcement can cut a premium the same week, so check the live shelf price before paying. The second risk is the EUR 2 handling fee itself: it arrived on 1 November 2026, and the Commission guidance still calls the Union fee proposed. The third risk is a catalog price that does not add up, and this page excludes it rather than printing it. The S10b Pokemon GO case is listed at $1,177.60 for twenty boxes, $58.88 a box against a $259.32 single, an implausible figure that looks like a catalog error, so no case math for S10b appears on this page. A case that divides to a quarter of the single price is not a deal, it is a data error."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Dutch retail",
+        "paragraphs": [
+          "A standard Scarlet and Violet era box lists at 30 packs of 180 yen, 5,400 yen, $35.06 at 154 yen to the dollar. A MEGA era box lists at 30 packs of 200 yen, or 6,000 yen, $38.96, after the pack price rose from 180 to 200 yen in May 2026. Pokemon Card 151 lists at 20 packs of 180 yen, or 3,600 yen, $23.38, and M6a at 20 packs of 200 yen, or 4,000 yen, $25.97. TCGRadar prices the same M6a box at JPY 7,200, or $46.75, the Japanese retail ask; our $249.00 is 5.33 times that ask.",
+          "Rebellion Crash at $43.03 is 1.23 times its era list, M3 at $70.62 is 1.81 times the MEGA list, [M6a](/blog/m6a-30th-celebration-buyers-guide/) at $249.00 is 9.59 times its list, and Pokemon Card 151 at $471.20 is 20.15 times its list. The multiple is the market speaking: 151 is a chase set with a Charizard, M6a is an anniversary box with a Pikachu in every pack, and Rebellion Crash never caught fire. Kaikan lists M2a at EUR 109.95; CardZ lists M6a last sold at $160 and M2a at $82.15."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card. If the card is a Charizard or a specific Secret Art Rare, the single is cheaper. It is not for a buyer who needs the box this week: Japan-direct shipping takes days to weeks. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card. It is not for a buyer who wants a box under EUR 150 to escape tax: the line caps the duty at EUR 3, it does not remove the 21% BTW."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its landed euro cost, not its dollar price.",
+          "Check the goods value against EUR 150: at or under it, add EUR 3 duty and EUR 2 fee, then multiply by 1.21.",
+          "Remember there is no tax-free box on this shelf: 21% BTW applies from the first euro.",
+          "Check the EUR 150 ceiling before buying a dear box: a 151 at EUR 420.17 pays TARIC duty on top of the EUR 508.41 floor.",
+          "Compare the Kaikan delivered ask against the landed cost plus shipping, not against the goods price.",
+          "Check the case division before buying a case: the SV2a case saves EUR 165.90 a box, the M3 case costs EUR 12.01 more a box.",
+          "Remember a single 151 at $471.20 does not clear the $500 free-shipping line, but a 151 with an M3 at $541.82 does.",
+          "Confirm the shipping quote and the duty treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel."
+        ],
+        "h": "Action layer: the Netherlands buyer's checklist",
+        "paragraphs": [
+          "Work the list and the box you buy is the box you meant to buy. The [buying Japanese TCG cards in Netherlands guide](/blog/buying-japanese-tcg-cards-in-netherlands/) runs the same EUR 150 rule across all four games. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by buyer. The [Philippines price guide](/blog/japanese-pokemon-booster-box-philippines-price/) runs the same ninety boxes in pesos."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-booster-box-netherlands-price",
+    "takeaway": [
+      "Every Japanese Pokemon booster box shipped to the Netherlands pays the border: 21% BTW from the first euro, plus EUR 3 flat duty and a EUR 2 handling fee per item at EUR 150 of goods or less, and the normal TARIC duty above EUR 150. 39 of the ninety boxes sit at EUR 150 or less and 51 sit above it, so most of the shelf lands on the VAT-inclusive floor with duty still to be added. The cheapest pack on the shelf is S2 Rebellion Crash at EUR 1.75 landed, and the dearest box is SM7 Sky-Splitting Charisma at EUR 4,233.96 landed before shipping, as a floor.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at EUR 0.8917 to the dollar, with duty and BTW calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and remember the EUR 3 flat duty is temporary, running from 1 July 2026 until 1 July 2028, and the EUR 2 handling fee arrived on 1 November 2026 with its final legal form still settling.",
+      "The [buying Japanese TCG cards in Netherlands guide](/blog/buying-japanese-tcg-cards-in-netherlands/) runs the same EUR 150 rule across all four games. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by buyer."
     ]
   },
   "japanese-pokemon-booster-box-philippines-price": {
