@@ -5921,7 +5921,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Before you buy: the checklist",
         "paragraphs": [
-          "Seven checks, in order. The shelf does the rest, and the shelf on November 4, 2026 says: M3 for the smallest cheque, M2 for the cheapest verified pack, M2a for the cheapest verified card, SV11 for the twin set with the case story, and M6a for the anniversary itself. For the same ninety boxes priced in euros, the [Japanese Pokemon booster box Netherlands price guide](/blog/japanese-pokemon-booster-box-netherlands-price/) lands every box at the EUR 150 rules."
+          "Seven checks, in order. The shelf does the rest, and the shelf on November 4, 2026 says: M3 for the smallest cheque, M2 for the cheapest verified pack, M2a for the cheapest verified card, SV11 for the twin set with the case story, and M6a for the anniversary itself. For the same ninety boxes priced in euros, the [Japanese Pokemon booster box Netherlands price guide](/blog/japanese-pokemon-booster-box-netherlands-price/) lands every box at the EUR 150 rules. For the same ninety boxes priced in baht with duty and 7% VAT from the first baht, the [Japanese Pokemon booster box Thailand price guide](/blog/japanese-pokemon-booster-box-thailand-price/) lands every box under the 219/2568 rules."
         ]
       }
     ],
@@ -10134,7 +10134,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Malaysian buyer's checklist",
         "paragraphs": [
-          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing yen listings."
+          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing yen listings. For the same ninety Pokemon boxes priced in ringgit with the tax already inside, the [Japanese Pokemon booster box Malaysia price guide](/blog/japanese-pokemon-booster-box-malaysia-price/) runs the RM500 line across the whole shelf."
         ]
       }
     ],
@@ -11357,7 +11357,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "ชั้นลงมือ: เช็กลิสต์ผู้ซื้อชาวไทย",
         "paragraphs": [
-          "ทำตามลำดับนี้ก่อนบ็อกซ์ญี่ปุ่นกล่องต่อไปที่คุณกำลังพิจารณา ใช้เวลาห้านาทีและแทนที่การเปรียบเทียบ listing เยนทั้งบ่าย"
+          "ทำตามลำดับนี้ก่อนบ็อกซ์ญี่ปุ่นกล่องต่อไปที่คุณกำลังพิจารณา ใช้เวลาห้านาทีและแทนที่การเปรียบเทียบ listing เยนทั้งบ่าย สำหรับบ็อกซ์โปเกมอนญี่ปุ่นทั้ง 90 กล่องที่คิดราคาเป็นบาทพร้อมอากรและ VAT แล้ว ดูได้ที่ [คู่มือราคาบ็อกซ์โปเกมอนญี่ปุ่นในประเทศไทย](/blog/japanese-pokemon-booster-box-thailand-price/)"
         ]
       }
     ],
@@ -17758,6 +17758,207 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Indonesia hub this guide sits inside, the [membeli kartu TCG Jepang di Indonesia guide](/blog/membeli-kartu-tcg-jepang-di-indonesia/) runs the same 7.5% plus 11% rule across all four games, with One Piece, Dragon Ball and Lorcana in Indonesian rupiah. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does."
     ]
   },
+  "japanese-pokemon-booster-box-malaysia-price": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Every box pays 10% sales tax. At RM500 of goods or less, which is 29 of the ninety boxes, the tax is the low-value goods tax, collected at checkout by a registered seller or charged on import, so the landed cost is goods times 1.10: an M3 lands at RM 316.16 before shipping. Above RM500, which is 61 boxes, the box pays import duty plus 10% sales tax at the border, so a 151 lands at a RM 2,109.56 floor before shipping, with the duty rate for HS 9504.40 still to be confirmed.",
+        "q": "How much tax will I pay on a Japanese Pokemon booster box shipped to Malaysia?"
+      },
+      {
+        "a": "It depends on the set. The SV2a case lands at a RM 17,054.32 floor, or RM 1,421.19 a box, against a single 151 landed at a RM 2,109.56 floor, so the case saves RM 688.37 a box. The M3 case runs the other way: it lands at a RM 4,692.97 floor, or RM 391.08 a box, against a single M3 landed at RM 316.16, so the case costs RM 74.92 more a box. Divide the case for the set you want; the format alone does not save money.",
+        "q": "Is a sealed case cheaper than buying twelve boxes in Malaysia?"
+      },
+      {
+        "a": "On the boxes compared against global market prices, mostly no. Our M6a at $249.00 is $68.03 above the TCGplayer market price of $180.97, our Ninja Spinner at $88.27 is $12.93 above the TCGplayer market price of $75.34, and our M2a at $114.77 is $25.66 above the Samurai Sword Tokyo store price of about $89.11. Our Storm Emeralda at $82.80 is $4.39 below the TCGplayer market price of $87.19. No dated Shopee Malaysia or Carousell Malaysia listing for a sealed Japanese Pokemon box was found, so compare the landed cost plus shipping against the local delivered ask for the set you want, and weigh sealed provenance against the saving.",
+        "q": "Is the Warehouse cheaper than Shopee Malaysia or Carousell Malaysia?"
+      }
+    ],
+    "h1": "Japanese Pokemon Booster Box Prices in Malaysia: Every Box Landed, in Ringgit",
+    "intro": [
+      "Every Japanese Pokemon booster box shipped to Malaysia pays 10% sales tax: the RM500 line decides how it is collected, not whether it applies. At RM500 of goods or less the tax is the low-value goods (LVG) tax, collected at checkout by a registered seller or charged on import; above RM500 the box pays import duty plus 10% sales tax at the border. This guide prices all 90 boxes landed, and compares Japan-direct against Shopee Malaysia, Lazada Malaysia and Carousell Malaysia. Prices as of November 11, 2026, converted at RM 4.07 to the dollar, the mid-market rate on November 11, 2026.",
+      "The cheapest box per pack is S2 Rebellion Crash at RM 6.42 landed, and the dearest box is SM7 Sky-Splitting Charisma at RM 17,568.29 landed before shipping, as a floor, with import duty still to be added."
+    ],
+    "metaDescription": "Every Japanese Pokemon booster box price in ringgit as of November 11, 2026: the RM500 line, 10% LVG tax, per-pack math, and case divisions.",
+    "metaTitle": "Japanese Pokemon Booster Box Prices Malaysia",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: RM500 is the line, and it is not a free pass",
+        "paragraphs": [
+          "Malaysia's low-value goods tax has applied since 1 January 2024 at a flat 10% on goods valued at RM500 or less sold online and imported into Malaysia, under the Sales Tax (Amendment) Act 2022. The Ministry of Finance press release of 18 December 2023 states the mechanics plainly, and the Royal Malaysian Customs MyLVG portal still lists the same flat 10% and the same RM500 threshold as of 29 October 2026, with no announced change. The threshold is measured on the price of the goods alone: transport, insurance and other charges are excluded, so a RM480 box with RM40 shipping is still low-value goods.",
+          "A registered seller collects the 10% at checkout; registration is mandatory once a seller's low-value goods sales into Malaysia exceed RM500,000 in 12 months, through mylvg.customs.gov.my. An unregistered seller's parcel is charged on import instead, so the buyer pays 10% either way. Malaysia abolished GST in 2018, so this tax is never called GST here.",
+          "Above RM500 the normal regime applies at the border: import duty by HS code plus sales tax, at the standard 10% rate, on the goods value plus duty. The duty rate for trading cards under HS 9504.40 is not published in a form we could verify, so the landed figures above the line are the 10% sales-tax-inclusive floor, goods times 1.10, with duty still to be added. On this shelf, 29 of the ninety boxes sit at RM500 or less and 61 sit above it. Every landed figure here is on goods value only: shipping and insurance are excluded."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in ringgit, landed",
+        "math": [
+          "M3 box: $70.62 x RM 4.07 = RM 287.42 goods; RM 287.42 x 1.10 LVG = RM 316.16 landed; RM 316.16 / 30 packs = RM 10.54 per pack; RM 316.16 / 150 cards = RM 2.11 per card",
+          "S2 box: $43.03 x RM 4.07 = RM 175.13 goods; RM 175.13 x 1.10 LVG = RM 192.64 landed; RM 192.64 / 30 packs = RM 6.42 per pack; RM 192.64 / 150 cards = RM 1.28 per card",
+          "M6a box: $249.00 x RM 4.07 = RM 1,013.43 goods; RM 1,013.43 x 1.10 SST = RM 1,114.77 landed (floor, duty TBD); RM 1,114.77 / 20 packs = RM 55.74 per pack; RM 1,114.77 / 120 cards = RM 9.29 per card",
+          "SV2a box: $471.20 x RM 4.07 = RM 1,917.78 goods; RM 1,917.78 x 1.10 SST = RM 2,109.56 landed (floor, duty TBD); RM 2,109.56 / 20 packs = RM 105.48 per pack; RM 2,109.56 / 140 cards = RM 15.07 per card",
+          "M2a box: $114.77 x RM 4.07 = RM 467.11 goods; RM 467.11 x 1.10 LVG = RM 513.82 landed; RM 513.82 / 10 packs = RM 51.38 per pack; RM 513.82 / 100 cards = RM 5.14 per card",
+          "M2 box: $183.18 x RM 4.07 = RM 745.54 goods; RM 745.54 x 1.10 SST = RM 820.09 landed (floor, duty TBD); RM 820.09 / 20 packs = RM 41.00 per pack; RM 820.09 / 100 cards = RM 8.20 per card",
+          "M1L box: $94.91 x RM 4.07 = RM 386.28 goods; RM 386.28 x 1.10 LVG = RM 424.91 landed; RM 424.91 / 30 packs = RM 14.16 per pack; RM 424.91 / 150 cards = RM 2.83 per card",
+          "M1S box: $84.97 x RM 4.07 = RM 345.83 goods; RM 345.83 x 1.10 LVG = RM 380.41 landed; RM 380.41 / 30 packs = RM 12.68 per pack; RM 380.41 / 150 cards = RM 2.54 per card",
+          "SV11B box: $183.18 x RM 4.07 = RM 745.54 goods; RM 745.54 x 1.10 SST = RM 820.09 landed (floor, duty TBD); RM 820.09 / 20 packs = RM 41.00 per pack; RM 820.09 / 140 cards = RM 5.86 per card",
+          "SV11W box: $167.72 x RM 4.07 = RM 682.62 goods; RM 682.62 x 1.10 SST = RM 750.88 landed (floor, duty TBD); RM 750.88 / 20 packs = RM 37.54 per pack; RM 750.88 / 140 cards = RM 5.36 per card",
+          "SV9a box: $163.32 x RM 4.07 = RM 664.71 goods; RM 664.71 x 1.10 SST = RM 731.18 landed (floor, duty TBD); RM 731.18 / 30 packs = RM 24.37 per pack; RM 731.18 / 150 cards = RM 4.87 per card",
+          "SV10 box: $212.99 x RM 4.07 = RM 866.87 goods; RM 866.87 x 1.10 SST = RM 953.56 landed (floor, duty TBD); RM 953.56 / 30 packs = RM 31.79 per pack; RM 953.56 / 150 cards = RM 6.36 per card",
+          "SV8a box: $163.32 x RM 4.07 = RM 664.71 goods; RM 664.71 x 1.10 SST = RM 731.18 landed (floor, duty TBD); RM 731.18 / 10 packs = RM 73.12 per pack; RM 731.18 / 100 cards = RM 7.31 per card",
+          "SV4a box: $141.24 x RM 4.07 = RM 574.85 goods; RM 574.85 x 1.10 SST = RM 632.34 landed (floor, duty TBD); RM 632.34 / 10 packs = RM 63.23 per pack; RM 632.34 / 100 cards = RM 6.32 per card",
+          "SV8 box: $258.23 x RM 4.07 = RM 1,051.00 goods; RM 1,051.00 x 1.10 SST = RM 1,156.10 landed (floor, duty TBD); RM 1,156.10 / 30 packs = RM 38.54 per pack; RM 1,156.10 / 150 cards = RM 7.71 per card",
+          "M6 box: $82.80 x RM 4.07 = RM 337.00 goods; RM 337.00 x 1.10 LVG = RM 370.70 landed; RM 370.70 / 30 packs = RM 12.36 per pack; RM 370.70 / 150 cards = RM 2.47 per card",
+          "M5 box: $91.61 x RM 4.07 = RM 372.85 goods; RM 372.85 x 1.10 LVG = RM 410.14 landed; RM 410.14 / 30 packs = RM 13.67 per pack; RM 410.14 / 150 cards = RM 2.73 per card",
+          "SV11B Deluxe box: $212.99 x RM 4.07 = RM 866.87 goods; RM 866.87 x 1.10 SST = RM 953.56 landed (floor, duty TBD); RM 953.56 / 4 packs = RM 238.39 per pack; RM 953.56 / 140 cards = RM 6.81 per card",
+          "SV11W Deluxe box: $197.53 x RM 4.07 = RM 803.95 goods; RM 803.95 x 1.10 SST = RM 884.35 landed (floor, duty TBD); RM 884.35 / 4 packs = RM 221.09 per pack; RM 884.35 / 140 cards = RM 6.32 per card",
+          "SV2a case: $3,809.32 x RM 4.07 = RM 15,503.93 goods; RM 15,503.93 x 1.10 = RM 17,054.32 landed (floor, duty TBD); RM 17,054.32 / 12 = RM 1,421.19 per box vs single landed RM 2,109.56, saves RM 688.37 per box",
+          "M3 case: $1,048.24 x RM 4.07 = RM 4,266.34 goods; RM 4,266.34 x 1.10 = RM 4,692.97 landed (floor, duty TBD); RM 4,692.97 / 12 = RM 391.08 per box vs single landed RM 316.16, costs RM 74.92 more per box",
+          "Whole ladder: $41,700.52 x RM 4.07 = RM 169,721.12 goods; under RM500 $2,712.53 = RM 11,039.94 goods, landed RM 12,143.97; over RM500 $38,987.99 = RM 158,681.14 goods, landed floor RM 174,549.29; total landed RM 186,693.26 (floor)",
+          "M3 + S2 pairing: RM 287.42 + RM 175.13 = RM 462.55 of goods, under RM500; RM 462.55 x 1.10 = RM 508.81 landed",
+          "Two M3 pairing: 2 x RM 287.42 = RM 574.84 of goods, over RM500; RM 574.84 x 1.10 = RM 632.32 landed (floor, duty TBD) - two cheap boxes in one parcel cross the line together",
+          "M6a + 151 pairing: RM 1,013.43 + RM 1,917.78 = RM 2,931.21 of goods, over RM500; RM 2,931.21 x 1.10 = RM 3,224.33 landed (floor, duty TBD)",
+          "TCGplayer M6a market: our $249.00 - $180.97 = $68.03 dearer (TCGplayer market price, Nov 8, 2026)",
+          "Ninja Spinner TCGplayer: our $88.27 - $75.34 = $12.93 dearer (TCGplayer market price, Nov 7, 2026)",
+          "Storm Emeralda TCGplayer: our $82.80 - $87.19 = $-4.39 cheaper (TCGplayer market price, Nov 7, 2026)",
+          "CardZ SV10 last sold: our $212.99 - $158.00 = $54.99 dearer (one completed sale, not a market price)",
+          "CardZ SV9a last sold: our $163.32 - $116.00 = $47.32 dearer (one completed sale, not a market price)",
+          "Jikawo S10B: our $259.32 - $167.00 = $92.32 dearer (Jikawo store price)",
+          "Jikawo SV8a: our $163.32 - $151.00 = $12.32 dearer (Jikawo store price)",
+          "Samurai Sword M2a: JPY 13,723 / 154 = $89.11; our $114.77 is $25.66 dearer",
+          "Free shipping: 151 + M3: $471.20 + $70.62 = $541.82, clears the $500 line"
+        ],
+        "paragraphs": [
+          "Ninety Japanese Pokemon booster boxes are in stock, $43.03 to $3,924.12, a $41,700.52 shelf. Goods value is RM 169,721.12, and landed cost is RM 186,693.26 before shipping, as a floor: the 61 boxes over RM500 still owe import duty. Every ringgit figure is the dollar price multiplied by 4.07, the mid-market rate on November 11, 2026. Most boxes hold [30 packs](/blog/how-many-packs-in-a-booster-box/) of 5 cards. Exceptions: M2a, SV4a and SV8a at 10 packs of 10 cards; SV2a, SV11B and SV11W at 20 packs of 7; M6a at 20 packs of 6 foil cards; and two Deluxe boxes at 4 packs of 35 cards.",
+          "Under RM500 (29 boxes): 175.13: S2 Rebellion Crash; 287.42: M3 Munikis Zero; 337.00: M6 Storm Emeralda; 345.83: M1S Mega Symphonia; 345.83: SV9 Battle Partners; 359.26: M4 Ninja Spinner; 359.26: SV5M Cyber Judge; 359.26: SV4M Future Flash; 359.26: SV1V Violet; 372.85: M5 Abyss Eye; 372.85: SV7 Stella Miracle; 372.85: SV6a Night Wanderer; 372.85: SV4K Ancient Roar; 372.85: S11a Incandescent Arcana; 372.85: S9a Battle Region; 372.85: S9 Star Birth; 386.28: M1L Mega Brave; 386.28: SV2P Snow Hazard; 402.60: SMP2 Detective Pikachu; 402.60: SM9a Night Unison; 402.60: SM9 Tag Bolt; 417.74: SV3a Raging Surf; 417.74: SV2D Clay Burst; 435.65: SV5a Crimson Haze; 435.65: SV5K Wild Force; 440.21: S10P Space Juggler; 453.64: SV6 Mask Of Change; 453.64: SV1S Scarlet; 467.11: M2a MEGA Dream ex.",
+          "RM500 to RM1,000 (22 boxes): 574.85: SV7a Paradise Dragona; 574.85: SV4a Shiny Treasure ex; 606.31: S10D Time Gazer; 619.82: SV3 Ruler Of Black Flame; 619.82: SV1A Triplet Beat; 654.90: SM9b Full Metal Wall; 664.71: SV9a Heat Wave Arena; 664.71: SV8a Terastal Festival ex; 682.62: SV11W White Flare; 682.62: S6h Silver Lance; 691.74: S4a Shiny Star V; 691.74: S4 Shocking Volt Tackle : Electryfing Tackle; 745.54: M2 Inferno X; 745.54: SV11B Black Bolt; 749.98: S7d Towering Perfection; 803.95: SV11W Deluxe White Flare; 817.38: S6k Jet Black Spirit; 866.87: SV11B Deluxe Black Bolt; 866.87: SV10 Glory Of Team Rocket; 983.60: S12a Vstar Universe; 983.60: S12 Paradigm Trigger; 988.07: S10a Dark Phantasma.",
+          "RM1,000 to RM2,000 (14 boxes): 1,013.43: M6a 30th CELEBRATION Pokémon; 1,051.00: SV8 Super Electric Breaker; 1,055.43: S10b GO; 1,185.75: S8b VMAX Climax; 1,185.75: S8 Fusion Arts; 1,185.75: S1a VMAX Rising; 1,531.58: S2a explosive Flame Walker; 1,679.81: S5a Matchless Fighter; 1,742.65: S5i Single Strike Master; 1,751.65: S11 Lost Abyss; 1,774.11: S3a Legendary Heartbeat Pulse; 1,774.11: S3 Infinity Zone; 1,917.78: SV2a Pokemon Card 151; 1,976.23: S1W Sword.",
+          "Over RM2,000 (25 boxes): 2,079.53: S5r Rapid Strike Master; 2,093.00: SM8a Dark Order; 2,241.23: SM12 Alter Genesis; 2,295.03: S8a 25th Anniversary; 2,649.85: S1h Shield; 2,771.14: SM5+ Ultra Force; 2,843.02: SM6 Forbidden Light; 2,950.75: SM5S Ultra Sun; 2,968.78: SM7a Thunderclap Spark; 3,220.27: SM7b Fairy Rise; 3,642.49: SM6b Champion Road; 3,835.61: SM10a G G End; 3,965.85: SM10 Double Blaze; 4,513.79: SM10b Sky Legend; 4,617.09: SM6a Dragon Storm; 4,720.39: S6a Eevee Heroes; 4,967.48: SM8 Super-Burst Impact; 5,218.96: SM11a Remix Bout; 5,897.15: SM11b Dream League; 6,198.04: SM5M Ultra Moon; 6,790.92: SM12a Tag Team GX Tag All Stars; 6,997.51: SM8b GX Ultra Shiny; 7,599.30: SM11 Miracle Twin; 10,527.67: S7r Blue Sky Stream; 15,971.17: SM7 Sky-Splitting Charisma.",
+          "S2 Rebellion Crash is the cheapest box per pack at $1.43, or RM 6.42 a pack landed; [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) is second-cheapest at $2.35, or RM 10.54 a pack landed. [M6a](/blog/m6a-30th-celebration-buyers-guide/) divides to $12.45 a pack, or RM 55.74 landed. [151](/blog/sv2a-pokemon-151-buyers-guide/) is the dearest 20-pack box per pack at $23.56 a pack, or RM 105.48 landed. SM7 is the dearest per pack at $130.80, or RM 585.61 landed. The two Deluxe boxes, at 35 cards a pack, divide lower: SV11B Deluxe is $53.25 a pack, or RM 238.39 landed, and SV11W Deluxe is $49.38 a pack, or RM 221.09 landed. Compare the [M3 box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/), [M6a box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) and [151 box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) first.",
+          "The case column splits the shelf. The SV2a sealed case costs $3,809.32, or RM 15,503.93 in goods, and lands at a RM 17,054.32 floor, RM 1,421.19 a box: against the $471.20 single, landed at a RM 2,109.56 floor, that saves RM 688.37 a box. The M3 case runs the other way: $1,048.24, or RM 4,266.34 in goods, lands at a RM 4,692.97 floor, RM 391.08 a box against the $70.62 single, landed at RM 316.16, so the case costs RM 74.92 more per box. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Shopee vs Lazada vs Carousell",
+        "note": "From the Warehouse: the question we get most from Malaysia buyers is whether a box under RM500 is tax-free. It is not. RM500 decides how the 10% is collected, not whether it applies: at RM500 or less it is the LVG tax at checkout or on import, and above RM500 it is duty plus 10% sales tax at the border. The only number that matters for a box is its goods value against RM500, and every figure on this page is built from that division.",
+        "paragraphs": [
+          "Four routes: Japan-direct, a sealed box shipped from Japan, priced in dollars, with the border charges on this page; Shopee Malaysia and Lazada Malaysia, sealed product and singles from local sellers, priced in ringgit with the import already done; and Carousell Malaysia, the peer-to-peer secondary market, with Facebook groups as the other main trading channel.",
+          "The local comparison is honest and unfavourable to us on the boxes compared. TCGplayer market prices from November 7 and 8, 2026 put M6a at $180.97 against our $249.00, so we are $68.03 dearer, and Ninja Spinner at $75.34 against our $88.27, so we are $12.93 dearer. Storm Emeralda runs the other way at $87.19 against our $82.80, so we are $4.39 cheaper. CardZ last-sold figures from November 9, 2026 put SV10 at $158 against our $212.99 and SV9a at $116 against our $163.32, so we are $54.99 and $47.32 dearer on those two, but a last-sold figure is one completed sale, not a market price. Jikawo lists S10B at $167 against our $259.32 and SV8a at $151 against our $163.32. Samurai Sword Tokyo lists M2a sealed at JPY 13,723, about $89.11, against our $114.77. No dated Shopee Malaysia or Carousell Malaysia listing for a sealed Japanese Pokemon box was found, so check both for the set you want before paying.",
+          "Malaysia has one buying behaviour the other markets on this site do not: TikTok Live and Shopee Live rip-and-ship, where buyers purchase packs opened live on stream. A rip-and-ship pack is an opened pack, not a sealed box, and its price is not comparable to the sealed-box prices on this page. Compare sealed to sealed."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Goods RM",
+            "Per pack",
+            "Landed RM",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "S2 Rebellion Crash",
+              "RM 175.13",
+              "RM 6.42",
+              "RM 192.64",
+              "Cheapest pack, open it"
+            ],
+            [
+              "M3 Munikis Zero",
+              "RM 287.42",
+              "RM 10.54",
+              "RM 316.16",
+              "Second-cheapest pack"
+            ],
+            [
+              "M1S Mega Symphonia",
+              "RM 345.83",
+              "RM 12.68",
+              "RM 380.41",
+              "Cheap MEGA box, under the line"
+            ],
+            [
+              "M6a 30th Celebration",
+              "RM 1,013.43",
+              "RM 55.74",
+              "RM 1,114.77",
+              "Dearest by demand, check the price first"
+            ],
+            [
+              "Pokemon Card 151",
+              "RM 1,917.78",
+              "RM 105.48",
+              "RM 2,109.56",
+              "Dearest standard box, collector only"
+            ],
+            [
+              "SV2a sealed case",
+              "RM 15,503.93",
+              "RM 1,421.19 per box",
+              "RM 17,054.32",
+              "Only real case saving on the shelf"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What is missing from other Malaysia Pokemon price pages",
+        "paragraphs": [
+          "The top results for this query quote prices without ever running the RM500 line. The first is a market-cap page with a last-sold price for one set. The second and third are price-tracker pages for single sets, Ninja Spinner and Storm Emeralda, that quote a TCGplayer market price and a release date. None of them prices a box in ringgit, names the LVG tax, or divides a case.",
+          "The second gap is the local market. Shopee Malaysia and Lazada Malaysia list sealed product in ringgit, and Carousell Malaysia lists sealed boxes and singles, but no page we found prices all ninety boxes against the RM500 line in one place. A buyer searching buy japanese pokemon cards malaysia finds listings, not a board. This page is the board."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Malaysia",
+        "paragraphs": [
+          "Pick the box, multiply the dollar price by 4.07, then check the goods value against RM500. At RM500 or less, multiply by 1.10: that is the landed cost before shipping, with the 10% LVG tax inside. Above RM500, multiply by 1.10 for the sales-tax-inclusive floor and confirm the import duty rate for HS 9504.40 before paying. Charges apply to the parcel total: an M3 with an S2 is RM 462.55 of goods, under the line, landing at RM 508.81, while two M3 boxes are RM 574.84, over the line, landing at a RM 632.32 floor with duty still to be added. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying.",
+          "Orders over $500 ship free: a single 151 at $471.20 does not clear the line, but a 151 with an M3 at $541.82 does, so the pair saves shipping. Store the box sealed and upright; our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers the humidity and stacking rules. Keep the invoice with the parcel: it is the proof of the goods value if customs asks."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the case that costs more",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route: a box that has been opened and re-shrunk looks sealed until it is opened. The only defence is factory-sealed stock from a seller whose reputation is on the line, checked against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. Carousell Malaysia carries the deepest local second-hand stock, so the check matters most there.",
+          "M6a 30th Celebration was $207.50 on October 24, 2026 and is $249.00 on November 10, exactly 20.0% higher in seventeen days, so check the live shelf price before paying: a restock or reprint announcement can cut a premium the same week. The second risk is the LVG registration gap: a seller under the RM500,000 threshold may not charge the 10% at checkout, and the tax is then charged on import instead, so a checkout price that looks tax-free is not the landed cost. The third risk is a catalog price that does not add up. The S10b Pokemon GO case is listed at $1,177.60 for twenty boxes, $58.88 a box against a $259.32 single, an implausible figure that looks like a catalog error, so no case math for S10b appears on this page."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Malaysian retail",
+        "paragraphs": [
+          "A standard Scarlet and Violet era box lists at 30 packs of 180 yen, 5,400 yen, $35.06 at 154 yen to the dollar. A MEGA era box lists at 30 packs of 200 yen, or 6,000 yen, $38.96, after the pack price rose from 180 to 200 yen in May 2026. Pokemon Card 151 lists at 20 packs of 180 yen, or 3,600 yen, $23.38, and M6a at 20 packs of 200 yen, or 4,000 yen, $25.97. TCGplayer prices M6a at a $180.97 market price; our $249.00 is 1.38 times that.",
+          "Rebellion Crash at $43.03 is 1.23 times its era list, M3 at $70.62 is 1.81 times the MEGA list, [M6a](/blog/m6a-30th-celebration-buyers-guide/) at $249.00 is 9.59 times its list, and Pokemon Card 151 at $471.20 is 20.15 times its list. The multiple is the market speaking: 151 is a chase set with a Charizard, M6a is an anniversary box with a Pikachu in every pack, and Rebellion Crash never caught fire."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card: if the card is a Charizard or a specific Secret Art Rare, the single is cheaper. It is not for a buyer who needs the box this week, since Japan-direct shipping takes days to weeks. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card. It is not for a buyer who wants a box under RM500 to escape tax: the line decides how the 10% is collected, it does not remove it."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its landed ringgit cost, not its dollar price.",
+          "Check the goods value against RM500: at or under it, multiply by 1.10 for the LVG tax; above it, multiply by 1.10 for the sales-tax floor and confirm the duty rate.",
+          "Remember there is no tax-free box on this shelf: 10% applies from the first ringgit.",
+          "Check the parcel total before buying two boxes: an M3 with an S2 is RM 462.55, under the line, but two M3 boxes are RM 574.84, over it.",
+          "Compare the Shopee, Lazada or Carousell delivered ask against the landed cost plus shipping, not against the goods price.",
+          "Check the case division before buying a case: the SV2a case saves RM 688.37 a box, the M3 case costs RM 74.92 more a box.",
+          "Remember a single 151 at $471.20 does not clear the $500 free-shipping line, but a 151 with an M3 at $541.82 does.",
+          "Confirm the shipping quote and the duty treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel."
+        ],
+        "h": "Action layer: the Malaysia buyer's checklist",
+        "paragraphs": [
+          "Work the list and the box you buy is the box you meant to buy. The [buying Japanese TCG cards in Malaysia guide](/blog/buying-japanese-tcg-cards-in-malaysia/) runs the same RM500 rule across all four games. The [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by buyer. The [Netherlands price guide](/blog/japanese-pokemon-booster-box-netherlands-price/) runs the same ninety boxes in euros."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-booster-box-malaysia-price",
+    "takeaway": [
+      "Every Japanese Pokemon booster box shipped to Malaysia pays 10% sales tax: at RM500 of goods or less the tax is the low-value goods tax collected at checkout or on import, and above RM500 the box pays import duty plus 10% sales tax at the border. 29 of the ninety boxes sit at RM500 or less and 61 sit above it, so most of the shelf lands on the sales-tax-inclusive floor with duty still to be added. The cheapest pack on the shelf is S2 Rebellion Crash at RM 6.42 landed, and the dearest box is SM7 Sky-Splitting Charisma at RM 17,568.29 landed before shipping, as a floor.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at RM 4.07 to the dollar, with the tax calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and remember the RM500 line is measured on the goods value alone, so shipping never pushes a parcel over it, but two boxes in one parcel combine, and two M3 boxes at RM 574.84 cross the line together.",
+      "The [buying Japanese TCG cards in Malaysia guide](/blog/buying-japanese-tcg-cards-in-malaysia/) runs the same RM500 rule across all four games. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by buyer."
+    ]
+  },
   "japanese-pokemon-booster-box-netherlands-price": {
     "datePublished": "2026-11-11",
     "faqs": [
@@ -18586,7 +18787,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the checklist",
         "paragraphs": [
-          "Run this in order before the next box you buy. Five minutes replaces an afternoon of comparing listings with a decision made while calm."
+          "Run this in order before the next box you buy. Five minutes replaces an afternoon of comparing listings with a decision made while calm. For the same ninety boxes priced in ringgit with the 10% tax already inside, the [Japanese Pokemon booster box Malaysia price guide](/blog/japanese-pokemon-booster-box-malaysia-price/) runs the RM500 line across the whole shelf."
         ]
       }
     ],
@@ -18700,6 +18901,204 @@ export const POSTS: Record<string, BlogPost> = {
       "One Japanese Pokemon booster box shipped to Singapore clears with no GST at the border, because the relief line is S$400 CIF and fifty-seven of the ninety boxes on our shelf clear it on goods value alone. Two boxes in one parcel, or any sealed case, cross the line and pay 9% GST on the full value. The cheapest pack on the shelf is M3 at S$3.01, and the dearest box is Pokemon Card 151 at S$603.14.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 10, 2026, converted at S$1.28 to the dollar, with GST calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the S$400 check on the parcel as it lands, not on the box alone.",
       "For the Singapore hub this guide sits inside, the [buying Japanese TCG cards in Singapore guide](/blog/buying-japanese-tcg-cards-in-singapore/) runs the same S$400 line across all four games, with One Piece, Dragon Ball and Lorcana in Singapore dollars. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does."
+    ]
+  },
+  "japanese-pokemon-booster-box-thailand-price": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Every box pays import duty plus 7% VAT from the first baht, because the THB 1,500 duty exemption ended on 1 January 2026 under Customs Notification No. 219/2568. The duty rate for trading cards under HS 9504.40 is not published in a verifiable form, so the floor is goods times 1.07: an M3 lands at a THB 2,540.44 floor before shipping, and a 151 lands at a THB 16,950.66 floor. At the illustrative 10% duty rate the M3 lands at THB 2,794.48 and the 151 at THB 18,645.73. Confirm the duty rate in force on the day the parcel lands, because the Customs Department announced on 30 March 2026 a strategy to raise duties toward 30% to 40% ceilings.",
+        "q": "How much tax will I pay on a Japanese Pokemon booster box shipped to Thailand?"
+      },
+      {
+        "a": "It depends on the set. The SV2a case lands at a THB 137,034.19 floor, or THB 11,419.52 a box, against a single 151 landed at a THB 16,950.66 floor, so the case saves THB 5,531.14 a box. The M3 case runs the other way: it lands at a THB 37,708.76 floor, or THB 3,142.40 a box, against a single M3 landed at THB 2,540.44, so the case costs THB 601.96 more a box. Divide the case for the set you want; the format alone does not save money.",
+        "q": "Is a sealed case cheaper than buying twelve boxes in Thailand?"
+      },
+      {
+        "a": "Mixed, and this page names the gap. Our M2a at THB 3,858.57 of goods is THB 1,368.57 dearer than the THB 2,490.00 Japanese box Kira Cards quotes in Phuket, before Thai duty and VAT, so a buyer who wants a current MEGA box should check Kira first. Our S2 lands at a THB 1,547.94 floor, THB 152.06 below the THB 1,700.00 a Bangkok B2S shop charges for a booster box, before shipping. Our M6a at $249.00 is $68.03 above the TCGplayer market price of $180.97. Compare the landed cost plus shipping against the local delivered ask for the set you want, and weigh sealed provenance against the saving.",
+        "q": "Is the Warehouse cheaper than Kira Cards or the Bangkok shops?"
+      }
+    ],
+    "h1": "Japanese Pokemon Booster Box Prices in Thailand: Every Box Landed, in Baht",
+    "intro": [
+      "Thailand abolished its THB 1,500 duty exemption on 1 January 2026, so every Japanese Pokemon booster box shipped to Thailand now pays import duty plus 7% VAT from the first baht. There is no free line left on this shelf. This guide prices all 90 boxes landed, as a VAT-inclusive floor with the duty rate still to be confirmed, and compares Japan-direct against Kira Cards in Phuket, the Bangkok shops, and the wider market. Prices as of November 11, 2026, converted at THB 33.62 to the dollar, the mid-market rate on November 11, 2026.",
+      "The cheapest box per pack is S2 Rebellion Crash at THB 51.60 landed, and the dearest box is SM7 Sky-Splitting Charisma at THB 141,163.93 landed before shipping, as a floor, with import duty still to be added."
+    ],
+    "metaDescription": "Every Japanese Pokemon booster box price in baht as of November 11, 2026: the THB 1,500 line is gone, duty plus 7% VAT from the first baht, landed.",
+    "metaTitle": "Japanese Pokemon Booster Box Prices Thailand",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: the THB 1,500 line is gone, and tax starts at THB 1",
+        "paragraphs": [
+          "For years Thailand exempted imported goods of THB 1,500 or less from duty, excise tax and VAT, under Customs Notification No. 191/2561 of 2018. Customs Notification No. 219/2568, published in the Royal Gazette on 11 December 2025, repealed it: from 1 January 2026 the Type 12 duty exemption applies only when the customs value of each item does not exceed THB 1. VAT had already been extended to goods of THB 1 to 1,500 from July 2024, so the change completed the turn: every real parcel now pays duty and 7% VAT.",
+          "The duty rate for trading cards under HS 9504.40 is not published in a form we could verify, so the landed figures on this page are the 7% VAT-inclusive floor, goods times 1.07, with duty still to be added, plus an illustrative line at 10% duty, the commonly cited most-favoured-nation rate, shown as an illustration and not as a quote. VAT is charged on the customs value plus duty, so the illustrative line is goods times 1.10 times 1.07. On 30 March 2026 the Customs Department announced a strategy to raise duties on consumer goods toward their 30% to 40% statutory ceilings, which needs cabinet approval; confirm the rate in force on the day the parcel lands.",
+          "Every one of the ninety boxes on this shelf is over THB 1 of goods value, so every box pays, and there is no under-the-line band to count. The only number that matters is a box's goods value in baht."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in baht, landed",
+        "math": [
+          "M3 box: $70.62 x THB 33.62 = THB 2,374.24 goods; THB 2,374.24 x 1.07 = THB 2,540.44 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 2,374.24 x 1.10 x 1.07 = THB 2,794.48 landed; THB 2,540.44 / 30 packs = THB 84.68 per pack; THB 2,540.44 / 150 cards = THB 16.94 per card",
+          "S2 box: $43.03 x THB 33.62 = THB 1,446.67 goods; THB 1,446.67 x 1.07 = THB 1,547.94 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 1,446.67 x 1.10 x 1.07 = THB 1,702.73 landed; THB 1,547.94 / 30 packs = THB 51.60 per pack; THB 1,547.94 / 150 cards = THB 10.32 per card",
+          "M6a box: $249.00 x THB 33.62 = THB 8,371.38 goods; THB 8,371.38 x 1.07 = THB 8,957.38 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 8,371.38 x 1.10 x 1.07 = THB 9,853.11 landed; THB 8,957.38 / 20 packs = THB 447.87 per pack; THB 8,957.38 / 120 cards = THB 74.64 per card",
+          "SV2a box: $471.20 x THB 33.62 = THB 15,841.74 goods; THB 15,841.74 x 1.07 = THB 16,950.66 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 15,841.74 x 1.10 x 1.07 = THB 18,645.73 landed; THB 16,950.66 / 20 packs = THB 847.53 per pack; THB 16,950.66 / 140 cards = THB 121.08 per card",
+          "M2a box: $114.77 x THB 33.62 = THB 3,858.57 goods; THB 3,858.57 x 1.07 = THB 4,128.67 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 3,858.57 x 1.10 x 1.07 = THB 4,541.54 landed; THB 4,128.67 / 10 packs = THB 412.87 per pack; THB 4,128.67 / 100 cards = THB 41.29 per card",
+          "M2 box: $183.18 x THB 33.62 = THB 6,158.51 goods; THB 6,158.51 x 1.07 = THB 6,589.61 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 6,158.51 x 1.10 x 1.07 = THB 7,248.57 landed; THB 6,589.61 / 20 packs = THB 329.48 per pack; THB 6,589.61 / 100 cards = THB 65.90 per card",
+          "M1L box: $94.91 x THB 33.62 = THB 3,190.87 goods; THB 3,190.87 x 1.07 = THB 3,414.23 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 3,190.87 x 1.10 x 1.07 = THB 3,755.65 landed; THB 3,414.23 / 30 packs = THB 113.81 per pack; THB 3,414.23 / 150 cards = THB 22.76 per card",
+          "M1S box: $84.97 x THB 33.62 = THB 2,856.69 goods; THB 2,856.69 x 1.07 = THB 3,056.66 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 2,856.69 x 1.10 x 1.07 = THB 3,362.32 landed; THB 3,056.66 / 30 packs = THB 101.89 per pack; THB 3,056.66 / 150 cards = THB 20.38 per card",
+          "SV11B box: $183.18 x THB 33.62 = THB 6,158.51 goods; THB 6,158.51 x 1.07 = THB 6,589.61 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 6,158.51 x 1.10 x 1.07 = THB 7,248.57 landed; THB 6,589.61 / 20 packs = THB 329.48 per pack; THB 6,589.61 / 140 cards = THB 47.07 per card",
+          "SV11W box: $167.72 x THB 33.62 = THB 5,638.75 goods; THB 5,638.75 x 1.07 = THB 6,033.46 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 5,638.75 x 1.10 x 1.07 = THB 6,636.81 landed; THB 6,033.46 / 20 packs = THB 301.67 per pack; THB 6,033.46 / 140 cards = THB 43.10 per card",
+          "SV9a box: $163.32 x THB 33.62 = THB 5,490.82 goods; THB 5,490.82 x 1.07 = THB 5,875.18 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 5,490.82 x 1.10 x 1.07 = THB 6,462.70 landed; THB 5,875.18 / 30 packs = THB 195.84 per pack; THB 5,875.18 / 150 cards = THB 39.17 per card",
+          "SV10 box: $212.99 x THB 33.62 = THB 7,160.72 goods; THB 7,160.72 x 1.07 = THB 7,661.97 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 7,160.72 x 1.10 x 1.07 = THB 8,428.17 landed; THB 7,661.97 / 30 packs = THB 255.40 per pack; THB 7,661.97 / 150 cards = THB 51.08 per card",
+          "SV8a box: $163.32 x THB 33.62 = THB 5,490.82 goods; THB 5,490.82 x 1.07 = THB 5,875.18 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 5,490.82 x 1.10 x 1.07 = THB 6,462.70 landed; THB 5,875.18 / 10 packs = THB 587.52 per pack; THB 5,875.18 / 100 cards = THB 58.75 per card",
+          "SV4a box: $141.24 x THB 33.62 = THB 4,748.49 goods; THB 4,748.49 x 1.07 = THB 5,080.88 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 4,748.49 x 1.10 x 1.07 = THB 5,588.97 landed; THB 5,080.88 / 10 packs = THB 508.09 per pack; THB 5,080.88 / 100 cards = THB 50.81 per card",
+          "SV8 box: $258.23 x THB 33.62 = THB 8,681.69 goods; THB 8,681.69 x 1.07 = THB 9,289.41 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 8,681.69 x 1.10 x 1.07 = THB 10,218.35 landed; THB 9,289.41 / 30 packs = THB 309.65 per pack; THB 9,289.41 / 150 cards = THB 61.93 per card",
+          "M6 box: $82.80 x THB 33.62 = THB 2,783.74 goods; THB 2,783.74 x 1.07 = THB 2,978.60 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 2,783.74 x 1.10 x 1.07 = THB 3,276.46 landed; THB 2,978.60 / 30 packs = THB 99.29 per pack; THB 2,978.60 / 150 cards = THB 19.86 per card",
+          "M5 box: $91.61 x THB 33.62 = THB 3,079.93 goods; THB 3,079.93 x 1.07 = THB 3,295.53 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 3,079.93 x 1.10 x 1.07 = THB 3,625.08 landed; THB 3,295.53 / 30 packs = THB 109.85 per pack; THB 3,295.53 / 150 cards = THB 21.97 per card",
+          "SV11B Deluxe box: $212.99 x THB 33.62 = THB 7,160.72 goods; THB 7,160.72 x 1.07 = THB 7,661.97 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 7,160.72 x 1.10 x 1.07 = THB 8,428.17 landed; THB 7,661.97 / 4 packs = THB 1,915.49 per pack; THB 7,661.97 / 140 cards = THB 54.73 per card",
+          "SV11W Deluxe box: $197.53 x THB 33.62 = THB 6,640.96 goods; THB 6,640.96 x 1.07 = THB 7,105.83 landed (VAT-inclusive floor, duty TBD); at 10% duty THB 6,640.96 x 1.10 x 1.07 = THB 7,816.41 landed; THB 7,105.83 / 4 packs = THB 1,776.46 per pack; THB 7,105.83 / 140 cards = THB 50.76 per card",
+          "SV2a case: $3,809.32 x THB 33.62 = THB 128,069.34 goods; THB 128,069.34 x 1.07 = THB 137,034.19 landed (floor, duty TBD); at 10% duty THB 150,737.61 landed; THB 137,034.19 / 12 = THB 11,419.52 per box vs single floor THB 16,950.66, saves THB 5,531.14 per box",
+          "M3 case: $1,048.24 x THB 33.62 = THB 35,241.83 goods; THB 35,241.83 x 1.07 = THB 37,708.76 landed (floor, duty TBD); at 10% duty THB 41,479.63 landed; THB 37,708.76 / 12 = THB 3,142.40 per box vs single floor THB 2,540.44, costs THB 601.96 more per box",
+          "Whole ladder: $41,700.52 x THB 33.62 = THB 1,401,971.48 goods; VAT-inclusive floor THB 1,500,109.61; at 10% duty THB 1,650,120.54; every box pays, there is no free line",
+          "M3 + S2 pairing: THB 2,374.24 + THB 1,446.67 = THB 3,820.91 of goods; floor THB 4,088.37, at 10% duty THB 4,497.21",
+          "Two M3 pairing: 2 x THB 2,374.24 = THB 4,748.48 of goods; floor THB 5,080.87, at 10% duty THB 5,588.96",
+          "M6a + 151 pairing: THB 8,371.38 + THB 15,841.74 = THB 24,213.12 of goods; floor THB 25,908.04, at 10% duty THB 28,498.84",
+          "Kira Cards anchor: our M2a goods THB 3,858.57 against a Thai shop box at THB 2,490.00 - THB 1,368.57 dearer on goods value alone, before Thai duty and VAT",
+          "B2S anchor: our S2 floor THB 1,547.94 against a Bangkok shop box at about THB 1,700.00 - THB 152.06 cheaper before shipping",
+          "Jikawo S10B: our $259.32 - $167.00 = $92.32 dearer (Jikawo store price)",
+          "Jikawo SV8a: our $163.32 - $151.00 = $12.32 dearer (Jikawo store price)",
+          "TCGplayer M6a market: our $249.00 - $180.97 = $68.03 dearer (TCGplayer market price, Nov 8, 2026)",
+          "Free shipping: 151 + M3: $471.20 + $70.62 = $541.82, clears the $500 line"
+        ],
+        "paragraphs": [
+          "Ninety Japanese Pokemon booster boxes are in stock, $43.03 to $3,924.12, a $41,700.52 shelf. Goods value is THB 1,401,971.48, the VAT-inclusive floor is THB 1,500,109.61 before shipping, and at the illustrative 10% duty rate the ladder lands at THB 1,650,120.54. Every baht figure is the dollar price multiplied by 33.62, the mid-market rate on November 11, 2026. Most boxes hold [30 packs](/blog/how-many-packs-in-a-booster-box/) of 5 cards; M2a, SV4a and SV8a hold 10 packs of 10, SV2a, SV11B and SV11W hold 20 packs of 7, M6a holds 20 packs of 6 foil cards, and two Deluxe boxes hold 4 packs of 35.",
+          "Under THB 5,000 (31 boxes): 1,446.67: S2 Rebellion Crash; 2,374.24: M3 Munikis Zero; 2,783.74: M6 Storm Emeralda; 2,856.69: M1S Mega Symphonia; 2,856.69: SV9 Battle Partners; 2,967.64: M4 Ninja Spinner; 2,967.64: SV5M Cyber Judge; 2,967.64: SV4M Future Flash; 2,967.64: SV1V Violet; 3,079.93: M5 Abyss Eye; 3,079.93: SV7 Stella Miracle; 3,079.93: SV6a Night Wanderer; 3,079.93: SV4K Ancient Roar; 3,079.93: S11a Incandescent Arcana; 3,079.93: S9a Battle Region; 3,079.93: S9 Star Birth; 3,190.87: M1L Mega Brave; 3,190.87: SV2P Snow Hazard; 3,325.69: SMP2 Detective Pikachu; 3,325.69: SM9a Night Unison; 3,325.69: SM9 Tag Bolt; 3,450.76: SV3a Raging Surf; 3,450.76: SV2D Clay Burst; 3,598.68: SV5a Crimson Haze; 3,598.68: SV5K Wild Force; 3,636.34: S10P Space Juggler; 3,747.29: SV6 Mask Of Change; 3,747.29: SV1S Scarlet; 3,858.57: M2a MEGA Dream ex; 4,748.49: SV7a Paradise Dragona; 4,748.49: SV4a Shiny Treasure ex.",
+          "THB 5,000 to THB 10,000 (26 boxes): 5,008.37: S10D Time Gazer; 5,119.99: SV3 Ruler Of Black Flame; 5,119.99: SV1A Triplet Beat; 5,409.79: SM9b Full Metal Wall; 5,490.82: SV9a Heat Wave Arena; 5,490.82: SV8a Terastal Festival ex; 5,638.75: SV11W White Flare; 5,638.75: S6h Silver Lance; 5,714.06: S4a Shiny Star V; 5,714.06: S4 Shocking Volt Tackle : Electryfing Tackle; 6,158.51: M2 Inferno X; 6,158.51: SV11B Black Bolt; 6,195.16: S7d Towering Perfection; 6,640.96: SV11W Deluxe White Flare; 6,751.90: S6k Jet Black Spirit; 7,160.72: SV11B Deluxe Black Bolt; 7,160.72: SV10 Glory Of Team Rocket; 8,124.95: S12a Vstar Universe; 8,124.95: S12 Paradigm Trigger; 8,161.93: S10a Dark Phantasma; 8,371.38: M6a 30th CELEBRATION Pokémon; 8,681.69: SV8 Super Electric Breaker; 8,718.34: S10b GO; 9,794.85: S8b VMAX Climax; 9,794.85: S8 Fusion Arts; 9,794.85: S1a VMAX Rising.",
+          "THB 10,000 to THB 20,000 (12 boxes): 12,651.54: S2a explosive Flame Walker; 13,875.98: S5a Matchless Fighter; 14,395.08: S5i Single Strike Master; 14,469.38: S11 Lost Abyss; 14,654.96: S3a Legendary Heartbeat Pulse; 14,654.96: S3 Infinity Zone; 15,841.74: SV2a Pokemon Card 151; 16,324.53: S1W Sword; 17,177.80: S5r Rapid Strike Master; 17,289.09: SM8a Dark Order; 18,513.53: SM12 Alter Genesis; 18,957.98: S8a 25th Anniversary.",
+          "Over THB 20,000 (21 boxes): 21,888.97: S1h Shield; 22,890.85: SM5+ Ultra Force; 23,484.58: SM6 Forbidden Light; 24,374.50: SM5S Ultra Sun; 24,523.44: SM7a Thunderclap Spark; 26,600.82: SM7b Fairy Rise; 30,088.56: SM6b Champion Road; 31,683.82: SM10a G G End; 32,759.66: SM10 Double Blaze; 37,285.92: SM10b Sky Legend; 38,139.20: SM6a Dragon Storm; 38,992.48: S6a Eevee Heroes; 41,033.55: SM8 Super-Burst Impact; 43,110.93: SM11a Remix Bout; 48,713.03: SM11b Dream League; 51,198.55: SM5M Ultra Moon; 56,095.98: SM12a Tag Team GX Tag All Stars; 57,802.53: SM8b GX Ultra Shiny; 62,773.58: SM11 Miracle Twin; 86,963.17: S7r Blue Sky Stream; 131,928.91: SM7 Sky-Splitting Charisma.",
+          "S2 Rebellion Crash is the cheapest box per pack at $1.43, or THB 51.60 a pack landed; [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) is second-cheapest at $2.35, or THB 84.68 a pack landed. [M6a](/blog/m6a-30th-celebration-buyers-guide/) divides to $12.45 a pack, or THB 447.87 landed. [151](/blog/sv2a-pokemon-151-buyers-guide/) is the dearest 20-pack box per pack at $23.56 a pack, or THB 847.53 landed. SM7 is the dearest per pack at $130.80, or THB 4,705.46 landed. The two Deluxe boxes, at 35 cards a pack, divide lower: SV11B Deluxe is $53.25 a pack, or THB 1,915.49 landed, and SV11W Deluxe is $49.38 a pack, or THB 1,776.46 landed.",
+          "The case column splits the shelf. The SV2a sealed case costs $3,809.32, or THB 128,069.34 in goods, and lands at a THB 137,034.19 floor, THB 11,419.52 a box: against the $471.20 single, landed at a THB 16,950.67 floor, that saves THB 5,531.15 a box. The M3 case runs the other way: $1,048.24, or THB 35,241.83 in goods, lands at a THB 37,708.76 floor, THB 3,142.40 a box against the $70.62 single, landed at THB 2,540.06, so the case costs THB 602.34 more per box. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Phuket vs Bangkok vs the market",
+        "note": "From the Warehouse: the question we get most from Thailand buyers is whether the old THB 1,500 free line still exists. It does not. It ended on 1 January 2026, and every parcel now pays duty plus 7% VAT from the first baht. Any page that still quotes THB 1,500 as a free line is out of date, and a buyer who plans around it will be charged at the door. The only number that matters for a box is its goods value in baht, and every figure on this page is built from that division.",
+        "paragraphs": [
+          "Four routes: Japan-direct, a sealed box shipped from Japan, priced in dollars, with the border charges on this page; Kira Cards in Phuket, a Thai shop with Japanese sealed product in stock and shipped nationwide; the Bangkok shops at Mega Plaza Saphan Lek and Terminal 21 Asoke; and the wider market of Facebook Marketplace, LINE groups, Shopee Thailand and Lazada Thailand.",
+          "The local comparison is mixed, and this page names the gap on both sides. Kira Cards quotes a Japanese booster box at THB 2,490 against an English box at THB 3,690, with Japanese packs at THB 149 against English packs at THB 169. Our M2a at THB 3,858.57 of goods is THB 1,368.57 dearer than that Thai shop box on goods value alone, before Thai duty and VAT, so a buyer who wants a current MEGA box should check Kira first. The other side is cheaper for us: our S2 lands at a THB 1,547.94 floor, THB 152.06 below the THB 1,700 a Bangkok B2S shop charges for a booster box, before shipping. A Bangkok shop also lists two Japanese starter boxes at THB 2,000 for the pair, and packs at THB 49 to 160. Jikawo lists S10B at $167 against our $259.32 and SV8a at $151 against our $163.32, and TCGplayer puts M6a at a $180.97 market price against our $249.00.",
+          "Thailand trades differently from the other markets on this site. Facebook Marketplace is the dominant channel for secondhand singles and sealed boxes, Facebook groups are the main public trading rooms, and LINE groups are the primary private channel for serious collectors. Shopee Thailand and Lazada Thailand carry new sealed product, and Facebook Live auctions move the high-value cards."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Goods THB",
+            "Per pack",
+            "Landed THB",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "S2 Rebellion Crash",
+              "THB 1,446.67",
+              "THB 51.60",
+              "THB 1,547.94",
+              "Cheapest pack, open it"
+            ],
+            [
+              "M3 Munikis Zero",
+              "THB 2,374.24",
+              "THB 84.68",
+              "THB 2,540.44",
+              "Second-cheapest pack"
+            ],
+            [
+              "M1S Mega Symphonia",
+              "THB 2,856.69",
+              "THB 101.89",
+              "THB 3,056.66",
+              "Cheap MEGA box"
+            ],
+            [
+              "M6a 30th Celebration",
+              "THB 8,371.38",
+              "THB 447.87",
+              "THB 8,957.38",
+              "Dearest by demand, check the price first"
+            ],
+            [
+              "Pokemon Card 151",
+              "THB 15,841.74",
+              "THB 847.53",
+              "THB 16,950.66",
+              "Dearest standard box, collector only"
+            ],
+            [
+              "SV2a sealed case",
+              "THB 128,069.34",
+              "THB 11,419.52 per box",
+              "THB 137,034.19",
+              "Only real case saving on the shelf"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What is missing from other Thailand Pokemon price pages",
+        "paragraphs": [
+          "The top results for this query do not price a Japanese Pokemon box in baht with the border charges inside. The first is a decision guide comparing Japanese and English cards in Thailand that quotes a Japanese box at THB 2,490, but prices no other set. The second is a Bangkok shop guide that lists where to buy, with a box at about THB 1,700 and packs at THB 49 to 160, but runs no landed math. The third is a single product listing for one set. None of them runs the 219/2568 duty and VAT stack, names the 7% VAT floor, or divides a case.",
+          "The second gap is the full board. No page we found prices all ninety boxes against the new Thai regime in one place. A buyer searching japanese pokemon booster box thailand price finds a shop anchor and a shop list, not a board. This page is the board, with the tax inside every landed figure."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Thailand",
+        "paragraphs": [
+          "Pick the box, multiply the dollar price by 33.62, then multiply by 1.07 for the VAT-inclusive floor and confirm the import duty rate for HS 9504.40 before paying: at the illustrative 10% duty rate the landed cost is goods times 1.10 times 1.07. Platforms such as Shopee, Lazada, TikTok Shop, Temu and Shein agreed to collect at checkout, while postal parcels pay through Thailand Post on delivery. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying.",
+          "Orders over $500 ship free: a single 151 at $471.20 does not clear the line, but a 151 with an M3 at $541.82 does. Store the box sealed and upright; our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers the humidity and stacking rules. Keep the invoice with the parcel: it is the proof of the goods value if customs asks."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and a duty rate that can move",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route: a box that has been opened and re-shrunk looks sealed until it is opened. The only defence is factory-sealed stock from a seller whose reputation is on the line, checked against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. Facebook Marketplace carries the deepest Thai second-hand stock, so the check matters most there.",
+          "M6a 30th Celebration was $207.50 on October 24, 2026 and is $249.00 on November 10, exactly 20.0% higher in seventeen days, so check the live shelf price before paying: a restock or reprint announcement can cut a premium the same week. The second risk is the duty rate itself: the Customs Department announced on 30 March 2026 a strategy to raise duties on consumer goods toward their 30% to 40% statutory ceilings. The third risk is a catalog price that does not add up. The S10b Pokemon GO case is listed at $1,177.60 for twenty boxes, $58.88 a box against a $259.32 single, an implausible figure that looks like a catalog error, so no case math for S10b appears on this page."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Thai retail",
+        "paragraphs": [
+          "A standard Scarlet and Violet era box lists at 30 packs of 180 yen, 5,400 yen, $35.06 at 154 yen to the dollar. A MEGA era box lists at 30 packs of 200 yen, or 6,000 yen, $38.96, after the pack price rose from 180 to 200 yen in May 2026. Pokemon Card 151 lists at 20 packs of 180 yen, or 3,600 yen, $23.38, and M6a at 20 packs of 200 yen, or 4,000 yen, $25.97. Kira Cards prices a Japanese box at THB 2,490 in Phuket; our M6a at THB 8,371.38 of goods is 3.36 times that box, because M6a is an anniversary chase box.",
+          "Rebellion Crash at $43.03 is 1.23 times its era list, M3 at $70.62 is 1.81 times the MEGA list, [M6a](/blog/m6a-30th-celebration-buyers-guide/) at $249.00 is 9.59 times its list, and Pokemon Card 151 at $471.20 is 20.15 times its list. The multiple is the market speaking: 151 is a chase set with a Charizard, M6a is an anniversary box with a Pikachu in every pack, and Rebellion Crash never caught fire."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card: if the card is a Charizard or a specific Secret Art Rare, the single is cheaper. It is not for a buyer who needs the box this week, since Japan-direct shipping takes days to weeks. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card. It is not for a buyer who still plans around the THB 1,500 free line: it ended on 1 January 2026, and every parcel now pays from the first baht."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its landed baht cost, not its dollar price.",
+          "Multiply the goods value by 1.07 for the VAT-inclusive floor, then confirm the import duty rate for HS 9504.40 before paying.",
+          "Remember there is no free line left: duty plus 7% VAT applies from the first baht.",
+          "Check the Kira Cards THB 2,490 anchor for a current standard box before paying Japan-direct prices on one.",
+          "Check the case division before buying a case: the SV2a case saves THB 5,531.14 a box, the M3 case costs THB 601.96 more a box.",
+          "Remember a single 151 at $471.20 does not clear the $500 free-shipping line, but a 151 with an M3 at $541.82 does.",
+          "Confirm the shipping quote and the duty treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel.",
+          "Check the live shelf price before paying: M6a rose 20.0% in seventeen days, and the duty rate can move between order and delivery."
+        ],
+        "h": "Action layer: the Thailand buyer's checklist",
+        "paragraphs": [
+          "Work the list and the box you buy is the box you meant to buy. The [buying Japanese TCG cards in Thailand guide](/blog/buying-japanese-tcg-cards-in-thailand/) runs the same 219/2568 rule across all four games. The [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by buyer. The [Malaysia price guide](/blog/japanese-pokemon-booster-box-malaysia-price/) runs the same ninety boxes in ringgit."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-booster-box-thailand-price",
+    "takeaway": [
+      "Every Japanese Pokemon booster box shipped to Thailand pays import duty plus 7% VAT from the first baht, because Customs Notification No. 219/2568 ended the THB 1,500 duty exemption on 1 January 2026. All ninety boxes sit over THB 1 of goods value, so there is no under-the-line band to count. The cheapest pack on the shelf is S2 Rebellion Crash at THB 51.60 landed, and the dearest box is SM7 Sky-Splitting Charisma at THB 141,163.93 landed before shipping, as a floor, with duty still to be added.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at THB 33.62 to the dollar, with duty and VAT calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, confirm the duty rate in force on the day the parcel lands, and remember the 7% VAT is charged on the customs value plus duty, so the illustrative 10% duty line is goods times 1.10 times 1.07.",
+      "The [buying Japanese TCG cards in Thailand guide](/blog/buying-japanese-tcg-cards-in-thailand/) runs the same 219/2568 rule across all four games. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by buyer."
     ]
   },
   "japanese-pokemon-cards-price": {
