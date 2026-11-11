@@ -5146,6 +5146,7 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Heroines set in depth, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/).",
       "For the full shelf with every box divided to a per-pack price and every case divided to a per-box price, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) — including the eleven cases that cost more than singles.",
       "New this cycle: the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) ranks all twenty-four Japanese boxes by buyer type, divides every case, and prices the English gap beside them.",
+      "New this cycle: the [Japanese One Piece booster box prices in Malaysia](/blog/japanese-one-piece-booster-box-malaysia/) prices all twenty-four boxes in ringgit, with the RM500 line and the 10% landed cost on every box and case.",
       "For the pack question in depth, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides all eighteen main sets and four Extra Boosters to the pack — OP-15 at $2.90, OP-18 at $3.50 on pre-order, OP-01 at $9.94.",
       "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases.",
       "New this cycle: the [Japanese One Piece cards price index](/blog/japanese-one-piece-cards-price/) prices every set in both languages in one table, with the JP-versus-EN gap and the case division for each.",
@@ -10134,7 +10135,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Malaysian buyer's checklist",
         "paragraphs": [
-          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing yen listings. For the same ninety Pokemon boxes priced in ringgit with the tax already inside, the [Japanese Pokemon booster box Malaysia price guide](/blog/japanese-pokemon-booster-box-malaysia-price/) runs the RM500 line across the whole shelf."
+          "Run this in order before the next Japanese box you consider. It takes five minutes and replaces an afternoon of comparing yen listings. For the same ninety Pokemon boxes priced in ringgit with the tax already inside, the [Japanese Pokemon booster box Malaysia price guide](/blog/japanese-pokemon-booster-box-malaysia-price/) runs the RM500 line across the whole shelf. For the One Piece shelf in the same currency, the [Japanese One Piece booster box Malaysia price guide](/blog/japanese-one-piece-booster-box-malaysia/) prices all twenty-four boxes in ringgit with the RM500 line and the 10% landed cost."
         ]
       }
     ],
@@ -11512,6 +11513,204 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf on one ladder, and the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) divides all fourteen Lorcana cases."
     ]
   },
+  "caja-pokemon-japonesa-sellada-espana-precio": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Cada caja paga el 21 % de IVA desde el primer euro, más un arancel fijo de 3 € por categoría y una tasa de 2 € por categoría por debajo de 150 €. De las noventa cajas, 37 quedan por debajo y 53 por encima: una M3 landed es de 81.73 € antes del envío, y una 151 landed es de un suelo de 511.94 €, con el arancel por determinar.",
+        "q": "¿Cuánto IVA y arancel pago por una caja Pokémon japonesa enviada a España?"
+      },
+      {
+        "a": "Depende del set. El case SV2a landed es de un suelo de 4,138.67 €, o 344.89 € por caja, frente a una 151 en un suelo de 511.94 €: ahorra 167.05 € por caja. El case M3 va al revés: landed en un suelo de 1,138.86 €, o 94.91 € por caja, frente a una M3 en 81.73 €: cuesta 13.18 € más por caja.",
+        "q": "¿Sale más barato comprar el case sellado que doce cajas sueltas?"
+      },
+      {
+        "a": "Depende del set. Reino de Cartas vende la M6 a 127.99 €, mientras que nuestro landed es de 94.96 €, así que Japan-direct gana por 33.03 € antes del envío. Nexus Cards vende la misma caja a 89.90 €, así que Nexus gana por 5.06 €. En M6a nuestro 249.00 $ es 74.81 $ más caro que el mercado de TCGplayer de 174.19 $. No se encontró ningún precio sellado fechado en Cardmarket ni en Wallapop.",
+        "q": "¿Es más barato el Warehouse que Reino de Cartas, Nexus Cards o Cardmarket?"
+      }
+    ],
+    "h1": "Caja Pokémon Japonesa Sellada en España: Precio de las 90 Cajas, Landed en Euros",
+    "intro": [
+      "Una caja Pokémon japonesa sellada enviada a España paga el 21 % de IVA desde el primer euro, más un arancel fijo de 3 € por categoría y una tasa de 2 € por categoría mientras el paquete se mantenga por debajo de 150 €. Esta guía valora las 90 cajas landed en euros, y compara Japan-direct contra Reino de Cartas, Nexus Cards, Cardmarket y Wallapop. Precios a 11 de noviembre de 2026."
+    ],
+    "metaDescription": "Las 90 cajas Pokémon japonesas selladas con precio landed en España: IVA 21%, arancel 3 € + tasa 2 €, por sobre y por caja. A 11 de noviembre de 2026.",
+    "metaTitle": "Caja Pokémon Japonesa Sellada: Precio en España",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "La respuesta: 150 € es la línea, y no es un pase libre",
+        "paragraphs": [
+          "El IVA español no tiene umbral de valor bajo: desde el 1 de julio de 2021 el 21 % se debe en cada importación desde Japón, desde el primer euro. El vendedor puede cobrarlo por IOSS en el checkout; sin IOSS, el transportista lo cobra en la entrega.",
+          "El arancel cambió el 1 de julio de 2026: la exención de 150 € murió por el Reglamento (UE) 2026/382 y la sustituyó un arancel fijo de 3 € por categoría hasta el 1 de julio de 2028. Desde el 1 de noviembre de 2026 se suma una tasa de 2 € por categoría y el identificador de producto obligatorio. Por encima de 150 € se aplica el arancel normal TARIC sobre el CIF, más el 21 % de IVA. La línea de 150 € son 167.06 $: 37 cajas quedan por debajo y 53 por encima. En Canarias, Ceuta y Melilla rigen otros impuestos."
+        ]
+      },
+      {
+        "h": "La capa de dinero: el tablero completo en euros, landed",
+        "math": [
+          "M3 box: $70.62 x €0.8979 = €63.41 de mercancía; €63.41 x 1.21 + €5.00 = €81.73 landed; €81.73 / 30 sobres = €2.72 por sobre; €81.73 / 150 cartas = €0.54 por carta",
+          "S2 box: $43.03 x €0.8979 = €38.64 de mercancía; €38.64 x 1.21 + €5.00 = €51.75 landed; €51.75 / 30 sobres = €1.73 por sobre; €51.75 / 150 cartas = €0.35 por carta",
+          "M6a box: $249.00 x €0.8979 = €223.58 de mercancía; €223.58 x 1.21 = €270.53 landed (suelo, arancel por determinar); €270.53 / 20 sobres = €13.53 por sobre; €270.53 / 120 cartas = €2.25 por carta",
+          "SV2a box: $471.20 x €0.8979 = €423.09 de mercancía; €423.09 x 1.21 = €511.94 landed (suelo, arancel por determinar); €511.94 / 20 sobres = €25.60 por sobre; €511.94 / 140 cartas = €3.66 por carta",
+          "M2a box: $114.77 x €0.8979 = €103.05 de mercancía; €103.05 x 1.21 + €5.00 = €129.69 landed; €129.69 / 10 sobres = €12.97 por sobre; €129.69 / 100 cartas = €1.30 por carta",
+          "M2 box: $183.18 x €0.8979 = €164.48 de mercancía; €164.48 x 1.21 = €199.02 landed (suelo, arancel por determinar); €199.02 / 20 sobres = €9.95 por sobre; €199.02 / 100 cartas = €1.99 por carta",
+          "M1L box: $94.91 x €0.8979 = €85.22 de mercancía; €85.22 x 1.21 + €5.00 = €108.12 landed; €108.12 / 30 sobres = €3.60 por sobre; €108.12 / 150 cartas = €0.72 por carta",
+          "M1S box: $84.97 x €0.8979 = €76.29 de mercancía; €76.29 x 1.21 + €5.00 = €97.31 landed; €97.31 / 30 sobres = €3.24 por sobre; €97.31 / 150 cartas = €0.65 por carta",
+          "SV11B box: $183.18 x €0.8979 = €164.48 de mercancía; €164.48 x 1.21 = €199.02 landed (suelo, arancel por determinar); €199.02 / 20 sobres = €9.95 por sobre; €199.02 / 140 cartas = €1.42 por carta",
+          "SV11W box: $167.72 x €0.8979 = €150.60 de mercancía; €150.60 x 1.21 = €182.23 landed (suelo, arancel por determinar); €182.23 / 20 sobres = €9.11 por sobre; €182.23 / 140 cartas = €1.30 por carta",
+          "SV9a box: $163.32 x €0.8979 = €146.65 de mercancía; €146.65 x 1.21 + €5.00 = €182.45 landed; €182.45 / 30 sobres = €6.08 por sobre; €182.45 / 150 cartas = €1.22 por carta",
+          "SV10 box: $212.99 x €0.8979 = €191.24 de mercancía; €191.24 x 1.21 = €231.40 landed (suelo, arancel por determinar); €231.40 / 30 sobres = €7.71 por sobre; €231.40 / 150 cartas = €1.54 por carta",
+          "SV8a box: $163.32 x €0.8979 = €146.65 de mercancía; €146.65 x 1.21 + €5.00 = €182.45 landed; €182.45 / 10 sobres = €18.25 por sobre; €182.45 / 100 cartas = €1.82 por carta",
+          "SV4a box: $141.24 x €0.8979 = €126.82 de mercancía; €126.82 x 1.21 + €5.00 = €158.45 landed; €158.45 / 10 sobres = €15.85 por sobre; €158.45 / 100 cartas = €1.58 por carta",
+          "SV8 box: $258.23 x €0.8979 = €231.86 de mercancía; €231.86 x 1.21 = €280.55 landed (suelo, arancel por determinar); €280.55 / 30 sobres = €9.35 por sobre; €280.55 / 150 cartas = €1.87 por carta",
+          "M6 box: $82.80 x €0.8979 = €74.35 de mercancía; €74.35 x 1.21 + €5.00 = €94.96 landed; €94.96 / 30 sobres = €3.17 por sobre; €94.96 / 150 cartas = €0.63 por carta",
+          "M5 box: $91.61 x €0.8979 = €82.26 de mercancía; €82.26 x 1.21 + €5.00 = €104.53 landed; €104.53 / 30 sobres = €3.48 por sobre; €104.53 / 150 cartas = €0.70 por carta",
+          "SV11B Deluxe box: $212.99 x €0.8979 = €191.24 de mercancía; €191.24 x 1.21 = €231.40 landed (suelo, arancel por determinar); €231.40 / 4 sobres = €57.85 por sobre; €231.40 / 140 cartas = €1.65 por carta",
+          "SV11W Deluxe box: $197.53 x €0.8979 = €177.36 de mercancía; €177.36 x 1.21 = €214.61 landed (suelo, arancel por determinar); €214.61 / 4 sobres = €53.65 por sobre; €214.61 / 140 cartas = €1.53 por carta",
+          "SV2a case: $3,809.32 x €0.8979 = €3,420.39 de mercancía; €3,420.39 x 1.21 = €4,138.67 landed (suelo, arancel por determinar); €4,138.67 / 12 = €344.89 por caja frente a una sola landed en €511.94, ahorra €167.05 por caja",
+          "M3 case: $1,048.24 x €0.8979 = €941.21 de mercancía; €941.21 x 1.21 = €1,138.86 landed (suelo, arancel por determinar); €1,138.86 / 12 = €94.91 por caja frente a una sola landed en €81.73, cuesta €13.18 más por caja",
+          "Tablero completo: $41,700.52 x €0.8979 = €37,442.90 de mercancía; por debajo de 150 € $3,936.11 = €3,534.27 de mercancía, landed €4,461.42; por encima de 150 € $37,764.41 = €33,908.67 de mercancía, suelo landed €41,029.51; total landed €45,490.93 (suelo)",
+          "M3 + S2 juntas: €63.41 + €38.64 = €102.05 de mercancía, por debajo de 150 €; €102.05 x 1.21 + €5.00 = €128.48 landed",
+          "Dos M3 juntas: 2 x €63.41 = €126.82 de mercancía, por debajo de 150 €; €126.82 x 1.21 + €5.00 = €158.45 landed",
+          "M6a + 151 juntas: €223.58 + €423.09 = €646.67 de mercancía, por encima de 150 €; €646.67 x 1.21 = €782.47 landed (suelo, arancel por determinar)",
+          "TCGplayer M6a: nuestro $249.00 - $174.19 = $74.81 más caro (precio de mercado TCGplayer, 10 nov 2026)",
+          "CardZ SV10 última venta: nuestro $212.99 - $158.00 = $54.99 más caro (una venta completada, no un precio de mercado)",
+          "CardZ SV9a última venta: nuestro $163.32 - $116.00 = $47.32 más caro (una venta completada, no un precio de mercado)",
+          "Jikawo S10B: nuestro $259.32 - $167.00 = $92.32 más caro (precio de tienda Jikawo)",
+          "Jikawo SV8a: nuestro $163.32 - $151.00 = $12.32 más caro (precio de tienda Jikawo)",
+          "Samurai Sword M2a: JPY 13,723 / 154 = $89.11; nuestro $114.77 es $25.66 más caro",
+          "Samurai Sword SV8a: JPY 21,641 / 154 = $140.53; nuestro $163.32 es $22.79 más caro",
+          "Samurai Sword M6a sin precinto: JPY 24,912 / 154 = $161.77; nuestro $249.00 es $87.23 más caro (opción sin precinto, 21 oct 2026)",
+          "Samurai Sword 151: JPY 44,502 / 154 = $288.97; nuestro $471.20 es $182.23 más caro (caja sellada, 1 oct 2026)",
+          "Free shipping: 151 + M3: $471.20 + $70.62 = $541.82, supera la línea de $500"
+        ],
+        "paragraphs": [
+          "Noventa cajas Pokémon japonesas selladas en stock, de 43.03 $ a 3,924.12 $, un estante de 41,700.52 $. La mercancía vale 37,442.90 € y el landed es de 45,490.93 € antes del envío: las 53 cajas por encima de 150 € aún deben el arancel. La mayoría trae [30 sobres](/blog/how-many-packs-in-a-booster-box/) de 5 cartas; excepciones: M2a, SV4a y SV8a con 10 de 10; SV2a, SV11B y SV11W con 20 de 7; M6a con 20 de 6 foil; y dos Deluxe con 4 de 35.",
+          "Hasta 150 € (37 cajas): €38.64: S2 Rebellion Crash; €63.41: M3 Munikis Zero; €74.35: M6 Storm Emeralda; €76.29: M1S Mega Symphonia; €76.29: SV9 Battle Partners; €79.26: M4 Ninja Spinner; €79.26: SV5M Cyber Judge; €79.26: SV4M Future Flash; €79.26: SV1V Violet; €82.26: M5 Abyss Eye; €82.26: SV7 Stella Miracle; €82.26: SV6a Night Wanderer; €82.26: SV4K Ancient Roar; €82.26: S11a Incandescent Arcana; €82.26: S9a Battle Region; €82.26: S9 Star Birth; €85.22: M1L Mega Brave; €85.22: SV2P Snow Hazard; €88.82: SMP2 Detective Pikachu; €88.82: SM9a Night Unison; €88.82: SM9 Tag Bolt; €92.16: SV3a Raging Surf; €92.16: SV2D Clay Burst; €96.11: SV5a Crimson Haze; €96.11: SV5K Wild Force; €97.12: S10P Space Juggler; €100.08: SV6 Mask Of Change; €100.08: SV1S Scarlet; €103.05: M2a MEGA Dream ex; €126.82: SV7a Paradise Dragona; €126.82: SV4a Shiny Treasure ex; €133.76: S10D Time Gazer; €136.74: SV3 Ruler Of Black Flame; €136.74: SV1A Triplet Beat; €144.48: SM9b Full Metal Wall; €146.65: SV9a Heat Wave Arena; €146.65: SV8a Terastal Festival ex.",
+          "De 150 € a 450 € (28 cajas): €150.60: SV11W White Flare; €150.60: S6h Silver Lance; €152.61: S4a Shiny Star V; €152.61: S4 Shocking Volt Tackle : Electryfing Tackle; €164.48: M2 Inferno X; €164.48: SV11B Black Bolt; €165.46: S7d Towering Perfection; €177.36: SV11W Deluxe White Flare; €180.33: S6k Jet Black Spirit; €191.24: SV11B Deluxe Black Bolt; €191.24: SV10 Glory Of Team Rocket; €217.00: S12a Vstar Universe; €217.00: S12 Paradigm Trigger; €217.98: S10a Dark Phantasma; €223.58: M6a 30th CELEBRATION Pokémon; €231.86: SV8 Super Electric Breaker; €232.84: S10b GO; €261.59: S8b VMAX Climax; €261.59: S8 Fusion Arts; €261.59: S1a VMAX Rising; €337.89: S2a explosive Flame Walker; €370.59: S5a Matchless Fighter; €384.45: S5i Single Strike Master; €386.44: S11 Lost Abyss; €391.39: S3a Legendary Heartbeat Pulse; €391.39: S3 Infinity Zone; €423.09: SV2a Pokemon Card 151; €435.98: S1W Sword.",
+          "De 450 € a 900 € (13 cajas): €458.77: S5r Rapid Strike Master; €461.75: SM8a Dark Order; €494.45: SM12 Alter Genesis; €506.32: S8a 25th Anniversary; €584.60: S1h Shield; €611.35: SM5+ Ultra Force; €627.21: SM6 Forbidden Light; €650.98: SM5S Ultra Sun; €654.96: SM7a Thunderclap Spark; €710.44: SM7b Fairy Rise; €803.58: SM6b Champion Road; €846.19: SM10a G G End; €874.92: SM10 Double Blaze.",
+          "Más de 900 € (12 cajas): €995.81: SM10b Sky Legend; €1,018.60: SM6a Dragon Storm; €1,041.38: S6a Eevee Heroes; €1,095.90: SM8 Super-Burst Impact; €1,151.38: SM11a Remix Bout; €1,300.99: SM11b Dream League; €1,367.38: SM5M Ultra Moon; €1,498.17: SM12a Tag Team GX Tag All Stars; €1,543.75: SM8b GX Ultra Shiny; €1,676.51: SM11 Miracle Twin; €2,322.55: S7r Blue Sky Stream; €3,523.47: SM7 Sky-Splitting Charisma.",
+          "S2 es la caja más barata por sobre a 1.43 $, o 1.73 € landed; [M3](/blog/m3-munikis-zero-buyers-guide/) es la segunda a 2.35 $, o 2.72 €. [M6a](/blog/m6a-30th-celebration-buyers-guide/) sale a 12.45 $ por sobre, o 13.53 € landed. [151](/blog/sv2a-pokemon-151-buyers-guide/) es la de 20 sobres más cara por sobre a 23.56 $, o 25.60 €.",
+          "El case SV2a cuesta 3,809.32 $, landed en suelo de 4,138.67 €, o 344.89 € por caja: frente a una 151 en suelo de 511.94 €, ahorra 167.05 € por caja. El case M3 va al revés: 1,048.24 $, landed en suelo de 1,138.86 €, o 94.91 € por caja frente a una M3 en 81.73 €: cuesta 13.18 € más por caja."
+        ]
+      },
+      {
+        "h": "La capa de decisión: Japan-direct frente a Cardmarket frente a Wallapop frente a las tiendas",
+        "note": "Desde el Warehouse: la pregunta que más recibimos de los compradores españoles es si algo sigue exento de arancel por debajo de 150 €, porque cada guía escrita antes de julio de 2026 dice que sí. No lo está: la exención murió el 1 de julio de 2026 y el arancel fijo de 3 € la sustituyó, y desde el 1 de noviembre de 2026 se suma la tasa de 2 € por categoría. La segunda pregunta es si los 3 € se aplican por caja: es por categoría arancelaria, así que cinco cajas de un set cuestan 3 € de arancel, no 15 €.",
+        "paragraphs": [
+          "Cuatro rutas: Japan-direct, una caja sellada enviada desde Japón con los cargos de frontera de esta página; Cardmarket, con vendedores europeos en euros y sin impuesto de importación; Wallapop, el clasificado local, con precios negociables y sin protección del comprador; y las tiendas españolas, con el mismo stock ya importado.",
+          "Reino de Cartas vende la M6 japonesa a 127.99 €, una sola unidad, mientras que nuestro landed es de 94.96 €, así que Japan-direct gana por 33.03 € antes del envío. Nexus Cards vende la misma caja a 89.90 €, así que Nexus gana por 5.06 €. Reza TCG vende un bundle de la M6 con caja acrílica a 100.00 €. En Catawiki, tres M2a se vendieron por 240 €, 80 € por caja, frente a nuestro landed de 129.69 € por una sola M2a. Pipoon lista la 151 a 770.00 €, frente a nuestro suelo landed de 511.94 €: Japan-direct gana por 258.06 €."
+        ],
+        "table": {
+          "head": [
+            "Caja",
+            "En EUR",
+            "Por sobre",
+            "Landed",
+            "Mejor para"
+          ],
+          "rows": [
+            [
+              "S2 Rebellion Crash",
+              "€38.64",
+              "€1.73",
+              "€51.75",
+              "El sobre más barato, ábrela"
+            ],
+            [
+              "M3 Munikis Zero",
+              "€63.41",
+              "€2.72",
+              "€81.73",
+              "El segundo sobre más barato"
+            ],
+            [
+              "M1S Mega Symphonia",
+              "€76.29",
+              "€3.24",
+              "€97.31",
+              "Caja MEGA barata, bajo la línea"
+            ],
+            [
+              "M6a 30th Celebration",
+              "€223.58",
+              "€13.53",
+              "€270.53*",
+              "La más cara por demanda, mira el precio primero"
+            ],
+            [
+              "Pokemon Card 151",
+              "€423.09",
+              "€25.60",
+              "€511.94*",
+              "La caja estándar más cara, solo coleccionista"
+            ],
+            [
+              "SV2a sealed case",
+              "€3,420.39",
+              "€344.89 por caja",
+              "€4,138.67*",
+              "El único ahorro real de case del estante"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Lo que falta en otras páginas de precios de Pokémon en España",
+        "paragraphs": [
+          "Los tres primeros resultados para esta búsqueda son páginas de una sola caja, no un índice de precios: Reino de Cartas para la M6 a 127.99 €, Nexus Cards para la misma M6 a 89.90 € y Centro Paleta para la Futuristic Box del 30.º aniversario a 600 €, una caja especial, no una booster box. Ninguna convierte un precio a euros ni divide un case.",
+          "La segunda carencia es el tablero completo: ninguna página valora las noventa cajas contra la línea de 150 € en un solo lugar. Quien busca caja pokemon japonesa sellada españa precio encuentra anuncios, no un tablero. La guía [comprar cartas TCG japonesas en España](/blog/comprar-cartas-tcg-japonesas-en-espana/) explica la misma línea fiscal para los cuatro juegos."
+        ]
+      },
+      {
+        "h": "La capa práctica: pedir desde Japón a España",
+        "paragraphs": [
+          "Elige la caja, multiplica el precio en dólares por 0.8979 y comprueba la mercancía contra 167.06 $. A 150 € o menos, multiplica por 1.21 y suma 5 €: ese es el landed antes del envío, con el arancel de 3 €, la tasa de 2 € y el IVA del 21 % dentro. Por encima de 150 €, multiplica por 1.21 para el suelo del IVA y confirma el arancel TARIC antes de pagar. Los cargos van al total del paquete. Confirma la [cotización de envío](/blog/buying-tcg-from-japan-shipping-customs-proxy/) en el checkout o por WhatsApp en wa.me/818029350455 antes de pagar.",
+          "Guarda la caja sellada y en vertical; nuestra guía de [guardar cajas selladas](/blog/how-to-store-sealed-booster-boxes/) cubre la humedad y el apilado. El calor español es la única condición local que importa: el sellado en un ático sin aislar puede deformarse, así que guarda las cajas en un lugar fresco, seco y oscuro."
+        ]
+      },
+      {
+        "h": "La capa de riesgo: reprecintos, reprints y el arancel por encima de 150 €",
+        "paragraphs": [
+          "Los reprecintos son el primer riesgo en cualquier ruta de segunda mano: una caja abierta y vuelta a precintar parece sellada hasta que se abre. La única defensa es el stock sellado de fábrica de un vendedor cuya reputación está en juego, comprobado contra nuestra guía de [reprecinto](/blog/how-to-tell-if-a-booster-box-is-resealed/) antes de abrir.",
+          "M6a estaba a 207.50 $ el 24 de octubre de 2026 y está a 249.00 $ el 10 de noviembre, un 20.0 % más en diecisiete días: comprueba el precio vivo antes de pagar. Por encima de 150 € el tipo TARIC no está verificado, así que esas cifras son un suelo del 21 % de IVA y el arancel real puede subir el total. El tercer riesgo es un precio de catálogo que no cuadra, y esta página lo excluye: el case S10b Pokémon GO está listado a 1,177.60 $ por veinte cajas, 58.88 $ por caja frente a una sola a 259.32 $, una cifra inverosímil que parece un error de catálogo. Y el arancel pagado no se devuelve aunque se devuelva la mercancía, salvo producto defectuoso."
+        ]
+      },
+      {
+        "h": "Contexto: precio de lista japonés frente a estante frente a retail español",
+        "paragraphs": [
+          "Una caja estándar Scarlet and Violet lista a 30 sobres de 180 ¥, 5,400 ¥, o 35.06 $ a 154 ¥ por dólar. Una caja MEGA lista a 30 sobres de 200 ¥, o 6,000 ¥, 38.96 $, tras subir el sobre de 180 a 200 ¥ en mayo de 2026. Pokémon Card 151 lista a 20 sobres de 290 ¥, o 5,800 ¥, 37.66 $, y M6a a 20 sobres de 360 ¥, o 7,200 ¥, 46.75 $. Creatures anunció en noviembre de 2026 que desde mayo de 2027 el sobre estándar pasará de 200 a 230 ¥.",
+          "Rebellion Crash a 43.03 $ es 1.34 veces su lista, M3 a 70.62 $ es 1.81 veces la lista MEGA, [M6a](/blog/m6a-30th-celebration-buyers-guide/) a 249.00 $ es 5.33 veces su lista, y 151 a 471.20 $ es 12.51 veces su lista. Las cartas japonesas no son legales en eventos sancionados europeos."
+        ]
+      },
+      {
+        "h": "Para quién NO es esta guía",
+        "paragraphs": [
+          "Esta guía no es para quien persigue una sola carta: si es un Charizard o una Secret Art Rare concreta, la single es más barata. No es para quien necesita la caja esta semana: Japan-direct tarda días o semanas. No es para quien quiere un pull garantizado: ninguna caja sellada garantiza ninguna carta. No es para quien busca una caja por debajo de 150 € para escapar del impuesto: la línea decide cómo se cobran los 3 € y los 2 €, no los elimina. No es para quien vive en Canarias, Ceuta o Melilla."
+        ]
+      },
+      {
+        "checklist": [
+          "Elige la caja y convierte su precio en dólares por 0.8979.",
+          "Comprueba la mercancía contra 167.06 $.",
+          "A 150 € o menos: multiplica por 1.21 y suma 5 €.",
+          "Por encima de 150 €: multiplica por 1.21 y confirma el arancel TARIC.",
+          "Pregunta si el vendedor usa IOSS antes de pagar.",
+          "Confirma el envío antes de pagar.",
+          "Nunca compres un sobre suelto en un marketplace.",
+          "Inspecciona el precinto a la llegada antes de abrirla."
+        ],
+        "h": "La capa de acción: la checklist del comprador español",
+        "paragraphs": [
+          "El [tablero de precios](/blog/japanese-pokemon-booster-box-price/) es el original en dólares, y la guía [mejor caja Pokémon japonesa, por comprador](/blog/best-japanese-pokemon-booster-box-to-buy/) clasifica el estante por comprador."
+        ]
+      }
+    ],
+    "slug": "caja-pokemon-japonesa-sellada-espana-precio",
+    "takeaway": [
+      "Cada caja Pokémon japonesa enviada a España paga el 21 % de IVA desde el primer euro, más un arancel fijo de 3 € por categoría y una tasa de 2 € por categoría mientras el paquete se mantenga por debajo de 150 €, porque la antigua línea libre de arancel murió el 1 de julio de 2026 y la tasa llegó el 1 de noviembre de 2026. De las noventa cajas, 37 quedan por debajo y 53 por encima, así que la mayoría del estante landed es un suelo del 21 % de IVA.",
+      "Los precios se mueven, así que cada número aquí lleva fecha: precios de estante a 11 de noviembre de 2026, convertidos a 0.8979 € por dólar, con el arancel y el IVA solo sobre la mercancía porque el envío se confirma en el checkout. Comprueba el precio vivo antes de pagar: la línea de 150 € se mide solo sobre la mercancía, así que el envío nunca empuja un paquete por encima de ella, pero dos cajas en un paquete se suman."
+    ]
+  },
   "cheapest-japanese-pokemon-booster-box": {
     "datePublished": "2026-11-08",
     "faqs": [
@@ -12079,7 +12278,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "La capa de acción: la checklist del comprador español",
         "paragraphs": [
-          "Haz esto en orden antes de la próxima caja japonesa que consideres. Lleva cinco minutos y sustituye una tarde comparando anuncios en euros."
+          "Haz esto en orden antes de la próxima caja japonesa que consideres. Lleva cinco minutos y sustituye una tarde comparando anuncios en euros. Para las noventa cajas Pokémon con el precio landed en euros, la [guía de precio de caja Pokémon japonesa sellada en España](/blog/caja-pokemon-japonesa-sellada-espana-precio/) aplica la línea de 150 € a todo el estante."
         ]
       }
     ],
@@ -17113,6 +17312,221 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Australia hub this guide sits inside, the [buying Japanese TCG cards in Australia guide](/blog/buying-japanese-tcg-cards-in-australia/) runs the same A$1,000 line across all four games, with Pokemon, Dragon Ball and Lorcana in Australian dollars. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Australia price guide](/blog/japanese-pokemon-booster-box-australia-price/) runs the same line across the ninety Pokemon boxes."
     ]
   },
+  "japanese-one-piece-booster-box-malaysia": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Yes, 10% on the goods value, and the RM500 line decides how it is collected. Nine boxes sit under the line, from OP-15 at RM 283.03 to OP-17 at RM 494.03: the 10% low-value-goods sales tax is charged at checkout when the seller is registered, and nothing is due at the border. Fifteen boxes sit over it, up to OP-01 at RM 971.33: the 10% sales tax is charged at the border as a floor, with import duty still to be added. Above the line, the landed floor is goods times 1.10, so a sealed case lands at goods times 1.10 before duty: the OP-15 case lands at RM 3,656.38 before shipping and duty.",
+        "q": "Will I pay tax on one Japanese One Piece booster box shipped to Malaysia?"
+      },
+      {
+        "a": "It depends on the set, and most cases barely move the price. The OP-02 case costs RM 8,087.45 in goods and lands at RM 8,896.20 as a floor, working out to RM 741.35 a box, saving RM 183.59 a box against the single. The OP-03 case costs RM 6,875.29 in goods and lands at RM 7,562.82, working out to RM 630.24 a box, saving RM 157.40 a box. The OP-01 case runs nearly flat: RM 11,411.79 in goods lands at RM 12,552.97, which is RM 1,046.08 a box, saving RM 22.38 against the single landed. Divide the case for the set you want; the format alone does not save money.",
+        "q": "What does a sealed One Piece case cost to land in Malaysia?"
+      },
+      {
+        "a": "Mixed, and this page names the gap. Our OP-07 at $134.32 is $54.32 above the OP Box Index eBay median of $80, and our OP-17 at $121.28 is $52.08 above the CardZ last-sold figure of $69.20, though a last-sold figure is one completed sale, not a market price. Against a Japanese store we are cheaper: our OP-01 at $238.45 is $14.15 below the Samurai Sword Tokyo store price of about $252.60, and our OP-05 at $186.61 is $173.72 below their store price of about $360.33. No Malaysian shop publishes a usable ringgit price for these boxes, so there is no local ask to beat: compare the landed cost, not the goods price, and weigh sealed provenance against the saving.",
+        "q": "Is the Warehouse price cheaper than buying locally in Malaysia or on eBay?"
+      }
+    ],
+    "h1": "Japanese One Piece Booster Box Prices in Malaysia: Every Box Landed, in Ringgit",
+    "intro": [
+      "Every Japanese One Piece booster box on our shelf lands in Malaysia with the same 10% on top, because the RM500 line decides how the tax is collected, not whether it is charged: nine boxes sit under it and pay the 10% low-value-goods sales tax at checkout, fifteen sit over it and pay 10% sales tax at the border as a floor, with import duty still to be added. The cheapest box is OP-15 at RM 283.03 of goods, landing at RM 311.33; the dearest is OP-01 at RM 971.33 of goods, landing at RM 1,068.46. Prices as of November 11, 2026, converted at RM 4.0735 to the dollar.",
+      "The cheapest box per pack is OP-15 at RM 12.97 landed, and the dearest box is OP-01 at RM 971.33 of goods."
+    ],
+    "metaDescription": "Every Japanese One Piece booster box price in Malaysian ringgit as of November 11, 2026: the RM500 LVG line, per-pack math, and case divisions.",
+    "metaTitle": "Japanese One Piece Booster Box Prices Malaysia",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: RM500 is the line, and the 10% hits both sides",
+        "paragraphs": [
+          "Since January 1, 2024, goods valued at RM500 or less sold online and imported into Malaysia carry a flat 10% sales tax on low-value goods, collected at checkout by a registered seller. The threshold is drawn on the goods value alone: transport, insurance and other charges are excluded. Sellers register on the MyLVG portal once their low-value-goods sales into Malaysia exceed RM500,000 in 12 months; unregistered-seller parcels can be charged the tax on import instead. The Ministry of Finance press release of December 18, 2023 sets out the regime; the MyLVG portal still lists the flat 10% at RM500 or less as of October 29, 2026. Malaysia abolished GST in 2018, so this tax is sales tax, never GST.",
+          "Nine of the twenty-four boxes on our shelf sit under the line on goods value, from OP-15 at RM 283.03 to OP-17 at RM 494.03; fifteen sit over it, from OP-12 at RM 528.70 up to OP-01 at RM 971.33. Above RM500 the normal border regime applies: import duty by HS code plus sales tax at 5% or 10% by category after the July 1, 2025 SST revision. The duty rate for playing cards under HS 9504.40 is not verified, so every over-line landed figure here is the 10% sales-tax floor, duty still to be added. Unlike Singapore, where a single box clears the line untaxed and a case pays, Malaysia taxes the single and the case at the same 10%, so only the shelf discount decides whether a case saves money.",
+          "Every sealed case sits over the line: the cheapest, the OP-15 case at RM 3,323.98 of goods, already clears RM500 before tax. A case lands at goods times 1.10 as a floor, higher by whatever duty applies. Shelf prices are in US dollars; the exact tax treatment of an order is confirmed at checkout or on WhatsApp."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in ringgit",
+        "math": [
+          "OP-15 box: $69.48 x RM 4.0735 = RM 283.03 goods; RM 283.03 x 1.10 LVG = RM 311.33 landed; RM 311.33 / 24 packs = RM 12.97 per pack; RM 12.97 / 6 cards = RM 2.16 per card",
+          "PRB-02 box: $74.82 x RM 4.0735 = RM 304.78 goods; RM 304.78 x 1.10 = RM 335.26 landed; per box only, no packs-per-box figure printed",
+          "OP-18 box: $84.00 x RM 4.0735 = RM 342.17 goods; RM 342.17 x 1.10 LVG = RM 376.39 landed; RM 376.39 / 24 packs = RM 15.68 per pack; RM 15.68 / 6 cards = RM 2.61 per card",
+          "EB-04 box: $91.03 x RM 4.0735 = RM 370.81 goods; RM 370.81 x 1.10 LVG = RM 407.89 landed; RM 407.89 / 24 packs = RM 17.00 per pack; RM 17.00 / 6 cards = RM 2.83 per card",
+          "OP-16 box: $105.00 x RM 4.0735 = RM 427.72 goods; RM 427.72 x 1.10 LVG = RM 470.49 landed; RM 470.49 / 24 packs = RM 19.60 per pack; RM 19.60 / 6 cards = RM 3.27 per card",
+          "OP-17 box: $121.28 x RM 4.0735 = RM 494.03 goods; RM 494.03 x 1.10 LVG = RM 543.43 landed; RM 543.43 / 24 packs = RM 22.64 per pack; RM 22.64 / 6 cards = RM 3.77 per card",
+          "OP-12 box: $129.79 x RM 4.0735 = RM 528.70 goods; RM 528.70 x 1.10 SST floor, duty TBD = RM 581.57 landed; RM 581.57 / 24 packs = RM 24.23 per pack; RM 24.23 / 6 cards = RM 4.04 per card",
+          "OP-13 box: $135.00 x RM 4.0735 = RM 549.92 goods; RM 549.92 x 1.10 SST floor, duty TBD = RM 604.91 landed; RM 604.91 / 24 packs = RM 25.20 per pack; RM 25.20 / 6 cards = RM 4.20 per card",
+          "OP-07 box: $134.32 x RM 4.0735 = RM 547.15 goods; RM 547.15 x 1.10 SST floor, duty TBD = RM 601.87 landed; RM 601.87 / 24 packs = RM 25.08 per pack; RM 25.08 / 6 cards = RM 4.18 per card",
+          "PRB-01 box: $149.63 x RM 4.0735 = RM 609.52 goods; RM 609.52 x 1.10 SST floor, duty TBD = RM 670.47 landed; RM 670.47 / 10 packs = RM 67.05 per pack; RM 67.05 / 10 cards = RM 6.71 per card",
+          "EB-01 box: $155.04 x RM 4.0735 = RM 631.56 goods; RM 631.56 x 1.10 SST floor, duty TBD = RM 694.72 landed; RM 694.72 / 24 packs = RM 28.95 per pack; RM 28.95 / 6 cards = RM 4.83 per card",
+          "OP-01 box: $238.45 x RM 4.0735 = RM 971.33 goods; RM 971.33 x 1.10 SST floor, duty TBD = RM 1,068.46 landed; RM 1,068.46 / 24 packs = RM 44.52 per pack; RM 44.52 / 6 cards = RM 7.42 per card",
+          "OP-02 box: $206.42 x RM 4.0735 = RM 840.85 goods; RM 840.85 x 1.10 SST floor, duty TBD = RM 924.94 landed; RM 924.94 / 24 packs = RM 38.54 per pack; RM 38.54 / 6 cards = RM 6.42 per card",
+          "OP-05 box: $186.61 x RM 4.0735 = RM 760.16 goods; RM 760.16 x 1.10 SST floor, duty TBD = RM 836.18 landed; RM 836.18 / 24 packs = RM 34.84 per pack; RM 34.84 / 6 cards = RM 5.81 per card",
+          "OP-06 box: $165.86 x RM 4.0735 = RM 675.63 goods; RM 675.63 x 1.10 SST floor, duty TBD = RM 743.19 landed; RM 743.19 / 24 packs = RM 30.97 per pack; RM 30.97 / 6 cards = RM 5.16 per card",
+          "OP-01 case: $2,801.47 x RM 4.0735 = RM 11,411.79 goods; RM 11,411.79 x 1.10 = RM 12,552.97 landed (floor, duty TBD); RM 12,552.97 / 12 boxes = RM 1,046.08 per box; single landed RM 1,068.46 - RM 1,046.08 = RM 22.38 saved per box",
+          "OP-02 case: $1,985.38 x RM 4.0735 = RM 8,087.45 goods; RM 8,087.45 x 1.10 = RM 8,896.20 landed (floor, duty TBD); RM 8,896.20 / 12 boxes = RM 741.35 per box; single landed RM 924.94 - RM 741.35 = RM 183.59 saved per box",
+          "OP-03 case: $1,687.81 x RM 4.0735 = RM 6,875.29 goods; RM 6,875.29 x 1.10 = RM 7,562.82 landed (floor, duty TBD); RM 7,562.82 / 12 boxes = RM 630.24 per box; single landed RM 787.64 - RM 630.24 = RM 157.40 saved per box",
+          "OP-15 case: $816.00 x RM 4.0735 = RM 3,323.98 goods; RM 3,323.98 x 1.10 = RM 3,656.38 landed (floor, duty TBD); RM 3,656.38 / 12 boxes = RM 304.70 per box; single landed RM 311.33 - RM 304.70 = RM 6.63 saved per box",
+          "OP-18 case: $906.00 x RM 4.0735 = RM 3,690.59 goods; RM 3,690.59 x 1.10 = RM 4,059.65 landed (floor, duty TBD); RM 4,059.65 / 12 boxes = RM 338.30 per box; single landed RM 376.39 - RM 338.30 = RM 38.09 saved per box",
+          "OP-17 case: $1,458.00 x RM 4.0735 = RM 5,939.16 goods; RM 5,939.16 x 1.10 = RM 6,533.08 landed (floor, duty TBD); RM 6,533.08 / 12 boxes = RM 544.42 per box; RM 544.42 - single landed RM 543.43 = RM 0.99 more per box",
+          "OP-05 case: $2,244.73 x RM 4.0735 = RM 9,143.91 goods; RM 9,143.91 x 1.10 = RM 10,058.30 landed (floor, duty TBD); RM 10,058.30 / 12 boxes = RM 838.19 per box; RM 838.19 - single landed RM 836.18 = RM 2.01 more per box",
+          "OP-07 case: $1,613.24 x RM 4.0735 = RM 6,571.53 goods; RM 6,571.53 x 1.10 = RM 7,228.68 landed (floor, duty TBD); RM 7,228.68 / 12 boxes = RM 602.39 per box; RM 602.39 - single landed RM 601.87 = RM 0.52 more per box",
+          "EB-04 case: $1,086.02 x RM 4.0735 = RM 4,423.90 goods; RM 4,423.90 x 1.10 = RM 4,866.29 landed (floor, duty TBD); RM 4,866.29 / 12 boxes = RM 405.52 per box; single landed RM 407.89 - RM 405.52 = RM 2.37 saved per box",
+          "PRB-01 case: $1,489.57 x RM 4.0735 = RM 6,067.76 goods; RM 6,067.76 x 1.10 = RM 6,674.54 landed (floor, duty TBD); RM 6,674.54 / 10 boxes = RM 667.45 per box; single landed RM 670.47 - RM 667.45 = RM 3.02 saved per box",
+          "PRB-02 case: $1,489.57 x RM 4.0735 = RM 6,067.76 goods; RM 6,067.76 x 1.10 = RM 6,674.54 landed (floor, duty TBD); RM 6,674.54 / 20 boxes = RM 333.73 per box; single landed RM 335.26 - RM 333.73 = RM 1.53 saved per box",
+          "Whole box ladder: $3,394.77 x RM 4.0735 = RM 13,828.60 of goods; under RM500 $840.39 = RM 3,423.32 goods, landed RM 3,765.66; over RM500 $2,554.38 = RM 10,405.28 goods, landed floor RM 11,445.82; total landed RM 15,211.48 (floor)",
+          "Whole case ladder: $39,858.31 x RM 4.0735 = RM 162,362.83 of goods; x 1.10 = RM 178,599.13 landed (floor, duty TBD), every case over the RM500 line",
+          "OP-15 + PRB-02 pairing: RM 283.03 + RM 304.78 = RM 587.81 of goods, over the line; RM 587.81 x 1.10 = RM 646.59 landed (floor, duty TBD)",
+          "OP-15 + OP-18 pairing: RM 283.03 + RM 342.17 = RM 625.20 of goods, over the line; RM 625.20 x 1.10 = RM 687.72 landed (floor, duty TBD)",
+          "Two OP-15 pairing: 2 x RM 283.03 = RM 566.06 of goods, over the line; RM 566.06 x 1.10 = RM 622.67 landed (floor, duty TBD)",
+          "OP-01 + OP-02 pairing: RM 971.33 + RM 840.85 = RM 1,812.18 of goods, over the line; RM 1,812.18 x 1.10 = RM 1,993.40 landed (floor, duty TBD)",
+          "Free-shipping trio OP-01 + OP-02 + OP-15: $514.35 x RM 4.0735 = RM 2,095.20 of goods, over the line; RM 2,095.20 x 1.10 = RM 2,304.72 landed (floor, duty TBD)",
+          "Samurai Sword OP-01: JPY 38,901 / 154 = $252.60; our $238.45 is $14.15 cheaper",
+          "Samurai Sword OP-05: JPY 55,491 / 154 = $360.33; our $186.61 is $173.72 cheaper",
+          "SNKRDUNK OP-01 lowest ask: JPY 38,000 / 154 = $246.75; our $238.45 is $8.30 cheaper",
+          "CardZ OP-17 last sold: our $121.28 - $69.20 = $52.08 dearer (one completed sale, not a market price)",
+          "CardZ OP-15 last sold: our $69.48 - $52.48 = $17.00 dearer (one completed sale, not a market price)",
+          "CardZ OP-14 last sold: our $98.26 - $54.98 = $43.28 dearer (one completed sale, not a market price)",
+          "CardZ OP-10 last sold: our $98.26 - $64.57 = $33.69 dearer (one completed sale, not a market price)",
+          "CardZ OP-13 last sold: our $135.00 - $109.00 = $26.00 dearer (one completed sale, not a market price)",
+          "CardZ PRB-02 last sold: our $74.82 - $63.19 = $11.63 dearer (one completed sale, not a market price)",
+          "OP Box Index OP-07 eBay median: our $134.32 - $80.00 = $54.32 dearer",
+          "OP Box Index OP-01 eBay floor: our $238.45 - $200.00 = $38.45 above the lowest eBay ask",
+          "OP Box Index EB-01 eBay floor: our $155.04 - $110.00 = $45.04 above the lowest eBay ask",
+          "OP-18 English presale: $234.00 on Nov 10, 2026 vs $119.76 MSRP = $114.24 above, 95% over MSRP (onepiece.app, TCGplayer market data)",
+          "Free shipping: OP-01 + OP-02 + OP-15: $238.45 + $206.42 + $69.48 = $514.35, clears the $500 line"
+        ],
+        "paragraphs": [
+          "Twenty-four Japanese One Piece booster boxes are in stock, $69.48 to $238.45, a $3,394.77 shelf, as of November 11, 2026. Goods value is RM 13,828.60, landed RM 15,211.48 as a floor. A standard box holds 24 packs of 6 cards. Extra Booster per-pack figures use the 24-pack box shown in retail listings, because Bandai prints no packs-per-box figure for EB-01 through EB-04; PRB-01 is 10 packs of 10 cards on a listing basis, and PRB-02 carries no packs-per-box figure and is priced per box only.",
+          "Under RM500 (9 boxes): 283.03: OP-15 Adventure on KAMI's Island; 304.78: PRB-02 The Best vol.2; 342.17: OP-18 The Dominance of God; 370.81: EB-04 Egghead Crisis; 400.26: OP-14 Azure Sea's Seven; 400.26: OP-10 Royal Blood; 400.26: OP-08 Two Legends; 427.72: OP-16 The Time of Battle; 494.03: OP-17 World's Strongest Warriors.",
+          "RM500 to RM1,000 (15 boxes): 528.70: OP-12 Legacy of the Master; 547.15: OP-07 500 Years in the Future; 549.92: OP-13 Carrying on His Will; 609.52: PRB-01 The Best; 631.56: EB-03 Heroines Edition; 631.56: EB-01 Memorial Collection; 675.63: OP-06 Wings of the Captain; 716.04: OP-09 Emperors in the New World; 716.04: OP-03 Pillars of Strength; 728.59: EB-02 Anime 25th Collection; 738.16: OP-11 A Fist of Divine Speed; 760.07: OP-04 Kingdoms of Intrigue; 760.16: OP-05 Awakening of the New Era; 840.85: OP-02 Paramount War; 971.33: OP-01 Romance Dawn.",
+          "[OP-15 Adventure on KAMI's Island](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) is the cheapest box per pack at RM 12.97 landed, or RM 2.16 a card. [OP-18 The Dominance of God](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/), on pre-order for its November 21, 2026 Japanese release, is second-cheapest at RM 15.68 a pack landed. [OP-01 Romance Dawn](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) is the dearest main-set box at RM 44.52 a pack landed, or RM 7.42 a card; PRB-01 divides dearer per pack on a listing basis, at RM 67.05, but it holds 10 cards a pack. [PRB-02 The Best vol.2](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) at RM 304.78 of goods is priced per box only, and [PRB-01 The Best](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) at RM 609.52 per pack on a listing basis, because Bandai prints no packs-per-box figure for the Premium Boosters. OP-14, OP-10 and OP-08 all sit at exactly RM 400.26 of goods and divide to RM 18.35 a pack landed.",
+          "The case column is nearly a wash. Across all twenty-four cases, 13 save money per box against the single and 11 cost more, because the 10% tax hits the single and the case equally and only the shelf discount decides it. The biggest saver is OP-02 at RM 183.59 a box; the dearest extra is OP-05 at RM 2.01 a box. The OP-02 case works out to RM 741.35 a box against a RM 924.94 single landed, saving RM 183.59 a box; the OP-03 case to RM 630.24 against a RM 787.64 single, saving RM 157.40; and the OP-18 case to RM 338.30 against a RM 376.39 single, saving RM 38.09. The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division.",
+          "Two boxes in one parcel combine for the RM500 test: OP-15 with PRB-02 is RM 587.81 of goods, over the line, landing at RM 646.59 as a floor; OP-15 with OP-18 is RM 625.20, landing at RM 687.72; two OP-15 boxes are RM 566.06, landing at RM 622.67. No two-box combination of the cheapest boxes stays under RM500, so the tax-optimal shape in Malaysia is one box at a time. OP-01 with OP-02 is RM 1,812.18 of goods, landing at RM 1,993.40 as a floor. The free-shipping trio, OP-01 with OP-02 and OP-15 at $514.35, is RM 2,095.20 of goods and lands at RM 2,304.72 as a floor."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Shopee vs Carousell",
+        "note": "From the Warehouse: the question we get most from Malaysia buyers is whether the RM500 line means a box under it arrives tax-free. It does not: since January 1, 2024, a box under RM500 pays the 10% low-value-goods sales tax at checkout when the seller is registered, and the only thing the line decides is who collects it and whether duty can still be added. The honest way to read this page is that every box costs goods times 1.10 as a floor, and the boxes over RM500 can cost more once duty is added.",
+        "paragraphs": [
+          "A Malaysia buyer has three real routes: Japan-direct, a sealed box shipped from Japan, priced in dollars, with the tax on this page; Shopee Malaysia and Lazada Malaysia, priced in ringgit by local sellers, with the import already done; and Carousell Malaysia with Facebook groups, the primary secondary market for singles, where sealed boxes change hands peer to peer. Shopee Live and TikTok Live rip-and-ship streams are a defining Malaysian buying behaviour: buyers purchase packs opened live on stream, a different product from a sealed box.",
+          "No Malaysian shop publishes a usable ringgit price for these boxes. HobbyDigi Malaysia lists its One Piece products at a MYR 9,999.90 placeholder, and no Shopee Malaysia or Carousell Malaysia sealed-box price surfaced in a verifiable listing on November 11, 2026, so this page does not invent one. The comparison that can be run honestly is against the shared market: CardZ last-sold figures from November 9, 2026 put OP-17 at $69.20 against our $121.28 and OP-15 at $52.48 against our $69.48, so we are $52.08 and $17.00 dearer on one completed sale each, not a market price. The OP Box Index eBay medians from November 11, 2026 put OP-07 at $80 against our $134.32, so we are $54.32 dearer, and OP-01 from $200 against our $238.45, $38.45 above the lowest eBay ask.",
+          "Against a Japanese store we are cheaper: Samurai Sword Tokyo listed OP-01 at JPY 38,901 on October 15, 2026, about $252.60, against our $238.45, and OP-05 at JPY 55,491, about $360.33, against our $186.61. The lowest SNKRDUNK ask for OP-01 was JPY 38,000, about $246.75."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Goods RM",
+            "Per pack",
+            "Landed cost",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "OP-15 Adventure on KAMI's Island",
+              "RM 283.03",
+              "RM 12.97",
+              "RM 311.33",
+              "Cheapest pack, open it"
+            ],
+            [
+              "OP-18 The Dominance of God (pre-order)",
+              "RM 342.17",
+              "RM 15.68",
+              "RM 376.39",
+              "Newest set, second-cheapest pack"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "RM 304.78",
+              "Per box only",
+              "RM 335.26",
+              "Cheapest premium entry"
+            ],
+            [
+              "OP-01 Romance Dawn",
+              "RM 971.33",
+              "RM 44.52",
+              "RM 1,068.46",
+              "Origin set, collector only"
+            ],
+            [
+              "OP-02 Paramount War",
+              "RM 840.85",
+              "RM 38.54",
+              "RM 924.94",
+              "Case is the real bargain"
+            ],
+            [
+              "OP-17 World's Strongest Warriors",
+              "RM 494.03",
+              "RM 22.64",
+              "RM 543.43",
+              "Anniversary set, check Carousell first"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What is missing from other Malaysia One Piece price pages",
+        "paragraphs": [
+          "The top results for this query do not price a Japanese One Piece box in ringgit at all: the first is a Malaysian hobby shop page carrying a MYR 9,999.90 placeholder, the second is a CardZ last-sold page for one set, the third is a wholesale aggregator quoting container prices. None runs the RM500 line, names the low-value-goods tax, or divides a case.",
+          "The second gap is the case division: no other page prices all twenty-four Japanese One Piece cases against their single boxes in ringgit, and the case is nearly a wash here, because the 10% tax hits both sides equally. The third gap is the two-box trap: no other page warns that any two boxes in one parcel cross RM500 together, so the tax-optimal shape in Malaysia is one box at a time; a buyer who bundles two cheap boxes to save on shipping pays the border regime on both."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Malaysia",
+        "paragraphs": [
+          "Pick the box from the board above, multiply the dollar price by 4.0735, then check it against RM500. If it is under, the 10% low-value-goods sales tax is charged at checkout when the seller is registered; if not, the tax can be charged on import instead. If the parcel is over, multiply by 1.10 for the landed floor before shipping, then add whatever import duty applies. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying.",
+          "Orders over $500 ship free: a single OP-01 at $238.45 does not clear the line, but OP-01 with OP-02 and OP-15 at $514.35 does, so the trio saves shipping, and because the RM500 threshold is drawn on the goods value alone, the shipping never changes which side of the line a parcel falls on. Store the box sealed and upright; our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers the humidity and stacking rules."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the case that barely moves",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route: a box opened and re-shrunk looks sealed until it is opened. The only defence is factory-sealed stock from a seller whose reputation is on the line, checked against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. Carousell Malaysia carries the widest local stock, so the reseal check matters most there: the OP-07 gap above, $54.32 dearer on our shelf than the eBay median, is the price of that provenance.",
+          "The second risk is the reprint: a restock or reprint announcement can cut a premium the same week, and OP-01 at $238.45 carries the largest premium on this shelf, so it carries the largest reprint risk. The third risk is format confusion: Japanese One Piece cards are not legal at most official Bandai tournaments outside Asia, so a player who buys them for an event abroad has bought the wrong product, however good the per-pack price looks.",
+          "The fourth risk is a case price that does not add up, and this page prints it rather than hiding it. In Malaysia the case is nearly a wash: the OP-05 case works out to RM 838.19 a box against a RM 836.18 single landed, the OP-07 case to RM 602.39 against a RM 601.87 single, and the OP-17 case to RM 544.42 against a RM 543.43 single, so all three sit within a few ringgit of the single either way. Only OP-02, OP-03 and OP-18 save real money per box. Divide before paying, on every set."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Malaysia retail",
+        "paragraphs": [
+          "A Japanese store price is the honest anchor. OP-17 lists at JPY 240 a pack, so a 24-pack box lists at JPY 5,760, about $37.40 at 154 yen to the dollar. Our OP-17 at $121.28 is 3.24 times that list. Samurai Sword Tokyo listed OP-01 at JPY 38,901 on October 15, 2026, about $252.60, with the lowest SNKRDUNK ask at JPY 38,000, about $246.75; our OP-01 at $238.45 sits $14.15 below the store price and $8.30 below the lowest ask. The OP Box Index range from November 11, 2026 runs $80 to $261; our shelf runs $69.48 to $238.45, so our dearest box sits $22.55 below the index top and our OP-07 sits $54.32 above the index bottom.",
+          "The English comparison is a different product: an English OP-18 presale box traded at $234 on November 10, 2026, 95% above its $119.76 MSRP, and the English OP-19 booster box is dated March 5, 2027, with ToyWiz pre-orders at $299.99. Bandai's English booster is $4.99 a pack. An English box costs more because it is the tournament-legal product outside Asia. The [Japanese One Piece booster box price index](/blog/best-japanese-one-piece-booster-box-price/) prices the same twenty-four boxes in dollars without the conversion."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card. If the card is a manga-rare Luffy or a single Leader, the single is cheaper. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card, and Bandai publishes no pull rates. It is not for a buyer who wants English card text or tournament legality outside Asia."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its goods value in ringgit, not its dollar price.",
+          "Check the goods value against RM500 before anything else: nine boxes sit under it, fifteen sit over it, every case sits over it.",
+          "Remember the 10% is charged on both sides of the line: at checkout under RM500 when the seller is registered, at the border over RM500 as a floor, with duty still to be added.",
+          "Remember the threshold is drawn on the goods value alone: shipping and insurance never change which side of the line a parcel falls on.",
+          "Remember any two boxes in one parcel cross RM500 together: OP-15 with PRB-02 is RM 587.81, over the line, so buy one box at a time to stay in the low-value-goods regime.",
+          "Divide every case before paying: only OP-02, OP-03 and OP-18 save real money per box, and most cases sit within a few ringgit of the single either way.",
+          "Remember a single OP-01 at $238.45 does not clear the $500 free-shipping line, but OP-01 with OP-02 and OP-15 at $514.35 does.",
+          "Confirm the shipping quote and the tax treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel.",
+          "Check whether the seller is registered for low-value-goods sales tax: if it is, the 10% is charged at checkout, not at the border."
+        ],
+        "h": "Action layer: the Malaysia buyer's checklist",
+        "paragraphs": [
+          "The [buying Japanese TCG cards in Malaysia guide](/blog/buying-japanese-tcg-cards-in-malaysia/) runs the same RM500 line across all four games. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Malaysia price guide](/blog/japanese-pokemon-booster-box-malaysia-price/) runs the same line across the ninety Pokemon boxes."
+        ]
+      }
+    ],
+    "slug": "japanese-one-piece-booster-box-malaysia",
+    "takeaway": [
+      "Every Japanese One Piece booster box shipped to Malaysia lands with the same 10% on top, because the RM500 line decides how the tax is collected, not whether it is charged: nine boxes sit under it and pay the 10% low-value-goods sales tax at checkout, fifteen sit over it and pay 10% sales tax at the border as a floor, with import duty still to be added. The cheapest pack on the shelf is OP-15 at RM 12.97 landed, and the dearest box is OP-01 Romance Dawn at RM 971.33 of goods.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at RM 4.0735 to the dollar, with tax calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the RM500 check on the goods value, not the parcel total, because shipping and insurance are excluded from the threshold, and any two boxes in one parcel cross RM500 together.",
+      "For the Malaysia hub this guide sits inside, the [buying Japanese TCG cards in Malaysia guide](/blog/buying-japanese-tcg-cards-in-malaysia/) runs the same RM500 line across all four games, with Pokemon, Dragon Ball and Lorcana in ringgit. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Malaysia price guide](/blog/japanese-pokemon-booster-box-malaysia-price/) runs the same line across the ninety Pokemon boxes."
+    ]
+  },
   "japanese-one-piece-booster-box-philippines-price": {
     "datePublished": "2026-11-11",
     "faqs": [
@@ -18382,7 +18796,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Every Japanese Pokemon booster box shipped to Malaysia pays 10% sales tax: at RM500 of goods or less the tax is the low-value goods tax collected at checkout or on import, and above RM500 the box pays import duty plus 10% sales tax at the border. 29 of the ninety boxes sit at RM500 or less and 61 sit above it, so most of the shelf lands on the sales-tax-inclusive floor with duty still to be added. The cheapest pack on the shelf is S2 Rebellion Crash at RM 6.42 landed, and the dearest box is SM7 Sky-Splitting Charisma at RM 17,568.29 landed before shipping, as a floor.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at RM 4.07 to the dollar, with the tax calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and remember the RM500 line is measured on the goods value alone, so shipping never pushes a parcel over it, but two boxes in one parcel combine, and two M3 boxes at RM 574.84 cross the line together.",
-      "The [buying Japanese TCG cards in Malaysia guide](/blog/buying-japanese-tcg-cards-in-malaysia/) runs the same RM500 rule across all four games. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by buyer."
+      "The [buying Japanese TCG cards in Malaysia guide](/blog/buying-japanese-tcg-cards-in-malaysia/) runs the same RM500 rule across all four games. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by buyer.",
+      "For the same ninety boxes priced for Spain, the [Japanese Pokemon sealed booster box price in Spain](/blog/caja-pokemon-japonesa-sellada-espana-precio/) runs the €150 line across the whole shelf in euros."
     ]
   },
   "japanese-pokemon-booster-box-netherlands-price": {
