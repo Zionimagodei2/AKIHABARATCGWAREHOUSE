@@ -191,6 +191,167 @@ export const POSTS: Record<string, BlogPost> = {
       "If the question is which sealed special set to hold rather than which card to chase, the [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional boxes, the anniversary ladder, and the themed sets from one shelf."
     ]
   },
+  "best-akihabara-card-shop": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Hareruya 2 at 1-2-5 Sotokanda, a six-floor building given over entirely to the Pokemon TCG, open 10:00 to 22:00, with vintage on one floor, current sets on another, an English-supported inventory system, and a free play space. Go on a weekday morning: it crowds badly at peak hours and on weekends.",
+        "q": "What is the best card shop in Akihabara for Pokemon cards?"
+      },
+      {
+        "a": "For sealed booster boxes, ordering online wins: the M3 box is $70.62, or $2.35 a pack, and the M1L box is $94.91, or $3.16 a pack, on our shelf as of November 11, 2026, and a Tokyo trip adds airfare to the same box. For singles, Akihabara wins, because you can hold the card, check the grade, and claim the 10% tax-free exemption with your passport. Order sealed, fly for singles.",
+        "q": "Is it cheaper to buy Pokemon cards in Akihabara or order them online from Japan?"
+      },
+      {
+        "a": "Major shops offer the 10% consumption tax exemption to visitors who show a physical passport, with a minimum purchase that is 5,000 yen before tax at the scheme's floor, though some shops set a higher minimum. On an 11,000 yen basket tax-included, the tax-free price is 10,000 yen, a saving of 1,000 yen, about $6.30. Bring the passport itself, not a photo, and check the shop's minimum before you queue.",
+        "q": "How does tax-free shopping work for card shops in Akihabara?"
+      }
+    ],
+    "h1": "Best Akihabara Card Shop: the Tokyo Trip vs Ordering from Japan",
+    "intro": [
+      "Short answer: the best Akihabara card shop depends on what you are buying. For Pokemon singles, Hareruya 2 at 1-2-5 Sotokanda is the six-floor specialist every Tokyo guide names first. For everything at once, Radio Kaikan, the building beside the Electric Town exit, holds several shops under one roof. And for sealed booster boxes, the trip rarely pays: the same Japanese boxes cost $70.62 to $238.45 on our shelf as of November 11, 2026, ordered from Japan, and the 10% tax-free saving on a tourist purchase is about $6 on a $70 basket, not the reason to fly.",
+      "Who this is for: collectors planning a Tokyo trip who want the real shop list before they land, and buyers weighing that trip against ordering sealed Japanese product online. Who it is not for: anyone who wants a single shop named best for every game, because no shop wins every category, and anyone who expects a Tokyo trip to make sealed boxes cheaper, because the numbers below say it does not.",
+      "Every sealed price below is a price on our own shelf, as of November 11, 2026, divided to the pack so you can check it. Shop facts come from the Tokyo guides that rank these streets, checked November 11, 2026: Hareruya 2, Radio Kaikan, Big Magic, Card Kingdom, Yellow Submarine, magi, Card Rush, and Surugaya."
+    ],
+    "metaDescription": "Akihabara's best card shops, priced against ordering sealed boxes from Japan: Hareruya 2, Radio Kaikan, tax-free rules, and the trip-vs-order math.",
+    "metaTitle": "Best Akihabara Card Shop: Tokyo vs Ordering Online",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer: three different bests",
+        "paragraphs": [
+          "The buyer comes first and the shop second, because Akihabara punishes the buyer who walks in without a job in mind. A Pokemon singles hunter goes to Hareruya 2, a six-floor building given over entirely to the Pokemon TCG, with vintage on one floor, current sets on another, and a free play space. A buyer who wants every game in one stop goes to Radio Kaikan first: the building beside the Electric Town exit holds Yellow Submarine, AmiAmi, and Big Magic, and Big Magic sits on the 9th floor as a registered Pokemon Card Gym. A sealed-box buyer stays home and orders: the [M3 Munikis Zero box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is $70.62 on our shelf, the [M1L Mega Brave box](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) is $94.91, and the [OP-01 Romance Dawn box](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) is $238.45, all as of November 11, 2026, and no shop in Akihabara sells a sealed box for less than its own sticker plus your airfare.",
+          "The distinction that matters is singles versus sealed. Akihabara's edge is singles: thousands of individual cards in glass cases and binders, priced on the spot, graded in person, with B-grade copies often a genuine bargain. Its sealed boxes are priced for tourists and collectors who want the box in hand today, and the sticker carries the rent of the most famous card streets on earth. Ordering sealed from Japan wins on sealed, every time, because the warehouse does not pay Akihabara rent. The trip wins on singles, because no website lets you hold the card, check the centering, and haggle over the grade.",
+          "If you go, go with a list. The shops reward the buyer who knows the card numbers and the set codes before arriving, and they punish the browser: six floors of Pokemon singles will eat a whole day and a whole budget if you let them. The checklist at the end of this guide is the list to carry."
+        ]
+      },
+      {
+        "h": "The money layer: what the trip costs vs what the boxes cost",
+        "math": [
+          "M3 Munikis Zero box: $70.62 ÷ 30 packs = $2.35 per pack; $70.62 ÷ 150 cards = $0.47 per card",
+          "M3 Munikis Zero case per box: $1,048.24 ÷ 12 boxes = $87.35 per box, $16.73 more than the $70.62 single",
+          "M1L Mega Brave box: $94.91 ÷ 30 packs = $3.16 per pack; $94.91 ÷ 150 cards = $0.63 per card",
+          "M2 Inferno X box: $183.18 ÷ 30 packs = $6.11 per pack; $183.18 ÷ 150 cards = $1.22 per card",
+          "SV11B Black Bolt box: $183.18 ÷ 30 packs = $6.11 per pack; $183.18 ÷ 150 cards = $1.22 per card",
+          "OP-01 Romance Dawn Japanese box: $238.45 ÷ 24 packs = $9.94 per pack; $238.45 ÷ 144 cards = $1.66 per card",
+          "Tax-free saving on an 11,000 yen basket: 11,000 ÷ 1.10 = 10,000 yen; 11,000 − 10,000 = 1,000 yen saved",
+          "M3 box against the M2 and SV11B boxes: $183.18 − $70.62 = $112.56 apart for the same 30 packs",
+          "OP-01 box against the cheapest Pokemon box here: $238.45 − $70.62 = $167.83 apart"
+        ],
+        "paragraphs": [
+          "Start with the only saving a tourist can count on: the 10% consumption tax exemption. Major shops offer tax-free shopping to visitors who show a physical passport, and the scheme's floor is 5,000 yen before tax, though some shops set a higher minimum, which is why one guide says 5,500 yen and another says 5,000. On a basket of 11,000 yen tax-included, the tax-free price is 10,000 yen, a saving of 1,000 yen, about $6.30 at 158 yen per dollar. That is the whole saving. It buys a coffee, not a plane ticket.",
+          "Now the sealed anchor, divided. Every box below is a Japanese booster box on our shelf as of November 11, 2026, and every per-pack figure is the box divided by its standard 30 packs of 5 cards for Pokemon, or 24 packs of 6 cards for One Piece. The point of the table is not that our prices are low. It is that a sealed box has a knowable per-pack cost, and any shop sticker can be divided the same way before you pay.",
+          "The trip pays when the thing you want cannot be ordered: a specific vintage single, a graded slab you need to inspect, a card whose condition decides its price. It does not pay on sealed boxes, because the sealed box is the same object in Tokyo and in the post, and the Tokyo one carries a plane ticket. If the budget is one box, spend it on the box. If the budget is a trip, spend the trip on singles."
+        ]
+      },
+      {
+        "h": "The practical layer: the walk, in order",
+        "paragraphs": [
+          "Step one is the exit. Akihabara Station's Electric Town exit puts you on the card streets, and Radio Kaikan stands beside it: walk in, work the floors, and use it as the orientation point for everything else. Big Magic is on the 9th floor, open 10:00 to 20:00 as of October 11, 2026, and it carries Magic, Pokemon, Yu-Gi-Oh, and more, with an English-language inventory search. Yellow Submarine and AmiAmi are in the same building, so one stop covers the multi-game sweep.",
+          "Step two is the Pokemon building. Hareruya 2 sits at 1-2-5 Sotokanda, a three-minute walk from the Electric Town exit, open 10:00 to 22:00, six floors of Pokemon TCG only, with an English-supported digital inventory system and a free play space. Go on a weekday morning if you can: the guides agree it crowds badly at peak hours and on weekends, and a crowded singles floor is where mistakes get made.",
+          "Step three is the high end and the bargains, in the same streets. CardShop magi Akihabara, at Sotokanda 3-14-9, specializes in authenticated high-end slabs and vintage, and carries Pokemon, Yu-Gi-Oh, One Piece, Duel Masters, and Magic. Card Kingdom Akihabara is the old name for deep singles and casual play events. Card Rush Akihabara, seconds from the station, runs a multi-game floor with a duel space. Surugaya's Akihabara main store turned its 1st floor into a trading-card floor centered on Pokemon on September 14, 2026, open 11:00 to 21:00 on weekdays and 10:00 to 21:00 on weekends and holidays, and it is the bargain-hunting stop. CARD WINGS, at Sotokanda 1-15-15, is a one-minute walk from the station for Pokemon and Magic.",
+          "Step four is the paperwork. Bring the physical passport: tax-free shopping needs it in hand, not a photo. Check the shop's minimum before you queue, since minimums differ. Pay attention to the graded-slab counters, where magi and Clove Base authenticate high-end pieces, and to the buyback counters, where shops will quote a price for your own cards. And keep every receipt: a resealed box bought in a hurry is the same loss in Tokyo as anywhere else, and our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the checks before you pay, not after."
+        ]
+      },
+      {
+        "h": "The decision layer: fly, order, or both, side by side",
+        "paragraphs": [
+          "The table below is the whole guide in one view. The rows are the three ways to buy Japanese cards from outside Japan, and the columns are the dimensions that actually decide it: what each route is best at, what it costs beyond the sticker, and where it fails. Read your row, then read the catch column twice.",
+          "The hybrid row is the one most buyers should take, and it is the one the guides never name: order the sealed boxes online before you fly, then spend the trip on singles only. The sealed boxes arrive at home for their divided per-pack cost, and the trip's hours go to the glass cases, where being there is the advantage. A buyer who does the reverse, flying to buy sealed boxes and ordering singles sight unseen, pays the premium on both."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Best for",
+            "Beyond the sticker",
+            "What you get",
+            "The catch"
+          ],
+          "rows": [
+            [
+              "Fly to Akihabara",
+              "Pokemon singles, vintage, graded slabs",
+              "Airfare, hotel, days of time",
+              "Hold the card, check the grade, tax-free 10%",
+              "Sealed boxes carry Akihabara rent; crowds cost mistakes"
+            ],
+            [
+              "Order online from Japan",
+              "Sealed boxes and cases, current sets",
+              "Shipping quoted at checkout",
+              "Divided per-pack cost; M3 at $2.35 a pack",
+              "No hands-on singles inspection before you pay"
+            ],
+            [
+              "Both: order sealed, fly for singles",
+              "A collection with sealed and singles",
+              "Both costs, each spent where it wins",
+              "Sealed at warehouse cost, singles inspected in person",
+              "Needs a list and discipline, or the trip eats the saving"
+            ],
+            [
+              "Proxy / buying service",
+              "Shops with no online checkout",
+              "Service fee plus domestic and international shipping",
+              "Access to shops you cannot reach",
+              "Two shipping legs and a fee on every order"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other guides miss: the online price anchor",
+        "note": "From the Warehouse: the question we get most in chat from buyers planning a Tokyo trip is whether they should wait and buy in Akihabara instead of ordering now. Our answer is the same every time: if it is a sealed box, order it now, because the box is the same object and the trip adds a plane ticket to its price. If it is a single card you need to hold before you pay for it, go, and go with the number written down. The trip is for the glass cases, not the shelves.",
+        "paragraphs": [
+          "Every Tokyo guide we read ranks the shops and stops. None of them prices the alternative, which is the question the reader actually has: is the trip worth it for what I want to buy? A ranking of shops cannot answer that, because the answer depends on the price of the thing being bought, and none of the rankings divides a sealed box to the pack. That is the gap this page owns: the live sealed prices above are the anchor, and the trip is measured against them.",
+          "The second gap is the sealed-case fact. Our shelf sells sealed cases, and a case divided is often the cheapest per-box route: the [M3 case](/product/m3-munikis-zero-nihil-zero-sealed-case-12-boxes-japanese-pokemon-card/) divides to $87.35 a box, which is more than the $70.62 single, the case paradox in plain sight: a sealed case is priced as its own product, not as twelve singles minus a discount, and the only safe habit is to divide every time. A tourist buying one box in Akihabara never sees that number, because shops sell the single box at the tourist sticker. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) runs the division for the whole shelf, and the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes the same way.",
+          "The third gap is honesty about what Akihabara is not. It is not a discount district. It is the most famous card streets on earth, and fame charges rent. The guides that call it the cheapest place to buy Pokemon cards are ranking singles hunting, where a B-grade copy in a binder can be a genuine bargain, not sealed boxes, where the sticker is the sticker. Buy the singles there. Buy the sealed boxes from Japan, online, divided before you believe."
+        ]
+      },
+      {
+        "h": "The risk layer: fakes, reseals, and the tourist traps",
+        "paragraphs": [
+          "The first risk is the reseal, and it follows tourists because tourists are in a hurry. A sealed box bought on a crowded floor, paid for fast, and opened in a hotel room is the worst place to discover a reseal. Check the wrap, the seams, and the box condition before you pay, and use the same checks in Tokyo as at home: our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) lists them in order, and none of them needs Japanese.",
+          "The second risk is the grade. Akihabara's singles counters grade conservatively, and B-grade cards are often a genuine bargain, but a grade is a shop's opinion, not a certificate. On a card that costs real money, the slab is the protection: PSA-graded copies at magi and Clove Base carry a grade you can verify, and a raw card at a high price deserves a closer look than a raw card at a low one. If you cannot tell why a card is priced where it is, ask, and if the answer is not convincing, walk.",
+          "The third risk is the budget. Six floors of Pokemon singles, a duel space, a tax-free counter, and a whole day will take whatever you brought if you let them. Set the number before the trip, write the card numbers down, and buy the list. The fourth risk is the language gap on the oldest cards: vintage Japanese cards are graded and priced by collectors who know the print runs, and a buyer who does not know the set codes can pay a reprint price for an original, or an original price for a reprint. Our [Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) and the [best Japanese Pokemon box ranking](/blog/best-japanese-pokemon-booster-box/) keep the set codes straight, and the [M1L Mega Brave buyers guide](/blog/m1l-mega-brave-buyers-guide/) shows how one set's numbering traps buyers."
+        ]
+      },
+      {
+        "h": "Context: Akihabara is not the whole map",
+        "paragraphs": [
+          "Akihabara is the biggest selection and the serious collectors' district, but the Tokyo guides name four other neighborhoods, and each wins a category. Ikebukuro holds Pokemon Center Mega Tokyo, the largest official Center, and Card Secret for graded cards, plus Big Magic's second large branch. Nakano Broadway holds Mandarake, the vintage and cheap-singles stop the guides name for finds Akihabara prices higher. Shibuya holds Pokemon Center Shibuya with its exclusive merch. A buyer with two days should spend one in Akihabara and one across Ikebukuro and Nakano, not two in Akihabara.",
+          "The other context is the online shop question, which is a different guide: the [best Japanese card shop online](/blog/best-japanese-card-shop-online/) ranks the online route, and the [buying from Japan shipping and customs guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping, customs, and proxy questions that follow any online order, including what the store ships from Japan and how the exact quote is confirmed at checkout. The country guides go further for buyers in specific places: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) and the [Australia hub](/blog/buying-japanese-tcg-cards-in-australia/) price the landed cost for their countries, and the [Singapore box price page](/blog/japanese-pokemon-booster-box-singapore-price/) divides the shelf for Singapore buyers."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one shop named best for every game, because no shop wins every category: Hareruya 2 wins Pokemon singles, Radio Kaikan wins the multi-game sweep, and the warehouse wins sealed boxes, and those are three different answers. It is not for the buyer who expects a Tokyo trip to make sealed boxes cheaper, because the divided prices above say the trip adds cost to sealed, and the saving is the 10% tax exemption, about $6 on a $70 basket. It is not for the buyer who needs English cards for tournament play, because Akihabara's shelves are Japanese, and the English boxes are a different purchase. And it is not for the buyer with no list: Akihabara without a list is a very expensive walk."
+        ]
+      },
+      {
+        "checklist": [
+          "Write the list before you fly: set codes, card numbers, and the maximum price for each, from the divided shelf prices above.",
+          "Order the sealed boxes online first, so the trip's hours go to singles, where being there is the advantage.",
+          "Land at the Electric Town exit, orient at Radio Kaikan, then walk to Hareruya 2 at 1-2-5 Sotokanda on a weekday morning.",
+          "Bring the physical passport for the 10% tax-free exemption, and check each shop's minimum before you queue.",
+          "Inspect every single before you pay, check every sealed box against the reseal guide, and keep every receipt.",
+          "Buy the list, set the budget before the trip, and walk away from anything not on it."
+        ],
+        "h": "Action layer: the Akihabara checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the trip stays a purchase instead of a souvenir run. Every step is checkable before you spend, and every price on this page is stamped November 11, 2026, so re-divide before you pay if the shelf has moved."
+        ]
+      }
+    ],
+    "slug": "best-akihabara-card-shop",
+    "takeaway": [
+      "The best Akihabara card shop is three answers, not one: Hareruya 2 at 1-2-5 Sotokanda for Pokemon singles, Radio Kaikan beside the Electric Town exit for the multi-game sweep, and ordering sealed boxes from Japan for sealed, where the M3 box is $70.62, or $2.35 a pack, and the OP-01 Japanese box is $238.45, or $9.94 a pack, as of November 11, 2026.",
+      "The trip pays on singles and graded slabs, where holding the card is the advantage, and it does not pay on sealed boxes, where the 10% tax-free saving is about $6 on a $70 basket against the cost of getting there. Order the sealed boxes, fly for the glass cases.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, and the shop facts as checked the same day. If a shop's hours or minimums have changed since, the walk still holds: Electric Town exit, Radio Kaikan, Hareruya 2, list in hand.",
+      "New this cycle: the [is OP-01 Romance Dawn worth buying guide](/blog/is-op-01-worth-buying/) prices the founding One Piece set the same way, Japanese box $238.45 against an English box that fell 20% in six days, with the Manga Shanks chase priced against the box."
+    ]
+  },
   "best-buy-dragon-ball-cards-japanese": {
     "datePublished": "2026-11-07",
     "faqs": [
@@ -4242,7 +4403,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The best Japanese card shop online is the one that survives the six checks: real stock, sealed authenticity, landed cost in writing, honest duty, a human who answers, and a returns policy that exists. Price is the last check, not the first, because the cheapest listing is the most expensive parcel once the stack is added.",
       "Prices change and customs rules move, so treat every number here as stamped: store prices and the duty position as of November 6, 2026. When the next set you care about opens for pre-order, run the checklist first and the checkout second.",
       "Starting your comparison with a real shelf helps: [our Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/) list every box from OP-01 to OP-18 with per-pack math, and [the best Japanese Pokémon booster box to buy](/blog/best-japanese-pokemon-booster-box-to-buy/) does the same for the MEGA era. If you are weighing sealed against singles, read [whether Japanese Pokémon cards are a good investment](/blog/are-japanese-pokemon-cards-a-good-investment/) before the hype sets your budget. Country buyers get the same treatment per market: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) run the landed cost in SGD and pesos. For the landed cost in a single country, see [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/). The [Thailand hub](/blog/buying-japanese-tcg-cards-in-thailand/) and the [Spain hub](/blog/comprar-cartas-tcg-japonesas-en-espana/) run the same numbers in baht and euros.",
-      "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf, Dragon Ball, One Piece, Lorcana, and Pokemon, on one ladder."
+      "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf, Dragon Ball, One Piece, Lorcana, and Pokemon, on one ladder.",
+      "New this cycle: the [best Akihabara card shop guide](/blog/best-akihabara-card-shop/) ranks the Tokyo trip against ordering sealed boxes from Japan, with Hareruya 2, Radio Kaikan, the tax-free rules, and the divided shelf prices."
     ]
   },
   "best-japanese-dragon-ball-fusion-world-booster-box-to-buy": {
@@ -5151,7 +5313,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases.",
       "New this cycle: the [Japanese One Piece cards price index](/blog/japanese-one-piece-cards-price/) prices every set in both languages in one table, with the JP-versus-EN gap and the case division for each.",
       "New this cycle: the [One Piece Japanese booster box price index](/blog/one-piece-japanese-booster-box-price/) divides all twenty-four Japanese boxes and their cases from the same live prices — OP-15 at $2.90 a pack against OP-01 at $9.94, with the eleven cases that cost more than singles.",
-      "New this cycle: the [Comprar cartas One Piece japonesas en España](/blog/comprar-cartas-one-piece-japonesas/) prices all twenty-four Japanese One Piece boxes in euros, with the €150 line and the 21% IVA landed cost on every box and case."
+      "New this cycle: the [Comprar cartas One Piece japonesas en España](/blog/comprar-cartas-one-piece-japonesas/) prices all twenty-four Japanese One Piece boxes in euros, with the €150 line and the 21% IVA landed cost on every box and case.",
+      "New this cycle: the [is OP-01 Romance Dawn worth buying guide](/blog/is-op-01-worth-buying/) prices the founding set the same way, Japanese box $238.45 against an English box that fell 20% in six days, with the Manga Shanks chase priced against the box."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -11512,7 +11675,8 @@ export const POSTS: Record<string, BlogPost> = {
       "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box. Choosing the shop itself is a separate decision: [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) runs the six checks — real stock, sealed authenticity, landed cost, and the duty position now that de minimis is dead. Country buyers can skip the general math: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) runs the S$400 GST line in SGD, and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) runs the ₱10,000 de minimis line in pesos.",
       "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes. The country hubs run the same numbers for a single destination: [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) works the €3 duty and 21% BTW, and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/) works the 7,5% duty and 11% VAT in rupiah. [Buying Japanese TCG cards in Thailand](/blog/buying-japanese-tcg-cards-in-thailand/) works the abolished ฿1,500 line and 7% VAT in baht, and [comprar cartas TCG japonesas en España](/blog/comprar-cartas-tcg-japonesas-en-espana/) works the €3 duty, €2 fee and 21% IVA in euros.",
       "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf on one ladder, and the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) divides all fourteen Lorcana cases.",
-      "New this cycle: the [Japanese TCG cards shipping to Spain](/blog/japanese-tcg-cards-shipping-to-spain/) works the full Japan-to-Spain shipping, customs and IVA walkthrough with landed costs in euros for all four games."
+      "New this cycle: the [Japanese TCG cards shipping to Spain](/blog/japanese-tcg-cards-shipping-to-spain/) works the full Japan-to-Spain shipping, customs and IVA walkthrough with landed costs in euros for all four games.",
+      "New this cycle: the [best Akihabara card shop guide](/blog/best-akihabara-card-shop/) weighs the Tokyo trip against ordering from Japan, so the shipping and customs choice here has its in-person alternative priced beside it."
     ]
   },
   "caja-pokemon-japonesa-sellada-espana-precio": {
@@ -16948,6 +17112,174 @@ export const POSTS: Record<string, BlogPost> = {
       "And keep the evidence habit even when a box looks perfect: photographs before opening, seller details written down, video for anything suspect. Five minutes of routine is what separates a buyer who catches reseals from a buyer who argues about them.",
       "Provenance is the strongest check in this guide, which is why the buying route matters: [buying TCG from Japan — shipping, customs, and proxies](/blog/buying-tcg-from-japan-shipping-customs-proxy/) compares the routes by fake and reseal risk, and our [guide to spotting fake Japanese Pokémon cards](/guides/how-to-spot-fake-japanese-pokemon-cards/) covers the cards themselves once a box is open. If a box passes inspection and the pulls are real, [our investment breakdown](/blog/are-japanese-pokemon-cards-a-good-investment/) helps you decide what to hold and what to move.",
       "One Piece buyers face the same problem one level down: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) runs the card-level checks with the same honesty about what inspection can and cannot prove."
+    ]
+  },
+  "is-op-01-worth-buying": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Yes, and it is exactly 20% on both English products. The English box was $555.45 on November 5, 2026, and is $444.36 on November 11, 2026, a fall of $111.09. The English case was $5,216.49 and is $4,173.19, a fall of $1,043.30. The Japanese box and case did not move: $238.45 and $2,801.47 on both dates.",
+        "q": "Is the OP-01 English box really 20% cheaper than a week ago?"
+      },
+      {
+        "a": "No. The Manga Shanks, OP01-120, sat near $4,000 on TCGplayer market as of October 30, 2026, which is 16.78 Japanese boxes, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Buy the single if that card is the job, or buy the box to open Romance Dawn and treat the chase as a bonus.",
+        "q": "Should I buy an OP-01 box to pull the Manga Shanks?"
+      },
+      {
+        "a": "No. Bandai's Block Number System took effect April 1, 2026, and Standard now allows only Block 2 and later. Romance Dawn is Block 1, so it plays in Extra Regulation, with only four of its card numbers still legal in Standard. Buy OP-01 as a sealed collectible or to open the founding set, not as a Standard deck.",
+        "q": "Is OP-01 still legal in Standard play?"
+      }
+    ],
+    "h1": "Is OP-01 Romance Dawn Worth Buying?",
+    "intro": [
+      "Short answer: yes, for the sealed collector who wants the founding set of the One Piece Card Game, and no, for anyone buying it to pull one named card or to play Standard. On our shelf as of November 11, 2026, the [OP-01 Japanese booster box](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) is $238.45, or $9.94 a pack, and the [English box](/product/op-01-romance-dawn-booster-box-1st-print-white-bottom-english-one-piece-card/) is $444.36, down exactly 20% from $555.45 on November 5. The set is 121 cards, released in Japan on July 22, 2022, and in English on December 2, 2022, and the chase has a price the box cannot match: the Manga Shanks sat near $4,000 on TCGplayer market as of October 30, 2026.",
+      "Who this is for: sealed collectors who want the first One Piece set, buyers choosing Japanese against English at the new prices, and case splitters who divide before they pay. Who it is not for: anyone chasing one named card, who should buy the single; anyone who needs Standard-legal cards, because OP-01 rotated out on April 1, 2026; and anyone who wants a cheap first box, because the cheapest Japanese One Piece box on our shelf is OP-15 at $69.48."
+    ],
+    "metaDescription": "OP-01 Romance Dawn at $238.45 Japanese, $444.36 English: the Manga Shanks chase priced against the box, the rotation fact, and the verdict by buyer.",
+    "metaTitle": "Is OP-01 Romance Dawn Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes, for the sealed collector, with the arithmetic attached",
+        "paragraphs": [
+          "The buyer comes first and the language second, because OP-01 punishes the buyer who gets the order backwards. A collector who wants to open the founding set buys the [OP-01 Japanese box](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) at $238.45: 24 packs of 6 cards, 144 cards, $9.94 per pack and $1.66 per card, the dearest Japanese One Piece box we stock. A buyer who wants the set in English buys the [English box](/product/op-01-romance-dawn-booster-box-1st-print-white-bottom-english-one-piece-card/) at $444.36: 24 packs of 12 cards, 288 cards, $18.52 per pack and $1.54 per card, and the English box is the story of this page, because it fell $111.09 in six days. A sealed holder or group buy buys a case: the [Japanese case](/product/op-01-romance-dawn-sealed-case-12-boxes-japanese-one-piece-card/) at $2,801.47, or $233.46 a box, and the [English case](/product/op-01-romance-dawn-sealed-case-12-boxes-english-one-piece-car/) at $4,173.19, or $347.77 a box, a saving of $1,159.13 against twelve English singles.",
+          "The case is the second story, because the two languages behave oppositely. The Japanese case saves $4.99 per box, $59.93 across the case, which is barely a discount and the honest reason to buy it is the sealed run, not the saving. The English case saves $96.59 per box, $1,159.13 across the case, which is a real bulk discount, and it is the way to buy English boxes if English is the job. The [OP-01 Romance Dawn buyers guide](/blog/op-01-romance-dawn-buyers-guide/) priced the same four products on November 5; this verdict updates the prices, prices the chase, and gives the verdict, because the English shelf moved 20% in six days and the guide did not.",
+          "The chase is the third story, and it is a warning for the opener. The Manga Shanks, OP01-120, the first Manga Rare in the game, sat near $4,000 on TCGplayer market as of October 30, 2026. The Luffy Leader Parallel, OP01-003, sat near $1,010, and the Zoro Leader Parallel, OP01-001, near $640, on the same date. Those three cards sum to $5,650, which is 23.69 Japanese boxes, and no box guarantees any of them, because Bandai has never published pull rates for any One Piece set. The verdict follows the arithmetic: buy the box for the set, buy the single for the card."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and the 20% drop",
+        "math": [
+          "OP-01 Japanese box per pack: $238.45 ÷ 24 packs = $9.94 per pack",
+          "OP-01 Japanese box per card: $238.45 ÷ 144 cards = $1.66 per card",
+          "OP-01 Japanese case per box: $2,801.47 ÷ 12 boxes = $233.46 per box",
+          "OP-01 Japanese case saving per box: $238.45 − $233.46 = $4.99 per box",
+          "OP-01 Japanese case saving per case: ($238.45 × 12) − $2,801.47 = $59.93 per case",
+          "OP-01 Japanese case per pack: $2,801.47 ÷ 288 packs = $9.73 per pack",
+          "OP-01 English box per pack: $444.36 ÷ 24 packs = $18.52 per pack",
+          "OP-01 English box per card: $444.36 ÷ 288 cards = $1.54 per card",
+          "OP-01 English box price drop: $555.45 − $444.36 = $111.09; $111.09 ÷ $555.45 = 20.00%",
+          "OP-01 English case per box: $4,173.19 ÷ 12 boxes = $347.77 per box",
+          "OP-01 English case saving per box: $444.36 − $347.77 = $96.59 per box",
+          "OP-01 English case saving per case: ($444.36 × 12) − $4,173.19 = $1,159.13 per case",
+          "OP-01 English case price drop: $5,216.49 − $4,173.19 = $1,043.30; $1,043.30 ÷ $5,216.49 = 20.00%",
+          "OP-01 English vs Japanese gap per box: $444.36 − $238.45 = $205.91 per box",
+          "OP-01 English box vs MSRP: 24 packs × $4.19 = $100.56; $444.36 ÷ $100.56 = 4.42× MSRP",
+          "Manga Shanks against the Japanese box: $4,000 ÷ $238.45 = 16.78 boxes",
+          "Top three chases against the Japanese box: ($4,000 + $1,010 + $640) ÷ $238.45 = 23.69 boxes",
+          "OP-15 Japanese box against OP-01: $238.45 − $69.48 = $168.97 apart for the same 24 packs"
+        ],
+        "paragraphs": [
+          "The ladder has two tiers and one gap. The Japanese tier is the opener's tier: $238.45 a box, $9.94 a pack, the dearest Japanese One Piece box on the shelf, and the case barely discounts it, at $233.46 a box. The English tier is the collector's tier: $444.36 a box, $18.52 a pack, and the case is where the English discount lives, at $347.77 a box. The gap between the languages narrowed with the drop: $205.91 per box now, against $317.00 on November 5, and the English box is now 4.42 times its $100.56 MSRP, against 5.52 times six days ago.",
+          "The drop itself is the fact to sit with. Both English products fell exactly 20% between November 5 and November 11, 2026, while both Japanese products did not move at all. A 20% move in six days is not noise; it is a repricing, and a repricing cuts both ways. It makes the English box the best value it has been on our shelf in the period we have tracked it, and it is also a reminder that sealed prices move, and that a box bought as an investment can fall as fast as it rose. The prices on this page are stamped November 11, 2026, and the next cycle will re-divide them.",
+          "The cheapest comparison on the shelf is the one that kills the opener's case for OP-01 as a first box. OP-15, the newest Japanese One Piece box, is $69.48, or $2.90 a pack, which is $168.97 less than OP-01 for the same 24 packs. OP-01's premium buys origin-set scarcity and the chase, and nothing else. If the job is opening a One Piece box for the least money, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all twenty-four boxes, and OP-01 sits at the dear end of it."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view. The rows are the five ways to spend on OP-01, and the columns are the dimensions that decide it: what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The English case row deserves a second look, because it is the only row where the bulk format pays properly. Twelve English singles cost $5,332.32; the case costs $4,173.19, and the $1,159.13 saved is the largest case saving on the One Piece shelf in absolute dollars. The Japanese case row deserves the opposite look: a $59.93 saving across twelve boxes is the price of a few packs, and anyone buying it for the discount is buying the wrong reason. Buy the Japanese case for the sealed run, or buy twelve singles and keep the flexibility."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$238.45",
+              "$9.94",
+              "Opening Romance Dawn in Japanese",
+              "Dearest Japanese OP box; chase not guaranteed"
+            ],
+            [
+              "Japanese case (12)",
+              "$2,801.47",
+              "$9.73",
+              "Sealed run; group split",
+              "Saves only $4.99 a box; barely a discount"
+            ],
+            [
+              "English box (1st print)",
+              "$444.36",
+              "$18.52",
+              "English origin set, below its old price",
+              "4.42× MSRP; rotated out of Standard"
+            ],
+            [
+              "English case (12)",
+              "$4,173.19",
+              "$14.49",
+              "English boxes in bulk",
+              "$4,173.19 committed at once; price can fall again"
+            ],
+            [
+              "The single",
+              "~$4,000 Shanks",
+              "—",
+              "Owning the Manga Shanks",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the rotation fact and the missing pull rate",
+        "note": "From the Warehouse: the question we get most in chat about OP-01 is whether the box is still worth it now that the set is old. Our answer starts with the rotation, because it is the fact most guides bury: Romance Dawn left Standard on April 1, 2026, and only four of its card numbers are still Standard-legal. The box is worth buying as the founding set, sealed or opened, and it is not worth buying as a deck. Say that first, and the rest of the numbers fall into place.",
+        "paragraphs": [
+          "The top guides for this query rank the chase cards and the sealed prices, and they are good at both. The Tome Collective set overview prices the Manga Shanks near $4,000, the Luffy Leader Parallel near $1,010, and the Zoro Leader Parallel near $640, all TCGplayer market as of October 30, 2026, and it states the rotation plainly. The Chase Society set guide covers the numbering, the parallels, and the two print waves, and why they trade so far apart. What neither of them does is give a dated verdict that prices the chase against the box with the rotation fact attached, and neither of them can, because the missing number is structural: Bandai has never published pull rates for any One Piece set, so every expected-value claim about pulling the Manga Shanks is an estimate built on community openings, not a fact.",
+          "That missing pull rate is the gap this page owns, and it owns it by refusing to fill it. Without a pull rate, there is no honest answer to how many boxes the average buyer opens before the Shanks appears, and any article that gives one is inventing it. The honest numbers are the ones above: the card is 16.78 Japanese boxes, the top three chases are 23.69 boxes, and the box is $238.45. A buyer who wants the Shanks buys the single, and a buyer who wants Romance Dawn buys the box, and the two buyers should not be confused with each other.",
+          "The second gap is the price drop, which no guide has yet because it happened six days ago. The English box fell 20% and the English case fell 20% between November 5 and November 11, 2026, and the Japanese products did not move. A verdict written from November 5 prices would overstate the English box by $111.09 and the case by $1,043.30, which is why this page re-divides the shelf on its own date and stamps it."
+        ]
+      },
+      {
+        "h": "The risk layer: reprints, the white-bottom check, and the $4,000 chase",
+        "paragraphs": [
+          "The first risk is the reprint. Romance Dawn is the founding set of a game that keeps growing, and the publisher has reprinted popular product before. A reprint does not make a sealed box worthless, but it makes a sealed box bought at a scarcity premium worth less, and OP-01's premium is scarcity. The Japanese box at $238.45 and the English box at $444.36 both carry that premium, and the 20% English drop is the live reminder that the premium moves. Sealed holders should hold the set because it is the founding set, not because the price only rises.",
+          "The second risk is the print wave, and it is specific to the English box. Our listing is titled 1st Print White Bottom, and the guides agree the two print waves trade far apart, with the blue wave-one box far above the white-wave box. Check the wave before you pay, on our listing and on any other, because the wave is the price: the November 5 guide recorded $4,299 for the blue wave-one box against $1,332 for the white-wave box, and the wave is the first thing to verify. A buyer who pays a wave-one price for a white-bottom box has lost the difference before the box is opened.",
+          "The third risk is the chase itself. The Manga Shanks near $4,000 is a raw near-mint market figure, not a sale you have made, and the card's price depends on condition, grading, and a buyer. A raw copy bought sight unseen carries condition risk, and a graded copy carries a premium on top of the $4,000. The fourth risk is the rotation, restated plainly: only four OP-01 card numbers are still Standard-legal, so a playset bought for Standard is a playset for Extra Regulation. The fifth risk is the reseal, and it is the same check as everywhere: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand."
+        ]
+      },
+      {
+        "h": "Context: 121 cards, two languages, and the first Manga Rare",
+        "paragraphs": [
+          "Romance Dawn is the set where the One Piece Card Game begins: the first leaders, Luffy, Zoro, Law, Crocodile, Doflamingo, and Kaido, who became the archetypes the next two years of sets kept feeding, and the first Manga Rare, the Shanks, the first card to put Oda's comic panels on a card. The base set runs OP01-001 to OP01-121, through Leader, Common, Uncommon, Rare, Super Rare, and Secret Rare, and the alternate-art parallels carry the same numbers as their base cards, so the number alone never tells you what a card is worth. A plain OP01-003 and its alternate-art parallel share a number and sit at opposite ends of the price sheet.",
+          "The language gap is the context that decides the purchase. The Japanese box holds 24 packs of 6 cards, 144 cards, at $9.94 a pack. The English box holds 24 packs of 12 cards, 288 cards, at $18.52 a pack and $1.54 a card, cheaper per card than the Japanese box's $1.66, because the English packs carry twice the cards. The [EB-01 Japanese vs English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) runs the same language comparison for the Extra Booster line, and the [best Japanese One Piece booster box price page](/blog/best-japanese-one-piece-booster-box-price/) divides all twenty-four Japanese One Piece boxes the same way. The verdict articles for the newer sets use the same method: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom chase against its box, and the [is Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the Charizard SAR the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the Manga Shanks is 16.78 Japanese boxes, and no pull rate exists to price the chase any other way. It is not for anyone who needs Standard-legal cards, because OP-01 rotated out on April 1, 2026, and only four of its numbers are still Standard-legal. It is not for anyone who wants a cheap first One Piece box, because OP-15 is $69.48 and OP-01 is $238.45 for the same 24 packs. It is not for anyone buying English without checking the print wave, because the white-bottom and blue wave-one boxes trade far apart. And it is not for anyone who treats a sealed box as a guaranteed investment, because the English box fell 20% in six days, and sealed prices move."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open the founding set, hold it sealed, own it in English, or own the Shanks single.",
+          "If the job is the single, buy the single: the Manga Shanks near $4,000, the Luffy Leader Parallel near $1,010, the Zoro near $640, all TCGplayer market October 30, 2026.",
+          "If the job is the Japanese box, pay $238.45, or $9.94 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $444.36 for the box, or $347.77 a box in the case, and check the listing says 1st Print White Bottom.",
+          "If the job is a case, divide it first: Japanese saves $4.99 a box, English saves $96.59 a box.",
+          "Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the English shelf moved 20% in six days."
+        ],
+        "h": "Action layer: the OP-01 buying checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 11, 2026, and the English prices moved 20% in the six days before it, so re-divide before you pay if the shelf has moved again."
+        ]
+      }
+    ],
+    "slug": "is-op-01-worth-buying",
+    "takeaway": [
+      "The OP-01 Japanese box at $238.45 is the dearest Japanese One Piece box on our shelf at $9.94 a pack, and the case at $2,801.47 is the way to buy it sealed, at $233.46 a box and $9.73 a pack, saving $59.93 against twelve singles. The English box at $444.36 fell exactly 20% in six days, and the English case at $4,173.19 saves $1,159.13 against twelve singles, the largest case saving on the One Piece shelf in absolute dollars.",
+      "It is worth buying as the founding set, sealed or opened, and it is not worth buying as a way to own one named card. The Manga Shanks sat near $4,000 on TCGplayer market as of October 30, 2026, which is 16.78 Japanese boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "It is not worth buying for Standard play: Romance Dawn rotated out on April 1, 2026, and only four of its card numbers are still Standard-legal. It plays in Extra Regulation now, and the box is a collector's purchase.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, and the marketplace references as of October 30 to November 11, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
+      "New this cycle: the [best Akihabara card shop guide](/blog/best-akihabara-card-shop/) ranks the Tokyo trip against ordering sealed boxes from Japan, with the same divided shelf prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
     ]
   },
   "is-sv11b-worth-buying": {
@@ -23921,7 +24253,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 5, 2026, the Warehouse OP-01 Japanese box costs $238.45, which is $9.94 a pack and $1.66 a card, and it costs less than a typical opened box at $311.22. Buy it to open Romance Dawn, buy the English box at $555.45 for English cards far below market, buy the English case at $434.71 a box for English boxes in bulk, and buy the single for the Shanks Manga card or any named card.",
       "Prices move; the method does not. Choose the language first, check the wave second on any English Romance Dawn listing, divide the case third, and never assume a case discounts: on this set the Japanese case saves $4.99 a box and the English case pays a saving of $1,448.91 — and the English single box sits $776.55 below the dated white-wave market figure.",
-      "For the successor set, see [OP-02 Paramount War Buyer's Guide](/blog/op-02-paramount-war-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/)."
+      "For the successor set, see [OP-02 Paramount War Buyer's Guide](/blog/op-02-paramount-war-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
+      "New this cycle: the [is OP-01 Romance Dawn worth buying guide](/blog/is-op-01-worth-buying/) gives the dated verdict on this set, with the English box down 20% since this guide, the Manga Shanks priced against the box, and the rotation fact."
     ]
   },
   "op-02-paramount-war-buyers-guide": {
