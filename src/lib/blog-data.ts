@@ -5815,7 +5815,7 @@ export const POSTS: Record<string, BlogPost> = {
           "SV10 case: $1,821.40 ÷ 12 boxes = $151.78 per box (single $212.99, saves $61.21 per box)"
         ],
         "paragraphs": [
-          "Read the verified ranking twice, because it contradicts the obvious one. The cheapest box is M3 at $70.62, but the cheapest verified pack is M2 at $6.11 and the cheapest verified card is M2a at $1.15. A buyer who sorts by box price alone buys M3; a buyer who sorts by what each pack or card costs buys M2 or M2a. All three answers are correct, and they answer different questions. Australian buyers can price the same picks in AUD, with the A$1,000 border line applied, in our [Japanese Pokemon booster box prices in Australia](/blog/japanese-pokemon-booster-box-australia-price/) guide.",
+          "Read the verified ranking twice, because it contradicts the obvious one. The cheapest box is M3 at $70.62, but the cheapest verified pack is M2 at $6.11 and the cheapest verified card is M2a at $1.15. A buyer who sorts by box price alone buys M3; a buyer who sorts by what each pack or card costs buys M2 or M2a. All three answers are correct, and they answer different questions. Australian buyers can price the same picks in AUD, with the A$1,000 border line applied, in our [Japanese Pokemon booster box prices in Australia](/blog/japanese-pokemon-booster-box-australia-price/) guide. Indonesian buyers can price the same picks in rupiah at landed cost, with the 7.5% duty plus 11% VAT factor applied, in our [Japanese Pokemon booster box prices in Indonesia](/blog/japanese-pokemon-booster-box-indonesia-price/) guide.",
           "The case column changes more decisions than the box column. SV11B is the extreme: the case at $82.64 a box undercuts the $183.18 single by $100.54 a box, which is $1,206.48 across twelve boxes at the rounded per-box rate. SV11W is nearly as stark at $93.38 saved per box. But the case is not a universal discount, and M3 is the proof: its case costs $87.35 a box against a $70.62 single, so a buyer who wants twelve M3 boxes should buy twelve singles and pocket the $200.76 difference. The full case shelf, sixteen cases divided, is the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/).",
           "For the boxes whose structure is not verified here, M1L, M1S, M3, M4, M5, and M6 among them, the honest statement is the price and the case division, nothing more. Their pack counts are not printed on the store listing, and a per-pack figure built on an assumed count would be fabrication dressed as arithmetic. When a future listing prints those counts, this guide's math extends to them; until then, the dashes are the method."
         ]
@@ -10539,7 +10539,7 @@ export const POSTS: Record<string, BlogPost> = {
           "M2a pack in pesos: $11.48 x 63 = ₱723.24 per pack"
         ],
         "paragraphs": [
-          "The table below is the Philippines price board: every current box a Philippines buyer is likely to order, converted at ₱63.00 to the dollar, with the small charges added where they apply and the duty-plus-VAT range shown where the box crosses the line. The duty range is honest about what is unknown: the exact HS rate for trading cards is set by Customs on the shipment, and most consumer goods fall between 3 and 15 percent, so the table shows both ends instead of pretending to know one number.",
+          "The table below is the Philippines price board: every current box a Philippines buyer is likely to order, converted at ₱63.00 to the dollar, with the small charges added where they apply and the duty-plus-VAT range shown where the box crosses the line. The duty range is honest about what is unknown: the exact HS rate for trading cards is set by Customs on the shipment, and most consumer goods fall between 3 and 15 percent, so the table shows both ends instead of pretending to know one number. For the same ninety boxes priced box by box in pesos at the current rate, the [Japanese Pokemon booster box Philippines price guide](/blog/japanese-pokemon-booster-box-philippines-price/) runs every box through the ₱10,000 line.",
           "Two patterns deserve attention. First, the M6a box is the trap for buyers who assume every box clears free. At ₱15,687 it is the only current single box over the line, and it lands between ₱18,097 and ₱20,205 depending on the duty rate, which is ₱2,410 to ₱4,518 above its converted shelf price. Second, the case is barely a saving even in the best case. The OP-18 case divides to ₱5,487.10 a box at 3% duty, saving ₱59.90 a box against a single box landed at ₱5,547, and at 15% duty it divides to ₱6,126.37 a box, costing ₱579.37 more per box than buying singles. A case only wins if the duty lands at the low end, and the buyer cannot know the rate before the parcel is assessed. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case on the shelf.",
           "Third, the M3 case breaks the pattern the same way it does everywhere: at $1,048.24 for twelve boxes it costs $87.35 a box, against $70.62 for a single M3 box, so the case buyer pays ₱1,053.99 more per box for the privilege of buying twelve. Divide the case before buying it, every time, because the word case does not mean discount. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the same shelf box by box."
         ],
@@ -17341,6 +17341,409 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Australia hub this guide sits inside, the [buying Japanese TCG cards in Australia guide](/blog/buying-japanese-tcg-cards-in-australia/) runs the same A$1,000 line across all four games, with One Piece, Dragon Ball and Lorcana in Australian dollars. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does."
     ]
   },
+  "japanese-pokemon-booster-box-indonesia-price": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Every box pays: 7.5% duty plus 11% VAT, a combined factor of 1.19325 on the goods value, for any box in the US$3 to US$1,500 consignment band, which is eighty-nine of the ninety boxes on this shelf. VAT applies from the first dollar, so even the cheapest box, Rebellion Crash at $43.03, lands at Rp927,300.59 before shipping. SM7 at $3,924.12 sits above US$1,500 and pays the normal MFN duty rate instead of the 7.5% flat rate.",
+        "q": "How much tax will I pay on a Japanese Pokemon booster box shipped to Indonesia?"
+      },
+      {
+        "a": "It depends on the set. The SV2a case lands at Rp82,091,207.89, or Rp6,840,933.99 a box, against a single 151 landed at Rp10,154,404.76, so the case saves Rp3,313,470.77 a box. The M3 case runs the other way: it lands at Rp22,589,671.58, or Rp1,882,472.63 a box, against a single M3 landed at Rp1,521,867.71, so the case costs Rp360,604.92 more a box. Divide the case for the set you want; the format alone does not save money.",
+        "q": "Is a sealed case cheaper than buying twelve boxes in Indonesia?"
+      },
+      {
+        "a": "Mixed, and this page names both directions. Our M1S landed at Rp1,831,111.57 is Rp71,888.43 to Rp118,888.43 cheaper than the Tokopedia ask of Rp1,903,000 to Rp1,950,000. Our M1L landed at Rp2,045,319.52 is Rp95,319.52 to Rp142,319.52 dearer than the same ask. Tokopedia asks are domestic delivered prices, while ours is the landed cost before shipping, so add the shipping quote before deciding.",
+        "q": "Is the Warehouse cheaper than Tokopedia?"
+      }
+    ],
+    "h1": "Japanese Pokemon Booster Box Prices in Indonesia: Every Box Landed, in Rupiah",
+    "intro": [
+      "Every Japanese Pokemon booster box shipped to Indonesia pays tax at the border: the duty-free line is US$3 of FOB value, and no box on this shelf sits under it. A box in the US$3 to US$1,500 consignment band pays a flat 7.5% duty plus 11% VAT, a combined factor of 1.19325 on the goods value, and VAT applies from the first dollar. This guide prices all 90 boxes in Indonesian rupiah at their landed cost, and compares Japan-direct against Tokopedia and Jikawo. Prices as of November 11, 2026, at Rp18,060 to the dollar, the mid-market rate on November 10, 2026. A buyer searching kartu pokemon jepang booster box harga will find the same ninety boxes here, divided per box, per pack and per card.",
+      "The cheapest box per pack is M3 Munikis Zero at Rp50,728.92 a pack landed, and the dearest is Pokemon Card 151 at Rp507,720.24 a pack landed."
+    ],
+    "metaDescription": "Every Japanese Pokemon booster box price in Indonesian rupiah as of November 11, 2026: the US$3 line, 7.5% duty plus 11% VAT, and Tokopedia math.",
+    "metaTitle": "Japanese Pokemon Booster Box Prices in Indonesia",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: US$3 is the line, and VAT starts at the first dollar",
+        "paragraphs": [
+          "The duty-free line in Indonesia is FOB US$3 per recipient per shipment, and it has been US$3 since 2020, not a 2025 cut from US$75. The 2025 change, PMK 4/2025 effective March 5, 2025, rebuilt the tariff structure around that line: a consignment between US$3 and US$1,500 pays a flat 7.5% duty for general goods, because trading cards are not in the 0%, 15% or 25% groups, plus VAT at an effective 11%, the statutory 12% on 11/12 of import value under PMK 131/2024. PPh is exempt in this band. Above US$1,500, the normal MFN rates by HS apply instead.",
+          "The combined factor is 1.075 times 1.11, or 1.19325, and it applies to every box on this shelf, because the cheapest box, Rebellion Crash at $43.03, is already fourteen times the line. Every landed figure here is the goods value times 1.19325, on goods value only: shipping and insurance are excluded, and the real landed cost is higher once shipping is added. VAT applies from the first dollar, so there is no tax-free box on this shelf.",
+          "Eighty-nine of the ninety boxes sit in the US$3 to US$1,500 band. The exception is SM7 Sky-Splitting Charisma at $3,924.12, above the US$1,500 ceiling, so its duty is the normal MFN rate for HS 9504.40, not the 7.5% flat rate. Its line below is the flat-rate equivalent, Rp84,565,158.79: confirm the MFN rate before paying. The whole-ladder landed total of Rp898,650,167.55 is computed at the flat factor for all ninety, so the true total is higher by the MFN minus 7.5% difference on SM7 alone."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in Indonesian rupiah, landed",
+        "math": [
+          "M3 box: $70.62 x Rp18,060 = Rp1,275,397.20 goods; Rp1,275,397.20 x 1.19325 = Rp1,521,867.71 landed; Rp1,521,867.71 / 30 packs = Rp50,728.92 per pack; Rp50,728.92 / 5 cards = Rp10,145.78 per card",
+          "Rebellion Crash box: $43.03 x Rp18,060 = Rp777,121.80 goods; Rp777,121.80 x 1.19325 = Rp927,300.59 landed; Rp927,300.59 / 30 = Rp30,910.02 per pack; Rp30,910.02 / 5 = Rp6,182.00 per card",
+          "M6a box: $249.00 x Rp18,060 = Rp4,496,940.00 goods; Rp4,496,940.00 x 1.19325 = Rp5,365,973.66 landed; Rp5,365,973.66 / 20 = Rp268,298.68 per pack; Rp5,365,973.66 / 120 = Rp44,716.45 per card",
+          "151 box: $471.20 x Rp18,060 = Rp8,509,872.00 goods; Rp8,509,872.00 x 1.19325 = Rp10,154,404.76 landed; Rp10,154,404.76 / 20 = Rp507,720.24 per pack; Rp10,154,404.76 / 140 = Rp72,531.46 per card",
+          "M2a box: $114.77 x Rp18,060 = Rp2,072,746.20 goods; Rp2,072,746.20 x 1.19325 = Rp2,473,304.40 landed; Rp2,473,304.40 / 10 = Rp247,330.44 per pack; Rp247,330.44 / 10 = Rp24,733.04 per card",
+          "M2 box: $183.18 x Rp18,060 = Rp3,308,230.80 goods; Rp3,308,230.80 x 1.19325 = Rp3,947,546.40 landed; Rp3,947,546.40 / 20 = Rp197,377.32 per pack; Rp197,377.32 / 5 = Rp39,475.46 per card",
+          "M1L box: $94.91 x Rp18,060 = Rp1,714,074.60 goods; Rp1,714,074.60 x 1.19325 = Rp2,045,319.52 landed; Rp2,045,319.52 / 30 = Rp68,177.32 per pack; Rp68,177.32 / 5 = Rp13,635.46 per card",
+          "M1S box: $84.97 x Rp18,060 = Rp1,534,558.20 goods; Rp1,534,558.20 x 1.19325 = Rp1,831,111.57 landed; Rp1,831,111.57 / 30 = Rp61,037.05 per pack; Rp61,037.05 / 5 = Rp12,207.41 per card",
+          "SV11B box: $183.18 x Rp18,060 = Rp3,308,230.80 goods; Rp3,308,230.80 x 1.19325 = Rp3,947,546.40 landed; Rp3,947,546.40 / 20 = Rp197,377.32 per pack; Rp197,377.32 / 7 = Rp28,196.76 per card",
+          "SV11W box: $167.72 x Rp18,060 = Rp3,029,023.20 goods; Rp3,029,023.20 x 1.19325 = Rp3,614,381.93 landed; Rp3,614,381.93 / 20 = Rp180,719.10 per pack; Rp180,719.10 / 7 = Rp25,817.01 per card",
+          "SV9a box: $163.32 x Rp18,060 = Rp2,949,559.20 goods; Rp2,949,559.20 x 1.19325 = Rp3,519,561.52 landed; Rp3,519,561.52 / 30 = Rp117,318.72 per pack; Rp117,318.72 / 5 = Rp23,463.74 per card",
+          "SV10 box: $212.99 x Rp18,060 = Rp3,846,599.40 goods; Rp3,846,599.40 x 1.19325 = Rp4,589,954.73 landed; Rp4,589,954.73 / 30 = Rp152,998.49 per pack; Rp152,998.49 / 5 = Rp30,599.70 per card",
+          "SV8a box: $163.32 x Rp18,060 = Rp2,949,559.20 goods; Rp2,949,559.20 x 1.19325 = Rp3,519,561.52 landed; Rp3,519,561.52 / 10 = Rp351,956.15 per pack; Rp351,956.15 / 10 = Rp35,195.62 per card",
+          "SV4a box: $141.24 x Rp18,060 = Rp2,550,794.40 goods; Rp2,550,794.40 x 1.19325 = Rp3,043,735.42 landed; Rp3,043,735.42 / 10 = Rp304,373.54 per pack; Rp304,373.54 / 10 = Rp30,437.35 per card",
+          "SV8 box: $258.23 x Rp18,060 = Rp4,663,633.80 goods; Rp4,663,633.80 x 1.19325 = Rp5,564,881.03 landed; Rp5,564,881.03 / 30 = Rp185,496.03 per pack; Rp185,496.03 / 5 = Rp37,099.21 per card",
+          "M6 box: $82.80 x Rp18,060 = Rp1,495,368.00 goods; Rp1,495,368.00 x 1.19325 = Rp1,784,347.87 landed; Rp1,784,347.87 / 30 = Rp59,478.26 per pack; Rp59,478.26 / 5 = Rp11,895.65 per card",
+          "M5 box: $91.61 x Rp18,060 = Rp1,654,476.60 goods; Rp1,654,476.60 x 1.19325 = Rp1,974,204.20 landed; Rp1,974,204.20 / 30 = Rp65,806.81 per pack; Rp65,806.81 / 5 = Rp13,161.36 per card",
+          "SV11B Deluxe box: $212.99 x Rp18,060 = Rp3,846,599.40 goods; Rp3,846,599.40 x 1.19325 = Rp4,589,954.73 landed; Rp4,589,954.73 / 4 packs = Rp1,147,488.68 per pack; Rp4,589,954.73 / 140 cards = Rp32,785.39 per card",
+          "SV11W Deluxe box: $197.53 x Rp18,060 = Rp3,567,391.80 goods; Rp3,567,391.80 x 1.19325 = Rp4,256,790.27 landed; Rp4,256,790.27 / 4 = Rp1,064,197.57 per pack; Rp4,256,790.27 / 140 = Rp30,405.64 per card",
+          "SV2a case: $3,809.32 x Rp18,060 = Rp68,796,319.20 goods; Rp68,796,319.20 x 1.19325 = Rp82,091,207.89 landed; Rp82,091,207.89 / 12 = Rp6,840,933.99 per box vs single landed Rp10,154,404.76, saves Rp3,313,470.77 per box",
+          "M3 case: $1,048.24 x Rp18,060 = Rp18,931,214.40 goods; Rp18,931,214.40 x 1.19325 = Rp22,589,671.58 landed; Rp22,589,671.58 / 12 = Rp1,882,472.63 per box vs single landed Rp1,521,867.71, costs Rp360,604.92 more per box",
+          "Whole ladder: $41,700.52 x Rp18,060 = Rp753,111,391.20 goods; Rp753,111,391.20 x 1.19325 = Rp898,650,167.55 landed at the flat factor",
+          "Tokopedia M1L: our landed Rp2,045,319.52 - Rp1,950,000 = Rp95,319.52 dearer at the top of the ask; Rp2,045,319.52 - Rp1,903,000 = Rp142,319.52 dearer at the bottom",
+          "Tokopedia M1S: Rp1,903,000 - our landed Rp1,831,111.57 = Rp71,888.43 cheaper at the bottom of the ask; Rp1,950,000 - Rp1,831,111.57 = Rp118,888.43 cheaper at the top",
+          "Jikawo S10B: our $259.32 - $167.00 = $92.32 dearer",
+          "Jikawo SV8a: our $163.32 - $151.00 = $12.32 dearer"
+        ],
+        "paragraphs": [
+          "Ninety Japanese Pokemon booster boxes are in stock, $43.03 to $3,924.12, a $41,700.52 shelf, as of November 11, 2026. Goods value is Rp753,111,391.20, landed cost Rp898,650,167.55, before shipping. Every rupiah figure here is the dollar price times 18,060, the mid-market rate on November 10, 2026, then times 1.19325. Most boxes hold [30 packs](/blog/how-many-packs-in-a-booster-box/) of 5 cards; high-class M2a, SV4a and SV8a hold 10 packs of 10, SV2a, SV11B and SV11W hold 20 of 7, M6a holds 20 of 6 foil, and the Deluxe boxes hold 4 of 35.",
+          "Under Rp2,000,000 (16 boxes): 927,300.59: S2 Rebellion Crash; 1,521,867.71: M3 Munikis Zero; 1,784,347.87: M6 Storm Emeralda; 1,831,111.57: M1S Mega Symphonia, SV9 Battle Partners; 1,902,226.89: M4 Ninja Spinner, SV1V Violet ex, SV4M Future Flash, SV5M Cyber Judge; 1,974,204.20: M5 Abyss Eye, S11a Incandescent Arcana, S9 Star Birth, S9a Battle Region, SV4K Ancient Roar, SV6a Night Wanderer, SV7 Stella Miracle.",
+          "Rp2,000,000 to Rp4,000,000 (28 boxes): 2,045,319.52: M1L Mega Brave, SV2P Snow Hazard; 2,131,735.40: SM9 Tag Bolt, SM9a Night Unison, SMP2 Detective Pikachu; 2,211,901.75: SV2D Clay Burst, SV3a Raging Surf; 2,306,722.17: SV5K Wild Force, SV5a Crimson Haze; 2,330,858.28: S10P Space Juggler; 2,401,973.59: SV1S Scarlet ex, SV6 Mask of Change; 2,473,304.40: M2a MEGA Dream ex; 3,043,735.42: SV4a Shiny Treasure ex, SV7a Paradise Dragona; 3,210,317.65: S10D Time Gazer; 3,281,863.97: SV1A Triplet Beat, SV3 Ruler of Black Flame; 3,467,625.79: SM9b Full Metal Wall; 3,519,561.52: SV8a Terastal Festival ex, SV9a Heat Wave Arena; 3,614,381.93: S6H Silver Lance, SV11W White Flare; 3,662,654.15: S4 Shocking Volt Tackle, S4a Shiny Star V; 3,947,546.40: M2 Inferno X, SV11B Black Bolt; 3,971,036.01: S7D Towering Perfection.",
+          "Rp4,000,000 to Rp8,000,000 (13 boxes): 4,256,790.27: SV11W Deluxe White Flare; 4,327,905.58: S6K Jet-Black Spirit; 4,589,954.73: SV10 Glory of Team Rocket, SV11B Deluxe Black Bolt; 5,208,011.46: S12 Paradigm Trigger, S12a VSTAR Universe; 5,231,716.56: S10a Dark Phantasma; 5,365,973.66: M6a 30th Celebration; 5,564,881.03: SV8 Super Electric Breaker; 5,588,370.64: S10b Pokemon GO; 6,278,404.68: S1a VMAX Rising, S8 Fusion Arts, S8b VMAX Climax.",
+          "Over Rp8,000,000 (33 boxes): 8,109,516.25: S2a Explosive Flame Walker; 8,894,370.71: S5a Matchless Fighter; 9,227,104.18: S5i Single Strike Master; 9,274,729.89: S11 Lost Abyss; 9,393,686.41: S3 Infinity Zone, S3a Legendary Heartbeat; 10,154,404.76: SV2a Pokemon 151; 10,463,864.13: S1W Sword; 11,010,805.54: S5R Rapid Strike Master; 11,082,136.35: SM8a Dark Order; 11,866,990.81: SM12 Alter Genesis; 12,151,883.07: S8a 25th Anniversary; 14,030,620.35: S1H Shield; 14,672,813.18: SM5+ Ultra Force; 15,053,387.86: SM6 Forbidden Light; 15,623,818.88: SM5S Ultra Sun; 15,719,285.80: SM7a Thunderclap Spark; 17,050,866.17: SM7b Fairy Rise; 19,286,473.02: SM6b Champion Road; 20,309,025.03: SM10a GG End; 20,998,628.07: SM10 Double Blaze; 23,899,917.36: SM10b Sky Legend; 24,446,858.77: SM6a Dragon Storm; 24,993,800.18: S6a Eevee Heroes; 26,302,106.45: SM8 Super-Burst Impact; 27,633,686.82: SM11a Remix Bout; 31,224,579.15: SM11b Dream League; 32,817,777.67: SM5M Ultra Moon; 35,956,980.01: SM12a Tag Team GX All Stars; 37,050,862.83: SM8b GX Ultra Shiny; 40,237,259.88: SM11 Miracle Twin; 55,742,553.23: S7R Blue Sky Stream; 84,565,158.79: SM7 Sky-Splitting Charisma, flat-rate equivalent only.",
+          "[M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) is the cheapest per pack at $2.35, or Rp50,728.92 landed and Rp10,145.78 a card. [M6a](/blog/m6a-30th-celebration-buyers-guide/) divides to $12.45 a pack, or Rp268,298.68 landed, Rp44,716.45 a card. [151](/blog/sv2a-pokemon-151-buyers-guide/) is the dearest at $23.56 a pack, or Rp507,720.24 landed, Rp72,531.46 a card. The two Deluxe boxes, at 35 cards a pack, are $53.25 and $49.38 a pack, or Rp1,147,488.68 and Rp1,064,197.57. Compare the [M3](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/), [M6a](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) and [151](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) first.",
+          "The case column splits the shelf. The SV2a sealed case costs $3,809.32, or Rp68,796,319.20 in goods, and lands at Rp82,091,207.89, which is Rp6,840,933.99 a box against the $471.20 single, landed at Rp10,154,404.76: it saves Rp3,313,470.77 a box. The M3 case runs the other way: $1,048.24, or Rp18,931,214.40 in goods, lands at Rp22,589,671.58, which is Rp1,882,472.63 a box against the $70.62 single, landed at Rp1,521,867.71: it costs Rp360,604.92 more per box. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Tokopedia vs Jikawo",
+        "note": "From the Warehouse: the question we get most from Indonesian buyers is why every box pays tax when the US$3 line sounds like a free pass. It is not a free pass: VAT applies from the first dollar, and the US$3 line only spares parcels cheaper than a single pack. The only number that matters for a box is 1.19325, and every landed figure on this page is the goods value times that factor.",
+        "paragraphs": [
+          "An Indonesian buyer has three real routes to a Japanese box. Japan-direct means a sealed box shipped from Japan, priced in dollars, with the border tax on this page. Tokopedia means a domestic seller with stock already in Indonesia, priced in rupiah with the import already done. Jikawo means a US-based listing in dollars, with its own shipping and import treatment on top.",
+          "The Tokopedia comparison is mixed, and this page names both directions. Zlap Collectibles lists M1L and M1S at Rp1,903,000 to Rp1,950,000, ready stock, shipping from Rp7,500. Our M1L lands at Rp2,045,319.52, Rp95,319.52 to Rp142,319.52 dearer than the Tokopedia ask. Our M1S lands at Rp1,831,111.57, Rp71,888.43 to Rp118,888.43 cheaper than the same ask. Tokopedia prices are domestic delivered asks, tax already inside the seller's cost, while ours is the landed cost including border tax, before shipping: add the shipping quote before deciding. Jikawo lists S10B at $167 against our $259.32, $92.32 dearer, and SV8a at $151 against our $163.32, $12.32 dearer. Jikawo's basis is as listed in dollars.",
+          "The honest summary is that Japan-direct wins on range and on the dear sets, and loses on the two MEGA sets where a Tokopedia seller has stock. Ninety boxes sit on our shelf and no Tokopedia seller lists ninety; but where a Tokopedia seller does list the same set, the domestic ask can be lower, and this page names the gap instead of hiding it. Compare the landed cost against the delivered ask, not the goods price."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Landed Rp",
+            "Per pack",
+            "Tokopedia ask",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero",
+              "Rp1,521,867.71",
+              "Rp50,728.92",
+              "Not listed",
+              "Cheapest pack, open it"
+            ],
+            [
+              "M1S Mega Symphonia",
+              "Rp1,831,111.57",
+              "Rp61,037.05",
+              "Rp1,903,000 to Rp1,950,000",
+              "Cheaper than Tokopedia by Rp71,888.43 to Rp118,888.43"
+            ],
+            [
+              "M1L Mega Brave",
+              "Rp2,045,319.52",
+              "Rp68,177.32",
+              "Rp1,903,000 to Rp1,950,000",
+              "Dearer than Tokopedia by Rp95,319.52 to Rp142,319.52"
+            ],
+            [
+              "M6a 30th Celebration",
+              "Rp5,365,973.66",
+              "Rp268,298.68",
+              "Not listed",
+              "Dearest by demand, check the price first"
+            ],
+            [
+              "Pokemon Card 151",
+              "Rp10,154,404.76",
+              "Rp507,720.24",
+              "Not listed",
+              "Dearest box, collector only"
+            ],
+            [
+              "SV2a sealed case",
+              "Rp82,091,207.89",
+              "Rp6,840,933.99 per box",
+              "Not listed",
+              "Only real case saving on the shelf"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other Indonesia price pages",
+        "paragraphs": [
+          "The top results for this query quote rupiah prices without ever running the 1.19325 factor, which leaves the buyer guessing what the box actually costs to land. None of them name the US$3 line correctly: several describe it as a 2025 cut from US$75, when the US$3 figure dates from 2020 and the 2025 change rebuilt the tariff structure around it. None of them run the border math on a sealed case, and none of them compare a Japan-direct price against a Tokopedia ask on a stated basis.",
+          "The second gap is language. Pages in English quote dollars and pages in Bahasa quote Tokopedia asks, and neither gives the landed rupiah cost of a Japan-direct box. A buyer searching jual kartu pokemon jepang or kartu pokemon jepang booster box harga finds asks, not divisions, and a buyer searching beli pokemon booster box jepang finds sellers, not the border math. This page is written for those searches with the division attached."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Indonesia",
+        "paragraphs": [
+          "Pick the box from the board, multiply the dollar price by 18,060, then by 1.19325, and add shipping to get the landed cost. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455. A buyer searching toko kartu pokemon jepang jakarta will land on Tokopedia sellers first: compare the delivered ask against our landed cost plus shipping.",
+          "Orders over $500 ship free: a single 151 at $471.20 does not clear the line, but a 151 with an M3 at $541.82 does, so the pair saves shipping as well. Track the parcel, store the box sealed and upright on arrival, and keep the invoice with it: our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers humidity and stacking, and the invoice proves the goods value if customs asks."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and a case price that does not add up",
+        "paragraphs": [
+          "Reseals are the first risk. A box that has been opened and re-shrunk looks sealed until it is opened, and the only defence is buying factory-sealed stock from a seller whose reputation is on the line, then checking the shrink, seams and box condition against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/). Tokopedia sellers carry the deepest domestic stock, so the check matters most there.",
+          "M6a was $207.50 on October 24, 2026 and is $249.00 on November 10, exactly 20.0% higher in seventeen days: a price on this page is a stamp, not a promise. The second risk is the Tokopedia basis: a domestic ask below our landed cost does not prove our price is wrong, because the seller may have imported earlier or cheaper, and a domestic ask is delivered while ours is landed before shipping, so compare on the same basis.",
+          "The third risk is a catalog price that does not add up, and this page excludes it. The S10b case is listed at $1,177.60 for twenty boxes, which is $58.88 a box against a $259.32 single, an implausible figure that looks like a catalog error, so no case math for S10b appears here and the figure is flagged for the owner to check. A case that divides to a quarter of the single price is not a deal, it is a data error."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Indonesia retail",
+        "paragraphs": [
+          "A standard Scarlet and Violet era box lists at 30 packs of 180 yen, or 5,400 yen, which is $35.06 at 154 yen to the dollar. A MEGA era box lists at 30 packs of 200 yen, or 6,000 yen, which is $38.96, after the pack price rose from 180 to 200 yen in May 2026. 151 lists at 20 packs of 180 yen, or 3,600 yen, which is $23.38, and M6a at 20 packs of 200 yen, or 4,000 yen, which is $25.97.",
+          "Rebellion Crash at $43.03 is 1.23 times its era list, M3 at $70.62 is 1.81 times the MEGA list, [M6a](/blog/m6a-30th-celebration-buyers-guide/) at $249.00 is 9.59 times its list, and Pokemon Card 151 at $471.20 is 20.15 times its list. 151 is a chase set with a Charizard, M6a is an anniversary box with a Pikachu in every pack, and Rebellion Crash never caught fire. Tokopedia lists M1L and M1S at Rp1,903,000 to Rp1,950,000 through Zlap Collectibles, and Jikawo lists S10B at $167 and SV8a at $151. The [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same ninety boxes in dollars."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card: if the card is a Charizard, a Pikachu or a specific Secret Art Rare, the single is cheaper than the box. It is not for a buyer who needs the box this week: Japan-direct shipping takes days to weeks, and a Tokopedia seller with stock on hand is the route when the deadline is the weekend. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card. It is not for a buyer who wants a box under US$3: nothing on this shelf qualifies, because the cheapest box is $43.03."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its landed rupiah cost, not its dollar price.",
+          "Multiply the dollar price by 18,060, then by 1.19325, then add the shipping quote.",
+          "Remember there is no tax-free box on this shelf: VAT applies from the first dollar.",
+          "Check the US$1,500 ceiling before buying a dear box: SM7 at $3,924.12 pays MFN duty, not the 7.5% flat rate.",
+          "Compare the Tokopedia delivered ask against the landed cost plus shipping, not against the goods price.",
+          "Check the case division before buying a case: the SV2a case saves Rp3,313,470.77 a box, the M3 case costs Rp360,604.92 more a box.",
+          "Remember a single 151 at $471.20 does not clear the $500 free-shipping line, but a 151 with an M3 at $541.82 does.",
+          "Confirm the shipping quote and the duty treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel."
+        ],
+        "h": "Action layer: the Indonesia buyer's checklist",
+        "paragraphs": [
+          "Work the list in order. For the Indonesia hub this guide sits inside, the [membeli kartu TCG Jepang di Indonesia guide](/blog/membeli-kartu-tcg-jepang-di-indonesia/) runs the same 7.5% plus 11% rule across all four games. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does. The [Philippines price guide](/blog/japanese-pokemon-booster-box-philippines-price/) runs the same ninety boxes in Philippine pesos."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-booster-box-indonesia-price",
+    "takeaway": [
+      "Every Japanese Pokemon booster box shipped to Indonesia pays the border: a flat 7.5% duty plus 11% VAT, a combined factor of 1.19325 on the goods value, because the duty-free line is US$3 and no box on this shelf sits under it, and VAT applies from the first dollar. The cheapest pack on the shelf is M3 at Rp50,728.92 landed, and the dearest box is Pokemon Card 151 at Rp10,154,404.76 landed.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at Rp18,060 to the dollar, with duty and VAT calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and remember SM7 at $3,924.12 sits above the US$1,500 ceiling and pays the MFN rate, not the 7.5% flat rate.",
+      "For the Indonesia hub this guide sits inside, the [membeli kartu TCG Jepang di Indonesia guide](/blog/membeli-kartu-tcg-jepang-di-indonesia/) runs the same 7.5% plus 11% rule across all four games, with One Piece, Dragon Ball and Lorcana in Indonesian rupiah. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does."
+    ]
+  },
+  "japanese-pokemon-booster-box-philippines-price": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Not at the border, if the FOB value is PHP 10,000 or less: thirty-four of the ninety boxes on our shelf clear on goods value alone. Processing charges still apply: PHP 130.00 direct by the claimant or PHP 241.76 through a courier for an M3, and PHP 255.00 direct or PHP 311.62 through a courier for an M2a. Above the line, duty at 3 to 15% plus 12% VAT on the dutiable value plus duty applies, so a 151 lands at PHP 34,408.38 to PHP 38,417.12 before shipping.",
+        "q": "Will I pay duty or VAT on one Japanese Pokemon booster box shipped to the Philippines?"
+      },
+      {
+        "a": "The SV2a case costs PHP 241,129.96 in goods and lands at PHP 278,167.52 to PHP 310,575.39 depending on the duty rate, or PHP 23,180.63 to PHP 25,881.28 a box, against a single 151 landed at PHP 34,408.38 to PHP 38,417.12. The M3 case runs the other way: PHP 66,353.59 in goods lands at PHP 76,545.50 to PHP 85,463.42, while a single M3 clears the line and lands at PHP 4,600.25 to PHP 4,712.01 before shipping.",
+        "q": "What does a sealed case cost to land in the Philippines?"
+      },
+      {
+        "a": "Mixed, and this page names the gap. Our M2a at PHP 7,264.94 of goods is PHP 1,365.94 above the Lukas Corner price of PHP 5,899.00, so a buyer who wants M2a should check the local price first. The Rakuten lottery M6 at JPY 6,006 is about half our M6 shelf price of PHP 5,241.24, but it is a lottery entry, not a sealed box in hand. Compare the landed cost, not the goods price, and weigh sealed provenance against the saving.",
+        "q": "Is the Warehouse price cheaper than buying locally in the Philippines?"
+      }
+    ],
+    "h1": "Japanese Pokemon Booster Box Prices in Philippines: The PHP 10,000 Line, in Pesos",
+    "intro": [
+      "One Japanese Pokemon booster box shipped to the Philippines clears the border with no duty or VAT: the line is PHP 10,000 of FOB value, and thirty-four of the ninety boxes sit under it on goods value. A box over the line pays duty, then 12% VAT on the dutiable value plus duty, plus processing charges. This guide prices all 90 boxes in Philippine pesos, runs the border math on the boxes closest to the line and on a sealed case, and compares Japan-direct against Lukas Corner and the Rakuten lottery route. Prices as of November 11, 2026, at PHP 63.30 to the dollar, the Bangko Sentral reference rate on November 10, 2026.",
+      "The cheapest box per pack is M3 Munikis Zero at PHP 149.01 a pack, and the dearest is Pokemon Card 151 at PHP 1,491.35 a pack."
+    ],
+    "metaDescription": "Every Japanese Pokemon booster box price in Philippine pesos as of November 11, 2026: the PHP 10,000 de minimis line, border charges, and local comps.",
+    "metaTitle": "Japanese Pokemon Booster Box Prices in Philippines",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: PHP 10,000 is the line, and it is measured on FOB value",
+        "paragraphs": [
+          "The de minimis rule is the whole guide in one number. Goods with an FOB or FCA value of PHP 10,000 or less pay no duty or VAT at the border, under Section 423 of the Customs Modernization and Tariff Act (RA 10863) and Customs Administrative Order 02-2025, effective May 7, 2025. Thirty-four of the ninety boxes sit under the line on goods value, and fifty-six sit over it.",
+          "Above the line, the border charges duty by HS classification, then 12% VAT on the dutiable value plus duty. The exact rate for HS 9504.40 was not established from an official source, so duty below is the 3 to 15% range most consumer goods fall in, with VAT computed on each end. Fix the exact rate with the Bureau of Customs duty estimator.",
+          "Charges exist even under the line. CAO 02-2025 sets the import processing charge: direct by the claimant, PHP 0 up to PHP 5,000 and PHP 125 above that to PHP 10,000; via a courier, PHP 50 up to PHP 2,000 and 2.5% above PHP 2,000 to PHP 10,000. Add a Customs Documentary Stamp of PHP 100 and a BIR Documentary Stamp of PHP 30, so a box that clears free still costs PHP 130 to PHP 311.62 in charges. The math lines below run M3 and M2a through both channels.",
+          "The line is measured on FOB goods value, so shipping never pushes a parcel over it: a PHP 9,848.85 parcel with PHP 2,000 of shipping still clears. Once over the line, duty and VAT are charged on the CIF value, so the real landed cost is higher than the goods-only math here."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in Philippine pesos",
+        "math": [
+          "M3 box: $70.62 x PHP 63.30 = PHP 4,470.25; PHP 4,470.25 / 30 packs = PHP 149.01 per pack; PHP 149.01 / 5 cards = PHP 29.80 per card",
+          "Rebellion Crash box: $43.03 x PHP 63.30 = PHP 2,723.80; PHP 2,723.80 / 30 = PHP 90.79 per pack; PHP 90.79 / 5 = PHP 18.16 per card",
+          "M6a box: $249.00 x PHP 63.30 = PHP 15,761.70; PHP 15,761.70 / 20 packs = PHP 788.09 per pack; PHP 15,761.70 / 120 cards = PHP 131.35 per card",
+          "151 box: $471.20 x PHP 63.30 = PHP 29,826.96; PHP 29,826.96 / 20 = PHP 1,491.35 per pack; PHP 29,826.96 / 140 = PHP 213.05 per card",
+          "M2a box: $114.77 x PHP 63.30 = PHP 7,264.94; PHP 7,264.94 / 10 = PHP 726.49 per pack; PHP 726.49 / 10 = PHP 72.65 per card",
+          "M2 box: $183.18 x PHP 63.30 = PHP 11,595.29; PHP 11,595.29 / 20 = PHP 579.76 per pack; PHP 579.76 / 5 = PHP 115.95 per card",
+          "M1L box: $94.91 x PHP 63.30 = PHP 6,007.80; PHP 6,007.80 / 30 = PHP 200.26 per pack; PHP 200.26 / 5 = PHP 40.05 per card",
+          "M1S box: $84.97 x PHP 63.30 = PHP 5,378.60; PHP 5,378.60 / 30 = PHP 179.29 per pack; PHP 179.29 / 5 = PHP 35.86 per card",
+          "SV11B box: $183.18 x PHP 63.30 = PHP 11,595.29; PHP 11,595.29 / 20 = PHP 579.76 per pack; PHP 579.76 / 7 = PHP 82.82 per card",
+          "SV11W box: $167.72 x PHP 63.30 = PHP 10,616.68; PHP 10,616.68 / 20 = PHP 530.83 per pack; PHP 530.83 / 7 = PHP 75.83 per card",
+          "SV9a box: $163.32 x PHP 63.30 = PHP 10,338.16; PHP 10,338.16 / 30 = PHP 344.61 per pack; PHP 344.61 / 5 = PHP 68.92 per card",
+          "SV10 box: $212.99 x PHP 63.30 = PHP 13,482.27; PHP 13,482.27 / 30 = PHP 449.41 per pack; PHP 449.41 / 5 = PHP 89.88 per card",
+          "SV8a box: $163.32 x PHP 63.30 = PHP 10,338.16; PHP 10,338.16 / 10 = PHP 1,033.82 per pack; PHP 1,033.82 / 10 = PHP 103.38 per card",
+          "SV4a box: $141.24 x PHP 63.30 = PHP 8,940.49; PHP 8,940.49 / 10 = PHP 894.05 per pack; PHP 894.05 / 10 = PHP 89.40 per card",
+          "SV8 box: $258.23 x PHP 63.30 = PHP 16,345.96; PHP 16,345.96 / 30 = PHP 544.87 per pack; PHP 544.87 / 5 = PHP 108.97 per card",
+          "M6 box: $82.80 x PHP 63.30 = PHP 5,241.24; PHP 5,241.24 / 30 = PHP 174.71 per pack; PHP 174.71 / 5 = PHP 34.94 per card",
+          "M5 box: $91.61 x PHP 63.30 = PHP 5,798.91; PHP 5,798.91 / 30 = PHP 193.30 per pack; PHP 193.30 / 5 = PHP 38.66 per card",
+          "SV11B Deluxe box: $212.99 x PHP 63.30 = PHP 13,482.27; PHP 13,482.27 / 4 packs = PHP 3,370.57 per pack; PHP 13,482.27 / 140 cards = PHP 96.30 per card",
+          "SV11W Deluxe box: $197.53 x PHP 63.30 = PHP 12,503.65; PHP 12,503.65 / 4 = PHP 3,125.91 per pack; PHP 12,503.65 / 140 = PHP 89.31 per card",
+          "M3 under the line, courier: goods PHP 4,470.25 + IPC 2.5% PHP 111.76 + PHP 100 CDS + PHP 30 BIR DST = PHP 4,712.01 landed before shipping",
+          "M3 under the line, direct: goods PHP 4,470.25 + IPC PHP 0 + PHP 100 CDS + PHP 30 BIR DST = PHP 4,600.25 landed before shipping",
+          "M2a under the line, courier: goods PHP 7,264.94 + IPC 2.5% PHP 181.62 + PHP 130 stamps = PHP 7,576.56 landed before shipping",
+          "M2a under the line, direct: goods PHP 7,264.94 + IPC PHP 125 + PHP 130 stamps = PHP 7,519.94 landed before shipping",
+          "151 over the line at 3% duty: goods PHP 29,826.96 + duty PHP 894.81 + VAT 12% on PHP 30,721.77 = PHP 3,686.61, total PHP 34,408.38 before shipping",
+          "151 over the line at 15% duty: goods PHP 29,826.96 + duty PHP 4,474.04 + VAT 12% on PHP 34,301.00 = PHP 4,116.12, total PHP 38,417.12 before shipping",
+          "M6a over the line at 3% duty: goods PHP 15,761.70 x 1.03 x 1.12 = PHP 18,182.70 before shipping",
+          "M6a over the line at 15% duty: goods PHP 15,761.70 x 1.15 x 1.12 = PHP 20,301.07 before shipping",
+          "SV2a case: $3,809.32 x PHP 63.30 = PHP 241,129.96 goods; PHP 241,129.96 / 12 boxes = PHP 20,094.16 per box; single PHP 29,826.96 - PHP 20,094.16 = PHP 9,732.80 saved per box",
+          "SV2a case landed at 3% duty: PHP 241,129.96 x 1.03 x 1.12 = PHP 278,167.52; PHP 278,167.52 / 12 = PHP 23,180.63 per box vs single landed PHP 34,408.38, saves PHP 11,227.75 per box",
+          "SV2a case landed at 15% duty: PHP 241,129.96 x 1.15 x 1.12 = PHP 310,575.39; PHP 310,575.39 / 12 = PHP 25,881.28 per box vs single landed PHP 38,417.12, saves PHP 12,535.84 per box",
+          "M3 case: $1,048.24 x PHP 63.30 = PHP 66,353.59 goods; PHP 66,353.59 / 12 = PHP 5,529.47 per box vs single PHP 4,470.25, costs PHP 1,059.22 more per box",
+          "M3 case landed at 3% duty: PHP 66,353.59 x 1.03 x 1.12 = PHP 76,545.50; PHP 76,545.50 / 12 = PHP 6,378.79 per box vs single landed PHP 4,712.01, costs PHP 1,666.78 more per box",
+          "M3 case landed at 15% duty: PHP 66,353.59 x 1.15 x 1.12 = PHP 85,463.42; PHP 85,463.42 / 12 = PHP 7,121.95 per box vs single landed PHP 4,712.01, costs PHP 2,409.94 more per box",
+          "Whole ladder goods: $41,700.52 x PHP 63.30 = PHP 2,639,642.92; under the line $3,448.56 = PHP 218,293.85; over the line $38,251.96 = PHP 2,421,349.07",
+          "Lukas Corner M2a: our PHP 7,264.94 - PHP 5,899.00 = PHP 1,365.94 dearer",
+          "Rakuten M6 lottery: JPY 6,006 / 154 = $39.00; $39.00 x PHP 63.30 = PHP 2,468.70 at today's rate vs our M6 PHP 5,241.24",
+          "M3 + M1S pairing: PHP 4,470.25 + PHP 5,378.60 = PHP 9,848.85 of goods, under the line",
+          "M3 + M6 pairing: PHP 4,470.25 + PHP 5,241.24 = PHP 9,711.49 of goods, under the line",
+          "Two M6a pairing: 2 x PHP 15,761.70 = PHP 31,523.40 of goods, over the line",
+          "M6a + 151 pairing: PHP 15,761.70 + PHP 29,826.96 = PHP 45,588.66 of goods, over the line"
+        ],
+        "paragraphs": [
+          "Ninety Japanese Pokemon booster boxes are in stock, $43.03 to $3,924.12, a $41,700.52 shelf, as of November 11, 2026. Every PHP figure is the dollar price times 63.30, the Bangko Sentral reference rate on November 10, 2026. Most boxes hold [30 packs](/blog/how-many-packs-in-a-booster-box/) of 5 cards; high-class M2a, SV4a and SV8a hold 10 packs of 10, SV2a, SV11B and SV11W hold 20 packs of 7, M6a holds 20 packs of 6 foil cards, and the Deluxe boxes hold 4 packs of 35.",
+          "Under PHP 5,000 (2 boxes): 2,723.80: S2 Rebellion Crash; 4,470.25: M3 Munikis Zero.",
+          "PHP 5,000 to PHP 10,000 (32 boxes): 5,241.24: M6 Storm Emeralda; 5,378.60: M1S Mega Symphonia, SV9 Battle Partners; 5,587.49: M4 Ninja Spinner, SV1V Violet ex, SV4M Future Flash, SV5M Cyber Judge; 5,798.91: M5 Abyss Eye, S11a Incandescent Arcana, S9 Star Birth, S9a Battle Region, SV4K Ancient Roar, SV6a Night Wanderer, SV7 Stella Miracle; 6,007.80: M1L Mega Brave, SV2P Snow Hazard; 6,261.64: SM9 Tag Bolt, SM9a Night Unison, SMP2 Detective Pikachu; 6,497.11: SV2D Clay Burst, SV3a Raging Surf; 6,775.63: SV5K Wild Force, SV5a Crimson Haze; 6,846.53: S10P Space Juggler; 7,055.42: SV1S Scarlet ex, SV6 Mask of Change; 7,264.94: M2a MEGA Dream ex; 8,940.49: SV4a Shiny Treasure ex, SV7a Paradise Dragona; 9,429.80: S10D Time Gazer; 9,639.96: SV1A Triplet Beat, SV3 Ruler of Black Flame.",
+          "PHP 10,000 to PHP 20,000 (23 boxes): 10,185.60: SM9b Full Metal Wall; 10,338.16: SV8a Terastal Festival ex, SV9a Heat Wave Arena; 10,616.68: S6H Silver Lance, SV11W White Flare; 10,758.47: S4 Shocking Volt Tackle, S4a Shiny Star V; 11,595.29: M2 Inferno X, SV11B Black Bolt; 11,664.29: S7D Towering Perfection; 12,503.65: SV11W Deluxe White Flare; 12,712.54: S6K Jet-Black Spirit; 13,482.27: SV10 Glory of Team Rocket, SV11B Deluxe Black Bolt; 15,297.71: S12 Paradigm Trigger, S12a VSTAR Universe; 15,367.34: S10a Dark Phantasma; 15,761.70: M6a 30th Celebration; 16,345.96: SV8 Super Electric Breaker; 16,414.96: S10b Pokemon GO; 18,441.82: S1a VMAX Rising, S8 Fusion Arts, S8b VMAX Climax.",
+          "Over PHP 20,000 (33 boxes): 23,820.42: S2a Explosive Flame Walker; 26,125.81: S5a Matchless Fighter; 27,103.16: S5i Single Strike Master; 27,243.05: S11 Lost Abyss; 27,592.47: S3 Infinity Zone, S3a Legendary Heartbeat; 29,826.96: SV2a Pokemon 151; 30,735.95: S1W Sword; 32,342.50: S5R Rapid Strike Master; 32,552.03: SM8a Dark Order; 34,857.41: SM12 Alter Genesis; 35,694.24: S8a 25th Anniversary; 41,212.73: S1H Shield; 43,099.07: SM5+ Ultra Force; 44,216.95: SM6 Forbidden Light; 45,892.50: SM5S Ultra Sun; 46,172.92: SM7a Thunderclap Spark; 50,084.23: SM7b Fairy Rise; 56,650.97: SM6b Champion Road; 59,654.55: SM10a GG End; 61,680.15: SM10 Double Blaze; 70,202.23: SM10b Sky Legend; 71,808.79: SM6a Dragon Storm; 73,415.34: S6a Eevee Heroes; 77,258.28: SM8 Super-Burst Impact; 81,169.59: SM11a Remix Bout; 91,717.27: SM11b Dream League; 96,397.04: SM5M Ultra Moon; 105,617.95: SM12a Tag Team GX All Stars; 108,831.06: SM8b GX Ultra Shiny; 118,190.60: SM11 Miracle Twin; 163,734.95: S7R Blue Sky Stream; 248,396.80: SM7 Sky-Splitting Charisma.",
+          "[M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) is the cheapest box per pack at $2.35, or PHP 149.01 a pack and PHP 29.80 a card. [M6a](/blog/m6a-30th-celebration-buyers-guide/) divides to $12.45 a pack, or PHP 788.09, and PHP 131.35 a card. [151](/blog/sv2a-pokemon-151-buyers-guide/) is the dearest at $23.56 a pack, or PHP 1,491.35, and PHP 213.05 a card. The two Deluxe boxes, at 35 cards a pack, are $53.25 and $49.38 a pack, or PHP 3,370.57 and PHP 3,125.91. Compare the [M3 box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/), [M6a box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) and [151 box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) first.",
+          "The case column surprises buyers twice here. The SV2a sealed case costs $3,809.32, or PHP 241,129.96, for twelve boxes, which is PHP 20,094.16 a box: against the $471.20 single at PHP 29,826.96, that saves PHP 9,732.80 a box, and landed at 3% duty the case is PHP 23,180.63 a box against the single landed at PHP 34,408.38, so the saving survives the border. The M3 case runs the other way: $1,048.24, or PHP 66,353.59, is PHP 5,529.47 a box against the $70.62 single at PHP 4,470.25, and because the case crosses the line while the single clears it, it lands at PHP 76,545.50 to PHP 85,463.42 against a single landed at PHP 4,600.25 to PHP 4,712.01. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Lukas Corner vs the Rakuten lottery",
+        "note": "From the Warehouse: the question we get most from Philippines buyers is which boxes can share one parcel without crossing PHP 10,000. M3 and M1S at PHP 9,848.85 of goods clear together, and M3 and M6 at PHP 9,711.49 clear together, because the test is on FOB goods value and shipping never pushes a parcel over. Two M6a boxes at PHP 31,523.40 pay duty and VAT, and a M6a with a 151 at PHP 45,588.66 does too. The pairing to watch is goods value, not parcel size.",
+        "paragraphs": [
+          "A Philippines buyer has three real routes to a Japanese box. Japan-direct means a sealed box shipped from Japan, priced in dollars, with the border math on this page. Lukas Corner means a local seller listing in pesos with the import already done. The Rakuten lottery route, through a forwarder like Buy&Ship, means entering a lottery for a box at Japanese list price, with no guarantee of winning and a service fee on top.",
+          "The local comparison starts with the one box Lukas Corner lists that we can check: M2a Mega Dream ex at PHP 5,899.00 against our PHP 7,264.94 in goods value, so our M2a is PHP 1,365.94 dearer before shipping, and a buyer who wants M2a should check the Lukas Corner price before paying ours. The lottery comparison runs the other way: the Buy&Ship guide for the M6 lottery quotes JPY 6,006 a box, their PHP 2,284 figure from July 2026, against our M6 at PHP 5,241.24 in goods. At today's rate JPY 6,006 is $39.00, or PHP 2,468.70, about half our shelf price. But a lottery entry is a chance at a box at list, not a sealed box in hand, while our price is a box on the shelf today.",
+          "The honest summary: Japan-direct wins on range and loses on single-box price where a local seller has stock. Compare the landed cost, not the goods price: our M2a lands at PHP 7,519.94 to PHP 7,576.56 before shipping, and the Lukas Corner price is a local price with no border left to pay."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "PHP goods",
+            "Border treatment",
+            "Landed at 3% duty",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero",
+              "PHP 4,470.25",
+              "Clears, PHP 130.00 to PHP 241.76 charges",
+              "PHP 4,600.25 to PHP 4,712.01",
+              "Cheapest pack, open it"
+            ],
+            [
+              "M2a Mega Dream ex",
+              "PHP 7,264.94",
+              "Clears, PHP 255.00 to PHP 311.62 charges",
+              "PHP 7,519.94 to PHP 7,576.56",
+              "High-class box, local price is lower"
+            ],
+            [
+              "M6a 30th Celebration",
+              "PHP 15,761.70",
+              "Duty 3 to 15% plus 12% VAT",
+              "PHP 18,182.70 to PHP 20,301.07",
+              "Dearest by demand, check the lottery first"
+            ],
+            [
+              "Pokemon Card 151",
+              "PHP 29,826.96",
+              "Duty 3 to 15% plus 12% VAT",
+              "PHP 34,408.38 to PHP 38,417.12",
+              "Dearest box, collector only"
+            ],
+            [
+              "SV2a sealed case",
+              "PHP 241,129.96",
+              "Duty 3 to 15% plus 12% VAT",
+              "PHP 278,167.52 to PHP 310,575.39",
+              "Only real case saving on the shelf"
+            ],
+            [
+              "M3 sealed case",
+              "PHP 66,353.59",
+              "Duty plus VAT, while the single clears",
+              "PHP 76,545.50 to PHP 85,463.42",
+              "Case costs more than twelve singles"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing from other Philippines price pages",
+        "paragraphs": [
+          "The top results for this query quote peso prices or lottery guides without ever naming the PHP 10,000 line, which leaves the buyer guessing whether the border will charge them. None of them run the import processing charges, so none of them can say what a box that clears free actually costs to land. None of them run the border math on a sealed case, and none of them name the FOB rule.",
+          "The question no other page answers is the pairing question: which boxes can share one parcel without crossing PHP 10,000. M3 and M1S clear together at PHP 9,848.85, M3 and M6 at PHP 9,711.49, and two M6a boxes at PHP 31,523.40 pay duty and VAT. A page that prices boxes one at a time cannot answer a question about two boxes together."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to the Philippines",
+        "paragraphs": [
+          "Pick the box from the board and convert at PHP 63.30. Check the PHP 10,000 line on the FOB goods value alone, because shipping is not part of the test. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying.",
+          "Orders over $500 ship free, which matters before splitting an order to stay under the PHP 10,000 line: a single 151 at $471.20 does not clear the free-shipping line, but a 151 with an M3 at $541.82 does, so the pair clears both lines together. Splitting saves the border tax but pays shipping twice; the pair above saves both. Track the parcel, store the box sealed and upright on arrival, and keep the invoice with it: our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers humidity and stacking, and the invoice is the proof of the FOB value if customs asks."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the same-day rule",
+        "paragraphs": [
+          "Reseals are the first risk. A box that has been opened and re-shrunk looks sealed until it is opened, and the only defence is buying factory-sealed stock from a seller whose reputation is on the line, then checking the shrink, seams and box condition against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. Facebook Marketplace and Shopee PH carry the deepest local stock and the weakest provenance, so the check matters most there.",
+          "M6a 30th Celebration was $207.50 on October 24, 2026 and is $249.00 on November 10, exactly 20.0% higher in seventeen days: a price on this page is a stamp, not a promise. The duty rate is the second risk: the exact rate for HS 9504.40 was not established from an official source, so the 3 to 15% range bounds the answer and the BOC duty estimator fixes it. A buyer who budgets at the 3% end and gets charged at the 15% end pays PHP 4,008.74 more on a 151: budget at the high end.",
+          "The third risk is specific to the Philippines: parcels to the same recipient at the same address on the same day are combined for the de minimis test, so splitting one order across two parcels the same day does not dodge the line. Two boxes that clear separately can pay duty together if they land the same day, which is why the pairing math above is done on the parcel, not the box."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Philippines retail",
+        "paragraphs": [
+          "A standard Scarlet and Violet era box lists at 30 packs of 180 yen, or 5,400 yen, which is $35.06 at 154 yen to the dollar. A MEGA era box lists at 30 packs of 200 yen, or 6,000 yen, which is $38.96, after the pack price rose from 180 to 200 yen in May 2026. 151 lists at 20 packs of 180 yen, or 3,600 yen, which is $23.38, and M6a at 20 packs of 200 yen, or 4,000 yen, which is $25.97.",
+          "Rebellion Crash at $43.03 is 1.23 times its era list, M3 at $70.62 is 1.81 times the MEGA list, [M6a](/blog/m6a-30th-celebration-buyers-guide/) at $249.00 is 9.59 times its list, and Pokemon Card 151 at $471.20 is 20.15 times its list. 151 is a chase set with a Charizard, M6a is an anniversary box with a Pikachu in every pack, and Rebellion Crash never caught fire. Lukas Corner lists M2a at PHP 5,899.00, and the Buy&Ship guide quotes the M6 lottery at JPY 6,006 a box. The [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same ninety boxes in dollars."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card: if the card is a Charizard, a Pikachu or a specific Secret Art Rare, the single is cheaper than the box. It is not for a buyer who needs the box this week: Japan-direct shipping takes days to weeks, and a local seller with stock on hand is the route when the deadline is the weekend. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its PHP goods value.",
+          "Multiply the dollar price by 63.30 and check the PHP 10,000 line on the FOB goods value, not the parcel total.",
+          "If the goods value is under PHP 10,000, add the processing charges: PHP 130.00 direct or PHP 241.76 through a courier for an M3.",
+          "If the goods value is over PHP 10,000, add duty at 3 to 15% and then 12% VAT on the dutiable value plus duty, and budget at the 15% end.",
+          "Check the pairing before ordering two boxes: M3 and M1S clear together at PHP 9,848.85, two M6a boxes do not.",
+          "Compare the Lukas Corner price for the same set before paying ours; our M2a is PHP 1,365.94 above it.",
+          "Remember a single 151 at $471.20 does not clear the $500 free-shipping line, but a 151 with an M3 at $541.82 does.",
+          "Confirm the shipping quote and the duty treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel."
+        ],
+        "h": "Action layer: the Philippines buyer's checklist",
+        "paragraphs": [
+          "Work the list in order. For the Philippines hub this guide sits inside, the [buying Japanese TCG cards in Philippines guide](/blog/buying-japanese-tcg-cards-in-philippines/) runs the same PHP 10,000 line across all four games. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does. The [Indonesia price guide](/blog/japanese-pokemon-booster-box-indonesia-price/) runs the same ninety boxes landed in rupiah."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-booster-box-philippines-price",
+    "takeaway": [
+      "One Japanese Pokemon booster box shipped to the Philippines clears the border with no duty or VAT, because the line is PHP 10,000 of FOB value and thirty-four of the ninety boxes on our shelf sit under it on goods value alone. Processing charges of PHP 130.00 to PHP 311.62 still apply, and a box over the line pays duty at 3 to 15% plus 12% VAT. The cheapest pack on the shelf is M3 at PHP 149.01, and the dearest box is Pokemon Card 151 at PHP 29,826.96 of goods.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at PHP 63.30 to the dollar, with duty and VAT calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the PHP 10,000 check on the FOB goods value, not the parcel total, because shipping never pushes a parcel over the line.",
+      "For the Philippines hub this guide sits inside, the [buying Japanese TCG cards in Philippines guide](/blog/buying-japanese-tcg-cards-in-philippines/) runs the same PHP 10,000 line across all four games, with One Piece, Dragon Ball and Lorcana in Philippine pesos. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does."
+    ]
+  },
   "japanese-pokemon-booster-box-price": {
     "datePublished": "2026-11-06",
     "faqs": [
@@ -17387,7 +17790,7 @@ export const POSTS: Record<string, BlogPost> = {
           "Case penalty, SV5a Crimson Haze: $108.60 − $107.04 = $1.56 more per box; across 12 boxes, $18.72 more than singles"
         ],
         "paragraphs": [
-          "Every standard Japanese Pokémon box holds 30 packs of 5 cards, so most rows divide the box price by 30. The exceptions are printed in the Packs column: high-class boxes (M2a, SV4a, SV8a) hold 10 packs of 10 cards, special sets (SV2a, SV11B, SV11W) hold 20 packs of 7, and the M6a anniversary box holds 20 packs of 6 foil cards. The table runs the division for all thirty-two MEGA-era and Scarlet & Violet boxes on our shelf, with each sealed-case price divided to a per-box number beside it. Singapore buyers can read the same ninety boxes converted to SGD, with the S$400 GST line applied box by box, in our [Japanese Pokemon booster box prices in Singapore](/blog/japanese-pokemon-booster-box-singapore-price/) guide.",
+          "Every standard Japanese Pokémon box holds 30 packs of 5 cards, so most rows divide the box price by 30. The exceptions are printed in the Packs column: high-class boxes (M2a, SV4a, SV8a) hold 10 packs of 10 cards, special sets (SV2a, SV11B, SV11W) hold 20 packs of 7, and the M6a anniversary box holds 20 packs of 6 foil cards. The table runs the division for all thirty-two MEGA-era and Scarlet & Violet boxes on our shelf, with each sealed-case price divided to a per-box number beside it. Singapore buyers can read the same ninety boxes converted to SGD, with the S$400 GST line applied box by box, in our [Japanese Pokemon booster box prices in Singapore](/blog/japanese-pokemon-booster-box-singapore-price/) guide. Philippines buyers can read the same ninety boxes converted to pesos, with the ₱10,000 de minimis line applied box by box, in our [Japanese Pokemon booster box prices in Philippines](/blog/japanese-pokemon-booster-box-philippines-price/) guide.",
           "Two patterns jump out. First, the per-pack spread is ten to one: $2.35 a pack for M3 against $23.56 for Pokémon Card 151. Second, the case column does not behave the way most buyers expect: twenty-six cases save money per box, and two cost more. The biggest case saving is Pokémon Card 151 at $153.76 a box, or $1,845.12 across a case of twelve; the biggest by rate is SV11B Black Bolt at $100.54 a box. The penalties are the lesson: M3's case costs $16.73 more per box than its single, and SV5a's costs $1.56 more. A case is priced as its own product, not as twelve singles minus a bulk discount. Our [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division across games.",
           "Four sets have no case on our shelf: M4, M5, M6, and M6a. Where a case exists, the board shows it; where it does not, the dash is the fact. Eight more cases sit on the shelf without a single box beside them, and their per-box prices are the only way to price those sets here: SV1S Scarlet ex at $91.94, SV1V Violet ex at $79.36, S9 Star Birth at $147.08, S6H Silver Lance at $170.43, S12a VSTAR Universe at $192.14, S8b VMAX Climax at $202.17, S6K Jet-Black Spirit at $208.84, and S8 Fusion Arts at $284.86."
         ],
@@ -19879,7 +20282,7 @@ export const POSTS: Record<string, BlogPost> = {
           "M6a 30th Celebration pack landed: Rp5.381.721 / 20 packs = Rp269.086"
         ],
         "paragraphs": [
-          "Tabel di atas adalah papan harga Indonesia: setiap box yang mungkin dipesan pembeli Indonesia, dikonversi pada Rp18.113 per dolar, dengan kolom landed yang menunjukkan bea 7,5% plus PPN 11% atas harga barang. Kolom landed adalah yang paling banyak dibayar pembeli dalam pajak atas barangnya: bea dan PPN dihitung atas nilai barang, dan PPN atas ongkir ditambahkan setelah ongkir dikonfirmasi.",
+          "Tabel di atas adalah papan harga Indonesia: setiap box yang mungkin dipesan pembeli Indonesia, dikonversi pada Rp18.113 per dolar, dengan kolom landed yang menunjukkan bea 7,5% plus PPN 11% atas harga barang. Kolom landed adalah yang paling banyak dibayar pembeli dalam pajak atas barangnya: bea dan PPN dihitung atas nilai barang, dan PPN atas ongkir ditambahkan setelah ongkir dikonfirmasi. Untuk papan sembilan puluh box yang sama dalam rupiah dengan harga landed terbaru, lihat [panduan harga booster box Pokemon Jepang di Indonesia](/blog/japanese-pokemon-booster-box-indonesia-price/).",
           "Dua pola layak diperhatikan. Pertama, case biasanya lebih murah, tetapi tidak selalu, dan pengecualiannya mahal. Case OP-18 dibagi menjadi Rp1.631.807 per box landed melawan Rp1.815.520 untuk satu box, menghemat Rp183.713 per box, dan case M2 Inferno X dibagi menjadi Rp2.402.124 per box landed melawan Rp3.959.130, menghemat Rp1.557.006 per box. Case M3 mematahkan pola itu: seharga $1.048,24 untuk dua belas box, case itu berharga Rp1.887.997 per box landed, melawan Rp1.526.334 untuk satu box M3, jadi pembeli case membayar Rp361.663 lebih per box. Bagi case sebelum membelinya, setiap kali. Panduan [case Pokemon Jepang terbaik](/blog/best-japanese-pokemon-sealed-case-to-buy/) membagi setiap case di rak.",
           "Kedua, case M2a adalah pengecualian yang berbeda: bukan karena harganya, tetapi karena band-nya. Case M2a seharga $1.858,56 melewati FOB US$1.500, jadi tidak masuk band flat 7,5% dan butuh deklarasi penuh. Pembeli yang mengira semua case dihitung dengan rumus yang sama akan salah di case ini. Satu box M2a sendiri, seharga $114,77, berada jauh di bawah garis itu dan landed-nya Rp2.480.563, atau Rp248.056 per pack."
         ],
