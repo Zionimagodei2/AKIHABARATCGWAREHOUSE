@@ -5129,7 +5129,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "The buying checklist",
         "paragraphs": [
-          "Before paying for any Japanese One Piece box on this page, walk the list. For the newest set's dates and window, return to the OP-18 pre-order guide, and for the English shelf, the English-versus-Japanese comparison in the earlier One Piece box guide settles the language question. This article settles price. For the same twenty-four boxes priced in pesos, the [Japanese One Piece booster box Philippines price guide](/blog/japanese-one-piece-booster-box-philippines-price/) runs the PHP 10,000 line and divides every case."
+          "Before paying for any Japanese One Piece box on this page, walk the list. For the newest set's dates and window, return to the OP-18 pre-order guide, and for the English shelf, the English-versus-Japanese comparison in the earlier One Piece box guide settles the language question. This article settles price. For the same twenty-four boxes priced in pesos, the [Japanese One Piece booster box Philippines price guide](/blog/japanese-one-piece-booster-box-philippines-price/) runs the PHP 10,000 line and divides every case. The same twenty-four boxes priced in Singapore dollars run the S$400 line in the [Japanese One Piece booster box Singapore price guide](/blog/japanese-one-piece-booster-box-singapore/), and in Australian dollars they run the A$1,000 line in the [Japanese One Piece booster box Australia price guide](/blog/japanese-one-piece-booster-box-australia/)."
         ]
       }
     ],
@@ -9596,7 +9596,7 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "h1": "Buying Japanese TCG Cards in Australia",
     "intro": [
-      "Buy Japanese Pokemon and One Piece cards in Australia by watching one number: A$1,000. A single booster box from Japan sits far under it and clears with nothing to pay at the border; a sealed case crosses it and attracts 10% GST plus duty at the border. This guide prices the shelf in Australian dollars, runs the landed cost for a box and a case, and compares Japan-direct against eBay Australia and the local shops. Prices as of November 6, 2026, at A$1.45 to the dollar.",
+      "Buy Japanese Pokemon and [One Piece cards](/blog/japanese-one-piece-booster-box-australia/) in Australia by watching one number: A$1,000. A single booster box from Japan sits far under it and clears with nothing to pay at the border; a sealed case crosses it and attracts 10% GST plus duty at the border. This guide prices the shelf in Australian dollars, runs the landed cost for a box and a case, and compares Japan-direct against eBay Australia and the local shops. Prices as of November 6, 2026, at A$1.45 to the dollar.",
       "This guide is for Australian buyers who want sealed Japanese boxes shipped from Japan, with the tax line stated before they pay. It is not for singles buyers, because a sealed box is the wrong tool for a want list, and it is not for anyone who needs English cards for sanctioned play: Japanese cards are not legal in English-region events. The [best Japanese card shop online guide](/blog/best-japanese-card-shop-online/) ranks the Japan-direct shops; this guide prices what one of them actually costs an Australian buyer."
     ],
     "metaDescription": "Buy Japanese Pokemon and One Piece cards in Australia: the A$1,000 GST line, landed cost in AUD, and Japan-direct vs eBay AU per-box math.",
@@ -10735,7 +10735,7 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "h1": "Buying Japanese TCG Cards in Singapore",
     "intro": [
-      "Buy Japanese Pokemon and One Piece cards in Singapore by watching one number: S$400. A single booster box from Japan, even the dearest current box on our shelf, stays under it and clears with no GST at the border; two boxes in one parcel, or any sealed case, cross it and attract 9% GST on the full value. This guide prices the shelf in Singapore dollars, runs the landed cost for a box and a case, and compares Japan-direct against Carousell and Shopee Singapore pack by pack. Prices as of November 6, 2026, at S$1.28 to the US dollar.",
+      "Buy Japanese Pokemon and [One Piece cards](/blog/japanese-one-piece-booster-box-singapore/) in Singapore by watching one number: S$400. A single booster box from Japan, even the dearest current box on our shelf, stays under it and clears with no GST at the border; two boxes in one parcel, or any sealed case, cross it and attract 9% GST on the full value. This guide prices the shelf in Singapore dollars, runs the landed cost for a box and a case, and compares Japan-direct against Carousell and Shopee Singapore pack by pack. Prices as of November 6, 2026, at S$1.28 to the US dollar.",
       "This guide is for Singapore buyers who want sealed Japanese boxes shipped from Japan and want the tax line stated before they pay. It is not for singles buyers, because a sealed box is the wrong tool for a want list, and it is not for anyone who needs English cards for sanctioned play, because Japanese cards are not legal in English-region events. The [best Japanese card shop online guide](/blog/best-japanese-card-shop-online/) ranks the Japan-direct shops; this guide prices what one of them actually costs a Singapore buyer."
     ],
     "metaDescription": "Buy Japanese Pokemon and One Piece cards in Singapore: the S$400 GST line, landed cost in SGD, and Japan-direct vs Carousell per-box math.",
@@ -16899,6 +16899,220 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box."
     ]
   },
+  "japanese-one-piece-booster-box-australia": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Not at the border, if the customs value is A$1,000 or less: all twenty-four boxes on our shelf clear on goods value alone, from OP-15 at A$101.16 to OP-01 at A$347.18. Customs value excludes freight and insurance, so shipping never pushes a box over the line. If the seller is registered for Australian GST, the 10% is charged at checkout instead. Above the line, duty at 5% plus 10% GST on the goods plus duty plus freight and insurance applies, so a sealed case lands at goods times 1.05 times 1.10: the OP-15 case lands at A$1,372.26 before shipping and the import processing charge.",
+        "q": "Will I pay duty or GST on one Japanese One Piece booster box shipped to Australia?"
+      },
+      {
+        "a": "It depends on the set, and only two cases discount at the 5% duty rate. The OP-02 case costs A$2,890.71 in goods and lands at A$3,338.77, working out to A$278.23 a box, saving A$22.32 a box against the single. The OP-03 case costs A$2,457.45 in goods and lands at A$2,838.35, working out to A$236.53 a box, saving A$19.41 a box. The OP-01 case runs the other way: A$4,078.94 in goods lands at A$4,711.18, which is A$392.60 a box, A$45.42 more per box than the single. At 0% duty under JAEPA the figures are lower, but the ranking does not change. Divide the case for the set you want; the format alone does not save money.",
+        "q": "What does a sealed One Piece case cost to land in Australia?"
+      },
+      {
+        "a": "Mixed, and this page names the gap. Our OP-17 at $121.28 is A$26.59 above the JToys ask of A$149.99, and our OP-07 at $134.32 is $54.32 above the OP Box Index eBay median of $80. Our OP-16 at $105.00 is A$27.11 below the JToys ask of A$179.99, and our OP-01 at $238.45 is $14.15 below the Samurai Sword Tokyo store price of about $252.60. TCG Wholesale HQ lists OP-17 from A$118.94, A$57.64 below our goods price, but that ask is the bottom of a box-to-case range with duties the buyer's responsibility. Compare the landed cost, not the goods price, and weigh sealed provenance against the saving.",
+        "q": "Is the Warehouse price cheaper than buying locally in Australia or on eBay?"
+      }
+    ],
+    "h1": "Japanese One Piece Booster Box Prices in Australia: Every Box Landed, in Dollars",
+    "intro": [
+      "Every Japanese One Piece booster box shipped to Australia clears the border with no duty or GST: the line is A$1,000 of customs value, and all twenty-four boxes sit under it on goods value, from OP-15 at A$101.16 to OP-01 at A$347.18. Every sealed case sits over the line and pays duty plus 10% GST. This guide prices all 24 boxes in Australian dollars, runs the landed cost for a box and a case, and compares Japan-direct with JToys, TC Game and TCG Wholesale HQ. Prices as of November 11, 2026, converted at A$1.456 to the dollar, the Finnhub rate that day.",
+      "The cheapest box per pack is OP-15 at A$4.22, and the dearest box is OP-01 at A$347.18."
+    ],
+    "metaDescription": "Every Japanese One Piece booster box price in Australian dollars as of November 11, 2026: the A$1,000 line, per-pack math, and case divisions.",
+    "metaTitle": "Japanese One Piece Booster Box Prices Australia",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: A$1,000 is the line, and GST is charged either way",
+        "paragraphs": [
+          "Goods with a customs value of A$1,000 or less are low value imported goods: no duty, GST or charges are payable at the border. GST still exists below the line: since July 1, 2018, overseas sellers with A$75,000 or more of Australian GST turnover must collect 10% GST at the point of sale, so a low-value parcel is not necessarily tax-free; GST is charged at checkout instead.",
+          "A consignment over A$1,000 is taxed at the border: customs duty, then 10% GST on the customs value plus duty plus freight and insurance, plus a processing charge and a formal declaration. The duty rate for playing cards under HS 9504.40.00 is 5% at the general rate, verified on the Australian Border Force tariff schedule. Rates for originating goods under a free trade agreement are Free, so Japanese-origin goods may enter at 0% duty under JAEPA with valid origin documentation; this page shows case figures at both ends. Low-value goods shipped as one consignment totalling over A$1,000 are taxed at the border too, so splitting a case across parcels does not dodge the line.",
+          "All twenty-four Japanese One Piece boxes on our shelf sit under the line on goods value alone, from OP-15 at A$101.16 up to OP-01 at A$347.18. Customs value is the goods price minus freight and insurance, so shipping never pushes a box over the line. Every sealed case sits over it: the cheapest, OP-15 at A$1,188.10 of goods, already clears A$1,000 before duty. Our shelf prices are listed in US dollars, and the exact GST treatment of an order is confirmed at checkout or on WhatsApp, because it depends on the seller's registration status and the shipping."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in Australian dollars",
+        "math": [
+          "OP-15 box: $69.48 x A$1.456 = A$101.16; A$101.16 / 24 packs = A$4.22 per pack; A$4.22 / 6 cards = A$0.70 per card",
+          "PRB-02 box: $74.82 x A$1.456 = A$108.94 of goods; per box only, no packs-per-box figure printed",
+          "OP-18 box: $84.00 x A$1.456 = A$122.30; A$122.30 / 24 packs = A$5.10 per pack; A$5.10 / 6 cards = A$0.85 per card",
+          "EB-04 box: $91.03 x A$1.456 = A$132.54; A$132.54 / 24 packs = A$5.52 per pack; A$5.52 / 6 cards = A$0.92 per card",
+          "OP-16 box: $105.00 x A$1.456 = A$152.88; A$152.88 / 24 packs = A$6.37 per pack; A$6.37 / 6 cards = A$1.06 per card",
+          "OP-17 box: $121.28 x A$1.456 = A$176.58; A$176.58 / 24 packs = A$7.36 per pack; A$7.36 / 6 cards = A$1.23 per card",
+          "OP-12 box: $129.79 x A$1.456 = A$188.97; A$188.97 / 24 packs = A$7.87 per pack; A$7.87 / 6 cards = A$1.31 per card",
+          "OP-13 box: $135.00 x A$1.456 = A$196.56; A$196.56 / 24 packs = A$8.19 per pack; A$8.19 / 6 cards = A$1.37 per card",
+          "OP-07 box: $134.32 x A$1.456 = A$195.57; A$195.57 / 24 packs = A$8.15 per pack; A$8.15 / 6 cards = A$1.36 per card",
+          "PRB-01 box: $149.63 x A$1.456 = A$217.86; A$217.86 / 10 packs = A$21.79 per pack; A$21.79 / 10 cards = A$2.18 per card",
+          "EB-01 box: $155.04 x A$1.456 = A$225.74; A$225.74 / 24 packs = A$9.41 per pack; A$9.41 / 6 cards = A$1.57 per card",
+          "OP-01 box: $238.45 x A$1.456 = A$347.18; A$347.18 / 24 packs = A$14.47 per pack; A$14.47 / 6 cards = A$2.41 per card",
+          "OP-02 box: $206.42 x A$1.456 = A$300.55; A$300.55 / 24 packs = A$12.52 per pack; A$12.52 / 6 cards = A$2.09 per card",
+          "OP-05 box: $186.61 x A$1.456 = A$271.70; A$271.70 / 24 packs = A$11.32 per pack; A$11.32 / 6 cards = A$1.89 per card",
+          "OP-06 box: $165.86 x A$1.456 = A$241.49; A$241.49 / 24 packs = A$10.06 per pack; A$10.06 / 6 cards = A$1.68 per card",
+          "OP-01 case: $2,801.47 x A$1.456 = A$4,078.94 goods; A$4,078.94 x 1.10 = A$4,486.83 landed at 0% duty, A$4,078.94 x 1.05 x 1.10 = A$4,711.18 landed at 5% duty; A$4,711.18 / 12 boxes = A$392.60 per box at 5% duty; A$392.60 - single A$347.18 = A$45.42 more per box",
+          "OP-02 case: $1,985.38 x A$1.456 = A$2,890.71 goods; A$2,890.71 x 1.10 = A$3,179.78 landed at 0% duty, A$2,890.71 x 1.05 x 1.10 = A$3,338.77 landed at 5% duty; A$3,338.77 / 12 boxes = A$278.23 per box at 5% duty; single A$300.55 - A$278.23 = A$22.32 saved per box",
+          "OP-03 case: $1,687.81 x A$1.456 = A$2,457.45 goods; A$2,457.45 x 1.10 = A$2,703.20 landed at 0% duty, A$2,457.45 x 1.05 x 1.10 = A$2,838.35 landed at 5% duty; A$2,838.35 / 12 boxes = A$236.53 per box at 5% duty; single A$255.94 - A$236.53 = A$19.41 saved per box",
+          "OP-15 case: $816.00 x A$1.456 = A$1,188.10 goods; A$1,188.10 x 1.10 = A$1,306.91 landed at 0% duty, A$1,188.10 x 1.05 x 1.10 = A$1,372.26 landed at 5% duty; A$1,372.26 / 12 boxes = A$114.36 per box at 5% duty; A$114.36 - single A$101.16 = A$13.20 more per box",
+          "OP-18 case: $906.00 x A$1.456 = A$1,319.14 goods; A$1,319.14 x 1.10 = A$1,451.05 landed at 0% duty, A$1,319.14 x 1.05 x 1.10 = A$1,523.61 landed at 5% duty; A$1,523.61 / 12 boxes = A$126.97 per box at 5% duty; A$126.97 - single A$122.30 = A$4.67 more per box",
+          "OP-17 case: $1,458.00 x A$1.456 = A$2,122.85 goods; A$2,122.85 x 1.10 = A$2,335.14 landed at 0% duty, A$2,122.85 x 1.05 x 1.10 = A$2,451.89 landed at 5% duty; A$2,451.89 / 12 boxes = A$204.32 per box at 5% duty; A$204.32 - single A$176.58 = A$27.74 more per box",
+          "OP-05 case: $2,244.73 x A$1.456 = A$3,268.33 goods; A$3,268.33 x 1.10 = A$3,595.16 landed at 0% duty, A$3,268.33 x 1.05 x 1.10 = A$3,774.92 landed at 5% duty; A$3,774.92 / 12 boxes = A$314.58 per box at 5% duty; A$314.58 - single A$271.70 = A$42.88 more per box",
+          "OP-07 case: $1,613.24 x A$1.456 = A$2,348.88 goods; A$2,348.88 x 1.10 = A$2,583.77 landed at 0% duty, A$2,348.88 x 1.05 x 1.10 = A$2,712.96 landed at 5% duty; A$2,712.96 / 12 boxes = A$226.08 per box at 5% duty; A$226.08 - single A$195.57 = A$30.51 more per box",
+          "EB-04 case: $1,086.02 x A$1.456 = A$1,581.25 goods; A$1,581.25 x 1.10 = A$1,739.38 landed at 0% duty, A$1,581.25 x 1.05 x 1.10 = A$1,826.34 landed at 5% duty; A$1,826.34 / 12 boxes = A$152.20 per box at 5% duty; A$152.20 - single A$132.54 = A$19.66 more per box",
+          "PRB-01 case: $1,489.57 x A$1.456 = A$2,168.81 goods; A$2,168.81 x 1.10 = A$2,385.69 landed at 0% duty, A$2,168.81 x 1.05 x 1.10 = A$2,504.98 landed at 5% duty; A$2,504.98 / 10 boxes = A$250.50 per box at 5% duty; A$250.50 - single A$217.86 = A$32.64 more per box",
+          "PRB-02 case: $1,489.57 x A$1.456 = A$2,168.81 goods; A$2,168.81 x 1.10 = A$2,385.69 landed at 0% duty, A$2,168.81 x 1.05 x 1.10 = A$2,504.98 landed at 5% duty; A$2,504.98 / 20 boxes = A$125.25 per box at 5% duty; A$125.25 - single A$108.94 = A$16.31 more per box",
+          "Whole box ladder: $3,394.77 x A$1.456 = A$4,942.79 of goods, all twenty-four boxes under the A$1,000 line on goods value",
+          "Whole case ladder: $39,858.31 x A$1.456 = A$58,033.70 of goods; at 5% duty x 1.10 GST = A$67,028.91 landed, every case over the A$1,000 line",
+          "OP-15 + PRB-02 pairing: A$101.16 + A$108.94 = A$210.10 of goods, under the line",
+          "OP-15 + OP-18 pairing: A$101.16 + A$122.30 = A$223.46 of goods, under the line",
+          "Two OP-15 pairing: 2 x A$101.16 = A$202.32 of goods, under the line",
+          "OP-01 + OP-02 pairing: A$347.18 + A$300.55 = A$647.73 of goods, under the line",
+          "Free-shipping trio OP-01 + OP-02 + OP-15: $514.35 x A$1.456 = A$748.89 of goods, under the line",
+          "Samurai Sword OP-01: JPY 38,901 / 154 = $252.60; our $238.45 is $14.15 cheaper",
+          "SNKRDUNK OP-01 lowest ask: JPY 38,000 / 154 = $246.75; our $238.45 is $8.30 cheaper",
+          "CardZ OP-17 last sold: our $121.28 - $69.20 = $52.08 dearer (one completed sale, not a market price)",
+          "CardZ PRB-02 last sold: our $74.82 - $63.19 = $11.63 dearer (one completed sale, not a market price)",
+          "OP Box Index OP-07 eBay median: our $134.32 - $80.00 = $54.32 dearer",
+          "OP Box Index OP-01 eBay floor: our $238.45 - $200.00 = $38.45 above the lowest eBay ask",
+          "OP Box Index EB-01 eBay floor: our $155.04 - $110.00 = $45.04 above the lowest eBay ask",
+          "JToys OP-17: our A$176.58 - A$149.99 = A$26.59 dearer (JToys was A$299.99)",
+          "JToys OP-16: A$179.99 - our A$152.88 = A$27.11 cheaper for us",
+          "TCG Wholesale HQ OP-17 low ask: our A$176.58 - A$118.94 = A$57.64 dearer (duties excluded on their side)",
+          "TC Game EB-05: A$199.00 for the newest set, not on our shelf",
+          "Free shipping: OP-01 + OP-02 + OP-15: $238.45 + $206.42 + $69.48 = $514.35, clears the $500 line"
+        ],
+        "paragraphs": [
+          "Twenty-four Japanese One Piece booster boxes are in stock, $69.48 to $238.45, a $3,394.77 shelf, as of November 11, 2026. Goods value is A$4,942.79, all of it under the A$1,000 line. Every dollar figure is the shelf price multiplied by 1.456, the Finnhub rate on November 11, 2026. A standard box holds 24 packs of 6 cards. Two exceptions: Extra Booster per-pack figures use the 24-pack box shown in retail listings, because Bandai prints no packs-per-box figure for EB-01 through EB-04, and PRB-01 is 10 packs of 10 cards on a listing basis, while PRB-02 carries no packs-per-box figure and is priced per box only.",
+          "Under A$150 (7 boxes): 101.16: OP-15 Adventure on KAMI's Island; 108.94: PRB-02 The Best vol.2; 122.30: OP-18 The Dominance of God; 132.54: EB-04 Egghead Crisis; 143.07: OP-14 Azure Sea's Seven; 143.07: OP-10 Royal Blood; 143.07: OP-08 Two Legends.",
+          "A$150 to A$200 (5 boxes): 152.88: OP-16 The Time of Battle; 176.58: OP-17 World's Strongest Warriors; 188.97: OP-12 Legacy of the Master; 195.57: OP-07 500 Years in the Future; 196.56: OP-13 Carrying on His Will.",
+          "A$200 to A$300 (10 boxes): 217.86: PRB-01 The Best; 225.74: EB-03 Heroines Edition; 225.74: EB-01 Memorial Collection; 241.49: OP-06 Wings of the Captain; 255.94: OP-09 Emperors in the New World; 255.94: OP-03 Pillars of Strength; 260.42: EB-02 Anime 25th Collection; 263.84: OP-11 A Fist of Divine Speed; 271.68: OP-04 Kingdoms of Intrigue; 271.70: OP-05 Awakening of the New Era.",
+          "Over A$300 (2 boxes): 300.55: OP-02 Paramount War; 347.18: OP-01 Romance Dawn.",
+          "[OP-15 Adventure on KAMI's Island](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) is the cheapest box per pack at A$4.22, or A$0.70 a card. [OP-18 The Dominance of God](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/), on pre-order for its Japanese release on November 21, 2026, is second-cheapest at A$5.10 a pack. [OP-01 Romance Dawn](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) is the dearest main-set box at A$14.47 a pack, or A$2.41 a card; PRB-01 divides dearer per pack on a listing basis, at A$21.79, but it holds 10 cards a pack. [PRB-02 The Best vol.2](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) at A$108.94 and [PRB-01 The Best](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) at A$217.86 are priced per box only for PRB-02 and per pack on a listing basis for PRB-01, because Bandai prints no packs-per-box figure for the Premium Boosters. OP-14, OP-10 and OP-08 all sit at exactly A$143.07 and divide to A$5.96 a pack.",
+          "The case column splits the shelf the other way: only two cases discount at the 5% duty rate: the OP-02 case works out to A$278.23 a box against a A$300.55 single, saving A$22.32 a box, and the OP-03 case works out to A$236.53 a box against a A$255.94 single, saving A$19.41 a box. OP-18 saves A$1.38 a box only if the duty is 0% under JAEPA, and costs A$4.67 more a box at the 5% general rate. The other twenty-one cases cost more per box than the single at either duty rate, because a single box clears the A$1,000 line with no border charges while a case pays duty plus GST on its full value. The dearest extras at 5% duty are OP-01 at A$45.42 a box, OP-05 at A$42.88 and OP-04 at A$41.32. The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division, and the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the same twenty-four boxes in dollars.",
+          "Two boxes in one parcel combine for the A$1,000 test, but nothing on this shelf combines past it: OP-15 with PRB-02 is A$210.10 of goods, OP-15 with OP-18 is A$223.46, and two OP-15 boxes are A$202.32, all under the line. OP-01 with OP-02 is A$647.73 of goods, still under the line. The free-shipping trio, OP-01 with OP-02 and OP-15 at $514.35, is A$748.89 of goods, still under the line, so it clears with no border charges and saves the shipping too."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs JToys vs TC Game vs TCG Wholesale HQ",
+        "note": "From the Warehouse: the question we get most from Australia buyers is whether the A$1,000 line means a box under it is free to land. It is free at the border, but the GST can still be charged at checkout if the seller is registered for Australian GST. What the line does is keep the border and the import declaration out of it. The only number that matters for a box is its customs value against A$1,000, and every figure on this page is built from that division.",
+        "paragraphs": [
+          "An Australia buyer has four real routes: Japan-direct, a sealed box shipped from Japan, priced in dollars, with the border charges on this page; JToys in Mount Waverley, stock already in Australia, priced in Australian dollars, free shipping over $200; TC Game in Melbourne, the same, flat $9.95 shipping, free over $230; and TCG Wholesale HQ, a Japan-shipped box from an Australian-run business, with duties and import taxes the buyer's responsibility.",
+          "The JToys comparison is mixed: JToys lists OP-17 at A$149.99, down from A$299.99, against our A$176.58 of goods, so JToys is A$26.59 cheaper before shipping, while OP-16 at A$179.99 against our A$152.88 means we are A$27.11 cheaper before shipping. EB-05, the newest set, is A$199.00 at TC Game and A$199.99 at JToys; it is not on our shelf.",
+          "The wholesale comparison is the cheapest ask and the least protection: TCG Wholesale HQ lists OP-17 from A$118.94, against our A$176.58 of goods, so the low ask is A$57.64 cheaper, but that ask is the bottom of a box-to-case range, shipping is calculated at checkout, and duties and import taxes are the buyer's responsibility. The eBay comparison is mixed: OP Box Index eBay medians from November 10, 2026 put OP-07 at $80 against our $134.32, so we are $54.32 dearer, and OP-01 from $200 against our $238.45, so we are $38.45 above the lowest ask. CardZ last-sold figures from November 9, 2026 put OP-17 at $69.20 against our $121.28 and PRB-02 at $63.19 against our $74.82, so we are $52.08 and $11.63 dearer, but a last-sold figure is one completed sale, not a market price. Compare landed cost against the delivered ask."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Goods A$",
+            "Per pack",
+            "Landed cost",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "OP-15 Adventure on KAMI's Island",
+              "A$101.16",
+              "A$4.22",
+              "A$101.16",
+              "Cheapest pack, open it"
+            ],
+            [
+              "OP-18 The Dominance of God (pre-order)",
+              "A$122.30",
+              "A$5.10",
+              "A$122.30",
+              "Newest set, second-cheapest pack"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "A$108.94",
+              "Per box only",
+              "A$108.94",
+              "Cheapest premium entry"
+            ],
+            [
+              "OP-01 Romance Dawn",
+              "A$347.18",
+              "A$14.47",
+              "A$347.18",
+              "Origin set, collector only"
+            ],
+            [
+              "OP-02 Paramount War",
+              "A$300.55",
+              "A$12.52",
+              "A$300.55",
+              "Case is the real bargain"
+            ],
+            [
+              "OP-17 World's Strongest Warriors",
+              "A$176.58",
+              "A$7.36",
+              "A$176.58",
+              "Anniversary set, check JToys first"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What is missing from other Australia One Piece price pages",
+        "paragraphs": [
+          "The top results for this query do not price a Japanese One Piece box in Australian dollars across a shelf at all: the first two are single-set shop pages for EB-05, the newest set, at A$199.00 and A$199.99, and the third is a wholesale listing showing a price range for one set, OP-17, from A$118.94 to A$1,679.91, with no per-pack division and duties excluded. None of them runs the A$1,000 line, names the 5% duty rate, or divides a case.",
+          "The second gap is the case division: no other page prices all twenty-four Japanese One Piece cases against their single boxes, and the result is that only two cases discount at the 5% duty rate, while twenty-one cost more per box than buying singly. The third gap is the JAEPA question: no other page notes that Japanese-origin goods may enter at 0% duty with valid origin documentation, so this page shows both ends."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Australia",
+        "paragraphs": [
+          "Pick the box from the board above, multiply the dollar price by 1.456, then check it against A$1,000. If it is under, the box clears at the border with no duty, GST or charges, unless the seller is registered for Australian GST, in which case 10% is charged at checkout. If the parcel is over, add 5% duty, then 10% GST on the goods plus duty plus freight and insurance, and expect a formal declaration and a processing charge. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying.",
+          "Orders over $500 ship free: a single OP-01 at $238.45 does not clear the line, but OP-01 with OP-02 and OP-15 at $514.35 does, so the trio saves shipping, and at A$748.89 of goods it still sits under the A$1,000 line and clears with no border charges. Store the box sealed and upright; our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers humidity and stacking. Keep the invoice with the parcel: it is the proof of customs value."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the case that costs more",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route: a box opened and re-shrunk looks sealed until opened. The only defence is factory-sealed stock from a seller whose reputation is on the line, checked against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. eBay carries the widest range of provenance, so the reseal check matters most there: the OP-07 gap above, $54.32 dearer on our shelf than the eBay median, is the price of that provenance.",
+          "The second risk is the reprint: a restock or reprint announcement can cut a premium the same week, and OP-01 at $238.45 carries the largest premium on this shelf, so the largest reprint risk. Check the live shelf price before paying: a price on this page is a stamp, not a promise. The third risk is format confusion: Japanese One Piece cards are not legal at most official Bandai tournaments outside Asia, so a player who buys them for an event abroad has bought the wrong product, however good the per-pack price looks.",
+          "The fourth risk is a case price that does not add up, and this page prints it rather than hiding it. In Australia the case is structurally disadvantaged: a single box clears the A$1,000 line with no border charges, while a case pays duty plus GST on its full value. The OP-01 case works out to A$392.60 a box against a A$347.18 single at 5% duty, OP-05 to A$314.58 against A$271.70, and OP-04 to A$313.00 against A$271.68, so all three cost more per box than buying singly. Only OP-02 and OP-03 overcome the duty and GST with a large enough discount. Divide before paying, on every set, forever."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Australian retail",
+        "paragraphs": [
+          "A Japanese store price is the honest anchor: OP-17 lists at JPY 240 a pack, so a 24-pack box lists at JPY 5,760, about $37.40 at 154 yen to the dollar, and our OP-17 at $121.28 is 3.24 times that list. Samurai Sword Tokyo listed OP-01 at JPY 38,901 on October 15, 2026, about $252.60, with the lowest SNKRDUNK ask at JPY 38,000, about $246.75. Our OP-01 at $238.45 sits $14.15 below the store price and $8.30 below the lowest ask. The OP Box Index range from November 10, 2026 runs $80 to $261; our shelf runs $69.48 to $238.45, so our dearest box sits $22.55 below the index top and our OP-07 sits $54.32 above the index bottom.",
+          "The English comparison is a different product: the English OP-17 sealed box carried a TCGplayer market price of $307.34 on October 19, 2026, against our Japanese OP-17 at $121.28, and Bandai's English booster is $4.99 a pack. An English box costs more because it is the tournament-legal product outside Asia. Buy English to play outside Asia; buy Japanese to collect."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card. If the card is a manga-rare Luffy or a single Leader, the single is cheaper. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card, and Bandai publishes no pull rates. It is not for a buyer who wants English card text or tournament legality outside Asia: Japanese cards are not legal at most Bandai events outside Asia."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its goods value in Australian dollars, not its dollar price.",
+          "Check the goods value against A$1,000 before anything else: all twenty-four boxes clear it, every case does not.",
+          "Remember there is no border charge on a box under the line, but GST can still be charged at checkout if the seller is registered.",
+          "Check the duty rate before buying a case: 5% at the general rate, 0% possible under JAEPA with valid origin documentation.",
+          "Divide every case before paying: only OP-02 and OP-03 discount at the 5% duty rate, and twenty-one cases cost more per box than the single.",
+          "Remember a single OP-01 at $238.45 does not clear the $500 free-shipping line, but OP-01 with OP-02 and OP-15 at $514.35 does, and the trio still sits under A$1,000.",
+          "Compare the JToys delivered ask against the landed cost plus shipping, not against the goods price.",
+          "Confirm the shipping quote and the GST treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel."
+        ],
+        "h": "Action layer: the Australia buyer's checklist",
+        "paragraphs": [
+          "For the Australia hub, the [buying Japanese TCG cards in Australia guide](/blog/buying-japanese-tcg-cards-in-australia/) runs the same A$1,000 line across all four games. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Australia price guide](/blog/japanese-pokemon-booster-box-australia-price/) runs the same line across the ninety Pokemon boxes."
+        ]
+      }
+    ],
+    "slug": "japanese-one-piece-booster-box-australia",
+    "takeaway": [
+      "Every Japanese One Piece booster box shipped to Australia clears the border with no duty or GST, because the line is A$1,000 of customs value and all twenty-four boxes on our shelf sit under it on goods value alone, from OP-15 at A$101.16 to OP-01 at A$347.18. Every sealed case sits over the line and pays 5% duty plus 10% GST. The cheapest pack on the shelf is OP-15 at A$4.22, and the dearest box is OP-01 Romance Dawn at A$347.18 of goods.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at A$1.456 to the dollar, with duty and GST calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the A$1,000 check on the customs value, not the parcel total, because freight and insurance are excluded from the customs value, and low-value goods shipped as one consignment totalling over A$1,000 are taxed at the border.",
+      "For the Australia hub this guide sits inside, the [buying Japanese TCG cards in Australia guide](/blog/buying-japanese-tcg-cards-in-australia/) runs the same A$1,000 line across all four games, with Pokemon, Dragon Ball and Lorcana in Australian dollars. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Australia price guide](/blog/japanese-pokemon-booster-box-australia-price/) runs the same line across the ninety Pokemon boxes."
+    ]
+  },
   "japanese-one-piece-booster-box-philippines-price": {
     "datePublished": "2026-11-11",
     "faqs": [
@@ -17120,6 +17334,218 @@ export const POSTS: Record<string, BlogPost> = {
       "One Japanese One Piece booster box shipped to the Philippines clears the border with no duty or VAT, because the line is PHP 10,000 of FOB value and fifteen of the twenty-four boxes on our shelf sit under it on goods value alone. Processing charges of PHP 130.00 to PHP 375.20 still apply, and a box over the line pays duty at 3 to 15% plus 12% VAT. The cheapest pack on the shelf is OP-15 at PHP 183.14, and the dearest box is OP-01 Romance Dawn at PHP 15,084.35 of goods.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at PHP 63.26 to the dollar, with duty and VAT calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the PHP 10,000 check on the FOB goods value, not the parcel total, because shipping never pushes a parcel over the line and same-day parcels to the same recipient combine.",
       "For the Philippines hub this guide sits inside, the [buying Japanese TCG cards in Philippines guide](/blog/buying-japanese-tcg-cards-in-philippines/) runs the same PHP 10,000 line across all four games, with Pokemon, Dragon Ball and Lorcana in Philippine pesos. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Philippines price guide](/blog/japanese-pokemon-booster-box-philippines-price/) runs the same line across the ninety Pokemon boxes."
+    ]
+  },
+  "japanese-one-piece-booster-box-singapore": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Not at the border, if the CIF value is S$400 or less: all twenty-four boxes on our shelf clear on goods value alone, from OP-15 at S$89.09 to OP-01 at S$305.76. Freight and insurance still count toward the S$400 test, unless the shipping is free, in which case Singapore Customs does not add it to the CIF value. If the seller is GST-registered in Singapore, the 9% is charged at checkout instead. Above the line, GST is 9% on the full value, so a sealed case lands at goods times 1.09: the OP-15 case lands at S$1,140.53 before shipping.",
+        "q": "Will I pay GST on one Japanese One Piece booster box shipped to Singapore?"
+      },
+      {
+        "a": "It depends on the set, and only three cases discount. The OP-02 case costs S$2,545.85 in goods and lands at S$2,774.98 with GST, working out to S$231.25 a box, saving S$33.44 a box against the single. The OP-03 case costs S$2,164.28 in goods and lands at S$2,359.07, working out to S$196.59 a box, saving S$28.81 a box. The OP-01 case runs the other way: S$3,592.32 in goods lands at S$3,915.63, which is S$326.30 a box, S$20.54 more per box than the single. Divide the case for the set you want; the format alone does not save money.",
+        "q": "What does a sealed One Piece case cost to land in Singapore?"
+      },
+      {
+        "a": "Mixed, and this page names the gap. Our OP-07 at $134.32 is $54.32 above the OP Box Index eBay median of $80, and our OP-17 at $121.28 is $52.08 above the CardZ last-sold figure of $69.20, though a last-sold figure is one completed sale, not a market price. Against a Japanese store we are cheaper: our OP-01 at $238.45 is $14.15 below the Samurai Sword Tokyo store price of about $252.60. Carousell lists OP-16 preorders at S$100 to S$130 against our S$134.64 of goods, so the reservation asks less, but a reservation is not a box in hand. Compare the landed cost, not the goods price, and weigh sealed provenance against the saving.",
+        "q": "Is the Warehouse price cheaper than buying locally in Singapore or on eBay?"
+      }
+    ],
+    "h1": "Japanese One Piece Booster Box Prices in Singapore: Every Box Landed, in Dollars",
+    "intro": [
+      "Every Japanese One Piece booster box on our shelf sits under the S$400 GST line on goods value alone, from OP-15 at S$89.09 to OP-01 at S$305.76, so a single box clears the border with no GST at import. Every sealed case sits over the line and pays 9% GST on the full value. This guide prices all 24 boxes in Singapore dollars, runs the landed cost for a box and a case, and compares Japan-direct with Carousell Singapore and Generation Games. Prices as of November 11, 2026, converted at S$1.2823 to the dollar, the Finnhub rate on November 11, 2026.",
+      "The cheapest box per pack is OP-15 at S$3.71, and the dearest box is OP-01 at S$305.76 of goods."
+    ],
+    "metaDescription": "Every Japanese One Piece booster box price in Singapore dollars as of November 11, 2026: the S$400 GST line, per-pack math, and case divisions.",
+    "metaTitle": "Japanese One Piece Booster Box Prices Singapore",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: S$400 is the line, and every box sits under it",
+        "paragraphs": [
+          "Singapore grants GST import relief on goods imported by air or post with a total CIF value of S$400 or less, and trading cards are non-dutiable, so the only tax in play is the 9% GST. CIF is the parcel as it lands: goods plus insurance plus freight. Above S$400, GST is payable on the entire shipment value, not just the excess. The 9% rate has applied since January 1, 2024 (Singapore Customs, IRAS).",
+          "All twenty-four Japanese One Piece boxes on our shelf sit under the line on goods value alone, from OP-15 at S$89.09 up to OP-01 at S$305.76. That is goods value, not CIF: freight and insurance still count toward the S$400 test, so a dear box with expensive shipping can cross it. Two rules soften that: parcels arriving on the same flight to the same importer combine for the test, and if the seller provides free shipping, Singapore Customs does not add freight to the CIF value, so a free-shipping order's CIF is the goods value alone.",
+          "Since January 1, 2023, the Overseas Vendor Registration regime means low-value goods bought from a GST-registered overseas seller are charged GST at checkout instead of at the border, but only when the seller crosses both thresholds, global turnover above S$1 million and Singapore B2C sales above S$100,000 a year. Our shelf prices are listed in US dollars, and the exact GST treatment of an order is confirmed at checkout or on WhatsApp, because it depends on the seller's registration status and the shipping."
+        ]
+      },
+      {
+        "h": "The money layer: the full board in Singapore dollars",
+        "math": [
+          "OP-15 box: $69.48 x S$1.2823 = S$89.09; S$89.09 / 24 packs = S$3.71 per pack; S$3.71 / 6 cards = S$0.62 per card",
+          "PRB-02 box: $74.82 x S$1.2823 = S$95.94 of goods; per box only, no packs-per-box figure printed",
+          "OP-18 box: $84.00 x S$1.2823 = S$107.71; S$107.71 / 24 packs = S$4.49 per pack; S$4.49 / 6 cards = S$0.75 per card",
+          "EB-04 box: $91.03 x S$1.2823 = S$116.73; S$116.73 / 24 packs = S$4.86 per pack; S$4.86 / 6 cards = S$0.81 per card",
+          "OP-16 box: $105.00 x S$1.2823 = S$134.64; S$134.64 / 24 packs = S$5.61 per pack; S$5.61 / 6 cards = S$0.94 per card",
+          "OP-17 box: $121.28 x S$1.2823 = S$155.52; S$155.52 / 24 packs = S$6.48 per pack; S$6.48 / 6 cards = S$1.08 per card",
+          "OP-12 box: $129.79 x S$1.2823 = S$166.43; S$166.43 / 24 packs = S$6.93 per pack; S$6.93 / 6 cards = S$1.16 per card",
+          "OP-13 box: $135.00 x S$1.2823 = S$173.11; S$173.11 / 24 packs = S$7.21 per pack; S$7.21 / 6 cards = S$1.20 per card",
+          "OP-07 box: $134.32 x S$1.2823 = S$172.24; S$172.24 / 24 packs = S$7.18 per pack; S$7.18 / 6 cards = S$1.20 per card",
+          "PRB-01 box: $149.63 x S$1.2823 = S$191.87; S$191.87 / 10 packs = S$19.19 per pack; S$19.19 / 10 cards = S$1.92 per card",
+          "EB-01 box: $155.04 x S$1.2823 = S$198.81; S$198.81 / 24 packs = S$8.28 per pack; S$8.28 / 6 cards = S$1.38 per card",
+          "OP-01 box: $238.45 x S$1.2823 = S$305.76; S$305.76 / 24 packs = S$12.74 per pack; S$12.74 / 6 cards = S$2.12 per card",
+          "OP-02 box: $206.42 x S$1.2823 = S$264.69; S$264.69 / 24 packs = S$11.03 per pack; S$11.03 / 6 cards = S$1.84 per card",
+          "OP-05 box: $186.61 x S$1.2823 = S$239.29; S$239.29 / 24 packs = S$9.97 per pack; S$9.97 / 6 cards = S$1.66 per card",
+          "OP-06 box: $165.86 x S$1.2823 = S$212.68; S$212.68 / 24 packs = S$8.86 per pack; S$8.86 / 6 cards = S$1.48 per card",
+          "OP-01 case: $2,801.47 x S$1.2823 = S$3,592.32 goods; S$3,592.32 x 1.09 = S$3,915.63 landed; S$3,915.63 / 12 boxes = S$326.30 per box; S$326.30 - single S$305.76 = S$20.54 more per box",
+          "OP-02 case: $1,985.38 x S$1.2823 = S$2,545.85 goods; S$2,545.85 x 1.09 = S$2,774.98 landed; S$2,774.98 / 12 boxes = S$231.25 per box; single S$264.69 - S$231.25 = S$33.44 saved per box",
+          "OP-03 case: $1,687.81 x S$1.2823 = S$2,164.28 goods; S$2,164.28 x 1.09 = S$2,359.07 landed; S$2,359.07 / 12 boxes = S$196.59 per box; single S$225.40 - S$196.59 = S$28.81 saved per box",
+          "OP-15 case: $816.00 x S$1.2823 = S$1,046.36 goods; S$1,046.36 x 1.09 = S$1,140.53 landed; S$1,140.53 / 12 boxes = S$95.04 per box; S$95.04 - single S$89.09 = S$5.95 more per box",
+          "OP-18 case: $906.00 x S$1.2823 = S$1,161.76 goods; S$1,161.76 x 1.09 = S$1,266.32 landed; S$1,266.32 / 12 boxes = S$105.53 per box; single S$107.71 - S$105.53 = S$2.18 saved per box",
+          "OP-17 case: $1,458.00 x S$1.2823 = S$1,869.59 goods; S$1,869.59 x 1.09 = S$2,037.85 landed; S$2,037.85 / 12 boxes = S$169.82 per box; S$169.82 - single S$155.52 = S$14.30 more per box",
+          "OP-05 case: $2,244.73 x S$1.2823 = S$2,878.42 goods; S$2,878.42 x 1.09 = S$3,137.48 landed; S$3,137.48 / 12 boxes = S$261.46 per box; S$261.46 - single S$239.29 = S$22.17 more per box",
+          "OP-07 case: $1,613.24 x S$1.2823 = S$2,068.66 goods; S$2,068.66 x 1.09 = S$2,254.84 landed; S$2,254.84 / 12 boxes = S$187.90 per box; S$187.90 - single S$172.24 = S$15.66 more per box",
+          "EB-04 case: $1,086.02 x S$1.2823 = S$1,392.60 goods; S$1,392.60 x 1.09 = S$1,517.93 landed; S$1,517.93 / 12 boxes = S$126.49 per box; S$126.49 - single S$116.73 = S$9.76 more per box",
+          "PRB-01 case: $1,489.57 x S$1.2823 = S$1,910.08 goods; S$1,910.08 x 1.09 = S$2,081.99 landed; S$2,081.99 / 10 boxes = S$208.20 per box; S$208.20 - single S$191.87 = S$16.33 more per box",
+          "PRB-02 case: $1,489.57 x S$1.2823 = S$1,910.08 goods; S$1,910.08 x 1.09 = S$2,081.99 landed; S$2,081.99 / 20 boxes = S$104.10 per box; S$104.10 - single S$95.94 = S$8.16 more per box",
+          "Whole box ladder: $3,394.77 x S$1.2823 = S$4,353.11 of goods, all twenty-four boxes under the S$400 line on goods value",
+          "Whole case ladder: $39,858.31 x S$1.2823 = S$51,110.31 of goods; x 1.09 = S$55,710.24 landed, every case over the S$400 line",
+          "OP-15 + PRB-02 pairing: S$89.09 + S$95.94 = S$185.03 of goods, under the line",
+          "OP-15 + OP-18 pairing: S$89.09 + S$107.71 = S$196.80 of goods, under the line",
+          "Two OP-15 pairing: 2 x S$89.09 = S$178.18 of goods, under the line",
+          "OP-01 + OP-02 pairing: S$305.76 + S$264.69 = S$570.45 of goods, over the line; S$570.45 x 0.09 = S$51.34 GST, landed S$621.79",
+          "Free-shipping trio OP-01 + OP-02 + OP-15: $514.35 x S$1.2823 = S$659.55 of goods, over the line; S$659.55 x 0.09 = S$59.36 GST, landed S$718.91; free shipping is not added to CIF, so the CIF is the goods value alone",
+          "Samurai Sword OP-01: JPY 38,901 / 154 = $252.60; our $238.45 is $14.15 cheaper",
+          "SNKRDUNK OP-01 lowest ask: JPY 38,000 / 154 = $246.75; our $238.45 is $8.30 cheaper",
+          "CardZ OP-17 last sold: our $121.28 - $69.20 = $52.08 dearer (one completed sale, not a market price)",
+          "CardZ PRB-02 last sold: our $74.82 - $63.19 = $11.63 dearer (one completed sale, not a market price)",
+          "OP Box Index OP-07 eBay median: our $134.32 - $80.00 = $54.32 dearer",
+          "OP Box Index OP-01 eBay floor: our $238.45 - $200.00 = $38.45 above the lowest eBay ask",
+          "OP Box Index EB-01 eBay floor: our $155.04 - $110.00 = $45.04 above the lowest eBay ask",
+          "Carousell OP-16 preorder: our $105.00 x S$1.2823 = S$134.64 of goods against a S$100 to S$130 reservation",
+          "Generation Games EB-05: S$139.90 for the newest set, not on our shelf",
+          "Free shipping: OP-01 + OP-02 + OP-15: $238.45 + $206.42 + $69.48 = $514.35, clears the $500 line"
+        ],
+        "paragraphs": [
+          "Twenty-four Japanese One Piece booster boxes are in stock, $69.48 to $238.45, a $3,394.77 shelf, as of November 11, 2026. Goods value is S$4,353.11, all of it under the S$400 line. Every dollar figure is the shelf price multiplied by 1.2823, the Finnhub rate on November 11, 2026. A standard box holds 24 packs of 6 cards. Two exceptions: Extra Booster per-pack figures use the 24-pack box shown in retail listings, because Bandai prints no packs-per-box figure for EB-01 through EB-04, and PRB-01 is 10 packs of 10 cards on a listing basis, while PRB-02 carries no packs-per-box figure and is priced per box only.",
+          "Under S$100 (2 boxes): 89.09: OP-15 Adventure on KAMI's Island; 95.94: PRB-02 The Best vol.2.",
+          "S$100 to S$200 (13 boxes): 107.71: OP-18 The Dominance of God; 116.73: EB-04 Egghead Crisis; 126.00: OP-14 Azure Sea's Seven; 126.00: OP-10 Royal Blood; 126.00: OP-08 Two Legends; 134.64: OP-16 The Time of Battle; 155.52: OP-17 World's Strongest Warriors; 166.43: OP-12 Legacy of the Master; 172.24: OP-07 500 Years in the Future; 173.11: OP-13 Carrying on His Will; 191.87: PRB-01 The Best; 198.81: EB-03 Heroines Edition; 198.81: EB-01 Memorial Collection.",
+          "S$200 to S$300 (8 boxes): 212.68: OP-06 Wings of the Captain; 225.40: OP-09 Emperors in the New World; 225.40: OP-03 Pillars of Strength; 229.35: EB-02 Anime 25th Collection; 232.37: OP-11 A Fist of Divine Speed; 239.26: OP-04 Kingdoms of Intrigue; 239.29: OP-05 Awakening of the New Era; 264.69: OP-02 Paramount War.",
+          "Over S$300 (1 box): 305.76: OP-01 Romance Dawn.",
+          "[OP-15 Adventure on KAMI's Island](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) is the cheapest box per pack at S$3.71, or S$0.62 a card. [OP-18 The Dominance of God](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/), on pre-order for its Japanese release on November 21, 2026, is second-cheapest at S$4.49 a pack. [OP-01 Romance Dawn](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) is the dearest main-set box at S$12.74 a pack, or S$2.12 a card; PRB-01 divides dearer per pack on a listing basis, at S$19.19, but it holds 10 cards a pack. [PRB-02 The Best vol.2](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) at S$95.94 and [PRB-01 The Best](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) at S$191.87 are priced per box only for PRB-02 and per pack on a listing basis for PRB-01, because Bandai prints no packs-per-box figure for the Premium Boosters. OP-14, OP-10 and OP-08 all sit at exactly S$126.00 and divide to S$5.25 a pack.",
+          "The case column splits the shelf the other way: only three cases discount. The OP-02 case works out to S$231.25 a box against a S$264.69 single, saving S$33.44 a box, the OP-03 case works out to S$196.59 a box against a S$225.40 single, saving S$28.81 a box, and the OP-18 case works out to S$105.53 a box against a S$107.71 single, saving S$2.18 a box. The other twenty-one cases cost more per box than the single, because a single box clears the S$400 line with no GST while a case pays 9% on its full value. The dearest extras are OP-05 at S$22.17 a box, OP-04 at S$20.88 and OP-01 at S$20.54. The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) guide runs the same division, and the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the same twenty-four boxes in dollars.",
+          "Two boxes in one parcel combine for the S$400 test. OP-15 with PRB-02 is S$185.03 of goods, under the line; OP-15 with OP-18 is S$196.80, under the line; two OP-15 boxes are S$178.18, under the line. OP-01 with OP-02 is S$570.45 of goods, over the line, so the pair pays S$51.34 of GST and lands at S$621.79 before shipping. The free-shipping trio, OP-01 with OP-02 and OP-15 at $514.35, is S$659.55 of goods and lands at S$718.91 with GST, and because the shipping is free it is not added to the CIF value."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Carousell vs Generation Games",
+        "note": "From the Warehouse: the question we get most from Singapore buyers is whether the S$400 line means a box under it is free to land. It is not free of tax altogether: if the seller is GST-registered in Singapore, the 9% is charged at checkout instead of at the border. What the line does is keep the border out of it. The only number that matters for a box is its CIF value against S$400, and every figure on this page is built from that division.",
+        "paragraphs": [
+          "A Singapore buyer has three real routes: Japan-direct, a sealed box shipped from Japan, priced in dollars, with the border charges on this page; Carousell Singapore, stock already in Singapore, priced in dollars by local sellers, with the import already done; and Generation Games, a Singapore shop with stock on hand, priced in Singapore dollars.",
+          "The Carousell comparison is a preorder market, and this page says so plainly. Carousell lists OP-16 preorders with a Japanese box reservation at S$100 to S$130, against our OP-16 at S$134.64 of goods, so the reservation asks less before shipping and GST. A reservation is not a box in hand: the buyer pays a deposit, waits for the release, and the seller's allocation decides whether the box arrives. Generation Games lists the newest set, EB-05 Heroines Edition Vol. 2, at S$139.90 with 23 in stock, released October 30, 2026. EB-05 is not on our shelf, so a buyer who wants it today buys it in Singapore.",
+          "The eBay comparison is mixed. OP Box Index eBay medians from November 10, 2026 put OP-07 at $80 against our $134.32, so we are $54.32 dearer, and OP-01 from $200 against our $238.45, so we are $38.45 above the lowest eBay ask. CardZ last-sold figures from November 9, 2026 put OP-17 at $69.20 against our $121.28 and PRB-02 at $63.19 against our $74.82, so we are $52.08 and $11.63 dearer, but a last-sold figure is one completed sale, not a market price. Against a Japanese store we are cheaper: Samurai Sword Tokyo listed OP-01 at JPY 38,901 on October 15, 2026, about $252.60, against our $238.45. Compare landed cost against the delivered ask."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Goods S$",
+            "Per pack",
+            "Landed cost",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "OP-15 Adventure on KAMI's Island",
+              "S$89.09",
+              "S$3.71",
+              "S$89.09",
+              "Cheapest pack, open it"
+            ],
+            [
+              "OP-18 The Dominance of God (pre-order)",
+              "S$107.71",
+              "S$4.49",
+              "S$107.71",
+              "Newest set, second-cheapest pack"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "S$95.94",
+              "Per box only",
+              "S$95.94",
+              "Cheapest premium entry"
+            ],
+            [
+              "OP-01 Romance Dawn",
+              "S$305.76",
+              "S$12.74",
+              "S$305.76",
+              "Origin set, collector only"
+            ],
+            [
+              "OP-02 Paramount War",
+              "S$264.69",
+              "S$11.03",
+              "S$264.69",
+              "Case is the real bargain"
+            ],
+            [
+              "OP-17 World's Strongest Warriors",
+              "S$155.52",
+              "S$6.48",
+              "S$155.52",
+              "Anniversary set, check Carousell first"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What is missing from other Singapore One Piece price pages",
+        "paragraphs": [
+          "The top results for this query do not price a Japanese One Piece box in Singapore dollars at all: the first is a Carousell preorder page quoting a reservation range for one set, the second a Japan proxy guide pricing one set through Mercari and Rakuten, and the third a Singapore shop page for one set, EB-05. None of them runs the S$400 line, names the CIF rule, or divides a case.",
+          "The second gap is the case division: no other page prices all twenty-four Japanese One Piece cases against their single boxes, and the result is that only two cases discount heavily, OP-02 and OP-03, while twenty-one cost more per box than buying singly, because a single box clears the S$400 line with no GST and a case pays 9% on its full value. The third gap is the free-shipping rule: no other page warns that free shipping is not added to the CIF value, so a $500 order can clear the line on goods alone."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Singapore",
+        "paragraphs": [
+          "Pick the box from the board above, multiply the dollar price by 1.2823, then check it against S$400. If it is under, the box clears at the border with no GST charged at import, unless the seller is GST-registered in Singapore, in which case the 9% is charged at checkout. If the parcel is over, multiply by 1.09 for the landed cost before shipping. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying.",
+          "Orders over $500 ship free: a single OP-01 at $238.45 does not clear the line, but OP-01 with OP-02 and OP-15 at $514.35 does, so the trio saves shipping, and free shipping is not added to the CIF value. Store the box sealed and upright; our [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) guide covers the humidity and stacking rules. Keep the invoice with the parcel: it is the proof of the goods value if customs asks."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, reprints, and the case that costs more",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route: a box opened and re-shrunk looks sealed until it is opened. The only defence is factory-sealed stock from a seller whose reputation is on the line, checked against our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before opening. Carousell carries the widest Singapore stock, so the reseal check matters most there: the OP-07 gap above, $54.32 dearer on our shelf than the eBay median, is the price of that provenance.",
+          "The second risk is the reprint: a restock or reprint announcement can cut a premium the same week, and OP-01 at $238.45 carries the largest premium on this shelf, so it carries the largest reprint risk. Check the live shelf price before paying: a price on this page is a stamp, not a promise. The third risk is format confusion: Japanese One Piece cards are not legal at most official Bandai tournaments outside Asia, so a player who buys them for an event abroad has bought the wrong product, however good the per-pack price looks.",
+          "The fourth risk is a case price that does not add up, and this page prints it rather than hiding it. In Singapore the case is structurally disadvantaged: a single box clears the S$400 line with no GST, while a case pays 9% on its full value. The OP-05 case works out to S$261.46 a box against a S$239.29 single, OP-04 to S$260.14 against S$239.26, and OP-01 to S$326.30 against S$305.76, so all three cost more per box than buying singly. Only OP-02, OP-03 and OP-18 overcome the GST with a large enough discount. Divide before paying, on every set, forever."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Singapore retail",
+        "paragraphs": [
+          "A Japanese store price is the honest anchor. OP-17 lists at JPY 240 a pack, so a 24-pack box lists at JPY 5,760, about $37.40 at 154 yen to the dollar. Our OP-17 at $121.28 is 3.24 times that list. Samurai Sword Tokyo listed OP-01 at JPY 38,901 on October 15, 2026, about $252.60, with the lowest SNKRDUNK ask at JPY 38,000, about $246.75. Our OP-01 at $238.45 sits $14.15 below the store price and $8.30 below the lowest ask. The OP Box Index range from November 10, 2026 runs $80 to $261; our shelf runs $69.48 to $238.45, so our dearest box sits $22.55 below the index top and our OP-07 sits $54.32 above the index bottom.",
+          "The English comparison is a different product: the English OP-17 sealed box carried a TCGplayer market price of $307.34 on October 19, 2026, against our Japanese OP-17 at $121.28, and Bandai's English booster is $4.99 a pack. An English box costs more because it is the tournament-legal product outside Asia. Buy English to play outside Asia; buy Japanese to collect. The [Japanese Pokemon booster box Singapore price guide](/blog/japanese-pokemon-booster-box-singapore-price/) runs the same S$400 line across the ninety Pokemon boxes."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card. If the card is a manga-rare Luffy or a single Leader, the single is cheaper. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card, and Bandai publishes no pull rates. It is not for a buyer who wants English card text or tournament legality outside Asia: Japanese cards are not legal at most Bandai events outside Asia."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its goods value in Singapore dollars, not its dollar price.",
+          "Check the goods value against S$400 before anything else: all twenty-four boxes clear it, every case does not.",
+          "Remember freight and insurance count toward the S$400 test, unless the shipping is free: an order over $500 ships free and its CIF is the goods value alone.",
+          "Remember parcels on the same flight to the same importer combine: OP-01 with OP-02 is S$570.45, over the line.",
+          "Divide every case before paying: only OP-02, OP-03 and OP-18 discount at all, and twenty-one cases cost more per box than the single.",
+          "Remember a single OP-01 at $238.45 does not clear the $500 free-shipping line, but OP-01 with OP-02 and OP-15 at $514.35 does.",
+          "Confirm the shipping quote and the GST treatment at checkout or on WhatsApp before paying, and keep the invoice with the parcel.",
+          "Check whether the seller is GST-registered in Singapore: if it is, the 9% is charged at checkout, not at the border."
+        ],
+        "h": "Action layer: the Singapore buyer's checklist",
+        "paragraphs": [
+          "Work the list and the box you buy is the box you meant to buy. For the Singapore hub this guide sits inside, the [buying Japanese TCG cards in Singapore guide](/blog/buying-japanese-tcg-cards-in-singapore/) runs the same S$400 line across all four games. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Singapore price guide](/blog/japanese-pokemon-booster-box-singapore-price/) runs the same line across the ninety Pokemon boxes."
+        ]
+      }
+    ],
+    "slug": "japanese-one-piece-booster-box-singapore",
+    "takeaway": [
+      "Every Japanese One Piece booster box shipped to Singapore sits under the S$400 GST line on goods value, because the line is S$400 of CIF value and all twenty-four boxes on our shelf sit under it on goods value alone, from OP-15 at S$89.09 to OP-01 at S$305.76. Every sealed case sits over the line and pays 9% GST on the full value. The cheapest pack on the shelf is OP-15 at S$3.71, and the dearest box is OP-01 Romance Dawn at S$305.76 of goods.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at S$1.2823 to the dollar, with GST calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the S$400 check on the CIF value, not the goods value alone, because freight and insurance count unless the shipping is free, and parcels on the same flight to the same importer combine.",
+      "For the Singapore hub this guide sits inside, the [buying Japanese TCG cards in Singapore guide](/blog/buying-japanese-tcg-cards-in-singapore/) runs the same S$400 line across all four games, with Pokemon, Dragon Ball and Lorcana in Singapore dollars. For the same twenty-four boxes without the conversion, the [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/) is the dollar original, and the [Japanese Pokemon booster box Singapore price guide](/blog/japanese-pokemon-booster-box-singapore-price/) runs the same line across the ninety Pokemon boxes."
     ]
   },
   "japanese-one-piece-cards-price": {
