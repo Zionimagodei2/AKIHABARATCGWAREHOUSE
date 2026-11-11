@@ -5150,7 +5150,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the pack question in depth, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides all eighteen main sets and four Extra Boosters to the pack — OP-15 at $2.90, OP-18 at $3.50 on pre-order, OP-01 at $9.94.",
       "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases.",
       "New this cycle: the [Japanese One Piece cards price index](/blog/japanese-one-piece-cards-price/) prices every set in both languages in one table, with the JP-versus-EN gap and the case division for each.",
-      "New this cycle: the [One Piece Japanese booster box price index](/blog/one-piece-japanese-booster-box-price/) divides all twenty-four Japanese boxes and their cases from the same live prices — OP-15 at $2.90 a pack against OP-01 at $9.94, with the eleven cases that cost more than singles."
+      "New this cycle: the [One Piece Japanese booster box price index](/blog/one-piece-japanese-booster-box-price/) divides all twenty-four Japanese boxes and their cases from the same live prices — OP-15 at $2.90 a pack against OP-01 at $9.94, with the eleven cases that cost more than singles.",
+      "New this cycle: the [Comprar cartas One Piece japonesas en España](/blog/comprar-cartas-one-piece-japonesas/) prices all twenty-four Japanese One Piece boxes in euros, with the €150 line and the 21% IVA landed cost on every box and case."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -11510,7 +11511,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Buying TCG from Japan is not a shortcut around cost; it is a choice about where cost and risk sit. Proxies move both onto you and call the difference savings. Marketplaces split them unpredictably. A specialist store prices them into the shelf and answers for them. Any of the three can be the right answer — for a buyer who has written the stack down, priced the total-loss case, and checked their own customs rules first.",
       "If you would rather skip the stack entirely, that is precisely the shelf we run: browse [Japanese TCG](/japanese-tcg/) and let the Warehouse carry the chain, the inspection, and the risk — while you just open the box. Choosing the shop itself is a separate decision: [the best Japanese card shop online](/blog/best-japanese-card-shop-online/) runs the six checks — real stock, sealed authenticity, landed cost, and the duty position now that de minimis is dead. Country buyers can skip the general math: the [Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) runs the S$400 GST line in SGD, and the [Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) runs the ₱10,000 de minimis line in pesos.",
       "Whichever route you choose, verify what lands: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) is the card-level check to run the day a parcel arrives, before the dispute window closes. The country hubs run the same numbers for a single destination: [buying Japanese TCG cards in the Netherlands](/blog/buying-japanese-tcg-cards-in-netherlands/) works the €3 duty and 21% BTW, and [membeli kartu TCG Jepang di Indonesia](/blog/membeli-kartu-tcg-jepang-di-indonesia/) works the 7,5% duty and 11% VAT in rupiah. [Buying Japanese TCG cards in Thailand](/blog/buying-japanese-tcg-cards-in-thailand/) works the abolished ฿1,500 line and 7% VAT in baht, and [comprar cartas TCG japonesas en España](/blog/comprar-cartas-tcg-japonesas-en-espana/) works the €3 duty, €2 fee and 21% IVA in euros.",
-      "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf on one ladder, and the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) divides all fourteen Lorcana cases."
+      "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf on one ladder, and the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) divides all fourteen Lorcana cases.",
+      "New this cycle: the [Japanese TCG cards shipping to Spain](/blog/japanese-tcg-cards-shipping-to-spain/) works the full Japan-to-Spain shipping, customs and IVA walkthrough with landed costs in euros for all four games."
     ]
   },
   "caja-pokemon-japonesa-sellada-espana-precio": {
@@ -11949,6 +11951,226 @@ export const POSTS: Record<string, BlogPost> = {
       "For the same shelf ranked by buyer instead of by price, see [Best Japanese Pokémon Booster Box](/blog/best-japanese-pokemon-booster-box/). For the best-value ladder in full, see [Best Value Japanese Pokémon Booster Boxes](/blog/best-value-japanese-pokemon-booster-boxes/). For the case-versus-box division, see [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). For whether to open or hold, see [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/)."
     ]
   },
+  "comprar-cartas-one-piece-japonesas": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Cada caja paga el 21 % de IVA desde el primer euro, más un arancel fijo de 3 € por categoría y una tasa de 2 € por categoría por debajo de 150 €. De las veinticuatro cajas, 16 quedan por debajo y 8 por encima: una OP-15 landed es de 80.17 € antes del envío, y una OP-01 landed es de un suelo de 257.94 €, con el arancel por determinar y la tasa de 2 € también por encima de la línea.",
+        "q": "¿Cuánto IVA y arancel pago por una caja One Piece japonesa enviada a España?"
+      },
+      {
+        "a": "Depende del set, y en España casi siempre sí. El case OP-02 cuesta 1,774.93 € en mercancía y landed es de un suelo de 2,147.67 €, o 178.97 € por caja, frente a una OP-02 en 223.29 €: ahorra 44.32 € por caja. El case OP-03 cuesta 1,508.90 € en mercancía y landed es de un suelo de 1,825.77 €, o 152.15 € por caja, frente a una OP-03 en 190.15 €: ahorra 38.00 € por caja. El case OP-01 va casi plano: 2,504.51 € en mercancía landed en 3,030.46 €, que es 252.54 € por caja, 5.40 € contra la suelta landed. Divide el case del set que quieres; el formato solo no ahorra dinero.",
+        "q": "¿Sale más barato comprar el case sellado que doce cajas sueltas?"
+      },
+      {
+        "a": "Depende del set. TCG Fusion vende el sobre japonés OP-17 a 6.90 € con IVA incluido, mientras que nuestro landed por sobre es de 5.67 €, así que Japan-direct gana por 1.23 € por sobre antes del envío. Centro Paleta vende el sobre japonés OP-16 a 8.00 €, mientras que nuestro landed por sobre es de 4.94 €, así que Japan-direct gana por 3.06 € por sobre. En Cardmarket y en Wallapop no se encontró ningún precio sellado fechado de una caja japonesa One Piece a 11 de noviembre de 2026. En el mercado de referencia somos más caros: nuestro OP-07 a 134.32 $ es 54.32 $ más caro que la mediana eBay de 80.00 $, y nuestro OP-17 a 121.28 $ es 52.08 $ más caro que la última venta CardZ de 69.20 $, aunque una última venta es una venta completada, no un precio de mercado.",
+        "q": "¿Es más barato el Warehouse que Cardmarket, Wallapop o las tiendas españolas?"
+      }
+    ],
+    "h1": "Comprar Cartas One Piece Japonesas en España: las 24 Cajas, Landed en Euros",
+    "intro": [
+      "Una caja One Piece japonesa enviada a España paga el 21 % de IVA desde el primer euro, más un arancel fijo de 3 € por categoría y una tasa de 2 € por categoría mientras el paquete se mantenga por debajo de 150 €. Esta guía valora las 24 cajas landed en euros y compara Japan-direct contra Cardmarket, Wallapop y las tiendas españolas, a 11 de noviembre de 2026.",
+      "La caja más barata por sobre es OP-15 a 3.34 € landed, y la caja más cara es OP-01 a 213.17 € de mercancía."
+    ],
+    "metaDescription": "Las 24 cajas One Piece japonesas con precio landed en España: IVA 21 %, arancel 3 € + tasa 2 €, por sobre y por caja. A 11 de noviembre de 2026.",
+    "metaTitle": "Comprar Cartas One Piece Japonesas en España",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "La respuesta: 150 € es la línea, y no es un pase libre",
+        "paragraphs": [
+          "El IVA español no tiene umbral de valor bajo: desde el 1 de julio de 2021 el 21 % se debe en cada importación desde Japón, desde el primer euro. El vendedor puede cobrarlo por IOSS en el checkout; sin IOSS, el transportista lo cobra en la entrega. La línea de 150 € no decide si se paga IVA, sino qué arancel se suma y cómo se cobra.",
+          "El arancel cambió el 1 de julio de 2026: la exención de 150 € murió por el Reglamento (UE) 2026/382 y la sustituyó un arancel fijo de 3 € por categoría hasta el 1 de julio de 2028. Desde el 1 de noviembre de 2026 se suma una tasa de 2 € por categoría y el identificador de producto obligatorio, por el Reglamento (UE) 2026/2108. Por encima de 150 € se aplica el arancel normal TARIC sobre el CIF, más el 21 % de IVA. La línea de 150 € son 167.79 $: 16 cajas quedan por debajo y 8 por encima.",
+          "Las cifras se verificaron en la fuente oficial el 11 de noviembre de 2026: la Agencia Tributaria confirma los 3 € por categoría y la tasa de 2 € desde el 1 de noviembre, y Correos confirma que la tasa de 2 € se aplica a las ventas a distancia sea cual sea el valor. El suelo landed por encima de 150 € se queda corto en al menos 2 € por categoría, y el tipo TARIC del código HS 9504.40 no está verificado, así que esas cifras son un suelo del IVA y el arancel real puede subir el total."
+        ]
+      },
+      {
+        "h": "La capa de dinero: el tablero completo en euros, landed",
+        "math": [
+          "OP-15 box: $69.48 x €0.894 = €62.12 de mercancía; €62.12 x 1.21 + €5.00 = €80.17 landed; €80.17 / 24 sobres = €3.34 por sobre; €3.34 / 6 cartas = €0.56 por carta",
+          "PRB-02 box: $74.82 x €0.894 = €66.89 de mercancía; €66.89 x 1.21 + €5.00 = €85.94 landed; solo por caja, sin cifra de sobres por caja publicada",
+          "OP-18 box: $84.00 x €0.894 = €75.10 de mercancía; €75.10 x 1.21 + €5.00 = €95.87 landed; €95.87 / 24 sobres = €3.99 por sobre; €3.99 / 6 cartas = €0.67 por carta",
+          "EB-04 box: $91.03 x €0.894 = €81.38 de mercancía; €81.38 x 1.21 + €5.00 = €103.47 landed; €103.47 / 24 sobres = €4.31 por sobre; €4.31 / 6 cartas = €0.72 por carta",
+          "OP-16 box: $105.00 x €0.894 = €93.87 de mercancía; €93.87 x 1.21 + €5.00 = €118.58 landed; €118.58 / 24 sobres = €4.94 por sobre; €4.94 / 6 cartas = €0.82 por carta",
+          "OP-17 box: $121.28 x €0.894 = €108.42 de mercancía; €108.42 x 1.21 + €5.00 = €136.19 landed; €136.19 / 24 sobres = €5.67 por sobre; €5.67 / 6 cartas = €0.95 por carta",
+          "OP-12 box: $129.79 x €0.894 = €116.03 de mercancía; €116.03 x 1.21 + €5.00 = €145.40 landed; €145.40 / 24 sobres = €6.06 por sobre; €6.06 / 6 cartas = €1.01 por carta",
+          "OP-13 box: $135.00 x €0.894 = €120.69 de mercancía; €120.69 x 1.21 + €5.00 = €151.03 landed; €151.03 / 24 sobres = €6.29 por sobre; €6.29 / 6 cartas = €1.05 por carta",
+          "OP-07 box: $134.32 x €0.894 = €120.08 de mercancía; €120.08 x 1.21 + €5.00 = €150.30 landed; €150.30 / 24 sobres = €6.26 por sobre; €6.26 / 6 cartas = €1.04 por carta",
+          "PRB-01 box: $149.63 x €0.894 = €133.77 de mercancía; €133.77 x 1.21 + €5.00 = €166.86 landed; €166.86 / 10 sobres = €16.69 por sobre; €16.69 / 10 cartas = €1.67 por carta",
+          "EB-01 box: $155.04 x €0.894 = €138.61 de mercancía; €138.61 x 1.21 + €5.00 = €172.72 landed; €172.72 / 24 sobres = €7.20 por sobre; €7.20 / 6 cartas = €1.20 por carta",
+          "OP-01 box: $238.45 x €0.894 = €213.17 de mercancía; €213.17 x 1.21 = €257.94 landed (suelo, arancel por determinar); €257.94 / 24 sobres = €10.75 por sobre; €10.75 / 6 cartas = €1.79 por carta",
+          "OP-02 box: $206.42 x €0.894 = €184.54 de mercancía; €184.54 x 1.21 = €223.29 landed (suelo, arancel por determinar); €223.29 / 24 sobres = €9.30 por sobre; €9.30 / 6 cartas = €1.55 por carta",
+          "OP-05 box: $186.61 x €0.894 = €166.83 de mercancía; €166.83 x 1.21 = €201.86 landed (suelo, arancel por determinar); €201.86 / 24 sobres = €8.41 por sobre; €8.41 / 6 cartas = €1.40 por carta",
+          "OP-06 box: $165.86 x €0.894 = €148.28 de mercancía; €148.28 x 1.21 + €5.00 = €184.42 landed; €184.42 / 24 sobres = €7.68 por sobre; €7.68 / 6 cartas = €1.28 por carta",
+          "OP-01 case: $2,801.47 x €0.894 = €2,504.51 de mercancía; €2,504.51 x 1.21 = €3,030.46 landed (suelo, arancel por determinar); €3,030.46 / 12 cajas = €252.54 por caja; una sola landed €257.94 - €252.54 = €5.40 ahorrados por caja",
+          "OP-02 case: $1,985.38 x €0.894 = €1,774.93 de mercancía; €1,774.93 x 1.21 = €2,147.67 landed (suelo, arancel por determinar); €2,147.67 / 12 cajas = €178.97 por caja; una sola landed €223.29 - €178.97 = €44.32 ahorrados por caja",
+          "OP-03 case: $1,687.81 x €0.894 = €1,508.90 de mercancía; €1,508.90 x 1.21 = €1,825.77 landed (suelo, arancel por determinar); €1,825.77 / 12 cajas = €152.15 por caja; una sola landed €190.15 - €152.15 = €38.00 ahorrados por caja",
+          "OP-15 case: $816.00 x €0.894 = €729.50 de mercancía; €729.50 x 1.21 = €882.70 landed (suelo, arancel por determinar); €882.70 / 12 cajas = €73.56 por caja; una sola landed €80.17 - €73.56 = €6.61 ahorrados por caja",
+          "OP-18 case: $906.00 x €0.894 = €809.96 de mercancía; €809.96 x 1.21 = €980.05 landed (suelo, arancel por determinar); €980.05 / 12 cajas = €81.67 por caja; una sola landed €95.87 - €81.67 = €14.20 ahorrados por caja",
+          "OP-17 case: $1,458.00 x €0.894 = €1,303.45 de mercancía; €1,303.45 x 1.21 = €1,577.17 landed (suelo, arancel por determinar); €1,577.17 / 12 cajas = €131.43 por caja; una sola landed €136.19 - €131.43 = €4.76 ahorrados por caja",
+          "OP-05 case: $2,244.73 x €0.894 = €2,006.79 de mercancía; €2,006.79 x 1.21 = €2,428.22 landed (suelo, arancel por determinar); €2,428.22 / 12 cajas = €202.35 por caja; €202.35 por caja frente a una sola landed en €201.86, cuesta €0.49 más por caja",
+          "OP-07 case: $1,613.24 x €0.894 = €1,442.24 de mercancía; €1,442.24 x 1.21 = €1,745.11 landed (suelo, arancel por determinar); €1,745.11 / 12 cajas = €145.43 por caja; una sola landed €150.30 - €145.43 = €4.87 ahorrados por caja",
+          "EB-04 case: $1,086.02 x €0.894 = €970.90 de mercancía; €970.90 x 1.21 = €1,174.79 landed (suelo, arancel por determinar); €1,174.79 / 12 cajas = €97.90 por caja; una sola landed €103.47 - €97.90 = €5.57 ahorrados por caja",
+          "PRB-01 case: $1,489.57 x €0.894 = €1,331.68 de mercancía; €1,331.68 x 1.21 = €1,611.33 landed (suelo, arancel por determinar); €1,611.33 / 10 cajas = €161.13 por caja; una sola landed €166.86 - €161.13 = €5.73 ahorrados por caja",
+          "PRB-02 case: $1,489.57 x €0.894 = €1,331.68 de mercancía; €1,331.68 x 1.21 = €1,611.33 landed (suelo, arancel por determinar); €1,611.33 / 20 cajas = €80.57 por caja; una sola landed €85.94 - €80.57 = €5.37 ahorrados por caja",
+          "Tablero completo: $3,394.77 x €0.894 = €3,034.92 de mercancía; por debajo de 150 € $1,865.07 = €1,667.37 de mercancía, landed €2,097.54; por encima de 150 € $1,529.70 = €1,367.55 de mercancía, suelo landed €1,654.73; total landed €3,752.27 (suelo)",
+          "Tablero completo de cases: $39,858.31 x €0.894 = €35,633.33 de mercancía; x 1.21 = €43,116.35 landed (suelo, arancel por determinar), todos los cases por encima de la línea de 150 €",
+          "OP-15 + PRB-02 juntas: €62.12 + €66.89 = €129.01 de mercancía, por debajo de 150 €; €129.01 x 1.21 + €5.00 = €161.10 landed",
+          "OP-15 + OP-18 juntas: €62.12 + €75.10 = €137.22 de mercancía, por debajo de 150 €; €137.22 x 1.21 + €5.00 = €171.04 landed",
+          "Dos OP-15 juntas: 2 x €62.12 = €124.24 de mercancía, por debajo de 150 €; €124.24 x 1.21 + €5.00 = €155.33 landed",
+          "OP-01 + OP-02 juntas: €213.17 + €184.54 = €397.71 de mercancía, por encima de 150 €; €397.71 x 1.21 = €481.23 landed (suelo, arancel por determinar)",
+          "Trío de envío gratis OP-01 + OP-02 + OP-15: $514.35 x €0.894 = €459.83 de mercancía, por encima de 150 €; €459.83 x 1.21 = €556.39 landed (suelo, arancel por determinar)",
+          "Samurai Sword OP-01: JPY 38,901 / 154 = $252.60; nuestro $238.45 es $14.15 más barato",
+          "Samurai Sword OP-05: JPY 55,491 / 154 = $360.33; nuestro $186.61 es $173.72 más barato",
+          "Samurai Sword OP-17: JPY 10,950 / 154 = $71.10; nuestro $121.28 es $50.18 más caro",
+          "Samurai Sword OP-16: JPY 10,437 / 154 = $67.77; nuestro $105.00 es $37.23 más caro",
+          "SNKRDUNK OP-01 precio más bajo: JPY 38,000 / 154 = $246.75; nuestro $238.45 es $8.30 más barato",
+          "CardZ OP-17 última venta: nuestro $121.28 - $69.20 = $52.08 más caro (una venta completada, no un precio de mercado)",
+          "CardZ OP-15 última venta: nuestro $69.48 - $52.48 = $17.00 más caro (una venta completada, no un precio de mercado)",
+          "CardZ OP-14 última venta: nuestro $98.26 - $54.98 = $43.28 más caro (una venta completada, no un precio de mercado)",
+          "CardZ OP-10 última venta: nuestro $98.26 - $64.57 = $33.69 más caro (una venta completada, no un precio de mercado)",
+          "CardZ OP-13 última venta: nuestro $135.00 - $109.00 = $26.00 más caro (una venta completada, no un precio de mercado)",
+          "CardZ PRB-02 última venta: nuestro $74.82 - $63.19 = $11.63 más caro (una venta completada, no un precio de mercado)",
+          "OP Box Index OP-07 mediana eBay: nuestro $134.32 - $80.00 = $54.32 más caro",
+          "OP Box Index OP-01 suelo eBay: nuestro $238.45 - $200.00 = $38.45 por encima del precio más bajo en eBay",
+          "OP Box Index EB-01 suelo eBay: nuestro $155.04 - $110.00 = $45.04 por encima del precio más bajo en eBay",
+          "PriceCharting OP-01 mercado: nuestro $238.45 - $216.15 = $22.30 más caro (mercado PriceCharting, 11 nov 2026)",
+          "TCG Fusion sobre OP-17: nuestro por sobre landed €5.67 frente a 6.90 € en tienda, 1.23 € más barato por sobre antes del envío",
+          "Centro Paleta sobre OP-16: nuestro por sobre landed €4.94 frente a 8.00 € en tienda, 3.06 € más barato por sobre antes del envío",
+          "Catawiki 25 sobres OP-17 sueltos: 50.00 € / 25 = 2.00 € por sobre, sobres sueltos vendidos, no una caja sellada",
+          "OP-18 preventa en inglés: $234.00 el 10 nov 2026 frente a $119.76 MSRP = $114.24 por encima, 95% sobre el MSRP (onepiece.app, datos de mercado TCGplayer)",
+          "Envío gratis: OP-01 + OP-02 + OP-15: $238.45 + $206.42 + $69.48 = $514.35, supera la línea de $500"
+        ],
+        "paragraphs": [
+          "Veinticuatro cajas en stock, de 69.48 $ a 238.45 $, un estante de $3,394.77. La mercancía vale 3,034.92 € y el landed es de 3,752.27 € como suelo, a 0.894 € por dólar, tipo de exchangerate-api el 11 de noviembre de 2026. Una caja estándar trae 24 sobres de 6 cartas; las Extra Booster usan la caja de 24 sobres de los listados, y PRB-01 son 10 sobres de 10 cartas según los listados, mientras que PRB-02 no trae cifra publicada y se valora solo por caja.",
+          "Hasta 150 € (16 cajas): €62.12: OP-15; €66.89: PRB-02; €75.10: OP-18; €81.38: EB-04; €87.84: OP-14; €87.84: OP-10; €87.84: OP-08; €93.87: OP-16; €108.42: OP-17; €116.03: OP-12; €120.08: OP-07; €120.69: OP-13; €133.77: PRB-01; €138.61: EB-03; €138.61: EB-01; €148.28: OP-06.",
+          "Más de 150 € (8 cajas): €157.15: OP-09; €157.15: OP-03; €159.90: EB-02; €162.00: OP-11; €166.81: OP-04; €166.83: OP-05; €184.54: OP-02; €213.17: OP-01.",
+          "[OP-15 Adventure on KAMI's Island](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) es la caja más barata por sobre a 3.34 € landed, o 0.56 € por carta. [OP-18 The Dominance of God](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/), en preventa para su lanzamiento japonés el 21 de noviembre de 2026, es la segunda más barata a 3.99 € por sobre landed. [OP-01 Romance Dawn](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) es la caja principal más cara a 10.75 € por sobre landed, o 1.79 € por carta; PRB-01 sale más cara por sobre según los listados, a 16.69 €, pero trae 10 cartas por sobre. [PRB-02 The Best vol.2](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) se valora solo por caja y [PRB-01 The Best](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) por sobre según los listados.",
+          "La columna de cases casi siempre ahorra: en las veinticuatro cases, 22 ahorran por caja frente a la suelta y 2 cuestan más, porque la suelta por debajo de 150 € carga los 5 € fijos y el case, siempre por encima de la línea, no. El mayor ahorro es OP-02 a 44.32 € por caja; el mayor sobrecoste es OP-05 a 0.49 € por caja. El case OP-02 sale a 178.97 € por caja frente a una suelta landed en 223.29 €, ahorra 44.32 € por caja, y el case OP-18 sale a 81.67 € por caja frente a una suelta en 95.87 €, ahorra 14.20 € por caja.",
+          "Dos cajas en un paquete se suman para la línea de 150 €: OP-15 con PRB-02 son 129.01 €, por debajo de la línea, landed en 161.10 €; OP-15 con OP-18 son 137.22 €, landed en 171.04 €; dos OP-15 son 124.24 €, landed en 155.33 €. Casi cualquier otra pareja cruza la línea: OP-01 con OP-02 son 397.71 €, landed en un suelo de 481.23 €. El trío de envío gratis, OP-01 con OP-02 y OP-15 a 514.35 $, es 459.83 € de mercancía y landed en un suelo de 556.39 €."
+        ]
+      },
+      {
+        "h": "La capa de decisión: Japan-direct frente a Cardmarket frente a Wallapop frente a las tiendas",
+        "note": "Desde el Warehouse: la pregunta que más recibimos de los compradores españoles es si algo sigue exento de arancel por debajo de 150 €, porque cada guía escrita antes de julio de 2026 dice que sí. No lo está: la exención murió el 1 de julio de 2026 y el arancel fijo de 3 € la sustituyó, y desde el 1 de noviembre de 2026 se suma la tasa de 2 € por categoría. La segunda pregunta es si los 3 € se aplican por caja: es por categoría arancelaria, así que cinco cajas de un set cuestan 3 € de arancel, no 15 €.",
+        "paragraphs": [
+          "Cuatro rutas: Japan-direct, una caja sellada enviada desde Japón con los cargos de frontera de esta página; Cardmarket, con vendedores europeos en euros y sin impuesto de importación; Wallapop, el clasificado local, con precios negociables y sin protección del comprador; y las tiendas españolas, con el stock ya importado.",
+          "Contra las tiendas españolas, Japan-direct gana por sobre. TCG Fusion vende el sobre japonés OP-17 a 6.90 € con IVA incluido, frente a nuestro landed de 5.67 €, así que gana por 1.23 € por sobre antes del envío. Centro Paleta vende el sobre japonés OP-16 a 8.00 €, frente a nuestro landed de 4.94 €, así que gana por 3.06 €. Pokemillon lista la caja japonesa OP-06 a 49.90 €, agotada a 11 de noviembre de 2026, frente a nuestro landed de 184.42 €: no es un precio vivo.",
+          "En Cardmarket y en Wallapop no se encontró ningún precio sellado fechado de una caja japonesa One Piece a 11 de noviembre de 2026, así que esta página no inventa ninguno. Lo que sí existe es la venta de sobres sueltos: Catawiki vendió 25 sobres OP-17 por 50 €, 2.00 € por sobre, hace unas cuatro semanas. PriceCharting valora la caja japonesa OP-01 en 216.15 $, y la última venta en eBay fue de 152.63 $ el 10 de noviembre de 2026, así que nuestro 238.45 $ está 22.30 $ por encima del mercado. CardZ pone OP-17 en 69.20 $ frente a nuestro 121.28 $ y OP-15 en 52.48 $ frente a nuestro 69.48 $, así que somos 52.08 $ y 17.00 $ más caros, pero una última venta es una venta completada, no un precio de mercado."
+        ],
+        "table": {
+          "head": [
+            "Caja",
+            "En EUR",
+            "Por sobre",
+            "Landed",
+            "Mejor para"
+          ],
+          "rows": [
+            [
+              "OP-15 Adventure on KAMI's Island",
+              "€62.12",
+              "€3.34",
+              "€80.17",
+              "El sobre más barato, ábrela"
+            ],
+            [
+              "OP-18 The Dominance of God (preventa)",
+              "€75.10",
+              "€3.99",
+              "€95.87",
+              "El set más nuevo, segundo sobre más barato"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "€66.89",
+              "Solo por caja",
+              "€85.94",
+              "La entrada premium más barata"
+            ],
+            [
+              "OP-01 Romance Dawn",
+              "€213.17",
+              "€10.75",
+              "€257.94*",
+              "El set de origen, solo coleccionista"
+            ],
+            [
+              "OP-02 Paramount War",
+              "€184.54",
+              "€9.30",
+              "€223.29*",
+              "El case es el verdadero chollo"
+            ],
+            [
+              "OP-17 World's Strongest Warriors",
+              "€108.42",
+              "€5.67",
+              "€136.19",
+              "El set del aniversario, compara el sobre primero"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Lo que falta en otras páginas de precios de One Piece en España",
+        "paragraphs": [
+          "Los tres primeros resultados para esta búsqueda no valoran una caja One Piece japonesa en euros: el primero es una tabla de cartas sueltas caras de CardFolio, el segundo es la página de un sobre suelto OP-17 de TCG Fusion a 6.90 €, y el tercero es la página de un sobre suelto OP-16 de Centro Paleta a 8.00 €. Ninguno convierte el precio de una caja a euros, ninguno corre la línea de 150 €, y ninguno divide un case.",
+          "La segunda carencia es el tablero completo: ninguna página valora las veinticuatro cajas contra la línea de 150 € en un solo lugar. Quien busca comprar cartas One Piece japonesas en España encuentra anuncios de sobres sueltos y tablas de singles, no un tablero. La tercera carencia es la división del case: ninguna página dice que veintidós de los veinticuatro cases ahorran por caja en España, y que solo OP-02 ahorra dinero de verdad, 44.32 € por caja. La guía [comprar cartas TCG japonesas en España](/blog/comprar-cartas-tcg-japonesas-en-espana/) explica la misma línea fiscal para los cuatro juegos."
+        ]
+      },
+      {
+        "h": "La capa práctica: pedir desde Japón a España",
+        "paragraphs": [
+          "Elige la caja, multiplica el precio en dólares por 0.894 y comprueba la mercancía contra 167.79 $. A 150 € o menos, multiplica por 1.21 y suma 5 €: ese es el landed antes del envío, con el arancel de 3 €, la tasa de 2 € y el IVA del 21 % dentro. Por encima de 150 €, multiplica por 1.21 para el suelo del IVA y confirma el arancel TARIC antes de pagar. Los cargos van al total del paquete: dos cajas de un mismo set pagan 3 € y 2 € una sola vez, porque es por categoría. Pregunta si el vendedor usa IOSS antes de pagar, y confirma la [cotización de envío](/blog/buying-tcg-from-japan-shipping-customs-proxy/) en el checkout o por WhatsApp en wa.me/818029350455 antes de pagar.",
+          "Los pedidos de más de 500 $ salen con envío gratis: una sola OP-01 a 238.45 $ no llega a la línea, pero OP-01 con OP-02 y OP-15 a 514.35 $ sí, así que el trío ahorra el envío. Como la línea de 150 € se mide solo sobre la mercancía, el envío nunca empuja un paquete por encima de ella. Guarda la caja sellada y en vertical; la guía de [guardar cajas selladas](/blog/how-to-store-sealed-booster-boxes/) cubre la humedad y el apilado. El calor español es la única condición local que importa: el precinto en un ático sin aislar puede deformarse, así que guarda las cajas en un lugar fresco, seco y oscuro, y guarda la factura con el paquete."
+        ]
+      },
+      {
+        "h": "La capa de riesgo: reprecintos, reprints y el arancel por encima de 150 €",
+        "paragraphs": [
+          "Los reprecintos son el primer riesgo en cualquier ruta de segunda mano: una caja abierta y vuelta a precintar parece sellada hasta que se abre. La única defensa es el stock sellado de fábrica de un vendedor cuya reputación está en juego, comprobado contra nuestra guía de [reprecinto](/blog/how-to-tell-if-a-booster-box-is-resealed/) antes de abrir, y la de [cartas One Piece falsas](/blog/how-to-spot-fake-one-piece-cards/) antes de comprar singles. En Wallapop el control del precinto importa más que en ningún sitio.",
+          "El segundo riesgo es el reprint: un anuncio de reposición puede recortar una prima la misma semana, y OP-01 a 238.45 $ lleva la prima más grande de este estante, así que lleva el mayor riesgo de reprint. El tercer riesgo es el formato: las cartas japonesas no son legales en la mayoría de los torneos oficiales de Bandai fuera de Asia, así que un jugador que las compra para un evento en Europa ha comprado el producto equivocado.",
+          "El cuarto riesgo es un case que no suma, y esta página lo imprime en lugar de esconderlo. En España casi todos los cases ahorran, pero dos no: el case OP-05 sale a 202.35 € por caja frente a una suelta landed en 201.86 €, cuesta 0.49 € más por caja, y el case OP-09 sale a 190.19 € por caja frente a una suelta en 190.15 €, cuesta 0.04 € más por caja. Los cases OP-07 y OP-17 apenas se mueven. Solo OP-02, OP-03 y OP-18 ahorran dinero de verdad por caja. Divide antes de pagar, en cada set, siempre."
+        ]
+      },
+      {
+        "h": "Contexto: precio de lista japonés frente a estante frente a retail español",
+        "paragraphs": [
+          "Un precio de tienda japonesa es el ancla honesta. OP-17 lista a 240 ¥ por sobre, 5,760 ¥ por caja, unos 37.40 $ a 154 ¥ por dólar, y nuestro OP-17 a 121.28 $ es 3.24 veces esa lista. OP-16 lista a 220 ¥ por sobre, 5,280 ¥ por caja, unos 34.29 $, y nuestro OP-16 a 105.00 $ es 3.06 veces esa lista. Samurai Sword Tokyo lista la caja OP-17 a 10,950 ¥, unos 71.10 $, y la OP-16 a 10,437 ¥, unos 67.77 $: nuestro OP-17 es 50.18 $ más caro y nuestro OP-16 es 37.23 $ más caro. Nuestro OP-01 a 238.45 $ es 14.15 $ más barato que su precio de tienda y 8.30 $ más barato que el precio más bajo de SNKRDUNK; nuestro OP-05 a 186.61 $ es 173.72 $ más barato que su precio de tienda.",
+          "La comparación en inglés es otro producto: una caja inglesa OP-18 en preventa se vendió a 234 $ el 10 de noviembre de 2026, un 95 % por encima de su MSRP de 119.76 $, y la caja inglesa OP-19 tiene fecha del 5 de marzo de 2027, con preventas en ToyWiz a 299.99 $. El sobre inglés cuesta 4.99 $. Una caja inglesa cuesta más porque es el producto legal para torneos fuera de Asia: compra inglés para jugar fuera de Asia y japonés para coleccionar."
+        ]
+      },
+      {
+        "h": "Para quién NO es esta guía",
+        "paragraphs": [
+          "Esta guía no es para quien persigue una sola carta: si es un Luffy manga o una Leader concreta, la single es más barata. No es para quien necesita la caja esta semana: Japan-direct tarda días o semanas. No es para quien quiere un pull garantizado: ninguna caja sellada garantiza ninguna carta. No es para quien busca una caja por debajo de 150 € para escapar del impuesto: la línea decide cómo se cobran los 3 € y los 2 €, no los elimina. No es para quien vive en Canarias, Ceuta o Melilla, donde rigen otros impuestos."
+        ]
+      },
+      {
+        "checklist": [
+          "Elige la caja y convierte su precio en dólares por 0.894.",
+          "Comprueba la mercancía contra 167.79 $.",
+          "A 150 € o menos: multiplica por 1.21 y suma 5 €.",
+          "Por encima de 150 €: multiplica por 1.21 y confirma el arancel TARIC.",
+          "Pregunta si el vendedor usa IOSS antes de pagar.",
+          "Confirma el envío antes de pagar.",
+          "Nunca compres un sobre suelto en un marketplace si quieres una caja sellada.",
+          "Inspecciona el precinto a la llegada antes de abrirla.",
+          "Divide el case antes de pagar: solo OP-02, OP-03 y OP-18 ahorran dinero de verdad por caja."
+        ],
+        "h": "La capa de acción: la checklist del comprador español",
+        "paragraphs": [
+          "Trabaja la lista y la caja que compres es la caja que querías comprar. La guía [comprar cartas TCG japonesas en España](/blog/comprar-cartas-tcg-japonesas-en-espana/) corre la misma línea de 150 € en los cuatro juegos, y el [tablero de precios en dólares](/blog/best-japanese-one-piece-booster-box-price/) valora las mismas veinticuatro cajas sin la conversión."
+        ]
+      }
+    ],
+    "slug": "comprar-cartas-one-piece-japonesas",
+    "takeaway": [
+      "Cada caja One Piece japonesa enviada a España paga el 21 % de IVA desde el primer euro, más un arancel fijo de 3 € por categoría y una tasa de 2 € por categoría mientras el paquete se mantenga por debajo de 150 €, porque la antigua línea libre de arancel murió el 1 de julio de 2026 y la tasa llegó el 1 de noviembre de 2026. De las veinticuatro cajas, 16 quedan por debajo y 8 por encima: las ocho de arriba llevan un landed que es solo un suelo del 21 % de IVA, con el arancel por determinar.",
+      "Los precios se mueven, así que cada número aquí lleva fecha: precios de estante a 11 de noviembre de 2026, convertidos a 0.894 € por dólar, con el arancel y el IVA solo sobre la mercancía porque el envío se confirma en el checkout. Comprueba el precio vivo antes de pagar: la línea de 150 € se mide solo sobre la mercancía, así que el envío nunca empuja un paquete por encima de ella, pero dos cajas en un paquete se suman, y casi cualquier pareja que no sea de las más baratas cruza la línea."
+    ]
+  },
   "comprar-cartas-tcg-japonesas-en-espana": {
     "datePublished": "2026-11-06",
     "faqs": [
@@ -12278,7 +12500,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "La capa de acción: la checklist del comprador español",
         "paragraphs": [
-          "Haz esto en orden antes de la próxima caja japonesa que consideres. Lleva cinco minutos y sustituye una tarde comparando anuncios en euros. Para las noventa cajas Pokémon con el precio landed en euros, la [guía de precio de caja Pokémon japonesa sellada en España](/blog/caja-pokemon-japonesa-sellada-espana-precio/) aplica la línea de 150 € a todo el estante."
+          "Haz esto en orden antes de la próxima caja japonesa que consideres. Lleva cinco minutos y sustituye una tarde comparando anuncios en euros. Para las noventa cajas Pokémon con el precio landed en euros, la [guía de precio de caja Pokémon japonesa sellada en España](/blog/caja-pokemon-japonesa-sellada-espana-precio/) aplica la línea de 150 € a todo el estante. Para las veinticuatro cajas de One Piece con el precio landed en euros, la [guía de comprar cartas One Piece japonesas en España](/blog/comprar-cartas-one-piece-japonesas/) aplica la misma línea de 150 € a todo el estante de One Piece. Y para el envío en sí, la [guía de envío de cartas TCG japonesas a España](/blog/japanese-tcg-cards-shipping-to-spain/) recorre el envío, la aduana y el IVA con el coste landed en euros para los cuatro juegos."
         ]
       }
     ],
@@ -20609,6 +20831,230 @@ export const POSTS: Record<string, BlogPost> = {
       "Just keep the discipline that makes the ladder useful instead of misleading. Believe the code over the artwork. Identify with the code, then appraise with everything else. Do that, and you will never pay a SAR price for an AR card, never dismiss an older-era code as a fake, and never mistake a letter for a price tag again.",
       "Knowing the codes is step one; using them is step two. If you're building toward completion, [what a master set is — and what building one actually involves](/blog/what-is-a-master-set-pokemon/) puts the rarity ladder to work. If a high-code card has you wondering about grading, [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) runs the break-even before you ship anything. And when a listing quotes a box price, [how many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is how you check what you're really paying per pack.",
       "Knowing the rarities is step one; using a card you cannot read is step two. [How to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) walks the card zone by zone — and shows why the corner number matters more than the language."
+    ]
+  },
+  "japanese-tcg-cards-shipping-to-spain": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "Every parcel pays 21% IVA from the first euro, plus a fixed EUR 3 duty and a EUR 2 processing fee per category while it stays under EUR 150 of goods, which is $167.79 at the rate used here. A single M3 box lands at EUR 81.39 before shipping, and a single OP-15 lands at EUR 80.17. Above EUR 150 the normal tariff duty applies on top of the 21% IVA floor, so a 151 box lands at a floor of EUR 509.71 before shipping and duty. The full board is in the money layer above, and the [Spain hub](/blog/comprar-cartas-tcg-japonesas-en-espana/) runs the same line in Spanish.",
+        "q": "How much tax do I pay on Japanese TCG cards shipped to Spain?"
+      },
+      {
+        "a": "The exact quote is confirmed at checkout or on WhatsApp at wa.me/818029350455, because it depends on the weight of the parcel and the service chosen. The only published floor found is Japan Post's tracked parcel to Europe from JPY 3,150 for up to 500 g, about EUR 18.28, read on 28 October 2026, and that is a floor for a small parcel, not a quote for a box. Never trust a guide that cites a delivery time or a shipping price for a parcel it has not weighed. Orders over $500 ship free: OP-01 with OP-02 and OP-15 at $514.35 clears the line.",
+        "q": "How much does shipping from Japan to Spain cost?"
+      },
+      {
+        "a": "Depends on the set, so compare per pack. Reino de Cartas sells the Japanese M6 box at EUR 127.99, while our landed cost is EUR 94.56, so Japan-direct wins by EUR 33.43 before shipping; Nexus Cards sells the same box at EUR 89.90, so Nexus wins by EUR 4.66. On M2a a completed Catawiki auction of three boxes at EUR 80.00 a box beats our landed EUR 129.15 by EUR 49.15 a box. On 151, Pipoon lists EUR 770.00 against our landed floor of EUR 509.71, so Japan-direct wins by EUR 260.29. No dated Cardmarket or Wallapop sealed-box price was found for these boxes.",
+        "q": "Is it cheaper to buy Japanese TCG cards on Cardmarket or direct from Japan?"
+      }
+    ],
+    "h1": "Japanese TCG Cards Shipping to Spain: the Full Landed Cost in Euros",
+    "intro": [
+      "Shipping Japanese TCG cards from Japan to Spain costs the box price plus 21% IVA from the first euro, plus a fixed EUR 3 duty and a EUR 2 processing fee per category while the parcel stays under EUR 150 of goods, which is $167.79 at the rate used here. The cheapest landed pack on our shelf is the Pokemon M3 box at EUR 2.71, and every sealed case crosses the EUR 150 line. Prices as of 11 November 2026, converted at EUR 0.894 to the dollar.",
+      "The shipping quote is the one number this guide does not print: confirm it at checkout or on WhatsApp, because it depends on the parcel's weight and the service chosen. Everything else in the landed cost is fixed and printed below."
+    ],
+    "metaDescription": "Japanese TCG cards shipped to Spain: 21% IVA, EUR 3 duty plus EUR 2 fee, and the landed cost in euros for One Piece, Pokemon, Dragon Ball and Lorcana.",
+    "metaTitle": "Japanese TCG Cards Shipping to Spain: Costs",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: EUR 150 is the line, and 21% IVA starts at the first euro",
+        "paragraphs": [
+          "Spain charges 21% IVA on every commercial import from outside the EU, whatever the value. Since 1 July 2021 the old low-value VAT exemption is gone, so a EUR 63.13 box owes IVA just like a EUR 421.25 box. The seller can collect the IVA at checkout through IOSS, and then the parcel clears customs with nothing to pay at the border; without IOSS, the carrier collects the IVA on delivery.",
+          "The duty changed on 1 July 2026. Until 30 June 2026, parcels of EUR 150 or less were exempt from customs duty. From that date the exemption is abolished by Regulation (EU) 2026/382 and replaced by a fixed duty of EUR 3 per category of goods on parcels up to EUR 150, until 1 July 2028. From 1 November 2026 a second charge joins it: a EUR 2 processing fee per category of items, plus a product-identifier requirement. Above EUR 150 the normal tariff duty applies on the CIF value, plus 21% IVA. The duty rate for playing cards under HS 9504.40 is not verified, so every over-line figure here is the 21% IVA floor, with duty still to be added.",
+          "The EUR 3 and the EUR 2 are charged per category of goods, not per box: five boxes of one set are one category, so the duty on them is EUR 3, not EUR 15. The line is drawn on the goods value alone, $167.79 in dollars at EUR 0.894, so shipping never pushes a parcel over it, but two boxes in one parcel add together."
+        ]
+      },
+      {
+        "h": "The money layer: landed cost across all four games",
+        "math": [
+          "Exchange rate used: 1 USD = EUR 0.894, 11 November 2026 (exchangerate-api; second source XE EUR 0.8975 the same day)",
+          "EUR 150 line in dollars: EUR 150.00 / 0.894 = $167.79 of goods value",
+          "OP-15 Adventure on KAMI's Island box: $69.48 x EUR 0.894 = EUR 62.12 goods; EUR 62.12 x 1.21 + EUR 5.00 = EUR 80.17 landed; EUR 80.17 / 24 packs = EUR 3.34 per pack; EUR 80.17 / 144 cards = EUR 0.56 per card",
+          "OP-18 The Dominance of God box: $84.00 x EUR 0.894 = EUR 75.10 goods; EUR 75.10 x 1.21 + EUR 5.00 = EUR 95.87 landed; EUR 95.87 / 24 packs = EUR 3.99 per pack; EUR 95.87 / 144 cards = EUR 0.67 per card",
+          "OP-01 Romance Dawn box: $238.45 x EUR 0.894 = EUR 213.17 goods; EUR 213.17 x 1.21 = EUR 257.94 landed (floor, duty TBD); EUR 257.94 / 24 packs = EUR 10.75 per pack; EUR 257.94 / 144 cards = EUR 1.79 per card",
+          "OP-18 The Dominance of God case: $906.00 x EUR 0.894 = EUR 809.96 goods; EUR 809.96 x 1.21 = EUR 980.05 landed (floor, duty TBD); EUR 980.05 / 12 boxes = EUR 81.67 per box; EUR 81.67 / 24 packs = EUR 3.40 per pack; EUR 3.40 / 6 cards = EUR 0.57 per card; single landed EUR 95.87 - EUR 81.67 = EUR 14.20 saved per box",
+          "OP-15 Adventure on KAMI's Island case: $816.00 x EUR 0.894 = EUR 729.50 goods; EUR 729.50 x 1.21 = EUR 882.70 landed (floor, duty TBD); EUR 882.70 / 12 boxes = EUR 73.56 per box; EUR 73.56 / 24 packs = EUR 3.07 per pack; EUR 3.07 / 6 cards = EUR 0.51 per card; single landed EUR 80.17 - EUR 73.56 = EUR 6.61 saved per box",
+          "M3 Munikis Zero box: $70.62 x EUR 0.894 = EUR 63.13 goods; EUR 63.13 x 1.21 + EUR 5.00 = EUR 81.39 landed; EUR 81.39 / 30 packs = EUR 2.71 per pack; EUR 81.39 / 150 cards = EUR 0.54 per card",
+          "M6 Storm Emeralda box: $82.80 x EUR 0.894 = EUR 74.02 goods; EUR 74.02 x 1.21 + EUR 5.00 = EUR 94.56 landed; EUR 94.56 / 30 packs = EUR 3.15 per pack; EUR 94.56 / 150 cards = EUR 0.63 per card",
+          "M2a MEGA Dream ex box: $114.77 x EUR 0.894 = EUR 102.60 goods; EUR 102.60 x 1.21 + EUR 5.00 = EUR 129.15 landed; EUR 129.15 / 10 packs = EUR 12.92 per pack; EUR 129.15 / 100 cards = EUR 1.29 per card",
+          "M2 Inferno X box: $183.18 x EUR 0.894 = EUR 163.76 goods; EUR 163.76 x 1.21 = EUR 198.15 landed (floor, duty TBD); EUR 198.15 / 20 packs = EUR 9.91 per pack; EUR 198.15 / 100 cards = EUR 1.98 per card",
+          "SV2a Pokemon Card 151 box: $471.20 x EUR 0.894 = EUR 421.25 goods; EUR 421.25 x 1.21 = EUR 509.71 landed (floor, duty TBD); EUR 509.71 / 20 packs = EUR 25.49 per pack; EUR 509.71 / 140 cards = EUR 3.64 per card",
+          "M3 Munikis Zero case: $1,048.24 x EUR 0.894 = EUR 937.13 goods; EUR 937.13 x 1.21 = EUR 1,133.93 landed (floor, duty TBD); EUR 1,133.93 / 12 boxes = EUR 94.49 per box; EUR 94.49 / 30 packs = EUR 3.15 per pack; EUR 3.15 / 5 cards = EUR 0.63 per card; EUR 94.49 - single landed EUR 81.39 = EUR 13.10 more per box",
+          "SV2a Pokemon Card 151 case: $3,809.32 x EUR 0.894 = EUR 3,405.53 goods; EUR 3,405.53 x 1.21 = EUR 4,120.69 landed (floor, duty TBD); EUR 4,120.69 / 12 boxes = EUR 343.39 per box; EUR 343.39 / 20 packs = EUR 17.17 per pack; EUR 17.17 / 7 cards = EUR 2.45 per card; single landed EUR 509.71 - EUR 343.39 = EUR 166.32 saved per box",
+          "FB04 Ultra Limit (Dragon Ball, English) case: $1,279.26 x EUR 0.894 = EUR 1,143.66 goods; EUR 1,143.66 x 1.21 = EUR 1,383.83 landed (floor, duty TBD); EUR 1,383.83 / 12 boxes = EUR 115.32 per box; EUR 115.32 / 24 packs = EUR 4.81 per pack; EUR 4.81 / 12 cards = EUR 0.40 per card",
+          "FB01 Awakened Pulse (Dragon Ball, English) case: $4,429.80 x EUR 0.894 = EUR 3,960.24 goods; EUR 3,960.24 x 1.21 = EUR 4,791.89 landed (floor, duty TBD); EUR 4,791.89 / 12 boxes = EUR 399.32 per box; EUR 399.32 / 24 packs = EUR 16.64 per pack; EUR 16.64 / 12 cards = EUR 1.39 per card",
+          "Reign of Jafar (Lorcana, English) case: $463.45 x EUR 0.894 = EUR 414.32 goods; EUR 414.32 x 1.21 = EUR 501.33 landed (floor, duty TBD); EUR 501.33 / 4 boxes = EUR 125.33 per box; EUR 125.33 / 24 packs = EUR 5.22 per pack; EUR 5.22 / 12 cards = EUR 0.44 per card",
+          "The First Chapter (Lorcana, English) case: $1,747.37 x EUR 0.894 = EUR 1,562.15 goods; EUR 1,562.15 x 1.21 = EUR 1,890.20 landed (floor, duty TBD); EUR 1,890.20 / 4 boxes = EUR 472.55 per box; EUR 472.55 / 24 packs = EUR 19.69 per pack; EUR 19.69 / 12 cards = EUR 1.64 per card",
+          "Azurite Sea (Lorcana, English) case: $476.63 x EUR 0.894 = EUR 426.11 goods; EUR 426.11 x 1.21 = EUR 515.59 landed (floor, duty TBD); EUR 515.59 / 4 boxes = EUR 128.90 per box; EUR 128.90 / 24 packs = EUR 5.37 per pack; EUR 5.37 / 12 cards = EUR 0.45 per card",
+          "The First Chapter (Lorcana, Japanese) case: $564.07 x EUR 0.894 = EUR 504.28 goods; EUR 504.28 x 1.21 = EUR 610.18 landed (floor, duty TBD); EUR 610.18 / 15 boxes = EUR 40.68 per box; EUR 40.68 / 16 packs = EUR 2.54 per pack; EUR 2.54 / 6 cards = EUR 0.42 per card",
+          "M3 + OP-15 pairing: EUR 63.13 + EUR 62.12 = EUR 125.25 of goods, under EUR 150; EUR 125.25 x 1.21 + EUR 5.00 = EUR 156.55 landed",
+          "Two M3 pairing: 2 x EUR 63.13 = EUR 126.26 of goods, under EUR 150; EUR 126.26 x 1.21 + EUR 5.00 = EUR 157.77 landed",
+          "OP-15 + OP-18 pairing: EUR 62.12 + EUR 75.10 = EUR 137.22 of goods, under EUR 150; EUR 137.22 x 1.21 + EUR 5.00 = EUR 171.04 landed",
+          "M3 + M6 pairing: EUR 63.13 + EUR 74.02 = EUR 137.15 of goods, under EUR 150; EUR 137.15 x 1.21 + EUR 5.00 = EUR 170.95 landed",
+          "M3 + OP-15 + OP-18 trio: EUR 200.35 of goods, over EUR 150; EUR 200.35 x 1.21 = EUR 242.42 landed (floor, duty TBD)",
+          "Japan Post tracked floor: JPY 3,150 / 154 = $20.45; $20.45 x EUR 0.894 = EUR 18.28 (Zukan reading Japan Post, 28 Oct 2026; a published floor, not the store's quote)",
+          "Reino de Cartas M6: our EUR 94.56 landed vs EUR 127.99 = EUR 33.43 cheaper before shipping (one unit in stock, 11 Nov 2026)",
+          "Nexus Cards M6: our EUR 94.56 landed vs EUR 89.90 = EUR 4.66 dearer before shipping (11 Nov 2026)",
+          "Catawiki M2a: our EUR 129.15 landed vs EUR 80.00 per box = EUR 49.15 dearer (one completed auction of 3 boxes, EUR 240 total)",
+          "Pipoon 151: our EUR 509.71 landed floor vs EUR 770.00 = EUR 260.29 cheaper before shipping (aggregator listing, 10 Nov 2026)",
+          "CardZ OP-17 last sold: our $121.28 - $69.20 = $52.08 dearer (one completed sale, not a market price)",
+          "CardZ OP-15 last sold: our $69.48 - $52.48 = $17.00 dearer (one completed sale, not a market price)",
+          "CardZ OP-14 last sold: our $98.26 - $54.98 = $43.28 dearer (one completed sale, not a market price)",
+          "CardZ OP-10 last sold: our $98.26 - $64.57 = $33.69 dearer (one completed sale, not a market price)",
+          "CardZ OP-13 last sold: our $135.00 - $109.00 = $26.00 dearer (one completed sale, not a market price)",
+          "CardZ PRB-02 last sold: our $74.82 - $63.19 = $11.63 dearer (one completed sale, not a market price)",
+          "Samurai Sword OP-01: JPY 38,901 / 154 = $252.60; our $238.45 is $14.15 cheaper",
+          "Samurai Sword OP-05: JPY 55,491 / 154 = $360.33; our $186.61 is $173.72 cheaper",
+          "SNKRDUNK OP-01 lowest ask: JPY 38,000 / 154 = $246.75; our $238.45 is $8.30 cheaper",
+          "Free shipping: OP-01 + OP-02 + OP-15: $238.45 + $206.42 + $69.48 = $514.35, clears the $500 line"
+        ],
+        "paragraphs": [
+          "One Piece first. [OP-15 Adventure on KAMI's Island](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/) is the cheapest Japanese One Piece box at EUR 62.12 of goods, landing at EUR 80.17, or EUR 3.34 a pack and EUR 0.56 a card. [OP-18 The Dominance of God](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/), on pre-order for its Japanese release on 21 November 2026, is EUR 75.10 of goods and lands at EUR 95.87, or EUR 3.99 a pack. [OP-01 Romance Dawn](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) is the dearest main-set box at EUR 213.17 of goods, over the line, landing at a floor of EUR 257.94. The OP-18 case lands at a floor of EUR 980.05, or EUR 81.67 a box; the OP-15 case lands at EUR 882.70, or EUR 73.56 a box.",
+          "Pokemon second, and it holds the cheapest pack on the shelf. [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is EUR 63.13 of goods and lands at EUR 81.39, or EUR 2.71 a pack and EUR 0.54 a card. [M6 Storm Emeralda](/product/m6-storm-emeralda-booster-box-japanese-pokemon-card/) is EUR 74.02 of goods and lands at EUR 94.56. M2a MEGA Dream ex is EUR 102.60 of goods and lands at EUR 129.15. M2 Inferno X is EUR 163.76 of goods, over the line, landing at a floor of EUR 198.15. [Pokemon Card 151](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) is EUR 421.25 of goods, landing at a floor of EUR 509.71.",
+          "The case column splits by set. The M3 case lands at a floor of EUR 1,133.93, or EUR 94.49 a box, which is EUR 13.10 more per box than a single M3: the word case is not a promise. The 151 case goes the other way, landing at a floor of EUR 4,120.69, or EUR 343.39 a box, saving EUR 166.32 a box against the single. Dragon Ball has no sealed boxes on our shelf at all, only English sealed cases of 12 boxes, so the math is case-divided only: the [FB04 Ultra Limit case](/product/dragon-ball-super-fusion-world-fb04-ultra-limit-booster-box-sealed-case-english/) lands at a floor of EUR 1,383.83, or EUR 115.32 a box and EUR 0.40 a card, the cheapest per card on this page, while the [FB01 Awakened Pulse case](/product/dragon-ball-super-card-game-fusion-world-fb01-awakened-pulse-booster-box-sealed/) lands at a floor of EUR 4,791.89, or EUR 399.32 a box. A Japanese Fusion World box lists at JPY 5,280 for 24 packs of 6 cards, and any sealed Japanese box offered far below that list is either not what it claims to be or not sealed at all.",
+          "Lorcana is cases only too. The [Reign of Jafar case](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) is the cheapest English entry at EUR 501.33 landed as a floor, or EUR 125.33 a box and EUR 0.44 a card. The First Chapter case is the dearest English entry at EUR 1,890.20 landed as a floor, or EUR 472.55 a box. The Japanese First Chapter case is the cheapest Lorcana entry of all at EUR 610.18 landed as a floor, or EUR 40.68 a box and EUR 0.42 a card. Two boxes in one parcel add together for the EUR 150 test: M3 with OP-15 is EUR 125.25 of goods, under the line, landing at EUR 156.55; add a third cheap box and the parcel crosses: M3 with OP-15 and OP-18 is EUR 200.35 of goods, over the line, landing at a floor of EUR 242.42. Shipping is absent from every figure above: IVA is charged on goods plus shipping."
+        ]
+      },
+      {
+        "h": "The decision layer: Japan-direct vs Cardmarket vs Wallapop",
+        "paragraphs": [
+          "Four routes to a Japanese box, differing in price, provenance and tax. Japan-direct: a sealed box shipped from Japan, priced in dollars, tax on this page. Cardmarket: a European seller, priced in euros, no import tax, a seven-step condition scale to read first. Wallapop: local classifieds, negotiable, no buyer protection. Spanish shop: the same stock already imported, margin inside the price.",
+          "Cardmarket is the default price reference for Spanish collectors, with more than 500 million offers and 2 million buyers in 30 countries. The Spanish shops are real and competitive too: Reino de Cartas sells the Japanese M6 box at EUR 127.99, one unit, against our landed EUR 94.56: Japan-direct wins by EUR 33.43 before shipping. Nexus Cards sells it at EUR 89.90: Nexus wins by EUR 4.66. On M2a the completed auction wins: three boxes sold on Catawiki for EUR 240, or EUR 80.00 a box, against our landed EUR 129.15, a gap of EUR 49.15 a box. On 151 the direction flips: Pipoon lists the box at EUR 770.00, against our landed floor of EUR 509.71, a gap of EUR 260.29 before shipping.",
+          "No dated Cardmarket or Wallapop sealed-box price surfaced for these boxes on 11 November 2026, so this page does not invent one. Compare the landed cost against the delivered ask, and weigh sealed provenance against the saving. The [Spain hub](/blog/comprar-cartas-tcg-japonesas-en-espana/) runs the same line in Spanish; the [Japanese Pokemon price board in Spain](/blog/caja-pokemon-japonesa-sellada-espana-precio/) prices all 90 boxes landed in euros."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Goods EUR",
+            "Per pack",
+            "Landed",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero box",
+              "EUR 63.13",
+              "EUR 2.71",
+              "EUR 81.39",
+              "Cheapest pack, open it"
+            ],
+            [
+              "OP-15 box",
+              "EUR 62.12",
+              "EUR 3.34",
+              "EUR 80.17",
+              "Cheapest One Piece pack"
+            ],
+            [
+              "OP-18 box (pre-order)",
+              "EUR 75.10",
+              "EUR 3.99",
+              "EUR 95.87",
+              "Newest set, second-cheapest OP pack"
+            ],
+            [
+              "M2a MEGA Dream ex box",
+              "EUR 102.60",
+              "EUR 12.92",
+              "EUR 129.15",
+              "Dearest per pack under the line"
+            ],
+            [
+              "FB04 case, per box",
+              "EUR 115.32",
+              "EUR 4.81",
+              "EUR 1,383.83*",
+              "Cheapest Dragon Ball entry"
+            ],
+            [
+              "FB01 case, per box",
+              "EUR 399.32",
+              "EUR 16.64",
+              "EUR 4,791.89*",
+              "First set, collector only"
+            ],
+            [
+              "Reign of Jafar case, per box",
+              "EUR 125.33",
+              "EUR 5.22",
+              "EUR 501.33*",
+              "Cheapest English Lorcana entry"
+            ],
+            [
+              "First Chapter case, per box",
+              "EUR 472.55",
+              "EUR 19.69",
+              "EUR 1,890.20*",
+              "First set, collector only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What is missing from other Spain shipping guides",
+        "note": "From the Warehouse: the question we get most from Spain buyers is whether anything still arrives duty-free under EUR 150, because every guide written before July 2026 says it does. It does not: the exemption died on 1 July 2026 and the fixed EUR 3 duty replaced it, and from 1 November 2026 the EUR 2 fee joins it. The second question is whether the EUR 3 applies per box, and the answer is per category, so five boxes of one set cost EUR 3 of duty, not EUR 15.",
+        "paragraphs": [
+          "The top results are generic customs guides, not TCG shipping guides. The first explains HS code 9504.40 and regional tariff rates, the second runs the EU EUR 3 duty and EUR 2 fee for grading shipments, and the third is a wholesale FAQ that leaves import taxes to the buyer. None converts a real shelf price to euros, none divides a case, and none names the EUR 150 line against a real box. A buyer who reads all three still cannot answer the only question that matters: what does my box cost, landed, in euros.",
+          "The second gap is the shipping line itself. The only published shipping floor found is Japan Post's tracked parcel to Europe from JPY 3,150 for up to 500 g, read on 28 October 2026, which is about EUR 18.28 at the rate used here. That is a floor for a small parcel, not a quote for a box."
+        ]
+      },
+      {
+        "h": "The practical layer: ordering from Japan to Spain",
+        "paragraphs": [
+          "Pick the box from the board above, multiply the dollar price by 0.894, then check it against EUR 150. If it is under, multiply by 1.21 and add EUR 5: that is the landed cost before shipping, with the EUR 3 duty, the EUR 2 fee and the 21% IVA inside. If it is over, multiply by 1.21 for the IVA floor and confirm the tariff duty before paying. Confirm the [shipping quote](/blog/buying-tcg-from-japan-shipping-customs-proxy/) at checkout or on WhatsApp at wa.me/818029350455 before paying: the quote depends on weight and service, and IVA is charged on goods plus shipping.",
+          "Orders over $500 ship free: a single OP-01 at $238.45 does not clear the line, but OP-01 with OP-02 and OP-15 at $514.35 does. Ask before paying whether the seller uses IOSS: if it does, the IVA is collected at checkout and nothing is due at the border; if it does not, the carrier collects the IVA plus its own fee on delivery.",
+          "On arrival, inspect the seal before opening, photograph the box on all sides, and compare the set code with the set you ordered: M3, M6 and M2a are current MEGA-era codes, OP-18 is the current One Piece set, and the [how to read Japanese Pokemon cards guide](/blog/how-to-read-japanese-pokemon-cards/) covers the set symbol and rarity marks. If the seal looks wrong, do not open it: run it past the [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. Spanish heat warps sealed stock: keep boxes cool, dry and dark, as the [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) covers."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, fakes, and the duty you never get back",
+        "paragraphs": [
+          "Reseals are the first risk on any second-hand route: a box opened and re-shrunk looks sealed until it is opened. The only defence is factory-sealed stock from a seller whose reputation is on the line, checked against our reseal guide before opening. The M2a gap above, EUR 49.15 dearer on our shelf than the completed Catawiki auction, is the price of that provenance. Loose packs are the same risk in miniature: packs are weighed, searched and re-sealed.",
+          "The second risk is the return trap, and it is the one buyers never see coming. AEAT states it plainly: the new rules prevent the refund of customs duties paid, even if the consignment is returned. A refund is granted only if the goods were faulty or did not comply with the contract. VAT is different and is refunded, by the seller under IOSS or by the carrier otherwise, but the EUR 3 duty and the EUR 2 fee are gone the moment they are paid.",
+          "The third risk is the reprint: a restock or reprint announcement can cut a premium the same week, and OP-01 at $238.45 carries the largest premium on this shelf, so it carries the largest reprint risk. M6a was $207.50 on 24 October 2026 and $249.00 on 10 November, up 20.0% in seventeen days: check the live shelf price before paying. The fourth risk is language: Japanese cards are not legal at most sanctioned events in Europe. Fakes exist too, and the [how to spot fake One Piece cards guide](/blog/how-to-spot-fake-one-piece-cards/) covers the tells before you pay for a single."
+        ]
+      },
+      {
+        "h": "Context: Japan list price vs shelf vs Spain retail",
+        "paragraphs": [
+          "A Japanese store price is the honest anchor. OP-17 lists at JPY 240 a pack, so a 24-pack box lists at JPY 5,760, about $37.40 at 154 yen to the dollar, against our OP-17 at $121.28, 3.24 times that list. Samurai Sword Tokyo listed OP-01 at JPY 38,901 on 15 October 2026, about $252.60, against our $238.45. CardZ last-sold figures from 9 November 2026 put us dearer by $11.63 to $52.08 across six sets, but a last-sold figure is one completed sale.",
+          "The English comparison is a different product: an English OP-18 presale box traded at $234 on 10 November 2026, 95% above its $119.76 MSRP, and the English OP-19 booster box is dated 5 March 2027. Bandai's English booster is $4.99 a pack, and an English box costs more because it is the tournament-legal product outside Asia: buy English to play outside Asia, buy Japanese to collect. The [best Japanese One Piece booster box guide, by buyer](/blog/best-japanese-one-piece-booster-box-to-buy/), the [best Dragon Ball Fusion World Japanese guide](/blog/best-dragon-ball-fusion-world-japanese/) and the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) rank the same boxes and cases in dollars."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer chasing one card: if the card is a manga-rare Luffy or a single Secret Art Rare, the single is cheaper. It is not for a buyer who wants a guaranteed pull: no sealed box guarantees any card, and Bandai publishes no pull rates. It is not for a buyer who needs English card text or tournament legality: Japanese cards are not legal at most sanctioned events in Europe. It is not for a buyer who needs the box this week, or who lives in the Canary Islands, Ceuta or Melilla, where different taxes apply."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the box from the board and note its goods value in euros, not its dollar price.",
+          "Check the goods value against EUR 150, or $167.79 in dollars, before anything else.",
+          "Under EUR 150: multiply by 1.21 and add EUR 5. Over EUR 150: multiply by 1.21 for the IVA floor and confirm the tariff duty.",
+          "Remember the EUR 3 duty and the EUR 2 fee are charged per category, not per box: five boxes of one set cost EUR 3 of duty, not EUR 15.",
+          "Remember two cheap boxes in one parcel add together: M3 with OP-15 is EUR 125.25, under the line, but M3 with OP-15 and OP-18 is EUR 200.35, over it.",
+          "Divide every case before paying: the M3 case costs EUR 13.10 more per box than a single, while the 151 case saves EUR 166.32 per box.",
+          "Remember a single OP-01 at $238.45 does not clear the $500 free-shipping line, but OP-01 with OP-02 and OP-15 at $514.35 does.",
+          "Ask whether the seller uses IOSS before paying, so nothing is due at the border.",
+          "Confirm the exact shipping quote at checkout or on WhatsApp before paying, and keep the invoice with the parcel.",
+          "Remember the duty is not refunded if you return the goods, unless they were faulty: decide before paying, not after delivery.",
+          "Never buy a loose pack on a marketplace: weighed, searched or re-sealed.",
+          "Inspect the seal on arrival and photograph the box before opening it."
+        ],
+        "h": "Action layer: the Spain shipping checklist",
+        "paragraphs": [
+          "Work the list and the box you buy is the box you meant to buy. For the same EUR 150 line in Spanish, the [Spain hub](/blog/comprar-cartas-tcg-japonesas-en-espana/) runs it across all four games, and the [Japanese Pokemon price board in Spain](/blog/caja-pokemon-japonesa-sellada-espana-precio/) prices all 90 boxes landed in euros."
+        ]
+      }
+    ],
+    "slug": "japanese-tcg-cards-shipping-to-spain",
+    "takeaway": [
+      "Every Japanese TCG parcel shipped to Spain pays 21% IVA from the first euro, plus a fixed EUR 3 duty and a EUR 2 processing fee per category while it stays under EUR 150 of goods, because the old duty-free line died on 1 July 2026 and the fee arrived on 1 November 2026. The cheapest landed pack on our shelf is the Pokemon M3 box at EUR 2.71, and every sealed case crosses the EUR 150 line, so cases land at the 21% IVA floor with tariff duty still to be added.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of 11 November 2026, converted at EUR 0.894 to the dollar, with duty and IVA calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, run the EUR 150 check on the goods value, not the parcel total, because shipping never pushes a parcel over the line, but two boxes in one parcel add together, and remember the duty is not refunded if the goods go back.",
+      "For the same EUR 150 line in Spanish, the [Spain hub](/blog/comprar-cartas-tcg-japonesas-en-espana/) runs it across all four games, and the [Japanese Pokemon price board in Spain](/blog/caja-pokemon-japonesa-sellada-espana-precio/) prices all 90 Pokemon boxes landed in euros. For the same boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) applies the same division one game at a time."
     ]
   },
   "japanese-vs-english-pokemon-cards-which-to-buy": {
