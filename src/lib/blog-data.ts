@@ -16950,6 +16950,185 @@ export const POSTS: Record<string, BlogPost> = {
       "One Piece buyers face the same problem one level down: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) runs the card-level checks with the same honesty about what inspection can and cannot prove."
     ]
   },
+  "is-sv11b-worth-buying": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "For the collector, yes: the box is $183.18 on our shelf for 140 cards, every Unova Pokémon has an Art Rare or better, and the set is the final Scarlet & Violet expansion. For the buyer chasing the Zekrom ex BWR, no: the card asks about $260 raw on its own, about 142% of a box, and Japanese pull rates are not published, so the chase has no honest expected cost. Buy the single, or buy the box for the set and treat the BWR as a bonus.",
+        "q": "Is SV11B Black Bolt worth buying in November 2026?"
+      },
+      {
+        "a": "A standard Japanese Black Bolt box holds 20 packs of 7 cards, 140 cards in total, with 2 cards guaranteed holofoil per pack. The Deluxe box holds 4 packs of 35 cards, also 140 cards in total, with 1 Art Rare or better guaranteed per pack. The official Japanese price is ¥290 per standard pack and ¥1,450 per Deluxe pack, which puts both formats at ¥5,800 a box at release. The Card File Set holds 6 packs, three Black Bolt and three White Flare, plus the file and the Victini promo.",
+        "q": "How many packs are in a Black Bolt booster box?"
+      },
+      {
+        "a": "The sealed case on our shelf is $991.73 for 12 boxes, which divides to $82.64 a box against $183.18 for a single box, a $1,206.43 saving across the case. But that case price is the deepest discount on our shelf and carries a catalog-error flag from cycle 33, so confirm the price at checkout before planning a purchase or a group split around it. If the price holds, the case is the way to buy Black Bolt sealed; if it does not, the single box at $183.18 is the certain price.",
+        "q": "Should I buy the Black Bolt case or single boxes?"
+      }
+    ],
+    "h1": "Is SV11B Black Bolt Worth Buying?",
+    "intro": [
+      "Short answer: yes, for the collector who wants Unova art and can live with the chase, and no, for anyone buying it as a way to own the Zekrom ex BWR. On our shelf as of November 11, 2026, the [Black Bolt booster box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $183.18, the [Deluxe box](/product/sv11b-expansion-pack-deluxe-black-bolt-booster-box-japanese-pokemon-card/) is $212.99, and the 12-box sealed case divides to $82.64 a box, against an official Japanese price of ¥5,800 a box. The set is 174 cards, every Unova Pokémon gets an Art Rare or better, and the one card everyone asks about costs more than the box that might contain it.",
+      "Who this is for: collectors deciding between Black Bolt and its twin White Flare, buyers choosing between the standard box, the Deluxe box, and the case, and anyone who has read the [Black Bolt buyer’s guide](/blog/sv11b-black-bolt-buyers-guide/) and wants the verdict. Who it is not for: anyone whose budget only stretches to one box and whose target is the Zekrom ex BWR, because the singles market sells that card for about $260 while the box costs $183.18 and guarantees nothing; anyone who wants the English set, which is a different product with different packs."
+    ],
+    "metaDescription": "Black Bolt's box is $183.18 on our shelf against ¥5,800 official. We divide box, Deluxe and case to the pack and price the Zekrom BWR chase.",
+    "metaTitle": "Is SV11B Black Bolt Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes, for the collector, with the arithmetic attached",
+        "paragraphs": [
+          "Black Bolt is the Zekrom half of the paired SV11 release, and the pair is the final expansion of the Scarlet & Violet era, built as a love letter to Unova: all 156 Pokémon first found in the region, every one of them with an Art Rare or Special Illustration Rare version. The Japanese set launched on June 6, 2025, alongside White Flare, and the English combined set followed on July 18, 2025. Seventeen months on, the question is whether $183.18 is still a fair price for it, and the answer splits by what you are buying.",
+          "So the worth-it question splits the same way it did for the twin. If you are buying 140 cards of Unova art, the box is worth it: 20 packs of 7 cards, two holofoil guaranteed per pack, four Illustration Rares per box on reported pull structure, and a secret run of 88 cards that makes every pack feel loaded. If you are buying a shot at the Zekrom ex BWR, the box is not worth it: the card asks about ¥40,000 raw on SNKRDUNK’s lowest ask as of October 7, 2026, about $260 at ¥154 to the dollar, which is 142% of the box, and The Pokémon Company publishes no Japanese pull rates, so the chase has no honest expected cost on the Japanese print at all."
+        ]
+      },
+      {
+        "h": "The money layer: box, Deluxe, case, and the $1,206.43 question",
+        "math": [
+          "Standard box: $183.18 / 20 packs = $9.16 per pack; $183.18 / 140 cards = $1.31 per card",
+          "Deluxe box: $212.99 / 4 packs = $53.25 per 35-card pack; $212.99 / 140 cards = $1.52 per card",
+          "Deluxe premium: $212.99 - $183.18 = $29.81 more than the standard box; $1.52 - $1.31 = $0.21 more per card",
+          "Sealed case: $991.73 / 12 boxes = $82.64 per box; $82.64 / 20 = $4.13 per pack; $82.64 / 140 = $0.59 per card",
+          "Case vs singles: 12 x $183.18 = $2,198.16; $2,198.16 - $991.73 = $1,206.43 saved across the case",
+          "Case vs single box: $183.18 - $82.64 = $100.54 saved per box, IF the shelf case price holds (see the caveat below)",
+          "Official price in dollars: ¥5,800 / ¥154 = $37.66 per box; ¥290 / ¥154 = $1.88 per pack",
+          "Our box vs official: $183.18 / $37.66 = 4.86x the official Japanese price",
+          "Zekrom ex BWR: ¥40,000 / ¥154 = $259.74 (SNKRDUNK lowest ask, Oct 7, 2026); $259.74 / $183.18 = 1.42x the price of a box",
+          "Zekrom ex BWR PSA 10: $694 / $183.18 = 3.79x the price of a box (CardZ MarketCap reference, Nov 10, 2026)",
+          "Card File Set: $39.04 / 6 packs = $6.51 per pack, including the file and the Victini promo",
+          "Black Bolt gap: $183.18 - $167.72 = $15.46 per box; $9.16 - $8.39 = $0.77 per pack",
+          "English ETB: $49.99 / 9 packs = $5.55 per pack at MSRP; market $139.00 / 9 = $15.44 per pack (Nov 2, 2026)",
+          "BWR chase, estimated: 1 in 400 packs (Cardrake estimate, English print); 400 / 20 = 20 boxes on average; 20 x $183.18 = $3,663.60 expected spend for a card that asks about $260 raw",
+          "English SIR expectation: ~1 in 80 packs (Poke-Life, 720 packs, Nov 2, 2026); 20 packs gives about a 22% chance of at least one SIR in a box (English rates only)"
+        ],
+        "paragraphs": [
+          "Read the first three lines and the decision is already visible. The standard box is $9.16 a pack and $1.31 a card. The Deluxe box is $53.25 per 35-card pack and $1.52 a card, a $29.81 premium for the same 140 cards, and the premium buys exactly one thing: each Deluxe pack guarantees one Art Rare or better, while a standard pack guarantees two holofoil cards and leaves the rest to the collation.",
+          "Then the case line, which is the largest number on the page and the one you must treat with the most care. Twelve boxes at $183.18 each would cost $2,198.16; the sealed case on our shelf is $991.73, a $1,206.43 gap, or $100.54 saved per box. That gap is so large it looks like a pricing error, and it is the deepest case discount on our shelf, so confirm it at checkout before you plan a group split around it.",
+          "The official-price lines are the context that keeps the shelf honest. A Japanese box officially costs ¥5,800, which is $37.66 at ¥154 to the dollar, and a pack officially costs ¥290, or $1.88. Our box at $183.18 is 4.86 times the official price, and that multiple is not a markup story, it is a seventeen-month-old set story: the set is long past its release window, the demand is not, and the market clears where it clears. The cheapest way into the set that is not a pack is the [Card File Set](/product/sv11b-sv11w-black-bolt-white-flare-card-set-japanese-pokemon-card/) at $39.04 for six packs, three of each version, plus the file and the Victini promo, which works out to $6.51 a pack before you count the file and the promo at all."
+        ]
+      },
+      {
+        "h": "The decision layer: box, Deluxe, case, singles, or the English ETB",
+        "paragraphs": [
+          "The table’s last row is the decision. The standard box is the default buy for almost everyone: the cheapest certain price, the most cards per dollar, and no caveats. The Deluxe box is the buy for the collector who wants four guaranteed Art Rares and will pay $29.81 for the certainty. The case is the buy for the splitter, the group, or the holder, and only after the price is confirmed at checkout. The singles market is the buy for anyone whose target is one named card, and the English ETB is the buy for anyone who needs English cards and accessories.",
+          "The Card File Set deserves a line because it is the cheapest way into the set that is not a pack: $39.04 for six packs, three of each version, plus the file and the Victini promo, which works out to $6.51 a pack before you count the file and the promo at all. Our [best Japanese Pokémon special set guide](/blog/best-japanese-pokemon-special-set-to-buy/) prices the special sets; the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers the ETB question honestly, because Japan never made an ETB, and the Black Bolt case at $82.64 a box is the only Japanese price that beats the English ETB per pack."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Standard box ($183.18)",
+            "Deluxe box ($212.99)",
+            "Sealed case ($991.73)",
+            "Singles",
+            "English ETB ($49.99 MSRP)"
+          ],
+          "rows": [
+            [
+              "Price per pack",
+              "$9.16",
+              "$53.25 per 35-card pack",
+              "$4.13 (if the shelf price holds)",
+              "N/A",
+              "$5.55 at MSRP; $15.44 at market"
+            ],
+            [
+              "Price per card",
+              "$1.31",
+              "$1.52",
+              "$0.59 (if the shelf price holds)",
+              "Varies by card",
+              "About $1.11 at MSRP (45 cards)"
+            ],
+            [
+              "What you get",
+              "20 packs, 140 cards",
+              "4 packs, 140 cards, 4 guaranteed ARs",
+              "12 boxes, 240 packs",
+              "Exactly the cards you want",
+              "9 packs, 1 full-art foil promo, accessories"
+            ],
+            [
+              "BWR shot",
+              "Yes, random",
+              "Yes, random",
+              "Yes, 12 boxes of random",
+              "Buy the BWR outright for about $260",
+              "Yes, random (English print)"
+            ],
+            [
+              "Best for",
+              "Most cards per dollar",
+              "Guaranteed Art Rares, no variance",
+              "Lowest per-pack price, if confirmed",
+              "One named card",
+              "English cards, accessories, gifts"
+            ],
+            [
+              "Worst for",
+              "Chasing the BWR",
+              "Paying $29.81 for certainty",
+              "Budgeting on an unconfirmed price",
+              "Opening packs",
+              "Per-card value at market"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided, and the Deluxe trap",
+        "note": "From the Warehouse: the question we get most about Black Bolt is whether the Deluxe is worth it, and the honest answer is that it depends on what a guaranteed Art Rare is worth to you, because the Deluxe holds the same 140 cards as the standard box and costs $29.81 more. At Japanese retail both formats cost the same ¥5,800 a box, so the premium is a Warehouse shelf difference, not an official one. The second most common question is whether the case price is real, and the answer is the same every time: it is the live shelf price, and it is the first figure to confirm at checkout.",
+        "paragraphs": [
+          "The top results for this query all stop at the same place: the chase list. The Samurai Sword chase-card guide prices the top ten cards against SNKRDUNK and Mercari data, and it refuses to print pull-rate odds at all, because The Pokémon Company publishes none. The Poke-Life pull-rate page measures the English set at about 1 in 80 packs for a Special Illustration Rare across 720 packs, but that is the English print. The Samurai Sword box guide lays out the box facts and gives no odds. None of them divides a real store’s shelf to the pack, none of them prices the standard box against the Deluxe box against the case on the same page, and none of them prices the BWR chase against the box it comes in.",
+          "The second gap is the Deluxe trap. A guide that calls the Deluxe box premium without showing that it buys the same 140 cards at $29.81 more is not doing arithmetic, it is doing advertising. The guarantee covers Art Rares, not the BWR, and the only honest way to present the Deluxe is the one in the money layer: the division, the size of the premium, and the question of what a guaranteed Art Rare is worth to you.",
+          "The third gap is the expected cost of the chase, which no top guide prints because the Japanese rates do not exist. One tracker estimates the English BWR at roughly 1 in 360 to 450 packs. At the middle of that range, 400 packs, a 20-pack box gives about a 5% chance, and the average spend to pull one is about 20 boxes, $3,663.60, for a card that asks about $260 raw. That estimate is for the English print, labelled as an estimate, but it is the only honest shape the chase has: a bonus, not a plan."
+        ]
+      },
+      {
+        "h": "The risk layer: the BWR chase, the case price, and the reprint",
+        "paragraphs": [
+          "The risks sort into three kinds. The first is the chase itself. Black Bolt’s value concentrates in a handful of cards: the Zekrom ex BWR at about ¥40,000 raw, the Zekrom ex Special Illustration Rare, and N’s Resolve. A box that misses the top ten returns a fraction of its price in singles, and most boxes return no BWR at all. The recovery is the one this page keeps repeating: buy the single if the card is the target, or buy the box for the set and treat the BWR as a bonus.",
+          "The second risk is the case price, already named twice, and it needs a third naming here because it is the only risk that changes the article: if the $991.73 case price is a catalog error and the corrected price is higher, the $1,206.43 saving evaporates, and anyone who budgeted a group split around it is short. Confirm at checkout, and do not plan a resale margin on an unconfirmed price. The flag has been carried since cycle 33, and the owner check is still owed.",
+          "The third risk is the reprint, and it is the quiet one. Black Bolt is seventeen months old, and one tracker reports it is still in print as of November 10, 2026, which means a reprint can still soften sealed prices. We do not claim the print run is done, because the evidence says otherwise, and a reprint would cut the sealed price first and the singles second, because sealed is where the scarcity premium lives. The hedge is the same as in every sealed guide we write: buy the box because you want the cards, not because you expect the seal to appreciate, and treat any future value as a bonus."
+        ]
+      },
+      {
+        "h": "Context: 174 cards, all of Unova, and a new rarity",
+        "paragraphs": [
+          "The set earns its price on structure, not on one card. Black Bolt prints 86 base cards and 88 secret cards: 72 Art Rares, 8 Super Rares, 7 Special Illustration Rares, and a single Black White Rare, the Zekrom ex at 174/086. Every Unova Pokémon has an Art Rare or better, which is why the set feels loaded in a way a standard expansion does not: the secret run is larger than the base set. The BWR is a new rarity tier, a monochrome foil treatment, and only two cards in the world carry it, Zekrom ex in Black Bolt and Reshiram ex in White Flare. The twin’s Reshiram ex BWR asks about ¥50,000 raw, so the $15.46 box gap between the twins is a preference fee, not a value signal.",
+          "The Deluxe format is new with this pair, and it is a different opening experience, not a better one. One Deluxe pack holds 35 cards at ¥1,450, with one Art Rare guaranteed, and the Deluxe box holds four of them, 140 cards, the same total as a standard box. The Poke Ball mirror print runs across the set as well, so a master set means collecting the mirrors too, which is why our [master set guide](/blog/what-is-a-master-set-pokemon/) exists. Our [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case for buyers who have not picked a legendary yet.",
+          "Japanese Black Bolt and English Black Bolt are different products with different formats and different prices. The Japanese set released June 6, 2025; the English set released July 18, 2025, in Elite Trainer Boxes of nine packs with a Thundurus promo, Booster Bundles of six packs, and no loose packs at all. Japanese cards are for Japanese-language play and collecting, and the language split is the same one our [Japanese versus English Pokémon cards guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) explains in full. For the whole shelf as one dated board, the [Japanese Pokémon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, and the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer whose whole budget is one box and whose target is the Zekrom ex BWR. Buy the single for about $260, or buy the box knowing the BWR is a bonus, not the plan. It is not for the player who needs Standard-legal cards for a tournament: Japanese cards are generally not legal at official events outside Asia, and the English set is the playable version. It is not for the flipper who needs the case saving to be permanent: the $1,206.43 gap is the deepest discount on our shelf and the first figure to move.",
+          "Who this guide is for, restated plainly: collectors who want the Unova dex in Japanese and will open twenty packs of it, sealed holders who divide the case before they pay for it, and buyers who have already decided the set and need the format call. If you are in one of those groups, the box at $183.18 and the case at $82.64 a box are your shortlist, with the Deluxe only if the guaranteed Art Rare is worth $29.81 to you. If you are not, buy the format that fits, a cheaper box, an English box, or singles, and come back to Black Bolt when the set, not the price, is the reason."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the target first: the set, or the Zekrom ex BWR. If it is the BWR, buy the single for about $260.",
+          "Standard box $183.18 is the default: $9.16 a pack, $1.31 a card, 20 packs of 7.",
+          "Deluxe box $212.99 only if you want four guaranteed Art Rares: $53.25 per 35-card pack, $29.81 more for the same 140 cards.",
+          "Case $991.73 only after confirming the price at checkout: $82.64 a box if the shelf figure holds.",
+          "Compare the twin: White Flare is $167.72 a box, $15.46 less, for Reshiram instead of Zekrom.",
+          "If you want English cards, the ETB is $5.55 a pack at official price and $15.44 at market: check which one you are actually paying."
+        ],
+        "h": "Action layer: the Black Bolt buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the verdict makes itself. Target first, format second, case confirmation third, and the twin comparison last, because it is the question that changes the answer only if you care which legendary is on the cover. For the twin’s verdict in depth, the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) prices the Reshiram half at $167.72 a box against Black Bolt’s $183.18, with the Deluxe at $197.53 and the case flagged for checkout confirmation."
+        ]
+      }
+    ],
+    "slug": "is-sv11b-worth-buying",
+    "takeaway": [
+      "Black Bolt is worth buying for the collector: $183.18 buys 140 cards of Unova art, 20 packs with two holofoil guaranteed per pack, and a secret run larger than the base set, in the final expansion of the Scarlet & Violet era. The Deluxe box at $212.99 buys the same 140 cards with four guaranteed Art Rares, at $0.21 more per card. The case at $991.73 divides to $82.64 a box, a $1,206.43 saving across twelve boxes, but confirm the case price at checkout before planning a split around it.",
+      "It is not worth buying as a way to own the Zekrom ex BWR. The card asks about $260 raw on its own, about 142% of a box, and a graded PSA 10 reference is $694, about 3.79 times the box. The Pokémon Company publishes no Japanese pull rates, and one tracker estimates the English BWR at roughly 1 in 360 to 450 packs, so the chase has no honest expected cost on the Japanese print. Buy the single, or buy the box for the set and treat the BWR as a bonus.",
+      "For the twin, the [White Flare buyer’s guide](/blog/sv11w-white-flare-buyers-guide/) prices the Reshiram half at $167.72 a box, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case. For the same worth-it question in the other game we stock, the [best Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen Lorcana sets to per-pack prices.",
+      "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box."
+    ]
+  },
   "is-sv11w-worth-buying": {
     "datePublished": "2026-11-07",
     "faqs": [
@@ -17121,7 +17300,182 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "White Flare is worth buying for the collector: $167.72 buys 140 cards of Unova art, 20 packs with two holofoil guaranteed per pack, and a secret run larger than the base set, in the final expansion of the Scarlet & Violet era. The Deluxe box at $197.53 buys the same 140 cards with four guaranteed Art Rares, at $0.21 more per card. The case at $892.12 divides to $74.34 a box, a $1,120.52 saving across twelve boxes, but that figure carries the cycle-33 catalog-error flag: confirm the case price at checkout before planning around it.",
       "It is not worth buying as a way to own the Reshiram ex BWR. The card asks about ¥50,000, or $316.46, on its own, and The Pokémon Company publishes no Japanese pull rates, so the chase has no honest expected cost. Buy the single, or buy the box for the set and treat the BWR as a bonus.",
-      "For the twin, the [Black Bolt buyer’s guide](/blog/sv11b-black-bolt-buyers-guide/) prices the Zekrom half at $183.18 a box, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case. For the same worth-it question in the other game we stock, the [best Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen Lorcana sets to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter. New this cycle: the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) is the English-versus-Japanese comparison this article summarizes."
+      "For the twin, the [Black Bolt buyer’s guide](/blog/sv11b-black-bolt-buyers-guide/) prices the Zekrom half at $183.18 a box, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case. For the same worth-it question in the other game we stock, the [best Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen Lorcana sets to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter. New this cycle: the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) is the English-versus-Japanese comparison this article summarizes.",
+      "New this cycle: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box."
+    ]
+  },
+  "is-sv2a-worth-buying": {
+    "datePublished": "2026-11-11",
+    "faqs": [
+      {
+        "a": "For opening, only if you want the original 151 in Japanese and accept $23.56 a pack, the dearest pack on our shelf, with a long horizon. The case is the better sealed buy at $317.44 a box, saving $1,845.08 against twelve singles. For profit, no: no box guarantees any secret rare, the publisher has already reprinted the set once on a made-to-order basis, and the average spend to pull a Charizard ex SAR is $5,277.44 for a card worth about $408 raw.",
+        "q": "Is the SV2a Pokemon 151 box worth buying?"
+      },
+      {
+        "a": "Twenty packs of 7 cards, 140 cards to a box, and twelve boxes to a sealed case, 240 packs and 1,680 cards. The official product page prints no pack count per box and no box price, so the 20-pack figure is the retailer and box standard, stated as such. A pack retails at 290 yen for 7 cards, which puts a box at 5,800 yen at release.",
+        "q": "How many packs are in a Pokemon 151 booster box?"
+      },
+      {
+        "a": "Buy Japanese if you want the Japanese set: 210 cards, 20 packs of 7, the Master Ball mirror prints, and the June 16, 2023 release. Buy English if you want to play outside Asia or collect in English, but know it is a different set with its own card list and its own sealed prices: the English set released September 22, 2023, in boxes of 36 packs of 10 cards, with no Master Ball mirrors. The Japanese box is not a cheaper English box; it is a different set in a different shape.",
+        "q": "Should I buy Japanese 151 or English 151?"
+      }
+    ],
+    "h1": "Is SV2a Pokemon 151 Worth Buying?",
+    "intro": [
+      "Short answer: yes, for the long-horizon collector who wants the original 151 in Japanese, and no, for anyone buying it to pull one named card or flip it short-term. On our shelf as of November 11, 2026, the [SV2a box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) is $471.20, the dearest box we stock, and the [sealed case](/product/sv2a-pokemon-card-151-sealed-case-12-boxes-japanese-pokemon-card/) divides to $317.44 a box. The set is 210 cards, released in Japan on June 16, 2023, in boxes of 20 packs of 7 cards, and the chase has moved since our buyer’s guide: the Charizard ex SAR asks about $408 raw, up from about $279 five weeks ago.",
+      "Who this is for: collectors who want the Kanto 151 in Japanese, sealed holders who divide the case before they pay, and buyers choosing 151 against the cheaper sets beside it. Who it is not for: anyone chasing one named card, who should buy the single; anyone who needs English cards for tournament play; and anyone who wants a cheap first box or a quick flip, because the top timing guide rates SV2a WAIT / LONG HOLD for short-term buyers."
+    ],
+    "metaDescription": "Pokemon 151's box is $471.20, the dearest on our shelf. We divide box and case to the pack and price the Charizard SAR chase.",
+    "metaTitle": "Is SV2a Pokemon 151 Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes, for the long-horizon collector, with the arithmetic attached",
+        "paragraphs": [
+          "The buyer comes first and the format second, because SV2a punishes the buyer who gets the order backwards. A collector who wants to open the set buys the [SV2a box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) at $471.20: 20 packs of 7 cards, 140 cards, $23.56 per pack and $3.37 per card, the dearest pack on our shelf. A sealed holder or group buy buys the [SV2a case](/product/sv2a-pokemon-card-151-sealed-case-12-boxes-japanese-pokemon-card/) at $3,809.32: 12 boxes at $317.44 per box, $15.87 per pack, and $2.27 per card.",
+          "The case is the story of this page, because it is the largest case saving on the shelf and the dearest box at the same time. On much of the Japanese shelf, a sealed case costs slightly more per box than buying singles. SV2a runs the other way, and by a lot: $153.76 saved per box, $1,845.08 across the case.",
+          "The chase has moved since our buyer’s guide, and it has moved up. The Charizard ex SAR asked about $279 on October 2, 2026, and the reference price is $408.20 as of November 11, 2026, about 87% of a whole box, up 46% in five weeks. The Gengar Master Ball mirror asked about $487 on the same October date, and the median of recorded sales is $675 as of November 11, 2026, about 143% of a box. Both chases are rising faster than the seal, which is a warning for the opener: the cards you want are getting more expensive, and the box is not the cheap way to catch them."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $1,845.08 gap",
+        "math": [
+          "SV2a box per pack: $471.20 ÷ 20 = $23.56 per pack",
+          "SV2a box per card: $471.20 ÷ 140 = $3.37 per card",
+          "SV2a case per box: $3,809.32 ÷ 12 = $317.44 per box",
+          "SV2a case per pack: $3,809.32 ÷ 240 = $15.87 per pack",
+          "SV2a case per card: $3,809.32 ÷ 1,680 = $2.27 per card",
+          "SV2a twelve singles: 12 × $471.20 = $5,654.40",
+          "SV2a case saving: $5,654.40 − $3,809.32 = $1,845.08 across the case",
+          "SV2a saving per box: $1,845.08 ÷ 12 = $153.76 per box",
+          "SV2a release box: 20 packs × ¥290 = ¥5,800 at release (yen only; no conversion claimed)",
+          "SV2a Japan-domestic ask gap: $471.20 − $276 = $195.20 above the SNKRDUNK lowest ask of ¥42,500 (~$276) on October 2, 2026",
+          "SV2a SST sealed gap: $471.20 − $289 = $182.20 above the SST sealed listing of ¥44,502 (~$289) on October 1, 2026",
+          "SV2a box vs SV10 box: $471.20 − $212.99 = $258.21 more",
+          "SV2a box vs M2 box: $471.20 − $183.18 = $288.02 more",
+          "SV2a box vs SV9a box: $471.20 − $163.32 = $307.88 more",
+          "Charizard ex SAR ask vs box: $408.20 ÷ $471.20 = about 87% of the box price",
+          "Charizard ex SAR move: $408.20 ÷ $279 = 1.46x the October 2, 2026 ask of about $279",
+          "Gengar Master Ball mirror vs box: $675 ÷ $471.20 = about 143% of the box price",
+          "Charizard ex SAR expected cost: 1 in 224 packs for the specific card; 224 ÷ 20 = 11.2 boxes on average; 11.2 × $471.20 = $5,277.44 expected spend to pull a card worth about $408 raw"
+        ],
+        "paragraphs": [
+          "Start with the box. The SV2a box is $471.20 for 20 packs of 7 cards, which is $23.56 per pack and $3.37 per card. Against the original Japanese retail price, the box has traveled a long way: packs retailed at 290 yen for 7 cards, which puts a box at 5,800 yen at release. The Warehouse price is a November 11, 2026 shelf price in dollars, not a yen conversion.",
+          "The case arithmetic is where the page earns its keep. The SV2a case is $3,809.32 for 12 boxes, which is $317.44 per box, $15.87 per pack, and $2.27 per card. Twelve singles at $471.20 cost $5,654.40, so the case saves $1,845.08 in total and $153.76 per box. For context, dated as it must be: a Japan-domestic marketplace listed its lowest ask for a sealed SV2a box at 42,500 yen, about $276, on October 2, 2026, and a Tokyo seller’s sealed listing was 44,502 yen, about $289, on October 1, 2026. Our shelf box sits $195.20 above the marketplace ask and $182.20 above the Tokyo listing, and that gap is forwarding, retail, and the difference between a Japan-domestic ask and a shipped-from-Japan shelf price.",
+          "The neighboring shelf is not close. [Glory of Team Rocket](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/), the next dearest box we stock, is $212.99, which is $258.21 below SV2a. [Inferno X](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) is $183.18, [Heat Wave Arena](/product/sv9a-heat-wave-arena-booster-box-japanese-pokemon-card/) is $163.32, and [Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is $70.62, the cheapest box on the shelf. A Tokyo timing guide puts the Japan range for SV2a at 68,500 to 80,000 yen, about $445 to $519 at 154 yen to the dollar, and our shelf box sits inside that range. One price-tracking page averaged $409.95 over 30 days, but its page was last updated about three months ago, so treat that figure as dated."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Six rows cover nearly every buyer, and the money layer above carries the full division. Prices are our shelf prices as of November 11, 2026, except the two chase rows, which are dated marketplace references and labeled as such. We sell SV2a as single boxes and as a sealed case of twelve, never as loose packs.",
+          "Read the table by buyer type. Collectors scan the chase rows first: one Charizard ex SAR at about $408 is 87% of a whole box, and one Gengar Master Ball mirror at about $675 costs more than the box itself, so a buyer who wants one named card should buy the card, not the seal. Openers scan the per-pack column and notice $23.56 a pack, the dearest pack on the shelf, against $7.10 for SV10. Holders scan the case row and notice $317.44 a box, the only way to buy 151 sealed without paying the dearest single-box price.",
+          "The sets around 151 tell the same story at lower prices: the [SV1a Triplet Beat buyer’s guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the set that came two months before 151, the [SV2d Clay Burst buyer’s guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came a month after it, and the [SV3 Ruler of Black Flame buyer’s guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the other Charizard-chase set."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Warehouse price, Nov 11 2026",
+            "What is printed",
+            "Per-box / per-pack / per-card"
+          ],
+          "rows": [
+            [
+              "SV2a box",
+              "$471.20",
+              "20 packs of 7 cards; 210 cards",
+              "$23.56 per pack; $3.37 per card"
+            ],
+            [
+              "SV2a case",
+              "$3,809.32",
+              "12 boxes printed",
+              "$317.44 per box; $15.87 per pack; $2.27 per card"
+            ],
+            [
+              "12 SV2a singles",
+              "$5,654.40",
+              "12 × $471.20",
+              "Case saves $1,845.08; $153.76 per box"
+            ],
+            [
+              "Charizard ex SAR 201/165",
+              "About $408",
+              "SnapHolo reference, Nov 11, 2026",
+              "About 87% of the box price; a reference, not a sale"
+            ],
+            [
+              "Gengar Master Ball mirror 094/165",
+              "About $675",
+              "PokeInvest median of sales, Nov 11, 2026",
+              "About 143% of the box price; more than the box"
+            ],
+            [
+              "SV10 box",
+              "$212.99",
+              "30 packs of 5 cards; 132 cards",
+              "$7.10 per pack; $1.42 per card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, divided, and the chase priced",
+        "note": "From the Warehouse: the question we get most about 151 is whether the box is worth it at this price, and the honest answer starts with the reprint notice. The Pokémon Company published a made-to-order reprint notice on June 13, 2023, three days before release, after the first print run sold out. A set whose publisher has already shown it will print more when demand spikes is not a set to buy for scarcity alone. Buy it because you want the cards, and let the case saving, not the scarcity story, do the work.",
+        "paragraphs": [
+          "The top results for this question do not divide anything. The first is a card-value list: the set’s chase cards ranked, with collector ratings of 9.8 for collectibility and 6.0 for sealed availability, and no shelf price on the page. The second is a price history: the Japanese SV2a box averaged $409.95 over 30 days, high $434.99, low $199.95 from one retailer clearing stock, but the page is about three months stale and mostly about the English set. The third is a timing guide: SV2a rated WAIT / LONG HOLD, with a Japan range of 68,500 to 80,000 yen. None of them divides a live Japanese shelf to the pack, none prices the box against the case against the chase singles from one store, and none runs the expected-cost math on the Charizard chase.",
+          "That gap hides three findings. First, the full ladder: no guide prices the box at $471.20 beside the case at $317.44 a box, so a buyer cannot see the $1,845.08 saving, the largest on our shelf. Second, the expected cost: measured English 151 openings put a Special Illustration Rare at about 1 in 32 packs, from 56 hits in 1,809 packs, and with 7 Special Illustration Rares sharing the slot, the Charizard comes out at about 1 in 224 packs. A 20-pack box gives about a 9% chance of pulling it, and the average spend to pull one is 11.2 boxes, $5,277.44, for a card worth about $408 raw. Those rates are measured on the English print and labelled as such, because the Japanese print publishes no rates at all.",
+          "Third, the two mirrors, which is where buyers lose real money. The official database lists Gengar 094/165 once, with no separate row for either mirror pattern, but the patterns trade orders of magnitude apart: the common Monster Ball mirror asked about 1,400 yen, about $9, on SNKRDUNK on September 30, 2026, while the rare Master Ball mirror asked 65,000 yen, about $422, on the same date. A buyer who does not name the pattern can overpay by two orders of magnitude for the common one, or pass on the rare one thinking it is the common one."
+        ]
+      },
+      {
+        "h": "The risk layer: reprints, reseals, and the $471.20 question",
+        "paragraphs": [
+          "The first risk is the reprint. The Pokémon Company published a made-to-order reprint notice on June 13, 2023, after the first print run sold out, and the set has since gone to official made-to-order reprint. That is a published mechanism for more supply, not a rumor. The official news lists for 2023 through 2026 show no later reprint notice for SV2a as of October 2, 2026. A buyer who pays $471.20 for a sealed box pays a scarcity premium on a set whose publisher has already shown it will print more when demand spikes. The recovery is to buy the set because you want the cards, not because you expect the seal to appreciate.",
+          "The second risk is the reseal, and it concentrates exactly where the money is: a $471.20 box is the most resealed-shaped product on the shelf, because the gap between a sealed box and an opened one is hundreds of dollars. A loose pack, a box from a marketplace seller, or any listing priced far below the shelf is the high-risk purchase, because a searched pack looks identical to a sealed pack until it is opened. A factory-sealed box or case from a store that ships from Japan is the low-risk purchase.",
+          "The third risk is the chase math. No box guarantees any secret rare, and the official page states only that cards are inserted at random; no pull rates are published. One Charizard ex SAR at about $408 is 87% of a box, and one Gengar Master Ball mirror at about $675 costs more than the box. The recovery for all three risks is the same: name the format, name the language, and name the reason in one sentence before you pay. If the reason is one named card, buy the single. If the reason is the set, buy the case."
+        ]
+      },
+      {
+        "h": "Context: 210 cards, one Kanto dex, and the Master Ball mirror",
+        "paragraphs": [
+          "Pokemon Card 151 brought the original 151 Kanto Pokemon back as full-art secret rares, and the structure is the whole appeal. The set is 210 cards: 165 numbered cards plus a 45-card secret run of 18 Art Rare, 16 Super Rare, 8 Special Art Rare, and 3 Ultra Rare. The 8-card Special Art Rare tier, numbered 200 to 207, holds the starter trio, Venusaur ex, Charizard ex, and Blastoise ex, plus Alakazam ex, Zapdos ex, and Mew ex, with Erika’s Invitation at 206.",
+          "The set’s signature is the Master Ball mirror, a reverse print with the Poke Ball pattern that runs across the base set, and it is where the single-card money actually sits. Collectors report usually one Master Ball mirror per box, from 153 possible cards, but that is a report, not a guarantee. The Gengar Master Ball mirror, 094/165, carried the highest value in the set, and a master set of 151 means collecting the mirrors too, which is why our [master set guide](/blog/what-is-a-master-set-pokemon/) exists. The warning bears repeating: the database has one row for 094/165, the common Monster Ball mirror and the rare Master Ball mirror are different cards at different prices, and the pattern must be named before any money moves.",
+          "Japanese 151 and English 151 are different sets with different card lists and different sealed prices, and the Japanese box is not a cheaper English box. The Japanese set released June 16, 2023; the English set followed on September 22, 2023, with its own list, 36 packs of 10 cards to a box, and no Master Ball mirrors. Japanese cards are for Japanese-language play and collecting; the language split is the same one our [Japanese versus English Pokemon cards guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) explains in full. For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, and the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, not the seal, especially when the average spend to pull a Charizard ex SAR is $5,277.44 and one Gengar mirror costs more than the box. Second, English-tournament players: Japanese cards do not play in English events, and no per-pack saving changes that. Third, first-box buyers on a budget and short-term flippers: at $23.56 a pack, SV2a is the dearest pack on the shelf, and the top timing guide rates it WAIT / LONG HOLD.",
+          "Who this guide is for, restated plainly: collectors who want the original 151 in Japanese and will open twenty packs of it, sealed holders who divide the case before they pay for it, and buyers who have already decided the set and need the format call. If you are in one of those groups, the case at $317.44 a box is your shortlist. If you are not, buy the format that fits, a cheaper box, an English box, or singles, and come back to 151 when the set, not the price, is the reason."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "Divide the box by 20 packs and 140 cards, then divide the case by 12 boxes, 240 packs, and 1,680 cards, and never compare a case price to a box price",
+          "If buying for one named card, stop and buy the single instead; the average spend to pull a Charizard ex SAR is $5,277.44",
+          "If buying sealed, weigh the reprint notice: the publisher has printed more before, and sealed supply can grow again",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event",
+          "If buying from a marketplace, compare the domestic ask to the shelf price and add forwarding before you call it cheaper",
+          "If buying a Gengar mirror, name the pattern first: Master Ball is the rare one, Monster Ball is the common one",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the 151 buying checklist",
+        "paragraphs": [
+          "Run this in order before the next SV2a box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision built on prices you can actually pay. For the full division behind this verdict, the [SV2a Pokemon 151 buyer’s guide](/blog/sv2a-pokemon-151-buyers-guide/) runs the box, the case, and the chase to the pack and the card."
+        ]
+      }
+    ],
+    "slug": "is-sv2a-worth-buying",
+    "takeaway": [
+      "The SV2a box at $471.20 is the dearest box on our shelf at $23.56 a pack, and the case at $3,809.32 is the way to buy it sealed, at $317.44 a box and $15.87 a pack, saving $1,845.08 against twelve singles, the largest case saving on the shelf. The set is 210 cards, released June 16, 2023, and the chase has risen since our buyer’s guide: the Charizard ex SAR at about $408 raw and the Gengar Master Ball mirror at about $675, both up by more than a third in five weeks.",
+      "It is not worth buying as a way to own one named card. Measured English 151 openings put a Special Illustration Rare at about 1 in 32 packs, and one specific card, the Charizard, at about 1 in 224 packs, so the average spend to pull one is 11.2 boxes, $5,277.44, for a card worth about $408 raw. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, and the marketplace references as of October 2 to November 11, 2026. The reprint notice is the fact that outlives every price on this page: the publisher has printed more before, and sealed supply can grow again.",
+      "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks the shelf by value.",
+      "New this cycle: the [is SV11B Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the newest verdict the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box."
     ]
   },
   "japanese-booster-box-price": {
@@ -27931,7 +28285,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) proves the twin sets are the same bet. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, the largest case saving we stock.",
       "For the ETB question in depth, the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers it honestly: Japan never made an ETB, and the Black Bolt case at $82.64 a box is the only Japanese price that beats the English ETB per pack.",
-      "For the White Flare verdict in depth, the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) prices the twin at $167.72 a box against Black Bolt's $183.18, with the Deluxe at $197.53 and the case flagged for checkout confirmation."
+      "For the White Flare verdict in depth, the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) prices the twin at $167.72 a box against Black Bolt's $183.18, with the Deluxe at $197.53 and the case flagged for checkout confirmation.",
+      "For the Black Bolt verdict in depth, the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half at $183.18 a box against White Flare’s $167.72, with the Deluxe at $212.99 and the case flagged for checkout confirmation."
     ]
   },
   "sv11w-white-flare-buyers-guide": {
@@ -28285,7 +28640,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, with a case that saves $196.81, and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box.",
       "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices the launch set at $111.46 a box, with a case that saves $234.29, and the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the twin at $88.27 a box, with a case that saves $106.91.",
-      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the second Paldea Evolved component at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90."
+      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the second Paldea Evolved component at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90.",
+      "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box."
     ]
   },
   "sv1s-scarlet-ex-buyers-guide": {
@@ -28817,7 +29173,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the newest set the same way, box $183.18 against a case that saves $100.54 a box, with the Deluxe pack divided beside them.",
       "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the other Charizard-chase set, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own.",
       "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came a month after Pokemon 151 at $102.64 a box, with the Iono SAR at $296.26 carrying more than half the set's value.",
-      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the set that came two months before Pokemon 151 at $152.29 a box, with a case that saves $223.15 and a chase that tops out at $129.90."
+      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the set that came two months before Pokemon 151 at $152.29 a box, with a case that saves $223.15 and a chase that tops out at $129.90.",
+      "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) answers the worth-it question in full, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box."
     ]
   },
   "sv2d-clay-burst-buyers-guide": {
