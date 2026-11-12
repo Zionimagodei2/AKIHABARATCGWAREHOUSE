@@ -132,7 +132,7 @@ export default function RootLayout({
         image: "https://www.akihabaratcgwarehouse.com/og-image.png",
         priceRange: "$$",
         currenciesAccepted: "USD, JPY, EUR, GBP",
-        paymentAccepted: "Credit Card, PayPal, Bank Transfer",
+        paymentAccepted: "Wise, Zelle, Chime, Cash App, Apple Pay, Google Pay, Credit Card, Bank Transfer, Cryptocurrency",
         address: {
           "@type": "PostalAddress",
           addressLocality: "Akihabara",

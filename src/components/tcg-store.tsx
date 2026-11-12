@@ -2130,7 +2130,7 @@ function FAQPage() {
     },
     {
       q: "What payment methods do you accept?",
-      a: "We accept all major credit cards (Visa, Mastercard, American Express), PayPal, and bank transfers for wholesale orders. All transactions are processed through secure, encrypted payment gateways.",
+      a: "We accept Wise, Zelle, Chime, Cash App, Apple Pay, Google Pay, bank transfers, all major credit cards (Visa, Mastercard, American Express), and cryptocurrency. We confirm the payment details with you directly when your order is placed.",
     },
     {
       q: "How long does shipping take?",
@@ -2736,9 +2736,10 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
     MY: "Malaysia", OTHER: "Other",
   };
   const PAYMENT_LABELS: Record<string, string> = {
+    wise: "Wise",
+    zelle_chime_cashapp: "Zelle, Chime or Cash App",
+    apple_google_pay: "Apple Pay or Google Pay",
     bank_transfer: "Bank Transfer",
-    paypal: "PayPal",
-    wise: "Wise (TransferWise)",
     credit_card: "Credit / Debit Card",
     crypto: "Cryptocurrency",
   };
@@ -3167,9 +3168,10 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
                 </h2>
                 <div className="grid sm:grid-cols-2 gap-3">
                   {[
+                    { value: "wise", label: "Wise", desc: "Fast & Secure for International Payments", icon: "💸" },
+                    { value: "zelle_chime_cashapp", label: "Zelle, Chime or Cash App", desc: "Please contact us on WhatsApp first before sending", icon: "💵" },
+                    { value: "apple_google_pay", label: "Apple Pay or Google Pay", desc: "Tap to Pay on supported devices", icon: "📱" },
                     { value: "bank_transfer", label: "Bank Transfer", desc: "Direct bank wire transfer", icon: "🏦" },
-                    { value: "paypal", label: "PayPal", desc: "Pay with your PayPal account", icon: "🅿️" },
-                    { value: "wise", label: "Wise (TransferWise)", desc: "Low-cost international transfer", icon: "💸" },
                     { value: "credit_card", label: "Credit / Debit Card", desc: "Visa, Mastercard, AMEX", icon: "💳" },
                     { value: "crypto", label: "Cryptocurrency", desc: "BTC, ETH, USDT", icon: "₿" },
                   ].map((method) => (

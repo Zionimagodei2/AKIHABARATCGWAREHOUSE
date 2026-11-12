@@ -604,7 +604,7 @@ export const GUIDES: Record<string, Guide> = {
       },
       {
         heading: "8. Use protected payment methods",
-        html: "Credit cards and PayPal give you recourse if an order never ships. Sellers who only accept irreversible payment methods are telling you something.",
+        html: "Credit cards give you recourse if an order never ships. Sellers who only accept irreversible payment methods are telling you something.",
       },
       {
         heading: "The short version",

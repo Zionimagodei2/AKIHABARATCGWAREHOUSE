@@ -83,7 +83,7 @@ export default function Home() {
       },
       {
         q: "What payment methods do you accept?",
-        a: "We accept all major credit cards (Visa, Mastercard, American Express), PayPal, and bank transfers for wholesale orders. All transactions are processed through secure, encrypted payment gateways.",
+        a: "We accept Wise, Zelle, Chime, Cash App, Apple Pay, Google Pay, bank transfers, all major credit cards (Visa, Mastercard, American Express), and cryptocurrency. We confirm the payment details with you directly when your order is placed.",
       },
       {
         q: "How long does shipping take?",

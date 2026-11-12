@@ -1,7 +1,7 @@
 import { insertInto, deleteFrom, isSupabaseConfigured } from '@/lib/supabase-client'
 import { NextRequest, NextResponse } from 'next/server'
 
-const VALID_PAYMENT_METHODS = ['bank_transfer', 'paypal', 'credit_card', 'wise', 'crypto']
+const VALID_PAYMENT_METHODS = ['wise', 'zelle_chime_cashapp', 'apple_google_pay', 'bank_transfer', 'credit_card', 'crypto']
 
 interface CheckoutItem {
   productId?: string
