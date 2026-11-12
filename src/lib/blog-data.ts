@@ -19435,7 +19435,396 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Gear 5 set, sealed or opened, and it is not worth buying as a way to own one named card. The Luffy Manga sat at $5,700.00 on TCGplayer market as of October 2026, which is 30.54 Japanese boxes and 11.47 English boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is worth buying for Standard play only until April 1, 2027: Awakening of the New Era is Block 2, and Block 2 leaves Standard that day. The three Manga Rare numbers stay legal on Bandai's Block X list, but the rest of the set moves to Extra Regulation, like OP-01 through OP-04 did in April 2026. It is a collector's purchase with a dated tournament clock.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of October 26, 2026. The 20% English repricing is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [is OP-04 worth buying guide](/blog/is-op-04-worth-buying/) prices Kingdoms of Intrigue the same way, with its own 20% English drop and the Sabo Manga against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+      "New this cycle: the [is OP-04 worth buying guide](/blog/is-op-04-worth-buying/) prices Kingdoms of Intrigue the same way, with its own 20% English drop and the Sabo Manga against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "New this cycle: the [is OP-06 worth buying guide](/blog/is-op-06-worth-buying/) prices Wings of the Captain the same way, with the Zoro Manga at $2,500.00 and the English case $41.66 below the market box."
+    ]
+  },
+  "is-op-06-worth-buying": {
+    "datePublished": "2026-11-12",
+    "faqs": [
+      {
+        "a": "Barely. The Warehouse Japanese sealed case divides to $165.51 a box against $165.86 for a single box, a saving of $4.22 across twelve boxes, or $0.35 a box. That is not a bulk discount in any meaningful sense; it is the same price in a bigger carton. The English case is the real case deal: $362.64 a box against $470.90 for a single English box, a saving of $1,299.12. If the plan is twelve Japanese boxes, buy the case for the sealed-case premium, not for the saving, because there is almost none.",
+        "q": "Is the OP-06 Japanese sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Zoro Manga, OP06-118, sat at $2,500.00 on TCGplayer market as of November 11, 2026, which is 15.07 Japanese boxes at $165.86, and the community estimate for a Manga Rare is about 1 in 60 boxes. The top ten cards in the set total $3,573.83, and the Zoro Manga alone is 69.95 percent of that, while the next card, the Ms. All Sunday Special, is $247.71. Bandai publishes no pull rates, so no box is a calculated chase. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an OP-06 box to pull the Zoro Manga?"
+      },
+      {
+        "a": "Only if the English card is the point. The English box is $470.90 on this shelf against $165.86 for the Japanese box, a gap of $305.04, and the English box is $66.60 above the $404.30 TCGplayer market box, while the Japanese box has no TCGplayer sealed listing to compare against. The English box buys the Nami Treasure Rare, ST01-007, at $202.98, which does not exist in Japanese, and English cards for English-region play. If the job is opening Wings of the Captain, the Japanese box is the same 144 cards for $305.04 less.",
+        "q": "Is the English OP-06 box worth the premium over the Japanese box?"
+      }
+    ],
+    "h1": "Is OP-06 Wings of the Captain Worth Buying?",
+    "intro": [
+      "Short answer: yes, sealed, and no, opened for the chase. The Japanese box is $165.86 on this shelf, $6.91 a pack and $1.15 a card, and the English box is $470.90, $19.62 a pack, against a $404.30 TCGplayer market box as of November 12, 2026. The Zoro Manga that defines this set sat at $2,500.00 on TCGplayer market as of November 11, 2026, which is 15.07 Japanese boxes, and the expected value of an English box is $124.34, or 0.31 times its market price. The set is 126 cards, released in Japan on November 25, 2023, and its manga rare has risen 56 percent since March 2024 while nearly every alt-art leader in it has fallen by half or more.",
+      "Who this is for: the sealed collector who wants the Zoro Manga set at its floor, the case buyer who wants twelve English boxes below the market box, and the player who wants Thriller Bark and Germa 66 cards in Japanese at $6.91 a pack. Who it is not for: anyone chasing the Zoro Manga, who should buy the single at $2,500.00; anyone who wants one English box at the market price, because our English box is $66.60 above it; and anyone buying for the alt-art leaders, because Perona and Yamato have fallen 49 and 67 percent since launch."
+    ],
+    "metaDescription": "OP-06 Wings of the Captain: $165.86 Japanese box, Zoro Manga $2,500. The verdict on the manga lottery, the English premium, and the falling leaders.",
+    "metaTitle": "Is OP-06 Wings of the Captain Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes, sealed, with the manga doing all the work",
+        "paragraphs": [
+          "The buyer comes first and the route second, because OP-06 punishes the buyer who gets the order backwards. A buyer who wants the set sealed buys the [OP-06 Japanese booster box](/product/op-06-wings-of-the-captain-booster-box-japanese-one-piece-card/) at $165.86: 24 packs of 6 cards, 144 cards, $6.91 per pack and $1.15 per card. A buyer who wants twelve English boxes buys the [OP-06 English sealed case](/product/op-06-wings-of-the-captain-sealed-case-12-boxes-english-one-piece-card/) at $4,351.68, or $362.64 a box, $41.66 below the $404.30 TCGplayer market box. A buyer who wants one named card buys the single: the Zoro Manga at $2,500.00, the Ms. All Sunday Special at $247.71, or the English-only Nami Treasure Rare at $202.98.",
+          "The box is dear by every measure the Warehouse runs. Its official price is 24 packs at 220 yen, or 5,280 yen, which converts to $33.06 at 159.7 yen per dollar on November 12, 2026, so our $165.86 box sits $132.80 above the derived official box price, at 5.02 times it. Bandai prints no box price, so that 5,280 yen is arithmetic from the pack price, not an official figure, and it is stated as such. The market agrees the English shelf is dear: Pullnomics put the TCGplayer market box at $404.30 as of November 12, 2026, so our $470.90 English box is $66.60 above the market, or 16.5 percent above it, while our English case box at $362.64 sits $41.66 below it. The full ladder runs in the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+          "The chase is the warning, and it is arithmetic, not opinion. The Zoro Manga, OP06-118, at $2,500.00 is 15.07 Japanese boxes, 5.31 English boxes, and 15.10 case-boxes. The top ten cards in the set total $3,573.83, and the Zoro Manga alone is 69.95 percent of that, $2,500.00 of $3,573.83, while the second card is $247.71 and the tenth is $51.84. Bandai publishes no pull rates for OP-06, so there is no expected value to print from official odds; Pullnomics models the English box at $124.34 against the $404.30 market, 0.31 times, and $39.46 with no case hit, 0.08 times our English box. The verdict follows the arithmetic: buy the box sealed, buy the single for the card, and never open a box to find the manga."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, and the market flip",
+        "math": [
+          "OP-06 Japanese box per pack: $165.86 ÷ 24 packs = $6.91 per pack",
+          "OP-06 Japanese box per card: $165.86 ÷ 144 cards = $1.15 per card",
+          "OP-06 Japanese sealed case per box: $1,986.10 ÷ 12 boxes = $165.51 per box",
+          "OP-06 Japanese sealed case per pack: $1,986.10 ÷ 288 packs = $6.90 per pack",
+          "OP-06 Japanese sealed case per card: $1,986.10 ÷ 1,728 cards = $1.15 per card",
+          "OP-06 Japanese case saving vs 12 single boxes: (12 × $165.86) − $1,986.10 = $4.22 per case",
+          "OP-06 Japanese box vs official pack price: 24 packs × ¥220 = ¥5,280; ¥5,280 ÷ 159.7 = $33.06; $165.86 − $33.06 = $132.80 above official",
+          "OP-06 Japanese box vs official ratio: $165.86 ÷ $33.06 = 5.02× official",
+          "OP-06 English box per pack: $470.90 ÷ 24 packs = $19.62 per pack",
+          "OP-06 English box per card: $470.90 ÷ 288 cards = $1.64 per card",
+          "OP-06 English sealed case per box: $4,351.68 ÷ 12 boxes = $362.64 per box",
+          "OP-06 English sealed case per pack: $4,351.68 ÷ 288 packs = $15.11 per pack",
+          "OP-06 English case saving vs 12 single boxes: (12 × $470.90) − $4,351.68 = $1,299.12 per case",
+          "OP-06 English vs Japanese box gap: $470.90 − $165.86 = $305.04 per box",
+          "OP-06 English box vs market box: $470.90 − $404.30 = $66.60 above market",
+          "OP-06 English box vs market box percent: $66.60 ÷ $404.30 = 16.47% above market",
+          "OP-06 English case per box vs market box: $404.30 − $362.64 = $41.66 below market",
+          "OP-06 English case vs 12 market boxes: (12 × $404.30) − $4,351.68 = $499.92 per case",
+          "OP-06 English box vs pack arithmetic: 24 packs × $4.49 = $107.76; $470.90 − $107.76 = $363.14 above arithmetic",
+          "OP-06 English box vs pack arithmetic ratio: $470.90 ÷ $107.76 = 4.37×",
+          "Zoro Manga vs Japanese box: $2,500.00 ÷ $165.86 = 15.07 boxes",
+          "Zoro Manga vs English box: $2,500.00 ÷ $470.90 = 5.31 boxes",
+          "Zoro Manga vs Japanese case per box: $2,500.00 ÷ $165.51 = 15.10 boxes",
+          "Top five chase cards total: $2,500.00 + $247.71 + $202.98 + $137.09 + $127.76 = $3,215.54",
+          "Top ten chase cards total: $3,215.54 + $114.42 + $68.05 + $65.74 + $58.24 + $51.84 = $3,573.83",
+          "Zoro Manga share of top ten: $2,500.00 ÷ $3,573.83 = 69.95%",
+          "Nami Treasure Rare vs Japanese box: $202.98 ÷ $165.86 = 1.22 boxes",
+          "Expected value vs market box: $124.34 ÷ $404.30 = 0.31×",
+          "Expected value vs our English box: $124.34 ÷ $470.90 = 0.26×",
+          "No-case-hit expected value vs our English box: $39.46 ÷ $470.90 = 0.08×",
+          "SNKRDUNK lowest Japanese box ask: ¥19,800 ÷ 159.7 = $123.98",
+          "Our Japanese box vs SNKRDUNK ask: $165.86 − $123.98 = $41.88 above the ask",
+          "Zoro Manga reprint vs original: $2,500.00 − $2,350.00 = $150.00",
+          "Zoro Manga reprint ratio: $2,350.00 ÷ $2,500.00 = 0.94×",
+          "Zoro Manga March 2024 to November 2026: ($2,500.00 − $1,602.77) ÷ $1,602.77 = 55.98%",
+          "Yamato Alt Art March 2024 to November 2026: ($65.74 − $199.31) ÷ $199.31 = -67.02%",
+          "Cardmarket English box vs our English box: $470.90 − $308.16 = $162.74"
+        ],
+        "paragraphs": [
+          "Two tiers, and the tiers point in opposite directions. The Japanese tier is the flat tier: $165.86 a box, $6.91 a pack, $1.15 a card, and the sealed case at $1,986.10 divides to $165.51 a box, a saving of $4.22 across twelve boxes, or $0.35 a box. There is no bulk discount on the Japanese case; it is the same price in a bigger carton, and the only reason to buy it is the sealed-case premium itself. The English tier is the real flip: $470.90 a box, $19.62 a pack, $1.64 a card, and the case at $4,351.68 divides to $362.64 a box, saving $1,299.12 against twelve single boxes and $499.92 against twelve market boxes. The case beats the market, the single English box does not, and the buyer who pays $470.90 for one English box is paying a premium the case buyer never pays.",
+          "The market agrees from a second direction. The lowest Japanese box ask on SNKRDUNK was 19,800 yen on September 30, 2026, or $123.98 at 159.7 yen per dollar, so our $165.86 box sits $41.88 above the cheapest Japan-market ask. Cardmarket lists the English box at 276.95 euros, about $308.16, which is $162.74 below our English box. The Japanese box has no TCGplayer sealed listing at all, because TCGplayer lists English sealed product only, which is why the SNKRDUNK ask and the Cardmarket figure are the honest comparisons, and both say the same thing: our shelf is dear on the single box, and the case is where the value sits.",
+          "The shelf has moved since the guide, and the move is up on the manga and down on everything else. The Zoro Manga was $1,602.77 on TCGplayer in March 2024 and $2,500.00 in November 2026, up 56 percent, while the Yamato Alt Art fell from $199.31 to $65.74, down 67 percent, the Perona Alt Art from $134.03 to $68.05, down 49 percent, and the Charlotte Linlin Special from $117.74 to $51.84, down 56 percent. The honest buy-now-or-wait answer is that the manga is the set and the rest of the set is falling, so a buyer who waits buys the same leaders cheaper,"
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on OP-06, judged on cost per pack, what each is for, and where it fails.",
+          "The Japanese case row deserves a second look: at $165.51 a box it saves $4.22 across twelve boxes, which is no saving at all, so the case is a sealed-case buy, not a discount buy. The English case row deserves the opposite look: at $362.64 a box it sits $41.66 below the market box and saves $1,299.12 against twelve single boxes, which is the only genuine bulk deal on this shelf. $2,500.00 buys the Zoro Manga, the set's top card, for less than six English boxes and more than fifteen Japanese ones."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$165.86",
+              "$6.91",
+              "Opening Wings of the Captain in Japanese",
+              "$41.88 above the cheapest Japan-market ask"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,986.10",
+              "$6.90",
+              "Twelve sealed Japanese boxes",
+              "Saves $4.22 across twelve boxes; no discount"
+            ],
+            [
+              "English box",
+              "$470.90",
+              "$19.62",
+              "English cards and the Nami Treasure Rare",
+              "16.5% above the TCGplayer market box"
+            ],
+            [
+              "English case (12)",
+              "$4,351.68",
+              "$15.11",
+              "Twelve English boxes below the market box",
+              "$4,351.68 committed at once"
+            ],
+            [
+              "Market box",
+              "$404.30",
+              "$16.85",
+              "One English box at the market price",
+              "No case discount; shipping and import on top"
+            ],
+            [
+              "The single",
+              "$2,500.00 Zoro Manga",
+              "n/a",
+              "Owning the Zoro Manga",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the verdict, the flip, and the slide",
+        "note": "From the Warehouse: the question we get most in chat about OP-06 is whether the English box is worth the premium over the Japanese box, because the gap on this shelf is $305.04. The honest answer is that the gap buys two things only: the Nami Treasure Rare, which does not exist in Japanese, and English cards for English-region play. If the job is opening Wings of the Captain, the Japanese box is the same 144 cards for $305.04 less. The second most common question is whether the case is a bulk deal. On the Japanese case it is not: $4.22 across twelve boxes. We stock it, and we say so plainly.",
+        "paragraphs": [
+          "The top results for this query are all stale on price. TheGamer's most valuable OP-06 cards, published March 24, 2024, lists the Zoro Manga at $1,602.77 and the Yamato Alt Art at $199.31, and its prices are launch prices, not November 2026 prices. LineGames' ten best OP-06 cards carries no prices at all, no sealed-box cost, no pull rates, and no Japanese-versus-English comparison, The German video summary in third place is an AI summary of a YouTube video, flagged as possibly inaccurate, with German-market prices only and nothing quantitative.",
+          "The strongest of the three, LineGames, gets the play value right: Thriller Bark and Germa 66, the Moria deck, and the cheap self-contained Germa build. But it carries no TCGplayer market prices at all, no case math, no expected value, no 126-card breakdown, no ban list, and no dated verdict, and it says four Special cards when the official count is six. What none of the three does is divide a live store's box and case to per-pack, carry November 2026 TCGplayer prices, price the top ten against the box, price the Japanese-versus-English gap, or give a dated buy-or-wait verdict.",
+          "That missing verdict is the gap this page owns, and the case flip is the second gap. No guide anywhere states that the single English box sits $66.60 above the market box while the English case box sits $41.66 below it,, which is the whole buying decision on this set. The third gap is the slide: the manga is up 56 percent since March 2024 while the alt-art leaders are down 49 to 67 percent, and no top result addresses buy-now-or-wait at all. The fourth gap is the reprint: the Zoro Manga was reprinted in PRB-01 at $2,350.00, only $150.00 below the original, so the reprint did not collapse the original, and no top result prices that. The fifth gap is the ban list: three OP-06 cards are banned, and no top result names them."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the three bans, and the falling leaders",
+        "paragraphs": [
+          "The first risk is the chase itself. The Zoro Manga at $2,500.00 is 15.07 Japanese boxes, the top ten cards total $3,573.83 with the manga carrying 69.95 percent of it, and the community estimate for a Manga Rare is about 1 in 60 boxes, or about 1 in 5 cases. Bandai publishes no pull rates for OP-06, confirmed by three independent sources this cycle, so no expected value may be printed from official odds. Pullnomics models about 7 Super Rares per English box, a Secret Rare in about 1 in 2 boxes, and about 2 in 3 boxes with no alt-art leader, but those are community estimates, never odds. Buy the single.",
+          "The second risk is the ban list. Three OP-06 cards are banned: Reject, OP06-116, banned effective June 21, 2024; Gecko Moria, OP06-086, banned effective April 1, 2025; and Charlotte Pudding, OP06-047, banned with its effective date unverified. Moria defined the black meta until its ban, which is why its alt art fell from $124.36 at launch to under $51.84. OP-06 is Block 2, and the Standard format from April 2026 to March 2027 uses Blocks 2 to 5, so every other OP-06 card stays Standard-legal. Check the ban list before building a deck around a card, not after buying the box.",
+          "The third risk is the falling leaders. The Yamato Alt Art is down 67 percent since March 2024, the Perona Alt Art down 49 percent, the Charlotte Linlin Special down 56 percent, and the Rebecca Special down 16 percent, while the Zoro Manga is up 56 percent and the Nami Treasure Rare up 50 percent. The set is one card and 125 cards going the other way. The fourth risk is the reprint: the Zoro Manga was reprinted in PRB-01, and the six OP-06 leaders were reprinted as Leader Specials in EB-02, so a reprint can arrive without warning. Check the seal, the wrap tension, and the pack order before opening anyway, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. A box opened is a box that cannot be returned as sealed."
+        ]
+      },
+      {
+        "h": "Context: 126 cards, the first Treasure Rare, and the twin set",
+        "paragraphs": [
+          "Wings of the Captain, OP-06, released in Japan on November 25, 2023, and in English on March 15, 2024,, with Roronoa Zoro as its cover card. The set is 126 card types in Japanese: 6 Leaders, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, 2 Secret Rares, 6 Specials, 1 DON!!, and 25 parallel-design cards. The English set adds one card, the Nami Treasure Rare, ST01-007, the first Treasure Rare in the game, which exists in English only. A pack is 220 yen including tax, 6 cards, and a box is 24 packs, 144 cards, at a derived 5,280 yen from the pack price. The full set breakdown runs in the [OP-06 Wings of the Captain buyer's guide](/blog/op-06-wings-of-the-captain-buyers-guide/).",
+          "The two Secret Rares are Zoro, OP06-118, in three printings, base, alt art, and manga, and Sanji, OP06-119, in two printings, base and alt art. The base Zoro Secret is $6.49 and the base Sanji $3.69, so the Secret Rare slot itself is nearly worthless without the parallel. The six Special cards are all reprints of earlier-set cards. The six alt-art leaders are Uta, Hody Jones, Perona, Yamato, Vinsmoke Reiju, and Gecko Moria, and only Perona and Yamato still sit in the top ten. The wider Japanese ladder runs in the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+          "The set that follows, OP-07 500 Years in the Future, is $134.32 a box and $1,613.24 a case on this shelf, with its Boa Hancock Manga at $2,185.33, and it runs in the [OP-07 500 Years in the Future buyer's guide](/blog/op-07-500-years-in-the-future-buyers-guide/). The Zoro Manga reprint in PRB-01 runs $2,350.00, in the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/). The [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) divides every case the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the Zoro Manga is 15.07 Japanese boxes, and no pull rate prices the chase any other way. It is not for anyone who wants one English box at the market price, because our English box is $66.60 above it: the market box is $404.30, and the English case box is $362.64. It is not for anyone buying the Japanese case for a bulk discount, because the case saves $4.22 across twelve boxes. It is not for anyone who needs the alt-art leaders to hold their value, because Perona and Yamato are down 49 and 67 percent since launch. And it is not for anyone building around Gecko Moria, Reject, or Charlotte Pudding, because all three are banned."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open Wings of the Captain, hold it sealed, own the Zoro Manga, or own the English-only Nami Treasure Rare.",
+          "If the job is the single, buy the single: the Zoro Manga at $2,500.00, the Ms. All Sunday Special at $247.71, or the Nami Treasure Rare at $202.98, and check the number, because Zoro has three printings of OP06-118.",
+          "If the job is a box, check the language first: the Japanese box is $165.86 and the English box is $470.90, a gap of $305.04 for the same 144 cards plus the Treasure Rare.",
+          "If the job is twelve boxes, take the English case at $4,351.68, or $362.64 a box, which is $41.66 below the $404.30 market box, and do not pay $470.90 for a single English box unless one box is truly the plan.",
+          "If the job is twelve Japanese boxes, know the case first: $1,986.10 saves $4.22 across twelve boxes, so buy it for the sealed case, not for the saving.",
+          "Check the ban list before building a deck, and check the wrap and seams before you pay, and remember there is no pull rate to divide, so no box is a calculated chase."
+        ],
+        "h": "Action layer: the OP-06 buying checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 12, 2026, and the marketplace references run September 30 to November 12, 2026, so re-divide before you pay if the shelf has moved again."
+        ]
+      }
+    ],
+    "slug": "is-op-06-worth-buying",
+    "takeaway": [
+      "The OP-06 Japanese box at $165.86 is $6.91 a pack and $1.15 a card, $132.80 above the derived 5,280 yen box price at 159.7 yen per dollar, and $41.88 above the cheapest Japan-market ask of $123.98, while the Japanese sealed case at $1,986.10 divides to $165.51 a box, saving $4.22 across twelve boxes, which is no saving at all. The English box at $470.90 is $19.62 a pack and $66.60 above the $404.30 TCGplayer market box, while the English case at $4,351.68 divides to $362.64 a box, $41.66 below that same market box. The case is the only sealed price on this shelf that beats the market, and it is the English case, not the Japanese one.",
+      "It is worth buying as the set that gave Zoro his first Manga Rare, sealed or opened in a case, and it is not worth buying as a way to own one named card or to make the money back by opening. The Zoro Manga sat at $2,500.00 on TCGplayer market as of November 11, 2026, which is 15.07 Japanese boxes, and the top ten cards total $3,573.83 with the manga carrying 69.95 percent of that value. Pullnomics models the English box at $124.34 expected value, 0.31 times its market price. Buy the single, or buy the box for the set.",
+      "It is worth buying with the next set in mind: OP-07 500 Years in the Future is $134.32 a box and $1,613.24 a case, with its Boa Hancock Manga at $2,185.33, and the Zoro Manga reprint in PRB-01 runs $2,350.00, only $150.00 below the original. In English the Nami Treasure Rare runs $202.98 and exists in English only, so the $305.04 English premium buys exactly one card and one language.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of September 30 to November 12, 2026. The manga is up 56 percent since March 2024 while the alt-art leaders are down 49 to 67 percent, which is the fact that outlives every price on this page: this set is one card, and the rest of it is falling.",
+      "For the price-and-math companion, the [OP-06 Wings of the Captain buyer's guide](/blog/op-06-wings-of-the-captain-buyers-guide/) divides the same shelf set by set, and the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) prices the reprint sets the same way. The [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) ranks every case to per-box prices, and the [is OP-05 worth buying guide](/blog/is-op-05-worth-buying/) prices Awakening of the New Era the same way.",
+      "New this cycle: the [is OP-07 worth buying guide](/blog/is-op-07-worth-buying/) prices 500 Years in the Future the same way, with the Hancock Manga at $2,185.33 and the Japanese case costing $1.40 more than twelve singles."
+    ]
+  },
+  "is-op-07-worth-buying": {
+    "datePublished": "2026-11-12",
+    "faqs": [
+      {
+        "a": "No, it costs more. The Warehouse Japanese sealed case divides to $134.44 a box against $134.32 for a single box, so the case costs $1.40 more than twelve single boxes, or $0.12 a box more. That is the case-split anomaly in full: the case is not a bulk deal, it is a sealed-case product priced on its own demand. The English case is the real case deal: $268.81 a box against $350.48 for a single English box, a saving of $979.99. If the plan is twelve Japanese boxes, buy twelve singles unless the sealed case itself is the point.",
+        "q": "Is the OP-07 Japanese sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Boa Hancock Manga, OP07-051, sat at $2,185.33 on TCGplayer market as of November 11, 2026, which is 16.27 Japanese boxes at $134.32, and the community estimate for a Manga Rare is about 1 in 4 to 6 master cases. The top four cards in the set total $2,763.80, and the Hancock Manga alone is 79.07 percent of that, while the next card, the O-Nami Special, is $445.06. Bandai publishes no pull rates, so no box is a calculated chase. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an OP-07 box to pull the Boa Hancock Manga?"
+      },
+      {
+        "a": "The Japanese box is the opener's box and the English box is the player's box. The Japanese box is $134.32, $5.60 a pack and $0.93 a card, against $350.48 for the English box, $14.60 a pack and $1.22 a card, a gap of $216.16. The English box buys English cards for English-region play and 288 cards per box against 144 in Japanese. The Japanese box buys the same set for $216.16 less, and its Hancock Manga raw is $930 against $2,185.33 in English. If the job is opening 500 Years in the Future, the Japanese box is the answer; if the job is playing it in an English-region event, only the English box qualifies.",
+        "q": "Which OP-07 box should I buy, Japanese or English?"
+      }
+    ],
+    "h1": "Is OP-07 500 Years in the Future Worth Buying?",
+    "intro": [
+      "Short answer: yes, sealed in Japanese, and no, opened for the chase. The Japanese box is $134.32 on this shelf, $5.60 a pack and $0.93 a card, and the English box is $350.48, $14.60 a pack, against a $323.85 TCGplayer market box as of November 12, 2026. The Boa Hancock Manga that defines this set sat at $2,185.33 on TCGplayer market as of November 11, 2026, which is 16.27 Japanese boxes, and the expected value of an English box is $91.12, or 0.28 times its market price. The set is 125 card types plus one DON!!, released in Japan on February 24, 2024, and its manga rare is the first female Comic Parallel in the history of the game.",
+      "Who this is for: the sealed collector who wants the first female Manga Rare at its floor, the case buyer who wants twelve English boxes below the market box, and the player who wants Jewelry Bonney and the Egghead leaders in Japanese at $5.60 a pack. Who it is not for: anyone chasing the Hancock Manga, who should buy the single at $2,185.33; anyone who wants one English box at the market price, because our English box is $26.63 above it; and anyone buying twelve Japanese boxes for a bulk discount, because the Japanese case costs $1.40 more than twelve singles."
+    ],
+    "metaDescription": "OP-07 500 Years in the Future: $134.32 Japanese box, Hancock Manga $2,185.33. The verdict on the first female manga, the case anomaly, and the falling box.",
+    "metaTitle": "Is OP-07 500 Years in the Future Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes, sealed in Japanese, with the manga doing all the work",
+        "paragraphs": [
+          "The buyer comes first and the route second, because OP-07 punishes the buyer who gets the order backwards. A buyer who wants the set sealed buys the [OP-07 Japanese booster box](/product/op-07-500-years-in-the-future-booster-box-japanese-one-piece-card/) at $134.32: 24 packs of 6 cards, 144 cards, $5.60 per pack and $0.93 per card. A buyer who wants twelve English boxes buys the [OP-07 English sealed case](/product/op-07-500-years-in-the-future-sealed-case-12-boxes-english-one-piece-card/) at $3,225.77, or $268.81 a box, $55.04 below the $323.85 TCGplayer market box. A buyer who wants one named card buys the single: the Boa Hancock Manga at $2,185.33, the O-Nami Special at $445.06, or the Hancock Leader Parallel at $94.20.",
+          "The box is dear by every measure the Warehouse runs. Its official price is 24 packs at 220 yen, or 5,280 yen, which converts to $33.06 at 159.7 yen per dollar on November 12, 2026, so our $134.32 box sits $101.26 above the derived official box price, at 4.06 times it. Bandai prints no box price, so that 5,280 yen is arithmetic from the pack price, not an official figure, and it is stated as such. The market agrees the English shelf is dear: Pullnomics put the TCGplayer market box at $323.85 as of November 12, 2026, so our $350.48 English box is $26.63 above the market, or 8.2 percent above it, while our English case box at $268.81 sits $55.04 below it. The full ladder runs in the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+          "The chase is the warning, and it is arithmetic, not opinion. The Boa Hancock Manga, OP07-051, at $2,185.33 is 16.27 Japanese boxes, 6.24 English boxes, and 16.26 case-boxes. The top four cards in the set total $2,763.80, and the Hancock Manga alone is 79.07 percent of that, $2,185.33 of $2,763.80, while the second card is $445.06 and the fourth is $39.21. Bandai publishes no pull rates for OP-07, so there is no expected value to print from official odds; Pullnomics models the English box at $91.12 against the $323.85 market, 0.28 times, and $28.35 with no case hit, 0.08 times our English box. The verdict follows the arithmetic: buy the box sealed, buy the single for the card, and never open a box to find the manga."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, and the case that costs more",
+        "math": [
+          "OP-07 Japanese box per pack: $134.32 ÷ 24 packs = $5.60 per pack",
+          "OP-07 Japanese box per card: $134.32 ÷ 144 cards = $0.93 per card",
+          "OP-07 Japanese sealed case per box: $1,613.24 ÷ 12 boxes = $134.44 per box",
+          "OP-07 Japanese sealed case per pack: $1,613.24 ÷ 288 packs = $5.60 per pack",
+          "OP-07 Japanese sealed case per card: $1,613.24 ÷ 1,728 cards = $0.93 per card",
+          "OP-07 Japanese case vs 12 single boxes: (12 × $134.32) − $1,613.24 = $-1.40 per case",
+          "OP-07 Japanese box vs official pack price: 24 packs × ¥220 = ¥5,280; ¥5,280 ÷ 159.7 = $33.06; $134.32 − $33.06 = $101.26 above official",
+          "OP-07 Japanese box vs official ratio: $134.32 ÷ $33.06 = 4.06× official",
+          "OP-07 English box per pack: $350.48 ÷ 24 packs = $14.60 per pack",
+          "OP-07 English box per card: $350.48 ÷ 288 cards = $1.22 per card",
+          "OP-07 English sealed case per box: $3,225.77 ÷ 12 boxes = $268.81 per box",
+          "OP-07 English sealed case per pack: $3,225.77 ÷ 288 packs = $11.20 per pack",
+          "OP-07 English case saving vs 12 single boxes: (12 × $350.48) − $3,225.77 = $979.99 per case",
+          "OP-07 English vs Japanese box gap: $350.48 − $134.32 = $216.16 per box",
+          "OP-07 English box vs market box: $350.48 − $323.85 = $26.63 above market",
+          "OP-07 English box vs market box percent: $26.63 ÷ $323.85 = 8.22% above market",
+          "OP-07 English case per box vs market box: $323.85 − $268.81 = $55.04 below market",
+          "OP-07 English case vs 12 market boxes: (12 × $323.85) − $3,225.77 = $660.43 per case",
+          "OP-07 English box vs pack arithmetic: 24 packs × $4.49 = $107.76; $350.48 − $107.76 = $242.72 above arithmetic",
+          "OP-07 English box vs pack arithmetic ratio: $350.48 ÷ $107.76 = 3.25×",
+          "Boa Hancock Manga vs Japanese box: $2,185.33 ÷ $134.32 = 16.27 boxes",
+          "Boa Hancock Manga vs English box: $2,185.33 ÷ $350.48 = 6.24 boxes",
+          "Boa Hancock Manga vs Japanese case per box: $2,185.33 ÷ $134.44 = 16.26 boxes",
+          "Top four chase cards total: $2,185.33 + $445.06 + $94.20 + $39.21 = $2,763.80",
+          "Boa Hancock Manga share of top four: $2,185.33 ÷ $2,763.80 = 79.07%",
+          "O-Nami Special vs Japanese box: $445.06 ÷ $134.32 = 3.31 boxes",
+          "Expected value vs market box: $91.12 ÷ $323.85 = 0.28×",
+          "Expected value vs our English box: $91.12 ÷ $350.48 = 0.26×",
+          "No-case-hit expected value vs our English box: $28.35 ÷ $350.48 = 0.08×",
+          "Our Japanese box vs eBay sold median: $134.32 − $80.00 = $54.32 above the median",
+          "Our Japanese box vs eBay median percent: $54.32 ÷ $80.00 = 67.90% above the median",
+          "Boa Hancock Manga English vs Japanese raw: $2,185.33 ÷ $930.00 = 2.35×",
+          "English box November 5 to November 12: $438.10 − $350.48 = $87.62",
+          "English case November 5 to November 12: $4,032.21 − $3,225.77 = $806.44"
+        ],
+        "paragraphs": [
+          "Two tiers, and the Japanese tier has a trap in it. The single-box tier is the cheap tier: $134.32 a box, $5.60 a pack, $0.93 a card. The case tier is supposed to be cheaper, and on the English side it is: $268.81 a box, $11.20 a pack, saving $979.99 against twelve single boxes and $660.43 against twelve market boxes. But the Japanese case at $1,613.24 divides to $134.44 a box, which is $0.12 a box more than the single box, and $1.40 more than twelve singles across the case. The Japanese case costs more than the boxes inside it. That is the case-split anomaly, and it is the whole buying decision on the Japanese side: twelve singles cost $1,611.84, the case costs $1,613.24, so the case is a sealed-case buy, not a discount buy.",
+          "The market agrees from a second direction. The eBay sold median for a Japanese box is $80 across 14 sales in the 35 days to November 11, 2026, so our $134.32 box sits $54.32 above the eBay median, or 67.9 percent above it. The English box is cheaper on the market too: $323.85 on TCGplayer against our $350.48, and about $312 on eBay median. The Japanese box has no TCGplayer sealed listing at all, because TCGplayer lists English sealed product only,: our shelf is dear on the single box, and the English case is where the value sits.",
+          "The shelf has moved since the guide, and the move is down. Our English box was $438.10 in the November 5 buyers guide and is $350.48 now, down $87.62 in a week, and our English case was $4,032.21 and is $3,225.77 now, down $806.44. The English-versus-Japanese gap was $303.78 on November 5 and is $216.16 now, so the English premium is shrinking, not growing. The Hancock Manga in Japanese was about 70,000 to 80,000 yen at launch in 2024 and 145,000 yen on SNKRDUNK by October 2026, more than double, The honest buy-now-or-wait answer is that the English box is falling fast and the Japanese box is dear against eBay, so a buyer who waits is buying the same set cheaper, and a buyer who buys now is buying the English case, not the single box."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on OP-07, judged on cost per pack, what each is for, and where it fails.",
+          "The Japanese case row deserves a second look: at $134.44 a box it costs $1.40 more than twelve single boxes, which is the only case on this shelf that charges a premium for the carton. The English case row deserves the opposite look: at $268.81 a box it sits $55.04 below the market box and saves $979.99 against twelve single boxes, which is the only genuine bulk deal on this shelf. $2,185.33 buys the Hancock Manga, the set's top card, for less than seven English boxes and more than sixteen Japanese ones."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$134.32",
+              "$5.60",
+              "Opening 500 Years in the Future in Japanese",
+              "67.9% above the eBay sold median"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,613.24",
+              "$5.60",
+              "Twelve sealed Japanese boxes",
+              "Costs $1.40 more than twelve singles"
+            ],
+            [
+              "English box",
+              "$350.48",
+              "$14.60",
+              "English cards and English-region play",
+              "8.2% above the TCGplayer market box"
+            ],
+            [
+              "English case (12)",
+              "$3,225.77",
+              "$11.20",
+              "Twelve English boxes below the market box",
+              "$3,225.77 committed at once"
+            ],
+            [
+              "Market box",
+              "$323.85",
+              "$13.49",
+              "One English box at the market price",
+              "No case discount; shipping and import on top"
+            ],
+            [
+              "The single",
+              "$2,185.33 Hancock Manga",
+              "n/a",
+              "Owning the first female Manga Rare",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the verdict, the anomaly, and the slide",
+        "note": "From the Warehouse: the question we get most in chat about OP-07 is whether the Japanese case is a bulk deal, because every other case on this shelf is. It is not: $1,613.24 for the case against $1,611.84 for twelve singles, a $1.40 premium for the carton. We stock it, and we say so plainly. The second most common question is whether the English box is worth the premium over the Japanese box, because the gap on this shelf is $216.16. The honest answer is that the gap buys English cards for English-region play and 288 cards per box against 144 in Japanese. If the job is opening 500 Years in the Future, the Japanese box is the same set for $216.16 less.",
+        "paragraphs": [
+          "The top results for this query are all stale on price. SamuraiSwordTokyo's OP-07 chase guide, updated October 7, 2026, lists the chase cards with SNKRDUNK asks, the Hancock Manga raw at 145,000 yen, and it states the English release as August 2024, when the official English release was June 28, 2024. Soleback's booster set guide carries OP-07 dates of January 2024 in Japanese and May 2024 in English, both wrong, claims a standard box is 24 boosters of 12 cards each, which is true only for English, and misses the Hancock Manga entirely, naming the Vegapunk Secret alt art as the top chase instead. Neither gives a dated verdict.",
+          "The strongest of the three is our own buyers guide, published November 5, 2026, which divides all four shelf prices to per-pack and carries the Pullnomics expected value and the case-split anomaly. But its English prices are now stale: the box was $438.10 and is $350.48, the case was $4,032.21 and is $3,225.77, a fall of $87.62 and $806.44 in a week, and it carries no Japanese-market box price and no graded-price data. What none of the three does is carry November 2026 TCGplayer prices on the current shelf, price the Japanese-versus-English gap at $216.16, price the eBay sold median against our box, or give a dated buy-or-wait verdict.",
+          "That missing verdict is the gap this page owns, and the case anomaly is the second gap. No guide anywhere states that the Japanese case costs $1.40 more than twelve singles while the English case saves $979.99, which is the whole buying decision on this set. The third gap is the slide: the English box fell $87.62 in a week, and no top result addresses buy-now-or-wait at all. The fourth gap is the language gap: the Hancock Manga raw is $930 in Japanese against $2,185.33 in English, a 2.35 times gap, and no top result prices that. The fifth gap is the ban pair: OP07-115 cannot share a deck with EB04-058 Borsalino, and no top result names it."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the ban pair, and the falling English box",
+        "paragraphs": [
+          "The first risk is the chase itself. The Boa Hancock Manga at $2,185.33 is 16.27 Japanese boxes, the top four cards total $2,763.80 with the manga carrying 79.07 percent of it, and the community estimate for a Manga Rare is about 1 in 4 to 6 master cases. Bandai publishes no pull rates for OP-07, confirmed by three independent sources this cycle, so no expected value may be printed from official odds. Buy the single.",
+          "The second risk is the ban pair. OP07-115, I Re-Quasar Helllp!!, cannot share a deck with EB04-058 Borsalino, in force under Bandai's official restriction notice of September 24, 2026. No OP-07 card is individually banned, but the pair ban matters for anyone building around the card, and the official card list carries errata for OP07-008 and OP07-109. The OP-07 leaders were reprinted as Leader Specials in EB-02 Anime 25th Collection. Check the set number, not just the card name.",
+          "The third risk is the falling English box. Our English box fell $87.62 in a week, from $438.10 to $350.48, and our English case fell $806.44, from $4,032.21 to $3,225.77, while the TCGplayer market box sits at $323.85, so a box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price. The fourth risk is the single-booster temptation: an English box at $14.60 a pack looks dear until the chase math is divided, because the manga is 16.27 Japanese boxes and the box has no published odds. Check the seal, the wrap tension, and the pack order before opening anyway, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. A box opened is a box that cannot be returned as sealed."
+        ]
+      },
+      {
+        "h": "Context: 125 cards, the first female manga, and the Egghead arc",
+        "paragraphs": [
+          "500 Years in the Future, OP-07, released in Japan on February 24, 2024, and in English on June 28, 2024, and it opens with the Egghead Island arc: Jewelry Bonney, Vegapunk and the satellites, the Seraphim, CP0, and the Revolutionary Army. The set is 125 card types plus one DON!! in Japanese: 6 Leaders, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, 2 Secret Rares, 6 Specials, and 1 DON!!. The English set adds one Treasure Rare. The two Secret Rares are Sabo, OP07-118, and Ace, OP07-119. A pack is 220 yen including tax, 6 cards, and a box is 24 packs, 144 cards, at a derived 5,280 yen from the pack price. The full set breakdown runs in the [OP-07 500 Years in the Future buyer's guide](/blog/op-07-500-years-in-the-future-buyers-guide/).",
+          "The card that defines the set is the Boa Hancock Manga, OP07-051, the first female Comic Parallel in the history of the game, at $2,185.33 on TCGplayer market as of November 11, 2026, and about $1,675 for a PSA 10 sale on October 29, 2026. The next card, the O-Nami Special, OP06-101, is a card from OP-06 pulled from OP-07 packs, at $445.06, which is why the set's second chase wears another set's number. The set is Standard-legal under the April 2026 to March 2027 format, which uses Blocks 2 to 5, and Bonney's Supernova-stun leader remains meta-relevant in 2026. The wider Japanese ladder runs in the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+          "The set that precedes it, OP-06 Wings of the Captain, is $165.86 a box and $1,986.10 a case on this shelf, with its Zoro Manga at $2,500.00, and it runs in the [OP-06 Wings of the Captain buyer's guide](/blog/op-06-wings-of-the-captain-buyers-guide/). The reprint set that matters, EB-02 Anime 25th Collection, carries the OP-07 leaders as Leader Specials, and it runs in the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/). The [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) divides every case the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the Hancock Manga is 16.27 Japanese boxes, and no pull rate prices the chase any other way. It is not for anyone who wants one English box at the market price, because our English box is $26.63 above it: the market box is $323.85, and the English case box is $268.81. It is not for anyone buying twelve Japanese boxes for a bulk discount, because the Japanese case costs $1.40 more than twelve singles. It is not for anyone who needs the English box to hold its value, because it fell $87.62 in a week. And it is not for anyone building around OP07-115 and EB04-058 Borsalino in the same deck, because the pair is banned."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open 500 Years in the Future, hold it sealed, own the Hancock Manga, or play it in an English-region event.",
+          "If the job is the single, buy the single: the Hancock Manga at $2,185.33, the O-Nami Special at $445.06, and check the set number, because the O-Nami Special wears OP-06's number.",
+          "If the job is a box, check the language first: the Japanese box is $134.32 and the English box is $350.48, a gap of $216.16 for the same set, and only the English box qualifies for English-region play.",
+          "If the job is twelve boxes, take the English case at $3,225.77, or $268.81 a box, which is $55.04 below the $323.85 market box, and buy twelve Japanese singles at $1,611.84 instead of the Japanese case at $1,613.24.",
+          "If the job is the English box, know the slide first: it fell $87.62 in a week, from $438.10 to $350.48, so wait unless the box is needed now.",
+          "Check the ban pair before building a deck, and check the wrap and seams before you pay, and remember there is no pull rate to divide, so no box is a calculated chase."
+        ],
+        "h": "Action layer: the OP-07 buying checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 12, 2026, and the marketplace references run October 29 to November 12, 2026, so re-divide before you pay if the shelf has moved again."
+        ]
+      }
+    ],
+    "slug": "is-op-07-worth-buying",
+    "takeaway": [
+      "The OP-07 Japanese box at $134.32 is $5.60 a pack and $0.93 a card, $101.26 above the derived 5,280 yen box price at 159.7 yen per dollar, and $54.32 above the $80 eBay sold median, while the Japanese sealed case at $1,613.24 divides to $134.44 a box, costing $1.40 more than twelve single boxes. The English box at $350.48 is $14.60 a pack and $26.63 above the $323.85 TCGplayer market box, while the English case at $3,225.77 divides to $268.81 a box, $55.04 below that same market box. The English case is the only sealed price on this shelf that beats the market, and the Japanese case charges a premium for the carton.",
+      "It is worth buying as the set that gave the game its first female Manga Rare, sealed or opened in a case, and it is not worth buying as a way to own one named card or to make the money back by opening. The Boa Hancock Manga sat at $2,185.33 on TCGplayer market as of November 11, 2026, which is 16.27 Japanese boxes, and the top four cards total $2,763.80 with the manga carrying 79.07 percent of that value. Pullnomics models the English box at $91.12 expected value, 0.28 times its market price. Buy the single, or buy the box for the set.",
+      "It is worth buying with the previous set in mind: OP-06 Wings of the Captain is $165.86 a box and $1,986.10 a case, with its Zoro Manga at $2,500.00, and the Hancock Manga raw is $930 in Japanese against $2,185.33 in English, a 2.35 times language gap. In English the gap buys English-region play and 288 cards per box against 144 in Japanese, so the $216.16 premium is a language and format premium, not a card premium.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of October 29 to November 12, 2026. The English box fell $87.62 in a week while the Japanese box sits 67.9 percent above the eBay sold median, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
+      "For the price-and-math companion, the [OP-07 500 Years in the Future buyer's guide](/blog/op-07-500-years-in-the-future-buyers-guide/) divides the same shelf set by set, and the [OP-06 Wings of the Captain buyer's guide](/blog/op-06-wings-of-the-captain-buyers-guide/) prices the previous set the same way. The [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) ranks every case to per-box prices, and the [is OP-06 worth buying guide](/blog/is-op-06-worth-buying/) prices Wings of the Captain the same way."
     ]
   },
   "is-sv11b-worth-buying": {
@@ -27378,7 +27767,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 5, 2026, the Warehouse OP-06 Japanese box costs $165.86, which is $6.91 a pack and $1.15 a card. Buy it to open Wings of the Captain, buy the English case at $453.30 a box for English boxes in bulk, and buy the single for the Zoro Manga card or any named card.",
       "Prices move; the method does not. Choose the language first, divide the case second, and never assume a case discounts: on this set the Japanese case saves thirty-five cents a box and the English case pays a saving of $1,623.84.",
-      "For the successor set, see [OP-07 500 Years in the Future Buyer's Guide](/blog/op-07-500-years-in-the-future-buyers-guide/). For the earlier set, see [OP-05 Awakening of the New Era Buyer's Guide](/blog/op-05-awakening-of-the-new-era-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/)."
+      "For the successor set, see [OP-07 500 Years in the Future Buyer's Guide](/blog/op-07-500-years-in-the-future-buyers-guide/). For the earlier set, see [OP-05 Awakening of the New Era Buyer's Guide](/blog/op-05-awakening-of-the-new-era-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
+      "For the dated verdict on this set, the [is OP-06 worth buying guide](/blog/is-op-06-worth-buying/) prices the Zoro Manga at 15.07 Japanese boxes, the English case at $41.66 below the market box, and the Japanese case at $4.22 saved across twelve boxes."
     ]
   },
   "op-07-500-years-in-the-future-buyers-guide": {
@@ -27570,7 +27960,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 5, 2026, the Warehouse OP-07 Japanese box costs $134.32, which is $5.60 a pack and $0.93 a card. Buy it to open 500 Years in the Future, buy the English case at $336.02 a box for English boxes in bulk, and buy the single for the Hancock Manga card or any named card.",
       "Prices move; the method does not. Choose the language first, divide the case second, and never assume a case discounts: on this set the Japanese case charges a premium and the English case pays a saving of $1,224.99.",
-      "For the successor set, see [OP-08 Two Legends Buyer's Guide](/blog/op-08-two-legends-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the earlier set, see [OP-06 Wings of the Captain Buyer's Guide](/blog/op-06-wings-of-the-captain-buyers-guide/)."
+      "For the successor set, see [OP-08 Two Legends Buyer's Guide](/blog/op-08-two-legends-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the earlier set, see [OP-06 Wings of the Captain Buyer's Guide](/blog/op-06-wings-of-the-captain-buyers-guide/).",
+      "For the dated verdict on this set, the [is OP-07 worth buying guide](/blog/is-op-07-worth-buying/) prices the Hancock Manga at 16.27 Japanese boxes, the English case at $55.04 below the market box, and the Japanese case at $1.40 more than twelve singles."
     ]
   },
   "op-08-two-legends-buyers-guide": {
