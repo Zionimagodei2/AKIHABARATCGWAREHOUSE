@@ -14858,7 +14858,8 @@ export const POSTS: Record<string, BlogPost> = {
     ],
     "slug": "eb-01-japanese-vs-english-which-to-buy",
     "takeaway": [
-      "EB-01 in Japanese costs $155.04 a box and in English costs $790.60, a 5.10 times gap for the same 61 card types, and the cases hold the same shape at 4.59 times. Buy English to play, buy Japanese for the lowest sealed price, buy the Oden alternate art as a single if it is the only card you want, and open neither for profit when a typical opened English box returns $166.66 against $790.60 sealed. Two counts stay unprinted, the Japanese packs-per-box and the English case box count, and this guide leaves both blank rather than inventing them. That honesty is the whole article: two languages, one store, one date, every division shown. For the next Extra Booster in the same line, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf, with the English case division honestly withheld."
+      "EB-01 in Japanese costs $155.04 a box and in English costs $790.60, a 5.10 times gap for the same 61 card types, and the cases hold the same shape at 4.59 times. Buy English to play, buy Japanese for the lowest sealed price, buy the Oden alternate art as a single if it is the only card you want, and open neither for profit when a typical opened English box returns $166.66 against $790.60 sealed. Two counts stay unprinted, the Japanese packs-per-box and the English case box count, and this guide leaves both blank rather than inventing them. That honesty is the whole article: two languages, one store, one date, every division shown. For the next Extra Booster in the same line, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf, with the English case division honestly withheld.",
+      "New this cycle: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) gives the dated verdict on the same four products, with the English box down exactly 20% since this guide and the Chopper Manga priced against the box."
     ]
   },
   "eb-02-anime-25th-collection-buyers-guide": {
@@ -15046,7 +15047,8 @@ export const POSTS: Record<string, BlogPost> = {
       "On November 4, 2026, the Warehouse EB-02 Japanese box costs $178.86, which is $7.45 a pack and $1.24 a card. Buy it to open the anime-art set, buy the Japanese case at $175.68 a box for twelve boxes, buy the English box at $0.96 a card for English cards, and buy the single for the Luffy comic parallel or any SPR leader.",
       "Prices move; the method does not. Choose the language first, divide the case in that language, and never divide a case whose listing prints no box count.",
       "For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best English One Piece Booster Box to Buy](/blog/best-english-one-piece-booster-box-to-buy/).",
-      "For the sibling Extra Booster, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/)."
+      "For the sibling Extra Booster, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/).",
+      "New this cycle: the [is EB-02 worth buying guide](/blog/is-eb-02-worth-buying/) gives the dated verdict on the same four products, with the English box down exactly 20% since this guide and the Luffy Manga priced against the box."
     ]
   },
   "eb-03-heroines-edition-buyers-guide": {
@@ -15240,7 +15242,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 5, 2026, the Warehouse EB-03 Japanese box costs $155.04, which is $6.46 a pack and $1.08 a card, and the Japanese case costs $1,861.50, which is $155.13 a box and costs $1.02 more than twelve singles. Buy the single box to open Heroines Edition, buy the English box at $246.00 for English cards at $0.85 a card, buy the English case at $192.59 a box for English boxes in bulk, and buy the single for the Uta Manga card or any named card.",
       "Prices move; the method does not. Choose the language first, divide the case second, and never assume a case discounts: on this set the Japanese case charges $0.09 a box and the English case saves $53.41 a box — and the Japanese box sits $69.33 above the dated Japanese resale average while the English box sits far above a June 2026 secondary range.",
-      "For the sibling Extra Booster, see [EB-02 Anime 25th Collection Buyer's Guide](/blog/eb-02-anime-25th-collection-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/)."
+      "For the sibling Extra Booster, see [EB-02 Anime 25th Collection Buyer's Guide](/blog/eb-02-anime-25th-collection-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
+      "New this cycle: the [is EB-02 worth buying guide](/blog/is-eb-02-worth-buying/) prices the Anime 25th Collection the same way, with its own 20% English drop and the Luffy Manga against the box."
     ]
   },
   "eb-04-egghead-crisis-buyers-guide": {
@@ -17114,6 +17117,343 @@ export const POSTS: Record<string, BlogPost> = {
       "One Piece buyers face the same problem one level down: [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) runs the card-level checks with the same honesty about what inspection can and cannot prove."
     ]
   },
+  "is-eb-01-worth-buying": {
+    "datePublished": "2026-11-12",
+    "faqs": [
+      {
+        "a": "Yes, and it is exactly 20% on both English products. The English box was $790.60 on November 3, 2026, and is $632.48 on November 12, 2026, a fall of $158.12. The English case was $8,539.49 and is $6,831.59, a fall of $1,707.90. The Japanese box and case did not move: $155.04 and $1,861.50 on both dates.",
+        "q": "Is the EB-01 English box really 20% cheaper than last week?"
+      },
+      {
+        "a": "No. The Chopper Manga alternate art, EB01-006, is listed near $405.19 on japan-figure's EB-01 card list (page last updated June 2026), which is 2.61 Japanese boxes, and a PSA 10 copy carried a $6,675 verified sale on eBay on June 21, 2026, which is 43.05 Japanese boxes. Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Buy the single if that card is the job, or buy the box to open Memorial Collection and treat the chase as a bonus.",
+        "q": "Should I buy an EB-01 box to pull the Chopper Manga?"
+      },
+      {
+        "a": "The cards are the same 61 types with the same rarity split, but the products are not the same buy. The Japanese box is $155.04 on our shelf and the English box is $632.48, a gap of $477.44, and the English box holds 24 packs of 12 cards against the Japanese pack's 6 cards. Japanese cards are generally not legal at official events outside Asia, so a player who buys Japanese to compete has bought the wrong product at a good price. The Japanese case costs $1.02 more than twelve Japanese singles, so buy it for the sealed run, never for the discount.",
+        "q": "Is the Japanese EB-01 box the same product as the English box?"
+      }
+    ],
+    "h1": "Is EB-01 Memorial Collection Worth Buying?",
+    "intro": [
+      "Short answer: yes, for the sealed collector who wants the first One Piece Extra Booster, and yes again for the English buyer now that the English shelf has repriced, and no, for anyone buying it to pull one named card. On our shelf as of November 12, 2026, the [EB-01 Japanese booster box](/product/eb-01-memorial-collection-booster-box-japanese-one-piece-card/) is $155.04, and the [EB-01 English booster box](/product/eb-01-memorial-collection-extra-booster-box-english-one-piece-card/) is $632.48, down exactly 20% from $790.60 on November 3. The set is 61 card types, released in Japan on January 27, 2024, and in English on May 3, 2024, and its chase is the Chopper Manga alternate art, EB01-006, listed near $405.19 raw.",
+      "Who this is for: sealed collectors who want the first Extra Booster, buyers choosing Japanese against English at the new prices, and players who want Memorial Collection cards for decks the set was built to strengthen. Who it is not for: anyone chasing one named card, who should buy the single; anyone who needs English cards for official play outside Asia, who should not buy Japanese; and anyone buying a case for the discount, because the Japanese case costs more than twelve singles."
+    ],
+    "metaDescription": "EB-01 at $155.04 Japanese and $632.48 English after a 20% drop: the Chopper Manga priced against the box, the case paradox, and the verdict.",
+    "metaTitle": "Is EB-01 Memorial Collection Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes, for the sealed collector, with the arithmetic attached",
+        "paragraphs": [
+          "The buyer comes first and the language second, because EB-01 punishes the buyer who gets the order backwards. A collector who wants the first Extra Booster sealed buys the [EB-01 Japanese box](/product/eb-01-memorial-collection-booster-box-japanese-one-piece-card/) at $155.04: the cheapest way to own the set sealed, and the price has not moved since November 3. A buyer who wants the set in English buys the [EB-01 English box](/product/eb-01-memorial-collection-extra-booster-box-english-one-piece-card/) at $632.48: 24 packs of 12 cards, 288 cards, $26.35 per pack and $2.20 per card, and the English box is the story of this page, because it fell $158.12 in nine days. A sealed holder buys a case: the [Japanese case](/product/eb-01-memorial-collection-sealed-case-12-boxes-japanese-one-piece-card/) at $1,861.50, or $155.13 a box, and the [English case](/product/eb-01-memorial-collection-sealed-case-english-one-piece-card/) at $6,831.59.",
+          "The case is the second story, because the two languages behave oppositely. The Japanese case costs $1.02 more than twelve Japanese singles, which is the case paradox in its purest form: the bulk format charges a premium instead of giving a discount, and the honest reason to buy it is the sealed run, not the saving. The English case is the opposite, if it holds twelve boxes: twelve English singles cost $7,589.76 against the case at $6,831.59, a conditional saving of $758.17, and it is the way to buy English boxes if English is the job. The [EB-01 Japanese vs English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) priced the same four products on November 3; this verdict updates the prices, prices the chase, and gives the verdict, because the English shelf moved 20% in nine days and the guide did not.",
+          "The chase is the third story, and it is a warning for the opener. The Chopper Manga alternate art, EB01-006, is listed near $405.19 on japan-figure's EB-01 card list, a page last updated in June 2026, which is 2.61 Japanese boxes. A PSA 10 copy carried a $6,675 verified sale on eBay on June 21, 2026, per CardboardSniper's index checked November 11, 2026, which is 43.05 Japanese boxes. The next tier down is the Oden alternate art, around $45 to $49 per FoilKraken's November 2026 report, and a typical opened English box returns $166.66 against a $632.48 sealed price, which is 26.35% of the sealed price. The verdict follows the arithmetic: buy the box for the set, buy the single for the card."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and the 20% repricing",
+        "math": [
+          "EB-01 Japanese case per box: $1,861.50 ÷ 12 boxes = $155.13 per box",
+          "EB-01 Japanese case vs singles: 12 × $155.04 = $1,860.48 singles; case $1,861.50, costs $1.02 MORE across the case ($0.09 per box)",
+          "EB-01 English box per pack: $632.48 ÷ 24 packs = $26.35 per pack",
+          "EB-01 English box per card: $632.48 ÷ 288 cards = $2.20 per card",
+          "EB-01 English box price drop: $790.60 − $632.48 = $158.12; $158.12 ÷ $790.60 = 20.00%",
+          "EB-01 English case price drop: $8,539.49 − $6,831.59 = $1,707.90; $1,707.90 ÷ $8,539.49 = 20.00%",
+          "EB-01 Japanese vs English box gap: $632.48 − $155.04 = $477.44 per box",
+          "EB-01 Japanese vs English box ratio: $632.48 ÷ $155.04 = 4.08 times",
+          "EB-01 Japanese vs English case gap: $6,831.59 − $1,861.50 = $4,970.09 per case",
+          "EB-01 English box vs TCGplayer: $875.09 − $632.48 = $242.61 under the October 11, 2026 market price",
+          "EB-01 English box vs MSRP: 24 packs × $4.49 = $107.76; $632.48 ÷ $107.76 = 5.87× MSRP",
+          "EB-01 Japanese official pack price: ¥220 ÷ ¥159 = $1.38 per pack",
+          "Chopper Manga against the Japanese box: $405.19 ÷ $155.04 = 2.61 boxes",
+          "Chopper Manga PSA 10 against the Japanese box: $6,675 ÷ $155.04 = 43.05 boxes",
+          "Typical opened English box vs sealed: $166.66 ÷ $632.48 = 26.35% of the sealed price",
+          "CONDITIONAL, NOT CLAIMED: if the English case held 12 boxes, 12 × $632.48 = $7,589.76 singles vs $6,831.59 case, saving $758.17 ($63.18 per box)"
+        ],
+        "paragraphs": [
+          "The ladder has two tiers and one gap. The Japanese tier is the opener's tier: $155.04 a box, unmoved since November 3, and the case barely moves the number at all, at $155.13 a box, which is more, not less. The English tier is the collector's tier: $632.48 a box, $26.35 a pack, and the case is where the English discount lives, at $569.30 a box if it holds twelve. The gap between the languages narrowed with the drop: $477.44 per box now, against $635.56 on November 3, and the English box is now 4.08 times the Japanese box, against 5.10 times nine days ago.",
+          "The drop itself is the fact to sit with. Both English products fell exactly 20% between November 3 and November 12, 2026, while both Japanese products did not move at all. A 20% move in nine days is not noise; it is a repricing, and a repricing cuts both ways. It makes the English box the best value it has been on our shelf in the period we have tracked it, and it is also a reminder that sealed prices move, and that a box bought as an investment can fall as fast as it rose. The prices on this page are stamped November 12, 2026, and the next cycle will re-divide them.",
+          "The cheapest comparison on the shelf is the one that kills the opener's case for EB-01 as a value box. The [EB-02 Anime 25th Collection box](/product/eb-02-anime-25th-collection-booster-box-japanese-one-piece-card/) is $178.86 in Japanese, only $23.82 more than EB-01 for the same format, and the newest Japanese One Piece box on the shelf is cheaper still: the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all twenty-four boxes, and EB-01 sits at the dear end of the Japanese Extra Booster line only because the line itself is small. EB-01's premium buys the first Extra Booster and the Chopper chase, and nothing else. If the job is opening One Piece cards for the least money, the [best Japanese One Piece booster box price page](/blog/best-japanese-one-piece-booster-box-price/) divides all twenty-four boxes the same way."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view. The rows are the five ways to spend on EB-01, and the columns are the dimensions that decide it: what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The Japanese case row deserves a second look, because it is the only row where the bulk format pays a premium instead of giving a discount. Twelve Japanese singles cost $1,860.48; the case costs $1,861.50, and the $1.02 extra buys the sealed twelve, not a saving. The English case row deserves the opposite look, with the condition attached: the $758.17 saving holds only if the case holds twelve boxes, a count no listing prints, so confirm the count before you pay for the discount."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$155.04",
+              "n/a",
+              "Opening Memorial Collection in Japanese",
+              "Chase not guaranteed; JP not legal outside Asia"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,861.50",
+              "$155.13 a box",
+              "Sealed run; group split",
+              "Costs $1.02 MORE than 12 singles"
+            ],
+            [
+              "English box",
+              "$632.48",
+              "$26.35",
+              "English origin set, below its old price",
+              "5.87x MSRP; chase not guaranteed"
+            ],
+            [
+              "English case",
+              "$6,831.59",
+              "$569.30 a box if 12",
+              "English boxes in bulk",
+              "Box count unprinted; $6,831.59 at once"
+            ],
+            [
+              "The single",
+              "~$405.19 Chopper",
+              "n/a",
+              "Owning the Chopper Manga",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing, the missing pull rate, the case paradox",
+        "note": "From the Warehouse: the question we get most in chat about EB-01 is whether the English box is worth it now that it has fallen so far. Our answer starts with the repricing, because it is the fact most guides cannot have yet: the English box fell exactly 20% in nine days, and the English case fell exactly 20% beside it, while the Japanese products did not move. The box is worth buying as the first Extra Booster, sealed or opened, and it is not worth buying as a way to own one named card. Say that first, and the rest of the numbers fall into place.",
+        "paragraphs": [
+          "The top guides for this query review the set and rank the chase cards, and they are good at both. The Zatu review walks the packs, the smaller set size, the two rares per pack, and why the set suits sealed play with friends. The LINEGAMES top-ten prices the Chopper Manga alternate art, the Mr.2 alternate art, and the Oden alternate art, and the Pullnomics price page lists the English box at $875.49 with no expected value, because Extra Boosters have no usable English pull-rate figures at all. What none of them does is give a dated verdict that prices the chase against the box with the repricing attached, and none of them can, because the missing number is structural: Bandai has never published pull rates for any One Piece set, so every expected-value claim about pulling the Chopper Manga is an estimate built on community openings, not a fact.",
+          "That missing pull rate is the gap this page owns, and it owns it by refusing to fill it. Without a pull rate, there is no honest answer to how many boxes the average buyer opens before the Chopper appears, and any article that gives one is inventing it. The honest numbers are the ones above: the card is 2.61 Japanese boxes raw and 43.05 boxes in PSA 10, and the box is $155.04. A buyer who wants the Chopper buys the single, and a buyer who wants Memorial Collection buys the box, and the two buyers should not be confused with each other.",
+          "The second gap is the case paradox, which no guide has because no guide divides our shelf. The Japanese case costs $1.02 more than twelve singles, and that fact alone decides the case question for any buyer who was buying it for the discount. The third gap is the repricing, which no guide has yet because it happened nine days ago. A verdict written from November 3 prices would overstate the English box by $158.12 and the case by $1,707.90, which is why this page re-divides the shelf on its own date and stamps it."
+        ]
+      },
+      {
+        "h": "The risk layer: the English case count, the reprint, and the $405 chase",
+        "paragraphs": [
+          "The first risk is the case count, and it is specific to the English case. Our listing is titled Sealed Case with no box count printed, and the November 3 guide states plainly that the count is unprinted. The $758.17 saving in the table holds only if the case holds twelve boxes, so confirm the count on the listing or in chat before you pay for the discount. A buyer who pays for a twelve-box saving and receives fewer boxes has lost the difference before the case is opened.",
+          "The second risk is the reprint. Memorial Collection is the first Extra Booster of a game that keeps growing, and the publisher has reprinted popular product before. A reprint does not make a sealed box worthless, but it makes a sealed box bought at a scarcity premium worth less, and EB-01's premium is scarcity: the English box at 5.87 times its $107.76 MSRP and the Japanese box at $155.04 against a ¥220 official pack price both carry it. The 20% English drop is the live reminder that the premium moves. Sealed holders should hold the set because it is the first Extra Booster, not because the price only rises.",
+          "The third risk is the chase itself. The Chopper Manga near $405.19 is a card-list reference price, not a sale you have made, and the card's price depends on condition, grading, and a buyer. A raw copy bought sight unseen carries condition risk, and a graded copy carries a premium on top of the raw price: the PSA 10 verified sale at $6,675 is the graded end of the same card. The fourth risk is legality, restated plainly: Japanese cards are generally not legal at official events outside Asia, so a player who buys Japanese to compete has bought the wrong product. The fifth risk is the reseal, and it is the same check as everywhere: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand."
+        ]
+      },
+      {
+        "h": "Context: 61 cards, two languages, and the first Extra Booster",
+        "paragraphs": [
+          "Memorial Collection is the set where the Extra Booster line begins: the first side set in the One Piece Card Game, built to strengthen the decks that already existed rather than to start a new story chapter. The official Japanese page prints 61 card types, 3 Leaders, 28 Commons, 21 Rares, 8 Super Rares, and 1 Secret Rare, with many cards in alternate art or parallel versions, and three new multicolour Leaders. The theme is the look back: Dressrosa, Baroque Works, and Impel Down, the arcs whose decks the set was built to feed, and the cards that see competitive play from it are the support pieces, like the Mr.2 that the guides keep naming, not the leaders.",
+          "The language gap is the context that decides the purchase. The Japanese pack holds 6 cards at ¥220, or $1.38 at ¥159, and the official page prints no packs-per-box figure for the Japanese product, which is why this page does not divide the Japanese box to a per-pack price. The English pack holds 12 cards at $4.49, and the English page prints 24 packs per box, so the English box divides cleanly to $26.35 a pack and $2.20 a card. The [EB-02 Anime 25th Collection buyers guide](/blog/eb-02-anime-25th-collection-buyers-guide/) runs the same language comparison for the second Extra Booster, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles. The verdict articles for the newer sets use the same method: the [is OP-01 worth buying guide](/blog/is-op-01-worth-buying/) prices the Manga Shanks against its box, and the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom chase the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the Chopper Manga is 2.61 Japanese boxes raw and 43.05 boxes in PSA 10, and no pull rate exists to price the chase any other way. It is not for anyone who needs English cards for official play outside Asia, because Japanese cards are generally not legal at official events outside Asia. It is not for anyone buying a Japanese case for the discount, because the case costs $1.02 more than twelve singles. It is not for anyone buying the English case for the discount without confirming the box count, because the count is unprinted. And it is not for anyone who treats a sealed box as a guaranteed investment, because the English box fell 20% in nine days, and sealed prices move."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open the first Extra Booster, hold it sealed, own it in English, or own the Chopper single.",
+          "If the job is the single, buy the single: the Chopper Manga near $405.19 raw, or the PSA 10 near $6,675, both dated in this guide.",
+          "If the job is the Japanese box, pay $155.04, and treat the chase as a bonus.",
+          "If the job is English, pay $632.48 for the box, or $6,831.59 for the case, and confirm the case holds twelve boxes before you pay for the discount.",
+          "If the job is a case, divide it first: Japanese costs $1.02 more than twelve singles, English saves $758.17 if it holds twelve.",
+          "Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the English shelf moved 20% in nine days."
+        ],
+        "h": "Action layer: the EB-01 buying checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 12, 2026, and the English prices moved 20% in the nine days before it, so re-divide before you pay if the shelf has moved again."
+        ]
+      }
+    ],
+    "slug": "is-eb-01-worth-buying",
+    "takeaway": [
+      "The EB-01 Japanese box at $155.04 is the cheapest way to own the first Extra Booster sealed, and the case at $1,861.50 is the way to buy it sealed in bulk, at $155.13 a box, costing $1.02 more than twelve singles. The English box at $632.48 fell exactly 20% in nine days, and the English case at $6,831.59 saves $758.17 against twelve singles if it holds twelve boxes, a count no listing prints.",
+      "It is worth buying as the first Extra Booster, sealed or opened, and it is not worth buying as a way to own one named card. The Chopper Manga alternate art is listed near $405.19 raw, which is 2.61 Japanese boxes, and a PSA 10 copy carried a $6,675 verified sale, which is 43.05 boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "It is not worth buying for the Japanese case discount, because there is none: the case costs more than the singles. It is not worth buying in Japanese for official play outside Asia, because Japanese cards are generally not legal at official events outside Asia.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of October 11 to November 11, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
+      "New this cycle: the [is EB-02 worth buying guide](/blog/is-eb-02-worth-buying/) prices the Anime 25th Collection the same way, with its own 20% English drop. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+    ]
+  },
+  "is-eb-02-worth-buying": {
+    "datePublished": "2026-11-12",
+    "faqs": [
+      {
+        "a": "Yes, and it is exactly 20% on both English products. The English box was $276.70 on November 4, 2026, and is $221.36 on November 12, 2026, a fall of $55.34. The English case was $3,129.99 and is $2,503.99, a fall of $626.00. The Japanese box and case did not move: $178.86 and $2,108.15 on both dates.",
+        "q": "Is the EB-02 English box really 20% cheaper than last week?"
+      },
+      {
+        "a": "No. The Luffy Manga comic parallel, EB02-061, carried a lowest raw ask of ¥300,000 on SNKRDUNK on September 30, 2026, about $1,886.79 at ¥159, which is 10.55 Japanese boxes, and a PSA 10 back order was listed at ¥695,212, about $4,372.40, which is 24.45 Japanese boxes. Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Buy the single if that card is the job, or buy the box to open Anime 25th Collection and treat the chase as a bonus.",
+        "q": "Should I buy an EB-02 box to pull the Luffy Manga?"
+      },
+      {
+        "a": "Per pack, no: the English box is $9.22 a pack against the Japanese box at $7.45 a pack. Per card, yes: the English box is $0.77 a card against the Japanese box at $1.24 a card, because the English box holds 288 cards against the Japanese box at 144. The English box is the buy only if English cards are the job; a buyer who wants the cheapest way to open the set buys Japanese, and a buyer who wants the most cards per dollar buys English.",
+        "q": "Is the English EB-02 box cheaper than the Japanese box?"
+      }
+    ],
+    "h1": "Is EB-02 Anime 25th Worth Buying?",
+    "intro": [
+      "Short answer: yes, for the anime fan who wants the 25th anniversary set, and yes again for the English buyer now that the English shelf has repriced, and no, for anyone buying it to pull one named card. On our shelf as of November 12, 2026, the [EB-02 Japanese booster box](/product/eb-02-anime-25th-collection-booster-box-japanese-one-piece-card/) is $178.86, or $7.45 a pack and $1.24 a card, and the [EB-02 English booster box](/product/eb-02-anime-25th-collection-extra-booster-box-english-one-piece-card/) is $221.36, or $9.22 a pack and $0.77 a card. The set is 87 card types plus 1 secret, released in Japan on January 25, 2025, and in English on May 9, 2025, and its chase is the Luffy Manga comic parallel, EB02-061, with a lowest raw ask of ¥300,000 on September 30, 2026.",
+      "Who this is for: anime fans who want the anniversary art, buyers choosing Japanese against English at the new prices, and players who want the reprinted leaders the set was built to bring back. Who it is not for: anyone chasing one named card, who should buy the single; anyone who wants a cheap first box, because the newest Japanese One Piece box is cheaper per pack; and anyone buying a loose pack at the marketplace price, because loose English packs trade far above MSRP."
+    ],
+    "metaDescription": "EB-02 at $178.86 Japanese and $221.36 English after a 20% drop: the Luffy Manga priced against the box, the per-card inversion, and the verdict.",
+    "metaTitle": "Is EB-02 Anime 25th Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes, for the anime fan, with the arithmetic attached",
+        "paragraphs": [
+          "The buyer comes first and the language second, because EB-02 punishes the buyer who gets the order backwards. An anime fan who wants the anniversary set buys the [EB-02 Japanese box](/product/eb-02-anime-25th-collection-booster-box-japanese-one-piece-card/) at $178.86: 24 packs of 6 cards, 144 cards, $7.45 per pack and $1.24 per card, the cheapest way to open the set. A buyer who wants the set in English buys the [EB-02 English box](/product/eb-02-anime-25th-collection-extra-booster-box-english-one-piece-card/) at $221.36: 24 packs of 12 cards, 288 cards, $9.22 per pack and $0.77 per card, and the English box is the story of this page, because it fell $55.34 in eight days. A sealed holder buys a case: the [Japanese case](/product/eb-02-anime-25th-collection-sealed-case-12-boxes-japanese-one-piece-card/) at $2,108.15, or $175.68 a box, and the [English case](/product/eb-02-anime-25th-collection-sealed-case-english-one-piece-card/) at $2,503.99.",
+          "The case is the second story, because the two languages behave differently. The Japanese case saves $38.17 across the case, $3.18 per box, which is a real discount but a small one, and the honest reason to buy it is the sealed run, not the saving. The English case is the opposite, if it holds twelve boxes: twelve English singles cost $2,656.32 against the case at $2,503.99, a conditional saving of $152.33, and it is the way to buy English boxes if English is the job. The [EB-02 Anime 25th Collection buyers guide](/blog/eb-02-anime-25th-collection-buyers-guide/) priced the same four products on November 4; this verdict updates the prices, prices the chase, and gives the verdict, because the English shelf moved 20% in eight days and the guide did not.",
+          "The chase is the third story, and it is a warning for the opener. The Luffy Manga comic parallel, EB02-061, carried a lowest raw ask of ¥300,000 on SNKRDUNK on September 30, 2026, about $1,886.79 at ¥159, which is 10.55 Japanese boxes, and a PSA 10 back order was listed at ¥695,212, about $4,372.40, which is 24.45 Japanese boxes. At release the same card was ¥118,000 on Fujicard's February 7, 2025 list, and $1,030.74 on TCGplayer market per TheGamer's May 17, 2025 list, so the chase has moved up while the box has moved down. The next tier is the Boa Hancock Special Card leader, OP07-038, at $408.32 on the same May 2025 TCGplayer list, and $1,213.84 as a raw ask on SNKRDUNK on September 30, 2026. The verdict follows the arithmetic: buy the box for the set, buy the single for the card."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and the 20% repricing",
+        "math": [
+          "EB-02 Japanese box per pack: $178.86 ÷ 24 packs = $7.45 per pack",
+          "EB-02 Japanese box per card: $178.86 ÷ 144 cards = $1.24 per card",
+          "EB-02 Japanese case per box: $2,108.15 ÷ 12 boxes = $175.68 per box",
+          "EB-02 Japanese case per pack: $2,108.15 ÷ 288 packs = $7.32 per pack",
+          "EB-02 Japanese case per card: $2,108.15 ÷ 1,728 cards = $1.22 per card",
+          "EB-02 Japanese case saving per case: (12 × $178.86) − $2,108.15 = $38.17 per case",
+          "EB-02 Japanese case saving per box: $178.86 − $175.68 = $3.18 per box",
+          "EB-02 English box per pack: $221.36 ÷ 24 packs = $9.22 per pack",
+          "EB-02 English box per card: $221.36 ÷ 288 cards = $0.77 per card",
+          "EB-02 English box price drop: $276.70 − $221.36 = $55.34; $55.34 ÷ $276.70 = 20.00%",
+          "EB-02 English case price drop: $3,129.99 − $2,503.99 = $626.00; $626.00 ÷ $3,129.99 = 20.00%",
+          "EB-02 English vs Japanese box gap: $221.36 − $178.86 = $42.50 per box",
+          "EB-02 English vs Japanese per pack: $9.22 − $7.45 = $1.77 per pack",
+          "EB-02 English vs Japanese per card: $1.24 − $0.77 = $0.47 per card cheaper in English",
+          "EB-02 English box vs MSRP: 24 packs × $4.99 = $119.76; $221.36 ÷ $119.76 = 1.85× MSRP",
+          "EB-02 Japanese official box: 24 packs × ¥220 = ¥5,280; ¥5,280 ÷ ¥159 = $33.21; $178.86 ÷ $33.21 = 5.39× official",
+          "Luffy Manga against the Japanese box: $1,886.79 ÷ $178.86 = 10.55 boxes",
+          "Luffy Manga PSA 10 against the Japanese box: $4,372.40 ÷ $178.86 = 24.45 boxes",
+          "Luffy Manga against the English box: $1,886.79 ÷ $221.36 = 8.52 boxes",
+          "Top three chases against the Japanese box: ($1,030.74 + $408.32 + $302.52) ÷ $178.86 = 9.74 boxes",
+          "CONDITIONAL, NOT CLAIMED: if the English case held 12 boxes, 12 × $221.36 = $2,656.32 singles vs $2,503.99 case, saving $152.33 ($12.69 per box)"
+        ],
+        "paragraphs": [
+          "The ladder has two tiers and one inversion. The Japanese tier is the opener's tier: $178.86 a box, $7.45 a pack, and the case barely discounts it, at $175.68 a box. The English tier is the card-count tier: $221.36 a box, $9.22 a pack, dearer per pack, but $0.77 a card against the Japanese $1.24, because the English box holds twice the cards. The gap between the languages narrowed with the drop: $42.50 per box now, against $97.84 on November 4, and the English box is now 1.85 times its $119.76 MSRP, against 2.31 times eight days ago.",
+          "The drop itself is the fact to sit with. Both English products fell exactly 20% between November 4 and November 12, 2026, while both Japanese products did not move at all. A 20% move in eight days is not noise; it is a repricing, and a repricing cuts both ways. It makes the English box the best value it has been on our shelf in the period we have tracked it, and it is also a reminder that sealed prices move, and that a box bought as an investment can fall as fast as it rose. The prices on this page are stamped November 12, 2026, and the next cycle will re-divide them.",
+          "The cheapest comparison on the shelf is the one that kills the opener's case for EB-02 as a value box. The newest Japanese One Piece box on the shelf is cheaper per pack than $7.45, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all twenty-four boxes, with EB-02 sitting above the newest mainline sets. EB-02's premium buys the anniversary art and the Luffy chase, and nothing else. If the job is opening One Piece cards for the least money, the [best Japanese One Piece booster box price page](/blog/best-japanese-one-piece-booster-box-price/) divides all twenty-four boxes the same way."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view. The rows are the five ways to spend on EB-02, and the columns are the dimensions that decide it: what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The English box row deserves a second look, because it is the only row where the dearer box is the cheaper buy per card. A buyer who compares only the sticker prices concludes the Japanese box is cheaper. A buyer who divides finds the English box is cheaper per card, dearer per pack, and the right buy only if English cards are the job. The Japanese case row deserves the opposite look: a $38.17 saving across twelve boxes is the price of a few packs, and anyone buying it for the discount is buying the wrong reason. Buy the Japanese case for the sealed run, or buy twelve singles and keep the flexibility."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$178.86",
+              "$7.45",
+              "Opening Anime 25th in Japanese",
+              "Chase not guaranteed; JP not legal outside Asia"
+            ],
+            [
+              "Japanese case (12)",
+              "$2,108.15",
+              "$7.32",
+              "Sealed run; group split",
+              "Saves only $3.18 a box; barely a discount"
+            ],
+            [
+              "English box",
+              "$221.36",
+              "$9.22",
+              "English cards; cheapest per card",
+              "1.85x MSRP; chase not guaranteed"
+            ],
+            [
+              "English case",
+              "$2,503.99",
+              "$208.67 a box if 12",
+              "English boxes in bulk",
+              "Box count unprinted; $2,503.99 at once"
+            ],
+            [
+              "The single",
+              "~$1,886.79 Luffy",
+              "n/a",
+              "Owning the Luffy Manga",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing and the per-card inversion",
+        "note": "From the Warehouse: the question we get most in chat about EB-02 is whether the English box is worth it now that it has fallen so far. Our answer starts with the repricing, because it is the fact most guides cannot have yet: the English box fell exactly 20% in eight days, and the English case fell exactly 20% beside it, while the Japanese products did not move. The box is worth buying as the anniversary set, sealed or opened, and it is not worth buying as a way to own one named card. Say that first, and the rest of the numbers fall into place.",
+        "paragraphs": [
+          "The top guides for this query rank the set and the chase cards, and they are good at both. The JapanHacks 2026 box guide names EB-02 the best box for anime art lovers and scores its art and nostalgia 10 out of 10. The Samurai Sword chase guide prices the Luffy Manga at a ¥300,000 lowest raw ask on September 30, 2026, against a ¥29,000 box ask on the same date, and the Zatu review walks the packs, the 87 cards, and the two hits per box. What none of them does is give a dated verdict that prices the chase against the box with the repricing attached, and none of them runs the per-card inversion: the English box is dearer per pack and cheaper per card, and that division decides the language question for every buyer who compares only the sticker prices.",
+          "That per-card inversion is the gap this page owns, and it owns it with one division. The Japanese box is $7.45 a pack and $1.24 a card. The English box is $9.22 a pack and $0.77 a card. A buyer who wants the cheapest way to open the set buys Japanese. A buyer who wants the most cards per dollar buys English. A buyer who wants one named card buys neither, because the Luffy Manga is 10.55 Japanese boxes as a raw ask and 24.45 boxes as a PSA 10 back order, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase.",
+          "The second gap is the repricing, which no guide has yet because it happened eight days ago. The English box fell 20% and the English case fell 20% between November 4 and November 12, 2026, and the Japanese products did not move. A verdict written from November 4 prices would overstate the English box by $55.34 and the case by $626.00, which is why this page re-divides the shelf on its own date and stamps it."
+        ]
+      },
+      {
+        "h": "The risk layer: the Luffy price, the loose pack, and the 26 Special Cards",
+        "paragraphs": [
+          "The first risk is the chase price itself, and it is a range, not a number. The Luffy Manga carried a ¥300,000 lowest raw ask on SNKRDUNK on September 30, 2026, a ¥338,000 single listing on the same page, $1,030.74 on TCGplayer market in May 2025, and ¥118,000 on Fujicard's February 2025 list. An ask is not a sale, and a card that has tripled in asks since release can fall as fast as it rose. A raw copy bought sight unseen carries condition risk, and a graded copy carries a premium on top of the raw price: the PSA 10 back order at ¥695,212 is the graded end of the same card.",
+          "The second risk is the loose pack. PullMarket's August 10, 2026 observation prices the English EB-02 loose pack at $20.39 on TCGplayer market, against a $4.99 MSRP, a 308.6% premium, and loose packs carry the search risk every sealed guide warns about. A buyer who wants EB-02 packs should buy the box at $9.22 a pack in English or $7.45 in Japanese, not a loose pack at $20.39. The third risk is the Special Cards themselves: 26 of the 87 types are reprinted leaders from older sets, carrying OP-series numbers, and a buyer who wants new cards should know that a quarter of the set is leaders they may already own.",
+          "The fourth risk is the English case count, and it is the same check as EB-01. Our listing is titled Sealed Case with no box count printed, so the $152.33 saving in the table holds only if the case holds twelve boxes, and the count should be confirmed before you pay for the discount. The fifth risk is legality, restated plainly: Japanese cards are generally not legal at official events outside Asia, so a player who buys Japanese to compete has bought the wrong product. The sixth risk is the reseal, and it is the same check as everywhere: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand."
+        ]
+      },
+      {
+        "h": "Context: 87 cards, anime art, and the leaders that came back",
+        "paragraphs": [
+          "Anime 25th Collection is the set where the Extra Booster line turns to the screen: the second Extra Booster, built for the 25th anniversary of the TV anime, with new illustrations drawn by the anime's animators and cards inspired by the anime's past theme songs. The official Japanese page prints 87 card types plus 1 secret, 1 Leader, 29 Commons, 21 Rares, 9 Super Rares, 1 Secret Rare, and 26 Special Cards, the largest Special Card line among the first five Extra Boosters. The new Leader is Monkey D. Luffy, EB02-010, and the Special Cards are reprinted leaders from older sets, which is why the set matters for players: it brings old leaders back into the card pool.",
+          "The language gap is the context that decides the purchase. The Japanese pack holds 6 cards at ¥220, or $1.38 at ¥159, and the box holds 24 packs, so the Japanese box divides cleanly to $7.45 a pack and $1.24 a card. The English pack holds 12 cards at $4.99, and the English box divides to $9.22 a pack and $0.77 a card. The [EB-01 Memorial Collection guide](/blog/eb-01-japanese-vs-english-which-to-buy/) runs the same language comparison for the first Extra Booster, and the [EB-03 Heroines Edition buyers guide](/blog/eb-03-heroines-edition-buyers-guide/) runs it for the third. The verdict articles for the other sets use the same method: the [is OP-01 worth buying guide](/blog/is-op-01-worth-buying/) prices the Manga Shanks against its box, and the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) prices the Chopper Manga the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the Luffy Manga is 10.55 Japanese boxes as a raw ask and 24.45 boxes as a PSA 10 back order, and no pull rate exists to price the chase any other way. It is not for anyone who wants a cheap first One Piece box, because the newest Japanese One Piece box is cheaper per pack than $7.45. It is not for anyone buying loose packs at the marketplace price, because the English loose pack trades at $20.39 against a $4.99 MSRP. It is not for anyone who wants only new cards, because 26 of the 87 types are reprinted leaders. And it is not for anyone who treats a sealed box as a guaranteed investment, because the English box fell 20% in eight days, and sealed prices move."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open the anniversary set, hold it sealed, own it in English, or own the Luffy single.",
+          "If the job is the single, buy the single: the Luffy Manga near ¥300,000 as a raw ask, or the PSA 10 near ¥695,212, both dated September 30 to October 7, 2026.",
+          "If the job is the Japanese box, pay $178.86, or $7.45 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $221.36 for the box, or $2,503.99 for the case, and confirm the case holds twelve boxes before you pay for the discount.",
+          "If the job is a case, divide it first: Japanese saves $3.18 a box, English saves $12.69 a box if it holds twelve.",
+          "Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the English shelf moved 20% in eight days."
+        ],
+        "h": "Action layer: the EB-02 buying checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 12, 2026, and the English prices moved 20% in the eight days before it, so re-divide before you pay if the shelf has moved again."
+        ]
+      }
+    ],
+    "slug": "is-eb-02-worth-buying",
+    "takeaway": [
+      "The EB-02 Japanese box at $178.86 is the cheapest way to open the anniversary set, at $7.45 a pack and $1.24 a card, and the case at $2,108.15 is the way to buy it sealed, at $175.68 a box, saving $38.17 against twelve singles. The English box at $221.36 fell exactly 20% in eight days, and the English case at $2,503.99 saves $152.33 against twelve singles if it holds twelve boxes, a count no listing prints.",
+      "It is worth buying as the anniversary set, sealed or opened, and it is not worth buying as a way to own one named card. The Luffy Manga comic parallel carried a ¥300,000 lowest raw ask on September 30, 2026, about $1,886.79, which is 10.55 Japanese boxes, and a PSA 10 back order was listed at ¥695,212, about $4,372.40, which is 24.45 boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "It is worth buying in English for the cards per dollar, not for the sticker price: the English box is dearer per pack at $9.22 against $7.45, and cheaper per card at $0.77 against $1.24. It is not worth buying as a loose pack, because the English loose pack trades at $20.39 against a $4.99 MSRP.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of February 7 to October 7, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
+      "New this cycle: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) prices the Memorial Collection the same way, with its own 20% English drop. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+    ]
+  },
   "is-op-01-worth-buying": {
     "datePublished": "2026-11-11",
     "faqs": [
@@ -17279,7 +17619,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the founding set, sealed or opened, and it is not worth buying as a way to own one named card. The Manga Shanks sat near $4,000 on TCGplayer market as of October 30, 2026, which is 16.78 Japanese boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is not worth buying for Standard play: Romance Dawn rotated out on April 1, 2026, and only four of its card numbers are still Standard-legal. It plays in Extra Regulation now, and the box is a collector's purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, and the marketplace references as of October 30 to November 11, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [best Akihabara card shop guide](/blog/best-akihabara-card-shop/) ranks the Tokyo trip against ordering sealed boxes from Japan, with the same divided shelf prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+      "New this cycle: the [best Akihabara card shop guide](/blog/best-akihabara-card-shop/) ranks the Tokyo trip against ordering sealed boxes from Japan, with the same divided shelf prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "New this cycle: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) prices the Memorial Collection the same way, with its own 20% English drop and the Chopper Manga against the box."
     ]
   },
   "is-sv11b-worth-buying": {
