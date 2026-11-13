@@ -22542,6 +22542,193 @@ export const POSTS: Record<string, BlogPost> = {
       "For the price-and-math companion, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-16 worth buying guide](/blog/is-op-16-worth-buying/) runs the same verdict on the Marineford set, where the Japanese case is also a premium and the English case also saves."
     ]
   },
+  "is-op-18-worth-buying": {
+    "datePublished": "2026-11-13",
+    "faqs": [
+      {
+        "a": "Yes, sealed, as a pre-order, with the case doing the work. The Japanese box is $71.40, $2.98 a pack and $0.50 a card, and the Japanese case is $770.10, which divides to $64.18 a box and saves $86.70 against twelve singles. The English case is $1,136.15, or $94.68 a box against a $119.76 box at pack retail, and there is no English single box on this shelf. It is not worth buying to pull the Yoshitaka Amano cards, whose pre-release asks start at $499.99: buy the single for any named card.",
+        "q": "Is OP-18 The Dominance of God worth buying?"
+      },
+      {
+        "a": "Yes. The Japanese case costs $770.10 for 12 boxes, which divides to $64.18 a box, $7.22 less per box than the single box at $71.40, a saving of $86.70 on the case. That is the rare One Piece case verdict that runs in the buyer's favour: the OP-17 Japanese case charges a premium of $0.19 a box instead. Divide the case before you pay, every time.",
+        "q": "Is the OP-18 Japanese sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Loki Amano parallel carries a pre-release ask from $599.99 and the Saint Shamrock Amano parallel from $499.99 (TCGplayer listings, November 12, 2026), which is 8.40 and 7.00 Japanese boxes, and Bandai has published no pull rates for OP-18, so no box guarantees either card. Those are asks, not sales. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an OP-18 box to pull the Yoshitaka Amano cards?"
+      }
+    ],
+    "h1": "Is OP-18 The Dominance of God Worth Buying?",
+    "intro": [
+      "Short answer: yes, sealed, as a pre-order, with the case doing the work. The [OP-18 Japanese booster box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is $71.40 on this shelf, $2.98 a pack and $0.50 a card, and the [OP-18 Japanese booster box case](/product/one-piece-op-18-japanese-booster-box-case-pre-order-one-piece-card-game/) is $770.10, which divides to $64.18 a box and saves $86.70 against twelve singles. The [OP-18 English sealed case](/product/op-18-the-dominance-of-god-sealed-case-12-boxes-english-one-piece-card/) is $1,136.15, or $94.68 a box against a $119.76 box at pack retail, and there is no English single box on this shelf. The chase is six Yoshitaka Amano cards, with pre-release asks from $499.99: buy the box for the set, and buy the single for any named Amano card.",
+      "This guide answers for three buyers: the collector pre-ordering the second fourth-anniversary set, the buyer choosing between the Japanese box, the Japanese case, and the English case, and the buyer who wants the Amano cards and needs to hear that the asks are not sales. The market figures in it are dated pre-release asks, because that is all that exists, and the shelf figures are from this store on November 13, 2026. Every price in it comes from the shelf or a dated market check; none of it is invented."
+    ],
+    "metaDescription": "OP-18 releases Nov 20/21: JP box $71.40, JP case saves $86.70, EN case $94.68 a box, and six Amano cards with asks from $499.99. The verdict.",
+    "metaTitle": "Is OP-18 The Dominance of God Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the Japanese box and both cases, no for chasing the Amano cards in packs",
+        "paragraphs": [
+          "Buy the Japanese box if the job is opening the newest One Piece set before it releases. At $71.40 it is $31.69 below the [OP-17 Japanese box](/product/op-17-the-worlds-strongest-warriors-booster-box-japanese-one-piece-card/) at $103.09, $17.85 below the OP-16 box at $89.25, and $12.12 below the OP-14 box at $83.52, and it is the second-cheapest Japanese One Piece box on this shelf after the OP-15 box at $59.06. At $2.98 a pack it is the cheapest per-pack entry into a new set on this shelf, and it carries the Amano chase, the first Franky Leader, and the first Nico Robin Manga Rare. For a collector opening one box of the new set, or a player building a pool before release, the Japanese box is the rational entry.",
+          "Buy the Japanese case, not twelve singles, if the job is boxes in bulk. The case costs $770.10 for 12 boxes, which is $64.18 a box against $71.40 singly, a saving of $7.22 a box and $86.70 across the case, Buy the English case, not the English box, if the job is English boxes in bulk: the case is $1,136.15 for 12 boxes, $94.68 a box against $119.76 for a box at pack retail, a saving of $25.08 a box and $300.97 across the case, and there is no English single box on this shelf to compare it against. The wider case-versus-box math is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "Buy the single if the job is one named card. The Loki Amano parallel carries a pre-release ask from $599.99, which is 8.40 boxes, the Saint Shamrock Amano parallel from $499.99, which is 7.00 boxes, and the regular Saint Shamrock Secret Rare from $59.99, which is 0.84 boxes, and the Nico Robin OP18-031 at $29.99 is 0.42 boxes. Those are asks on TCGplayer listings dated November 12 and 13, 2026, not sales, and Bandai publishes no pull rates for OP-18, so no box guarantees any one of them. The full pre-order picture, including the case division at the October prices, is in the [OP-18 The Dominance of God preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/)."
+        ]
+      },
+      {
+        "h": "The money layer: three products, two case verdicts, one price path in two legs",
+        "math": [
+          "OP-18 Japanese box per pack: $71.40 ÷ 24 packs = $2.98 per pack",
+          "OP-18 Japanese box per card: $71.40 ÷ 144 cards = $0.50 per card",
+          "OP-18 Japanese case per box: $770.10 ÷ 12 boxes = $64.18 per box",
+          "OP-18 twelve single boxes: 12 × $71.40 = $856.80",
+          "OP-18 Japanese case saving per case: $856.80 - $770.10 = $86.70",
+          "OP-18 Japanese case saving per box: $71.40 - $64.18 = $7.22",
+          "OP-18 Japanese case per pack: $770.10 ÷ 288 packs = $2.67 per pack",
+          "OP-18 Japanese case per card: $770.10 ÷ 1,728 cards = $0.45 per card",
+          "OP-18 English case per box: $1,136.15 ÷ 12 boxes = $94.68 per box",
+          "OP-18 English box at pack retail: 24 × $4.99 = $119.76",
+          "OP-18 twelve English boxes at pack retail: 12 × $119.76 = $1,437.12",
+          "OP-18 English case saving per case: $1,437.12 - $1,136.15 = $300.97",
+          "OP-18 English case saving per box: $119.76 - $94.68 = $25.08",
+          "OP-18 English case per pack: $1,136.15 ÷ 288 packs = $3.94 per pack",
+          "OP-18 English case per card: $1,136.15 ÷ 3,456 cards = $0.33 per card",
+          "OP-18 Japanese box rise since October 24, 2026: $84.00 - $70.00 = $14.00; $14.00 ÷ $70.00 = 20.00%",
+          "OP-18 Japanese box fall since November 4, 2026: $84.00 - $71.40 = $12.60; $12.60 ÷ $84.00 = 15.00%",
+          "OP-18 Japanese case rise since October 24, 2026: $906.00 - $755.00 = $151.00; $151.00 ÷ $755.00 = 20.00%",
+          "OP-18 Japanese case fall since November 4, 2026: $906.00 - $770.10 = $135.90; $135.90 ÷ $906.00 = 15.00%",
+          "OP-18 English case November 4, 2026, derived: $1,136.15 ÷ 0.85 = $1,336.65",
+          "OP-18 official Japanese box: 24 packs × ¥240 = ¥5,760; ¥5,760 ÷ 159.9 = $36.02",
+          "OP-18 box vs official: $71.40 - $36.02 = $35.38 above official",
+          "OP-18 box vs official ratio: $71.40 ÷ $36.02 = 1.98× official",
+          "OP-18 Japanese box vs OP-17: $103.09 - $71.40 = $31.69 per box",
+          "OP-18 Japanese box vs OP-16: $89.25 - $71.40 = $17.85 per box",
+          "OP-18 Japanese box vs OP-15: $71.40 - $59.06 = $12.34 per box",
+          "OP-18 Japanese box vs OP-14: $83.52 - $71.40 = $12.12 per box",
+          "Loki Amano parallel ask: $599.99 ÷ $71.40 = 8.40 boxes",
+          "Saint Shamrock Amano parallel ask: $499.99 ÷ $71.40 = 7.00 boxes",
+          "Saint Shamrock Secret Rare ask: $59.99 ÷ $71.40 = 0.84 boxes",
+          "Nico Robin OP18-031 ask: $29.99 ÷ $71.40 = 0.42 boxes",
+          "OP-18 English case box vs OP-17 English box: $144.22 - $94.68 = $49.54 per box",
+          "OP-18 Japanese case box vs OP-17 Japanese box: $103.09 - $64.18 = $38.91 per box"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 13, 2026, with 24 packs per box, 6 cards per Japanese pack, 12 cards per English pack, and a 12-box case. The currency rate used is 159.9 yen to the dollar, checked on November 13, 2026, so an official Japanese box at 24 packs times 240 yen is 5,760 yen, or $36.02.",
+          "The price path is the story of this pre-order, and it moved in two legs, not one. On October 24, 2026 this shelf held the Japanese box at $70.00 and the case at $755.00. By November 4 the box had risen to $84.00 and the case to $906.00, twenty percent up on both. On November 13 the box is $71.40 and the case is $770.10, fifteen percent down on both, which leaves the box two percent above where it started and the case two percent above where it started. The English case fell with the same fifteen percent the whole shelf took on November 13, which puts its November 4 price at $1,336.65.",
+          "The case verdicts survived both legs, which is the second story. The Japanese case still saves, $7.22 a box and $86.70 on the case, against $7.08 a box and $84.96 on the case on October 24, because both legs moved the box and the case by the same percentages. The English case still saves against pack retail, $25.08 a box and $300.97 on the case. The same verdict runs the other way on the set it follows, in the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/), where the Japanese case charges a premium.",
+          "Two market checks put the Warehouse shelf in context, and both are asks, not sales. Nerdsnack's November 13, 2026 guide, updated the same day, reports TCGplayer sellers listing the Amano parallels a week before release, with Loki from $599.99 and Saint Shamrock from $499.99, and the regular Saint Shamrock Secret Rare from $59.99, all checked November 12, 2026. OPTCGMeta's November 13, 2026 card list puts the Nico Robin OP18-031 at $29.99, the dearest listed non-Amano card so far. No FoilKraken box-value report exists for OP-18, because the set has not released, and Bandai has published no pull rates for it."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, English case, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the first three. The Japanese box at $71.40 is the cheapest way into the set at $2.98 a pack, the Japanese case at $64.18 a box is the cheapest way into twelve boxes, and the English case at $94.68 a box is the only English route on this shelf, $49.54 a box below the OP-17 English single box at $144.22.",
+          "The last column is the row that decides the chase. The Loki Amano parallel ask at $599.99 costs 8.40 boxes, the Saint Shamrock Amano parallel at $499.99 costs 7.00 boxes, and neither is a sale: both are pre-release listings, and the set has not released. A buyer who wants one named Amano card should buy the single after release, when the asks become transactions, and a buyer who wants the set should buy the box or the case now, while the pre-order discount is still on the shelf. The full Japanese shelf is ranked the same way in the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/)."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box JP (our shelf)",
+            "Sealed case JP (our shelf)",
+            "Sealed case EN (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$71.40",
+              "$64.18 a box inside the case",
+              "$94.68 a box inside the case",
+              "Loki Amano parallel ask $599.99"
+            ],
+            [
+              "Price per pack",
+              "$2.98",
+              "$2.67",
+              "$3.94",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.50",
+              "$0.45",
+              "$0.33",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "Twelve English boxes below pack retail",
+              "The named card, certain, at an ask"
+            ],
+            [
+              "Best for",
+              "Opening the new set",
+              "Playgroup split or sealed hold",
+              "English boxes in bulk",
+              "Any named Amano card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the asks, the missing English box, and the per-card inversion",
+        "note": "From the Warehouse: the question we get most about OP-18 is whether the Amano parallels will be in the first boxes, because buyers remember sets where the chase art showed up late. The honest answer is that nobody knows which box holds one, because Bandai publishes no pull rates for OP-18 and the set has not released. Buy the case for twelve boxes at a discount, never for one card.",
+        "paragraphs": [
+          "The top results for OP-18 cover the card list, the chase cards, and the release date, and they cover them well. TCGScreener gives the revealed card list, nine numbered cards with Saint Shamrock closing the set at OP18-119 as a Secret Rare, Nico Robin at OP18-031 with a Super Alt-Art, and Gunko at OP18-065 with the God's Knights Super Parallel. Samurai Sword gives the chase picture and the official Japanese figures, with no pull rates published. Nerdsnack gives the release dates, the six Amano cards, and the pre-release asks. What none of them does is run the pre-order math on one shelf after the repricing.",
+          "The second gap is the price path itself, in two legs, on one shelf. The October 24 guide on this site priced the Japanese box at $70.00 and the case at $755.00, and the shelf now holds a $71.40 box and a $770.10 case, after a twenty percent rise and a fifteen percent fall. No top guide tracks the path, because no top guide prices from a live shelf. A buyer who buys on last week's box price overpays by $12.60 a Japanese box and $135.90 a Japanese case, and a buyer who buys on the October price is buying a price that no longer exists.",
+          "The third gap is the missing English box. There is no English single box on this shelf, only the English case at $1,136.15, so the English buyer has no single-box price to compare against, only the case at $94.68 a box against $119.76 at pack retail. The per-card inversion is the other half of it: the English box at pack retail costs $4.99 a pack against the Japanese $2.98, but the English card at $0.33 inside the case is cheaper than the Japanese $0.45, because the English pack holds twelve cards against six."
+        ]
+      },
+      {
+        "h": "The risk layer: the asks are not sales, the concentration, and the pre-order lock",
+        "paragraphs": [
+          "The first risk is the asks themselves. The Loki parallel at $599.99 and the Saint Shamrock parallel at $499.99 are pre-release listings on TCGplayer, checked November 12, 2026, and listings are not transactions: pre-release asks routinely fall once supply lands and the first sales print. The regular Saint Shamrock Secret Rare at $59.99 and the Nico Robin at $29.99 are the same kind of figure. A buyer who treats an ask as a price is buying a number that may not survive release week.",
+          "The second risk is the concentration. Six Amano cards carry the set's pre-release value, two characters in three versions each, and the dearest listed non-Amano card, the Nico Robin at $29.99, costs 0.42 boxes. The rest of the set is unpriced until release, which means the box's value is six cards and the rest of the box is a pool. A buyer who opens for value is buying a lottery ticket with a famous artist on it; the honest plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "The third risk is the pre-order lock itself. Money paid before release is money that cannot move to another set, and release-week delays, allocation cuts, and price moves all land after the payment. The recovery is boring and permanent, which is to pre-order only the format the division favors, the Japanese case at $64.18 a box or the English case at $94.68, and to keep the singles rule written down in advance: which cards you will buy directly after release instead of chasing in packs.",
+          "The fourth risk is the language trap: Japanese cards do not play in English-region official events, so a cheap Japanese box that cannot sit on a tournament table is not a bargain for a player. The fifth risk is the sealed-hold speculation: a sealed box held for value is a speculation with storage costs and no maturity date, and the Amano premium is highest before release and softest after, when the first sales print. The investment test for the whole shelf is in [Are Japanese Pokémon Cards a Good Investment](/blog/are-japanese-pokemon-cards-a-good-investment/)."
+        ]
+      },
+      {
+        "h": "Context: 127 cards, the Amano set, and the second anniversary booster",
+        "paragraphs": [
+          "The Dominance of God, OP-18, releases in Japan on November 21, 2026, at 240 yen per pack for six cards, and in English on November 20, 2026, at $4.99 per pack for twelve cards, The official card-type count is 127 plus 1, and a Japanese booster box holds 24 packs, with a sealed case holding 12 boxes. The themes are the Water Seven arc, the God's Knights, and Elbaf, and the set is the second fourth-anniversary main booster after OP-17, which released in Japan on August 22, 2026.",
+          "The chase treatments are the set's identity, and they should be named exactly. Two Secret Rares drawn by Yoshitaka Amano, Loki and Saint Shamrock, each in a parallel and a gold-foil parallel version, six Amano cards in total. The Nico Robin OP18-031 carries the set's Super Alt-Art, her first Manga Rare, in her Enies Lobby outfit. The Saint Gunko OP18-065 carries the God's Knights Super Parallel, the fourth-anniversary treatment. Franky OP18-021 is the set's first Leader for the Straw Hats' shipwright, built around Water Seven, the Franky Family, and Stage cards.",
+          "The predecessor set is priced the same way in the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/), where the Japanese box is $103.09 and the English case saves $272.97, and the successor has no date yet. The full Japanese shelf around this pre-order is in the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/), and the price of every other Japanese box on the shelf beside OP-18 is in the [best Japanese One Piece booster box price page](/blog/best-japanese-one-piece-booster-box-price/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer whose only target is a named Amano card, because the honest answer for that buyer is the single after release, when the asks become transactions. It is not for the buyer who wants pull rates, because Bandai has published none for OP-18 and any guide quoting them is inventing them. It is not for the buyer who needs English cards for tournament play, because Japanese cards do not play in English-region official events. It is not for the buyer who wants a sealed box to pay for itself, because no opened-box simulation exists yet and the expected value cannot be run."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the language first: Japanese for opening, English for play outside Asia. Divide per card, not per box.",
+          "Divide before you pay: box / 24 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed OP-18 is the Japanese case at $64.18 a box, saving $86.70; the single box is $71.40.",
+          "If the job is English boxes in bulk, buy the English case at $94.68 a box, saving $300.97 against pack retail.",
+          "If you want one card, buy the single after release. The Loki Amano parallel ask is $599.99. It is not guaranteed in any box.",
+          "Remember there are no published pull rates: no box promises an Amano card, a Manga Rare, or a Super Parallel.",
+          "If buying to open, confirm the price is still the pre-order price: it rose twenty percent and fell fifteen percent in three weeks, and it can move again before release."
+        ],
+        "h": "Action layer: the OP-18 buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Language first: Japanese for opening, English for the English collection, and the Japanese case for bulk. Price second: check the shelf figure against the dated asks in this guide, and if the box is still $71.40 and the case still $770.10, the pre-order discount is real. Seal fourth: check the wrap, the tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      }
+    ],
+    "slug": "is-op-18-worth-buying",
+    "takeaway": [
+      "The OP-18 Japanese box at $71.40 is $2.98 a pack and $0.50 a card, $35.38 above the derived 5,760 yen box price at 159.9 yen per dollar, while the Japanese case at $770.10 divides to $64.18 a box, saving $86.70, and the English case at $1,136.15 divides to $94.68 a box, saving $300.97 against pack retail. Buy the Japanese box, the Japanese case, or the English case, and buy the single for any named card.",
+      "It is worth buying as a pre-order, sealed, and it is not worth buying as a way to own an Amano card or to make the money back by opening. The Loki Amano parallel ask sat at $599.99 on TCGplayer on November 12, 2026, which is 8.40 boxes, and the Saint Shamrock Amano parallel ask at $499.99 is 7.00 boxes. Those are asks, not sales, and Bandai has published no pull rates.",
+      "It is worth buying with the price path in mind: the Japanese box rose twenty percent from $70.00 to $84.00 between October 24 and November 4, 2026, then fell fifteen percent to $71.40 on November 13, and the case did the same, from $755.00 to $906.00 to $770.10. The case saving survived both legs.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of November 12 to 13, 2026. The box now sits as the second-cheapest Japanese One Piece box on the shelf, after OP-15 at $59.06, which is the fact that outlives every price on this page: divide before you buy, every time.",
+      "For the price-and-math companion, the [OP-18 The Dominance of God preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the October prices side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case charges a premium instead of saving."
+    ]
+  },
   "is-sv11b-worth-buying": {
     "datePublished": "2026-11-11",
     "faqs": [
@@ -22894,6 +23081,196 @@ export const POSTS: Record<string, BlogPost> = {
       "It is not worth buying as a way to own the Reshiram ex BWR. The card asks about ¥50,000, or $316.46, on its own, and The Pokémon Company publishes no Japanese pull rates, so the chase has no honest expected cost. Buy the single, or buy the box for the set and treat the BWR as a bonus.",
       "For the twin, the [Black Bolt buyer’s guide](/blog/sv11b-black-bolt-buyers-guide/) prices the Zekrom half at $183.18 a box, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case. For the same worth-it question in the other game we stock, the [best Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen Lorcana sets to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter. New this cycle: the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) is the English-versus-Japanese comparison this article summarizes.",
       "New this cycle: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box."
+    ]
+  },
+  "is-sv1a-worth-buying": {
+    "datePublished": "2026-11-13",
+    "faqs": [
+      {
+        "a": "Yes, sealed, for the collection, after a fifteen percent fall, and no longer for Standard play. The box is $129.45, $4.32 a pack and $0.86 a card, and the case is $1,363.68, which divides to $113.64 a box and saves $189.72 against twelve singles. The chase is the Magikarp Art Rare at $128.39, which costs 0.99 of a box. The cards carry the G regulation mark, which left Standard on April 10, 2026, so buy this box for the set and the art, not the tournament table.",
+        "q": "Is SV1a Triplet Beat worth buying in 2026?"
+      },
+      {
+        "a": "Yes. The case costs $1,363.68 for 12 boxes, which divides to $113.64 a box, $15.81 less per box than the single box at $129.45, a saving of $189.72 on the case. The saving survived the November 13 repricing intact, because both the box and the case fell fifteen percent. Divide the case before you pay, every time.",
+        "q": "Is the SV1a sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Magikarp Art Rare is $128.39 on TCGplayer on November 12, 2026, which is 0.99 of a box, and no published odds say how many boxes it takes to pull one. The dearest Special Art Rare in the set, the Meowscarada ex at $55.63, is 0.43 of a box. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV1a box to pull the Magikarp Art Rare?"
+      }
+    ],
+    "h1": "Is SV1a Triplet Beat Worth Buying?",
+    "intro": [
+      "Short answer: yes, sealed, after a fifteen percent fall, and no longer for Standard play. The [SV1a Triplet Beat booster box](/product/sv1a-triplet-beat-booster-box-japanese-pokemon-card/) is $129.45 on this shelf, $4.32 a pack and $0.86 a card, and the [SV1a Triplet Beat sealed case](/product/sv1a-triplet-beat-sealed-case-12-boxes-japanese-pokemon-card/) is $1,363.68, which divides to $113.64 a box and saves $189.72 against twelve singles. The chase is one card, the Magikarp Art Rare at $128.39, which costs 0.99 of a box and holds 27.01 percent of the complete set's value. The cards carry the G regulation mark, which left Standard on April 10, 2026, so buy this box for the collection, not the tournament table.",
+      "This guide answers for three buyers: the collector opening the first Scarlet and Violet subset, the sealed holder buying the case at $113.64 a box, and the Magikarp chaser who needs to hear that the single costs less than the box. The market figures in it are dated, because they move, and the shelf figures are from this store on November 13, 2026. Every price in it comes from the shelf or a dated market check; none of it is invented."
+    ],
+    "metaDescription": "SV1a Triplet Beat: box $129.45 after a 15% fall, case saves $189.72, Magikarp AR $128.39, but G-mark cards left Standard in April 2026. The verdict.",
+    "metaTitle": "Is SV1a Triplet Beat Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box and the case, no for Standard play and no for chasing the Magikarp in packs",
+        "paragraphs": [
+          "Buy the box if the job is opening the first Scarlet and Violet subset. At $129.45 it is $51.59 below the [SV10 Glory of Team Rocket box](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/) at $181.04, $26.25 below the SV11B Black Bolt box at $155.70, and $13.11 below the SV11W White Flare box at $142.56, Thirty packs of five cards give 150 cards for $4.32 a pack, and the set is built on one card: the Magikarp Art Rare at $128.39 costs 0.99 of a box, and the top three cards together cost 1.84 boxes. For a collector opening one box of a 2023 set, the box is the rational entry.",
+          "Buy the case, not twelve singles, if the job is sealed holding or a group split. The case costs $1,363.68 for 12 boxes, which is $113.64 a box against $129.45 singly, a saving of $15.81 a box and $189.72 across the case, and it is the second-largest case saving on the current-era shelf by dollars, after the SV2a case. The wider case-versus-box math is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "Buy the single if the job is one named card. The Magikarp Art Rare at $128.39 costs 0.99 boxes, the Meowscarada ex Special Art Rare at $55.63 costs 0.43, and the Skeledirge ex Special Art Rare at $53.59 costs 0.41, and the complete set at $475.34 costs 3.67 boxes, which is $42.46 cheaper than four boxes at $517.80. No published odds say how many boxes a Magikarp takes. The full set is priced card by card in the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one saving, one fall",
+        "math": [
+          "SV1a box per pack: $129.45 ÷ 30 packs = $4.32 per pack",
+          "SV1a box per card: $129.45 ÷ 150 cards = $0.86 per card",
+          "SV1a case per box: $1,363.68 ÷ 12 boxes = $113.64 per box",
+          "SV1a twelve single boxes: 12 × $129.45 = $1,553.40",
+          "SV1a case saving per case: $1,553.40 - $1,363.68 = $189.72",
+          "SV1a case saving per box: $129.45 - $113.64 = $15.81",
+          "SV1a case per pack: $1,363.68 ÷ 360 packs = $3.79 per pack",
+          "SV1a case per card: $1,363.68 ÷ 1,800 cards = $0.76 per card",
+          "SV1a box fall since November 6, 2026: $152.29 - $129.45 = $22.84; $22.84 ÷ $152.29 = 15.00%",
+          "SV1a case fall since November 8, 2026: $1,604.33 - $1,363.68 = $240.65; $240.65 ÷ $1,604.33 = 15.00%",
+          "SV1a official box: 30 packs × ¥180 = ¥5,400; ¥5,400 ÷ 159.9 = $33.77",
+          "SV1a box vs official: $129.45 - $33.77 = $95.68 above official",
+          "SV1a box vs official ratio: $129.45 ÷ $33.77 = 3.83× official",
+          "SV1a case box vs official ratio: $113.64 ÷ $33.77 = 3.37× official",
+          "Magikarp Art Rare vs box: $128.39 ÷ $129.45 = 0.99× the price of a box",
+          "SV1a top three cards: $128.39 + $55.63 + $53.59 = $237.61",
+          "SV1a top three vs box: $237.61 ÷ $129.45 = 1.84× the price of a box",
+          "SV1a complete set vs box: $475.34 ÷ $129.45 = 3.67 boxes",
+          "SV1a four boxes: 4 × $129.45 = $517.80",
+          "SV1a singles vs four boxes: $517.80 - $475.34 = $42.46 cheaper as singles",
+          "Magikarp vs complete set: $128.39 ÷ $475.34 = 27.01%",
+          "Meowscarada ex SAR vs box: $55.63 ÷ $129.45 = 0.43× the price of a box",
+          "Skeledirge ex SAR vs box: $53.59 ÷ $129.45 = 0.41× the price of a box",
+          "Dendra SAR vs box: $40.81 ÷ $129.45 = 0.32× the price of a box",
+          "Quaquaval ex SAR vs box: $25.89 ÷ $129.45 = 0.20× the price of a box",
+          "SV1a box vs SV10 box: $181.04 - $129.45 = $51.59 per box",
+          "SV1a box vs SV9 box: $129.45 - $72.22 = $57.23 per box",
+          "SV1a box vs SV11B box: $155.70 - $129.45 = $26.25 per box",
+          "SV1a box vs SV11W box: $142.56 - $129.45 = $13.11 per box",
+          "SNKRDUNK lowest ask: ¥16,000 ÷ 159.9 = $100.06",
+          "SV1a box vs SNKRDUNK lowest ask: $129.45 - $100.06 = $29.39",
+          "SNKRDUNK ask per pack: $100.06 ÷ 30 packs = $3.34 per pack",
+          "SNKRDUNK ask per card: $100.06 ÷ 150 cards = $0.67 per card",
+          "SV1a box vs Samurai Sword sealed listing: $129.45 - $111.00 = $18.45 above the October 7, 2026 listing",
+          "Magikarp PSA 10 lowest ask: ¥35,000 ÷ 159.9 = $218.89",
+          "Magikarp PSA 10 ask vs raw: $218.89 ÷ $128.39 = 1.70× the raw price"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 13, 2026, with 30 packs per box, 5 cards per pack, 150 cards per box, and a 12-box case. The currency rate used is 159.9 yen to the dollar, checked on November 13, 2026, so an official Japanese box at 30 packs times 180 yen is 5,400 yen, or $33.77. The case holds 1,800 cards, and its per-card figure of $0.76 beats the single box at $0.86 across every card in it.",
+          "The fall is the story of this set, and it fell in one leg, on one day. On November 6, 2026 this shelf held the SV1a box at $152.29, and on November 8 the case at $1,604.33. On November 13 the box is $129.45, down fifteen percent, and the case is $1,363.68, down fifteen percent, the same uniform repricing that fell on the whole One Piece line the same day. A buyer who buys on last week's box price overpays by $22.84 a box and $240.65 a case, and a buyer who buys on the pre-fall case prices overpays by more than the price of a second box.",
+          "The chase math is the second story, and it is a one-card set. TCGPursuit's November 13, 2026 TCGplayer snapshot puts the Magikarp Art Rare 080/073 at $128.39, the Meowscarada ex Special Art Rare 096/073 at $55.63, the Skeledirge ex Special Art Rare 097/073 at $53.59, the Dendra Special Art Rare 099/073 at $40.81, and the Quaquaval ex Special Art Rare 098/073 at $25.89, with the complete set at $475.34 across all 103 cards. The top three cards together cost 1.84 boxes, the Magikarp alone holds 27.01 percent of the set's value, and the dearest Special Art Rare costs less than half the Magikarp.",
+          "Two market checks put the Warehouse shelf in context. Samurai Sword's October 7, 2026 price index lists the sealed SV1a box at 17,034 yen, about $111, and the lowest ask on SNKRDUNK on September 30, 2026 was 16,000 yen, about $100.06 at 159.9 yen per dollar. The Warehouse box at $129.45 sits $18.45 above the Samurai Sword listing and $29.39 above the SNKRDUNK ask, which is the gap an overseas shelf charges for a sealed box shipped from Japan against a Japan-market ask. The Magikarp PSA 10 lowest ask on SNKRDUNK on October 7, 2026 was 35,000 yen, about $218.89, which is 1.70 times the raw card at $128.39."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The market box at about $100.06 is a Japan-market ask from September 30, 2026, not a landed price: it carries no shipping, no import cost, and no guarantee the listing is still there, so it is a price check, not a purchase. And the Magikarp Art Rare at $128.39 costs 0.99 boxes, which is why no box is a route to it.",
+          "The case row is the row that decides this set. At $113.64 a box inside the case, the sealed case is the cheapest sealed SV1a on this shelf by $15.81 a box, and the per-card figure of $0.76 is the same arithmetic across 1,800 cards. A buyer who wants twelve boxes and buys them one at a time pays $189.72 for the privilege. The same verdict runs on the set's English twin in the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/)."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Market box (Japan asks)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$129.45",
+              "$113.64 a box inside the case",
+              "About $100.06 (SNKRDUNK lowest ask, Sep 30)",
+              "Magikarp AR $128.39"
+            ],
+            [
+              "Price per pack",
+              "$4.32",
+              "$3.79",
+              "$3.34",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.86",
+              "$0.76",
+              "$0.67",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "A Japan ask, not a landed price",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the first SV subset",
+              "Sealed hold or group split",
+              "Price-checking the shelf",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the rotation, the fall, and the one-card chase",
+        "note": "From the Warehouse: the question we get most about Triplet Beat is whether the box is still worth opening now that the cards cannot play in Standard. The answer is that the box was never a tournament purchase: the Magikarp Art Rare is what the box is for, and the Magikarp does not care about the rotation. Buy the box for the set and the art, and buy the single for the Magikarp.",
+        "paragraphs": [
+          "The top results for SV1a cover the price board, the ladder, and the Magikarp, and they cover them well. Our own price board, the top result, held the SV1a box at $152.29 on November 6, 2026, and the case at $133.69 a box. Samurai Sword's price ladder lists the sealed box at 17,034 yen on October 7, 2026, and the lowest ask on SNKRDUNK at 16,000 yen on September 30, 2026. Samurai Sword's Magikarp guide gives the Art Rare at 080/073, the March 10, 2023 release date, the 73-card main set, and the PSA 10 lowest ask at 35,000 yen. What none of them does is frame the buy around the rotation.",
+          "The second gap is the rotation itself, which is the whole verdict for a player. The cards in Triplet Beat carry the G regulation mark, and The Pokemon Company announced that G-mark cards are no longer legal in the 2026 Standard format: Japan switched on January 23, 2026, Pokemon TCG Live on March 26, 2026, and in-person Play! Pokemon events on April 10, 2026. The cards stay legal in Expanded. A player who buys this box for a Standard deck is buying cards for a format they cannot play in.",
+          "The third gap is the concentration, and it is the gap that decides the chase. The Magikarp Art Rare at $128.39 costs more than twice the dearest Special Art Rare, the Meowscarada ex at $55.63, and it holds 27.01 percent of the complete set's $475.34 value, while no starter ex Special Art Rare makes the top ten most valuable cards in the set at all. The set's value is one Art Rare, not the SAR block, and a box that misses the Magikarp and the five SARs holds mostly sub-$12 Art Rares. The rarity system itself is explained in [Japanese Pokemon Rarity Symbols Explained](/blog/japanese-pokemon-rarity-symbols-explained/)."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card set, the rotation, and the English overlap",
+        "paragraphs": [
+          "The first risk is the concentration. The Magikarp at $128.39 is 27.01 percent of the complete set value of $475.34, so one card carries more than a quarter of the set. A box that misses the Magikarp and the five Special Art Rares holds a Dedenne ex at $13.40, a Fuecoco Art Rare at $11.92, and a Sprigatito Art Rare at $11.16, and the rest of the box is mostly cards under three dollars. the honest plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "The second risk is the rotation, and it is already decided. G-mark cards left Standard on April 10, 2026 for in-person play, and the announcement is explicit that legality goes by the regulation mark on the card, not by which expansion it came from. A buyer who owns the cards for play needs the Expanded format, and a buyer who owns them for the collection needs nothing. Check the mark on the card itself before assuming any reprint is legal: a reprint with an H, I, or J mark plays, and the same art with a G mark does not.",
+          "The third risk is the English overlap, which is the risk most buyers miss, because the same art costs far more in English. The English Magikarp illustration rare from Paldea Evolved carried a 440.06 euro Cardmarket price on November 4, 2026, against the Japanese Art Rare at $128.39, which is why the Japanese box is the cheap route to the art and the English single is the expensive one.",
+          "The fourth risk is the grading gap. The Magikarp PSA 10 lowest ask on SNKRDUNK on October 7, 2026 was 35,000 yen, about $218.89, which is 1.70 times the raw card, and a raw card sent for grading does not come back a 10 by wanting it to. Check the seal, the wrap tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. The grading question is answered in [PSA Grading Japanese Cards: Worth It](/blog/psa-grading-japanese-cards-worth-it/)."
+        ]
+      },
+      {
+        "h": "Context: 103 cards, three starters, and the English twin",
+        "paragraphs": [
+          "The set is the first subset, and that position explains its shape. Triplet Beat came out in Japan on March 10, 2023, as the first subset of the Scarlet and Violet era, built around the three Paldea starters: Sprigatito, Fuecoco, and Quaxly. It prints 103 cards: a 73-card base set and a 30-card secret block, at 180 yen a pack for five cards, with 30 packs in a box. The official Japanese price of a box is 5,400 yen, or $33.77 at 159.9 yen per dollar,",
+          "The secret block is the set in miniature. Ten Art Rares, headed by the Magikarp at 080/073, the Sprigatito at 075/073, and the Fuecoco at 078/073. The Special Art Rares are the three starter evolutions, Meowscarada ex at 096/073, Skeledirge ex at 097/073, and Quaquaval ex at 098/073, plus the Dendra supporter at 099/073, and the gold Ultra Rares close the set with the Boss's Orders at 100/073 and the Meowscarada ex at 101/073. The Dedenne ex at 089/073 sits in the middle of the block at $13.40, which is the honest price of a good card in a one-card set.",
+          "The English twin is Paldea Evolved, released June 9, 2023, about three months after the Japanese release. It combines Triplet Beat, Clay Burst, and Snow Hazard into one 279-card English set, so a buyer who wants the English Magikarp is buying into a much larger set at a much higher single price. The set's neighbours on this shelf are priced the same way in the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/), and the whole shelf as one dated board is in the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the Standard player, because the G regulation mark left Standard on April 10, 2026, and no box of Triplet Beat puts a card on a Standard table. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Magikarp Art Rare single at $128.39, which costs 0.99 times a box. It is not for the buyer who needs the English cards, because the Japanese cards are a different product at a different price. It is not for the buyer who wants a sealed box to pay for itself, because the expected value says it will not."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: G-mark cards are out of Standard since April 10, 2026, and legal in Expanded only.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV1a is the case at $113.64 a box, saving $189.72; the single box is $129.45.",
+          "If the job is one card, buy the single. The Magikarp Art Rare is $128.39. It is not guaranteed in any box.",
+          "If the job is the complete set, buy the singles: $475.34 is $42.46 cheaper than four boxes.",
+          "Remember the chase is one card: the Magikarp holds 27.01 percent of the set's value, and no starter ex SAR makes the top ten.",
+          "If buying to open, confirm the price is still below the pre-fall figure: it fell $22.84 in seven days, and it can move again."
+        ],
+        "h": "Action layer: the SV1a buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Mark first: G is out of Standard, so the box is a collection purchase, not a tournament purchase. Price second: check the shelf figure against the dated market figures in this guide, and if the box is still below the November 6 figure of $152.29, the fall is still on the shelf. Seal fourth: check the wrap, the tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      }
+    ],
+    "slug": "is-sv1a-worth-buying",
+    "takeaway": [
+      "The SV1a box at $129.45 is $4.32 a pack and $0.86 a card, $95.68 above the derived 5,400 yen box price at 159.9 yen per dollar, while the case at $1,363.68 divides to $113.64 a box, saving $189.72. Buy the box or the case, never twelve singles, and buy the single for any named card.",
+      "It is worth buying as the first Scarlet and Violet subset to open, sealed, and it is not worth buying as a way to own the Magikarp Art Rare or to make the money back by opening. The Magikarp sat at $128.39 on TCGplayer on November 12, 2026, which is 0.99 of a box, and the Meowscarada ex Special Art Rare at $55.63 is 0.43 of a box. Buy the single, or buy the box for the set.",
+      "It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase, and it is worth buying with the fall in mind: the box dropped $22.84 in seven days, from $152.29 to $129.45, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,604.33 to $1,363.68.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of September 30 to November 13, 2026. The box now sits $29.39 above the SNKRDUNK lowest ask of $100.06, which is the fact that outlives every price on this page: divide before you buy, every time.",
+      "For the price-and-math companion, the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) runs the same verdict on the set that followed it, where the chase is a whole set of 151 instead of one fish."
     ]
   },
   "is-sv2a-worth-buying": {
@@ -32772,7 +33149,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "OP-18's pre-order case is unusually clean: a verified November 21, 2026 Japanese release (November 20 in English), a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first. For the full English back catalogue, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
       "For the whole Japanese shelf around this pre-order, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack, with OP-18 second-cheapest at $3.50 per pack. For the price of every other Japanese box on the shelf beside OP-18, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/).",
-      "New this cycle: the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) puts this pre-order on the full ladder, OP-15 at $2.90 a pack against OP-18 at $3.50, with every case divided."
+      "New this cycle: the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) puts this pre-order on the full ladder, OP-15 at $2.90 a pack against OP-18 at $3.50, with every case divided.",
+      "New this cycle: the [is OP-18 worth buying guide](/blog/is-op-18-worth-buying/) runs the verdict on the pre-order at the November 13 prices, JP box $71.40 and JP case $64.18 a box, with the six Amano cards priced as asks, not sales."
     ]
   },
   "prb-01-vs-prb-02-which-to-buy": {
@@ -34256,7 +34634,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, with a case that saves $196.81, and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box.",
       "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices the launch set at $111.46 a box, with a case that saves $234.29, and the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the twin at $88.27 a box, with a case that saves $106.91.",
       "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the second Paldea Evolved component at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90.",
-      "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box."
+      "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box.",
+      "New this cycle: the [is SV1a Triplet Beat worth buying guide](/blog/is-sv1a-worth-buying/) runs the verdict at the November 13 prices, box $129.45 and case $113.64 a box, with the rotation called out: G-mark cards left Standard on April 10, 2026."
     ]
   },
   "sv1s-scarlet-ex-buyers-guide": {
