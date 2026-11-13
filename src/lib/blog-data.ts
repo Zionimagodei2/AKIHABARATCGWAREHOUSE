@@ -18978,6 +18978,379 @@ export const POSTS: Record<string, BlogPost> = {
       "The twin launch set gets the same treatment in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/)."
     ]
   },
+  "is-m2a-worth-buying": {
+    "datePublished": "2026-11-13",
+    "faqs": [
+      {
+        "a": "Yes, sealed, in either format, after the 15 percent fall. The box is $97.55, $9.76 a pack and $0.98 a card, and the case is $1,579.78, which divides to $78.99 a box and saves $371.22 against twenty singles. It is not worth buying to pull the Mega Gengar ex SAR, lowest ask ¥32,500 on SNKRDUNK on September 30, 2026, about $203: buy the single for any named card.",
+        "q": "Is M2a MEGA Dream ex worth buying in 2026?"
+      },
+      {
+        "a": "Ten packs, ten cards each, one hundred cards in the box. The pack price is ¥550 including tax in Japan, so the official box is ¥5,500, about $34.42 at 159.8 yen to the dollar on November 13, 2026. Every pack guarantees one Pokémon ex or higher, which is the high-class pack promise.",
+        "q": "How many packs are in an M2a booster box?"
+      },
+      {
+        "a": "Buy the case if the job is twenty boxes, because $1,579.78 divides to $78.99 a box, $18.56 below the $97.55 single box, a saving of $371.22 on the case. Buy the single box if the job is one box to open. The case is the only case in this run of guides where the saving runs in the buyer's favour by this much, so divide it before you pay, the same as every other case.",
+        "q": "Should I buy the M2a case or single boxes?"
+      }
+    ],
+    "h1": "Is M2a MEGA Dream ex Worth Buying?",
+    "intro": [
+      "Short answer: yes, sealed, after a 15 percent fall. The [M2a MEGA Dream ex booster box](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) is $97.55 on this shelf, $9.76 a pack and $0.98 a card, and the [M2a sealed case](/product/m2a-mega-dream-ex-sealed-case-20-boxes-japanese-pokemon-card/) is $1,579.78, which divides to $78.99 a box and saves $371.22 against twenty singles. The chase is the Mega Gengar ex SAR, lowest ask ¥32,500 on SNKRDUNK on September 30, 2026, about $203 at the November 13, 2026 rate of 159.8 yen to the dollar: buy the single for the Gengar, and buy the box for the set.",
+      "This guide answers for three buyers: the collector who opens the biggest MEGA-era checklist in Japanese, the sealed holder or splitter who buys twenty boxes at once, and the buyer choosing between the high-class pack and the standard M2 expansion. It is not for the buyer chasing only the Mega Gengar ex SAR, and it is not for the buyer who wants the cheapest pack on the shelf, because M2a costs $9.76 a pack. The market figures in it are dated, because they move, and the shelf figures are from this store on November 13, 2026. Every price in it comes from the shelf or a dated market check; none of it is invented."
+    ],
+    "metaDescription": "M2a MEGA Dream ex: box $97.55 after a 15% fall, case $78.99 a box, and the Mega Gengar ex SAR at $203.38. The verdict.",
+    "metaTitle": "Is M2a MEGA Dream ex Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the set, after the fall",
+        "paragraphs": [
+          "Buy the box if the job is opening MEGA Dream ex. At $97.55 it is $58.15 below the [M2 Inferno X box](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at $155.70, $41.27 below the [SV8a Terastal Festival ex box](/product/sv8a-terastal-festival-ex-booster-box-japanese-pokemon-card/) at $138.82, and $16.88 above the [M1L Mega Brave box](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) at $80.67, and it is the cheapest way into the biggest MEGA-era checklist: 250 cards, 193 in the main run plus 57 secret rares, with the first Mega Attack Rare cards ever printed.",
+          "Buy the case if the job is twenty boxes, because the case costs $1,579.78 against twenty single boxes at $1,951.00, which is a saving of $371.22 a case, or $18.56 a box. That saving is the largest case saving on the Japanese Pokémon shelf in this run of guides, and it is the reason the case, not the single box, is the sealed format to buy here. The wider case-versus-box math is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "Buy the single if the job is one named card. The Mega Gengar ex SAR at about $203 costs 2.08 boxes, and the Mega Dragonite ex SAR sits above it in some lists and below it in others, but no box guarantees either one. The Pokémon Company publishes no pull rates for M2a, so every frequency figure in circulation is a community estimate. The full set is priced card by card in the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $371.22 gap",
+        "math": [
+          "M2a box per pack: $97.55 ÷ 10 packs = $9.76 per pack",
+          "M2a box per card: $97.55 ÷ 100 cards = $0.98 per card",
+          "M2a case per box: $1,579.78 ÷ 20 boxes = $78.99 per box",
+          "M2a twenty single boxes: 20 × $97.55 = $1,951.00",
+          "M2a case saving per case: $1,951.00 - $1,579.78 = $371.22",
+          "M2a case saving per box: $97.55 - $78.99 = $18.56",
+          "M2a case per pack: $1,579.78 ÷ 200 packs = $7.90 per pack",
+          "M2a case per card: $1,579.78 ÷ 2,000 cards = $0.79 per card",
+          "M2a box fall since November 7, 2026: $114.77 - $97.55 = $17.22; $17.22 ÷ $114.77 = 15.00%",
+          "M2a case fall since November 7, 2026: $1,858.56 - $1,579.78 = $278.78; $278.78 ÷ $1,858.56 = 15.00%",
+          "M2a official box: 10 packs × ¥550 = ¥5,500; ¥5,500 ÷ 159.8 = $34.42",
+          "M2a box vs official: $97.55 - $34.42 = $63.13 above official",
+          "M2a box vs official ratio: $97.55 ÷ $34.42 = 2.83× official",
+          "Mega Gengar ex SAR: ¥32,500 ÷ 159.8 = $203.38",
+          "Mega Gengar ex SAR vs box: $203.38 ÷ $97.55 = 2.08 boxes",
+          "Mega Gengar ex SAR vs case box: $203.38 ÷ $78.99 = 2.57 boxes",
+          "Mega Gengar ex MA: ¥1,980 ÷ 159.8 = $12.39",
+          "Mega Gengar ex SAR vs MA: ¥32,500 ÷ ¥1,980 = 16.41×",
+          "Mega Gengar ex SAR PSA 10: ¥55,800 ÷ 159.8 = $349.19",
+          "Pikachu ex SAR: ¥18,000 ÷ 159.8 = $112.64",
+          "Mega Gengar ex SAR fall: ¥56,000 - ¥32,500 = ¥23,500; ¥23,500 ÷ ¥56,000 = 41.96%",
+          "M2a box vs M2 box: $155.70 - $97.55 = $58.15 per box",
+          "M2 box per pack: $155.70 ÷ 30 packs = $5.19 per pack",
+          "M2 box per card: $155.70 ÷ 150 cards = $1.04 per card",
+          "M2a box vs M1L box: $97.55 - $80.67 = $16.88 per box",
+          "M1L box per pack: $80.67 ÷ 30 packs = $2.69 per pack",
+          "M1L box per card: $80.67 ÷ 150 cards = $0.54 per card",
+          "M2a box vs SV8a box: $138.82 - $97.55 = $41.27 per box",
+          "SV8a box per pack: $138.82 ÷ 10 packs = $13.88 per pack",
+          "SV8a box per card: $138.82 ÷ 100 cards = $1.39 per card",
+          "M2a box vs Dexhaul low ask: $99.99 - $97.55 = $2.44 below market"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 13, 2026, with 10 packs per box, 10 cards per pack, and a 20-box case. The currency rate used is 159.8 yen to the dollar, checked on November 13, 2026, so an official Japanese box at 10 packs times 550 yen is 5,500 yen, or $34.42.",
+          "The fall is the story of this set, and it is a uniform fall, not a verdict on M2a. On November 7, 2026 this shelf held the box at $114.77 and the case at $1,858.56. On November 13 both fell exactly fifteen percent, to $97.55 and $1,579.78, the same fifteen percent that fell on every Japanese box on this shelf the same day. A buyer who buys on last week's box price overpays by $17.22 a box.",
+          "The case is the format that wins here, and it wins by the biggest margin on the shelf. Twenty boxes at $1,579.78 divide to $78.99 a box, $18.56 below the single, and the case per-card figure of $0.79 beats the single-box $0.98 by $0.19 a card across 2,000 cards. Compare that with the M3 case in the next guide, which costs more per box than its single, and the point is made: the case rule is a division, not a promise, and on M2a the division says buy the case.",
+          "Two market checks put the Warehouse shelf in context. Dexhaul's November 6, 2026 survey of independent shops listed the Japanese first-print box at $99.99 to $129.99, which is $10.00 to $13.00 a pack. The Warehouse box at $97.55 sits $2.44 below the bottom of that range, before the case saving is even counted. On the singles side, the Mega Gengar ex SAR carried a lowest ask of ¥32,500 on SNKRDUNK on September 30, 2026, about $203, down from the ¥56,000 low end of Buyee's August 2026 range, a fall of 41.96 percent in a month. The chase card fell faster than the box did, which is the shape of a settling market, not a rising one."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The Dexhaul market box at $99.99 to $129.99 costs more than the Warehouse box at $97.55, which is the number that should make a market buyer stop and check this shelf first. And the Mega Gengar ex SAR at $203.38 costs 2.08 boxes, which is why no box is a route to it.",
+          "The case row is the row that decides this set. At $78.99 a box inside the case, the sealed case is the cheapest sealed M2a on any shelf we checked, and the per-card figure of $0.79 is the cheapest verified M2a card on the shelf. A buyer who wants twenty boxes and buys singles instead pays $371.22 for the privilege, which is more than the price of three extra boxes."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Market box (Dexhaul, Nov 6)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$97.55",
+              "$78.99 a box inside the case",
+              "$99.99 to $129.99",
+              "Gengar SAR $203.38; Gengar MA $12.39"
+            ],
+            [
+              "Price per pack",
+              "$9.76",
+              "$7.90",
+              "$10.00 to $13.00",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.98",
+              "$0.79",
+              "$1.00 to $1.30",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twenty boxes of spread",
+              "A different seller's price",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening MEGA Dream ex",
+              "Holding, splitting, group buys",
+              "Price comparison only",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing, and the two Gengars",
+        "note": "From the Warehouse: the question we get most about M2a is whether the Mega Gengar ex in the MA frame is the same card as the one in the SAR frame. It is the same Pokémon and the same set, and the two prints sit sixteen times apart in price, about $12 against about $203, because the SAR is the Special Art Rare and the MA is the Mega Attack Rare. Buyers who shop by Pokémon name alone buy the wrong Gengar.",
+        "paragraphs": [
+          "The top results for M2a cover chase cards, set overviews, and buy-or-skip verdicts, and they cover them well. Dexhaul gives the November 6, 2026 verdict, the $99.99 to $129.99 observed box range, and the warning that the set is not for competitive English-legal play. Buyee gives the full card list, the ¥5,500 box price, and the August 2026 chase prices. Samurai Sword Tokyo gives the SNKRDUNK asks, the Gengar at ¥32,500 on September 30, 2026, and the Pikachu ex SAR at ¥18,000. What none of them does is run the four-product math on one shelf after the repricing. A chase-card guide can tell you the Gengar SAR price; it cannot tell you that this store lists the box at $97.55 after a fifteen percent fall, that its case saves $371.22, or that its box sits $2.44 below the bottom of Dexhaul's market range.",
+          "The second gap is the fall itself, in one leg, on one day. The November 7 guide on this site priced the box at $114.77 and the case at $1,858.56, and the shelf now holds a $97.55 box and a $1,579.78 case. Both fell exactly fifteen percent on November 13, the same fifteen percent that fell on the M3 box, the M2 box, and the One Piece boxes the same day. No top guide tracks the fall, because no top guide prices from a live shelf. A buyer who buys on last week's box price overpays by $17.22 a box and $278.78 a case.",
+          "The third gap is the per-card order. M2a costs $9.76 a pack, more per pack than the M2 Inferno X box at $5.19, and a buyer who stops there walks away. But the M2a pack holds ten cards against M2's five, so M2a costs $0.98 a card against M2's $1.04: the dearer pack is the cheaper card. The same inversion runs against SV8a Terastal Festival ex, the other high-class pack on the shelf, at $13.88 a pack and $1.39 a card."
+        ]
+      },
+      {
+        "h": "The risk layer: the Gengar chase, the MA trap, and the lottery",
+        "paragraphs": [
+          "The first risk is the chase itself. The Mega Gengar ex SAR at about $203 is 2.08 boxes, the Pikachu ex SAR at about $113 is 1.15 boxes, and the Mega Dragonite ex SAR sits in the same pool, in a set of 250 cards where 57 are secret rares and no box guarantees any one of them. The Pokémon Company publishes no pull rates for M2a, so every frequency figure in circulation is a community estimate. Buy the single.",
+          "The second risk is the MA trap, and it is the trap this set was built to spring. Mega Gengar ex appears twice in M2a: the SAR at 240/193 and the MA at 230/193. The MA is the cheaper print by design, a lowest ask of ¥1,980 on SNKRDUNK on October 2, 2026, about $12, against the SAR at ¥32,500. A buyer who searches by Pokémon name and buys the first Gengar ex that appears can pay $12 for a card worth $12 and believe it is the chase, or can pay $203 for a card and receive the $12 print. Check the number, 240/193 for the SAR and 230/193 for the MA, before paying, and read our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) before grading either one.",
+          "The third risk is the reprint. M2a is a high-class pack with a large print run, and high-class packs get reprinted: a Japanese reprint lowers the Japanese box price, and the Gengar SAR fell 41.96 percent in a month without any reprint announcement at all, from the ¥56,000 low end of Buyee's August 2026 range to ¥32,500 on September 30, 2026. A sealed box held for value is a speculation with storage costs and no maturity date, and the honest plan for it is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "The fourth risk is the single-pack temptation: a box at $9.76 a pack looks dear until the case math is divided, because the case pack is $7.90 and the case card is $0.79. Check the seal, the wrap tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. The fifth risk is the language trap: Japanese cards do not play in English-region official events."
+        ]
+      },
+      {
+        "h": "Context: 250 cards, a new rarity, and the English set",
+        "paragraphs": [
+          "MEGA Dream ex, M2a, released in Japan on November 28, 2025, as the year's final high-class pack. The set carries 250 cards: 193 in the main run plus 57 secret rares, made up of 20 Art Rares, 9 Super Rares, 10 Mega Attack Rares, 17 Special Art Rares, and one Mega Ultra Rare. The pack price is ¥550 including tax, ten cards a pack, and every pack guarantees one Pokémon ex or higher.",
+          "The set introduced two rarities at once. The MA, Mega Attack Rare, is the new tier, with bold typography and pop-art styling, and the MUR, Mega Ultra Rare, is the single gold card at the top of the set, numbered 250/193. The chase sits in the SAR tier: the Mega Gengar ex SAR, 240/193, illustrated by danciao, at a ¥32,500 lowest ask on September 30, 2026, and the Pikachu ex SAR at ¥18,000 the same day. The set also carries the first physical cards for Pokémon introduced in Pokémon Legends: Z-A, which have no English print anywhere yet.",
+          "Japan got MEGA Dream ex on November 28, 2025; English followed as Ascended Heroes on January 30, 2026, a gap of 63 days, as a special set rather than a straight translation. That gap is the normal pattern for high-class packs, and it matters for buyers: the English set is a different product with a different card list, so a buyer who wants the M2a cards buys the Japanese box, and a buyer who wants English-legal cards buys Ascended Heroes. The M2 expansion that M2a sits beside is priced the same way in the [is M2 worth buying guide](/blog/is-m2-worth-buying/), and the whole Japanese ladder is in the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer whose only target is the Mega Gengar ex SAR, because the honest answer for that buyer is the single at about $203. It is not for the buyer who wants one pack, because a single pack at $9.76 makes the box the wrong unit, and the case pack at $7.90 makes the case the right one only in twenty. It is not for the buyer who needs the cheapest pack on the shelf, because M2a costs $9.76 a pack against M3 at $2.00. It is not for the buyer who needs English cards for tournament play, because Japanese cards do not play in English-region official events. It is not for the buyer who wants a sealed box to pay for itself, because the expected value says it will not."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the format first: single box to open, case of twenty to hold or split, single card for the Gengar.",
+          "Divide before you pay: box / 10 = your per-pack price; case / 20 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed box on the shelf is the M2a box at $97.55; the case at $78.99 a box saves $371.22, the largest case saving on the shelf.",
+          "If you want one card, buy the single. The Mega Gengar ex SAR is about $203. It is not guaranteed in any box.",
+          "Check the number before paying for a Gengar: SAR 240/193 is the chase, MA 230/193 is the $12 print.",
+          "Check the reprint risk before holding sealed: the Gengar SAR fell 41.96 percent in a month without one.",
+          "If buying to open, confirm the price is still below market: it fell $17.22 in six days, and it can move again."
+        ],
+        "h": "Action layer: the M2a buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Format first: box to open, case to hold or split, single for the named card. Price second: check the shelf figure against the dated market figures in this guide, and if the box is still below Dexhaul's $99.99 low ask, the discount is real. Number third: check the card number before paying for any Gengar, because the MA and the SAR share a name and sit sixteen times apart. Seal fourth: check the wrap, the tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      }
+    ],
+    "slug": "is-m2a-worth-buying",
+    "takeaway": [
+      "The M2a box at $97.55 is $9.76 a pack and $0.98 a card, $63.13 above the derived 5,500 yen box price at 159.8 yen per dollar, while the case at $1,579.78 divides to $78.99 a box, saving $371.22 against twenty singles, the largest case saving on the Japanese Pokémon shelf. The case is the format to buy here.",
+      "It is worth buying as the set that gave the MEGA era its biggest checklist and its first Mega Attack Rare cards, sealed in either format, and it is not worth buying as a way to own one named card or to make the money back by opening. The Mega Gengar ex SAR sat at a ¥32,500 lowest ask on SNKRDUNK on September 30, 2026, about $203, which is 2.08 boxes, and the same Pokémon in the MA frame asks about $12. Buy the single, and check the number.",
+      "It is worth buying with the fall in mind: the box dropped $17.22 in six days, from $114.77 to $97.55, fifteen percent in one leg on November 13, 2026, the same fifteen percent that fell on every Japanese box on this shelf the same day. The chase fell faster: the Gengar SAR dropped 41.96 percent in a month, from the ¥56,000 low end of Buyee's August 2026 range to ¥32,500. A box bought as an investment can fall as fast as it rose.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of August to October 2026. The box now sits $2.44 below Dexhaul's November 6 low ask, which is the fact that outlives every price on this page: divide before you buy, every time.",
+      "For the price-and-math companion, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) runs the box and the case side by side, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict on the cheapest MEGA box, where the case rule runs the other way."
+    ]
+  },
+  "is-m3-worth-buying": {
+    "datePublished": "2026-11-13",
+    "faqs": [
+      {
+        "a": "Yes, sealed, as a single box, after the 15 percent fall. The box is $60.03, $2.00 a pack and $0.40 a card, still the cheapest sealed Japanese Pokémon box on the shelf. It is not worth buying as a case, because the case at $891.00 divides to $74.25 a box, $14.22 more than the single, and it is not worth buying to pull the gold Mega Zygarde ex MUR, listed at ¥19,800 on yuyu-tei on October 30, 2026, about $124: buy the single for any named card.",
+        "q": "Is M3 Munikis Zero worth buying in 2026?"
+      },
+      {
+        "a": "No. The M3 case costs $891.00 for 12 boxes, which divides to $74.25 a box, $14.22 above the $60.03 single box, a premium of $170.64 on the case. The case premium survived the November 13 repricing intact, because both the box and the case fell fifteen percent. Divide the case before you pay, every time.",
+        "q": "Is the M3 sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The gold Mega Zygarde ex MUR, 117/080, is one card in a 117-card set, and the community pull estimate is one MUR in every 50 boxes, about a 2 percent chance per box. Fifty boxes at $60.03 cost $3,001.50 for one expected MUR, which lists at about $124. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an M3 box to pull Mega Zygarde ex?"
+      }
+    ],
+    "h1": "Is M3 Munikis Zero Worth Buying?",
+    "intro": [
+      "Short answer: yes, sealed, as a single box, after a 15 percent fall. The [M3 Munikis Zero booster box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is $60.03 on this shelf, $2.00 a pack and $0.40 a card, still the cheapest sealed Japanese Pokémon box on the shelf. The sealed case is the trap: the [M3 sealed case](/product/m3-munikis-zero-nihil-zero-sealed-case-12-boxes-japanese-pokemon-card/) is $891.00, which divides to $74.25 a box, $14.22 more than the single. The chase is the gold Mega Zygarde ex MUR, listed at ¥19,800 on yuyu-tei on October 30, 2026, about $124: buy the single for the Zygarde, and buy the box for the set.",
+      "This guide answers for three buyers: the collector who wants the cheapest current MEGA-era box to open, the buyer choosing between M3 and the dearer MEGA boxes above it, and the buyer who would have bought a case and finds the case runs the wrong way. It is not for the buyer chasing only the gold Zygarde, and it is not for the buyer who wants the best chase box, because M3 headlines Mega Zygarde ex, not a Charizard, not a Pikachu. The market figures in it are dated, because they move, and the shelf figures are from this store on November 13, 2026. Every price in it comes from the shelf or a dated market check; none of it is invented."
+    ],
+    "metaDescription": "M3 Munikis Zero: box $60.03 after a 15% fall, case still $14.22 a box dearer, and the gold Mega Zygarde ex MUR at $123.90. The verdict.",
+    "metaTitle": "Is M3 Munikis Zero Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box, no for the case",
+        "paragraphs": [
+          "Buy the box if the job is opening a current MEGA-era set for the lowest verified cost per pack. At $60.03, M3 undercuts [M6 Storm Emeralda](/product/m6-storm-emeralda-booster-box-japanese-pokemon-card/) at $70.38 by $10.35 a box, [M1S Mega Symphonia](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) at $72.22 by $12.19, and [M4 Ninja Spinner](/product/m4-ninja-spinner-booster-box-japanese-pokemon-card/) at $75.03 by $15.00, and it is the cheapest box, the cheapest pack at $2.00, and the cheapest card at $0.40 on the whole Japanese Pokémon shelf.",
+          "Do not buy the case expecting a bulk saving, because the case costs $891.00 for 12 boxes, which divides to $74.25 a box, $14.22 above the $60.03 single box, a premium of $170.64 on the case. The case premium is the trap in this set, and it survived the November 13 repricing intact: both the box and the case fell fifteen percent, so the gap between them did not move. The wider case-versus-box math is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "Buy the single if the job is one named card. The gold Mega Zygarde ex MUR at about $124 costs 2.06 boxes, and the Rosa's Encouragement SAR at about $62 costs 1.04 boxes, and no box guarantees either one. The community pull estimate is one MUR in every 50 boxes, about a 2 percent chance per box, and one SAR in every 6 boxes, with six SARs in the set, so a named SAR is about one box in 36. The full set is priced card by card in the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $170.64 premium",
+        "math": [
+          "M3 box per pack: $60.03 ÷ 30 packs = $2.00 per pack",
+          "M3 box per card: $60.03 ÷ 150 cards = $0.40 per card",
+          "M3 case per box: $891.00 ÷ 12 boxes = $74.25 per box",
+          "M3 twelve single boxes: 12 × $60.03 = $720.36",
+          "M3 case premium per case: $891.00 - $720.36 = $170.64",
+          "M3 case premium per box: $74.25 - $60.03 = $14.22",
+          "M3 case per pack: $891.00 ÷ 360 packs = $2.48 per pack",
+          "M3 case per card: $891.00 ÷ 1,800 cards = $0.50 per card",
+          "M3 box fall since November 4, 2026: $70.62 - $60.03 = $10.59; $10.59 ÷ $70.62 = 15.00%",
+          "M3 case fall since November 4, 2026: $1,048.24 - $891.00 = $157.24; $157.24 ÷ $1,048.24 = 15.00%",
+          "M3 official box: 30 packs × ¥180 = ¥5,400; ¥5,400 ÷ 159.8 = $33.79",
+          "M3 box vs official: $60.03 - $33.79 = $26.24 above official",
+          "M3 box vs official ratio: $60.03 ÷ $33.79 = 1.78× official",
+          "Mega Zygarde ex MUR: ¥19,800 ÷ 159.8 = $123.90",
+          "Mega Zygarde ex MUR buyback: ¥14,000 ÷ 159.8 = $87.61",
+          "Mega Zygarde ex MUR vs box: $123.90 ÷ $60.03 = 2.06 boxes",
+          "Mega Zygarde ex MUR vs case box: $123.90 ÷ $74.25 = 1.67 boxes",
+          "Mega Zygarde ex MUR fall since March 2026: ¥35,000 - ¥19,800 = ¥15,200; ¥15,200 ÷ ¥35,000 = 43.43%",
+          "Mega Zygarde ex MUR fall since day one: ¥60,000 - ¥19,800 = ¥40,200; ¥40,200 ÷ ¥60,000 = 67.00%",
+          "Mega Zygarde ex SAR: ¥2,480 ÷ 159.8 = $15.52",
+          "Rosa's Encouragement SAR: ¥9,980 ÷ 159.8 = $62.45",
+          "Mega Zygarde ex MUR vs SAR: ¥19,800 ÷ ¥2,480 = 7.98×",
+          "Fifty boxes for one expected MUR: 50 × $60.03 = $3,001.50",
+          "Thirty-six boxes for one named SAR: 36 × $60.03 = $2,161.08",
+          "M3 box vs M6 box: $70.38 - $60.03 = $10.35 per box",
+          "M6 box per pack: $70.38 ÷ 30 packs = $2.35 per pack",
+          "M6 box per card: $70.38 ÷ 150 cards = $0.47 per card",
+          "M3 box vs M1S box: $72.22 - $60.03 = $12.19 per box",
+          "M1S box per pack: $72.22 ÷ 30 packs = $2.41 per pack",
+          "M1S box per card: $72.22 ÷ 150 cards = $0.48 per card",
+          "M3 box vs M4 box: $75.03 - $60.03 = $15.00 per box",
+          "M3 box vs TCG Watchtower: $74.71 - $60.03 = $14.68 below market",
+          "M3 box vs M2a box: $97.55 - $60.03 = $37.52 per box",
+          "M3 per card vs M2a per card: $0.98 - $0.40 = $0.58 per card"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 13, 2026, with 30 packs per box, 5 cards per pack, and a 12-box case. The currency rate used is 159.8 yen to the dollar, checked on November 13, 2026, so an official Japanese box at 30 packs times 180 yen is 5,400 yen, or $33.79.",
+          "The fall is the story of this set, and it is a uniform fall, not a verdict on M3. On November 4, 2026 this shelf held the box at $70.62 and the case at $1,048.24. On November 13 both fell exactly fifteen percent, to $60.03 and $891.00, the same fifteen percent that fell on every Japanese box on this shelf the same day. A buyer who buys on last week's box price overpays by $10.59 a box.",
+          "The case is the trap in this set, and the trap did not move with the fall. Twelve boxes at $891.00 divide to $74.25 a box, $14.22 above the $60.03 single, and $170.64 above twelve singles. The premium runs the same way it ran on November 4, when the case divided to $87.35 a box against a $70.62 single, because both legs fell by the same fifteen percent. The case rule is a division, not a promise, and on M3 the division says buy the single.",
+          "Two market checks put the Warehouse shelf in context. TCG Watchtower lists the M3 box at $74.71, and the Warehouse box at $60.03 sits $14.68 below that figure. On the singles side, yuyu-tei listed the gold Mega Zygarde ex MUR at ¥19,800 on October 30, 2026, about $124, with no copies in stock and a buyback of ¥14,000, about $88. The MUR launched at ¥60,000 on day one, settled around ¥35,000 six weeks later, and now asks ¥19,800, a fall of 67.00 percent from day one and 43.43 percent since March. The chase card fell faster than the box did, which is the shape of a settling market, not a rising one."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The TCG Watchtower market box at $74.71 costs $14.68 more than the Warehouse box at $60.03, which is the number that should make a market buyer stop and check this shelf first. And the gold Mega Zygarde ex MUR at $123.90 costs 2.06 boxes, which is why no box is a route to it.",
+          "The case row is the row that decides this set. At $74.25 a box inside the case, the sealed case is the dearest sealed M3 on any shelf we checked, and the per-card figure of $0.50 is $0.10 above the single-box $0.40 across 1,800 cards. A buyer who wants twelve boxes and buys the case instead pays $170.64 for the privilege, which is more than the price of two extra boxes."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Market box (TCG Watchtower)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$60.03",
+              "$74.25 a box inside the case",
+              "$74.71",
+              "Zygarde MUR $123.90; Rosa SAR $62.45"
+            ],
+            [
+              "Price per pack",
+              "$2.00",
+              "$2.48",
+              "$2.49",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.40",
+              "$0.50",
+              "$0.50",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a premium",
+              "A different seller's price",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening Munikis Zero cheaply",
+              "Never, on price alone",
+              "Price comparison only",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the premium that survived the fall",
+        "note": "From the Warehouse: the question we get most about M3 is whether the case is a discount, because every other case on the shelf is one. It is not. The M3 case costs $14.22 more per box than the single, and buyers who assume the case saves money pay $170.64 for the assumption. The case rule is a division, not a promise, and on M3 the division runs the wrong way.",
+        "paragraphs": [
+          "The top results for M3 cover chase cards, pull rates, and set overviews, and they cover them well. Samurai Sword Tokyo gives the full card list, the ¥8,000 SNKRDUNK box ask on September 29, 2026, and the pull rates: one MUR in every 50 boxes, one SAR in every 6 boxes. TCG Watchtower gives the card list with live prices and the $74.71 box figure. Tokyo Card Report gives the yuyu-tei singles board on October 30, 2026, the MUR at ¥19,800 with no stock and a ¥14,000 buyback. What none of them does is run the four-product math on one shelf after the repricing. A pull-rate guide can tell you the MUR is one box in 50; it cannot tell you that this store lists the box at $60.03 after a fifteen percent fall, that its case costs $14.22 more per box than its single, or that its box sits $14.68 below the TCG Watchtower figure.",
+          "The second gap is the fall itself. The November 4 guide on this site priced the box at $70.62 and the case at $1,048.24, and the shelf now holds a $60.03 box and an $891.00 case, both down exactly fifteen percent on November 13. No top guide tracks the fall, because no top guide prices from a live shelf. A buyer who buys on last week's box price overpays by $10.59 a box and $157.24 a case.",
+          "The third gap is the two Zygardes, and it is the gap that decides the chase. Mega Zygarde ex appears four times in M3: the RR at 046/080, the SR at 097/080, the SAR at 113/080, and the MUR at 117/080. The SAR asks ¥2,480 on yuyu-tei on October 30, 2026, about $16, and the MUR asks ¥19,800 the same day, about $124, which is 7.98 times the SAR for the same Pokémon in a gold frame. A buyer who shops by Pokémon name alone and buys the first Zygarde ex that appears can pay $16 for a card worth $16 and believe it is the chase, or can pay $124 for a card and receive the $16 print. Check the number, 117/080 for the MUR and 113/080 for the SAR, before paying."
+        ]
+      },
+      {
+        "h": "The risk layer: the Zygarde chase, the name trap, and the lottery",
+        "paragraphs": [
+          "The first risk is the chase itself. The gold Mega Zygarde ex MUR at about $124 is 2.06 boxes, the Rosa's Encouragement SAR at about $62 is 1.04 boxes, and the Meowth ex SAR sits in the same pool, in a set of 117 cards where 37 are secret rares and no box guarantees any one of them. The Pokémon Company publishes no pull rates for M3, so the one-in-50-boxes MUR figure and the one-in-6-boxes SAR figure are community estimates from Japanese opening data, not official odds. Buy the single.",
+          "The second risk is the name trap, and it is the trap this set was built to spring twice over. The set goes by three names in the wild: Munikis Zero on the Japanese product page, Nihil Zero in the community English title, and Munikisu Zero in Bulbapedia's romanization. A buyer who searches one name and buys the first box that appears can pay a different seller's price for the same set, or can buy the wrong set entirely. Confirm the code, M3, and the 30-pack structure before paying, and read our [how to read Japanese Pokémon cards guide](/blog/how-to-read-japanese-pokemon-cards/) if the pack text is unfamiliar.",
+          "The third risk is the reprint. M3 is a current, in-print-era set with no scarcity story, and its value is the low entry price, not a promised rise. The MUR fell 67.00 percent from its day-one ¥60,000 ask to ¥19,800 on October 30, 2026, without any reprint announcement at all. A sealed box held for value is a speculation with storage costs and no maturity date, and the honest plan for it is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "The fourth risk is the single-pack temptation: a box at $2.00 a pack looks cheap until the chase math is divided, because the MUR is 2.06 boxes and the box has no published odds. Check the seal, the wrap tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. The fifth risk is the language trap: Japanese cards do not play in English-region official events. The investment test for the whole shelf is in [Are Japanese Pokémon Cards a Good Investment](/blog/are-japanese-pokemon-cards-a-good-investment/)."
+        ]
+      },
+      {
+        "h": "Context: 117 cards, J-Regulation, and the English set",
+        "paragraphs": [
+          "Munikis Zero, M3, released in Japan on January 23, 2026, as the third expansion in the Pokémon TCG MEGA series and the first set released under J-Regulation, Japan's newest card legality format. The set carries 117 cards: 80 in the main run plus 37 secret rares, across Art Rare, Special Art Rare, and Mega Ultra Rare tiers. The pack price is ¥180, five cards a pack, thirty packs a box, and the box holds 150 cards.",
+          "The chase sits in two places. The gold Mega Zygarde ex MUR, 117/080, is the set's single MUR, and the SAR lineup runs from 111 to 116: Mega Zygarde ex at 113/080, Meowth ex, Mega Starmie ex, Mega Clefable ex, and Rosa's Encouragement at 115/080, the fan-favourite Supporter, which asks ¥9,980 on yuyu-tei on October 30, 2026, about $62. The set also carries four Mega Evolution ex cards, Mega Zygarde, Mega Starmie, Mega Clefable, and Mega Skarmory.",
+          "Japan got Munikis Zero on January 23, 2026; English followed as Mega Evolution: Perfect Order on March 27, 2026, a gap of 63 days. The English set is a different product with a different card list, so a buyer who wants the M3 cards buys the Japanese box, and a buyer who wants English-legal cards buys Perfect Order. J-Regulation is the other half of the context: every card in M3 remains tournament-legal for the longest possible window in Japan. The dearer MEGA box beside it is priced the same way in the [is M2a worth buying guide](/blog/is-m2a-worth-buying/), and the whole Japanese ladder is in the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer whose only target is the gold Mega Zygarde ex MUR, because the honest answer for that buyer is the single at about $124. It is not for the buyer who wants a sealed case of M3 boxes, because there is no saving in it, $14.22 the other way per box. It is not for the buyer who wants the best chase box, because M3 headlines Mega Zygarde ex, not a Charizard, not a Pikachu, and the MUR fell 67.00 percent from day one. It is not for the buyer who needs English cards for tournament play, because Japanese cards do not play in English-region official events. It is not for the buyer who wants a sealed box to pay for itself, because the expected value says it will not."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the language first: Japanese for collecting and casual play, English for official events outside Asia.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed box on the shelf is the M3 box at $60.03; the case at $74.25 a box costs $170.64 more than twelve singles.",
+          "If the job is twelve boxes, buy twelve singles, not the case: the case is a $170.64 premium, not a discount.",
+          "If you want one card, buy the single. The gold Mega Zygarde ex MUR is about $124. It is not guaranteed in any box.",
+          "Check the number before paying for a Zygarde: MUR 117/080 is the chase, SAR 113/080 is the $16 print.",
+          "If buying to open, confirm the price is still the cheapest on the shelf: it fell $10.59 in nine days, and it can move again."
+        ],
+        "h": "Action layer: the M3 buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Language first: Japanese for opening, English for the English collection, and the case never, on price alone. Price second: check the shelf figure against the dated market figures in this guide, and if the box is still below the TCG Watchtower $74.71 figure, the discount is real. Number third: check the card number before paying for any Zygarde, because the SAR and the MUR share a name and sit nearly eight times apart. Seal fourth: check the wrap, the tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      }
+    ],
+    "slug": "is-m3-worth-buying",
+    "takeaway": [
+      "The M3 box at $60.03 is $2.00 a pack and $0.40 a card, $26.24 above the derived 5,400 yen box price at 159.8 yen per dollar, while the sealed case at $891.00 divides to $74.25 a box, a $14.22 premium over the single and $170.64 on the case. The case premium survived the fifteen percent fall intact. Buy the single box, never the case.",
+      "It is worth buying as the cheapest sealed Japanese Pokémon box on the shelf, the cheapest verified pack and the cheapest verified card, sealed as a single box, and it is not worth buying as a way to own one named card or to make the money back by opening. The gold Mega Zygarde ex MUR sat at ¥19,800 on yuyu-tei on October 30, 2026, about $124, which is 2.06 boxes, and the community estimate is one MUR in every 50 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $10.59 in nine days, from $70.62 to $60.03, fifteen percent in one leg on November 13, 2026, the same fifteen percent that fell on every Japanese box on this shelf the same day. The chase fell faster: the MUR dropped 67.00 percent from its day-one ¥60,000 ask to ¥19,800. A box bought as an investment can fall as fast as it rose.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of September 29 to October 30, 2026. The box now sits $14.68 below the TCG Watchtower figure, which is the fact that outlives every price on this page: divide before you buy, every time.",
+      "For the price-and-math companion, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) runs all four products side by side, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is M2a worth buying guide](/blog/is-m2a-worth-buying/) runs the same verdict on the high-class pack, where the case rule runs the other way."
+    ]
+  },
   "is-op-01-worth-buying": {
     "datePublished": "2026-11-11",
     "faqs": [
@@ -27125,7 +27498,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace asks as of November 5, 2026. The Mega Attack Rare is new with this set and is not the chase tier: the SAR at 240/193 is the expensive Gengar, and the MA at 230/193 is the cheaper one, so buy by card number.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [M2 Inferno X guide](/blog/m2-inferno-x-buyers-guide/) prices the standard expansion M2a sits beside. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the other high-class pack the same way, box $163.32 against a case that saves $543.24, with the Umbreon ex SAR at $372.02 on its own.",
-      "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the other High Class Pack the same way, box $141.24 against a case that saves $518.70, with the Mew ex SAR at $272.15 on its own."
+      "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the other High Class Pack the same way, box $141.24 against a case that saves $518.70, with the Mew ex SAR at $272.15 on its own.",
+      "New this cycle: the [is M2a worth buying guide](/blog/is-m2a-worth-buying/) runs the same verdict after the November 13 repricing: box $97.55, case $78.99 a box, and the Mega Gengar ex SAR at about $203, with the MA print at about $12."
     ]
   },
   "m3-munikis-zero-buyers-guide": {
@@ -27319,7 +27693,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move; the method does not. Confirm the M3 code and the 30-pack structure, divide by verified packs, divide the case too, and buy the job before the product.",
       "For the wider Japanese ladder, M3 at the foot, see [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/). For the Pokemon-only ranking by buyer, see [Best Japanese Pokemon Booster Box to Buy, by Buyer](/blog/best-japanese-pokemon-booster-box-to-buy/).",
       "For the high-class pack in the same MEGA line, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices M2a at $114.77 a box, $1.15 a card, against M3's $0.71, with the Mega Gengar ex SAR at about $207 on its own.",
-      "New this cycle: the [Best Japanese Pokémon Booster Box guide](/blog/best-japanese-pokemon-booster-box/) ranks M3 first overall at $70.62, or $2.35 a pack, against the whole 83-box shelf, and the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) shows the M3 case costs $16.73 a box more than the single."
+      "New this cycle: the [Best Japanese Pokémon Booster Box guide](/blog/best-japanese-pokemon-booster-box/) ranks M3 first overall at $70.62, or $2.35 a pack, against the whole 83-box shelf, and the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) shows the M3 case costs $16.73 a box more than the single.",
+      "New this cycle: the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict after the November 13 repricing: box $60.03, case still $14.22 a box dearer, and the gold Mega Zygarde ex MUR at about $124."
     ]
   },
   "m6a-30th-celebration-buyers-guide": {
