@@ -26108,6 +26108,368 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of June 2024 to November 8, 2026. The box now sits $5.65 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV6 Mask of Change worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 92.71 percent of a box and the case saves $301.50."
     ]
   },
+  "is-sv7-worth-buying": {
+    "datePublished": "2026-11-14",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Stella Miracle set in Japanese and accept $2.60 a pack, which is $0.52 a card for 150 cards from a 135-card set. The case is the better sealed buy at $63.93 a box, saving $167.31 against twelve singles. For profit, no: no box guarantees a Special Art Rare, and the dearest card in the set, the Dachsbun ex Special Art Rare, carries a $40.50 market price on its own, or 52.01 percent of a box, so even the best pull loses money against the box price. Open SV7 because you want the set, and buy the Dachsbun ex single if it is the only card you want.",
+        "q": "Is SV7 Stella Miracle worth buying in 2026?"
+      },
+      {
+        "a": "Yes. The case costs $767.13 for 12 boxes, which divides to $63.93 a box, $13.94 less per box than the single box at $77.87, so the case saves $167.31 against twelve singles at $934.44. It is $27.59 cheaper per box than the TCGplayer box price of $91.52. Buy the case, never twelve singles.",
+        "q": "Is the SV7 sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Terapagos ex Special Art Rare is $29.39 on TCGplayer on November 14, 2026, which is 37.74 percent of a box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. Terapagos is not even the dearest card in its own set: Dachsbun ex is $40.50. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV7 box to pull the Terapagos ex SAR?"
+      }
+    ],
+    "h1": "Is SV7 Stella Miracle Worth Buying?",
+    "intro": [
+      "Short answer: yes for the box, yes for the case, and no for chasing one card in packs. The [SV7 Stella Miracle booster box](/product/sv7-stella-miracle-booster-box-japanese-pokemon-card/) is $77.87 on this shelf, $2.60 a pack and $0.52 a card, and the [sealed case](/product/sv7-stella-miracle-sealed-case-12-boxes-japanese-pokemon-card/) is $767.13, $63.93 a box, saving $167.31 against twelve singles. The dearest card in the set, the Dachsbun ex Special Art Rare, is $40.50, which is 52.01 percent of a box, and the complete set is $231.03, which is 2.97 boxes. Buy this box for the set, the play, or the Stellar mechanic, and never to pull one named card.",
+      "This guide answers for three buyers: the collector opening the Stella Miracle set in Japanese, the Standard player who can still play these cards, and the sealed holder weighing a case that splits below the TCGplayer box price. It is not for the single-card chaser, because the dearest card costs barely half a box, or for the buyer who wants the box to pay for itself: the top three cards together are worth 1.27 boxes, and the top five are worth 1.70 boxes, which still leaves the box short once the other 130 cards are counted at their real prices. The market figures in it are dated, because they move, and the shelf figures are from this store on November 14, 2026."
+    ],
+    "metaDescription": "SV7 Stella Miracle: box $77.87 after a 15% fall, case saves $167.31, and the dearest card is $40.50, just 52.01% of a box. H-mark legal.",
+    "metaTitle": "Is SV7 Stella Miracle Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box, yes for the case, no for chasing one card",
+        "paragraphs": [
+          "Buy the box if the job is opening the Stella Miracle set. At $77.87 it is $5.65 above the cheapest 30-pack box on the shelf, [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) at $72.22, and $17.84 above [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) at $60.03, the cheapest box per pack at $2.00. It is $16.87 below the [Mask of Change box](/blog/is-sv6-worth-buying/) at $94.74, and it sits at exactly the same price as the [Night Wanderer box](/blog/is-sv6a-worth-buying/) at $77.87, which makes the two July and June 2024 sets the same buy at the same price. Thirty packs of five cards give 150 cards for $2.60 a pack from a 135-card set, so one box covers the main set and the second box is mostly cards already owned.",
+          "Buy the case if the job is sealed Stella Miracle in volume. At $767.13 for twelve boxes the case divides to $63.93 a box, $2.13 a pack, and $0.43 a card, and it saves $167.31 against twelve singles at $934.44, or $13.94 a box. That saving is 17.91 percent of the twelve-box cost, and it is the same dollar saving as the Night Wanderer case, because the two sets share the same box and case prices on this shelf. A case splitter works from the same division: $63.93 a box is the floor for every box that leaves the case, and $63.93 is $27.59 below the TCGplayer box price of $91.52.",
+          "Do not buy the box to pull one card. The Dachsbun ex Special Art Rare is $40.50 on TCGplayer, dated November 14, 2026, which is 52.01 percent of one box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. The top three cards together, Dachsbun ex at $40.50, Terapagos ex at $29.39, and Hydrapple ex at $29.03, are worth $98.92, or 1.27 boxes, and the complete set is $231.03, or 2.97 boxes. The fourth and fifth cards, Lacey at $19.82 and Galvantula ex at $13.32, bring the top five to $132.06, or 1.70 boxes, and the sixth, Briar at $8.13, is the last Special Art Rare in the set. Buy the single for any named card, buy the box for the opening, and buy the case for the sealed shelf."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one fall, one saving",
+        "math": [
+          "SV7 box per pack: $77.87 ÷ 30 packs = $2.60 per pack",
+          "SV7 box per card: $77.87 ÷ 150 cards = $0.52 per card",
+          "SV7 case per box: $767.13 ÷ 12 boxes = $63.93 per box",
+          "SV7 case per pack: $767.13 ÷ 360 packs = $2.13 per pack",
+          "SV7 case per card: $767.13 ÷ 1,800 cards = $0.43 per card",
+          "SV7 twelve single boxes: (12 × $77.87) − $767.13 = $167.31",
+          "SV7 case saving: $934.44 − $767.13 = $167.31",
+          "SV7 case saving per box: $167.31 ÷ 12 boxes = $13.94 per box",
+          "SV7 case saving percent: $167.31 ÷ $934.44 = 17.90%",
+          "SV7 box fall since November 9, 2026: $91.61 − $77.87 = $13.74",
+          "SV7 case fall since November 9, 2026: $902.51 − $767.13 = $135.38",
+          "SV7 box fall percent: $13.74 ÷ $91.61 = 15.00%",
+          "SV7 MSRP in dollars: 5,400 yen ÷ 159.8 yen = $33.79",
+          "SV7 Dachsbun SAR vs box: $40.50 ÷ $77.87 = 52.01%",
+          "SV7 box vs Dachsbun SAR: $77.87 ÷ $40.50 = 1.92",
+          "SV7 complete set vs box: $231.03 ÷ $77.87 = 2.97",
+          "SV7 top three: $40.50 + $29.39 + $29.03 = $98.92",
+          "SV7 top three vs box: $98.92 ÷ $77.87 = 1.27",
+          "SV7 top five: $98.92 + $19.82 + $13.32 = $132.06",
+          "SV7 top five vs box: $132.06 ÷ $77.87 = 1.70",
+          "SV7 box vs TCGplayer box: $91.52 − $77.87 = $13.65",
+          "SV7 case box vs TCGplayer box: $91.52 − $63.93 = $27.59",
+          "SV7 box vs MSRP: $77.87 − $33.79 = $44.08",
+          "SV7 box divided by MSRP: $77.87 ÷ $33.79 = 2.30",
+          "SV7 English Terapagos gap: $33.99 − $29.39 = $4.60",
+          "SV7 box vs SV6 box: $94.74 − $77.87 = $16.87",
+          "SV7 box vs SV9 box: $77.87 − $72.22 = $5.65",
+          "SV7 box vs M3 box: $77.87 − $60.03 = $17.84",
+          "SV7 two boxes: $77.87 + $77.87 = $155.74",
+          "SV7 set minus two boxes: $231.03 − $155.74 = $75.29"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 14, 2026, with 30 packs per box, 5 cards per pack, 150 cards per box, and a 12-box case. The currency rate used is 159.8 yen to the dollar, checked on November 14, 2026, so an official Japanese box at 30 packs times 180 yen is 5,400 yen, or $33.79.",
+          "The fall is the story of this set, and it fell in one leg, on one day. On November 9, 2026 this shelf held the SV7 box at $91.61 and the case at $902.51. On November 14 the box is $77.87, down fifteen percent, and the case is $767.13, down fifteen percent, the same uniform repricing that cut the whole shelf on November 13, 2026. The fall did not change the verdict: the case saved $196.81 before it and saves $167.31 after it, because both the box and the case fell fifteen percent.",
+          "The market sits above this shelf on the box and below it on the case-split box. The TCGplayer box price is $91.52, which puts our box $13.65 below it, and our case-split box $27.59 below it, which is the rare case where the case is the cheapest sealed Stella Miracle anywhere we could price. Those prices are before shipping, fees, and import costs, but the gap is real. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this box against every other Japanese box on the shelf at the same live prices. The set value barely moved while the shelf fell: $231.03 on November 14, 2026, down 0.2 percent over 90 days, so the fall is a shelf repricing, not a collapse in the cards."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The Battle Partners box at $72.22 is the cheaper way into a 30-pack box, $5.65 less per box, and the M3 box at $60.03 is $17.84 less, and neither carries a chase card worth half a box, which is why Stella Miracle is the better chase set and the dearer opener at once. And the Dachsbun ex Special Art Rare at $40.50 costs 52.01 percent of a box, which is why no box is a route to it.",
+          "The case row is the row that decides this set, and it decides it twice. First, $63.93 a box is the cheapest sealed Stella Miracle on any price we could check, $27.59 below the TCGplayer box. Second, the case saving of $167.31 is 17.91 percent of twelve singles, which is the same saving the Night Wanderer case gives, so the buyer who splits a case is paid the same for either set. The box row is the row for the opener: $2.60 a pack is the middle of the shelf, dearer than Battle Partners and M3, cheaper than Mask of Change, and the set behind it is the one that introduced the Stellar mechanic. The [Night Wanderer box](/blog/is-sv6a-worth-buying/) costs the same $77.87 and saves the same $167.31 in a case, so the buyer who wants the June 2024 set pays the same as the buyer who wants the July one."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Cheaper 30-pack box SV9 (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$77.87",
+              "$63.93 a box inside the case",
+              "$72.22",
+              "Dachsbun ex SAR $40.50"
+            ],
+            [
+              "Price per pack",
+              "$2.60",
+              "$2.13",
+              "$2.41",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.52",
+              "$0.43",
+              "$0.48",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "The cheaper opener, weaker chase",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the Stella Miracle set",
+              "Sealed holding and splitting",
+              "Opening a 30-pack box cheaper",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the wrong famous card, the division, and the Tokyo gap",
+        "note": "From the Warehouse: what the shelf shows this week is a flat set at a falling price. No card in Stella Miracle costs more than $40.50, the case now splits below the TCGplayer box price, and the English Terapagos costs only $4.60 more than the Japanese one. Buy the Japanese set for the set, buy the single for the card, and never pay a box price for a card that costs half of it.",
+        "paragraphs": [
+          "The top guides for this set all answer the same question, which cards are in it, and none of them answers the question that decides the buy. The Samurai Sword Tokyo buying guide lists the box at its own price and names the six Special Art Rares. The PokeUnlimited guide runs the quick facts and the pack configuration. The Sparkl card list runs every price in the set. None of them divides a case into a per-box price, none of them compares the shelf box to the TCGplayer box, and none of them says plainly that the mascot is not the dearest card in its own set.",
+          "That last fact is the one that costs buyers money. Terapagos ex is the card this set is built around, the mascot of the Stellar mechanic, and the card every guide leads with. It is $29.39, the second dearest card, and Dachsbun ex at $40.50 is $11.11 dearer. A buyer who opens boxes to pull Terapagos is chasing the wrong card at the wrong price, and a buyer who wants Terapagos should buy the $29.39 single and keep the other $48.48 of the box price. The division is the guide: box divided by 30 is the per-pack price, case divided by 12 is the per-box price, and no guide that skips those two divisions can tell you whether the box is worth buying."
+        ]
+      },
+      {
+        "h": "The risk layer: the flat set, the fallen chase, and the English overlap",
+        "paragraphs": [
+          "The first risk is the flat set. The complete set is $231.03 and it fell 0.2 percent over 90 days, which is a set that is not moving. 126 of its 135 cards are under $5, and the top five cards hold 57 percent of the set value, so most of what a box opens is bulk. A box that opens no Special Art Rare returns a pile of cards worth a few dollars each, and the Pokemon Company publishes no pull rates, so no box promises a SAR at all. The recovery is the single: the dearest card is $40.50, the top five together are $132.06, and buying the five best singles costs less than two boxes.",
+          "The second risk is the fallen chase. The box fell fifteen percent in five days, from $91.61 to $77.87, and a buyer who paid the November 9 price holds a box worth $13.74 less a week later. The fall was uniform across the shelf, which means it was a repricing, not a verdict on this set, and the case fell by the same fifteen percent, so the saving survived the fall. The [Stella Miracle box](/blog/is-sv7-worth-buying/) fell by the same fifteen percent on the same day, from $91.61 to $77.87, so the two neighbours share the fall as well as the shelf. The recovery is the case-split floor: at $63.93 a box inside the case, the buyer who splits is $13.94 a box ahead of the single-box buyer, and the sealed holder who waits is holding the cheapest sealed Stella Miracle we could price.",
+          "The third risk is the English overlap. Stellar Crown, the English counterpart, released September 13, 2024, and its Terapagos ex Special Illustration Rare is $33.99, only $4.60 more than the Japanese SAR at $29.39. A buyer who plays in English events cannot play Japanese cards there, and a buyer who collects English should compare the two before paying for the Japanese box. The recovery is the same as everywhere else on this shelf: buy the language you play, buy the single for the card, and let the box be the opening, not the investment."
+        ]
+      },
+      {
+        "h": "Context: 135 cards, the Stellar mechanic, and the English twin",
+        "paragraphs": [
+          "Stella Miracle, set code SV7, released in Japan on July 19, 2024, as a 102-card base set followed by a 33-card secret block, for 135 cards in total. The secret block breaks into 12 Art Rares, 12 Super Rares, 6 Special Art Rares, and 3 Ultra Rares. Each pack holds 5 cards at 180 yen, and the box MSRP is 5,400 yen, or $33.79 at 159.8 yen to the dollar. The set introduced the Stellar Tera mechanic to the Scarlet and Violet era, with Terapagos ex as the mascot card, printed four separate times: base Double Rare at 088/102, Super Rare at 122/102, Special Art Rare at 130/102, and Ultra Rare at 133/102.",
+          "The English twin is Stellar Crown, released September 13, 2024, two months after the Japanese set. The two are a market relationship, not a card-for-card match: the English set folds the Japanese cards into a larger list with its own numbering, so the Japanese Terapagos ex SAR at $29.39 and the English Terapagos ex Special Illustration Rare at $33.99 are the same Pokemon at two different prices in two different markets. The cards carry the H regulation mark, which is still Standard-legal in the 2026 format after the April 10, 2026 rotation removed the G mark, so the box is a play purchase too, for the player who plays in Japanese events. For the price-and-math companion, the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) runs the November 9 prices side by side."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants the box to pay for itself, because the dearest card is 52.01 percent of a box and the complete set is 2.97 boxes. It is not for the buyer who wants the cheapest sealed Pokemon on the shelf, because Battle Partners costs $2.41 a pack and M3 costs $2.00 a pack against this set's $2.60. It is not for the buyer who plays in English events, because Japanese cards are not legal there, and it is not for the buyer who wants a rising set, because this one fell 0.2 percent over 90 days and its box fell fifteen percent in five days. If any of those is the job, the single, the cheaper box, or the English twin is the better buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV7 is the case at $767.13, $63.93 a box, not twelve singles at $934.44; the single box is $77.87.",
+          "If the job is one card, buy the single. The Dachsbun ex Special Art Rare is $40.50. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $231.03 is 2.97 boxes, and two boxes at $155.74 cost $75.29 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Stella Miracle $77.87 plus Night Wanderer $77.87 is $155.74, the July and June 2024 sets at the same price."
+        ],
+        "h": "Action layer: the SV7 buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the buy decides itself. The division comes first, because every other number on this page hangs off it, and the regulation mark comes with it, because a box that cannot be played is a different purchase from one that can. The case is the cheapest sealed route, the single is the cheapest named-card route, and the box is the opening route, and no buyer needs more than one of the three.",
+          "The last check is the date. Every price here is stamped November 14, 2026, and the shelf repriced fifteen percent on November 13, so a price quoted without a date is a price from a different shelf. Check the live shelf before you pay, divide again, and buy the route the division points to."
+        ]
+      }
+    ],
+    "slug": "is-sv7-worth-buying",
+    "takeaway": [
+      "The SV7 box at $77.87 is $2.60 a pack and $0.52 a card, $44.08 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $767.13 divides to $63.93 a box, $167.31 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
+      "It is worth buying as the Stella Miracle set to open, sealed, and it is not worth buying as a way to own the Dachsbun ex Special Art Rare or to make the money back by opening. Dachsbun ex sat at $40.50 on TCGplayer on November 14, 2026, which is 52.01 percent of a box, and the top three cards together sat at $98.92, which is 1.27 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $13.74 in five days, from $91.61 to $77.87, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $902.51 to $767.13, which did not change the verdict, because the case saved money before the fall and saves $167.31 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of November 12 to November 14, 2026. The box now sits $5.65 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV6 Mask of Change worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 92.71 percent of a box and the case saves $301.50."
+    ]
+  },
+  "is-sv7a-worth-buying": {
+    "datePublished": "2026-11-14",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Paradise Dragona set in Japanese and accept $4.00 a pack, which is $0.80 a card for 150 cards from a 94-card set. The case is the better sealed buy at $88.78 a box, saving $375.20 against twelve singles. For profit, no: no box guarantees a Special Art Rare, and the dearest card in the set, the Latias ex Special Art Rare, carries a $159.33 market price on its own, or 132.72 percent of a box, so even the best pull costs more than the box that might hold it. Open SV7a because you want the set, and buy the Latias ex single if it is the only card you want.",
+        "q": "Is SV7a Paradise Dragona worth buying in 2026?"
+      },
+      {
+        "a": "Yes. The case costs $1,065.40 for 12 boxes, which divides to $88.78 a box, $31.27 less per box than the single box at $120.05, so the case saves $375.20 against twelve singles at $1,440.60. It is $24.89 cheaper per box than the TCGplayer box price of $113.67. Buy the case, never twelve singles.",
+        "q": "Is the SV7a sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Latias ex Special Art Rare is $159.33 on TCGplayer on November 13, 2026, which is 132.72 percent of a box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. The single costs $39.28 more than the box itself. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV7a box to pull the Latias ex SAR?"
+      }
+    ],
+    "h1": "Is SV7a Paradise Dragona Worth Buying?",
+    "intro": [
+      "Short answer: yes for the case, yes for the box if you open it, and no for chasing Latias ex in packs. The [SV7a Paradise Dragona booster box](/product/sv7a-paradise-dragona-booster-box-japanese-pokemon-card/) is $120.05 on this shelf, $4.00 a pack and $0.80 a card, and the [sealed case](/product/sv7a-paradise-dragona-sealed-case-12-boxes-japanese-pokemon-card/) is $1,065.40, $88.78 a box, saving $375.20 against twelve singles. The chase is the Latias ex Special Art Rare at $159.33, which costs 132.72 percent of a box, so the single costs more than the box that might hold it. Buy this box for the set, buy the case for the sealed shelf, and buy the single for Latias.",
+      "This guide answers for three buyers: the collector opening the Paradise Dragona set in Japanese, the sealed holder weighing a case that saves $375.20 against twelve singles, and the buyer choosing between a Japanese box and an English Surging Sparks product. It is not for the single-card chaser, because the Latias ex single costs more than a box, or for the buyer who wants the cheapest sealed Pokemon on the shelf: the box is $4.00 a pack, twice the cheapest box per pack, and the case costs $1,065.40. The market figures in it are dated, because they move, and the shelf figures are from this store on November 14, 2026."
+    ],
+    "metaDescription": "SV7a Paradise Dragona: box $120.05 after a 15% fall, case saves $375.20, but the Latias ex SAR at $159.33 costs more than the box. H-mark legal.",
+    "metaTitle": "Is SV7a Paradise Dragona Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the case, yes for the box if you open, no for chasing Latias",
+        "paragraphs": [
+          "Buy the box if the job is opening the Paradise Dragona set. At $120.05 it is $42.18 above the [Stella Miracle box](/blog/is-sv7-worth-buying/) at $77.87, its July 2024 neighbour, and $25.31 above the [Mask of Change box](/blog/is-sv6-worth-buying/) at $94.74. It is $4.00 a pack, against $2.60 for Stella Miracle and $2.00 for [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) at $60.03, and the price is the chase: one card in this set costs more than the box. Thirty packs of five cards give 150 cards for $4.00 a pack from a 94-card set, so one box covers the main set twice over and the second box is mostly cards already owned.",
+          "Buy the case if the job is sealed Paradise Dragona in volume. At $1,065.40 for twelve boxes the case divides to $88.78 a box, $2.96 a pack, and $0.59 a card, and it saves $375.20 against twelve singles at $1,440.60, or $31.27 a box. That saving is 26.05 percent of the twelve-box cost, and it is $73.70 more than the Mask of Change case saves. A case splitter works from the same division: $88.78 a box is the floor for every box that leaves the case, and $88.78 is $24.89 below the TCGplayer box price of $113.67.",
+          "Do not buy the box to pull Latias ex. The Latias ex Special Art Rare is $159.33 on TCGplayer, dated November 13, 2026, which is 132.72 percent of one box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. The top three cards together, Latias ex at $159.33, Lisia's Appeal at $79.77, and Alolan Exeggutor ex at $23.46, are worth $262.56, or 2.19 boxes, and the complete set is $372.57, or 3.10 boxes. Buy the single for any named card, buy the box for the opening, and buy the case for the sealed shelf."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one fall, one saving",
+        "math": [
+          "SV7a box per pack: $120.05 ÷ 30 packs = $4.00 per pack",
+          "SV7a box per card: $120.05 ÷ 150 cards = $0.80 per card",
+          "SV7a case per box: $1,065.40 ÷ 12 boxes = $88.78 per box",
+          "SV7a case per pack: $1,065.40 ÷ 360 packs = $2.96 per pack",
+          "SV7a case per card: $1,065.40 ÷ 1,800 cards = $0.59 per card",
+          "SV7a twelve single boxes: (12 × $120.05) − $1,065.40 = $375.20",
+          "SV7a case saving: $1,440.60 − $1,065.40 = $375.20",
+          "SV7a case saving per box: $375.20 ÷ 12 boxes = $31.27 per box",
+          "SV7a case saving percent: $375.20 ÷ $1,440.60 = 26.04%",
+          "SV7a box fall since November 8, 2026: $141.24 − $120.05 = $21.19",
+          "SV7a case fall since November 8, 2026: $1,253.41 − $1,065.40 = $188.01",
+          "SV7a box fall percent: $21.19 ÷ $141.24 = 15.00%",
+          "SV7a MSRP in dollars: 5,400 yen ÷ 159.8 yen = $33.79",
+          "SV7a Latias SAR vs box: $159.33 ÷ $120.05 = 132.72%",
+          "SV7a box vs Latias SAR: $120.05 ÷ $159.33 = 0.75",
+          "SV7a complete set vs box: $372.57 ÷ $120.05 = 3.10",
+          "SV7a top three: $159.33 + $79.77 + $23.46 = $262.56",
+          "SV7a top three vs box: $262.56 ÷ $120.05 = 2.19",
+          "SV7a top five: $262.56 + $12.38 + $11.93 = $286.87",
+          "SV7a top five vs box: $286.87 ÷ $120.05 = 2.39",
+          "SV7a box vs TCGplayer box: $120.05 − $113.67 = $6.38",
+          "SV7a case box vs TCGplayer box: $113.67 − $88.78 = $24.89",
+          "SV7a box vs MSRP: $120.05 − $33.79 = $86.26",
+          "SV7a box divided by MSRP: $120.05 ÷ $33.79 = 3.55",
+          "SV7a English Latias gap: $170.00 − $159.33 = $10.67",
+          "SV7a Latias SAR vs set: $159.33 ÷ $372.57 = 42.77%",
+          "SV7a box vs SV7 box: $120.05 − $77.87 = $42.18",
+          "SV7a box vs SV6 box: $120.05 − $94.74 = $25.31",
+          "SV7a case vs SV6 case: $1,065.40 − $835.38 = $230.02",
+          "SV7a case saving vs SV6: $375.20 − $301.50 = $73.70",
+          "SV7a two boxes: $120.05 + $120.05 = $240.10",
+          "SV7a set minus two boxes: $372.57 − $240.10 = $132.47"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 14, 2026, with 30 packs per box, 5 cards per pack, 150 cards per box, and a 12-box case. The currency rate used is 159.8 yen to the dollar, checked on November 14, 2026, so an official Japanese box at 30 packs times 180 yen is 5,400 yen, or $33.79.",
+          "The fall is the story of this set, and it fell in one leg, on one day. On November 8, 2026 this shelf held the SV7a box at $141.24 and the case at $1,253.41. On November 14 the box is $120.05, down fifteen percent, and the case is $1,065.40, down fifteen percent, the same uniform repricing that cut the whole shelf on November 13, 2026. The fall did not change the verdict: the case saved $441.47 before it and saves $375.20 after it, because both the box and the case fell fifteen percent.",
+          "The market sits below this shelf on the box and above it on the case-split box. The TCGplayer box price is $113.67, which puts our box $6.38 above it, and our case-split box $24.89 below it, which is the rare case where the case is the cheapest sealed Paradise Dragona anywhere we could price. Those prices are before shipping, fees, and import costs, and the Warehouse price is a landed price, but the gap is real. The set value is the other half of the story: $372.57 on November 13, 2026, with the top five cards holding 77 percent of it, so the set is a two-card set with 89 cards riding along. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this box against every other Japanese box on the shelf at the same live prices."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The Stella Miracle box at $77.87 is the cheaper way into a 30-pack box, $42.18 less per box, and the M3 box at $60.03 is $60.02 less, and neither carries a chase card worth more than its own box, which is why Paradise Dragona is the better chase set and the dearer opener at once. And the Latias ex Special Art Rare at $159.33 costs 132.72 percent of a box, which is why no box is a route to it.",
+          "The case row is the row that decides this set, and it decides it twice. First, $88.78 a box is the cheapest sealed Paradise Dragona on any price we could check, $24.89 below the TCGplayer box. Second, the case saving of $375.20 is 26.05 percent of twelve singles, $73.70 more than the Mask of Change case saves. The box row is the row for the opener: $4.00 a pack is the dearest per-pack price on the shelf, and the set behind it is the one that feeds Surging Sparks, which is why the box costs what it costs."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Cheaper 30-pack box SV7 (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$120.05",
+              "$88.78 a box inside the case",
+              "$77.87",
+              "Latias ex SAR $159.33"
+            ],
+            [
+              "Price per pack",
+              "$4.00",
+              "$2.96",
+              "$2.60",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.80",
+              "$0.59",
+              "$0.52",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "The cheaper opener, weaker chase",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the Paradise Dragona set",
+              "Sealed holding and splitting",
+              "Opening a 30-pack box cheaper",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the single that costs more than the box",
+        "note": "From the Warehouse: what the shelf shows this week is a two-card set at a falling price. Latias ex alone is 42.77 percent of the set value, the case now splits below the TCGplayer box price, and the English Latias costs $10.67 more than the Japanese one. Buy the Japanese set for the set, buy the single for the card, and never pay a box price for a card that costs more than the box.",
+        "paragraphs": [
+          "The top guides for this set all answer the same question, which cards are in it, and none of them answers the question that decides the buy. The card lists run the 94 cards in number order with their prices. The set-order guides place Paradise Dragona between Stella Miracle and Super Electric Breaker and name it an enhanced expansion. None of them divides a case into a per-box price, none of them compares the shelf box to the TCGplayer box, and none of them says plainly that the best card in the set costs more than the box itself.",
+          "That last fact is the one that costs buyers money. Latias ex at $159.33 is 132.72 percent of a $120.05 box, which means the single costs $39.28 more than the box that might hold it, and the box can hold zero Special Art Rares. A buyer who opens boxes to pull Latias is paying $120.05 for a chance at a card that costs $159.33 to buy outright, and the chance is not a promise. The division is the guide: box divided by 30 is the per-pack price, case divided by 12 is the per-box price, and the single divided by the box is the test of whether opening is ever the route to the card."
+        ]
+      },
+      {
+        "h": "The risk layer: the two-card set, the fallen chase, and the English overlap",
+        "paragraphs": [
+          "The first risk is the two-card set. The complete set is $372.57, and the top five cards hold 77 percent of it, with Latias ex alone holding 42.77 percent. 84 of its 94 cards are under $5, so most of what a box opens is bulk, and the second card, Lisia's Appeal at $79.77, is the only other card above $24. A box that opens no Special Art Rare returns a pile of cards worth a few dollars each, and the Pokemon Company publishes no pull rates, so no box promises a SAR at all. The recovery is the single: the two best cards together are $239.10, and buying the five best singles at $286.87 costs less than two and a half boxes.",
+          "The second risk is the fallen chase. The box fell fifteen percent in six days, from $141.24 to $120.05, and a buyer who paid the November 8 price holds a box worth $21.19 less a week later. The fall was uniform across the shelf, which means it was a repricing, not a verdict on this set, and the case fell by the same fifteen percent, so the saving survived the fall. The [Stella Miracle box](/blog/is-sv7-worth-buying/) fell by the same fifteen percent on the same day, from $91.61 to $77.87, so the two neighbours share the fall as well as the shelf. The recovery is the case-split floor: at $88.78 a box inside the case, the buyer who splits is $31.27 a box ahead of the single-box buyer, and the sealed holder who waits is holding the cheapest sealed Paradise Dragona we could price.",
+          "The third risk is the English overlap. Surging Sparks, the English set built from Paradise Dragona and Super Electric Breaker, released November 8, 2024, and its Latias ex Special Illustration Rare carries a $170 raw reference price, $10.67 more than the Japanese SAR at $159.33. A buyer who plays in English events cannot play Japanese cards there, and a buyer who collects English should compare the two before paying for the Japanese box. The recovery is the same as everywhere else on this shelf: buy the language you play, buy the single for the card, and let the box be the opening, not the investment."
+        ]
+      },
+      {
+        "h": "Context: 94 cards, the enhanced expansion, and the English twin",
+        "paragraphs": [
+          "Paradise Dragona, set code SV7a, released in Japan on September 13, 2024, as a 64-card base set followed by a 30-card secret block, for 94 cards in total. The secret block breaks into 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. Each pack holds 5 cards at 180 yen, and the box MSRP is 5,400 yen, or $33.79 at 159.8 yen to the dollar. The set is an enhanced expansion, the smaller companion release between two main numbered sets, and it carries the Stellar Tera mechanic forward from Stella Miracle with Latias ex and Latios as its twin chase, plus the ACE SPEC cards that Standard players still run.",
+          "The English twin is Surging Sparks, released November 8, 2024, built from Paradise Dragona and [Super Electric Breaker](/blog/sv8-super-electric-breaker-buyers-guide/) together. The two are a market relationship, not a card-for-card match: the English set folds the Japanese cards into a larger list with its own numbering, so the Japanese Latias ex SAR at $159.33 and the English Latias ex Special Illustration Rare at $170 raw are the same Pokemon at two different prices in two different markets. The cards carry the H regulation mark, which is still Standard-legal in the 2026 format after the April 10, 2026 rotation removed the G mark, so the box is a play purchase too, for the player who plays in Japanese events. For the price-and-math companion, the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) runs the November 8 prices side by side."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants the box to pay for itself, because the dearest card is 132.72 percent of a box and the complete set is 3.10 boxes. It is not for the buyer who wants the cheapest sealed Pokemon on the shelf, because Stella Miracle costs $2.60 a pack and M3 costs $2.00 a pack against this set's $4.00. It is not for the buyer who plays in English events, because Japanese cards are not legal there, and it is not for the buyer who wants a rising set, because this one is a two-card set whose box fell fifteen percent in six days. If any of those is the job, the single, the cheaper box, or the English twin is the better buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV7a is the case at $1,065.40, $88.78 a box, not twelve singles at $1,440.60; the single box is $120.05.",
+          "If the job is one card, buy the single. The Latias ex Special Art Rare is $159.33, which is more than the box. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $372.57 is 3.10 boxes, and two boxes at $240.10 cost $132.47 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Paradise Dragona $120.05 plus Stella Miracle $77.87 is $197.92, the September and July 2024 sets that built Surging Sparks and Stellar Crown."
+        ],
+        "h": "Action layer: the SV7a buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the buy decides itself. The division comes first, because every other number on this page hangs off it, and the regulation mark comes with it, because a box that cannot be played is a different purchase from one that can. The case is the cheapest sealed route, the single is the cheapest named-card route, and the box is the opening route, and no buyer needs more than one of the three.",
+          "The last check is the date. Every price here is stamped November 14, 2026, and the shelf repriced fifteen percent on November 13, so a price quoted without a date is a price from a different shelf. Check the live shelf before you pay, divide again, and buy the route the division points to."
+        ]
+      }
+    ],
+    "slug": "is-sv7a-worth-buying",
+    "takeaway": [
+      "The SV7a box at $120.05 is $4.00 a pack and $0.80 a card, $86.26 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $1,065.40 divides to $88.78 a box, $375.20 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
+      "It is worth buying as the Paradise Dragona set to open, sealed, and it is not worth buying as a way to own the Latias ex Special Art Rare or to make the money back by opening. Latias ex sat at $159.33 on TCGplayer on November 13, 2026, which is 132.72 percent of a box, and the top three cards together sat at $262.56, which is 2.19 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $21.19 in six days, from $141.24 to $120.05, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,253.41 to $1,065.40, which did not change the verdict, because the case saved money before the fall and saves $375.20 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of November 13 to November 14, 2026. The box now sits $42.18 above the cheapest 30-pack box on the shelf, Stella Miracle at $77.87, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV7 Stella Miracle worth buying guide](/blog/is-sv7-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 52.01 percent of a box and the case saves $167.31."
+    ]
+  },
   "japanese-booster-box-price": {
     "datePublished": "2026-11-09",
     "faqs": [
@@ -40335,7 +40697,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Stella Miracle is a $91.61 box that divides to $3.05 a pack, with a $75.21-a-box case behind it. The top card is under half a box, so the box is a purchase, not an investment. The [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the companion set at $141.24 a box, $49.63 more.",
       "The set's value is a wall of six SARs holding 60.8 percent of the $231.46 set value, and 126 of 135 cards are under $5. If the goal is Dachsbun ex SAR, the single at $40.52 beats the box. The [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same comparison for every set on the shelf.",
-      "Still deciding between the Japanese box and the English twin? The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers print, price, and legality, and the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the set that came six months before this one at $88.27 a box."
+      "Still deciding between the Japanese box and the English twin? The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers print, price, and legality, and the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the set that came six months before this one at $88.27 a box. For the November 14 verdict on the same prices, the [is SV7 Stella Miracle worth buying guide](/blog/is-sv7-worth-buying/) runs the box, the case, and the single side by side after the fifteen percent fall."
     ]
   },
   "sv7a-paradise-dragona-buyers-guide": {
@@ -40520,7 +40882,7 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Terastal Festival ex guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the other High Class Pack the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) prices the set that shares SV7a's $141.24 box price, box $141.24 against a case that saves $518.70, with the Mew ex SAR at $272.15 on its own.",
       "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles.",
-      "New this cycle: the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the main set that came two months before Paradise Dragona at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles."
+      "New this cycle: the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the main set that came two months before Paradise Dragona at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles. For the November 14 verdict on the same prices, the [is SV7a Paradise Dragona worth buying guide](/blog/is-sv7a-worth-buying/) runs the box, the case, and the single side by side after the fifteen percent fall."
     ]
   },
   "sv8-super-electric-breaker-buyers-guide": {
