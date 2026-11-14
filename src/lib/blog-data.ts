@@ -25398,6 +25398,360 @@ export const POSTS: Record<string, BlogPost> = {
       "For the price-and-math companion, the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV4a Shiny Treasure ex worth buying guide](/blog/is-sv4a-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 4.14 boxes and the cards are out of Standard."
     ]
   },
+  "is-sv5k-worth-buying": {
+    "datePublished": "2026-11-14",
+    "faqs": [
+      {
+        "a": "Yes, the box, and yes, the case. The box is $90.98, $3.03 a pack and $0.61 a card, and the case is $894.79, which divides to $74.57 a box, $196.97 less than twelve singles at $1,091.76. The chase is the Raging Bolt ex Special Art Rare at $54.21, which costs 59.58 percent of a box and holds 14.87 percent of the complete set's $364.66 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so the box is a play purchase as well as a sealed one.",
+        "q": "Is SV5K Wild Force worth buying in 2026?"
+      },
+      {
+        "a": "Yes. The case costs $894.79 for 12 boxes, which divides to $74.57 a box, $16.41 less per box than the single box at $90.98, so the case saves $196.97 against twelve singles at $1,091.76. It is the biggest case saving on the January-twin shelf, $21.41 more than the Cyber Judge case saving of $175.56. Buy the case, never twelve singles.",
+        "q": "Is the SV5K sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Raging Bolt ex Special Art Rare is $54.21 on TCGplayer on November 12, 2026, which is 59.58 percent of a box, and the complete set is $364.66, which is 4.01 boxes. The box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV5K box to pull the Raging Bolt ex Special Art Rare?"
+      }
+    ],
+    "h1": "Is SV5K Wild Force Worth Buying?",
+    "intro": [
+      "Short answer: yes for the box, yes for the case, and no for chasing the Raging Bolt in packs. The [SV5K Wild Force booster box](/product/sv5k-wild-force-booster-box-japanese-pokemon-card/) is $90.98 on this shelf, $3.03 a pack and $0.61 a card, and the [sealed case](/product/sv5k-wild-force-sealed-case-12-boxes-japanese-pokemon-card/) is $894.79, $74.57 a box, saving $196.97 against twelve singles. The chase is the Raging Bolt ex Special Art Rare at $54.21, which costs 59.58 percent of one box and holds 14.87 percent of the complete set's $364.66 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set, the play, or the Ancient trio, and never to pull one named card.",
+      "This guide answers for three buyers: the collector opening the Ancient set in Japanese, the Standard player who can still play these cards, and the sealed holder weighing a case that saves nearly two hundred dollars. It is not for the single-card chaser, because the Raging Bolt single costs less than six tenths of a box, or for the buyer who wants the box to pay for itself: the top two cards together are worth 1.19 boxes. The market figures in it are dated, because they move, and the shelf figures are from this store on November 14, 2026."
+    ],
+    "metaDescription": "SV5K Wild Force: box $90.98 after a 15% fall, case saves $196.97, and Raging Bolt ex SAR at $54.21 is 59.58% of a box. H-mark legal.",
+    "metaTitle": "Is SV5K Wild Force Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box, yes for the case, no for chasing the Raging Bolt in packs",
+        "paragraphs": [
+          "Buy the box if the job is opening the Wild Force set. At $90.98 it is $18.76 above the cheapest 30-pack box on the shelf, [SV9 Battle Partners](/blog/sv9-battle-partners-buyers-guide/) at $72.22, and $30.95 above [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) at $60.03, the cheapest box per pack at $2.00. It is $3.74 above the [SV3a Raging Surf box](/product/sv3a-raging-surf-booster-box-japanese-pokemon-card/) at $87.24 and $10.31 above the [SV2P Snow Hazard box](/product/sv2p-snow-hazard-booster-box-japanese-pokemon-card/) at $80.67, and $90.06 below [SV10 Glory of Team Rocket](/blog/sv10-glory-of-team-rocket-buyers-guide/) at $181.04. Thirty packs of five cards give 150 cards for $3.03 a pack from a 100-card set, so one box covers the main set once over and the second box is mostly cards already owned.",
+          "Buy the case if the job is sealed Wild Force in volume. At $894.79 for twelve boxes the case divides to $74.57 a box, $2.49 a pack, and $0.50 a card, and it saves $196.97 against twelve singles at $1,091.76, or $16.41 a box. That saving is the biggest on the January-twin shelf: the [Cyber Judge case](/blog/sv5m-cyber-judge-buyers-guide/) saves $175.56, so Wild Force saves $21.41 more, and the [Future Flash case](/blog/sv4m-future-flash-buyers-guide/) saves $150.27. A case splitter works from the same division: $74.57 a box is the floor for every box that leaves the case.",
+          "Do not buy the box to pull the Raging Bolt. The Raging Bolt ex Special Art Rare is $54.21 on TCGplayer, dated November 12, 2026, which is 59.58 percent of one box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. The top two cards together, Raging Bolt ex at $54.21 and Morty's Confidence at $54.03, are worth $108.24, or 1.19 boxes, and the complete set is $364.66, or 4.01 boxes. Buy the single for any named card, buy the box for the opening, and buy the case for the sealed shelf."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one fall, one saving",
+        "math": [
+          "SV5K box per pack: $90.98 ÷ 30 packs = $3.03 per pack",
+          "SV5K box per card: $90.98 ÷ 150 cards = $0.61 per card",
+          "SV5K case per box: $894.79 ÷ 12 boxes = $74.57 per box",
+          "SV5K case per pack: $894.79 ÷ 360 packs = $2.49 per pack",
+          "SV5K case per card: $894.79 ÷ 1,800 cards = $0.50 per card",
+          "SV5K twelve single boxes: (12 × $90.98) − $894.79 = $196.97",
+          "SV5K case saving: $1,091.76 − $894.79 = $196.97",
+          "SV5K case saving per box: $196.97 ÷ 12 = $16.41 per box",
+          "SV5K box fall since November 9, 2026: $107.04 − $90.98 = $16.06",
+          "SV5K case fall since November 9, 2026: $1,052.69 − $894.79 = $157.90",
+          "SV5K box fall percent: $16.06 ÷ $107.04 = 15.00%",
+          "SV5K MSRP in dollars: 5,400 yen ÷ 159.8 yen = $33.79",
+          "SV5K Raging Bolt ex SAR vs box: $54.21 ÷ $90.98 = 59.58%",
+          "SV5K box vs Raging Bolt ex SAR: $90.98 ÷ $54.21 = 1.68",
+          "SV5K complete set vs box: $364.66 ÷ $90.98 = 4.01",
+          "SV5K top two cards vs box: $108.24 ÷ $90.98 = 1.19",
+          "SV5K top five cards: $54.21 + $54.03 + $40.38 + $34.91 + $30.21 = $213.74",
+          "SV5K top five vs box: $213.74 ÷ $90.98 = 2.35",
+          "SV5K box vs TCGplayer box: $102.98 − $90.98 = $12.00",
+          "SV5K case vs twelve TCGplayer boxes: (12 × $102.98) − $894.79 = $340.97",
+          "SV5K box vs SV5M box: $90.98 − $75.03 = $15.95",
+          "SV5K case vs SV5M case: $894.79 − $724.80 = $169.99",
+          "SV5K case saving vs SV5M: $196.97 − $175.56 = $21.41",
+          "SV5K case per box vs SV5M: $74.57 − $60.40 = $14.17",
+          "SV5K SNKRDUNK box ask in dollars: 10,399 yen ÷ 159.8 yen = $65.08",
+          "SV5K top three beast SARs as asks: 13,900 yen ÷ 159.8 yen = $86.98"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 14, 2026, with 30 packs per box, 5 cards per pack, 150 cards per box, and a 12-box case. The currency rate used is 159.8 yen to the dollar, checked on November 14, 2026, so an official Japanese box at 30 packs times 180 yen is 5,400 yen, or $33.79.",
+          "The fall is the story of this set, and it fell in one leg, on one day. On November 9, 2026 this shelf held the SV5K box at $107.04 and the case at $1,052.69. On November 14 the box is $90.98, down fifteen percent, and the case is $894.79, down fifteen percent, the same uniform repricing that cut the whole shelf on November 13, 2026. The fall did not change the verdict: the case saved $231.79 before it and saves $196.97 after it, because both the box and the case fell fifteen percent.",
+          "The market sits above this shelf on the box and far above it on the case. A Wild Force box carries a $102.98 TCGplayer market price on November 12, 2026, so our box is $12.00 below it, and twelve TCGplayer boxes cost $1,235.76, so our case beats that by $340.97. Japan-direct asks sit below it: the lowest SNKRDUNK ask was 10,399 yen, or $65.08, on September 24, 2026, and the Samurai Sword Tokyo sealed listing was 11,182 yen, or $69.97, on October 7, 2026. That puts our box $21.01 above the Samurai Sword Tokyo sealed listing and $25.90 above the lowest SNKRDUNK ask. Those prices are before shipping, fees, and import costs, and the Warehouse price is a landed price, but the gap is real."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The SV9 box at $72.22 is the cheaper way into a 30-pack box, $18.76 less per box, and the M3 box at $60.03 is $30.95 less, and neither carries a chase card worth six tenths of a box, which is why Wild Force is the better chase set and the dearer opener at once. And the Raging Bolt ex Special Art Rare at $54.21 costs 59.58 percent of a box, which is why no box is a route to it.",
+          "The case row is the row that decides this set, and it decides for the case. At $74.57 a box inside the case, the sealed case is the cheapest sealed Wild Force on this shelf by $16.41 a box, and it saves $196.97 against twelve singles. The twin row is the fork: the [Cyber Judge box](/blog/is-sv5m-worth-buying/) is $75.03, $15.95 cheaper, and its case is $724.80, $169.99 cheaper, so a buyer who wants one sealed box should buy the twin and keep the difference, unless the Raging Bolt chase is worth $15.95 a box to them."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Cheaper 30-pack box SV9 (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$90.98",
+              "$74.57 a box inside the case",
+              "$72.22",
+              "Raging Bolt ex SAR $54.21"
+            ],
+            [
+              "Price per pack",
+              "$3.03",
+              "$2.49",
+              "$2.41",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.61",
+              "$0.50",
+              "$0.48",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "The cheaper opener, weaker chase",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the Wild Force set",
+              "Sealed holding and splitting",
+              "Opening a 30-pack box cheaper",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the division, the fall, and the twin fork",
+        "note": "From the Warehouse: the question we get most about the January twins is whether the dearer box is the better box, and the answer in chat is the one on this page. Wild Force costs $15.95 more a box than Cyber Judge, but its case saves $21.41 more, so the dearer box is the better case deal and the cheaper box is the better single-box buy. The fork is a price question with a chase answer, and the shelf holds both sides of it.",
+        "paragraphs": [
+          "The top results for SV5K cover the card list, the chase cards, and the complete set, and they cover them well. The Samurai Sword Tokyo guide, updated September 24, 2026, gives a verdict by buyer type and a top-ten table, but it uses SNKRDUNK asks and its own PSA 10 back-order listings, not TCGplayer market prices for the Japanese prints, and it never divides a live store price. Sparkl's card list prices the complete set at $364.66 from TCGplayer market prices on November 12, 2026, and names the Raging Bolt ex at $54.21. What none of them does is answer whether the box is worth buying, because none of them prices a box at all.",
+          "That is the opening this page takes. No top result divides the live box price into a per-pack or per-card cost, divides the case into a per-box price, or runs the case against twelve singles to find the $196.97 saving. No result tests the complete set against the sealed cost, gives a who-should-not-buy verdict tied to a real shelf price, or prices the Japanese chase singles with dated TCGplayer figures. This page owns all five, because the Warehouse shelf is the only source that holds the box, the case, and the twin at the same time.",
+          "Two source traps needed settling first. A Korean guide lists the secret split as 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 2 Ultra Rares, but three Ultra Rares are confirmed by number, Gouging Fire ex 098/071, Walking Wake ex 099/071, and Raging Bolt ex 100/071, so the split used here is 12, 9, 5, and 3. And the Japanese card is Morty's Confidence, the English print Morty's Conviction, so never quote an English price as the Japanese one."
+        ]
+      },
+      {
+        "h": "The risk layer: the two-card top, the English parity, and the reprint",
+        "paragraphs": [
+          "The first risk is the concentration. The Raging Bolt at $54.21 is 14.87 percent of the complete set value of $364.66, and the top two together are $108.24, or 29.68 percent of the set, so two cards carry nearly three tenths of the set. A box that misses the Raging Bolt and the five Special Art Rares holds a Gengar ex Super Rare at $40.38, a Gastly Art Rare at $28.06, and mostly cards under five dollars: 84 of the 100 cards are under $5 on TCGplayer.",
+          "The second risk is the English parity, and it cuts both ways. The English Raging Bolt ex Special Illustration Rare carried a $55.65 TCGplayer market price on November 12, 2026, $1.44 more than the Japanese Special Art Rare at $54.21. That is the rare case where the Japanese chase is cheaper than its English twin, and one more reason to buy the Japanese single before the box. But the English twin, Temporal Forces, is the playable version: Japanese prints are not legal at sanctioned English-region Standard events, so the box is a collector's product and a sealed product, not a deck-building one.",
+          "The third risk is the reprint, and it is not yet announced. The set is nearly three years old, released January 26, 2024, and the buy-at-retail window is long gone: the box left Japan at 5,400 yen, or $33.79, and now trades at $90.98 on this shelf and $102.98 on TCGplayer. No reprint has been announced for Wild Force, but the mechanism is real, and a reprint kills a scarcity premium in weeks. The dated warning is the Destined Rivals Elite Trainer Box: near $280 in April 2026, halved to $120.56 by August 23, 2026 once reprint stock reached retail."
+        ]
+      },
+      {
+        "h": "Context: 100 cards, the Ancient trio, and the English twin",
+        "paragraphs": [
+          "The set is the Ancient set, and that explains its shape. Wild Force came out in Japan on January 26, 2024, as the Ancient half of a same-day pair with [Cyber Judge](/blog/sv5m-cyber-judge-buyers-guide/), and the two sets split the Paradox Pokemon between them the same way earlier Scarlet and Violet pairs did. It prints 100 cards: a 71-card base set and a 29-card secret block of 12 Art Rares, 9 Super Rares, 5 Special Art Rares, and 3 Ultra Rares, at 180 yen a pack for five cards, with 30 packs in a box. One box holds 150 cards, so one box gives the main set twice over and most of the secrets, and the second box is mostly cards you already own. The official Japanese price of a box is 5,400 yen, or $33.79 at 159.8 yen per dollar, and this shelf now charges 2.69 times that.",
+          "The chase is a trio, not a single card, and that is what sets Wild Force apart from its twin. Raging Bolt ex leads at $54.21, Walking Wake ex follows at $34.91, and Gouging Fire ex at $30.21, and the three together cost $119.33 as TCGplayer market prices, or 1.31 boxes. The ACE SPEC mechanic returns here with Neo Upper Energy and Awakening Drum, and neither is guaranteed in a box. The five Special Art Rares are Gouging Fire ex 093/071, Walking Wake ex 094/071, Raging Bolt ex 095/071, Eri 096/071, and Morty's Confidence 097/071, and the three Ultra Rares are the same three beasts again at 098, 099, and 100.",
+          "Both sets fold into the same English twin, Scarlet and Violet Temporal Forces, released March 22, 2024 with 218 cards. The English Raging Bolt ex Special Illustration Rare carried a $55.65 TCGplayer market price on November 12, 2026, against $54.21 for the Japanese Special Art Rare. That $1.44 gap in favour of the Japanese print is the rare case where the Japanese chase is cheaper, and the [Cyber Judge guide](/blog/is-sv5m-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 2.61 boxes and the top card is $28.75."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the case buyer who wants the cheapest sealed box per box on the shelf, because the Cyber Judge case at $60.40 a box undercuts the Wild Force case at $74.57 a box by $14.17, and no sealed buyer should pay a premium for a case without knowing it. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Raging Bolt ex Special Art Rare single at $54.21, which costs 59.58 percent of a box. It is not for the buyer who wants the box to pay for itself, because this set headlines two cards, not a spread, and the top two cards together are worth 1.19 boxes."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV5K is the case at $894.79, $74.57 a box, not twelve singles at $1,091.76; the single box is $90.98.",
+          "If the job is one card, buy the single. The Raging Bolt ex Special Art Rare is $54.21. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $364.66 is 4.01 boxes, and four boxes at $363.92 cost $0.74 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Wild Force $90.98 plus Cyber Judge $75.03 is $166.01, the Temporal Forces story in two boxes."
+        ],
+        "h": "Action layer: the SV5K buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Mark first: H is still Standard-legal, so the box is a collection purchase and a play purchase at once. Price second: check the shelf figure against the dated market figures in this guide, and if the box is still below the November 9 figure of $107.04, the fall is still on the shelf.",
+          "Then check the fork: the twin at $75.03 a box and $724.80 a case, and the chase single at $54.21. The next set in this series is the [Future Flash guide](/blog/sv4m-future-flash-buyers-guide/), the October 2023 twin-set opener, priced the same way."
+        ]
+      }
+    ],
+    "slug": "is-sv5k-worth-buying",
+    "takeaway": [
+      "The SV5K box at $90.98 is $3.03 a pack and $0.61 a card, $57.19 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $894.79 divides to $74.57 a box, $196.97 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
+      "It is worth buying as the Wild Force set to open, sealed, and it is not worth buying as a way to own the Raging Bolt ex Special Art Rare or to make the money back by opening. The Raging Bolt sat at $54.21 on TCGplayer on November 12, 2026, which is 59.58 percent of a box, and the Morty's Confidence Special Art Rare at $54.03 is 59.39 percent of a box. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $16.06 in five days, from $107.04 to $90.98, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,052.69 to $894.79, which did not change the verdict, because the case saved money before the fall and saves $196.97 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 24 to November 12, 2026. The box now sits $30.95 above the cheapest 30-pack box on the shelf, M3 Munikis Zero at $60.03, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV5M Cyber Judge worth buying guide](/blog/is-sv5m-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 2.61 boxes and the case saves $175.56."
+    ]
+  },
+  "is-sv5m-worth-buying": {
+    "datePublished": "2026-11-14",
+    "faqs": [
+      {
+        "a": "Yes, the box, and yes, the case. The box is $75.03, $2.50 a pack and $0.50 a card, and the case is $724.80, which divides to $60.40 a box, $175.56 less than twelve singles at $900.36. The chase is the Iron Crown ex Special Art Rare at $28.75, which costs 38.32 percent of a box and holds 12.68 percent of the complete set's $226.78 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so this is the cheaper playable box of the pair.",
+        "q": "Is SV5M Cyber Judge worth buying in 2026?"
+      },
+      {
+        "a": "Yes. The case costs $724.80 for 12 boxes, which divides to $60.40 a box, $14.63 less per box than the single box at $75.03, so the case saves $175.56 against twelve singles at $900.36. It is the second-biggest case saving on the January-twin shelf, $21.41 less than the Wild Force case saving of $196.97. Buy the case, never twelve singles.",
+        "q": "Is the SV5M sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Iron Crown ex Special Art Rare is $28.75 on TCGplayer on November 13, 2026, which is 38.32 percent of a box, and the complete set is $226.78, which is 3.02 boxes. The box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV5M box to pull the Iron Crown ex Special Art Rare?"
+      }
+    ],
+    "h1": "Is SV5M Cyber Judge Worth Buying?",
+    "intro": [
+      "Short answer: yes for the box, yes for the case, and no for chasing the Iron Crown in packs. The [SV5M Cyber Judge booster box](/product/sv5m-cyber-judge-booster-box-japanese-pokemon-card/) is $75.03 on this shelf, $2.50 a pack and $0.50 a card, and the [sealed case](/product/sv5m-cyber-judge-sealed-case-12-boxes-japanese-pokemon-card/) is $724.80, $60.40 a box, saving $175.56 against twelve singles. The chase is the Iron Crown ex Special Art Rare at $28.75, which costs 38.32 percent of one box and holds 12.68 percent of the complete set's $226.78 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set, the play, or the Future trio, and never to pull one named card.",
+      "This guide answers for three buyers: the collector opening the Future set in Japanese, the Standard player who can still play these cards, and the sealed holder weighing a case that saves more than a hundred and seventy dollars. It is not for the single-card chaser, because the Iron Crown single costs little more than a third of a box, or for the buyer who wants the box to pay for itself: the top five cards together are worth 1.43 boxes. The market figures in it are dated, because they move, and the shelf figures are from this store on November 14, 2026."
+    ],
+    "metaDescription": "SV5M Cyber Judge: box $75.03 after a 15% fall, case saves $175.56, and Iron Crown ex SAR at $28.75 is 38.32% of a box. H-mark legal.",
+    "metaTitle": "Is SV5M Cyber Judge Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box, yes for the case, no for chasing the Iron Crown in packs",
+        "paragraphs": [
+          "Buy the box if the job is opening the Cyber Judge set. At $75.03 it is $2.81 above the cheapest 30-pack box on the shelf, [SV9 Battle Partners](/blog/sv9-battle-partners-buyers-guide/) at $72.22, and $15.00 above [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) at $60.03, the cheapest box per pack at $2.00. It is $12.21 below the [SV3a Raging Surf box](/product/sv3a-raging-surf-booster-box-japanese-pokemon-card/) at $87.24 and $5.64 below the [SV2P Snow Hazard box](/product/sv2p-snow-hazard-booster-box-japanese-pokemon-card/) at $80.67, and it costs exactly the same as the [SV4M Future Flash box](/product/sv4m-future-flash-booster-box-japanese-pokemon-card/) at $75.03. Thirty packs of five cards give 150 cards for $2.50 a pack from a 100-card set, so one box covers the main set once over and the second box is mostly cards already owned.",
+          "Buy the case if the job is sealed Cyber Judge in volume. At $724.80 for twelve boxes the case divides to $60.40 a box, $2.01 a pack, and $0.40 a card, and it saves $175.56 against twelve singles at $900.36, or $14.63 a box. That saving beats both October twins: the [Future Flash case](/blog/sv4m-future-flash-buyers-guide/) saves $150.27, so Cyber Judge saves $25.29 more, and the [Ancient Roar case](/blog/sv4k-ancient-roar-buyers-guide/) saves $99.06. A case splitter works from the same division: $60.40 a box is the floor for every box that leaves the case.",
+          "Do not buy the box to pull the Iron Crown. The Iron Crown ex Special Art Rare is $28.75 on TCGplayer, dated November 13, 2026, which is 38.32 percent of one box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. The top five cards together, Iron Crown ex at $28.75, Bianca's Devotion at $27.98, Iron Leaves ex at $21.13, Deerling at $15.77, and Iron Boulder ex at $13.83, are worth $107.46, or 1.43 boxes, and the complete set is $226.78, or 3.02 boxes. Buy the single for any named card, buy the box for the opening, and buy the case for the sealed shelf."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one fall, one saving",
+        "math": [
+          "SV5M box per pack: $75.03 ÷ 30 packs = $2.50 per pack",
+          "SV5M box per card: $75.03 ÷ 150 cards = $0.50 per card",
+          "SV5M case per box: $724.80 ÷ 12 boxes = $60.40 per box",
+          "SV5M case per pack: $724.80 ÷ 360 packs = $2.01 per pack",
+          "SV5M case per card: $724.80 ÷ 1,800 cards = $0.40 per card",
+          "SV5M twelve single boxes: (12 × $75.03) − $724.80 = $175.56",
+          "SV5M case saving: $900.36 − $724.80 = $175.56",
+          "SV5M case saving per box: $175.56 ÷ 12 = $14.63 per box",
+          "SV5M box fall since November 9, 2026: $88.27 − $75.03 = $13.24",
+          "SV5M case fall since November 9, 2026: $852.71 − $724.80 = $127.91",
+          "SV5M box fall percent: $13.24 ÷ $88.27 = 15.00%",
+          "SV5M MSRP in dollars: 5,400 yen ÷ 159.8 yen = $33.79",
+          "SV5M Iron Crown ex SAR vs box: $28.75 ÷ $75.03 = 38.32%",
+          "SV5M box vs Iron Crown ex SAR: $75.03 ÷ $28.75 = 2.61",
+          "SV5M complete set vs box: $226.78 ÷ $75.03 = 3.02",
+          "SV5M three boxes vs complete set: $226.78 − $225.09 = $1.69",
+          "SV5M top five cards: $28.75 + $27.98 + $21.13 + $15.77 + $13.83 = $107.46",
+          "SV5M top five vs box: $107.46 ÷ $75.03 = 1.43",
+          "SV5M box vs TCGplayer box: $86.37 − $75.03 = $11.34",
+          "SV5M case vs twelve TCGplayer boxes: (12 × $86.37) − $724.80 = $311.64",
+          "SV5M box vs SV5K box: $90.98 − $75.03 = $15.95",
+          "SV5M case vs SV5K case: $894.79 − $724.80 = $169.99",
+          "SV5M case saving vs SV5K: $196.97 − $175.56 = $21.41",
+          "SV5M case per box vs SV5K: $74.57 − $60.40 = $14.17"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 14, 2026, with 30 packs per box, 5 cards per pack, 150 cards per box, and a 12-box case. The currency rate used is 159.8 yen to the dollar, checked on November 14, 2026, so an official Japanese box at 30 packs times 180 yen is 5,400 yen, or $33.79.",
+          "The fall is the story of this set, and it fell in one leg, on one day. On November 9, 2026 this shelf held the SV5M box at $88.27 and the case at $852.71. On November 14 the box is $75.03, down fifteen percent, and the case is $724.80, down fifteen percent, the same uniform repricing that cut the whole shelf on November 13, 2026. The fall did not change the verdict: the case saved $206.53 before it and saves $175.56 after it, because both the box and the case fell fifteen percent.",
+          "The market sits above this shelf on the box and far above it on the case. A Cyber Judge box carries a $86.37 TCGplayer market price on November 13, 2026, so our box is $11.34 below it, and twelve TCGplayer boxes cost $1,036.44, so our case beats that by $311.64. The set itself is drifting down: Sparkl records the complete set at $226.78 on November 13, 2026, down 5.3 percent over ninety days from $239.39 on August 15, 2026, and 86 of the 100 cards are under $5. The box fell fifteen percent in a day; the set fell five percent in three months. Both point the same way: buy the sealed product for the opening, not for the appreciation."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The SV9 box at $72.22 is the cheaper way into a 30-pack box, $2.81 less per box, and the M3 box at $60.03 is $15.00 less, and neither carries a chase card worth four tenths of a box, which is why Cyber Judge is the better chase set and the dearer opener at once. And the Iron Crown ex Special Art Rare at $28.75 costs 38.32 percent of a box, which is why no box is a route to it.",
+          "The case row is the row that decides this set, and it decides for the case. At $60.40 a box inside the case, the sealed case is the cheapest sealed Cyber Judge on this shelf by $14.63 a box, and it saves $175.56 against twelve singles. The twin row is the fork: the [Wild Force box](/blog/is-sv5k-worth-buying/) is $90.98, $15.95 dearer, and its case is $894.79, $169.99 dearer, so a buyer who wants one sealed box should buy this twin and keep the difference, unless the Raging Bolt chase is worth $15.95 a box to them."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Cheaper 30-pack box SV9 (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$75.03",
+              "$60.40 a box inside the case",
+              "$72.22",
+              "Iron Crown ex SAR $28.75"
+            ],
+            [
+              "Price per pack",
+              "$2.50",
+              "$2.01",
+              "$2.41",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.50",
+              "$0.40",
+              "$0.48",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "The cheaper opener, weaker chase",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the Cyber Judge set",
+              "Sealed holding and splitting",
+              "Opening a 30-pack box cheaper",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the twin trap, the SAR spread, and the drift",
+        "note": "From the Warehouse: the question we get most about Cyber Judge is whether it is the Miraidon set. It is not, not at the top. Miraidon appears once, as a $0.18 Rare, and the set's money sits in three Future Paradox ex and two Supporters. A guide that calls this the Miraidon set has read the English twin's marketing, not the Japanese card list.",
+        "paragraphs": [
+          "The top results for SV5M cover the card list, the chase cards, and the complete set, and they cover them well. Sparkl's card list prices the complete set at $226.78 from TCGplayer market prices on November 13, 2026, and names the Iron Crown ex at $28.75. The Samurai Sword Tokyo guide, updated September 2026, gives a verdict by buyer type and a chase breakdown, but it uses its own store listings and SNKRDUNK asks, not TCGplayer market prices for the Japanese prints, and it never divides a live store price. What none of them does is answer whether the box is worth buying, because none of them prices a box at all.",
+          "That is the opening this page takes. No top result divides the live box price into a per-pack or per-card cost, divides the case into a per-box price, or runs the case against twelve singles to find the $175.56 saving. No result tests the complete set against the sealed cost, gives a who-should-not-buy verdict tied to a real shelf price, or prices the Japanese chase singles with dated TCGplayer figures. This page owns all five, because the Warehouse shelf is the only source that holds the box, the case, and the twin at the same time.",
+          "One trap needed settling first. Search results often confuse the two January twins with the October twins, and the set codes look alike at a glance: SV5M is Cyber Judge, SV4M is Future Flash, and Iron Crown ex is a Cyber Judge card, not a Future Flash card. The prices in this guide are Cyber Judge prices only, dated November 13, 2026, and no figure is carried across the fork."
+        ]
+      },
+      {
+        "h": "The risk layer: concentration, drift, and the sealed-box traps",
+        "paragraphs": [
+          "The first risk is the concentration. The Iron Crown at $28.75 is 12.68 percent of the complete set value of $226.78, and the top five together are $107.46, or 47.38 percent of the set, so five cards carry nearly half of the set. A box that misses the Iron Crown and the five Special Art Rares holds a Deerling Art Rare at $15.77, a Sawsbuck Art Rare at $13.13, and mostly cards under five dollars: 86 of the 100 cards are under $5 on TCGplayer.",
+          "The second risk is the drift. The complete set fell 5.3 percent over ninety days, from $239.39 on August 15, 2026 to $226.78 on November 13, 2026, and the English Iron Crown ex Special Illustration Rare fell 16.6 percent in a month, from October 12 to November 12, 2026, to $42.39. A box bought to hold its value is a bet against that drift, and the drift has been winning. Buy the box to open it, not to watch it.",
+          "The third risk is the reprint, and it is not yet announced. The set is nearly three years old, released January 26, 2024, and the buy-at-retail window is long gone: the box left Japan at 5,400 yen, or $33.79, and now trades at $75.03 on this shelf and $86.37 on TCGplayer. No reprint has been announced for Cyber Judge, but the mechanism is real, and a reprint kills a scarcity premium in weeks. The dated warning is the Destined Rivals Elite Trainer Box: near $280 in April 2026, halved to $120.56 by August 23, 2026 once reprint stock reached retail."
+        ]
+      },
+      {
+        "h": "Context: 100 cards, the Future trio, and the English twin",
+        "paragraphs": [
+          "The set is the Future set, and that explains its shape. Cyber Judge came out in Japan on January 26, 2024, as the Future half of a same-day pair with [Wild Force](/blog/sv5k-wild-force-buyers-guide/), and the two sets split the Paradox Pokemon between them the same way earlier Scarlet and Violet pairs did. It prints 100 cards: a 71-card base set and a 29-card secret block of 12 Art Rares, 9 Super Rares, 5 Special Art Rares, and 3 Ultra Rares, at 180 yen a pack for five cards, with 30 packs in a box. One box holds 150 cards, so one box gives the main set twice over and most of the secrets, and the second box is mostly cards you already own. The official Japanese price of a box is 5,400 yen, or $33.79 at 159.8 yen per dollar, and this shelf now charges 2.22 times that.",
+          "The chase is spread, not stacked, and that is what sets Cyber Judge apart from its twin. Iron Crown ex leads at $28.75, Bianca's Devotion follows at $27.98, and Iron Leaves ex at $21.13, and the five best cards together cost $107.46, or 1.43 boxes. No single card in this set costs half a box, and the top card costs little more than a third of one. The ACE SPEC mechanic returns here with Prime Catcher, Reboot Pod, and Hero's Cape, and Hero's Cape at $3.94 is the dearest of the three. The five Special Art Rares are Iron Leaves ex 093/071, Iron Crown ex 094/071, Iron Boulder ex 095/071, Salvatore 096/071, and Bianca's Devotion 097/071, and the three Ultra Rares are the same three Future beasts again at 098, 099, and 100.",
+          "Both sets fold into the same English twin, Scarlet and Violet Temporal Forces, released March 22, 2024 with 218 cards. The English Iron Crown ex Special Illustration Rare carried a $42.39 TCGplayer market price on November 12, 2026, against $28.75 for the Japanese Special Art Rare. That $13.64 gap in favour of the Japanese print is the widest of the January twins, and the [Wild Force guide](/blog/is-sv5k-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 1.68 boxes and the case saves $196.97."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the case buyer who wants the biggest case saving on the shelf, because the Wild Force case saves $196.97, $21.41 more than the Cyber Judge case at $175.56, and no sealed buyer should pay a premium for a case without knowing it. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Iron Crown ex Special Art Rare single at $28.75, which costs 38.32 percent of a box. It is not for the buyer who wants the box to pay for itself, because this set headlines five cards, not a spread, and the top five cards together are worth 1.43 boxes."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV5M is the case at $724.80, $60.40 a box, not twelve singles at $900.36; the single box is $75.03.",
+          "If the job is one card, buy the single. The Iron Crown ex Special Art Rare is $28.75. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $226.78 is 3.02 boxes, and three boxes at $225.09 cost $1.69 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Cyber Judge $75.03 plus Wild Force $90.98 is $166.01, the Temporal Forces story in two boxes."
+        ],
+        "h": "Action layer: the SV5M buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Mark first: H is still Standard-legal, so the box is a collection purchase and a play purchase at once. Price second: check the shelf figure against the dated market figures in this guide, and if the box is still below the November 9 figure of $88.27, the fall is still on the shelf.",
+          "Then check the fork: the twin at $90.98 a box and $894.79 a case, and the chase single at $28.75. The next set in this series is the [Future Flash guide](/blog/sv4m-future-flash-buyers-guide/), the October 2023 twin-set opener, priced the same way."
+        ]
+      }
+    ],
+    "slug": "is-sv5m-worth-buying",
+    "takeaway": [
+      "The SV5M box at $75.03 is $2.50 a pack and $0.50 a card, $41.24 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $724.80 divides to $60.40 a box, $175.56 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
+      "It is worth buying as the Cyber Judge set to open, sealed, and it is not worth buying as a way to own the Iron Crown ex Special Art Rare or to make the money back by opening. The Iron Crown sat at $28.75 on TCGplayer on November 13, 2026, which is 38.32 percent of a box, and the Bianca's Devotion Special Art Rare at $27.98 is 37.29 percent of a box. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $13.24 in five days, from $88.27 to $75.03, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $852.71 to $724.80, which did not change the verdict, because the case saved money before the fall and saves $175.56 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 24 to November 13, 2026. The box now sits $15.00 above the cheapest 30-pack box on the shelf, M3 Munikis Zero at $60.03, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV5K Wild Force worth buying guide](/blog/is-sv5k-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 1.68 boxes and the case saves $196.97."
+    ]
+  },
   "japanese-booster-box-price": {
     "datePublished": "2026-11-09",
     "faqs": [
@@ -38918,7 +39272,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Raging Bolt ex SAR is $54.21, or 50.6 percent of a box, and the complete set is $366.71, or 3.43 boxes. Buy the single for the chase and the singles for the set.",
       "Cyber Judge is the cheaper twin: its box is $18.77 less and its case is $199.98 less, but the Wild Force case saves $25.26 more. Buy Wild Force for the case deal, Cyber Judge for the cheaper box.",
       "The set is 100 cards, released January 26, 2024, with no reprint announced. Buy sealed from a named shop, check the tear strip, and film the opening.",
-      "New this cycle: the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the Future twin at $88.27 a box, $2.94 a pack, with a case that saves $206.53 against twelve singles."
+      "New this cycle: the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the Future twin at $88.27 a box, $2.94 a pack, with a case that saves $206.53 against twelve singles.",
+      "Worth buying? The [is SV5K Wild Force worth buying guide](/blog/is-sv5k-worth-buying/) runs the November 14 verdict: box $90.98 after a fifteen percent fall, case $894.79 saving $196.97, and the Raging Bolt ex SAR at $54.21 is 59.58 percent of a box."
     ]
   },
   "sv5m-cyber-judge-buyers-guide": {
@@ -39082,7 +39437,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Cyber Judge is an $88.27 box that divides to $2.94 a pack, with a $71.06-a-box case behind it. The top card is a third of a box, so the box is a purchase, not an investment. The [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the Ancient twin at $107.04 a box, $18.77 more.",
       "The set's value is concentrated: five cards hold 48 percent of the $228.50 set value, and 86 of 100 cards are under $5. If the goal is Iron Crown ex SAR, the single at $29.78 beats the box. The [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same comparison for every set on the shelf.",
-      "Still deciding between the Japanese box and the English twin? The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers print, price, and legality, and the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the next set in the line at $91.61 a box."
+      "Still deciding between the Japanese box and the English twin? The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers print, price, and legality, and the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the next set in the line at $91.61 a box.",
+      "Worth buying? The [is SV5M Cyber Judge worth buying guide](/blog/is-sv5m-worth-buying/) runs the November 14 verdict: box $75.03 after a fifteen percent fall, case $724.80 saving $175.56, and the Iron Crown ex SAR at $28.75 is 38.32 percent of a box."
     ]
   },
   "sv6-mask-of-change-buyers-guide": {
