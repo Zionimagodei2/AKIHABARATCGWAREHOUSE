@@ -25752,6 +25752,362 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 24 to November 13, 2026. The box now sits $15.00 above the cheapest 30-pack box on the shelf, M3 Munikis Zero at $60.03, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV5K Wild Force worth buying guide](/blog/is-sv5k-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 1.68 boxes and the case saves $196.97."
     ]
   },
+  "is-sv6-worth-buying": {
+    "datePublished": "2026-11-14",
+    "faqs": [
+      {
+        "a": "Yes, the box, and yes, the case. The box is $94.74, $3.16 a pack and $0.63 a card, and the case is $835.38, which divides to $69.62 a box, $301.50 less than twelve singles at $1,136.88. The chase is the Carmine Special Art Rare at $87.83, which costs 92.71 percent of a box and holds 29.31 percent of the complete set's $299.67 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so the box is a play purchase as well as a sealed one.",
+        "q": "Is SV6 Mask of Change worth buying in 2026?"
+      },
+      {
+        "a": "Yes. The case costs $835.38 for 12 boxes, which divides to $69.62 a box, $25.13 less per box than the single box at $94.74, so the case saves $301.50 against twelve singles at $1,136.88. It saves $134.19 more than the Night Wanderer case saving of $167.31. Buy the case, never twelve singles.",
+        "q": "Is the SV6 sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Carmine Special Art Rare is $87.83 on TCGplayer on November 5, 2026, which is 92.71 percent of a box, and the complete set is $299.67, which is 3.16 boxes. The box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV6 box to pull the Carmine SAR?"
+      }
+    ],
+    "h1": "Is SV6 Mask of Change Worth Buying?",
+    "intro": [
+      "Short answer: yes for the box, yes for the case, and no for chasing Carmine in packs. The [SV6 Mask of Change booster box](/product/sv6-mask-of-change-booster-box-japanese-pokemon-card/) is $94.74 on this shelf, $3.16 a pack and $0.63 a card, and the [sealed case](/product/sv6-mask-of-change-sealed-case-12-boxes-japanese-pokemon-card/) is $835.38, $69.62 a box, saving $301.50 against twelve singles. The chase is the Carmine Special Art Rare at $87.83, which costs 92.71 percent of a box and holds 29.31 percent of the complete set's $299.67 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set, the play, or the Ogerpon masks, and never to pull one named card.",
+      "This guide answers for three buyers: the collector opening the Ogerpon set in Japanese, the Standard player who can still play these cards, and the sealed holder weighing a case that saves $301.50. It is not for the single-card chaser, because the Carmine single costs less than a box, or for the buyer who wants the box to pay for itself: the top card costs less than the box that might hold it. The market figures in it are dated, because they move, and the shelf figures are from this store on November 14, 2026."
+    ],
+    "metaDescription": "SV6 Mask of Change: box $94.74 after a 15% fall, case saves $301.50, and the Carmine SAR at $87.83 is 92.71% of a box. H-mark legal.",
+    "metaTitle": "Is SV6 Mask of Change Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box, yes for the case, no for chasing Carmine in packs",
+        "paragraphs": [
+          "Buy the box if the job is opening the Ogerpon set. At $94.74 it is $22.52 above the cheapest 30-pack box on the shelf, [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) at $72.22, and $34.71 above [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) at $60.03, the cheapest box per pack at $2.00. It is $7.50 above the [Raging Surf box](/product/sv3a-raging-surf-booster-box-japanese-pokemon-card/) at $87.24 and $14.07 above the [Snow Hazard box](/product/sv2p-snow-hazard-booster-box-japanese-pokemon-card/) at $80.67, and $86.30 below [Glory of Team Rocket](/blog/sv10-glory-of-team-rocket-buyers-guide/) at $181.04. Thirty packs of five cards give 150 cards for $3.16 a pack from a 133-card set, so one box covers the main set once over and the second box is mostly cards already owned.",
+          "Buy the case if the job is sealed Mask of Change in volume. At $835.38 for twelve boxes the case divides to $69.62 a box, $2.32 a pack, and $0.46 a card, and it saves $301.50 against twelve singles at $1,136.88, or $25.13 a box. That saving is 26.52 percent of the twelve-box cost, and it is $134.19 more than the [Night Wanderer case](/blog/is-sv6a-worth-buying/) saves, so the dearer box is the better case deal and the cheaper box is the better single-box buy. A case splitter works from the same division: $69.62 a box is the floor for every box that leaves the case.",
+          "Do not buy the box to pull Carmine. The Carmine Special Art Rare is $87.83 on TCGplayer, dated November 5, 2026, which is 92.71 percent of one box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. Carmine holds 29.31 percent of the complete set's $299.67 value, and the top card of the set costs less than the box that might hold it, which is the rare case where chasing the box loses money even if you pull the chase. Buy the single for any named card, buy the box for the opening, and buy the case for the sealed shelf."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one fall, one saving",
+        "math": [
+          "SV6 box per pack: $94.74 ÷ 30 packs = $3.16 per pack",
+          "SV6 box per card: $94.74 ÷ 150 cards = $0.63 per card",
+          "SV6 case per box: $835.38 ÷ 12 boxes = $69.62 per box",
+          "SV6 case per pack: $835.38 ÷ 360 packs = $2.32 per pack",
+          "SV6 case per card: $835.38 ÷ 1,800 cards = $0.46 per card",
+          "SV6 twelve single boxes: (12 × $94.74) − $835.38 = $301.50",
+          "SV6 case saving: $1,136.88 − $835.38 = $301.50",
+          "SV6 case saving per box: $301.50 ÷ 12 boxes = $25.13 per box",
+          "SV6 box fall since November 8, 2026: $111.46 − $94.74 = $16.72",
+          "SV6 case fall since November 8, 2026: $982.80 − $835.38 = $147.42",
+          "SV6 box fall percent: $16.72 ÷ $111.46 = 15.00%",
+          "SV6 MSRP in dollars: 5,400 yen ÷ 159.8 yen = $33.79",
+          "SV6 Carmine SAR vs box: $87.83 ÷ $94.74 = 92.71%",
+          "SV6 box vs Carmine SAR: $94.74 ÷ $87.83 = 1.08",
+          "SV6 complete set vs box: $299.67 ÷ $94.74 = 3.16",
+          "SV6 Carmine SAR vs case box: $87.83 ÷ $69.62 = 1.26",
+          "SV6 box vs Japan ask: $94.74 − $66.33 = $28.41",
+          "SV6 case box vs Japan ask: $69.62 − $66.33 = $3.29",
+          "SV6 box vs Tokyo listing: $94.74 − $71.27 = $23.47",
+          "SV6 case box vs Tokyo listing: $71.27 − $69.62 = $1.65",
+          "SV6 box vs SV6a box: $94.74 − $77.87 = $16.87",
+          "SV6 case vs SV6a case: $835.38 − $767.13 = $68.25",
+          "SV6 case saving vs SV6a: $301.50 − $167.31 = $134.19",
+          "SV6 box vs SV5a box: $94.74 − $90.98 = $3.76",
+          "SV6 Carmine JP vs EN: $87.83 − $41.00 = $46.83",
+          "SV6 box vs SV9 box: $94.74 − $72.22 = $22.52",
+          "SV6 SNKRDUNK box ask in dollars: 10,600 yen ÷ 159.8 yen = $66.33",
+          "SV6 Ogerpon ex UR ask in dollars: 6,500 yen ÷ 159.8 yen = $40.68",
+          "SV6 box vs SV3a box: $94.74 − $87.24 = $7.50"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 14, 2026, with 30 packs per box, 5 cards per pack, 150 cards per box, and a 12-box case. The currency rate used is 159.8 yen to the dollar, checked on November 14, 2026, so an official Japanese box at 30 packs times 180 yen is 5,400 yen, or $33.79.",
+          "The fall is the story of this set, and it fell in one leg, on one day. On November 8, 2026 this shelf held the SV6 box at $111.46 and the case at $982.80. On November 14 the box is $94.74, down fifteen percent, and the case is $835.38, down fifteen percent, the same uniform repricing that cut the whole shelf on November 13, 2026. The fall did not change the verdict: the case saved $354.72 before it and saves $301.50 after it, because both the box and the case fell fifteen percent.",
+          "The market sits below this shelf on the box and far below it on the case-split box. The lowest ask for a sealed SV6 box on SNKRDUNK was 10,600 yen, or $66.33, on September 30, 2026, and the Samurai Sword Tokyo sealed listing was 11,389 yen, or $71.27, on October 2, 2026. That puts our box $28.41 above the lowest ask and $23.47 above the Tokyo listing, and our case-split box $3.29 above the lowest ask and $1.65 below the Tokyo listing. Those prices are before shipping, fees, and import costs, and the Warehouse price is a landed price, but the gap is real."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The Battle Partners box at $72.22 is the cheaper way into a 30-pack box, $22.52 less per box, and the M3 box at $60.03 is $34.71 less, and neither carries a chase card worth nine tenths of a box, which is why Mask of Change is the better chase set and the dearer opener at once. And the Carmine Special Art Rare at $87.83 costs 92.71 percent of a box, which is why no box is a route to it.",
+          "The case row is the row that decides this set, and it decides for the case. At $69.62 a box inside the case, the sealed case is the cheapest sealed Mask of Change on this shelf by $25.13 a box, and it saves $301.50 against twelve singles. The twin row is the fork: the [Night Wanderer box](/blog/is-sv6a-worth-buying/) is $77.87, $16.87 cheaper, and its case is $767.13, $68.25 cheaper, so a buyer who wants one sealed box should buy the twin and keep the difference, unless the Carmine chase is worth $16.87 a box to them."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Cheaper 30-pack box SV9 (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$94.74",
+              "$69.62 a box inside the case",
+              "$72.22",
+              "Carmine SAR $87.83"
+            ],
+            [
+              "Price per pack",
+              "$3.16",
+              "$2.32",
+              "$2.41",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.63",
+              "$0.46",
+              "$0.48",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "The cheaper opener, weaker chase",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the Ogerpon set",
+              "Sealed holding and splitting",
+              "Opening a 30-pack box cheaper",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the division, the fall, and the Worlds deck",
+        "note": "From the Warehouse: what the shelf shows this week is the fall and the fork. Both SV6 products fell fifteen percent in one repricing, the case still saves $301.50, and the Carmine Special Art Rare still costs less than the box that might hold it. That is the whole verdict in three numbers, and it is why the box is an opener's buy and the case is a holder's buy.",
+        "paragraphs": [
+          "The top results for SV6 cover the card list, the chase cards, and the complete set, and they cover them well. The Guidesify top-ten prices the Carmine Special Art Rare and the Ogerpon prints from April 2024, the Samurai Sword Ogerpon guide prices the four masks with PSA 10 back orders, and the Samurai Sword Worlds guide names the winning deck. What none of them does is answer whether the box is worth buying, because none of them prices a box at all.",
+          "That is the opening this page takes. No top result divides the live box price into a per-pack or per-card cost, divides the case into a per-box price, or runs the case against twelve singles to find the $301.50 saving. No result tests the complete set against the sealed cost, gives a who-should-not-buy verdict tied to a real shelf price, or prices the Japanese chase single against its English twin with dated TCGplayer figures. This page owns all five, because the Warehouse shelf is the only source that holds the box, the case, and the twin at the same time. And one fact no top result carries at all: the winning deck at the 2026 World Championships ran Dragapult ex and Munkidori, and both cards come from this set, so the box that looks like a collector's product is also the home set of the world champion's attacker."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card top, the reprint, and the English overlap",
+        "paragraphs": [
+          "The first risk is the concentration. Carmine at $87.83 is 29.31 percent of the complete set value of $299.67, so one card carries nearly three tenths of the set. A box that misses Carmine and the six Special Art Rares holds a Dragapult ex Super Rare, a Teal Mask Ogerpon ex Super Rare, and mostly low-value cards, because the set prints 133 cards and only the secret block carries real value, so a box that misses the secrets is a box of bulk by price.",
+          "The second risk is the reprint, and it has already happened once. The four Ogerpon ex Special Art Rares were reprinted in Terastal Festival ex on December 6, 2024, as SAR 201, 204, 208, and 216, with new art, and the Teal Mask Ogerpon ex Ultra Rare was reprinted there too, as 234/187. A reprint gives every buyer a second route to the same art, and that is why the Ogerpon Special Art Rares trade below Carmine, who has no reprint. Our [Terastal Festival ex guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices the set that holds those reprints. No reprint of Carmine has been announced, but the mechanism is real, and a reprint kills a scarcity premium in weeks.",
+          "The third risk is the English overlap, and it cuts both ways. The same Carmine art exists in English as the 217/167 Special Illustration Rare in Twilight Masquerade, which carried a $41.00 TCGplayer market price on November 9, 2026, or $46.83 less than the Japanese Special Art Rare at $87.83. The English card is legal in English events while the Japanese single is not, so a player who buys SV6 for play has bought the wrong product. The fourth risk is the reseal: a box at 2.80 times its official price is worth faking, so check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is intact. Our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what a factory seal looks like and what a reseal looks like."
+        ]
+      },
+      {
+        "h": "Context: 133 cards, four masks, and the English twin",
+        "paragraphs": [
+          "The set is the Ogerpon set, and that explains its shape. Mask of Change came out in Japan on April 26, 2024, as an Expansion Pack built around Ogerpon, the Legendary Pokemon from the Teal Mask story, with four mask forms printed at every rarity the set has. It prints 133 cards: a 101-card base set and a 32-card secret block of 12 Art Rares, 11 Super Rares, 6 Special Art Rares, and 3 Ultra Rares, at 180 yen a pack for five cards, with 30 packs in a box. One box holds 150 cards, so one box gives the main set once over and most of the secrets, and the second box is mostly cards you already own. The official Japanese price of a box is 5,400 yen, or $33.79 at 159.8 yen per dollar, and this shelf now charges 2.80 times that. The set is 30 months old, so every sealed box left is secondary stock.",
+          "The chase is one trainer, not the four masks the set is named for, and that is what sets Mask of Change apart from its twin. Carmine leads at $87.83, the Teal Mask Ogerpon ex Ultra Rare follows at a $40.68 raw ask, and the four Ogerpon ex Special Art Rares sit below Carmine because Terastal Festival ex reprinted them. The set also prints Dragapult ex, Palafin ex, and Blissey ex, three ACE SPEC cards, and the Kitakami Trainers Carmine and Kieran. Both sets fold into the same English twin, Scarlet and Violet Twilight Masquerade, released May 24, 2024 with 226 cards, and the English set's most valuable card, the Greninja ex Special Illustration Rare at $233.36 on November 9, 2026, has no Special Art Rare print in the Japanese set at all. The [Crimson Haze guide](/blog/is-sv5a-worth-buying/) runs the same verdict on the set that shares the English twin, where the Greninja ex Special Art Rare at $229.18 costs 2.52 boxes and the case loses $15.99."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the case buyer who wants the cheapest sealed box per box on the shelf, because the Night Wanderer case at $63.93 a box undercuts the Mask of Change case at $69.62 a box by $5.69, and no sealed buyer should pay a premium for a case without knowing it. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Carmine Special Art Rare single at $87.83, which costs 92.71 percent of a box. It is not for the buyer who wants the box to pay for itself, because this set headlines one card, not a spread, and the top card costs less than the box that might hold it."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV6 is the case at $835.38, $69.62 a box, not twelve singles at $1,136.88; the single box is $94.74.",
+          "If the job is one card, buy the single. The Carmine Special Art Rare is $87.83. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $299.67 is 3.16 boxes, and three boxes at $284.22 cost $15.45 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Mask of Change $94.74 plus Night Wanderer $77.87 is $172.61, the Kitakami story in two boxes."
+        ],
+        "h": "Action layer: the SV6 buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Mark first: H is still Standard-legal, so the box is a collection purchase and a play purchase at once. Price second: check the shelf figure against the dated market figures in this guide, and if the box is still below the November 8 figure of $111.46, the fall is still on the shelf.",
+          "Then check the fork: the twin at $77.87 a box and $767.13 a case, and the chase single at $87.83. The next set in this series is the [Stella Miracle guide](/blog/sv7-stella-miracle-buyers-guide/), the July 2024 set that followed Night Wanderer, priced the same way."
+        ]
+      }
+    ],
+    "slug": "is-sv6-worth-buying",
+    "takeaway": [
+      "The SV6 box at $94.74 is $3.16 a pack and $0.63 a card, $60.95 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $835.38 divides to $69.62 a box, $301.50 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
+      "It is worth buying as the Mask of Change set to open, sealed, and it is not worth buying as a way to own the Carmine Special Art Rare or to make the money back by opening. Carmine sat at $87.83 on TCGplayer on November 5, 2026, which is 92.71 percent of a box, and the complete set sat at $299.67, which is 3.16 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $16.72 in six days, from $111.46 to $94.74, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $982.80 to $835.38, which did not change the verdict, because the case saved money before the fall and saves $301.50 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 30 to November 9, 2026. The box now sits $22.52 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV6a Night Wanderer worth buying guide](/blog/is-sv6a-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 28.01 percent of a box and the case saves $167.31."
+    ]
+  },
+  "is-sv6a-worth-buying": {
+    "datePublished": "2026-11-14",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Shrouded Fable set in Japanese and accept $2.60 a pack, which is $0.52 a card for 150 cards from a 94-card set. The case is the better sealed buy at $63.93 a box, saving $167.31 against twelve singles. For profit, no: no box guarantees a Special Art Rare, and the dearest card in the set, the Cassiopeia Special Art Rare, carries a $21.81 market price on its own, or 28.01 percent of a box, so even the best pull loses money against the box price. Open SV6a because you want the set, and buy the Cassiopeia single if it is the only card you want.",
+        "q": "Is SV6a Night Wanderer worth buying in 2026?"
+      },
+      {
+        "a": "Yes. The case costs $767.13 for 12 boxes, which divides to $63.93 a box, $13.94 less per box than the single box at $77.87, so the case saves $167.31 against twelve singles at $934.44. It is $7.44 cheaper per box than the Samurai Sword Tokyo sealed-box listing of $71.37 on October 7, 2026. Buy the case, never twelve singles.",
+        "q": "Is the SV6a sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Cassiopeia Special Art Rare is $21.81 on TCGplayer on November 7, 2026, which is 28.01 percent of a box, and the complete set is $187.12, which is 2.40 boxes. The box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV6a box to pull the Cassiopeia SAR?"
+      }
+    ],
+    "h1": "Is SV6a Night Wanderer Worth Buying?",
+    "intro": [
+      "Short answer: yes for the box, yes for the case, and no for chasing Cassiopeia in packs. The [SV6a Night Wanderer booster box](/product/sv6a-night-wanderer-booster-box-japanese-pokemon-card/) is $77.87 on this shelf, $2.60 a pack and $0.52 a card, and the [sealed case](/product/sv6a-night-wanderer-sealed-case-12-boxes-japanese-pokemon-card/) is $767.13, $63.93 a box, saving $167.31 against twelve singles. The chase is the Cassiopeia Special Art Rare at $21.81, which costs 28.01 percent of a box and holds 11.65 percent of the complete set's $187.12 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set, the play, or the Loyal Three, and never to pull one named card.",
+      "This guide answers for three buyers: the collector opening the Night Wanderer set in Japanese, the Standard player who can still play these cards, and the sealed holder weighing a case that splits below the Tokyo listing. It is not for the single-card chaser, because the Cassiopeia single costs less than three tenths of a box, or for the buyer who wants the box to pay for itself: the top three cards together are worth 0.67 boxes. The market figures in it are dated, because they move, and the shelf figures are from this store on November 14, 2026."
+    ],
+    "metaDescription": "SV6a Night Wanderer: box $77.87 after a 15% fall, case saves $167.31, and the Cassiopeia SAR at $21.81 is 28.01% of a box. H-mark legal.",
+    "metaTitle": "Is SV6a Night Wanderer Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box, yes for the case, no for chasing Cassiopeia in packs",
+        "paragraphs": [
+          "Buy the box if the job is opening the Night Wanderer set. At $77.87 it is $5.65 above the cheapest 30-pack box on the shelf, [Battle Partners](/blog/sv9-battle-partners-buyers-guide/) at $72.22, and $17.84 above [M3 Munikis Zero](/blog/m3-munikis-zero-buyers-guide/) at $60.03, the cheapest box per pack at $2.00. It is $9.37 below the [Raging Surf box](/product/sv3a-raging-surf-booster-box-japanese-pokemon-card/) at $87.24 and $13.11 below the [Crimson Haze box](/product/sv5a-crimson-haze-booster-box-japanese-pokemon-card/) at $90.98, and $16.87 below the [Mask of Change box](/blog/is-sv6-worth-buying/) at $94.74. Thirty packs of five cards give 150 cards for $2.60 a pack from a 94-card set, so one box covers the main set twice over and the second box is mostly cards already owned.",
+          "Buy the case if the job is sealed Night Wanderer in volume. At $767.13 for twelve boxes the case divides to $63.93 a box, $2.13 a pack, and $0.43 a card, and it saves $167.31 against twelve singles at $934.44, or $13.94 a box. That saving is 17.90 percent of the twelve-box cost, and it is $8.25 less than the [Cyber Judge case](/blog/sv5m-cyber-judge-buyers-guide/) saves, so the flat set is the weaker case deal and the stronger single-box buy. A case splitter works from the same division: $63.93 a box is the floor for every box that leaves the case.",
+          "Do not buy the box to pull Cassiopeia. The Cassiopeia Special Art Rare is $21.81 on TCGplayer, dated November 7, 2026, which is 28.01 percent of one box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. The top three cards together, Cassiopeia at $21.81, Fezandipiti ex at $18.99, and the Persian Art Rare at $11.38, are worth $52.18, or 0.67 boxes, and the complete set is $187.12, or 2.40 boxes. Buy the single for any named card, buy the box for the opening, and buy the case for the sealed shelf."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one fall, one saving",
+        "math": [
+          "SV6a box per pack: $77.87 ÷ 30 packs = $2.60 per pack",
+          "SV6a box per card: $77.87 ÷ 150 cards = $0.52 per card",
+          "SV6a case per box: $767.13 ÷ 12 boxes = $63.93 per box",
+          "SV6a case per pack: $767.13 ÷ 360 packs = $2.13 per pack",
+          "SV6a case per card: $767.13 ÷ 1,800 cards = $0.43 per card",
+          "SV6a twelve single boxes: (12 × $77.87) − $767.13 = $167.31",
+          "SV6a case saving: $934.44 − $767.13 = $167.31",
+          "SV6a case saving per box: $167.31 ÷ 12 boxes = $13.94 per box",
+          "SV6a box fall since November 8, 2026: $91.61 − $77.87 = $13.74",
+          "SV6a case fall since November 8, 2026: $902.51 − $767.13 = $135.38",
+          "SV6a box fall percent: $13.74 ÷ $91.61 = 15.00%",
+          "SV6a MSRP in dollars: 5,400 yen ÷ 159.8 yen = $33.79",
+          "SV6a Cassiopeia SAR vs box: $21.81 ÷ $77.87 = 28.01%",
+          "SV6a box vs Cassiopeia SAR: $77.87 ÷ $21.81 = 3.57",
+          "SV6a complete set vs box: $187.12 ÷ $77.87 = 2.40",
+          "SV6a Cassiopeia SAR vs case box: $21.81 ÷ $63.93 = 0.34",
+          "SV6a box vs Tokyo listing: $77.87 − $71.37 = $6.50",
+          "SV6a Tokyo listing vs case box: $71.37 − $63.93 = $7.44",
+          "SV6a box vs SV6 box: $94.74 − $77.87 = $16.87",
+          "SV6a case vs SV6 case: $835.38 − $767.13 = $68.25",
+          "SV6a case saving vs SV6: $301.50 − $167.31 = $134.19",
+          "SV6a box vs SV9 box: $77.87 − $72.22 = $5.65",
+          "SV6a EN Pecharunt vs JP: $21.43 − $10.96 = $10.47",
+          "SV6a EN Cassiopeia vs JP: $39.60 − $21.81 = $17.79",
+          "SV6a top three vs box: $52.18 ÷ $77.87 = 0.67",
+          "SV6a Samurai Sword box in dollars: 11,405 yen ÷ 159.8 yen = $71.37",
+          "SV6a box vs SV5a box: $90.98 − $77.87 = $13.11"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 14, 2026, with 30 packs per box, 5 cards per pack, 150 cards per box, and a 12-box case. The currency rate used is 159.8 yen to the dollar, checked on November 14, 2026, so an official Japanese box at 30 packs times 180 yen is 5,400 yen, or $33.79.",
+          "The fall is the story of this set, and it fell in one leg, on one day. On November 8, 2026 this shelf held the SV6a box at $91.61 and the case at $902.51. On November 14 the box is $77.87, down fifteen percent, and the case is $767.13, down fifteen percent, the same uniform repricing that cut the whole shelf on November 13, 2026. The fall did not change the verdict: the case saved $196.81 before it and saves $167.31 after it, because both the box and the case fell fifteen percent.",
+          "The market sits below this shelf on the box and above it on the case-split box. The Samurai Sword Tokyo sealed listing was 11,405 yen, or $71.37, on October 7, 2026. That puts our box $6.50 above the Tokyo listing, and our case-split box $7.44 below it, which is the rare case where the case is the cheapest sealed Night Wanderer anywhere we could price. Those prices are before shipping, fees, and import costs, and the Warehouse price is a landed price, but the gap is real."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The Battle Partners box at $72.22 is the cheaper way into a 30-pack box, $5.65 less per box, and the M3 box at $60.03 is $17.84 less, and neither carries a chase card worth three tenths of a box, which is why Night Wanderer is the better chase set and the dearer opener at once. And the Cassiopeia Special Art Rare at $21.81 costs 28.01 percent of a box, which is why no box is a route to it.",
+          "The case row is the row that decides this set, and it decides for the case. At $63.93 a box inside the case, the sealed case is the cheapest sealed Night Wanderer on this shelf by $13.94 a box, and it saves $167.31 against twelve singles. The twin row is the fork: the [Mask of Change box](/blog/is-sv6-worth-buying/) is $94.74, $16.87 dearer, and its case is $835.38, $68.25 dearer, so a buyer who wants one sealed box should buy Night Wanderer and keep the difference, unless the Carmine chase is worth $16.87 a box to them."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Cheaper 30-pack box SV9 (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$77.87",
+              "$63.93 a box inside the case",
+              "$72.22",
+              "Cassiopeia SAR $21.81"
+            ],
+            [
+              "Price per pack",
+              "$2.60",
+              "$2.13",
+              "$2.41",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.52",
+              "$0.43",
+              "$0.48",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "The cheaper opener, weaker chase",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the Night Wanderer set",
+              "Sealed holding and splitting",
+              "Opening a 30-pack box cheaper",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the wrong famous card, the division, and the Tokyo gap",
+        "note": "From the Warehouse: what the shelf shows this week is a flat set at a falling price. No card in Night Wanderer costs more than $21.81, the case now splits below the Tokyo listing, and the English Cassiopeia costs nearly twice the Japanese one. Buy the Japanese set for the set, buy the single for the card, and never pay a box price for a card that costs a quarter of it.",
+        "paragraphs": [
+          "The top results for SV6a are card lists and set tables, and they cover the set well. The Serebii database transcribes all 94 cards in number order and names the set's theme, the Dexerto top-ten ranks the cards to watch, and the CrispyCards guide names the rarest Pokemon. What none of them does is answer whether the box is worth buying, because none of them prices a box at all.",
+          "That is the opening this page takes. No top result divides the live box price into a per-pack or per-card cost, divides the case into a per-box price, or runs the case against twelve singles to find the $167.31 saving. No result tests the complete set against the sealed cost, gives a who-should-not-buy verdict tied to a real shelf price, or prices the Japanese chase singles against their English twins with dated figures. This page owns all five, because the Warehouse shelf is the only source that holds the box, the case, and the twin at the same time. And one correction no top result makes: the set is sold on Pecharunt, but Pecharunt is not the chase. The Pecharunt ex Special Art Rare at $10.96 is the fourth card in the set, behind Cassiopeia at $21.81, Fezandipiti ex at $18.99, and the Persian Art Rare at $11.38."
+        ]
+      },
+      {
+        "h": "The risk layer: the flat set, the fallen chase, and the English overlap",
+        "paragraphs": [
+          "The first risk is flatness. No card in Night Wanderer costs more than $21.81, so no pull rescues a bad box: a box that holds no Special Art Rare at all is a box of bulk, and even the best pull in the set is worth a quarter of the box that held it. The complete set costs $187.12 as singles, which is 2.40 boxes, so opening three boxes to complete the set spends $233.61 to build $187.12 of cards.",
+          "The second risk is the fallen chase. The Cassiopeia Special Art Rare sat at $55 to $70 on resale platforms in June 2024, at release, and it carries a $21.81 TCGplayer market price now, down 60.35 percent from the bottom of that range and 68.84 percent from the top, so a buyer who paid release prices for the chase has already lost most of it.",
+          "The third risk is the English overlap, and this time it runs the wrong way. The English Pecharunt ex Special Illustration Rare from Shrouded Fable carried a $21.43 CardTrack near-mint price on November 8, 2026, against $10.96 for the Japanese Special Art Rare, so the English card costs $10.47 more, or 1.96 times it, and the English Cassiopeia Special Illustration Rare carried a $39.60 TCGplayer market price on November 7, 2026, against $21.81 for the Japanese one, or 1.82 times it. The usual language gap is reversed here, which is a reminder to price the exact printing, not the language. The fourth risk is the reseal: a 29-month-old box is exactly the product a resealer targets, so check the seal before opening, photograph the box, and read our [reseal guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, because a reseal claim is only provable while the seal is intact."
+        ]
+      },
+      {
+        "h": "Context: 94 cards, the Loyal Three, and the English twin",
+        "paragraphs": [
+          "The set is small on purpose, and the purpose explains its shape. Night Wanderer prints 94 cards: a 64-card base set and a 30-card secret block of 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares, at 180 yen a pack for five cards, with 30 packs in a box. The five Special Art Rares are the set in miniature: three Pokemon ex in Okidogi ex at 087, Munkidori ex at 088, and Fezandipiti ex at 089, the Loyal Three, plus Pecharunt ex at 090 and Cassiopeia at 091, the Trainer who outprices them all, which is rare. The secret block also holds the Earthen Vessel ACE SPEC at $9.17 and the Persian Art Rare at $11.38, so value spreads across the tiers instead of sitting on one card. One box holds 150 cards, so one box gives the main set twice over and most of the secrets, and the second box is mostly cards you already own. The official Japanese price of a box is 5,400 yen, or $33.79 at 159.8 yen per dollar, and this shelf now charges 2.30 times that. The set is 29 months old, so every sealed box left is secondary stock.",
+          "The English twin is Shrouded Fable, released August 2, 2024, about eight weeks after the Japanese release on June 7, 2024. It takes the whole of Night Wanderer into one English set of 99 cards, so a buyer who wants the English cards buys one product instead of a Japanese box. That is the trade: the Japanese box gives you the 94-card set with the Cassiopeia Special Art Rare at 091/064, and the English set gives you the same cards spread across a 99-card checklist at different prices, with the English Cassiopeia at 094/064 carrying a $39.60 market price on November 7, 2026. Japanese cards are not legal in English tournaments, so a player who buys SV6a for play has bought the wrong product, and the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the case buyer who wants the cheapest sealed box per box on the shelf, because the Cyber Judge case at $60.40 a box undercuts the Night Wanderer case at $63.93 a box by $3.53, and no sealed buyer should pay a premium for a case without knowing it. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Cassiopeia Special Art Rare single at $21.81, which costs 28.01 percent of a box. It is not for the buyer who wants the box to pay for itself, because this set headlines no card worth more than a quarter of a box, and the top three cards together are worth 0.67 boxes."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV6a is the case at $767.13, $63.93 a box, not twelve singles at $934.44; the single box is $77.87.",
+          "If the job is one card, buy the single. The Cassiopeia Special Art Rare is $21.81. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $187.12 is 2.40 boxes, and two boxes at $155.74 cost $31.38 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Night Wanderer $77.87 plus Mask of Change $94.74 is $172.61, the Kitakami story in two boxes."
+        ],
+        "h": "Action layer: the SV6a buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Mark first: H is still Standard-legal, so the box is a collection purchase and a play purchase at once. Price second: check the shelf figure against the dated market figures in this guide, and if the box is still below the November 8 figure of $91.61, the fall is still on the shelf.",
+          "Then check the fork: the twin at $94.74 a box and $835.38 a case, and the chase single at $21.81. The next set in this series is the [Stella Miracle guide](/blog/sv7-stella-miracle-buyers-guide/), the July 2024 set that followed Night Wanderer, priced the same way."
+        ]
+      }
+    ],
+    "slug": "is-sv6a-worth-buying",
+    "takeaway": [
+      "The SV6a box at $77.87 is $2.60 a pack and $0.52 a card, $44.08 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $767.13 divides to $63.93 a box, $167.31 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
+      "It is worth buying as the Night Wanderer set to open, sealed, and it is not worth buying as a way to own the Cassiopeia Special Art Rare or to make the money back by opening. Cassiopeia sat at $21.81 on TCGplayer on November 7, 2026, which is 28.01 percent of a box, and the top three cards together sat at $52.18, which is 0.67 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $13.74 in six days, from $91.61 to $77.87, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $902.51 to $767.13, which did not change the verdict, because the case saved money before the fall and saves $167.31 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of June 2024 to November 8, 2026. The box now sits $5.65 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV6 Mask of Change worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 92.71 percent of a box and the case saves $301.50."
+    ]
+  },
   "japanese-booster-box-price": {
     "datePublished": "2026-11-09",
     "faqs": [
@@ -39625,7 +39981,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the set that came five weeks before Mask of Change and shares its English twin, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own.",
       "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the set that came a month after Mask of Change at $91.61 a box, with a case that saves $196.81 and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box.",
       "New this cycle: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the set that came three months before Mask of Change at $107.04 a box, with a case that saves $231.79 against twelve singles.",
-      "New this cycle: the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the set that came six weeks after Mask of Change at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles."
+      "New this cycle: the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the set that came six weeks after Mask of Change at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles.",
+      "New this cycle: the [is SV6 Mask of Change worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict on the live November 14 shelf, box $94.74 after a fifteen percent fall, case saving $301.50, and the Carmine SAR at $87.83 costing 92.71 percent of a box."
     ]
   },
   "sv6a-night-wanderer-buyers-guide": {
@@ -39812,7 +40169,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV6a box at $91.61 is the low end of the 30-pack shelf at $3.05 a pack, and $0.61 a card, for 150 cards from a 94-card set. The case at $902.51 is the way to buy it sealed, at $75.21 a box and $2.51 a pack, saving $196.81 against twelve singles. The set is 94 cards, released June 7, 2024, and the chase is the Cassiopeia SAR, which carried a $21.81 TCGplayer market price on November 7, 2026, or 0.24 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, October 7, November 7, and November 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Tokyo listing for a sealed box was $71.97, so our box costs $19.64 more, and the case-split box costs $3.24 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, with a case that saves $223.15, and a chase, the Magikarp Art Rare at $129.90, that costs 0.85 times a box."
+      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, with a case that saves $223.15, and a chase, the Magikarp Art Rare at $129.90, that costs 0.85 times a box.",
+      "New this cycle: the [is SV6a Night Wanderer worth buying guide](/blog/is-sv6a-worth-buying/) runs the same verdict on the live November 14 shelf, box $77.87 after a fifteen percent fall, case saving $167.31, and the Cassiopeia SAR at $21.81 costing 28.01 percent of a box."
     ]
   },
   "sv7-stella-miracle-buyers-guide": {
