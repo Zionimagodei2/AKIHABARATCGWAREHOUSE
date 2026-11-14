@@ -24601,6 +24601,209 @@ export const POSTS: Record<string, BlogPost> = {
       "For the price-and-math companion, the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV3 Ruler of Black Flame worth buying guide](/blog/is-sv3-worth-buying/) runs the same verdict on the dearer sibling, where the chase is one Charizard at $176.13."
     ]
   },
+  "is-sv4a-worth-buying": {
+    "datePublished": "2026-11-14",
+    "faqs": [
+      {
+        "a": "Yes, sealed, for the shiny set, after a fifteen percent fall, and the case is the best sealed buy on this shelf. The box is $120.05, $12.01 a pack and $1.20 a card, and the case is $1,960.19 for 20 boxes, which divides to $98.01 a box and saves $440.81 against twenty singles. The chase is the Mew ex Special Art Rare at $496.97, which costs 4.14 boxes and holds 31.94 percent of the complete set's $1,556.07 value. The cards carry the G regulation mark, which left Standard on April 10, 2026, so buy this box for the collection, not the tournament table.",
+        "q": "Is SV4a Shiny Treasure ex worth buying in 2026?"
+      },
+      {
+        "a": "Yes, and it is the biggest case saving of the two High Class Packs on this shelf. The case costs $1,960.19 for 20 boxes, which divides to $98.01 a box, $22.04 less per box than the single box at $120.05, a saving of $440.81 on the case, $69.59 more than the M2a case saves. The saving survived the November 13 repricing intact, because both the box and the case fell fifteen percent. Divide the case before you pay, every time.",
+        "q": "Is the SV4a sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Mew ex Special Art Rare is $496.97 on TCGplayer on November 13, 2026, which is 4.14 boxes, and the complete set is $1,556.07, which is 12.96 boxes. The lowest SNKRDUNK raw ask on October 7, 2026 was 43,000 yen, about $269.09, which is still 2.24 boxes. One community estimate puts a god pack at about 4 percent of boxes, and a box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV4a box to pull the Mew ex Special Art Rare?"
+      }
+    ],
+    "h1": "Is SV4a Shiny Treasure ex Worth Buying?",
+    "intro": [
+      "Short answer: yes, sealed, after a fifteen percent fall, and the case is the best sealed buy on this shelf. The [SV4a Shiny Treasure ex booster box](/product/sv4a-shiny-treasure-ex-booster-box-japanese-pokemon-card/) is $120.05 on this shelf, $12.01 a pack and $1.20 a card, and the [sealed case](/product/sv4a-shiny-treasure-ex-sealed-case-20-boxes-japanese-pokemon-card/) is $1,960.19 for 20 boxes, $98.01 a box, saving $440.81 against twenty singles. The chase is the Mew ex Special Art Rare at $496.97, which costs 4.14 boxes and holds 31.94 percent of the complete set's $1,556.07 value. The cards carry the G regulation mark, which left Standard on April 10, 2026, so buy this box for the collection, not the tournament table.",
+      "This guide answers for three buyers: the collector opening the shiny set in Japanese, the sealed holder buying the case at $98.01 a box, and the Mew chaser who needs to hear that the single costs more than four boxes. It is not for the Standard player, because the rotation has already happened, or for the buyer who wants the box to pay for itself: the top three cards together are worth 7.07 boxes. The shelf figures are from this store on November 14, 2026."
+    ],
+    "metaDescription": "SV4a Shiny Treasure ex: box $120.05 after a 15% fall, case saves $440.81, Mew ex SAR $496.97 is 4.14 boxes. G-mark out of Standard.",
+    "metaTitle": "Is SV4a Shiny Treasure ex Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box and the case, no for Standard play and no for chasing the Mew in packs",
+        "paragraphs": [
+          "Buy the box if the job is opening the shiny set. At $120.05 it is $22.50 above the [M2a MEGA Dream ex box](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) at $97.55, the cheaper High Class Pack on this shelf, and $18.77 below the [SV8a Terastal Festival ex box](/product/sv8a-terastal-festival-ex-booster-box-japanese-pokemon-card/) at $138.82, the dearer one. Ten packs of ten cards give 100 cards for $12.01 a pack, with one Pokemon ex guaranteed in every pack, and the set is built on one card: the Mew ex Special Art Rare at $496.97 costs 4.14 boxes, and the top three together cost 7.07 boxes.",
+          "Buy the case, not twenty singles, if the job is sealed holding or a group split. The case costs $1,960.19 for 20 boxes, which is $98.01 a box against $120.05 singly, a saving of $22.04 a box and $440.81 across the case, $69.59 more than the M2a case saves. The case-versus-box math is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). The fellow High Class Pack case, M2a, saves $18.56 a box, so Shiny Treasure ex is the better sealed buy of the two.",
+          "Buy the single if the job is one named card. The Mew ex Special Art Rare at $496.97 costs 4.14 boxes, the Charizard ex Special Art Rare at $222.39 costs 1.85 boxes, and the complete set at $1,556.07 costs 12.96 boxes, $4.58 less than thirteen boxes at $1,560.65, so a buyer completing the set should buy the singles before opening a thirteenth box. No published odds say how many boxes a Mew takes, and one community estimate puts a god pack at about 4 percent of boxes. The full set is priced card by card in the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one saving, one fall, one falling chase",
+        "math": [
+          "SV4a box per pack: $120.05 ÷ 10 packs = $12.01 per pack",
+          "SV4a box per card: $120.05 ÷ 100 cards = $1.20 per card",
+          "SV4a case per box: $1,960.19 ÷ 20 boxes = $98.01 per box",
+          "SV4a twenty single boxes: 20 × $120.05 = $2,401.00",
+          "SV4a case saving per case: $2,401.00 - $1,960.19 = $440.81",
+          "SV4a case saving per box: $120.05 - $98.01 = $22.04",
+          "SV4a case per pack: $1,960.19 ÷ 200 packs = $9.80 per pack",
+          "SV4a case per card: $1,960.19 ÷ 2,000 cards = $0.98 per card",
+          "SV4a box fall since November 8, 2026: $141.24 - $120.05 = $21.19; $21.19 ÷ $141.24 = 15.00%",
+          "SV4a case fall since November 8, 2026: $2,306.10 - $1,960.19 = $345.91; $345.91 ÷ $2,306.10 = 15.00%",
+          "SV4a official box: 10 packs × ¥550 = ¥5,500; ¥5,500 ÷ 159.8 = $34.42",
+          "SV4a box vs official: $120.05 - $34.42 = $85.63 above official",
+          "SV4a box vs official ratio: $120.05 ÷ $34.42 = 3.49× official",
+          "SV4a case box vs official ratio: $98.01 ÷ $34.42 = 2.85× official",
+          "Mew ex SAR vs box: $496.97 ÷ $120.05 = 4.14× the price of a box",
+          "Mew ex SAR vs case box: $496.97 ÷ $98.01 = 5.07× the price of a case box",
+          "Mew ex SAR vs complete set: $496.97 ÷ $1,556.07 = 31.94%",
+          "SV4a top three cards: $496.97 + $222.39 + $129.74 = $849.10",
+          "SV4a top three vs box: $849.10 ÷ $120.05 = 7.07× the price of a box",
+          "SV4a top five cards: $496.97 + $222.39 + $129.74 + $38.66 + $33.37 = $921.13",
+          "SV4a top five vs box: $921.13 ÷ $120.05 = 7.67× the price of a box",
+          "SV4a complete set vs box: $1,556.07 ÷ $120.05 = 12.96 boxes",
+          "SV4a thirteen boxes: 13 × $120.05 = $1,560.65",
+          "SV4a singles vs thirteen boxes: $1,560.65 - $1,556.07 = $4.58 cheaper as singles",
+          "Mew ex SAR fall March to October 2026: ¥55,000 - ¥43,000 = ¥12,000; ¥12,000 ÷ ¥55,000 = 21.82%",
+          "Mew ex SAR SNKRDUNK raw: ¥43,000 ÷ 159.8 = $269.09",
+          "Mew ex SAR TCGplayer vs SNKRDUNK raw: $496.97 - $269.09 = $227.88",
+          "Mew ex SAR TCGplayer vs SNKRDUNK ratio: $496.97 ÷ $269.09 = 1.85× the Tokyo ask",
+          "Mew ex SAR PSA 10: ¥135,000 ÷ 159.8 = $844.81",
+          "Mew ex SAR PSA 10 vs raw TCGplayer: $844.81 ÷ $496.97 = 1.70× the raw card",
+          "Charizard ex SAR vs box: $222.39 ÷ $120.05 = 1.85× the price of a box",
+          "Gardevoir ex SAR vs box: $129.74 ÷ $120.05 = 1.08× the price of a box",
+          "Mew ex SAR vs Charizard ex SAR: $496.97 ÷ $222.39 = 2.23× the Charizard card",
+          "Mew ex SAR vs Charizard gap: $496.97 - $222.39 = $274.58",
+          "Mew ex SAR vs Gardevoir ex SAR: $496.97 ÷ $129.74 = 3.83× the Gardevoir card",
+          "Charizard ex SAR SNKRDUNK raw: ¥23,000 ÷ 159.8 = $143.93",
+          "Gardevoir ex SAR SNKRDUNK raw: ¥13,000 ÷ 159.8 = $81.35",
+          "SV4a SNKRDUNK box: ¥18,000 ÷ 159.8 = $112.64",
+          "SV4a box vs SNKRDUNK ask: $120.05 - $112.64 = $7.41 above the lowest ask",
+          "SV4a box vs M2a box: $120.05 - $97.55 = $22.50 per box",
+          "SV4a box vs SV8a box: $138.82 - $120.05 = $18.77 per box",
+          "SV4a box vs SV1a box: $129.45 - $120.05 = $9.40 per box",
+          "SV4a box vs SV10 box: $181.04 - $120.05 = $60.99 per box",
+          "SV4a case saving vs SV4M case saving: $440.81 - $150.27 = $290.54 more saved",
+          "SV4a case saving vs M2a case saving: $440.81 - $371.22 = $69.59 more saved",
+          "SV4a case per-box saving vs M2a: $22.04 - $18.56 = $3.48 more per box",
+          "SV4a box vs Japan ask: $120.05 - $100.00 = $20.05 above the Japan ask"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 14, 2026, with 10 packs per box, 10 cards per pack, 100 cards per box, and a 20-box case. The currency rate used is 159.8 yen to the dollar, checked on November 14, 2026, so an official Japanese box at 10 packs times 550 yen is 5,500 yen, or $34.42. ",
+          "The fall is the story of this set, and it fell in one leg, on one day. On November 8, 2026 this shelf held the SV4a box at $141.24 and the case at $2,306.10. On November 14 the box is $120.05, down fifteen percent, and the case is $1,960.19, down fifteen percent, the same uniform repricing that fell on the whole shelf on November 13. A buyer who buys on last week's box price overpays by $21.19 a box and $345.91 a case.",
+          "The chase math is the second story, and it is a one-card set at a price no other set on this shelf matches. TCGPursuit's November 13, 2026 TCGplayer snapshot puts the Mew ex Special Art Rare 347/190 at $496.97, the Charizard ex Special Art Rare 349/190 at $222.39, the Gardevoir ex Special Art Rare 348/190 at $129.74, and the Pikachu Shiny Rare 236/190 at $38.66, with the complete set at $1,556.07 across all 360 cards. The top three cards together cost 7.07 boxes, the Mew alone holds 31.94 percent of the set's value, and the next card costs $274.58 less than it. The set's own 7-day move is quiet: only the Snorlax base card moved, up 6.6 percent to $4.17.",
+          "Two market checks put the Warehouse shelf in context, and they disagree with each other in a way that matters. Samurai Sword's October 7, 2026 guide lists the lowest SNKRDUNK raw ask for the Mew ex Special Art Rare at 43,000 yen, about $269.09 at 159.8 yen per dollar, against $496.97 on TCGplayer, so the American market pays 1.85 times the Tokyo ask for the same card, a gap of $227.88. The same guide lists the box at a lowest SNKRDUNK ask of 18,000 yen on September 1, 2026, about $112.64, which sits $7.41 below this shelf at $120.05."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The M2a box at $97.55 is the cheaper High Class Pack, $22.50 less per box, and the SV8a box at $138.82 is the dearer one, $18.77 more, and neither carries a chase card worth four boxes, which is why Shiny Treasure ex is the better opener of the three and the worst chase of the three at once. And the Mew ex Special Art Rare at $496.97 costs 4.14 boxes, which is why no box is a route to it.",
+          "The case row is the row that decides this set. At $98.01 a box inside the case, the sealed case is the cheapest sealed SV4a on this shelf by $22.04 a box, and the per-card figure of $0.98 is the same arithmetic across 2,000 cards. A buyer who wants twenty boxes and buys them one at a time pays $440.81 for the privilege, and the fellow High Class Pack case, M2a, saves $3.48 less per box."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Cheaper High Class Pack M2a (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$120.05",
+              "$98.01 a box inside the case",
+              "$97.55",
+              "Mew ex SAR $496.97"
+            ],
+            [
+              "Price per pack",
+              "$12.01",
+              "$9.80",
+              "$9.76",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$1.20",
+              "$0.98",
+              "$0.98",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twenty boxes at a discount",
+              "The cheaper High Class Pack",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the shiny set",
+              "Sealed hold or group split",
+              "Opening a High Class Pack cheaper",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the fall, the case, and the two Mew prices",
+        "note": "From the Warehouse: the question we get most about Shiny Treasure ex is whether the box is still worth opening now that it has fallen fifteen percent. It is: the box is $120.05 for 100 cards with ten guaranteed ex cards, and the set is the buy, not the chase.",
+        "paragraphs": [
+          "The top results for SV4a cover the chase cards, the card list, and the High Class Pack format, and they cover them well. Samurai Sword's chase guide prices the top ten with March 2026 figures and October 7, 2026 SNKRDUNK asks, and names the Mew ex Special Art Rare at 43,000 yen raw. Neokyo's card list prices the chase trio in dollars as of June 2026, with the Mew at $360 to $510 ungraded. What none of them does is frame the buy around the fall.",
+          "The second gap is the case, which decides the sealed buy. The case costs $1,960.19 for 20 boxes, or $98.01 a box, which is $22.04 a box below the single box, and no top guide prices it against the box at all. The third gap is the two Mew prices: $496.97 on TCGplayer against about $269.09 for the lowest Tokyo raw ask, a gap of $227.88 that no top guide states, because each guide prices in one market only.",
+          "The fourth gap is the rotation itself, which is the whole verdict for a player. The cards in Shiny Treasure ex carry the G regulation mark, and The Pokemon Company announced that G-mark cards are no longer legal in the 2026 Standard format: Japan switched on January 23, 2026, Pokemon TCG Live on March 26, 2026, and in-person Play! Pokemon events on April 10, 2026. The cards stay legal in Expanded. The buyer's guide on this site, written November 8, 2026, never mentions the rotation at all. A player who buys this box for a Standard deck is buying cards for a format they cannot play in. The rarity system itself is explained in [Japanese Pokemon Rarity Symbols Explained](/blog/japanese-pokemon-rarity-symbols-explained/)."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card set, the falling Mew, and the reprint shadow",
+        "paragraphs": [
+          "The first risk is the concentration. The Mew at $496.97 is 31.94 percent of the complete set value of $1,556.07, so one card carries nearly a third of the set. A box that misses the Mew and the eight Special Art Rares holds a Pikachu Shiny Rare at $38.66, an Iono Special Art Rare at $33.37, and mostly cards under twenty dollars. The honest plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+          "The second risk is the falling chase. The Mew ex Special Art Rare carried a 55,000 yen lowest ask in March 2026 and a 43,000 yen lowest ask on October 7, 2026, a 21.82 percent fall in seven months, and its PSA 10 ask was 135,000 yen on the same date. A box bought to chase Mew ex is a bet that the card stops falling, and the last seven months say it has not.",
+          "The third risk is the rotation, and it is already decided. G-mark cards left Standard on April 10, 2026 for in-person play, and the announcement is explicit that legality goes by the regulation mark on the card, not by which expansion it came from. A buyer who owns the cards for play needs the Expanded format. Check the mark on the card itself before assuming any reprint is legal: a reprint with an H, I, or J mark plays, and the same art with a G mark does not.",
+          "The fourth risk is the English overlap: the same art costs far less in English, and the English set is a different product. The English Mew ex Special Illustration Rare from Paldean Fates is the most valuable 2024 card in the English guides. Buy the Japanese card because you want the Japanese print, the 347/190 numbering, and the set around it, not because the art is cheaper in Japanese.",
+          "The fifth risk is the reprint shadow. No verified reprint announcement exists for Shiny Treasure ex, and the box price is flat to firm, not collapsing: the Japan ask for a sealed box was $100.00, so our box costs $20.05 more. But the mechanism is dated and real: a Destined Rivals Elite Trainer Box peaked near $280 in April 2026, then halved to $120.56 by August 23, 2026, once 2026 reprint stock hit retail.",
+          "The sixth risk is the single-pack temptation: a box at $12.01 a pack looks cheap until the chase math is divided, because the Mew is 4.14 boxes and the box has no published odds. Check the seal, the tear strip, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      },
+      {
+        "h": "Context: 360 cards, a High Class Pack, and the English twin",
+        "paragraphs": [
+          "The set is the shiny set, and that explains its shape. Shiny Treasure ex came out in Japan on December 1, 2023, as the first High Class Pack of the Scarlet and Violet era. It prints 360 cards: a 190-card base set and a 170-card secret block of 129 Shiny Rares, 18 Super Shiny Rares, 4 Art Rares, 5 Super Rares, 8 Special Art Rares, and 6 Ultra Rares, at 550 yen a pack for ten cards, with 10 packs in a box. One box holds 100 cards, so even a perfect box with no duplicates covers less than a third of the set. The official Japanese price of a box is 5,500 yen, or $34.42 at 159.8 yen per dollar, and this shelf holds the box at 3.49 times that figure.",
+          "The secret block is the set in miniature. Eight Special Art Rares head it: the Mew ex at 347/190, the Gardevoir ex at 348/190, the Charizard ex at 349/190, and the Iono supporter at 350/190, with the Clive supporter at 352/190 closing the block. Mew ex is printed in three tiers at once, as a regular ex, as a Super Shiny Rare at 327/190, and as the Special Art Rare at 347/190, and the Charizard ex appears three times too, as a regular ex at 115/190, a Super Shiny Rare at 331/190, and a Special Art Rare at 349/190.",
+          "The English twin is Scarlet and Violet Paldean Fates, released January 26, 2024, about eight weeks after the Japanese release. It folds Shiny Treasure ex together with leftover cards from Raging Surf, Ancient Roar, and Future Flash into one 245-card English set, 91 numbered cards and 154 secrets, a different product at a different price. The set's neighbours on this shelf are priced the same way in the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the Standard player, because the G regulation mark left Standard on April 10, 2026, and no box of Shiny Treasure ex puts a card on a Standard table. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Mew ex Special Art Rare single at $496.97, which costs 4.14 boxes. It is not for the buyer who wants the box to pay for itself, because this set headlines one Mew, not a spread, and the top three cards together are worth 7.07 boxes."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: G-mark cards are out of Standard since April 10, 2026, and legal in Expanded only.",
+          "Divide before you pay: box / 10 = your per-pack price; case / 20 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV4a is the case at $98.01 a box, saving $440.81; the single box is $120.05.",
+          "If the job is one card, buy the single. The Mew ex Special Art Rare is $496.97. It is not guaranteed in any box.",
+          "If the job is the complete set, buy the singles first: $1,556.07 undercuts thirteen boxes at $1,560.65 by $4.58, then open boxes for the rest.",
+          "If buying to open, confirm the price is still below the pre-fall figure: it fell $21.19 in six days, and it can move again.",
+          "If the job is the dearer chase, remember the two Mew prices: $496.97 on TCGplayer against about $269.09 for the lowest Tokyo raw ask."
+        ],
+        "h": "Action layer: the SV4a buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Mark first: G is out of Standard, so the box is a collection purchase, not a tournament purchase. Price second: check the shelf figure against the dated market figures in this guide, and if the box is still below the November 8 figure of $141.24, the fall is still on the shelf."
+        ]
+      }
+    ],
+    "slug": "is-sv4a-worth-buying",
+    "takeaway": [
+      "The SV4a box at $120.05 is $12.01 a pack and $1.20 a card, $85.63 above the derived 5,500 yen box price at 159.8 yen per dollar, while the case at $1,960.19 divides to $98.01 a box, saving $440.81. Buy the box or the case, never twenty singles, and buy the single for any named card.",
+      "It is worth buying as the shiny set to open, sealed, and it is not worth buying as a way to own the Mew ex Special Art Rare or to make the money back by opening. The Mew sat at $496.97 on TCGplayer on November 13, 2026, which is 4.14 boxes, and the Charizard ex Special Art Rare at $222.39 is 1.85 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $21.19 in six days, from $141.24 to $120.05, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $2,306.10 to $1,960.19. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 1 to November 13, 2026. The box now sits $22.50 above the cheaper High Class Pack on the shelf, MEGA Dream ex at $97.55, which is the fact that outlives every price on this page: divide before you buy, every time.",
+      "For the price-and-math companion, the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV5a Crimson Haze worth buying guide](/blog/is-sv5a-worth-buying/) runs the same verdict on the playable twin, where the chase costs 2.52 boxes and the cards are still Standard-legal."
+    ]
+  },
   "is-sv4k-worth-buying": {
     "datePublished": "2026-11-14",
     "faqs": [
@@ -24995,6 +25198,204 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the box dropped $13.24 in seven days, from $88.27 to $75.03, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $882.46 to $750.09. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 30 to November 13, 2026. The box now sits $2.81 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [SV4M Future Flash buyer's guide](/blog/sv4m-future-flash-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV4K Ancient Roar worth buying guide](/blog/is-sv4k-worth-buying/) runs the same verdict on the dearer twin, where the chase is one Roaring Moon at $39.73."
+    ]
+  },
+  "is-sv5a-worth-buying": {
+    "datePublished": "2026-11-14",
+    "faqs": [
+      {
+        "a": "Yes, the box, after a fifteen percent fall, and no, never the case. The box is $90.98, $3.03 a pack and $0.61 a card, and the case is $1,107.75, which divides to $92.31 a box, $1.33 more per box than a single box, so twelve singles at $1,091.76 beat the case by $15.99. The chase is the Greninja ex Special Art Rare at $229.18, which costs 2.52 boxes and holds 43.18 percent of the complete set's $530.70 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so this is the playable box of the pair.",
+        "q": "Is SV5a Crimson Haze worth buying in 2026?"
+      },
+      {
+        "a": "No. The case costs $1,107.75 for 12 boxes, which divides to $92.31 a box, $1.33 more per box than the single box at $90.98, so the case costs $15.99 more than twelve singles at $1,091.76. It is the only Japanese Pokemon case on this shelf where that sentence is true, and the fifteen percent fall did not fix it, because both the box and the case fell fifteen percent. Buy twelve singles, never the case.",
+        "q": "Is the SV5a sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Greninja ex Special Art Rare is $229.18 on TCGplayer on November 13, 2026, which is 2.52 boxes, and the complete set is $530.70, which is 5.83 boxes. The lowest SNKRDUNK raw ask on October 7, 2026 was 19,000 yen, about $118.90, which is still 1.31 boxes. The box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV5a box to pull the Greninja ex Special Art Rare?"
+      }
+    ],
+    "h1": "Is SV5a Crimson Haze Worth Buying?",
+    "intro": [
+      "Short answer: yes for the box, no for the case, and the case is the whole story. The [SV5a Crimson Haze booster box](/product/sv5a-crimson-haze-booster-box-japanese-pokemon-card/) is $90.98 on this shelf, $3.03 a pack and $0.61 a card, and the [sealed case](/product/sv5a-crimson-haze-sealed-case-12-boxes-japanese-pokemon-card/) is $1,107.75, $92.31 a box, $1.33 more per box than a single box. The chase is the Greninja ex Special Art Rare at $229.18, which costs 2.52 boxes and holds 43.18 percent of the complete set's $530.70 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set, the play, or the Greninja single, and never for the case.",
+      "This guide answers for three buyers: the collector opening the Kitakami set in Japanese, the Standard player who can still play these cards, and the Greninja chaser who needs to hear that the single costs two and a half boxes. It is not for the case buyer, because the case loses money, or for the buyer who wants the box to pay for itself: the top two cards together are worth 3.81 boxes. The market figures in it are dated, because they move, and the shelf figures are from this store on November 14, 2026."
+    ],
+    "metaDescription": "SV5a Crimson Haze: box $90.98 after a 15% fall, Greninja ex SAR $229.18 is 2.52 boxes, and the case still costs $15.99 more than 12 singles. H-mark legal.",
+    "metaTitle": "Is SV5a Crimson Haze Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box, no for the case, yes for Standard play, no for chasing the Greninja in packs",
+        "paragraphs": [
+          "Buy the box if the job is opening the Crimson Haze set. At $90.98 it is $18.76 above the cheapest 30-pack box on the shelf, [SV9 Battle Partners](/blog/sv9-battle-partners-buyers-guide/) at $72.22, and $3.74 above the [SV3a Raging Surf box](/product/sv3a-raging-surf-booster-box-japanese-pokemon-card/) at $87.24. It is $10.31 above the [SV2P Snow Hazard box](/product/sv2p-snow-hazard-booster-box-japanese-pokemon-card/) at $80.67 and $90.06 below [SV10 Glory of Team Rocket](/blog/sv10-glory-of-team-rocket-buyers-guide/) at $181.04. Thirty packs of five cards give 150 cards for $3.03 a pack from a 96-card set, so one box covers the set with duplicates to trade, and the chase is two cards wide: the Greninja ex Special Art Rare at $229.18 costs 2.52 boxes, and the Perrin Special Art Rare at $117.10 costs 1.29 boxes.",
+          "Buy twelve singles, never the case, if the job is sealed holding or a group split. The case costs $1,107.75 for 12 boxes, which is $92.31 a box against $90.98 singly, $1.33 more per box and $15.99 more across the case. The case-versus-box math is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). Every other Japanese Pokemon case on this shelf saves money; this one charges you for the cardboard.",
+          "Buy the single if the job is one named card. The Greninja ex Special Art Rare at $229.18 costs 2.52 boxes, the Perrin Special Art Rare at $117.10 costs 1.29 boxes, and the complete set at $530.70 costs 5.83 boxes, $15.18 less than six boxes at $545.88, so a buyer completing the set should buy the singles before opening a sixth box. No published odds say how many boxes a Greninja takes. The full set is priced card by card in the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one inversion, one fall, one steady chase",
+        "math": [
+          "SV5a box per pack: $90.98 ÷ 30 packs = $3.03 per pack",
+          "SV5a box per card: $90.98 ÷ 150 cards = $0.61 per card",
+          "SV5a case per box: $1,107.75 ÷ 12 boxes = $92.31 per box",
+          "SV5a twelve single boxes: 12 × $90.98 = $1,091.76",
+          "SV5a case over twelve singles: $1,107.75 - $1,091.76 = $15.99 more",
+          "SV5a case over per box: $92.31 - $90.98 = $1.33 more per box",
+          "SV5a case per pack: $1,107.75 ÷ 360 packs = $3.08 per pack",
+          "SV5a case per card: $1,107.75 ÷ 1,800 cards = $0.62 per card",
+          "SV5a box fall since November 8, 2026: $107.04 - $90.98 = $16.06; $16.06 ÷ $107.04 = 15.00%",
+          "SV5a case fall since November 8, 2026: $1,303.24 - $1,107.75 = $195.49; $195.49 ÷ $1,303.24 = 15.00%",
+          "SV5a official box: 30 packs × ¥180 = ¥5,400; ¥5,400 ÷ 159.8 = $33.79",
+          "SV5a box vs official: $90.98 - $33.79 = $57.19 above official",
+          "SV5a box vs official ratio: $90.98 ÷ $33.79 = 2.69× official",
+          "SV5a case box vs official ratio: $92.31 ÷ $33.79 = 2.73× official",
+          "Greninja ex SAR vs box: $229.18 ÷ $90.98 = 2.52× the price of a box",
+          "Greninja ex SAR vs case box: $229.18 ÷ $92.31 = 2.48× the price of a case box",
+          "Greninja ex SAR vs complete set: $229.18 ÷ $530.70 = 43.18%",
+          "SV5a top two cards: $229.18 + $117.10 = $346.28",
+          "SV5a top two vs box: $346.28 ÷ $90.98 = 3.81× the price of a box",
+          "SV5a top three cards: $229.18 + $117.10 + $33.92 = $380.20",
+          "SV5a top three vs box: $380.20 ÷ $90.98 = 4.18× the price of a box",
+          "SV5a top five cards: $229.18 + $117.10 + $33.92 + $33.42 + $25.16 = $438.78",
+          "SV5a top five vs box: $438.78 ÷ $90.98 = 4.82× the price of a box",
+          "SV5a complete set vs box: $530.70 ÷ $90.98 = 5.83 boxes",
+          "SV5a six boxes: 6 × $90.98 = $545.88",
+          "SV5a singles vs six boxes: $545.88 - $530.70 = $15.18 cheaper as singles",
+          "Greninja ex SAR fall since November 5, 2026: $234.60 - $229.18 = $5.42; $5.42 ÷ $234.60 = 2.31%",
+          "Greninja ex SAR vs Perrin SAR: $229.18 ÷ $117.10 = 1.96× the Perrin card",
+          "Greninja ex SAR vs Perrin gap: $229.18 - $117.10 = $112.08",
+          "Perrin SAR vs box: $117.10 ÷ $90.98 = 1.29× the price of a box",
+          "Greninja ex SAR PSA 10 vs raw: $395.00 ÷ $229.18 = 1.72× the raw card",
+          "Greninja ex SAR PSA 10 vs raw gap: $395.00 - $229.18 = $165.82",
+          "Greninja ex SAR SNKRDUNK raw: ¥19,000 ÷ 159.8 = $118.90",
+          "Greninja ex SAR TCGplayer vs SNKRDUNK raw: $229.18 - $118.90 = $110.28",
+          "Greninja ex SAR TCGplayer vs SNKRDUNK ratio: $229.18 ÷ $118.90 = 1.93× the Tokyo ask",
+          "Greninja ex SAR PSA 10 SNKRDUNK: ¥58,000 ÷ 159.8 = $362.95",
+          "Eevee AR vs box: $33.42 ÷ $90.98 = 0.37× the price of a box",
+          "SV5a box vs Japan ask: $90.98 - $75.82 = $15.16 above the Japan ask",
+          "SV5a box vs SV9 box: $90.98 - $72.22 = $18.76 per box",
+          "SV5a box vs SV3a box: $90.98 - $87.24 = $3.74 per box",
+          "SV5a box vs SV2P box: $90.98 - $80.67 = $10.31 per box",
+          "SV5a box vs SV10 box: $181.04 - $90.98 = $90.06 per box",
+          "SV5a box vs SV4a box: $120.05 - $90.98 = $29.07 per box"
+        ],
+        "paragraphs": [
+          "Every line above is one division, run from live shelf prices as of November 14, 2026, with 30 packs per box, 5 cards per pack, 150 cards per box, and a 12-box case. The currency rate used is 159.8 yen to the dollar, checked on November 14, 2026, so an official Japanese box at 30 packs times 180 yen is 5,400 yen, or $33.79. ",
+          "The fall is the story of this set, and it fell in one leg, on one day. On November 8, 2026 this shelf held the SV5a box at $107.04 and the case at $1,303.24. On November 14 the box is $90.98, down fifteen percent, and the case is $1,107.75, down fifteen percent, the same uniform repricing that fell on the whole shelf on November 13. A buyer who buys on last week's box price overpays by $16.06 a box and $195.49 a case.",
+          "The chase math is the second story, and it is a two-card set. BinderFoundry's November 13, 2026 TCGplayer snapshot puts the Greninja ex Special Art Rare 090/066 at $229.18, the Perrin Special Art Rare 092/066 at $117.10, the Bloodmoon Ursaluna ex Special Art Rare 091/066 at $33.92, the Eevee Art Rare 078/066 at $33.42, and the Sinistcha ex Special Art Rare 089/066 at $24.64, with the complete set from $530.70 across the 96 cards. The top two cards together cost 3.81 boxes, the Greninja alone holds 43.18 percent of the set's value, and the gap between the first and second card is $112.08. Scryda's all-96-priced sum, from raw market values on the same date, is $555.86, which puts the Greninja at 41.23 percent of the set.",
+          "Two market checks put the Warehouse shelf in context. Samurai Sword's October 7, 2026 guide lists the lowest SNKRDUNK raw ask for the Greninja ex Special Art Rare at 19,000 yen, about $118.90 at 159.8 yen per dollar, against $229.18 on TCGplayer, so the American market pays 1.93 times the Tokyo ask for the same card, a gap of $110.28. The same guide lists the lowest PSA 10 ask at 58,000 yen, about $362.95, against a CardZ reference price of $395.00 from completed sales on November 13, 2026, with a PSA 10 population of 15,634. And the chase held while the box fell: the Greninja moved from $234.60 on November 5 to $229.18 on November 13, down 2.31 percent in eight days, while the box fell fifteen percent in six."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table's honest rows are the last two. The SV9 box at $72.22 is the cheaper way into a 30-pack box, $18.76 less per box, and the SV3a box at $87.24 is $3.74 less, and neither carries a chase card worth two and a half boxes, which is why Crimson Haze is the better chase set and the dearer opener at once. And the Greninja ex Special Art Rare at $229.18 costs 2.52 boxes, which is why no box is a route to it.",
+          "The case row is the row that decides this set, and it decides against the case. At $92.31 a box inside the case, the sealed case is the dearest sealed SV5a on this shelf by $1.33 a box, and the per-card figure of $0.62 is the same arithmetic across 1,800 cards. A buyer who wants twelve boxes and buys the case pays $15.99 for the privilege of paying more, and no other Japanese Pokemon case on this shelf does that."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Cheaper 30-pack box SV9 (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$90.98",
+              "$92.31 a box inside the case",
+              "$72.22",
+              "Greninja ex SAR $229.18"
+            ],
+            [
+              "Price per pack",
+              "$3.03",
+              "$3.08",
+              "$2.41",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.61",
+              "$0.62",
+              "$0.48",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a premium",
+              "The cheaper opener, weaker chase",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the Crimson Haze set",
+              "Nothing on this shelf",
+              "Opening a 30-pack box cheaper",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the losing case, the rotation, and the steady chase",
+        "note": "From the Warehouse: the question we get most about Crimson Haze is whether the case is worth it at a discount. It is not a discount: the case costs $1,107.75 for twelve boxes that cost $1,091.76 singly, so the case is the one sealed buy on this shelf where the division says no.",
+        "paragraphs": [
+          "The top results for SV5a cover the card list, the chase cards, and the complete set, and they cover them well. BinderFoundry's card list prices the complete set from $530.70 at TCGplayer market prices on November 13, 2026, and names the Greninja ex at $229.18. Scryda's list prices all 96 cards from raw market values, refreshed the same week, and names the same top three. Japan-figure's top-ten list prices the chase cards with a Greninja figure near $496 that is months out of date. What none of them does is answer whether the box is worth buying, because none of them prices a box at all.",
+          "The second gap is the case, which decides the sealed buy. The case costs $1,107.75 for 12 boxes, or $92.31 a box, which is $1.33 a box above the single box, and no top guide prices it against the box at all. The third gap is the rotation itself, which is the whole verdict for a player, and it cuts the other way from the twin: the cards in Crimson Haze carry the H regulation mark, which is still legal in the 2026 Standard format, while the Shiny Treasure ex cards carry the G mark, which left Standard on April 10, 2026. The buyer's guide on this site, written November 8, 2026, never mentions the rotation at all. A player who buys this box can still play the cards.",
+          "The fourth gap is the steady chase. The Greninja fell 2.31 percent in eight days while the box fell fifteen percent in six, so the chase held its value while the sealed product fell, and the top two cards together still cost 3.81 boxes. The rarity system itself is explained in [Japanese Pokemon Rarity Symbols Explained](/blog/japanese-pokemon-rarity-symbols-explained/)."
+        ]
+      },
+      {
+        "h": "The risk layer: the two-card set, the English parity, and the reprint",
+        "paragraphs": [
+          "The first risk is the concentration. The Greninja at $229.18 is 43.18 percent of the complete set value of $530.70, so one card carries more than two-fifths of the set, and the top two together are 3.81 boxes. A box that misses the Greninja and the five Special Art Rares holds an Eevee Art Rare at $33.42, a Lana's Aid Special Art Rare at $25.16, and mostly cards under ten dollars.",
+          "The second risk is the next rotation, and it is not yet announced. H-mark cards are legal in the 2026 Standard format, but the yearly pattern retires the oldest mark each season, and H is now the oldest legal mark. A buyer who owns the cards for play should expect H to leave Standard in a future rotation, and should check the mark on the card itself before assuming any reprint is legal: a reprint with an I or J mark plays, and the same art with an H mark does not, once H rotates.",
+          "The third risk is the English overlap: the same art costs far less in English. The English Greninja ex Special Illustration Rare from Twilight Masquerade is the set's headline card there, and the Japanese print costs 1.93 times the lowest Tokyo raw ask. Buy the Japanese card because you want the Japanese print, the 090/066 numbering, and the set around it, not because the art is cheaper in Japanese.",
+          "The fourth risk is the reprint: no reprint has been announced for Crimson Haze, but the mechanism is real, and a reprint kills a scarcity premium in weeks. The dated warning is the Destined Rivals Elite Trainer Box: near $280 in April 2026, halved to $120.56 by August 23, 2026 once reprint stock reached retail. The box price trend here is flat to firm: the Greninja held within 2.31 percent in eight days while the box fell fifteen percent, which is a chase holding its value, not a collapse.",
+          "The fifth risk is the single-pack temptation: a box at $3.03 a pack looks cheap until the chase math is divided, because the Greninja is 2.52 boxes and the box has no published odds. Check the seal, the tear strip, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      },
+      {
+        "h": "Context: 96 cards, Kitakami, and the English twin",
+        "paragraphs": [
+          "The set is the Kitakami set, and that explains its shape. Crimson Haze came out in Japan on March 22, 2024, as the enhanced expansion built on the Teal Mask story. It prints 96 cards: a 66-card base set and a 30-card secret block of 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares, at 180 yen a pack for five cards, with 30 packs in a box. One box holds 150 cards, so one box gives the main set twice over and most of the secrets, and the second box is mostly cards you already own. The official Japanese price of a box is 5,400 yen, or $33.79 at 159.8 yen per dollar, and this shelf holds the box at 2.69 times that figure.",
+          "The secret block is the set in miniature. The Special Art Rares head it: the Greninja ex at 090/066, the Bloodmoon Ursaluna ex at 091/066, and the Perrin supporter at 092/066, with the Lana's Aid supporter at 093/066 and the Sinistcha ex at 089/066 closing the block. The set is Greninja-themed, but the chase is not the mascot alone: the Perrin costs 1.29 boxes on her own, and the two together cost 3.81 boxes. Greninja ex is printed as a Fighting-type Tera Pokemon, not the Water-type the creature is known for, and the set also prints two ACE SPEC Item cards, Unfair Stamp and Hyper Aroma, which follow the one-per-deck restriction.",
+          "The English twin is Scarlet and Violet Twilight Masquerade, released May 24, 2024, about nine weeks after the Japanese release. It folds Crimson Haze together with Wild Force, Cyber Judge, and Mask of Change into one 226-card English set, 167 numbered cards and 59 secrets, a different product at a different price. The set's neighbours on this shelf are priced the same way in the [SV5k Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the case buyer, because the case costs $15.99 more than twelve singles, and no sealed buyer should pay a premium for a case. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Greninja ex Special Art Rare single at $229.18, which costs 2.52 boxes. It is not for the buyer who wants the box to pay for itself, because this set headlines two cards, not a spread, and the top two cards together are worth 3.81 boxes."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV5a is twelve singles at $1,091.76, not the case at $1,107.75; the single box is $90.98.",
+          "If the job is one card, buy the single. The Greninja ex Special Art Rare is $229.18. It is not guaranteed in any box.",
+          "If the job is the complete set, buy the singles first: $530.70 undercuts six boxes at $545.88 by $15.18, then open boxes for the rest.",
+          "If buying to open, confirm the price is still below the pre-fall figure: it fell $16.06 in six days, and it can move again.",
+          "If the job is the dearer chase, buy the twin instead: the Shiny Treasure ex Mew ex Special Art Rare is $496.97, against $229.18 here."
+        ],
+        "h": "Action layer: the SV5a buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the purchase decides itself. Mark first: H is still Standard-legal, so the box is a collection purchase and a play purchase at once. Price second: check the shelf figure against the dated market figures in this guide, and if the box is still below the November 8 figure of $107.04, the fall is still on the shelf."
+        ]
+      }
+    ],
+    "slug": "is-sv5a-worth-buying",
+    "takeaway": [
+      "The SV5a box at $90.98 is $3.03 a pack and $0.61 a card, $57.19 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $1,107.75 divides to $92.31 a box, $15.99 more than twelve singles. Buy the box or twelve singles, never the case, and buy the single for any named card.",
+      "It is worth buying as the Crimson Haze set to open, sealed, and it is not worth buying as a way to own the Greninja ex Special Art Rare or to make the money back by opening. The Greninja sat at $229.18 on TCGplayer on November 13, 2026, which is 2.52 boxes, and the Perrin Special Art Rare at $117.10 is 1.29 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $16.06 in six days, from $107.04 to $90.98, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,303.24 to $1,107.75, which did not fix the inversion. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of October 7 to November 13, 2026. The box now sits $18.76 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time.",
+      "For the price-and-math companion, the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV4a Shiny Treasure ex worth buying guide](/blog/is-sv4a-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 4.14 boxes and the cards are out of Standard."
     ]
   },
   "japanese-booster-box-price": {
@@ -37645,7 +38046,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and October 7, 2026. The god-pack figure is a community estimate, not a guarantee, and the box can hold zero SAR cards. The Japan ask for a sealed box was $100.00, so our box costs $41.24 more, and the case-split box costs $15.31 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best Japanese Pokemon special set guide](/blog/best-japanese-pokemon-special-set-to-buy/) ranks the special sets the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the set that shares SV4a's $141.24 box price, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own.",
-      "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the Paradox Rift third at $102.64 a box, and names the Parasol Lady SAR, not Gholdengo, as the dearest card at $37.39."
+      "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the Paradox Rift third at $102.64 a box, and names the Parasol Lady SAR, not Gholdengo, as the dearest card at $37.39.",
+      "New this cycle: the [is SV4a Shiny Treasure ex worth buying guide](/blog/is-sv4a-worth-buying/) runs the verdict at the November 14 prices, box $120.05 and case $98.01 a box, saving $440.81, with the rotation called out: G-mark cards left Standard on April 10, 2026."
     ]
   },
   "sv4k-ancient-roar-buyers-guide": {
@@ -38262,7 +38664,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and November 5 and 7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $75.82, so our box costs $31.22 more, and the case-split box costs $32.78 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that shares SV5a's $3.57-a-pack tier the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) prices the set that came five weeks after Crimson Haze and shares its English twin, box $111.46 against a case that saves $354.72, with the Carmine SAR at $87.83 on its own.",
-      "New this cycle: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the January 2024 twin-set opener at $107.04 a box, with a case that saves $231.79 and Raging Bolt ex at $54.21."
+      "New this cycle: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the January 2024 twin-set opener at $107.04 a box, with a case that saves $231.79 and Raging Bolt ex at $54.21.",
+      "New this cycle: the [is SV5a Crimson Haze worth buying guide](/blog/is-sv5a-worth-buying/) runs the verdict at the November 14 prices, box $90.98, with the case still losing money: $1,107.75 against $1,091.76 for twelve singles, and the H-mark cards still Standard-legal."
     ]
   },
   "sv5k-wild-force-buyers-guide": {
