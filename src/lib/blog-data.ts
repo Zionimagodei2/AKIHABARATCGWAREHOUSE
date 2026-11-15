@@ -7866,7 +7866,7 @@ export const POSTS: Record<string, BlogPost> = {
           "Battle Academy (Japan, official): ¥3,290 / ¥154 = $21.36 for four decks; $21.36 / 4 = $5.34 per deck"
         ],
         "paragraphs": [
-          "Every line above is one division: shelf price divided by the cards the product contains, with official Japanese prices converted at ¥154 to the dollar. The per-card ladder runs from $0.14 to $0.45, and the cheapest per-card product is not a single deck but a four-deck box: the Generations Special Battle Set at $0.14 a card, $8.37 a deck, against its ¥4,620 official price, $30.00 converted, so our $33.46 is $3.46 above list for four decks and four promos. The cheapest single deck is the SI Start Deck 100 at $0.15 a card, and the cheapest fixed MEGA deck is Diancie at $0.19 a card.",
+          "Every line above is one division: shelf price divided by the cards the product contains, with official Japanese prices converted at ¥154 to the dollar. The per-card ladder runs from $0.14 to $0.45, and the cheapest per-card product is not a single deck but a four-deck box: the Generations Special Battle Set at $0.14 a card, $8.37 a deck, against its ¥4,620 official price, $30.00 converted, so our $33.46 is $3.46 above list for four decks and four promos. The cheapest single deck is the SI Start Deck 100 at $0.15 a card, and the cheapest fixed MEGA deck is Diancie at $0.19 a card. All ten deck products, repriced on November 15, 2026, are divided to the card in our [Japanese Pokemon starter deck price guide](/blog/japanese-pokemon-starter-deck-price/).",
           "The two MEGA starters are the same product: a fixed 60-card deck, two copies of the headline Mega ex, a playmat, a coin, counters, released the same day at the same ¥1,800. On our shelf one costs $11.15 and the other $24.54, which is 2.20 times as much for the same 60 cards. The difference is the Pokémon on the front: Gengar is the chase, Diancie is not, and the $13.39 gap is the price of the character. A buyer who wants a deck to learn with buys Diancie and saves $13.39; a buyer who wants Gengar pays the premium for the card, not the deck.",
           "The worst value on the page is the one that looks like the cheapest way to gamble: the Start Deck 100 Battle Collection at $26.77 for one random 60-card deck, $0.45 a card, against an official ¥891, which converts to $5.79. That is 4.63 times the converted official price, for a deck whose contents are random out of 100 possibilities. The random deck is the only starter product where you cannot know what you are buying, and it is also the most expensive per card. If the surprise is the point, buy it with your eyes open; if the deck is the point, buy the fixed Diancie starter for $15.62 less.",
           "Two products carry no per-card division, and the reason is stated: the Special Card Set Mega Gallade ex at $21.18 and the SV3 Deck Build Box at $39.04 do not publish a card count on our listing. The SV9 Deck Build Box does publish one, through the official SV9 page: 171 cards in 52 types, which divides to $0.18 a card at our $31.21. A Deck Build Box is not a starter deck in the playing sense: it is a fixed pool for building, and its value is in the 52 types it contains, not in a 60-card deck."
@@ -8054,7 +8054,7 @@ export const POSTS: Record<string, BlogPost> = {
           "Cheapest playable match: 2 × SI Start Deck 100 = $17.86, or 1 × Generations set = $33.46 for up to 4 players' decks"
         ],
         "paragraphs": [
-          "A Pokemon deck is 60 cards, so per-card cost is the honest unit, and per-match cost is the unit that catches buyers out. The cheapest card on the shelf is the Generations set at $0.14 per card, and the cheapest single deck is the SI Start Deck 100 at $8.93. But one deck is not a match. A match needs two decks, so the cheapest playable match from random product is two SI decks at $17.86, and the cheapest match from fixed product is the Diancie plus Gengar pair at $35.69. The Generations set at $33.46 covers a match and leaves two spare decks, which is why it wins the household comparison even though it is the second-priciest single item here. Compare that with packs: a Japanese booster box gives random cards at a per-pack price, and the [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices that route. A starter deck is cheaper than a box and playable on arrival; a box is for building, not for learning.",
+          "A Pokemon deck is 60 cards, so per-card cost is the honest unit, and per-match cost is the unit that catches buyers out. The cheapest card on the shelf is the Generations set at $0.14 per card, and the cheapest single deck is the SI Start Deck 100 at $8.93. But one deck is not a match. A match needs two decks, so the cheapest playable match from random product is two SI decks at $17.86, and the cheapest match from fixed product is the Diancie plus Gengar pair at $35.69. The Generations set at $33.46 covers a match and leaves two spare decks, which is why it wins the household comparison even though it is the second-priciest single item here. Compare that with packs: a Japanese booster box gives random cards at a per-pack price, and the [best-value Japanese Pokemon booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/) guide prices that route. A starter deck is cheaper than a box and playable on arrival; a box is for building, not for learning. For the full price index, with every deck divided to the card and the 15 percent repricing since this guide was written, see our [Japanese Pokemon starter deck price guide](/blog/japanese-pokemon-starter-deck-price/).",
           "The Gengar premium deserves its own line. Both MEGA starters launched at the same official price, ¥1,800, with the same component types, and the Gengar deck's published list runs Gastly, Haunter, two Mega Gengar ex, and 15 Darkness Energy. Nothing in the box explains a $13.39 gap. Character demand explains it, and a buyer who wants Gengar specifically should pay it knowingly, while a buyer who wants a deck should buy Diancie and keep the difference. That is the same divide-first discipline as the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/), applied to a $24 purchase instead of a $1,000 case."
         ]
       },
@@ -20799,7 +20799,7 @@ export const POSTS: Record<string, BlogPost> = {
         "paragraphs": [
           "Two tiers. The single-box tier is the dear tier: $84.97 a box, $2.83 a pack, $0.57 a card, $6.72 above the $78.25 market box. The case tier is the cheap tier: $64.43 a box, $2.15 a pack, $0.43 a card, $13.82 below that same market box. The case saves $246.49 against twelve single boxes, or $20.54 a box, and it saves $165.85 against twelve market boxes. The flip is the verdict: the case beats the market and the single box does not.",
           "The market agrees. The cheapest sealed box on Kakaku.com was 8,000 yen on November 3, 2026, or $50.09, and the gold Mega Gardevoir ex ask in Tokyo was 34,800 yen, or $217.91, about 4.35 of those boxes. Cardmarket lists the box at 52.55 euros, about $58.23, the case at 706.25 euros, about $782.60, and the Pokémon Center Set at 121.43 euros, about $134.56. Our single box sits above every one of those references except the TCGplayer market, and our case sits below the Cardmarket case by $9.45. The full board runs in the [Japanese Pokémon booster box price guide](/blog/japanese-pokemon-booster-box-price/).",
-          "Bill's Archive put the M1S box at $79.46 TCGplayer market on November 8, 2026, down 11 percent over 90 days, on 36 sold. The set value fell faster: Sparkl's complete set is $442.24 as of November 11, down 16.9 percent since August 13, from $531.46. The whole MEGA era is down: Storm Emeralda 52 percent, MEGA Dream ex 25 percent, Inferno X 23 percent, Mega Brave 21 percent, and Mega Symphonia 11 percent. Buy-now-or-wait: the box is falling and the set value is falling faster, so wait, or buy the case, not the single box."
+          "Bill's Archive put the M1S box at $79.46 TCGplayer market on November 8, 2026, down 11 percent over 90 days, on 36 sold. The set value fell faster: Sparkl's complete set is $442.24 as of November 11, down 16.9 percent since August 13, from $531.46. The whole MEGA era is down: Storm Emeralda 52 percent, MEGA Dream ex 25 percent, Inferno X 23 percent, Mega Brave 21 percent, and Mega Symphonia 11 percent. Buy-now-or-wait: the box is falling and the set value is falling faster, so wait, or buy the case, not the single box. The same math at November 15 prices, with the case saving and the twin gap, is in our [M1S Mega Symphonia buyer's guide](/blog/m1s-mega-symphonia-buyers-guide/)."
         ]
       },
       {
@@ -33728,6 +33728,274 @@ export const POSTS: Record<string, BlogPost> = {
       "Knowing the rarities is step one; using a card you cannot read is step two. [How to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) walks the card zone by zone — and shows why the corner number matters more than the language."
     ]
   },
+  "japanese-pokemon-starter-deck-price": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "On our shelf as of November 15, 2026, a Japanese Pokemon starter deck costs $7.59 to $22.75 to play with: the SI Start Deck 100 at $7.59, the Starter Set MEGA Mega Diancie ex at $9.48, the Starter Set MEGA Mega Gengar ex at $20.86, and the Start Deck 100 Battle Collection at $22.75. The four-deck Generations set is $28.44, or $7.11 a deck. Collector deck boxes run $127.02 to $387.69 and are not starter decks.",
+        "q": "How much is a Japanese Pokemon starter deck?"
+      },
+      {
+        "a": "Buy two decks, because a match needs two. The cheapest pair is the SI Start Deck 100 at $7.59 plus the Starter Set MEGA Mega Diancie ex at $9.48, which is $17.07 for two 60-card decks. For two people learning together, the Start Deck Generations set at $28.44 is cheaper per player: four fixed decks at $7.11 each, or $0.12 a card.",
+        "q": "What is the cheapest way to start playing Pokemon in Japanese?"
+      },
+      {
+        "a": "No. Japanese cards are not legal in sanctioned English-region events, so a Japanese starter deck is for kitchen-table play, collecting, and learning the game, not for local tournament play outside Japan. In Japan, the MEGA starter sets and the Battle Collection are legal in Standard, which has allowed only cards marked H, I, and J since January 23, 2026.",
+        "q": "Are Japanese starter decks legal in tournaments outside Japan?"
+      }
+    ],
+    "h1": "Japanese Pokemon Starter Deck Price: What Every Deck Costs",
+    "intro": [
+      "Short answer: the cheapest Japanese Pokemon starter deck on our shelf is the SI Start Deck 100 at $7.59, or $0.13 a card, and the cheapest fixed deck is the Starter Set MEGA Mega Diancie ex at $9.48, or $0.16 a card. A match needs two decks, so the cheapest way to actually play is $17.07 for two decks, and the cheapest way for two people to learn together is the four-deck Start Deck Generations set at $28.44, or $7.11 a deck. Every deck below is 15 percent cheaper than the price our own best-deck guide printed on November 3, 2026, because the whole starter shelf was repriced by exactly that much in the twelve days since.",
+      "This guide prices all ten deck products we stock, divides each one to the card, and separates the decks you play from the decks you collect, because three products on this shelf cost $127.02 to $387.69 and are not starter decks in any useful sense. Every price is a Warehouse price as of November 15, 2026, and every division is shown in the math section."
+    ],
+    "metaDescription": "Every Japanese Pokemon starter deck on our shelf, priced Nov 15, 2026: $7.59 to $387.69, per-card math, and the 15% cut since Nov 3.",
+    "metaTitle": "Japanese Pokemon Starter Deck Price: Every Deck Cost",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: $7.59 to play, $17.07 for a match",
+        "paragraphs": [
+          "If you want the cheapest single deck, buy the [SI Start Deck 100](/product/si-start-deck-100-japanese-pokemon-card/) at $7.59. It is one random 60-card deck drawn from the original 2021 Start Deck 100 line, which offered 101 decks including a secret God Deck across a 414-card pool, and at $0.13 a card it is the cheapest card stock on this shelf by any measure. The catch is the word random: you know the card count, not the Pokemon, and you cannot choose which of the 101 decks arrives.",
+          "If you want a deck you can choose, buy the [Starter Set MEGA Mega Diancie ex](/product/starter-set-mega-mega-diancie-ex-mbd-japanese-pokemon-card/) at $9.48. It is a fixed 60-card deck, released in Japan on September 5, 2025, with two Mega Diancie ex, an ACE SPEC, damage counters, status markers, a one-player playmat, a player's guide, and a coin, and at $0.16 a card it costs $1.89 more than the random deck for the certainty of knowing every card inside. Its twin, the [Starter Set MEGA Mega Gengar ex](/product/starter-set-mega-mega-gengar-ex-mbg-japanese-pokemon-card/) at $20.86, is the same product with a different deck, and the $11.38 gap between the twins is the whole price story of this shelf: Gengar is the chase deck, Diancie is the value deck.",
+          "If two people are learning together, buy the [Start Deck Generations Special Battle Set](/product/start-deck-generations-special-battle-set-svm-japanese-pokemon-card/) at $28.44. It holds four fixed 60-card decks in one box, Generations I, II, VIII, and IX, plus four promo cards, released November 22, 2024, which works out to $7.11 per deck and $0.12 per card, the cheapest per-card figure on the shelf. One box gives two players two decks each, which no other product here does."
+        ],
+        "table": {
+          "head": [
+            "Your job",
+            "Buy this",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "One deck, lowest cost",
+              "SI Start Deck 100",
+              "$7.59",
+              "$0.13 a card; random deck, you do not choose it"
+            ],
+            [
+              "One deck, fixed and known",
+              "Starter Set MEGA Diancie ex",
+              "$9.48",
+              "$0.16 a card; every card listed, playmat and coin included"
+            ],
+            [
+              "Two people learning",
+              "Start Deck Generations set",
+              "$28.44",
+              "Four decks at $7.11 each; the only multi-deck box here"
+            ],
+            [
+              "One random modern deck",
+              "Start Deck 100 Battle Collection",
+              "$22.75",
+              "$0.38 a card; one of 100 decks, at least two Pokemon ex"
+            ],
+            [
+              "Build your own deck",
+              "SV9 Deck Build Box",
+              "$26.53",
+              "10 packs plus 171 fixed cards; not a ready deck"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: every deck on the shelf, priced",
+        "paragraphs": [
+          "The table below is the whole deck shelf, priced from our live catalogue on November 15, 2026. Ten products carry the word deck in their name, and they split into three kinds: fixed decks you can choose, random decks you cannot, and collector boxes that happen to contain decks. The per-card column is the honest comparison, because a $200 box and a $7.59 deck are not the same purchase even though both contain 60-card decks.",
+          "The playable shelf is five products deep and tops out at $28.44. Everything above that line is a collector purchase: the SV2P and SV2D Gym Set at $127.02, the Special Deck Set ex at $200.01, and the World Championships 2023 Yokohama Pikachu deck at $387.69. None of the three is priced as a way to start playing, and the table shows why: the Yokohama deck costs $6.46 a card, fifty times the Generations set.",
+          "Two products sit outside the per-card table because their card counts are not fixed quantities we can state. The Special Card Set Mega Gallade ex at $18.00 is a promo set built around one Mega Gallade ex card, and the SV3 Deck Build Box Ruler of Black Flame at $33.18 is a box of packs plus fixed build cards whose exact split is not printed on the listing. Both are priced below; neither gets a per-card figure we cannot stand behind."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Price",
+            "Cards",
+            "Per card"
+          ],
+          "rows": [
+            [
+              "SI Start Deck 100",
+              "$7.59",
+              "60 (1 random deck)",
+              "$0.13"
+            ],
+            [
+              "Starter Set MEGA Diancie ex",
+              "$9.48",
+              "60 (fixed)",
+              "$0.16"
+            ],
+            [
+              "Starter Set MEGA Gengar ex",
+              "$20.86",
+              "60 (fixed)",
+              "$0.35"
+            ],
+            [
+              "Start Deck 100 Battle Collection",
+              "$22.75",
+              "60 (1 random deck)",
+              "$0.38"
+            ],
+            [
+              "SV9 Deck Build Box Battle Partners",
+              "$26.53",
+              "221 (171 fixed + 50 pack)",
+              "$0.12"
+            ],
+            [
+              "Start Deck Generations set",
+              "$28.44",
+              "240 (4 decks)",
+              "$0.12"
+            ],
+            [
+              "SV2P/SV2D Pokemon Center Gym Set",
+              "$127.02",
+              "2 themed decks",
+              "$63.51 per deck"
+            ],
+            [
+              "Special Deck Set ex (Venusaur/Charizard/Blastoise)",
+              "$200.01",
+              "180 (3 decks)",
+              "$1.11"
+            ],
+            [
+              "WCS 2023 Yokohama Pikachu deck",
+              "$387.69",
+              "60 (commemorative)",
+              "$6.46"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "SI Start Deck 100: $7.59 ÷ 60 = $0.13 per card",
+          "Starter Set MEGA Diancie ex: $9.48 ÷ 60 = $0.16 per card",
+          "Starter Set MEGA Gengar ex: $20.86 ÷ 60 = $0.35 per card; Gengar minus Diancie: $20.86 - $9.48 = $11.38",
+          "Start Deck 100 Battle Collection: $22.75 ÷ 60 = $0.38 per card",
+          "SV9 Deck Build Box: 171 fixed + (10 packs x 5 cards) = 221 cards; $26.53 ÷ 221 = $0.12 per card",
+          "Start Deck Generations: $28.44 ÷ 4 decks = $7.11 per deck; $28.44 ÷ 240 cards = $0.12 per card",
+          "Special Deck Set ex: $200.01 ÷ 3 decks = $66.67 per deck; $200.01 ÷ 180 cards = $1.11 per card",
+          "WCS 2023 Yokohama Pikachu deck: $387.69 ÷ 60 = $6.46 per card",
+          "Gym Set: $127.02 ÷ 2 = $63.51 per deck side",
+          "Cheapest pair to play: $7.59 + $9.48 = $17.07 for two decks",
+          "Two fixed MEGA decks: $9.48 + $20.86 = $30.34",
+          "Two Start Deck 100 Battle Collection decks: $22.75 x 2 = $45.50",
+          "The 15% cut, Diancie: $11.15 x 0.85 = $9.48; Gengar: $24.54 x 0.85 = $20.86",
+          "The 15% cut, Battle Collection: $26.77 x 0.85 = $22.75; Generations: $33.46 x 0.85 = $28.44; SI: $8.93 x 0.85 = $7.59"
+        ],
+        "paragraphs": [
+          "Every division is printed above, so any buyer can check the arithmetic. Two notes: the November 3 prices in the last two lines are the prices our own [best Japanese Pokemon starter deck guide](/blog/best-japanese-pokemon-starter-deck-to-buy/) printed twelve days ago, and every one of the five decks it priced fell by exactly 15 percent. The per-card figures are rounded to the cent, so re-dividing from the rounded figure can differ by a cent from the shelf price."
+        ]
+      },
+      {
+        "h": "What the top guides miss: the 15% cut and the two-deck rule",
+        "note": "From the Warehouse: the question we get most about starter decks is not which deck is best, it is whether one deck is enough. It is not. A match needs two decks, so the price that matters is the price of a pair, and every guide that prices one deck and stops has answered the wrong question.",
+        "paragraphs": [
+          "The top results for this search split into two camps, and neither answers the question. The decision guides rank fixed decks against random decks and print official Japanese prices, but they carry no live shelf price and no per-card division. The store guides that do print prices list them one deck at a time, as if a buyer buys one deck and plays alone. None of them prices the pair, none of them prices the four-deck box as a two-player starter kit, and none of them caught the repricing, because none of them re-checked the shelf against its own earlier article.",
+          "The repricing is the news here. On November 3 our own guide priced Diancie at $11.15, Gengar at $24.54, the Battle Collection at $26.77, Generations at $33.46, and the SI deck at $8.93. On November 15 the same five decks are $9.48, $20.86, $22.75, $28.44, and $7.59. Each fell by exactly 15 percent, which is a store-wide repricing, not five separate price moves, and it changes the recommendation: the Battle Collection at $22.75 now costs less than the Gengar fixed deck cost twelve days ago, $24.54, and the cheapest pair to play fell from $20.08 to $17.07. A guide that still quotes November 3 prices overstates every deck on this shelf by a sixth.",
+          "The two-deck rule is the second miss. The official beginner page on pokemon-card.com states that a match needs two or more decks, and the MEGA Start Deck 100 and Starter Set MEGA pages say the same, but the price guides quote single-deck prices and leave the buyer to discover the second deck at checkout. The honest unit is the pair: $17.07 for the cheapest pair, $30.34 for the two fixed MEGA decks, $45.50 for two random Battle Collection decks, and $28.44 for the Generations box, which is the only product that covers two players in one purchase."
+        ]
+      },
+      {
+        "h": "The decision layer: fixed deck, random deck, or four decks",
+        "paragraphs": [
+          "A fixed deck is the only product where you know what you are buying before you pay. The Diancie and Gengar Starter Sets print their full contents: 60 cards, two Mega ex, an ACE SPEC, damage counters, status markers, a playmat, a guide, and a coin. That certainty costs $9.48 for Diancie and $20.86 for Gengar, and the $11.38 gap buys nothing except the Gengar deck list, because the accessories are identical. Buy Diancie first, and buy Gengar only if you specifically want to play Gengar.",
+          "A random deck is a cheaper way to own 60 cards and a worse way to own a deck you want. The SI Start Deck 100 at $7.59 is the cheapest 60 cards on the shelf, but the deck is drawn from 101 possibilities and you cannot choose it. The Battle Collection at $22.75 is the modern version: one of 100 decks drawn from a 742-card pool, with at least two Pokemon ex in every deck, released December 19, 2025. The random decks suit a buyer who wants the surprise and the ex cards; they fail a buyer who has a deck in mind.",
+          "The four-deck box is the only product that solves the two-player problem in one purchase. At $28.44 it is $1.90 cheaper than the cheapest pair of single decks, and it gives each player a choice of two decks instead of one. Its weakness is age: the Generations decks are fixed lists from November 22, 2024, built around older cards, so a buyer who wants the newest Mega cards should buy the MEGA starter sets instead. The [best Japanese Pokemon starter deck guide](/blog/best-japanese-pokemon-starter-deck-to-buy/) ranks the same five decks by strength of buy; this guide prices them, and the two agree on the winner: Diancie for value, Generations for two players."
+        ],
+        "table": {
+          "head": [
+            "Deck type",
+            "Best for",
+            "Price",
+            "Weakness"
+          ],
+          "rows": [
+            [
+              "Fixed Starter Set MEGA",
+              "A known deck, first game tonight",
+              "$9.48 - $20.86",
+              "One deck only; you still need a second"
+            ],
+            [
+              "Random Start Deck 100",
+              "Cheapest 60 cards, surprise included",
+              "$7.59 - $22.75",
+              "You cannot choose the deck"
+            ],
+            [
+              "Four-deck Generations set",
+              "Two players learning together",
+              "$28.44",
+              "Fixed lists from Nov 2024, no Mega cards"
+            ],
+            [
+              "Deck Build Box",
+              "Building a deck from packs + fixed cards",
+              "$26.53",
+              "Not a ready deck; needs assembly"
+            ],
+            [
+              "Collector deck boxes",
+              "Sealed collecting, display",
+              "$127.02 - $387.69",
+              "$1.11 - $6.46 a card; not a way to start"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The risk layer: rotation, legality, and the collector traps",
+        "paragraphs": [
+          "The first risk is rotation. Japan's Standard format has allowed only cards marked H, I, and J since January 23, 2026, eleven weeks before the West rotated. The MEGA starter sets and the Battle Collection are built from H, I, and J cards and are legal in Japan's Standard. The SI Start Deck 100, the Generations set, and the Special Deck Set ex are built from older cards, so check the regulation mark on each card before taking them to a Japanese event. A deck that was legal when it was printed is not necessarily legal now.",
+          "The second risk is legality outside Japan. Japanese cards are not legal in sanctioned English-region events, so a buyer in Singapore, Australia, or Europe who buys a Japanese starter deck to play in a local tournament will be turned away at registration. The decks are for kitchen-table play, collecting, and learning the game, not for sanctioned play outside Japan. Our [how to read Japanese Pokemon cards guide](/blog/how-to-read-japanese-pokemon-cards/) covers the card text and marks a buyer needs to play without knowing Japanese.",
+          "The third risk is the collector trap, and it is the expensive one. The Special Deck Set ex at $200.01 holds three 60-card decks, Venusaur ex, Charizard ex, and Blastoise ex, released November 10, 2023 at 5,500 yen, with one full-illustration starter per deck, a playmat, a deck box, three coins, and damage counters. It is a beautiful box and a bad way to start playing, at $66.67 a deck. The World Championships 2023 Yokohama Pikachu deck at $387.69 is a commemorative 60-card deck, priced as a souvenir of an event, not as cardboard to play with, at $6.46 a card. Buy either one knowing it is a collector purchase, never as a starter deck."
+        ]
+      },
+      {
+        "h": "Context: Japanese starter decks against English ones",
+        "paragraphs": [
+          "The English equivalents of the MEGA starter sets are the Mega Battle Decks, released October 24, 2025, at $14.99 MSRP, each a 60-card deck with a playmat, a coin, a deck box, and a TCG Live code card. The Japanese Diancie deck at $9.48 undercuts the English deck by $5.51 before shipping, and the Japanese Gengar deck at $20.86 costs $5.87 more than its English twin, which is the market saying the Japanese Gengar list is the one collectors want. The English decks carry the TCG Live code the Japanese decks do not, so a buyer who plays online should weigh that in.",
+          "Japan also sells a product English never got in this form: the Battle Academy box, released March 8, 2024 at 3,290 yen, with four 60-card decks, a two-player board, two tutorial guides, a rulebook, and damage counters. The Generations set at $28.44 is the closest thing on our shelf to that idea, four decks in one box, and it is the cheapest per-deck product we stock. A buyer comparing Japanese starter prices against English ones should compare the pair, not the single deck, because the Japanese shelf is priced for a game that needs two decks and the English shelf is priced the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for players who need cards for sanctioned tournament play outside Japan. Japanese cards are not legal in English-region events, so a competitive player should buy English product instead, and our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) is not the right starting point either. It is also not for singles buyers chasing one named card, because a sealed deck is the wrong tool for a want list: the gold Mega Gardevoir ex does not live in a starter deck, and no deck on this shelf contains it.",
+          "This guide is not for collectors hunting sealed appreciation, either. Starter decks are printed in volume, reprinted freely, and priced to be opened, so they do not behave like the sealed booster boxes in our [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/). Buy a starter deck to play it, or to learn with it, and buy a sealed box or a case if the goal is holding sealed product."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide fixed or random: Diancie at $9.48 if you want to know every card, SI Start Deck 100 at $7.59 if you want the cheapest 60 cards and do not mind the surprise.",
+          "Budget for two decks, not one: the cheapest pair is $17.07, the two fixed MEGA decks are $30.34, and the Generations box covers two players for $28.44.",
+          "Check the regulation marks if you play in Japan: H, I, and J only since January 23, 2026, so older decks need a card-by-card check.",
+          "Do not buy the $127.02 Gym Set, the $200.01 Special Deck Set ex, or the $387.69 Yokohama deck as starter decks: all three are collector boxes priced per deck at $63.51, $66.67, and $387.69.",
+          "Re-divide before you pay: every price here is stamped November 15, 2026, and the shelf fell 15 percent in the twelve days before that, so a price quoted from an older guide is wrong by a sixth.",
+          "Keep the box and the playmat: the Starter Set MEGA playmat, coin, and guide are part of the $9.48, and replacing them separately costs more than the deck."
+        ],
+        "h": "Action layer: the starter-deck buying checklist",
+        "paragraphs": [
+          "Work through the list in order and you will buy the right deck the first time, with no surprise at checkout or at the table."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-starter-deck-price",
+    "takeaway": [
+      "The cheapest Japanese Pokemon starter deck is the SI Start Deck 100 at $7.59, or $0.13 a card, and the cheapest fixed deck is the Starter Set MEGA Mega Diancie ex at $9.48, as of November 15, 2026.",
+      "Every deck on the shelf fell exactly 15 percent since November 3, 2026, and a match needs two decks, so the honest price is the pair: $17.07 at the cheapest, $28.44 for two players with the four-deck Generations set.",
+      "The $127.02 Gym Set, the $200.01 Special Deck Set ex, and the $387.69 Yokohama deck are collector boxes, not starter decks, at $63.51 to $387.69 per deck."
+    ]
+  },
   "japanese-tcg-cards-shipping-to-spain": {
     "datePublished": "2026-11-11",
     "faqs": [
@@ -34322,7 +34590,7 @@ export const POSTS: Record<string, BlogPost> = {
           "Start with the loose boxes, because that is where most buyers stop. [M1L Mega Brave](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) at $94.91 divides to $3.16 a pack and $0.63 a card. [M1S Mega Symphonia](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) at $84.97 divides to $2.83 a pack and $0.57 a card. The $9.94 box gap looks small until it is multiplied: twelve loose boxes widen it to $119.28, and the two 12-box cases widen it to $139.03 in M1S's favour.",
           "The case split is where the real money sits. The [M1L sealed case](/product/m1l-mega-brave-sealed-case-12-boxes-japanese-pokemon-card/) at $912.18 splits to $76.02 a box and $2.53 a pack, saving $226.74 against 12 loose boxes. The [M1S sealed case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) at $773.15 splits to $64.43 a box and $2.15 a pack, saving $246.49. Note the reversal: M1S is cheaper loose and cheaper split, and its case discount is deeper in percentage terms, 24.2% against 19.9%.",
           "The Pokemon Center Sets sit in a different price band and should not be compared pack-for-pack with boxes, because their contents are a separate product configuration. The [M1L Pokemon Center Set](/product/m1l-mega-brave-pokemon-center-set-japanese-pokemon-card/) costs $219.70, which is $124.79 above the M1L box. The [M1S Pokemon Center Set](/product/m1s-mega-symphonia-pokemon-center-set-japanese-pokemon-card/) costs $177.30, which is $92.33 above the M1S box. Buy a Center Set for the set itself, not as a cheap route to packs; check the product page for its exact contents before assuming anything about what is inside.",
-          "For context inside the MEGA era, both boxes sit in the middle of the current shelf. [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $70.62 is cheaper per pack than either, and [M2 Inferno X](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at $183.18 is far above both. The full ladder, with every current Japanese box ranked, is in [Best Japanese Pokemon Booster Box to Buy, by Buyer](/blog/best-japanese-pokemon-booster-box-to-buy/). The cross-game ladder, Pokemon and One Piece together, is in [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/)."
+          "For context inside the MEGA era, both boxes sit in the middle of the current shelf. [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $70.62 is cheaper per pack than either, and [M2 Inferno X](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at $183.18 is far above both. The full ladder, with every current Japanese box ranked, is in [Best Japanese Pokemon Booster Box to Buy, by Buyer](/blog/best-japanese-pokemon-booster-box-to-buy/). The cross-game ladder, Pokemon and One Piece together, is in [Best Japanese Booster Box to Buy, by Budget](/blog/best-japanese-booster-box-to-buy/). For M1S alone, with the box, case, and Center Set divided at November 15 prices, see our [M1S Mega Symphonia buyer's guide](/blog/m1s-mega-symphonia-buyers-guide/)."
         ]
       },
       {
@@ -34453,6 +34721,338 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the launch pair's Lucario half in depth, box $94.91 against a case that saves $226.74, with the Mega Lucario ex MUR at $259.54.",
       "New this cycle: the [is M1L worth buying guide](/blog/is-m1l-worth-buying/) gives the dated verdict on the Lucario half, with the $76.02 case-box against the $81.50 market box and the gold priced against the box.",
       "Read the dated verdict in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/)."
+    ]
+  },
+  "m1s-mega-symphonia-buyers-guide": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "Thirty packs of 5 cards, or 150 cards, at 180 yen a pack and 5,400 yen a box at official Japanese retail. The set is 92 cards: a 63-card base set, 001 to 063, plus a 29-card secret tier, 064 to 092, with 12 Art Rares, 11 Super Rares, 5 Special Art Rares, and 1 Mega Ultra Rare. The 20-pack figure comes from the Premium Trainer Box MEGA, which holds 10 M1L packs and 10 M1S packs.",
+        "q": "How many packs and cards come in an M1S Mega Symphonia box?"
+      },
+      {
+        "a": "For the sealed case, yes. Our case is $657.18, or $54.77 a box, which sits $23.48 below the $78.25 TCGplayer market box as of November 11, 2026, and saves $209.46 against twelve single boxes. For one box, the case for buying is weaker: our single box at $72.22 sits $6.03 below that same market box, so it beats the market, but only just, and it is 2.14 times the 5,400 yen official price.",
+        "q": "Is M1S Mega Symphonia worth buying?"
+      },
+      {
+        "a": "Buy M1S if you want the cheaper twin. Its box is $72.22 against $80.67 for M1L Mega Brave, and its case is $657.18 against $775.35, a gap of $8.45 a box and $118.17 a case. Buy M1L only if you want the Lucario chase, because the sets are otherwise twins: same release day, same 30-pack box, same 92-card structure, and one gold Mega Ultra Rare each, Gardevoir here and Lucario there.",
+        "q": "Should I buy M1S or M1L?"
+      }
+    ],
+    "h1": "M1S Mega Symphonia: The Complete Buyer's Guide",
+    "intro": [
+      "Short answer: the M1S Mega Symphonia booster box is $72.22 on our shelf as of November 15, 2026, or $2.41 a pack and $0.48 a card, and the sealed case of twelve is $657.18, or $54.77 a box, a saving of $209.46 against twelve single boxes. The set is the Gardevoir half of the MEGA era launch, released in Japan on August 1, 2025 alongside Mega Brave, with 92 cards and one gold chase: Mega Gardevoir ex, the first Mega Ultra Rare of the era.",
+      "This guide covers what is actually in the set, runs the box, case, and singles math in the open, and prices the twin-set choice against Mega Brave, because M1S is the cheaper twin on every measure that matters, $8.45 less per box and $118.17 less per case, and the only question is whether the cheaper twin is the right box for you."
+    ],
+    "metaDescription": "M1S Mega Symphonia buyer's guide: 30 packs, 92 cards, gold Mega Gardevoir ex. Box $72.22, case $657.18, and the $209.46 case saving, divided.",
+    "metaTitle": "M1S Mega Symphonia Buyer's Guide: Price & Full Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, or buy one box",
+        "paragraphs": [
+          "If you want twelve boxes, buy the [M1S sealed case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) at $657.18. It divides to $54.77 a box, $1.83 a pack, and $0.37 a card, which sits $23.48 below the $78.25 TCGplayer market box as of November 11, 2026, and saves $209.46 against twelve single boxes. It is the only sealed route on this shelf that beats the market by more than a fifth.",
+          "If you want one box, buy the [M1S Japanese booster box](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) at $72.22. It is 30 packs of 5 cards, 150 cards, $2.41 a pack, $0.48 a card, and it sits $6.03 below the market box, so it beats the market, but only just. Never buy either box to pull the gold Mega Gardevoir ex: it runs $230.63 on TCGplayer market as of November 11, 2026, or 3.19 boxes, and the complete set is $442.24, or 6.12 boxes."
+        ],
+        "table": {
+          "head": [
+            "Your job",
+            "Buy this",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Twelve boxes, lowest per pack",
+              "M1S sealed case (12)",
+              "$657.18",
+              "$54.77 a box; $209.46 saved vs singles"
+            ],
+            [
+              "One box to open",
+              "M1S booster box",
+              "$72.22",
+              "$2.41 a pack; $6.03 below the market box"
+            ],
+            [
+              "One named card",
+              "Gold Mega Gardevoir ex single",
+              "$230.63",
+              "3.19 boxes; buy the card, not the chase"
+            ],
+            [
+              "The full set",
+              "All 92 cards as singles",
+              "$442.24",
+              "6.12 boxes; 86% of the value is five cards"
+            ],
+            [
+              "The Center Set",
+              "M1S Pokemon Center Set",
+              "$150.71",
+              "Box plus extras; $78.49 over one box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The shelf: one box, one case, one Center Set",
+        "paragraphs": [
+          "The M1S shelf holds three products. The booster box at $72.22 is the opener's unit: 30 packs, 150 cards, sealed. The sealed case at $657.18 is the bulk unit: twelve boxes, 360 packs, 1,800 cards, factory sealed. The [M1S Pokemon Center Set](/product/m1s-mega-symphonia-pokemon-center-set-japanese-pokemon-card/) at $150.71 is the gift unit: a box plus the Center extras, priced $78.49 above a single box. All three fell by exactly 15 percent since November 12, when our own verdict article priced them at $84.97, $773.15, and $177.30, which is a store-wide repricing, not three separate moves.",
+          "The twin set sits beside it for comparison. The [M1L Mega Brave box](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) is $80.67 and the [M1L sealed case](/product/m1l-mega-brave-sealed-case-12-boxes-japanese-pokemon-card/) is $775.35, so M1S undercuts its twin by $8.45 a box and $118.17 a case, and the M1L Center Set at $186.74 sits $36.03 above the M1S Center Set."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "M1S price",
+            "M1L price",
+            "M1S saving"
+          ],
+          "rows": [
+            [
+              "Booster box",
+              "$72.22",
+              "$80.67",
+              "$8.45"
+            ],
+            [
+              "Sealed case (12 boxes)",
+              "$657.18",
+              "$775.35",
+              "$118.17"
+            ],
+            [
+              "Per box inside the case",
+              "$54.77",
+              "$64.61",
+              "$9.84"
+            ],
+            [
+              "Pokemon Center Set",
+              "$150.71",
+              "$186.74",
+              "$36.03"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: per pack, per card, per case",
+        "paragraphs": [
+          "The table below is the whole M1S money picture, divided from our live catalogue on November 15, 2026. The single box is the dear tier at $2.41 a pack, and the case is the cheap tier at $1.83 a pack, a gap of $0.58 a pack that only widens as you open more. The Center Set is the dearest way to get one box, at $150.71 for a box plus extras, and the extras would need to be worth $78.49 to justify it, which they are not on any price reference we can find: Cardmarket lists the Center Set at 121.43 euros, about $134.56, as of November 11, 2026.",
+          "Against the official price the box is dear by any measure. Thirty packs at 180 yen is 5,400 yen, which is $33.81 at 159.7 yen per dollar, so our $72.22 box sits $38.41 above it, at 2.14 times it, and our $54.77 case box sits $20.96 above it, at 1.62 times it. That is the premium for buying a sealed 2025 set more than a year after release, and it is the same premium the market charges: the TCGplayer market box is $78.25, the cheapest sealed box on Kakaku.com was 8,000 yen, or $50.09, on November 3, 2026, and Cardmarket lists the box at 52.55 euros, about $58.23."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack",
+            "Per card",
+            "Vs market box ($78.25)"
+          ],
+          "rows": [
+            [
+              "Single box",
+              "$72.22",
+              "$2.41",
+              "$0.48",
+              "$6.03 below"
+            ],
+            [
+              "Sealed case (12)",
+              "$657.18",
+              "$1.83",
+              "$0.37",
+              "$23.48 below per box"
+            ],
+            [
+              "Per box in case",
+              "$54.77",
+              "$1.83",
+              "$0.37",
+              "$23.48 below"
+            ],
+            [
+              "Center Set",
+              "$150.71",
+              "n/a",
+              "n/a",
+              "Box plus $78.49 of extras"
+            ],
+            [
+              "Official price (5,400 yen)",
+              "$33.81",
+              "$1.13",
+              "$0.23",
+              "Box is 2.14x official"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "Box: $72.22 ÷ 30 packs = $2.41 per pack; $72.22 ÷ 150 cards = $0.48 per card",
+          "Case: $657.18 ÷ 12 boxes = $54.77 per box; $657.18 ÷ 360 packs = $1.83 per pack; $657.18 ÷ 1,800 cards = $0.37 per card",
+          "Case saving: 12 x $72.22 = $866.64; $866.64 - $657.18 = $209.46 saved; $209.46 ÷ $866.64 = 24.17% saved",
+          "Official price: 5,400 yen ÷ 159.7 = $33.81; $72.22 ÷ $33.81 = 2.14x official; $72.22 - $33.81 = $38.41 above official",
+          "Market box: $78.25 - $72.22 = $6.03 below market; $78.25 - $54.77 = $23.48 below market per case box",
+          "Twelve market boxes: 12 x $78.25 = $939.00; $939.00 - $657.18 = $281.82 saved by the case",
+          "Gold Gardevoir ex: $230.63 ÷ $72.22 = 3.19 boxes; complete set: $442.24 ÷ $72.22 = 6.12 boxes",
+          "Gardevoir SAR: $75.67 ÷ $72.22 = 1.05 boxes; Mega Latias ex SAR: $28.02 ÷ $72.22 = 0.39 boxes",
+          "Twin gap, box: $80.67 - $72.22 = $8.45; twin gap, case: $775.35 - $657.18 = $118.17",
+          "Center Set premium: $150.71 - $72.22 = $78.49 over one box",
+          "The 15% cut, box: $84.97 x 0.85 = $72.22; case: $773.15 x 0.85 = $657.18; Center Set: $177.30 x 0.85 = $150.71"
+        ],
+        "paragraphs": [
+          "Every division is printed above, so any buyer can check the arithmetic. Two notes: the November 11 market figures are TCGplayer market prices as our own [is M1S worth buying guide](/blog/is-m1s-worth-buying/) reported them on November 12, 2026, and the November 12 shelf prices in the last line are from that same guide. The per-card figures are rounded to the cent, so re-dividing from the rounded figure can differ by a cent from the shelf price."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single",
+        "paragraphs": [
+          "A case buyer is buying volume, and the case is the only route that pays for it. At $54.77 a box it sits $23.48 below the market box, and twelve market boxes would cost $939.00 against our $657.18, a saving of $281.82. The case also saves $209.46 against twelve of our own single boxes. No other sealed route on this shelf beats the market by double digits, and the verdict is the same one our November 12 guide reached, only cheaper: the case was the buy then at $773.15, and it is the buy now at $657.18.",
+          "A single-box buyer is buying the opening, not the value. At $72.22 the box sits $6.03 below the market box, so it beats the market, but the margin is thin, and the box is 2.14 times the official price. Buy one box for the fun of opening it, and stop there: the second box is the moment the case math starts to matter, because two single boxes cost $144.44 while two boxes inside a case cost $109.54.",
+          "A singles buyer should not touch sealed product at all. The gold Mega Gardevoir ex at $230.63 is 3.19 boxes, the Gardevoir Special Art Rare at $75.67 is 1.05 boxes, and the complete set at $442.24 is 6.12 boxes, while the top five cards carry 86.04 percent of the set value and 86 of the 92 cards are under $5. The [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) runs the twin comparison in full; the short version is that M1S is the cheaper twin and M1L is the Lucario twin, and the $8.45 box gap is the price of wanting Lucario."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Cost",
+            "Per pack",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Sealed case",
+              "$657.18",
+              "$1.83",
+              "Buy it; $23.48 below market per box"
+            ],
+            [
+              "Single box",
+              "$72.22",
+              "$2.41",
+              "Buy one to open; thin margin over market"
+            ],
+            [
+              "Gold Gardevoir ex single",
+              "$230.63",
+              "n/a",
+              "Buy the card; 3.19 boxes to chase it"
+            ],
+            [
+              "Complete set as singles",
+              "$442.24",
+              "n/a",
+              "Buy singles; 6.12 boxes to open it"
+            ],
+            [
+              "Center Set",
+              "$150.71",
+              "n/a",
+              "Skip it; $78.49 of extras, dear vs Cardmarket"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The chase ladder: Gardevoir, the five SARs, and the gold",
+        "paragraphs": [
+          "The set is 92 cards: a 63-card base set, 001 to 063, plus a 29-card secret tier, 064 to 092, with 12 Art Rares, 11 Super Rares, 5 Special Art Rares, and 1 Mega Ultra Rare. The chase line is Mega Gardevoir ex, the only card in the set printed across all four tiers: a base Double Rare at 053, a Super Rare at 078, a Special Art Rare at 087, and the gold Mega Ultra Rare at 092, the set's single top pull and one of the first two Mega Ultra Rares ever printed, with the M1L Lucario gold.",
+          "Below the gold, the five Special Art Rares, 087 to 091, are the tier collectors chase in volume, and they include Mega Latias ex alongside Acerola's Prank at 090 and Mitsuru's Kindness at 091. The Gardevoir SAR at $75.67 and the Latias SAR at $28.02 are the only two SARs with a market price worth quoting, and the gap between them is the story: Gardevoir is the cover card and Latias is not. The Pokemon Company publishes no pull rates for M1S, confirmed by three independent sources, so no expected value is printed here. The community-reported box structure is about 4 RR Mega ex, 3 Art Rares, and 2 Super Rares per box, with a possible third Super Rare and up to 2 Special Art Rares, but that is community-reported, never odds."
+        ],
+        "table": {
+          "head": [
+            "Tier",
+            "Cards",
+            "Range",
+            "Headline"
+          ],
+          "rows": [
+            [
+              "Base set",
+              "63",
+              "001-063",
+              "Mega Gardevoir ex Double Rare 053"
+            ],
+            [
+              "Art Rare",
+              "12",
+              "064-075",
+              "Twelve ARs, three per box reported"
+            ],
+            [
+              "Super Rare",
+              "11",
+              "076-086",
+              "Mega Gardevoir ex SR 078"
+            ],
+            [
+              "Special Art Rare",
+              "5",
+              "087-091",
+              "Gardevoir SAR 087, Latias SAR, Acerola 090, Mitsuru 091"
+            ],
+            [
+              "Mega Ultra Rare",
+              "1",
+              "092",
+              "Mega Gardevoir ex gold, $230.63"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case saving and the twin gap",
+        "note": "From the Warehouse: the question we get most about M1S is whether the box holds 20 packs or 30. It holds 30. The 20-pack figure comes from the Premium Trainer Box MEGA, released the same day, which holds 10 M1L packs and 10 M1S packs, and every guide that divides the box by 20 prices a pack at $3.61 instead of $2.41.",
+        "paragraphs": [
+          "The top results for this query are strong on the set and stale on the price. The complete guide gets the box right, 30 packs at 180 yen a pack and 5,400 yen official, and it carries the four-tier Gardevoir ladder, but it carries no case math, no complete-set math, no twin price gap, and its own box is listed sealed at 8,762 yen. The pull-rates guide lists the chase cards with SNKRDUNK asks from October 8, 2026, the gold at 27,000 yen, and only its box listing was refreshed. The set page that shows a $0.00 set value and no prices at all is the weakest of the three, and it is the one a buyer lands on first.",
+          "None of the three prices the case, and the case is the article. Twelve single boxes cost $866.64 and the case costs $657.18, a saving of $209.46 that none of the top guides states, because none of them stocks a case to divide. None of them prices the twin gap either: M1S at $72.22 against M1L at $80.67 is an $8.45 decision a buyer makes every time, and the guides that cover one twin without pricing the other leave it unmade. Our [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the twin in full, with the same divisions, so the two guides together are the twin-set price board."
+        ]
+      },
+      {
+        "h": "Context: Japan's M1S versus English Mega Evolution",
+        "paragraphs": [
+          "The English set built from M1S and M1L is Mega Evolution, released September 26, 2025, about eight weeks after the Japanese launch. It is a 36-pack display against the 30-pack Japanese box, and the 56 special-tier English cards numbered 133 to 188 split evenly between the two Japanese sets: 28 prints match M1L and 28 match M1S, so no single Japanese box holds all of them. A buyer who wants the English cards should buy the English set, and a buyer who wants the Japanese prints should buy the Japanese box, because the two are not the same product in a different language.",
+          "The Premium Trainer Box MEGA is the other product from launch day, August 1, 2025: 10 M1L packs and 10 M1S packs plus 172 additional promo and accessory cards for 6,350 yen. What is stocked is the straight choice: one box, twelve boxes, or the Center Set, and the Center Set is the one route the market disagrees with, at $150.71 against about $134.56 on Cardmarket."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, weighed packs, and the falling box",
+        "paragraphs": [
+          "The first risk is the falling box. Our M1S box was $84.97 on November 12 and $72.22 on November 15, a fall of $12.75 in three days, and the box was down 11 percent in the ninety days to November 12 while the set value fell 16.9 percent in the same window. A sealed box bought to hold has lost value in every window we can measure, so buy it to open it, and buy the case only if you will open twelve boxes, because a case held sealed is twelve falling boxes, not one.",
+          "The second risk is the reseal, and M1S is a target precisely because the box is cheap and the gold is dear. Check the shrink wrap for a second seam, check the box flaps for glue that has been reheated, and weigh the box if you can: a 30-pack box of 5-card packs has a narrow weight band, and a resealed box with packs swapped out will sit outside it. Our [how to tell if a booster box is resealed guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) runs the full check, and our [should you open or keep sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) covers the hold decision.",
+          "The third risk is the chase itself. The gold is 3.19 boxes at market, the complete set is 6.12 boxes, and the top five cards carry 86.04 percent of the set value, so the set is five cards and 87 cards under $5. Opening boxes to find the gold is a lottery with the odds unpublished, and the only honest way to own the gold is to buy it as a single at $230.63."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the gold Mega Gardevoir ex is 3.19 boxes, and no pull rate prices the chase another way. It is not for anyone who wants the Center Set at our price, because $150.71 sits about $16 above the Cardmarket price, and the extras do not close that gap. It is not for anyone who needs the box to hold its value, because the box fell 15 percent in three days and 11 percent in the ninety days before that.",
+          "This guide is also not for a buyer who wants the English cards. The English Mega Evolution set is a different product with a 36-pack display, and the Japanese box does not contain English cards. Buy English for English, buy Japanese for Japanese, and do not pay the Japanese premium for cards you cannot read."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the route first: case at $657.18 if you will open twelve boxes, one box at $72.22 if you will open one, and the gold single at $230.63 if you want the chase card.",
+          "Divide before you pay: the box is $2.41 a pack and the case is $1.83 a pack, so a second single box at $144.44 for two already loses to the case math.",
+          "Do not divide by 20: the box holds 30 packs of 5 cards, 150 cards, and the 20-pack figure belongs to the Premium Trainer Box MEGA, not to this box.",
+          "Check the shrink and the flaps before you open a box you did not buy sealed from the shelf, and never buy a loose M1S pack expecting a hit.",
+          "Remember the twin gap: M1S is $8.45 a box cheaper than M1L, so buy M1L only for the Lucario chase.",
+          "Re-divide before you pay: every price here is stamped November 15, 2026, the shelf fell 15 percent in the three days before that, and the market box is dated November 11, 2026."
+        ],
+        "h": "Action layer: the M1S checklist",
+        "paragraphs": [
+          "Work through the list in order and the purchase stays a decision instead of a hope."
+        ]
+      }
+    ],
+    "slug": "m1s-mega-symphonia-buyers-guide",
+    "takeaway": [
+      "The M1S Mega Symphonia box is $72.22, or $2.41 a pack, and the sealed case is $657.18, or $54.77 a box, saving $209.46 against twelve singles, as of November 15, 2026.",
+      "The gold Mega Gardevoir ex is $230.63, or 3.19 boxes, and the complete set is $442.24, or 6.12 boxes, so buy the chase as a single and open the box for the fun of it.",
+      "M1S is the cheaper twin: $8.45 less per box and $118.17 less per case than M1L Mega Brave, with the same 30-pack box and 92-card structure."
     ]
   },
   "m2-inferno-x-buyers-guide": {
