@@ -1072,7 +1072,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The cheapest Japanese One Piece cards on our shelf are OP-15 at $2.90 a pack, PRB-02 at $3.12, and OP-18 on pre-order at $3.50, while OP-01 sits at $9.94 a pack for first-set scarcity. A case saves money on some sets, OP-18 by $8.50 a box and OP-02 by $40.97, and costs more on others, OP-17 by $0.22 and OP-16 by $0.09, so divide the case every time. English costs $1.36 to $13.20 more per pack than the same set in Japanese, and that gap is the language, not the cardboard.",
       "Prices move, so treat every number here as stamped: our Japanese box prices as of November 7, 2026. When OP-18 ships on November 21, re-run the division; the pre-order price undercutting OP-17 today may not survive contact with release week.",
       "For the set-by-set ladder, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides every main set the same way, and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) carries the English side. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience, and the [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) prices the new set box against its case.",
-      "New this cycle: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) applies the same division to Fusion World Japanese boxes from $1.08 a pack, the Manga Boosters, and the Masters English cases."
+      "New this cycle: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) applies the same division to Fusion World Japanese boxes from $1.08 a pack, the Manga Boosters, and the Masters English cases.",
+      "New this cycle: the [best Japanese One Piece cards guide](/blog/best-japanese-one-piece-cards/) prices all 54 Japanese One Piece items, boxes, cases, and promos, from one shelf."
     ]
   },
   "best-disney-lorcana-booster-box-to-buy": {
@@ -3855,7 +3856,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next English set arrives, divide first, check the print second, and ask whether the box is a main set, an extra booster, or a premium booster, because that one fact changes what the price buys.",
       "Still deciding between English and Japanese? The [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) prices the Japanese shelf, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices the shipping leg. If the box is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe. For one set in both languages, the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices the Japanese box at $155.04 against the English box at $790.60.",
       "For the Premium Booster volumes specifically, [PRB-01 vs PRB-02](/blog/prb-01-vs-prb-02-which-to-buy/) compares Vol. 1 and Vol. 2 in Japanese and English, box and case.",
-      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the English case at $178.64 a box against the $212.09 single, and the Japanese pair beside it."
+      "For the newest set in depth, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the English case at $178.64 a box against the $212.09 single, and the Japanese pair beside it.",
+      "New this cycle: the [best One Piece English cards guide](/blog/best-one-piece-english-cards/) prices all 45 English One Piece items, boxes and cases, from one shelf."
     ]
   },
   "best-fusion-world-booster-box-japanese": {
@@ -5317,7 +5319,563 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [One Piece Japanese booster box price index](/blog/one-piece-japanese-booster-box-price/) divides all twenty-four Japanese boxes and their cases from the same live prices — OP-15 at $2.90 a pack against OP-01 at $9.94, with the eleven cases that cost more than singles.",
       "New this cycle: the [Comprar cartas One Piece japonesas en España](/blog/comprar-cartas-one-piece-japonesas/) prices all twenty-four Japanese One Piece boxes in euros, with the €150 line and the 21% IVA landed cost on every box and case.",
       "New this cycle: the [is OP-01 Romance Dawn worth buying guide](/blog/is-op-01-worth-buying/) prices the founding set the same way, Japanese box $238.45 against an English box that fell 20% in six days, with the Manga Shanks chase priced against the box.",
-      "For where to buy the box once you have picked it, the [where to buy Japanese One Piece booster boxes guide](/blog/where-to-buy-japanese-one-piece-booster-box/) prices the shelf, the US marketplace, and the Buyee proxy stack side by side."
+      "For where to buy the box once you have picked it, the [where to buy Japanese One Piece booster boxes guide](/blog/where-to-buy-japanese-one-piece-booster-box/) prices the shelf, the US marketplace, and the Buyee proxy stack side by side.",
+      "New this cycle: the [best Japanese One Piece cards guide](/blog/best-japanese-one-piece-cards/) prices all 54 Japanese One Piece items, boxes, cases, and promos, from one shelf."
+    ]
+  },
+  "best-japanese-one-piece-cards": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "Yes. On our shelf on November 15, 2026 the OP-15 box is $59.06, which works out to $2.46 a pack and $0.41 a card. The next cheapest box is PRB-02 at $63.60 per box, and the next standard box is the OP-18 pre-order box at $71.40, or $2.98 a pack.",
+        "q": "Is the OP-15 box really the cheapest Japanese One Piece box?"
+      },
+      {
+        "a": "It depends on the set. On our shelf, 13 of the 24 Japanese cases save money and 11 cost more than buying the boxes one at a time. The OP-02 case saves $417.95 and the OP-03 case saves $358.28, while the OP-05 case costs $4.58 more and the OP-17 case costs $2.22 more. Divide the case before you buy it.",
+        "q": "Should I buy a Japanese One Piece case or 12 single boxes?"
+      },
+      {
+        "a": "Almost always, per box. OP-01 is $202.68 in Japanese against $377.71 in English, and OP-15 is $59.06 in Japanese against $181.24 in English. The one near-tie is OP-12, where the Japanese box is $110.32 and the English box is $110.54, only 22 cents apart.",
+        "q": "Are Japanese One Piece cards cheaper than English ones?"
+      }
+    ],
+    "h1": "Best Japanese One Piece Cards to Buy",
+    "intro": [
+      "Short answer: the best Japanese One Piece cards to buy right now are the OP-15 box at $59.06, which works out to $2.46 a pack, and the OP-18 pre-order box at $71.40, which works out to $2.98 a pack. Both sit at the bottom of a 24-box ladder we priced box by box from our own shelf, and both are available today, November 15, 2026, one in stock and one on pre-order.",
+      "This guide prices all 54 Japanese One Piece items we carry: 24 booster boxes, 24 sealed cases, and six promo and collectible items. Every price comes from our live catalogue, every division is shown, and the case table holds a surprise: 11 of the 24 cases cost more per box than buying the boxes one at a time. Read the per-pack column first."
+    ],
+    "metaDescription": "Every Japanese One Piece box and case on our shelf, divided per pack: OP-15 at $2.46 a pack, OP-01 at $8.45, and eleven cases that cost more than singles.",
+    "metaTitle": "Best Japanese One Piece Cards to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer by buyer",
+        "paragraphs": [
+          "If you want your first Japanese One Piece box, buy the [OP-15 box](/product/op-15-adventure-on-kamis-island-booster-box-japanese-one-piece-card/). At $59.06 it is the cheapest box on the shelf, it works out to $2.46 a pack, and it holds the newest full set before OP-18 arrives. If you want the origin set, buy the OP-01 box at $202.68, which is $8.45 a pack for the set that started the game in Japan in July 2022. If you want the premium reprint set, buy the PRB-02 box at $63.60, the cheapest premium box we carry. If you want the newest set of all, pre-order the [OP-18 box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) at $71.40 before its Japanese release on November 21, 2026. And if you want a case, read the case table first, because 11 of our 24 Japanese cases cost more per box than the boxes inside them.",
+          "The rule for this whole guide is short: buy the cheapest per-pack box that holds the set you want, and never buy a case without dividing it first. Our [Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the boxes on their own, and our [Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices the cases on their own; this guide puts both ladders next to each other so the box-versus-case decision is made in one place.",
+          "This guide is a hub across formats, not a single-format ranking. It covers boxes, cases, and the promo shelf together, because a buyer who asks for the best Japanese One Piece cards is really asking which format to spend on. The [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides the packs, and the [best One Piece Japanese special set guide](/blog/best-one-piece-japanese-special-set/) covers the Extra Boosters and Premium Boosters. Read this guide for the whole shelf, then follow those links for the format you settle on.",
+          "The table below turns the answer into a buy list. Find your job in the first column, buy the item in the second column, and check the reason in the fourth column. If two rows both fit, the cheaper per-pack figure wins. Two rows need a note. The OP-18 pre-order row is a promise, not a box on a shelf: the set releases in Japan on November 21, 2026, so confirm the ship date at checkout before you pay. The promo row is for collectors who want a specific card or item, not for ripping: the Promotion Card Set 2025 is the cheapest item on the shelf at $10.27, but it is six cards, not a box, and it will not fill a deck.",
+          "For the Spanish-language version of this shelf, see [Comprar cartas One Piece japonesas](/blog/comprar-cartas-one-piece-japonesas/), which prices the same 24 boxes for buyers in Spain."
+        ],
+        "table": {
+          "head": [
+            "Your job",
+            "Buy this",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "First box ever",
+              "OP-15 box",
+              "$59.06",
+              "cheapest box, $2.46 a pack"
+            ],
+            [
+              "Cheapest per pack",
+              "OP-15 box",
+              "$59.06",
+              "$2.46 a pack, $0.41 a card"
+            ],
+            [
+              "Newest set",
+              "OP-18 box (pre-order)",
+              "$71.40",
+              "$2.98 a pack, releases Nov 21, 2026"
+            ],
+            [
+              "Origin set",
+              "OP-01 box",
+              "$202.68",
+              "the founding set, $8.45 a pack"
+            ],
+            [
+              "Premium reprint",
+              "PRB-02 box",
+              "$63.60",
+              "cheapest premium box, SR floor per pack"
+            ],
+            [
+              "Promo entry",
+              "Promotion Card Set 2025",
+              "$10.27",
+              "$1.71 a card, six cards"
+            ],
+            [
+              "Twelve boxes, biggest saving",
+              "OP-02 case",
+              "$1,687.57",
+              "saves $417.95 against singles"
+            ],
+            [
+              "Twelve boxes, newest set",
+              "OP-18 case (pre-order)",
+              "$770.10",
+              "saves $86.70 against singles"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: every Japanese box, divided",
+        "paragraphs": [
+          "The table below is the whole Japanese box ladder, cheapest first, priced from our live catalogue on November 15, 2026. A standard Japanese box holds 24 packs of six cards, which is 144 cards per box. PRB-01 holds 10 packs of ten cards, which is 100 cards per box. PRB-02 is priced per box only, because the official pages print the 10-card pack but no packs-per-box figure for it, so no per-pack division is printed for PRB-02 anywhere in this guide. OP-18 is a pre-order: the set releases in Japan on November 21, 2026, so its box and case prices are pre-order prices, not in-stock prices.",
+          "The cheapest five boxes are OP-15 at $59.06, PRB-02 at $63.60, OP-18 at $71.40 on pre-order, EB-04 at $77.38, and then three boxes tied at $83.52: OP-14, OP-10, and OP-08, all at $3.48 a pack. The dearest five are the [OP-01 box](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) at $202.68, OP-02 at $175.46, OP-05 at $158.62, OP-04 at $158.60, and OP-11 at $154.03. The spread from cheapest to dearest per pack is $2.46 to $8.45, and OP-01 costs 3.43 times the OP-15 box for the same 24 packs. Age, not contents, sets most of that gap: sealed supply of the earliest printings is what the price is actually measuring.",
+          "Two boxes deserve a closer look. PRB-02 at $63.60 is the second cheapest box on the shelf and the cheapest way into a premium reprint set, but it carries an official floor of at least one Super Rare or better per pack, which PRB-01 does not carry, so its low price is not a low-quality signal. OP-18 at $71.40 is the newest set, priced low because it has not released yet. The [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) covers the new set in depth, including the Japanese and English release dates and the pre-order case."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Box price",
+            "Per pack",
+            "Per card"
+          ],
+          "rows": [
+            [
+              "OP-15 Adventure on Kami's Island",
+              "$59.06",
+              "$2.46",
+              "$0.41"
+            ],
+            [
+              "PRB-02 The Best Vol. 2",
+              "$63.60",
+              "per box only",
+              "per box only"
+            ],
+            [
+              "OP-18 The Dominance of God (pre-order)",
+              "$71.40",
+              "$2.98",
+              "$0.50"
+            ],
+            [
+              "EB-04 Egghead Crisis",
+              "$77.38",
+              "$3.22",
+              "$0.54"
+            ],
+            [
+              "OP-14 The Azure Sea's Seven",
+              "$83.52",
+              "$3.48",
+              "$0.58"
+            ],
+            [
+              "OP-10 Royal Blood",
+              "$83.52",
+              "$3.48",
+              "$0.58"
+            ],
+            [
+              "OP-08 Two Legends",
+              "$83.52",
+              "$3.48",
+              "$0.58"
+            ],
+            [
+              "OP-16 The Time of Battle",
+              "$89.25",
+              "$3.72",
+              "$0.62"
+            ],
+            [
+              "OP-17 World's Strongest Warriors",
+              "$103.09",
+              "$4.30",
+              "$0.72"
+            ],
+            [
+              "OP-12 Legacy of the Master",
+              "$110.32",
+              "$4.60",
+              "$0.77"
+            ],
+            [
+              "OP-07 500 Years in the Future",
+              "$114.17",
+              "$4.76",
+              "$0.79"
+            ],
+            [
+              "OP-13 Carrying on His Will",
+              "$114.75",
+              "$4.78",
+              "$0.80"
+            ],
+            [
+              "PRB-01 The Best",
+              "$127.19",
+              "$12.72",
+              "$1.27"
+            ],
+            [
+              "EB-03 Heroines Edition",
+              "$131.78",
+              "$5.49",
+              "$0.92"
+            ],
+            [
+              "EB-01 Memorial Collection",
+              "$131.78",
+              "$5.49",
+              "$0.92"
+            ],
+            [
+              "OP-06 Wings of the Captain",
+              "$140.98",
+              "$5.87",
+              "$0.98"
+            ],
+            [
+              "OP-09 Emperors in the New World",
+              "$149.41",
+              "$6.23",
+              "$1.04"
+            ],
+            [
+              "OP-03 Pillars of Strength",
+              "$149.41",
+              "$6.23",
+              "$1.04"
+            ],
+            [
+              "EB-02 Anime 25th Collection",
+              "$152.03",
+              "$6.33",
+              "$1.06"
+            ],
+            [
+              "OP-11 A Fist of Divine Speed",
+              "$154.03",
+              "$6.42",
+              "$1.07"
+            ],
+            [
+              "OP-04 Kingdoms of Intrigue",
+              "$158.60",
+              "$6.61",
+              "$1.10"
+            ],
+            [
+              "OP-05 Awakening of the New Era",
+              "$158.62",
+              "$6.61",
+              "$1.10"
+            ],
+            [
+              "OP-02 Paramount War",
+              "$175.46",
+              "$7.31",
+              "$1.22"
+            ],
+            [
+              "OP-01 Romance Dawn",
+              "$202.68",
+              "$8.45",
+              "$1.41"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "OP-15 box: $59.06 ÷ 24 = $2.46 per pack; $59.06 ÷ 144 = $0.41 per card",
+          "OP-18 box: $71.40 ÷ 24 = $2.98 per pack; $71.40 ÷ 144 = $0.50 per card",
+          "EB-04 box: $77.38 ÷ 24 = $3.22 per pack; $77.38 ÷ 144 = $0.54 per card",
+          "OP-14 box: $83.52 ÷ 24 = $3.48 per pack; $83.52 ÷ 144 = $0.58 per card",
+          "OP-10 box: $83.52 ÷ 24 = $3.48 per pack; $83.52 ÷ 144 = $0.58 per card",
+          "OP-08 box: $83.52 ÷ 24 = $3.48 per pack; $83.52 ÷ 144 = $0.58 per card",
+          "OP-16 box: $89.25 ÷ 24 = $3.72 per pack; $89.25 ÷ 144 = $0.62 per card",
+          "OP-17 box: $103.09 ÷ 24 = $4.30 per pack; $103.09 ÷ 144 = $0.72 per card",
+          "OP-12 box: $110.32 ÷ 24 = $4.60 per pack; $110.32 ÷ 144 = $0.77 per card",
+          "OP-07 box: $114.17 ÷ 24 = $4.76 per pack; $114.17 ÷ 144 = $0.79 per card",
+          "OP-13 box: $114.75 ÷ 24 = $4.78 per pack; $114.75 ÷ 144 = $0.80 per card",
+          "PRB-01 box: $127.19 ÷ 10 = $12.72 per pack; $127.19 ÷ 100 = $1.27 per card",
+          "EB-03 box: $131.78 ÷ 24 = $5.49 per pack; $131.78 ÷ 144 = $0.92 per card",
+          "EB-01 box: $131.78 ÷ 24 = $5.49 per pack; $131.78 ÷ 144 = $0.92 per card",
+          "OP-06 box: $140.98 ÷ 24 = $5.87 per pack; $140.98 ÷ 144 = $0.98 per card",
+          "OP-09 box: $149.41 ÷ 24 = $6.23 per pack; $149.41 ÷ 144 = $1.04 per card",
+          "OP-03 box: $149.41 ÷ 24 = $6.23 per pack; $149.41 ÷ 144 = $1.04 per card",
+          "EB-02 box: $152.03 ÷ 24 = $6.33 per pack; $152.03 ÷ 144 = $1.06 per card",
+          "OP-11 box: $154.03 ÷ 24 = $6.42 per pack; $154.03 ÷ 144 = $1.07 per card",
+          "OP-04 box: $158.60 ÷ 24 = $6.61 per pack; $158.60 ÷ 144 = $1.10 per card",
+          "OP-05 box: $158.62 ÷ 24 = $6.61 per pack; $158.62 ÷ 144 = $1.10 per card",
+          "OP-02 box: $175.46 ÷ 24 = $7.31 per pack; $175.46 ÷ 144 = $1.22 per card",
+          "OP-01 box: $202.68 ÷ 24 = $8.45 per pack; $202.68 ÷ 144 = $1.41 per card",
+          "OP-15 case: $693.60 ÷ 12 = $57.80 per box; (12 x $59.06) - $693.60 = $15.12",
+          "OP-18 case: $770.10 ÷ 12 = $64.18 per box; (12 x $71.40) - $770.10 = $86.70",
+          "EB-04 case: $923.12 ÷ 12 = $76.93 per box; (12 x $77.38) - $923.12 = $5.44",
+          "OP-14 case: $1,002.93 ÷ 12 = $83.58 per box; $1,002.93 - $1,002.24 = $0.69",
+          "OP-10 case: $1,002.93 ÷ 12 = $83.58 per box; $1,002.93 - $1,002.24 = $0.69",
+          "OP-08 case: $1,002.93 ÷ 12 = $83.58 per box; $1,002.93 - $1,002.24 = $0.69",
+          "OP-16 case: $1,071.92 ÷ 12 = $89.33 per box; $1,071.92 - $1,071.00 = $0.92",
+          "OP-17 case: $1,239.30 ÷ 12 = $103.28 per box; $1,239.30 - $1,237.08 = $2.22",
+          "PRB-02 case: $1,266.13 ÷ 20 = $63.31 per box; (20 x $63.60) - $1,266.13 = $5.87",
+          "PRB-01 case: $1,266.13 ÷ 10 = $126.61 per box; (10 x $127.19) - $1,266.13 = $5.77",
+          "OP-12 case: $1,318.32 ÷ 12 = $109.86 per box; (12 x $110.32) - $1,318.32 = $5.52",
+          "OP-07 case: $1,371.25 ÷ 12 = $114.27 per box; $1,371.25 - $1,370.04 = $1.21",
+          "OP-13 case: $1,377.31 ÷ 12 = $114.78 per box; $1,377.31 - $1,377.00 = $0.31",
+          "OP-03 case: $1,434.64 ÷ 12 = $119.55 per box; (12 x $149.41) - $1,434.64 = $358.28",
+          "EB-03 case: $1,582.28 ÷ 12 = $131.86 per box; $1,582.28 - $1,581.36 = $0.92",
+          "EB-01 case: $1,582.28 ÷ 12 = $131.86 per box; $1,582.28 - $1,581.36 = $0.92",
+          "OP-02 case: $1,687.57 ÷ 12 = $140.63 per box; (12 x $175.46) - $1,687.57 = $417.95",
+          "OP-06 case: $1,688.19 ÷ 12 = $140.68 per box; (12 x $140.98) - $1,688.19 = $3.57",
+          "EB-02 case: $1,791.93 ÷ 12 = $149.33 per box; (12 x $152.03) - $1,791.93 = $32.43",
+          "OP-09 case: $1,793.31 ÷ 12 = $149.44 per box; $1,793.31 - $1,792.92 = $0.39",
+          "OP-11 case: $1,825.69 ÷ 12 = $152.14 per box; (12 x $154.03) - $1,825.69 = $22.67",
+          "OP-04 case: $1,898.43 ÷ 12 = $158.20 per box; (12 x $158.60) - $1,898.43 = $4.77",
+          "OP-05 case: $1,908.02 ÷ 12 = $159.00 per box; $1,908.02 - $1,903.44 = $4.58",
+          "OP-01 case: $2,381.25 ÷ 12 = $198.44 per box; (12 x $202.68) - $2,381.25 = $50.91",
+          "Japanese list box 5,280 yen ÷ 159.8 = $33.04",
+          "Japanese list box 5,760 yen ÷ 159.8 = $36.05",
+          "OP-15 above list: $59.06 - $33.04 = $26.02",
+          "OP-18 above list: $71.40 - $36.05 = $35.35",
+          "Cheapest to dearest box: $202.68 - $59.06 = $143.62",
+          "Promotion Card Set 2025: $10.27 ÷ 6 = $1.71 per card",
+          "All 24 boxes: $59.06 + $63.60 + $71.40 + $77.38 + $83.52 + $83.52 + $83.52 + $89.25 + $103.09 + $110.32 + $114.17 + $114.75 + $127.19 + $131.78 + $131.78 + $140.98 + $149.41 + $149.41 + $152.03 + $154.03 + $158.60 + $158.62 + $175.46 + $202.68 = $2,885.55",
+          "All 24 cases: $693.60 + $770.10 + $923.12 + $1,002.93 + $1,002.93 + $1,002.93 + $1,071.92 + $1,239.30 + $1,266.13 + $1,266.13 + $1,318.32 + $1,371.25 + $1,377.31 + $1,434.64 + $1,582.28 + $1,582.28 + $1,687.57 + $1,688.19 + $1,791.93 + $1,793.31 + $1,825.69 + $1,898.43 + $1,908.02 + $2,381.25 = $33,879.56",
+          "All six promo items: $10.27 + $10.57 + $10.57 + $32.75 + $203.80 + $274.09 = $542.05",
+          "Whole Japanese shelf: $2,885.55 + $33,879.56 + $542.05 = $37,307.16"
+        ],
+        "paragraphs": [
+          "Every division in this guide is printed below, so any buyer can check our arithmetic before spending. The per-pack spread runs from $2.46 for OP-15 to $8.45 for OP-01, a gap of $143.62 between the cheapest and dearest boxes on the shelf. The yen comparison underneath it is just as useful: at the November 15, 2026 mid-market rate of 159.8 yen to the dollar, a standard Japanese list box of 5,280 yen converts to $33.04 and a 5,760 yen list box converts to $36.05, so the OP-15 box at $59.06 sits $26.02 above its list price and the OP-18 pre-order box at $71.40 sits $35.35 above its list price. ",
+          "The totals close the section. All 24 boxes together cost $2,885.55. All 24 cases together cost $33,879.56. The six promo and collectible items together cost $542.05. The whole 54-item Japanese One Piece shelf, boxes plus cases plus promos, costs $37,307.16. The cases are where the money sits, which is why the case table in the next section is the one to read twice."
+        ]
+      },
+      {
+        "h": "The case table: 11 cases cost more than singles",
+        "paragraphs": [
+          "A sealed case should cost less per box than buying the boxes one at a time, because a case is twelve boxes bought at once. On the Japanese side of our shelf, that rule holds for 13 of the 24 cases and breaks for 11 of them. The biggest savers are the [OP-02 case](/product/op-02-paramount-war-sealed-case-12-boxes-japanese-one-piece-card/) at $1,687.57, which saves $417.95 against twelve single boxes, and the [OP-03 case](/product/op-03-pillars-of-strength-sealed-case-12-boxes-japanese-one-piece-card/) at $1,434.64, which saves $358.28. The OP-18 pre-order case saves $86.70, the OP-01 case saves $50.91, and the EB-02 case saves $32.43. The penalties run from $0.31 on OP-13 to $4.58 on OP-05, and a buyer who assumes every case is a discount will pay them.",
+          "The pattern is worth naming. The cases that save real money are mostly the older sets: OP-01, OP-02, OP-03, OP-04, OP-06, OP-11, and EB-02, where sealed supply has thinned and the case price was set when the market was softer. The cases that cost more than singles are mostly the recent sets: OP-08, OP-10, OP-14, OP-16, and OP-17, where single boxes are still plentiful and cheap, so the case carries no discount at all. Three cases sit at exactly $1,002.93, OP-14, OP-10, and OP-08, and all three cost $0.69 more than twelve singles: case pricing is set per set, not by a formula.",
+          "The practical rule follows from the table. If you want twelve boxes of OP-02 or OP-03, buy the case and keep the saving. If you want twelve boxes of OP-05 or OP-17, buy twelve single boxes and keep the difference. And if you want one box, the case table does not apply to you at all: buy the single box and ignore the case. The [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) runs the same 24-case ladder on its own for buyers who only want cases."
+        ],
+        "table": {
+          "head": [
+            "Case",
+            "Case price",
+            "Per box",
+            "12 singles",
+            "Saves or costs"
+          ],
+          "rows": [
+            [
+              "OP-15 case",
+              "$693.60",
+              "$57.80",
+              "$708.72",
+              "saves $15.12"
+            ],
+            [
+              "OP-18 case (pre-order)",
+              "$770.10",
+              "$64.18",
+              "$856.80",
+              "saves $86.70"
+            ],
+            [
+              "EB-04 case",
+              "$923.12",
+              "$76.93",
+              "$928.56",
+              "saves $5.44"
+            ],
+            [
+              "OP-14 case",
+              "$1,002.93",
+              "$83.58",
+              "$1,002.24",
+              "costs $0.69 more"
+            ],
+            [
+              "OP-10 case",
+              "$1,002.93",
+              "$83.58",
+              "$1,002.24",
+              "costs $0.69 more"
+            ],
+            [
+              "OP-08 case",
+              "$1,002.93",
+              "$83.58",
+              "$1,002.24",
+              "costs $0.69 more"
+            ],
+            [
+              "OP-16 case",
+              "$1,071.92",
+              "$89.33",
+              "$1,071.00",
+              "costs $0.92 more"
+            ],
+            [
+              "OP-17 case",
+              "$1,239.30",
+              "$103.28",
+              "$1,237.08",
+              "costs $2.22 more"
+            ],
+            [
+              "PRB-02 case (20 boxes)",
+              "$1,266.13",
+              "$63.31",
+              "$1,272.00",
+              "saves $5.87"
+            ],
+            [
+              "PRB-01 case (10 boxes)",
+              "$1,266.13",
+              "$126.61",
+              "$1,271.90",
+              "saves $5.77"
+            ],
+            [
+              "OP-12 case",
+              "$1,318.32",
+              "$109.86",
+              "$1,323.84",
+              "saves $5.52"
+            ],
+            [
+              "OP-07 case",
+              "$1,371.25",
+              "$114.27",
+              "$1,370.04",
+              "costs $1.21 more"
+            ],
+            [
+              "OP-13 case",
+              "$1,377.31",
+              "$114.78",
+              "$1,377.00",
+              "costs $0.31 more"
+            ],
+            [
+              "OP-03 case",
+              "$1,434.64",
+              "$119.55",
+              "$1,792.92",
+              "saves $358.28"
+            ],
+            [
+              "EB-03 case",
+              "$1,582.28",
+              "$131.86",
+              "$1,581.36",
+              "costs $0.92 more"
+            ],
+            [
+              "EB-01 case",
+              "$1,582.28",
+              "$131.86",
+              "$1,581.36",
+              "costs $0.92 more"
+            ],
+            [
+              "OP-02 case",
+              "$1,687.57",
+              "$140.63",
+              "$2,105.52",
+              "saves $417.95"
+            ],
+            [
+              "OP-06 case",
+              "$1,688.19",
+              "$140.68",
+              "$1,691.76",
+              "saves $3.57"
+            ],
+            [
+              "EB-02 case",
+              "$1,791.93",
+              "$149.33",
+              "$1,824.36",
+              "saves $32.43"
+            ],
+            [
+              "OP-09 case",
+              "$1,793.31",
+              "$149.44",
+              "$1,792.92",
+              "costs $0.39 more"
+            ],
+            [
+              "OP-11 case",
+              "$1,825.69",
+              "$152.14",
+              "$1,848.36",
+              "saves $22.67"
+            ],
+            [
+              "OP-04 case",
+              "$1,898.43",
+              "$158.20",
+              "$1,903.20",
+              "saves $4.77"
+            ],
+            [
+              "OP-05 case",
+              "$1,908.02",
+              "$159.00",
+              "$1,903.44",
+              "costs $4.58 more"
+            ],
+            [
+              "OP-01 case",
+              "$2,381.25",
+              "$198.44",
+              "$2,432.16",
+              "saves $50.91"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other guides miss: the case penalty and the promo shelf",
+        "note": "From the Warehouse: we price what we stock, and we stock what we can ship. A case that costs more than its boxes is not a mistake in our maths, it is the market speaking, and we print it either way. If a number on this page ever looks wrong to you, check it against the product page and tell us, because the shelf is the source of truth and this guide is only as good as its last check.",
+        "paragraphs": [
+          "The top guides for Japanese One Piece cards rank the sets and describe the chase cards, but none of them prices a full ladder from one live shelf, and none of them shows the case penalty. A guide that only lists box prices cannot show the case penalty. A guide that only covers the main sets cannot tell you that the cheapest item on the shelf is a $10.27 promo pack, not a box. That is the gap this guide owns: every format, one shelf, every division shown.",
+          "The promo shelf is the second half of that gap. Six items sit outside the box ladder, and they are not ripping stock, so they never belong in a per-pack ranking. The [Promotion Card Set 2025](/product/one-piece-promotion-card-set-2025-sealed-pack-6-cards-japanese-one-piece-card/) is $10.27 for a sealed pack of six cards, which works out to $1.71 per card. Two ONE PIECE magazine promo Luffy cards are $10.57 each, one from volume 21 and one a Super Rare. The Saikyo Jump Promo Pack is $32.75. The CHOPPER comic volume 1 with its promo card is $203.80, and the Premium Card Collection Kumamoto Special is $274.09. The last two are collectibles, not packs to open.",
+          "The [Japanese One Piece cards price index](/blog/japanese-one-piece-cards-price/) prices every set in both languages for buyers who want the Japanese-versus-English comparison in one place, and the [where to buy Japanese One Piece booster boxes guide](/blog/where-to-buy-japanese-one-piece-booster-box/) covers the buying route itself. This guide stays with the shelf: what is on it, what it costs, and what the arithmetic says about each format."
+        ]
+      },
+      {
+        "h": "The risk layer: pre-orders, fakes, and the language trap",
+        "paragraphs": [
+          "The OP-18 box and case are pre-orders, and pre-orders carry a risk that in-stock boxes do not. The Japanese release date is November 21, 2026, and the box is $71.40 and the case is $770.10 today, but a pre-order price is a price for a product that has not shipped yet. Confirm the ship date at checkout. If the release slips, the pre-order waits with it. The [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) tracks the set in both languages and is the place to check before the release date.",
+          "Sealed Japanese boxes are faked, and the fakes are aimed at exactly the dear sets in this guide: OP-01, OP-02, and OP-05. Our guide on [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) shows what to check before you open a box you did not buy from a store you trust, and it is worth reading before you buy any sealed Japanese box above $150. Buying from a single live shelf with a published catalogue is itself a defence: the price, the product page, and the order record all exist in one place.",
+          "The language trap is the quietest risk in this guide. Japanese One Piece cards carry Japanese text, and if you play in English-language tournaments or you read English, the Japanese cards are a collecting choice, not a playing choice. The English versions of the same sets are priced in our [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/), which shows one set in both languages, and the English box of EB-01 costs $537.61 against $131.78 for the Japanese box, so the language decision is also a money decision. Every price here is a November 15, 2026 shelf price, so re-check at checkout."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for sealed Pokemon or Lorcana buyers. Those games have their own ladders, their own box sizes, and their own case arithmetic, and a One Piece per-pack figure tells a Pokemon buyer nothing. It is not for English-only players either: if you need English text on the card, the Japanese shelf is the wrong shelf, and the English guide is the one to read. It is also not for graded-singles buyers: we sell sealed product, and singles pricing is a different market with its own spreads.",
+          "And this guide is not for anyone seeking a guaranteed return. No sealed purchase guarantees a pull, a profit, or a resale price, and no case saving in this guide is a promise that the cards inside will be worth more than the box. The per-pack column is a buying tool, not an investment forecast, and it should be used that way."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick your set by theme first, then check its per-pack price, not its box price.",
+          "If you want twelve boxes, divide the case: 13 Japanese cases save money and 11 cost more than singles.",
+          "If you buy OP-18, confirm the pre-order ship date at checkout; the Japanese release is November 21, 2026.",
+          "If you play in English, buy English cards; Japanese cards carry Japanese text.",
+          "If you want promos, buy them as collectibles: the Promotion Card Set 2025 is six cards, not a box.",
+          "Re-check the price at checkout, because every price in this guide is a November 15, 2026 shelf price."
+        ],
+        "h": "The Japanese One Piece checklist",
+        "paragraphs": [
+          "Work through the list in order and you will buy the right Japanese One Piece product the first time. The list is short on purpose: six checks, each one catching a mistake this guide has seen buyers make."
+        ]
+      }
+    ],
+    "slug": "best-japanese-one-piece-cards",
+    "takeaway": [
+      "The cheapest Japanese One Piece box is OP-15 at $59.06, or $2.46 a pack, and the newest set is OP-18 on pre-order at $71.40, or $2.98 a pack.",
+      "24 boxes, 24 cases, and six promo items: the whole Japanese shelf is $37,307.16, and every division is shown in the math section above.",
+      "13 Japanese cases save money and 11 cost more than singles, so divide any case before buying it. The OP-02 case saves $417.95; the OP-05 case costs $4.58 more.",
+      "Japanese cards are almost always cheaper per box than the same set in English, with OP-12 the one near-tie at 22 cents apart."
     ]
   },
   "best-japanese-one-piece-sealed-case-to-buy": {
@@ -8381,7 +8939,539 @@ export const POSTS: Record<string, BlogPost> = {
       "For the dearest English box on the shelf, see [OP-11 A Fist of Divine Speed Buyer's Guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/).",
       "For the Yellow debut set in depth, see [OP-03 Pillars of Strength Buyer's Guide](/blog/op-03-pillars-of-strength-buyers-guide/).",
       "For the origin set in depth, see [OP-01 Romance Dawn Buyer's Guide](/blog/op-01-romance-dawn-buyers-guide/).",
-      "For the pack question in depth, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides every Japanese box to the pack and compares it per card against English — OP-15 at $2.90 a pack and $0.48 a card."
+      "For the pack question in depth, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides every Japanese box to the pack and compares it per card against English — OP-15 at $2.90 a pack and $0.48 a card.",
+      "New this cycle: the [best One Piece English cards guide](/blog/best-one-piece-english-cards/) prices all 45 English One Piece items, boxes and cases, from one shelf."
+    ]
+  },
+  "best-one-piece-english-cards": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "OP-12 Legacy of the Master at $110.54, which works out to $4.61 a pack and $0.38 a card. It is also the only English box on our shelf that sits under its $119.76 list box price, by $9.22. The next cheapest is OP-10 Royal Blood at $121.95, or $5.08 a pack.",
+        "q": "What is the cheapest English One Piece box?"
+      },
+      {
+        "a": "Yes, if you want twelve boxes of one set. Every English case we can divide saves money against twelve single boxes, from $129.53 on EB-02 to $1,280.96 on OP-03. The only case with no per-box figure is PRB-02, because the official pages do not print how many boxes it holds.",
+        "q": "Should I buy an English One Piece case?"
+      },
+      {
+        "a": "Almost always, per box. OP-01 is $377.71 in English against $202.68 in Japanese, and EB-01 is $537.61 in English against $131.78 in Japanese. The one near-tie is OP-12, where the English box is $110.54 and the Japanese box is $110.32, only 22 cents apart.",
+        "q": "Are English One Piece cards more expensive than Japanese?"
+      }
+    ],
+    "h1": "Best One Piece English Cards to Buy",
+    "intro": [
+      "Short answer: the best English One Piece cards to buy right now are the OP-12 box at $110.54, which works out to $4.61 a pack, and the OP-10 box at $121.95, which works out to $5.08 a pack. OP-12 even sits $9.22 under its $119.76 list box price, and both boxes are in stock today, November 15, 2026.",
+      "This guide prices all 45 English One Piece items we carry: 22 booster boxes and 23 sealed cases. Every price comes from our live catalogue, every division is shown, and the case table runs the opposite way from the Japanese side: every English case we can divide saves money against buying the boxes one at a time, from $129.53 on EB-02 to $1,280.96 on OP-03. Read the per-pack column first."
+    ],
+    "metaDescription": "Every English One Piece box and case on our shelf, divided: OP-12 at $4.61 a pack, EB-01 at $22.40, and cases that save up to $1,280.96.",
+    "metaTitle": "Best One Piece English Cards to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer by buyer",
+        "paragraphs": [
+          "If you want your first English One Piece box, buy the [OP-12 box](/product/op-12-legacy-of-the-master-booster-box-english-one-piece-card/). At $110.54 it is the cheapest box on the shelf, it works out to $4.61 a pack, and it is the only English box we carry that sits under its $119.76 list box price. If you want the cheapest per-pack box after that, buy the OP-10 box at $121.95, which is $5.08 a pack. If you want the newest set, the OP-18 case is the route in: there is no single OP-18 English box on our shelf yet, and the case is $1,136.15, or $94.68 per box. If you want the origin set, buy the [OP-01 box](/product/op-01-romance-dawn-booster-box-1st-print-white-bottom-english-one-piece-card/) at $377.71, the 1st Print White Bottom box, which is $15.74 a pack. If you want the premium reprint set, buy the PRB-02 box at $157.03. And if you want twelve boxes of any one set, buy the case, because every English case we can divide saves money.",
+          "The rule for this whole guide is short: buy the cheapest per-pack box that holds the set you want, and when you want twelve boxes, buy the case, because the case always wins in English. Our [English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices the boxes on their own; this guide puts the boxes and the cases next to each other so the box-versus-case decision is made in one place.",
+          "This guide is the English hub, and it has a Japanese twin. The same sets exist in Japanese, usually cheaper per box, and the [Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices that shelf the same way. The price gap between the languages runs from 22 cents on OP-12 to $405.83 on EB-01. Read this guide for the English shelf, then use the decision table below to settle the language question for the set you want.",
+          "The table below turns the answer into a buy list. Find your job in the first column, buy the item in the second column, and check the reason in the fourth column. If two rows both fit, the cheaper per-pack figure wins. Two rows need a note. The OP-18 case row is a pre-order: the set releases in English on November 20, 2026, so confirm the ship date at checkout before you pay. The Japanese row is the one most buyers skip, and it is the one that saves the most money: OP-12 is the exception at 22 cents apart, and every other set costs more in English, from 1.24 times on EB-02 to 4.08 times on EB-01, as the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) shows for the widest gap of all."
+        ],
+        "table": {
+          "head": [
+            "Your job",
+            "Buy this",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "First box ever",
+              "OP-12 box",
+              "$110.54",
+              "cheapest box, $4.61 a pack, under list"
+            ],
+            [
+              "Cheapest per pack",
+              "OP-12 box",
+              "$110.54",
+              "$4.61 a pack, $0.38 a card"
+            ],
+            [
+              "Newest set",
+              "OP-18 case (pre-order)",
+              "$1,136.15",
+              "$94.68 a box, no single box yet"
+            ],
+            [
+              "Origin set",
+              "OP-01 box (1st Print)",
+              "$377.71",
+              "first print, $15.74 a pack"
+            ],
+            [
+              "Premium reprint",
+              "PRB-02 box",
+              "$157.03",
+              "cheapest premium box, SR floor per pack"
+            ],
+            [
+              "Twelve boxes, biggest saving",
+              "OP-03 case",
+              "$4,611.40",
+              "saves $1,280.96 against singles"
+            ],
+            [
+              "Twelve boxes, cheapest per box",
+              "OP-10 case",
+              "$1,085.27",
+              "$90.44 a box, saves $378.13"
+            ],
+            [
+              "Same set, Japanese instead",
+              "OP-15 Japanese box",
+              "$59.06",
+              "English is $181.24, Japanese is $122.18 cheaper"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: every English box, divided",
+        "paragraphs": [
+          "The table below is the whole English box ladder, cheapest first, priced from our live catalogue on November 15, 2026. A standard English box holds 24 packs of twelve cards, which is 288 cards per box. PRB-01 holds 10 packs of ten cards, which is 100 cards per box. PRB-02 is priced per box only, because the official pages print the 10-card pack but no packs-per-box figure for it, so no per-pack division is printed for PRB-02 anywhere in this guide. There is no single OP-18 or EB-05 English box on our shelf yet: both sets exist here only as cases.",
+          "The cheapest five boxes are OP-12 at $110.54, OP-10 at $121.95, OP-17 at $144.22, OP-16 at $146.23, and EB-03 at $167.28. The dearest five are the [EB-01 box](/product/eb-01-memorial-collection-extra-booster-box-english-one-piece-card/) at $537.61, OP-03 at $491.03, OP-04 at $458.65, OP-05 at $422.28, and OP-06 at $400.27. The list box price is the anchor for the whole ladder: 24 packs at $4.99 a pack is $119.76 for OP-10 onward, and 24 packs at $4.49 a pack is $107.76 for OP-01 to OP-09. OP-12 sits $9.22 under list and OP-10 sits $2.19 over it; every other box is above list, and the early sets are far above it.",
+          "Two boxes deserve a closer look. OP-01 at $377.71 is the 1st Print White Bottom box, and first print commands a premium over later printings of the same set, which is why it sits above OP-06 and OP-05 despite being the oldest set. PRB-02 at $157.03 is the cheapest premium box, and it carries an official floor of at least one Super Rare or better per pack, which PRB-01 does not carry. The [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) settles OP-17 and OP-18 across both languages for buyers who want the newest sets compared head to head."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Box price",
+            "Per pack",
+            "Per card"
+          ],
+          "rows": [
+            [
+              "OP-12 Legacy of the Master",
+              "$110.54",
+              "$4.61",
+              "$0.38"
+            ],
+            [
+              "OP-10 Royal Blood",
+              "$121.95",
+              "$5.08",
+              "$0.42"
+            ],
+            [
+              "OP-17 World's Strongest Warriors",
+              "$144.22",
+              "$6.01",
+              "$0.50"
+            ],
+            [
+              "OP-16 The Time of Battle",
+              "$146.23",
+              "$6.09",
+              "$0.51"
+            ],
+            [
+              "PRB-02 The Best Vol. 2",
+              "$157.03",
+              "per box only",
+              "per box only"
+            ],
+            [
+              "EB-03 Heroines Edition",
+              "$167.28",
+              "$6.97",
+              "$0.58"
+            ],
+            [
+              "OP-15 Adventure on Kami's Island",
+              "$181.24",
+              "$7.55",
+              "$0.63"
+            ],
+            [
+              "OP-14 The Azure Sea's Seven",
+              "$184.54",
+              "$7.69",
+              "$0.64"
+            ],
+            [
+              "EB-02 Anime 25th Collection",
+              "$188.16",
+              "$7.84",
+              "$0.65"
+            ],
+            [
+              "OP-08 Two Legends",
+              "$206.65",
+              "$8.61",
+              "$0.72"
+            ],
+            [
+              "OP-13 Carrying on His Will",
+              "$211.14",
+              "$8.80",
+              "$0.73"
+            ],
+            [
+              "OP-07 500 Years in the Future",
+              "$297.91",
+              "$12.41",
+              "$1.03"
+            ],
+            [
+              "OP-02 Paramount War",
+              "$330.12",
+              "$13.76",
+              "$1.15"
+            ],
+            [
+              "OP-11 A Fist of Divine Speed",
+              "$330.92",
+              "$13.79",
+              "$1.15"
+            ],
+            [
+              "OP-09 Emperors in the New World",
+              "$367.01",
+              "$15.29",
+              "$1.27"
+            ],
+            [
+              "PRB-01 The Best",
+              "$368.53",
+              "$36.85",
+              "$3.69"
+            ],
+            [
+              "OP-01 Romance Dawn (1st Print White Bottom)",
+              "$377.71",
+              "$15.74",
+              "$1.31"
+            ],
+            [
+              "OP-06 Wings of the Captain",
+              "$400.27",
+              "$16.68",
+              "$1.39"
+            ],
+            [
+              "OP-05 Awakening of the New Era",
+              "$422.28",
+              "$17.60",
+              "$1.47"
+            ],
+            [
+              "OP-04 Kingdoms of Intrigue",
+              "$458.65",
+              "$19.11",
+              "$1.59"
+            ],
+            [
+              "OP-03 Pillars of Strength",
+              "$491.03",
+              "$20.46",
+              "$1.70"
+            ],
+            [
+              "EB-01 Memorial Collection",
+              "$537.61",
+              "$22.40",
+              "$1.87"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "OP-12 box: $110.54 ÷ 24 = $4.61 per pack; $110.54 ÷ 288 = $0.38 per card",
+          "OP-10 box: $121.95 ÷ 24 = $5.08 per pack; $121.95 ÷ 288 = $0.42 per card",
+          "OP-17 box: $144.22 ÷ 24 = $6.01 per pack; $144.22 ÷ 288 = $0.50 per card",
+          "OP-16 box: $146.23 ÷ 24 = $6.09 per pack; $146.23 ÷ 288 = $0.51 per card",
+          "EB-03 box: $167.28 ÷ 24 = $6.97 per pack; $167.28 ÷ 288 = $0.58 per card",
+          "OP-15 box: $181.24 ÷ 24 = $7.55 per pack; $181.24 ÷ 288 = $0.63 per card",
+          "OP-14 box: $184.54 ÷ 24 = $7.69 per pack; $184.54 ÷ 288 = $0.64 per card",
+          "EB-02 box: $188.16 ÷ 24 = $7.84 per pack; $188.16 ÷ 288 = $0.65 per card",
+          "OP-08 box: $206.65 ÷ 24 = $8.61 per pack; $206.65 ÷ 288 = $0.72 per card",
+          "OP-13 box: $211.14 ÷ 24 = $8.80 per pack; $211.14 ÷ 288 = $0.73 per card",
+          "OP-07 box: $297.91 ÷ 24 = $12.41 per pack; $297.91 ÷ 288 = $1.03 per card",
+          "OP-02 box: $330.12 ÷ 24 = $13.76 per pack; $330.12 ÷ 288 = $1.15 per card",
+          "OP-11 box: $330.92 ÷ 24 = $13.79 per pack; $330.92 ÷ 288 = $1.15 per card",
+          "OP-09 box: $367.01 ÷ 24 = $15.29 per pack; $367.01 ÷ 288 = $1.27 per card",
+          "PRB-01 box: $368.53 ÷ 10 = $36.85 per pack; $368.53 ÷ 100 = $3.69 per card",
+          "OP-01 box: $377.71 ÷ 24 = $15.74 per pack; $377.71 ÷ 288 = $1.31 per card",
+          "OP-06 box: $400.27 ÷ 24 = $16.68 per pack; $400.27 ÷ 288 = $1.39 per card",
+          "OP-05 box: $422.28 ÷ 24 = $17.60 per pack; $422.28 ÷ 288 = $1.47 per card",
+          "OP-04 box: $458.65 ÷ 24 = $19.11 per pack; $458.65 ÷ 288 = $1.59 per card",
+          "OP-03 box: $491.03 ÷ 24 = $20.46 per pack; $491.03 ÷ 288 = $1.70 per card",
+          "EB-01 box: $537.61 ÷ 24 = $22.40 per pack; $537.61 ÷ 288 = $1.87 per card",
+          "List box OP-10 onward: $119.76 ÷ 24 = $4.99 per pack",
+          "List box OP-01 to OP-09: $107.76 ÷ 24 = $4.49 per pack",
+          "OP-12 under list: $119.76 - $110.54 = $9.22",
+          "OP-10 over list: $121.95 - $119.76 = $2.19",
+          "Cheapest to dearest box: $537.61 - $110.54 = $427.07",
+          "OP-10 case: $1,085.27 ÷ 12 = $90.44 per box; (12 x $121.95) - $1,085.27 = $378.13",
+          "OP-12 case: $1,133.65 ÷ 12 = $94.47 per box; (12 x $110.54) - $1,133.65 = $192.83",
+          "OP-18 case: $1,136.15 ÷ 12 = $94.68 per box",
+          "EB-05 case: $1,182.38 ÷ 12 = $98.53 per box",
+          "OP-16 case: $1,313.20 ÷ 12 = $109.43 per box; (12 x $146.23) - $1,313.20 = $441.56",
+          "OP-17 case: $1,457.67 ÷ 12 = $121.47 per box; (12 x $144.22) - $1,457.67 = $272.97",
+          "OP-15 case: $1,543.71 ÷ 12 = $128.64 per box; (12 x $181.24) - $1,543.71 = $631.17",
+          "EB-03 case: $1,571.53 ÷ 12 = $130.96 per box; (12 x $167.28) - $1,571.53 = $435.83",
+          "OP-14 case: $1,672.35 ÷ 12 = $139.36 per box; (12 x $184.54) - $1,672.35 = $542.13",
+          "EB-04 case: $1,733.08 ÷ 12 = $144.42 per box",
+          "OP-08 case: $1,880.99 ÷ 12 = $156.75 per box; (12 x $206.65) - $1,880.99 = $598.81",
+          "EB-02 case: $2,128.39 ÷ 12 = $177.37 per box; (12 x $188.16) - $2,128.39 = $129.53",
+          "OP-13 case: $2,195.86 ÷ 12 = $182.99 per box; (12 x $211.14) - $2,195.86 = $337.82",
+          "OP-07 case: $2,741.90 ÷ 12 = $228.49 per box; (12 x $297.91) - $2,741.90 = $833.02",
+          "OP-02 case: $3,101.19 ÷ 12 = $258.43 per box; (12 x $330.12) - $3,101.19 = $860.25",
+          "PRB-01 case: $3,461.63 ÷ 10 = $346.16 per box; (10 x $368.53) - $3,461.63 = $223.67",
+          "OP-01 case: $3,547.21 ÷ 12 = $295.60 per box; (12 x $377.71) - $3,547.21 = $985.31",
+          "OP-06 case: $3,698.93 ÷ 12 = $308.24 per box; (12 x $400.27) - $3,698.93 = $1,104.31",
+          "OP-04 case: $4,308.16 ÷ 12 = $359.01 per box; (12 x $458.65) - $4,308.16 = $1,195.64",
+          "OP-05 case: $4,536.45 ÷ 12 = $378.04 per box; (12 x $422.28) - $4,536.45 = $530.91",
+          "OP-03 case: $4,611.40 ÷ 12 = $384.28 per box; (12 x $491.03) - $4,611.40 = $1,280.96",
+          "EB-01 case: $5,806.85 ÷ 12 = $483.90 per box; (12 x $537.61) - $5,806.85 = $644.47",
+          "OP-18 case against a $243.00 pre-order box: (12 x $243.00) - $1,136.15 = $1,779.85",
+          "EB-05 case against a $350.00 pre-order box: (12 x $350.00) - $1,182.38 = $3,017.62",
+          "All 22 boxes: $110.54 + $121.95 + $144.22 + $146.23 + $157.03 + $167.28 + $181.24 + $184.54 + $188.16 + $206.65 + $211.14 + $297.91 + $330.12 + $330.92 + $367.01 + $368.53 + $377.71 + $400.27 + $422.28 + $458.65 + $491.03 + $537.61 = $6,201.02",
+          "All 23 cases: $1,085.27 + $1,133.65 + $1,136.15 + $1,182.38 + $1,313.20 + $1,457.67 + $1,474.87 + $1,543.71 + $1,571.53 + $1,672.35 + $1,733.08 + $1,880.99 + $2,128.39 + $2,195.86 + $2,741.90 + $3,101.19 + $3,461.63 + $3,547.21 + $3,698.93 + $4,308.16 + $4,536.45 + $4,611.40 + $5,806.85 = $57,322.82",
+          "Whole English shelf: $6,201.02 + $57,322.82 = $63,523.84"
+        ],
+        "paragraphs": [
+          "Every division in this guide is printed below, so any buyer can check our arithmetic before spending. The per-pack spread runs from $4.61 for OP-12 to $22.40 for EB-01, a gap of $427.07 between the cheapest and dearest boxes on the shelf. The list box lines underneath it are the anchor: $119.76 divided by 24 packs is $4.99 a pack for OP-10 onward, and $107.76 divided by 24 packs is $4.49 a pack for OP-01 to OP-09. OP-12 sits $9.22 under its list box and OP-10 sits $2.19 over its list box, and those two lines are the only ones in the whole ladder that sit near list at all.",
+          "The totals close the section. All 22 boxes together cost $6,201.02. All 23 cases together cost $57,322.82. The whole 45-item English One Piece shelf, boxes plus cases, costs $63,523.84. The cases are where the money sits, and on the English side the case table is good news all the way down."
+        ]
+      },
+      {
+        "h": "The case table: every English case saves",
+        "paragraphs": [
+          "A sealed case should cost less per box than buying the boxes one at a time, and on the English side of our shelf that rule holds everywhere it can be tested. Every one of the 20 cases with a single box on the shelf saves money, and the savings are large. The smallest saver is the EB-02 case at $2,128.39, which saves $129.53 against twelve single boxes. The biggest saver is the [OP-03 case](/product/op-03-pillars-of-strength-sealed-case-12-boxes-english-one-piece-card/) at $4,611.40, which saves $1,280.96. The cheapest case per box is the [OP-10 case](/product/op-10-royal-blood-sealed-case-12-boxes-english-one-piece-card/) at $90.44 a box, and the dearest case per box is the EB-01 case at $483.90 a box.",
+          "The reason English cases always win while Japanese cases often lose is the size of the English single-box premium. Early English sets are scarce in English, so their single boxes carry big premiums over list: OP-03 at $491.03 against a $107.76 list box, EB-01 at $537.61 against the same list box. The case price was set against that same scarcity, but it discounts more steeply than the single-box price does, so the gap between case and singles is wide. In Japanese, single boxes stay close to list, so there is no premium for the case to discount against. The case discount follows the single-box premium, and the English shelf has it.",
+          "Three cases have no single box on the shelf, so no saving can be computed for them. The [OP-18 case](/product/op-18-the-dominance-of-god-sealed-case-12-boxes-english-one-piece-card/) at $1,136.15 works out to $94.68 per box and the [EB-05 case](/product/one-piece-eb-05-heroines-edition-vol-2-english-booster-box-case-factory-sealed/) at $1,182.38 works out to $98.53 per box, and both are cheaper per box than any single English box we carry, including OP-12 at $110.54. The EB-04 case at $1,733.08 works out to $144.42 per box. The [PRB-02 case](/product/prb-02-one-piece-card-the-best-vol-2-sealed-case-english-one-piece-card/) at $1,474.87 is the one case in this guide with no per-box figure at all, because the official pages do not print how many boxes it holds, so we print its price and nothing else. Never divide a case whose box count is unstated."
+        ],
+        "table": {
+          "head": [
+            "Case",
+            "Case price",
+            "Per box",
+            "12 singles",
+            "Saves"
+          ],
+          "rows": [
+            [
+              "OP-10 case",
+              "$1,085.27",
+              "$90.44",
+              "$1,463.40",
+              "$378.13"
+            ],
+            [
+              "OP-12 case",
+              "$1,133.65",
+              "$94.47",
+              "$1,326.48",
+              "$192.83"
+            ],
+            [
+              "OP-18 case (pre-order)",
+              "$1,136.15",
+              "$94.68",
+              "no single box",
+              "no single box"
+            ],
+            [
+              "EB-05 case",
+              "$1,182.38",
+              "$98.53",
+              "no single box",
+              "no single box"
+            ],
+            [
+              "OP-16 case",
+              "$1,313.20",
+              "$109.43",
+              "$1,754.76",
+              "$441.56"
+            ],
+            [
+              "OP-17 case",
+              "$1,457.67",
+              "$121.47",
+              "$1,730.64",
+              "$272.97"
+            ],
+            [
+              "PRB-02 case",
+              "$1,474.87",
+              "box count unstated",
+              "box count unstated",
+              "box count unstated"
+            ],
+            [
+              "OP-15 case",
+              "$1,543.71",
+              "$128.64",
+              "$2,174.88",
+              "$631.17"
+            ],
+            [
+              "EB-03 case",
+              "$1,571.53",
+              "$130.96",
+              "$2,007.36",
+              "$435.83"
+            ],
+            [
+              "OP-14 case",
+              "$1,672.35",
+              "$139.36",
+              "$2,214.48",
+              "$542.13"
+            ],
+            [
+              "EB-04 case",
+              "$1,733.08",
+              "$144.42",
+              "no single box",
+              "no single box"
+            ],
+            [
+              "OP-08 case",
+              "$1,880.99",
+              "$156.75",
+              "$2,479.80",
+              "$598.81"
+            ],
+            [
+              "EB-02 case",
+              "$2,128.39",
+              "$177.37",
+              "$2,257.92",
+              "$129.53"
+            ],
+            [
+              "OP-13 case",
+              "$2,195.86",
+              "$182.99",
+              "$2,533.68",
+              "$337.82"
+            ],
+            [
+              "OP-07 case",
+              "$2,741.90",
+              "$228.49",
+              "$3,574.92",
+              "$833.02"
+            ],
+            [
+              "OP-02 case",
+              "$3,101.19",
+              "$258.43",
+              "$3,961.44",
+              "$860.25"
+            ],
+            [
+              "PRB-01 case (10 boxes)",
+              "$3,461.63",
+              "$346.16",
+              "$3,685.30",
+              "$223.67"
+            ],
+            [
+              "OP-01 case",
+              "$3,547.21",
+              "$295.60",
+              "$4,532.52",
+              "$985.31"
+            ],
+            [
+              "OP-06 case",
+              "$3,698.93",
+              "$308.24",
+              "$4,803.24",
+              "$1,104.31"
+            ],
+            [
+              "OP-04 case",
+              "$4,308.16",
+              "$359.01",
+              "$5,503.80",
+              "$1,195.64"
+            ],
+            [
+              "OP-05 case",
+              "$4,536.45",
+              "$378.04",
+              "$5,067.36",
+              "$530.91"
+            ],
+            [
+              "OP-03 case",
+              "$4,611.40",
+              "$384.28",
+              "$5,892.36",
+              "$1,280.96"
+            ],
+            [
+              "EB-01 case",
+              "$5,806.85",
+              "$483.90",
+              "$6,451.32",
+              "$644.47"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other guides miss: the pre-order case gap",
+        "note": "From the Warehouse: a pre-order case is a promise, not a box on a shelf. We print the case price, the market box price, and the date of each, and we never pretend a pre-order price is a settled price. If the market box price falls again before release day, the case saving grows, and if it rises, the saving shrinks, so check both numbers again before you pay.",
+        "paragraphs": [
+          "The top guides for English One Piece cards list the sets, the release dates, and the pack prices, but none of them prices a full ladder from one live shelf, and none of them flags the pre-order case gap. The gap is this: the OP-18 case and the EB-05 case are on our shelf before their single boxes are. A buyer who only reads box guides will not know either case exists. Both cases are cheaper per box than every single English box we carry, including OP-12 at $110.54, and both are invisible to any guide that only prices boxes.",
+          "The market box prices make the gap wider. Pre-order OP-18 English boxes were selling for about $351 on October 24, 2026, then about $243 on November 6, 2026, and Miniature Market listed them at $269.99 on November 7, 2026. Against a $243.00 pre-order box, twelve boxes cost $2,916.00, and the OP-18 case at $1,136.15 saves $1,779.85 against that market price. Pre-order EB-05 English boxes were about $350, so twelve boxes cost $4,200.00, and the EB-05 case at $1,182.38 saves $3,017.62 against that market price. Those savings are a snapshot of November 2026, not a settled discount: the OP-18 box price fell by about $108 in thirteen days.",
+          "The [English One Piece booster box price index](/blog/english-one-piece-booster-box-price/) prices the boxes on their own, and the [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) tracks the newest set in both languages."
+        ]
+      },
+      {
+        "h": "The risk layer: pre-orders, print runs, and the list price",
+        "paragraphs": [
+          "The OP-18 English case is a pre-order, and pre-orders carry a risk that in-stock cases do not. The set releases in English on November 20, 2026, and the case is $1,136.15 today, but a pre-order price is a price for a product that has not shipped yet. Confirm the ship date at checkout, keep the order confirmation, and do not plan a deck or a gift around a date the publisher has not yet met. The EB-05 case is different: EB-05 released in English on October 30, 2026, so its case at $1,182.38 is in stock, not a pre-order. The [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) tracks the newest set in both languages and is the place to check before the release date.",
+          "Print runs are the second risk, and OP-01 shows why they matter. The OP-01 box on our shelf is the 1st Print White Bottom box at $377.71, and first print commands a premium over later printings of the same set. It costs $175.03 more than the Japanese box at $202.68. A later printing would not cost $377.71. Check the print run on the product page before you pay for any early set, and do not assume that every box of a set costs the same. ",
+          "The list price is the third risk, because most English boxes sell above it. The list box is $119.76 for OP-10 onward and $107.76 for OP-01 to OP-09, and only OP-12 sits under list. Every other box is over list, and the early sets are far over list: OP-03 at $491.03 and EB-01 at $537.61. Sealed English boxes are also faked, and our guide on [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) shows what to check before you open a box above $150. Every price here is a November 15, 2026 shelf price, so re-check at checkout."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for sealed Pokemon or Lorcana buyers. Those games have their own ladders, their own box sizes, and their own case arithmetic, and a One Piece per-pack figure tells a Pokemon buyer nothing. It is not for Japanese-only collectors either: if you read Japanese and you want the cheapest sealed price for almost every set, the Japanese shelf is the one to read, and the Japanese guide prices it the same way. It is also not for graded-singles buyers. We sell sealed product, and singles pricing is a different market with its own spreads, its own grading costs, and its own risks, so a sealed box price cannot be compared against a graded single without doing that work separately.",
+          "And this guide is not for anyone seeking a guaranteed return. No sealed purchase guarantees a pull, a profit, or a resale price, and no case saving in this guide is a promise that the cards inside will be worth more than the box. Buy the cards to open them or to collect them, and treat any resale value as a bonus, not as the reason for the purchase. The per-pack column is a buying tool, not an investment forecast, and it should be used that way."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick your set by theme first, then check its per-pack price, not its box price.",
+          "If you want twelve boxes, buy the case: every English case we can divide saves money.",
+          "If you buy OP-18, confirm the pre-order ship date at checkout; the English release is November 20, 2026.",
+          "If you collect and read Japanese, compare the Japanese price first; OP-12 is the only near-tie.",
+          "Check the print run on early sets: the OP-01 box on our shelf is the 1st Print White Bottom.",
+          "Re-check the price at checkout, because every price in this guide is a November 15, 2026 shelf price."
+        ],
+        "h": "The English One Piece checklist",
+        "paragraphs": [
+          "Work through the list in order and you will buy the right English One Piece product the first time. The list is short on purpose: six checks, each one catching a mistake this guide has seen buyers make."
+        ]
+      }
+    ],
+    "slug": "best-one-piece-english-cards",
+    "takeaway": [
+      "The cheapest English One Piece box is OP-12 at $110.54, or $4.61 a pack, and it is the only English box under its $119.76 list box price.",
+      "22 boxes and 23 cases: the whole English shelf is $63,523.84, and every division is shown in the math section above.",
+      "Every English case we can divide saves money, from $129.53 on EB-02 to $1,280.96 on OP-03. The OP-18 and EB-05 cases exist before their single boxes do.",
+      "English cards are almost always dearer per box than the same set in Japanese, with OP-12 the one near-tie at 22 cents apart."
     ]
   },
   "best-one-piece-japanese-booster-pack": {
