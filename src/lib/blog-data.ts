@@ -2578,7 +2578,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The best Japanese Dragon Ball Fusion World buy is a single card, not a box: FB08 at $26.02 is the cheapest Japanese item on the shelf and FB09 at $64.12 is the dearest, and the Warehouse does not sell sealed Japanese Fusion World boxes. For packs, the English case is the buy, and the cheapest opening is FB04 at $4.44 a pack, with FB12 at $5.27 a pack the cheapest new-set buy. A Japanese box lists at ¥5,280 for 24 packs of 6 cards, half the cards of an English box, and every pack in either language carries a digital serial code.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, and Bandai's yen list for the Japanese box. When FB12 ships on December 18, 2026, run the checklist first and divide the case before you pay.",
       "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the full Dragon Ball shelf, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) divides all twelve cases. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs.",
-      "New this cycle: the [best Dragon Ball TCG from Japan guide](/blog/best-dragon-ball-tcg-japan/) prices all three Dragon Ball games on one shelf — Fusion World, Masters, and Manga Booster — to per-pack and per-card, and names the $26.02 FB08 box the cheapest sealed entry in any game."
+      "New this cycle: the [best Dragon Ball TCG from Japan guide](/blog/best-dragon-ball-tcg-japan/) prices all three Dragon Ball games on one shelf — Fusion World, Masters, and Manga Booster — to per-pack and per-card, and names the $26.02 FB08 box the cheapest sealed entry in any game.",
+      "For the channel version of this question, the [where to buy Dragon Ball Fusion World Japanese guide](/blog/where-to-buy-dragon-ball-fusion-world-japanese/) compares the Warehouse singles against the Buyee proxy stack and the English sealed cases, and says plainly that the five Japanese listings are titled as single cards while their photos show sealed boxes."
     ]
   },
   "best-dragon-ball-fusion-world-sealed-case-to-buy": {
@@ -6108,7 +6109,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) finds the floor is Rebellion Crash at $43.03, or $1.43 a pack, below M3 at $70.62, with the sixteen cheapest boxes all under $95.",
       "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the MEGA-era opener, box $94.91 against a case that saves $226.74, with the 092/063 trap and the 20-pack correction.",
       "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box.",
-      "New this cycle: the [Japanese Pokémon cards price index](/blog/japanese-pokemon-cards-price/) prices every format on the shelf in one place — all 90 boxes, 40 cases, the starters, and the five premium boxes no guide had priced."
+      "New this cycle: the [Japanese Pokémon cards price index](/blog/japanese-pokemon-cards-price/) prices every format on the shelf in one place — all 90 boxes, 40 cases, the starters, and the five premium boxes no guide had priced.",
+      "For the channel version of this question, the [where to buy Japanese booster boxes guide](/blog/where-to-buy-japanese-booster-box/) compares the Warehouse shelf against Best Buy, Target, a US flash sale and the Buyee proxy stack, box by box and pack by pack, with the cheapest box Rebellion Crash at $36.58."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -9201,7 +9203,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The cheapest sealed box is Pokemon Rebellion Crash at $36.58, the cheapest verified mainline pack is One Piece OP-15 at $2.46, the cheapest pack on the shelf is Lorcana Japanese First Chapter at $1.33 inside its 15-box case, and the cheapest English pack is Dragon Ball FB04 at $3.78 inside its 12-box case.",
       "Every price here is our own live shelf price as of November 15, 2026, after the November 13 repricing, and every division shows its work; where a box structure is not verified, only the price is claimed.",
       "For one game at a time, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the Pokemon shelf, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 23 Japanese One Piece boxes, the [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the English cases, and the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) divides every Lorcana case.",
-      "New to all four games? The [which TCG should you start guide](/blog/which-tcg-should-you-start/) picks by player type, and the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles case against box across the shelf."
+      "New to all four games? The [which TCG should you start guide](/blog/which-tcg-should-you-start/) picks by player type, and the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles case against box across the shelf.",
+      "For the channel version of this question, the [where to buy Japanese booster boxes guide](/blog/where-to-buy-japanese-booster-box/) ranks the channels for a sealed Japanese box, with the Warehouse cheapest on the three boxes compared line for line and the flash sale cheapest on SV2a and M2a."
     ]
   },
   "best-value-japanese-pokemon-booster-boxes": {
@@ -43345,6 +43348,199 @@ export const POSTS: Record<string, BlogPost> = {
       "Chasing an SV11 master set starts with a box decision: [Black Bolt vs White Flare](/blog/black-bolt-vs-white-flare-which-to-buy/) runs both sets' structure and prices side by side before you commit to either legendary."
     ]
   },
+  "where-to-buy-dragon-ball-fusion-world-japanese": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "No, not as a listing titled as a sealed box. The five Japanese Fusion World listings on our shelf are titled as single cards: FB08 at $22.12, FB07 at $23.70, SB01 and SB02 at $48.97 each, and FB09 at $54.50, all as of November 15, 2026. An earlier house guide read the listing photos as sealed boxes, and the photos do show sealed boxes, with the FB08 page saying factory sealed, so the owner is verifying whether the listings are boxes mislabeled Card or singles. Until that is confirmed, buy them as cards, and buy a sealed Japanese box through a proxy or from a US marketplace seller.",
+        "q": "Can I buy a sealed Japanese Dragon Ball Fusion World box from the Warehouse?"
+      },
+      {
+        "a": "A box at the 5,280 yen list costs $33.06 at 159.7 yen per dollar on November 14, 2026, plus Buyee's 500 yen service fee, $3.13, plus domestic shipping of 150 to 1,500 yen, $0.94 to $9.39, which puts the box at $37.13 to $45.58 before international shipping. International shipping is quoted at checkout by weight and courier, and US duty of up to 12.5 percent may apply on top. A box bought at a marketplace ask above list costs more by the same stack.",
+        "q": "What does a Japanese Fusion World box cost through Buyee?"
+      },
+      {
+        "a": "FB12 Reach the God releases in Japan on December 12, 2026 and in English on December 18, 2026, with 123 card types and a Japanese pack price of 240 yen. Our English sealed case is a pre-order until December 18, 2026, at $1,290.30 a case, or $107.53 a box. No sealed Japanese FB12 box is stocked.",
+        "q": "When does FB12 Reach the God release?"
+      }
+    ],
+    "h1": "Where to Buy Dragon Ball Fusion World Japanese",
+    "intro": [
+      "Short answer: if you want Japanese Fusion World cards, the Warehouse sells five single cards, FB08 at $22.12 to FB09 at $54.50, and no sealed Japanese box. If you want a sealed Japanese box, use a proxy: a box at the 5,280 yen list costs $33.06 before fees, $37.13 to $45.58 after Buyee's 500 yen service fee and domestic shipping, before international shipping. If you want to open packs, buy an English sealed case, from FB04 at $90.61 a box. Prices below are our shelf prices as of November 15, 2026, or dated third-party figures.",
+      "Who this is for: collectors who want Japanese Fusion World cards, buyers weighing a sealed Japanese box against an English case, and anyone who has read two different house guides and noticed they disagree. Who it is not for: anyone who needs a sealed Japanese box in hand today from this store, or cards for sanctioned English-region events, because Japanese cards are generally not legal there. Warning up front: the five Japanese listings are titled as single cards, while their photos show sealed boxes. This guide prices them exactly as titled."
+    ],
+    "metaDescription": "Japanese Fusion World: five singles on our shelf from $22.12, no sealed Japanese box stocked, and the Buyee proxy stack for one at list. Priced and dated.",
+    "metaTitle": "Where to Buy Dragon Ball Fusion World Japanese",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "For the collector who wants Japanese cards, the answer is the five singles on our shelf, priced exactly as their titles say. [FB08 Saiyan's Pride](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) is $22.12, [FB07 Wish for Shenron](/product/fb07-wish-for-shenron-japanese-dragon-ball-fusion-world-card/) is $23.70, [SB01 Manga Booster 01](/product/sb01-manga-booster-01-japanese-dragon-ball-fusion-world-card/) and [SB02 Manga Booster 02](/product/sb02-manga-booster-02-japanese-dragon-ball-fusion-world-card/) are $48.97 each, and [FB09 Dual Evolution](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) is $54.50. All five together cost $198.26, and the dearest single costs $32.38 more than the cheapest, or 2.46 times as much. That is the whole Japanese Fusion World shelf as titled, and it is five cards, not five boxes.",
+          "For the buyer who wants a sealed Japanese box, the answer is a proxy, and the price is a stack, not a tag. A mainline Japanese box lists at 5,280 yen, $33.06 at 159.7 yen per dollar on November 14, 2026. Buyee charges a flat 500 yen service fee per order, $3.13, raised from 300 yen on April 1, 2026, plus domestic shipping of $0.94 to $9.39. That puts a list-price box at $37.13 to $45.58 before international shipping, or $1.55 to $1.90 a pack across 24 packs. International shipping is quoted at checkout, and US duty of up to 12.5 percent may apply on top, so the stack is a floor, not a total.",
+          "For the buyer who wants to open packs, the answer is an English sealed case, because the English shelf is the one that sells boxes in bulk. The cheapest English case box is [FB04 Ultra Limit](/product/dragon-ball-super-fusion-world-fb04-ultra-limit-booster-box-sealed-case-english/) at $90.61 a box, or $3.78 a pack. The newest is [FB12 Reach the God](/product/dragon-ball-super-fusion-world-fb12-reach-the-god-booster-box-sealed-case-englis/) at $107.53 a box on pre-order until December 18, 2026. The dearest mainline case box is [FB09 Dual Evolution](/product/dragon-ball-super-fusion-world-fb09-dual-evolution-booster-box-sealed-case-engli/) at $342.13 a box, or $14.26 a pack, a scarcity price, not a play price. A proxy Japanese box beats every English box per pack, at $1.55 to $1.90 against $3.78, but it holds 144 cards against the English box's 288, and Japanese cards are not legal at English-region events."
+        ]
+      },
+      {
+        "h": "The money layer: five listings, one proxy stack, one English shelf",
+        "math": [
+          "Five Japanese singles: $22.12 + $23.70 + $54.50 + $48.97 + $48.97 = $198.26",
+          "FB09 vs FB08: $54.50 - $22.12 = $32.38; $54.50 / $22.12 = 2.46x",
+          "Japanese list FB01 to FB10: 5280 yen / 159.7 = $33.06",
+          "Japanese list FB12: 5760 yen / 159.7 = $36.07",
+          "Buyee service fee: 500 yen / 159.7 = $3.13",
+          "Buyee domestic shipping low: 150 yen / 159.7 = $0.94",
+          "Buyee domestic shipping high: 1500 yen / 159.7 = $9.39",
+          "Proxy box low: $33.06 + $3.13 + $0.94 = $37.13",
+          "Proxy box high: $33.06 + $3.13 + $9.39 = $45.58",
+          "Proxy box per pack low: $37.13 / 24 packs = $1.55",
+          "Proxy box per pack high: $45.58 / 24 packs = $1.90",
+          "Proxy box per card low: $37.13 / 144 cards = $0.26",
+          "Best Buy FB02 per pack: $79.99 / 24 packs = $3.33",
+          "Best Buy FB02 vs list: $79.99 - $33.06 = $46.93; $79.99 / $33.06 = 2.42x",
+          "Samurai FB-10 damaged box: 10617 yen / 159.7 = $66.48",
+          "FB04 case per box: $1,087.37 / 12 boxes = $90.61",
+          "FB04 case per pack: $1,087.37 / 288 packs = $3.78",
+          "FB04 case per card: $1,087.37 / 3456 cards = $0.31",
+          "FB12 case per box: $1,290.30 / 12 boxes = $107.53",
+          "FB12 case per pack: $1,290.30 / 288 packs = $4.48",
+          "FB12 case per card: $1,290.30 / 3456 cards = $0.37",
+          "FB09 case per box: $4,105.50 / 12 boxes = $342.13",
+          "FB09 case per pack: $4,105.50 / 288 packs = $14.26",
+          "FB09 vs FB04 per box: $342.13 - $90.61 = $251.52",
+          "FB12 English box vs Japanese list: $107.53 / $36.07 = 2.98x",
+          "Nov 10 to Nov 15 FB08: $26.02 - $22.12 = $3.90",
+          "Nov 10 to Nov 15 FB09: $64.12 - $54.50 = $9.62",
+          "Masters B25 case per box: $1,049.83 / 12 boxes = $87.49",
+          "Masters B25 case per pack: $1,049.83 / 288 packs = $3.65"
+        ],
+        "paragraphs": [
+          "Start with the five listings, the only Japanese Fusion World items the Warehouse sells. FB08 is $22.12, FB07 is $23.70, SB01 and SB02 are $48.97 each, and FB09 is $54.50, for $198.26 across all five. FB09 costs $32.38 more than FB08, or 2.46 times as much, the scarcity gap between the newest released mainline set and the oldest cheap one here. Our November 10 guide priced FB08 at $26.02 and FB09 at $64.12; the November 13 repricing cut the whole sealed shelf by 15.00 percent, so FB08 is $3.90 cheaper today and FB09 is $9.62 cheaper, and every older guide on this site now shows the wrong Japanese prices.",
+          "The proxy stack is the half no guide prices to a total. A mainline Japanese box lists at 5,280 yen, $33.06 at 159.7 yen per dollar, and FB12 lists at 5,760 yen, $36.07, because its packs cost 240 yen instead of 220. Buyee's fee is a flat 500 yen per order, $3.13, and domestic shipping runs $0.94 to $9.39, so a list-price box lands at $37.13 on the cheap end and $45.58 on the dear end, before international shipping. That is $1.55 to $1.90 a pack, and $0.26 a card at the cheap end. The fee is small; the shipping and the duty move the total, and both are quoted after you commit.",
+          "The English shelf is the one that sells in bulk. An English case holds 12 boxes of 24 packs, 288 packs and 3,456 cards, because English packs hold 12 cards against 6 in a Japanese pack. FB04 divides to $90.61 a box, $3.78 a pack and $0.31 a card; FB12 to $107.53 a box, $4.48 a pack and $0.37 a card; FB09 to $342.13 a box and $14.26 a pack, $251.52 more per box than FB04. The FB12 English box costs 2.98 times its Japanese list price: the language, the sealed provenance and the 12-card packs as one number. The cheapest sealed Dragon Ball is still the older game: the Masters B25 case at $1,049.83, $87.49 a box and $3.65 a pack."
+        ]
+      },
+      {
+        "h": "The decision layer: four ways to own Japanese Fusion World",
+        "paragraphs": [
+          "The table below is the whole decision on one page, and the column to read first is what you actually get, because a single card and a sealed box are different purchases that happen to share a set code. The Warehouse Japanese single is the cheapest way to own a Japanese card from the set. The Buyee proxy box is the cheapest sealed Japanese box, at $37.13 to $45.58 before international shipping, against $79.99 for the FB02 box on Best Buy, which is $46.93 over list, or 2.42 times list. The English case box is the cheapest way to open packs in bulk, and the pre-order is the only way to own the newest set on release day.",
+          "The ranking holds only if you read the table honestly. A proxy box at list is cheaper per pack than any English box, at $1.55 to $1.90 against $3.78 for FB04, but the proxy box is an ask, not a buy price: the box you actually win may list above 5,280 yen, and the international shipping and duty are added after. The English case is the only channel where the price on the page is the price you pay, with no auction, no proxy and no duty surprise, and that certainty is priced into every English box."
+        ],
+        "table": {
+          "head": [
+            "Channel",
+            "What you get",
+            "Price",
+            "Per pack",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Warehouse Japanese single (FB08)",
+              "1 Japanese card",
+              "$22.12",
+              "n/a",
+              "Cheapest way to own the card"
+            ],
+            [
+              "Warehouse Japanese singles (all five)",
+              "5 Japanese cards",
+              "$198.26",
+              "n/a",
+              "The full Japanese shelf, as titled"
+            ],
+            [
+              "Buyee proxy, list-price box",
+              "24 packs, 144 cards",
+              "$37.13 to $45.58",
+              "$1.55 to $1.90",
+              "Cheapest sealed box, before shipping"
+            ],
+            [
+              "Best Buy FB02 (Collectors Emporium)",
+              "24 packs, 144 cards",
+              "$79.99",
+              "$3.33",
+              "US seller, marketplace markup"
+            ],
+            [
+              "Warehouse English FB04 case box",
+              "24 packs, 288 cards",
+              "$90.61",
+              "$3.78",
+              "Cheapest opening per pack in English"
+            ],
+            [
+              "Warehouse English FB12 case box (pre-order)",
+              "24 packs, 288 cards",
+              "$107.53",
+              "$4.48",
+              "Newest set, December 18"
+            ],
+            [
+              "Warehouse English FB09 case box",
+              "24 packs, 288 cards",
+              "$342.13",
+              "$14.26",
+              "Scarcity price, not play value"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the listings disagree with themselves",
+        "note": "From the Warehouse: the question we get about Japanese Fusion World is never which set to buy. It is whether the five Japanese listings are boxes or cards, because the titles say cards and the photos show sealed boxes. Until the owner confirms, this guide prices them exactly as titled and treats a sealed Japanese box as a proxy purchase, because a guide that picks a side without saying so is the one that gets a buyer to pay $54.50 for the wrong thing.",
+        "paragraphs": [
+          "The top results for this query do the channel list well and the honesty badly. Best Buy sells a Japanese FB02 box for $79.99 through a marketplace seller, but it is a product page, not a guide, and it never prices a proxy box. Our [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) reads the five listings as sealed boxes at $26.02 to $64.12, November 10 prices, and divides them by 24 packs. Our [best Japanese Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) reads the same five as single cards at the same November 6 prices, and says plainly that the Warehouse does not sell sealed Japanese boxes. Both guides are ours, both cite the same shelf, and they disagree. No outside guide names it, and none prices the proxy stack to a total.",
+          "The second thing the top guides miss is the repricing. The November 13 repricing cut every sealed price on the shelf by 15.00 percent, so every guide written before that date is now wrong by the same margin on every Japanese figure it prints. Our November 10 guide priced FB08 at $26.02; the shelf says $22.12 today, a $3.90 fall. Janbox explains how a proxy works, but it never prices one. This page is the first to put the two readings side by side and to show the proxy arithmetic, so a buyer can see the gap instead of tripping over it."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, sold-out sets, duty, and the pre-order",
+        "paragraphs": [
+          "The expensive failure on this page is paying for a sealed box and receiving a single card, or the other way around. The five listings are titled as cards and photographed as sealed boxes, and the FB08 page says factory sealed. If you pay $54.50 expecting a sealed FB09 box and a single card arrives, the title was the warning and the photo was the trap. The same rule applies to any Japanese box bought through a proxy or a marketplace seller: check the seal and the seller history, and treat a box far below the 5,280 yen list as either not what it claims or not sealed at all.",
+          "The second risk is the sold-out set. FB10 Cross Force is sold out everywhere checked: the Samurai Sword Tokyo damaged box at $66.48, listed October 23, 2026, is sold out, and the Japan Figure tape-cut box is sold out too. FB12 is the opposite risk: it releases in Japan on December 12, 2026 and in English on December 18, 2026, so paying $1,290.30 now buys a December shipment, not stock in hand. If the date slips, the case slips with it, and the $107.53 per-box price is a promise, not a delivery.",
+          "The third risk is the duty. Since July 24, 2026, products of Japan pay a Section 301 duty that tops the normal rate up to 12.5 percent in total, and Buyee has collected duty prepaid on all its shipping methods since August 2025, estimating it by category and invoice value and adding a clearance charge to the shipping fee. A 5,280 yen box is small, but the duty still applies, and a parcel over 200,000 yen adds a 2,800 yen customs handling charge on some methods. Never assume a proxy parcel arrives tax-free, and never budget a proxy box at its list price alone."
+        ]
+      },
+      {
+        "h": "Context: Japan first, English in bulk, six cards against twelve",
+        "paragraphs": [
+          "Fusion World launched in Japan on February 16, 2024, and has released a mainline booster roughly every quarter since: FB01 Awakened Pulse through FB12 Reach the God, plus two Manga Boosters, SB01 in June 2025 and SB02 in November 2025. FB11 Brightness of Hope reached Japan on September 12, 2026. FB12 Reach the God is due December 12, 2026 in Japan and December 18, 2026 in English, with 123 card types, the first set built around Dragon Ball Super: Beerus. Behind it, the calendar lists the FS13 and FS14 starter decks for January 22, 2027.",
+          "The formats differ in the pack, not just the language. A Japanese pack holds 6 cards plus a digital serial code, a Japanese box holds 24 packs, and the list price is 220 yen a pack, or 5,280 yen a box, for FB01 to FB10, and 240 yen a pack, or 5,760 yen a box, for FB12. An English pack holds 12 cards, an English box holds 24 packs, and an English case holds 12 boxes. The [best Japanese Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) separates the two formats set by set, and the [Dragon Ball Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) covers how the game plays."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a sealed Japanese box in hand today from this store, because the Warehouse does not list one under that title, and no honest guide can sell you one that does not exist. It is not for the player who needs cards for sanctioned English-region events, because Japanese cards are generally not legal there. It is not for anyone buying a Manga Booster to play with, since SB01 and SB02 are priced as art objects, at $48.97 a single against an English case box of $1,906.13 ($22,873.50 a case). And it is not for anyone who wants the cheapest sealed Dragon Ball on the shelf: that is the Masters B25 case at $1,049.83, or $87.49 a box and $3.65 a pack, not a Fusion World case. Buy Japanese Fusion World because you want Japanese cards, not because it is the cheapest sealed Dragon Ball, because it is not."
+        ]
+      },
+      {
+        "checklist": [
+          "Read the listing title before you pay: the five Japanese listings are titled as single cards.",
+          "Decide the job first: single card, sealed Japanese box, or English case to open.",
+          "If the job is a sealed Japanese box, budget the proxy stack: list $33.06 + fee $3.13 + domestic $0.94 to $9.39, before international shipping.",
+          "If the job is English, divide before you pay: case / 12 = your per-box price, then / 24 = per pack.",
+          "Confirm FB12 is a pre-order until December 18, 2026, not stock in hand.",
+          "Check the seal before opening anything at this price, and confirm the language with your event organizer if you play.",
+          "If a listing title and its photo disagree, ask before paying, never after."
+        ],
+        "h": "Action layer: the Japanese Fusion World checklist",
+        "paragraphs": [
+          "Before paying for Japanese Fusion World in any format, walk the list. The job decides the channel, and the title decides what you actually receive: a single card at $22.12 is a different purchase from a sealed box at $37.13, even when both carry the FB08 code. For the format question across the wider shelf, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry, and for the shipping and customs side of the proxy route, the [buying TCG from Japan guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the border in full.",
+          "When the next set lands, re-run the division: the first thing to check is whether the five Japanese listings are still titled as cards, and the second is whether the proxy stack still beats the English case per pack. The [Fusion World sealed case price guide](/blog/dragon-ball-fusion-world-sealed-case-price/) tracks all fourteen English cases to the box, the pack and the card, so the English side of the comparison stays current."
+        ]
+      }
+    ],
+    "slug": "where-to-buy-dragon-ball-fusion-world-japanese",
+    "takeaway": [
+      "The Warehouse sells Japanese Fusion World as five single cards, FB08 at $22.12 to FB09 at $54.50, and no sealed Japanese box is stocked. A sealed Japanese box at the 5,280 yen list costs $33.06 before fees, $37.13 to $45.58 after Buyee's fee and domestic shipping, before international shipping.",
+      "The listings disagree with themselves: the titles say single cards, the photos show sealed boxes, and an earlier house guide read them as boxes. This guide prices them exactly as titled until the owner confirms which reading is right, and treats a sealed Japanese box as a proxy purchase.",
+      "For opening packs, the English case is the buy: FB04 at $90.61 a box, $3.78 a pack, and FB12 at $107.53 a box on pre-order until December 18, 2026. The [best Japanese Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) runs the five Japanese listings in full, and the [Fusion World sealed case price guide](/blog/dragon-ball-fusion-world-sealed-case-price/) tracks all fourteen English cases.",
+      "New to Japanese boxes? The [where to buy Japanese booster boxes guide](/blog/where-to-buy-japanese-booster-box/) ranks the channels for a sealed Japanese Pokemon box, the [buying TCG from Japan guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers shipping and customs, and the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles box against case across the shelf."
+    ]
+  },
   "where-to-buy-dragon-ball-tcg-japan": {
     "datePublished": "2026-11-10",
     "faqs": [
@@ -43522,7 +43718,209 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Five sealed Japanese Dragon Ball boxes sit on the Warehouse shelf as of November 10, 2026, $26.02 to $64.12: FB08 cheapest at $1.08 a pack, FB09 dearest at $2.67 a pack, with FB07 and both Manga Boosters between them.",
       "The proxy route costs more than the shelf: a list-price box through Buyee is $44.03 before international shipping, $18.01 more than FB08, and the Japan Figure FB12 pre-order at $182.92 is 4.89 times the Japanese list price.",
-      "Divide before paying: the [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) divides every product on the shelf, the [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) picks the buy, and this guide prices every channel against them."
+      "Divide before paying: the [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) divides every product on the shelf, the [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) picks the buy, and this guide prices every channel against them.",
+      "For the Fusion World version of this question, the [where to buy Dragon Ball Fusion World Japanese guide](/blog/where-to-buy-dragon-ball-fusion-world-japanese/) prices the five Japanese listings as titled, FB08 at $22.12 to FB09 at $54.50, and runs the Buyee proxy stack for a sealed Japanese box at list, $37.13 to $45.58 before international shipping."
+    ]
+  },
+  "where-to-buy-japanese-booster-box": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "Rebellion Crash at $36.58 on our shelf as of November 15, 2026, $1.22 a pack across 30 packs of 5 cards. The cheapest current-era box is M3 Munikis Zero at $60.03, $2.00 a pack. Both are sealed boxes on our shelf, divided the same way, and both beat the US marketplace prices we could compare line for line. Older sets can be cheaper per pack than new ones, which is why the shelf ladder, not the release date, decides the buy.",
+        "q": "What is the cheapest Japanese booster box?"
+      },
+      {
+        "a": "On paper, yes, when the box sells at its 5,400 yen list: $33.81 plus a 500 yen service fee, $3.13, plus domestic shipping of $0.94 to $9.39, puts the box at $37.88 to $46.33 before international shipping, against $80.67 for our M1L box and $141.98 at Best Buy. In practice the box rarely sells at list, international shipping and US duty of up to 12.5 percent are added on top, and the parcel takes longer. Buyee wins on access to Japan-only listings; a Japan-direct store wins on a buy price you can pay today.",
+        "q": "Is Buyee cheaper than buying from a US shop?"
+      },
+      {
+        "a": "Generally no at official events outside Asia: Japanese cards are not legal at official English-region tournaments, and the language decision should be confirmed with the event organizer before paying. English Destined Rivals merges SV10 and Heat Wave Arena into a 244-card set released May 30, 2025, and is the route for that player. Cards from this era carry the H regulation mark, and Japan's Standard has allowed only H, I and J marks since January 23, 2026.",
+        "q": "Can I play Japanese cards at a local tournament outside Japan?"
+      }
+    ],
+    "h1": "Where to Buy Japanese Booster Boxes",
+    "intro": [
+      "Short answer: the cheapest Japanese booster box on our shelf today is Rebellion Crash at $36.58, $1.22 a pack, and the Warehouse beats Best Buy and Target on the three boxes we could compare line for line, by $39.96 to $61.31 a box. The Warehouse is not cheapest on every box: a US flash sale undercuts our SV2a box by $180.53 and our M2a box by $20.56. A proxy box at the 5,400 yen list lands at $37.88 to $46.33 before international shipping, Prices below are our shelf prices as of November 15, 2026, or dated third-party figures.",
+      "Who this is for: collectors buying sealed Japanese boxes, buyers choosing between a Japan-direct store and a US marketplace, and anyone who has been burned by a resealed box. Who it is not for: anyone who wants loose packs, because this store sells sealed boxes and cases, not loose Japanese packs; anyone who wants English boxes, because this guide is Japanese only; and anyone who needs cards for sanctioned events outside Japan, because Japanese cards are generally not legal there. Prices are divided per pack throughout, because the box price is the headline and the per-pack price is the decision."
+    ],
+    "metaDescription": "Japanese booster boxes from $36.58 on our shelf: Warehouse vs Best Buy vs Target vs Buyee, each divided per pack. The honest channel answer.",
+    "metaTitle": "Where to Buy Japanese Booster Boxes",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "For the buyer who wants the cheapest sealed Japanese box, the answer is [Rebellion Crash](/product/rebellion-crash-booster-box-s2-japanese-pokemon-cards/) at $36.58, or $1.22 a pack across 30 packs of 5 cards. For the buyer who wants the cheapest current-era box, the answer is [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $60.03, or $2.00 a pack. The ladder behind them runs [M6 Storm Emeralda](/product/m6-storm-emeralda-booster-box-japanese-pokemon-card/) at $70.38, $2.35 a pack, [M1S Mega Symphonia](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) and [SV9 Battle Partners](/product/sv9-battle-partners-booster-box-japanese-pokemon-card/) at $72.22 each, $2.41 a pack, and [M1L Mega Brave](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) at $80.67, $2.69 a pack. Every one of those boxes is on our shelf today, sealed, at a buy price you can pay now.",
+          "For the buyer comparing channels, the Warehouse wins the three boxes we could compare line for line. Best Buy lists M1L at $141.98 through a marketplace seller, $61.31 over our $80.67, or 1.76 times our price. Best Buy lists M1S at $119.98, $47.76 over our $72.22, or 1.66 times our price. Target lists the M3 Nihil Zero box at $99.99, $39.96 over our $60.03, or 1.67 times our price.",
+          "For the buyer who wants the honest exceptions, here they are, because a guide that only shows wins is an ad. A US flash sale lists the [SV2a 151 box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) at $219.99, $180.53 under our $400.52, and the [M2a Mega Dream ex box](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) at $76.99, $20.56 under our $97.55. The proxy route is the third exception: a box at its 5,400 yen list lands at $37.88 to $46.33 before international shipping, which beats every US shelf price, but only if the box is actually selling at list, and most are not."
+        ]
+      },
+      {
+        "h": "The money layer: the shelf ladder and the four comparables",
+        "math": [
+          "Rebellion Crash per pack: $36.58 / 30 packs = $1.22",
+          "M3 per pack: $60.03 / 30 packs = $2.00",
+          "M6 per pack: $70.38 / 30 packs = $2.35",
+          "M1S per pack: $72.22 / 30 packs = $2.41",
+          "SV9 per pack: $72.22 / 30 packs = $2.41",
+          "M1L per pack: $80.67 / 30 packs = $2.69",
+          "M2a per pack: $97.55 / 30 packs = $3.25",
+          "SV10 per pack: $181.04 / 30 packs = $6.03",
+          "SV8 per pack: $219.50 / 30 packs = $7.32",
+          "SV2a per pack: $400.52 / 20 packs = $20.03",
+          "SV2a per card: $400.52 / 140 cards = $2.86",
+          "Blue Sky Stream per pack: $2,198.65 / 30 packs = $73.29",
+          "SM7 per pack: $3,335.50 / 30 packs = $111.18",
+          "Best Buy M1L vs Warehouse: $141.98 - $80.67 = $61.31; $141.98 / $80.67 = 1.76x",
+          "Best Buy M1S vs Warehouse: $119.98 - $72.22 = $47.76; $119.98 / $72.22 = 1.66x",
+          "Target M3 vs Warehouse: $99.99 - $60.03 = $39.96; $99.99 / $60.03 = 1.67x",
+          "SV2a flash sale vs Warehouse: $400.52 - $219.99 = $180.53; $219.99 / $400.52 = 0.55x",
+          "M2a flash sale vs Warehouse: $97.55 - $76.99 = $20.56; $76.99 / $97.55 = 0.79x",
+          "M6a list: 7200 yen / 159.7 = $45.08",
+          "M6a sealed ask: 26654 yen / 159.7 = $166.90",
+          "M6a ask vs list: $166.90 - $45.08 = $121.82; $166.90 / $45.08 = 3.70x",
+          "M6a ask per pack: $166.90 / 20 packs = $8.35",
+          "M6a ask per card: $166.90 / 120 cards = $1.39",
+          "Proxy list box: 5400 yen / 159.7 = $33.81",
+          "Proxy box low: $33.81 + $3.13 + $0.94 = $37.88",
+          "Proxy box high: $33.81 + $3.13 + $9.39 = $46.33",
+          "Proxy box per pack low: $37.88 / 30 packs = $1.26",
+          "Proxy box per pack high: $46.33 / 30 packs = $1.54",
+          "Proxy M6a ask low: $166.90 + $3.13 + $0.94 = $170.97",
+          "Proxy M6a ask high: $166.90 + $3.13 + $9.39 = $179.42",
+          "Proxy M6a per pack low: $170.97 / 20 packs = $8.55",
+          "Proxy M6a per pack high: $179.42 / 20 packs = $8.97",
+          "OP-18 case per box: $770.10 / 12 boxes = $64.18",
+          "OP-18 case saving: (12 x $71.40) - $770.10 = $86.70",
+          "Best Buy M1L per pack: $141.98 / 30 packs = $4.73",
+          "Target M3 per pack: $99.99 / 30 packs = $3.33",
+          "Flash sale SV2a per pack: $219.99 / 20 packs = $11.00"
+        ],
+        "paragraphs": [
+          "Start with the shelf ladder, the price list every channel is measured against. Rebellion Crash: $36.58 a box, $1.22 a pack. M3: $60.03, $2.00 a pack. M6: $70.38, $2.35 a pack. M1S and SV9: $72.22 each, $2.41 a pack. M1L: $80.67, $2.69 a pack. M2a: $97.55, $3.25 a pack. [SV10 Glory of Team Rocket](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/): $181.04, $6.03 a pack. [SV8 Super Electric Breaker](/product/sv8-super-electric-breaker-booster-box-japanese-pokemon-card/): $219.50, $7.32 a pack. SV2a: $400.52, but its box holds 20 packs of 7 cards, not 30 packs of 5, so $20.03 a pack and $2.86 a card.",
+          "The three Warehouse wins are the next layer, and they are all the same story told three ways. Best Buy's M1L at $141.98 is $61.31 over our $80.67, or 1.76 times our price, and $4.73 a pack against our $2.69. Best Buy's M1S at $119.98 is $47.76 over our $72.22, or 1.66 times our price. Target's M3 at $99.99 is $39.96 over our $60.03, or 1.67 times our price, and $3.33 a pack against our $2.00.",
+          "The two losses and the proxy stack are the last layer, and they keep the wins honest. The flash sale's SV2a at $219.99 is $180.53 under our $400.52, or 0.55 times our price, and $11.00 a pack against our $20.03. The proxy stack tells the same story from the other side: a standard 30-pack box at its 5,400 yen list is $33.81, plus a 500 yen service fee, $3.13, plus domestic shipping of $0.94 to $9.39, which puts it at $37.88 to $46.33 before international shipping. But the M6a 30th Celebration box shows what happens when the box is not selling at list: its list is 7,200 yen, $45.08, while the sealed ask on Samurai Sword Tokyo is 26,654 yen, $166.90, a $121.82 gap, or 3.70 times list, and through a proxy that ask lands at $170.97 to $179.42, or $8.55 to $8.97 a pack across its 20 packs."
+        ]
+      },
+      {
+        "h": "The decision layer: six channels, one box",
+        "paragraphs": [
+          "The table below is the whole decision on one page. Read the per-pack column first, because the box price is the headline and the per-pack price is what you actually pay to open. The Warehouse direct box is the cheapest buy price on the three boxes we could compare, and Rebellion Crash at $1.22 a pack is the cheapest pack on the shelf. The flash sale is the cheapest US price on SV2a and M2a, and the only channel that beats us on any box we checked. The proxy is the cheapest on paper and the dearest in uncertainty.",
+          "The ranking changes with the set, which is the point the table makes. On a current Mega set, the Warehouse wins. On a scarce older set like SV2a, a US flash sale wins, because US stock of that set is cheaper than ours. On a 30th Celebration box selling far above list, the proxy stack multiplies the ask, so the ask is the price, not the list. Pick the set first, divide it on every channel that sells it, and pay the cheapest per pack that is actually sealed and actually in stock."
+        ],
+        "table": {
+          "head": [
+            "Channel",
+            "Box (example)",
+            "Price",
+            "Per pack",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Warehouse direct (Rebellion Crash)",
+              "Rebellion Crash s2",
+              "$36.58",
+              "$1.22",
+              "Cheapest box on the shelf"
+            ],
+            [
+              "Warehouse direct (M3)",
+              "M3 Munikis Zero",
+              "$60.03",
+              "$2.00",
+              "Cheapest current-era box"
+            ],
+            [
+              "Best Buy marketplace (M1L)",
+              "M1L Mega Brave",
+              "$141.98",
+              "$4.73",
+              "$61.31 over our box"
+            ],
+            [
+              "Target (M3)",
+              "M3 Nihil Zero",
+              "$99.99",
+              "$3.33",
+              "$39.96 over our box"
+            ],
+            [
+              "PokemonRevolution flash sale (SV2a)",
+              "SV2a 151",
+              "$219.99",
+              "$11.00",
+              "Undercuts our SV2a by $180.53"
+            ],
+            [
+              "Buyee proxy (list-price box)",
+              "Standard 30-pack box",
+              "$37.88 to $46.33",
+              "$1.26 to $1.54",
+              "Cheapest on paper, before shipping"
+            ],
+            [
+              "Samurai Sword ask (M6a)",
+              "M6a 30th Celebration",
+              "$166.90",
+              "$8.35",
+              "Ask, not a sale; 20 packs"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the per-pack division and the two dearer boxes",
+        "note": "From the Warehouse: the question we get about Japanese boxes is never where to buy one. It is whether the box on the screen is really sealed, really Japanese, and really the price on the screen, because a marketplace listing hides all three until the box arrives. The divisions below are the answer: same box, same pack count, every channel, one page, with the two boxes where we lose printed beside the three where we win.",
+        "paragraphs": [
+          "The top results for this query are product pages and press releases, not guides. Best Buy lists Japanese boxes through marketplace sellers, M1L at $141.98 and M1S at $119.98, but it never divides them per pack and never compares them against a Japan-direct price. The PokemonRevolution flash sale lists SV2a at $219.99 and M2a at $76.99, but it is a US phone-order sale, not a comparison, and it never mentions the proxy route. IssueWire carries a top-7 ranking that puts Delightful TCG first, then TCGplayer, eBay, Troll and Toad, Pokemon Center and Mercari Japan through a proxy, but it is a press release, and it never divides a single box per pack.",
+          "The second thing the top results miss is the two boxes where the Warehouse loses, and they are the reason this guide is worth reading. SV2a at $400.52 is $180.53 dearer than the flash sale's $219.99, and M2a at $97.55 is $20.56 dearer than the flash sale's $76.99. Samurai Sword Tokyo's 30th Celebration list is the third miss: it gives the MSRP, 7,200 yen for the M6a box, and the sealed ask, 26,654 yen, but it never runs the proxy stack on the ask, so a buyer who sees the list price and expects to pay it through a proxy is budgeting $45.08 for a box that lands at $170.97 to $179.42 before international shipping."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, sold-out sets, duty, and the pre-order trap",
+        "paragraphs": [
+          "The expensive failure on this page is a resealed box. A Japanese box that has been opened, searched and resealed looks sealed until the packs inside are weighed or opened, and a marketplace listing never says so. Check the shrink, check the seal pattern against a known sealed box, check the seller history, and treat a box priced far below its channel price as either not what it claims or not sealed at all. The [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) runs the full check before you open anything at this price.",
+          "The second risk is the sold-out set. Older sets sell out as sealed boxes, and the price that replaces them is a collector price: Blue Sky Stream at $2,198.65 and SM7 Sky-Splitting Charisma at $3,335.50 are not opening prices, and no honest guide can promise either at a play price. The pre-order is the opposite trap: the [OP-18 Japanese box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is a pre-order at $71.40, and its case is a pre-order at $770.10, or $64.18 a box, saving $86.70 against twelve singles. A pre-order buys a future shipment, not stock in hand, and if the date slips, the case slips with it.",
+          "The third risk is the duty and the wait. Since July 24, 2026, products of Japan pay a Section 301 duty that tops the normal rate up to 12.5 percent in total, and Buyee has collected duty prepaid on all its shipping methods since August 2025, estimating the duty by category and invoice value. Buyee gives 30 days of free storage from arrival, then charges a daily fee by weight, up to 90 days at most, so a proxy parcel is a project with a clock on it, not a purchase."
+        ]
+      },
+      {
+        "h": "Context: what a Japanese box actually is",
+        "paragraphs": [
+          "A standard Japanese box holds 30 packs of 5 cards, 150 cards, and lists at 5,400 yen, which is $33.81 at 159.7 yen per dollar on November 14, 2026. The exceptions matter, because the per-pack division changes with them: the M6a 30th Celebration box holds 20 packs of 6 cards, 120 cards, and lists at 7,200 yen, $45.08; the SV2a 151 box holds 20 packs of 7 cards, 140 cards; and high-class sets like M2a and SV8a hold fewer packs with more cards per pack. The set code is printed in the bottom-left of each card next to the card number, so the first thing to check before dividing is the pack count, not the price.",
+          "The second context is the English merge, because it changes what the Japanese set is. English Destined Rivals, released May 30, 2025, is not the English SV10: it merges SV10 with Heat Wave Arena into a 244-card set, and adds starter-set cards on top. A buyer who wants the pure set buys Japanese; a buyer who wants the combined set in English, or cards that are legal at English-region events, buys Destined Rivals. Cards from this era carry the H regulation mark, and Japan's Standard has allowed only H, I and J marks since January 23, 2026, which is the detail that decides legality in Japan, not the language on the card."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants loose Japanese packs, because this store sells sealed boxes and cases, not loose packs, and the per-pack figures here are divisions, not listings. It is not for anyone who wants English boxes, because every price here is Japanese, and the English shelf is a different guide. It is not for the player who needs tournament-legal cards outside Asia, because the Japanese set is not the route for that player, and the language decision should be confirmed with the event organizer before paying. Buy a Japanese box because you want that set, not because it is cheap, because the cheap ones are cheap for a reason."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the set first, then the channel: the winner is the set, not the channel.",
+          "Divide before you pay: box / packs = your per-pack price, then / cards = per card.",
+          "Check the pack count before dividing: 30 packs for a standard box, 20 for M6a and SV2a.",
+          "Compare the same box on two channels: our M1L at $80.67 against Best Buy at $141.98 is the template.",
+          "If the job is a proxy box, budget the stack: list + 500 yen fee + domestic shipping, before international shipping and duty.",
+          "Check the seal before opening anything at this price, and store sealed boxes flat, cool, and dry.",
+          "If you play outside Asia, buy the English set, not the Japanese one."
+        ],
+        "h": "Action layer: the Japanese booster box checklist",
+        "paragraphs": [
+          "Before paying for a Japanese booster box, walk the list. The set decides the channel, the division decides the price, and the seal decides whether the box is what it claims: a box that divides to $2.00 a pack is a different purchase from a box that divides to $20.03 a pack, even though both are sealed Japanese boxes. For the format question across the wider shelf, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles it, and for the shipping and customs side of the proxy route, the [buying TCG from Japan guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the border in full.",
+          "When the next set lands, re-run the division: the first thing to check is whether the cheapest box is still Rebellion Crash at $36.58, and the second is whether the Warehouse still wins the three boxes it wins today. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) tracks the shelf ladder set by set, so the comparison stays current."
+        ]
+      }
+    ],
+    "slug": "where-to-buy-japanese-booster-box",
+    "takeaway": [
+      "The cheapest Japanese booster box on our shelf is Rebellion Crash at $36.58, $1.22 a pack, and the cheapest current-era box is M3 at $60.03, $2.00 a pack. The Warehouse beats Best Buy and Target on the three boxes we could compare line for line, by $39.96 to $61.31 a box.",
+      "The Warehouse loses on two boxes, and this guide prints both: the flash sale undercuts our SV2a by $180.53 and our M2a by $20.56. A proxy box at its 5,400 yen list lands at $37.88 to $46.33 before international shipping, which beats every US shelf price, but only if the box is actually selling at list.",
+      "For the set-by-set buy, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf, the [best value guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks it by per-pack price, and the [cheapest box guide](/blog/cheapest-japanese-pokemon-booster-box/) frames the cheapest buy. For the Fusion World version of this question, the [where to buy Dragon Ball Fusion World Japanese guide](/blog/where-to-buy-dragon-ball-fusion-world-japanese/) runs the same discipline on the Japanese Fusion World shelf.",
+      "New to Japanese boxes? The [best Japanese Pokemon cards guide](/blog/best-japanese-pokemon-cards/) ranks the shelf by card, the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) prices the slab decision, and the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) keeps a case safe once you own it."
     ]
   },
   "where-to-buy-japanese-one-piece-booster-box": {
