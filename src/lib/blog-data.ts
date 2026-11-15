@@ -5320,7 +5320,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [Comprar cartas One Piece japonesas en España](/blog/comprar-cartas-one-piece-japonesas/) prices all twenty-four Japanese One Piece boxes in euros, with the €150 line and the 21% IVA landed cost on every box and case.",
       "New this cycle: the [is OP-01 Romance Dawn worth buying guide](/blog/is-op-01-worth-buying/) prices the founding set the same way, Japanese box $238.45 against an English box that fell 20% in six days, with the Manga Shanks chase priced against the box.",
       "For where to buy the box once you have picked it, the [where to buy Japanese One Piece booster boxes guide](/blog/where-to-buy-japanese-one-piece-booster-box/) prices the shelf, the US marketplace, and the Buyee proxy stack side by side.",
-      "New this cycle: the [best Japanese One Piece cards guide](/blog/best-japanese-one-piece-cards/) prices all 54 Japanese One Piece items, boxes, cases, and promos, from one shelf."
+      "New this cycle: the [best Japanese One Piece cards guide](/blog/best-japanese-one-piece-cards/) prices all 54 Japanese One Piece items, boxes, cases, and promos, from one shelf.",
+      "For the two Premium Boosters in depth, the [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) and the [PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/) price all four products per volume from November 15, 2026 shelf prices, with the eleven-day fall tracked."
     ]
   },
   "best-japanese-one-piece-cards": {
@@ -24273,6 +24274,424 @@ export const POSTS: Record<string, BlogPost> = {
       "For the price-and-math companion, the [OP-18 The Dominance of God preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the October prices side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case charges a premium instead of saving."
     ]
   },
+  "is-prb-01-worth-buying": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "Yes, sealed, in Japanese, for the collector who wants the first Premium Booster volume, its Sanji Leader, and its 30 Gold DON!! cards. The Japanese box is $127.19, or $12.72 a pack, and the Japanese case saves only $5.77, so buy single boxes. The English box at $368.53 is a secondary-market price, 2.90 times the Japanese box, and it is worth it only to the buyer who collects the English print itself.",
+        "q": "Is PRB-01 worth buying?"
+      },
+      {
+        "a": "Barely. The Japanese case at $1,266.13 divides to $126.61 a box against a $127.19 single box, saving $5.77 across ten boxes. The English case is the one that discounts: $3,461.63 divides to $346.16 a box against a $368.53 single box, saving $223.67.",
+        "q": "Is the PRB-01 Japanese sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Luffy Comic Parallel OP05-119 was asking about $2,950 ungraded in March 2026, which is 23.2 Japanese boxes at today's price, and Bandai publishes no pull rates for PRB-01, so no box count buys that card. Buy the single if the Luffy is the card you want.",
+        "q": "Should I buy a PRB-01 box to pull the Luffy Comic Parallel?"
+      }
+    ],
+    "h1": "Is PRB-01 Worth Buying?",
+    "intro": [
+      "Short answer: yes, sealed, in Japanese, for the collector who wants the first Premium Booster volume on its own terms. The [PRB-01 Japanese booster box](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) is $127.19 on this shelf, $12.72 a pack and $1.27 a card on the box as sold, and it is the only way to own the first volume's reprint art, its Sanji Leader, and its 30 Gold DON!! cards. The English box at $368.53 is a secondary-market price for a 2024 set, 2.90 times the Japanese box, and it is the wrong entry for anyone who only wants packs to open.",
+      "This guide prices all four PRB-01 products we carry, divides every one of them, and tracks what changed since November 4, 2026, when the Japanese box was $149.63 and the English box was $541.95. Both have fallen hard in eleven days, by 15.0 and 32.0 percent, and the fall is the first thing a buyer should understand before paying. Every price below is a Warehouse price as of November 15, 2026, and every division is shown in the math section."
+    ],
+    "metaDescription": "PRB-01 Japanese box $127.19, English $368.53: the case saves $5.77 in Japanese and $223.67 in English, and the Luffy Comic Parallel ask equals 23 boxes.",
+    "metaTitle": "Is PRB-01 One Piece The Best Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes in Japanese, only for the collector in English",
+        "paragraphs": [
+          "If you want one PRB-01 box, buy the [Japanese box](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) at $127.19. It is the cheapest PRB-01 entry on the shelf by $241.34, and it is the only PRB-01 box priced anywhere near its list box: ten packs at ¥550 is ¥5,500, which is $34.44 at the November 15, 2026 rate of 159.7 yen per dollar, so the Japanese box costs 3.69 times list. That multiple sounds high until the English box is put beside it: ten packs at the $5.49 list pack price is a $54.90 list box, and the [English box](/product/prb-01-the-best-premium-booster-box-english-one-piece-card/) at $368.53 costs 6.71 times list. The Japanese box is the value entry and the English box is the scarcity entry, and they should not be bought for the same reason.",
+          "If you want ten boxes, buy the case, but know which case does the work. The [Japanese case](/product/prb-01-one-piece-card-the-best-sealed-case-10-boxes-japanese-one-piece-card/) at $1,266.13 divides to $126.61 a box and saves $5.77 against ten single boxes, which is a quantity decision, not a discount. The [English case](/product/prb-01-the-best-premium-sealed-case-10-boxes-english-one-piece-card/) at $3,461.63 divides to $346.16 a box and saves $223.67, which is a real discount. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the whole Japanese shelf the same way, and the [English One Piece booster box price index](/blog/english-one-piece-booster-box-price/) does the same for the English shelf.",
+          "If you want one named card, buy the single, not the box. The Monkey D. Luffy Comic Parallel OP05-119 was asking about $2,950 ungraded in March 2026, which is 23.2 Japanese boxes at today's price, and Bandai publishes no pull rates for PRB-01, so no box count buys that card. The God Pack, one sealed pack holding all ten historic Comic Parallels, is estimated at roughly one per 100 cartons, which is 1,000 boxes, and a complete God Pack sold for ¥1,380,000, about $8,641.20, which is 67.9 Japanese boxes. The table below turns the answer into a buy list. If two rows fit, the cheaper per-pack figure wins, and the row that fits most buyers is the first one."
+        ],
+        "table": {
+          "head": [
+            "Your job",
+            "Buy this",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "One box to open",
+              "PRB-01 Japanese box",
+              "$127.19",
+              "$12.72 a pack, $1.27 a card"
+            ],
+            [
+              "Ten boxes, Japanese",
+              "PRB-01 Japanese case",
+              "$1,266.13",
+              "$126.61 a box, saves $5.77"
+            ],
+            [
+              "Ten boxes, English",
+              "PRB-01 English case",
+              "$3,461.63",
+              "$346.16 a box, saves $223.67"
+            ],
+            [
+              "One named card",
+              "The single",
+              "market price",
+              "no box count buys a named card"
+            ],
+            [
+              "The Gold DON!! set",
+              "Japanese box, then singles",
+              "$127.19",
+              "30 Gold DON!! designs live here"
+            ],
+            [
+              "Cheapest Premium Booster",
+              "PRB-02 Japanese box",
+              "$63.60",
+              "half the price, SR floor in every pack"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: all four PRB-01 products, divided",
+        "paragraphs": [
+          "The table below is the whole PRB-01 shelf, priced from our live catalogue on November 15, 2026. One note on the arithmetic first, because it decides whether the per-pack column is honest. Bandai's official product pages print the 10-card pack but no packs-per-box figure for PRB-01, in either language. The box as sold holds 10 packs of 10 cards, 100 cards, which is the figure every retailer prints and the figure our own product pages use, so the per-pack and per-card lines below are the box as sold, not a Bandai print. If a guide divides a PRB box without saying that, it is hiding the gap.",
+          "The Japanese box at $127.19 is $12.72 a pack and $1.27 a card. The English box at $368.53 is $36.85 a pack and $3.69 a card. The Japanese case barely discounts: $1,266.13 for ten boxes is $126.61 a box, a $5.77 saving. The English case discounts properly: $3,461.63 for ten boxes is $346.16 a box, a $223.67 saving, because the English single box carries a premium the case price does not fully repeat. The whole four-item shelf costs $5,223.48.",
+          "The fall since November 4, 2026 is the second thing the table shows. Our own [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) priced these same four products eleven days ago: the Japanese box was $149.63, the Japanese case $1,489.57, the English box $541.95, and the English case $5,090.64. The Japanese box fell $22.44, the English box fell $173.42, the Japanese case fell $223.44, and the English case fell $1,629.01."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Price",
+            "Per pack",
+            "Per card",
+            "Case per box",
+            "Case saves"
+          ],
+          "rows": [
+            [
+              "PRB-01 Japanese box",
+              "$127.19",
+              "$12.72",
+              "$1.27",
+              "single only",
+              "single only"
+            ],
+            [
+              "PRB-01 Japanese case (10 boxes)",
+              "$1,266.13",
+              "$12.66",
+              "$1.27",
+              "$126.61",
+              "$5.77"
+            ],
+            [
+              "PRB-01 English box",
+              "$368.53",
+              "$36.85",
+              "$3.69",
+              "single only",
+              "single only"
+            ],
+            [
+              "PRB-01 English case (10 boxes)",
+              "$3,461.63",
+              "$34.62",
+              "$3.46",
+              "$346.16",
+              "$223.67"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "PRB-01 Japanese box: $127.19 ÷ 10 = $12.72 per pack; $127.19 ÷ 100 = $1.27 per card",
+          "PRB-01 Japanese case: $1,266.13 ÷ 10 = $126.61 per box; (10 x $127.19) - $1,266.13 = $5.77",
+          "PRB-01 English box: $368.53 ÷ 10 = $36.85 per pack; $368.53 ÷ 100 = $3.69 per card",
+          "PRB-01 English case: $3,461.63 ÷ 10 = $346.16 per box; (10 x $368.53) - $3,461.63 = $223.67",
+          "English against Japanese, box: $368.53 - $127.19 = $241.34; $368.53 ÷ $127.19 = 2.90",
+          "Japanese list box: 10 x ¥550 = ¥5,500; ¥5,500 ÷ 159.7 = $34.44; $127.19 ÷ $34.44 = 3.69",
+          "English list box: 10 x $5.49 = $54.90; $368.53 ÷ $54.90 = 6.71",
+          "Japanese box fall since November 4, 2026: $149.63 - $127.19 = $22.44; $22.44 ÷ $149.63 = 15.0%",
+          "English box fall since November 4, 2026: $541.95 - $368.53 = $173.42; $173.42 ÷ $541.95 = 32.0%",
+          "Japanese case fall: $1,489.57 - $1,266.13 = $223.44; English case fall: $5,090.64 - $3,461.63 = $1,629.01",
+          "Luffy Comic Parallel against the Japanese box: $2,950.00 ÷ $127.19 = 23.2 boxes",
+          "God Pack against the Japanese box: $8,641.20 ÷ $127.19 = 67.9 boxes",
+          "Whole PRB-01 shelf: $127.19 + $1,266.13 + $368.53 + $3,461.63 = $5,223.48"
+        ],
+        "paragraphs": [
+          "Every division in this guide is printed below, so any buyer can check our arithmetic before spending. The Japanese list box is the anchor: ten packs at ¥550 is ¥5,500, and at 159.7 yen per dollar on November 15, 2026 that is $34.44. Our Japanese box at $127.19 costs 3.69 times that list box, and our English box at $368.53 costs 6.71 times its $54.90 derived list box. The two falls are also printed, because a price without its history is only half a price.",
+          "The totals close the section. All four PRB-01 products together cost $5,223.48. The Japanese case saving of $5.77 is the smallest case saving on our whole One Piece shelf, and the English case saving of $223.67 is the only one of the four numbers that would change a buying decision on its own."
+        ]
+      },
+      {
+        "h": "What the top guides miss: the fall, the list multiple, and the case gap",
+        "note": "From the Warehouse: the question we get most in chat about PRB-01 is whether the English box is worth triple the Japanese box, and the answer is that it is worth it only to the buyer who collects the English print itself. The cards are the same reprints, the packs hold the same 10 cards, and the English box opens no card the Japanese box cannot. We print both prices side by side so the buyer can see the $241.34 before paying it.",
+        "paragraphs": [
+          "The top guides for PRB-01 are pull-rate guides and chase-card rankings. They list the ten most valuable cards, they estimate the God Pack at roughly one per 100 cartons, and they price the Luffy Comic Parallel. What none of them does is price the whole four-product shelf from one live catalogue, divide the cases, and track the price over time. The fall is the gap that matters most: between November 4 and November 15, 2026, the English box fell by a third and the English case fell by $1,629.01, and a guide that only lists chase cards cannot tell a buyer whether today is a good day to pay. The list multiple is the second gap: the Japanese box at 3.69 times list and the English box at 6.71 times list are the two numbers that explain why the English box is a collector's purchase and not a pack-opening purchase.",
+          "The third gap is the case gap. On most Japanese sets the case saves real money or charges a premium, and our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) runs that division set by set. On PRB-01 the Japanese case saves $5.77 across ten boxes, which is nothing, while the English case saves $223.67. The [PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/) runs the same four divisions on the second volume, where the Japanese box is half the price and every pack carries a Super Rare floor that PRB-01 does not carry.",
+          "One more gap the chase guides leave open is the reprint question. PRB-01 reprints chase cards from OP-01 through OP-06 with new parallel art, and the natural worry is that a reprint is worth less than the original. The market measured the opposite for the top Comic Parallels: in an August 5, 2026 pass over SNKRDUNK asking prices, the PRB-01 print of Shanks OP01-120 asked about 6.2 times the Romance Dawn print of the same card number, and the Ace OP02-013 reprint asked about 4.6 times its original. Those are asking prices, not sales, and they cover two cards, not the set, but they settle the direction: for the top Comic Parallels, the PRB-01 print is the expensive one, because the set of origin is printed on the card and collectors pay for it."
+        ]
+      },
+      {
+        "h": "The risk layer: no pull rates, a falling price, and the fake box",
+        "paragraphs": [
+          "The first risk is that Bandai publishes no pull rates for PRB-01. The God Pack estimate of one per 100 cartons comes from market reporting, not from Bandai, and the per-box odds of any one Comic Parallel are not printed anywhere. A box guarantees one Secret Rare, one Rare, one DON!! card and two Jolly Roger stamped foils per pack, as TCGplayer's PRB-01 guide records, but it guarantees no named card, and the Luffy Comic Parallel at 23.2 boxes of asking price is an asking price from March 2026, not a sale and not a promise. Treat every chase figure in this guide as a dated ask, and re-check it before you pay.",
+          "The second risk is the price itself, which is falling. The English box lost 32.0 percent in eleven days and the English case lost $1,629.01, and a falling sealed price can keep falling. The Japanese box fell 15.0 percent in the same eleven days. Re-check the price at checkout, because every price in this guide is a November 15, 2026 shelf price, and the next eleven days can move them again.",
+          "The third risk is the fake box, and PRB-01 is a prime target for it because the English box costs $368.53 and the chase cards are famous. Sealed English boxes are faked, and our guide on [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) shows what to check before you open a box above $150: the seal, the print quality, the card stock, and the set stamp. Buy sealed PRB-01 from a seller who will stand behind the seal, keep the order confirmation, and do not open a box you plan to resell sealed, because an opened box is worth the cards inside it and nothing else."
+        ]
+      },
+      {
+        "h": "Context: what PRB-01 is, and where it sits in One Piece",
+        "paragraphs": [
+          "PRB-01 is PREMIUM BOOSTER -ONE PIECE CARD THE BEST-, the first Premium Booster in the One Piece Card Game. It released in Japan on July 27, 2024 and in English on November 8, 2024, with a legal date of November 15, 2024. It is a reprint volume, not a new set: it takes popular cards from OP-01 through OP-06, plus returning events and promos, and reissues them with new parallel artwork, a new Sanji Leader numbered PRB01-001, and 30 exclusive Gold DON!! card designs. The card pool is 111 card numbers plus 30 DON!! cards, split across 1 Leader, 23 Commons, 25 Uncommons, 4 promos, 21 Rares, 29 Super Rares, and 8 Secret Rares.",
+          "The Premium Booster line sits beside the numbered OP boosters and the EB Extra Boosters as the reprint-and-popular-cards line. A standard OP box holds 24 packs of 6 cards at ¥240 a pack, while a PRB box holds 10 packs of 10 cards at ¥550 a pack, so the PRB pack is a different product, built around reprints rather than new cards. PRB-02 followed on July 26, 2025 in Japan and October 3, 2025 in English, with a larger pool of 179 types plus 30 DON!! cards and a printed floor of at least one Super Rare or better in every pack, a guarantee PRB-01 does not carry. The [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) settles the two volumes head to head, and the [Japanese One Piece booster box price index](/blog/one-piece-japanese-booster-box-price/) prices the rest of the Japanese shelf for buyers who want a standard box instead.",
+          "The Gold DON!! cards deserve a line of their own, because they are the one thing in PRB-01 that exists nowhere else in the game. Thirty designs, gold bordered, foiled and embossed, themed around iconic characters and leaders, and they were asking $200 to $500 each in March 2026. A buyer chasing the full set of thirty is chasing a long project, not a box: one box holds 100 cards and no box promises any specific DON!! design."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for players who want cheap cards to play with. A standard Japanese One Piece box costs about $2 to $3 a pack, and PRB-01 costs $12.72 a pack in Japanese and $36.85 in English, so a player buying PRB-01 for playables is paying a collector's premium for cards they could buy as singles or pull from a mainline set. It is not for graded-singles buyers either: we sell sealed product, and a sealed box price cannot be compared against a graded single without grading costs and population counts included.",
+          "And this guide is not for anyone seeking a guaranteed return. No sealed purchase guarantees a pull, a profit, or a resale price, and the 32.0 percent fall in the English box in eleven days is the proof that sealed prices move down as well as up. The God Pack is a one-in-a-thousand-boxes estimate, not a plan. Buy PRB-01 to own the first Premium Booster volume and its prints, treat any resale value as a bonus, and use the per-pack column as a buying tool, not an investment forecast."
+        ]
+      },
+      {
+        "checklist": [
+          "Buy the Japanese box at $127.19 unless you specifically collect the English print.",
+          "If you want ten boxes, buy the English case for the $223.67 saving, and buy the Japanese case only if you want ten boxes at once, because it saves $5.77.",
+          "If you want one named card, buy the single: the Luffy Comic Parallel ask equals 23.2 Japanese boxes.",
+          "Check the price at checkout, because the English box fell 32.0 percent between November 4 and November 15, 2026.",
+          "If you buy English, check the seal before you open it, using our fake-spotting guide for any box above $150.",
+          "Remember the pack contents: 10 cards a pack, one Secret Rare, one Rare, one DON!! card and two Jolly Roger foils guaranteed, but no named card guaranteed."
+        ],
+        "h": "Action layer: the PRB-01 buying checklist",
+        "paragraphs": [
+          "Work through the list in order and you will buy the right PRB-01 product the first time. The list is short on purpose: six checks, each one catching a mistake this guide has seen buyers make."
+        ]
+      }
+    ],
+    "slug": "is-prb-01-worth-buying",
+    "takeaway": [
+      "The Japanese box at $127.19 is the PRB-01 buy: $12.72 a pack, $1.27 a card, and 3.69 times its ¥5,500 list box, while the English box at $368.53 is 6.71 times its list box and 2.90 times the Japanese box.",
+      "Both boxes fell hard in eleven days: the Japanese box by $22.44 and the English box by $173.42 since November 4, 2026, and the English case fell $1,629.01 in the same span.",
+      "The Japanese case saves $5.77 across ten boxes, which is nothing, while the English case saves $223.67. The whole four-item PRB-01 shelf is $5,223.48, and every division is shown in the math section above.",
+      "No box buys a named card: the Luffy Comic Parallel ask equals 23.2 Japanese boxes, the God Pack is roughly one per 1,000 boxes, and Bandai publishes no pull rates, so buy the single for any named card.",
+      "For the head-to-head verdict, the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) settles the two volumes, the [PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/) runs the same divisions on the second volume, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the whole Japanese shelf."
+    ]
+  },
+  "is-prb-02-worth-buying": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "Yes, and it is the best-value Premium Booster on our shelf. The Japanese box is $63.60, or $6.36 a pack, with at least one Super Rare or better guaranteed in every pack, and it costs almost exactly half the PRB-01 Japanese box at $127.19. The English box at $157.03 is worth it only to the buyer who collects the English print itself.",
+        "q": "Is PRB-02 worth buying?"
+      },
+      {
+        "a": "Barely. The Japanese case at $1,266.13 holds 20 boxes and divides to $63.31 a box against a $63.60 single box, saving $5.87 across twenty boxes. Buy the case only if you want twenty boxes at once. The English case at $1,474.87 cannot be divided at all, because its listing states no box count.",
+        "q": "Is the PRB-02 Japanese sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Sanji Manga Rare OP06-119 was asking ¥135,555 raw, about $848.81, on SNKRDUNK on October 7, 2026, which is 13.3 Japanese boxes at today's price, and Bandai publishes no pull rates for PRB-02. Buy the single if the Sanji is the card you want.",
+        "q": "Should I buy a PRB-02 box to pull the Sanji Manga Rare?"
+      }
+    ],
+    "h1": "Is PRB-02 Worth Buying?",
+    "intro": [
+      "Short answer: yes, and it is the best-value Premium Booster on this shelf. The [PRB-02 Japanese booster box](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) is $63.60, $6.36 a pack and $0.64 a card on the box as sold, and every pack carries an official guarantee of at least one Super Rare card or better, a floor PRB-01 does not carry. It costs almost exactly half the PRB-01 Japanese box, and it is the natural first Premium Booster buy.",
+      "This guide prices all four PRB-02 products we carry, divides every one that can be divided, and tracks what changed since November 4, 2026, when the Japanese box was $74.82 and the English box was $230.92. Both have fallen 15.0 and 32.0 percent in eleven days, and the English case has fallen $694.05 in the same span. Every price below is a Warehouse price as of November 15, 2026, and every division is shown in the math section."
+    ],
+    "metaDescription": "PRB-02 Japanese box $63.60, English $157.03: every pack holds a Super Rare or better, the case saves $5.87 in Japanese, and the Sanji ask equals 13 boxes.",
+    "metaTitle": "Is PRB-02 One Piece The Best Vol. 2 Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes, in Japanese, for almost every buyer",
+        "paragraphs": [
+          "If you want one PRB-02 box, buy the [Japanese box](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) at $63.60. It is the cheapest Premium Booster box on the shelf by $63.59, it costs almost exactly half the PRB-01 Japanese box at $127.19, and it is the only Premium Booster with a printed rarity floor: Bandai's official product pages in Japanese, English, and Asia English all print that every pack contains at least one Super Rare card or better. That floor is the difference between the two volumes in one line: PRB-01 guarantees a Secret Rare, a Rare, a DON!! card and two Jolly Roger foils per pack, but it prints no Super Rare floor.",
+          "If you want twenty boxes, the [Japanese case](/product/prb-02-one-piece-card-the-best-vol-2-sealed-case-20-boxes-japanese-one-piece-car/) at $1,266.13 divides to $63.31 a box and saves $5.87 against twenty single boxes, which is a quantity decision, not a discount. If you want the English edition, buy the [English box](/product/prb-02-the-best-volume-2-premium-booster-box-english-one-piece-card/) at $157.03, and do not buy the [English case](/product/prb-02-one-piece-card-the-best-vol-2-sealed-case-english-one-piece-card/) on a per-box figure, because its listing states no box count and $1,474.87 cannot be divided honestly.",
+          "If you want one named card, buy the single, not the box. The Sanji Manga Rare OP06-119, the first-ever Sanji Manga Rare and the headline pull of this set, was asking ¥135,555 raw on SNKRDUNK on October 7, 2026, about $848.81 at the November 15, 2026 rate of 159.7 yen per dollar, which is 13.3 Japanese boxes at today's price, and a PSA 10 was asking ¥235,000, about $1,471.51, which is 23.1 boxes. Those are asking prices, not sales, and Bandai publishes no pull rates for PRB-02, so no box count buys that card. The table below turns the answer into a buy list. If two rows fit, the cheaper per-pack figure wins, and the row that fits most buyers is the first one."
+        ],
+        "table": {
+          "head": [
+            "Your job",
+            "Buy this",
+            "Price",
+            "Why"
+          ],
+          "rows": [
+            [
+              "One box to open",
+              "PRB-02 Japanese box",
+              "$63.60",
+              "$6.36 a pack, SR floor in every pack"
+            ],
+            [
+              "Twenty boxes, Japanese",
+              "PRB-02 Japanese case",
+              "$1,266.13",
+              "$63.31 a box, saves $5.87"
+            ],
+            [
+              "One box, English print",
+              "PRB-02 English box",
+              "$157.03",
+              "$15.70 a pack, English edition"
+            ],
+            [
+              "One named card",
+              "The single",
+              "market price",
+              "no box count buys a named card"
+            ],
+            [
+              "The Gold DON!! set",
+              "Japanese box, then singles",
+              "$63.60",
+              "30 Gold DON!! designs live here"
+            ],
+            [
+              "The first volume instead",
+              "PRB-01 Japanese box",
+              "$127.19",
+              "first volume's art, Sanji Leader, no SR floor"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: all four PRB-02 products, divided where they can be",
+        "paragraphs": [
+          "The table below is the whole PRB-02 shelf, priced from our live catalogue on November 15, 2026. One note on the arithmetic first, because it decides whether the per-pack column is honest. Bandai's official product pages print the 10-card pack but no packs-per-box figure for PRB-02, in either language. The box as sold holds 10 packs of 10 cards, 100 cards, which is the figure every retailer prints and the figure our own product pages use, so the per-pack and per-card lines below are the box as sold, not a Bandai print. If a guide divides a PRB box without saying that, it is hiding the gap.",
+          "The Japanese box at $63.60 is $6.36 a pack and $0.64 a card. The English box at $157.03 is $15.70 a pack and $1.57 a card. The Japanese case holds 20 boxes, and $1,266.13 for twenty divides to $63.31 a box, a $5.87 saving that would not cover the shipping on the order. The English case at $1,474.87 has no per-box figure anywhere in this guide, because its listing states no box count, and a case that cannot be divided cannot be compared per box. The whole four-item shelf costs $2,961.63, which is $2,261.85 less than the four-item PRB-01 shelf at $5,223.48.",
+          "The fall since November 4, 2026 is the second thing the table shows. Our own [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) priced these same four products eleven days ago: the Japanese box was $74.82, the Japanese case $1,489.57, the English box $230.92, and the English case $2,168.92. Every one of them is cheaper today. The Japanese box fell $11.22, the English box fell $73.89, the Japanese case fell $223.44, and the English case fell $694.05."
+        ],
+        "table": {
+          "head": [
+            "Product",
+            "Price",
+            "Per pack",
+            "Per card",
+            "Case per box",
+            "Case saves"
+          ],
+          "rows": [
+            [
+              "PRB-02 Japanese box",
+              "$63.60",
+              "$6.36",
+              "$0.64",
+              "single only",
+              "single only"
+            ],
+            [
+              "PRB-02 Japanese case (20 boxes)",
+              "$1,266.13",
+              "$6.33",
+              "$0.63",
+              "$63.31",
+              "$5.87"
+            ],
+            [
+              "PRB-02 English box",
+              "$157.03",
+              "$15.70",
+              "$1.57",
+              "single only",
+              "single only"
+            ],
+            [
+              "PRB-02 English case",
+              "$1,474.87",
+              "box count unstated",
+              "box count unstated",
+              "box count unstated",
+              "box count unstated"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "PRB-02 Japanese box: $63.60 ÷ 10 = $6.36 per pack; $63.60 ÷ 100 = $0.64 per card",
+          "PRB-02 Japanese case: $1,266.13 ÷ 20 = $63.31 per box; (20 x $63.60) - $1,266.13 = $5.87",
+          "PRB-02 English box: $157.03 ÷ 10 = $15.70 per pack; $157.03 ÷ 100 = $1.57 per card",
+          "PRB-02 English case: $1,474.87, box count unstated, so no per-box division is printed",
+          "English against Japanese, box: $157.03 - $63.60 = $93.43; $157.03 ÷ $63.60 = 2.47",
+          "Japanese list box: 10 x ¥550 = ¥5,500; ¥5,500 ÷ 159.7 = $34.44; $63.60 ÷ $34.44 = 1.85",
+          "English list box: 10 x $5.49 = $54.90; $157.03 ÷ $54.90 = 2.86",
+          "Japanese box fall since November 4, 2026: $74.82 - $63.60 = $11.22; $11.22 ÷ $74.82 = 15.0%",
+          "English box fall since November 4, 2026: $230.92 - $157.03 = $73.89; $73.89 ÷ $230.92 = 32.0%",
+          "Japanese case fall: $1,489.57 - $1,266.13 = $223.44; English case fall: $2,168.92 - $1,474.87 = $694.05",
+          "Sanji Manga Rare raw ask against the Japanese box: $848.81 ÷ $63.60 = 13.3 boxes; PSA 10: $1,471.51 ÷ $63.60 = 23.1 boxes",
+          "PRB-01 Japanese box against PRB-02: $127.19 - $63.60 = $63.59; $127.19 ÷ $63.60 = 2.00",
+          "Whole PRB-02 shelf: $63.60 + $1,266.13 + $157.03 + $1,474.87 = $2,961.63"
+        ],
+        "paragraphs": [
+          "Every division in this guide is printed below, so any buyer can check our arithmetic before spending. The Japanese list box is the anchor: ten packs at ¥550 is ¥5,500, and at 159.7 yen per dollar on November 15, 2026 that is $34.44. Our Japanese box at $63.60 costs 1.85 times that list box, which is the smallest list multiple of any Premium Booster on the shelf, against 3.69 for PRB-01 in Japanese. The English box at $157.03 costs 2.86 times its $54.90 derived list box. The two falls are also printed, because a price without its history is only half a price.",
+          "The totals close the section. All four PRB-02 products together cost $2,961.63. The Japanese case saving of $5.87 is the smallest case saving on our whole One Piece shelf, and it is identical in size to the PRB-01 Japanese case saving of $5.77, which is the shape of the Japanese case market on this shelf: the cases barely discount, and the box is the buy."
+        ]
+      },
+      {
+        "h": "What the top guides miss: the case that cannot be divided, and the wrong pack count",
+        "note": "From the Warehouse: the question we get most in chat about PRB-02 is how many packs are in a box, and the honest answer is that Bandai does not print it and the box as sold holds ten. A buyer who reads a guide that prints 30 packs per box has read a guide that never held one. We print the box as sold and the one figure Bandai does print, which is the Super Rare floor, and we leave the rest blank rather than fill it with a guess.",
+        "paragraphs": [
+          "The top guides for PRB-02 are chase-card rankings. They list the Sanji Manga Rare at the top, they rank the four Event Manga Rares and the six Special Rares, and they call PRB-02 a strong buy for collectors. What none of them does is price the whole four-product shelf from one live catalogue, divide the cases, and track the price over time. The fall is the gap that matters most: between November 4 and November 15, 2026, the English box fell by a third and the English case fell by $694.05, and a guide that only ranks chase cards cannot tell a buyer whether today is a good day to pay.",
+          "The second gap is the English case, which no chase guide mentions at all. It costs $1,474.87, and its listing states no box count, so no per-box figure exists for it, and any guide that divides it is inventing a number. The third gap is a plain error circulating online: one PRB-02 card-list guide prints that a full box contains 30 packs and costs $350 to $450. Both figures are wrong. The box as sold holds 10 packs, our Japanese box is $63.60, and no PRB-02 box on our shelf has ever cost $350. A guide that repeats the 30-pack figure has not held a box, and a buyer who budgets on it will budget three times too high.",
+          "The [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) runs the same four divisions on the first volume, where the Japanese box is exactly twice the price and carries no Super Rare floor, and the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) settles the two volumes head to head. The [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) runs the case division set by set across the whole Japanese shelf, and PRB-02 sits at the bottom of it, with the smallest saving of any case we carry."
+        ]
+      },
+      {
+        "h": "The risk layer: the floor is not a named card, and the price is falling",
+        "paragraphs": [
+          "The first risk is reading the Super Rare floor as more than it is. Bandai's official pages print that every pack contains at least one Super Rare card or better, and that guarantee is real, but it guarantees a Super Rare, not a particular Super Rare, and not the Sanji Manga Rare. The pool holds 34 Super Rare types, 8 Secret Rares, 6 Special Cards, and the Sanji Manga Rare, and a box holds 100 cards in 10 packs with the cards packed at random, so no box promises any one of them. The floor raises the worst pack, it does not raise the best one, and a buyer chasing the Sanji should buy the single, which was asking $848.81 raw on October 7, 2026.",
+          "The second risk is the price itself, which is falling. The English box lost 32.0 percent in eleven days and the English case lost $694.05, and a falling sealed price can keep falling. The Japanese box fell 15.0 percent in the same eleven days. Re-check the price at checkout, because every price in this guide is a November 15, 2026 shelf price, and the next eleven days can move them again.",
+          "The third risk is the fake box, and PRB-02 is a target for it because the Sanji Manga Rare is famous and the English box costs $157.03. Sealed English boxes are faked, and our guide on [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) shows what to check before you open a box above $150: the seal, the print quality, the card stock, and the set stamp. Buy sealed PRB-02 from a seller who will stand behind the seal, keep the order confirmation, and do not open a box you plan to resell sealed, because an opened box is worth the cards inside it and nothing else."
+        ]
+      },
+      {
+        "h": "Context: what PRB-02 is, and where it sits in One Piece",
+        "paragraphs": [
+          "PRB-02 is PREMIUM BOOSTER -ONE PIECE CARD THE BEST vol.2-, the second Premium Booster in the One Piece Card Game. It released in Japan on July 26, 2025 and in English on October 3, 2025, with a legal date of October 10, 2025. It is a reprint volume with new cards mixed in: it takes popular cards from across the game, reissues them with new parallel illustrations, adds 6 new Special Rare cards, and carries the first-ever Sanji Manga Rare, numbered OP06-119, plus four Event Manga Rares. The card pool is 179 card types plus 30 DON!! cards, split across 46 Commons, 29 Uncommons, 15 promos, 41 Rares, 34 Super Rares, 8 Secret Rares, 6 Special Cards, and 30 DON!! cards.",
+          "The Premium Booster line sits beside the numbered OP boosters and the EB Extra Boosters as the reprint-and-popular-cards line. A standard OP box holds 24 packs of 6 cards at ¥240 a pack, while a PRB box holds 10 packs of 10 cards at ¥550 a pack. PRB-01 arrived on July 27, 2024 in Japan and November 8, 2024 in English, with a smaller pool of 111 types plus 30 DON!! cards and no printed Super Rare floor. PRB-02 is the newer, larger, cheaper volume, and the floor is the reason it is the better buy for most people. The [Japanese One Piece booster box price index](/blog/one-piece-japanese-booster-box-price/) prices the rest of the Japanese shelf for buyers who want a standard box instead.",
+          "The Gold DON!! cards deserve a line of their own, because they are the one thing the PRB line does that no other product does. Thirty designs in each volume, gold bordered, foiled and embossed, themed around iconic characters and leaders, and PRB-02 completes the 30-character lineup that PRB-01 started. A buyer chasing the full set of thirty across both volumes is chasing a long project, not a box: one box holds 100 cards and no box promises any specific DON!! design."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for PRB-01 collectors. If you want the first volume's reprint art, its Sanji Leader, and its original Comic Parallel pool, PRB-02 does not hold them, and the [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) is the one to read. It is not for players who want cheap cards to play with either: a standard Japanese One Piece box costs about $2 to $3 a pack, and PRB-02 costs $6.36 a pack in Japanese, so a player buying PRB-02 for playables is paying a collector's premium.",
+          "And this guide is not for anyone seeking a guaranteed return. No sealed purchase guarantees a pull, a profit, or a resale price, and the 32.0 percent fall in the English box in eleven days is the proof that sealed prices move down as well as up. The Sanji Manga Rare is one card in a pool of 179 types, and the Super Rare floor is a floor, not a ceiling. Buy PRB-02 to open premium reprint packs with a guaranteed Super Rare in each one, treat any resale value as a bonus, and use the per-pack column as a buying tool, not an investment forecast."
+        ]
+      },
+      {
+        "checklist": [
+          "Buy the Japanese box at $63.60 unless you specifically collect the English print.",
+          "If you want twenty boxes, buy the Japanese case, but know it saves $5.87, so it is a quantity buy, not a discount.",
+          "Do not divide the English case: its listing states no box count, and $1,474.87 has no per-box figure.",
+          "If you want the Sanji Manga Rare, buy the single: the raw ask equals 13.3 Japanese boxes.",
+          "Check the price at checkout, because the English box fell 32.0 percent between November 4 and November 15, 2026.",
+          "Remember the floor: at least one Super Rare or better in every pack, but no named card guaranteed."
+        ],
+        "h": "Action layer: the PRB-02 buying checklist",
+        "paragraphs": [
+          "Work through the list in order and you will buy the right PRB-02 product the first time. The list is short on purpose: six checks, each one catching a mistake this guide has seen buyers make."
+        ]
+      }
+    ],
+    "slug": "is-prb-02-worth-buying",
+    "takeaway": [
+      "The Japanese box at $63.60 is the PRB-02 buy: $6.36 a pack, $0.64 a card, 1.85 times its ¥5,500 list box, and almost exactly half the PRB-01 Japanese box, with a Super Rare or better guaranteed in every pack.",
+      "Both boxes fell hard in eleven days: the Japanese box by $11.22 and the English box by $73.89 since November 4, 2026, and the English case fell $694.05 in the same span.",
+      "The Japanese case saves $5.87 across twenty boxes, which is nothing, and the English case cannot be divided at all, because its listing states no box count. The whole four-item PRB-02 shelf is $2,961.63, and every division is shown in the math section above.",
+      "No box buys a named card: the Sanji Manga Rare raw ask equals 13.3 Japanese boxes, the PSA 10 ask equals 23.1, and Bandai publishes no pull rates, so buy the single for any named card.",
+      "For the head-to-head verdict, the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) settles the two volumes, the [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) runs the same divisions on the first volume, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the whole Japanese shelf."
+    ]
+  },
   "is-sv10-worth-buying": {
     "datePublished": "2026-11-15",
     "faqs": [
@@ -38891,7 +39310,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "PRB-02 is the buy for most people: $74.82 Japanese and $230.92 English, with a Super Rare or better in every pack. PRB-01 is the collector's volume: $149.63 Japanese and $541.95 English, for the first volume's art and its Sanji Leader, with no printed rarity floor.",
       "Cases barely discount in Japanese: $0.67 per box on PRB-01 and $0.34 on PRB-02. Buy a case because you want that many boxes, not because the case saves money, and never trust a per-box figure for the English PRB-02 case until its box count is stated.",
-      "Still weighing sealed against singles? The [Japanese One Piece box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the mainline alternative, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a box lands."
+      "Still weighing sealed against singles? The [Japanese One Piece box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the mainline alternative, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a box lands.",
+      "For each volume priced on its own from the November 15, 2026 shelf, see the [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) and the [PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/)."
     ]
   },
   "preorder-japanese-booster-box-or-wait": {
