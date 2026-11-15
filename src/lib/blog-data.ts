@@ -11007,6 +11007,606 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, SNKRDUNK asks as of June 16 and September 29, 2026, and yen converted at ¥158 per dollar, November 9, 2026. The B27 case at $9,315.00 is a flagged catalog outlier and excluded from every comparison in this guide."
     ]
   },
+  "buy-pokemon-booster-box-australia-gst-included": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "No GST is charged at the Australian border on a single box, because every box on our shelf converts to well under the A$1,000 customs threshold. Whether GST is added at checkout depends on the seller's registration under the ATO's low-value goods rules: overseas sellers with A$75,000 or more of Australian turnover must collect 10% GST at checkout, smaller sellers may not charge it. Confirm the final total at checkout before you pay.",
+        "q": "Is GST included in the price of a Japanese Pokemon booster box shipped to Australia?"
+      },
+      {
+        "a": "On our shelf as of November 15, 2026, at 1.4767 Australian dollars per US dollar, the cheapest is M3 Munikis Zero at A$88.65, or A$2.96 a pack, and the range runs to M6a 30th Celebration at A$312.54, or A$15.63 a pack. Every standard Mega-era box is between A$88.65 and A$229.92, and every one clears the border with no extra charge.",
+        "q": "How much is a Japanese Pokemon booster box in Australian dollars?"
+      },
+      {
+        "a": "It depends on the case, because the A$1,000 line taxes cases but not boxes. The M1S case at A$970.46 stays under the line and saves A$25.78 a box, and the M2 case saves A$68.79 a box even after A$259.48 of border tax. The M3 case loses outright, costing A$37.99 more per box than singles after tax, and the M1L and M2a cases survive by less than A$10 a box. Divide every case before you buy it.",
+        "q": "Is it cheaper to buy a sealed case or single boxes in Australia?"
+      }
+    ],
+    "h1": "Buy a Pokemon Booster Box in Australia: Is GST Included?",
+    "intro": [
+      "Short answer: a single Japanese Pokemon booster box bought from Japan clears the Australian border with nothing extra to pay, because every box on our shelf converts to well under the A$1,000 customs threshold, and the only GST question is whether the seller collects 10% at checkout. The cheapest box is M3 Munikis Zero at $60.03, or A$88.65 at the November 15, 2026 rate of 1.4767 Australian dollars per US dollar, A$2.96 a pack against A$8.31 for an English 36-pack display at Australian RRP. The case is a different purchase: four of the five Mega-era cases we stock cross A$1,000 and attract duty plus GST at the border, and only two of them still save money once that tax is added.",
+      "This guide prices all nine Mega-era Japanese Pokemon booster boxes we stock, converts each one to Australian dollars at a stated rate, applies the Australian Taxation Office's A$1,000 line box by box and case by case, and compares the result with Australian shelves. Every price is a Warehouse price as of November 15, 2026, and every division is shown in the math section."
+    ],
+    "metaDescription": "Japanese Pokemon booster box in Australia: M3 at A$88.65, no border GST on a single box, and which cases survive the A$1,000 line. Nov 15, 2026.",
+    "metaTitle": "Buy Pokemon Booster Box Australia: GST Included?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the box, and buy the right case",
+        "paragraphs": [
+          "If you want one box to open, buy the [M3 Munikis Zero box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $60.03, or A$88.65. It holds 30 packs of 5 cards, and at A$88.65 it sits far below the A$1,000 line, so no duty, GST, or border charge can touch it. The next cheapest, M6 Storm Emeralda at A$103.93, is the same story for A$15.28 more, and the dearest single box in the current era, M6a 30th Celebration at A$312.54, is still less than a third of the threshold.",
+          "If you want a case, the threshold is the whole decision. The [M1S Mega Symphonia case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) at A$970.46 is the only Mega-era case that stays under A$1,000, so it clears the border like a box and saves A$25.78 on every box inside it. The [M2 Inferno X case](/product/m2-inferno-x-sealed-case-12-boxes-japanese-pokemon-card/) crosses the line but survives it: even after A$259.48 of border tax it still saves A$68.79 a box against singles. The M1L and M2a cases survive by less than A$10 a box, and the M3 case loses outright, costing A$37.99 more per box than buying singles once the border tax lands.",
+          "One line on the GST question itself. Our prices are in US dollars and are the product price on the shelf. Under the ATO's low-value goods rules, an overseas seller with A$75,000 or more of Australian turnover must collect 10% GST at checkout on goods of A$1,000 or less, while a smaller seller may not charge it, so whether GST appears on your order depends on the seller's registration, not on the box. What is certain is the border side: a single box is a non-taxable importation, so nothing is charged when it lands. Confirm the final total at checkout before you pay."
+        ],
+        "table": {
+          "head": [
+            "Your job",
+            "Buy this",
+            "Price in AUD",
+            "Why"
+          ],
+          "rows": [
+            [
+              "One box to open",
+              "M3 Munikis Zero box",
+              "A$88.65",
+              "A$2.96 a pack, nothing at the border"
+            ],
+            [
+              "Cheapest per-pack current set",
+              "M3, then M6 Storm Emeralda",
+              "A$88.65 / A$103.93",
+              "A$2.96 and A$3.46 a pack"
+            ],
+            [
+              "Best case under the threshold",
+              "M1S Mega Symphonia case",
+              "A$970.46",
+              "A$80.87 a box, no border tax"
+            ],
+            [
+              "Best case over the threshold",
+              "M2 Inferno X case",
+              "A$1,674.05 + A$259.48 tax",
+              "A$161.13 a box after tax, still saves A$68.79"
+            ],
+            [
+              "Newest set",
+              "M6a 30th Celebration box",
+              "A$312.54",
+              "A$15.63 a pack, anniversary premium"
+            ],
+            [
+              "One named card",
+              "The single",
+              "market price",
+              "no box count buys a named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: nine Mega-era boxes, priced in Australian dollars",
+        "paragraphs": [
+          "The table below is the whole current-era Japanese Pokemon shelf, priced from our live catalogue on November 15, 2026 and converted at 1.4767 Australian dollars per US dollar. Every box is a standard 30-pack box of 5-card packs, 150 cards, except M6a 30th Celebration, which holds 20 packs of 6 cards, 120 cards, and carries the anniversary premium that explains its price. Every box here clears clean at the border: goods of A$1,000 or less pay no duty, GST, or charges.",
+          "The spread is the story. The cheapest box, M3 at A$88.65, costs less than a third of the dearest standard box, M2 Inferno X at A$229.92, and the per-pack figures run from A$2.96 to A$7.66 across the standard sets before M6a jumps to A$15.63. M2 costs what it costs because its sealed supply is thin relative to demand, not because its cards are three times better than M3's, and M6a costs what it costs because it is a 30th-anniversary set with an all-holo box and a guaranteed Pikachu in every pack, which our [M6a 30th Celebration guide](/blog/m6a-30th-celebration-buyers-guide/) prices in full. Against the Japanese list price the multiple is modest: M3's official Japanese box price is ¥5,400, or $33.81 at 159.7 yen per dollar on November 15, 2026, so our $60.03 box costs 1.78 times list.",
+          "The comparison that matters for an Australian buyer is not against Japan but against the Australian shelf, and that is where the Japanese box wins by a distance. An English 36-pack display lists at about A$299 at Australian RRP, or A$8.31 a pack, and Gameology lists the current English Delta Reign box at A$359.95, or A$10.00 a pack, tax included. Our cheapest Japanese box is A$2.96 a pack, 2.81 times cheaper per pack than the RRP display, and even our dearest standard box, M2 at A$7.66 a pack, undercuts it. The trade-off is the language and the legality: Japanese cards are not legal for official tournament play outside Japan, which our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) sets out, so a player buying for sanctioned play should buy English, and a collector or casual opener should buy Japanese."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "USD",
+            "AUD",
+            "Per pack (AUD)",
+            "Border charge"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero",
+              "$60.03",
+              "A$88.65",
+              "A$2.96",
+              "None, under A$1,000"
+            ],
+            [
+              "M6 Storm Emeralda",
+              "$70.38",
+              "A$103.93",
+              "A$3.46",
+              "None, under A$1,000"
+            ],
+            [
+              "M1S Mega Symphonia",
+              "$72.22",
+              "A$106.65",
+              "A$3.56",
+              "None, under A$1,000"
+            ],
+            [
+              "M4 Ninja Spinner",
+              "$75.03",
+              "A$110.80",
+              "A$3.69",
+              "None, under A$1,000"
+            ],
+            [
+              "M5 Abyss Eye",
+              "$77.87",
+              "A$114.99",
+              "A$3.83",
+              "None, under A$1,000"
+            ],
+            [
+              "M1L Mega Brave",
+              "$80.67",
+              "A$119.13",
+              "A$3.97",
+              "None, under A$1,000"
+            ],
+            [
+              "M2a Mega Dream ex",
+              "$97.55",
+              "A$144.05",
+              "A$4.80",
+              "None, under A$1,000"
+            ],
+            [
+              "M2 Inferno X",
+              "$155.70",
+              "A$229.92",
+              "A$7.66",
+              "None, under A$1,000"
+            ],
+            [
+              "M6a 30th Celebration",
+              "$211.65",
+              "A$312.54",
+              "A$15.63",
+              "None, under A$1,000"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "M3 Munikis Zero: $60.03 x 1.4767 = A$88.65; A$88.65 ÷ 30 = A$2.96 per pack; $60.03 ÷ 30 = $2.00 per pack",
+          "M6 Storm Emeralda: $70.38 x 1.4767 = A$103.93; A$103.93 ÷ 30 = A$3.46 per pack",
+          "M1S Mega Symphonia: $72.22 x 1.4767 = A$106.65; A$106.65 ÷ 30 = A$3.56 per pack",
+          "M4 Ninja Spinner: $75.03 x 1.4767 = A$110.80; A$110.80 ÷ 30 = A$3.69 per pack",
+          "M5 Abyss Eye: $77.87 x 1.4767 = A$114.99; A$114.99 ÷ 30 = A$3.83 per pack",
+          "M1L Mega Brave: $80.67 x 1.4767 = A$119.13; A$119.13 ÷ 30 = A$3.97 per pack",
+          "M2a Mega Dream ex: $97.55 x 1.4767 = A$144.05; A$144.05 ÷ 30 = A$4.80 per pack",
+          "M2 Inferno X: $155.70 x 1.4767 = A$229.92; A$229.92 ÷ 30 = A$7.66 per pack",
+          "M6a 30th Celebration: $211.65 x 1.4767 = A$312.54; A$312.54 ÷ 20 = A$15.63 per pack; $211.65 ÷ 20 = $10.58 per pack",
+          "M3 against its Japanese list box: ¥5,400 ÷ 159.7 = $33.81; $60.03 ÷ $33.81 = 1.78",
+          "English display at RRP: A$299 ÷ 36 = A$8.31 per pack; A$8.31 ÷ A$2.96 = 2.81",
+          "Gameology Delta Reign: A$359.95 ÷ 36 = A$10.00 per pack",
+          "M1S case: $657.18 ÷ 12 = $54.77 per box; $72.22 - $54.77 = $17.45 saved per box; $657.18 x 1.4767 = A$970.46, under the A$1,000 line",
+          "M3 case: $891.00 ÷ 12 = $74.25 per box; $74.25 - $60.03 = $14.22 MORE per box; $891.00 x 1.4767 = A$1,315.74, over the line",
+          "M3 case border tax: duty A$1,315.74 x 5% = A$65.79; GST (A$1,315.74 + A$65.79) x 10% = A$138.15; total A$203.94, or A$16.99 per box",
+          "M3 case after tax: A$1,315.74 + A$203.94 = A$1,519.68 a case; A$1,519.68 ÷ 12 = A$126.64 per box; A$126.64 - A$88.65 = A$37.99 more than a single box",
+          "M1L case: $775.35 ÷ 12 = $64.61 per box; saves $16.06; A$1,144.96 over the line; duty A$57.25, GST A$120.22, total A$177.47; after-tax case A$1,322.43 ÷ 12 = A$110.20 per box against a A$119.13 single",
+          "M2 case: $1,133.64 ÷ 12 = $94.47 per box; saves $61.23; A$1,674.05 over the line; duty A$83.70, GST A$175.78, total A$259.48; after-tax case A$1,933.53 ÷ 12 = A$161.13 per box against a A$229.92 single",
+          "M2a case: $1,579.78 ÷ 20 = $78.99 per box; saves $18.56; A$2,332.86 over the line; duty A$116.64, GST A$244.95, total A$361.59; after-tax case A$2,694.45 ÷ 20 = A$134.72 per box against a A$144.05 single"
+        ],
+        "paragraphs": [
+          "Every division is printed above, so any buyer can check the arithmetic. Two notes: the border-tax lines use the goods value only, because the shipping quote is confirmed at checkout and is not on file, and the ATO's Value of Taxable Importation adds freight and insurance, so a real consignment's GST is slightly higher. The duty line uses the commonly applied general rate of 5% for toys and games, and the GST line is the ATO's flat 10%. The rate is the November 15, 2026 mid-market rate of 1.4767 Australian dollars per US dollar; your card will convert at its own rate, usually a little worse."
+        ]
+      },
+      {
+        "h": "What the top guides miss: the A$1,000 line and the checkout question",
+        "note": "From the Warehouse: the A$1,000 line is the first thing we check on any Australian order over four figures. A single box never reaches it, and a case usually crosses it, and that one fact decides more Australian purchases than any price ranking. The price on the screen is the product price in US dollars; the border adds nothing to a box, and the checkout total is the last number to confirm before paying.",
+        "paragraphs": [
+          "The top results for this search split into two camps, and neither answers the question. The ATO pages state the rules correctly, GST at 10%, the A$1,000 threshold, the low-value goods collection regime, but they carry no prices, so a buyer leaves knowing the law and nothing about what a box costs. The retailer listings carry prices, Gameology's A$359.95 Delta Reign box and the RRP trackers' A$299 display, but they are English boxes on Australian shelves, and none prices a Japanese box in Australian dollars at all.",
+          "What none of them does is the thing this page exists for: take a live Japanese shelf, convert it to Australian dollars at a stated rate, and run the A$1,000 line across every box and every case. That is the gap that decides real purchases, because the threshold does not fall evenly. One case, M1S, sits A$29.54 under the line and clears clean, while the next cheapest case, M1L, sits A$144.96 over it and pays A$177.47 at the border, and no price ranking that ignores the line can tell you that. The second gap is the checkout question: whether GST is already in the price depends on the seller's registration, and a buyer who assumes it is included, or assumes it is not, is guessing. Ask at checkout, and read the final total before paying.",
+          "The [Australia country hub](/blog/buying-japanese-tcg-cards-in-australia/) covers the wider question of buying Japanese cards from Australia, including where collectors buy locally and how shipping works, and the [Australia booster box price index](/blog/japanese-pokemon-booster-box-australia-price/) prices the Japanese box shelf in Australian dollars without the tax layer. This guide is the tax layer on top of both."
+        ]
+      },
+      {
+        "h": "The case decision: which cases survive the border",
+        "paragraphs": [
+          "A sealed case holds 12 boxes, 360 packs, except M2a, whose case holds 20 boxes, 600 packs. The case question in Australia is not whether the case discounts, because four of the five do, but whether the discount survives the border. The table below gives the verdict for each case.",
+          "M1S is the clean case buy. At A$970.46 it is the only case under the line, it saves A$25.78 a box against singles, and nothing is charged at the border, so the saving on the screen is the saving you keep. M2 is the expensive case that still wins: its pre-tax saving of A$61.23 a box is so large that A$21.62 a box of border tax leaves A$68.79 a box still saved, the biggest post-tax saving on the shelf. M1L and M2a are the marginal ones: M1L saves A$16.06 a box before tax and A$8.92 after it, and M2a saves A$18.56 before tax and A$9.33 after it, so both still beat singles, but only just, and only if you actually want twelve or twenty boxes of one set. M3 is the case to refuse: it already costs A$14.22 more per box than singles before any tax, and the border adds A$16.99 a box on top, leaving a buyer A$37.99 a box worse off than buying twelve single boxes.",
+          "A case's discount has to clear two hurdles in Australia, not one: it has to beat the single-box price, and then it has to survive the border tax, and a case that clears the first hurdle by less than A$15 a box will not clear the second. The full case-versus-box method is laid out in our [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/)."
+        ],
+        "table": {
+          "head": [
+            "Case",
+            "AUD total",
+            "Over the line?",
+            "Border tax",
+            "Per box after tax",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "M1S Mega Symphonia case (12)",
+              "A$970.46",
+              "No",
+              "A$0",
+              "A$80.87",
+              "Buy it, saves A$25.78 a box"
+            ],
+            [
+              "M3 Munikis Zero case (12)",
+              "A$1,315.74",
+              "Yes",
+              "A$203.94",
+              "A$126.64",
+              "Refuse it, costs A$37.99 more a box"
+            ],
+            [
+              "M1L Mega Brave case (12)",
+              "A$1,144.96",
+              "Yes",
+              "A$177.47",
+              "A$110.20",
+              "Marginal, saves A$8.92 a box"
+            ],
+            [
+              "M2 Inferno X case (12)",
+              "A$1,674.05",
+              "Yes",
+              "A$259.48",
+              "A$161.13",
+              "Buy it, saves A$68.79 a box"
+            ],
+            [
+              "M2a Mega Dream ex case (20)",
+              "A$2,332.86",
+              "Yes",
+              "A$361.59",
+              "A$134.72",
+              "Marginal, saves A$9.33 a box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The risk layer: fakes, reseals, and the double-GST trap",
+        "paragraphs": [
+          "The first risk is the resealed box, and it is the risk that costs the most, because a resealed box looks sealed until it is opened. Japanese boxes carry a shrink seal and a pull tab, and a box whose seal is loose, re-glued, or missing the tab should not be bought sealed at a sealed price. Our guide on [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what to check before you open a box above A$100, and the rule is simple: buy sealed only from a seller who will stand behind the seal, and do not open a box you plan to resell sealed, because an opened box is worth the cards inside it and nothing else.",
+          "The second risk is the double-GST trap, specific to orders over A$1,000. The ATO warns overseas suppliers to put their GST registration details on import documents, because a consignment that had GST collected at checkout and is then charged GST again at the border has paid twice. If you buy a case over the line, keep the invoice showing any GST collected at checkout, and check the border charge against it before paying the second one. A case is also the order most likely to be held for inspection, so expect a slower delivery than for a single box.",
+          "The third risk is the price itself, which moves. Every price in this guide is a November 15, 2026 shelf price, and the exchange rate moves with it: a ten-cent move in the Australian dollar changes every figure here by about 7%. Re-check the price and the rate at checkout. No sealed purchase guarantees a pull, a profit, or a resale price. The [investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) works through sealed product as an asset without the hype, and [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping a case in resalable condition once it arrives."
+        ]
+      },
+      {
+        "h": "Context: Japanese boxes against Australian shelves",
+        "paragraphs": [
+          "An Australian buyer has three ways to get a Japanese Pokemon box: a Japan-direct store like this one, a local seller on eBay Australia or a game store webstore, or a US marketplace routed through a forwarding warehouse. eBay Australia is the deepest local market for sealed Japanese product, but Japanese boxes on Australian shelves are imports too, so they carry the same border costs plus the local seller's margin, and usually list above our converted prices. TCGplayer, the largest US marketplace, does not ship directly to Australia, so a buyer routing through it pays a forwarding warehouse on top of the US price, a friction a Japan-direct order does not have.",
+          "The English comparison is worth one more line, because it is the decision most buyers actually face. An English box is legal for official play in Australia and a Japanese box is not, and an English box costs A$8.31 a pack at RRP against A$2.96 for our cheapest Japanese box, so the choice is between paying nearly three times as much per pack for tournament legality, or paying the Japanese price for cards you open, collect, and play casually. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the whole Japanese shelf for buyers who have already chosen Japanese, and the [Australia price index](/blog/japanese-pokemon-booster-box-australia-price/) is the same shelf without the tax layer."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for players who need cards for official tournament play in Australia. Japanese cards are not legal in sanctioned events outside Japan, so a player buying for competition should buy the English print, at the English price, and the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) is the one to read. It is not for buyers who want a case without a plan for twelve boxes either: 360 packs of one set is a group split or a holding position, not a personal opening.",
+          "And this guide is not for anyone seeking a guaranteed return. No sealed purchase guarantees a pull, a profit, or a resale price, and the exchange rate alone can move every figure here by 7% on a ten-cent swing. Buy a Japanese box to open Japanese packs at the cheapest per-pack price in Australia, and treat any resale value as a bonus. If you want a graded card instead, our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the grading maths for Japanese cards."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick your box from the table: M3 at A$88.65 for the cheapest rip, M1S at A$106.65 if you want the twin-set art.",
+          "Convert at the day's rate, not this guide's: every figure here uses 1.4767 AUD per USD on November 15, 2026.",
+          "Check the checkout total for GST before you pay: a single box pays nothing at the border, but GST may be collected at checkout.",
+          "If you want a case, buy M1S under the line, or M2 over it: refuse the M3 case, which costs A$37.99 more a box after tax.",
+          "Keep the invoice on any order over A$1,000, so a border GST charge can be checked against GST already collected at checkout.",
+          "Check the seal and the pull tab before you open a box you paid a sealed price for."
+        ],
+        "h": "Action layer: the Australia buying checklist",
+        "paragraphs": [
+          "Work through the list in order and you will buy the right box the first time."
+        ]
+      }
+    ],
+    "slug": "buy-pokemon-booster-box-australia-gst-included",
+    "takeaway": [
+      "A single Japanese Pokemon box clears the Australian border with nothing extra to pay: every box on our shelf is well under the A$1,000 threshold, and GST can only appear at checkout, depending on the seller's registration.",
+      "The cheapest box is M3 Munikis Zero at A$88.65, or A$2.96 a pack at the November 15, 2026 rate of 1.4767 AUD per USD, which is 2.81 times cheaper per pack than an English 36-pack display at Australian RRP.",
+      "The M1S case at A$970.46 is the only case under the line and the clean case buy, saving A$25.78 a box; the M2 case saves A$68.79 a box even after A$259.48 of border tax.",
+      "The M3 case is the one to refuse: it already costs more per box than singles, and the border tax leaves a buyer A$37.99 a box worse off, while the M1L and M2a cases survive by less than A$10 a box.",
+      "For the wider Australia picture, the [Australia country hub](/blog/buying-japanese-tcg-cards-in-australia/) covers local buying and shipping, and the [Australia price index](/blog/japanese-pokemon-booster-box-australia-price/) prices the same shelf without the tax layer."
+    ]
+  },
+  "buy-pokemon-booster-box-malaysia-rm-price": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "On our shelf as of November 15, 2026, at 4.0863 ringgit per US dollar, the cheapest is M3 Munikis Zero at RM245.30 before tax and RM269.83 landed, or RM8.99 a pack. The range runs to M6a 30th Celebration at RM864.87 before tax and RM1,151.14 landed, or RM57.56 a pack. Seven of the nine current boxes land with just the 10% low-value goods tax.",
+        "q": "How much is a Japanese Pokemon booster box in Malaysian ringgit?"
+      },
+      {
+        "a": "A box priced at RM500 or less pays a flat 10% low-value goods sales tax, collected at checkout by a registered seller. A box over RM500 goes through formal customs, where playing cards carry 10% import duty, 10% excise duty, and 10% sales tax, compounding to 33.1% of the value, plus a courier handling fee of about RM100. Malaysia abolished GST in 2018, so neither charge is GST.",
+        "q": "What tax do you pay on a Pokemon booster box imported to Malaysia?"
+      },
+      {
+        "a": "Usually the case, because twelve singles each pay 10% low-value goods tax while the case pays 33.1% once on a discounted price. The M2 case saves RM333.03 a box after tax, the M1S case saves RM26.76, and the M1L and M2a cases survive by RM11.18 and RM8.87. The M3 case is the exception: it already costs more per box than singles, and after tax it loses RM134.01 a box. Divide every case before you buy it.",
+        "q": "Is it cheaper to buy a sealed case or single boxes in Malaysia?"
+      }
+    ],
+    "h1": "Buy a Pokemon Booster Box in Malaysia: The Price in RM",
+    "intro": [
+      "Short answer: the cheapest Japanese Pokemon booster box on our shelf, M3 Munikis Zero, costs RM245.30 before tax and RM269.83 landed in Malaysia, or RM8.99 a pack, at the November 15, 2026 rate of 4.0863 ringgit per US dollar. The tax is the whole story here: a box priced at RM500 or less pays a flat 10% low-value goods tax, while a box over RM500 goes through formal customs, where playing cards carry 10% import duty, 10% excise duty, and 10% sales tax, compounding to 33.1% of the value. Seven of our nine current boxes sit under the line and land with just the 10%; the other two, M2 Inferno X and M6a 30th Celebration, cross it, and their landed prices jump to RM846.84 and RM1,151.14.",
+      "This guide prices all nine Mega-era Japanese Pokemon booster boxes we stock in ringgit, applies the RM500 line to each one, and runs the same test on the five sealed cases, because the case result is the surprise: four of the five cases still beat buying singles after the tax stack, and only the M3 case loses. Every price is a Warehouse price as of November 15, 2026, and every division is shown in the math section."
+    ],
+    "metaDescription": "Japanese Pokemon booster box in Malaysia: M3 at RM245.30, 10% LVG tax under RM500, and the 33.1% stack on dearer boxes and cases. Prices Nov 15, 2026.",
+    "metaTitle": "Buy Pokemon Booster Box Malaysia: RM Price Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: the RM500 line decides everything",
+        "paragraphs": [
+          "If you want one box to open, buy the [M3 Munikis Zero box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $60.03, or RM245.30 before tax. It is the cheapest Japanese Pokemon box on our shelf, it holds 30 packs of 5 cards, and at RM245.30 it sits comfortably under the RM500 line, so the tax is a flat 10%, RM24.53, and the landed price is RM269.83, or RM8.99 a pack. The next cheapest, M6 Storm Emeralda at RM316.35 landed, is the same story for RM46.52 more, and every current box up to M2a Mega Dream ex at RM438.48 landed stays on the clean side of the line.",
+          "If you want the newest or the scarcest set, the line bites. The [M2 Inferno X box](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at RM636.24 crosses RM500, so instead of 10% it pays the 33.1% stack, RM210.60, and lands at RM846.84 before courier fees, or RM28.23 a pack. The [M6a 30th Celebration box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) at RM864.87 pays RM286.27 in tax and lands at RM1,151.14, or RM57.56 a pack. Both are still the cheapest way to get those sets, because no local seller stocks them cheaper, but neither price is the number on the screen, and a buyer who budgets on the screen price will be short by a third.",
+          "One warning on language before the numbers, because it catches buyers out: Malaysia abolished GST in 2018, so this tax is not GST. The 10% on a box under RM500 is the low-value goods sales tax, charged at checkout by a registered seller, and the 33.1% above the line is import duty plus excise duty plus sales tax at the border. Calling either of them GST will confuse a courier, a customs officer, and your own receipt. The table below turns the answer into a buy list."
+        ],
+        "table": {
+          "head": [
+            "Your job",
+            "Buy this",
+            "Landed price (RM)",
+            "Why"
+          ],
+          "rows": [
+            [
+              "One box to open",
+              "M3 Munikis Zero box",
+              "RM269.83",
+              "RM8.99 a pack, 10% LVG only"
+            ],
+            [
+              "Cheapest per-pack current set",
+              "M3, then M6 Storm Emeralda",
+              "RM269.83 / RM316.35",
+              "RM8.99 and RM10.55 a pack"
+            ],
+            [
+              "Best sealed case",
+              "M2 Inferno X case",
+              "RM6,165.71",
+              "Saves RM333.03 a box after tax"
+            ],
+            [
+              "Best case under the line test",
+              "M1S Mega Symphonia case",
+              "RM3,574.31",
+              "Saves RM26.76 a box after tax"
+            ],
+            [
+              "Newest set",
+              "M6a 30th Celebration box",
+              "RM1,151.14",
+              "RM57.56 a pack, anniversary premium"
+            ],
+            [
+              "One named card",
+              "The single",
+              "market price",
+              "no box count buys a named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: nine Mega-era boxes, priced in ringgit",
+        "paragraphs": [
+          "The table below is the whole current-era Japanese Pokemon shelf, priced from our live catalogue on November 15, 2026 and converted at 4.0863 ringgit per US dollar. Every box is a standard 30-pack box of 5-card packs, 150 cards, except M6a 30th Celebration, which holds 20 packs of 6 cards, 120 cards, and carries the anniversary premium that explains its price. The tax column applies the Ministry of Finance rule from January 1, 2024: goods of RM500 or less sold online pay a flat 10% sales tax on the goods price only, while goods above RM500 go through formal customs, where the Customs Department puts playing cards at 10% duty, 10% excise, and 10% sales tax, compounding to 33.1%.",
+          "The cheapest box, M3 at RM269.83 landed, costs less than a third of the dearest standard box, M2 at RM846.84 landed, and the landed per-pack figures run from RM8.99 to RM28.23 across the standard sets before M6a jumps to RM57.56. M2 costs what it costs because its sealed supply is thin relative to demand, not because its cards are three times better than M3's, and M6a costs what it costs because it is a 30th-anniversary set with an all-holo box and a guaranteed Pikachu in every pack, which our [M6a 30th Celebration guide](/blog/m6a-30th-celebration-buyers-guide/) prices in full. Against the Japanese list price the multiple is modest: M3's official box price is ¥5,400, or RM138.16, so our RM245.30 box costs 1.78 times list.",
+          "The comparison that matters is against the local shelf, and the Japanese box wins there too, with one condition. A Pokemon Elite Trainer Box lists at RM249.90 locally against RM203.96 for the converted US MSRP, and a TCGplayer Delta Reign booster box at US$196.56 converts to RM803.20 before any forwarding or tax, already more than our dearest standard Japanese box before tax. Our cheapest Japanese box lands at RM269.83, or RM8.99 a pack. The condition is the language and the legality: Japanese cards are not legal for official tournament play outside Japan, which our [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) sets out, so a player buying for sanctioned play should buy English, and a collector or casual opener should buy Japanese."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "USD",
+            "RM",
+            "Tax",
+            "Landed (RM)",
+            "Per pack landed"
+          ],
+          "rows": [
+            [
+              "M3 Munikis Zero",
+              "$60.03",
+              "RM245.30",
+              "10% LVG",
+              "RM269.83",
+              "RM8.99"
+            ],
+            [
+              "M6 Storm Emeralda",
+              "$70.38",
+              "RM287.59",
+              "10% LVG",
+              "RM316.35",
+              "RM10.55"
+            ],
+            [
+              "M1S Mega Symphonia",
+              "$72.22",
+              "RM295.11",
+              "10% LVG",
+              "RM324.62",
+              "RM10.82"
+            ],
+            [
+              "M4 Ninja Spinner",
+              "$75.03",
+              "RM306.60",
+              "10% LVG",
+              "RM337.26",
+              "RM11.24"
+            ],
+            [
+              "M5 Abyss Eye",
+              "$77.87",
+              "RM318.20",
+              "10% LVG",
+              "RM350.02",
+              "RM11.67"
+            ],
+            [
+              "M1L Mega Brave",
+              "$80.67",
+              "RM329.64",
+              "10% LVG",
+              "RM362.60",
+              "RM12.09"
+            ],
+            [
+              "M2a Mega Dream ex",
+              "$97.55",
+              "RM398.62",
+              "10% LVG",
+              "RM438.48",
+              "RM14.62"
+            ],
+            [
+              "M2 Inferno X",
+              "$155.70",
+              "RM636.24",
+              "33.1% stack",
+              "RM846.84",
+              "RM28.23"
+            ],
+            [
+              "M6a 30th Celebration",
+              "$211.65",
+              "RM864.87",
+              "33.1% stack",
+              "RM1,151.14",
+              "RM57.56"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "M3 Munikis Zero: $60.03 x 4.0863 = RM245.30; RM245.30 x 10% = RM24.53 LVG; RM245.30 + RM24.53 = RM269.83 landed; RM269.83 ÷ 30 = RM8.99 per pack",
+          "M6 Storm Emeralda: $70.38 x 4.0863 = RM287.59; RM287.59 x 10% = RM28.76; landed RM316.35; RM316.35 ÷ 30 = RM10.55 per pack",
+          "M1S Mega Symphonia: $72.22 x 4.0863 = RM295.11; RM295.11 x 10% = RM29.51; landed RM324.62; RM324.62 ÷ 30 = RM10.82 per pack",
+          "M4 Ninja Spinner: $75.03 x 4.0863 = RM306.60; RM306.60 x 10% = RM30.66; landed RM337.26; RM337.26 ÷ 30 = RM11.24 per pack",
+          "M5 Abyss Eye: $77.87 x 4.0863 = RM318.20; RM318.20 x 10% = RM31.82; landed RM350.02; RM350.02 ÷ 30 = RM11.67 per pack",
+          "M1L Mega Brave: $80.67 x 4.0863 = RM329.64; RM329.64 x 10% = RM32.96; landed RM362.60; RM362.60 ÷ 30 = RM12.09 per pack",
+          "M2a Mega Dream ex: $97.55 x 4.0863 = RM398.62; RM398.62 x 10% = RM39.86; landed RM438.48; RM438.48 ÷ 30 = RM14.62 per pack",
+          "M2 Inferno X: $155.70 x 4.0863 = RM636.24; RM636.24 x 33.1% = RM210.60; RM636.24 + RM210.60 = RM846.84 landed; RM846.84 ÷ 30 = RM28.23 per pack",
+          "M6a 30th Celebration: $211.65 x 4.0863 = RM864.87; RM864.87 x 33.1% = RM286.27; RM864.87 + RM286.27 = RM1,151.14 landed; RM1,151.14 ÷ 20 = RM57.56 per pack",
+          "M3 against its Japanese list box: ¥5,400 ÷ 159.7 = $33.81; $33.81 x 4.0863 = RM138.16; RM245.30 ÷ RM138.16 = 1.78",
+          "TCGplayer Delta Reign box: $196.56 x 4.0863 = RM803.20, before forwarding or tax",
+          "M1S case: $657.18 x 4.0863 = RM2,685.43; tax RM2,685.43 x 33.1% = RM888.88; landed RM3,574.31; 12 singles landed 12 x RM324.62 = RM3,895.44; saves RM321.13, or RM26.76 per box",
+          "M3 case: $891.00 x 4.0863 = RM3,640.89; tax RM1,205.13; landed RM4,846.02; 12 singles landed 12 x RM269.83 = RM3,237.96; loses RM1,608.06, or RM134.01 per box",
+          "M1L case: $775.35 x 4.0863 = RM3,168.31; tax RM1,048.71; landed RM4,217.02; 12 singles landed 12 x RM362.60 = RM4,351.20; saves RM134.18, or RM11.18 per box",
+          "M2 case: $1,133.64 x 4.0863 = RM4,632.39; tax RM1,533.32; landed RM6,165.71; 12 singles landed 12 x RM846.84 = RM10,162.08; saves RM3,996.37, or RM333.03 per box",
+          "M2a case: $1,579.78 x 4.0863 = RM6,455.46; tax RM2,136.76; landed RM8,592.22; 20 singles landed 20 x RM438.48 = RM8,769.60; saves RM177.38, or RM8.87 per box"
+        ],
+        "paragraphs": [
+          "Every division is printed above, so any buyer can check the arithmetic. Two notes: the landed prices exclude courier fees, because the shipping quote is confirmed at checkout and is not on file, and a parcel over RM500 also attracts a courier handling fee, about RM50 plus a RM50 declaration fee at DHL and about RM60 at FedEx, so a real M2 box costs about RM947 all in, not RM846.84. The 33.1% figure is the compounded rate for playing cards as stated by the Customs Department's director-general and reported in December 2025: 10% duty, then 10% excise on the value plus duty, then 10% sales tax on the value plus both, which compounds to 33.1%, not 30%. The rate is the November 15, 2026 mid-market rate of 4.0863 ringgit per US dollar; your card will convert at its own rate, usually a little worse."
+        ]
+      },
+      {
+        "h": "What the top guides miss: the case tax nobody divides",
+        "note": "From the Warehouse: the RM500 line is the first thing we check on any Malaysian order, and it is the question Malaysian buyers actually ask, because a box that looks cheap on the screen can land a third dearer. The price on the screen is the product price in US dollars; the tax is decided by the line, and the checkout total is the last number to confirm before paying.",
+        "paragraphs": [
+          "The top results for this search split into two camps, and neither answers the question. The import-tax guides state the rules well, the RM500 line, the 10% low-value goods tax, the 33.1% stack, but they carry no live box prices, so a buyer leaves knowing the law and nothing about what a box costs. The marketplace listings carry prices in ringgit, Shopee and Lazada and Carousell, but they are local resellers' prices for English product or singles, and none prices a Japanese box from Japan in ringgit with the tax applied.",
+          "What none of them does is the thing this page exists for: take a live Japanese shelf, convert it to ringgit at a stated rate, and run the RM500 line across every box and every case, comparing landed against landed. That last phrase matters, because the case comparison is where most guides go wrong. A case pays the 33.1% stack, which looks fatal, but twelve single boxes each pay 10% low-value goods tax, so the case only has to beat twelve singles plus their tax, not twelve singles at the screen price. The [Malaysia country hub](/blog/buying-japanese-tcg-cards-in-malaysia/) covers the wider question of buying Japanese cards from Malaysia, and the [Malaysia booster box price index](/blog/japanese-pokemon-booster-box-malaysia-price/) prices the Japanese box shelf in ringgit without the tax layer."
+        ]
+      },
+      {
+        "h": "The case decision: four cases survive the stack, one does not",
+        "paragraphs": [
+          "A sealed case holds 12 boxes, 360 packs, except M2a, whose case holds 20 boxes, 600 packs. Every case on our shelf costs more than RM500, so every case goes through formal customs and pays the 33.1% stack, and the question is whether the case discount is big enough to absorb it. The table below gives the verdict for each case, landed against landed, and the paragraphs after it work the two that need explaining.",
+          "M2 is the case to buy. Twelve single M2 boxes land at RM10,162.08, because each single box crosses RM500 on its own and pays the stack, while the case lands at RM6,165.71, saving RM3,996.37 in total, or RM333.03 a box. The case is not just cheaper than singles here, it is the escape from the stack: one discounted case price taxed once beats twelve full single prices taxed twelve times. M1S is the quiet winner, saving RM321.13 in total, or RM26.76 a box. M1L and M2a are the marginal ones: M1L saves RM134.18 in total, or RM11.18 a box, and M2a saves RM177.38, or RM8.87 a box, so both still beat singles, but only just, and only if you actually want twelve or twenty boxes of one set.",
+          "M3 is the case to refuse, and it is the only one. It already costs more per box than singles before any tax, RM74.25 a box against a RM60.03 single, and the stack adds RM1,205.13 on top, leaving a buyer RM1,608.06 worse off than buying twelve single boxes, or RM134.01 a box. The general rule to carry away is that a Malaysian case has to clear two hurdles, not one: it has to beat the single-box price, and then its discount has to survive a tax rate three times higher than the one singles pay. The full case-versus-box method is laid out in our [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/)."
+        ],
+        "table": {
+          "head": [
+            "Case",
+            "Landed (RM)",
+            "12 or 20 singles landed",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "M1S Mega Symphonia case (12)",
+              "RM3,574.31",
+              "RM3,895.44",
+              "Buy it, saves RM26.76 a box"
+            ],
+            [
+              "M3 Munikis Zero case (12)",
+              "RM4,846.02",
+              "RM3,237.96",
+              "Refuse it, costs RM134.01 more a box"
+            ],
+            [
+              "M1L Mega Brave case (12)",
+              "RM4,217.02",
+              "RM4,351.20",
+              "Marginal, saves RM11.18 a box"
+            ],
+            [
+              "M2 Inferno X case (12)",
+              "RM6,165.71",
+              "RM10,162.08",
+              "Buy it, saves RM333.03 a box"
+            ],
+            [
+              "M2a Mega Dream ex case (20)",
+              "RM8,592.22",
+              "RM8,769.60",
+              "Marginal, saves RM8.87 a box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The risk layer: the courier fee, the fake box, and the falling price",
+        "paragraphs": [
+          "The first risk is the courier fee, which buyers forget. A parcel over RM500 is cleared by the courier: DHL charges a minimum of RM50 plus a RM50 declaration fee, FedEx a minimum of RM60, so a single M2 box that lands at RM846.84 on tax alone costs about RM947 once the courier is paid. The fee is small next to a case and large next to a single box, which is one more reason the cheapest single boxes are the cleanest buys in Malaysia: under RM500 there is no courier clearance fee at all, because the low-value goods tax is collected at checkout, not at the border.",
+          "The second risk is the resealed box, and it is the risk that costs the most, because a resealed box looks sealed until it is opened. Japanese boxes carry a shrink seal and a pull tab, and a box whose seal is loose, re-glued, or missing the tab should not be bought sealed at a sealed price. Our guide on [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows what to check before you open a box above RM400, and the rule is simple: buy sealed only from a seller who will stand behind the seal, and do not open a box you plan to resell sealed, because an opened box is worth the cards inside it and nothing else.",
+          "The third risk is the price itself, which moves. Every price in this guide is a November 15, 2026 shelf price, and the exchange rate moves with it: a ten-sen move in the ringgit changes every figure here by about 2.5%. Re-check the price and the rate at checkout. No sealed purchase guarantees a pull, a profit, or a resale price. The [investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) works through sealed product as an asset without the hype, and [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping a case in resalable condition once it arrives."
+        ]
+      },
+      {
+        "h": "Context: Japanese boxes against Malaysian shelves",
+        "paragraphs": [
+          "A Malaysian buyer has three ways to get a Japanese Pokemon box: a Japan-direct store like this one, a local seller on Shopee Malaysia, Lazada Malaysia, or Carousell Malaysia, or a US marketplace routed through a forwarding warehouse. Shopee and Lazada are the main sealed-product marketplaces, Carousell and Facebook groups are the primary secondary market for singles, and TikTok Live and Shopee Live rip-and-ship streams, where buyers purchase packs opened live on stream, are a defining Malaysian buying behaviour.",
+          "The English comparison is worth one more line. An English box is legal for official play in Malaysia and a Japanese box is not, and an English box costs far more per pack than our cheapest Japanese box at RM8.99 a pack landed, so the choice is between paying the local premium for tournament legality, or paying the Japanese price for cards you open, collect, and play casually. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the whole Japanese shelf for buyers who have already chosen Japanese, and the [Malaysia price index](/blog/japanese-pokemon-booster-box-malaysia-price/) is the same shelf without the tax layer."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for players who need cards for official tournament play in Malaysia. Japanese cards are not legal in sanctioned events outside Japan, so a player buying for competition should buy the English print, at the English price, and the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) is the one to read. It is not for buyers who want a case without a plan for twelve boxes either: 360 packs of one set is a group split or a holding position, not a personal opening.",
+          "And this guide is not for anyone seeking a guaranteed return. No sealed purchase guarantees a pull, a profit, or a resale price, and the exchange rate alone can move every figure here by 2.5% on a ten-sen swing. Buy a Japanese box to open Japanese packs at the cheapest per-pack price in Malaysia, and treat any resale value as a bonus."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick your box from the table: M3 at RM269.83 landed for the cheapest rip, M1S at RM324.62 if you want the twin-set art.",
+          "Check which side of RM500 your box falls on: under it, 10% low-value goods tax; over it, the 33.1% stack plus a courier fee.",
+          "Convert at the day's rate, not this guide's: every figure here uses 4.0863 ringgit per US dollar on November 15, 2026.",
+          "If you want a case, buy M2 for the RM333.03 a box saving, or M1S: refuse the M3 case, which costs RM134.01 more a box after tax.",
+          "Never call the tax GST: Malaysia abolished GST in 2018, and the charges here are low-value goods sales tax and customs duty.",
+          "Check the seal and the pull tab before you open a box you paid a sealed price for."
+        ],
+        "h": "Action layer: the Malaysia buying checklist",
+        "paragraphs": [
+          "Work through the list in order and you will buy the right box the first time, with no surprise at customs or at checkout."
+        ]
+      }
+    ],
+    "slug": "buy-pokemon-booster-box-malaysia-rm-price",
+    "takeaway": [
+      "The cheapest Japanese Pokemon box in Malaysia is M3 Munikis Zero at RM269.83 landed, or RM8.99 a pack, at the November 15, 2026 rate of 4.0863 ringgit per US dollar, with just the 10% low-value goods tax.",
+      "The RM500 line is the whole tax story: seven of the nine current boxes sit under it and land with 10% tax, while M2 Inferno X and M6a 30th Celebration cross it and pay the 33.1% stack, landing at RM846.84 and RM1,151.14 before courier fees.",
+      "Four of the five sealed cases still beat singles after the stack, because twelve singles each pay 10% while the case pays 33.1% once on a discounted price: the M2 case saves RM333.03 a box, the M1S case RM26.76.",
+      "The M3 case is the one to refuse: it already costs more per box than singles, and after tax it loses RM134.01 a box, while the M1L and M2a cases survive by RM11.18 and RM8.87 a box.",
+      "For the wider Malaysia picture, the [Malaysia country hub](/blog/buying-japanese-tcg-cards-in-malaysia/) covers local buying and shipping, and the [Malaysia price index](/blog/japanese-pokemon-booster-box-malaysia-price/) prices the same shelf without the tax layer."
+    ]
+  },
   "buying-japanese-tcg-cards-in-australia": {
     "datePublished": "2026-11-06",
     "faqs": [
@@ -11284,7 +11884,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "One Japanese booster box shipped to Australia clears with nothing to pay at the border, because the line is A$1,000 in customs value and even the dearest current box, M6a at A$361.05, sits far under it. The GST is not gone, it is collected at checkout by a registered seller, and a sealed case crosses the line and pays 10% GST plus duty at the border. The cheapest pack on the shelf is M3 at A$3.75 with GST, against a local market where every box already carries import cost and margin.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, converted at A$1.45 to the dollar, with GST calculated on goods value only because the shipping quote is confirmed at checkout. When the next MEGA-era set opens for pre-order, run the checklist first and divide the box before you pay.",
-      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides every box. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs. The Singapore hub runs the same numbers for a different tax line: [buying Japanese TCG cards in Singapore](/blog/buying-japanese-tcg-cards-in-singapore/)."
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides every box. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs. The Singapore hub runs the same numbers for a different tax line: [buying Japanese TCG cards in Singapore](/blog/buying-japanese-tcg-cards-in-singapore/).",
+      "For the GST question worked box by box and case by case, the [buy a Pokemon booster box in Australia guide](/blog/buy-pokemon-booster-box-australia-gst-included/) converts the whole current Mega-era shelf to Australian dollars and runs the A$1,000 line across every case."
     ]
   },
   "buying-japanese-tcg-cards-in-malaysia": {
@@ -11571,7 +12172,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "One Japanese booster box shipped to Malaysia under RM500 in goods value pays a flat 10% low-value goods tax at checkout and nothing at the door, because the line is RM500 and even the M2a box at RM465.97 sits under it. A box over the line, or any sealed case, goes to the border and pays duty plus sales tax on CIF plus duty. The cheapest pack on the shelf is M3 at RM10.49 with tax, against a local market where every box already carries import cost, tax and margin.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, converted at RM4.06 to the dollar, with tax calculated on goods value only because the shipping quote is confirmed at checkout. When the next MEGA-era set opens for pre-order, run the checklist first and divide the box before you pay.",
-      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides every box. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs. The Singapore hub runs the same numbers for a different tax line: [buying Japanese TCG cards in Singapore](/blog/buying-japanese-tcg-cards-in-singapore/)."
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline for one game at a time. For the Pokemon shelf alone, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) divides every box. And if you have not picked a game yet, [which TCG should you start](/blog/which-tcg-should-you-start/) compares the real first-box costs. The Singapore hub runs the same numbers for a different tax line: [buying Japanese TCG cards in Singapore](/blog/buying-japanese-tcg-cards-in-singapore/).",
+      "For the tax worked box by box and case by case, the [buy a Pokemon booster box in Malaysia guide](/blog/buy-pokemon-booster-box-malaysia-rm-price/) prices the whole current Mega-era shelf in ringgit and runs the RM500 line across every case."
     ]
   },
   "buying-japanese-tcg-cards-in-netherlands": {
@@ -30914,7 +31516,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "One Japanese Pokemon booster box shipped to Australia clears the border with no duty or GST, because the line is A$1,000 of customs value and seventy-one of the ninety boxes on our shelf sit under it on goods value alone. A sealed case, or any of the nineteen boxes over A$1,000, pays duty and GST at the border instead. The cheapest pack on the shelf is M3 at A$3.41, and the dearest box is Pokemon Card 151 at A$683.24.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 10, 2026, converted at A$1.45 to the dollar, with duty and GST calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and run the A$1,000 check on the parcel as it lands, not on the box alone.",
-      "For the Australia hub this guide sits inside, the [buying Japanese TCG cards in Australia guide](/blog/buying-japanese-tcg-cards-in-australia/) runs the same A$1,000 line across all four games, with One Piece, Dragon Ball and Lorcana in Australian dollars. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does."
+      "For the Australia hub this guide sits inside, the [buying Japanese TCG cards in Australia guide](/blog/buying-japanese-tcg-cards-in-australia/) runs the same A$1,000 line across all four games, with One Piece, Dragon Ball and Lorcana in Australian dollars. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by the job each box does.",
+      "For the same shelf with the border tax applied, the [buy a Pokemon booster box in Australia guide](/blog/buy-pokemon-booster-box-australia-gst-included/) prices every current box in Australian dollars and shows which cases survive the A$1,000 line."
     ]
   },
   "japanese-pokemon-booster-box-indonesia-price": {
@@ -31310,7 +31913,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Every Japanese Pokemon booster box shipped to Malaysia pays 10% sales tax: at RM500 of goods or less the tax is the low-value goods tax collected at checkout or on import, and above RM500 the box pays import duty plus 10% sales tax at the border. 29 of the ninety boxes sit at RM500 or less and 61 sit above it, so most of the shelf lands on the sales-tax-inclusive floor with duty still to be added. The cheapest pack on the shelf is S2 Rebellion Crash at RM 6.42 landed, and the dearest box is SM7 Sky-Splitting Charisma at RM 17,568.29 landed before shipping, as a floor.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, converted at RM 4.07 to the dollar, with the tax calculated on goods value only because the shipping quote is confirmed at checkout. Check the live shelf price before paying, and remember the RM500 line is measured on the goods value alone, so shipping never pushes a parcel over it, but two boxes in one parcel combine, and two M3 boxes at RM 574.84 cross the line together.",
       "The [buying Japanese TCG cards in Malaysia guide](/blog/buying-japanese-tcg-cards-in-malaysia/) runs the same RM500 rule across all four games. For the same ninety boxes without the conversion, the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) is the dollar original, and the [best Japanese Pokemon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by buyer.",
-      "For the same ninety boxes priced for Spain, the [Japanese Pokemon sealed booster box price in Spain](/blog/caja-pokemon-japonesa-sellada-espana-precio/) runs the €150 line across the whole shelf in euros."
+      "For the same ninety boxes priced for Spain, the [Japanese Pokemon sealed booster box price in Spain](/blog/caja-pokemon-japonesa-sellada-espana-precio/) runs the €150 line across the whole shelf in euros.",
+      "For the same shelf with the tax applied, the [buy a Pokemon booster box in Malaysia guide](/blog/buy-pokemon-booster-box-malaysia-rm-price/) prices every current box in ringgit and shows which cases survive the 33.1% stack."
     ]
   },
   "japanese-pokemon-booster-box-netherlands-price": {
