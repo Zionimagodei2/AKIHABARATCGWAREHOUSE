@@ -2854,7 +2854,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The discipline is the split: agree the headcount and the per-person price before paying, confirm FB12's expected configuration before trusting its $5.27 per pack, and never let a Japanese yen price or a God Rare name into an English case decision. Buy the case for the packs and the play, buy singles for named cards, and never fund a scarcity case from money needed back soon.",
       "Still weighing the case against the box? The [Fusion World box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the same twelve sets by buyer, and [the case versus box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on the shelf.",
       "For the Japanese side of the shelf, the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) prices the five Japanese singles and divides the English cases against the ¥5,280 Japanese box list.",
-      "For the pack question in depth, the [best Dragon Ball Fusion World booster pack guide](/blog/best-dragon-ball-fusion-world-booster-pack/) divides every sealed case to the pack, from $4.44 for FB04 to $16.77 for FB09, and every Japanese box from $1.08. The [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) prices every Fusion World case beside the Masters cases and the Japanese boxes."
+      "For the pack question in depth, the [best Dragon Ball Fusion World booster pack guide](/blog/best-dragon-ball-fusion-world-booster-pack/) divides every sealed case to the pack, from $4.44 for FB04 to $16.77 for FB09, and every Japanese box from $1.08. The [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) prices every Fusion World case beside the Masters cases and the Japanese boxes.",
+      "For the same fourteen cases at today's prices, the [Fusion World sealed case price guide](/blog/dragon-ball-fusion-world-sealed-case-price/) tracks every case's 15.00 percent fall since November 4 and divides each one to the box, the pack, and the card."
     ]
   },
   "best-dragon-ball-fusion-world-special-set": {
@@ -13266,7 +13267,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Choosing between the three games? [Which TCG should you start?](/blog/which-tcg-should-you-start/) compares Fusion World with One Piece and Pokémon on rules, structure, and the real cost of the first box.",
       "Once you know the rules and want to buy sealed, [the best Dragon Ball Fusion World booster box to buy](/blog/best-dragon-ball-fusion-world-booster-box/) ranks all twelve FB cases by per-box price from our live English case prices — including why the FB12 pre-order case undercuts FB11. For the other Dragon Ball game, the [best Dragon Ball Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all 13 Masters sealed cases per box and per pack.",
       "When the first game is behind you and the question becomes which Japanese box to buy, the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) prices all five Japanese boxes on the shelf, from FB08 at $26.02 to FB09 at $64.12. For FB07 in depth, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) prices the Japanese box against the English case.",
-      "Buying Dragon Ball from Japan? The [Dragon Ball TCG Japan buyer's guide](/blog/dragon-ball-tcg-japan/) prices all 27 sealed cases to the box, the pack and the card, and names the cheapest sealed entry in each line."
+      "Buying Dragon Ball from Japan? The [Dragon Ball TCG Japan buyer's guide](/blog/dragon-ball-tcg-japan/) prices all 27 sealed cases to the box, the pack and the card, and names the cheapest sealed entry in each line.",
+      "When the question is what a sealed case costs right now, the [Fusion World sealed case price guide](/blog/dragon-ball-fusion-world-sealed-case-price/) lists all fourteen English cases at today's prices, from FB04 at $1,087.37 to SB01 at $22,873.50."
     ]
   },
   "dragon-ball-fusion-world-booster-box-price": {
@@ -13894,6 +13896,285 @@ export const POSTS: Record<string, BlogPost> = {
       "Every Fusion World Japanese box price lives in one table now: official MSRP from $33.42 to $50.13, dated asks from $49.99 for FB11 to $575.95 for SB01, and our shelf from the $26.02 FB08 single to the $402.50 FB09 English box. Eight sets carry no current ask, and the table says so rather than inventing one.",
       "The multiples are the story: FB11 at 1.37 times MSRP is the closest to retail, SB01 at 11.49 times is the furthest, FB12 at 5.02 times is a pre-order premium, and the FB09 English box at 6.99 times the Japanese ask is the gap between the two languages stated as a number.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, the marketplace asks as of September 29, 2026 or June 16, 2026, and yen converted at Y158 per dollar on November 9, 2026. An ask without a date is stale, and a pre-order premium is the price of the wait, not of the cards."
+    ]
+  },
+  "dragon-ball-fusion-world-sealed-case-price": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "Twelve boxes. Every English Fusion World sealed case on our shelf holds 12 boxes of 24 packs, which is 288 packs and 3,456 cards, because English packs hold 12 cards. A Japanese box holds 24 packs of 6 cards, or 144 cards, so an English case holds twice the cards of a Japanese box and twelve times the boxes.",
+        "q": "How many boxes are in a Dragon Ball Fusion World sealed case?"
+      },
+      {
+        "a": "FB04 Ultra Limit at $1,087.37 a case as of November 15, 2026, which divides to $90.61 a box, $3.78 a pack, and $0.31 a card. The next cheapest are FB02 Blazing Aura at $1,132.98 a case, $94.42 a box, and FB05 New Adventure at $1,139.60 a case, $94.97 a box. Every case on the shelf is 15.00 percent cheaper than it was on November 4, 2026.",
+        "q": "What is the cheapest Dragon Ball Fusion World sealed case?"
+      },
+      {
+        "a": "FB12 Reach the God releases in Japan on December 12, 2026 and in English on December 18, 2026, on Bandai's official schedule, with 123 card types and a pack price of 240 yen in Japan. Our English sealed case is a pre-order until December 18, 2026, at $1,290.30 a case, or $107.53 a box. It is the first Fusion World set built around Dragon Ball Super: Beerus.",
+        "q": "When does FB12 Reach the God release?"
+      }
+    ],
+    "h1": "Dragon Ball Fusion World Sealed Case Price",
+    "intro": [
+      "Short answer: a Fusion World sealed case costs $1,087.37 to $22,873.50 on our shelf today, November 15, 2026, and every one of the fourteen cases is 15.00 percent cheaper than it was on November 4, when our last guide priced them. The cheapest mainline case is FB04 Ultra Limit at $1,087.37, or $90.61 a box and $3.78 a pack; the newest is FB12 Reach the God at $1,290.30, or $107.53 a box, on pre-order until December 18, 2026; the dearest mainline case is FB09 Dual Evolution at $4,105.50, or $342.13 a box. The Manga Boosters sit outside every player comparison, at $8,093.82 and $22,873.50 a case.",
+      "Who this is for: Fusion World players buying in bulk, groups splitting a twelve-box case, and sealed holders who want the real per-box cost across all twelve mainline sets plus the two Manga Boosters. Who it is not for: anyone who wants a single box without splitting, anyone who wants a sealed Japanese case, because we stock English cases only, and anyone buying a Manga Booster to play with, since those are priced as art objects. Every price below is our own live English sealed-case price as of November 15, 2026, divided by twelve boxes and then by 24 packs, so you can check it."
+    ],
+    "metaDescription": "Every Fusion World sealed case priced today: all 14 cases divided to the box, pack and card, each 15% cheaper than November 4. The full change table.",
+    "metaTitle": "Dragon Ball Fusion World Sealed Case Prices",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: value, newest, and the art objects",
+        "paragraphs": [
+          "For the player, the answer is FB04 Ultra Limit: $1,087.37 a case is $90.61 per box, the cheapest mainline box we sell, followed by FB02 at $94.42 and FB05 at $94.97. For the new-set buyer, the answer is FB12 Reach the God: its pre-order case at $1,290.30 is $107.53 per box, undercutting the live FB11 price by $73.31 per box. For the collector, the answer is the expensive end: FB01 Awakened Pulse at $313.78 per box and FB09 Dual Evolution at $342.13, where sealed scarcity, not play value, sets the price.",
+          "The change is the news on this page. Every case fell by exactly 15.00 percent between November 4 and November 15, because the store repriced the whole sealed shelf on November 13. FB09 fell $724.50 a case, or $60.37 a box; SB01 fell $4,036.50 a case, or $336.37 a box; even the cheapest case, FB04, fell $191.89 a case. No set got cheaper because it got worse, and no set stayed dear because it got better: the repricing was uniform, and the change column in the table below shows it case by case.",
+          "The ladder has three tiers. The value tier, FB04 at $90.61, FB02 at $94.42, FB05 at $94.97, FB06 at $102.69, and FB12 at $107.53 per box, is where players should shop, with the cheapest three cases at $3.78 to $3.96 a pack. The mid tier, FB03 and FB07 at $112.41, FB10 at $165.29, FB08 at $173.55, and FB11 at $180.84 per box, is where the newer and scarcer released sets sit. The scarcity tier, FB01 at $313.78 and FB09 at $342.13, is where sealed supply, not play value, sets the price. The Manga Boosters sit outside every tier: SB02 at $674.49 a box and SB01 at $1,906.13 a box, art prices for Toriyama manga art, not play prices."
+        ]
+      },
+      {
+        "h": "The money layer: all fourteen cases, divided",
+        "math": [
+          "FB01 Awakened Pulse case per box: $3,765.33 / 12 boxes = $313.78 per box; $3,765.33 / 288 packs = $13.07 per pack; $3,765.33 / 3456 cards = $1.09 per card",
+          "FB01 Awakened Pulse change: $4,429.80 - $3,765.33 = $664.47; $664.47 / $4,429.80 = 15.00%",
+          "FB02 Blazing Aura case per box: $1,132.98 / 12 boxes = $94.42 per box; $1,132.98 / 288 packs = $3.93 per pack; $1,132.98 / 3456 cards = $0.33 per card",
+          "FB02 Blazing Aura change: $1,332.92 - $1,132.98 = $199.94; $199.94 / $1,332.92 = 15.00%",
+          "FB03 Raging Roar case per box: $1,348.95 / 12 boxes = $112.41 per box; $1,348.95 / 288 packs = $4.68 per pack; $1,348.95 / 3456 cards = $0.39 per card",
+          "FB03 Raging Roar change: $1,587.00 - $1,348.95 = $238.05; $238.05 / $1,587.00 = 15.00%",
+          "FB04 Ultra Limit case per box: $1,087.37 / 12 boxes = $90.61 per box; $1,087.37 / 288 packs = $3.78 per pack; $1,087.37 / 3456 cards = $0.31 per card",
+          "FB04 Ultra Limit change: $1,279.26 - $1,087.37 = $191.89; $191.89 / $1,279.26 = 15.00%",
+          "FB05 New Adventure case per box: $1,139.60 / 12 boxes = $94.97 per box; $1,139.60 / 288 packs = $3.96 per pack; $1,139.60 / 3456 cards = $0.33 per card",
+          "FB05 New Adventure change: $1,340.70 - $1,139.60 = $201.10; $201.10 / $1,340.70 = 15.00%",
+          "FB06 Rivals Clash case per box: $1,232.30 / 12 boxes = $102.69 per box; $1,232.30 / 288 packs = $4.28 per pack; $1,232.30 / 3456 cards = $0.36 per card",
+          "FB06 Rivals Clash change: $1,449.76 - $1,232.30 = $217.46; $217.46 / $1,449.76 = 15.00%",
+          "FB07 Wish for Shenron case per box: $1,348.95 / 12 boxes = $112.41 per box; $1,348.95 / 288 packs = $4.68 per pack; $1,348.95 / 3456 cards = $0.39 per card",
+          "FB07 Wish for Shenron change: $1,587.00 - $1,348.95 = $238.05; $238.05 / $1,587.00 = 15.00%",
+          "FB08 Saiyan's Pride case per box: $2,082.57 / 12 boxes = $173.55 per box; $2,082.57 / 288 packs = $7.23 per pack; $2,082.57 / 3456 cards = $0.60 per card",
+          "FB08 Saiyan's Pride change: $2,450.08 - $2,082.57 = $367.51; $367.51 / $2,450.08 = 15.00%",
+          "FB09 Dual Evolution case per box: $4,105.50 / 12 boxes = $342.13 per box; $4,105.50 / 288 packs = $14.26 per pack; $4,105.50 / 3456 cards = $1.19 per card",
+          "FB09 Dual Evolution change: $4,830.00 - $4,105.50 = $724.50; $724.50 / $4,830.00 = 15.00%",
+          "FB10 Cross Force case per box: $1,983.53 / 12 boxes = $165.29 per box; $1,983.53 / 288 packs = $6.89 per pack; $1,983.53 / 3456 cards = $0.57 per card",
+          "FB10 Cross Force change: $2,333.57 - $1,983.53 = $350.04; $350.04 / $2,333.57 = 15.00%",
+          "FB11 Brightness of Hope case per box: $2,170.05 / 12 boxes = $180.84 per box; $2,170.05 / 288 packs = $7.53 per pack; $2,170.05 / 3456 cards = $0.63 per card",
+          "FB11 Brightness of Hope change: $2,553.00 - $2,170.05 = $382.95; $382.95 / $2,553.00 = 15.00%",
+          "FB12 Reach the God case per box: $1,290.30 / 12 boxes = $107.53 per box; $1,290.30 / 288 packs = $4.48 per pack; $1,290.30 / 3456 cards = $0.37 per card",
+          "FB12 Reach the God change: $1,518.00 - $1,290.30 = $227.70; $227.70 / $1,518.00 = 15.00%",
+          "SB01 Manga Booster 01 case per box: $22,873.50 / 12 boxes = $1,906.13 per box; $22,873.50 / 288 packs = $79.42 per pack; $22,873.50 / 3456 cards = $6.62 per card",
+          "SB01 Manga Booster 01 change: $26,910.00 - $22,873.50 = $4,036.50; $4,036.50 / $26,910.00 = 15.00%",
+          "SB02 Manga Booster 02 case per box: $8,093.82 / 12 boxes = $674.49 per box; $8,093.82 / 288 packs = $28.10 per pack; $8,093.82 / 3456 cards = $2.34 per card",
+          "SB02 Manga Booster 02 change: $9,522.14 - $8,093.82 = $1,428.32; $1,428.32 / $9,522.14 = 15.00%",
+          "FB04 case split 4-way: $1,087.37 / 4 = $271.84 each for three boxes",
+          "FB04 case split 3-way: $1,087.37 / 3 = $362.46 each for four boxes",
+          "FB12 case split 4-way: $1,290.30 / 4 = $322.58 each for three boxes",
+          "FB12 case split 3-way: $1,290.30 / 3 = $430.10 each for four boxes",
+          "FB09 case split 4-way: $4,105.50 / 4 = $1,026.38 each for three boxes",
+          "Japanese list FB01 to FB10: 5280 yen / 159.7 = $33.06",
+          "Japanese list FB12: 5760 yen / 159.7 = $36.07",
+          "FB04 English box vs Japanese list: $90.61 / $33.06 = 2.74x",
+          "FB09 English box vs Japanese list: $342.13 / $33.06 = 10.35x",
+          "FB12 English box vs Japanese list: $107.53 / $36.07 = 2.98x",
+          "Scarcity ratio: $342.13 / $90.61 = 3.78x",
+          "FB12 vs FB11 today: $180.84 - $107.53 = $73.31 cheaper per box",
+          "FB12 vs FB11 on Nov 4: $212.75 - $126.50 = $86.25 cheaper per box",
+          "Masters B25 per box: $1,049.83 / 12 boxes = $87.49 per box",
+          "Masters B25 per pack: $1,049.83 / 288 packs = $3.65 per pack",
+          "Cheapest pack gap: $3.78 - $3.65 = $0.13",
+          "SB01 case vs FB04 case: $22,873.50 / $1,087.37 = 21.04x",
+          "FB09 English box vs Japanese single: $342.13 / $54.50 = 6.28x",
+          "SB01 English box vs Japanese single: $1,906.13 / $48.97 = 38.92x",
+          "FB09 case fall: $4,830.00 - $4,105.50 = $724.50; $724.50 / $4,830.00 = 15.00%",
+          "SB01 case fall: $26,910.00 - $22,873.50 = $4,036.50; $4,036.50 / $26,910.00 = 15.00%",
+          "FB04 case fall: $1,279.26 - $1,087.37 = $191.89; $191.89 / $1,279.26 = 15.00%",
+          "Case contents: 12 boxes x 24 packs = 288 packs per case; 288 packs x 12 cards = 3456 cards per case"
+        ],
+        "paragraphs": [
+          "The division is the same for every case, and it is the whole method: case divided by 12 boxes is the per-box price, divided by 288 packs is the per-pack price, and divided by 3,456 cards is the per-card price, because an English case holds 12 boxes of 24 packs and English packs hold 12 cards. Every line is shown below, so a buyer can re-run any figure with a pocket calculator. The cheapest pack on the Fusion World shelf is FB04 at $3.78, but the cheapest English pack on the whole store shelf is still the Masters B25 case at $3.65 a pack, $0.13 less, because the older game trades cheaper sealed.",
+          "Split the case before you pay for it, because a case is twelve boxes and nobody opens twelve boxes alone without a plan. An FB04 case split four ways costs each person $271.84 for three boxes, and split three ways it costs $362.46 each for four boxes. An FB12 case split four ways costs $322.58 each for three boxes. An FB09 case split four ways costs $1,026.38 each, which is why the scarcity tier is a group purchase or a holder purchase, not a solo opening. Agree the split and the per-person figure before anyone pays, and the case stops being a gamble.",
+          "The Japanese list price sets the floor every English ask is measured against. A mainline Japanese box lists at 5,280 yen, or $33.06 at 159.7 yen per dollar on November 14, 2026, and FB12 lists at 5,760 yen, or $36.07. The FB04 English box at $90.61 costs 2.74 times that list; the FB12 English box at $107.53 costs 2.98 times its list; the FB09 English box at $342.13 costs 10.35 times it. The multiple is the language, the sealed provenance, and the 12-card English packs, stated as one number per set, and it is the number that decides whether to buy English sealed or Japanese singles."
+        ]
+      },
+      {
+        "h": "The decision layer: case, Japanese box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole shelf on one page: all fourteen cases, today's price, the per-box and per-pack division, the November 4 per-box price, and the change. Read the change column first if you read our November 4 guide, because every row moved by the same 15.00 percent and the ranking did not change: FB04 is still cheapest, FB09 is still dearest among mainline sets, and the Manga Boosters are still in a different universe. A ranking that survives a uniform repricing is a ranking about the sets, not about the prices.",
+          "The Japanese alternative is a single, not a case, and the shelf is honest about that. Five Japanese singles sit on our shelf: FB08 at $22.12, FB07 at $23.70, SB01 and SB02 at $48.97 each, and FB09 at $54.50. The FB09 English box at $342.13 costs 6.28 times its Japanese single, and the SB01 English box at $1,906.13 costs 38.92 times its Japanese single. If you want Japanese cards, buy the singles; if you want sealed English boxes in bulk, buy the case; and if you want a sealed Japanese case, know that no sealed Japanese cases are stocked, in any set."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Case today",
+            "Per box",
+            "Per pack",
+            "Nov 4 per box",
+            "Change per box"
+          ],
+          "rows": [
+            [
+              "FB01 Awakened Pulse",
+              "$3,765.33",
+              "$313.78",
+              "$13.07",
+              "$369.15",
+              "-$55.37"
+            ],
+            [
+              "FB02 Blazing Aura",
+              "$1,132.98",
+              "$94.42",
+              "$3.93",
+              "$111.08",
+              "-$16.66"
+            ],
+            [
+              "FB03 Raging Roar",
+              "$1,348.95",
+              "$112.41",
+              "$4.68",
+              "$132.25",
+              "-$19.84"
+            ],
+            [
+              "FB04 Ultra Limit",
+              "$1,087.37",
+              "$90.61",
+              "$3.78",
+              "$106.61",
+              "-$16.00"
+            ],
+            [
+              "FB05 New Adventure",
+              "$1,139.60",
+              "$94.97",
+              "$3.96",
+              "$111.73",
+              "-$16.76"
+            ],
+            [
+              "FB06 Rivals Clash",
+              "$1,232.30",
+              "$102.69",
+              "$4.28",
+              "$120.81",
+              "-$18.12"
+            ],
+            [
+              "FB07 Wish for Shenron",
+              "$1,348.95",
+              "$112.41",
+              "$4.68",
+              "$132.25",
+              "-$19.84"
+            ],
+            [
+              "FB08 Saiyan's Pride",
+              "$2,082.57",
+              "$173.55",
+              "$7.23",
+              "$204.17",
+              "-$30.62"
+            ],
+            [
+              "FB09 Dual Evolution",
+              "$4,105.50",
+              "$342.13",
+              "$14.26",
+              "$402.50",
+              "-$60.37"
+            ],
+            [
+              "FB10 Cross Force",
+              "$1,983.53",
+              "$165.29",
+              "$6.89",
+              "$194.46",
+              "-$29.17"
+            ],
+            [
+              "FB11 Brightness of Hope",
+              "$2,170.05",
+              "$180.84",
+              "$7.53",
+              "$212.75",
+              "-$31.91"
+            ],
+            [
+              "FB12 Reach the God",
+              "$1,290.30",
+              "$107.53",
+              "$4.48",
+              "$126.50",
+              "-$18.97"
+            ],
+            [
+              "SB01 Manga Booster 01",
+              "$22,873.50",
+              "$1,906.13",
+              "$79.42",
+              "$2,242.50",
+              "-$336.37"
+            ],
+            [
+              "SB02 Manga Booster 02",
+              "$8,093.82",
+              "$674.49",
+              "$28.10",
+              "$793.51",
+              "-$119.02"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the price move nobody tracked",
+        "note": "From the Warehouse: the question we get about Fusion World cases is never which set is best. It is whether the case price on the page is the price today, because the shelf moved 15.00 percent on November 13 and every guide written before that date is now wrong by the same margin. The change table on this page is the answer: the same fourteen cases, the same division, new prices, with the old ones beside them so you can see the move.",
+        "paragraphs": [
+          "The top guides for this query do the ranking well and the date badly. Our own [best sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks all fourteen cases by per-box price, but its prices are November 4 prices, and every one of them is now 15.00 percent high. Our [buy Dragon Ball cards Japanese guide](/blog/buy-dragon-ball-cards-japanese/) prices the shelf as of November 9, which is closer, but it is a channel guide, not a case price list, and it never divides the change. The [beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) still shows the FB12 case at $1,265 as of October 21, which is $25.30 below today's $1,290.30 because the case was repriced twice since. None of the three tracks the move, and none of them gives a split cost at today's prices.",
+          "The second thing the top guides miss is the Japanese comparison, stated as a multiple. None of them divides the English case box against the 5,280 yen Japanese list, so none of them says that the FB04 box costs 2.74 times the list and the FB09 box costs 10.35 times it. That gap is the decision for a buyer who can read Japanese cards and does not need English ones: the singles on our shelf, from $22.12 for FB08 to $54.50 for FB09, are the cheap way to own the art, and the English case is the bulk way to own the boxes. The two formats answer different questions, and the multiple is what keeps them apart."
+        ]
+      },
+      {
+        "h": "The risk layer: the pre-order, the art premium, and the wrong game",
+        "paragraphs": [
+          "The first risk is the pre-order. FB12 Reach the God releases in Japan on December 12, 2026 and in English on December 18, 2026, so paying $1,290.30 now buys a December shipment, not stock in hand. If the date slips, the case slips with it, and the $107.53 per-box price is a promise, not a delivery. Pre-orders suit buyers who want the newest set on release day; they do not suit buyers who need boxes in hand this week, and the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) still prices the twelve released cases for that buyer.",
+          "The second risk is the art premium. SB01 costs $1,906.13 a box, $79.42 a pack, and $6.62 a card, and SB02 costs $674.49 a box, $28.10 a pack, and $2.34 a card. Those are art prices for Akira Toriyama manga art sealed in English, not play prices, and the SB01 case costs 21.04 times the FB04 case. Buy a Manga Booster only if you want the first Toriyama set sealed in English at any price; otherwise the Japanese box is the same art for a fraction of the per-box price, and the [best special set guide](/blog/best-dragon-ball-fusion-world-special-set/) runs that comparison in full.",
+          "The third risk is the scarcity tier. FB01 at $313.78 a box and FB09 at $342.13 a box are scarcity prices, not play value, and FB09's English box costs 10.35 times its Japanese list. If either set reprints, the scarcity premium is the first thing to fall, and a holder who paid $4,105.50 for an FB09 case holds twelve boxes that the next print run can undercut. The fourth risk is the wrong game: Fusion World is a different game from Masters, an FB case does not play in Masters events and vice versa, and the [best Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices the older game separately for the buyer who wants that one."
+        ]
+      },
+      {
+        "h": "Context: Japan first, English in bulk, 6 cards against 12",
+        "paragraphs": [
+          "Fusion World launched in Japan on February 16, 2024, and has released a mainline booster roughly every quarter since: FB01 Awakened Pulse through FB12 Reach the God, plus two Manga Boosters, SB01 in June 2025 and SB02 in November 2025. FB11 Brightness of Hope reached Japan on September 12, 2026. FB12 Reach the God is due December 12, 2026 in Japan and December 18, 2026 in English, with 123 card types, and it is the first set built around Dragon Ball Super: Beerus, which is part of why it holds collector attention as well as player attention. Coming right behind it, the release calendar lists the FS13 and FS14 starter decks for January 22, 2027.",
+          "The formats differ in the pack, not just the language. A Japanese pack holds 6 cards plus a digital serial code, a Japanese box holds 24 packs, and the list price is 220 yen a pack, or 5,280 yen a box, for FB01 to FB10, and 240 yen a pack, or 5,760 yen a box, for FB12. An English pack holds 12 cards, an English box holds 24 packs, and an English case holds 12 boxes. Japanese cards are generally not legal at official English-format events, so the language decision should be confirmed with the event organizer before paying, and the [best Japanese Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) separates the two formats set by set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a single box without splitting, because the shelf lists cases, not single boxes, so every per-box figure here is a case division, not a single-box listing. It is not for anyone who wants a sealed Japanese case, because no sealed Japanese cases are stocked, in any set. It is not for anyone buying a Manga Booster to play with, since those are priced as art objects. And it is not for anyone who wants the cheapest sealed Dragon Ball on the shelf: that is the Masters B25 case at $1,049.83, or $87.49 a box and $3.65 a pack, not a Fusion World case. Buy a Fusion World case because you want Fusion World, not because it is the cheapest sealed Dragon Ball, because it is not."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the set by job: FB04 for value at $90.61 a box, FB12 for newest at $107.53 a box, FB09 and FB01 for scarcity, SB01 and SB02 for art.",
+          "Divide before you pay: case / 12 = your per-box price, then / 24 = per pack, then / 12 = per card.",
+          "Check the change: compare against the November 4 column; every case moved 15.00 percent on November 13.",
+          "Split before you pay: agree the split, four ways is $271.84 each for three FB04 boxes, and the per-person figure.",
+          "Confirm FB12 is a pre-order until December 18, 2026, not stock in hand.",
+          "Confirm the listing prints 12 boxes: every case on this page does, in its title.",
+          "If you want Japanese, buy the singles, from $22.12 to $54.50, not a case that does not exist."
+        ],
+        "h": "Action layer: the sealed case checklist",
+        "paragraphs": [
+          "Before paying for a Fusion World case, walk the list. The set decides the job, the division decides the price, and the split decides whether the case fits your budget: a case is twelve boxes, and the per-person figure is the one to agree before anyone pays. For the format question across the wider shelf, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry, and for the other Dragon Ball game, the [best Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all thirteen Masters cases to the box, the pack, and the card.",
+          "When the next set lands, re-run the division: the first thing to check is whether the value tier still starts at FB04, and the second is whether the newest set still undercuts the latest released set, the way FB12 undercuts FB11 by $73.31 a box today. Prices move, and the change column is the habit that keeps a price guide honest."
+        ]
+      }
+    ],
+    "slug": "dragon-ball-fusion-world-sealed-case-price",
+    "takeaway": [
+      "Every Fusion World sealed case costs 15.00 percent less today than on November 4: FB04 Ultra Limit is the cheapest mainline case at $1,087.37, or $90.61 a box; FB12 Reach the God is the newest at $1,290.30, or $107.53 a box on pre-order; FB09 Dual Evolution is the dearest mainline case at $4,105.50, or $342.13 a box; and the Manga Boosters sit outside every player comparison at $674.49 and $1,906.13 a box.",
+      "Prices move, so treat every number here as stamped: our English sealed-case prices as of November 15, 2026, the November 4 prices beside them for the change, and the yen list at 159.7 per dollar on November 14, 2026. When the next set lands, re-run the division.",
+      "For the ranking, the [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks all fourteen cases by per-box price; for the Japanese route, the [best Japanese Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) prices the five singles; and for the format question, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles case against box across the shelf.",
+      "New to the game? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) teaches the game before you spend case money on it, the [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) prices every channel, and the [best Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) covers the older game."
     ]
   },
   "dragon-ball-super-card-game-japanese-booster-box": {
@@ -22729,6 +23010,199 @@ export const POSTS: Record<string, BlogPost> = {
       "For the price-and-math companion, the [OP-18 The Dominance of God preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the October prices side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case charges a premium instead of saving."
     ]
   },
+  "is-sv10-worth-buying": {
+    "datePublished": "2026-11-15",
+    "faqs": [
+      {
+        "a": "Yes for the box if you want to open Team Rocket's set, and yes for the case if you want to hold or split it. The box costs $181.04 for 30 packs, $6.03 a pack, and the case costs $1,548.19 for 12 boxes, $129.02 a box, saving $624.29 against twelve singles. No for chasing the Mewtwo SAR: the single costs $362.00 on TCGplayer in November 2026, twice the box, and no box guarantees a Special Art Rare. Buy the single if you want the card, and buy the box if you want the opening.",
+        "q": "Is SV10 Glory of Team Rocket worth buying?"
+      },
+      {
+        "a": "Team Rocket's Mewtwo ex SAR 125/098 trades at a $362.00 TCGplayer market price in November 2026, against $331.17 ungraded on PriceCharting and $447.50 for a PSA 10, both checked November 2026. The Ultra Rare printing 130/098 is $43.37 on TCGplayer in November 2026. The English twin, the Mewtwo ex Special Illustration Rare in Destined Rivals, is $282.47 on TCGplayer as of November 14, 2026, so the Japanese SAR costs $79.53 more than its English counterpart.",
+        "q": "How much is the Team Rocket's Mewtwo ex SAR worth?"
+      },
+      {
+        "a": "An SV10 booster box holds 30 packs of 5 cards, 150 cards in total, and a sealed case holds 12 boxes, 360 packs and 1,800 cards. At our shelf prices as of November 15, 2026, the box divides to $6.03 a pack and $1.21 a card, and the case divides to $4.30 a pack and $0.86 a card. The set itself is 132 cards: 98 base cards plus 34 secrets numbered 99 to 132.",
+        "q": "How many packs are in an SV10 booster box?"
+      }
+    ],
+    "h1": "Is SV10 Glory of Team Rocket Worth Buying?",
+    "intro": [
+      "Short answer: yes, buy the SV10 box at $181.04 if you want to open Team Rocket's set, and yes, buy the case at $1,548.19 if you want to hold or split it at $129.02 a box. No, do not buy either format to chase the Mewtwo SAR: the single costs $362.00 on TCGplayer in November 2026, twice the box, and no box guarantees a Special Art Rare. Both formats are 15.00 percent cheaper than our November 3 snapshot, when the box was $212.99 and the case was $1,821.40, and the case still saves $624.29 against twelve singles.",
+      "Who this is for: collectors opening Glory of Team Rocket, groups splitting a twelve-box case, and sealed holders who want the dearest per-pack set on the Japanese shelf priced honestly. Who it is not for: anyone who wants a guaranteed Mewtwo ex, anyone who needs tournament-legal cards outside Asia, and anyone buying the Attache Case Set, because the store does not stock it. Every price below is our own shelf price as of November 15, 2026, divided so you can check it, and every third-party figure carries its date."
+    ],
+    "metaDescription": "SV10 Glory of Team Rocket at $181.04 a box and $129.02 in a case: the Mewtwo SAR costs twice the box. Divided, dated, and priced from one shelf.",
+    "metaTitle": "Is SV10 Glory of Team Rocket Worth Buying?",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer: yes for the box if you open, yes for the case, no for chasing Mewtwo",
+        "paragraphs": [
+          "A collector who wants to open the set buys the [SV10 box](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/) at $181.04: 30 packs of 5 cards, 150 cards, $6.03 per pack and $1.21 per card. A sealed holder, a splitter, or a group buy buys the [SV10 case](/product/sv10-glory-of-team-rocket-sealed-case-12-boxes-japanese-pokemon-card/) at $1,548.19: twelve boxes at $129.02 per box, $4.30 per pack and $0.86 per card, with $624.29 saved against twelve singles. A player who wants Team Rocket cards for play outside Asia buys neither Japanese format and buys English Destined Rivals instead, because Japanese cards are generally not legal at official events outside Asia, and the language decision should be confirmed with the event organizer before paying.",
+          "The case is the story of this page, because it breaks the pattern buyers have learned to expect. On much of the Japanese shelf, a sealed case costs slightly more per box than buying singles, and the premium buys factory-sealed provenance. SV10 runs the other way, and by a lot: $52.02 saved per box, $624.29 across the case. A buyer who assumed the usual trap and bought twelve singles would have paid $624.29 for the privilege of opening the same twelve boxes one at a time. The rest of this guide is about making sure that saving is real, that the box is the right format for the buyer, and that the chase is priced as a single rather than a promise.",
+          "The chase is where the verdict turns. The Mewtwo SAR costs $362.00, which is 2.00 times the box and 2.81 times a box bought inside a case, while the Ultra Rare printing costs $43.37, or 0.24 times the box. The box is the honest way to open the set, and the single is the honest way to own the card. Buying boxes to find a SAR is the expensive way to do both at once, and the rest of this page runs the numbers that prove it."
+        ]
+      },
+      {
+        "h": "The money layer: two products, one fall, one saving",
+        "math": [
+          "SV10 box per pack: $181.04 / 30 packs = $6.03 per pack",
+          "SV10 box per card: $181.04 / 150 cards = $1.21 per card",
+          "SV10 case per box: $1,548.19 / 12 boxes = $129.02 per box",
+          "SV10 case per pack: $1,548.19 / 360 packs = $4.30 per pack",
+          "SV10 case per card: $1,548.19 / 1800 cards = $0.86 per card",
+          "SV10 twelve singles: 12 x $181.04 = $2,172.48",
+          "SV10 case saving: $2,172.48 - $1,548.19 = $624.29",
+          "SV10 saving per box: $624.29 / 12 = $52.02 per box",
+          "SV10 box price fall: $212.99 - $181.04 = $31.95; $31.95 / $212.99 = 15.00%",
+          "SV10 case price fall: $1,821.40 - $1,548.19 = $273.21; $273.21 / $1,821.40 = 15.00%",
+          "SV10 MSRP: 5400 yen / 159.7 = $33.81",
+          "SV10 box vs MSRP: $181.04 / $33.81 = 5.35x",
+          "SV10 case box vs MSRP: $129.02 / $33.81 = 3.82x",
+          "Mewtwo SAR vs box: $362.00 / $181.04 = 2.00x",
+          "Mewtwo SAR vs case box: $362.00 / $129.02 = 2.81x",
+          "Mewtwo UR vs box: $43.37 / $181.04 = 0.24x",
+          "English SIR gap: $362.00 - $282.47 = $79.53; $362.00 / $282.47 = 1.28x",
+          "Samurai box: 20500 yen / 159.7 = $128.37; $181.04 - $128.37 = $52.67 above the listing",
+          "SNKRDUNK ask: 23300 yen / 159.7 = $145.90; $181.04 - $145.90 = $35.14 above the ask",
+          "Samurai list: 23400 yen / 159.7 = $146.52; $181.04 - $146.52 = $34.52 above the listing",
+          "Card Rush ask: 59800 yen / 159.7 = $374.45; $374.45 - $362.00 = $12.45 above TCGplayer",
+          "PriceCharting gap: $362.00 - $331.17 = $30.83; PSA 10 premium: $447.50 - $362.00 = $85.50; $447.50 / $362.00 = 1.24x",
+          "SV10 vs SV9: $181.04 - $72.22 = $108.82 more",
+          "SV10 vs SV9a: $181.04 - $138.82 = $42.22 more",
+          "SV10 vs SV11W: $181.04 - $142.56 = $38.48 more",
+          "SV10 vs SV11B: $181.04 - $155.70 = $25.34 more",
+          "SV8 vs SV10: $219.50 - $181.04 = $38.46 more",
+          "SV8 per pack: $219.50 / 30 packs = $7.32 per pack",
+          "SV8 per card: $219.50 / 150 cards = $1.46 per card",
+          "SV10 case box vs SV9a case box: $129.02 - $113.64 = $15.38 more",
+          "Case split 4-way: $1,548.19 / 4 = $387.05 each for three boxes",
+          "Case split 3-way: $1,548.19 / 3 = $516.06 each for four boxes",
+          "Case split 2-way: $1,548.19 / 2 = $774.10 each for six boxes",
+          "Target 3-pack: $21.99 / 3 packs = $7.33 per pack; $21.99 / 15 cards = $1.47 per card; $7.33 - $6.03 = $1.30 more per pack than our box",
+          "Case per pack vs Samurai per pack: $4.30 - $4.28 = $0.02 more per pack",
+          "Box per pack vs Samurai per pack: $6.03 - $4.28 = $1.75 more per pack"
+        ],
+        "paragraphs": [
+          "Start with the box, because its arithmetic is complete. The SV10 box is $181.04 for 30 packs of 5 cards, which is $6.03 per pack and $1.21 per card, both divisions shown below. Against the original Japanese retail price, the box has traveled a long way: packs retailed at 180 yen for 5 cards, which puts a box at 5,400 yen, or $33.81 at 159.7 yen per dollar on November 14, 2026. Our box costs 5.35 times that retail price, and even a box bought inside a case costs 3.82 times it. That multiple is the Team Rocket premium stated as a number, and it is the first thing to weigh before paying it.",
+          "The case arithmetic is where the page earns its keep. The SV10 case is $1,548.19 for a printed 12 boxes, which is $129.02 per box, $4.30 per pack across 360 packs, and $0.86 per card across 1,800 cards. Twelve singles at $181.04 cost $2,172.48, so the case saves $624.29 in total and $52.02 per box. Split it four ways and each person pays $387.05 for three boxes; split it three ways and each pays $516.06 for four boxes; split it two ways and each pays $774.10 for six boxes. The split is the use case that makes a case make sense, and the per-person figure is the one to agree before anyone pays.",
+          "The neighboring shelf puts SV10 in its price band. [Battle Partners](/product/sv9-battle-partners-booster-box-japanese-pokemon-card/), the set English Journey Together merges with SV9, is $72.22 a box, or $2.41 a pack. [Heat Wave Arena](/product/sv9a-heat-wave-arena-booster-box-japanese-pokemon-card/) is $138.82 a box, or $4.63 a pack. [White Flare](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) is $142.56 and [Black Bolt](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $155.70. [Super Electric Breaker](/product/sv8-super-electric-breaker-booster-box-japanese-pokemon-card/) is $219.50, or $7.32 a pack, the only 30-pack box on the shelf dearer per pack than SV10. SV10 sits among the dearest per-pack boxes on the shelf, behind only Super Electric Breaker, and that ranking is the price of the Mewtwo chase, not the price of the cards inside."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole decision on one page. The case is the only format that ties the Tokyo market on per-pack price: $4.30 a pack against $4.28 a pack for the Samurai Sword listing of September 23, 2026, a $0.02 gap, before international shipping. The single box costs $1.75 more per pack than that same listing, which is the premium you pay for buying the box from a shelf in dollars instead of an ask in yen. The SNKRDUNK lowest ask of September 23, 2026, $145.90, sits $35.14 below our box, and Samurai Sword's own card-list box at $146.52 sits $34.52 below it. Those are asks and listings, not completed sales, and the yen figures convert at 159.7 per dollar on November 14, 2026.",
+          "The English twin changes the question for a different buyer. English Destined Rivals merges SV10 with Heat Wave Arena into a 244-card set, released May 30, 2025, and its Mewtwo Special Illustration Rare is $282.47 on TCGplayer as of November 14, 2026, which is $79.53 less than the Japanese SAR at $362.00, or 1.28 times cheaper. A collector who wants the Mewtwo art pays the Japanese premium; a player who wants the card in English pays less and gets a tournament-legal card outside Asia. The table keeps the two apart because they are two different purchases that happen to share a Pokemon."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "What you get",
+            "Per pack",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "SV10 box (Warehouse)",
+              "$181.04",
+              "30 packs, 150 cards",
+              "$6.03",
+              "Open it"
+            ],
+            [
+              "SV10 case (Warehouse)",
+              "$1,548.19",
+              "12 boxes, 360 packs",
+              "$4.30",
+              "Hold it or split it"
+            ],
+            [
+              "SV10 box (Samurai listing, Sep 23)",
+              "$128.37",
+              "30 packs",
+              "$4.28",
+              "Cheaper ask, Tokyo shipping on top"
+            ],
+            [
+              "SV10 box (SNKRDUNK lowest ask, Sep 23)",
+              "$145.90",
+              "30 packs",
+              "$4.86",
+              "An ask, not a sale"
+            ],
+            [
+              "Mewtwo ex SAR single (TCGplayer, Nov 2026)",
+              "$362.00",
+              "1 card",
+              "n/a",
+              "Buy the card, not the chase"
+            ],
+            [
+              "English Mewtwo SIR (TCGplayer, Nov 14)",
+              "$282.47",
+              "1 card",
+              "n/a",
+              "The English twin, cheaper"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case division, the fall, and the ratio",
+        "note": "From the Warehouse: the question we get about SV10 is never whether the set is good. It is whether the case is really cheaper than twelve boxes, and whether the Mewtwo single is really twice the box. Both answers are divisions, not opinions: the case saves $624.29, and the SAR costs 2.00 times the box. The third question is why the box fell $31.95 in twelve days, and the answer is the November 13 repricing, which cut every sealed price on the shelf by 15.00 percent, not a change in the set.",
+        "paragraphs": [
+          "The top guides for this query do the card list well and the money badly. Our own [SV10 buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) priced the box at $212.99 and the case at $1,821.40 on November 3, and both figures are now 15.00 percent out of date. Samurai Sword's buying guide lists a sealed box at $128.37 as of September 23, 2026, but never divides a case, so a buyer who wants twelve boxes has no per-box figure to work with. Target sells three packs for $21.99, or $7.33 a pack, which is $1.30 more per pack than our box, and a three-pack bundle is not a box at any price. None of the three states the chase-to-box ratio, which is the number that decides whether to open or to buy the single.",
+          "The second thing the top guides miss is the pull-rate question, and the honest answer is that there is no verified number to give. Samurai Sword's SAR guide, updated October 19, 2026, refuses to assert a universal SAR-per-box figure, and says a reliable estimate needs the set, the number of boxes observed, and whether the sample used loose packs or standard boxes. This guide follows that refusal: the set holds six SARs, the card you want is one of six, and a box holds 30 packs. No box guarantees a SAR, no case guarantees the Mewtwo, and any guide that promises either is selling a feeling, not a figure."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the fall, and the English flip",
+        "paragraphs": [
+          "The expensive failure on this page is opening boxes for profit. The English Mewtwo Special Illustration Rare traded at a recorded near-mint $378 as of November 2, 2026, down from a $482 peak in April 2026, and it is $282.47 on TCGplayer as of November 14, 2026. The Japanese SAR is $362.00 on TCGplayer in November 2026, against $331.17 ungraded on PriceCharting, a $30.83 gap between two samples of the same card, and a PSA 10 is $447.50, a $85.50 premium over the raw card, or 1.24 times, before grading fees, shipping, and the risk that the card comes back a 9. A box opened for profit is a lottery ticket with a $181.04 price; a single bought at $362.00 is the card.",
+          "The second risk is the price fall itself. A case bought on November 3 at $1,821.40 is worth $1,548.19 on our shelf today, a $273.21 paper fall in twelve days, and a box bought at $212.99 is worth $181.04 today, a $31.95 fall. The fall came from the store repricing the whole sealed shelf on November 13, not from the set losing value, but sealed prices move both ways and the holder should know the shelf moves. If you buy a case to hold, hold it because you believe in the set, not because you assume the price only rises.",
+          "The third risk is the English flip. Japanese cards are generally not legal at official events outside Asia, so a player who buys the Japanese box for a local tournament has bought the wrong product at a good price. English Destined Rivals is the route for that player, and the language decision should be confirmed with the event organizer before paying. The Attache Case Set, the case plus 30 packs sold through a Pokemon Center lottery, is not stocked here, and any listing that prices it as a standard sealed product is pricing a lottery item as if it were one."
+        ]
+      },
+      {
+        "h": "Context: 132 cards, four Mewtwos, and the English merge",
+        "paragraphs": [
+          "The set code is SV10, printed in the bottom-left of each card next to the card number, and the set runs 98 base cards plus 34 secrets numbered 99 to 132: 12 Art Rares, 13 Secret Rares, 6 Special Art Rares, and 3 Ultra Rares. The headline card is Team Rocket's Mewtwo ex, printed four times across four rarity tiers: RR 039, SR 114, SAR 125, and UR 130. The set is Glory of Team Rocket, released in Japan on April 18, 2025, and it brought Team Rocket's Pokemon back after a twenty-year gap, with 84 of its 132 cards carrying a Team Rocket connection. Packs retailed at 180 yen for 5 cards, a box at 30 packs, and the original retail for a box was 5,400 yen.",
+          "The second finding the card lists underplay is the English merge, and it changes what the Japanese set is. English Destined Rivals, released May 30, 2025, is not the English SV10: it merges SV10 with Heat Wave Arena, released March 14, 2025, into a 244-card set, and adds starter-set cards on top. A buyer who wants the pure Team Rocket set buys Japanese; a buyer who wants the combined set in English buys Destined Rivals. Cards from this era carry the H regulation mark, and Japan's Standard has allowed only H, I and J marks since January 23, 2026, which is the detail that decides legality in Japan, not the language on the card."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Team Rocket's Mewtwo ex, a guaranteed return, or the Attache Case Set, because no box guarantees any secret rare and the store does not stock the Attache Case Set. It is also not for the player who needs tournament-legal cards outside Asia, because the Japanese set is not the route for that player. And it is not for the buyer who wants the cheapest Japanese box on the shelf: that is [Battle Partners](/blog/is-sv9-worth-buying/) at $72.22, or $2.41 a pack, against SV10 at $6.03 a pack. Buy SV10 because you want Team Rocket, not because it is cheap, because it is not."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the format first: box to open, case to hold or split, single to own the Mewtwo.",
+          "Divide before you pay: box / 30 = $6.03 per pack, then / 5 = $1.21 per card; case / 12 = $129.02 per box.",
+          "Check the case saving: 12 x box - case = your saving, $624.29 today.",
+          "Compare the single: SAR / box = 2.00 today; if it rises above 3, the box is the worse way to chase it.",
+          "Confirm the case listing prints 12 boxes: this one does, in its title.",
+          "If you play outside Asia, buy Destined Rivals, not the Japanese set.",
+          "Check the seal before opening anything at this price, and store sealed boxes flat, cool, and dry."
+        ],
+        "h": "Action layer: the SV10 buying checklist",
+        "paragraphs": [
+          "Before paying for SV10 in either format, walk the list. The format question decides everything else, and the division decides whether the format is worth it: a box that divides to $6.03 a pack is a different purchase from a case that divides to $4.30 a pack, even though both contain the same cards. For the format question across the wider shelf, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles it, and for the value question across Japanese boxes, the [best value Japanese Pokemon booster box guide](/blog/best-value-japanese-pokemon-booster-boxes/) still frames the comparison.",
+          "When the next set lands, re-run the division: the first thing to check is whether the case still saves against twelve singles, and the second is whether the chase single still costs a sane multiple of the box. SV10 passes both tests today, at $624.29 saved and 2.00 times the box, and that is why the answer is yes for the box and yes for the case, and no for the chase."
+        ]
+      }
+    ],
+    "slug": "is-sv10-worth-buying",
+    "takeaway": [
+      "The SV10 box at $181.04 is worth buying if you want to open Team Rocket's set, and the case at $1,548.19 is worth buying if you want to hold or split it at $129.02 a box, saving $624.29 against twelve singles. The Mewtwo SAR at $362.00 costs 2.00 times the box, so buy the single if you want the card.",
+      "Prices move, so treat every number here as stamped: our box and case prices as of November 15, 2026, both 15.00 percent below our November 3 snapshot, and the TCGplayer figures as of November 2026, with the English SIR dated November 14, 2026. When the next set lands, re-run the division.",
+      "For the full set guide, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the box, the case, and the neighbors; for the sibling set, the [is SV9a worth buying guide](/blog/is-sv9a-worth-buying/) runs the same division on Heat Wave Arena; and for the format question, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles box against case across the shelf.",
+      "New to Japanese boxes? The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by per-box price, the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) prices the slab decision, and the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) keeps a case safe once you own it."
+    ]
+  },
   "is-sv11b-worth-buying": {
     "datePublished": "2026-11-11",
     "faqs": [
@@ -27255,7 +27729,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV9a box at $138.82 is $4.63 a pack and $0.93 a card, $105.01 above the derived 5,400 yen box price at 159.7 yen per dollar, while the case at $1,363.68 divides to $113.64 a box, $302.16 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
       "It is worth buying as the Heat Wave Arena set to open, sealed, and it is not worth buying as a way to own the Cynthia’s Garchomp ex Special Art Rare or to make the money back by opening. Garchomp ex sat at $215.54 on TCGplayer on November 13, 2026, which is 155.26 percent of a box, and the top three cards together sat at $384.48, which is 2.77 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $24.50 in nine days, from $163.32 to $138.82, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,604.33 to $1,363.68, which did not change the verdict, because the case saved money before the fall and saves $302.16 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
-      "Prices move, so treat every number here as stamped: our shelf prices as of November 15, 2026, and the marketplace references as of October 7 to November 13, 2026. The box now sits $8.18 below the Dexhaul observed floor of $147.00, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV9a Heat Wave Arena buyer’s guide](/blog/sv9a-heat-wave-arena-buyers-guide/) runs the November 6 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV9 Battle Partners worth buying guide](/blog/is-sv9-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 175.43 percent of a box and the case saves $57.16."
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 15, 2026, and the marketplace references as of October 7 to November 13, 2026. The box now sits $8.18 below the Dexhaul observed floor of $147.00, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV9a Heat Wave Arena buyer’s guide](/blog/sv9a-heat-wave-arena-buyers-guide/) runs the November 6 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV9 Battle Partners worth buying guide](/blog/is-sv9-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 175.43 percent of a box and the case saves $57.16.",
+      "For the other half of Destined Rivals at today's prices, the [is SV10 worth buying guide](/blog/is-sv10-worth-buying/) runs the November 15 box at $181.04 and the case at $1,548.19 against the Mewtwo ex SAR at $362.00."
     ]
   },
   "japanese-booster-box-price": {
@@ -37918,7 +38393,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "sv10-glory-of-team-rocket-buyers-guide",
     "takeaway": [
       "The SV10 box at $212.99 is the way to open Team Rocket's set, and the case at $1,821.40 is the way to hold or split it at $151.78 per box, saving $734.48 against twelve singles. The set is 132 cards from April 18, 2025, in 30 packs of 5, with Team Rocket's Mewtwo ex printed four times and no box guaranteeing any of them. Buy the box to open, buy the case to hold or split, buy the Mewtwo single if it is the only card you want, and buy English Destined Rivals if the cards need to be playable outside Asia. That is the whole article: one store, one date, every division shown.",
-      "For the other half of Destined Rivals, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $1,604.33 case at $133.69 a box, and the Cynthia's Garchomp ex SAR behind it — and the [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) carries both sets on the full thirty-two-box shelf."
+      "For the other half of Destined Rivals, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $1,604.33 case at $133.69 a box, and the Cynthia's Garchomp ex SAR behind it — and the [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) carries both sets on the full thirty-two-box shelf.",
+      "For the verdict on the set at today's prices, the [is SV10 worth buying guide](/blog/is-sv10-worth-buying/) runs the November 15 box at $181.04 and the case at $1,548.19 against the Mewtwo chase at $362.00."
     ]
   },
   "sv11b-black-bolt-buyers-guide": {
