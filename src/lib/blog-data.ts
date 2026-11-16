@@ -6486,6 +6486,192 @@ export const POSTS: Record<string, BlogPost> = {
       "For the cheapest box on the shelf, box by box, see [Cheapest Japanese Pokémon Booster Box](/blog/cheapest-japanese-pokemon-booster-box/). For the best-value ladder in full, see [Best Value Japanese Pokémon Booster Boxes](/blog/best-value-japanese-pokemon-booster-boxes/). For the case-versus-box division, see [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). For grading, see [Is PSA Grading Japanese Cards Worth It](/blog/psa-grading-japanese-cards-worth-it/)."
     ]
   },
+  "best-japanese-pokemon-booster-box-pre-order": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "Pre-order it only if you want the Z Mega Evolution chase on release week and you accept paying 2.66 to 4.00 times the official price. Independent shops list the Aura Seeker box at $99.99 to $149.95 as of November 7, 2026, against an official box of ¥6,000, or $37.52 at the ¥159.9 rate of November 13, 2026. The Warehouse has no M7 pre-order listed as of November 16, 2026. If you can wait, wait: Storm Emeralda listed at ¥18,000 to ¥20,000 at launch on August 3, 2026, and our box is $70.38 today, $42.19 below the low launch ask.",
+        "q": "Should I pre-order Aura Seeker M7 or wait until release week?"
+      },
+      {
+        "a": "The official Japanese box is 30 packs at ¥200 a pack, or ¥6,000, which is $37.52 at the ¥159.9 rate of November 13, 2026, or $1.25 a pack. The independent pre-order asks we found are $99.99 to $149.95 a box, or $3.33 to $5.00 a pack. That is a pre-order premium of $62.47 to $112.43 a box over the official price, and the spread between the cheapest and dearest ask is $49.96 for the same sealed box.",
+        "q": "How much is a Japanese Pokemon booster box pre-order versus the official price?"
+      },
+      {
+        "a": "Not as of November 16, 2026. The Warehouse shelf carries the MEGA sets that have already released, from M1L Mega Brave at $80.67 to M6 Storm Emeralda at $70.38, and the live pre-order on our shelf is One Piece OP-18, at $71.40 a box and $770.10 a case, releasing in Japan on November 21, 2026. When an M7 listing goes live it will appear on the product shelf with its own price; until then, no Warehouse pre-order price exists to quote, and this guide will not invent one.",
+        "q": "Does the Warehouse have Aura Seeker M7 for pre-order?"
+      }
+    ],
+    "h1": "Japanese Pokemon Booster Box Pre-Orders: Buy the Window, Not the Hype",
+    "intro": [
+      "Short answer: the only Japanese Pokemon booster box pre-order window open right now is Aura Seeker, set code M7, releasing in Japan on Friday, November 27, 2026. Independent shops list the box at $99.99 to $149.95 as of November 7, 2026, against an official box of ¥6,000, or $37.52 at the ¥159.9 rate of November 13, 2026, so the pre-order asks 2.66 to 4.00 times the official price. The Warehouse has no M7 pre-order listed as of November 16, 2026, and the live pre-order on our shelf is One Piece OP-18 at $71.40 a box. Pre-order M7 only if you want the Z Mega Evolution chase on release week; everyone else should wait, because the last MEGA set to launch fell $42.19 below its launch ask within three months.",
+      "Who this is for: collectors who want a new set on release week, players building a card pool from the newest set, and buyers who decide with a calculator. Who it is not for: anyone chasing one named card, who should buy the single; anyone who needs English cards for tournament play; and anyone who assumes a pre-order price is the official price, because it never is."
+    ],
+    "metaDescription": "Japanese Pokemon pre-order guide: Aura Seeker M7 releases Nov 27, 2026. Pre-orders $99.99-$149.95 vs $37.52 official, the wait math, and the verdict.",
+    "metaTitle": "Best Japanese Pokemon Booster Box Pre-Order Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: M7 is the window, and the price is the question",
+        "paragraphs": [
+          "Aura Seeker is the Japanese Pokemon Card Game MEGA Expansion Pack Hadou Seeker, set code M7, releasing in Japan on Friday, November 27, 2026, according to the official set page. A pack holds 5 cards at an official ¥200, and a box holds 30 packs, which puts the official box at ¥6,000, or $37.52 at the ¥159.9 rate of November 13, 2026. The set is 78 cards plus an estimated 35 to 40 secret rares, led by the first Z Mega Evolution ex cards: Mega Lucario Z ex, Mega Garchomp Z ex, and Mega Absol Z ex. The one Special Art Rare the official page names is Crasher Wake's Passion, No. 113/078, with new artwork by manga artist Tetsuo Hara, announced November 6, 2026.",
+          "The pre-order market has already priced the box far above official. Independent shops list the M7 box at $99.99 to $149.95 as of November 7, 2026, or $3.33 to $5.00 a pack against the official $1.25. The spread between the cheapest and dearest ask is $49.96 for the same sealed box, wider than the official box price itself. That premium buys one thing only: the box on release week, before the market decides what it is worth.",
+          "The Warehouse position is plain, because it has to be. We have no M7 pre-order listed as of November 16, 2026, so there is no Warehouse M7 price in this guide. What we do have is the live pre-order on our shelf, and it is the honest example of how our pre-orders work: the [ONE PIECE OP-18 Japanese Booster Box Pre-Order](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is $71.40, and the [OP-18 case pre-order](/product/one-piece-op-18-japanese-booster-box-case-pre-order-one-piece-card-game/) is $770.10, for a set releasing in Japan on November 21, 2026. Read the full OP-18 numbers in our [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/)."
+        ]
+      },
+      {
+        "h": "The money layer: what a pre-order actually costs",
+        "paragraphs": [
+          "Start with the official price, because every pre-order premium is measured against it. The M7 box is 30 packs at ¥200, or ¥6,000, which is $37.52 at our rate. The low ask of $99.99 is 2.66 times that, and the high ask of $149.95 is 4.00 times that. Per pack, the official price is $1.25, the low ask is $3.33, and the high ask is $5.00. A buyer who pre-orders at the high ask pays $3.75 a pack for ordering early, on a product whose full card list has not been published.",
+          "The live example on our shelf shows what a Warehouse pre-order looks like when the numbers are run. The OP-18 box pre-order is $71.40 for 24 packs, or $2.98 a pack, and the case pre-order is $770.10 for 12 boxes, or $64.18 a box and $2.67 a pack. Twelve singles come to $856.80, so the case saves $86.70, or 10.12 percent, and the release date is five days away.",
+          "The wait side of the ledger is where this guide earns its keep, because the last three MEGA sets all got cheaper after release. [M6 Storm Emeralda](/product/m6-storm-emeralda-booster-box-japanese-pokemon-card/) listed at ¥18,000 to ¥20,000 on the flea market at launch on August 3, 2026, which is $112.57 to $125.08 at our rate. Our box is $70.38 today, $42.19 below the low launch ask and $2.35 a pack against an official $1.25. Waiting from August to November saved more than the official box price itself. [M5 Abyss Eye](/product/m5-abyss-eye-booster-box-japanese-pokemon-card/) listed at ¥10,000 to ¥12,000 on June 19, 2026, or $62.54 to $75.05, and our box is $77.87 today, $2.82 above the high launch ask: the one recent set where waiting did not pay, by less than three dollars.",
+          "The older MEGA sets frame the same pattern. [M2a MEGA Dream ex](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) is $97.55 on our shelf, against a Japanese buyback price of ¥11,500 on August 25, 2026, or $71.92, a gap of $25.63. [M3 Munikis Zero](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) is $60.03 against a buyback of ¥8,500 on August 28, 2026, or $53.16, a gap of $6.87. The [M6a 30th Celebration box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) is $211.65 today, up $4.15 from $207.50 on October 24, 2026, and $24.41 above the $187.24 TCGplayer market price of November 8, 2026: the one recent box that rose after release, and it is the 30th anniversary set, not a standard expansion. Full numbers are in our [M6a 30th Celebration guide](/blog/m6a-30th-celebration-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "M7 official box: 30 packs x 200 yen = 6,000 yen; 6,000 yen ÷ 159.9 = $37.52; 200 yen ÷ 159.9 = $1.25 per pack",
+          "M7 low ask: $99.99 ÷ 30 packs = $3.33 per pack; $99.99 ÷ $37.52 = 2.66x official; $99.99 - $37.52 = $62.47 premium",
+          "M7 high ask: $149.95 ÷ 30 packs = $5.00 per pack; $149.95 ÷ $37.52 = 4.00x official; $149.95 - $37.52 = $112.43 premium",
+          "M7 ask spread: $149.95 - $99.99 = $49.96; $49.96 ÷ $37.52 = 133.14% of the official box price",
+          "OP-18 box: $71.40 ÷ 24 packs = $2.98 per pack",
+          "OP-18 case: $770.10 ÷ 12 boxes = $64.18 per box; $770.10 ÷ 288 packs = $2.67 per pack",
+          "OP-18 case saving: 12 x $71.40 = $856.80; $856.80 - $770.10 = $86.70; $86.70 ÷ $856.80 = 10.12%",
+          "M6 launch: 18,000 yen ÷ 159.9 = $112.57; 20,000 yen ÷ 159.9 = $125.08",
+          "M6 wait saving: $112.57 - $70.38 = $42.19; $125.08 - $70.38 = $54.70",
+          "M6 today: $70.38 ÷ 30 packs = $2.35 per pack; $70.38 ÷ $37.52 = 1.88x official; $70.38 - $37.52 = $32.86 above official",
+          "M5 launch: 10,000 yen ÷ 159.9 = $62.54; 12,000 yen ÷ 159.9 = $75.05; $77.87 - $75.05 = $2.82 above the high launch ask",
+          "M5 today: $77.87 ÷ 30 packs = $2.60 per pack; $77.87 ÷ $37.52 = 2.08x official",
+          "M2a: 11,500 yen ÷ 159.9 = $71.92 buyback; $97.55 - $71.92 = $25.63 gap; $97.55 ÷ 10 packs = $9.75 per pack; 5,500 yen ÷ 159.9 = $34.40 official; $97.55 ÷ $34.40 = 2.84x official",
+          "M3: 8,500 yen ÷ 159.9 = $53.16 buyback; $60.03 - $53.16 = $6.87 gap; $60.03 ÷ 30 packs = $2.00 per pack; $60.03 ÷ $37.52 = 1.60x official",
+          "M6a: $211.65 - $207.50 = $4.15; $4.15 ÷ $207.50 = 2.00% since October 24, 2026; $211.65 - $187.24 = $24.41 above TCGplayer; $24.41 ÷ $187.24 = 13.04%",
+          "M6a per pack: $211.65 ÷ 20 packs = $10.58 per pack; $211.65 ÷ 120 cards = $1.76 per card"
+        ],
+        "paragraphs": []
+      },
+      {
+        "h": "The decision layer: pre-order, wait, or buy what is on the shelf",
+        "paragraphs": [
+          "Six routes, one table. The M7 pre-order at the low ask and at the high ask are two different buys, because $49.96 separates them for the same sealed box. Waiting for M7 is the free route that has paid on the last three launches, and the M6 box is the cheapest way into the current MEGA era.",
+          "Read the table by what each route buys. The low M7 ask buys release-week certainty at 2.66 times official; the high ask buys the same certainty at 4.00 times official, which is the price of not shopping around. Waiting buys the market's verdict, cheaper three times out of four. The M6a box buys the anniversary premium, and the M6 box buys the current era at $2.35 a pack."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack",
+            "What it buys",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "M7 pre-order, low ask",
+              "$99.99",
+              "$3.33",
+              "30 packs on release week, Z Mega Evolution chase",
+              "The only pre-order worth considering"
+            ],
+            [
+              "M7 pre-order, high ask",
+              "$149.95",
+              "$5.00",
+              "The same 30 packs, $49.96 dearer",
+              "Never pay the high ask"
+            ],
+            [
+              "Wait for M7 release week",
+              "$0 now",
+              "n/a",
+              "The market price after November 27, 2026",
+              "The default play; waiting paid 3 of 4 times"
+            ],
+            [
+              "M6a 30th Celebration box",
+              "$211.65",
+              "$10.58",
+              "20 packs of 6 cards, every card holographic",
+              "Only for the anniversary premium"
+            ],
+            [
+              "M6 Storm Emeralda box",
+              "$70.38",
+              "$2.35",
+              "30 packs of the current MEGA set, in stock",
+              "Best value in the current era"
+            ],
+            [
+              "OP-18 pre-order case",
+              "$770.10",
+              "$2.67",
+              "12 One Piece boxes at $64.18 each",
+              "The live pre-order that earns its keep"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the wait math and the missing shelf",
+        "note": "From the Warehouse: the question we get most about pre-orders is whether the price on the page is the price at checkout, and the honest answer is that a pre-order price is a seller's ask, not the official price. The official M7 box is ¥6,000, or $37.52, and every pre-order ask we found is at least $62.47 above that. We would rather a buyer see the premium written out than discover it after paying.",
+        "paragraphs": [
+          "No top guide for this query runs the wait math, because none of them has our shelf. The guides that list M7 pre-order prices quote the asks and stop. Our shelf shows what happened after the last launch: Storm Emeralda listed at ¥18,000 to ¥20,000 on August 3, 2026, and our box is $70.38 today, $42.19 below the low launch ask. The last buyer who waited saved more than the official box price.",
+          "The second miss is the missing shelf. The guides that recommend pre-ordering M7 do not say whether the shop they are writing for stocks it, and we will say it plainly: the Warehouse has no M7 pre-order listed as of November 16, 2026. A recommendation to pre-order from a shop that does not list the product is a recommendation to shop elsewhere, and this page says so instead of pretending otherwise. The live pre-order on our shelf is OP-18, and its numbers are in the table above."
+        ]
+      },
+      {
+        "h": "The practical layer: how a Warehouse pre-order works",
+        "paragraphs": [
+          "First, check the product page, not the search result. A pre-order listing states the product, the price, and the release it is tied to: the OP-18 box page states the pre-order and the November 21, 2026 Japanese release. If the page states no release date, do not assume one. The M7 release date is November 27, 2026, and any M7 listing on our shelf will carry it.",
+          "Second, divide before you pay. A pre-order box is 30 packs for M7, 24 packs for OP-18, and 20 packs for M6a, and the per-pack price is the only number that compares across sets. The M7 low ask is $3.33 a pack, the OP-18 box is $2.98 a pack, and the M6 box in stock is $2.35 a pack. A pre-order dearer per pack than the shelf needs a reason, and the only reason is release-week certainty.",
+          "Third, confirm the ship timing at checkout. A pre-order ships after the Japanese release date, not before it, and an order containing a pre-order item waits for it. OP-18 releases November 21, 2026, so an OP-18 pre-order placed today ships after that date; the same rule will apply to M7 on November 27, 2026. Pack counts for every format are in our [booster box pack-count guide](/blog/how-many-packs-in-a-booster-box/), and the rarity symbols are explained in our [Japanese rarity guide](/blog/japanese-pokemon-rarity-symbols-explained/).",
+          "Fourth, check the seal when it arrives. A pre-order box is still a sealed box: tight factory shrink with the micro-perforated seam, no re-glued flaps, no loose packs. Our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) walks through the checks, and our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) covers what to do with the box once it is in your hands."
+        ]
+      },
+      {
+        "h": "The risk layer: lottery, reprint, and the card list you do not have yet",
+        "paragraphs": [
+          "Three risks decide whether an M7 pre-order earns anything. First, the allocation risk: Japanese releases of hot sets sell through lotteries at Pokemon Center Online and card shops, and a pre-order ask of $149.95 prices in scarcity that may or may not exist. If the set is widely available on release week, the premium evaporates, and Storm Emeralda is the precedent: ¥18,000 at launch, $70.38 three months later.",
+          "Second, the card-list risk: the official M7 page names 15 cards, and the full list has not been published. The three Z Mega Evolution ex cards and one SAR are confirmed; everything else is unannounced, so a pre-order today cannot be matched to a single target card. A buyer chasing one named card should buy the single when it exists, not the box before it does. See our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) before paying a premium for a graded chase.",
+          "Third, the reprint risk: The Pokemon Company does not publish print runs, so no pre-order buyer can verify scarcity from an official source, and a reprint compresses the premium on every sealed format at once. The M6a box rose after release, but it is a 30th anniversary product with a fixed celebration window, not a standard expansion. A standard expansion like M7 has no such window."
+        ]
+      },
+      {
+        "h": "Context: Japan's pre-order window versus the English wait",
+        "paragraphs": [
+          "The Japanese release comes first, and the English version follows months later. PokeBeach reports that the English version of the M7 cards arrives as Flowing Fists on February 5, 2027, with prereleases from January 23 to 31. That name and date are PokeBeach's reporting, not an official Pokemon announcement. The Japanese set is the official part; the English date is the reported part.",
+          "The release calendar also explains why the M7 window feels urgent and why it mostly is not. M6 Storm Emeralda released July 31, 2026, M6a followed on September 16, 2026 as a worldwide release, and M7 lands November 27, 2026: three releases in four months. A buyer who pre-ordered every one at the high ask paid the premium three times. A buyer who waited on M6 saved $42.19, and on M5 saved nothing, because that set's launch asks were already low. The pattern is not that waiting always wins; it is that the premium is only worth paying when the set has a chase the market cannot get anywhere else, and only the low ask prices that in.",
+          "Japanese cards are generally not legal at official events outside Asia, so the English set is the play route and the Japanese set is the collect route. If the cards are for play, wait for the English release; if they are for the collection, the Japanese pre-order is the earliest route in, and the price of being earliest is in the table above. The full shelf is in our [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants to pre-order on hype without a plan for the cards. It is not for anyone chasing one named card, because no box guarantees a Z Mega Evolution ex and the full card list is unpublished. It is not for a player outside Asia who needs tournament-legal cards, because Japanese cards are generally not legal at official events outside Asia. And it is not for anyone who cannot afford to have the money locked down until after November 27, 2026.",
+          "This guide is also not for anyone who wants the cheapest M7 box, because that box does not exist yet. It will exist after release week, when the market has decided what the set is worth, and the Storm Emeralda numbers show how far that decision can move. If the cheapest box is the goal, the goal is a date, not a pre-order: wait for release week, re-divide, and then decide. Our [pre-order or wait guide](/blog/preorder-japanese-booster-box-or-wait/) runs the same decision for every set."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the set and the date first: Aura Seeker M7, releasing in Japan on Friday, November 27, 2026, 30 packs of 5 cards at ¥200 a pack.",
+          "Divide before you pay: the official box is $37.52, the low ask is $99.99 at $3.33 a pack, and the high ask is $149.95 at $5.00 a pack. Never pay the high ask.",
+          "Check our shelf before you shop elsewhere: as of November 16, 2026, the Warehouse has no M7 pre-order listed, and the live pre-order is OP-18 at $71.40 a box and $770.10 a case.",
+          "Compare against the shelf: the M6 box in stock is $70.38 at $2.35 a pack, and the M6a box is $211.65 at $10.58 a pack. A pre-order dearer per pack than the shelf needs release-week certainty to justify it.",
+          "Confirm the ship timing at checkout: a pre-order ships after the Japanese release date, and an order containing one waits for it.",
+          "Re-divide on release week: every price here is stamped November 16, 2026, and the pre-order asks are dated November 7, 2026. The market moves after November 27, and the verdict moves with it."
+        ],
+        "h": "Action layer: the pre-order checklist",
+        "paragraphs": [
+          "Run this in order, before the next pre-order window you care about. It takes ten minutes and it replaces a month of watching prices with a decision you made while calm."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-booster-box-pre-order",
+    "takeaway": [
+      "Aura Seeker M7 releases in Japan on Friday, November 27, 2026: 30 packs of 5 cards at ¥200 a pack, an official box of ¥6,000, or $37.52 at the ¥159.9 rate of November 13, 2026, against independent pre-order asks of $99.99 to $149.95, or 2.66 to 4.00 times official.",
+      "The Warehouse has no M7 pre-order listed as of November 16, 2026; the live pre-order on our shelf is One Piece OP-18 at $71.40 a box and $770.10 a case, releasing November 21, 2026.",
+      "Waiting paid on the last MEGA launch: Storm Emeralda listed at ¥18,000 to ¥20,000 on August 3, 2026, and our box is $70.38 today, $42.19 below the low launch ask."
+    ]
+  },
   "best-japanese-pokemon-booster-box-to-buy": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -6648,7 +6834,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Before you buy: the checklist",
         "paragraphs": [
-          "Seven checks, in order. The shelf does the rest, and the shelf on November 4, 2026 says: M3 for the smallest cheque, M2 for the cheapest verified pack, M2a for the cheapest verified card, SV11 for the twin set with the case story, and M6a for the anniversary itself. For the same ninety boxes priced in euros, the [Japanese Pokemon booster box Netherlands price guide](/blog/japanese-pokemon-booster-box-netherlands-price/) lands every box at the EUR 150 rules. For the same ninety boxes priced in baht with duty and 7% VAT from the first baht, the [Japanese Pokemon booster box Thailand price guide](/blog/japanese-pokemon-booster-box-thailand-price/) lands every box under the 219/2568 rules."
+          "Seven checks, in order. The shelf does the rest, and the shelf on November 4, 2026 says: M3 for the smallest cheque, M2 for the cheapest verified pack, M2a for the cheapest verified card, SV11 for the twin set with the case story, and M6a for the anniversary itself. For the same ninety boxes priced in euros, the [Japanese Pokemon booster box Netherlands price guide](/blog/japanese-pokemon-booster-box-netherlands-price/) lands every box at the EUR 150 rules. For the same ninety boxes priced in baht with duty and 7% VAT from the first baht, the [Japanese Pokemon booster box Thailand price guide](/blog/japanese-pokemon-booster-box-thailand-price/) lands every box under the 219/2568 rules. The live pre-order window is covered in our [Japanese Pokemon booster box pre-order guide](/blog/best-japanese-pokemon-booster-box-pre-order/), which prices the Aura Seeker M7 asks against the $37.52 official box."
         ]
       }
     ],
@@ -7647,6 +7833,230 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [Japanese Pokémon cards price index](/blog/japanese-pokemon-cards-price/) puts the case ladder beside every other format, with the five premium boxes priced for the first time."
     ]
   },
+  "best-japanese-pokemon-special-set": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "It depends on what you want the box for. For opening, Shiny Treasure ex SV4a is the cheapest entry at $120.05, or $12.01 a pack with a Pokemon ex guaranteed in every pack. For the Eeveelution art, Terastal Festival ex SV8a is $138.82, or $13.88 a pack. For holding sealed, Pokemon Card 151 SV2a is the dearest box at $400.52, but its case divides to $269.83 a box and saves $1,568.32 against twelve singles, the largest case saving on this shelf. Every price is a Warehouse price as of November 16, 2026.",
+        "q": "What is the best Japanese Pokemon special set to buy?"
+      },
+      {
+        "a": "A High Class Pack is a Japanese premium format: 10 packs of 10 cards, a Pokemon ex, V, VSTAR or VMAX guaranteed in every pack, and a deep secret-rare block of full-art cards. A standard expansion box is 30 packs of 5 cards with no per-pack guarantee. That is why a special set box costs $12.01 to $24.76 a pack on our shelf while a standard box costs $2.00 to $2.60 a pack. You are paying for the guarantee and the art, not for more cards.",
+        "q": "What is the difference between a special set and a normal booster box?"
+      },
+      {
+        "a": "Yes, and this shelf shows both directions. Shiny Star V S4a is $144.47 on our shelf against a $170.44 TCGplayer market price on November 8, 2026, or $25.97 below the market. Eevee Heroes S6a is $985.83 against a $805.09 TCGplayer market price, or $180.74 above it, and Pokemon GO S10b is $220.42 against $145.76, or $74.66 above it. Divide before you pay, and check the market figure dated next to the price, because a sealed box is only a deal against a dated comparison.",
+        "q": "Can a special set box be cheaper than the market price?"
+      }
+    ],
+    "h1": "Best Japanese Pokemon Special Set: Every High-Class Pack on Our Shelf, Divided",
+    "intro": [
+      "Short answer: the best Japanese Pokemon special set depends on what you want the box for. For opening, Shiny Treasure ex SV4a at $120.05 is the cheapest way in, at $12.01 a pack with a Pokemon ex guaranteed in every pack. For the Eeveelution art, Terastal Festival ex SV8a at $138.82 is the set to open. For holding sealed, Pokemon Card 151 SV2a at $400.52 is the dearest box, and its case divides to $269.83 a box, saving $1,568.32 against twelve singles. Every price below is a Warehouse price as of November 16, 2026, and every division is shown.",
+      "Who this is for: collectors who want the high-class packs, buyers choosing between ten special sets on one shelf, and sealed holders who divide the case before they pay. Who it is not for: players building a deck, who should buy singles; anyone chasing one named card, who should buy the single; and anyone who assumes a box with Special in the name contains booster packs, because some of them do not, as our [special set gift guide](/blog/best-japanese-pokemon-special-set-to-buy/) explains."
+    ],
+    "metaDescription": "Best Japanese Pokemon special set ranked by shelf math: 151, Shiny Treasure ex, Terastal Festival ex, VSTAR Universe and six more, box and case divided.",
+    "metaTitle": "Best Japanese Pokemon Special Set: The Full Shelf",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: three sets, three different buyers",
+        "paragraphs": [
+          "A special set is not one product. On our shelf it is ten different boxes, from $120.05 to $1,461.40, and the best one changes with the buyer. The opener buys [Shiny Treasure ex SV4a](/product/sv4a-shiny-treasure-ex-booster-box-japanese-pokemon-card/) at $120.05, the cheapest box at $12.01 a pack, with a Pokemon ex guaranteed in every one of its 10 packs. The art collector buys [Terastal Festival ex SV8a](/product/sv8a-terastal-festival-ex-booster-box-japanese-pokemon-card/) at $138.82, the Eeveelution set, led by Umbreon ex. The sealed holder buys [Pokemon Card 151 SV2a](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) at $400.52, or better, the [151 case](/product/sv2a-pokemon-card-151-sealed-case-12-boxes-japanese-pokemon-card/) at $3,237.92, which divides to $269.83 a box and saves $1,568.32 against twelve singles.",
+          "The rest of the shelf fills the gaps. [VSTAR Universe S12a](/product/vstar-universe-booster-box-s12a/) at $205.42 is the Sword and Shield finale, with 262 cards and four gold VSTAR Ultra Rares. [VMAX Climax S8b](/product/vmax-climax-booster-box-s8b-japanese-pokemon-cards/) at $247.64 is the character-rare set. [Shiny Star V S4a](/product/shiny-star-v-booster-box-s4a-japanese-pokemon-cards/) at $144.47 is the cheapest way into the shiny format, and it is $25.97 below the TCGplayer market price. [Eevee Heroes S6a](/product/eevee-heroes-booster-box-s6a-japanese-pokemon-cards/) at $985.83 is the dearest opener on the shelf, and the only one whose chase is a single card worth more than the box: the Umbreon VMAX alternate art. The full guides for the big three are our [151 guide](/blog/sv2a-pokemon-151-buyers-guide/), our [Shiny Treasure ex guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/), and our [Terastal Festival ex guide](/blog/sv8a-terastal-festival-ex-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "The money layer: the full shelf ladder",
+        "paragraphs": [
+          "Start with the per-pack price, because it is the only number that compares a 10-pack box with a 30-pack box. The cheapest per pack on this shelf is Pokemon GO S10b at $11.02, because its box holds 20 packs of 6 cards. The dearest is GX Ultra Shiny SM8b at $146.14. Between them, the three big sellers sit close together: Shiny Treasure ex at $12.01 a pack, Terastal Festival ex at $13.88, and Shiny Star V at $14.45.",
+          "The official price anchors the ladder. Eight of these ten sets launched at ¥5,500 a box, or $34.40 at the ¥159.9 rate of November 13, 2026. The exceptions are 151 at ¥5,800, or $36.27, and Eevee Heroes at ¥4,950, or $30.96. Against that anchor, Shiny Treasure ex is 3.49 times official, Terastal Festival ex is 4.04 times, and GX Ultra Shiny is 42.48 times. The multiple tells you how far the box has travelled; the market comparison tells you whether our shelf is above or below where it travelled to.",
+          "The market comparison shows both directions. Shiny Star V is $144.47 against a $170.44 TCGplayer market price on November 8, 2026, or $25.97 below the market. Eevee Heroes is $985.83 against $805.09, or $180.74 above it, and Pokemon GO is $220.42 against $145.76, or $74.66 above it. VSTAR Universe is $205.42 against a SNKRDUNK ask of ¥25,999 on October 2, 2026, or $162.60, which puts our box $42.82 above it. Terastal Festival ex is $138.82 against a ¥20,200 ask on August 12, 2026, or $126.33, which puts our box $12.49 above it. Shiny Treasure ex is $120.05 against a ¥18,850 ask, or $117.89, which puts our box $2.16 above it. The full shelf is in our [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/), and the case ladder is in our [best sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/)."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "151 box: $400.52 ÷ 20 packs = $20.03 per pack; $400.52 ÷ 140 cards = $2.86 per card",
+          "151 case: $3,237.92 ÷ 12 boxes = $269.83 per box; $3,237.92 ÷ 240 packs = $13.49 per pack; $3,237.92 ÷ 1,680 cards = $1.93 per card",
+          "151 case saving: 12 x $400.52 = $4,806.24; $4,806.24 - $3,237.92 = $1,568.32; $1,568.32 ÷ $4,806.24 = 32.63%",
+          "151 official: 5,800 yen ÷ 159.9 = $36.27; $400.52 ÷ $36.27 = 11.04x official",
+          "SV4a box: $120.05 ÷ 10 packs = $12.01 per pack; $120.05 ÷ 100 cards = $1.20 per card",
+          "SV4a case: $1,960.19 ÷ 20 boxes = $98.01 per box; $1,960.19 ÷ 200 packs = $9.80 per pack; $1,960.19 ÷ 2,000 cards = $0.98 per card",
+          "SV4a case saving: 20 x $120.05 = $2,401.00; $2,401.00 - $1,960.19 = $440.81; $440.81 ÷ $2,401.00 = 18.36%",
+          "SV4a official: 5,500 yen ÷ 159.9 = $34.40; $120.05 ÷ $34.40 = 3.49x official",
+          "SV8a box: $138.82 ÷ 10 packs = $13.88 per pack; $138.82 ÷ 100 cards = $1.39 per card",
+          "SV8a case: $2,314.69 ÷ 20 boxes = $115.73 per box; $2,314.69 ÷ 200 packs = $11.57 per pack; $2,314.69 ÷ 2,000 cards = $1.16 per card",
+          "SV8a case saving: 20 x $138.82 = $2,776.40; $2,776.40 - $2,314.69 = $461.71; $461.71 ÷ $2,776.40 = 16.63%",
+          "SV8a official: $138.82 ÷ $34.40 = 4.04x official",
+          "S12a box: $205.42 ÷ 10 packs = $20.54 per pack; $205.42 ÷ 100 cards = $2.05 per card",
+          "S12a case: $3,266.35 ÷ 20 boxes = $163.32 per box; $3,266.35 ÷ 200 packs = $16.33 per pack",
+          "S12a case saving: 20 x $205.42 = $4,108.40; $4,108.40 - $3,266.35 = $842.05; $842.05 ÷ $4,108.40 = 20.50%",
+          "S12a official: $205.42 ÷ $34.40 = 5.97x official; SNKRDUNK: 25,999 yen ÷ 159.9 = $162.60; $205.42 - $162.60 = $42.82 above the ask",
+          "S8b box: $247.64 ÷ 10 packs = $24.76 per pack; $247.64 ÷ 110 cards = $2.25 per card",
+          "S8b case: $3,436.95 ÷ 20 boxes = $171.85 per box; $3,436.95 ÷ 200 packs = $17.18 per pack",
+          "S8b case saving: 20 x $247.64 = $4,952.80; $4,952.80 - $3,436.95 = $1,515.85; $1,515.85 ÷ $4,952.80 = 30.61%",
+          "S8b official: $247.64 ÷ $34.40 = 7.20x official",
+          "S6a box: $985.83 ÷ 30 packs = $32.86 per pack; $985.83 ÷ 150 cards = $6.57 per card",
+          "S6a market: $985.83 - $805.09 = $180.74 above TCGplayer; $180.74 ÷ $805.09 = 22.45%; official: 4,950 yen ÷ 159.9 = $30.96; $985.83 ÷ $30.96 = 31.84x official",
+          "S4a box: $144.47 ÷ 10 packs = $14.45 per pack; $144.47 ÷ 100 cards = $1.44 per card",
+          "S4a market: $170.44 - $144.47 = $25.97 below TCGplayer; $25.97 ÷ $170.44 = 15.24% below; official: $144.47 ÷ $34.40 = 4.20x official",
+          "SM8b box: $1,461.40 ÷ 10 packs = $146.14 per pack; $1,461.40 ÷ 100 cards = $14.61 per card; $1,461.40 ÷ $34.40 = 42.48x official",
+          "S10b box: $220.42 ÷ 20 packs = $11.02 per pack; $220.42 ÷ 120 cards = $1.84 per card",
+          "S10b market: $220.42 - $145.76 = $74.66 above TCGplayer; $74.66 ÷ $145.76 = 51.22%; official: $220.42 ÷ $34.40 = 6.41x official",
+          "S8a 25th box: $479.31 ÷ 16 packs = $29.96 per pack; $479.31 ÷ 64 cards = $7.49 per card; $479.31 ÷ $34.40 = 13.93x official"
+        ],
+        "paragraphs": []
+      },
+      {
+        "h": "The decision layer: which special set for which buyer",
+        "paragraphs": [
+          "Ten boxes, one table. The opener's row is the bottom of the per-pack ladder, the holder's row is the case saving, and the dearest row is the warning: GX Ultra Shiny at $146.14 a pack is a different purchase from Shiny Treasure ex at $12.01 a pack.",
+          "Read the table by the verdict column, not the price column. Shiny Treasure ex is the open, Terastal Festival ex is the art, the 151 case is the hold, and Shiny Star V is the value, because it is the only box on this shelf below its market price. Eevee Heroes is the chase, and Pokemon GO is the warning: $11.02 a pack looks cheap until the $74.66 market gap is counted."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Box",
+            "Per pack",
+            "What it buys",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Shiny Treasure ex SV4a",
+              "$120.05",
+              "$12.01",
+              "10 packs, ex guaranteed per pack, 360 cards",
+              "Open it: cheapest way in"
+            ],
+            [
+              "Terastal Festival ex SV8a",
+              "$138.82",
+              "$13.88",
+              "10 packs, all nine Eeveelution SARs",
+              "Open it for the art"
+            ],
+            [
+              "Shiny Star V S4a",
+              "$144.47",
+              "$14.45",
+              "10 packs, shiny format, below market",
+              "Best value on the shelf"
+            ],
+            [
+              "VSTAR Universe S12a",
+              "$205.42",
+              "$20.54",
+              "10 packs, 262 cards, four gold URs",
+              "Hold or open: the finale"
+            ],
+            [
+              "Pokemon GO S10b",
+              "$220.42",
+              "$11.02",
+              "20 packs of 6, Radiant cards",
+              "Cheap per pack, dear vs market"
+            ],
+            [
+              "VMAX Climax S8b",
+              "$247.64",
+              "$24.76",
+              "10 packs, character rares, god packs",
+              "Open it for the characters"
+            ],
+            [
+              "151 SV2a",
+              "$400.52",
+              "$20.03",
+              "20 packs, the original 151, Master Ball mirrors",
+              "Hold the case, open the box"
+            ],
+            [
+              "25th Anniversary S8a",
+              "$479.31",
+              "$29.96",
+              "16 packs of 4, classic reprints",
+              "Only for the anniversary"
+            ],
+            [
+              "Eevee Heroes S6a",
+              "$985.83",
+              "$32.86",
+              "30 packs, the Umbreon VMAX chase",
+              "Only for the chase"
+            ],
+            [
+              "GX Ultra Shiny SM8b",
+              "$1,461.40",
+              "$146.14",
+              "10 packs, the 2018 shiny set",
+              "Only for the completist"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case divisions and the market gaps",
+        "note": "From the Warehouse: the question we get most about special sets is whether the case is worth it, and the answer is always a division, never a feeling. The 151 case divides to $269.83 a box against a $400.52 single box, and the VMAX Climax case divides to $171.85 a box against a $247.64 single box. If the case does not divide below the single box, it is not a saving, and on this shelf every case does, by $22.04 to $130.69 a box.",
+        "paragraphs": [
+          "No top guide for this query divides the cases, because none of them has our shelf. The guides that rank special sets quote box prices and stop. Our shelf shows the case is often the real buy: the 151 case saves $1,568.32, the VMAX Climax case saves $1,515.85, and the VSTAR Universe case saves $842.05. The case buyer pays $269.83 a box for the same sealed 151 that the single-box buyer pays $400.52 for.",
+          "The second miss is the market gap in both directions. The guides that call Eevee Heroes the best special set do not say our box is $180.74 above the TCGplayer market price, and the guides that skip Shiny Star V do not say our box is $25.97 below it. A ranking without a market comparison is a ranking of art, not of value. The case ladder is in our [sealed case versus box guide](/blog/sealed-case-vs-booster-box-the-math/).",
+          "The third miss is the definition. The guides that list special sets mix three different products: High Class Packs with booster packs, gift boxes with no packs at all, and anniversary sets that are neither. Our [special set gift guide](/blog/best-japanese-pokemon-special-set-to-buy/) covers the gift boxes, including the 25th Anniversary Collection Special Set at $404.74, which holds a promo and supplies and zero booster packs. This page covers the booster-box special sets only, and the line between the two is the pack count."
+        ]
+      },
+      {
+        "h": "The chase layer: what each set is actually selling",
+        "paragraphs": [
+          "The chase is the reason the box costs what it costs, and each set sells a different one. Pokemon Card 151 sells the original 151 in Japanese, led by the Charizard ex and Mew ex Special Art Rares, Erika's Invitation, and the Master Ball mirror holos. The Japanese buyback was ¥52,000 on August 29, 2026, or $325.20, and the transaction market was ¥61,000 in July, or $381.49, which puts our $400.52 box $19.03 above the July figure. Terastal Festival ex sells the Eeveelutions, led by Umbreon ex and Sylveon ex, with Pikachu ex as the Ultra Rare. Its buyback was ¥18,000 on August 15, 2026, or $112.57, and the transaction market was ¥24,500 in May, or $153.22, which puts our $138.82 box between the two.",
+          "Shiny Treasure ex sells the shiny checklist: Mew ex and Charizard ex as Special Art Rares. Its SNKRDUNK ask was ¥18,850 on August 12, 2026, or $117.89, which puts our $120.05 box $2.16 above it. VSTAR Universe sells the gold Creation Trio: Arceus, Dialga, Palkia and Giratina as Ultra Rare gold cards, plus the Pikachu Art Rare that only appears in a god pack. VMAX Climax sells the character rares, plus god packs that replace a whole pack with Character Super Rares.",
+          "Eevee Heroes sells one card. The Umbreon VMAX alternate art, the Moonbreon, asked ¥400,000 on SNKRDUNK on October 5, 2026, or $2,501.56, and the CardZ last sold box price was $786 on November 10, 2026. Our box is $985.83, which is $180.74 above the TCGplayer market price and $199.83 above the last sold box. A buyer who opens Eevee Heroes is buying a chance at one card. Shiny Star V sells the shiny Charizard VMAX, GX Ultra Shiny sells the shiny Charizard GX, and Pokemon GO sells the Radiant Charizard. The rarity symbols on all of them are explained in our [Japanese rarity guide](/blog/japanese-pokemon-rarity-symbols-explained/), and the grading question is answered in our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/)."
+        ]
+      },
+      {
+        "h": "The risk layer: reprints, reseals, and the dearest boxes",
+        "paragraphs": [
+          "Three risks decide whether a special set earns anything. First, the reprint risk: The Pokemon Company does not publish print runs, so no sealed buyer can verify scarcity from an official source, and a reprint compresses the premium on every sealed format at once. The sets that launched in 2018, 2020 and 2021 have survived this long without a reprint, which is evidence, not a guarantee. The 2023 and 2024 sets are still in the window where a reprint is possible, and the 151 case buyer should know that before paying $3,237.92.",
+          "Second, the reseal risk, which is specific to the dearest boxes. A 151 box at $400.52 and an Eevee Heroes box at $985.83 are the boxes most worth faking, and a buyer who did not buy from our shelf should check the shrink and the flaps before paying. Our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) walks through the checks, and our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) covers what to do with the box once it is in your hands. A box bought sealed from a shop you trust is a different purchase from a box bought sealed from a stranger.",
+          "Third, the chase risk: most of these sets put their value in a small number of cards. The 151 box needs the Charizard or the Mew, the Terastal box needs an Eeveelution SAR, and the Eevee Heroes box needs the Umbreon VMAX. If the chase falls, the box has thin cover behind it. Opening a special set for profit is a lottery ticket with better art; opening it for the cards is a purchase, and the two should never be confused. See our [investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) before treating any sealed box as an asset."
+        ]
+      },
+      {
+        "h": "Context: what a special set is, and the English twins",
+        "paragraphs": [
+          "The High Class Pack is a Japanese format with a fixed shape: 10 packs of 10 cards, a Pokemon ex, V, VSTAR or VMAX guaranteed in every pack, and a secret block of full-art cards deeper than a standard set. The standard expansion box is 30 packs of 5 cards with no per-pack guarantee. That shape is why the per-pack price runs $12.01 to $24.76 on the recent sets, against $2.00 to $2.60 a pack for a standard MEGA box: the buyer pays for the guarantee and the art, not for more cards.",
+          "The release dates frame the shelf: GX Ultra Shiny on November 2, 2018, Shiny Star V on November 20, 2020, Eevee Heroes on May 28, 2021, VMAX Climax on December 3, 2021, the 25th Anniversary Collection on October 22, 2021, Pokemon GO on June 17, 2022, VSTAR Universe on December 2, 2022, Pokemon Card 151 on June 16, 2023, Shiny Treasure ex on December 1, 2023, and Terastal Festival ex on December 6, 2024. The two newest sets are the two cheapest boxes, and the dearest boxes are the 2018 set and the Eevee Heroes chase set: age moves the price, but the chase moves it more.",
+          "The English twins explain why the Japanese box costs what it costs. Shiny Treasure ex became Paldean Fates in January 2024, sold only inside larger products, never as a standalone booster box. Terastal Festival ex became Prismatic Evolutions in January 2025, again without a standalone English booster box. VSTAR Universe became Crown Zenith in 2023. The Japanese box is the only place to open most of these cards pack after pack, which is why the Japanese premium exists. Japanese cards are generally not legal at official events outside Asia, so the English set is the play route and the Japanese set is the collect route."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants to open packs for fun at the lowest price. It is not for anyone who wants a prediction, because no honest page can tell you what a 151 box will cost next month. It is not for a player outside Asia who needs tournament-legal cards. And it is not for anyone who cannot afford to have $400.52, or $3,237.92 for a case, sit on a shelf.",
+          "This guide is also not for anyone building a complete set by opening boxes. The 151 set is 210 cards, Shiny Treasure ex is 360 cards, and Terastal Festival ex is 237 cards, and no box guarantees any named card. Opening boxes to complete a set costs more than buying the singles, every time. If you want every card, buy the cards. Our [open or keep sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) runs that decision on its own."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the buyer first: opener, art collector, or sealed holder.",
+          "Divide before you pay: the cheapest per pack is Pokemon GO at $11.02, and the dearest is GX Ultra Shiny at $146.14. The three big sellers are $12.01, $13.88 and $14.45 a pack.",
+          "Divide the case too: the 151 case is $269.83 a box against a $400.52 single box, and the VMAX Climax case is $171.85 a box against a $247.64 single box.",
+          "Check the market gap: Shiny Star V is $25.97 below TCGplayer, and Eevee Heroes is $180.74 above it.",
+          "Name the chase before you buy: one card carries each of these sets, and no box guarantees it.",
+          "Re-divide before you pay: every price here is stamped November 16, 2026, and the market figures are dated August 12 to November 10, 2026."
+        ],
+        "h": "Action layer: the special set checklist",
+        "paragraphs": [
+          "Run this before you pay for a special set. Five minutes replaces a shelf of generic rankings with a decision built on the products you can actually buy."
+        ]
+      }
+    ],
+    "slug": "best-japanese-pokemon-special-set",
+    "takeaway": [
+      "The best Japanese Pokemon special set depends on the buyer: Shiny Treasure ex SV4a at $120.05, or $12.01 a pack, for opening; Terastal Festival ex SV8a at $138.82 for the Eeveelution art; Pokemon Card 151 SV2a at $400.52 a box, or $269.83 a box in the case, for holding sealed.",
+      "The case is often the real buy: the 151 case saves $1,568.32, the VMAX Climax case saves $1,515.85, and the VSTAR Universe case saves $842.05 against single boxes.",
+      "The market gap runs both ways on our shelf: Shiny Star V is $25.97 below the TCGplayer market price of November 8, 2026, while Eevee Heroes is $180.74 above it and Pokemon GO is $74.66 above it."
+    ]
+  },
   "best-japanese-pokemon-special-set-to-buy": {
     "datePublished": "2026-11-03",
     "faqs": [
@@ -7801,7 +8211,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the special set checklist",
         "paragraphs": [
-          "Run this before paying. It takes five minutes and it replaces a shelf of generic special-set rankings with a decision built on the products you can actually buy."
+          "Run this before paying. It takes five minutes and it replaces a shelf of generic special-set rankings with a decision built on the products you can actually buy. The booster-box side of the category is ranked in our [best Japanese Pokemon special set guide](/blog/best-japanese-pokemon-special-set/), which divides all ten High Class Packs on our shelf, box and case."
         ]
       }
     ],
@@ -32749,7 +33159,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the checklist",
         "paragraphs": [
-          "Run this in order before the next box you buy. Five minutes replaces an afternoon of comparing listings with a decision made while calm. For the same ninety boxes priced in ringgit with the 10% tax already inside, the [Japanese Pokemon booster box Malaysia price guide](/blog/japanese-pokemon-booster-box-malaysia-price/) runs the RM500 line across the whole shelf."
+          "Run this in order before the next box you buy. Five minutes replaces an afternoon of comparing listings with a decision made while calm. For the same ninety boxes priced in ringgit with the 10% tax already inside, the [Japanese Pokemon booster box Malaysia price guide](/blog/japanese-pokemon-booster-box-malaysia-price/) runs the RM500 line across the whole shelf. The special-set boxes are ranked on their own in our [best Japanese Pokemon special set guide](/blog/best-japanese-pokemon-special-set/), with the full shelf ladder and the case divisions."
         ]
       }
     ],
@@ -40654,7 +41064,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the pre-order decision, as a checklist",
         "paragraphs": [
-          "Run this in order, before the next release you care about. It takes ten minutes and it replaces a month of watching prices with a decision you made while calm."
+          "Run this in order, before the next release you care about. It takes ten minutes and it replaces a month of watching prices with a decision you made while calm. For the live window right now, our [Japanese Pokemon booster box pre-order guide](/blog/best-japanese-pokemon-booster-box-pre-order/) runs the Aura Seeker M7 numbers: the $99.99 to $149.95 asks against the $37.52 official box, and the wait math from the last three launches."
         ]
       }
     ],
