@@ -1076,6 +1076,195 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best Japanese One Piece cards guide](/blog/best-japanese-one-piece-cards/) prices all 54 Japanese One Piece items, boxes, cases, and promos, from one shelf."
     ]
   },
+  "best-disney-lorcana-booster-box": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "No. We sell Lorcana as sealed cases of four boxes, not single boxes, so the per-box price is the case price divided by four. Reign of Jafar works out to $98.48 a box that way, Azurite Sea to $101.29, and Hyperia City to $153.00. If you want exactly one box, buy it at a local store at the $143.76 list price, or split a case with three friends and pay the per-box price each.",
+        "q": "Can I buy a single Lorcana booster box from this store?"
+      },
+      {
+        "a": "By expected value at a single-box price, Whispers in the Well: a June 2026 study using market prices put its return at about 91 cents per dollar at a ~$110 box, ahead of Winterspell and Wilds Unknown at roughly a 23% loss on the same method. That study used a ~$110 box, not our $216.54 case-derived box — at our price the same card value returns about 46 cents per dollar. By chase ceiling, Wilds Unknown, whose Buzz Lightyear Iconic tops $3,500 at market. By cheapest entry, Reign of Jafar at $98.48 a box.",
+        "q": "Which Lorcana set gives the best value per box?"
+      },
+      {
+        "a": "No. Ravensburger rotates the four oldest sets out of Core Constructed once a year, and the July 17, 2026 rotation removed Sets 5-8, including Reign of Jafar, so Core Constructed is Fabled onward, Sets 9-14. If you buy to play Core Constructed events, check the current legal list before buying any set older than Fabled, and weight recent sets more heavily. If you buy to open or hold sealed, rotation matters far less than the per-box price.",
+        "q": "Are older Lorcana sets still legal to play?"
+      }
+    ],
+    "h1": "Best Disney Lorcana Booster Box: Every Set Ranked",
+    "intro": [
+      "Short answer: the best Disney Lorcana booster box depends on what you are buying it for, but the price ladder does not. On our shelf as of November 16, 2026, [Reign of Jafar](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) is the cheapest box at $98.48, [Whispers in the Well](/product/disney-lorcana-whispers-in-the-well-booster-box-sealed-case-set-10-english/) carries the strongest expected-value card pool at $216.54, and [Hyperia City](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) is the newest set at $153.00 — $9.24 above the $143.76 list price. Every number below is our live sealed-case price divided to per-box and per-pack, so you can check it.",
+      "Who this is for: Lorcana players building a pool from one set, groups splitting a case, and sealed holders who want the real per-box cost before they pay a case price. Who it is not for: anyone who wants exactly one box — we sell cases of four, not single boxes — and anyone chasing one specific Enchanted or Iconic, for whom singles beat sealed every time."
+    ],
+    "metaDescription": "Best Disney Lorcana booster box: all 14 sets ranked by real per-box price. Reign of Jafar $98.48, Whispers $216.54, Hyperia City $153.00.",
+    "metaTitle": "Best Disney Lorcana Booster Box to Buy in 2026",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer: three different bests",
+        "paragraphs": [
+          "There is no single best Lorcana box: a player wants playable cards at the lowest cost per pack, an opener wants the best chase shot per dollar, and a sealed holder wants the set most likely to appreciate unopened. Rank them together and you get a list that serves nobody, which is exactly what most rankings do.",
+          "For the player on a budget, the answer is [Reign of Jafar](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/): its $393.93 case is the cheapest on our shelf, and $98.48 per box undercuts the $143.76 box list price by $45.28. For the opener chasing expected value, the answer is [Whispers in the Well](/product/disney-lorcana-whispers-in-the-well-booster-box-sealed-case-set-10-english/) — with a large caveat about entry price, covered in the money layer. For the sealed holder, the tension is between [The First Chapter](/product/disney-lorcana-the-first-chapter-booster-box-sealed-case-set-1-english/) at $371.32 per box, already priced as a collectible, and [Hyperia City](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) at $153.00 per box — above list price, so you must believe the set will grow into its price.",
+          "One more buyer deserves a line: the group. Four friends splitting a case each pay the per-box price, not the case price. A Reign of Jafar split costs each person $98.48 for a full box — cheaper than a single list-price box anywhere — and that is how most of our Lorcana cases leave the shelf."
+        ]
+      },
+      {
+        "h": "The money layer: every box on our shelf, divided",
+        "math": [
+          "Reign of Jafar (Set 8): $393.93 ÷ 4 boxes = $98.48 per box; $98.48 ÷ 24 packs = $4.10 per pack",
+          "Azurite Sea (Set 6): $405.14 ÷ 4 boxes = $101.29 per box; $101.29 ÷ 24 packs = $4.22 per pack",
+          "Ursula's Return (Set 4): $428.40 ÷ 4 boxes = $107.10 per box; $107.10 ÷ 24 packs = $4.46 per pack",
+          "Rise of the Floodborn (Set 2): $428.40 ÷ 4 boxes = $107.10 per box; $107.10 ÷ 24 packs = $4.46 per pack",
+          "Into the Inklands (Set 3): $471.24 ÷ 4 boxes = $117.81 per box; $117.81 ÷ 24 packs = $4.91 per pack",
+          "Shimmering Skies (Set 5): $556.92 ÷ 4 boxes = $139.23 per box; $139.23 ÷ 24 packs = $5.80 per pack",
+          "Attack of the Vine (Set 13): $590.16 ÷ 4 boxes = $147.54 per box; $147.54 ÷ 24 packs = $6.15 per pack",
+          "Hyperia City (Set 14): $612.00 ÷ 4 boxes = $153.00 per box; $153.00 ÷ 24 packs = $6.38 per pack",
+          "Fabled (Set 9): $634.24 ÷ 4 boxes = $158.56 per box; $158.56 ÷ 24 packs = $6.61 per pack",
+          "Archazia's Island (Set 7): $633.83 ÷ 4 boxes = $158.46 per box; $158.46 ÷ 24 packs = $6.60 per pack",
+          "Whispers in the Well (Set 10): $866.15 ÷ 4 boxes = $216.54 per box; $216.54 ÷ 24 packs = $9.02 per pack",
+          "Wilds Unknown (Set 12): $1,077.82 ÷ 4 boxes = $269.46 per box; $269.46 ÷ 24 packs = $11.23 per pack",
+          "Winterspell (Set 11): $1,095.70 ÷ 4 boxes = $273.93 per box; $273.93 ÷ 24 packs = $11.41 per pack",
+          "The First Chapter (Set 1): $1,485.26 ÷ 4 boxes = $371.32 per box; $371.32 ÷ 24 packs = $15.47 per pack",
+          "Japanese First Chapter case: $479.46 ÷ 15 boxes = $31.96 per box (Japanese boxes hold 6-card packs; check the listing for pack counts)",
+          "MSRP anchor: $143.76 ÷ 24 packs = $5.99 per pack",
+          "Reign of Jafar vs MSRP: $143.76 − $98.48 = $45.28 below MSRP per box",
+          "Hyperia City vs MSRP: $153.00 − $143.76 = $9.24 above MSRP per box",
+          "Whispers EV at our price: $100.10 expected card value ÷ $216.54 box = $0.46 per dollar (EV from SSR TCG's June 2026 study at a ~$110 box)"
+        ],
+        "paragraphs": [
+          "Lorcana boxes hold 24 packs of 12 cards — the configuration on our case listings. Store prices as of November 16, 2026. Divide before you read any ranking: the most expensive case is not the most expensive box, and the cheapest case is not always the best buy.",
+          "The spread is the story. Cheapest per box: Reign of Jafar at $98.48, Azurite Sea at $101.29, then Ursula's Return and Rise of the Floodborn at $107.10. Most expensive: The First Chapter at $371.32 — a first-set premium, priced as history — then Winterspell at $273.93 and Wilds Unknown at $269.46. Between those poles sit the argued-over sets: Hyperia City at $153.00, Fabled at $158.56, Archazia's Island at $158.46, and Whispers at $216.54.",
+          "Hold those numbers against the list-price anchor: a Hyperia City box lists at $143.76 ($5.99 per pack), while our Hyperia case works out to $153.00 per box — $9.24 above list. That is not a mistake in the arithmetic; it is what a sealed case costs when the set is under a month old and case supply is tight. The honest conclusion is that a buyer who wants one Hyperia box at list price should buy it at a local store, not as a quarter of our case. The reverse holds for Reign of Jafar: $98.48 per box, $45.28 below list, is why older cases can be the best value on the shelf.",
+          "The Whispers caveat matters most. The third-party analysis behind its expected-value crown used a single box at roughly $110; our case prices the box at $216.54. Whispers still has the strongest card pool, but at case prices the EV crown is a reason to split a case, not to pay $866.15 alone. The same divide-first discipline runs through our [sealed case vs booster box breakdown](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The decision layer: seven boxes, side by side",
+        "paragraphs": [
+          "Seven boxes cover nearly every buyer; the money layer above carries the full shelf. Prices are our case prices as of November 16, 2026.",
+          "Read the table by buyer type: players scan the per-pack column, openers weigh chase against entry price, and sealed holders ask which set's sealed supply is thinnest relative to its nostalgia."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Case price",
+            "Per box",
+            "Per pack",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Reign of Jafar (Set 8)",
+              "$393.93",
+              "$98.48",
+              "$4.10",
+              "Cheapest entry; players and case-splitters"
+            ],
+            [
+              "Azurite Sea (Set 6)",
+              "$405.14",
+              "$101.29",
+              "$4.22",
+              "Budget play pool; second-cheapest box"
+            ],
+            [
+              "Hyperia City (Set 14)",
+              "$612.00",
+              "$153.00",
+              "$6.38",
+              "Newest set; sealed holders and current-format players"
+            ],
+            [
+              "Fabled (Set 9)",
+              "$634.24",
+              "$158.56",
+              "$6.61",
+              "Iconic rarity debut; balanced opener pick"
+            ],
+            [
+              "Whispers in the Well (Set 10)",
+              "$866.15",
+              "$216.54",
+              "$9.02",
+              "Strongest Legendary pool; split, do not solo"
+            ],
+            [
+              "Wilds Unknown (Set 12)",
+              "$1,077.82",
+              "$269.46",
+              "$11.23",
+              "Pixar debut chase; pay for the experience, not EV"
+            ],
+            [
+              "The First Chapter (Set 1)",
+              "$1,485.26",
+              "$371.32",
+              "$15.47",
+              "Sealed collectible only; never a value-per-pack buy"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top rankings miss: entry price changes the winner",
+        "note": "From the Warehouse: the question we get most about Lorcana is not which set is best, it is whether we sell single boxes — and the answer is no, cases only. That single fact reorders every ranking: a set that looks cheap as a single box can be the most expensive case on the shelf, and a set nobody is talking about can be the cheapest box you can actually buy from us. We would rather lose the single-box sale than hide the case behind a box price we do not offer.",
+        "paragraphs": [
+          "Every top ranking shares the same blind spot: single boxes at single-box prices, with no sealed-case cost and no per-box price inside the case. One puts Wilds Unknown first on chase value, another puts Whispers first on expected value, a third walks through Hyperia City at list price — and a reader who takes any of them to a case-only store walks in with the wrong numbers. Our case prices invert those rankings: Wilds Unknown, the chase king, is $269.46 per box here, while Reign of Jafar, which no ranking headlines, is the cheapest box we sell.",
+          "The second gap is the entry price behind the expected-value crown. The June 2026 study that made Whispers famous measured a box at about $110 and found roughly 91 cents of resellable card value per dollar spent. Run the same card value — about $100.10 — against our $216.54 case-derived box and the return falls to about 46 cents per dollar. The cards did not get worse; the price did. No ranking that quotes the 91-cent figure without naming the box price it assumed is giving you a usable answer, and ours is the only page that runs both numbers side by side.",
+          "The third gap is stock truth. Rankings assume every set is equally buyable. Ours is not a hypothetical shelf: all fourteen English sets are in stock as sealed cases as of November 16, 2026, plus a Japanese First Chapter case at $479.46 for fifteen boxes ($31.96 per box). That Japanese case belongs to a different buyer — someone collecting Japanese product, not building an English play pool — and the $31.96 number must not leak into an English comparison. Our [Japanese Lorcana guide](/blog/best-disney-lorcana-japanese/) covers that shelf on its own terms."
+        ]
+      },
+      {
+        "h": "The risk layer: rotation, reprints, and the chase odds",
+        "paragraphs": [
+          "Rotation is the risk players underestimate and collectors overestimate: Ravensburger rotates the four oldest sets out of Core Constructed once a year, and the July 17, 2026 rotation removed Sets 5–8 — Shimmering Skies, Azurite Sea, Archazia's Island, and Reign of Jafar — so Core Constructed is Fabled onward, Sets 9–14. That does not make Reign of Jafar worthless — its cards still play casually, in Infinity Constructed, and still collect, and any card reprinted in Fabled or later stays Core-legal — but a competitive player buying it for Core events is buying the wrong set. Check the current legal list before paying, and weight sets from Fabled onward for competitive play.",
+          "Reprints are the quieter risk: a set that is expensive because it is scarce can get cheaper if supply returns, and a sealed box bought at a scarcity price can retrace on your shelf. The First Chapter at $371.32 per box carries this risk in its purest form: you are paying for first-set status, and status is the one value driver no reprint policy can promise to protect. The recovery is boring: never pay scarcity prices with money you need back on a date, and store sealed product properly — see our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/).",
+          "The chase odds are the third risk, and the rankings that quote ceilings hide them. Community pull data centers on roughly one Enchanted every two boxes and one Iconic every one to two boxes, which means a single box usually contains neither of the cards the ranking sold you on. The Wilds Unknown Buzz Lightyear Iconic, tracked around $3,500, is a ceiling, not a reason to pay $269.46 a box for the chance to pull it. If your target is one specific card, buy the single. Still choosing between games? [Which TCG should you start](/blog/which-tcg-should-you-start/) compares Lorcana against Pokémon, One Piece, and Dragon Ball on rules and real first-box cost."
+        ]
+      },
+      {
+        "h": "Context: release order, the Iconic debut, and the Japanese exception",
+        "paragraphs": [
+          "The release order explains the price ladder. Reign of Jafar arrived May 30, 2025; Fabled followed August 29, 2025, debuting the Iconic rarity above Enchanted; Whispers in the Well arrived November 14, 2025; Winterspell February 20, 2026; Wilds Unknown May 15, 2026, bringing Pixar characters in for the first time; Attack of the Vine July 17, 2026; and Hyperia City, set fourteen, went on sale everywhere October 23, 2026 after an October 16 prerelease. Older sets are generally cheaper per box here, except The First Chapter, priced as history, and mid-run sets whose chase cards still pull demand.",
+          "The Iconic debut changes how to read Fabled onward: before Fabled, Enchanted cards were the top chase; from Fabled on, Iconic cards sit above them. That is why Wilds Unknown tops chase-value rankings while losing on expected value: one extraordinary card does not make 24 packs a good investment, and a ranking built on ceilings will always flatter the set with the tallest spike.",
+          "The Japanese exception is easy to misread. Our Japanese First Chapter case holds fifteen boxes for $479.46 ($31.96 per box) — dramatically below any English per-box price — but Japanese boxes hold six-card packs against twelve in English, so the comparison does not transfer, and the buyer pool for Japanese product outside Japan is smaller and more specialist. It is a legitimate collectible for Japanese-product collectors, not a cheaper way to buy English Lorcana. If your question is really about buying from Japan, our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-box buyers who will not split a case: our stock will not serve you, and paying a four-box case price for one box's worth of interest is the worst version of this purchase. Second, chase-card hunters after one specific Enchanted or Iconic: buy the single instead of gambling on pull rates below one in 96 packs. Third, anyone stretching a budget for a case: the per-box bargain disappears the moment the purchase strains something essential.",
+          "Who this guide is for, restated: players who will use four boxes of one set, groups of up to four splitting, and sealed holders who understand a box is a multi-year position. If you are in one of those groups, the table above is your shortlist. If not, buy elsewhere in the format that fits — we would rather say that than sell you a case you regret."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: player, opener, sealed holder, or case-split group",
+          "Divide the case price by four for the per-box price, then by 24 for the per-pack price — never compare a case price to a box price",
+          "Check Core Constructed legality before buying any set older than Fabled for competitive play",
+          "If splitting, agree the split in writing before ordering: who gets which box, who pays what, who holds sealed extras",
+          "If buying Whispers for value, compare the $216.54 case-derived box against the ~$110 single-box price in the EV study — same cards, different entry",
+          "If buying Hyperia City, decide whether you are paying $9.24 above list per box for newness or whether a local single box serves you better",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the Lorcana box checklist",
+        "paragraphs": [
+          "Run this before the next Lorcana box you consider. Ten minutes replaces a week of ranking articles with a decision built on your shelf's prices. For the full price of every set, our [Disney Lorcana booster box prices](/blog/disney-lorcana-booster-box-price/) page divides all fourteen cases to per-box, per-pack, and per-card."
+        ]
+      }
+    ],
+    "slug": "best-disney-lorcana-booster-box",
+    "takeaway": [
+      "The best Lorcana box on our shelf depends on the buyer, but the arithmetic does not: Reign of Jafar is cheapest at $98.48, Whispers carries the strongest card pool at $216.54 per box, and Hyperia City is newest at $153.00 — above list, honestly stated. Divide every case before you believe any ranking, and let the per-box number choose the set.",
+      "Prices move, so treat every number here as stamped: our case prices as of November 16, 2026. When the next set arrives, divide first — case by boxes, box by packs — then ask whether the set is worth its per-pack price.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. Weighing Lorcana against another game? [Which TCG should you start](/blog/which-tcg-should-you-start/) compares real first-box costs. And if a case lands and the seal starts calling, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment.",
+      "New to sealed buying? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience. Buying the case itself, not just the box? The [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) covers split math, the Enchanted distribution per case, and the Japanese case trap.",
+      "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen sets' sealed cases to the pack: $4.10 for Reign of Jafar, $6.38 for Hyperia City, and $15.47 for The First Chapter.",
+      "For the case math behind the box pick, the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) divides all fifteen cases, including the Japanese First Chapter case at $31.96 a box.",
+      "New this cycle: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case/) ranks all fifteen cases as a purchase — split cost per person, case vs case list price, and when not to buy a case from us."
+    ]
+  },
   "best-disney-lorcana-booster-box-to-buy": {
     "datePublished": "2026-11-03",
     "faqs": [
@@ -1261,7 +1450,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New to sealed buying? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience. Buying the case itself, not just the box? The [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) covers split math, the Enchanted distribution per case, and the Japanese case trap.",
       "New this cycle: the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) ranks all fourteen English cases plus the Japanese First Chapter case on one ladder, from $2.35 a pack to $18.20.",
       "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen sets' sealed cases to the pack: $4.83 for Reign of Jafar, $7.50 for Hyperia City, and $18.20 for The First Chapter.",
-      "For the case math behind the box pick, the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) divides all fifteen cases, including the Japanese First Chapter case at $37.60 a box."
+      "For the case math behind the box pick, the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) divides all fifteen cases, including the Japanese First Chapter case at $37.60 a box.",
+      "New this cycle: the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box/) ranks all fourteen boxes by per-box price from the same shelf — Reign of Jafar $98.48, Whispers $216.54, Hyperia City $153.00 — with the expected-value crown re-run at our case-derived entry price."
     ]
   },
   "best-disney-lorcana-booster-pack": {
@@ -1442,7 +1632,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "A Lorcana pack is 12 English cards at a $5.99 official price, but the price you actually pay is the set price: $4.83 for Reign of Jafar and $4.96 for Azurite Sea on a case split, $7.50 for the newest set Hyperia City, and $18.20 for The First Chapter. The cheapest sealed pack we sell is a case split, the most expensive sealed pack on a marketplace is a loose pack with no chain of custody, and the gap between them is $5.56 on Hyperia City alone.",
       "The Japanese pack is the cheapest per card on the page at $0.39, against $0.63 for an English Hyperia City pack, but it holds half the cards, prints in Japanese, and is not legal at official events outside Asia. Choose it for the binder, not the table.",
-      "For the box behind the pack, the [best Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) prices all fourteen sets by the box, and the [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices the case the split comes from. For the pack question in the other games we stock, the [best Japanese Pokémon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) runs the same division for Pokémon. New this cycle: the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) answers the same worth-it question for Pokémon's SV11W, with the box at $167.72 and the Deluxe at $197.53 on our shelf."
+      "For the box behind the pack, the [best Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) prices all fourteen sets by the box, and the [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices the case the split comes from. For the pack question in the other games we stock, the [best Japanese Pokémon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) runs the same division for Pokémon. New this cycle: the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) answers the same worth-it question for Pokémon's SV11W, with the box at $167.72 and the Deluxe at $197.53 on our shelf.",
+      "New this cycle: the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box/) ranks all fourteen boxes by per-box price — the box-level view behind these pack prices."
     ]
   },
   "best-disney-lorcana-japanese": {
@@ -1660,6 +1851,187 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, with the SNKRDUNK yen figures dated June and October 2026. When the next Japanese set reaches our shelf, run the checklist first and the checkout second.",
       "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. Weighing Lorcana against another game? The [best sealed TCG products from Japan](/blog/best-sealed-tcg-products-japan/) compares all four games on one shelf. And if a case lands and the seal starts calling, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment.",
       "New this cycle: the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) ranks all fourteen English cases plus this Japanese case on one ladder, from $2.35 a pack to $18.20."
+    ]
+  },
+  "best-disney-lorcana-sealed-case": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "Four boxes of 24 packs — 96 packs, 1,152 cards — for every English set, and fifteen boxes for the Japanese First Chapter case. The case is the unit we sell: there is no single-box option on our shelf. A four-way split turns the case into four single boxes at the per-box price, which is how most of our Lorcana cases leave the shelf.",
+        "q": "How many boxes are in a Disney Lorcana sealed case?"
+      },
+      {
+        "a": "Reign of Jafar, at $393.93 a case — $98.48 per box, $4.10 per pack, and $181.11 below the $575.04 case list price. Azurite Sea is second at $405.14 a case, $101.29 per box. The most expensive case is The First Chapter at $1,485.26, which is a sealed collectible, not a value buy. All prices are our live prices as of November 16, 2026.",
+        "q": "What is the cheapest Disney Lorcana sealed case?"
+      },
+      {
+        "a": "No — not for every set. Hyperia City is the exception that proves the rule: our case is $612.00 while TCGplayer's market price for the same case was $491.16 in early November 2026, so a Hyperia buyer chasing the lowest price should buy there. The case is best bought from us where our per-box price beats list and market: Reign of Jafar, Azurite Sea, Ursula's Return, and Rise of the Floodborn all sit well below the $575.04 case list price. Check the table before you pay anywhere.",
+        "q": "Is buying a sealed case from this store always the cheapest option?"
+      }
+    ],
+    "h1": "Best Disney Lorcana Sealed Case: The Split-Math Answer",
+    "intro": [
+      "Short answer: the best Disney Lorcana sealed case is the one whose split cost fits your group, not the one with the flashiest chase card. On our shelf as of November 16, 2026, [Reign of Jafar](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) is the cheapest case at $393.93 — $98.48 each in a four-way split, $181.11 below the $575.04 case list price — while [Hyperia City](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) is the newest case at $612.00, and it is the one case where our price loses to the big market. Every number below is our live case price divided to per-box, per-pack, and per-person, so you can check it.",
+      "Who this is for: groups of up to four splitting a case, players who will use four boxes of one set, and sealed holders buying a multi-year position. Who it is not for: anyone who wants exactly one box and will not split, anyone chasing one specific Enchanted or Iconic, and anyone who needs the money back on a date."
+    ],
+    "metaDescription": "Best Disney Lorcana sealed case: all 15 cases ranked by split cost. Reign of Jafar $98.48 each, Hyperia $153.00, plus when not to buy a case.",
+    "metaTitle": "Best Disney Lorcana Sealed Case to Buy in 2026",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer: three different bests",
+        "paragraphs": [
+          "There is no single best Lorcana case, because a case is four boxes and four boxes serve three different buyers. A group splitting wants the lowest per-person cost. A player wants the most playable cards per dollar across 96 packs. A sealed holder wants the set whose sealed supply is thinnest relative to its nostalgia. Rank them together and you get a list that serves nobody, which is exactly what most case rankings do.",
+          "For the group on a budget, the answer is [Reign of Jafar](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/): $393.93 for the case, $98.48 per person in a four-way split, $45.28 below list per box. For the player, the answer is the same set for a different reason — 96 packs at $4.10 a pack is the cheapest play pool on our shelf. For the sealed holder, the tension is between [The First Chapter](/product/disney-lorcana-the-first-chapter-booster-box-sealed-case-set-1-english/) at $1,485.26, already priced as a collectible, and [Hyperia City](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) at $612.00 — above list, so you must believe the set will grow into its price.",
+          "One more buyer deserves a line: the retailer or break host. A case is the unit a break runs on, and the per-pack cost is the margin. At $4.10 a pack, a Reign of Jafar break has room to price packs fairly and still clear; at $15.47 a pack, a First Chapter break is selling history, not cardboard. Know which business you are in before you buy the case."
+        ]
+      },
+      {
+        "h": "The money layer: every case on our shelf, divided",
+        "math": [
+          "Case list price: 4 boxes × $143.76 = $575.04",
+          "Reign of Jafar (Set 8): $393.93 ÷ 4 = $98.48 per box; $98.48 ÷ 24 = $4.10 per pack; $575.04 − $393.93 = $181.11 below case list price",
+          "Azurite Sea (Set 6): $405.14 ÷ 4 = $101.29 per box; $101.29 ÷ 24 = $4.22 per pack; $575.04 − $405.14 = $169.90 below case list price",
+          "Ursula's Return (Set 4): $428.40 ÷ 4 = $107.10 per box; $107.10 ÷ 24 = $4.46 per pack; $575.04 − $428.40 = $146.64 below case list price",
+          "Rise of the Floodborn (Set 2): $428.40 ÷ 4 = $107.10 per box; $107.10 ÷ 24 = $4.46 per pack; $575.04 − $428.40 = $146.64 below case list price",
+          "Into the Inklands (Set 3): $471.24 ÷ 4 = $117.81 per box; $117.81 ÷ 24 = $4.91 per pack; $575.04 − $471.24 = $103.80 below case list price",
+          "Shimmering Skies (Set 5): $556.92 ÷ 4 = $139.23 per box; $139.23 ÷ 24 = $5.80 per pack; $575.04 − $556.92 = $18.12 below case list price",
+          "Attack of the Vine (Set 13): $590.16 ÷ 4 = $147.54 per box; $147.54 ÷ 24 = $6.15 per pack; $590.16 − $575.04 = $15.12 above case list price",
+          "Hyperia City (Set 14): $612.00 ÷ 4 = $153.00 per box; $153.00 ÷ 24 = $6.38 per pack; $612.00 − $575.04 = $36.96 above case list price",
+          "Archazia's Island (Set 7): $633.83 ÷ 4 = $158.46 per box; $158.46 ÷ 24 = $6.60 per pack; $633.83 − $575.04 = $58.79 above case list price",
+          "Fabled (Set 9): $634.24 ÷ 4 = $158.56 per box; $158.56 ÷ 24 = $6.61 per pack; $634.24 − $575.04 = $59.20 above case list price",
+          "Whispers in the Well (Set 10): $866.15 ÷ 4 = $216.54 per box; $216.54 ÷ 24 = $9.02 per pack; $866.15 − $575.04 = $291.11 above case list price",
+          "Wilds Unknown (Set 12): $1,077.82 ÷ 4 = $269.46 per box; $269.46 ÷ 24 = $11.23 per pack; $1,077.82 − $575.04 = $502.78 above case list price",
+          "Winterspell (Set 11): $1,095.70 ÷ 4 = $273.93 per box; $273.93 ÷ 24 = $11.41 per pack; $1,095.70 − $575.04 = $520.66 above case list price",
+          "The First Chapter (Set 1): $1,485.26 ÷ 4 = $371.32 per box; $371.32 ÷ 24 = $15.47 per pack; $1,485.26 − $575.04 = $910.22 above case list price",
+          "Japanese First Chapter case: $479.46 ÷ 15 boxes = $31.96 per box (Japanese boxes hold 6-card packs; check the listing for pack counts)",
+          "Cards per English case: 96 packs × 12 cards = 1,152 cards",
+          "Hyperia City on the open market: our $612.00 case vs $491.16 TCGplayer market (early November 2026) = $120.84 above; vs ~$650 typical completed eBay sale (Oct 27–29, 2026) = $38.00 below"
+        ],
+        "paragraphs": [
+          "A Lorcana case holds four boxes of 24 packs of 12 cards — 96 packs, 1,152 cards — the configuration on our case listings. Store prices as of November 16, 2026. The case list price is $575.04, four boxes at the $143.76 list price, and it is the only honest anchor: every case on our shelf is either below it or above it, and the distance is the decision.",
+          "Six cases sit below list. Reign of Jafar at $393.93 is $181.11 under, Azurite Sea at $405.14 is $169.90 under, Ursula's Return and Rise of the Floodborn at $428.40 are $146.64 under, Into the Inklands at $471.24 is $103.80 under, and Shimmering Skies at $556.92 is $18.12 under. Eight sit above it, from Attack of the Vine at $15.12 over to The First Chapter at $910.22 over. The line between the two groups is the line between buying cardboard and buying a story: below-list cases are priced as product, above-list cases are priced as position.",
+          "The split is what makes the below-list group real. Four friends splitting Reign of Jafar each pay $98.48 for a full box — cheaper than a single list-price box anywhere — and the same four-way math puts Azurite Sea at $101.29 each and Ursula's Return at $107.10. Splitting does not make an expensive set cheap: four ways, Whispers is still $216.54 a box and Wilds Unknown is still $269.46. It only makes a case purchase possible, and only for sets already priced near or below list.",
+          "The Hyperia City market check is the honest part of this page. Our case is $612.00. TCGplayer's market price for the same case was $491.16 in early November 2026, and completed eBay sales ran $625 to $709 in late October, most near $650. The spread itself is the lesson: case prices move fast and vary by channel, and our Hyperia case loses to TCGplayer's market while beating the typical eBay sale. A Hyperia buyer chasing the lowest price should buy there; a buyer who wants a sealed case shipped from Japan with provenance they can check should weigh the $120.84 gap against that. We would rather print the gap than hide it."
+        ]
+      },
+      {
+        "h": "The decision layer: six cases, side by side",
+        "paragraphs": [
+          "Six cases cover nearly every buyer; the money layer above carries the full shelf. Prices are our case prices as of November 16, 2026.",
+          "Read the table by buyer type: groups scan the per-person column, players scan per-pack, and sealed holders ask which set's sealed supply is thinnest relative to its nostalgia."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Case price",
+            "Per person (4-way)",
+            "Per pack",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Reign of Jafar (Set 8)",
+              "$393.93",
+              "$98.48",
+              "$4.10",
+              "Cheapest split; players and groups"
+            ],
+            [
+              "Azurite Sea (Set 6)",
+              "$405.14",
+              "$101.29",
+              "$4.22",
+              "Budget play pool; second-cheapest case"
+            ],
+            [
+              "Hyperia City (Set 14)",
+              "$612.00",
+              "$153.00",
+              "$6.38",
+              "Newest set; check TCGplayer first"
+            ],
+            [
+              "Fabled (Set 9)",
+              "$634.24",
+              "$158.56",
+              "$6.61",
+              "Iconic debut; balanced opener case"
+            ],
+            [
+              "Whispers in the Well (Set 10)",
+              "$866.15",
+              "$216.54",
+              "$9.02",
+              "Strongest Legendary pool; split only"
+            ],
+            [
+              "The First Chapter (Set 1)",
+              "$1,485.26",
+              "$371.32",
+              "$15.47",
+              "Sealed collectible only; never a value buy"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What nobody tells you about buying a case: the split, the seal, and the market",
+        "note": "From the Warehouse: the question we get most about Lorcana is not which case is best, it is whether we sell single boxes — and the answer is no, cases only. That single fact reorders every ranking: a set that looks cheap as a single box can be the most expensive case on the shelf, and a set nobody is talking about can be the cheapest case you can actually buy from us. We would rather lose the single-box sale than hide the case behind a box price we do not offer.",
+        "paragraphs": [
+          "No top guide for this question ranks sealed cases as a purchase. They rank boxes by chase value, or they price one new set against its list price, and none of them answers the question a case buyer actually asks: what does four boxes cost me, per person, and what do I get for it. Our case is 96 packs and 1,152 cards, and at community pull rates of roughly one Enchanted every two boxes, a case should hold about two Enchanteds — with the usual warning that usually is doing heavy work, and that one Iconic every one to two boxes means a case can hold anywhere from two to four, or none.",
+          "The second gap is the split agreement. Nobody in the top three explains that a four-box case divided four ways is a single-box purchase at the case-derived price, and nobody warns you to agree the split in writing before ordering: who gets which box, who pays what, who holds sealed extras, and what happens when one box pulls the case's Enchanted. We have seen groups argue over a $500 card that came out of a $98.48 box. Decide the rule before the seal breaks, not after.",
+          "The third gap is the Japanese case trap. Our Japanese First Chapter case holds fifteen boxes for $479.46 ($31.96 per box) — dramatically below any English per-box price — but Japanese boxes hold six-card packs against twelve in English, so the comparison does not transfer, and the buyer pool for Japanese product outside Japan is smaller and more specialist. It is a legitimate collectible for Japanese-product collectors, not a cheaper way to buy English Lorcana. Our [Japanese Lorcana guide](/blog/best-disney-lorcana-japanese/) covers that shelf on its own terms."
+        ]
+      },
+      {
+        "h": "The risk layer: reprints, rotation, and the four-box commitment",
+        "paragraphs": [
+          "Reprints are the quietest risk on a case: a set that is expensive because it is scarce can get cheaper if supply returns, and a sealed case bought at a scarcity price can retrace on your shelf. The First Chapter at $371.32 per box carries this risk in its purest form: you are paying for first-set status, and status is the one value driver no reprint policy can promise to protect. The recovery is boring: never pay scarcity prices with money you need back on a date, and store sealed product properly — see our [guide to storing sealed boxes](/blog/how-to-store-sealed-booster-boxes/).",
+          "Rotation is the risk players underestimate and collectors overestimate: Ravensburger rotates the four oldest sets out of Core Constructed once a year, and the July 17, 2026 rotation removed Sets 5–8 — Shimmering Skies, Azurite Sea, Archazia's Island, and Reign of Jafar — so Core Constructed is Fabled onward, Sets 9–14. That does not make a Reign of Jafar case worthless — its cards still play casually, in Infinity Constructed, and still collect, and any card reprinted in Fabled or later stays Core-legal — but a competitive player buying four boxes of it for Core events is buying the wrong set four times over. Check the current legal list before paying, and weight sets from Fabled onward for competitive play.",
+          "The four-box commitment is specific to case buying: four boxes of a set you do not enjoy is not a bargain at any per-pack price. A $4.10 pack from a set whose games bore you is $4.10 spent on cardboard you will not play, so try the set before any case — a starter deck or a Trove costs less than a case and answers the only question that matters. Still choosing between games? [Which TCG should you start](/blog/which-tcg-should-you-start/) compares Lorcana against Pokémon, One Piece, and Dragon Ball on rules and real first-box cost."
+        ]
+      },
+      {
+        "h": "Context: what a case actually contains, and the newest set",
+        "paragraphs": [
+          "The configuration is the same for every English set: four booster boxes, 24 packs per box, 12 cards per pack, 96 packs and 1,152 cards per case. The release order explains the price ladder — Reign of Jafar arrived May 30, 2025; Fabled followed August 29, 2025, debuting the Iconic rarity above Enchanted; Whispers in the Well arrived November 14, 2025; Winterspell February 20, 2026; Wilds Unknown May 15, 2026, bringing Pixar characters in for the first time; Attack of the Vine July 17, 2026; and Hyperia City, set fourteen, went on sale everywhere October 23, 2026 after an October 16 prerelease. Older sets are generally cheaper per case here, except The First Chapter, priced as history, and mid-run sets whose chase cards still pull demand.",
+          "The Iconic debut changes how to read Fabled onward: before Fabled, Enchanted cards were the top chase; from Fabled on, Iconic cards sit above them, including the Wilds Unknown Buzz Lightyear Iconic, tracked around $3,500 at market. That is why Wilds Unknown tops chase-value rankings while losing on expected value: one extraordinary card does not make 96 packs a good investment, and a ranking built on ceilings will always flatter the set with the tallest spike.",
+          "The Hyperia City market spread deserves one more line, because it is the newest data on this page. In late October 2026, completed eBay sales for the English case ran $625 to $709, most near $650, while TCGplayer's market price in early November was $491.16 — a $159 gap between two honest markets for the same sealed case. Our $612.00 sits between them. That is not a pricing error on anyone's part; it is what a new set's case costs while supply is still settling, and it is why the case question is always a market question, not a list-price question. If your question is really about buying from Japan, our [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-box buyers who will not split a case: our stock will not serve you, and paying a four-box case price for one box's worth of interest is the worst version of this purchase. Second, chase-card hunters after one specific Enchanted or Iconic: buy the single instead of gambling on pull rates across 96 packs. Third, anyone stretching a budget for a case: the per-box bargain disappears the moment the purchase strains something essential.",
+          "Who this guide is for, restated: players who will use four boxes of one set, groups of up to four splitting, and sealed holders who understand a case is a multi-year position. If you are in one of those groups, the table above is your shortlist. If not, buy elsewhere in the format that fits — we would rather say that than sell you a case you regret."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: player, opener, sealed holder, or case-split group",
+          "Divide the case price by four for the per-box price, then by 24 for the per-pack price — never compare a case price to a box price",
+          "Compare the case against the $575.04 case list price: below it is product pricing, above it is a position",
+          "If splitting, agree the split in writing before ordering: who gets which box, who pays what, who holds sealed extras, and who keeps a big pull",
+          "If buying Hyperia City, check TCGplayer's market price first — ours is $120.84 above it as of early November 2026",
+          "Check Core Constructed legality before buying any set older than Fabled for competitive play",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the sealed-case checklist",
+        "paragraphs": [
+          "Run this before the next Lorcana case you consider. Ten minutes replaces a week of ranking articles with a decision built on your shelf's prices. For the full price of every case, our [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) divides all fifteen cases to per-box, per-pack, and per-card."
+        ]
+      }
+    ],
+    "slug": "best-disney-lorcana-sealed-case",
+    "takeaway": [
+      "The best Lorcana case on our shelf depends on the buyer, but the arithmetic does not: Reign of Jafar is cheapest at $393.93 a case — $98.48 each in a four-way split — Whispers carries the strongest card pool at $216.54 per box, and Hyperia City is newest at $612.00, above TCGplayer's market and honestly stated. Divide every case before you believe any ranking, and let the per-person number choose the set.",
+      "Prices move, so treat every number here as stamped: our case prices as of November 16, 2026. When the next set arrives, divide first — case by boxes, box by packs — then ask whether the set is worth its per-pack price.",
+      "Still deciding between sealed and singles? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. Weighing Lorcana against another game? [Which TCG should you start](/blog/which-tcg-should-you-start/) compares real first-box costs. And if a case lands and the seal starts calling, [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for that moment.",
+      "New to sealed buying? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience. Buying one box, not a case? The [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) covers the same shelf box by box.",
+      "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen sets' sealed cases to the pack: $4.10 for Reign of Jafar, $6.38 for Hyperia City, and $15.47 for The First Chapter.",
+      "For the case math behind the case pick, the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) divides all fifteen cases, including the Japanese First Chapter case at $31.96 a box.",
+      "New this cycle: the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box/) ranks all fourteen boxes by per-box price from the same shelf — Reign of Jafar $98.48, Whispers $216.54, Hyperia City $153.00 — with the expected-value crown re-run at our case-derived entry price."
     ]
   },
   "best-disney-lorcana-sealed-case-to-buy": {
@@ -1930,7 +2302,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Also see the [companion guide](/blog/best-disney-lorcana-japanese/) for the wider comparison.",
       "Also see the [companion guide](/blog/best-sealed-tcg-products-japan/) for the wider comparison.",
       "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every sealed case to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter.",
-      "Every case divided: the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) runs all fifteen cases, per box, per pack and per card, with five English cases below list."
+      "Every case divided: the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) runs all fifteen cases, per box, per pack and per card, with five English cases below list.",
+      "New this cycle: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case/) ranks all fifteen cases as a purchase — split cost per person, case vs case list price, and when not to buy a case from us."
     ]
   },
   "best-dragon-ball-fusion-world-booster-box": {
@@ -15404,7 +15777,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Fifteen Disney Lorcana sealed cases sit on the Warehouse shelf as of November 10, 2026, $11,951.35 for the ladder: fourteen English cases from $463.45 to $1,747.37 and one Japanese First Chapter case at $564.07.",
       "The cheapest English pack is Jafar at $4.83, below the $5.99 list pack, and the cheapest pack on the shelf is the Japanese First Chapter at $1.57. The dearest is the English First Chapter at $18.20 a pack, a scarcity price, not a pack price.",
-      "Divide before paying: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy, the [Disney Lorcana booster box price page](/blog/disney-lorcana-booster-box-price/) prices the boxes, and this index divides every case against them."
+      "Divide before paying: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy, the [Disney Lorcana booster box price page](/blog/disney-lorcana-booster-box-price/) prices the boxes, and this index divides every case against them.",
+      "New this cycle: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case/) turns this price index into a buying decision — split cost per person and the Hyperia City market gap."
     ]
   },
   "dragon-ball-fusion-world-beginners-guide": {
