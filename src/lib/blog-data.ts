@@ -25664,7 +25664,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Black Bolt is worth buying for the collector: $183.18 buys 140 cards of Unova art, 20 packs with two holofoil guaranteed per pack, and a secret run larger than the base set, in the final expansion of the Scarlet & Violet era. The Deluxe box at $212.99 buys the same 140 cards with four guaranteed Art Rares, at $0.21 more per card. The case at $991.73 divides to $82.64 a box, a $1,206.43 saving across twelve boxes, but confirm the case price at checkout before planning a split around it.",
       "It is not worth buying as a way to own the Zekrom ex BWR. The card asks about $260 raw on its own, about 142% of a box, and a graded PSA 10 reference is $694, about 3.79 times the box. The Pokémon Company publishes no Japanese pull rates, and one tracker estimates the English BWR at roughly 1 in 360 to 450 packs, so the chase has no honest expected cost on the Japanese print. Buy the single, or buy the box for the set and treat the BWR as a bonus.",
       "For the twin, the [White Flare buyer’s guide](/blog/sv11w-white-flare-buyers-guide/) prices the Reshiram half at $167.72 a box, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case. For the same worth-it question in the other game we stock, the [best Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen Lorcana sets to per-pack prices.",
-      "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box."
+      "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box.",
+      "New this cycle: the [SV11B Black Bolt investment guide](/blog/sv11b-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced."
     ]
   },
   "is-sv11w-worth-buying": {
@@ -25839,7 +25840,8 @@ export const POSTS: Record<string, BlogPost> = {
       "White Flare is worth buying for the collector: $167.72 buys 140 cards of Unova art, 20 packs with two holofoil guaranteed per pack, and a secret run larger than the base set, in the final expansion of the Scarlet & Violet era. The Deluxe box at $197.53 buys the same 140 cards with four guaranteed Art Rares, at $0.21 more per card. The case at $892.12 divides to $74.34 a box, a $1,120.52 saving across twelve boxes, but that figure carries the cycle-33 catalog-error flag: confirm the case price at checkout before planning around it.",
       "It is not worth buying as a way to own the Reshiram ex BWR. The card asks about ¥50,000, or $316.46, on its own, and The Pokémon Company publishes no Japanese pull rates, so the chase has no honest expected cost. Buy the single, or buy the box for the set and treat the BWR as a bonus.",
       "For the twin, the [Black Bolt buyer’s guide](/blog/sv11b-black-bolt-buyers-guide/) prices the Zekrom half at $183.18 a box, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case. For the same worth-it question in the other game we stock, the [best Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen Lorcana sets to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter. New this cycle: the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) is the English-versus-Japanese comparison this article summarizes.",
-      "New this cycle: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box."
+      "New this cycle: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box.",
+      "New this cycle: the [SV11W White Flare investment guide](/blog/sv11w-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced."
     ]
   },
   "is-sv1a-worth-buying": {
@@ -41631,7 +41633,383 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, the largest case saving we stock.",
       "For the ETB question in depth, the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers it honestly: Japan never made an ETB, and the Black Bolt case at $82.64 a box is the only Japanese price that beats the English ETB per pack.",
       "For the White Flare verdict in depth, the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) prices the twin at $167.72 a box against Black Bolt's $183.18, with the Deluxe at $197.53 and the case flagged for checkout confirmation.",
-      "For the Black Bolt verdict in depth, the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half at $183.18 a box against White Flare’s $167.72, with the Deluxe at $212.99 and the case flagged for checkout confirmation."
+      "For the Black Bolt verdict in depth, the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half at $183.18 a box against White Flare’s $167.72, with the Deluxe at $212.99 and the case flagged for checkout confirmation.",
+      "New this cycle: the [SV11B Black Bolt investment guide](/blog/sv11b-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced."
+    ]
+  },
+  "sv11b-investment": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "The case, if the checkout price holds. The sealed case is $842.97, or $70.25 a box, which saves $1,025.43 against twelve singles and sits $9.55 below the $165.25 Tokyo sealed ask from October 22, 2026. The single box is $155.70, which is $7.79 a pack and 4.29 times the ¥5,800 official price. Buy the case to hold, or the Zekrom single at $306.96. One warning carries over from our November 7 guide: the case price is so deep it may be a catalog error, so confirm it at checkout before planning around it.",
+        "q": "Is SV11B Black Bolt a good investment?"
+      },
+      {
+        "a": "The box is $155.70, the Deluxe box is $181.04, the sealed case of twelve is $842.97, and the Card File Set is $33.18 on our shelf as of November 16, 2026: $7.79 a pack for the box, $45.26 per 35-card pack for the Deluxe, and $70.25 a box inside the case. All four fell 15 percent in the nine days before this guide, from $183.18, $212.99, $991.73, and $39.04 on November 7, 2026: a shelf repricing, not a market crash.",
+        "q": "How much is an SV11B Black Bolt box and case?"
+      },
+      {
+        "a": "Zekrom ex, the Black White Rare numbered 174/086, at a TCGplayer market price of $306.96 on November 11, 2026, confirmed at the same price on November 16, 2026. It is 1.97 boxes at our $155.70 box price and 22.17 percent of the set's $1,384.56 value. The next card down, the same Pokemon's Special Art Rare 169/086, is $181.76, and the third card, Seismitoad Art Rare 109/086, is $79.46.",
+        "q": "What is the most valuable card in SV11B Black Bolt?"
+      }
+    ],
+    "h1": "SV11B Black Bolt Investment: The Case Is the Buy, If It Holds",
+    "intro": [
+      "Short answer: SV11B Black Bolt is a good sealed-case investment and a bad sealed-box investment, with one condition on the case. The sealed case is $842.97 on our shelf as of November 16, 2026, or $70.25 a box, which saves $1,025.43 against twelve singles and sits $9.55 below the $165.25 Tokyo sealed ask from October 22, 2026. The single box is $155.70, which is $7.79 a pack and 4.29 times the ¥5,800 official price. The chase card, Zekrom ex, is $306.96, flat since October.",
+      "This guide runs the price path from the ¥5,800 release price to today, the case against the box, the chase card against the box, and the risks. Every shelf price is stamped November 16, 2026, and nothing here predicts where the price goes next. The case carries the catalog-error flag our November 7 guide raised: confirm the price at checkout before you plan around it."
+    ],
+    "metaDescription": "SV11B Black Bolt as an investment: box $155.70, case $842.97, Zekrom BWR $306.96. The 15% repricing, the case math, and the honest verdict.",
+    "metaTitle": "SV11B Black Bolt Investment: Sealed Math, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case if it holds, buy the single, open the box",
+        "paragraphs": [
+          "If you are buying SV11B as an investment, buy the sealed case and store it, or buy the chase card as a single. The [SV11B Black Bolt sealed case](/product/sv11b-black-bolt-sealed-case-12-boxes-japanese-pokemon-card/) is $842.97, or $70.25 a box, which saves $1,025.43 against twelve single boxes and sits $9.55 below the $165.25 Tokyo sealed ask from October 22, 2026. That is a hold priced below the market, not above it.",
+          "The [SV11B Black Bolt booster box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $155.70, or $7.79 a pack, and it is the wrong format to hold: it costs 4.29 times the official price, and its value rests on one card. Zekrom ex, the Black White Rare 174/086, is $306.96 on TCGplayer as of November 11, 2026, which is 1.97 boxes and 22.17 percent of the set's $1,384.56 value. A box that needs one card is a lottery ticket, not an investment.",
+          "The case comes with a condition, and it is the same one our November 7 guide raised: $70.25 a box is the deepest case discount on our shelf, and a price that deep may be a catalog error. If the checkout price is $842.97, the case is the buy. If the checkout price corrects upward, re-divide before you pay. The verdict below prices the case as listed, and the checklist at the end starts with confirming it."
+        ]
+      },
+      {
+        "h": "The money layer: the price path from ¥5,800 to $155.70",
+        "paragraphs": [
+          "Black Bolt, set code SV11B, released in Japan on June 6, 2025, as a 174-card set: 86 base cards and 88 secret rares, in boxes of 20 packs of 7 cards at ¥290 a pack, for an official box price of ¥5,800, or $36.32 at the ¥159.7 rate of November 16, 2026. Our box at $155.70 is 4.29 times that price five months after release.",
+          "Our shelf priced the box at $183.18, the Deluxe at $212.99, and the case at $991.73 on November 7, 2026, in the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/). All three fell exactly 15 percent in the nine days before this guide. The Card File Set fell with them, from $39.04 to $33.18. That was a shelf repricing, not a market crash: SV9 and SV10 fell the same 15 percent in the same window.",
+          "A Tokyo shop listed the sealed Black Bolt box at ¥26,390 on October 22, 2026, which is $165.25 at our rate, and our box at $155.70 sits $9.55 below it, or 5.78 percent under the Tokyo ask. That is the first time in this series a shelf box has priced below a Tokyo shop ask, and it is the repricing that did it: nine days ago our box was $183.18, or $17.93 above that same ask.",
+          "The case tells a steeper story. Twelve single boxes at $155.70 come to $1,868.40, and our case is $842.97, which saves $1,025.43, or 54.88 percent. Against the Tokyo ask it is steeper still: twelve Tokyo boxes at $165.25 come to $1,983.00, and our case is $1,140.03 below that. A case that cheap is either the best sealed price on our shelf or a catalog error, and we have flagged it as possibly the second since our November 7 guide. Confirm it at checkout."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "Box: $155.70 ÷ 20 packs = $7.79 per pack; $155.70 ÷ 140 cards = $1.11 per card",
+          "Deluxe: $181.04 ÷ 4 packs = $45.26 per 35-card pack; $181.04 ÷ 140 cards = $1.29 per card",
+          "Deluxe premium: $181.04 - $155.70 = $25.34; $1.29 - $1.11 = $0.18 more per card",
+          "Case: $842.97 ÷ 12 boxes = $70.25 per box; $842.97 ÷ 240 packs = $3.51 per pack; $842.97 ÷ 1,680 cards = $0.50 per card",
+          "Case saving: 12 x $155.70 = $1,868.40; $1,868.40 - $842.97 = $1,025.43; $1,025.43 ÷ $1,868.40 = 54.88%",
+          "Official price: 5,800 yen ÷ 159.7 = $36.32; $155.70 ÷ $36.32 = 4.29x official; $155.70 - $36.32 = $119.38 above official",
+          "The 15% cut, box: $183.18 x 0.85 = $155.70; Deluxe: $212.99 x 0.85 = $181.04; case: $991.73 x 0.85 = $842.97",
+          "Tokyo box: 26,390 yen ÷ 159.7 = $165.25; $165.25 - $155.70 = $9.55 below the Tokyo ask; $9.55 ÷ $165.25 = 5.78%",
+          "Chase card: $306.96 ÷ $155.70 = 1.97 boxes; complete set: $1,384.56 ÷ $155.70 = 8.89 boxes",
+          "Chase share: $306.96 ÷ $1,384.56 = 22.17% of the set value in one card",
+          "Chase flat: $306.96 - $303.14 = $3.82; $3.82 ÷ $303.14 = 1.26% since October 14, 2026",
+          "Chase fall, PSA 10: $677.00 - $694.00 = -$17.00; -$17.00 ÷ $694.00 = -2.45% since November 10, 2026",
+          "Chase gap: $306.96 - $181.76 = $125.20; $306.96 ÷ $181.76 = 1.69x the SAR",
+          "Top three cards: $306.96 + $181.76 + $79.46 = $568.18; $568.18 ÷ $1,384.56 = 41.04% of the set",
+          "English twin: $557.42 - $306.96 = $250.46; $250.46 ÷ $557.42 = 44.93% cheaper in Japanese",
+          "Chase expected: 20 x $155.70 = $3,114.00 at the Cardrake rate; 36 x $155.70 = $5,605.20 at the Kaikan rate",
+          "Set completion: 9 x $155.70 = $1,401.30 for nine boxes; $1,401.30 - $1,384.56 = $16.74 more than the complete set",
+          "File set: $33.18 ÷ 6 packs = $5.53 per pack; $7.79 - $5.53 = $2.26 cheaper per pack than the box",
+          "Twin gap: $155.70 - $142.56 = $13.14 a box; $842.97 - $758.30 = $84.67 a case"
+        ],
+        "paragraphs": []
+      },
+      {
+        "h": "The decision layer: box, case, Deluxe, single, file set, or wait",
+        "paragraphs": [
+          "Six routes, one table. The box, the case, and the Deluxe are the sealed routes on our shelf, the Zekrom single is the only card route, the Card File Set is the cheapest way in, and waiting is for anyone who does not like the numbers above.",
+          "Read the table by what each route buys. The box buys the opening experience at 4.29 times the official price. The case buys twelve boxes below the Tokyo ask, if the price holds. The Deluxe buys the same 140 cards with four guaranteed Art Rares. The single buys the only card with real value. The file set buys six packs plus the file and the Victini promo at $5.53 a pack.",
+          "Waiting is the only route with a price of $0, and it is the only route that made money in the last nine days. A buyer who waited from November 7 to November 16 saved $27.48 on the box, $31.95 on the Deluxe, and $148.76 on the case, on the same shelf, for the same sealed product. Waiting earns only if the next move is down, and the shelf can move either way, but the last move was 15 percent down in nine days."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack",
+            "What it buys",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Sealed box",
+              "$155.70",
+              "$7.79",
+              "20 packs, 140 cards, the opening experience",
+              "Open it, do not hold it"
+            ],
+            [
+              "Sealed case (12)",
+              "$842.97",
+              "$3.51",
+              "12 boxes at $70.25 each, factory sealed",
+              "The hold, if the price holds"
+            ],
+            [
+              "Deluxe box",
+              "$181.04",
+              "$45.26 per 35-card pack",
+              "4 packs of 35 cards, one Art Rare guaranteed each",
+              "Only for the guaranteed Art Rares"
+            ],
+            [
+              "Zekrom ex BWR single",
+              "$306.96",
+              "n/a",
+              "The set's top card, 22.17% of set value",
+              "Buy the card, skip the box"
+            ],
+            [
+              "Card File Set",
+              "$33.18",
+              "$5.53",
+              "6 packs, the file, and the Victini promo",
+              "Cheapest way into the set"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "Reasonable if the box is the plan"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing and the case",
+        "note": "From the Warehouse: the question we get most about Black Bolt is whether the case price is real. It is the price on our shelf today, $842.97, and it has been there through a 15 percent repricing that moved every other SV11B format by the same percentage. But a case at $70.25 a box against a $155.70 box is the deepest discount we stock, and we would rather a buyer confirm it at checkout than plan a group split around a number that corrects.",
+        "paragraphs": [
+          "No top guide for SV11B investment prices the repricing, because none of them has our shelf. Our box, Deluxe, and case all fell exactly 15 percent between November 7 and November 16, 2026, and a guide that quotes only today's price misses the fact that last week's buyer paid $27.48 more for the box and $148.76 more for the case. A sealed buy is a price at a date.",
+          "The second miss is the case. The guides that price Black Bolt quote a box price and stop. Our case divides to $70.25 a box against a $155.70 single box and a $165.25 Tokyo ask: $85.45 saved per box against our own singles, and $1,025.43 across the case. No guide divides a case that far below its own singles, because no guide has a case priced this far below them.",
+          "The third miss is the chase standing still. The top guides rank the chase cards and stop, but the Zekrom BWR has barely moved: $303.14 on October 14, 2026, and $306.96 on November 11, a rise of 1.26 percent while our box fell 15 percent. The box got cheaper and the card did not, which is the opposite of the SV9 and SV10 story, where the chase fell by more than a quarter."
+        ]
+      },
+      {
+        "h": "The chase layer: one card carries a fifth of the set",
+        "paragraphs": [
+          "Zekrom ex, Black White Rare 174/086, is the set. At $306.96 on TCGplayer as of November 11, 2026, confirmed at the same price on November 16, it is 22.17 percent of the complete set's $1,384.56 value, and the next card down, the same Pokemon's Special Art Rare 169/086, is $181.76. The third card, Seismitoad Art Rare 109/086, is $79.46. The top three together are $568.18, or 41.04 percent of the set.",
+          "The chase has been flat, not falling. The Zekrom BWR was $303.14 on October 14, 2026, and $306.96 on November 11: a rise of $3.82, or 1.26 percent, while our box fell 15 percent in the same window. The graded version tells a softer story: a PSA 10 copy is $677 on the CardZ Marketcap index as of November 13, 2026, down $17, or 2.45 percent, from $694 on November 10. See our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/).",
+          "The same Pokemon, four prices. Zekrom ex is printed four times in this set: as a Double Rare 037/086, a Super Rare 161/086, the Special Art Rare 169/086, and the Black White Rare 174/086. The BWR is $306.96 and the SAR is $181.76, a gap of $125.20, or 1.69 times. The English twin's BWR is $557.42, which makes the Japanese copy $250.46 cheaper, or 44.93 percent lower, for the same art."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, grading, and the case price",
+        "paragraphs": [
+          "Three risks decide whether sealed SV11B earns anything. First, the reprint risk: The Pokemon Company does not publish print runs, so no sealed buyer can verify scarcity from an official source, and a reprint would compress the premium on every sealed format at once. Black Bolt is still in print, and a set this popular is the kind that gets reprinted.",
+          "Second, the chase risk: a fifth of the set's value sits in one card, and the graded copy of that card has already slipped 2.45 percent in three days. If Zekrom falls, the box has thin cover behind it, because the second card is $125.20 cheaper and the third is $227.50 cheaper still.",
+          "Third, the case-price risk, which is specific to this set: if the $842.97 case price is a catalog error and the corrected price is higher, the $1,025.43 saving shrinks or vanishes, and anyone who budgeted a group split around it is short. Confirm at checkout, and do not plan a resale margin on an unconfirmed price. Check the shrink and flaps before you buy any sealed box you did not buy from our shelf, using our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/), and store what you hold as our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) describes.",
+          "The grading premium is a second bet on the same card. Raw at $306.96 against PSA 10 at $677 leaves a $370.04 premium for the grade, and 14,425 copies already hold the grade on the CardZ index. Buy the raw card if you want the art, and buy the 10 only if you have checked what a 10 actually sells for this month."
+        ]
+      },
+      {
+        "h": "Context: Black Bolt in the year, and the English twin",
+        "paragraphs": [
+          "SV11B released on June 6, 2025, alongside [SV11W White Flare](/blog/sv11w-white-flare-buyers-guide/), and the pair closes the Scarlet and Violet era as a love letter to Unova: all 156 Pokemon first found in the region, every one of them with an Art Rare or better. The English combined set followed on July 18, 2025, as an Elite Trainer Box product with no booster box. Japanese cards are generally not legal at official events outside Asia, so the English set is the play route and the Japanese set is the collect route.",
+          "The BWR rarity is new with this pair, and in the Japanese pair it holds exactly two cards: Zekrom ex in Black Bolt and Reshiram ex in White Flare. The English twin adds Victini BWRs, one per version, which is why English guides quote four BWRs and Japanese guides quote two; both are right about different printings, and the confusion costs buyers who compare prices across languages.",
+          "The neighbor sets frame the price. [SV11W White Flare](/blog/sv11w-white-flare-buyers-guide/) is $142.56 a box, which is $13.14 cheaper than Black Bolt, and its case is $758.30, or $84.67 cheaper. The gap follows the chase: Zekrom is $306.96 against Reshiram's $313.97, so the cheaper box carries the dearer chase by $7.01, and the dearer set by complete-set value is Black Bolt at $1,384.56 against White Flare's $1,267.99. The full shelf is in our [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/), and the case ladder is in our [best sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/). Our [SV11W White Flare investment guide](/blog/sv11w-investment/) runs the same verdict on the twin."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants to open packs for fun. It is not for anyone who wants a prediction, because no honest page can tell you what SV11B will cost next month. It is not for a player outside Asia who needs tournament-legal cards, because Japanese cards are generally not legal at official events outside Asia. And it is not for anyone who cannot afford to have $842.97 sit on a shelf: a sealed case is money parked, not money working.",
+          "This guide is also not for anyone building the complete set by opening boxes. The complete set is $1,384.56 as singles, or 8.89 boxes at our box price, and no box guarantees a Black White Rare. Opening nine boxes costs $1,401.30 and still leaves the chase to chance, while buying the set as singles costs $1,384.56 and leaves nothing to chance. Certainty is $16.74 cheaper than chance here, which is rare, and it is the whole argument for buying the cards. If you want every card, buy the cards."
+        ]
+      },
+      {
+        "h": "Action layer: the SV11B investment checklist",
+        "paragraphs": [
+          "Decide the route first: case at $842.97 to hold, the Zekrom single at $306.96 for the card, and the box at $155.70 only to open.",
+          "Confirm the case price at checkout before you plan around it: $70.25 a box is the deepest discount on our shelf, and it carries the catalog-error flag.",
+          "Divide before you pay: the box is $7.79 a pack and the case is $3.51 a pack, so the case saves $1,025.43 against twelve singles.",
+          "Name the market before you buy: the Tokyo sealed ask is $165.25 as of October 22, 2026, and our box is $9.55 below it, so re-check it on the day you pay.",
+          "Do not chase the card in packs: one card is 22.17 percent of the set's value, and the chase costs $3,114.00 to $5,605.20 by the two estimates we have.",
+          "Re-divide before you pay: every price here is stamped November 16, 2026, and the market figures are dated October 14 to November 16, 2026."
+        ]
+      }
+    ],
+    "slug": "sv11b-investment",
+    "takeaway": [
+      "SV11B Black Bolt is a good sealed-case investment at $842.97, or $70.25 a box, $9.55 below the $165.25 Tokyo sealed ask from October 22, 2026, and a bad sealed-box investment at $155.70, or 4.29 times the ¥5,800 official price, with the case price carrying the catalog-error flag: confirm it at checkout.",
+      "Zekrom ex, the Black White Rare 174/086, is $306.96 on TCGplayer as of November 11, 2026, or 1.97 boxes and 22.17 percent of the set's value, up 1.26 percent since October 14 while our box fell 15 percent.",
+      "Box, Deluxe, and case all fell exactly 15 percent in the nine days before this guide, from $183.18, $212.99, and $991.73 on November 7, 2026: a shelf repricing, not a market crash."
+    ]
+  },
+  "sv11w-investment": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "The case, if the checkout price holds. The sealed case is $758.30, or $63.19 a box, which saves $952.42 against twelve singles and sits $6.17 below the $148.73 Tokyo sealed ask from October 22, 2026. The single box is $142.56, which is $7.13 a pack and 3.93 times the ¥5,800 official price. Buy the case to hold, or the Reshiram single at $313.97. One warning carries over from our November 9 guide: the case price is so deep it may be a catalog error, so confirm it at checkout before planning around it.",
+        "q": "Is SV11W White Flare a good investment?"
+      },
+      {
+        "a": "The box is $142.56, the Deluxe box is $167.90, the sealed case of twelve is $758.30, and the Card File Set is $33.18 on our shelf as of November 16, 2026: $7.13 a pack for the box, $41.98 per 35-card pack for the Deluxe, and $63.19 a box inside the case. All four fell 15 percent in the seven days before this guide, from $167.72, $197.53, $892.12, and $39.04 on November 9, 2026: a shelf repricing, not a market crash.",
+        "q": "How much is an SV11W White Flare box and case?"
+      },
+      {
+        "a": "Reshiram ex, the Black White Rare numbered 174/086, at a TCGplayer market price of $313.97 on November 15, 2026. It is 2.20 boxes at our $142.56 box price and 24.76 percent of the set's $1,267.99 value. The same Pokemon's Special Art Rare 168/086 asked ¥22,000, or $137.76, on SNKRDUNK on September 30, 2026, and the next verified Special Art Rare, Keldeo ex 169/086, is $37.22.",
+        "q": "What is the most valuable card in SV11W White Flare?"
+      }
+    ],
+    "h1": "SV11W White Flare Investment: The Case Is the Buy, If It Holds",
+    "intro": [
+      "Short answer: SV11W White Flare is a good sealed-case investment and a bad sealed-box investment, with one condition on the case. The sealed case is $758.30 on our shelf as of November 16, 2026, or $63.19 a box, which saves $952.42 against twelve singles and sits $6.17 below the $148.73 Tokyo sealed ask from October 22, 2026. The single box is $142.56, which is $7.13 a pack and 3.93 times the ¥5,800 official price. The chase card, Reshiram ex, is $313.97, flat since October.",
+      "This guide runs the price path from the ¥5,800 release price to today, the case against the box, the chase card against the box, and the risks. Every shelf price is stamped November 16, 2026, and nothing here predicts where the price goes next. The case carries the catalog-error flag our November 9 guide raised: confirm the price at checkout before you plan around it."
+    ],
+    "metaDescription": "SV11W White Flare as an investment: box $142.56, case $758.30, Reshiram BWR $313.97. The 15% repricing, the case math, and the honest verdict.",
+    "metaTitle": "SV11W White Flare Investment: Sealed Math, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case if it holds, buy the single, open the box",
+        "paragraphs": [
+          "If you are buying SV11W as an investment, buy the sealed case and store it, or buy the chase card as a single. The [SV11W White Flare sealed case](/product/sv11w-white-flare-sealed-case-12-boxes-japanese-pokemon-card/) is $758.30, or $63.19 a box, which saves $952.42 against twelve single boxes and sits $6.17 below the $148.73 Tokyo sealed ask from October 22, 2026. That is a hold priced below the market, not above it.",
+          "The [SV11W White Flare booster box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) is $142.56, or $7.13 a pack, and it is the wrong format to hold: it costs 3.93 times the official price, and its value rests on one card. Reshiram ex, the Black White Rare 174/086, is $313.97 on TCGplayer as of November 15, 2026, which is 2.20 boxes and 24.76 percent of the set's $1,267.99 value. A box that needs one card is a lottery ticket, not an investment.",
+          "The case comes with a condition, and it is the same one our November 9 guide raised: $63.19 a box is the deepest case discount on our shelf, and a price that deep may be a catalog error. If the checkout price is $758.30, the case is the buy. If the checkout price corrects upward, re-divide before you pay. The verdict below prices the case as listed, and the checklist at the end starts with confirming it."
+        ]
+      },
+      {
+        "h": "The money layer: the price path from ¥5,800 to $142.56",
+        "paragraphs": [
+          "White Flare, set code SV11W, released in Japan on June 6, 2025, as a 174-card set: 86 base cards and 88 secret rares, in boxes of 20 packs of 7 cards at ¥290 a pack, for an official box price of ¥5,800, or $36.32 at the ¥159.7 rate of November 16, 2026. Our box at $142.56 is 3.93 times that price five months after release.",
+          "Our shelf priced the box at $167.72, the Deluxe at $197.53, and the case at $892.12 on November 9, 2026, in the [SV11W White Flare buyer's guide](/blog/sv11w-white-flare-buyers-guide/). All three fell exactly 15 percent in the seven days before this guide. The Card File Set fell with them, from $39.04 to $33.18. That was a shelf repricing, not a market crash: SV9 and SV10 fell the same 15 percent in the same window.",
+          "A Tokyo shop listed the sealed White Flare box at ¥23,752 on October 22, 2026, which is $148.73 at our rate, and our box at $142.56 sits $6.17 below it, or 4.15 percent under the Tokyo ask. The same shop's listing fell further, to ¥19,397 by November 11, 2026, or $121.46 at our rate, which puts our box $21.10 above that later listing: the Tokyo box is softening faster than ours.",
+          "The case tells a steeper story. Twelve single boxes at $142.56 come to $1,710.72, and our case is $758.30, which saves $952.42, or 55.67 percent. Against the Tokyo ask it is steeper still: twelve Tokyo boxes at $148.73 come to $1,784.76, and our case is $1,026.46 below that. A case that cheap is either the best sealed price on our shelf or a catalog error, and we have flagged it as possibly the second since our November 9 guide. Confirm it at checkout."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "Box: $142.56 ÷ 20 packs = $7.13 per pack; $142.56 ÷ 140 cards = $1.02 per card",
+          "Deluxe: $167.90 ÷ 4 packs = $41.98 per 35-card pack; $167.90 ÷ 140 cards = $1.20 per card",
+          "Deluxe premium: $167.90 - $142.56 = $25.34; $1.20 - $1.02 = $0.18 more per card",
+          "Case: $758.30 ÷ 12 boxes = $63.19 per box; $758.30 ÷ 240 packs = $3.16 per pack; $758.30 ÷ 1,680 cards = $0.45 per card",
+          "Case saving: 12 x $142.56 = $1,710.72; $1,710.72 - $758.30 = $952.42; $952.42 ÷ $1,710.72 = 55.67%",
+          "Official price: 5,800 yen ÷ 159.7 = $36.32; $142.56 ÷ $36.32 = 3.93x official; $142.56 - $36.32 = $106.24 above official",
+          "The 15% cut, box: $167.72 x 0.85 = $142.56; Deluxe: $197.53 x 0.85 = $167.90; case: $892.12 x 0.85 = $758.30",
+          "Tokyo box: 23,752 yen ÷ 159.7 = $148.73; $148.73 - $142.56 = $6.17 below the Tokyo ask; $6.17 ÷ $148.73 = 4.15%",
+          "Chase card: $313.97 ÷ $142.56 = 2.20 boxes; complete set: $1,267.99 ÷ $142.56 = 8.89 boxes",
+          "Chase share: $313.97 ÷ $1,267.99 = 24.76% of the set value in one card",
+          "Chase flat: $313.97 - $310.25 = $3.72; $3.72 ÷ $310.25 = 1.20% since October 14, 2026",
+          "Chase gap: $313.97 - $137.76 = $176.21; $313.97 ÷ $137.76 = 2.28x the SAR ask",
+          "Graded gap: $658.00 - $248.00 = $410.00; $658.00 ÷ $248.00 = 2.65x the SAR in PSA 10",
+          "English twin: $434.37 - $313.97 = $120.40; $120.40 ÷ $434.37 = 27.72% cheaper in Japanese",
+          "Chase expected: 20 x $142.56 = $2,851.20 at the Cardrake rate; 35 x $142.56 = $4,989.60 at the Kaikan rate",
+          "Set completion: 9 x $142.56 = $1,283.04 for nine boxes; $1,283.04 - $1,267.99 = $15.05 more than the complete set",
+          "File set: $33.18 ÷ 6 packs = $5.53 per pack; $7.13 - $5.53 = $1.60 cheaper per pack than the box",
+          "Twin gap: $155.70 - $142.56 = $13.14 a box; $842.97 - $758.30 = $84.67 a case"
+        ],
+        "paragraphs": []
+      },
+      {
+        "h": "The decision layer: box, case, Deluxe, single, file set, or wait",
+        "paragraphs": [
+          "Six routes, one table. The box, the case, and the Deluxe are the sealed routes on our shelf, the Reshiram single is the only card route, the Card File Set is the cheapest way in, and waiting is for anyone who does not like the numbers above.",
+          "Read the table by what each route buys. The box buys the opening experience at 3.93 times the official price. The case buys twelve boxes below the Tokyo ask, if the price holds. The Deluxe buys the same 140 cards with four guaranteed Art Rares. The single buys the only card with real value. The file set buys six packs plus the file and the Victini promo at $5.53 a pack.",
+          "Waiting is the only route with a price of $0, and it is the only route that made money in the last seven days. A buyer who waited from November 9 to November 16 saved $25.16 on the box, $29.63 on the Deluxe, and $133.82 on the case, on the same shelf, for the same sealed product. Waiting earns only if the next move is down, and the shelf can move either way, but the last move was 15 percent down in seven days."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack",
+            "What it buys",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Sealed box",
+              "$142.56",
+              "$7.13",
+              "20 packs, 140 cards, the opening experience",
+              "Open it, do not hold it"
+            ],
+            [
+              "Sealed case (12)",
+              "$758.30",
+              "$3.16",
+              "12 boxes at $63.19 each, factory sealed",
+              "The hold, if the price holds"
+            ],
+            [
+              "Deluxe box",
+              "$167.90",
+              "$41.98 per 35-card pack",
+              "4 packs of 35 cards, one Art Rare guaranteed each",
+              "Only for the guaranteed Art Rares"
+            ],
+            [
+              "Reshiram ex BWR single",
+              "$313.97",
+              "n/a",
+              "The set's top card, 24.76% of set value",
+              "Buy the card, skip the box"
+            ],
+            [
+              "Card File Set",
+              "$33.18",
+              "$5.53",
+              "6 packs, the file, and the Victini promo",
+              "Cheapest way into the set"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "Reasonable if the box is the plan"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing and the case",
+        "note": "From the Warehouse: the question we get most about White Flare is whether the case price is real. It is the price on our shelf today, $758.30, and it has been there through a 15 percent repricing that moved every other SV11W format by the same percentage. But a case at $63.19 a box against a $142.56 box is the deepest discount we stock, and we would rather a buyer confirm it at checkout than plan a group split around a number that corrects.",
+        "paragraphs": [
+          "No top guide for SV11W investment prices the repricing, because none of them has our shelf. Our box, Deluxe, and case all fell exactly 15 percent between November 9 and November 16, 2026, and a guide that quotes only today's price misses the fact that last week's buyer paid $25.16 more for the box and $133.82 more for the case. A sealed buy is a price at a date.",
+          "The second miss is the case. The guides that price White Flare quote a box price and stop. Our case divides to $63.19 a box against a $142.56 single box and a $148.73 Tokyo ask: $79.37 saved per box against our own singles, and $952.42 across the case. No guide divides a case that far below its own singles, because no guide has a case priced this far below them.",
+          "The third miss is the chase standing still while the shelf fell. The Reshiram BWR has barely moved: $310.25 on October 14, 2026, and $313.97 on November 15, a rise of 1.20 percent while our box fell 15 percent. The box got cheaper and the card did not, which is the opposite of the SV9 and SV10 story, where the chase fell by more than a quarter."
+        ]
+      },
+      {
+        "h": "The chase layer: one card carries a quarter of the set",
+        "paragraphs": [
+          "Reshiram ex, Black White Rare 174/086, is the set. At $313.97 on TCGplayer as of November 15, 2026, it is 24.76 percent of the complete set's $1,267.99 value, and the same Pokemon's Special Art Rare 168/086 asked ¥22,000, or $137.76, on SNKRDUNK on September 30, 2026. The next verified Special Art Rare, Keldeo ex 169/086, is $37.22, and the top Art Rare, Zoroark 141/086, is $20.33.",
+          "The chase has been flat, not falling. The Reshiram BWR was $310.25 on October 14, 2026, and $313.97 on November 15: a rise of $3.72, or 1.20 percent, while our box fell 15 percent in the same window. The graded version tells the same story at a higher price: a PSA 10 copy is $658 on the CardZ Marketcap index as of November 13, 2026, and the PSA 10 of the SAR is $248, a gap of $410.00, or 2.65 times, between the two grades of the same Pokemon's two top prints. See our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/).",
+          "The same Pokemon, four prices. Reshiram ex is printed four times in this set: as a Double Rare 017/086, a Super Rare 160/086, the Special Art Rare 168/086, and the Black White Rare 174/086. The BWR is $313.97 and the SAR asked $137.76, a gap of $176.21. The English twin's BWR is $434.37, which makes the Japanese copy $120.40 cheaper, or 27.72 percent lower, for the same art."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, grading, and the case price",
+        "paragraphs": [
+          "Three risks decide whether sealed SV11W earns anything. First, the reprint risk: The Pokemon Company does not publish print runs, so no sealed buyer can verify scarcity from an official source, and a reprint would compress the premium on every sealed format at once. White Flare is still in print, and a set this popular is the kind that gets reprinted.",
+          "Second, the chase risk: a quarter of the set's value sits in one card, and the Tokyo box price has already fallen faster than ours, to $121.46 by November 11. If Reshiram falls, the box has thin cover behind it, because the next verified Special Art Rare is $37.22 and the top Art Rare is $20.33.",
+          "Third, the case-price risk, which is specific to this set: if the $758.30 case price is a catalog error and the corrected price is higher, the $952.42 saving shrinks or vanishes, and anyone who budgeted a group split around it is short. Confirm at checkout, and do not plan a resale margin on an unconfirmed price. Check the shrink and flaps before you buy any sealed box you did not buy from our shelf, using our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/), and store what you hold as our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) describes.",
+          "The grading premium is a second bet on the same card. Raw at $313.97 against PSA 10 at $658 leaves a $344.03 premium for the grade, and 14,462 copies already hold the grade on the CardZ index. Buy the raw card if you want the art, and buy the 10 only if you have checked what a 10 actually sells for this month."
+        ]
+      },
+      {
+        "h": "Context: White Flare in the year, and the English twin",
+        "paragraphs": [
+          "SV11W released on June 6, 2025, alongside [SV11B Black Bolt](/blog/sv11b-black-bolt-buyers-guide/), and the pair closes the Scarlet and Violet era as a love letter to Unova: all 156 Pokemon first found in the region, every one of them with an Art Rare or better. The English combined set followed on July 18, 2025, as an Elite Trainer Box product with no booster box. Japanese cards are generally not legal at official events outside Asia, so the English set is the play route and the Japanese set is the collect route.",
+          "The BWR rarity is new with this pair, and in the Japanese pair it holds exactly two cards: Reshiram ex in White Flare and Zekrom ex in Black Bolt. The English twin adds Victini BWRs, one per version, which is why English guides quote four BWRs and Japanese guides quote two; both are right about different printings, and the confusion costs buyers who compare prices across languages.",
+          "The neighbor sets frame the price. [SV11B Black Bolt](/blog/sv11b-black-bolt-buyers-guide/) is $155.70 a box, which is $13.14 dearer than White Flare, and its case is $842.97, or $84.67 dearer. The gap does not follow the chase: Reshiram is $313.97 against Zekrom's $306.96, so the cheaper box carries the dearer chase by $7.01, and the dearer set by complete-set value is Black Bolt at $1,384.56 against White Flare's $1,267.99. The full shelf is in our [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/), and the case ladder is in our [best sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/). Our [SV11B Black Bolt investment guide](/blog/sv11b-investment/) runs the same verdict on the twin."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants to open packs for fun. It is not for anyone who wants a prediction, because no honest page can tell you what SV11W will cost next month. It is not for a player outside Asia who needs tournament-legal cards, because Japanese cards are generally not legal at official events outside Asia. And it is not for anyone who cannot afford to have $758.30 sit on a shelf: a sealed case is money parked, not money working.",
+          "This guide is also not for anyone building the complete set by opening boxes. The complete set is $1,267.99 as singles, or 8.89 boxes at our box price, and no box guarantees a Black White Rare. Opening nine boxes costs $1,283.04 and still leaves the chase to chance, while buying the set as singles costs $1,267.99 and leaves nothing to chance. Certainty is $15.05 cheaper than chance here, which is rare, and it is the whole argument for buying the cards. If you want every card, buy the cards."
+        ]
+      },
+      {
+        "h": "Action layer: the SV11W investment checklist",
+        "paragraphs": [
+          "Decide the route first: case at $758.30 to hold, the Reshiram single at $313.97 for the card, and the box at $142.56 only to open.",
+          "Confirm the case price at checkout before you plan around it: $63.19 a box is the deepest discount on our shelf, and it carries the catalog-error flag.",
+          "Divide before you pay: the box is $7.13 a pack and the case is $3.16 a pack, so the case saves $952.42 against twelve singles.",
+          "Name the market before you buy: the Tokyo sealed ask is $148.73 as of October 22, 2026, and our box is $6.17 below it, so re-check it on the day you pay.",
+          "Do not chase the card in packs: one card is 24.76 percent of the set's value, and the chase costs $2,851.20 to $4,989.60 by the two estimates we have.",
+          "Re-divide before you pay: every price here is stamped November 16, 2026, and the market figures are dated October 14 to November 15, 2026."
+        ]
+      }
+    ],
+    "slug": "sv11w-investment",
+    "takeaway": [
+      "SV11W White Flare is a good sealed-case investment at $758.30, or $63.19 a box, $6.17 below the $148.73 Tokyo sealed ask from October 22, 2026, and a bad sealed-box investment at $142.56, or 3.93 times the ¥5,800 official price, with the case price carrying the catalog-error flag: confirm it at checkout.",
+      "Reshiram ex, the Black White Rare 174/086, is $313.97 on TCGplayer as of November 15, 2026, or 2.20 boxes and 24.76 percent of the set's value, up 1.20 percent since October 14 while our box fell 15 percent.",
+      "Box, Deluxe, and case all fell exactly 15 percent in the seven days before this guide, from $167.72, $197.53, and $892.12 on November 9, 2026: a shelf repricing, not a market crash."
     ]
   },
   "sv11w-white-flare-buyers-guide": {
@@ -41799,7 +42177,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The White Flare box at $167.72 is the middle of the shelf at $8.39 a pack, the Deluxe at $197.53 costs $29.81 more for the same 140 cards and buys only a guaranteed Art Rare per pack, and the case at $892.12 is the way to buy it sealed, at $74.34 a box and $3.72 a pack, saving $1,120.52 against twelve singles. The set is 174 cards, released June 6, 2025, and the chase is the Reshiram ex BWR, which alone costs about $316 as a single.",
       "White Flare is the cheaper twin, by $15.46 a box and $99.61 a case against Black Bolt, but the two boxes divide Unova rather than duplicating it, so the card you want decides the box and the price decides nothing on its own. Reshiram ex appears at three tiers, Super Rare 160, Special Art Rare 168, and Black White Rare 174, and Kyurem ex and Meloetta ex are Black Bolt cards, not White Flare.",
-      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace asks as of September 30, 2026. The case price is the figure to confirm at checkout: $74.34 a box is the deepest case discount on this set, and the first one to move if the catalog corrects."
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace asks as of September 30, 2026. The case price is the figure to confirm at checkout: $74.34 a box is the deepest case discount on this set, and the first one to move if the catalog corrects.",
+      "New this cycle: the [SV11W White Flare investment guide](/blog/sv11w-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced."
     ]
   },
   "sv1a-triplet-beat-buyers-guide": {
