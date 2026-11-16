@@ -17388,7 +17388,7 @@ export const POSTS: Record<string, BlogPost> = {
         "h": "Context: the first Extra Booster, and the English twin",
         "paragraphs": [
           "EB-01 is where the Extra Booster line starts. It released in Japan on January 27, 2024, at ¥220 a pack, with 61 types and three new multicolour Leaders, and its official copy describes cards that strengthen the decks that had already appeared, drawn from Dressrosa, Baroque Works, Impel Down, and Wano. It is a backward-looking set by design: it revisits what the game had already printed rather than starting a new story chapter. The English edition followed on May 3, 2024, at $4.49 a pack, with 12 cards per pack and 24 packs per box, and 80 cards on the English card list.",
-          "The neighbor sets frame the price. [EB-02 Anime 25th Collection](/blog/eb-02-anime-25th-collection-buyers-guide/) is $152.03 a box in Japanese, only $20.25 more than EB-01 for the same format, and its English box is $188.16, which is $349.45 cheaper than EB-01's English box. EB-01's premium buys the first Extra Booster and the Chopper chase, and nothing else. Our [EB-02 investment guide](/blog/eb-02-investment/) runs the same verdict on the younger set, and our [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices the same four products as they stood on November 3.",
+          "The neighbor sets frame the price. [EB-02 Anime 25th Collection](/blog/eb-02-anime-25th-collection-buyers-guide/) is $152.03 a box in Japanese, only $20.25 more than EB-01 for the same format, and its English box is $188.16, which is $349.45 cheaper than EB-01's English box. EB-01's premium buys the first Extra Booster and the Chopper chase, and nothing else. Our [EB-02 investment guide](/blog/eb-02-investment/) runs the same verdict on the younger set, and our [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) prices the same four products as they stood on November 3. Our [EB-03 investment guide](/blog/eb-03-investment/) and [EB-04 investment guide](/blog/eb-04-investment/) run the same verdict on the next two sets in the line.",
           "The English twin explains why the Japanese box costs what it costs. The Japanese box is the only place to open the Japanese printings of these 61 cards, and Japanese cards are generally not legal at official events outside Asia, so the English set is the play route and the Japanese set is the collect route. The full shelf is in our [Japanese One Piece booster box price guide](/blog/best-japanese-one-piece-booster-box-price/), and the case ladder is in our [one-piece Japanese sealed case price guide](/blog/one-piece-japanese-sealed-case-price/)."
         ]
       },
@@ -17948,7 +17948,7 @@ export const POSTS: Record<string, BlogPost> = {
         "h": "Context: the anime anniversary, and the English twin",
         "paragraphs": [
           "EB-02 is the anniversary set. It released in Japan on January 25, 2025, as the second Extra Booster and the anime's 25th anniversary set, with 87 card types plus 1 Secret Rare, and its official copy calls it a set of cards that strengthen decks of various colours, with new cards and cards re-recorded from past sets. It is a backward-looking set by design: it revisits what the game had already printed rather than starting a new story chapter. The English edition followed on May 9, 2025, with legal play from May 16, 2025, at $4.99 a pack, and 86 cards on the English card list.",
-          "The neighbor sets frame the price. [EB-01 Memorial Collection](/blog/eb-01-japanese-vs-english-which-to-buy/) is $131.78 a box in Japanese, only $20.25 less than EB-02 for the same format, and its English box is $537.61, which is $349.45 more than EB-02's English box. EB-02's discount buys the younger set and the Luffy chase, and nothing else. Our [EB-01 investment guide](/blog/eb-01-investment/) runs the same verdict on the older set, and our [EB-02 buyers guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the same four products as they stood on November 4.",
+          "The neighbor sets frame the price. [EB-01 Memorial Collection](/blog/eb-01-japanese-vs-english-which-to-buy/) is $131.78 a box in Japanese, only $20.25 less than EB-02 for the same format, and its English box is $537.61, which is $349.45 more than EB-02's English box. EB-02's discount buys the younger set and the Luffy chase, and nothing else. Our [EB-01 investment guide](/blog/eb-01-investment/) runs the same verdict on the older set, and our [EB-02 buyers guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the same four products as they stood on November 4. Our [EB-03 investment guide](/blog/eb-03-investment/) and [EB-04 investment guide](/blog/eb-04-investment/) run the same verdict on the next two sets in the line.",
           "The English twin explains why the Japanese box costs what it costs. The Japanese box is the only place to open the Japanese printings of these 87 cards, and Japanese cards are generally not legal at official events outside Asia, so the English set is the play route and the Japanese set is the collect route. The full shelf is in our [Japanese One Piece booster box price guide](/blog/best-japanese-one-piece-booster-box-price/), and the case ladder is in our [one-piece Japanese sealed case price guide](/blog/one-piece-japanese-sealed-case-price/)."
         ]
       },
@@ -18174,6 +18174,188 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [is EB-03 worth buying guide](/blog/is-eb-03-worth-buying/) gives the dated verdict, with the Uta Manga priced against the box and the English shelf's 20% drop."
     ]
   },
+  "eb-03-investment": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "In English, yes, if the case count confirms. The English case is $1,571.53, which divides to $130.96 a box if it holds twelve, saving $435.83 against twelve singles at $167.28. The English box at $167.28 is a hold: it fell 32 percent from $246.00 between November 5 and November 16, 2026, and sits at 1.40 times its $119.76 official price. In Japanese, no: the box is $131.78, or 3.99 times the ¥5,280 official price, and the case costs $0.92 more than twelve singles.",
+        "q": "Is EB-03 Heroines Edition a good investment?"
+      },
+      {
+        "a": "The Japanese box is $131.78 and the Japanese case is $1,582.28; the English box is $167.28 and the English case is $1,571.53, all on our shelf as of November 16, 2026. That is $5.49 a pack in Japanese and $6.97 a pack in English, or $0.92 a card against $0.58 a card. The Japanese case divides to $131.86 a box, which is $0.08 more per box than a single box. The English case divides to $130.96 a box if it holds twelve boxes, a count the listing does not print.",
+        "q": "How much is an EB-03 Heroines Edition box and case?"
+      },
+      {
+        "a": "The Uta Comic Parallel, EB03-061, the set's only Super Parallel, with manga art of Uta and the Red Hair Pirates. It was about $679 in March 2026, and the lowest SNKRDUNK ask on September 23, 2026 was ¥85,000 raw, or $531.91, and ¥180,000 for a PSA 10, or $1,126.41. On October 7, 2026 the lowest asks were ¥72,000 raw, or $450.56, and ¥255,000 for a PSA 10, or $1,595.74. TCGplayer put it at $940.55 on October 18, 2026, down 42 percent from its $1,629.20 launch week.",
+        "q": "What is the most valuable card in EB-03 Heroines Edition?"
+      }
+    ],
+    "h1": "EB-03 Heroines Edition Investment: The English Case Is the Buy",
+    "intro": [
+      "Short answer: EB-03 Heroines Edition is a good sealed investment in English and an opening box in Japanese, after the shelf cut the English products 32 percent and the Japanese products 15 percent between November 5 and November 16, 2026. The [English case](/product/eb-03-one-piece-heroines-edition-sealed-case-english-one-piece-card/) is $1,571.53, which divides to $130.96 a box if it holds twelve, saving $435.83 against twelve singles. The [Japanese box](/product/eb-03-heroines-edition-booster-box-japanese-one-piece-card/) is $131.78, or 3.99 times the ¥5,280 official price, and its case costs $0.92 more than twelve singles.",
+      "Who this is for: sealed holders who buy the first all-female One Piece set to hold, and English collectors who want the Uta chase below its launch-week price. Every shelf price is stamped November 16, 2026."
+    ],
+    "metaDescription": "EB-03 Heroines Edition as an investment: English case $1,571.53, saving $435.83 on twelve boxes, after a 32% English cut. The Japanese case charges more.",
+    "metaTitle": "EB-03 Heroines Edition Investment: The Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the English case, open the Japanese box",
+        "paragraphs": [
+          "If you are buying EB-03 as an investment, buy the English case and store it, or buy the English box and hold one. The [EB-03 English case](/product/eb-03-one-piece-heroines-edition-sealed-case-english-one-piece-card/) is $1,571.53, which divides to $130.96 a box if it holds twelve boxes, saving $435.83, or 21.71 percent, against twelve singles at $167.28. The condition matters: the listing does not print a box count, so confirm twelve boxes before you pay for the saving.",
+          "The [EB-03 English box](/product/eb-03-heroines-extra-booster-box-english-one-piece-card/) is $167.28, or $6.97 a pack and $0.58 a card, and it sits at 1.40 times its $119.76 official price. It got there by a cut: the same box was $246.00 on November 5, and $78.72 of that price disappeared in eleven days. The English box is the cheapest per-card route in the set, and the English case is the cheapest per-box route, at $130.96 against $131.78 for a Japanese single box.",
+          "The Japanese side is the opposite trade. The [EB-03 Japanese box](/product/eb-03-heroines-edition-booster-box-japanese-one-piece-card/) is $131.78, or $5.49 a pack and $0.92 a card, the cheapest way to open the set and the wrong format to hold: it costs 3.99 times the ¥5,280 official price, and its value rests on one Uta card that has fallen 42 percent from its launch week. The [EB-03 Japanese case](/product/eb-03-heroines-edition-sealed-case-12-boxes-japanese-one-piece-card/) is $1,582.28, which divides to $131.86 a box and costs $0.92 more than twelve singles, a real charge, not a discount."
+        ]
+      },
+      {
+        "h": "The money layer: the 32 percent English cut, and the 15 percent Japanese cut",
+        "paragraphs": [
+          "EB-03, set code EB-03, released in Japan on October 25, 2025, as the first all-female set in One Piece Card Game history: 71 card types plus 4 DON!! cards, with 9 Special Parallel cards and a God Pack that puts six of those nine SP cards in a single pack. Boxes hold 24 packs of 6 cards, 144 cards, at ¥220 a pack, for an official box price of ¥5,280, or $33.04 at the ¥159.8 rate of November 16, 2026. The English edition followed on February 20, 2026, at $4.99 a pack, with 12 cards per pack and 24 packs a box, for an official box price of $119.76.",
+          "All four products fell between November 5 and November 16, 2026, but they did not fall together. Our November 5 guide priced them at $155.04, $1,861.50, $246.00, and $2,311.07; today they are $131.78, $1,582.28, $167.28, and $1,571.53, cuts of $23.26, $279.22, $78.72, and $739.54. The Japanese pair fell exactly 15 percent, the same cut that moved every Pokemon SV set and the EB-02 products in the same window. The English pair fell exactly 32 percent, the same cut that moved the OP-14 and OP-15 English boxes in the same window, from $271.39 to $184.54 and $266.52 to $181.24. That was a shelf repricing in two speeds, not a market crash: the Japanese resale box averaged ¥13,200, or $82.60, on October 25, 2026, and the chase cards fell on their own schedule, not the shelf's.",
+          "The cut collapsed the language gap from $90.96 a box to $35.50, and the ratio from 1.59 times to 1.27 times. The English box costs $1.48 more per pack but $0.34 less per card, because an English pack holds 12 cards against 6 in a Japanese pack. The English case now divides to $130.96 a box, cheaper per box than a Japanese single box at $131.78. That inversion is the investment case for EB-03 in one division: the English sealed case is now the cheapest box in the set, in either language."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "JP box: $131.78 ÷ 24 packs = $5.49 per pack; $131.78 ÷ 144 cards = $0.92 per card",
+          "JP case: $1,582.28 ÷ 12 boxes = $131.86 per box; $1,582.28 ÷ 288 packs = $5.49 per pack; $1,582.28 ÷ 1,728 cards = $0.92 per card",
+          "JP case saving: 12 x $131.78 = $1,581.36; $1,581.36 - $1,582.28 = -$0.92; -$0.92 ÷ $1,581.36 = -0.06%",
+          "EN box: $167.28 ÷ 24 packs = $6.97 per pack; $167.28 ÷ 288 cards = $0.58 per card",
+          "EN case: $1,571.53 ÷ 12 boxes = $130.96 per box; $1,571.53 ÷ 288 packs = $5.46 per pack; $1,571.53 ÷ 3,456 cards = $0.45 per card",
+          "EN case saving: 12 x $167.28 = $2,007.36; $2,007.36 - $1,571.53 = $435.83; $435.83 ÷ $2,007.36 = 21.71%",
+          "Official price: 5,280 yen ÷ 159.8 = $33.04; $131.78 ÷ $33.04 = 3.99x official; $131.78 - $33.04 = $98.74 above official",
+          "The 15% cut, JP box: $155.04 x 0.85 = $131.78; JP case: $1,861.50 x 0.85 = $1,582.28",
+          "The 15% cut, dollars: JP box $155.04 - $131.78 = $23.26; JP case $1,861.50 - $1,582.28 = $279.22",
+          "The 32% cut, EN box: $246.00 x 0.68 = $167.28; EN case: $2,311.07 x 0.68 = $1,571.53",
+          "The 32% cut, dollars: EN box $246.00 - $167.28 = $78.72; EN case $2,311.07 - $1,571.53 = $739.54",
+          "EN box vs MSRP: 24 x $4.99 = $119.76; $167.28 ÷ $119.76 = 1.40x MSRP",
+          "Language gap: $167.28 - $131.78 = $35.50 per box; $167.28 ÷ $131.78 = 1.27x; gap on November 5 was $90.96, narrowed by $55.46",
+          "Uta manga vs JP box: $531.91 ÷ $131.78 = 4.04 boxes (SNKRDUNK raw, September 23, 2026); $1,126.41 ÷ $131.78 = 8.55 boxes (PSA 10, same date)",
+          "Uta manga price path: $1,629.20 launch week to $940.55 on October 18, 2026 = -42.27% (TCGplayer, via Bounty); $940.55 ÷ $131.78 = 7.14 boxes",
+          "JP box vs Japanese resale: ¥13,200 ÷ 159.8 = $82.60 (October 25, 2026 daily average); $131.78 - $82.60 = $49.18 above resale",
+          "God Pack expected cost: 180 boxes x $131.78 = $23,720.40 (about 1 in 180 boxes, March 6, 2026 guide)",
+          "EB-03 vs EB-02: JP box $131.78 ÷ $152.03 = 0.87x; EN box $167.28 ÷ $188.16 = 0.89x"
+        ],
+        "paragraphs": []
+      },
+      {
+        "h": "The decision layer: box, case, single, or wait, in both languages",
+        "paragraphs": [
+          "Six routes, one table. The box and the case in each language are the sealed routes on our shelf, the Uta single is the only card route, and waiting is for anyone who does not like the numbers above. Read the table by what each route buys, not by the sticker price.",
+          "Waiting is the only route with a price of $0, and it is the only route that made money in the last eleven days. A buyer who waited from November 5 to November 16 saved $23.26 on the Japanese box, $279.22 on the Japanese case, $78.72 on the English box, and $739.54 on the English case, for the same sealed product. Waiting earns only if the next move is down, and the last two moves were a 15 percent cut on the Japanese side and a 32 percent cut on the English side."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack",
+            "What it buys",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$131.78",
+              "$5.49",
+              "24 packs, 144 cards, the opening experience",
+              "Open it, do not hold it"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,582.28",
+              "$5.49",
+              "12 boxes at $131.86 each, factory sealed",
+              "Never for a discount: it costs more"
+            ],
+            [
+              "English box",
+              "$167.28",
+              "$6.97",
+              "24 packs, 288 cards, 1.40x official",
+              "Hold one, or open for English cards"
+            ],
+            [
+              "English case (12)",
+              "$1,571.53",
+              "$5.46",
+              "12 boxes at $130.96 each, if the count is twelve",
+              "The buy: the set's best per-box deal"
+            ],
+            [
+              "Uta manga single",
+              "$531.91",
+              "n/a",
+              "The set's top card, raw, SNKRDUNK Sep 23, 2026",
+              "Buy the card, skip the box"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "Reasonable: the shelf just fell twice"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the English cut, the case that charges, and the falling chase",
+        "note": "From the Warehouse: the question we get most about EB-03 is whether the Japanese case price is a listing error, because buyers see $1,582.28 next to twelve singles at $1,581.36 and expect the case to be the cheaper number. It is not an error. The case costs $0.92 more than twelve singles, and the English case saves $435.83. Divide before you pay, because on this set the case is either a charge or a deal depending on the language.",
+        "paragraphs": [
+          "No top guide for EB-03 investment prices the repricing, because none of them has our shelf. Our four products all fell between November 5 and November 16, 2026, the Japanese pair by 15 percent and the English pair by 32 percent, and a guide that quotes only today's price misses the fact that last week's buyer paid $78.72 more for the English box and $739.54 more for the English case. A sealed buy is a price at a date, and this set's date just moved twice in eleven days.",
+          "The second miss is the falling chase. The guides that call EB-03 expensive quote the Uta Manga at about $679 from March 2026 and stop. TCGplayer put the same card at $940.55 on October 18, 2026, down 42 percent from its $1,629.20 launch week, and Bounty's October 18 check found 14 of the 15 most valuable EB-03 printings down from launch week, a median 36 percent below, with only the Nico Robin parallel holding, down 4 percent.",
+          "The third miss is the resale gap. The Japanese resale tracker puts the EB-03 box at a ¥13,200 daily average on October 25, 2026, about $82.60 at the ¥159.8 rate, and our Japanese box at $131.78 sits $49.18 above that average. A buyer who pays our shelf price for a Japanese box is paying a premium over the Japanese resale market for a sealed box from a store, not a discount."
+        ]
+      },
+      {
+        "h": "The chase layer: nine SP cards, one Uta, and a God Pack",
+        "paragraphs": [
+          "Uta, the Comic Parallel numbered EB03-061, is the set. It is the set's only Super Parallel, with manga art of Uta and the Red Hair Pirates, and it was about $679 in March 2026. The lowest SNKRDUNK ask on September 23, 2026 was ¥85,000 raw, or $531.91, and ¥180,000 for a PSA 10, or $1,126.41. On October 7, 2026 the lowest asks were ¥72,000 raw, or $450.56, and ¥255,000 for a PSA 10, or $1,595.74, and TCGplayer put the card at $940.55 on October 18, 2026. At our $131.78 box price the September raw ask is 4.04 boxes and the TCGplayer figure is 7.14 boxes.",
+          "The second tier is a long way down, and it is falling too. The Boa Hancock SP was ¥75,000 raw on October 7, 2026, or $469.34, and the Nami SP was ¥48,000, or $300.38. The Collect.today daily averages for October 25, 2026 put the Hancock SP at ¥185,800 for a PSA 10, or $1,162.70, the Uta SEC manga at ¥140,000, or $876.10, the Robin SP at ¥110,000, or $688.36, and the Nami SP at ¥108,000, or $675.84. The God Pack puts six of the nine SP cards in a single pack, at an estimated one in 180 boxes per a March 6, 2026 guide, which prices the expected spend at $23,720.40 in Japanese boxes at our price. Bandai publishes no pull rates."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, the case count, and the chase falling",
+        "paragraphs": [
+          "Three risks decide whether sealed EB-03 earns anything. First, the reprint risk: Bandai does not publish print runs, so no sealed buyer can verify scarcity from an official source, and a reprint would compress the premium on every sealed format at once. EB-03 is the first heroines set, it is just over a year old, and EB-05 Heroines Edition Vol. 2 released on October 31, 2026, so the theme is being continued rather than retired. A sequel can lift the original or dilute it, and no honest page can say which it will be.",
+          "Second, the case-count risk, which is specific to the English case. The Japanese case prints twelve boxes on its listing, and the English case does not print a count at all. The $435.83 saving and the $130.96 per-box figure hold only if the case holds twelve boxes. If it holds fewer, the saving shrinks or reverses.",
+          "Third, the chase risk: most of this set's value sits in one card, and that card is falling. The Uta Manga is down 42 percent from its launch week on TCGplayer, 14 of the 15 most valuable printings are down, and the raw and graded asks for the same card disagree by more than two to one. A buyer who opens EB-03 for the Uta is buying a chance at one card. Opening a box for profit is a lottery ticket with better art; opening it for the cards is a purchase, and the two should never be confused."
+        ]
+      },
+      {
+        "h": "Context: the first heroines set, and the English twin",
+        "paragraphs": [
+          "EB-03 is the first all-female set in One Piece Card Game history. It released in Japan on October 25, 2025, as the third Extra Booster, built around the series' heroines, with a new Nefeltari Vivi Leader, 9 SP cards and four DON!! cards with package art. The English edition followed on February 20, 2026, almost four months later, at $4.99 a pack with 12 cards per pack.",
+          "The neighbor sets frame the price. [EB-02 Anime 25th Collection](/blog/eb-02-anime-25th-collection-buyers-guide/) is $152.03 a box in Japanese, $20.25 more than EB-03 for the same format, and its English box is $188.16, $20.88 more than EB-03's English box. Our [EB-02 investment guide](/blog/eb-02-investment/) runs the same verdict on the older set, and our [EB-03 buyers guide](/blog/eb-03-heroines-edition-buyers-guide/) prices the same four products as they stood on November 5. The Japanese box is the only place to open the Japanese printings of these 71 cards, and Japanese cards are generally not legal at official events outside Asia, so the English set is the play route and the Japanese set is the collect route."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants to open packs for fun at the lowest price. It is not for anyone who wants a prediction, because no honest page can tell you what an EB-03 box will cost next month, and the last eleven days moved it 15 percent in Japanese and 32 percent in English. It is not for a player outside Asia who needs tournament-legal cards. And it is not for anyone who cannot afford to have $167.28, or $1,571.53 for a case, sit on a shelf.",
+          "This guide is also not for anyone building the complete set by opening boxes. The set is 71 card types plus 4 DON!! cards, and no box guarantees any named card, let alone the Uta Manga, which sits in a God Pack estimated at about one in 180 boxes. Opening boxes to complete a set costs more than buying the singles. If you want every card, buy the cards."
+        ]
+      },
+      {
+        "h": "Action layer: the EB-03 investment checklist",
+        "paragraphs": [
+          "Decide the route first: English case at $1,571.53 to hold, English box at $167.28 if you want one, Japanese box at $131.78 only to open.",
+          "Confirm the English case count before you pay: the $435.83 saving holds only if the case holds twelve boxes, and the listing does not print a count.",
+          "Never buy the Japanese case for a discount: it costs $0.92 more than twelve singles, at $131.86 a box against $131.78.",
+          "Divide before you pay: the Japanese box is $5.49 a pack and the English box is $6.97 a pack, so the English box costs only 1.27 times the Japanese box for the same set.",
+          "Check the chase before you open: the Uta Manga is $531.91 raw on the September 23, 2026 ask, down from about $679 in March, and no box guarantees it.",
+          "Re-divide before you pay: every price here is stamped November 16, 2026, and the market figures are dated March 6 to October 25, 2026."
+        ]
+      }
+    ],
+    "slug": "eb-03-investment",
+    "takeaway": [
+      "EB-03 Heroines Edition is a good sealed investment in English at $1,571.53 a case, dividing to $130.96 a box if it holds twelve and saving $435.83 against twelve singles, after a 32 percent English cut between November 5 and November 16, 2026, and an opening box in Japanese at $131.78, or 3.99 times the ¥5,280 official price.",
+      "The Japanese case costs $0.92 more than twelve singles, at $131.86 a box against $131.78, while the English case is the set's best per-box deal and the cheapest per-card route at $0.45 a card; the language gap collapsed from $90.96 to $35.50 a box in eleven days.",
+      "The Uta Comic Parallel, EB03-061, is the whole chase: about $679 in March 2026, a ¥85,000 raw ask on September 23, 2026, or $531.91, and $940.55 on TCGplayer on October 18, 2026, down 42 percent from its launch week, with the God Pack estimated at about one in 180 boxes."
+    ]
+  },
   "eb-04-egghead-crisis-buyers-guide": {
     "datePublished": "2026-11-05",
     "faqs": [
@@ -18362,6 +18544,180 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move; the method does not. Choose the language first, read the English listing second, divide the case third, and never assume a case discounts: on this set the Japanese case saves $0.53 a box — and the Japanese box is the only one in this run to sit below its Japanese resale range.",
       "For the sets that carry EB-04 cards in English, see [OP-14 Azure Sea's Seven Buyer's Guide](/blog/op-14-azure-seas-seven-buyers-guide/) and [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/). For the sibling Extra Booster, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/).",
       "New this cycle: the [is EB-04 worth buying guide](/blog/is-eb-04-worth-buying/) gives the dated verdict, with the Koby Manga priced against the box and the English case's 20% drop."
+    ]
+  },
+  "eb-04-investment": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "In Japanese, cautiously, and only the single box. The Japanese box is $77.38, the cheapest Japanese One Piece box on our shelf, at 2.34 times the ¥5,280 official price, and it sits $32.13 below the lowest Mercari asking price of ¥17,500 from a November 2, 2026 survey. The Japanese case saves only $5.44 over twelve singles. In English, the case is $1,733.08 after a 32 percent cut, but its box count and its contents are both unprinted on the listing, so the $144.42 per-box figure is conditional, not confirmed.",
+        "q": "Is EB-04 Egghead Crisis a good investment?"
+      },
+      {
+        "a": "The Japanese box is $77.38 and the Japanese case is $923.12; the English case is $1,733.08, all on our shelf as of November 16, 2026. There is no English EB-04 box on our shelf, because there is no standalone English EB-04 release: the cards ship inside the OP-14 and OP-15 English boosters, at $184.54 and $181.24 a box. The Japanese box is $3.22 a pack and $0.54 a card; the Japanese case divides to $76.93 a box.",
+        "q": "How much is an EB-04 Egghead Crisis box and case?"
+      },
+      {
+        "a": "The Koby Comic Parallel, EB04-044, the set's Super Parallel, also called the Manga Rare. WhatTheSlab put it at $513.48 raw and $862.08 at PSA 10 on October 31, 2026. The lowest SNKRDUNK ask on October 7, 2026 was ¥59,999 raw, or $375.45, from a single weak listing, and ¥137,999 for a PSA 10, or $863.57. Assetra's November 14, 2026 estimate for a PSA 10 is $689, down 12.3 percent in four weeks, with the latest sale at $676.",
+        "q": "What is the most valuable card in EB-04 Egghead Crisis?"
+      }
+    ],
+    "h1": "EB-04 Egghead Crisis Investment: The Cheapest Box on the Shelf",
+    "intro": [
+      "Short answer: EB-04 Egghead Crisis is the cheapest Japanese One Piece box on our shelf, and a patience test in every other format. The [Japanese box](/product/eb-04-egghead-crisis-booster-box-japanese-one-piece-card/) is $77.38, or 2.34 times the ¥5,280 official price, after a 15 percent cut between November 5 and November 16, 2026. The [English case](/product/eb-04-egghead-crisis-sealed-case-english-one-piece-card/) is $1,733.08 after a 32 percent cut, but its box count and its contents are both unprinted, so buy it only after checking the listing twice.",
+      "Who this is for: sealed holders who want the cheapest Japanese Extra Booster box to hold, and English buyers who understand that EB-04 has no standalone English release at all. Every shelf price is stamped November 16, 2026."
+    ],
+    "metaDescription": "EB-04 Egghead Crisis as an investment: Japanese box $77.38, cheapest on the shelf, 2.34x official. The English case fell 32% to $1,733.08, count unprinted.",
+    "metaTitle": "EB-04 Egghead Crisis Investment: The Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the Japanese box, question the English case",
+        "paragraphs": [
+          "If you are buying EB-04 as an investment, buy the Japanese box and store it. The [EB-04 Japanese box](/product/eb-04-egghead-crisis-booster-box-japanese-one-piece-card/) is $77.38, or $3.22 a pack and $0.54 a card, which is the cheapest Japanese One Piece box on our shelf: 0.59 times the EB-03 box at $131.78 and 0.51 times the EB-02 box at $152.03. It got there by a cut: the same box was $91.03 on November 5, and $13.65 of that price disappeared in eleven days.",
+          "The [EB-04 Japanese case](/product/eb-04-egghead-crisis-sealed-case-12-boxes-japanese-one-piece-card/) is $923.12, which divides to $76.93 a box and saves $5.44 over twelve singles, or 0.59 percent. That is a real saving, but a thin one for $923.12 of shelf space.",
+          "The English side is the question mark. The [EB-04 English case](/product/eb-04-egghead-crisis-sealed-case-english-one-piece-card/) is $1,733.08, which divides to $144.42 a box if it holds twelve, and $40.12 below an OP-14 English box at $184.54 and $36.82 below an OP-15 English box at $181.24. There is no English EB-04 box on our shelf, because there is no standalone English EB-04 release: the cards ship inside the OP-14 and OP-15 English boosters. The case listing does not print a box count and does not say which English product it holds, so the $144.42 figure is conditional. Confirm both before you pay."
+        ]
+      },
+      {
+        "h": "The money layer: the 15 percent Japanese cut, and the 32 percent English cut",
+        "paragraphs": [
+          "EB-04, set code EB-04, released in Japan on January 31, 2026, as the fourth Extra Booster and the Egghead Island arc set: 67 card types plus 1 DON!! card, with 1 Leader, 29 Commons, 21 Rares, 9 Super Rares, 1 Secret Rare, 6 Special Cards and 1 DON!! card, in boxes of 24 packs of 6 cards at ¥220 a pack, for an official box price of ¥5,280, or $33.04 at the ¥159.8 rate of November 16, 2026. Our Japanese box at $77.38 is 2.34 times official, the lowest multiple of any Extra Booster on our shelf.",
+          "All three products fell between November 5 and November 16, 2026, but they did not fall together. Our November 5 guide priced them at $91.03, $1,086.02, and $2,548.65; today they are $77.38, $923.12, and $1,733.08, cuts of $13.65, $162.90, and $815.57. The Japanese pair fell exactly 15 percent, the same cut that moved every Pokemon SV set and the EB-02 and EB-03 Japanese products in the same window. The English case fell exactly 32 percent, the same cut that moved the EB-03 English products and the OP-14 and OP-15 English boxes in the same window, from $271.39 to $184.54 and $266.52 to $181.24. That was a shelf repricing in two speeds, not a market crash: the Japanese resale market for the box asked ¥17,500 and up in a November 2, 2026 survey, and the Koby chase fell on its own schedule.",
+          "The English case is the only English route, and it is priced against a set that does not exist in English. The OP-14 and OP-15 English boxes that carry EB-04 cards are $184.54 and $181.24, and their sealed cases divide to $139.36 and $128.64 a box. The EB-04 English case, if it holds twelve boxes, divides to $144.42 a box, which is more per box than either OP case and less per box than either OP single box."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "JP box: $77.38 ÷ 24 packs = $3.22 per pack; $77.38 ÷ 144 cards = $0.54 per card",
+          "JP case: $923.12 ÷ 12 boxes = $76.93 per box; $923.12 ÷ 288 packs = $3.21 per pack; $923.12 ÷ 1,728 cards = $0.53 per card",
+          "JP case saving: 12 x $77.38 = $928.56; $928.56 - $923.12 = $5.44; $5.44 ÷ $928.56 = 0.59%",
+          "EN case: $1,733.08 ÷ 12 boxes = $144.42 per box; $1,733.08 ÷ 288 packs = $6.02 per pack; $1,733.08 ÷ 3,456 cards = $0.50 per card",
+          "EN case vs 12 JP boxes: $1,733.08 - $928.56 = $804.52; $1,733.08 ÷ $928.56 = 1.87x",
+          "Official price: 5,280 yen ÷ 159.8 = $33.04; $77.38 ÷ $33.04 = 2.34x official; $77.38 - $33.04 = $44.34 above official",
+          "The 15% cut, JP box: $91.03 x 0.85 = $77.38; JP case: $1,086.02 x 0.85 = $923.12",
+          "The 15% cut, dollars: JP box $91.03 - $77.38 = $13.65; JP case $1,086.02 - $923.12 = $162.90",
+          "The 32% cut, EN case: $2,548.65 x 0.68 = $1,733.08; $2,548.65 - $1,733.08 = $815.57",
+          "OP-14 and OP-15 cuts: $271.39 x 0.68 = $184.54; $266.52 x 0.68 = $181.24",
+          "EN case per box vs OP boxes: $184.54 - $144.42 = $40.12 below OP-14; $181.24 - $144.42 = $36.82 below OP-15",
+          "OP cases per box: OP-14 $1,672.35 ÷ 12 = $139.36; OP-15 $1,543.71 ÷ 12 = $128.64",
+          "Koby manga vs JP box: $513.48 ÷ $77.38 = 6.64 boxes (WhatTheSlab raw, October 31, 2026); $862.08 ÷ $77.38 = 11.14 boxes (PSA 10, same date)",
+          "Koby manga SNKRDUNK: ¥59,999 ÷ 159.8 = $375.45 raw; $375.45 ÷ $77.38 = 4.85 boxes; ¥137,999 ÷ 159.8 = $863.57 PSA 10 (October 7, 2026)",
+          "Koby manga price path: ¥99,800 to ¥138,000 in August 2026 = $624.53 to $863.58; PSA 10 $689 on November 14, 2026, down 12.3% in four weeks (Assetra)",
+          "JP box vs Mercari: ¥17,500 ÷ 159.8 = $109.51 (November 2, 2026 survey); $109.51 - $77.38 = $32.13 below the lowest ask",
+          "EB-04 vs EB-03 and EB-02: JP box $77.38 ÷ $131.78 = 0.59x; $77.38 ÷ $152.03 = 0.51x"
+        ],
+        "paragraphs": []
+      },
+      {
+        "h": "The decision layer: box, case, single, or wait, in both languages",
+        "paragraphs": [
+          "Five routes, one table. The Japanese box and case are the sealed routes with printed counts, the English case is the sealed route with no printed count, the Koby single is the only card route, and waiting is for anyone who does not like the numbers above. Read the table by what each route buys, not by the sticker price: the cheapest box is the Japanese one, and the cheapest English route is the one with the least confirmed contents.",
+          "Waiting is the only route with a price of $0, and it is the only route that made money in the last eleven days. A buyer who waited from November 5 to November 16 saved $13.65 on the Japanese box, $162.90 on the Japanese case, and $815.57 on the English case, for the same sealed product. Waiting earns only if the next move is down, and the last move was down on all three products, twice as fast in English as in Japanese."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack",
+            "What it buys",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$77.38",
+              "$3.22",
+              "24 packs, 144 cards, the cheapest JP box on the shelf",
+              "The buy: hold it"
+            ],
+            [
+              "Japanese case (12)",
+              "$923.12",
+              "$3.21",
+              "12 boxes at $76.93 each, factory sealed",
+              "Only for the sealed run, thin saving"
+            ],
+            [
+              "English case",
+              "$1,733.08",
+              "$6.02",
+              "12 boxes at $144.42 each, if the count is twelve",
+              "Question it: count and contents unprinted"
+            ],
+            [
+              "Koby manga single",
+              "$513.48",
+              "n/a",
+              "The set's top card, raw, WhatTheSlab Oct 31, 2026",
+              "Buy the card, skip the box"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "Reasonable: the shelf just fell twice"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the English case with no contents, and the falling Koby",
+        "note": "From the Warehouse: the question we get most about EB-04 is whether the English case is really an EB-04 product, because buyers know there is no standalone English EB-04 release and then see an English sealed case on the shelf at $1,733.08. The answer is in the listing, or rather in what the listing does not say: it prints no box count and does not say which English product it holds. If the checkout listing names the contents, the case is the buy. If it does not, divide nothing until it does.",
+        "paragraphs": [
+          "No top guide for EB-04 investment prices the repricing, because none of them has our shelf. Our three products all fell between November 5 and November 16, 2026, the Japanese pair by 15 percent and the English case by 32 percent, and a guide that quotes only today's price misses the fact that last week's buyer paid $815.57 more for the English case. A sealed buy is a price at a date, and this set's date just moved twice in eleven days.",
+          "The second miss is the English case itself. The guides that call EB-04 cheap quote the Japanese box and stop, and the guides that call it expensive quote the $2,548.65 English case from November 5 and stop. Neither says the case is now $1,733.08, and neither says its box count and contents are unprinted on the listing. EB-04 is the only Extra Booster with no standalone English release, and its cards are split across OP-14, released January 16, 2026, and OP-15, released April 3, 2026.",
+          "The third miss is the Koby falling while the boxes fall. The August 2026 market range for the Koby Super Parallel was ¥99,800 to ¥138,000, or $624.53 to $863.58, and WhatTheSlab put the raw card at $513.48 on October 31, 2026, below the bottom of that range, with a PSA 10 at $862.08. Assetra's November 14, 2026 estimate for a PSA 10 is $689, down 12.3 percent in four weeks, with the latest sale at $676. A chase card that falls while its box falls is not a hedge; it is the same direction twice."
+        ]
+      },
+      {
+        "h": "The chase layer: one Koby, and six guest-artist SP cards",
+        "paragraphs": [
+          "Koby, the Comic Parallel numbered EB04-044, is the set. It is the set's Super Parallel, the Manga Rare, with manga art of the Egghead arc's breakout hero, and it carries the whole chase. WhatTheSlab put it at $513.48 raw and $862.08 at PSA 10 on October 31, 2026. The lowest SNKRDUNK ask on October 7, 2026 was ¥59,999 raw, or $375.45, from a single listing, so weak, and ¥137,999 for a PSA 10, or $863.57. Buyee's August 2026 range was ¥99,800 to ¥138,000 raw, or $624.53 to $863.58, with a PSA 10 range of ¥250,000 to ¥350,000, or $1,564.46 to $2,190.24. At our $77.38 box price the October raw figure is 6.64 boxes and the PSA 10 is 11.14 boxes.",
+          "The second tier is a long way down, and it is thin too. The set's six guest-artist Special cards and the Jewelry Bonney Leader carry the rest of the value, and the official card list holds 85 rows for EB-04, including 18 parallel rows and six SP card rows, four of which carry numbers from other sets. No top guide prices the second tier with a date, because the second tier barely trades."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, the case with no contents, and the chase falling",
+        "paragraphs": [
+          "Three risks decide whether sealed EB-04 earns anything. First, the reprint risk: Bandai does not publish print runs, so no sealed buyer can verify scarcity from an official source, and a reprint would compress the premium on every sealed format at once. EB-04 is the newest Extra Booster but one, released January 31, 2026, and it has survived this long without a reprint, which is evidence, not a guarantee.",
+          "Second, the English case risk, which is specific to this set. The Japanese case prints twelve boxes on its listing, and the English case does not print a count and does not say which English product it holds. The $144.42 per-box figure and the $40.12 and $36.82 savings against the OP-14 and OP-15 boxes hold only if the case holds twelve boxes of the product you think it holds. If it holds fewer, or a different product, the saving shrinks or reverses. Check the shrink and flaps before you buy any sealed box you did not buy from our shelf, using our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/), and store what you hold as our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) describes.",
+          "Third, the chase risk: most of this set's value sits in one card, and that card is falling. The Koby Manga is down from its August 2026 range on every dated check since, the PSA 10 estimate is down 12.3 percent in four weeks, and the raw ask on SNKRDUNK is a single weak listing. A buyer who opens EB-04 for the Koby is buying a chance at one card. Opening a box for profit is a lottery ticket with better art; opening it for the cards is a purchase, and the two should never be confused. See our [investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) before treating any sealed box as an asset."
+        ]
+      },
+      {
+        "h": "Context: the Egghead arc, and the English split",
+        "paragraphs": [
+          "EB-04 is the Egghead arc set. It released in Japan on January 31, 2026, as the fourth Extra Booster, built around the Egghead Island arc, with a new Jewelry Bonney Leader and a Super Parallel Koby. It is the only Extra Booster with no standalone English release: its cards ship inside two combined English boosters, OP-14 Azure Seas Seven, released January 16, 2026, and OP-15 Adventure on Kami's Island, released April 3, 2026, both at $4.99 a pack.",
+          "The neighbor sets frame the price. [EB-03 Heroines Edition](/blog/eb-03-heroines-edition-buyers-guide/) is $131.78 a box in Japanese, $54.40 more than EB-04 for the same format, and its English box is $167.28, which EB-04 does not have at all. Our [EB-03 investment guide](/blog/eb-03-investment/) runs the same verdict on the older set, and our [EB-04 buyers guide](/blog/eb-04-egghead-crisis-buyers-guide/) prices the same three products as they stood on November 5."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants to open packs for fun at the lowest price. It is not for anyone who wants a prediction, because no honest page can tell you what an EB-04 box will cost next month, and the last eleven days moved it 15 percent in Japanese and 32 percent in English. It is not for a player outside Asia who needs tournament-legal cards, because the Japanese cards are not legal at official events outside Asia and the English cards live in OP-14 and OP-15. And it is not for anyone who cannot afford to have $77.38, or $1,733.08 for an English case, sit on a shelf.",
+          "This guide is also not for anyone building the complete set by opening boxes. The set is 67 card types plus 1 DON!! card, and no box guarantees any named card, let alone the Koby Manga, which Bandai publishes no pull rate for. Opening boxes to complete a set costs more than buying the singles. If you want every card, buy the cards. Our [open or keep sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) runs that decision on its own."
+        ]
+      },
+      {
+        "h": "Action layer: the EB-04 investment checklist",
+        "paragraphs": [
+          "Decide the route first: Japanese box at $77.38 to hold, Japanese case at $923.12 only for twelve boxes, English case at $1,733.08 only after checking the listing.",
+          "Check the English case listing twice before you pay: the $144.42 per-box figure holds only if the case holds twelve boxes, and the listing does not print a count or say which English product it holds.",
+          "Divide the Japanese case before assuming it discounts: it saves $5.44 over twelve singles, at $76.93 a box against $77.38, which is 0.59 percent.",
+          "Divide before you pay: the Japanese box is $3.22 a pack and $0.54 a card, the cheapest Japanese One Piece box on the shelf at 0.59 times the EB-03 box.",
+          "Check the chase before you open: the Koby Manga is $513.48 raw on October 31, 2026, down from its August range, and no box guarantees it.",
+          "Re-divide before you pay: every price here is stamped November 16, 2026, and the market figures are dated August 2 to November 14, 2026."
+        ]
+      }
+    ],
+    "slug": "eb-04-investment",
+    "takeaway": [
+      "EB-04 Egghead Crisis is the cheapest Japanese One Piece box on our shelf at $77.38, or 2.34 times the ¥5,280 official price, after a 15 percent cut between November 5 and November 16, 2026, and it sits $32.13 below the lowest Mercari asking price of ¥17,500 from a November 2, 2026 survey.",
+      "The Japanese case saves only $5.44 over twelve singles, and the English case fell 32 percent to $1,733.08, but its box count and contents are both unprinted on the listing, so the $144.42 per-box figure is conditional; EB-04 has no standalone English release, and its cards ship inside OP-14 and OP-15.",
+      "The Koby Comic Parallel, EB04-044, is the whole chase: $513.48 raw and $862.08 at PSA 10 on October 31, 2026, down from an August 2026 range of ¥99,800 to ¥138,000, with Assetra's November 14, 2026 PSA 10 estimate at $689, down 12.3 percent in four weeks."
     ]
   },
   "english-one-piece-booster-box-price": {
