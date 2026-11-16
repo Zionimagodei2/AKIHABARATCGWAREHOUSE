@@ -2525,7 +2525,7 @@ export const POSTS: Record<string, BlogPost> = {
         "paragraphs": [
           "The top guides for Japanese Fusion World share one gap: they rank Japanese boxes by yen market price and never say where, or whether, the box can be bought. SNKRDUNK's box price guide ranks all twelve mainline boxes by its own market data, with Manga Booster 01 at the top and FB07 among the dearest, and it does that job well. Samurai Sword's Japanese booster box guide covers FB-01 to FB-10 with set facts from Bandai's official pages, and it does that job well. But neither divides an English case against a Japanese box, neither prints a USD shelf price the buyer can actually pay, and neither says the Japanese box differs from the English box where it matters most to an opener: six cards a pack against twelve.",
           "That single-language view hides two findings. First, the per-card gap: a Japanese box holds 144 cards and an English box holds 288, so the pack price alone tells a buyer nothing about the value of the cards inside. Second, the availability gap: Japanese sealed Fusion World is a product other stores list and we do not, and a guide that ranks it without saying so sends buyers to a checkout that does not exist. The third gap is the digital code. Every Fusion World pack, Japanese or English, includes a serial code for the digital version, so a sealed box preserves unused codes and an opened or resealed box does not.",
-          "This guide owns those gaps, because it is the only one written from the shelf the prices come from. Every dollar figure above is our own case or single price as of November 6, 2026, every yen figure is Bandai's list, and the two are kept in separate columns so no buyer mistakes one for the other. For the Japanese boxes ranked by official price and dated market asks, see [Best Japanese Fusion World Booster Box, Priced](/blog/best-fusion-world-booster-box-japanese/)."
+          "This guide owns those gaps, because it is the only one written from the shelf the prices come from. Every dollar figure above is our own case or single price as of November 6, 2026, every yen figure is Bandai's list, and the two are kept in separate columns so no buyer mistakes one for the other. For the Japanese boxes ranked by official price and dated market asks, see [Best Japanese Fusion World Booster Box, Priced](/blog/best-fusion-world-booster-box-japanese/). For the honest buy on the Japanese boxes themselves, see [Fusion World Booster Box Japanese: The Honest Buy](/blog/fusion-world-booster-box-japanese/)."
         ]
       },
       {
@@ -2846,7 +2846,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the Fusion World case checklist",
         "paragraphs": [
-          "Run this list in order before money moves. If any step fails, the case waits."
+          "Run this list in order before money moves. If any step fails, the case waits. For the full nineteen-product ladder, the [Fusion World Japanese booster box price index](/blog/fusion-world-booster-box-japanese-price/) divides every box, Japanese and English, after the 15 percent cut."
         ]
       }
     ],
@@ -15756,7 +15756,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the buying checklist",
         "paragraphs": [
-          "Work the list in order and the box you buy is the box you meant to buy, at a per-pack price you checked yourself. The [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) turns the division into a pick, the [best Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) runs the same division for the other Dragon Ball game, and the [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) prices every channel against this shelf."
+          "Work the list in order and the box you buy is the box you meant to buy, at a per-pack price you checked yourself. The [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) turns the division into a pick, the [best Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) runs the same division for the other Dragon Ball game, and the [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) prices every channel against this shelf. For the Japanese boxes alone, the [Fusion World booster box Japanese guide](/blog/fusion-world-booster-box-japanese/) runs the five sealed boxes we hold, with the 15 percent cut divided."
         ]
       }
     ],
@@ -16440,7 +16440,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "h": "Action layer: the sealed case checklist",
         "paragraphs": [
-          "Before paying for a Fusion World case, walk the list. The set decides the job, the division decides the price, and the split decides whether the case fits your budget: a case is twelve boxes, and the per-person figure is the one to agree before anyone pays. For the format question across the wider shelf, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry, and for the other Dragon Ball game, the [best Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all thirteen Masters cases to the box, the pack, and the card.",
+          "Before paying for a Fusion World case, walk the list. The set decides the job, the division decides the price, and the split decides whether the case fits your budget: a case is twelve boxes, and the per-person figure is the one to agree before anyone pays. For the format question across the wider shelf, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry, and for the other Dragon Ball game, the [best Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) prices all thirteen Masters cases to the box, the pack, and the card. For the Japanese side of the same ladder, the [Fusion World Japanese booster box price index](/blog/fusion-world-booster-box-japanese-price/) divides all five Japanese boxes to the pack and the card.",
           "When the next set lands, re-run the division: the first thing to check is whether the value tier still starts at FB04, and the second is whether the newest set still undercuts the latest released set, the way FB12 undercuts FB11 by $73.31 a box today. Prices move, and the change column is the habit that keeps a price guide honest."
         ]
       }
@@ -19628,6 +19628,416 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move; the method does not. Choose the language first, divide the case in that language, and never budget for a product the shelf does not stock.",
       "For the predecessor set, see [FB08 Saiyan's Pride Buyer's Guide](/blog/fb08-saiyans-pride-buyers-guide/). For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the English case ladder, see [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/).",
       "New this cycle: the [is FB09 worth buying guide](/blog/is-fb09-worth-buying/) gives the dated verdict on this set, with the $64.12 Japanese box against the $4,830.00 English case and the Gogeta chase priced against the box."
+    ]
+  },
+  "fusion-world-booster-box-japanese": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "It is titled 'Card', and the product page says factory sealed. The live FB08 page reads 'factory sealed and sourced directly from authorized distributors', lists 'Factory sealed, direct from Akihabara, Tokyo', and offers '30-day returns on sealed products'. The Warehouse photos show sealed boxes, and the $22.12 price only makes sense as a box: it is $10.92 below the ¥5,280 Japanese retail box price, or $33.04 at ¥159.8. Two of our own earlier guides called these five listings single cards; that reading was wrong, and this guide corrects it. One honest residual: the page prints no pack count, so the 24-pack division below is the standard Japanese box shape, stated as such rather than printed on the listing.",
+        "q": "Is the $22.12 FB08 listing a single card or a sealed booster box?"
+      },
+      {
+        "a": "At official Japanese retail, ¥5,280 for FB01 through FB10 and ¥5,760 for FB11 and FB12, or $33.04 and $36.05 at the ¥159.8 rate of November 16, 2026. On our shelf, the five Japanese boxes we stock run $22.12 to $54.50: FB08 at $22.12, FB07 at $23.70, SB01 and SB02 at $48.97 each, and FB09 at $54.50. Every one of them fell exactly 15 percent between November 10 and November 16, 2026. No other Japanese Fusion World box is stocked, so a buyer who wants FB01 through FB06, FB10 or FB11 in Japanese pays the market, not our shelf.",
+        "q": "How much is a Japanese Fusion World booster box?"
+      },
+      {
+        "a": "Open Japanese, hold English. A Japanese box gives you 24 packs of 6 cards for $22.12 to $54.50, or $0.92 to $2.27 a pack, and it is the only way to open Fusion World packs on our shelf. An English case gives you twelve boxes of 24 packs of 12 cards, and the cheapest English box is FB04 Ultra Limit at $90.61, or $3.78 a pack, from a $1,087.37 case. The Japanese box is the opener's buy and the English case is the holder's buy, and the two should never be compared per pack without dividing the cards: a Japanese pack holds 6 cards and an English pack holds 12.",
+        "q": "Should I buy the Japanese box or the English case?"
+      }
+    ],
+    "h1": "Fusion World Booster Box Japanese: The Honest Buy",
+    "intro": [
+      "Short answer: buy the [FB08 box](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) at $22.12. Five sealed Japanese Fusion World boxes sit on our shelf as of November 16, 2026, from $22.12 to $54.50, every one of them 15 percent below its November 10 price, and FB08 divides to $0.92 a pack and $0.15 a card, the cheapest sealed Dragon Ball on the shelf. The listings are titled 'Card', but the product pages say factory sealed, and the prices only make sense as boxes.",
+      "Who this is for: buyers who want to open Japanese Fusion World packs at the lowest price, and collectors chasing the FB09 anniversary set or the Manga Booster art. Every shelf price is stamped November 16, 2026; every yen figure converts at ¥159.8."
+    ],
+    "metaDescription": "Five sealed Japanese Fusion World boxes on our shelf, $22.12 to $54.50 after a 15% cut. FB08 is $0.92 a pack. Which box to buy, divided.",
+    "metaTitle": "Fusion World Booster Box Japanese: The Honest Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: FB08 at $22.12, FB07 behind it",
+        "paragraphs": [
+          "If the job is opening Japanese Fusion World packs, buy FB08. The [FB08 Saiyan's Pride box](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) is $22.12, or $0.92 a pack and $0.15 a card, and it is $10.92 below the ¥5,280 official Japanese box price, $33.04 at the November 16 rate. Nothing else sealed on this shelf opens cheaper, in any game: the cheapest Japanese Pokemon box on our shelf costs more per pack, and the cheapest English Fusion World pack costs $3.78, more than four times the FB08 pack. The [FB08 buyers guide](/blog/fb08-saiyans-pride-buyers-guide/) runs this set in full, and it reaches the same verdict at the higher November 10 price.",
+          "The second buy is FB07. The [FB07 Wish for Shenron box](/product/fb07-wish-for-shenron-japanese-dragon-ball-fusion-world-card/) is $23.70, or $0.99 a pack and $0.16 a card, $9.34 below official, and $1.58 behind FB08 for the same 24 packs of 6 cards. Buy FB07 when FB08 sells out, or when you want the Shenron set rather than the Saiyan set. The [FB07 buyers guide](/blog/fb07-wish-for-shenron-buyers-guide/) prices the set against its English case.",
+          "The dear end is a different decision. The [FB09 Dual Evolution box](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) is $54.50, or $2.27 a pack, $21.46 above official, because Dual Evolution is the second-anniversary set and the market prices the chase. [SB01](/product/sb01-manga-booster-01-japanese-dragon-ball-fusion-world-card/) and [SB02](/product/sb02-manga-booster-02-japanese-dragon-ball-fusion-world-card/) are $48.97 each, or $2.04 a pack, and they buy manga-panel art, not play value. Buy either for the set inside, never because the per-pack figure looks cheap, because it does not."
+        ]
+      },
+      {
+        "h": "The money layer: the whole shelf fell 15 percent",
+        "paragraphs": [
+          "Every Fusion World price on our shelf fell between November 10 and November 16, 2026, by the same amount: exactly 15 percent. The five Japanese boxes fell from $233.24 to $198.26, a cut of $34.98. The fourteen English cases fell from $63,123.23 to $53,654.75, a cut of $9,468.48. The whole ladder fell from $63,356.47 to $53,853.01, a cut of $9,503.46 in six days. That is a shelf repricing, not a market crash: the same 15 percent moved every Pokemon SV set and every One Piece Extra Booster in the same window.",
+          "Waiting paid in exact proportion. A buyer who waited from November 10 to November 16 saved $3.90 on FB08, $4.18 on FB07, $9.62 on FB09, and $8.64 on each Manga Booster, for the same sealed product. The English side saved the same 15 percent in larger dollars: $191.89 on the FB04 case and $4,036.50 on the SB01 case.",
+          "The cut also moved the ladder against official retail. At ¥159.8, a Japanese box lists at $33.04 for FB01 through FB10 and $36.05 for FB11 and FB12. FB08 now sits $10.92 below list and FB07 sits $9.34 below list, which is the whole point of buying from a store that holds stock. FB09 sits $21.46 above list and the Manga Boosters sit $15.93 above list, which is the market charging for the chase and the art. The full nineteen-product ladder is in our [Fusion World Japanese booster box price index](/blog/fusion-world-booster-box-japanese-price/)."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "FB08 JP box: $22.12 ÷ 24 packs = $0.92 per pack; $22.12 ÷ 144 cards = $0.15 per card",
+          "FB07 JP box: $23.70 ÷ 24 packs = $0.99 per pack; $23.70 ÷ 144 cards = $0.16 per card",
+          "SB01 JP box: $48.97 ÷ 24 packs = $2.04 per pack; $48.97 ÷ 144 cards = $0.34 per card",
+          "SB02 JP box: $48.97 ÷ 24 packs = $2.04 per pack; $48.97 ÷ 144 cards = $0.34 per card",
+          "FB09 JP box: $54.50 ÷ 24 packs = $2.27 per pack; $54.50 ÷ 144 cards = $0.38 per card",
+          "All five JP boxes: $22.12 + $23.70 + $54.50 + $48.97 + $48.97 = $198.26; Nov 10: $26.02 + $27.88 + $64.12 + $57.61 + $57.61 = $233.24",
+          "The 15% cut, FB08: $26.02 × 0.85 = $22.12; FB07: $27.88 × 0.85 = $23.70; FB09: $64.12 × 0.85 = $54.50; SB01 and SB02: $57.61 × 0.85 = $48.97",
+          "Official JP box FB01-FB10: 24 packs × ¥220 = ¥5,280; ¥5,280 ÷ 159.8 = $33.04",
+          "Official JP box FB11-FB12: 24 packs × ¥240 = ¥5,760; ¥5,760 ÷ 159.8 = $36.05",
+          "FB08 below official: $33.04 − $22.12 = $10.92 below list; FB07: $33.04 − $23.70 = $9.34 below list",
+          "FB09 above official: $54.50 − $33.04 = $21.46 above list; SB01 and SB02: $48.97 − $33.04 = $15.93 above list",
+          "FB08 vs FB09: $54.50 − $22.12 = $32.38; $54.50 ÷ $22.12 = 2.46x",
+          "Cheapest EN box FB04: $1,087.37 ÷ 12 boxes = $90.61 per box; $90.61 ÷ 24 packs = $3.78 per pack; $90.61 ÷ 288 cards = $0.31 per card",
+          "FB04 vs FB08 per box: $90.61 − $22.12 = $68.49; per pack: $3.78 − $0.92 = $2.86",
+          "FB12 EN case per box: $1,290.30 ÷ 12 = $107.53; pre-order $182.92 − $107.53 = $75.39",
+          "Whole ladder cut: $63,356.47 − $53,853.01 = $9,503.46; JP five cut: $233.24 − $198.26 = $34.98"
+        ],
+        "paragraphs": [
+          "Every line above divides a price you can pay today, and every cut line multiplies a price our own November 10 index printed. Re-run any of them before you pay: the shelf price is the numerator, the pack count is the denominator, and a division that does not match the line means the price moved since November 16."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or wait",
+        "paragraphs": [
+          "Five routes, one table. The Japanese boxes are the only way to open Fusion World packs one box at a time on our shelf, the English case is the only way to hold twelve English boxes, and waiting is the only route that made money in the last six days. Read the table by what each route buys, not by the sticker price: the cheapest box is the Japanese FB08, and the cheapest English route is the FB04 case, and the two answer different jobs.",
+          "Waiting deserves its own row because it just earned $34.98 across the five Japanese boxes and $9,468.48 across the fourteen English cases. A buyer who waited from November 10 to November 16 bought the same sealed product for 15 percent less, and a buyer who buys today pays the cut price. Waiting earns only if the next move is down, and nobody outside the store knows the next move."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack",
+            "What it buys",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "FB08 Japanese box",
+              "$22.12",
+              "$0.92",
+              "24 packs, 144 cards, $10.92 below official",
+              "The buy: open it"
+            ],
+            [
+              "FB07 Japanese box",
+              "$23.70",
+              "$0.99",
+              "24 packs, 144 cards, $9.34 below official",
+              "The second buy"
+            ],
+            [
+              "SB01 / SB02 Japanese box",
+              "$48.97",
+              "$2.04",
+              "24 packs, manga-panel art, $15.93 above official",
+              "Buy for the art"
+            ],
+            [
+              "FB09 Japanese box",
+              "$54.50",
+              "$2.27",
+              "24 packs, anniversary chase, $21.46 above official",
+              "Buy for the set"
+            ],
+            [
+              "FB04 English case",
+              "$1,087.37",
+              "$3.78",
+              "12 boxes at $90.61 each, 288 packs",
+              "The bulk buy"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "Reasonable: the shelf just fell 15%"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing: the 'Card' in the title, resolved",
+        "note": "From the Warehouse: the question we get most about these five listings is whether the $22.12 FB08 item is a single card or a sealed box, because the title says 'Card' and the price looks like a box. The answer is on the product page itself: it reads 'factory sealed and sourced directly from authorized distributors', it lists 'Factory sealed, direct from Akihabara, Tokyo', and it offers 30-day returns on sealed products. A single card has no factory seal and no sealed-product return. Buy it as a box, and check the seal when it arrives.",
+        "paragraphs": [
+          "No top guide for this query answers the title question, because none of them has our shelf. The search results are single-set listings, pre-order pages, and market trackers, and none of them tells you what the buyable Japanese box actually is, because none of them sells one. Our own earlier guides filled the gap badly: the November 6 and November 9 guides called these five listings single cards, and the November 10 price index called them sealed boxes, and both claims sat live on the same site at the same time.",
+          "The page settles it. The FB08 listing is titled 'Card', carries no description, and names no single card, and its page copy says factory sealed twice and offers returns on sealed products. The photos show sealed boxes. The price ladder settles it a second way: the five prices run $22.12 to $54.50 in the same order as the English case ladder, with FB08 cheapest and FB09 dearest in both languages, which is the shape of five boxes, not five unrelated singles. The one thing the page does not print is a pack count, so the 24-pack division here is the standard Japanese box shape, stated as such rather than attributed to the listing.",
+          "The second gap the top results leave is the repricing. No outside guide prices the November 16 shelf, because the 15 percent cut landed on November 16 and the outside guides still quote the November 10 prices, or the official ¥5,280 retail figure, as if either were today's price. A buyer who pays the November 10 price for FB08 overpays by $3.90, and a buyer who pays it for the SB01 case overpays by $4,036.50. A sealed buy is a price at a date, and this set's date just moved."
+        ]
+      },
+      {
+        "h": "The practical layer: what a Japanese Fusion World box actually is",
+        "paragraphs": [
+          "Fusion World launched in Japan on February 16, 2024, as a new game under the Dragon Ball Super Card Game name, with a mainline booster roughly every quarter since: FB01 Awakened Pulse through FB12 Reach the God, plus two Manga Boosters and a story booster line. A Japanese booster box holds 24 packs of 6 cards, 144 cards, with a digital serial code in every pack. Bandai's official Japanese pages print ¥220 including tax per pack for FB01 through FB10 and ¥240 for FB11 and FB12, so a Japanese box lists at ¥5,280 for the first ten sets and ¥5,760 for the last two, $33.04 and $36.05 at the November 16 rate. An English box holds 24 packs of 12 cards, 288 cards, at $4.99 a pack, so an English box lists at $119.76.",
+          "The newest sets frame the shelf. FB11 Brightness of Hope reached Japan on September 12, 2026 at ¥240 a pack, and English shelves on October 16, 2026 at $4.99 a pack, with 123 card types. FB12 Reach the God releases in Japan on December 12, 2026, with 123 card types, and the English release follows on December 18, 2026. Our [FB12 English case](/product/dragon-ball-super-fusion-world-fb12-reach-the-god-booster-box-sealed-case-englis/) divides to $107.53 a box today, $75.39 below the $182.92 pre-order box our November 10 index quoted. The next set after FB12 is ST02 Story Booster 02, expected in Japan on January 16, 2027 with 20 packs of six cards, and Bandai has not yet confirmed its pack count. Our [beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) covers how the game plays, and our [buying from Japan guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers shipping and customs. To buy, check three things on the listing: the language, the cards per pack, and the condition words."
+        ]
+      },
+      {
+        "h": "The chase layer: FB09, the Manga Boosters, and FB12",
+        "paragraphs": [
+          "FB09 is the dear Japanese box because Dual Evolution is the second-anniversary set. It released in Japan on March 14, 2026 and in English on March 13, 2026, with 123 card types, and it is the set where the English release came first by a day. At $54.50 a box it costs $32.38 more than FB08 for the same 24 packs, and the premium buys the anniversary chase, not more cards. A buyer who opens FB09 for the chase is buying a chance at the set's Secret Rares, and no box guarantees any named card, because Bandai publishes no pull rate for any Fusion World set. The [FB09 buyers guide](/blog/fb09-dual-evolution-buyers-guide/) runs the set in full.",
+          "The Manga Boosters are a different purchase wearing the same box shape. SB01 released in Japan on June 28, 2025, with 110 card types plus 21 energy markers, five Leaders, and one Secret Rare; SB02 followed on November 8, 2025, with 132 card types including 21 energy markers, five Leaders, and two Secret Rares. Both are built around alt-art cards illustrated by Akira Toriyama, and both Japanese boxes are $48.97, or $2.04 a pack. Our [special set guide](/blog/best-dragon-ball-fusion-world-special-set/) runs both against the English cases, where SB01 divides to $1,906.13 a box and SB02 to $674.49. FB12 is the coming set: 123 card types built around Dragon Ball Super: Beerus, releasing in Japan on December 12, 2026, with no card list published yet."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, pre-orders, and the wrong language",
+        "paragraphs": [
+          "Three risks decide whether a Japanese Fusion World box earns its price. First, the reseal risk: a box below official retail invites the question of whether it is sealed at all, and FB08 at $22.12 is $10.92 below the ¥5,280 list. The answer is the chain of custody: buy from a store that prints factory sealed on the listing and offers returns on sealed products, check the shrink and flaps when the box arrives using our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/), and store what you hold as our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) describes.",
+          "Second, the pre-order risk, the most expensive way to own the next set. The FB12 pre-order box our November 10 index quoted asks $182.92, 5.07 times the $36.05 official Japanese box price, while our FB12 English case divides to $107.53 a box today. If the job is FB12, wait for December 12 and check the shelf first.",
+          "Third, the language risk, which buyers discover after paying. Japanese Fusion World cards are not legal at official events outside Asia, and the English cards are the tournament-legal route in the West. A player who buys the $22.12 Japanese box to play in a sanctioned event has bought the wrong product at the right price. The Japanese box is for opening, collecting, and casual play, and the English case is for the player who needs the cards to be legal where they play."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a single Japanese Fusion World box for FB01 through FB06, FB10, or FB11, because we do not stock those sets in Japanese. It is not for anyone who wants a named single card, because the five listings name sets, not cards, and no box guarantees any named card. It is not for a player outside Asia who needs legal cards, because the Japanese cards are not legal at official events outside Asia.",
+          "This guide is also not for anyone who wants a prediction, because no honest page can tell you what an FB08 box will cost next month, and the last six days moved it 15 percent down. It is not for anyone who cannot afford to have $22.12, or $1,087.37 for an English case, sit on a shelf. And it is not for anyone building a complete set by opening boxes: opening boxes to complete a set costs more than buying the singles. If you want every card, buy the cards. Our [open or keep sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) runs that decision on its own."
+        ]
+      },
+      {
+        "h": "Action layer: the Fusion World Japanese box checklist",
+        "paragraphs": [
+          "Decide the job first: open Japanese at $0.92 to $2.27 a pack, hold English at $90.61 a box and up, or wait for the next price move.",
+          "Buy FB08 at $22.12 if the job is opening: it is $10.92 below official, $0.92 a pack, and the cheapest sealed box on the shelf.",
+          "Buy FB07 at $23.70 if FB08 sells out: same 24 packs, $0.99 a pack, $9.34 below official.",
+          "Buy FB09 at $54.50 or a Manga Booster at $48.97 only for the set inside: FB09 is the anniversary chase, the Manga Boosters are Toriyama art, and neither is a cheap pack.",
+          "Divide before you pay: the Japanese box is 24 packs of 6 cards, the English box is 24 packs of 12, and a division that uses the wrong pack count is wrong.",
+          "Check the listing twice: the language, the cards per pack, and the words factory sealed, and check the seal when the box arrives.",
+          "Re-divide before you pay: every price is stamped November 16, 2026."
+        ]
+      }
+    ],
+    "slug": "fusion-world-booster-box-japanese",
+    "takeaway": [
+      "Five sealed Japanese Fusion World boxes sit on our shelf at $22.12 to $54.50, every one 15 percent below its November 10 price, and FB08 at $22.12 divides to $0.92 a pack and $0.15 a card, the cheapest sealed Dragon Ball on the shelf.",
+      "The listings are titled 'Card', but the product pages say factory sealed and the photos show sealed boxes; two of our own earlier guides called them single cards, and that reading was wrong. The page prints no pack count, so the 24-pack division is the standard Japanese box shape, stated as such.",
+      "The English route is the FB04 case at $1,087.37, or $90.61 a box, and FB12 releases in Japan on December 12, 2026, with our English case dividing to $107.53 a box, $75.39 below the $182.92 pre-order box."
+    ]
+  },
+  "fusion-world-booster-box-japanese-price": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "FB08 Saiyan's Pride, at $22.12. It divides to $0.92 a pack and $0.15 a card, and it sits $10.92 below the ¥5,280 official Japanese box price, $33.04 at the ¥159.8 rate of November 16, 2026. The second cheapest is FB07 Wish for Shenron at $23.70, or $0.99 a pack. Both fell exactly 15 percent between November 10 and November 16, 2026. No other Japanese Fusion World box is stocked, so FB08 and FB07 are the only two Japanese boxes on the shelf that sell below official retail.",
+        "q": "What is the cheapest Japanese Fusion World booster box?"
+      },
+      {
+        "a": "It was a shelf repricing, not a market crash. Every one of the nineteen Fusion World products fell by exactly 15 percent between November 10 and November 16, 2026, and the same 15 percent cut moved every Pokemon SV set and every One Piece Extra Booster in the same window. The resale market did not move with it: the FoilKraken November 1, 2026 sealed-box figures quoted below are unchanged, and our case divisions now sit further below them on FB06, FB07 and FB08. A repricing that hits every product at the same rate, on the same day, is the store repricing its shelf, and the buyer who waited six days paid 15 percent less for the same sealed product.",
+        "q": "Why did every Fusion World price fall 15 percent?"
+      },
+      {
+        "a": "Compare per box, not per case, and compare against the single-box market. The cheapest English box is FB04 Ultra Limit at $90.61 from a $1,087.37 case, which is $29.15 below the $119.76 official English box. Against the FoilKraken November 1, 2026 sealed-box figures, our FB06 division sits $460.05 below the market box, FB07 sits $268.01 below, and FB08 sits $85.35 below. But FB09 divides to $342.13 a box against a $270.04 market box, $72.09 above it, and FB11 divides to $180.84 against $179.88, $0.96 above it. A case is a bulk buy: it is cheaper per box than the market on some sets and dearer on others, and the division decides which, not the case price.",
+        "q": "Is the English case cheaper per box than a single English box?"
+      }
+    ],
+    "h1": "Fusion World Japanese Booster Box Price: Every Box on the Shelf",
+    "intro": [
+      "Short answer: nineteen Dragon Ball Fusion World booster boxes sit on the Warehouse shelf as of November 16, 2026, $53,853.01 for the whole ladder. The cheapest box is the Japanese FB08 Saiyan's Pride at $22.12, $0.92 a pack, and the dearest is the English SB01 Manga Booster 01 case at $22,873.50, $1,906.13 a box. Every one of the nineteen fell exactly 15 percent since November 10, and every figure below is a live Warehouse price, divided so you can check it.",
+      "This index is for the buyer who has picked Fusion World and wants the price of every booster box on the shelf, Japanese boxes and English cases together. It is not a ranking: the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the English cases and the [best Japanese Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) picks the Japanese buy. Prices as of November 16, 2026."
+    ],
+    "metaDescription": "Every Fusion World Japanese booster box price, Nov 16, 2026: 19 products, $22.12 to $22,873.50, all 15% below Nov 10. The full ladder divided.",
+    "metaTitle": "Fusion World Japanese Booster Box Price: Every Box",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: $22.12 to $22,873.50, all 15 percent down",
+        "paragraphs": [
+          "If the job is opening Fusion World packs cheapest, buy a Japanese box. Five sealed Japanese boxes sit on the shelf: [FB08 Saiyan's Pride](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) at $22.12, [FB07 Wish for Shenron](/product/fb07-wish-for-shenron-japanese-dragon-ball-fusion-world-card/) at $23.70, [SB01 Manga Booster 01](/product/sb01-manga-booster-01-japanese-dragon-ball-fusion-world-card/) and [SB02 Manga Booster 02](/product/sb02-manga-booster-02-japanese-dragon-ball-fusion-world-card/) at $48.97 each, and [FB09 Dual Evolution](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) at $54.50. Every one holds 24 packs of six cards, 144 cards, so the per-pack ladder runs $0.92 to $2.27 and the per-card ladder $0.15 to $0.38. FB08 at $22.12 is $10.92 below the Japanese list price of $33.04, and FB07 at $23.70 is $9.34 below list. FB09 is the exception, $21.46 above list, because Dual Evolution is the second-anniversary set and the market prices the chase.",
+          "If the job is English boxes, the shelf sells cases of twelve, not singles. Fourteen English sealed cases sit on the shelf, and they divide to $90.61 a box at the cheap end, [FB04 Ultra Limit](/product/dragon-ball-super-fusion-world-fb04-ultra-limit-booster-box-sealed-case-english/), and $1,906.13 a box at the dear end, the SB01 case. The cheapest English pack is FB04 at $3.78, and the cheapest English card is FB04 at $0.31. Compare per card, not per pack: the Japanese FB08 is $0.15 a card against $0.31 for the cheapest English card. The SB01 case costs $22,873.50, or $1,906.13 a box, against $48.97 for the Japanese SB01 box, a $1,857.16 gap per box for the same set. Buy SB01 for manga-panel art, never to build a deck."
+        ]
+      },
+      {
+        "h": "The money layer: the 15 percent cut, product by product",
+        "paragraphs": [
+          "The cut is the story of this page, because it is the first time the whole Fusion World shelf moved at once and by the same rate. Our November 10 index printed the nineteen products at $63,356.47. Today they are $53,853.01. The cut is $9,503.46, and it is exactly 15 percent on every product, without exception: FB08 fell from $26.02 to $22.12, FB07 from $27.88 to $23.70, FB09 from $64.12 to $54.50, each Manga Booster from $57.61 to $48.97, the FB04 case from $1,279.26 to $1,087.37, the FB09 case from $4,830.00 to $4,105.50, and the SB01 case from $26,910.00 to $22,873.50. Multiply any November 10 price by 0.85 and you get today's price to the cent.",
+          "The cut moved the ladder against official retail as well. At ¥159.8, a Japanese box lists at $33.04 for FB01 through FB10 and $36.05 for FB11 and FB12. Two of the five Japanese boxes now sit below list, FB08 by $10.92 and FB07 by $9.34. The English list box is $119.76, 24 packs at the $4.99 pack price, and six of the fourteen English cases now divide below it: FB04 at $90.61, FB02 at $94.42, FB05 at $94.97, FB06 at $102.69, FB12 at $107.53, and FB03 and FB07 at $112.41. The dear band is FB10 at $165.29, FB08 at $173.55, FB11 at $180.84, FB01 at $313.78 and FB09 at $342.13. The SB01 case alone is $22,873.50 of the $53,853.01 ladder. Leave the Manga Boosters out of any play budget: the ladder reads $22.12 to $342.13 a box."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "FB08 JP: $22.12 ÷ 24 packs = $0.92 per pack; $22.12 ÷ 144 cards = $0.15 per card",
+          "FB07 JP: $23.70 ÷ 24 packs = $0.99 per pack; $23.70 ÷ 144 cards = $0.16 per card",
+          "SB01 JP: $48.97 ÷ 24 packs = $2.04 per pack; $48.97 ÷ 144 cards = $0.34 per card",
+          "SB02 JP: $48.97 ÷ 24 packs = $2.04 per pack; $48.97 ÷ 144 cards = $0.34 per card",
+          "FB09 JP: $54.50 ÷ 24 packs = $2.27 per pack; $54.50 ÷ 144 cards = $0.38 per card",
+          "FB04 EN case: $1,087.37 ÷ 12 boxes = $90.61 per box; $1,087.37 ÷ 288 packs = $3.78 per pack; $1,087.37 ÷ 3,456 cards = $0.31 per card",
+          "FB02 EN case: $1,132.98 ÷ 12 = $94.42 per box; $1,132.98 ÷ 288 = $3.93 per pack; $1,132.98 ÷ 3,456 = $0.33 per card",
+          "FB05 EN case: $1,139.60 ÷ 12 = $94.97 per box; $1,139.60 ÷ 288 = $3.96 per pack; $1,139.60 ÷ 3,456 = $0.33 per card",
+          "FB06 EN case: $1,232.30 ÷ 12 = $102.69 per box; $1,232.30 ÷ 288 = $4.28 per pack; $1,232.30 ÷ 3,456 = $0.36 per card",
+          "FB12 EN case: $1,290.30 ÷ 12 = $107.53 per box; $1,290.30 ÷ 288 = $4.48 per pack; $1,290.30 ÷ 3,456 = $0.37 per card",
+          "FB03 EN case: $1,348.95 ÷ 12 = $112.41 per box; $1,348.95 ÷ 288 = $4.68 per pack; $1,348.95 ÷ 3,456 = $0.39 per card",
+          "FB07 EN case: $1,348.95 ÷ 12 = $112.41 per box; $1,348.95 ÷ 288 = $4.68 per pack; $1,348.95 ÷ 3,456 = $0.39 per card",
+          "FB10 EN case: $1,983.53 ÷ 12 = $165.29 per box; $1,983.53 ÷ 288 = $6.89 per pack; $1,983.53 ÷ 3,456 = $0.57 per card",
+          "FB08 EN case: $2,082.57 ÷ 12 = $173.55 per box; $2,082.57 ÷ 288 = $7.23 per pack; $2,082.57 ÷ 3,456 = $0.60 per card",
+          "FB11 EN case: $2,170.05 ÷ 12 = $180.84 per box; $2,170.05 ÷ 288 = $7.53 per pack; $2,170.05 ÷ 3,456 = $0.63 per card",
+          "FB01 EN case: $3,765.33 ÷ 12 = $313.78 per box; $3,765.33 ÷ 288 = $13.07 per pack; $3,765.33 ÷ 3,456 = $1.09 per card",
+          "FB09 EN case: $4,105.50 ÷ 12 = $342.13 per box; $4,105.50 ÷ 288 = $14.26 per pack; $4,105.50 ÷ 3,456 = $1.19 per card",
+          "SB02 EN case: $8,093.82 ÷ 12 = $674.49 per box; $8,093.82 ÷ 288 = $28.10 per pack; $8,093.82 ÷ 3,456 = $2.34 per card",
+          "SB01 EN case: $22,873.50 ÷ 12 = $1,906.13 per box; $22,873.50 ÷ 288 = $79.42 per pack; $22,873.50 ÷ 3,456 = $6.62 per card",
+          "The 15% cut, FB08: $26.02 × 0.85 = $22.12; FB07: $27.88 × 0.85 = $23.70; FB09: $64.12 × 0.85 = $54.50; SB01 and SB02: $57.61 × 0.85 = $48.97",
+          "The 15% cut, cases: FB04: $1,279.26 × 0.85 = $1,087.37; FB09: $4,830.00 × 0.85 = $4,105.50; SB01: $26,910.00 × 0.85 = $22,873.50",
+          "Whole ladder: $53,853.01 for all nineteen products; fourteen EN cases total $53,654.75; five JP boxes total $198.26",
+          "Ladder cut: $63,356.47 − $53,853.01 = $9,503.46; JP five cut: $233.24 − $198.26 = $34.98",
+          "Official JP box FB01-FB10: 24 × ¥220 = ¥5,280; ¥5,280 ÷ 159.8 = $33.04",
+          "Official JP box FB11-FB12: 24 × ¥240 = ¥5,760; ¥5,760 ÷ 159.8 = $36.05",
+          "Official EN box: 24 × $4.99 = $119.76",
+          "FB08 below JP list: $33.04 − $22.12 = $10.92; FB07: $33.04 − $23.70 = $9.34; FB09 above: $54.50 − $33.04 = $21.46",
+          "FB04 below EN list: $119.76 − $90.61 = $29.15 per box",
+          "FB06 vs market: $562.74 − $102.69 = $460.05 below the Nov 1, 2026 market box",
+          "FB07 vs market: $380.42 − $112.41 = $268.01 below the Nov 1, 2026 market box",
+          "FB08 vs market: $258.90 − $173.55 = $85.35 below the Nov 1, 2026 market box",
+          "FB09 vs market: $342.13 − $270.04 = $72.09 above the Nov 1, 2026 market box",
+          "FB11 vs market: $180.84 − $179.88 = $0.96 above the Nov 1, 2026 market box",
+          "FB12 pre-order vs our division: $182.92 − $107.53 = $75.39; $182.92 ÷ $36.05 = 5.07x official",
+          "Cheapest JP box vs cheapest EN box: $90.61 − $22.12 = $68.49 per box",
+          "SB01 EN per box vs JP: $1,906.13 − $48.97 = $1,857.16 per box"
+        ],
+        "paragraphs": [
+          "Every line above divides a price you can pay today, and every cut line multiplies a price our November 10 index printed. The market figures are FoilKraken's November 2026 box value report, dated November 1, 2026, as quoted in that index. Re-run any line before you pay."
+        ]
+      },
+      {
+        "h": "The decision layer: which box, by buyer",
+        "paragraphs": [
+          "Buy a Japanese box if the job is opening packs. FB08 is the cheapest box on the shelf at $0.92 a pack, FB07 is $0.07 behind it, and the two Manga Boosters are the only Japanese boxes above list. Buy an English case only if the job is twelve English boxes: FB04, FB02 and FB05 are the value cases, all three dividing below the $119.76 list box, and FB12 is the newest set at $107.53 a box, cheaper than FB08, FB10 and FB11 per box. Buy FB09 English only to hold Dual Evolution sealed in bulk: $342.13 a box is $72.09 above the November 1 market figure for a single box, and opening the case destroys the premium on the first pack. Buy SB01 or SB02 only if the job is collecting manga-panel art, because $79.42 and $28.10 a pack are art prices, not pack prices. The [FB08 buyers guide](/blog/fb08-saiyans-pride-buyers-guide/) runs the cheapest Japanese box in full, the [FB09 buyers guide](/blog/fb09-dual-evolution-buyers-guide/) runs the dearest, and the [FB07 buyers guide](/blog/fb07-wish-for-shenron-buyers-guide/) runs the second cheapest."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Shelf price",
+            "Per box",
+            "Per pack",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "FB08 Japanese box",
+              "$22.12",
+              "$22.12",
+              "$0.92",
+              "Cheapest box on the shelf, open it"
+            ],
+            [
+              "FB07 Japanese box",
+              "$23.70",
+              "$23.70",
+              "$0.99",
+              "Second cheapest, below list"
+            ],
+            [
+              "FB09 Japanese box",
+              "$54.50",
+              "$54.50",
+              "$2.27",
+              "Dearest Japanese box, anniversary chase"
+            ],
+            [
+              "FB04 English case",
+              "$1,087.37",
+              "$90.61",
+              "$3.78",
+              "Cheapest English box, below list"
+            ],
+            [
+              "FB02 English case",
+              "$1,132.98",
+              "$94.42",
+              "$3.93",
+              "Second cheapest English box"
+            ],
+            [
+              "FB12 English case",
+              "$1,290.30",
+              "$107.53",
+              "$4.48",
+              "Newest set, pre-order, below FB08"
+            ],
+            [
+              "FB10 English case",
+              "$1,983.53",
+              "$165.29",
+              "$6.89",
+              "Mid set, below its market figure"
+            ],
+            [
+              "FB11 English case",
+              "$2,170.05",
+              "$180.84",
+              "$7.53",
+              "Latest released set, $0.96 above market"
+            ],
+            [
+              "FB09 English case",
+              "$4,105.50",
+              "$342.13",
+              "$14.26",
+              "Dearest mainline box, bulk only"
+            ],
+            [
+              "SB01 English case",
+              "$22,873.50",
+              "$1,906.13",
+              "$79.42",
+              "Manga art collectible, never for play"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What's missing: the market check, after the cut",
+        "note": "From the Warehouse: the question we get most about the English cases is whether the case division beats buying one box on the market, and the honest answer changed on November 16. Before the cut, FB11 divided $32.87 above its November 1 market box; after the cut it divides $0.96 above it, effectively at market. FB09 is the only mainline case still clearly above its market box, at $72.09. The cut did not make every case a buy; it made the close calls close, and FB09 the one to justify.",
+        "paragraphs": [
+          "The top results for this query are single-set listings and market trackers, and they share one gap: none of them gives every Fusion World box price from one buyable shelf. They give you the FB12 pre-order, the TCGplayer market prices by set, and the FoilKraken report. None of them divides a case, and none of them puts the $22.12 Japanese box beside the $342.13 English case division, because that comparison needs both languages on one shelf. The missing section is the one this page is: nineteen products, one division.",
+          "The second gap is the pre-order trap. The FB12 pre-order at $182.92 is 5.07 times the Japanese list price of $36.05, and the Warehouse FB12 case divides to $107.53 a box, $75.39 less than the pre-order box for the same set. A buyer who only reads the pre-order listing will think FB12 is the dearest Fusion World box. It is the fifth-cheapest English case on this shelf. The third gap is the market check: FoilKraken's November 1, 2026 report puts sealed English box prices at $562.74 for FB06, $380.42 for FB07 and $258.90 for FB08, and our divisions sit $460.05, $268.01 and $85.35 below them, while FB09 at $270.04 and FB11 at $179.88 sit $72.09 and $0.96 below our divisions. A division below the single-box market figure is a buy signal; a division above it is a warning that the case premium is yours to justify."
+        ]
+      },
+      {
+        "h": "The practical layer: what a Fusion World box actually is",
+        "paragraphs": [
+          "Fusion World launched in Japan on February 16, 2024, and has released a mainline booster roughly every quarter since: FB01 Awakened Pulse through FB12 Reach the God, plus two Manga Boosters, SB01 in June 2025 and SB02 in November 2025. FB09 Dual Evolution released in Japan on March 14, 2026 and in English on March 13, 2026, with 123 card types. FB10 Cross Force reached Japan on June 13, 2026 and English shelves on June 12, 2026. FB11 reached Japan on September 12, 2026 at ¥240 a pack, and English shelves on October 16, 2026 at $4.99 a pack. FB12 releases in Japan on December 12, 2026, with 123 card types, and the English release follows on December 18, 2026.",
+          "A Japanese Fusion World box holds 24 packs of six cards, 144 cards, and a digital serial code in every pack. An English box holds 24 packs of twelve cards, 288 cards, with a digital code in every pack too. The official Japanese pack price is ¥220 for FB01 to FB10 and ¥240 for FB11 and FB12, so a Japanese box lists at ¥5,280 for the older sets and ¥5,760 for FB11 and FB12. An English sealed case holds twelve boxes, 288 packs, 3,456 cards. The next set after FB12 is ST02 Story Booster 02, expected in Japan on January 16, 2027 with 20 packs of six cards, and Bandai has not yet confirmed its pack count. To buy, check three things on the listing: the language, the cards per pack, and the condition words. Sealed means factory sealed; tape-cut means the box was opened and re-taped. The exact shipping quote is confirmed at checkout or on WhatsApp. No Japanese box clears the $500 free-shipping line on its own; every English case clears it alone. The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) covers how the game plays, and the [buying TCG from Japan guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers shipping and customs."
+        ]
+      },
+      {
+        "h": "The chase layer: what the price buys",
+        "paragraphs": [
+          "FB09 is the dear Japanese box because Dual Evolution is the second-anniversary set, and the market prices the chase. At $54.50 a box it costs $32.38 more than FB08 for the same 24 packs, and the premium buys the anniversary set, not more cards. A buyer who opens FB09 for the chase is buying a chance at the set's Secret Rares, and no box guarantees any named card, because Bandai publishes no pull rate for any Fusion World set. The [FB09 buyers guide](/blog/fb09-dual-evolution-buyers-guide/) runs the set in full.",
+          "The Manga Boosters are the dearest Japanese boxes for a different reason: the art. SB01 released in Japan on June 28, 2025, with 110 card types plus 21 energy markers, five Leaders, and one Secret Rare; SB02 followed on November 8, 2025, with 132 card types including 21 energy markers, five Leaders, and two Secret Rares. Both are built around alt-art cards illustrated by Akira Toriyama, and both Japanese boxes are $48.97, or $2.04 a pack. Our [special set guide](/blog/best-dragon-ball-fusion-world-special-set/) runs both against the English cases, where SB01 divides to $1,906.13 a box and SB02 to $674.49. FB12 is the coming set: 123 card types built around Dragon Ball Super: Beerus, releasing in Japan on December 12, 2026, with no card list published yet."
+        ]
+      },
+      {
+        "h": "The risk layer: pre-order premiums, market gaps, and opened boxes",
+        "paragraphs": [
+          "The first risk is the pre-order premium. Japan Figure asks $182.92 for an FB12 box that lists at $36.05 in Japan, 5.07 times list, a month before release, while the Warehouse FB12 case divides to $107.53 a box. Pre-order prices fall when the set releases and supply arrives. If the job is FB12, wait for the release and check the Warehouse shelf first.",
+          "The second risk is paying a case premium the market does not support. The FB09 case divides to $72.09 a box above the November 1 market figure for a single box, and the FB11 case divides to $0.96 above it. FB09 is the only mainline case still clearly above its market box after the cut. The rest divide below their market boxes, some by hundreds of dollars: FB06 by $460.05, FB07 by $268.01, FB08 by $85.35. A case above its market box is a bet the set rises; a case below it is a discount on twelve boxes. Check the seal and flaps when any sealed box arrives, using our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/).",
+          "The third risk is opening for profit. FoilKraken's November 2026 report found 11 of 11 Fusion World boxes tracked worth less opened than sealed, so the per-pack figures on this page are opening costs, not expected returns. Opening a box for profit is a lottery ticket with better art; opening it for the cards is a purchase. See our [investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) before treating any sealed box as an asset, and our [open or keep sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) for the decision itself."
+        ]
+      },
+      {
+        "h": "Who this price index is NOT for",
+        "paragraphs": [
+          "This index is not for anyone who wants one price for the whole Fusion World line, because there is none: nineteen products run $22.12 to $22,873.50. It is not for anyone who wants a named single card, because the five Japanese listings name sets, not cards, and no box guarantees any named card. It is not for a player outside Asia who needs tournament-legal cards, because the Japanese cards are not legal at official events outside Asia.",
+          "This index is also not for anyone who wants a prediction, because no honest page can tell you what an FB08 box will cost next month, and the last six days moved it 15 percent down. It is not for anyone who cannot afford to have $22.12, or $22,873.50 for an SB01 case, sit on a shelf. And it is not for anyone building a complete set by opening boxes: opening boxes to complete a set costs more than buying the singles. If you want every card, buy the cards."
+        ]
+      },
+      {
+        "h": "Action layer: the Fusion World price checklist",
+        "paragraphs": [
+          "Decide the job first: open Japanese at $0.92 to $2.27 a pack, hold English at $90.61 a box and up, or wait.",
+          "Buy FB08 at $22.12 if the job is opening: it is $10.92 below official and $0.92 a pack.",
+          "Buy FB07 at $23.70 if FB08 sells out: same 24 packs, $0.99 a pack, $9.34 below official.",
+          "Buy an English case only after dividing it: FB04 at $90.61 a box is below list, FB09 at $342.13 is $72.09 above its market box, and the division decides which.",
+          "Skip the FB12 pre-order at $182.92: our case divides to $107.53 a box, $75.39 less, and the set releases December 12, 2026.",
+          "Divide before you pay: the Japanese box is 24 packs of 6 cards, the English box is 24 packs of 12, and a division that uses the wrong pack count is wrong.",
+          "Re-divide before you pay: every price here is stamped November 16, 2026, and the 15 percent cut is dated November 10 to November 16."
+        ]
+      }
+    ],
+    "slug": "fusion-world-booster-box-japanese-price",
+    "takeaway": [
+      "Nineteen Fusion World booster boxes sit on our shelf at $53,853.01 for the whole ladder, every one exactly 15 percent below its November 10 price, a cut of $9,503.46 in six days; the cheapest box is the Japanese FB08 at $22.12 and the dearest is the English SB01 case at $22,873.50.",
+      "The Japanese boxes run $22.12 to $54.50, or $0.92 to $2.27 a pack, with FB08 and FB07 below the $33.04 official box price; the English cases divide to $90.61 to $342.13 a box for the mainline sets, with six of the fourteen below the $119.76 official box.",
+      "Against the November 1, 2026 market figures, FB06, FB07 and FB08 divide $460.05, $268.01 and $85.35 below the market box, while FB09 divides $72.09 above it and FB11 just $0.96 above it; the FB12 pre-order at $182.92 is $75.39 above our $107.53 case division."
     ]
   },
   "how-many-packs-in-a-booster-box": {
