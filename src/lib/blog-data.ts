@@ -25484,7 +25484,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV10 box at $181.04 is worth buying if you want to open Team Rocket's set, and the case at $1,548.19 is worth buying if you want to hold or split it at $129.02 a box, saving $624.29 against twelve singles. The Mewtwo SAR at $362.00 costs 2.00 times the box, so buy the single if you want the card.",
       "Prices move, so treat every number here as stamped: our box and case prices as of November 15, 2026, both 15.00 percent below our November 3 snapshot, and the TCGplayer figures as of November 2026, with the English SIR dated November 14, 2026. When the next set lands, re-run the division.",
       "For the full set guide, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the box, the case, and the neighbors; for the sibling set, the [is SV9a worth buying guide](/blog/is-sv9a-worth-buying/) runs the same division on Heat Wave Arena; and for the format question, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles box against case across the shelf.",
-      "New to Japanese boxes? The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by per-box price, the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) prices the slab decision, and the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) keeps a case safe once you own it."
+      "New to Japanese boxes? The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by per-box price, the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) prices the slab decision, and the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) keeps a case safe once you own it.",
+      "For the investment verdict on the same shelf prices, the [SV10 Glory of Team Rocket investment guide](/blog/sv10-investment/) runs the case against the box as a hold, the Mewtwo single against the box, and the 15 percent repricing, with the box $23.04 above the sold-first market and the case $28.98 below it."
     ]
   },
   "is-sv11b-worth-buying": {
@@ -29809,7 +29810,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV9 box at $72.22 is $2.41 a pack and $0.48 a card, $38.41 above the derived 5,400 yen box price at 159.7 yen per dollar, while the case at $809.48 divides to $67.46 a box, $57.16 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
       "It is worth buying as the Battle Partners set to open, sealed, and it is not worth buying as a way to own the Lillie’s Clefairy ex Special Art Rare or to make the money back by opening. Clefairy ex sat at $126.70 on TCGplayer on November 13, 2026, which is 175.43 percent of a box, and the top three cards together sat at $205.06, which is 2.84 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $12.75 in seven days, from $84.97 to $72.22, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $952.33 to $809.48, which did not change the verdict, because the case saved money before the fall and saves $57.16 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
-      "Prices move, so treat every number here as stamped: our shelf prices as of November 15, 2026, and the marketplace references as of September 23 to November 14, 2026. The box now sits $10.23 above the lowest SNKRDUNK ask of $61.99, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV9 Battle Partners buyer’s guide](/blog/sv9-battle-partners-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV9a Heat Wave Arena worth buying guide](/blog/is-sv9a-worth-buying/) runs the same verdict on the next set in the run, where the chase costs 155.26 percent of a box and the case saves $302.16."
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 15, 2026, and the marketplace references as of September 23 to November 14, 2026. The box now sits $10.23 above the lowest SNKRDUNK ask of $61.99, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV9 Battle Partners buyer’s guide](/blog/sv9-battle-partners-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV9a Heat Wave Arena worth buying guide](/blog/is-sv9a-worth-buying/) runs the same verdict on the next set in the run, where the chase costs 155.26 percent of a box and the case saves $302.16.",
+      "For the investment verdict on the same shelf prices, the [SV9 Battle Partners investment guide](/blog/sv9-investment/) runs the case against the box as a hold, the Clefairy single against the box, and the 15 percent repricing, with the box $6.16 above the sold-first market and the case $1.40 above it."
     ]
   },
   "is-sv9a-worth-buying": {
@@ -41282,7 +41284,182 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The SV10 box at $212.99 is the way to open Team Rocket's set, and the case at $1,821.40 is the way to hold or split it at $151.78 per box, saving $734.48 against twelve singles. The set is 132 cards from April 18, 2025, in 30 packs of 5, with Team Rocket's Mewtwo ex printed four times and no box guaranteeing any of them. Buy the box to open, buy the case to hold or split, buy the Mewtwo single if it is the only card you want, and buy English Destined Rivals if the cards need to be playable outside Asia. That is the whole article: one store, one date, every division shown.",
       "For the other half of Destined Rivals, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $1,604.33 case at $133.69 a box, and the Cynthia's Garchomp ex SAR behind it — and the [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) carries both sets on the full thirty-two-box shelf.",
-      "For the verdict on the set at today's prices, the [is SV10 worth buying guide](/blog/is-sv10-worth-buying/) runs the November 15 box at $181.04 and the case at $1,548.19 against the Mewtwo chase at $362.00."
+      "For the verdict on the set at today's prices, the [is SV10 worth buying guide](/blog/is-sv10-worth-buying/) runs the November 15 box at $181.04 and the case at $1,548.19 against the Mewtwo chase at $362.00.",
+      "New this cycle: the [SV10 Glory of Team Rocket investment guide](/blog/sv10-investment/) prices the set as an investment, case $1,548.19 against box $181.04, with the Mewtwo SAR at $362.00, down 27.60 percent since April."
+    ]
+  },
+  "sv10-investment": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "The case, not the box. The sealed case is $1,548.19, or $129.02 a box, $28.98 below the $158.00 sold-first market box from November 10, 2026, and saves $624.29 against twelve singles. The single box is $181.04, $23.04 above that market box. Buy the case to hold, or the Mewtwo single at $362.00.",
+        "q": "Is SV10 Glory of Team Rocket a good investment?"
+      },
+      {
+        "a": "The box is $181.04 and the sealed case of twelve is $1,548.19 on our shelf as of November 16, 2026: $6.03 a pack for the box, and $129.02 a box inside the case. Both fell exactly 15 percent in the two weeks before this guide, from $212.99 and $1,821.40 on November 3, 2026, which was a shelf repricing, not a market crash.",
+        "q": "How much is an SV10 Glory of Team Rocket box and case?"
+      },
+      {
+        "a": "Team Rocket's Mewtwo ex, the Special Art Rare numbered 125/098, at a TCGplayer market price of $362.00 on November 15, 2026. It is 2.00 boxes at our $181.04 box price and 44.13 percent of the set's $820.32 value. The same character appears four times in the set, as a Double Rare, a Super Rare, the Special Art Rare, and an Ultra Rare.",
+        "q": "What is the most valuable card in SV10 Glory of Team Rocket?"
+      }
+    ],
+    "h1": "SV10 Glory of Team Rocket Investment: The Case Is the Buy",
+    "intro": [
+      "Short answer: SV10 Glory of Team Rocket is a good sealed-case investment and a bad sealed-box investment. The sealed case is $1,548.19 on our shelf as of November 16, 2026, or $129.02 a box, which is $28.98 below the $158.00 sold-first market box from November 10, 2026, and saves $624.29 against twelve singles. The single box is $181.04, which is $23.04 above that market box. The chase card, Team Rocket's Mewtwo ex, is $362.00, or 2.00 boxes.",
+      "This guide runs the price path from the ¥5,400 release price to today, the case against the box, the chase card against the box, and the risks. Every shelf price is stamped November 16, 2026, and nothing here predicts where the price goes next."
+    ],
+    "metaDescription": "SV10 Glory of Team Rocket as an investment: box $181.04, case $1,548.19, Mewtwo SAR $362.00. The case beats the market by $28.98 a box.",
+    "metaTitle": "SV10 Glory of Team Rocket Investment: Sealed Math",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the single, skip the box",
+        "paragraphs": [
+          "If you are buying SV10 as an investment, buy the sealed case and store it, or buy the chase card as a single. The [SV10 Glory of Team Rocket sealed case](/product/sv10-glory-of-team-rocket-sealed-case-12-boxes-japanese-pokemon-card/) is $1,548.19, or $129.02 a box, which saves $624.29 against twelve singles and sits $28.98 below the $158.00 sold-first market box from November 10, 2026.",
+          "The [SV10 Glory of Team Rocket booster box](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/) is $181.04 and it is the wrong format to hold: it costs $23.04 more than the market box, and its value rests on one card. Team Rocket's Mewtwo ex, the Special Art Rare 125/098, is $362.00 on TCGplayer as of November 15, 2026, which is 2.00 boxes and 44.13 percent of the set's $820.32 value. A box that needs one card is a lottery ticket, not an investment.",
+          "If you want the card, buy the card. If you want sealed SV10 for the long term, buy the case. If you want to open packs, buy the box and enjoy it."
+        ]
+      },
+      {
+        "h": "The money layer: the price path from ¥5,400 to $181.04",
+        "paragraphs": [
+          "Glory of Team Rocket, set code SV10, released in Japan on April 18, 2025, as a 132-card set: 98 base cards and 34 secret rares, in boxes of 30 packs of 5 cards at ¥180 a pack, for an official box price of ¥5,400, or $33.81 at the ¥159.7 rate of November 16, 2026. Our box at $181.04 is 5.35 times that price seven months after release.",
+          "Our shelf priced the box at $212.99 and the case at $1,821.40 on November 3, 2026, in the [SV10 Glory of Team Rocket buyer's guide](/blog/sv10-glory-of-team-rocket-buyers-guide/). Both fell exactly 15 percent in the two weeks before this guide. That was a shelf repricing, not a market crash.",
+          "CardZ Marketcap, which builds its reference price from completed sales first, put the SV10 Japanese box at $158.00 on November 10, 2026, when our box was $181.04: a gap of $23.04, or 14.58 percent above the sold-first market. A second Tokyo shop listed the sealed box at ¥25,863, about $162, on November 14, 2026.",
+          "The case inverts the story. Twelve market boxes at $158.00 come to $1,896.00, and our case is $1,548.19: $347.81 saved against twelve market boxes. The case is priced below the market, the box above it.",
+          "Divide the box one more way and the premium shows up per card. The official box is ¥5,400 for 150 cards, or $33.81 at our rate, which is $0.23 a card. Our box at $181.04 is $1.21 a card, and our case at $1,548.19 is $0.86 a card. The box is 5.35 times the official price, and the case is 3.74 times it, at every division. A buyer paying $1.21 a card is paying for one card: the Mewtwo SAR is $362.00, and the other 131 cards together are $458.32."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "Box: $181.04 ÷ 30 packs = $6.03 per pack; $181.04 ÷ 150 cards = $1.21 per card",
+          "Case: $1,548.19 ÷ 12 boxes = $129.02 per box; $1,548.19 ÷ 360 packs = $4.30 per pack; $1,548.19 ÷ 1,800 cards = $0.86 per card",
+          "Case saving: 12 x $181.04 = $2,172.48; $2,172.48 - $1,548.19 = $624.29 saved; $624.29 ÷ $2,172.48 = 28.74% saved",
+          "Official price: 5,400 yen ÷ 159.7 = $33.81; $181.04 ÷ $33.81 = 5.35x official; $181.04 - $33.81 = $147.23 above official",
+          "The 15% cut, box: $212.99 x 0.85 = $181.04; case: $1,821.40 x 0.85 = $1,548.19",
+          "Market box: $181.04 - $158.00 = $23.04 above market; $23.04 ÷ $158.00 = 14.58% above market",
+          "Case box vs market: $129.02 - $158.00 = -$28.98 below market per box; -$28.98 ÷ $158.00 = -18.34% below market",
+          "Twelve market boxes: 12 x $158.00 = $1,896.00; $1,896.00 - $1,548.19 = $347.81 saved by the case",
+          "Chase card: $362.00 ÷ $181.04 = 2.00 boxes; complete set: $820.32 ÷ $181.04 = 4.53 boxes",
+          "Chase share: $362.00 ÷ $820.32 = 44.13% of the set value in one card",
+          "Chase fall: $362.00 - $500.00 = -$138.00; -$138.00 ÷ $500.00 = -27.60% since the April 2025 listing"
+        ],
+        "paragraphs": []
+      },
+      {
+        "h": "The decision layer: box, case, single, English, or wait",
+        "paragraphs": [
+          "Five routes, one table. The box and the case are the only sealed routes on our shelf, the Mewtwo single is the only card route, and waiting is for anyone who does not like the numbers above.",
+          "Read the table by what each route buys. The box buys the opening experience at a premium to the market. The case buys twelve boxes below the market. The single buys the only card with real value. The English set buys playable cards.",
+          "Waiting is the only route with a price of $0, and it is the only route that made money in the last two weeks. A buyer who waited from November 3 to November 16 saved $31.95 on the box and $273.21 on the case, on the same shelf, for the same sealed product. The case saving alone is more than three SV9 boxes at $72.22. Waiting does not earn anything on its own: it earns only if the next move is down, and the shelf can move either way. But the last move was 15 percent down in thirteen days, and a buyer who does not like today's numbers has a free option to wait for the next ones."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack",
+            "What it buys",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Sealed box",
+              "$181.04",
+              "$6.03",
+              "30 packs, 150 cards, the opening experience",
+              "Open it, do not hold it"
+            ],
+            [
+              "Sealed case (12)",
+              "$1,548.19",
+              "$4.30",
+              "12 boxes at $129.02 each",
+              "The hold: buy the case"
+            ],
+            [
+              "Mewtwo ex SAR single",
+              "$362.00",
+              "n/a",
+              "The set's top card, 44.13% of set value",
+              "Buy the card, skip the box"
+            ],
+            [
+              "English Destined Rivals",
+              "Market price",
+              "n/a",
+              "Playable English cards",
+              "For players, not holders"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "Reasonable if the box is the plan"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case priced below the market",
+        "note": "From the Warehouse: the question we get most about SV10 is whether the box is still going up. It is the wrong question. The right question is whether the format is priced above or below the market today, and the answer splits: the box is $23.04 above it, the case is $28.98 below it.",
+        "paragraphs": [
+          "No top guide for SV10 investment prices the case against the market, because none of them has our shelf. Our case divides to $129.02 a box against a $158.00 sold-first market box: $28.98 below the market per box. On most of the Japanese shelf a case costs slightly more per box than buying singles. SV10 runs the other way.",
+          "The second miss is the repricing. Our box and case both fell exactly 15 percent between November 3 and November 16, 2026, and a guide that quotes only today's price misses the fact that a buyer two weeks ago paid $31.95 more for the box and $273.21 more for the case. A sealed buy is a price at a date.",
+          "The third miss is the Mewtwo count. Team Rocket's Mewtwo ex is printed four times in this set: as a Double Rare, a Super Rare, the Special Art Rare 125/098, and an Ultra Rare. Guides that say 'the Mewtwo' without the number are pricing four different cards as one."
+        ]
+      },
+      {
+        "h": "The chase layer: one card carries 44 percent of the set",
+        "paragraphs": [
+          "Team Rocket's Mewtwo ex, Special Art Rare 125/098, is the set. At $362.00 on TCGplayer as of November 15, 2026, it is 44.13 percent of the complete set's $820.32 value, and the six Special Art Rares together are $625.97 with a median of $19.47. Open a box for the chase and you are opening it for one card in 150.",
+          "The chase has been falling. The Mewtwo SAR listed near $500 in April 2025 and sits at $362.00 on November 15, 2026, a fall of 27.60 percent. The graded version tells the same story at a higher price: a PSA 10 copy was listed near ¥123,662, about $841, in August 2026, a $479.00 premium over the raw card. That premium belongs to the grade, not to the card. See our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/).",
+          "The same character, four prices. Mewtwo ex is printed four times in this set: as a Double Rare, a Super Rare, the Special Art Rare 125/098, and an Ultra Rare. The Special Art Rare is $362.00, and it is 57.83 percent of the six Special Art Rares' $625.97 combined value. The English twin's Mewtwo ex Double Rare 081/182 is about $1.20: the same character, the same card in another language, is $360.80 cheaper. That is what the $362.00 buys: not Mewtwo, but this Mewtwo, in this set, in this rarity. Guides that say 'the Mewtwo' without the number are pricing four different cards as one."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, grading, and the fall you already saw",
+        "paragraphs": [
+          "Three risks decide whether sealed SV10 earns anything. First, the reprint risk: The Pokémon Company does not publish print runs, so no sealed buyer can verify scarcity from an official source, and a reprint would compress the premium on every sealed format at once.",
+          "Second, the chase risk: 44.13 percent of the set's value sits in one card, down 27.60 percent since April. If Mewtwo falls again, the box has nothing behind it.",
+          "Third, the timing risk, which you have already seen happen: our shelf cut both formats by exactly 15 percent in two weeks. Check the shrink and the flaps before you buy any sealed box you did not buy from our shelf, using our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/), and store what you hold as our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) describes.",
+          "The grading premium is a second bet on the same card. Raw at $362.00 against a PSA 10 listed near ¥123,662, about $841, leaves a $479.00 premium for the grade. The premium belongs to the grade, not to the card: the raw card has fallen 27.60 percent since April, and a graded copy that comes back a 9 instead of a 10 loses the premium entirely. The August 2026 listing is a shop ask, not a completed sale, and it is the only graded data point we have for this card. Buy the raw card if you want the art, and buy the 10 only after checking what a 10 actually sells for this month."
+        ]
+      },
+      {
+        "h": "Context: Glory of Team Rocket in the year, and the English twin",
+        "paragraphs": [
+          "SV10 released on April 18, 2025, three months after [SV9 Battle Partners](/blog/sv9-battle-partners-buyers-guide/), and its English twin, Destined Rivals, followed on May 30, 2025. Japanese cards are generally not legal at official events outside Asia.",
+          "The set brought Team Rocket's Pokémon back after a twenty-year gap, built around Mewtwo ex printed four times across four rarity tiers. That is the demand story, and also the concentration story: one card is 44.13 percent of the value. The neighbor sets frame the price. SV9 Battle Partners is $72.22 a box, which is 2.51 times cheaper than SV10, because its chase is $126.70 against Mewtwo's $362.00. [SV9a Heat Wave Arena](/blog/is-sv9a-worth-buying/) is $138.82 a box. SV10 is the most expensive of the three 2025 main sets to buy sealed, and also the one with the strongest chase. The full shelf is in our [Japanese Pokémon booster box price guide](/blog/japanese-pokemon-booster-box-price/), and the case ladder is in our [best sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/).",
+          "The neighbor math says SV10 is the dear seat in a dear row. The SV10 box at $181.04 costs 2.51 times the SV9 box at $72.22, and the SV10 case at $1,548.19 is 1.91 times the SV9 case at $809.48, or $738.71 more. SV9a Heat Wave Arena sits between them at $138.82 a box. The gap follows the chase: Mewtwo is $362.00 against Clefairy's $126.70, or 2.86 times, and SV10's complete set is $820.32 against SV9's $381.87, or 2.15 times. SV10 is the most expensive sealed 2025 main set on our shelf, and also the one with the strongest chase: one card is 44.13 percent of the set, and the set behind it is $820.32. Our [SV9 Battle Partners investment guide](/blog/sv9-investment/) runs the same verdict on that set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants to open packs for fun, because the fun is in the opening and the math does not change it. It is not for anyone buying a single card, because singles are priced card by card. It is not for anyone who wants a prediction, because no honest page can tell you what SV10 will cost next month. It is not for a player outside Asia who needs tournament-legal cards, because Japanese cards are generally not legal at official events outside Asia. And it is not for anyone who cannot afford to have $1,548.19 sit on a shelf: a sealed case is money parked, not money working.",
+          "This guide is also not for anyone building the complete set by opening boxes. The complete set is $820.32 as singles, or 4.53 boxes at our box price, and no box guarantees a Special Art Rare. Opening four boxes costs $724.16 and still leaves the chase to chance, while buying the set as singles costs $820.32 and leaves nothing to chance. The $96.16 between the two is the price of certainty, and for a set this concentrated it is cheap. If you want every card, buy the cards."
+        ]
+      },
+      {
+        "h": "Action layer: the SV10 investment checklist",
+        "paragraphs": [
+          "Decide the route first: case at $1,548.19 to hold, the Mewtwo single at $362.00 for the card, and the box at $181.04 only to open.",
+          "Divide before you pay: the box is $6.03 a pack and the case is $4.30 a pack, so the case saves $624.29 against twelve singles.",
+          "Name the market before you buy: the sold-first reference is $158.00 as of November 10, 2026, our box is $23.04 above it and our case box is $28.98 below it, so re-check it on the day you pay.",
+          "Do not chase the card in packs: one card is 44.13 percent of the set's value, and the Mewtwo SAR has fallen 27.60 percent since April.",
+          "Check the seal and store it right: verify the shrink and flaps, and keep a held case cool, dry, and out of sunlight.",
+          "Re-divide before you pay: every price here is stamped November 16, 2026, and the market figures are dated November 10 and 15, 2026."
+        ]
+      }
+    ],
+    "slug": "sv10-investment",
+    "takeaway": [
+      "SV10 Glory of Team Rocket is a good sealed-case investment at $1,548.19, or $129.02 a box, $28.98 below the $158.00 sold-first market box from November 10, 2026, and a bad sealed-box investment at $181.04, $23.04 above it.",
+      "Team Rocket's Mewtwo ex, the Special Art Rare 125/098, is $362.00 on TCGplayer as of November 15, 2026, or 2.00 boxes and 44.13 percent of the set's value, down 27.60 percent since April.",
+      "Both sealed formats fell exactly 15 percent in the two weeks before this guide, from $212.99 and $1,821.40 on November 3, 2026: a shelf repricing, not a market crash."
     ]
   },
   "sv11b-black-bolt-buyers-guide": {
@@ -45562,7 +45739,182 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 23 and October 7, 2026, and November 7-8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $62.66, so our box costs $22.31 more, and the case-split box costs $16.70 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that came two months after SV9 the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the Charizard set that costs $67.32 more per box than SV9, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own.",
-      "New this cycle: the [Is SV9 Battle Partners Worth Buying? guide](/blog/is-sv9-worth-buying/) runs the verdict on the same shelf prices, box $72.22 after a fifteen percent fall, case saves $57.16, with the Clefairy ex SAR at $126.70 on its own."
+      "New this cycle: the [Is SV9 Battle Partners Worth Buying? guide](/blog/is-sv9-worth-buying/) runs the verdict on the same shelf prices, box $72.22 after a fifteen percent fall, case saves $57.16, with the Clefairy ex SAR at $126.70 on its own.",
+      "New this cycle: the [SV9 Battle Partners investment guide](/blog/sv9-investment/) prices the set as an investment, case $809.48 against box $72.22, with the Clefairy SAR at $126.70, down 27.60 percent since March."
+    ]
+  },
+  "sv9-investment": {
+    "datePublished": "2026-11-16",
+    "faqs": [
+      {
+        "a": "No, not as a sealed box at $72.22. The box sits $6.16 above the $66.06 sold-first market reference from November 10, 2026, and the chase card behind it has fallen by a third since March. The case is the only sealed format with a holding case: $809.48, or $67.46 a box, which is $1.40 above that same market box and saves $57.16 against twelve singles. Buy the case and store it, or buy the Clefairy single.",
+        "q": "Is SV9 Battle Partners a good investment?"
+      },
+      {
+        "a": "The box is $72.22 and the sealed case of twelve is $809.48 on our shelf as of November 16, 2026: $2.41 a pack for the box, and $67.46 a box inside the case. Both fell exactly 15 percent in the week before this guide, from $84.97 and $952.33 on November 8, 2026: a shelf repricing.",
+        "q": "How much is an SV9 Battle Partners box and case?"
+      },
+      {
+        "a": "Lillie's Clefairy ex, the Special Art Rare numbered 126/100, at a TCGplayer market price of $126.70 on November 12, 2026. It is 1.75 boxes at our $72.22 box price and 33.18 percent of the set's $381.87 value. The other print of the same card, the Secret Rare 115/100, is $8.33, and 120 of the 132 cards are under $5.",
+        "q": "What is the most valuable card in SV9 Battle Partners?"
+      }
+    ],
+    "h1": "SV9 Battle Partners Investment: The Sealed Verdict, Priced",
+    "intro": [
+      "Short answer: SV9 Battle Partners is a bad sealed-box investment and a defensible sealed-case hold. The box is $72.22 on our shelf as of November 16, 2026, which is $6.16 above the $66.06 sold-first market reference from November 10, 2026, while the case is $809.48, or $67.46 a box, which is $1.40 above that market box and saves $57.16 against twelve singles. The chase card, Lillie's Clefairy ex, is $126.70, down by a third since March.",
+      "This guide runs the price path from the ¥5,400 release price to today, the case against the box, the chase card against the box, and the risks. Every shelf price is stamped November 16, 2026, and nothing here predicts where the price goes next."
+    ],
+    "metaDescription": "SV9 Battle Partners as an investment: box $72.22, case $809.48, Clefairy SAR $126.70. The price path, the case math, and the honest verdict.",
+    "metaTitle": "SV9 Battle Partners Investment: Sealed Math, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: hold the case, buy the single, skip the box",
+        "paragraphs": [
+          "If you are buying SV9 as an investment, buy the sealed case and store it, or buy the chase card as a single. The [SV9 Battle Partners sealed case](/product/sv9-battle-partners-sealed-case-12-boxes-japanese-pokemon-card/) is $809.48, or $67.46 a box, which saves $57.16 against twelve single boxes and sits $1.40 above the $66.06 sold-first market box from November 10, 2026. That is a hold priced at the market, not above it.",
+          "The [SV9 Battle Partners booster box](/product/sv9-battle-partners-booster-box-japanese-pokemon-card/) is $72.22, or $2.41 a pack, and it is the wrong format to hold: it costs $6.16 more than the market box, and its value rests on one card. Lillie's Clefairy ex, the Special Art Rare 126/100, is $126.70 on TCGplayer as of November 12, 2026, which is 1.75 boxes and 33.18 percent of the set's $381.87 value. A box that needs one card is a lottery ticket, not an investment.",
+          "If you want the card, buy the card. If you want sealed SV9 for the long term, buy the case. If you want to open packs, buy the box and enjoy it."
+        ]
+      },
+      {
+        "h": "The money layer: the price path from ¥5,400 to $72.22",
+        "paragraphs": [
+          "Battle Partners, set code SV9, released in Japan on January 24, 2025, as a 132-card set: 100 base cards and 32 secret rares, in boxes of 30 packs of 5 cards at ¥180 a pack, for an official box price of ¥5,400, or $33.81 at the ¥159.7 rate of November 16, 2026. Our box at $72.22 is 2.14 times that price ten months after release.",
+          "Our shelf priced the box at $84.97 and the case at $952.33 on November 8, 2026, in the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/). Both fell exactly 15 percent in the week before this guide. That was a shelf repricing, not a market crash.",
+          "CardZ Marketcap, which builds its reference price from completed sales first, put the SV9 Japanese box at $66.06 on November 10, 2026, when our box was $72.22: a gap of $6.16, or 9.32 percent above the sold-first market. A second Tokyo shop listed the sealed box at ¥10,978, about $69, on October 7, 2026.",
+          "The case tells a different story. Twelve market boxes at $66.06 come to $792.72, and our case is $809.48, which is $16.76 more. Against our own singles it saves $57.16, but against the market it saves nothing: the case is fairly priced, the box is not.",
+          "Divide the box one more way and the premium shows up per card. The official box is ¥5,400 for 150 cards, or $33.81 at our rate, which is $0.23 a card. Our box at $72.22 is $0.48 a card, and our case at $809.48 is $0.45 a card. The box is 2.14 times the official price, and the case is about twice it, at every division. A buyer paying $0.48 a card is paying for the chase, not for the cardboard: 120 of the 132 cards are under $5."
+        ]
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "Box: $72.22 ÷ 30 packs = $2.41 per pack; $72.22 ÷ 150 cards = $0.48 per card",
+          "Case: $809.48 ÷ 12 boxes = $67.46 per box; $809.48 ÷ 360 packs = $2.25 per pack; $809.48 ÷ 1,800 cards = $0.45 per card",
+          "Case saving: 12 x $72.22 = $866.64; $866.64 - $809.48 = $57.16 saved; $57.16 ÷ $866.64 = 6.60% saved",
+          "Official price: 5,400 yen ÷ 159.7 = $33.81; $72.22 ÷ $33.81 = 2.14x official; $72.22 - $33.81 = $38.41 above official",
+          "The 15% cut, box: $84.97 x 0.85 = $72.22; case: $952.33 x 0.85 = $809.48",
+          "Market box: $72.22 - $66.06 = $6.16 above market; $6.16 ÷ $66.06 = 9.32% above market",
+          "Case box vs market: $67.46 - $66.06 = $1.40 above market per box",
+          "Twelve market boxes: 12 x $66.06 = $792.72; $809.48 - $792.72 = $16.76 above twelve market boxes",
+          "Chase card: $126.70 ÷ $72.22 = 1.75 boxes; complete set: $381.87 ÷ $72.22 = 5.29 boxes",
+          "Chase share: $126.70 ÷ $381.87 = 33.18% of the set value in one card",
+          "Chase fall: $126.70 - $175.00 = -$48.30; -$48.30 ÷ $175.00 = -27.60% since the March 2026 ask"
+        ],
+        "paragraphs": []
+      },
+      {
+        "h": "The decision layer: box, case, single, English, or wait",
+        "paragraphs": [
+          "Five routes, one table. The box and the case are the only sealed routes on our shelf, the Clefairy single is the only card route, and waiting is for anyone who does not like the numbers above.",
+          "Read the table by what each route buys. The box buys the opening experience at a premium to the market. The case buys twelve boxes at the market. The single buys the only card with real value. The English set buys playable cards.",
+          "Waiting is the only route with a price of $0, and it is the only route that made money in the last week. A buyer who waited from November 8 to November 16 saved $12.75 on the box and $142.85 on the case, on the same shelf, for the same sealed product. Waiting does not earn anything on its own: it earns only if the next move is down, and the shelf can move either way. But the last move was 15 percent down in eight days, and a buyer who does not like today's numbers has a free option to wait for the next ones. The table prices waiting at $0 because waiting costs nothing; it is also the only route that cannot lose money to a repricing."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack",
+            "What it buys",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Sealed box",
+              "$72.22",
+              "$2.41",
+              "30 packs, 150 cards, the opening experience",
+              "Open it, do not hold it"
+            ],
+            [
+              "Sealed case (12)",
+              "$809.48",
+              "$2.25",
+              "12 boxes at $67.46 each, factory sealed",
+              "The only sealed hold"
+            ],
+            [
+              "Clefairy ex SAR single",
+              "$126.70",
+              "n/a",
+              "The set's top card, 33.18% of set value",
+              "Buy the card, skip the box"
+            ],
+            [
+              "English Journey Together",
+              "Market price",
+              "n/a",
+              "Playable English cards, March 28, 2025 release",
+              "For players, not holders"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "Reasonable if the box is the plan"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing and the market gap",
+        "note": "From the Warehouse: the question we get most about SV9 is whether the box is still going up. It is the wrong question. The right question is whether the box is priced above the market today, and it is, by $6.16. The case is the format we would hold ourselves.",
+        "paragraphs": [
+          "No top guide for SV9 investment prices the repricing, because none of them has our shelf. Our box and case both fell exactly 15 percent between November 8 and November 16, 2026, and a guide that quotes only today's price misses the fact that last week's buyer paid $12.75 more for the box and $142.85 more for the case. A sealed buy is a price at a date.",
+          "The second miss is the market gap. The guides that price SV9 quote a shop price and stop. The sold-first reference from November 10, 2026 is $66.06, and our box is $6.16 above it while our case box is $1.40 above it."
+        ]
+      },
+      {
+        "h": "The chase layer: one card carries a third of the set",
+        "paragraphs": [
+          "Lillie's Clefairy ex, Special Art Rare 126/100, is the set. At $126.70 on TCGplayer as of November 12, 2026, it is 33.18 percent of the complete set's $381.87 value, and the next card down, the same character's Secret Rare 115/100, is $8.33. Six Special Art Rares sit in the set with a median of $34.50. Open a box for the chase and you are opening it for one card in 150.",
+          "The chase has been falling. The Clefairy SAR asked ¥28,000 in March 2026, about $175 at our rate, and the lowest SNKRDUNK ask was ¥20,000 raw on October 7, 2026, before the TCGplayer market price settled at $126.70 on November 12: a fall of 27.60 percent from the March ask. The graded version tells the same story harder: a PSA 10 copy is $232 from completed sales as of November 13, 2026, down 22.25 percent over six months, with 23,104 PSA 10 copies in existence. A population that large is not scarcity.",
+          "Raw at $126.70 against PSA 10 at $232 leaves a $105.30 grading premium, but the premium belongs to the grade, not to the card, and 23,104 copies already hold the grade. Buy the raw card if you want the art, and check the population before you pay for a grade. See our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/).",
+          "The gap inside the set is the story. The Clefairy SAR is $126.70, and the next card down, the same character's Secret Rare 115/100, is $8.33: a gap of $118.37, or 15.21 times. Eleven Super Rares sit below the six Special Art Rares, and the most expensive of them, the same character's Secret Rare 115/100, is $8.33. That is what concentration looks like: one card is a third of the set's value, the second card is about a fifteenth of the first, and 120 of the 132 cards are under $5."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, grading, and the fall you already saw",
+        "paragraphs": [
+          "Three risks decide whether sealed SV9 earns anything. First, the reprint risk: The Pokémon Company does not publish print runs, so no sealed buyer can verify scarcity from an official source, and a reprint would compress the premium on every sealed format at once.",
+          "Second, the chase risk: a third of the set's value sits in one card, and that card has fallen 27.60 percent since March. If Clefairy falls again, the box has nothing behind it, because 120 cards are under $5.",
+          "Third, the timing risk, which you have already seen happen: our shelf cut both formats by exactly 15 percent in one week. Check the shrink and flaps before you buy any sealed box you did not buy from our shelf, using our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/), and store what you hold as our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) describes.",
+          "The grading premium is a second bet on the same card. Raw at $126.70 against PSA 10 at $232 leaves a $105.30 premium for the grade, and 23,104 copies already hold it. The graded copy fell 22.25 percent over six months while the raw card fell 27.60 percent since March, so the grade held its value better than the card, but both fell. A buyer who grades a raw card is paying for a number on plastic: if the card comes back a 9 instead of a 10, the premium is gone, and the population says the 10 is not scarce. Buy the raw card if you want the art, and buy the 10 only if you have checked what a 10 actually sells for this month."
+        ]
+      },
+      {
+        "h": "Context: Battle Partners in the year, and the English twin",
+        "paragraphs": [
+          "SV9 released on January 24, 2025, and its English twin, Journey Together, followed on March 28, 2025, with 180 cards plus 10 secret rares. Japanese cards are generally not legal at official events outside Asia, so the English set is the play route and the Japanese set is the collect route.",
+          "The neighbor sets frame the price. [SV10 Glory of Team Rocket](/blog/sv10-glory-of-team-rocket-buyers-guide/) released April 18, 2025, and its box is $181.04 on our shelf, which is 2.51 times the SV9 box, because its chase card is $362.00 against Clefairy's $126.70. [SV9a Heat Wave Arena](/blog/is-sv9a-worth-buying/) is $138.82 a box. SV9 is the cheapest of the three 2025 main sets to buy sealed, and also the one with the thinnest chase. The full shelf is in our [Japanese Pokémon booster box price guide](/blog/japanese-pokemon-booster-box-price/), and the case ladder is in our [best sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/). Our [SV10 Glory of Team Rocket investment guide](/blog/sv10-investment/) runs the same verdict on that set.",
+          "The neighbor math says SV9 is the cheap seat in a dear row. The SV10 box at $181.04 is 2.51 times the SV9 box, and the SV10 case at $1,548.19 is 1.91 times the SV9 case. SV9a Heat Wave Arena sits between them at $138.82 a box, or 1.92 times the SV9 box. The gap follows the chase: SV10's Mewtwo is $362.00 against Clefairy's $126.70, or 2.86 times, and SV10's case is priced below its market box while SV9's is priced $1.40 above its own. SV9 is the cheapest sealed 2025 main set on our shelf, and also the one with the thinnest chase: one card is a third of the set, and the set behind it is $381.87."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants to open packs for fun, because the fun is in the opening and the math does not change it. It is not for anyone buying a single card, because singles are priced card by card. It is not for anyone who wants a prediction, because no honest page can tell you what SV9 will cost next month. It is not for a player outside Asia who needs tournament-legal cards, because Japanese cards are generally not legal at official events outside Asia. And it is not for anyone who cannot afford to have $809.48 sit on a shelf: a sealed case is money parked, not money working.",
+          "This guide is also not for anyone building the complete set by opening boxes. The complete set is $381.87 as singles, or 5.29 boxes at our box price, and no box guarantees a Special Art Rare. Opening five boxes costs $361.10 and still leaves the chase to chance, while buying the set as singles costs $381.87 and leaves nothing to chance. The $20.77 between the two is the price of certainty, and for a set this concentrated it is cheap. If you want every card, buy the cards."
+        ]
+      },
+      {
+        "h": "Action layer: the SV9 investment checklist",
+        "paragraphs": [
+          "Decide the route first: case at $809.48 to hold, the Clefairy single at $126.70 for the card, and the box at $72.22 only to open.",
+          "Divide before you pay: the box is $2.41 a pack and the case is $2.25 a pack.",
+          "Name the market before you buy: the sold-first reference is $66.06 as of November 10, 2026, and our box is $6.16 above it, so re-check it on the day you pay.",
+          "Do not chase the card in packs: one card is 33.18 percent of the set's value, and the SAR has fallen 27.60 percent since March.",
+          "Check the seal and store it right: verify the shrink and flaps, and keep a held case cool, dry, and out of sunlight.",
+          "Re-divide before you pay: every price here is stamped November 16, 2026."
+        ]
+      }
+    ],
+    "slug": "sv9-investment",
+    "takeaway": [
+      "SV9 Battle Partners is a bad sealed-box investment at $72.22, $6.16 above the $66.06 sold-first market reference from November 10, 2026, and a defensible sealed-case hold at $809.48, or $67.46 a box.",
+      "Lillie's Clefairy ex, the Special Art Rare 126/100, is $126.70 on TCGplayer as of November 12, 2026, or 1.75 boxes and 33.18 percent of the set's value, down 27.60 percent since March.",
+      "Both sealed formats fell exactly 15 percent in the week before this guide, from $84.97 and $952.33 on November 8, 2026: a shelf repricing, not a market crash."
     ]
   },
   "sv9a-heat-wave-arena-buyers-guide": {
