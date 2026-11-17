@@ -26120,7 +26120,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the game its gold and silver anniversary Luffy cards and the Snakeman Manga, sealed in either language, and it is not worth buying as a way to own one named card or to make the money back by opening. The gold Luffy sat at $13,000 on TCGplayer market as of November 11, 2026, which is 71.74 Japanese boxes, and the silver sat at €4,442 on the PokéItem index. Pullnomics models the English box at $83.94 expected value, 0.16 times its market price. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the English box dropped $97.33 in eight days, from $486.65 to $389.32, exactly twenty percent, while the Japanese box did not move at all. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 23 to November 12, 2026. The English box now sits below every market while the Japanese box sits $82.95 above the predecessor set's $98.26 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) runs all three products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-10 worth buying guide](/blog/is-op-10-worth-buying/) runs the same verdict on the predecessor set."
+      "For the price-and-math companion, the [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) runs all three products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-10 worth buying guide](/blog/is-op-10-worth-buying/) runs the same verdict on the predecessor set.",
+      "For the investment division on the same three products, see [OP-11 A Fist of Divine Speed Investment](/blog/op-11-investment/)."
     ]
   },
   "is-op-12-worth-buying": {
@@ -26314,7 +26315,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the game its Bonney Comic Parallel and the master-disciple Leaders, sealed in either language, and it is not worth buying as a way to own one named card or to make the money back by opening. The Bonney Comic Parallel sat at a 59,500 yen lowest ask on October 7, 2026, which is $372.11, or 2.87 Japanese boxes, and the PSA 10 ask was 180,000 yen. FoilKraken models the typical opened box at $90.49, 69.6 percent of the Warehouse English box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the English box dropped $32.51 in eight days, from $162.56 to $130.05, exactly twenty percent, while the Japanese box did not move at all. Every English One Piece box and case on this shelf fell the same twenty percent in the same eight days, from OP-08 through OP-14. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 7 to November 1, 2026. The English box now sits below every market while the Japanese box sits $5.21 below the successor set's $135.00 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-12 Legacy of the Master buyer's guide](/blog/op-12-legacy-of-the-master-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-13 worth buying guide](/blog/is-op-13-worth-buying/) runs the same verdict on the successor set."
+      "For the price-and-math companion, the [OP-12 Legacy of the Master buyer's guide](/blog/op-12-legacy-of-the-master-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-13 worth buying guide](/blog/is-op-13-worth-buying/) runs the same verdict on the successor set.",
+      "For the investment division on the same four products, see [OP-12 Legacy of the Master Investment](/blog/op-12-investment/)."
     ]
   },
   "is-op-13-worth-buying": {
@@ -43202,7 +43204,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The OP-10 English case is the buy: $1,085.27 divides to $90.44 a box, $3.77 a pack and $0.31 a card, $156.76 below the November 17, 2026 market figure per box, and $378.13 below twelve singles on our own shelf. The English box at $121.95 is the second buy, $125.25 below the same market after a 32% repricing in twelve days. The Japanese box at $83.52 is the opener's buy, $3.48 a pack, and the Japanese case at $1,002.93 is twelve boxes in one carton, not a bulk deal, costing $0.69 more than the singles.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the market figure as of November 17, 2026, the Tokyo listing as of October 23, 2026, and the Law Manga as of November 17, 2026. When the next repricing lands, re-run the division: the gap that makes OP-10 the buy today is a shelf price and a market price, and either one can move.",
-      "For the opener's version of this set, the [OP-10 Royal Blood buyer's guide](/blog/op-10-royal-blood-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-10 worth buying](/blog/is-op-10-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-08 Two Legends investment guide](/blog/op-08-investment/) runs the same division on the last set of Block 2. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. For a Block 2 comparison, the [OP-06 Wings of the Captain investment guide](/blog/op-06-investment/) runs the same division on the Zoro and Sanji set, which leaves Standard on April 1, 2027."
+      "For the opener's version of this set, the [OP-10 Royal Blood buyer's guide](/blog/op-10-royal-blood-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-10 worth buying](/blog/is-op-10-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-08 Two Legends investment guide](/blog/op-08-investment/) runs the same division on the last set of Block 2. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. For a Block 2 comparison, the [OP-06 Wings of the Captain investment guide](/blog/op-06-investment/) runs the same division on the Zoro and Sanji set, which leaves Standard on April 1, 2027.",
+      "For the next set, see [OP-11 A Fist of Divine Speed Investment](/blog/op-11-investment/)."
     ]
   },
   "op-10-royal-blood-buyers-guide": {
@@ -43606,7 +43609,419 @@ export const POSTS: Record<string, BlogPost> = {
       "On November 5, 2026, the Warehouse OP-11 Japanese box costs $181.21, which is $7.55 a pack and $1.26 a card. Buy it to open the Divine Speed set, buy the English box at $486.65 only if English cards are the job, and buy the single for the Luffy Manga card or any named card.",
       "Prices move; the method does not. Choose the language first, check the shelf second, divide the case third, and never pay for a fourth product that is not listed.",
       "For the successor set, see [OP-12 Legacy of the Master Buyer's Guide](/blog/op-12-legacy-of-the-master-buyers-guide/). For the predecessor sets, see [OP-10 Royal Blood Buyer's Guide](/blog/op-10-royal-blood-buyers-guide/) and [OP-09 Emperors in the New World Buyer's Guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
-      "For the worth-it verdict with the November 13, 2026 shelf prices, see [Is OP-11 A Fist of Divine Speed Worth Buying?](/blog/is-op-11-worth-buying/)."
+      "For the worth-it verdict with the November 13, 2026 shelf prices, see [Is OP-11 A Fist of Divine Speed Worth Buying?](/blog/is-op-11-worth-buying/).",
+      "For the investment division on the same three products, see [OP-11 A Fist of Divine Speed Investment](/blog/op-11-investment/)."
+    ]
+  },
+  "op-11-investment": {
+    "datePublished": "2026-11-17",
+    "faqs": [
+      {
+        "a": "On price alone, yes for the English box and the Japanese case, and no for opening either to chase the Luffy Manga. The English box at $330.92 sits $199.90 below the $530.82 market figure from November 17, 2026, after a 32% repricing fall in twelve days. The Japanese case divides to $152.14 a box and saves $22.67 against twelve singles, a real saving in the right direction. The Japanese box at $154.03 is the opener's buy, not the holder's: it sits $48.96 below the Tokyo listing of about $203 on October 23, 2026. Nothing here is a promise. OP-11 is Block 3 and stays Standard through March 31, 2028, and a reprint would cut the market the way the 2024 reprint cut OP-01 by 57% in a month. Buy the box because the division is wide, not because the price can only rise.",
+        "q": "Is OP-11 A Fist of Divine Speed a good investment?"
+      },
+      {
+        "a": "Two reasons, and only one of them is the market. The market prices the English box at $530.82 on November 17, 2026, against $199.90 more than our $330.92 shelf price, and the English print is the scarce one: OP-11 English is the dearest English One Piece box on this shelf, $208.97 above English OP-10. The second reason is structural: there is no English case on this shelf, so an English bulk buyer has no case-divided price to fall back on and pays the single-box price or nothing. The Japanese box at $154.03 is the same set's pool at $6.42 a pack, and the $176.89 gap between the languages is the widest language gap in this run of guides. Pay the English price only if English cards are the job.",
+        "q": "Why is the OP-11 English box so much more expensive than the Japanese box?"
+      },
+      {
+        "a": "Keep it sealed. A typical opened OP-11 box returns $68.57 against a $541.19 sealed price, 13% of the sealed price, and only 5% of simulated boxes beat the sealed price at all, in the November 1, 2026 FoilKraken box-value report. The average opened box returns $272.08, but that average is pulled up by one $13,000 gold Luffy SP that almost no box contains. The Luffy Manga, OP11-118, sat at 94,800 yen on March 1, 2025, a launch-era figure, and Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. If you want to open Divine Speed, open the Japanese box at $154.03, $6.42 a pack, and hold the English box sealed.",
+        "q": "Should I open an OP-11 box or keep it sealed?"
+      }
+    ],
+    "h1": "OP-11 A Fist of Divine Speed Investment: Buy the English Box",
+    "intro": [
+      "Short answer: buy the English box, buy the Japanese case if twelve boxes are the plan, open the Japanese box, and stop hunting for an English case that is not listed. On our shelf as of November 17, 2026, the [OP-11 English booster box](/product/op-11-a-fist-of-divine-speed-booster-box-english-one-piece-card/) costs $330.92, $199.90 below the $530.82 market figure from November 17, 2026. The [OP-11 Japanese sealed case](/product/op-11-a-fist-of-divine-speed-sealed-case-12-boxes-japanese-one-piece-card/) costs $1,825.69, or $152.14 a box, and the [OP-11 Japanese box](/product/op-11-a-fist-of-divine-speed-booster-box-japanese-one-piece-card/) costs $154.03, the opener's price.",
+      "Who this is for: sealed collectors who want the Divine Speed set, buyers choosing between the English box and the Japanese case now that the English box sits $199.90 below market, and case buyers who divide before they pay. Who it is not for: anyone buying to pull the Luffy Manga card, because the typical opened box returns $68.57; anyone who needs a fourth sealed product, because no English case is listed; anyone who expects the Japanese case to save like a bulk deal in every set, because here it saves $1.89 a box; and anyone who reads a 32% shelf fall as a market crash, because the market sat at $541.19 on November 1 and at $530.82 on November 17 while our shelf fell."
+    ],
+    "metaDescription": "OP-11's English box fell 32% in twelve days to $330.92, $199.90 below a $530.82 market. The Japanese case saves $22.67.",
+    "metaTitle": "OP-11 A Fist of Divine Speed Investment: Buy the English Box",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the English box, hold the Japanese case, open the Japanese box",
+        "note": "From the Warehouse: the question we get most about OP-11 is whether the English box price is a misprint, because buyers see $330.92 next to the $121.95 English OP-10 box and assume a data error. It is not a misprint. OP-11 English is the dearest English One Piece box on this shelf, $208.97 above English OP-10 and $176.89 above its own Japanese box, and we say that before the sale, because a buyer who assumes English boxes cluster around one price will not budget for this one.",
+        "paragraphs": [
+          "The English box is the buy because the gap is the widest in the set. At $330.92 it is $13.79 a pack and $1.15 a card, $199.90 below the November 17, 2026 market figure of $530.82, 37.66% below. It is the same box that cost $486.65 on November 5: 32% in twelve days, while the market moved $10.37. A buyer who wants one sealed English box buys this one and holds it. The [OP-10 Royal Blood investment guide](/blog/op-10-investment/) runs the same division on the set before Divine Speed, where the English box sits $125.25 below its market.",
+          "The Japanese case is the second buy, and the only case on this page. At $1,825.69 it divides to $152.14 a box, $6.34 a pack and $1.06 a card, a saving of $22.67 against twelve singles, $1.89 a box. That is a real saving in the right direction, unlike OP-13, where the Japanese case cost more per box than the single, and unlike OP-08 and OP-10, where it cost six cents more. The saving alone does not justify twelve boxes, but twelve boxes are the plan, so the case is the way to buy them. The [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) prices the same three products for the opener.",
+          "The Japanese box is the opener's buy, and it carries the one fact no other set in this run can claim: it sits below Tokyo. At $154.03 it is $6.42 a pack and $1.07 a card, $48.96 below a Tokyo store's box at 31,260 yen, about $203, on October 23, 2026, and $32.97 below CardZ's sold-first reference of $187 on November 16, 2026. It is the cheapest way into the Divine Speed pool, and the only Japanese box in this run that undercuts the Tokyo listing. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game we carry."
+        ]
+      },
+      {
+        "h": "The money layer: three products, and the 32% fall that flipped the gap",
+        "math": [
+          "OP-11 Japanese box: $154.03 / 24 packs = $6.42 per pack; $154.03 / 144 cards = $1.07 per card",
+          "OP-11 Japanese box vs list: 220 yen x 24 = 5,280 yen; 5,280 yen / 154 = $34.29; $154.03 / $34.29 = 4.49x list; $154.03 - $34.29 = $119.74 above list",
+          "OP-11 Japanese case: $1,825.69 / 12 boxes = $152.14 per box; $152.14 / 24 packs = $6.34 per pack; $152.14 / 144 cards = $1.06 per card",
+          "OP-11 Japanese case vs 12 singles: 12 x $154.03 = $1,848.36; $1,848.36 - $1,825.69 = $22.67 saved; $22.67 / 12 = $1.89 saved per box",
+          "OP-11 English box: $330.92 / 24 packs = $13.79 per pack; $330.92 / 288 cards = $1.15 per card",
+          "OP-11 English box vs MSRP: $4.99 x 24 = $119.76; $330.92 - $119.76 = $211.16 above MSRP; $330.92 / $119.76 = 2.76x MSRP",
+          "OP-11 English box vs market: $530.82 - $330.92 = $199.90 below the Nov 17, 2026 market figure; $199.90 / $530.82 = 37.66% below market",
+          "OP-11 English box price path Nov 5 to Nov 17: $486.65 - $330.92 = $155.73; $155.73 / $486.65 = 32.00% in 12 days",
+          "OP-11 Japanese box price path Nov 5 to Nov 17: $181.21 - $154.03 = $27.18; $27.18 / $181.21 = 15.00% in 12 days",
+          "OP-11 Japanese case price path Nov 5 to Nov 17: $2,147.87 - $1,825.69 = $322.18; $322.18 / $2,147.87 = 15.00% in 12 days",
+          "OP-11 Japanese box vs Tokyo listing: 31,260 yen / 154 = $202.99; $202.99 - $154.03 = $48.96 below the Oct 23, 2026 Tokyo listing (asking price, not a sale)",
+          "OP-11 Japanese box vs CardZ reference: $187.00 - $154.03 = $32.97 below the Nov 16, 2026 sold-first reference",
+          "OP-11 language gap: $330.92 - $154.03 = $176.89 per box; $13.79 - $6.42 = $7.37 per pack; $1.15 - $1.07 = $0.08 per card",
+          "OP-11 EV: $82.81 / $530.82 = 0.16x the market box (Pullnomics, Nov 17, 2026); $82.81 / $330.92 = 0.25x our English box; $31.39 / $330.92 = 0.09x with no case hit",
+          "OP-11 opened-box return: $68.57 / $541.19 = 12.67% of the sealed price (FoilKraken, Nov 1, 2026); 5% of simulated boxes beat the sealed price",
+          "OP-11 average opened box: $272.08 / $541.19 = 50.27% of the sealed price (FoilKraken, Nov 1, 2026); the average sits far above the typical box because one $13,000 card is in the pool",
+          "OP-11 Europe gap: $530.82 - $419.37 = $111.45; $111.45 / $530.82 = 21.00% cheaper in Europe (FoilKraken, Nov 17, 2026)",
+          "OP-11 vs OP-10 English box: $330.92 - $121.95 = $208.97; OP-11 vs OP-10 market: $530.82 - $247.20 = $283.62",
+          "OP-11 vs launch price: $541.19 - $119.76 = $421.43; $421.43 / $119.76 = 351.90% above launch (FoilKraken, Nov 1, 2026)",
+          "OP-11 gold Luffy SP: $13,000.00 / $330.92 = 39.28 boxes; $13,000.00 / $154.03 = 84.40 boxes"
+        ],
+        "paragraphs": [
+          "Every line above is one division from a shelf price as of November 17, 2026, or one subtraction from a dated market figure. Two legs: the English box fell 32% between November 5 and November 17, 2026, while the Japanese products fell 15% in the same twelve days. The English box went $486.65 to $330.92, the Japanese box $181.21 to $154.03 and the Japanese case $2,147.87 to $1,825.69. A verdict written from November 5 prices would overstate the English box by $155.73 and the Japanese case by $322.18.",
+          "The market did not move with the shelf. The English box traded at $541.19 on November 1, 2026, and at $530.82 on November 17, 2026, a $10.37 drift while our shelf fell $155.73. The Japanese side runs the other way: our Japanese box at $154.03 sits $48.96 below the Tokyo listing and $32.97 below CardZ's $187 sold-first reference. That split is the whole trade: buy the English box, hold the Japanese case, open the Japanese box. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the wider Japanese ladder the same way."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, single, or wait, in both languages",
+        "paragraphs": [
+          "The table's first row is the decision. The English box wins on the gap: $330.92 against a $530.82 market, $199.90 below, 37.66% below. The Japanese case wins on the bulk question: $152.14 a box, $1.89 below the single box, the only case on this page and a real saving. The Japanese box wins only on the opening question: $6.42 a pack is the cheapest way to open Divine Speed, and it undercuts Tokyo by $48.96. The missing row is the warning: there is no English case, so the English bulk buyer has no division to run.",
+          "The last column is the control. The OP-10 English box at $121.95 is $208.97 cheaper than the OP-11 English box, and its market is $247.20 against OP-11's $530.82, so the two markets sit $283.62 apart while our shelf prices them $208.97 apart. Want the Royal Blood set? Buy OP-10. Want the Divine Speed set? Buy OP-11, knowing the English box is the dearest in this run. The [best One Piece booster box guide](/blog/best-one-piece-booster-box-to-buy/) prices the wider English ladder the same way."
+        ],
+        "table": {
+          "head": [
+            "",
+            "JP box",
+            "JP case (per box)",
+            "EN box",
+            "No EN case",
+            "OP-10 EN box (control)"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$154.03",
+              "$152.14",
+              "$330.92",
+              "Not listed",
+              "$121.95"
+            ],
+            [
+              "Price per pack",
+              "$6.42",
+              "$6.34",
+              "$13.79",
+              "Not listed",
+              "$5.08"
+            ],
+            [
+              "Price per card",
+              "$1.07",
+              "$1.06",
+              "$1.15",
+              "Not divided",
+              "$0.42"
+            ],
+            [
+              "vs market",
+              "$48.96 below the ~$203 Tokyo listing",
+              "$50.85 below the ~$203 Tokyo listing",
+              "$199.90 below $530.82",
+              "Not divided",
+              "$125.25 below $247.20"
+            ],
+            [
+              "vs list / MSRP",
+              "4.49x the ¥5,280 list",
+              "4.44x the ¥5,280 list",
+              "2.76x the $119.76 MSRP",
+              "Not divided",
+              "1.02x the $119.76 MSRP"
+            ],
+            [
+              "Best for",
+              "Opening the set; cheapest pack",
+              "Twelve Japanese boxes; a real saving",
+              "One sealed English box, below market",
+              "The bulk buy that is not one",
+              "The Royal Blood set; $208.97 cheaper"
+            ],
+            [
+              "Worst for",
+              "Holding; the Manga odds",
+              "The $1,825.69 cheque",
+              "Opening; $13.79 a pack",
+              "Assuming four products",
+              "The OP-11 case; no English case to divide"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing, the missing case, and the Tokyo flip",
+        "note": "From the Warehouse: the question we get about OP-11 is why the Japanese box costs less than the Tokyo listing now when it cost more a month ago. It sat above a 30,490 yen lowest ask on October 8, and the answer is that our shelf fell 15% in twelve days while the Tokyo listing moved a few hundred yen. The box did not get cheaper because the set got worse; it got cheaper because the shelf repriced. That is why this page dates every market figure and divides the case every time, even when the last three sets taught you not to bother.",
+        "paragraphs": [
+          "The top results answer three different questions, and none of them is the investment question. The value guide ranks OP-11 by concentration and prices no shelf at all. The expected-value table prices the English box at $530.82 against an $82.81 expected value, and lists no Japanese price. The box-value report proves the opening case: a typical opened box returns $68.57, and only 5% of simulated boxes beat the sealed price. None of them divides one store's three OP-11 products to the pack and the card, none states plainly that the English case is missing from the shelf, and none prices the Japanese box against the Tokyo listing it now undercuts.",
+          "The second gap is the average against the typical. The box-value report prints both, $272.08 average against $68.57 typical, and the guides that quote one number without the other leave a buyer believing an opened box returns half its price. It does not: the average is pulled up by one $13,000 gold Luffy SP that almost no box contains, and the typical box returns 13% of the sealed price. The third gap is the rotation, which the chase tables leave out. OP-11 is Block 3, and Block 3 stays Standard through March 31, 2028, which is why this page prices the box as a collector's purchase with sixteen months of play left, not as a set about to rotate. Our [is OP-11 worth buying guide](/blog/is-op-11-worth-buying/) runs the buy-or-pass verdict on the same three products."
+        ]
+      },
+      {
+        "h": "The chase layer: one gold card worth 59% of the set",
+        "math": [
+          "OP-11 top card share: 59% of $21,965.00 = $12,959.35; $13,000.00 - $12,959.35 = $40.65",
+          "OP-11 top ten share: 97% of $21,965.00 = $21,306.05",
+          "OP-11 Luffy Manga launch: 94,800 yen / 154 = $615.58 at the page rate (March 1, 2025 launch-era figure, not a current price)"
+        ],
+        "paragraphs": [
+          "A Fist of Divine Speed is 127 card types plus 1 DON!! card in Japan, released in Japan on March 1, 2025 and in English on June 6, 2025. The chase is one card in two forms: the Monkey D. Luffy Manga, OP11-118, the set's Snakeman manga-panel treatment, and the gold-back Luffy Special reprint, OP05-119, which FoilKraken lists at $13,000.00 on November 1, 2026 with few sales. The set's singles total $21,965.00 in InkSight's August 31, 2026 snapshot, and the top card is 59% of it, the top ten 97%: the most concentrated set in this run. A box whose value rides on one $13,000 card is a box whose opened value is a lottery ticket, not a plan.",
+          "The spread is what keeps the opening math failing anyway. The expected value of an English box is $82.81 on Pullnomics as of November 17, 2026, 0.16 times the market box, and $31.39 with no case hit, 0.09 times our English box, with a 62% case-hit share. The typical opened box returns $68.57, 13% of the sealed price, and the average of $272.08 is the gold card doing the lifting. Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. Every chase card is cheaper as a single than as a pull. Buy the box sealed, or buy the single. Do not buy the box to pull the single. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the wider Japanese ladder the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, rotation, and the lottery",
+        "paragraphs": [
+          "The first risk has already happened to the set next door. OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. A sealed box is scarce only when nobody is making more of it, and Bandai has reprinted OP-01 before: Wave 1 Blue Bottom and Wave 2 White Bottom are two printings of the same set. OP-11 has no second wave on the record yet, and a reprint would cut its $530.82 market the same way. Never pay a scarcity premium with money you need back on a date.",
+          "The second risk is rotation, and here OP-11 is on the safer side of the line. Block 3, OP-09 to OP-12, stays Standard through March 31, 2028, about sixteen months from today, while Block 2 leaves on April 1, 2027. The April 2028 exit is the published pattern's next step, not a Bandai date we have seen in writing. Rotation did not dent sealed prices at all when Block 1 left on April 1, 2026, because nobody was buying a $330.92 box to build a tournament deck. The risk is not that rotation kills the price; it is that a buyer who pays $330.92 for a tournament box discovers the set is not Standard-legal past the window. The third risk is the lottery. A typical opened OP-11 box returns $68.57, and only 5% of simulated boxes beat the sealed price. The gold Luffy SP at $13,000 is the card that makes the opening feel rational, and the arithmetic is the answer: one card in 127 types, with no published pull rate, cannot carry a $330.92 box. Buy the single if you want the Luffy, buy the box if you want the set sealed, and open the Japanese box only if the opening is the purchase, not the investment. Check the seal before you pay, and read [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first; a box far below the shelf figures on this page is a warning, and [How to Spot Fake One Piece Cards](/blog/how-to-spot-fake-one-piece-cards/) covers the tells."
+        ]
+      },
+      {
+        "h": "Context: speed, Fish-Man Island, and Block 3",
+        "paragraphs": [
+          "A Fist of Divine Speed released in Japan on March 1, 2025, at 220 yen a pack including tax, 6 cards a pack, 127 card types plus 1 DON!! card, and in English on June 6, 2025, at $4.99 a pack. It is the eleventh One Piece Card Game booster set, built on speed across Fish-Man Island and Whole Cake Island: high-velocity strategies, new Leaders including Koby, Luffy, Nami, and Shirahoshi, and the giant mermaid's board control against the Vinsmoke family's deck manipulation. The set's Leaders include Koby, Luffy, Nami, and Shirahoshi, and the set's two Secret Rares are the Luffy parallel, OP11-118, and Koby, OP11-119, with eight Special cards beside them. The Japanese box holds 24 packs, 144 cards; the English box holds the same 24 packs with 12 cards each, 288 cards.",
+          "Two further facts belong in every honest OP-11 guide. First, the gold-back and silver-back Luffy cards that headline launch-era price lists are Special reprints carrying the older number OP05-119, not OP-11 base numbers, and the launch-era figures for them are launch-era figures, not current prices. Second, Bandai publishes no pull rates for OP-11, so no frequency figure for any card is quoted here. The set that came after explains the price gap. [OP-12 Legacy of the Master](/blog/op-12-legacy-of-the-master-buyers-guide/) released in Japan on May 31, 2025, and its English market runs to $291.72 against OP-11's $530.82: two markets $239.10 apart. OP-12 is the master-disciple set with a Bonney chase, and OP-11 is the Luffy set with one $13,000 card in the pool, and both sit in Block 3 and stay Standard through March 31, 2028. The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case-price/) prices the Japanese cases across the line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card: the gold Luffy SP at $13,000 is cheaper as a single than as a pull, and a typical opened box returns $68.57 against a $541.19 sealed price. It is not for the player who needs Standard-legal cards past March 2028: Block 3 leaves Standard after that window, and OP-11 plays in Extra Regulation after that. It is not for the bulk buyer who wants an English case: none is listed on this shelf. And it is not for anyone who treats a sealed box as a savings account: OP-01 fell 57% in a month once, and a reprint would do the same to OP-11."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: Japanese box / 24 = your per-pack price, then / 6 for per card; Japanese case / 12 = per box, then / 24 and / 6.",
+          "Check the fall against the market: the English box fell 32% in twelve days while the market moved $10.37. A shelf fall is not a market fall.",
+          "Check the English box against the market: our box at $330.92 sits $199.90 below the November 17 market of $530.82. The gap is the buy.",
+          "Check the Japanese case against the singles: the case saves $22.67 against twelve singles. $1.89 a box is a real saving, not a rounding error.",
+          "Check the Japanese box against Tokyo: our box at $154.03 sits $48.96 below the Tokyo listing of about $203, and $32.97 below the CardZ reference of $187. The listing is not a sale, but the gap is real.",
+          "Check the shelf, not the pattern: OP-11 lists three sealed products, and no English case is listed. Do not hunt for a fourth product that is not there.",
+          "Date every figure: shelf prices as of November 17, 2026; market as of November 17, 2026; the Tokyo listing as of October 23, 2026; and the Luffy Manga as of March 1, 2025. When the next repricing lands, re-run the division: the gap that makes OP-11 the buy today is a shelf price and a market price, and either one can move.",
+          "If you want one card, buy the single. If you want the set sealed, buy the English box and hold it. If you want to open it, open the Japanese box.",
+          "Never pay a scarcity premium with money you need back on a date. OP-01 fell 57% in a month once, and a reprint is the risk that repeats it for OP-11."
+        ],
+        "h": "Action layer: the OP-11 investment checklist",
+        "paragraphs": [
+          "Divide first, check the fall against the market second, check the Japanese case against the singles third, and the single-card question last, because it cancels the other three."
+        ]
+      }
+    ],
+    "slug": "op-11-investment",
+    "takeaway": [
+      "The OP-11 English box is the buy: $330.92, $13.79 a pack and $1.15 a card, $199.90 below the November 17, 2026 market figure of $530.82 after a 32% repricing in twelve days. The Japanese case at $1,825.69 divides to $152.14 a box and saves $22.67 against twelve singles. The Japanese box at $154.03 is the opener's buy, $6.42 a pack, and it undercuts the Tokyo listing by $48.96. There is no English case on this shelf.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the market figure as of November 17, 2026, the Tokyo listing as of October 23, 2026, and the Luffy Manga as of March 1, 2025. When the next repricing lands, re-run the division: the gap that makes OP-11 the buy today is a shelf price and a market price, and either one can move.",
+      "For the opener's version of this set, the [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) prices the same three products for opening rather than holding, and [is OP-11 worth buying](/blog/is-op-11-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-10 Royal Blood investment guide](/blog/op-10-investment/) runs the same division on Royal Blood. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry.",
+      "For the next set, see [OP-12 Legacy of the Master Investment](/blog/op-12-investment/)."
+    ]
+  },
+  "op-12-investment": {
+    "datePublished": "2026-11-17",
+    "faqs": [
+      {
+        "a": "On price alone, yes for the English case and the English box, and no for opening either to chase the Bonney Comic Parallel. The English case divides to $94.47 a box against a $291.72 market figure from November 17, 2026, and the English box at $110.54 sits $181.18 below that same market and $9.22 below its printed price, the first below-MSRP English box in this run. The Japanese box at $110.32 is the opener's buy, not the holder's: it sits $9.32 above CardZ's sold-first reference of $101 on November 16, 2026. Nothing here is a promise. OP-12 is Block 3 and stays Standard through March 31, 2028, and a reprint would cut the market the way the 2024 reprint cut OP-01 by 57% in a month. Buy the case because the division is wide, not because the price can only rise.",
+        "q": "Is OP-12 Legacy of the Master a good investment?"
+      },
+      {
+        "a": "Because the two languages cost the same per box and different amounts per card. The English box at $110.54 and the Japanese box at $110.32 sit $0.22 apart, the narrowest language gap in this run of guides, yet the English box holds 288 cards against 144 in the Japanese box, so the English card costs $0.38 against $0.77 in Japanese. The English case divides further, to $94.47 a box and $0.33 a card. A buyer who chooses on box price alone sees two equal boxes and misses the card price entirely. Choose the language first, then divide within it.",
+        "q": "Why does the OP-12 English box cost almost the same as the Japanese box?"
+      },
+      {
+        "a": "Keep it sealed. A typical opened OP-12 box returns $90.49 against a $291.84 sealed price, 31% of the sealed price, and only 6% of simulated boxes beat the sealed price at all, in the November 1, 2026 FoilKraken box-value report. The Bonney Comic Parallel, OP12-118, sat at a 59,500 yen lowest ask on October 7, 2026, and Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. If you want to open Legacy of the Master, open the Japanese box at $110.32, $4.60 a pack, and hold the English case sealed.",
+        "q": "Should I open an OP-12 box or keep it sealed?"
+      }
+    ],
+    "h1": "OP-12 Legacy of the Master Investment: Buy the English Case",
+    "intro": [
+      "Short answer: buy the English sealed case, hold the English box now that it sits below its printed price, open the Japanese box, and buy the Japanese case only if twelve boxes are the plan. On our shelf as of November 17, 2026, the [OP-12 English sealed case](/product/op-12-legacy-of-the-master-sealed-case-12-boxes-english-one-piece-card/) costs $1,133.65, or $94.47 a box, against a $291.72 market figure from November 17, 2026. The [OP-12 English box](/product/op-12-legacy-of-the-master-booster-box-english-one-piece-card/) costs $110.54, $181.18 below that market, after a 32% repricing fall in twelve days. The [OP-12 Japanese case](/product/op-12-legacy-of-the-master-sealed-case-12-boxes-japanese-one-piece-card/) costs $1,318.32, or $109.86 a box, and the [OP-12 Japanese box](/product/op-12-legacy-of-the-master-booster-box-japanese-one-piece-card/) costs $110.32, the opener's price.",
+      "Who this is for: sealed collectors who want the master-disciple set, buyers choosing between the English box and the English case now that both sit far below market, and case splitters who divide before they pay. Who it is not for: anyone buying to pull the Bonney Comic Parallel, because the box almost never pays for itself; anyone who chooses on box price alone, because the two languages cost $0.22 apart per box and $0.39 apart per card; anyone who expects the Japanese case to discount, because it saves $0.46 a box; and anyone who reads a 32% shelf fall as a market crash, because the market barely moved while our shelf fell."
+    ],
+    "metaDescription": "OP-12's English box is $110.54, below its $119.76 MSRP and $181.18 below a $291.72 market. The English case divides to $94.47 a box.",
+    "metaTitle": "OP-12 Legacy of the Master Investment: Buy the English Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the English case, hold the English box, open the Japanese box",
+        "note": "From the Warehouse: the question we get most about OP-12 is whether the English box is a worse deal than the Japanese box, because buyers see $110.54 against $110.32 and stop there. It is not a worse deal per card: twelve English cards a pack against six Japanese cards a pack turns the dearer box into the cheaper card, $0.38 against $0.77. We say that before the sale, because a buyer who chooses on box price alone buys the dearer card and never knows it.",
+        "paragraphs": [
+          "The English case is the buy because the division is the widest in the set. Twelve boxes for $1,133.65 divide to $94.47 a box, $3.94 a pack and $0.33 a card, every one $197.25 below the November 17, 2026 market figure of $291.72 for a single English box. The case saves $192.83 against twelve singles on our own shelf, $16.07 a box. A buyer who wants English Legacy of the Master in bulk buys the case.",
+          "The English box is the second buy. At $110.54 it is $4.61 a pack and $0.38 a card, $181.18 below the $291.72 market, 62.11% below. It is the same box that cost $162.56 on November 5: 32% in twelve days while the market moved twelve cents. It is also the first English box in this run of guides to sit below its printed price: $9.22 under the $119.76 MSRP, 0.92 times. A buyer who wants one box buys this one and holds it sealed. The [OP-10 Royal Blood investment guide](/blog/op-10-investment/) runs the same division on Royal Blood, two sets before Legacy of the Master, where the English box sits $125.25 below its market.",
+          "The Japanese box is the opener's buy. At $110.32 it is $4.60 a pack and $0.77 a card, the cheapest way into the Bonney and Kuma pool, and $9.32 above CardZ's sold-first reference of $101 on November 16, 2026. The Japanese case at $1,318.32 is not a bulk buy: it divides to $109.86 a box, $0.46 below the single box, $5.52 across twelve boxes. The [OP-12 Legacy of the Master buyer's guide](/blog/op-12-legacy-of-the-master-buyers-guide/) prices the same four products for the opener."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and the 32% fall that flipped the gap",
+        "math": [
+          "OP-12 Japanese box: $110.32 / 24 packs = $4.60 per pack; $110.32 / 144 cards = $0.77 per card",
+          "OP-12 Japanese box vs list: 220 yen x 24 = 5,280 yen; 5,280 yen / 154 = $34.29; $110.32 / $34.29 = 3.22x list; $110.32 - $34.29 = $76.03 above list",
+          "OP-12 Japanese case: $1,318.32 / 12 boxes = $109.86 per box; $109.86 / 24 packs = $4.58 per pack; $109.86 / 144 cards = $0.76 per card",
+          "OP-12 Japanese case vs 12 singles: 12 x $110.32 = $1,323.84; $1,323.84 - $1,318.32 = $5.52 saved; $5.52 / 12 = $0.46 saved per box",
+          "OP-12 English box: $110.54 / 24 packs = $4.61 per pack; $110.54 / 288 cards = $0.38 per card",
+          "OP-12 English box vs MSRP: $4.99 x 24 = $119.76; $119.76 - $110.54 = $9.22 below MSRP; $110.54 / $119.76 = 0.92x MSRP",
+          "OP-12 English case: $1,133.65 / 12 boxes = $94.47 per box; $94.47 / 24 packs = $3.94 per pack; $94.47 / 288 cards = $0.33 per card",
+          "OP-12 English case vs 12 singles: 12 x $110.54 = $1,326.48; $1,326.48 - $1,133.65 = $192.83 saved; $192.83 / 12 = $16.07 saved per box",
+          "OP-12 English box vs market: $291.72 - $110.54 = $181.18 below the Nov 17, 2026 market figure; $181.18 / $291.72 = 62.11% below market",
+          "OP-12 English case per box vs market: $291.72 - $94.47 = $197.25 below the Nov 17 market figure per box",
+          "OP-12 English box price path Nov 5 to Nov 17: $162.56 - $110.54 = $52.02; $52.02 / $162.56 = 32.00% in 12 days",
+          "OP-12 English case price path Nov 5 to Nov 17: $1,667.13 - $1,133.65 = $533.48; $533.48 / $1,667.13 = 32.00% in 12 days",
+          "OP-12 Japanese box price path Nov 5 to Nov 17: $129.79 - $110.32 = $19.47; $19.47 / $129.79 = 15.00% in 12 days",
+          "OP-12 Japanese case price path Nov 5 to Nov 17: $1,550.96 - $1,318.32 = $232.64; $232.64 / $1,550.96 = 15.00% in 12 days",
+          "OP-12 Japanese box vs CardZ reference: $110.32 - $101.00 = $9.32 above the Nov 16, 2026 sold-first reference",
+          "OP-12 English box vs CardZ reference: $218.00 - $110.54 = $107.46 below the Nov 16, 2026 sold-first reference",
+          "OP-12 language gap: $110.54 - $110.32 = $0.22 per box; $4.61 - $4.60 = $0.01 per pack; $0.77 - $0.38 = $0.39 cheaper per card in English",
+          "OP-12 EV: $72.38 / $291.72 = 0.25x the market box (Pullnomics, Nov 17, 2026); $72.38 / $110.54 = 0.65x our English box; $46.83 / $110.54 = 0.42x with no case hit",
+          "OP-12 opened-box return: $90.49 / $291.84 = 31.01% of the sealed price (FoilKraken, Nov 1, 2026); 6% of simulated boxes beat the sealed price",
+          "OP-12 average opened box: $125.15 / $291.84 = 42.88% of the sealed price (FoilKraken, Nov 1, 2026)",
+          "OP-12 Europe gap: $291.72 - $244.03 = $47.69; $47.69 / $291.72 = 16.35% cheaper in Europe (FoilKraken, Nov 17, 2026)",
+          "OP-12 vs OP-10 English box: $121.95 - $110.54 = $11.41; OP-12 vs OP-10 market: $291.72 - $247.20 = $44.52",
+          "OP-12 vs OP-11 English box: $330.92 - $110.54 = $220.38; OP-12 vs OP-11 market: $530.82 - $291.72 = $239.10",
+          "OP-12 vs launch price: $291.84 - $119.76 = $172.08; $172.08 / $119.76 = 143.69% above launch (FoilKraken, Nov 1, 2026)"
+        ],
+        "paragraphs": [
+          "Every line above is one division from a shelf price as of November 17, 2026, or one subtraction from a dated market figure. Two legs: the English products fell 32% between November 5 and November 17, 2026, while the Japanese products fell 15% in the same twelve days. The English box went $162.56 to $110.54, the English case $1,667.13 to $1,133.65, the Japanese box $129.79 to $110.32 and the Japanese case $1,550.96 to $1,318.32. A verdict written from November 5 prices would overstate the English box by $52.02 and the English case by $533.48.",
+          "The market did not move with the shelf. The English box traded at $291.84 on November 1, 2026, and at $291.72 on November 17, 2026, a twelve-cent drift while our shelf fell $52.02. The Japanese side runs the other way: our Japanese box sits $9.32 above CardZ's $101 reference, while our English box sits $107.46 below CardZ's $218 reference for the same set in English. That split is the whole trade: buy the English case, hold the English box, open the Japanese box. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game we carry."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, single, or wait, in both languages",
+        "paragraphs": [
+          "The table's first row is the decision. The English case wins on every per-unit figure: $94.47 a box, $3.94 a pack, $0.33 a card, and $197.25 below the market per box. The English box wins on the size of the cheque: $110.54 buys one sealed English box at $181.18 below market and $9.22 below its printed price. The Japanese box wins only on the opening question: $4.60 a pack is the cheapest way to open Legacy of the Master. The Japanese case wins nothing: $109.86 a box against a $110.32 single box is a rounding error, not a bulk deal.",
+          "The last column is the control. The OP-10 English box at $121.95 is $11.41 dearer than the OP-12 English box, and its market is $247.20 against OP-12's $291.72, so the two markets sit $44.52 apart while our shelf prices them $11.41 apart. Want the Royal Blood set? Buy OP-10. Want the cheaper box and case? Buy OP-12. The [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) prices the set before, where the English box runs $220.38 dearer than this one."
+        ],
+        "table": {
+          "head": [
+            "",
+            "JP box",
+            "JP case (per box)",
+            "EN box",
+            "EN case (per box)",
+            "OP-10 EN box (control)"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$110.32",
+              "$109.86",
+              "$110.54",
+              "$94.47",
+              "$121.95"
+            ],
+            [
+              "Price per pack",
+              "$4.60",
+              "$4.58",
+              "$4.61",
+              "$3.94",
+              "$5.08"
+            ],
+            [
+              "Price per card",
+              "$0.77",
+              "$0.76",
+              "$0.38",
+              "$0.33",
+              "$0.42"
+            ],
+            [
+              "vs market",
+              "$9.32 above the $101 CardZ reference",
+              "$8.86 above the $101 CardZ reference",
+              "$181.18 below $291.72",
+              "$197.25 below $291.72",
+              "$125.25 below $247.20"
+            ],
+            [
+              "vs list / MSRP",
+              "3.22x the ¥5,280 list",
+              "3.20x the ¥5,280 list",
+              "0.92x the $119.76 MSRP",
+              "0.79x the $119.76 MSRP",
+              "1.02x the $119.76 MSRP"
+            ],
+            [
+              "Best for",
+              "Opening the set; cheapest pack",
+              "Twelve Japanese boxes; a $5.52 saving",
+              "One sealed English box, below MSRP",
+              "Bulk English holding; widest gap",
+              "The Royal Blood set; $11.41 dearer"
+            ],
+            [
+              "Worst for",
+              "Holding; the Bonney odds",
+              "The saving alone; $0.46 a box",
+              "Opening; $4.61 a pack",
+              "The $1,133.65 cheque",
+              "The OP-12 case; $4.03 dearer per box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing, the $0.22 gap, and the below-MSRP box",
+        "note": "From the Warehouse: the question we get about OP-12 is why the English box costs the same as the Japanese box now when it cost $32.77 more twelve days ago. It sat $32.77 above the Japanese box on November 5, and the answer is that our shelf fell 32% in English and 15% in Japanese in twelve days while the market moved twelve cents. The box did not get cheaper because the set got worse; it got cheaper because the shelf repriced. That is why this page dates every market figure and divides the case every time, even when the last three sets taught you not to bother.",
+        "paragraphs": [
+          "The top results answer three different questions, and none of them is the investment question. The value guide prices the Bonney Comic Parallel and the graded premiums, and lists no shelf at all. The chase-card guide prices the Bonney Comic Parallel and the anniversary Teach cards with dated Japanese asks. The box-value report proves the opening case: a typical opened box returns $90.49, and only 6% of simulated boxes beat the sealed price. None of them divides one store's four OP-12 products to the pack and the card, none prices the Japanese box against the CardZ sold-first reference, and none states the repricing that moved every figure here by 15% or 32% in twelve days.",
+          "The second gap is the language gap itself. No price table reports that this store's English and Japanese boxes cost $0.22 apart while the English card costs $0.39 less. The third gap is the below-MSRP box. The English box at $110.54 is the first in this run to sit below its $119.76 printed price, and a guide that prices OP-12 from the market alone leaves a buyer believing the box costs $291.72. The fourth gap is the rotation, which the chase tables leave out. OP-12 is Block 3, and Block 3 stays Standard through March 31, 2028, which is why this page prices the box as a collector's purchase with sixteen months of play left, not as a set about to rotate. Our [is OP-12 worth buying guide](/blog/is-op-12-worth-buying/) runs the buy-or-pass verdict on the same four products."
+        ]
+      },
+      {
+        "h": "The chase layer: one Comic Parallel and a top card worth 35% of the set",
+        "math": [
+          "OP-12 top card share: 35% of $5,421.00 = $1,897.35",
+          "OP-12 top ten share: 88% of $5,421.00 = $4,770.48",
+          "OP-12 Bonney Comic Parallel asks: 59,500 yen / 154 = $386.36 raw; 180,000 yen / 154 = $1,168.83 for a PSA 10 copy (Oct 7, 2026, SNKRDUNK asks, not sales)"
+        ],
+        "paragraphs": [
+          "Legacy of the Master is 127 card types plus 1 DON!! card in Japan, released in Japan on May 31, 2025 and in English on August 22, 2025. The chase is one card in two forms: the Jewelry Bonney Comic Parallel, OP12-118, the set's manga-panel treatment of the Supernova, and the Bartholomew Kuma Secret Rare, OP12-119. The set's singles total $5,421.00 in InkSight's August 31, 2026 snapshot, and the top card is 35% of it, the top ten 88%: concentrated, but far less than OP-11, where one card carries 59%. A box whose value rides on ten cards is still a box whose value is scarcity, not contents.",
+          "The spread is what keeps the opening math failing anyway. The Bonney Comic Parallel sat at a 59,500 yen lowest ask raw and 180,000 yen for a PSA 10 copy on October 7, 2026; asks are not sales. The expected value of an English box is $72.38 on Pullnomics as of November 17, 2026, 0.25 times the market box, and $46.83 with no case hit, 0.42 times our English box, with a 35% case-hit share. Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. Every chase card is cheaper as a single than as a pull. Buy the box sealed, or buy the single. Do not buy the box to pull the single. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the wider Japanese ladder the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, rotation, and the lottery",
+        "paragraphs": [
+          "The first risk has already happened to the set next door. OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. A sealed box is scarce only when nobody is making more of it, and Bandai has reprinted OP-01 before: Wave 1 Blue Bottom and Wave 2 White Bottom are two printings of the same set. OP-12 has no second wave on the record yet, and a reprint would cut its $291.72 market the same way. Never pay a scarcity premium with money you need back on a date.",
+          "The second risk is rotation, and here OP-12 is the safer side of the line. Block 3, OP-09 to OP-12, stays Standard through March 31, 2028, about sixteen months from today, while Block 2 leaves on April 1, 2027. The April 2028 exit is the published pattern's next step, not a Bandai date we have seen in writing. Rotation did not dent sealed prices at all when Block 1 left on April 1, 2026, because nobody was buying a $110.54 box to build a tournament deck. The risk is a buyer who pays $110.54 for a tournament box discovering the set is not Standard-legal past the window. The third risk is the lottery. A typical opened OP-12 box returns $90.49, and only 6% of simulated boxes beat the sealed price. The Bonney Comic Parallel at a 59,500 yen ask is the card that makes the opening feel rational, and the arithmetic is the answer: one card in 127 types, with no published pull rate, cannot carry a $110.54 box. Buy the single if you want the Bonney, buy the case if you want the set sealed, and open the Japanese box only if the opening is the purchase, not the investment. OP-12 is not on pre-order. It is eighteen months old in Japan, and its risks are the risks of age: reprint, rotation, the lottery. Check the seal before you pay, and read [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first; a box far below the shelf figures on this page is a warning, and [How to Spot Fake One Piece Cards](/blog/how-to-spot-fake-one-piece-cards/) covers the tells."
+        ]
+      },
+      {
+        "h": "Context: masters, disciples, and Block 3",
+        "paragraphs": [
+          "Legacy of the Master released in Japan on May 31, 2025, at 220 yen a pack including tax, 6 cards a pack, 127 card types plus 1 DON!! card, and in English on August 22, 2025, at $4.99 a pack. It is the twelfth One Piece Card Game booster set, built on the master and disciple bond: Rayleigh and Luffy, Mihawk and Zoro, Garp and his lineage, and the Shanks thread that carries the Four Emperors gold and silver cycle. The six Leaders are master-disciple pairs drawn as one artwork. The two Secret Rare numbers are OP12-118 Jewelry Bonney and OP12-119 Bartholomew Kuma, and Bonney carries two parallel rows including the Comic Parallel, while Kuma carries one. The Japanese box holds 24 packs, 144 cards; the English box holds the same 24 packs with 12 cards each, 288 cards.",
+          "Two further facts belong in every honest OP-12 guide. First, the anniversary Teach cards that headline many OP-12 chase lists are Special-card reprints carrying an older set number, OP09-093, in gold and silver foil for the game's third anniversary; they are not base-set Secret Rares, and a buyer counting the base set should not count them as OP-12 numbers. Second, Bandai publishes no pull rates for OP-12, so no frequency figure for any card is quoted here. The set that came before explains the price gap. [OP-11 A Fist of Divine Speed](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) released in Japan on March 1, 2025, and its English market runs to $530.82 against OP-12's $291.72: two markets $239.10 apart. OP-11 is the Luffy set with one $13,000 card in the pool, and OP-12 is the master-disciple set where no single card passes 35%, and both sit in Block 3 and stay Standard through March 31, 2028. The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case-price/) prices the Japanese cases across the line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card: the Bonney Comic Parallel at a 59,500 yen ask is cheaper as a single than as a pull, and a typical opened box returns $90.49 against a $291.84 sealed price. It is not for the player who needs Standard-legal cards past March 2028: Block 3 leaves Standard after that window, and OP-12 plays in Extra Regulation after that. It is not for the bulk buyer who wants the Japanese case to discount: it saves $0.46 a box. And it is not for anyone who treats a sealed box as a savings account: OP-01 fell 57% in a month once."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: Japanese box / 24 = your per-pack price, then / 6 for per card; English case / 12 = per box, then / 24 and / 12.",
+          "Check the fall against the market: the English box fell 32% in twelve days while the market moved twelve cents. A shelf fall is not a market fall.",
+          "Check the English box against the market: our box at $110.54 sits $181.18 below the November 17 market of $291.72, and $9.22 below its printed price. The gap widened by $52.02 in twelve days.",
+          "Check the English case against the singles: the case saves $192.83 against twelve singles. $16.07 a box is a bulk deal.",
+          "Check the Japanese case against the singles: the case saves $5.52 against twelve singles. $0.46 a box is rounding, not a bulk deal.",
+          "Check the Japanese box against CardZ: our box at $110.32 sits $9.32 above the sold-first reference of $101. The reference is not a sale, but the gap is real.",
+          "Date every figure: shelf prices as of November 17, 2026; market as of November 17, 2026; the CardZ references as of November 16, 2026; and the Bonney asks as of October 7, 2026. When the next repricing lands, re-run the division: the gap that makes OP-12 the buy today is a shelf price and a market price, and either one can move.",
+          "If you want one card, buy the single. If you want the set sealed, buy the English case and hold it. If you want to open it, open the Japanese box.",
+          "Never pay a scarcity premium with money you need back on a date. OP-01 fell 57% in a month once, and a reprint is the risk that repeats it for OP-12."
+        ],
+        "h": "Action layer: the OP-12 investment checklist",
+        "paragraphs": [
+          "Divide first, check the fall against the market second, check the Japanese case against the singles third, and the single-card question last."
+        ]
+      }
+    ],
+    "slug": "op-12-investment",
+    "takeaway": [
+      "The OP-12 English case is the buy: $1,133.65 divides to $94.47 a box, $3.94 a pack and $0.33 a card, $197.25 below the November 17, 2026 market figure per box, and $192.83 below twelve singles on our own shelf. The English box at $110.54 is the second buy, $181.18 below the same market and $9.22 below its printed price after a 32% repricing in twelve days. The Japanese box at $110.32 is the opener's buy, $4.60 a pack, and the Japanese case at $1,318.32 is twelve boxes in one carton, not a bulk deal, saving $5.52 against twelve singles.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the market figure as of November 17, 2026, the CardZ references as of November 16, 2026, and the Bonney asks as of October 7, 2026. When the next repricing lands, re-run the division: the gap that makes OP-12 the buy today is a shelf price and a market price, and either one can move.",
+      "For the opener's version of this set, the [OP-12 Legacy of the Master buyer's guide](/blog/op-12-legacy-of-the-master-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-12 worth buying](/blog/is-op-12-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) prices the Divine Speed set, where the English box runs $220.38 dearer than this one. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
     ]
   },
   "op-12-legacy-of-the-master-buyers-guide": {
@@ -43821,7 +44236,8 @@ export const POSTS: Record<string, BlogPost> = {
       "On November 5, 2026, the Warehouse OP-12 Japanese box costs $129.79, which is $5.41 a pack and $0.90 a card. Buy it to open the master-disciple set, buy the English box at $162.56 or its case at $138.93 a box for English cards, and buy the single for the Bonney Comic Parallel or any named card.",
       "Prices move; the method does not. Choose the language first, divide per card second, divide the case third, and never count a Special reprint as a base-set number.",
       "For the successor set, see [OP-13 Carrying on His Will Buyer's Guide](/blog/op-13-carrying-on-his-will-buyers-guide/). For the predecessor set, see [OP-11 A Fist of Divine Speed Buyer's Guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/).",
-      "For the worth-buying verdict on this set, see [Is OP-12 Legacy of the Master Worth Buying?](/blog/is-op-12-worth-buying/)."
+      "For the worth-buying verdict on this set, see [Is OP-12 Legacy of the Master Worth Buying?](/blog/is-op-12-worth-buying/).",
+      "For the investment division on the same four products, see [OP-12 Legacy of the Master Investment](/blog/op-12-investment/)."
     ]
   },
   "op-13-carrying-on-his-will-buyers-guide": {
