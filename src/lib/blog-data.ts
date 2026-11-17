@@ -25736,7 +25736,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the game its first gold manga card and four Manga Rares, sealed in either language, and it is not worth buying as a way to own one named card or to make the money back by opening. The Roger Gold Super Parallel sat at $5,500 on TCGplayer market as of November 11, 2026, which is 31.29 Japanese boxes, and the Luffy Manga sat at $2,699, which is 15.35. Pullnomics models the English box at $132.83 expected value, 0.21 times its market price. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the English box dropped $107.94 in eight days, from $539.72 to $431.78, exactly twenty percent, while the Japanese box did not move at all. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 2 to November 12, 2026. The English box now sits below every market while the Japanese box sits $77.52 above the successor set's $98.26 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-09 Emperors in the New World buyer's guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/) runs all three products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-07 worth buying guide](/blog/is-op-07-worth-buying/) runs the same verdict on an earlier set.",
+      "For the price-and-math companion, the [OP-09 Emperors in the New World buyer's guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/) runs all three products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-07 worth buying guide](/blog/is-op-07-worth-buying/) runs the same verdict on an earlier set. For the investment division on this set, see [OP-09 Emperors in the New World Investment Guide](/blog/op-09-investment/).",
       "For the same verdict on the successor set, see [Is OP-10 Royal Blood Worth Buying?](/blog/is-op-10-worth-buying/)."
     ]
   },
@@ -25930,7 +25930,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the game its Law Manga card and the Dressrosa and Punk Hazard themes, sealed in either language, and it is not worth buying as a way to own one named card or to make the money back by opening. The Law Manga sat at $663.31 on TCGplayer market as of November 11, 2026, which is 6.75 Japanese boxes. Pullnomics models the English box at $73.12 expected value, 0.30 times its market price. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the English box dropped $35.87 in eight days, from $179.34 to $143.47, exactly twenty percent, and the English case dropped $319.20 in the same window, while the Japanese box did not move at all. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 11 to November 12, 2026. The English side now sits below every market while the Japanese box sits $77.52 below the predecessor set's $175.78 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-10 Royal Blood buyer's guide](/blog/op-10-royal-blood-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-09 worth buying guide](/blog/is-op-09-worth-buying/) runs the same verdict on the predecessor set."
+      "For the price-and-math companion, the [OP-10 Royal Blood buyer's guide](/blog/op-10-royal-blood-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-09 worth buying guide](/blog/is-op-09-worth-buying/) runs the same verdict on the predecessor set. For the investment division on this set, see [OP-10 Royal Blood Investment Guide](/blog/op-10-investment/)."
     ]
   },
   "is-op-11-worth-buying": {
@@ -42800,7 +42800,409 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 5, 2026, the Warehouse OP-09 Japanese box costs $175.78, which is $7.32 a pack and $1.22 a card. Buy it to open Emperors in the New World, buy the English box at $539.72 only if English cards are the job, and buy the single for the Roger Gold Super Parallel or any named card.",
       "Prices move; the method does not. Choose the language first, check for the missing product second, divide the case third, and never pay for a fourth product that is not listed.",
-      "For the successor set, see [OP-10 Royal Blood Buyer's Guide](/blog/op-10-royal-blood-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the predecessor, see [OP-08 Two Legends Buyer's Guide](/blog/op-08-two-legends-buyers-guide/). For the worth-buying verdict on this set, see [Is OP-09 Emperors in the New World Worth Buying?](/blog/is-op-09-worth-buying/)."
+      "For the successor set, see [OP-10 Royal Blood Buyer's Guide](/blog/op-10-royal-blood-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the predecessor, see [OP-08 Two Legends Buyer's Guide](/blog/op-08-two-legends-buyers-guide/). For the worth-buying verdict on this set, see [Is OP-09 Emperors in the New World Worth Buying?](/blog/is-op-09-worth-buying/). For the investment verdict on this set, see [OP-09 Emperors in the New World Investment Guide](/blog/op-09-investment/)."
+    ]
+  },
+  "op-09-investment": {
+    "datePublished": "2026-11-17",
+    "faqs": [
+      {
+        "a": "On price alone, yes for the English box, and no for opening either box to chase the Gold Super Parallel Roger. The English box at $367.01 sits $264.36 below the $631.37 TCGplayer market figure from November 17, 2026, 41.87% below market, and $170.99 below the sold-first reference of $538 from November 16, 2026. The Japanese box at $149.41 is the opener's buy, not the holder's: it is $6.23 a pack, the cheapest way into the anniversary pool. The Japanese case is not a buy at any price: it costs $0.39 more than twelve single boxes. Nothing here is a promise. OP-09 is Block 3 and stays Standard-legal through March 31, 2028 on Bandai's published schedule, and a reprint would cut the market the way the 2024 reprint cut OP-01 by 57% in a month. Buy the English box because the gap is wide, not because the price can only rise.",
+        "q": "Is OP-09 Emperors in the New World a good investment?"
+      },
+      {
+        "a": "Because the case was never priced as a bulk deal. Twelve Japanese single boxes cost $1,792.92 and the case costs $1,793.31, thirty-nine cents more across twelve boxes, three cents a box. The case is twelve boxes in one carton with a premium on top, not a discount. The same pattern held on November 5, when the case divided to $175.82 a box against a $175.78 single box, four cents above. OP-06 taught the same lesson the other way: its Japanese case saved thirty cents a box. OP-09 goes one step further and charges you for the carton. Divide the case every time, even when the last three sets taught you the saving is small, because this time the saving is negative.",
+        "q": "Why does the OP-09 Japanese case cost more than twelve single boxes?"
+      },
+      {
+        "a": "Keep it sealed. A typical opened OP-09 box returns $78.51 against a $637.31 sealed price, 12% of the sealed price, and only 9% of simulated boxes beat the sealed price at all, in the November 1, 2026 FoilKraken box-value report. The Gold Super Parallel Roger, OP09-118, asked ¥700,000, about $4,545.45, on SNKRDUNK on October 7, 2026, and Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. If you want to open Emperors in the New World, open the Japanese box at $149.41, $6.23 a pack, and hold the English box sealed at $367.01.",
+        "q": "Should I open an OP-09 box or keep it sealed?"
+      }
+    ],
+    "h1": "OP-09 Emperors in the New World: Buy the English Box",
+    "intro": [
+      "Short answer: buy the English box, open the Japanese box, and skip the Japanese case, because it costs more than twelve singles. On our shelf as of November 17, 2026, the [OP-09 English booster box](/product/op-09-emperors-in-the-new-world-booster-box-english-one-piece-card/) costs $367.01, or $15.29 a pack and $1.27 a card, $264.36 below the $631.37 TCGplayer market figure of November 17, 2026. The [OP-09 Japanese booster box](/product/op-09-emperors-in-the-new-world-booster-box-japanese-one-piece-card/) costs $149.41, $6.23 a pack and $1.04 a card, the opener's price. The [OP-09 Japanese sealed case](/product/op-09-emperors-in-the-new-world-sealed-case-12-boxes-japanese-one-piece-card/) costs $1,793.31, or $149.44 a box, thirty-nine cents more than twelve single boxes.",
+      "Who this is for: sealed collectors who want the 2nd Anniversary set at the widest below-market gap in this run of guides, buyers choosing between the English box and the Japanese box now that the English box fell 32% in twelve days, and case splitters who divide before they pay. Who it is not for: anyone buying to pull the Gold Super Parallel Roger, because a typical opened box returns $78.51 against a $637.31 sealed price; anyone who needs the Japanese case to discount, because it costs more than the singles; anyone who needs an English case, because there is none on this shelf; and anyone who reads a 32% shelf fall as a market crash, because the market moved $11.23 while our shelf fell $172.71."
+    ],
+    "metaDescription": "OP-09's English box fell 32% in twelve days and now sits $264.36 below a $631.37 market. The Japanese case costs $0.39 more than twelve singles.",
+    "metaTitle": "OP-09 Emperors in the New World: Buy the English Box",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the English box, open the Japanese box, skip the case",
+        "math": [
+          "OP-09 Japanese box: $149.41 / 24 packs = $6.23 per pack; $149.41 / 144 cards = $1.04 per card",
+          "OP-09 Japanese box vs list: ¥220 x 24 = ¥5,280; ¥5,280 / 154 = $34.29; $149.41 / $34.29 = 4.36x list; $149.41 - $34.29 = $115.12 above list",
+          "OP-09 Japanese case: $1,793.31 / 12 boxes = $149.44 per box; $149.44 / 24 packs = $6.23 per pack; $149.44 / 144 cards = $1.04 per card",
+          "OP-09 Japanese case vs 12 singles: 12 x $149.41 = $1,792.92; $1,793.31 - $1,792.92 = $0.39 more; $0.39 / 12 = $0.03 more per box",
+          "OP-09 English box: $367.01 / 24 packs = $15.29 per pack; $367.01 / 288 cards = $1.27 per card",
+          "OP-09 English box vs MSRP: $4.49 x 24 = $107.76; $367.01 - $107.76 = $259.25 above MSRP; $367.01 / $107.76 = 3.41x MSRP",
+          "OP-09 English box vs market: $631.37 - $367.01 = $264.36 below the Nov 17, 2026 market figure; $264.36 / $631.37 = 41.87% below market",
+          "OP-09 English box vs sold-first reference: $538.00 - $367.01 = $170.99 below the Nov 16, 2026 CardZ Marketcap sold-first reference",
+          "OP-09 English box vs Europe: $439.22 - $367.01 = $72.21 below the Nov 17, 2026 Cardmarket price; $72.21 / $439.22 = 16.44% below Europe",
+          "OP-09 English box price path Nov 5 to Nov 17: $539.72 - $367.01 = $172.71; $172.71 / $539.72 = 32.00% in 12 days",
+          "OP-09 Japanese box price path Nov 5 to Nov 17: $175.78 - $149.41 = $26.37; $26.37 / $175.78 = 15.00%",
+          "OP-09 Japanese case price path Nov 5 to Nov 17: $2,109.78 - $1,793.31 = $316.47; $316.47 / $2,109.78 = 15.00%",
+          "OP-09 market path Oct 11 to Nov 17: $642.60 - $631.37 = $11.23; $11.23 / $642.60 = 1.75% in 37 days",
+          "OP-09 language gap: $367.01 - $149.41 = $217.60 per box; $15.29 - $6.23 = $9.06 per pack",
+          "OP-09 opened-box return: $78.51 / $637.31 = 12.32% of the sealed price (FoilKraken, Nov 1, 2026)",
+          "OP-09 EV: $131.89 / $631.37 = 0.21x the market box (Pullnomics, Nov 17, 2026); $131.89 / $367.01 = 0.36x our English box; $39.38 / $367.01 = 0.11x with no case hit",
+          "OP-09 top five chases: $4,545.45 + $1,233.77 + $584.42 + $636.36 + $564.94 = $7,564.94; $7,564.94 / $149.41 = 50.63 boxes; $7,564.94 / $367.01 = 20.61 boxes",
+          "OP-09 Roger Gold Super Parallel: $4,545.45 / $149.41 = 30.42 boxes; $4,545.45 / $367.01 = 12.39 boxes; $4,545.45 / $7,564.94 = 60.09% of the top five",
+          "OP-09 English box vs OP-06 English box: $400.27 - $367.01 = $33.26 cheaper",
+          "OP-09 vs OP-05 market: $972.68 - $631.37 = $341.31"
+        ],
+        "paragraphs": [
+          "The English box is the buy because the gap is the widest in this run of guides. At $367.01 it is $15.29 a pack and $1.27 a card, $264.36 below the November 17, 2026 market figure of $631.37 for a single English box, 41.87% below market. It is the same box that cost $539.72 on November 5, and the fall is the whole story of this page: 32% in twelve days, while the market moved $11.23. A buyer who wants English Emperors in the New World buys this box and holds it sealed. The [OP-08 Two Legends investment guide](/blog/op-08-investment/) runs the same division on the set before.",
+          "The Japanese box is the opener's buy. At $149.41 it is $6.23 a pack and $1.04 a card, the cheapest way into the anniversary pool, and $217.60 cheaper per box than the English box. The Japanese case at $1,793.31 is not a bulk buy: it divides to $149.44 a box, three cents above the single box, $0.39 across twelve boxes, which is the price of the tape on the carton plus a little extra. The [OP-09 Emperors in the New World buyer's guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/) prices the same three products for the opener."
+        ]
+      },
+      {
+        "h": "The money layer: three products, and the 32% fall that flipped the gap",
+        "paragraphs": [
+          "Every line above is one division from a shelf price as of November 17, 2026, or one subtraction from a dated market figure. Two legs: the English box fell 32% between November 5 and November 17, 2026, while the Japanese products fell 15%, the same shelf-wide repricing that cut OP-06 by the same 32% and 15% in the same twelve days. The English box went $539.72 to $367.01, the Japanese box $175.78 to $149.41, and the Japanese case $2,109.78 to $1,793.31. A verdict written from November 5 prices would overstate the English box by $172.71 and the Japanese case by $316.47.",
+          "The market did not move with the shelf. The English box traded at $642.60 on October 11, 2026, and at $631.37 on November 17, 2026, an $11.23 drift while our shelf fell $172.71. The second market check is the one that keeps this page honest: CardZ Marketcap's sold-first reference for the English box was $538 on November 16, 2026, built from completed sales rather than asking prices, which puts our box $170.99 below completed sales, not just below asks. The third check is Europe, where the same English box runs $439.22 on Cardmarket on November 17, 2026, 30% below the US market, and our box still sits $72.21 below Europe. Three different market readings, and the shelf beats all three: buy the English box, open the Japanese box, skip the case. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game we carry."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, single, or wait, in both languages",
+        "paragraphs": [
+          "The table's first row is the decision. The English box wins on the gap: $367.01 is $264.36 below the market, 41.87% below, and $170.99 below the sold-first reference. The Japanese box wins only on the opening question: $6.23 a pack is the cheapest way to open Emperors in the New World. The Japanese case wins nothing: $149.44 a box against a $149.41 single box is a premium, not a bulk deal. The missing English case is the fourth row that does not exist: there is no English case on this shelf to soften the $367.01 cheque the way the OP-06 English case softened its box to $308.24 a box.",
+          "The last column is the control. The OP-06 English box at $400.27 is $33.26 dearer than the OP-09 English box, and its market is $403.34 against OP-09's $631.37, so OP-09's market runs $228.03 higher while our shelf prices OP-09 cheaper. Want the Zoro and Sanji set? Buy OP-06. Want the anniversary set with the wider gap? Buy OP-09. The [OP-08 Two Legends investment guide](/blog/op-08-investment/) runs the same division on the set before, and the [OP-09 worth-buying guide](/blog/is-op-09-worth-buying/) runs the buy-or-pass verdict on the same three products."
+        ],
+        "table": {
+          "head": [
+            "",
+            "JP box",
+            "JP case (per box)",
+            "EN box",
+            "No EN case",
+            "OP-06 EN box (control)"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$149.41",
+              "$149.44",
+              "$367.01",
+              "Does not exist",
+              "$400.27"
+            ],
+            [
+              "Price per pack",
+              "$6.23",
+              "$6.23",
+              "$15.29",
+              "No EN case",
+              "$16.68"
+            ],
+            [
+              "Price per card",
+              "$1.04",
+              "$1.04",
+              "$1.27",
+              "No EN case",
+              "$1.39"
+            ],
+            [
+              "vs market",
+              "No JP market figure",
+              "No JP market figure",
+              "$264.36 below $631.37",
+              "No EN case",
+              "$3.07 below $403.34"
+            ],
+            [
+              "vs list / MSRP",
+              "4.36x the ¥5,280 list",
+              "4.36x the ¥5,280 list",
+              "3.41x the $107.76 MSRP",
+              "No EN case",
+              "3.71x the $107.76 MSRP"
+            ],
+            [
+              "Best for",
+              "Opening the set; cheapest pack",
+              "Nothing; costs more than singles",
+              "One sealed English box, far below market",
+              "No EN case",
+              "One sealed English box, below market"
+            ],
+            [
+              "Worst for",
+              "Holding; the Roger odds",
+              "The bulk buy that charges extra",
+              "Opening; $15.29 a pack",
+              "The buyer who wants twelve English boxes",
+              "The OP-09 box; $33.26 dearer"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case that costs more, the repricing, and the asks-versus-sales gap",
+        "note": "From the Warehouse: the question we get about OP-09 is why the English box costs so much less than the market now when it cost $102.88 less a month ago. It sat $102.88 below a $642.60 market on October 11, and the answer is that our shelf fell 32% in twelve days while the market moved $11.23. The box did not get cheaper because the set got worse; it got cheaper because the shelf repriced. That is why this page dates every market figure and divides the case every time, even when the last three sets taught you the saving is small, because this time the saving is negative.",
+        "paragraphs": [
+          "The top results answer three different questions, and none of them is the investment question. The chase-card guide calls OP-09 the set that gave the game its most coveted chase card, the Gold Super Parallel Gol D. Roger, and prices the top singles with dated SNKRDUNK asks. The box-buying guide calls OP-09 the best box for players and prices no shelf at all. The set guide ranks OP-09 in Tier 1 for collectors on the strength of the Luffy Gear 5 card, with boxes at 135 to 170 dollars in April 2026. None of them divides one store's three OP-09 products to the pack and the card, none prices the Japanese case against twelve singles, and none states the repricing that moved every figure here by 15% or 32% in twelve days.",
+          "The second gap is the asks-versus-sales gap, which no chase table reports. The TCGplayer market figure of $631.37 is built from asking prices, and the sold-first reference of $538 from November 16, 2026 is built from completed sales, $93.37 apart. This page carries both, dated, and the shelf beats both. The third gap is the missing English case, which the guides that list the Japanese case never mention: there is no English case on this shelf, so a buyer who wants twelve English boxes has no bulk route at all. Our [OP-09 worth-buying guide](/blog/is-op-09-worth-buying/) runs the buy-or-pass verdict on the same three products."
+        ]
+      },
+      {
+        "h": "The chase layer: one gold Roger worth 60% of the top five",
+        "paragraphs": [
+          "Emperors in the New World is 129+1 card types in Japan, 130+1 in English with the Treasure Rare, released in Japan on August 31, 2024 and in English on December 13, 2024. The base set is 119 entries: 6 Leaders, 2 Secret Rares, 10 Super Rares, 26 Rares, 30 Uncommons and 45 Commons. The chase is the Gold Super Parallel Gol D. Roger, OP09-118, the first and only gold-textured manga art card in the game's history, and the set carries four Manga Rares, more than the usual one or two: Shanks OP09-004, Buggy OP09-051, Marshall D. Teach OP09-093 and Monkey D. Luffy OP09-119. A November 11, 2026 check put the Roger Manga at about $3,574 on TCGplayer market, and an October 7, 2026 SNKRDUNK check put the raw ask at ¥700,000, about $4,545.45, down from a ¥890,000 ask on October 2.",
+          "The concentration is what makes the opening math fail. The set's top five chase cards ask $7,564.94 on SNKRDUNK as of October 7, 2026, and the Roger alone is $4,545.45, 60.09% of the top five, 30.42 Japanese boxes, while the rest of the pool cannot carry a $367.01 box, let alone a $1,793.31 case, to break-even. The expected value of an English box is $131.89 on Pullnomics as of November 17, 2026, 0.21 times the market box and 0.36 times our English box, and $39.38 with no case hit, 0.11 times our English box. Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. Every chase card is cheaper as a single than as a pull, and the box topper does not change that: one card in a box of 144 Japanese cards or 288 English ones. Buy the box sealed, or buy the single. Do not buy the box to pull the single. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the wider Japanese ladder the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, rotation, and the lottery",
+        "paragraphs": [
+          "The first risk has already happened to the set next door. OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. A sealed box is scarce only when nobody is making more of it, and Bandai has reprinted OP-01 before. OP-09 has no second wave on the record yet, and one hobby guide notes English supply is still being printed, so a reprint would cut its $631.37 market the same way. Never pay a scarcity premium with money you need back on a date, and buy the box only at a price you can defend if the market halves.",
+          "The second risk is rotation, and OP-09 survives the next one. OP-09 is Block 3, OP-09 to OP-12, and Block 3 stays Standard-legal through March 31, 2028 on Bandai's published schedule: Blocks 2 to 5 for April 2026 to March 2027, Blocks 3 to 6 for April 2027 to March 2028. The April 1, 2027 rotation takes Block 2, OP-05 to OP-08, out of Standard, and OP-09 is not in it. OP-08 leaves Standard on April 1, 2027; OP-09 plays on for another year. The third risk is the lottery. A typical opened OP-09 box returns $78.51, and only 9% of simulated boxes beat the sealed price. The Gold Super Parallel Roger at about $4,545.45 is the card that makes the opening feel rational, and the arithmetic is the answer: one card in 129 types, with no published pull rate, cannot carry a $367.01 box. Buy the single if you want the Roger, buy the English box if you want the set sealed, and open the Japanese box only if the opening is the purchase, not the investment."
+        ]
+      },
+      {
+        "h": "Context: four Emperors, one Roger, and Block 3",
+        "paragraphs": [
+          "Emperors in the New World released in Japan on August 31, 2024, at 220 yen a pack including tax, 6 cards a pack, 129+1 card types, and in English on December 13, 2024, at $4.49 a pack. It is the 2nd Anniversary celebration set, built on the Four Emperors after Wano: Shanks, Marshall D. Teach, Buggy and Monkey D. Luffy as Leaders, with Gol D. Roger making his first appearance in the card game. The Japanese box holds 24 packs, 144 cards; the English box holds the same 24 packs with 12 cards each, 288 cards.",
+          "The set that came before explains the price gap. OP-08 Two Legends released in Japan on May 25, 2024, and its cards leave Standard on April 1, 2027, while OP-09's play on through March 31, 2028. OP-09 sits at the head of its block, the anniversary set with the game's only gold manga card, and the market prices it that way: $631.37 against OP-06's $403.34, $228.03 apart. The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case-price/) prices the Japanese cases across the line."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: Japanese box / 24 = your per-pack price, then / 6 for per card; English box / 24, then / 12; Japanese case / 12 = per box, then / 24 and / 6.",
+          "Check the fall against the market: the English box fell 32% in twelve days while the market moved $11.23. A shelf fall is not a market fall.",
+          "Check the English box against both market readings: our box at $367.01 sits $264.36 below the November 17 market of $631.37 and $170.99 below the November 16 sold-first reference of $538. The gap is wide on both.",
+          "Check the Japanese case against the singles: the case costs $0.39 more than twelve singles. A negative saving is not a bulk deal.",
+          "Check the missing fourth product: there is no English case on this shelf. Twelve English boxes means twelve single boxes at $367.01 each.",
+          "Date every figure: shelf prices as of November 17, 2026; market as of November 17, 2026; the sold-first reference as of November 16, 2026; the Roger ask as of October 7, 2026. When the next repricing lands, re-run the division.",
+          "If you want one card, buy the single. If you want the set sealed, buy the English box and hold it. If you want to open it, open the Japanese box.",
+          "Never pay a scarcity premium with money you need back on a date. OP-01 fell 57% in a month once, and a reprint is the risk that repeats it for OP-09."
+        ],
+        "h": "Action layer: the OP-09 investment checklist",
+        "paragraphs": [
+          "Divide first, check the fall against the market second, check the Japanese case against the singles third, and the single-card question last, because it cancels the other three. If the checklist points at the English box, the box is the buy; if it points at opening, open the Japanese box. The Japanese case is twelve boxes in one carton that costs more than the singles, not a bulk deal."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card: the Gold Super Parallel Roger at about $4,545.45 is cheaper as a single than as a pull, and a typical opened box returns $78.51 against a $637.31 sealed price. It is not for the bulk buyer who wants the Japanese case to discount: it costs $0.39 more than twelve singles, and there is no English case on this shelf at all. It is not for the player who needs Block 2 cards: OP-09 is Block 3, so check the icon on the card, not just the set. And it is not for anyone who treats a sealed box as a savings account: OP-01 fell 57% in a month once, and a reprint would do the same to OP-09."
+        ]
+      }
+    ],
+    "slug": "op-09-investment",
+    "takeaway": [
+      "The OP-09 English box is the buy: $367.01 divides to $15.29 a pack and $1.27 a card, $264.36 below the November 17, 2026 market figure of $631.37, 41.87% below market, and $170.99 below the sold-first reference of $538 from November 16, 2026, after a 32% repricing in twelve days. The Japanese box at $149.41 is the opener's buy, $6.23 a pack, and the Japanese case at $1,793.31 is twelve boxes in one carton that costs $0.39 more than the singles, with no English case on the shelf at all.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the market figure as of November 17, 2026, the sold-first reference as of November 16, 2026, and the Roger ask as of October 7, 2026. When the next repricing lands, re-run the division.",
+      "For the opener's version of this set, the [OP-09 Emperors in the New World buyer's guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/) prices the same three products for opening rather than holding, and [is OP-09 worth buying](/blog/is-op-09-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-08 Two Legends investment guide](/blog/op-08-investment/) runs the same division on the set that leaves Standard on April 1, 2027. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. For the set after, the [OP-10 Royal Blood investment guide](/blog/op-10-investment/) runs the same division on the set that follows Emperors in the New World."
+    ]
+  },
+  "op-10-investment": {
+    "datePublished": "2026-11-17",
+    "faqs": [
+      {
+        "a": "On price alone, yes for the English case and the English box, and no for opening either to chase the Law Manga. The English case divides to $90.44 a box against a $247.20 market figure from November 17, 2026, and the English box at $121.95 sits $125.25 below that same market, the first near-MSRP English box in this run. The Japanese box at $83.52 is the opener's buy, not the holder's: it sits $15.10 above the Tokyo listing of about $68 on October 23, 2026. Nothing here is a promise. OP-10 is Block 3 and stays Standard through March 31, 2028, and a reprint would cut the market the way the 2024 reprint cut OP-01 by 57% in a month. Buy the case because the division is wide, not because the price can only rise.",
+        "q": "Is OP-10 Royal Blood a good investment?"
+      },
+      {
+        "a": "Because the case was never priced as a bulk deal. Twelve Japanese single boxes cost $1,002.24 and the case costs $1,002.93, a premium of $0.69 across twelve boxes, six cents a box. The discount lives in the English case instead: twelve English singles cost $1,463.40 and the case costs $1,085.27, a saving of $378.13, $31.51 a box. Same set, same case shape, opposite arithmetic, and the same split held on November 5, when the Japanese case cost seven cents a box more than the single. Divide the case every time, even when the last three sets taught you not to bother.",
+        "q": "Why does the OP-10 Japanese case cost more than twelve single boxes?"
+      },
+      {
+        "a": "Keep it sealed. A typical opened OP-10 box returns $74.04 against a $248.00 sealed price, 30% of the sealed price, and only 6% of simulated boxes beat the sealed price at all, in the November 1, 2026 FoilKraken box-value report. The Law Manga, OP10-119, sat at $661.35 on TCGplayer market as of November 17, 2026, and Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. If you want to open Royal Blood, open the Japanese box at $83.52, $3.48 a pack, and hold the English case sealed.",
+        "q": "Should I open an OP-10 box or keep it sealed?"
+      }
+    ],
+    "h1": "OP-10 Royal Blood Investment: Buy the English Case",
+    "intro": [
+      "Short answer: buy the English sealed case, hold the English box now that it sits $125.25 below market, open the Japanese box, and skip the Japanese case. On our shelf as of November 17, 2026, the [OP-10 English sealed case](/product/op-10-royal-blood-sealed-case-12-boxes-english-one-piece-card/) costs $1,085.27, or $90.44 a box, against a $247.20 market figure from November 17, 2026. The [OP-10 English box](/product/op-10-royal-blood-booster-box-english-one-piece-card/) costs $121.95, $125.25 below that market, after a 32% repricing fall in twelve days. The [OP-10 Japanese case](/product/op-10-royal-blood-sealed-case-12-boxes-japanese-one-piece-card/) costs $1,002.93, or $83.58 a box, and the [OP-10 Japanese box](/product/op-10-royal-blood-booster-box-japanese-one-piece-card/) costs $83.52, the opener's price.",
+      "Who this is for: sealed collectors who want the Law Manga set, buyers choosing between the English box and the English case now that both sit far below market, and case splitters who divide before they pay. Who it is not for: anyone buying to pull the Law Manga, because the box almost never pays for itself; anyone who needs the cheapest possible opening pack, because the Japanese box is $3.48 a pack against $5.08; anyone who expects the Japanese case to discount, because it costs six cents a box more than the single; and anyone who reads a 32% shelf fall as a market crash, because the market sat at $248.97 on October 11 and at $247.20 on November 17 while our shelf fell."
+    ],
+    "metaDescription": "OP-10's English box fell 32% in twelve days to $121.95, $125.25 below a $247.20 market. The English case divides to $90.44 a box.",
+    "metaTitle": "OP-10 Royal Blood Investment: Buy the English Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the English case, hold the English box, open the Japanese box",
+        "paragraphs": [
+          "The English case is the buy because the division is the widest in the set. Twelve boxes for $1,085.27 divide to $90.44 a box, $3.77 a pack and $0.31 a card, every one $156.76 below the November 17, 2026 market figure of $247.20 for a single English box. The case saves $378.13 against twelve singles on our own shelf, $31.51 a box. A buyer who wants English Royal Blood in bulk buys the case: $90.44 a box in English against $83.52 for a single Japanese box, a gap of $6.92.",
+          "The English box is the second buy. At $121.95 it is $5.08 a pack and $0.42 a card, $125.25 below the $247.20 market, 50.67% below. It is the same box that cost $179.34 on November 5, and the fall is the whole story of this page: 32% in twelve days while the market fell $1.77. It is also the first English box in this run of guides to sit near its printed price: $2.19 above the $119.76 MSRP, 1.02 times. A buyer who wants one box buys this one and holds it sealed. The [OP-08 Two Legends investment guide](/blog/op-08-investment/) runs the same division on the set before Royal Blood.",
+          "The Japanese box is the opener's buy. At $83.52 it is $3.48 a pack and $0.58 a card, the cheapest way into the Law and Luffy pool, and $15.10 above a Tokyo seller's box at 10,536 yen, about $68, on October 23, 2026. The Japanese case at $1,002.93 is not a bulk buy: it divides to $83.58 a box, six cents above the single box, $0.69 across twelve boxes, which is the price of the tape on the carton. Buy twelve Japanese boxes one at a time and you pay $0.69 less. The [OP-10 Royal Blood buyer's guide](/blog/op-10-royal-blood-buyers-guide/) prices the same four products for the opener."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and the 32% fall that flipped the gap",
+        "math": [
+          "OP-10 Japanese box: $83.52 / 24 packs = $3.48 per pack; $83.52 / 144 cards = $0.58 per card",
+          "OP-10 Japanese box vs list: ¥220 x 24 = ¥5,280; ¥5,280 / 154 = $34.29; $83.52 / $34.29 = 2.44x list; $83.52 - $34.29 = $49.23 above list",
+          "OP-10 Japanese case: $1,002.93 / 12 boxes = $83.58 per box; $83.58 / 24 packs = $3.48 per pack; $83.58 / 144 cards = $0.58 per card",
+          "OP-10 Japanese case vs 12 singles: 12 x $83.52 = $1,002.24; $1,002.93 - $1,002.24 = $0.69 more; $0.69 / 12 = $0.06 more per box",
+          "OP-10 English box: $121.95 / 24 packs = $5.08 per pack; $121.95 / 288 cards = $0.42 per card",
+          "OP-10 English box vs MSRP: $4.99 x 24 = $119.76; $121.95 - $119.76 = $2.19 above MSRP; $121.95 / $119.76 = 1.02x MSRP",
+          "OP-10 English box vs market: $247.20 - $121.95 = $125.25 below the Nov 17, 2026 market figure; $125.25 / $247.20 = 50.67% below market",
+          "OP-10 English case: $1,085.27 / 12 boxes = $90.44 per box; $90.44 / 24 packs = $3.77 per pack; $90.44 / 288 cards = $0.31 per card",
+          "OP-10 English case vs 12 singles: 12 x $121.95 = $1,463.40; $1,463.40 - $1,085.27 = $378.13 saved; $378.13 / 12 = $31.51 saved per box",
+          "OP-10 English case per box vs market: $247.20 - $90.44 = $156.76 below the Nov 17 market figure per box",
+          "OP-10 English box price path Nov 5 to Nov 17: $179.34 - $121.95 = $57.39; $57.39 / $179.34 = 32.00% in 12 days",
+          "OP-10 English case price path Nov 5 to Nov 17: $1,595.99 - $1,085.27 = $510.72; $510.72 / $1,595.99 = 32.00% in 12 days",
+          "OP-10 Japanese box price path Nov 5 to Nov 17: $98.26 - $83.52 = $14.74; $14.74 / $98.26 = 15.00%",
+          "OP-10 Japanese case price path Nov 5 to Nov 17: $1,179.92 - $1,002.93 = $176.99; $176.99 / $1,179.92 = 15.00%",
+          "OP-10 English box vs market Oct 11: $248.97 - $179.34 = $69.63 below market; gap widened Nov 17: $125.25 - $69.63 = $55.62 wider",
+          "OP-10 market drift Oct 11 to Nov 17: $248.97 - $247.20 = $1.77; $1.77 / $248.97 = 0.71% down while our shelf fell 32.00%",
+          "OP-10 Japanese box vs Tokyo listing: ¥10,536 / 154 = $68.42; $83.52 - $68.42 = $15.10 above the Oct 23, 2026 Tokyo listing (asking price, not a sale)",
+          "OP-10 Europe gap: $247.20 - $203.00 = $44.20; $44.20 / $247.20 = 17.88% cheaper in Europe (FoilKraken, Nov 17, 2026)",
+          "OP-10 language gap, single boxes: $121.95 - $83.52 = $38.43 a box; $5.08 - $3.48 = $1.60 a pack",
+          "OP-10 language gap, cases per box: $90.44 - $83.58 = $6.86 a box; English case per box vs Japanese single box: $90.44 - $83.52 = $6.92",
+          "OP-10 EV: $71.84 / $247.20 = 0.29x the market box (Pullnomics, Nov 17, 2026); $71.84 / $121.95 = 0.59x our English box; $41.57 / $121.95 = 0.34x with no case hit",
+          "OP-10 opened-box return: $74.04 / $248.00 = 29.85% of the sealed price (FoilKraken, Nov 1, 2026); 6% of simulated boxes beat the sealed price"
+        ],
+        "paragraphs": [
+          "Every line above is one division from a shelf price as of November 17, 2026, or one subtraction from a dated market figure. Two legs: the English products fell 32% between November 5 and November 17, 2026, while the Japanese products fell 15% in the same twelve days. The English box went $179.34 to $121.95, the English case $1,595.99 to $1,085.27, the Japanese box $98.26 to $83.52 and the Japanese case $1,179.92 to $1,002.93. A verdict written from November 5 prices would overstate the English box by $57.39 and the English case by $510.72.",
+          "The market did not move with the shelf. The English box traded at $248.97 on October 11, 2026, and at $247.20 on November 17, 2026, a $1.77 drift while our shelf fell $57.39. The Japanese side runs the other way: our Japanese box at $83.52 sits $15.10 above a Tokyo seller's box at 10,536 yen, about $68, on October 23, 2026. That split is the whole trade: buy the English case, hold the English box, open the Japanese box. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game we carry."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, single, or wait, in both languages",
+        "paragraphs": [
+          "The table's first row is the decision. The English case wins on every per-unit figure: $90.44 a box, $3.77 a pack, $0.31 a card, and $156.76 below the market per box. The English box wins on the size of the cheque: $121.95 buys one sealed English box at $125.25 below market. The Japanese box wins only on the opening question: $3.48 a pack is the cheapest way to open Royal Blood. The Japanese case wins nothing: $83.58 a box against a $83.52 single box is a rounding error, not a bulk deal.",
+          "The last column is the control. The OP-06 English box at $400.27 is $278.32 dearer than the OP-10 English box, and its market is $403.34 against OP-10's $247.20, so the two markets sit $156.14 apart while our shelf prices them $278.32 apart. Want the Zoro and Sanji set? Buy OP-06. Want the cheaper box and case, and sixteen months of Standard instead of four and a half? Buy OP-10. The [OP-06 Wings of the Captain investment guide](/blog/op-06-investment/) runs the same division on the Block 2 set, and the [OP-08 investment guide](/blog/op-08-investment/) runs it on the set directly before Royal Blood."
+        ],
+        "table": {
+          "head": [
+            "",
+            "JP box",
+            "JP case (per box)",
+            "EN box",
+            "EN case (per box)",
+            "OP-06 EN box (control)"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$83.52",
+              "$83.58",
+              "$121.95",
+              "$90.44",
+              "$400.27"
+            ],
+            [
+              "Price per pack",
+              "$3.48",
+              "$3.48",
+              "$5.08",
+              "$3.77",
+              "$16.68"
+            ],
+            [
+              "Price per card",
+              "$0.58",
+              "$0.58",
+              "$0.42",
+              "$0.31",
+              "$1.39"
+            ],
+            [
+              "vs market",
+              "$15.10 above the ~$68 Tokyo listing",
+              "$15.16 above the ~$68 Tokyo listing",
+              "$125.25 below $247.20",
+              "$156.76 below $247.20",
+              "$3.07 below $403.34"
+            ],
+            [
+              "vs list / MSRP",
+              "2.44x the ¥5,280 list",
+              "2.44x the ¥5,280 list",
+              "1.02x the $119.76 MSRP",
+              "0.76x the $119.76 MSRP",
+              "3.71x the $107.76 MSRP"
+            ],
+            [
+              "Best for",
+              "Opening the set; cheapest pack",
+              "Twelve Japanese boxes; no discount",
+              "One sealed English box, half the market",
+              "Bulk English holding; widest gap",
+              "The Zoro and Sanji set; $278.32 dearer"
+            ],
+            [
+              "Worst for",
+              "Holding; the Manga odds",
+              "The bulk buy that is not one",
+              "Opening; $5.08 a pack",
+              "The $1,085.27 cheque",
+              "The OP-10 case; $309.83 dearer per box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing, the case split, and the rotation",
+        "note": "From the Warehouse: the question we get about OP-10 is why the English box costs half the market now when it cost $69.63 less than the market twelve days ago. It sat $69.63 below a $248.97 market on October 11, and the answer is that our shelf fell 32% in twelve days while the market fell $1.77. The box did not get cheaper because the set got worse; it got cheaper because the shelf repriced. That is why this page dates every market figure and divides the case every time, even when the last three sets taught you not to bother.",
+        "paragraphs": [
+          "The top results answer three different questions, and none of them is the investment question. The value guide prices the Law Manga and the graded premiums, and lists no shelf at all. The chase-card guide prices the Law Manga and the SP prints with dated Japanese asks. The box-value report proves the opening case: a typical opened box returns $74.04, and only 6% of simulated boxes beat the sealed price. None of them divides one store's four OP-10 products to the pack and the card, none prices the Japanese box against the Tokyo listing, and none states the repricing that moved every figure here by 15% or 32% in twelve days.",
+          "The second gap is the case split itself. No price table reports that this store's English case undercuts its own English single box by $31.51 a box while its Japanese case costs six cents more, because that comparison only exists where the four shelf prices sit side by side. The third gap is the rotation, which the chase tables leave out. OP-10 is Block 3, and Block 3 stays Standard through March 31, 2028, which is why this page prices the box as a collector's purchase with sixteen months of play left, not as a set about to rotate. The guides that list the Law Manga at $661.35 without naming the block leave a player guessing how long the cards stay legal. Our [is OP-10 worth buying guide](/blog/is-op-10-worth-buying/) runs the buy-or-pass verdict on the same four products."
+        ]
+      },
+      {
+        "h": "The chase layer: one Manga Rare and four starter-deck SPs",
+        "math": [
+          "OP-10 top five chases: $661.35 + $209.47 + $119.73 + $100.27 + $53.38 = $1,144.20; $1,144.20 / $121.95 = 9.38 English boxes; $1,144.20 / $83.52 = 13.70 Japanese boxes",
+          "OP-10 Law Manga share: $661.35 / $1,144.20 = 57.80% of the top five; $661.35 / $1,686.53 = 39.21% of the full set value",
+          "OP-10 Law Manga: $661.35 / $83.52 = 7.92 Japanese boxes; $661.35 / $121.95 = 5.42 English boxes; $661.35 / $90.44 = 7.31 English case boxes",
+          "OP-10 Law Manga price path Oct 19 to Nov 17: $661.35 - $602.25 = $59.10; $59.10 / $602.25 = 9.81% up",
+          "OP-10 full set value: $1,991.00 - $1,686.53 = $304.47; $304.47 / $1,991.00 = 15.29% down since Aug 31, 2026",
+          "OP-10 top five share of full set: $1,144.20 / $1,686.53 = 67.84%"
+        ],
+        "paragraphs": [
+          "Royal Blood is 125 card types plus 1 DON!! card in Japan, 151 artworks counting the parallels, released in Japan on November 30, 2024 and in English on March 21, 2025. The chase is one Manga Rare: Trafalgar Law, OP10-119, the set's only Super Parallel, beside two Secret Rares, Luffy OP10-118 and Law OP10-119, and six SP prints. A November 17, 2026 check put the Law Manga at $661.35 on TCGplayer market, up 9.81% from $602.25 raw on October 19, 2026. The top five chase cards sum to $1,144.20, which is 9.38 English boxes, and the Law Manga alone is 57.80% of the top five. A box that returns $74.04 when opened, 30% of its sealed price, is a box whose value is scarcity and print run, not contents.",
+          "The concentration is what makes the opening math fail. Four of the top five are SP reprints of starter-deck cards: Edward Newgate at $209.47, Sanji at $119.73, Uso-Hachi at $100.27 and Charlotte Pudding at $53.38. Only the Law Manga carries an OP-10 number. The full set is worth $1,686.53 at current market prices, down 15.29% from $1,991.00 on August 31, 2026, and the top five hold 67.84% of it. The expected value of an English box is $71.84 on Pullnomics as of November 17, 2026, 0.29 times the market box, and $41.57 with no case hit, 0.34 times our English box. Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. One grading guide lists the Law Manga at $120 raw; that figure conflicts with every market tracker we checked and we do not use it. Every chase card is cheaper as a single than as a pull. Buy the box sealed, or buy the single. Do not buy the box to pull the single. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the wider Japanese ladder the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, rotation, and the lottery",
+        "paragraphs": [
+          "The first risk has already happened to the set next door. OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. A sealed box is scarce only when nobody is making more of it, and Bandai has reprinted OP-01 before: Wave 1 Blue Bottom and Wave 2 White Bottom are two printings of the same set. OP-10 has no second wave on the record yet, and a reprint would cut its $247.20 market the same way. Never pay a scarcity premium with money you need back on a date, and buy the case only at a per-box price you can defend if the market halves.",
+          "The second risk is rotation, and here OP-10 is the safer side of the line. Block 3, OP-09 to OP-12, stays Standard through March 31, 2028, about sixteen months from today, while Block 2 leaves on April 1, 2027. The April 2028 exit is the published pattern's next step, not a Bandai date we have seen in writing. Rotation did not dent sealed prices at all when Block 1 left on April 1, 2026, because nobody was buying a $121.95 box to build a tournament deck. The risk is not that rotation kills the price; it is that a buyer who pays for a tournament box discovers the set is not Standard-legal past the window. The third risk is the lottery. A typical opened OP-10 box returns $74.04, and only 6% of simulated boxes beat the sealed price. The Law Manga at $661.35 is the card that makes the opening feel rational, and the arithmetic is the answer: one card in 125 types, with no published pull rate, cannot carry a $121.95 box. Buy the single if you want the Law, buy the case if you want the set sealed, and open the Japanese box only if the opening is the purchase, not the investment. OP-10 is not on pre-order. It is almost two years old in Japan, and its risks are the risks of age: reprint, rotation, the lottery."
+        ]
+      },
+      {
+        "h": "Context: Dressrosa, Punk Hazard, and Block 3",
+        "paragraphs": [
+          "Royal Blood released in Japan on November 30, 2024, at 220 yen a pack including tax, 6 cards a pack, 125 card types plus 1 DON!! card, and in English on March 21, 2025, at $4.99 a pack. It is the tenth One Piece Card Game booster set, spanning Dressrosa and Punk Hazard, with six new leaders: Smoker, Caesar Clown, Sugar, Usopp, Trafalgar Law and Eustass Kid. The Japanese box holds 24 packs, 144 cards; the English box holds the same 24 packs with 12 cards each, 288 cards. The English print adds a Treasure Rare, Portgas D. Ace OP08-052, that Japan does not carry.",
+          "The set that came before explains the price gap. [OP-09 Emperors in the New World](/blog/op-09-investment/) is the set with the gold Roger Manga, and its market runs far above OP-10's $247.20, while OP-10's value sits in one Law Manga and four starter-deck SPs. OP-10 sits in Block 3 with OP-09, so a buyer choosing between them is choosing between one $661.35 chase card and a set whose top card runs into the thousands. The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case-price/) prices the Japanese cases across the line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card: the Law Manga at $661.35 is cheaper as a single than as a pull, and a typical opened box returns $74.04 against a $248.00 sealed price. It is not for the player who needs Standard-legal cards past March 2028: Block 3 leaves Standard after that window, and OP-10 plays in Extra Regulation after that. It is not for the bulk buyer who wants the Japanese case to discount: it costs six cents a box more than the single. And it is not for anyone who treats a sealed box as a savings account: OP-01 fell 57% in a month once, and a reprint would do the same to OP-10."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: Japanese box / 24 = your per-pack price, then / 6 for per card; English case / 12 = per box, then / 24 and / 12.",
+          "Check the fall against the market: the English box fell 32% in twelve days while the market fell $1.77. A shelf fall is not a market fall.",
+          "Check the English box against the market: our box at $121.95 sits $125.25 below the November 17 market of $247.20. The gap widened by $55.62 in twelve days.",
+          "Check the English case against the singles: the case saves $378.13 against twelve singles. $31.51 a box is a bulk deal.",
+          "Check the Japanese case against the singles: the case costs $0.69 more than twelve singles. Six cents a box is rounding, not a bulk deal.",
+          "Check the Japanese box against Tokyo: our box at $83.52 sits $15.10 above the Tokyo listing of about $68. The listing is not a sale, but the gap is real.",
+          "Date every figure: shelf prices as of November 17, 2026; market as of November 17, 2026; the Tokyo listing as of October 23, 2026; and the Law Manga as of November 17, 2026. When the next repricing lands, re-run the division: the gap that makes OP-10 the buy today is a shelf price and a market price, and either one can move.",
+          "If you want one card, buy the single. If you want the set sealed, buy the English case and hold it. If you want to open it, open the Japanese box.",
+          "Never pay a scarcity premium with money you need back on a date. OP-01 fell 57% in a month once, and a reprint is the risk that repeats it for OP-10."
+        ],
+        "h": "Action layer: the OP-10 investment checklist",
+        "paragraphs": [
+          "Divide first, check the fall against the market second, check the Japanese case against the singles third, and the single-card question last. If the checklist points at the English case, the case is the buy; if it points at one box, buy the English box and hold it sealed; if it points at opening, open the Japanese box."
+        ]
+      }
+    ],
+    "slug": "op-10-investment",
+    "takeaway": [
+      "The OP-10 English case is the buy: $1,085.27 divides to $90.44 a box, $3.77 a pack and $0.31 a card, $156.76 below the November 17, 2026 market figure per box, and $378.13 below twelve singles on our own shelf. The English box at $121.95 is the second buy, $125.25 below the same market after a 32% repricing in twelve days. The Japanese box at $83.52 is the opener's buy, $3.48 a pack, and the Japanese case at $1,002.93 is twelve boxes in one carton, not a bulk deal, costing $0.69 more than the singles.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the market figure as of November 17, 2026, the Tokyo listing as of October 23, 2026, and the Law Manga as of November 17, 2026. When the next repricing lands, re-run the division: the gap that makes OP-10 the buy today is a shelf price and a market price, and either one can move.",
+      "For the opener's version of this set, the [OP-10 Royal Blood buyer's guide](/blog/op-10-royal-blood-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-10 worth buying](/blog/is-op-10-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-08 Two Legends investment guide](/blog/op-08-investment/) runs the same division on the last set of Block 2. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. For a Block 2 comparison, the [OP-06 Wings of the Captain investment guide](/blog/op-06-investment/) runs the same division on the Zoro and Sanji set, which leaves Standard on April 1, 2027."
     ]
   },
   "op-10-royal-blood-buyers-guide": {
@@ -42992,7 +43394,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 5, 2026, the Warehouse OP-10 Japanese box costs $98.26, which is $4.09 a pack and $0.68 a card. Buy it to open Royal Blood, buy the English case at $133.00 a box for English boxes in bulk, and buy the single for the Law Manga card or any named card.",
       "Prices move; the method does not. Choose the language first, divide the case second, and never assume a case discounts: on this set the Japanese case charges a premium and the English case pays a saving.",
-      "For the successor set, see [OP-11 A Fist of Divine Speed Buyer's Guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
+      "For the successor set, see [OP-11 A Fist of Divine Speed Buyer's Guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the investment verdict on this set, see [OP-10 Royal Blood Investment Guide](/blog/op-10-investment/).",
       "For the worth-it verdict with the November 13, 2026 shelf prices, see [Is OP-10 Royal Blood Worth Buying?](/blog/is-op-10-worth-buying/).",
       "For the successor set's verdict, see [Is OP-11 A Fist of Divine Speed Worth Buying?](/blog/is-op-11-worth-buying/)."
     ]
