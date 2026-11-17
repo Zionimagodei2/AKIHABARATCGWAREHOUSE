@@ -26508,7 +26508,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the game its Red Super Alt-Art trio and the first Roger and Imu Leaders, sealed in either language, and it is not worth buying as a way to own one named card or to make the money back by opening. The Red Manga Luffy sat at a 1,500,000 yen single-listing ask on October 1, 2026, which is $9,380.86, or 69.49 Japanese boxes, and the live TCGIntel valuation is $10,245. FoilKraken models the typical opened box at $86.29, 34.7 percent of the Warehouse English box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the English box dropped $62.10 in eight days, from $310.50 to $248.40, exactly twenty percent, while the Japanese box did not move at all. The same eight days took the same twenty percent off the English OP-14 box and every other English One Piece box on this shelf. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 1 to November 13, 2026. The English box now sits below every market while the Japanese box sits $5.21 above the predecessor set's $129.79 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-13 Carrying on His Will buyer's guide](/blog/op-13-carrying-on-his-will-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-12 worth buying guide](/blog/is-op-12-worth-buying/) runs the same verdict on the predecessor set."
+      "For the price-and-math companion, the [OP-13 Carrying on His Will buyer's guide](/blog/op-13-carrying-on-his-will-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, the [is OP-12 worth buying guide](/blog/is-op-12-worth-buying/) runs the same verdict on the predecessor set, and the [OP-13 Carrying on His Will investment guide](/blog/op-13-investment/) runs the same division after the second fall, with the English case at $182.99 a box."
     ]
   },
   "is-op-14-worth-buying": {
@@ -26700,7 +26700,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the game seven Warlord Leaders and the Gold and Silver Buggy 3rd Anniversary Special cards, sealed in either language, and it is not worth buying as a way to own one named card or to make the money back by opening. The Mihawk Manga sat at $700.03 on RareTracker on November 13, 2026, which is 8.38 Japanese boxes, and the Gold Buggy at 1,201 euros on the PokeItem index of November 1, 2026. FoilKraken models the typical opened box at $128.52, 69.6 percent of the Warehouse English box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the English box dropped $86.85 in eight days, from $271.39 to $184.54, thirty-two percent in two legs, while the Japanese box dropped $14.74, fifteen percent, in the second leg alone. The same eight days took the same thirty-two percent off the English OP-15 box and fifteen percent off every Japanese box on this shelf. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of September 24 to November 13, 2026. The English box now sits below every market while the Japanese box sits $31.23 below the predecessor set's $114.75 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-14 Azure Sea's Seven buyer's guide](/blog/op-14-azure-seas-seven-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-13 worth buying guide](/blog/is-op-13-worth-buying/) runs the same verdict on the predecessor set."
+      "For the price-and-math companion, the [OP-14 Azure Sea's Seven buyer's guide](/blog/op-14-azure-seas-seven-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, the [is OP-13 worth buying guide](/blog/is-op-13-worth-buying/) runs the same verdict on the predecessor set, and the [OP-14 Azure Sea's Seven investment guide](/blog/op-14-investment/) runs the same division after the second fall, with the English case at $139.36 a box."
     ]
   },
   "is-op-15-worth-buying": {
@@ -44021,7 +44021,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The OP-12 English case is the buy: $1,133.65 divides to $94.47 a box, $3.94 a pack and $0.33 a card, $197.25 below the November 17, 2026 market figure per box, and $192.83 below twelve singles on our own shelf. The English box at $110.54 is the second buy, $181.18 below the same market and $9.22 below its printed price after a 32% repricing in twelve days. The Japanese box at $110.32 is the opener's buy, $4.60 a pack, and the Japanese case at $1,318.32 is twelve boxes in one carton, not a bulk deal, saving $5.52 against twelve singles.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the market figure as of November 17, 2026, the CardZ references as of November 16, 2026, and the Bonney asks as of October 7, 2026. When the next repricing lands, re-run the division: the gap that makes OP-12 the buy today is a shelf price and a market price, and either one can move.",
-      "For the opener's version of this set, the [OP-12 Legacy of the Master buyer's guide](/blog/op-12-legacy-of-the-master-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-12 worth buying](/blog/is-op-12-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) prices the Divine Speed set, where the English box runs $220.38 dearer than this one. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+      "For the opener's version of this set, the [OP-12 Legacy of the Master buyer's guide](/blog/op-12-legacy-of-the-master-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-12 worth buying](/blog/is-op-12-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) prices the Divine Speed set, where the English box runs $220.38 dearer than this one. For the set after, the [OP-13 Carrying on His Will investment guide](/blog/op-13-investment/) runs the same division on a $211.14 English box. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
     ]
   },
   "op-12-legacy-of-the-master-buyers-guide": {
@@ -44409,6 +44409,217 @@ export const POSTS: Record<string, BlogPost> = {
       "For the worth-buying verdict on this set, see [Is OP-13 Carrying on His Will Worth Buying?](/blog/is-op-13-worth-buying/)."
     ]
   },
+  "op-13-investment": {
+    "datePublished": "2026-11-17",
+    "faqs": [
+      {
+        "a": "On price alone, yes for the English case and the English box, and no for opening either to chase the Red Manga Luffy. The English case divides to $182.99 a box against a $445.28 market figure from November 17, 2026, and the English box at $211.14 sits $234.14 below that same market after a 32% fall in twelve days. The Japanese box at $114.75 is the opener's buy, not the holder's: it sits $5.75 above CardZ's sold-first reference of $109 on November 16, 2026. Nothing here is a promise. OP-13 is Block 4 and its three Secret Rares sit on Bandai's Block exception list, and a reprint would cut the market the way the 2024 reprint cut OP-01 by 57% in a month. Buy the case because the division is wide, not because the price can only rise.",
+        "q": "Is OP-13 Carrying on His Will a good investment?"
+      },
+      {
+        "a": "Because the two languages cost different amounts per card even after the fall. The English box at $211.14 and the Japanese box at $114.75 sit $96.39 apart, yet the English box holds 288 cards against 144 in the Japanese box, so the English card costs $0.73 against $0.80 in Japanese. The English case divides further, to $182.99 a box and $0.64 a card. A buyer who chooses on box price alone sees a $96.39 gap and misses that the dearer box holds the cheaper card. Choose the language first, then divide within it.",
+        "q": "Why does the OP-13 English box cost almost twice the Japanese box?"
+      },
+      {
+        "a": "Keep it sealed. A typical opened OP-13 box returns $86.29 against a $427.81 sealed price, 20% of the sealed price, and only 17% of simulated boxes beat the sealed price at all, in the November 1, 2026 FoilKraken box-value report. The Red Manga Luffy sat at a 1,500,000 yen single-listing ask on October 1, 2026, $9,404.39 at 159.5 yen to the dollar, and at $8,000 on TCGplayer on November 17, 2026, and Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. If you want to open Carrying on His Will, open the Japanese box at $114.75, $4.78 a pack, and hold the English case sealed.",
+        "q": "Should I open an OP-13 box or keep it sealed?"
+      }
+    ],
+    "h1": "OP-13 Carrying on His Will Investment: Buy the English Case",
+    "intro": [
+      "Short answer: buy the English sealed case, hold the English box now that it sits $234.14 below its market, open the Japanese box, and skip the Japanese case. On our shelf as of November 17, 2026, the [OP-13 English sealed case](/product/op-13-carrying-on-his-will-sealed-case-12-boxes-english-one-piece-card/) costs $2,195.86, or $182.99 a box, against a $445.28 market figure from November 17, 2026. The [OP-13 English box](/product/op-13-carrying-on-his-will-booster-box-english-one-piece-card/) costs $211.14, $234.14 below that market, after a 32% fall in twelve days. The [OP-13 Japanese case](/product/op-13-carrying-on-his-will-sealed-case-12-boxes-japanese-one-piece-card/) costs $1,377.31, or $114.78 a box, and the [OP-13 Japanese box](/product/op-13-carrying-on-his-will-booster-box-japanese-one-piece-card/) costs $114.75, the opener's price.",
+      "Who this is for: sealed collectors who want the anniversary set, buyers choosing between the English box and the English case now that both sit far below market, and case splitters who divide before they pay. Who it is not for: anyone buying to pull the Red Manga Luffy, because the box almost never pays for itself; anyone who chooses on box price alone, because the two languages cost $96.39 apart per box and $0.07 apart per card in the other direction; anyone who expects the Japanese case to discount, because it costs $0.03 more a box than the single; and anyone who reads a 32% shelf fall as a market crash, because the market rose 4.08% while our shelf fell."
+    ],
+    "metaDescription": "OP-13's English box is $211.14, $234.14 below a $445.28 market after a 32% fall in twelve days. The English case divides to $182.99 a box.",
+    "metaTitle": "OP-13 Carrying on His Will Investment: Buy the English Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the English case, hold the English box, open the Japanese box",
+        "note": "From the Warehouse: the question we get most about OP-13 is whether the English box is a worse deal than the Japanese box, because buyers see $211.14 against $114.75 and stop there. It is not a worse deal per card: twelve English cards a pack against six Japanese cards a pack turns the dearer box into the cheaper card, $0.73 against $0.80. We say that before the sale, because a buyer who chooses on box price alone buys the dearer card and never knows it.",
+        "paragraphs": [
+          "The English case is the buy because the division is the widest in the set. Twelve boxes for $2,195.86 divide to $182.99 a box, $7.62 a pack and $0.64 a card, every one $262.29 below the November 17, 2026 market figure of $445.28. The case saves $337.82 against twelve singles on our own shelf, $28.15 a box. A buyer who wants English Carrying on His Will in bulk buys the case.",
+          "The English box is the second buy. At $211.14 it is $8.80 a pack and $0.73 a card, $234.14 below the $445.28 market, 52.58% below. It is the same box that cost $310.50 on November 5: 32% in twelve days while the market rose $17.47. A buyer who wants one box buys this one and holds it sealed. The [OP-12 Legacy of the Master investment guide](/blog/op-12-investment/) runs the same division on Legacy of the Master, two sets before Carrying on His Will, where the English box sits $181.18 below its market.",
+          "The Japanese box is the opener's buy. At $114.75 it is $4.78 a pack and $0.80 a card, the cheapest way into the Red Super Alt-Art pool, and $5.75 above CardZ's sold-first reference of $109 on November 16, 2026. The Japanese case at $1,377.31 is not a bulk buy: it divides to $114.78 a box, $0.03 above the single box, $0.31 across twelve boxes. The [OP-13 Carrying on His Will buyer's guide](/blog/op-13-carrying-on-his-will-buyers-guide/) prices the same four products for the opener."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and a 15% repricing on top of a 20% fall",
+        "math": [
+          "OP-13 Japanese box: $114.75 / 24 packs = $4.78 per pack; $114.75 / 144 cards = $0.80 per card",
+          "OP-13 Japanese box vs list: 220 yen x 24 = 5,280 yen; 5,280 yen / 159.5 = $33.10; $114.75 / $33.10 = 3.47x list; $114.75 - $33.10 = $81.65 above list",
+          "OP-13 Japanese case: $1,377.31 / 12 boxes = $114.78 per box; $114.78 / 24 packs = $4.78 per pack; $114.78 / 144 cards = $0.80 per card",
+          "OP-13 Japanese case vs 12 singles: 12 x $114.75 = $1,377.00; $1,377.31 - $1,377.00 = $0.31 more; $0.31 / 12 = $0.03 more per box",
+          "OP-13 English box: $211.14 / 24 packs = $8.80 per pack; $211.14 / 288 cards = $0.73 per card",
+          "OP-13 English box vs MSRP: $4.99 x 24 = $119.76; $211.14 - $119.76 = $91.38 above MSRP; $211.14 / $119.76 = 1.76x MSRP",
+          "OP-13 English case: $2,195.86 / 12 boxes = $182.99 per box; $182.99 / 24 packs = $7.62 per pack; $182.99 / 288 cards = $0.64 per card",
+          "OP-13 English case vs 12 singles: 12 x $211.14 = $2,533.68; $2,533.68 - $2,195.86 = $337.82 saved; $337.82 / 12 = $28.15 saved per box",
+          "OP-13 English box vs market: $445.28 - $211.14 = $234.14 below the Nov 17, 2026 market figure; $234.14 / $445.28 = 52.58% below market",
+          "OP-13 English case per box vs market: $445.28 - $182.99 = $262.29 below the Nov 17 market figure per box",
+          "OP-13 English box price path Nov 5 to Nov 13: $310.50 - $248.40 = $62.10; $62.10 / $310.50 = 20.00% in 8 days",
+          "OP-13 English box price path Nov 13 to Nov 17: $248.40 - $211.14 = $37.26; $37.26 / $248.40 = 15.00% in 4 days",
+          "OP-13 English box price path Nov 5 to Nov 17: $310.50 - $211.14 = $99.36; $99.36 / $310.50 = 32.00% in 12 days",
+          "OP-13 English case price path Nov 5 to Nov 17: $3,229.20 - $2,195.86 = $1,033.34; $1,033.34 / $3,229.20 = 32.00% in 12 days",
+          "OP-13 Japanese box price path Nov 13 to Nov 17: $135.00 - $114.75 = $20.25; $20.25 / $135.00 = 15.00% in 4 days",
+          "OP-13 Japanese case price path Nov 13 to Nov 17: $1,620.37 - $1,377.31 = $243.06; $243.06 / $1,620.37 = 15.00% in 4 days",
+          "OP-13 English box vs CardZ reference: $430.00 - $211.14 = $218.86 below the Nov 16, 2026 sold-first reference",
+          "OP-13 Japanese box vs CardZ reference: $114.75 - $109.00 = $5.75 above the Nov 16, 2026 sold-first reference",
+          "OP-13 language gap: $211.14 - $114.75 = $96.39 per box; $8.80 - $4.78 = $4.02 per pack; $0.80 - $0.73 = $0.07 cheaper per card in English",
+          "OP-13 EV: $44.24 / $445.28 = 0.10x the market box (Pullnomics, Nov 17, 2026); $44.24 / $211.14 = 0.21x our English box; $33.10 / $211.14 = 0.16x with no case hit",
+          "OP-13 opened-box return: $86.29 / $427.81 = 20.17% of the sealed price (FoilKraken, Nov 1, 2026); 17% of simulated boxes beat the sealed price",
+          "OP-13 average opened box: $264.73 - $211.14 = $53.59 above our English box (FoilKraken, Nov 1, 2026)",
+          "OP-13 Europe gap: $445.28 - $358.92 = $86.36; $86.36 / $445.28 = 19.39% cheaper in Europe (FoilKraken, Nov 17, 2026)",
+          "OP-13 market path Nov 1 to Nov 17: $445.28 - $427.81 = $17.47; $17.47 / $427.81 = 4.08% up while our shelf fell 32.00%",
+          "OP-13 vs OP-12 English box: $211.14 - $110.54 = $100.60; OP-13 vs OP-12 market: $445.28 - $291.72 = $153.56",
+          "OP-13 vs OP-14 English box: $211.14 - $184.54 = $26.60; OP-13 vs OP-14 market: $445.28 - $250.98 = $194.30",
+          "OP-13 vs OP-11 English box: $330.92 - $211.14 = $119.78; OP-13 vs OP-11 market: $530.82 - $445.28 = $85.54"
+        ],
+        "paragraphs": [
+          "Every line above is one division from a shelf price as of November 17, 2026, or one subtraction from a dated market figure. Two legs: the English products fell 20% between November 5 and November 13, 2026, while not one Japanese price moved, then all four fell a uniform 15% by November 17. The English box went $310.50 to $248.40 to $211.14, the English case $3,229.20 to $2,583.36 to $2,195.86, the Japanese box $135.00 to $114.75 and the Japanese case $1,620.37 to $1,377.31. A verdict written from November 5 prices would overstate the English box by $99.36 and the English case by $1,033.34.",
+          "The market did not move with the shelf. The English box traded at $427.81 on November 1, 2026, and at $445.28 on November 17, 2026, up $17.47 while our shelf fell $99.36. The Japanese side runs the other way: our Japanese box sits $5.75 above CardZ's $109 reference, while our English box sits $218.86 below CardZ's $430 reference. That split is the whole trade: buy the English case, hold the English box, open the Japanese box. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game we carry."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, single, or wait, in both languages",
+        "paragraphs": [
+          "The table's first row is the decision. The English case wins on every per-unit figure: $182.99 a box, $7.62 a pack, $0.64 a card, and $262.29 below the market per box. The English box wins on the size of the cheque: $211.14 buys one sealed English box at $234.14 below market. The Japanese box wins only on the opening question: $4.78 a pack is the cheapest way to open Carrying on His Will. The Japanese case wins nothing: $114.78 a box against a $114.75 single box is a rounding error the wrong way, not a bulk deal.",
+          "The last column is the control. The OP-12 English box at $110.54 is $100.60 cheaper than the OP-13 English box, and its market is $291.72 against OP-13's $445.28, so the two markets sit $153.56 apart while our shelf prices them $100.60 apart. Want Legacy of the Master? Buy OP-12. Want the anniversary set with the Red Super Alt-Art pool? Buy OP-13. The [OP-14 Azure Sea's Seven buyer's guide](/blog/op-14-azure-seas-seven-buyers-guide/) prices the set after, where the English box runs $26.60 cheaper than this one."
+        ],
+        "table": {
+          "head": [
+            "",
+            "JP box",
+            "JP case (per box)",
+            "EN box",
+            "EN case (per box)",
+            "OP-12 EN box (control)"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$114.75",
+              "$114.78",
+              "$211.14",
+              "$182.99",
+              "$110.54"
+            ],
+            [
+              "Price per pack",
+              "$4.78",
+              "$4.78",
+              "$8.80",
+              "$7.62",
+              "$4.61"
+            ],
+            [
+              "Price per card",
+              "$0.80",
+              "$0.80",
+              "$0.73",
+              "$0.64",
+              "$0.38"
+            ],
+            [
+              "vs market",
+              "$5.75 above the $109 CardZ reference",
+              "$5.78 above the $109 CardZ reference",
+              "$234.14 below $445.28",
+              "$262.29 below $445.28",
+              "$181.18 below $291.72"
+            ],
+            [
+              "vs list / MSRP",
+              "3.47x the ¥5,280 list",
+              "3.47x the ¥5,280 list",
+              "1.76x the $119.76 MSRP",
+              "1.53x the $119.76 MSRP",
+              "0.92x the $119.76 MSRP"
+            ],
+            [
+              "Best for",
+              "Opening the set; cheapest pack",
+              "Twelve Japanese boxes; a $0.31 premium",
+              "One sealed English box, far below market",
+              "Bulk English holding; widest gap",
+              "The Legacy of the Master set; $100.60 cheaper"
+            ],
+            [
+              "Worst for",
+              "Holding; the Red Manga odds",
+              "The saving alone; $0.03 a box the wrong way",
+              "Opening; $8.80 a pack",
+              "The $2,195.86 cheque",
+              "The OP-13 case; $72.45 dearer per box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the repricing, the $0.07 card gap, and the flagged singles total",
+        "note": "From the Warehouse: the question we get about OP-13 is why the English box costs almost twice the Japanese box now when the gap was $175.50 twelve days ago. It sat $175.50 above the Japanese box on November 5, and the answer is that our shelf fell 20% in English and nothing in Japanese in eight days, then 15% in both languages, while the market rose $17.47. The box did not get cheaper because the set got worse; it got cheaper because the shelf repriced twice. That is why this page dates every market figure and divides the case every time, even when the last three sets taught you not to bother.",
+        "paragraphs": [
+          "The top results answer three different questions, and none of them is the investment question. The value guide prices the Red Manga Luffy and the graded premiums, and lists no shelf at all. The chase-card guide prices the Red Super Alt-Art trio and the anniversary Shanks cards with dated Japanese asks. The box-value report proves the opening case: a typical opened box returns $86.29, and only 17% of simulated boxes beat the sealed price. None of them divides one store's four OP-13 products to the pack and the card, none prices the Japanese box against the CardZ sold-first reference, and none states the two-leg repricing that moved every figure here by 15% or 32%.",
+          "The second gap is the language gap itself. No price table reports that this store's English and Japanese boxes cost $96.39 apart while the English card costs $0.07 less. The third gap is the singles total. InkSight's August 31, 2026 snapshot prints an OP-13 singles total of $125,835, then flags it in its own text: one product priced near $99,000 drives 79% of the total, the listing is unverified, and InkSight does not rank OP-13 on it. A guide that quotes the $125,835 total without the flag sells a listing as a set. This page quotes no top-card percentage for OP-13, because the honest one does not exist until that listing is verified. The fourth gap is the market direction: it rose 4.08% while the shelf fell 32%, and a guide that prices OP-13 from the market alone leaves a buyer believing the box costs $445.28. Our [is OP-13 worth buying guide](/blog/is-op-13-worth-buying/) runs the buy-or-pass verdict on the same four products."
+        ]
+      },
+      {
+        "h": "The chase layer: one Red Manga and a top card worth $8,000 on its own",
+        "math": [
+          "OP-13 Red Manga Luffy ask: 1,500,000 yen / 159.5 = $9,404.39 (Oct 1, 2026 single-listing ask, not a sale)",
+          "OP-13 Red Manga Luffy vs boxes: $9,404.39 / $114.75 = 81.96 Japanese boxes; $9,404.39 / $211.14 = 44.54 English boxes",
+          "OP-13 Red Manga Luffy TCGplayer: $8,000.00 / $114.75 = 69.72 Japanese boxes; $8,000.00 / $211.14 = 37.89 English boxes (Nov 17, 2026)",
+          "OP-13 Sabo Red Super Alt-Art: $4,800.00 TCGplayer (Nov 17, 2026); Luffy Super Alt-Art: $2,209.00"
+        ],
+        "paragraphs": [
+          "Carrying on His Will is 132 card types plus 1 DON!! card in Japan, released in Japan on August 23, 2025 and in English on November 7, 2025. The chase is one card in three forms: the Monkey D. Luffy Red Super Alt-Art, OP13-118, with Ace OP13-119 and Sabo OP13-120 beside it, the set's flame-treated anniversary rarity that exists in no other set. The Luffy carries a 1,500,000 yen single-listing ask from October 1, 2026, $9,404.39 at 159.5 yen to the dollar, and an $8,000 TCGplayer market price on November 17, 2026, while the Sabo sits at $4,800 and the standard Super Alt-Art Luffy at $2,209. A box whose value rides on three cards is still a box whose value is scarcity, not contents.",
+          "The spread is what keeps the opening math failing anyway. The expected value of an English box is $44.24 on Pullnomics as of November 17, 2026, 0.10 times the market box, and $33.10 with no case hit, 0.16 times our English box, with a 25% case-hit share. Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. Every chase card is cheaper as a single than as a pull. Buy the box sealed, or buy the single. Do not buy the box to pull the single. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the wider Japanese ladder the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, rotation, and the lottery",
+        "paragraphs": [
+          "The first risk has already happened to the set next door. OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. A sealed box is scarce only when nobody is making more of it, and Bandai has reprinted OP-01 before: Wave 1 Blue Bottom and Wave 2 White Bottom are two printings of the same set. OP-13 is the game's third-anniversary set, and anniversary sets get reprinted. A reprint would cut its $445.28 market the same way. Never pay a scarcity premium with money you need back on a date.",
+          "The second risk is rotation, and here OP-13 is on the safe side of the line. OP-13 carries Block 4, inside the Standard window of Blocks 2 through 5 that runs to March 31, 2027, and its three Secret Rares, OP13-118, OP13-119 and OP13-120, sit on Bandai's Block exception list, so they stay legal in Standard regardless of reprints. No OP-13 card is banned, and no OP-13 card sits in a banned pair on Bandai's October 12, 2026 list. Rotation did not dent sealed prices at all when Block 1 left on April 1, 2026, because nobody was buying a $211.14 box to build a tournament deck. The risk is a buyer who pays $211.14 for a tournament box discovering the set is not Standard-legal past the window. The third risk is the lottery. A typical opened OP-13 box returns $86.29, and only 17% of simulated boxes beat the sealed price. The Red Manga Luffy at an $8,000 market price is the card that makes the opening feel rational, and the arithmetic is the answer: one card in 132 types, with no published pull rate, cannot carry a $211.14 box. Buy the single if you want the Luffy, buy the case if you want the set sealed, and open the Japanese box only if the opening is the purchase, not the investment. OP-13 is not on pre-order. It is fifteen months old in Japan, and its risks are the risks of age: reprint, rotation, the lottery. Check the seal before you pay, and read [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first; a box far below the shelf figures on this page is a warning, and [How to Spot Fake One Piece Cards](/blog/how-to-spot-fake-one-piece-cards/) covers the tells."
+        ]
+      },
+      {
+        "h": "Context: three brothers, two Leaders, and the anniversary premium",
+        "paragraphs": [
+          "Carrying on His Will released in Japan on August 23, 2025, at 220 yen a pack including tax, 6 cards a pack, 132 card types plus 1 DON!! card, and in English on November 7, 2025, at $4.99 a pack, 133 types plus 1. It is the thirteenth One Piece Card Game booster set, built on Luffy, Ace, and Sabo, the Three Brothers, with the first Roger and Imu Leaders and the Red Super Alt-Art trio as its crown. The set carries six Leaders, 26 Rares, 10 Super Rares, three Secret Rares, six Special cards, two 3rd Anniversary Special cards, and one Treasure Rare, with base numbering running to OP13-120. The Japanese box holds 24 packs, 144 cards; the English box holds the same 24 packs with 12 cards each, 288 cards.",
+          "Two further facts belong in every honest OP-13 guide. First, the anniversary Shanks cards that headline many OP-13 chase lists are Special-card reprints carrying an older set number, OP09-004, in gold and silver foil for the game's third anniversary; they are bonus pulls in OP-13, not base-set Secret Rares, and a buyer counting the base set should not count them as OP-13 numbers. Second, Bandai publishes no pull rates for OP-13, so no frequency figure for any card is quoted here. The set that came before explains the price gap. [OP-12 Legacy of the Master](/blog/op-12-legacy-of-the-master-buyers-guide/) released in Japan on May 31, 2025, and its English market runs to $291.72 against OP-13's $445.28: two markets $153.56 apart. OP-12 is the master-disciple set where no single card passes 35%, and OP-13 is the anniversary set where one card carries $8,000. The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case-price/) prices the Japanese cases across the line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card: the Red Manga Luffy at an $8,000 market price is cheaper as a single than as a pull, and a typical opened box returns $86.29 against a $427.81 sealed price. It is not for the player who needs Standard-legal cards past the Block 4 window: the three Secret Rares stay legal on the exception list, but the rest follows the block out. It is not for the bulk buyer who wants the Japanese case to discount: it costs $0.03 more a box. And it is not for anyone who treats a sealed box as a savings account: OP-01 fell 57% in a month once."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: Japanese box / 24 = your per-pack price, then / 6 for per card; English case / 12 = per box, then / 24 and / 12.",
+          "Check the fall against the market: the English box fell 32% in twelve days while the market rose 4.08%. A shelf fall is not a market fall.",
+          "Check the English box against the market: our box at $211.14 sits $234.14 below the November 17 market of $445.28. The gap widened by $99.36 in twelve days.",
+          "Check the English case against the singles: the case saves $337.82 against twelve singles. $28.15 a box is a bulk deal.",
+          "Check the Japanese case against the singles: the case costs $0.31 more than twelve singles. $0.03 a box the wrong way is not a bulk deal.",
+          "Check the Japanese box against CardZ: our box at $114.75 sits $5.75 above the sold-first reference of $109. The reference is not a sale, but the gap is real.",
+          "Date every figure: shelf prices as of November 17, 2026; market as of November 17, 2026; the CardZ references as of November 16, 2026; and the Red Manga ask as of October 1, 2026. When the next repricing lands, re-run the division: the gap that makes OP-13 the buy today is a shelf price and a market price, and either one can move.",
+          "If you want one card, buy the single. If you want the set sealed, buy the English case and hold it. If you want to open it, open the Japanese box.",
+          "Never pay a scarcity premium with money you need back on a date. OP-01 fell 57% in a month once, and a reprint is the risk that repeats it for OP-13."
+        ],
+        "h": "Action layer: the OP-13 investment checklist",
+        "paragraphs": [
+          "Divide first, check the fall against the market second, check the Japanese case against the singles third, and the single-card question last."
+        ]
+      }
+    ],
+    "slug": "op-13-investment",
+    "takeaway": [
+      "The OP-13 English case is the buy: $2,195.86 divides to $182.99 a box, $7.62 a pack and $0.64 a card, $262.29 below the November 17, 2026 market figure per box, and $337.82 below twelve singles on our own shelf. The English box at $211.14 is the second buy, $234.14 below the same market after a 32% fall in twelve days. The Japanese box at $114.75 is the opener's buy, $4.78 a pack, and the Japanese case at $1,377.31 is twelve boxes in one carton, not a bulk deal, costing $0.31 more than twelve singles.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the market figure as of November 17, 2026, the CardZ references as of November 16, 2026, and the Red Manga ask as of October 1, 2026. When the next repricing lands, re-run the division: the gap that makes OP-13 the buy today is a shelf price and a market price, and either one can move.",
+      "For the opener's version of this set, the [OP-13 Carrying on His Will buyer's guide](/blog/op-13-carrying-on-his-will-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-13 worth buying](/blog/is-op-13-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-12 Legacy of the Master investment guide](/blog/op-12-investment/) runs the same division on a $110.54 English box. For the set after, the [OP-14 Azure Sea's Seven investment guide](/blog/op-14-investment/) runs the same division on a $184.54 English box. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+    ]
+  },
   "op-14-azure-seas-seven-buyers-guide": {
     "datePublished": "2026-11-05",
     "faqs": [
@@ -44577,7 +44788,218 @@ export const POSTS: Record<string, BlogPost> = {
       "For the predecessor anniversary set, see [OP-13 Carrying on His Will Buyer's Guide](/blog/op-13-carrying-on-his-will-buyers-guide/).",
       "For the Extra Booster whose cards this set carries in English, see [EB-04 Egghead Crisis Buyer's Guide](/blog/eb-04-egghead-crisis-buyers-guide/).",
       "New this cycle: the [is EB-04 worth buying guide](/blog/is-eb-04-worth-buying/) prices the Egghead Crisis the same way, with the Koby Manga against the box and the English case down 20%.",
-      "New this cycle: the [is OP-14 worth buying guide](/blog/is-op-14-worth-buying/) runs the same verdict after the fall, with the Japanese box at $83.52, the English box at $184.54, and the Mihawk Manga against the box."
+      "New this cycle: the [is OP-14 worth buying guide](/blog/is-op-14-worth-buying/) runs the same verdict after the fall, with the Japanese box at $83.52, the English box at $184.54, and the Mihawk Manga against the box.",
+      "New this cycle: the [OP-14 Azure Sea's Seven investment guide](/blog/op-14-investment/) runs the same division as a holding decision, with the English case at $139.36 a box and the English box $66.44 below its market."
+    ]
+  },
+  "op-14-investment": {
+    "datePublished": "2026-11-17",
+    "faqs": [
+      {
+        "a": "On price alone, yes for the English case and the English box, and yes for the Japanese box as the opener. The English case divides to $139.36 a box against a $250.98 market figure from November 17, 2026, and the English box at $184.54 sits $66.44 below that same market after a 32% fall in twelve days. The Japanese box at $83.52 is the opener's buy: it sits $29.04 above CardZ's sold-first reference of $54.48 on November 16, 2026, because the market for Japanese OP-14 boxes has fallen faster than our shelf. Nothing here is a promise. OP-14 is Block 4 and a reprint would cut the market the way the 2024 reprint cut OP-01 by 57% in a month. Buy the case because the division is wide, not because the price can only rise.",
+        "q": "Is OP-14 The Azure Sea's Seven a good investment?"
+      },
+      {
+        "a": "Because the English premium outruns the twelve-card pack this time. The English box at $184.54 and the Japanese box at $83.52 sit $101.02 apart, and the English pack holds twelve cards against six in the Japanese pack, yet the English card costs $0.64 against $0.58 in Japanese. The English case divides further, to $139.36 a box and $0.48 a card, which is where the English buy lives. A buyer who chooses on box price alone sees a $101.02 gap and misses that the dearer box holds the dearer card too. Choose the language first, then divide within it.",
+        "q": "Why does the OP-14 English box cost more than twice the Japanese box?"
+      },
+      {
+        "a": "Keep it sealed. A typical opened OP-14 box returns $128.52 against a $257.47 sealed price, 50% of the sealed price, and only 15% of simulated boxes beat the sealed price at all, in the November 1, 2026 FoilKraken box-value report. The Buggy SP Gold sat at $1,483 on Pullnomics on November 17, 2026, and Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. If you want to open The Azure Sea's Seven, open the Japanese box at $83.52, $3.48 a pack, and hold the English case sealed.",
+        "q": "Should I open an OP-14 box or keep it sealed?"
+      }
+    ],
+    "h1": "OP-14 Azure Sea's Seven Investment: Buy the English Case",
+    "intro": [
+      "Short answer: buy the English sealed case, hold the English box, open the Japanese box, and skip the Japanese case. On our shelf as of November 17, 2026, the [OP-14 English sealed case](/product/op-14-the-azure-seas-seven-sealed-case-12-boxes-english-one-piece-card/) costs $1,672.35, or $139.36 a box, against a $250.98 market figure from November 17, 2026. The [OP-14 English box](/product/op-14-the-azure-seas-seven-booster-box-english-one-piece-card/) costs $184.54, $66.44 below that market, after a 32% fall in twelve days. The [OP-14 Japanese case](/product/op-14-the-azure-seas-seven-sealed-case-12-boxes-japanese-one-piece-card/) costs $1,002.93, or $83.58 a box, and the [OP-14 Japanese box](/product/op-14-the-azure-seas-seven-booster-box-japanese-one-piece-card/) costs $83.52, the opener's price.",
+      "Who this is for: sealed collectors who want the Warlords set, buyers choosing between the English box and the English case now that the case saves $45.18 a box, and case splitters who divide before they pay. Who it is not for: anyone buying to pull the Buggy SP Gold, because the box almost never pays for itself; anyone who chooses on box price alone, because the two languages cost $101.02 apart per box and $0.06 apart per card in the other direction; anyone who expects the Japanese case to discount, because it costs $0.06 more a box than the single; and anyone who reads a 32% shelf fall as a market crash, because the market fell only 2.52% while our shelf fell. Unlike OP-13, these prices have not moved since November 13, so the gap that makes OP-14 the buy today is four days old, not four hours."
+    ],
+    "metaDescription": "OP-14's English box is $184.54, $66.44 below a $250.98 market after a 32% fall. The English case divides to $139.36 a box.",
+    "metaTitle": "OP-14 Azure Sea's Seven Investment: Buy the English Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the English case, hold the English box, open the Japanese box",
+        "note": "From the Warehouse: the question we get most about OP-14 is whether the English box is a worse deal than the Japanese box, because buyers see $184.54 against $83.52 and stop there. It is a worse deal per card this time: twelve English cards a pack against six Japanese cards a pack still leaves the English card dearer, $0.64 against $0.58, because the $101.02 premium outruns the double pack. We say that before the sale, because a buyer who chooses on box price alone buys the dearer card and never knows it.",
+        "paragraphs": [
+          "The English case is the buy because the division is the widest in the set. Twelve boxes for $1,672.35 divide to $139.36 a box, $5.81 a pack and $0.48 a card, every one $111.62 below the November 17, 2026 market figure of $250.98. The case saves $542.13 against twelve singles on our own shelf, $45.18 a box, the widest per-box case saving in this run of guides. A buyer who wants English Azure Sea's Seven in bulk buys the case.",
+          "The English box is the second buy. At $184.54 it is $7.69 a pack and $0.64 a card, $66.44 below the $250.98 market, 26.47% below. It is the same box that cost $271.39 on November 5: 32% in twelve days while the market fell $6.49. A buyer who wants one box buys this one and holds it sealed. The [OP-13 Carrying on His Will investment guide](/blog/op-13-investment/) runs the same division on Carrying on His Will, the set before Azure Sea's Seven, where the English box sits $234.14 below its market.",
+          "The Japanese box is the opener's buy. At $83.52 it is $3.48 a pack and $0.58 a card, the cheapest way into the Warlords pool, and $29.04 above CardZ's sold-first reference of $54.48 on November 16, 2026. The Japanese case at $1,002.93 is not a bulk buy: it divides to $83.58 a box, $0.06 above the single box, $0.69 across twelve boxes. The [OP-14 Azure Sea's Seven buyer's guide](/blog/op-14-azure-seas-seven-buyers-guide/) prices the same four products for the opener."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and two falls in twelve days",
+        "math": [
+          "OP-14 Japanese box: $83.52 / 24 packs = $3.48 per pack; $83.52 / 144 cards = $0.58 per card",
+          "OP-14 Japanese box vs list: 220 yen x 24 = 5,280 yen; 5,280 yen / 159.5 = $33.10; $83.52 / $33.10 = 2.52x list; $83.52 - $33.10 = $50.42 above list",
+          "OP-14 Japanese case: $1,002.93 / 12 boxes = $83.58 per box; $83.58 / 24 packs = $3.48 per pack; $83.58 / 144 cards = $0.58 per card",
+          "OP-14 Japanese case vs 12 singles: 12 x $83.52 = $1,002.24; $1,002.93 - $1,002.24 = $0.69 more; $0.69 / 12 = $0.06 more per box",
+          "OP-14 English box: $184.54 / 24 packs = $7.69 per pack; $184.54 / 288 cards = $0.64 per card",
+          "OP-14 English box vs MSRP: $4.99 x 24 = $119.76; $184.54 - $119.76 = $64.78 above MSRP; $184.54 / $119.76 = 1.54x MSRP",
+          "OP-14 English case: $1,672.35 / 12 boxes = $139.36 per box; $139.36 / 24 packs = $5.81 per pack; $139.36 / 288 cards = $0.48 per card",
+          "OP-14 English case vs 12 singles: 12 x $184.54 = $2,214.48; $2,214.48 - $1,672.35 = $542.13 saved; $542.13 / 12 = $45.18 saved per box",
+          "OP-14 English box vs market: $250.98 - $184.54 = $66.44 below the Nov 17, 2026 market figure; $66.44 / $250.98 = 26.47% below market",
+          "OP-14 English case per box vs market: $250.98 - $139.36 = $111.62 below the Nov 17 market figure per box",
+          "OP-14 English box price path Nov 5 to Nov 13: $271.39 - $217.11 = $54.28; $54.28 / $271.39 = 20.00% in 8 days",
+          "OP-14 English box price path Nov 13 to Nov 17: $217.11 - $184.54 = $32.57; $32.57 / $217.11 = 15.00% in 4 days",
+          "OP-14 English box price path Nov 5 to Nov 17: $271.39 - $184.54 = $86.85; $86.85 / $271.39 = 32.00% in 12 days",
+          "OP-14 English case price path Nov 5 to Nov 17: $2,459.40 - $1,672.35 = $787.05; $787.05 / $2,459.40 = 32.00% in 12 days",
+          "OP-14 Japanese box price path Nov 5 to Nov 17: $98.26 - $83.52 = $14.74; $14.74 / $98.26 = 15.00% in 12 days",
+          "OP-14 Japanese case price path Nov 5 to Nov 17: $1,179.92 - $1,002.93 = $176.99; $176.99 / $1,179.92 = 15.00% in 12 days",
+          "OP-14 English box vs CardZ reference: $241.00 - $184.54 = $56.46 below the Nov 16, 2026 sold-first reference",
+          "OP-14 Japanese box vs CardZ reference: $83.52 - $54.48 = $29.04 above the Nov 16, 2026 sold-first reference",
+          "OP-14 language gap: $184.54 - $83.52 = $101.02 per box; $7.69 - $3.48 = $4.21 per pack; $0.64 - $0.58 = $0.06 dearer per card in English",
+          "OP-14 EV: $100.88 / $250.98 = 0.40x the market box (Pullnomics, Nov 17, 2026); $100.88 / $184.54 = 0.55x our English box; $65.13 / $184.54 = 0.35x with no case hit",
+          "OP-14 opened-box return: $128.52 / $257.47 = 49.92% of the sealed price (FoilKraken, Nov 1, 2026); 15% of simulated boxes beat the sealed price",
+          "OP-14 average opened box: $196.47 - $184.54 = $11.93 above our English box (FoilKraken, Nov 1, 2026)",
+          "OP-14 Europe gap: $250.98 - $200.09 = $50.89; $50.89 / $250.98 = 20.28% cheaper in Europe (FoilKraken, Nov 17, 2026)",
+          "OP-14 market path Nov 1 to Nov 17: $257.47 - $250.98 = $6.49; $6.49 / $257.47 = 2.52% down while our shelf fell 32.00%",
+          "OP-14 vs OP-13 English box: $211.14 - $184.54 = $26.60; OP-14 vs OP-13 market: $445.28 - $250.98 = $194.30",
+          "OP-14 vs OP-15 English box: $184.54 - $181.24 = $3.30; OP-14 vs OP-15 market: $250.98 - $237.43 = $13.55",
+          "OP-14 vs OP-16 English box: $184.54 - $146.23 = $38.31; OP-14 vs OP-16 market: $250.98 - $208.37 = $42.61"
+        ],
+        "paragraphs": [
+          "Every line above is one division from a shelf price as of November 17, 2026, or one subtraction from a dated market figure. Two legs: the English products fell 20% between November 5 and November 13, 2026, while not one Japanese price moved, and then all four products fell a uniform 15% on November 13 itself. The English box went $271.39 to $217.11 to $184.54, the English case $2,459.40 to $1,672.35, the Japanese box $98.26 to $83.52 and the Japanese case $1,179.92 to $1,002.93. A verdict written from November 5 prices would overstate the English box by $86.85 and the English case by $787.05. Unlike OP-13, nothing on this shelf has moved since November 13: these prices are four days old, and the gap that makes OP-14 the buy today has already survived one repricing cycle without moving.",
+          "The market did not move with the shelf. The English box traded at $257.47 on November 1, 2026, and at $250.98 on November 17, 2026, down $6.49 while our shelf fell $86.85. The Japanese side runs the other way: our Japanese box sits $29.04 above CardZ's $54.48 reference, while our English box sits $56.46 below CardZ's $241 reference. That split is the whole trade: buy the English case, hold the English box, open the Japanese box. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game we carry."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, single, or wait, in both languages",
+        "paragraphs": [
+          "The table's first row is the decision. The English case wins on every per-unit figure: $139.36 a box, $5.81 a pack, $0.48 a card, and $111.62 below the market per box. The English box wins on the size of the cheque: $184.54 buys one sealed English box at $66.44 below market. The Japanese box wins only on the opening question: $3.48 a pack is the cheapest way to open The Azure Sea's Seven. The Japanese case wins nothing: $83.58 a box against an $83.52 single box is a rounding error the wrong way, not a bulk deal.",
+          "The last column is the control. The OP-15 English box at $181.24 is $3.30 cheaper than the OP-14 English box, and its market is $237.43 against OP-14's $250.98, so the two markets sit $13.55 apart while our shelf prices them $3.30 apart. Want Kami's Island? Buy OP-15. Want the Warlords set with the $45.18-a-box case saving? Buy OP-14. The [OP-13 Carrying on His Will buyer's guide](/blog/op-13-carrying-on-his-will-buyers-guide/) prices the set before, where the English box runs $26.60 dearer than this one."
+        ],
+        "table": {
+          "head": [
+            "",
+            "JP box",
+            "JP case (per box)",
+            "EN box",
+            "EN case (per box)",
+            "OP-15 EN box (control)"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$83.52",
+              "$83.58",
+              "$184.54",
+              "$139.36",
+              "$181.24"
+            ],
+            [
+              "Price per pack",
+              "$3.48",
+              "$3.48",
+              "$7.69",
+              "$5.81",
+              "$7.55"
+            ],
+            [
+              "Price per card",
+              "$0.58",
+              "$0.58",
+              "$0.64",
+              "$0.48",
+              "$0.63"
+            ],
+            [
+              "vs market",
+              "$29.04 above the $54.48 CardZ reference",
+              "$29.10 above the $54.48 CardZ reference",
+              "$66.44 below $250.98",
+              "$111.62 below $250.98",
+              "$56.19 below $237.43"
+            ],
+            [
+              "vs list / MSRP",
+              "2.52x the ¥5,280 list",
+              "2.52x the ¥5,280 list",
+              "1.54x the $119.76 MSRP",
+              "1.16x the $119.76 MSRP",
+              "1.51x the $119.76 MSRP"
+            ],
+            [
+              "Best for",
+              "Opening the set; cheapest pack",
+              "Twelve Japanese boxes; a $0.69 premium",
+              "One sealed English box, below market",
+              "Bulk English holding; widest gap",
+              "The Kami's Island set; $3.30 cheaper"
+            ],
+            [
+              "Worst for",
+              "Holding; the Buggy odds",
+              "The saving alone; $0.06 a box the wrong way",
+              "Opening; $7.69 a pack",
+              "The $1,672.35 cheque",
+              "The OP-14 case; $41.88 dearer per box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the two falls, the dearer English card, and the Japanese gap",
+        "note": "From the Warehouse: the question we get about OP-14 is why the English box costs more than twice the Japanese box now when the gap was $173.13 twelve days ago. It sat $173.13 above the Japanese box on November 5, and the answer is that our shelf fell 20% in English and nothing in Japanese in eight days, then 15% in both languages, while the market fell $6.49. The box did not get cheaper because the set got worse; it got cheaper because the shelf repriced twice. That is why this page dates every market figure and divides the case every time, even when the last three sets taught you not to bother.",
+        "paragraphs": [
+          "The top results answer three different questions, and none of them is the investment question. The best-sets guide prices the box at $261 on October 21, 2026, and lists no shelf at all. The price tracker shows the box up 7.6% from its release week, $240.67 to $258.97, and says nothing about a shelf that fell 32%. The box-value report proves the opening case: a typical opened box returns $128.52, and only 15% of simulated boxes beat the sealed price. None of them divides one store's four OP-14 products to the pack and the card, none prices the Japanese box against the CardZ sold-first reference, and none states the two-leg repricing that moved every figure here by 15% or 32% in twelve days.",
+          "The second gap is the language gap itself, and it runs the other way from OP-13. No price table reports that this store's English and Japanese boxes cost $101.02 apart while the English card costs $0.06 more, not less. The third gap is the Japanese gap. Our Japanese box sits $29.04 above CardZ's $54.48 sold-first reference, which means the market for Japanese OP-14 boxes has fallen faster than our shelf has. A guide that prices OP-14 from the market alone leaves a buyer believing the Japanese box costs $54.48. The fourth gap is the stillness. These prices have not moved since November 13, and a guide written from November 5 prices overstates the English box by $86.85. Our [is OP-14 worth buying guide](/blog/is-op-14-worth-buying/) runs the buy-or-pass verdict on the same four products."
+        ]
+      },
+      {
+        "h": "The chase layer: one Buggy and a top card worth 24% of the set",
+        "math": [
+          "OP-14 singles total: $6,598.00 (InkSight, Aug 31, 2026); top card 24% = $1,583.52; top ten 80% = $5,278.40",
+          "OP-14 Buggy SP Gold: $1,483.00 (Pullnomics, Nov 17, 2026); Buggy vs Japanese box: $1,483.00 / $83.52 = 17.76 boxes",
+          "OP-14 Buggy SP Gold vs English box: $1,483.00 / $184.54 = 8.04 boxes"
+        ],
+        "paragraphs": [
+          "The Azure Sea's Seven is 128 card types plus 1 DON!! card in Japan, released in Japan on November 22, 2025 and in English on January 16, 2026, and 163 types plus 2 in English. The chase is the Seven Warlords pool: the Dracule Mihawk and Crocodile Secret Rares, the Seven Warlords Leaders, and the Buggy 3rd Anniversary Special cards, with the Buggy SP Gold at $1,483 on Pullnomics as of November 17, 2026. The set's singles total $6,598.00 in InkSight's August 31, 2026 snapshot, and the top card is 24% of it, the top ten 80%: spread, but still a box whose value is ten cards, not contents. OP-14 is the least concentrated recent set in the InkSight table next to OP-16.",
+          "The spread is what keeps the opening math failing anyway. The expected value of an English box is $100.88 on Pullnomics as of November 17, 2026, 0.40 times the market box, and $65.13 with no case hit, 0.35 times our English box, with a 35% case-hit share. It still does not pay for the box: $100.88 against a $184.54 shelf price is 0.55 times. Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. Every chase card is cheaper as a single than as a pull. Buy the box sealed, or buy the single. Do not buy the box to pull the single. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the wider Japanese ladder the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, rotation, and the lottery",
+        "paragraphs": [
+          "The first risk has already happened to the set next door. OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. A sealed box is scarce only when nobody is making more of it, and Bandai has reprinted OP-01 before: Wave 1 Blue Bottom and Wave 2 White Bottom are two printings of the same set. OP-14 has no second wave on the record yet, and a reprint would cut its $250.98 market the same way. Never pay a scarcity premium with money you need back on a date.",
+          "The second risk is rotation, and here OP-14 is the safer side of the line. OP-14 sits in Block 4 with OP-13 to OP-16, and Block 3, OP-09 to OP-12, stays Standard through March 31, 2028 while Block 2 leaves on April 1, 2027, so OP-14's Standard runway runs years past either date. Rotation did not dent sealed prices at all when Block 1 left on April 1, 2026, because nobody was buying a $184.54 box to build a tournament deck. The risk is a buyer who pays $184.54 for a tournament box discovering the set is not Standard-legal past the window. The third risk is the lottery. A typical opened OP-14 box returns $128.52, and only 15% of simulated boxes beat the sealed price. The Buggy SP Gold at $1,483 is the card that makes the opening feel rational, and the arithmetic is the answer: one card in 128 types, with no published pull rate, cannot carry an $184.54 box. Buy the single if you want the Buggy, buy the case if you want the set sealed, and open the Japanese box only if the opening is the purchase, not the investment. OP-14 is not on pre-order. It is twelve months old in Japan, and its risks are the risks of age: reprint, rotation, the lottery. Check the seal before you pay, and read [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first; a box far below the shelf figures on this page is a warning, and [How to Spot Fake One Piece Cards](/blog/how-to-spot-fake-one-piece-cards/) covers the tells."
+        ]
+      },
+      {
+        "h": "Context: Warlords, two sets in one, and the English split",
+        "paragraphs": [
+          "The Azure Sea's Seven released in Japan on November 22, 2025, at 220 yen a pack including tax, 6 cards a pack, 128 card types plus 1 DON!! card, and in English on January 16, 2026, at $4.99 a pack, 163 types plus 2. It is the fourteenth One Piece Card Game booster set, built on the Seven Warlords of the Sea, with the Mihawk and Crocodile Secret Rares, the Warlords Leaders, and the Buggy 3rd Anniversary Special cards as its chase. The English code OP14-EB04 is the giveaway: it is the first half of the EB-04 story in English dress, with the second half landing in the English OP-15 set. The Japanese box holds 24 packs, 144 cards; the English box holds the same 24 packs with 12 cards each, 288 cards.",
+          "Two further facts belong in every honest OP-14 guide. First, the English box is not a translated Japanese box; it is a larger product, 163+2 types against 128+1, with a different chase pool and a different per-card figure, $0.64 against $0.58. Second, Bandai publishes no pull rates for OP-14, so no frequency figure for any card is quoted here. The set that came before explains the price gap. [OP-13 Carrying on His Will](/blog/op-13-carrying-on-his-will-buyers-guide/) released in Japan on August 23, 2025, and its English market runs to $445.28 against OP-14's $250.98: two markets $194.30 apart. OP-13 is the anniversary set with one $8,000 card in the pool, and OP-14 is the Warlords set where no single card passes 24%, and both sit in Block 4 and stay Standard. The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case-price/) prices the Japanese cases across the line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card: the Buggy SP Gold at $1,483 is cheaper as a single than as a pull, and a typical opened box returns $128.52 against a $257.47 sealed price. It is not for the player who needs Standard-legal cards past the Block 4 window: OP-14 plays in Standard for years yet, but the window does close. It is not for the bulk buyer who wants the Japanese case to discount: it costs $0.06 more a box. And it is not for anyone who treats a sealed box as a savings account: OP-01 fell 57% in a month once."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: Japanese box / 24 = your per-pack price, then / 6 for per card; English case / 12 = per box, then / 24 and / 12.",
+          "Check the fall against the market: the English box fell 32% in twelve days while the market fell 2.52%. A shelf fall is not a market fall.",
+          "Check the English box against the market: our box at $184.54 sits $66.44 below the November 17 market of $250.98, and $56.46 below the CardZ sold-first reference of $241.",
+          "Check the English case against the singles: the case saves $542.13 against twelve singles. $45.18 a box is a bulk deal.",
+          "Check the Japanese case against the singles: the case costs $0.69 more than twelve singles. $0.06 a box the wrong way is not a bulk deal.",
+          "Check the Japanese box against CardZ: our box at $83.52 sits $29.04 above the sold-first reference of $54.48. The reference is not a sale, but the gap is real.",
+          "Date every figure: shelf prices as of November 17, 2026, unchanged since November 13; market as of November 17, 2026; the CardZ references as of November 16, 2026; and the Buggy price as of November 17, 2026. When the next repricing lands, re-run the division: the gap that makes OP-14 the buy today is a shelf price and a market price, and either one can move.",
+          "If you want one card, buy the single. If you want the set sealed, buy the English case and hold it. If you want to open it, open the Japanese box.",
+          "Never pay a scarcity premium with money you need back on a date. OP-01 fell 57% in a month once, and a reprint is the risk that repeats it for OP-14."
+        ],
+        "h": "Action layer: the OP-14 investment checklist",
+        "paragraphs": [
+          "Divide first, check the fall against the market second, check the Japanese case against the singles third, and the single-card question last."
+        ]
+      }
+    ],
+    "slug": "op-14-investment",
+    "takeaway": [
+      "The OP-14 English case is the buy: $1,672.35 divides to $139.36 a box, $5.81 a pack and $0.48 a card, $111.62 below the November 17, 2026 market figure per box, and $542.13 below twelve singles on our own shelf. The English box at $184.54 is the second buy, $66.44 below the same market after a 32% fall in twelve days. The Japanese box at $83.52 is the opener's buy, $3.48 a pack, and the Japanese case at $1,002.93 is twelve boxes in one carton, not a bulk deal, costing $0.69 more than twelve singles.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, unchanged since November 13, the market figure as of November 17, 2026, the CardZ references as of November 16, 2026, and the Buggy price as of November 17, 2026. When the next repricing lands, re-run the division: the gap that makes OP-14 the buy today is a shelf price and a market price, and either one can move.",
+      "For the opener's version of this set, the [OP-14 Azure Sea's Seven buyer's guide](/blog/op-14-azure-seas-seven-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-14 worth buying](/blog/is-op-14-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-13 Carrying on His Will investment guide](/blog/op-13-investment/) runs the same division on a $211.14 English box. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
     ]
   },
   "op-15-adventure-on-kamis-island-buyers-guide": {
