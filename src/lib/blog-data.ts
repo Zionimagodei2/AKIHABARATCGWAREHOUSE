@@ -20669,7 +20669,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with no format deadline attached: Fusion World has no rotation, and no FB08 card is banned or restricted. English released first, on December 12, 2025, a day ahead of Japanese on December 13, 2025, the first set in FB01 through FB10 where English came first, so the English premium is a language premium, not an early-print premium.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 11 to 17, 2026. The shelf fell 15 percent while the market fell 0.11 percent, which is the fact that outlives every price on this page: shelves reprice on their own schedules, and a box bought as an investment can fall as fast as it rose.",
       "New this cycle: the [FB07 Wish for Shenron investment guide](/blog/fb07-investment/) prices the set before Saiyan's Pride the same way, with the widest case-to-market gap in the line at $272.87 a box. For the price-and-math companion, the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices.",
-      "For the set after Saiyan's Pride, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) prices the Gogeta set, where the English case now divides to $342.13 a box after the same 15 percent repricing."
+      "For the set after Saiyan's Pride, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) prices the Gogeta set, where the English case now divides to $342.13 a box after the same 15 percent repricing.",
+      "New this cycle: the [FB09 Dual Evolution investment guide](/blog/fb09-investment/) prices the Gogeta set as an investment, with the case dividing to $342.13 a box, $72.09 above the $270.04 market box."
     ]
   },
   "fb08-saiyans-pride-buyers-guide": {
@@ -21073,6 +21074,209 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move; the method does not. Choose the language first, divide the case in that language, and never budget for a product the shelf does not stock.",
       "For the predecessor set, see [FB08 Saiyan's Pride Buyer's Guide](/blog/fb08-saiyans-pride-buyers-guide/). For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the English case ladder, see [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/).",
       "New this cycle: the [is FB09 worth buying guide](/blog/is-fb09-worth-buying/) gives the dated verdict on this set, with the $64.12 Japanese box against the $4,830.00 English case and the Gogeta chase priced against the box."
+    ]
+  },
+  "fb09-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "Yes. The Warehouse English case costs $4,105.50 for 12 boxes, or $342.13 a box, and FoilKraken's November 2026 box value report put the sealed English FB09 box at $270.04 on TCGplayer market as of November 1, 2026, so the case box sits $72.09 above the market box, or 26.70 percent above it. Twelve market boxes would cost $3,240.48, which is $865.02 less than our $4,105.50 case. The case is a scarcity price for twelve English boxes bought at once, not the cheap English route: on this set the market box is cheaper than the case division, the opposite of FB07 and FB08.",
+        "q": "Is the FB09 English case really $72.09 a box above the market box?"
+      },
+      {
+        "a": "No. The three Gogeta Secret Rare Super Alt-Arts ran $1,699 to $2,100 each on aggregated secondary-market data as of November 17, 2026, with the Gogeta: GT at $2,100, which is 6.14 English case-boxes and 7.78 market boxes, and all three together at $5,798, which is 16.95 case-boxes. Bandai publishes no pull rates, and FoilKraken's November 2026 report put the typical opened English box at $160.82 against a $270.04 sealed box, with only 25 percent of simulated boxes beating the sealed price and a verdict of Lottery. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an FB09 box to pull a Gogeta Super Alt-Art?"
+      },
+      {
+        "a": "Yes, on the evidence on the listing itself. The title ends in Card, the categories carry no Booster Boxes tag, no pack count appears anywhere on the live page, and the store's real box listings put booster box in the title, which this one does not. The price is the second tell: $54.50 for one unnamed card sits 1.65 times the official 5,280 yen box price of $33.12 at 159.4 yen per dollar on November 18, 2026, which is a chase-tier single price, not a box price. Two honest flags stay open: the listing photo is generic set box art, and the page carries the site's standard factory sealed template text. The Warehouse divides no per-pack math from this price, and the client confirms the listing before this reading changes. Our own November 12 guide divided the $64.12 listing as a box; that reading was wrong, and this page corrects it.",
+        "q": "Is the $54.50 Japanese FB09 listing really a single card?"
+      }
+    ],
+    "h1": "FB09 Dual Evolution Investment: Buy the Box",
+    "intro": [
+      "Short answer: buy one English box at the market price, hold the $4,105.50 case, never buy either to pull a Gogeta. On our shelf as of November 18, 2026, the [FB09 English sealed case](/product/dragon-ball-super-fusion-world-fb09-dual-evolution-booster-box-sealed-case-engli/) is $4,105.50 for 12 boxes, or $342.13 a box, and the [FB09 Japanese listing](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) is $54.50 for one single card, not a box. There is no English single box on this shelf at any price, and no Japanese box either. The set is 123 card types, the second-anniversary set, and English released first, on March 13, 2026, a day ahead of Japanese on March 14, 2026.",
+      "Who this is for: the buyer who wants one English box at the $270.04 market price, the collector who wants the second-anniversary set and its three Gogeta Secret Rares, and the buyer who wants the best opened-box return in Fusion World. Who it is not for: anyone chasing a Gogeta Super Alt-Art, who should buy the single; anyone who needs twelve English boxes at a discount, because this case charges a premium over the market; and anyone who opens boxes to make the money back, because only 25 percent of simulated boxes beat the sealed price."
+    ],
+    "metaDescription": "FB09's English case divides to $342.13 a box, $72.09 above a $270.04 market box. The $54.50 Japanese listing is one card, not a box.",
+    "metaTitle": "FB09 Dual Evolution Investment: Buy the Box",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the market box, hold the case, chase no Gogeta",
+        "note": "From the Warehouse: the question we get most in chat about FB09 is whether the $4,105.50 case is a misprint, because buyers divide the $270.04 market box and expect the case to match it. It does not match it, and it does not beat it either: the case divides to $342.13 a box, which is $72.09 above the market box, and $865.02 above twelve market boxes. The second most common question is whether the $54.50 Japanese listing is really a box, because the title carries the word Card. It is not a box. It is one unnamed card, the same listing format as FB07 at $23.70 and FB08 at $22.12, and our own November 12 guide divided it as a box, which was wrong: the title ends in Card, no pack count appears on the page, and the store's real box listings put booster box in the title.",
+        "paragraphs": [
+          "The buyer comes first and the language second, because FB09 punishes the buyer who gets the order backwards. A buyer who wants the second-anniversary set in English buys one market box at $270.04: 24 packs of 12 cards, 288 cards, $11.25 a pack, $0.94 a card. A buyer who wants twelve English boxes at once faces the [FB09 English sealed case](/product/dragon-ball-super-fusion-world-fb09-dual-evolution-booster-box-sealed-case-engli/) at $4,105.50: $342.13 a box, $14.26 a pack, $1.19 a card. A buyer who wants one Japanese card buys the [FB09 Japanese listing](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) at $54.50, one card, not a box. A buyer who wants one named card buys the single: the Gogeta Super Alt-Arts at $2,100, $1,999, and $1,699.",
+          "The Japanese single is dear by every measure the Warehouse runs, once it is read as a single. Its price sits $21.38 above the official 5,280 yen box price at 159.4 yen per dollar on November 18, 2026, at 1.65 times it, which is the shape of a chase-tier single, not a sealed box. The predecessor sets cost far less: the [FB07 Japanese listing](/product/fb07-wish-for-shenron-japanese-dragon-ball-fusion-world-card/) is $23.70, $30.80 below FB09, and the [FB08 Japanese listing](/product/fb08-saiyans-pride-japanese-dragon-ball-fusion-world-card/) is $22.12, $32.38 below it.",
+          "The chase is the warning, and it is arithmetic, not opinion. The Gogeta: GT Super Alt-Art, FB09-123, at $2,100 is 6.14 English case-boxes, the Gogeta Super Alt-Art, FB09-122, at $1,999 is 5.84, and the Gogeta: BR Super Alt-Art, FB09-121, at $1,699 is 4.97. All three together cost $5,798: 16.95 case-boxes, 21.47 market boxes. Bandai publishes no pull rates, and FoilKraken calls its Fusion World values rougher estimates. The verdict follows the arithmetic: buy the box for the set, buy the single for the card."
+        ]
+      },
+      {
+        "h": "The money layer: a $342.13 case-box against a $270.04 market box",
+        "math": [
+          "FB09 English case per box: $4,105.50 / 12 boxes = $342.13 per box",
+          "FB09 English case per pack: $4,105.50 / 288 packs = $14.26 per pack",
+          "FB09 English case per card: $4,105.50 / 3,456 cards = $1.19 per card",
+          "FB09 English case per box vs English MSRP: $342.13 - $119.76 = $222.37 above MSRP per box",
+          "FB09 English case per box vs English MSRP ratio: $342.13 / $119.76 = 2.86x MSRP",
+          "FB09 English box at market per pack: $270.04 / 24 packs = $11.25 per pack",
+          "FB09 English box at market per card: $270.04 / 288 cards = $0.94 per card",
+          "FB09 English market box vs MSRP: $270.04 / $119.76 = 2.25x MSRP",
+          "FB09 English market box vs MSRP: $270.04 - $119.76 = $150.28 above MSRP per box",
+          "FB09 English case per box vs market box: $342.13 - $270.04 = $72.09 per box",
+          "FB09 English case per box vs market box: $72.09 / $270.04 = 26.70%",
+          "FB09 English case vs 12 market boxes: (12 x $270.04) - $4,105.50 = $-865.02 per case",
+          "FB09 English case repricing: $4,830.00 - $4,105.50 = $724.50; $724.50 / $4,830.00 = 15.00% down",
+          "FB09 Japanese single repricing: $64.12 - $54.50 = $9.62; $9.62 / $64.12 = 15.00% down",
+          "FB09 Japanese official box: 24 packs x 220 yen = 5,280 yen; 5,280 yen / 159.4 = $33.12",
+          "FB09 Japanese single vs official box: $54.50 - $33.12 = $21.38 above list",
+          "FB09 Japanese single vs official ratio: $54.50 / $33.12 = 1.65x list",
+          "FB09 SNKRDUNK ask vs official: 9,400 yen / 159.4 = $58.97; 9,400 yen / 5,280 yen = 1.78x list",
+          "FB09 vs FB08 English case per box: $342.13 - $173.55 = $168.58 per box",
+          "FB09 vs FB07 English case per box: $342.13 - $112.41 = $229.72 per box",
+          "FB09 vs FB08 market box: $270.04 - $257.96 = $12.08 per box",
+          "FB09 vs FB07 Japanese single: $54.50 - $23.70 = $30.80 per single",
+          "FB09 vs FB08 Japanese single: $54.50 - $22.12 = $32.38 per single"
+        ],
+        "paragraphs": [
+          "Two tiers. The Japanese tier is the single-card tier: $54.50 for one unnamed card, $21.38 above the official 5,280 yen box price. The English tier is the scarcity tier: $342.13 a box inside the case, $14.26 a pack, $1.19 a card, and 2.86 times the $119.76 official box price. The gap is $287.63 a box between a case division and a single card, and the two must never share a per-pack table, because one is a box and the other is a card.",
+          "A sealed English FB09 box was $270.04 on TCGplayer market on November 1, 2026, per FoilKraken, or $11.25 a pack, and no November 17 to 18 market box price was found, so November 1 is the dated figure this page uses. Our case divides to $342.13 a box, $72.09 above that market box, or 26.70 percent above it, and twelve market boxes would cost $3,240.48, $865.02 less than our case. The case is not the cheap English route on this set, the market box is.",
+          "The shelf itself has moved, and the move is the story. Every Fusion World price on this shelf fell a uniform 15 percent in one leg: FB09 English case $4,830.00 to $4,105.50, FB09 Japanese single $64.12 to $54.50, FB08 English case $2,450.08 to $2,082.57, FB07 English case $1,587.00 to $1,348.95. The repricing narrowed the case gap but did not close it: at November 12 prices the case box sat $132.46 above the market box, and after the cut it sits $72.09 above it."
+        ]
+      },
+      {
+        "h": "The decision layer: case, market box, the single, or wait, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: five ways to spend on FB09.",
+          "The English case row deserves a second look: at $342.13 a box it sits $72.09 above the market box, so a buyer who can buy market boxes one at a time should never take the case for price alone. The market box row deserves the opposite look: $270.04 is 2.25 times MSRP, its typical opened return is $160.82, and it is the dear English route only when one box is truly the plan. $2,100 buys the Gogeta: GT Super Alt-Art, the set's top card, for about half a case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per unit",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English box at market",
+              "$270.04",
+              "$11.25 a pack",
+              "One English box without taking a case",
+              "2.25x MSRP; typical opened box returns $160.82"
+            ],
+            [
+              "English case (12)",
+              "$4,105.50",
+              "$342.13 a box, $14.26 a pack",
+              "Twelve English boxes bought at once",
+              "$72.09 a box above the market box; $4,105.50 committed at once"
+            ],
+            [
+              "Japanese single",
+              "$54.50",
+              "One card",
+              "Owning one Japanese FB09 card",
+              "Unnamed card; no box, no packs, no opening"
+            ],
+            [
+              "The single",
+              "$1,699 to $2,100 Gogeta Super Alt-Art",
+              "n/a",
+              "Owning a Gogeta Super Alt-Art",
+              "Thin market; aggregated asks, not TCGplayer market"
+            ],
+            [
+              "FB08 English case",
+              "$2,082.57",
+              "$173.55 a box",
+              "Twelve English boxes, Saiyan set",
+              "$168.58 cheaper a box; a different set"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the verdict, the market gap, and the lottery",
+        "note": "From the Warehouse: the question we get most in chat about FB09 is whether the $4,105.50 case is a misprint, because buyers divide the $270.04 market box and expect the case to match it. It does not match it, and it does not beat it either: the case divides to $342.13 a box, which is $72.09 above the market box, and $865.02 above twelve market boxes. The second most common question is whether the $54.50 listing is really a box, because the title carries the word Card. It is a single card, the same listing format as FB07 at $23.70 and FB08 at $22.12, and the photos show the set box art, not the item.",
+        "paragraphs": [
+          "The top results for this query leave the verdict slot open. Slab-Z's top-10 FB09 cards guide, updated August 10, 2026, ranks the chase cards and nothing else: no box price, no per-pack math, no buy-or-skip verdict, and prices three months stale. RareCardsJapan's FB09 review, updated July 26, 2026, covers the set and the chase, but carries no prices and gives no buy verdict. KiBinder's FB09 checklist is a live-price table, no prose, no verdict. Our own [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) from November 4 ranks the cases, but it is a case ladder, not a verdict for FB09, and its prices are pre-repricing.",
+          "That missing verdict is the gap this page owns, and the market gap is the second gap. No guide anywhere prices the store against the market after the repricing: our case at $342.13 a box sits $72.09 above the $270.04 market box, so the case is a scarcity price and the market box is the cheap English route. The third gap is the lottery shape: FoilKraken's average opened box of $330.89 beats the $270.04 sealed price, while the typical box of $160.82 loses badly, and only 25 percent of simulated boxes beat it.",
+          "The fourth gap is the listing correction itself, and it is ours to own. Our November 12 worth-buying guide divided the $64.12 Japanese listing as a box, at $2.67 a pack, and this page says that reading was wrong: the title ends in Card, no pack count appears on the page, and the store's real box listings put booster box in the title. The November 6 and November 9 guides called the five Japanese listings single cards, the November 10 where-to-buy guide called them five sealed boxes. This page divides nothing from the $54.50 price, because a single card has no packs to divide. The fifth gap is the English-first fact: English released March 13, 2026, a day ahead of Japanese on March 14, 2026. The full ladder runs in the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/)."
+        ]
+      },
+      {
+        "h": "The chase layer: three Gogetas and a $5,798 trio",
+        "math": [
+          "Gogeta: GT Super Alt-Art vs English case per box: $2,100.00 / $342.13 = 6.14 boxes",
+          "Gogeta Super Alt-Art vs English case per box: $1,999.00 / $342.13 = 5.84 boxes",
+          "Gogeta: BR Super Alt-Art vs English case per box: $1,699.00 / $342.13 = 4.97 boxes",
+          "Gogeta: GT Super Alt-Art vs market box: $2,100.00 / $270.04 = 7.78 boxes",
+          "Gogeta Super Alt-Art vs market box: $1,999.00 / $270.04 = 7.40 boxes",
+          "Gogeta: BR Super Alt-Art vs market box: $1,699.00 / $270.04 = 6.29 boxes",
+          "Gogeta: GT Super Alt-Art vs Japanese single: $2,100.00 / $54.50 = 38.53 singles",
+          "Three Gogeta Super Alt-Arts: $1,699.00 + $1,999.00 + $2,100.00 = $5,798.00",
+          "Three Gogeta Super Alt-Arts vs English case per box: $5,798.00 / $342.13 = 16.95 boxes",
+          "Three Gogeta Super Alt-Arts vs market box: $5,798.00 / $270.04 = 21.47 boxes",
+          "Three Gogeta Super Alt-Arts vs Japanese single: $5,798.00 / $54.50 = 106.39 singles",
+          "FB09-123 Alt-Art vs English case per box: $105.09 / $342.13 = 0.31 boxes",
+          "FB09-123 Alt-Art vs Japanese single: $105.09 / $54.50 = 1.93 singles",
+          "FoilKraken typical opened vs English case per box: $160.82 / $342.13 = 0.47 boxes",
+          "FoilKraken typical opened vs English case per box: $342.13 - $160.82 = $181.31 below cost",
+          "FoilKraken typical opened vs market box: $160.82 / $270.04 = 0.60 boxes",
+          "FoilKraken average opened vs market box: $330.89 / $270.04 = 1.23 boxes",
+          "FoilKraken average opened vs English case per box: $330.89 / $342.13 = 0.97 boxes"
+        ],
+        "paragraphs": [
+          "The chase sits in three Secret Rares that are all the same character: FB09-121 Gogeta: BR from the Broly film, FB09-122 Gogeta from Fusion Reborn, and FB09-123 Gogeta: GT. All three carry Super Alt-Art versions, and two Leaders carry them as well, a new Leader Double Star rarity. The set is 123 card types: 5 Leaders, 40 Commons, 35 Uncommons, 25 Rares, 15 Super Rares, and 3 Secret Rares. There is no God Rare in Fusion World.",
+          "The chase is the warning, and it is arithmetic, not opinion. The Gogeta: GT Super Alt-Art at $2,100 is 6.14 English case-boxes and 7.78 market boxes, and the three Super Alt-Arts together at $5,798 are 16.95 case-boxes. The cheaper tier is the plain alt-art: the FB09-123 alt-art sat at $105.09 on TCGplayer market as of November 17, 2026, which is 0.31 of a case-box and 1.93 Japanese singles, down 12 percent in 30 days. The set-total trackers disagree by about $2,100, KiBinder at $10,707.16 against ogcards at $8,607.16, so this page quotes neither as a box price. Buy the single."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the case-only shelf, and the lottery trap",
+        "paragraphs": [
+          "The first risk is the chase itself. The three Gogeta Super Alt-Arts at $1,699 to $2,100 are aggregated secondary-market data from TCGIndex as of November 17, 2026, not TCGplayer market prices, and the market is thin: Inksight's November 11, 2026 snapshot ranks no FB09 card in its top ten Secret Rares by market price, the cutoff at $182.05. A buyer who pays a graded premium for a raw card, or a Super Alt-Art price for the plain alt-art, has overpaid by double or more. Buy the single, and check the print first.",
+          "The second risk is the case-only English shelf. There is no English single box on this shelf at any price, so the English buyer must either take a $4,105.50 case or pay $270.04 for a market box, and on this set the market box is $72.09 a box cheaper than the case division. The case is the right English buy only when twelve English boxes at once is the plan regardless of price. The third risk is the Japanese side: there is no Japanese box and no Japanese case, so the buyer who pays $54.50 gets one unnamed card, at 1.65 times the official box price, with no packs to open.",
+          "The third risk is the lottery trap: a typical opened FB09 box returns $160.82 against a $270.04 sealed box, 0.60 of the sealed price, and only 25 percent of simulated boxes beat it, while the average opened box of $330.89 beats it only because rare Super Alt-Art hits pull the mean up. Across Fusion World, a typical opened box returns 27 percent of the sealed price. The fourth risk is the pack-size trap: Japanese packs hold 6 cards and English packs hold 12, so a buyer who compares per-pack prices across languages without dividing per card misreads the gap by half. Cost per card is the honest comparison: the case divides to $1.19 a card, the market box to $0.94 a card, and the Japanese single is one card for $54.50. Check the seal, the wrap tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      },
+      {
+        "h": "Context: 123 card types, three Gogetas, and the second-anniversary set",
+        "paragraphs": [
+          "Dual Evolution is the ninth Fusion World booster and the second-anniversary set, and its chase sits in three Secret Rares that are all the same character: FB09-121 Gogeta: BR, FB09-122 Gogeta, and FB09-123 Gogeta: GT. All three carry Super Alt-Art versions, and all five Leaders carry alt-art versions as well. The published breakdown is 123 card types: 5 Leaders, 40 Commons, 35 Uncommons, 25 Rares, 15 Super Rares, and 3 Secret Rares, per the card-list sources, since Bandai's own product page prints only the 123 total. The five Leaders are all Saiyans, the set runs the Fusion Evolve and Ki mechanics, and there is no God Rare in Fusion World.",
+          "The Japanese box holds 24 packs of 6 cards plus a digital code, 144 cards, at a list of 5,280 yen, or $33.12 at 159.4 yen per dollar, and the store's Japanese single costs $54.50 with no pack count attached. The English case divides to 24 packs of 12 cards plus a promo code per box, 288 cards, at $14.26 a pack, $1.19 a card. Cost per pack favours the market box at $11.25 over the case division at $14.26; cost per card favours it too, $0.94 against $1.19. Bandai prints no packs-per-box figure, so the 24-pack box is the store and trade shape, not a Bandai figure.",
+          "English released March 13, 2026 and Japanese March 14, 2026, the first set in FB01 through FB10 where English came first after FB08 set the pattern, and FB10 and FB11 followed the same order. The English premium is a language premium plus a supply premium, not an early-print premium, because the English print is the first one. The set is fully legal with no rotation on the horizon: Fusion World has no rotation, three cards are banned and five are limited to one copy, last changed in March 2026, and none of the eight is from FB09. The next set down the ladder, FB08, is $22.12 in Japanese; see the [FB08 Saiyan's Pride investment guide](/blog/fb08-investment/) for the same verdict."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the Gogeta: GT Super Alt-Art is 6.14 English case-boxes, and no pull rate prices the chase another way. It is not for anyone who opens boxes to make the money back: only 25 percent of simulated boxes beat the sealed price. It is not for anyone who needs twelve English boxes at a discount, because this case charges $72.09 a box above the market box. It is not for the bulk buyer who wants a Japanese case discount, because the shelf stocks none: twelve Japanese singles cost $654.00. And it is not for anyone who wants the Shenron chase, because that is FB07, not this set."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open the anniversary set, hold it sealed, own it in English, or own a named Gogeta.",
+          "If the job is the single, buy the single: the Gogeta: GT Super Alt-Art at $2,100, the Gogeta Super Alt-Art at $1,999, the Gogeta: BR Super Alt-Art at $1,699, all November 17, 2026 aggregated secondary-market data, and check the print before you pay, because Super Alt-Art, alt-art, and base are three different prices.",
+          "If the job is Japanese, know what $54.50 buys: one unnamed card, not a box, so do not divide it by 24 packs.",
+          "If the job is English, do not take the case at $4,105.50: twelve market boxes cost $3,240.48, which is $865.02 less than the case.",
+          "If the job is a case, divide it first: $342.13 a box is $72.09 above the $270.04 market box, and twelve Japanese singles cost $654.00 with no case discount.",
+          "Check the format list before you build around a card, check the wrap and seams before you pay, and remember there is no pull rate to divide, so no box is a calculated chase."
+        ],
+        "h": "Action layer: the FB09 investment checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 18, 2026, and the Fusion World shelf fell 15 percent in one leg before this page, so re-divide before you pay if the shelf has moved again."
+        ]
+      }
+    ],
+    "slug": "fb09-investment",
+    "takeaway": [
+      "The FB09 English case at $4,105.50 divides to $342.13 a box, $14.26 a pack and $1.19 a card, $72.09 above the $270.04 TCGplayer market box, and $865.02 above twelve market boxes. There is no English single box and no Japanese box or case on this shelf, so the English decision is a $4,105.50 case or a market box, and on this set the market box is cheaper. The Japanese listing at $54.50 is a single card, not a box.",
+      "It is worth buying as the anniversary set, sealed or opened at the market box, and it is not worth buying as a way to own one named card or to make the money back by opening. The three Gogeta Super Alt-Arts ran $1,699 to $2,100 on aggregated secondary-market data as of November 17, 2026, with the Gogeta: GT at $2,100, which is 6.14 English case-boxes, and FoilKraken's November 2026 report put the typical opened box at $160.82 against a $270.04 sealed box, with only 25 percent of simulated boxes beating the sealed price. Buy the single, or buy the box for the set.",
+      "It is worth buying with no format deadline attached: Fusion World has no rotation, and no FB09 card is banned or restricted. English released first, on March 13, 2026, a day ahead of Japanese on March 14, 2026, continuing the order FB08 set, so the English premium is a language premium, not an early-print premium.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 1 to 17, 2026. The shelf fell 15 percent while the market box held at its November 1 figure, which is the fact that outlives every price on this page: shelves reprice on their own schedules, and a box bought as an investment can fall as fast as it rose.",
+      "For the price-and-math companion, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices. The [is FB09 worth buying guide](/blog/is-fb09-worth-buying/) gives the dated verdict on this set; its November 12 money layer divided the Japanese listing as a box, and this page corrects that reading.",
+      "New this cycle: the [M1L Mega Brave investment guide](/blog/m1l-investment/) prices the Pokémon twin of this cycle the same way, with the case dividing to $64.61 a box, $15.71 below the market box."
     ]
   },
   "fusion-world-booster-box-japanese": {
@@ -23499,7 +23703,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the anniversary set, sealed or opened, and it is not worth buying as a way to own one named card or to make the money back by opening. The three Gogeta Super Alt-Arts ran $1,699 to $2,100 on aggregated secondary-market data as of November 12, 2026, with the Gogeta: GT at $2,100, which is 32.75 Japanese boxes, and FoilKraken's November 2026 report put the typical opened box at $160.82 against a $270.04 sealed box, with only 25 percent of simulated boxes beating the sealed price. Buy the single, or buy the box for the set.",
       "It is worth buying with no format deadline attached: Fusion World has no rotation, and no FB09 card is banned or restricted. English released first, on March 13, 2026, a day ahead of Japanese on March 14, 2026, continuing the order FB08 set, so the English premium is a language premium, not an early-print premium.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, unchanged since November 4, and the marketplace references as of November 1 to 12, 2026. The Fusion World shelf did not follow the One Piece English shelf's 20 percent repricing, which is the fact that outlives every price on this page: shelves reprice on their own schedules, and a box bought as an investment can fall as fast as it rose.",
-      "For the price-and-math companion, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices. The [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) prices Saiyan's Pride the same way, with the Broly chase against the box."
+      "For the price-and-math companion, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices. The [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) prices Saiyan's Pride the same way, with the Broly chase against the box.",
+      "New this cycle: the [FB09 Dual Evolution investment guide](/blog/fb09-investment/) prices the same shelf as an investment, with the case dividing to $342.13 a box, $72.09 above the $270.04 market box. Correction: the money layer above divides the Japanese listing as a box; the listing is a single card, not a box, and no per-pack math should be divided from its $54.50 price."
     ]
   },
   "is-m1l-worth-buying": {
@@ -23697,7 +23902,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the twin set in mind: M1S Mega Symphonia is $84.97 a box and $773.15 a case, with its Gardevoir gold at $230.63, and both boxes together cost $179.88. In English the gold Mega Lucario ex runs $199.77 as of November 9, 2026, cheaper than the Japanese gold at $257.80, so the Japanese premium is a language premium, not a gold premium.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of November 3 to 11, 2026. The box is down 21 percent in 90 days while the set value is down only 1.9 percent, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) divides the same shelf set by set, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
-      "The twin set gets the same treatment in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/)."
+      "The twin set gets the same treatment in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/).",
+      "New this cycle: the [M1L Mega Brave investment guide](/blog/m1l-investment/) prices the same shelf as an investment, with the case dividing to $64.61 a box, $15.71 below the $80.32 market box, after a uniform 15 percent repricing."
     ]
   },
   "is-m1s-worth-buying": {
@@ -37361,6 +37567,220 @@ export const POSTS: Record<string, BlogPost> = {
       "If Japanese wins your decision, two reads follow naturally: [how to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) — the skill is smaller than it looks — and [the best-value Japanese booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/), the full price ladder from $58.85 up."
     ]
   },
+  "m1l-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "Yes, and the margin is wider than it was. The Warehouse sealed case costs $775.35 for 12 boxes, or $64.61 a box, and Sparkl put the TCGplayer market box at $80.32 as of November 17, 2026, so the case box sits $15.71 below the market box, and twelve market boxes would cost $963.84 against our $775.35 case, a saving of $188.49. That saving only exists if twelve boxes is the plan: the case costs $775.35 at once, and a single box on this shelf costs $80.67, which is $0.35 above the market box. A buyer who wants one box pays the market box, not the case division.",
+        "q": "Is the M1L sealed case really cheaper per box than the market box?"
+      },
+      {
+        "a": "No. The gold Mega Lucario ex, M1L 092, sat at $253.35 on TCGplayer market as of November 17, 2026, which is 3.14 boxes at $80.67, and the complete set is $515.31, or 6.39 boxes. The top five cards carried 86.0 percent of the set value on November 11, and 84 of the 92 cards sat under $5, so the set is five cards and 84 cards under $5. The Pokémon Company publishes no pull rates for M1L, so no box is a calculated chase. Buy the single, or buy the box for the set. One warning: the $253.35 market price sits above the last three recorded sales of $239.48, $228.44 and $229.46, so the market price is the ask side of the card, not the last sale.",
+        "q": "Should I buy an M1L box to pull the gold Mega Lucario ex?"
+      },
+      {
+        "a": "Thirty packs of 5 cards, 150 cards, at 180 yen a pack and 5,400 yen a box. The 20-pack figure comes from the Premium Trainer Box MEGA, released the same day, August 1, 2025, which holds 10 M1L packs and 10 M1S packs. At 30 packs our $80.67 box is $2.69 a pack; divided by 20 it would look like $4.03 a pack, which is a different verdict from the same price. Check the listing, and if it does not say 30 packs, ask before you pay.",
+        "q": "Does an M1L box hold 20 packs or 30?"
+      }
+    ],
+    "h1": "M1L Mega Brave Investment: Buy the Case",
+    "intro": [
+      "Short answer: yes, for the sealed case at $775.35, which divides to $64.61 a box, $15.71 below the $80.32 TCGplayer market box as of November 17, 2026, and no, for a single box at $80.67, which sits $0.35 above it. Never buy either to pull the gold Mega Lucario ex: it runs $253.35, or 3.14 boxes, and the complete set is $515.31, or 6.39 boxes. The set is 92 cards, released August 1, 2025, and its gold card is one of the first two Mega Ultra Rares ever printed.",
+      "Who this is for: the bulk buyer who wants twelve boxes below the market box, the collector who wants the first gold Mega Ultra Rare, and the opener who wants the cheapest way to chase a gold card. Who it is not for: anyone chasing the gold Lucario, who should buy the single at $253.35; anyone who wants one box at the market price, because our single box is $0.35 above it; and anyone buying the Pokémon Center Set, because our $186.74 set sits $48.33 above the sold-out 22,062 yen listing."
+    ],
+    "metaDescription": "M1L's case divides to $64.61 a box, $15.71 below an $80.32 market box. The single box is $80.67, $0.35 above it.",
+    "metaTitle": "M1L Mega Brave Investment: Buy the Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, hold the single box, chase no gold",
+        "note": "From the Warehouse: the question we get most in chat about M1L is whether the box holds 20 packs or 30, because a 20-pack figure circulates from the Premium Trainer Box MEGA, which holds 10 M1L packs and 10 M1S packs. The box holds 30 packs. At 30 packs the $80.67 box is $2.69 a pack; divided by 20 it would look like $4.03 a pack, which is a different verdict from the same price. The second most common question is whether the $775.35 case is a deal. It is, against the market box: the case divides to $64.61 a box, $15.71 below the $80.32 market box, while the single box at $80.67 sits $0.35 above it. We stock both, and we say so plainly.",
+        "paragraphs": [
+          "The buyer comes first and the route second, because M1L punishes the buyer who gets the order backwards. A buyer who wants twelve boxes buys the [M1L sealed case](/product/m1l-mega-brave-sealed-case-12-boxes-japanese-pokemon-card/) at $775.35: $64.61 a box, $2.15 a pack, $0.43 a card. A buyer who wants one box buys the [M1L Japanese booster box](/product/m1l-mega-brave-booster-box-japanese-pokemon-card/) at $80.67: 30 packs of 5 cards, 150 cards, $2.69 a pack, $0.54 a card. A buyer who wants one named card buys the single: the gold Mega Lucario ex at $253.35 or Lillie's Determination Special Art Rare at $79.82.",
+          "The box is dear by every measure the Warehouse runs, and the case is not. Its official price is 30 packs at 180 yen, or 5,400 yen, which is $33.88 at 159.4 yen per dollar, so our box sits $46.79 above it, at 2.38 times it. Sparkl put the TCGplayer market box at $80.32 as of November 17, 2026, so our single box is $0.35 above it, or 0.44 percent, while our case box at $64.61 sits $15.71 below it. Six days ago the single box sat $13.41 above the market box; after the repricing it sits $0.35 above it. The case is the only sealed price on this shelf that beats the market. The full ladder runs in the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/).",
+          "The chase is the warning, and it is arithmetic, not opinion. The gold Mega Lucario ex, M1L 092, at $253.35 is 3.14 boxes, 3.92 case-boxes, and 3.15 market boxes. The complete set at $515.31 is 6.39 boxes, and the top five cards carried 86.0 percent of that value on November 11, $471.97 of $548.79, while 84 of the 92 cards sat under $5. The Pokémon Company publishes no pull rates for M1L, so no box is a calculated chase. The verdict follows the arithmetic: buy the box for the set, buy the single for the card."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, and the market flip",
+        "math": [
+          "M1L Japanese box per pack: $80.67 / 30 packs = $2.69 per pack",
+          "M1L Japanese box per card: $80.67 / 150 cards = $0.54 per card",
+          "M1L sealed case per box: $775.35 / 12 boxes = $64.61 per box",
+          "M1L sealed case per pack: $775.35 / 360 packs = $2.15 per pack",
+          "M1L sealed case per card: $775.35 / 1,800 cards = $0.43 per card",
+          "M1L case saving vs 12 single boxes: (12 x $80.67) - $775.35 = $192.69 per case",
+          "M1L case saving per box: $192.69 / 12 boxes = $16.06 per box",
+          "M1L Japanese box vs official: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.4 = $33.88; $80.67 - $33.88 = $46.79 above official",
+          "M1L Japanese box vs official ratio: $80.67 / $33.88 = 2.38x official",
+          "M1L box vs market box: $80.67 - $80.32 = $0.35 above market",
+          "M1L box vs market box percent: $0.35 / $80.32 = 0.44% above market",
+          "M1L case per box vs market box: $80.32 - $64.61 = $15.71 below market",
+          "M1L case per box vs market box: $15.71 / $80.32 = 19.56% below market",
+          "M1L case vs 12 market boxes: (12 x $80.32) - $775.35 = $188.49 per case",
+          "M1L box at 20 packs: $80.67 / 20 packs = $4.03 per pack",
+          "M1L 20-pack error vs 30-pack price: $4.03 - $2.69 = $1.34 per pack",
+          "M1L Japanese box repricing: $94.91 - $80.67 = $14.24; $14.24 / $94.91 = 15.00% down",
+          "M1L sealed case repricing: $912.18 - $775.35 = $136.83; $136.83 / $912.18 = 15.00% down",
+          "M1L Pokemon Center Set repricing: $219.70 - $186.74 = $32.96; $32.96 / $219.70 = 15.00% down",
+          "M1L Kakaku cheapest box: 9,000 yen / 159.4 = $56.46",
+          "M1L box vs Kakaku cheapest: $80.67 - $56.46 = $24.21 above the ask",
+          "M1L box vs Kakaku cheapest ratio: $80.67 / $56.46 = 1.43x the ask",
+          "M1L Cardmarket case per box: 968.22 euros / 12 boxes = 80.69 euros per box",
+          "M1L Cardmarket case per box vs box: 80.69 euros - 53.77 euros = 26.92 euros above the box"
+        ],
+        "paragraphs": [
+          "Two tiers. The single-box tier is the dear tier: $80.67 a box, $2.69 a pack, $0.54 a card, $0.35 above the $80.32 market box. The case tier is the cheap tier: $64.61 a box, $2.15 a pack, $0.43 a card, $15.71 below that same market box. The case saves $192.69 against twelve single boxes, or $16.06 a box, and $188.49 against twelve market boxes. The flip is the verdict: the case beats the market, the single box does not.",
+          "The market agrees from a second direction. The cheapest sealed box on Kakaku.com was 9,000 yen on November 3, 2026, or $56.46, and Samurai Sword Tokyo listed its own sealed box at 8,974 yen on November 14, about $56.30, so our single box sits $24.21 above the cheapest Japanese ask. Cardmarket lists the box at 53.77 euros and the case at 968.22 euros, which divides to 80.69 euros a box, 26.92 euros above the single box: on Cardmarket the case is not a discount at all. Our case box sits below the TCGplayer market.",
+          "The shelf has moved since the guide, and the move is down, in one leg. Every M1L price fell a uniform 15 percent: the box $94.91 to $80.67, the case $912.18 to $775.35, the Pokémon Center Set $219.70 to $186.74. Six days ago the single box sat $13.41 above the market box; now it sits $0.35 above it, because the shelf fell 15 percent while the market box fell only $1.18. The case box fell with the shelf, from $76.02 to $64.61, and its margin below the market widened from $5.48 to $15.71."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on M1L.",
+          "The sealed case row deserves a second look: at $64.61 a box it sits $15.71 below the market box, and it is the only sealed route on this shelf that beats the market. The Pokémon Center Set row deserves the opposite look: $186.74 is $48.33 above the sold-out 22,062 yen listing, about $138.41, so the extras are priced dearly. $253.35 buys the gold Mega Lucario ex."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$80.67",
+              "$2.69",
+              "Opening Mega Brave in Japanese",
+              "0.44% above the TCGplayer market box"
+            ],
+            [
+              "Sealed case (12)",
+              "$775.35",
+              "$2.15",
+              "Twelve boxes below the market box",
+              "$775.35 committed at once"
+            ],
+            [
+              "Market box",
+              "$80.32",
+              "$2.68",
+              "One box at the market price",
+              "No case discount; shipping and import on top"
+            ],
+            [
+              "The single",
+              "$253.35 gold Mega Lucario ex",
+              "n/a",
+              "Owning the gold Lucario",
+              "No sealed upside; grading and condition risk"
+            ],
+            [
+              "Pokémon Center Set",
+              "$186.74",
+              "n/a",
+              "The set with the extras",
+              "$48.33 above the sold-out 22,062 yen listing"
+            ],
+            [
+              "M1S box",
+              "$72.22",
+              "$2.41",
+              "Opening the twin set",
+              "A different set; Gardevoir chase, not Lucario"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the verdict, the flip, and the slide",
+        "note": "From the Warehouse: the question we get most about M1L is whether to buy one box or the case. The answer is in the flip: our single box is $0.35 above the TCGplayer box market, and our case box is $15.71 below it. If you are buying one box, you are paying a premium for the shelf. If you are buying twelve, you are buying below the market. Decide how many boxes you actually want before you decide which price to pay.",
+        "paragraphs": [
+          "The top results for this query are all stale on price or silent on the verdict. Our own price board from November 6 gives M1L at $94.91 a box and $76.02 a box in the case, but it is a price board, not a verdict, and its prices are pre-repricing. Samurai Sword Tokyo's booster box price ladder, updated November 14, 2026, lists M1L sealed at 8,974 yen and without shrink at 7,842 yen, but it is a ladder, not a verdict. Samurai's Mega Brave chase guide, updated November 13, 2026, carries core prices from March 2026, the gold at $347 and the Lillie at $333, and its buying advice is explicitly March 2026, eight months stale.",
+          "The strongest of the three, Samurai's chase guide, gets the box right: 30 packs, 180 yen a pack, 5,400 yen official price, the four-tier Lucario ladder, and the gold as a debut rarity. But it carries no November 2026 TCGplayer prices, no case math, no complete-set math, no 092/063 trap, no dated verdict, and it refuses to print an expected-value figure, because the publisher releases no pull rates. What none of the three does is divide a live store's box and case to per-pack, carry November 2026 TCGplayer prices, price the complete set against the box, or give a dated buy-or-wait verdict.",
+          "That missing verdict is the gap this page owns, and the case flip is the second gap. No guide anywhere states that the single box sits $0.35 above the market box while the case box sits $15.71 below it, which is the whole buying decision. The third gap is the slide: the box is down 21 percent in 90 days while the set value is down only 7.0 percent over the same span, and the box itself is flat in the last ten days, $80.55 on November 8 against $80.32 on November 17. The fourth gap is the Tokyo buyback floor: yuyu-tei pays 28,000 yen for the gold Mega Lucario ex, 70 percent of its 39,800 yen ask. The fifth gap is the 092/063 trap: both sets' gold cards are numbered 092/063, so a buyer who checks the number and not the set name buys the wrong gold."
+        ]
+      },
+      {
+        "h": "The chase layer: one $253.35 card and a $515.31 set",
+        "math": [
+          "Gold Mega Lucario ex vs Japanese box: $253.35 / $80.67 = 3.14 boxes",
+          "Gold Mega Lucario ex vs case per box: $253.35 / $64.61 = 3.92 boxes",
+          "Gold Mega Lucario ex vs market box: $253.35 / $80.32 = 3.15 boxes",
+          "Gold Mega Lucario ex fall: $257.80 - $253.35 = $4.45; $4.45 / $257.80 = 1.73% down",
+          "Lillie's Determination SAR vs Japanese box: $79.82 / $80.67 = 0.99 boxes",
+          "Lillie's Determination SAR vs case per box: $79.82 / $64.61 = 1.24 boxes",
+          "Lillie's Determination SAR fall: $102.37 - $79.82 = $22.55; $22.55 / $102.37 = 22.03% down",
+          "Complete set vs Japanese box: $515.31 / $80.67 = 6.39 boxes",
+          "Complete set vs case per box: $515.31 / $64.61 = 7.98 boxes",
+          "Complete set vs market box: $515.31 / $80.32 = 6.42 boxes",
+          "Complete set fall: $548.79 - $515.31 = $33.48; $33.48 / $548.79 = 6.10% down",
+          "Top five chase cards total: $257.80 + $102.37 + $55.68 + $39.17 + $16.95 = $471.97",
+          "Top five share of set value: $471.97 / $548.79 = 86.00%",
+          "Top ten chase cards total: $471.97 + $11.32 + $6.73 + $5.71 + $4.95 + $4.94 = $505.62",
+          "Top ten share of set value: $505.62 / $548.79 = 92.13%",
+          "M1L vs M1S Japanese box: $80.67 - $72.22 = $8.45 per box",
+          "M1L plus M1S boxes: $80.67 + $72.22 = $152.89",
+          "M1S sealed case per box: $657.18 / 12 boxes = $54.77 per box",
+          "M1L plus M1S cases: $775.35 + $657.18 = $1,432.53",
+          "Pokemon Center Set vs Japanese box: $186.74 / $80.67 = 2.31 boxes",
+          "Pokemon Center Set vs 22,062 yen listing: 22,062 yen / 159.4 = $138.41; $186.74 - $138.41 = $48.33 above the ask"
+        ],
+        "paragraphs": [
+          "The chase sits in two cards. The gold Mega Lucario ex, M1L 092, at $253.35 on TCGplayer market as of November 17, 2026, is 3.14 boxes, and the market price sits above the last three recorded sales of $239.48, $228.44 and $229.46, so the market price is the ask side of the card, not the last sale. Lillie's Determination Special Art Rare at $79.82 fell 22.03 percent in six days, from $102.37 on November 11. The set is 92 cards, and the gold [Mega Ultra Rare](/blog/japanese-pokemon-rarity-symbols-explained/) is one of the first two ever printed, with the M1S Gardevoir gold.",
+          "The chase is the warning, and it is arithmetic, not opinion. The gold at $253.35 is 3.14 boxes, Lillie's Determination at $79.82 is 0.99 of a box, and the complete set at $515.31 is 6.39 boxes. The top five cards carried 86.0 percent of the $548.79 set value on November 11, $471.97 of $548.79, while 84 of the 92 cards sat under $5, and the set has since fallen to $515.31, down 6.10 percent in six days. The Pokémon Company publishes no pull rates for M1L, so no box is a calculated chase."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the Center Set premium, and the falling box",
+        "paragraphs": [
+          "The first risk is the chase itself. The gold Mega Lucario ex at $253.35 is 3.14 boxes, Lillie's Determination Special Art Rare at $79.82 fell 22.03 percent in six days, from $102.37 on November 11, and the top five cards carried 86.0 percent of the $548.79 set value on November 11, so the set is five cards and 84 cards under $5. The Pokémon Company publishes no pull rates for M1L, so no expected value may be printed. The community-reported box structure is about 4 RR Mega ex, 3 Art Rares, and 2 Super Rares per box, but that is community-reported, never odds.",
+          "The second risk is the Pokémon Center Set premium. Our shelf price is $186.74, against a sold-out 22,062 yen listing, about $138.41, and a 16,900 yen ask on SNKRDUNK from October 2, about $106.02, so the shelf set is far above every market reference. The third risk is the 092/063 trap: the M1L gold and the M1S Gardevoir gold are both numbered 092/063, and a buyer who searches the number alone can pay M1L money for the Gardevoir gold, or the reverse. Check the set name, not the number.",
+          "The third risk is the falling box. The M1L box is down 21 percent over 90 days, and every Mega Evolution box that trades regularly is down with it, so a box bought as an investment can fall as fast as it rose, and the set value, down only 7.0 percent over the same 90 days, does not protect the sealed price. The box itself is flat in the last ten days, $80.55 on November 8 against $80.32 on November 17: the fall has paused, not reversed. The fourth risk is the single-booster temptation: a single M1L booster runs $2.90 on TCGplayer, which looks cheap until the chase math is divided, because the gold is 3.14 boxes and the box has no published odds. Check the seal, the wrap tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      },
+      {
+        "h": "Context: 92 cards, the first gold, and the twin set",
+        "paragraphs": [
+          "Mega Brave, M1L in the MEGA era, released in Japan on Friday, August 1, 2025, alongside its twin set M1S Mega Symphonia, opens the Mega Evolution era with Mega Lucario ex as its cover card, printed in four tiers up to a gold Mega Ultra Rare that had never existed before. The set is 92 cards: 63 in the base set, 001 to 063, and 29 in the secret tier, 064 to 092, breaking down as 12 Art Rares from 064 to 075, 11 Super Rares from 076 to 086, 5 Special Art Rares from 087 to 091, and 1 Mega Ultra Rare at 092. Sparkl catalogs 93 cards and Serebii lists 98, while its own list ends at 092. The full set breakdown runs in the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/).",
+          "A pack is 180 yen including tax, 5 cards, and a box is 30 packs, 150 cards, at a 5,400 yen official price. The Premium Trainer Box MEGA, released the same day, costs 6,350 yen and holds 10 M1L packs and 10 M1S packs, the source of the 20-pack confusion. The twin set runs in the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/).",
+          "The twin set, M1S Mega Symphonia, is $72.22 a box and $657.18 a case on this shelf, $8.45 a box below M1L, with its Gardevoir gold at $230.63 on November 11. Both boxes together cost $152.89, and both cases together cost $1,432.53. In English, the gold Mega Lucario ex runs $199.77 as of November 9, 2026, the gold Gardevoir ex $151.41 as of November 11, and the Gardevoir Special Illustration Rare $155.31 as of November 9, so the English golds are cheaper than the Japanese golds. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the gold Mega Lucario ex is 3.14 boxes, and no pull rate prices the chase another way. It is not for anyone who wants one box at the market price, because our single box is $0.35 above it. It is not for anyone buying the Pokémon Center Set at our price, because $186.74 sits $48.33 above the sold-out 22,062 yen listing. It is not for anyone who needs the box to hold its value, because the box is down 21 percent in 90 days. And it is not for anyone who wants the Gardevoir chase, because that is M1S at $72.22, not this set."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open Mega Brave, hold it sealed, own the gold Lucario, or own the twin set.",
+          "If the job is the single, buy the single: the gold Mega Lucario ex at $253.35, Lillie's Determination Special Art Rare at $79.82, and check the number, because both sets' gold cards are numbered 092/063.",
+          "If the job is a box, check the pack count first: 30 packs, $2.69 a pack, not 20 packs at $4.03.",
+          "If the job is twelve boxes, take the case at $775.35, or $64.61 a box, which is $15.71 below the $80.32 market box, and do not pay $80.67 for a single box unless one box is truly the plan.",
+          "If the job is the Pokémon Center Set, know the shelf price first: $186.74 against about $138.41 for the sold-out 22,062 yen listing, and decide whether the extras are worth $48.33.",
+          "Check the wrap and seams before you pay, and remember there is no pull rate to divide, so no box is a calculated chase."
+        ],
+        "h": "Action layer: the M1L investment checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 18, 2026, and the marketplace references run November 3 to 17, 2026, so re-divide before you pay if it has moved again."
+        ]
+      }
+    ],
+    "slug": "m1l-investment",
+    "takeaway": [
+      "The M1L Japanese box at $80.67 is $2.69 a pack and $0.54 a card, $46.79 above the official 5,400 yen box price at 159.4 yen per dollar, and $0.35 above the $80.32 TCGplayer market box, while the sealed case at $775.35 divides to $64.61 a box, $15.71 below that same market box. The case is the only sealed price on this shelf that beats the market, and the single box is not.",
+      "It is worth buying as the set that opened the Mega Evolution era, sealed or opened in a case, and it is not worth buying as a way to own one named card or to make the money back by opening. The gold Mega Lucario ex sat at $253.35 on TCGplayer market as of November 17, 2026, which is 3.14 boxes, and the complete set is $515.31, or 6.39 boxes, with the top five cards carrying 86.0 percent of that value on November 11. Buy the single, or buy the box for the set.",
+      "It is worth buying with the twin set in mind: M1S Mega Symphonia is $72.22 a box and $657.18 a case, with its Gardevoir gold at $230.63 on November 11, and both boxes together cost $152.89. In English the gold Mega Lucario ex runs $199.77 as of November 9, 2026, cheaper than the Japanese gold at $253.35, so the Japanese premium is a language premium, not a gold premium.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 3 to 17, 2026. The box is down 21 percent in 90 days while the set value is down only 7.0 percent, and the box is flat in the last ten days, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
+      "For the price-and-math companion, the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) divides the same shelf set by set, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
+      "New this cycle: the [FB09 Dual Evolution investment guide](/blog/fb09-investment/) prices the Dragon Ball twin of this cycle the same way, with the case dividing to $342.13 a box, $72.09 above the market box."
+    ]
+  },
   "m1l-mega-brave-buyers-guide": {
     "datePublished": "2026-11-09",
     "faqs": [
@@ -37721,7 +38141,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The pair costs $179.88 together, and that pair is the honest answer for anyone who wants both flagships from sealed product. Prices move; the method does not. Divide by 30 packs, divide by 12 boxes, and check the set code before you pay.",
       "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the launch pair's Lucario half in depth, box $94.91 against a case that saves $226.74, with the Mega Lucario ex MUR at $259.54.",
       "New this cycle: the [is M1L worth buying guide](/blog/is-m1l-worth-buying/) gives the dated verdict on the Lucario half, with the $76.02 case-box against the $81.50 market box and the gold priced against the box.",
-      "Read the dated verdict in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/)."
+      "Read the dated verdict in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/).",
+      "New this cycle: the [M1L Mega Brave investment guide](/blog/m1l-investment/) prices the Lucario half as an investment, with the case dividing to $64.61 a box, $15.71 below the $80.32 market box."
     ]
   },
   "m1s-mega-symphonia-buyers-guide": {
