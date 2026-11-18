@@ -29792,7 +29792,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is not worth buying as a way to own one named card. Measured English 151 openings put a Special Illustration Rare at about 1 in 32 packs, and one specific card, the Charizard, at about 1 in 224 packs, so the average spend to pull one is 11.2 boxes, $5,277.44, for a card worth about $408 raw. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, and the marketplace references as of October 2 to November 11, 2026. The reprint notice is the fact that outlives every price on this page: the publisher has printed more before, and sealed supply can grow again.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks the shelf by value.",
-      "New this cycle: the [is SV11B Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the newest verdict the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box."
+      "New this cycle: the [is SV11B Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the newest verdict the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box.",
+      "New this cycle: the [SV2A Pokemon 151 investment guide](/blog/sv2a-investment/) divides the $400.52 box and the $3,237.92 case after the November 13 fall, with the Charizard at $395 and the Gengar mirror at $675."
     ]
   },
   "is-sv2d-worth-buying": {
@@ -29983,7 +29984,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Iono set to open, sealed, and it is not worth buying as a way to own the Iono Special Art Rare or to make the money back by opening. The Iono sat at $296.26 on TCGplayer as of November 12, 2026, which is 3.40 boxes, and the Tinkaton ex Special Art Rare at $47.32 is 0.54 of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $15.40 in six days, from $102.64 to $87.24, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,202.87 to $1,022.44. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of October 7 to November 13, 2026. The box now sits $6.57 above its twin SV2P at $80.67, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2P Snow Hazard worth buying guide](/blog/is-sv2p-worth-buying/) runs the same verdict on the cheaper twin, where the chase spreads across two cards at $66.38 together instead of one card at $296.26."
+      "For the price-and-math companion, the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2P Snow Hazard worth buying guide](/blog/is-sv2p-worth-buying/) runs the same verdict on the cheaper twin, where the chase spreads across two cards at $66.38 together instead of one card at $296.26.",
+      "New this cycle: the [SV2D Clay Burst investment guide](/blog/sv2d-investment/) prices the $87.24 box, the $85.20 case box, and the $127.02 Gym Set after the November 13 fall, with the Iono at $275.21, down 7.1 percent in a week."
     ]
   },
   "is-sv2p-worth-buying": {
@@ -50398,7 +50400,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as a sealed hold, and it is not worth buying to own one named card or to make the money back by opening. The Magikarp sat at $120.00 as of November 17, 2026, which is 0.93 of a box, and one named Art Rare averages about one box in four on the community estimate.",
       "It is worth buying with the thin market in mind: the market box saw only one TCGplayer sale in 90 days, the box dropped $22.84 on November 13, 2026, and the Magikarp dropped 6.53 percent in five days. The box now sits $20.51 below the $149.96 market box: divide before you buy, every time.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of September 30 to November 18, 2026. The case box at $113.64 sits $36.32 below the $149.96 market box, and the complete set at $464.50 is 3.59 boxes.",
-      "For the price-and-math companion, the [SV1A Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) runs the same shelf side by side, and the [is SV1A worth buying guide](/blog/is-sv1a-worth-buying/) runs the same verdict after the November 13 repricing. The [SV1S investment guide](/blog/sv1s-investment/) prices the Scarlet ex box the same way, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the whole ladder."
+      "For the price-and-math companion, the [SV1A Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) runs the same shelf side by side, and the [is SV1A worth buying guide](/blog/is-sv1a-worth-buying/) runs the same verdict after the November 13 repricing. The [SV1S investment guide](/blog/sv1s-investment/) prices the Scarlet ex box the same way, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the whole ladder.",
+      "New this cycle: the [SV2A Pokemon 151 investment guide](/blog/sv2a-investment/) prices the next set in the series, box $400.52 against a case that divides to $269.83 a box, with the Charizard at $395."
     ]
   },
   "sv1a-triplet-beat-buyers-guide": {
@@ -50813,7 +50816,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as a sealed hold, and it is not worth buying to own one named card or to make the money back by opening. The Gardevoir sat at $173.00 as of November 18, 2026, which is 1.83 boxes, and the Koraidon ex Special Art Rare at $43.21 is 0.46 of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the thin market in mind: the market box saw only three TCGplayer sales in 90 days, the box dropped $16.72 on November 13, 2026, and the Gardevoir's June range of $250 to $350 sits well above its $173.00 Cardfolio figure. The box now sits $11.92 below the $106.66 market box: divide before you buy, every time.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of September 7 to November 18, 2026. The case box at $78.15 sits $28.51 below the $106.66 market box, and the complete set at $459.00 is 4.84 boxes.",
-      "For the price-and-math companion, the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) runs the same shelf side by side, and the [is SV1S worth buying guide](/blog/is-sv1s-worth-buying/) runs the same verdict after the November 13 repricing. The [SV1A investment guide](/blog/sv1a-investment/) prices the Triplet Beat box the same way, the [is SV1V worth buying guide](/blog/is-sv1v-worth-buying/) runs the same verdict on the cheaper twin, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the whole ladder."
+      "For the price-and-math companion, the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) runs the same shelf side by side, and the [is SV1S worth buying guide](/blog/is-sv1s-worth-buying/) runs the same verdict after the November 13 repricing. The [SV1A investment guide](/blog/sv1a-investment/) prices the Triplet Beat box the same way, the [is SV1V worth buying guide](/blog/is-sv1v-worth-buying/) runs the same verdict on the cheaper twin, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the whole ladder.",
+      "New this cycle: the [SV2D Clay Burst investment guide](/blog/sv2d-investment/) prices the Iono set, box $87.24 against a case that divides to $85.20 a box, with the Gym Set at $127.02 saving $40.89 on two boxes."
     ]
   },
   "sv1s-scarlet-ex-buyers-guide": {
@@ -51182,6 +51186,226 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [is SV1V Violet ex worth buying guide](/blog/is-sv1v-worth-buying/) runs the verdict at the November 13 prices, box $75.03 and case $67.46 a box, with the Miriam called out: the single at $77.80 costs more than the box it comes in."
     ]
   },
+  "sv2a-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "As a sealed hold, yes, at $269.83 a box inside the case and $400.52 as a single box as of November 18, 2026, after both fell exactly 15.00 percent on November 13. As a chase, no: the Charizard ex Special Art Rare is $395, 0.99 of a box, and the Gengar Master Ball mirror is $675, 1.69 boxes, and the pull-rate proxy puts the Charizard at one in 224 packs, or 11.2 boxes on average. Buy the case to hold sealed, and buy the single to own the chase.",
+        "q": "Is SV2A Pokemon Card 151 a good investment?"
+      },
+      {
+        "a": "Against our own singles, yes: the case costs $3,237.92 for 12 boxes, which divides to $269.83 a box, $130.69 less than the $400.52 single box, a saving of $1,568.32 on the case. Against the November 8, 2026 market box of $241.77, no: twelve market boxes cost $2,901.24, so the case costs $336.68 more than the market. Against the CardZ last sold of $311 on November 17, 2026, the case saves $494.08. Two dated sources, two answers.",
+        "q": "Is the SV2A sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Charizard ex Special Art Rare is $395 on SnapHolo as of November 16, 2026, which is 0.99 of a $400.52 box, and the English-measured proxy puts one Charizard in about 224 packs, or 11.2 boxes on average, at a cost of $4,485.82. The Pokemon Company publishes no pull rates for Japanese sets. Buy the single.",
+        "q": "Should I buy an SV2A box to pull the Charizard ex Special Art Rare?"
+      }
+    ],
+    "h1": "SV2A Pokemon 151 Investment: Buy the Case",
+    "intro": [
+      "Short answer: buy the case if the job is twelve boxes, buy the single box second, and buy the Charizard single if the job is the Charizard. The [SV2A Pokemon Card 151 booster box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) is $400.52 on this shelf as of November 18, 2026, down exactly 15.00 percent from $471.20 on November 13, and the [sealed case of twelve](/product/sv2a-pokemon-card-151-sealed-case-12-boxes-japanese-pokemon-card/) is $3,237.92, which divides to $269.83 a box. The Charizard ex Special Art Rare is $395, 0.99 of a box, and the Gengar Master Ball mirror is $675, 1.69 boxes: both are singles.",
+      "This guide answers for three buyers: the collector who wants a sealed 151 hold at the cheapest verified per-box cost, the opener weighing a box against the Charizard single, and the buyer choosing between the case and the open market. It is not for the player who needs tournament-legal cards, or for the buyer who expects a sealed box to pay for itself. Every price below is stamped November 18, 2026."
+    ],
+    "metaDescription": "SV2A box $400.52 fell 15% on Nov 13, and the case divides to $269.83 a box. The Charizard is $395, the Gengar mirror $675. The verdict.",
+    "metaTitle": "SV2A Pokemon 151 Investment: Buy the Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase nothing",
+        "note": "From the Warehouse: the question we get most about 151 is whether the box is still worth it now that the price has fallen. The answer is that the fall is the point: the box was $471.20 on November 11 and $400.52 on November 18, and the case fell the same fifteen percent, so the buyer who waited a week saved $70.68 a box and $571.40 a case. Buy the case for the hold, buy the single for the Charizard, and let the packs stay sealed.",
+        "paragraphs": [
+          "Buy the case if the job is twelve boxes. At $3,237.92 it divides to $269.83 a box, $130.69 less than the $400.52 single and $1,568.32 less than twelve singles. That is the whole verdict in one division, and the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every set.",
+          "Buy the single box if the job is one box. At $400.52 it is $20.03 a pack and $2.86 a card, after falling $70.68 from $471.20 on November 13, 2026. The [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) runs the same verdict after the fall.",
+          "Buy the Charizard single if the job is the Charizard. At $395 as of November 16, 2026 it is 0.99 of a box, and the Gengar Master Ball mirror at $675 is 1.69 boxes: two cards, two singles, no pull-rate gamble. The [SV1A investment guide](/blog/sv1a-investment/) prices the Triplet Beat box the same way."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, and the market",
+        "math": [
+          "SV2A box per pack: $400.52 / 20 packs = $20.03 per pack",
+          "SV2A box per card: $400.52 / 140 cards = $2.86 per card",
+          "SV2A case per box: $3,237.92 / 12 boxes = $269.83 per box",
+          "SV2A twelve single boxes: 12 x $400.52 = $4,806.24",
+          "SV2A case saving per case: $4,806.24 - $3,237.92 = $1,568.32",
+          "SV2A case saving per box: $400.52 - $269.83 = $130.69",
+          "SV2A case saving percent: $1,568.32 / $4,806.24 = 32.63%",
+          "SV2A case per pack: $3,237.92 / 240 packs = $13.49 per pack",
+          "SV2A case per card: $3,237.92 / 1,680 cards = $1.93 per card",
+          "SV2A official box: 20 packs x 290 yen = 5,800 yen; 5,800 yen / 159.42 = $36.38",
+          "SV2A box vs official: $400.52 - $36.38 = $364.14 above official",
+          "SV2A box vs official ratio: $400.52 / $36.38 = 11.01x official",
+          "SV2A case box vs official ratio: $269.83 / $36.38 = 7.42x official",
+          "SV2A box fall since November 11, 2026: $471.20 - $400.52 = $70.68; $70.68 / $471.20 = 15.00%",
+          "SV2A case fall since November 11, 2026: $3,809.32 - $3,237.92 = $571.40; $571.40 / $3,809.32 = 15.00%",
+          "SV2A box vs market box: $400.52 - $241.77 = $158.75 above market",
+          "SV2A box vs market box ratio: $400.52 / $241.77 = 1.66x the market box",
+          "SV2A market box per pack: $241.77 / 20 packs = $12.09 per pack",
+          "SV2A market box per card: $241.77 / 140 cards = $1.73 per card",
+          "SV2A case per box vs market box: $269.83 - $241.77 = $28.06 above market",
+          "SV2A twelve market boxes: 12 x $241.77 = $2,901.24",
+          "SV2A case vs 12 market boxes: $3,237.92 - $2,901.24 = $336.68 more than market",
+          "SV2A case vs 12 market boxes percent: $336.68 / $2,901.24 = 11.60% above market",
+          "SV2A twelve CardZ boxes: 12 x $311.00 = $3,732.00",
+          "SV2A case vs 12 CardZ boxes: $3,732.00 - $3,237.92 = $494.08 per case",
+          "SV2A case vs 12 CardZ boxes percent: $494.08 / $3,732.00 = 13.24% below CardZ",
+          "SV2A box vs KaikanCards box: $400.52 - $350.92 = $49.60 above KaikanCards",
+          "SV2A box vs PokemonPriceTracker average: $409.95 - $400.52 = $9.43 below the average",
+          "SV2A box vs CardZ last sold: $400.52 - $311.00 = $89.52 above the last sold"
+        ],
+        "paragraphs": [
+          "The rate is 159.42 yen to the dollar, the ECB reference for November 18, 2026, so an official box is 20 packs at 290 yen, 5,800 yen, or $36.38. Our box at $400.52 sits $364.14 above official, 11.01 times official, and the case box at $269.83 sits 7.42 times official.",
+          "The fall is uniform, not a verdict on 151. On November 11 the box was $471.20 and the case was $3,809.32; on November 13 both fell exactly fifteen percent. The market did not fall with it: Bill's Archive put the market box at $241.77 on November 8, 2026, down 26 percent over 90 days on 82 TCGplayer sales, and our box still sits $158.75 above it.",
+          "The second check is the Japan spread, and it cuts the other way. CardZ recorded a last sold of $311, or 49,634 yen, on November 17, 2026, with 960 boxes sold in six months, so our box sits $89.52 above the last sold while our case saves $494.08 against twelve. KaikanCards lists its own Japanese 151 box at 319.95 euros on November 10, 2026, about $350.92 at 1.0968.",
+          "The case tension is two dated numbers, not one verdict. Against the November 8 market box the case loses: twelve market boxes cost $2,901.24, so the case costs $336.68 more. Against the November 17 CardZ last sold the case wins: twelve at $311 cost $3,732.00, so the case saves $494.08. The case is a division, not a discount."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict: seven ways to spend on SV2A, priced as of November 18, 2026, with the market rows dated to their checks.",
+          "The case row deserves a second look: at $269.83 a box it saves $130.69 against our own single, loses $28.06 a box against the November 8 market box, and saves $41.17 a box against the November 17 CardZ last sold. The single rows deserve the opposite look: $395 buys the Charizard and $675 buys the Gengar mirror. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$400.52",
+              "$20.03",
+              "Opening 151 at the new price",
+              "$158.75 above the market box"
+            ],
+            [
+              "Sealed case (12)",
+              "$3,237.92",
+              "$13.49",
+              "Twelve boxes at $269.83 each",
+              "$336.68 above 12 market boxes"
+            ],
+            [
+              "Market box",
+              "$241.77",
+              "$12.09",
+              "One box at the TCGplayer price",
+              "Down 26% in 90 days, still falling"
+            ],
+            [
+              "CardZ last sold",
+              "$311.00",
+              "$15.55",
+              "One box at the last sold price",
+              "One sale, not an average"
+            ],
+            [
+              "KaikanCards box",
+              "$350.92",
+              "$17.55",
+              "One box from a JP shop",
+              "$49.60 below our box, euro-priced"
+            ],
+            [
+              "Charizard single",
+              "$395.00",
+              "n/a",
+              "Owning the chase card",
+              "0.99 of a box, no sealed upside"
+            ],
+            [
+              "Gengar mirror single",
+              "$675.00",
+              "n/a",
+              "Owning the mirror chase",
+              "1.69 boxes, no sealed upside"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the fall, the case, and the re-priced chase",
+        "note": "From the Warehouse: the gap we own on SV2A is the shelf after the fall. The price boards print the market, KaikanCards prints its own listing, and nobody divides our live box and case after November 13, or re-prices the Charizard against the new $400.52.",
+        "paragraphs": [
+          "The top results for this query are price boards, not investment cases. KaikanCards compares the Japanese and Chinese 151 sets, Bill's Archive prints the market board, CardZ prints the box page, and PokemonPriceTracker prints the history. Every one prices the box; none divides our live shelf after the November 13 fall, none prices the case against the November 8 market box, and none re-prices the Charizard against the new $400.52 box.",
+          "The first gap is the fall itself. Bill's Archive put the market box at $241.77 on November 8, 2026, down 26 percent over 90 days, and our shelf fell fifteen percent five days later, from $471.20 to $400.52. A guide that prints the shelf without the market hides that our box still sits $158.75 above it.",
+          "The second gap is the case. No top guide divides the $3,237.92 case into $269.83 a box, or sets it against the $241.77 market box, where the case loses by $336.68, and the $311 CardZ last sold, where it saves $494.08. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) runs the same division for every set. The third gap is the re-priced chase: the $408 Charizard was 0.87 of the old $471.20 box, and the $395 Charizard is 0.99 of the new $400.52 box."
+        ]
+      },
+      {
+        "h": "The chase layer: a $395 Charizard and a $675 Gengar",
+        "math": [
+          "Charizard ex SAR vs box: $395.00 / $400.52 = 0.99x the price of a box",
+          "Charizard ex SAR vs case box: $395.00 / $269.83 = 1.46x the price of a case box",
+          "Charizard ex SAR fall: $408.00 - $395.00 = $13.00; $13.00 / $408.00 = 3.19%",
+          "Charizard ex SAR vs old box: $408.00 / $471.20 = 0.87x the old box",
+          "Charizard ex SAR PSA 10 vs raw: $621.00 / $395.00 = 1.57x the raw price",
+          "Gengar Master Ball mirror vs box: $675.00 / $400.52 = 1.69x the price of a box",
+          "Gengar Master Ball mirror vs case box: $675.00 / $269.83 = 2.50x the price of a case box",
+          "Gengar Master Ball mirror vs Charizard: $675.00 / $395.00 = 1.71x the Charizard",
+          "Gengar Master Ball mirror PSA 10 vs raw: $1,200.00 / $675.00 = 1.78x the raw price",
+          "Charizard plus Gengar vs box: ($395.00 + $675.00) / $400.52 = 2.67x the price of a box",
+          "Monster Ball mirror vs box: $9.00 / $400.52 = 0.02x the price of a box",
+          "Expected Charizard pull cost: 11.2 boxes x $400.52 = $4,485.82",
+          "Expected Charizard pull cost vs single: $4,485.82 / $395.00 = 11.36x the single"
+        ],
+        "paragraphs": [
+          "The chase sits in two cards, and both are dearer in boxes than a week ago. The Charizard ex Special Art Rare, 201/165, is $395 on SnapHolo as of November 16, 2026, down $13.00 from $408 on November 11, a fall of 3.19 percent. At the old box the Charizard was 0.87 of a box; at the new box it is 0.99, and the PSA 10 at $621 is 1.57 times raw.",
+          "The second chase is the mirror, not the art. The Gengar Master Ball mirror, 094/165, is $675 on PokeInvest as of November 18, 2026, with the PSA 10 at $1,200, 1.78 times raw. Against the box it is 1.69 boxes, against the case box 2.50, and against the Charizard 1.71 times. The common Monster Ball mirror is about $9 on SNKRDUNK as of September 30, 2026, 0.02 of a box, so the finish is the whole price, not the card.",
+          "The pull math is the warning, and it is a proxy, not a measurement. The Pokemon Company publishes no pull rates for Japanese sets, so the closest measured figure is the English one: measured English 151 openings put about one Special Art Rare per 32 packs, 56 hits in 1,809 packs, summarised by Moonstone on September 7, 2026, and seven Special Art Rares share the slot, so the Charizard lands about once in 224 packs, or 11.2 boxes on average. At $400.52 a box that is $4,485.82 of packs for a $395 card. Buy the single."
+        ]
+      },
+      {
+        "h": "The risk layer: the fall, the thin spread, and the mirrors",
+        "paragraphs": [
+          "The first risk is the fall itself. The market box fell 26 percent over 90 days to $241.77 on November 8, 2026, and our shelf fell fifteen percent five days later, so the buyer who pays $400.52 today is buying into a falling line.",
+          "The second risk is the spread. The market box is $241.77, the CardZ last sold is $311, the KaikanCards listing is about $350.92, and our box is $400.52: four numbers, $158.75 apart. One board is not the market, and the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) runs the same spread for every set.",
+          "The third risk is the mirror. The Gengar Master Ball mirror at $675 is 1.69 boxes while the Monster Ball mirror of the same card is about $9, so the buyer who cannot tell the finishes apart can overpay by $666.00 on one card. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the mirror finishes, and the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the grading math for both chases. Check the finish before you pay, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. The fourth risk is the reprint question: the Pokemon Company issued a made-to-order reprint notice on June 13, 2023 after the first print sold out, and no later notice was found as of October 2, 2026."
+        ]
+      },
+      {
+        "h": "Context: 210 cards, June 2023, and the English set",
+        "paragraphs": [
+          "Pokemon Card 151, SV2A, released in Japan on June 16, 2023, covering the original 151 Pokemon from Kanto. The set carries 210 cards: 165 in the main run plus 45 secret rares, 18 Art Rares, 16 Super Rares, 8 Special Art Rares, and 3 Ultra Rares, at 290 yen a pack for seven cards, with 20 packs in a box and 12 boxes in a case. The official box is 5,800 yen, or $36.38 at 159.42 yen per dollar, and this shelf holds it at 11.01 times that figure.",
+          "Two facts matter before you pay for a chase card. The Charizard ex Special Art Rare is 201/165, the last card in the set, and the Gengar mirror is 094/165, a Rare with a Master Ball pattern finish that English 151 never printed. The [M2 investment guide](/blog/m2-investment/) prices the Mega Charizard set the same way.",
+          "English followed as Scarlet and Violet 151 on September 22, 2023, a 207-card set in 36 packs of 10. Japanese cards are not legal in English-language sanctioned play, so the Japanese box is a collector's box, and this guide makes no claim about Standard legality or rotation for SV2A."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer chasing only the Charizard ex Special Art Rare: the honest answer is the single at $395. It is not for the buyer chasing only the Gengar Master Ball mirror: the honest answer is the single at $675. It is not for the player who needs tournament-legal cards, because this guide verifies no Standard legality for SV2A. It is not for the buyer who wants a sealed box to pay for itself, because the expected pull cost is $4,485.82 for a $395 card. It is not for the buyer who needs to sell fast, because the market box fell 26 percent in 90 days."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: box / 20 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV2A is the case at $269.83 a box, saving $1,568.32 against twelve singles; the single box is $400.52.",
+          "If the job is one card, buy the single. The Charizard ex Special Art Rare is $395. The Gengar Master Ball mirror is $675. Neither is guaranteed in any box.",
+          "If the job is twelve boxes, check both market rows first: the case loses $336.68 against twelve November 8 market boxes and saves $494.08 against twelve November 17 CardZ last solds.",
+          "Remember the chase is two cards: the Charizard is 0.99 of a box and the Gengar mirror is 1.69 boxes, and the expected pull cost for the Charizard is $4,485.82.",
+          "If buying to open, confirm the price is still below the pre-fall figure: it fell $70.68 in two days, and it can move again.",
+          "Check the mirror finish before you pay: the Master Ball Gengar is $675 and the Monster Ball Gengar is about $9."
+        ],
+        "h": "Action layer: the SV2A buying checklist",
+        "paragraphs": [
+          "Run the checklist in order. Price first: if the box is still below the November 11 figure of $471.20, the fall is still on the shelf. Division second: box divided by 20 is your per-pack price, case divided by 12 is your per-box price, and the case is a division, never a discount. Single third: if the job is one card, buy the single and skip the packs. Seal fourth: check the wrap before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      }
+    ],
+    "slug": "sv2a-investment",
+    "takeaway": [
+      "The SV2A box at $400.52 is $20.03 a pack and $2.86 a card, $364.14 above the derived 5,800 yen box price at 159.42 yen per dollar, while the sealed case at $3,237.92 divides to $269.83 a box, $130.69 less than the single and $1,568.32 on the case. Buy the case, buy the box second.",
+      "It is worth buying as a sealed hold, and it is not worth buying to own one named card or to make the money back by opening. The Charizard sat at $395 as of November 16, 2026, which is 0.99 of a box, and the Gengar Master Ball mirror at $675 is 1.69 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the two-source tension in mind: the case loses $336.68 against twelve November 8 market boxes at $241.77 and saves $494.08 against twelve November 17 CardZ last solds at $311. Divide against both sources before you buy, every time.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of September 7 to November 18, 2026. The Charizard at $395 is 0.99 of a box, and the expected pull cost is $4,485.82.",
+      "For the price-and-math companion, the [SV2A Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) runs the same shelf side by side, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) runs the same verdict after the November 13 repricing. The [SV1A investment guide](/blog/sv1a-investment/) prices the Triplet Beat box the same way, and the [SV1S investment guide](/blog/sv1s-investment/) prices the Scarlet ex box the same way."
+    ]
+  },
   "sv2a-pokemon-151-buyers-guide": {
     "datePublished": "2026-11-07",
     "faqs": [
@@ -51534,7 +51758,228 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the set that came five months after Clay Burst at the same $102.64 a box, but with a case that saves $78.62, and a chase that tops out at $37.39, not $296.26.",
       "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, the third Paldea Evolved part beside Clay Burst, with the Magikarp Art Rare at $129.90 carrying 27 percent of the set's value.",
       "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the twin at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90, or 0.42 times a box.",
-      "New this cycle: the [is SV2D Clay Burst worth buying guide](/blog/is-sv2d-worth-buying/) runs the same numbers as a verdict: yes sealed after the fifteen percent fall, the Iono single at $296.26 costs 3.40 boxes, and the Gym Set undercuts two boxes by $40.89."
+      "New this cycle: the [is SV2D Clay Burst worth buying guide](/blog/is-sv2d-worth-buying/) runs the same numbers as a verdict: yes sealed after the fifteen percent fall, the Iono single at $296.26 costs 3.40 boxes, and the Gym Set undercuts two boxes by $40.89.",
+      "New this cycle: the [SV2D Clay Burst investment guide](/blog/sv2d-investment/) prices the same shelf as an investment case: box $87.24, case $85.20 a box, Gym Set $127.02, and the Iono at $275.21, down 7.1 percent in a week."
+    ]
+  },
+  "sv2d-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "As a sealed hold, yes, at $87.24 a box and $85.20 a box in the case, after the November 13, 2026 fall, and as a Gym Set, yes, at $127.02, $40.89 less than the two twin boxes alone. As a chase, no: the Iono is $275.21, 3.15 boxes, and it fell 7.1 percent in a week on the same TCGplayer source. Buy the sealed box to hold, and buy the Iono as a single.",
+        "q": "Is SV2D Clay Burst a good investment?"
+      },
+      {
+        "a": "Barely. The case costs $1,022.44 for 12 boxes, which divides to $85.20 a box, $2.04 less than the $87.24 single box, a saving of $24.44 on the case. That is a division, not a discount. If the job is two boxes, the Gym Set at $127.02 saves $40.89 and beats the case division outright.",
+        "q": "Is the SV2D sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Iono Special Art Rare 096/071 is $275.21 on TCGplayer as of November 17, 2026, which is 3.15 boxes, and the collector estimate for pulling that one card runs 500 to 700 packs, or $1,455.00 to $2,037.00 at $2.91 a pack. The Pokemon Company publishes no pull rates. Buy the single.",
+        "q": "Should I buy an SV2D box to pull the Iono Special Art Rare?"
+      }
+    ],
+    "h1": "SV2D Clay Burst Investment: Buy the Gym Set",
+    "intro": [
+      "Short answer: buy the Gym Set first, the single box second, and never chase the Iono in packs. The [SV2D Clay Burst booster box](/product/sv2d-clay-burst-booster-box-japanese-pokemon-card/) is $87.24 on this shelf as of November 18, 2026, the [sealed case of twelve](/product/sv2d-clay-burst-sealed-case-12-boxes-japanese-pokemon-card/) divides to $85.20 a box, and the [Gym Set](/product/sv2p-snow-hazard-sv2d-clay-burst-pokemon-center-gym-set-japanese-pokemon-card/) at $127.02 buys both twin boxes plus Iono supplies for $40.89 less than the two boxes alone. The Iono Special Art Rare is $275.21 on TCGplayer as of November 17, 2026, down 7.1 percent in a week: buy the single, never the packs.",
+      "This guide answers for three buyers: the collector who wants a sealed hold at the cheapest verified per-box cost, the opener weighing a box against the Iono single, and the buyer choosing between the case and the Gym Set. It is not for the player who needs Standard-legal cards, or the buyer who expects a sealed box to pay for itself."
+    ],
+    "metaDescription": "SV2D box $87.24, case divides to $85.20 a box, Gym Set $127.02 saves $40.89 on two boxes. Iono SAR $275.21, down 7.1% in a week. The verdict.",
+    "metaTitle": "SV2D Clay Burst Investment: Buy the Gym Set",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the Gym Set, buy the box second, chase no Iono",
+        "note": "From the Warehouse: the question we get most about Clay Burst is whether the box is still worth it now that the Iono has started falling. The answer is that the box was never an Iono purchase: the Iono is one card in 99, and the box is a sealed hold on a set that sold out on day one and has not been reprinted since 2024. Buy the box for the set, and buy the single for the Iono.",
+        "paragraphs": [
+          "Buy the Gym Set if the job is two boxes. At $127.02 it holds one Clay Burst box and one Snow Hazard box plus Iono supplies, and the two boxes alone cost $167.91 on this shelf, so the Gym Set saves $40.89 and the supplies ride free. The [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the twin box the same way.",
+          "Buy the single box if the job is one box. At $87.24 it is $2.91 a pack and $0.58 a card, after falling $15.40 from $102.64 on November 8, 2026, exactly fifteen percent in the November 13 repricing. The [is SV2D worth buying guide](/blog/is-sv2d-worth-buying/) runs the same verdict after the fall.",
+          "Buy the Iono single if the job is the Iono. At $275.21 as of November 17, 2026 it is 3.15 boxes, and it fell $21.05 in about a week on the same TCGplayer source, from $296.26 on November 12. The case math is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, the Gym Set, and the market",
+        "math": [
+          "SV2D box per pack: $87.24 / 30 packs = $2.91 per pack",
+          "SV2D box per card: $87.24 / 150 cards = $0.58 per card",
+          "SV2D case per box: $1,022.44 / 12 boxes = $85.20 per box",
+          "SV2D twelve single boxes: 12 x $87.24 = $1,046.88",
+          "SV2D case saving per case: $1,046.88 - $1,022.44 = $24.44",
+          "SV2D case saving per box: $87.24 - $85.20 = $2.04",
+          "SV2D case per pack: $1,022.44 / 360 packs = $2.84 per pack",
+          "SV2D case per card: $1,022.44 / 1,800 cards = $0.57 per card",
+          "SV2D official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.42 = $33.87",
+          "SV2D box vs official: $87.24 - $33.87 = $53.37 above official",
+          "SV2D box vs official ratio: $87.24 / $33.87 = 2.58x official",
+          "SV2D case box vs official ratio: $85.20 / $33.87 = 2.52x official",
+          "SV2D box fall since November 8, 2026: $102.64 - $87.24 = $15.40; $15.40 / $102.64 = 15.00%",
+          "SV2D case fall since November 8, 2026: $1,202.87 - $1,022.44 = $180.43; $180.43 / $1,202.87 = 15.00%",
+          "SV2D box vs Japan ask: 10,621 yen / 159.42 = $66.62; $87.24 - $66.62 = $20.62 above the ask",
+          "SV2D box vs Japan ask ratio: $87.24 / $66.62 = 1.31x the ask",
+          "SV2D Japan ask rise since September 7, 2026: 9,880 yen / 159.42 = $61.97; $66.62 - $61.97 = $4.65 rise",
+          "SV2D Gym Set vs two boxes: $87.24 + $80.67 = $167.91",
+          "SV2D Gym Set saving: $167.91 - $127.02 = $40.89",
+          "SV2D Gym Set per pack: $127.02 / 60 packs = $2.12 per pack",
+          "SV2D Gym Set vs Japan ask: 25,200 yen / 159.42 = $158.07; $158.07 - $127.02 = $31.05 below the ask"
+        ],
+        "paragraphs": [
+          "Every math line below is one division from shelf prices as of November 18, 2026. The rate is 159.42 yen to the dollar, the ECB reference rate, so an official Japanese box is 30 packs at 180 yen, 5,400 yen, or $33.87. Our box sits $53.37 above official, 2.58 times it, and the case box sits 2.52 times it.",
+          "The fall is uniform, not a verdict on Clay Burst. On November 8 the box was $102.64 and the case was $1,202.87; on November 13 both fell exactly fifteen percent, to $87.24 and $1,022.44. The case saving is the thin part: $24.44 on twelve boxes, $2.04 a box, a division, not a deal.",
+          "The Japan spread is the second check, and it moved the other way. Samurai Sword Tokyo lists a sealed box at 10,621 yen, $66.62 at 159.42 yen to the dollar, so our box sits $20.62 above that listing, 1.31 times the ask. The same board listed it at 9,880 yen, $61.97, on September 7, so the Japan ask rose $4.65 while our shelf fell $15.40.",
+          "The Gym Set is the third check, and it changes the verdict. The [SV2P Snow Hazard booster box](/product/sv2p-snow-hazard-booster-box-japanese-pokemon-card/) is $80.67 as of November 18, 2026, so the two twin boxes together cost $167.91, and the Gym Set at $127.02 undercuts them by $40.89 while adding the Iono supplies. The [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) runs the same math for buyers choosing a language."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, Gym Set, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: seven ways to spend on SV2D, priced November 18, 2026. The Gym Set row deserves a second look: at $127.02 it saves $40.89 against the two boxes alone, more than the case saves on twelve boxes. The case row deserves the opposite look: $24.44 on $1,022.44 is a division, and two-box buyers should take the Gym Set instead.",
+          "The single rows deserve the third look: $275.21 buys the Iono and $47.32 buys the Tinkaton ex SAR, with no pull-rate gamble, and the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) runs the whole case ladder. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$87.24",
+              "$2.91",
+              "Opening Clay Burst cheaply",
+              "One $275.21 chase, Iono falling"
+            ],
+            [
+              "Sealed case (12)",
+              "$1,022.44",
+              "$2.84",
+              "Twelve boxes at $85.20 each",
+              "Saves only $24.44 on the case"
+            ],
+            [
+              "Gym Set (SV2P + SV2D)",
+              "$127.02",
+              "$2.12",
+              "Two twin boxes + Iono supplies",
+              "Supplies value varies by buyer"
+            ],
+            [
+              "Japan ask box",
+              "$66.62",
+              "$2.22",
+              "Cheapest sealed box ask",
+              "Asking price, not a sale, plus shipping"
+            ],
+            [
+              "Iono single",
+              "$275.21",
+              "n/a",
+              "Owning the chase card",
+              "3.15 boxes, fell 7.1% in a week"
+            ],
+            [
+              "Tinkaton single",
+              "$47.32",
+              "n/a",
+              "Owning the second chase",
+              "No sealed upside"
+            ],
+            [
+              "Complete set singles",
+              "$562.06",
+              "n/a",
+              "Owning every card",
+              "$38.62 more than six boxes"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the shelf fall, the Gym Set, and the two-source gap",
+        "note": "From the Warehouse: the gap we own on SV2D is the shelf after the fall. The price boards quote the market, the card pages quote the Iono, and nobody divides our live box, our live case, and our live Gym Set against each other.",
+        "paragraphs": [
+          "The top results are our own price board, a card page, a card list, and a set page, not an investment case. Our board lists the box and the Iono; CardZ prices the Iono and its PSA 10; Samurai Sword lists the set against Paldea Evolved; Cardfolio prices the complete set. None divides a live shelf after a fifteen percent fall.",
+          "None of the four runs the box against the Gym Set. A card list can tell you the set has 99 cards and five Special Art Rares; it cannot tell you our box is $87.24 after a $15.40 fall, our case divides to $85.20, or our Gym Set at $127.02 undercuts the two twin boxes by $40.89. The Gym Set is a Pokemon Center and Gym-only release, so a guide that never prices it misses the cheapest way to own both.",
+          "The second gap is the two-source gap on the Iono itself. TCGplayer, via TCGPursuit, put the Iono at $296.26 on November 12, 2026 and $275.21 on November 17, a $21.05 fall, while Cardfolio puts the same card at $181 ungraded on November 18, 2026 (guide-price estimate). The $94.21 gap is a methodology gap, not a verified fall, and the complete-set gap is the same story: $562.06 on TCGplayer against about $417 on Cardfolio.",
+          "The third gap is the rotation. G-mark cards left Standard on January 23, 2026 in Japan, March 26, 2026 on TCG Live, and April 10, 2026 for in-person play, so Clay Burst is a collector hold, not a play buy, and no guide in the top three says so. The [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the same question for graded singles, and the [SV1S investment guide](/blog/sv1s-investment/) shows the same gap on the Gardevoir."
+        ]
+      },
+      {
+        "h": "The chase layer: one $275.21 card and a $562.06 set",
+        "math": [
+          "Iono SAR vs box: $275.21 / $87.24 = 3.15x the price of a box",
+          "Tinkaton ex SAR vs box: $47.32 / $87.24 = 0.54x the price of a box",
+          "Top two chase cards total: $275.21 + $47.32 = $322.53",
+          "Top two vs box: $322.53 / $87.24 = 3.70x the price of a box",
+          "Iono share of complete set: $275.21 / $562.06 = 48.96%",
+          "Top two share of complete set: $322.53 / $562.06 = 57.38%",
+          "Complete set vs box: $562.06 / $87.24 = 6.44 boxes",
+          "Six boxes: 6 x $87.24 = $523.44; complete set $38.62 more than six boxes",
+          "Seven boxes: 7 x $87.24 = $610.68; complete set $48.62 cheaper than seven boxes",
+          "Iono fall, same source: $296.26 - $275.21 = $21.05; $21.05 / $296.26 = 7.11%",
+          "Iono TCGplayer vs Cardfolio gap: $275.21 - $181.00 = $94.21; $94.21 / $275.21 = 34.23%",
+          "Cardfolio complete set vs TCGplayer complete set: $562.06 - $417.00 = $145.06; $145.06 / $562.06 = 25.81%",
+          "Cardfolio Iono vs box: $181.00 / $87.24 = 2.07x the price of a box",
+          "Iono vs English Iono SIR: $275.21 / $50.38 = 5.46x the English print",
+          "Iono vs English Iono SIR difference: $275.21 - $50.38 = $224.83",
+          "Iono PSA 10 vs raw: $454.00 / $275.21 = 1.65x the raw price",
+          "Iono PSA 10 premium: $454.00 - $275.21 = $178.79",
+          "Iono pull estimate, 500 packs: 500 x $2.91 = $1,455.00",
+          "Iono pull estimate, 700 packs: 700 x $2.91 = $2,037.00"
+        ],
+        "paragraphs": [
+          "The chase sits in one card and then falls off a cliff. The Iono Special Art Rare, 096/071, at $275.21 on TCGplayer, November 17, 2026, is 3.15 boxes and 48.96 percent of the $562.06 set value. After it comes the Tinkaton ex SAR at $47.32, 0.54 of a box; the other three SARs, Chi-Yu ex, Ting-Lu ex, and Saguaro, sit below it. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark.",
+          "The chase is the warning, and it is arithmetic. The top two chase cards total $322.53, 3.70 boxes and 57.38 percent of the set value, while the Iono alone costs 5.82 times the Tinkaton. The complete set at $562.06 is 6.44 boxes, so six boxes at $87.24 cost $523.44 and still guarantee no Iono. The complete set as singles costs $38.62 more than six boxes and $48.62 less than seven: neither route wins cleanly.",
+          "The pull math is the second warning, labelled an estimate, not a measurement. The Pokemon Company publishes no pull rates, so the closest figure is a collector estimate of 500 to 700 packs for that one Iono, which is $1,455.00 to $2,037.00 of packs at $2.91 a pack. The English Iono Special Illustration Rare trades at $50.38, so the Japanese print costs 5.46 times the English one."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the falling Iono, and the rotation",
+        "paragraphs": [
+          "The first risk is the chase itself. The Iono is 3.15 boxes, the Tinkaton 0.54 of a box, and the set's value is one card: if the Iono softens, the set softens with it. It already has: the same TCGplayer source put it at $296.26 on November 12 and $275.21 on November 17, a $21.05 fall in about a week, and the PSA 10 at $454 is down 18.81 percent over six months.",
+          "The second risk is the two-source gap. Cardfolio puts the Iono at $181 ungraded and the complete set at about $417, against $275.21 and $562.06 on TCGplayer, so trading the low quote against the high one means trading a $94.21 gap no sale has closed. The third risk is the rotation: G-mark cards are out of Standard since April 10, 2026 for in-person play, still Expanded-legal, so the box sells to collectors only.",
+          "The fourth risk is the reseal, and the fifth is the Gym Set supply. A box at $2.91 a pack looks cheap until the chase math is divided, and a Pokemon Center and Gym-only Gym Set does not restock on demand: $127.02 is the price while stock lasts. Check the seal and wrap before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      },
+      {
+        "h": "Context: 99 cards, Iono, and the English set",
+        "paragraphs": [
+          "Clay Burst, SV2D, released in Japan on April 14, 2023, paired with Snow Hazard the same day. The set carries 99 cards: 71 in the main run plus 28 secret rares, 12 Art Rares, 8 Super Rares, 5 Special Art Rares, and 3 gold Ultra Rares, at 180 yen a pack for five cards, 30 packs a box, 12 boxes a case. The official box is 5,400 yen, or $33.87 at 159.42 yen per dollar.",
+          "Two corrections before any buyer pays for a chase card. Chien-Pao ex is a Snow Hazard card, SV2P, not Clay Burst, and the set carries no Water or Metal Pokemon types: those went to Snow Hazard. The five Clay Burst Special Art Rares are the Iono 096/071, the Tinkaton ex, Chi-Yu ex, Ting-Lu ex, and Saguaro. The [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the Chien-Pao set the same way.",
+          "English followed as Paldea Evolved on June 9, 2023, a 279-card set that combines Clay Burst, Snow Hazard, and Triplet Beat. Japanese cards are not legal in English sanctioned play, so the box is a collector's box, not a tournament box. Clay Burst sold out on day one, saw a made-to-order reprint from August to October 2023, and a further restock from August to September 2024. The [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the next set the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer chasing only the Iono Special Art Rare: the honest answer is the single at $275.21. It is not for the player who needs Standard-legal cards, because G-mark cards left Standard on April 10, 2026. It is not for the buyer who wants a sealed box to pay for itself: the complete set is 6.44 boxes and the chase is one card. It is not for the buyer who needs to sell fast: the Iono fell 7.1 percent in a week."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: G-mark cards are out of Standard since April 10, 2026, and legal in Expanded only.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest two boxes is the Gym Set at $127.02, saving $40.89; the single box is $87.24; the case divides to $85.20 a box.",
+          "If the job is one card, buy the single. The Iono Special Art Rare is $275.21. It is not guaranteed in any box.",
+          "If the job is the complete set, compare first: $562.06 as singles sits between six boxes at $523.44 and seven at $610.68.",
+          "Remember the chase is one card: the Iono holds 48.96 percent of the set's value, and the dearest other SAR is the Tinkaton at $47.32.",
+          "If buying to open, confirm the price is still below the pre-fall figure: it fell $15.40 on November 13, 2026, and it can move again."
+        ],
+        "h": "Action layer: the SV2D buying checklist",
+        "paragraphs": [
+          "Run the checklist in order. Mark first: G is out of Standard, so the box is a collection purchase, not a tournament purchase. Price second: if the box is still below the November 8 figure of $102.64, the fall is still on the shelf. Gym Set third: if the job is two boxes, take the $127.02 Gym Set first. Seal fourth: check the wrap, tension, and pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      }
+    ],
+    "slug": "sv2d-investment",
+    "takeaway": [
+      "The SV2D box at $87.24 is $2.91 a pack and $0.58 a card, $53.37 above the 5,400 yen official box at 159.42 yen per dollar, while the case at $1,022.44 divides to $85.20 a box, $2.04 less than the single. Buy the Gym Set first at $127.02, the box second.",
+      "It is worth buying as a sealed hold, and it is not worth buying to own one named card or to make the money back by opening. The Iono sat at $275.21 on TCGplayer as of November 17, 2026, 3.15 boxes, and the Tinkaton ex SAR at $47.32 is 0.54 of a box. Buy the single, or buy the box for the set.",
+      "It is worth buying with the falling chase in mind: the Iono dropped $21.05 in about a week on the same TCGplayer source, the Cardfolio quote sits $94.21 below it, and the box dropped $15.40 on November 13, 2026. Divide before you buy, every time.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of September 7 to November 18. The box at $87.24 sits $20.62 above the 10,621 yen Japan ask, and the complete set at $562.06 is 6.44 boxes.",
+      "For the price-and-math companion, the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) runs the same shelf side by side, and the [is SV2D worth buying guide](/blog/is-sv2d-worth-buying/) runs the same verdict after the November 13 repricing.",
+      "New this cycle: the [SV2A Pokemon 151 investment guide](/blog/sv2a-investment/) prices the next set in the series, box $400.52 against a case that divides to $269.83 a box, with the Charizard at $395."
     ]
   },
   "sv2p-snow-hazard-buyers-guide": {
