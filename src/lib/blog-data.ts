@@ -21276,7 +21276,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with no format deadline attached: Fusion World has no rotation, and no FB09 card is banned or restricted. English released first, on March 13, 2026, a day ahead of Japanese on March 14, 2026, continuing the order FB08 set, so the English premium is a language premium, not an early-print premium.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 1 to 17, 2026. The shelf fell 15 percent while the market box held at its November 1 figure, which is the fact that outlives every price on this page: shelves reprice on their own schedules, and a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices. The [is FB09 worth buying guide](/blog/is-fb09-worth-buying/) gives the dated verdict on this set; its November 12 money layer divided the Japanese listing as a box, and this page corrects that reading.",
-      "New this cycle: the [M1L Mega Brave investment guide](/blog/m1l-investment/) prices the Pokémon twin of this cycle the same way, with the case dividing to $64.61 a box, $15.71 below the market box."
+      "New this cycle: the [M2 Inferno X investment guide](/blog/m2-investment/) prices the Pokémon set of this cycle the same way, with its case dividing to $94.47 a box, $10.39 below the market box."
     ]
   },
   "fusion-world-booster-box-japanese": {
@@ -24114,7 +24114,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the twin set in mind: M1L Mega Brave is $94.91 a box and $912.18 a case, with its Lucario gold at $257.80, and both boxes together cost $179.88. In English the gold Mega Gardevoir ex runs $151.41 as of November 11, 2026, cheaper than the Japanese gold at $230.63, while the English Special Illustration Rare at $155.31 is dearer than the Japanese Special Art Rare at $75.67, so the language premium runs in opposite directions on the two Gardevoir prints.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of November 3 to 11, 2026. The box is down 11 percent in 90 days while the set value is down 16.9 percent, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) divides the same shelf set by set, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
-      "The next set in the run gets the same treatment in the [is M2 Inferno X worth buying guide](/blog/is-m2-worth-buying/)."
+      "The next set in the run gets the same treatment in the [is M2 Inferno X worth buying guide](/blog/is-m2-worth-buying/). The investment verdict is in the [M1S Mega Symphonia investment guide](/blog/m1s-investment/)."
     ]
   },
   "is-m2-worth-buying": {
@@ -24321,7 +24321,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the neighbours in mind: M1L Mega Brave is $94.91 a box and M1S Mega Symphonia is $84.97, so one M2 box costs $3.30 more than both launch boxes together, and M2a MEGA Dream ex is $114.77 for 10 packs of 10 cards. In English the Charizard prints live in Phantasmal Flames, released November 14, 2025, and Japanese cards are not legal in English sanctioned play, so the Japanese box is a collector's box, not a tournament box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of October 28 to November 11, 2026. The box is down 23 percent in 90 days while the chase cards hold, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M2 Inferno X buyer's guide](/blog/m2-inferno-x-buyers-guide/) divides the same shelf set by set, and the [is M1L worth buying guide](/blog/is-m1l-worth-buying/) prices the launch set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
-      "The twin launch set gets the same treatment in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/)."
+      "The twin launch set gets the same treatment in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/). The investment verdict is in the [M2 Inferno X investment guide](/blog/m2-investment/)."
     ]
   },
   "is-m2a-worth-buying": {
@@ -37778,7 +37778,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the twin set in mind: M1S Mega Symphonia is $72.22 a box and $657.18 a case, with its Gardevoir gold at $230.63 on November 11, and both boxes together cost $152.89. In English the gold Mega Lucario ex runs $199.77 as of November 9, 2026, cheaper than the Japanese gold at $253.35, so the Japanese premium is a language premium, not a gold premium.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 3 to 17, 2026. The box is down 21 percent in 90 days while the set value is down only 7.0 percent, and the box is flat in the last ten days, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) divides the same shelf set by set, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
-      "New this cycle: the [FB09 Dual Evolution investment guide](/blog/fb09-investment/) prices the Dragon Ball twin of this cycle the same way, with the case dividing to $342.13 a box, $72.09 above the market box."
+      "New this cycle: the [M1S Mega Symphonia investment guide](/blog/m1s-investment/) prices the twin set the same way, with its box $5.33 below the $77.55 market box and its case dividing to $54.77 a box. The [FB09 Dual Evolution investment guide](/blog/fb09-investment/) prices the Dragon Ball set of the last cycle the same way, with the case dividing to $342.13 a box, $72.09 above the market box."
     ]
   },
   "m1l-mega-brave-buyers-guide": {
@@ -38143,6 +38143,224 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [is M1L worth buying guide](/blog/is-m1l-worth-buying/) gives the dated verdict on the Lucario half, with the $76.02 case-box against the $81.50 market box and the gold priced against the box.",
       "Read the dated verdict in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/).",
       "New this cycle: the [M1L Mega Brave investment guide](/blog/m1l-investment/) prices the Lucario half as an investment, with the case dividing to $64.61 a box, $15.71 below the $80.32 market box."
+    ]
+  },
+  "m1s-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "Yes, since the repricing. The Warehouse box costs $72.22, and Sparkl put the TCGplayer market box at $77.55 as of November 17, 2026, so our box sits $5.33 below the market box, or 6.87 percent, and twelve market boxes would cost $930.60 against our $657.18 case, a saving of $273.42. Six days ago the same box sat $6.72 above the market box; the shelf fell 15 percent in one leg while the market box fell only $0.70. The case is still the cheaper route at $54.77 a box, $22.78 below the market box, but the single box no longer carries a premium.",
+        "q": "Is the M1S box really cheaper than the market box now?"
+      },
+      {
+        "a": "No. The gold Mega Gardevoir ex, M1S 092, sat at $217.82 on TCGplayer market as of November 17, 2026, which is 3.02 boxes at $72.22, and the complete set is $423.38, or 5.86 boxes. The top five cards carry 85.81 percent of the set value, and 86 of the 92 cards are under $5. The Pokémon Company publishes no pull rates for M1S, so no box is a calculated chase. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an M1S box to pull the gold Mega Gardevoir ex?"
+      },
+      {
+        "a": "Thirty packs of 5 cards, 150 cards, at 180 yen a pack and 5,400 yen a box. The 20-pack figure comes from the Premium Trainer Box MEGA, released the same day, August 1, 2025, which holds 10 M1L packs and 10 M1S packs. At 30 packs our $72.22 box is $2.41 a pack; divided by 20 it would look like $3.61 a pack, which is a different verdict from the same price. Check the listing, and if it does not say 30 packs, ask before you pay.",
+        "q": "Does an M1S box hold 20 packs or 30?"
+      }
+    ],
+    "h1": "M1S Mega Symphonia Investment: Buy the Box",
+    "intro": [
+      "Short answer: yes, for the box at $72.22 and for the case at $657.18. The box sits $5.33 below the $77.55 TCGplayer market box as of November 17, 2026, and the case divides to $54.77 a box, $22.78 below that same market box, so both sealed routes on this shelf now beat the market; six days ago only the case did. Never buy either to pull the gold Mega Gardevoir ex: it runs $217.82, or 3.02 boxes, and the complete set is $423.38, or 5.86 boxes. The set is 92 cards, released August 1, 2025.",
+      "Who this is for: the buyer who wants one box below the market box, the bulk buyer who wants twelve boxes at $54.77 each, and the collector who wants the first gold Mega Ultra Rare in the cheaper twin set. Who it is not for: anyone chasing the gold Gardevoir, who should buy the single at $217.82; anyone buying the Pokémon Center Set, because our $150.71 set sits $17.27 above the Cardmarket price; and anyone who needs the box to hold its value, because the set value is down 19.1 percent in 90 days."
+    ],
+    "metaDescription": "M1S's box is $72.22, $5.33 below a $77.55 market box, and the case divides to $54.77. The gold Gardevoir fell to $217.82.",
+    "metaTitle": "M1S Mega Symphonia Investment: Buy the Box",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the box, buy the case, chase no gold",
+        "note": "From the Warehouse: the question we get most in chat about M1S is whether the box holds 20 packs or 30, because a 20-pack figure circulates from the Premium Trainer Box MEGA, which holds 10 M1L packs and 10 M1S packs. The box holds 30 packs. At 30 packs the $72.22 box is $2.41 a pack; divided by 20 it would look like $3.61 a pack, which is a different verdict from the same price. The second most common question is whether M1S or M1L is the better buy. M1S is $8.45 a box cheaper, its gold is $35.53 cheaper than the M1L gold, and its case box is $9.84 cheaper, so the cheaper twin is M1S on every line. We stock both, and we say so plainly.",
+        "paragraphs": [
+          "The buyer comes first and the route second. A buyer who wants one box buys the [M1S Japanese booster box](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) at $72.22: 30 packs of 5 cards, 150 cards, $2.41 a pack, $0.48 a card. A buyer who wants twelve boxes buys the [M1S sealed case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) at $657.18: $54.77 a box, $1.83 a pack, $0.37 a card. A buyer who wants one named card buys the single: the gold Mega Gardevoir ex at $217.82 or the Gardevoir Special Art Rare at $74.55.",
+          "The box is dear against the official price and cheap against the market. Its official price is 30 packs at 180 yen, or 5,400 yen, which is $33.90 at 159.3 yen per dollar, so our box sits $38.32 above it, at 2.13 times it. But Sparkl put the TCGplayer market box at $77.55 as of November 17, 2026, so our single box sits $5.33 below it, or 6.87 percent, while our case box at $54.77 sits $22.78 below it. Six days ago the single box sat $6.72 above the market box. Both sealed routes beat the market now. The full ladder runs in the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/).",
+          "The chase is the warning, and it is arithmetic, not opinion. The gold Mega Gardevoir ex, M1S 092, at $217.82 is 3.02 boxes, 3.98 case-boxes, and 2.81 market boxes. The complete set at $423.38 is 5.86 boxes, and the top five cards carry 85.81 percent of that value, $363.31 of $423.38, while 86 of the 92 cards sit under $5. The Pokémon Company publishes no pull rates for M1S, so no box is a calculated chase."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, and the market flip",
+        "math": [
+          "M1S Japanese box per pack: $72.22 / 30 packs = $2.41 per pack",
+          "M1S Japanese box per card: $72.22 / 150 cards = $0.48 per card",
+          "M1S sealed case per box: $657.18 / 12 boxes = $54.77 per box",
+          "M1S sealed case per pack: $657.18 / 360 packs = $1.83 per pack",
+          "M1S sealed case per card: $657.18 / 1,800 cards = $0.37 per card",
+          "M1S case saving vs 12 single boxes: (12 x $72.22) - $657.18 = $209.46 per case",
+          "M1S case saving per box: $209.46 / 12 boxes = $17.46 per box",
+          "M1S Japanese box vs official: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.3 = $33.90; $72.22 - $33.90 = $38.32 above official",
+          "M1S Japanese box vs official ratio: $72.22 / $33.90 = 2.13x official",
+          "M1S box vs market box: $77.55 - $72.22 = $5.33 below market",
+          "M1S box vs market box percent: $5.33 / $77.55 = 6.87% below market",
+          "M1S case per box vs market box: $77.55 - $54.77 = $22.78 below market",
+          "M1S case per box vs market box percent: $22.78 / $77.55 = 29.37% below market",
+          "M1S case vs 12 market boxes: (12 x $77.55) - $657.18 = $273.42 per case",
+          "M1S box at 20 packs: $72.22 / 20 packs = $3.61 per pack",
+          "M1S 20-pack error vs 30-pack price: $3.61 - $2.41 = $1.20 per pack",
+          "M1S Japanese box repricing: $84.97 - $72.22 = $12.75; $12.75 / $84.97 = 15.01% down",
+          "M1S sealed case repricing: $773.15 - $657.18 = $115.97; $115.97 / $773.15 = 15.00% down",
+          "M1S Pokemon Center Set repricing: $177.30 - $150.71 = $26.59; $26.59 / $177.30 = 15.00% down",
+          "M1S market box fall Nov 11 to Nov 17: $78.25 - $77.55 = $0.70; $0.70 / $78.25 = 0.89% down",
+          "M1S market box fall Nov 8 to Nov 17: $79.46 - $77.55 = $1.91; $1.91 / $79.46 = 2.40% down",
+          "M1S box vs Cardmarket box: 51.25 euros x 1.0989 = $56.32; $72.22 - $56.32 = $15.90 above Cardmarket",
+          "M1S case vs Cardmarket case: 706.25 euros x 1.0989 = $776.10; $776.10 - $657.18 = $118.92 below Cardmarket",
+          "M1S box vs CardZ last sold: 7,699 yen / 159.3 = $48.33; $72.22 - $48.33 = $23.89 above the last sale",
+          "M1S single booster vs our per-pack: $2.69 - $2.41 = $0.28; our pack is $0.28 below the TCGplayer booster"
+        ],
+        "paragraphs": [
+          "Two tiers, and both are now cheap against the market. The single-box tier is $72.22 a box, $2.41 a pack, $0.48 a card, $5.33 below the $77.55 market box. The case tier is $54.77 a box, $1.83 a pack, $0.37 a card, $22.78 below that same market box. The case saves $209.46 against twelve single boxes, or $17.46 a box, and $273.42 against twelve market boxes.",
+          "The cheapest sealed box on Cardmarket is 51.25 euros, about $56.32, and the case is 706.25 euros, about $776.10, so our box sits $15.90 above the European box while our case sits $118.92 below the European case. CardZ Marketcap records the last sold M1S box at $48.18, or 7,699 yen, on November 17, with 1,567 sold in six months, so our box sits $23.89 above the last completed sale. Sparkl puts a single M1S booster at $2.69 on TCGplayer, $0.28 above our $2.41 per-pack price: for once the box is cheaper per pack than the loose booster. The full board runs in the [Japanese Pokémon booster box price guide](/blog/japanese-pokemon-booster-box-price/).",
+          "The shelf has moved since the guide, and the move is down, in one leg. Every M1S price fell 15 percent: the box $84.97 to $72.22, the case $773.15 to $657.18, the Pokémon Center Set $177.30 to $150.71. Six days ago the single box sat $6.72 above the market box; now it sits $5.33 below it, because the shelf fell 15 percent while the market box fell only $0.70. The case box fell with the shelf, from $64.43 to $54.77, and its margin below the market widened from $13.82 to $22.78."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on M1S.",
+          "The case row deserves a second look: at $54.77 a box it sits $22.78 below the market box, and it is the cheapest sealed route on this shelf by a wide margin. The single-box row deserves the opposite look from six days ago: $72.22 is now $5.33 below the market box, so the one-box buyer no longer pays a premium. The Center Set row: $150.71 is $17.27 above the Cardmarket price of 121.43 euros, about $133.44. $217.82 buys the gold Mega Gardevoir ex."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$72.22",
+              "$2.41",
+              "Opening Mega Symphonia in Japanese",
+              "2.13 times the official 5,400 yen box price"
+            ],
+            [
+              "Sealed case (12)",
+              "$657.18",
+              "$1.83",
+              "Twelve boxes below the market box",
+              "$657.18 committed at once"
+            ],
+            [
+              "Market box",
+              "$77.55",
+              "$2.59",
+              "One box at the market price",
+              "$5.33 above our box; shipping and import on top"
+            ],
+            [
+              "The single",
+              "$217.82 gold Mega Gardevoir ex",
+              "n/a",
+              "Owning the gold Gardevoir",
+              "No sealed upside; grading and condition risk"
+            ],
+            [
+              "Pokémon Center Set",
+              "$150.71",
+              "n/a",
+              "The set with the extras",
+              "$17.27 above the Cardmarket price"
+            ],
+            [
+              "M1L box",
+              "$80.67",
+              "$2.69",
+              "Opening the twin set",
+              "A different set; Lucario chase, not Gardevoir"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the verdict, the flip, and the slide",
+        "note": "From the Warehouse: the question we get most about M1S is whether to buy one box or the case. Six days ago the answer was the case only, because the single box sat $6.72 above the market box. Today the answer is either, because the single box sits $5.33 below it and the case box sits $22.78 below it. Decide how many boxes you actually want before you decide which price to pay, and re-divide before you pay if the shelf moves again.",
+        "paragraphs": [
+          "The top results for this query are stale on price or silent on the verdict. Sparkl's Mega Symphonia page, updated November 17, 2026, carries the freshest numbers anywhere: the box at $77.55, the set at $423.38, the gold at $217.82. But it is a price list, not a verdict: it divides no store box, no case, and no complete set against a box. Bill's Archive, dated November 8, puts the market box at $79.46, down 11 percent over 90 days, on 36 sold, but its prices are nine days old and it gives no buy-or-wait answer. CardZ Marketcap records the last sold box at $48.18 with 1,567 sold in six months, which is a sale, not a verdict.",
+          "The strongest of the three, Samurai Sword Tokyo's Mega Symphonia card list, updated October 22, 2026, gets the box right: 30 packs, 180 yen a pack, 5,400 yen official price, and the four-tier Gardevoir ladder. But it carries no TCGplayer market prices, no case math, no complete-set math, no 092/063 trap, and no dated verdict, and its own box is listed sealed at 8,762 yen and without shrink at 7,319 yen. Guardian TCG's set page, updated November 11, shows a $0.00 set value and no prices at all. What none of the three does is divide a live store's box and case to per-pack, carry November 2026 TCGplayer prices, price the complete set against the box, or give a dated buy-or-wait verdict.",
+          "That missing verdict is the gap this page owns, and the case flip is the second gap. No guide anywhere states that the single box now sits $5.33 below the market box while the case box sits $22.78 below it, which is the whole buying decision. The third gap is the slide: the set value is down 19.1 percent in 90 days, from $524.47 to $424.07, while the box is down only 11 percent, and no top result addresses buy-now-or-wait. The fourth gap is the Tokyo buyback floor: yuyu-tei pays 17,000 yen for the gold Mega Gardevoir ex, 48.85 percent of its 34,800 yen ask, against 70 percent for the sold-out Lucario. The fifth gap is the English split: the English gold is $66.41 cheaper than the Japanese gold, while the English Special Illustration Rare is $80.76 dearer than the Japanese Special Art Rare."
+        ]
+      },
+      {
+        "h": "The chase layer: one $217.82 card and a $423.38 set",
+        "math": [
+          "Gold Mega Gardevoir ex vs Japanese box: $217.82 / $72.22 = 3.02 boxes",
+          "Gold Mega Gardevoir ex vs case per box: $217.82 / $54.77 = 3.98 boxes",
+          "Gold Mega Gardevoir ex vs market box: $217.82 / $77.55 = 2.81 boxes",
+          "Gold Mega Gardevoir ex fall: $230.63 - $217.82 = $12.81; $12.81 / $230.63 = 5.55% down",
+          "Gardevoir SAR vs Japanese box: $74.55 / $72.22 = 1.03 boxes",
+          "Gardevoir SAR vs case per box: $74.55 / $54.77 = 1.36 boxes",
+          "Gardevoir SAR fall: $75.67 - $74.55 = $1.12; $1.12 / $75.67 = 1.48% down",
+          "Complete set vs Japanese box: $423.38 / $72.22 = 5.86 boxes",
+          "Complete set vs case per box: $423.38 / $54.77 = 7.73 boxes",
+          "Complete set vs market box: $423.38 / $77.55 = 5.46 boxes",
+          "Complete set fall Nov 11 to Nov 17: $442.24 - $423.38 = $18.86; $18.86 / $442.24 = 4.26% down",
+          "Top five chase cards total: $217.82 + $74.55 + $25.63 + $25.11 + $20.20 = $363.31",
+          "Top five share of set value: $363.31 / $423.38 = 85.81%",
+          "Top ten chase cards total: $363.31 + $9.36 + $3.94 + $3.42 + $2.81 + $2.77 = $385.61",
+          "Top ten share of set value: $385.61 / $423.38 = 91.08%",
+          "M1S vs M1L Japanese box: $80.67 - $72.22 = $8.45 per box",
+          "M1S gold vs M1L gold: $253.35 - $217.82 = $35.53",
+          "M1S case per box vs M1L case per box: $64.61 - $54.77 = $9.84",
+          "M1L plus M1S boxes: $80.67 + $72.22 = $152.89",
+          "M1L plus M1S cases: $775.35 + $657.18 = $1,432.53",
+          "Pokemon Center Set vs Japanese box: $150.71 / $72.22 = 2.09 boxes",
+          "Pokemon Center Set vs Cardmarket: 121.43 euros x 1.0989 = $133.44; $150.71 - $133.44 = $17.27 above Cardmarket",
+          "English gold Mega Gardevoir ex vs Japanese gold: $217.82 - $151.41 = $66.41",
+          "English Gardevoir SIR vs Japanese SAR: $155.31 - $74.55 = $80.76"
+        ],
+        "paragraphs": [
+          "The chase sits in two cards. The gold Mega Gardevoir ex, M1S 092, at $217.82 on TCGplayer market as of November 17, 2026, is 3.02 boxes, down 5.55 percent from $230.63 on November 11. The Gardevoir Special Art Rare at $74.55 fell only 1.48 percent in the same six days, from $75.67, so the gold is falling faster than the art rare. The gold [Mega Ultra Rare](/blog/japanese-pokemon-rarity-symbols-explained/) is one of the first two ever printed, with the M1L Lucario gold.",
+          "The chase is the warning, and it is arithmetic, not opinion. The gold at $217.82 is 3.02 boxes, the Gardevoir Special Art Rare at $74.55 is 1.03 boxes, and the complete set at $423.38 is 5.86 boxes. The top five cards carry 85.81 percent of the $423.38 set value, $363.31 of $423.38, while 86 of the 92 cards sit under $5, and the set has fallen 4.26 percent in six days and 19.1 percent in 90 days. The Pokémon Company publishes no pull rates for M1S, so no box is a calculated chase."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the Center Set premium, and the falling set",
+        "paragraphs": [
+          "The first risk is the chase itself. The gold Mega Gardevoir ex at $217.82 is 3.02 boxes, the Gardevoir Special Art Rare at $74.55 is 1.03 boxes, and the top five cards carry 85.81 percent of the $423.38 set value, so the set is five cards and 86 cards under $5. The Pokémon Company publishes no pull rates for M1S, so no expected value may be printed. The community-reported box structure is about 4 RR Mega ex, 3 Art Rares, and 2 Super Rares per box, with a possible third Super Rare and up to 2 Special Art Rares, but that is community-reported, never odds.",
+          "The second risk is the Pokémon Center Set premium. Our shelf price is $150.71, against 121.43 euros on Cardmarket, about $133.44, a difference of $17.27. The extras do not close that gap. The 092/063 trap is the other risk here: the M1S gold and the M1L gold are both numbered 092/063, because both sets are 92-card sets, and a buyer who searches the number alone can pay M1L money for the Gardevoir gold, or the reverse. Check the set name, not the number.",
+          "The third risk is the falling set. The set value is down 19.1 percent over 90 days, from $524.47 to $424.07, and down 4.26 percent in the last six days alone, while the market box is down only 11 percent over 90 days and 2.40 percent in the last nine days. The sealed box is holding up better than the cards inside it, which is the wrong way round for an opener. Fourth, the single-booster temptation: a single M1S booster runs $2.69 on TCGplayer, $0.28 above our $2.41 per-pack price, so the loose pack is the dear route for once. Check the seal, the wrap tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      },
+      {
+        "h": "Context: 92 cards, the first gold, and the twin set",
+        "paragraphs": [
+          "Mega Symphonia, M1S in the MEGA era, released in Japan on Friday, August 1, 2025, alongside its twin set M1L Mega Brave, opens the Mega Evolution era with Mega Gardevoir ex as its cover card, printed in four tiers up to a gold Mega Ultra Rare. The set is 92 cards: 63 in the base set, 001 to 063, and 29 in the secret tier, 064 to 092: 12 Art Rares, 11 Super Rares, 5 Special Art Rares, and 1 Mega Ultra Rare. The Gardevoir line runs through all four tiers: Double Rare 053, Super Rare 078, Special Art Rare 087, and gold 092. The full set breakdown runs in the [M1S Mega Symphonia buyer's guide](/blog/m1s-mega-symphonia-buyers-guide/).",
+          "A pack is 180 yen including tax, 5 cards, and a box is 30 packs, 150 cards, at a 5,400 yen official price. The Premium Trainer Box MEGA, released the same day, costs 6,350 yen and holds 10 M1L packs and 10 M1S packs, which is where the 20-pack confusion comes from. The five Mega ex are Mega Gardevoir ex, Mega Latias ex, Mega Kangaskhan ex, Mega Abomasnow ex, and Mega Manectric ex, and the official page confirms a shared connecting-artwork gimmick, with certain Art Rare and Special Art Rare illustrations designed to line up side by side. The twin set runs in the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/).",
+          "The twin set, M1L Mega Brave, is $80.67 a box and $775.35 a case on this shelf, $8.45 a box above M1S, with its Lucario gold at $253.35 on November 17. Both boxes together cost $152.89, and both cases together cost $1,432.53. In English, the gold Mega Gardevoir ex runs $151.41 as of November 11, 2026, the Gardevoir Special Illustration Rare $155.31 as of November 9, so the English gold is cheaper than the Japanese gold while the English Special Illustration Rare is dearer than the Japanese Special Art Rare. Every M1S card carries regulation mark I, and Standard play uses marks H, I, and J since the April 10, 2026 rotation, with no cards banned in Standard as of October 24, 2026, so the whole set is tournament legal. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) divides every case the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the gold Mega Gardevoir ex is 3.02 boxes, and no pull rate prices the chase another way. It is not for anyone buying the Pokémon Center Set at our price, because $150.71 sits $17.27 above the Cardmarket price. It is not for anyone who needs the set to hold its value: the set value is down 19.1 percent in 90 days. And it is not for anyone who wants the Lucario chase, because that is M1L at $80.67, not this set."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open Mega Symphonia, hold it sealed, own the gold Gardevoir, or own the twin set.",
+          "If the job is the single, buy the single: the gold Mega Gardevoir ex at $217.82, the Gardevoir Special Art Rare at $74.55, and check the number, because both sets' gold cards are numbered 092/063.",
+          "If the job is a box, check the market first: $77.55 on TCGplayer as of November 17, 2026, against our $72.22, and do not pay $72.22 unless opening from this shelf is truly the plan.",
+          "If the job is twelve boxes, take the case at $657.18, or $54.77 a box, which is $22.78 below the $77.55 market box, and $273.42 below twelve market boxes.",
+          "If the job is the Pokémon Center Set, know the shelf price first: $150.71 against about $133.44 on Cardmarket, and decide whether the extras are worth $17.27.",
+          "Check the wrap and seams before you pay, and remember there is no pull rate to divide, so no box is a calculated chase."
+        ],
+        "h": "Action layer: the M1S investment checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 18, 2026, and the marketplace references run November 8 to 17, 2026, so re-divide before you pay if it has moved again."
+        ]
+      }
+    ],
+    "slug": "m1s-investment",
+    "takeaway": [
+      "The M1S Japanese box at $72.22 is $2.41 a pack and $0.48 a card, $38.32 above the official 5,400 yen box price at 159.3 yen per dollar, and $5.33 below the $77.55 TCGplayer market box, while the sealed case at $657.18 divides to $54.77 a box, $22.78 below that same market box. Both sealed routes on this shelf now beat the market; six days ago only the case did.",
+      "It is worth buying as the set that opened the Mega Evolution era beside its twin, sealed or opened, and it is not worth buying as a way to own one named card or to make the money back by opening. The gold Mega Gardevoir ex sat at $217.82 on TCGplayer market as of November 17, 2026, which is 3.02 boxes, and the complete set is $423.38, or 5.86 boxes, with the top five cards carrying 85.81 percent of that value. Buy the single, or buy the box for the set.",
+      "It is worth buying with the twin set in mind: M1L Mega Brave is $80.67 a box and $775.35 a case, with its Lucario gold at $253.35 on November 17, and both boxes together cost $152.89. In English the gold Mega Gardevoir ex runs $151.41 as of November 11, 2026, cheaper than the Japanese gold at $217.82, while the English Special Illustration Rare at $155.31 is dearer than the Japanese Special Art Rare at $74.55, so the language premium runs in opposite directions on the two Gardevoir prints.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 8 to 17, 2026. The set value is down 19.1 percent in 90 days while the market box is down only 11 percent, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
+      "For the price-and-math companion, the [M1S Mega Symphonia buyer's guide](/blog/m1s-mega-symphonia-buyers-guide/) divides the same shelf set by set, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
+      "The twin launch set gets the same treatment in the [M1L Mega Brave investment guide](/blog/m1l-investment/), and the next set in the run is the [M2 Inferno X investment guide](/blog/m2-investment/)."
     ]
   },
   "m1s-mega-symphonia-buyers-guide": {
@@ -38683,6 +38901,236 @@ export const POSTS: Record<string, BlogPost> = {
       "The M2 box at $183.18 is the way to open Inferno X, and the case at $1,333.69 is the way to hold or split it at $111.14 per box, saving $864.47 against twelve singles. The set is 116 cards from September 26, 2025, in 30 packs of 5, with Mega Charizard X ex at the top and no box guaranteeing it. Buy the box to open, buy the case to hold or split, buy the Charizard single if it is the only card you want, and do not confuse M2 with M2a. That is the whole article: one store, one date, every division shown.",
       "For the high-class pack beside it, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices the set that introduced the Mega Attack Rare: box $114.77, case $92.93 a box, and the Mega Gengar ex SAR at about $207 on its own.",
       "Read the dated verdict in the [is M2 Inferno X worth buying guide](/blog/is-m2-worth-buying/)."
+    ]
+  },
+  "m2-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "Yes, since the repricing. The Warehouse sealed case at $1,133.64 divides to $94.47 a box, and Sparkl put the TCGplayer market box at $104.86 as of November 17, 2026, so the case box sits $10.39 below the market box, or 9.91 percent, and twelve market boxes would cost $1,258.32 against our $1,133.64 case, a saving of $124.68. Six days ago the same case box sat $7.98 above the market box; the shelf fell 15 percent in one leg while the market box rose $1.70. The single box is still dear at $155.70, $50.84 above the market box, so the case is the only sealed route that beats the market.",
+        "q": "Is the M2 sealed case really cheaper per box than the market box now?"
+      },
+      {
+        "a": "No. The Mega Charizard X ex MUR sat at $633.12 on TCGplayer market as of November 17, 2026, which is 4.07 boxes at $155.70, and the SAR sat at $654.46, which is 4.20 boxes. The two top cards together are $1,287.58, which is 1.14 times one sealed case at $1,133.64: the two best cards in the set now cost more than one case. The Pokémon Company publishes no pull rates for M2, so no box is a calculated chase, and the community estimate is about 1 MUR per 50 boxes. Buy the single, or buy the box to open Inferno X, never to land the gold Charizard.",
+        "q": "Should I buy an M2 box to pull the Mega Charizard X ex MUR?"
+      },
+      {
+        "a": "On TCGplayer the SAR is now the dearer print: $654.46 against the MUR at $633.12 as of November 17, 2026, a gap of $21.34, wider than the $8.19 gap on November 11. In Tokyo they do not trade that way: yuyu-tei asked ¥128,000 for the MUR and ¥89,800 for the SAR on October 28, 2026, so the MUR ask is 1.43 times the SAR ask, and the buybacks were ¥90,000 and ¥63,000, both about 70 percent of the ask. If you want the gold finish, buy the MUR single; if you want the alt art at the lower Tokyo price, buy the SAR single; neither justifies opening boxes.",
+        "q": "Is the SAR or the MUR the better chase card now?"
+      }
+    ],
+    "h1": "M2 Inferno X Investment: Buy the Case",
+    "intro": [
+      "Short answer: no, for the single box at $155.70, and yes, for the sealed case at $1,133.64. The box sits $50.84 above the $104.86 TCGplayer market box as of November 17, 2026, while the case divides to $94.47 a box, $10.39 below that same market box, reversing the $7.98 gap of six days ago. Never buy either to pull the Charizard: the SAR runs $654.46, or 4.20 boxes, the MUR $633.12, or 4.07 boxes, and the complete set is $1,440.89, or 9.25 boxes.",
+      "Who this is for: the bulk buyer who wants twelve boxes below the market box, the collector who wants the set built around Mega Charizard X ex, and the opener who wants Inferno X in Japanese. Who it is not for: anyone chasing the Charizard, who should buy the single at $633.12 or $654.46; anyone who wants one box at the market price, because our single box is $50.84 above it; and anyone buying sealed as an investment, because the box is down 23 percent in 90 days."
+    ],
+    "metaDescription": "M2's case divides to $94.47 a box, $10.39 below the $104.86 market box, while the single box is $155.70. The SAR now tops the MUR.",
+    "metaTitle": "M2 Inferno X Investment: Buy the Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, hold the single box, chase no Charizard",
+        "note": "From the Warehouse: the question we get most in chat about M2 is whether to chase the SAR or the MUR, because the two trade almost equal on TCGplayer while Tokyo prices them far apart. On TCGplayer the SAR at $654.46 now sits $21.34 above the MUR at $633.12, while in Tokyo the MUR ask of ¥128,000 is 1.43 times the SAR ask of ¥89,800. The answer is to buy the single you want, because neither print justifies opening boxes at $5.19 a pack. The second most common question is whether the case is a deal. It is now, against the market box: $94.47 a box against $104.86. We stock it, and we say so plainly.",
+        "paragraphs": [
+          "The buyer comes first and the route second, because M2 punishes the buyer who gets the order backwards. A buyer who wants twelve boxes buys the [M2 Inferno X sealed case](/product/m2-inferno-x-sealed-case-12-boxes-japanese-pokemon-card/) at $1,133.64: $94.47 a box, $3.15 a pack, $0.63 a card. A buyer who wants one box buys the [M2 Inferno X Japanese booster box](/product/m2-inferno-x-booster-box-japanese-pokemon-card/) at $155.70: 30 packs of 5 cards, 150 cards, $5.19 a pack, $1.04 a card. A buyer who wants one named card buys the single: the Mega Charizard X ex MUR at $633.12, or the SAR at $654.46.",
+          "The gap that decides the verdict is the gap to the market. The TCGplayer market box is $104.86 as of November 17, 2026, so our single box is $50.84 above it, or 48.48 percent, and our case box at $94.47 is $10.39 below it. Twelve market boxes would cost $1,258.32, so our case saves $124.68 against the market route. Six days ago the case box sat $7.98 above the market box. The case beats the market, and the single box does not. The full ladder runs in the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/).",
+          "The chase is the warning, and it is arithmetic, not opinion. The Mega Charizard X ex MUR at $633.12 is 4.07 boxes, 6.70 case-boxes, and 6.04 market boxes, and the SAR at $654.46 is 4.20 boxes, 6.93 case-boxes, and 6.24 market boxes. The two top cards together are $1,287.58, which is 1.14 times one sealed case: the two best cards in the set now cost more than one case that may contain neither. The Pokémon Company publishes no pull rates for M2, so there is no expected value to print, and no box is a calculated chase."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, and the market flip",
+        "math": [
+          "M2 Japanese box per pack: $155.70 / 30 packs = $5.19 per pack",
+          "M2 Japanese box per card: $155.70 / 150 cards = $1.04 per card",
+          "M2 sealed case per box: $1,133.64 / 12 boxes = $94.47 per box",
+          "M2 sealed case per pack: $1,133.64 / 360 packs = $3.15 per pack",
+          "M2 sealed case per card: $1,133.64 / 1,800 cards = $0.63 per card",
+          "M2 sealed case saving vs 12 single boxes: (12 x $155.70) - $1,133.64 = $734.76 per case",
+          "M2 sealed case saving per box: $734.76 / 12 boxes = $61.23 per box",
+          "M2 Japanese box vs official: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.3 = $33.90; $155.70 - $33.90 = $121.80 above official",
+          "M2 Japanese box vs official ratio: $155.70 / $33.90 = 4.59x official",
+          "M2 box vs market box: $155.70 - $104.86 = $50.84 above market",
+          "M2 box vs market box percent: $50.84 / $104.86 = 48.48% above market",
+          "M2 case per box vs market box: $104.86 - $94.47 = $10.39 below market",
+          "M2 case per box vs market box percent: $10.39 / $104.86 = 9.91% below market",
+          "M2 case vs 12 market boxes: (12 x $104.86) - $1,133.64 = $124.68 per case",
+          "M2 Japanese box repricing: $183.18 - $155.70 = $27.48; $27.48 / $183.18 = 15.00% down",
+          "M2 sealed case repricing: $1,333.69 - $1,133.64 = $200.05; $200.05 / $1,333.69 = 15.00% down",
+          "M2 market box rise Nov 11 to Nov 17: $104.86 - $103.16 = $1.70; $1.70 / $103.16 = 1.65% up",
+          "M2 box vs Cardmarket box: 73.00 euros x 1.0989 = $80.22; $155.70 - $80.22 = $75.48 above Cardmarket",
+          "M2 case vs Cardmarket case: 1,619.74 euros x 1.0989 = $1,779.93; $1,779.93 - $1,133.64 = $646.29 below Cardmarket",
+          "M2 Cardmarket case per box: $1,779.93 / 12 boxes = $148.33 per box; $148.33 - $94.47 = $53.86 above our case per box",
+          "M2 box vs CardZ last sold: $155.70 - $114.00 = $41.70 above the last sale",
+          "M2 single booster vs our per-pack: $5.19 - $3.26 = $1.93; our pack is $1.93 above the TCGplayer booster"
+        ],
+        "paragraphs": [
+          "Two tiers on this shelf, and only one is cheap. The single-box tier is $155.70 a box, $5.19 a pack, $1.04 a card, $50.84 above the $104.86 market box. The case tier is $94.47 a box, $3.15 a pack, $0.63 a card, $10.39 below that same market box. The case saves $734.76 against twelve single boxes, or $61.23 a box, and $124.68 against twelve market boxes. The flip is the verdict: the case beats the market, the single box does not.",
+          "The official price is 30 packs at 180 yen, or 5,400 yen, which is $33.90 at 159.3 yen per dollar, so our box sits $121.80 above it, at 4.59 times it. Cardmarket lists the box at 73.00 euros, about $80.22, and the case at 1,619.74 euros, about $1,779.93, which divides to $148.33 a box, so our box sits $75.48 above the European box while our case sits $646.29 below the European case. CardZ Marketcap records the last sold M2 box at $114, or 18,286 yen, on November 17, with 1,515 sold in six months, so our box sits $41.70 above the last completed sale. Sparkl puts a single M2 booster at $3.26 on TCGplayer, $1.93 below our $5.19 per-pack price. The full board runs in the [Japanese Pokémon booster box price guide](/blog/japanese-pokemon-booster-box-price/).",
+          "The shelf has moved since the guide, and the move is down, in one leg. Every M2 price fell 15 percent: the box $183.18 to $155.70, the case $1,333.69 to $1,133.64. Six days ago the case box sat $7.98 above the market box; now it sits $10.39 below it, because the shelf fell 15 percent while the market box rose $1.70. The flip happened because the shelf fell, not because the market fell."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: seven ways to spend on M2.",
+          "The sealed case row deserves a second look: at $94.47 a box it saves $61.23 a box against our own singles and $10.39 a box against the market box. The single rows deserve the opposite look: $633.12 buys the MUR and $654.46 buys the SAR, each for less than five boxes, with no pull-rate gamble attached. The M1L row is the honest alternative for a buyer who wants a MEGA-era box at half the price."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$155.70",
+              "$5.19",
+              "Opening Inferno X in Japanese",
+              "48.48% above the TCGplayer market box"
+            ],
+            [
+              "Sealed case (12)",
+              "$1,133.64",
+              "$3.15",
+              "Twelve boxes below the market box",
+              "$1,133.64 committed at once"
+            ],
+            [
+              "Market box",
+              "$104.86",
+              "$3.50",
+              "One box at the market price",
+              "No case discount; shipping and import on top"
+            ],
+            [
+              "MUR single",
+              "$633.12 Mega Charizard X ex",
+              "n/a",
+              "Owning the gold Charizard",
+              "No sealed upside; grading and condition risk"
+            ],
+            [
+              "SAR single",
+              "$654.46 Mega Charizard X ex",
+              "n/a",
+              "Owning the alt-art Charizard",
+              "Priced above the MUR on TCGplayer"
+            ],
+            [
+              "M1L box",
+              "$80.67",
+              "$2.69",
+              "Opening the launch set instead",
+              "A different set; Lucario chase, not Charizard"
+            ],
+            [
+              "M2a box",
+              "$97.55",
+              "$9.76",
+              "Opening the High Class Pack instead",
+              "10 packs of 10 cards; Gengar chase, not Charizard"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the verdict, the flip, and the slide",
+        "note": "From the Warehouse: the question we get most in chat about M2 is whether to chase the SAR or the MUR, because the two trade almost equal on TCGplayer while Tokyo prices them far apart. On TCGplayer the SAR at $654.46 now sits $21.34 above the MUR at $633.12, while in Tokyo the MUR ask of ¥128,000 is 1.43 times the SAR ask of ¥89,800. The answer is to buy the single you want, because neither print justifies opening boxes at $5.19 a pack. The second most common question is whether the case is a deal. It is now, against the market box: $94.47 a box against $104.86. We stock it, and we say so plainly.",
+        "paragraphs": [
+          "The top results for this query are stale on price or silent on the verdict. Sparkl's Inferno X page, updated November 17, 2026, carries the freshest numbers anywhere: the box at $104.86, the set at $1,440.89, the SAR at $654.46, the MUR at $633.12. But it is a price list, not a verdict: it divides no store box, no case, and no complete set against a box. SetPulls, dated November 6, puts Inferno X at $103.32 in the week of October 26, the outlier above a $73.87 to $90.00 band for the other six recent boxes, but its prices are three weeks old. Bill's Archive, dated November 8, puts the market box at $103.04, down 23 percent over 90 days, on 152 sold, but its prices are ten days old.",
+          "The strongest of the three, PACTCG's Inferno X card list, dated October 15, 2026, lists all 116 cards, prices the MUR at $655.30 and the box at $103.16 on TCGplayer as of November 11, and names the community box pattern. But it gives no verdict, no case division, no market-box gap, and no buy-now-or-wait answer. Samurai Sword Tokyo's booster box guide, updated October 24, gets the box right: 30 packs, 180 yen a pack, 5,400 yen official price, and the four-tier Charizard ladder, but it carries no TCGplayer market prices and no dated verdict. What none of the three does is divide a live store's box and case to per-pack, carry November 2026 TCGplayer prices for both top cards, or give a dated buy-or-wait verdict.",
+          "That missing verdict is the gap this page owns, and the case flip is the second gap. No guide anywhere states that the single box sits $50.84 above the market box while the case box sits $10.39 below it, which is the whole buying decision. The third gap is the slide: the box is down 23 percent in 90 days while the set value is down only 7.2 percent, and no top result addresses buy-now-or-wait. The fourth gap is the Tokyo buyback floor: yuyu-tei pays ¥90,000 for the MUR and ¥63,000 for the SAR, both about 70 percent of the ask. The fifth gap is the TCGplayer parity: the SAR trades $21.34 above the MUR in the United States while Tokyo prices the MUR 1.43 times the SAR."
+        ]
+      },
+      {
+        "h": "The chase layer: two $630-plus cards and a $1,440.89 set",
+        "math": [
+          "Mega Charizard X ex MUR vs Japanese box: $633.12 / $155.70 = 4.07 boxes",
+          "Mega Charizard X ex MUR vs case per box: $633.12 / $94.47 = 6.70 boxes",
+          "Mega Charizard X ex MUR vs market box: $633.12 / $104.86 = 6.04 boxes",
+          "Mega Charizard X ex SAR vs Japanese box: $654.46 / $155.70 = 4.20 boxes",
+          "Mega Charizard X ex SAR vs case per box: $654.46 / $94.47 = 6.93 boxes",
+          "Mega Charizard X ex SAR vs market box: $654.46 / $104.86 = 6.24 boxes",
+          "SAR vs MUR: $654.46 - $633.12 = $21.34; the SAR sits $21.34 above the MUR",
+          "MUR fall: $655.30 - $633.12 = $22.18; $22.18 / $655.30 = 3.38% down",
+          "SAR fall: $663.49 - $654.46 = $9.03; $9.03 / $663.49 = 1.36% down",
+          "Top two chase cards total: $654.46 + $633.12 = $1,287.58",
+          "Top two chase cards vs sealed case: $1,287.58 / $1,133.64 = 1.14x the case",
+          "Complete set vs Japanese box: $1,440.89 / $155.70 = 9.25 boxes",
+          "Complete set vs case per box: $1,440.89 / $94.47 = 15.25 boxes",
+          "Complete set vs market box: $1,440.89 / $104.86 = 13.74 boxes",
+          "Top five chase cards total: $654.46 + $633.12 + $25.76 + $22.03 + $20.57 = $1,355.94",
+          "Top five share of set value: $1,355.94 / $1,440.89 = 94.10%",
+          "Top ten chase cards total: $1,355.94 + $10.05 + $9.06 + $6.35 + $5.01 + $4.46 = $1,390.87",
+          "Top ten share of set value: $1,390.87 / $1,440.89 = 96.53%",
+          "M2 vs M1L Japanese box: $155.70 - $80.67 = $75.03 per box",
+          "M2 vs M1S Japanese box: $155.70 - $72.22 = $83.48 per box",
+          "M2 vs M2a Japanese box: $155.70 - $97.55 = $58.15 per box",
+          "M2a box per pack: $97.55 / 10 packs = $9.76 per pack",
+          "M2a sealed case per box: $1,579.78 / 20 boxes = $78.99 per box",
+          "M2 box vs M1L plus M1S boxes: $155.70 - $152.89 = $2.81 per box",
+          "M2 case vs M1L plus M1S cases: ($775.35 + $657.18) - $1,133.64 = $298.89; the twin cases cost $298.89 more",
+          "Tokyo MUR ask in dollars: 128,000 yen / 159.3 = $803.52",
+          "Tokyo SAR ask in dollars: 89,800 yen / 159.3 = $563.72",
+          "MUR Tokyo ask vs SAR Tokyo ask: 128,000 yen / 89,800 yen = 1.43x",
+          "MUR Tokyo buyback: 90,000 yen / 159.3 = $564.97",
+          "SAR Tokyo buyback: 63,000 yen / 159.3 = $395.48",
+          "MUR Tokyo buyback share: 90,000 yen / 128,000 yen = 70.31%",
+          "SAR Tokyo buyback share: 63,000 yen / 89,800 yen = 70.16%"
+        ],
+        "paragraphs": [
+          "The chase sits in two cards. The Mega Charizard X ex SAR, M2 110, at $654.46 on TCGplayer market as of November 17, 2026, is 4.20 boxes, down 1.36 percent from $663.49 on November 10. The MUR, M2 116, at $633.12 fell faster, down 3.38 percent from $655.30 on November 11, so the SAR now sits $21.34 above the MUR, where the gap was $8.19 six days ago. After those two cards the value falls off a cliff: the next card, Oricorio ex SAR, runs $25.76.",
+          "The chase is the warning, and it is arithmetic, not opinion. The SAR at $654.46 is 4.20 boxes and the MUR at $633.12 is 4.07 boxes, and the top five cards carry 94.10 percent of the $1,440.89 set value, $1,355.94 of $1,440.89, while 107 of the 116 cards sit under $5. The complete set at $1,440.89 is 9.25 boxes, and the two top cards together at $1,287.58 are 1.14 times one sealed case."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the case commitment, and the falling box",
+        "paragraphs": [
+          "The first risk is the chase itself. The Mega Charizard X ex MUR at $633.12 is 4.07 boxes and the SAR at $654.46 is 4.20 boxes, and after those two cards the value falls off a cliff: the next card, Oricorio ex SAR, runs $25.76. The Pokémon Company publishes no pull rates for M2, so no expected value may be printed, and the community estimate is about 1 MUR per 50 boxes, with an SAR in about 1 of every 3 boxes. The community box pattern is 1 Super Rare or better, 1 Item Super Rare, 3 Art Rares, and 5 Double Rares per sealed box, but that is community-reported, never odds.",
+          "The second risk is the case commitment. The sealed case at $1,133.64 is a deal against the market box now, but it is $1,133.64 at once, and a buyer who wants one box pays $155.70 on this shelf against $104.86 on the market, a $50.84 premium for opening from this shelf. A buyer who buys the case to save money must actually want twelve boxes. The third risk is the falling box. The M2 box is down 23 percent over 90 days, and every Mega Evolution box that trades regularly is down with it, so a box bought as an investment can fall as fast as it rose, and the chase cards do not protect the sealed price.",
+          "The fourth risk is the single-booster temptation and the reseal. A single M2 pack runs $3.26 on TCGplayer, which looks cheap until the chase math is divided, because the MUR is 4.07 boxes and the box has no published odds. Check the seal, the wrap tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first. A box opened is a box that cannot be returned as sealed."
+        ]
+      },
+      {
+        "h": "Context: 116 cards, one Charizard four ways, and the language line",
+        "paragraphs": [
+          "Inferno X, set code M2, is the third set in the MEGA era, released in Japan on Friday, September 26, 2025, built around Fire-type offense and Mega Evolution, with Mega Charizard X ex as its cover card, printed in four tiers. The set is 116 cards: 80 in the base set, 001 to 080, and 36 in the secret tier, 081 to 116, breaking down as 12 Art Rares from 081 to 092, 17 Super Rares from 093 to 109, 6 Special Art Rares from 110 to 115, and 1 Mega Ultra Rare at 116. The gold Mega Ultra Rare is the set's only gold card, and it uses a brand-new illustration. The full set breakdown runs in the [M2 Inferno X buyer's guide](/blog/m2-inferno-x-buyers-guide/).",
+          "A pack is 180 yen including tax, 5 cards, and a box is 30 packs, 150 cards, at a 5,400 yen official price. The four Charizard printings are the RR at 013/080, the SR at 094/080 for $22.03, the SAR at 110/080 for $654.46, and the MUR at 116/080 for $633.12, all on TCGplayer market as of November 17, 2026. The follow-up High Class Pack, M2a MEGA Dream ex, is a different product: 10 packs of 10 cards for $97.55, with Mega Gengar ex as its chase, and its case holds 20 boxes at $78.99 a box. The [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) divides it the same way.",
+          "The language line is the boundary every buyer should know before paying. Japanese cards are not legal in English-language sanctioned play, so the Japanese M2 box is a collector's box and an opener's box, not a tournament box outside Japan. The English prints live in Phantasmal Flames, released November 14, 2025, which carries regulation mark I, and the 2026 rotation, effective April 10, 2026, left marks H, I, and J legal in Standard. As of November 2026 exactly zero cards are banned in Standard, so no M2 card is banned or restricted. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the MUR is 4.07 boxes and the SAR is 4.20 boxes, and no pull rate prices the chase another way. It is not for anyone who wants one box at the market price, because our single box is $50.84 above it and our case box is $10.39 below it: the market box is $104.86. It is not for anyone buying the sealed case unless twelve boxes is truly the plan, because the case costs $1,133.64 at once. It is not for anyone who needs the box to hold its value, because the box is down 23 percent in 90 days. And it is not for anyone who wants to play the cards in an English sanctioned event, because Japanese cards are not legal there."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open Inferno X, hold it sealed, own the Charizard, or own a cheaper MEGA-era box.",
+          "If the job is the single, buy the single: the MUR at $633.12 or the SAR at $654.46, and check the number, because 116/080 is the MUR, 110/080 the SAR, 094/080 the SR, and 013/080 the RR.",
+          "If the job is a box, check the market first: $104.86 on TCGplayer as of November 17, 2026, against our $155.70, and do not pay $155.70 unless opening from this shelf is truly the plan.",
+          "If the job is twelve boxes, take the case at $1,133.64, or $94.47 a box, which is $10.39 below the $104.86 market box, and $124.68 below twelve market boxes.",
+          "If the job is a cheaper MEGA-era box, price the neighbours first: M1L at $80.67, M1S at $72.22, and M2a at $97.55, all on the same shelf.",
+          "Check the wrap and seams before you pay, and remember there is no pull rate to divide, so no box is a calculated chase."
+        ],
+        "h": "Action layer: the M2 buying checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 18, 2026, and the marketplace references run October 28 to November 17, 2026, so re-divide before you pay if it has moved again."
+        ]
+      }
+    ],
+    "slug": "m2-investment",
+    "takeaway": [
+      "The M2 Inferno X Japanese box at $155.70 is $5.19 a pack and $1.04 a card, $121.80 above the official 5,400 yen box price at 159.3 yen per dollar, and $50.84 above the $104.86 TCGplayer market box, while the sealed case at $1,133.64 divides to $94.47 a box, $10.39 below that same market box, reversing the $7.98 gap the November 12 guide recorded. The case beats the market box, and the single box does not.",
+      "It is worth buying as the set built around Mega Charizard X ex, opened in Japanese from the case, and it is not worth buying as a way to own one named card or to make the money back by opening. The Mega Charizard X ex SAR sat at $654.46 on TCGplayer market as of November 17, 2026, which is 4.20 boxes, and the MUR sat at $633.12, which is 4.07 boxes, with the top two cards together at $1,287.58, more than one sealed case. Buy the single, or buy the box to open Inferno X.",
+      "It is worth buying with the neighbours in mind: M1L Mega Brave is $80.67 a box and M1S Mega Symphonia is $72.22, so one M2 box costs $2.81 more than both launch boxes together, and M2a MEGA Dream ex is $97.55 for 10 packs of 10 cards. In English the Charizard prints live in Phantasmal Flames, released November 14, 2025, and Japanese cards are not legal in English sanctioned play, so the Japanese box is a collector's box, not a tournament box.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of October 28 to November 17, 2026. The box is down 23 percent in 90 days while the set value is down only 7.2 percent, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
+      "For the price-and-math companion, the [M2 Inferno X buyer's guide](/blog/m2-inferno-x-buyers-guide/) divides the same shelf set by set, and the [is M1L worth buying guide](/blog/is-m1l-worth-buying/) prices the launch set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
+      "The twin launch set gets the same treatment in the [M1S Mega Symphonia investment guide](/blog/m1s-investment/), which prices the cheaper twin the same way, with its box $5.33 below its market box and its case dividing to $54.77."
     ]
   },
   "m2a-mega-dream-ex-buyers-guide": {
