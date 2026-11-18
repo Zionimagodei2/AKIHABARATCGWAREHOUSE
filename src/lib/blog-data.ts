@@ -27280,7 +27280,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the anniversary set to open, sealed, and it is not worth buying as a way to own the Xebec Super Alternate Art or to make the money back by opening. The Xebec sat at $6,100.00 on TCGplayer on November 12, 2026, which is 59.17 boxes, and the Shanks Manga at $1,470.07 is 14.26 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the Japanese box dropped $18.19 in nine days, from $121.28 to $103.09, fifteen percent in one leg on November 13, 2026, and the English box fell thirty-two percent in two legs, from $212.09 to $144.22. The chase fell too: the Luffy Super Leader dropped 12.18 percent since October 25, from $1,383.43 to $1,214.98.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 25 to November 12, 2026. The box now sits $198.33 below the FoilKraken November 1 sealed figure of $301.42, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-16 worth buying guide](/blog/is-op-16-worth-buying/) runs the same verdict on the Marineford set, where the Japanese case is also a premium and the English case also saves."
+      "For the price-and-math companion, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-16 worth buying guide](/blog/is-op-16-worth-buying/) runs the same verdict on the Marineford set, where the Japanese case is also a premium and the English case also saves. For the investment version of this set, the [OP-17 World's Strongest Warriors investment guide](/blog/op-17-investment/) runs the same division on a $144.22 English box, $151.78 below a $296 market."
     ]
   },
   "is-op-18-worth-buying": {
@@ -27467,7 +27467,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as a pre-order, sealed, and it is not worth buying as a way to own an Amano card or to make the money back by opening. The Loki Amano parallel ask sat at $599.99 on TCGplayer on November 12, 2026, which is 8.40 boxes, and the Saint Shamrock Amano parallel ask at $499.99 is 7.00 boxes. Those are asks, not sales, and Bandai has published no pull rates.",
       "It is worth buying with the price path in mind: the Japanese box rose twenty percent from $70.00 to $84.00 between October 24 and November 4, 2026, then fell fifteen percent to $71.40 on November 13, and the case did the same, from $755.00 to $906.00 to $770.10. The case saving survived both legs.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of November 12 to 13, 2026. The box now sits as the second-cheapest Japanese One Piece box on the shelf, after OP-15 at $59.06, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-18 The Dominance of God preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the October prices side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case charges a premium instead of saving."
+      "For the price-and-math companion, the [OP-18 The Dominance of God preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the October prices side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case charges a premium instead of saving. For the investment version of this set, the [OP-18 The Dominance of God investment guide](/blog/op-18-investment/) runs the same division on a pre-order English case at $94.68 a box."
     ]
   },
   "is-prb-01-worth-buying": {
@@ -45628,7 +45628,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The OP-16 English case is the buy: $1,313.20 divides to $109.43 a box, $4.56 a pack and $0.38 a card, $98.94 below the November 17, 2026 market figure per box, and $441.56 below twelve singles on our own shelf. The English box at $146.23 is the second buy, $62.14 below the same market, the cheapest English box since OP-13. The Japanese box at $89.25 is the opener's buy only if the opening is the purchase, $3.72 a pack, and the Japanese case at $1,071.92 is twelve boxes in one carton, not a bulk deal, costing $0.92 more than twelve singles.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, English prices down 32% and Japanese prices down 15% since November 3, the market figure as of November 17, 2026, the CardZ references as of November 16, 2026, and the Kuzan price as of November 16, 2026. When the next repricing lands, re-run the division: the gap that makes OP-16 the buy today is a shelf price and a market price, and either one can move.",
-      "For the opener's version of this set, the [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-16 worth buying](/blog/is-op-16-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-15 Kami's Island investment guide](/blog/op-15-investment/) runs the same division on a $181.24 English box. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+      "For the opener's version of this set, the [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-16 worth buying](/blog/is-op-16-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-15 Kami's Island investment guide](/blog/op-15-investment/) runs the same division on a $181.24 English box. For the set after, the [OP-17 World's Strongest Warriors investment guide](/blog/op-17-investment/) runs the same division on a $144.22 English box, $151.78 below a $296 market. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
     ]
   },
   "op-16-the-time-of-battle-buyers-guide": {
@@ -45840,6 +45840,210 @@ export const POSTS: Record<string, BlogPost> = {
       "For the worth-buying verdict on this set, see [Is OP-16 The Time of Battle Worth Buying?](/blog/is-op-16-worth-buying/)."
     ]
   },
+  "op-17-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "On price alone, yes for the English case and the English box, and yes for the Japanese box only as the opener, and only if you accept that it sits $38.07 above its market reference. The English case divides to $121.47 a box against a $296 market figure from November 17, 2026, and saves $272.97 against twelve singles on our own shelf. The English box at $144.22 sits $151.78 below that same market, 51.28% below, the widest percentage gap since OP-13. The Japanese box at $103.09 is the dearest Japanese box in the run against its own reference: CardZ's last sold figure is $65.02 on November 16, 2026. Nothing here is a promise. OP-17 is Block 5 and a reprint would cut the market the way the 2024 reprint cut OP-01 by 57% in a month. Buy the case because the division is wide, not because the price can only rise.",
+        "q": "Is OP-17 World's Strongest Warriors a good investment?"
+      },
+      {
+        "a": "Because the Japanese box is priced against a different market, not because the English box is dearer. The English box at $144.22 and the Japanese box at $103.09 sit $41.13 apart, and the English pack holds twelve cards against six in the Japanese pack, yet the English card costs $0.50 against $0.72 in Japanese. OP-17 is the second set in a row where the English card is cheaper than the Japanese card, after OP-16 at $0.51 against $0.62. The English case divides further, to $121.47 a box and $0.42 a card, which is where the English buy lives. A buyer who chooses on box price alone sees a $41.13 gap and buys the dearer card. Choose the language first, then divide within it.",
+        "q": "Why does the OP-17 English box cost more than the Japanese box when the English card is cheaper?"
+      },
+      {
+        "a": "Keep it sealed. A typical opened OP-17 box returns $85.85 against a $301.42 sealed price, 28.48% of the sealed price, and only 8% of simulated boxes beat the sealed price at all, in the November 1, 2026 FoilKraken box-value report. The average opened box returns $158.71, which is $14.49 above our English box at $144.22, so the average opener still loses to the sealed price by $142.71. The Xebec Super Alternate Art sat at $6,100.00 on TCGplayer on November 17, 2026, and Bandai has never published pull rates for any One Piece set, so no opening can be priced as a plan. If you want to open The World's Strongest Warriors, open the Japanese box at $103.09, $4.30 a pack, knowing it sits $38.07 above its market reference, and hold the English case sealed.",
+        "q": "Should I open an OP-17 box or keep it sealed?"
+      }
+    ],
+    "h1": "OP-17 World's Strongest Warriors Investment: Buy the Case",
+    "intro": [
+      "Short answer: buy the English sealed case, hold the English box, open the Japanese box only if the opening is the purchase, and skip the Japanese case entirely. On our shelf as of November 18, 2026, the [OP-17 English sealed case](/product/op-17-the-worlds-strongest-warriors-sealed-case-12-boxes-english-one-piece-card/) costs $1,457.67, or $121.47 a box, against a $296 market figure from November 17, 2026. The [OP-17 English box](/product/op-17-the-worlds-strongest-warriors-booster-box-english-one-piece-card/) costs $144.22, $151.78 below that market. The [OP-17 Japanese case](/product/op-17-the-worlds-strongest-warriors-sealed-case-12-boxes-japanese-one-piece-card/) costs $1,239.30, or $103.28 a box, and the [OP-17 Japanese box](/product/op-17-the-worlds-strongest-warriors-booster-box-japanese-one-piece-card/) costs $103.09, the dearest Japanese box in the run against its own market.",
+      "Who this is for: sealed collectors who want the fourth-anniversary set, buyers choosing between the English box and the English case now that the case saves $22.75 a box, and case splitters who divide before they pay. Who it is not for: anyone buying to pull the Xebec Super Alternate Art, because a typical opened box returns 28.48% of the sealed price; anyone who chooses on box price alone, because the two languages cost $41.13 apart per box while the English card is $0.22 cheaper per card; anyone who expects the Japanese case to discount, because it costs $2.22 more than twelve singles; and anyone who reads a 15% Japanese shelf fall as a market crash, because the market fell only 7.58% since October 25 while our shelf fell 32% in English and 15% in Japanese. The $38.07 gap is the whole story of this page."
+    ],
+    "metaDescription": "OP-17's English box is $144.22, $151.78 below a $296 market. The English case divides to $121.47 a box and saves $272.97.",
+    "metaTitle": "OP-17 World's Strongest Warriors Investment: Buy the Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the English case, hold the English box, skip the Japanese case",
+        "note": "From the Warehouse: the question we get most about OP-17 is why the Japanese box costs $103.09 when every market tracker says the Japanese box trades near $65 to $98. It sat at $121.28 on November 4, and the answer is that our shelf fell on both sides, the English box 32% in two legs to $144.22 and the Japanese box 15% in one leg to $103.09, and neither side has moved since November 13. The box did not get cheaper because the set got worse; the shelf repriced once and the Japanese market sits far below it. That is why this page dates every market figure and divides the case every time, even when the last four sets taught you the case usually wins.",
+        "paragraphs": [
+          "The English case is the buy because the division is the widest in the set. Twelve boxes for $1,457.67 divide to $121.47 a box, $5.06 a pack and $0.42 a card, every one $174.53 below the November 17, 2026 market figure of $296. The case saves $272.97 against twelve singles on our own shelf, $22.75 a box. A buyer who wants English The World's Strongest Warriors in bulk buys the case.",
+          "The English box is the second buy, and the cheapest English box in the run. At $144.22 it is $6.01 a pack and $0.50 a card, $151.78 below the $296 market, 51.28% below, the widest percentage gap since OP-13. It is the same box that cost $212.09 when the OP-17 buyer's guide priced it on November 4, after falling 32% in two legs before November 13: the English side has not moved since, while the Japanese side fell 15% in one leg. A buyer who wants one box buys this one and holds it sealed. The [OP-16 Time of Battle investment guide](/blog/op-16-investment/) runs the same division on the set before The World's Strongest Warriors, where the English box sits $62.14 below its market.",
+          "The Japanese box is the opener's buy only if the opening is the purchase. At $103.09 it is $4.30 a pack and $0.72 a card, the cheapest way into the anniversary pool, and $38.07 above CardZ's last sold figure of $65.02 on November 16, 2026. The Japanese case at $1,239.30 is not a bulk buy: it divides to $103.28 a box, $0.19 above the single box, $2.22 across twelve boxes. The [OP-17 The World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the same four products for the opener."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and a Japanese box priced against a different market",
+        "math": [
+          "OP-17 Japanese box: $103.09 / 24 packs = $4.30 per pack; $103.09 / 144 cards = $0.72 per card",
+          "OP-17 Japanese box vs list: 240 yen x 24 = 5,760 yen; 5,760 yen / 159.5 = $36.11; $103.09 / $36.11 = 2.85x list; $103.09 - $36.11 = $66.98 above list",
+          "OP-17 Japanese case: $1,239.30 / 12 boxes = $103.28 per box; $103.28 / 24 packs = $4.30 per pack; $103.28 / 144 cards = $0.72 per card",
+          "OP-17 Japanese case vs 12 singles: 12 x $103.09 = $1,237.08; $1,239.30 - $1,237.08 = $2.22 more; $2.22 / 12 = $0.19 more per box",
+          "OP-17 English box: $144.22 / 24 packs = $6.01 per pack; $144.22 / 288 cards = $0.50 per card",
+          "OP-17 English box vs MSRP: $4.99 x 24 = $119.76; $144.22 - $119.76 = $24.46 above MSRP; $144.22 / $119.76 = 1.20x MSRP",
+          "OP-17 English case: $1,457.67 / 12 boxes = $121.47 per box; $121.47 / 24 packs = $5.06 per pack; $121.47 / 288 cards = $0.42 per card",
+          "OP-17 English case vs 12 singles: 12 x $144.22 = $1,730.64; $1,730.64 - $1,457.67 = $272.97 saved; $272.97 / 12 = $22.75 saved per box",
+          "OP-17 English box vs market: $296.00 - $144.22 = $151.78 below the Nov 17, 2026 market figure; $151.78 / $296.00 = 51.28% below market",
+          "OP-17 English case per box vs market: $296.00 - $121.47 = $174.53 below the Nov 17 market figure per box",
+          "OP-17 Japanese box price path Nov 4 to Nov 18: $121.28 - $103.09 = $18.19; $18.19 / $121.28 = 15.00% in 14 days",
+          "OP-17 English box price path Nov 4 to Nov 18: $212.09 - $144.22 = $67.87; $67.87 / $212.09 = 32.00% in 14 days",
+          "OP-17 Japanese box vs CardZ last sold: $103.09 - $65.02 = $38.07 above the Nov 16, 2026 last sold figure; $103.09 / $65.02 = 1.59x",
+          "OP-17 Japanese box vs OP Box Index eBay: $103.09 - $98.00 = $5.09 above the Nov 17, 2026 eBay-from figure",
+          "OP-17 language gap: $144.22 - $103.09 = $41.13 per box; $6.01 - $4.30 = $1.71 per pack; $0.50 - $0.72 = $0.22 cheaper per card in English",
+          "OP-17 opened-box return: $85.85 / $301.42 = 28.48% of the sealed price (FoilKraken, Nov 1, 2026); 8% of simulated boxes beat the sealed price",
+          "OP-17 average opened box: $158.71 - $144.22 = $14.49 above our English box (FoilKraken, Nov 1, 2026)",
+          "OP-17 market path Oct 25 to Nov 17: $320.26 - $296.00 = $24.26; $24.26 / $320.26 = 7.58% down while our Japanese shelf fell 15.00%",
+          "OP-17 vs OP-16 English box: $146.23 - $144.22 = $2.01; OP-17 vs OP-16 market: $296.00 - $208.37 = $87.63",
+          "OP-17 vs OP-15 English box: $181.24 - $144.22 = $37.02; OP-17 vs OP-15 market: $296.00 - $237.43 = $58.57"
+        ],
+        "paragraphs": [
+          "Every line above is one division from a shelf price as of November 18, 2026, or one subtraction from a dated market figure. Two legs on the English side, one on the Japanese: the English box fell 32% from $212.09 to $144.22 before November 13, and the Japanese box fell exactly 15% between November 4 and November 18, 2026, $121.28 to $103.09. Neither side has moved since November 13. The English box was $212.09 when the OP-17 buyer's guide priced it on November 4, and the English case sits at $1,457.67 today. The market moved the other way in scale: the English box traded at $320.26 on October 25, 2026, and at $296 on November 17, 2026, down $24.26 while our shelf fell 32% in English and 15% in Japanese. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game we carry.",
+          "The split is the whole trade. Our Japanese box sits $38.07 above CardZ's $65.02 last sold figure, while our English box sits $151.78 below the $296 market. Buy the English case, hold the English box, open the Japanese box only if the opening is the purchase."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, single, or wait, in both languages",
+        "paragraphs": [
+          "The table's first row is the decision. The English case wins on every per-unit figure: $121.47 a box, $5.06 a pack, $0.42 a card, and $174.53 below the market per box. The English box wins on the size of the cheque: $144.22 buys one sealed English box at $151.78 below market, the widest percentage gap in the run. The Japanese box wins only on the opening question: $4.30 a pack is the cheapest way to open The World's Strongest Warriors, at a price $38.07 above its market reference. The Japanese case wins nothing: $103.28 a box against a $103.09 single box is a rounding error the wrong way, not a bulk deal.",
+          "The last column is the control. The OP-16 English box at $146.23 is $2.01 dearer than the OP-17 English box, and its market is $208.37 against OP-17's $296, so the two markets sit $87.63 apart while our shelf prices them $2.01 apart. Want The Time of Battle? Buy OP-16. Want the anniversary set with the $22.75-a-box case saving? Buy OP-17. The [OP-15 Kami's Island investment guide](/blog/op-15-investment/) runs the same division on the set two before, where the English box runs $37.02 dearer than this one. The [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) prices the same four OP-16 products for the opener."
+        ],
+        "table": {
+          "head": [
+            "",
+            "JP box",
+            "JP case (per box)",
+            "EN box",
+            "EN case (per box)",
+            "OP-16 EN box (control)"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$103.09",
+              "$103.28",
+              "$144.22",
+              "$121.47",
+              "$146.23"
+            ],
+            [
+              "Price per pack",
+              "$4.30",
+              "$4.30",
+              "$6.01",
+              "$5.06",
+              "$6.09"
+            ],
+            [
+              "Price per card",
+              "$0.72",
+              "$0.72",
+              "$0.50",
+              "$0.42",
+              "$0.51"
+            ],
+            [
+              "vs market",
+              "$38.07 above the $65.02 CardZ last sold",
+              "$38.26 above the $65.02 CardZ last sold",
+              "$151.78 below $296.00",
+              "$174.53 below $296.00",
+              "$62.14 below $208.37"
+            ],
+            [
+              "vs list / MSRP",
+              "2.85x the ¥5,760 list",
+              "2.85x the ¥5,760 list",
+              "1.20x the $119.76 MSRP",
+              "1.01x the $119.76 MSRP",
+              "1.22x the $119.76 MSRP"
+            ],
+            [
+              "Best for",
+              "Opening the set; cheapest pack",
+              "Twelve Japanese boxes; no saving",
+              "One sealed English box, below market",
+              "Bulk English holding; widest gap",
+              "The Time of Battle set; $2.01 dearer"
+            ],
+            [
+              "Worst for",
+              "Holding; the Xebec odds",
+              "The saving alone; $0.19 a box the wrong way",
+              "Opening; $6.01 a pack",
+              "The $1,457.67 cheque",
+              "The OP-17 case; $24.76 dearer per box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the $38.07 Japanese gap, the cheaper English card, and the falling market",
+        "note": "From the Warehouse: the question we get about OP-17 is why the Japanese box costs $103.09 when the trackers say the Japanese box trades near $65. It sat at $121.28 on November 4, and the answer is that our shelf fell 15% and the Japanese market sits at $65.02 on CardZ. The box did not get cheaper because the set got worse; the shelf repriced once and the market moved the other way. That is why this page dates every market figure and divides the case every time, even when the last four sets taught you the case usually wins.",
+        "paragraphs": [
+          "The top results answer three different questions, and none of them is the investment question. The pre-order page prices the English box at $296 on November 17, 2026, from TCGplayer market data, and lists no Japanese price at all. The FoilKraken box-value report prices the sealed box at $301.42 on November 1, 2026, and the typical opened box at $85.85, but it prices no case and no shelf. The ShonenTCG card page lists the Xebec at $6,100.00 and the sealed box at $295.65 on November 17, 2026, with 118 of the 178 singles under a dollar, but it divides nothing. None of them divides one store's four OP-17 products to the pack and the card, none prices the English case, and none states the 15% Japanese repricing that moved every Japanese figure here in fourteen days.",
+          "The second gap is the language gap itself, and it runs the other way from every set before OP-16. No price table reports that this store's English and Japanese boxes cost $41.13 apart while the English card costs $0.22 less, not more. The third gap is the Japanese gap. Our Japanese box sits $38.07 above CardZ's $65.02 last sold figure, the widest Japanese gap in the run, which means the market for Japanese OP-17 boxes sits well below our shelf price. The fourth gap is the market falling while the shelf fell faster. The English market fell 7.58% since October 25 while our shelf fell 32% in English and 15% in Japanese, and a guide written from November 4 prices overstates the Japanese box by $18.19 and the English box by $67.87. Our [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the buy-or-pass verdict on the same four products."
+        ]
+      },
+      {
+        "h": "The chase layer: four Manga parallels and a top card worth 54% of the set",
+        "math": [
+          "OP-17 Xebec vs English box: $6,100.00 / $144.22 = 42.30 boxes",
+          "OP-17 Xebec vs Japanese box: $6,100.00 / $103.09 = 59.17 boxes",
+          "OP-17 Shanks Manga vs English box: $1,470.07 / $144.22 = 10.19 boxes",
+          "OP-17 Luffy Super Leader vs English box: $1,214.98 / $144.22 = 8.42 boxes"
+        ],
+        "paragraphs": [
+          "The World's Strongest Warriors is 131 card types plus 4 DON!! cards, released in Japan on August 22, 2026 and in English on August 28, 2026, the game's fourth-anniversary main booster. The chase is the Elbaf and Rocks Pirates pool: four Manga parallels, Edward Newgate, Shanks, Kaido and Charlotte Linlin, the Super Leader Parallel Luffy, the Treasure Rare Edward Newgate, and the Rocks D. Xebec Super Alternate Art at $6,100.00 on TCGplayer as of November 17, 2026. The set's singles are brutally concentrated: in our November 12, 2026 snapshot one card is 54% of the set's singles value and the top ten are 94%, and on November 17, 2026, 118 of the 178 singles with a market price sell for under a dollar. The box's value is one card, not contents.",
+          "The spread is what keeps the opening math failing anyway. The expected value of an English box cannot be run from a published pull rate, because Bandai has never published pull rates for any One Piece set, and the FoilKraken simulation is the honest substitute: a typical opened OP-17 box returns $85.85, 28.48% of the $301.42 sealed price, and only 8% of simulated boxes beat the sealed price. It still does not pay for the box: $85.85 against a $144.22 shelf price is 59.53%. Every chase card is cheaper as a single than as a pull. Buy the box sealed, or buy the single. Do not buy the box to pull the single. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the wider Japanese ladder the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: reprint, rotation, and the lottery",
+        "paragraphs": [
+          "The first risk has already happened to the set next door. OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. A sealed box is scarce only when nobody is making more of it, and Bandai has reprinted OP-01 before: Wave 1 Blue Bottom and Wave 2 White Bottom are two printings of the same set. OP-17 has no second wave on the record yet, and a reprint would cut its $296 market the same way. Never pay a scarcity premium with money you need back on a date.",
+          "The second risk is rotation, and here OP-17 is the second set of a new block. OP-17 sits in Block 5 with OP-16, and Block 3, OP-09 to OP-12, stays Standard through March 31, 2028 while Block 2 leaves on April 1, 2027, so OP-17's Standard runway runs years past either date: Block 5 stays Standard until March 31, 2030 on Bandai's published pattern. Rotation did not dent sealed prices at all when Block 1 left on April 1, 2026, because nobody was buying a $144.22 box to build a tournament deck. The third risk is the lottery. A typical opened OP-17 box returns $85.85, and only 8% of simulated boxes beat the sealed price. The Xebec at $6,100 is the card that makes the opening feel rational, and the arithmetic is the answer: one card in 131 types, with no published pull rate, cannot carry a $144.22 box. Buy the single if you want the Xebec, buy the case if you want the set sealed, and open the Japanese box only if the opening is the purchase, not the investment. OP-17 is not on pre-order. It is three months old in Japan, and its risks are the risks of age: reprint, rotation, the lottery. Check the seal before you pay, and read [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first; a box far below the shelf figures on this page is a warning, and [How to Spot Fake One Piece Cards](/blog/how-to-spot-fake-one-piece-cards/) covers the tells."
+        ]
+      },
+      {
+        "h": "Context: Elbaf, the Four Emperors, and the English split",
+        "paragraphs": [
+          "The World's Strongest Warriors released in Japan on August 22, 2026, at 240 yen a pack including tax, 6 cards a pack, 131 card types plus 4 DON!! cards, and in English on August 28, 2026, at $4.99 a pack, a gap of six days. It is the seventeenth One Piece Card Game booster set, built on the Elbaf arc, the Four Emperors, and the Rocks Pirates, the game's fourth-anniversary main booster. The Japanese box holds 24 packs, 144 cards; the English box holds the same 24 packs with 12 cards each, 288 cards.",
+          "Two further facts belong in every honest OP-17 guide. First, the English box is a translated Japanese box this time, 131+4 types in both languages, and the per-card figure still splits, $0.50 against $0.72, because the Japanese box costs more than the market will pay for it. Second, Bandai publishes no pull rates for OP-17, so no frequency figure for any card is quoted here. [OP-16 The Time of Battle](/blog/op-16-the-time-of-battle-buyers-guide/) released in Japan on May 30, 2026, and its English market runs to $208.37 against OP-17's $296: two markets $87.63 apart. OP-16 is the Paramount War set with one $927 card in the pool, and OP-17 is the anniversary set where one card is 54% of the singles value, and OP-16 starts Block 5 while OP-17 is its second set. The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case-price/) prices the Japanese cases across the line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card: the Xebec Super Alternate Art at $6,100 is cheaper as a single than as a pull, and a typical opened box returns $85.85 against a $301.42 sealed price. It is not for the player who needs Standard-legal cards past the Block 5 window: OP-17 plays in Standard for years yet, but the window does close. It is not for the bulk buyer who wants the Japanese case to discount: it costs $0.19 more a box. And it is not for anyone who treats a sealed box as a savings account: OP-01 fell 57% in a month once."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: Japanese box / 24 = your per-pack price, then / 6 for per card; English case / 12 = per box, then / 24 and / 12.",
+          "Check the fall against the market: the Japanese box fell 15% and the English box 32% while the market fell 7.58%. A shelf fall is not a market fall.",
+          "Check the English box against the market: our box at $144.22 sits $151.78 below the November 17 market of $296, and $151.78 below is the widest percentage gap since OP-13 at 51.28%.",
+          "Check the English case against the singles: the case saves $272.97 against twelve singles. $22.75 a box is a bulk deal.",
+          "Check the Japanese case against the singles: the case costs $2.22 more than twelve singles. $0.19 a box the wrong way is not a bulk deal.",
+          "Check the Japanese box against CardZ: our box at $103.09 sits $38.07 above the last sold figure of $65.02. The reference is not a sale, but the gap is real.",
+          "Date every figure: shelf prices as of November 18, 2026, English prices down 32% and Japanese prices down 15% since November 4; market as of November 17, 2026; the CardZ reference as of November 16, 2026; and the Xebec price as of November 17, 2026. When the next repricing lands, re-run the division: the gap that makes OP-17 the buy today is a shelf price and a market price, and either one can move.",
+          "If you want one card, buy the single. If you want the set sealed, buy the English case and hold it. If you want to open it, open the Japanese box.",
+          "Never pay a scarcity premium with money you need back on a date. OP-01 fell 57% in a month once, and a reprint is the risk that repeats it for OP-17."
+        ],
+        "h": "Action layer: the OP-17 investment checklist",
+        "paragraphs": [
+          "Divide first, check the fall against the market second, check the Japanese case against the singles third, and the single-card question last."
+        ]
+      }
+    ],
+    "slug": "op-17-investment",
+    "takeaway": [
+      "The OP-17 English case is the buy: $1,457.67 divides to $121.47 a box, $5.06 a pack and $0.42 a card, $174.53 below the November 17, 2026 market figure per box, and $272.97 below twelve singles on our own shelf. The English box at $144.22 is the second buy, $151.78 below the same market, the widest percentage gap since OP-13 at 51.28%. The Japanese box at $103.09 is the opener's buy only if the opening is the purchase, $4.30 a pack, and the Japanese case at $1,239.30 is twelve boxes in one carton, not a bulk deal, costing $2.22 more than twelve singles.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, English prices down 32% and Japanese prices down 15% since November 4, the market figure as of November 17, 2026, the CardZ reference as of November 16, 2026, and the Xebec price as of November 17, 2026. When the next repricing lands, re-run the division: the gap that makes OP-17 the buy today is a shelf price and a market price, and either one can move.",
+      "For the opener's version of this set, the [OP-17 The World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-17 worth buying](/blog/is-op-17-worth-buying/) runs the buy-or-pass verdict. For the set after, the [OP-18 The Dominance of God investment guide](/blog/op-18-investment/) runs the same division on a pre-order English case at $94.68 a box. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+    ]
+  },
   "op-17-worlds-strongest-warriors-buyers-guide": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -46036,6 +46240,209 @@ export const POSTS: Record<string, BlogPost> = {
       "For the worth-buying verdict on this set, see [Is OP-17 World's Strongest Warriors Worth Buying?](/blog/is-op-17-worth-buying/)."
     ]
   },
+  "op-18-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "On price alone, yes for both cases, and yes for the Japanese box only as the opener, and only if you accept that no Japanese market reference exists yet for a set that has not released. The English case divides to $94.68 a box against a $208 market figure from November 17, 2026, and sits $25.08 below the $119.76 MSRP box, which no English case in this run has done except OP-16. The Japanese case divides to $64.18 a box and saves $86.70 against twelve singles on our own shelf. The Japanese box at $71.40 is the cheapest pre-order box on this shelf. Nothing here is a promise. OP-18 releases in English on November 20, 2026, and the pre-order market has fallen 48% since August 27 while our shelf has held at $71.40 since November 13. Buy the cases because the division is wide, not because the price can only rise.",
+        "q": "Is OP-18 The Dominance of God a good investment before release?"
+      },
+      {
+        "a": "Because there is no English single box to stock. The store lists the OP-18 English sealed case at $1,136.15, or $94.68 a box, and no English single box beside it, while the Japanese side lists both the box at $71.40 and the case at $770.10. A buyer who wants one English box buys the case and splits it, or buys the Japanese box at $71.40, $2.98 a pack, and plays in Japanese. The English case at $94.68 a box is $25.08 below the $119.76 MSRP box, so the case is the English buy even before the missing single box is priced. If an English single box appears on this shelf, divide it the same way before paying.",
+        "q": "Why is there no English OP-18 single box on the shelf?"
+      },
+      {
+        "a": "Pre-order now if the division holds, and wait if it does not. The English case at $94.68 a box sits $113.32 below the $208 pre-order market from November 17, 2026, and the Japanese box at $71.40 sits $136.60 below that same market, and both figures have held since November 13 while the market fell 40.86% since October 26. OP-17 ran the same path at the same distance from release: its ask sat at $338.16 twenty-five days out and its market fell to $296 by November 17, and our OP-17 English box still sits $151.78 below that market. If the OP-18 case is still $94.68 a box on release day, the pre-order was the buy. If the market falls below the case division after release, the wait was the buy. Check the shelf on November 20, divide again, and do not pay a pre-order premium for a box the market is repricing down.",
+        "q": "Should I pre-order OP-18 or wait until after release?"
+      }
+    ],
+    "h1": "OP-18 The Dominance of God Investment: Buy the Case",
+    "intro": [
+      "Short answer: buy both cases, hold the Japanese box for the pre-order price, and chase no named Amano card in packs. On our shelf as of November 18, 2026, the [OP-18 English sealed case](/product/op-18-the-dominance-of-god-sealed-case-12-boxes-english-one-piece-card/) costs $1,136.15, or $94.68 a box, against a $208 market figure from November 17, 2026. The [OP-18 Japanese booster box case](/product/one-piece-op-18-japanese-booster-box-case-pre-order-one-piece-card-game/) costs $770.10, or $64.18 a box, and the [OP-18 Japanese booster box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) costs $71.40. There is no English single box on this shelf. The set releases in English on November 20, 2026, two days from now, and in Japan on November 21, 2026.",
+      "Who this is for: sealed collectors who want the second anniversary set before release, buyers choosing between the Japanese box and the Japanese case now that the case saves $7.23 a box, and case splitters who divide before they pay. Who it is not for: anyone buying to pull a named Amano card, because the Loki parallel asks $599.99 and the Saint Shamrock asks $499.99, and both are pre-release listings, not sales; anyone who needs an English single box, because none is listed; anyone who expects a Japanese market reference, because no CardZ or OP Box Index figure exists yet for a set that has not released; and anyone who reads a 48% pre-order market fall as a verdict on the set, because the market fell while our shelf held. The $113.32 gap is the whole story of this page."
+    ],
+    "metaDescription": "OP-18's English case divides to $94.68 a box, $113.32 below a $208 market. The Japanese box is $71.40 on pre-order.",
+    "metaTitle": "OP-18 The Dominance of God Investment: Buy the Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy both cases, hold the Japanese box, chase no Amano card",
+        "note": "From the Warehouse: the question we get most about OP-18 is whether the pre-order price will hold after release. The market has already answered that question for the set before it. OP-17 sat at a $338.16 ask twenty-five days before release and its market fell to $296 by November 17, and our OP-17 English box still sits $151.78 below that market. OP-18 sat at a $340.21 ask twenty-five days before release and its market is $208 now. The pre-order market falls before release and the shelf holds after it, and that is why this page divides the case at today's shelf prices instead of quoting the ask.",
+        "paragraphs": [
+          "The English case is the buy because the division is the widest in the set. Twelve boxes for $1,136.15 divide to $94.68 a box, $3.94 a pack and $0.33 a card, every one $113.32 below the November 17, 2026 market figure of $208. The case sits $25.08 below the $119.76 MSRP box per box, and saves $300.97 against twelve boxes at MSRP. A buyer who wants English The Dominance of God in bulk buys the case.",
+          "The Japanese case is the second buy, and the only Japanese case in the run that discounts by a real margin. At $770.10 it divides to $64.18 a box, $2.67 a pack and $0.45 a card, and saves $86.70 against twelve singles on our own shelf, $7.23 a box. The Japanese box at $71.40 is the cheapest pre-order box on this shelf at $2.98 a pack and $0.50 a card, and the cheapest way into the Amano pool. A buyer who wants one box buys this one and holds it sealed, or opens it knowing no opened-box simulation exists yet. The [OP-18 The Dominance of God pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) prices the same three products for the buyer who is deciding today.",
+          "The English market is the control, not the buy. A sealed OP-18 box traded at $208 on November 17, 2026, 73% above the $119.76 MSRP, while our English case divides to $94.68 a box. The cheapest US pre-order box tracked on November 17, 2026 is $199.99, which is $105.31 above our case division per box. Buy the case on this shelf, not the pre-order box on the market. The [OP-17 World's Strongest Warriors investment guide](/blog/op-17-investment/) runs the same division on the set before The Dominance of God, where the English case divides to $121.47 a box."
+        ]
+      },
+      {
+        "h": "The money layer: three products, two case verdicts, one price path in two legs",
+        "math": [
+          "OP-18 Japanese box: $71.40 / 24 packs = $2.98 per pack; $71.40 / 144 cards = $0.50 per card",
+          "OP-18 Japanese box vs list: 240 yen x 24 = 5,760 yen; 5,760 yen / 159.5 = $36.11; $71.40 / $36.11 = 1.98x list; $71.40 - $36.11 = $35.29 above list",
+          "OP-18 Japanese case: $770.10 / 12 boxes = $64.18 per box; $64.18 / 24 packs = $2.67 per pack; $64.18 / 144 cards = $0.45 per card",
+          "OP-18 Japanese case vs 12 singles: 12 x $71.40 = $856.80; $856.80 - $770.10 = $86.70 saved; $86.70 / 12 = $7.23 saved per box",
+          "OP-18 English case: $1,136.15 / 12 boxes = $94.68 per box; $94.68 / 24 packs = $3.94 per pack; $94.68 / 288 cards = $0.33 per card",
+          "OP-18 English case vs MSRP box: $119.76 - $94.68 = $25.08 below MSRP per box; $94.68 / $119.76 = 0.79x MSRP",
+          "OP-18 English case vs 12 MSRP boxes: 12 x $119.76 = $1,437.12; $1,437.12 - $1,136.15 = $300.97 saved",
+          "OP-18 English case per box vs market: $208.00 - $94.68 = $113.32 below the Nov 17, 2026 market figure; $113.32 / $208.00 = 54.48% below market",
+          "OP-18 Japanese box vs English market: $208.00 - $71.40 = $136.60 below the market figure, in a different language",
+          "OP-18 Japanese box price path Oct 24 to Nov 18: $70.00 to $84.00 = $14.00, 20.00% up; $84.00 to $71.40 = $12.60, 15.00% down; net $71.40 - $70.00 = $1.40, 2.00% above where it started",
+          "OP-18 market path Aug 27 to Nov 17: $399.95 - $208.00 = $191.95; $191.95 / $399.95 = 47.99% down since the first listing",
+          "OP-18 market path Oct 26 to Nov 17: $351.70 - $208.00 = $143.70; $143.70 / $351.70 = 40.86% down in 22 days",
+          "OP-18 pre-order sales Oct 24 to Nov 6: $351.00 to $243.00 = $108.00, 30.77% down; Nov 6 to Nov 17: $243.00 to $208.00 = $35.00, 14.40% down",
+          "OP-18 vs OP-17 at 25 days out: OP-17 ask $338.16, market $339.26; OP-18 ask $340.21, market $351.70; ask gap $340.21 - $338.16 = $2.05; market gap $351.70 - $339.26 = $12.44",
+          "OP-18 vs OP-17 Japanese box: $103.09 - $71.40 = $31.69 below; OP-18 English case vs OP-17 English box: $144.22 - $94.68 = $49.54 below",
+          "OP-18 Japanese box vs OP-16: $89.25 - $71.40 = $17.85 below; OP-18 Japanese box vs OP-15: $71.40 - $59.06 = $12.34 above",
+          "OP-18 English case vs OP-17 English case: $121.47 - $94.68 = $26.79 below per box",
+          "OP-18 cheapest US pre-order box vs our case: $199.99 - $94.68 = $105.31 above our English case division per box"
+        ],
+        "paragraphs": [
+          "Every line above is one division from a shelf price as of November 18, 2026, or one subtraction from a dated market figure. The price path moved in two legs, not one: the Japanese box rose 20% from $70.00 to $84.00 between October 24 and November 4, then fell 15% to $71.40 by November 13, and has not moved since. The net is $1.40, 2.00% above where the pre-order started. The market moved the other way in scale: the English box was first listed at $399.95 on August 27, 2026, sat at a $351.70 market on October 26, and traded at $208 on November 17, down 47.99% from the first listing and 40.86% in the last twenty-two days. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game we carry.",
+          "The split is the whole trade. Our English case divides to $94.68 a box against a $208 market, and our Japanese case saves $7.23 a box against twelve singles. Buy both cases, hold the Japanese box, and chase no Amano card in packs."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or wait, in two languages",
+        "paragraphs": [
+          "The table's first row is the decision. The English case wins on every per-unit figure: $94.68 a box, $3.94 a pack, $0.33 a card, and $113.32 below the market per box. The Japanese case wins on the size of the saving in its own language: $7.23 a box against twelve singles, the only Japanese case discount with a real margin in this run. The Japanese box wins only on the opening question: $2.98 a pack is the cheapest way into The Dominance of God, at a price $136.60 below the English market figure, in a different language. The market box wins nothing: $208 for one English box is $113.32 above our case division per box.",
+          "The last column is the control. The OP-17 English case at $121.47 a box is $26.79 dearer than the OP-18 English case per box, and its market is $296 against OP-18's $208, so the two markets sit $88.00 apart while our shelf prices the cases $26.79 apart. Want The World's Strongest Warriors? Buy OP-17. Want the Amano set with the $25.08-a-box case saving against MSRP? Buy OP-18. The [OP-16 Time of Battle investment guide](/blog/op-16-investment/) runs the same division on the set two before, where the English case divides to $109.43 a box. The [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the same four OP-17 products for the opener."
+        ],
+        "table": {
+          "head": [
+            "",
+            "JP box",
+            "JP case (per box)",
+            "EN case (per box)",
+            "MSRP box",
+            "OP-17 EN case (per box, control)"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$71.40",
+              "$64.18",
+              "$94.68",
+              "$119.76",
+              "$121.47"
+            ],
+            [
+              "Price per pack",
+              "$2.98",
+              "$2.67",
+              "$3.94",
+              "$4.99",
+              "$5.06"
+            ],
+            [
+              "Price per card",
+              "$0.50",
+              "$0.45",
+              "$0.33",
+              "$0.42",
+              "$0.42"
+            ],
+            [
+              "vs market",
+              "$136.60 below the $208 English market",
+              "$143.82 below the $208 English market",
+              "$113.32 below $208.00",
+              "$88.24 below $208.00",
+              "$174.53 below $296.00"
+            ],
+            [
+              "vs list / MSRP",
+              "1.98x the ¥5,760 list",
+              "1.78x the ¥5,760 list",
+              "0.79x the $119.76 MSRP",
+              "1.00x MSRP",
+              "1.01x the $119.76 MSRP"
+            ],
+            [
+              "Best for",
+              "Opening the set; cheapest pack",
+              "Twelve Japanese boxes; real saving",
+              "Bulk English holding; widest gap",
+              "The retail reference",
+              "The OP-17 set; $26.79 dearer per box"
+            ],
+            [
+              "Worst for",
+              "Holding; the Amano odds",
+              "The $770.10 cheque",
+              "The missing English single box",
+              "Paying retail",
+              "The OP-18 case; $26.79 dearer per box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the two-leg path, the OP-17 mirror, and the case below MSRP",
+        "note": "From the Warehouse: the question we get about OP-18 is whether the pre-order price will hold after release. The market has already answered that question for the set before it. OP-17 sat at a $338.16 ask twenty-five days before release and its market fell to $296 by November 17, and our OP-17 English box still sits $151.78 below that market. OP-18 sat at a $340.21 ask twenty-five days before release and its market is $208 now. The pre-order market falls before release and the shelf holds after it, and that is why this page divides the case at today's shelf prices instead of quoting the ask.",
+        "paragraphs": [
+          "The top results answer three different questions, and none of them is the investment question. The pre-order page prices the English box at $208 on November 17, 2026, from TCGplayer market data, and lists no Japanese price at all. The pre-order guide prices the box at about $243 in TCGplayer pre-order sales on November 6, 2026, and $269.99 at Miniature Market, but it prices no case and no shelf. The InkSight preorder report prices the box at a $340.21 ask and a $351.70 market on October 26, 2026, and lines OP-18 up against OP-17 at the same distance from release, but it divides nothing. None of them divides one store's three OP-18 products to the pack and the card, none prices the English case, and none states the two-leg price path that moved every Japanese figure here in twenty-five days.",
+          "The second gap is the OP-17 mirror itself. At twenty-five days before release the two sets sat $2.05 apart on ask, $340.21 against $338.16, and $12.44 apart on market, $351.70 against $339.26. OP-17 then fell to a $296 market by November 17 while our OP-17 English box still sits $151.78 below it, and OP-18 has already fallen to $208. The third gap is the case below MSRP. No pre-order guide reports that this store's English case divides to $94.68 a box, $25.08 below the $119.76 MSRP box, because no pre-order guide prices a case from a live shelf. Our [is OP-18 worth buying guide](/blog/is-op-18-worth-buying/) runs the buy-or-pass verdict on the same three products."
+        ]
+      },
+      {
+        "h": "The chase layer: six Amano cards and a top card that is still an ask",
+        "math": [
+          "OP-18 Loki Amano vs Japanese box: $599.99 / $71.40 = 8.40 boxes",
+          "OP-18 Loki Amano vs English case per box: $599.99 / $94.68 = 6.34 boxes",
+          "OP-18 Saint Shamrock Amano vs Japanese box: $499.99 / $71.40 = 7.00 boxes",
+          "OP-18 Saint Shamrock Amano vs English case per box: $499.99 / $94.68 = 5.28 boxes",
+          "OP-18 Nico Robin vs Japanese box: $29.99 / $71.40 = 0.42 boxes"
+        ],
+        "paragraphs": [
+          "The Dominance of God is 127 card types plus 1 DON!! card, releasing in Japan on November 21, 2026 and in English on November 20, 2026, the game's second fourth-anniversary main booster. The chase is the Water Seven and God's Knights pool: six Yoshitaka Amano cards, the Loki and Saint Shamrock Secret Rares each in a parallel and a gold-foil parallel version, the Nico Robin Super Alternate Art, her first Manga Rare, the Saint Gunko God's Knights Super Parallel, and the first Franky Leader. The dearest listed cards are pre-release asks, not sales: the Loki parallel at $599.99 and the Saint Shamrock parallel at $499.99 on TCGplayer, checked November 12, 2026, with the regular Saint Shamrock Secret Rare at $59.99 and the Nico Robin at $29.99. The set has not released, so no singles total and no top-card percentage can be run yet.",
+          "The spread is what keeps the opening math unrun, not failing. No opened-box simulation exists yet for OP-18, because no pack has been opened, and Bandai has never published pull rates for any One Piece set, so no expected value can be priced as a plan. The honest substitute is the OP-17 simulation from the same report: a typical opened OP-17 box returns 28.48% of the sealed price, and only 8% of simulated boxes beat the sealed price. Every named Amano card is cheaper as a single after release than as a pull before it. Buy the box sealed, or buy the single after release. Do not buy the box to pull the single. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the wider Japanese ladder the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: the asks are not sales, the concentration, and the pre-order lock",
+        "paragraphs": [
+          "The first risk is the asks themselves. The Loki parallel at $599.99 and the Saint Shamrock parallel at $499.99 are pre-release listings on TCGplayer, checked November 12, 2026, and listings are not transactions: pre-release asks routinely fall once supply lands and the first sales print. The regular Saint Shamrock Secret Rare at $59.99 and the Nico Robin at $29.99 are the same kind of figure. A buyer who treats an ask as a price is buying a number that may not survive release week.",
+          "The second risk is the concentration. Six Amano cards carry the set's pre-release value, two characters in three versions each, and the dearest listed non-Amano card, the Nico Robin at $29.99, costs 0.42 boxes. The rest of the set is unpriced until release, which means the box's value is six cards and the rest of the box is a pool. The third risk is the pre-order lock, and it is short: the English release is November 20, 2026, two days from this page, and the Japanese release is November 21. A buyer who pre-orders today waits two days, not two months, and the lock is the shipping queue, not the calendar. The fourth risk is the reprint, and it has already happened to the set next door: OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. Never pay a scarcity premium with money you need back on a date. Check the seal before you pay, and read [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) first; a box far below the shelf figures on this page is a warning, and [How to Spot Fake One Piece Cards](/blog/how-to-spot-fake-one-piece-cards/) covers the tells."
+        ]
+      },
+      {
+        "h": "Context: Water Seven, God's Knights, and the second anniversary booster",
+        "paragraphs": [
+          "The Dominance of God releases in Japan on November 21, 2026, at 240 yen a pack including tax, 6 cards a pack, 127 card types plus 1 DON!! card, and in English on November 20, 2026, at $4.99 a pack, a gap of one day. It is the eighteenth One Piece Card Game booster set, built on the Water Seven arc, the God's Knights, and Elbaf, the second fourth-anniversary main booster after OP-17, which released in Japan on August 22, 2026. The Japanese box holds 24 packs, 144 cards; the English box holds the same 24 packs with 12 cards each, 288 cards.",
+          "Two further facts belong in every honest OP-18 guide. First, the English box is a translated Japanese box this time, 127+1 types in both languages, and the per-card figure still splits, $0.33 against $0.50 in the case division, because the English case divides below MSRP while the Japanese box sits above its list. Second, Bandai publishes no pull rates for OP-18, so no frequency figure for any card is quoted here. [OP-17 The World's Strongest Warriors](/blog/op-17-worlds-strongest-warriors-buyers-guide/) released in Japan on August 22, 2026, and its English market runs to $296 against OP-18's $208: two markets $88.00 apart. OP-17 is the anniversary set with one $6,100 card in the pool, and OP-18 is the Amano set where the dearest card is still an ask, and OP-17 is the set that proved the pre-order market falls before release. The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case-price/) prices the Japanese cases across the line."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer whose only target is a named Amano card, because the honest answer for that buyer is the single after release, when the asks become transactions. It is not for the buyer who wants pull rates, because Bandai has published none for OP-18 and any guide quoting them is inventing them. It is not for the buyer who needs an English single box, because none is listed on this shelf. It is not for the buyer who wants a sealed box to pay for itself, because no opened-box simulation exists yet and the expected value cannot be run."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: Japanese box / 24 = your per-pack price, then / 6 for per card; English case / 12 = per box, then / 24 and / 12.",
+          "Check the path against the market: the Japanese box rose 20% then fell 15% while the market fell 47.99% since August 27. A shelf path is not a market path.",
+          "Check the English case against the market: our case divides to $94.68 a box, $113.32 below the November 17 market of $208, and $25.08 below the $119.76 MSRP box.",
+          "Check the English case against MSRP: the case saves $300.97 against twelve boxes at MSRP. $25.08 a box below retail is a bulk deal.",
+          "Check the Japanese case against the singles: the case saves $86.70 against twelve singles. $7.23 a box is a bulk deal.",
+          "Check the Japanese box against the market: our box at $71.40 sits $136.60 below the English market figure, in a different language, and no Japanese market reference exists yet. The gap is real, and the language is the caveat.",
+          "Date every figure: shelf prices as of November 18, 2026, the Japanese box 2.00% above its October 24 price after two legs; market as of November 17, 2026; the Amano asks as of November 12, 2026. When release lands on November 20, re-run the division: the gap that makes OP-18 the buy today is a shelf price and a market price, and either one can move.",
+          "If you want one card, buy the single after release. If you want the set sealed, buy both cases and hold them. If you want to open it, open the Japanese box.",
+          "Never pay a scarcity premium with money you need back on a date. OP-01 fell 57% in a month once, and a reprint is the risk that repeats it for OP-18."
+        ],
+        "h": "Action layer: the OP-18 investment checklist",
+        "paragraphs": [
+          "Divide first, check the path against the market second, check both cases against the singles third, and the single-card question last."
+        ]
+      }
+    ],
+    "slug": "op-18-investment",
+    "takeaway": [
+      "The OP-18 English case is the buy: $1,136.15 divides to $94.68 a box, $3.94 a pack and $0.33 a card, $113.32 below the November 17, 2026 market figure per box, and $300.97 below twelve boxes at MSRP. The Japanese case at $770.10 is the second buy, $64.18 a box, saving $86.70 against twelve singles on our own shelf. The Japanese box at $71.40 is the opener's buy only if the opening is the purchase, $2.98 a pack, and there is no English single box on this shelf to compare it against.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, the Japanese box 2.00% above its October 24 price after a 20% rise and a 15% fall, the market figure as of November 17, 2026, and the Amano asks as of November 12, 2026. When release lands on November 20, re-run the division: the gap that makes OP-18 the buy today is a shelf price and a market price, and either one can move.",
+      "For the opener's version of this set, the [OP-18 The Dominance of God pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) prices the same three products for buying before release, and [is OP-18 worth buying](/blog/is-op-18-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-17 World's Strongest Warriors investment guide](/blog/op-17-investment/) runs the same division on a released English case at $121.47 a box. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+    ]
+  },
   "op-18-the-dominance-of-god-preorder-guide": {
     "datePublished": "2026-10-24",
     "faqs": [
@@ -46164,7 +46571,7 @@ export const POSTS: Record<string, BlogPost> = {
       "OP-18's pre-order case is unusually clean: a verified November 21, 2026 Japanese release (November 20 in English), a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first. For the full English back catalogue, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
       "For the whole Japanese shelf around this pre-order, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack, with OP-18 second-cheapest at $3.50 per pack. For the price of every other Japanese box on the shelf beside OP-18, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/).",
       "New this cycle: the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) puts this pre-order on the full ladder, OP-15 at $2.90 a pack against OP-18 at $3.50, with every case divided.",
-      "New this cycle: the [is OP-18 worth buying guide](/blog/is-op-18-worth-buying/) runs the verdict on the pre-order at the November 13 prices, JP box $71.40 and JP case $64.18 a box, with the six Amano cards priced as asks, not sales."
+      "New this cycle: the [is OP-18 worth buying guide](/blog/is-op-18-worth-buying/) runs the verdict on the pre-order at the November 13 prices, JP box $71.40 and JP case $64.18 a box, with the six Amano cards priced as asks, not sales. For the investment version of this set, the [OP-18 The Dominance of God investment guide](/blog/op-18-investment/) runs the same division on a pre-order English case at $94.68 a box."
     ]
   },
   "prb-01-vs-prb-02-which-to-buy": {
