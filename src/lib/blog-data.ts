@@ -29234,7 +29234,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the first Scarlet and Violet subset to open, sealed, and it is not worth buying as a way to own the Magikarp Art Rare or to make the money back by opening. The Magikarp sat at $128.39 on TCGplayer on November 12, 2026, which is 0.99 of a box, and the Meowscarada ex Special Art Rare at $55.63 is 0.43 of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase, and it is worth buying with the fall in mind: the box dropped $22.84 in seven days, from $152.29 to $129.45, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,604.33 to $1,363.68.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of September 30 to November 13, 2026. The box now sits $29.39 above the SNKRDUNK lowest ask of $100.06, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) runs the same verdict on the set that followed it, where the chase is a whole set of 151 instead of one fish."
+      "For the price-and-math companion, the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) runs the same verdict on the set that followed it, where the chase is a whole set of 151 instead of one fish. The [SV1A Triplet Beat investment guide](/blog/sv1a-investment/) prices the case at $113.64 a box against the $149.96 market box."
     ]
   },
   "is-sv1s-worth-buying": {
@@ -29425,7 +29425,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the first half of the Scarlet and Violet launch to open, sealed, and it is not worth buying as a way to own the Gardevoir ex Special Art Rare or to make the money back by opening. The Gardevoir sat at $196.02 on TCGplayer on November 12, 2026, which is 2.07 boxes, and the Koraidon ex Special Art Rare at $37.43 is 0.40 of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $16.72 in five days, from $111.46 to $94.74, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,103.23 to $937.75. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 5 to November 13, 2026. The box now sits $19.71 above its twin SV1V at $75.03, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV1V Violet ex worth buying guide](/blog/is-sv1v-worth-buying/) runs the same verdict on the cheaper twin, where the chase is two cards instead of one."
+      "For the price-and-math companion, the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV1V Violet ex worth buying guide](/blog/is-sv1v-worth-buying/) runs the same verdict on the cheaper twin, where the chase is two cards instead of one. The [SV1S Scarlet ex investment guide](/blog/sv1s-investment/) prices the case at $78.15 a box against the $106.66 market box."
     ]
   },
   "is-sv1v-worth-buying": {
@@ -39777,7 +39777,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the cheapest sealed Japanese Pokémon box on the shelf, sealed as a single box, and it is not worth buying to own one named card or to make the money back by opening. The MUR sat at $165.67 as of November 17, 2026, which is 2.76 boxes, and the community estimate is one MUR in every 50 boxes.",
       "It is worth buying with the flat box in mind: the market box is down 2 percent over 90 days while the set value is up only 3.2 percent, and the box dropped $10.59 on November 13, 2026. The MUR dropped 67.00 percent from its day-one ¥60,000 ask to ¥19,800.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of October 28 to November 17, 2026. The box now sits $14.48 below the $74.51 TCGplayer market box: divide before you buy, every time.",
-      "For the price-and-math companion, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) runs the same shelf side by side, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict after the November 13 repricing. The [M2 Inferno X investment guide](/blog/m2-investment/) prices the Charizard set the same way, and the [M1S Mega Symphonia investment guide](/blog/m1s-investment/) prices the cheaper twin. The [M2a MEGA Dream ex investment guide](/blog/m2a-investment/) prices the high-class pack the same way, with its case dividing to $78.99 a box."
+      "For the price-and-math companion, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) runs the same shelf side by side, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict after the November 13 repricing. The [M2 Inferno X investment guide](/blog/m2-investment/) prices the Charizard set the same way, and the [M1S Mega Symphonia investment guide](/blog/m1s-investment/) prices the cheaper twin. The [M2a MEGA Dream ex investment guide](/blog/m2a-investment/) prices the high-class pack the same way, with its case dividing to $78.99 a box. The [SV1A Triplet Beat investment guide](/blog/sv1a-investment/) prices the first Scarlet and Violet subset the same way, and the [SV1S Scarlet ex investment guide](/blog/sv1s-investment/) prices the launch set the same way."
     ]
   },
   "m3-munikis-zero-buyers-guide": {
@@ -50168,6 +50168,239 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV11W White Flare investment guide](/blog/sv11w-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced."
     ]
   },
+  "sv1a-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "As a sealed case, yes, at $113.64 a box, $36.32 below the $149.96 market box as of November 18, 2026, and as a single box, yes, at $129.45, $20.51 below market. As a chase, no: the Magikarp at $120.00 is 0.93 of a box and fell 6.53 percent in five days, and the market box saw only one TCGplayer sale in 90 days, so the quote is thin. Buy the case to hold sealed, not to open for profit.",
+        "q": "Is SV1A Triplet Beat a good investment?"
+      },
+      {
+        "a": "Yes. The case costs $1,363.68 for 12 boxes, which divides to $113.64 a box, $15.81 less than the $129.45 single box, a saving of $189.72 on the case. Against the $149.96 market box the case saves $435.84. Divide the case before you pay.",
+        "q": "Is the SV1A sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Magikarp Art Rare, 080/073, trades at $120.00 on TCGplayer as of November 17, 2026, which is 0.93 of a $129.45 box, and one named Art Rare averages about one box in four on the community estimate, so four boxes cost $517.80 for one expected Magikarp. The Pokemon Company publishes no pull rates. Buy the single.",
+        "q": "Should I buy an SV1A box to pull the Magikarp Art Rare?"
+      }
+    ],
+    "h1": "SV1A Triplet Beat Investment: Buy the Case",
+    "intro": [
+      "Short answer: buy the case, and buy the single box second. The [SV1A Triplet Beat booster box](/product/sv1a-triplet-beat-booster-box-japanese-pokemon-card/) is $129.45 on this shelf as of November 18, 2026, $20.51 below the $149.96 market box, and the [sealed case of twelve](/product/sv1a-triplet-beat-sealed-case-12-boxes-japanese-pokemon-card/) is $1,363.68, which divides to $113.64 a box, $36.32 below market and $189.72 less than twelve singles. The Magikarp Art Rare fell to $120.00, down 6.53 percent in five days, and it is 0.93 of a box: buy the single, never chase it in packs.",
+      "This guide answers for three buyers: the collector who wants a sealed Triplet Beat hold at the cheapest verified per-box cost, the opener weighing a box against the Magikarp single, and the buyer choosing between SV1A and its Scarlet and Violet siblings. It is not for the player who needs Standard-legal cards, or for the buyer who expects a sealed box to pay for itself. Every price below is stamped November 18, 2026, or dated to its market check, and every figure comes from the shelf, TCGplayer, or a named Japanese board."
+    ],
+    "metaDescription": "SV1A box $129.45 sits $20.51 below the $149.96 market box, and the case divides to $113.64 a box. The Magikarp fell to $120.00. The verdict.",
+    "metaTitle": "SV1A Triplet Beat Investment: Buy the Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase no Magikarp",
+        "note": "From the Warehouse: the question we get most about SV1A is whether the box is cheap because the set is weak. It is cheap because the whole shelf fell fifteen percent on November 13, 2026, and the case is the cheapest way to own it.",
+        "paragraphs": [
+          "Buy the case if the job is twelve boxes. At $1,363.68 it divides to $113.64 a box, $15.81 less than the $129.45 single and $36.32 below the $149.96 market box as of November 18, 2026, a saving of $189.72 against twelve singles and $435.84 against twelve market boxes. That is the whole verdict in one division.",
+          "Buy the single box if the job is one box. At $129.45 it is $4.32 a pack and $0.86 a card, $20.51 below the $149.96 market box, after falling $22.84 from $152.29 on November 6, 2026. The market box itself sits $2.53 below the $152.49 fifty-two week high. The [is SV1A worth buying guide](/blog/is-sv1a-worth-buying/) runs the same verdict after the November 13 repricing, and the [SV1A buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) runs the shelf side by side.",
+          "Buy the Magikarp single if the job is the Magikarp. At $120.00 as of November 17, 2026 it is 0.93 of a box, down $8.39 from $128.39 on November 12, and one named Art Rare averages about one box in four on the community estimate, so four boxes at $129.45 cost $517.80 for one expected Magikarp. The case math is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, and the market",
+        "math": [
+          "SV1A box per pack: $129.45 / 30 packs = $4.32 per pack",
+          "SV1A box per card: $129.45 / 150 cards = $0.86 per card",
+          "SV1A case per box: $1,363.68 / 12 boxes = $113.64 per box",
+          "SV1A twelve single boxes: 12 x $129.45 = $1,553.40",
+          "SV1A case saving per case: $1,553.40 - $1,363.68 = $189.72",
+          "SV1A case saving per box: $129.45 - $113.64 = $15.81",
+          "SV1A case per pack: $1,363.68 / 360 packs = $3.79 per pack",
+          "SV1A case per card: $1,363.68 / 1,800 cards = $0.76 per card",
+          "SV1A official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.42 = $33.87",
+          "SV1A box vs official: $129.45 - $33.87 = $95.58 above official",
+          "SV1A box vs official ratio: $129.45 / $33.87 = 3.82x official",
+          "SV1A case box vs official ratio: $113.64 / $33.87 = 3.36x official",
+          "SV1A box fall since November 6, 2026: $152.29 - $129.45 = $22.84; $22.84 / $152.29 = 15.00%",
+          "SV1A case fall since November 8, 2026: $1,604.33 - $1,363.68 = $240.65; $240.65 / $1,604.33 = 15.00%",
+          "SV1A box vs market box: $149.96 - $129.45 = $20.51 below market",
+          "SV1A box vs market box percent: $20.51 / $149.96 = 13.68% below market",
+          "SV1A case per box vs market box: $149.96 - $113.64 = $36.32 below market",
+          "SV1A case per box vs market box percent: $36.32 / $149.96 = 24.22% below market",
+          "SV1A twelve market boxes: 12 x $149.96 = $1,799.52",
+          "SV1A case vs 12 market boxes: $1,799.52 - $1,363.68 = $435.84 per case",
+          "SV1A market box per pack: $149.96 / 30 packs = $5.00 per pack",
+          "SV1A market box per card: $149.96 / 150 cards = $1.00 per card",
+          "SV1A box vs Samurai Sword sealed listing: 19,133 yen / 159.42 = $120.02; $129.45 - $120.02 = $9.43 above the listing",
+          "SV1A box vs SNKRDUNK lowest ask: 16,000 yen / 159.42 = $100.36; $129.45 - $100.36 = $29.09 above the ask",
+          "SV1A market box vs SV1S market box (November 8, 2026): $151.19 - $106.66 = $44.53 per box",
+          "SV1A market box vs SV1V market box (November 8, 2026): $151.19 - $84.75 = $66.44 per box",
+          "SV1A TCGplayer single pack vs our per-pack: $6.37 - $4.32 = $2.05; our pack is $2.05 below the TCGplayer single pack",
+          "SV1A Magikarp buyback (shrink): 16,767 yen / 159.42 = $105.18",
+          "SV1A Magikarp buyback (no-shrink): 14,719 yen / 159.42 = $92.33"
+        ],
+        "paragraphs": [
+          "Every line in the math below is one division from shelf prices as of November 18, 2026. The rate is 159.42 yen to the dollar, the ECB reference rate for November 18, 2026, so an official Japanese box is 30 packs at 180 yen, 5,400 yen, or $33.87. Our box at $129.45 sits $95.58 above official, 3.82 times official, and the case box at $113.64 sits 3.36 times official: the premium is the import and the market, not the pack.",
+          "The fall is uniform, not a verdict on Triplet Beat. On November 6 the box was $152.29 and on November 8 the case was $1,604.33; on November 13 both fell exactly fifteen percent, to $129.45 and $1,363.68, the same uniform repricing as the whole shelf. The market did not fall with it: Bill's Archive put the market box at $151.19 on November 8, and PokemonWizard still shows $149.96, crawled November 16 to 18, 2026.",
+          "The Japan spread is the second check. Samurai Sword Tokyo lists a sealed box at 19,133 yen on its November 14, 2026 ladder, $120.02 at 159.42 yen to the dollar, so our box sits $9.43 above that listing, while the SNKRDUNK lowest ask of 16,000 yen on September 30, 2026 is $100.36, $29.09 below our box. A loose TCGplayer pack at $6.37 costs $2.05 more than our $4.32 per-pack division, so even the loose pack is dearer than the box pack.",
+          "The sibling gap is the third check, and the [SV1S investment guide](/blog/sv1s-investment/) prices the Scarlet ex box the same way. On November 8, 2026 Bill's Archive put the [SV1S Scarlet ex box](/product/scarlet-booster-box-sv1s/) market box at $106.66 and the SV1V Violet ex market box at $84.75, so the SV1A market box at $151.19 sat $44.53 above Scarlet ex and $66.44 above Violet ex. SV1A is the dearest of the three first-wave boxes, and the Magikarp is the reason: no sibling has a $120.00 chase card."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict: seven ways to spend on SV1A, priced as of November 18, 2026.",
+          "The case row deserves a second look: at $113.64 a box it saves $15.81 against our own single and $36.32 against the market box. The single rows deserve the opposite look: $120.00 buys the Magikarp and $55.63 buys the Meowscarada ex SAR, with no pull-rate gamble, and the [SV10 Glory of Team Rocket box](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/) at $181.04 is the dearest row on the list. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$129.45",
+              "$4.32",
+              "Opening Triplet Beat cheaply",
+              "One $120.00 chase, thin resale"
+            ],
+            [
+              "Sealed case (12)",
+              "$1,363.68",
+              "$3.79",
+              "Twelve boxes at $113.64 each",
+              "Twelve boxes to hold or move"
+            ],
+            [
+              "Market box",
+              "$149.96",
+              "$5.00",
+              "One box at the market price",
+              "$20.51 above our box, 1 sale in 90 days"
+            ],
+            [
+              "Magikarp single",
+              "$120.00",
+              "n/a",
+              "Owning the chase card",
+              "Falling 6.53% in five days, no sealed upside"
+            ],
+            [
+              "Meowscarada SAR single",
+              "$55.63",
+              "n/a",
+              "Owning the second chase",
+              "No sealed upside"
+            ],
+            [
+              "SV1S box",
+              "$94.74",
+              "$3.16",
+              "Opening Scarlet ex cheaply",
+              "$34.71 less than SV1A, weaker chase"
+            ],
+            [
+              "SV10 box",
+              "$181.04",
+              "$6.03",
+              "Opening Glory of Team Rocket",
+              "$51.59 more than the SV1A box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the verdict, the liquidity, and the rotation",
+        "note": "From the Warehouse: the gap we own on SV1A is the case nobody else priced. The ladders rank the box, the listicles guess the Magikarp, and nobody divides the case, the pull value, or the liquidity.",
+        "paragraphs": [
+          "The top results are a price board, a price ladder, and a listicle, not an investment case. Our own price board from November 6, 2026 carries the SV1A row and no analysis. Samurai Sword Tokyo's ladder, updated November 14, 2026, prices a sealed box at 19,133 yen and ranks it, nothing more. Eneba's '12 Best Japanese Pokemon Sets' claims the Magikarp raw trades at $180 to $280, which is wrong against the $120.00 TCGplayer market price as of November 17, 2026, and we do not repeat it.",
+          "What none of the three does is run the box against its expected pull value. A ladder can tell you a sealed box lists at 19,133 yen; it cannot tell you that our box is $129.45 after a fifteen percent fall, that its case divides to $113.64, or that its box sits $20.51 below the $149.96 market box. PokemonWizard's auto page gives the $149.96 market box and the $112.79 to $152.49 fifty-two week range, then stops at a templated verdict.",
+          "The second gap is the liquidity problem nobody prints next to the quote. Bill's Archive counted exactly one TCGplayer sale of an SV1A box in the last 90 days as of November 8, 2026, against three sales for SV1S and five for SV1V in the same window. The $149.96 market box is a quote with almost no trades behind it, so a seller who needs out fast may not find a buyer at the quote. The [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the same liquidity question for graded singles.",
+          "The third gap is the rotation, and the fourth is the concentration. G-mark cards left Standard on April 10, 2026 for in-person play and March 26, 2026 on TCG Live, so Triplet Beat is a collector hold, not a play buy, and no guide in the top three says so. The Magikarp alone is $120.00 of the $464.50 set value, 25.83 percent, and the top five chase cards carry $294.52, 63.41 percent: one card falling 6.53 percent in five days moves the whole set."
+        ]
+      },
+      {
+        "h": "The chase layer: one $120.00 card and a $464.50 set",
+        "math": [
+          "Magikarp AR vs box: $120.00 / $129.45 = 0.93x the price of a box",
+          "Magikarp fall since November 12, 2026: $128.39 - $120.00 = $8.39; $8.39 / $128.39 = 6.53%",
+          "Meowscarada ex SAR vs box: $55.63 / $129.45 = 0.43x the price of a box",
+          "Skeledirge ex SAR vs box: $53.01 / $129.45 = 0.41x the price of a box",
+          "Dendra SAR vs box: $39.99 / $129.45 = 0.31x the price of a box",
+          "Quaquaval ex SAR vs box: $25.89 / $129.45 = 0.20x the price of a box",
+          "Boss's Orders SAR vs box: $18.75 / $129.45 = 0.14x the price of a box",
+          "Meowscarada ex UR vs box: $17.20 / $129.45 = 0.13x the price of a box",
+          "Top three chase cards total: $120.00 + $55.63 + $53.01 = $228.64",
+          "Top three vs box: $228.64 / $129.45 = 1.77x the price of a box",
+          "Top five chase cards total: $228.64 + $39.99 + $25.89 = $294.52",
+          "Top five share of set value: $294.52 / $464.50 = 63.41%",
+          "Magikarp share of set value: $120.00 / $464.50 = 25.83%",
+          "Complete set vs box: $464.50 / $129.45 = 3.59 boxes",
+          "Complete set vs case per box: $464.50 / $113.64 = 4.09 boxes",
+          "Four boxes: 4 x $129.45 = $517.80",
+          "Singles vs four boxes: $517.80 - $464.50 = $53.30 cheaper as singles",
+          "Set fall since November 12, 2026: $475.34 - $464.50 = $10.84; $10.84 / $475.34 = 2.28%",
+          "Magikarp PSA 10 vs raw: $193.00 / $120.00 = 1.61x the raw price",
+          "English Magikarp vs Japanese: $288.91 / $120.00 = 2.41x the Japanese price",
+          "One expected SAR: 5.3 boxes x $129.45 = $686.09 per expected SAR pull",
+          "One expected named Art Rare: 4 boxes x $129.45 = $517.80 for one expected named Art Rare",
+          "Market box vs 52-week low: $149.96 - $112.79 = $37.17; $37.17 / $112.79 = 32.96% above the low",
+          "Market box vs 52-week high: $152.49 - $149.96 = $2.53 below the high",
+          "SAR plus AR share of set value: $379.58 / $464.73 = 81.68%"
+        ],
+        "paragraphs": [
+          "The chase sits in one card and then falls off a cliff. The Magikarp Art Rare, 080/073, at $120.00 as of November 17, 2026, is 0.93 of a box and 25.83 percent of the $464.50 set value. After it come the Meowscarada ex SAR 096/073 at $55.63, the Skeledirge ex SAR 097/073 at $53.01, and the Dendra SAR 099/073 at $39.99; the fifth card, Quaquaval ex SAR 098/073, runs $25.89.",
+          "The chase is the warning, and it is arithmetic, not opinion. The top three chase cards total $228.64, 1.77 boxes, and the top five total $294.52, 63.41 percent of the set value, while the SARs and Art Rares together carry $379.58 of the $464.73 set value, 81.68 percent. The complete set at $464.50 is 3.59 boxes, so a buyer who opens four boxes at $129.45 spends $517.80 and still has no guarantee of the Magikarp, because the set's value sits in seven cards and the rest is bulk. Buying the complete set as singles costs $53.30 less than four boxes.",
+          "The pull math is the second warning, and it is labelled as arithmetic on a community estimate. The Pokemon Company publishes no pull rates, so the Samurai Sword Tokyo estimate of one SAR in 5.3 boxes means one expected SAR costs $686.09 at $129.45 a box, and Altema.jp reports three Art Rares guaranteed per box, so with twelve Art Rares in the set one named Art Rare averages about one box in four if the three-per-box rate held evenly, $517.80 for one expected Magikarp. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the AR and SAR marks, and the English Magikarp illustration rare from Paldea Evolved #203 trades at $288.91, 2.41 times the Japanese card, as of November 15, 2026."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the thin market, and the rotation",
+        "paragraphs": [
+          "The first risk is the chase itself. The Magikarp at $120.00 is 0.93 of a box, the Meowscarada ex SAR at $55.63 is 0.43 of a box, and the Skeledirge ex SAR at $53.01 is 0.41 of a box, and all three fell with the set: the Magikarp dropped $8.39 in five days and the set value dropped $10.84, 2.28 percent, from $475.34 on November 12 to $464.50 on November 17. Buy the single.",
+          "The second risk is the thin market. One TCGplayer box sale in 90 days means the $149.96 market box is barely a market, and the market box sits $2.53 below its $152.49 fifty-two week high while sitting 32.96 percent above its $112.79 low: the quote has room to fall and few buyers to catch it. The third risk is the rotation: G-mark cards are out of Standard since April 10, 2026, still Expanded-legal, so the box sells to collectors only.",
+          "The fourth risk is the grading trap. A Magikarp PSA 10 trades at $193 as of November 17, 2026, 1.61 times the $120.00 raw price, but the population is 60,912 and the price is down 36.83 percent over six months, so the grade adds $73.00 on a card the market is already discounting. The fifth risk is the reseal: a box at $4.32 a pack looks cheap until the chase math is divided. Check the seal and wrap before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      },
+      {
+        "h": "Context: 103 cards, G-Regulation, and the English set",
+        "paragraphs": [
+          "Triplet Beat, SV1A, released in Japan on March 10, 2023, as the first Scarlet and Violet subset. The set carries 103 cards: 73 in the main run plus 30 secret rares, split C36 U23 R8 RR6 SR10 AR12 SAR5 UR3, and every card carries the G regulation mark. The five SARs are the three starter ex cards, Meowscarada ex 096/073, Skeledirge ex 097/073, Quaquaval ex 098/073, plus Dendra 099/073 and Boss's Orders (Ghetsis) 100/073.",
+          "Two corrections matter before any buyer pays for a chase card. Iono SAR is a Clay Burst card, SV2D, not Triplet Beat, and Gardevoir ex SAR is a Scarlet ex card, SV1S, not Triplet Beat. There is no Sprigatito ex SAR: Sprigatito is an Art Rare, 075/073. The [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices the Gardevoir set the same way, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the whole ladder.",
+          "English followed as Scarlet and Violet Paldea Evolved on June 9, 2023, a 279-card set that combines Triplet Beat with Clay Burst and Snow Hazard. Japanese cards are not legal in English-language sanctioned play, so the Japanese box is a collector's box, not a tournament box, and no SV1A reprint notice appeared in 2026 on the Samurai Sword restock tracker. The [M2 investment guide](/blog/m2-investment/) prices the Charizard set the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer chasing only the Magikarp Art Rare: the honest answer is the single at $120.00. It is not for the player who needs Standard-legal cards, because G-mark cards left Standard on April 10, 2026. It is not for the buyer who wants a sealed box to pay for itself, because the complete set at $464.50 is 3.59 boxes and the chase is one card. It is not for the buyer who needs to sell fast, because one TCGplayer box sale in 90 days is not a liquid market."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the language first: Japanese for collecting, English for official events outside Asia.",
+          "Divide before you pay: box / 30 = per-pack price; case / 12 = per-box price.",
+          "SV1A case at $1,363.68 divides to $113.64 a box and saves $189.72 against twelve singles; the single box at $129.45 is $20.51 below the $149.96 market box.",
+          "If the job is twelve boxes, buy the case, not twelve singles.",
+          "If you want one card, buy the single. The Magikarp is $120.00, and no box guarantees it.",
+          "Check the number for any chase card: Magikarp AR is 080/073; Iono and Gardevoir belong to other sets.",
+          "If buying to open, confirm the price is still the cheapest: it fell $22.84 in seven days."
+        ],
+        "h": "Action layer: the SV1A buying checklist",
+        "paragraphs": [
+          "Run the checklist in order. Language first: Japanese for collecting, English for the English collection, and the case when the job is twelve boxes. Price second: check the shelf figure against the dated market figures, and divide the case before you pay. Number third: check the card number before paying for any chase card, because Iono and Gardevoir belong to other sets. Seal fourth: check the wrap, and read the [SV1A buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) before you buy."
+        ]
+      }
+    ],
+    "slug": "sv1a-investment",
+    "takeaway": [
+      "The SV1A box at $129.45 is $4.32 a pack and $0.86 a card, $95.58 above the derived 5,400 yen box price at 159.42 yen per dollar, while the sealed case at $1,363.68 divides to $113.64 a box, $15.81 less than the single and $189.72 on the case. Buy the case, buy the box second.",
+      "It is worth buying as a sealed hold, and it is not worth buying to own one named card or to make the money back by opening. The Magikarp sat at $120.00 as of November 17, 2026, which is 0.93 of a box, and one named Art Rare averages about one box in four on the community estimate.",
+      "It is worth buying with the thin market in mind: the market box saw only one TCGplayer sale in 90 days, the box dropped $22.84 on November 13, 2026, and the Magikarp dropped 6.53 percent in five days. The box now sits $20.51 below the $149.96 market box: divide before you buy, every time.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of September 30 to November 18, 2026. The case box at $113.64 sits $36.32 below the $149.96 market box, and the complete set at $464.50 is 3.59 boxes.",
+      "For the price-and-math companion, the [SV1A Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) runs the same shelf side by side, and the [is SV1A worth buying guide](/blog/is-sv1a-worth-buying/) runs the same verdict after the November 13 repricing. The [SV1S investment guide](/blog/sv1s-investment/) prices the Scarlet ex box the same way, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the whole ladder."
+    ]
+  },
   "sv1a-triplet-beat-buyers-guide": {
     "datePublished": "2026-11-08",
     "faqs": [
@@ -50354,6 +50587,233 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the second Paldea Evolved component at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90.",
       "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box.",
       "New this cycle: the [is SV1a Triplet Beat worth buying guide](/blog/is-sv1a-worth-buying/) runs the verdict at the November 13 prices, box $129.45 and case $113.64 a box, with the rotation called out: G-mark cards left Standard on April 10, 2026."
+    ]
+  },
+  "sv1s-investment": {
+    "datePublished": "2026-11-18",
+    "faqs": [
+      {
+        "a": "As a sealed case, yes, at $78.15 a box, $28.51 below the $106.66 market box as of November 18, 2026, and as a single box, yes, at $94.74, $11.92 below market. As a chase, no: the Gardevoir at $173.00 is 1.83 boxes and holds 37.69 percent of the set's value, and the market box saw only three TCGplayer sales in 90 days, so the quote is thin. Buy the case to hold sealed, not to open for profit.",
+        "q": "Is SV1S Scarlet ex a good investment?"
+      },
+      {
+        "a": "Yes. The case costs $937.75 for 12 boxes, which divides to $78.15 a box, $16.59 less than the $94.74 single box, a saving of $199.13 on the case, the largest among the three launch-era cases. Against the $106.66 market box the case saves $342.17. Divide the case before you pay.",
+        "q": "Is the SV1S sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Gardevoir ex Special Art Rare is $173.00 on Cardfolio as of November 18, 2026, which is 1.83 boxes, and the TCGplayer check on November 12 put it at $196.02: the two sources measure differently, so take the $173.00 as the current Cardfolio figure and the $196.02 as the earlier TCGplayer one. The Pokemon Company publishes no pull rates. Buy the single.",
+        "q": "Should I buy an SV1S box to pull the Gardevoir ex Special Art Rare?"
+      }
+    ],
+    "h1": "SV1S Scarlet ex Investment: Buy the Case",
+    "intro": [
+      "Short answer: buy the case, and buy the single box second. The [SV1S Scarlet ex booster box](/product/scarlet-booster-box-sv1s/) is $94.74 on this shelf as of November 18, 2026, $11.92 below the $106.66 market box, and the [sealed case of twelve](/product/sv1s-scarlet-ex-sealed-case-12-boxes-japanese-pokemon-card/) is $937.75, which divides to $78.15 a box, $28.51 below market and $199.13 less than twelve singles. The Gardevoir ex Special Art Rare is $173.00, 1.83 boxes: buy the single, never chase it in packs.",
+      "This guide answers for three buyers: the collector who wants a sealed Scarlet ex hold at the cheapest verified per-box cost, the opener weighing a box against the Gardevoir single, and the buyer choosing between Scarlet ex and its cheaper twin Violet ex. It is not for the player who needs Standard-legal cards, or for the buyer who expects a sealed box to pay for itself. Every price below is stamped November 18, 2026, or dated to its market check, and every figure comes from the shelf, TCGplayer, Cardfolio, or a named Japanese board."
+    ],
+    "metaDescription": "SV1S box $94.74 sits $11.92 below the $106.66 market box, and the case divides to $78.15 a box. The Gardevoir is $173. The verdict.",
+    "metaTitle": "SV1S Scarlet ex Investment: Buy the Case",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase no Gardevoir",
+        "note": "From the Warehouse: the question we get most about Scarlet ex is whether the box is still worth opening now that the cards cannot play in Standard. The answer is that the box was never a tournament purchase: the Gardevoir ex Special Art Rare is what the box is for, and the Gardevoir does not care about the rotation. Buy the box for the set and the art, and buy the single for the Gardevoir.",
+        "paragraphs": [
+          "Buy the case if the job is twelve boxes. At $937.75 it divides to $78.15 a box, $16.59 less than the $94.74 single and $28.51 below the $106.66 market box as of November 18, 2026, a saving of $199.13 against twelve singles and $342.17 against twelve market boxes. That is the largest case saving among the three launch-era cases on this shelf, ahead of the SV1A case at $189.72 and the SV1V case at $90.88, and it is the whole verdict in one division.",
+          "Buy the single box if the job is one box. At $94.74 it is $3.16 a pack and $0.63 a card, $11.92 below the $106.66 market box, after falling $16.72 from $111.46 on November 8, 2026. The [is SV1S worth buying guide](/blog/is-sv1s-worth-buying/) runs the same verdict after the November 13 repricing, and the [SV1S buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) runs the shelf side by side.",
+          "Buy the Gardevoir single if the job is the Gardevoir. At $173.00 as of November 18, 2026 it is 1.83 boxes, and the next card in the set, the Koraidon ex SAR at $43.21, costs 0.46 of a box: the set is one card and then a long fall. The case math is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, and the market",
+        "math": [
+          "SV1S box per pack: $94.74 / 30 packs = $3.16 per pack",
+          "SV1S box per card: $94.74 / 150 cards = $0.63 per card",
+          "SV1S case per box: $937.75 / 12 boxes = $78.15 per box",
+          "SV1S twelve single boxes: 12 x $94.74 = $1,136.88",
+          "SV1S case saving per case: $1,136.88 - $937.75 = $199.13",
+          "SV1S case saving per box: $94.74 - $78.15 = $16.59",
+          "SV1S case per pack: $937.75 / 360 packs = $2.60 per pack",
+          "SV1S case per card: $937.75 / 1,800 cards = $0.52 per card",
+          "SV1S official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.42 = $33.87",
+          "SV1S box vs official: $94.74 - $33.87 = $60.87 above official",
+          "SV1S box vs official ratio: $94.74 / $33.87 = 2.80x official",
+          "SV1S case box vs official ratio: $78.15 / $33.87 = 2.31x official",
+          "SV1S box fall since November 8, 2026: $111.46 - $94.74 = $16.72; $16.72 / $111.46 = 15.00%",
+          "SV1S case fall since November 8, 2026: $1,103.23 - $937.75 = $165.48; $165.48 / $1,103.23 = 15.00%",
+          "SV1S box vs market box: $106.66 - $94.74 = $11.92 below market",
+          "SV1S box vs market box percent: $11.92 / $106.66 = 11.18% below market",
+          "SV1S case per box vs market box: $106.66 - $78.15 = $28.51 below market",
+          "SV1S case per box vs market box percent: $28.51 / $106.66 = 26.73% below market",
+          "SV1S twelve market boxes: 12 x $106.66 = $1,279.92",
+          "SV1S case vs 12 market boxes: $1,279.92 - $937.75 = $342.17 per case",
+          "SV1S market box per pack: $106.66 / 30 packs = $3.56 per pack",
+          "SV1S market box per card: $106.66 / 150 cards = $0.71 per card",
+          "SV1S box vs Samurai Sword sealed listing: 11,648 yen / 159.42 = $73.06; $94.74 - $73.06 = $21.68 above the listing",
+          "SV1S box vs SV1V market box (November 8, 2026): $106.66 - $84.75 = $21.91 per box",
+          "SV1S box vs SV1V box (our shelf): $94.74 - $75.03 = $19.71 per box",
+          "SV1S case vs SV1V case (our shelf): $937.75 - $809.48 = $128.27 per case",
+          "SV1S box vs English SV1 box: $295.98 - $94.74 = $201.24 per box",
+          "English SV1 box vs SV1S box ratio: $295.98 / $94.74 = 3.12x the Japanese box"
+        ],
+        "paragraphs": [
+          "Every line in the math below is one division from shelf prices as of November 18, 2026. The rate is 159.42 yen to the dollar, the ECB reference rate for November 18, 2026, so an official Japanese box is 30 packs at 180 yen, 5,400 yen, or $33.87. Our box at $94.74 sits $60.87 above official, 2.80 times official, and the case box at $78.15 sits 2.31 times official: the premium is the import and the market, not the pack.",
+          "The fall is uniform, not a verdict on Scarlet ex. On November 8 the box was $111.46 and the case was $1,103.23; on November 13 both fell exactly fifteen percent, to $94.74 and $937.75, the same uniform repricing as the whole shelf. The market did not fall with it: Bill's Archive put the market box at $106.66 on November 8, 2026, on only three TCGplayer sales in 90 days, so the quote is a last-market-price, not a liquid one.",
+          "The Japan spread is the second check. Samurai Sword Tokyo lists a sealed box at 11,648 yen, $73.06 at 159.42 yen to the dollar, so our box sits $21.68 above that listing, while a no-shrink box lists at 11,191 yen, $70.20. The English box is the third check: the English Scarlet and Violet box trades at $295.98, 3.12 times our Japanese box, so the Japanese box is the cheap route to the launch set by more than $200.00.",
+          "The twin gap is the fourth check, and the [SV1A investment guide](/blog/sv1a-investment/) prices the Triplet Beat box the same way. On November 8, 2026 Bill's Archive put the [SV1V Violet ex box](/blog/sv1v-violet-ex-buyers-guide/) market box at $84.75, down 7 percent over 90 days, so the SV1S market box at $106.66 sat $21.91 above its twin, and our shelf holds the same gap: the Scarlet ex box at $94.74 is $19.71 above the Violet ex box at $75.03, and the case gap is $128.27. Scarlet is the dearer twin because the Gardevoir is the dearer chase."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict: seven ways to spend on SV1S, priced as of November 18, 2026.",
+          "The case row deserves a second look: at $78.15 a box it saves $16.59 against our own single and $28.51 against the market box. The single rows deserve the opposite look: $173.00 buys the Gardevoir and $43.21 buys the Koraidon ex SAR, with no pull-rate gamble, and the [SV1A Triplet Beat box](/product/sv1a-triplet-beat-booster-box-japanese-pokemon-card/) at $129.45 is the dearer sibling row on the list. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$94.74",
+              "$3.16",
+              "Opening Scarlet ex cheaply",
+              "One $173.00 chase, thin resale"
+            ],
+            [
+              "Sealed case (12)",
+              "$937.75",
+              "$2.60",
+              "Twelve boxes at $78.15 each",
+              "Twelve boxes to hold or move"
+            ],
+            [
+              "Market box",
+              "$106.66",
+              "$3.56",
+              "One box at the market price",
+              "$11.92 above our box, 3 sales in 90 days"
+            ],
+            [
+              "Twin box SV1V",
+              "$75.03",
+              "$2.50",
+              "Opening the launch pair cheaply",
+              "$19.71 less than SV1S, wider chase"
+            ],
+            [
+              "Gardevoir single",
+              "$173.00",
+              "n/a",
+              "Owning the chase card",
+              "1.83 boxes, no sealed upside"
+            ],
+            [
+              "Koraidon single",
+              "$43.21",
+              "n/a",
+              "Owning the second chase",
+              "No sealed upside"
+            ],
+            [
+              "English SV1 box",
+              "$295.98",
+              "$8.22",
+              "Opening the English launch set",
+              "$201.24 more than the Japanese box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the verdict, the thin market, and the rotation",
+        "note": "From the Warehouse: the gap we own on SV1S is the case nobody else priced. DexHaul compares the English boxes, Samurai Sword prices the pull, and nobody divides the case, the pull value, or the liquidity.",
+        "paragraphs": [
+          "The top results are an English comparison, a pull-rate guide, and a listicle, not an investment case. DexHaul's October 27, 2026 guide compares the English Scarlet and Violet box at $275 to $415 against Paldea Evolved at $161 to $500, and it does not cover the Japanese SV1S box at all. Samurai Sword Tokyo's pull-rate page names the Gardevoir ex SAR 101/078 as the top card and prices a no-shrink box at 11,191 yen, then stops at a yes for launch-box buyers. Tistaminis gives SV1S one short paragraph and no numbers.",
+          "What none of the three does is run the box against its expected pull value. A pull-rate page can tell you the SAR pool is five cards; it cannot tell you that our box is $94.74 after a fifteen percent fall, that its case divides to $78.15, or that its box sits $11.92 below the $106.66 market box. The five SARs total $257.68, 56.14 percent of the $459.00 set value, and the Gardevoir alone is $173.00 of it.",
+          "The second gap is the liquidity problem nobody prints next to the quote. Bill's Archive counted exactly three TCGplayer sales of an SV1S box in the last 90 days as of November 8, 2026, below its own five-sale threshold for a trend, against one sale for SV1A and five for SV1V in the same window. The $106.66 market box is a quote with almost no trades behind it, so a seller who needs out fast may not find a buyer at the quote. The [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the same liquidity question for graded singles.",
+          "The third gap is the rotation, and the fourth is the source gap on the Gardevoir itself. G-mark cards left Standard on April 10, 2026 for in-person play and March 26, 2026 on TCG Live, so Scarlet ex is a collector hold, not a play buy, and no guide in the top three says so. The TCGplayer check on November 12 put the Gardevoir at $196.02 while Cardfolio on November 18 puts it at $173.00: the two sources measure differently, so the $23.02 gap is not a verified fall, and any guide that prints one number without its source is guessing."
+        ]
+      },
+      {
+        "h": "The chase layer: one $173.00 card and a $459.00 set",
+        "math": [
+          "Gardevoir ex SAR vs box: $173.00 / $94.74 = 1.83x the price of a box",
+          "Gardevoir vs Koraidon ex SAR: $173.00 / $43.21 = 4.00x the Koraidon card",
+          "Koraidon ex SAR vs box: $43.21 / $94.74 = 0.46x the price of a box",
+          "Penny SAR vs box: $16.48 / $94.74 = 0.17x the price of a box",
+          "Great Tusk ex SAR vs box: $14.99 / $94.74 = 0.16x the price of a box",
+          "Jacq SAR vs box: $10.00 / $94.74 = 0.11x the price of a box",
+          "Top three chase cards total: $173.00 + $43.21 + $21.90 = $238.11",
+          "Top three vs box: $238.11 / $94.74 = 2.51x the price of a box",
+          "Five SARs total: $173.00 + $43.21 + $16.48 + $14.99 + $10.00 = $257.68",
+          "Five SARs share of set value: $257.68 / $459.00 = 56.14%",
+          "Gardevoir share of set value: $173.00 / $459.00 = 37.69%",
+          "Complete set vs box: $459.00 / $94.74 = 4.84 boxes",
+          "Five boxes: 5 x $94.74 = $473.70",
+          "Singles vs five boxes: $473.70 - $459.00 = $14.70 cheaper as singles",
+          "Gardevoir TCGplayer vs Cardfolio gap: $196.02 - $173.00 = $23.02; $23.02 / $196.02 = 11.74%",
+          "Gardevoir PSA 10 vs raw: $191.00 / $173.00 = 1.10x the raw price",
+          "Kirlia PSA 10 vs raw: $71.99 / $15.86 = 4.54x the raw price",
+          "English Gardevoir SIR vs Japanese SAR: $173.00 / $54.62 = 3.17x the English print",
+          "Gardevoir SNKRDUNK ask: 23,000 yen / 159.42 = $144.27; $173.00 - $144.27 = $28.73 above the ask",
+          "Gardevoir PSA 10 ask: 42,000 yen / 159.42 = $263.46; $263.46 / $173.00 = 1.52x the raw price"
+        ],
+        "paragraphs": [
+          "The chase sits in one card and then falls off a cliff. The Gardevoir ex Special Art Rare, 101/078, at $173.00 as of November 18, 2026, is 1.83 boxes and 37.69 percent of the $459.00 set value. After it come the Koraidon ex SAR 103/078 at $43.21, the Fighting Energy UR 108/078 at $21.90, and the Penny SAR 105/078 at $16.48; the fifth SAR, Jacq 104/078, runs $10.00.",
+          "The chase is the warning, and it is arithmetic, not opinion. The top three chase cards total $238.11, 2.51 boxes, and the five SARs total $257.68, 56.14 percent of the set value, while the Gardevoir alone costs 4.00 times the Koraidon. The complete set at $459.00 is 4.84 boxes, so a buyer who opens five boxes at $94.74 spends $473.70 and still has no guarantee of the Gardevoir, because the set's value sits in one card and the rest is bulk. Buying the complete set as singles costs $14.70 less than five boxes.",
+          "The pull math is the second warning, and it is labelled as a proxy, not a measurement. The Pokemon Company publishes no pull rates, and no SV1S-specific rate was found, so the closest measured figure is the English one: TCGplayer Infinite studies of 8,000-plus packs, summarised by Moonstone on September 7, 2026, measured about one Special Illustration Rare per 32 packs in 2023 English sets, which implies about 0.94 SAR per 30-pack Japanese box if it held. Samurai Sword Tokyo says the SAR count per Japanese box varies widely, some boxes show none, others several. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark, and the English Gardevoir ex Special Illustration Rare trades at $54.62, so the Japanese print costs 3.17 times the English one."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the thin market, and the rotation",
+        "paragraphs": [
+          "The first risk is the chase itself. The Gardevoir at $173.00 is 1.83 boxes, the Koraidon ex SAR at $43.21 is 0.46 of a box, and the Penny SAR at $16.48 is 0.17 of a box, and the set's value is one card: if the Gardevoir softens, the set softens with it. The June 2026 range of $250 to $350 for the same card against $173.00 now suggests it already has. Buy the single.",
+          "The second risk is the thin market. Three TCGplayer box sales in 90 days means the $106.66 market box is barely a market, and 22 of the 24 regularly traded Japanese boxes were cheaper on November 8 than on August 13, 2026: the board fell, and SV1S has no trend line of its own to argue against it. The third risk is the rotation: G-mark cards are out of Standard since April 10, 2026, still Expanded-legal, so the box sells to collectors only.",
+          "The fourth risk is the grading gap, and it cuts both ways. A Gardevoir PSA 10 trades at $191.00, only 1.10 times the $173.00 raw price, so grading the chase adds almost nothing, while a Kirlia AR PSA 10 at $71.99 trades at 4.54 times its $15.86 raw price: the grade pays on the small card and not on the big one. The fifth risk is the reseal: a box at $3.16 a pack looks cheap until the chase math is divided. Check the seal and wrap before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      },
+      {
+        "h": "Context: 108 cards, Koraidon, and the English set",
+        "paragraphs": [
+          "Scarlet ex, SV1S, released in Japan on January 20, 2023, as the first half of the era's launch, paired with Violet ex on the same day. The set carries 108 cards: 78 in the main run plus 30 secret rares, 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares, at 180 yen a pack for five cards, with 30 packs in a box. The official Japanese price of a box is 5,400 yen, or $33.87 at 159.42 yen per dollar, and this shelf holds the box at 2.80 times that figure, which is the premium an overseas sealed box carries three years after release.",
+          "Two corrections matter before any buyer pays for a chase card. Miriam SAR and Miraidon ex SAR are Violet ex cards, SV1V, not Scarlet ex. The five Scarlet ex SARs are the Gardevoir ex 101/078, the Great Tusk ex 102/078, the Koraidon ex 103/078, Jacq 104/078, and Penny 105/078. The [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the Miriam set the same way, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the whole ladder.",
+          "English followed as Scarlet and Violet on March 31, 2023, a 258-card set that combines Scarlet ex and Violet ex. Japanese cards are not legal in English-language sanctioned play, so the Japanese box is a collector's box, not a tournament box, and no SV1S reprint notice appeared in 2026. The [SV1A investment guide](/blog/sv1a-investment/) prices the Triplet Beat box the same way, and the [M2 investment guide](/blog/m2-investment/) prices the Charizard set the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer chasing only the Gardevoir ex Special Art Rare: the honest answer is the single at $173.00. It is not for the player who needs Standard-legal cards, because G-mark cards left Standard on April 10, 2026. It is not for the buyer who wants a sealed box to pay for itself, because the complete set at $459.00 is 4.84 boxes and the chase is one card. It is not for the buyer who needs to sell fast, because three TCGplayer box sales in 90 days is not a liquid market."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: G-mark cards are out of Standard since April 10, 2026, and legal in Expanded only.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV1S is the case at $78.15 a box, saving $199.13; the single box is $94.74.",
+          "If the job is one card, buy the single. The Gardevoir ex Special Art Rare is $173.00. It is not guaranteed in any box.",
+          "If the job is the complete set, buy the singles: $459.00 is $14.70 cheaper than five boxes.",
+          "Remember the chase is one card: the Gardevoir holds 37.69 percent of the set's value, and the dearest other SAR is the Koraidon at $43.21.",
+          "If buying to open, confirm the price is still below the pre-fall figure: it fell $16.72 in five days, and it can move again."
+        ],
+        "h": "Action layer: the SV1S buying checklist",
+        "paragraphs": [
+          "Run the checklist in order. Mark first: G is out of Standard, so the box is a collection purchase, not a tournament purchase. Price second: check the shelf figure against the dated market figures, and if the box is still below the November 8 figure of $111.46, the fall is still on the shelf. Seal fourth: check the wrap, the tension, and the pack order before opening, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      }
+    ],
+    "slug": "sv1s-investment",
+    "takeaway": [
+      "The SV1S box at $94.74 is $3.16 a pack and $0.63 a card, $60.87 above the derived 5,400 yen box price at 159.42 yen per dollar, while the sealed case at $937.75 divides to $78.15 a box, $16.59 less than the single and $199.13 on the case. Buy the case, buy the box second.",
+      "It is worth buying as a sealed hold, and it is not worth buying to own one named card or to make the money back by opening. The Gardevoir sat at $173.00 as of November 18, 2026, which is 1.83 boxes, and the Koraidon ex Special Art Rare at $43.21 is 0.46 of a box. Buy the single, or buy the box for the set.",
+      "It is worth buying with the thin market in mind: the market box saw only three TCGplayer sales in 90 days, the box dropped $16.72 on November 13, 2026, and the Gardevoir's June range of $250 to $350 sits well above its $173.00 Cardfolio figure. The box now sits $11.92 below the $106.66 market box: divide before you buy, every time.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of September 7 to November 18, 2026. The case box at $78.15 sits $28.51 below the $106.66 market box, and the complete set at $459.00 is 4.84 boxes.",
+      "For the price-and-math companion, the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) runs the same shelf side by side, and the [is SV1S worth buying guide](/blog/is-sv1s-worth-buying/) runs the same verdict after the November 13 repricing. The [SV1A investment guide](/blog/sv1a-investment/) prices the Triplet Beat box the same way, the [is SV1V worth buying guide](/blog/is-sv1v-worth-buying/) runs the same verdict on the cheaper twin, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the whole ladder."
     ]
   },
   "sv1s-scarlet-ex-buyers-guide": {
