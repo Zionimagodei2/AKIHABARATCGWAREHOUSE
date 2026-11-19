@@ -2304,7 +2304,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Also see the [companion guide](/blog/best-sealed-tcg-products-japan/) for the wider comparison.",
       "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every sealed case to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter.",
       "Every case divided: the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) runs all fifteen cases, per box, per pack and per card, with five English cases below list.",
-      "New this cycle: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case/) ranks all fifteen cases as a purchase — split cost per person, case vs case list price, and when not to buy a case from us."
+      "New this cycle: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case/) ranks all fifteen cases as a purchase — split cost per person, case vs case list price, and when not to buy a case from us.",
+      "New this cycle: the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) divides all fifteen cases at today's prices, from Set 8 at $98.48 to Set 1 at $371.32 per box, and settles the four-box case question."
     ]
   },
   "best-dragon-ball-fusion-world-booster-box": {
@@ -3507,7 +3508,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Japanese side of the shelf, the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) prices the five Japanese singles and divides the English cases against the ¥5,280 Japanese box list.",
       "For the pack question in depth, the [best Dragon Ball Fusion World booster pack guide](/blog/best-dragon-ball-fusion-world-booster-pack/) divides every sealed case to the pack, from $4.44 for FB04 to $16.77 for FB09, and every Japanese box from $1.08. The [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) prices every Fusion World case beside the Masters cases and the Japanese boxes.",
       "For the same fourteen cases at today's prices, the [Fusion World sealed case price guide](/blog/dragon-ball-fusion-world-sealed-case-price/) tracks every case's 15.00 percent fall since November 4 and divides each one to the box, the pack, and the card.",
-      "New this cycle: the [best Dragon Ball Fusion World sealed case ranking](/blog/best-dragon-ball-fusion-world-sealed-case/) re-prices all fourteen cases after the 15 percent cut, from FB04 at $90.61 to SB01 at $1,906.13 per box."
+      "New this cycle: the [best Dragon Ball Fusion World sealed case ranking](/blog/best-dragon-ball-fusion-world-sealed-case/) re-prices all fourteen cases after the 15 percent cut, from FB04 at $90.61 to SB01 at $1,906.13 per box.",
+      "New this cycle: the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) divides all fourteen cases at today's prices, from FB04 at $90.61 to SB01 at $1,906.13 per box, with the 15.00 percent repricing and the Japanese single-card correction."
     ]
   },
   "best-dragon-ball-fusion-world-special-set": {
@@ -16423,6 +16425,191 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our case prices as of November 10, 2026, the TCGplayer market price as of October 22, 2026, and the UK and Australian listings as of November 10, 2026. A case price divided by four is the only box price we offer, and a market price without a date is stale on arrival."
     ]
   },
+  "disney-lorcana-sealed-case": {
+    "datePublished": "2026-11-19",
+    "faqs": [
+      {
+        "a": "Four boxes. Every English Lorcana sealed case on our shelf holds 4 booster boxes, each with 24 packs of 12 cards, so one case is 96 packs and 1,152 cards. The Japanese First Chapter case is the exception: it holds 15 boxes. Two published sources disagree with this, and one of them is wrong: one price guide claims six boxes per case, but our own case listings, the Cambridge TCG pull-rate guide and the tradercracks checklist all say four, and four is what the listings divide by.",
+        "q": "How many boxes are in a Disney Lorcana sealed case?"
+      },
+      {
+        "a": "Six of the fourteen English cases do, and eight do not. The cheapest case, Set 8 Reign of Jafar at $393.93, divides to $98.48 a box, which is $45.28 below the $143.76 official box price. The dearest, Set 1 The First Chapter at $1,485.26, divides to $371.31 a box, which is $227.56 above it. The case price follows sealed scarcity, not the official price, so divide first and never assume a case is a bulk discount.",
+        "q": "Is a Lorcana sealed case cheaper than buying boxes one at a time?"
+      },
+      {
+        "a": "No. Ravensburger publishes no pull rates, and community data puts an Enchanted rare near one per 96 packs for The First Chapter and near one per 144 packs for later sets, which is less than one Enchanted per 96-pack case on average. A case improves your odds by giving you more packs and nothing more. If you want one named card, buy the single. Buy a case to open volume, to split with friends, or to hold sealed.",
+        "q": "Does a sealed case guarantee an Enchanted card?"
+      }
+    ],
+    "h1": "Disney Lorcana Sealed Case: The Full Guide",
+    "intro": [
+      "Short answer: a Lorcana sealed case is 4 boxes, 96 packs and 1,152 cards, and 15 of them sit on our shelf as of November 19, 2026, from $393.93 for Set 8 Reign of Jafar to $1,485.26 for Set 1 The First Chapter, plus a Japanese First Chapter case at $479.46 for 15 boxes. The cheapest box inside any case is Set 8 at $98.48, $45.28 below the $143.76 official box price, and six of the fourteen English cases divide below it. Every number below is our own shelf price, divided.",
+      "Who this is for: Lorcana players building a pool, groups splitting a four-box case, and sealed holders who want the real per-box cost across all fourteen sets plus the Japanese case. Who it is not for: anyone who wants a single box without splitting, anyone chasing one guaranteed Enchanted card, and anyone who needs the newest set at the official price, because the newest cases carry a premium."
+    ],
+    "metaDescription": "A Lorcana sealed case is 4 boxes, 96 packs. All 15 cases on our shelf, divided to per-box, per-pack and per-card prices.",
+    "metaTitle": "Disney Lorcana Sealed Case: The Full Guide",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: four boxes, 96 packs, one commitment",
+        "paragraphs": [
+          "A Lorcana sealed case is the box the distributor ships to the shop. Inside a cardboard outer carton sit 4 English booster boxes of one set, each factory-sealed, each holding 24 packs of 12 cards. One case is 96 packs and 1,152 cards, and that is the whole definition. Everything else in this guide is the arithmetic that follows from it.",
+          "The case to buy depends on the job, and the shelf prices the jobs differently. For the cheapest packs, buy Set 8 Reign of Jafar: the [Reign of Jafar sealed case](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) costs $393.93, which divides to $98.48 a box, $4.10 a pack and $0.34 a card, the cheapest sealed Lorcana pack we sell. For the newest set, buy Set 14 Hyperia City: the [Hyperia City sealed case](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) costs $612.00, or $153.00 a box, for the set released October 23, 2026. For the first set, buy Set 1 The First Chapter: the [First Chapter sealed case](/product/disney-lorcana-the-first-chapter-booster-box-sealed-case-set-1-english/) costs $1,485.26, or $371.31 a box, and it is the dearest case on the shelf because it is the set that started the game in August 2023.",
+          "The shelf lists cases, not single boxes, so every per-box figure here is a case division, not a single-box listing. That distinction matters for Lorcana more than for most games, because the case is only four boxes: the commitment is smaller than a twelve-box Pokemon or Fusion World case, and the split is easier. A case split four ways is one box each, and the cheapest case split four ways costs $98.48 a person. The case is four boxes of one set, and that is still a lot of one set for one buyer, which is why the case buyer is usually a group, a shop, or a collector who opens volume and holds the rest sealed."
+        ]
+      },
+      {
+        "h": "The money layer: all 15 cases, divided",
+        "math": [
+          "Set 1 The First Chapter case: $1,485.26 / 4 boxes = $371.32 per box; $371.32 / 24 packs = $15.47 per pack; $15.47 / 12 = $1.29 per card",
+          "Set 2 Rise of the Floodborn case: $428.40 / 4 boxes = $107.10 per box; $107.10 / 24 packs = $4.46 per pack; $4.46 / 12 = $0.37 per card",
+          "Set 3 Into the Inklands case: $471.24 / 4 boxes = $117.81 per box; $117.81 / 24 packs = $4.91 per pack; $4.91 / 12 = $0.41 per card",
+          "Set 4 Ursula's Return case: $428.40 / 4 boxes = $107.10 per box; $107.10 / 24 packs = $4.46 per pack; $4.46 / 12 = $0.37 per card",
+          "Set 5 Shimmering Skies case: $556.92 / 4 boxes = $139.23 per box; $139.23 / 24 packs = $5.80 per pack; $5.80 / 12 = $0.48 per card",
+          "Set 6 Azurite Sea case: $405.14 / 4 boxes = $101.29 per box; $101.29 / 24 packs = $4.22 per pack; $4.22 / 12 = $0.35 per card",
+          "Set 7 Archazia's Island case: $633.83 / 4 boxes = $158.46 per box; $158.46 / 24 packs = $6.60 per pack; $6.60 / 12 = $0.55 per card",
+          "Set 8 Reign of Jafar case: $393.93 / 4 boxes = $98.48 per box; $98.48 / 24 packs = $4.10 per pack; $4.10 / 12 = $0.34 per card",
+          "Set 9 Fabled case: $634.24 / 4 boxes = $158.56 per box; $158.56 / 24 packs = $6.61 per pack; $6.61 / 12 = $0.55 per card",
+          "Set 10 Whispers in the Well case: $866.15 / 4 boxes = $216.54 per box; $216.54 / 24 packs = $9.02 per pack; $9.02 / 12 = $0.75 per card",
+          "Set 11 Winterspell case: $1,095.70 / 4 boxes = $273.93 per box; $273.93 / 24 packs = $11.41 per pack; $11.41 / 12 = $0.95 per card",
+          "Set 12 Wilds Unknown case: $1,077.82 / 4 boxes = $269.46 per box; $269.46 / 24 packs = $11.23 per pack; $11.23 / 12 = $0.94 per card",
+          "Set 13 Attack of the Vine! case: $590.16 / 4 boxes = $147.54 per box; $147.54 / 24 packs = $6.15 per pack; $6.15 / 12 = $0.51 per card",
+          "Set 14 Hyperia City case: $612.00 / 4 boxes = $153.00 per box; $153.00 / 24 packs = $6.38 per pack; $6.38 / 12 = $0.53 per card",
+          "Japanese Set 1 The First Chapter case: $479.46 / 15 boxes = $31.96 per box",
+          "Official English box: 24 packs x $5.99 = $143.76; Set 8 case box $98.48 is $45.28 below it; Set 1 case box $371.32 is $227.56 above it",
+          "All 15 cases together: $10,158.65"
+        ],
+        "paragraphs": [
+          "Here is the whole ladder, every case divided to per-box, per-pack and per-card, against the $143.76 official box price. The cheapest case is Set 8 at $393.93, or $98.48 a box, and the cheapest pack on the shelf is the Set 8 pack at $4.10. The dearest is Set 1 at $1,485.26, or $371.31 a box and $15.47 a pack, which is 3.77 times the Set 8 box. The whole ladder costs $10,158.65, and the fourteen English cases cost $9,679.19 of it.",
+          "Six English cases divide below the official box price and eight above it. Below the line sit Set 8 at $98.48, Set 6 at $101.29, Set 2 and Set 4 at $107.10, Set 3 at $117.81 and Set 5 at $139.23. Above it sit Set 13 at $147.54, Set 14 at $153.00, Set 7 at $158.46, Set 9 at $158.56, Set 10 at $216.54, Set 12 at $269.46, Set 11 at $273.93 and Set 1 at $371.32. The line is not a quality line: Set 1 is the first set and Set 11 is a 2026 set with a thin sealed supply, and both carry scarcity, not play value. A case below the official price is a genuine bulk saving. A case above it is a collector premium, and it should be bought as one.",
+          "The Japanese case is the odd one out, and it divides differently. The [Japanese First Chapter sealed case](/product/disney-lorcana-tcg-japanese-edition-booster-the-first-chapter-the-beginning-of-t/) costs $479.46 for 15 boxes, or $31.96 a box, which looks like the cheapest box on the shelf by a wide margin. It is not comparable: Japanese Lorcana packs hold 6 cards against 12 in English, the Japanese set has 204 cards against 216 in English, and the Japanese edition launched in January 2025 through Takara Tomy as a separate, smaller product. We do not divide it per pack, because the pack count per Japanese box is not verified on the listing, and a division built on a guessed pack count is a guess, not a price."
+        ]
+      },
+      {
+        "h": "The practical layer: buy a case in six steps",
+        "note": "Warehouse Note: the question we get most in chat about Lorcana is how many boxes are in a case, and the answer is four, and we say so on the product page as well as here. The listings say it plainly: Azurite Sea lists four booster boxes, Archazia's Island lists four booster boxes and 96 packs, Into the Inklands lists four booster boxes and 96 packs. We stock it, we ship it daily, and the cases on this shelf are the cases in the photos, so the division above is the division you will actually pay.",
+        "paragraphs": [
+          "Step one: pick the set by its job. Set 8 for the cheapest packs. Set 6 or Set 2 for a cheap released set. Set 14 for the newest set. Set 1 for the first set, accepting the collector premium. Set 9 for the Fabled chase pool, accepting $158.56 a box. Our [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks the same shelf by the buy, and our [Lorcana sealed case price guide](/blog/disney-lorcana-sealed-case-price/) prices every case against the market.",
+          "Step two: count the commitment. One case is four boxes, 96 packs and 1,152 cards of one set. Split it before you pay, not after: a Set 8 case split four ways costs each person $98.48 for one box, and a Set 14 case split four ways costs $153.00 each for one box. Name who takes which box and who holds the sealed remainder before the money moves.",
+          "Step three: run the division against the official box. Case price divided by 4, then by 24, then by 12. If the per-box number sits below $143.76, the case saves against the official price. If it sits above, you are paying a scarcity premium, and you should be able to say which scarcity you are paying for. The newest set is the test: Set 14 divides to $153.00 a box, $9.24 above the official price, while completed eBay sales for a four-box Hyperia City case ran $625 to $709 in late October 2026, so our $612.00 case sits $13.00 below the low end of that range.",
+          "Step four: check the set's rotation status before you buy to play. Sets 5 through 8 rotated out of Core Constructed in July 2026, so Sets 1 through 8 are collector product now, not play product. Sets 9 through 14 are the Core-legal sets. A case of Set 8 is a cheap way to open packs and a poor way to build a tournament deck.",
+          "Step five: check the seal on arrival before you open anything. The outer tape should be intact, the corners square, no re-taping, and the boxes untouched inside. Photograph the case before you open it, and open the boxes in order. A case with broken tape is four boxes, not a sealed case.",
+          "Step six: budget the landed cost, not the sticker. The European Union charges 21% VAT from the first euro plus a 3 euro flat duty per category on low-value parcels since July 2026. Singapore gives GST relief up to S$400 and charges 9% above it. The Philippines gives relief up to 10,000 pesos and charges 12% VAT above it. Australia gives border relief up to A$1,000. A case almost always crosses those lines, because even the cheapest case costs $393.93. The exact shipping quote is confirmed at checkout or on WhatsApp."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, Trove, starter, or singles",
+        "paragraphs": [
+          "The table below turns the ladder into a choice. Read it by the job, because the cheapest per-box number is only the right answer if the job is volume. A Lorcana case is four boxes of one set, and the buyer who opens all four alone is buying 96 packs of the same set. The single box does not exist on this shelf, so the real alternatives are the Illumineer's Trove, the starter set, and the single card."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Example on our shelf",
+            "Per box / per pack",
+            "Best for",
+            "Watch out for"
+          ],
+          "rows": [
+            [
+              "Sealed case, 4 boxes",
+              "Set 8 Reign of Jafar, $393.93",
+              "$98.48 / $4.10",
+              "Cheapest sealed packs; splitting four ways",
+              "4 boxes of one set; Sets 1-8 are not Core-legal"
+            ],
+            [
+              "Sealed case, newest",
+              "Set 14 Hyperia City, $612.00",
+              "$153.00 / $6.38",
+              "Newest set; Core-legal",
+              "$9.24 above the official box price"
+            ],
+            [
+              "Sealed case, first set",
+              "Set 1 The First Chapter, $1,485.26",
+              "$371.32 / $15.47",
+              "Collector holding; the set that started it",
+              "3.77x the cheapest case box"
+            ],
+            [
+              "Japanese case, 15 boxes",
+              "Set 1 Japanese, $479.46",
+              "$31.96 per box",
+              "Japanese-language collecting",
+              "6-card packs; not comparable per pack"
+            ],
+            [
+              "Illumineer's Trove",
+              "Set 14 Trove, $49.99 list",
+              "8 packs, about $6.25 a pack",
+              "A night of opening plus storage",
+              "Costs more per pack than the cheapest case"
+            ],
+            [
+              "2-Player Starter Set",
+              "Set 14 starter, $29.99 list",
+              "No boosters",
+              "Playing your first game tonight",
+              "No packs; buy packs separately"
+            ],
+            [
+              "Singles",
+              "Varies by card",
+              "Exact card, exact price",
+              "One named card, grading, deck building",
+              "No sealed value; condition is everything"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other guides miss: the four-box fact, the Enchanted math, and the Iconic era",
+        "paragraphs": [
+          "The guides that rank today disagree with each other on the first fact that matters, and most of them never notice. One price guide says a Lorcana case holds six boxes and 144 packs. Our own case listings say four boxes and 96 packs, the Cambridge TCG pull-rate guide says four boxes and 96 packs, and the tradercracks checklist says four boxes. The six-box figure comes from the Enchanted pull rate, roughly one Enchanted per 144 packs, being misread as a case size. It is not a case size. A case is four boxes, and every per-box number in this guide divides by four. A buyer who divides by six gets a per-box price that is a third too low, and a bargain that does not exist.",
+          "The second thing the guides understate is the Enchanted math, and it is the reason a case is a poor way to chase one card. Ravensburger publishes no pull rates. Community data puts an Enchanted near one per 96 packs for The First Chapter and near one per 144 packs for later sets, which is less than one Enchanted per 96-pack case on average for every set after the first. A case buys 96 packs of random cards, not an Enchanted, and the expected Enchanted return on a case is under one card. If you want one named Enchanted, buy the single. It always costs less than the packs it takes to pull it.",
+          "The third is the Iconic era, and it is why the newer cases cost what they cost. Fabled, released August 29, 2025, added two rarities above Enchanted, Epic and Iconic, and the set values jumped with them. One market snapshot from November 4, 2026 puts the Iconic-era sets at $5,700 to $15,300 for one of every card, against $1,100 to $3,500 for the Enchanted-era sets, led by the Mickey Mouse Brave Little Prince Iconic at $4,167. The newer cases divide higher because their chase pools are dearer, and the older cases divide lower because their chase pools are not. That is the whole price ladder in one sentence: the case price follows the chase pool, not the cardboard."
+        ]
+      },
+      {
+        "h": "The risk layer: Enchanted lottery, reprints, reseals, and rotation",
+        "paragraphs": [
+          "A case is four chances to be disappointed, and the risks scale with the size of the purchase. The first is the Enchanted lottery. A case holds 96 packs and the expected Enchanted return is under one card for every set after the first, so a case opened for the chase is a case opened for a lottery ticket. The Trove and the starter set are cheaper ways to lose the same lottery, and the single is the only way not to play it.",
+          "The second risk is the reprint, and Lorcana has shown it reprints the first set. The First Chapter booster boxes were re-released through a lottery system in June and July 2025, in English, Chinese and Japanese, with smaller Japanese and Chinese boxes. A sealed case bought at a scarcity premium can lose that premium in one reprint announcement, and the Set 1 case at $1,485.26 carries the most premium to lose.",
+          "The third risk is the reseal. The outer tape is re-done, the boxes inside are swapped, and the buyer discovers it one box at a time. The checks are intact distributor tape, square corners, no re-taping, and a seller whose stock you can trace. The strongest check is not physical: it is provenance, a seller whose stock you can trace to a live shelf. A case from a marketplace seller with no history and a price below every other listing is not a bargain, it is a test, and the test costs the price of the case.",
+          "The fourth risk is rotation, and it is the one buyers discover too late. Sets 5 through 8 rotated out of Core Constructed in July 2026, and the sets before them were already out, so eight of the fourteen cases on this shelf are collector product, not play product. A case of Set 8 at $98.48 a box is a cheap way to open packs and a poor way to build a deck you can take to a tournament. Buy the case for the job it can still do."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who want one box, because a case is four boxes and the commitment is the purchase, and we stock no single box beside these cases. It is not for buyers who want one guaranteed Enchanted card, because no case guarantees one and the expected return is under one card per case. It is not for buyers who want the newest set at the official price, because the Set 14 case divides to $153.00 a box, $9.24 above it. And it is not for buyers who need the money back quickly, because the resale market for a full case is narrower than the market for a single box, and the Set 1 case at $1,485.26 has the thinnest resale market on this shelf."
+        ]
+      },
+      {
+        "checklist": [
+          "Read the box count on the listing: 4 boxes, 24 packs, 12 cards per English case; 15 boxes for the Japanese First Chapter case.",
+          "Divide the case price by 4, then by 24, then by 12. Compare against the $143.76 official box price.",
+          "Name the job before you pay: cheapest packs, newest set, first set, or Fabled chase pool.",
+          "Split the case before you pay: a Set 8 case split four ways is $98.48 each for one box.",
+          "Check the set's rotation status: Sets 1 through 8 are collector product now, not Core-legal play product.",
+          "Photograph the case seal before you open it, and open the boxes in order.",
+          "Budget the landed cost: shipping at checkout, plus your country's tax line. A case almost always crosses the relief threshold.",
+          "Re-run the division on the day you pay. Sealed prices move, and the Set 1 case carries the most premium to lose."
+        ],
+        "h": "Action layer: the sealed-case checklist",
+        "paragraphs": [
+          "Keep this list open. The whole guide is in it: the box count, the division, the job named, the split agreed, the rotation checked, the seal photographed, the landed cost budgeted, and the division re-run on the day you pay."
+        ]
+      }
+    ],
+    "slug": "disney-lorcana-sealed-case",
+    "takeaway": [
+      "A Disney Lorcana sealed case is 4 boxes, 96 packs and 1,152 cards, and 15 sit on our shelf as of November 19, 2026, from $393.93 for Set 8 Reign of Jafar to $1,485.26 for Set 1 The First Chapter, plus a Japanese First Chapter case at $479.46 for 15 boxes. Divide every case by 4 before you believe any per-box claim.",
+      "Six English cases divide below the $143.76 official box price, led by Set 8 at $98.48 a box, and eight divide above it, led by Set 1 at $371.32. The expected Enchanted return is under one card per case, so buy the case for volume, not for the chase.",
+      "For the ranking, the [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy by job, and the [Lorcana sealed case price guide](/blog/disney-lorcana-sealed-case-price/) prices every case against the market. For the other game's cases, the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) divides all 14 Fusion World cases the same way. Re-run the division on the day you pay."
+    ]
+  },
   "disney-lorcana-sealed-case-price": {
     "datePublished": "2026-11-10",
     "faqs": [
@@ -16625,7 +16812,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Fifteen Disney Lorcana sealed cases sit on the Warehouse shelf as of November 10, 2026, $11,951.35 for the ladder: fourteen English cases from $463.45 to $1,747.37 and one Japanese First Chapter case at $564.07.",
       "The cheapest English pack is Jafar at $4.83, below the $5.99 list pack, and the cheapest pack on the shelf is the Japanese First Chapter at $1.57. The dearest is the English First Chapter at $18.20 a pack, a scarcity price, not a pack price.",
       "Divide before paying: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy, the [Disney Lorcana booster box price page](/blog/disney-lorcana-booster-box-price/) prices the boxes, and this index divides every case against them.",
-      "New this cycle: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case/) turns this price index into a buying decision — split cost per person and the Hyperia City market gap."
+      "New this cycle: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case/) turns this price index into a buying decision — split cost per person and the Hyperia City market gap.",
+      "New this cycle: the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) turns this price index into a full guide — every case divided, the four-box fact, the Enchanted math, and the Iconic era."
     ]
   },
   "dragon-ball-fusion-world-beginners-guide": {
@@ -17393,6 +17581,190 @@ export const POSTS: Record<string, BlogPost> = {
       "Every Fusion World Japanese box price lives in one table now: official MSRP from $33.42 to $50.13, dated asks from $49.99 for FB11 to $575.95 for SB01, and our shelf from the $26.02 FB08 single to the $402.50 FB09 English box. Eight sets carry no current ask, and the table says so rather than inventing one.",
       "The multiples are the story: FB11 at 1.37 times MSRP is the closest to retail, SB01 at 11.49 times is the furthest, FB12 at 5.02 times is a pre-order premium, and the FB09 English box at 6.99 times the Japanese ask is the gap between the two languages stated as a number.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, the marketplace asks as of September 29, 2026 or June 16, 2026, and yen converted at Y158 per dollar on November 9, 2026. An ask without a date is stale, and a pre-order premium is the price of the wait, not of the cards."
+    ]
+  },
+  "dragon-ball-fusion-world-sealed-case": {
+    "datePublished": "2026-11-19",
+    "faqs": [
+      {
+        "a": "Twelve boxes. Every English Fusion World case on our shelf holds 12 booster boxes, each with 24 packs of 12 cards, so one case is 288 packs and 3,456 cards. The two Manga Booster cases, SB01 and SB02, use the same twelve-box configuration. Do not confuse this with Disney Lorcana, whose cases hold four boxes, or with Pokemon, whose cases hold 12 or 20 depending on the set.",
+        "q": "How many boxes are in a Dragon Ball Fusion World sealed case?"
+      },
+      {
+        "a": "No, and the gap is the whole story. The cheapest mainline case, FB04 Ultra Limit at $1,087.37, divides to $90.61 a box, which is $29.15 below the $119.76 official price of one English box. The dearest mainline case, FB09 Dual Evolution at $4,105.50, divides to $342.13 a box, which is $222.37 above it. The case price follows sealed scarcity, not the official price, so divide first and never assume a case is a bulk discount.",
+        "q": "Is a Fusion World sealed case cheaper than buying boxes one at a time?"
+      },
+      {
+        "a": "No. Bandai publishes no pull rates for Fusion World, so a case buys 288 packs of random cards, not a set of chase cards. A case improves your odds by giving you more packs and nothing more. If you want one named card, buy the single: the Japanese FB07, FB08 and FB09 single cards on our shelf cost $23.70, $22.12 and $54.50, and each one costs less than the packs it would take to pull it. Buy a case to open volume, to split with friends, or to hold sealed.",
+        "q": "Does a sealed case guarantee a chase card?"
+      }
+    ],
+    "h1": "Dragon Ball Fusion World Sealed Case: The Full Guide",
+    "intro": [
+      "Short answer: a Fusion World sealed case is 12 boxes, 288 packs and 3,456 cards, and 14 of them sit on our shelf as of November 19, 2026, from $1,087.37 for FB04 Ultra Limit to $22,873.50 for SB01 Manga Booster 01. The cheapest box inside any case is FB04 at $90.61, $29.15 below the official $119.76 box price, and every case on the shelf fell exactly 15.00% since November 4. Every number below is our own shelf price, divided in the open.",
+      "Who this is for: Fusion World players building a pool, groups splitting a twelve-box case, and sealed holders who want the real per-box cost across all twelve mainline sets plus the two Manga Boosters. Who it is not for: anyone who wants a single box without splitting, anyone who wants Japanese boxes, because we stock English cases only, and anyone who wants one guaranteed chase card."
+    ],
+    "metaDescription": "A Fusion World sealed case is 12 boxes, 288 packs. All 14 cases on our shelf, divided to per-box, per-pack and per-card prices.",
+    "metaTitle": "Dragon Ball Fusion World Sealed Case: The Full Guide",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: twelve boxes, 288 packs, one commitment",
+        "paragraphs": [
+          "A Fusion World sealed case is the box the distributor ships to the shop. Inside a cardboard outer carton sit 12 English booster boxes of one set, each factory-sealed, each holding 24 packs of 12 cards. One case is 288 packs and 3,456 cards, and that is the whole definition. Everything else in this guide is the arithmetic that follows from it.",
+          "The case to buy depends on the job, and the shelf prices the jobs differently. For the cheapest mainline packs, buy FB04 Ultra Limit: the [FB04 Ultra Limit sealed case](/product/dragon-ball-super-fusion-world-fb04-ultra-limit-booster-box-sealed-case-english/) costs $1,087.37, which divides to $90.61 a box, $3.78 a pack and $0.32 a card, the cheapest sealed Fusion World pack we sell. For the newest set, buy FB12 Reach the God on pre-order: the [FB12 Reach the God sealed case](/product/dragon-ball-super-fusion-world-fb12-reach-the-god-booster-box-sealed-case-englis/) costs $1,290.30, or $107.53 a box, for the English release on December 18, 2026, after the Japanese release on December 12. For sealed scarcity, the dearest mainline case is FB09 Dual Evolution at $4,105.50, or $342.13 a box, and the two Manga Booster cases sit above all of it: SB02 at $8,093.82 and SB01 at $22,873.50.",
+          "The shelf lists cases, not single boxes, so every per-box figure here is a case division, not a single-box listing. That distinction matters more for Fusion World than for any other game on the shelf, because the case is the only sealed English route we stock: there is no single English box beside these cases to compare against. The comparison that does exist is the official box price, 24 packs at $4.99, or $119.76, and seven of the twelve mainline cases divide below it while five divide above it. The case is twelve boxes of one set, and that is a lot of one set for one buyer, which is why the honest case buyer is usually a group, a shop, or a collector who opens volume and holds the rest sealed."
+        ]
+      },
+      {
+        "h": "The money layer: all 14 cases, divided",
+        "math": [
+          "FB01 Awakened Pulse case: $3,765.33 / 12 boxes = $313.78 per box; $313.78 / 24 packs = $13.07 per pack; $13.07 / 12 = $1.09 per card",
+          "FB02 Blazing Aura case: $1,132.98 / 12 boxes = $94.42 per box; $94.42 / 24 packs = $3.93 per pack; $3.93 / 12 = $0.33 per card",
+          "FB03 Raging Roar case: $1,348.95 / 12 boxes = $112.41 per box; $112.41 / 24 packs = $4.68 per pack; $4.68 / 12 = $0.39 per card",
+          "FB04 Ultra Limit case: $1,087.37 / 12 boxes = $90.61 per box; $90.61 / 24 packs = $3.78 per pack; $3.78 / 12 = $0.32 per card",
+          "FB05 New Adventure case: $1,139.60 / 12 boxes = $94.97 per box; $94.97 / 24 packs = $3.96 per pack; $3.96 / 12 = $0.33 per card",
+          "FB06 Rivals Clash case: $1,232.30 / 12 boxes = $102.69 per box; $102.69 / 24 packs = $4.28 per pack; $4.28 / 12 = $0.36 per card",
+          "FB07 Wish for Shenron case: $1,348.95 / 12 boxes = $112.41 per box; $112.41 / 24 packs = $4.68 per pack; $4.68 / 12 = $0.39 per card",
+          "FB08 Saiyan's Pride case: $2,082.57 / 12 boxes = $173.55 per box; $173.55 / 24 packs = $7.23 per pack; $7.23 / 12 = $0.60 per card",
+          "FB09 Dual Evolution case: $4,105.50 / 12 boxes = $342.13 per box; $342.13 / 24 packs = $14.26 per pack; $14.26 / 12 = $1.19 per card",
+          "FB10 Cross Force case: $1,983.53 / 12 boxes = $165.29 per box; $165.29 / 24 packs = $6.89 per pack; $6.89 / 12 = $0.57 per card",
+          "FB11 Brightness of Hope case: $2,170.05 / 12 boxes = $180.84 per box; $180.84 / 24 packs = $7.54 per pack; $7.54 / 12 = $0.63 per card",
+          "FB12 Reach the God case: $1,290.30 / 12 boxes = $107.53 per box; $107.53 / 24 packs = $4.48 per pack; $4.48 / 12 = $0.37 per card",
+          "SB01 Manga Booster 01 case: $22,873.50 / 12 boxes = $1,906.13 per box; $1,906.13 / 24 packs = $79.42 per pack; $79.42 / 12 = $6.62 per card",
+          "SB02 Manga Booster 02 case: $8,093.82 / 12 boxes = $674.49 per box; $674.49 / 24 packs = $28.10 per pack; $28.10 / 12 = $2.34 per card",
+          "Official English box: 24 packs x $4.99 = $119.76; FB04 case box $90.61 is $29.15 below it; FB09 case box $342.13 is $222.37 above it",
+          "All 14 cases together: $53,654.75"
+        ],
+        "paragraphs": [
+          "Here is the whole ladder, every case divided to per-box, per-pack and per-card, against the $119.76 official box price. The cheapest case is FB04 at $1,087.37, or $90.61 a box, and the cheapest pack on the shelf is the FB04 pack at $3.78. The dearest mainline case is FB09 at $4,105.50, or $342.13 a box and $14.26 a pack, which is 3.78 times the FB04 box. The whole ladder costs $53,654.75, and most of that is the two Manga Booster cases: SB01 alone costs $22,873.50, more than the six mainline cases FB02 through FB07 combined.",
+          "Seven mainline cases divide below the official box price and five above it. Below the line sit FB04 at $90.61, FB02 at $94.42, FB05 at $94.97, FB06 at $102.69, FB12 at $107.53 and FB03 and FB07 at $112.41. Above it sit FB10 at $165.29, FB08 at $173.55, FB11 at $180.84, FB01 at $313.78 and FB09 at $342.13. The line is not a quality line: FB01 and FB09 are the first set and the newest released set, and their cases carry sealed scarcity, not play value. A case below the official price is a genuine bulk saving. A case above it is a collector premium, and it should be bought as one.",
+          "The second number that matters is the fall. Every case on this shelf cost exactly 15.00% less on November 19 than it did on November 4, when our [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) priced the same fourteen cases. FB04 fell from $1,279.26 to $1,087.37, FB09 from $4,830.00 to $4,105.50, SB01 from $26,910.00 to $22,873.50, and FB12 from $1,518.00 to $1,290.30. A uniform repricing across a whole shelf in one leg is a shop repricing, not fourteen sets moving at once, and it means the November 4 prices are history. Re-run the division on the day you pay, because the next leg could run the other way."
+        ]
+      },
+      {
+        "h": "The practical layer: buy a case in six steps",
+        "note": "Warehouse Note: the question we get most in chat about Fusion World is whether the Japanese listings are boxes. They are not, and we say so on the product page as well as here: the five Japanese Fusion World listings on this shelf are single cards, FB07 at $23.70, FB08 at $22.12, FB09 at $54.50, and both Manga Boosters at $48.97. We stock it, we ship it daily, and we would rather sell one card to a buyer who wants that card than one case to a buyer who thought they were buying twelve Japanese boxes.",
+        "paragraphs": [
+          "Step one: pick the set by its job. FB04 for the cheapest packs. FB12 on pre-order for the newest set. FB02 or FB05 for a cheap released set. FB01 or FB09 for sealed scarcity, accepting the premium. SB01 or SB02 only if you understand what a Manga Booster case is, which is the next section. Our [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the same shelf by the box, and our [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) prices every Dragon Ball product we stock, divided.",
+          "Step two: count the commitment. One case is twelve boxes, 288 packs and 3,456 cards of one set. Split it before you pay, not after: an FB12 case split four ways costs each person $322.58 for three boxes, and an FB04 case split four ways costs $271.84 each for three boxes. Split three ways, the same cases cost $430.10 and $362.46 each for four boxes. Name who takes which boxes and who holds the sealed remainder before the money moves.",
+          "Step three: run the division against the official box. Case price divided by 12, then by 24, then by 12. If the per-box number sits below $119.76, the case saves against the official price. If it sits above, you are paying a scarcity premium, and you should be able to say which scarcity you are paying for.",
+          "Step four: treat FB12 as a pre-order, not a live case. Its English date is December 18, 2026, after the Japanese release on December 12, and its case configuration is listed as expected: twelve boxes, 24 packs, 12 cards. A pre-order locks your price and your allocation, and the risk is that the set gets reprinted and the price falls, or that the release slips and your money sits.",
+          "Step five: check the seal on arrival before you open anything. The outer tape should be intact, the corners square, no re-taping, and the boxes untouched inside. Photograph the case before you open it, and open the boxes in order. A case with broken tape is twelve boxes, not a sealed case.",
+          "Step six: budget the landed cost, not the sticker. The European Union charges 21% VAT from the first euro plus a 3 euro flat duty per category on low-value parcels since July 2026. Singapore gives GST relief up to S$400 and charges 9% above it. The Philippines gives relief up to 10,000 pesos and charges 12% VAT above it. Australia gives border relief up to A$1,000. A case almost always crosses those lines, because even the cheapest case costs $1,087.37. The exact shipping quote is confirmed at checkout or on WhatsApp."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, single, or Masters",
+        "paragraphs": [
+          "The table below turns the ladder into a choice. Read it by the job, because the cheapest per-box number is only the right answer if the job is volume. A Fusion World case is twelve boxes of one set, and the buyer who opens all twelve alone is buying 288 packs of the same set, which is a lot of one set for one person. The single box does not exist on this shelf in English, so the real alternatives are the [Japanese single card](/blog/buy-dragon-ball-cards-japanese/), the [Masters case](/blog/best-dragon-ball-masters-booster-box-to-buy/), and the marketplace box."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Example on our shelf",
+            "Per box / per pack",
+            "Best for",
+            "Watch out for"
+          ],
+          "rows": [
+            [
+              "English sealed case, 12 boxes",
+              "FB04 Ultra Limit, $1,087.37",
+              "$90.61 / $3.78",
+              "Cheapest sealed packs; splitting with friends",
+              "12 boxes of one set; $1,087.37 commitment"
+            ],
+            [
+              "English sealed case, newest",
+              "FB12 Reach the God, $1,290.30",
+              "$107.53 / $4.48",
+              "Newest set on pre-order",
+              "Pre-order: English release December 18, 2026"
+            ],
+            [
+              "English sealed case, scarce",
+              "FB09 Dual Evolution, $4,105.50",
+              "$342.13 / $14.26",
+              "Sealed scarcity holding",
+              "$222.37 above the official box price"
+            ],
+            [
+              "Manga Booster case",
+              "SB01, $22,873.50",
+              "$1,906.13 / $79.42",
+              "Art object; manga chase pool",
+              "Not an opening product at this price"
+            ],
+            [
+              "Japanese single card",
+              "FB09 card, $54.50",
+              "Exact card, exact price",
+              "One named card",
+              "Not a box; never divide a card price by 24"
+            ],
+            [
+              "Masters sealed case",
+              "B25 Legend of the Dragon Balls, $1,049.83",
+              "$87.49 / $3.65",
+              "Older game, cheaper entry",
+              "Different game; cards do not mix with Fusion World"
+            ],
+            [
+              "Marketplace English box",
+              "Varies by seller",
+              "About $119.76 official",
+              "One box without a case",
+              "No chain of custody; reseal risk is yours"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other guides miss: the 15% leg, the single-card trap, and the Manga Boosters",
+        "paragraphs": [
+          "The guides that rank today all cover the same ground: the case configuration, the per-box division, the split. None of them prices the repricing, and that is the most honest number in this guide. Every case on this shelf fell exactly 15.00% between November 4 and November 19, 2026, in a single leg. FB01 fell $664.47, FB09 fell $724.50, SB01 fell $4,036.50. The guides written on November 4 prices are fifteen percent wrong today, and a buyer who pays November 4 prices in December is paying a price the shop itself no longer charges. Prices carry dates, and this ladder is stamped November 19, 2026.",
+          "The second thing the guides understate is the single-card trap, and it is the one buyers discover too late. The five Japanese Fusion World listings on this shelf are single cards, not boxes: the [FB09 Dual Evolution Japanese card](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) costs $54.50, FB07 costs $23.70, FB08 costs $22.12, and both Manga Booster cards cost $48.97. A buyer who divides $54.50 by 24 packs gets $2.27 a pack and thinks they have found the cheapest sealed pack in the game. They have not. They have divided a card. Our own earlier guides carried the box reading for these listings, and it was wrong; the correction is that a title ending in Card, with no booster-box category and no pack count on the page, is a card. Read the unit on the listing before you divide.",
+          "The third is the Manga Boosters, and they are the reason the ladder total looks absurd. SB01 Manga Booster 01 costs $22,873.50 a case, or $1,906.13 a box and $79.42 a pack, and SB02 costs $8,093.82, or $674.49 a box. These are not opening products at these prices. They are art objects: manga-illustrated chase cards in a sealed case, priced for collectors who want the sealed case itself. A buyer who opens an SB01 case at $79.42 a pack is paying $79.42 for twelve cards whose expected return is a fraction of that. The case is the product. The packs inside are the excuse."
+        ]
+      },
+      {
+        "h": "The risk layer: pre-orders, reprints, reseals, and concentration",
+        "paragraphs": [
+          "A case is twelve chances to be disappointed, and the risks scale with the size of the purchase. The first is the pre-order. FB12 is the only pre-order case on this shelf, and its risk runs in two directions: the set could be reprinted and the price fall, or the release could slip past December 18 and your money sit. Pre-order the set you would buy at release anyway, and never pre-order a set you are buying because the pre-order window is closing.",
+          "The second risk is the reprint, and Fusion World has shown it moves fast. The same shelf fell 15.00% in fifteen days, and a sealed case bought at the old price is worth the new price the moment the repricing lands. Sealed prices fall as well as rise, and a case is twelve boxes of the same fall. If the set's chase cards fall in price, all twelve boxes fall with them.",
+          "The third risk is the reseal. The outer tape is re-done, the boxes inside are swapped, and the buyer discovers it one box at a time. The checks are intact distributor tape, square corners, no re-taping, and a seller whose stock you can trace. The strongest check is not physical: it is provenance, a seller whose stock you can trace to a live shelf. A case from a marketplace seller with no history and a price below every other listing is not a bargain, it is a test, and the test costs the price of the case.",
+          "The fourth risk is concentration. Twelve boxes of one set is a lot of one set, and the Manga Booster cases concentrate it further: SB01 is $22,873.50 in a single set, a single chase pool, a single price. If you open three boxes and lose interest, nine boxes remain, and they are the same set you have already opened. The honest case buyer is a group splitting the case, a shop restocking, or a collector who opens volume and holds the rest sealed."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who want one box, because a case is twelve boxes and the commitment is the purchase, and we stock no single English box beside these cases. It is not for buyers who want one card, because no case guarantees a chase card and the single is always cheaper: the Japanese FB09 card costs $54.50 and a case costs $4,105.50. It is not for buyers who want Japanese sealed boxes, because we stock English cases only, and the Japanese listings here are single cards. And it is not for buyers who need the money back quickly, because the resale market for a full case is narrower than the market for a single box, and the SB01 case at $22,873.50 has almost no resale market at all."
+        ]
+      },
+      {
+        "checklist": [
+          "Read the box count on the listing: 12 boxes, 24 packs, 12 cards per case. A Fusion World case is 288 packs.",
+          "Divide the case price by 12, then by 24, then by 12. Compare against the $119.76 official box price.",
+          "Name the job before you pay: cheapest packs, newest set, sealed scarcity, or Manga Booster art object.",
+          "Split the case before you pay: FB12 split four ways is $322.58 each for three boxes; FB04 split four ways is $271.84 each.",
+          "Check the single-card trap: a Japanese listing ending in Card is a card, never divide it by 24.",
+          "Photograph the case seal before you open it, and open the boxes in order.",
+          "Budget the landed cost: shipping at checkout, plus your country's tax line. A case always crosses the relief threshold.",
+          "Re-run the division on the day you pay. The whole shelf fell 15.00% in fifteen days."
+        ],
+        "h": "Action layer: the sealed-case checklist",
+        "paragraphs": [
+          "Keep this list open. The whole guide is in it: the box count, the division, the job named, the split agreed, the single-card trap checked, the seal photographed, the landed cost budgeted, and the division re-run on the day you pay."
+        ]
+      }
+    ],
+    "slug": "dragon-ball-fusion-world-sealed-case",
+    "takeaway": [
+      "A Dragon Ball Fusion World sealed case is 12 boxes, 288 packs and 3,456 cards, and 14 sit on our shelf as of November 19, 2026, from $1,087.37 for FB04 Ultra Limit to $22,873.50 for SB01 Manga Booster 01. Divide every case by 12 before you believe any per-box claim.",
+      "Seven mainline cases divide below the $119.76 official box price, led by FB04 at $90.61 a box, and five divide above it, led by FB09 at $342.13. Every case fell exactly 15.00% since November 4, so the old prices are history.",
+      "For the ranking, the [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) picks the buy by job, and the [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) prices every Dragon Ball product we stock. For the other game's cases, the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) divides all 15 Lorcana cases the same way. Re-run the division on the day you pay."
     ]
   },
   "dragon-ball-fusion-world-sealed-case-price": {
@@ -18452,7 +18824,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The cheapest pack on the shelf is Japanese — FB08 at $1.08, $0.18 a card — and the cheapest English pack is B25 at $4.29. The dearest pack is the SB01 case at $93.44, a scarcity price, not a pack price.",
       "Divide before paying: the [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) picks the buy, the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) ranks the cases, and this index divides every product against them.",
       "For the channel view behind this index, the [where to buy guide](/blog/where-to-buy-dragon-ball-tcg-japan/) runs the Buyee invoice: a list-price box lands near $44.03 before international shipping, $18.01 more than FB08.",
-      "New this cycle: the [Dragon Ball Fusion World booster box price index](/blog/dragon-ball-fusion-world-booster-box-price/) divides the nineteen Fusion World boxes alone, Japanese singles from $26.02 and English cases from $106.61 a box."
+      "New this cycle: the [Dragon Ball Fusion World booster box price index](/blog/dragon-ball-fusion-world-booster-box-price/) divides the nineteen Fusion World boxes alone, Japanese singles from $26.02 and English cases from $106.61 a box.",
+      "New this cycle: the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) divides all fourteen Fusion World cases at November 19 prices, from FB04 at $90.61 to SB01 at $1,906.13 per box."
     ]
   },
   "eb-01-investment": {
