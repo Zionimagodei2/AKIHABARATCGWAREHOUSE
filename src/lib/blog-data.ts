@@ -33187,7 +33187,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV8 box at $219.50 is $7.32 a pack and $1.46 a card, $185.71 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $2,002.52 divides to $166.88 a box, $631.48 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
       "It is worth buying as the Super Electric Breaker set to open, sealed, and it is not worth buying as a way to own the Pikachu ex Special Art Rare or to make the money back by opening. Pikachu ex sat at $257.88 on TCGplayer on November 13, 2026, which is 117.49 percent of a box, and the top three cards together sat at $420.35, which is 1.92 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $38.73 in five days, from $258.23 to $219.50, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $2,355.91 to $2,002.52, which did not change the verdict, because the case saved money before the fall and saves $631.48 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
-      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of November 13 to November 14, 2026. The box now sits $77.71 above the TCGplayer box price of $141.79, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV8 Super Electric Breaker buyer's guide](/blog/sv8-super-electric-breaker-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV7a Paradise Dragona worth buying guide](/blog/is-sv7a-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 132.72 percent of a box and the case saves $375.20."
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of November 13 to November 14, 2026. The box now sits $77.71 above the TCGplayer box price of $141.79, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV8 Super Electric Breaker buyer's guide](/blog/sv8-super-electric-breaker-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV7a Paradise Dragona worth buying guide](/blog/is-sv7a-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 132.72 percent of a box and the case saves $375.20.",
+      "New this cycle: the [SV8 Super Electric Breaker investment guide](/blog/sv8-investment/) runs the full division on the $219.50 box and the $2,002.52 case, and prices the case against twelve market boxes."
     ]
   },
   "is-sv8a-worth-buying": {
@@ -33383,7 +33384,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV8a box at $138.82 is $13.88 a pack and $1.39 a card, $104.40 above the derived 5,500 yen box price at 159.8 yen per dollar, while the case at $2,314.69 divides to $115.73 a box, $461.71 less than twenty singles. Buy the box or the case, never twenty singles, and buy the single for any named card.",
       "It is worth buying as the Terastal Festival ex set to open, sealed, and it is not worth buying as a way to own the Umbreon ex Special Art Rare or to make the money back by opening. Umbreon ex sat at $355.98 on TCGplayer on November 14, 2026, which is 256.43 percent of a box, and the top three cards together sat at $510.31, which is 3.68 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $24.50 in seven days, from $163.32 to $138.82, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $2,723.16 to $2,314.69, which did not change the verdict, because the case saved money before the fall and saves $461.71 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
-      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of November 8 to November 14, 2026. The box now sits $27.76 above the TCGplayer box price of $111.06, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV8 Super Electric Breaker worth buying guide](/blog/is-sv8-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 117.49 percent of a box and the case saves $631.48."
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of November 8 to November 14, 2026. The box now sits $27.76 above the TCGplayer box price of $111.06, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV8 Super Electric Breaker worth buying guide](/blog/is-sv8-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 117.49 percent of a box and the case saves $631.48.",
+      "New this cycle: the [SV8a Terastal Festival ex investment guide](/blog/sv8a-investment/) runs the full division on the $138.82 box and the $2,314.69 case, and prices the case against twenty market boxes."
     ]
   },
   "is-sv9-worth-buying": {
@@ -58042,7 +58044,9 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Paradise Dragona set to open, sealed, and it is not worth buying as a way to own the Latias ex Special Art Rare or to make the money back by opening. Latias ex sat at $159.86 on November 18, 2026, which is 133.16 percent of a box, and the top two cards together sat at $240.35, which is 2.00 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $21.19 in six days, from $141.24 to $120.05, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,253.41 to $1,065.40, which did not change the verdict, because the case saved money before the fall and saves $375.20 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of November 8 to November 19, 2026. The box now sits $5.18 above the $114.87 market box, and the case box sits $26.09 below it. For the price-and-math companion, the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV7 Stella Miracle worth buying guide](/blog/is-sv7-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 51.43 percent of a box and the case saves $167.31.",
-      "New this cycle: the [SV7 Stella Miracle investment guide](/blog/sv7-investment/) prices the July 2024 twin at a $77.87 box, but its case saves $167.31, $207.89 less than the Paradise Dragona case, while the complete set at $228.49 costs $5.12 less than three boxes."
+      "New this cycle: the [SV7 Stella Miracle investment guide](/blog/sv7-investment/) prices the July 2024 twin at a $77.87 box, but its case saves $167.31, $207.89 less than the Paradise Dragona case, while the complete set at $228.49 costs $5.12 less than three boxes.",
+      "New this cycle: the [SV8 Super Electric Breaker investment guide](/blog/sv8-investment/) prices the October 2024 set at a $219.50 box, but its case saves $631.48, $256.28 more than the Paradise Dragona case.",
+      "New this cycle: the [SV8a Terastal Festival ex investment guide](/blog/sv8a-investment/) prices the December 2024 high-class set at a $138.82 box, but its case saves $461.71, $86.51 more than the Paradise Dragona case."
     ]
   },
   "sv7a-paradise-dragona-buyers-guide": {
@@ -58230,6 +58234,268 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the main set that came two months before Paradise Dragona at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles. For the November 14 verdict on the same prices, the [is SV7a Paradise Dragona worth buying guide](/blog/is-sv7a-worth-buying/) runs the box, the case, and the single side by side after the fifteen percent fall."
     ]
   },
+  "sv8-investment": {
+    "datePublished": "2026-11-19",
+    "faqs": [
+      {
+        "a": "Sealed, for the collection, yes. The box is $219.50, $7.32 a pack and $1.46 a card, and the case is $2,002.52, which divides to $166.88 a box and saves $631.48 against twelve singles, the second-biggest case saving on the shelf after Pokemon Card 151 at $1,568.32. The chase is the Pikachu ex Special Art Rare at $257.88, which costs 117.49 percent of a box, so the single costs more than the box that might hold it. One honest counterweight: the case costs $324.92 more than twelve market boxes at $139.80, so it is the cheapest sealed SV8 on this shelf, not the cheapest anywhere. The cards carry the H regulation mark, which is still legal in the 2026-27 Standard format, so buy this box for the set, the play, and the Pikachu art, not to pull one named card.",
+        "q": "Is SV8 Super Electric Breaker a good investment?"
+      },
+      {
+        "a": "Yes, by $52.62 a box. The case costs $2,002.52 for 12 boxes, which divides to $166.88 a box, $52.62 less per box than the single box at $219.50, so the case saves $631.48 against twelve singles at $2,634.00. But it is not the cheapest sealed Super Electric Breaker anywhere: twelve TCGplayer boxes at $139.80 cost $1,677.60, $324.92 less than our case, and the case-split box at $166.88 is still $27.08 above the market box. Buy the case on this shelf, never twelve singles.",
+        "q": "Is the SV8 sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Pikachu ex Special Art Rare is $257.88 as of November 18, 2026, which is 117.49 percent of a box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. The single costs $38.38 more than the box itself. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV8 box to pull the Pikachu ex SAR?"
+      }
+    ],
+    "h1": "SV8 Super Electric Breaker Investment Guide",
+    "intro": [
+      "Short answer: buy the sealed case first, the single box second, and never chase Pikachu ex in packs. The [SV8 Super Electric Breaker booster box](/product/sv8-super-electric-breaker-booster-box-japanese-pokemon-card/) is $219.50 on this shelf as of November 19, 2026, $7.32 a pack and $1.46 a card, and the [sealed case of twelve](/product/sv8-super-electric-breaker-sealed-case-12-boxes-japanese-pokemon-card/) divides to $166.88 a box and saves $631.48, but it costs $324.92 more than twelve market boxes at $139.80. The Pikachu ex Special Art Rare is $257.88 as of November 18, 2026, 117.49 percent of a box and 41.97 percent of the $614.44 set. The cards carry the H regulation mark, still legal in the 2026-27 Standard format.",
+      "This guide answers for three buyers: the sealed holder weighing a case that saves $631.48, the opener weighing a $219.50 box against a $257.88 single, and the buyer weighing the box against the market box that costs $79.70 less. It is not for the buyer who wants the cheapest sealed Super Electric Breaker anywhere, or one who expects a box to pay for itself."
+    ],
+    "metaDescription": "SV8 box $219.50, case divides to $166.88 and saves $631.48 — but costs $324.92 more than twelve market boxes. Pikachu SAR is 117.49% of a box.",
+    "metaTitle": "SV8 Super Electric Breaker Investment Guide",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase no Pikachu",
+        "note": "From the Warehouse: the question we get most about Super Electric Breaker is whether the flat shelf changed the verdict. It did not. The box and the case have not moved since November 14, and the case was the buy at $2,002.52 then and is still the buy at $2,002.52 now. What moved is the market around it: the TCGplayer box fell to $139.80, so the case that saves $631.48 on our shelf now costs $324.92 more than twelve market boxes, and that is the number this guide adds to the verdict.",
+        "paragraphs": [
+          "Buy the case if the job is sealed holding or a group split. At $2,002.52 it holds twelve boxes at $166.88 each, $52.62 less per box than the $219.50 single box, a saving of $631.48, 23.97 percent of the twelve-box cost. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every set.",
+          "Buy the single box if the job is one box. At $219.50 it is $7.32 a pack and $1.46 a card, the dearest 30-pack Scarlet and Violet box on the shelf, $38.46 above the [Glory of Team Rocket box](/blog/sv10-glory-of-team-rocket-buyers-guide/) at $181.04 and $99.45 above the [Paradise Dragona box](/blog/is-sv7a-worth-buying/) at $120.05. The [is SV8 worth buying guide](/blog/is-sv8-worth-buying/) runs the same verdict on the November 14 prices.",
+          "Buy the Pikachu single if the job is the Pikachu. At $257.88 as of November 18, 2026 it is 117.49 percent of a box, $38.38 more than the box itself, and the complete set at $614.44 is 2.80 boxes. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks the whole case ladder."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, the market, and the flat shelf",
+        "math": [
+          "SV8 box per pack: $219.50 / 30 packs = $7.32 per pack",
+          "SV8 box per card: $219.50 / 150 cards = $1.46 per card",
+          "SV8 case per box: $2,002.52 / 12 boxes = $166.88 per box",
+          "SV8 twelve single boxes: 12 x $219.50 = $2,634.00",
+          "SV8 case saving per case: $2,634.00 - $2,002.52 = $631.48",
+          "SV8 case saving per box: $631.48 / 12 boxes = $52.62 per box",
+          "SV8 case saving percent: $631.48 / $2,634.00 = 23.97%",
+          "SV8 case per pack: $2,002.52 / 360 packs = $5.56 per pack",
+          "SV8 case per card: $2,002.52 / 1,800 cards = $1.11 per card",
+          "SV8 official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.97 = $33.76",
+          "SV8 box vs official: $219.50 - $33.76 = $185.74 above official",
+          "SV8 box vs official ratio: $219.50 / $33.76 = 6.50x official",
+          "SV8 case box vs official ratio: $166.88 / $33.76 = 4.94x official",
+          "SV8 market box, TCGplayer via Sparkl: $139.80 on November 19, 2026",
+          "SV8 shelf vs market box: $219.50 - $139.80 = $79.70 above the market box",
+          "SV8 shelf vs market box ratio: $219.50 / $139.80 = 1.57x the market box",
+          "SV8 case box vs market box: $166.88 - $139.80 = $27.08 above the market box",
+          "SV8 twelve TCGplayer boxes: 12 x $139.80 = $1,677.60",
+          "SV8 case vs twelve TCGplayer boxes: $2,002.52 - $1,677.60 = $324.92 more than twelve market boxes",
+          "SV8 market pack, TCGplayer via Sparkl: $5.57 on November 19, 2026",
+          "SV8 shelf pack vs market pack: $7.32 - $5.57 = $1.75 above the market pack",
+          "SV8 case pack vs market pack: $5.57 - $5.56 = $0.01 below the market pack",
+          "SV8 market box per pack: $139.80 / 30 packs = $4.66 per pack",
+          "SV8 shelf pack vs market box pack: $7.32 - $4.66 = $2.66 above the market box pack",
+          "SV8 cheapest US store ask, DexCompare: $124.99 on November 19, 2026",
+          "SV8 shelf vs cheapest US store ask: $219.50 - $124.99 = $94.51 above the cheapest store ask",
+          "SV8 cheapest store box per pack: $124.99 / 30 packs = $4.17 per pack",
+          "SV8 market box move since November 8, 2026: $141.79 - $139.80 = $1.99; $1.99 / $141.79 = 1.40%",
+          "SV8 box vs SV10 box: $219.50 - $181.04 = $38.46 per box",
+          "SV8 box vs SV7a box: $219.50 - $120.05 = $99.45 per box",
+          "SV8 box vs SV7 box: $219.50 - $77.87 = $141.63 per box",
+          "SV8 box vs M3 box: $219.50 - $60.03 = $159.47 per box",
+          "SV8 case saving vs SV7a case saving: $631.48 - $375.20 = $256.28 more saved",
+          "SV8 case saving vs SV10 case saving: $631.48 - $624.29 = $7.19 more saved",
+          "SV8 box plus SV7a box: $219.50 + $120.05 = $339.55",
+          "SV8 case plus SV7a case: $2,002.52 + $1,065.40 = $3,067.92"
+        ],
+        "paragraphs": [
+          "Every line below is one division from shelf prices as of November 19, 2026. The rate is 159.97 yen to the dollar, the ECB cross rate for November 19, 2026, from EUR/USD 1.0992 and EUR/JPY 175.84, so an official box is 5,400 yen, or $33.76. Our box sits $185.74 above official, 6.50 times it, and the case box 4.94 times it.",
+          "The shelf did not move this cycle. On November 14 the box was $219.50 and the case $2,002.52, and on November 19 both are the same, so the fifteen percent fall of November 13 is fully priced in and the $631.48 saving survived it intact. The market moved instead: the TCGplayer box fell to $139.80 from $141.79 on November 8, and the cheapest US store ask on DexCompare is $124.99, $94.51 below our shelf box.",
+          "The market check changes the verdict's shape, not its order. Our box sits $79.70 above the $139.80 market box, 1.57 times it, and our case box sits $27.08 above it, so the case is the cheapest sealed Super Electric Breaker on this shelf and yet not the cheapest anywhere: twelve market boxes cost $1,677.60, $324.92 less than our case. The one place the case beats the market outright is the pack: the case pack at $5.56 sits $0.01 below the $5.57 market pack. The [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) runs the same math for buyers choosing a language."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market, or the single, side by side",
+        "paragraphs": [
+          "Eight ways to spend on SV8, priced November 19. The case row deserves the first look: at $166.88 a box inside the case, it is the cheapest sealed Super Electric Breaker on this shelf by $52.62 a box, and its $5.56 pack is the only sealed pack here that beats the $5.57 market pack. The market rows deserve the second look: the $139.80 market box and the $124.99 cheapest store ask both sit below every sealed price on this shelf, so the case is a shelf buy, not a market buy. The single rows deserve the third look: $257.88 buys the Pikachu and $420.35 buys the top three, and the [SV7a Paradise Dragona investment guide](/blog/sv7a-investment/) runs the same table on the September set, where the chase costs 133.16 percent of a box.",
+          "Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$219.50",
+              "$7.32",
+              "Opening the Super Electric Breaker set",
+              "One $257.88 chase, 117.49% of a box"
+            ],
+            [
+              "Sealed case (12)",
+              "$2,002.52",
+              "$5.56",
+              "Twelve boxes at $166.88 each",
+              "$324.92 more than twelve market boxes"
+            ],
+            [
+              "Twelve single boxes",
+              "$2,634.00",
+              "$7.32",
+              "Buying one box at a time",
+              "$631.48 more than the case"
+            ],
+            [
+              "Market box",
+              "$139.80",
+              "$4.66",
+              "TCGplayer market reference",
+              "$79.70 below our shelf box"
+            ],
+            [
+              "Cheapest US store box",
+              "$124.99",
+              "$4.17",
+              "The lowest US store ask",
+              "$94.51 below our shelf box, before shipping"
+            ],
+            [
+              "Pikachu ex SAR single",
+              "$257.88",
+              "n/a",
+              "Owning the chase card",
+              "1.17 boxes, flat since November 13"
+            ],
+            [
+              "Top three singles",
+              "$420.35",
+              "n/a",
+              "Owning the top of the set",
+              "1.92 boxes, still no box opened"
+            ],
+            [
+              "Complete set singles",
+              "$614.44",
+              "n/a",
+              "Owning every card",
+              "$175.44 more than two boxes"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the Korean box, the Milotic flip, and the case that costs more than the market",
+        "note": "From the Warehouse: the gap we own on SV8 is the second card nobody prices against its English twin, and the market box nobody divides against our case. The card lists quote the Pikachu, the buying guides quote the set, and nobody puts the Milotic ex Special Art Rare next to the English Milotic ex that now costs more than it, or divides our live case against twelve market boxes, where the same shelf that saves $631.48 against its own singles costs $324.92 more than the market.",
+        "paragraphs": [
+          "The top results are a buying guide, a Korean price board, and a card list. The Nippon TCG guide explains the set identity and the Pikachu chase, but it keeps prices separate from the guide and names no verdict. The Search Cards board prices a sealed SV8 box at about 36.34 euros, or about $40.00, as of November 18, 2026, but that is the Korean Electric Breaker box, a different language product down 27 percent in twelve months, and a buyer who lands on it is $179.50 away from the Japanese box before shipping. The Samurai Sword card list runs every price in the set, but it is a list, not a verdict, and it never divides a case into a per-box price. None of the three runs the box against the case, or the case against the market.",
+          "None of the three prices the Milotic flip either. The English Milotic ex Special Illustration Rare is $97.36 on TCGplayer as of November 15, 2026, $7.22 more than the Japanese Milotic ex Special Art Rare at $90.14, so the second card now runs the other way from the first: the Japanese Pikachu costs $38.63 more than its English twin, while the Japanese Milotic costs $7.22 less than its English twin. No top result prices either flip. The [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the same question for graded singles."
+        ]
+      },
+      {
+        "h": "The chase layer: one $257.88 card, a $420.35 trio, and a $614.44 set",
+        "math": [
+          "Pikachu ex SAR vs box: $257.88 / $219.50 = 117.49% of a box",
+          "Pikachu ex SAR vs case box: $257.88 / $166.88 = 1.55x the price of a case box",
+          "Pikachu ex SAR vs market box: $257.88 / $139.80 = 1.84x the market box",
+          "Pikachu ex SAR minus box: $257.88 - $219.50 = $38.38 more than the box",
+          "Pikachu ex SAR vs complete set: $257.88 / $614.44 = 41.97%",
+          "Pikachu ex SAR vs case: $257.88 / $2,002.52 = 12.88% of a case",
+          "Milotic ex SAR vs box: $90.14 / $219.50 = 41.07% of a box",
+          "Milotic ex SAR vs Pikachu ex SAR: $90.14 / $257.88 = 34.95%",
+          "Pikachu ex SAR minus Milotic ex SAR: $257.88 - $90.14 = $167.74",
+          "Pikachu ex UR vs box: $72.33 / $219.50 = 32.96% of a box",
+          "Pikachu ex SR vs box: $28.78 / $219.50 = 13.11% of a box",
+          "Hydreigon ex SAR vs box: $27.77 / $219.50 = 12.65% of a box",
+          "SV8 top three cards: $257.88 + $90.14 + $72.33 = $420.35",
+          "SV8 top three vs box: $420.35 / $219.50 = 1.92x the price of a box",
+          "SV8 top three vs complete set: $420.35 / $614.44 = 68.41%",
+          "SV8 top five cards: $420.35 + $28.78 + $27.77 = $476.90",
+          "SV8 top five vs box: $476.90 / $219.50 = 2.17x the price of a box",
+          "SV8 top five vs complete set: $476.90 / $614.44 = 77.62%",
+          "SV8 all six SARs: $22.80 + $90.14 + $257.88 + $27.77 + $5.90 + $21.21 = $425.70",
+          "SV8 all six SARs vs box: $425.70 / $219.50 = 1.94x the price of a box",
+          "SV8 all six SARs vs complete set: $425.70 / $614.44 = 69.28%",
+          "SV8 complete set vs box: $614.44 / $219.50 = 2.80 boxes",
+          "SV8 two boxes: 2 x $219.50 = $439.00",
+          "SV8 set minus two boxes: $614.44 - $439.00 = $175.44",
+          "SV8 three boxes: 3 x $219.50 = $658.50",
+          "SV8 three boxes minus set: $658.50 - $614.44 = $44.06",
+          "SV8 complete set move since November 13, 2026: $617.54 - $614.44 = $3.10; $3.10 / $617.54 = 0.50%",
+          "SV8 Pikachu ex SR move since November 13, 2026: $29.89 - $28.78 = $1.11; $1.11 / $29.89 = 3.71%",
+          "SV8 top five move since November 13, 2026: $478.08 - $476.90 = $1.18; $1.18 / $478.08 = 0.25%",
+          "English Pikachu ex SIR vs Japanese Pikachu ex SAR: $257.88 - $219.25 = $38.63",
+          "English Pikachu ex SIR vs Japanese ratio: $219.25 / $257.88 = 85.02% of the Japanese price",
+          "English Pikachu ex SIR move since November 14, 2026: $225.81 - $219.25 = $6.56; $6.56 / $225.81 = 2.91%",
+          "English Milotic ex SIR vs Japanese Milotic ex SAR: $97.36 - $90.14 = $7.22",
+          "English Milotic ex SIR vs Japanese ratio: $97.36 / $90.14 = 1.08x the Japanese price",
+          "English Hydreigon ex SIR vs Japanese Hydreigon ex SAR: $29.36 - $27.77 = $1.59",
+          "Pikachu ex SAR PSA 10 back order, Samurai Sword: 96,300 yen / 159.97 = $602",
+          "Pikachu ex SAR PSA 10 back order vs raw: $602 / $257.88 = 2.33x the raw card",
+          "Milotic ex SAR PSA 10, Samurai Sword: 29,732 yen / 159.97 = $186",
+          "SV8 Special Art Rare community estimate: 1 pull in 1 to 3 boxes; 1 x $219.50 = $219.50 to 3 x $219.50 = $658.50 of boxes per SAR"
+        ],
+        "paragraphs": [
+          "The chase sits in one card and then falls off a cliff. The Pikachu ex Special Art Rare, 132/106, at $257.88 on November 18, 2026, is 117.49 percent of a box and 41.97 percent of the $614.44 set. After it comes Milotic ex at $90.14, 41.07 percent of a box and $167.74 behind the Pikachu, and Pikachu ex Ultra Rare at $72.33, 32.96 percent of a box. The Pikachu ex Super Rare at $28.78 and the Hydreigon ex Special Art Rare at $27.77 close the top five, ahead of Durant ex at $22.80 and Jasmine's Gaze at $21.21. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark.",
+          "The chase is the warning. The top three cards together cost $420.35, 1.92 boxes and 68.41 percent of the set, while all six Special Art Rares total $425.70, 1.94 boxes and 69.28 percent of the set. The complete set at $614.44 is 2.80 boxes, so two boxes still leave $175.44 unowned, and three boxes at $658.50 cost $44.06 more than the set: neither route wins cleanly. A second read runs lower: Cardfolio puts the complete set at about $558 as of November 18, 2026, $56.44 below the OGCards total, so $614.44 is the higher read.",
+          "The pull math is the second warning, labelled an estimate: the Pokemon Company publishes no pull rates, so no expected value is calculated here. The closest figure is a 2023 community estimate of a Special Art Rare at one pull in 1 to 3 boxes, or $219.50 to $658.50 of boxes, against $257.88 for the single. A Special Art Rare is a possible surprise, not a budget line. The [god pack guide](/blog/what-is-a-god-pack-japanese-pokemon/) explains the mechanic."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card set, the flat shelf, and the English inversion",
+        "paragraphs": [
+          "The first risk is the one-card set. The complete set is $614.44, and the top five cards hold 77.62 percent of it, with Pikachu ex alone holding 41.97 percent. 125 of its 138 cards are under $5, so most of what a box opens is bulk, and Milotic ex at $90.14 is the only other card above $73. A box that opens no Special Art Rare returns cards worth a few dollars each, and the Pokemon Company publishes no pull rates, so no box promises a SAR at all. Recovery is the single: the five best cards together cost $476.90, $37.90 more than two boxes.",
+          "The second risk is the flat shelf after a fall. The box fell fifteen percent in five days, from $258.23 to $219.50, and a buyer who paid the November 9 price holds a box worth $38.73 less ten days later. The fall was uniform across the shelf, so it was a repricing, not a verdict on this set, and the case fell by the same fifteen percent, so the saving survived the fall. The recovery is the case-split floor: at $166.88 a box inside the case, the buyer who splits is $52.62 a box ahead of the single-box buyer.",
+          "The third risk is the English inversion, and it now runs both ways. Surging Sparks, the English set built from Super Electric Breaker and Paradise Dragona, released November 8, 2024, and its Pikachu ex Special Illustration Rare is $219.25 on TCGplayer on November 19, 2026, $38.63 cheaper than the Japanese SAR at $257.88, or 85.02 percent of it. The Milotic ex Special Illustration Rare is $97.36 on November 15, 2026, $7.22 more than the Japanese SAR at $90.14, so the English collector pays less for the Pikachu and more for the Milotic. Recovery: buy the language you play, buy the single for the card, and let the box be the opening, not the investment.",
+          "The fourth risk is the rotation, and the date is not yet set. H-mark cards are legal in the 2026-27 Standard format, which runs H, I, and J after the April 10, 2026 rotation removed G. As of November 16, 2026, The Pokemon Company has not announced the 2027 rotation; the last three came in January with an April change, and H, the oldest legal mark, is the likeliest to leave. That is a pattern, not a promise, so check the official announcement before buying for a deck that has to last past April.",
+          "The fifth risk is the reseal, and the sixth is the wrong set. A $257.88 chase is exactly what a resealer targets, so check the seal, photograph the box, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything. The wrong-set trap is SV8a: [Terastal Festival ex](/blog/sv8a-terastal-festival-ex-buyers-guide/) is a different product, a high-class pack with 10 cards a pack at 550 yen, and its box is $138.82 on our shelf. If a listing says SV8 and the pack count is 10, it is the wrong set, and if the price is about $40, it is the Korean box, not the Japanese one."
+        ]
+      },
+      {
+        "h": "Context: 138 cards, the Pikachu set, and the English twin",
+        "paragraphs": [
+          "Super Electric Breaker, set code SV8, released in Japan on October 18, 2024, as a 106-card base set followed by a 32-card secret block, for 138 cards in total. The secret block is 12 Art Rares, 11 Super Rares, 6 Special Art Rares, and 3 Ultra Rares. Each pack holds 5 cards at 180 yen, and the box MSRP is 5,400 yen, or $33.76 at 159.97 yen to the dollar. The set is a Pikachu set three times over: the Special Art Rare at 132/106 is the dearest card at $257.88, the Ultra Rare at 136/106 is third at $72.33, and the Super Rare at 122/106 is fourth at $28.78.",
+          "The English twin is Surging Sparks, released November 8, 2024, built from Super Electric Breaker and [Paradise Dragona](/blog/sv7a-paradise-dragona-buyers-guide/) together. The English set folds the Japanese cards into a larger list with its own numbering, so the same Pokemon carries two prices in two markets. The cards carry the H regulation mark, still Standard-legal in the 2026-27 format after the April 10, 2026 rotation removed the G mark, so the box is a play purchase too, for the player who plays in Japanese events. For the price-and-math companion, the [SV8 Super Electric Breaker buyer's guide](/blog/sv8-super-electric-breaker-buyers-guide/) runs the November 9 prices side by side."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants the box to pay for itself: the dearest card is 117.49 percent of a box and the complete set is 2.80 boxes. It is not for the buyer who wants the cheapest sealed Pokemon on the shelf, because Stella Miracle costs $2.60 a pack and M3 costs $2.00 a pack against this set's $7.32. It is not for the buyer who wants the cheapest sealed Super Electric Breaker anywhere: the market box is $139.80 against this shelf's $219.50, and even the case-split box at $166.88 sits $27.08 above it. It is not for the English-events player, because Japanese cards are not legal there. If any of those is the job, the single, the cheaper box, or the English twin is the better buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026-27, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV8 on this shelf is the case at $2,002.52, $166.88 a box, not twelve singles at $2,634.00; the single box is $219.50, and the market box is $139.80.",
+          "If the job is one card, buy the single. The Pikachu ex Special Art Rare is $257.88, which is more than the box. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $614.44 is 2.80 boxes, and two boxes at $439.00 cost $175.44 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Super Electric Breaker $219.50 plus Paradise Dragona $120.05 is $339.55, the October and September 2024 sets that built Surging Sparks.",
+          "Check the language before you pay: a $40 SV8 box is the Korean box, not the Japanese one, and a 10-pack box is SV8a, not SV8."
+        ],
+        "h": "Action layer: the SV8 investment checklist",
+        "paragraphs": [
+          "Run the checklist in order and the buy decides itself. The division comes first, because every other number on this page hangs off it, and the regulation mark comes with it. The case is the cheapest sealed route on this shelf, the single is the cheapest named-card route, and the box is the opening route, and no buyer needs more than one of the three.",
+          "The last check is the date. Every price here is stamped November 19, 2026, and the shelf repriced fifteen percent on November 13, so a price without a date is a price from a different shelf. Check the live shelf before you pay, divide again, and buy the route the division points to."
+        ]
+      }
+    ],
+    "slug": "sv8-investment",
+    "takeaway": [
+      "The SV8 box at $219.50 is $7.32 a pack and $1.46 a card, $185.74 above the derived 5,400 yen box price at 159.97, while the case at $2,002.52 divides to $166.88 a box, $631.48 less than twelve singles, but $324.92 more than twelve market boxes at $139.80. Buy the box or the case on this shelf, never twelve singles, and buy the single for any named card.",
+      "It is worth buying as the Super Electric Breaker set to open, sealed, and it is not worth buying as a way to own the Pikachu ex Special Art Rare or to make the money back by opening. Pikachu ex sat at $257.88 on November 18, 2026, which is 117.49 percent of a box, and the top three cards together sat at $420.35, which is 1.92 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the flat shelf in mind: the box and the case have not moved since November 14, after falling fifteen percent on November 13, from $258.23 to $219.50 and from $2,355.91 to $2,002.52, which did not change the verdict, because the case saved money before the fall and saves $631.48 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026-27, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of November 15 to November 19, 2026. The box now sits $79.70 above the $139.80 market box, and the case box sits $27.08 above it. For the price-and-math companion, the [SV8 Super Electric Breaker buyer's guide](/blog/sv8-super-electric-breaker-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV7a Paradise Dragona worth buying guide](/blog/is-sv7a-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 133.16 percent of a box and the case saves $375.20.",
+      "New this cycle: the [SV7a Paradise Dragona investment guide](/blog/sv7a-investment/) prices the September 2024 twin at a $120.05 box, but its case saves $375.20, $256.28 less than the Super Electric Breaker case, while the complete set at $373.50 costs $13.35 more than three boxes.",
+      "New this cycle: the [SV8a Terastal Festival ex investment guide](/blog/sv8a-investment/) runs the same division on the December 2024 high-class set, where the $138.82 box and $2,314.69 case divide to $115.73 a box."
+    ]
+  },
   "sv8-super-electric-breaker-buyers-guide": {
     "datePublished": "2026-11-09",
     "faqs": [
@@ -58390,6 +58656,222 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace figures as of November 6 to 9, 2026. The Pokémon Company publishes no pull rates for SV8, so no per-box odds appear in this guide.",
       "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the MEGA-era set the same way, box $94.91 against a case that saves $226.74, with the Mega Lucario ex MUR at $259.54.",
       "New this cycle: the [is SV8 Super Electric Breaker worth buying guide](/blog/is-sv8-worth-buying/) runs the same verdict on the November 14 prices, box $219.50 against a case that saves $631.48, with the Pikachu ex SAR at $257.88 costing more than the box."
+    ]
+  },
+  "sv8a-investment": {
+    "datePublished": "2026-11-19",
+    "faqs": [
+      {
+        "a": "Yes, sealed, for the collection, after a fifteen percent fall. The box is $138.82, $13.88 a pack and $1.39 a card, and the case is $2,314.69, which divides to $115.73 a box and saves $461.71 against twenty singles. The chase is the Umbreon ex Special Art Rare at $335.52, which costs 241.69 percent of a box, so the single costs more than two boxes. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set, the play, and the Eeveelutions, not to pull one named card.",
+        "q": "Is SV8a Terastal Festival ex a good investment?"
+      },
+      {
+        "a": "Yes, by $23.09 a box. The case costs $2,314.69 for 20 boxes, which divides to $115.73 a box, $23.09 less per box than the single box at $138.82, a saving of $461.71 on the case. The saving survived the November 13 repricing intact, because both the box and the case fell fifteen percent, and the case box at $115.73 sits $4.67 above the $111.06 TCGplayer box price. But the case is not the cheapest sealed Terastal Festival ex anywhere: twenty TCGplayer boxes cost $2,221.20, $93.49 less than our case. Divide the case before you pay, every time.",
+        "q": "Is the SV8a sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Umbreon ex Special Art Rare is $335.52 on TCGplayer on November 19, 2026, which is 241.69 percent of a box, and the complete set is $1,064.88, which is 7.67 boxes. The top three cards together are $491.77, 3.54 boxes. One community estimate puts a god pack at about 1 in 50 packs and another at about 1 in 600 packs, and the two cannot both be right, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV8a box to pull the Umbreon ex Special Art Rare?"
+      }
+    ],
+    "h1": "SV8a Terastal Festival ex Investment Guide",
+    "intro": [
+      "Short answer: buy the sealed case first, the single box second, and never chase the Umbreon ex in packs. The [SV8a Terastal Festival ex booster box](/product/sv8a-terastal-festival-ex-booster-box-japanese-pokemon-card/) is $138.82 on this shelf as of November 19, 2026, the [sealed case of twenty](/product/sv8a-terastal-festival-ex-sealed-case-20-boxes-japanese-pokemon-card/) divides to $115.73 a box and saves $461.71, and the Umbreon ex Special Art Rare is $335.52 on TCGplayer on November 19, 2026, 241.69 percent of a box.",
+      "This guide answers for three buyers: the sealed holder, the opener weighing a box against the Umbreon single, and the buyer choosing between the box and the case. It is not for the buyer who expects a box to pay for itself."
+    ],
+    "metaDescription": "SV8a box $138.82 after a 15% fall, case divides to $115.73 a box and saves $461.71. Umbreon ex SAR $335.52 is 241.69% of a box. The case is the buy.",
+    "metaTitle": "SV8a Terastal Festival ex Investment Guide",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase no Umbreon",
+        "note": "From the Warehouse: the question we get most about Terastal Festival ex is whether the fifteen percent fall changed the verdict. It did not change the order, only the price: the case was the buy at $2,723.16 and it is still the buy at $2,314.69.",
+        "paragraphs": [
+          "Buy the case if the job is sealed holding or a group split. At $2,314.69 it holds twenty boxes at $115.73 each, $23.09 less per box than the $138.82 single box, a saving of $461.71, 16.63 percent of the twenty-box cost. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every set.",
+          "Buy the single box if the job is one box. At $138.82 it is $13.88 a pack and $1.39 a card, after falling $24.50 from $163.32 on November 7. The [is SV8a worth buying guide](/blog/is-sv8a-worth-buying/) runs the same verdict after the fall.",
+          "Buy the Umbreon single if the job is the Umbreon. At $335.52 as of November 19, 2026 it is 241.69 percent of a box, $196.70 more than the box itself, and the complete set at $1,064.88 is 7.67 boxes."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, the market, and the fall",
+        "math": [
+          "SV8a box per pack: $138.82 / 10 packs = $13.88 per pack",
+          "SV8a box per card: $138.82 / 100 cards = $1.39 per card",
+          "SV8a case per box: $2,314.69 / 20 boxes = $115.73 per box",
+          "SV8a case per pack: $2,314.69 / 200 packs = $11.57 per pack",
+          "SV8a twenty single boxes: 20 x $138.82 = $2,776.40",
+          "SV8a case saving per case: $2,776.40 - $2,314.69 = $461.71",
+          "SV8a case saving per box: $461.71 / 20 boxes = $23.09 per box",
+          "SV8a case saving percent: $461.71 / $2,776.40 = 16.63%",
+          "SV8a box fall since November 7, 2026: $163.32 - $138.82 = $24.50; $24.50 / $163.32 = 15.00%",
+          "SV8a case fall since November 7, 2026: $2,723.16 - $2,314.69 = $408.47; $408.47 / $2,723.16 = 15.00%",
+          "SV8a official box: 10 packs x 550 yen = 5,500 yen; 5,500 yen / 159.97 = $34.38",
+          "SV8a box vs official: $138.82 - $34.38 = $104.44 above official",
+          "SV8a box vs official ratio: $138.82 / $34.38 = 4.04x official",
+          "SV8a case box vs official ratio: $115.73 / $34.38 = 3.37x official",
+          "SV8a market box, TCGplayer: $111.06 on November 8, 2026",
+          "SV8a shelf vs market box: $138.82 - $111.06 = $27.76 above the market box",
+          "SV8a case box vs market box: $115.73 - $111.06 = $4.67 above the market box",
+          "SV8a twenty TCGplayer boxes: 20 x $111.06 = $2,221.20",
+          "SV8a case vs twenty TCGplayer boxes: $2,314.69 - $2,221.20 = $93.49 more than twenty market boxes",
+          "SV8a cheapest box in Japan, Kakaku: 23,900 yen / 159.97 = $149.40 on November 11, 2026; $149.40 - $138.82 = $10.58 below our box",
+          "SV8a box vs SV7a box: $138.82 - $120.05 = $18.77 per box",
+          "SV8a case saving vs SV4a case saving: $461.71 - $440.81 = $20.90 more saved",
+          "SV8a case saving vs SV7a case saving: $461.71 - $375.20 = $86.51 more saved"
+        ],
+        "paragraphs": [
+          "Every math line above is one division from shelf prices as of November 19, 2026. The rate is 159.97 yen to the dollar, the ECB cross rate for November 19, 2026, from EUR/USD 1.0992 and EUR/JPY 175.84, so an official box is 5,500 yen, or $34.38. Our box sits 4.04 times official; the case box sits 3.37 times it.",
+          "The fall is uniform, not a verdict on this set. On November 7 the box was $163.32 and the case $2,723.16; on November 13 both fell fifteen percent, and the shelf has not moved since. The case saving is $461.71, $23.09 a box, $20.90 more than the Shiny Treasure ex case saves, and the [SV9 investment guide](/blog/sv9-investment/) runs the same division on the set that followed it.",
+          "The market check runs both ways. Bill's Archive prices a sealed box at $111.06 on TCGplayer on November 8, 2026, down 11 percent over 90 days with 156 sales, so our box sits $27.76 above that figure, and our case costs $93.49 more than twenty TCGplayer boxes at $2,221.20. The case is the cheapest sealed Terastal Festival ex on this shelf, not the cheapest anywhere. The other market runs the other way: the cheapest sealed box on Kakaku.com was 23,900 yen on November 11, 2026, or $149.40, so our box is $10.58 below the cheapest box in Japan.",
+          "There is a third box benchmark, and it needs a warning label. Cardfolio's guide estimate for a sealed Terastal Festival ex box sits at $102 as of November 18, 2026, which is $9.06 below the $111.06 TCGplayer market box and $36.82 below our $138.82 shelf box. Cardfolio's figure is a collection-tracking estimate built from its own catalogue, not a market price from completed sales, which is why this guide does not divide from it and does not put it in the math lines. The honest reading is that three different methods put the box in a $102 to $139 band, and our shelf sits at the top of it. A buyer who treats the $102 as a price they can actually pay will chase a box that does not exist at that number, and a buyer who treats the $111.06 as the whole story misses that 156 TCGplayer sales is a thin sample for a set this size. The band is the fact; the single number is the trap.\"}"
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: six ways to spend on SV8a, priced November 19. The case row deserves the first look: at $115.73 a box inside the case, it is the cheapest sealed Terastal Festival ex on this shelf by $23.09 a box. The single row deserves the second look: $335.52 buys the Umbreon, and the [SV4a Shiny Treasure ex investment guide](/blog/sv4a-investment/) runs the same table on the earlier high-class pack.",
+          "The market row deserves the third look: twenty TCGplayer boxes cost $2,221.20, $93.49 less than our case, which is why the case is the sealed buy on this shelf and not the sealed buy everywhere. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$138.82",
+              "$13.88",
+              "Opening the Terastal Festival ex set",
+              "One $335.52 chase, 241.69% of a box"
+            ],
+            [
+              "Sealed case (20)",
+              "$2,314.69",
+              "$11.57",
+              "Twenty boxes at $115.73 each",
+              "$2,314.69 tied up at once"
+            ],
+            [
+              "Twenty single boxes",
+              "$2,776.40",
+              "$13.88",
+              "Buying one box at a time",
+              "$461.71 more than the case"
+            ],
+            [
+              "Twenty market boxes",
+              "$2,221.20",
+              "$11.11",
+              "TCGplayer market reference",
+              "$93.49 less than our case"
+            ],
+            [
+              "Umbreon ex SAR single",
+              "$335.52",
+              "n/a",
+              "Owning the chase card",
+              "2.42 boxes, down 5.75% in five days"
+            ],
+            [
+              "Complete set singles",
+              "$1,064.88",
+              "n/a",
+              "Owning every card",
+              "$93.14 more than seven boxes"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the god-pack split, the market-box gap, and the division",
+        "note": "From the Warehouse: the gap we own on SV8a is the god pack, because two community estimates disagree by a factor of twelve and no top guide says so. One puts a god pack at about 1 in 50 packs, the other at about 1 in 600 packs, and a buyer who budgets on either one is budgeting on a rumor, because The Pokemon Company publishes no pull rates.",
+        "paragraphs": [
+          "The top results are a wholesale board, a format guide, and an investment list. The accio board ranks the best Japanese booster boxes to buy in 2026 and calls Terastal Festival a go for investment on TikTok volume, but it never divides a case into a per-box price. The Samurai Sword format guide explains high-class packs against standard boxes, but it keeps prices separate from the guide and names no verdict. None of the three runs the box against the case.",
+          "None of them prices twenty market boxes against our case either: twenty TCGplayer boxes cost $2,221.20, $93.49 less than our case, and no top result says that out loud. The second gap is the English line. The English Umbreon ex Special Illustration Rare is $1,155.92 on November 19, 2026, $820.40 more than the Japanese SAR at $335.52, 3.45 times it, and the English Sylveon ex is $375.70, 3.79 times the Japanese Sylveon ex at $99.20. No top result prices the line. The [god pack guide](/blog/what-is-a-god-pack-japanese-pokemon/) explains the mechanic."
+        ]
+      },
+      {
+        "h": "The chase layer: one $335.52 card, a $491.77 trio, and a $595.77 top five",
+        "math": [
+          "Umbreon ex SAR vs box: $335.52 / $138.82 = 241.69% of a box",
+          "Umbreon ex SAR vs case box: $335.52 / $115.73 = 2.90x the price of a case box",
+          "Umbreon ex SAR minus box: $335.52 - $138.82 = $196.70 more than the box",
+          "Sylveon ex SAR vs box: $99.20 / $138.82 = 71.46% of a box",
+          "Espeon ex SAR vs box: $57.05 / $138.82 = 41.10% of a box",
+          "Leafeon ex SAR vs box: $53.00 / $138.82 = 38.18% of a box",
+          "Umbreon ex SAR vs Sylveon ex SAR: $335.52 - $99.20 = $236.32",
+          "SV8a top three cards: $335.52 + $99.20 + $57.05 = $491.77",
+          "SV8a top three vs box: $491.77 / $138.82 = 3.54x the price of a box",
+          "SV8a top three vs complete set: $491.77 / $1,064.88 = 46.18%",
+          "SV8a top five cards: $491.77 + $51.00 + $53.00 = $595.77",
+          "SV8a top five vs box: $595.77 / $138.82 = 4.29x the price of a box",
+          "SV8a top five vs complete set: $595.77 / $1,064.88 = 55.95%",
+          "SV8a top five vs SAR tier: $595.77 / $957.30 = 62.23%",
+          "Umbreon ex SAR vs complete set: $335.52 / $1,064.88 = 31.51%",
+          "SV8a complete set vs box: $1,064.88 / $138.82 = 7.67 boxes",
+          "SV8a master set vs box: $1,746.46 / $138.82 = 12.58 boxes",
+          "SV8a seven boxes: 7 x $138.82 = $971.74",
+          "SV8a singles vs seven boxes: $1,064.88 - $971.74 = $93.14 more than seven boxes",
+          "Umbreon ex SAR move since November 14, 2026: $355.98 - $335.52 = $20.46; $20.46 / $355.98 = 5.75%",
+          "Umbreon ex SAR in Tokyo, yuyu-tei: 49,800 yen / 159.97 = $311.31 on November 12, 2026",
+          "English Umbreon ex SIR vs Japanese Umbreon ex SAR: $1,155.92 - $335.52 = $820.40",
+          "English Umbreon ex SIR vs Japanese ratio: $1,155.92 / $335.52 = 3.45x the Japanese price"
+        ],
+        "paragraphs": [
+          "The chase sits in one card and then falls off a cliff. The Umbreon ex Special Art Rare, 217/187, at $335.52 on TCGplayer on November 19, 2026, is 241.69 percent of a box and 31.51 percent of the $1,064.88 complete set. After it comes the Sylveon ex Special Art Rare at $99.20, 71.46 percent of a box, and the Espeon ex Special Art Rare at $57.05, 41.10 percent of a box. The Leafeon ex at $53 and the Vaporeon ex at $51.00 close the top five. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark.",
+          "The four cards below Umbreon are list and sold-comp figures, not one TCGplayer reading, and the set totals are dated November 7. Sylveon ex at $99.20, Espeon ex at $57.05 and Vaporeon ex at $51.00 are shop list prices from joshscards.com, read November 19, 2026, and Leafeon ex at $53 is an undermarket tracked sold-comp figure, read the same day. The complete set at $1,064.88 and the master set at $1,746.46 are TCGplayer market figures via Binder Foundry, read November 19, 2026. The [master set guide](/blog/what-is-a-master-set-pokemon/) runs the two definitions side by side."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card set, the fallen chase, and the English gap",
+        "paragraphs": [
+          "The first risk is the one-card set. Umbreon ex alone holds 31.51 percent of the complete set at $1,064.88, and the top five Special Art Rares hold 62.23 percent of the whole SAR tier at $957.30, dated November 14, 2026. On yuyu-tei, the large Tokyo shop, only ten of the 481 listings cost 5,000 yen or more, so most of what a box opens is bulk. The recovery is the single: the five best Special Art Rares together at $595.77 cost 4.29 boxes.",
+          "The second risk is the fallen chase. The box fell fifteen percent in seven days, from $163.32 to $138.82, and a buyer who paid the November 7 price holds a box worth $24.50 less a week later. The chase fell too: Umbreon ex dropped $20.46, or 5.75 percent, from $355.98 to $335.52, and in Tokyo it fell 10,000 yen in 24 days, from 59,800 yen to 49,800 yen, or 16.72 percent. The extra production announced on January 23, 2025 is a reprint risk that still hangs over the set. The recovery is the case-split floor: at $115.73 a box inside the case, the buyer who splits is $23.09 a box ahead of the single-box buyer.",
+          "The third risk is the English gap and the rotation. Prismatic Evolutions, the English set built from Terastal Festival ex, released January 17, 2025, and its Umbreon ex is $1,155.92 on November 19, 2026, 3.45 times the Japanese SAR, a gap of $820.40, and the gap runs through the whole Eeveelution line. H-mark cards are legal in the 2026 Standard format after the April 10, 2026 rotation removed G, but as of November 16, 2026, The Pokemon Company has not announced the 2027 rotation, and H is the likeliest mark to leave. A box with a $335.52 chase is also exactly the product a resealer targets, so check the seal and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything."
+        ]
+      },
+      {
+        "h": "Context: 237 cards, the high-class pack, and the English twin",
+        "paragraphs": [
+          "Terastal Festival ex, set code SV8a, released in Japan on December 6, 2024, as a 187-card base set followed by a 50-card secret block, for 237 cards in total. The secret block breaks into 12 Super Rares, 33 Special Art Rares, and 5 Ultra Rares, and there is no Art Rare tier in this set. Each pack holds 10 cards at 550 yen, and the box is 10 packs, so the pack price times ten packs is 5,500 yen, or $34.38 at 159.97 yen to the dollar. The pack art says every pack contains at least one Pokemon ex.",
+          "The English twin is Prismatic Evolutions, released January 17, 2025, built from Terastal Festival ex. The English set folds the Japanese cards into a larger list with its own numbering, so the same Pokemon carries two prices in two markets, and the English set has no standalone booster box, selling through Elite Trainer Boxes of nine packs instead. For the price-and-math companion, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) runs the November 7 prices side by side."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants the box to pay for itself, because the dearest card is 241.69 percent of a box and the complete set is 7.67 boxes. It is not for the buyer who wants the cheapest sealed Pokemon on the shelf, because Stella Miracle costs $2.60 a pack against this set's $13.88. It is not for the buyer who wants the market box price, because the TCGplayer box is $111.06 against this shelf's $138.82. It is not for the buyer who plays in English events, because Japanese cards are not legal there. If any of those is the job, the single, the cheaper box, or the English twin is the better buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 10 = your per-pack price; case / 20 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV8a on this shelf is the case at $2,314.69, $115.73 a box, not twenty singles at $2,776.40; the single box is $138.82, and the market box is $111.06.",
+          "If the job is one card, buy the single. The Umbreon ex Special Art Rare is $335.52, which is more than two boxes. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $1,064.88 is 7.67 boxes, and seven boxes at $971.74 cost $93.14 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Terastal Festival ex $138.82 plus Super Electric Breaker $219.50 is $358.32, the December and October 2024 sets."
+        ],
+        "h": "Action layer: the SV8a buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the buy decides itself. The division comes first, because every other number on this page hangs off it. The case is the cheapest sealed route on this shelf, the single is the cheapest named-card route, and the box is the opening route, and no buyer needs more than one of the three.",
+          "The last check is the date. Every price here is stamped November 19, 2026, and the shelf repriced fifteen percent on November 13, so a price quoted without a date is a price from a different shelf."
+        ]
+      }
+    ],
+    "slug": "sv8a-investment",
+    "takeaway": [
+      "The SV8a box at $138.82 is $13.88 a pack and $1.39 a card, $104.44 above the derived 5,500 yen box price at 159.97, while the case at $2,314.69 divides to $115.73 a box, $461.71 less than twenty singles. Buy the box or the case, never twenty singles, and buy the single for any named card.",
+      "It is worth buying as the Terastal Festival ex set to open, sealed, and it is not worth buying as a way to own the Umbreon ex Special Art Rare or to make the money back by opening. Umbreon ex sat at $335.52 on TCGplayer on November 19, 2026, which is 241.69 percent of a box, and the top three cards together sat at $491.77, which is 3.54 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $24.50 in seven days, from $163.32 to $138.82, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $2,723.16 to $2,314.69, which did not change the verdict, because the case saved money before the fall and saves $461.71 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of November 8 to November 19, 2026. The box now sits $27.76 above the $111.06 market box, and the case box sits $4.67 above it. For the price-and-math companion, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV7a Paradise Dragona worth buying guide](/blog/is-sv7a-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 133.16 percent of a box and the case saves $375.20.",
+      "New this cycle: the [SV7a Paradise Dragona investment guide](/blog/sv7a-investment/) prices the September 2024 set at a $120.05 box, but its case saves $375.20, $86.51 less than the Terastal Festival ex case, while the complete set at $373.50 costs $13.35 more than three boxes.",
+      "New this cycle: the [SV8 Super Electric Breaker investment guide](/blog/sv8-investment/) runs the same division on the October 2024 set, where the $219.50 box and $2,002.52 case divide to $166.88 a box."
     ]
   },
   "sv8a-terastal-festival-ex-buyers-guide": {
