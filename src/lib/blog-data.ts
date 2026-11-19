@@ -31721,7 +31721,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV5M box at $75.03 is $2.50 a pack and $0.50 a card, $41.24 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $724.80 divides to $60.40 a box, $175.56 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
       "It is worth buying as the Cyber Judge set to open, sealed, and it is not worth buying as a way to own the Iron Crown ex Special Art Rare or to make the money back by opening. The Iron Crown sat at $28.75 on TCGplayer on November 13, 2026, which is 38.32 percent of a box, and the Bianca's Devotion Special Art Rare at $27.98 is 37.29 percent of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $13.24 in five days, from $88.27 to $75.03, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $852.71 to $724.80, which did not change the verdict, because the case saved money before the fall and saves $175.56 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
-      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 24 to November 13, 2026. The box now sits $15.00 above the cheapest 30-pack box on the shelf, M3 Munikis Zero at $60.03, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV5K Wild Force worth buying guide](/blog/is-sv5k-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 1.68 boxes and the case saves $196.97."
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 24 to November 13, 2026. The box now sits $15.00 above the cheapest 30-pack box on the shelf, M3 Munikis Zero at $60.03, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV5K Wild Force worth buying guide](/blog/is-sv5k-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 1.68 boxes and the case saves $196.97.",
+      "New this cycle: the [SV5M Cyber Judge investment guide](/blog/sv5m-investment/) runs the same box and case at $75.03 and $724.80, with the Iron Crown ex Special Art Rare at $28.04 and the complete set at $224.01, down 6.21 percent over ninety days."
     ]
   },
   "is-sv6-worth-buying": {
@@ -31900,7 +31901,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV6 box at $94.74 is $3.16 a pack and $0.63 a card, $60.95 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $835.38 divides to $69.62 a box, $301.50 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
       "It is worth buying as the Mask of Change set to open, sealed, and it is not worth buying as a way to own the Carmine Special Art Rare or to make the money back by opening. Carmine sat at $87.83 on TCGplayer on November 5, 2026, which is 92.71 percent of a box, and the complete set sat at $299.67, which is 3.16 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $16.72 in six days, from $111.46 to $94.74, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $982.80 to $835.38, which did not change the verdict, because the case saved money before the fall and saves $301.50 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
-      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 30 to November 9, 2026. The box now sits $22.52 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV6a Night Wanderer worth buying guide](/blog/is-sv6a-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 28.01 percent of a box and the case saves $167.31."
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 30 to November 9, 2026. The box now sits $22.52 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV6a Night Wanderer worth buying guide](/blog/is-sv6a-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 28.01 percent of a box and the case saves $167.31.",
+      "New this cycle: the [SV6 Mask of Change investment guide](/blog/sv6-investment/) runs the same box and case at $94.74 and $835.38, with the Carmine Special Art Rare at $87.05 and the four Ogerpon masks capped by the SV8a reprint."
     ]
   },
   "is-sv6a-worth-buying": {
@@ -55275,7 +55277,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the falling chase in mind: the complete set slipped $1.58 to $363.08 by November 18, 2026, and a second source puts the Raging Bolt at $41.20, down $13.01 from the November 12 TCGplayer figure, while the box dropped $16.06 on November 13, 2026. Divide before you buy, every time.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of September 24 to November 18, 2026. The box sits $12.00 below the $102.98 market box and $16.62 above the $74.36 last sale, and the complete set at $364.66 is 4.01 boxes.",
       "For the price-and-math companion, the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) runs the November 9 prices side by side, and the [is SV5K worth buying guide](/blog/is-sv5k-worth-buying/) runs the same verdict after the fall.",
-      "New this cycle: the [SV5A Crimson Haze investment guide](/blog/sv5a-investment/) prices the March 2024 set at the same $90.98 box, but its case is INVERTED: it divides to $92.31 a box, $1.33 more than a single, and loses $15.99 against twelve singles."
+      "New this cycle: the [SV5A Crimson Haze investment guide](/blog/sv5a-investment/) prices the March 2024 set at the same $90.98 box, but its case is INVERTED: it divides to $92.31 a box, $1.33 more than a single, and loses $15.99 against twelve singles.",
+      "New this cycle: the [SV5M Cyber Judge investment guide](/blog/sv5m-investment/) prices the January 2024 twin at a $75.03 box, but its case saves $175.56, $21.41 less than the Wild Force case, on the same fifteen percent fall."
     ]
   },
   "sv5k-wild-force-buyers-guide": {
@@ -55697,6 +55700,523 @@ export const POSTS: Record<string, BlogPost> = {
       "Worth buying? The [is SV5M Cyber Judge worth buying guide](/blog/is-sv5m-worth-buying/) runs the November 14 verdict: box $75.03 after a fifteen percent fall, case $724.80 saving $175.56, and the Iron Crown ex SAR at $28.75 is 38.32 percent of a box."
     ]
   },
+  "sv5m-investment": {
+    "datePublished": "2026-11-19",
+    "faqs": [
+      {
+        "a": "Yes, sealed, for the collection, after a fifteen percent fall, and the case is the best sealed buy of the January twins' cheaper half. The box is $75.03, $2.50 a pack and $0.50 a card, and the case is $724.80, which divides to $60.40 a box and saves $175.56 against twelve singles. The chase is the Iron Crown ex Special Art Rare at $28.04, which costs 0.37 of a box and holds 12.52 percent of the complete set's $224.01 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set, the play, and the Future trio, not to pull one named card.",
+        "q": "Is SV5M Cyber Judge a good investment?"
+      },
+      {
+        "a": "Yes. The case costs $724.80 for 12 boxes, which divides to $60.40 a box, $14.63 less per box than the single box at $75.03, a saving of $175.56 on the case. The saving survived the November 13 repricing intact, because both the box and the case fell fifteen percent, and it is $21.41 less than the Wild Force case saves. The twin inversion is the proof that a case is not always cheaper: the Crimson Haze case divides to $92.31 a box, $1.33 more than a single. Divide the case before you pay, every time.",
+        "q": "Is the SV5M sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Iron Crown ex Special Art Rare is $28.04 on TCGplayer on November 17, 2026, which is 0.37 of a box, and the complete set is $224.01, which is 2.99 boxes. The set slipped $14.83 over ninety days, from $238.84 on August 20 to $224.01 on November 18, so the direction is down. One 2023 community estimate put a Special Art Rare at one pull in 1 to 3 boxes, or $75.03 to $225.09 of boxes at our $75.03 price, against $28.04 for the single. That estimate is not an official rate, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV5M box to pull the Iron Crown ex Special Art Rare?"
+      }
+    ],
+    "h1": "SV5M Cyber Judge Investment Guide",
+    "intro": [
+      "Short answer: buy the sealed case first, the single box second, and never chase the Iron Crown in packs. The [SV5M Cyber Judge booster box](/product/sv5m-cyber-judge-booster-box-japanese-pokemon-card/) is $75.03 on this shelf as of November 19, 2026, the [sealed case of twelve](/product/sv5m-cyber-judge-sealed-case-12-boxes-japanese-pokemon-card/) divides to $60.40 a box and saves $175.56, and the Iron Crown ex Special Art Rare is $28.04 on TCGplayer as of November 17, 2026, 0.37 of a box, holding 12.52 percent of the complete set's $224.01 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set or the play, and never to pull one named card.",
+      "This guide answers for three buyers: the sealed holder, the opener weighing a box against the Iron Crown single, and the buyer choosing between the box, the case, and the twin whose case saves more. It is not for the Standard player who needs the cards past April 2027 without checking the rotation, or the buyer who expects a box to pay for itself."
+    ],
+    "metaDescription": "SV5M box $75.03 after a 15% fall, case divides to $60.40 a box and saves $175.56. Iron Crown ex SAR $28.04 is 0.37 of a box. The case is the buy.",
+    "metaTitle": "SV5M Cyber Judge Investment Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase no Iron Crown",
+        "note": "From the Warehouse: the question we get most about Cyber Judge is whether the fifteen percent fall changed the verdict. It did not change the order, only the price: the case was the buy at $852.72 and it is still the buy at $724.80. What changed is the twin comparison, because the same fall left the Wild Force case saving $21.41 more than ours.",
+        "paragraphs": [
+          "Buy the case if the job is sealed holding or a group split. At $724.80 it holds twelve boxes at $60.40 each, $14.63 less per box than the $75.03 single box, a saving of $175.56 on the case, $21.41 less than the Wild Force case saves. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every set.",
+          "Buy the single box if the job is one box. At $75.03 it is $2.50 a pack and $0.50 a card, after falling $13.24 from $88.27 on November 13, fifteen percent in one leg of the shelf-wide repricing. The [is SV5M worth buying guide](/blog/is-sv5m-worth-buying/) runs the same verdict after the fall.",
+          "Buy the Iron Crown single if the job is the Iron Crown. At $28.04 as of November 17, 2026 it is 0.37 of a box, and the complete set at $224.01 is 2.99 boxes. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks the whole case ladder."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, the market, and the fall",
+        "math": [
+          "SV5M box per pack: $75.03 / 30 packs = $2.50 per pack",
+          "SV5M box per card: $75.03 / 150 cards = $0.50 per card",
+          "SV5M case per box: $724.80 / 12 boxes = $60.40 per box",
+          "SV5M twelve single boxes: 12 x $75.03 = $900.36",
+          "SV5M case saving per case: $900.36 - $724.80 = $175.56",
+          "SV5M case saving per box: $175.56 / 12 boxes = $14.63 per box",
+          "SV5M case per pack: $724.80 / 360 packs = $2.01 per pack",
+          "SV5M case per card: $724.80 / 1,800 cards = $0.40 per card",
+          "SV5M box fall since November 9, 2026: $88.27 - $75.03 = $13.24; $13.24 / $88.27 = 15.00%",
+          "SV5M case fall since November 9, 2026: $852.72 - $724.80 = $127.92; $127.92 / $852.72 = 15.00%",
+          "SV5M official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.42 = $33.87",
+          "SV5M box vs official: $75.03 - $33.87 = $41.16 above official",
+          "SV5M box vs official ratio: $75.03 / $33.87 = 2.22x official",
+          "SV5M case box vs official ratio: $60.40 / $33.87 = 1.78x official",
+          "SV5M market box, TCGplayer: $86.09 on November 17, 2026",
+          "SV5M shelf vs market box: $86.09 - $75.03 = $11.06 below the market box",
+          "SV5M shelf vs market box ratio: $75.03 / $86.09 = 0.87x the market box",
+          "SV5M twelve TCGplayer boxes: 12 x $86.09 = $1,033.08",
+          "SV5M case vs twelve TCGplayer boxes: $1,033.08 - $724.80 = $308.28",
+          "SV5M Cardz last sale: $63.87 on November 17, 2026",
+          "SV5M box vs Cardz last sale: $75.03 - $63.87 = $11.16 above the last sale",
+          "SV5M box vs Cardz last sale ratio: $75.03 / $63.87 = 1.17x the last sale",
+          "SV5M Samurai Sword sealed listing, September 30, 2026: 10,536 yen / 159.42 = $66.09",
+          "SV5M box vs Samurai Sword listing: $75.03 - $66.09 = $8.94 above the listing",
+          "SV5M box vs Samurai Sword listing ratio: $75.03 / $66.09 = 1.14x the listing",
+          "SV5M SNKRDUNK lowest ask, October 7, 2026: 9,999 yen / 159.42 = $62.72",
+          "SV5M box vs SNKRDUNK ask: $75.03 - $62.72 = $12.31 above the ask",
+          "SV5M box vs SNKRDUNK ask ratio: $75.03 / $62.72 = 1.20x the ask",
+          "SV5M box vs SV5K box: $90.98 - $75.03 = $15.95 per box",
+          "SV5M case vs SV5K case: $894.79 - $724.80 = $169.99 per case",
+          "SV5K case saving: 12 x $90.98 - $894.79 = $196.97",
+          "SV5M case saving vs SV5K case saving: $196.97 - $175.56 = $21.41 more saved",
+          "SV5M case per-box saving vs SV5K: $16.41 - $14.63 = $1.78 more per box",
+          "SV5M box vs SV5A box: $90.98 - $75.03 = $15.95 per box",
+          "SV5A case per box: $1,107.75 / 12 boxes = $92.31 per box",
+          "SV5A case vs single box: $92.31 - $90.98 = $1.33 more per box",
+          "SV5A case loss vs twelve singles: $1,107.75 - $1,091.76 = $15.99",
+          "SV5M case vs SV5A case: $1,107.75 - $724.80 = $382.95 per case",
+          "SV5M case per box vs SV5A case per box: $92.31 - $60.40 = $31.91 per box"
+        ],
+        "paragraphs": [
+          "Every math line below is one division from shelf prices as of November 19, 2026. The rate is 159.42 yen to the dollar, the ECB cross rate for November 18, 2026, from EUR/USD 1.0968 and EUR/JPY 174.85, so an official box is 5,400 yen, or $33.87. Our box sits $41.16 above official, 2.22 times it; the case box sits 1.78 times it.",
+          "The fall is uniform, not a verdict on Cyber Judge. On November 9 the box was $88.27 and the case $852.72; on November 13 both fell fifteen percent, to $75.03 and $724.80, and the shelf has not moved since. The case saving is the fat part: $175.56 on twelve boxes, $21.41 less than the Wild Force case saves.",
+          "The market check runs both ways. TCGplayer prices a sealed box at $86.09 on November 17, 2026, so our box sits $11.06 below that figure, and twelve TCGplayer boxes cost $1,033.08, so our case beats that by $308.28. Cardz recorded a last sale at $63.87 on November 17, 2026, with 216 boxes sold in six months. The Japan side reads cheaper: the Samurai Sword sealed listing was 10,536 yen on September 30, $66.09 at 159.42, and the lowest SNKRDUNK ask was 9,999 yen on October 7, $62.72. An ask is not a sale, and neither Japan figure includes shipping or fees. The [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) runs the same math for buyers choosing a language."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: eight ways to spend on SV5M, priced November 19. The case row deserves the first look: at $60.40 a box inside the case, it is the cheapest sealed SV5M on this shelf by $14.63 a box. The twelve-singles row deserves the second look: $900.36 for the same twelve boxes is the most expensive way to hold sealed Cyber Judge.",
+          "The single rows deserve the third look: $28.04 buys the Iron Crown and $55.98 buys the top two, with no pull-rate gamble, and the [SV2D Clay Burst investment guide](/blog/sv2d-investment/) runs the same table on the twin-era set. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$75.03",
+              "$2.50",
+              "Opening the Cyber Judge set",
+              "One $28.04 chase, 12.52% of the set"
+            ],
+            [
+              "Sealed case (12)",
+              "$724.80",
+              "$2.01",
+              "Twelve boxes at $60.40 each",
+              "$724.80 tied up at once"
+            ],
+            [
+              "Twelve single boxes",
+              "$900.36",
+              "$2.50",
+              "Buying one box at a time",
+              "$175.56 more than the case"
+            ],
+            [
+              "Japan ask box",
+              "$62.72",
+              "$2.09",
+              "Cheapest sealed box ask",
+              "Asking price, not a sale, plus shipping"
+            ],
+            [
+              "Market box",
+              "$86.09",
+              "$2.87",
+              "TCGplayer market reference",
+              "$11.06 above our shelf box"
+            ],
+            [
+              "Iron Crown ex SAR single",
+              "$28.04",
+              "n/a",
+              "Owning the chase card",
+              "0.37 of a box, flat since Nov 17"
+            ],
+            [
+              "Top two singles",
+              "$55.98",
+              "n/a",
+              "Owning the top of the set",
+              "0.75 of a box, still no box opened"
+            ],
+            [
+              "Complete set singles",
+              "$224.01",
+              "n/a",
+              "Owning every card",
+              "$1.08 less than three boxes"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case division, the twin gap, and the flat chase",
+        "note": "From the Warehouse: the gap we own on SV5M is the case against the twin. The price boards quote the market, the card pages quote the Iron Crown, and nobody divides our live box and our live case against each other, or puts the Cyber Judge case next to the Wild Force case, where the same shelf produces a $175.56 saving on one and a $196.97 saving on the other, with the twin winning by $21.41.",
+        "paragraphs": [
+          "The top results are a price board, an English comparison, and a buying guide. The Akihabara price board lists the SV5M box at $88.27 and the case at $71.06 a box, but those are the November 6 prices, before the fifteen percent fall, and a board lists prices, it does not divide them into a verdict. The Samurai Sword English comparison prices a sealed SV5M box at 10,536 yen, about $66, and a SNKRDUNK ask at 9,999 yen, about $63, as of September 30 and October 7, 2026. The Samurai Sword buying guide covers what is in the box and the chase tier, but it gives no investment verdict and no price history. None of the three divides a live shelf box against a live shelf case.",
+          "None of the three runs the box against the case. A card list can tell you the set has 100 cards and five Special Art Rares; it cannot tell you our box is $75.03 after a $13.24 fall, our case divides to $60.40, or our case saves $175.56. None of them runs the twin gap either: the Wild Force case saves $196.97, $21.41 more than ours, on a box that costs $15.95 more. Same shelf, same fall, different case outcomes, and no competitor runs the division.",
+          "The second gap is the flat chase, the whole verdict for a buyer weighing a box against the singles. The Iron Crown ex Special Art Rare carried a $28.04 TCGplayer market price on November 17, 2026, and the top two cards together cost $55.98, or 0.75 of a box. The complete set at $224.01 fell 6.21 percent over ninety days, from $238.84 on August 20 to $224.01 on November 18, so the set is drifting down while the box fell fifteen percent in a day. The [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the same question for graded singles."
+        ]
+      },
+      {
+        "h": "The chase layer: two $28 cards, a $62.77 trio, and a $224.01 set",
+        "math": [
+          "Iron Crown ex SAR vs box: $28.04 / $75.03 = 0.37x the price of a box",
+          "Iron Crown ex SAR vs case box: $28.04 / $60.40 = 0.46x the price of a case box",
+          "Bianca's Devotion SAR vs box: $27.94 / $75.03 = 0.37x the price of a box",
+          "Iron Crown ex SAR vs Bianca's Devotion SAR: $28.04 / $27.94 = 1.00x the Bianca's card",
+          "Iron Crown ex SAR vs Bianca's Devotion gap: $28.04 - $27.94 = $0.10",
+          "Iron Leaves ex SAR vs box: $21.13 / $75.03 = 0.28x the price of a box",
+          "Iron Boulder ex SAR vs box: $13.60 / $75.03 = 0.18x the price of a box",
+          "Salvatore SAR vs box: $12.40 / $75.03 = 0.17x the price of a box",
+          "Deerling AR vs box: $15.49 / $75.03 = 0.21x the price of a box",
+          "SV5M top two cards: $28.04 + $27.94 = $55.98",
+          "SV5M top two vs box: $55.98 / $75.03 = 0.75x the price of a box",
+          "SV5M top two vs case box: $55.98 / $60.40 = 0.93x the price of a case box",
+          "SV5M top two vs complete set: $55.98 / $224.01 = 24.99%",
+          "SV5M top three cards: $28.04 + $27.94 + $21.13 = $77.11",
+          "SV5M top three vs box: $77.11 / $75.03 = 1.03x the price of a box",
+          "SV5M top three vs complete set: $77.11 / $224.01 = 34.42%",
+          "SV5M top five cards: $28.04 + $27.94 + $21.13 + $13.60 + $12.40 = $103.11",
+          "SV5M top five vs box: $103.11 / $75.03 = 1.37x the price of a box",
+          "SV5M top five vs complete set: $103.11 / $224.01 = 46.03%",
+          "SV5M Future trio: $28.04 + $21.13 + $13.60 = $62.77",
+          "SV5M Future trio vs box: $62.77 / $75.03 = 0.84x the price of a box",
+          "SV5M Future trio vs complete set: $62.77 / $224.01 = 28.02%",
+          "Iron Crown ex SAR vs complete set: $28.04 / $224.01 = 12.52%",
+          "SV5M complete set vs box: $224.01 / $75.03 = 2.99 boxes",
+          "SV5M three boxes: 3 x $75.03 = $225.09",
+          "SV5M three boxes vs singles: $225.09 - $224.01 = $1.08 more than the singles",
+          "SV5M two boxes: 2 x $75.03 = $150.06",
+          "SV5M singles vs two boxes: $224.01 - $150.06 = $73.95 more than two boxes",
+          "SV5M complete set fall, 90 days: $238.84 - $224.01 = $14.83; $14.83 / $238.84 = 6.21%",
+          "SV5M Special Art Rare community estimate: 1 pull in 1 to 3 boxes; 1 x $75.03 = $75.03 to 3 x $75.03 = $225.09 of boxes per SAR"
+        ],
+        "paragraphs": [
+          "The chase sits in two cards at the same price and then falls off a cliff. The Iron Crown ex Special Art Rare, 094/071, at $28.04 on TCGplayer, November 17, 2026, is 0.37 of a box and 12.52 percent of the $224.01 set value. After it comes the Bianca's Devotion Special Art Rare at $27.94, 0.37 of a box, ten cents behind the Iron Crown, and the Iron Leaves ex Special Art Rare at $21.13, 0.28 of a box. The Iron Boulder ex Special Art Rare at $13.60 and the Salvatore Special Art Rare at $12.40 close the top five, and the Deerling Art Rare at $15.49 is the only non-SAR card in the top six. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark.",
+          "The chase is the warning. The top two cards together cost $55.98, 0.75 of a box and 24.99 percent of the set value, while the top five total $103.11, 1.37 boxes and 46.03 percent of the set. The complete set at $224.01 is 2.99 boxes, so three boxes cost $225.09 and still guarantee no Iron Crown. The singles cost $1.08 less than three boxes and $73.95 more than two boxes: neither route wins cleanly.",
+          "The pull math is the second warning, labelled an estimate. The Pokemon Company publishes no pull rates, so no expected value is calculated here. The closest figure is a 2023 community estimate of a Special Art Rare at one pull in 1 to 3 boxes, or $75.03 to $225.09 of boxes at our price, against $28.04 for the single. A Special Art Rare is a possible surprise, not a budget line. The [god pack guide](/blog/what-is-a-god-pack-japanese-pokemon/) explains the mechanic."
+        ]
+      },
+      {
+        "h": "The risk layer: the flat chase, the 2027 rotation, and the reseal",
+        "paragraphs": [
+          "The first risk is the concentration. The Iron Crown at $28.04 is 12.52 percent of the complete set value of $224.01, and the top two together are 24.99 percent, so two cards carry a quarter of the set. A box that misses the Iron Crown and the five Special Art Rares holds a Deerling Art Rare at $15.49 and ninety-five cards sharing $120.90 of value.",
+          "The second risk is the falling set. The complete set slipped $14.83 over ninety days, from $238.84 on August 20 to $224.01 on November 18, 2026, a 6.21 percent fall, while the box fell fifteen percent in a single repricing. A box bought to hold sealed is a bet that the fall stops at the shelf, and a box bought to open is a bet that the singles inside hold their value.",
+          "The third risk is the rotation, and the date is not yet set. H-mark cards are legal in the 2026 Standard format, which runs H, I, and J after the April 10, 2026 rotation removed G. As of November 16, 2026, The Pokemon Company has not announced the 2027 rotation, and the pattern of the last three rotations is an announcement in January and a change in April, with H, the oldest legal mark, the likeliest to leave. That is a pattern, not a promise, so check the official announcement before buying for a deck that has to last past April. The cards stay legal in Expanded either way.",
+          "The fourth risk is the English parity and the reprint shadow. Every SV5M chase card also exists in English Temporal Forces, released March 22, 2024, which folds Wild Force and Cyber Judge into one English set. Buy the Japanese card because you want the Japanese print, the 094/071 numbering, and the set around it. No reprint has been announced for Cyber Judge, but a reprint kills a scarcity premium in weeks: the Destined Rivals Elite Trainer Box sat near $280 in April 2026 and halved to $120.56 by August 23, 2026 once reprint stock reached retail.",
+          "The fifth risk is the reseal. A box with a $28.04 chase is still a product a resealer targets, so check the seal, photograph the box, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything."
+        ]
+      },
+      {
+        "h": "Context: 100 cards, the Future trio, and the English twin",
+        "paragraphs": [
+          "Cyber Judge came out in Japan on January 26, 2024, as the Future half of a same-day pair with Wild Force. It prints 100 cards: a 71-card base set and a 29-card secret block of 12 Art Rares, 9 Super Rares, 5 Special Art Rares, and 3 Ultra Rares, at 180 yen a pack for five cards, with 30 packs in a box. The official Japanese price of a box is 5,400 yen, or $33.87 at 159.42 yen per dollar, and this shelf holds the box at 2.22 times that figure.",
+          "The secret block is the set in miniature. The Special Art Rares head it: the Iron Leaves ex at 093/071, the Iron Crown ex at 094/071, and the Iron Boulder ex at 095/071, with the Salvatore supporter at 096/071 and the Bianca's Devotion supporter at 097/071 closing the block. The three Ultra Rares are the same three Future ex again at 098, 099, and 100. Iron Crown ex appears four times: regular ex, Super Rare, Special Art Rare 094/071, and Ultra Rare 099/071.",
+          "The English twin is Scarlet and Violet Temporal Forces, released March 22, 2024 with 218 cards, folding Cyber Judge and Wild Force into one English set. The set's neighbours are priced the same way in the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) and the [SV4M Future Flash buyer's guide](/blog/sv4m-future-flash-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the Standard player who needs the cards past April 2027 without checking the rotation, because the H regulation mark is the oldest legal mark and the likeliest to leave next. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Iron Crown ex Special Art Rare single at $28.04, which costs 0.37 of a box. It is not for the buyer who wants the box to pay for itself, because the top two cards together are worth 0.75 of a box."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are legal in the 2026 Standard format, and the 2027 rotation is not yet announced, so check the official announcement before buying for a deck that has to last past April.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV5M is the case at $60.40 a box, saving $175.56; the single box is $75.03.",
+          "If the job is one card, buy the single. The Iron Crown ex Special Art Rare is $28.04. It is not guaranteed in any box.",
+          "If the job is the complete set, open two boxes first: $150.06, then buy the last cards singly, because the singles cost $73.95 more than two boxes and $1.08 less than three.",
+          "If the job is the twin too, run both divisions: Cyber Judge $75.03 plus Wild Force $90.98 is $166.01, the Temporal Forces story in two boxes.",
+          "If buying to open, confirm the price is still below the pre-fall figure: it fell $13.24 on November 13, 2026, and it can move again."
+        ],
+        "h": "Action layer: the SV5M buying checklist",
+        "paragraphs": [
+          "Run the checklist in order. Mark first: H is still Standard-legal, so the box is a collection purchase and a play purchase at once, until the 2027 rotation is announced. Price second: if the box is still below the November 9 figure of $88.27, the fall is still on the shelf. Number third: check the card number before paying for any chase card, because the Iron Crown ex Special Art Rare, Ultra Rare, and Super Rare share a Pokemon and sit more than twenty dollars apart. The next set in this series is the [SV6 Mask of Change investment guide](/blog/sv6-investment/), priced the same way."
+        ]
+      }
+    ],
+    "slug": "sv5m-investment",
+    "takeaway": [
+      "The SV5M box at $75.03 is $2.50 a pack and $0.50 a card, $41.16 above the 5,400 yen official box at 159.42, while the case at $724.80 divides to $60.40 a box, saving $175.56. Buy the case first, the box second.",
+      "It is worth buying as a sealed hold, and it is not worth buying to own one named card or to make the money back by opening. The Iron Crown sat at $28.04 on TCGplayer as of November 17, 2026, 0.37 of a box, and the Bianca's Devotion at $27.94 is 0.37 of a box. Buy the single, or buy the box for the set.",
+      "It is worth buying with the falling set in mind: the complete set slipped $14.83 to $224.01 over ninety days to November 18, 2026, a 6.21 percent fall, while the box dropped $13.24 on November 13, 2026. Divide before you buy, every time.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of September 30 to November 18, 2026. The box sits $11.06 below the $86.09 market box and $11.16 above the $63.87 last sale, and the complete set at $224.01 is 2.99 boxes.",
+      "For the price-and-math companion, the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) runs the November 9 prices side by side, and the [is SV5M worth buying guide](/blog/is-sv5m-worth-buying/) runs the same verdict after the fall.",
+      "New this cycle: the [SV6 Mask of Change investment guide](/blog/sv6-investment/) prices the April 2024 set at a $94.74 box, but its case is the fattest saver on the shelf: it divides to $69.62 a box and saves $301.50 against twelve singles."
+    ]
+  },
+  "sv6-investment": {
+    "datePublished": "2026-11-19",
+    "faqs": [
+      {
+        "a": "Yes, sealed, for the collection, after a fifteen percent fall, and the case is the fattest saver on the shelf. The box is $94.74, $3.16 a pack and $0.63 a card, and the case is $835.38, which divides to $69.62 a box and saves $301.50 against twelve singles. The chase is the Carmine Special Art Rare at $87.05, which costs 0.92 of a box and holds 29.24 percent of the complete set's $297.66 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set, the play, and the two Trainers, not to pull one named card.",
+        "q": "Is SV6 Mask of Change a good investment?"
+      },
+      {
+        "a": "Yes, by the widest margin on the shelf. The case costs $835.38 for 12 boxes, which divides to $69.62 a box, $25.12 less per box than the single box at $94.74, a saving of $301.50 on the case. The saving survived the November 13 repricing intact, because both the box and the case fell fifteen percent, and it is $104.53 more than the Wild Force case saves. The twin inversion is the proof that a case is not always cheaper: the Crimson Haze case divides to $92.31 a box, $1.33 more than a single. Divide the case before you pay, every time.",
+        "q": "Is the SV6 sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Carmine Special Art Rare is $87.05 on TCGplayer on November 18, 2026, which is 0.92 of a box, and the complete set is $297.66, which is 3.14 boxes. The Carmine is down 44.91 percent from near $158 at release, and the four Ogerpon Special Art Rares were reprinted in SV8a, so the set's ceiling is capped. One 2023 community estimate put a Special Art Rare at one pull in 1 to 3 boxes, or $94.74 to $284.22 of boxes at our $94.74 price, against $87.05 for the single. That estimate is not an official rate, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV6 box to pull the Carmine Special Art Rare?"
+      }
+    ],
+    "h1": "SV6 Mask of Change Investment Guide",
+    "intro": [
+      "Short answer: buy the sealed case first, the single box second, and never chase the Carmine in packs. The [SV6 Mask of Change booster box](/product/sv6-mask-of-change-booster-box-japanese-pokemon-card/) is $94.74 on this shelf as of November 19, 2026, the [sealed case of twelve](/product/sv6-mask-of-change-sealed-case-12-boxes-japanese-pokemon-card/) divides to $69.62 a box and saves $301.50, and the Carmine Special Art Rare is $87.05 on TCGplayer as of November 18, 2026, 0.92 of a box, holding 29.24 percent of the complete set's $297.66 value. The cards carry the H regulation mark, which is still legal in the 2026 Standard format, so buy this box for the set or the play, and never to pull one named card.",
+      "This guide answers for three buyers: the sealed holder, the opener weighing a box against the Carmine single, and the buyer choosing between the box, the case, and the twin whose case costs more than its singles. It is not for the Standard player who needs the cards past April 2027 without checking the rotation, or the buyer who expects a box to pay for itself."
+    ],
+    "metaDescription": "SV6 box $94.74 after a 15% fall, case divides to $69.62 a box and saves $301.50. Carmine SAR $87.05 is 0.92 of a box. The case is the buy.",
+    "metaTitle": "SV6 Mask of Change Investment Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase no Carmine",
+        "note": "From the Warehouse: the question we get most about Mask of Change is whether the fifteen percent fall changed the verdict. It did not change the order, only the price: the case was the buy at $982.80 and it is still the buy at $835.38. What changed is the case ladder, because the same fall left our case saving $301.50, the fattest saving on the shelf.",
+        "paragraphs": [
+          "Buy the case if the job is sealed holding or a group split. At $835.38 it holds twelve boxes at $69.62 each, $25.12 less per box than the $94.74 single box, a saving of $301.50 on the case, $104.53 more than the Wild Force case saves. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every set.",
+          "Buy the single box if the job is one box. At $94.74 it is $3.16 a pack and $0.63 a card, after falling $16.72 from $111.46 on November 13, fifteen percent in one leg of the shelf-wide repricing. The [is SV6 worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict after the fall.",
+          "Buy the Carmine single if the job is the Carmine. At $87.05 as of November 18, 2026 it is 0.92 of a box, and the complete set at $297.66 is 3.14 boxes. The [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks the whole case ladder."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, the market, and the fall",
+        "math": [
+          "SV6 box per pack: $94.74 / 30 packs = $3.16 per pack",
+          "SV6 box per card: $94.74 / 150 cards = $0.63 per card",
+          "SV6 case per box: $835.38 / 12 boxes = $69.62 per box",
+          "SV6 twelve single boxes: 12 x $94.74 = $1,136.88",
+          "SV6 case saving per case: $1,136.88 - $835.38 = $301.50",
+          "SV6 case saving per box: $301.50 / 12 boxes = $25.12 per box",
+          "SV6 case per pack: $835.38 / 360 packs = $2.32 per pack",
+          "SV6 case per card: $835.38 / 1,800 cards = $0.46 per card",
+          "SV6 box fall since November 8, 2026: $111.46 - $94.74 = $16.72; $16.72 / $111.46 = 15.00%",
+          "SV6 case fall since November 8, 2026: $982.80 - $835.38 = $147.42; $147.42 / $982.80 = 15.00%",
+          "SV6 official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.42 = $33.87",
+          "SV6 box vs official: $94.74 - $33.87 = $60.87 above official",
+          "SV6 box vs official ratio: $94.74 / $33.87 = 2.80x official",
+          "SV6 case box vs official ratio: $69.62 / $33.87 = 2.06x official",
+          "SV6 market box, TCGplayer: $97.82 on November 8, 2026",
+          "SV6 shelf vs market box: $97.82 - $94.74 = $3.08 below the market box",
+          "SV6 shelf vs market box ratio: $94.74 / $97.82 = 0.97x the market box",
+          "SV6 twelve TCGplayer boxes: 12 x $97.82 = $1,173.84",
+          "SV6 case vs twelve TCGplayer boxes: $1,173.84 - $835.38 = $338.46",
+          "SV6 Cardfolio market estimate, November 18, 2026: $84.28",
+          "SV6 box vs Cardfolio estimate: $94.74 - $84.28 = $10.46 above the estimate",
+          "SV6 box vs Cardfolio estimate ratio: $94.74 / $84.28 = 1.12x the estimate",
+          "SV6 Samurai Sword sealed listing, October 2, 2026: 11,389 yen / 159.42 = $71.44",
+          "SV6 box vs Samurai Sword listing: $94.74 - $71.44 = $23.30 above the listing",
+          "SV6 box vs Samurai Sword listing ratio: $94.74 / $71.44 = 1.33x the listing",
+          "SV6 SNKRDUNK lowest ask, October 2, 2026: 10,700 yen / 159.42 = $67.12",
+          "SV6 box vs SNKRDUNK ask: $94.74 - $67.12 = $27.62 above the ask",
+          "SV6 box vs SNKRDUNK ask ratio: $94.74 / $67.12 = 1.41x the ask",
+          "SV6 box vs SV5M box: $94.74 - $75.03 = $19.71 per box",
+          "SV6 case vs SV5M case: $835.38 - $724.80 = $110.58 per case",
+          "SV6 case saving vs SV5M case saving: $301.50 - $175.56 = $125.94 more saved",
+          "SV6 case per-box saving vs SV5M: $25.12 - $14.63 = $10.49 more per box",
+          "SV6 case per-box saving vs SV5K: $25.12 - $16.41 = $8.71 more per box",
+          "SV6 box vs SV5A box: $94.74 - $90.98 = $3.76 per box",
+          "SV5A case per box: $1,107.75 / 12 boxes = $92.31 per box",
+          "SV5A case vs single box: $92.31 - $90.98 = $1.33 more per box",
+          "SV5A case loss vs twelve singles: $1,107.75 - $1,091.76 = $15.99",
+          "SV6 case vs SV5A case: $1,107.75 - $835.38 = $272.37 per case",
+          "SV6 case per box vs SV5A case per box: $92.31 - $69.62 = $22.69 per box",
+          "SV6 case outcome vs SV5A case outcome: $301.50 + $15.99 = $317.49 swing between the two cases",
+          "SV6 case saving vs SV5K case saving: $301.50 - $196.97 = $104.53 more saved"
+        ],
+        "paragraphs": [
+          "Every math line below is one division from shelf prices as of November 19, 2026. The rate is 159.42 yen to the dollar, the ECB cross rate for November 18, 2026, from EUR/USD 1.0968 and EUR/JPY 174.85, so an official box is 5,400 yen, or $33.87. Our box sits $60.87 above official, 2.80 times it; the case box sits 2.06 times it.",
+          "The fall is uniform, not a verdict on Mask of Change. On November 8 the box was $111.46 and the case $982.80; on November 13 both fell fifteen percent, to $94.74 and $835.38, and the shelf has not moved since. The case saving is the fat part: $301.50 on twelve boxes, $104.53 more than the Wild Force case saves and $125.94 more than the Cyber Judge case saves.",
+          "The market check runs both ways. TCGplayer prices a sealed box at $97.82 on November 8, 2026, so our box sits $3.08 below that figure, and twelve TCGplayer boxes cost $1,173.84, so our case beats that by $338.46. Cardfolio puts a market estimate of $84.28 on the box on November 18, 2026, $10.46 below our price, and that estimate is a guide figure, not a TCGplayer market price. The Japan side reads cheaper: the Samurai Sword sealed listing was 11,389 yen on October 2, $71.44 at 159.42, and the lowest SNKRDUNK ask was 10,700 yen on October 2, $67.12. An ask is not a sale, and neither Japan figure includes shipping or fees. The [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) runs the same math for buyers choosing a language."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: eight ways to spend on SV6, priced November 19. The case row deserves the first look: at $69.62 a box inside the case, it is the cheapest sealed SV6 on this shelf by $25.12 a box. The twelve-singles row deserves the second look: $1,136.88 for the same twelve boxes is the most expensive way to hold sealed Mask of Change.",
+          "The single rows deserve the third look: $87.05 buys the Carmine and $116.08 buys the top two, with no pull-rate gamble, and the [SV5A Crimson Haze investment guide](/blog/sv5a-investment/) runs the same table on the March set. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$94.74",
+              "$3.16",
+              "Opening the Mask of Change set",
+              "One $87.05 chase, 29.24% of the set"
+            ],
+            [
+              "Sealed case (12)",
+              "$835.38",
+              "$2.32",
+              "Twelve boxes at $69.62 each",
+              "$835.38 tied up at once"
+            ],
+            [
+              "Twelve single boxes",
+              "$1,136.88",
+              "$3.16",
+              "Buying one box at a time",
+              "$301.50 more than the case"
+            ],
+            [
+              "Japan ask box",
+              "$67.12",
+              "$2.24",
+              "Cheapest sealed box ask",
+              "Asking price, not a sale, plus shipping"
+            ],
+            [
+              "Market box",
+              "$97.82",
+              "$3.26",
+              "TCGplayer market reference",
+              "$3.08 above our shelf box"
+            ],
+            [
+              "Carmine SAR single",
+              "$87.05",
+              "n/a",
+              "Owning the chase card",
+              "0.92 of a box, down 45% since release"
+            ],
+            [
+              "Top two singles",
+              "$116.08",
+              "n/a",
+              "Owning the top of the set",
+              "1.23 boxes, still no box opened"
+            ],
+            [
+              "Complete set singles",
+              "$297.66",
+              "n/a",
+              "Owning every card",
+              "$13.44 more than three boxes"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case division, the twin inversion, and the reprint damage",
+        "note": "From the Warehouse: the gap we own on SV6 is the reprint damage nobody prices. The card pages quote the Carmine, the Ogerpon guides quote the four masks, and nobody puts the SV8a reprint next to the live box and case, or divides our live box and our live case against each other, where the same shelf produces a $301.50 saving on one and a $15.99 loss on the Crimson Haze case.",
+        "paragraphs": [
+          "The top results are a price board, a generic value guide, and an Ogerpon guide. The Akihabara price board lists the SV6 box at $111.46 and the case at $81.90 a box, but those are the November 6 prices, before the fifteen percent fall, and a board lists prices, it does not divide them into a verdict. The DexCompare guide explains how to check a card's value and notes a European SV6 pack near 2.50 euros, but it is not SV6-specific and gives no investment verdict. The Samurai Sword Ogerpon guide covers all thirteen Ogerpon ex prints across SV6 and SV8a with SNKRDUNK asks from October 2, 2026, but it never divides a live store price. None of the three runs the box against the case.",
+          "None of the three runs the box against the case. A card list can tell you the set has 133 cards and six Special Art Rares; it cannot tell you our box is $94.74 after a $16.72 fall, our case divides to $69.62, or our case saves $301.50. None of them runs the SV5A twin inversion either: the same shelf holds a Crimson Haze case that divides to $92.31 a box, $1.33 more than a single, and loses $15.99 against twelve singles. Same shelf, same fall, opposite case outcomes, and no competitor runs the division.",
+          "The second gap is the reprint damage, the whole verdict for a chaser. All four Ogerpon ex Special Art Rares were reprinted in SV8a Terastal Festival ex on December 6, 2024, with new art, which caps their ceiling: the four together cost $56.07, 0.59 of a box and 18.84 percent of the set. The Carmine and the Kieran were not reprinted there, and the two Trainer cards together cost $116.08, 1.23 boxes and 39.00 percent of the set. The set's value moved from the masks to the Trainers, and no top result prices that move. The [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the same question for graded singles."
+        ]
+      },
+      {
+        "h": "The chase layer: one $87.05 card, a $116.08 pair, and a $297.66 set",
+        "math": [
+          "Carmine SAR vs box: $87.05 / $94.74 = 0.92x the price of a box",
+          "Carmine SAR vs case box: $87.05 / $69.62 = 1.25x the price of a case box",
+          "Carmine SAR vs TCGplayer box: $87.05 / $97.82 = 0.89x the market box",
+          "Kieran SAR vs box: $29.03 / $94.74 = 0.31x the price of a box",
+          "Carmine SAR vs Kieran SAR: $87.05 / $29.03 = 3.00x the Kieran card",
+          "Carmine SAR vs Kieran gap: $87.05 - $29.03 = $58.02",
+          "Wellspring Mask Ogerpon ex SAR vs box: $17.00 / $94.74 = 0.18x the price of a box",
+          "Teal Mask Ogerpon ex SAR vs box: $15.07 / $94.74 = 0.16x the price of a box",
+          "Cornerstone Mask Ogerpon ex SAR vs box: $13.00 / $94.74 = 0.14x the price of a box",
+          "Hearthflame Mask Ogerpon ex SAR vs box: $11.00 / $94.74 = 0.12x the price of a box",
+          "Teal Mask Ogerpon ex UR vs box: $8.32 / $94.74 = 0.09x the price of a box",
+          "SV6 top two cards: $87.05 + $29.03 = $116.08",
+          "SV6 top two vs box: $116.08 / $94.74 = 1.23x the price of a box",
+          "SV6 top two vs case box: $116.08 / $69.62 = 1.67x the price of a case box",
+          "SV6 top two vs complete set: $116.08 / $297.66 = 39.00%",
+          "SV6 top three cards: $87.05 + $29.03 + $17.00 = $133.08",
+          "SV6 top three vs box: $133.08 / $94.74 = 1.40x the price of a box",
+          "SV6 top three vs complete set: $133.08 / $297.66 = 44.71%",
+          "SV6 all six SARs: $87.05 + $29.03 + $17.00 + $15.07 + $13.00 + $11.00 = $172.15",
+          "SV6 all six SARs vs box: $172.15 / $94.74 = 1.82x the price of a box",
+          "SV6 all six SARs vs complete set: $172.15 / $297.66 = 57.83%",
+          "SV6 four Ogerpon SARs: $17.00 + $15.07 + $13.00 + $11.00 = $56.07",
+          "SV6 four Ogerpon SARs vs box: $56.07 / $94.74 = 0.59x the price of a box",
+          "SV6 four Ogerpon SARs vs complete set: $56.07 / $297.66 = 18.84%",
+          "Carmine SAR vs complete set: $87.05 / $297.66 = 29.24%",
+          "SV6 complete set vs box: $297.66 / $94.74 = 3.14 boxes",
+          "SV6 three boxes: 3 x $94.74 = $284.22",
+          "SV6 singles vs three boxes: $297.66 - $284.22 = $13.44 more than three boxes",
+          "SV6 four boxes: 4 x $94.74 = $378.96",
+          "SV6 four boxes vs singles: $378.96 - $297.66 = $81.30 more than the singles",
+          "Carmine SAR fall since release: $158.00 - $87.05 = $70.95; $70.95 / $158.00 = 44.91%",
+          "Carmine SAR PSA 10 vs raw: $520.00 / $87.05 = 5.97x the raw card",
+          "SV6 Special Art Rare community estimate: 1 pull in 1 to 3 boxes; 1 x $94.74 = $94.74 to 3 x $94.74 = $284.22 of boxes per SAR"
+        ],
+        "paragraphs": [
+          "The chase sits in one card and then falls off a cliff. The Carmine Special Art Rare, 130/101, at $87.05 on TCGplayer, November 18, 2026, is 0.92 of a box and 29.24 percent of the $297.66 set value. After it comes the Kieran Special Art Rare at $29.03, 0.31 of a box, $58.02 behind the Carmine, and the Wellspring Mask Ogerpon ex Special Art Rare at $17.00, 0.18 of a box. The Teal Mask Ogerpon ex at $15.07, the Cornerstone Mask Ogerpon ex at $13.00, and the Hearthflame Mask Ogerpon ex at $11.00 close the six, with the Teal Mask Ogerpon ex Ultra Rare at $8.32 behind them. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark.",
+          "The chase is the warning. The top two cards together cost $116.08, 1.23 boxes and 39.00 percent of the set value, while all six Special Art Rares total $172.15, 1.82 boxes and 57.83 percent of the set. The complete set at $297.66 is 3.14 boxes, so three boxes cost $284.22 and still guarantee no Carmine. The singles cost $13.44 more than three boxes and $81.30 less than four boxes: neither route wins cleanly.",
+          "The pull math is the second warning, labelled an estimate. The Pokemon Company publishes no pull rates, so no expected value is calculated here. The closest figure is a 2023 community estimate of a Special Art Rare at one pull in 1 to 3 boxes, or $94.74 to $284.22 of boxes at our price, against $87.05 for the single. A Special Art Rare is a possible surprise, not a budget line. The [god pack guide](/blog/what-is-a-god-pack-japanese-pokemon/) explains the mechanic."
+        ]
+      },
+      {
+        "h": "The risk layer: the falling chase, the reprint cap, and the reseal",
+        "paragraphs": [
+          "The first risk is the concentration. The Carmine at $87.05 is 29.24 percent of the complete set value of $297.66, and the top two together are 39.00 percent, so two cards carry nearly four tenths of the set. A box that misses the Carmine and the six Special Art Rares holds a Teal Mask Ogerpon ex Ultra Rare at $8.32 and 127 cards sharing $125.51 of value.",
+          "The second risk is the falling chase. The Carmine carried a price near $158 at release in April 2024, and it sits at $87.05 on November 18, 2026, down $70.95, or 44.91 percent. A graded copy tells the same story at a higher level: a PSA 10 Carmine is $520 on November 19, 2026, 5.97 times the raw card, with 4,837 PSA 10 copies counted, so the premium is real but the population is deep. A box bought to chase the Carmine is a bet that the card stops falling.",
+          "The third risk is the reprint cap. All four Ogerpon ex Special Art Rares were reprinted in SV8a Terastal Festival ex on December 6, 2024, with new art by Yukihiro Tada, and the four together are $56.07, 0.59 of a box. The Carmine and the Kieran were not reprinted there, which is why the two Trainers carry 39.00 percent of the set. A future reprint of the Trainers would do to them what SV8a did to the masks, and no reprint has been announced for either.",
+          "The fourth risk is the rotation, and the date is not yet set. H-mark cards are legal in the 2026 Standard format, which runs H, I, and J after the April 10, 2026 rotation removed G. As of November 16, 2026, The Pokemon Company has not announced the 2027 rotation, and the pattern of the last three rotations is an announcement in January and a change in April, with H, the oldest legal mark, the likeliest to leave. That is a pattern, not a promise, so check the official announcement before buying for a deck that has to last past April. The cards stay legal in Expanded either way.",
+          "The fifth risk is the reseal. A box with an $87.05 chase is exactly the product a resealer targets, so check the seal, photograph the box, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything."
+        ]
+      },
+      {
+        "h": "Context: 133 cards, four masks, two Trainers, and the English twin",
+        "paragraphs": [
+          "Mask of Change came out in Japan on April 26, 2024. It prints 133 cards: a 101-card base set and a 32-card secret block of 12 Art Rares, 11 Super Rares, 6 Special Art Rares, and 3 Ultra Rares, at 180 yen a pack for five cards, with 30 packs in a box. The official Japanese price of a box is 5,400 yen, or $33.87 at 159.42 yen per dollar, and this shelf holds the box at 2.80 times that figure.",
+          "The secret block is the set in miniature. The Special Art Rares head it: the four Ogerpon ex masks at 125, 126, 127, and 128 of 101, all illustrated by Yano Keiji, with the Kieran supporter at 129/101 and the Carmine supporter at 130/101 closing the block. The three Ultra Rares are the Teal Mask Ogerpon ex at 131/101, the Enhanced Hammer at 132/101, and the Buddy-Buddy Poffin at 133/101. The English twin is Scarlet and Violet Twilight Masquerade, released May 24, 2024, built from Mask of Change for two thirds and Crimson Haze for one third.",
+          "The set's neighbours are priced the same way in the [SV5A Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) and the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the Standard player who needs the cards past April 2027 without checking the rotation, because the H regulation mark is the oldest legal mark and the likeliest to leave next. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Carmine Special Art Rare single at $87.05, which costs 0.92 of a box. It is not for the buyer who wants the box to pay for itself, because the top two cards together are worth 1.23 boxes."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are legal in the 2026 Standard format, and the 2027 rotation is not yet announced, so check the official announcement before buying for a deck that has to last past April.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV6 is the case at $69.62 a box, saving $301.50; the single box is $94.74.",
+          "If the job is one card, buy the single. The Carmine Special Art Rare is $87.05. It is not guaranteed in any box.",
+          "If the job is the complete set, open three boxes first: $284.22 undercuts the $297.66 singles by $13.44, then buy the last cards singly.",
+          "If the job is the twin too, run both divisions: Mask of Change $94.74 plus Crimson Haze $90.98 is $185.72, the Twilight Masquerade story in two boxes.",
+          "If buying to open, confirm the price is still below the pre-fall figure: it fell $16.72 on November 13, 2026, and it can move again."
+        ],
+        "h": "Action layer: the SV6 buying checklist",
+        "paragraphs": [
+          "Run the checklist in order. Mark first: H is still Standard-legal, so the box is a collection purchase and a play purchase at once, until the 2027 rotation is announced. Price second: if the box is still below the November 8 figure of $111.46, the fall is still on the shelf. Number third: check the card number before paying for any chase card, because the Carmine Special Art Rare, the Kieran, and the four Ogerpon masks share a set and sit dollars apart. The next set in this series is the [SV5M Cyber Judge investment guide](/blog/sv5m-investment/), priced the same way."
+        ]
+      }
+    ],
+    "slug": "sv6-investment",
+    "takeaway": [
+      "The SV6 box at $94.74 is $3.16 a pack and $0.63 a card, $60.87 above the 5,400 yen official box at 159.42, while the case at $835.38 divides to $69.62 a box, saving $301.50. Buy the case first, the box second.",
+      "It is worth buying as a sealed hold, and it is not worth buying to own one named card or to make the money back by opening. The Carmine sat at $87.05 on TCGplayer as of November 18, 2026, 0.92 of a box, and the Kieran at $29.03 is 0.31 of a box. Buy the single, or buy the box for the set.",
+      "It is worth buying with the reprint cap in mind: all four Ogerpon Special Art Rares were reprinted in SV8a on December 6, 2024, and the four together are $56.07, while the Carmine is down 44.91 percent from near $158 at release. Divide before you buy, every time.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of October 2 to November 19, 2026. The box sits $3.08 below the $97.82 market box and $10.46 above the $84.28 Cardfolio estimate, and the complete set at $297.66 is 3.14 boxes.",
+      "For the price-and-math companion, the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) runs the November 8 prices side by side, and the [is SV6 worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict after the fall.",
+      "New this cycle: the [SV5M Cyber Judge investment guide](/blog/sv5m-investment/) prices the January 2024 twin at a $75.03 box, but its case saves $175.56, $21.41 less than the Wild Force case, while the Carmine's set carries its value in two Trainers, not four masks."
+    ]
+  },
   "sv6-mask-of-change-buyers-guide": {
     "datePublished": "2026-11-08",
     "faqs": [
@@ -56070,7 +56590,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, October 7, November 7, and November 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Tokyo listing for a sealed box was $71.97, so our box costs $19.64 more, and the case-split box costs $3.24 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, with a case that saves $223.15, and a chase, the Magikarp Art Rare at $129.90, that costs 0.85 times a box.",
-      "New this cycle: the [is SV6a Night Wanderer worth buying guide](/blog/is-sv6a-worth-buying/) runs the same verdict on the live November 14 shelf, box $77.87 after a fifteen percent fall, case saving $167.31, and the Cassiopeia SAR at $21.81 costing 28.01 percent of a box."
+      "New this cycle: the [is SV6a Night Wanderer worth buying guide](/blog/is-sv6a-worth-buying/) runs the same verdict on the live November 14 shelf, box $77.87 after a fifteen percent fall, case saving $167.31, and the Cassiopeia SAR at $21.81 costing 28.01 percent of a box.",
+      "New this cycle: the [SV6 Mask of Change investment guide](/blog/sv6-investment/) prices the April 2024 set at a $94.74 box, but its case is the fattest saver on the shelf: it divides to $69.62 a box and saves $301.50 against twelve singles."
     ]
   },
   "sv7-stella-miracle-buyers-guide": {
