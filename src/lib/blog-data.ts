@@ -695,7 +695,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The cheapest Japanese TCG pack you can buy online from our shelf is Dragon Ball FB08 at $1.08 a pack, followed by Lorcana Japanese First Chapter at $2.35, One Piece OP-15 at $2.90, and Pokemon M2 at $6.11. A case saves money on some sets, SV11W by $93.38 a box and M2 by $72.04, and costs more on others, M3 by $16.73, so divide the case every time. English costs more per pack than the same game in Japanese, and that gap is the language, not the cardboard.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026. When FB12 ships in December and Into the Inkdark arrives in February 2027, re-run the division; the cheapest pack today may not be the cheapest pack then.",
       "For the set-by-set ladders, the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) divides all twenty-four boxes, the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) divides the Fusion World line, and the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) divides all fourteen cases. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience, and the [guide to buying TCG from Japan](/blog/buying-tcg-from-japan-shipping-customs-proxy/) prices each route landed.",
-      "New to sealed buying? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and our [best Japanese card shop guide](/blog/best-japanese-card-shop-online/) lists the six checks a shop has to survive."
+      "New to sealed buying? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) is the table to divide with, and our [best Japanese card shop guide](/blog/best-japanese-card-shop-online/) lists the six checks a shop has to survive.",
+      "New this cycle: the [buy Japanese Pokemon cards guide](/blog/buy-japanese-pokemon-cards-guide/) runs the whole purchase from a $7.59 starter deck to a $60.03 M3 box at $2.00 a pack, with the Japan retail gap and the country tax lines priced."
     ]
   },
   "best-buy-lorcana-cards-online": {
@@ -8480,7 +8481,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) divides a 12-box case at $952.33, or $79.36 a box, saving $67.31 against twelve singles.",
       "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices a case that saves $234.29 against twelve singles, or $19.52 a box, more than Triplet Beat's $223.15, and its twin [SV1V Violet ex](/blog/sv1v-violet-ex-buyers-guide/) saves $106.91 a case.",
       "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices a case that saves $116.52 against twelve singles, or $9.71 a box, and the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices a case that saves $186.59, or $15.55 a box.",
-      "New this cycle: the [Japanese Pokémon cards price index](/blog/japanese-pokemon-cards-price/) puts the case ladder beside every other format, with the five premium boxes priced for the first time."
+      "New this cycle: the [Japanese Pokémon cards price index](/blog/japanese-pokemon-cards-price/) puts the case ladder beside every other format, with the five premium boxes priced for the first time.",
+      "New this cycle: the [Japanese Pokemon sealed case guide](/blog/japanese-pokemon-sealed-case/) divides all 41 cases on the shelf, from the $657.18 M1S case to the $3,436.95 S8b case, with the S10b case saving $170.37 a box."
     ]
   },
   "best-japanese-pokemon-special-set": {
@@ -12459,6 +12461,181 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, SNKRDUNK asks as of June 16 and September 29, 2026, and yen converted at ¥158 per dollar, November 9, 2026. The B27 case at $9,315.00 is a flagged catalog outlier and excluded from every comparison in this guide."
     ]
   },
+  "buy-japanese-pokemon-cards-guide": {
+    "datePublished": "2026-11-19",
+    "faqs": [
+      {
+        "a": "A standard Japanese expansion box holds 30 packs of 5 cards. The exceptions on our shelf are the special sets SV11B Black Bolt, SV11W White Flare and SV2a Pokemon 151 at 20 packs of 7 cards, the enhanced expansion S10b Pokemon GO at 20 packs of 6 cards, the High Class Packs M2a, SV4a, SV8a, S12a and S8b at 10 packs of 10 cards, and the M6a 30th Celebration box at 20 packs of 6 cards. A sealed case holds 12 boxes of the standard format or 20 of the High Class format, so divide the case price by 12 or 20 before you believe any per-box claim.",
+        "q": "How many packs are in a Japanese Pokemon booster box?"
+      },
+      {
+        "a": "No, not in official tournaments outside Japan. Japanese cards have different card backs from every other language, and the Play! Pokemon TCG Tournament Handbook (revised September 1, 2026) treats them as a different product for sanctioned play. They are legal for collecting and for friendly games anywhere. If your goal is tournament play, buy the English print of the same set instead; if your goal is the cheapest packs and the earliest release, Japanese is the right buy and the legality line is the price of it.",
+        "q": "Can I play with Japanese Pokemon cards in tournaments outside Japan?"
+      },
+      {
+        "a": "Yes, when you buy factory-sealed product from a shop that ships from Japan and shows its prices. The checks that matter are the ones in this guide: the box price divided by its pack count, the shrink wrap and seams on arrival, and a seller whose stock you can verify against a live shelf. The danger is not Japan, it is the listing with no division: a box photographed beautifully and priced without a per-pack number. Buy the division, not the photo, and never pay for a sealed box from a seller who will not show the seal.",
+        "q": "Is it safe to buy Japanese Pokemon cards online?"
+      }
+    ],
+    "h1": "Buy Japanese Pokemon Cards: The Complete Guide",
+    "intro": [
+      "Short answer: buy from a Japan-direct shop, pick your format before you pick your set, and divide every price by its pack count before you pay. On our shelf as of November 19, 2026, the cheapest way into the game is the SI Start Deck 100 at $7.59, the cheapest sealed box per pack is M3 Munikis Zero at $2.00 a pack, and the cheapest pack anywhere sits inside the M1S Mega Symphonia sealed case at $1.83.",
+      "Who this is for: first-time buyers of Japanese Pokemon cards, collectors choosing between a deck, a box, a case and singles, and anyone burned by a proxy fee or a resealed box who wants a repeatable way to buy. Who it is not for: tournament players outside Japan, who need English cards, and buyers who want one guaranteed chase card, because no sealed product guarantees one."
+    ],
+    "metaDescription": "Buy Japanese Pokemon cards from Japan without the guesswork: real shelf prices, per-pack math, formats, fakes, shipping and tax, the Warehouse way.",
+    "metaTitle": "Buy Japanese Pokemon Cards: The Complete Guide",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer: pick your format first",
+        "paragraphs": [
+          "Most buying guides start with where to buy. That is the wrong first question. The first question is what format you are buying, because the format decides the price, the risk, and what you take home. A deck is a playable 60-card hand. A box is 30 packs of lottery tickets. A case is 12 or 20 boxes of the same lottery. Singles are the exact card you want, at the exact price the market sets.",
+          "If you want to play your first game, buy a deck. The [SI Start Deck 100](/product/si-start-deck-100-japanese-pokemon-card/) costs $7.59 on our shelf, or $0.13 a card across its 60 cards, and a two-deck match costs $17.07 when you pair it with the fixed [Starter Set MEGA Mega Diancie ex](/product/starter-set-mega-mega-diancie-ex-mbd-japanese-pokemon-card/) at $9.48. That is the whole game for the price of three packs of a premium box, and the only format here that guarantees you can sit down and play tonight.",
+          "If you want to open packs, buy one box of the cheapest set you actually like. The [M3 Munikis Zero booster box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) costs $60.03, which divides to $2.00 a pack and $0.40 a card, the cheapest sealed box per pack on the shelf. M1S Mega Symphonia and SV9 Battle Partners both cost $72.22, or $2.41 a pack. Do not buy the dearest box first: the [SV2a Pokemon 151 booster box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) costs $400.52, or $20.03 a pack, and it is a collector's box, not a first box. If you want one card, buy the single: a sealed box never guarantees the card you want, and the single always costs less than the packs it takes to pull it."
+        ]
+      },
+      {
+        "h": "The money layer: the shelf, divided",
+        "math": [
+          "M3 Munikis Zero box: $60.03 / 30 packs = $2.00 per pack; $2.00 / 5 = $0.40 per card",
+          "M1S Mega Symphonia box: $72.22 / 30 packs = $2.41 per pack; $2.41 / 5 = $0.48 per card",
+          "SV9 Battle Partners box: $72.22 / 30 packs = $2.41 per pack; $2.41 / 5 = $0.48 per card",
+          "M1L Mega Brave box: $80.67 / 30 packs = $2.69 per pack; $2.69 / 5 = $0.54 per card",
+          "M2a MEGA Dream ex box: $97.55 / 10 packs = $9.76 per pack; $9.76 / 10 = $0.98 per card",
+          "SV11W White Flare box: $142.56 / 20 packs = $7.13 per pack; $7.13 / 7 = $1.02 per card",
+          "SV11B Black Bolt box: $155.70 / 20 packs = $7.79 per pack; $7.79 / 7 = $1.11 per card",
+          "SV11B Deluxe box: $181.04 / 20 packs = $9.05 per pack; $9.05 / 7 = $1.29 per card",
+          "SV11W Deluxe box: $167.90 / 20 packs = $8.40 per pack; $8.40 / 7 = $1.20 per card",
+          "M2 Inferno X box: $155.70 / 30 packs = $5.19 per pack; $5.19 / 5 = $1.04 per card",
+          "SV10 Glory of Team Rocket box: $181.04 / 30 packs = $6.03 per pack; $6.03 / 5 = $1.21 per card",
+          "M6a 30th Celebration box: $211.65 / 20 packs = $10.58 per pack; $10.58 / 6 = $1.76 per card",
+          "SV2a Pokemon 151 box: $400.52 / 20 packs = $20.03 per pack; $20.03 / 7 = $2.86 per card",
+          "SI Start Deck 100: $7.59 / 60 cards = $0.13 per card",
+          "Two-deck match: $7.59 + $9.48 = $17.07",
+          "M1S sealed case: $657.18 / 12 boxes = $54.77 per box; $54.77 / 30 packs = $1.83 per pack; $1.83 / 5 = $0.37 per card",
+          "M1S case saving: $72.22 x 12 = $866.64; $866.64 - $657.18 = $209.46 across the case; $209.46 / 12 = $17.46 per box",
+          "SV11B sealed case: $842.97 / 12 boxes = $70.25 per box; $155.70 x 12 = $1,868.40; $1,868.40 - $842.97 = $1,025.43 across the case; $1,025.43 / 12 = $85.45 saved per box",
+          "SV2a sealed case: $3,237.92 / 12 boxes = $269.83 per box; $400.52 x 12 = $4,806.24; $4,806.24 - $3,237.92 = $1,568.32 across the case; $1,568.32 / 12 = $130.69 saved per box",
+          "M3 Japanese retail: 30 packs x 180 yen = 5,400 yen; 5,400 / 159.42 = $33.87; shelf premium $60.03 - $33.87 = $26.16; $60.03 / $33.87 = 1.77x retail",
+          "M6a Japanese retail: 20 packs x 360 yen = 7,200 yen; 7,200 / 159.42 = $45.16; shelf premium $211.65 - $45.16 = $166.49; $211.65 / $45.16 = 4.69x retail"
+        ],
+        "paragraphs": [
+          "Here is the board that decides the purchase, every row divided. The cheapest sealed box per pack is M3 at $2.00. The next rung is M1S and SV9 at $2.41, then M1L at $2.69. The spread is wide after that: M2a costs $9.76 a pack, M6a costs $10.58, and SV2a costs $20.03. The per-pack column is the whole guide in one number, because a box is only ever a bundle of packs, and the set name on the front does not change the arithmetic.",
+          "The per-card column tells the second truth. M3 costs $0.40 a card and M1S costs $0.48, while M6a costs $1.76 a card and SV2a costs $2.86. A buyer who compares boxes by sticker price alone will call M2a at $97.55 cheaper than SV10 at $181.04, and they will be wrong: M2a holds 10 packs of 10 cards, SV10 holds 30 packs of 5, and the per-pack numbers run $9.76 against $6.03. Pack count is printed on the box and it is the first thing to check.",
+          "The case is where the cheapest pack on the shelf lives. The [M1S sealed case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) costs $657.18 for 12 boxes, which divides to $54.77 a box, $1.83 a pack and $0.37 a card, saving $17.46 a box and $209.46 across the case. The SV11B case divides to $70.25 a box and saves $1,025.43 across twelve, and the SV2a case divides to $269.83 a box and saves $1,568.32. Cases are not a bulk discount by definition, and four of the 41 cases on our shelf cost more per box than singles. Our [Japanese Pokemon sealed case guide](/blog/japanese-pokemon-sealed-case/) runs all 41.",
+          "The deck is the cheapest way to play and the cheapest card on the shelf. The SI Start Deck 100 at $7.59 divides to $0.13 a card, cheaper per card than any sealed box, because a deck is 60 known cards and a box is 150 random ones. The cheapest two-deck match is $17.07. A box is the cheapest way to open packs. Those are different jobs, and the shelf prices them differently."
+        ]
+      },
+      {
+        "h": "The practical layer: buy it in seven steps",
+        "note": "Warehouse Note: the question we get most in chat is not about price, it is about whether a box is real. The answer we give every time is the same: a real box has a verifiable division and a verifiable seal, and a seller who shows you neither is asking you to pay for trust instead of product. We stock it, we ship it daily, and the boxes on this shelf are the boxes in the photos, so the division above is the division you will actually pay.",
+        "paragraphs": [
+          "Step one: pick the set by its job, not its hype. M3 for the cheapest packs. M1S or SV9 for a current set at a sane price. SV11B or SV11W for the Black Bolt and White Flare chase pool. M6a for the 30th Celebration set, accepting the anniversary premium. SV2a for Pokemon 151, accepting $20.03 a pack. Our [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) prices every box on the shelf, and our [cheapest Japanese Pokemon booster box guide](/blog/cheapest-japanese-pokemon-booster-box/) ranks the same shelf by the cheapest entry point.",
+          "Step two: pick the format. Deck to play, box to open, case for volume, singles for a named card. Step three: run the division, box price by packs, then by cards per pack. If the seller does not print the pack count, get it from the official set page or a verified guide before you pay. Step four: check the seal on arrival before you open anything. The shrink wrap should be tight with a clean tear strip, the seams straight, and the box full and square. Our [resealed box inspection guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) walks the whole check, and the honest version is that no home inspection can certify a box, so provenance matters more than any single physical test.",
+          "Step five: order from a shop that ships from Japan and shows its stock. A Japan-direct export shop buys at Japanese wholesale, holds the stock, and ships it to you. A proxy buys your item from a Japanese marketplace, charges a service fee per item, then charges international shipping on top, and a forwarder adds a Japanese address and a second shipment. Proxies win on rare singles and sold-out items. Direct shops win on sealed boxes, because the fee stack on a proxy order can exceed the saving on the box itself.",
+          "Step six: pay the tax line for your country, not the one in the listing. The European Union charges 21% VAT from the first euro plus a 3 euro flat duty per category on low-value parcels since July 2026. Singapore gives GST relief up to S$400 and charges 9% above it. The Philippines gives relief up to 10,000 pesos and charges 12% VAT above it. Australia gives border relief up to A$1,000. Malaysia charges 10% low-value-goods tax up to RM500. United States buyers face a tariff layer: the combined US duty on Japanese goods now lands at 12.5%, ordinary duty topped up by the Section 301 forced-labor duty in force since July 24, 2026, so check the live rate. The exact shipping quote is confirmed at checkout or on WhatsApp.",
+          "Step seven: decide before the box arrives whether you will open it or keep it sealed, because a box opened for fun and a box held as sealed product are different purchases."
+        ]
+      },
+      {
+        "h": "The decision layer: deck, box, case, or singles",
+        "paragraphs": [
+          "The table below is the whole guide in four rows. Read it by the job, not by the price, because the cheapest row is only the right row if it does the job you actually want done. The deck wins on price per card and on certainty. The box wins on the experience of opening and on the chance, not the promise, of a chase card. The case wins on price per pack for buyers who open volume. Singles win on certainty and lose on nothing except the fun, which is a real loss if the fun is what you were buying."
+        ],
+        "table": {
+          "head": [
+            "Format",
+            "Cheapest on our shelf",
+            "Per pack / per card",
+            "Best for",
+            "Watch out for"
+          ],
+          "rows": [
+            [
+              "Starter deck",
+              "SI Start Deck 100, $7.59",
+              "$0.13 per card",
+              "Playing your first game tonight",
+              "Random build; buy two decks to play"
+            ],
+            [
+              "Single booster box",
+              "M3 Munikis Zero, $60.03",
+              "$2.00 per pack, $0.40 per card",
+              "Opening packs at the lowest price",
+              "No guaranteed chase card"
+            ],
+            [
+              "Sealed case (12 boxes)",
+              "M1S Mega Symphonia, $657.18",
+              "$1.83 per pack, $0.37 per card",
+              "Volume opening, splitting with friends",
+              "12 boxes of one set; 4 of 41 cases cost more than singles"
+            ],
+            [
+              "Singles",
+              "Varies by card",
+              "Exact card, exact price",
+              "One named card, grading, deck building",
+              "No sealed value; condition is everything"
+            ],
+            [
+              "Special set box",
+              "M6a 30th Celebration, $211.65",
+              "$10.58 per pack, $1.76 per card",
+              "Anniversary collecting",
+              "4.69x Japanese retail; premium, not a bargain"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the Japan price gap, the lottery wall, and the legality line",
+        "paragraphs": [
+          "The guides that rank today all cover the same ground: the four routes to buy, the proxy fees, the shipping steps. None of them prices the gap between Japanese retail and the shelf you actually buy from, and that gap is the most honest number in this guide. A standard Japanese box retails in Japan at 5,400 yen, or $33.87 at the European Central Bank rate of 159.42 yen to the dollar on November 18, 2026. Our M3 box costs $60.03, a $26.16 premium, or 1.77 times retail. That premium is the import, the allocation, the shipping, and the shop.",
+          "The premium is not flat, and that is the tell. The M6a 30th Celebration box retails in Japan at 7,200 yen, or $45.16, and our shelf price is $211.65, a $166.49 premium, or 4.69 times retail. The anniversary set is scarce and the market prices scarcity, not cardboard. A $26 premium on M3 buys the cheapest packs on the shelf. A $166 premium on M6a buys the anniversary. Both are defensible. Neither is a bargain.",
+          "The second thing the top guides understate is the lottery wall. Popular Japanese sets sell out at Pokemon Centers within minutes of release, and the official online shop now sells most new expansions by lottery, usually capped at one or two boxes per person with ID checked at pickup. That is why a new set costs more than retail on the secondary shelf in its first weeks, and why a pre-order matters: our [pre-order guide](/blog/preorder-japanese-booster-box-or-wait/) runs the buy-now-or-wait division.",
+          "The third is the legality line, and it is the one buyers discover too late. Japanese cards have different card backs from every other language, so they are not legal in official tournaments outside Japan, and the Play! Pokemon TCG Tournament Handbook revised September 1, 2026 says so plainly. They are legal for collecting and for friendly games anywhere. Japanese is the smart buy for collectors and for the cheapest packs; English is the smart buy for sanctioned play."
+        ]
+      },
+      {
+        "h": "The risk layer: fakes, pre-orders, tariffs, and price moves",
+        "paragraphs": [
+          "Fakes are the risk every guide mentions and few price. A resealed box is a real box with the good packs swapped out, and the checks are the shrink wrap, the seams, the tear strip, and the weight, in that order. The strongest check is not physical: it is provenance, a seller whose stock you can trace to a live shelf. A box from a marketplace seller with no history and a price below every other listing is not a bargain, it is a test, and the test costs the price of the box.",
+          "Pre-orders are the second risk, and they run in the opposite direction. A pre-order locks your price and your allocation, and the risk is that the set gets reprinted and the price falls, or that the release slips and your money sits. Pre-order the set you would buy at release anyway, and never pre-order a set you are buying because the pre-order window is closing.",
+          "Tariffs and taxes are the third risk, and they moved in 2026. Japanese booster packs rose from 180 yen to 200 yen per pack for sets releasing from May 2026, announced by Creatures Inc. on January 30, 2026, which lifts a standard box from 5,400 yen to 6,000 yen at retail, and a 12-box case from 64,800 yen to 72,000 yen, or $451.64 at the November 18 rate. Creatures has already announced the next rise: 200 to 230 yen a pack from May 2027, taking a standard box to 6,900 yen. The United States added a tariff layer on Japanese goods in 2026, and the European Union abolished the 150 euro duty exemption in July 2026. None of this makes Japanese cards a bad buy. It makes the landed cost the price, not the sticker price.",
+          "Price moves are the fourth risk, and they are the reason every number in this guide carries a date. Between November 3 and November 19 the M1S case fell from $773.15 to $657.18, the SV11B case fell from $991.73 to $842.97, and the M3 single box fell from $70.62 to $60.03. Treat every number here as stamped November 19, 2026, re-run the division before you pay, and never let a price from a guide written in October decide a purchase in December."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for tournament players outside Japan, because the cards it recommends cannot be played in sanctioned events. It is not for buyers who want one guaranteed chase card, because no sealed box guarantees one, and the single is always the cheaper route to a named card. It is not for buyers who need the absolute lowest price and will wait months for a reprint, because the cheapest price on this shelf is today's price. And it is not for anyone buying sealed product as a guaranteed investment, because sealed prices fall as well as rise, and the M1S case alone fell $115.97 in sixteen days."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the format first: deck to play, box to open, case for volume, singles for a named card.",
+          "Pick the set by its job: M3 for cheapest packs, M1S or SV9 for a current set, SV11B or SV11W for the chase pool, M6a for the anniversary.",
+          "Run the division: box price divided by packs, then by cards per pack. If the pack count is not printed, find it before you pay.",
+          "Check the seal on arrival: tight shrink, clean tear strip, straight seams, full and square box.",
+          "Budget the landed cost, not the sticker: shipping at checkout, plus your country's tax line.",
+          "Decide before the box arrives: open it for fun, or keep it sealed as sealed product. Never both.",
+          "Re-run the division on the day you pay. Prices on this shelf moved $115.97 on one case in sixteen days."
+        ],
+        "h": "Action layer: the buying checklist",
+        "paragraphs": [
+          "Keep this list open on your phone while you shop. The whole guide is in it: format first, set by job, division before payment, seal on arrival, landed cost budgeted, and the decision made before the box arrives. The buyer who runs the list buys well. The buyer who skips it buys on feeling, and feeling is what the marketplace charges for."
+        ]
+      }
+    ],
+    "slug": "buy-japanese-pokemon-cards-guide",
+    "takeaway": [
+      "Buy Japanese Pokemon cards by format first: a $7.59 starter deck to play, an M3 box at $2.00 a pack to open, an M1S case at $1.83 a pack for volume, and singles for any named card. Every price here is our own shelf price as of November 19, 2026.",
+      "The gap between Japanese retail and the shelf is the honest number: M3 retails at 5,400 yen, $33.87, and our shelf price is $60.03, a 1.77 times premium for import and allocation, while the M6a anniversary box carries a 4.69 times premium for scarcity. Budget the landed cost, not the sticker.",
+      "For the full ladder, the [Japanese Pokemon sealed case guide](/blog/japanese-pokemon-sealed-case/) divides all 41 cases on the shelf, and the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) prices every box. Re-run the division on the day you pay."
+    ]
+  },
   "buy-pokemon-booster-box-australia-gst-included": {
     "datePublished": "2026-11-15",
     "faqs": [
@@ -14995,7 +15172,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf on one ladder, and the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) divides all fourteen Lorcana cases.",
       "New this cycle: the [Japanese TCG cards shipping to Spain](/blog/japanese-tcg-cards-shipping-to-spain/) works the full Japan-to-Spain shipping, customs and IVA walkthrough with landed costs in euros for all four games.",
       "New this cycle: the [best Akihabara card shop guide](/blog/best-akihabara-card-shop/) weighs the Tokyo trip against ordering from Japan, so the shipping and customs choice here has its in-person alternative priced beside it.",
-      "For the One Piece version of the channel question, the [where to buy Japanese One Piece booster boxes guide](/blog/where-to-buy-japanese-one-piece-booster-box/) runs the Buyee fee stack for one box to the US, line by line."
+      "For the One Piece version of the channel question, the [where to buy Japanese One Piece booster boxes guide](/blog/where-to-buy-japanese-one-piece-booster-box/) runs the Buyee fee stack for one box to the US, line by line.",
+      "New this cycle: the [buy Japanese Pokemon cards guide](/blog/buy-japanese-pokemon-cards-guide/) adds the format decision and the per-pack board to the shipping picture here, with M3 at $2.00 a pack and the M1S case at $1.83."
     ]
   },
   "caja-pokemon-japonesa-sellada-espana-precio": {
@@ -36947,6 +37125,217 @@ export const POSTS: Record<string, BlogPost> = {
       "Knowing the rarities is step one; using a card you cannot read is step two. [How to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) walks the card zone by zone — and shows why the corner number matters more than the language."
     ]
   },
+  "japanese-pokemon-sealed-case": {
+    "datePublished": "2026-11-19",
+    "faqs": [
+      {
+        "a": "Twelve boxes for a standard Japanese expansion, and twenty boxes for a High Class Pack. The twenty-box cases on our shelf are M2a MEGA Dream ex, SV4a Shiny Treasure ex, SV8a Terastal Festival ex, S12a VSTAR Universe and S8b VMAX Climax, plus the S10b Pokemon GO case, which holds twenty boxes of its 20-pack format. One case on the shelf is not boxes at all: the SV9 Collection File Set Lillie case holds 24 files. Always read the box count printed on the listing, because a case price without a box count cannot be divided.",
+        "q": "How many boxes are in a Japanese Pokemon sealed case?"
+      },
+      {
+        "a": "Usually, but not always. Of the 41 cases on our shelf, 38 can be compared against a single box of the same set, and 34 of those 38 save money per box. The four that cost more are M3 Munikis Zero, which costs $14.22 more per box, SV5a Crimson Haze at $1.33 more, S9 Star Birth at $47.14 more, and S6H Silver Lance at $2.31 more. The biggest saving is the S10b Pokemon GO case at $170.37 a box. A case is a division, not a discount, and the division is the whole answer.",
+        "q": "Is a sealed case cheaper than buying boxes one at a time?"
+      },
+      {
+        "a": "No. The Pokemon Company does not publish pull rates, so a case buys 12 or 20 sealed boxes of random cards, not a set of chase cards. A case improves your odds by giving you more packs, and nothing more. If you want one named card, buy the single: it always costs less than the packs it takes to pull it. Buy a case to open volume, to split with friends, or to hold sealed. Never buy a case as a guaranteed pull.",
+        "q": "Does a sealed case guarantee a chase card?"
+      }
+    ],
+    "h1": "Japanese Pokemon Sealed Case: The Full Guide",
+    "intro": [
+      "Short answer: a Japanese Pokemon sealed case is 12 or 20 factory-sealed boxes of one set, and 41 of them sit on our shelf as of November 19, 2026, priced from $657.18 for M1S Mega Symphonia to $3,436.95 for S8b VMAX Climax. The cheapest box inside any case is the S10b Pokemon GO case at $50.05, and 34 of the 38 cases that can be compared against a single box save money per box. Four cost more. Every number below is our own shelf price, divided in the open.",
+      "Who this is for: buyers deciding between a case and twelve single boxes, collectors splitting a case with friends, and anyone holding sealed product who wants to know what a case actually is before they pay for one. Who it is not for: buyers who want one box, buyers who want one card, and anyone who cannot store twelve boxes properly."
+    ],
+    "metaDescription": "A Japanese Pokemon sealed case is 12 or 20 boxes of one set. All 41 cases on our shelf, divided to per-box, per-pack and per-card prices.",
+    "metaTitle": "Japanese Pokemon Sealed Case: The Full Guide",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer: what a sealed case actually is",
+        "paragraphs": [
+          "A sealed case is the box the distributor ships to the shop. Inside a cardboard outer carton sit 12 or 20 booster boxes of one set, each factory-sealed, each holding the same pack count as the single box on the shelf. The case is not a different product from the box. It is twelve or twenty of the same product, bought at once, and the only thing that changes between a case and twelve singles is the price per box and the commitment. That is the whole definition, and everything else in this guide is the arithmetic that follows from it.",
+          "The box count is the first fact to check, because it is the denominator. A standard Japanese expansion case holds 12 boxes: M1S, M1L, M2, M3, the whole Scarlet and Violet ladder, and the Sword and Shield era cases all sit at 12. A High Class Pack case holds 20 boxes: M2a MEGA Dream ex, SV4a Shiny Treasure ex, SV8a Terastal Festival ex, S12a VSTAR Universe and S8b VMAX Climax. The S10b Pokemon GO case also holds 20 boxes. The one exception is the SV9 Collection File Set Lillie case, which holds 24 files, not boxes, at $35.55 a file. A case price without a box count is a number you cannot divide, and a number you cannot divide is a number you should not pay.",
+          "What is inside the boxes is the same as the singles: standard boxes hold 30 packs of 5 cards, the special sets SV11B, SV11W and SV2a hold 20 packs of 7, S10b holds 20 packs of 6, and the High Class Packs hold 10 packs of 10. A 12-box standard case therefore holds 360 packs and 1,800 cards. A 20-box High Class case holds 200 packs and 2,000 cards. Those totals matter when you split a case, because the fair split is by the per-box number, not by the case price, and the per-box number is one division away.",
+          "The case also has a seal, and the seal is the product. A factory-sealed case arrives with the distributor's tape and the boxes untouched inside, and that is what the buyer is paying for when a case costs more per box than singles: the guarantee that nobody has opened it. Our [resealed box inspection guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) covers the box-level checks, and the case-level check adds intact outer tape, square corners, no re-taping, and a seller whose stock you can trace. A case with broken tape is twelve boxes, not a sealed case."
+        ]
+      },
+      {
+        "h": "The money layer: all 41 cases, divided",
+        "math": [
+          "M1S Mega Symphonia case: $657.18 / 12 = $54.77 per box; $54.77 / 30 = $1.83 per pack; $1.83 / 5 = $0.37 per card; single $72.22, saves $17.46 per box, $209.46 across the case",
+          "SV5M Cyber Judge case: $724.80 / 12 = $60.40 per box; $60.40 / 30 = $2.01 per pack; $2.01 / 5 = $0.40 per card; single $75.03, saves $14.63 per box, $175.56 across the case",
+          "SV4M Future Flash case: $750.09 / 12 = $62.51 per box; $62.51 / 30 = $2.08 per pack; $2.08 / 5 = $0.42 per card; single $75.03, saves $12.52 per box, $150.27 across the case",
+          "SV11W White Flare case: $758.30 / 12 = $63.19 per box; $63.19 / 20 = $3.16 per pack; $3.16 / 7 = $0.45 per card; single $142.56, saves $79.37 per box, $952.42 across the case",
+          "SV6a Night Wanderer case: $767.13 / 12 = $63.93 per box; $63.93 / 30 = $2.13 per pack; $2.13 / 5 = $0.43 per card; single $77.87, saves $13.94 per box, $167.31 across the case",
+          "SV7 Stella Miracle case: $767.13 / 12 = $63.93 per box; $63.93 / 30 = $2.13 per pack; $2.13 / 5 = $0.43 per card; single $77.87, saves $13.94 per box, $167.31 across the case",
+          "M1L Mega Brave case: $775.35 / 12 = $64.61 per box; $64.61 / 30 = $2.15 per pack; $2.15 / 5 = $0.43 per card; single $80.67, saves $16.06 per box, $192.69 across the case",
+          "SV1V Violet ex case: $809.48 / 12 = $67.46 per box; $67.46 / 30 = $2.25 per pack; $2.25 / 5 = $0.45 per card; no single box on the shelf",
+          "SV2P Snow Hazard case: $809.48 / 12 = $67.46 per box; $67.46 / 30 = $2.25 per pack; $2.25 / 5 = $0.45 per card; single $80.67, saves $13.21 per box, $158.56 across the case",
+          "SV9 Battle Partners case: $809.48 / 12 = $67.46 per box; $67.46 / 30 = $2.25 per pack; $2.25 / 5 = $0.45 per card; single $72.22, saves $4.76 per box, $57.16 across the case",
+          "SV4K Ancient Roar case: $835.38 / 12 = $69.62 per box; $69.62 / 30 = $2.32 per pack; $2.32 / 5 = $0.46 per card; single $77.87, saves $8.26 per box, $99.06 across the case",
+          "SV6 Mask of Change case: $835.38 / 12 = $69.62 per box; $69.62 / 30 = $2.32 per pack; $2.32 / 5 = $0.46 per card; single $94.74, saves $25.13 per box, $301.50 across the case",
+          "S12 Paradigm Trigger case: $841.08 / 12 = $70.09 per box; $70.09 / 30 = $2.34 per pack; $2.34 / 5 = $0.47 per card; single $205.42, saves $135.33 per box, $1,623.96 across the case",
+          "SV11B Black Bolt case: $842.97 / 12 = $70.25 per box; $70.25 / 20 = $3.51 per pack; $3.51 / 7 = $0.50 per card; single $155.70, saves $85.45 per box, $1,025.43 across the case",
+          "Deluxe boxes for reference: SV11B Deluxe $181.04, SV11W Deluxe $167.90; case savings above use the standard boxes",
+          "SV9 Collection File Set Lillie case: $853.08 / 24 files = $35.55 per file",
+          "S10D Time Gazer case: $880.87 / 12 = $73.41 per box; $73.41 / 30 = $2.45 per pack; $2.45 / 5 = $0.49 per card; single $126.62, saves $53.21 per box, $638.57 across the case",
+          "S10P Space Juggler case: $880.87 / 12 = $73.41 per box; $73.41 / 30 = $2.45 per pack; $2.45 / 5 = $0.49 per card; single $91.94, saves $18.53 per box, $222.41 across the case",
+          "M3 Munikis Zero case: $891.00 / 12 = $74.25 per box; $74.25 / 30 = $2.48 per pack; $2.48 / 5 = $0.50 per card; single $60.03, COSTS $14.22 more per box, $170.64 more across the case",
+          "SV5K Wild Force case: $894.79 / 12 = $74.57 per box; $74.57 / 30 = $2.49 per pack; $2.49 / 5 = $0.50 per card; single $90.98, saves $16.41 per box, $196.97 across the case",
+          "SV1S Scarlet ex case: $937.75 / 12 = $78.15 per box; $937.75 / 360 packs = $2.60 per pack; $2.60 / 5 = $0.52 per card; no single box on the shelf",
+          "SV3a Raging Surf case: $980.10 / 12 = $81.68 per box; $81.68 / 30 = $2.72 per pack; $2.72 / 5 = $0.54 per card; single $87.24, saves $5.57 per box, $66.78 across the case",
+          "S10b Pokemon GO case: $1,000.96 / 20 = $50.05 per box; $50.05 / 20 = $2.50 per pack; $2.50 / 6 = $0.42 per card; single $220.42, saves $170.37 per box, $3,407.44 across the case",
+          "SV2D Clay Burst case: $1,022.44 / 12 = $85.20 per box; $85.20 / 30 = $2.84 per pack; $2.84 / 5 = $0.57 per card; single $87.24, saves $2.04 per box, $24.44 across the case",
+          "SV7a Paradise Dragona case: $1,065.40 / 12 = $88.78 per box; $88.78 / 30 = $2.96 per pack; $2.96 / 5 = $0.59 per card; single $120.05, saves $31.27 per box, $375.20 across the case",
+          "SV5a Crimson Haze case: $1,107.75 / 12 = $92.31 per box; $92.31 / 30 = $3.08 per pack; $3.08 / 5 = $0.62 per card; single $90.98, COSTS $1.33 more per box, $15.99 more across the case",
+          "M2 Inferno X case: $1,133.64 / 12 = $94.47 per box; $94.47 / 30 = $3.15 per pack; $3.15 / 5 = $0.63 per card; single $155.70, saves $61.23 per box, $734.76 across the case",
+          "SV3 Ruler of Black Flame case: $1,236.03 / 12 = $103.00 per box; $103.00 / 30 = $3.43 per pack; $3.43 / 5 = $0.69 per card; single $129.45, saves $26.45 per box, $317.37 across the case",
+          "SV1a Triplet Beat case: $1,363.68 / 12 = $113.64 per box; $113.64 / 30 = $3.79 per pack; $3.79 / 5 = $0.76 per card; single $129.45, saves $15.81 per box, $189.72 across the case",
+          "SV9a Heat Wave Arena case: $1,363.68 / 12 = $113.64 per box; $113.64 / 30 = $3.79 per pack; $3.79 / 5 = $0.76 per card; single $138.82, saves $25.18 per box, $302.16 across the case",
+          "S9 Star Birth case: $1,500.17 / 12 = $125.01 per box; $125.01 / 30 = $4.17 per pack; $4.17 / 5 = $0.83 per card; single $77.87, COSTS $47.14 more per box, $565.73 more across the case",
+          "SV10 Glory of Team Rocket case: $1,548.19 / 12 = $129.02 per box; $129.02 / 30 = $4.30 per pack; $4.30 / 5 = $0.86 per card; single $181.04, saves $52.02 per box, $624.29 across the case",
+          "M2a MEGA Dream ex case: $1,579.78 / 20 = $78.99 per box; $78.99 / 10 = $7.90 per pack; $7.90 / 10 = $0.79 per card; single $97.55, saves $18.56 per box, $371.22 across the case",
+          "S6H Silver Lance case: $1,738.39 / 12 = $144.87 per box; $144.87 / 30 = $4.83 per pack; $4.83 / 5 = $0.97 per card; single $142.56, COSTS $2.31 more per box, $27.67 more across the case",
+          "SV4a Shiny Treasure ex case: $1,960.19 / 20 = $98.01 per box; $98.01 / 10 = $9.80 per pack; $9.80 / 10 = $0.98 per card; single $120.05, saves $22.04 per box, $440.81 across the case",
+          "SV8 Super Electric Breaker case: $2,002.52 / 12 = $166.88 per box; $166.88 / 30 = $5.56 per pack; $5.56 / 5 = $1.11 per card; single $219.50, saves $52.62 per box, $631.48 across the case",
+          "S6K Jet-Black Spirit case: $2,130.17 / 12 = $177.51 per box; $177.51 / 30 = $5.92 per pack; $5.92 / 5 = $1.18 per card; no single box on the shelf",
+          "SV8a Terastal Festival ex case: $2,314.69 / 20 = $115.73 per box; $115.73 / 10 = $11.57 per pack; $11.57 / 10 = $1.16 per card; single $138.82, saves $23.09 per box, $461.71 across the case",
+          "S8 Fusion Arts case: $2,905.52 / 12 = $242.13 per box; $242.13 / 30 = $8.07 per pack; $8.07 / 5 = $1.61 per card; single $247.64, saves $5.51 per box, $66.16 across the case",
+          "SV2a Pokemon 151 case: $3,237.92 / 12 = $269.83 per box; $269.83 / 20 = $13.49 per pack; $13.49 / 7 = $1.93 per card; single $400.52, saves $130.69 per box, $1,568.32 across the case",
+          "S12a VSTAR Universe case: $3,266.35 / 20 = $163.32 per box; $163.32 / 10 = $16.33 per pack; $16.33 / 10 = $1.63 per card; single $205.42, saves $42.10 per box, $842.05 across the case",
+          "S8b VMAX Climax case: $3,436.95 / 20 = $171.85 per box; $3,436.95 / 200 packs = $17.18 per pack; $17.18 / 10 = $1.72 per card; single $247.64, saves $75.79 per box, $1,515.85 across the case",
+          "All 41 cases together: $54,216.11"
+        ],
+        "paragraphs": [
+          "Here is the whole ladder, every case divided to per-box, per-pack and per-card, with the single-box price beside it wherever one exists. The cheapest case is the [M1S Mega Symphonia sealed case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) at $657.18, or $54.77 a box, $1.83 a pack and $0.37 a card, the cheapest pack and the cheapest card anywhere on the shelf. The dearest is the S8b VMAX Climax case at $3,436.95, or $171.85 a box. The whole ladder costs $54,216.11. It is there so you can find your set on it and run your own division.",
+          "The biggest saving per box is the [S10b Pokemon GO sealed case](/product/s10b-poke-mon-go-booster-box-sealed-case-20-boxes/) at $170.37 a box, $3,407.44 across twenty boxes, because the single box lists at $220.42 while the case divides to $50.05. Next are S12 Paradigm Trigger at $135.33 a box and SV2a Pokemon 151 at $130.69. The biggest saving by rate is SV11W White Flare, where the case box at $63.19 costs less than half the single box at $142.56. The reason is not generosity: the single-box prices on the older and scarcer sets have run ahead of the case prices, and the gap is the saving.",
+          "The thinnest savings test whether the case is worth the commitment at all. SV2D Clay Burst saves $2.04 a box, $24.44 across the case, barely a rounding error against twelve boxes of one set. SV9 Battle Partners saves $4.76 a box. SV3a Raging Surf saves $5.57. If you are buying one of those cases, you are buying it to open volume or to hold sealed, not to save money, and you should say so to yourself before you pay. A $24 saving on a $1,022 purchase is not a discount. It is a rounding error with cardboard attached.",
+          "Three cases have no single box beside them, and the case price is the only way to price those sets here: SV1S Scarlet ex at $78.15 a box, SV1V Violet ex at $67.46, and S6K Jet-Black Spirit at $177.51. For those sets the case is the only sealed option on the shelf. The SV9 Collection File case is the fourth oddity: 24 files at $35.55 each, a different product from a booster case, and it should never be divided by 12."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or singles",
+        "paragraphs": [
+          "The table below turns the ladder into a choice. Read it by the job, because the cheapest per-box number is only the right answer if the job is volume. A case is twelve or twenty boxes of one set, and that is a lot of one set for one buyer, which is why the honest case buyer is usually a group, a shop, or a collector who opens volume and holds the rest sealed. The single box wins when you want one set and one night of opening. Singles win when you want one card."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Example on our shelf",
+            "Per box",
+            "Per pack",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "Sealed case, 12 boxes",
+              "M1S Mega Symphonia, $657.18",
+              "$54.77",
+              "$1.83",
+              "Cheapest packs on the shelf; splitting with friends"
+            ],
+            [
+              "Sealed case, 20 boxes",
+              "S10b Pokemon GO, $1,000.96",
+              "$50.05",
+              "$2.50",
+              "Biggest saving per box: $170.37"
+            ],
+            [
+              "Single booster box",
+              "M3 Munikis Zero, $60.03",
+              "$60.03",
+              "$2.00",
+              "One night of opening, no commitment"
+            ],
+            [
+              "Single box, special set",
+              "SV2a Pokemon 151, $400.52",
+              "$400.52",
+              "$20.03",
+              "One collector box of a scarce set"
+            ],
+            [
+              "Case that loses money",
+              "S9 Star Birth, $1,500.17",
+              "$125.01",
+              "$4.17",
+              "Do not buy: single box is $77.87"
+            ],
+            [
+              "Singles",
+              "Varies by card",
+              "Exact card",
+              "Exact price",
+              "One named card, grading, deck building"
+            ],
+            [
+              "File case, 24 files",
+              "SV9 Collection File Lillie, $853.08",
+              "$35.55 per file",
+              "Not packs",
+              "The Lillie file set only"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other guides miss: the four cases that lose money",
+        "note": "Warehouse Note: the question we get most in chat about cases is whether the case is always cheaper, and the answer is no, and we say so on the product page as well as here. Four cases on this shelf cost more per box than the single box beside them, and the S9 case costs $47.14 more per box, $565.73 across twelve. We stock it, we ship it daily, and we would rather sell eleven single boxes to that buyer than one case they will regret. The division is the product. The case is just the packaging.",
+        "paragraphs": [
+          "Every ranking of sealed cases shows you the cheapest per box and stops there. The number that matters just as much is the penalty, and four cases on our shelf carry one. The [M3 Munikis Zero sealed case](/product/m3-munikis-zero-nihil-zero-sealed-case-12-boxes-japanese-pokemon-card/) costs $891.00, or $74.25 a box against a $60.03 single, so the case costs $14.22 more per box and $170.64 more across twelve. The S9 Star Birth case costs $1,500.17, or $125.01 a box against a $77.87 single, a $47.14 penalty per box and $565.73 across the case. SV5a Crimson Haze costs $1.33 more per box, and S6H Silver Lance costs $2.31 more. One rule: divide first, and never assume the bigger purchase is the cheaper one.",
+          "Why does a case cost more than its own boxes? Because the case and the single box are priced as separate products, at separate moments, against separate demand. The M3 single box fell to $60.03 while its case stayed at $891.00, and the S9 single box sits at $77.87 while its case holds $1,500.17. The case price moves slower than the single price, and when the single falls, the case can be left standing above it.",
+          "The case-only sets are the second thing the rankings miss. SV1S, SV1V and S6K have no single box on this shelf, so the case is the only sealed route to those sets here, and the per-box numbers are $78.15, $67.46 and $177.51. A buyer who wants Scarlet ex sealed has exactly one option in this shop, and it costs $937.75. That is not a bargain and it is not a penalty. It is the price of the set, and the honest guide says so instead of pretending a comparison exists.",
+          "The third is the file case, and it is the trap for the careless reader. The [SV9 Collection File Set Lillie sealed case](/product/sv9-collection-file-set-lillie-sealed-case-24-files-japanese-pokemon-card/) costs $853.08 for 24 files, $35.55 a file, and it contains no booster boxes at all. A buyer who divides it by 12 gets $71.09 and thinks they have found a cheap box. They have not. Read the unit on the listing. Cases are boxes, files are files, and the division only works when the units match."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, storage, and the twelve-box commitment",
+        "paragraphs": [
+          "A case is twelve or twenty chances to be disappointed, and the risks scale with the size of the purchase. The first is the reseal: the outer tape is re-done, the boxes inside are swapped, and the buyer discovers it one box at a time. The checks are intact distributor tape, square corners, no re-taping, and a seller whose stock you can trace. Our [resealed box inspection guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) covers the box-level checks in full, and the case version adds one rule: photograph the case before you open it, and open the boxes in order.",
+          "The second risk is storage, and a case makes it twelve times bigger. Twelve boxes need a climate-stable room, off the floor, out of direct sun, with nothing heavy stacked on top, and an inventory record of what you hold. A case left in a hot room or under a stack of heavier boxes is twelve boxes of damage instead of one, and the damage only shows at resale. Our [sealed box storage guide](/blog/how-to-store-sealed-booster-boxes/) runs the full setup, and the short version is that a case is furniture until you open it: give it a shelf, not a corner.",
+          "The third risk is the commitment itself. Twelve boxes of one set is a lot of one set. If the set's chase cards fall in price, all twelve boxes fall with them. If you open three boxes and lose interest, nine boxes remain, and they are the same set you have already opened. The honest case buyer is a group splitting the case, a shop restocking, or a collector who opens volume and holds the rest sealed.",
+          "The fourth risk is the pull rate, which is to say there is no rate. The Pokemon Company does not publish pull rates, so a case buys 360 or 200 packs of random cards, not a set of chase cards. A case improves your odds by giving you more packs and nothing more. If you want one named card, buy the single. It always costs less than the packs it takes to pull it, and no case changes that."
+        ]
+      },
+      {
+        "h": "Context: Japan vs international — why cases are priced the way they are",
+        "paragraphs": [
+          "A case is priced in Japan first and everywhere else second. A standard Japanese box retails at 5,400 yen, or $33.87 at the European Central Bank rate of 159.42 yen to the dollar on November 18, 2026, so a 12-box case retails at 64,800 yen. From May 2026, Japanese booster packs rose from 180 yen to 200 yen per pack, announced by Creatures Inc. on January 30, 2026, which lifts the standard box to 6,000 yen at retail and the 12-box case to 72,000 yen, or $451.64. Creatures has already announced the next rise: 200 to 230 yen a pack from May 2027, taking a standard box to 6,900 yen.",
+          "The international buyer pays a second layer on top of the case price, and it depends on where the case lands. The European Union charges 21% VAT from the first euro plus a 3 euro flat duty per category on low-value parcels since July 2026. Singapore gives GST relief up to S$400 and charges 9% above it. The Philippines gives relief up to 10,000 pesos and charges 12% VAT above it. Australia gives border relief up to A$1,000. A case almost always crosses those lines, because even the cheapest case costs $657.18, so budget the tax as part of the case price. The exact shipping quote is confirmed at checkout or on WhatsApp.",
+          "The last piece of context is allocation. Cases are how shops buy, and the shop's case price is set against the distributor's allocation, not against the single-box shelf. When a set is scarce, the case holds its price while the singles move. When a set is reprinted, the singles fall first and the case follows. That is why the M3 case costs more than its singles today and why the S10b case saves $170.37 a box: two different moments in two different supply lines, priced on the same shelf."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for buyers who want one box, because a case is twelve or twenty boxes and the commitment is the purchase. It is not for buyers who want one card, because no case guarantees a chase card and the single is always cheaper. It is not for buyers who cannot store twelve boxes properly, because a case in a hot room or under a heavy stack is twelve boxes of damage. And it is not for buyers who need the money back quickly, because the resale market for a full case is narrower than the market for a single box."
+        ]
+      },
+      {
+        "checklist": [
+          "Read the box count on the listing: 12 for standard cases, 20 for High Class Packs and S10b, 24 files for the SV9 Collection File case.",
+          "Divide the case price by the box count, then by packs, then by cards per pack. Compare against the single box of the same set.",
+          "Check the penalty list first: M3, SV5a, S9 and S6H cost more per box than singles as of November 19, 2026.",
+          "Name what the other boxes are for before you pay: open, split, hold sealed, or restock. If you cannot name it, buy one box.",
+          "Photograph the case seal before you open it, and open the boxes in order.",
+          "Store the case off the floor, out of direct sun, in a climate-stable room, with nothing heavy on top.",
+          "Budget the landed cost: shipping at checkout, plus your country's tax line. A case almost always crosses the relief threshold.",
+          "Re-run the division on the day you pay. The M1S case fell $115.97 in sixteen days."
+        ],
+        "h": "Action layer: the sealed-case checklist",
+        "paragraphs": [
+          "Keep this list open. The whole guide is in it: the box count, the division, the penalty list, the purpose for the other boxes, the seal photographed, the storage sorted, the landed cost budgeted, and the division re-run on the day you pay."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-sealed-case",
+    "takeaway": [
+      "A Japanese Pokemon sealed case is 12 boxes of a standard set or 20 boxes of a High Class Pack, and 41 sit on our shelf as of November 19, 2026, from $657.18 to $3,436.95. Divide every case by its box count before you believe any per-box claim.",
+      "34 of the 38 comparable cases save money per box, and the biggest saving is the S10b Pokemon GO case at $170.37 a box. Four cost more: M3, SV5a, S9 and S6H. A case is a division, not a discount.",
+      "For the single boxes behind these cases, the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) prices every box, and the [buy Japanese Pokemon cards guide](/blog/buy-japanese-pokemon-cards-guide/) runs the whole purchase from deck to case. Re-run the division on the day you pay."
+    ]
+  },
   "japanese-pokemon-starter-deck-price": {
     "datePublished": "2026-11-15",
     "faqs": [
@@ -48950,7 +49339,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Two case-first guides now carry this method further: the [best Disney Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) divides all fourteen Lorcana cases with split and Enchanted math, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) divides all fourteen Fusion World cases with twelve-box split math.",
       "Two November 5, 2026 case guides extend the same division to single sets: the [OP-10 Royal Blood Buyer's Guide](/blog/op-10-royal-blood-buyers-guide/) finds the Japanese case charging a premium while the English case saves $556.09, and the [OP-09 Emperors in the New World Buyer's Guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/) finds the Japanese case charging a premium with no English case listed at all.",
       "Also see the [companion guide](/blog/best-sealed-tcg-products-japan/) for the wider comparison.",
-      "For the cross-game version of the same division, the [best TCG from Japan guide](/blog/best-tcg-from-japan/) ranks Pokemon, One Piece, Dragon Ball, and Lorcana by cheapest box and cheapest verified pack."
+      "For the cross-game version of the same division, the [best TCG from Japan guide](/blog/best-tcg-from-japan/) ranks Pokemon, One Piece, Dragon Ball, and Lorcana by cheapest box and cheapest verified pack.",
+      "New this cycle: the [Japanese Pokemon sealed case guide](/blog/japanese-pokemon-sealed-case/) divides all 41 cases on the shelf, including the four that cost more per box than singles: M3, SV5a, S9 and S6H."
     ]
   },
   "should-you-open-or-keep-sealed-booster-box": {
