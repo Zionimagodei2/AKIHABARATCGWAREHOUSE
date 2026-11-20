@@ -3697,7 +3697,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Dragon Ball Fusion World special set to buy is SB02 Manga Booster 02: the same $57.61 Japanese box as SB01, $2.40 a pack, with one more Secret Rare and 22 more card types, and an English case that divides to $793.51 a box — $5.33 above the market snapshot, against SB01's $569.13 above it. Divide every box by 24 before you believe any ranking, and divide the case by 12 before you believe any case price.",
       "Prices move, so treat every number here as stamped: our Japanese and English box and case prices as of November 7, 2026, and the market snapshot as of November 4, 2026. When the next Fusion World set lands, re-run the division — the first-set premium on SB01 today may not survive contact with the next release.",
-      "For the pack behind the set, the [best Dragon Ball Fusion World booster pack guide](/blog/best-dragon-ball-fusion-world-booster-pack/) divides every pack on the shelf, the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) prices all twelve mainline sets, and the [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) prices all fourteen cases. New to the game? The [Dragon Ball Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) teaches the game before you spend box money on it, and the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) separates Fusion World from the older Masters line. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+      "For the pack behind the set, the [best Dragon Ball Fusion World booster pack guide](/blog/best-dragon-ball-fusion-world-booster-pack/) divides every pack on the shelf, the [best Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) prices all twelve mainline sets, and the [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) prices all fourteen cases. New to the game? The [Dragon Ball Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) teaches the game before you spend box money on it, and the [best Japanese Dragon Ball Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) separates Fusion World from the older Masters line. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry.",
+      "The board has moved since this ranking: the Japanese boxes sold out, and the [Dragon Ball Fusion World special set guide](/blog/dragon-ball-fusion-world-special-set/) prices the board as it stands on November 20, 2026 — two English cases and one Japanese single card."
     ]
   },
   "best-dragon-ball-masters-booster-box-to-buy": {
@@ -11344,7 +11345,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best One Piece Japanese special set to buy is EB-04 Egghead Crisis for the cheapest entry at $3.79 a pack, and PRB-02 The Best vol.2 for the best reprint box at $74.82 — with EB-01 Memorial Collection at $6.46 a pack as the original set. Divide every box by 24 before you believe any ranking, divide per card before you compare languages, and never divide a PRB box to the pack, because Bandai publishes no packs-per-box figure.",
       "Prices move, so treat every number here as stamped: our Japanese and English box and case prices as of November 7, 2026, and the market snapshot as of November 2026. EB-04's English release date is unconfirmed in the sources checked — confirm it on the listing before paying for the English case — and when the EB-05 Japanese box lands, re-run the division the same way.",
-      "For the pack behind the set, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides every main set and Extra Booster to the pack against English, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all the sets by the box, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices the cases the splits come from. For the Premium Booster pair in full, the [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) runs the reprint comparison, and the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the dearest special set on its own. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+      "For the pack behind the set, the [best One Piece Japanese booster pack guide](/blog/best-one-piece-japanese-booster-pack/) divides every main set and Extra Booster to the pack against English, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all the sets by the box, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices the cases the splits come from. For the Premium Booster pair in full, the [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) runs the reprint comparison, and the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the dearest special set on its own. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry.",
+      "The full board behind this ranking is the [One Piece Japanese special set guide](/blog/one-piece-japanese-special-set/), priced fresh as of November 20, 2026: all six sets in every format, case against singles, and the November 13 repricing line by line."
     ]
   },
   "best-sealed-tcg-products-japan": {
@@ -17054,7 +17056,7 @@ export const POSTS: Record<string, BlogPost> = {
         ],
         "paragraphs": [
           "The buy is a four-way choice, and the table below runs it on real shelf prices. The case-split box is the cheapest sealed Fusion World for FB07 and FB08, and the market box wins on FB09 by every dated check. The Masters shelf is the quiet third option: B25 divides to $87.49 a box, $3.12 below the cheapest Fusion World box, and B32 divides to $88.95 a box on 20 packs, $4.45 a pack. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every game we sell, and the [B25 Legend of the Dragon Balls sealed case](/product/dragon-ball-super-card-game-masters-b25-legend-of-the-dragon-balls-booster-box-s/) is the cheapest Dragon Ball box on either shelf.",
-          "The fourth option is the trap. Our Japanese Fusion World listings at $23.70 for FB07, $22.12 for FB08, $54.50 for FB09, and $57.61 each for SB01 and SB02 are single cards, not boxes, and no per-pack math can be divided from them. The Japanese list box is 5,280 yen, or $33.01 at 159.97 yen to the dollar, the ECB cross rate for November 19, 2026, which is $1.38 a pack and $0.23 a card. A $22.12 Japanese single that looks like a cheap box is one card, not 24 packs."
+          "The fourth option is the trap. Our Japanese Fusion World listings at $23.70 for FB07, $22.12 for FB08, $54.50 for FB09, and $48.97 each for SB01 and SB02 are single cards, not boxes, and no per-pack math can be divided from them. The Japanese list box is 5,280 yen, or $33.01 at 159.97 yen to the dollar, the ECB cross rate for November 19, 2026, which is $1.38 a pack and $0.23 a card. A $22.12 Japanese single that looks like a cheap box is one card, not 24 packs."
         ],
         "table": {
           "head": [
@@ -17146,7 +17148,7 @@ export const POSTS: Record<string, BlogPost> = {
         "paragraphs": [
           "The first risk is the FB12 pre-order itself. A pre-order locks the $1,290.30 case price, not the December 18, 2026 English release date: if the date moves, the case waits with it. Fusion World has no God Rare, so the chase ceiling is the Secret Alt-Art tier, and a pre-order bought for a God Rare is bought on a misunderstanding.",
           "The second risk is the reseal: the outer tape is re-done, the boxes inside are swapped, and the buyer discovers it one box at a time. The checks are intact distributor tape, square corners, no re-taping, and a seller whose stock you can trace to a live shelf. Read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, and [should you open or keep sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold.",
-          "The third risk is the Japanese-single trap, and it is our own correction. Our November 7 and November 10 guides priced the Japanese FB07, FB08, FB09, SB01 and SB02 listings as boxes, at $26.02 to $64.12. Those listings are single cards: FB07 $23.70, FB08 $22.12, FB09 $54.50, and SB01 and SB02 $57.61 each, and no per-pack math can be divided from them. Any guide that still divides a Japanese single by 24 packs is dividing one card into 24 imaginary packs.",
+          "The third risk is the Japanese-single trap, and it is our own correction. Our November 7 and November 10 guides priced the Japanese FB07, FB08, FB09, SB01 and SB02 listings as boxes, at $26.02 to $64.12. Those listings are single cards: FB07 $23.70, FB08 $22.12, FB09 $54.50, and SB01 and SB02 $48.97 each, and no per-pack math can be divided from them. Any guide that still divides a Japanese single by 24 packs is dividing one card into 24 imaginary packs.",
           "The fourth risk is the falling new box. Prices move after release, and the November 13 repricing cut every case on this shelf by 15 percent in one move, so a case bought the week before cost more than the same case today. Re-run the case divided by 12 on the day you pay, and confirm shipping at checkout or on WhatsApp before you commit."
         ]
       },
@@ -17171,7 +17173,7 @@ export const POSTS: Record<string, BlogPost> = {
           "Check the market box first on FB07, FB08 and FB09: FB07 splits $272.87 below its market box, FB09 splits $72.09 above its own.",
           "Split the case before you pay: an FB12 case split four ways is $430.12 each for three boxes, and an FB04 case split twelve ways is $90.61 each for one box.",
           "If the job is one named card, buy the single. The GT alt-art is $781.93, and no box guarantees it.",
-          "Check the Japanese listing type before you pay: FB07 $23.70, FB08 $22.12, FB09 $54.50, SB01 and SB02 $57.61 are single cards, not boxes.",
+          "Check the Japanese listing type before you pay: FB07 $23.70, FB08 $22.12, FB09 $54.50, SB01 and SB02 $48.97 are single cards, not boxes.",
           "Check the seal on arrival: intact distributor tape, square corners, no re-taping. Photograph the case before you open it.",
           "Budget the landed cost: shipping is confirmed at checkout or on WhatsApp, plus your country's tax line. A case almost always crosses the relief threshold.",
           "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the FB09 gap is the one that moves fastest."
@@ -17187,10 +17189,11 @@ export const POSTS: Record<string, BlogPost> = {
       "A Dragon Ball Fusion World booster box is 24 packs of 12 cards at a $119.76 list price, and on this shelf it comes inside a case of 12: the cheapest box is FB04 at $90.61, the dearest is SB01 at $1,906.13, and all 14 cases cost $53,654.75 as of November 20, 2026.",
       "Seven of the 14 case-split boxes sit below the $119.76 list box. Against the dated single-box market, FB07 splits $272.87 below its $385.28 market box and FB08 splits $84.41 below its $257.96 box, while FB09 splits $72.09 above its $270.04 market box.",
       "The November 13 repricing cut every case by 15 percent: FB04's old case of $1,279.26 times 0.85 is $1,087.37, and FB09's old case of $4,830.00 times 0.85 is $4,105.50. Every ladder priced November 4 to November 10 prices the old shelf.",
-      "The Japanese Fusion World listings are single cards, not boxes: FB07 $23.70, FB08 $22.12, FB09 $54.50, SB01 and SB02 $57.61 each. No per-pack math can be divided from them.",
+      "The Japanese Fusion World listings are single cards, not boxes: FB07 $23.70, FB08 $22.12, FB09 $54.50, SB01 and SB02 $48.97 each. No per-pack math can be divided from them.",
       "FB12 Reach the God is on pre-order at $1,290.30 a case, $107.53 a box, for the English release on December 18, 2026. The [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks the same shelf by the buy.",
       "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the FB09 gap is the one that moves fastest.",
-      "The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case/) runs the same case-divided math on the One Piece shelf: 46 cases, $32,191.37 Japanese and $57,322.82 English."
+      "The [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case/) runs the same case-divided math on the One Piece shelf: 46 cases, $32,191.37 Japanese and $57,322.82 English.",
+      "The special sets sit apart from the mainline board: the [Dragon Ball Fusion World special set guide](/blog/dragon-ball-fusion-world-special-set/) prices SB01 and SB02 as of November 20, 2026, after the Japanese boxes sold out."
     ]
   },
   "dragon-ball-fusion-world-booster-box-price": {
@@ -18283,6 +18286,216 @@ export const POSTS: Record<string, BlogPost> = {
       "For the ranking, the [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks all fourteen cases by per-box price; for the Japanese route, the [best Japanese Fusion World guide](/blog/best-dragon-ball-fusion-world-japanese/) prices the five singles; and for the format question, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles case against box across the shelf.",
       "New to the game? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) teaches the game before you spend case money on it, the [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) prices every channel, and the [best Masters booster box guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) covers the older game.",
       "New this cycle: the [best Dragon Ball Fusion World sealed case ranking](/blog/best-dragon-ball-fusion-world-sealed-case/) re-prices all fourteen cases after the 15 percent cut, from FB04 at $90.61 to SB01 at $1,906.13 per box."
+    ]
+  },
+  "dragon-ball-fusion-world-special-set": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "No. The Japanese Manga Booster boxes that cost $57.61 on our shelf on November 7, 2026 have sold out, and no Japanese box is stocked today. What remains in Japanese is a single card for each set at $48.97, and a single card is one card, not 24 packs. A restock has no date, so the choice today is the English case, the single card, or waiting.",
+        "q": "Can I still buy a Japanese Manga Booster box?"
+      },
+      {
+        "a": "SB02, on price. Its case costs $8,093.82, or $674.49 a box and $28.10 a pack, against SB01 at $22,873.50, or $1,906.13 a box and $79.42 a pack, as of November 20, 2026. SB02 also holds more: 132 card types against 110, and two Secret Rares against one. SB01 is the buy only if the job is owning the first Manga Booster, the set that introduced energy markers, in sealed English form.",
+        "q": "Which Manga Booster case is the better buy, SB01 or SB02?"
+      },
+      {
+        "a": "The single, by a wide margin, if the job is one named card. One SB01 case-split box costs $1,906.13, which buys 38.92 singles at $48.97, and one SB02 box costs $674.49, which buys 13.77 singles. A case only makes sense sealed and held, never opened for one card, because no box guarantees any named card.",
+        "q": "Is it cheaper to buy the single card or the case?"
+      }
+    ],
+    "h1": "Dragon Ball Fusion World Special Sets: SB01 vs SB02",
+    "intro": [
+      "Short answer: the Japanese Manga Booster boxes are gone from this shelf, and the only sealed Manga Booster left is the English case. SB01 Manga Booster 01 costs $22,873.50 for 12 boxes, or $1,906.13 a box and $79.42 a pack, and SB02 Manga Booster 02 costs $8,093.82 for 12 boxes, or $674.49 a box and $28.10 a pack, as of November 20, 2026. The gap between the cases is $14,779.68, down from $17,387.86 on November 7 after both fell 15 percent on November 13.",
+      "This guide is for the collector who still wants Toriyama manga art in sealed form and needs the board as it stands today: two English cases, one Japanese single card at $48.97, and a restock with no date. It is not a repeat of our November 7 guide, which priced Japanese boxes at $57.61 and recommended between them; those boxes have sold out, and every figure below is priced fresh as of November 20, 2026."
+    ],
+    "metaDescription": "SB01 vs SB02 after the Japanese boxes sold out: English cases divided per box, per pack and per card, plus the $48.97 single-card fallback. Nov 20, 2026.",
+    "metaTitle": "Dragon Ball Fusion World Special Sets: SB01 vs SB02",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: the Japanese boxes are gone; the board is two cases and a single card",
+        "paragraphs": [
+          "SB01 and SB02 are the two Manga Boosters, the special sets of Dragon Ball Fusion World built around alt-art cards illustrated by Akira Toriyama himself, in the words of Bandai's own product pages. SB01 reached Japan on June 28, 2025 and English on June 27, 2025, with 110 card types plus 21 energy markers, five Leaders, and one Secret Rare, and it was the first booster in the game to include energy markers. SB02 followed in Japan on November 8, 2025 and in English on November 14, 2025, with 132 card types including 21 energy markers, five Leaders, and two Secret Rares.",
+          "What changed since our November 7 guide is the shelf itself. That guide priced both Japanese boxes at $57.61 and recommended SB02 between them. Both Japanese boxes have since sold out, and the Japanese listings that remain are single cards at $48.97 each, one card, not a box. The English cases are still here, repriced: SB01 at $22,873.50, down from $26,910.00, and SB02 at $8,093.82, down from $9,522.14. Our [best Fusion World special set guide](/blog/best-dragon-ball-fusion-world-special-set/) is that November 7 board.",
+          "The verdict by job: buy the SB02 case only to hold a sealed English Manga Booster case, buy the $48.97 single for one named Japanese card, and wait for a Japanese box, because no case price buys back a box that cost $57.61 thirteen days ago. The [Fusion World booster box guide](/blog/dragon-ball-fusion-world-booster-box/) prices every English case on the same shelf, divided the same way."
+        ]
+      },
+      {
+        "h": "The money layer: both cases divided to the box, the pack, and the card",
+        "math": [
+          "SB01 Manga Booster 01 case: $22,873.50 / 12 boxes = $1,906.13 per box; $1,906.13 / 24 packs = $79.42 per pack; $79.42 / 12 cards = $6.62 per card",
+          "SB02 Manga Booster 02 case: $8,093.82 / 12 boxes = $674.49 per box; $674.49 / 24 packs = $28.10 per pack; $28.10 / 12 cards = $2.34 per card",
+          "Case gap: $22,873.50 - $8,093.82 = $14,779.68; $22,873.50 / $8,093.82 = 2.83x",
+          "Per-box gap: $1,906.13 - $674.49 = $1,231.64; per-pack gap: $79.42 - $28.10 = $51.32; per-card gap: $6.62 - $2.34 = $4.28",
+          "Both cases together: $22,873.50 + $8,093.82 = $30,967.32",
+          "SB01 case vs FB09 Dual Evolution case: $22,873.50 - $4,105.50 = $18,768.00; $22,873.50 / $4,105.50 = 5.57x",
+          "SB02 case vs FB09 Dual Evolution case: $8,093.82 - $4,105.50 = $3,988.32; $8,093.82 / $4,105.50 = 1.97x",
+          "SB01 case vs FB04 Ultra Limit case: $22,873.50 - $1,087.37 = $21,786.13; $22,873.50 / $1,087.37 = 21.04x",
+          "English list box: 24 packs x $4.99 = $119.76; SB01 box $1,906.13 / $119.76 = 15.92x list; SB02 box $674.49 / $119.76 = 5.63x list",
+          "November 13 repricing: $26,910.00 x 0.85 = $22,873.50; $9,522.14 x 0.85 = $8,093.82; SB01 fell $4,036.50 and SB02 fell $1,428.32"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about the Manga Boosters is still whether the Japanese box is coming back, and the honest answer is that we have no restock date to give. We stock it, we ship it daily, and the two English cases above are the only sealed Manga Booster on the shelf today, so every division below is a division you will actually pay.",
+        "paragraphs": [
+          "Here is the whole board, every case divided the same way. SB01 costs $22,873.50 for 12 boxes: $1,906.13 a box, $79.42 a pack, $6.62 a card. SB02 costs $8,093.82 for 12 boxes: $674.49 a box, $28.10 a pack, $2.34 a card. Each case holds 288 packs and 3,456 cards; together the two cost $30,967.32, more than the twelve mainline Fusion World cases combined. The [SB01 Manga Booster 01 sealed case](/product/dragon-ball-super-fusion-world-sb01-manga-booster-01-booster-box-sealed-case-eng/) and the [SB02 Manga Booster 02 sealed case](/product/dragon-ball-super-fusion-world-sb02-manga-booster-02-booster-box-sealed-case-eng/) are the listings.",
+          "The gap is the story. SB01 costs $14,779.68 more than SB02 for the same 12 boxes, 2.83 times as much, or $1,231.64 more per box and $51.32 more per pack. The gap narrowed by $2,608.18 since November 7, because both cases fell exactly 15 percent on November 13: SB01 fell $4,036.50 and SB02 fell $1,428.32.",
+          "Against the rest of the shelf the Manga Boosters sit alone. SB01 costs $18,768.00 more than the FB09 Dual Evolution case, 5.57 times it, and $21,786.13 more than the FB04 Ultra Limit case, 21.04 times it. Against the $119.76 English list box, 24 packs at $4.99, the SB01 box is 15.92 times list and the SB02 box is 5.63 times list. These are not player prices; they are the prices of manga-art collectibles in sealed-case form."
+        ]
+      },
+      {
+        "h": "The market layer: our case-split box against the single-box market",
+        "math": [
+          "PopnGames SB01 English box: $229.95; our case-split box $1,906.13 - $229.95 = $1,676.18 above; $1,906.13 / $229.95 = 8.29x",
+          "PopnGames SB02 English box: $299.95; our case-split box $674.49 - $299.95 = $374.54 above; $674.49 / $299.95 = 2.25x",
+          "November 4 market snapshot, SB02: market box $788.18; our new box $674.49, $788.18 - $674.49 = $113.69 below",
+          "November 4 market snapshot, SB01: market box $1,673.37; our new box $1,906.13, $1,906.13 - $1,673.37 = $232.76 above",
+          "PopnGames FB04 Ultra Limit box: $109.99; our case-split box $90.61, $109.99 - $90.61 = $19.38 below"
+        ],
+        "paragraphs": [
+          "The single-box market undercuts both case splits, and the SB01 spread is the widest on the shelf. PopnGames lists the SB01 English box at $229.95 and the SB02 box at $299.95, checked November 20, 2026, and our case-split boxes sit $1,676.18 above the first and $374.54 above the second, 8.29 times and 2.25 times the asks. Both listings are marked Not Available, so neither is a box you can buy today, but the asks show where single-box sellers value these sets: far below our case division.",
+          "The November 4 market snapshot tells the same story. Against it, our SB02 case now divides to $674.49 a box, $113.69 below the $788.18 market box, while our SB01 case divides to $1,906.13, $232.76 above the $1,673.37 market box. The snapshot predates the November 13 repricing, so read it as directional, not current.",
+          "The mainline shelf shows the contrast. PopnGames lists the FB04 Ultra Limit box at $109.99, and our case-split FB04 box is $90.61, $19.38 below the retail ask. On mainline sets the case split beats the single-box ask; on the Manga Boosters it loses by hundreds of dollars. That is the difference between a player product and a collector product."
+        ]
+      },
+      {
+        "h": "The decision layer: case, singles, or wait for restock",
+        "math": [
+          "One SB01 case-split box buys singles: $1,906.13 / $48.97 = 38.92 singles",
+          "One SB02 case-split box buys singles: $674.49 / $48.97 = 13.77 singles",
+          "One SB01 case buys singles: $22,873.50 / $48.97 = 467.09 singles; one SB02 case: $8,093.82 / $48.97 = 165.28 singles",
+          "SB02 case split 12 ways: $674.49 each for 1 box; split 6 ways: $8,093.82 / 6 = $1,348.97 each for 2 boxes; split 4 ways: $8,093.82 / 4 = $2,023.46 each for 3 boxes",
+          "SB01 case split 6 ways: $22,873.50 / 6 = $3,812.25 each for 2 boxes; split 4 ways: $22,873.50 / 4 = $5,718.38 each for 3 boxes",
+          "Japanese list box if restocked at list: 24 packs x 330 yen = 7,920 yen; 7,920 yen / 159.97 yen per dollar = $49.51 per box; $49.51 / 24 packs = $2.06 per pack; $49.51 / 144 cards = $0.34 per card"
+        ],
+        "paragraphs": [
+          "The buy is a three-way choice, and the table below runs it on the November 20 board: the case is the sealed-collector route, the single card is the named-card route, and waiting is the Japanese-box route. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every game we sell, and the [best Fusion World booster pack guide](/blog/best-dragon-ball-fusion-world-booster-pack/) prices the same shelf per pack.",
+          "The singles math decides it for most buyers. One SB01 case-split box at $1,906.13 buys 38.92 Japanese singles at $48.97, and one SB02 box at $674.49 buys 13.77 of them. One whole SB01 case buys 467.09 singles. A buyer who wants named cards and pays case money is paying for 467 cards to receive 3,456, most of them commons. The single is the buy unless the job is the sealed case itself.",
+          "Waiting is the third option, and its price is the one we can only estimate. A Japanese Manga Booster box lists at 330 yen a pack in Japan, 7,920 yen a box, which converts to $49.51 at 159.97 yen to the dollar, the ECB November 19, 2026 fixing, or $2.06 a pack and $0.34 a card. Our old shelf price was $57.61, above list, and a restock would land near one of those two numbers, not near $674.49. Waiting costs nothing but time and has no date, so it suits the buyer who can afford to watch."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price on the November 20 board",
+            "Per box / per pack",
+            "Best for",
+            "Watch out for"
+          ],
+          "rows": [
+            [
+              "SB02 English case",
+              "$8,093.82 for 12 boxes",
+              "$674.49 / $28.10",
+              "Holding a sealed English Manga Booster case",
+              "12 boxes of one set; $374.54 above the $299.95 single-box ask"
+            ],
+            [
+              "SB01 English case",
+              "$22,873.50 for 12 boxes",
+              "$1,906.13 / $79.42",
+              "Owning the first Manga Booster sealed in English",
+              "$1,676.18 above the $229.95 single-box ask; 2.83x SB02"
+            ],
+            [
+              "Japanese single card",
+              "$48.97 per card, SB01 or SB02",
+              "One card, no per-pack price",
+              "One named Japanese card",
+              "Not a box; never divide it per pack"
+            ],
+            [
+              "Wait for JP restock",
+              "No date; old shelf $57.61, list box $49.51",
+              "About $2.06 a pack at list",
+              "A Japanese box at a sane price",
+              "No restock date; the price on return is unknown"
+            ],
+            [
+              "Mainline case instead",
+              "FB04 case $1,087.37; FB09 case $4,105.50",
+              "$90.61 / $3.78; $342.13 / $14.26",
+              "Playing Fusion World, or sealed value",
+              "Different cards, different chase; not manga art"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the sold-out Japanese box, the 12-card division, and the single-card fallback",
+        "math": [
+          "Old Japanese box, November 7: $57.61 / 24 packs = $2.40 per pack; $2.40 / 6 cards = $0.40 per card",
+          "SB01 English per-card vs old Japanese per-card: $6.62 / $0.40 = 16.55x; SB02: $2.34 / $0.40 = 5.85x",
+          "Japanese single vs old Japanese box: $57.61 - $48.97 = $8.64; one single costs $8.64 less than the whole old box did",
+          "Case gap narrowed: $17,387.86 - $14,779.68 = $2,608.18 since November 7",
+          "Old Japanese boxes the SB01 case would have bought: $22,873.50 / $57.61 = 397.04 boxes; SB02 case: $8,093.82 / $57.61 = 140.49 boxes"
+        ],
+        "note": "From the Warehouse: the gap we own on the special sets is the current shelf itself. Every guide we found prices the Japanese box as buyable, because when those guides were written, it was. We stock it, we ship it daily, and the box is gone now, so the guide that still recommends it is recommending a product that no longer exists on this shelf.",
+        "paragraphs": [
+          "The top three results for this query are our own November 7 guide, the Samurai Sword sets-in-order guide covering FB01 through FB10 plus both Manga Boosters, and eBay stores selling graded singles. Our November 7 guide assumed Japanese boxes at $57.61 and recommended between them. The Samurai Sword guide is a set-order reference from Bandai's official pages; the eBay stores sell graded chase singles, not boxes. None of the three says the Japanese boxes are gone from this shelf, none divides the English case at 12-card packs against the Japanese 6-card packs, and none prices the single-card fallback.",
+          "The first gap is the sold-out box. On November 7 both Japanese boxes cost $57.61, or $2.40 a pack and $0.40 a card. Today there is no Japanese box at any price, and the SB01 case alone would have bought 397.04 of those boxes at the old price. A guide that still sends a buyer to the Japanese box sends them to an empty shelf, discovered at checkout.",
+          "The second gap is the 12-card division. An English pack holds 12 cards against 6 in a Japanese pack, so the per-card comparison is the honest one: SB01 at $6.62 a card is 16.55 times the old Japanese $0.40, and SB02 at $2.34 is 5.85 times it. The third gap is the fallback nobody prices: one Japanese single costs $48.97, $8.64 less than the whole old Japanese box cost. This page owns all three gaps, and every figure in it is stamped November 20, 2026."
+        ]
+      },
+      {
+        "h": "The chase layer: what SB01 and SB02 actually hold",
+        "math": [
+          "Card types: SB02 132 - SB01 110 = 22 more card types in SB02",
+          "Secret Rares: SB02 2 - SB01 1 = 1 more Secret Rare in SB02",
+          "Energy marker designs across both sets: 21 + 21 = 42 exclusive designs"
+        ],
+        "paragraphs": [
+          "SB01 is the first Manga Booster, and its contents are why the English case costs what it does. The set holds 110 card types plus 21 energy marker designs: five Leaders, 37 Commons, 32 Uncommons, 25 Rares, 10 Super Rares, and one Secret Rare, the Son Goku from the fifth booster set, returned as a super-powerful SCR with manga-panel art. Bandai's official announcement calls the Ultra Alt-Art a brand-new rarity to Fusion World, and the alt-arts are illustrated by Akira Toriyama himself. The energy markers were a first for any booster in the game, and all 21 designs are originals obtainable only with Manga Booster 01.",
+          "SB02 repeats the formula with more inside it: 132 card types including 21 energy markers, five Leaders, and two Secret Rares, one more chase card than SB01, and 22 more card types in all. Its gold energy markers carry manga-cover illustrations, and across both sets there are 42 exclusive marker designs that exist nowhere else.",
+          "We price no chase single here, and that is deliberate. No November 2026 dated source for a named manga alt-art or gold energy marker price was verified in the research for this page, and graded copies move at auction prices that change daily. The chase discussion is qualitative: SB02 holds more of everything, SB01 holds the firsts, and either set opened for one named card is a lottery ticket, not a purchase."
+        ]
+      },
+      {
+        "h": "The risk layer: the case commitment, reseals, and the restock that has no date",
+        "paragraphs": [
+          "The first risk is the case commitment itself. Twelve boxes of one set is $8,093.82 for SB02 and $22,873.50 for SB01, and the resale market for a full case is narrower than for one box. A buyer who splits the case twelve ways pays $674.49 or $1,906.13 per box, but a buyer who cannot find eleven partners holds the whole case. Split before you pay, and confirm shipping at checkout or on WhatsApp first, because a case almost always crosses the duty-free threshold.",
+          "The second risk is the reseal: the outer tape is re-done, the boxes inside are swapped, and the buyer discovers it one box at a time. The checks are intact distributor tape, square corners, no re-taping, and a seller whose stock traces to a live shelf. Read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, and [should you open or keep sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold.",
+          "The third risk is the restock with no date. If Japanese boxes return near the old $57.61 shelf price, a buyer who paid $1,906.13 a box for SB01 English will have paid about 33 times the Japanese box price for the same set in a different language. The November 13 repricing proved these prices move 15 percent in one leg, so re-run the case divided by 12 on the day you pay. The fourth risk is our own correction: our November 7 and November 10 guides priced the Japanese SB01 and SB02 listings as boxes at $57.61. Those listings are single cards, $48.97 each today, and no per-pack math can be divided from them."
+        ]
+      },
+      {
+        "h": "Context: special sets are not mainline sets",
+        "paragraphs": [
+          "Fusion World launched in Japan on February 16, 2024, and the mainline sets have run roughly quarterly since: FB01 Awakened Pulse through FB12 Reach the God, the newest, with an English release on December 18, 2026. The Manga Boosters sit outside that numbering: they carry the SB prefix, they are built around manga art rather than a story arc, and they are the only Fusion World products whose alt-arts Bandai credits to Akira Toriyama himself. Our [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) places both lines in the game for a new player.",
+          "Japan versus English is a format difference, not a quality difference. A Japanese Manga Booster box holds 24 packs of 6 cards, 144 cards, at a list price of 330 yen a pack, while an English box holds 24 packs of 12 cards, 288 cards. Every pack in either language includes a promotion code for the digital version, per Bandai's official product pages. The [Dragon Ball TCG Japan guide](/blog/dragon-ball-tcg-japan/) prices the whole Japanese Dragon Ball shelf."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants a Japanese box today, because there is none on this shelf at any price. It is not for the buyer who wants one English box without splitting, because we stock cases of twelve and no single box beside them. It is not for the buyer who wants the box to pay for itself, because no box guarantees a Secret Rare or a gold energy marker, and the chase singles carry no verified November 2026 price here. It is not for the buyer who needs the money back quickly, because the resale market for a full Manga Booster case is narrower than for one box. If any of those is the job, the $48.97 single, the market box, or waiting for restock is the better buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Name the job before you pay: sealed case is SB02 at $8,093.82, first-set sealed is SB01 at $22,873.50, named card is the $48.97 single, Japanese box is wait.",
+          "Divide before you pay: case / 12 = your per-box price; box / 24 = your per-pack price. SB01 is $1,906.13 a box and $79.42 a pack; SB02 is $674.49 a box and $28.10 a pack.",
+          "Never divide the Japanese single: $48.97 is one card, not a box, and no per-pack math comes from it.",
+          "Check the single-box asks first: PopnGames lists SB01 at $229.95 and SB02 at $299.95, both marked Not Available on November 20, 2026.",
+          "Split the case before you pay: an SB02 case split six ways is $1,348.97 each for two boxes, and split twelve ways is $674.49 each for one box.",
+          "If the job is one named card, buy the single. One SB01 box buys 38.92 singles at $48.97.",
+          "Check the seal on arrival: intact distributor tape, square corners, no re-taping. Photograph the case before you open it.",
+          "Budget the landed cost: shipping is confirmed at checkout or on WhatsApp, plus your country's tax line. A case almost always crosses the relief threshold.",
+          "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the November 13 repricing moved both cases 15 percent in one leg."
+        ],
+        "h": "Action layer: the special-set buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the buy decides itself. The job comes first: sealed case, named single, or wait for a Japanese box with no date. The division comes second: the case is the only sealed route left, the single is the only Japanese route left, and the market box is cheaper than either case split where it can be bought. The last check is the date: every price here is stamped November 20, 2026, and the shelf was repriced on November 13, so a price without a date is from a different shelf."
+        ]
+      }
+    ],
+    "slug": "dragon-ball-fusion-world-special-set",
+    "takeaway": [
+      "The Japanese Manga Booster boxes are gone from this shelf: both cost $57.61 on November 7, 2026 and have sold out. The only sealed Manga Booster left is the English case, and the only Japanese route left is a single card at $48.97.",
+      "SB01 Manga Booster 01 costs $22,873.50 a case, or $1,906.13 a box and $79.42 a pack. SB02 Manga Booster 02 costs $8,093.82 a case, or $674.49 a box and $28.10 a pack. The gap is $14,779.68, down $2,608.18 since November 7 after both cases fell 15 percent on November 13.",
+      "One SB01 case-split box buys 38.92 Japanese singles at $48.97, and one SB02 box buys 13.77. A case only makes sense sealed and held; buy the single if the job is one named card.",
+      "PopnGames lists the SB01 English box at $229.95 and the SB02 box at $299.95, checked November 20, 2026, both marked Not Available. Our case-split boxes sit $1,676.18 and $374.54 above those asks.",
+      "SB02 holds more: 132 card types against 110, and two Secret Rares against one. SB01 holds the firsts: the first energy markers in the game and the first Toriyama manga alt-arts. Across both sets there are 42 exclusive energy marker designs.",
+      "Re-run the division on the day you pay. Every price here is stamped November 20, 2026. The [best Fusion World special set guide](/blog/best-dragon-ball-fusion-world-special-set/) is the November 7 board this guide replaces.",
+      "The One Piece side of the special-set board is the [One Piece Japanese special set guide](/blog/one-piece-japanese-special-set/): all six sets, EB-01 to EB-04 and PRB-01 to PRB-02, priced as of November 20, 2026."
     ]
   },
   "dragon-ball-super-card-game-japanese-booster-box": {
@@ -42756,6 +42969,256 @@ export const POSTS: Record<string, BlogPost> = {
       "For the full guide to the same shelf, the [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case/) divides all 46 cases — 23 Japanese at $32,191.37 and 23 English at $57,322.82 — to the box and against 12 singles."
     ]
   },
+  "one-piece-japanese-special-set": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "A Japanese Extra Booster box holds 24 packs of 6 cards, 144 cards in all. A Premium Booster box holds 10 packs of 10 cards, 100 cards in all, at ¥550 a pack in Japan and $5.49 a pack in English. An English Extra Booster box holds 24 packs of 12 cards, 288 cards in all, at $4.99 a pack from EB-02 on. EB-05 follows the Extra Booster shape: 24 packs, 6 cards a pack in Japanese and 12 in English.",
+        "q": "How many packs are in a One Piece Japanese special set box?"
+      },
+      {
+        "a": "Barely, on the Japanese side: all six Japanese cases together cost $8,411.87 against $8,459.54 for the same boxes bought singly, a saving of $47.67, and the EB-01 and EB-03 cases cost $0.92 more than twelve singles each. On the English side the case is the real saving: the PRB-02 English case divides to $73.74 a box against a $157.03 single, saving $1,665.73 across twenty boxes, and the EB-01 English case saves $644.47 across twelve. Divide the case for the set you want before you pay.",
+        "q": "Is a One Piece Japanese special set cheaper by the case?"
+      },
+      {
+        "a": "The God Pack is a single PRB-01 pack holding all ten historic Comic Parallel cards, and Samurai Sword Tokyo's PRB-01 guide estimates roughly one God Pack per 1,000 boxes. At our Japanese box of $127.19 that is $127,190.00 of boxes for one expected God Pack, against a complete God Pack sold for ¥1,380,000, about $9,200. Never open boxes chasing it: buy the God Pack, or buy the singles, and leave the lottery to someone else.",
+        "q": "What is the God Pack in PRB-01 and how rare is it?"
+      }
+    ],
+    "h1": "One Piece Japanese Special Sets: EB vs PRB",
+    "intro": [
+      "Short answer: the six Japanese One Piece special sets, EB-01 to EB-04 and PRB-01 to PRB-02, cost $683.76 for one box of each on our shelf as of November 20, 2026, from $63.60 for PRB-02 to $152.03 for EB-02, and the cases behind them cost $8,411.87 for all six. Every Japanese box fell exactly 15 percent on November 13, and the newest set, EB-05, is here only as an English case at $1,182.38.",
+      "This guide is for the buyer who wants the whole special-set board before spending: all six sets in every format, the case-versus-single division for each, and the November 13 repricing priced line by line. It is not a ranking. Our [best One Piece Japanese special set guide](/blog/best-one-piece-japanese-special-set/) already ranks the six by the buy; this page is the board that ranking stands on. It is not for the buyer who wants one named card."
+    ],
+    "metaDescription": "All six Japanese One Piece special sets priced per box, per pack and per case on one shelf, with the November 13 repricing and EB-05. November 20, 2026.",
+    "metaTitle": "One Piece Japanese Special Sets: EB vs PRB",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: six sets, two lines, one board",
+        "paragraphs": [
+          "The split is the board. The four Extra Boosters, EB-01 Memorial Collection, EB-02 Anime 25th Collection, EB-03 Heroines Edition and EB-04 Egghead Crisis, hold new cards that appear in no main set. The two Premium Boosters, PRB-01 The Best and PRB-02 The Best vol.2, hold reprints, the best cards from the sets before them, plus DON!! cards. A Japanese Extra Booster pack holds 6 cards at ¥220, a Premium Booster pack holds 10 at ¥550, and the English editions hold 12 a pack for EB and 10 for PRB, at $4.99 and $5.49.",
+          "The six Japanese boxes run from $63.60 to $152.03 as of November 20, 2026. The cheapest pack is EB-04 at $3.22, the dearest is EB-02 at $6.33, and the Premium Boosters divide to $12.72 a pack for PRB-01 and $6.36 for PRB-02, on 10 packs of 10 cards a box. The English board is dearer in every row except per card on EB-02 and EB-03. The [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) runs the Premium Booster pair in full."
+        ]
+      },
+      {
+        "h": "The money layer: all six Japanese boxes, divided",
+        "math": [
+          "EB-01 Memorial Collection Japanese box: $131.78 / 24 packs = $5.49 per pack; $5.49 / 6 cards = $0.92 per card",
+          "EB-02 Anime 25th Collection Japanese box: $152.03 / 24 packs = $6.33 per pack; $6.33 / 6 cards = $1.06 per card",
+          "EB-03 Heroines Edition Japanese box: $131.78 / 24 packs = $5.49 per pack; $5.49 / 6 cards = $0.92 per card",
+          "EB-04 Egghead Crisis Japanese box: $77.38 / 24 packs = $3.22 per pack; $3.22 / 6 cards = $0.54 per card",
+          "PRB-01 The Best Japanese box: $127.19 / 10 packs = $12.72 per pack; $12.72 / 10 cards = $1.27 per card",
+          "PRB-02 The Best vol.2 Japanese box: $63.60 / 10 packs = $6.36 per pack; $6.36 / 10 cards = $0.64 per card",
+          "All six Japanese boxes: $131.78 + $152.03 + $131.78 + $77.38 + $127.19 + $63.60 = $683.76",
+          "Dearest Japanese pack vs cheapest: $6.33 - $3.22 = $3.11; EB-02 box vs EB-04 box: $152.03 - $77.38 = $74.65",
+          "Japanese list box, EB: 5,280 yen / 159.97 = $33.01; PRB: 5,500 yen / 159.97 = $34.38; EB-01 at $131.78 is 3.99x list; EB-02 at $152.03 is 4.61x list; EB-04 at $77.38 is 2.34x list; PRB-01 at $127.19 is 3.70x list; PRB-02 at $63.60 is 1.85x list"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about special sets is whether the Premium Booster box is really ten packs, because a $127.19 box that holds ten packs looks like a mistake beside a $131.78 box that holds twenty-four. It is not a mistake. A PRB box holds 10 packs of 10 cards, 100 cards in all, and the box price of ¥5,500 in Japan divides by the ¥550 pack price to the same ten packs. We stock it, we ship it daily, and every per-pack figure below is divided on that ten-pack box, never on a guessed twenty-four.",
+        "paragraphs": [
+          "The four Extra Boosters divide on the same 24-pack box. EB-01 and EB-03 both cost $131.78 a box, $5.49 a pack and $0.92 a card, so the set decides, not the money. EB-02 costs $152.03 a box, $6.33 a pack and $1.06 a card, the dearest Japanese special-set pack. EB-04 costs $77.38 a box, $3.22 a pack and $0.54 a card, the cheapest, $74.65 a box below EB-02. The [EB-04 box](/product/eb-04-egghead-crisis-booster-box-japanese-one-piece-card/) is the value entry, and the [EB-02 box](/product/eb-02-anime-25th-collection-booster-box-japanese-one-piece-card/) is the premium one.",
+          "The two Premium Boosters divide on a different box, and the division is the honest one. A PRB box holds 10 packs of 10 cards, 100 cards in all, and the box price of ¥5,500 in Japan divides by the ¥550 pack price to ten packs, so the per-pack figure is real: PRB-01 at $127.19 a box is $12.72 a pack and $1.27 a card, and PRB-02 at $63.60 is $6.36 a pack and $0.64 a card. Against list price the board runs above retail: the EB list box is ¥5,280, or $33.01 at 159.97 yen to the dollar, the ECB November 19, 2026 cross rate, and the PRB list box is ¥5,500, or $34.38. EB-02 runs 4.61 times its list box, PRB-02 1.85 times. The [PRB-02 box](/product/prb-02-one-piece-card-the-best-vol-2-booster-box-japanese-one-piece-card/) at $63.60 is half the [PRB-01 box](/product/prb-01-one-piece-card-the-best-jp-booster-box-japanese-one-piece-card/) at $127.19."
+        ]
+      },
+      {
+        "h": "The case layer: six cases, and the PRB 10-box vs 20-box quirk",
+        "math": [
+          "EB-01 Japanese case: $1,582.28 / 12 boxes = $131.86 per box; $0.08 above the $131.78 single; 12 singles cost $1,581.36, $0.92 less than the case",
+          "EB-02 Japanese case: $1,791.93 / 12 boxes = $149.33 per box; $2.70 below the $152.03 single; 12 singles cost $1,824.36, $32.43 more than the case",
+          "EB-03 Japanese case: $1,582.28 / 12 boxes = $131.86 per box; $0.08 above the $131.78 single; 12 singles cost $1,581.36, $0.92 less than the case",
+          "EB-04 Japanese case: $923.12 / 12 boxes = $76.93 per box; $0.45 below the $77.38 single; 12 singles cost $928.56, $5.44 more than the case",
+          "PRB-01 Japanese case: $1,266.13 / 10 boxes = $126.61 per box; $0.58 below the $127.19 single; 10 singles cost $1,271.90, $5.77 more than the case",
+          "PRB-02 Japanese case: $1,266.13 / 20 boxes = $63.31 per box; $0.29 below the $63.60 single; 20 singles cost $1,272.00, $5.87 more than the case",
+          "The PRB case quirk: both Japanese PRB cases cost $1,266.13, but PRB-01 holds 10 boxes and PRB-02 holds 20; $126.61 / $63.31 = 2.00x per box for the same case price",
+          "All six Japanese cases: $8,411.87; all six as singles: $8,459.54; the cases save $47.67 across the whole board"
+        ],
+        "paragraphs": [
+          "The four Extra Booster cases divide to almost nothing. EB-01 and EB-03 both divide to $131.86 a box from a $1,582.28 case, $0.08 more per box than the $131.78 single, and twelve singles cost $1,581.36, $0.92 less than the case. EB-02 divides to $149.33 a box, saving $32.43 across twelve, and EB-04 divides to $76.93, saving $5.44. The [EB-01 case](/product/eb-01-memorial-collection-sealed-case-12-boxes-japanese-one-piece-card/) proves it: the case costs more than the singles.",
+          "The Premium Booster cases hold the quirk this board is named for. Both Japanese PRB cases cost exactly $1,266.13, but the PRB-01 case holds 10 boxes and the PRB-02 case holds 20, so the same money buys twice as many boxes of vol.2. The PRB-01 case divides to $126.61 a box, saving $0.58, and the PRB-02 case to $63.31, saving $0.29. All six Japanese cases together cost $8,411.87 against $8,459.54 for the same boxes singly, a saving of $47.67. The two PRB cases are the same price for a different number of boxes."
+        ]
+      },
+      {
+        "h": "The English board: five boxes, seven cases, one flag",
+        "math": [
+          "EB-01 English box: $537.61 / 24 packs = $22.40 per pack; $22.40 / 12 cards = $1.87 per card",
+          "EB-02 English box: $188.16 / 24 packs = $7.84 per pack; $7.84 / 12 cards = $0.65 per card",
+          "EB-03 English box: $167.28 / 24 packs = $6.97 per pack; $6.97 / 12 cards = $0.58 per card",
+          "PRB-01 English box: $368.53 / 10 packs = $36.85 per pack; $36.85 / 10 cards = $3.69 per card",
+          "PRB-02 English box: $157.03 / 10 packs = $15.70 per pack; $15.70 / 10 cards = $1.57 per card",
+          "EB-01 English case: $5,806.85 / 12 boxes = $483.90 per box; $53.71 below the $537.61 single; 12 singles cost $6,451.32, $644.47 more than the case",
+          "EB-02 English case: $2,128.39 / 12 boxes = $177.37 per box; $10.79 below the $188.16 single; 12 singles cost $2,257.92, $129.53 more than the case",
+          "EB-03 English case: $1,571.53 / 12 boxes = $130.96 per box; $36.32 below the $167.28 single; 12 singles cost $2,007.36, $435.83 more than the case",
+          "EB-05 English case: $1,182.38 / 12 boxes = $98.53 per box; $21.23 below the $119.76 list box; 12 list boxes cost $1,437.12, $254.74 more than the case",
+          "PRB-01 English case: $3,461.63 / 10 boxes = $346.16 per box; $22.37 below the $368.53 single; 10 singles cost $3,685.30, $223.67 more than the case",
+          "PRB-02 English case: $1,474.87 / 20 boxes = $73.74 per box; $83.29 below the $157.03 single; 20 singles cost $3,140.60, $1,665.73 more than the case",
+          "EB-04 English case: $1,733.08 / 12 boxes = $144.42 per box; no English single box is listed, so no case saving can be divided",
+          "All five English boxes: $1,418.61; all seven English cases: $17,358.73"
+        ],
+        "paragraphs": [
+          "The English boxes are dearer per pack and, on two sets, cheaper per card. EB-01 costs $537.61 a box, $22.40 a pack and $1.87 a card, 4.08 times its Japanese box, and it is the only English special-set box above $500. EB-02 costs $188.16 a box, $7.84 a pack and $0.65 a card, and EB-03 costs $167.28 a box, $6.97 a pack and $0.58 a card: both are cheaper per card than their Japanese twins, $1.06 and $0.92. PRB-01 costs $368.53 a box, $36.85 a pack and $3.69 a card, and PRB-02 costs $157.03, $15.70 and $1.57.",
+          "The English cases are where the case actually discounts. EB-01 divides to $483.90 a box, $53.71 below its single, saving $644.47 across twelve. EB-03 divides to $130.96, saving $435.83, and PRB-02 to $73.74 a box from a $1,474.87 case of twenty, $83.29 below its single, saving $1,665.73. Two rows need a flag, not a division. EB-05 has no single English box on our shelf, only the case: $1,182.38 for 12 boxes, $98.53 a box against the $119.76 list box. The EB-04 English case costs $1,733.08, or $144.42 a box, with no English single box to divide it against, because EB-04 has no standalone English release. See the risk layer and our [is EB-04 worth buying guide](/blog/is-eb-04-worth-buying/) before paying for that case."
+        ]
+      },
+      {
+        "h": "The decision layer: the full board, side by side",
+        "math": [
+          "EB-01 English box vs Japanese box: $537.61 - $131.78 = $405.83; $537.61 / $131.78 = 4.08x",
+          "EB-02 English box vs Japanese box: $188.16 - $152.03 = $36.13; $188.16 / $152.03 = 1.24x",
+          "EB-03 English box vs Japanese box: $167.28 - $131.78 = $35.50; $167.28 / $131.78 = 1.27x",
+          "PRB-01 English box vs Japanese box: $368.53 - $127.19 = $241.34; $368.53 / $127.19 = 2.90x",
+          "PRB-02 English box vs Japanese box: $157.03 - $63.60 = $93.43; $157.03 / $63.60 = 2.47x",
+          "Per card, English beats Japanese on EB-02 ($0.65 vs $1.06) and EB-03 ($0.58 vs $0.92); Japanese beats English on EB-01 ($0.92 vs $1.87), PRB-01 ($1.27 vs $3.69) and PRB-02 ($0.64 vs $1.57)",
+          "Market check, opboxindex November 2026: PRB-01 box $115 (Nov 13) vs our $127.19, $12.19 above; PRB-02 box $94 (Nov 11) vs our $63.60, $30.40 below; EB-02 box $159 (Nov 10) vs our $152.03, $6.97 below; EB-03 box $115 (Nov 2) vs our $131.78, $16.78 above"
+        ],
+        "paragraphs": [
+          "The language column is the decision. EB-01 is the only set where English costs four times Japanese, $537.61 against $131.78, a $405.83 gap. EB-02 and EB-03 are the narrow gaps, $36.13 and $35.50, and the only sets where English wins per card. PRB-01 is the wide reprint gap at $241.34, and PRB-02 sits between at $93.43. The buyer who plays in English events buys English and pays the gap; the buyer who opens for the art buys Japanese.",
+          "The market check uses opboxindex's November 2026 snapshots, dated per set, for the four Japanese boxes where a figure was published. PRB-01's market box is $115 as of November 13 and ours is $127.19, $12.19 above it. PRB-02's is $94 as of November 11 and ours is $63.60, $30.40 below it. EB-02's is $159 as of November 10 and ours is $152.03, $6.97 below it. EB-03's is $115 as of November 2 and ours is $131.78, $16.78 above it."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "JP box / pack / card",
+            "JP case → per box",
+            "EN box / pack",
+            "Best for"
+          ],
+          "rows": [
+            [
+              "EB-01 Memorial Collection",
+              "$131.78 / $5.49 / $0.92",
+              "$1,582.28 → $131.86",
+              "$537.61 / $22.40",
+              "The original memorial set; Japanese is the buy"
+            ],
+            [
+              "EB-02 Anime 25th Collection",
+              "$152.03 / $6.33 / $1.06",
+              "$1,791.93 → $149.33",
+              "$188.16 / $7.84",
+              "Anime art; English is cheaper per card"
+            ],
+            [
+              "EB-03 Heroines Edition",
+              "$131.78 / $5.49 / $0.92",
+              "$1,582.28 → $131.86",
+              "$167.28 / $6.97",
+              "Heroines; English is cheaper per card"
+            ],
+            [
+              "EB-04 Egghead Crisis",
+              "$77.38 / $3.22 / $0.54",
+              "$923.12 → $76.93",
+              "No single box; case $1,733.08",
+              "Cheapest Japanese special-set pack"
+            ],
+            [
+              "PRB-01 The Best",
+              "$127.19 / $12.72 / $1.27",
+              "$1,266.13 → $126.61",
+              "$368.53 / $36.85",
+              "First curated reprint set; God Pack and Gold DON!! chase"
+            ],
+            [
+              "PRB-02 The Best vol.2",
+              "$63.60 / $6.36 / $0.64",
+              "$1,266.13 → $63.31",
+              "$157.03 / $15.70",
+              "Best reprint box; at least one SR in every pack"
+            ],
+            [
+              "EB-05 Heroines vol.2",
+              "Not on shelf",
+              "Not on shelf",
+              "Case only: $1,182.38 → $98.53",
+              "Newest heroines set; English case is the only route here"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: one shelf, the repricing, and EB-05",
+        "math": [
+          "EB-01 Japanese box: $155.04 x 0.85 = $131.78; $23.26 less per box",
+          "EB-02 Japanese box: $178.86 x 0.85 = $152.03; $26.83 less per box",
+          "EB-03 Japanese box: $155.04 x 0.85 = $131.78; $23.26 less per box",
+          "EB-04 Japanese box: $91.03 x 0.85 = $77.38; $13.65 less per box",
+          "PRB-01 Japanese box: $149.63 x 0.85 = $127.19; $22.44 less per box",
+          "PRB-02 Japanese box: $74.82 x 0.85 = $63.60; $11.22 less per box",
+          "English boxes, November 7 to November 20: EB-01 $632.48 x 0.85 = $537.61; EB-02 $221.36 x 0.85 = $188.16; EB-03 $196.80 x 0.85 = $167.28; PRB-01 $433.56 x 0.85 = $368.53; PRB-02 $184.74 x 0.85 = $157.03",
+          "EB-05 English case, two legs November 5 to 13: $1,738.80 x 0.68 = $1,182.38; $556.42 less per case",
+          "EB-05 Japanese box, market: opboxindex November 19, 2026 puts the Japanese box at $109 on eBay; no Japanese EB-05 box is on our shelf"
+        ],
+        "note": "From the Warehouse: the gap we own on special sets is the current shelf itself. Every guide we found prices the sets one at a time, and every price ladder we found is dated before November 13, so every one of them prices a shelf that no longer exists. We stock it, we ship it daily, and the divisions above are the divisions you will actually pay, on the day you pay them.",
+        "paragraphs": [
+          "The top results for this query are Samurai Sword Tokyo guides: a PRB-01 box guide, a PRB-01 pull-rates guide, and a PRB-02 box guide. Their headings are official-facts tables, set overviews, pull rates and the God Pack, and what is inside the box. They are good guides for one set each. None of them prices all six Japanese special sets on one shelf with case-versus-single math. None divides a PRB case at 10 boxes against 20, none covers the November 13 repricing, and none prices EB-05.",
+          "The first gap is the repricing. On November 13 the whole Japanese shelf fell 15 percent in one leg: EB-01 $155.04 to $131.78, EB-02 $178.86 to $152.03, EB-03 $155.04 to $131.78, EB-04 $91.03 to $77.38, PRB-01 $149.63 to $127.19, PRB-02 $74.82 to $63.60. Every one is the old price times 0.85, to the cent, and the English boxes fell the same 15 percent between November 7 and November 20. The second gap is EB-05: it released in English on October 30, 2026 and in Japan on October 31, at ¥240 a pack and a ¥5,760 box at official events, $36.01 at 159.97 yen to the dollar. Its English case fell in two legs between November 5 and 13, $1,738.80 to $1,182.38, the old price times 0.68, a $556.42 fall. No Japanese EB-05 box is on our shelf; opboxindex puts it at $109 on eBay as of November 19, 2026."
+        ]
+      },
+      {
+        "h": "The chase layer: the God Pack, the Gold DON!! cards, and the SR floor",
+        "math": [
+          "God Pack, expected spend at our Japanese box: 1,000 boxes x $127.19 = $127,190.00 for one expected God Pack",
+          "God Pack, expected spend at our English box: 1,000 boxes x $368.53 = $368,530.00 for one expected God Pack",
+          "Complete God Pack sold: 1,380,000 yen, about $9,200; $9,200 / $127.19 = 72.33x one Japanese box",
+          "Gold DON!! Zoro vs our boxes: $739.18 / $127.19 = 5.81x the Japanese box; $739.18 / $368.53 = 2.01x the English box",
+          "Seven named Gold DON!! cards, TCGplayer November 8, 2026: $739.18 + $311.59 + $201.67 + $136.13 + $84.55 + $78.80 + $71.76 = $1,623.68",
+          "Luffy Comic Parallel vs our Japanese box: $2,950 / $127.19 = 23.19x"
+        ],
+        "paragraphs": [
+          "PRB-01 holds the rarest pull in the game, and the arithmetic says never to chase it. The God Pack is a single pack holding all ten historic Comic Parallel cards, and Samurai Sword Tokyo's PRB-01 guide estimates roughly one God Pack per 1,000 boxes. At our Japanese box of $127.19 that is $127,190.00 of boxes for one expected God Pack, and at our English box of $368.53 it is $368,530.00. A complete God Pack sold for ¥1,380,000, about $9,200, which is 72.33 times one Japanese box and still less than a tenth of the expected spend.",
+          "The chase that can actually be priced is the Gold DON!! set. TCGplayer market prices as of November 8, 2026 put the seven named English Gold DON!! cards, Zoro $739.18, Law $311.59, Ace $201.67, Sabo $136.13, Kid $84.55, Whitebeard $78.80 and Reiju $71.76, at $1,623.68 together. The Zoro alone is 5.81 times our Japanese PRB-01 box, and the Luffy Comic Parallel sits near $2,950 on Samurai Sword Tokyo's PRB-01 guide, at market prices as of March 2026, or 23.19 times our Japanese box. PRB-02 carries the one printed guarantee in the line: every pack holds at least one Super Rare or better, a floor PRB-01 does not carry. EB-03 holds nine SP cards, EB-05 holds eight, with a six-card God Pack reported in EB-03. Bandai publishes no pull rates for any One Piece set, so no chase frequency is quoted here beyond the God Pack estimate, a community estimate, not a Bandai figure."
+        ]
+      },
+      {
+        "h": "The risk layer: the EB-04 English case, reprints, reseals, legality",
+        "paragraphs": [
+          "The first risk is the EB-04 English case, and it is the flag this board carries. EB-04 has no standalone English release: in English its cards arrived inside the combined sets OP-14, released January 16, 2026 under the code OP14-EB04, and OP-15, released April 3, 2026 under OP15-EB04. A case labelled English EB-04 cannot be a standalone English EB-04 box, so the $144.42 per-box division exists only against a product the case actually holds. Check the listing for exactly which English product the case holds before paying $1,733.08.",
+          "The second risk is the reprint trap, built into the PRB line. PRB cards are reprints, and a reprint set's sealed price can fall when the cards it reprints are reprinted again, so PRB-02 at $63.60 is the cheaper reprint bet. The third risk is the reseal: the outer tape is re-done, the boxes inside are swapped. Check for intact distributor tape, square corners and no re-taping, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, and [should you open or keep sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold. The fourth risk is the wrong language: Japanese cards are not legal at official events outside Asia. Re-run the division on the day you pay, and confirm shipping at checkout or on WhatsApp."
+        ]
+      },
+      {
+        "h": "Context: five years of special sets, Japan versus English",
+        "paragraphs": [
+          "The special sets run on their own clock beside the main line. EB-01 Memorial Collection arrived in Japan on January 27, 2024 with 61 card types, the first Extra Booster. PRB-01 The Best followed on July 27, 2024 with 111 card types plus 30 DON!! cards, the first Premium Booster, at ¥550 a pack. EB-02 arrived January 25, 2025 with 87 plus 1, PRB-02 on July 26, 2025 with 179 plus 30, EB-03 on October 25, 2025 with 71 plus 4, EB-04 on January 31, 2026 with 67 plus 1, and EB-05 on October 31, 2026 with 75 plus 2. EB-06 East Blue is scheduled for January 30, 2027.",
+          "Japan versus English is a format difference and a calendar difference. A Japanese Extra Booster pack holds 6 cards at ¥220, ¥240 from EB-05 on, and an English pack holds 12 at $4.49 for EB-01 and $4.99 from EB-02 on. A Premium Booster pack holds 10 cards in either language, at ¥550 in Japan and $5.49 in English. The English releases lag the Japanese by months: EB-01 by three, EB-02 by three and a half, EB-03 by four, PRB-02 by two and a half, and EB-04 never arrived standalone at all. The [EB-03 buyers guide](/blog/eb-03-heroines-edition-buyers-guide/) and the [EB-04 buyers guide](/blog/eb-04-egghead-crisis-buyers-guide/) price the two newest sets on their own."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants one named card. A single Comic Parallel or Gold DON!! costs less as a single than as the packs it takes to pull one, and the God Pack math above is the proof. It is not for the player who needs a tournament-legal deck this weekend: buy the singles, or a starter deck, and skip the special-set lottery entirely. It is not for the collector chasing a Premium Booster pull from an Extra Booster pack, because PRB cards do not appear in EB packs. It is not for anyone who treats a special set as an investment: the pack is a consumable, the case holds the value."
+        ]
+      },
+      {
+        "checklist": [
+          "Pick the split first: EB for new cards, PRB for reprints. The set decides, not the price.",
+          "Pick the set second: EB-04 at $3.22 a pack for the cheapest Japanese entry, PRB-02 at $63.60 a box for the best reprint box, EB-02 at $6.33 a pack for the anime set.",
+          "Divide before you pay: Japanese EB box / 24 = your per-pack price, then / 6 for per card; PRB box / 10, then / 10; English EB box / 24, then / 12.",
+          "Check the case: a Japanese EB case saves cents, not dollars, and the EB-01 and EB-03 cases cost $0.92 more than twelve singles each. The English PRB-02 case saves $1,665.73 across twenty boxes.",
+          "Check the PRB case size: both Japanese PRB cases cost $1,266.13, but PRB-01 holds 10 boxes and PRB-02 holds 20.",
+          "If EB-04 English is the buy, confirm exactly which English product the case holds before paying $1,733.08. There is no standalone English EB-04 box.",
+          "If EB-05 is the buy, the English case is the only route on this shelf: $1,182.38 for 12 boxes, $98.53 a box.",
+          "Check legality: Japanese cards are not legal at official events outside Asia.",
+          "If you want one card, buy the single. The Zoro Gold DON!! is $739.18, and no box guarantees it.",
+          "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the November 13 repricing moved every line."
+        ],
+        "h": "Action layer: the special-set board checklist",
+        "paragraphs": [
+          "Run the checklist in order and the special-set decision makes itself. Split first, set second, division third, case fourth, legality fifth, and the single-card question last, because it is the question that cancels the other five. If the checklist points at a Japanese box, the box is the buy; if it points at English, divide the set you want and pay the gap you can see."
+        ]
+      }
+    ],
+    "slug": "one-piece-japanese-special-set",
+    "takeaway": [
+      "The six Japanese One Piece special sets cost $683.76 for one box of each as of November 20, 2026: EB-04 at $77.38 a box and $3.22 a pack is the cheapest entry, EB-02 at $152.03 and $6.33 a pack is the dearest, and PRB-02 at $63.60 is the cheapest reprint box against PRB-01 at $127.19.",
+      "All six Japanese cases cost $8,411.87 and save $47.67 against the singles, so a Japanese case is quantity, not a discount. Both Japanese PRB cases cost $1,266.13, but PRB-01 holds 10 boxes and PRB-02 holds 20, so the same money buys twice as many boxes of vol.2.",
+      "The November 13 repricing cut every Japanese box by exactly 15 percent: EB-02 fell $26.83, from $178.86 to $152.03, and PRB-02 fell $11.22, from $74.82 to $63.60. The EB-05 English case fell 32 percent in two legs, from $1,738.80 to $1,182.38.",
+      "The God Pack is estimated at roughly one per 1,000 PRB-01 boxes, which is $127,190.00 of Japanese boxes for one expected pull against a sold God Pack near $9,200. The Gold DON!! Zoro sits at $739.18 on TCGplayer as of November 8, 2026.",
+      "EB-04 has no standalone English release: its cards arrived in English inside OP-14 and OP-15, so check exactly which product the $1,733.08 English case holds before paying. EB-05 is on this shelf only as an English case at $98.53 a box.",
+      "For the ranking behind this board, the [best One Piece Japanese special set guide](/blog/best-one-piece-japanese-special-set/) ranks the six by the buy, the [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) runs the Premium Booster pair in full, and the [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case/) runs the case division across the main sets.",
+      "The Dragon Ball side of the special-set board is the [Dragon Ball Fusion World special set guide](/blog/dragon-ball-fusion-world-special-set/): SB01 and SB02 after the Japanese boxes sold out, priced as of November 20, 2026."
+    ]
+  },
   "op-01-investment": {
     "datePublished": "2026-11-17",
     "faqs": [
@@ -50044,7 +50507,8 @@ export const POSTS: Record<string, BlogPost> = {
       "PRB-02 is the buy for most people: $74.82 Japanese and $230.92 English, with a Super Rare or better in every pack. PRB-01 is the collector's volume: $149.63 Japanese and $541.95 English, for the first volume's art and its Sanji Leader, with no printed rarity floor.",
       "Cases barely discount in Japanese: $0.67 per box on PRB-01 and $0.34 on PRB-02. Buy a case because you want that many boxes, not because the case saves money, and never trust a per-box figure for the English PRB-02 case until its box count is stated.",
       "Still weighing sealed against singles? The [Japanese One Piece box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the mainline alternative, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a box lands.",
-      "For each volume priced on its own from the November 15, 2026 shelf, see the [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) and the [PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/)."
+      "For each volume priced on its own from the November 15, 2026 shelf, see the [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) and the [PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/).",
+      "For the full special-set board, the [One Piece Japanese special set guide](/blog/one-piece-japanese-special-set/) prices PRB-01 and PRB-02 beside all four Extra Boosters, case against singles, as of November 20, 2026."
     ]
   },
   "preorder-japanese-booster-box-or-wait": {
