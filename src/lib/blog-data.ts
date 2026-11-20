@@ -1452,7 +1452,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best way to buy Disney Lorcana cards](/blog/best-buy-lorcana-cards-online/) ranks all fourteen English cases plus the Japanese First Chapter case on one ladder, from $2.35 a pack to $18.20.",
       "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen sets' sealed cases to the pack: $4.83 for Reign of Jafar, $7.50 for Hyperia City, and $18.20 for The First Chapter.",
       "For the case math behind the box pick, the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) divides all fifteen cases, including the Japanese First Chapter case at $37.60 a box.",
-      "New this cycle: the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box/) ranks all fourteen boxes by per-box price from the same shelf — Reign of Jafar $98.48, Whispers $216.54, Hyperia City $153.00 — with the expected-value crown re-run at our case-derived entry price."
+      "New this cycle: the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box/) ranks all fourteen boxes by per-box price from the same shelf — Reign of Jafar $98.48, Whispers $216.54, Hyperia City $153.00 — with the expected-value crown re-run at our case-derived entry price.",
+      "For every box priced from its case, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fifteen cases to the box, $98.48 to $371.32."
     ]
   },
   "best-disney-lorcana-booster-pack": {
@@ -16607,7 +16608,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "A Disney Lorcana sealed case is 4 boxes, 96 packs and 1,152 cards, and 15 sit on our shelf as of November 19, 2026, from $393.93 for Set 8 Reign of Jafar to $1,485.26 for Set 1 The First Chapter, plus a Japanese First Chapter case at $479.46 for 15 boxes. Divide every case by 4 before you believe any per-box claim.",
       "Six English cases divide below the $143.76 official box price, led by Set 8 at $98.48 a box, and eight divide above it, led by Set 1 at $371.32. The expected Enchanted return is under one card per case, so buy the case for volume, not for the chase.",
-      "For the ranking, the [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy by job, and the [Lorcana sealed case price guide](/blog/disney-lorcana-sealed-case-price/) prices every case against the market. For the other game's cases, the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) divides all 14 Fusion World cases the same way. Re-run the division on the day you pay."
+      "For the ranking, the [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy by job, and the [Lorcana sealed case price guide](/blog/disney-lorcana-sealed-case-price/) prices every case against the market. For the other game's cases, the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) divides all 14 Fusion World cases the same way. Re-run the division on the day you pay.",
+      "For the per-box price of every case, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fifteen cases to the box, $98.48 to $371.32."
     ]
   },
   "disney-lorcana-sealed-case-price": {
@@ -30169,7 +30171,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the cheaper launch twin to open, sealed, and it is not worth buying as a way to own the Miriam Special Art Rare or to make the money back by opening. The Miriam sat at $77.80 on TCGplayer on November 12, 2026, which is 1.04 boxes, and the Miraidon ex Special Art Rare at $46.45 is 0.62 of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $13.24 in five days, from $88.27 to $75.03, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $952.33 to $809.48. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 22 to November 13, 2026. The box now sits $19.71 below its twin SV1S at $94.74, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV1S Scarlet ex worth buying guide](/blog/is-sv1s-worth-buying/) runs the same verdict on the dearer twin, where the chase is one card at $196.02 instead of two."
+      "For the price-and-math companion, the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV1S Scarlet ex worth buying guide](/blog/is-sv1s-worth-buying/) runs the same verdict on the dearer twin, where the chase is one card at $196.02 instead of two.",
+      "For the investment lens on the same box and case, the [SV1V Violet ex investment guide](/blog/sv1v-investment/) runs the full chase table, the market-box comparison, and the case saving of $90.88."
     ]
   },
   "is-sv2a-worth-buying": {
@@ -38343,6 +38346,252 @@ export const POSTS: Record<string, BlogPost> = {
       "Two follow-ups worth your time before you buy: if the cards you open might one day be graded, read [whether PSA grading Japanese cards is worth it](/blog/psa-grading-japanese-cards-worth-it/) — condition is where Japanese copies earn their keep. And if resale value is doing any work in your decision, [our honest take on Japanese cards as an investment](/blog/are-japanese-pokemon-cards-a-good-investment/) separates the hobby math from the investment math. Not sure how the boxes you're comparing are even built? [How many packs are in a booster box](/blog/how-many-packs-in-a-booster-box/) has every count that matters.",
       "Whichever language you choose, the next decision arrives with the box: [should you open it or keep it sealed?](/blog/should-you-open-or-keep-sealed-booster-box/) — the framework there applies to Japanese and English product alike.",
       "If Japanese wins your decision, two reads follow naturally: [how to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) — the skill is smaller than it looks — and [the best-value Japanese booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/), the full price ladder from $58.85 up."
+    ]
+  },
+  "lorcana-booster-box": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "24 packs of 12 cards, 288 cards in all. The official price is $143.76, or $5.99 a pack. A sealed case holds 4 boxes, 96 packs and 1,152 cards, except the Japanese First Chapter case, which holds 15 boxes of 16 packs of 6 cards.",
+        "q": "How many packs are in a Lorcana booster box?"
+      },
+      {
+        "a": "On this shelf, usually. Ten of the fourteen English cases divide below the single-box market price as of November 20, 2026, led by Fabled at $158.56 a box against a market box of $826.51. Four divide above it: Set 7, Set 11, Set 12 and Set 14. Divide the case by four and compare against the market box for the set you want.",
+        "q": "Is a Lorcana booster box cheaper from a case?"
+      },
+      {
+        "a": "No. Ravensburger publishes no pull rates. The largest-sample community polls put an Enchanted near one per 96 to 100 packs, which is an expected 0.25 per box and 1.00 per case, but most boxes hold none and some cases hold none too. If you want one named Enchanted, buy the single.",
+        "q": "Does a Lorcana booster box guarantee an Enchanted card?"
+      }
+    ],
+    "h1": "Lorcana Booster Box: Prices, Cases & Value",
+    "intro": [
+      "Short answer: a Disney Lorcana booster box holds 24 packs of 12 cards, 288 cards in all, and the official price is $143.76, or $5.99 a pack, as of November 20, 2026. This store sells Lorcana as sealed cases only, four boxes to a case, so every per-box price here is a case divided by four: the cheapest box is Set 8 Reign of Jafar at $98.48, the dearest is Set 1 The First Chapter at $371.32, and ten of the fourteen English case-split boxes sit below the single-box market price.",
+      "This guide is for the buyer choosing between a case, a single box, a Trove, and singles. It is not for the buyer who expects a box to pay for itself: no box guarantees an Enchanted card, and the median Enchanted is worth $92.03."
+    ],
+    "metaDescription": "A Lorcana booster box is 24 packs at $143.76 MSRP. Our 15 cases divide to $98.48 to $371.32 a box. Every box, priced against the market.",
+    "metaTitle": "Lorcana Booster Box: Prices, Cases & Value",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: 24 packs, $143.76, and a case on this shelf",
+        "paragraphs": [
+          "A Lorcana booster box is a sealed display of 24 booster packs. Each pack holds 12 cards: 6 commons, 3 uncommons, 2 rare-or-higher cards, and 1 foil of any rarity. One box is 288 cards, and the official price is 24 packs at $5.99, which is $143.76. The layout has held from Set 1 in August 2023 through Set 14 in October 2026.",
+          "The shelf changes the question. We stock no individual Lorcana boxes: the fifteen listings are sealed cases, fourteen English at four boxes each and one Japanese First Chapter case at fifteen boxes. A buyer who wants one box buys a quarter of a case, alone or split four ways. The [how many packs guide](/blog/how-many-packs-in-a-booster-box/) runs the same pack count across every game we sell.",
+          "The verdict by job: Set 8 for the cheapest packs, Set 14 for the newest set, Set 1 only if the first set is the job, and Fabled for the Iconic-era chase pool. The [best sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks the same shelf by the buy."
+        ]
+      },
+      {
+        "h": "The money layer: all 15 cases, divided to the box",
+        "math": [
+          "Set 1 The First Chapter case: $1,485.26 / 4 boxes = $371.32 per box; $371.32 / 24 packs = $15.47 per pack; $15.47 / 12 = $1.29 per card",
+          "Set 2 Rise of the Floodborn case: $428.40 / 4 boxes = $107.10 per box; $107.10 / 24 packs = $4.46 per pack; $4.46 / 12 = $0.37 per card",
+          "Set 3 Into the Inklands case: $471.24 / 4 boxes = $117.81 per box; $117.81 / 24 packs = $4.91 per pack; $4.91 / 12 = $0.41 per card",
+          "Set 4 Ursula's Return case: $428.40 / 4 boxes = $107.10 per box; $107.10 / 24 packs = $4.46 per pack; $4.46 / 12 = $0.37 per card",
+          "Set 5 Shimmering Skies case: $556.92 / 4 boxes = $139.23 per box; $139.23 / 24 packs = $5.80 per pack; $5.80 / 12 = $0.48 per card",
+          "Set 6 Azurite Sea case: $405.14 / 4 boxes = $101.29 per box; $101.29 / 24 packs = $4.22 per pack; $4.22 / 12 = $0.35 per card",
+          "Set 7 Archazia's Island case: $633.83 / 4 boxes = $158.46 per box; $158.46 / 24 packs = $6.60 per pack; $6.60 / 12 = $0.55 per card",
+          "Set 8 Reign of Jafar case: $393.93 / 4 boxes = $98.48 per box; $98.48 / 24 packs = $4.10 per pack; $4.10 / 12 = $0.34 per card",
+          "Set 9 Fabled case: $634.24 / 4 boxes = $158.56 per box; $158.56 / 24 packs = $6.61 per pack; $6.61 / 12 = $0.55 per card",
+          "Set 10 Whispers in the Well case: $866.15 / 4 boxes = $216.54 per box; $216.54 / 24 packs = $9.02 per pack; $9.02 / 12 = $0.75 per card",
+          "Set 11 Winterspell case: $1,095.70 / 4 boxes = $273.93 per box; $273.93 / 24 packs = $11.41 per pack; $11.41 / 12 = $0.95 per card",
+          "Set 12 Wilds Unknown case: $1,077.82 / 4 boxes = $269.46 per box; $269.46 / 24 packs = $11.23 per pack; $11.23 / 12 = $0.94 per card",
+          "Set 13 Attack of the Vine! case: $590.16 / 4 boxes = $147.54 per box; $147.54 / 24 packs = $6.15 per pack; $6.15 / 12 = $0.51 per card",
+          "Set 14 Hyperia City case: $612.00 / 4 boxes = $153.00 per box; $153.00 / 24 packs = $6.38 per pack; $6.38 / 12 = $0.53 per card",
+          "Japanese Set 1 The First Chapter case: $479.46 / 15 boxes = $31.96 per box",
+          "Official English box: 24 packs x $5.99 = $143.76; Set 8 case box $98.48 is $45.28 below it; Set 1 case box $371.32 is $227.56 above it",
+          "All 15 cases together: $10,158.65; the fourteen English cases: $9,679.19",
+          "Dearest box vs cheapest box: $371.32 / $98.48 = 3.77x; $371.32 - $98.48 = $272.84",
+          "Japanese MSRP: 5,280 yen / 159.97 = $33.01 per box; our Japanese box at $31.96 is $1.05 below it",
+          "Japanese SNKRDUNK box: 9,499 yen / 159.97 = $59.38; our Japanese box at $31.96 is $27.42 below it",
+          "Japanese box per pack: $31.96 / 16 packs = $2.00 per pack",
+          "Japanese official per pack: 5,280 yen / 16 packs / 159.97 = $2.06 per pack",
+          "Japanese SNKRDUNK per pack: 9,499 yen / 16 packs / 159.97 = $3.71 per pack",
+          "Japanese box per card: $31.96 / 96 cards = $0.33 per card"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about Lorcana is whether a booster box is cheaper than a case, and the answer is that the box does not exist on our shelf beside the case. We stock it, we ship it daily, and every per-box figure below is the case price on the listing divided by four, so the division you run at home is the division you will actually pay.",
+        "paragraphs": [
+          "Here is the whole ladder, every case divided the same way. The cheapest case is Set 8 at $393.93, or $98.48 a box, $4.10 a pack and $0.34 a card. The dearest is Set 1 at $1,485.26, or $371.32 a box, $15.47 a pack and $1.29 a card, 3.77 times the Set 8 box. The whole ladder costs $10,158.65, and the fourteen English cases cost $9,679.19 of it. The [Reign of Jafar sealed case](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english/) and the [First Chapter sealed case](/product/disney-lorcana-the-first-chapter-booster-box-sealed-case-set-1-english/) sit at the two ends of it.",
+          "Six English cases divide below the official box price: Set 8 at $98.48, Set 6 at $101.29, Set 2 and Set 4 at $107.10, Set 3 at $117.81 and Set 5 at $139.23. Eight divide above it, led by Set 1 at $371.32. Set 1 is the first set and Set 11 is a 2026 set with a thin sealed supply, and both carry scarcity, not play value.",
+          "The Japanese case divides differently and is not comparable per pack. It costs $479.46 for 15 boxes, or $31.96 a box, and a Japanese box holds 16 packs of 6 cards, 96 cards against 288 in an English box. The Japanese official box is 5,280 yen, or $33.01 at 159.97 yen to the dollar, the ECB cross rate for November 19, 2026, so our Japanese box sits $1.05 below it."
+        ]
+      },
+      {
+        "h": "The market layer: our case-split box against the single-box market",
+        "math": [
+          "Set 1: market box $471.00, our box $371.32, $99.68 below; market case $2,124.81, our case $1,485.26, $639.55 below",
+          "Set 2: market box $169.86, our box $107.10, $62.76 below; market case $694.18, our case $428.40, $265.78 below",
+          "Set 3: market box $124.91, our box $117.81, $7.10 below; market case $482.49, our case $471.24, $11.25 below",
+          "Set 4: market box $126.17, our box $107.10, $19.07 below; market case $507.86, our case $428.40, $79.46 below",
+          "Set 5: market box $144.28, our box $139.23, $5.05 below; market case $546.02, our case $556.92, $10.90 above",
+          "Set 6: market box $120.66, our box $101.29, $19.37 below; market case $438.79, our case $405.14, $33.65 below",
+          "Set 7: market box $147.35, our box $158.46, $11.11 above; market case $570.05, our case $633.83, $63.78 above",
+          "Set 8: market box $155.27, our box $98.48, $56.79 below; market case $558.05, our case $393.93, $164.12 below",
+          "Set 9: market box $826.51, our box $158.56, $667.95 below; market case $3,361.75, our case $634.24, $2,727.51 below",
+          "Set 10: market box $217.47, our box $216.54, $0.93 below; market case $891.24, our case $866.15, $25.09 below",
+          "Set 11: market box $250.46, our box $273.93, $23.47 above; market case $1,038.46, our case $1,095.70, $57.24 above",
+          "Set 12: market box $226.10, our box $269.46, $43.36 above; market case $902.07, our case $1,077.82, $175.75 above",
+          "Set 13: market box $176.80, our box $147.54, $29.26 below; market case $777.39, our case $590.16, $187.23 below",
+          "Set 14: market box $152.43, our box $153.00, $0.57 above; market case $630.94, our case $612.00, $18.94 below",
+          "Fabled market box vs our box: $826.51 / $158.56 = 5.21x",
+          "Fabled case discount: $2,727.51 / $3,361.75 = 81.13% below the market case",
+          "Four market boxes, Set 9: 4 x $826.51 = $3,306.04; our case $634.24 is $2,671.80 below it",
+          "Four market boxes, Set 1: 4 x $471.00 = $1,884.00; our case $1,485.26 is $398.74 below it"
+        ],
+        "paragraphs": [
+          "The market check uses one source for all fourteen sets: the FASE sealed tracker, TCGplayer market prices, read November 20, 2026. Ten of the fourteen case-split boxes sit below the market box, and ten of the fourteen shelf cases sit below the market case. The four case-split boxes above the market box are Set 7 at $11.11 above, Set 11 at $23.47 above, Set 12 at $43.36 above, and Set 14 at $0.57 above.",
+          "Fabled is the outlier and it is not close. The market box is $826.51 and the market case is $3,361.75, while our case is $634.24, $2,727.51 below the market case and 81.13 percent below it. Our case-split box is $158.56, so the market box costs 5.21 times it, and four market boxes cost $3,306.04, $2,671.80 more than our case. The [Fabled sealed case](/product/disney-lorcana-fabled-booster-box-sealed-case-set-9-english/) is the widest gap on this shelf.",
+          "Two readings disagree with the FASE table and the disagreement is worth naming. InkSight's November 19, 2026 table reads the Fabled box at $808.04, not $826.51, and the First Chapter box at $402.98 on its October 15 snapshot, not $471.00. The band is the fact: Fabled's market box sits near $808 to $827 and the First Chapter's near $403 to $471, and our case-split boxes sit below both readings on both sets. The [Lorcana sealed case price guide](/blog/disney-lorcana-sealed-case-price/) runs the same comparison case by case."
+        ]
+      },
+      {
+        "h": "The decision layer: case, single box, Trove, starter, or singles",
+        "math": [
+          "Set 8 market box per pack: $155.27 / 24 packs = $6.47 per pack",
+          "Set 14 market box per pack: $152.43 / 24 packs = $6.35 per pack",
+          "Trove per pack: $49.99 / 8 packs = $6.25 per pack",
+          "Set 8 case-split box vs market box: $155.27 - $98.48 = $56.79",
+          "Set 14 case-split box vs market box: $153.00 - $152.43 = $0.57"
+        ],
+        "paragraphs": [
+          "The case is the cheapest sealed Lorcana on this shelf for ten of fourteen sets, and Set 8 is the cheapest of all at $98.48 a box. The single-box row is the honest alternative for one box: the market box for Set 8 is $155.27, $56.79 more than our case-split box, and the market box for Set 14 is $152.43, $0.57 less than our case-split box. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every game we sell.",
+          "The Trove and the starter are different jobs, not cheaper boxes. The Trove is $49.99 for 8 packs, $6.25 a pack, more per pack than the Set 8 case at $4.10. The starter is $43.99 at Best Buy in November 2026 and holds no booster packs at all. Singles are the only route to one named card: read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold, and the [best Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks the same shelf by the buy."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Example on our shelf",
+            "Per box / per pack",
+            "Best for",
+            "Watch out for"
+          ],
+          "rows": [
+            [
+              "Sealed case, 4 boxes",
+              "Set 8 Reign of Jafar, $393.93",
+              "$98.48 / $4.10",
+              "Cheapest sealed packs; splitting four ways",
+              "4 boxes of one set; Sets 1-8 are not Core-legal"
+            ],
+            [
+              "Single box, market",
+              "Set 8 market box, $155.27",
+              "$155.27 / $6.47",
+              "One box without the case commitment",
+              "$56.79 more than our case-split box; no box on our shelf"
+            ],
+            [
+              "Single box, newest",
+              "Set 14 market box, $152.43",
+              "$152.43 / $6.35",
+              "Newest set, one box",
+              "$0.57 less than our case-split box; the market moves daily"
+            ],
+            [
+              "Illumineer's Trove",
+              "$49.99 list",
+              "8 packs, $6.25 a pack",
+              "A night of opening plus storage",
+              "Costs more per pack than the cheapest case"
+            ],
+            [
+              "2-Player Starter Set",
+              "$43.99 at Best Buy, Nov 2026",
+              "No boosters",
+              "Playing your first game tonight",
+              "No packs; buy packs separately"
+            ],
+            [
+              "Singles",
+              "Varies by card",
+              "Exact card, exact price",
+              "One named card, grading, deck building",
+              "No sealed value; condition is everything"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case-divided box price",
+        "note": "From the Warehouse: the gap we own on Lorcana boxes is the division itself. No guide we read divides a real shelf case into a per-box price, so no guide can tell a buyer what a box actually costs from a shop that sells cases. We stock it, we ship it daily, and the division above is the division you will actually pay.",
+        "paragraphs": [
+          "The top results for this query are retail listings, not guides. Best Buy lists the Hyperia City box at $143.99, Amazon lists the Reign of Jafar box, and TikTok Shop lists the Whispers in the Well box as a live rip with no refunds. Below them, InkSight ranks boxes by chase-card value, Vision TCG walks through one box at a time, and the Lorcana Wiki states the 24-pack box and the $143.76 official price. None of the three divides a case into a per-box price, and none prices a case-split box against the single-box market.",
+          "The second gap is the pull-rate argument, and the guides disagree with each other on it. One guide says one Enchanted every two boxes, another says one per 96 packs, and a third says one per 144 packs. The next section keeps the disagreement visible instead of averaging it away, because the rate you believe decides whether a box is a lottery ticket or a plan.",
+          "The third gap is the Japanese box. The guides that mention it treat it as a cheaper English box, and it is not: 16 packs of 6 cards, 96 cards against 288, and a different official price in yen. The Japanese case on our shelf divides to $31.96 a box, $1.05 below the Japanese official box."
+        ]
+      },
+      {
+        "h": "The chase layer: Enchanted math and the Iconic era",
+        "math": [
+          "Enchanted expected per box at 1 in 96 packs: 24 / 96 = 0.25",
+          "Enchanted expected per box at 1 in 144 packs: 24 / 144 = 0.17",
+          "Enchanted expected per box at 1 in 48 packs: 24 / 48 = 0.50",
+          "Enchanted expected per case at 1 in 96 packs: 96 / 96 = 1.00",
+          "Enchanted expected per case at 1 in 144 packs: 96 / 144 = 0.67",
+          "Enchanted expected per case at 1 in 48 packs: 96 / 48 = 2.00",
+          "Mickey Brave Little Prince Iconic vs Fabled case-split box: $3,875.00 / $158.56 = 24.44x",
+          "Mickey Brave Little Prince Iconic vs Fabled market box: $3,875.00 / $826.51 = 4.69x",
+          "Winnie the Pooh Hunny Wizard Enchanted vs Fabled case-split box: $1,598.53 / $158.56 = 10.08x",
+          "Stitch Experiment 626 Enchanted vs Set 8 case-split box: $471.98 / $98.48 = 4.79x",
+          "Stitch Experiment 626 Enchanted vs Set 8 market box: $471.98 / $155.27 = 3.04x",
+          "Buzz Lightyear Jungle Ranger Iconic vs Wilds Unknown case-split box: $3,593.09 / $269.46 = 13.33x",
+          "Iconic median vs Enchanted median: $1,493.85 / $92.03 = 16.23x"
+        ],
+        "paragraphs": [
+          "Ravensburger publishes no pull rates, so every Enchanted rate is a community count, and the counts disagree. The largest-sample polls, the u/Narzghal trackers compiled by Cambridge TCG (479 responses for Reign of Jafar, over 700 for Fabled), put an Enchanted near one per 96 to 100 packs, with about 22 percent of boxes and 62 to 64 percent of cases holding one. InkSight's guide says roughly one Enchanted every two boxes in its body and below one per 96 packs in its own FAQ. An older claim of one per 144 packs still circulates, from a source that also claims six boxes per case. This guide adopts no single rate: the expected return below is run at all three.",
+          "At one per 96 packs, a 24-pack box holds an expected 0.25 Enchanted and a 96-pack case holds 1.00. At one per 144, the box holds 0.17 and the case 0.67. At one per 48, the box holds 0.50 and the case 2.00. Most boxes hold no Enchanted at all, and no box guarantees one. A case buys more packs and nothing more.",
+          "Fabled added Epic and Iconic rarities above Enchanted, and set values jumped: one of every card in an Iconic-era set runs $5,700 to $15,300 on the November 4, 2026 snapshot, against $1,100 to $3,500 for the Enchanted-era sets. The dearest booster card on November 11, 2026 is the Mickey Mouse Brave Little Prince Iconic from Fabled at $3,875.00 on TCGplayer, 24.44 times our Fabled case-split box. The median Enchanted is $92.03 and the median Iconic is $1,493.85, 16.23 times it: the Iconic carries the set value and the Enchanted carries the volume."
+        ]
+      },
+      {
+        "h": "The risk layer: reseals, rotation, reprints, and the falling new box",
+        "paragraphs": [
+          "The first risk is the lottery itself. A box holds 24 packs and the expected Enchanted return is under one card on every reading except the most generous, so a box opened for the chase is a box opened for a lottery ticket. The Trove and the starter are cheaper ways to lose the same lottery, and the single is the only way not to play it.",
+          "The second risk is the falling new box. The newest boxes lose value fastest: Hyperia City fell 14.41 percent in nine days after release, from $175.33 to $150.06, and Attack of the Vine fell 8.69 percent, from $198.44 to $181.20. The older 2026 boxes moved the other way: Winterspell rose 131.43 percent from $108.56 to $251.24, and Wilds Unknown rose 92.65 percent from $118.30 to $227.90.",
+          "The third risk is the reseal. The outer tape is re-done, the boxes inside are swapped, and the buyer discovers it one box at a time. The checks are intact distributor tape, square corners, no re-taping, and a seller whose stock you can trace to a live shelf. Read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything, and store what you keep sealed the way our [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) describes.",
+          "The fourth risk is rotation. Sets 5 through 8 rotated out of Core Constructed on July 17, 2026, and Sets 1 through 4 were already out, so eight of the fourteen cases on this shelf are collector product, not play product."
+        ]
+      },
+      {
+        "h": "Context: fourteen sets, two languages, one rotation line",
+        "paragraphs": [
+          "Fourteen main sets run from The First Chapter (Aug 18, 2023) to Hyperia City (Oct 23, 2026): Floodborn (Nov 17, 2023), Inklands (Feb 23, 2024), Ursula's Return (May 17, 2024), Shimmering Skies (Aug 9, 2024), Azurite Sea (Nov 14, 2024), Archazia's Island (Mar 7, 2025), Reign of Jafar (May 30, 2025), Fabled (Aug 29, 2025), Whispers in the Well (Nov 7, 2025), Winterspell (Feb 13, 2026), Wilds Unknown (May 15, 2026), Attack of the Vine (Jul 24, 2026), Hyperia City (Oct 23, 2026).",
+          "Rotation draws the line between play and collection. Core Constructed is Sets 9 through 14 as of November 20, 2026: Fabled, Whispers in the Well, Winterspell, Wilds Unknown, Attack of the Vine, and Hyperia City. Sets 1 through 8 are out, and the next rotation is due in summer 2027, when Sets 9 through 12 are the four oldest. The [Hyperia City sealed case](/product/disney-lorcana-hyperia-city-booster-box-sealed-case-set-14-english/) is the newest Core-legal case on the shelf.",
+          "The Japanese edition is a separate product, not a cheaper English box. It launched in Japan on January 25, 2025 through Takara Tomy, with 16 packs of 6 cards per box and 204 cards against 216 printings in the English First Chapter once its 12 Enchanted cards are counted. Japanese cards are not legal in English tournaments, and the Japanese case holds 15 boxes, not 4. The [Japanese First Chapter sealed case](/product/disney-lorcana-tcg-japanese-edition-booster-the-first-chapter-the-beginning-of-t/) divides to $31.96 a box, and the [best Japanese Lorcana guide](/blog/best-disney-lorcana-japanese/) covers the language line in full. Set 15, Into the Inkdark, arrives February 12, 2027 with Collector Boosters at $35 a pack."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants the box to pay for itself, because the median Enchanted is $92.03 and most boxes hold no Enchanted at all. It is not for the buyer who wants one box without splitting, because we stock cases of four and no single box beside them. It is not for the buyer who wants the newest set at the official price, because the Set 14 case divides to $153.00 a box, $9.24 above it. It is not for the buyer who plays in Core Constructed with Sets 1 through 8, because those sets rotated out. It is not for the buyer who needs the money back quickly, because the resale market for a full case is narrower. If any of those is the job, the single, the Trove, or the market box is the better buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Divide before you pay: case / 4 = your per-box price; box / 24 = your per-pack price. Never compare a case price to a box price.",
+          "Name the job before you pay: cheapest packs is Set 8 at $98.48 a box, newest set is Set 14 at $153.00, first set is Set 1 at $371.32, Iconic chase is Set 9 at $158.56.",
+          "Split the case before you pay: a Set 8 case split four ways is $98.48 each for one box, and a Set 14 case split four ways is $153.00 each.",
+          "Check the set's rotation status: Sets 1 through 8 are collector product now, not Core-legal play product.",
+          "If the job is one named card, buy the single. The Mickey Brave Little Prince Iconic is $3,875.00, and no box guarantees it.",
+          "Check the seal on arrival: intact distributor tape, square corners, no re-taping. Photograph the case before you open it.",
+          "Budget the landed cost: shipping is confirmed at checkout or on WhatsApp, plus your country's tax line. A case almost always crosses the relief threshold.",
+          "Re-run the division on the day you pay. Sealed prices move, and the Fabled case carries the widest gap to lose."
+        ],
+        "h": "Action layer: the booster-box buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the buy decides itself. The division comes first: the case is the cheapest sealed route for ten of fourteen sets, the single is the cheapest named-card route, and the market box is the one-box route.",
+          "The last check is the date. Every price here is stamped November 20, 2026, and the shelf has not moved since November 19, so a price without a date is a price from a different shelf."
+        ]
+      }
+    ],
+    "slug": "lorcana-booster-box",
+    "takeaway": [
+      "A Lorcana booster box is 24 packs of 12 cards at $143.76 official, and on this shelf it comes inside a case: the cheapest box is Set 8 at $98.48, the dearest is Set 1 at $371.32, and the whole ladder costs $10,158.65 as of November 20, 2026.",
+      "Ten of the fourteen English cases divide below the single-box market price, led by Fabled at $158.56 a box against a market box of $826.51, a gap of $667.95. Four divide above it: Set 7, Set 11, Set 12 and Set 14.",
+      "No box guarantees an Enchanted card. The largest-sample polls put one near every 96 to 100 packs, an expected 0.25 per box, and the median Enchanted is $92.03 against a median Iconic of $1,493.85.",
+      "Sets 1 through 8 are out of Core Constructed, so buy those cases to collect or open, not to play. Sets 9 through 14 are the Core-legal sets.",
+      "The [SV1V Violet ex investment guide](/blog/sv1v-investment/) runs the same case-divided math on the Pokemon side of the shelf.",
+      "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the Fabled gap is the one that moves fastest."
     ]
   },
   "m1l-investment": {
@@ -51595,7 +51844,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the thin market in mind: the market box saw only three TCGplayer sales in 90 days, the box dropped $16.72 on November 13, 2026, and the Gardevoir's June range of $250 to $350 sits well above its $173.00 Cardfolio figure. The box now sits $11.92 below the $106.66 market box: divide before you buy, every time.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of September 7 to November 18, 2026. The case box at $78.15 sits $28.51 below the $106.66 market box, and the complete set at $459.00 is 4.84 boxes.",
       "For the price-and-math companion, the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) runs the same shelf side by side, and the [is SV1S worth buying guide](/blog/is-sv1s-worth-buying/) runs the same verdict after the November 13 repricing. The [SV1A investment guide](/blog/sv1a-investment/) prices the Triplet Beat box the same way, the [is SV1V worth buying guide](/blog/is-sv1v-worth-buying/) runs the same verdict on the cheaper twin, and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) runs the whole ladder.",
-      "New this cycle: the [SV2D Clay Burst investment guide](/blog/sv2d-investment/) prices the Iono set, box $87.24 against a case that divides to $85.20 a box, with the Gym Set at $127.02 saving $40.89 on two boxes."
+      "The [SV2D Clay Burst investment guide](/blog/sv2d-investment/) prices the Iono set, box $87.24 against a case that divides to $85.20 a box, with the Gym Set at $127.02 saving $40.89 on two boxes.",
+      "The cheaper launch twin has its own verdict: the [SV1V Violet ex investment guide](/blog/sv1v-investment/) runs box $75.03 against case $809.48, with the Miriam at $77.75."
     ]
   },
   "sv1s-scarlet-ex-buyers-guide": {
@@ -51779,6 +52029,245 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Triplet Beat guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first subset the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the twin at $88.27 a box, with a case that saves $106.91, and the Miriam SAR at $77.77, or 0.88 times a box.",
       "New this cycle: the [is SV1S Scarlet ex worth buying guide](/blog/is-sv1s-worth-buying/) runs the verdict at the November 13 prices, box $94.74 and case $78.15 a box, with the rotation called out: G-mark cards left Standard on April 10, 2026."
+    ]
+  },
+  "sv1v-investment": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "Yes, sealed, for the collection, after a fifteen percent fall. The box is $75.03, $2.50 a pack and $0.50 a card, and the case is $809.48, which divides to $67.46 a box and saves $90.88 against twelve singles. The chase is the Miriam Special Art Rare at $77.75, which costs 1.04 boxes, and the Miraidon ex Special Art Rare at $46.15, which costs 0.62 of a box. The cards carry the G regulation mark, which left Standard on April 10, 2026, so buy this box for the set and the art, not the tournament table.",
+        "q": "Is SV1V Violet ex a good investment?"
+      },
+      {
+        "a": "Yes. The case costs $809.48 for 12 boxes, which divides to $67.46 a box, $7.57 less per box than the single box at $75.03, a saving of $90.88 on the case, or 10.09 percent of twelve singles. The saving survived the November 13 repricing intact, because both the box and the case fell fifteen percent. Divide the case before you pay, every time.",
+        "q": "Is the SV1V sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Miriam Special Art Rare is $77.75 on TCGplayer on November 18, 2026, which is 1.04 boxes, and one collector estimate puts her pull at one in 500 to 700 packs, or $1,250.00 to $1,750.00 of packs at our $2.50 per-pack price, against $77.75 for the single. That estimate is not an official rate, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV1V box to pull the Miriam Special Art Rare?"
+      }
+    ],
+    "h1": "SV1V Violet ex Investment Guide",
+    "intro": [
+      "Short answer: buy the sealed case first, the single box second, and never chase Miriam in packs. The [SV1V Violet ex booster box](/product/violet-booster-box-sv1v/) is $75.03 on this shelf as of November 20, 2026, $2.50 a pack and $0.50 a card, and the [sealed case of twelve](/product/sv1v-violet-ex-sealed-case-12-boxes-japanese-pokemon-card/) divides to $67.46 a box and saves $90.88 against twelve singles. The chase is two cards: the Miriam Special Art Rare at $77.75, which costs 1.04 boxes, and the Miraidon ex Special Art Rare at $46.15, which costs 0.62 of a box. The cards carry the G regulation mark, which left Standard on April 10, 2026, so buy this box for the collection, not the tournament table.",
+      "This guide answers for three buyers: the sealed holder, the opener weighing a box against the Miriam single, and the buyer choosing between the box, the case, and the twin. It is not for the buyer who expects a box to pay for itself, and every price in it carries a date, because the shelf repriced fifteen percent on November 13, 2026 and the market moves daily."
+    ],
+    "metaDescription": "SV1V box $75.03, case divides to $67.46 a box and saves $90.88. Miriam SAR $77.75 costs more than a box. G-mark cards left Standard in April 2026.",
+    "metaTitle": "SV1V Violet ex Investment Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase no Miriam",
+        "note": "From the Warehouse: the question we get most is whether the November 13 fall changed the verdict. It did not: the case was the buy at $952.33 and still is at $809.48.",
+        "paragraphs": [
+          "Buy the case for sealed holding or a group split. At $809.48 it holds twelve boxes at $67.46 each, $7.57 less per box than the $75.03 single box, a saving of $90.88 across the case, or 10.09 percent of twelve singles. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every set on this shelf.",
+          "Buy the single box if the job is one box. At $75.03 it is $2.50 a pack and $0.50 a card, down $13.24 from $88.27 on November 8, and it is $19.71 cheaper per box than the twin Scarlet ex box at $94.74. The [is SV1V worth buying guide](/blog/is-sv1v-worth-buying/) runs the same verdict with the November 13 prices.",
+          "Buy the Miriam single if the job is Miriam. At $77.75 on TCGplayer on November 18, 2026 she costs 1.04 boxes, and the Miraidon ex Special Art Rare at $46.15 costs 0.62 of a box, so the two chase cards together cost 1.65 boxes. The [SV1V Violet ex buyer guide](/blog/sv1v-violet-ex-buyers-guide/) prices every card in the set one by one."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, the market, and the fall",
+        "math": [
+          "SV1V box per pack: $75.03 / 30 packs = $2.50 per pack",
+          "SV1V box per card: $75.03 / 150 cards = $0.50 per card",
+          "SV1V case per box: $809.48 / 12 boxes = $67.46 per box",
+          "SV1V case per pack: $809.48 / 360 packs = $2.25 per pack",
+          "SV1V case per card: $809.48 / 1,800 cards = $0.45 per card",
+          "SV1V twelve single boxes: 12 x $75.03 = $900.36",
+          "SV1V case saving: $900.36 - $809.48 = $90.88",
+          "SV1V case saving per box: $75.03 - $67.46 = $7.57 per box",
+          "SV1V case saving percent: $90.88 / $900.36 = 10.09%",
+          "SV1V official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.97 = $33.76",
+          "SV1V box vs official: $75.03 - $33.76 = $41.27 above official",
+          "SV1V box vs official ratio: $75.03 / $33.76 = 2.22x official",
+          "SV1V case box vs official ratio: $67.46 / $33.76 = 2.00x official",
+          "SV1V box fall since November 8, 2026: $88.27 - $75.03 = $13.24; $13.24 / $88.27 = 15.00%",
+          "SV1V case fall since November 8, 2026: $952.33 - $809.48 = $142.85; $142.85 / $952.33 = 15.00%",
+          "SV1S box per pack: $94.74 / 30 packs = $3.16 per pack",
+          "SV1S box per card: $94.74 / 150 cards = $0.63 per card",
+          "SV1S case per box: $937.75 / 12 boxes = $78.15 per box",
+          "SV1S twelve single boxes: 12 x $94.74 = $1,136.88",
+          "SV1S case saving: $1,136.88 - $937.75 = $199.13",
+          "SV1S case saving per box: $94.74 - $78.15 = $16.59 per box",
+          "SV1V Cardfolio box estimate vs shelf: $88.53 - $75.03 = $13.50",
+          "SV1V case box vs Cardfolio estimate: $88.53 - $67.46 = $21.07",
+          "SV1V twelve Cardfolio boxes: 12 x $88.53 = $1,062.36",
+          "SV1V case vs twelve Cardfolio boxes: $1,062.36 - $809.48 = $252.88 less than twelve Cardfolio boxes",
+          "SV1V Tokyo listing, Samurai Sword: 10,029 yen / 159.97 = $62.69 on October 7, 2026",
+          "SV1V shelf vs Tokyo listing: $75.03 - $62.69 = $12.34 above the Tokyo listing",
+          "SV1V case box vs Tokyo listing: $67.46 - $62.69 = $4.77 above the Tokyo listing",
+          "SV1V SNKRDUNK ask: 9,000 yen / 159.97 = $56.26 on September 30, 2026",
+          "SV1V shelf vs SNKRDUNK ask: $75.03 - $56.26 = $18.77 above the SNKRDUNK ask",
+          "SV1V US listing: $75.03 - $42.46 = $32.57 above the TCG Store USA listing",
+          "SV1V case box vs US listing: $67.46 - $42.46 = $25.00 above the TCG Store USA listing",
+          "SV1V box vs SV9 box: $75.03 - $72.22 = $2.81 per box",
+          "SV1V box vs SV1S box: $94.74 - $75.03 = $19.71 per box",
+          "SV1V case vs SV1S case: $937.75 - $809.48 = $128.27 per case",
+          "SV1V pair with twin: $75.03 + $94.74 = $169.77",
+          "SV1V pair of cases: $809.48 + $937.75 = $1,747.23"
+        ],
+        "paragraphs": [
+          "Every math line above is one division from shelf prices as of November 20, 2026, at 159.97 yen to the dollar, the ECB cross rate for November 19, 2026. No November 20 fixing exists yet at the time of writing, because the ECB publishes once a day in the afternoon, so every yen figure on this page uses the November 19 fixing. An official box is 5,400 yen, or $33.76, and this shelf holds the box at 2.22 times that figure. The fall is uniform: on November 8 the box was $88.27 and the case $952.33, and on November 13 both fell fifteen percent, and the shelf has not moved since.",
+          "The market check runs both ways. Cardfolio's guide estimate sits at $88.53 on November 18, 2026, $13.50 above our shelf box, and twelve Cardfolio boxes cost $1,062.36, $252.88 more than our case. The other way: the cheapest sealed box on Samurai Sword Tokyo was 10,029 yen on October 7, 2026, or $62.69, so our box is $12.34 above it, and our case-split box is $4.77 above it. The SNKRDUNK lowest ask was 9,000 yen on September 30, 2026, or $56.26, $18.77 below our shelf box.",
+          "The third benchmark needs a warning label. TCG Store USA lists the box at $42.46, $32.57 below our shelf and $25.00 below our case-split box. Confirm stock, shipping, and the exact product before paying: a listing that far under market is a price to verify, not a price to plan around. Cardfolio's figure is a collection-tracking estimate, not a market price from completed sales, so the band is the fact and the single number is the trap. The case saving is $90.88, $76.43 less than the Night Wanderer case saves, because the Violet ex case started cheaper and fell from a lower base."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: four ways to spend on SV1V, priced November 20. The case row deserves the first look: at $67.46 a box inside the case, it is the cheapest sealed Violet ex on this shelf by $7.57 a box. The single row deserves the second look: $77.75 buys the Miriam, certain, with no packs opened. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold.",
+          "The twin row deserves the third look. Scarlet ex, the dearer twin, sits at $94.74 a box and its case at $937.75 divides to $78.15 a box, so Violet ex is $19.71 cheaper a box and $128.27 cheaper a case, while its chase is wider: two cards at $123.90 together against one Gardevoir ex at $196.02. The pair together costs $169.77 in two boxes, or $1,747.23 in two cases, and the pair is the only way to hold the whole January 2023 launch sealed. The [is SV1S worth buying guide](/blog/is-sv1s-worth-buying/) runs the same verdict on the twin."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Twin box SV1S (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$75.03",
+              "$67.46 a box inside the case",
+              "$94.74",
+              "Miriam SAR $77.75"
+            ],
+            [
+              "Price per pack",
+              "$2.50",
+              "$2.25",
+              "$3.16",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.50",
+              "$0.45",
+              "$0.63",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "The dearer twin, narrower chase",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the launch set",
+              "Sealed holding and splitting",
+              "Opening the launch pair",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the missing verdict, the rotation, and the English gap",
+        "note": "From the Warehouse: the gap we own on SV1V is the rotation. No card-price list tells a Standard player that the box cannot build a deck, and the Miriam costs more than the box she comes in. Buy Violet first, and buy the single for the Miriam.",
+        "paragraphs": [
+          "The top results for this query are a card-price list, a box-price index, and retail listings. TCGPursuit prices all 108 cards and the complete set, Samurai Sword indexes twenty-five SV-era boxes with store listings and SNKRDUNK asks, and TCG Store USA lists the box at $42.46. None of the three runs the box against the case, and none of them answers whether the box is worth buying. None of them prices twelve market boxes against our case: twelve Cardfolio boxes cost $1,062.36, $252.88 more than our case.",
+          "The second gap is the rotation: the G mark left Standard on April 10, 2026, and no card-price list tells a player that the box cannot build a Standard deck. The third gap is the chase concentration: the top two cards hold 39.87 percent of the set, and the Miriam alone costs more than the box. The fourth gap is the English line: the English Miriam Special Illustration Rare is $17.00 on TCGBerg on November 17, 2026, $60.75 less than the Japanese SAR, and the English Miraidon ex is $17.48 on November 15, 2026, $28.67 less than the Japanese SAR. The [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full."
+        ]
+      },
+      {
+        "h": "The chase layer: two cards above a box, a $174.55 top five",
+        "math": [
+          "Miriam SAR vs box: $77.75 / $75.03 = 1.04x the price of a box",
+          "Miraidon ex SAR vs box: $46.15 / $75.03 = 0.62x the price of a box",
+          "SV1V top two cards: $77.75 + $46.15 = $123.90",
+          "SV1V top two vs box: $123.90 / $75.03 = 1.65x the price of a box",
+          "Miriam SAR vs complete set: $77.75 / $310.78 = 25.02%",
+          "Miraidon ex SAR vs complete set: $46.15 / $310.78 = 14.85%",
+          "SV1V top two vs complete set: $123.90 / $310.78 = 39.87%",
+          "SV1V top three cards: $77.75 + $46.15 + $17.75 = $141.65",
+          "SV1V top three vs box: $141.65 / $75.03 = 1.89x the price of a box",
+          "SV1V top five cards: $141.65 + $17.22 + $15.68 = $174.55",
+          "SV1V top five vs box: $174.55 / $75.03 = 2.33x the price of a box",
+          "SV1V top five vs complete set: $174.55 / $310.78 = 56.17%",
+          "Spidops ex SAR vs box: $17.75 / $75.03 = 23.66% of a box",
+          "Slowpoke AR vs box: $17.22 / $75.03 = 22.95% of a box",
+          "Basic Lightning Energy SR vs box: $15.68 / $75.03 = 20.90% of a box",
+          "Drowzee AR vs box: $14.83 / $75.03 = 19.77% of a box",
+          "SV1V complete set vs box: $310.78 / $75.03 = 4.14 boxes",
+          "SV1V four boxes: 4 x $75.03 = $300.12",
+          "SV1V complete set vs four boxes: $310.78 - $300.12 = $10.66 more than four boxes",
+          "SV1V five boxes: 5 x $75.03 = $375.15",
+          "SV1V five boxes vs complete set: $375.15 - $310.78 = $64.37 more than the complete set",
+          "Miriam SAR move since November 8, 2026: $77.77 - $77.75 = $0.02; $0.02 / $77.77 = 0.03%",
+          "Miraidon ex SAR move since November 12, 2026: $46.45 - $46.15 = $0.30; $0.30 / $46.45 = 0.65%",
+          "SV1V complete set move since November 12, 2026: $311.45 - $310.78 = $0.67; $0.67 / $311.45 = 0.22%",
+          "Miriam SAR vs Miraidon ex SAR: $77.75 / $46.15 = 1.68x the Miraidon card",
+          "Miriam SAR vs Miriam SR: $77.75 / $10.83 = 7.18x the regular print",
+          "Miriam pull estimate low: 500 packs x $2.50 = $1,250.00",
+          "Miriam pull estimate high: 700 packs x $2.50 = $1,750.00",
+          "Miriam PSA 10 vs raw: $281.00 / $77.75 = 3.61x the raw price",
+          "Miriam PSA 10 premium: $281.00 - $77.75 = $203.25",
+          "English Miriam SIR vs Japanese SAR: $77.75 - $17.00 = $60.75",
+          "English Miriam SIR ratio: $77.75 / $17.00 = 4.57x the English price",
+          "English Miraidon SIR vs Japanese SAR: $46.15 - $17.48 = $28.67",
+          "English Miraidon SIR ratio: $46.15 / $17.48 = 2.64x the English price",
+          "SV1S complete set vs SV1V complete set: $441.42 - $310.78 = $130.64",
+          "SV1S complete set ratio: $441.42 / $310.78 = 1.42x the Violet ex set",
+          "Gardevoir ex SAR vs Miriam SAR: $196.02 / $77.75 = 2.52x the Miriam card",
+          "Gardevoir ex SAR vs SV1S box: $196.02 / $94.74 = 2.07x the price of a box",
+          "SV1V case saving vs SV6a case saving: $167.31 - $90.88 = $76.43 less saved",
+          "Cardfolio complete set vs TCGPursuit complete set: $310.78 - $279.00 = $31.78"
+        ],
+        "paragraphs": [
+          "The chase sits in two cards and then falls off a cliff. The Miriam Special Art Rare, 105/078, at $77.75 on TCGplayer on November 18, 2026, is 1.04 boxes. After her comes the Miraidon ex Special Art Rare at $46.15, 0.62 of a box, and the Spidops ex Special Art Rare at $17.75, 23.66 percent of a box. The Slowpoke Art Rare at $17.22 and the Basic Lightning Energy Secret Rare at $15.68 close the top five, and the five together cost 2.33 boxes. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark.",
+          "All five are one TCGplayer reading through TCGPursuit, dated November 18, 2026, and the set total is the same reading: $310.78 for one of each of the 108 cards. The top two hold 39.87 percent of the set value, and the Miriam alone holds 25.02 percent. Cardfolio reads the same set at $279 on November 18, 2026, $31.78 below the TCGPursuit total, because it prices from a different market method. The set is flat below the top two: after the top five, the dearest card is the Arcanine ex at $15.24, and the other 98 cards are each worth $10.73 or less. Four boxes at $300.12 undercut the $310.78 singles by $10.66, so open four boxes before buying the last singles."
+        ]
+      },
+      {
+        "h": "The risk layer: the pull, the rotation, and the English overlap",
+        "paragraphs": [
+          "The first risk is the pull. One collector estimate puts the Miriam Special Art Rare at one pull in 500 to 700 packs, which is $1,250.00 to $1,750.00 of packs at our $2.50 per-pack price, against $77.75 for the single. That estimate is not an official rate, because the Pokemon Company publishes no pull rates for this set, and it is why the single-versus-box test matters more here than in any other launch set.",
+          "The second risk is the rotation, and it is already decided. G-mark cards left Standard on April 10, 2026 for in-person play, and the announcement is explicit that legality goes by the regulation mark on the card, not by which expansion it came from. A buyer who owns the cards for play needs the Expanded format, and a buyer who owns them for the collection needs nothing. Check the mark on the card itself before assuming any reprint is legal: a reprint with an H, I, or J mark plays, and the same art with a G mark does not.",
+          "The third risk is the English overlap, which is the risk most buyers miss, because the same art costs far less in English. The English Miriam Special Illustration Rare is $17.00 on TCGBerg on November 17, 2026, against $77.75 for the Japanese Special Art Rare, so the Japanese print costs 4.57 times the English one, and the English Miraidon ex at $17.48 makes the Japanese print 2.64 times the English one. The fourth risk is the grading gap: the Miriam PSA 10 reference price is $281.00 from CardZ Marketcap on November 19, 2026, 3.61 times the raw card, a premium of $203.25 for the grade, and a raw card sent for grading does not come back a 10 by wanting it to. The grading question is answered in [PSA Grading Japanese Cards: Worth It](/blog/psa-grading-japanese-cards-worth-it/), and the seal question in our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/)."
+        ]
+      },
+      {
+        "h": "Context: 108 cards, Miraidon, and the English twin",
+        "paragraphs": [
+          "Violet ex, set code SV1V, released in Japan on January 20, 2023, as the second half of the era launch, paired with Scarlet ex on the same day. It prints 108 cards: a 78-card base set and a 30-card secret block of 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares, at 180 yen a pack for five cards, with 30 packs in a box. The official Japanese price of a box is 5,400 yen, or $33.76 at 159.97 yen per dollar, and this shelf holds the box at 2.22 times that figure.",
+          "The secret block is the set in miniature. Five Special Art Rares head it: the Miriam supporter at 105/078, the Miraidon ex at 102/078, the Spidops ex at 101/078, and the Arven supporter at 104/078, with the Professor Turo trainer card closing the block. The Miraidon ex Ultra Rare at 106/078 sits at $10.73, and the Drowzee Art Rare at 086/078 sits at $14.83. The set is Miraidon-themed, but the chase is not the mascot: the Miriam costs 1.68 times the Miraidon, and the theme Pokemon is the second card, not the first. The English twin is Scarlet and Violet, released March 31, 2023, about ten weeks after the Japanese release, combining both launch sets into one 258-card English set. The [SV1S Scarlet ex investment guide](/blog/sv1s-investment/) and the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) price the neighbours the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the Standard player, because the G regulation mark left Standard on April 10, 2026, and no box of Violet ex puts a card on a Standard table. It is not for the single-card chaser: a box is the worst way to find one named card, and the right move is the Miriam Special Art Rare single at $77.75, which costs 1.04 times a box. It is not for the buyer who wants the box to pay for itself, because the top two cards together cost 1.65 boxes and the top five together cost 2.33 boxes. It is not for the buyer who needs the English cards, because the Japanese cards are a different product at a different price."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: G-mark cards are out of Standard since April 10, 2026, and legal in Expanded only.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV1V on this shelf is the case at $809.48, $67.46 a box, saving $90.88; the single box is $75.03, and the Cardfolio box estimate is $88.53.",
+          "If the job is one card, buy the single. The Miriam Special Art Rare is $77.75. It is not guaranteed in any box.",
+          "If the job is the complete set, open four boxes first: $300.12 undercuts the $310.78 singles by $10.66, then buy the last cards singly.",
+          "Remember the chase is two cards: the Miriam holds 25.02 percent of the set value and the Miraidon 14.85 percent, together 39.87 percent.",
+          "If the job is the twin too, buy the pair: Violet ex $75.03 plus Scarlet ex $94.74 is $169.77, the launch pair in two boxes."
+        ],
+        "h": "Action layer: the SV1V buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the buy decides itself. The division comes first, because every other number on this page hangs off it. The case is the cheapest sealed route on this shelf, the single is the cheapest named-card route, and the box is the opening route.",
+          "The last check is the date. Every price here is stamped November 20, 2026, and the shelf repriced fifteen percent on November 13, so a price without a date is a price from a different shelf. The market figures are TCGplayer readings through TCGPursuit on November 18, 2026, and they move daily."
+        ]
+      }
+    ],
+    "slug": "sv1v-investment",
+    "takeaway": [
+      "The SV1V box at $75.03 is $2.50 a pack and $0.50 a card, while the case at $809.48 divides to $67.46 a box, $90.88 less than twelve singles. Buy the box or the case, never twelve singles.",
+      "It is worth buying as the cheaper launch twin to open, sealed, not as a way to own the Miriam Special Art Rare or to make the money back by opening. Miriam sat at $77.75, 1.04 boxes, and the Miraidon ex Special Art Rare at $46.15 is 0.62 of a box. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $13.24, from $88.27 to $75.03, fifteen percent, and the case fell fifteen percent too, from $952.33 to $809.48, which did not change the verdict. The cards carry the G regulation mark, which left Standard on April 10, 2026.",
+      "Every number here is stamped November 20, 2026. The box now sits $13.50 below the $88.53 Cardfolio estimate, and the case box sits $21.07 below it. The [SV1V Violet ex buyer guide](/blog/sv1v-violet-ex-buyers-guide/) runs the November 8 prices, and the [is SV1S Scarlet ex worth buying guide](/blog/is-sv1s-worth-buying/) runs the same verdict on the dearer twin.",
+      "The [SV6a Night Wanderer investment guide](/blog/sv6a-investment/) prices the June 2024 set at a $77.87 box, its case saves $167.31, $76.43 more than the Violet ex case.",
+      "New this cycle: the [Lorcana booster box guide](/blog/lorcana-booster-box/) runs the same division on Disney Lorcana sealed boxes."
     ]
   },
   "sv1v-violet-ex-buyers-guide": {
