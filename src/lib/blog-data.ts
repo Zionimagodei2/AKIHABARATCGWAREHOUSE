@@ -20199,7 +20199,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the 25th anniversary set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "The EB02-numbered ladder falls off fast after the two Luffys: the Nami alternate art is $124.53, and the GradeValue base-print list tops out at the Yamato Super Rare at $37.00 raw, with the seven best base cards together worth $126.07. The base set value is $116.28, which is 76.48% of one Japanese box.",
       "Companion guide: the [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks Memorial Collection the same way, with the $2,999.99 Chopper Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
-      "For the mainline-set side of the same ranking, the [OP-02 best cards guide](/blog/op-02-best-cards/) prices the Ace Manga at $1,700.00 against its box."
+      "For the mainline-set side of the same ranking, the [OP-02 best cards guide](/blog/op-02-best-cards/) prices the Ace Manga at $1,700.00 against its box.",
+      "The next Extra Booster in the same ranking: the [EB-03 best cards guide](/blog/eb-03-best-cards/) prices the Hancock SP at $1,436.07, with nine SPs in the top ten."
     ]
   },
   "eb-02-investment": {
@@ -20385,6 +20386,192 @@ export const POSTS: Record<string, BlogPost> = {
       "EB-02 Anime 25th Collection is a good sealed investment in English at $188.16 a box, $540.44 below the $728.60 TCGplayer market price of November 16, 2026, and a patience test in Japanese at $152.03, or 4.59 times the ¥5,280 official price, with the Japanese case saving only $32.43 over twelve singles.",
       "All four products fell exactly 15 percent between November 12 and November 16, 2026, from $178.86, $2,108.15, $221.36, and $2,503.99: a shelf repricing, not a market crash, after a 20 percent English cut in the eight days before that.",
       "The Luffy manga, EB02-061, is the whole chase: $1,725 raw in Japanese and $3,859 raw in English on PackSpy as of November 16, 2026, with a PSA 10 at $8,971 in English, and the lowest raw ask on SNKRDUNK was ¥300,000 on September 30, 2026, against about ¥118,000 at release."
+    ]
+  },
+  "eb-03-best-cards": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "The Boa Hancock Special Parallel, EB03-026, at $1,436.07 on TCGplayer market as of November 19-20, 2026, from TCGPursuit's EB-03 page. The Japanese market tells a different story: the lowest raw-A daily average on October 19, 2026 was ¥129,999, about $818.94 at 158.74 yen per dollar, and the PSA 10 average was ¥185,800, about $1,170.47, so the TCGplayer market price and the Japanese averages are two different markets, not two prices for the same copy.",
+        "q": "What is the most valuable EB-03 card?"
+      },
+      {
+        "a": "No, not as a plan. The Hancock SP is $1,436.07 on TCGplayer market as of November 19-20, 2026, which is 10.90 Japanese boxes at $131.78 and 8.58 English boxes at $167.28, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase, and the God Pack that can hold six SPs has no published rate either. Buy the single if the card is the job, or buy the box to open Heroines Edition and treat the chase as a bonus.",
+        "q": "Should I buy an EB-03 box to pull the Boa Hancock SP?"
+      },
+      {
+        "a": "Buy EB-03 if the job is the heroines set and the nine SPs: its top ten totals $6,536.26 on the same dated TCGplayer read, and its Japanese box is $131.78 against EB-02's $152.03. Buy EB-02 if the job is the anime anniversary set and the SP leader reprints: its top ten totals $14,544.57, with the Luffy Manga at $5,108.00. Either way, buy the box for the set and the single for the card: the [EB-02 best cards guide](/blog/eb-02-best-cards/) ranks Anime 25th Collection the same way.",
+        "q": "EB-03 vs EB-02: which should I buy?"
+      }
+    ],
+    "h1": "EB-03 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in EB-03 is the Boa Hancock Special Parallel, EB03-026, at $1,436.07 on TCGplayer market as of November 19-20, 2026. Nine of the top ten are Special Parallel cards, and the tenth is the Uta Manga Rare at $902.26, so the whole chase is ten cards and $6,536.26 of it. On our shelf, November 20, 2026, the [EB-03 Japanese booster box](/product/eb-03-heroines-edition-booster-box-japanese-one-piece-card/) is $131.78 and the [EB-03 English booster box](/product/eb-03-heroines-extra-booster-box-english-one-piece-card/) is $167.28, and both English products have now fallen exactly 32.00% since November 5. Buy the box for the heroines set, buy the single for the card.",
+      "Who this is for: collectors ranking the EB-03 chase, buyers choosing between the Japanese and English box, and players who want the Vivi leader or the heroines pool. Who it is not for: anyone chasing one named card by opening boxes; anyone who wants a God Pack, because no pull rate exists to price it; and anyone buying a sealed box as a guaranteed investment, because the English box fell 32.00% in fifteen days."
+    ],
+    "metaDescription": "EB-03's 10 best cards ranked on TCGplayer market prices, Nov 19-20, 2026: the $1,436 Hancock SP, the $902 Uta Manga, and the $131.78 Japanese box.",
+    "metaTitle": "EB-03 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: nine SPs, one manga, and a box that fell 32%",
+        "paragraphs": [
+          "The ranking below is one dated read. Every value is a TCGplayer market price as of November 19-20, 2026, from TCGPursuit's EB-03 page. The ten cards add to $6,536.26, and the top three are $4,060.32 of it, 62.12% of the whole list. Boa Hancock (SP) EB03-026 is $1,436.07, Nico Robin (SP) EB03-055 is $1,393.28, and Nami (SP) EB03-053 is $1,230.97. Behind them come the Uta Manga, EB03-061, at $902.26, Nefeltari Vivi (SP) EB03-024 at $424.82, Perona (SP) EB03-045 at $363.18, and Uta (SP) EB03-003 at $332.09. The bottom three are Vinsmoke Reiju (SP) EB03-031 at $190.49, Tashigi (SP) EB03-018 at $133.96, and Koala (SP) EB03-042 at $129.14.",
+          "The split is the story. Nine of the ten are Special Parallel cards, together $5,634.00, or 86.20% of the top ten. The tenth is the Uta Manga Rare, the set's only comic-parallel print, at $902.26, 13.80% of the list. No base-print card makes the top ten: the highest card that is not an SP or the manga is the Boa Hancock alternate art at $22.97. That is the set: a chase set with almost nothing underneath the chase.",
+          "A collector chasing Hancock buys the single, because the card is 10.90 Japanese boxes and no pull rate exists to price the chase any other way. A collector who wants the set's heroines pool buys the Japanese box at $131.78, because the box is the cheapest way into all nine SPs at once, and the [is EB-03 worth buying guide](/blog/is-eb-03-worth-buying/) verdicts the same four products at the November 12 prices, before the second leg of the fall."
+        ]
+      },
+      {
+        "h": "The money layer: the board, divided",
+        "math": [
+          "EB-03 Japanese box per pack: $131.78 / 24 packs = $5.49 per pack",
+          "EB-03 Japanese box per card: $131.78 / 144 cards = $0.92 per card",
+          "EB-03 Japanese case per box: $1,582.28 / 12 boxes = $131.86 per box",
+          "EB-03 Japanese case premium: $1,582.28 - $1,581.36 = $0.92 more than twelve singles",
+          "EB-03 English box per pack: $167.28 / 24 packs = $6.97 per pack",
+          "EB-03 English box per card: $167.28 / 288 cards = $0.58 per card",
+          "EB-03 English case per box if twelve: $1,571.53 / 12 boxes = $130.96 per box",
+          "CONDITIONAL, NOT CLAIMED: if the English case holds twelve boxes, 12 x $167.28 = $2,007.36; $2,007.36 - $1,571.53 = $435.83 saved ($36.32 per box)",
+          "EB-03 English vs Japanese box gap: $167.28 - $131.78 = $35.50 per box; $167.28 / $131.78 = 1.27x",
+          "EB-03 Japanese repricing: $155.04 - $131.78 = $23.26; $23.26 is 15.00% of $155.04",
+          "EB-03 Japanese case repricing: $1,861.50 - $1,582.28 = $279.22; $279.22 is 15.00% of $1,861.50",
+          "EB-03 English repricing: $246.00 - $167.28 = $78.72; $78.72 is 32.00% of $246.00",
+          "EB-03 English case repricing: $2,311.07 - $1,571.53 = $739.54; $739.54 is 32.00% of $2,311.07",
+          "EB-03 Japanese box vs MSRP: 24 packs x 220 yen = 5,280 yen; 5,280 / 158.74 yen per dollar = $33.26; $131.78 / $33.26 = 3.96x",
+          "EB-03 English box vs MSRP: 24 packs x $4.99 = $119.76; $167.28 / $119.76 = 1.40x",
+          "EB-03 top 10 total: $1,436.07 + $1,393.28 + $1,230.97 + $902.26 + $424.82 + $363.18 + $332.09 + $190.49 + $133.96 + $129.14 = $6,536.26",
+          "EB-03 top 3 total: $1,436.07 + $1,393.28 + $1,230.97 = $4,060.32; $4,060.32 / $6,536.26 = 62.12% of the top 10",
+          "EB-03 nine SPs total: $6,536.26 - $902.26 = $5,634.00; $5,634.00 / $6,536.26 = 86.20% of the top 10",
+          "Boa Hancock against the boxes: $1,436.07 / $131.78 = 10.90 Japanese boxes; $1,436.07 / $167.28 = 8.58 English boxes",
+          "Uta Manga against the boxes: $902.26 / $131.78 = 6.85 Japanese boxes; $902.26 / $167.28 = 5.39 English boxes",
+          "EB-03 top 10 against the boxes: $6,536.26 / $131.78 = 49.60 Japanese boxes; $6,536.26 / $167.28 = 39.07 English boxes",
+          "EB-03 English box against the market box: $265.24 - $167.28 = $97.96 below market",
+          "WorthRipping box EV at our shelf: $206.00 - $167.28 = $38.72 ahead after selling costs",
+          "Uta Manga Japanese raw ask: 85,000 yen / 158.74 yen per dollar = $535.47; $535.47 / $131.78 = 4.06 Japanese boxes",
+          "EB-03 Japanese box against the Japanese resale box: $131.78 - $83.15 = $48.63 above the 13,200 yen average",
+          "EB-03 ladder below the top 10: $22.97 + $10.54 + $10.17 + $9.38 + $6.79 = $59.85",
+          "Nefeltari Vivi base seven-day move: $9.38 / 1.319 = $7.11 a week earlier"
+        ],
+        "paragraphs": [
+          "All four EB-03 products fell between November 5 and November 20, 2026, but they did not fall together. The Japanese pair fell exactly 15.00%: the box from $155.04 to $131.78 and the case from $1,861.50 to $1,582.28. The English pair fell exactly 32.00%: the box from $246.00 to $167.28 and the case from $2,311.07 to $1,571.53. The English fall came in two legs: 20.00% by November 12, then 15.00% more by November 16. The prices here are stamped November 20, 2026, and the shelf has not moved since November 16.",
+          "The language gap is small and the per-card gap runs the other way. The Japanese box is $131.78 for 24 packs of 6 cards, $5.49 a pack and $0.92 a card, against a 5,280 yen official box price that converts to $33.26 at 158.74 yen per dollar, so the Japanese box is 3.96 times its official price. The English box is $167.28 for 24 packs of 12 cards, $6.97 a pack and $0.58 a card, against a $119.76 MSRP box, so it is 1.40 times its MSRP. The English box costs $35.50 more and still gives the cheaper card.",
+          "The cases point in opposite directions, and the English one needs a condition. The [Japanese case](/product/eb-03-heroines-edition-sealed-case-12-boxes-japanese-one-piece-card/) is $1,582.28, or $131.86 a box, which is $0.92 more than twelve singles at $1,581.36: the case charges $0.08 a box for the privilege of buying sealed. The [English case](/product/eb-03-one-piece-heroines-edition-sealed-case-english-one-piece-card/) is $1,571.53, and it saves $435.83 only if it holds twelve boxes, at $36.32 a box, because no listing prints the box count. Confirm the count before you pay for the discount."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view. The rows are the five ways to spend on EB-03, and the columns are what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The single row is the only row that buys the card instead of the chance: the Hancock SP at $1,436.07 is 10.90 Japanese boxes, and the Uta Manga at $902.26 is 6.85 Japanese boxes. The [EB-03 investment guide](/blog/eb-03-investment/) runs the same four products as a hold, with the case math as it stood on November 16, 2026."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$131.78",
+              "$5.49",
+              "Opening Heroines Edition in Japanese",
+              "Chase not guaranteed; 3.96x MSRP"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,582.28",
+              "$131.86 a box",
+              "Sealed run; group split",
+              "Costs $0.92 more than singles"
+            ],
+            [
+              "English box",
+              "$167.28",
+              "$6.97",
+              "English set; cheapest per card",
+              "1.40x MSRP; chase not guaranteed"
+            ],
+            [
+              "English case",
+              "$1,571.53",
+              "Not divided here",
+              "English boxes in bulk",
+              "Box count unprinted; $1,571.53 at once"
+            ],
+            [
+              "The single",
+              "$1,436.07 Hancock SP",
+              "n/a",
+              "Owning the chase card",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the split, and the market box",
+        "note": "From the Warehouse: the question we get most in chat about EB-03 is whether the English box is worth it now that it has fallen so far. Our answer starts with the market box, because it is the fact most guides cannot have yet: the English box trades at $265.24 on WorthRipping's November 20 market read, and our shelf price is $167.28, $97.96 below it. The box is worth buying as the heroines set, sealed or opened, and it is not worth buying as a way to own one named card. Say that first, and the rest of the numbers fall into place.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there. TCGPursuit ranks the top ten and tracks the seven-day moves, Samurai Sword Tokyo prices the chase on SNKRDUNK asks and explains the God Pack, and Haki TCG ranks sixty printings and quotes Cardmarket in euros. What none of them does is rank the top ten on one dated TCGplayer market read, separate the nine SPs from the manga, and tie the cards to a box price you can actually pay today.",
+          "The gap this page owns is the split, and it owns it with two totals. The nine SPs are $5,634.00, 86.20% of the top ten. The Uta Manga is $902.26, 13.80% of the top ten. A buyer who trusts a blended list will miss that there is no base-print value in the set at all: the best card below the top ten is the Hancock alternate art at $22.97, and the five best below it together are $59.85. The second gap is the pull rate. Bandai has never published pull rates for any One Piece set, so no expected-value math exists for the chase. The honest numbers are the breakevens: Hancock is 10.90 Japanese boxes and 8.58 English boxes.",
+          "The third gap is the print. Every value on this page is a TCGplayer market price, and the Japanese box you buy from us holds Japanese cards, which trade on their own market. The Uta Manga's lowest raw ask on SNKRDUNK on September 23, 2026 was ¥85,000, about $535.47, which is 4.06 Japanese boxes, against the $902.26 TCGplayer market price, which is 6.85 boxes. An ask is not a sale, and a Japanese ask is not an English market price. The fourth gap is the repricing, which no guide has yet because it finished four days ago."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is three cards. Boa Hancock (SP) EB03-026 is $1,436.07, and it is 21.97% of the top ten combined. Nico Robin (SP) EB03-055 is $1,393.28, $42.79 behind Hancock, and Nami (SP) EB03-053 is $1,230.97, $162.31 behind Robin. The three together are $4,060.32, 62.12% of the top ten. The Japanese market agrees on the order: on October 19-24, 2026, Hancock's raw-A daily average was ¥129,999, about $818.94, and its PSA 10 average was ¥185,800, about $1,170.47; Robin was ¥50,000 raw, about $314.98, and ¥110,000 in PSA 10; Nami was ¥65,000 raw, about $409.47, and ¥108,000 in PSA 10.",
+          "The second rung is the manga and the middle SPs, where the set's price falls off a cliff. The Uta Manga, EB03-061, is $902.26, and behind it Vivi, EB03-024, is $424.82, Perona, EB03-045, is $363.18, and Uta, EB03-003, is $332.09. The manga is where the two markets disagree most: the Japanese raw ask on SNKRDUNK was ¥85,000 on September 23, about $535.47, and ¥72,000 on October 7, about $453.57, while the PSA 10 ask ran from ¥180,000, about $1,133.93, to ¥255,000, about $1,606.40, in the same two weeks. One card number, three different purchases.",
+          "The third rung is the bottom three SPs, and below them there is almost nothing. Reiju, EB03-031, is $190.49, Tashigi, EB03-018, is $133.96, and Koala, EB03-042, is $129.14, together $453.59. Below the top ten, the ladder collapses: the Hancock alternate art is $22.97, the Yamato alternate art is $10.54, the Uta alternate art is $10.17, the Vivi base print is $9.38, and the Vivi alternate art is $6.79, together $59.85, which is 45.41% of one Japanese box."
+        ]
+      },
+      {
+        "h": "The risk layer: the god pack, the raw price, and the $1,436 card",
+        "paragraphs": [
+          "The first risk is the God Pack, and EB-03 sells it as its headline: one pack in a box can hold six of the nine SP cards. But Bandai has never published a pull rate for the God Pack or for any card in the set, so the chance of hitting one is unknowable, and any article that prices it is inventing the number. A sealed box bought for the God Pack is a lottery ticket with no published odds. Hold the set because it is the first all-female set, not because the pack might be godly. The [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) prices the Premium Booster reprints the same way.",
+          "The second risk is the raw price itself. The $1,436.07 is a TCGplayer market price for a raw near-mint copy, not a sale you have made, and the card's price depends on condition, grading, and a buyer. A raw copy bought sight unseen carries condition risk, and a graded copy carries a premium on top: the Hancock SP's PSA 10 daily average on October 24, 2026 was ¥185,800, about $1,170.47, against a raw-A average of ¥129,999, about $818.94. The third risk is the seven-day direction: the Vivi base print rose 31.90% in a week, from about $7.11 to $9.38, while the Uta alternate art fell 18.20%, the Vivi alternate art fell 13.90%, the Hancock alternate art fell 11.70%, and the Yamato alternate art fell 10.20%.",
+          "The fourth risk is legality, restated plainly: Japanese cards are generally not legal at official events outside Asia, so a player who buys Japanese to compete has bought the wrong product. The fifth risk is the reseal: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand. The sixth risk is the English case count: the $435.83 saving holds only if the case holds twelve boxes, a count no listing prints. The seventh risk is the sequel: EB-05 Heroines Edition Vol. 2 released on October 31, 2026, and the first set's box has already traded from a ¥28,487 peak on August 9 to ¥13,200 on October 25."
+        ]
+      },
+      {
+        "h": "Context: 71 cards, two languages, and the first heroines set",
+        "paragraphs": [
+          "Heroines Edition is the first all-female set in One Piece Card Game history, built around Nami, Robin, Hancock, Uta and Vivi. It was released in Japan on October 25, 2025 and in English on February 20, 2026. The official Japanese page prints 71 card types plus 4 DON!! cards: 1 Leader, 29 Commons, 21 Rares, 9 Super Rares, 2 Secret Rares, 9 Special cards, and 4 DON!! cards, and the official card list runs to 104 rows once parallels are counted. The set's single Leader is Nefeltari Vivi, EB03-001.",
+          "The Japanese box divides cleanly to $5.49 a pack and $0.92 a card. The English pack holds 12 cards at $4.99, and the English box divides to $6.97 a pack and $0.58 a card. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all the Japanese boxes to per-pack prices, and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) ranks the English boxes the same way. The [EB-03 Heroines Edition buyers guide](/blog/eb-03-heroines-edition-buyers-guide/) priced the same four products on November 5, before either repricing."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Hancock SP is 10.90 Japanese boxes and 8.58 English boxes, and no pull rate exists to price the chase any other way. It is not for anyone who wants a God Pack, because the rate is unpublished and the pack is a hope, not a plan. It is not for anyone who needs English cards for official play outside Asia. It is not for anyone buying the English case for the discount without confirming the box count, because the count is unprinted. And it is not for anyone who treats a sealed box as a guaranteed investment, because the English box fell 32.00% since November 5."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Hancock SP, own the Uta Manga, own the nine SPs, hold the heroines set sealed, or own it in English.",
+          "If the job is Hancock, buy the single: $1,436.07 raw on TCGplayer market as of November 19-20, 2026, or the PSA 10 near $1,170.47 on the October 24 Japanese average, and check whether the listing is priced on the TCGplayer market or the Japanese ask, because the two differ by $617.13.",
+          "If the job is the nine SPs, buy the Japanese box at $131.78, and treat the manga as a bonus, not the plan.",
+          "If the job is English, pay $167.28 for the box, or $1,571.53 for the case, and confirm the case holds twelve boxes before you pay for the discount.",
+          "If the job is a case, divide it first: Japanese costs $0.92 more than twelve singles, English saves $435.83 if it holds twelve.",
+          "Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole EB-03 shelf moved 32.00% in fifteen days on the English side."
+        ],
+        "h": "Action layer: the EB-03 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 20, 2026, and the card values are TCGplayer market prices as of November 19-20, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles, and the [OP-03 best cards guide](/blog/op-03-best-cards/) ranks the Yellow debut set's ten the same way."
+        ]
+      }
+    ],
+    "slug": "eb-03-best-cards",
+    "takeaway": [
+      "The EB-03 top ten, on TCGplayer market prices as of November 19-20, 2026, totals $6,536.26, and the Boa Hancock SP, EB03-026, is $1,436.07 of it, 21.97% of the whole list. Nine of the ten are Special Parallel cards, together $5,634.00, 86.20% of the top ten; the tenth is the Uta Manga at $902.26.",
+      "On our shelf as of November 20, 2026, the Japanese box is $131.78 and the English box is $167.28, and both English products have now fallen exactly 32.00% since November 5 while the Japanese pair fell exactly 15.00%. The Hancock SP is 10.90 Japanese boxes and 8.58 English boxes, and the Uta Manga is 6.85 Japanese boxes and 5.39 English boxes. The Japanese case costs $0.92 more than twelve singles, and the English case saves $435.83 only if it holds twelve boxes, a count no listing prints.",
+      "It is worth buying as the first all-female set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase, and the God Pack has no published rate either. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "The ladder below the top ten collapses fast: the Hancock alternate art is $22.97, and the five best cards below the top ten together are $59.85. The Vivi base print rose 31.90% in seven days while four alternate arts fell between 10.20% and 18.20%. The Japanese box trades at ¥13,200 on the Japanese resale market, about $83.15, against our $131.78 shelf price.",
+      "Companion guide: the [EB-02 best cards guide](/blog/eb-02-best-cards/) ranks Anime 25th Collection the same way, with the $5,108.00 Luffy Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the mainline-set side of the same ranking, the [OP-03 best cards guide](/blog/op-03-best-cards/) prices the Sogeking Manga at $919.56 against its box."
     ]
   },
   "eb-03-heroines-edition-buyers-guide": {
@@ -24346,7 +24533,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the heroines set, sealed or opened, and it is not worth buying as a way to own one named card. The Uta Manga Rare carried a raw daily-average sale price of ¥86,500 on October 22, 2026, about $544.03, which is 3.51 Japanese boxes, and the Hancock SP carried $1,421.01 on TCGplayer market on November 10, 2026, which is 7.22 English boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is worth buying in English for the value against the market, not for the sticker price: the English box at $196.80 sits $101.88 below the Pullnomics November 2026 secondary price of $298.68, while the Japanese box at $155.04 sits $71.50 above the November 10 sold-first reference of $83.54. It is not worth buying as a God Pack hunt, because at an estimated 1 in 180 boxes the expected spend is $27,907.20.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of September 23 to November 11, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [is EB-04 worth buying guide](/blog/is-eb-04-worth-buying/) prices the Egghead Crisis the same way, with its own 20% English drop and the Koby Manga against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+      "New this cycle: the [is EB-04 worth buying guide](/blog/is-eb-04-worth-buying/) prices the Egghead Crisis the same way, with its own 20% English drop and the Koby Manga against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "Companion guide: the [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks the ten chase cards on one dated TCGplayer read, with the $1,436.07 Hancock SP against its box."
     ]
   },
   "is-eb-04-worth-buying": {
@@ -26589,7 +26777,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of October 7 to November 5, 2026. The 20% English repricing is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
       "New this cycle: the [is OP-02 worth buying guide](/blog/is-op-02-worth-buying/) prices Paramount War the same way, with its own 20% English drop and the Ace Manga against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
       "New this cycle: the [is OP-01 worth buying guide](/blog/is-op-01-worth-buying/) prices Romance Dawn the same way, with its own 20% English drop and the Manga Shanks against the box.",
-      "New this cycle: the [OP-03 Pillars of Strength investment guide](/blog/op-03-investment/) runs the same division for the holder, with the English box now below market after a 32% repricing in twelve days."
+      "New this cycle: the [OP-03 Pillars of Strength investment guide](/blog/op-03-investment/) runs the same division for the holder, with the English box now below market after a 32% repricing in twelve days.",
+      "Companion guide: the [OP-03 best cards guide](/blog/op-03-best-cards/) ranks the ten chase cards on one dated TCGplayer read, with the $919.56 Sogeking Manga against its box."
     ]
   },
   "is-op-04-worth-buying": {
@@ -44353,7 +44542,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The week to November 19 moved the tail down: the Luffy Alt Art OP02-062 fell 15.3% to $53.79, the Luffy Alt Art OP02-041 fell 13.9% to $20.77, the Newgate Alt Art OP02-004 fell 8.5% to $15.61, and the Marco Alt Art OP02-018 fell 6.7% to $4.06. Bandai has never published pull rates for any One Piece set, so no expected-value math exists for this chase, and this page prints none.",
       "The set is a one-card set: the Ace Manga is 62.87% of the $2,704.02 set total, and 119 of the set's 158 catalog versions sit under $1. OP-02 is a Block 1 set that rotated out of Standard on April 1, 2026 and plays in Extra Regulation now, so the box is a collector's buy, not a player's buy. Buy the single for the card, buy the box for the set.",
       "Companion guide: the [OP-01 best cards guide](/blog/op-01-best-cards/) ranks the founding set's ten the same way, with the $3,998.74 Shanks Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [Japanese sealed case guide](/blog/one-piece-japanese-sealed-case/) prices every case against its own singles.",
-      "For the Extra Booster side of the same ranking, the [EB-02 best cards guide](/blog/eb-02-best-cards/) prices the Luffy Manga at $5,108.00 against its box."
+      "For the Extra Booster side of the same ranking, the [EB-02 best cards guide](/blog/eb-02-best-cards/) prices the Luffy Manga at $5,108.00 against its box.",
+      "The next mainline set in the same ranking: the [OP-03 best cards guide](/blog/op-03-best-cards/) prices the Sogeking Manga at $919.56, with four WANTED posters in the top ten."
     ]
   },
   "op-02-investment": {
@@ -44744,6 +44934,195 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move; the method does not. Choose the language first, divide the case second, and never assume a case discounts: on this set both cases discount, the Japanese by $491.66 and the English by $1,265.07 — and the English single box sits $48.30 below the dated market figure while the Japanese box sits $84.42 above a Tokyo asking price.",
       "For the successor set, see [OP-03 Pillars of Strength Buyer's Guide](/blog/op-03-pillars-of-strength-buyers-guide/). For the origin set, see [OP-01 Romance Dawn Buyer's Guide](/blog/op-01-romance-dawn-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the investment version, see [OP-02 Paramount War Investment: Buy the English Case](/blog/op-02-investment/).",
       "New this cycle: the [is OP-02 worth buying guide](/blog/is-op-02-worth-buying/) prices Paramount War the same way, with the 20% English drop and the Ace Manga against the box."
+    ]
+  },
+  "op-03-best-cards": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "The Sogeking comic parallel, OP03-122, at $919.56 on TCGplayer market as of November 19-20, 2026, from TCGPursuit's OP-03 page. The Japanese market tells a different story: the lowest raw ask on SNKRDUNK on September 24, 2026 was ¥60,000, about $377.98 at 158.74 yen per dollar, and the PSA 10 ask was ¥155,000, about $976.44, so the TCGplayer market price and the Japanese asks are two different markets, not two prices for the same copy.",
+        "q": "What is the most valuable OP-03 card?"
+      },
+      {
+        "a": "No, not as a plan. The Sogeking Manga is $919.56 on TCGplayer market as of November 19-20, 2026, which is 6.15 Japanese boxes at $149.41 and 1.87 English boxes at $491.03, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Buy the single if the card is the job, or buy the box to open Pillars of Strength and treat the chase as a bonus.",
+        "q": "Should I buy an OP-03 box to pull the Sogeking Manga?"
+      },
+      {
+        "a": "Buy OP-03 if the job is the Yellow debut set and the WANTED posters: its top ten totals $1,996.52 on the same dated TCGplayer read, and its Japanese box is $149.41. Buy OP-02 if the job is Paramount War and the Ace Manga at $1,700.00, which is nearly twice the Sogeking Manga. Either way, buy the box for the set and the single for the card: the [OP-02 best cards guide](/blog/op-02-best-cards/) ranks Paramount War the same way.",
+        "q": "OP-03 vs OP-02: which should I buy?"
+      }
+    ],
+    "h1": "OP-03 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-03 is the Sogeking comic parallel, OP03-122, at $919.56 on TCGplayer market as of November 19-20, 2026. It is 46.06% of the whole top ten, which totals $1,996.52, and four of the other nine are WANTED poster Specials that do not even carry OP03 numbers. On our shelf, November 20, 2026, the [OP-03 Japanese booster box](/product/op-03-pillars-of-strength-booster-box-japanese-one-piece-card/) is $149.41 and the [OP-03 English booster box](/product/op-03-pillars-of-strength-booster-box-english-one-piece-card/) is $491.03, and both English products have now fallen exactly 32.00% since November 5. Buy the box for the Yellow debut set, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-03 chase, buyers choosing between the Japanese and English box, and players who want the Yellow debut pool or the Nami leader. Who it is not for: anyone chasing one named card by opening boxes; anyone who needs Standard-legal cards, because OP-03 rotated out on April 1, 2026; and anyone buying a sealed box as a guaranteed investment, because the English box fell 32.00% in fifteen days."
+    ],
+    "metaDescription": "OP-03's 10 best cards ranked on TCGplayer market prices, Nov 19-20, 2026: the $919.56 Sogeking Manga, four WANTED posters, and the $149.41 Japanese box.",
+    "metaTitle": "OP-03 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one manga, four wanted posters, and a box that fell 32%",
+        "paragraphs": [
+          "The ranking below is one dated read. Every value is a TCGplayer market price as of November 19-20, 2026, from TCGPursuit's OP-03 page. The ten cards add to $1,996.52, and the top five are $1,725.30 of it. Sogeking (Alternate Art) (Manga) OP03-122 is $919.56, Monkey D. Luffy (Wanted Poster) ST01-012 is $374.86, and Nami (Alternate Art) OP03-040 is $260.92. Behind them come Donquixote Doflamingo (Wanted Poster) ST03-009 at $87.23, Charlotte Katakuri (Alternate Art) OP03-099 at $82.73, Portgas D. Ace (Alternate Art) OP03-001 at $80.36, and Kaido (Wanted Poster) ST04-003 at $68.58. The bottom three are Eustass Kid (Wanted Poster) OP01-051 at $59.53, Arlong (Alternate Art) OP03-022 at $32.09, and Iceburg (Alternate Art) OP03-058 at $30.66.",
+          "The split is the story. Only six of the ten carry OP03 numbers, together $1,406.32, or 70.44% of the top ten. The other four are WANTED poster Specials, together $590.20, or 29.56% of the top ten, and they carry ST01, ST03, ST04 and OP01 numbers, because the Specials are reprints of starter-deck and earlier-set cards with bounty-poster art. That is not an error: the WANTED posters are in the packs.",
+          "A collector chasing Sogeking buys the single, because the card is 6.15 Japanese boxes and no pull rate exists to price the chase any other way. A collector who wants the set's Yellow debut pool buys the Japanese box at $149.41, because the box is the cheapest way into the whole pool at once, and the [is OP-03 worth buying guide](/blog/is-op-03-worth-buying/) verdicts the same four products at the November 12 prices, before the second leg of the fall."
+        ]
+      },
+      {
+        "h": "The money layer: the board, divided",
+        "math": [
+          "OP-03 Japanese box per pack: $149.41 / 24 packs = $6.23 per pack",
+          "OP-03 Japanese box per card: $149.41 / 144 cards = $1.04 per card",
+          "OP-03 Japanese case per box: $1,434.64 / 12 boxes = $119.55 per box",
+          "OP-03 Japanese case saving: 12 x $149.41 = $1,792.92; $1,792.92 - $1,434.64 = $358.28 saved ($29.86 per box)",
+          "OP-03 English box per pack: $491.03 / 24 packs = $20.46 per pack",
+          "OP-03 English box per card: $491.03 / 288 cards = $1.70 per card",
+          "OP-03 English case per box: $4,611.40 / 12 boxes = $384.28 per box",
+          "OP-03 English case saving: 12 x $491.03 = $5,892.36; $5,892.36 - $4,611.40 = $1,280.96 saved ($106.75 per box)",
+          "OP-03 English vs Japanese box gap: $491.03 - $149.41 = $341.62 per box; $491.03 / $149.41 = 3.29x",
+          "OP-03 Japanese repricing: $175.78 - $149.41 = $26.37; $26.37 is 15.00% of $175.78",
+          "OP-03 Japanese case repricing: $1,687.81 - $1,434.64 = $253.17; $253.17 is 15.00% of $1,687.81",
+          "OP-03 English repricing: $722.10 - $491.03 = $231.07; $231.07 is 32.00% of $722.10",
+          "OP-03 English case repricing: $6,781.47 - $4,611.40 = $2,170.07; $2,170.07 is 32.00% of $6,781.47",
+          "OP-03 Japanese box vs MSRP: 24 packs x 198 yen = 4,752 yen; 4,752 / 158.74 yen per dollar = $29.94; $149.41 / $29.94 = 4.99x",
+          "OP-03 English box vs MSRP: 24 packs x $4.19 = $100.56; $491.03 / $100.56 = 4.88x",
+          "OP-03 top 10 total: $919.56 + $374.86 + $260.92 + $87.23 + $82.73 + $80.36 + $68.58 + $59.53 + $32.09 + $30.66 = $1,996.52",
+          "OP-03 top 5 total: $919.56 + $374.86 + $260.92 + $87.23 + $82.73 = $1,725.30",
+          "OP-03 four WANTED posters total: $374.86 + $87.23 + $68.58 + $59.53 = $590.20; $590.20 / $1,996.52 = 29.56% of the top 10",
+          "OP-03 six OP03-numbered total: $1,996.52 - $590.20 = $1,406.32; $1,406.32 / $1,996.52 = 70.44% of the top 10",
+          "Sogeking Manga against the boxes: $919.56 / $149.41 = 6.15 Japanese boxes; $919.56 / $491.03 = 1.87 English boxes",
+          "OP-03 top 10 against the boxes: $1,996.52 / $149.41 = 13.36 Japanese boxes; $1,996.52 / $491.03 = 4.07 English boxes",
+          "OP-03 English box against the market box: $491.03 - $488.22 = $2.81 above market",
+          "OP-03 English market move: $493.28 - $488.22 = $5.06; $5.06 is 1.03% of $493.28",
+          "Sogeking Manga Japanese raw ask: 60,000 yen / 158.74 yen per dollar = $377.98; $377.98 / $149.41 = 2.53 Japanese boxes",
+          "OP-03 Japanese box against the Tokyo listing: $149.41 - $93.10 = $56.31 above the 14,779 yen listing",
+          "Sogeking alternate art seven-day move: $23.35 / 0.937 = $24.92 a week earlier",
+          "Kid WANTED seven-day move: $59.53 / 0.919 = $64.78 a week earlier",
+          "Kalifa seven-day move: $13.57 / 0.942 = $14.41 a week earlier",
+          "OP-03 top 3 same cards since November 4: $919.56 + $260.92 + $82.73 = $1,263.21; $1,263.21 - $1,256.75 = $6.46",
+          "Sogeking Manga against its alternate art print: $919.56 / $23.35 = 39.38x"
+        ],
+        "paragraphs": [
+          "All four OP-03 products fell between November 5 and November 20, 2026, but they did not fall together. The Japanese pair fell exactly 15.00% in one leg: the box from $175.78 to $149.41 and the case from $1,687.81 to $1,434.64, both between November 12 and November 17. The English pair fell exactly 32.00% in two legs: the box from $722.10 to $577.68 by November 12, then to $491.03 by November 17, and the case from $6,781.47 to $5,425.18, then to $4,611.40. The prices here are stamped November 20, 2026, and the shelf has not moved since November 17.",
+          "The language gap is the widest in this run. The Japanese box is $149.41 for 24 packs of 6 cards, $6.23 a pack and $1.04 a card, against a 4,752 yen official box price that converts to $29.94 at 158.74 yen per dollar, so the Japanese box is 4.99 times its official price. The English box is $491.03 for 24 packs of 12 cards, $20.46 a pack and $1.70 a card, against a $100.56 MSRP box, so it is 4.88 times its MSRP. The English box costs $341.62 more, 3.29 times the Japanese box, and still gives the dearer card.",
+          "Both cases discount, and the English one discounts hardest. The [Japanese case](/product/op-03-pillars-of-strength-sealed-case-12-boxes-japanese-one-piece-card/) is $1,434.64, or $119.55 a box, against twelve singles at $1,792.92, so it saves $358.28 across the case, $29.86 a box. The [English case](/product/op-03-pillars-of-strength-sealed-case-12-boxes-english-one-piece-card/) is $4,611.40, or $384.28 a box, against twelve singles at $5,892.36, so it saves $1,280.96 across the case, $106.75 a box. The English case is the cheapest per-card route in the set at $1.33 a card."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view. The rows are the five ways to spend on OP-03, and the columns are what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The single row is the only row that buys the card instead of the chance: the Sogeking Manga at $919.56 is 6.15 Japanese boxes, and the Nami alternate art at $260.92 is 1.75 Japanese boxes. The [OP-03 investment guide](/blog/op-03-investment/) runs the same four products as a hold, with the case math as it stood on November 17, 2026."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$149.41",
+              "$6.23",
+              "Opening Pillars of Strength in Japanese",
+              "Chase not guaranteed; 4.99x MSRP"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,434.64",
+              "$119.55 a box",
+              "Japanese boxes in bulk; cheapest per card",
+              "$1,434.64 committed at once"
+            ],
+            [
+              "English box",
+              "$491.03",
+              "$20.46",
+              "English set; Yellow pool in English",
+              "4.88x MSRP; $2.81 above market"
+            ],
+            [
+              "English case",
+              "$4,611.40",
+              "$384.28 a box",
+              "English boxes in bulk",
+              "$4,611.40 at once; rotated set"
+            ],
+            [
+              "The single",
+              "$919.56 Sogeking Manga",
+              "n/a",
+              "Owning the chase card",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the split, and the market box",
+        "note": "From the Warehouse: the question we get most in chat about OP-03 is whether the English box is worth it now that it has fallen so far. Our answer starts with the market box, because it is the fact most guides cannot have yet: the English box trades at $488.22 on TickerMint's November 19 market read, and our shelf price is $491.03, $2.81 above it. The box is worth buying as the Yellow debut set, sealed or opened, and it is not worth buying as a way to own one named card. Say that first, and the rest of the numbers fall into place.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there. TCGPursuit ranks the top ten and tracks the seven-day moves, Samurai Sword Tokyo prices the chase on SNKRDUNK asks, and TickerMint prices the English box at $488.22 and the five priciest singles at $1,725. What none of them does is rank the top ten on one dated TCGplayer market read, separate the four WANTED posters from the OP03-numbered cards, and tie the cards to a box price you can actually pay today.",
+          "The gap this page owns is the split, and it owns it with two totals. The six OP03-numbered cards are $1,406.32, 70.44% of the top ten. The four WANTED posters are $590.20, 29.56% of the top ten. A buyer who trusts a blended list will overestimate the set's own chase by more than a quarter. The second gap is the pull rate. Bandai has never published pull rates for any One Piece set, so no expected-value math exists for the chase. The honest numbers are the breakevens: Sogeking is 6.15 Japanese boxes and 1.87 English boxes.",
+          "The third gap is the print. Every value on this page is a TCGplayer market price, and the Japanese box you buy from us holds Japanese cards, which trade on their own market. The Sogeking Manga's lowest raw ask on SNKRDUNK on September 24, 2026 was ¥60,000, about $377.98, which is 2.53 Japanese boxes, against the $919.56 TCGplayer market price, which is 6.15 boxes. An ask is not a sale, and a Japanese ask is not an English market price. The fourth gap is the repricing, which no guide has yet because it finished three days ago."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is one card. The Sogeking Manga, OP03-122, the set's comic parallel, is $919.56, and it is 46.06% of the top ten combined. It is also the card where the two markets disagree most: the PSA 10 ask on SNKRDUNK was ¥155,000, about $976.44, while the raw ask was ¥60,000, about $377.98. One card number, three different purchases. Sogeking has barely moved in sixteen days: it sat at $914.48 on November 4, and it is $919.56 now, up $5.08, or 0.56%.",
+          "The second rung is the WANTED posters and the Nami alternate art, and it is the rung that defines the set. Nami, OP03-040, is $260.92, up $0.02 from November 4, and Luffy, ST01-012, is $374.86, the highest WANTED poster and the second card in the whole list. Behind them, Doflamingo, ST03-009, is $87.23, Kaido, ST04-003, is $68.58, and Kid, OP01-051, is $59.53. The four posters together are $590.20, and Kid is the mover of the week in the wrong direction, down 8.10% in seven days, from about $64.78. All four already existed in starter decks and OP-01, brought back with bounty-poster art.",
+          "The third rung is the alternate-art leaders, and it falls off fast after Nami. Katakuri, OP03-099, is $82.73, up $1.36 from November 4, and Ace, OP03-001, is $80.36. Below them, Arlong, OP03-022, is $32.09 and Iceburg, OP03-058, is $30.66, together $62.75. Below the top ten, the Sogeking alternate-art print is $23.35, down 6.30% in seven days from about $24.92, and the Kalifa alternate art is $13.57, down 5.80% from about $14.41. The Sogeking base card was $13.07 on the November 4 check, and the Katakuri base card was $2.45. TickerMint counts 14 cards in the set worth more than a pack, at $20.34 a pack, and the five priciest singles total $1,725.30, which is 3.51 times the English box."
+        ]
+      },
+      {
+        "h": "The risk layer: the reprint, the raw price, and the $919 card",
+        "paragraphs": [
+          "The first risk is the reprint, and OP-03 carries it as four of its top ten. The WANTED posters are leaders and cards that already existed in starter decks and OP-01, and a reprint's premium is the new art, not scarcity of the card itself. A sealed box bought at a scarcity premium can fall as fast as it rose: the English box fell 20.00% in seven days in November, then 15.00% in five more, for 32.00% since November 5, and the Japanese box fell 15.00% beside it. Hold the set because it is the Yellow debut, not because the price only rises.",
+          "The second risk is the raw price itself. The $919.56 is a TCGplayer market price for a raw near-mint copy, not a sale you have made, and the card's price depends on condition, grading, and a buyer. A raw copy bought sight unseen carries condition risk, and a graded copy carries a premium on top of the raw price: the PSA 10 ask on SNKRDUNK was ¥155,000, about $976.44, against a raw ask of ¥60,000, about $377.98. The third risk is rotation: OP-03 rotated out of Standard on April 1, 2026, so a player who buys the box to compete has bought the wrong product, and the Nami leader needs a ban-list check before any deck is built around it.",
+          "The fourth risk is the reseal: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand. The fifth risk is the opened-box math: a November 1, 2026 box-value report prices a typical opened English box at $50.19 against a $499.05 sealed box, with 3% of boxes beating their sealed price, so opening is a loss on average. The sixth risk is the seven-day direction: Kid fell 8.10% and the Sogeking alternate-art print fell 6.30% in a week while the Manga rose 0.56%."
+        ]
+      },
+      {
+        "h": "Context: 127 cards, two languages, and the Yellow debut",
+        "paragraphs": [
+          "Pillars of Strength is the set where One Piece found its fourth colour: the third main booster set, which introduced Yellow as a playable colour, carried the four WANTED poster Specials, and put the Sogeking comic parallel at the top of the chase. It was released in Japan on February 11, 2023 and in English on June 30, 2023, and it is out of print in both languages. The official product page lists 127 card types: 8 leaders, 45 Commons, 32 Uncommons, 26 Rares, 10 Super Rares, 2 Secret Rares, and 4 Specials.",
+          "The Japanese box divides cleanly to $6.23 a pack and $1.04 a card. The English pack holds 12 cards at $4.19, and the English box divides to $20.46 a pack and $1.70 a card. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all the Japanese boxes to per-pack prices, and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) ranks the English boxes the same way. The [OP-03 Pillars of Strength buyers guide](/blog/op-03-pillars-of-strength-buyers-guide/) priced the same four products on November 5, before either repricing."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Sogeking Manga is 6.15 Japanese boxes and 1.87 English boxes, and no pull rate exists to price the chase any other way. It is not for anyone who needs Standard-legal cards, because OP-03 rotated out on April 1, 2026. It is not for anyone building around the Nami leader without checking the ban list first. It is not for anyone who wants a cheap first box, because the Japanese box is $149.41 and the English box is $491.03. And it is not for anyone who treats a sealed box as a guaranteed investment, because the English box fell 32.00% since November 5."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Sogeking Manga, own the four WANTED posters, own the Yellow debut pool, hold the set sealed, or own it in English.",
+          "If the job is Sogeking, buy the single: $919.56 raw on TCGplayer market as of November 19-20, 2026, or the PSA 10 near $976.44 on the October 7 Japanese ask, and check whether the listing is priced on the TCGplayer market or the Japanese ask, because the two differ by $541.58.",
+          "If the job is the Yellow debut pool, buy the Japanese box at $149.41, and treat the manga as a bonus, not the plan.",
+          "If the job is English, pay $491.03 for the box, or $4,611.40 for the case, and remember the English box sits $2.81 above the TickerMint market box.",
+          "If the job is a case, divide it first: Japanese saves $358.28 across the case, English saves $1,280.96.",
+          "Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-03 shelf moved 32.00% in fifteen days on the English side."
+        ],
+        "h": "Action layer: the OP-03 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 20, 2026, and the card values are TCGplayer market prices as of November 19-20, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles, and the [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks the heroines set's ten the same way."
+        ]
+      }
+    ],
+    "slug": "op-03-best-cards",
+    "takeaway": [
+      "The OP-03 top ten, on TCGplayer market prices as of November 19-20, 2026, totals $1,996.52, and the Sogeking Manga, OP03-122, is $919.56 of it, 46.06% of the whole list. Only six of the ten carry OP03 numbers; the other four are WANTED poster Specials numbered ST01, ST03, ST04 and OP01, together $590.20, 29.56% of the top ten.",
+      "On our shelf as of November 20, 2026, the Japanese box is $149.41 and the English box is $491.03, and both English products have now fallen exactly 32.00% since November 5 while the Japanese pair fell exactly 15.00%. The Sogeking Manga is 6.15 Japanese boxes and 1.87 English boxes. The Japanese case saves $358.28 across the case, and the English case saves $1,280.96.",
+      "It is worth buying as the Yellow debut set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus. The English box sits $2.81 above the TickerMint market box of $488.22, while the Japanese box sits $56.31 above a Tokyo listing of ¥14,779.",
+      "The ladder below the top ten falls off fast: Arlong is $32.09 and Iceburg is $30.66, and the Sogeking alternate-art print is $23.35. Kid fell 8.10% in seven days while the Sogeking Manga rose 0.56% in sixteen days. Fourteen cards in the set are worth more than a pack, and the five priciest singles total $1,725.30.",
+      "Companion guide: the [OP-02 best cards guide](/blog/op-02-best-cards/) ranks Paramount War the same way, with the $1,700.00 Ace Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the Extra Booster side of the same ranking, the [EB-03 best cards guide](/blog/eb-03-best-cards/) prices the Hancock SP at $1,436.07 against its box."
     ]
   },
   "op-03-investment": {
