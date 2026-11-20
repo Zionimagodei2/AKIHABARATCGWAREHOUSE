@@ -19279,6 +19279,182 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) divides all fourteen Fusion World cases at November 19 prices, from FB04 at $90.61 to SB01 at $1,906.13 per box."
     ]
   },
+  "eb-01-best-cards": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "Yes, on the only dated market read that covers all 80 versions. TCGPursuit's TCGplayer market prices as of November 19, 2026 put the Chopper Manga alternate art, EB01-006, at $2,999.99, and InkSight's November 19, 2026 ranking agrees to the cent. The $405.19 figure still circulating comes from a card list last updated in June 2026, and PriceCharting's sold listings show the card trading at $2,999.99 on TCGplayer on June 24, 2026 and at $3,975.99 on August 28, 2026, so the $405 figure was stale when it was printed. A PSA 10 copy carried a $6,675 verified sale on eBay on June 21, 2026, which is 50.65 Japanese boxes.",
+        "q": "Is the EB-01 Chopper Manga really worth $2,999.99?"
+      },
+      {
+        "a": "No, not as a plan. Bandai has never published pull rates for any One Piece set, and Pullnomics states plainly that Extra Boosters have no usable English pull-rate figures at all, so no honest expected-value math exists for the chase. The community estimate puts the Manga Rare at roughly 1 in 1,150 to 3,450 packs, which is 48 to 144 boxes. The breakeven arithmetic is the honest substitute: the card is 22.77 Japanese boxes at $131.78, or 5.58 English boxes at $537.61. Buy the single if the card is the job, or buy the box to open Memorial Collection and treat the chase as a bonus.",
+        "q": "Should I buy an EB-01 box to pull the Chopper Manga?"
+      },
+      {
+        "a": "The products are different in three ways. The English box holds 24 packs of 12 cards, 288 cards, at $22.40 a pack, while the Japanese box holds 24 packs of 6 cards, 144 cards, at $5.49 a pack, and the Japanese page prints no packs-per-box figure, so the 24-pack count is the community figure, not an official one. The English box trades at $875.49 on TCGplayer market as of November 19, 2026, so our $537.61 is $337.88 under market, while the Japanese box at $131.78 is 3.98 times its ¥5,280 MSRP. And Japanese cards are generally not legal at official events outside Asia, so a player who buys Japanese to compete has bought the wrong product at a good price.",
+        "q": "Why is the English EB-01 box $537.61 when the Japanese box is $131.78?"
+      }
+    ],
+    "h1": "EB-01 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: one card is the set, and nine cards are the rest of it. The Chopper Manga alternate art, EB01-006, is $2,999.99 on TCGplayer market as of November 19, 2026, which is 87.72% of the whole top ten combined, and the next nine cards together are $420.01. On our shelf, November 20, 2026, the [EB-01 Japanese booster box](/product/eb-01-memorial-collection-booster-box-japanese-one-piece-card/) is $131.78 and the [EB-01 English booster box](/product/eb-01-memorial-collection-extra-booster-box-english-one-piece-card/) is $537.61, after every EB-01 product fell exactly 15% since November 12. Buy the box for the set, buy the single for the card.",
+      "Who this is for: collectors ranking the EB-01 chase, buyers choosing between the Japanese and English box at the new prices, and players who want the set's competitive pieces, Mr.2 and Flampe, at known prices. Who it is not for: anyone chasing one named card by opening boxes, who should buy the single; anyone who needs English cards for official play outside Asia; and anyone buying a Japanese case for the discount, because the case costs $0.92 more than twelve singles."
+    ],
+    "metaDescription": "EB-01's 10 best cards ranked on TCGplayer market prices, Nov 19, 2026: the $2,999.99 Chopper Manga against the $131.78 Japanese box.",
+    "metaTitle": "EB-01 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one card is the set, nine cards are the rest",
+        "paragraphs": [
+          "The ranking below is a single dated read, not a blend of old lists. Every value is a TCGplayer market price as of November 19, 2026, from TCGPursuit's EB-01 page, which prices all 80 versions of the set, and InkSight's November 19, 2026 ranking agrees on the top card to the cent. The ten cards add to $3,420.00, and the Chopper Manga alternate art alone is $2,999.99 of it. The second card, the Chopper alternate art without the manga treatment, is $102.63, and the third, the Mr.2 alternate art, is $101.21. After the top three, no card in the set clears $50.",
+          "The order matters because the set is lopsided in a way the older lists hide. The lists still circulating quote the Chopper Manga near $405.19, from a page last updated in June 2026, or at $627.57, from a May 2024 guide, and both are wrong now: PriceCharting's sold listings show the card at $2,999.99 on TCGplayer on June 24, 2026 and at $3,975.99 on August 28, 2026, so the $405 figure was stale when printed. The rest of the top ten, from the Oden alternate art at $46.90 down to the base Chopper Super Rare at $19.89, is the real second tier, and nothing else above $20 except the manga.",
+          "What the ranking means depends on which buyer you are. A collector chasing the manga buys the single, because the card is 22.77 Japanese boxes and no pull rate exists to price the chase any other way. A collector who wants the set's alternate arts buys the Japanese box at $131.78, because the nine cards below the manga total $420.01, which is 3.19 Japanese boxes. A player buys neither for the chase: the competitive pieces are the Mr.2 Secret Rare and the Charlotte Flampe, priced below. The [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) verdicts the same four products at the old prices."
+        ]
+      },
+      {
+        "h": "The money layer: the board, divided",
+        "math": [
+          "EB-01 Japanese box per pack: $131.78 / 24 packs = $5.49 per pack",
+          "EB-01 Japanese box per card: $131.78 / 144 cards = $0.92 per card",
+          "EB-01 Japanese case per box: $1,582.28 / 12 boxes = $131.86 per box",
+          "EB-01 Japanese case vs singles: 12 x $131.78 = $1,581.36 singles; case $1,582.28, costs $0.92 MORE across the case ($0.08 per box)",
+          "EB-01 English box per pack: $537.61 / 24 packs = $22.40 per pack",
+          "EB-01 English box per card: $537.61 / 288 cards = $1.87 per card",
+          "EB-01 English box vs TCGplayer market: $875.49 - $537.61 = $337.88 under market; $537.61 is 61.41% of the market price",
+          "EB-01 English box vs MSRP: 24 x $4.49 = $107.76; $537.61 / $107.76 = 4.99x",
+          "CONDITIONAL, NOT CLAIMED: if the English case held 12 boxes, 12 x $537.61 = $6,451.32 singles vs $5,806.85 case, saving $644.47 ($53.71 per box)",
+          "EB-01 Japanese vs English box gap: $537.61 - $131.78 = $405.83 per box; $537.61 / $131.78 = 4.08x",
+          "EB-01 Japanese box MSRP: ¥5,280 / 159.34 yen per dollar = $33.14; $131.78 / $33.14 = 3.98x",
+          "EB-01 Japanese repricing: $155.04 - $131.78 = $23.26; $23.26 is 15.00% of $155.04",
+          "EB-01 English repricing: $632.48 - $537.61 = $94.87; $94.87 is 15.00% of $632.48",
+          "Chopper Manga against the Japanese box: $2,999.99 / $131.78 = 22.77x",
+          "Chopper Manga against the English box: $2,999.99 / $537.61 = 5.58x",
+          "Chopper Manga PSA 10 against the Japanese box: $6,675.00 / $131.78 = 50.65x",
+          "EB-01 top 10 total: $2,999.99 + $102.63 + $101.21 + $46.90 + $39.12 + $31.87 + $29.66 + $27.02 + $21.71 + $19.89 = $3,420.00",
+          "EB-01 set cost against the boxes: $3,608.13 / $131.78 = 27.38x Japanese boxes; $3,608.13 / $537.61 = 6.71x English boxes"
+        ],
+        "paragraphs": [
+          "The first fact on the board is the repricing, because it changes every number on this page. All four EB-01 products fell exactly 15% between November 12 and November 20, 2026: the Japanese box from $155.04 to $131.78, the English box from $632.48 to $537.61, the Japanese case from $1,861.50 to $1,582.28, and the English case from $6,831.59 to $5,806.85. A uniform 15% move across both languages is a shelf repricing, not a market move on one product. The prices here are stamped November 20, 2026.",
+          "The second fact is the language gap, and it is wider than the pack counts explain. The Japanese box is $131.78 for 24 packs of 6 cards, $5.49 a pack and $0.92 a card, against a ¥5,280 MSRP that converts to $33.14 at 159.34 yen per dollar on November 20, 2026, so the Japanese box is 3.98 times its MSRP. The English box is $537.61 for 24 packs of 12 cards, $22.40 a pack and $1.87 a card, against a $107.76 MSRP, so it is 4.99 times its MSRP, and it is $337.88 under the $875.49 TCGplayer market price for the English box as of November 19, 2026.",
+          "The third fact is the case paradox, which survives the repricing. The [Japanese case](/product/eb-01-memorial-collection-sealed-case-12-boxes-japanese-one-piece-card/) is $1,582.28, or $131.86 a box, against twelve singles at $1,581.36, so the case costs $0.92 more than the singles, $0.08 a box. The [English case](/product/eb-01-memorial-collection-sealed-case-english-one-piece-card/) is $5,806.85, and its per-box figure is conditional: no listing prints the box count, so the $644.47 saving holds only if it holds twelve boxes, at $53.71 a box. Confirm the count before you pay for the discount."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view. The rows are the five ways to spend on EB-01, and the columns are the dimensions that decide it: what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The single row is the only row that buys the card instead of the chance: the Chopper Manga at $2,999.99 is 22.77 Japanese boxes, and the next card down, the Chopper alternate art at $102.63, is less than one Japanese box."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$131.78",
+              "$5.49",
+              "Opening Memorial Collection in Japanese",
+              "Chase not guaranteed; JP not legal outside Asia"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,582.28",
+              "$131.86 a box",
+              "Sealed run; group split",
+              "Costs $0.92 MORE than 12 singles"
+            ],
+            [
+              "English box",
+              "$537.61",
+              "$22.40",
+              "English set, $337.88 under market",
+              "4.99x MSRP; chase not guaranteed"
+            ],
+            [
+              "English case",
+              "$5,806.85",
+              "$483.90 a box if 12",
+              "English boxes in bulk",
+              "Box count unprinted; $5,806.85 at once"
+            ],
+            [
+              "The single",
+              "$2,999.99 Chopper Manga",
+              "n/a",
+              "Owning the chase card",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the date, the box, and the missing pull rate",
+        "note": "From the Warehouse: the question we get most in chat about EB-01 is whether the English box is worth it now that it has fallen so far. Our answer starts with the repricing, because it is the fact most guides cannot have yet: all four EB-01 products fell exactly 15% in eight days, and the English box is now $337.88 under its TCGplayer market price. The box is worth buying as the first Extra Booster, sealed or opened, and it is not worth buying as a way to own one named card. Say that first, and the rest of the numbers fall into place.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there. The Samurai Sword guide ranks the top ten with March 2026 Japanese buyback figures, the japan-figure list ranks fifteen cards with June 2026 figures, and the LINEGAMES top ten prices the same cards with May 2024 figures. What none of them does is date the ranking to this week, tie the cards to a box price you can actually pay today, or say which print the prices belong to. Their Chopper Manga figures run from $405.19 to $666, and the card has traded near $3,000 since June, so a buyer who trusts any of them underprices the chase.",
+          "The gap this page owns is the one no list can fill honestly: the pull rate. Bandai has never published pull rates for any One Piece set, and Pullnomics states that Extra Boosters have no usable English pull-rate figures at all, so no expected-value math exists for the chase, and any article that gives one is inventing it. The community estimate puts the Manga Rare at roughly 1 in 1,150 to 3,450 packs, which is 48 to 144 boxes. The honest numbers are the breakevens: the card is 22.77 Japanese boxes and 5.58 English boxes.",
+          "The second gap is the print. Every value on this page is an English-print TCGplayer market price, and the Japanese box you buy from us holds Japanese cards, which trade on their own market. The third gap is the repricing, which no guide has yet because it happened eight days ago. A verdict written from November 12 prices would overstate the Japanese box by $23.26 and the English box by $94.87, which is why this page re-divides the shelf on its own date and stamps it."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is one card. The Chopper Manga alternate art, EB01-006, a Super Rare with manga panels, is $2,999.99, and it is 87.72% of the top ten combined. The Premium Booster reprint of the same card, in PRB-01, is $3,000.00 on the same November 19, 2026 read, one cent above the original, so the reprint did not undercut the original the way reprints usually do. A buyer who wants the manga should check which printing the listing is, because the two cost the same and are not the same card.",
+          "The second rung is two cards just above $100. The Chopper alternate art, EB01-006 without the manga panels, is $102.63, and the Mr.2 alternate art, EB01-061, the set's only Secret Rare in alternate art, is $101.21. Mr.2 is the set's competitive anchor as well as its second chase: the sole Secret Rare, a multi-format staple in Red Purple Trafalgar Law decks. The base Mr.2 Secret Rare, without the alternate art, is $14.20.",
+          "The third rung is five alternate arts between $21.71 and $46.90. The Oden Leader alternate art, EB01-001, is $46.90, the Laboon alternate art, EB01-048, is $39.12, the Hiyori alternate art, EB01-013, is $31.87, the Mr.1 alternate art, EB01-027, is $29.66, and the Hannyabal Leader alternate art, EB01-021, is $27.02, with the Brook alternate art, EB01-046, at $21.71 just below them. The base Chopper Super Rare closes the ten at $19.89. Below the ten, the set falls off fast: the Charlotte Flampe alternate art is $13.20 and the Kid and Killer alternate art is $12.33. The [One Piece Japanese special set guide](/blog/one-piece-japanese-special-set/) prices EB-01 beside EB-02, EB-03 and EB-04 on the same shelf."
+        ]
+      },
+      {
+        "h": "The risk layer: the reprint, the raw price, and the $3,000 card",
+        "paragraphs": [
+          "The first risk is the reprint, and EB-01 carries it in both directions. The Premium Booster reprint of the Chopper Manga costs $3,000.00, essentially the same as the original, so the reprint has not undercut the original yet, and the card's premium is scarcity. A sealed box bought at a scarcity premium can fall as fast as it rose: the English box fell 15% in eight days, and the Japanese box fell 15% beside it. Sealed holders should hold the set because it is the first Extra Booster, not because the price only rises.",
+          "The second risk is the raw price itself. The $2,999.99 is a TCGplayer market price for a raw near-mint copy, not a sale you have made, and the card's price depends on condition, grading, and a buyer. A raw copy bought sight unseen carries condition risk, and a graded copy carries a premium on top of the raw price: the PSA 10 verified sale at $6,675 on June 21, 2026 is the graded end of the same card, 50.65 Japanese boxes.",
+          "The third risk is legality, restated plainly: Japanese cards are generally not legal at official events outside Asia, so a player who buys Japanese to compete has bought the wrong product. The fourth risk is the reseal: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand. The fifth risk is the English case count: the $644.47 saving holds only if the case holds twelve boxes, a count no listing prints, so confirm the count before you pay for the discount."
+        ]
+      },
+      {
+        "h": "Context: 61 cards, two languages, and the first Extra Booster",
+        "paragraphs": [
+          "Memorial Collection is the set where the Extra Booster line begins: the first side set in the One Piece Card Game, released in Japan on January 27, 2024 and in English on May 3, 2024, built to strengthen the decks that already existed rather than to start a new story chapter. The official Japanese page prints 61 card types, 3 Leaders, 28 Commons, 21 Rares, 8 Super Rares, and 1 Secret Rare, with 80 versions once alternate arts and parallels are counted, and three new multicolour Leaders: Oden in red and green, Hannyabal in blue and purple, and Kyros in black and yellow.",
+          "The language gap is the context that decides the purchase. The Japanese pack holds 6 cards at ¥220, or $1.38 at 159.34 yen per dollar, and the official page prints no packs-per-box figure for the Japanese product, so the 24-pack count is the community figure, and the box holds 144 cards on it. The English pack holds 12 cards at $4.49, and the English page prints 24 packs per box, so the English box divides cleanly to $22.40 a pack and $1.87 a card. The [EB-01 Japanese vs English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) priced the same four products on November 3."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Chopper Manga is 22.77 Japanese boxes and 5.58 English boxes, and no pull rate exists to price the chase any other way. It is not for anyone who needs English cards for official play outside Asia, because Japanese cards are generally not legal at official events outside Asia. It is not for anyone buying a Japanese case for the discount, because the case costs $0.92 more than twelve singles. It is not for anyone buying the English case for the discount without confirming the box count, because the count is unprinted. And it is not for anyone who treats a sealed box as a guaranteed investment, because the shelf fell 15% in eight days."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Chopper Manga, own the set's alternate arts, hold the first Extra Booster sealed, or own it in English.",
+          "If the job is the manga, buy the single: $2,999.99 raw on TCGplayer market as of November 19, 2026, or the PSA 10 near $6,675, and check whether the listing is the EB-01 original or the PRB-01 reprint, because both cost about $3,000.",
+          "If the job is the alternate arts, buy the Japanese box at $131.78, and treat the manga as a bonus, not the plan.",
+          "If the job is English, pay $537.61 for the box, or $5,806.85 for the case, and confirm the case holds twelve boxes before you pay for the discount.",
+          "If the job is a case, divide it first: Japanese costs $0.92 more than twelve singles, English saves $644.47 if it holds twelve.",
+          "Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole EB-01 shelf moved 15% in eight days."
+        ],
+        "h": "Action layer: the EB-01 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 20, 2026, and the card values are TCGplayer market prices as of November 19, 2026, so re-divide before you pay if either side has moved. Our [best One Piece Japanese special set guide](/blog/best-one-piece-japanese-special-set/) ranks EB-01 beside the other Extra Boosters, and the [OP-01 best cards guide](/blog/op-01-best-cards/) ranks the founding set's ten the same way, with the Manga Shanks against its box."
+        ]
+      }
+    ],
+    "slug": "eb-01-best-cards",
+    "takeaway": [
+      "The EB-01 top ten, on TCGplayer market prices as of November 19, 2026, totals $3,420.00, and the Chopper Manga alternate art, EB01-006, is $2,999.99 of it, 87.72% of the whole list. The next two cards, the Chopper alternate art at $102.63 and the Mr.2 alternate art at $101.21, are the only other cards above $100, and nothing below the top three clears $50.",
+      "On our shelf as of November 20, 2026, the Japanese box is $131.78 and the English box is $537.61, and all four EB-01 products fell exactly 15% since November 12. The Chopper Manga is 22.77 Japanese boxes and 5.58 English boxes, and the English box is $337.88 under its $875.49 TCGplayer market price. The Japanese case costs $0.92 more than twelve singles, and the English case saves $644.47 only if it holds twelve boxes, a count no listing prints.",
+      "It is worth buying as the first Extra Booster, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, and Pullnomics states that Extra Boosters have no usable English pull-rate figures at all, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "The $405.19 Chopper Manga figure still circulating is stale: the card has traded near $3,000 since June 2026, with TCGplayer sales at $2,999.99 on June 24 and $3,975.99 on August 28, and a PSA 10 verified sale at $6,675 on June 21, 2026. Every value on this page is an English-print price, and the Japanese box holds Japanese cards, which trade on their own market.",
+      "New this cycle: the [OP-01 best cards guide](/blog/op-01-best-cards/) ranks Romance Dawn's ten the same way, with the $3,998.74 Manga Shanks against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+    ]
+  },
   "eb-01-investment": {
     "datePublished": "2026-11-16",
     "faqs": [
@@ -19461,7 +19637,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "EB-01 Memorial Collection is a good sealed investment in English at $537.61 a box, $337.88 below the $875.49 TCGplayer market price of November 16, 2026, and a bad one in Japanese at $131.78, or 3.98 times the ¥5,280 official price, with the Japanese case charging a $0.92 premium over twelve singles.",
       "All four products fell exactly 15 percent between November 12 and November 16, 2026, from $155.04, $1,861.50, $632.48, and $6,831.59: a shelf repricing, not a market crash, after a 20 percent English cut in the nine days before that.",
-      "The Chopper manga, EB01-006, is the whole chase: $907 raw in Japanese and $3,091 raw in English on PackSpy as of November 16, 2026, with a PSA 10 Japanese copy selling for $6,675 on eBay on June 21, 2026."
+      "The Chopper manga, EB01-006, is the whole chase: $907 raw in Japanese and $3,091 raw in English on PackSpy as of November 16, 2026, with a PSA 10 Japanese copy selling for $6,675 on eBay on June 21, 2026.",
+      "For the cards inside the box, ranked and priced on the November 20 shelf: the [EB-01 best cards](/blog/eb-01-best-cards/) are one $2,999.99 chase and nine cards that total $420.01."
     ]
   },
   "eb-01-japanese-vs-english-which-to-buy": {
@@ -23627,7 +23804,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the first Extra Booster, sealed or opened, and it is not worth buying as a way to own one named card. The Chopper Manga alternate art is listed near $405.19 raw, which is 2.61 Japanese boxes, and a PSA 10 copy carried a $6,675 verified sale, which is 43.05 boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is not worth buying for the Japanese case discount, because there is none: the case costs more than the singles. It is not worth buying in Japanese for official play outside Asia, because Japanese cards are generally not legal at official events outside Asia.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of October 11 to November 11, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [is EB-02 worth buying guide](/blog/is-eb-02-worth-buying/) prices the Anime 25th Collection the same way, with its own 20% English drop. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+      "New this cycle: the [is EB-02 worth buying guide](/blog/is-eb-02-worth-buying/) prices the Anime 25th Collection the same way, with its own 20% English drop. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the cards themselves, ranked and priced on the November 20 shelf: the [EB-01 best cards](/blog/eb-01-best-cards/) are one $2,999.99 chase and nine cards that total $420.01."
     ]
   },
   "is-eb-02-worth-buying": {
@@ -25866,7 +26044,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, and the marketplace references as of October 30 to November 11, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
       "New this cycle: the [best Akihabara card shop guide](/blog/best-akihabara-card-shop/) ranks the Tokyo trip against ordering sealed boxes from Japan, with the same divided shelf prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
       "New this cycle: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) prices the Memorial Collection the same way, with its own 20% English drop and the Chopper Manga against the box.",
-      "New this cycle: the [is OP-02 worth buying guide](/blog/is-op-02-worth-buying/) prices Paramount War the same way, with its own 20% English drop and the Ace Manga against the box."
+      "New this cycle: the [is OP-02 worth buying guide](/blog/is-op-02-worth-buying/) prices Paramount War the same way, with its own 20% English drop and the Ace Manga against the box.",
+      "For the cards themselves, ranked and priced on the November 20 shelf: the [OP-01 best cards](/blog/op-01-best-cards/) are one $3,998.74 manga, three Leader parallels, and a $504.19 expected value per English box."
     ]
   },
   "is-op-02-worth-buying": {
@@ -43219,6 +43398,193 @@ export const POSTS: Record<string, BlogPost> = {
       "The Dragon Ball side of the special-set board is the [Dragon Ball Fusion World special set guide](/blog/dragon-ball-fusion-world-special-set/): SB01 and SB02 after the Japanese boxes sold out, priced as of November 20, 2026."
     ]
   },
+  "op-01-best-cards": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "Yes, on the only dated market read that covers the whole set. TCGPursuit's TCGplayer market prices as of November 19, 2026 put the Shanks Manga parallel, OP01-120, at $3,998.74, and InkSight's November 19, 2026 ranking agrees to the cent, with the Luffy Leader parallel behind it at $1,042.78. But check which Shanks you are buying: the PRB-01 Premium Booster reprint of the same card is $1,221.56 on TCGplayer market as of November 3, 2026, which is 30.55% of the original, so a listing that does not name the printing is not a price you can trust.",
+        "q": "Is the OP-01 Manga Shanks really worth $3,998.74?"
+      },
+      {
+        "a": "Only if you understand what the math is and is not. On community per-pack odds from November 8, 2026, the top ten chase cards carry $504.19 of expected value per English box, which is 1.33 times the $377.71 box price, and the Shanks Manga alone carries $383.88 of it at roughly 1 in 250 packs. But those odds are community estimates, Bandai has never published pull rates, and the manga is still a 1-in-250-pack card, so a single box usually returns the mid-tier parallels, not the grail. Buy the single if the card is the job, or buy the box to open the founding set and treat the chase as a bonus.",
+        "q": "Should I buy an OP-01 box to pull the Manga Shanks?"
+      },
+      {
+        "a": "The products are different in three ways. The English box holds 24 packs of 12 cards, 288 cards, at $15.74 a pack, while the Japanese box holds 24 packs of 6 cards, 144 cards, at $8.45 a pack. The English box trades at $1,332.47 on TCGplayer market as of November 19, 2026, so our $377.71 is $954.76 under market, while the Japanese box at $202.68 is 6.80 times its ¥4,752 MSRP. And Japanese cards are generally not legal at official events outside Asia, and Romance Dawn rotated out of Standard on April 1, 2026, with only four of its card numbers still legal, so a player who buys either box to compete in Standard has bought the wrong product.",
+        "q": "Why is the English OP-01 box $377.71 when the Japanese box is $202.68?"
+      }
+    ],
+    "h1": "OP-01 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the Manga Shanks is the set, the three Leader parallels are the second tier, and everything else is the long tail. The Shanks Manga parallel, OP01-120, is $3,998.74 on TCGplayer market as of November 19, 2026, which is 53.42% of the whole top ten combined. On our shelf as of November 20, 2026, the [OP-01 Japanese booster box](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card/) is $202.68 and the [OP-01 English booster box](/product/op-01-romance-dawn-booster-box-1st-print-white-bottom-english-one-piece-card/) is $377.71, and every OP-01 product fell exactly 15% since November 11. Buy the box for the founding set, buy the single for the card.",
+      "Who this is for: collectors ranking the Romance Dawn chase before they spend, and buyers choosing between the Japanese and English box at the new prices. Who it is not for: anyone chasing one named card by opening boxes, who should buy the single; anyone who needs Standard-legal cards, because only four OP-01 numbers are still legal; and anyone buying the English box without checking the print wave."
+    ],
+    "metaDescription": "OP-01's 10 best cards ranked on TCGplayer market prices, Nov 19, 2026: the $3,998.74 Manga Shanks against the $202.68 Japanese box.",
+    "metaTitle": "OP-01 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one manga, three leaders, and the long tail",
+        "paragraphs": [
+          "The ranking below is a single dated read, not a blend of old lists. Every value is a TCGplayer market price as of November 19, 2026, from TCGPursuit's Romance Dawn page, which prices all 156 versions of the set, and InkSight's November 19, 2026 ranking agrees on the top card to the cent. The ten cards add to $7,485.32, and the Shanks Manga parallel alone is $3,998.74 of it. Behind it sit the three Leader parallels that every collector knows by number: Luffy OP01-003 at $1,042.78, Zoro OP01-001 at $629.47, and Law OP01-002 at $463.37. The fifth card, the Nami parallel at $461.20, is a Rare that outprices two of the three Leader parallels.",
+          "The order matters because the set is top-heavy in a way the older lists understate. The week to November 19 moved the tail: the Boa Hancock parallel fell 8.1% in seven days to $100.84 and dropped out of the ten, and the Dracule Mihawk parallel fell 19% to $28.76. The ten as they stand are Shanks, the three Leader parallels, Nami, the two Super Rare parallels Zoro OP01-025 at $231.56 and Luffy OP01-024 at $220.40, the Doflamingo Leader parallel at $198.30, and the two Secret Rare parallels Crocodile OP01-062 at $120.40 and Kaido OP01-061 at $119.10.",
+          "What the ranking means depends on which buyer you are. A collector chasing the manga buys the single, because the card is 19.73 Japanese boxes and 10.59 English boxes, and the reprint in PRB-01 costs $1,221.56, so the original commands its price on the printing, not just the art. A collector who wants the Leader parallels buys the English box at $377.71, because the three together are $2,135.62. A player buys neither for Standard: Romance Dawn rotated out on April 1, 2026, and only four of its card numbers are still legal. The [is OP-01 worth buying guide](/blog/is-op-01-worth-buying/) verdicts the same four products at the old prices."
+        ]
+      },
+      {
+        "h": "The money layer: the board, divided",
+        "math": [
+          "OP-01 Japanese box per pack: $202.68 / 24 packs = $8.45 per pack",
+          "OP-01 Japanese box per card: $202.68 / 144 cards = $1.41 per card",
+          "OP-01 Japanese case per box: $2,381.25 / 12 boxes = $198.44 per box",
+          "OP-01 Japanese case vs singles: 12 x $202.68 = $2,432.16 singles; case $2,381.25, saving $50.91 across the case ($4.24 per box)",
+          "OP-01 English box per pack: $377.71 / 24 packs = $15.74 per pack",
+          "OP-01 English box per card: $377.71 / 288 cards = $1.31 per card",
+          "OP-01 English box vs TCGplayer market: $1,332.47 - $377.71 = $954.76 under market; $377.71 is 28.35% of the market price",
+          "OP-01 English box vs MSRP: 24 x $4.19 = $100.56; $377.71 / $100.56 = 3.76x",
+          "OP-01 English case per box: $3,547.21 / 12 boxes = $295.60 per box",
+          "OP-01 English case vs singles: 12 x $377.71 = $4,532.52 singles; case $3,547.21, saving $985.31 across the case ($82.11 per box)",
+          "OP-01 Japanese vs English box gap: $377.71 - $202.68 = $175.03 per box; $377.71 / $202.68 = 1.86x",
+          "OP-01 Japanese box MSRP: ¥4,752 / 159.34 yen per dollar = $29.82; $202.68 / $29.82 = 6.80x",
+          "OP-01 Japanese repricing: $238.45 - $202.68 = $35.77; $35.77 is 15.00% of $238.45",
+          "OP-01 English repricing: $444.36 - $377.71 = $66.65; $66.65 is 15.00% of $444.36",
+          "Manga Shanks against the Japanese box: $3,998.74 / $202.68 = 19.73x",
+          "Manga Shanks against the English box: $3,998.74 / $377.71 = 10.59x",
+          "OP-01 top 10 total: $3,998.74 + $1,042.78 + $629.47 + $463.37 + $461.20 + $231.56 + $220.40 + $198.30 + $120.40 + $119.10 = $7,485.32",
+          "Shanks Manga expected value per English box: $383.88, from 24 packs at 1 in 250 packs and $3,998.74 a card",
+          "Luffy Leader parallel expected value per English box: $28.15, from 24 packs at 1 in 889 packs and $1,042.78 a card",
+          "Zoro Leader parallel expected value per English box: $17.01, from 24 packs at 1 in 888 packs and $629.47 a card",
+          "Law Leader parallel expected value per English box: $12.52, from 24 packs at 1 in 888 packs and $463.37 a card",
+          "Nami parallel expected value per English box: $12.90, from 24 packs at 1 in 858 packs and $461.20 a card",
+          "Zoro Super Rare parallel expected value per English box: $16.84, from 24 packs at 1 in 330 packs and $231.56 a card",
+          "Luffy Super Rare parallel expected value per English box: $16.03, from 24 packs at 1 in 330 packs and $220.40 a card",
+          "Doflamingo Leader parallel expected value per English box: $5.36, from 24 packs at 1 in 888 packs and $198.30 a card",
+          "Crocodile Secret Rare parallel expected value per English box: $5.78, from 24 packs at 1 in 500 packs and $120.40 a card",
+          "Kaido Secret Rare parallel expected value per English box: $5.72, from 24 packs at 1 in 500 packs and $119.10 a card",
+          "OP-01 top-10 chase expected value per English box: $504.19; $504.19 / $377.71 = 1.33x the box price",
+          "Manga Shanks reprint gap: $3,998.74 - $1,221.56 = $2,777.18; $1,221.56 is 30.55% of $3,998.74",
+          "OP-01 Japanese box vs SNKRDUNK ask: ¥41,000 / 159.34 yen per dollar = $257.31; $257.31 - $202.68 = $54.63 under the ask"
+        ],
+        "paragraphs": [
+          "The first fact on the board is the repricing, because it changes every number on this page. All four OP-01 products fell exactly 15% between November 11 and November 20, 2026: the Japanese box from $238.45 to $202.68, the English box from $444.36 to $377.71, the Japanese case from $2,801.47 to $2,381.25, and the English case from $4,173.19 to $3,547.21. A uniform 15% move across both languages is a shelf repricing, not a market move on one product. The prices here are stamped November 20, 2026.",
+          "The second fact is the language gap, and it runs the other way from EB-01. The Japanese box is $202.68 for 24 packs of 6 cards, $8.45 a pack and $1.41 a card, against a ¥4,752 MSRP that converts to $29.82 at 159.34 yen per dollar on November 20, 2026, so the Japanese box is 6.80 times its MSRP. The English box is $377.71 for 24 packs of 12 cards, $15.74 a pack and $1.31 a card, against a $100.56 MSRP, so it is 3.76 times its MSRP, and it is $954.76 under the $1,332.47 TCGplayer market price for the English box as of November 19, 2026.",
+          "The third fact is the case math, which favours the case in both languages for once. The [Japanese case](/product/op-01-romance-dawn-sealed-case-12-boxes-japanese-one-piece-card/) is $2,381.25, or $198.44 a box, against twelve singles at $2,432.16, saving $50.91 a case. The [English case](/product/op-01-romance-dawn-sealed-case-12-boxes-english-one-piece-car/) is $3,547.21, or $295.60 a box, against twelve singles at $4,532.52, saving $985.31 a case, and its title prints twelve boxes, so the saving is not conditional."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view. The rows are the five ways to spend on OP-01, and the columns are the dimensions that decide it: what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The single row is the only row that buys the card instead of the chance: the Manga Shanks at $3,998.74 is 19.73 Japanese boxes, and the reprint in PRB-01 is $1,221.56, so the original's premium is the printing."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$202.68",
+              "$8.45",
+              "Opening Romance Dawn in Japanese",
+              "Chase not guaranteed; JP not legal outside Asia"
+            ],
+            [
+              "Japanese case (12)",
+              "$2,381.25",
+              "$198.44 a box",
+              "Sealed run; group split",
+              "$2,381.25 at once; chase not guaranteed"
+            ],
+            [
+              "English box",
+              "$377.71",
+              "$15.74",
+              "English set, $954.76 under market",
+              "3.76x MSRP; check the print wave"
+            ],
+            [
+              "English case (12)",
+              "$3,547.21",
+              "$295.60 a box",
+              "English boxes in bulk",
+              "$3,547.21 at once; chase not guaranteed"
+            ],
+            [
+              "The single",
+              "$3,998.74 Manga Shanks",
+              "n/a",
+              "Owning the chase card",
+              "No sealed upside; reprint is $1,221.56"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the EV, the topper, and the print wave",
+        "note": "From the Warehouse: the question we get most in chat about OP-01 is whether the English box is worth it now that it has fallen so far. Our answer starts with the repricing, because it is the fact most guides cannot have yet: all four OP-01 products fell exactly 15% in nine days, and the English box is now $954.76 under its TCGplayer market price. The box is worth buying as the founding set, sealed or opened, and it is not worth buying as a way to own one named card. Say that first, and the rest of the numbers fall into place.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there, and they are good at the ranking. The RareCandy top ten ranks the same ten cards with October 2026 prices, the investment guide prices the set total at $8,314.25 on TCGplayer as of November 3, 2026, and the set overview prices the chase with October 30, 2026 snapshots. What none of them does is compute what the chase is worth per box against a box price you can actually pay today. The gap this page owns is that expected-value math, built on community per-pack odds from November 8, 2026: the top ten carry $504.19 of expected value per English box, which is 1.33 times the $377.71 box price, and the Shanks Manga alone carries $383.88 of it. The odds are community estimates, Bandai has never published pull rates, and the math is an estimate, not a promise.",
+          "The second gap is the box topper, which no list prices into the box at all. Every OP-01 box carries one parallel card drawn at random from six types as a box topper, on top of the 24 packs, and the topper is part of what the box returns. The third gap is the print wave: English OP-01 boxes came in two waves, blue for the first wave and white for the reprint, trading near $4.3K and $1.3K, and our box is titled 1st Print White Bottom. The fourth gap is the repricing, which no guide has yet because it happened nine days ago."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is one card. The Shanks Manga parallel, OP01-120, is $3,998.74, and it is 53.42% of the top ten combined. The PRB-01 reprint of the same card is $1,221.56, which is 30.55% of the original, so the original's $2,777.18 premium is the printing: the first print of the first manga. A buyer who wants the manga should check which printing the listing is, because the two cost $2,777.18 apart and are not the same card.",
+          "The second rung is the three Leader parallels, and they are the set's spine. Luffy OP01-003, card number 003 of the whole game, is $1,042.78, Zoro OP01-001, card number 001, is $629.47, and Law OP01-002 is $463.37, and the three together are $2,135.62. The fourth rung is the surprise: the Nami parallel, OP01-016, a Rare, at $461.20, ahead of the Doflamingo Leader parallel at $198.30 and both Super Rare parallels, Zoro OP01-025 at $231.56 and Luffy OP01-024 at $220.40.",
+          "The tail of the ten is the two Secret Rare parallels, Crocodile OP01-062 at $120.40 and Kaido OP01-061 at $119.10. Below the ten, the set falls off fast: the Boa Hancock parallel is $100.84 after an 8.1% fall in seven days, and the Mihawk parallel is $28.76 after a 19% fall. The [OP-01 investment guide](/blog/op-01-investment/) runs the same four products as a hold, and the [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) prices the reprint set that holds the cheaper Shanks."
+        ]
+      },
+      {
+        "h": "The risk layer: the reprint, the rotation, and the $4,000 card",
+        "paragraphs": [
+          "The first risk is the reprint, and OP-01 carries it harder than any set on the shelf. The PRB-01 reprint of the Manga Shanks is $1,221.56, which is 30.55% of the original, so a buyer who pays $3,998.74 for a listing that does not name the printing can lose $2,777.18 on the version alone. A sealed box bought at a scarcity premium can fall as fast as it rose: the English box fell 15% in nine days, and the Japanese box fell 15% beside it.",
+          "The second risk is the rotation. Romance Dawn rotated out of Standard on April 1, 2026, and only four of its card numbers are still Standard-legal: Nami OP01-016 and Shanks OP01-120, Killer OP01-039, and You Can Be My Samurai!!. A player who buys either box to compete in Standard has bought the wrong product. The third risk is the raw price itself. The $3,998.74 is a TCGplayer market price for a raw near-mint copy, not a sale you have made, and the card's price depends on condition, grading, and a buyer.",
+          "The fourth risk is the odds. The $504.19 expected value per English box is built on community per-pack odds, not on a published rate, and the Shanks Manga at roughly 1 in 250 packs means most boxes return the mid-tier parallels, not the grail. The fifth risk is the reseal: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand."
+        ]
+      },
+      {
+        "h": "Context: 121 cards, two languages, and the founding set",
+        "paragraphs": [
+          "Romance Dawn is the set where the One Piece Card Game begins: the first booster, released in Japan on July 22, 2022 and in English on December 2, 2022, built to power the first Starter Decks. The official Japanese page prints 121 card types, 8 Leaders, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, and 2 Secret Rares, with 33 parallel-art rows in the official card list and 27 parallel types on the product page, and every box carries one parallel card drawn at random from six types as a box topper.",
+          "The language gap is the context that decides the purchase. The Japanese pack holds 6 cards at ¥198, or $1.24 at 159.34 yen per dollar, and the Japanese box holds 24 packs, 144 cards. The English pack holds 12 cards at $4.19, and the English box holds 24 packs, 288 cards. Japanese cards are generally not legal at official events outside Asia, and Romance Dawn rotated out of Standard on April 1, 2026, so the Japanese box is a collector's buy in both senses. The [OP-01 Romance Dawn buyers guide](/blog/op-01-romance-dawn-buyers-guide/) runs the same set as a buying guide, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all twenty-four Japanese boxes the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Manga Shanks is 19.73 Japanese boxes and 10.59 English boxes, and the reprint is $1,221.56, so the original's premium is the printing. It is not for anyone who needs Standard-legal cards, because only four OP-01 numbers are still legal after the April 1, 2026 rotation. It is not for anyone buying the English box without checking the print wave, because the white-bottom and blue-bottom boxes trade far apart. It is not for anyone who treats a sealed box as a guaranteed investment, because the whole OP-01 shelf fell exactly 15% in nine days, and sealed prices move."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Manga Shanks, own the Leader parallels, hold the founding set sealed, or own it in English.",
+          "If the job is the manga, buy the single: $3,998.74 raw on TCGplayer market as of November 19, 2026, or the PRB-01 reprint at $1,221.56, and check which printing the listing is, because the two are $2,777.18 apart.",
+          "If the job is the Leader parallels, buy the English box at $377.71, and treat the manga as a bonus, not the plan.",
+          "If the job is Japanese, pay $202.68 for the box, or $2,381.25 for the case, and remember the box topper is one parallel card from six types.",
+          "If the job is a case, divide it first: Japanese saves $50.91 a case, English saves $985.31 a case, and both titles print twelve boxes.",
+          "Check the wrap, the seams, and the print wave before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-01 shelf moved 15% in nine days."
+        ],
+        "h": "Action layer: the OP-01 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 20, 2026, and the card values are TCGplayer market prices as of November 19, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all twenty-four boxes the same way, and the [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks the first Extra Booster's ten the same way, with the $2,999.99 Chopper Manga against its box."
+        ]
+      }
+    ],
+    "slug": "op-01-best-cards",
+    "takeaway": [
+      "The OP-01 top ten, on TCGplayer market prices as of November 19, 2026, totals $7,485.32, and the Manga Shanks parallel, OP01-120, is $3,998.74 of it, 53.42% of the whole list. Behind it sit the three Leader parallels, Luffy at $1,042.78, Zoro at $629.47, and Law at $463.37, and every card in the ten is a parallel: not one base card in the set clears $100.",
+      "On our shelf as of November 20, 2026, the Japanese box is $202.68 and the English box is $377.71, and all four OP-01 products fell exactly 15% since November 11. The Manga Shanks is 19.73 Japanese boxes and 10.59 English boxes, and the English box is $954.76 under its $1,332.47 TCGplayer market price. The Japanese case saves $50.91 a case and the English case saves $985.31, and both titles print twelve boxes.",
+      "On community per-pack odds from November 8, 2026, the top ten carry $504.19 of expected value per English box, which is 1.33 times the $377.71 box price, and the Shanks Manga alone carries $383.88 of it at roughly 1 in 250 packs. The odds are community estimates, Bandai has never published pull rates, and the math is an estimate, not a promise: most boxes return the mid-tier parallels, not the grail.",
+      "The reprint is the risk to price first: the PRB-01 Manga Shanks is $1,221.56, which is 30.55% of the $3,998.74 original, so a listing that does not name the printing is not a price you can trust. Romance Dawn rotated out of Standard on April 1, 2026, with only four numbers still legal, so the box is a collector's buy, not a player's buy.",
+      "New this cycle: the [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks the first Extra Booster's ten the same way, with the $2,999.99 Chopper Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+    ]
+  },
   "op-01-investment": {
     "datePublished": "2026-11-17",
     "faqs": [
@@ -43417,7 +43783,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The OP-01 English case is the buy: $3,547.21 divides to $295.60 a box, $12.32 a pack and $1.03 a card, $1,036.87 below the November 9, 2026 TCGplayer Wave 2 market per box, and $985.31 below twelve singles on our own shelf. The English box at $377.71 is the second buy, $954.76 below the same market after a 32% repricing in twelve days. The Japanese box at $202.68 is the opener's buy, $8.45 a pack, and the Japanese case is the skip: it saves $4.24 a box and does no work.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the TCGplayer Wave 2 market as of November 9, 2026, the Tokyo listing and SNKRDUNK ask as of October 7 and September 30, 2026, and the PriceCharting path as of November 9, 2026. When the next repricing lands, re-run the division: the gap that makes OP-01 the buy today is a shelf price and a market price, and either one can move.",
-      "For the opener's version of this set, the [OP-01 Romance Dawn buyer's guide](/blog/op-01-romance-dawn-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-01 worth buying](/blog/is-op-01-worth-buying/) runs the buy-or-pass verdict. For the successor set, the [OP-02 Paramount War investment guide](/blog/op-02-investment/) runs the same division on Marineford, and the [OP-02 buyer's guide](/blog/op-02-paramount-war-buyers-guide/) prices it for the opener. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+      "For the opener's version of this set, the [OP-01 Romance Dawn buyer's guide](/blog/op-01-romance-dawn-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-01 worth buying](/blog/is-op-01-worth-buying/) runs the buy-or-pass verdict. For the successor set, the [OP-02 Paramount War investment guide](/blog/op-02-investment/) runs the same division on Marineford, and the [OP-02 buyer's guide](/blog/op-02-paramount-war-buyers-guide/) prices it for the opener. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry.",
+      "For the cards inside the box, ranked and priced on the November 20 shelf: the [OP-01 best cards](/blog/op-01-best-cards/) are one $3,998.74 manga, three Leader parallels, and a $504.19 expected value per English box."
     ]
   },
   "op-01-romance-dawn-buyers-guide": {
