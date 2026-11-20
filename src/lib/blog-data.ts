@@ -19452,7 +19452,8 @@ export const POSTS: Record<string, BlogPost> = {
       "On our shelf as of November 20, 2026, the Japanese box is $131.78 and the English box is $537.61, and all four EB-01 products fell exactly 15% since November 12. The Chopper Manga is 22.77 Japanese boxes and 5.58 English boxes, and the English box is $337.88 under its $875.49 TCGplayer market price. The Japanese case costs $0.92 more than twelve singles, and the English case saves $644.47 only if it holds twelve boxes, a count no listing prints.",
       "It is worth buying as the first Extra Booster, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, and Pullnomics states that Extra Boosters have no usable English pull-rate figures at all, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "The $405.19 Chopper Manga figure still circulating is stale: the card has traded near $3,000 since June 2026, with TCGplayer sales at $2,999.99 on June 24 and $3,975.99 on August 28, and a PSA 10 verified sale at $6,675 on June 21, 2026. Every value on this page is an English-print price, and the Japanese box holds Japanese cards, which trade on their own market.",
-      "New this cycle: the [OP-01 best cards guide](/blog/op-01-best-cards/) ranks Romance Dawn's ten the same way, with the $3,998.74 Manga Shanks against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+      "Companion guide: the [OP-01 best cards guide](/blog/op-01-best-cards/) ranks Romance Dawn's ten the same way, with the $3,998.74 Manga Shanks against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "The next Extra Booster in the same ranking: the [EB-02 best cards guide](/blog/eb-02-best-cards/) prices the Luffy Manga at $5,108.00, with only two EB02-numbered cards in the top ten."
     ]
   },
   "eb-01-investment": {
@@ -20014,6 +20015,191 @@ export const POSTS: Record<string, BlogPost> = {
       "For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best English One Piece Booster Box to Buy](/blog/best-english-one-piece-booster-box-to-buy/).",
       "For the sibling Extra Booster, see [EB-03 Heroines Edition Buyer's Guide](/blog/eb-03-heroines-edition-buyers-guide/).",
       "New this cycle: the [is EB-02 worth buying guide](/blog/is-eb-02-worth-buying/) gives the dated verdict on the same four products, with the English box down exactly 20% since this guide and the Luffy Manga priced against the box."
+    ]
+  },
+  "eb-02-best-cards": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "The Monkey D. Luffy Manga Rare, EB02-061, at $5,108.00 on TCGplayer market as of November 18-19, 2026, from TCGPursuit's EB-02 page. The graded end of the same card is $13,958.71 in PSA 10 on CardboardSniper's EB-02 index, updated November 19-20, 2026, as the monthly median of recorded sales. The Japanese raw market tells a different story: the lowest raw ask on SNKRDUNK on September 30, 2026 was ¥300,000, about $1,875.35 at 159.97 yen per dollar, so the TCGplayer market price and the Japanese ask are two different markets, not two prices for the same copy.",
+        "q": "What is the most valuable EB-02 card?"
+      },
+      {
+        "a": "No, not as a plan. The Luffy Manga is $5,108.00 on TCGplayer market as of November 18-19, 2026, which is 33.60 Japanese boxes at $152.03 and 27.15 English boxes at $188.16, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Buy the single if the card is the job, or buy the box to open Anime 25th Collection and treat the chase as a bonus.",
+        "q": "Should I buy an EB-02 box to pull the Luffy Manga?"
+      },
+      {
+        "a": "Buy EB-02 if the job is the anime anniversary set and the SP leader reprints: its top ten totals $14,544.57 on the same dated TCGplayer read, 4.25 times EB-01's $3,420.00, and its Japanese box is $152.03 against EB-01's $131.78. Buy EB-01 if the job is the first Extra Booster and the Memorial Collection set, with the Chopper Manga at $2,999.99 against the Luffy Manga at $5,108.00. Either way, buy the box for the set and the single for the card: the [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks Memorial Collection the same way.",
+        "q": "EB-02 vs EB-01: which should I buy?"
+      }
+    ],
+    "h1": "EB-02 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in EB-02 is the Luffy Manga, EB02-061, at $5,108.00 on TCGplayer market as of November 18-19, 2026. Eight of the top ten carry OP05 to OP08 numbers, not EB02 numbers, because they are Special Card leader reprints packed inside EB-02. On our shelf, November 20, 2026, the [EB-02 Japanese booster box](/product/eb-02-anime-25th-collection-booster-box-japanese-one-piece-card/) is $152.03 and the [EB-02 English booster box](/product/eb-02-anime-25th-collection-extra-booster-box-english-one-piece-card/) is $188.16, after all four products fell exactly 15.00% since November 13. Buy the box for the anniversary set, buy the single for the card.",
+      "Who this is for: collectors ranking the EB-02 chase, buyers choosing between the Japanese and English box, and players who want the reprinted leaders. Who it is not for: anyone chasing one named card by opening boxes; anyone who wants only new EB02-numbered cards, because most of the top ten are reprints; and anyone buying a sealed box as a guaranteed investment, because the shelf fell 15.00% in seven days."
+    ],
+    "metaDescription": "EB-02's 10 best cards ranked on TCGplayer market prices, Nov 18-19, 2026: the $5,108 Luffy Manga, 8 SP reprints, and the $152.03 Japanese box.",
+    "metaTitle": "EB-02 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: eight of the ten best cards are not EB-02 cards",
+        "paragraphs": [
+          "The ranking below is one dated read. Every value is a TCGplayer market price as of November 18-19, 2026, from TCGPursuit's EB-02 page. The ten cards add to $14,544.57, and the Luffy Manga, EB02-061, is $5,108.00 of it, 35.12% of the whole top ten. Behind it come Sabo (SP) OP05-001 at $1,400.00, Marco (SP) OP08-002 at $1,200.00, Perona (SP) OP06-021 at $1,199.99, and the Monkey D. Luffy alternate art, EB02-010, at $1,053.98. The bottom five are Donquixote Dragon (SP) OP07-001 at $1,016.67, Donquixote Rosinante (SP) OP05-022 at $1,004.97, Enel (SP) OP05-098 at $900.00, Belo Betty (SP) OP05-002 at $879.66, and Vinsmoke Reiju (SP) OP06-042 at $781.30.",
+          "The split is the story. Only two of the ten carry EB02 numbers: the Luffy Manga at $5,108.00 and the Luffy alternate art at $1,053.98, together $6,161.98, or 42.37% of the top ten. The other eight are Special Card leader reprints numbered OP05 through OP08, together $8,382.59, or 57.63% of the top ten. A searcher typing the target query expects EB-02 cards and gets leaders from other sets. That is not an error: the SP cards are in the packs.",
+          "A collector chasing the manga buys the single, because the card is 33.60 Japanese boxes and no pull rate exists to price the chase any other way. A collector who wants the set's EB02-numbered cards buys the Japanese box at $152.03, because the EB02-numbered ladder below the two Luffys tops out at $37.00. A player buys the box for the leaders, and the [is EB-02 worth buying guide](/blog/is-eb-02-worth-buying/) verdicts the same four products at the November 12 prices."
+        ]
+      },
+      {
+        "h": "The money layer: the board, divided",
+        "math": [
+          "EB-02 Japanese box per pack: $152.03 / 24 packs = $6.33 per pack",
+          "EB-02 Japanese box per card: $152.03 / 144 cards = $1.06 per card",
+          "EB-02 Japanese case per box: $1,791.93 / 12 boxes = $149.33 per box",
+          "EB-02 Japanese case saving: 12 x $152.03 = $1,824.36 singles; $1,824.36 - $1,791.93 = $32.43 saved ($2.70 per box)",
+          "EB-02 English box per pack: $188.16 / 24 packs = $7.84 per pack",
+          "EB-02 English box per card: $188.16 / 288 cards = $0.65 per card",
+          "EB-02 English vs Japanese box gap: $188.16 - $152.03 = $36.13 per box; $188.16 / $152.03 = 1.24x",
+          "EB-02 Japanese repricing: $178.86 - $152.03 = $26.83; $26.83 is 15.00% of $178.86",
+          "EB-02 English repricing: $221.36 - $188.16 = $33.20; $33.20 is 15.00% of $221.36",
+          "EB-02 Japanese case repricing: $2,108.15 - $1,791.93 = $316.22; $316.22 is 15.00% of $2,108.15",
+          "EB-02 English case repricing: $2,503.99 - $2,128.39 = $375.60; $375.60 is 15.00% of $2,503.99",
+          "EB-02 English box since November 4: $276.70 - $188.16 = $88.54; $88.54 is 32.00% of $276.70",
+          "EB-02 Japanese box vs MSRP: 24 packs x 220 yen = 5,280 yen; 5,280 / 159.97 yen per dollar = $33.01; $152.03 / $33.01 = 4.61x",
+          "EB-02 English box vs MSRP: 24 packs x $4.99 = $119.76; $188.16 / $119.76 = 1.57x",
+          "EB-02 top 10 total: $5,108.00 + $1,400.00 + $1,200.00 + $1,199.99 + $1,053.98 + $1,016.67 + $1,004.97 + $900.00 + $879.66 + $781.30 = $14,544.57",
+          "Luffy Manga share of the top 10: $5,108.00 / $14,544.57 = 35.12%",
+          "SP eight total: $14,544.57 - $6,161.98 = $8,382.59; $8,382.59 / $14,544.57 = 57.63% of the top 10",
+          "EB02-numbered two total: $5,108.00 + $1,053.98 = $6,161.98; $6,161.98 / $14,544.57 = 42.37% of the top 10",
+          "Luffy Manga against the boxes: $5,108.00 / $152.03 = 33.60 Japanese boxes; $5,108.00 / $188.16 = 27.15 English boxes",
+          "Luffy alternate art against the boxes: $1,053.98 / $152.03 = 6.93 Japanese boxes; $1,053.98 / $188.16 = 5.60 English boxes",
+          "EB-02 top 10 against the boxes: $14,544.57 / $152.03 = 95.67 Japanese boxes; $14,544.57 / $188.16 = 77.30 English boxes",
+          "Luffy Manga PSA 10 against raw: $13,958.71 / $5,108.00 = 2.73x; against the Japanese box: $13,958.71 / $152.03 = 91.82x",
+          "Luffy Manga Japanese raw ask: 300,000 yen / 159.97 yen per dollar = $1,875.35; $1,875.35 / $152.03 = 12.34 Japanese boxes",
+          "CONDITIONAL, NOT CLAIMED: if the English case held 12 boxes, 12 x $188.16 = $2,257.92 singles vs $2,128.39 case, saving $129.53 ($10.79 per box)",
+          "EB-02 base set value: $116.28 / $152.03 = 76.48% of the Japanese box; $116.28 / $188.16 = 61.80% of the English box",
+          "Marco SP seven-day move: $1,200.00 / 1.662 = $722.02 a week earlier, a rise of 66.20%"
+        ],
+        "paragraphs": [
+          "All four EB-02 products fell exactly 15.00% between November 13 and November 20, 2026: the Japanese box from $178.86 to $152.03, the English box from $221.36 to $188.16, the Japanese case from $2,108.15 to $1,791.93, and the English case from $2,503.99 to $2,128.39. A uniform 15.00% move across both languages is a shelf repricing. The English box has now fallen 32.00% since November 4, when it stood at $276.70. The prices here are stamped November 20, 2026.",
+          "The language gap runs the opposite way per pack and per card. The Japanese box is $152.03 for 24 packs of 6 cards, $6.33 a pack and $1.06 a card, against a 5,280 yen official box price that converts to $33.01 at 159.97 yen per dollar on November 19, 2026, so the Japanese box is 4.61 times its official price. The English box is $188.16 for 24 packs of 12 cards, $7.84 a pack and $0.65 a card, against a $119.76 MSRP box, so it is 1.57 times its MSRP. The English box costs $36.13 more and still gives the cheaper card: 1.53 cards per dollar against 0.95 in Japanese.",
+          "The case discounts in Japanese. The [Japanese case](/product/eb-02-anime-25th-collection-sealed-case-12-boxes-japanese-one-piece-card/) is $1,791.93, or $149.33 a box, against twelve singles at $1,824.36, so it saves $32.43 across the case, $2.70 a box. The [English case](/product/eb-02-anime-25th-collection-sealed-case-english-one-piece-card/) is $2,128.39, and its per-box figure is conditional: no listing prints the box count, so the $129.53 saving holds only if it holds twelve boxes, at $10.79 a box. Confirm the count before you pay for the discount."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view. The rows are the five ways to spend on EB-02, and the columns are what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The single row is the only row that buys the card instead of the chance: the Luffy Manga at $5,108.00 is 33.60 Japanese boxes, and the Luffy alternate art at $1,053.98 is 6.93 Japanese boxes. The [EB-02 investment guide](/blog/eb-02-investment/) runs the same four products as a hold, with the case math as it stood on November 16, 2026."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$152.03",
+              "$6.33",
+              "Opening Anime 25th in Japanese",
+              "Chase not guaranteed; JP not legal outside Asia"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,791.93",
+              "$149.33 a box",
+              "Sealed run; group split",
+              "Saves only $2.70 a box"
+            ],
+            [
+              "English box",
+              "$188.16",
+              "$7.84",
+              "English set; cheapest per card",
+              "1.57x MSRP; chase not guaranteed"
+            ],
+            [
+              "English case",
+              "$2,128.39",
+              "Not divided here",
+              "English boxes in bulk",
+              "Box count unprinted; $2,128.39 at once"
+            ],
+            [
+              "The single",
+              "$5,108.00 Luffy Manga",
+              "n/a",
+              "Owning the chase card",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the split, the date, and the missing pull rate",
+        "note": "From the Warehouse: the question we get most in chat about EB-02 is whether the English box is worth it now that it has fallen so far. Our answer starts with the repricing, because it is the fact most guides cannot have yet: all four EB-02 products fell exactly 15.00% in seven days, and the English box has now fallen 32.00% since November 4. The box is worth buying as the anniversary set, sealed or opened, and it is not worth buying as a way to own one named card. Say that first, and the rest of the numbers fall into place.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there. The Card Centering Tool value guide ranks the SP cards and prices the PSA 10 premiums, the GradeValue price list ranks all 61 base cards and puts the base set value at $116.28, and the CardboardSniper market index prices the Luffy Manga at $13,958.71 in PSA 10. What none of them does is rank the top ten on one dated TCGplayer market read, separate the EB02-numbered cards from the SP reprints, and tie the cards to a box price you can actually pay today. Their lists answer which cards are valuable, not which of them are EB-02 cards, or what the box costs.",
+          "The gap this page owns is the split, and it owns it with two totals. The eight SP reprints are $8,382.59, 57.63% of the top ten. The two EB02-numbered cards are $6,161.98, 42.37% of the top ten. A buyer who wants EB02-numbered cards and trusts a blended list will overestimate the set's own chase by more than double. The second gap is the pull rate. Bandai has never published pull rates for any One Piece set, so no expected-value math exists for the chase, and any article that gives one is inventing it. The honest numbers are the breakevens: the manga is 33.60 Japanese boxes and 27.15 English boxes.",
+          "The third gap is the print. Every value on this page is a TCGplayer market price, and the Japanese box you buy from us holds Japanese cards, which trade on their own market. The Luffy Manga's lowest raw ask on SNKRDUNK on September 30, 2026 was ¥300,000, about $1,875.35 at 159.97 yen per dollar, which is 12.34 Japanese boxes, against the $5,108.00 TCGplayer market price, which is 33.60 boxes. An ask is not a sale, and a Japanese ask is not an English market price. The fourth gap is the repricing, which no guide has yet because it happened seven days ago."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is one card. The Luffy Manga, EB02-061, the set's Secret Rare with the comic-parallel treatment, is $5,108.00, and it is 35.12% of the top ten combined. It is also the card where the two markets disagree most: the PSA 10 monthly median on CardboardSniper is $13,958.71, which is 2.73 times the raw market price and 91.82 Japanese boxes, while the Japanese raw ask on SNKRDUNK was ¥300,000, about $1,875.35. The same card number carries a $5,108.00 market price, a $13,958.71 graded median, and a $1,875.35 Japanese ask, and those are not the same purchase.",
+          "The second rung is eight SP leader reprints, and it is the rung that defines the set. Sabo OP05-001 is $1,400.00, Marco OP08-002 is $1,200.00, Perona OP06-021 is $1,199.99, Dragon OP07-001 is $1,016.67, Rosinante OP05-022 is $1,004.97, Enel OP05-098 is $900.00, Belo Betty OP05-002 is $879.66, and Reiju OP06-042 is $781.30. Marco is the mover of the week, up 66.20% in seven days, from about $722.02 to $1,200.00: a surge to sit with, not a trend to chase. All eight are leaders that already existed in OP05 through OP08, brought back with new anime art.",
+          "The third rung is the EB02-numbered ladder, and it falls off fast after the two Luffys. The Nami alternate art, EB02-017, is $124.53 on the TCGPursuit board, down 18.90% in seven days, and it is the last EB02-numbered card above $100. Below it, the GradeValue base-print list, updated November 20, 2026, tops out at the Yamato Super Rare, EB02-006, at $37.00 raw, then the Luffy Leader, EB02-010, at $25.00, the Nami Rare, EB02-017, at $17.86, the Luffy Secret Rare, EB02-061, at $15.00, Sanji and Pudding, EB02-035, at $13.08, Enel, EB02-052, at $10.26, and Vivi, EB02-026, at $7.87. The seven together are $126.07, which is 82.92% of one Japanese box. On the TCGPursuit board, the Luffy Secret Rare is down 14.60%, Enel is down 13.90%, Vivi is down 7.10%, and Yamato is down 17.50%. The [One Piece Japanese special set guide](/blog/one-piece-japanese-special-set/) prices EB-02 beside EB-01, EB-03 and EB-04 on the same shelf."
+        ]
+      },
+      {
+        "h": "The risk layer: the reprint, the raw price, and the $5,108 card",
+        "paragraphs": [
+          "The first risk is the reprint, and EB-02 carries it as its whole top ten. Eight of the ten best cards are leaders that already existed in OP05 through OP08, and a reprint's premium is the new art, not scarcity of the card itself. A sealed box bought at a scarcity premium can fall as fast as it rose: the English box fell 20.00% in eight days in November, then 15.00% in seven days, for 32.00% since November 4, and the Japanese box fell 15.00% beside it. Hold the set because it is the 25th anniversary set, not because the price only rises. The [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) prices the Premium Booster reprints the same way.",
+          "The second risk is the raw price itself. The $5,108.00 is a TCGplayer market price for a raw near-mint copy, not a sale you have made, and the card's price depends on condition, grading, and a buyer. A raw copy bought sight unseen carries condition risk, and a graded copy carries a premium on top of the raw price: the PSA 10 monthly median at $13,958.71 is 2.73 times the raw price and 91.82 Japanese boxes. The third risk is the seven-day direction: five EB02-numbered cards fell between 7.10% and 18.90% in a week while Marco rose 66.20%, so a buyer who pays last week's price has already overpaid.",
+          "The fourth risk is legality, restated plainly: Japanese cards are generally not legal at official events outside Asia, so a player who buys Japanese to compete has bought the wrong product. The fifth risk is the reseal: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand. The sixth risk is the English case count: the $129.53 saving holds only if the case holds twelve boxes, a count no listing prints."
+        ]
+      },
+      {
+        "h": "Context: 87 cards, two languages, and the anniversary set",
+        "paragraphs": [
+          "Anime 25th Collection is the set where the Extra Booster line turns to the screen: the second Extra Booster, built for the 25th anniversary of the TV anime, with new illustrations drawn by the anime's artists and cards inspired by the anime's past theme songs. It was released in Japan on January 25, 2025 and in English on May 9, 2025. The official Japanese page prints 87 card types plus 1 secret: 1 Leader, 29 Commons, 21 Rares, 9 Super Rares, 1 Secret Rare, and 26 Special Cards, and the official card list runs to 105 rows once parallels and the older-number leaders are counted. The new Leader is Monkey D. Luffy, EB02-010.",
+          "The Japanese box divides cleanly to $6.33 a pack and $1.06 a card. The English pack holds 12 cards at $4.99, and the English box divides to $7.84 a pack and $0.65 a card. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all the Japanese boxes to per-pack prices, and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) ranks the English boxes the same way. The [EB-02 Anime 25th Collection buyers guide](/blog/eb-02-anime-25th-collection-buyers-guide/) priced the same four products on November 4, before either repricing."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Luffy Manga is 33.60 Japanese boxes and 27.15 English boxes, and no pull rate exists to price the chase any other way. It is not for anyone who wants only new EB02-numbered cards, because eight of the top ten are reprinted leaders from OP05 through OP08. It is not for anyone who needs English cards for official play outside Asia. It is not for anyone buying the English case for the discount without confirming the box count, because the count is unprinted. And it is not for anyone who treats a sealed box as a guaranteed investment, because the English box fell 32.00% since November 4."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Luffy Manga, own the EB02-numbered ladder, own the SP leaders, hold the anniversary set sealed, or own it in English.",
+          "If the job is the manga, buy the single: $5,108.00 raw on TCGplayer market as of November 18-19, 2026, or the PSA 10 near $13,958.71, and check whether the listing is priced on the TCGplayer market or the Japanese ask, because the two differ by $3,232.65.",
+          "If the job is the EB02-numbered cards, buy the Japanese box at $152.03, and treat the manga as a bonus, not the plan.",
+          "If the job is English, pay $188.16 for the box, or $2,128.39 for the case, and confirm the case holds twelve boxes before you pay for the discount.",
+          "If the job is a case, divide it first: Japanese saves $32.43 across the case, English saves $129.53 if it holds twelve.",
+          "Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole EB-02 shelf moved 15.00% in seven days."
+        ],
+        "h": "Action layer: the EB-02 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 20, 2026, and the card values are TCGplayer market prices as of November 18-19, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles, and the [OP-01 best cards guide](/blog/op-01-best-cards/) ranks the founding set's ten the same way."
+        ]
+      }
+    ],
+    "slug": "eb-02-best-cards",
+    "takeaway": [
+      "The EB-02 top ten, on TCGplayer market prices as of November 18-19, 2026, totals $14,544.57, and the Luffy Manga, EB02-061, is $5,108.00 of it, 35.12% of the whole list. Only two of the ten carry EB02 numbers; the other eight are SP leader reprints numbered OP05 through OP08, and together they are $8,382.59, 57.63% of the top ten.",
+      "On our shelf as of November 20, 2026, the Japanese box is $152.03 and the English box is $188.16, and all four EB-02 products fell exactly 15.00% since November 13. The Luffy Manga is 33.60 Japanese boxes and 27.15 English boxes, and the English box has now fallen 32.00% since November 4. The Japanese case saves $32.43 across the case, and the English case saves $129.53 only if it holds twelve boxes, a count no listing prints.",
+      "It is worth buying as the 25th anniversary set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "The EB02-numbered ladder falls off fast after the two Luffys: the Nami alternate art is $124.53, and the GradeValue base-print list tops out at the Yamato Super Rare at $37.00 raw, with the seven best base cards together worth $126.07. The base set value is $116.28, which is 76.48% of one Japanese box.",
+      "Companion guide: the [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks Memorial Collection the same way, with the $2,999.99 Chopper Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the mainline-set side of the same ranking, the [OP-02 best cards guide](/blog/op-02-best-cards/) prices the Ace Manga at $1,700.00 against its box."
     ]
   },
   "eb-02-investment": {
@@ -23976,8 +24162,9 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the anniversary set, sealed or opened, and it is not worth buying as a way to own one named card. The Luffy Manga comic parallel carried a ¥300,000 lowest raw ask on September 30, 2026, about $1,886.79, which is 10.55 Japanese boxes, and a PSA 10 back order was listed at ¥695,212, about $4,372.40, which is 24.45 boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is worth buying in English for the cards per dollar, not for the sticker price: the English box is dearer per pack at $9.22 against $7.45, and cheaper per card at $0.77 against $1.24. It is not worth buying as a loose pack, because the English loose pack trades at $20.39 against a $4.99 MSRP.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of February 7 to October 7, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) prices the Memorial Collection the same way, with its own 20% English drop. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
-      "New this cycle: the [is EB-03 worth buying guide](/blog/is-eb-03-worth-buying/) prices the Heroines Edition the same way, with its own 20% English drop and the Uta Manga against the box."
+      "Companion guide: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) prices the Memorial Collection the same way, with its own 20% English drop. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "Companion guide: the [is EB-03 worth buying guide](/blog/is-eb-03-worth-buying/) prices the Heroines Edition the same way, with its own 20% English drop and the Uta Manga against the box.",
+      "For the set’s ten best cards priced the same way, the [EB-02 best cards guide](/blog/eb-02-best-cards/) ranks the Luffy Manga at $5,108.00 against the $152.03 Japanese box."
     ]
   },
   "is-eb-03-worth-buying": {
@@ -26220,8 +26407,9 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Marineford set, sealed or opened, and it is not worth buying as a way to own one named card. The Ace Manga sat at $1,700.00 on TCGplayer market as of November 3, 2026, which is 8.24 Japanese boxes and 4.38 English boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is not worth buying for Standard play: Paramount War rotated out on April 1, 2026, and it plays in Extra Regulation now. It is a collector's purchase, and the English box is now cheaper per card than the Japanese box, at $1.35 against $1.43, which is the first time that has been true for this set on our shelf. For the investment version, see [OP-02 Paramount War Investment: Buy the English Case](/blog/op-02-investment/).",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of November 1 to November 5, 2026. The 20% English repricing is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [is OP-03 worth buying guide](/blog/is-op-03-worth-buying/) prices Pillars of Strength the same way, with its own 20% English drop and the Sogeking comic parallel against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
-      "New this cycle: the [is OP-01 worth buying guide](/blog/is-op-01-worth-buying/) prices Romance Dawn the same way, with its own 20% English drop and the Manga Shanks against the box."
+      "Companion guide: the [is OP-03 worth buying guide](/blog/is-op-03-worth-buying/) prices Pillars of Strength the same way, with its own 20% English drop and the Sogeking comic parallel against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "Companion guide: the [is OP-01 worth buying guide](/blog/is-op-01-worth-buying/) prices Romance Dawn the same way, with its own 20% English drop and the Manga Shanks against the box.",
+      "For the set’s ten best cards priced the same way, the [OP-02 best cards guide](/blog/op-02-best-cards/) ranks the Ace Manga at $1,700.00 against the $175.46 Japanese box."
     ]
   },
   "is-op-03-worth-buying": {
@@ -43582,7 +43770,8 @@ export const POSTS: Record<string, BlogPost> = {
       "On our shelf as of November 20, 2026, the Japanese box is $202.68 and the English box is $377.71, and all four OP-01 products fell exactly 15% since November 11. The Manga Shanks is 19.73 Japanese boxes and 10.59 English boxes, and the English box is $954.76 under its $1,332.47 TCGplayer market price. The Japanese case saves $50.91 a case and the English case saves $985.31, and both titles print twelve boxes.",
       "On community per-pack odds from November 8, 2026, the top ten carry $504.19 of expected value per English box, which is 1.33 times the $377.71 box price, and the Shanks Manga alone carries $383.88 of it at roughly 1 in 250 packs. The odds are community estimates, Bandai has never published pull rates, and the math is an estimate, not a promise: most boxes return the mid-tier parallels, not the grail.",
       "The reprint is the risk to price first: the PRB-01 Manga Shanks is $1,221.56, which is 30.55% of the $3,998.74 original, so a listing that does not name the printing is not a price you can trust. Romance Dawn rotated out of Standard on April 1, 2026, with only four numbers still legal, so the box is a collector's buy, not a player's buy.",
-      "New this cycle: the [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks the first Extra Booster's ten the same way, with the $2,999.99 Chopper Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+      "Companion guide: the [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks the first Extra Booster's ten the same way, with the $2,999.99 Chopper Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "The next mainline set in the same ranking: the [OP-02 best cards guide](/blog/op-02-best-cards/) prices the Ace Manga at $1,700.00, with no current market price behind it."
     ]
   },
   "op-01-investment": {
@@ -43980,6 +44169,191 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move; the method does not. Choose the language first, check the wave second on any English Romance Dawn listing, divide the case third, and never assume a case discounts: on this set the Japanese case saves $4.99 a box and the English case pays a saving of $1,448.91 — and the English single box sits $776.55 below the dated white-wave market figure.",
       "For the successor set, see [OP-02 Paramount War Buyer's Guide](/blog/op-02-paramount-war-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the investment version, see [OP-01 Romance Dawn Investment: Buy the English Case](/blog/op-01-investment/).",
       "New this cycle: the [is OP-01 Romance Dawn worth buying guide](/blog/is-op-01-worth-buying/) gives the dated verdict on this set, with the English box down 20% since this guide, the Manga Shanks priced against the box, and the rotation fact."
+    ]
+  },
+  "op-02-best-cards": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "It depends on which price you mean, and that is the point of this page. TCGplayer market put the Ace Manga Parallel, OP02-013, at $1,700.00 on November 3, 2026, and by November 14, 2026 TCGplayer showed no market price and no recent sale for it at all. On the same November 14 check, eight active listings ran to a median near $3,145, with the cheapest at $2,994.99, and Cardmarket showed a trend of 1,820.62 euros on November 19, 2026. A listing that does not name the language, the condition, and the grading is not a price you can trust, because some of those listings were graded or non-English.",
+        "q": "Is the Ace Manga really worth $1,700.00?"
+      },
+      {
+        "a": "No. The Ace Manga sat at $1,700.00 on TCGplayer market as of November 3, 2026, which is 9.69 Japanese boxes at $175.46 and 5.15 English boxes at $330.12, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Buy the single if that card is the job, or buy the box to open Paramount War and treat the chase as a bonus.",
+        "q": "Should I buy an OP-02 box to pull the Ace Manga card?"
+      },
+      {
+        "a": "Count packs or count cards, and the answer flips. The Japanese box is $175.46, or $7.31 a pack and $1.22 a card, and it is the cheapest way into the set by the pack. The English box is $330.12, or $13.76 a pack and $1.15 a card, and it is cheaper per card because the English packs carry twelve cards against six. Both fell exactly 15% on November 13, 2026, and both are rotated out of Standard, so the choice is language and format, not value: Japanese for the cheapest pack, English for English cards at the lower per-card price.",
+        "q": "Which OP-02 box should I buy, Japanese or English?"
+      }
+    ],
+    "h1": "OP-02 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-02 is the one card no price guide can price cleanly. The Portgas.D.Ace Manga Parallel, OP02-013, sat at a $1,700.00 TCGplayer market price on November 3, 2026, while active listings on November 14 ran to a median near $3,145 and the cheapest was $2,994.99. Behind it, the nine highest priced cards on TCGPursuit's November 18-19, 2026 read total $651.33. On our shelf as of November 20, 2026, the [OP-02 Japanese booster box](/product/op-02-paramount-war-booster-box-japanese-one-piece-card/) is $175.46 and the [OP-02 English booster box](/product/op-02-paramount-war-booster-box-english-one-piece-card/) is $330.12, and all four OP-02 products fell exactly 15% since November 13. Buy the box for the set, buy the single for the card.",
+      "Who this is for: collectors ranking the Paramount War chase before they spend, and buyers choosing between the Japanese and English box at the new prices. Who it is not for: anyone chasing one named card by opening boxes, who should buy the single; anyone who needs Standard-legal cards, because OP-02 plays in Extra Regulation now; and anyone who treats a listed price as a sale price without checking language, condition, and grading."
+    ],
+    "metaDescription": "OP-02 Paramount War's 10 best cards, Nov 19, 2026: the Ace Manga's $1,700 market price against listings near $3,145, and the $175.46 Japanese box.",
+    "metaTitle": "OP-02 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one manga, nine priced cards, and the long tail",
+        "paragraphs": [
+          "The ranking below is a single dated read, and it starts with the card the lists leave out. Every value after the Ace Manga is a TCGplayer market price as of November 18-19, 2026, from TCGPursuit's Paramount War page. The ten add to $2,351.33, and the Ace Manga alone is $1,700.00 of it, 72.30% of the whole list. Behind it sit the nine highest priced cards: Sanji Alt Art OP02-026 at $126.89, Monkey.D.Garp Alt Art OP02-002 at $112.22, Edward.Newgate Alt Art OP02-001 at $99.19, Smoker Alt Art OP02-093 at $77.93, Nami Alt Art OP02-036 at $64.13, Monkey.D.Luffy Alt Art OP02-062 at $53.79, Portgas.D.Ace Parallel OP02-013 at $44.31, Emporio.Ivankov Alt Art OP02-049 at $39.50, and Zephyr Alt Art OP02-072 at $33.37. The Magellan Alt Art OP02-071 at $31.36 is the eleventh card, just outside the ten.",
+          "The top card is the least priceable one in the game. The Ace Manga is the second manga card the game ever printed, yet TCGplayer showed no market price and no recent sale for it on November 14, 2026. The $1,700.00 figure is a November 3 market price, eleven days older than the rest of this ranking. A ranking that omits the Ace Manga, as the TCGPursuit page does, ranks the second tier and calls it the top ten.",
+          "What the ranking means depends on which buyer you are. A collector chasing the manga buys the single: the card is 9.69 Japanese boxes and 5.15 English boxes at the November 3 market price. A collector who wants the priced tier buys the English box at $330.12, because the nine priced cards together are $651.33, which is 1.97 English boxes. A player buys neither for Standard: OP-02 is a Block 1 set, and the [is OP-02 worth buying guide](/blog/is-op-02-worth-buying/) records that it rotated out on April 1, 2026 and plays in Extra Regulation now."
+        ]
+      },
+      {
+        "h": "The money layer: the board, divided",
+        "math": [
+          "OP-02 Japanese box per pack: $175.46 / 24 packs = $7.31 per pack",
+          "OP-02 Japanese box per card: $175.46 / 144 cards = $1.22 per card",
+          "OP-02 Japanese case per box: $1,687.57 / 12 boxes = $140.63 per box",
+          "OP-02 Japanese case vs singles: 12 x $175.46 = $2,105.52 singles; case $1,687.57, saving $417.95 across the case ($34.83 per box)",
+          "OP-02 Japanese case per pack: $1,687.57 / 288 packs = $5.86 per pack",
+          "OP-02 Japanese case per card: $1,687.57 / 1,728 cards = $0.98 per card",
+          "OP-02 English box per pack: $330.12 / 24 packs = $13.76 per pack",
+          "OP-02 English box per card: $330.12 / 288 cards = $1.15 per card",
+          "OP-02 English case per box: $3,101.19 / 12 boxes = $258.43 per box",
+          "OP-02 English case vs singles: 12 x $330.12 = $3,961.44 singles; case $3,101.19, saving $860.25 across the case ($71.69 per box)",
+          "OP-02 English case per pack: $3,101.19 / 288 packs = $10.77 per pack",
+          "OP-02 English case per card: $3,101.19 / 3,456 cards = $0.90 per card",
+          "OP-02 Japanese box repricing: $206.42 - $175.46 = $30.96; $30.96 is 15.00% of $206.42",
+          "OP-02 Japanese case repricing: $1,985.38 - $1,687.57 = $297.81; $297.81 is 15.00% of $1,985.38",
+          "OP-02 English box repricing: $388.38 - $330.12 = $58.26; $58.26 is 15.00% of $388.38",
+          "OP-02 English case repricing: $3,648.46 - $3,101.19 = $547.27; $547.27 is 15.00% of $3,648.46",
+          "OP-02 English vs Japanese box gap: $330.12 - $175.46 = $154.66 per box; $330.12 / $175.46 = 1.88x",
+          "OP-02 English box vs MSRP: 24 x $4.19 = $100.56; $330.12 / $100.56 = 3.28x",
+          "OP-02 top 10 total: $1,700.00 + $126.89 + $112.22 + $99.19 + $77.93 + $64.13 + $53.79 + $44.31 + $39.50 + $33.37 = $2,351.33",
+          "Ace Manga share of the top 10: $1,700.00 / $2,351.33 = 72.30%",
+          "Ace Manga against the Japanese box: $1,700.00 / $175.46 = 9.69x",
+          "Ace Manga against the English box: $1,700.00 / $330.12 = 5.15x",
+          "Ace Manga against the set total: $1,700.00 / $2,704.02 = 62.87% of the set total",
+          "Ace Manga cheapest listing vs market: $2,994.99 - $1,700.00 = $1,294.99 above market; $2,994.99 / $1,700.00 = 1.76x",
+          "Top 10 priced cards without the Ace Manga: $651.33; Sanji Alt Art $126.89 is 19.48% of it",
+          "Luffy Alt Art OP02-062 implied prior price: $53.79 / 0.847 = $63.51; $63.51 - $53.79 = $9.72"
+        ],
+        "paragraphs": [
+          "The first fact on the board is the repricing: all four OP-02 products fell exactly 15% on November 13, 2026. The Japanese box fell from $206.42 to $175.46, the Japanese case from $1,985.38 to $1,687.57, the English box from $388.38 to $330.12, and the English case from $3,648.46 to $3,101.19. A uniform 15% move across both languages is a shelf repricing, not a market move on one product.",
+          "The second fact is the language gap, and it runs both ways at once. The Japanese box is $175.46 for 24 packs of 6 cards, $7.31 a pack and $1.22 a card. The English box is $330.12 for 24 packs of 12 cards, $13.76 a pack and $1.15 a card, against a $100.56 MSRP, so it is 3.28 times its MSRP. The English box costs $154.66 more per box, yet it is $0.07 cheaper per card, because the English packs carry twice the cards.",
+          "The third fact is the case math, which favours the case in both languages. The [Japanese case](/product/op-02-paramount-war-sealed-case-12-boxes-japanese-one-piece-card/) is $1,687.57, or $140.63 a box, against twelve singles at $2,105.52, saving $417.95 a case. The [English case](/product/op-02-paramount-war-sealed-case-12-boxes-english-one-piece-card/) is $3,101.19, or $258.43 a box, against twelve singles at $3,961.44, saving $860.25 a case. The English case title prints twelve boxes, and the live product page confirms it, so the saving is not conditional."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: five ways to spend on OP-02, and the dimensions that decide it are what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column.",
+          "The single row is the only row that buys the card instead of the chance: the Ace Manga at a $1,700.00 market price from November 3 is 9.69 Japanese boxes, and at the November 14 listing prices it is higher still. The [OP-02 investment guide](/blog/op-02-investment/) runs the same four products as a hold, and the English case saves $860.25, the largest case saving on the One Piece shelf in this run."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$175.46",
+              "$7.31",
+              "Opening Paramount War in Japanese",
+              "Chase not guaranteed; JP not legal outside Asia"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,687.57",
+              "$140.63 a box",
+              "Japanese boxes in bulk; cheapest per card",
+              "$1,687.57 at once; chase not guaranteed"
+            ],
+            [
+              "English box",
+              "$330.12",
+              "$13.76",
+              "English cards, cheaper per card than Japanese",
+              "3.28x MSRP; rotated out of Standard"
+            ],
+            [
+              "English case (12)",
+              "$3,101.19",
+              "$258.43 a box",
+              "English boxes in bulk; saves $860.25",
+              "$3,101.19 at once; price can fall again"
+            ],
+            [
+              "The single",
+              "$1,700.00 Ace Manga (market, Nov 3)",
+              "n/a",
+              "Owning the Ace Manga",
+              "No market price now; listings near $3,145"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the Ace Manga's full price context",
+        "note": "From the Warehouse: the question we get most in chat about OP-02 is what the Ace Manga actually costs, because buyers see $1,700.00 in one place and $2,994.99 in another and ask which one is real. Both are real, and neither is a sale price you can pay today: the $1,700.00 is a November 3 market price with no sale behind it since, and the $2,994.99 is the cheapest of eight listings, some graded or non-English. We stock it, we ship it daily, and we say that before the sale, because a buyer who budgets $1,700.00 for a card listed near $3,000 has budgeted for the wrong card.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there, and they are good at the ranking. The TCGPursuit Paramount War page gives the dated top ten market list, but it omits the Ace Manga entirely, so its top ten is really the second tier. The Tome Collective overview covers the Manga Ace, the leader parallels, the rotation, and the box topper with November 14 prices. The PokeWallet investment guide prices the Ace at $1,700.00 on November 3 and the set total at $2,704.02. What none of them does is put the Ace Manga's full price context in one place: market against listings against Cardmarket, with the dates attached. That is the gap this page owns.",
+          "The context runs in four numbers, and they disagree. First, the market price: $1,700.00 on TCGplayer as of November 3, 2026, with the cheapest listing at $2,994.99 on the same date. Second, the listing reality: eight active listings on November 14, 2026, with a listed median near $3,145, some graded or non-English, and TCGplayer showing no market price and no recent sale for the card at all. Third, the European read: a Cardmarket trend of 1,820.62 euros on November 19, 2026. Fourth, the set context: the Ace Manga is 62.87% of the set's $2,704.02 total, and 119 of the set's 158 catalog versions sit under $1. A card that is 62.87% of its set and has no current market price is a card whose price is whatever the next listing asks. The second gap is the box topper: every OP-02 box carries one box-topper bonus card, one of six types at random, and the Boa Hancock box bonus, OP02-059, sits around $29 as of November 14, 2026. The third gap is the pull rate, which does not exist: Bandai has never published pull rates for any One Piece set, so no expected-value math exists for this chase and this page prints none."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is one card, and it is most of the ladder. The Ace Manga at $1,700.00 is 72.30% of the top ten combined, and 62.87% of the whole set's $2,704.02 total. The OP-01 Shanks Manga is $3,998.74 on the same market read, so the Ace is 42.51% of the game's most valuable manga, not the most valuable manga itself.",
+          "The second rung is the priced tier, and it is thin. The nine priced cards total $651.33, and the Sanji Alt Art at $126.89 is 19.48% of that. The Garp Alt Art at $112.22 and the Newgate Alt Art at $99.19 are the only other cards above $90, and the tail falls fast: Smoker at $77.93, Nami at $64.13, Luffy at $53.79, the Ace Parallel at $44.31, Ivankov at $39.50, Zephyr at $33.37, and Magellan at $31.36. Below the ten, the set is bulk: 119 of the set's 158 catalog versions sit under $1.",
+          "The secondary pulls are the cards a box is most likely to return. The Nami Secret Rare parallel sits near $66 against a base near $3, which is 22 times the base, and the Uta Secret Rare parallel sits near $27, both as of November 14, 2026. The Sanji parallel proves why dates matter: Tome Collective put a Sanji parallel near $123 on November 14, and TCGPursuit put the Sanji Alt Art OP02-026 at $126.89 on November 18-19. Two sources, two dates, and the $3.89 between them is not a verified move, so this page does not call it one. The week to November 19 moved the tail down: the Luffy Alt Art OP02-062 fell 15.3% to $53.79, the Luffy Alt Art OP02-041 fell 13.9% to $20.77, the Newgate Alt Art OP02-004 fell 8.5% to $15.61, and the Marco Alt Art OP02-018 fell 6.7% to $4.06."
+        ]
+      },
+      {
+        "h": "The risk layer: the $1,700 card with no market price, the reprint, and the rotation",
+        "paragraphs": [
+          "The first risk is the price itself. The Ace Manga has no current TCGplayer market price: the $1,700.00 is eleven days old, and the live listings on November 14 ran to a median near $3,145, with the cheapest at $2,994.99. A buyer who budgets $1,700.00 and finds only $2,994.99 listings has not found a bargain; they have found a different market.",
+          "The second risk is the one-card set. The Ace Manga is 62.87% of the set's $2,704.02 total, and 119 of the set's 158 catalog versions sit under $1. A box opened for the Ace Manga is a box opened for one card out of 121 types, with no published pull rate to price the attempt. Buy the single.",
+          "The third risk is the rotation: OP-02 is a Block 1 set, and the is-op-02 guide of November 12, 2026 records that Standard now allows only Block 2 and later, so Paramount War plays in Extra Regulation. A playset bought for Standard is a playset for the wrong format. The fourth risk is the repricing: the whole OP-02 shelf fell exactly 15% on November 13, and a box bought as an investment can fall again as fast as it fell. The fifth risk is the reseal: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand."
+        ]
+      },
+      {
+        "h": "Context: 121 cards, two languages, and the Marineford pool",
+        "paragraphs": [
+          "Paramount War is the Marineford set: Whitebeard's crew against the Marines, Ace at the centre of it, and the admirals on the other side. It released in Japan on November 4, 2022, and in English on March 10, 2023. Bandai's official product page lists 121 card types: 8 leaders, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, and 2 Secret Rares, with 27 parallel versions, and the set carries no Special cards at all. The two Secret Rares are Uta, OP02-120, and Kuzan, OP02-121.",
+          "The language gap is the context that decides the purchase, and the repricing narrowed it. The Japanese box holds 24 packs of 6 cards plus one index card per pack, 144 cards, at $7.31 a pack. The English box holds 24 packs of 12 cards, 288 cards, at $13.76 a pack and $1.15 a card, cheaper per card than the Japanese box's $1.22, because the English packs carry twice the cards. The gap is $154.66 a box now, against $181.96 on November 12.",
+          "OP-02 is the second numbered set and the second manga card the game ever printed, after the Shanks Manga in OP-01 at $3,998.74. The Ace Manga at $1,700.00 is 42.51% of the Shanks, so the second manga trades at less than half the first, and the founding set's top ten total $7,485.32 against this set's $2,351.33. The [OP-02 Paramount War buyers guide](/blog/op-02-paramount-war-buyers-guide/) runs the same set as a buying guide at the old prices."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Ace Manga is 9.69 Japanese boxes and 5.15 English boxes at the November 3 market price. It is not for anyone who needs Standard-legal cards, because OP-02 rotated out on April 1, 2026, and it plays in Extra Regulation now. It is not for anyone buying the Ace Manga without checking the listing's language, condition, and grading, because listings ran far above the market price. It is not for anyone who treats a sealed box as a guaranteed investment, because the whole OP-02 shelf fell exactly 15% on November 13, and sealed prices move."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Ace Manga, own the priced tier, hold the Marineford set sealed, or own it in English.",
+          "If the job is the manga, buy the single: $1,700.00 on TCGplayer market as of November 3, 2026, or the cheapest listing at $2,994.99 on November 14, and check the language, condition, and grading, because the listings are not one price.",
+          "If the job is the priced tier, buy the English box at $330.12, and treat the manga as a bonus, not the plan.",
+          "If the job is Japanese, pay $175.46 for the box, or $1,687.57 for the case, and remember the box topper is one bonus card from six types, with the Boa Hancock topper near $29.",
+          "If the job is a case, divide it first: Japanese saves $417.95 a case, English saves $860.25 a case, and the English case title prints twelve boxes.",
+          "Check the wrap, the seams, and the listing before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-02 shelf moved 15% on November 13."
+        ],
+        "h": "Action layer: the OP-02 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 20, 2026, and the card values are TCGplayer market prices as of November 18-19, 2026, except the Ace Manga, whose market price is November 3, 2026, and whose listings are November 14, 2026. Our [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all twenty-four boxes the same way."
+        ]
+      }
+    ],
+    "slug": "op-02-best-cards",
+    "takeaway": [
+      "The OP-02 top ten, on TCGplayer market prices as of November 18-19, 2026, totals $2,351.33, and the Ace Manga Parallel, OP02-013, is $1,700.00 of it, 72.30% of the whole list. But the Ace Manga has no current market price: the $1,700.00 is from November 3, 2026, and the November 14 listings ran to a median near $3,145, with the cheapest at $2,994.99. Behind it sit the nine priced cards, led by the Sanji Alt Art at $126.89, and the nine together total $651.33.",
+      "On our shelf as of November 20, 2026, the Japanese box is $175.46 and the English box is $330.12, and all four OP-02 products fell exactly 15% on November 13. The Ace Manga is 9.69 Japanese boxes and 5.15 English boxes at the November 3 market price. The Japanese case saves $417.95 a case and the English case saves $860.25, and the English case title prints twelve boxes, confirmed on the live product page.",
+      "The week to November 19 moved the tail down: the Luffy Alt Art OP02-062 fell 15.3% to $53.79, the Luffy Alt Art OP02-041 fell 13.9% to $20.77, the Newgate Alt Art OP02-004 fell 8.5% to $15.61, and the Marco Alt Art OP02-018 fell 6.7% to $4.06. Bandai has never published pull rates for any One Piece set, so no expected-value math exists for this chase, and this page prints none.",
+      "The set is a one-card set: the Ace Manga is 62.87% of the $2,704.02 set total, and 119 of the set's 158 catalog versions sit under $1. OP-02 is a Block 1 set that rotated out of Standard on April 1, 2026 and plays in Extra Regulation now, so the box is a collector's buy, not a player's buy. Buy the single for the card, buy the box for the set.",
+      "Companion guide: the [OP-01 best cards guide](/blog/op-01-best-cards/) ranks the founding set's ten the same way, with the $3,998.74 Shanks Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [Japanese sealed case guide](/blog/one-piece-japanese-sealed-case/) prices every case against its own singles.",
+      "For the Extra Booster side of the same ranking, the [EB-02 best cards guide](/blog/eb-02-best-cards/) prices the Luffy Manga at $5,108.00 against its box."
     ]
   },
   "op-02-investment": {
