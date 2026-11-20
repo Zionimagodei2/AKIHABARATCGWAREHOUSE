@@ -20571,7 +20571,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the first all-female set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase, and the God Pack has no published rate either. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "The ladder below the top ten collapses fast: the Hancock alternate art is $22.97, and the five best cards below the top ten together are $59.85. The Vivi base print rose 31.90% in seven days while four alternate arts fell between 10.20% and 18.20%. The Japanese box trades at ¥13,200 on the Japanese resale market, about $83.15, against our $131.78 shelf price.",
       "Companion guide: the [EB-02 best cards guide](/blog/eb-02-best-cards/) ranks Anime 25th Collection the same way, with the $5,108.00 Luffy Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
-      "For the mainline-set side of the same ranking, the [OP-03 best cards guide](/blog/op-03-best-cards/) prices the Sogeking Manga at $919.56 against its box."
+      "For the mainline-set side of the same ranking, the [OP-03 best cards guide](/blog/op-03-best-cards/) prices the Sogeking Manga at $919.56 against its box.",
+      "The next Extra Booster in the series: the [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks Egghead Crisis the same way, with the $569.92 Koby Manga against its box."
     ]
   },
   "eb-03-heroines-edition-buyers-guide": {
@@ -20950,6 +20951,234 @@ export const POSTS: Record<string, BlogPost> = {
       "EB-03 Heroines Edition is a good sealed investment in English at $1,571.53 a case, dividing to $130.96 a box if it holds twelve and saving $435.83 against twelve singles, after a 32 percent English cut between November 5 and November 16, 2026, and an opening box in Japanese at $131.78, or 3.99 times the ¥5,280 official price.",
       "The Japanese case costs $0.92 more than twelve singles, at $131.86 a box against $131.78, while the English case is the set's best per-box deal and the cheapest per-card route at $0.45 a card; the language gap collapsed from $90.96 to $35.50 a box in eleven days.",
       "The Uta Comic Parallel, EB03-061, is the whole chase: about $679 in March 2026, a ¥85,000 raw ask on September 23, 2026, or $531.91, and $940.55 on TCGplayer on October 18, 2026, down 42 percent from its launch week, with the God Pack estimated at about one in 180 boxes."
+    ]
+  },
+  "eb-04-best-cards": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "The Koby Manga Rare, EB04-044, at $569.92 on TCGplayer market checked November 19, 2026, from Haki TCG's EB-04 snapshot. The Japanese market tells a different story: the lowest raw ask on SNKRDUNK on October 7, 2026 was ¥59,999, about $377.96 at 158.74 yen per dollar, and the PSA 10 ask was ¥137,999, about $869.35, so the TCGplayer market price and the Japanese asks are two different markets, not two prices for the same copy.",
+        "q": "What is the most valuable EB-04 card?"
+      },
+      {
+        "a": "No, not as a plan. The Koby Manga is $569.92 on TCGplayer market checked November 19, 2026, which is 7.37 Japanese boxes at $77.38 and 3.95 English case boxes at $144.42, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Buy the single if the card is the job, or buy the box to open Egghead Crisis and treat the chase as a bonus.",
+        "q": "Should I buy an EB-04 box to pull the Koby Manga?"
+      },
+      {
+        "a": "Buy EB-04 if the job is the Egghead set at the cheapest per-card price on the Japanese shelf: its top ten totals $1,034.96 on the same dated TCGplayer market read, and its Japanese box is $77.38 against EB-03's $131.78. Buy EB-03 if the job is the heroines set and the nine SPs: its top ten totals $6,536.26, with the Hancock SP at $1,436.07. Either way, buy the box for the set and the single for the card: the [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks Heroines Edition the same way.",
+        "q": "EB-04 vs EB-03: which should I buy?"
+      }
+    ],
+    "h1": "EB-04 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in EB-04 is the Koby Manga Rare, EB04-044, at $569.92 on TCGplayer market checked November 19, 2026. One manga leads the list at 55.07% of the top ten. On our shelf, November 20, 2026, the [EB-04 Japanese booster box](/product/eb-04-egghead-crisis-booster-box-japanese-one-piece-card/) is $77.38 and the [EB-04 Japanese sealed case](/product/eb-04-egghead-crisis-sealed-case-12-boxes-japanese-one-piece-card/) is $923.12, and there is no English booster box, only the [English sealed case](/product/eb-04-egghead-crisis-sealed-case-english-one-piece-card/) at $1,733.08. All three fell exactly 15.00% in eight days. Buy the box for the Egghead set, buy the single for the card.",
+      "Who this is for: collectors ranking the EB-04 chase, buyers choosing between the Japanese box and the English case, and players who want the Bonney leader. Who it is not for: anyone chasing one named card by opening boxes; anyone who wants a standalone English EB-04 box, because none exists; and anyone buying a sealed box as a guaranteed investment."
+    ],
+    "metaDescription": "EB-04's 10 best cards on TCGplayer market, Nov 19, 2026: the $569.92 Koby Manga, the $93.07 Smoker SP, and the $77.38 Japanese box.",
+    "metaTitle": "EB-04 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one manga, nine more, and a shelf that fell 15%",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 19, 2026, from Haki TCG's EB-04 snapshot. The ten cards add to $1,034.96, and the top three are $745.50 of it, 72.03% of the whole list. Koby (Manga) EB04-044 is $569.92, Smoker and Tashigi (SP) EB04-003 is $93.07, and Borsalino (AA) EB04-058 is $82.51. Behind them come Eustass Captain Kid (SP) EB04-039 at $68.66, Roronoa Zoro (AA) EB04-007 at $57.20, and Rosinante and Law (AA) EB04-038 at $40.95. The bottom four are Jewelry Bonney (AA) EB04-001 at $32.22, Nefeltari Vivi (AA) EB04-025 at $31.34, King (AA) EB04-031 at $29.74, and Borsalino (SR) EB04-058 at $29.35.",
+          "The split is the story. One manga is $569.92, 55.07% of the top ten. Two Special Parallel cards are $161.73, 15.63%. Six alternate arts are $273.96, 26.47%. One base Super Rare, the Borsalino print without the alternate art, is $29.35, 2.84%. No Leader base print makes the top ten. That is the set: one card plus nine followers, and almost nothing underneath.",
+          "A collector chasing Koby buys the single: the card is 7.37 Japanese boxes, and no pull rate exists to price the chase any other way. A collector who wants the Egghead pool buys the Japanese box at $77.38, the cheapest way into all ten at once; the [is EB-04 worth buying guide](/blog/is-eb-04-worth-buying/) verdicts the same three products at the November 12 prices, before the 15% cut. The English buyer has no box to buy, only the English sealed case."
+        ]
+      },
+      {
+        "h": "The money layer: the board, divided",
+        "math": [
+          "EB-04 Japanese box per pack: $77.38 / 24 packs = $3.22 per pack",
+          "EB-04 Japanese box per card: $77.38 / 144 cards = $0.54 per card",
+          "EB-04 Japanese case per box: $923.12 / 12 boxes = $76.93 per box",
+          "EB-04 Japanese case per pack: $923.12 / 288 packs = $3.21 per pack",
+          "EB-04 Japanese case per card: $923.12 / 1,728 cards = $0.53 per card",
+          "EB-04 Japanese case saving per case: 12 x $77.38 = $928.56; $928.56 - $923.12 = $5.44 per case",
+          "EB-04 Japanese case saving per box: $77.38 - $76.93 = $0.45 per box",
+          "EB-04 English case per box if 12: $1,733.08 / 12 = $144.42 per box",
+          "EB-04 English case per pack if 12: $1,733.08 / 288 = $6.02 per pack",
+          "EB-04 English case vs Japanese box per box: $144.42 - $77.38 = $67.04 per box",
+          "EB-04 English case vs OP-14 English box: $184.54 - $144.42 = $40.12 less per box",
+          "EB-04 English case vs OP-15 English box: $181.24 - $144.42 = $36.82 less per box",
+          "CONDITIONAL, NOT CLAIMED: if the English case held 12 OP-14 boxes, 12 x $184.54 = $2,214.48; $2,214.48 - $1,733.08 = $481.40 saved",
+          "CONDITIONAL, NOT CLAIMED: if the English case held 12 OP-15 boxes, 12 x $181.24 = $2,174.88; $2,174.88 - $1,733.08 = $441.80 saved",
+          "EB-04 English OP-14 + OP-15 boxes: $184.54 + $181.24 = $365.78; $365.78 / $77.38 = 4.73x the Japanese box",
+          "EB-04 English OP-14 box per pack: $184.54 / 24 packs = $7.69 per pack",
+          "EB-04 English OP-15 box per pack: $181.24 / 24 packs = $7.55 per pack",
+          "EB-04 English OP-14 box per card: $184.54 / 288 cards = $0.64 per card",
+          "EB-04 English OP-15 box per card: $181.24 / 288 cards = $0.63 per card",
+          "EB-04 English OP-14 box vs MSRP: 24 packs x $4.99 = $119.76; $184.54 / $119.76 = 1.54x",
+          "EB-04 English OP-15 box vs MSRP: 24 packs x $4.99 = $119.76; $181.24 / $119.76 = 1.51x",
+          "EB-04 Japanese official box: 24 packs x 220 yen = 5,280 yen; 5,280 / 158.74 yen per dollar = $33.26; $77.38 / $33.26 = 2.33x",
+          "EB-04 Japanese pack in dollars: 220 yen / 158.74 yen per dollar = $1.39 per pack",
+          "EB-04 Japanese box repricing: $91.03 - $77.38 = $13.65; $13.65 is 15.00% of $91.03",
+          "EB-04 Japanese case repricing: $1,086.02 - $923.12 = $162.90; $162.90 is 15.00% of $1,086.02",
+          "EB-04 English case repricing: $2,038.92 - $1,733.08 = $305.84; $305.84 is 15.00% of $2,038.92",
+          "EB-04 English case repricing Nov 5 to Nov 12: $2,548.65 - $2,038.92 = $509.73; $509.73 is 20.00% of $2,548.65",
+          "EB-04 English case repricing Nov 5 to Nov 20: $2,548.65 - $1,733.08 = $815.57; $815.57 is 32.00% of $2,548.65",
+          "EB-04 English OP-14 box repricing: $217.11 - $184.54 = $32.57; $32.57 is 15.00% of $217.11",
+          "EB-04 English OP-15 box repricing: $213.22 - $181.24 = $31.98; $31.98 is 15.00% of $213.22",
+          "EB-04 English OP-14 box repricing Nov 5 to Nov 20: $271.39 - $184.54 = $86.85; $86.85 is 32.00% of $271.39",
+          "EB-04 English OP-15 box repricing Nov 5 to Nov 20: $266.52 - $181.24 = $85.28; $85.28 is 32.00% of $266.52",
+          "EB-04 Japanese box vs sold-first market box: $80.61 - $77.38 = $3.23 below the November 18, 2026 CardZ reference",
+          "EB-04 Japanese box vs SNKRDUNK ask: 12,800 yen / 158.74 yen per dollar = $80.64; $80.64 - $77.38 = $3.26 below the September 30, 2026 ask",
+          "EB-04 top 10 total: $569.92 + $93.07 + $82.51 + $68.66 + $57.20 + $40.95 + $32.22 + $31.34 + $29.74 + $29.35 = $1,034.96",
+          "EB-04 top 3 total: $569.92 + $93.07 + $82.51 = $745.50; $745.50 / $1,034.96 = 72.03% of the top 10",
+          "EB-04 other nine cards total: $1,034.96 - $569.92 = $465.04",
+          "EB-04 Koby Manga share: $569.92 / $1,034.96 = 55.07% of the top 10",
+          "EB-04 two SPs total: $93.07 + $68.66 = $161.73; $161.73 / $1,034.96 = 15.63% of the top 10",
+          "EB-04 six alternate arts total: $82.51 + $57.20 + $40.95 + $32.22 + $31.34 + $29.74 = $273.96; $273.96 / $1,034.96 = 26.47% of the top 10",
+          "EB-04 Koby Manga against the boxes: $569.92 / $77.38 = 7.37 Japanese boxes; $569.92 / $144.42 = 3.95 English case boxes",
+          "EB-04 Smoker & Tashigi SP against the box: $93.07 / $77.38 = 1.20 Japanese boxes",
+          "EB-04 Borsalino alternate art against the box: $82.51 / $77.38 = 1.07 Japanese boxes",
+          "EB-04 Eustass Kid SP against the box: $68.66 / $77.38 = 0.89 Japanese boxes",
+          "EB-04 Zoro alternate art against the box: $57.20 / $77.38 = 0.74 Japanese boxes",
+          "EB-04 Rosinante & Law alternate art against the box: $40.95 / $77.38 = 0.53 Japanese boxes",
+          "EB-04 Bonney alternate art against the box: $32.22 / $77.38 = 0.42 Japanese boxes",
+          "EB-04 Vivi alternate art against the box: $31.34 / $77.38 = 0.41 Japanese boxes",
+          "EB-04 King alternate art against the box: $29.74 / $77.38 = 0.38 Japanese boxes",
+          "EB-04 Borsalino base Super Rare against the box: $29.35 / $77.38 = 0.38 Japanese boxes",
+          "EB-04 top 10 against the boxes: $1,034.96 / $77.38 = 13.38 Japanese boxes; $1,034.96 / $144.42 = 7.17 English case boxes",
+          "EB-04 same seven cards Oct 31 to Nov 19: $875.37 to $942.05; $942.05 - $875.37 = $66.68; $66.68 is 7.62% of $875.37",
+          "EB-04 Borsalino alternate art between reads: $82.51 - $56.83 = $25.68; $25.68 is 45.19% of $56.83",
+          "EB-04 Zoro alternate art between reads: $57.20 - $66.10 = -$8.90; -$8.90 is -13.46% of $66.10",
+          "EB-04 Koby Manga Oct 31 to Nov 19: $569.92 - $513.48 = $56.44; $56.44 is 10.99% of $513.48",
+          "EB-04 Koby Manga August range at 158.74: 99,800 yen / 158.74 = $628.70; 138,000 yen / 158.74 = $869.35",
+          "EB-04 Koby Manga PSA 10 against raw: $862.08 - $513.48 = $348.60; $862.08 / $513.48 = 1.68x",
+          "EB-04 Zoro SP against the box: $563.90 / $77.38 = 7.29 Japanese boxes",
+          "EB-04 Zeus SP against the box: $242.84 / $77.38 = 3.14 Japanese boxes",
+          "EB-04 Zoro SP against Koby: $563.90 / $569.92 = 98.94% of the Koby Manga"
+        ],
+        "paragraphs": [
+          "All three EB-04 products fell exactly 15.00% between November 12 and November 20, 2026. The Japanese box went from $91.03 to $77.38, the Japanese case from $1,086.02 to $923.12, and the English case from $2,038.92 to $1,733.08. The Japanese pair had not moved between November 5 and November 12, so the whole move is eight days old. The English case has now fallen 32.00% since November 5: 20.00% by November 12, then 15.00% more.",
+          "The language gap is wide. The Japanese box is $77.38 for 24 packs of 6 cards, $3.22 a pack and $0.54 a card, against a 5,280 yen official box price, $33.26 at 158.74 yen per dollar, so the Japanese box is 2.33 times its official price. The English comparison runs through the case: $1,733.08, or $144.42 a box if it holds twelve, against the two English boxes that carry EB-04 cards, OP-14 at $184.54 and OP-15 at $181.24. The case sits $40.12 below OP-14 and $36.82 below OP-15 per box, if the count is twelve.",
+          "The cases point in opposite directions. The [Japanese case](/product/eb-04-egghead-crisis-sealed-case-12-boxes-japanese-one-piece-card/) is $923.12, or $76.93 a box, which is $5.44 less than twelve singles at $928.56, or $0.45 a box. The [English case](/product/eb-04-egghead-crisis-sealed-case-english-one-piece-card/) is $1,733.08, and it saves $481.40 against twelve OP-14 boxes or $441.80 against twelve OP-15 boxes only if it holds twelve boxes of the product you want: no listing prints the box count or the contents. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on EB-04, what each costs per pack, what it is for, and where it fails. Read the failure column, because the failure is the verdict.",
+          "The English rows deserve a second look, because they are the split. The set's cards are divided: 31 cards, EB04-011 to EB04-041, inside OP-14, and 30 inside OP-15, so buying both English boxes costs $365.78 for the split EB-04 cards plus two full main sets. The Japanese box is the only product with the complete Egghead Crisis card pool, at $0.54 a card. The [OP-14 Azure Sea's Seven buyers guide](/blog/op-14-azure-seas-seven-buyers-guide/) and the [OP-15 Adventure on Kami's Island buyers guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/) price the two English sets. The [EB-04 investment guide](/blog/eb-04-investment/) runs the same three products as a hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$77.38",
+              "$3.22",
+              "Opening Egghead Crisis in Japanese",
+              "Chase not guaranteed; 2.33x MSRP"
+            ],
+            [
+              "Japanese case (12)",
+              "$923.12",
+              "$76.93 a box",
+              "Sealed run; group split",
+              "Saves only $5.44 over singles"
+            ],
+            [
+              "English case",
+              "$1,733.08",
+              "$144.42 a box if 12",
+              "English boxes in bulk",
+              "No standalone EN EB-04; read the listing"
+            ],
+            [
+              "English OP-14 box",
+              "$184.54",
+              "$7.69",
+              "EB-04 cards in English, one box at a time",
+              "Only part of the EB-04 pool inside"
+            ],
+            [
+              "English OP-15 box",
+              "$181.24",
+              "$7.55",
+              "EB-04 cards in English, one box at a time",
+              "Only part of the EB-04 pool inside"
+            ],
+            [
+              "The single",
+              "$569.92 Koby Manga",
+              "n/a",
+              "Owning the chase card",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the split, and the market box",
+        "note": "From the Warehouse: the question we get most in chat about EB-04 is whether the English case is a mistake, because buyers know there is no English EB-04 box and then see an English sealed case on the shelf at $1,733.08. It is not a mistake, and it is not a standalone English box either. The case is an English-format sealed case listed under the EB-04 name, and the buyer who wants EB-04 cards in English should check the listing for exactly which English product the case holds before paying, because the cards themselves ship inside OP-14 and OP-15. The second question is whether the box falls further after the 15% cut. We do not know, and anyone who says they do is guessing: the Japanese box held $91.03 from November 5 to November 12 and then fell in one move.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there. Samurai Sword Tokyo prices the chase on October 7, 2026 SNKRDUNK asks. Assetra ranks by graded market cap. The cardcenteringtool guide mixes printings: its Kid row shows $0.11 raw beside a $211.79 PSA 10. What The Slab prices the top eight on sold prices of October 31, 2026. None of them ties the ranking to a box price you can actually pay today, or divides the box and the case to the cent.",
+          "The gap this page owns is threefold: the shelf prices, the dated market read, and the box and case division. The shelf prices are ours, stamped November 20, 2026. The dated market read is Haki TCG's November 19, 2026 TCGplayer snapshot, all ten printings, $1,034.96 in total. The division is the arithmetic in the money layer. No other best-cards list for this set carries all three.",
+          "The second gap is the split: EB-04 has no standalone English release, so a ranking that treats the set as one English product is wrong from the first line. The EB04-numbered cards ship inside OP-14, released in English on January 16, 2026, and OP-15, released in English on April 3, 2026, and the two English boxes together cost $365.78, 4.73 times the Japanese box. The third gap is the reprint SPs: the Zoro SP and the Zeus SP are the two most valuable cards you can pull from an EB-04 pack that this top ten does not rank, because TCGplayer catalogs them under PRB-02 and OP-11. The fourth gap is the repricing, which no guide has yet."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is one card. Koby (Manga) EB04-044 is $569.92, and it is 55.07% of the top ten combined. The next card, Smoker and Tashigi (SP) EB04-003, is $93.07, $476.85 behind Koby, and the manga is worth more than the other nine cards combined, which total $465.04. The October 31 sold-based read put it at $513.48 raw, $862.08 as a PSA 10.",
+          "The second rung is the two SPs and the first alternate art. Smoker and Tashigi (SP) is $93.07, Borsalino (AA) is $82.51, and Eustass Kid (SP) is $68.66, together $244.24. Behind them Zoro (AA) is $57.20 and Rosinante and Law (AA) is $40.95. The Borsalino alternate art is the mover: $56.83 on the October 31 sold-based read, $82.51 on the November 19 TCGplayer market read, a gap of $25.68 between two dated reads, while the Zoro alternate art moved the other way, from $66.10 to $57.20.",
+          "The third rung is the bottom four. Bonney (AA) is $32.22, Vivi (AA) is $31.34, King (AA) is $29.74, and Borsalino (SR) is $29.35, together $122.65. Below the top ten, the card that fell out is the Luffy alternate art: $31.09 on the October 31 sold-based read, eighth in that ranking, and it does not make the November 19 top ten at all.",
+          "Outside the ranked ten sit the four cross-set SP reprints. The Roronoa Zoro SP, PRB02-006, carries a November 19, 2026 OP-Atlas estimate of $563.90, 98.94% of the Koby Manga and 7.29 Japanese boxes, while the Zeus SP, OP11-106, carries a November 19 estimate of $242.84, 3.14 boxes. The other two, the Sabo SP, PRB02-014, and the Edward Weevil SP, EB01-023, carry no November raw read in this check. They are in EB-04 packs but not in the ranked ten, because TCGplayer catalogs them under their own sets."
+        ]
+      },
+      {
+        "h": "The risk layer: the manga price, the English case, and the $569.92 card",
+        "paragraphs": [
+          "The first risk is the chase price itself: a range across three dated reads, not a single number. The Koby Manga stood at $513.48 raw on the October 31, 2026 sold-based read, $582.41 on Midpoint's November 10, 2026 read, and $569.92 on Haki TCG's November 19, 2026 TCGplayer market read. A card that moved $68.93 between reads in nineteen days can move again. A raw copy carries condition risk, and a graded copy carries a premium: the PSA 10 at $862.08 on October 31 is 1.68 times the raw price on the same read.",
+          "The second risk is the English case bought without reading the listing. EB-04 has no standalone English release, so the $40.12 and $36.82 per-box savings in the table exist only against a product the case actually holds. Check the listing for exactly which English product the case holds before paying $1,733.08. The third risk is the Japanese case bought for a discount that is barely there: twelve singles cost $928.56 against the case at $923.12, a saving of $5.44.",
+          "The fourth risk is the reseal, and it is the same check as everywhere: EB-04 was distributed through pre-release lotteries and limited-quantity sales, so availability was limited from the first day, and the Japanese box trades at 2.33 times its ¥5,280 pack-price arithmetic, which is exactly what resealers monetize. Check the seal, wrap tension, and pack order before opening; [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows how. The fifth risk is legality, restated plainly: Japanese cards are generally not legal at official events outside Asia, so a player who buys Japanese to compete has bought the wrong product. The sixth risk is the Borsalino pair: Borsalino, EB04-058, sits in a banned pair with OP07-115, I Re-Quasar Helllp!!, both cards legal individually and illegal together in the same deck, on a ban list of 6 cards and 3 pairs as of October 12, 2026. The sealed-hold plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/)."
+        ]
+      },
+      {
+        "h": "Context: 67 cards, the Bonney leader, and the split",
+        "paragraphs": [
+          "Egghead Crisis is the fourth Extra Booster, built around Jewelry Bonney and the Egghead Island story. The official Japanese page lists 67 card types plus 1 DON!! card: 1 Leader, 29 Commons, 21 Rares, 9 Super Rares, 1 Secret Rare, 6 Special cards, and 1 DON!! card, at ¥220 per pack. The set's single Leader is Jewelry Bonney, EB04-001, the first Red and Yellow Bonney leader in the game. Bonney won a Japanese Flagship tournament 5-0 on February 21, 2026. The official card list runs to 85 rows with parallels. On rotation: Bandai introduced the Block Number System on April 1, 2026, Standard for April 2026 to March 2027 runs Blocks 2 to 5, and EB-04 is Block 4.",
+          "The language gap decides the purchase, and on this set it follows the split. The Japanese pack holds 6 cards at ¥220, so the Japanese box divides to $3.22 a pack and $0.54 a card. The English OP-14 and OP-15 boxes hold 24 packs of 12 cards at $4.99, so they divide to $7.69 and $7.55 a pack and $0.64 and $0.63 a card, and the Japanese box is the only complete product. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) rank all the boxes to per-pack prices. The [EB-04 Egghead Crisis buyers guide](/blog/eb-04-egghead-crisis-buyers-guide/) priced the same three products on November 5."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the Koby Manga is 7.37 Japanese boxes, and no pull rate exists to price the chase any other way. It is not for anyone who wants a standalone English EB-04 box, because none exists. It is not for anyone who wants a Japanese case discount, because the case saves $0.45 a box. It is not for anyone who will pay $1,733.08 for an English case without reading the listing first. And it is not for anyone who needs a return on a date: sealed EB-04 is a speculation, and the whole shelf fell 15.00% in eight days."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Koby Manga, own the nine followers, own the complete set, hold it sealed, or own it in English.",
+          "If the job is Koby, buy the single: $569.92 raw on the November 19, 2026 TCGplayer market read, or $862.08 as a PSA 10 on the October 31 sold-based read.",
+          "If the job is the ten, buy the Japanese box at $77.38, and treat the manga as a bonus, not the plan.",
+          "If the job is English, read the case listing first, then pay $1,733.08 only if it holds the product you want; otherwise buy OP-14 at $184.54 or OP-15 at $181.24.",
+          "If the job is a case, divide it first: Japanese saves $0.45 a box, English saves $40.12 or $36.82 a box only against a verified product.",
+          "Check the wrap and seams before you pay, check the Borsalino pair before building a deck around EB04-058, and re-check the shelf price on the day you buy, because the whole EB-04 shelf moved 15.00% in eight days."
+        ],
+        "h": "Action layer: the EB-04 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 20, 2026, and the card values are TCGplayer market prices checked November 19, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles, and the [OP-03 best cards guide](/blog/op-03-best-cards/) ranks the Yellow debut set's ten the same way."
+        ]
+      }
+    ],
+    "slug": "eb-04-best-cards",
+    "takeaway": [
+      "The EB-04 top ten, on TCGplayer market prices checked November 19, 2026, totals $1,034.96, and the Koby Manga, EB04-044, is $569.92 of it, 55.07% of the whole list. One manga, two SPs at $161.73, six alternate arts at $273.96, and one base Super Rare at $29.35.",
+      "On our shelf as of November 20, 2026, the Japanese box is $77.38 and the Japanese case is $923.12, and there is no English booster box, only the English case at $1,733.08. All three products fell exactly 15.00% since November 12, and the English case has now fallen 32.00% since November 5. The Koby Manga is 7.37 Japanese boxes and 3.95 English case boxes. The Japanese case saves $5.44 over twelve singles, and the English case saves $481.40 or $441.80 only if it holds twelve boxes of the product you want, a count no listing prints.",
+      "It is worth buying as the complete Egghead set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "The ladder below the top ten is thin: the Luffy alternate art was $31.09 on the October 31 sold-based read and does not make the November 19 top ten at all. The same seven cards that appear on both reads rose $66.68, 7.62%, between the October 31 sold-based read and the November 19 TCGplayer market read, while the Borsalino alternate art moved $25.68 between the two reads and the Zoro alternate art moved the other way. The Japanese box trades $3.23 below the November 18 sold-first market box of $80.61.",
+      "Companion guide: the [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks Heroines Edition the same way, with the $1,436.07 Hancock SP against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the English side of the same split, the [OP-14 Azure Sea's Seven buyers guide](/blog/op-14-azure-seas-seven-buyers-guide/) and the [OP-15 Adventure on Kami's Island buyers guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/) price the two boxes that carry EB-04 cards in English. For the verdict that priced these three products before the cut, the [is EB-04 worth buying guide](/blog/is-eb-04-worth-buying/) carries the November 12 shelf.",
+      "For the mainline-set side of the same ranking, the [OP-04 best cards guide](/blog/op-04-best-cards/) ranks Kingdoms of Intrigue the same way, with the $1,053.91 Hancock SP against its box."
     ]
   },
   "eb-04-egghead-crisis-buyers-guide": {
@@ -24715,7 +24944,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the complete Egghead set, sealed or opened, and it is not worth buying as a way to own one named card. The Koby Manga Rare carried a sold-based raw price of $513.48 on October 31, 2026, which is 5.64 Japanese boxes, and $862.08 as a PSA 10, which is 9.47 boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is worth buying in English only after the listing check, because EB-04 has no standalone English release: its cards ship inside OP-14, released in English on January 16, 2026, and OP-15, released in English on April 3, 2026. It is not worth buying as a Japanese case discount, because the case saves $0.53 a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of August to November 11, 2026. The 20% English drop and the Koby slide from its August peak are the facts that outlive every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [is EB-03 worth buying guide](/blog/is-eb-03-worth-buying/) prices the Heroines Edition the same way, with its own 20% English drop and the Uta Manga against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+      "Companion guide: the [is EB-03 worth buying guide](/blog/is-eb-03-worth-buying/) prices the Heroines Edition the same way, with its own 20% English drop and the Uta Manga against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "The [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks the set's ten best cards on the November 19 TCGplayer market read, with the $569.92 Koby Manga against its box."
     ]
   },
   "is-fb07-worth-buying": {
@@ -26954,8 +27184,9 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Dressrosa debut set, sealed or opened, and it is not worth buying as a way to own one named card. The Sabo Manga sat at $749.48 on TCGplayer market as of November 4, 2026, which is 4.02 Japanese boxes and 1.39 English boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is not worth buying for Standard play: Kingdoms of Intrigue rotated out on April 1, 2026, when Block 1 left Standard, and it plays in Extra Regulation now, with the single exception of Bad Manners Kick Course, OP04-016, which Bandai treats as Block 4. It is a collector's purchase, and the rotation is the fact that outlives every price on this page.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of November 3 to November 5, 2026. The 20% English repricing is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [is OP-03 worth buying guide](/blog/is-op-03-worth-buying/) prices Pillars of Strength the same way, with its own 20% English drop and the Sogeking Manga against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
-      "New this cycle: the [OP-04 Kingdoms of Intrigue investment guide](/blog/op-04-investment/) runs the same division for the holder, with the English box now $33.56 below market after a 32% repricing in twelve days."
+      "Companion guide: the [is OP-03 worth buying guide](/blog/is-op-03-worth-buying/) prices Pillars of Strength the same way, with its own 20% English drop and the Sogeking Manga against the box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "Companion guide: the [OP-04 Kingdoms of Intrigue investment guide](/blog/op-04-investment/) runs the same division for the holder, with the English box now $33.56 below market after a 32% repricing in twelve days.",
+      "The [OP-04 best cards guide](/blog/op-04-best-cards/) ranks the set's ten best cards on the November 19-20 TCGplayer market read, with the $1,053.91 Hancock SP against its box."
     ]
   },
   "is-op-05-worth-buying": {
@@ -45122,7 +45353,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Yellow debut set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus. The English box sits $2.81 above the TickerMint market box of $488.22, while the Japanese box sits $56.31 above a Tokyo listing of ¥14,779.",
       "The ladder below the top ten falls off fast: Arlong is $32.09 and Iceburg is $30.66, and the Sogeking alternate-art print is $23.35. Kid fell 8.10% in seven days while the Sogeking Manga rose 0.56% in sixteen days. Fourteen cards in the set are worth more than a pack, and the five priciest singles total $1,725.30.",
       "Companion guide: the [OP-02 best cards guide](/blog/op-02-best-cards/) ranks Paramount War the same way, with the $1,700.00 Ace Manga against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
-      "For the Extra Booster side of the same ranking, the [EB-03 best cards guide](/blog/eb-03-best-cards/) prices the Hancock SP at $1,436.07 against its box."
+      "For the Extra Booster side of the same ranking, the [EB-03 best cards guide](/blog/eb-03-best-cards/) prices the Hancock SP at $1,436.07 against its box.",
+      "The next mainline set in the series: the [OP-04 best cards guide](/blog/op-04-best-cards/) ranks Kingdoms of Intrigue the same way, with the $1,053.91 Hancock SP against its box."
     ]
   },
   "op-03-investment": {
@@ -45516,6 +45748,206 @@ export const POSTS: Record<string, BlogPost> = {
       "For the successor set, see [OP-04 Kingdoms of Intrigue Buyer's Guide](/blog/op-04-kingdoms-of-intrigue-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the predecessor set, see [OP-02 Paramount War Buyer's Guide](/blog/op-02-paramount-war-buyers-guide/).",
       "New this cycle: the [is OP-03 worth buying guide](/blog/is-op-03-worth-buying/) prices Pillars of Strength the same way, with the 20% English drop and the Sogeking comic parallel against the box.",
       "New this cycle: the [OP-03 Pillars of Strength investment guide](/blog/op-03-investment/) runs the same division for the holder, with the English box now below market after a 32% repricing in twelve days."
+    ]
+  },
+  "op-04-best-cards": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "The Boa Hancock Special Parallel, OP01-078, at $1,053.91 on TCGplayer market as of November 19-20, 2026, from TCGPursuit's OP-04 page. It is a reprint of an OP-01 Super Rare, pulled from OP-04 packs, and it is 44.04% of the top ten combined. The set's own Manga Rare, the Sabo Manga OP04-083, is second at $696.30, and no other card in the set clears $200.",
+        "q": "What is the most valuable OP-04 card?"
+      },
+      {
+        "a": "No, not as a plan. The Sabo Manga is $696.30 on TCGplayer market as of November 19-20, 2026, which is 4.39 Japanese boxes at $158.60 and 1.52 English boxes at $458.65, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Buy the single if the card is the job, or buy the box to open Kingdoms of Intrigue and treat the chase as a bonus.",
+        "q": "Should I buy an OP-04 box to pull the Sabo Manga card?"
+      },
+      {
+        "a": "No, not as a Block 1 set. Kingdoms of Intrigue left Standard on April 1, 2026, when Block 1, OP-01 through OP-04, rotated out, and it plays in Extra Regulation now. Two exceptions survive in Bandai's own lists: the Sabo Manga Rare carries Block X, which keeps it Standard-legal, and Bad Manners Kick Course, OP04-016, is treated as Block 4, so that single card stays Standard-legal until March 31, 2029. The box itself is a collector's purchase.",
+        "q": "Is OP-04 still legal in Standard tournaments?"
+      }
+    ],
+    "h1": "OP-04 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-04 is the Boa Hancock Special Parallel, OP01-078, at $1,053.91 on TCGplayer market as of November 19-20, 2026. The chase is five cross-set SP reprints, one Manga Rare, and four leader alternate arts, and the ten together are $2,393.20. The Sabo Manga Rare, OP04-083, is second at $696.30, and no other card clears $200. On our shelf, November 20, 2026, the [OP-04 Japanese booster box](/product/op-04-kingdoms-of-intrigue-booster-box-japanese-one-piece-card/) is $158.60 and the [OP-04 English booster box](/product/op-04-kingdoms-of-intrigue-booster-box-english-one-piece-card/) is $458.65, and neither has moved since November 17. Buy the box for the Dressrosa set, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-04 chase, buyers choosing between the Japanese and English box after the repricing, and players who want the two-colour leaders for Extra Regulation. Who it is not for: anyone chasing one named card by opening boxes, anyone who needs Standard-legal cards, and anyone buying a sealed box as a guaranteed investment, because the English box fell 32.00% in twelve days."
+    ],
+    "metaDescription": "OP-04 best cards ranked on TCGplayer market prices, Nov 19-20, 2026: the $1,053.91 Hancock SP, the $696.30 Sabo Manga, and the $158.60 Japanese box.",
+    "metaTitle": "OP-04 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: an SP reprint leads, and the manga is second",
+        "paragraphs": [
+          "The ranking below is one dated read. Every value is a TCGplayer market price as of November 19-20, 2026, from TCGPursuit's OP-04 page, which prices 158 catalog versions. The ten add to $2,393.20, and the top two are $1,750.21 of it, 73.13% of the list. Boa Hancock (SP) OP01-078 is $1,053.91, and the Sabo Manga, OP04-083, is $696.30, $357.61 behind Hancock. Behind them the list falls off a cliff: Trafalgar Law (SP) OP01-047 is $173.25, Edward.Newgate (SP) OP02-004 is $134.01, Nefeltari Vivi (001) alternate art, OP04-001, is $89.86, and Sakazuki (SP) OP02-099 is $67.02. The bottom four are Donquixote Doflamingo, OP04-019, at $56.49, Crocodile, OP04-058, at $40.99, Rebecca, OP04-039, at $40.97, and the Magellan SP, OP02-085, at $40.40.",
+          "The split is the story, and it is not the split a buyer expects from a mainline set. Five of the ten are Special Parallel reprints of OP-01 and OP-02 cards, together $1,468.59, or 61.37% of the top ten. The set's only Manga Rare is $696.30, 29.09% of the list. The four leader alternate arts that carry OP-04 numbers are $228.31 together, 9.54% of the top ten. No base-print card makes the list, and no Secret Rare does either: the Vivi Secret Rare, OP04-118, is $5.37, and its alternate art is $21.16.",
+          "A collector chasing Hancock buys the single, because the card is 6.65 Japanese boxes and 2.30 English boxes, and no pull rate exists to price the chase any other way. A collector who wants the Dressrosa pool buys the Japanese box at $158.60, the cheapest way into all ten cards at once, and the [OP-04 investment guide](/blog/op-04-investment/) verdicts the same four products at the November 17 prices, which are the prices on the shelf today."
+        ]
+      },
+      {
+        "h": "The money layer: the board, divided",
+        "math": [
+          "OP-04 Japanese box per pack: $158.60 / 24 packs = $6.61 per pack",
+          "OP-04 Japanese box per card: $158.60 / 144 cards = $1.10 per card",
+          "OP-04 Japanese case per box: $1,898.43 / 12 boxes = $158.20 per box",
+          "OP-04 Japanese case saving: 12 x $158.60 = $1,903.20; $1,903.20 - $1,898.43 = $4.77 saved ($0.40 per box)",
+          "OP-04 Japanese case per pack: $1,898.43 / 288 packs = $6.59 per pack",
+          "OP-04 Japanese case per card: $1,898.43 / 1,728 cards = $1.10 per card",
+          "OP-04 English box per pack: $458.65 / 24 packs = $19.11 per pack",
+          "OP-04 English box per card: $458.65 / 288 cards = $1.59 per card",
+          "OP-04 English case per box: $4,308.16 / 12 boxes = $359.01 per box",
+          "OP-04 English case saving: 12 x $458.65 = $5,503.80; $5,503.80 - $4,308.16 = $1,195.64 saved ($99.64 per box)",
+          "OP-04 English case per pack: $4,308.16 / 288 packs = $14.96 per pack",
+          "OP-04 English case per card: $4,308.16 / 3,456 cards = $1.25 per card",
+          "OP-04 language gap per box: $458.65 - $158.60 = $300.05; $300.05 / 24 packs = $12.50 per pack",
+          "OP-04 language gap per card: $1.59 - $1.10 = $0.49 per card",
+          "OP-04 Japanese box vs official price: 24 packs x 220 yen = 5,280 yen; 5,280 / 158.74 yen per dollar = $33.26; $158.60 / $33.26 = 4.77x",
+          "OP-04 English box vs MSRP: 24 packs x $4.49 = $107.76; $458.65 / $107.76 = 4.26x",
+          "OP-04 English box vs market: $458.65 - $328.81 = $129.84 above the November 20, 2026 WorthRipping market read",
+          "OP-04 market trackers disagree: $491.37 - $328.81 = $162.56 between the Pullnomics and WorthRipping reads on November 20, 2026",
+          "OP-04 Japanese repricing Nov 12 to Nov 17: $186.59 - $158.60 = $27.99; $27.99 is 15.00% of $186.59",
+          "OP-04 Japanese case repricing Nov 12 to Nov 17: $2,233.45 - $1,898.43 = $335.02; $335.02 is 15.00% of $2,233.45",
+          "OP-04 English box repricing Nov 5 to Nov 12: $674.49 - $539.59 = $134.90; $134.90 is 20.00% of $674.49",
+          "OP-04 English box repricing Nov 12 to Nov 17: $539.59 - $458.65 = $80.94; $80.94 is 15.00% of $539.59",
+          "OP-04 English box repricing Nov 5 to Nov 17: $674.49 - $458.65 = $215.84; $215.84 is 32.00% of $674.49",
+          "OP-04 English case repricing Nov 5 to Nov 17: $6,335.52 - $4,308.16 = $2,027.36; $2,027.36 is 32.00% of $6,335.52",
+          "OP-04 shelf Nov 17 to Nov 20: $158.60 - $158.60 = $0.00; $458.65 - $458.65 = $0.00; no movement on any of the four products",
+          "OP-04 top 10 total: $1,053.91 + $696.30 + $173.25 + $134.01 + $89.86 + $67.02 + $56.49 + $40.99 + $40.97 + $40.40 = $2,393.20",
+          "OP-04 top 3 total: $1,053.91 + $696.30 + $173.25 = $1,923.46; $1,923.46 / $2,393.20 = 80.37% of the top 10",
+          "OP-04 top 2 total: $1,053.91 + $696.30 = $1,750.21; $1,750.21 / $2,393.20 = 73.13% of the top 10",
+          "OP-04 five SPs total: $1,053.91 + $173.25 + $134.01 + $67.02 + $40.40 = $1,468.59; $1,468.59 / $2,393.20 = 61.37% of the top 10",
+          "OP-04 four leader alternate arts total: $89.86 + $56.49 + $40.99 + $40.97 = $228.31; $228.31 / $2,393.20 = 9.54% of the top 10",
+          "Boa Hancock against the boxes: $1,053.91 / $158.60 = 6.65 Japanese boxes; $1,053.91 / $458.65 = 2.30 English boxes",
+          "Sabo Manga against the boxes: $696.30 / $158.60 = 4.39 Japanese boxes; $696.30 / $458.65 = 1.52 English boxes",
+          "Trafalgar Law SP against the boxes: $173.25 / $158.60 = 1.09 Japanese boxes; $173.25 / $458.65 = 0.38 English boxes",
+          "OP-04 four leader alternate arts against the Japanese box: $228.31 / $158.60 = 1.44 Japanese boxes",
+          "OP-04 top 10 against the boxes: $2,393.20 / $158.60 = 15.09 Japanese boxes; $2,393.20 / $458.65 = 5.22 English boxes",
+          "OP-04 top five chases Nov 4 to Nov 19-20: $992.05 - $924.61 = $67.44; $67.44 is 6.80% of $992.05",
+          "Sabo Manga Nov 4 to Nov 19-20: $749.48 - $696.30 = $53.18; $53.18 is 7.10% of $749.48",
+          "Nefeltari Vivi alternate art Nov 4 to Nov 19-20: $99.34 - $89.86 = $9.48; $9.48 is 9.54% of $99.34",
+          "OP-04 below the top 10: $8.67 + $6.10 + $5.37 = $20.14; $20.14 / $158.60 = 12.70% of one Japanese box"
+        ],
+        "paragraphs": [
+          "All four OP-04 products repriced between November 5 and November 17, 2026, and none has moved since. The Japanese pair fell exactly 15.00% between November 12 and November 17: the box from $186.59 to $158.60 and the case from $2,233.45 to $1,898.43. The English pair fell exactly 32.00% in twelve days, in two legs: 20.00% by November 12, then 15.00% more by November 17. The English box went from $674.49 to $539.59 to $458.65, and the case from $6,335.52 to $5,068.42 to $4,308.16.",
+          "The language gap is wide and the per-card gap runs the same way. The Japanese box is $158.60 for 24 packs of 6 cards, $6.61 a pack and $1.10 a card, against a 5,280 yen official box price that converts to $33.26 at 158.74 yen per dollar, so the Japanese box is 4.77 times its official price. The English box is $458.65 for 24 packs of 12 cards, $19.11 a pack and $1.59 a card, against a $107.76 MSRP box, so it is 4.26 times its MSRP. English costs $300.05 more per box, $12.50 more per pack, and $0.49 more per card. Japanese wins on every division; English wins only the language on the card.",
+          "The cases point in opposite directions, and the English one needs no condition this time. The [Japanese case](/product/op-04-kingdoms-of-intrigue-sealed-case-12-boxes-japanese-one-piece-card/) is $1,898.43, or $158.20 a box, which is $4.77 less than twelve singles at $1,903.20: forty cents a box for buying sealed. The [English case](/product/op-04-kingdoms-of-intrigue-sealed-case-12-boxes-english-one-piece-card/) is $4,308.16, or $359.01 a box, which saves $1,195.64 against twelve singles at $5,503.80, or $99.64 a box. The market comparison is less clean: WorthRipping's November 20 market read puts the English box at $328.81, which leaves our $458.65 shelf price $129.84 above it, while Pullnomics lists the same box at $491.37 on the same day, $162.56 above WorthRipping."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: five ways to spend on OP-04, what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The single row is the only row that buys the card instead of the chance: the Hancock SP at $1,053.91 is 6.65 Japanese boxes, and the Sabo Manga at $696.30 is 4.39 Japanese boxes. The [OP-03 best cards guide](/blog/op-03-best-cards/) ranks Pillars of Strength the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$158.60",
+              "$6.61",
+              "Opening Kingdoms of Intrigue in Japanese",
+              "Chase not guaranteed; rotated out of Standard"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,898.43",
+              "$158.20 a box",
+              "Twelve Japanese boxes regardless of price",
+              "Saves $0.40 a box; $1,898.43 committed at once"
+            ],
+            [
+              "English box",
+              "$458.65",
+              "$19.11",
+              "English cards, below its old price",
+              "4.26x MSRP; $129.84 above market; rotated out"
+            ],
+            [
+              "English case (12)",
+              "$4,308.16",
+              "$14.96",
+              "English boxes in bulk",
+              "$4,308.16 committed at once; price can fall again"
+            ],
+            [
+              "The single",
+              "$1,053.91 Hancock SP",
+              "n/a",
+              "Owning the chase card",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the split, and the market box",
+        "note": "From the Warehouse: the question we get most in chat about OP-04 is whether the English box is a misprint, because buyers saw $674.49 on November 5 and $458.65 now and expect a listing error. It is not an error. The English shelf repriced 32% in twelve days, and the Japanese shelf fell 15% in the same window. A buyer who learned from OP-05 that this shelf undercuts the market will misread OP-04, because our English box sits $129.84 above one market tracker and $32.72 below another. Divide the shelf on its own date, every time, even when the last set taught you the pattern.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there. PlayDreamz ranks three cards per set and lists no prices, putting the Sabo Manga first with the Hancock and Law SPs behind it. Samurai Sword Tokyo prices the chase on SNKRDUNK asks, with the Sabo Manga asked at ¥57,800 and the Hancock SP at ¥63,000 on September 24, 2026. PokeWallet ranks the set on November 3 BerryWallet prices, with the Hancock SP at $1,038.55 and the Sabo Manga at $899.00. None of them ranks the top ten on one dated TCGplayer market read, or ties the cards to a box price you can actually pay today.",
+          "The gap this page owns is the split, and it owns it with two totals. The five SPs are $1,468.59, 61.37% of the top ten. The Sabo Manga is $696.30, 29.09% of the top ten. A blended list hides that the chase is mostly OP-01 and OP-02 reprints, and that the four new leader alternate arts together are $228.31, less than one card in the top three. The second gap is the pull rate. Bandai has never published pull rates for any One Piece set, so no expected-value math exists for the chase. The honest numbers are the breakevens: Hancock is 6.65 Japanese boxes and 2.30 English boxes, Sabo is 4.39 and 1.52.",
+          "The third gap is the repricing, which no guide has yet because it finished three days ago. The English box fell 32.00% in twelve days and the Japanese box fell 15.00% in five, and the shelf has not moved since November 17. The fourth gap is the date. Listings that date OP-04 to December 2023 are dating OP-05, Awakening of the New Era; Kingdoms of Intrigue released in Japan on May 27, 2023 and in English on September 22, 2023."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is two cards. Boa Hancock (SP) OP01-078 is $1,053.91, 44.04% of the top ten combined. The Sabo Manga, OP04-083, is $696.30, $357.61 behind Hancock, and 29.09% of the list. The two together are $1,750.21, 73.13% of the top ten. The Japanese market agrees on the order and disagrees on the price: on September 24, 2026 the lowest SNKRDUNK asks were ¥63,000 for the Hancock SP and ¥57,800 for the Sabo Manga, and a raw Sabo Manga last sold for $600 on November 3, 2026, against the $696.30 TCGplayer market price.",
+          "The second rung is where the list falls off a cliff. Trafalgar Law (SP) OP01-047 is $173.25, $523.05 behind the Sabo Manga, and Edward.Newgate (SP) OP02-004 is $134.01. Behind them come the Vivi leader alternate art at $89.86 and the Sakazuki SP at $67.02. The seven cards from Law down together are $602.59, $93.71 less than the Sabo Manga on its own. The [EB-03 best cards guide](/blog/eb-03-best-cards/) shows the same shape, with its top three at 62.12% of its list.",
+          "The third rung is the bottom three, and below them there is almost nothing. Doflamingo, Crocodile, and Rebecca are $56.49, $40.99, and $40.97, together $138.45, and Magellan is $40.40. Below the top ten, the ladder collapses: the Sabo alternate art is $8.67, the Doflamingo alternate art, OP04-031, is $6.10, and the Vivi Secret Rare is $5.37, together $20.14 on the same dated TCGplayer read, 12.70% of one Japanese box. A box opened for anything below the top ten is a box opened for bulk."
+        ]
+      },
+      {
+        "h": "The risk layer: the manga, the rotation, and the $1,053 card",
+        "paragraphs": [
+          "The first risk is the reprint. The Sabo Manga has been reprinted in Premium Booster -The Best- Vol. 1 and Vol. 2 with the same card number, OP04-083, and the reprints trade on their own prices: the PRB-02 reprint of the Sabo Super Rare is $0.41 on DeckTradr. Check the set stamp on any Manga Rare single before you pay, because the same art and the same number appear on more than one product.",
+          "The second risk is the rotation, restated plainly: OP-04 is Block 1, and Block 1 left Standard on April 1, 2026, so the set plays in Extra Regulation now. Two exceptions survive in Bandai's own lists. The Sabo Manga Rare carries Block X, which keeps it Standard-legal, and Bad Manners Kick Course, OP04-016, is one of the early cards Bandai treats as Block 4, so that card stays Standard-legal until March 31, 2029.",
+          "The third risk is the price direction, which points down on both sides of this page. The five chases the [is OP-04 worth buying guide](/blog/is-op-04-worth-buying/) priced on November 4, 2026 have fallen 6.80% in sixteen days, from $992.05 to $924.61, and the Sabo Manga fell 7.10% in a week while its regular alternate art fell 43.30%, the Law SP 14.20%, and the Sakazuki SP 10.50%. The fourth risk is the reseal: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand, because a sealed English box at $458.65 against a $328.81 market read is exactly the gap resealers monetize."
+        ]
+      },
+      {
+        "h": "Context: 124 card types, two languages, and the two-colour debut",
+        "paragraphs": [
+          "Kingdoms of Intrigue is the set that introduced two-colour leaders, the mechanic that changed how One Piece decks are built, and its chase sits in the alternate arts and the set's single Manga Rare, not in the base list. Bandai's official product page lists 124 card types plus a Don! card: 6 leaders, all multi-coloured, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, 2 Secret Rares, and 5 Specials, with 25 alternate-art types. TCGPursuit counts 158 catalog versions once parallels are counted. Alabasta and Dressrosa are the set's arcs; its colours are explained in [One Piece Card Game Colors Explained](/blog/one-piece-card-game-colors-explained/).",
+          "The language gap is the context that decides the purchase. The Japanese box holds 24 packs of 6 cards, 144 cards, at $6.61 a pack. The English box holds 24 packs of 12 cards, 288 cards, at $19.11 a pack and $1.59 a card, dearer per card than the Japanese box's $1.10, though the gap narrowed with the repricing. Cost per pack favours Japanese by $12.50; cost per card by $0.49. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks all the Japanese boxes to per-pack prices, and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) ranks the English boxes the same way.",
+          "The release gap is the normal Bandai pattern, and it is worth stating plainly because listings get it wrong. Japan got Kingdoms of Intrigue on May 27, 2023; English followed on September 22, 2023, a gap of just under four months. The December 2, 2023 and February 23, 2024 dates on some OP-04 listings belong to OP-05, Awakening of the New Era, not to this set. Two price facts from the earlier guides also need correcting here: the Japanese official box price is 24 packs at 220 yen, 5,280 yen, because the 198-yen to 220-yen rise happened at OP-04, and the English pack MSRP is $4.49, not $4.19, so the MSRP box is $107.76."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Hancock SP is 6.65 Japanese boxes and 2.30 English boxes, and no pull rate exists to price the chase any other way. It is not for anyone who needs Standard-legal cards, because OP-04 rotated out on April 1, 2026, with only the Sabo Manga and Bad Manners Kick Course surviving as exceptions. It is not for anyone buying the English case without accepting $4,308.16 committed at once on a shelf that fell 32.00% in twelve days. And it is not for anyone who treats a sealed box as a guaranteed investment, because the top five chases fell 6.80% in sixteen days."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Hancock SP, own the Sabo Manga, own the five SP reprints, hold the Dressrosa set sealed, or own it in English.",
+          "If the job is Hancock, buy the single: $1,053.91 raw on TCGplayer market as of November 19-20, 2026, and check the set stamp, because the same number appears on reprint products.",
+          "If the job is the Sabo Manga, buy the single at $696.30, which is 4.39 Japanese boxes, and do not open boxes for it, because no pull rate exists.",
+          "If the job is the Japanese box, pay $158.60, or $6.61 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $458.65 for the box, or $359.01 a box in the case, and check the listing against the $328.81 WorthRipping market read before you pay.",
+          "If the job is a case, divide it first: Japanese saves $0.40 a box, English saves $99.64 a box. Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-04 shelf moved 32.00% in twelve days on the English side."
+        ],
+        "h": "Action layer: the OP-04 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 20, 2026, and the card values are TCGplayer market prices as of November 19-20, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+        ]
+      }
+    ],
+    "slug": "op-04-best-cards",
+    "takeaway": [
+      "The OP-04 top ten, on TCGplayer market prices as of November 19-20, 2026, totals $2,393.20, and the Boa Hancock SP, OP01-078, is $1,053.91 of it, 44.04% of the whole list. Five of the ten are Special Parallel reprints of OP-01 and OP-02 cards, together $1,468.59, 61.37% of the top ten; the Sabo Manga is $696.30, and the four leader alternate arts together are $228.31.",
+      "On our shelf as of November 20, 2026, the Japanese box is $158.60 and the English box is $458.65, and neither has moved since November 17. The English pair fell exactly 32.00% between November 5 and November 17, in two legs, while the Japanese pair fell exactly 15.00% between November 12 and November 17. The Hancock SP is 6.65 Japanese boxes and 2.30 English boxes, and the Sabo Manga is 4.39 Japanese boxes and 1.52 English boxes. The Japanese case saves $0.40 a box, and the English case saves $99.64 a box.",
+      "It is worth buying as the Dressrosa debut set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "The ladder below the top ten collapses fast: the Sabo alternate art is $8.67, the Doflamingo alternate art, OP04-031, is $6.10, and the Vivi Secret Rare is $5.37, together $20.14 on the same dated TCGplayer read. The five chases priced on November 4 have fallen 6.80% in sixteen days, and the Sabo Manga fell 7.10% in a week. Two facts from the earlier guides are corrected on this page: the Japanese official box is 5,280 yen at 220 yen a pack, and the English pack MSRP is $4.49.",
+      "Companion guide: the [is OP-04 worth buying guide](/blog/is-op-04-worth-buying/) prices the same four products at the November 12 prices, before the second leg of the fall, and the [OP-04 investment guide](/blog/op-04-investment/) runs the same division for the holder at the November 17 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the mainline-set side of the same ranking, the [OP-03 best cards guide](/blog/op-03-best-cards/) ranks Pillars of Strength the same way.",
+      "For the Extra Booster side of the same ranking, the [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks Egghead Crisis the same way, with the $569.92 Koby Manga against its box."
     ]
   },
   "op-04-investment": {
