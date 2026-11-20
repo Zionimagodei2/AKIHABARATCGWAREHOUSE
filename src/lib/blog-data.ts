@@ -32630,7 +32630,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV6a box at $77.87 is $2.60 a pack and $0.52 a card, $44.08 above the derived 5,400 yen box price at 159.8 yen per dollar, while the case at $767.13 divides to $63.93 a box, $167.31 less than twelve singles. Buy the box or the case, never twelve singles, and buy the single for any named card.",
       "It is worth buying as the Night Wanderer set to open, sealed, and it is not worth buying as a way to own the Cassiopeia Special Art Rare or to make the money back by opening. Cassiopeia sat at $21.81 on TCGplayer on November 7, 2026, which is 28.01 percent of a box, and the top three cards together sat at $52.18, which is 0.67 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $13.74 in six days, from $91.61 to $77.87, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $902.51 to $767.13, which did not change the verdict, because the case saved money before the fall and saves $167.31 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
-      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of June 2024 to November 8, 2026. The box now sits $5.65 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV6 Mask of Change worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 92.71 percent of a box and the case saves $301.50."
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of June 2024 to November 8, 2026. The box now sits $5.65 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV6 Mask of Change worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 92.71 percent of a box and the case saves $301.50.",
+      "New this cycle: the [SV6a Night Wanderer investment guide](/blog/sv6a-investment/) runs the full division on the $77.87 box and the $767.13 case, and prices the case against twelve TCGplayer market boxes."
     ]
   },
   "is-sv7-worth-buying": {
@@ -33786,7 +33787,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Heat Wave Arena set to open, sealed, and it is not worth buying as a way to own the Cynthia’s Garchomp ex Special Art Rare or to make the money back by opening. Garchomp ex sat at $215.54 on TCGplayer on November 13, 2026, which is 155.26 percent of a box, and the top three cards together sat at $384.48, which is 2.77 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $24.50 in nine days, from $163.32 to $138.82, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,604.33 to $1,363.68, which did not change the verdict, because the case saved money before the fall and saves $302.16 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 15, 2026, and the marketplace references as of October 7 to November 13, 2026. The box now sits $8.18 below the Dexhaul observed floor of $147.00, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV9a Heat Wave Arena buyer’s guide](/blog/sv9a-heat-wave-arena-buyers-guide/) runs the November 6 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV9 Battle Partners worth buying guide](/blog/is-sv9-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 175.43 percent of a box and the case saves $57.16.",
-      "For the other half of Destined Rivals at today's prices, the [is SV10 worth buying guide](/blog/is-sv10-worth-buying/) runs the November 15 box at $181.04 and the case at $1,548.19 against the Mewtwo ex SAR at $362.00."
+      "For the other half of Destined Rivals at today's prices, the [is SV10 worth buying guide](/blog/is-sv10-worth-buying/) runs the November 15 box at $181.04 and the case at $1,548.19 against the Mewtwo ex SAR at $362.00.",
+      "New this cycle: the [SV9a Heat Wave Arena investment guide](/blog/sv9a-investment/) runs the full division on the $138.82 box and the $1,363.68 case, and prices the case against twelve CardZ market boxes."
     ]
   },
   "japanese-booster-box-price": {
@@ -50225,7 +50227,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "SV10 Glory of Team Rocket is a good sealed-case investment at $1,548.19, or $129.02 a box, $28.98 below the $158.00 sold-first market box from November 10, 2026, and a bad sealed-box investment at $181.04, $23.04 above it.",
       "Team Rocket's Mewtwo ex, the Special Art Rare 125/098, is $362.00 on TCGplayer as of November 15, 2026, or 2.00 boxes and 44.13 percent of the set's value, down 27.60 percent since April.",
-      "Both sealed formats fell exactly 15 percent in the two weeks before this guide, from $212.99 and $1,821.40 on November 3, 2026: a shelf repricing, not a market crash."
+      "Both sealed formats fell exactly 15 percent in the two weeks before this guide, from $212.99 and $1,821.40 on November 3, 2026: a shelf repricing, not a market crash.",
+      "New this cycle: the [SV9a Heat Wave Arena investment guide](/blog/sv9a-investment/) runs the same division on the other half of Destined Rivals, where the $138.82 box and $1,363.68 case divide to $113.64 a box."
     ]
   },
   "sv11b-black-bolt-buyers-guide": {
@@ -56982,7 +56985,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of October 2 to November 19, 2026. The box sits $3.08 below the $97.82 market box and $10.46 above the $84.28 Cardfolio estimate, and the complete set at $297.66 is 3.14 boxes.",
       "For the price-and-math companion, the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) runs the November 8 prices side by side, and the [is SV6 worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict after the fall.",
       "New this cycle: the [SV5M Cyber Judge investment guide](/blog/sv5m-investment/) prices the January 2024 twin at a $75.03 box, but its case saves $175.56, $21.41 less than the Wild Force case, while the Carmine's set carries its value in two Trainers, not four masks.",
-      "New this cycle: the [SV7 Stella Miracle investment guide](/blog/sv7-investment/) prices the July 2024 set at a $77.87 box, but its case saves $167.31, $134.19 less than the Mask of Change case, while the [SV7a Paradise Dragona investment guide](/blog/sv7a-investment/) prices the September set at a $120.05 box with a case that saves $375.20."
+      "New this cycle: the [SV7 Stella Miracle investment guide](/blog/sv7-investment/) prices the July 2024 set at a $77.87 box, but its case saves $167.31, $134.19 less than the Mask of Change case, while the [SV7a Paradise Dragona investment guide](/blog/sv7a-investment/) prices the September set at a $120.05 box with a case that saves $375.20.",
+      "New this cycle: the [SV6a Night Wanderer investment guide](/blog/sv6a-investment/) runs the same division on the June 2024 twin, where the $77.87 box and $767.13 case divide to $63.93 a box."
     ]
   },
   "sv6-mask-of-change-buyers-guide": {
@@ -57171,6 +57175,239 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the set that came three months before Mask of Change at $107.04 a box, with a case that saves $231.79 against twelve singles.",
       "New this cycle: the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the set that came six weeks after Mask of Change at $91.61 a box, $3.05 a pack, with a case that saves $196.81 against twelve singles.",
       "New this cycle: the [is SV6 Mask of Change worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict on the live November 14 shelf, box $94.74 after a fifteen percent fall, case saving $301.50, and the Carmine SAR at $87.83 costing 92.71 percent of a box."
+    ]
+  },
+  "sv6a-investment": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "Sealed, for the collection, after a fifteen percent fall. The box is $77.87, $2.60 a pack and $0.52 a card, and the case is $767.13, which divides to $63.93 a box and saves $167.31 against twelve singles. The chase is the Cassiopeia Special Art Rare at $21.61, 27.75 percent of a box. The cards carry the H regulation mark, still Standard-legal in 2026, so buy this box for the set, not to pull one named card.",
+        "q": "Is SV6a Night Wanderer a good investment?"
+      },
+      {
+        "a": "Yes. The case costs $767.13 for 12 boxes, which divides to $63.93 a box, $13.94 less per box than the single box at $77.87, so the case saves $167.31 against twelve singles. It is $7.36 cheaper per box than the Samurai Sword Tokyo sealed-box listing of $71.29 on October 7, 2026, and $25.45 cheaper per box than the $89.38 TCGplayer market box on November 19, 2026.",
+        "q": "Is the SV6a sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Cassiopeia Special Art Rare is $21.61 on TCGplayer on November 19, 2026, which is 27.75 percent of a box, and the complete set is $183.83. The box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV6a box to pull the Cassiopeia SAR?"
+      }
+    ],
+    "h1": "SV6a Night Wanderer Investment Guide",
+    "intro": [
+      "Short answer: buy the sealed case first, the single box second, and never chase Cassiopeia in packs. The [SV6a Night Wanderer booster box](/product/sv6a-night-wanderer-booster-box-japanese-pokemon-card/) is $77.87 on this shelf as of November 20, 2026, the [sealed case of twelve](/product/sv6a-night-wanderer-sealed-case-12-boxes-japanese-pokemon-card/) divides to $63.93 a box and saves $167.31, and the Cassiopeia Special Art Rare is $21.61 on TCGplayer on November 19, 2026, 27.75 percent of a box.",
+      "This guide answers for three buyers: the sealed holder, the opener weighing a box against the Cassiopeia single, and the buyer choosing between the box and the case. It is not for the buyer who expects a box to pay for itself."
+    ],
+    "metaDescription": "SV6a box $77.87, case divides to $63.93 a box and saves $167.31. Cassiopeia SAR $21.61 is 27.75% of a box. The case is the buy.",
+    "metaTitle": "SV6a Night Wanderer Investment Guide",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase no Cassiopeia",
+        "note": "From the Warehouse: the question we get most is whether the November 13 fall changed the verdict. It did not: the case was the buy at $902.51 and still is at $767.13.",
+        "paragraphs": [
+          "Buy the case for sealed holding or a group split. At $767.13 it holds twelve boxes at $63.93 each, $13.94 less per box than the $77.87 single box, a saving of $167.31. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every set.",
+          "Buy the single box if the job is one box. At $77.87 it is $2.60 a pack and $0.52 a card, down $13.74 from $91.61 on November 8. The [is SV6a worth buying guide](/blog/is-sv6a-worth-buying/) runs the same verdict.",
+          "Buy the Cassiopeia single if the job is Cassiopeia. At $21.61 as of November 19, 2026 it is 27.75 percent of a box, and the complete set at $183.83 is 2.36 boxes."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, the market, and the fall",
+        "math": [
+          "SV6a box per pack: $77.87 / 30 packs = $2.60 per pack",
+          "SV6a box per card: $77.87 / 150 cards = $0.52 per card",
+          "SV6a case per box: $767.13 / 12 boxes = $63.93 per box",
+          "SV6a case per pack: $767.13 / 360 packs = $2.13 per pack",
+          "SV6a case per card: $767.13 / 1,800 cards = $0.43 per card",
+          "SV6a twelve single boxes: 12 x $77.87 = $934.44",
+          "SV6a case saving: $934.44 - $767.13 = $167.31",
+          "SV6a case saving per box: $167.31 / 12 boxes = $13.94 per box",
+          "SV6a case saving percent: $167.31 / $934.44 = 17.90%",
+          "SV6a official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.97 = $33.76",
+          "SV6a box vs official: $77.87 - $33.76 = $44.11 above official",
+          "SV6a box vs official ratio: $77.87 / $33.76 = 2.31x official",
+          "SV6a case box vs official ratio: $63.93 / $33.76 = 1.89x official",
+          "SV6a Tokyo listing, Samurai Sword: 11,405 yen / 159.97 = $71.29 on October 7, 2026",
+          "SV6a shelf vs Tokyo listing: $77.87 - $71.29 = $6.58 above the Tokyo listing",
+          "SV6a case box vs Tokyo listing: $71.29 - $63.93 = $7.36 below the Tokyo listing",
+          "SV6a market box, TCGplayer: $89.38 on November 19, 2026",
+          "SV6a shelf vs market box: $77.87 - $89.38 = $11.51 below the market box",
+          "SV6a case box vs market box: $89.38 - $63.93 = $25.45 below the market box",
+          "SV6a twelve market boxes: 12 x $89.38 = $1,072.56",
+          "SV6a case vs twelve market boxes: $1,072.56 - $767.13 = $305.43 less than twelve market boxes",
+          "SV6a Cardfolio box estimate vs shelf: $85.00 - $77.87 = $7.13",
+          "SV6a case box vs Cardfolio estimate: $85.00 - $63.93 = $21.07",
+          "SV6a Bill's Archive market box: $88.94 on November 8, 2026; $88.94 - $77.87 = $11.07 above our box",
+          "SV6a box vs SV9 box: $77.87 - $72.22 = $5.65 per box",
+          "SV6a box vs M3 box: $77.87 - $60.03 = $17.84 per box",
+          "SV6a box vs SV6 box: $94.74 - $77.87 = $16.87 per box",
+          "SV6a case saving vs SV6 case saving: $301.50 - $167.31 = $134.19 less saved",
+          "SV6a case saving vs SV7a case saving: $375.20 - $167.31 = $207.89 less saved",
+          "SV6a case saving vs SV8a case saving: $461.71 - $167.31 = $294.40 less saved",
+          "SV6a shelf vs US listing: $77.87 - $46.71 = $31.16 above the TCG Store USA listing",
+          "SV6a case box vs US listing: $63.93 - $46.71 = $17.22 above the TCG Store USA listing",
+          "SV6 case per box: $835.38 / 12 boxes = $69.62 per box",
+          "M3 case per box: $891.00 / 12 boxes = $74.25 per box",
+          "SV6a case box vs M3 case box: $74.25 - $63.93 = $10.32 per box"
+        ],
+        "paragraphs": [
+          "Every math line above is one division from shelf prices as of November 20, 2026, at 159.97 yen to the dollar, the ECB cross rate for November 19, 2026. An official box is 5,400 yen, or $33.76.",
+          "The fall is uniform. On November 8 the box was $91.61 and the case $902.51; on November 13 both fell fifteen percent, and the shelf has not moved since. The case saving is $167.31, $134.19 less than the Mask of Change case saves.",
+          "The market check runs both ways. Sparkl prices a sealed box at $89.38 on TCGplayer on November 19, 2026, so our box sits $11.51 below that figure, and twelve market boxes cost $1,072.56, $305.43 more than our case. The other way: the cheapest sealed box on Samurai Sword Tokyo was 11,405 yen on October 7, 2026, or $71.29, so our box is $6.58 above it, and our case-split box is $7.36 below it.",
+          "The third benchmark needs a warning label. Cardfolio's guide estimate sits at $85 as of November 18, 2026, $7.13 above our shelf box, but it is a collection-tracking estimate, not a market price from completed sales. Three methods put the market box between $85 and $89.38, and our shelf sits below all of them. The band is the fact; the single number is the trap."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on SV6a, priced November 20. The case row deserves the first look: at $63.93 a box inside the case, it is the cheapest sealed Night Wanderer on this shelf by $13.94 a box. The single row deserves the second look: $21.61 buys the Cassiopeia.",
+          "The market row deserves the third look: twelve TCGplayer boxes cost $1,072.56, $305.43 more than our case, which is why the case is the sealed buy on this shelf and not the sealed buy everywhere. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold.",
+          "The twin shelf is the fourth look. Mask of Change, the July 2024 set that shares its season with Night Wanderer, sits at $94.74 a box and its case at $835.38 divides to $69.62 a box, so Night Wanderer is $16.87 cheaper a box and $5.69 cheaper a case-split box. The case-split price is also identical to Stella Miracle's: both cases sit at $767.13, so both divide to $63.93 a box. Against Munikis Zero, whose $891.00 case divides to $74.25 a box, Night Wanderer is $10.32 cheaper a case-split box, and unlike Munikis Zero its case saves money at all."
+        ],
+        "table": {
+          "head": [
+            "",
+            "Single box (our shelf)",
+            "Sealed case (our shelf)",
+            "Cheaper 30-pack box SV9 (our shelf)",
+            "The single"
+          ],
+          "rows": [
+            [
+              "Price per box",
+              "$77.87",
+              "$63.93 a box inside the case",
+              "$72.22",
+              "Cassiopeia SAR $21.61"
+            ],
+            [
+              "Price per pack",
+              "$2.60",
+              "$2.13",
+              "$2.41",
+              "Not divided"
+            ],
+            [
+              "Price per card",
+              "$0.52",
+              "$0.43",
+              "$0.48",
+              "Not divided"
+            ],
+            [
+              "Chase route",
+              "Opens the pool",
+              "Twelve boxes at a discount",
+              "The cheaper opener, weaker chase",
+              "The named card, certain"
+            ],
+            [
+              "Best for",
+              "Opening the Night Wanderer set",
+              "Sealed holding and splitting",
+              "Opening a 30-pack box cheaper",
+              "Any named card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the thin chase, the market-box gap, and the division",
+        "note": "From the Warehouse: the gap we own on SV6a is the thin chase. No card in the set costs more than $21.61, the dearest card is 27.75 percent of a box, and the top five cards together are still under one box at 92.91 percent.",
+        "paragraphs": [
+          "The top results are a price board, a card list, and a twin list. Our price board lists SV6a at $91.61, the November 6 price, but never divides a case into a per-box price. The Sparkl card list prices all 94 cards and the box, but never divides the box against the case. The Samurai Sword list pairs Shrouded Fable with Night Wanderer card by card, but gives no verdict. None of the three runs the box against the case.",
+          "None of them prices twelve market boxes against our case: twelve TCGplayer boxes cost $1,072.56, $305.43 more than our case. The second gap is the English line: the English Cassiopeia Special Illustration Rare is $37.27 on TCGplayer on November 18, 2026, $15.66 more than the Japanese SAR at $21.61, 1.72 times it, and the English Pecharunt ex is $23.60 on CardTrack, 2.12 times the Japanese SAR at $11.15. The [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full.",
+          "The third gap is the case saving itself. SV6a's case saves $167.31, but the Munikis Zero case saves nothing at all: twelve M3 singles cost $720.36 against a $891.00 case. A case is a division, not a discount. The [SV7a Paradise Dragona investment guide](/blog/sv7a-investment/) runs the same division on the dearer September 2024 set."
+        ]
+      },
+      {
+        "h": "The chase layer: one $21.61 card, a $51.81 trio, and a $72.35 top five",
+        "math": [
+          "Cassiopeia SAR vs box: $21.61 / $77.87 = 27.75% of a box",
+          "Cassiopeia SAR vs case box: $21.61 / $63.93 = 33.80% of a case box",
+          "Box vs Cassiopeia SAR: $77.87 / $21.61 = 3.60x the Cassiopeia price",
+          "Cassiopeia SAR move since November 7, 2026: $21.81 - $21.61 = $0.20; $0.20 / $21.81 = 0.92%",
+          "Fezandipiti ex SAR vs box: $18.87 / $77.87 = 24.23% of a box",
+          "Persian AR vs box: $11.33 / $77.87 = 14.55% of a box",
+          "Pecharunt ex SAR vs box: $11.15 / $77.87 = 14.32% of a box",
+          "Okidogi ex SAR vs box: $9.39 / $77.87 = 12.06% of a box",
+          "SV6a top three cards: $21.61 + $18.87 + $11.33 = $51.81",
+          "SV6a top three vs box: $51.81 / $77.87 = 66.53% of a box",
+          "SV6a top three vs complete set: $51.81 / $183.83 = 28.18%",
+          "SV6a top five cards: $51.81 + $11.15 + $9.39 = $72.35",
+          "SV6a top five vs box: $72.35 / $77.87 = 92.91% of a box",
+          "SV6a top five vs complete set: $72.35 / $183.83 = 39.36%",
+          "SV6a top five vs top ten: $72.35 / $109.25 = 66.22%",
+          "Cassiopeia SAR vs complete set: $21.61 / $183.83 = 11.76%",
+          "SV6a complete set vs box: $183.83 / $77.87 = 2.36 boxes",
+          "SV6a complete set vs case box: $183.83 / $63.93 = 2.88 case boxes",
+          "SV6a two boxes: 2 x $77.87 = $155.74",
+          "SV6a complete set vs two boxes: $183.83 - $155.74 = $28.09 more than two boxes",
+          "SV6a three boxes: 3 x $77.87 = $233.61",
+          "SV6a three boxes vs complete set: $233.61 - $183.83 = $49.78 more than the complete set",
+          "SV6a complete set move since November 7, 2026: $187.12 - $183.83 = $3.29; $3.29 / $187.12 = 1.76%",
+          "Cassiopeia SAR fall since release: $55.00 - $21.61 = $33.39; $33.39 / $55.00 = 60.71%",
+          "English Cassiopeia SIR vs Japanese SAR: $37.27 - $21.61 = $15.66",
+          "English Cassiopeia SIR ratio: $37.27 / $21.61 = 1.72x the Japanese price",
+          "English Cassiopeia SIR move since November 7, 2026: $39.60 - $37.27 = $2.33; $2.33 / $39.60 = 5.88%",
+          "English Pecharunt ex SIR vs Japanese SAR: $23.60 - $11.15 = $12.45",
+          "English Pecharunt ex SIR ratio: $23.60 / $11.15 = 2.12x the Japanese price",
+          "English Pecharunt ex SIR move since November 8, 2026: $23.60 - $21.43 = $2.17; $2.17 / $21.43 = 10.13%"
+        ],
+        "paragraphs": [
+          "The chase sits in one card and then falls off a cliff. The Cassiopeia Special Art Rare, 091/064, at $21.61 on TCGplayer on November 19, 2026, is 27.75 percent of a box. After it come the Fezandipiti ex Special Art Rare at $18.87, 24.23 percent of a box, and the Persian Art Rare at $11.33, 14.55 percent of a box. The Pecharunt ex at $11.15 and the Okidogi ex at $9.39 close the top five. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark.",
+          "All five are one TCGplayer reading through Sparkl, dated November 19, 2026, and the set total is the same reading: $183.83 for one of each of the 94 cards.",
+          "The set is flat by design. Four of the 94 cards are worth $10 or more, and 78 are under $5, so most of what a box opens is bulk. The top five hold 39 percent of the set's value, and the other 89 cards share the rest. Buy the single for any named card, or buy the box for the set."
+        ]
+      },
+      {
+        "h": "The risk layer: the flat set, the fallen chase, and the English gap",
+        "paragraphs": [
+          "The first risk is flatness. No card costs more than $21.61, so no pull rescues a bad box: a box that holds no Special Art Rare at all is a box of bulk. The complete set costs $183.83 as singles, 2.36 boxes.",
+          "The second risk is the fallen chase. The box fell fifteen percent in six days, from $91.61 on November 8 to $77.87 on November 14. The bigger fall is older: Cassiopeia sat at $55 to $70 on resale platforms at release in June 2024, down 60.71 percent from the bottom of that range and 69.13 percent from the top now. The recovery is the case-split floor: at $63.93 a box inside the case, the buyer who splits is $13.94 a box ahead of the single-box buyer.",
+          "The third risk is the English gap and the rotation. Shrouded Fable, the English set built from Night Wanderer, released August 2, 2024, and its Cassiopeia is $37.27 on November 18, 2026, 1.72 times the Japanese SAR. H-mark cards are legal in the 2026 Standard format, but the 2027 rotation is unannounced, and H is the likeliest mark to leave. Check the seal and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything.",
+          "The fourth risk is the listing that looks too cheap. Two US storefronts list the box at $46.71, $31.16 below our shelf and $42.67 below the TCGplayer market box. Confirm stock, shipping, and the exact product before paying: a listing that far under market is a price to verify, not a price to plan around. Our case-split box at $63.93 is $17.22 above that listing, so the case is the cheapest sealed Night Wanderer on this shelf, not anywhere."
+        ]
+      },
+      {
+        "h": "Context: 94 cards, the Loyal Three, and the English twin",
+        "paragraphs": [
+          "Night Wanderer, set code SV6a, released in Japan on June 7, 2024, as a 64-card base set followed by a 30-card secret block, for 94 cards in total. The secret block breaks into 12 Art Rares, 10 Super Rares, 5 Special Art Rares, and 3 Ultra Rares. Each pack holds 5 cards at 180 yen, and the box is 30 packs, so a box is 5,400 yen, or $33.76 at 159.97 yen to the dollar. The five Special Art Rares are the set in miniature: the Loyal Three in Okidogi ex at 087, Munkidori ex at 088, and Fezandipiti ex at 089, plus Pecharunt ex at 090 and Cassiopeia at 091, the Trainer who outprices them all. One box holds 150 cards, so one box gives the main set twice over.",
+          "The English twin is Shrouded Fable, released August 2, 2024. It takes the whole of Night Wanderer into one English set of 99 cards. That is the trade: the Japanese box gives you the 94-card set with the Cassiopeia Special Art Rare at 091/064, and the English set gives you the same cards across a 99-card checklist at different prices, with the English Cassiopeia at 094/064 carrying a $37.27 market price on November 18, 2026. Japanese cards are not legal in English tournaments, so a player who buys SV6a for play has bought the wrong product, and the [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers the legality line in full."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants the box to pay for itself, because the dearest card is 27.75 percent of a box and the top five cards together are worth 92.91 percent of one box. It is not for the buyer who wants the cheapest sealed box per box on the shelf, because the Cyber Judge case at $60.40 a box undercuts the Night Wanderer case at $63.93 a box by $3.53. It is not for the buyer who wants the market box price, because the TCGplayer box is $89.38 against this shelf's $77.87. It is not for the buyer who plays in English events, because Japanese cards are not legal there. If any of those is the job, the single or the English twin is the better buy."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV6a on this shelf is the case at $767.13, $63.93 a box, not twelve singles at $934.44; the single box is $77.87, and the market box is $89.38.",
+          "If the job is one card, buy the single. The Cassiopeia Special Art Rare is $21.61. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $183.83 is 2.36 boxes, and two boxes at $155.74 cost $28.09 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Night Wanderer $77.87 plus Mask of Change $94.74 is $172.61, the Kitakami story in two boxes."
+        ],
+        "h": "Action layer: the SV6a buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the buy decides itself. The division comes first, because every other number on this page hangs off it. The case is the cheapest sealed route on this shelf, the single is the cheapest named-card route, and the box is the opening route.",
+          "The last check is the date. Every price here is stamped November 20, 2026, and the shelf repriced fifteen percent on November 13, so a price without a date is a price from a different shelf."
+        ]
+      }
+    ],
+    "slug": "sv6a-investment",
+    "takeaway": [
+      "The SV6a box at $77.87 is $2.60 a pack and $0.52 a card, while the case at $767.13 divides to $63.93 a box, $167.31 less than twelve singles. Buy the box or the case, never twelve singles.",
+      "It is worth buying as the Night Wanderer set to open, sealed, not as a way to own the Cassiopeia Special Art Rare or to make the money back by opening. Cassiopeia sat at $21.61, 27.75 percent of a box, and the top five together sat at $72.35, 92.91 percent of a box.",
+      "It is worth buying with the fall in mind: the box dropped $13.74, from $91.61 to $77.87, fifteen percent, and the case fell fifteen percent too, from $902.51 to $767.13, which did not change the verdict. The cards carry the H regulation mark, still Standard-legal in 2026.",
+      "Every number here is stamped November 20, 2026. The box now sits $11.51 below the $89.38 market box, and the case box sits $25.45 below it. The [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) runs the November 8 prices, and the [is SV6 Mask of Change worth buying guide](/blog/is-sv6-worth-buying/) runs the same verdict on the dearer twin.",
+      "The [SV8a Terastal Festival ex investment guide](/blog/sv8a-investment/) prices the December 2024 set at a $138.82 box, its case saves $461.71, $294.40 more than the Night Wanderer case.",
+      "The [SV9 Battle Partners investment guide](/blog/sv9-investment/) runs the same division on the January 2025 set, where the $72.22 box is $5.65 cheaper per box but the case saves only $57.16.",
+      "New this cycle: the [SV9a Heat Wave Arena investment guide](/blog/sv9a-investment/) runs the same division on the March 2025 set, where the $138.82 box and $1,363.68 case divide to $113.64 a box and the case saves $302.16."
     ]
   },
   "sv6a-night-wanderer-buyers-guide": {
@@ -59626,6 +59863,243 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the set that came two months before Heat Wave Arena, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own.",
       "New this cycle: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the 30-pack set from the same era, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own.",
       "New this cycle: the [Is SV9a Heat Wave Arena Worth Buying? guide](/blog/is-sv9a-worth-buying/) runs the verdict on the same shelf prices, box $138.82 after a fifteen percent fall, case saves $302.16, with the Garchomp ex SAR at $215.54 on its own."
+    ]
+  },
+  "sv9a-investment": {
+    "datePublished": "2026-11-20",
+    "faqs": [
+      {
+        "a": "For opening, yes if you want the Heat Wave Arena set in Japanese and accept $4.63 a pack, $0.93 a card. The case is the better sealed buy at $113.64 a box, saving $302.16 against twelve singles, and it sits $1.36 below the $115 sold-first market box. For profit, no: no box guarantees a Special Art Rare, and the dearest card, the Cynthia's Garchomp ex Special Art Rare, carries a $214.64 market price on its own, 154.62 percent of a box. Open SV9a because you want the set, and buy the Garchomp ex single if it is the only card you want.",
+        "q": "Is SV9a Heat Wave Arena a good investment?"
+      },
+      {
+        "a": "Yes. The case costs $1,363.68 for 12 boxes, which divides to $113.64 a box, $25.18 less per box than the single box at $138.82, so the case saves $302.16 against twelve singles at $1,665.84. It is also cheaper than the market: twelve sold-first market boxes at $115 cost $1,380.00, $16.32 more than our case. But it is not the cheapest sealed Heat Wave Arena anywhere: the case-split box at $113.64 is still $9.48 above the Tokyo shop listing of $104.16. Buy the case on this shelf, never twelve singles.",
+        "q": "Is the SV9a sealed case cheaper per box than single boxes?"
+      },
+      {
+        "a": "No. The Cynthia's Garchomp ex Special Art Rare is $214.64 on TCGplayer as of November 18, 2026, which is 154.62 percent of a box, and the box can hold zero Special Art Rares, because the Pokemon Company publishes no pull rates for this set. The single costs $75.82 more than the box itself. Buy the single, or buy the box for the set.",
+        "q": "Should I buy an SV9a box to pull the Cynthia's Garchomp ex SAR?"
+      }
+    ],
+    "h1": "SV9a Heat Wave Arena Investment Guide",
+    "intro": [
+      "Short answer: buy the sealed case first, the single box second, and never chase Cynthia's Garchomp ex in packs. The [SV9a Heat Wave Arena booster box](/product/sv9a-heat-wave-arena-booster-box-japanese-pokemon-card/) is $138.82 on this shelf as of November 20, 2026, the [sealed case of twelve](/product/sv9a-heat-wave-arena-sealed-case-12-boxes-japanese-pokemon-card/) divides to $113.64 a box and saves $302.16, and the Cynthia's Garchomp ex Special Art Rare is $214.64 on TCGplayer as of November 18, 2026, 154.62 percent of a box.",
+      "This guide answers for the sealed holder, the opener weighing a box against the Garchomp single, and the buyer choosing between the box and the case."
+    ],
+    "metaDescription": "SV9a box $138.82, case splits to $113.64 a box and saves $302.16 — $1.36 below the $115 market box. Garchomp ex SAR $214.64 is 154.62% of a box.",
+    "metaTitle": "SV9a Heat Wave Arena Investment Guide",
+    "readMinutes": 9,
+    "sections": [
+      {
+        "h": "The answer first: buy the case, buy the box second, chase no Garchomp",
+        "note": "From the Warehouse: the question we get most about Heat Wave Arena is whether the fifteen percent fall changed the verdict. It did not: the case was the buy at $1,604.33 and it is still the buy at $1,363.68, and the case-split box now sits below the sold-first market box.",
+        "paragraphs": [
+          "Buy the case if the job is sealed holding or a group split. At $1,363.68 it holds twelve boxes at $113.64 each, $25.18 less per box than the $138.82 single box, a saving of $302.16, 18.14 percent of the twelve-box cost. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every set.",
+          "Buy the single box if the job is one box. At $138.82 it is $4.63 a pack and $0.93 a card, after falling $24.50 from $163.32 on November 6.",
+          "Buy the Garchomp single if the job is the Garchomp. At $214.64 as of November 18, 2026 it is 154.62 percent of a box, $75.82 more than the box itself, and the complete set at $593.40 is 4.27 boxes."
+        ]
+      },
+      {
+        "h": "The money layer: the box, the case, the market, and the fall",
+        "math": [
+          "SV9a box per pack: $138.82 / 30 packs = $4.63 per pack",
+          "SV9a box per card: $138.82 / 150 cards = $0.93 per card",
+          "SV9a case per box: $1,363.68 / 12 boxes = $113.64 per box",
+          "SV9a case per pack: $1,363.68 / 360 packs = $3.79 per pack",
+          "SV9a case per card: $1,363.68 / 1,800 cards = $0.76 per card",
+          "SV9a twelve single boxes: 12 x $138.82 = $1,665.84",
+          "SV9a case saving per case: $1,665.84 - $1,363.68 = $302.16",
+          "SV9a case saving per box: $302.16 / 12 boxes = $25.18 per box",
+          "SV9a case saving percent: $302.16 / $1,665.84 = 18.14%",
+          "SV9a box fall since November 6, 2026: $163.32 - $138.82 = $24.50; $24.50 / $163.32 = 15.00%",
+          "SV9a case fall since November 6, 2026: $1,604.33 - $1,363.68 = $240.65; $240.65 / $1,604.33 = 15.00%",
+          "SV9a official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.97 = $33.76",
+          "SV9a box vs official: $138.82 - $33.76 = $105.06 above official",
+          "SV9a box vs official ratio: $138.82 / $33.76 = 4.11x official",
+          "SV9a case box vs official ratio: $113.64 / $33.76 = 3.37x official",
+          "SV9a market box, CardZ sold-first: $115 on November 18, 2026",
+          "SV9a shelf vs market box: $138.82 - $115 = $23.82 above the market box",
+          "SV9a case box vs market box: $113.64 - $115 = $1.36 below the market box",
+          "SV9a twelve market boxes: 12 x $115 = $1,380.00",
+          "SV9a case vs twelve market boxes: $1,380.00 - $1,363.68 = $16.32 less than twelve market boxes",
+          "SV9a Tokyo shop box, Samurai Sword: 16,663 yen / 159.97 = $104.16 on October 7, 2026; $138.82 - $104.16 = $34.66 above our box",
+          "SV9a case box vs Tokyo shop box: $113.64 - $104.16 = $9.48 above the Tokyo shop box",
+          "SV9a box vs Dexhaul floor: $147.00 - $138.82 = $8.18 below the October 2026 floor",
+          "SV9a case saving vs SV10 case saving: $624.29 - $302.16 = $322.13 less saved",
+          "SV9a case saving vs SV8a case saving: $461.71 - $302.16 = $159.55 less saved",
+          "SV9a case saving vs SV8 case saving: $631.48 - $302.16 = $329.32 less saved",
+          "SV9a case saving vs SV7a case saving: $375.20 - $302.16 = $73.04 less saved",
+          "SV9a box vs SV10 box: $181.04 - $138.82 = $42.22 per box",
+          "SV9a box vs SV9 box: $138.82 - $72.22 = $66.60 per box",
+          "SV9a box vs SV7a box: $138.82 - $120.05 = $18.77 per box",
+          "SV9a box vs M3 box: $138.82 - $60.03 = $78.79 per box",
+          "SV9a promo pack vs box: $41.71 / $138.82 = 30.05% of a box",
+          "SV9 box per pack: $72.22 / 30 packs = $2.41 per pack",
+          "SV9 case per box: $809.48 / 12 boxes = $67.46 per box",
+          "SV9 case saving: $866.64 - $809.48 = $57.16",
+          "SV10 box per pack: $181.04 / 30 packs = $6.03 per pack",
+          "SV10 case per box: $1,548.19 / 12 boxes = $129.02 per box",
+          "SV10 case saving: $2,172.48 - $1,548.19 = $624.29"
+        ],
+        "paragraphs": [
+          "Every math line above is one division from shelf prices as of November 20, 2026. The rate is 159.97 yen to the dollar, the ECB cross rate for November 19, 2026, from EUR/USD 1.0992 and EUR/JPY 175.84, so an official box is 5,400 yen, or $33.76.",
+          "The fall is uniform, not a verdict on this set. On November 6 the box was $163.32 and the case $1,604.33; on November 13 both fell fifteen percent, and the shelf has not moved since. The case saving is $302.16, $25.18 a box, $159.55 less than the Terastal Festival ex case saves.",
+          "The twin shelf puts the price in context. Battle Partners, the January 2025 set that shares Destined Rivals with Heat Wave Arena, sits at $72.22 a box on this shelf, $2.41 a pack, and its case at $809.48 divides to $67.46 a box and saves $57.16 against twelve singles. Glory of Team Rocket, the other half of Destined Rivals, sits at $181.04 a box, $6.03 a pack, and its case at $1,548.19 divides to $129.02 a box and saves $624.29. Heat Wave Arena sits between the two: its $138.82 box is $66.60 above the Battle Partners box and $42.22 below the Team Rocket box, and its $113.64 case-split box is $46.18 above the Battle Partners case-split and $15.38 below the Team Rocket case-split. The middle price is the middle risk: cheaper than the Rocket chase, dearer than the Partners floor.",
+          "The market check runs both ways. CardZ Marketcap prices a sealed box at $115 on November 18, 2026, from completed sales, so our box sits $23.82 above that figure, but our case costs $16.32 less than twelve market boxes at $1,380.00, and the case-split box at $113.64 sits $1.36 below the market box itself. The Tokyo shop listing of 16,663 yen on October 7, 2026 is $104.16, so our box is $34.66 above it and the case-split box is $9.48 above it. Three methods put the box in a $104 to $139 band, and our shelf sits at the top of it."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twin, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: six ways to spend on SV9a. The case row deserves the first look: at $113.64 a box inside the case, it is the cheapest sealed Heat Wave Arena on this shelf by $25.18 a box, and $16.32 cheaper than twelve market boxes.",
+          "The market row deserves the second look: twelve CardZ market boxes cost $1,380.00, $16.32 more than our case, so the case is the sealed buy on this shelf and, this cycle, against the market too. Read [Should You Open or Keep Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) before you crack a box you meant to hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$138.82",
+              "$4.63",
+              "Opening the Heat Wave Arena set",
+              "One $214.64 chase, 154.62% of a box"
+            ],
+            [
+              "Sealed case (12)",
+              "$1,363.68",
+              "$3.79",
+              "Twelve boxes at $113.64 each",
+              "$1,363.68 tied up at once"
+            ],
+            [
+              "Twelve single boxes",
+              "$1,665.84",
+              "$4.63",
+              "Buying one box at a time",
+              "$302.16 more than the case"
+            ],
+            [
+              "Twelve market boxes",
+              "$1,380.00",
+              "$3.83",
+              "Sold-first market reference",
+              "$16.32 more than our case"
+            ],
+            [
+              "Garchomp ex SAR single",
+              "$214.64",
+              "n/a",
+              "Owning the chase card",
+              "1.55 boxes, down 0.42% in five days"
+            ],
+            [
+              "Complete set singles",
+              "$593.40",
+              "n/a",
+              "Owning every card",
+              "$315.76 more than two boxes"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the case that beats the market box, and the singles that held",
+        "note": "From the Warehouse: the gap we own on SV9a is the case against the market box. No top guide divides a 12-box case into a per-box price, and none prices twelve market boxes against it, so none says the case-split box at $113.64 sits $1.36 below the $115 sold-first market box.",
+        "paragraphs": [
+          "The top results are a price board, a buying guide, and a case guide. Our own price board ranks every Japanese box per pack, but it prices the November 6 shelf, before the fifteen percent fall. The Samurai Sword buying guide runs the set structure, the chase cards, and its own Tokyo listings, but never divides a case into a per-box price. The Dexhaul guide runs the Japanese set against its English twin and stops at the per-card comparison. None of the three prices twelve market boxes against our case.",
+          "The second gap is the singles that held. Garchomp ex fell $0.90, or 0.42 percent, from $215.54 to $214.64, while the box fell fifteen percent, and the complete set fell $8.35, or 1.39 percent, from $601.75 to $593.40. The chase held its price and the box did not, so Garchomp now holds 36.17 percent of the complete set, up from 35.82 percent on November 13.",
+          "The third gap is the set-against-boxes division nobody runs. The complete set at $593.40 costs 4.27 boxes, and four boxes at $555.28 cost $38.12 less than the set, while five boxes at $694.10 cost $100.70 more than it. A buyer who wants every card is therefore choosing between four boxes plus $38.12 of singles and five boxes with $100.70 of waste, and the singles route wins on price alone. The box only wins if the pull beats the average, and with Garchomp holding 36.17 percent of the set, the average box does not."
+        ]
+      },
+      {
+        "h": "The chase layer: one $214.64 card, a $379.99 trio, and a $435.73 top five",
+        "math": [
+          "Garchomp ex SAR vs box: $214.64 / $138.82 = 154.62% of a box",
+          "Garchomp ex SAR vs case box: $214.64 / $113.64 = 1.89x the price of a case box",
+          "Garchomp ex SAR minus box: $214.64 - $138.82 = $75.82 more than the box",
+          "Ho-Oh ex SAR vs box: $123.58 / $138.82 = 89.02% of a box",
+          "Ethan's Adventure SAR vs box: $41.77 / $138.82 = 30.09% of a box",
+          "Garchomp ex UR vs box: $28.77 / $138.82 = 20.72% of a box",
+          "Arven's Mabosstiff ex SAR vs box: $26.97 / $138.82 = 19.43% of a box",
+          "SV9a top three cards: $214.64 + $123.58 + $41.77 = $379.99",
+          "SV9a top three vs box: $379.99 / $138.82 = 2.74x the price of a box",
+          "SV9a top three vs complete set: $379.99 / $593.40 = 64.04%",
+          "SV9a top five cards: $379.99 + $28.77 + $26.97 = $435.73",
+          "SV9a top five vs box: $435.73 / $138.82 = 3.14x the price of a box",
+          "SV9a top five vs complete set: $435.73 / $593.40 = 73.43%",
+          "Garchomp ex SAR vs complete set: $214.64 / $593.40 = 36.17%",
+          "SV9a complete set vs box: $593.40 / $138.82 = 4.27 boxes",
+          "SV9a two boxes: 2 x $138.82 = $277.64",
+          "SV9a set minus two boxes: $593.40 - $277.64 = $315.76 more than two boxes",
+          "SV9a top five minus two boxes: $435.73 - $277.64 = $158.09 more than two boxes",
+          "Garchomp ex SAR move since November 13, 2026: $215.54 - $214.64 = $0.90; $0.90 / $215.54 = 0.42%",
+          "Ho-Oh ex SAR move since November 13, 2026: $126.91 - $123.58 = $3.33; $3.33 / $126.91 = 2.62%",
+          "SV9a complete set move since November 13, 2026: $601.75 - $593.40 = $8.35; $8.35 / $601.75 = 1.39%",
+          "English Garchomp ex SIR vs Japanese Garchomp ex SAR: $214.64 - $152.59 = $62.05",
+          "English Garchomp ex SIR vs Japanese ratio: $152.59 / $214.64 = 71.09% of the Japanese price",
+          "English Ho-Oh ex SIR vs Japanese Ho-Oh ex SAR: $123.58 - $119.11 = $4.47",
+          "English Ho-Oh ex SIR vs Japanese ratio: $119.11 / $123.58 = 96.38% of the Japanese price",
+          "English Destined Rivals box floor vs Japanese box: $430.00 - $138.82 = $291.18; $430.00 / $138.82 = 3.10x the Japanese box"
+        ],
+        "paragraphs": [
+          "The Cynthia's Garchomp ex Special Art Rare, 087/063, at $214.64 on TCGplayer as of November 18, 2026, is 154.62 percent of a box and 36.17 percent of the $593.40 complete set. After it come Ethan's Ho-Oh ex Special Art Rare at $123.58, 89.02 percent of a box, and Ethan's Adventure at $41.77, 30.09 percent of a box. The Garchomp ex Ultra Rare at $28.77 and Arven's Mabosstiff ex Special Art Rare at $26.97 close the top five. All five, and the $593.40 complete set, are one TCGplayer market reading via TCGPursuit, dated November 18, 2026.",
+          "A second reading of the set total needs a warning label. Cardfolio's collection-tracking estimate puts the complete set at about $554 as of November 18, 2026, $39.40 below the $593.40 TCGplayer figure. It is built from Cardfolio's own catalogue for collection tracking, not from completed sales, so this guide does not divide from it. Two methods put the set in a $554 to $593 band."
+        ]
+      },
+      {
+        "h": "The risk layer: the one-card set, the fallen box, and the English flip",
+        "paragraphs": [
+          "The first risk is the one-card set. Garchomp ex alone holds 36.17 percent of the complete set at $593.40, and the top five cards hold 73.43 percent of it. Only ten cards in the set cost $13 or more, so most of what a box opens is bulk.",
+          "The second risk is the fallen box. It fell fifteen percent in seven days, from $163.32 to $138.82, and a buyer who paid the November 6 price holds a box worth $24.50 less two weeks later. The fall was uniform across the shelf, a repricing, not a verdict on this set, and the case fell by the same fifteen percent, so the saving survived it. The case-split floor is the recovery: at $113.64 a box, the buyer who splits is $25.18 a box ahead of the single-box buyer.",
+          "The third risk is the English flip, and it flips both ways. Destined Rivals, the English set built from Heat Wave Arena and Glory of Team Rocket, released May 30, 2025, and its Cynthia's Garchomp ex Special Illustration Rare is $152.59 on November 15, 2026, $62.05 cheaper than the Japanese SAR at $214.64, or 71.09 percent of it. But the English Ethan's Ho-Oh ex Special Illustration Rare is $119.11, only $4.47 less than the Japanese Ho-Oh ex SAR at $123.58, or 96.38 percent of it. A $214.64 chase makes this box a resealer target, so check the seal and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) before you cut anything. The [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) runs the two markets side by side."
+        ]
+      },
+      {
+        "h": "Context: 92 cards, the trainer run, and the English twin",
+        "paragraphs": [
+          "Heat Wave Arena, set code SV9a, released in Japan on March 14, 2025, as a 63-card main set plus a 29-card secret block, for 92 cards in total: 12 Art Rares, 9 Super Rares, 5 Special Art Rares, and 3 Ultra Rares, with the six Double Rares in the main set. Each pack holds 5 cards at 180 yen, and the box is 30 packs, so a box is 5,400 yen, or $33.76 at 159.97 yen to the dollar. The set is built around Trainer's Pokemon, Cynthia, Ethan, and Misty, for Sealed Battle play.",
+          "The English twin is Destined Rivals, released May 30, 2025, built from Heat Wave Arena and Glory of Team Rocket, 77 days after the Japanese release. About 86 of the 92 Japanese cards appear in it. The cards carry the H regulation mark, still Standard-legal in the 2026 format after the April 10, 2026 rotation removed the G mark, so the box is a play purchase too. The [SV9a Heat Wave Arena buyer's guide](/blog/sv9a-heat-wave-arena-buyers-guide/) runs the November 6 prices side by side."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for the buyer who wants the box to pay for itself, because the dearest card is 154.62 percent of a box and the complete set is 4.27 boxes. It is not for the buyer who wants the cheapest sealed Pokemon on the shelf, because Battle Partners costs $2.41 a pack against this set's $4.63. It is not for the buyer who wants the lowest sealed-box price anywhere, because the Tokyo shop listing is $104.16 against this shelf's $138.82. It is not for the buyer who plays in English events, because Japanese cards are not legal there."
+        ]
+      },
+      {
+        "checklist": [
+          "Check the regulation mark first: H-mark cards are still Standard-legal in 2026, and legal in Expanded too.",
+          "Divide before you pay: box / 30 = your per-pack price; case / 12 = your per-box price. Never compare a case price to a box price.",
+          "Cheapest sealed SV9a on this shelf is the case at $1,363.68, $113.64 a box, not twelve singles at $1,665.84; the single box is $138.82, and the sold-first market box is $115.",
+          "If the job is one card, buy the single. The Cynthia's Garchomp ex Special Art Rare is $214.64. It is not guaranteed in any box.",
+          "If the job is the complete set, know the division: $593.40 is 4.27 boxes, and two boxes at $277.64 cost $315.76 less than the set, so buy the set only if you want the finished binder without the duplicates.",
+          "Check the tear strip before you pay: since September 2022 the boxes open through a perforated tear strip, so a torn or creased strip means the box was opened.",
+          "If the job is the twin too, buy the pair: Heat Wave Arena $138.82 plus Battle Partners $72.22 is $211.04, the March and January 2025 sets that built Destined Rivals and Journey Together."
+        ],
+        "h": "Action layer: the SV9a buying checklist",
+        "paragraphs": [
+          "Run the checklist in order and the buy decides itself. The case is the cheapest sealed route on this shelf, the single is the cheapest named-card route, and the box is the opening route.",
+          "The last check is the date. Every price here is stamped November 20, 2026, and the shelf repriced fifteen percent on November 13, so a price quoted without a date is a price from a different shelf.",
+          "The group split is the fourth check, and it is arithmetic. A twelve-box case at $1,363.68 splits three ways into four boxes each at $454.56, four ways into three boxes each at $340.92, and six ways into two boxes each at $227.28. Every split keeps the $113.64 case-split price, so the split buyer pays the case price without holding twelve boxes. Agree the split before the case is ordered, and agree who keeps the sealed boxes if the split falls through."
+        ]
+      }
+    ],
+    "slug": "sv9a-investment",
+    "takeaway": [
+      "The SV9a box at $138.82 is $4.63 a pack and $0.93 a card, while the case at $1,363.68 divides to $113.64 a box, $302.16 less than twelve singles and $16.32 less than twelve market boxes. Buy the box or the case, never twelve singles, and buy the single for any named card.",
+      "It is worth buying as the Heat Wave Arena set to open, sealed, and it is not worth buying as a way to own the Cynthia's Garchomp ex Special Art Rare or to make the money back by opening. Garchomp ex sat at $214.64 on TCGplayer as of November 18, 2026, 154.62 percent of a box, and the top three cards together sat at $379.99, 2.74 boxes. Buy the single, or buy the box for the set.",
+      "It is worth buying with the fall in mind: the box dropped $24.50, from $163.32 to $138.82, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,604.33 to $1,363.68, which did not change the verdict, because the case saved money before the fall and saves $302.16 after it. The cards carry the H regulation mark, still Standard-legal in 2026, so the box is a play purchase too.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 20, 2026, and the marketplace references as of October 7 to November 19, 2026. The box sits $23.82 above the $115 sold-first market box, and the case box sits $1.36 below it. The [SV9a Heat Wave Arena buyer's guide](/blog/sv9a-heat-wave-arena-buyers-guide/) runs the November 6 prices, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV9 Battle Partners worth buying guide](/blog/is-sv9-worth-buying/) runs the same verdict on the cheaper twin, where the case saves $57.16.",
+      "The [SV8a Terastal Festival ex investment guide](/blog/sv8a-investment/) prices the December 2024 set at a $138.82 box, but its case saves $461.71, $159.55 more than the Heat Wave Arena case, while the complete set at $1,064.88 costs 7.67 boxes.",
+      "For the other half of Destined Rivals, the [SV10 Glory of Team Rocket investment guide](/blog/sv10-investment/) runs the same division, where the $181.04 box and $1,548.19 case divide to $129.02 a box and the case saves $624.29.",
+      "New this cycle: the [SV6a Night Wanderer investment guide](/blog/sv6a-investment/) runs the same division on the June 2024 set, where the $77.87 box and $767.13 case divide to $63.93 a box and the case saves $167.31."
     ]
   },
   "what-is-a-god-pack-japanese-pokemon": {
