@@ -28948,7 +28948,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the English box dropped $32.51 in eight days, from $162.56 to $130.05, exactly twenty percent, while the Japanese box did not move at all. Every English One Piece box and case on this shelf fell the same twenty percent in the same eight days, from OP-08 through OP-14. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 7 to November 1, 2026. The English box now sits below every market while the Japanese box sits $5.21 below the successor set's $135.00 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [OP-12 Legacy of the Master buyer's guide](/blog/op-12-legacy-of-the-master-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-13 worth buying guide](/blog/is-op-13-worth-buying/) runs the same verdict on the successor set.",
-      "For the investment division on the same four products, see [OP-12 Legacy of the Master Investment](/blog/op-12-investment/)."
+      "For the investment division on the same four products, see [OP-12 Legacy of the Master Investment](/blog/op-12-investment/).",
+      "For the same set ranked card by card, the [OP-12 best cards guide](/blog/op-12-best-cards/) ranks the ten most valuable Legacy of the Master cards on TCGplayer market prices checked November 19-20, 2026, with the $1,918.99 Gold Teach at the top and a $4,371.58 list."
     ]
   },
   "is-op-13-worth-buying": {
@@ -29140,7 +29141,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the game its Red Super Alt-Art trio and the first Roger and Imu Leaders, sealed in either language, and it is not worth buying as a way to own one named card or to make the money back by opening. The Red Manga Luffy sat at a 1,500,000 yen single-listing ask on October 1, 2026, which is $9,380.86, or 69.49 Japanese boxes, and the live TCGIntel valuation is $10,245. FoilKraken models the typical opened box at $86.29, 34.7 percent of the Warehouse English box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the English box dropped $62.10 in eight days, from $310.50 to $248.40, exactly twenty percent, while the Japanese box did not move at all. The same eight days took the same twenty percent off the English OP-14 box and every other English One Piece box on this shelf. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 1 to November 13, 2026. The English box now sits below every market while the Japanese box sits $5.21 above the predecessor set's $129.79 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-13 Carrying on His Will buyer's guide](/blog/op-13-carrying-on-his-will-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, the [is OP-12 worth buying guide](/blog/is-op-12-worth-buying/) runs the same verdict on the predecessor set, and the [OP-13 Carrying on His Will investment guide](/blog/op-13-investment/) runs the same division after the second fall, with the English case at $182.99 a box."
+      "For the price-and-math companion, the [OP-13 Carrying on His Will buyer's guide](/blog/op-13-carrying-on-his-will-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, the [is OP-12 worth buying guide](/blog/is-op-12-worth-buying/) runs the same verdict on the predecessor set, and the [OP-13 Carrying on His Will investment guide](/blog/op-13-investment/) runs the same division after the second fall, with the English case at $182.99 a box.",
+      "For the same set ranked card by card, the [OP-13 best cards guide](/blog/op-13-best-cards/) ranks the ten most valuable Carrying on His Will cards on TCGplayer market prices checked November 16-19, 2026, with the $8,000.00 Red Luffy at the top and a $24,652.34 list."
     ]
   },
   "is-op-14-worth-buying": {
@@ -50440,7 +50442,7 @@ export const POSTS: Record<string, BlogPost> = {
             [
               "Japanese box",
               "$154.03",
-              "$6.23",
+              "$6.42",
               "Opening Fist of Divine Speed in Japanese",
               "Chase not guaranteed; 4.63x official price"
             ],
@@ -50528,7 +50530,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Fist of Divine Speed set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus. The Gold Luffy is a one-time print that will not be reprinted, but its price moved 359% since June 2025, so quote the date with the number, every time.",
       "The ladder below the top ten collapses fast: the four near misses together are $177.06, barely more than one Japanese box, and the five Special Parallels in the top ten together are $754.35, 3.45% of the list. Two facts the other lists get wrong are corrected on this page: the Gold and Silver Anniversary Luffys are priced on TCGplayer in English, not exclusive to Japanese packs, and the English MSRP is $4.99 a pack, not $4.49.",
       "Companion guide: the [is OP-11 worth buying guide](/blog/is-op-11-worth-buying/) prices the same three products, and the [OP-11 investment guide](/blog/op-11-investment/) runs the same division for the holder at the November 17 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
-      "For the set before this one in the same ranking, the [OP-10 best cards guide](/blog/op-10-best-cards/) ranks Royal Blood the same way, with the $661.35 Law Manga at the top and a $1,329.69 list where one card is 49.74% of the whole top ten."
+      "For the set before this one in the same ranking, the [OP-10 best cards guide](/blog/op-10-best-cards/) ranks Royal Blood the same way, with the $661.35 Law Manga at the top and a $1,329.69 list where one card is 49.74% of the whole top ten.",
+      "For the next set in the same ranking, the [OP-12 best cards guide](/blog/op-12-best-cards/) ranks Legacy of the Master the same way, with the $1,918.99 Gold Teach at the top and a $4,371.58 list where the top two are 69.67% of the whole top ten."
     ]
   },
   "op-11-investment": {
@@ -50733,6 +50736,205 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the market figure as of November 17, 2026, the Tokyo listing as of October 23, 2026, and the Luffy Manga as of March 1, 2025. When the next repricing lands, re-run the division: the gap that makes OP-11 the buy today is a shelf price and a market price, and either one can move.",
       "For the opener's version of this set, the [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) prices the same three products for opening rather than holding, and [is OP-11 worth buying](/blog/is-op-11-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-10 Royal Blood investment guide](/blog/op-10-investment/) runs the same division on Royal Blood. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry.",
       "For the next set, see [OP-12 Legacy of the Master Investment](/blog/op-12-investment/)."
+    ]
+  },
+  "op-12-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Marshall.D.Teach Gold Anniversary Special, OP09-093, at $1,918.99 on TCGplayer market as of November 20, 2026, from the TCGPursuit price guide read November 21, 2026, cross-checked against Inksight on November 19 and BountyTCG on November 2, when it was $1,958.14. It is 43.90% of the whole top ten. The Silver Anniversary Teach, OP09-093, is second at $1,126.66. Both are 3rd Anniversary Special reprints of the OP-09 Teach, not base-set OP-12 cards.",
+        "q": "What is the most valuable OP-12 card?"
+      },
+      {
+        "a": "No, not as a plan. The Gold Teach is $1,918.99, which is 17.39 Japanese boxes at $110.32 and 17.36 English boxes at $110.54, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Pullnomics' current model prices an English box's contents at $70.96 against a $291.31 market box, 0.24 times, and $45.47 with no case hit, 0.41 times our English box. FoilKraken's November 1 report puts the typical opened box at $90.49 with only 6% of simulated boxes beating the sealed price, and WorthRipping's November 20 model has 6 of 100 boxes making money. Buy the single if the card is the job, or buy the box to open Legacy of the Master and treat the chase as a bonus.",
+        "q": "Should I buy an OP-12 box to pull the Gold Teach?"
+      },
+      {
+        "a": "Because they are not OP-12 base-set cards. The Gold and Silver Anniversary Teaches are 3rd Anniversary Special reprints of Marshall.D.Teach, OP09-093, from Emperors in the New World, printed in gold and silver foil for the game's third anniversary and slotted into OP-12 as Special cards. The same confusion runs the other way on the Treasure Rare: the English set holds a Vinsmoke Sanji Treasure Rare, OP10-063, that the Japanese card list does not show, so the English master set is 155 cards and the Japanese master set is 154. Count the printing, not the set code.",
+        "q": "Why do the two most valuable OP-12 cards carry an OP09 number?"
+      }
+    ],
+    "h1": "OP-12 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-12, Legacy of the Master, is the Marshall.D.Teach Gold Anniversary Special, OP09-093, at $1,918.99 on TCGplayer market as of November 20, 2026, and the ten best cards together are $4,371.58. The Silver Anniversary Teach, OP09-093, is second at $1,126.66, and the two together are $3,045.65, 69.67% of the list. The set's only Manga Rare, the Jewelry Bonney Comic Parallel, OP12-118, is third at $703.51. On our shelf, November 21, 2026, the [OP-12 Japanese booster box](/product/op-12-legacy-of-the-master-booster-box-japanese-one-piece-card/) is $110.32 and the [OP-12 English booster box](/product/op-12-legacy-of-the-master-booster-box-english-one-piece-card/) is $110.54, $0.22 apart. Buy the box for the set, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-12 chase, buyers choosing between the Japanese and English box when the two cost $0.22 apart, and players who want Block 3 cards that stay Standard-legal through March 2028. Who it is not for: anyone chasing one named card by opening boxes, or anyone buying a sealed box as a guaranteed investment."
+    ],
+    "metaDescription": "OP-12 best cards ranked on TCGplayer market prices, Nov 20, 2026: the $1,918.99 Gold Teach, the $703.51 Bonney Manga, and the $110.54 English box.",
+    "metaTitle": "OP-12 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: two Anniversary Teaches are 69.67% of the list",
+        "paragraphs": [
+          "One dated read: every value is a TCGplayer market price from TCGPursuit, as of November 20, 2026, cross-checked against ogcards on November 20, Inksight on November 19, Haki's November 19 guide, and tcggg's TCGplayer-derived read, which all print the same two Anniversary Teach prices. The ten add to $4,371.58; the top card alone is $1,918.99, 43.90% of the list. Marshall.D.Teach Gold Anniversary Special, OP09-093, is $1,918.99, and the Silver Anniversary Special, OP09-093, is $1,126.66, $792.33 behind. Behind them: the Jewelry Bonney Manga Rare, OP12-118, at $703.51, the Zoro-Juurou SP, ST18-004, at $214.62, the Portgas.D.Ace SP, ST13-011, at $116.97, and the Demon Aura Alternate Art, OP12-037, at $107.34. The bottom four are the Kuzan SP, OP10-082, at $53.14, the Boeuf Burst Alternate Art, OP12-060, at $45.11, the Zoro Leader Alternate Art, OP12-020, at $43.48, and the Tashigi SP, OP06-050, at $41.76.",
+          "The split is the story. The top two are $3,045.65, 69.67% of the top ten, and the top three are $3,749.16, 85.76%. The top five are $4,080.75, 93.35%, which leaves $290.83 for the bottom five. ogcards puts the whole set at $4,897.86 on November 20, 2026, so the top ten are 89.25% of everything the set holds. The six Special Parallels in the top ten together are $3,472.14, 79.43% of the list, and all six are reprints from older sets.",
+          "Three readings need a flag. First, the two most valuable cards carry an OP09 number: they are 3rd Anniversary Special reprints of the OP-09 Teach, in gold and silver foil, sitting in OP-12's Special slots the way the Anniversary Luffys sat in OP-11's. Second, the Bonney on this list is one printing of three: the Manga Rare is $703.51, the Alternate Art is $15.94, and the base Secret Rare is $3.53, all under OP12-118. Third, the list moved overnight: the Zoro-Juurou SP fell $3.12 in a day, from $217.74 to $214.62, while the Tashigi SP rose from $41.51 to $41.76. Quote the date with the number, every time."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and a shelf that stopped moving",
+        "math": [
+          "OP-12 Japanese box per pack: $110.32 / 24 packs = $4.60 per pack",
+          "OP-12 Japanese box per card: $110.32 / 144 cards = $0.77 per card",
+          "OP-12 Japanese case per box: $1,318.32 / 12 boxes = $109.86 per box",
+          "OP-12 Japanese case per pack: $1,318.32 / 288 packs = $4.58 per pack",
+          "OP-12 Japanese case per card: $1,318.32 / 1,728 cards = $0.76 per card",
+          "OP-12 Japanese case vs singles: 12 x $110.32 = $1,323.84; $1,323.84 - $1,318.32 = $5.52 saved ($0.46 per box)",
+          "OP-12 English box per pack: $110.54 / 24 packs = $4.61 per pack",
+          "OP-12 English box per card: $110.54 / 288 cards = $0.38 per card",
+          "OP-12 English case per box: $1,133.65 / 12 boxes = $94.47 per box",
+          "OP-12 English case per pack: $1,133.65 / 288 packs = $3.94 per pack",
+          "OP-12 English case per card: $1,133.65 / 3,456 cards = $0.33 per card",
+          "OP-12 English case vs singles: 12 x $110.54 = $1,326.48; $1,326.48 - $1,133.65 = $192.83 saved ($16.07 per box)",
+          "OP-12 English box vs MSRP: 24 packs x $4.99 = $119.76; $119.76 - $110.54 = $9.22 below MSRP; $110.54 / $119.76 = 0.92x",
+          "OP-12 Japanese box vs official price: 24 packs x 220 yen = 5,280 yen; 5,280 / 158.64 yen per dollar (ECB November 20, 2026) = $33.28; $110.32 / $33.28 = 3.31x",
+          "OP-12 language gap per box: $110.54 - $110.32 = $0.22; per pack: $4.61 - $4.60 = $0.01; per card: $0.77 - $0.38 = $0.39",
+          "OP-12 Japanese box vs CardZ reference: $110.32 - $101.00 = $9.32 above the Nov 18, 2026 sold-first reference",
+          "OP-12 English box vs CardZ reference: $222.00 - $110.54 = $111.46 below the Nov 18, 2026 sold-first reference",
+          "OP-12 English box vs market: $291.31 - $110.54 = $180.77 below the Pullnomics market figure; $180.77 / $291.31 = 62.05% below market",
+          "OP-12 top 10 total: $1,918.99 + $1,126.66 + $703.51 + $214.62 + $116.97 + $107.34 + $53.14 + $45.11 + $43.48 + $41.76 = $4,371.58",
+          "OP-12 top 2 total: $1,918.99 + $1,126.66 = $3,045.65; $3,045.65 / $4,371.58 = 69.67% of the top 10",
+          "OP-12 top 3 total: $1,918.99 + $1,126.66 + $703.51 = $3,749.16; $3,749.16 / $4,371.58 = 85.76% of the top 10",
+          "OP-12 top 5 total: $1,918.99 + $1,126.66 + $703.51 + $214.62 + $116.97 = $4,080.75; $4,080.75 / $4,371.58 = 93.35% of the top 10",
+          "OP-12 bottom 5 total: $107.34 + $53.14 + $45.11 + $43.48 + $41.76 = $290.83; $290.83 / $4,371.58 = 6.65% of the top 10",
+          "OP-12 Gold Teach share: $1,918.99 / $4,371.58 = 43.90% of the top 10",
+          "OP-12 Silver Teach share: $1,126.66 / $4,371.58 = 25.77% of the top 10",
+          "OP-12 Bonney Manga share: $703.51 / $4,371.58 = 16.09% of the top 10",
+          "OP-12 six top-10 SPs total: $1,918.99 + $1,126.66 + $214.62 + $116.97 + $53.14 + $41.76 = $3,472.14; $3,472.14 / $4,371.58 = 79.43% of the top 10",
+          "OP-12 top 10 vs set total: $4,371.58 / $4,897.86 = 89.25% of the ogcards Nov 20, 2026 set total",
+          "OP-12 Gold Teach against the boxes: $1,918.99 / $110.32 = 17.39 Japanese boxes; $1,918.99 / $110.54 = 17.36 English boxes",
+          "OP-12 Bonney Manga against the boxes: $703.51 / $110.32 = 6.38 Japanese boxes; $703.51 / $110.54 = 6.36 English boxes",
+          "OP-12 top 10 against the boxes: $4,371.58 / $110.32 = 39.63 Japanese boxes; $4,371.58 / $110.54 = 39.55 English boxes",
+          "OP-12 near misses below the top 10: $39.86 + $27.53 + $21.34 + $20.09 = $108.82; $108.82 / $110.32 = 0.99 Japanese boxes; $108.82 / $110.54 = 0.98 English boxes",
+          "OP-12 rip expected value: $70.96 / $291.31 = 0.24x of the market box; $45.47 / $110.54 = 0.41x of our English box (Pullnomics, Nov 21, 2026)",
+          "OP-12 opened-box return: $90.49 / $291.84 = 31.01% of the sealed price (FoilKraken, Nov 1, 2026); 6% of simulated boxes beat the sealed price",
+          "OP-12 WorthRipping: $103.00 / $243.54 = 0.42x of its market box; 6 of 100 boxes make money (Nov 20, 2026)",
+          "OP-12 Gold Teach Nov 2 to Nov 20: $1,958.14 - $1,918.99 = $39.15; $39.15 is 2.00% of $1,958.14",
+          "OP-12 Bonney Manga Nov 8 to Nov 20: $711.04 - $703.51 = $7.53; $7.53 is 1.06% of $711.04",
+          "OP-12 Bonney Manga SNKRDUNK ask: 59,500 yen / 158.64 yen per dollar (ECB November 20, 2026) = $375.06 (Oct 7, 2026 ask, not a sale)",
+          "OP-12 shelf repricing Nov 5 to Nov 17: Japanese box $129.79 - $110.32 = $19.47; $19.47 is 15.00% of $129.79; English box $162.56 - $110.54 = $52.02; $52.02 is 32.00% of $162.56",
+          "OP-12 Zoro-Juurou SP Nov 19 to Nov 20: $217.74 - $214.62 = $3.12; $3.12 is 1.43% of $217.74"
+        ],
+        "paragraphs": [
+          "All four OP-12 products repriced between November 5 and November 17, 2026, and none moved again by November 21: the Japanese pair fell exactly 15.00% and the English pair exactly 32.00%. The Japanese box went from $129.79 to $110.32 and the case from $1,550.96 to $1,318.32; the English box from $162.56 to $110.54 and the case from $1,667.13 to $1,133.65. The November 5 prices are the ones the [OP-12 Legacy of the Master buyer's guide](/blog/op-12-legacy-of-the-master-buyers-guide/) printed; the November 17 prices are the ones the [OP-12 Legacy of the Master investment guide](/blog/op-12-investment/) printed.",
+          "The Japanese box is $110.32 for 24 packs of 6 cards, $4.60 a pack and $0.77 a card, against a 5,280 yen official box price that converts to $33.28 at the ECB November 20 rate of 158.64 yen per dollar: 3.31 times its official price. The English box is $110.54 for 24 packs of 12 cards, $4.61 a pack and $0.38 a card, against a $119.76 MSRP box: $9.22 below its printed price, the first below-MSRP English box in this run of guides. The two boxes cost $0.22 apart, $0.01 a pack apart, and $0.39 a card apart.",
+          "The cases split the same way. The [Japanese case](/product/op-12-legacy-of-the-master-sealed-case-12-boxes-japanese-one-piece-card/) is $1,318.32, or $109.86 a box, $5.52 less than twelve singles at $1,323.84. The [English case](/product/op-12-legacy-of-the-master-sealed-case-12-boxes-english-one-piece-card/) is $1,133.65, or $94.47 a box, $192.83 less than twelve singles at $1,326.48. Pullnomics prices the English box's market at $291.31, so our $110.54 shelf box sits $180.77 below market, 62.05% below. CardZ's sold-first references from November 18 run the other way in Japanese: our Japanese box sits $9.32 above its $101 reference, while our English box sits $111.46 below its $222 reference."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on OP-12, what each costs per pack, what it is for, and where it fails. The English case wins every per-unit figure; the single row is the only row that buys the card instead of the chance."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$110.32",
+              "$4.60",
+              "Opening Legacy of the Master in Japanese",
+              "Chase not guaranteed; 3.31x official price"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,318.32",
+              "$4.58",
+              "Twelve Japanese boxes at $0.46 a box under singles",
+              "Saving is $5.52 across the case"
+            ],
+            [
+              "English box",
+              "$110.54",
+              "$4.61",
+              "English cards, 62.05% below market",
+              "Chase not guaranteed; $0.22 dearer than Japanese"
+            ],
+            [
+              "English case (12)",
+              "$1,133.65",
+              "$3.94",
+              "Twelve English boxes at $16.07 a box under singles",
+              "$1,133.65 tied up in one set"
+            ],
+            [
+              "The single",
+              "$1,918.99 Gold Teach",
+              "n/a",
+              "Owning the chase card",
+              "One card; price fell 2.00% since Nov 2"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no dated USD top 10, no EV, no Treasure Rare",
+        "note": "From the Warehouse: the question we get most about OP-12 is whether the $703.51 Bonney is the Bonney in the box, because the base Secret Rare of the same number sells for $3.53. It is not the same card: the Manga Rare is a separate printing, and the base Secret Rare is the cheap one. Quote the printing with the price, every time, or the number means nothing.",
+        "paragraphs": [
+          "The top three Google results for the main query give a collector ranking, a euro index, and a promo checklist. The One Piece Pack Simulator top-10 list ranks Gold Teach first and Kuma tenth, carries no prices anywhere, and puts its manga-event pull estimate at roughly 1 in 6 boxes, a community figure, not a Bandai one. The PokeItem guide, recorded November 1, 2026, prices the key cards on its own index in euros, 2,001 euros for the Gold Teach and 500 euros for the Bonney Super Alt-Art, not in TCGplayer dollars. The second result is a promo checklist for the OP12P companion set, not the main set at all. None of the three gives a dated dollar price for any card on this list.",
+          "The gap this page owns starts with the dated USD top ten: no result gives ten OP-12 cards on TCGplayer market prices checked November 20, 2026. The second gap is the singles-versus-box expected value at the current box price: Pullnomics prices an English box's contents at $70.96 against a $291.31 market box, and no list runs that division against our $110.54 shelf box, where the same contents are 0.41 times the price with no case hit. The third gap is the Japanese-versus-English depth: $0.22 a box, $0.01 a pack, $0.39 a card, and an English-only Treasure Rare. The fourth gap is the SP count: the set holds 8 Special cards, six SP reprints plus the two anniversary Teaches. The fan-out behind this page ran eight sub-queries: OP-12 values and TCGplayer prices, the Anniversary Teach prices, the Bonney Manga price, pull rates and box value, the competitive meta, Japanese versus English and the Treasure Rare, the SP list, and box price against market.",
+          "Two more facts the lists miss. The base Secret Rares are cheap: the Bonney base is $3.53 and the Kuma base is $9.51, so the chase is the parallels, not the Secret Rares. And OP-12 cards win tournaments: the Kuma Secret Rare, OP12-119, sat in the first-place Blue Yellow Nami deck at the Cardcon Utrecht Regional on November 9, 2025, a 1,024-player event, and the Demon Aura event, OP12-037, and the Zoro-Juurou SP, ST18-004, both cut in Green Purple Luffy lists at the same event."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "note": "From the Warehouse: the question we get second most about OP-12 is why the SPs on this list carry other set codes, ST18, ST13, OP10, OP06, OP09, when the set is OP-12. They are reprints: Bandai filled this set's SP slots with premium versions of cards from starter decks and older sets, so the SP ladder is a tour of the game's history, not OP-12's own cards. The only cards on this list that carry OP-12 numbers are the Bonney Manga, OP12-118, the Demon Aura manga event, OP12-037, the Boeuf Burst manga event, OP12-060, and the Zoro Leader Alt-Art, OP12-020.",
+        "paragraphs": [
+          "The top of the ladder is one Teach, twice. The Gold Anniversary Special, OP09-093, is $1,918.99, 43.90% of the top ten, and the Silver Anniversary Special, OP09-093, is $1,126.66, 25.77%. The Gold fell 2.00% since November 2, from $1,958.14 to $1,918.99 on the BountyTCG snapshot. The Gold is the dearest card in the set by $792.33, and its closest neighbour is the OP-09 Manga Teach, the older premium printing of the same character, at $1,850.31, $68.68 below the Gold.",
+          "The second rung is the set's own chase. The Bonney Manga, OP12-118, is $703.51, 16.09% of the top ten, down 1.06% from $711.04 on November 8. The SNKRDUNK lowest ask for the same card was 59,500 yen raw on October 7, 2026, about $375.06 at 158.64 yen per dollar, far below the TCGplayer market: an ask is not a sale, and the two markets disagree here by $317.15. The Bonney Manga alone is 6.38 Japanese boxes and 6.36 English boxes.",
+          "The third rung is the four remaining SPs and the two manga events, $580.66 together, 13.28% of the top ten: Zoro-Juurou, ST18-004, at $214.62, Ace, ST13-011, at $116.97, the Demon Aura manga event, OP12-037, at $107.34, Kuzan, OP10-082, at $53.14, the Boeuf Burst manga event, OP12-060, at $45.11, and the Zoro Leader Alt-Art, OP12-020, at $43.48. The Tashigi SP, OP06-050, at $41.76 closes the list. Below the top ten the ladder collapses: the four near misses, Perona Alternate Art $39.86, Nico Robin Alternate Art $27.53, Sanji Leader Alternate Art $21.34, Tashigi Alternate Art $20.09, together are $108.82, less than one Japanese box."
+        ]
+      },
+      {
+        "h": "The risk layer: the reprint, the thin market, and the $1,918.99 card",
+        "paragraphs": [
+          "The first risk is the reprint, and it has already happened next door. PRB-02 reprinted the Sanji SP, OP06-119, as a Manga Rare on October 3, 2025, so Bandai does reprint chase SPs, and OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. The Teach Gold carries a second version of the same risk: the OP-09 Manga Teach sits at $1,850.31, $68.68 below it, so the Gold is not the only premium Teach a buyer can own. Never pay a scarcity premium with money you need back on a date.",
+          "The second risk is the lottery, and three models agree it loses. Pullnomics' current model prices an English box's contents at $70.96 against a $291.31 market box, 0.24 times, and $45.47 with no case hit, 0.41 times our $110.54 English box. FoilKraken's November 1 report prices the box at $291.84, the average opened box at $125.15, the typical opened box at $90.49, and only 6% of simulated boxes beating the sealed price. WorthRipping's November 20 model prices the box at $243.54, the cards at $103 after selling costs, the typical box at $43, and 6 of 100 boxes making money. The three models measure different things and must not be blended, but they point the same way. Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase, and WorthRipping says plainly that it borrows the rates of boxes with the same pack layout.",
+          "The third risk is the reseal: check the wrap and seams before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand, and read [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) first. A box priced far below even our $110.54 shelf is a warning, not a bargain, and the Japanese box sits $9.32 above CardZ's $101 sold-first reference, so the Japanese side has no cushion at all."
+        ]
+      },
+      {
+        "h": "Context: 127 card types, two languages, and a set that survives rotation",
+        "paragraphs": [
+          "Legacy of the Master is built on master and disciple pairs: Rayleigh and Luffy, Mihawk and Zoro, Garp and his lineage, and the Shanks thread. Japan got it on May 31, 2025; English followed on August 22, 2025, legal August 29, 2025. Bandai's official card list shows 127 card types plus 1 DON!! card in Japan and 128+1 in English, the extra type being the Treasure Rare Vinsmoke Sanji, OP10-063, which the Japanese card list does not show. The Japanese box holds 24 packs of 6 cards, 144 cards; the English box holds 24 packs of 12 cards, 288 cards. The official Japanese pack is 220 yen, so the official box is 5,280 yen. The English MSRP is $4.99 a pack, so the MSRP box is $119.76. The set's colours are explained in [One Piece Card Game Colors Explained](/blog/one-piece-card-game-colors-explained/).",
+          "The language gap decides the purchase. The Japanese box is $4.60 a pack and $0.77 a card; the English box is $4.61 a pack and $0.38 a card. Cost per pack favours Japanese by $0.01, a rounding error; cost per card favours English by $0.39, nearly half. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) rank all the boxes to per-pack prices. OP-12 is Block 3, OP-09 through OP-12, and Bandai's published Standard windows keep Blocks 3 through 6 legal from April 1, 2027 to March 31, 2028, so OP-12 plays on for another year past the April 1, 2027 rotation that takes Block 2 out of Standard."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Gold Teach is 17.39 Japanese boxes and 17.36 English boxes, and no pull rate prices the chase. It is not for anyone who expects the Japanese case to discount, because it saves $0.46 a box. It is not for anyone who treats a sealed box as a guaranteed investment: the expected value was $70.96 against a $291.31 market box, only 6% of simulated boxes beat the sealed price, and 6 of 100 boxes make money. It is not for anyone who wants a Manga Rare of Luffy, because OP-12's Manga Rare is Bonney."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Gold Teach, own the Bonney Manga, own the six SPs, hold the Legacy of the Master set sealed, or own it in English.",
+          "If the job is the Gold Teach, buy the single at $1,918.99, which is 17.39 Japanese boxes, and do not open boxes for it, because Bandai publishes no pull rates.",
+          "If the job is the Bonney Manga, buy the single at $703.51, which is 6.38 Japanese boxes, and check the printing first: the base Secret Rare of the same number is $3.53.",
+          "If the job is the Japanese box, pay $110.32, or $4.60 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $110.54 for the box, or $1,133.65 for the case at $94.47 a box, and check the listing against the $291.31 market read before you pay. The case saves $192.83 against twelve singles.",
+          "If the job is a case, divide it first: the Japanese case saves $5.52 against twelve singles, $0.46 a box. Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-12 shelf moved 32.00% in twelve days on the English side."
+        ],
+        "h": "Action layer: the OP-12 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, and the purchase stays a decision instead of a hope. Every price here is stamped November 20-21, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+        ]
+      }
+    ],
+    "slug": "op-12-best-cards",
+    "takeaway": [
+      "The OP-12 top ten, on TCGplayer market prices as of November 20, 2026, totals $4,371.58, all ten reads in dollars from TCGPursuit, cross-checked against ogcards on November 20 and Inksight on November 19. The Marshall.D.Teach Gold, OP09-093, is $1,918.99 of it, 43.90% of the whole list. The Silver Teach is $1,126.66, and the top two together are $3,045.65, 69.67% of the list. The Bonney Manga is $703.51, and the top three together are $3,749.16, 85.76% of the list.",
+      "On our shelf as of November 21, 2026, the Japanese box is $110.32, the Japanese case is $1,318.32, the English box is $110.54, and the English case is $1,133.65. The Japanese pair fell exactly 15.00% since November 5, 2026, and the English pair fell exactly 32.00% in the same window, then all four held from November 17 to November 21. The Gold Teach is 17.39 Japanese boxes and 17.36 English boxes, and the Bonney Manga is 6.38 Japanese boxes and 6.36 English boxes. The English case saves $192.83 against twelve singles, and the Japanese case saves $5.52.",
+      "It is worth buying as the Legacy of the Master set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus. The Gold Teach fell 2.00% since November 2, so quote the date with the number, every time.",
+      "The ladder below the top ten collapses fast: the four near misses together are $108.82, less than one Japanese box, and the six Special Parallels in the top ten together are $3,472.14, 79.43% of the list. Two facts the other lists get wrong are corrected on this page: the two most valuable cards are OP09-093 anniversary reprints, not OP-12 numbers, and the English set holds a Treasure Rare, Vinsmoke Sanji OP10-063, that the Japanese list does not show.",
+      "Companion guide: the [is OP-12 worth buying guide](/blog/is-op-12-worth-buying/) prices the same four products, and the [OP-12 investment guide](/blog/op-12-investment/) runs the same division for the holder at the November 17 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles. For the set before this one, the [OP-11 best cards guide](/blog/op-11-best-cards/) ranks A Fist of Divine Speed the same way, with the $13,000 Gold Luffy at the top and a $21,848.52 list where one card is 59.50% of the whole top ten.",
+      "For the next set in the same ranking, the [OP-13 best cards guide](/blog/op-13-best-cards/) ranks Carrying on His Will the same way, with the $8,000.00 Red Luffy at the top and a $24,652.34 list where the Red trio is 69.77% of the whole top ten."
     ]
   },
   "op-12-investment": {
@@ -51156,6 +51358,203 @@ export const POSTS: Record<string, BlogPost> = {
       "For the successor set, see [OP-13 Carrying on His Will Buyer's Guide](/blog/op-13-carrying-on-his-will-buyers-guide/). For the predecessor set, see [OP-11 A Fist of Divine Speed Buyer's Guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/).",
       "For the worth-buying verdict on this set, see [Is OP-12 Legacy of the Master Worth Buying?](/blog/is-op-12-worth-buying/).",
       "For the investment division on the same four products, see [OP-12 Legacy of the Master Investment](/blog/op-12-investment/)."
+    ]
+  },
+  "op-13-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Monkey.D.Luffy Red Super Alternate Art, OP13-118, at $8,000.00 on TCGplayer market as of November 19, 2026, from the InkSight top-cards snapshot of November 19, 2026, cross-checked against Pullnomics at $8,000, Bounty's November 2 snapshot at $7,500.00, and a $7,997 Japanese raw read on November 16, 2026. InkSight flags the $8,000.00 read an outlier, thin sale depth, and the $99,999.00 figure attached to the same card is a listing ask, not a price. It is 32.45% of the whole top ten. The Sabo Red Super Alternate Art, OP13-120, is second at $4,800.00.",
+        "q": "What is the most valuable OP-13 card?"
+      },
+      {
+        "a": "No, not as a plan. The Red Luffy is $8,000.00, which is 69.72 Japanese boxes at $114.75 and 37.89 English boxes at $211.14, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Pullnomics' current model prices an English box's contents at $42.72 against a $419.13 market box, 0.10 times, and $32.00 with no case hit, 0.15 times our English box. FoilKraken's November 1 report puts the typical opened box at $86.29 with only 17% of simulated boxes beating the sealed price. Buy the single if the card is the job, or buy the box to open Carrying on His Will and treat the chase as a bonus.",
+        "q": "Should I buy an OP-13 box to pull the Red Luffy?"
+      },
+      {
+        "a": "Because no TCGplayer USD market price for the Portgas.D.Ace Red Super Alternate Art, OP13-119, could be verified on November 19, 2026. The $4,400.43 figure is Bounty's November 2, 2026 TCGplayer snapshot. InkSight's most-expensive page indexes the card around $10,000.00, but that is an ask-based index, not a market price, and the April 2026 TCGTalk conversion puts it at $4,903.68 while the November 16 Japanese raw read is $3,111. The $24,652.34 top-ten total therefore mixes seven November 19 reads with two November 16 reads and one November 2 read, and this page says so instead of dating the whole list November 19.",
+        "q": "Why is the Ace Red Super Alternate Art priced from November 2?"
+      }
+    ],
+    "h1": "OP-13 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-13, Carrying on His Will, is the Monkey.D.Luffy Red Super Alternate Art, OP13-118, at $8,000.00 on TCGplayer market as of November 19, 2026, and the ten best cards together are $24,652.34. The Sabo Red Super Alternate Art, OP13-120, is second at $4,800.00, and the Red trio of Luffy, Ace and Sabo together are $17,200.43, 69.77% of the list. On our shelf, November 21, 2026, the [OP-13 Japanese booster box](/product/op-13-carrying-on-his-will-booster-box-japanese-one-piece-card/) is $114.75 and the [OP-13 English booster box](/product/op-13-carrying-on-his-will-booster-box-english-one-piece-card/) is $211.14. Buy the box for the anniversary set, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-13 chase, buyers choosing between the Japanese and English box, and players who want the Tier 1 Luffy Leader. Who it is not for: anyone chasing one named card by opening boxes, anyone who needs the Japanese case to discount, and anyone buying a sealed box as a guaranteed investment."
+    ],
+    "metaDescription": "OP-13 best cards ranked on TCGplayer market prices, Nov 19, 2026: the $8,000 Red Luffy, the $4,800 Sabo, and the $211.14 English box.",
+    "metaTitle": "OP-13 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: three brothers are 69.77% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price. Seven reads come from InkSight's November 19, 2026 top-cards snapshot, cross-checked against Pullnomics and Haki's November 19 guide. The Ace and Sabo Super Alternate Arts are TickerMint's November 16 reads; the Ace Red is Bounty's November 2 snapshot. The ten add to $24,652.34, and the top card alone is $8,000.00, 32.45% of the list. Monkey.D.Luffy Red Super Alternate Art, OP13-118, is $8,000.00, and Sabo Red Super Alternate Art, OP13-120, is $4,800.00. Behind them: the Portgas.D.Ace Red Super Alternate Art, OP13-119, is $4,400.43 on the November 2 read, the Monkey.D.Luffy Super Alternate Art, OP13-118, is $2,208.62, and the Shanks Gold SP, OP09-004, is $1,515.49. The bottom five are the Ace Super Alternate Art at $1,023.23, the Shanks Silver SP at $1,016.94, the Sabo Super Alternate Art at $748.63, the St. Marcus Mars Parallel at $494.00, and the Ace Wanted Poster at $445.00.",
+          "The split is the story. The top three are $17,200.43, 69.77% of the top ten, and the top five are $20,924.54, 84.88%. The top two are $12,800.00, 51.92% of the list. The Red trio is the set: three printings of the same three Secret Rares carry more than two-thirds of the value. The two Shanks SPs together are $2,532.43, 10.27% of the list. Three readings need a flag. InkSight marks the $8,000.00 Red Luffy read an outlier, thin sale depth, and excludes it from its set totals; the $99,999.00 figure beside it is a listing ask, not a price. The Ace Red has no verified November 19 market print: $4,400.43 is Bounty's November 2 snapshot. The Ace Super Alternate Art is $1,023.23 on TickerMint's November 16 read, down from the $1,300.00 July 25 snapshot, and the Sabo Super Alternate Art is $748.63 on November 16."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and a shelf that stopped moving",
+        "math": [
+          "OP-13 Japanese box per pack: $114.75 / 24 packs = $4.78 per pack",
+          "OP-13 Japanese box per card: $114.75 / 144 cards = $0.80 per card",
+          "OP-13 Japanese box vs official price: 24 packs x 220 yen = 5,280 yen; 5,280 / 158.64 yen per dollar (ECB November 20, 2026) = $33.28; $114.75 / $33.28 = 3.45x",
+          "OP-13 Japanese case per box: $1,377.31 / 12 boxes = $114.78 per box",
+          "OP-13 Japanese case vs singles: 12 x $114.75 = $1,377.00; $1,377.31 - $1,377.00 = $0.31 more ($0.03 per box)",
+          "OP-13 Japanese case per pack: $1,377.31 / 288 packs = $4.78 per pack",
+          "OP-13 Japanese case per card: $1,377.31 / 1,728 cards = $0.80 per card",
+          "OP-13 English box per pack: $211.14 / 24 packs = $8.80 per pack",
+          "OP-13 English box per card: $211.14 / 288 cards = $0.73 per card",
+          "OP-13 English box vs MSRP: 24 packs x $4.99 = $119.76; $211.14 - $119.76 = $91.38 above MSRP; $211.14 / $119.76 = 1.76x",
+          "OP-13 English box vs market: $419.13 - $211.14 = $207.99 below the November 21, 2026 market figure; $207.99 / $419.13 = 49.62% below market",
+          "OP-13 English case per box: $2,195.86 / 12 boxes = $182.99 per box",
+          "OP-13 English case vs singles: 12 x $211.14 = $2,533.68; $2,533.68 - $2,195.86 = $337.82 saved ($28.15 per box)",
+          "OP-13 English case per pack: $2,195.86 / 288 packs = $7.62 per pack",
+          "OP-13 English case per card: $2,195.86 / 3,456 cards = $0.64 per card",
+          "OP-13 English case per box vs market: $419.13 - $182.99 = $236.14 below the November 21 market figure per box",
+          "OP-13 English case vs MSRP: $182.99 / $119.76 = 1.53x",
+          "OP-13 language gap per box: $211.14 - $114.75 = $96.39; $96.39 / 24 packs = $4.02 per pack",
+          "OP-13 language gap per card: $0.80 - $0.73 = $0.07 cheaper per card in English",
+          "OP-13 Japanese box repricing Nov 5 to Nov 21: $135.00 - $114.75 = $20.25; $20.25 is 15.00% of $135.00",
+          "OP-13 Japanese case repricing Nov 5 to Nov 21: $1,620.37 - $1,377.31 = $243.06; $243.06 is 15.00% of $1,620.37",
+          "OP-13 English box repricing Nov 5 to Nov 21: $310.50 - $211.14 = $99.36; $99.36 is 32.00% of $310.50",
+          "OP-13 English case repricing Nov 5 to Nov 21: $3,229.20 - $2,195.86 = $1,033.34; $1,033.34 is 32.00% of $3,229.20",
+          "OP-13 market path Nov 17 to Nov 21: $445.28 - $419.13 = $26.15; $26.15 is 5.87% of $445.28",
+          "OP-13 top 10 total: $8,000.00 + $4,800.00 + $4,400.43 + $2,208.62 + $1,515.49 + $1,023.23 + $1,016.94 + $748.63 + $494.00 + $445.00 = $24,652.34",
+          "OP-13 top 5 total: $8,000.00 + $4,800.00 + $4,400.43 + $2,208.62 + $1,515.49 = $20,924.54; $20,924.54 / $24,652.34 = 84.88% of the top 10",
+          "OP-13 top 3 total: $8,000.00 + $4,800.00 + $4,400.43 = $17,200.43; $17,200.43 / $24,652.34 = 69.77% of the top 10",
+          "OP-13 top 2 total: $8,000.00 + $4,800.00 = $12,800.00; $12,800.00 / $24,652.34 = 51.92% of the top 10",
+          "OP-13 Red Luffy share: $8,000.00 / $24,652.34 = 32.45% of the top 10",
+          "OP-13 bottom 5 total: $1,023.23 + $1,016.94 + $748.63 + $494.00 + $445.00 = $3,727.80; $3,727.80 / $24,652.34 = 15.12% of the top 10",
+          "OP-13 two Shanks SPs total: $1,515.49 + $1,016.94 = $2,532.43; $2,532.43 / $24,652.34 = 10.27% of the top 10",
+          "OP-13 red treatment premiums: Luffy $8,000.00 - $2,208.62 = $5,791.38; Ace $4,400.43 - $1,023.23 = $3,377.20; Sabo $4,800.00 - $748.63 = $4,051.37",
+          "OP-13 Red Luffy against the boxes: $8,000.00 / $114.75 = 69.72 Japanese boxes; $8,000.00 / $211.14 = 37.89 English boxes",
+          "OP-13 Red trio against the boxes: $17,200.43 / $114.75 = 149.89 Japanese boxes; $17,200.43 / $211.14 = 81.46 English boxes",
+          "OP-13 Luffy Super Alternate Art against the boxes: $2,208.62 / $114.75 = 19.25 Japanese boxes; $2,208.62 / $211.14 = 10.46 English boxes",
+          "OP-13 top 10 against the boxes: $24,652.34 / $114.75 = 214.84 Japanese boxes; $24,652.34 / $211.14 = 116.76 English boxes",
+          "OP-13 near misses below the top 10: $498.53 + $87.00 + $28.00 = $613.53; $613.53 / $114.75 = 5.35 Japanese boxes; $613.53 / $211.14 = 2.91 English boxes",
+          "OP-13 rip expected value: $42.72 / $419.13 = 0.10x of the current market box; $42.72 / $211.14 = 0.20x of our English box; $32.00 / $211.14 = 0.15x with no case hit",
+          "OP-13 opened-box return: $86.29 / $427.81 = 20.17% of the sealed price (FoilKraken, Nov 1, 2026); 17% of simulated boxes beat the sealed price",
+          "OP-13 Red Luffy Nov 2 to Nov 19: $8,000.00 - $7,500.00 = $500.00; $500.00 is 6.67% of $7,500.00",
+          "OP-13 shelf vs eBay medians: Japanese $126.00 - $114.75 = $11.25 below; English $425.00 - $211.14 = $213.86 below; $213.86 / $425.00 = 50.32% below"
+        ],
+        "paragraphs": [
+          "All four OP-13 products repriced between November 5 and November 17, 2026, and none moved again by November 21: the Japanese pair fell exactly 15.00% and the English pair exactly 32.00%. The Japanese box went from $135.00 to $114.75 and the case from $1,620.37 to $1,377.31; the English box from $310.50 to $211.14 and the case from $3,229.20 to $2,195.86. The November 5 prices are the ones the [OP-13 buyers guide](/blog/op-13-carrying-on-his-will-buyers-guide/) printed, and the November 17 prices are the ones the [OP-13 investment guide](/blog/op-13-investment/) printed.",
+          "The Japanese box is $114.75 for 24 packs of 6 cards, $4.78 a pack and $0.80 a card, against a 5,280 yen official box price that converts to $33.28 at 158.64 yen per dollar, so the Japanese box is 3.45 times its official price. The English box is $211.14 for 24 packs of 12 cards, $8.80 a pack and $0.73 a card, against a $119.76 MSRP box, so it is 1.76 times its MSRP. English costs $96.39 more per box and $4.02 more per pack, yet the English card costs $0.07 less. The market did not follow the shelf down: Pullnomics priced the English box at $445.28 on November 17 and $419.13 on November 21, down 5.87%, so our $211.14 shelf box sits $207.99 below market, 49.62% below. eBay agrees: $126 Japanese median to November 12, $425 English median to November 20.",
+          "The cases split. The [Japanese case](/product/op-13-carrying-on-his-will-sealed-case-12-boxes-japanese-one-piece-card/) is $1,377.31, or $114.78 a box, which is $0.31 more than twelve singles at $1,377.00: three cents a box the wrong way, for the third set running. The [English case](/product/op-13-carrying-on-his-will-sealed-case-12-boxes-english-one-piece-card/) is $2,195.86, or $182.99 a box, which is $337.82 less than twelve singles at $2,533.68: $28.15 a box for buying the carton, and $236.14 below the market per box. The [is OP-13 worth buying guide](/blog/is-op-13-worth-buying/) runs the same four products as a buy-or-pass verdict."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on OP-13, what each costs per pack, what it is for, and where it fails. The single row is the only row that buys the card instead of the chance: the Red Luffy is 69.72 Japanese boxes and 37.89 English boxes, and the top ten together are 214.84 Japanese boxes and 116.76 English boxes.",
+          "Read the case rows as a division, not a promise. The English case saves $28.15 a box only if twelve English boxes are wanted; the Japanese case saves nothing at all. The [OP-13 investment guide](/blog/op-13-investment/) prices the same four products for the holder, where the English case is the buy and the Japanese box is the opener."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$114.75",
+              "$4.78",
+              "Opening the anniversary set in Japanese",
+              "Chase not guaranteed; 3.45x official price"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,377.31",
+              "$114.78 a box",
+              "Twelve Japanese boxes in one carton",
+              "Costs $0.31 more than twelve singles"
+            ],
+            [
+              "English box",
+              "$211.14",
+              "$8.80",
+              "English cards, 49.62% below market",
+              "1.76x MSRP; EV 0.20x the shelf box"
+            ],
+            [
+              "English case (12)",
+              "$2,195.86",
+              "$182.99 a box",
+              "Twelve English boxes at $28.15 a box under singles",
+              "$2,195.86 in one purchase"
+            ],
+            [
+              "The single",
+              "$8,000.00 Red Luffy",
+              "n/a",
+              "Owning the chase card",
+              "Thin market; InkSight flags the read an outlier"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no dated USD top 10, no shelf, no ban",
+        "note": "From the Warehouse: the question we get most in chat about OP-13 is whether the $99,999.00 figure for the Red Luffy is its price, because one guide prints it next to the card and another refuses to print the card at all. Neither is the price. The $99,999.00 is a listing ask with almost no completed-sale depth, and the $8,000.00 market read is thin enough that InkSight flags it an outlier. We print both numbers with their dates and their flags, because a chase card with a thin market is exactly the card where the source matters most.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there. TCGTalk carries a top ten ranked on PriceCharting data from April 2026, converted from Singapore dollars at 1.36 per dollar, with no November price anywhere. InkSight's OP-13 guide carries a July 25, 2026 snapshot and refuses to headline the Red Luffy at all, because its model flags the $99,999.00 ask as an outlier with no sale depth. Pullnomics carries the box expected value and the five dearest cards, but no top-ten list and no shelf. None of the three gives ten OP-13 cards on TCGplayer market prices checked in November 2026, and none of them prices a box on this shelf.",
+          "The gap this page owns starts with the dated USD top ten, every read dated, the three flagged reads flagged. Second is the expected value at the current box price: Pullnomics prices an English box's contents at $42.72 against a $419.13 market box, and no list runs that division against our $211.14 shelf box, where the same contents are 0.20 times the price. Third is the language depth: $96.39 a box and a Japanese case that costs more than its singles. Fourth is Block 4 and the November 27, 2026 ban pair, which no best-cards list mentions. Fifth is the contradiction this page reports instead of smoothing over: InkSight writes that One Piece has no rotation, while Bandai's Standard windows keep Blocks 2 through 5 legal to March 31, 2027 and Blocks 3 through 6 from April 1, 2027. The fan-out ran eight sub-queries: top values, the Red Manga trio, pull rates, box versus expected value, the meta, Japanese versus English, the Shanks SPs, and the Gorosei parallels."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "note": "From the Warehouse: the question we get second most about OP-13 is why the Shanks cards on this list carry an OP09 number when the set is OP-13. They are anniversary bonus pulls: the Gold and Silver Shanks SPs are premium versions of a card from Emperors in the New World, slipped into OP-13 boosters for the third anniversary. The only cards on this list that carry OP-13 numbers are the Three Brothers trio, the Mars Parallel and the Ace Wanted Poster.",
+        "paragraphs": [
+          "The top of the ladder is one trio, three times. The Red Super Alternate Arts are $8,000.00 for Luffy, $4,800.00 for Sabo and $4,400.43 for Ace, $17,200.43 together, 69.77% of the top ten. The Red Luffy moved from $7,500.00 on Bounty's November 2 snapshot to $8,000.00 on November 19, up 6.67% in seventeen days, and it cross-checks against a $7,997 Japanese raw read on November 16. The same three cards in their standard Super Alternate Art are $2,208.62 for Luffy, $1,023.23 for Ace and $748.63 for Sabo, $3,980.48 together. The red treatment is worth $5,791.38 on Luffy, $3,377.20 on Ace and $4,051.37 on Sabo: the flame is the price.",
+          "The second rung is the anniversary Shanks pair: the Gold SP is $1,515.49 and the Silver SP $1,016.94, $2,532.43 together, 10.27% of the list. Both carry an older set number because they are bonus pulls in OP-13 boosters, not base-set cards. The third rung is the Gorosei and the Leaders: the St. Marcus Mars Parallel is $494.00, the dearest Gorosei parallel on a November read, and the Ace Wanted Poster is $445.00. Below them the ladder falls off a cliff. The Nusjuro Red Alternate Art has no November TCGplayer read, only an April 2026 conversion of $498.53 and a November Cardmarket read of 431.73 euros, below Mars at 472.76 euros, so it is the near miss, not the tenth card. The Luffy Leader Alternate Art is about $87.00 and the Roger Leader Alternate Art about $28.00, both July 25 reads. The three near misses together are $613.53, 5.35 Japanese boxes. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the whole shelf by per-pack price."
+        ]
+      },
+      {
+        "h": "The risk layer: the reprint, the thin market, and the $8,000 card",
+        "paragraphs": [
+          "The first risk is the reprint. Premium Bandai has listed an OP-13 booster box with an August 2026 delivery window, which InkSight reads as a retailer shipping estimate on a restock, not a Bandai reprint announcement, and no publisher announcement confirms a reprint wave. A restock would press sealed box prices and the commons down while leaving the Secret Rare alt-art tier mostly alone, but the warning from next door is real: OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting, while the presses were running. Never pay a scarcity premium with money you need back on a date.",
+          "The second risk is the thin market at the top: the Red Luffy's $8,000.00 is a market read InkSight flags as an outlier, and the graded record shows the range, with a BGS 10 Black Label copy selling for $165,100 on eBay on July 12, 2026, against $8,000 raw. The third risk is the lottery, and two models agree it loses. Pullnomics prices an English box's contents at $42.72 against a $419.13 market box, 0.10 times, and $32.00 with no case hit, 0.15 times our $211.14 box. FoilKraken's November 1 report prices the typical opened box at $86.29 against a $427.81 sealed price, 20.17%, with only 17% of simulated boxes beating the sealed price. Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. The fourth risk is the reseal: check the wrap and seams with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand, and read [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) first. The English box trades at 1.76 times its MSRP, and that premium is exactly what resealers monetize."
+        ]
+      },
+      {
+        "h": "Context: 132 card types, two languages, and a set that survives rotation",
+        "paragraphs": [
+          "Carrying on His Will is built on the Three Brothers and the will they carry: Japan got it on August 23, 2025, and English followed on November 7, 2025, a gap of 76 days, with prerelease on October 31 and tournament legality from November 14. Bandai lists 132 card types plus 1 DON!! card in Japan and 133+1 in English, a one-type difference between the two official counts. The Japanese box holds 24 packs of 6 cards, 144 cards; the English box holds 24 packs of 12 cards, 288 cards. The official Japanese pack is 220 yen, so the official box is 5,280 yen. The English MSRP is $4.99 a pack, so the MSRP box is $119.76. The set's colours are explained in [One Piece Card Game Colors Explained](/blog/one-piece-card-game-colors-explained/).",
+          "The set also runs the current meta. The Monkey.D.Luffy Leader, OP13-001, is the only Tier 1 leader in the November 12, 2026 meta read, at a 61.9% win rate and 11.2% of players, and it won the Sydney Regional on November 7, 2026. Its lists run Garp, OP13-016, at $0.66 and Law, OP13-031, at $1.28, each in 81% of top-cut lists. The catch: from November 27, 2026, Bandai bans the Bonney, EB05-001, and Luffy, OP13-001, pair, announced November 17, so 90% of Luffy lists change a card slot instead of switching leader. OP-13 is Block 4. Bandai's Standard windows keep Blocks 2 through 5 legal to March 31, 2027, then Blocks 3 through 6 to March 31, 2028, so OP-13 plays on past the April 1, 2027 rotation that takes Block 2 out, and its three Secret Rare numbers stay legal through their Super Parallel printings on Bandai's Block X list. The [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) ranks the English boxes the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Red Luffy is 69.72 Japanese boxes and 37.89 English boxes, and no pull rate prices the chase. It is not for anyone who needs the Japanese case to discount, because it costs $0.31 more than twelve singles. It is not for anyone who treats a sealed box as a guaranteed investment: the expected value was $42.72 against a $419.13 market box, only 17% of simulated boxes beat the sealed price, and OP-01 fell 57% in a month once. It is not for anyone who wants the Red Luffy at a settled price, because the $8,000.00 market read is flagged an outlier and the $99,999.00 figure beside it is an ask."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Red Luffy, own the Red trio, own the two Shanks SPs, hold the anniversary set sealed, or play the Tier 1 Luffy Leader.",
+          "If the job is the Red Luffy, buy the single at $8,000.00, which is 69.72 Japanese boxes, and do not open boxes for it, because Bandai publishes no pull rates.",
+          "If the job is the Red trio, buy the three singles at $17,200.43, which is 149.89 Japanese boxes, and check the Ace Red read first: $4,400.43 is the November 2 snapshot, not November 19.",
+          "If the job is the Japanese box, pay $114.75, or $4.78 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $211.14 for the box, or $182.99 a box in the case, and check the listing against the $419.13 market read before you pay.",
+          "If the job is a case, divide it first: the English case saves $337.82 against twelve singles, $28.15 a box, and the Japanese case costs $0.31 more than twelve singles. Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-13 shelf fell 32.00% in twelve days on the English side."
+        ],
+        "h": "Action layer: the OP-13 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, and the purchase stays a decision instead of a hope. Every price here is stamped November 19-21, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+        ]
+      }
+    ],
+    "slug": "op-13-best-cards",
+    "takeaway": [
+      "The OP-13 top ten, on TCGplayer market prices checked November 16-19, 2026, totals $24,652.34, with three flagged reads: the Ace Red Super Alternate Art at $4,400.43 is the November 2 snapshot, and the Ace and Sabo Super Alternate Arts at $1,023.23 and $748.63 are November 16 reads. The Monkey.D.Luffy Red Super Alternate Art, OP13-118, is $8,000.00 of it, 32.45% of the list. The Sabo Red is $4,800.00, and the top two together are $12,800.00, 51.92%. The Red trio is $17,200.43, 69.77%.",
+      "On our shelf as of November 21, 2026, the Japanese box is $114.75, the Japanese case is $1,377.31, the English box is $211.14, and the English case is $2,195.86. The Japanese pair fell 15.00% since November 5 and the English pair 32.00%, then all four held from November 17 to November 21. The Red Luffy is 69.72 Japanese boxes and 37.89 English boxes. The English case saves $337.82 against twelve singles, and the Japanese case costs $0.31 more. The English box sits $207.99 below the November 21 market read of $419.13.",
+      "It is worth buying as the Carrying on His Will set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus. The Red Luffy is the set's flame-treated anniversary rarity, but its $8,000.00 market read is flagged an outlier, so quote the date and the flag with the number, every time.",
+      "The ladder below the top three falls fast: the bottom seven together are $7,730.05, and the bottom five together are $3,727.80, 15.12% of the list. Two facts the other lists get wrong are corrected on this page: the Red Luffy's price is $8,000.00 on a flagged market read, not the $99,999.00 ask, and One Piece does have rotation, with Block 2 leaving Standard on April 1, 2027 while Block 4 plays on.",
+      "Companion guide: the [is OP-13 worth buying guide](/blog/is-op-13-worth-buying/) prices the same four products, and the [OP-13 investment guide](/blog/op-13-investment/) runs the same division for the holder at the November 17 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the set before this one in the same ranking, the [OP-12 best cards guide](/blog/op-12-best-cards/) ranks Legacy of the Master the same way."
     ]
   },
   "op-13-carrying-on-his-will-buyers-guide": {
