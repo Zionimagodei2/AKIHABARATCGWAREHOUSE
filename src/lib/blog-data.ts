@@ -29722,7 +29722,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the cheapest way into the current competitive set, sealed, and it is not worth buying as a way to own one named card or to make the money back by opening. The Sakazuki Manga sat at $1,111.83 on TCGplayer on October 18, 2026, which is 12.46 boxes, and the three Admirals combined cost $3,218.57. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the Japanese box dropped $15.75 in nine days, from $105.00 to $89.25, fifteen percent in one leg on November 13, 2026, and the English box fell thirty-two percent in two legs, from $215.05 to $146.23. The chase fell too: the Admirals ask ¥148,000 each on yuyu-tei on November 6, 2026, all sold out, against ¥150,000, ¥108,000, and ¥98,000 on September 30.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of September 30 to November 6, 2026. The box now sits $112.64 below the FoilKraken November 1 sealed figure of $201.89, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) runs all four products side by side, the [OP-16 The Time of Battle investment guide](/blog/op-16-investment/) runs the same four products as a hold-or-sell division, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case is also a premium and the English case also saves."
+      "For the price-and-math companion, the [OP-16 The Time of Battle buyer's guide](/blog/op-16-the-time-of-battle-buyers-guide/) runs all four products side by side, the [OP-16 The Time of Battle investment guide](/blog/op-16-investment/) runs the same four products as a hold-or-sell division, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case is also a premium and the English case also saves.",
+      "For the same set ranked card by card, the [OP-16 best cards guide](/blog/op-16-best-cards/) ranks the ten most valuable The Time of Battle cards on TCGplayer market prices checked November 17-20, 2026, with the $1,073.42 Sakazuki Manga at the top and a $3,837.79 list."
     ]
   },
   "is-op-17-worth-buying": {
@@ -29916,7 +29917,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the anniversary set to open, sealed, and it is not worth buying as a way to own the Xebec Super Alternate Art or to make the money back by opening. The Xebec sat at $6,100.00 on TCGplayer on November 12, 2026, which is 59.17 boxes, and the Shanks Manga at $1,470.07 is 14.26 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the Japanese box dropped $18.19 in nine days, from $121.28 to $103.09, fifteen percent in one leg on November 13, 2026, and the English box fell thirty-two percent in two legs, from $212.09 to $144.22. The chase fell too: the Luffy Super Leader dropped 12.18 percent since October 25, from $1,383.43 to $1,214.98.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 25 to November 12, 2026. The box now sits $198.33 below the FoilKraken November 1 sealed figure of $301.42, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-16 worth buying guide](/blog/is-op-16-worth-buying/) runs the same verdict on the Marineford set, where the Japanese case is also a premium and the English case also saves. For the investment version of this set, the [OP-17 World's Strongest Warriors investment guide](/blog/op-17-investment/) runs the same division on a $144.22 English box, $151.78 below a $296 market."
+      "For the price-and-math companion, the [OP-17 World's Strongest Warriors buyer's guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-16 worth buying guide](/blog/is-op-16-worth-buying/) runs the same verdict on the Marineford set, where the Japanese case is also a premium and the English case also saves. For the investment version of this set, the [OP-17 World's Strongest Warriors investment guide](/blog/op-17-investment/) runs the same division on a $144.22 English box, $151.78 below a $296 market.",
+      "For the same set ranked card by card, the [OP-17 best cards guide](/blog/op-17-best-cards/) ranks the ten most valuable The World's Strongest Warriors cards on TCGplayer market prices checked November 21, 2026, with the $6,100.00 Xebec at the top and a $12,323.53 list."
     ]
   },
   "is-op-18-worth-buying": {
@@ -52938,7 +52940,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Adventure on Kami's Island set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus. The Enel Manga is the set's Skypiea chase, but it has eased 2.96% in thirteen days, so quote the date with the number, every time.",
       "The ladder below the top two falls fast: the bottom eight together are $1,987.59, and the bottom five together are $707.92, 20.77% of the list. Two facts the other lists get wrong are corrected on this page: the Enel Manga's price is $850.87 on a dated market read, not the $910.58 raw read, and Card Gamer's ninth and tenth cards both sit below the November 21 cut. One Piece does have rotation: Block 2 leaves Standard on April 1, 2027, Block 4 is in the published windows through March 31, 2028, and the March 31, 2029 date on Bandai's pages covers fifteen older cards treated as Block 4, not Block 4 itself.",
       "Companion guide: the [is OP-15 worth buying guide](/blog/is-op-15-worth-buying/) prices the same four products, and the [OP-15 investment guide](/blog/op-15-investment/) runs the same division for the holder at the November 17 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
-      "For the set before this one in the same ranking, the [OP-14 best cards guide](/blog/op-14-best-cards/) ranks The Azure Sea's Seven the same way."
+      "For the set before this one in the same ranking, the [OP-14 best cards guide](/blog/op-14-best-cards/) ranks The Azure Sea's Seven the same way.",
+      "For the next set in the same ranking, the [OP-16 best cards guide](/blog/op-16-best-cards/) ranks The Time of Battle the same way, with the $1,073.42 Sakazuki Manga at the top and a $3,837.79 list where the three Admirals are 81.27% of the whole top ten."
     ]
   },
   "op-15-investment": {
@@ -53146,6 +53149,204 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, English prices down 32% and Japanese prices down 15% since November 3, the market figure as of November 17, 2026, the CardZ references as of November 16, 2026, and the Enel price as of November 17, 2026. When the next repricing lands, re-run the division: the gap that makes OP-15 the buy today is a shelf price and a market price, and either one can move.",
       "For the opener's version of this set, the [OP-15 Adventure on Kami's Island buyer's guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-15 worth buying](/blog/is-op-15-worth-buying/) runs the buy-or-pass verdict. For the set after, the [OP-16 The Time of Battle investment guide](/blog/op-16-investment/) runs the same division on a $146.23 English box. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry.",
       "For the ranked chase list, the [OP-15 best cards guide](/blog/op-15-best-cards/) prices the ten dearest cards on TCGplayer market reads of November 21, 2026."
+    ]
+  },
+  "op-16-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Sakazuki Manga, OP16-065, at $1,073.42 on TCGplayer market as of November 17, 2026, from ShonenTCG's snapshot of the TCGCSV build, cross-checked exactly against Haki's November 19 price guide and RareTracker's November 21 read. It is 27.97% of the whole top ten. The Kuzan Manga, OP16-063, is second at $1,058.78.",
+        "q": "What is the most valuable OP-16 card?"
+      },
+      {
+        "a": "No, not as a plan. The Sakazuki Manga is $1,073.42, which is 12.03 Japanese boxes at $89.25 and 7.34 English boxes at $146.23, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Worth Ripping's November 20 simulation has the average box's cards at $102.00 after selling costs against a $200.09 box, and only 8 in 100 boxes make money.",
+        "q": "Should I buy an OP-16 box to pull the Sakazuki Manga?"
+      },
+      {
+        "a": "Because no TCGplayer market read for the Ms. All Sunday SP, OP14-084, could be verified in the November 17 snapshot, which covers the set's native cards and not the SP tier. The $456.27 figure is TCGGG's November 20 estimate from TCGplayer listings, cross-checked against the weekly TCGplayer series at $486.30 on November 8 and the Zukan catalogue at $468.82 on November 14-15. The card has slid all autumn, down 8.28% in thirty days on TCGGG's read.",
+        "q": "Why is the Ms. All Sunday SP priced from November 20 and not November 17?"
+      }
+    ],
+    "h1": "OP-16 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-16, The Time of Battle, is the Sakazuki Manga, OP16-065, at $1,073.42 on TCGplayer market as of November 17, 2026, and the ten best cards together are $3,837.79. The Kuzan Manga, OP16-063, is second at $1,058.78, and the three Admiral Manga Rares together are $3,119.17, 81.28% of the list. On our shelf, November 21, 2026, the [OP-16 Japanese booster box](/product/op-16-the-time-of-battle-booster-box-japanese-one-piece-card/) is $89.25 and the [OP-16 English booster box](/product/op-16-the-time-of-battle-booster-box-english-one-piece-card/) is $146.23. Buy the box to open Marineford, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-16 chase, buyers choosing between the Japanese and English box, and players who want the Teach Secret Rare that actually sees play. Who it is not for: anyone chasing one Admiral Manga by opening boxes, anyone who needs the Japanese case to discount, and anyone buying a sealed box as a guaranteed investment."
+    ],
+    "metaDescription": "OP-16 best cards, TCGplayer market, Nov 17-20, 2026: $1,073.42 Sakazuki Manga, $456.27 Ms. All Sunday SP, $89.25 Japanese box.",
+    "metaTitle": "OP-16 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: three Admirals are 81.27% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price. Seven reads come from ShonenTCG's November 17, 2026 snapshot of the TCGCSV build, the same source the set's collectors guide used in October, and the three Admiral Manga figures cross-check exactly three ways: Haki's November 19 price guide leads with the Sakazuki at $1,073.42, and RareTracker's November 21 read of the set prints the same $1,073.42 as its top card. The three remaining reads are TCGGG estimates from TCGplayer listings, recorded November 19-20: the Ms. All Sunday SP at $456.27, the Ace SP at $99.12, the Zehahahahaha! alternate art at $42.84 and the Yamato Leader alternate art at $41.33. The ten add to $3,837.79, and the top card alone is $1,073.42, 27.97% of the list.",
+          "The split is the story. The top three are $3,119.17, 81.28% of the top ten, and the top five are $3,674.56, 95.75% of it. The bottom five together are $163.23, 4.25% of the list. Eight of the ten carry OP-16 numbers; the two that do not are the SP inserts, the Ms. All Sunday and the Ace, and together they are $555.39, 14.47% of the list. One of every card in the set, at RareTracker's November 21 read, is $4,354.21, so the top ten are 88.14% of the whole set's singles value, and the three Admirals alone are 71.64% of it."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and a shelf that has not moved since November 13",
+        "math": [
+          "OP-16 Japanese box per pack: $89.25 / 24 packs = $3.72 per pack",
+          "OP-16 Japanese box per card: $89.25 / 144 cards = $0.62 per card",
+          "OP-16 Japanese box vs official price: 24 packs x 220 yen = 5,280 yen; 5,280 / 158.64 yen per dollar (ECB November 20, 2026) = $33.28; $89.25 / $33.28 = 2.68x",
+          "OP-16 Japanese case per box: $1071.92 / 12 boxes = $89.33 per box",
+          "OP-16 Japanese case vs singles: 12 x $89.25 = $1071.00; $1071.92 - $1071.00 = $0.92 more ($0.08 per box)",
+          "OP-16 Japanese case per pack: $1071.92 / 288 packs = $3.72 per pack",
+          "OP-16 Japanese case per card: $1071.92 / 1,728 cards = $0.62 per card",
+          "OP-16 English box per pack: $146.23 / 24 packs = $6.09 per pack",
+          "OP-16 English box per card: $146.23 / 288 cards = $0.51 per card",
+          "OP-16 English box vs MSRP: 24 packs x $4.99 = $119.76; $146.23 - $119.76 = $26.47 above MSRP; $146.23 / $119.76 = 1.22x",
+          "OP-16 English box vs market: $207.89 - $146.23 = $61.66 below the November 17, 2026 market figure; $61.66 / $207.89 = 29.66% below market",
+          "OP-16 English case per box: $1313.20 / 12 boxes = $109.43 per box",
+          "OP-16 English case vs singles: 12 x $146.23 = $1754.76; $1754.76 - $1313.20 = $441.56 saved ($36.80 per box)",
+          "OP-16 English case per pack: $1313.20 / 288 packs = $4.56 per pack",
+          "OP-16 English case per card: $1313.20 / 3,456 cards = $0.38 per card",
+          "OP-16 English case per box vs market: $207.89 - $109.43 = $98.46 below the November 17 market figure per box",
+          "OP-16 English case vs MSRP: $109.43 / $119.76 = 0.91x",
+          "OP-16 language gap per box: $146.23 - $89.25 = $56.98; $56.98 / 24 packs = $2.37 per pack",
+          "OP-16 language gap per card: $0.62 - $0.51 = $0.11 cheaper per card in English",
+          "OP-16 Japanese box repricing Nov 4 to Nov 13: $105.00 - $89.25 = $15.75; $15.75 is 15.00% of $105.00",
+          "OP-16 Japanese case repricing Nov 4 to Nov 13: $1,261.08 - $1071.92 = $189.16; $189.16 is 15.00% of $1,261.08",
+          "OP-16 English box repricing Nov 4 to Nov 13: $215.05 - $146.23 = $68.82; $68.82 is 32.00% of $215.05",
+          "OP-16 English case repricing Nov 4 to Nov 13: $1,931.18 - $1313.20 = $617.98; $617.98 is 32.00% of $1,931.18",
+          "OP-16 top 10 total: $1,073.42 + $1,058.78 + $986.97 + $456.27 + $99.12 + $42.84 + $41.33 + $40.46 + $23.34 + $15.26 = $3,837.79",
+          "OP-16 top 5 total: $1,073.42 + $1,058.78 + $986.97 + $456.27 + $99.12 = $3,674.56; $3,674.56 / $3,837.79 = 95.75% of the top 10",
+          "OP-16 top 3 total: $1,073.42 + $1,058.78 + $986.97 = $3,119.17; $3,119.17 / $3,837.79 = 81.28% of the top 10",
+          "OP-16 top card share: $1,073.42 / $3,837.79 = 27.97% of the top 10",
+          "OP-16 bottom 5 total: $42.84 + $41.33 + $40.46 + $23.34 + $15.26 = $163.23; $163.23 / $3,837.79 = 4.25% of the top 10",
+          "OP-16 two SP inserts total: $456.27 + $99.12 = $555.39; $555.39 / $3,837.79 = 14.47% of the top 10",
+          "OP-16 eight native OP-16 cards total: $3,837.79 - $555.39 = $3,282.40; $3,282.40 / $3,837.79 = 85.53% of the top 10",
+          "OP-16 Sakazuki Manga against the boxes: $1,073.42 / $89.25 = 12.03 Japanese boxes; $1,073.42 / $146.23 = 7.34 English boxes",
+          "OP-16 top 3 against the boxes: $3,119.17 / $89.25 = 34.95 Japanese boxes; $3,119.17 / $146.23 = 21.33 English boxes",
+          "OP-16 top 10 against the boxes: $3,837.79 / $89.25 = 43.00 Japanese boxes; $3,837.79 / $146.23 = 26.24 English boxes",
+          "OP-16 Sakazuki Manga Oct 18 to Nov 17: $1,111.83 - $1,073.42 = $38.41; $38.41 is 3.45% of $1,111.83",
+          "OP-16 Kuzan Manga Oct 18 to Nov 17: $1,088.18 - $1,058.78 = $29.40; $29.40 is 2.70% of $1,088.18",
+          "OP-16 Borsalino Manga Oct 18 to Nov 17: $1,018.56 - $986.97 = $31.59; $31.59 is 3.10% of $1,018.56",
+          "OP-16 Ms. All Sunday SP Nov 8 to Nov 20: $486.30 - $456.27 = $30.03; $30.03 is 6.18% of $486.30",
+          "OP-16 Ace SP Nov 8 to Nov 19: $109.04 - $99.12 = $9.92; $9.92 is 9.10% of $109.04",
+          "OP-16 top 10 vs singles total: $3,837.79 / $4,354.21 = 88.14% of the November 21, 2026 singles total (RareTracker)",
+          "OP-16 top 10 vs OP-15 top 10: $3,837.79 - $3,408.38 = $429.41; $3,837.79 / $3,408.38 = 112.60% of the OP-15 top 10",
+          "OP-16 opened-box return: $117.97 / $201.89 = 58.43% of the sealed price (FoilKraken, Nov 1, 2026); 7% of simulated boxes beat the sealed price",
+          "OP-16 opened-box return (Worth Ripping): $102.00 / $200.09 = 50.98% of the market box after selling costs (Nov 20, 2026); 8 in 100 boxes make money"
+        ],
+        "paragraphs": [
+          "All four OP-16 products repriced between November 4 and November 13, 2026, and none moved again by November 21: the Japanese pair fell exactly 15.00% and the English pair exactly 32.00%. The Japanese box went from $105.00 to $89.25 and the case from $1,261.08 to $1,071.92; the English box from $215.05 to $146.23 and the case from $1,931.18 to $1,313.20. The fall came in two legs, twenty percent then fifteen percent on the English side, because 0.80 times 0.85 is 0.68, and the same two legs fell on OP-12 through OP-17, a repricing of the line, not a verdict on this set.",
+          "The Japanese box is $89.25 for 24 packs of 6 cards, $3.72 a pack and $0.62 a card, against a 5,280 yen official box price that converts to $33.28 at 158.64 yen per dollar, so the Japanese box is 2.68 times its official price. The English box is $146.23 for 24 packs of 12 cards, $6.09 a pack and $0.51 a card, against a $119.76 MSRP box, so it is 1.22 times its MSRP. English costs $56.98 more per box and $2.37 more per pack, and this time the English card costs $0.11 less: the pack-size difference more than covers the premium.",
+          "The cases split. The [Japanese case](/product/op-16-the-time-of-battle-sealed-case-12-boxes-japanese-one-piece-card/) is $1,071.92, or $89.33 a box, which is $0.92 more than twelve singles at $1,071.00: eight cents a box the wrong way, for the third set running. The [English case](/product/op-16-the-time-of-battle-sealed-case-12-boxes-english-one-piece-card/) is $1,313.20, or $109.43 a box, which is $441.56 less than twelve singles at $1,754.76: $36.80 a box for buying the carton. Against the market, the Warehouse English box at $146.23 sits $61.66 below ShonenTCG's November 17 TCGplayer box at $207.89, 29.66% below it, and the English case at $109.43 a box sits $98.46 below that market box."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on OP-16, what each costs per pack, what it is for, and where it fails. The single row is the only row that buys the card instead of the chance: the Sakazuki Manga is 12.03 Japanese boxes and 7.34 English boxes, and the top ten together are 43.00 Japanese boxes and 26.24 English boxes. Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase, and the two market estimates that try it anyway both miss the box: FoilKraken's November 1 report puts a typical opened box at $79.46 against a $201.89 sealed box, and Worth Ripping's November 20 simulation puts the average box's cards at $102.00 after selling costs against a $200.09 box.",
+          "Read the case rows as a division, not a promise. The English case saves $36.80 a box only if twelve English boxes are wanted; the Japanese case saves nothing at all. The [is OP-16 worth buying guide](/blog/is-op-16-worth-buying/) prices the same four products for the holder, and the [OP-16 investment guide](/blog/op-16-investment/) runs the same division for the longer hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$89.25",
+              "$3.72",
+              "Opening the Marineford set in Japanese",
+              "Chase not guaranteed; 2.68x official price"
+            ],
+            [
+              "Japanese case (12)",
+              "$1071.92",
+              "$89.33 a box",
+              "Twelve Japanese boxes in one carton",
+              "Costs $0.92 more than twelve singles"
+            ],
+            [
+              "English box",
+              "$146.23",
+              "$6.09",
+              "English cards, 29.66% below market",
+              "1.22x MSRP; EV 0.51x the market box"
+            ],
+            [
+              "English case (12)",
+              "$1313.20",
+              "$109.43 a box",
+              "Twelve English boxes at $36.80 a box under singles",
+              "$1313.20 in one purchase"
+            ],
+            [
+              "The single",
+              "$1,073.42 Sakazuki Manga",
+              "n/a",
+              "Owning the chase card",
+              "Down 3.45% since October 18"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no dated USD top 10, no shelf, no play",
+        "note": "From the Warehouse: the question we get most in chat about OP-16 is why the Ace Secret Rare costs $5.72 when it is the face of the set on Bandai's page and the Teach Secret Rare costs $23.34. The answer is the play count: Teach is in 66 of 444 recent decklists and Ace is in none of them, and a Secret Rare nobody plays is a picture, not a staple. Buy the Ace because you collect Ace, not because a deck needs it.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there. ShonenTCG's chase guide carries the November 17 table this page uses, but only nine rows, no SP reprints, no shelf, and no box math. ShonenTCG's collectors guide carries the full October 18 snapshot, a month stale, with the Ms. All Sunday SP at $497.47 and the Ace SP at $132.47 where this page reads $456.27 and $99.12. RareTracker prints the top card and the set value, $4,354.21 for one of every card, and no ranking at all. None of the three tells a buyer what the box costs, what the case divides to, or which OP-16 cards tournament players actually play.",
+          "The gap this page owns starts with the dated USD top ten, every read dated, the four TCGGG reads flagged as estimates from TCGplayer listings. Second is the shelf: four live prices, the two-leg fall, and the case divisions, none of which any ranking list carries. Third is the play count: the Teach Secret Rare in 66 of 444 Limitless decklists from October 22 to November 17, against the Ace Secret Rare in none of them, which is the difference between a card players buy and a card collectors frame."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "note": "From the Warehouse: the question we get second most about OP-16 is why two cards on this list carry old set numbers, OP14-084 and ST15-005, when the set is OP-16. They are SP reprints: Special printings of older cards with new art, listed under OP-16 on TCGplayer because they are pulled from OP-16 packs, and they keep the number of the set that first printed them. Check the number on the listing, not just the set name, or you will pay OP-16 money for a card from another set.",
+        "paragraphs": [
+          "The top of the ladder is one trio, three times. The Admiral Manga Rares are $1,073.42 for Sakazuki, $1,058.78 for Kuzan and $986.97 for Borsalino, $3,119.17 together, 81.28% of the top ten. The three fell together from October 18, down 3.45%, 2.70% and 3.10%, a slow slide, not a crash, and each one still costs more than seven English boxes. The second rung is the SP pair: the Ms. All Sunday at $456.27 and the Ace at $99.12, $555.39 together, 14.47% of the list, and both sliding, the Sunday down 6.18% since November 8 and the Ace down 9.10% in the same window.",
+          "The third rung is everything else, and it is a cliff: the Zehahahahaha! alternate art at $42.84, the Yamato Leader alternate art at $41.33, the Teach alternate art at $40.46, the Teach Secret Rare at $23.34 and the Ace alternate art at $15.26 add to $163.23, 4.25% of the list. The Treasure Rare Vista, the first Treasure Rare in a Japanese One Piece set, is not on the ladder at all: InkSight's November 19 verified read is $10.55, below the tenth card. The label is rare; the price is not."
+        ]
+      },
+      {
+        "h": "The risk layer: the thin top, the sliding SPs, and the $1,073 card",
+        "paragraphs": [
+          "The first risk is the thin top. Three cards are 81.28% of the list, and each one trades a handful of times a month at four figures, so a single sale reprices the card: Worth Ripping's November 20 read already has the trio at $983.00, $863.00 and $842.00, well below the TCGplayer market reads this page uses, because it blends a different basis. A buyer who pays the market read without checking the listing underneath it is paying for the average, not the copy. The second risk is the SP slide: the Ace SP is down 22% in thirty days on TCGGG's read and the Ms. All Sunday down 8.28%, and both were down all autumn, so a card bought as the second-tier chase is a card bought into a falling line. The third risk is the lottery, and two market estimates agree on it: FoilKraken's November 1 report has 7% of simulated boxes beating the sealed price, and Worth Ripping's November 20 simulation has 8 in 100 boxes making money, with a typical box worth $46.00 of cards. No reprint announcement exists for OP-16 from Bandai, so the sealed supply is the supply, but a set two releases back, with OP-18 out on November 20, does not need a reprint to lose attention."
+        ]
+      },
+      {
+        "h": "Context: 126 types, two languages, and a set two releases back",
+        "paragraphs": [
+          "The Time of Battle is built on the Marineford summit war: Japan got it on May 30, 2026, at 220 yen a pack for six cards, and English followed on June 12, 2026, at $4.99 a pack for twelve cards, a gap of 13 days. Bandai lists 126 card types plus 1 DON!! card: 6 Leaders, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, 2 Secret Rares, 6 Special Cards and 1 Treasure Rare, and TCGplayer tracks 155 printings once the parallels are counted. It is the first Japanese One Piece set to include a Treasure Rare, the Vista, and the first to put the Three Admirals on Manga parallels in the same set.",
+          "The set also runs the current meta, but only through one card. The Marshall.D.Teach Secret Rare, OP16-119, is the OP-16 card tournament players use most: 66 of the 444 Limitless decklists from October 22 to November 17 play it, most of them Enel lists, and four copies cost about $93.00 at the base print. The Mr.3 Super Rare is in 32 lists and the Sakazuki Super Rare in 22, all of them Rosinante lists running four copies at $0.45 each. The Ace Secret Rare, the face of the set, is in none of them. OP-18 released on November 20, 2026, so OP-16 is now two sets back, and its prices have been sliding since the October 18 snapshot, not rising into the new release."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Sakazuki Manga is 12.03 Japanese boxes and 7.34 English boxes, and no pull rate prices the chase. It is not for anyone who needs the Japanese case to discount, because it costs $0.92 more than twelve singles. It is not for anyone buying a sealed box as a guaranteed investment, because the average box's cards are worth $102.00 after selling costs against a $200.09 market box, and 92 in 100 boxes lose money. It is not for anyone who wants the set's face card to be its dearest card: the Ace Secret Rare is $5.72, the ninth card on the list is the Teach Secret Rare at four times its price, and the set's value sits with the Admirals, not with Ace."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Sakazuki Manga, own the three Admirals, own the two SPs, hold the Marineford set sealed, or play the Teach Secret Rare.",
+          "If the job is the Sakazuki Manga, buy the single at $1,073.42, which is 12.03 Japanese boxes, and do not open boxes for it, because Bandai publishes no pull rates.",
+          "If the job is the three Admirals, buy the three singles at $3,119.17, which is 34.95 Japanese boxes, and check the listing first: Worth Ripping's November 20 read is lower than the TCGplayer market read, and the copy matters.",
+          "If the job is the Japanese box, pay $89.25, or $3.72 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $146.23 for the box, or $109.43 a box in the case, and check the listing against the $207.89 market read before you pay.",
+          "If the job is a case, divide it first: the English case saves $441.56 against twelve singles, $36.80 a box, and the Japanese case costs $0.92 more than twelve singles. Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-16 shelf fell 32.00% on the English side between November 4 and November 13."
+        ],
+        "h": "Action layer: the OP-16 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, and the purchase stays a decision instead of a hope. Every price here is stamped November 17-21, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its singles, and the [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) states the case rule this article uses."
+        ]
+      }
+    ],
+    "slug": "op-16-best-cards",
+    "takeaway": [
+      "The OP-16 top ten, on TCGplayer market prices read November 17-20, 2026, totals $3,837.79, with the Sakazuki Manga cross-checked three ways at $1,073.42. The three Admiral Manga Rares are $3,119.17, 81.28% of the list. The Ms. All Sunday SP is $456.27, and the top two SPs together are $555.39, 14.47% of the list.",
+      "On our shelf as of November 21, 2026, the Japanese box is $89.25, the Japanese case is $1,071.92, the English box is $146.23, and the English case is $1,313.20. The Japanese pair fell 15.00% and the English pair 32.00% between November 4 and November 13, and nothing moved after that.",
+      "It is worth buying as the Time of Battle set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase, and the average box's cards are worth $102.00 after selling costs against a $200.09 market box.",
+      "The ladder below the top three falls fast: the bottom five together are $163.23, and the bottom seven together are $718.62, 18.72% of the list. Two facts the other lists get wrong are corrected on this page: the SP reprints belong in the ranking, and the Treasure Rare Vista, at $10.55, is not a top-ten card.",
+      "Companion guide: the [is OP-16 worth buying guide](/blog/is-op-16-worth-buying/) prices the same four products, and the [OP-16 investment guide](/blog/op-16-investment/) runs the same division for the longer hold.",
+      "For the set before this one in the same ranking, the [OP-15 best cards guide](/blog/op-15-best-cards/) ranks Adventure on Kami's Island the same way, with the $850.87 Enel Manga at the top and a $3,408.38 list.",
+      "For the set after this one in the same ranking, the [OP-17 best cards guide](/blog/op-17-best-cards/) ranks The World's Strongest Warriors the same way, with the $6,100.00 Xebec at the top and a $12,323.53 list where one card is 49.50% of the whole top ten."
     ]
   },
   "op-16-investment": {
@@ -53559,6 +53760,204 @@ export const POSTS: Record<string, BlogPost> = {
       "For the successor set, see [OP-17 World's Strongest Warriors Buyer's Guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/). For the preorder successor, see [OP-18 The Dominance of God Preorder Guide](/blog/op-18-the-dominance-of-god-preorder-guide/). For the wider Japanese One Piece ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the predecessor set, see [OP-15 Adventure on Kami's Island Buyer's Guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/).",
       "For the earlier Warlords set, see [OP-14 Azure Sea's Seven Buyer's Guide](/blog/op-14-azure-seas-seven-buyers-guide/).",
       "For the worth-buying verdict on this set, see [Is OP-16 The Time of Battle Worth Buying?](/blog/is-op-16-worth-buying/)."
+    ]
+  },
+  "op-17-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Rocks.D.Xebec Super Alternate Art, OP17-118, at $6,100.00 on TCGplayer market as of November 21, 2026, from MyTCGValue's nightly snapshot, cross-checked against Hardcore Collectors at $6,100.00 on November 10 and InkSight's verified November 19 read at $6,100.00. It is 49.5% of the whole top ten. The Shanks Manga, OP17-022, is second at $1,451.59. The $6,100.00 figure rests on very few sales: Hardcore Collectors says its price history for the card has a single data point, and Margin.win records no near-mint copy sold in the thirty days to November 6.",
+        "q": "What is the most valuable OP-17 card?"
+      },
+      {
+        "a": "No, not as a plan. The Xebec is $6,100.00, which is 59.17 Japanese boxes at $103.09 and 42.30 English boxes at $144.22, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. FoilKraken's November 1 report has a typical opened box at $85.85 against a $301.42 sealed box, with only 8% of simulated boxes beating the sealed price.",
+        "q": "Should I buy an OP-17 box to pull the Xebec?"
+      },
+      {
+        "a": "It opened at $2,500.00 on release day, August 28, 2026, and has fallen in every window since: $1,826.97 two weeks later, $1,776.47 at one month, $1,383.43 on October 25, $1,214.98 on November 12, and $1,004.26 on November 21, down 59.83% from release day. It is the biggest dollar loser in the set, and unlike the Shanks Manga, which has held within $15.50 since September 11, nothing in its sales record says the fall has stopped.",
+        "q": "Why did the Luffy Super Leader Alternate Art fall so far?"
+      }
+    ],
+    "h1": "OP-17 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-17, The World's Strongest Warriors, is the Rocks.D.Xebec Super Alternate Art, OP17-118, at $6,100.00 on TCGplayer market as of November 21, 2026, and the ten best cards together are $12,323.53. The Shanks Manga, OP17-022, is second at $1,451.59, and the Xebec alone is 49.5% of the list. On our shelf, November 21, 2026, the [OP-17 Japanese booster box](/product/op-17-the-worlds-strongest-warriors-booster-box-japanese-one-piece-card/) is $103.09 and the [OP-17 English booster box](/product/op-17-the-worlds-strongest-warriors-booster-box-english-one-piece-card/) is $144.22. Buy the box for the anniversary set, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-17 chase, buyers choosing between the Japanese and English box, and players who want the SP reprints that actually sell every week. Who it is not for: anyone chasing the Xebec by opening boxes, anyone who needs the Japanese case to discount, and anyone buying a sealed box as a guaranteed investment."
+    ],
+    "metaDescription": "OP-17 best cards ranked on TCGplayer market prices, Nov 21, 2026: the $6,100.00 Xebec, the $1,451.59 Shanks Manga, and the $103.09 Japanese box.",
+    "metaTitle": "OP-17 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Xebec is 49.50% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price from MyTCGValue's November 21, 2026 snapshot, refreshed nightly from TCGplayer sales. The top card cross-checks three ways: Hardcore Collectors printed $6,100.00 on November 10, InkSight's box-versus-singles page carries $6,100.00 as a verified November 19 read, and MyTCGValue still prints $6,100.00 on November 21. The Shanks Manga cross-checks at $1,470.07 on ShonenTCG's November 12 snapshot against $1,451.59 here, and the Luffy Super Leader Alternate Art at $1,214.98 on November 12 against $1,004.26 here. The ten add to $12,323.53, and the top card alone is $6,100.00, 49.5% of the list.",
+          "The split is the story. The top two are $7,551.59, 61.28% of the top ten, and the top three are $8,609.66, 69.86% of it. The top five are $10,516.40, 85.34%. The bottom five together are $1,807.13, 14.66% of the list. One of every card in the set, at MyTCGValue's November 21 read, is $13,498.84, so the top ten are 91.29% of the whole set's singles value, and the Xebec alone is 45.19% of it. Four of the ten are SP inserts, reprints of cards from earlier sets with new art, and together they are $1,097.99, 8.91% of the list."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and a shelf that has not moved since November 13",
+        "math": [
+          "OP-17 Japanese box per pack: $103.09 / 24 packs = $4.30 per pack",
+          "OP-17 Japanese box per card: $103.09 / 144 cards = $0.72 per card",
+          "OP-17 Japanese box vs official price: 24 packs x 240 yen = 5,760 yen; 5,760 / 158.64 yen per dollar (ECB November 20, 2026) = $36.31; $103.09 / $36.31 = 2.84x",
+          "OP-17 Japanese case per box: $1239.30 / 12 boxes = $103.27 per box",
+          "OP-17 Japanese case vs singles: 12 x $103.09 = $1237.08; $1239.30 - $1237.08 = $2.22 more ($0.19 per box)",
+          "OP-17 Japanese case per pack: $1239.30 / 288 packs = $4.30 per pack",
+          "OP-17 Japanese case per card: $1239.30 / 1,728 cards = $0.72 per card",
+          "OP-17 English box per pack: $144.22 / 24 packs = $6.01 per pack",
+          "OP-17 English box per card: $144.22 / 288 cards = $0.50 per card",
+          "OP-17 English box vs MSRP: 24 packs x $4.99 = $119.76; $144.22 - $119.76 = $24.46 above MSRP; $144.22 / $119.76 = 1.20x",
+          "OP-17 English box vs market: $293.78 - $144.22 = $149.56 below the November 19, 2026 market figure; $149.56 / $293.78 = 50.91% below market",
+          "OP-17 English case per box: $1457.67 / 12 boxes = $121.47 per box",
+          "OP-17 English case vs singles: 12 x $144.22 = $1730.64; $1730.64 - $1457.67 = $272.97 saved ($22.75 per box)",
+          "OP-17 English case per pack: $1457.67 / 288 packs = $5.06 per pack",
+          "OP-17 English case per card: $1457.67 / 3,456 cards = $0.42 per card",
+          "OP-17 English case per box vs market: $293.78 - $121.47 = $172.31 below the November 19 market figure per box",
+          "OP-17 English case vs MSRP: $121.47 / $119.76 = 1.01x",
+          "OP-17 language gap per box: $144.22 - $103.09 = $41.13; $41.13 / 24 packs = $1.71 per pack",
+          "OP-17 language gap per card: $0.72 - $0.50 = $0.22 cheaper per card in English",
+          "OP-17 Japanese box repricing Nov 4 to Nov 13: $121.28 - $103.09 = $18.19; $18.19 is 15.00% of $121.28",
+          "OP-17 Japanese case repricing Nov 4 to Nov 13: $1,458.00 - $1239.30 = $218.70; $218.70 is 15.00% of $1,458.00",
+          "OP-17 English box repricing Nov 4 to Nov 13: $212.09 - $144.22 = $67.87; $67.87 is 32.00% of $212.09",
+          "OP-17 English case repricing Nov 4 to Nov 13: $2,143.63 - $1457.67 = $685.96; $685.96 is 32.00% of $2,143.63",
+          "OP-17 top 10 total: $6,100.00 + $1,451.59 + $1,058.07 + $1,004.26 + $902.48 + $709.14 + $394.61 + $359.40 + $211.23 + $132.75 = $12,323.53",
+          "OP-17 top 5 total: $6,100.00 + $1,451.59 + $1,058.07 + $1,004.26 + $902.48 = $10,516.40; $10,516.40 / $12,323.53 = 85.34% of the top 10",
+          "OP-17 top 3 total: $6,100.00 + $1,451.59 + $1,058.07 = $8,609.66; $8,609.66 / $12,323.53 = 69.86% of the top 10",
+          "OP-17 top 2 total: $6,100.00 + $1,451.59 = $7,551.59; $7,551.59 / $12,323.53 = 61.28% of the top 10",
+          "OP-17 top card share: $6,100.00 / $12,323.53 = 49.50% of the top 10",
+          "OP-17 bottom 5 total: $709.14 + $394.61 + $359.40 + $211.23 + $132.75 = $1,807.13; $1,807.13 / $12,323.53 = 14.66% of the top 10",
+          "OP-17 four Manga cards total: $1,451.59 + $1,058.07 + $902.48 + $709.14 = $4,121.28; $4,121.28 / $12,323.53 = 33.44% of the top 10",
+          "OP-17 four SP inserts total: $394.61 + $359.40 + $211.23 + $132.75 = $1,097.99; $1,097.99 / $12,323.53 = 8.91% of the top 10",
+          "OP-17 Xebec against the boxes: $6,100.00 / $103.09 = 59.17 Japanese boxes; $6,100.00 / $144.22 = 42.30 English boxes",
+          "OP-17 top 3 against the boxes: $8,609.66 / $103.09 = 83.52 Japanese boxes; $8,609.66 / $144.22 = 59.70 English boxes",
+          "OP-17 top 10 against the boxes: $12,323.53 / $103.09 = 119.54 Japanese boxes; $12,323.53 / $144.22 = 85.45 English boxes",
+          "OP-17 Luffy Super Leader Nov 12 to Nov 21: $1,214.98 - $1,004.26 = $210.72; $210.72 is 17.34% of $1,214.98",
+          "OP-17 Shanks Manga Nov 12 to Nov 21: $1,470.07 - $1,451.59 = $18.48; $18.48 is 1.26% of $1,470.07",
+          "OP-17 Edward.Newgate Manga Nov 10 to Nov 21: $1,076.92 - $1,058.07 = $18.85; $18.85 is 1.75% of $1,076.92",
+          "OP-17 Charlotte Linlin Manga Oct 25 to Nov 21: $787.29 - $709.14 = $78.15; $78.15 is 9.93% of $787.29",
+          "OP-17 top 10 vs singles total: $12,323.53 / $13,498.84 = 91.29% of the November 21, 2026 singles total (MyTCGValue)",
+          "OP-17 Xebec vs singles total: $6,100.00 / $13,498.84 = 45.19% of the November 21, 2026 singles total (MyTCGValue)",
+          "OP-17 top 10 vs OP-16 top 10: $12,323.53 - $3,837.79 = $8,485.74; $12,323.53 / $3,837.79 = 321.11% of the OP-16 top 10",
+          "OP-17 opened-box return: $158.71 / $301.42 = 52.65% of the sealed price (FoilKraken, Nov 1, 2026); 8% of simulated boxes beat the sealed price"
+        ],
+        "paragraphs": [
+          "All four OP-17 products repriced between November 4 and November 13, 2026, and none moved again by November 21: the Japanese pair fell exactly 15.00% and the English pair exactly 32.00%. The Japanese box went from $121.28 to $103.09 and the case from $1,458.00 to $1,239.30; the English box from $212.09 to $144.22 and the case from $2,143.63 to $1,457.67. The fall came in two legs, twenty percent then fifteen percent on the English side, because 0.80 times 0.85 is 0.68, and the same two legs fell on OP-12 through OP-16, a repricing of the line, not a verdict on this set.",
+          "The Japanese box is $103.09 for 24 packs of 6 cards, $4.30 a pack and $0.72 a card, against a 5,760 yen official box price that converts to $36.31 at 158.64 yen per dollar, so the Japanese box is 2.84 times its official price. The English box is $144.22 for 24 packs of 12 cards, $6.01 a pack and $0.50 a card, against a $119.76 MSRP box, so it is 1.2 times its MSRP. English costs $41.13 more per box and $1.71 more per pack, and this time the English card costs $0.22 less: the pack-size difference more than covers the premium.",
+          "The cases split. The [Japanese case](/product/op-17-the-worlds-strongest-warriors-sealed-case-12-boxes-japanese-one-piece-card/) is $1,239.30, or $103.27 a box, which is $2.22 more than twelve singles at $1,237.08: nineteen cents a box the wrong way, for the third set running. The [English case](/product/op-17-the-worlds-strongest-warriors-sealed-case-12-boxes-english-one-piece-card/) is $1,457.67, or $121.47 a box, which is $272.97 less than twelve singles at $1,730.64: $22.75 a box for buying the carton. Against the market, the Warehouse English box at $144.22 sits $149.56 below InkSight's November 19 TCGplayer box at $293.78, 50.91% below it, and the English case at $121.47 a box sits $172.31 below that market box."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on OP-17, what each costs per pack, what it is for, and where it fails. The single row is the only row that buys the card instead of the chance: the Xebec is 59.17 Japanese boxes and 42.30 English boxes, and the top ten together are 119.54 Japanese boxes and 85.45 English boxes. Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase, and the one market estimate that tries it anyway misses the box: FoilKraken's November 1 report puts a typical opened box at $85.85 against a $301.42 sealed box, with only 8% of simulated boxes beating the sealed price.",
+          "Read the case rows as a division, not a promise. The English case saves $22.75 a box only if twelve English boxes are wanted; the Japanese case saves nothing at all. The [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) prices the same four products for the holder, and the [OP-17 investment guide](/blog/op-17-investment/) runs the same division for the longer hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$103.09",
+              "$4.30",
+              "Opening the anniversary set in Japanese",
+              "Chase not guaranteed; 2.84x official price"
+            ],
+            [
+              "Japanese case (12)",
+              "$1239.30",
+              "$103.27 a box",
+              "Twelve Japanese boxes in one carton",
+              "Costs $2.22 more than twelve singles"
+            ],
+            [
+              "English box",
+              "$144.22",
+              "$6.01",
+              "English cards, 50.91% below market",
+              "1.20x MSRP; EV 0.53x the market box"
+            ],
+            [
+              "English case (12)",
+              "$1457.67",
+              "$121.47 a box",
+              "Twelve English boxes at $22.75 a box under singles",
+              "$1457.67 in one purchase"
+            ],
+            [
+              "The single",
+              "$6,100.00 Xebec",
+              "n/a",
+              "Owning the chase card",
+              "One data point; no sale in 30 days to Nov 6"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no dated USD top 10, no shelf, no Xebec flag",
+        "note": "From the Warehouse: the question we get most in chat about OP-17 is whether the $6,100.00 Xebec is real, because every list prints it and nobody can find a recent sale. It is a market read, not a sale: Hardcore Collectors says its price history for the card has a single data point, and Margin.win records no near-mint copy sold in the thirty days to November 6. Treat $6,100.00 as the ask the market is testing, not the price the market has paid, and do not open boxes to chase a card that has not sold.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there. Hardcore Collectors carries the November 10 snapshot this page cross-checks, but no shelf, no box math, and no update since the Luffy Super Leader fell 17.34%. MyTCGValue carries the nightly top ten this page uses, but no shelf, no case division, and no warning that the $6,100.00 at the top rests on one data point. Margin.win carries the November 6 sale ranges, the only list that shows how rarely the top cards actually sell, but no ranking and no prices after November 6. None of the three tells a buyer what the box costs, what the case divides to, or what the Xebec figure is built on.",
+          "The gap this page owns starts with the dated USD top ten, every read dated November 21, with the Xebec flagged in the open. Second is the shelf: four live prices, the two-leg fall, and the case divisions, none of which any ranking list carries. Third is the fall from release: InkSight's eight-week report shows every one of the sixteen most valuable OP-17 singles lower on October 25 than on release day, and this page extends that line to November 21, where the Luffy Super Leader has lost another 17.34% in nine days."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "note": "From the Warehouse: the question we get second most about OP-17 is why four cards on this list carry old set numbers, ST31-004, EB04-007, OP16-098 and OP13-028, when the set is OP-17. They are SP reprints: Special printings of older cards with new art, listed under OP-17 on TCGplayer because they are pulled from OP-17 packs, and they keep the number of the set that first printed them. The SP tier is where the set's weekly sales live, so check the number on the listing, not just the set name, or you will pay OP-17 money for a card from another set.",
+        "paragraphs": [
+          "The top of the ladder is one card, once. The Rocks.D.Xebec Super Alternate Art is $6,100.00, 49.5% of the top ten and 45.19% of the whole set's singles value, and it has not moved since November 10 because it has not sold: one data point, no near-mint sale in thirty days to November 6, and the same $6,100.00 on every read since. The second rung is the four Manga Rares: the Shanks at $1,451.59, the Edward.Newgate at $1,058.07, the Kaido at $902.48 and the Charlotte Linlin at $709.14, $4,121.28 together, 33.44% of the list. The Shanks is the only one that held: it has sat between $1,486.69 and $1,502.19 since September 11, and it is down only 1.26% since November 12.",
+          "The third rung is the Super Leader Luffy at $1,004.26, down 17.34% in nine days and the biggest dollar loser in the set since release day, when it opened at $2,500.00. The fourth rung is the SP tier: the Luffy from ST-31 at $394.61, the Zoro from EB-04 at $359.40, the Yamato from OP-16 at $211.23 and the Shanks from OP-13 at $132.75, $1,097.99 together, 8.91% of the list. The SPs are the cards that actually sell: the Zoro sold 42 times in the thirty days to November 6, the Yamato 31 times, the Shanks 36 times, and the Luffy 25 times, against two sales for the Shanks Manga in the same window."
+        ]
+      },
+      {
+        "h": "The risk layer: the $6,100 card that has not sold, and the falling Luffy",
+        "paragraphs": [
+          "The first risk is the Xebec itself. A $6,100.00 market read built on one data point is a price that has never been tested by a sale, and if the next sale lands at the lowest ask, the whole top ten reprices with it: the Xebec is 49.5% of the list, so a single sale at half the read takes $3,050.00 off the top ten. The second risk is the fall from release: InkSight's eight-week report has every one of the sixteen most valuable OP-17 singles lower on October 25 than on August 28, the Kaido Super Alternate Art down 53.5% from release, the Charlotte Linlin Manga down 68.5%, and the Luffy Super Leader down 44.7%, and the Luffy has fallen another 17.34% since November 12. The third risk is the lottery, and the market estimate agrees with OP-16: FoilKraken's November 1 report has 8% of simulated boxes beating the sealed price, with a typical opened box at $85.85 against a $301.42 sealed box. No reprint announcement exists for OP-17 from Bandai, so the sealed supply is the supply, but OP-18 released on November 20, and a set one release back does not need a reprint to lose attention."
+        ]
+      },
+      {
+        "h": "Context: 131 types, two languages, and a set one release back",
+        "paragraphs": [
+          "The World's Strongest Warriors is the game's fourth-anniversary booster, built on the Elbaf arc, the Four Emperors and the Rocks Pirates: Japan got it on August 22, 2026, at 240 yen a pack for six cards, and English followed on August 28, 2026, at $4.99 a pack for twelve cards, a gap of 6 days, after pre-release events on August 21. Bandai lists 131 card types plus 4, and MyTCGValue tracks 179 products once the parallels and SP reprints are counted. It carries the new Super Leader Alternate Art treatment, the Luffy at $1,004.26, and the Super Alternate Art Secret Rare, the Xebec at $6,100.00, and four Manga parallels.",
+          "The set's sales tell the same story as its prices: the chase cards barely move and the SPs do the volume. In the thirty days to November 6, the Shanks Manga sold twice, the Edward.Newgate Manga six times and the Kaido Manga nine times, while the Super Leader Luffy sold 17 times, the Zoro SP 42 times and the Kaido Super Alternate Art 79 times. The four-figure cards are held, not traded, and the cards under $400.00 are the ones changing hands every week. OP-18 released on November 20, 2026, so OP-17 is now one set back, and its prices have been falling since release day, not rising into the new release."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing the Xebec by opening boxes, who should buy the single: the Xebec is 59.17 Japanese boxes and 42.30 English boxes, and no pull rate prices the chase, and no near-mint copy sold in the thirty days to November 6. It is not for anyone who needs the Japanese case to discount, because it costs $2.22 more than twelve singles. It is not for anyone buying a sealed box as a guaranteed investment, because the typical opened box is worth $85.85 against a $301.42 sealed box, and 92 in 100 boxes lose money. It is not for anyone who wants the top card's price to mean a sale has happened: the $6,100.00 is a market read on one data point, and the card to trust for value is the Shanks Manga, which has held within $15.50 since September 11."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Xebec, own the four Mangas, own the four SPs, hold the anniversary set sealed, or play the SP reprints that sell every week.",
+          "If the job is the Xebec, buy the single at $6,100.00, which is 59.17 Japanese boxes, and do not open boxes for it, because Bandai publishes no pull rates and no near-mint copy sold in the thirty days to November 6.",
+          "If the job is the four Mangas, buy the four singles at $4,121.28, which is 39.98 Japanese boxes, and check the Shanks read first: $1,451.59 is the November 21 market estimate, and it has held within $15.50 since September 11.",
+          "If the job is the Japanese box, pay $103.09, or $4.30 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $144.22 for the box, or $121.47 a box in the case, and check the listing against the $293.78 market read before you pay.",
+          "If the job is a case, divide it first: the English case saves $272.97 against twelve singles, $22.75 a box, and the Japanese case costs $2.22 more than twelve singles. Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-17 shelf fell 32.00% on the English side between November 4 and November 13."
+        ],
+        "h": "Action layer: the OP-17 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, and the purchase stays a decision instead of a hope. Every price here is stamped November 10-21, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its singles, and the [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) states the case rule this article uses."
+        ]
+      }
+    ],
+    "slug": "op-17-best-cards",
+    "takeaway": [
+      "The OP-17 top ten, on TCGplayer market prices read November 21, 2026, totals $12,323.53, with the Xebec cross-checked three ways at $6,100.00. The Xebec is $6,100.00 of it, 49.5% of the list. The Shanks Manga is $1,451.59, and the top two together are $7,551.59, 61.28%. The four Manga cards are $4,121.28, 33.44%.",
+      "On our shelf as of November 21, 2026, the Japanese box is $103.09, the Japanese case is $1,239.30, the English box is $144.22, and the English case is $1,457.67. The Japanese pair fell 15.00% and the English pair 32.00% between November 4 and November 13, and nothing moved after that.",
+      "It is worth buying as the World's Strongest Warriors set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase, and the typical opened box is worth $85.85 against a $301.42 sealed box.",
+      "The ladder below the top card falls fast: the bottom five together are $1,807.13, and the bottom nine together are $6,223.53, 50.5% of the list. Two facts the other lists get wrong are corrected on this page: the $6,100.00 Xebec rests on a single data point with no recent sale, and the Luffy Super Leader has lost 17.34% in nine days.",
+      "Companion guide: the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) prices the same four products, and the [OP-17 investment guide](/blog/op-17-investment/) runs the same division for the longer hold.",
+      "For the set before this one in the same ranking, the [OP-16 best cards guide](/blog/op-16-best-cards/) ranks The Time of Battle the same way, with the $1,073.42 Sakazuki Manga at the top and a $3,837.79 list where the three Admirals are 81.28% of the whole top ten.",
+      "For the next set in the same ranking, the [OP-18 preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) covers The Dominance of God, released November 20, 2026, before its best-cards ranking exists."
     ]
   },
   "op-17-investment": {
