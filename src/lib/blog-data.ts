@@ -30105,7 +30105,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as a pre-order, sealed, and it is not worth buying as a way to own an Amano card or to make the money back by opening. The Loki Amano parallel ask sat at $599.99 on TCGplayer on November 12, 2026, which is 8.40 boxes, and the Saint Shamrock Amano parallel ask at $499.99 is 7.00 boxes. Those are asks, not sales, and Bandai has published no pull rates.",
       "It is worth buying with the price path in mind: the Japanese box rose twenty percent from $70.00 to $84.00 between October 24 and November 4, 2026, then fell fifteen percent to $71.40 on November 13, and the case did the same, from $755.00 to $906.00 to $770.10. The case saving survived both legs.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of November 12 to 13, 2026. The box now sits as the second-cheapest Japanese One Piece box on the shelf, after OP-15 at $59.06, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-18 The Dominance of God preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the October prices side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case charges a premium instead of saving. For the investment version of this set, the [OP-18 The Dominance of God investment guide](/blog/op-18-investment/) runs the same division on a pre-order English case at $94.68 a box."
+      "For the price-and-math companion, the [OP-18 The Dominance of God preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the October prices side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case charges a premium instead of saving. For the investment version of this set, the [OP-18 The Dominance of God investment guide](/blog/op-18-investment/) runs the same division on a pre-order English case at $94.68 a box.",
+      "New this cycle: the [OP-18 best cards guide](/blog/op-18-best-cards/) ranks the set's ten most valuable cards on release-day TCGplayer prices, Nov 21, 2026, with the $1,500.00 Robin Manga at the top and the Japanese case saving $86.70 against twelve singles."
     ]
   },
   "is-prb-01-worth-buying": {
@@ -30897,7 +30898,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is not worth buying as a way to own the Zekrom ex BWR. The card asks about $260 raw on its own, about 142% of a box, and a graded PSA 10 reference is $694, about 3.79 times the box. The Pokémon Company publishes no Japanese pull rates, and one tracker estimates the English BWR at roughly 1 in 360 to 450 packs, so the chase has no honest expected cost on the Japanese print. Buy the single, or buy the box for the set and treat the BWR as a bonus.",
       "For the twin, the [White Flare buyer’s guide](/blog/sv11w-white-flare-buyers-guide/) prices the Reshiram half at $167.72 a box, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case. For the same worth-it question in the other game we stock, the [best Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen Lorcana sets to per-pack prices.",
       "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box.",
-      "New this cycle: the [SV11B Black Bolt investment guide](/blog/sv11b-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced."
+      "New this cycle: the [SV11B Black Bolt investment guide](/blog/sv11b-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced.",
+      "New this cycle: the [SV11B Black Bolt best cards guide](/blog/sv11b-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 20, 2026, with the Zekrom ex BWR at $306.96 and the whole shelf repriced 15.00% since November 7."
     ]
   },
   "is-sv11w-worth-buying": {
@@ -54360,6 +54362,205 @@ export const POSTS: Record<string, BlogPost> = {
       "For the worth-buying verdict on this set, see [Is OP-17 World's Strongest Warriors Worth Buying?](/blog/is-op-17-worth-buying/)."
     ]
   },
+  "op-18-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Nico Robin Manga, OP18-031, at $1,500.00 on TCGplayer market as of November 21, 2026, from MyTCGValue's nightly snapshot, cross-checked against optcgmeta's November 20 TCGCSV snapshot at $1,500.00 and Triplace Cards, a European shop with the card in stock, at 1,454.88 euros. It is 36.12% of the whole top ten. The Saint Gunko Super Leader Alternate Art, OP18-060, is second at $1,195.56. The $1,500.00 figure is a release-day read: the Robin was $2,999.99 on November 18, before any pack was opened, so it halved in three days.",
+        "q": "What is the most valuable OP-18 card?"
+      },
+      {
+        "a": "No, not as a plan. The Robin is $1,500.00, which is 21.01 Japanese boxes at $71.40, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. The English box market fell 18.01% in the nine days to release, and no opened-box estimate exists yet for OP-18. Buy the single.",
+        "q": "Should I buy an OP-18 box to pull the Robin?"
+      },
+      {
+        "a": "The $2,999.99 on November 18 was a pre-order ask, set before any pack was opened, and the $1,500.00 on November 20 and 21 is the release-day market once supply existed. The same collapse ran through the set: the base Robin fell from $29.99 on November 11 to $3.03 on November 21, down 89.90%, the Gunko Alternate Art fell from $199.99 to $73.45, down 63.27%, and the Franky Alternate Art fell from $199.99 to $55.60, down 72.20%. Pre-order asks are not sales.",
+        "q": "Why did the Robin Manga fall 50% in three days?"
+      }
+    ],
+    "h1": "OP-18 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-18, The Dominance of God, is the Nico Robin Manga, OP18-031, at $1,500.00 on TCGplayer market as of November 21, 2026, and the ten best cards together are $4,153.03. The Saint Gunko Super Leader Alternate Art, OP18-060, is second at $1,195.56, and the top two together are $2,695.56, 64.91% of the list. On our shelf, November 21, 2026, the [OP-18 Japanese booster box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game/) is $71.40 and the [OP-18 Japanese booster box case](/product/one-piece-op-18-japanese-booster-box-case-pre-order-one-piece-card-game/) is $770.10. Buy the box to open the new set, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-18 chase on release day, buyers choosing between the Japanese box and the English case, and players who want the SP reprints that actually sell every week. Who it is not for: anyone chasing the Robin Manga by opening boxes, anyone who needs the English box as a single, and anyone buying a sealed box as a guaranteed investment."
+    ],
+    "metaDescription": "OP-18 best cards, TCGplayer market, Nov 21, 2026: the $1,500.00 Robin Manga, the $1,195.56 Gunko Super Leader, and the $71.40 box.",
+    "metaTitle": "OP-18 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: two cards are 64.91% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price from MyTCGValue's November 21, 2026 snapshot, refreshed nightly from TCGplayer sales. The top card cross-checks three ways: optcgmeta's November 20 TCGCSV snapshot also prints $1,500.00 for the Robin Manga, Triplace Cards, a European shop with the card in stock, lists it at 1,454.88 euros, and TCGsense ranges it at 950 to 1,000 euros. The ten add to $4,153.03, and the top card alone is $1,500.00, 36.12% of the list. The Gunko Super Leader Alternate Art at $1,195.56 is the one read with no second source yet, and it is flagged as such everywhere it appears on this page.",
+          "The split is the story. The top two are $2,695.56, 64.91% of the top ten, and the top three are $3,005.17, 72.36% of it. The top five are $3,466.21, 83.46%. The bottom five together are $686.82, 16.54% of the list. One of every card in the set, at MyTCGValue's November 21 read, is $5,119.65, so the top ten are 81.12% of the whole set's singles value, and the Robin alone is 29.3% of it. Four of the ten are SP inserts, reprints of cards from earlier sets with new art, and together they are $610.50, 14.7% of the list. Two are gold Secret Rares, the Shamrock and the Loki, and together they are $577.65, 13.91% of it."
+        ]
+      },
+      {
+        "h": "The money layer: three products, and a shelf that rose 2.00% from pre-order",
+        "math": [
+          "OP-18 Japanese box per pack: $71.40 / 24 packs = $2.98 per pack",
+          "OP-18 Japanese box per card: $71.40 / 144 cards = $0.50 per card",
+          "OP-18 Japanese box vs official price: 24 packs x 240 yen = 5,760 yen; 5,760 / 158.64 yen per dollar (ECB November 20, 2026) = $36.31; $71.40 / $36.31 = 1.97x",
+          "OP-18 Japanese box in yen: $71.40 x 158.64 yen per dollar (ECB November 20, 2026) = 11,326.90 yen; vs the 11,300 yen cheapest in-stock Japanese ask on November 18, 2026 (OneMall)",
+          "OP-18 Japanese case per box: $770.10 / 12 boxes = $64.18 per box",
+          "OP-18 Japanese case vs singles: 12 x $71.40 = $856.80; $856.80 - $770.10 = $86.70 saved ($7.23 per box)",
+          "OP-18 Japanese case per pack: $770.10 / 288 packs = $2.67 per pack",
+          "OP-18 Japanese case per card: $770.10 / 1,728 cards = $0.45 per card",
+          "OP-18 English case per box: $1136.15 / 12 boxes = $94.68 per box",
+          "OP-18 English case per pack: $1136.15 / 288 packs = $3.94 per pack",
+          "OP-18 English case per card: $1136.15 / 3,456 cards = $0.33 per card",
+          "OP-18 English case vs MSRP: 24 packs x $4.99 = $119.76; $119.76 - $94.68 = $25.08 below MSRP; $94.68 / $119.76 = 0.79x",
+          "OP-18 English case per box vs market: $191.55 - $94.68 = $96.87 below the November 20, 2026 market box; $96.87 / $191.55 = 50.57% below market",
+          "OP-18 English box market Nov 11 to Nov 20: $233.64 - $191.55 = $42.09; $42.09 is 18.01% of $233.64",
+          "OP-18 English box market Nov 18 to Nov 20: $207.64 - $191.55 = $16.09; $16.09 is 7.75% of $207.64",
+          "OP-18 English box vs MSRP: $191.55 / $119.76 = 1.60x",
+          "OP-18 Japanese box repricing Oct 24 to Nov 4: $84.00 - $70.00 = $14.00; $14.00 is 20.00% of $70.00",
+          "OP-18 Japanese box repricing Nov 4 to Nov 13: $84.00 - $71.40 = $12.60; $12.60 is 15.00% of $84.00",
+          "OP-18 Japanese box repricing Oct 24 to Nov 21: $71.40 - $70.00 = $1.40; $1.40 is 2.00% of $70.00",
+          "OP-18 Japanese case repricing Oct 24 to Nov 4: $906.00 - $755.00 = $151.00; $151.00 is 20.00% of $755.00",
+          "OP-18 Japanese case repricing Nov 4 to Nov 13: $906.00 - $770.10 = $135.90; $135.90 is 15.00% of $906.00",
+          "OP-18 top 10 total: $1,500.00 + $1,195.56 + $309.61 + $268.04 + $193.00 + $162.00 + $160.00 + $130.00 + $127.50 + $107.32 = $4,153.03",
+          "OP-18 top 5 total: $1,500.00 + $1,195.56 + $309.61 + $268.04 + $193.00 = $3,466.21; $3,466.21 / $4,153.03 = 83.46% of the top 10",
+          "OP-18 top 3 total: $1,500.00 + $1,195.56 + $309.61 = $3,005.17; $3,005.17 / $4,153.03 = 72.36% of the top 10",
+          "OP-18 top 2 total: $1,500.00 + $1,195.56 = $2,695.56; $2,695.56 / $4,153.03 = 64.91% of the top 10",
+          "OP-18 top card share: $1,500.00 / $4,153.03 = 36.12% of the top 10",
+          "OP-18 bottom 5 total: $162.00 + $160.00 + $130.00 + $127.50 + $107.32 = $686.82; $686.82 / $4,153.03 = 16.54% of the top 10",
+          "OP-18 four SP inserts total: $193.00 + $160.00 + $130.00 + $127.50 = $610.50; $610.50 / $4,153.03 = 14.70% of the top 10",
+          "OP-18 two gold SECs total: $309.61 + $268.04 = $577.65; $577.65 / $4,153.03 = 13.91% of the top 10",
+          "OP-18 Robin Manga against the boxes: $1,500.00 / $71.40 = 21.01 Japanese boxes; $1,500.00 / $94.68 = 15.84 English-case boxes",
+          "OP-18 top 3 against the boxes: $3,005.17 / $71.40 = 42.09 Japanese boxes; $3,005.17 / $94.68 = 31.74 English-case boxes",
+          "OP-18 top 10 against the boxes: $4,153.03 / $71.40 = 58.17 Japanese boxes; $4,153.03 / $94.68 = 43.86 English-case boxes",
+          "OP-18 Robin Manga Nov 18 to Nov 21: $2,999.99 - $1,500.00 = $1,499.99; $1,499.99 is 50.00% of $2,999.99",
+          "OP-18 base Robin Nov 11 to Nov 21: $29.99 - $3.03 = $26.96; $26.96 is 89.90% of $29.99",
+          "OP-18 Gunko Alternate Art Nov 19 to Nov 21: $199.99 - $73.45 = $126.54; $126.54 is 63.27% of $199.99",
+          "OP-18 Franky Alternate Art Nov 19 to Nov 21: $199.99 - $55.60 = $144.39; $144.39 is 72.20% of $199.99",
+          "OP-18 Robin Manga vs base Robin: $1,500.00 / $3.03 = 495.05x; vs Alternate Art $38.24: $1,500.00 / $38.24 = 39.23x",
+          "OP-18 Shamrock Gold vs Alternate Art: $309.61 / $107.32 = 2.88x; Loki Gold vs Alternate Art: $268.04 / $42.50 = 6.31x",
+          "OP-18 Gunko Super Leader AA vs Alternate Art: $1,195.56 / $73.45 = 16.28x",
+          "OP-18 top 10 vs singles total: $4,153.03 / $5,119.65 = 81.12% of the November 21, 2026 singles total (MyTCGValue)",
+          "OP-18 Robin Manga vs singles total: $1,500.00 / $5,119.65 = 29.30% of the November 21, 2026 singles total (MyTCGValue)",
+          "OP-18 top 10 vs OP-17 top 10: $12,323.53 - $4,153.03 = $8,170.50; $4,153.03 / $12,323.53 = 33.70% of the OP-17 top 10",
+          "OP-18 Robin Manga vs OP-17 Xebec: $1,500.00 / $6,100.00 = 24.59% of the OP-17 top card"
+        ],
+        "paragraphs": [
+          "The shelf moved in two legs, and the legs are the story. The Japanese box was $70.00 at pre-order on October 24, rose to $84.00 on November 4, a rise of 20.00%, and fell to $71.40 on November 13, a fall of 15.00%, for a net rise of 2.00% from pre-order. The Japanese case took the same two legs: $755.00 to $906.00 to $770.10, the same net 2.00%. Nothing moved after November 13. The [English case](/product/op-18-the-dominance-of-god-sealed-case-12-boxes-english-one-piece-card/) is $1,136.15, or $94.68 a box, unchanged from the pre-order guide's $94.68 a box, and the Warehouse stocks no single English box: the case is the English route here.",
+          "The Japanese box is $71.40 for 24 packs of 6 cards, $2.98 a pack and $0.50 a card, against a 5,760 yen official box price that converts to $36.31 at 158.64 yen per dollar, so the Japanese box is 1.97 times its official price. In yen terms the Warehouse box converts to 11,326.90 yen, essentially the cheapest in-stock Japanese ask OneMall found on November 18, 11,300 yen. The English case is $1,136.15 for 12 boxes of 24 packs of 12 cards, $94.68 a box, $3.94 a pack and $0.33 a card, against a $119.76 MSRP box, so it is 0.79 times MSRP per box. Against the market, the English case at $94.68 a box sits $96.87 below the November 20 TCGplayer box at $191.55, 50.57% below it.",
+          "The cases split, and this time the Japanese case is the one that discounts. The Japanese case is $770.10, or $64.18 a box, which is $86.70 less than twelve singles at $856.80: $7.23 a box for buying the carton, the first One Piece set in a while where the Japanese case beats singles instead of charging more for them. Compare OP-17, whose Japanese case costs $2.22 more than twelve singles. The English case saves nothing against singles, because there is no single English box on this shelf to compare it with, and its saving is measured against the market box instead."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on OP-18, what each costs per pack, what it is for, and where it fails. The single row is the only row that buys the card instead of the chance: the Robin Manga is 21.01 Japanese boxes and 15.84 English-case boxes, and the top ten together are 58.17 Japanese boxes and 43.86 English-case boxes. Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase, and no opened-box estimate exists yet for OP-18 at all: the set is a day old, and the only honest expected-value statement on release day is that none exists.",
+          "Read the case rows as a division, not a promise. The Japanese case saves $7.23 a box only if twelve Japanese boxes are wanted, and the English case sits $96.87 below the market box per box only if English cards are wanted. The [is OP-18 worth buying guide](/blog/is-op-18-worth-buying/) prices the same three products for the holder, and the [OP-18 investment guide](/blog/op-18-investment/) runs the same division for the longer hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$71.40",
+              "$2.98",
+              "Opening the new set in Japanese",
+              "Chase not guaranteed; 1.97x official price"
+            ],
+            [
+              "Japanese case (12)",
+              "$770.10",
+              "$64.18 a box",
+              "Twelve Japanese boxes at $7.23 a box under singles",
+              "$770.10 in one purchase"
+            ],
+            [
+              "English case (12)",
+              "$1,136.15",
+              "$94.68 a box",
+              "English cards, 50.57% below the Nov 20 market box",
+              "No single English box stocked; $1,136.15 in one purchase"
+            ],
+            [
+              "English box (market)",
+              "$191.55",
+              "$7.98",
+              "The English box at TCGplayer market, Nov 20",
+              "Not stocked here; 1.60x MSRP"
+            ],
+            [
+              "The single",
+              "$1,500.00 Robin Manga",
+              "n/a",
+              "Owning the chase card",
+              "Halved from $2,999.99 in three days; release-day read"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no dated USD top 10, no shelf, no Robin halving",
+        "note": "From the Warehouse: the question we get most in chat about OP-18 is whether the $1,500.00 Robin is real, because three days ago every list printed $3,000. It halved between the November 18 pre-order read and the November 21 release-day read, and the $1,500.00 is the second read to print it, optcgmeta's November 20 snapshot and MyTCGValue's November 21 snapshot agreeing to the dollar. Treat it as the release-day market, not a settled price, and do not open boxes to chase a card that has already halved once.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there. MyTCGValue carries the nightly top ten this page uses, but no shelf, no box math, and no warning that the $1,500.00 at the top is half the $2,999.99 it printed three days earlier. TCGVault carries the November 18 pre-order prices, the Robin at $2,999.99 and the Gunko at $2,500.00, but nothing after release, so a buyer reading it today is reading prices that no longer exist. TCGTalk ranks the reveals by consensus across the official stream and the leak coverage, before anyone has played a competitive event with these cards, and carries no prices at all. None of the three tells a buyer what the box costs, what the case divides to, or that the Warehouse stocks no single English box.",
+          "The gap this page owns starts with the dated USD top ten, every read dated November 21, with the halving flagged in the open. Second is the shelf: three live prices, the two-leg path from pre-order, and the case divisions, none of which any ranking list carries. Third is the English-box market read, $191.55 on November 20 against $233.64 on November 11, down 18.01% before the set had sold a single pack in English, set against the English case at $94.68 a box. A ranking list tells you which card is dearest. This page tells you what the dearest card costs against the box you would open to find it."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "note": "From the Warehouse: the question we get second most about OP-18 is why three cards on this list carry old set numbers, ST24-004, ST34-004 and OP13-113, when the set is OP-18. They are SP reprints: Special printings of older cards with new art, pulled from OP-18 packs, keeping the number of the set that first printed them, the same tier that did the weekly volume in OP-17. Check the number on the listing, not just the set name, or you will pay OP-18 money for a card from another set.",
+        "paragraphs": [
+          "The top of the ladder is one card, once. The Nico Robin Manga is $1,500.00, 36.12% of the top ten and 29.3% of the whole set's singles value, and it got there by falling: $2,999.99 on November 18, $1,500.00 on November 20, $1,500.00 again on November 21. The second rung is the Saint Gunko Super Leader Alternate Art at $1,195.56, the set's flagship leader in its rarest treatment, and the read to handle with the most care on this page: it is a MyTCGValue-only figure, with no second source yet, and the regular Gunko Alternate Art fell from $199.99 on November 19 to $73.45 on November 21, down 63.27%, in the same window. The third rung is the two gold Secret Rares, the Saint Shamrock at $309.61 and the Loki at $268.04, $577.65 together, 13.91% of the list: the Shamrock Gold is 2.88 times its regular Alternate Art at $107.32, and the Loki Gold is 6.31 times its regular Alternate Art at $42.50.",
+          "The fourth rung is the SP tier: the Gunko from OP-18 itself at $193.00, the Law and Bepo from ST-24 at $160.00, the Charlotte Linlin from ST-34 at $130.00 and the Lilith from OP-13 at $127.50, $610.50 together, 14.7% of the list. The fifth rung is a single card, the I'll Make the Call Alternate Art at $162.00, the only Rare-rarity card on the list, and the steepest multiplier in the set: its base printing is $0.40, so the Alternate Art is 405.00 times the base. The Robin is the same story at the top: base $3.03, Alternate Art $38.24, Manga $1,500.00, which is 495.05 times the base and 39.23 times the Alternate Art."
+        ]
+      },
+      {
+        "h": "The risk layer: the $1,500 card that halved in three days, and the Gunko only one source prices",
+        "paragraphs": [
+          "The first risk is the Robin itself. A $1,500.00 market read that was $2,999.99 three days earlier is a price with no sales history behind it, and the same collapse ran through the whole top of the set: the base Robin fell from $29.99 on November 11 to $3.03 on November 21, down 89.90%, and the Franky Alternate Art fell from $199.99 to $55.60, down 72.20%. If the next read halves the Robin again, the top ten loses $750.00 with it, because the Robin is 36.12% of the list. The second risk is the Gunko Super Leader Alternate Art at $1,195.56: a single-source read sitting above a regular Alternate Art that fell 63.27% in two days, and the biggest pre-order-style number left in the set. The third risk is the lottery, and there is no estimate to hide behind yet: no opened-box report exists for OP-18, Bandai publishes no pull rates, and the English box market fell 18.01% in nine days to release. No reprint announcement exists for OP-18 from Bandai, so the sealed supply is the supply, but a set one day old does not need a reprint to lose attention: it needs the next set, and the next set is always coming."
+        ]
+      },
+      {
+        "h": "Context: 127 types, two languages, and a set released a day apart",
+        "paragraphs": [
+          "The Dominance of God is the 18th main One Piece booster, built on Water Seven and the Holy Knights of God, with card art by Yoshitaka Amano for Loki and Saint Shamrock, previewed at One Piece Day 2026. Japan got it on Saturday, November 21, 2026, at 240 yen a pack for six cards, and English got it a day earlier, November 20, at $4.99 a pack for twelve cards: English first, the reverse of OP-17, where Japan led by six days. Bandai lists 127 card types plus 1, and its card list went up on November 13 showing 119 of the 127, with the eight it leaves out being exactly the ones collectors pay the most for. MyTCGValue tracks 163 products once the parallels and SP reprints are counted, and one of each is $5,119.65.",
+          "The set's first day of price action is the release-week pattern in miniature. The English box went $233.64 on November 11, $219.24 on November 13, $207.64 on November 18 and $191.55 on November 20, down 18.01% before the set had sold a single pack in English. The Robin Manga was not listed at all until November 20, when it appeared at $1,500.00, half its $2,999.99 pre-order ask, and the base Robin fell 89.90% across the same window. Against the set before it, OP-18 is a smaller list by a wide margin: its top ten at $4,153.03 is 33.70% of OP-17's $12,323.53, and its top card at $1,500.00 is 24.59% of the Xebec. The full side-by-side with the set it follows is in the [OP-17 best cards guide](/blog/op-17-best-cards/), and the pre-order story this ranking replaces is in the [OP-18 preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing the Robin Manga by opening boxes, who should buy the single: the Robin is 21.01 Japanese boxes and 15.84 English-case boxes, no pull rate prices the chase, and the card halved in three days. It is not for anyone who needs a single English box, because the Warehouse stocks the English case, not the box, and the English route here is $94.68 a box in the case. It is not for anyone buying a sealed box as a guaranteed investment, because the English box market fell 18.01% in nine days to release and no opened-box estimate exists yet. It is not for anyone who wants the top card's price to mean a sale has happened: the $1,500.00 is a release-day market read, cross-checked twice but with no sales history behind it, and the card to trust for value on this page is the one whose fall is already priced in, not the one still waiting for its first sale."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Robin, own the Gunko, own the four SPs, hold the new set sealed, or play the SP reprints that sell every week.",
+          "If the job is the Robin, buy the single at $1,500.00, which is 21.01 Japanese boxes, and do not open boxes for it, because Bandai publishes no pull rates and the card halved in three days.",
+          "If the job is the Gunko Super Leader Alternate Art, check the read twice: $1,195.56 is a single-source read, and the regular Gunko Alternate Art fell 63.27% in the same window.",
+          "If the job is the Japanese box, pay $71.40, or $2.98 a pack, and treat the chase as a bonus.",
+          "If the job is English, buy the case at $94.68 a box, because the Warehouse stocks no single English box, and check the listing against the $191.55 market box before you pay.",
+          "If the job is a case, divide it first: the Japanese case saves $86.70 against twelve singles, $7.23 a box, and the English case sits $96.87 below the market box per box. Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-18 shelf rose 20.00% then fell 15.00% between October 24 and November 13."
+        ],
+        "h": "Action layer: the OP-18 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, and the purchase stays a decision instead of a hope. Every price here is stamped November 18-21, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its singles, and the [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) states the case rule this article uses."
+        ]
+      }
+    ],
+    "slug": "op-18-best-cards",
+    "takeaway": [
+      "The OP-18 top ten, on TCGplayer market prices read November 21, 2026, totals $4,153.03, with the Robin Manga cross-checked twice at $1,500.00. The Robin is $1,500.00 of it, 36.12% of the list. The Gunko Super Leader Alternate Art is $1,195.56, and the top two together are $2,695.56, 64.91%. The four SP inserts are $610.50, 14.7%.",
+      "On our shelf as of November 21, 2026, the Japanese box is $71.40, the Japanese case is $770.10, and the English case is $1,136.15. The Japanese pair rose 20.00% then fell 15.00% between October 24 and November 13, a net rise of 2.00% from pre-order, and nothing moved after that. The Japanese case saves $86.70 against twelve singles, and the English case at $94.68 a box sits 50.57% below the November 20 market box.",
+      "It is worth buying as The Dominance of God, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, no opened-box estimate exists yet for a set one day old, and the top card halved in three days.",
+      "The ladder below the top card falls fast: the bottom five together are $686.82, and the bottom nine together are $2,653.03, 63.88% of the list. Two facts the other lists get wrong are corrected on this page: the $1,500.00 Robin is a release-day read that halved from its pre-order ask, and the Warehouse stocks no single English box, so the English route is the case.",
+      "Companion guide: the [is OP-18 worth buying guide](/blog/is-op-18-worth-buying/) prices the same three products, and the [OP-18 investment guide](/blog/op-18-investment/) runs the same division for the longer hold.",
+      "For the set before this one in the same ranking, the [OP-17 best cards guide](/blog/op-17-best-cards/) ranks The World's Strongest Warriors the same way, with the $6,100.00 Xebec at the top and a $12,323.53 list, of which OP-18's top ten is 33.70%.",
+      "For the set's pre-order story, the [OP-18 preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) covers the $70.00 box and $755.00 case this ranking replaces."
+    ]
+  },
   "op-18-investment": {
     "datePublished": "2026-11-18",
     "faqs": [
@@ -54691,7 +54892,8 @@ export const POSTS: Record<string, BlogPost> = {
       "OP-18's pre-order case is unusually clean: a verified November 21, 2026 Japanese release (November 20 in English), a famous-artist factor that widens the buyer pool, a $70 box at $2.92 per pack, and a $755 case that undercuts the box by $7.08 per unit instead of quietly charging more the way OP-17's does. Lock the case if you have a group or a shelf for it, lock a box if you are building a pool, and wait for singles if your want list is two cards long. The set will reward buyers who divided first. For the full English back catalogue, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) prices all 22 English boxes per pack from this store.",
       "For the whole Japanese shelf around this pre-order, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 24 Japanese boxes per pack, with OP-18 second-cheapest at $3.50 per pack. For the price of every other Japanese box on the shelf beside OP-18, see [Japanese One Piece booster box prices](/blog/best-japanese-one-piece-booster-box-price/).",
       "New this cycle: the [best way to buy Japanese One Piece cards](/blog/best-buy-one-piece-cards-japanese/) puts this pre-order on the full ladder, OP-15 at $2.90 a pack against OP-18 at $3.50, with every case divided.",
-      "New this cycle: the [is OP-18 worth buying guide](/blog/is-op-18-worth-buying/) runs the verdict on the pre-order at the November 13 prices, JP box $71.40 and JP case $64.18 a box, with the six Amano cards priced as asks, not sales. For the investment version of this set, the [OP-18 The Dominance of God investment guide](/blog/op-18-investment/) runs the same division on a pre-order English case at $94.68 a box."
+      "New this cycle: the [is OP-18 worth buying guide](/blog/is-op-18-worth-buying/) runs the verdict on the pre-order at the November 13 prices, JP box $71.40 and JP case $64.18 a box, with the six Amano cards priced as asks, not sales. For the investment version of this set, the [OP-18 The Dominance of God investment guide](/blog/op-18-investment/) runs the same division on a pre-order English case at $94.68 a box.",
+      "New this cycle: the [OP-18 best cards guide](/blog/op-18-best-cards/) ranks the set's ten most valuable cards on release-day TCGplayer prices, Nov 21, 2026, with the $1,500.00 Robin Manga at the top, half its $2,999.99 pre-order read, and the Japanese box at $71.40."
     ]
   },
   "prb-01-vs-prb-02-which-to-buy": {
@@ -55832,6 +56034,204 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV9a Heat Wave Arena investment guide](/blog/sv9a-investment/) runs the same division on the other half of Destined Rivals, where the $138.82 box and $1,363.68 case divide to $113.64 a box."
     ]
   },
+  "sv11b-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Zekrom ex Black White Rare, 174/086, at $306.96 on TCGplayer market as of November 20, 2026, from Sparkl's snapshot of the Japanese set, cross-checked against dripshop's November 2026 TCGplayer snapshot at $306.96 and tcgscanapp's November 8 read at $306.96. Yuyu-tei, a Japanese shop, offers $308.88 to buy the card back, $1.92 above the market read. The Zekrom ex Special Art Rare, 169/086, is second at $181.76. The English set's top card, the Victini #171 at $601.14, is a different set and a different card.",
+        "q": "What is the most valuable SV11B card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $306.96, which is 1.97 boxes at $155.70, and the Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $786.76, which is 5.05 boxes, and the set does contain a god pack, a rare replacement pack where every card is a high rarity hit, but it is rare, not a rate. Buy the single.",
+        "q": "Should I buy a Black Bolt box to pull the Zekrom BWR?"
+      },
+      {
+        "a": "No. The numbering differs, the Japanese Zekrom is #174 and the English Zekrom is #172, and the English top card, the Victini #171 at $601.14, has no equivalent at that price in the Japanese set, where the top card is the Zekrom BWR at $306.96. The formats differ too: Japanese boxes hold 20 packs of 7 cards with a Deluxe format of four 35-card packs, while English Black Bolt comes in Elite Trainer Boxes of nine packs with a Thundurus promo and no loose packs. Japanese cards are not legal at English events.",
+        "q": "Is the Japanese set the same as the English set?"
+      }
+    ],
+    "h1": "SV11B Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV11B Black Bolt is the Zekrom ex Black White Rare, 174/086, at $306.96 on TCGplayer market as of November 20, 2026, and the ten best cards together are $786.76. The Zekrom ex Special Art Rare, 169/086, is second at $181.76, and the top two together are $488.72, 62.12% of the list. On our shelf, November 21, 2026, the [Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) is $155.70 and the [Black Bolt case](/product/sv11b-black-bolt-sealed-case-12-boxes-japanese-pokemon-card/) is $842.97. Buy the box to open Unova, buy the single for the card.",
+      "Who this is for: collectors ranking the Japanese Black Bolt chase, buyers choosing between the box, the Deluxe and the case, and buyers who need to know this ranking is the Japanese set, not the English one. Who it is not for: anyone chasing the Zekrom BWR by opening boxes, anyone who wants English Black Bolt cards for tournament play, and anyone buying a sealed box as a guaranteed investment."
+    ],
+    "metaDescription": "SV11B Black Bolt best cards, TCGplayer market, Nov 20, 2026: the $306.96 Zekrom ex BWR, the $181.76 Zekrom SAR, and the $155.70 box.",
+    "metaTitle": "SV11B Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Zekrom is 39.02% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price from Sparkl's November 20, 2026 snapshot of the Japanese set, JP-SV11B. The top card cross-checks three ways: dripshop's November 2026 TCGplayer snapshot also prints $306.96 for the Zekrom ex BWR, tcgscanapp's November 8 read prints $306.96, and yuyu-tei, a Japanese shop, offers $308.88 to buy the card back on November 16, which is $1.92 above the market read. The ten add to $786.76, and the top card alone is $306.96, 39.02% of the list.",
+          "The split is the story. The top two are $488.72, 62.12% of the top ten, and the top three are $567.44, 72.12% of it. The top five are $666.18, 84.67%. The bottom five together are $120.58, 15.33% of the list. One of every card in the set, at Sparkl's November 20 read, is $1,639.00, so the top ten are 48.0% of the whole set's singles value, and the Zekrom alone is 18.73% of it. Six of the ten are Special Art Rares, and together they are $366.11, 46.53% of the list. Three are Art Rares, and together they are $113.69, 14.45% of it."
+        ]
+      },
+      {
+        "h": "The money layer: four products, all repriced exactly 15.00%",
+        "math": [
+          "Black Bolt box per pack: $155.70 / 20 packs = $7.78 per pack",
+          "Black Bolt box per card: $155.70 / 140 cards = $1.11 per card",
+          "Black Bolt Deluxe per card: $181.04 / 140 cards = $1.29 per card",
+          "Black Bolt Deluxe per pack: $181.04 / 4 packs = $45.26 per 35-card pack",
+          "Black Bolt Deluxe premium: $181.04 - $155.70 = $25.34 more than the standard box",
+          "Black Bolt case per box: $842.97 / 12 boxes = $70.25 per box",
+          "Black Bolt case per pack: $842.97 / 240 packs = $3.51 per pack",
+          "Black Bolt case per card: $842.97 / 1,680 cards = $0.50 per card",
+          "Black Bolt twelve singles: 12 x $155.70 = $1868.40",
+          "Black Bolt case saving: $1868.40 - $842.97 = $1025.43 across the case",
+          "Black Bolt saving per box: $1025.43 / 12 = $85.45 per box",
+          "Black Bolt card file set vs market: $88.94 - $33.18 = $55.76 below the TCGplayer Card File Set; $55.76 / $88.94 = 62.69% below market",
+          "Black Bolt box repricing Nov 7 to Nov 21: $183.18 - $155.70 = $27.48; $27.48 is 15.00% of $183.18",
+          "Black Bolt Deluxe repricing Nov 7 to Nov 21: $212.99 - $181.04 = $31.95; $31.95 is 15.00% of $212.99",
+          "Black Bolt case repricing Nov 7 to Nov 21: $991.73 - $842.97 = $148.76; $148.76 is 15.00% of $991.73",
+          "Black Bolt vs White Flare box: $155.70 - $142.56 = $13.14 more",
+          "Black Bolt vs White Flare Deluxe: $181.04 - $167.90 = $13.14 more",
+          "Black Bolt vs White Flare case: $842.97 - $758.30 = $84.67 more",
+          "Black Bolt box vs TCGplayer: $155.70 - $137.65 = $18.05 above the TCGplayer standard box; $18.05 / $137.65 = 13.11% above market",
+          "Black Bolt Deluxe vs TCGplayer: $213.99 - $181.04 = $32.95 below the TCGplayer Deluxe box; $32.95 / $213.99 = 15.40% below market",
+          "Black Bolt top 10 total: $306.96 + $181.76 + $78.72 + $58.13 + $40.61 + $37.34 + $27.31 + $20.96 + $17.59 + $17.38 = $786.76",
+          "Black Bolt top 5 total: $306.96 + $181.76 + $78.72 + $58.13 + $40.61 = $666.18; $666.18 / $786.76 = 84.67% of the top 10",
+          "Black Bolt top 3 total: $306.96 + $181.76 + $78.72 = $567.44; $567.44 / $786.76 = 72.12% of the top 10",
+          "Black Bolt top 2 total: $306.96 + $181.76 = $488.72; $488.72 / $786.76 = 62.12% of the top 10",
+          "Black Bolt top card share: $306.96 / $786.76 = 39.02% of the top 10",
+          "Black Bolt bottom 5 total: $37.34 + $27.31 + $20.96 + $17.59 + $17.38 = $120.58; $120.58 / $786.76 = 15.33% of the top 10",
+          "Black Bolt six SARs total: $181.76 + $58.13 + $40.61 + $37.34 + $27.31 + $20.96 = $366.11; $366.11 / $786.76 = 46.53% of the top 10",
+          "Black Bolt three ARs total: $78.72 + $17.59 + $17.38 = $113.69; $113.69 / $786.76 = 14.45% of the top 10",
+          "Black Bolt Zekrom BWR against the box: $306.96 / $155.70 = 1.97 boxes",
+          "Black Bolt top 2 against the box: $488.72 / $155.70 = 3.14 boxes",
+          "Black Bolt top 10 against the box: $786.76 / $155.70 = 5.05 boxes",
+          "Black Bolt Zekrom BWR vs set value: $306.96 / $1,639.00 = 18.73% of the November 20, 2026 set value (Sparkl)",
+          "Black Bolt top 10 vs set value: $786.76 / $1,639.00 = 48.00% of the November 20, 2026 set value (Sparkl)",
+          "Black Bolt Zekrom BWR buyback cross-check: 49,000 yen / 158.64 yen per dollar (ECB November 20, 2026) = $308.88; $308.88 - $306.96 = $1.92 above the TCGplayer market read",
+          "Black Bolt Zekrom BWR ask cross-check: 69,800 yen / 158.64 yen per dollar (ECB November 20, 2026) = $439.99; $439.99 - $306.96 = $133.03 above the TCGplayer market read",
+          "Black Bolt Zekrom BWR vs Zekrom SAR: $306.96 - $181.76 = $125.20; $306.96 / $181.76 = 1.69x",
+          "Black Bolt Seismitoad Japanese vs English: $187.28 / $78.72 = 2.38x",
+          "Black Bolt set value 90 days: $1,639.00 - $1,455.12 = $183.88; $183.88 is 12.64% of $1,455.12 (Sparkl, August 22 to November 20, 2026)",
+          "Black Bolt Zekrom BWR PSA 10 vs raw: $543.00 / $306.96 = 1.77x (PokeInvest, November 2026)"
+        ],
+        "paragraphs": [
+          "The whole SV11B shelf fell exactly 15.00% between November 7 and November 21, 2026, and the exactness is the tell. The box went from $183.18 to $155.70, down $27.48; the Deluxe from $212.99 to $181.04, down $31.95; the case from $991.73 to $842.97, down $148.76. Each fall is 15.00% to the cent, the same single leg that repriced OP-12 through OP-17 on November 13: a repricing of the line, not a verdict on this set. White Flare fell the same 15.00% in the same window: the box from $167.72 to $142.56, the Deluxe from $197.53 to $167.90, the case from $892.12 to $758.30.",
+          "The box is $155.70 for 20 packs of 7 cards, $7.78 a pack and $1.11 a card. The [Deluxe box](/product/sv11b-expansion-pack-deluxe-black-bolt-booster-box-japanese-pokemon-card/) is $181.04 for four 35-card packs, $45.26 a pack and $1.29 a card, which is $25.34 more than the standard box for the same 140 cards: the premium buys one Art Rare guaranteed in each pack, four in the box, and nothing else. The case is $842.97, or $70.25 a box, $3.51 a pack and $0.50 a card, which is $1,025.43 less than twelve singles at $1,868.40: $85.45 a box for buying the carton. The [card file set](/product/sv11b-sv11w-black-bolt-white-flare-card-set-japanese-pokemon-card/) is $33.18, against a $88.94 TCGplayer Card File Set, $55.76 below it, 62.69% below market.",
+          "Against the market, the shelf splits. The TCGplayer standard box is $137.65, so our box at $155.70 sits $18.05 above it, 13.11% above market. The TCGplayer Deluxe box is $213.99, so our Deluxe at $181.04 sits $32.95 below it, 15.4% below market. The twin gap is a preference fee, not a value signal: the Black Bolt box is $13.14 above the [White Flare box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) at $142.56, the same $13.14 on the Deluxe, and $84.67 on the case, for Zekrom over Reshiram."
+        ]
+      },
+      {
+        "h": "The decision layer: box, Deluxe, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on Black Bolt, what each costs per pack, what it is for, and where it fails. The single row is the only row that buys the card instead of the chance: the Zekrom BWR is 1.97 boxes, and the top ten together are 5.05 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase, and the one number that sometimes gets quoted for it, the god pack, is a rare replacement pack, not a rate. A buyer who opens for the Zekrom is buying a lottery ticket with a $155.70 face value, and the recovery is to buy the single.",
+          "Read the case row as a division, not a promise. The case saves $85.45 a box only if twelve boxes are wanted, and the Deluxe costs $25.34 more only if the guaranteed Art Rare is worth that much to you. The [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the same four products for the holder, and the [SV11B investment guide](/blog/sv11b-investment/) runs the same division for the longer hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Black Bolt box",
+              "$155.70",
+              "$7.79",
+              "Opening the Unova set in Japanese",
+              "Chase not guaranteed; $18.05 above TCGplayer box"
+            ],
+            [
+              "Black Bolt Deluxe box",
+              "$181.04",
+              "$1.29 a card",
+              "Guaranteed Art Rare per 35-card pack",
+              "$25.34 more for the same 140 cards"
+            ],
+            [
+              "Black Bolt case (12)",
+              "$842.97",
+              "$70.25 a box",
+              "Twelve boxes at $85.45 a box under singles",
+              "$842.97 in one purchase; confirm at checkout"
+            ],
+            [
+              "Card file set",
+              "$33.18",
+              "n/a",
+              "The set's cards filed, both halves",
+              "Not sealed product; no packs to open"
+            ],
+            [
+              "The single",
+              "$306.96 Zekrom BWR",
+              "n/a",
+              "Owning the chase card",
+              "1.97 boxes for one card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the English set is not this set",
+        "note": "From the Warehouse: the question we get most about Black Bolt is whether the $601.14 Victini is the card to chase, because every English list leads with it. It is not a card in this set. Victini #171 at $601.14 is the English Black Bolt top card; the Japanese set this page ranks tops out at the Zekrom ex BWR at $306.96, and the two sets share a name and almost nothing else. Buy the Japanese ranking if you are buying Japanese cards, and check the set code on the listing, JP-SV11B against BLK, before you pay.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and two of the three rank the wrong set. Sparkl carries the Japanese list this page uses, with prices updated November 20, but no shelf, no case division, and no warning about the numbering trap. Dexbindr's price guide ranks the English set: Victini #171 at $601.14 and Zekrom ex #172 at $554.78, different cards, different numbers, roughly double the Japanese top card. CardCodex ranks by PSA 10 and leads with Seismitoad #105 at $1,487.06 graded, a grading list, not a raw-card ranking. None of the three divides a Japanese shelf price or a case, and none of them says which set its numbers belong to in the headline.",
+          "The gap this page owns starts with the Japanese top ten, every read dated November 20, with the Zekrom cross-checked three ways. Second is the shelf: four live prices, the exact 15.00% repricing, and the case divisions, none of which any ranking list carries. Third is the numbering trap, stated in the open: 174/086 names Zekrom ex in Black Bolt and Reshiram ex in White Flare, and 168/086 is the Kyurem ex SAR here and the Reshiram ex SAR there. A ranking list tells you which card is dearest. This page tells you which set the dearest card belongs to, and what the box you would open to find it costs."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "note": "From the Warehouse: the question we get second most about Black Bolt is whether the Deluxe is worth it, and the honest answer is the same one the buyer's guide gave on November 7: it depends on what a guaranteed Art Rare is worth to you, because the Deluxe holds the same 140 cards as the standard box and costs $25.34 more after the repricing. At Japanese retail the two formats cost the same 5,800 yen, so the premium is a shelf premium, not a retail one. The second question is whether the case is real at $70.25 a box: it is the live shelf figure as of November 21, 2026, and the one to confirm at checkout before a large order.",
+        "paragraphs": [
+          "The top of the ladder is one card, once. The Zekrom ex Black White Rare is $306.96, 39.02% of the top ten and 18.73% of the whole set's singles value, and it has barely moved: tcgscanapp's weekly history has it between $296.88 and $306.96 over 90 days, up 3.4% in that window, 1.4% in thirty days and 0.4% in seven. The second rung is the Zekrom ex Special Art Rare at $181.76, the same Pokemon one tier down, and the gap between the two Zekroms is $125.20: the BWR is 1.69 times the SAR. The third rung is the Seismitoad Art Rare at $78.72, the dearest Art Rare in the Japanese set, and the same Pokemon's English print is $187.28, 2.38 times the Japanese print: the English market pays more than double for the same art in the other language.",
+          "The fourth rung is the SAR tier below Zekrom: the N's Plot at $58.13, the Kyurem ex at $40.61, the Serperior ex at $37.34, the Meloetta ex at $27.31 and the Genesect ex at $20.96, five cards at $184.35 together, which with the Zekrom SAR makes six SARs at $366.11, 46.53% of the list. The fifth rung is the two Art Rares that close the list, the Solosis at $17.59 and the Dwebble at $17.38, $34.97 together. Below them the set is nearly free: 260 of its 326 printings are under $5.00, and 30 cards are worth $10.00 or more, so the chase is ten cards and the rest is filler at a few dollars a card."
+        ]
+      },
+      {
+        "h": "The risk layer: the BWR that has not moved, and the Deluxe that buys no extra cards",
+        "paragraphs": [
+          "The first risk is the BWR's steadiness, which is not safety. A card that has sat between $296.88 and $306.96 for 90 days has barely traded, and its price is anchored by a deep graded population, not by scarcity: a PSA 10 Zekrom BWR is about $543.00 with 14,549 in existence, 1.77 times the raw price, so the raw price has a ceiling set by the grade above it. The second risk is the set's own rise: the set value is up 12.6% in 90 days, $1,455.12 to $1,639.00, while the top card is up 3.4% in the same window, so the set's rise outpaced its chase card, and the rise sits in the tail, not at the top. The third risk is the Deluxe trap. The Deluxe box costs $25.34 more than the standard box for the same 140 cards, and the only thing the premium buys is certainty, one Art Rare guaranteed in each 35-card pack. The guarantee covers Art Rares, not the BWR. The recovery is to buy the Deluxe only if the opening experience itself is worth $25.34 to you, and to buy the standard box if the cards are what matter."
+        ]
+      },
+      {
+        "h": "Context: 174 cards, all of Unova, and a number that names two cards",
+        "paragraphs": [
+          "Black Bolt and White Flare are the paired sets that close the Scarlet and Violet era, and the scope is the whole appeal. Together they cover all 156 Pokemon first found in the Unova region, and every one of them appears as an Art Rare or better. Black Bolt is the Zekrom half and White Flare is the Reshiram half, and each set is 174 cards: an 86-card main set with secret rares numbered 87 to 174, and 326 printings once the Poke Ball and Master Ball mirror versions are counted. The new rarity is BWR, Black White Rare, a monochrome finish with a solid-color background, and the only two cards that carry it are Zekrom ex at 174/086 here and Reshiram ex in White Flare. Below the BWR, the chase is the Zekrom ex SAR at 169/086, the N's Plot SAR at 173/086, and the Kyurem ex SAR at 168/086.",
+          "The Deluxe format is new with this pair, and it is a different opening experience, not a better one. One Deluxe pack holds 35 cards at 1,450 yen, with one Art Rare guaranteed, and the Deluxe box holds four of them, 140 cards, the same total as a standard box. The Poke Ball mirror print runs across the set as well, so a master set of Black Bolt means collecting the mirrors too, which is why our [master set guide](/blog/what-is-a-master-set-pokemon/) exists. One more context fact, because it decides purchases: Japanese Black Bolt and English Black Bolt are different products with different formats and different prices. The Japanese set released June 6, 2025; the English set released July 18, 2025, in Elite Trainer Boxes of nine packs with a Thundurus promo, Booster Bundles of six packs, and no loose packs at all. The numbering trap runs through both of them: both twins count out of 086 and both run to 174, so a number names two cards, and 168/086 is the Kyurem ex SAR in Black Bolt and the Reshiram ex SAR in White Flare. Send the set name with the number, every time. Japanese cards are for Japanese-language play and collecting, and the language split is the same one our [Japanese versus English Pokemon cards guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers in full."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, not the seal, especially when one Zekrom ex BWR costs 1.97 boxes. Second, English-tournament players: Japanese cards do not play in English events, and no per-pack saving changes that. Third, Deluxe buyers chasing the Zekrom: the Deluxe guarantees Art Rares, not the BWR. It is not for anyone who wants the English top card, either: the Victini at $601.14 is not in this set, and the card to check before you pay is the set code, JP-SV11B against BLK.",
+          "Who this guide is for, restated plainly: collectors who want the Unova dex in Japanese and will open twenty packs of it, sealed holders who divide the case before they pay for it, and buyers who have already decided the set and need the format call. If you are in one of those groups, the box at $155.70 and the case at $70.25 a box are your shortlist, with the Deluxe only if the guaranteed Art Rare is worth $25.34 to you. If you are not, buy the format that fits and come back to Black Bolt when the set, not the price, is the reason."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, Deluxe buyer, or single-card chaser",
+          "If the job is the Zekrom BWR, buy the single at $306.96, which is 1.97 boxes, and do not open boxes for it; the Pokemon Company publishes no pull rates and the card has held $296.88 to $306.96 for 90 days",
+          "If the job is the box, pay $155.70, or $7.78 a pack, and treat the chase as a bonus",
+          "If the job is the Deluxe, name what the $25.34 buys: one guaranteed Art Rare per pack, not better odds at the Zekrom",
+          "If the job is a case, divide it first: the case saves $1,025.43 against twelve singles, $85.45 a box, and confirm the $70.25 per-box figure at checkout",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because 174/086 names two cards",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the Black Bolt best-cards checklist",
+        "paragraphs": [
+          "Run this in order before the next Black Bolt box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision built on prices you can actually pay. Our [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its singles, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) proves the twin sets are the same bet."
+        ]
+      }
+    ],
+    "slug": "sv11b-best-cards",
+    "takeaway": [
+      "The SV11B top ten, on TCGplayer market prices read November 20, 2026, totals $786.76, with the Zekrom ex BWR cross-checked three ways at $306.96. The Zekrom is $306.96 of it, 39.02% of the list. The Zekrom ex SAR is $181.76, and the top two together are $488.72, 62.12%. The six SARs are $366.11, 46.53%.",
+      "On our shelf as of November 21, 2026, the box is $155.70, the Deluxe is $181.04, the case is $842.97, and the card file set is $33.18. All three sealed formats fell exactly 15.00% from November 7, and nothing in the set's value says the fall is a verdict: the set value rose 12.6% in 90 days to $1,639.00.",
+      "It is worth buying as the Unova set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, and the Zekrom alone is 1.97 boxes.",
+      "The ladder below the top card falls fast: the bottom five together are $120.58, and 260 of the set's 326 printings are under $5.00. Two facts the other lists get wrong are corrected on this page: the English top card is not in this set, and 174/086 names two cards, Zekrom here and Reshiram in White Flare.",
+      "Companion guide: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the same four products, and the [SV11B investment guide](/blog/sv11b-investment/) runs the same division for the longer hold.",
+      "For the twin, the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) proves the sets are the same bet, with Black Bolt $13.14 dearer on the box for Zekrom over Reshiram.",
+      "For the set's buying guide, the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the box, Deluxe and case the same way at the November 7 prices."
+    ]
+  },
   "sv11b-black-bolt-buyers-guide": {
     "datePublished": "2026-11-07",
     "faqs": [
@@ -56002,7 +56402,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the ETB question in depth, the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) answers it honestly: Japan never made an ETB, and the Black Bolt case at $82.64 a box is the only Japanese price that beats the English ETB per pack.",
       "For the White Flare verdict in depth, the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) prices the twin at $167.72 a box against Black Bolt's $183.18, with the Deluxe at $197.53 and the case flagged for checkout confirmation.",
       "For the Black Bolt verdict in depth, the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half at $183.18 a box against White Flare’s $167.72, with the Deluxe at $212.99 and the case flagged for checkout confirmation.",
-      "New this cycle: the [SV11B Black Bolt investment guide](/blog/sv11b-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced."
+      "New this cycle: the [SV11B Black Bolt investment guide](/blog/sv11b-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced.",
+      "New this cycle: the [SV11B Black Bolt best cards guide](/blog/sv11b-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 20, 2026, with the Zekrom ex BWR at $306.96, and the English Victini at $601.14 is not in this set."
     ]
   },
   "sv11b-investment": {
