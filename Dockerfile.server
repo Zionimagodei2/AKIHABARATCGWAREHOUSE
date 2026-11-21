@@ -9,7 +9,7 @@ COPY package.json package-lock.json ./
 RUN npm install --no-audit --no-fund
 COPY . .
 ENV NEXT_TELEMETRY_DISABLED=1
-RUN npx next build && node scripts/postbuild.mjs
+RUN npx prisma generate && npx next build && node scripts/postbuild.mjs
 
 FROM node:22-alpine AS runtime
 WORKDIR /app
