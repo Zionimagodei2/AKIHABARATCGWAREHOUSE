@@ -12,8 +12,9 @@
    2. OVERLAY:   edits / additions / deletions are layered on
       top of the baseline and persisted to localStorage, so
       nothing is lost between sessions.
-   3. PUBLISH:   one click commits the resulting products.json +
-      content.json back to the GitHub repo via the Contents API.
+   3. PUBLISH:   one click sends the resulting products.json +
+      content.json to the server publish route (/api/admin/publish),
+      which commits them to the GitHub repo with a server-only token.
       Render auto-rebuilds and the changes go live on the store.
       The store polls the deployed files until the rebuild lands,
       then clears the overlay automatically.
@@ -25,15 +26,30 @@
    No sample / mock data exists anywhere in this store.
 
    REMOTE ORDERS: customer orders placed through checkout are
-   recorded in the store database (Supabase via PostgREST, the
-   same backend the /api routes use). On panel load and on every
-   Refresh, real orders + their items are pulled from the
-   database and merged with locally-recorded orders, so the
-   admin always sees every order customers placed. Status
-   changes and deletions sync back to the database.
+   recorded in the store database (our Postgres, behind the
+   /api routes). On panel load and on every Refresh, real
+   orders + their items are pulled from GET /api/admin/orders
+   and merged with locally-recorded orders, so the admin always
+   sees every order customers placed. Status changes and
+   deletions sync back via PATCH /api/orders/<id>. The browser
+   never talks to the database directly.
    ──────────────────────────────────────────────────────────── */
 
-import { selectFrom, updateIn } from "./supabase-client";
+/**
+ * Fire-and-forget status sync for a remote order. Goes through the
+ * admin-gated PATCH /api/orders/<id> route (session cookie attached
+ * via same-origin credentials); failures are swallowed because the
+ * local panel state has already been updated and the next
+ * refreshRemoteOrders() reconciles from the server.
+ */
+function syncRemoteOrderStatus(id: string, status: string): void {
+  fetch(`/api/orders/${encodeURIComponent(id)}`, {
+    method: "PATCH",
+    headers: { "Content-Type": "application/json" },
+    credentials: "same-origin",
+    body: JSON.stringify({ status }),
+  }).catch(() => undefined);
+}
 
 /* ─────────── Types (published / snake_case format) ─────────── */
 
@@ -131,27 +147,20 @@ export interface StoreContent {
   settings: StoreSettings;
 }
 
-export interface GitHubConfig {
-  token: string;
-  owner: string;
-  repo: string;
-  branch: string;
-}
-
 export interface TokenStatus {
-  /** A usable token is present (embedded default or admin-set replacement). */
+  /** Publishing is configured on the server (token held server-side only). */
   hasToken: boolean;
-  /** True while the token is within its validity window. */
+  /** True when the server reports publishing is configured. */
   active: boolean;
-  /** ISO date the current token expires ("" when a replacement has no known expiry). */
+  /** Server-side tokens have no client-visible expiry. */
   expiresAt: string | null;
-  /** Human label like "04/09/2027" or "—". */
+  /** Human label — always "—" for server-managed publishing. */
   expiryLabel: string;
-  /** Days left before expiry (null when unknown). */
+  /** Days left before expiry (null — managed on the server). */
   daysLeft: number | null;
-  /** The field only unlocks for editing once the token has expired. */
+  /** The token is never editable from the browser. */
   canEdit: boolean;
-  /** True when the admin has replaced the built-in token themselves. */
+  /** Always false — there is no client-side token anymore. */
   isCustom: boolean;
 }
 
@@ -185,27 +194,6 @@ export interface CatalogStats {
 const LS_OVERLAY = "aki_admin_overlay_v1";
 const LS_ORDERS = "aki_admin_orders_v1";
 const LS_REVIEWS = "aki_admin_reviews_v1";
-const LS_GITHUB = "aki_admin_github_v1";
-const LS_TOKEN_OVERRIDE = "aki_admin_token_v1";
-
-/* Built-in publication token — assembled at runtime so it never
-   appears as a whole literal in the source (masked & locked in the
-   UI; replaceable only after it expires). Expiry: 04/09/2027. */
-const PUBLICATION_TOKEN = [
-  "github_pat_11BMY",
-  "BY7Q0oXfWzl2Q0D4",
-  "n_JI4UP70n0BucvC",
-  "lEmG5YWBe4HqXIxA",
-  "MujrqXU7dTVGaSYK",
-  "H5UH7n5vLan2C",
-].join("");
-const PUBLICATION_TOKEN_EXPIRES = "2027-09-04"; // 04/09/2027
-
-export const DEFAULT_GITHUB: Omit<GitHubConfig, "token"> = {
-  owner: "Zionimagodei2",
-  repo: "AKIHABARATCGWAREHOUSE",
-  branch: "main",
-};
 
 const DEFAULT_SETTINGS: StoreSettings = {
   siteName: "Akihabara TCG Warehouse",
@@ -228,15 +216,6 @@ function fnv1a(str: string): string {
     h = Math.imul(h, 0x01000193);
   }
   return (h >>> 0).toString(16).padStart(8, "0");
-}
-
-function utf8ToBase64(str: string): string {
-  const bytes = new TextEncoder().encode(str);
-  let bin = "";
-  for (let i = 0; i < bytes.length; i += 0x8000) {
-    bin += String.fromCharCode(...bytes.subarray(i, i + 0x8000));
-  }
-  return btoa(bin);
 }
 
 function round2(n: number): number {
@@ -269,15 +248,6 @@ function safeDel(key: string) {
   } catch {}
 }
 
-function formatExpiry(iso: string | null): string {
-  if (!iso) return "—";
-  const d = new Date(`${iso}T23:59:59Z`);
-  if (Number.isNaN(d.getTime())) return "—";
-  const dd = String(d.getUTCDate()).padStart(2, "0");
-  const mm = String(d.getUTCMonth() + 1).padStart(2, "0");
-  return `${dd}/${mm}/${d.getUTCFullYear()}`;
-}
-
 /* ─────────── Store class ─────────── */
 
 interface Overlay {
@@ -296,7 +266,6 @@ class AdminStore {
   contentOverlay: StoreContent | null = null;
   orders: StoreOrder[] = [];
   reviews: StoreReview[] = [];
-  github: GitHubConfig | null = null;
   publish: PublishStatus = { state: "idle", message: "", at: null };
 
   private listeners = new Set<() => void>();
@@ -333,8 +302,10 @@ class AdminStore {
       if (ords) this.orders = JSON.parse(ords);
       const revs = safeGet(LS_REVIEWS);
       if (revs) this.reviews = JSON.parse(revs);
-      const gh = safeGet(LS_GITHUB);
-      if (gh) this.github = { ...DEFAULT_GITHUB, ...JSON.parse(gh) };
+      // Drop any legacy client-side GitHub token/config left in storage —
+      // publishing is server-managed now and the browser holds no token.
+      safeDel("aki_admin_github_v1");
+      safeDel("aki_admin_token_v1");
     } catch {
       /* corrupt storage — start clean */
     }
@@ -796,9 +767,7 @@ class AdminStore {
 
     // Sync status changes back to the store database for remote orders
     if (this.remoteOrderIds.has(id) && patch.status) {
-      updateIn("orders", { id: `eq.${id}` }, { status: patch.status, updated_at: now }).catch(
-        () => undefined
-      );
+      syncRemoteOrderStatus(id, patch.status);
     }
   }
 
@@ -806,15 +775,13 @@ class AdminStore {
     this.orders = this.orders.filter((o) => o.id !== id);
     this.persistOrders();
 
-    // Remote orders: the store database blocks hard DELETEs (row-level
-    // security), but UPDATEs are allowed — so a delete is recorded as a
-    // soft-delete status that refreshRemoteOrders filters out. The order
-    // disappears from the panel and stays gone.
+    // Remote orders: deletes are recorded as a soft-delete status
+    // (PATCH /api/orders/<id> with status "deleted") that
+    // refreshRemoteOrders filters out. The order disappears from
+    // the panel and stays gone.
     if (this.remoteOrderIds.has(id)) {
       this.remoteOrderIds.delete(id);
-      updateIn("orders", { id: `eq.${id}` }, { status: "deleted", updated_at: new Date().toISOString() }).catch(
-        () => undefined
-      );
+      syncRemoteOrderStatus(id, "deleted");
     }
   }
 
@@ -836,40 +803,36 @@ class AdminStore {
    */
   async refreshRemoteOrders(): Promise<number> {
     try {
-      const { data: rows, error } = await selectFrom<Record<string, unknown>>(
-        "orders",
-        "*",
-        undefined,
-        { order: "created_at.desc", limit: 200 }
-      );
-      if (error || !rows) return 0;
+      // Orders + their line items come from the admin-gated server
+      // route; each order row carries its items nested as `items`
+      // (the browser no longer queries the database directly).
+      const res = await fetch("/api/admin/orders", {
+        credentials: "same-origin",
+      });
+      if (!res.ok) return 0;
+      const payload = (await res.json().catch(() => null)) as {
+        orders?: Record<string, unknown>[];
+      } | null;
+      const rows = payload?.orders;
+      if (!rows) return 0;
 
-      // Fetch all order items and group them by order_id
-      let itemRows: Record<string, unknown>[] = [];
-      try {
-        const items = await selectFrom<Record<string, unknown>>(
-          "order_items",
-          "*",
-          undefined,
-          { limit: 1000 }
-        );
-        if (!items.error && items.data) itemRows = items.data;
-      } catch {
-        /* items unavailable — orders still load without line items */
-      }
       const itemsByOrder = new Map<string, StoreOrderItem[]>();
-      for (const row of itemRows) {
-        const oid = String(row.order_id ?? "");
+      for (const row of rows) {
+        const oid = String(row.id ?? "");
         if (!oid) continue;
-        const list = itemsByOrder.get(oid) || [];
-        list.push({
-          id: String(row.id ?? ""),
-          title: String(row.title ?? ""),
-          price: Number(row.price ?? 0),
-          quantity: Number(row.quantity ?? 1),
-          image: (row.image as string | null) ?? null,
-        });
-        itemsByOrder.set(oid, list);
+        const nested = Array.isArray(row.items)
+          ? (row.items as Record<string, unknown>[])
+          : [];
+        itemsByOrder.set(
+          oid,
+          nested.map((item) => ({
+            id: String(item.id ?? ""),
+            title: String(item.title ?? ""),
+            price: Number(item.price ?? 0),
+            quantity: Number(item.quantity ?? 1),
+            image: (item.image as string | null) ?? null,
+          }))
+        );
       }
 
       const deletedRemoteIds = new Set(
@@ -990,118 +953,32 @@ class AdminStore {
     };
   }
 
-  /* ─────────── GitHub connection & publishing ─────────── */
+  /* ─────────── Publishing (server-managed) ─────────── */
 
   /**
-   * Publication token policy:
-   *   • A built-in token ships with the site and is masked + locked
-   *     in the UI — it cannot be viewed or edited while valid.
-   *   • Once it expires (04/09/2027), the field unlocks so a new
-   *     token can be pasted; replacements are validated against
-   *     the GitHub API before they are saved.
-   *   • A saved replacement always wins over the built-in token.
+   * Publishing is handled by the server route /api/admin/publish, which
+   * holds the GitHub token in its environment. The browser never sees,
+   * stores, or sends a token — it only asks the server whether
+   * publishing is configured and posts file payloads to publish.
    */
-  getGitHubConfig(): GitHubConfig {
-    const override = safeGet(LS_TOKEN_OVERRIDE);
-    const token = override && override.trim() ? override.trim() : PUBLICATION_TOKEN;
-    if (this.github && this.github.token === token) {
-      return { ...DEFAULT_GITHUB, ...this.github, token };
-    }
-    return { ...DEFAULT_GITHUB, token };
-  }
-
-  getTokenStatus(): TokenStatus {
-    const custom = safeGet(LS_TOKEN_OVERRIDE);
-    const isCustom = Boolean(custom && custom.trim());
-    const expiresAt = isCustom ? null : PUBLICATION_TOKEN_EXPIRES;
-    const hasToken = true; // built-in token always present
-    let active = true;
-    let daysLeft: number | null = null;
-    if (expiresAt) {
-      const end = new Date(`${expiresAt}T23:59:59Z`).getTime();
-      daysLeft = Math.ceil((end - Date.now()) / (24 * 3600 * 1000));
-      active = daysLeft > 0;
-    }
-    return {
-      hasToken,
-      active,
-      expiresAt,
-      expiryLabel: formatExpiry(expiresAt),
-      daysLeft,
-      canEdit: !active,
-      isCustom,
+  async getTokenStatus(): Promise<TokenStatus> {
+    const fallback: TokenStatus = {
+      hasToken: false,
+      active: false,
+      expiresAt: null,
+      expiryLabel: "—",
+      daysLeft: null,
+      canEdit: false,
+      isCustom: false,
     };
-  }
-
-  /**
-   * Save a replacement token — only accepted once the current one has
-   * expired. The token is validated with the GitHub API first, so a
-   * typo can never silently break publishing.
-   */
-  async savePublicationToken(token: string): Promise<{ ok: boolean; error?: string }> {
-    const status = this.getTokenStatus();
-    if (!status.canEdit) {
-      return { ok: false, error: "The current token is still active — it cannot be changed until it expires" };
-    }
-    const clean = token.trim();
-    if (!clean) return { ok: false, error: "Enter the new token first" };
-
-    // Validate before persisting
     try {
-      const res = await fetch(`https://api.github.com/repos/${DEFAULT_GITHUB.owner}/${DEFAULT_GITHUB.repo}`, {
-        headers: { Authorization: `Bearer ${clean}`, Accept: "application/vnd.github+json" },
-      });
-      if (res.status === 401 || res.status === 403) {
-        return { ok: false, error: "GitHub rejected this token — check it has Contents: Read & Write permission" };
-      }
-      if (!res.ok) return { ok: false, error: `Could not verify the token (HTTP ${res.status})` };
-      const data = await res.json();
-      if (data?.permissions?.push !== true) {
-        return { ok: false, error: "Token works but cannot push to the store repository" };
-      }
+      const res = await fetch("/api/admin/publish", { method: "GET" });
+      if (!res.ok) return fallback;
+      const data = await res.json().catch(() => null);
+      const configured = Boolean(data?.configured);
+      return { ...fallback, hasToken: configured, active: configured };
     } catch {
-      return { ok: false, error: "Network error — could not reach GitHub to verify the token" };
-    }
-
-    safeSet(LS_TOKEN_OVERRIDE, clean);
-    this.github = { ...this.getGitHubConfig(), token: clean };
-    safeSet(LS_GITHUB, JSON.stringify({ ...DEFAULT_GITHUB, token: clean }));
-    this.notify();
-    return { ok: true };
-  }
-
-  /** Remove an invalid replacement and fall back to the built-in token. */
-  resetPublicationToken() {
-    safeDel(LS_TOKEN_OVERRIDE);
-    safeDel(LS_GITHUB);
-    this.github = null;
-    this.notify();
-  }
-
-  async testGitHub(): Promise<{ ok: boolean; message: string }> {
-    const cfg = this.getGitHubConfig();
-    if (!cfg.token) return { ok: false, message: "Enter a GitHub access token first" };
-    try {
-      const res = await fetch(`https://api.github.com/repos/${cfg.owner}/${cfg.repo}`, {
-        headers: {
-          Authorization: `Bearer ${cfg.token}`,
-          Accept: "application/vnd.github+json",
-        },
-      });
-      if (res.status === 401 || res.status === 403) {
-        return { ok: false, message: "Token rejected — check it has Contents: Read & Write on this repository" };
-      }
-      if (!res.ok) return { ok: false, message: `Repository not reachable (HTTP ${res.status})` };
-      const data = await res.json();
-      const canPush = data?.permissions?.push === true;
-      return {
-        ok: canPush,
-        message: canPush
-          ? `Connected to ${cfg.owner}/${cfg.repo} — ready to publish`
-          : "Token works but cannot push to this repository",
-      };
-    } catch {
-      return { ok: false, message: "Network error — check your connection" };
+      return fallback;
     }
   }
 
@@ -1138,10 +1015,6 @@ class AdminStore {
   }
 
   async publishChanges(): Promise<{ ok: boolean; error?: string }> {
-    const cfg = this.getGitHubConfig();
-    if (!cfg.token) {
-      return { ok: false, error: "Publication token unavailable — add a new token in Settings" };
-    }
     if (this.getUnpublishedCount() === 0) {
       return { ok: false, error: "No unpublished changes" };
     }
@@ -1157,21 +1030,21 @@ class AdminStore {
         { path: "public/content.json", content: contentJson },
       ];
 
-      let changedProducts = false;
-      let changedContent = false;
-
-      for (const file of files) {
-        const { sha, error } = await this.getFileSha(cfg, file.path);
-        if (error) throw new Error(error);
-        const put = await this.putFile(cfg, file.path, file.content, sha, `Admin panel: update ${file.path.replace("public/", "")}`);
-        if (!put.ok) throw new Error(put.error || `Failed to update ${file.path}`);
-        if (file.path.endsWith("products.json")) changedProducts = true;
-        else changedContent = true;
+      // The server route verifies the admin session cookie and commits
+      // the files to GitHub with its server-only publication token.
+      const res = await fetch("/api/admin/publish", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ files }),
+      });
+      const data = await res.json().catch(() => null);
+      if (!res.ok) {
+        throw new Error(data?.error || `Publish failed (HTTP ${res.status})`);
       }
 
       this.pendingHashes = {
-        products: changedProducts ? fnv1a(productsJson) : undefined,
-        content: changedContent ? fnv1a(contentJson) : undefined,
+        products: fnv1a(productsJson),
+        content: fnv1a(contentJson),
       };
       safeSet(
         "aki_admin_pending_v1",
@@ -1195,58 +1068,6 @@ class AdminStore {
       this.notify();
       return { ok: false, error: this.publish.message };
     }
-  }
-
-  private async getFileSha(cfg: GitHubConfig, path: string): Promise<{ sha: string | null; error?: string }> {
-    // `_cb` cache-busts the CDN so a publish made within ~60s of a previous
-    // one reads the file's CURRENT sha instead of a cached pre-publish one
-    // (otherwise the PUT 409s with "does not match").
-    const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${path}?ref=${encodeURIComponent(cfg.branch)}&_cb=${Date.now()}`;
-    const res = await fetch(url, {
-      headers: { Authorization: `Bearer ${cfg.token}`, Accept: "application/vnd.github+json" },
-    });
-    if (res.status === 404) return { sha: null }; // new file
-    if (!res.ok) return { sha: null, error: `Could not read ${path} (HTTP ${res.status})` };
-    const data = await res.json();
-    return { sha: data?.sha ?? null };
-  }
-
-  private async putFile(
-    cfg: GitHubConfig,
-    path: string,
-    content: string,
-    sha: string | null,
-    message: string
-  ): Promise<{ ok: boolean; error?: string }> {
-    const body: Record<string, unknown> = {
-      message: `Akihabara Admin: ${message}`,
-      content: utf8ToBase64(content),
-      branch: cfg.branch,
-    };
-    if (sha) body.sha = sha;
-    const res = await fetch(`https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${path}`, {
-      method: "PUT",
-      headers: {
-        Authorization: `Bearer ${cfg.token}`,
-        Accept: "application/vnd.github+json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(body),
-    });
-    if (!res.ok) {
-      // 409 = the sha we sent is stale (someone else committed to the file,
-      // e.g. a publish made seconds ago). One retry with a fresh sha fixes it.
-      if (res.status === 409) {
-        const fresh = await this.getFileSha(cfg, path);
-        if (fresh.sha !== undefined && fresh.sha !== null && fresh.sha !== sha) {
-          return this.putFile(cfg, path, content, fresh.sha, message);
-        }
-        if (fresh.error) return { ok: false, error: fresh.error };
-      }
-      const err = await res.json().catch(() => ({}));
-      return { ok: false, error: err?.message || `GitHub rejected the update (HTTP ${res.status})` };
-    }
-    return { ok: true };
   }
 
   private startPolling() {

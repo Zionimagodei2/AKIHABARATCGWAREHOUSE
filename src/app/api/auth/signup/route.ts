@@ -1,9 +1,6 @@
 import { NextResponse, NextRequest } from 'next/server'
 import { selectFrom, insertInto, isSupabaseConfigured } from '@/lib/supabase-client'
-import crypto from 'crypto'
-
-const hashPassword = (password: string) =>
-  crypto.createHash('sha256').update(password).digest('hex')
+import { hashPassword } from '@/lib/password'
 
 export async function POST(req: NextRequest) {
   try {
@@ -31,7 +28,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Email already registered' }, { status: 400 })
     }
 
-    const hashed = hashPassword(password)
+    const hashed = await hashPassword(password)
 
     const { data, error } = await insertInto('users', {
       email: normalizedEmail,
@@ -44,7 +41,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error }, { status: 500 })
     }
 
-    const user = data?.[0] || {}
+    const user = (data?.[0] || {}) as { id?: string; email?: string; name?: string | null; role?: string }
     return NextResponse.json({
       id: user.id,
       email: user.email,
