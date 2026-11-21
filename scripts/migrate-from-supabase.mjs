@@ -13,6 +13,31 @@
 // than failing the import. Per-table fetched vs inserted counts are printed.
 
 import pg from "pg";
+import https from "node:https";
+
+// The Supabase host resolves to IPv6 first in some container networks and
+// the v6 route is dead — all requests below go through node:https with
+// family: 4 (forced IPv4) instead of the global fetch.
+function httpsJson(url, headers) {
+  return new Promise((resolve, reject) => {
+    const req = https.request(url, { method: "GET", headers, family: 4, timeout: 30000 }, (res) => {
+      const chunks = [];
+      res.on("data", (c) => chunks.push(c));
+      res.on("end", () => {
+        const body = Buffer.concat(chunks).toString("utf8");
+        if (res.statusCode < 200 || res.statusCode >= 300) {
+          reject(new Error(`HTTP ${res.statusCode} ${body.slice(0, 200)}`));
+          return;
+        }
+        try { resolve(JSON.parse(body)); }
+        catch (e) { reject(new Error(`Bad JSON from ${url}: ${e.message}`)); }
+      });
+    });
+    req.on("timeout", () => req.destroy(new Error("Request timed out")));
+    req.on("error", (err) => reject(new Error(`${err.message}${err.cause ? ` (cause: ${err.cause.message || err.cause})` : ""}`)));
+    req.end();
+  });
+}
 
 const { SUPABASE_URL, SUPABASE_ANON_KEY, DATABASE_URL } = process.env;
 
@@ -37,12 +62,11 @@ async function fetchPage(table, offset) {
   const url =
     `${SUPABASE_URL.replace(/\/$/, "")}/rest/v1/${table}` +
     `?select=*&limit=${PAGE_SIZE}&offset=${offset}`;
-  const res = await fetch(url, { headers });
-  if (!res.ok) {
-    const body = await res.text().catch(() => "");
-    throw new Error(`GET ${table} (offset ${offset}) failed: HTTP ${res.status} ${body.slice(0, 200)}`);
+  try {
+    return await httpsJson(url, headers);
+  } catch (err) {
+    throw new Error(`GET ${table} (offset ${offset}) failed: ${err.message}`);
   }
-  return res.json();
 }
 
 async function targetColumns(client, table) {
