@@ -21178,7 +21178,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The ladder below the top ten is thin: the Luffy alternate art was $31.09 on the October 31 sold-based read and does not make the November 19 top ten at all. The same seven cards that appear on both reads rose $66.68, 7.62%, between the October 31 sold-based read and the November 19 TCGplayer market read, while the Borsalino alternate art moved $25.68 between the two reads and the Zoro alternate art moved the other way. The Japanese box trades $3.23 below the November 18 sold-first market box of $80.61.",
       "Companion guide: the [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks Heroines Edition the same way, with the $1,436.07 Hancock SP against its box. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
       "For the English side of the same split, the [OP-14 Azure Sea's Seven buyers guide](/blog/op-14-azure-seas-seven-buyers-guide/) and the [OP-15 Adventure on Kami's Island buyers guide](/blog/op-15-adventure-on-kamis-island-buyers-guide/) price the two boxes that carry EB-04 cards in English. For the verdict that priced these three products before the cut, the [is EB-04 worth buying guide](/blog/is-eb-04-worth-buying/) carries the November 12 shelf.",
-      "For the mainline-set side of the same ranking, the [OP-04 best cards guide](/blog/op-04-best-cards/) ranks Kingdoms of Intrigue the same way, with the $1,053.91 Hancock SP against its box."
+      "For the mainline-set side of the same ranking, the [OP-04 best cards guide](/blog/op-04-best-cards/) ranks Kingdoms of Intrigue the same way, with the $1,053.91 Hancock SP against its box.",
+      "Companion guide: the [EB-05 best cards guide](/blog/eb-05-best-cards/) ranks Heroines Edition Vol. 2 the same way, with the $1,527.75 Yabuki Nami against its $1,182.38 English case."
     ]
   },
   "eb-04-egghead-crisis-buyers-guide": {
@@ -21543,6 +21544,235 @@ export const POSTS: Record<string, BlogPost> = {
       "EB-04 Egghead Crisis is the cheapest Japanese One Piece box on our shelf at $77.38, or 2.34 times the ¥5,280 official price, after a 15 percent cut between November 5 and November 16, 2026, and it sits $32.13 below the lowest Mercari asking price of ¥17,500 from a November 2, 2026 survey.",
       "The Japanese case saves only $5.44 over twelve singles, and the English case fell 32 percent to $1,733.08, but its box count and contents are both unprinted on the listing, so the $144.42 per-box figure is conditional; EB-04 has no standalone English release, and its cards ship inside OP-14 and OP-15.",
       "The Koby Comic Parallel, EB04-044, is the whole chase: $513.48 raw and $862.08 at PSA 10 on October 31, 2026, down from an August 2026 range of ¥99,800 to ¥138,000, with Assetra's November 14, 2026 PSA 10 estimate at $689, down 12.3 percent in four weeks."
+    ]
+  },
+  "eb-05-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Kentaro Yabuki Nami, EB05-055, gold-stamped alternate art, at $1,527.75 on TCGplayer market checked November 19, 2026, from Haki TCG's EB-05 snapshot. The Japanese market tells a different story: the lowest ask on Cardrush on October 31, 2026 was 198,000 yen, about $1,248.11 at 158.64 yen per dollar, $279.64 below the US market price, so the TCGplayer market price and the Japanese asks are two different markets, not two prices for the same copy. The plain Yabuki Nami, the same card without the gold stamp, is $61.68 on TCGIndex's November 20, 2026 read, so check the printing before you pay a chase price.",
+        "q": "What is the most valuable EB-05 card?"
+      },
+      {
+        "a": "No, not as a plan. The Yabuki Nami is $1,527.75 on TCGplayer market checked November 19, 2026, which is 15.51 case boxes and 1.29 whole cases at $1,182.38, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Foilkraken's simulation of 10,000 boxes at the same prices puts the average opened box at $145.53 against a $219.90 sealed box, and only 16% of boxes beat the sealed price. Buy the single if the card is the job, or buy the case for the Heroines pool and treat the chase as a bonus.",
+        "q": "Should I buy an EB-05 case to pull the Yabuki Nami?"
+      },
+      {
+        "a": "Buy EB-05 if the job is the cheaper Heroines set in English: its top ten totals $5,593.65 on the same dated TCGplayer market read, and its English case box is $98.53 against EB-03's English box at $167.28. Buy EB-03 if the job is the first Heroines set and its $1,436.07 Hancock SP: its top ten totals $6,536.26, $942.61 above EB-05. Either way, buy the case for the set and the single for the card: the [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks Heroines Edition Vol. 1 the same way.",
+        "q": "EB-05 vs EB-03: which should I buy?"
+      }
+    ],
+    "h1": "EB-05 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in EB-05 is the Kentaro Yabuki Nami, EB05-055, gold-stamped alternate art, at $1,527.75 on TCGplayer market checked November 19, 2026. The ten cards add to $5,593.65, and the top two are $2,794.70 of it, 49.96% of the whole list. Our shelf, November 20, 2026, carries exactly one EB-05 product: the [English sealed case](/product/one-piece-eb-05-heroines-edition-vol-2-english-booster-box-case-factory-sealed/) at $1,182.38, twelve boxes at $98.53 a box, and no single box, English or Japanese. Buy the case for English boxes in bulk, buy the single for the card.",
+      "Who this is for: collectors ranking the EB-05 chase, buyers weighing a twelve-box case against single boxes, and players who want the Nico Robin leader. Who it is not for: anyone chasing one named card by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "EB-05's 10 best cards on TCGplayer market, Nov 19, 2026: the $1,527.75 Yabuki Nami, the $1,266.95 Robin Super Leader, and the $98.53 case box.",
+    "metaTitle": "EB-05 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: two cards, eight more, and one case on the shelf",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 19, 2026, from Haki TCG's EB-05 snapshot. The ten add to $5,593.65, and the top three are $3,568.36 of it, 63.79%. Nami (Kentaro Yabuki, gold-stamped) EB05-055 is $1,527.75, Nico Robin (Super Leader alternate art) EB05-010 is $1,266.95, and Boa Hancock (SP) ST17-004 is $773.66. Behind them, Shirahoshi (manga) EB05-014 at $523.42, Nico Robin (SP) EB05-016 at $351.72, and Nami (SP) OP01-016 at $320.84. Then Charlotte Pudding (SP) OP17-109 at $298.16, Boa Hancock (Heroine Leader alternate art) OP14-041 at $191.96, Gerd (SP) OP17-081 at $173.91, and Nami (Heroine Leader alternate art) OP11-041 at $165.28.",
+          "The split is the story. Five alternate arts are $3,675.36, 65.71% of the top ten, and five Special Parallel cards are $1,918.29, 34.29%. No base Super Rare or base Secret Rare makes the ten: the Secret Rare Nami, EB05-061, sits below the line. Six of the ten carry numbers from older sets, worth $1,923.81, 34.39%, while the four EB05-numbered cards are $3,669.84, 65.61%. The chase lives in the parallels, not in the base set.",
+          "A collector chasing the Yabuki Nami buys the single: the card is 15.51 case boxes and 1.29 whole cases, and no pull rate exists to price the chase any other way. A collector who wants the Heroines pool in English buys the case at $98.53 a box. The [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks a set whose Koby Manga, $569.92, is 2.68 times cheaper than this Nami. The [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks the first Heroines set, whose top ten totals $6,536.26, $942.61 above this one."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "EB-05 English case per box: $1,182.38 / 12 boxes = $98.53 per box",
+          "EB-05 English case per pack: $1,182.38 / 288 packs = $4.11 per pack",
+          "EB-05 English case per card: $1,182.38 / 3,456 cards = $0.34 per card",
+          "EB-05 English box at MSRP: 24 packs x $4.99 = $119.76",
+          "EB-05 English case box vs MSRP box: $119.76 - $98.53 = $21.23 below MSRP per box",
+          "EB-05 English case box vs MSRP box: $98.53 / $119.76 = 0.82x",
+          "EB-05 English case pack vs MSRP pack: $4.99 - $4.11 = $0.88 below MSRP per pack",
+          "EB-05 TCGplayer box vs MSRP: $219.90 / $119.76 = 1.84x",
+          "EB-05 TCGplayer box per pack: $219.90 / 24 packs = $9.16 per pack",
+          "EB-05 TCGplayer pack vs MSRP: $7.91 / $4.99 = 1.59x",
+          "EB-05 TCGplayer box vs case per box: $219.90 - $98.53 = $121.37 per box",
+          "EB-05 twelve TCGplayer boxes: 12 x $219.90 = $2,638.80; $2,638.80 - $1,182.38 = $1,456.42 saved",
+          "EB-05 Japanese official box: 24 packs x 240 yen = 5,760 yen; 5,760 / 158.64 yen per dollar = $36.31",
+          "EB-05 Japanese pack in dollars: 240 yen / 158.64 yen per dollar = $1.51 per pack",
+          "EB-05 top 10 total: $1,527.75 + $1,266.95 + $773.66 + $523.42 + $351.72 + $320.84 + $298.16 + $191.96 + $173.91 + $165.28 = $5,593.65",
+          "EB-05 top 3 total: $1,527.75 + $1,266.95 + $773.66 = $3,568.36; $3,568.36 / $5,593.65 = 63.79% of the top 10",
+          "EB-05 top 2 total: $1,527.75 + $1,266.95 = $2,794.70; $2,794.70 / $5,593.65 = 49.96% of the top 10",
+          "EB-05 other nine cards total: $5,593.65 - $1,527.75 = $4,065.90",
+          "EB-05 Nami Yabuki share: $1,527.75 / $5,593.65 = 27.31% of the top 10",
+          "EB-05 five SPs total: $773.66 + $351.72 + $320.84 + $298.16 + $173.91 = $1,918.29; $1,918.29 / $5,593.65 = 34.29% of the top 10",
+          "EB-05 five alternate arts total: $1,527.75 + $1,266.95 + $523.42 + $191.96 + $165.28 = $3,675.36; $3,675.36 / $5,593.65 = 65.71% of the top 10",
+          "EB-05 six reprint-numbered cards total: $773.66 + $320.84 + $298.16 + $191.96 + $173.91 + $165.28 = $1,923.81; $1,923.81 / $5,593.65 = 34.39% of the top 10",
+          "EB-05 four EB05-numbered cards total: $5,593.65 - $1,923.81 = $3,669.84; $3,669.84 / $5,593.65 = 65.61% of the top 10",
+          "EB-05 second rung total: $773.66 + $523.42 = $1,297.08",
+          "EB-05 third rung total: $351.72 + $320.84 + $298.16 + $191.96 + $173.91 + $165.28 = $1,501.87",
+          "EB-05 Nami Yabuki against the case: $1,527.75 / $98.53 = 15.51 case boxes; $1,527.75 / $1,182.38 = 1.29 cases",
+          "EB-05 Nico Robin Super Leader against the case: $1,266.95 / $98.53 = 12.86 case boxes",
+          "EB-05 top 10 against the case: $5,593.65 / $1,182.38 = 4.73 cases; $5,593.65 / $98.53 = 56.77 case boxes",
+          "EB-05 Nami Yabuki vs EB-04 Koby Manga: $1,527.75 / $569.92 = 2.68x",
+          "EB-05 top 10 vs EB-04 Koby Manga: $5,593.65 / $569.92 = 9.81x the Koby Manga",
+          "EB-05 top 10 vs EB-04 top 10: $5,593.65 / $1,034.96 = 5.40x",
+          "EB-05 top 10 vs EB-03 top 10: $5,593.65 / $6,536.26 = 0.86x; $6,536.26 - $5,593.65 = $942.61 below EB-03",
+          "EB-05 case per box vs EB-03 English box: $167.28 - $98.53 = $68.75 less per box",
+          "EB-05 EB-03 English box per pack: $167.28 / 24 packs = $6.97 per pack",
+          "EB-05 EB-03 Japanese box per pack: $131.78 / 24 packs = $5.49 per pack",
+          "EB-05 case per box vs EB-03 Japanese box: $131.78 - $98.53 = $33.25 less per box",
+          "EB-05 case vs EB-03 English case: $1,571.53 - $1,182.38 = $389.15 less",
+          "EB-05 case vs EB-04 English case: $1,733.08 - $1,182.38 = $550.70 less",
+          "EB-05 case per box vs EB-04 English case per box: $144.42 - $98.53 = $45.89 less per box",
+          "EB-05 Nami Yabuki Nov 8 to Nov 19: $1,527.75 - $1,530.43 = -$2.68; -$2.68 is -0.18% of $1,530.43",
+          "EB-05 Nico Robin Super Leader Nov 8 to Nov 19: $1,266.95 - $1,265.49 = $1.46; $1.46 is 0.12% of $1,265.49",
+          "EB-05 Boa Hancock SP Nov 8 to Nov 19: $773.66 - $768.76 = $4.90; $4.90 is 0.64% of $768.76",
+          "EB-05 Shirahoshi manga Nov 8 to Nov 19: $523.42 - $557.53 = -$34.11; -$34.11 is -6.12% of $557.53",
+          "EB-05 Nico Robin SP Nov 8 to Nov 19: $351.72 - $403.14 = -$51.42; -$51.42 is -12.75% of $403.14",
+          "EB-05 Nami SP Nov 8 to Nov 19: $320.84 - $456.99 = -$136.15; -$136.15 is -29.79% of $456.99",
+          "EB-05 Charlotte Pudding SP Nov 8 to Nov 19: $298.16 - $325.95 = -$27.79; -$27.79 is -8.53% of $325.95",
+          "EB-05 Gerd SP Nov 8 to Nov 19: $173.91 - $199.16 = -$25.25; -$25.25 is -12.68% of $199.16",
+          "EB-05 Nami Yabuki Nov 3 to Nov 8: $1,530.43 - $1,319.01 = $211.42; $211.42 is 16.03% of $1,319.01",
+          "EB-05 Nami Yabuki gold-stamped vs plain: $1,527.75 / $61.68 = 24.77x",
+          "EB-05 Nami Yabuki gold-stamped overpay vs plain: $1,527.75 - $61.68 = $1,466.07",
+          "EB-05 Japanese Nami Yabuki ask in dollars: 198,000 yen / 158.64 yen per dollar = $1,248.11; $1,527.75 - $1,248.11 = $279.64 below the US market price",
+          "EB-05 Japanese Robin Super Leader ask in dollars: 128,000 yen / 158.64 yen per dollar = $806.86",
+          "EB-05 Japanese Shirahoshi manga ask in dollars: 99,800 yen / 158.64 yen per dollar = $629.10",
+          "EB-05 Foilkraken opened-box average vs sealed: $219.90 - $145.53 = $74.37",
+          "EB-05 Foilkraken typical box vs sealed: $219.90 - $76.96 = $142.94",
+          "EB-05 Nami alternate art EB05-061 fall: $169.99 - $31.16 = $138.83; $138.83 is 81.67% of $169.99",
+          "EB-05 Hancock alternate art EB05-028 fall: $140.00 - $28.05 = $111.95; $111.95 is 79.96% of $140.00",
+          "EB-05 Robin alternate art EB05-016 fall: $26.05 - $5.46 = $20.59; $20.59 is 79.04% of $26.05",
+          "EB-05 Gift Collection packs at MSRP: 2 packs x $4.99 = $9.98; $44.99 - $9.98 = $35.01 for the sleeves and promos"
+        ],
+        "paragraphs": [
+          "The case divides cleanly because the listing prints the count: twelve boxes, twenty-four packs each, twelve cards each. The case is $1,182.38, or $98.53 a box, $4.11 a pack, and $0.34 a card. Twenty-four packs at $4.99 MSRP are $119.76 a box, so the case box sits $21.23 below MSRP per box, at 0.82 times the MSRP box. That is the whole case story: the only EB-05 sealed product on this shelf sells below the pack-price arithmetic.",
+          "The open market charges more. A TCGplayer box is $219.90 on Foilkraken's November 19, 2026 read, 1.84 times MSRP and $121.37 more per box than our case box. Twelve TCGplayer boxes cost $2,638.80, so the case saves $1,456.42 against them, and a single pack is $7.91, 1.59 times MSRP. The Japanese side is cheaper on paper and unreachable from this shelf: the official Japanese box is 5,760 yen, $36.31 at 158.64 yen per dollar on November 20, 2026, and we stock no Japanese EB-05 box at all.",
+          "The set comparison runs through EB-03. The [EB-03 English booster box](/product/eb-03-heroines-extra-booster-box-english-one-piece-card/) is $167.28 on our shelf, $68.75 more per box than the EB-05 case box, and the [EB-03 Japanese booster box](/product/eb-03-heroines-edition-booster-box-japanese-one-piece-card/) is $131.78, $33.25 more per box. The [EB-03 English sealed case](/product/eb-03-one-piece-heroines-edition-sealed-case-english-one-piece-card/) is $1,571.53, $389.15 more than the EB-05 case. Vol. 2 is the cheaper Heroines set on this shelf. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on EB-05, what each costs per pack, what it is for, and where it fails. Read the failure column.",
+          "The case row deserves a second look: it is the only row that runs through our shelf. Twelve boxes at $98.53 each is the cheapest English EB-05 per pack in this table, and also twelve boxes or nothing, with no single box on the shelf to split the difference. The TCGplayer box at $219.90 is the single-box route, at $9.16 a pack. The [EB-03 Heroines Edition buyers guide](/blog/eb-03-heroines-edition-buyers-guide/) prices Vol. 1 the same way, and the [EB-03 investment guide](/blog/eb-03-investment/) runs it as a hold."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (12)",
+              "$1,182.38",
+              "$98.53 a box, $4.11 a pack",
+              "English boxes in bulk; the only EB-05 sealed product here",
+              "Twelve boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "TCGplayer English box",
+              "$219.90",
+              "$9.16",
+              "One English box at a time",
+              "1.84x MSRP; $121.37 more per box than our case box"
+            ],
+            [
+              "TCGplayer single pack",
+              "$7.91",
+              "$7.91",
+              "One pack to try the set",
+              "1.59x MSRP; worst per-card price"
+            ],
+            [
+              "The single (Yabuki Nami)",
+              "$1,527.75",
+              "n/a",
+              "Owning the chase card",
+              "15.51 case boxes; grading and condition risk"
+            ],
+            [
+              "EB-03 English box (Vol. 1)",
+              "$167.28",
+              "$6.97",
+              "The first Heroines set instead",
+              "$68.75 more per box than the EB-05 case box"
+            ],
+            [
+              "EB-03 Japanese box (Vol. 1)",
+              "$131.78",
+              "$5.49",
+              "Vol. 1 in Japanese",
+              "Not EB-05; Japanese cards are not legal at official events outside Asia"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the standalone English release, and the falling alt arts",
+        "note": "From the Warehouse: the question we get most in chat about EB-05 is whether the case is a mistake, because buyers remember EB-04, where the English case sat under a set with no standalone English release. It is not a mistake this time. EB-05 came out in English on October 30, 2026 as a standalone booster, a day before Japan, so the case holds twelve English EB-05 boxes and nothing else. The second question is whether the Yabuki Nami is really worth more than the whole case. It is, on the November 19 read: $1,527.75 against a $1,182.38 case, 1.29 cases for one card. We do not know whether it holds, and anyone who says they do is guessing: the same card was $1,319.01 on November 3 and $1,530.43 on November 8.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. Nerdsnack prices the chase on November 8, 2026 TCGplayer market prices via TCGCSV. Rare Candy ranks the ten on November 5 prices. Margin prices every card on November 13 near-mint sales. Foilkraken updates daily and runs a 10,000-box simulation. None of them ties the ranking to a box price you can actually pay today, or divides a case to the cent.",
+          "The gap this page owns is threefold: the shelf price, the dated market read, and the case division. The shelf price is ours, stamped November 20, 2026: one product, the English case, $1,182.38. The dated read is Haki TCG's November 19, 2026 TCGplayer snapshot, all ten printings, $5,593.65 in total. The division is the arithmetic in the money layer. No other best-cards list for this set carries all three.",
+          "The second gap is the English release itself: EB-04 had no standalone English release, so a ranking that treated it as one English product was wrong from the first line. EB-05 is the opposite: Bandai's English page lists a standalone booster at $4.99 a pack, released October 30, 2026, with Japan a day later at 240 yen a pack. The third gap is the falling alt arts: three alternate arts lost about four fifths of their TCGplayer market price between October 30 and November 6, 2026, and no top-ten list mentions it. The fourth gap is the reprint SPs: six of the ten carry numbers from OP-01, OP-11, OP-14, OP-17, and ST-17. A buyer who does not check the number buys the wrong printing."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is two cards. The Yabuki Nami is $1,527.75 and the Robin Super Leader is $1,266.95, together $2,794.70, 49.96% of the top ten. The Nami is 27.31% of the list on its own. Between November 3 and November 8 the Nami rose $211.42, 16.03%, from $1,319.01 to $1,530.43, then held: $1,527.75 on November 19, down $2.68, 0.18%, in eleven days, while the Robin Super Leader rose $1.46, 0.12%.",
+          "The second rung is the Hancock SP and the manga Shirahoshi. The Hancock SP is $773.66, up $4.90, 0.64%, since November 8. The Shirahoshi manga is $523.42, down $34.11, 6.12%, since November 8, from $557.53. Together they are $1,297.08. The Japanese asks sit below the US market: Cardrush's October 31, 2026 tax-inclusive retail list puts the Yabuki Nami at 198,000 yen, $1,248.11 at 158.64 yen per dollar, $279.64 below the US market price, and the Robin Super Leader at 128,000 yen, $806.86.",
+          "The third rung is the four SPs and the two Heroine Leader alternate arts. Nico Robin (SP) is $351.72, Nami (SP) is $320.84, Charlotte Pudding (SP) is $298.16, Boa Hancock (Heroine Leader alternate art) is $191.96, Gerd (SP) is $173.91, and Nami (Heroine Leader alternate art) is $165.28, together $1,501.87. All four SPs fell between November 8 and November 19: the Robin SP by $51.42, 12.75%, the Nami SP by $136.15, 29.79%, the Pudding SP by $27.79, 8.53%, and the Gerd SP by $25.25, 12.68%.",
+          "Below the top ten, the card that fell out is the one the launch-week lists loved: the Nami alternate art EB05-061 was $169.99 on October 30, 2026 and $31.16 on November 6, a fall of 81.67% in seven days (TCGplayer market, via TCGCSV). The Boa Hancock alternate art EB05-028 fell 79.96% in the same window, from $140.00 to $28.05, and the Nico Robin alternate art EB05-016 fell 79.04%, from $26.05 to $5.46. The cheap alternate arts collapsed while the top two held. That is the ladder: two cards at the top, four SPs sliding, and a floor that gave way in a week."
+        ]
+      },
+      {
+        "h": "The risk layer: the gold stamp, the case, and the 80% fall",
+        "paragraphs": [
+          "The first risk is the printing, not the card. The Yabuki Nami comes in two forms that share a number: the plain version, $61.68 on TCGIndex's November 20, 2026 read, and the gold-stamped version at $1,527.75, 24.77 times the plain copy. A buyer who pays a gold-stamped price for a plain copy has overpaid by $1,466.07. Check the stamp and the finish before you pay: Haki TCG's ranking is by printing, not by card name.",
+          "The second risk is the case bought as a chase. Foilkraken's simulation of 10,000 EB-05 boxes at November 19, 2026 TCGplayer prices puts the average opened box at $145.53 against a $219.90 sealed box, and the median box at $76.96. Only 16% of boxes beat the sealed price. The Yabuki Nami is 1.29 whole cases. Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Buy the single if the card is the job.",
+          "The third risk is the alt-art floor. Three alternate arts lost about four fifths of their value in the week after release, and the Nami SP lost 29.79% between November 8 and November 19. A set three weeks old still moves day to day, and the November 19 top ten is a snapshot, not a floor. The fourth risk is the reseal: the TCGplayer box was $294.43 two days before release against $119.76 at MSRP, which is exactly what resealers monetize. Check the seal, wrap tension, and pack order before opening; [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows how. The fifth risk is legality: Japanese cards are generally not legal at official events outside Asia, so a player who buys Japanese to compete has bought the wrong product. The sealed-hold plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/)."
+        ]
+      },
+      {
+        "h": "Context: 61 cards, the Robin leader, and a standalone English release",
+        "paragraphs": [
+          "Heroines Edition Vol. 2 is the second Extra Booster built entirely around the series' heroines, following EB-03 (Japan, October 25, 2025). The official English card list runs 61 numbered cards, EB05-001 to EB05-061: 1 Leader, 1 Secret Rare, 9 Super Rares, 21 Rares, and 29 Commons, plus 8 Special Parallel entries, 6 reprinted Leaders, and 2 DON!! cards, for 75 card types plus 2 DON!! in total. The single new Leader is Nico Robin, EB05-010, Green and Yellow, 4 Life, 5000 power, built around the Wisdom attribute. The single Secret Rare is Nami, EB05-061, Red. Bandai issued an errata on October 23, 2026, correcting Nico Robin EB05-033, so check the official list before building a deck around any one card.",
+          "The language gap is small on this set. The Japanese pack holds 6 cards at 240 yen, $1.51 at 158.64 yen per dollar, and the official Japanese box is 5,760 yen, $36.31. The English pack holds 12 cards at $4.99, and the English box is 24 packs, $119.76 at MSRP. Unlike EB-04, split between OP-14 and OP-15 in English, EB-05 is one standalone product in both languages, tournament legal on November 6, 2026, seven days after the English release. The [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) rank all the boxes to per-pack prices. The [OP-17 Worlds Strongest Warriors buyers guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the set two of this top ten's SPs reprint, and the [OP-14 Azure Seas Seven buyers guide](/blog/op-14-azure-seas-seven-buyers-guide/) prices the set behind the Hancock Heroine Leader alternate art.",
+          "The Gift Collection is the other way into EB-05 packs. The Gift Collection ONE PIECE Heroines, GC-2026, released November 20, 2026 at $44.99 with 2 EB-05 packs, 10 promo cards, and 70 sleeves. It is not on our shelf as of November 20, 2026, and it is not a cheaper route to the chase: two packs at MSRP are $9.98 of the $44.99, and the rest is sleeves and promos."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card, who should buy the single: the Yabuki Nami is 15.51 case boxes and 1.29 whole cases, and no pull rate exists to price the chase any other way. It is not for anyone who wants a single English box, because the only EB-05 product here is the twelve-box case. It is not for anyone who will pay a gold-stamped price without checking the stamp, because the plain Yabuki Nami is $61.68. It is not for anyone who needs the November 19 prices to hold: three alternate arts lost about four fifths of their value in a week. And it is not for anyone who needs a return on a date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Yabuki Nami, own the Robin Super Leader, own the ten, hold it sealed, or own the Heroines pool in English.",
+          "If the job is the Nami, buy the single: $1,527.75 gold-stamped on the November 19, 2026 TCGplayer market read, and check the stamp, because the plain copy is $61.68.",
+          "If the job is the ten, buy the English case at $1,182.38, twelve boxes at $98.53 each, and treat the chase as a bonus, not the plan.",
+          "If the job is one box, buy the TCGplayer box at $219.90, not a case you cannot split, and re-divide before you pay.",
+          "If the job is Vol. 1 instead, buy the EB-03 English box at $167.28, and read the EB-03 best cards guide first: its top ten totals $6,536.26.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and re-check the shelf price on the day you buy, because this set is three weeks old and its alt arts fell 80% in a week."
+        ],
+        "h": "Action layer: the EB-05 best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 20, 2026, and the card values are TCGplayer market prices checked November 19, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles, and the [OP-01 best cards guide](/blog/op-01-best-cards/) ranks the Romance Dawn set the same way."
+        ]
+      }
+    ],
+    "slug": "eb-05-best-cards",
+    "takeaway": [
+      "The EB-05 top ten, on TCGplayer market prices checked November 19, 2026, totals $5,593.65, and the top two are $2,794.70 of it, 49.96% of the whole list. The Yabuki Nami, EB05-055, is $1,527.75 of it, 27.31%. Five alternate arts at $3,675.36, five SPs at $1,918.29, and no base Super Rare or Secret Rare in the ten.",
+      "On our shelf as of November 20, 2026, there is exactly one EB-05 product: the English sealed case at $1,182.38, twelve boxes at $98.53 a box, $4.11 a pack, $0.34 a card, $21.23 below the MSRP box per box. There is no single English box and no Japanese box on the shelf. The Yabuki Nami is 15.51 case boxes and 1.29 whole cases. The case saves $1,456.42 against twelve TCGplayer boxes at $219.90 each.",
+      "It is worth buying as the Heroines pool in English, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Foilkraken's simulation puts the average opened box at $145.53 against a $219.90 sealed box, and only 16% of boxes beat the sealed price. Buy the single, or buy the case for the set and treat the chase as a bonus.",
+      "The ladder below the top two is sliding: the four SPs in the bottom six all fell between November 8 and November 19, the Nami SP by $136.15, 29.79%. Below the top ten, three alternate arts lost about four fifths of their value in the week after release. The top two held over the same eleven days: the Nami down $2.68, 0.18%, the Robin Super Leader up $1.46, 0.12%.",
+      "Companion guide: the [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks Heroines Edition Vol. 1 the same way, with the $1,436.07 Hancock SP against its box, and its top ten totals $6,536.26, $942.61 above this one. For the whole shelf as one dated board, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the Vol. 1 verdict that priced the first Heroines set the same way, the [EB-03 Heroines Edition buyers guide](/blog/eb-03-heroines-edition-buyers-guide/) carries the Vol. 1 shelf, and the [EB-03 investment guide](/blog/eb-03-investment/) runs Vol. 1 as a hold. For the set that split its English release, the [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks Egghead Crisis, whose Koby Manga at $569.92 is 2.68 times cheaper than the Yabuki Nami.",
+      "For the mainline-set side of the same ranking, the [OP-17 Worlds Strongest Warriors buyers guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the set behind the Pudding and Gerd SP reprints, and the [OP-14 Azure Seas Seven buyers guide](/blog/op-14-azure-seas-seven-buyers-guide/) prices the set behind the Hancock Heroine Leader alternate art.",
+      "Companion guide: the [OP-05 best cards guide](/blog/op-05-best-cards/) ranks Awakening of the New Era the same way, with the $5,700.00 Luffy Manga against its $158.62 Japanese box, and its top ten totals $14,564.64."
     ]
   },
   "english-one-piece-booster-box-price": {
@@ -45947,7 +46177,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The ladder below the top ten collapses fast: the Sabo alternate art is $8.67, the Doflamingo alternate art, OP04-031, is $6.10, and the Vivi Secret Rare is $5.37, together $20.14 on the same dated TCGplayer read. The five chases priced on November 4 have fallen 6.80% in sixteen days, and the Sabo Manga fell 7.10% in a week. Two facts from the earlier guides are corrected on this page: the Japanese official box is 5,280 yen at 220 yen a pack, and the English pack MSRP is $4.49.",
       "Companion guide: the [is OP-04 worth buying guide](/blog/is-op-04-worth-buying/) prices the same four products at the November 12 prices, before the second leg of the fall, and the [OP-04 investment guide](/blog/op-04-investment/) runs the same division for the holder at the November 17 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
       "For the mainline-set side of the same ranking, the [OP-03 best cards guide](/blog/op-03-best-cards/) ranks Pillars of Strength the same way.",
-      "For the Extra Booster side of the same ranking, the [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks Egghead Crisis the same way, with the $569.92 Koby Manga against its box."
+      "For the Extra Booster side of the same ranking, the [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks Egghead Crisis the same way, with the $569.92 Koby Manga against its box.",
+      "Companion guide: the [OP-05 best cards guide](/blog/op-05-best-cards/) ranks Awakening of the New Era the same way, with the $5,700.00 Luffy Manga against its $158.62 Japanese box, and its top ten totals $14,564.64."
     ]
   },
   "op-04-investment": {
@@ -46532,6 +46763,204 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move; the method does not. Choose the language first, divide the case second, and never assume a case discounts: on this set the Japanese case charges a premium and the English case pays a saving of $780.75 — and the English single box sits $361.04 below the dated market figure.",
       "For the successor set, see [OP-06 Wings of the Captain Buyer's Guide](/blog/op-06-wings-of-the-captain-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/). For the predecessor set, see [OP-04 Kingdoms of Intrigue Buyer's Guide](/blog/op-04-kingdoms-of-intrigue-buyers-guide/).",
       "New this cycle: the [is OP-05 worth buying guide](/blog/is-op-05-worth-buying/) re-prices this set on November 12, 2026, with the English box down 20% to $496.80 and the April 1, 2027 rotation deadline attached."
+    ]
+  },
+  "op-05-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Monkey.D.Luffy Manga Rare, OP05-119, at $5,700.00 on TCGplayer market as of November 20-21, 2026, from the Bounty November 2, 2026 snapshot and the Rare Candy October 2026 list updated November 5. It is the Gear 5 Luffy over black-and-white manga panels, the first Manga Rare of the game's most collected character, and it is $700.01 ahead of the second card on this list, the gold-stamped Luffy SP at $4,999.99. Treat the $5,700.00 as a thin-market read: InkSight's November 19, 2026 snapshot shows no market price for it, only a $5,000.00 lowest ask, because few copies trade.",
+        "q": "What is the most valuable OP-05 card?"
+      },
+      {
+        "a": "No, not as a plan. The Luffy Manga is $5,700.00 on TCGplayer market as of November 20-21, 2026, which is 35.93 Japanese boxes at $158.62 and 13.50 English boxes at $422.28, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. The only community odds on record are TCGComp's July 10, 2026 estimate from a 1,900-pack sample, about 1 in 480 packs for any Manga Rare, which is a community observation, not a Bandai rate. Buy the single if the card is the job, or buy the box to open Awakening of the New Era and treat the chase as a bonus.",
+        "q": "Should I buy an OP-05 box to pull the Luffy Manga card?"
+      },
+      {
+        "a": "Yes, until March 31, 2027. OP-05 is Block 2, and Bandai's published Standard window for April 2026 to March 2027 allows Blocks 2 through 5, so the set is Standard-legal now. On April 1, 2027 Block 2 leaves Standard and OP-05 moves to Extra Regulation with OP-06, OP-07, and OP-08. One exception survives the rotation in Bandai's own block rules: Super Parallel Rares carry Block X, which keeps the five SPs on this list Standard-legal after April 2027. Buy the box for the set, not for Standard play past March.",
+        "q": "Is OP-05 still legal in Standard tournaments?"
+      }
+    ],
+    "h1": "OP-05 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-05 is the Monkey.D.Luffy Manga Rare, OP05-119, at $5,700.00 on TCGplayer market as of November 20-21, 2026. The chase is three Manga Rares, five Special Parallels, and two alternate arts, and the ten together are $14,564.64. The gold-stamped Luffy SP, ST01-012, is second at $4,999.99, and the top two together are $10,699.99, 73.47% of the whole list. On our shelf, November 20-21, 2026, the [OP-05 Japanese booster box](/product/op-05-awakening-of-the-new-era-booster-box-japanese-one-piece-card/) is $158.62 and the [OP-05 English booster box](/product/op-05-awakening-of-the-new-era-booster-box-english-one-piece-card/) is $422.28, after falls of 15.00% Japanese and 32.00% English since November 5. Buy the box for the Awakening set, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-05 chase, buyers choosing between the Japanese and English box after the repricing, and players who want Block 2 cards while they are still Standard-legal. Who it is not for: anyone chasing one named card by opening boxes, anyone who needs Standard-legal cards past March 31, 2027, and anyone buying a sealed box as a guaranteed investment, because the whole set fell a median 9.50% in a month."
+    ],
+    "metaDescription": "OP-05 best cards ranked on TCGplayer market prices, Nov 20-21, 2026: the $5,700.00 Luffy Manga, the $4,999.99 Luffy SP, and the $158.62 Japanese box.",
+    "metaTitle": "OP-05 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: two Luffys are $10,699.99 of the list",
+        "paragraphs": [
+          "The ranking below is one dated read, and the dates differ by card because no single page prices all ten on the same day. Every value is a TCGplayer market price checked November 20-21, 2026, drawn from Bounty's November 2 snapshot, InkSight's verified November 19 snapshot, TCGGG's November 16 TCGplayer-derived reads, and Rare Candy's October 2026 list, updated November 5. The ten add to $14,564.64, and the top two are $10,699.99 of it, 73.47% of the list. Monkey.D.Luffy Manga, OP05-119, is $5,700.00, and the gold-stamped Luffy SP, ST01-012, pulled from OP-05 packs, is $4,999.99, only $700.01 behind. Behind them the list falls off a cliff: Trafalgar Law Manga, OP05-069, is $1,700.87, Eustass Kid Manga, OP05-074, is $925.50, Nami SP, OP01-016, is $472.03, and Uta SP, OP02-120, is $212.87. The bottom four are Yamato SP, OP01-121, at $172.41, the Gear 5 Luffy Secret Rare alt art, OP05-119, at $169.99, Enel SP alt art, OP05-100, at $110.59, and Kaido SP, OP04-044, at $100.39.",
+          "The split is the story, and it is not the split a buyer expects from a mainline set. Three of the ten are the set's Manga Rares, together $8,326.37, or 57.17% of the top ten. Five of the ten are Special Parallels, together $5,957.69, or 40.91% of the top ten, and four of those five carry card numbers from OP-01 to OP-04: they are reprints pulled from OP-05 packs, not OP-05 cards. The two remaining cards, the Gear 5 Secret Rare alt art and the Enel SP alt art, are $280.58 together, 1.93% of the list. No base-print card makes the list, and no leader alternate art does either: the four leader alternate arts together are $206.53, 1.42% of the top ten.",
+          "A collector chasing the Luffy Manga buys the single, because the card is 35.93 Japanese boxes and 13.50 English boxes, and no pull rate exists to price the chase any other way. A collector who wants the Awakening pool buys the Japanese box at $158.62, the cheapest way into all ten cards at once; the [OP-05 investment guide](/blog/op-05-investment/) verdicts the same four products at the November 5 prices. The [OP-04 best cards guide](/blog/op-04-best-cards/) ranks Kingdoms of Intrigue the same way."
+        ]
+      },
+      {
+        "h": "The money layer: the board, repriced twice",
+        "math": [
+          "OP-05 Japanese box per pack: $158.62 / 24 packs = $6.61 per pack",
+          "OP-05 Japanese box per card: $158.62 / 144 cards = $1.10 per card",
+          "OP-05 Japanese case per box: $1,908.02 / 12 boxes = $159.00 per box",
+          "OP-05 Japanese case vs singles: 12 x $158.62 = $1,903.44; $1,908.02 - $1,903.44 = $4.58 more ($0.38 per box)",
+          "OP-05 Japanese case per pack: $1,908.02 / 288 packs = $6.63 per pack",
+          "OP-05 Japanese case per card: $1,908.02 / 1,728 cards = $1.10 per card",
+          "OP-05 English box per pack: $422.28 / 24 packs = $17.60 per pack",
+          "OP-05 English box per card: $422.28 / 288 cards = $1.47 per card",
+          "OP-05 English case per box: $4,536.45 / 12 boxes = $378.04 per box",
+          "OP-05 English case saving: 12 x $422.28 = $5,067.36; $5,067.36 - $4,536.45 = $530.91 saved ($44.24 per box)",
+          "OP-05 English case per pack: $4,536.45 / 288 packs = $15.75 per pack",
+          "OP-05 English case per card: $4,536.45 / 3,456 cards = $1.31 per card",
+          "OP-05 language gap per box: $422.28 - $158.62 = $263.66; $263.66 / 24 packs = $10.99 per pack",
+          "OP-05 language gap per card: $1.47 - $1.10 = $0.37 per card",
+          "OP-05 Japanese box vs official price: 24 packs x 220 yen = 5,280 yen; 5,280 / 158.64 yen per dollar = $33.28; $158.62 / $33.28 = 4.77x",
+          "OP-05 English box vs MSRP: 24 packs x $4.49 = $107.76; $422.28 / $107.76 = 3.92x",
+          "OP-05 English box vs market: $961.00 - $422.28 = $538.72 below the November 19, 2026 InkSight market read",
+          "OP-05 market trackers disagree: $999.08 - $961.00 = $38.08 between the FoilKraken November 1 and InkSight November 19 reads",
+          "OP-05 Japanese repricing Nov 5 to Nov 20-21: $186.61 - $158.62 = $27.99; $27.99 is 15.00% of $186.61",
+          "OP-05 Japanese case repricing Nov 5 to Nov 20-21: $2,244.73 - $1,908.02 = $336.71; $336.71 is 15.00% of $2,244.73",
+          "OP-05 English box repricing Nov 5 to Nov 20-21: $621.00 - $422.28 = $198.72; $198.72 is 32.00% of $621.00",
+          "OP-05 English case repricing Nov 5 to Nov 20-21: $6,671.25 - $4,536.45 = $2,134.80; $2,134.80 is 32.00% of $6,671.25",
+          "OP-05 top 10 total: $5,700.00 + $4,999.99 + $1,700.87 + $925.50 + $472.03 + $212.87 + $172.41 + $169.99 + $110.59 + $100.39 = $14,564.64",
+          "OP-05 top 3 total: $5,700.00 + $4,999.99 + $1,700.87 = $12,400.86; $12,400.86 / $14,564.64 = 85.14% of the top 10",
+          "OP-05 top 2 total: $5,700.00 + $4,999.99 = $10,699.99; $10,699.99 / $14,564.64 = 73.47% of the top 10",
+          "OP-05 three Manga Rares total: $5,700.00 + $1,700.87 + $925.50 = $8,326.37; $8,326.37 / $14,564.64 = 57.17% of the top 10",
+          "OP-05 five SPs total: $4,999.99 + $472.03 + $212.87 + $172.41 + $100.39 = $5,957.69; $5,957.69 / $14,564.64 = 40.91% of the top 10",
+          "OP-05 Luffy Manga against the boxes: $5,700.00 / $158.62 = 35.93 Japanese boxes; $5,700.00 / $422.28 = 13.50 English boxes",
+          "OP-05 Luffy SP against the boxes: $4,999.99 / $158.62 = 31.52 Japanese boxes; $4,999.99 / $422.28 = 11.84 English boxes",
+          "OP-05 Law Manga against the boxes: $1,700.87 / $158.62 = 10.72 Japanese boxes; $1,700.87 / $422.28 = 4.03 English boxes",
+          "OP-05 Kid Manga against the boxes: $925.50 / $158.62 = 5.83 Japanese boxes; $925.50 / $422.28 = 2.19 English boxes",
+          "OP-05 top 10 against the boxes: $14,564.64 / $158.62 = 91.82 Japanese boxes; $14,564.64 / $422.28 = 34.49 English boxes",
+          "OP-05 Luffy Manga ahead of Law: $5,700.00 - $1,700.87 = $3,999.13; Law ahead of Kid: $1,700.87 - $925.50 = $775.37",
+          "OP-05 near misses below the top 10: $92.71 + $51.35 + $50.65 = $194.71; $194.71 / $158.62 = 1.23 Japanese boxes",
+          "OP-05 four leader alternate arts total: $92.71 + $51.35 + $38.40 + $24.07 = $206.53; $206.53 / $14,564.64 = 1.42% of the top 10",
+          "OP-05 rip expected value: $144.00 / $982.04 = 0.15x of the October 26, 2026 market box"
+        ],
+        "paragraphs": [
+          "All four OP-05 products repriced between November 5 and November 20-21, 2026: the Japanese pair fell exactly 15.00% and the English pair fell exactly 32.00%. The Japanese box went from $186.61 to $158.62 and the case from $2,244.73 to $1,908.02. The English box went from $621.00 to $422.28 and the case from $6,671.25 to $4,536.45. The November 5 prices are the ones the [OP-05 buyers guide](/blog/op-05-awakening-of-the-new-era-buyers-guide/) printed on that date.",
+          "The language gap is wide and the per-card gap runs the same way. The Japanese box is $158.62 for 24 packs of 6 cards, $6.61 a pack and $1.10 a card, against a 5,280 yen official box price that converts to $33.28 at 158.64 yen per dollar on the ECB November 20, 2026 reference rate, so the Japanese box is 4.77 times its official price. The English box is $422.28 for 24 packs of 12 cards, $17.60 a pack and $1.47 a card, against a $107.76 MSRP box, so it is 3.92 times its MSRP. English costs $263.66 more per box, $10.99 more per pack, and $0.37 more per card.",
+          "The cases point in opposite directions. The [Japanese case](/product/op-05-awakening-of-the-new-era-sealed-case-12-boxes-japanese-one-piece-card/) is $1,908.02, or $159.00 a box, which is $4.58 more than twelve singles at $1,903.44: thirty-eight cents a box for buying sealed. The [English case](/product/op-05-awakening-of-the-new-era-sealed-case-12-boxes-english-one-piece-card/) is $4,536.45, or $378.04 a box, which saves $530.91 against twelve singles at $5,067.36, or $44.24 a box. InkSight's November 19 market read puts the English box at $961.00, which leaves our $422.28 shelf price $538.72 below it, while FoilKraken's November 1 read lists the same box at $999.08, $38.08 above InkSight. On either read, this shelf undercuts the market by more than half."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: five ways to spend on OP-05, what each costs per pack, what it is for, and where it fails. Read your row, then read the failure column, because the failure is the verdict.",
+          "The single row is the only row that buys the card instead of the chance: the Luffy Manga at $5,700.00 is 35.93 Japanese boxes, and the Luffy SP at $4,999.99 is 31.52 Japanese boxes."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$158.62",
+              "$6.61",
+              "Opening Awakening of the New Era in Japanese",
+              "Chase not guaranteed; Standard ends Mar 31, 2027"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,908.02",
+              "$159.00 a box",
+              "Twelve Japanese boxes regardless of price",
+              "Costs $4.58 more than twelve singles"
+            ],
+            [
+              "English box",
+              "$422.28",
+              "$17.60",
+              "English cards, far below market",
+              "3.92x MSRP; Standard ends Mar 31, 2027"
+            ],
+            [
+              "English case (12)",
+              "$4,536.45",
+              "$15.75",
+              "English boxes in bulk",
+              "$4,536.45 committed at once; price can fall again"
+            ],
+            [
+              "The single",
+              "$5,700.00 Luffy Manga",
+              "n/a",
+              "Owning the chase card",
+              "No sealed upside; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the SPs, the dates, and the shelf",
+        "note": "From the Warehouse: the question we get most in chat about OP-05 is whether the English box price is a misprint, because buyers saw $621.00 on November 5 and $422.28 now and expect a listing error. It is not an error. The English shelf repriced 32% in fifteen days, and the Japanese shelf fell 15% in the same window. A buyer who learned from OP-04 that this shelf sits above the market will misread OP-05, because our English box sits $538.72 below one market tracker and $576.80 below another. Divide the shelf on its own date, every time, even when the last set taught you the pattern.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there, and most of them rank only the original prints. Rare Candy ranks ten original OP-05 prints on October 2026 prices, led by the Luffy Manga at $5,700.00. Bounty's November 2 snapshot ranks the whole game and puts the Luffy Manga at $5,700.00 with the Law Manga at $1,700.87. None of them ranks the ten cards you can actually pull from OP-05 packs on one dated TCGplayer read, because none of them counts the Special Parallels.",
+          "The gap this page owns is the SPs, and it owns it with two totals. The five SPs are $5,957.69, 40.91% of the top ten, and the gold-stamped Luffy SP alone is $4,999.99, the second card on the list. A list that excludes them pretends the second most valuable card in the packs does not exist. The second gap is the dates. Listings that date OP-05 to December 2, 2023 in Japan and February 23, 2024 in English are wrong on both ends: Bandai's official product pages give August 26, 2023 in Japan and December 8, 2023 in English. The third gap is the set size: the 121-card figure on some card lists counts base numbers, while Bandai's official product pages list 127 card types, 126 plus 1 in English.",
+          "The fourth gap is the repricing. The English box fell 32.00% and the Japanese box fell 15.00% since November 5, and the English box now sits $538.72 below the November 19 market read. The fifth gap is the pull rate. Bandai has never published pull rates for any One Piece set, so no expected-value math exists for the chase. The honest numbers are the breakevens: the Luffy Manga is 35.93 Japanese boxes, the Luffy SP is 31.52."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is two Luffys. The Manga Rare, OP05-119, is $5,700.00, 39.14% of the top ten combined. The gold-stamped SP, ST01-012, is $4,999.99, $700.01 behind, and 34.33% of the list. The Japanese market agrees on the order and disagrees on the price: in October 2026 the Luffy Manga traded at 598,000 to 698,000 yen raw in Japanese shops, and the most recent eBay sale was $5,600.00 on November 12, 2026.",
+          "The second rung is the other two Manga Rares, and the list falls off a cliff below them. Trafalgar Law Manga, OP05-069, is $1,700.87, $3,999.13 behind the Luffy Manga, and Eustass Kid Manga, OP05-074, is $925.50, $775.37 behind Law. The three Manga Rares together are $8,326.37, 57.17% of the top ten.",
+          "The third rung is the six cards from Nami down, and below them there is almost nothing. Nami SP, Uta SP, Yamato SP, the Gear 5 Secret Rare alt art, Enel SP alt art, and Kaido SP are $472.03, $212.87, $172.41, $169.99, $110.59, and $100.39, together $1,238.28, 8.50% of the top ten. Below the top ten the ladder collapses: the Luffy leader alternate art is $92.71, the Belo Betty leader alternate art is $51.35, and the Rob Lucci SP is $50.65, together $194.71 on the same dated TCGplayer reads, 1.23 Japanese boxes. A box opened for anything below the top ten is a box opened for bulk."
+        ]
+      },
+      {
+        "h": "The risk layer: the reprint, the rotation, and the $5,700 card",
+        "paragraphs": [
+          "The first risk is the reprint. The Luffy Manga has been reprinted in Premium Booster -The Best- with the same art and the same card number, OP05-119, and graded original OP-05 copies have sold for close to double the reprint, so check the set stamp on any Manga Rare single before you pay, because the same art and the same number appear on more than one product. The same warning covers the Law and Kid Manga Rares, which were reprinted in the same Premium Booster.",
+          "The second risk is the rotation, restated plainly: OP-05 is Block 2, and Block 2 leaves Standard on April 1, 2027, so the set plays in Extra Regulation from that date. As of November 21, 2026 that leaves about four months of Standard play. One exception survives in Bandai's own block rules: Super Parallel Rares carry Block X, which keeps the five SPs on this list Standard-legal after the rotation.",
+          "The third risk is the price direction, which points down across the set. TCGVault's November 17, 2026 comparison of every main-set card worth $10 or more puts OP-05 down a median 9.50% between mid-October and mid-November, with 19 of its 22 tracked cards falling. Rare Candy notes the Gear 5 Secret Rare alt art down about 31% over three months, and the Rob Lucci SP down 16% in thirty days. The fourth risk is the thin market at the top: InkSight's November 19 snapshot carries no market price for the Luffy Manga, only a $5,000.00 lowest ask, so one sale moves the number. The fifth risk is the reseal: verify the wrap, the seams, and the box before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand, because a sealed English box at $422.28 against a $961.00 market read is exactly the gap resealers monetize."
+        ]
+      },
+      {
+        "h": "Context: 127 card types, two languages, and the first three Manga Rares",
+        "paragraphs": [
+          "Awakening of the New Era is the first-anniversary set, the set where Gear 5 Luffy first appears on a card, and the first set to carry three Manga Rares. Bandai's official product pages list 127 card types, 126 plus 1 in English: 6 leaders, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, 2 Secret Rares, 6 Special Cards, 1 DON!! card, and 1 1st Anniversary Special card, with 27 plus 1 parallel illustration types on top. The six leaders are Sabo, Belo Betty, Donquixote Rosinante, Sakazuki, Monkey.D.Luffy, and Enel. The set's colours are explained in [One Piece Card Game Colors Explained](/blog/one-piece-card-game-colors-explained/).",
+          "The language gap is the context that decides the purchase. The Japanese box holds 24 packs of 6 cards, 144 cards, at $6.61 a pack. The English box holds 24 packs of 12 cards, 288 cards, at $17.60 a pack and $1.47 a card, dearer per card than the Japanese box's $1.10. Cost per pack favours Japanese by $10.99; cost per card by $0.37. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) rank all the boxes to per-pack prices.",
+          "Japan got Awakening of the New Era on August 26, 2023; English followed on December 8, 2023, a gap of just over three months. The December 2, 2023 and February 23, 2024 dates on some OP-05 listings belong to no Bandai product page for this set. Two price facts from the earlier guides also need correcting here: the Japanese official box price is 24 packs at 220 yen, 5,280 yen, because the 198-yen to 220-yen rise happened at OP-04, and the English pack MSRP is $4.49, not $4.19, so the MSRP box is $107.76."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Luffy Manga is 35.93 Japanese boxes and 13.50 English boxes, and no pull rate exists to price the chase. It is not for anyone who needs Standard-legal cards past March 31, 2027, because OP-05 rotates out on April 1, 2027, with only the five SPs surviving as Block X exceptions. It is not for anyone buying the Japanese case without accepting $1,908.02 committed at once for twelve boxes that cost $4.58 more than twelve singles. And it is not for anyone who treats a sealed box as a guaranteed investment, because the set fell a median 9.50% in a month and the rip expected value was $144.00 against a $982.04 market box."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Luffy Manga, own the Luffy SP, own the three Manga Rares, hold the Awakening set sealed, or own it in English.",
+          "If the job is the Luffy Manga, buy the single: $5,700.00 on TCGplayer market as of November 20-21, 2026, and check the set stamp, because the same number appears on the Premium Booster reprint.",
+          "If the job is the Luffy SP, buy the single at $4,999.99, which is 31.52 Japanese boxes, and do not open boxes for it, because no pull rate exists.",
+          "If the job is the Japanese box, pay $158.62, or $6.61 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $422.28 for the box, or $378.04 a box in the case, and check the listing against the $961.00 InkSight market read before you pay.",
+          "If the job is a case, divide it first: Japanese costs $0.38 a box more than singles, English saves $44.24 a box. Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-05 shelf moved 32.00% in fifteen days on the English side."
+        ],
+        "h": "Action layer: the OP-05 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price on this page is stamped November 20-21, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+        ]
+      }
+    ],
+    "slug": "op-05-best-cards",
+    "takeaway": [
+      "The OP-05 top ten, on TCGplayer market prices checked November 20-21, 2026, totals $14,564.64, and the Monkey.D.Luffy Manga Rare, OP05-119, is $5,700.00 of it, 39.14% of the whole list. The gold-stamped Luffy SP, ST01-012, is $4,999.99, and the top two together are $10,699.99, 73.47% of the list. Three of the ten are Manga Rares, together $8,326.37, 57.17% of the top ten; five are Special Parallels, together $5,957.69, 40.91% of the top ten.",
+      "On our shelf as of November 20-21, 2026, the Japanese box is $158.62 and the English box is $422.28. The Japanese pair fell exactly 15.00% since November 5, 2026, and the English pair fell exactly 32.00% in the same window. The Luffy Manga is 35.93 Japanese boxes and 13.50 English boxes, and the Luffy SP is 31.52 Japanese boxes and 11.84 English boxes. The Japanese case costs $0.38 a box more than twelve singles, and the English case saves $44.24 a box. The English box sits $538.72 below the November 19, 2026 market read of $961.00.",
+      "It is worth buying as the first-anniversary set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
+      "The ladder below the top ten collapses fast: the Luffy leader alternate art is $92.71, the Belo Betty leader alternate art is $51.35, and the Rob Lucci SP is $50.65, together $194.71 on the same dated TCGplayer reads. The set fell a median 9.50% between mid-October and mid-November 2026. Two facts from the earlier guides are corrected on this page: OP-05 released in Japan on August 26, 2023 and in English on December 8, 2023, not December 2, 2023 and February 23, 2024, and Bandai lists 127 card types, not 121.",
+      "Companion guide: the [is OP-05 worth buying guide](/blog/is-op-05-worth-buying/) prices the same four products at the November 5 prices, before the second leg of the fall, and the [OP-05 investment guide](/blog/op-05-investment/) runs the same division for the holder at the November 5 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the mainline-set side of the same ranking, the [OP-04 best cards guide](/blog/op-04-best-cards/) ranks Kingdoms of Intrigue the same way.",
+      "For the Extra Booster side of the same ranking, the [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks Heroines Edition the same way.",
+      "Companion guide: the [EB-05 best cards guide](/blog/eb-05-best-cards/) ranks Heroines Edition Vol. 2 the same way, with the $1,527.75 Yabuki Nami against its $1,182.38 English case, and its top ten totals $5,593.65."
     ]
   },
   "op-05-investment": {
