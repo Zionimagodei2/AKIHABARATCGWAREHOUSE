@@ -28560,7 +28560,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the game its Law Manga card and the Dressrosa and Punk Hazard themes, sealed in either language, and it is not worth buying as a way to own one named card or to make the money back by opening. The Law Manga sat at $663.31 on TCGplayer market as of November 11, 2026, which is 6.75 Japanese boxes. Pullnomics models the English box at $73.12 expected value, 0.30 times its market price. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the English box dropped $35.87 in eight days, from $179.34 to $143.47, exactly twenty percent, and the English case dropped $319.20 in the same window, while the Japanese box did not move at all. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 11 to November 12, 2026. The English side now sits below every market while the Japanese box sits $77.52 below the predecessor set's $175.78 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [OP-10 Royal Blood buyer's guide](/blog/op-10-royal-blood-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-09 worth buying guide](/blog/is-op-09-worth-buying/) runs the same verdict on the predecessor set. For the investment division on this set, see [OP-10 Royal Blood Investment Guide](/blog/op-10-investment/)."
+      "For the price-and-math companion, the [OP-10 Royal Blood buyer's guide](/blog/op-10-royal-blood-buyers-guide/) runs all four products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-09 worth buying guide](/blog/is-op-09-worth-buying/) runs the same verdict on the predecessor set. For the investment division on this set, see [OP-10 Royal Blood Investment Guide](/blog/op-10-investment/).",
+      "For the same set ranked card by card, the [OP-10 best cards guide](/blog/op-10-best-cards/) ranks the ten most valuable Royal Blood cards on TCGplayer market prices checked November 20-21, 2026, with the $661.35 Law Manga at the top."
     ]
   },
   "is-op-11-worth-buying": {
@@ -28751,7 +28752,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the English box dropped $97.33 in eight days, from $486.65 to $389.32, exactly twenty percent, while the Japanese box did not move at all. A box bought as an investment can fall as fast as it rose, and the set value does not protect the sealed price.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of October 23 to November 12, 2026. The English box now sits below every market while the Japanese box sits $82.95 above the predecessor set's $98.26 box, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [OP-11 A Fist of Divine Speed buyer's guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) runs all three products side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-10 worth buying guide](/blog/is-op-10-worth-buying/) runs the same verdict on the predecessor set.",
-      "For the investment division on the same three products, see [OP-11 A Fist of Divine Speed Investment](/blog/op-11-investment/)."
+      "For the investment division on the same three products, see [OP-11 A Fist of Divine Speed Investment](/blog/op-11-investment/).",
+      "For the same set ranked card by card, the [OP-11 best cards guide](/blog/op-11-best-cards/) ranks the ten most valuable A Fist of Divine Speed cards on TCGplayer market prices checked November 20, 2026, with the $13,000.00 Gold Luffy at the top."
     ]
   },
   "is-op-12-worth-buying": {
@@ -49152,7 +49154,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [is OP-09 worth buying guide](/blog/is-op-09-worth-buying/) prices the same three products at the November 12 prices, before the second leg of the fall, and the [OP-09 investment guide](/blog/op-09-investment/) runs the same division for the holder at the November 17 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
       "For the mainline-set side of the same ranking, the [OP-08 best cards guide](/blog/op-08-best-cards/) ranks Two Legends the same way.",
       "For the set before this one in the same ranking, the [OP-07 best cards guide](/blog/op-07-best-cards/) ranks 500 Years in the Future the same way, with the $2,175.48 Hancock Manga at the top.",
-      "Companion guide: the [OP-08 investment guide](/blog/op-08-investment/) verdicts the set before this one at the November 17 prices, with its market box at $242.65 against OP-09's $631.37."
+      "Companion guide: the [OP-08 investment guide](/blog/op-08-investment/) verdicts the set before this one at the November 17 prices, with its market box at $242.65 against OP-09's $631.37.",
+      "For the next sets in the same ranking, the [OP-10 best cards guide](/blog/op-10-best-cards/) ranks Royal Blood the same way, with the $661.35 Law Manga at the top, and the [OP-11 best cards guide](/blog/op-11-best-cards/) ranks A Fist of Divine Speed the same way, with the $13,000.00 Gold Luffy at the top."
     ]
   },
   "op-09-emperors-in-the-new-world-buyers-guide": {
@@ -49535,6 +49538,199 @@ export const POSTS: Record<string, BlogPost> = {
       "The OP-09 English box is the buy: $367.01 divides to $15.29 a pack and $1.27 a card, $264.36 below the November 17, 2026 market figure of $631.37, 41.87% below market, and $170.99 below the sold-first reference of $538 from November 16, 2026, after a 32% repricing in twelve days. The Japanese box at $149.41 is the opener's buy, $6.23 a pack, and the Japanese case at $1,793.31 is twelve boxes in one carton that costs $0.39 more than the singles, with no English case on the shelf at all.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the market figure as of November 17, 2026, the sold-first reference as of November 16, 2026, and the Roger ask as of October 7, 2026. When the next repricing lands, re-run the division.",
       "For the opener's version of this set, the [OP-09 Emperors in the New World buyer's guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/) prices the same three products for opening rather than holding, and [is OP-09 worth buying](/blog/is-op-09-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-08 Two Legends investment guide](/blog/op-08-investment/) runs the same division on the set that leaves Standard on April 1, 2027. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry. For the set after, the [OP-10 Royal Blood investment guide](/blog/op-10-investment/) runs the same division on the set that follows Emperors in the New World. For the chase ranked card by card, the [OP-09 best cards guide](/blog/op-09-best-cards/) prices the ten worth chasing on TCGplayer market reads dated November 19, 2026."
+    ]
+  },
+  "op-10-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Trafalgar Law Manga, OP10-119, at $661.35 on TCGplayer market as of November 20-21, 2026, from the TCGPursuit and RareTracker reads. It is 49.74% of the whole top ten on its own, 3.16 times the second card, the Edward.Newgate SP at $209.47, and 226.49 times its own base Secret Rare at $2.92. The reads disagree at the edges, not the top: WhatTheSlab's October 19 read puts the Law Manga raw at $602.25 with a PSA 10 at $880.50, and InkSight's November 19 table agrees on $661.35 while its prose quotes a stale August 16 snapshot. There is no Zoro Manga and no Sanji Manga in OP-10: Law is the set's only Manga Rare.",
+        "q": "What is the most valuable OP-10 card?"
+      },
+      {
+        "a": "No, not as a plan. The Law Manga is $661.35 on the November 20-21, 2026 read, which is 7.92 Japanese boxes at $83.52 and 5.42 English boxes at $121.95, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Community estimates put a Manga Rare at about 1 in 37 boxes, and those are estimates, not Bandai numbers. Pullnomics' current model prices a market box's contents at $68.70 against a $247.06 market box, 0.28 times, and $38.86 with no case hit, 0.32 times our English box. Buy the single if the card is the job, or buy the box to open Royal Blood and treat the chase as a bonus.",
+        "q": "Should I buy an OP-10 box to pull the Law Manga?"
+      },
+      {
+        "a": "Yes, through March 31, 2028. OP-10 is Block 3, and Bandai's published Standard windows keep Blocks 3 through 6 legal for April 2027 to March 2028, so the set is Standard-legal now and survives the April 1, 2027 rotation that takes Block 2, OP-05 to OP-08, out of Standard. OP-10 shares that window with OP-09: both are Block 3, and both play on for another year past that rotation. Buy the box for the set, and check the block icon on the card, not just the set code, before you build with it.",
+        "q": "Is OP-10 still legal in Standard tournaments?"
+      }
+    ],
+    "h1": "OP-10 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-10 is the Trafalgar Law Manga, OP10-119, at $661.35 on TCGplayer market as of November 20-21, 2026, 49.74% of the whole top ten on its own. The ten add to $1,329.69: one Manga Rare, five Special Parallels, two Leader Parallels, one Treasure Rare, and one Parallel Secret Rare, with the Edward.Newgate SP second at $209.47. On our shelf, November 21, 2026, the [OP-10 Royal Blood Japanese booster box](/product/op-10-royal-blood-booster-box-japanese-one-piece-card/) is $83.52 and the [OP-10 Royal Blood English booster box](/product/op-10-royal-blood-booster-box-english-one-piece-card/) is $121.95, after falls of 15.00% Japanese and 32.00% English since November 5. Law is the only Manga Rare. Buy the box for the Royal Blood set, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-10 chase, buyers choosing between the Japanese and English box or case, and players who want Block 3 cards that stay Standard-legal through March 2028. Who it is not for: anyone chasing one named card by opening boxes, anyone who treats a sealed box as a way to make money, and anyone who expects a Zoro or Sanji Manga, because neither card exists."
+    ],
+    "metaDescription": "OP-10 best cards ranked on TCGplayer market prices, Nov 20-21, 2026: the $661.35 Law Manga, the $209.47 Whitebeard SP, and the $83.52 Japanese box.",
+    "metaTitle": "OP-10 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Law is 49.74% of the list",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 20-21, 2026, from the TCGPursuit and RareTracker reads, which agree on the Law Manga at $661.35. The ten add to $1,329.69, and the top card alone is $661.35, 49.74% of the list. Trafalgar Law Manga, OP10-119, is $661.35, and the Edward.Newgate SP, ST15-002, is $209.47, $451.88 behind. Behind them run the Sanji SP, ST14-003, at $116.19, Uso-Hachi SP, ST18-001, at $100.27, Charlotte Pudding SP, ST12-012, at $49.22, Charlotte Flampe SP, EB01-056, at $43.05, Portgas.D.Ace Treasure Rare, OP08-052, at $41.72, Divine Departure Parallel, OP10-019, at $39.74, Trafalgar Law Leader Parallel, OP10-022, at $38.03, and Sugar Leader Parallel, OP10-003, at $30.65. Every card clears $30; only the top four clear $100.",
+          "The split is the story, and it is the split only a set with one Manga Rare produces. Five of the ten are Special Parallels, together $518.20, or 38.97% of the top ten, and all five are reprints from older sets: Whitebeard from ST15, Sanji from ST14, Uso-Hachi from ST18, Pudding from ST12, Flampe from EB01. The Law Manga alone is $661.35, more than all five SPs combined. The other four are the set's own printings, together $150.14. RareTracker's November 21 full set value is about $1,662.64, so the top ten are 79.97% of the whole set.",
+          "A collector chasing the Law Manga buys the single: the card is 7.92 Japanese boxes and 5.42 English boxes, and no pull rate prices the chase any other way. A collector who wants the Royal Blood pool buys the Japanese box at $83.52, the cheapest way into all ten cards; the [OP-10 Royal Blood buyers guide](/blog/op-10-royal-blood-buyers-guide/) prices the same four products at the November 17 prices on this shelf today. The base versions tell the other side: the Law Secret Rare base is $2.92 and the Luffy Secret Rare base is $3.64, so the Manga and Parallel premiums are pure chase art, not play value."
+        ]
+      },
+      {
+        "h": "The money layer: four products, and a shelf that stopped moving",
+        "math": [
+          "OP-10 Japanese box per pack: $83.52 / 24 packs = $3.48 per pack",
+          "OP-10 Japanese box per card: $83.52 / 144 cards = $0.58 per card",
+          "OP-10 Japanese case per box: $1,002.93 / 12 boxes = $83.58 per box",
+          "OP-10 Japanese case vs singles: 12 x $83.52 = $1,002.24; $1,002.93 - $1,002.24 = $0.69 more ($0.06 per box)",
+          "OP-10 Japanese case per pack: $1,002.93 / 288 packs = $3.48 per pack",
+          "OP-10 Japanese case per card: $1,002.93 / 1,728 cards = $0.58 per card",
+          "OP-10 English box per pack: $121.95 / 24 packs = $5.08 per pack",
+          "OP-10 English box per card: $121.95 / 288 cards = $0.42 per card",
+          "OP-10 English box vs MSRP: 24 packs x $4.99 = $119.76; $121.95 - $119.76 = $2.19 above MSRP; $121.95 / $119.76 = 1.02x",
+          "OP-10 English box vs market: $247.06 - $121.95 = $125.11 below the November 20-21, 2026 market figure; $125.11 / $247.06 = 50.64% below market",
+          "OP-10 English case per box: $1,085.27 / 12 boxes = $90.44 per box",
+          "OP-10 English case vs singles: 12 x $121.95 = $1,463.40; $1,463.40 - $1,085.27 = $378.13 saved ($31.51 per box)",
+          "OP-10 English case per pack: $1,085.27 / 288 packs = $3.77 per pack",
+          "OP-10 English case per card: $1,085.27 / 3,456 cards = $0.31 per card",
+          "OP-10 language gap per box: $121.95 - $83.52 = $38.43; $38.43 / 24 packs = $1.60 per pack",
+          "OP-10 language gap per card: $0.58 - $0.42 = $0.16 per card",
+          "OP-10 Japanese box vs official price: 24 packs x 220 yen = 5,280 yen; 5,280 / 158.64 yen per dollar = $33.28; $83.52 / $33.28 = 2.51x",
+          "OP-10 Japanese box repricing Nov 5 to Nov 21: $98.26 - $83.52 = $14.74; $14.74 is 15.00% of $98.26",
+          "OP-10 Japanese case repricing Nov 5 to Nov 21: $1,179.92 - $1,002.93 = $176.99; $176.99 is 15.00% of $1,179.92",
+          "OP-10 English box repricing Nov 5 to Nov 21: $179.34 - $121.95 = $57.39; $57.39 is 32.00% of $179.34",
+          "OP-10 English case repricing Nov 5 to Nov 21: $1,595.99 - $1,085.27 = $510.72; $510.72 is 32.00% of $1,595.99",
+          "OP-10 top 10 total: $661.35 + $209.47 + $116.19 + $100.27 + $49.22 + $43.05 + $41.72 + $39.74 + $38.03 + $30.65 = $1,329.69",
+          "OP-10 top 5 total: $661.35 + $209.47 + $116.19 + $100.27 + $49.22 = $1,136.50; $1,136.50 / $1,329.69 = 85.47% of the top 10",
+          "OP-10 Law Manga share: $661.35 / $1,329.69 = 49.74% of the top 10",
+          "OP-10 five SPs total: $209.47 + $116.19 + $100.27 + $49.22 + $43.05 = $518.20; $518.20 / $1,329.69 = 38.97% of the top 10",
+          "OP-10 Law Manga vs second card: $661.35 - $209.47 = $451.88; $661.35 / $209.47 = 3.16x the Whitebeard SP",
+          "OP-10 Law Manga vs base print: $661.35 / $2.92 = 226.49x the base Law Secret Rare",
+          "OP-10 Luffy SEC Parallel vs base: $24.40 / $3.64 = 6.70x the base Luffy Secret Rare",
+          "OP-10 Law Manga against the boxes: $661.35 / $83.52 = 7.92 Japanese boxes; $661.35 / $121.95 = 5.42 English boxes",
+          "OP-10 top 10 against the boxes: $1,329.69 / $83.52 = 15.92 Japanese boxes; $1,329.69 / $121.95 = 10.90 English boxes",
+          "OP-10 top 10 share of full set: $1,329.69 / $1,662.64 = 79.97% of the set value; $1,662.64 - $1,329.69 = $332.95 for the rest of the set",
+          "OP-10 near misses below the top 10: $30.63 + $24.40 + $21.65 + $20.59 = $97.27; $97.27 / $83.52 = 1.16 Japanese boxes; $97.27 / $121.95 = 0.80 English boxes",
+          "OP-10 rip expected value: $68.70 / $247.06 = 0.28x of the current market box; $38.86 / $121.95 = 0.32x of our English box"
+        ],
+        "paragraphs": [
+          "All four OP-10 products repriced between November 5 and November 17, 2026, and none moved again by November 21. The Japanese box went from $98.26 to $83.52 and the case from $1,179.92 to $1,002.93; the English box from $179.34 to $121.95 and the case from $1,595.99 to $1,085.27. The [OP-10 Royal Blood buyers guide](/blog/op-10-royal-blood-buyers-guide/) printed the November 5 prices, and the [OP-10 investment guide](/blog/op-10-investment/) printed the November 17 prices.",
+          "The Japanese box is $83.52 for 24 packs of 6 cards, $3.48 a pack and $0.58 a card, against a 5,280 yen official box price, $33.28 at 158.64 yen per dollar on the ECB November 20, 2026 reference rate, so the Japanese box is 2.51 times its official price. November 21 is a Saturday, so no new fixing exists. The English box is $121.95 for 24 packs of 12 cards, $5.08 a pack and $0.42 a card, against a $119.76 MSRP box, so it is $2.19 above MSRP, 1.02 times. English costs $38.43 more per box and $1.60 a pack, but $0.16 less per card. The market box read is $247.06 on Pullnomics' November 20-21 check, $125.11 above our $121.95 shelf price.",
+          "The cases split opposite ways. The [Japanese case](/product/op-10-royal-blood-sealed-case-12-boxes-japanese-one-piece-card/) is $1,002.93, or $83.58 a box, which is $0.69 more than twelve singles at $1,002.24: six cents a box for the carton. The [English case](/product/op-10-royal-blood-sealed-case-12-boxes-english-one-piece-card/) is $1,085.27, or $90.44 a box, which saves $378.13 against twelve singles at $1,463.40: $31.51 a box. The English case is the only case that pays for itself, and the cheapest English box on the shelf by $31.51."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on OP-10, what each costs, what it is for, and where it fails.",
+          "The single row buys the card instead of the chance: the Law Manga is 7.92 Japanese boxes, the Whitebeard SP 2.51."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$83.52",
+              "$3.48",
+              "Opening Royal Blood in Japanese",
+              "Chase not guaranteed; 2.51x official price"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,002.93",
+              "$83.58 a box",
+              "Twelve Japanese boxes regardless of price",
+              "Costs $0.69 more than twelve singles"
+            ],
+            [
+              "English box",
+              "$121.95",
+              "$5.08",
+              "English cards, 50.64% below market",
+              "1.02x MSRP; $31.51 dearer per box than the case"
+            ],
+            [
+              "English case (12)",
+              "$1,085.27",
+              "$90.44 a box",
+              "Cheapest English box on the shelf",
+              "Twelve boxes at once; $1,085.27 up front"
+            ],
+            [
+              "The single",
+              "$661.35 Law Manga",
+              "n/a",
+              "Owning the chase card",
+              "Price moves between reads; grading and condition risk"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the prices, the split, and the shelf",
+        "note": "From the Warehouse: the question we get most in chat about OP-10 is whether the Law Manga is really worth more than three Whitebeard SPs, because buyers see $661.35 in one place and $602.25 raw in another. Both numbers are real reads from real dates: the $661.35 is the TCGplayer market read of November 20-21, 2026, and the $602.25 is WhatTheSlab's October 19 raw read, with a PSA 10 at $880.50. Quote the date with the number, every time, or the number means nothing.",
+        "paragraphs": [
+          "The top lists for this query rank the cards and stop there, and most rank them on playability instead of prices. TakoGNC's competitive guide, dated March 5, 2025, ranks OP-10 cards for play, no prices. LINEGAMES' 10 best cards, from January 2025, is playability only, stale before the English release of March 21, 2025. The third result is a HubPages Final Fantasy list, irrelevant to Royal Blood. None of the three gives a dated price, a box cost, or a legality window.",
+          "The gap this page owns is the dated price itself. No other best-cards list for OP-10 carries November 2026 prices: the Law Manga at $661.35, the Whitebeard SP at $209.47, and the full ten at $1,329.69, all on TCGplayer market reads of November 20-21, 2026. The second gap is the play-versus-value split: the base Law Secret Rare is $2.92 and the base Luffy Secret Rare is $3.64, so the Manga and Parallel premiums are chase art, not play value. The third gap is the box economics: a market box at $247.06 against an expected value of $68.70, 0.28 times, with $38.86 and no case hit. The fourth gap is legality: OP-10 is Block 3 and Standard-legal through March 31, 2028. The fifth gap is the SP and Treasure Rare coverage: the five SPs are $518.20, 38.97% of the top ten.",
+          "The disagreements are reported, not smoothed over. The November 19 read had the Sanji SP at $117.87, the Pudding SP at $51.82, and Urouge SP tenth; the November 20-21 read has Sugar Leader Parallel tenth at $30.65, with Urouge SP at $30.63, two cents behind. WhatTheSlab's October 19 read puts the Law Manga raw at $602.25 with a PSA 10 at $880.50, below the November market read of $661.35. InkSight's November 19 table agrees on the Law Manga at $661.35, but its prose quotes a stale August 16 snapshot, so this page cites the table only. CardCenteringTool is not cited anywhere on this page: its prices contradict the TCGplayer market reads and it is not a reliable source."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "note": "From the Warehouse: the question we get second most about OP-10 is whether to chase the Law Manga or settle for the Whitebeard SP, because $661.35 against $209.47 looks like a choice between one card and three. It is not a choice between equals: the Law Manga is the set's only Manga Rare, one card in the whole set, and the Whitebeard SP is one of five SPs spread across five older sets. Buy the Law if the job is the set's chase card; buy the Whitebeard if the job is the best SP on the list.",
+        "paragraphs": [
+          "The top of the ladder is one Law. The Trafalgar Law Manga, OP10-119, is $661.35, 49.74% of the top ten and 3.16 times the second card, and it is the only Manga Rare in the set: there is no Zoro Manga and no Sanji Manga in OP-10. The Law Manga is 226.49 times its own base Secret Rare at $2.92: the chase is the art, not the card text.",
+          "The second rung is the three dear SPs. The Edward.Newgate SP, ST15-002, is $209.47, the Sanji SP, ST14-003, is $116.19, and the Uso-Hachi SP, ST18-001, is $100.27, together $425.93. All three are reprints from older starter decks and sets, not OP-10 cards. The third rung is the Pudding SP at $49.22, the Flampe SP at $43.05, and the Ace Treasure Rare at $41.72.",
+          "The fourth rung is the three cheapest cards, where the set's own printings live. The Divine Departure Parallel, OP10-019, is $39.74, the Trafalgar Law Leader Parallel, OP10-022, is $38.03, and the Sugar Leader Parallel, OP10-003, is $30.65. The fifth rung is the near tie below the top ten: Urouge SP, OP07-021, at $30.63, two cents behind Sugar, the Luffy Secret Rare Parallel, OP10-118, at $24.40, the Smoker Leader Parallel, OP10-001, at $21.65, and the Law Secret Rare Parallel, OP10-119, at $20.59, together $97.27, or 1.16 Japanese boxes. The Luffy Parallel at $24.40 against its $3.64 base is the cheapest way into a Parallel Secret Rare on this list."
+        ]
+      },
+      {
+        "h": "The risk layer: the lottery, the reprint, and the thin market",
+        "paragraphs": [
+          "The first risk is the lottery itself. Bandai publishes no pull rates for any One Piece set, confirmed by multiple sources, so no honest expected-value math exists for the chase: the $68.70 against a $247.06 market box is a market model, not a Bandai number. Pullnomics' November 20-21 model prices a market box's contents at $68.70, 0.28 times, and $38.86 with no case hit, 0.32 times our English box. WorthRipping's November 20 read puts the box at $200.70 on a different, likely eBay-blended read, with $77 gross, $57.05 after selling costs, a typical box at $29, and 5 of 100 boxes making money. FoilKraken's November 1 report agrees: a typical opened box at $74.04, and only 6% of simulated boxes beat the sealed price. Community estimates put a Manga Rare at about 1 in 37 boxes, an estimate, never a Bandai number.",
+          "The second risk is the reprint. PRB-02, released October 3, 2025, draws reprints from OP-07 through OP-10, but no source confirms a Law Manga reprint. A reprint would cut the $247.06 market box, and the Law Manga would fall furthest because it has furthest to fall. Never pay a scarcity premium with money you need back on a date. The third risk is the thin market at the top: the Law Manga moved between the October 19 raw read of $602.25 and the November market read of $661.35, and the next sale may print lower. The fourth risk is the reseal: check the wrap and seams before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand, and read [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) first. The Japanese box trades at 2.51 times its official price, the premium resealers monetize."
+        ]
+      },
+      {
+        "h": "Context: 125 card types, two languages, and Punk Hazard and Dressrosa",
+        "paragraphs": [
+          "Royal Blood is built on Punk Hazard and Dressrosa, and the set is small for a modern One Piece set. Bandai lists 125 card types plus 1 DON!! card in Japan and 126+1 in English, the English print adding the Portgas.D.Ace Treasure Rare, OP08-052. The Japanese box holds 24 packs of 6 cards; the English box holds 24 packs of 12 cards. The official Japanese pack is 220 yen, so the official box is 5,280 yen, $33.28 at 158.64 yen per dollar. The English pack is $4.99, so the MSRP box is $119.76, and our English box at $121.95 is $2.19 above it. The $4.49 pack price on older guides belongs to OP-01 through OP-09: OP-10 was the first set at $4.99.",
+          "Japan got Royal Blood on November 30, 2024; English followed on March 21, 2025, a gap of just under four months. OP-10 is Block 3, OP-09 to OP-12, and Bandai's published Standard windows keep it legal April 1, 2026 to March 31, 2027 with Blocks 2 through 5, and April 1, 2027 to March 31, 2028 with Blocks 3 through 6, so the set plays on for another year past the April 1, 2027 rotation that takes Block 2 out. The set's colours are explained in [One Piece Card Game Colors Explained](/blog/one-piece-card-game-colors-explained/), and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) rank all the boxes to per-pack prices."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Law Manga is 7.92 Japanese boxes and 5.42 English boxes, and no pull rate prices the chase. It is not for anyone who expects a Zoro Manga or a Sanji Manga in OP-10, because neither card exists in this set. It is not for anyone buying the Japanese case at $1,002.93 for twelve boxes that cost $0.69 more than twelve singles. It is not for anyone who treats a sealed box as a way to make money: the expected value was $68.70 against a $247.06 market box, only 6% of simulated boxes beat the sealed price, and 5 of 100 boxes make money. It is not for anyone who needs the Law Manga reprinted cheaper: PRB-02 draws from OP-07 to OP-10 and no source confirms a Law Manga reprint."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Law Manga, own the Whitebeard SP, own the five SPs, hold the Royal Blood set sealed, or own it in English.",
+          "If the job is the Law Manga, buy the single at $661.35, which is 7.92 Japanese boxes, and do not open boxes for it, because Bandai publishes no pull rates and community estimates put a Manga at about 1 in 37 boxes.",
+          "If the job is the Whitebeard SP, buy the single at $209.47, which is 2.51 Japanese boxes, and check the November 20-21 read against the next sale before you pay.",
+          "If the job is the Japanese box, pay $83.52, or $3.48 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $90.44 a box through the case at $1,085.27, which saves $378.13 against twelve singles, or $121.95 for one box. There is no cheaper English box on this shelf.",
+          "If the job is a case, divide it first: Japanese costs $0.06 a box more than singles, English saves $31.51 a box. Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-10 shelf moved 32.00% in twelve days on the English side."
+        ],
+        "h": "Action layer: the OP-10 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, and the purchase stays a decision instead of a hope. Every price here is stamped November 20-21, 2026, so re-divide before you pay if either side has moved."
+        ]
+      }
+    ],
+    "slug": "op-10-best-cards",
+    "takeaway": [
+      "The OP-10 top ten, on TCGplayer market prices checked November 20-21, 2026, totals $1,329.69, and the Trafalgar Law Manga, OP10-119, is $661.35 of it, 49.74% of the whole list. The Edward.Newgate SP, ST15-002, is $209.47, and the top two together are $870.82, 65.49% of the list. Five of the ten are Special Parallels, together $518.20, 38.97% of the top ten; the Law Manga alone is worth more than all five SPs combined. Every card on the list clears $30, and only the top four clear $100.",
+      "On our shelf as of November 21, 2026, the Japanese box is $83.52 and the English box is $121.95, with the Japanese case at $1,002.93 and the English case at $1,085.27. The Japanese pair fell exactly 15.00% since November 5, 2026, and the English pair fell exactly 32.00% in the same window, then all four held from November 17 to November 21. The Law Manga is 7.92 Japanese boxes and 5.42 English boxes, and the top ten together are 15.92 Japanese boxes and 10.90 English boxes. The Japanese case costs $0.06 a box more than twelve singles, and the English case saves $31.51 a box.",
+      "It is worth buying as the Royal Blood set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus. The Law Manga's price is disputed at the edges between sources, so quote the date with the number, every time.",
+      "The ladder below the top ten is a near tie at the cut: Urouge SP is $30.63, two cents behind the tenth card, the Luffy Secret Rare Parallel is $24.40, the Smoker Leader Parallel is $21.65, and the Law Secret Rare Parallel is $20.59, together $97.27 on reads dated November 20-21, 2026. Two facts from the earlier guides are corrected on this page: OP-10 was the first set at a $4.99 English pack price, not $4.49, and the English print adds the Ace Treasure Rare, taking the set to 126+1 types against 125+1 in Japan.",
+      "Companion guide: the [is OP-10 worth buying guide](/blog/is-op-10-worth-buying/) prices the same four products at the November 12 prices, before the second leg of the fall, and the [OP-10 investment guide](/blog/op-10-investment/) runs the same division for the holder at the November 17 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the set before this one in the same ranking, the [OP-09 best cards guide](/blog/op-09-best-cards/) ranks Emperors in the New World the same way, with the $5,500.00 Roger Gold Super Parallel at the top.",
+      "For the next set in the same ranking, the [OP-11 best cards guide](/blog/op-11-best-cards/) ranks A Fist of Divine Speed the same way, with the $13,000.00 Gold Luffy at the top and a $21,848.52 list on a mixed read."
     ]
   },
   "op-10-investment": {
@@ -50148,6 +50344,191 @@ export const POSTS: Record<string, BlogPost> = {
       "For the successor set, see [OP-12 Legacy of the Master Buyer's Guide](/blog/op-12-legacy-of-the-master-buyers-guide/). For the predecessor sets, see [OP-10 Royal Blood Buyer's Guide](/blog/op-10-royal-blood-buyers-guide/) and [OP-09 Emperors in the New World Buyer's Guide](/blog/op-09-emperors-in-the-new-world-buyers-guide/). For the wider Japanese ladder, see [Best Japanese One Piece Booster Box to Buy](/blog/best-japanese-one-piece-booster-box-to-buy/). For the English ladder, see [Best One Piece Booster Box to Buy](/blog/best-one-piece-booster-box-to-buy/).",
       "For the worth-it verdict with the November 13, 2026 shelf prices, see [Is OP-11 A Fist of Divine Speed Worth Buying?](/blog/is-op-11-worth-buying/).",
       "For the investment division on the same three products, see [OP-11 A Fist of Divine Speed Investment](/blog/op-11-investment/)."
+    ]
+  },
+  "op-11-best-cards": {
+    "datePublished": "2026-11-21",
+    "faqs": [
+      {
+        "a": "The Monkey.D.Luffy Gold Anniversary Super Parallel, OP05-119, at $13,000.00 on TCGplayer market as of November 20, 2026, from the Sparkl price guide updated November 20, 2026, cross-checked against ogcards on November 20 and DripShop on November 14. It is up 359% since June 2025, when it was $2,833.65, and it is 59.50% of the whole top ten. It is a one-time print that will not be reprinted. The Silver Anniversary Luffy, OP05-119, is second at $5,624.99, up 317% from $1,350.00 in June 2025.",
+        "q": "What is the most valuable OP-11 card?"
+      },
+      {
+        "a": "No, not as a plan. The Gold Luffy is $13,000.00, which is 84.40 Japanese boxes at $154.03 and 39.28 English boxes at $330.92, and Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. Pullnomics' current model prices an English box's contents at $78.86 against a $530.82 market box, 0.15 times, and $30.24 with no case hit, 0.09 times our English box. FoilKraken's November 1 report puts the typical opened box at $68.57 with only 5% of simulated boxes beating the sealed price, and WorthRipping's November 20 model has 97 of 100 boxes losing money. Buy the single if the card is the job, or buy the box to open Fist of Divine Speed and treat the chase as a bonus.",
+        "q": "Should I buy an OP-11 box to pull the Gold Luffy?"
+      },
+      {
+        "a": "Because no TCGplayer USD price for the Roronoa Zoro Treasure Rare, OP06-118, could be verified. The only read is Cardmarket at 836.48 euros, converted at the ECB November 20, 2026 reference rate of 1.0990 dollars per euro to $919.29. The $21,848.52 top-ten total therefore mixes nine TCGplayer USD reads with one converted Cardmarket read, and Sparkl's own USD-only set total is $21,464.02: the $384.50 gap between the two totals is the Zoro conversion, not an error. Do not quote $919.29 as a TCGplayer price.",
+        "q": "Why is the Zoro Treasure Rare priced in euros?"
+      }
+    ],
+    "h1": "OP-11 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in OP-11, A Fist of Divine Speed, is the Monkey.D.Luffy Gold Anniversary Super Parallel, OP05-119, at $13,000.00 on TCGplayer market as of November 20, 2026, and the ten best cards together are $21,848.52. The Silver Anniversary Luffy, OP05-119, is second at $5,624.99, and the two Anniversary Luffys together are $18,624.99, 85.25% of the whole list. The set's only Manga Rare, the Monkey.D.Luffy Snakeman, OP11-118, is third at $1,327.28. On our shelf, November 21, 2026, the [OP-11 Japanese booster box](/product/op-11-a-fist-of-divine-speed-booster-box-japanese-one-piece-card/) is $154.03 and the [OP-11 English booster box](/product/op-11-a-fist-of-divine-speed-booster-box-english-one-piece-card/) is $330.92, after falls of 15.00% Japanese and 32.00% English since November 5. There is no English case on this shelf. Buy the box for the Fist of Divine Speed set, buy the single for the card.",
+      "Who this is for: collectors ranking the OP-11 chase, buyers choosing between the Japanese and English box, and players who want Block 3 cards that stay Standard-legal through March 2028. Who it is not for: anyone chasing one named card by opening boxes, anyone who needs an English case, and anyone buying a sealed box as a guaranteed investment, because the expected value of an opened English box is $78.86 against a $530.82 market box."
+    ],
+    "metaDescription": "OP-11 best cards ranked on TCGplayer market prices, Nov 20, 2026: the $13,000 Gold Luffy, the $1,327 Snakeman Manga, and the $330.92 English box.",
+    "metaTitle": "OP-11 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: two Anniversary Luffys are 85.25% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price checked November 20, 2026, from the Sparkl price guide updated November 20, 2026, cross-checked against ogcards on November 20 and DripShop on November 14. The ten add to $21,848.52, and the top card alone is $13,000.00, 59.50% of the list. Monkey.D.Luffy Gold, OP05-119, the 3rd Anniversary Super Parallel, is $13,000.00, and the Monkey.D.Luffy Silver, OP05-119, is $5,624.99, $7,375.01 behind. Behind them: the Monkey.D.Luffy Snakeman Manga, OP11-118, is $1,327.28, the Roronoa Zoro Treasure Rare, OP06-118, is $919.29 on the converted Cardmarket read (836.48 euros at the ECB November 20, 2026 rate of 1.0990 dollars per euro), the Luffy-Tarou SP, ST18-005, is $280.53, and the Gear Two Parallel, OP11-080, is $222.61. The bottom four are the Shanks SP, ST16-004, at $147.31, the Stussy SP, OP07-085, at $116.20, the Sanji SP, OP06-119, at $114.43, and the Shirahoshi SP, EB01-057, at $95.88.",
+          "The split is the story. The top two cards are $18,624.99, 85.25% of the top ten, and the top three are $19,952.27, 91.32%. The top five are $21,152.09, 96.81% of the list, which leaves $696.43 for the bottom five combined. Sparkl puts the whole set at $21,464.02 on TCGplayer and its top five at 94% of that value and its top ten at 98%, so OP-11 is a two-card set with a supporting cast. The five Special Parallels in the top ten together are $754.35, 3.45% of the list: this set's SPs are reprints from older sets.",
+          "Two readings need a flag. First, the Roronoa Zoro Treasure Rare, OP06-118, has no verified TCGplayer USD price: the only read is Cardmarket at 836.48 euros, converted at the ECB November 20, 2026 reference rate of 1.0990 dollars per euro to $919.29. The $21,848.52 total therefore mixes nine TCGplayer USD reads with one converted Cardmarket read, and Sparkl's own USD-only set total is $21,464.02: the $384.50 gap between the two totals is the Zoro conversion, not an error, and $919.29 must never be quoted as a TCGplayer price. Second, the rank inversion at the bottom: in pure USD the Stussy SP at $116.20 outranks the Sanji SP at $114.43, while Sparkl ranks Sanji eighth on its blended lower-of-two-markets method. This page ranks by USD, because a buyer paying in dollars pays the USD order."
+        ]
+      },
+      {
+        "h": "The money layer: three products, and a shelf that stopped moving",
+        "math": [
+          "OP-11 Japanese box per pack: $154.03 / 24 packs = $6.42 per pack",
+          "OP-11 Japanese box per card: $154.03 / 144 cards = $1.07 per card",
+          "OP-11 Japanese case per box: $1,825.69 / 12 boxes = $152.14 per box",
+          "OP-11 Japanese case vs singles: 12 x $154.03 = $1,848.36; $1,848.36 - $1,825.69 = $22.67 saved ($1.89 per box)",
+          "OP-11 Japanese case per pack: $1,825.69 / 288 packs = $6.34 per pack",
+          "OP-11 Japanese case per card: $1,825.69 / 1,728 cards = $1.06 per card",
+          "OP-11 English box per pack: $330.92 / 24 packs = $13.79 per pack",
+          "OP-11 English box per card: $330.92 / 288 cards = $1.15 per card",
+          "OP-11 English box vs MSRP: 24 packs x $4.99 = $119.76; $330.92 - $119.76 = $211.16 above MSRP; $330.92 / $119.76 = 2.76x",
+          "OP-11 English box vs market: $530.82 - $330.92 = $199.90 below the November 21, 2026 market figure; $199.90 / $530.82 = 37.66% below market",
+          "OP-11 Japanese box vs official price: 24 packs x 220 yen = 5,280 yen; 5,280 / 158.64 yen per dollar = $33.28; $154.03 / $33.28 = 4.63x",
+          "OP-11 language gap per box: $330.92 - $154.03 = $176.89; $176.89 / 24 packs = $7.37 per pack",
+          "OP-11 language gap per card: $1.15 - $1.07 = $0.08 per card",
+          "OP-11 Japanese box repricing Nov 5 to Nov 21: $181.21 - $154.03 = $27.18; $27.18 is 15.00% of $181.21",
+          "OP-11 Japanese case repricing Nov 5 to Nov 21: $2,147.87 - $1,825.69 = $322.18; $322.18 is 15.00% of $2,147.87",
+          "OP-11 English box repricing Nov 5 to Nov 21: $486.65 - $330.92 = $155.73; $155.73 is 32.00% of $486.65",
+          "OP-11 Zoro Treasure Rare conversion: 836.48 euros x 1.0990 dollars per euro = $919.29 (ECB November 20, 2026 reference rate)",
+          "OP-11 top 10 total: $13,000.00 + $5,624.99 + $1,327.28 + $919.29 + $280.53 + $222.61 + $147.31 + $116.20 + $114.43 + $95.88 = $21,848.52",
+          "OP-11 top 5 total: $13,000.00 + $5,624.99 + $1,327.28 + $919.29 + $280.53 = $21,152.09; $21,152.09 / $21,848.52 = 96.81% of the top 10",
+          "OP-11 top 3 total: $13,000.00 + $5,624.99 + $1,327.28 = $19,952.27; $19,952.27 / $21,848.52 = 91.32% of the top 10",
+          "OP-11 top 2 total: $13,000.00 + $5,624.99 = $18,624.99; $18,624.99 / $21,848.52 = 85.25% of the top 10",
+          "OP-11 Gold Luffy share: $13,000.00 / $21,848.52 = 59.50% of the top 10",
+          "OP-11 five top-10 SPs total: $280.53 + $147.31 + $116.20 + $114.43 + $95.88 = $754.35; $754.35 / $21,848.52 = 3.45% of the top 10",
+          "OP-11 six SPs total (with the Rayleigh near miss): $754.35 + $46.67 = $801.02",
+          "OP-11 Gold Luffy against the boxes: $13,000.00 / $154.03 = 84.40 Japanese boxes; $13,000.00 / $330.92 = 39.28 English boxes",
+          "OP-11 Snakeman Manga against the boxes: $1,327.28 / $154.03 = 8.62 Japanese boxes; $1,327.28 / $330.92 = 4.01 English boxes",
+          "OP-11 top 10 against the boxes: $21,848.52 / $154.03 = 141.85 Japanese boxes; $21,848.52 / $330.92 = 66.02 English boxes",
+          "OP-11 near misses below the top 10: $47.98 + $42.55 + $46.67 + $39.86 = $177.06; $177.06 / $154.03 = 1.15 Japanese boxes; $177.06 / $330.92 = 0.54 English boxes",
+          "OP-11 rip expected value: $78.86 / $530.82 = 0.15x of the current market box; $30.24 / $330.92 = 0.09x of our English box",
+          "OP-11 Gold Luffy June 2025 to November 2026: $13,000.00 - $2,833.65 = $10,166.35; $10,166.35 is 358.77% of $2,833.65",
+          "OP-11 Silver Luffy June 2025 to November 2026: $5,624.99 - $1,350.00 = $4,274.99; $4,274.99 is 316.67% of $1,350.00",
+          "OP-11 Japanese box market vs MSRP in yen: 29,900 yen / 5,280 yen = 5.66x; 29,900 yen down from 38,500 yen: 38,500 - 29,900 = 8,600 yen; 8,600 is 22.34% of 38,500",
+          "OP-11 mixed-read total vs Sparkl set total: $21,848.52 - $21,464.02 = $384.50; the gap is the Zoro Cardmarket conversion, not an error"
+        ],
+        "paragraphs": [
+          "All three OP-11 products repriced between November 5 and November 17, 2026, and none moved again by November 21: the Japanese pair fell exactly 15.00% and the English box exactly 32.00%. The Japanese box went from $181.21 to $154.03 and the case from $2,147.87 to $1,825.69; the English box from $486.65 to $330.92. The November 5 prices are the ones the [OP-11 buyers guide](/blog/op-11-a-fist-of-divine-speed-buyers-guide/) printed, and the November 17 prices are the ones the [OP-11 investment guide](/blog/op-11-investment/) printed.",
+          "The Japanese box is $154.03 for 24 packs of 6 cards, $6.42 a pack and $1.07 a card, against a 5,280 yen official box price that converts to $33.28 at 158.64 yen per dollar, so the Japanese box is 4.63 times its official price. The English box is $330.92 for 24 packs of 12 cards, $13.79 a pack and $1.15 a card, against a $119.76 MSRP box, so it is 2.76 times its MSRP. English costs $176.89 more per box, $7.37 a pack, and $0.08 a card.",
+          "The case is a real deal this time. The [Japanese case](/product/op-11-a-fist-of-divine-speed-sealed-case-12-boxes-japanese-one-piece-card/) is $1,825.69, or $152.14 a box, which is $22.67 less than twelve singles at $1,848.36: $1.89 a box for buying the carton. There is no English case on this shelf, so an English buyer has one product and one price. Pullnomics' November 21 market read puts the English box at $530.82, so our $330.92 shelf box sits $199.90 below market, 37.66% below. In Japan the box trades at 29,900 yen on SNKRDUNK as of November 12, 2026, 5.66 times the 5,280 yen official price, down 22.34% from 38,500 yen in July 2026."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: four ways to spend on OP-11, what each costs per pack, what it is for, and where it fails. There is no English case row, because there is no English case on this shelf.",
+          "The single row is the only row that buys the card instead of the chance: the Gold Luffy is 84.40 Japanese boxes, the Snakeman Manga 8.62."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box",
+              "$154.03",
+              "$6.23",
+              "Opening Fist of Divine Speed in Japanese",
+              "Chase not guaranteed; 4.63x official price"
+            ],
+            [
+              "Japanese case (12)",
+              "$1,825.69",
+              "$152.14 a box",
+              "Twelve Japanese boxes at $1.89 a box under singles",
+              "Chase not guaranteed; twelve boxes of one set"
+            ],
+            [
+              "English box",
+              "$330.92",
+              "$13.79",
+              "English cards, 37.66% below market",
+              "2.76x MSRP; no case to spread the cost"
+            ],
+            [
+              "The single",
+              "$13,000.00 Gold Luffy",
+              "n/a",
+              "Owning the chase card",
+              "One-time print; price moved 359% since June 2025"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no dated USD top 10, no EV, no Zoro",
+        "note": "From the Warehouse: the question we get most in chat about OP-11 is whether the Gold and Silver Anniversary Luffys are Japanese-only cards, because one guide says the Anniversary SPs are exclusive to Japanese packs while the prices we quote come from TCGplayer in dollars. Both claims are real reads from real sources, and they cannot both be right. Sparkl and DripShop price both cards on TCGplayer in English, so this page prices them in dollars and reports the contradiction instead of repeating the Japanese-only claim. Quote the source with the number, every time, or the number means nothing.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there. The One Piece TCG Simulator top-10 list carries no prices anywhere and says so itself: it is explicitly not a price chart. TCG Talk is off topic, about OP-18, not OP-11. Samurai Sword Tokyo carries pull rates and chase cards, updated October 7, 2026, but its prices are SNKRDUNK yen asks only, not USD market. None of the three gives a dated dollar price for any card on this list.",
+          "The gap this page owns starts with the dated USD top ten itself: no result gives ten OP-11 cards on TCGplayer market prices checked November 20, 2026. The second gap is the singles-versus-box expected value at the current box price: Pullnomics prices an English box's contents at $78.86 against a $530.82 market box, and no list runs that division against our $330.92 shelf box, where the same contents are 0.09 times the price. The third gap is the Japanese-versus-English depth: $176.89 a box, $7.37 a pack, and no English case. The fourth gap is Block 3 and the April 2027 rotation. The fifth gap is the Zoro Treasure Rare, which the leading list omits entirely. The fan-out behind this page ran eight sub-queries: top OP-11 values and TCGplayer prices, the Manga Rare Luffy and Gold Anniversary Luffy prices, pull rates, box price versus expected value, the competitive meta, Japanese versus English differences, and the four chase SPs.",
+          "Two more facts the lists miss. First, there is no Ace chase card and no Sabo chase card in OP-11: the chase is Luffy twice, then Snakeman Luffy, then Zoro. Second, the Sanji SP, OP06-119, was reprinted as a Manga Rare in PRB-02 on October 3, 2025, so the SP on this list is not the only premium Sanji from the set's era. The Gold and Silver Anniversary Luffys are the opposite case: one-time prints that will not be reprinted, which is why their prices moved 359% and 317% since June 2025."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "note": "From the Warehouse: the question we get second most about OP-11 is why the SPs on this list carry other set codes, ST18, ST16, OP06, OP07, EB01, OP09, when the set is OP-11. They are reprints: Bandai filled this set's SP slots with premium versions of cards from starter decks and older sets, so the SP ladder is a tour of the game's history, not OP-11's own cards. The only cards on this list that carry OP-11 numbers are the Snakeman Manga, OP11-118, and the Gear Two Parallel, OP11-080.",
+        "paragraphs": [
+          "The top of the ladder is one Luffy, twice. The Gold Anniversary Super Parallel, OP05-119, is $13,000.00, 59.50% of the top ten, and the Silver Anniversary Super Parallel, OP05-119, is $5,624.99. The Gold is up 359% since June 2025, from $2,833.65 to $13,000.00, and the Silver is up 317%, from $1,350.00 to $5,624.99. Both are one-time prints that will not be reprinted, and both are priced on TCGplayer in English by Sparkl and DripShop.",
+          "The second rung is the set's own chase. The Snakeman Manga, OP11-118, is $1,327.28, the only Manga Rare in OP-11, and the Roronoa Zoro Treasure Rare, OP06-118, is $919.29 on the converted Cardmarket read: 836.48 euros at the ECB November 20, 2026 reference rate of 1.0990 dollars per euro. The Gear Two Parallel, OP11-080, is $222.61. The three together are $2,469.18, and the Snakeman alone is 8.62 Japanese boxes and 4.01 English boxes.",
+          "The third rung is the five Special Parallels, $754.35 together, 3.45% of the top ten: Luffy-Tarou, ST18-005, at $280.53, Shanks, ST16-004, at $147.31, Stussy, OP07-085, at $116.20, Sanji, OP06-119, at $114.43, and Shirahoshi, EB01-057, at $95.88. With the Silvers Rayleigh SP, OP09-005, at $46.67, the six SPs in the set's orbit are $801.02. The fourth rung is the collapse below the top ten: the Luffy AA Leader, OP11-040, is $47.98, the Nami AA Leader, OP11-041, is $42.55 to $47.66 across two reads, the Silvers Rayleigh SP is $46.67, and the Shirahoshi AA Leader, OP11-022, is $39.86, together $177.06, barely more than one Japanese box."
+        ]
+      },
+      {
+        "h": "The risk layer: the reprint, the thin market, and the $13,000 card",
+        "paragraphs": [
+          "The first risk is the reprint. PRB-02 reprinted the Sanji SP, OP06-119, as a Manga Rare on October 3, 2025, so Bandai does reprint chase SPs, and a reprint of any card below the top two would cut its price the way OP-01 fell 57% in one month in 2024, from $475.00 in April to $204.02 in May on PriceCharting. The Gold and Silver Anniversary Luffys are the exception: one-time prints that will not be reprinted. Never pay a scarcity premium with money you need back on a date, and buy the box only at a price you can defend if the market halves.",
+          "The second risk is the lottery, and three models agree it loses. Pullnomics' November 21 model prices an English box's contents at $78.86 against a $530.82 market box, 0.15 times, and $30.24 with no case hit, 0.09 times our $330.92 English box. FoilKraken's November 1 report prices the box at $541.19, the average opened box at $272.08, the typical opened box at $68.57, and only 5% of simulated boxes beating the sealed price. WorthRipping's November 20 model prices the box at $433 on a different methodology, the cards at $89 on average after selling costs, the typical box at $33, and 97 of 100 boxes losing. The three models measure different things and must not be blended, but they point the same way. Bandai has never published pull rates for any One Piece set, so no honest expected-value math exists for the chase. The third risk is the reseal: check the wrap and seams before you pay, with our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) in hand, and read [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) first. The English box trades at 2.76 times its MSRP, and that premium is exactly what resealers monetize."
+        ]
+      },
+      {
+        "h": "Context: 127 card types, two languages, and a set that survives rotation",
+        "paragraphs": [
+          "A Fist of Divine Speed is built on Luffy's Gear forms and the Snakeman finish: Japan got it on March 1, 2025, and English followed on June 6, 2025, a gap of just over three months. Bandai lists 127 card types plus 1 DON!! card in Japan and 128+1 in English. The Japanese box holds 24 packs of 6 cards, 144 cards; the English box holds 24 packs of 12 cards, 288 cards. The official Japanese pack is 220 yen, so the official box is 5,280 yen. The English MSRP is $4.99 a pack, so the MSRP box is $119.76, not the $4.49 pack price of OP-01 through OP-09. The set's colours are explained in [One Piece Card Game Colors Explained](/blog/one-piece-card-game-colors-explained/).",
+          "The language gap decides the purchase. The Japanese box is $6.42 a pack and $1.07 a card; the English box is $13.79 a pack and $1.15 a card. Cost per pack favours Japanese by $7.37; cost per card by $0.08. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) and the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) rank all the boxes to per-pack prices. OP-11 is Block 3, OP-09 through OP-12. Bandai's published Standard windows keep Blocks 2 through 5 legal from April 1, 2026 to March 31, 2027, then Blocks 3 through 6 legal from April 1, 2027 to March 31, 2028, so OP-11 plays on for another year past the April 1, 2027 rotation that takes Block 2 out of Standard."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the Gold Luffy is 84.40 Japanese boxes and 39.28 English boxes, and no pull rate prices the chase. It is not for anyone who needs an English case, because there is none on this shelf. It is not for anyone who treats a sealed box as a guaranteed investment: the expected value was $78.86 against a $530.82 market box, only 5% of simulated boxes beat the sealed price, and 97 of 100 boxes lose money. It is not for anyone who wants an Ace or Sabo chase card, because OP-11 has neither."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Gold Luffy, own the Snakeman Manga, own the five SPs, hold the Fist of Divine Speed set sealed, or own it in English.",
+          "If the job is the Gold Luffy, buy the single at $13,000.00, which is 84.40 Japanese boxes, and do not open boxes for it, because Bandai publishes no pull rates.",
+          "If the job is the Snakeman Manga, buy the single at $1,327.28, which is 8.62 Japanese boxes, and check the Zoro Treasure Rare the same way: 836.48 euros on Cardmarket at the 1.0990 ECB rate, $919.29, not a TCGplayer price.",
+          "If the job is the Japanese box, pay $154.03, or $6.23 a pack, and treat the chase as a bonus.",
+          "If the job is English, pay $330.92 for the box, and check the listing against the $530.82 market read before you pay. There is no English case to spread the cost across.",
+          "If the job is a case, divide it first: the Japanese case saves $22.67 against twelve singles, $1.89 a box. Check the wrap and seams before you pay, keep the receipt, and re-check the shelf price on the day you buy, because the whole OP-11 shelf moved 32.00% in twelve days on the English side."
+        ],
+        "h": "Action layer: the OP-11 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, and the purchase stays a decision instead of a hope. Every price here is stamped November 20-21, 2026, so re-divide before you pay if either side has moved. Our [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles."
+        ]
+      }
+    ],
+    "slug": "op-11-best-cards",
+    "takeaway": [
+      "The OP-11 top ten, on TCGplayer market prices checked November 20, 2026, totals $21,848.52 on a mixed read: nine TCGplayer USD reads plus the Zoro Treasure Rare at $919.29, converted from 836.48 euros on Cardmarket at the ECB November 20, 2026 reference rate of 1.0990 dollars per euro. The Monkey.D.Luffy Gold, OP05-119, is $13,000.00 of it, 59.50% of the whole list. The Silver Luffy is $5,624.99, and the top two together are $18,624.99, 85.25% of the list. The Snakeman Manga is $1,327.28, and the top three together are $19,952.27, 91.32% of the list.",
+      "On our shelf as of November 21, 2026, the Japanese box is $154.03, the Japanese case is $1,825.69, and the English box is $330.92. The Japanese pair fell exactly 15.00% since November 5, 2026, and the English box fell exactly 32.00% in the same window, then all three held from November 17 to November 21. The Gold Luffy is 84.40 Japanese boxes and 39.28 English boxes, and the Snakeman Manga is 8.62 Japanese boxes and 4.01 English boxes. The Japanese case saves $22.67 against twelve singles, and there is no English case on this shelf. The English box sits $199.90 below the November 21, 2026 market read of $530.82.",
+      "It is worth buying as the Fist of Divine Speed set, sealed or opened, and it is not worth buying as a way to own one named card. Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus. The Gold Luffy is a one-time print that will not be reprinted, but its price moved 359% since June 2025, so quote the date with the number, every time.",
+      "The ladder below the top ten collapses fast: the four near misses together are $177.06, barely more than one Japanese box, and the five Special Parallels in the top ten together are $754.35, 3.45% of the list. Two facts the other lists get wrong are corrected on this page: the Gold and Silver Anniversary Luffys are priced on TCGplayer in English, not exclusive to Japanese packs, and the English MSRP is $4.99 a pack, not $4.49.",
+      "Companion guide: the [is OP-11 worth buying guide](/blog/is-op-11-worth-buying/) prices the same three products, and the [OP-11 investment guide](/blog/op-11-investment/) runs the same division for the holder at the November 17 prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "For the set before this one in the same ranking, the [OP-10 best cards guide](/blog/op-10-best-cards/) ranks Royal Blood the same way, with the $661.35 Law Manga at the top and a $1,329.69 list where one card is 49.74% of the whole top ten."
     ]
   },
   "op-11-investment": {
