@@ -30718,7 +30718,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our box and case prices as of November 15, 2026, both 15.00 percent below our November 3 snapshot, and the TCGplayer figures as of November 2026, with the English SIR dated November 14, 2026. When the next set lands, re-run the division.",
       "For the full set guide, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the box, the case, and the neighbors; for the sibling set, the [is SV9a worth buying guide](/blog/is-sv9a-worth-buying/) runs the same division on Heat Wave Arena; and for the format question, the [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) settles box against case across the shelf.",
       "New to Japanese boxes? The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf by per-box price, the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) prices the slab decision, and the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) keeps a case safe once you own it.",
-      "For the investment verdict on the same shelf prices, the [SV10 Glory of Team Rocket investment guide](/blog/sv10-investment/) runs the case against the box as a hold, the Mewtwo single against the box, and the 15 percent repricing, with the box $23.04 above the sold-first market and the case $28.98 below it."
+      "For the investment verdict on the same shelf prices, the [SV10 Glory of Team Rocket investment guide](/blog/sv10-investment/) runs the case against the box as a hold, the Mewtwo single against the box, and the 15 percent repricing, with the box $23.04 above the sold-first market and the case $28.98 below it.",
+      "New this cycle: the [SV10 best cards guide](/blog/sv10-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 21, 2026, with the Mewtwo ex SAR at $362.00, half the top ten on its own."
     ]
   },
   "is-sv11b-worth-buying": {
@@ -31074,8 +31075,9 @@ export const POSTS: Record<string, BlogPost> = {
       "White Flare is worth buying for the collector: $167.72 buys 140 cards of Unova art, 20 packs with two holofoil guaranteed per pack, and a secret run larger than the base set, in the final expansion of the Scarlet & Violet era. The Deluxe box at $197.53 buys the same 140 cards with four guaranteed Art Rares, at $0.21 more per card. The case at $892.12 divides to $74.34 a box, a $1,120.52 saving across twelve boxes, but that figure carries the cycle-33 catalog-error flag: confirm the case price at checkout before planning around it.",
       "It is not worth buying as a way to own the Reshiram ex BWR. The card asks about ¥50,000, or $316.46, on its own, and The Pokémon Company publishes no Japanese pull rates, so the chase has no honest expected cost. Buy the single, or buy the box for the set and treat the BWR as a bonus.",
       "For the twin, the [Black Bolt buyer’s guide](/blog/sv11b-black-bolt-buyers-guide/) prices the Zekrom half at $183.18 a box, and the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) makes the head-to-head case. For the same worth-it question in the other game we stock, the [best Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen Lorcana sets to the pack, from $4.83 for Reign of Jafar to $18.20 for The First Chapter. New this cycle: the [best Japanese Pokémon ETB guide](/blog/best-japanese-pokemon-etb/) is the English-versus-Japanese comparison this article summarizes.",
-      "New this cycle: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box.",
-      "New this cycle: the [SV11W White Flare investment guide](/blog/sv11w-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced."
+      "Companion guide: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the Zekrom half the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box.",
+      "Companion guide: the [SV11W White Flare investment guide](/blog/sv11w-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced.",
+      "New this cycle: the [SV11W White Flare best cards guide](/blog/sv11w-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 21, 2026, with the Reshiram ex BWR at $318.18, and the English Victini at $527.14 is not in this set."
     ]
   },
   "is-sv1a-worth-buying": {
@@ -55658,6 +55660,214 @@ export const POSTS: Record<string, BlogPost> = {
       "Still torn on a specific box? Tell us which one in chat and we'll walk through its numbers with you. The [Black Bolt box](/product/sv11b-black-bolt-booster-box-japanese-pokemon-card/) and the [M6a box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) come up most often, and the framework above is exactly the one we'll use."
     ]
   },
+  "sv10-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "Team Rocket's Mewtwo ex, the Special Art Rare numbered 125/098, at $362.00 on TCGplayer market as of November 21, 2026, from TickerMint's daily snapshot of the Japanese set, read November 22, 2026. Scryda's refreshed November 21 read agrees at $362.00, and Card Rush in Tokyo lists the same card at 57,800 yen on November 20, 2026, which converts to $364.55 at 158.55 yen per dollar, $2.55 above the market read. It is 2.00 boxes at our $181.04 box price and 44.24% of the set's $818.32 value.",
+        "q": "What is the most valuable SV10 card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $362.00, which is 2.00 boxes at $181.04, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $709.99, which is 3.92 boxes, and the top five alone are $628.23. Buy the single if the Mewtwo is the card you want, and buy the box only if you want to open Team Rocket.",
+        "q": "Should I buy an SV10 box to pull the Mewtwo SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 132 cards, released April 18, 2025, in boxes of 30 packs of 5 cards. English Destined Rivals, released May 30, 2025, merges SV10 with Heat Wave Arena into a 244-card set, and its chase is the Mewtwo ex Special Illustration Rare 231/182, which traded near-mint at $378 as of November 2, 2026. Japanese cards are generally not legal at official events outside Asia, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Destined Rivals?"
+      }
+    ],
+    "h1": "SV10 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV10 Glory of Team Rocket is Team Rocket's Mewtwo ex, the Special Art Rare numbered 125/098, at $362.00 (TCGplayer market, November 21, 2026), and the ten best cards together are $709.99. The Mewtwo alone is 50.99% of the list, and the same Pokemon appears three times in the top ten at three rarities. On our shelf, November 22, 2026, the [SV10 box](/product/sv10-glory-of-team-rocket-booster-box-japanese-pokemon-card/) is $181.04 and the [SV10 sealed case](/product/sv10-glory-of-team-rocket-sealed-case-12-boxes-japanese-pokemon-card/) is $1,548.19. Buy the box to open Team Rocket, buy the single for the Mewtwo.",
+      "Glory of Team Rocket, set code SV10, is 132 cards: 98 regular cards plus 34 secret rares, 12 Art Rares, 13 Super Rares, 6 Special Art Rares and 3 Ultra Rares. It released in Japan on April 18, 2025, in boxes of 30 packs of 5 cards, and its English twin, Destined Rivals, followed on May 30, 2025. Who this is for: collectors ranking the Japanese chase and buyers choosing between the box, the case and the single."
+    ],
+    "metaDescription": "SV10 Glory of Team Rocket best cards, TCGplayer market Nov 21, 2026: Mewtwo ex SAR $362.00, Moltres $87.97, top ten $709.99, box $181.04.",
+    "metaTitle": "SV10 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Mewtwo is 50.99% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price from TickerMint's November 21, 2026 snapshot of the Japanese set, read November 22, 2026. The top card cross-checks three ways: Scryda's refreshed November 21 read also prints $362.00, dripshop's November 2026 snapshot also prints $362.00, and Card Rush in Tokyo lists the same card at 57,800 yen on November 20, 2026, which converts to $364.55 at 158.55 yen per dollar. The ten add to $709.99: Mewtwo ex SAR $362.00, Moltres ex SAR $87.97, Nidoking ex SAR $83.73, Crobat ex SAR $51.26, Mewtwo ex Ultra Rare $43.27, Ariana SAR $19.93, Mewtwo ex Super Rare $19.56, Giovanni SAR $19.37, Meowth Art Rare $11.65 and Crobat ex Ultra Rare $11.25.",
+          "The split is the story, and it is steeper than Black Bolt's. The top two are $449.97, 63.38% of the top ten, and the top three are $533.70, 75.17% of it. The top five are $628.23, 88.48%, and the bottom five together are $81.76, 11.52%. One of every card in the set, at TickerMint's November 21 read, is $818.32, so the top ten are 86.76% of the whole set's singles value, and the Mewtwo alone is 44.24% of it. The set without the Mewtwo is $456.32. Six of the ten are Special Art Rares, and together they are $624.26, 87.93% of the list. Dripshop disagrees on two small points: the Nidoking at $85.55 against our $83.73 and the Meowth at $11.27 against $11.65. Our ranking uses the TickerMint November 21 read throughout."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $624.29 gap",
+        "math": [
+          "SV10 box per pack: $181.04 / 30 packs = $6.03 per pack",
+          "SV10 box per card: $181.04 / 150 cards = $1.21 per card",
+          "SV10 case per box: $1,548.19 / 12 boxes = $129.02 per box",
+          "SV10 case per pack: $1,548.19 / 360 packs = $4.30 per pack",
+          "SV10 case per card: $1,548.19 / 1,800 cards = $0.86 per card",
+          "SV10 twelve singles: 12 x $181.04 = $2,172.48",
+          "SV10 case saving: $2,172.48 - $1,548.19 = $624.29 across the case",
+          "SV10 saving per box: $624.29 / 12 = $52.02 per box",
+          "SV10 saving share: $624.29 / $2,172.48 = 28.74% saved",
+          "SV10 box vs TCGplayer market box: $181.04 - $154.38 = $26.66 above market; $26.66 / $154.38 = 17.27% above market",
+          "SV10 case box vs TCGplayer market box: $129.02 - $154.38 = -$25.36 below market; -$25.36 / $154.38 = -16.43% below market",
+          "SV10 twelve market boxes: 12 x $154.38 = $1,852.56; $1,852.56 - $1,548.19 = $304.37 saved by the case",
+          "SV10 TCGplayer market box per pack: $154.38 / 30 packs = $5.15 per pack",
+          "SV10 box repricing Nov 3 to Nov 16: $212.99 - $181.04 = $31.95; $31.95 / $212.99 = 15.00%",
+          "SV10 case repricing Nov 3 to Nov 16: $1,821.40 - $1,548.19 = $273.21; $273.21 / $1,821.40 = 15.00%",
+          "SV10 top 10 total: $362.00 + $87.97 + $83.73 + $51.26 + $43.27 + $19.93 + $19.56 + $19.37 + $11.65 + $11.25 = $709.99",
+          "SV10 top 5 total: $362.00 + $87.97 + $83.73 + $51.26 + $43.27 = $628.23; $628.23 / $709.99 = 88.48% of the top 10",
+          "SV10 top 3 total: $362.00 + $87.97 + $83.73 = $533.70; $533.70 / $709.99 = 75.17% of the top 10",
+          "SV10 top 2 total: $362.00 + $87.97 = $449.97; $449.97 / $709.99 = 63.38% of the top 10",
+          "SV10 top card share: $362.00 / $709.99 = 50.99% of the top 10",
+          "SV10 bottom 5 total: $19.93 + $19.56 + $19.37 + $11.65 + $11.25 = $81.76; $81.76 / $709.99 = 11.52% of the top 10",
+          "SV10 six SARs total: $362.00 + $87.97 + $83.73 + $51.26 + $19.93 + $19.37 = $624.26; $624.26 / $709.99 = 87.93% of the top 10",
+          "SV10 three Mewtwo prints total: $362.00 + $43.27 + $19.56 = $424.83; $424.83 / $709.99 = 59.84% of the top 10",
+          "SV10 top 10 vs set value: $709.99 / $818.32 = 86.76% of the set value",
+          "SV10 top card vs set value: $362.00 / $818.32 = 44.24% of the set value",
+          "SV10 set value without the Mewtwo: $818.32 - $362.00 = $456.32",
+          "SV10 Mewtwo against the box: $362.00 / $181.04 = 2.00 boxes",
+          "SV10 top 10 against the box: $709.99 / $181.04 = 3.92 boxes",
+          "SV10 case against the top 10: $1,548.19 / $709.99 = 2.18 times the top 10",
+          "SV10 top 10, Nov 16 to Nov 21: $712.13 - $709.99 = $2.14; $2.14 / $712.13 = 0.30% down in five days",
+          "SV10 Nidoking, Nov 16 to Nov 21: $84.43 - $83.73 = $0.70; $0.70 / $84.43 = 0.83% down",
+          "SV10 Crobat SAR, Nov 16 to Nov 21: $52.17 - $51.26 = $0.91; $0.91 / $52.17 = 1.74% down",
+          "SV10 Mewtwo yen cross-check: 57,800 yen / 158.55 yen per dollar = $364.55; $364.55 - $362.00 = $2.55 above the TCGplayer market read",
+          "SV10 Moltres yen cross-check: 19,800 yen / 158.55 yen per dollar = $124.88; $124.88 - $87.97 = $36.91 above the TCGplayer market read",
+          "SV10 Nidoking yen cross-check: 9,980 yen / 158.55 yen per dollar = $62.95; $62.95 is $20.78 below the $83.73 TCGplayer market read",
+          "SV10 Card Rush box in dollars: 24,800 yen / 158.55 yen per dollar = $156.42; $181.04 - $156.42 = $24.62 above the Tokyo box",
+          "SV10 Kakaku box in dollars: 27,980 yen / 158.55 yen per dollar = $176.47; $181.04 - $176.47 = $4.57 above the cheapest Tokyo listing",
+          "SV10 Mewtwo buyback in dollars: 35,000 yen / 158.55 yen per dollar = $220.75; $220.75 / $362.00 = 60.98% of the market read",
+          "SV10 Mewtwo PSA 10 vs raw: $447.50 / $362.00 = 1.24x (PriceCharting, via dripshop, November 2026)",
+          "SV10 Mewtwo fall since April: $362.00 - $500.00 = -$138.00; -$138.00 / $500.00 = -27.60% since the April 2025 listing",
+          "SV10 Nidoking since February: $83.73 - $57.55 = $26.18; $26.18 / $57.55 = 45.49% up since TheGamer's February 7, 2026 read",
+          "SV10 Mewtwo SR since February: $19.56 - $14.57 = $4.99; $4.99 / $14.57 = 34.25% up since TheGamer's February 7, 2026 read",
+          "SV10 Crobat UR since February: $11.25 - $13.61 = -$2.36; -$2.36 / $13.61 = -17.34% since TheGamer's February 7, 2026 read"
+        ],
+        "paragraphs": [
+          "The box is $181.04 for 30 packs of 5 cards, $6.03 a pack and $1.21 a card. The case is $1,548.19 for a printed 12 boxes, $129.02 a box, $4.30 a pack and $0.86 a card, which is $624.29 less than twelve singles at $2,172.48: $52.02 a box for buying the carton, 28.74% saved. Both formats fell exactly 15.00% between November 3 and November 16, 2026, the box from $212.99 and the case from $1,821.40, and both prices are unchanged since, which is why the November 22 shelf matches the November 16 shelf.",
+          "Against the market, the shelf splits the same way our [SV10 investment guide](/blog/sv10-investment/) priced it on November 16. The TCGplayer market box is $154.38, so our box at $181.04 sits $26.66 above it, 17.27% above market, or $5.15 a pack against our $6.03. The case divides to $129.02 a box, $25.36 below that same market box, 16.43% below market, and $304.37 below twelve market boxes at $1,852.56. The method behind the format comparison is laid out in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/). The box is the dear way to open this set, and the case is the cheap way to hold it."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The official set page lists the pack at 180 yen including tax for 5 cards, randomly inserted, released April 18, 2025. The set code is SV10, printed on each card next to the number, and the set runs 98 base cards plus 34 secrets numbered 99 to 132: 12 Art Rares, 13 Super Rares, 6 Special Art Rares and 3 Ultra Rares. The headline card is Team Rocket's Mewtwo ex, printed four times: the Double Rare at 039/098, about $0.74, the Super Rare at 114/098 at $19.56, the Special Art Rare at 125/098 at $362.00 and the Ultra Rare, the gold card, at 130/098 at $43.27. Match the number, not just the name. Crobat ex does the same at two prices: the SAR at 127/098 at $51.26 and the UR at 131/098 at $11.25.",
+          "Two checks belong before payment, and both are free. First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count is what makes the $129.02 per-box figure a division, not an assumption. Second, check the condition grade on any Japanese listing: Card Rush lists worn copies of the same number under grades A-, B and C, and an A- Mewtwo ex SAR was 39,800 yen against 57,800 yen clean, so a low number under the same collector number can be wear, not a bargain."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on SV10, what each costs per pack, what it is for, and where it fails. The single row is the only row that buys the card instead of the chance: the Mewtwo SAR is 2.00 boxes, and the top ten together are 3.92 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase, and the god pack is a rare replacement pack, not a rate: see our [what is a god pack guide](/blog/what-is-a-god-pack-japanese-pokemon/). A buyer who opens for the Mewtwo is buying a lottery ticket with a $181.04 face value, and the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: the case saves $52.02 a box only if twelve boxes are wanted. The market box row is a reference price, not a listing on this shelf: our box is $26.66 above it, and our case box is $25.36 below it. The wait row is the only route with a price of $0, and it is the only route that made money in the last two weeks: a buyer who waited from November 3 to November 16 saved $31.95 on the box and $273.21 on the case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV10 box",
+              "$181.04",
+              "$6.03",
+              "Opening Team Rocket in Japanese",
+              "$26.66 above the TCGplayer market box; chase not guaranteed"
+            ],
+            [
+              "SV10 case (12)",
+              "$1,548.19",
+              "$129.02 a box",
+              "Holding or splitting twelve boxes",
+              "$1,548.19 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$362.00 Mewtwo SAR",
+              "n/a",
+              "Owning the chase card",
+              "2.00 boxes for one card"
+            ],
+            [
+              "TCGplayer market box",
+              "$154.38",
+              "$5.15",
+              "The market price for one box",
+              "A market figure, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: February prices and no shelf",
+        "note": "From the Warehouse: the question we get most about SV10 is whether the box is still the way to the Mewtwo, because every ranking list leads with the $362.00 card and never says what the box costs. It is not the way to the card. The card is 2.00 boxes, the top ten together are 3.92 boxes, and no box guarantees any secret rare, so the box is the way to open Team Rocket and the single is the way to own the Mewtwo. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $624.29 against twelve singles, and we checked the division twice because the direction surprised us too.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and the oldest ranks them at prices nine months out of date. TheGamer's list was updated February 7, 2026: it prints the Nidoking ex SAR at $57.55 against $83.73 today, up 45.49% since February, and the Mewtwo ex SR at $14.57 against $19.56, up 34.25%, while the Crobat ex UR has gone the other way, $13.61 then against $11.25 now, down 17.34%. Its number ten, the Jamming Tower, is now $8.88 and out of the top ten. TickerMint carries the Japanese list this page uses, updated November 21, but no shelf, no case division, and no warning about the four Mewtwo prints. Dripshop carries the same November 2026 snapshot, but no shelf either, and its Nidoking at $85.55 disagrees with TickerMint's $83.73 by $1.82.",
+          "The gap this page owns starts with the Japanese top ten, every read dated November 21, with the Mewtwo cross-checked three ways and the disagreements named, not hidden. Second is the shelf: two live prices, the exact 15.00% repricing, and the case divisions, none of which any ranking list carries. Third is the yen cross-check, which runs both ways: the Tokyo ask for the Mewtwo converts to $364.55, $2.55 above the market read, while the Moltres converts to $124.88, $36.91 above it, and the Nidoking converts to $62.95, $20.78 below it. A ranking list tells you which card is dearest; this page also tells you what the box costs."
+        ]
+      },
+      {
+        "h": "The chase ladder: three Mewtwos, one set",
+        "note": "From the Warehouse: what we see in chat is buyers asking for 'the Mewtwo' without a number, and four prints at four prices is exactly how the wrong one gets bought. The SAR is $362.00, the gold UR is $43.27, the SR is $19.56 and the Double Rare is about $0.74, and a listing that says Mewtwo ex without a number has said nothing about the price. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is one card, once. The Mewtwo ex Special Art Rare is $362.00, 50.99% of the top ten and 44.24% of the whole set's singles value, and it has barely moved in five days: TickerMint's November 16 snapshot also printed $362.00, and the top ten as a whole fell only $2.14 in that window, 0.30%. The second rung is the two other SARs: the Moltres ex at $87.97 and the Nidoking ex at $83.73, $171.70 together, and with the Mewtwo they make the top three $533.70, 75.17% of the list. The third rung is the Crobat ex SAR at $51.26, and the fourth is the Mewtwo ex UR at $43.27, the gold card: the same Pokemon holds ranks one, five and seven.",
+          "The three Mewtwo prints together are $424.83, 59.84% of the top ten: one Pokemon is more than half the chase. The six Special Art Rares together are $624.26, 87.93% of the list. The fifth rung is the $19 tier that closes the list: the Ariana SAR at $19.93, the Mewtwo ex SR at $19.56 and the Giovanni SAR at $19.37, $58.86 together, then the Meowth Art Rare at $11.65 and the Crobat ex UR at $11.25. Below them the set is nearly free: number eleven is $8.88, and in Tokyo 102 of the 132 collector numbers ask 500 yen or less."
+        ]
+      },
+      {
+        "h": "The risk layer: the card that fell 27.60%, and the box above the market",
+        "paragraphs": [
+          "The first risk is the Mewtwo's own fall, which is already on the record. The SAR listed near $500 in April 2025 and sits at $362.00 on November 21, 2026, a fall of $138.00, 27.60% since April, and the English twin tells the same story: the Mewtwo ex Special Illustration Rare traded near-mint at $378 as of November 2, 2026, down from a $482 peak in April 2026. The graded version does not rescue the raw price: PriceCharting lists the Japanese PSA 10 at $447.50, only 1.24 times the raw $362.00, so the grade adds $85.50. See our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) before paying to grade anything.",
+          "The second risk is the box itself: $181.04 is $26.66 above the $154.38 TCGplayer market box, 17.27% above market, so a buyer who opens and resells the pulls starts $26.66 behind the market before the first pack is opened. The third risk is the reprint risk: The Pokemon Company does not publish print runs, so no sealed buyer can verify scarcity from an official source, and a reprint would compress the premium on every sealed format at once. The fourth risk is the reseal risk, covered by the seal checks in the [SV10 buyer's guide](/blog/sv10-glory-of-team-rocket-buyers-guide/)."
+        ]
+      },
+      {
+        "h": "Context: the yen cross-check and the English twin",
+        "paragraphs": [
+          "The Tokyo numbers cut both ways. Card Rush lists the Mewtwo ex SAR at 57,800 yen on November 20, 2026, which converts to $364.55 at 158.55 yen per dollar, $2.55 above the $362.00 market read: the two markets agree on the top card. The Moltres ex SAR at 19,800 yen converts to $124.88, $36.91 above the $87.97 market read: Tokyo asks far more than the market pays. The Nidoking ex SAR at 9,980 yen converts to $62.95, $20.78 below the $83.73 market read: Tokyo asks far less. The box tells the same mixed story: Card Rush had one sealed box at 24,800 yen, $156.42, $24.62 below our $181.04, while the cheapest of 16 listings on Kakaku.com was 27,980 yen, $176.47, only $4.57 below our shelf.",
+          "The English twin is a different product with a different chase. English Destined Rivals, released May 30, 2025, merges SV10 with Heat Wave Arena into a 244-card set, and its top card is the Mewtwo ex Special Illustration Rare 231/182, which traded near-mint at $378 as of November 2, 2026. The Japanese set released April 18, 2025, three months after [SV9 Battle Partners](/blog/sv9-battle-partners-buyers-guide/), and the other half of the English merge, [SV9a Heat Wave Arena](/blog/sv9a-heat-wave-arena-buyers-guide/), sits at $138.82 a box on the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, especially when one Mewtwo ex SAR costs 2.00 boxes. Second, English-tournament players: Japanese cards do not play in English events, and no per-pack saving changes that. Third, buyers who want a guaranteed return: the Mewtwo has already fallen 27.60% since April, the box sits 17.27% above the market box, and no honest page can tell you what SV10 will cost next month. It is also not for anyone building the complete set by opening boxes: the complete set is $818.32 as singles, 4.52 boxes at our box price, and no box guarantees a Special Art Rare. Opening four boxes costs $724.16 and still leaves the chase to chance, while buying the set as singles costs $818.32 and leaves nothing to chance: the $94.16 between the two is the price of certainty."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Mewtwo SAR, buy the single at $362.00, which is 2.00 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card has fallen 27.60% since April",
+          "If the job is the box, pay $181.04, or $6.03 a pack, and treat the chase as a bonus; the box is $26.66 above the TCGplayer market box",
+          "If the job is a case, divide it first: the case saves $624.29 against twelve singles, $52.02 a box, and confirm the $129.02 per-box figure at checkout",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Mewtwo ex prints four times in this set",
+          "Check the condition grade on any Japanese listing before you pay: an A- Mewtwo SAR was 39,800 yen against 57,800 yen clean",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV10 best-cards checklist",
+        "paragraphs": [
+          "Run this in order before the next SV10 box you consider. It takes ten minutes and it replaces a shelf of shop rankings with a decision built on prices you can actually pay. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles."
+        ]
+      }
+    ],
+    "slug": "sv10-best-cards",
+    "takeaway": [
+      "The SV10 top ten, on TCGplayer market prices read November 21, 2026, totals $709.99, with the Mewtwo ex SAR cross-checked three ways at $362.00. The Mewtwo is $362.00 of it, 50.99% of the list, and the three Mewtwo prints together are $424.83, 59.84%. The six SARs are $624.26, 87.93%.",
+      "On our shelf as of November 22, 2026, the box is $181.04 and the case is $1,548.19. Both fell exactly 15.00% between November 3 and November 16, and neither has moved since. The case saves $624.29 against twelve singles, $52.02 a box, while the box sits $26.66 above the $154.38 TCGplayer market box.",
+      "It is worth buying as the Team Rocket set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Mewtwo alone is 2.00 boxes, and the card has already fallen 27.60% since April.",
+      "The ladder below the top card falls fast: the bottom five together are $81.76, and 102 of the 132 collector numbers ask 500 yen or less in Tokyo. Three facts the other lists get wrong are corrected on this page: TheGamer's February prices are nine months stale, the English top card is not in this set, and Mewtwo ex prints four times at four prices.",
+      "Companion guide: the [SV10 buyer's guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the same two formats at the November 3 prices, and the [SV10 investment guide](/blog/sv10-investment/) runs the same division for the longer hold.",
+      "For the verdict on the set at today's prices, the [is SV10 worth buying guide](/blog/is-sv10-worth-buying/) runs the November 15 box at $181.04 and the case at $1,548.19 against the Mewtwo chase at $362.00.",
+      "For the other half of Destined Rivals, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $138.82 box and the Cynthia's Garchomp ex SAR behind it, and the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) carries both sets on the full shelf."
+    ]
+  },
   "sv10-glory-of-team-rocket-buyers-guide": {
     "datePublished": "2026-11-03",
     "faqs": [
@@ -55856,7 +56066,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV10 box at $212.99 is the way to open Team Rocket's set, and the case at $1,821.40 is the way to hold or split it at $151.78 per box, saving $734.48 against twelve singles. The set is 132 cards from April 18, 2025, in 30 packs of 5, with Team Rocket's Mewtwo ex printed four times and no box guaranteeing any of them. Buy the box to open, buy the case to hold or split, buy the Mewtwo single if it is the only card you want, and buy English Destined Rivals if the cards need to be playable outside Asia. That is the whole article: one store, one date, every division shown.",
       "For the other half of Destined Rivals, the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the $163.32 box, the $1,604.33 case at $133.69 a box, and the Cynthia's Garchomp ex SAR behind it — and the [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) carries both sets on the full thirty-two-box shelf.",
       "For the verdict on the set at today's prices, the [is SV10 worth buying guide](/blog/is-sv10-worth-buying/) runs the November 15 box at $181.04 and the case at $1,548.19 against the Mewtwo chase at $362.00.",
-      "New this cycle: the [SV10 Glory of Team Rocket investment guide](/blog/sv10-investment/) prices the set as an investment, case $1,548.19 against box $181.04, with the Mewtwo SAR at $362.00, down 27.60 percent since April."
+      "Companion guide: the [SV10 Glory of Team Rocket investment guide](/blog/sv10-investment/) prices the set as an investment, case $1,548.19 against box $181.04, with the Mewtwo SAR at $362.00, down 27.60 percent since April.",
+      "New this cycle: the [SV10 best cards guide](/blog/sv10-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 21, 2026, with the Mewtwo ex SAR at $362.00, three Mewtwo prints in the top ten, and the case dividing to $129.02 a box."
     ]
   },
   "sv10-investment": {
@@ -56031,7 +56242,8 @@ export const POSTS: Record<string, BlogPost> = {
       "SV10 Glory of Team Rocket is a good sealed-case investment at $1,548.19, or $129.02 a box, $28.98 below the $158.00 sold-first market box from November 10, 2026, and a bad sealed-box investment at $181.04, $23.04 above it.",
       "Team Rocket's Mewtwo ex, the Special Art Rare 125/098, is $362.00 on TCGplayer as of November 15, 2026, or 2.00 boxes and 44.13 percent of the set's value, down 27.60 percent since April.",
       "Both sealed formats fell exactly 15 percent in the two weeks before this guide, from $212.99 and $1,821.40 on November 3, 2026: a shelf repricing, not a market crash.",
-      "New this cycle: the [SV9a Heat Wave Arena investment guide](/blog/sv9a-investment/) runs the same division on the other half of Destined Rivals, where the $138.82 box and $1,363.68 case divide to $113.64 a box."
+      "Companion guide: the [SV9a Heat Wave Arena investment guide](/blog/sv9a-investment/) runs the same division on the other half of Destined Rivals, where the $138.82 box and $1,363.68 case divide to $113.64 a box.",
+      "New this cycle: the [SV10 best cards guide](/blog/sv10-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 21, 2026, with the Mewtwo ex SAR at $362.00 and the top ten at $709.99 against the $181.04 box."
     ]
   },
   "sv11b-best-cards": {
@@ -56229,7 +56441,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The ladder below the top card falls fast: the bottom five together are $120.58, and 260 of the set's 326 printings are under $5.00. Two facts the other lists get wrong are corrected on this page: the English top card is not in this set, and 174/086 names two cards, Zekrom here and Reshiram in White Flare.",
       "Companion guide: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the same four products, and the [SV11B investment guide](/blog/sv11b-investment/) runs the same division for the longer hold.",
       "For the twin, the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) proves the sets are the same bet, with Black Bolt $13.14 dearer on the box for Zekrom over Reshiram.",
-      "For the set's buying guide, the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the box, Deluxe and case the same way at the November 7 prices."
+      "For the set's buying guide, the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the box, Deluxe and case the same way at the November 7 prices.",
+      "New this cycle: the [SV11W White Flare best cards guide](/blog/sv11w-best-cards/) ranks the twin set's ten most valuable cards on TCGplayer market prices, Nov 21, 2026, with the Reshiram ex BWR at $318.18 against the Zekrom ex BWR at $306.96 here."
     ]
   },
   "sv11b-black-bolt-buyers-guide": {
@@ -56594,6 +56807,210 @@ export const POSTS: Record<string, BlogPost> = {
       "Box, Deluxe, and case all fell exactly 15 percent in the nine days before this guide, from $183.18, $212.99, and $991.73 on November 7, 2026: a shelf repricing, not a market crash."
     ]
   },
+  "sv11w-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "The Reshiram ex Black White Rare, 174/086, at $318.18 on TCGplayer market as of November 21, 2026, from The Lab TCG's nightly snapshot of the Japanese set, cross-checked against tcgscanapp's November 8 read at $313.37 and our November 15 read at $313.97. yuyu-tei, a Japanese shop, lists it at 69,800 yen, $440.24, on November 16, which is $122.06 above the market read. The Reshiram ex Special Art Rare, 168/086, is second at $169.86. The English set's top card, the Victini #172 at $527.14, is a different set and a different card.",
+        "q": "What is the most valuable SV11W card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $318.18, which is 2.23 boxes at $142.56, and the Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $733.26, which is 5.14 boxes, and the set does contain a god pack, a rare replacement pack of six Art Rares and one Special Art Rare, but it is rare, not a rate. Buy the single.",
+        "q": "Should I buy a White Flare box to pull the Reshiram BWR?"
+      },
+      {
+        "a": "No. The numbering differs, the Japanese Reshiram is #174 and the English Reshiram is #173, and the English top card, the Victini #172 at $527.14, has no equivalent at that price in the Japanese set, where the top card is the Reshiram BWR at $318.18 and the only BWR in the set. The formats differ too: Japanese boxes hold 20 packs of 7 cards with a Deluxe format of four 35-card packs, while English White Flare comes in Elite Trainer Boxes of nine packs with a promo and no booster box. Japanese cards are not legal at English events.",
+        "q": "Is the Japanese set the same as the English set?"
+      }
+    ],
+    "h1": "SV11W Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV11W White Flare is the Reshiram ex Black White Rare, 174/086, at $318.18 on TCGplayer market as of November 21, 2026, and the ten best cards together are $733.26. The Reshiram ex Special Art Rare, 168/086, is second at $169.86, and the top two together are $488.04, 66.56% of the list. On our shelf, November 22, 2026, the [White Flare box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) is $142.56 and the [White Flare case](/product/sv11w-white-flare-sealed-case-12-boxes-japanese-pokemon-card/) is $758.30. Buy the box to open Unova, buy the single for the card.",
+      "Who this is for: collectors ranking the Japanese White Flare chase, buyers choosing between the box, the Deluxe and the case, and buyers who need the Japanese ranking, not the English one. Who it is not for: anyone chasing the Reshiram BWR by opening boxes, anyone who wants English White Flare cards for tournament play, and anyone buying a sealed box as a guaranteed investment."
+    ],
+    "metaDescription": "SV11W White Flare best cards, TCGplayer market, Nov 21, 2026: the $318.18 Reshiram ex BWR, the $169.86 Reshiram SAR, and the $142.56 box.",
+    "metaTitle": "SV11W Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Reshiram is 43.39% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price from The Lab TCG's November 21, 2026 snapshot of the Japanese set, JP-SV11W. The top card cross-checks four ways: tcgscanapp's November 8 read prints $313.37, our November 15 read prints $313.97, so the card rose $4.81 in thirteen days, 1.53%, and yuyu-tei lists it at 69,800 yen on November 16, which is $440.24 at 158.55 yen per dollar, $122.06 above the market read, while the same shop offers $220.75 to buy it back. The ten add to $733.26, and the top card alone is $318.18, 43.39% of the list.",
+          "The split is the story. The top two are $488.04, 66.56% of the top ten, the top three are $534.15, 72.85%, and the top five are $614.90, 83.86%. The bottom five together are $118.36, 16.14%. One of every printing in the set, at The Lab TCG's November 21 read, is $1,499.78, so the top ten are 48.89% of the whole set's singles value, and the Reshiram alone is 21.22% of it. Six of the ten are Special Art Rares at $326.98 together, 44.59% of the list, and three are Art Rares at $88.10, 12.01%. The twin ranking, the [SV11B best cards](/blog/sv11b-best-cards/), tops out lower: the Zekrom BWR is $306.96, $11.22 below the Reshiram."
+        ]
+      },
+      {
+        "h": "The money layer: the shelf held after a 15.00% cut, and the case still divides to $63.19",
+        "math": [
+          "White Flare box per pack: $142.56 / 20 packs = $7.13 per pack",
+          "White Flare box per card: $142.56 / 140 cards = $1.02 per card",
+          "White Flare Deluxe per pack: $167.90 / 4 packs = $41.98 per 35-card pack",
+          "White Flare Deluxe per card: $167.90 / 140 cards = $1.20 per card",
+          "White Flare Deluxe premium: $167.90 - $142.56 = $25.34 more than the standard box",
+          "White Flare case per box: $758.30 / 12 boxes = $63.19 per box",
+          "White Flare case per pack: $758.30 / 240 packs = $3.16 per pack",
+          "White Flare case per card: $758.30 / 1,680 cards = $0.45 per card",
+          "White Flare twelve singles: 12 x $142.56 = $1,710.72",
+          "White Flare case saving: $1,710.72 - $758.30 = $952.42 across the case",
+          "White Flare saving per box: $952.42 / 12 = $79.37 per box",
+          "White Flare case saving share: $952.42 / $1,710.72 = 55.67% of twelve singles",
+          "White Flare box vs official price: 5,800 yen / 158.55 yen per dollar = $36.58; $142.56 / $36.58 = 3.90x official",
+          "White Flare case per-box vs official price: $63.19 / $36.58 = 1.73x official",
+          "White Flare box vs Kakaku.com: 25,980 yen / 158.55 yen per dollar = $163.86; $163.86 - $142.56 = $21.30 below the cheapest Japanese listing",
+          "White Flare card file set per pack: $33.18 / 6 packs = $5.53 per pack",
+          "White Flare top 10 total: $318.18 + $169.86 + $46.11 + $44.85 + $35.90 + $34.95 + $21.90 + $21.72 + $20.27 + $19.52 = $733.26",
+          "White Flare top 2 total: $318.18 + $169.86 = $488.04; $488.04 / $733.26 = 66.56% of the top 10",
+          "White Flare top 3 total: $318.18 + $169.86 + $46.11 = $534.15; $534.15 / $733.26 = 72.85% of the top 10",
+          "White Flare top 5 total: $318.18 + $169.86 + $46.11 + $44.85 + $35.90 = $614.90; $614.90 / $733.26 = 83.86% of the top 10",
+          "White Flare bottom 5 total: $34.95 + $21.90 + $21.72 + $20.27 + $19.52 = $118.36; $118.36 / $733.26 = 16.14% of the top 10",
+          "White Flare top card share: $318.18 / $733.26 = 43.39% of the top 10",
+          "White Flare six SARs total: $169.86 + $44.85 + $35.90 + $34.95 + $21.90 + $19.52 = $326.98; $326.98 / $733.26 = 44.59% of the top 10",
+          "White Flare three ARs total: $46.11 + $21.72 + $20.27 = $88.10; $88.10 / $733.26 = 12.01% of the top 10",
+          "White Flare all seven SARs total: $326.98 + $12.94 = $339.92",
+          "White Flare Reshiram BWR against the box: $318.18 / $142.56 = 2.23 boxes",
+          "White Flare top 2 against the box: $488.04 / $142.56 = 3.42 boxes",
+          "White Flare top 10 against the box: $733.26 / $142.56 = 5.14 boxes",
+          "White Flare top 10 against the case: $733.26 / $758.30 = 0.97 of a case",
+          "White Flare Reshiram BWR vs set value: $318.18 / $1,499.78 = 21.22% of the November 21, 2026 set value (The Lab TCG)",
+          "White Flare top 10 vs set value: $733.26 / $1,499.78 = 48.89% of the November 21, 2026 set value (The Lab TCG)",
+          "White Flare Reshiram BWR vs Reshiram SAR: $318.18 - $169.86 = $148.32; $318.18 / $169.86 = 1.87x",
+          "White Flare Reshiram BWR vs Zekrom BWR: $318.18 - $306.96 = $11.22 dearer",
+          "White Flare vs Black Bolt box: $155.70 - $142.56 = $13.14 more for Black Bolt",
+          "White Flare vs Black Bolt Deluxe: $181.04 - $167.90 = $13.14 more for Black Bolt",
+          "White Flare vs Black Bolt case: $842.97 - $758.30 = $84.67 more for Black Bolt",
+          "White Flare Reshiram BWR cross-check: $318.18 - $313.37 = $4.81 above the November 8, 2026 tcgscanapp read; $4.81 / $313.37 = 1.53% higher in 13 days",
+          "White Flare Reshiram BWR Cardfolio gap: $318.18 - $278.00 = $40.18 above the November 18, 2026 Cardfolio guide price",
+          "White Flare Reshiram BWR yuyu-tei ask: 69,800 yen / 158.55 yen per dollar = $440.24; $440.24 - $318.18 = $122.06 above the TCGplayer market read",
+          "White Flare Reshiram BWR yuyu-tei buyback: 35,000 yen / 158.55 yen per dollar = $220.75; $220.75 / $440.24 = 50.14% of the shop ask",
+          "White Flare Reshiram BWR PSA 10 vs raw: $573.00 / $318.18 = 1.80x (PokeInvest, November 2026)",
+          "White Flare set value in boxes: $1,499.78 / $142.56 = 10.52 boxes; 11 x $142.56 = $1,568.16; $1,568.16 - $1,499.78 = $68.38 above the set value",
+          "White Flare BWR chase at the Kaikan rate: 35 x $142.56 = $4,989.60",
+          "White Flare English Victini vs Japanese Reshiram: $527.14 - $318.18 = $208.96; $527.14 / $318.18 = 1.66x",
+          "White Flare English Reshiram vs Japanese Reshiram: $427.60 - $318.18 = $109.42"
+        ],
+        "paragraphs": [
+          "The shelf has not moved since the repricing: the box was $167.72 on November 9, 2026, and fell exactly 15.00% to $142.56 by November 16, and the November 22 read shows the same figures. The box is $142.56 for 20 packs of 7 cards, $7.13 a pack and $1.02 a card. The [Deluxe box](/product/sv11w-expansion-pack-deluxe-white-flare-booster-box-japanese-pokemon-card/) is $167.90 for four 35-card packs, $41.98 a pack and $1.20 a card, which is $25.34 more than the standard box for the same 140 cards: the premium buys one Art Rare guaranteed in each pack, four in the box, and nothing else. The case is $758.30, or $63.19 a box, $3.16 a pack and $0.45 a card, which is $952.42 less than twelve singles at $1,710.72, or $79.37 a box.",
+          "Against the market, the shelf is cheap on the box and deep on the case. The cheapest sealed White Flare box on Kakaku.com was 25,980 yen on November 15, 2026, which is $163.86 at 158.55 yen per dollar, so our box at $142.56 sits $21.30 below the cheapest Japanese listing. Against the official price the box is still dear: 5,800 yen is $36.58, so the box trades at 3.90 times official. The twin gap is a preference fee, not a value signal: the Black Bolt box is $13.14 above the [White Flare box](/product/sv11w-white-flare-booster-box-japanese-pokemon-card/) at $142.56, the same $13.14 on the Deluxe, and $84.67 on the case, for Zekrom over Reshiram, while the chase runs the other way by $11.22."
+        ]
+      },
+      {
+        "h": "The decision layer: box, Deluxe, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on White Flare, what each costs per pack, what it is for, and where it fails. The single row is the only row that buys the card instead of the chance: the Reshiram BWR is 2.23 boxes, and the top ten together are 5.14 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase, and the god pack, a rare replacement pack of six Art Rares and one Special Art Rare, is not a rate. A buyer who opens for the Reshiram is buying a lottery ticket with a $142.56 face value, and the recovery is to buy the single.",
+          "Read the case row as a division, not a promise. The case saves $79.37 a box only if twelve boxes are wanted, and the Deluxe costs $25.34 more only if the guaranteed Art Rare is worth that much to you. The [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) prices the same products for the holder, and the [SV11W investment guide](/blog/sv11w-investment/) runs the same division for the longer hold: confirm $758.30 at checkout before planning a split around $63.19 a box."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "White Flare box",
+              "$142.56",
+              "$7.13",
+              "Opening the Unova set in Japanese",
+              "Chase not guaranteed; 3.90 times official price"
+            ],
+            [
+              "White Flare Deluxe box",
+              "$167.90",
+              "$1.20 a card",
+              "Guaranteed Art Rare per 35-card pack",
+              "$25.34 more for the same 140 cards"
+            ],
+            [
+              "White Flare case (12)",
+              "$758.30",
+              "$63.19 a box",
+              "Twelve boxes at $79.37 a box under singles",
+              "$758.30 in one purchase; confirm at checkout"
+            ],
+            [
+              "Card file set",
+              "$33.18",
+              "$5.53 a pack",
+              "Six packs plus the file and the Victini promo",
+              "Not sealed product; no BWR chase"
+            ],
+            [
+              "The single",
+              "$318.18 Reshiram BWR",
+              "n/a",
+              "Owning the chase card",
+              "2.23 boxes for one card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the English set is not this set",
+        "note": "From the Warehouse: the question we get most about White Flare is whether the $527.14 Victini is the card to chase, because every English list leads with it. It is not a card in this set. Victini #172 at $527.14 is the English White Flare top card; the Japanese set this page ranks has one Black White Rare, the Reshiram ex at $318.18, and no Victini BWR in its packs at all. Buy the Japanese ranking if you are buying Japanese cards, and check the set code on the listing, JP-SV11W against WHT, before you pay.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and all three rank the wrong set. CardPrice carries a 173-card White Flare with Victini #172 at $527.14 and Reshiram ex #173 at $427.60, released July 18, 2025. RareCandy ranks the same English ten, led by the Victini at $554.95 and the Reshiram at $477.62, updated November 5, 2026. poke-life, the pull-rate page, measures English packs too: its Special Illustration Rare rate of 1 in 80 packs comes from 720 English packs in one verified opening, and its set code is RSV10.5, the English code. None of the three divides a Japanese shelf price or a case, and none of them says which set its numbers belong to in the headline.",
+          "The gap this page owns starts with the Japanese top ten, every read dated November 21. Second is the shelf: three live prices, the exact 15.00% repricing, and the case divisions, none of which any ranking list carries. Third is the numbering trap: 174/086 names the Reshiram ex BWR here and the Zekrom ex BWR in Black Bolt, and 168/086 is the Reshiram ex SAR here and the Kyurem ex SAR there. A ranking list tells you which card is dearest. This page tells you which set it belongs to, and what the box costs. The twin comparison, [Black Bolt versus White Flare](/blog/black-bolt-vs-white-flare-which-to-buy/), runs the same correction across both halves."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "note": "From the Warehouse: the question we get second most about White Flare is whether the Deluxe is worth it, and the honest answer is the same one the buyer's guide gave on November 9: it depends on what a guaranteed Art Rare is worth to you, because the Deluxe holds the same 140 cards as the standard box and costs $25.34 more after the repricing. At Japanese retail the two formats cost the same 5,800 yen, so the premium is a shelf premium, not a retail one. The second question is whether the case is real at $63.19 a box: it is the live shelf figure as of November 22, 2026, and the one to confirm at checkout before a large order.",
+        "paragraphs": [
+          "The top of the ladder is one card, once. The Reshiram ex Black White Rare is $318.18, 43.39% of the top ten and 21.22% of the whole set's singles value, and it has barely moved: tcgscanapp has it up 8.8% in 90 days to November 8, and our November 21 read of $318.18 extends the same slow climb. The second rung is the Reshiram ex Special Art Rare at $169.86, the same Pokemon one tier down, and the gap between the two Reshirams is $148.32: the BWR is 1.87 times the SAR. The third rung is the dearest Art Rare in the set, the Oshawott at $46.11, which outranks every Special Art Rare below the Reshiram. The fourth rung is the SAR tier below Reshiram: the Hydreigon ex at $44.85, the Hilda at $35.90, the Keldeo ex at $34.95, the Jellicent ex at $21.90 and the Whimsicott ex at $19.52, five cards at $157.12, which with the Reshiram SAR makes six SARs at $326.98. The fifth rung is the two Art Rares that close the list, the Zorua at $21.72 and the Zoroark at $20.27, $41.99 together.",
+          "Below the ten the set is nearly free. The Bouffalant ex SAR, 172/086, is $12.94, fourteenth in the set, so all seven Special Art Rares together are $339.92. The Samurott Art Rare at $13.48 shows the other trap: its lowest SNKRDUNK ask on September 30 was 7,499 yen, about $49, against a November 21 market price of $13.48, so an ask is not a sale. The set counts 326 printings with the mirrors, which is why our [master set guide](/blog/what-is-a-master-set-pokemon/) exists. The [god pack guide](/blog/what-is-a-god-pack-japanese-pokemon/) explains the rare replacement pack that sometimes replaces a normal pack."
+        ]
+      },
+      {
+        "h": "The risk layer: the BWR that keeps rising, and the Deluxe that buys no extra cards",
+        "paragraphs": [
+          "The first risk is the BWR's rise, which is not safety. A card up 8.8% in 90 days to $318.18 has a ceiling set by the grade above it: a PSA 10 is $573.00 with 14,597 in existence, 1.80 times the raw price, and the gem rate is 81.7%, so the grade is common and the raw price cannot run far past it. The second risk is concentration: one card is 21.22% of the set's value, so if the Reshiram falls, the box has thin cover behind it. The third risk is the Deluxe trap. The Deluxe costs $25.34 more for the same 140 cards, and the premium buys only certainty, one Art Rare guaranteed per 35-card pack. The guarantee covers Art Rares, not the BWR, and the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) shows the same ceiling on the SAR: a PSA 10 is $183.00 against a raw $169.86, only 1.08 times.",
+          "The fourth risk is the case price itself: $63.19 a box against a $142.56 box is the deepest discount on our shelf, and the first figure to move if the catalog corrects, so confirm it at checkout before planning a split. The fifth risk is the reprint: The Pokemon Company does not publish print runs, so no sealed buyer can verify scarcity, and a set this popular is the kind that gets reprinted. The recovery is the same in every case: buy the Deluxe only if the opening experience is worth $25.34 to you, the standard box if the cards are what matter, and the single if the Reshiram is what you want. Our [best sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its singles."
+        ]
+      },
+      {
+        "h": "Context: 174 cards, half of Unova, and a number that names two cards",
+        "paragraphs": [
+          "Black Bolt and White Flare are the paired sets that close the Scarlet and Violet era. Together they cover all 156 Pokemon first found in the Unova region, and every one of them appears as an Art Rare or better. White Flare is the Reshiram half and Black Bolt is the Zekrom half, and each set is 174 cards: an 86-card main set with secrets to 174, and 326 printings with the mirrors counted. The new rarity is BWR, Black White Rare, a monochrome finish, and the only two cards that carry it in the Japanese pair are Reshiram ex at 174/086 here and Zekrom ex at 174/086 in Black Bolt.",
+          "The Deluxe format is new with this pair, a different opening experience, not a better one. One Deluxe pack holds 35 cards at 1,450 yen with one Art Rare guaranteed, and the box holds four of them, 140 cards, at the same combined 5,800 yen. The English release followed on July 18, 2025, as Elite Trainer Boxes of nine packs and Booster Bundles of six, with no English booster box at all, which makes the Japanese twenty-pack box the only box format for this set. The numbering trap runs through both: both twins count out of 086 and run to 174, so a number names two cards, and 168/086 is the Reshiram ex SAR here and the Kyurem ex SAR in Black Bolt, while the English set renumbers everything again, Reshiram ex BWR at 173, Reshiram ex SIR at 166, Hilda at 171. Send the set name with the number, every time. Japanese cards are for Japanese-language play and collecting, and the language split is the one our [Japanese versus English Pokemon cards guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers in full."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, especially when one Reshiram ex BWR costs 2.23 boxes. Second, English-tournament players: Japanese cards do not play in English events, and no per-pack saving changes that. Third, Deluxe buyers chasing the Reshiram: the Deluxe guarantees Art Rares, not the BWR. It is not for anyone who wants the English top card, either: the Victini at $527.14 is not in this set, and the card to check before you pay is the set code, JP-SV11W against WHT.",
+          "Who this guide is for, restated plainly: collectors who want the Unova dex in Japanese and will open twenty packs of it, sealed holders who divide the case before they pay, and buyers who have decided the set and need the format call. If you are in one of those groups, the box at $142.56 and the case at $63.19 a box are your shortlist, with the Deluxe only if the guaranteed Art Rare is worth $25.34 to you. If you are not, buy the format that fits and come back to White Flare when the set, not the price, is the reason. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the box against the rest of the shelf."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, Deluxe buyer, or single-card chaser",
+          "If the job is the Reshiram BWR, buy the single at $318.18, which is 2.23 boxes, and do not open boxes for it; the Pokemon Company publishes no pull rates and the card has risen 8.8% in 90 days to November 8",
+          "If the job is the box, pay $142.56, or $7.13 a pack, and treat the chase as a bonus",
+          "If the job is the Deluxe, name what the $25.34 buys: one guaranteed Art Rare per pack, not better odds at the Reshiram",
+          "If the job is a case, divide it first: the case saves $952.42 against twelve singles, $79.37 a box, and confirm the $63.19 per-box figure at checkout",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because 174/086 names two cards",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the White Flare best-cards checklist",
+        "paragraphs": [
+          "Run this in order before the next White Flare box you consider. It takes ten minutes and replaces a shelf of rankings with a decision built on prices you can actually pay. Our [best sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its singles, and the [SV11W White Flare buyer's guide](/blog/sv11w-white-flare-buyers-guide/) prices the box, Deluxe and case at the November 9 prices."
+        ]
+      }
+    ],
+    "slug": "sv11w-best-cards",
+    "takeaway": [
+      "The SV11W top ten, on TCGplayer market prices read November 21, 2026, totals $733.26, with the Reshiram ex BWR cross-checked four ways at $318.18. The Reshiram is $318.18 of it, 43.39% of the list. The Reshiram ex SAR is $169.86, and the top two together are $488.04, 66.56%. The six SARs are $326.98, 44.59%.",
+      "On our shelf as of November 22, 2026, the box is $142.56, the Deluxe is $167.90, the case is $758.30, and the card file set is $33.18. All three sealed formats fell exactly 15.00% between November 9 and November 16, and the cut held: the November 22 read shows the same figures.",
+      "It is worth buying as the Unova set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, and the Reshiram alone is 2.23 boxes.",
+      "The ladder below the top card falls fast: the bottom five together are $118.36, and the seventh Special Art Rare, the Bouffalant ex at $12.94, ranks fourteenth. Two facts the other lists get wrong are corrected on this page: the English top card is not in this set, and 174/086 names two cards, Reshiram here and Zekrom in Black Bolt.",
+      "Companion guide: the [is White Flare worth buying guide](/blog/is-sv11w-worth-buying/) prices the same four products, and the [SV11W investment guide](/blog/sv11w-investment/) runs the same division for the longer hold.",
+      "For the twin, the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) proves the sets are the same bet, with White Flare $13.14 cheaper on the box while carrying the dearer chase by $11.22.",
+      "For the set's buying guide, the [SV11W White Flare buyer's guide](/blog/sv11w-white-flare-buyers-guide/) prices the box, Deluxe and case the same way at the November 9 prices, before the 15.00% cut."
+    ]
+  },
   "sv11w-investment": {
     "datePublished": "2026-11-16",
     "faqs": [
@@ -56947,7 +57364,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The White Flare box at $167.72 is the middle of the shelf at $8.39 a pack, the Deluxe at $197.53 costs $29.81 more for the same 140 cards and buys only a guaranteed Art Rare per pack, and the case at $892.12 is the way to buy it sealed, at $74.34 a box and $3.72 a pack, saving $1,120.52 against twelve singles. The set is 174 cards, released June 6, 2025, and the chase is the Reshiram ex BWR, which alone costs about $316 as a single.",
       "White Flare is the cheaper twin, by $15.46 a box and $99.61 a case against Black Bolt, but the two boxes divide Unova rather than duplicating it, so the card you want decides the box and the price decides nothing on its own. Reshiram ex appears at three tiers, Super Rare 160, Special Art Rare 168, and Black White Rare 174, and Kyurem ex and Meloetta ex are Black Bolt cards, not White Flare.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace asks as of September 30, 2026. The case price is the figure to confirm at checkout: $74.34 a box is the deepest case discount on this set, and the first one to move if the catalog corrects.",
-      "New this cycle: the [SV11W White Flare investment guide](/blog/sv11w-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced."
+      "Companion guide: the [SV11W White Flare investment guide](/blog/sv11w-investment/) runs the same verdict as a sealed investment, with the 15 percent repricing and the case math priced.",
+      "New this cycle: the [SV11W White Flare best cards guide](/blog/sv11w-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 21, 2026, with the Reshiram ex BWR at $318.18 and the top ten at $733.26 against the $142.56 box."
     ]
   },
   "sv1a-investment": {
