@@ -33400,7 +33400,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the box dropped $16.06 in six days, from $107.04 to $90.98, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,303.24 to $1,107.75, which did not fix the inversion. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of October 7 to November 13, 2026. The box now sits $18.76 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV4a Shiny Treasure ex worth buying guide](/blog/is-sv4a-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 4.14 boxes and the cards are out of Standard.",
-      "New this cycle: the [SV5A Crimson Haze investment guide](/blog/sv5a-investment/) runs the same shelf as a sealed hold, box $90.98 against a case that divides to $92.31 a box and loses $15.99 against twelve singles, with the Greninja ex Special Art Rare at $229.18 on TCGplayer as of November 18, 2026."
+      "Companion guide: the [SV5A Crimson Haze investment guide](/blog/sv5a-investment/) runs the same shelf as a sealed hold, box $90.98 against a case that divides to $92.31 a box and loses $15.99 against twelve singles, with the Greninja ex Special Art Rare at $229.18 on TCGplayer as of November 18, 2026.",
+      "Companion guide: the [SV5a best cards guide](/blog/sv5a-best-cards/) ranks the ten cards worth chasing on market prices as of November 22, 2026, top ten $485.80, Greninja ex SAR $229.18, against our $90.98 box and $1,107.75 case."
     ]
   },
   "is-sv5k-worth-buying": {
@@ -33579,7 +33580,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Wild Force set to open, sealed, and it is not worth buying as a way to own the Raging Bolt ex Special Art Rare or to make the money back by opening. The Raging Bolt sat at $54.21 on TCGplayer on November 12, 2026, which is 59.58 percent of a box, and the Morty's Confidence Special Art Rare at $54.03 is 59.39 percent of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $16.06 in five days, from $107.04 to $90.98, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,052.69 to $894.79, which did not change the verdict, because the case saved money before the fall and saves $196.97 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 24 to November 12, 2026. The box now sits $30.95 above the cheapest 30-pack box on the shelf, M3 Munikis Zero at $60.03, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV5M Cyber Judge worth buying guide](/blog/is-sv5m-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 2.61 boxes and the case saves $175.56.",
-      "New this cycle: the [SV5K Wild Force investment guide](/blog/sv5k-investment/) runs the same shelf as a sealed hold, box $90.98 against a case that divides to $74.57 a box and saves $196.97, with the Raging Bolt ex Special Art Rare at $54.21 on TCGplayer as of November 12, 2026."
+      "Companion guide: the [SV5K Wild Force investment guide](/blog/sv5k-investment/) runs the same shelf as a sealed hold, box $90.98 against a case that divides to $74.57 a box and saves $196.97, with the Raging Bolt ex Special Art Rare at $54.21 on TCGplayer as of November 12, 2026.",
+      "Companion guide: the [SV5K best cards guide](/blog/sv5k-best-cards/) ranks the ten cards worth chasing on market prices as of November 21, 2026, top ten $285.42, Morty's Conviction SAR $54.08, against our $90.98 box and $894.79 case."
     ]
   },
   "is-sv5m-worth-buying": {
@@ -62030,6 +62032,274 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV5A Crimson Haze investment guide](/blog/sv5a-investment/) and the [SV5K Wild Force investment guide](/blog/sv5k-investment/) price the January and March 2024 twins at the same $90.98 box, the SV5A case inverted at $92.31 a box while the SV5K case saves $196.97."
     ]
   },
+  "sv5a-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "Greninja ex, the Special Art Rare numbered 090/066, at $229.18 on the November 22, 2026 read, read the same day. Scryda prices the full Japanese set that day from TCGCSV market data, and Arca TCG's TCGplayer read on the morning of November 22 agrees exactly at $229.18, with a low of $197.49 and a high of $303.80. Cardfolio's guide estimate puts it at $170, $59.18 below the market read, and that estimate is not trusted here. It is 2.52 boxes at our $90.98 box price, so one card runs this set the way no card runs SV6a.",
+        "q": "What is the most valuable SV5a card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $229.18, which is 2.52 boxes, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $485.80, which is 5.34 boxes, and the case is $1,107.75. Buy the single if the Greninja SAR is the card you want, and buy the box only if you want to open Crimson Haze.",
+        "q": "Should I buy an SV5a box to pull the Greninja ex SAR?"
+      },
+      {
+        "a": "No. Temporal Forces, released March 22, 2024, is the English set for Wild Force and Cyber Judge, the January 26, 2024 Japanese sets. Crimson Haze went into English Twilight Masquerade, released May 24, 2024, a 226-card set worth about $1,044 as singles. The same Greninja art is the 214/167 Special Illustration Rare there at $223.02 on November 19, 2026, $6.16 less than the Japanese SAR, and Japanese cards are generally not legal at official events outside Asia, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Temporal Forces?"
+      }
+    ],
+    "h1": "SV5a Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV5a Crimson Haze is Greninja ex, the Special Art Rare numbered 090/066, at $229.18 (November 22, 2026, Scryda read of TCGCSV data, cross-checked exactly on TCGplayer the same morning), and the ten best together are $485.80. One card is 47.18% of the list and 41.45% of the whole set. On our shelf, as of November 22, 2026, the [SV5a box](/product/sv5a-crimson-haze-booster-box-japanese-pokemon-card/) is $90.98 and the [SV5a sealed case](/product/sv5a-crimson-haze-sealed-case-12-boxes-japanese-pokemon-card/) is $1,107.75, and the case is the trap in this set: it costs $15.99 more than twelve single boxes. Buy the box to open Crimson Haze, buy the single for the Greninja.",
+      "Crimson Haze, set code SV5a, is 96 cards: 66 regular cards plus 30 secret rares, 12 Art Rares, 10 Super Rares, 5 Special Art Rares and 3 Ultra Rares, with 3 ACE SPEC cards in the base set. It released in Japan on March 22, 2024, in boxes of 30 packs of 5 cards at 180 yen a pack, and its English twin, Twilight Masquerade, followed May 24, 2024. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, singles, or the single."
+    ],
+    "metaDescription": "SV5a Crimson Haze best cards, Nov 22, 2026: Greninja ex SAR $229.18, top ten $485.80, box $90.98. The case costs $15.99 extra.",
+    "metaTitle": "SV5a Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one card is 47.18% of the list",
+        "math": [],
+        "paragraphs": [
+          "Every value below is from Scryda's read of the Japanese set, raw market values via TCGCSV, refreshed November 22, 2026 and read the same day. The ten add to $485.80: Greninja ex SAR $229.18, Perrin SAR $116.40, Bloodmoon Ursaluna ex SAR $33.32, Eevee Art Rare $31.33, Lana's Aid SAR $25.55, Sinistcha ex SAR $24.48, Greninja ex Super Rare $7.67, Hisuian Growlithe Art Rare $6.27, Bloodmoon Ursaluna ex Ultra Rare $6.04 and Luminous Energy Ultra Rare $5.56.",
+          "The top two are $345.58, 71.14% of the top ten and 62.50% of the whole set, and the top five are $435.78, 89.70% of the list. One of every card in the set, at the November 22 read, is $552.90, so the top ten are 87.86% of the set's singles value and the Greninja alone is 41.45% of it. The other 86 cards together are $67.10.",
+          "Against the prior read, the Greninja has not moved: $229.18 on November 13, November 18, and again on November 22, and Arca TCG's TCGplayer read on the morning of November 22 agrees exactly, with a low of $197.49 and a high of $303.80. Perrin moved from $117.10 to $116.40, down $0.70, 0.60%, Bloodmoon Ursaluna ex SAR moved from $33.92 to $33.32, down $0.60, 1.77%, Eevee moved from $33.42 to $31.33, down $2.09, 6.25%, and Lana's Aid moved from $25.16 to $25.55, up $0.39, 1.55%. The set total moved from $553.69 on November 18 to $552.90, down $0.79, 0.14%. Two disagreements are flagged, not hidden: eBay sold listings put the Greninja at $194.99 and Perrin at $100.00 on November 20, and Cardfolio's November 18 estimates put the Greninja at $170, Perrin at $91.49 and Sinistcha ex SAR at $15.99 against $24.48 here."
+        ]
+      },
+      {
+        "h": "The money layer: the box is cheap, the case charges extra",
+        "math": [
+          "SV5a box per pack: $90.98 / 30 packs = $3.03 per pack",
+          "SV5a box per card: $90.98 / 150 cards = $0.61 per card",
+          "SV5a case per box: $1,107.75 / 12 boxes = $92.31 per box",
+          "SV5a case per pack: $1,107.75 / 360 packs = $3.08 per pack",
+          "SV5a case per card: $1,107.75 / 1,800 cards = $0.62 per card",
+          "SV5a twelve single boxes: 12 x $90.98 = $1,091.76",
+          "SV5a case excess over twelve singles: $1,107.75 - $1,091.76 = $15.99 more",
+          "SV5a case excess per box: $92.31 - $90.98 = $1.33 more per box",
+          "SV5a case excess check: 12 x $1.33 = $15.96, three cents short of the exact $15.99; the exact subtraction rules",
+          "SV5a official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV5a official pack: 180 yen / 158.64 yen per dollar = $1.13",
+          "SV5a box vs official: $90.98 / $34.04 = 2.67 times official, from the rounded $34.04 figure; $90.98 - $34.04 = $56.94 above official",
+          "SV5a case box vs official: $92.31 / $34.04 = 2.71 times official",
+          "SV5a Cardfolio market box, Nov 21, 2026: $91.24",
+          "SV5a shelf box vs Cardfolio: $91.24 - $90.98 = $0.26 below it; $0.26 / $91.24 = 0.28% below it",
+          "SV5a TCGplayer market box, Nov 8, 2026: $119.27",
+          "SV5a shelf box vs TCGplayer market box: $119.27 - $90.98 = $28.29 below it; $28.29 / $119.27 = 23.72% below it",
+          "SV5a shelf box vs TCGplayer ratio: $90.98 / $119.27 = 0.76 times the TCGplayer market box",
+          "SV5a TCGplayer market box per pack: $119.27 / 30 packs = $3.98 per pack",
+          "SV5a wholesale box: $109.45; shelf box vs wholesale: $109.45 - $90.98 = $18.47 below it; $18.47 / $109.45 = 16.88% below it",
+          "SV5a Cardfolio pack, Nov 18, 2026: $5.00; shelf pack $3.03 is $1.97 below it",
+          "SV5a top 10 total: $229.18 + $116.40 + $33.32 + $31.33 + $25.55 + $24.48 + $7.67 + $6.27 + $6.04 + $5.56 = $485.80",
+          "SV5a top 2 total: $229.18 + $116.40 = $345.58; $345.58 / $485.80 = 71.14% of the top 10",
+          "SV5a top 3 total: $229.18 + $116.40 + $33.32 = $378.90; $378.90 / $485.80 = 78.00% of the top 10",
+          "SV5a top 5 total: $229.18 + $116.40 + $33.32 + $31.33 + $25.55 = $435.78; $435.78 / $485.80 = 89.70% of the top 10",
+          "SV5a five SARs total: $24.48 + $229.18 + $33.32 + $116.40 + $25.55 = $428.93; $428.93 / $485.80 = 88.29% of the top 10",
+          "SV5a five SARs vs set: $428.93 / $552.90 = 77.58% of the set value",
+          "SV5a bottom 5 total: $24.48 + $7.67 + $6.27 + $6.04 + $5.56 = $50.02; $50.02 / $485.80 = 10.30% of the top 10",
+          "SV5a bottom 3 total: $6.27 + $6.04 + $5.56 = $17.87; $17.87 / $485.80 = 3.68% of the top 10",
+          "SV5a Greninja share of top 10: $229.18 / $485.80 = 47.18% of the top 10",
+          "SV5a Greninja share of set: $229.18 / $552.90 = 41.45% of the set value",
+          "SV5a top 10 vs set value: $485.80 / $552.90 = 87.86% of the set value",
+          "SV5a top 2 vs set value: $345.58 / $552.90 = 62.50% of the set value",
+          "SV5a rest of set: $552.90 - $485.80 = $67.10 across the other 86 cards",
+          "SV5a Greninja against the box: $229.18 / $90.98 = 2.52 boxes",
+          "SV5a Greninja against the case box: $229.18 / $92.31 = 2.48 case boxes",
+          "SV5a top 10 against the box: $485.80 / $90.98 = 5.34 boxes",
+          "SV5a complete set against the box: $552.90 / $90.98 = 6.08 boxes",
+          "SV5a two boxes: 2 x $90.98 = $181.96; $229.18 - $181.96 = $47.22 short of the Greninja",
+          "SV5a three boxes: 3 x $90.98 = $272.94; $485.80 - $272.94 = $212.86 short of the top 10",
+          "SV5a six boxes: 6 x $90.98 = $545.88; $552.90 - $545.88 = $7.02 more than six boxes",
+          "SV5a top 10 minus one box: $485.80 - $90.98 = $394.82",
+          "SV5a Greninja gap to number two: $229.18 - $116.40 = $112.78; $229.18 / $116.40 = 1.97 times number two",
+          "SV5a Greninja gap to number three: $229.18 - $33.32 = $195.86",
+          "SV5a gap number two to number three: $116.40 - $33.32 = $83.08",
+          "SV5a gap number five to number six: $25.55 - $24.48 = $1.07",
+          "SV5a Perrin move Nov 18 to Nov 22: $116.40 - $117.10 = $0.70 down; $0.70 / $117.10 = 0.60% down",
+          "SV5a Eevee move Nov 18 to Nov 22: $31.33 - $33.42 = $2.09 down; $2.09 / $33.42 = 6.25% down",
+          "SV5a set value move Nov 18 to Nov 22: $552.90 - $553.69 = $0.79 down; $0.79 / $553.69 = 0.14% down",
+          "SV5a set value move Nov 13 to Nov 22: $552.90 - $530.70 = $22.20; $22.20 / $530.70 = 4.18% up",
+          "SV5a Greninja fall from Nov 5: $234.60 - $229.18 = $5.42; $5.42 / $234.60 = 2.31% down, then flat to Nov 22",
+          "SV5a Greninja in yen: $229.18 x 158.64 yen per dollar = 36,357.12 yen",
+          "SV5a top 10 in yen: $485.80 x 158.64 yen per dollar = 77,067.31 yen",
+          "SV5a set value in yen: $552.90 x 158.64 yen per dollar = 87,712.06 yen",
+          "SV5a Greninja SAR vs Greninja SR: $229.18 / $7.67 = 29.88 times the Super Rare; $229.18 - $7.67 = $221.51",
+          "SV5a Greninja SAR vs Greninja DR: $229.18 / $0.54 = 424.41 times the Double Rare",
+          "SV5a Perrin SAR vs Perrin SR: $116.40 / $5.16 = 22.56 times the Super Rare; $116.40 - $5.16 = $111.24",
+          "SV5a Bloodmoon SAR vs Bloodmoon UR: $33.32 - $6.04 = $27.28; $33.32 / $6.04 = 5.52 times the Ultra Rare",
+          "SV5a Greninja SAR vs Perrin SR: $229.18 / $5.16 = 44.41 times the Super Rare",
+          "SV5a case against the top 10: $1,107.75 / $485.80 = 2.28 times the top 10",
+          "SV5a case against the set: $1,107.75 / $552.90 = 2.00 times the set value",
+          "SV5a top 10 against the case: $485.80 / $1,107.75 = 43.85% of the case price"
+        ],
+        "paragraphs": [
+          "The box is $90.98 for 30 packs of 5 cards, $3.03 a pack and $0.61 a card. The case is $1,107.75 for a printed 12 boxes, $92.31 a box, $3.08 a pack and $0.62 a card, $15.99 more than twelve singles at $1,091.76, or $1.33 a box. The case is dearer on every division, the only Japanese Pokemon case on this shelf where that is true. Both are unchanged since the fifteen percent fall on November 13, 2026. The [SV5a investment guide](/blog/sv5a-investment/) priced the same two formats.",
+          "Against the market, the shelf box sits below every reference found. Cardfolio's guide estimate for the box, November 21, 2026, is $91.24, so our box at $90.98 sits $0.26 below it, 0.28% below. TCGplayer's market box, November 8, 2026, is $119.27, so our box is $28.29 below it, 23.72% below. The official price frames all three: 5,400 yen converts to $34.04 at 158.64 yen per dollar, the ECB cross rate from the November 20, 2026 fixing, so our box is 2.67 times official. The [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides the whole shelf the same way."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "math": [],
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards, released March 22, 2024. The set code is SV5a, and the set runs 66 base cards plus 30 secrets numbered 067 to 096: 12 Art Rares, 10 Super Rares, 5 Special Art Rares and 3 Ultra Rares, with 3 ACE SPEC cards in the base set. The five SARs are Sinistcha ex 089, Greninja ex 090, Bloodmoon Ursaluna ex 091, Perrin 092 and Lana's Aid 093, and the three Ultra Rares close the set: Bloodmoon Ursaluna ex 094, Rescue Board 095 and Luminous Energy 096. Match the number, not just the name: Greninja ex prints three times, the Double Rare at 045/066 for $0.54, the Super Rare at 083/066 for $7.67 and the Special Art Rare at 090/066 for $229.18. Perrin prints twice, the Super Rare at 087/066 for $5.16 and the Special Art Rare at 092/066 for $116.40. Bloodmoon Ursaluna ex prints four times: 052/066, the Super Rare at 084/066, the Special Art Rare at 091/066 for $33.32 and the Ultra Rare at 094/066 for $6.04.",
+          "First, confirm the case listing prints 12 boxes: this one does, in its title, and that count is what makes the $92.31 figure a division, not an assumption. Second, check the condition grade: the same number can carry a worn copy at a fraction of the clean price, so a low price can be wear, not a bargain. The cards carry the H regulation mark, still Standard-legal after the April 10, 2026 rotation removed the G mark, with the 2027 rotation date unpublished as of November 16, 2026. The [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) walks the same checks at the November 8 prices, and the [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, twelve singles, or the single",
+        "math": [],
+        "paragraphs": [
+          "The table is the verdict: seven ways to spend on SV5a, what each costs, and where it fails. The single row is the only row that buys the card instead of the chance: the Greninja ex SAR is 2.52 boxes, and the top ten together are 5.34 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. Opening for the Greninja is a lottery ticket with a $90.98 face value; the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: it costs $15.99 more than twelve singles, so it fails before it starts. The set-as-singles row buys the whole set outright: six boxes cost $545.88, $7.02 short of the $552.90 set, and still leave the chase to chance. The wait row is the only route with a price of $0, and the only route that made money in the last four days: waiting from November 18 to November 22 saved $0.79 on the set. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division for every set, and this case sits at the bottom of it."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV5a box",
+              "$90.98",
+              "$3.03",
+              "Opening Crimson Haze in Japanese",
+              "$90.98 for a chase that tops out at $229.18, with no guaranteed SAR"
+            ],
+            [
+              "SV5a case (12)",
+              "$1,107.75",
+              "$92.31 a box",
+              "Nothing on this shelf",
+              "$15.99 more than twelve singles at $1,091.76"
+            ],
+            [
+              "Twelve singles",
+              "$1,091.76",
+              "$90.98 a box",
+              "Holding or splitting twelve boxes",
+              "$1,091.76 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$229.18 Greninja ex SAR",
+              "n/a",
+              "Owning the chase card",
+              "2.52 boxes for one card"
+            ],
+            [
+              "The set as singles",
+              "$552.90",
+              "n/a",
+              "Owning all 96 cards with nothing to chance",
+              "$552.90 in one purchase; no sealed product"
+            ],
+            [
+              "TCGplayer market box",
+              "$119.27",
+              "$3.98",
+              "The market reference box",
+              "A market figure, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: stale prices, a flipped order, and the wrong twin",
+        "math": [],
+        "note": "From the Warehouse: the question we get most about SV5a is whether to open a box for the Greninja, because every ranking list leads with the $229.18 card and never says what the box costs. It is not the way to the card. The card is 2.52 boxes, the top ten together are 5.34 boxes, and no box guarantees any Special Art Rare, so the box is the way to open Crimson Haze and the single is the way to own the Greninja. The second question is whether the case is a trick, because buyers have learned that cases usually cost less per box than singles. On this shelf, on this date, it is the opposite of a trick: it is a premium, $15.99 over twelve singles, and the only case on the shelf that charges one.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there. The first result, Scryda, holds the only full November 22 read, and it ranks the cards without pricing a box or a case. The second result, Kaikan, ranks from PriceCharting data dated October 21, 2026, in euros: Greninja about 165, Perrin about 74, Eevee about 29, a month stale. The third result, PokeDealFinder, prices from 865 sold eBay listings in the last 90 days, updated November 20, 2026, and prints the Greninja at $194.99 and Perrin at $100.00, but it never divides a box.",
+          "The gap this page owns starts with a full-set read dated November 22, the Greninja cross-checked exactly on TCGplayer the same morning, disagreements flagged in the open. Second is the shelf: two live prices and the case division, which no ranking list has. Third is the numbering trap: Greninja ex prints three times and Bloodmoon Ursaluna ex four times, and a listing that says Greninja ex without a number spans $0.54 to $229.18. Fourth is the twin trap: the English twin is Twilight Masquerade, not Temporal Forces, and the same Greninja art costs $223.02 in English against $229.18 in Japanese. The [is SV5a worth buying guide](/blog/is-sv5a-worth-buying/) runs the same verdict, and the [SV5k best cards guide](/blog/sv5k-best-cards/) ranks the Wild Force twin beside this one."
+        ]
+      },
+      {
+        "h": "The chase ladder: one card, a cliff, and a long floor",
+        "math": [
+          "SV5a ranks 3 to 5 total: $33.32 + $31.33 + $25.55 = $90.20; $90.20 / $485.80 = 18.57% of the top 10",
+          "SV5a top 5 vs set: $435.78 / $552.90 = 78.82% of the set value",
+          "SV5a Greninja PSA 10, Nov 19, 2026: $387.00; $387.00 / $229.18 = 1.69 times the raw card; $387.00 - $229.18 = $157.82",
+          "SV5a Greninja PSA 10 fall Nov 13 to 19: $395.00 - $387.00 = $8.00; $8.00 / $395.00 = 2.03% down",
+          "SV5a ranks 11 to 12 total: $5.16 + $5.01 = $10.17"
+        ],
+        "note": "From the Warehouse: what we see in chat is buyers asking for 'the Greninja' without a number, and three prints at three prices is exactly how the wrong one gets bought. The SAR is $229.18, the SR is $7.67 and the Double Rare is $0.54, and a listing that says Greninja ex without a number has said nothing about the price. The same goes for Perrin: the SAR is $116.40 and the SR is $5.16, so the name alone spans a 22-to-1 price range. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is one card, once. The Greninja ex Special Art Rare is $229.18, 47.18% of the top ten and 41.45% of the set's singles value, and it has not moved a cent in nine days. The second rung is Perrin SAR at $116.40; with the Greninja they make the top two $345.58, 71.14% of the list. The third rung is the three cards from $25.55 to $33.32, $90.20 together, 18.57% of the list, and with the top two they make the top five $435.78, 89.70%.",
+          "The fourth rung is the floor: Sinistcha ex SAR at $24.48, Greninja ex SR at $7.67, Hisuian Growlithe AR at $6.27, Bloodmoon Ursaluna ex UR at $6.04 and Luminous Energy UR at $5.56, $50.02 together. The gap from number one to number two is $112.78 and from number two to number three is $83.08, so the ladder is one card, one card, then a cluster that falls off a cliff after Perrin. Below the top ten, Perrin SR at $5.16 and Phione AR at $5.01 are the next two, and the other 84 cards sit below $5.01. The [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the grading question, where a Greninja PSA 10 sold at $387.00 on November 19, 2026, 1.69 times raw."
+        ]
+      },
+      {
+        "h": "The risk layer: a flat top, a case premium, and a listing that looks too cheap",
+        "math": [],
+        "paragraphs": [
+          "The first risk is the concentration: the Greninja at $229.18 is 41.45% of the $552.90 set value, so one card carries more than two-fifths of the set, and the top two together are 3.80 boxes. A box that misses the Greninja and the five Special Art Rares holds an Eevee at $31.33, a Lana's Aid at $25.55, and mostly sub-eight-dollar cards. The second risk is the flat top below the Greninja: Perrin at $116.40 is the only other card above $34, so a box that misses the top two has no single card to rescue it.",
+          "The third risk is the case premium dressed as a bulk deal: a splitter who lists case boxes at the single-box price loses $1.33 per box before fees. The fourth risk is the listing that looks too cheap: a European shop lists the box at 52.10 euros, so a box far below $90.98 deserves a stock and seal check before payment. The fifth risk is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/). The sixth risk is the English trap in reverse: the English Greninja costs $223.02, $6.16 less than the Japanese SAR, and it plays in English events. The [should you open or keep sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) runs the same checks."
+        ]
+      },
+      {
+        "h": "Context: the yen cross-check and the English twin",
+        "math": [
+          "SV5a SNKRDUNK ask, Sep 30, 2026: 11,980 yen / 158.64 yen per dollar = $75.52",
+          "SV5a box vs SNKRDUNK ask: $90.98 - $75.52 = $15.46 above the ask",
+          "SV5a case box vs SNKRDUNK ask: $92.31 - $75.52 = $16.79 above the ask",
+          "SV5a English Greninja SIR, Nov 19, 2026: $223.02; $229.18 - $223.02 = $6.16; the English SIR sits $6.16 below the Japanese SAR; $223.02 / $229.18 = 0.97 times the Japanese card",
+          "SV5a English Greninja SIR range, Nov 7 to 19, 2026: $223.02 to $236.96; $236.96 - $223.02 = $13.94",
+          "SV5a English Perrin SIR, Nov 7, 2026: $130.07; $130.07 - $116.40 = $13.67 above the Japanese SAR; $130.07 / $116.40 = 1.12 times",
+          "SV5a English Eevee IR, Nov 7, 2026: $69.22; $69.22 - $31.33 = $37.89 above the Japanese Art Rare; $69.22 / $31.33 = 2.21 times",
+          "SV5a English set vs Japanese set: $1,044.00 / $552.90 = 1.89 times the Japanese set"
+        ],
+        "paragraphs": [
+          "The Tokyo numbers cut both ways: the lowest ask for a sealed box on SNKRDUNK was 11,980 yen on September 30, 2026, which converts to $75.52 at 158.64 yen per dollar, so our box at $90.98 is $15.46 above it, and our case-split box at $92.31 is $16.79 above it. An ask carries no shipping, no import handling, and no guarantee of sealed stock. What you pay for on our shelf is a sealed box from Japan in one parcel.",
+          "The English twin is a different product with a different chase: English Twilight Masquerade, released May 24, 2024, runs 226 cards and is worth about $1,044 as singles, 1.89 times this set. Its top card is the same Greninja art as a Special Illustration Rare at $223.02 on November 19, 2026, $6.16 less than the Japanese SAR, and its top three are Greninja ex, Perrin at $130.07 and Eevee at $69.22. The trap this corrects is the twin itself: Temporal Forces, released the same day as Crimson Haze, March 22, 2024, is the English set for Wild Force and Cyber Judge, not for Crimson Haze. The [Japanese versus English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) runs the language decision, and the [SV6 best cards guide](/blog/sv6-best-cards/) ranks Mask of Change beside this one. The neighbours are the [SV5k Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) and the [SV5m Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/), and the [SV5k investment guide](/blog/sv5k-investment/) prices a Wild Force case that saves $74.57 a box, the contrast that proves the SV5a case is the exception."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "math": [],
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single. Second, English-tournament players: Japanese cards do not play in English events. Third, buyers who want a guaranteed return: the Greninja moved $0.00 in nine days after falling 2.31% from its November 5 price, the set total fell $0.79 in four days, and no page can tell you what SV5a will cost next month. Nor for anyone building the complete set by opening boxes: six boxes cost $545.88 against $552.90 for the set as singles, and still leave the chase to chance. Nor for the case buyer: the case costs $15.99 more than twelve singles."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Greninja ex SAR, buy the single at $229.18, which is 2.52 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card has not moved since November 13",
+          "If the job is the box, pay $90.98, or $3.03 a pack, and treat the chase as a bonus; the box is $0.26 below the $91.24 Cardfolio estimate and $28.29 below the $119.27 TCGplayer market box",
+          "If the job is twelve boxes, buy twelve singles at $1,091.76, never the case at $1,107.75; the case charges $15.99 extra, $1.33 a box",
+          "If the job is the whole set, buy the singles at $552.90: six boxes cost $545.88 and still leave the chase to chance",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Greninja ex prints three times in this set",
+          "Check the number on any Greninja ex before you pay: the SAR is $229.18, the SR is $7.67 and the Double Rare is $0.54",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV5a best-cards checklist",
+        "math": [],
+        "paragraphs": [
+          "Run this before the next SV5a box you consider. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, and the [best sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks the whole case ladder, where this case sits at the bottom."
+        ]
+      }
+    ],
+    "slug": "sv5a-best-cards",
+    "takeaway": [
+      "The SV5a top ten, on the November 22, 2026 read, totals $485.80, with the Greninja ex SAR cross-checked two ways at $229.18. The Greninja is $229.18 of it, 47.18% of the list, and the five SARs are $428.93, 88.29%, while the other 86 cards together are $67.10.",
+      "On our shelf as of November 22, 2026, the box is $90.98 and the case is $1,107.75. Neither has moved since November 13, and the case costs $15.99 more than twelve singles, $1.33 a box, while the box sits $0.26 below the $91.24 Cardfolio estimate and $28.29 below the $119.27 TCGplayer market box.",
+      "It is worth buying as the Crimson Haze set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Greninja alone is 2.52 boxes, and the card has not moved since November 13 after falling 2.31% from its November 5 price.",
+      "The ladder below the top card falls fast: the bottom five together are $50.02, and the other 86 cards together are $67.10. Four facts the other lists get wrong are corrected on this page: Kaikan still prints October 21 euro prices, Cardfolio flips the order at three and four, Temporal Forces is not the English twin, and Greninja ex prints three times at three prices.",
+      "Companion guide: the [is SV5a worth buying guide](/blog/is-sv5a-worth-buying/) runs the same verdict, and the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the same two formats at the November 8 prices.",
+      "For the longer hold, the [SV5a investment guide](/blog/sv5a-investment/) runs the same division, where the case costs $15.99 more than twelve singles.",
+      "For the twin set in the same season, the [SV5k Wild Force investment guide](/blog/sv5k-investment/) prices the January 2024 set the same way, and the [SV5k Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) walks the same checks.",
+      "For the next set in the series, the [SV6 best cards guide](/blog/sv6-best-cards/) ranks Mask of Change's ten best, top ten $209.96, Carmine SAR $87.05, one card running the set where Crimson Haze's top ten is $485.80.",
+      "Companion guide: the [SV5K best cards guide](/blog/sv5k-best-cards/) ranks Wild Force's ten best, top ten $285.42, Morty's Conviction SAR $54.08, two cards three cents apart at the top where Crimson Haze's top ten is $485.80."
+    ]
+  },
   "sv5a-crimson-haze-buyers-guide": {
     "datePublished": "2026-11-08",
     "faqs": [
@@ -62211,9 +62481,10 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV5a box at $107.04 is the middle of the 30-pack shelf at $3.57 a pack, but $0.71 a card, for 150 cards from a 96-card set. The case at $1,303.24 is the one case on our shelf that loses money, at $108.60 a box against $107.04 for a single box, so twelve singles at $1,284.48 are the sealed buy. The set is 96 cards, released March 22, 2024, and the chase is the Greninja ex SAR, which carried a $234.60 TCGplayer market price on November 5, 2026, or 2.19 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and November 5 and 7, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $75.82, so our box costs $31.22 more, and the case-split box costs $32.78 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that shares SV5a's $3.57-a-pack tier the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) prices the set that came five weeks after Crimson Haze and shares its English twin, box $111.46 against a case that saves $354.72, with the Carmine SAR at $87.83 on its own.",
-      "New this cycle: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the January 2024 twin-set opener at $107.04 a box, with a case that saves $231.79 and Raging Bolt ex at $54.21.",
-      "New this cycle: the [is SV5a Crimson Haze worth buying guide](/blog/is-sv5a-worth-buying/) runs the verdict at the November 14 prices, box $90.98, with the case still losing money: $1,107.75 against $1,091.76 for twelve singles, and the H-mark cards still Standard-legal."
+      "Companion guide: the [SV6 Mask of Change buyer's guide](/blog/sv6-mask-of-change-buyers-guide/) prices the set that came five weeks after Crimson Haze and shares its English twin, box $111.46 against a case that saves $354.72, with the Carmine SAR at $87.83 on its own.",
+      "Companion guide: the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the January 2024 twin-set opener at $107.04 a box, with a case that saves $231.79 and Raging Bolt ex at $54.21.",
+      "Companion guide: the [is SV5a Crimson Haze worth buying guide](/blog/is-sv5a-worth-buying/) runs the verdict at the November 14 prices, box $90.98, with the case still losing money: $1,107.75 against $1,091.76 for twelve singles, and the H-mark cards still Standard-legal.",
+      "Companion guide: the [SV5a best cards guide](/blog/sv5a-best-cards/) ranks the ten cards worth chasing on market prices as of November 22, 2026, top ten $485.80, Greninja ex SAR $229.18, against our $90.98 box and $1,107.75 case."
     ]
   },
   "sv5a-investment": {
@@ -62451,6 +62722,267 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of September 30 to November 19, 2026. The Greninja held at $229.18 from November 13 to November 18 while the box fell fifteen percent, and the complete set rose $22.99 in the same five days, from $530.70 to $553.69. Divide before you buy, every time.",
       "For the price-and-math companion, the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) runs the November 8 prices side by side, the [is SV5a worth buying guide](/blog/is-sv5a-worth-buying/) runs the same verdict after the fall, and the [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the division for every set.",
       "New this cycle: the [SV5K Wild Force investment guide](/blog/sv5k-investment/) prices the January 2024 twin-set opener the same way, and its case DOES save money, $74.57 a box, which is the contrast that proves the SV5a case is the exception, not the rule."
+    ]
+  },
+  "sv5k-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "Morty's Conviction, the Special Art Rare numbered 097/071, at $54.08 on the November 21, 2026 read, read November 22, 2026. OGCards prices the full Japanese set that day and the November 21 Scryda read of TCGCSV market prices agreed within twenty-six cents at $54.34, so the number is corroborated two ways. Cardfolio's guide estimate puts it at $45.68, $8.40 below the market read, and that estimate is not trusted here. It is 59.44% of a box at our $90.98 box price, so the top card alone runs more than half a box.",
+        "q": "What is the most valuable SV5K card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $54.08, which is 59.44% of our $90.98 box, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $285.42, which is 3.14 boxes, and the case is $894.79. Buy the single if the Morty's SAR is the card you want, and buy the box only if you want to open Wild Force.",
+        "q": "Should I buy an SV5K box to pull the Morty's Conviction SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 100 cards, released January 26, 2024, in boxes of 30 packs of 5 cards. English Temporal Forces, released March 22, 2024, runs 218 cards because it merges Wild Force with Cyber Judge, and its chase is the Gastly illustration rare at $78.23 on November 22, 2026, not a Morty's. The English set prices its shared cards higher almost everywhere, with one exception that matters: the English Morty's SIR is $46.63, $7.45 below the Japanese SAR. Japanese cards are generally not legal at official events outside Asia, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Temporal Forces?"
+      }
+    ],
+    "h1": "SV5K Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV5K Wild Force is Morty's Conviction, the Special Art Rare numbered 097/071, at $54.08 (November 21, 2026, read November 22), and the ten best together are $285.42, with Raging Bolt ex three cents behind at $54.05. On our shelf, as of November 22, 2026, the [SV5K box](/product/sv5k-wild-force-booster-box-japanese-pokemon-card/) is $90.98 and the [SV5K sealed case](/product/sv5k-wild-force-sealed-case-12-boxes-japanese-pokemon-card/) is $894.79. Buy the box to open Wild Force, buy the single for the Morty's or the Raging Bolt.",
+      "Wild Force, set code SV5K, is 100 cards: 71 in the main set plus 29 secret rares, 12 Art Rares, 9 Super Rares, 5 Special Art Rares and 3 Ultra Rares. It released in Japan on January 26, 2024, in boxes of 30 packs of 5 cards at 180 yen a pack, and its English twin, Temporal Forces, followed March 22, 2024. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single."
+    ],
+    "metaDescription": "SV5K Wild Force best cards, Nov 21, 2026: Morty's Conviction SAR $54.08, top ten $285.42, box $90.98, case $894.79.",
+    "metaTitle": "SV5K Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: two cards, three cents apart",
+        "paragraphs": [
+          "Every value below is from OGCards' read of the Japanese set, prices as of November 21, 2026, read November 22, 2026. The November 21 Scryda read agrees on the top five within twenty-six cents: Morty's Conviction $54.34 against $54.08 here, Raging Bolt ex exact at $54.05, Gengar ex $40.67 against $40.55 here, Walking Wake ex and Gouging Fire ex exact. The ten add to $285.42: Morty's Conviction SAR $54.08, Raging Bolt ex SAR $54.05, Gengar ex SR $40.55, Walking Wake ex SAR $34.91, Gouging Fire ex SAR $30.24, Gastly AR $27.55, Eri SAR $14.18, Cinccino AR $10.61, Raging Bolt ex UR $9.74 and Minccino AR $9.51.",
+          "The top two are $108.13, 37.88% of the top ten, and the top three are $148.68, 52.09%. The top five are $213.83, 74.92% of the list. The bottom five together are $71.59, 25.08%, and the bottom three are $29.86, 10.46%. One of every card in the set is $362.29 at the November 21 read, so the top ten are 78.78% of the set's singles value and the Morty's alone is 14.93% of it. The other 90 cards together are $76.87.",
+          "Against the prior read, the move is small. Raging Bolt ex SAR was $54.21 on the November 12 read, so it is down $0.16, 0.30%, in ten days. The full set was $364.66 on that read and $363.08 on the November 18 OGCards read, so the November 21 figure of $362.29 is down $2.37, 0.65%, from November 12 and down $0.79, 0.22%, from November 18. The two November 21 reads disagree by $0.41 on the top-ten total: Scryda's $285.83 against $285.42 here."
+        ]
+      },
+      {
+        "h": "The money layer: the shelf sits below the market box",
+        "math": [
+          "SV5K box per pack: $90.98 / 30 packs = $3.03 per pack",
+          "SV5K box per card: $90.98 / 150 cards = $0.61 per card",
+          "SV5K case per box: $894.79 / 12 boxes = $74.57 per box",
+          "SV5K case per pack: $894.79 / 360 packs = $2.49 per pack",
+          "SV5K case per card: $894.79 / 1,800 cards = $0.50 per card",
+          "SV5K twelve singles: 12 x $90.98 = $1,091.76",
+          "SV5K case saving: $1,091.76 - $894.79 = $196.97 across the case",
+          "SV5K saving per box: $196.97 / 12 = $16.41 per box",
+          "SV5K saving share: $196.97 / $1,091.76 = 18.04% saved",
+          "SV5K official box: 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV5K official pack: 180 yen / 158.64 yen per dollar = $1.13",
+          "SV5K box vs official: $90.98 / $34.04 = 2.67 times official, from the rounded $34.04 figure; $90.98 - $34.04 = $56.94 above official",
+          "SV5K TCGplayer market box, Nov 21, 2026: $102.98",
+          "SV5K TCGplayer market box per pack: $102.98 / 30 packs = $3.43 per pack",
+          "SV5K shelf box vs TCGplayer: $102.98 - $90.98 = $12.00 below it; $12.00 / $102.98 = 11.65% below it",
+          "SV5K shelf box vs TCGplayer ratio: $90.98 / $102.98 = 0.88 times the TCGplayer box",
+          "SV5K case box vs TCGplayer market box: $102.98 - $74.57 = $28.41 below it; $28.41 / $102.98 = 27.59% below it",
+          "SV5K twelve TCGplayer boxes: 12 x $102.98 = $1,235.76; $1,235.76 - $894.79 = $340.97 below twelve market boxes",
+          "SV5K Cardmarket box, Nov 21, 2026: 66.42 euros x 1.0990 dollars per euro = $73.00",
+          "SV5K shelf box vs Cardmarket box: $90.98 - $73.00 = $17.98 above it",
+          "SV5K case box vs Cardmarket box: $74.57 - $73.00 = $1.57 above it",
+          "SV5K Sparkl pack, Nov 21, 2026: $4.17; shelf pack $3.03 is $1.14 below it",
+          "SV5K top 10 total: $54.08 + $54.05 + $40.55 + $34.91 + $30.24 + $27.55 + $14.18 + $10.61 + $9.74 + $9.51 = $285.42",
+          "SV5K top 3 total: $54.08 + $54.05 + $40.55 = $148.68; $148.68 / $285.42 = 52.09% of the top 10",
+          "SV5K top 5 total: $54.08 + $54.05 + $40.55 + $34.91 + $30.24 = $213.83; $213.83 / $285.42 = 74.92% of the top 10",
+          "SV5K Morty's share of top 10: $54.08 / $285.42 = 18.95% of the top 10",
+          "SV5K top 2 total: $54.08 + $54.05 = $108.13; $108.13 / $285.42 = 37.88% of the top 10",
+          "SV5K ranks 3 to 5 total: $40.55 + $34.91 + $30.24 = $105.70; $105.70 / $285.42 = 37.03% of the top 10",
+          "SV5K gap number one to number two: $54.08 - $54.05 = $0.03; $54.08 / $54.05 = 1.00 times number two",
+          "SV5K gap number two to number three: $54.05 - $40.55 = $13.50",
+          "SV5K gap number five to number six: $30.24 - $27.55 = $2.69",
+          "SV5K five SARs total: $54.08 + $54.05 + $34.91 + $30.24 + $14.18 = $187.46; $187.46 / $285.42 = 65.68% of the top 10",
+          "SV5K twelve ARs total: $6.15 + $4.93 + $2.26 + $5.32 + $1.96 + $2.81 + $2.16 + $5.81 + $27.55 + $3.57 + $9.51 + $10.61 = $82.64",
+          "SV5K nine SRs total: $2.17 + $1.72 + $1.29 + $1.57 + $40.55 + $1.92 + $0.86 + $1.32 + $1.59 = $52.99",
+          "SV5K three URs total: $6.66 + $4.48 + $9.74 = $20.88",
+          "SV5K bottom 5 total: $27.55 + $14.18 + $10.61 + $9.74 + $9.51 = $71.59; $71.59 / $285.42 = 25.08% of the top 10",
+          "SV5K bottom 3 total: $10.61 + $9.74 + $9.51 = $29.86; $29.86 / $285.42 = 10.46% of the top 10",
+          "SV5K top 10 vs set value: $285.42 / $362.29 = 78.78% of the set value",
+          "SV5K top card vs set value: $54.08 / $362.29 = 14.93% of the set value",
+          "SV5K top 5 vs set value: $213.83 / $362.29 = 59.02% of the set value",
+          "SV5K rest of set: $362.29 - $285.42 = $76.87 across the other 90 cards",
+          "SV5K Morty's against the box: $54.08 / $90.98 = 59.44% of a box",
+          "SV5K Morty's against the case box: $54.08 / $74.57 = 72.53% of a case box",
+          "SV5K Raging Bolt against the box: $54.05 / $90.98 = 59.41% of a box",
+          "SV5K top 10 against the box: $285.42 / $90.98 = 3.14 boxes",
+          "SV5K case against the top 10: $894.79 / $285.42 = 3.13 times the top 10",
+          "SV5K complete set against the box: $362.29 / $90.98 = 3.98 boxes",
+          "SV5K two boxes: 2 x $90.98 = $181.96; $362.29 - $181.96 = $180.33 to the full set",
+          "SV5K three boxes: 3 x $90.98 = $272.94; $362.29 - $272.94 = $89.35 to the full set",
+          "SV5K four boxes: 4 x $90.98 = $363.92; $363.92 - $362.29 = $1.63 above the full set",
+          "SV5K top 10 minus one box: $285.42 - $90.98 = $194.44",
+          "SV5K Morty's gap to Gengar: $54.08 - $40.55 = $13.53",
+          "SV5K Raging Bolt move Nov 12 to Nov 21: $54.05 - $54.21 = $0.16 down; $0.16 / $54.21 = 0.30% down",
+          "SV5K set value move Nov 12 to Nov 21: $362.29 - $364.66 = $2.37 down; $2.37 / $364.66 = 0.65% down",
+          "SV5K set value move Nov 18 to Nov 21: $362.29 - $363.08 = $0.79 down; $0.79 / $363.08 = 0.22% down",
+          "SV5K Scryda top 10, Nov 21, 2026: $285.83; $285.83 - $285.42 = $0.41 above the OGCards top 10",
+          "SV5K Scryda set value, Nov 21, 2026: $362.93; $362.93 - $362.29 = $0.64 above the OGCards set value",
+          "SV5K Cardfolio Morty's gap: $54.08 - $45.68 = $8.40; $8.40 / $54.08 = 15.53% below the market read",
+          "SV5K Cardfolio Raging Bolt gap: $54.05 - $38.57 = $15.48; $15.48 / $54.05 = 28.64% below the market read",
+          "SV5K Cardfolio Gengar gap: $40.55 - $29.05 = $11.50; $11.50 / $40.55 = 28.36% below the market read",
+          "SV5K Cardfolio set gap: $362.29 - $353.00 = $9.29; $9.29 / $362.29 = 2.56% below the November 21 read",
+          "SV5K Morty's in yen: $54.08 x 158.64 yen per dollar = 8,579.25 yen",
+          "SV5K Raging Bolt in yen: $54.05 x 158.64 yen per dollar = 8,574.49 yen",
+          "SV5K top 10 in yen: $285.42 x 158.64 yen per dollar = 45,279.03 yen",
+          "SV5K set value in yen: $362.29 x 158.64 yen per dollar = 57,473.69 yen",
+          "SV5K SNKRDUNK box ask, Sept 24, 2026: 10,399 yen / 158.64 yen per dollar = $65.55; $90.98 - $65.55 = $25.43 above the ask",
+          "SV5K sealed box ask, Sept 24, 2026: 11,730 yen / 158.64 yen per dollar = $73.94; $90.98 - $73.94 = $17.04 above the ask",
+          "SV5K SNKRDUNK box ask, Sept 30, 2026: 9,950 yen / 158.64 yen per dollar = $62.72; $90.98 - $62.72 = $28.26 above the ask",
+          "SV5K case box vs SNKRDUNK asks: $74.57 - $65.55 = $9.02 above the lower ask; $74.57 - $73.94 = $0.63 above the sealed ask",
+          "SV5K Best Buy box, Nov 22, 2026: $169.99; $169.99 - $90.98 = $79.01 above the shelf box; $169.99 / $90.98 = 1.87 times the shelf box",
+          "SV5K Morty's SAR vs Morty's SR: $54.08 / $1.59 = 34.01 times the Super Rare; $54.08 - $1.59 = $52.49",
+          "SV5K Raging Bolt SAR vs Raging Bolt SR: $54.05 / $1.92 = 28.15 times the Super Rare; $54.05 - $1.92 = $52.13",
+          "SV5K Raging Bolt SAR vs Raging Bolt UR: $54.05 / $9.74 = 5.55 times the Ultra Rare; $54.05 - $9.74 = $44.31",
+          "SV5K Raging Bolt SAR vs Raging Bolt DR: $54.05 / $0.36 = 150.14 times the Double Rare; $54.05 - $0.36 = $53.69",
+          "SV5K Gengar SR vs Gengar DR: $40.55 / $5.10 = 7.95 times the Double Rare; $40.55 - $5.10 = $35.45",
+          "SV5K Eri SAR vs Eri SR: $14.18 / $1.32 = 10.74 times the Super Rare; $14.18 - $1.32 = $12.86",
+          "SV5K English Gastly gap: $78.23 - $27.55 = $50.68; $78.23 / $27.55 = 2.84 times the Japanese Art Rare",
+          "SV5K English Raging Bolt gap: $55.06 / $54.05 = 1.02 times the Japanese SAR; $55.06 - $54.05 = $1.01",
+          "SV5K English Morty's gap: $54.08 - $46.63 = $7.45; $46.63 / $54.08 = 0.86 times the Japanese SAR",
+          "SV5K English Gengar gap: $50.45 - $40.55 = $9.90; $50.45 / $40.55 = 1.24 times the Japanese Super Rare",
+          "SV5K English Gouging Fire gap: $47.80 - $30.24 = $17.56; $47.80 / $30.24 = 1.58 times the Japanese SAR",
+          "SV5K English Walking Wake gap: $37.89 - $34.91 = $2.98; $37.89 / $34.91 = 1.09 times the Japanese SAR",
+          "SV5K English box vs Japanese box: $323.74 / $90.98 = 3.56 times the Japanese box",
+          "SV5K SV5M box gap: $90.98 - $75.03 = $15.95 per box",
+          "SV5K SV5M case box: $724.80 / 12 boxes = $60.40 per box; $74.57 - $60.40 = $14.17 above the SV5M case box",
+          "SV5K SV5a case box: $1,107.75 / 12 boxes = $92.31 per box; $92.31 - $74.57 = $17.74 above the SV5K case box",
+          "SV5K ranks 11 and 12 total: $6.66 + $6.15 = $12.81"
+        ],
+        "paragraphs": [
+          "The box is $90.98 for 30 packs of 5 cards, $3.03 a pack and $0.61 a card. The case is $894.79 for a printed 12 boxes, $74.57 a box, $2.49 a pack and $0.50 a card, $196.97 less than twelve singles at $1,091.76, or $16.41 a box, 18.04% saved. Both prices are from the live shelf, read November 22, 2026.",
+          "Against the market, the shelf sits below the headline box and above the Tokyo ask. Sparkl lists the TCGplayer market box at $102.98 on November 21, 2026, so our box sits $12.00 below it, 11.65% below, and our case box sits $28.41 below it, 27.59% below. Twelve TCGplayer boxes would cost $1,235.76, so the case is $340.97 below them. The Tokyo numbers cut the other way: the lowest SNKRDUNK ask for a sealed box was 10,399 yen on September 24, 2026, which converts to $65.55 at 158.64 yen per dollar, so our box is $25.43 above it, and a sealed listing at 11,730 yen converts to $73.94, $17.04 above our box. The official price frames both: 5,400 yen converts to $34.04, so our box is 2.67 times official. The [is SV5K worth buying guide](/blog/is-sv5k-worth-buying/) runs the same verdict at these prices."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards, released January 26, 2024. The set code is SV5K, and the set runs 71 base cards plus 29 secrets numbered 072 to 100: 12 Art Rares, 9 Super Rares, 5 Special Art Rares and 3 Ultra Rares. The five SARs are Gouging Fire ex 093, Walking Wake ex 094, Raging Bolt ex 095, Eri 096 and Morty's Conviction 097, and the three Ultra Rares close the set at 098, 099 and 100. Match the number, not just the name: Raging Bolt ex prints four times, the Double Rare at 053/071 for $0.36, the Super Rare at 089/071 for $1.92, the Special Art Rare at 095/071 for $54.05 and the Ultra Rare at 100/071 for $9.74. Morty's Conviction prints three times, the Uncommon at 069/071 for $0.19, the Super Rare at 092/071 for $1.59 and the Special Art Rare at 097/071 for $54.08.",
+          "First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count makes the $74.57 per-box figure a division, not an assumption. Second, check the condition grade on any Japanese listing: the same collector number can carry a worn copy at a fraction of the clean price, so a low price can be wear, not a bargain. The cards carry the H regulation mark, still Standard-legal after the April 10, 2026 rotation removed the G mark. The [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) walks the same checks for this set, and the [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: six ways to spend on SV5K. The single row is the only row that buys the card instead of the chance: the Morty's SAR is 59.44% of a box, and the top ten together are 3.14 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. Opening for the Morty's is buying a lottery ticket with a $90.98 face value; the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: it saves $16.41 a box only if twelve boxes are wanted. The set-as-singles row buys the whole set outright: four boxes cost $363.92 against $362.29 for the set as singles, $1.63 above it, and still leave the chase to chance. The market box row is a reference price, not a listing on this shelf. The wait row is the only route with a price of $0, and the only route that made money in the last ten days: waiting from November 12 to November 21 saved $2.37 on the set."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV5K box",
+              "$90.98",
+              "$3.03",
+              "Opening Wild Force in Japanese",
+              "$90.98 for a chase that tops out at $54.08"
+            ],
+            [
+              "SV5K case (12)",
+              "$894.79",
+              "$74.57 a box",
+              "Holding or splitting twelve boxes",
+              "$894.79 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$54.08 Morty's Conviction SAR",
+              "n/a",
+              "Owning the chase card",
+              "59.44% of a box for one card"
+            ],
+            [
+              "The set as singles",
+              "$362.29",
+              "n/a",
+              "Owning all 100 cards with nothing to chance",
+              "$362.29 in one purchase; no sealed product"
+            ],
+            [
+              "TCGplayer market box",
+              "$102.98",
+              "$3.43",
+              "The market box price",
+              "A market figure, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: a three-cent top, a flipped number two, and no shelf",
+        "note": "From the Warehouse: the question we get most about SV5K is whether the box is still the way to the Raging Bolt, because every ranking list leads with the mascot and never says what the box costs. It is not the way to the card. The SAR is 59.41% of a box, the top ten together are 3.14 boxes, and no box guarantees any secret rare, so the box is the way to open Wild Force and the single is the way to own the Raging Bolt. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $196.97 against twelve singles, and it divides to $74.57 a box.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and two of the three are stale. The first result, Sparkl, has the November 21 TCGplayer prices, but it ranks by the lower of the two markets, so it puts Gengar ex at number two above the Raging Bolt ex SAR, even though the Raging Bolt costs $13.50 more in dollars. The second result, Samurai Sword, ranks from September 24 yen asks and puts Raging Bolt ex first with no figure at all for the Morty's, which is the actual number one. The third, Kaikan, is priced in euros from October 21, 2026, a month old, and its pull rates are community estimates, since The Pokemon Company publishes none.",
+          "The gap this page owns starts with a full-set read dated November 21, the top five cross-checked against a second read within twenty-six cents. Second is the shelf: two live prices and the case divisions. Third is the numbering trap: Raging Bolt ex prints four times and Morty's Conviction three times, and the name alone spans a 150-to-1 price range for the Raging Bolt and a 285-to-1 range for the Morty's. Fourth is the English inversion: the Japanese Morty's at $54.08 costs more than its English twin at $46.63, so the rule that English is always dearer fails on the top card. Fifth is the name variant: some listings print the top card as Morty's Confidence, while the English card is Morty's Conviction, so a search for one spelling misses listings under the other."
+        ]
+      },
+      {
+        "h": "The chase ladder: two at the top, a cliff, then a long floor",
+        "note": "From the Warehouse: what we see in chat is buyers asking for 'the Raging Bolt' without a number, and four prints at four prices is exactly how the wrong one gets bought. The SAR is $54.05, the UR is $9.74, the SR is $1.92 and the Double Rare is $0.36, and a listing that says Raging Bolt ex without a number has said nothing about the price. The same goes for Morty's Conviction: the SAR is $54.08, the SR is $1.59 and the Uncommon is $0.19, so the name alone spans a 285-to-1 price range. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is two cards. The Morty's Conviction Special Art Rare is $54.08, 18.95% of the top ten and 14.93% of the set's singles value, and the Raging Bolt ex Special Art Rare is $54.05, three cents behind, so the top two are $108.13, 37.88% of the list. The third rung is the three cards from $30.24 to $40.55, $105.70 together, 37.03% of the list, and with the top two they make the top five $213.83, 74.92%.",
+          "The fourth rung is the floor: Gastly AR at $27.55, Eri SAR at $14.18, Cinccino AR at $10.61, Raging Bolt ex UR at $9.74 and Minccino AR at $9.51, $71.59 together. The gap from number two to number three is $13.50 and from number five to number six is $2.69, so the ladder is two cards, a cliff, then a cluster. Below the top ten, Gouging Fire ex UR at $6.66 and Grotle AR at $6.15 are the next two, $12.81 together, and 85 cards sit under $5."
+        ]
+      },
+      {
+        "h": "The risk layer: a two-card top, a drifting set, and a listing that proves nothing",
+        "paragraphs": [
+          "The first risk is the two-card top: the Morty's and the Raging Bolt are $108.13 together, 37.88% of the top ten, so a badly opened box has two cards to rescue it and nothing else above $40.55. The second risk is the drift: the set total fell $2.37 in ten days while the Raging Bolt fell $0.16, and the top ten are 78.78% of the set, so a move in the top five is a set move. The third risk is concentration: the five SARs are $187.46, 65.68% of the top ten, and the twelve Art Rares are $82.64, so a move in the SARs is a set move too.",
+          "The fourth risk is the single listing that proves nothing. A US storefront lists the box at $169.99 on November 22, 2026, $79.01 above our shelf and 1.87 times it, while the September 24 SNKRDUNK low of 10,399 yen converts to $65.55, $25.43 below our shelf box. Confirm stock, shipping, and the exact product before paying. The fifth risk is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/). The sixth risk is the English trap: the English Gastly at $78.23 is $50.68 dearer than the Japanese Art Rare."
+        ]
+      },
+      {
+        "h": "Context: the yen cross-check and the English twin",
+        "paragraphs": [
+          "The Tokyo numbers cut both ways: the lowest SNKRDUNK ask for a sealed box was 10,399 yen on September 24, 2026, which converts to $65.55 at 158.64 yen per dollar, so our box is $25.43 above it, and a sealed listing at 11,730 yen converts to $73.94, $17.04 above our box. The case-split box at $74.57 is $0.63 above that sealed ask and $9.02 above the SNKRDUNK low. The official price is the floor: 5,400 yen converts to $34.04, so our box is 2.67 times official. Cardmarket lists the box at 66.42 euros, which converts to $73.00 at the ECB rate of 1.0990 dollars per euro, so our box is $17.98 above the European box and our case box is $1.57 above it. The sister set sits beside it on the same shelf: the SV5M Cyber Judge box is $75.03, $15.95 below the SV5K box, and its case divides to $60.40 a box.",
+          "The English twin is a different product with a different chase: English Temporal Forces, released March 22, 2024, runs 218 cards because it merges Wild Force with Cyber Judge. Its top card is the Gastly illustration rare at $78.23 on the November 22 Scryda read, 2.84 times the Japanese Art Rare, and its Raging Bolt ex SIR is $55.06, 1.02 times the Japanese SAR. The inversion is the Morty's: the English SIR is $46.63 on the November 15 read, $7.45 below the Japanese SAR, so the Japanese card is the dearer one. The shared cards price higher in English everywhere else: Gengar UR $50.45 against $40.55 on the November 22 read, Gouging Fire SIR $47.80 against $30.24 and Walking Wake SIR $37.89 against $34.91 on the November 15 read. The English booster box is $323.74 on the November 9 Scrydex read, 3.56 times the Japanese box. The [SV5a best cards guide](/blog/sv5a-best-cards/) ranks Crimson Haze beside this one at the same $90.98 box, and the [SV6 best cards guide](/blog/sv6-best-cards/) ranks Mask of Change beside it."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single. Second, English-tournament players: Japanese cards do not play in English events. Third, buyers who want a guaranteed return: the Raging Bolt fell $0.16 in ten days and the set total fell $2.37, and no page can tell you what SV5K will cost next month. Nor for anyone building the complete set by opening boxes: four boxes cost $363.92 against $362.29 for the set as singles."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Morty's Conviction SAR, buy the single at $54.08, which is 59.44% of a box, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits three cents above the Raging Bolt",
+          "If the job is the box, pay $90.98, or $3.03 a pack, and treat the chase as a bonus; the box is $12.00 below the $102.98 TCGplayer market box",
+          "If the job is a case, divide it first: the case saves $196.97 against twelve singles, $16.41 a box, and confirm the $74.57 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $362.29: four boxes cost $363.92 and still leave the chase to chance",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Raging Bolt ex prints four times in this set",
+          "Check the number on any Raging Bolt ex before you pay: the SAR is $54.05, the UR is $9.74, the SR is $1.92 and the Double Rare is $0.36",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV5K best-cards checklist",
+        "paragraphs": [
+          "Run this before the next SV5K box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, and a held case stores cool, dry, dark, and unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv5k-best-cards",
+    "takeaway": [
+      "The SV5K top ten, on the November 21, 2026 read, totals $285.42, with the Morty's Conviction SAR cross-checked two ways at $54.08. The Morty's is $54.08 of it, 18.95% of the list, and the five SARs are $187.46, 65.68%, while the twelve Art Rares together are $82.64.",
+      "On our shelf as of November 22, 2026, the box is $90.98 and the case is $894.79. The case saves $196.97 against twelve singles, $16.41 a box, while the box sits $12.00 below the $102.98 TCGplayer market box.",
+      "It is worth buying as the Wild Force set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Morty's alone is 59.44% of a box, and the set total fell $2.37 in ten days.",
+      "The ladder below the top two falls fast: the bottom five together are $71.59, and the other 90 cards together are $76.87. Four facts the other lists get wrong are corrected on this page: Samurai Sword still ranks Raging Bolt first, Sparkl's ranking puts Gengar second, the English top card is not in this set, and Raging Bolt ex prints four times at four prices.",
+      "Companion guide: the [is SV5K worth buying guide](/blog/is-sv5k-worth-buying/) runs the same verdict, and the [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV5K investment guide](/blog/sv5k-investment/) runs the same division, where the case box sits $28.41 below the TCGplayer market box.",
+      "For the twin set in the same season, the [SV5M investment guide](/blog/sv5m-investment/) prices the Cyber Judge box at $75.03, $15.95 below the SV5K box, and the [is SV5M worth buying guide](/blog/is-sv5m-worth-buying/) runs the same verdict for the sister set.",
+      "For the next set in the series, the [SV5a best cards guide](/blog/sv5a-best-cards/) ranks Crimson Haze at the same $90.98 box, and the [SV6 best cards guide](/blog/sv6-best-cards/) ranks Mask of Change beside this one."
     ]
   },
   "sv5k-investment": {
@@ -62969,8 +63501,9 @@ export const POSTS: Record<string, BlogPost> = {
       "Raging Bolt ex SAR is $54.21, or 50.6 percent of a box, and the complete set is $366.71, or 3.43 boxes. Buy the single for the chase and the singles for the set.",
       "Cyber Judge is the cheaper twin: its box is $18.77 less and its case is $199.98 less, but the Wild Force case saves $25.26 more. Buy Wild Force for the case deal, Cyber Judge for the cheaper box.",
       "The set is 100 cards, released January 26, 2024, with no reprint announced. Buy sealed from a named shop, check the tear strip, and film the opening.",
-      "New this cycle: the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the Future twin at $88.27 a box, $2.94 a pack, with a case that saves $206.53 against twelve singles.",
-      "Worth buying? The [is SV5K Wild Force worth buying guide](/blog/is-sv5k-worth-buying/) runs the November 14 verdict: box $90.98 after a fifteen percent fall, case $894.79 saving $196.97, and the Raging Bolt ex SAR at $54.21 is 59.58 percent of a box."
+      "Companion guide: the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the Future twin at $88.27 a box, $2.94 a pack, with a case that saves $206.53 against twelve singles.",
+      "Worth buying? The [is SV5K Wild Force worth buying guide](/blog/is-sv5k-worth-buying/) runs the November 14 verdict: box $90.98 after a fifteen percent fall, case $894.79 saving $196.97, and the Raging Bolt ex SAR at $54.21 is 59.58 percent of a box.",
+      "Companion guide: the [SV5K best cards guide](/blog/sv5k-best-cards/) ranks the ten cards worth chasing on market prices as of November 21, 2026, top ten $285.42, Morty's Conviction SAR $54.08, against our $90.98 box and $894.79 case."
     ]
   },
   "sv5m-cyber-judge-buyers-guide": {
