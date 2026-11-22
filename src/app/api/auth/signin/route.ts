@@ -1,9 +1,6 @@
 import { NextResponse, NextRequest } from 'next/server'
-import { selectFrom, isSupabaseConfigured } from '@/lib/supabase-client'
-import crypto from 'crypto'
-
-const hashPassword = (password: string) =>
-  crypto.createHash('sha256').update(password).digest('hex')
+import { selectFrom, updateIn, isSupabaseConfigured } from '@/lib/supabase-client'
+import { hashPassword, isLegacySha256Hash, verifyPassword } from '@/lib/password'
 
 export async function POST(req: NextRequest) {
   try {
@@ -19,7 +16,6 @@ export async function POST(req: NextRequest) {
     }
 
     const normalizedEmail = email.trim().toLowerCase()
-    const hashed = hashPassword(password)
 
     const { data, error } = await selectFrom('users', '*', { email: `eq.${normalizedEmail}` })
 
@@ -27,9 +23,17 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Invalid email or password' }, { status: 401 })
     }
 
-    const user = data[0]
-    if (user.password !== hashed) {
+    const user = data[0] as { id?: string; email?: string; name?: string | null; role?: string; password?: string }
+    const valid = await verifyPassword(password, user.password)
+    if (!valid) {
       return NextResponse.json({ error: 'Invalid email or password' }, { status: 401 })
+    }
+
+    // Transparently upgrade legacy unsalted SHA-256 hashes to scrypt.
+    if (isLegacySha256Hash(user.password)) {
+      const upgraded = await hashPassword(password)
+      const filter: Record<string, string> = user.id ? { id: `eq.${user.id}` } : { email: `eq.${normalizedEmail}` }
+      await updateIn('users', filter, { password: upgraded }).catch(() => undefined)
     }
 
     return NextResponse.json({

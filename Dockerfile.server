@@ -1,0 +1,47 @@
+# Akihabara TCG Warehouse — standalone server build (with /api routes)
+# Build: Next.js standalone -> .next/standalone ; Serve: node server.js
+# NEXT_OUTPUT must NOT be "export" here — next.config.ts switches to
+# output: "standalone" when it is unset. (The plain `Dockerfile` remains
+# the static nginx export and is untouched.)
+FROM node:22-alpine AS build
+WORKDIR /app
+COPY package.json package-lock.json ./
+RUN npm install --no-audit --no-fund
+COPY . .
+ENV NEXT_TELEMETRY_DISABLED=1
+RUN npx prisma generate && npx next build && node scripts/postbuild.mjs
+
+FROM node:22-alpine AS runtime
+WORKDIR /app
+ENV NODE_ENV=production
+ENV HOSTNAME=0.0.0.0
+ENV PORT=3000
+# postbuild.mjs has already staged .next/static and public/ next to
+# server.js inside the standalone tree, so copying it wholesale is
+# enough for either the flat or the nested standalone layout.
+COPY --from=build /app/.next/standalone ./
+# First-boot bootstrap, staged at predictable paths under /app/bootstrap
+# (see scripts/bootstrap.mjs): it creates the DATABASE_URL database if
+# needed, applies db/schema.sql, and runs the one-time Supabase import
+# when RUN_SUPABASE_IMPORT=1. The `pg` runtime closure is copied
+# alongside the scripts so they can resolve it no matter how the
+# standalone tree above was laid out (flat or nested).
+COPY --from=build /app/scripts/bootstrap.mjs /app/bootstrap/bootstrap.mjs
+COPY --from=build /app/scripts/migrate-from-supabase.mjs /app/bootstrap/migrate-from-supabase.mjs
+COPY --from=build /app/db/schema.sql /app/bootstrap/schema.sql
+COPY --from=build /app/node_modules/pg /app/bootstrap/node_modules/pg
+COPY --from=build /app/node_modules/pg-connection-string /app/bootstrap/node_modules/pg-connection-string
+COPY --from=build /app/node_modules/pg-pool /app/bootstrap/node_modules/pg-pool
+COPY --from=build /app/node_modules/pg-protocol /app/bootstrap/node_modules/pg-protocol
+COPY --from=build /app/node_modules/pg-types /app/bootstrap/node_modules/pg-types
+COPY --from=build /app/node_modules/pgpass /app/bootstrap/node_modules/pgpass
+COPY --from=build /app/node_modules/pg-int8 /app/bootstrap/node_modules/pg-int8
+COPY --from=build /app/node_modules/postgres-array /app/bootstrap/node_modules/postgres-array
+COPY --from=build /app/node_modules/postgres-bytea /app/bootstrap/node_modules/postgres-bytea
+COPY --from=build /app/node_modules/postgres-date /app/bootstrap/node_modules/postgres-date
+COPY --from=build /app/node_modules/postgres-interval /app/bootstrap/node_modules/postgres-interval
+COPY --from=build /app/node_modules/split2 /app/bootstrap/node_modules/split2
+COPY docker-entrypoint.sh /app/docker-entrypoint.sh
+RUN chmod +x /app/docker-entrypoint.sh
+EXPOSE 3000
+ENTRYPOINT ["/app/docker-entrypoint.sh"]

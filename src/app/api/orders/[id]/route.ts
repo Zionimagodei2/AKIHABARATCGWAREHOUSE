@@ -1,7 +1,8 @@
 import { NextResponse, NextRequest } from 'next/server'
 import { selectFrom, updateIn, isSupabaseConfigured } from '@/lib/supabase-client'
+import { isAdminRequest } from '@/lib/admin-auth'
 
-const VALID_STATUSES = ['pending', 'processing', 'shipped', 'delivered', 'cancelled']
+const VALID_STATUSES = ['pending', 'processing', 'shipped', 'delivered', 'cancelled', 'deleted']
 
 export async function GET(
   request: NextRequest,
@@ -12,6 +13,12 @@ export async function GET(
       return NextResponse.json({ error: 'Database not configured' }, { status: 500 })
     }
 
+    const admin = isAdminRequest(request)
+    const emailParam = request.nextUrl.searchParams.get('email')?.trim().toLowerCase() || ''
+    if (!admin && !emailParam) {
+      return NextResponse.json({ error: 'Authentication required' }, { status: 401 })
+    }
+
     const { id } = await params
 
     const { data: orders, error: orderError } = await selectFrom('orders', '*', { id: `eq.${id}` })
@@ -19,10 +26,18 @@ export async function GET(
       return NextResponse.json({ error: 'Order not found' }, { status: 404 })
     }
 
+    const order = orders[0] as Record<string, unknown>
+    if (!admin) {
+      const orderEmail = String(order.customer_email || '').trim().toLowerCase()
+      if (!orderEmail || orderEmail !== emailParam) {
+        return NextResponse.json({ error: 'Forbidden' }, { status: 403 })
+      }
+    }
+
     const { data: items, error: itemsError } = await selectFrom('order_items', '*', { order_id: `eq.${id}` })
 
     return NextResponse.json({
-      ...orders[0],
+      ...order,
       items: itemsError ? [] : (items || []),
     })
   } catch (error) {
@@ -36,6 +51,10 @@ export async function PATCH(
   { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    if (!isAdminRequest(request)) {
+      return NextResponse.json({ error: 'Admin authentication required' }, { status: 401 })
+    }
+
     if (!isSupabaseConfigured()) {
       return NextResponse.json({ error: 'Database not configured' }, { status: 500 })
     }

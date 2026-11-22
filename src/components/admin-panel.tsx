@@ -597,11 +597,8 @@ export default function AdminPanel() {
   const [unpublishedCount, setUnpublishedCount] = useState(0);
   const [publishStatus, setPublishStatus] = useState<StorePublishStatus>({ state: "idle", message: "", at: null });
   const [publishing, setPublishing] = useState(false);
-  // Publication token (built-in, masked & locked until it expires)
+  // Publication status — the token itself lives only on the server
   const [tokenStatus, setTokenStatus] = useState<TokenStatus | null>(null);
-  const [newToken, setNewToken] = useState("");
-  const [tokenSaving, setTokenSaving] = useState(false);
-  const [tokenResult, setTokenResult] = useState<{ ok: boolean; message: string } | null>(null);
 
   // Record a real order (from a customer confirmation via WhatsApp / live chat)
   const [newOrderOpen, setNewOrderOpen] = useState(false);
@@ -637,17 +634,28 @@ export default function AdminPanel() {
 
   /* ─────────── Auth ─────────── */
 
+  // Restore the session from the server (HttpOnly cookie set by
+  // /api/admin/login). localStorage only mirrors the UI state — every
+  // privileged API route verifies the cookie server-side.
   useEffect(() => {
-    const stored = localStorage.getItem("admin_auth");
-    if (stored) {
+    let cancelled = false;
+    (async () => {
       try {
-        const parsed = JSON.parse(stored);
-        if (parsed?.id && parsed?.role === "admin") {
-          setIsAuthenticated(true);
-          setAdminUser(parsed);
-        }
-      } catch {}
-    }
+        const res = await fetch("/api/admin/session");
+        if (!res.ok) throw new Error("no session");
+        const data = await res.json();
+        if (cancelled || !data?.email) return;
+        const adminData: AdminUser = { id: data.id || "admin-local", email: data.email, name: data.name || "Admin", role: "admin" };
+        setIsAuthenticated(true);
+        setAdminUser(adminData);
+        localStorage.setItem("admin_auth", JSON.stringify(adminData));
+      } catch {
+        if (!cancelled) localStorage.removeItem("admin_auth");
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   const handleLogin = async (e: React.FormEvent) => {
@@ -655,23 +663,24 @@ export default function AdminPanel() {
     setLoginLoading(true);
     setLoginError("");
 
-    // Admin credentials
-    const ADMIN_EMAIL = "akihabaratcgwarehouse1@gmail.com";
-    const ADMIN_PASSWORD = "Akihabarat1$";
-
     try {
-      // Verify admin credentials — email is case-insensitive (Gmail ignores case);
-      // trim() guards against accidental whitespace from mobile keyboards
-      const normalizedEmail = loginEmail.trim().toLowerCase();
-      const normalizedPassword = loginPassword.trim();
-      if (normalizedEmail === ADMIN_EMAIL && normalizedPassword === ADMIN_PASSWORD) {
-        const adminData: AdminUser = { id: "admin-local", email: ADMIN_EMAIL, name: "Admin", role: "admin" };
+      // Credentials are verified on the server against its environment;
+      // success sets an HttpOnly session cookie. Nothing is compared or
+      // stored in the browser.
+      const res = await fetch("/api/admin/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: loginEmail.trim(), password: loginPassword }),
+      });
+      const data = await res.json().catch(() => null);
+      if (res.ok && data?.email) {
+        const adminData: AdminUser = { id: data.id || "admin-local", email: data.email, name: data.name || "Admin", role: "admin" };
         setIsAuthenticated(true);
         setAdminUser(adminData);
         localStorage.setItem("admin_auth", JSON.stringify(adminData));
         toast({ title: "Welcome back!", description: "Logged in as Admin" });
       } else {
-        setLoginError("Invalid email or password");
+        setLoginError(data?.error || "Invalid email or password");
       }
     } catch {
       setLoginError("Network error — please check your connection");
@@ -681,6 +690,7 @@ export default function AdminPanel() {
   };
 
   const handleLogout = () => {
+    fetch("/api/admin/logout", { method: "POST" }).catch(() => undefined);
     setIsAuthenticated(false);
     setAdminUser(null);
     localStorage.removeItem("admin_auth");
@@ -702,7 +712,7 @@ export default function AdminPanel() {
     const unsubscribe = adminStore.subscribe(syncFromStore);
     adminStore.ready().then(() => {
       if (cancelled) return;
-      setTokenStatus(adminStore.getTokenStatus());
+      adminStore.getTokenStatus().then((status) => { if (!cancelled) setTokenStatus(status); });
       syncFromStore();
       // Load the current page's data once the store is ready
       switch (activePage) {
@@ -1779,27 +1789,6 @@ export default function AdminPanel() {
     fetchStats();
     fetchContent();
     fetchSettings();
-  };
-
-  /* ─────────── Publication Token ─────────── */
-
-  /** Save a replacement token — only possible once the current one expired. */
-  const handleSaveToken = async () => {
-    setTokenSaving(true);
-    setTokenResult(null);
-    try {
-      const result = await adminStore.savePublicationToken(newToken);
-      if (result.ok) {
-        setTokenResult({ ok: true, message: "New publication token saved and verified" });
-        setNewToken("");
-        setTokenStatus(adminStore.getTokenStatus());
-        toast({ title: "Token updated", description: "The new publication token is active" });
-      } else {
-        setTokenResult({ ok: false, message: result.error || "Could not save the token" });
-      }
-    } finally {
-      setTokenSaving(false);
-    }
   };
 
   /* ─────────── Record a real order ─────────── */
@@ -4885,44 +4874,15 @@ export default function AdminPanel() {
                     }`}
                   >
                     {tokenStatus.active ? <CheckCircle2 size={10} /> : <AlertTriangle size={10} />}
-                    {tokenStatus.active ? "Active" : "Expired"}
+                    {tokenStatus.active ? "Active" : "Not configured"}
                   </span>
                 </div>
                 <p className="text-xs text-gray-500">
                   {tokenStatus.active
-                    ? tokenStatus.expiresAt
-                      ? `Valid until ${tokenStatus.expiryLabel} — the field unlocks for a new token after that date.`
-                      : "Custom token active — verified with GitHub."
-                    : `Expired on ${tokenStatus.expiryLabel} — enter a new publication token below.`}
+                    ? "Publishing is configured on the server — the token is held server-side and never reaches this browser."
+                    : "Publishing is not configured on the server — set GITHUB_PUBLICATION_TOKEN in the server environment to enable one-click publishing."}
                 </p>
               </div>
-
-              {tokenStatus.canEdit && (
-                <div className="space-y-3 p-4 rounded-lg border border-amber-200 bg-amber-50/60">
-                  <div className="space-y-2">
-                    <Label htmlFor="new-publication-token">New Publication Token</Label>
-                    <Input
-                      id="new-publication-token"
-                      type="password"
-                      autoComplete="off"
-                      value={newToken}
-                      onChange={(e) => setNewToken(e.target.value)}
-                      placeholder="Paste the replacement token…"
-                    />
-                  </div>
-                  <Button onClick={handleSaveToken} disabled={tokenSaving || !newToken.trim()} className="bg-purple-950 hover:bg-purple-800">
-                    {tokenSaving ? <RefreshCw className="animate-spin mr-2" size={14} /> : <ShieldCheck size={14} className="mr-1.5" />}
-                    Save & verify
-                  </Button>
-                </div>
-              )}
-
-              {tokenResult && (
-                <div className={`text-sm rounded-md p-3 border flex items-start gap-2 ${tokenResult.ok ? "text-emerald-700 bg-emerald-50 border-emerald-200" : "text-red-700 bg-red-50 border-red-200"}`}>
-                  {tokenResult.ok ? <CheckCircle2 size={16} className="mt-0.5 shrink-0" /> : <XCircle size={16} className="mt-0.5 shrink-0" />}
-                  {tokenResult.message}
-                </div>
-              )}
             </div>
           ) : (
             renderSkeleton(3)
