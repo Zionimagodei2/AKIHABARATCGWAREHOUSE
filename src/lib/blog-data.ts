@@ -32803,7 +32803,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the box dropped $21.19 in six days, from $141.24 to $120.05, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $2,306.10 to $1,960.19. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 1 to November 13, 2026. The box now sits $22.50 above the cheaper High Class Pack on the shelf, MEGA Dream ex at $97.55, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV5a Crimson Haze worth buying guide](/blog/is-sv5a-worth-buying/) runs the same verdict on the playable twin, where the chase costs 2.52 boxes and the cards are still Standard-legal.",
-      "New this cycle: the [SV4a Shiny Treasure ex investment guide](/blog/sv4a-investment/) runs the case division and the Mew chase, box $120.05 against a case that divides to $98.01 a box and saves $440.81."
+      "Companion guide: the [SV4a Shiny Treasure ex investment guide](/blog/sv4a-investment/) runs the case division and the Mew chase, box $120.05 against a case that divides to $98.01 a box and saves $440.81.",
+      "Companion guide: the [SV4a best cards guide](/blog/sv4a-best-cards/) ranks the ten cards worth chasing on market prices as of November 21, 2026, top ten $1,009.25, Mew ex SAR $492.25, against our $120.05 box and $1,960.19 case."
     ]
   },
   "is-sv4k-worth-buying": {
@@ -33758,7 +33759,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Cyber Judge set to open, sealed, and it is not worth buying as a way to own the Iron Crown ex Special Art Rare or to make the money back by opening. The Iron Crown sat at $28.75 on TCGplayer on November 13, 2026, which is 38.32 percent of a box, and the Bianca's Devotion Special Art Rare at $27.98 is 37.29 percent of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $13.24 in five days, from $88.27 to $75.03, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $852.71 to $724.80, which did not change the verdict, because the case saved money before the fall and saves $175.56 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 24 to November 13, 2026. The box now sits $15.00 above the cheapest 30-pack box on the shelf, M3 Munikis Zero at $60.03, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV5K Wild Force worth buying guide](/blog/is-sv5k-worth-buying/) runs the same verdict on the dearer twin, where the chase costs 1.68 boxes and the case saves $196.97.",
-      "New this cycle: the [SV5M Cyber Judge investment guide](/blog/sv5m-investment/) runs the same box and case at $75.03 and $724.80, with the Iron Crown ex Special Art Rare at $28.04 and the complete set at $224.01, down 6.21 percent over ninety days."
+      "Companion guide: the [SV5M Cyber Judge investment guide](/blog/sv5m-investment/) runs the same box and case at $75.03 and $724.80, with the Iron Crown ex Special Art Rare at $28.04 and the complete set at $224.01, down 6.21 percent over ninety days.",
+      "Companion guide: the [SV5M best cards guide](/blog/sv5m-best-cards/) ranks the ten cards worth chasing on market prices as of November 21, 2026, top ten $157.47, Bianca's Devotion SAR $27.94, against our $75.03 box and $724.80 case."
     ]
   },
   "is-sv6-worth-buying": {
@@ -60672,6 +60674,240 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [is SV3a Raging Surf worth buying guide](/blog/is-sv3a-worth-buying/) runs the verdict at the November 14 prices, box $87.24 and case $81.68 a box, with the flat chase called out: no card in the set costs a box."
     ]
   },
+  "sv4a-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "Mew ex, the Special Art Rare numbered 347/190, at $492.25 on the November 21, 2026 TCGplayer market read, checked November 22, 2026. TCGPursuit carries that read, Sparkl agrees at $492.25 on its November 20, 2026 read, and TickerMint had it at $496.97 on November 16, 2026, so the number is corroborated three ways and drifting down, not up. It is 48.77% of the top ten and 4.10 boxes at our $120.05 box price, so the top card alone costs more than four boxes.",
+        "q": "What is the most valuable SV4a card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $492.25, which is 4.10 boxes at our $120.05 box price, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The community estimate for a god pack is about 4% of boxes, which is 1 box in 25, and a god pack still does not guarantee the Mew. The top ten together are $1,009.25, which is 8.41 boxes. Buy the single if the Mew is the card you want, and buy the box only if you want to open Shiny Treasure ex.",
+        "q": "Should I buy an SV4a box to pull the Mew ex SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 360 cards, released December 1, 2023, in boxes of 10 packs of 10 cards. English Paldean Fates, released January 26, 2024, runs 245 cards because it is a cut-down version of the Japanese set, it is not sold in individual booster packs, and it has no god packs. Its chase is the same Mew artwork as a Special Illustration Rare numbered 232/091, at $805.70 on the November 21, 2026 read, which is $313.45 above the Japanese SAR. Japanese cards are not legal at official English events, and the SV4a cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Paldean Fates?"
+      }
+    ],
+    "h1": "SV4a Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV4a Shiny Treasure ex is Mew ex, the Special Art Rare numbered 347/190, at $492.25 on the November 21, 2026 TCGplayer market read, checked November 22, 2026, and the ten best together are $1,009.25. On our shelf, as of November 22, 2026, the SV4a box is $120.05 and the sealed case of 20 boxes is $1,960.19. Buy the box to open Shiny Treasure ex, buy the single for the Mew.",
+      "Shiny Treasure ex, set code SV4a, is 360 cards: 190 in the main set plus 170 secret rares, released in Japan on December 1, 2023, in boxes of 10 packs of 10 cards at 550 yen a pack. Its English counterpart, Paldean Fates, followed on January 26, 2024, but there is no standalone English SV4a set, and that gap is where buyers lose money. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single."
+    ],
+    "metaDescription": "SV4a Shiny Treasure ex best cards, Nov 21, 2026: Mew ex SAR $492.25, top ten $1,009.25, box $120.05, case $1,960.19.",
+    "metaTitle": "SV4a Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Mew, then a long fall",
+        "paragraphs": [
+          "Every value below is from TCGPursuit's read of TCGplayer market prices, dated November 21, 2026 and checked November 22, 2026. Sparkl's November 20, 2026 read agrees on the top ten total to the cent at $1,009.25, and on the top three card by card. The ten are: Mew ex SAR 347/190 at $492.25, Charizard ex SAR 349/190 at $223.62, Gardevoir ex SAR 348/190 at $129.74, Pikachu S 236/190 at $37.31, Iono SAR 350/190 at $33.42, Clive SAR 352/190 at $20.18, Mimikyu S 265/190 at $18.93, Mew ex SSR 327/190 at $18.17, Maushold S 318/190 at $18.11 and Snorlax S 310/190 at $17.52.",
+          "The list is one card, then a cliff. The Mew alone is $492.25, 48.77% of the top ten and 31.48% of the whole set's singles value of $1,563.51 on the November 20, 2026 Sparkl read. The top three Special Art Rares together are $845.61, 83.79% of the top ten, and the top five are $916.34, 90.79%. The bottom five together are $92.91, 9.21% of the list, and the bottom three are $53.80, 5.33%. One of every card in the set, all 484 printings, is $1,563.51, so the top ten are 64.55% of the set's singles value and the other 474 printings together are $554.26.",
+          "Mew ex was $496.97 on the November 16, 2026 TickerMint read, so it is down $4.72, 0.95%, in five days. The top ten were $1,016.06 on that read, so the November 21 figure of $1,009.25 is down $6.81, which is 0.67%. Cardfolio's guide estimate puts the Mew at $385 as of November 21, 2026, which is $107.25 below the market read, or 21.79% below it, and that estimate is not trusted here. The cheapest-printing complete set, one of each of the 360 card numbers, is $1,459 on the November 16, 2026 TickerMint read."
+        ]
+      },
+      {
+        "h": "The money layer: the case is the cheapest box on the shelf",
+        "math": [
+          "SV4a box per pack: $120.05 / 10 packs = $12.01 per pack",
+          "SV4a box per card: $120.05 / 100 cards = $1.20 per card",
+          "SV4a case per box: $1,960.19 / 20 boxes = $98.01 per box",
+          "SV4a case per pack: $1,960.19 / 200 packs = $9.80 per pack",
+          "SV4a case per card: $1,960.19 / 2,000 cards = $0.98 per card",
+          "SV4a twenty singles: 20 x $120.05 = $2,401.00",
+          "SV4a case saving: $2,401.00 - $1,960.19 = $440.81 across the case",
+          "SV4a saving per box: $440.81 / 20 = $22.04 per box",
+          "SV4a saving share: $440.81 / $2,401.00 = 18.36% saved",
+          "SV4a official box: 5,500 yen / 158.64 yen per dollar = $34.67",
+          "SV4a official pack: 550 yen / 158.64 yen per dollar = $3.47",
+          "SV4a box vs official: $120.05 / $34.67 = 3.46 times official, from the rounded $34.67 figure; $120.05 - $34.67 = $85.38 above official",
+          "SV4a case box vs official: $98.01 / $34.67 = 2.83 times official",
+          "SV4a TCGplayer market box, Nov 20, 2026: $131.24",
+          "SV4a TCGplayer market box per pack: $131.24 / 10 packs = $13.12 per pack",
+          "SV4a shelf box vs TCGplayer: $131.24 - $120.05 = $11.19 below it; $11.19 / $131.24 = 8.53% below it",
+          "SV4a shelf box vs TCGplayer ratio: $120.05 / $131.24 = 0.91 times the TCGplayer box",
+          "SV4a case box vs TCGplayer market box: $131.24 - $98.01 = $33.23 below it; $33.23 / $131.24 = 25.32% below it",
+          "SV4a twenty TCGplayer boxes: 20 x $131.24 = $2,624.80; $2,624.80 - $1,960.19 = $664.61 below twenty market boxes",
+          "SV4a TCGplayer market pack, Nov 20, 2026: $12.38; shelf pack $12.01 is $0.37 below it",
+          "SV4a SNKRDUNK box ask, Sep 1, 2026: 18,000 yen / 158.64 yen per dollar = $113.46; $120.05 - $113.46 = $6.59 above the ask",
+          "SV4a SNKRDUNK box ask, Mar 2026: 14,499 yen / 158.64 yen per dollar = $91.40; $120.05 - $91.40 = $28.65 above the ask",
+          "SV4a top 10 total: $492.25 + $223.62 + $129.74 + $37.31 + $33.42 + $20.18 + $18.93 + $18.17 + $18.11 + $17.52 = $1,009.25",
+          "SV4a top 3 total: $492.25 + $223.62 + $129.74 = $845.61; $845.61 / $1,009.25 = 83.79% of the top 10",
+          "SV4a top 5 total: $492.25 + $223.62 + $129.74 + $37.31 + $33.42 = $916.34; $916.34 / $1,009.25 = 90.79% of the top 10",
+          "SV4a top 2 total: $492.25 + $223.62 = $715.87; $715.87 / $1,009.25 = 70.93% of the top 10",
+          "SV4a ranks 4 and 5 total: $37.31 + $33.42 = $70.73; $70.73 / $1,009.25 = 7.01% of the top 10",
+          "SV4a ranks 6 to 10 total: $20.18 + $18.93 + $18.17 + $18.11 + $17.52 = $92.91; $92.91 / $1,009.25 = 9.21% of the top 10",
+          "SV4a bottom 5 total: $20.18 + $18.93 + $18.17 + $18.11 + $17.52 = $92.91; $92.91 / $1,009.25 = 9.21% of the top 10",
+          "SV4a bottom 3 total: $18.17 + $18.11 + $17.52 = $53.80; $53.80 / $1,009.25 = 5.33% of the top 10",
+          "SV4a Mew share of top 10: $492.25 / $1,009.25 = 48.77% of the top 10",
+          "SV4a top 10 vs set value: $1,009.25 / $1,563.51 = 64.55% of the set value",
+          "SV4a Mew share of set value: $492.25 / $1,563.51 = 31.48% of the set value",
+          "SV4a rest of set: $1,563.51 - $1,009.25 = $554.26 across the other 474 printings",
+          "SV4a Mew against the box: $492.25 / $120.05 = 4.10 boxes",
+          "SV4a Mew against the case box: $492.25 / $98.01 = 5.02 boxes",
+          "SV4a top 10 against the box: $1,009.25 / $120.05 = 8.41 boxes",
+          "SV4a top 10 against the case: $1,009.25 / $1,960.19 = 0.51 times the case",
+          "SV4a top 10 minus one box: $1,009.25 - $120.05 = $889.20",
+          "SV4a top 10 minus two boxes: $1,009.25 - $240.10 = $769.15",
+          "SV4a gap number one to number two: $492.25 - $223.62 = $268.63; $492.25 / $223.62 = 2.20 times number two",
+          "SV4a gap number two to number three: $223.62 - $129.74 = $93.88",
+          "SV4a gap number three to number four: $129.74 - $37.31 = $92.43",
+          "SV4a gap number four to number five: $37.31 - $33.42 = $3.89",
+          "SV4a gap number five to number six: $33.42 - $20.18 = $13.24",
+          "SV4a Mew move Nov 16 to Nov 21: $492.25 - $496.97 = $4.72 down; $4.72 / $496.97 = 0.95% down",
+          "SV4a top 10 move Nov 16 to Nov 21: $1,009.25 - $1,016.06 = $6.81 down; $6.81 / $1,016.06 = 0.67% down",
+          "SV4a complete set cheapest printing, Nov 16, 2026: $1,459; $1,459 / $120.05 = 12.15 boxes",
+          "SV4a twelve boxes: 12 x $120.05 = $1,440.60; $1,459.00 - $1,440.60 = $18.40 below the cheapest-printing set",
+          "SV4a thirteen boxes: 13 x $120.05 = $1,560.65; $1,560.65 - $1,459.00 = $101.65 above the cheapest-printing set",
+          "SV4a Mew in yen: $492.25 x 158.64 yen per dollar = 78,090.54 yen",
+          "SV4a top 10 in yen: $1,009.25 x 158.64 yen per dollar = 160,107.42 yen",
+          "SV4a set value in yen: $1,563.51 x 158.64 yen per dollar = 248,035.23 yen",
+          "SV4a English Mew gap: $805.70 - $492.25 = $313.45; $805.70 / $492.25 = 1.64 times the Japanese SAR",
+          "SV4a English Mew against the box: $805.70 / $120.05 = 6.71 boxes",
+          "SV4a English Mew above Japanese: $313.45 / $492.25 = 63.68% above it",
+          "SV4a Mew ex SSR vs SAR: $492.25 / $18.17 = 27.09 times the Shiny Super Rare; $492.25 - $18.17 = $474.08",
+          "SV4a Charizard ex SSR vs SAR: $223.62 / $12.17 = 18.37 times the Shiny Super Rare; $223.62 - $12.17 = $211.45",
+          "SV4a Cardfolio Mew gap: $492.25 - $385.00 = $107.25; $107.25 / $492.25 = 21.79% below the market read",
+          "SV4a god pack at 25 boxes: 25 x $120.05 = $3,001.25; 25 x $98.01 = $2,450.25 at the case box price"
+        ],
+        "paragraphs": [
+          "The box is $120.05 for 10 packs of 10 cards, $12.01 a pack and $1.20 a card. The case is $1,960.19 for a printed 20 boxes, $98.01 a box, $9.80 a pack and $0.98 a card, $440.81 less than twenty singles at $2,401.00, or $22.04 a box, 18.36% saved. Both prices are from the live shelf, read November 22, 2026, and the case listing prints the 20-box count in its title, so the $98.01 per-box figure is a division, not an assumption.",
+          "Against the market, the shelf sits below the headline box and above the Tokyo ask. Sparkl lists the TCGplayer market box at $131.24 on November 20, 2026, so our box sits $11.19 below it, 8.53% below, and our case box sits $33.23 below it, 25.32% below. Twenty TCGplayer boxes would cost $2,624.80, so the case is $664.61 below them. The Tokyo numbers cut the other way: the lowest SNKRDUNK ask for a sealed box was 18,000 yen on September 1, 2026, which converts to $113.46 at 158.64 yen per dollar, so our box is $6.59 above it, and a March 2026 ask of 14,499 yen converts to $91.40. The official price frames both: 5,500 yen converts to $34.67, so our box is 3.46 times official. The [is SV4a worth buying guide](/blog/is-sv4a-worth-buying/) runs the same verdict at these prices, and the [sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows how the case division works across sets."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 550 yen including tax for 10 cards, released December 1, 2023. The set code is SV4a, and the set runs 190 base cards plus 170 secrets numbered 191 to 360: 129 Shiny Rares, 18 Shiny Super Rares, 7 Special Art Rares, 4 Ultra Rares and 4 Art Rares. The three Special Art Rares at the top are Mew ex 347/190, Charizard ex 349/190 and Gardevoir ex 348/190. Match the number, not just the name: Mew ex prints three times, the Double Rare, the Shiny Super Rare at 327/190 for $18.17 and the Special Art Rare at 347/190 for $492.25, so the SAR is 27.09 times the SSR. Charizard ex prints three times too, with the Shiny Super Rare at 331/190 for $12.17 on the November 16, 2026 read and the SAR at 349/190 for $223.62, which is 18.37 times the SSR.",
+          "First, confirm the case listing prints 20 boxes: this one does, in its title, and that printed count makes the $98.01 per-box figure a division, not an assumption. Second, check the condition grade on any Japanese listing: the same collector number can carry a worn copy at a fraction of the clean price, so a low price can be wear, not a bargain. The cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so this set is a collector set now, not a tournament set. The [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) walks the same checks for this set, and the [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: six ways to spend on SV4a. The single row is the only row that buys the card instead of the chance: the Mew SAR is 4.10 boxes, and the top ten together are 8.41 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. Opening for the Mew is buying a lottery ticket with a $120.05 face value; the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: it saves $22.04 a box only if twenty boxes are wanted. The set-as-singles row buys the whole set outright at the cheapest printing: twelve boxes cost $1,440.60 against $1,459 for the set, $18.40 below it, and still leave the chase to chance, while thirteen boxes cost $1,560.65, $101.65 above the set. The market box row is a reference price, not a listing on this shelf. The wait row is the only route with a price of $0, and the only route that made money in the last five days: waiting from November 16 to November 21 saved $6.81 on the top ten."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV4a box",
+              "$120.05",
+              "$12.01",
+              "Opening Shiny Treasure ex in Japanese",
+              "$120.05 for a chase that tops out at $492.25"
+            ],
+            [
+              "SV4a case (20)",
+              "$1,960.19",
+              "$98.01 a box",
+              "Holding or splitting twenty boxes",
+              "$1,960.19 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$492.25 Mew ex SAR",
+              "n/a",
+              "Owning the chase card",
+              "4.10 boxes for one card"
+            ],
+            [
+              "The set as singles",
+              "$1,459 cheapest printing",
+              "n/a",
+              "Owning all 360 cards with nothing to chance",
+              "$1,459 in one purchase; no sealed product"
+            ],
+            [
+              "TCGplayer market box",
+              "$131.24",
+              "$13.12",
+              "The market box price",
+              "A market figure, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no trap, no case math",
+        "note": "From the Warehouse: the question we get most about SV4a is whether the box is still the way to the Mew, because every ranking list leads with the bubble Mew and never says what the box costs. It is not the way to the card. The SAR is 4.10 boxes, the top ten together are 8.41 boxes, and no box guarantees any secret rare, so the box is the way to open Shiny Treasure ex and the single is the way to own the Mew. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $440.81 against twenty singles, and it divides to $98.01 a box.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and two of the three are stale. The first result, Samurai Sword, ranks from March 2026 yen prices and puts Penny at number six at about $20, while the November 16, 2026 read has Penny at $13.41, and its box figure is a September 1 SNKRDUNK ask, not a shelf price. The second result, TickerMint, has the November 16 TCGplayer prices, but it ranks cards only and carries no box, no case and no decision. The third, Kaikan, is priced in euros from October 21 and November 10, 2026, and its pull rates are community estimates, since The Pokemon Company publishes none.",
+          "The gap this page owns starts with a fresh read dated November 21, the top ten cross-checked against a second read to the cent. Second is the shelf: two live prices and the case divisions, $98.01 a box against $120.05 single. Third is the Paldean Fates trap: there is no standalone English SV4a set, so a buyer searching for an English Shiny Treasure ex box is searching for a product that does not exist. Fourth is the god-pack correction: about 4% of boxes, which is 1 box in 25, not 1 pack in 25, and still only a community estimate. Fifth is the numbering trap: Mew ex prints three times and Charizard ex prints three times, and the name alone spans a 27-to-1 price range for the Mew and an 18-to-1 range for the Charizard."
+        ]
+      },
+      {
+        "h": "The chase ladder: three SARs, then a cliff at $37.31",
+        "note": "From the Warehouse: what we see in chat is buyers asking for 'the Mew' without a number, and three prints at three prices is exactly how the wrong one gets bought. The SAR is $492.25, the SSR is $18.17, and a listing that says Mew ex without a number has said nothing about the price. The same goes for Charizard ex: the SAR is $223.62, the SSR is $12.17, and the Double Rare sits below both. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is three cards. The Mew ex Special Art Rare is $492.25, 48.77% of the top ten and 31.48% of the set's singles value, the Charizard ex SAR is $223.62, 2.20 times less than the Mew with a $268.63 gap, and the Gardevoir ex SAR is $129.74, so the three together are $845.61, 83.79% of the list. The gap from number three to number four is $92.43, so the ladder is three cards, a cliff, then a floor. The fourth and fifth rungs are Pikachu S at $37.31 and Iono SAR at $33.42, $70.73 together, 7.01% of the list, and with the top three they make the top five $916.34, 90.79%.",
+          "The sixth rung is the floor: Clive SAR at $20.18, Mimikyu S at $18.93, Mew ex SSR at $18.17, Maushold S at $18.11 and Snorlax S at $17.52, $92.91 together, 9.21% of the list. The gap from number five to number six is $13.24 and from number four to number five is $3.89, so the floor is flat: five cards inside $2.66 of each other. Below the top ten, Ditto S at $17.17, Mimikyu AR at $15.93, Tandemaus S at $14.40 and Penny SAR at $13.41 are the next four on the November 16, 2026 read, $60.91 together, and 351 of the 360 card numbers sit under $18."
+        ]
+      },
+      {
+        "h": "The risk layer: one card is half the list",
+        "paragraphs": [
+          "The first risk is the one-card top: the Mew is $492.25, 48.77% of the top ten, so a badly opened box has one card to rescue it and nothing else above $223.62. The second risk is the drift: the Mew fell $4.72 in five days while the top ten fell $6.81, and the top ten are 64.55% of the set, so a move in the Mew is a set move. The third risk is concentration: the top three are $845.61, 83.79% of the top ten, so a move in the top three is a list move.",
+          "The fourth risk is the single listing that proves nothing. A March 2026 SNKRDUNK ask of 14,499 yen converts to $91.40, $28.65 below our shelf box, while the TCGplayer market box is $131.24, $11.19 above it. Confirm stock, shipping, and the exact product before paying. The fifth risk is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/). The sixth risk is the English trap: the English Mew at $805.70 is $313.45 dearer than the Japanese SAR, so a buyer who assumes Japanese is always cheaper pays for the wrong assumption."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the Paldean Fates trap",
+        "paragraphs": [
+          "The English twin is a different product with a different chase. English Paldean Fates, released January 26, 2024, runs 245 cards, 91 in the main set plus 154 secret rares, because it is a cut-down version of the 360-card Japanese set, and it was not sold in individual booster packs: it came in Elite Trainer Boxes and other bundled products, and it has no god packs. Its top card is the same Mew artwork as a Special Illustration Rare numbered 232/091, at $805.70 on the November 21, 2026 read, which is 1.64 times the Japanese SAR, $313.45 above it. The English Mew alone is 6.71 boxes at our shelf price.",
+          "The trap is the search itself: a buyer who types 'Shiny Treasure ex English box' is hunting a product that was never made, and the listings that answer are either Paldean Fates bundles at bundle prices or Japanese boxes with English-language titles. The yen cross-check frames the shelf: the official box price of 5,500 yen converts to $34.67, so our box is 3.46 times official, and the Cardmarket box is 90.87 euros on the November 20, 2026 read. The sister sets sit beside it on the same shelf: the [SV5K best cards guide](/blog/sv5k-best-cards/) ranks Wild Force, the [SV5a best cards guide](/blog/sv5a-best-cards/) ranks Crimson Haze, and the [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) prices the language choice across sets."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single. Second, English-tournament players: Japanese cards do not play in English events, and the SV4a cards carry the G mark, which left Standard play in the April 10, 2026 rotation. Third, buyers who want a guaranteed return: the Mew fell $4.72 in five days and the top ten fell $6.81, and no page can tell you what SV4a will cost next month. Nor for anyone building the complete set by opening boxes: thirteen boxes cost $1,560.65 against $1,459 for the set as singles at the cheapest printing."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Mew ex SAR, buy the single at $492.25, which is 4.10 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits $268.63 above the Charizard",
+          "If the job is the box, pay $120.05, or $12.01 a pack, and treat the chase as a bonus; the box is $11.19 below the $131.24 TCGplayer market box",
+          "If the job is a case, divide it first: the case saves $440.81 against twenty singles, $22.04 a box, and confirm the $98.01 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $1,459 at the cheapest printing: thirteen boxes cost $1,560.65 and still leave the chase to chance",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Mew ex prints three times in this set",
+          "Check the number on any Mew ex before you pay: the SAR is $492.25, the SSR is $18.17, and the Double Rare sits below both",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV4a best-cards checklist",
+        "paragraphs": [
+          "Run this before the next SV4a box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, the [SV4a investment guide](/blog/sv4a-investment/) runs the same division over a longer hold, and a held case stores cool, dry, dark, and unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv4a-best-cards",
+    "takeaway": [
+      "The SV4a top ten, on the November 21, 2026 read, totals $1,009.25, with the Mew ex SAR cross-checked three ways at $492.25. The Mew is $492.25 of it, 48.77% of the list, and the top three SARs are $845.61, 83.79%, while the bottom five together are $92.91.",
+      "On our shelf as of November 22, 2026, the box is $120.05 and the case is $1,960.19. The case saves $440.81 against twenty singles, $22.04 a box, while the box sits $11.19 below the $131.24 TCGplayer market box.",
+      "It is worth buying as the Shiny Treasure ex set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Mew alone is 4.10 boxes, and the top ten fell $6.81 in five days.",
+      "The ladder below the top three falls fast: ranks four and five together are $70.73, and the other 474 printings together are $554.26. Four facts the other lists get wrong are corrected on this page: Samurai Sword still prices from March 2026, Sparkl ranks by the lower of two markets, there is no standalone English SV4a box, and the god pack is about 4% of boxes, not packs.",
+      "Companion guide: the [is SV4a worth buying guide](/blog/is-sv4a-worth-buying/) runs the same verdict, and the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV4a investment guide](/blog/sv4a-investment/) runs the same division, where the case box sits $33.23 below the TCGplayer market box.",
+      "For the twin set in the same season, the [SV4m investment guide](/blog/sv4m-investment/) prices Future Flash beside this one, and the [SV4k investment guide](/blog/sv4k-investment/) prices Ancient Roar beside it.",
+      "For the next set in the series, the [SV5m best cards guide](/blog/sv5m-best-cards/) ranks Cyber Judge as a companion guide, and the [SV5k best cards guide](/blog/sv5k-best-cards/) ranks Wild Force beside this one."
+    ]
+  },
   "sv4a-investment": {
     "datePublished": "2026-11-19",
     "faqs": [
@@ -61103,9 +61339,10 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV4a box at $141.24 is the second most expensive 10-pack box on our shelf at $14.12 a pack, but $1.41 a card, with a Pokemon ex guaranteed in every pack and 360 cards in the set. The case at $2,306.10 is the way to buy it sealed, at $115.31 a box and $11.53 a pack, saving $518.70 against twenty singles. The set is 360 cards, released December 1, 2023, and the chase is the Mew ex SAR, which carried a ¥43,000 ask on October 7, 2026, down 21.82% from March.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 30 and October 7, 2026. The god-pack figure is a community estimate, not a guarantee, and the box can hold zero SAR cards. The Japan ask for a sealed box was $100.00, so our box costs $41.24 more, and the case-split box costs $15.31 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best Japanese Pokemon special set guide](/blog/best-japanese-pokemon-special-set-to-buy/) ranks the special sets the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the set that shares SV4a's $141.24 box price, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own.",
-      "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the Paradox Rift third at $102.64 a box, and names the Parasol Lady SAR, not Gholdengo, as the dearest card at $37.39.",
-      "New this cycle: the [is SV4a Shiny Treasure ex worth buying guide](/blog/is-sv4a-worth-buying/) runs the verdict at the November 14 prices, box $120.05 and case $98.01 a box, saving $440.81, with the rotation called out: G-mark cards left Standard on April 10, 2026."
+      "Companion guide: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the set that shares SV4a's $141.24 box price, box $141.24 against a case that saves $441.47, with the Latias ex SAR at $159.23 on its own.",
+      "Companion guide: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the Paradox Rift third at $102.64 a box, and names the Parasol Lady SAR, not Gholdengo, as the dearest card at $37.39.",
+      "Companion guide: the [is SV4a Shiny Treasure ex worth buying guide](/blog/is-sv4a-worth-buying/) runs the verdict at the November 14 prices, box $120.05 and case $98.01 a box, saving $440.81, with the rotation called out: G-mark cards left Standard on April 10, 2026.",
+      "Companion guide: the [SV4a best cards guide](/blog/sv4a-best-cards/) ranks the ten cards worth chasing on market prices as of November 21, 2026, top ten $1,009.25, Mew ex SAR $492.25, against our $120.05 box and $1,960.19 case."
     ]
   },
   "sv4k-ancient-roar-buyers-guide": {
@@ -63506,6 +63743,260 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [SV5K best cards guide](/blog/sv5k-best-cards/) ranks the ten cards worth chasing on market prices as of November 21, 2026, top ten $285.42, Morty's Conviction SAR $54.08, against our $90.98 box and $894.79 case."
     ]
   },
+  "sv5m-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "Bianca's Devotion, the Special Art Rare numbered 097/071, at $27.94 on the November 21, 2026 Sparkl read of TCGplayer market prices, read November 22, 2026. Scryda's read of the same TCGplayer market data agrees on all ten cards to the cent, so the number is corroborated two ways. Cardfolio's guide estimate puts it at $29.98, $2.04 above the market read, and that estimate is not trusted here. It is 37.24% of a box at our $75.03 box price, so the top card alone runs more than a third of a box.",
+        "q": "What is the most valuable SV5M card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $27.94, which is 37.24% of our $75.03 box, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $157.47, which is 2.10 boxes, and the case is $724.80. Buy the single if the Bianca's Devotion SAR is the card you want, and buy the box only if you want to open Cyber Judge.",
+        "q": "Should I buy an SV5M box to pull the Bianca's Devotion SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 100 cards, released January 26, 2024, in boxes of 30 packs of 5 cards. English Temporal Forces, released March 22, 2024, runs 218 cards because it merges Cyber Judge with Wild Force, and its chase is the Gastly illustration rare at $77.99 on November 21, 2026, a card that is not in Cyber Judge at all. The English set prices its shared cards higher almost everywhere, with one exception that matters: the English Bianca's Devotion SIR is $25.70, $2.24 below the Japanese SAR. Japanese cards are generally not legal at official events outside Asia, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Temporal Forces?"
+      }
+    ],
+    "h1": "SV5M Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV5M Cyber Judge is Bianca's Devotion, the Special Art Rare numbered 097/071, at $27.94 (November 21, 2026, read November 22), and the ten best together are $157.47, with Iron Crown ex four cents behind at $27.90. On our shelf, as of November 22, 2026, the [SV5M box](/blog/is-sv5m-worth-buying/) is $75.03 and the [SV5M sealed case](/blog/sv5m-investment/) is $724.80. Buy the box to open Cyber Judge, buy the single for the Bianca's Devotion.",
+      "Cyber Judge, set code SV5M, is 100 cards: 71 in the main set plus 29 secret rares, 12 Art Rares, 9 Super Rares, 5 Special Art Rares and 3 Ultra Rares. It released in Japan on January 26, 2024, in boxes of 30 packs of 5 cards at 180 yen a pack, and its English twin, Temporal Forces, followed March 22, 2024. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single."
+    ],
+    "metaDescription": "SV5M Cyber Judge best cards, Nov 21, 2026: Bianca's Devotion SAR $27.94, top ten $157.47, box $75.03, case $724.80.",
+    "metaTitle": "SV5M Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: four cents between the top two",
+        "paragraphs": [
+          "Every value below is from Sparkl's read of the Japanese set, prices as of November 21, 2026, read November 22, 2026. The Scryda read of the same TCGplayer market data agrees on all ten cards to the cent. The ten add to $157.47: Bianca's Devotion SAR $27.94, Iron Crown ex SAR $27.90, Iron Leaves ex SAR $21.13, Deerling AR $15.47, Iron Boulder ex SAR $13.60, Sawsbuck AR $12.54, Salvatore SAR $12.40, Litten AR $10.72, Lickitung AR $9.11 and Metagross AR $6.66.",
+          "The top two are $55.84, 35.46% of the top ten, and the top three are $76.97, 48.88%. The top five are $106.04, 67.34% of the list. The bottom five together are $51.43, 32.66%, and the bottom three are $26.49, 16.82%. One of every card in the set is $222.95 at the November 21 read, so the top ten are 70.63% of the set's singles value and the Bianca's Devotion alone is 12.53% of it. The other 90 cards are $65.48.",
+          "Against the prior read, the move is small. Iron Crown ex SAR was $28.04 on the November 17 read, so it is down $0.14, 0.50%, in five days. The full set was $224.01 on that read, so the November 21 figure of $222.95 is down $1.06, 0.47%. Over ninety days the fall is bigger: Sparkl's history runs from $238.43 on August 23, 2026 to $223.21 on November 21, a fall of $15.22, 6.38%, and its history endpoint sits $0.26 above the $222.95 list sum. Cardfolio disagrees from above: its guide estimate puts the top card at $29.98, $2.04 above the market read, 7.30% above it, and its top ten at $153, $4.47 below the market read, 2.84% below it."
+        ]
+      },
+      {
+        "h": "The money layer: the shelf sits below the market box",
+        "math": [
+          "SV5M box per pack: $75.03 / 30 packs = $2.50 per pack",
+          "SV5M box per card: $75.03 / 150 cards = $0.50 per card",
+          "SV5M case per box: $724.80 / 12 boxes = $60.40 per box",
+          "SV5M case per pack: $724.80 / 360 packs = $2.01 per pack",
+          "SV5M case per card: $724.80 / 1,800 cards = $0.40 per card",
+          "SV5M twelve singles: 12 x $75.03 = $900.36",
+          "SV5M case saving: $900.36 - $724.80 = $175.56 across the case",
+          "SV5M saving per box: $175.56 / 12 = $14.63 per box",
+          "SV5M saving share: $175.56 / $900.36 = 19.50% saved",
+          "SV5M official box: 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV5M official pack: 180 yen / 158.64 yen per dollar = $1.13",
+          "SV5M box vs official: $75.03 / $34.04 = 2.20 times official, from the rounded $34.04 figure; $75.03 - $34.04 = $40.99 above official",
+          "SV5M TCGplayer market box, Nov 21, 2026: $85.29",
+          "SV5M TCGplayer market box per pack: $85.29 / 30 packs = $2.84 per pack",
+          "SV5M shelf box vs TCGplayer: $85.29 - $75.03 = $10.26 below it; $10.26 / $85.29 = 12.03% below it",
+          "SV5M shelf box vs TCGplayer ratio: $75.03 / $85.29 = 0.88 times the TCGplayer box",
+          "SV5M case box vs TCGplayer market box: $85.29 - $60.40 = $24.89 below it; $24.89 / $85.29 = 29.18% below it",
+          "SV5M twelve TCGplayer boxes: 12 x $85.29 = $1,023.48; $1,023.48 - $724.80 = $298.68 below twelve market boxes",
+          "SV5M Cardmarket box, Nov 21, 2026: 55.58 euros x 1.0990 dollars per euro = $61.08",
+          "SV5M shelf box vs Cardmarket box: $75.03 - $61.08 = $13.95 above it",
+          "SV5M case box vs Cardmarket box: $61.08 - $60.40 = $0.68 below it",
+          "SV5M Cardmarket case, Nov 21, 2026: 629.00 euros x 1.0990 dollars per euro = $691.27",
+          "SV5M shelf case vs Cardmarket case: $724.80 - $691.27 = $33.53 above it",
+          "SV5M Cardmarket case per box: 629.00 euros / 12 boxes = 52.42 euros per box; 52.42 euros x 1.0990 dollars per euro = $57.61 per box",
+          "SV5M shelf case box vs Cardmarket case box: $60.40 - $57.61 = $2.79 above it",
+          "SV5M Samurai Sword box ask, Sept 2026: 9,690 yen / 158.64 yen per dollar = $61.08; $75.03 - $61.08 = $13.95 above the ask",
+          "SV5M SNKRDUNK box ask, Sept 30, 2026: 9,999 yen / 158.64 yen per dollar = $63.03; $75.03 - $63.03 = $12.00 above the ask",
+          "SV5M Cardfolio box, Nov 21, 2026: $78.79; $78.79 - $75.03 = $3.76 above the shelf box; $3.76 / $78.79 = 4.77% above it",
+          "SV5M Sparkl pack, Nov 21, 2026: $3.69; shelf pack $2.50 is $1.19 below it",
+          "SV5M BillsArchive box, Nov 8, 2026: $86.33; $86.33 - $75.03 = $11.30 above the shelf box",
+          "SV5M top 10 total: $27.94 + $27.90 + $21.13 + $15.47 + $13.60 + $12.54 + $12.40 + $10.72 + $9.11 + $6.66 = $157.47",
+          "SV5M top 2 total: $27.94 + $27.90 = $55.84; $55.84 / $157.47 = 35.46% of the top 10",
+          "SV5M top 3 total: $27.94 + $27.90 + $21.13 = $76.97; $76.97 / $157.47 = 48.88% of the top 10",
+          "SV5M top 5 total: $27.94 + $27.90 + $21.13 + $15.47 + $13.60 = $106.04; $106.04 / $157.47 = 67.34% of the top 10",
+          "SV5M bottom 5 total: $12.54 + $12.40 + $10.72 + $9.11 + $6.66 = $51.43; $51.43 / $157.47 = 32.66% of the top 10",
+          "SV5M bottom 3 total: $10.72 + $9.11 + $6.66 = $26.49; $26.49 / $157.47 = 16.82% of the top 10",
+          "SV5M five SARs total: $27.94 + $27.90 + $21.13 + $13.60 + $12.40 = $102.97; $102.97 / $157.47 = 65.39% of the top 10",
+          "SV5M five ARs in top 10 total: $15.47 + $12.54 + $10.72 + $9.11 + $6.66 = $54.50; $54.50 / $157.47 = 34.61% of the top 10",
+          "SV5M gap number one to number two: $27.94 - $27.90 = $0.04; $27.94 / $27.90 = 1.00 times number two",
+          "SV5M gap number two to number three: $27.90 - $21.13 = $6.77",
+          "SV5M gap number three to number four: $21.13 - $15.47 = $5.66",
+          "SV5M gap number five to number six: $13.60 - $12.54 = $1.06",
+          "SV5M ranks 11 and 12 total: $5.73 + $5.66 = $11.39",
+          "SV5M top 10 vs set value: $157.47 / $222.95 = 70.63% of the set value",
+          "SV5M top card vs set value: $27.94 / $222.95 = 12.53% of the set value",
+          "SV5M top 5 vs set value: $106.04 / $222.95 = 47.56% of the set value",
+          "SV5M rest of set: $222.95 - $157.47 = $65.48 across the other 90 cards",
+          "SV5M Bianca's Devotion against the box: $27.94 / $75.03 = 37.24% of a box",
+          "SV5M Bianca's Devotion against the case box: $27.94 / $60.40 = 46.26% of a case box",
+          "SV5M Iron Crown against the box: $27.90 / $75.03 = 37.19% of a box",
+          "SV5M top 10 against the box: $157.47 / $75.03 = 2.10 boxes",
+          "SV5M case against the top 10: $724.80 / $157.47 = 4.60 times the top 10",
+          "SV5M complete set against the box: $222.95 / $75.03 = 2.97 boxes",
+          "SV5M two boxes: 2 x $75.03 = $150.06; $222.95 - $150.06 = $72.89 to the full set",
+          "SV5M three boxes: 3 x $75.03 = $225.09; $225.09 - $222.95 = $2.14 above the full set",
+          "SV5M top 10 minus one box: $157.47 - $75.03 = $82.44",
+          "SV5M Iron Crown move Nov 17 to Nov 21: $27.90 - $28.04 = $0.14 down; $0.14 / $28.04 = 0.50% down",
+          "SV5M set value move Nov 17 to Nov 21: $222.95 - $224.01 = $1.06 down; $1.06 / $224.01 = 0.47% down",
+          "SV5M 90-day move: $223.21 - $238.43 = $15.22 down; $15.22 / $238.43 = 6.38% down",
+          "SV5M 90-day history vs list sum: $223.21 - $222.95 = $0.26",
+          "SV5M Cardfolio top card gap: $29.98 - $27.94 = $2.04; $2.04 / $27.94 = 7.30% above the market read",
+          "SV5M Cardfolio top 10 gap: $157.47 - $153.00 = $4.47; $4.47 / $157.47 = 2.84% below the market read",
+          "SV5M Bianca's Devotion in yen: $27.94 x 158.64 yen per dollar = 4,432.40 yen",
+          "SV5M Iron Crown in yen: $27.90 x 158.64 yen per dollar = 4,426.06 yen",
+          "SV5M top 10 in yen: $157.47 x 158.64 yen per dollar = 24,981.04 yen",
+          "SV5M set value in yen: $222.95 x 158.64 yen per dollar = 35,368.79 yen",
+          "SV5M Iron Crown SAR vs Iron Crown SR: $27.90 / $1.54 = 18.12 times the Super Rare; $27.90 - $1.54 = $26.36",
+          "SV5M Iron Crown SAR vs Iron Crown UR: $27.90 / $5.14 = 5.43 times the Ultra Rare; $27.90 - $5.14 = $22.76",
+          "SV5M Iron Crown SAR vs Iron Crown DR: $27.90 / $0.37 = 75.41 times the Double Rare; $27.90 - $0.37 = $27.53",
+          "SV5M English Iron Crown gap: $39.27 - $27.90 = $11.37; $39.27 / $27.90 = 1.41 times the Japanese SAR",
+          "SV5M English Iron Leaves gap: $29.12 - $21.13 = $7.99; $29.12 / $21.13 = 1.38 times the Japanese SAR",
+          "SV5M English Bianca's Devotion gap: $27.94 - $25.70 = $2.24; $25.70 / $27.94 = 0.92 times the Japanese SAR",
+          "SV5M English Iron Boulder gap: $15.20 - $13.60 = $1.60; $15.20 / $13.60 = 1.12 times the Japanese SAR",
+          "SV5M English Salvatore gap: $14.31 - $12.40 = $1.91; $14.31 / $12.40 = 1.15 times the Japanese SAR",
+          "SV5M English box vs Japanese box: $322.52 / $75.03 = 4.30 times the Japanese box; $322.52 - $75.03 = $247.49 above it",
+          "SV5M English box per pack: $322.52 / 36 packs = $8.96 per pack",
+          "SV5M English Gastly vs Japanese top card: $77.99 - $27.94 = $50.05; $77.99 / $27.94 = 2.79 times the Japanese top card",
+          "SV5M SV5K box gap: $90.98 - $75.03 = $15.95 per box",
+          "SV5M SV5K case box gap: $74.57 - $60.40 = $14.17 per box",
+          "SV5M Kaikan Bianca's Devotion: 69.00 euros x 1.0990 dollars per euro = $75.83; $75.83 / $27.94 = 2.71 times the November 21 market read"
+        ],
+        "paragraphs": [
+          "The box is $75.03 for 30 packs of 5 cards, $2.50 a pack and $0.50 a card. The case is $724.80 for a printed 12 boxes, $60.40 a box, $2.01 a pack and $0.40 a card, $175.56 less than twelve singles at $900.36, or $14.63 a box, 19.50% saved. Both prices are from the live shelf, read November 22, 2026.",
+          "Against the market, the shelf sits below the headline box and above the Tokyo ask. Sparkl lists the TCGplayer market box at $85.29 on November 21, 2026, so our box sits $10.26 below it, 12.03% below, and our case box sits $24.89 below it, 29.18% below. The Tokyo numbers cut the other way: the lowest SNKRDUNK ask for a sealed box was 9,999 yen on September 30, 2026, which converts to $63.03 at 158.64 yen per dollar, so our box is $12.00 above it, and the Samurai Sword ask of 9,690 yen converts to $61.08, so our box is $13.95 above it. The official price frames both: 5,400 yen converts to $34.04, so our box is 2.20 times official. The [is SV5M worth buying guide](/blog/is-sv5m-worth-buying/) runs the same verdict at these prices."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards, released January 26, 2024. The set code is SV5M, and the set runs 71 base cards plus 29 secrets numbered 072 to 100: 12 Art Rares, 9 Super Rares, 5 Special Art Rares and 3 Ultra Rares, with 3 ACE SPEC cards inside the main set. The five SARs are Iron Leaves ex 093, Iron Crown ex 094, Iron Boulder ex 095, Salvatore 096 and Bianca's Devotion 097, and the three Ultra Rares close the set at 098, 099 and 100. Match the number, not just the name: Iron Crown ex prints four times, the Double Rare at 036/071 for $0.37, the Super Rare at 086/071 for $1.54, the Special Art Rare at 094/071 for $27.90 and the Ultra Rare at 099/071 for $5.14. The SAR is 75.41 times the Double Rare.",
+          "First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count makes the $60.40 per-box figure a division, not an assumption. Second, check the condition grade on any Japanese listing: the same collector number can carry a worn copy at a fraction of the clean price, so a low price can be wear, not a bargain. Third, watch the name: Cardfolio lists the top card as Bianca's Sincerity, while Sparkl and Scryda list it as Bianca's Devotion, so a search under one spelling misses listings under the other. The cards carry the H regulation mark, still Standard-legal after the April 10, 2026 rotation removed the G mark. The [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) walks the same checks for this set, and the [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: six ways to spend on SV5M. The single row is the only row that buys the card instead of the chance: the Bianca's Devotion SAR is 37.24% of a box, and the top ten together are 2.10 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. Opening for the Bianca's Devotion is buying a lottery ticket with a $75.03 face value; the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: it saves $14.63 a box only if twelve boxes are wanted. The set-as-singles row buys the whole set outright: three boxes cost $225.09 against $222.95 for the set as singles, $2.14 above it, and still leave the chase to chance. The wait row costs $0, and it is the only route that made money in the last five days: waiting from November 17 to November 21 saved $1.06 on the set."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV5M box",
+              "$75.03",
+              "$2.50",
+              "Opening Cyber Judge in Japanese",
+              "$75.03 for a chase that tops out at $27.94"
+            ],
+            [
+              "SV5M case (12)",
+              "$724.80",
+              "$60.40 a box",
+              "Holding or splitting twelve boxes",
+              "$724.80 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$27.94 Bianca's Devotion SAR",
+              "n/a",
+              "Owning the chase card",
+              "37.24% of a box for one card"
+            ],
+            [
+              "The set as singles",
+              "$222.95",
+              "n/a",
+              "Owning all 100 cards with nothing to chance",
+              "$222.95 in one purchase; no sealed product"
+            ],
+            [
+              "TCGplayer market box",
+              "$85.29",
+              "$2.84",
+              "The market box price",
+              "A market figure, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: a stale top card, a priceless chase tier, and no shelf",
+        "note": "From the Warehouse: the question we get most about SV5M is whether the box is still the way to the Bianca's Devotion, because every ranking list leads with the trainer card and never says what the box costs. It is not the way to the card. The SAR is 37.24% of a box, the top ten together are 2.10 boxes, and no box guarantees any secret rare, so the box is the way to open Cyber Judge and the single is the way to own the Bianca's Devotion. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $175.56 against twelve singles, and it divides to $60.40 a box.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and two of the three carry no fresh prices. The first result, Sparkl, has the November 21 TCGplayer prices and the full 100-card list, but it ranks by the lower of the two markets and carries no shelf price. The second result, Keefs Cards, is a set guide with no prices at all, only the release date, the card count, and the three Paradox ex cards. The third, Samurai Sword, is a buying guide from September that names the eight-card chase tier and lists its own box at 9,690 yen, but it prints no dollar figure for any single card. The Cardboard Warriors result is a Gym Leader Challenge play review, ranked by type, with no prices anywhere.",
+          "The gap this page owns starts with a full-set read dated November 21, the top ten cross-checked against a second read to the cent. Second is the shelf: two live prices and the case divisions. Third is the numbering trap: Iron Crown ex prints four times and the name alone spans a 75.41-to-1 price range. Fourth is the English inversion: the Japanese Bianca's Devotion at $27.94 costs more than its English twin at $25.70, so the rule that English is always dearer fails on the top card. Fifth is the stale-list trap: Kaikan's October 21 list prices Bianca's Devotion at about 69 euros, roughly $75.83, 2.71 times the November 21 market read, so a month-old list is not a price."
+        ]
+      },
+      {
+        "h": "The chase ladder: two at the top, a step, then a long floor",
+        "note": "From the Warehouse: what we see in chat is buyers asking for 'the Iron Crown' without a number, and four prints at four prices is exactly how the wrong one gets bought. The SAR is $27.90, the UR is $5.14, the SR is $1.54 and the Double Rare is $0.37, and a listing that says Iron Crown ex without a number has said nothing about the price. The same goes for the top card: one source calls it Bianca's Devotion and another calls it Bianca's Sincerity, so the name alone spans two spellings as well as one price. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is two cards. The Bianca's Devotion Special Art Rare is $27.94, 17.74% of the top ten and 12.53% of the set's singles value, and the Iron Crown ex Special Art Rare is $27.90, four cents behind, so the top two are $55.84, 35.46% of the list. The third rung is the three cards from $13.60 to $21.13, $50.20 together, and with the top two they make the top five $106.04, 67.34%.",
+          "The fourth rung is the floor: Sawsbuck AR at $12.54, Salvatore SAR at $12.40, Litten AR at $10.72, Lickitung AR at $9.11 and Metagross AR at $6.66, $51.43. The gap from number two to number three is $6.77 and from number three to number four is $5.66, so the ladder is two cards, a step, then a cluster. Below the top ten, Iron Leaves ex UR at $5.73 and Drampa AR at $5.66 are the next two, $11.39 together, and 86 cards sit under $5. Cardfolio's guide estimate puts the Iron Boulder ex UR at $8.10, but that is a guide estimate, not a TCGplayer market read, so it is not ranked here."
+        ]
+      },
+      {
+        "h": "The risk layer: a two-card top, a drifting set, and a listing that proves nothing",
+        "paragraphs": [
+          "The first risk is the two-card top: the Bianca's Devotion and the Iron Crown are $55.84 together, 35.46% of the top ten, so a badly opened box has two cards to rescue it and nothing else above $21.13. The second risk is the drift: the set total fell $1.06 in five days and 6.38% in ninety days, and the top ten are 70.63% of the set, so a move in the top five is a set move. The third risk is concentration: the five SARs are $102.97, 65.39% of the top ten, and the five Art Rares in the top ten are $54.50, 34.61% of it, so a move in the SARs is a set move too.",
+          "The fourth risk is the single listing that proves nothing. A Tokyo ask of 9,999 yen converts to $63.03, $12.00 below our shelf box, while the Cardmarket case at 629.00 euros converts to $691.27, $33.53 below our shelf case, so the same set looks cheap or dear depending on which listing you pick. Confirm stock, shipping, and the exact product before paying. The fifth risk is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/). The sixth risk is the English trap: the English Gastly at $77.99 is $50.05 dearer than the Japanese top card, and it is not in this set."
+        ]
+      },
+      {
+        "h": "Context: the yen cross-check and the English twin",
+        "paragraphs": [
+          "The Tokyo numbers cut both ways: the lowest SNKRDUNK ask for a sealed box was 9,999 yen on September 30, 2026, which converts to $63.03 at 158.64 yen per dollar, so our box is $12.00 above it, and the Samurai Sword ask of 9,690 yen converts to $61.08, so our box is $13.95 above it. The case-split box at $60.40 is $2.79 above the Cardmarket case box of $57.61 and $0.68 below the Cardmarket box of $61.08. The official price is the floor: 5,400 yen converts to $34.04, so our box is 2.20 times official. The sister set sits beside it on the same shelf: the SV5K Wild Force box is $90.98, $15.95 above the SV5M box, and its case divides to $74.57 a box, $14.17 above the SV5M case box. The [SV5K best cards guide](/blog/sv5k-best-cards/) ranks Wild Force beside this one at that price, and the [SV5K investment guide](/blog/sv5k-investment/) runs the same division for the sister set.",
+          "The English twin is a different product with a different chase: English Temporal Forces, released March 22, 2024, runs 218 cards because it merges Cyber Judge with Wild Force. Its top card is the Gastly illustration rare at $77.99 on the November 21 read, 2.79 times the Japanese top card, and Gastly is a Wild Force card, not a Cyber Judge card. The shared cards price higher in English almost everywhere: Iron Crown ex SIR $39.27 against $27.90, Iron Leaves ex SIR $29.12 against $21.13, Iron Boulder ex SIR $15.20 against $13.60 and Salvatore SIR $14.31 against $12.40, all on the November 21 read except Salvatore and Bianca's Devotion, which are November 7 reads. The inversion is the Bianca's Devotion: the English SIR is $25.70, $2.24 below the Japanese SAR, so the Japanese card is the dearer one. The English booster box is $322.52 on the November 21 TCGplayer market read, 4.30 times the Japanese box, at $8.96 a pack across 36 packs. The [SV5M investment guide](/blog/sv5m-investment/) runs the same division for the longer hold."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single. Second, English-tournament players: Japanese cards do not play in English events. Third, buyers who want a guaranteed return: the Iron Crown fell $0.14 in five days and the set total fell 6.38% in ninety days, and no page can tell you what SV5M will cost next month. Nor for anyone building the complete set by opening boxes: three boxes cost $225.09 against $222.95 for the set as singles."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Bianca's Devotion SAR, buy the single at $27.94, which is 37.24% of a box, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits four cents above the Iron Crown",
+          "If the job is the box, pay $75.03, or $2.50 a pack, and treat the chase as a bonus; the box is $10.26 below the $85.29 TCGplayer market box",
+          "If the job is a case, divide it first: the case saves $175.56 against twelve singles, $14.63 a box, and confirm the $60.40 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $222.95: three boxes cost $225.09 and still leave the chase to chance",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Iron Crown ex prints four times in this set",
+          "Check the number on any Iron Crown ex before you pay: the SAR is $27.90, the UR is $5.14, the SR is $1.54 and the Double Rare is $0.37",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV5M best-cards checklist",
+        "paragraphs": [
+          "Run this before the next SV5M box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, and a held case stores cool, dry, dark, and unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv5m-best-cards",
+    "takeaway": [
+      "The SV5M top ten, on the November 21, 2026 read, totals $157.47, with the Bianca's Devotion SAR cross-checked two ways at $27.94. The Bianca's Devotion is $27.94 of it, 17.74% of the list, and the five SARs are $102.97, 65.39%, while the five Art Rares in the top ten together are $54.50.",
+      "On our shelf as of November 22, 2026, the box is $75.03 and the case is $724.80. The case saves $175.56 against twelve singles, $14.63 a box, while the box sits $10.26 below the $85.29 TCGplayer market box.",
+      "It is worth buying as the Cyber Judge set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Bianca's Devotion alone is 37.24% of a box, and the set total fell $1.06 in five days and 6.38% in ninety days.",
+      "The ladder below the top two falls fast: the bottom five together are $51.43, and the other 90 cards together are $65.48. Four facts the other lists get wrong are corrected on this page: Kaikan still prices Bianca's Devotion at about 69 euros, Samurai Sword names the chase tier with no dollar figures, Cardfolio renames the top card Bianca's Sincerity, and the English top card Gastly is not in this set at all.",
+      "Companion guide: the [is SV5M worth buying guide](/blog/is-sv5m-worth-buying/) runs the same verdict, and the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV5M investment guide](/blog/sv5m-investment/) runs the same division, where the case box sits $24.89 below the TCGplayer market box.",
+      "For the twin set in the same season, the [SV5K best cards guide](/blog/sv5k-best-cards/) prices the Wild Force box at $90.98, $15.95 above the SV5M box, and the [SV5K investment guide](/blog/sv5k-investment/) runs the same division for the sister set.",
+      "For the next set in the series, the [SV5a best cards guide](/blog/sv5a-best-cards/) ranks Crimson Haze, and the [SV4a best cards guide](/blog/sv4a-best-cards/) ranks Shiny Treasure ex as a companion guide."
+    ]
+  },
   "sv5m-cyber-judge-buyers-guide": {
     "datePublished": "2026-11-09",
     "faqs": [
@@ -63668,7 +64159,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Cyber Judge is an $88.27 box that divides to $2.94 a pack, with a $71.06-a-box case behind it. The top card is a third of a box, so the box is a purchase, not an investment. The [SV5K Wild Force buyer's guide](/blog/sv5k-wild-force-buyers-guide/) prices the Ancient twin at $107.04 a box, $18.77 more.",
       "The set's value is concentrated: five cards hold 48 percent of the $228.50 set value, and 86 of 100 cards are under $5. If the goal is Iron Crown ex SAR, the single at $29.78 beats the box. The [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same comparison for every set on the shelf.",
       "Still deciding between the Japanese box and the English twin? The [Japanese versus English Pokemon cards comparison](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) covers print, price, and legality, and the [SV7 Stella Miracle buyer's guide](/blog/sv7-stella-miracle-buyers-guide/) prices the next set in the line at $91.61 a box.",
-      "Worth buying? The [is SV5M Cyber Judge worth buying guide](/blog/is-sv5m-worth-buying/) runs the November 14 verdict: box $75.03 after a fifteen percent fall, case $724.80 saving $175.56, and the Iron Crown ex SAR at $28.75 is 38.32 percent of a box."
+      "Worth buying? The [is SV5M Cyber Judge worth buying guide](/blog/is-sv5m-worth-buying/) runs the November 14 verdict: box $75.03 after a fifteen percent fall, case $724.80 saving $175.56, and the Iron Crown ex SAR at $28.75 is 38.32 percent of a box.",
+      "Companion guide: the [SV5M best cards guide](/blog/sv5m-best-cards/) ranks the ten cards worth chasing on market prices as of November 21, 2026, top ten $157.47, Bianca's Devotion SAR $27.94, against our $75.03 box and $724.80 case."
     ]
   },
   "sv5m-investment": {
