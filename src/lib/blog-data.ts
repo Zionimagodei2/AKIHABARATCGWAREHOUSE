@@ -33002,7 +33002,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the box dropped $13.74 in seven days, from $91.61 to $77.87, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $982.80 to $835.38. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 30 to November 13, 2026. The box now sits $5.65 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV4M Future Flash worth buying guide](/blog/is-sv4m-worth-buying/) runs the same verdict on the cheaper twin, where the chase card costs 0.85 of a box.",
-      "New this cycle: the [SV4K Ancient Roar investment guide](/blog/sv4k-investment/) runs the same shelf as a sealed hold, box $77.87 against a case that divides to $69.62 a box and saves $99.06, with the Roaring Moon ex Special Art Rare at $39.42 on TCGplayer as of November 17, 2026."
+      "Companion guide: the [SV4K Ancient Roar investment guide](/blog/sv4k-investment/) runs the same shelf as a sealed hold, box $77.87 against a case that divides to $69.62 a box and saves $99.06, with the Roaring Moon ex Special Art Rare at $39.42 on TCGplayer as of November 17, 2026.",
+      "Companion guide: the [SV4K best cards guide](/blog/sv4k-best-cards/) ranks the ten most valuable cards, Roaring Moon ex SAR $39.42 at the top, on the November 21, 2026 read."
     ]
   },
   "is-sv4m-worth-buying": {
@@ -33202,7 +33203,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the box dropped $13.24 in seven days, from $88.27 to $75.03, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $882.46 to $750.09. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 30 to November 13, 2026. The box now sits $2.81 above the cheapest 30-pack box on the shelf, Battle Partners at $72.22, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [SV4M Future Flash buyer's guide](/blog/sv4m-future-flash-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV4K Ancient Roar worth buying guide](/blog/is-sv4k-worth-buying/) runs the same verdict on the dearer twin, where the chase is one Roaring Moon at $39.73.",
-      "New this cycle: the [SV4M Future Flash investment guide](/blog/sv4m-investment/) runs the same shelf as a sealed hold, box $75.03 against a case that divides to $62.51 a box and saves $150.27, with the Altaria ex Special Art Rare at $63.11 on TCGplayer as of November 17, 2026."
+      "Companion guide: the [SV4M Future Flash investment guide](/blog/sv4m-investment/) runs the same shelf as a sealed hold, box $75.03 against a case that divides to $62.51 a box and saves $150.27, with the Altaria ex Special Art Rare at $63.11 on TCGplayer as of November 17, 2026.",
+      "Companion guide: the [SV4M best cards guide](/blog/sv4m-best-cards/) ranks the ten most valuable cards, Altaria ex SAR $63.10 at the top, on the November 21, 2026 read."
     ]
   },
   "is-sv5a-worth-buying": {
@@ -61525,9 +61527,250 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV4K box at $91.61 sits low on the 30-pack shelf at $3.05 a pack, and $0.61 a card, for 150 cards from a 94-card set. The case at $982.80 is the sealed buy: $81.90 a box and $2.73 a pack, saving $116.52 against twelve singles. The set is 94 cards, released October 27, 2023, and the chase is the Roaring Moon ex Special Art Rare, which carried a $40.22 market price on November 7, 2026, or 0.44 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace figures as of November 7 and November 8, 2026. No pull rate is guaranteed, and the box can hold zero Roaring Moon cards. The twin box, Future Flash, is $88.27, so Ancient Roar costs $3.34 more per box: pay the premium for the Roaring Moon chase.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Raging Surf guide](/blog/sv3a-raging-surf-buyers-guide/) prices the third Paradox Rift component the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the April 2023 set at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90, or 0.42 times a box.",
-      "New this cycle: the [SV4M Future Flash buyer's guide](/blog/sv4m-future-flash-buyers-guide/) prices the cheaper October twin at $88.27 a box, with a case that saves $176.78, or $60.26 more than this set's case.",
-      "New this cycle: the [is SV4K Ancient Roar worth buying guide](/blog/is-sv4k-worth-buying/) runs the verdict at the November 14 prices, box $77.87 and case $69.62 a box, with the rotation called out: G-mark cards left Standard on April 10, 2026."
+      "Companion guide: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the April 2023 set at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90, or 0.42 times a box.",
+      "Companion guide: the [SV4M Future Flash buyer's guide](/blog/sv4m-future-flash-buyers-guide/) prices the cheaper October twin at $88.27 a box, with a case that saves $176.78, or $60.26 more than this set's case.",
+      "Companion guide: the [is SV4K Ancient Roar worth buying guide](/blog/is-sv4k-worth-buying/) runs the verdict at the November 14 prices, box $77.87 and case $69.62 a box, with the rotation called out: G-mark cards left Standard on April 10, 2026.",
+      "Companion guide: the [SV4K best cards guide](/blog/sv4k-best-cards/) ranks the ten most valuable cards, Roaring Moon ex SAR $39.42 at the top, on the November 21, 2026 read."
+    ]
+  },
+  "sv4k-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "Roaring Moon ex, the Special Art Rare numbered 090/066, at $39.42 on the November 21, 2026 TCGplayer market read, checked November 22, 2026. TCGPursuit carries that read, Cardfolio agrees at $39.50 on its November 21, 2026 guide, and GetMint had it at $37.73 on its November 20, 2026 read, so the number is corroborated three ways within $1.77. It is 26.85% of the top ten and 0.51 boxes at our $77.87 box price, so the top card alone costs about half a box.",
+        "q": "What is the most valuable SV4K card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $39.42, which is 0.51 boxes at our $77.87 box price, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The community estimate from Kaikan's box openings is about one Special Art Rare in six boxes, and a SAR is one of five in this set, so the Roaring Moon is rarer than that, and a box with no SAR is the normal outcome, not bad luck. The top ten together are $146.80, which is 1.89 boxes. Buy the single if the Roaring Moon is the card you want, and buy the box only if you want to open Ancient Roar.",
+        "q": "Should I buy an SV4K box to pull the Roaring Moon ex SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 95 cards, released October 27, 2023, in boxes of 30 packs of 5 cards. English Paradox Rift, released November 3, 2023, runs a 182-card main set because it folds Ancient Roar together with Future Flash and part of Raging Surf, it is sold in boxes of 36 packs of 10 cards, and its chase is the same Roaring Moon artwork as a Special Illustration Rare numbered 251/182, at $26.60 on the November 22, 2026 read, which is $12.82 below the Japanese SAR. Japanese cards are not legal at official English events, and the SV4K cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Paradox Rift?"
+      }
+    ],
+    "h1": "SV4K Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV4K Ancient Roar is Roaring Moon ex, the Special Art Rare numbered 090/066, at $39.42 on the November 21, 2026 TCGplayer market read, checked November 22, 2026, and the ten best together are $146.80. On our shelf, as of November 22, 2026, the SV4K box is $77.87 and the sealed case of 12 boxes is $835.38. Buy the box to open Ancient Roar, buy the single for the Roaring Moon.",
+      "Ancient Roar, set code SV4K, is 95 cards: 66 in the main set plus 29 secret rares, released in Japan on October 27, 2023, in boxes of 30 packs of 5 cards at 180 yen a pack. Its English counterpart, Paradox Rift, followed on November 3, 2023, but Paradox Rift folds Ancient Roar together with its sister set Future Flash, and that fold is where buyers lose money. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single."
+    ],
+    "metaDescription": "SV4K Ancient Roar best cards, Nov 21, 2026: Roaring Moon ex SAR $39.42, top ten $146.80, box $77.87, case $835.38.",
+    "metaTitle": "SV4K Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Roaring Moon, then a slope",
+        "paragraphs": [
+          "Every value below is from TCGPursuit's read of TCGplayer market prices, dated November 21, 2026 and checked November 22, 2026. Cardfolio's November 21, 2026 guide agrees on the top card to eight cents at $39.50, but it reorders the middle: Golisopod ex at $24.63, $3.99 below the market read, and Mela at $19.99, $1.04 above it, so the market read is the ranking used here. The ten are: Roaring Moon ex SAR 090/066 at $39.42, Golisopod ex SAR 088/066 at $28.62, Mela SAR 092/066 at $18.95, Morpeko AR 076/066 at $13.88, Professor Sada's Vitality SAR 091/066 at $11.85, Sandy Shocks ex SAR 089/066 at $9.15, Roaring Moon ex UR 093/066 at $8.91, Luxurious Cape UR 094/066 at $5.41, Magby AR 068/066 at $5.32 and Brute Bonnet AR 077/066 at $5.29.",
+          "The list is one card, then a slope, not a cliff. The Roaring Moon alone is $39.42, 26.85% of the top ten and 19.05% of the set's singles value of $206.89 on the November 21, 2026 read. The top three together are $86.99, 59.26% of the top ten, and the top five are $112.72, 76.78%. One of each of the 94 priced printings is $206.89, so the top ten are 70.96% of the set and the other 84 together are $60.09. The 95th card, Basic Darkness Energy 095/066, has no TCGplayer market price, so it sits outside the ranking and outside the $206.89 total.",
+          "The top three have barely moved in five days. Roaring Moon ex was $39.42 on the November 17, 2026 read too, Golisopod ex was $28.62, and Mela was $18.93, so Mela is up two cents, 0.11%, and the top three are flat. The complete set was $223.17 on that read, so the November 21 total of $206.89 is down $16.28, 7.29%, in four days, and since the top three stood still, the fall sits in the middle of the set. GetMint's November 20, 2026 read had the Roaring Moon at $37.73, $1.69 below the November 21 figure, a one-day-old read disagreeing by 4.29%, so the fresh figure stands and the older one is noted, not hidden."
+        ]
+      },
+      {
+        "h": "The money layer: the case is the cheapest box on the shelf",
+        "math": [
+          "SV4K box per pack: $77.87 / 30 packs = $2.60 per pack",
+          "SV4K box per card: $77.87 / 150 cards = $0.52 per card",
+          "SV4K case per box: $835.38 / 12 boxes = $69.62 per box",
+          "SV4K case per pack: $835.38 / 360 packs = $2.32 per pack",
+          "SV4K case per card: $835.38 / 1,800 cards = $0.46 per card",
+          "SV4K twelve singles: 12 x $77.87 = $934.44",
+          "SV4K case saving: $934.44 - $835.38 = $99.06 across the case",
+          "SV4K saving per box: $99.06 / 12 = $8.255, which rounds to $8.26 per box",
+          "SV4K saving share: $99.06 / $934.44 = 10.60% saved",
+          "SV4K official box: 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV4K official pack: 180 yen / 158.64 yen per dollar = $1.13",
+          "SV4K box vs official: $77.87 / $34.04 = 2.29 times official, from the rounded $34.04 figure; $77.87 - $34.04 = $43.83 above official",
+          "SV4K case box vs official: $69.62 / $34.04 = 2.05 times official, from the rounded $69.62 and $34.04 figures",
+          "SV4K Cardfolio market box, Nov 21, 2026: $79",
+          "SV4K Cardfolio market box per pack: $79.00 / 30 packs = $2.63 per pack",
+          "SV4K shelf box vs Cardfolio: $79.00 - $77.87 = $1.13 below it; $1.13 / $79.00 = 1.43% below it",
+          "SV4K case box vs Cardfolio market box: $79.00 - $69.62 = $9.38 below it; $9.38 / $79.00 = 11.87% below it",
+          "SV4K twelve Cardfolio boxes: 12 x $79.00 = $948.00; $948.00 - $835.38 = $112.62 below twelve market boxes",
+          "SV4K Cardfolio market pack, Nov 21, 2026: $4.25; shelf pack $2.60 is $1.65 below it, from the rounded $2.60 figure",
+          "SV4K Tokyo box ask, Samurai Sword: 10,192 yen / 158.64 yen per dollar = $64.25; $77.87 - $64.25 = $13.62 above the ask",
+          "SV4K CardzMarketCap last sold box, Nov 18, 2026: $68.87; $77.87 - $68.87 = $9.00 above it; case box $69.62 is $0.75 above it, from the rounded $69.62 figure",
+          "SV4K PokemonCardPrice box ask, Nov 15, 2026: $101.59; $101.59 - $77.87 = $23.72 above the shelf box; $23.72 is 23.35% of the $101.59 ask",
+          "SV4K top 10 total: $39.42 + $28.62 + $18.95 + $13.88 + $11.85 + $9.15 + $8.91 + $5.41 + $5.32 + $5.29 = $146.80",
+          "SV4K top 3 total: $39.42 + $28.62 + $18.95 = $86.99; $86.99 / $146.80 = 59.26% of the top 10",
+          "SV4K top 5 total: $39.42 + $28.62 + $18.95 + $13.88 + $11.85 = $112.72; $112.72 / $146.80 = 76.78% of the top 10",
+          "SV4K ranks 4 and 5 total: $13.88 + $11.85 = $25.73; $25.73 / $146.80 = 17.53% of the top 10",
+          "SV4K ranks 6 to 10 total: $9.15 + $8.91 + $5.41 + $5.32 + $5.29 = $34.08; $34.08 / $146.80 = 23.22% of the top 10",
+          "SV4K bottom 3 total: $5.41 + $5.32 + $5.29 = $16.02; $16.02 / $146.80 = 10.91% of the top 10",
+          "SV4K Roaring Moon share of top 10: $39.42 / $146.80 = 26.85% of the top 10",
+          "SV4K top 10 vs set value: $146.80 / $206.89 = 70.96% of the set value",
+          "SV4K Roaring Moon share of set value: $39.42 / $206.89 = 19.05% of the set value",
+          "SV4K rest of set: $206.89 - $146.80 = $60.09 across the other 84 priced printings",
+          "SV4K Roaring Moon against the box: $39.42 / $77.87 = 0.51 boxes",
+          "SV4K Roaring Moon against the case box: $39.42 / $69.62 = 0.57 boxes, from the rounded $69.62 figure",
+          "SV4K top 10 against the box: $146.80 / $77.87 = 1.89 boxes",
+          "SV4K top 10 against the case: $146.80 / $835.38 = 0.18 times the case",
+          "SV4K top 10 minus one box: $146.80 - $77.87 = $68.93",
+          "SV4K two boxes vs top 10: 2 x $77.87 = $155.74; $155.74 - $146.80 = $8.94 above the top ten",
+          "SV4K gap number one to number two: $39.42 - $28.62 = $10.80; $39.42 / $28.62 = 1.38 times number two",
+          "SV4K gap number two to number three: $28.62 - $18.95 = $9.67",
+          "SV4K gap number three to number four: $18.95 - $13.88 = $5.07",
+          "SV4K gap number four to number five: $13.88 - $11.85 = $2.03",
+          "SV4K gap number five to number six: $11.85 - $9.15 = $2.70",
+          "SV4K Mela move Nov 17 to Nov 21: $18.95 - $18.93 = $0.02 up; $0.02 / $18.93 = 0.11% up",
+          "SV4K complete set move Nov 17 to Nov 21: $206.89 - $223.17 = $16.28 down; $16.28 / $223.17 = 7.29% down",
+          "SV4K complete set, one of each, Nov 21, 2026: $206.89; $206.89 / $77.87 = 2.66 boxes",
+          "SV4K two boxes: 2 x $77.87 = $155.74; $206.89 - $155.74 = $51.15 below the set as singles",
+          "SV4K three boxes: 3 x $77.87 = $233.61; $233.61 - $206.89 = $26.72 above the set as singles",
+          "SV4K Roaring Moon in yen: $39.42 x 158.64 yen per dollar = 6,253.59 yen",
+          "SV4K top 10 in yen: $146.80 x 158.64 yen per dollar = 23,288.35 yen",
+          "SV4K set value in yen: $206.89 x 158.64 yen per dollar = 32,821.03 yen",
+          "SV4K English Roaring Moon gap: $39.42 - $26.60 = $12.82; $39.42 / $26.60 = 1.48 times the English SIR",
+          "SV4K English Roaring Moon against the box: $26.60 / $77.87 = 0.34 boxes",
+          "SV4K English Roaring Moon share of Japanese: $26.60 / $39.42 = 67.48% of the Japanese SAR",
+          "SV4K Roaring Moon ex SAR vs SR: $39.42 / $3.40 = 11.59 times the Secret Rare; $39.42 - $3.40 = $36.02",
+          "SV4K Roaring Moon ex SAR vs UR: $39.42 / $8.91 = 4.42 times the Ultra Rare; $39.42 - $8.91 = $30.51",
+          "SV4K Roaring Moon ex SAR vs RR: $39.42 / $0.32 = 123.19 times the Double Rare; $39.42 - $0.32 = $39.10",
+          "SV4K Golisopod ex SAR vs SR: $28.62 / $1.46 = 19.60 times the Secret Rare; $28.62 - $1.46 = $27.16",
+          "SV4K Mela SAR vs SR: $18.95 / $3.03 = 6.25 times the Secret Rare; $18.95 - $3.03 = $15.92",
+          "SV4K Sada SAR vs SR: $11.85 / $3.80 = 3.12 times the Secret Rare; $11.85 - $3.80 = $8.05",
+          "SV4K Sandy Shocks ex SAR vs SR: $9.15 / $1.50 = 6.10 times the Secret Rare; $9.15 - $1.50 = $7.65",
+          "SV4K Cardfolio Roaring Moon gap: $39.50 - $39.42 = $0.08; $0.08 / $39.42 = 0.20% above the market read",
+          "SV4K GetMint Roaring Moon gap, Nov 20, 2026: $39.42 - $37.73 = $1.69; $1.69 / $39.42 = 4.29% below the November 21 read",
+          "SV4K Cardfolio set estimate vs TCGPursuit: $216.00 - $206.89 = $9.11; $9.11 / $206.89 = 4.40% above it",
+          "SV4K OGCards set estimate vs TCGPursuit: $221.97 - $206.89 = $15.08; $15.08 / $206.89 = 7.29% above it",
+          "SV4K next four below the top ten, OGCards Nov 20, 2026 read: $4.63 + $4.00 + $3.80 + $3.40 = $15.83"
+        ],
+        "paragraphs": [
+          "The box is $77.87 for 30 packs of 5 cards, $2.60 a pack and $0.52 a card. The case is $835.38 for a printed 12 boxes, $69.62 a box, $2.32 a pack and $0.46 a card, $99.06 less than twelve singles at $934.44, or $8.26 a box, 10.60% saved. Both prices are from the live shelf, read November 22, 2026, and the case listing prints the 12-box count in its title, so the $69.62 per-box figure is a division, not an assumption. The [SV4K Ancient Roar booster box](/product/sv4k-ancient-roar-booster-box-japanese-pokemon-card/) and the [SV4K Ancient Roar sealed case](/product/sv4k-ancient-roar-sealed-case-12-boxes-japanese-pokemon-card/) are the listings these divisions run on.",
+          "Against the market, the shelf sits just under the guide box and well above the Tokyo ask. Cardfolio lists the sealed box at $79 on November 21, 2026, so our box sits $1.13 below it, 1.43% below, and our case box sits $9.38 below it, 11.87% below. Twelve Cardfolio boxes would cost $948.00, so the case is $112.62 below them. The Tokyo numbers cut the other way: the Samurai Sword Tokyo box listing is 10,192 yen, which converts to $64.25 at 158.64 yen per dollar, so our box is $13.62 above it. The official price frames both: 5,400 yen converts to $34.04, so our box is 2.29 times official. The [is SV4K worth buying guide](/blog/is-sv4k-worth-buying/) runs the same verdict, and the [sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows the case division across sets."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards. The set code is SV4K, and the set runs 95 cards: 66 in the main set plus 29 secrets numbered 067 to 095: 12 Art Rares, 9 Secret Rares, 5 Special Art Rares and 3 Ultra Rares. The catalogs disagree on the count: Samurai Sword counts 94 cards with 2 Ultra Rares, but TCGPursuit, Cardfolio, OGCards and PK.TCG count 95, because the Basic Darkness Energy at 095/066 is a third Ultra Rare, and the one card with no TCGplayer market price. Match the number, not just the name: Roaring Moon ex prints four times, the Double Rare at 054/066 for $0.32, the Secret Rare at 084/066 for $3.40, the Special Art Rare at 090/066 for $39.42 and the Ultra Rare at 093/066 for $8.91, so the SAR is 11.59 times the Secret Rare and 123.19 times the Double Rare.",
+          "First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count makes the $69.62 per-box figure a division, not an assumption. Second, check the condition grade: the same collector number can carry a worn copy at a fraction of the clean price, so a low price can be wear, not a bargain. The [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) walks the same checks, and the [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: six ways to spend on SV4K. The single row is the only row that buys the card instead of the chance: the Roaring Moon SAR is 0.51 boxes, and the top ten together are 1.89 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase: opening for the Roaring Moon is buying a lottery ticket with a $77.87 face value, and the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: it saves $8.26 a box only if twelve boxes are wanted. The set-as-singles row buys the whole set outright at one of each: two boxes cost $155.74 against $206.89 for the set, $51.15 below it, and still leave the chase to chance, while three boxes cost $233.61, $26.72 above it. The market box row is a reference price, not a listing on this shelf. The wait row is the only route with a price of $0, and the only route that made money in the last four days: waiting from November 17 to November 21 saved $16.28 on the set."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV4K box",
+              "$77.87",
+              "$2.60",
+              "Opening Ancient Roar in Japanese",
+              "$77.87 for a chase that tops out at $39.42"
+            ],
+            [
+              "SV4K case (12)",
+              "$835.38",
+              "$69.62 a box",
+              "Holding or splitting twelve boxes",
+              "$835.38 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$39.42 Roaring Moon ex SAR",
+              "n/a",
+              "Owning the chase card",
+              "0.51 boxes for one card"
+            ],
+            [
+              "The set as singles",
+              "$206.89 one of each",
+              "n/a",
+              "Owning all 95 cards with nothing to chance",
+              "$206.89 in one purchase; no sealed product"
+            ],
+            [
+              "Cardfolio market box",
+              "$79",
+              "$2.63",
+              "The market box price",
+              "A guide estimate, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no trap, no case math",
+        "note": "From the Warehouse: the question we get most about SV4K is whether the box is still the way to the Roaring Moon, because every ranking list leads with the bubble Roaring Moon and never says what the box costs. It is not the way to the card. The SAR is 0.51 boxes, the top ten together are 1.89 boxes, and no box guarantees any secret rare, so the box is the way to open Ancient Roar and the single is the way to own the Roaring Moon. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $99.06 against twelve singles, and it divides to $69.62 a box.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and two of the three are stale. The first, Kaikan, ranks from October 21, 2026 PriceCharting values in euros, puts the Roaring Moon at about 64 euros, far above the $39.42 TCGplayer read, and ranks Secret Rare printings in its top ten, with Professor Sada's Vitality SR eighth and Mela SR ninth, while the November 21 read has neither in the top ten. The second, Japan Figure, prices from February 2026, puts Professor Sada's Vitality second at $20.50 while the November 21 read has it fifth at $11.85, and mislabels the Roaring Moon at 090/066 as a Double Rare: it is a Special Art Rare. The third, TCGPursuit, has the fresh November 21 prices, but it ranks cards only and carries no box, no case and no decision.",
+          "The gap this page owns starts with a fresh November 21 read, the top ten from one source with the top card cross-checked against two more. Second is the shelf: two live prices and the case divisions, $69.62 a box against $77.87 single. Third is the unpriced-energy trap: Basic Darkness Energy at 095/066 has no TCGplayer market price, so Cardfolio's $19 guide estimate would put it third and OGCards' $15.08 fourth, and any list that ranks it without saying so is ranking a guide estimate, not a market price. Fourth is the numbering trap: Roaring Moon ex prints four times and the name alone spans a 123-to-1 price range. One more trap sits in the search results: several price pages for Roaring Moon ex default to the English Paradox Rift printing at $26.60, and a reader who copies that figure into the Japanese list understates the SAR by $12.82."
+        ]
+      },
+      {
+        "h": "The chase ladder: three SARs, then a step, then a floor",
+        "note": "From the Warehouse: what we see in chat is buyers asking for the Roaring Moon without a number, and four prints at four prices is exactly how the wrong one gets bought. The SAR is $39.42, the Ultra Rare is $8.91, the Secret Rare is $3.40 and the Double Rare is $0.32, and a listing that says Roaring Moon ex without a number has said nothing about the price. The same goes for Golisopod ex: the SAR is $28.62, the Secret Rare is $1.46, and the gap between them is 19.60 times. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is three cards. Roaring Moon ex SAR is $39.42, 26.85% of the top ten and 19.05% of the set's singles value, Golisopod ex SAR is $28.62, 1.38 times less with a $10.80 gap, and Mela SAR is $18.95, so the three together are $86.99, 59.26% of the list. The fourth and fifth rungs are Morpeko AR at $13.88 and Professor Sada's Vitality SAR at $11.85, $25.73 together, 17.53% of the list, and with the top three they make the top five $112.72, 76.78%.",
+          "The sixth rung is the floor: Sandy Shocks ex SAR at $9.15, Roaring Moon ex UR at $8.91, Luxurious Cape UR at $5.41, Magby AR at $5.32 and Brute Bonnet AR at $5.29, $34.08 together, 23.22% of the list. The gap from number five to number six is $2.70 and from number four to number five is $2.03, so the floor is flat: five cards inside $3.86 of each other. Below the top ten, Garbodor AR at $4.63, Loudred AR at $4.00, Professor Sada's Vitality SR at $3.80 and Roaring Moon ex SR at $3.40 are the next four on the November 20, 2026 OGCards read, $15.83 together, and 66 of the 94 priced cards sit under $1."
+        ]
+      },
+      {
+        "h": "The risk layer: one card is a quarter of the list",
+        "paragraphs": [
+          "The first risk is the flat top: the Roaring Moon is $39.42, 26.85% of the top ten, so a badly opened box has one card to rescue it and nothing else above $28.62. The second risk is the drift: the complete set fell $16.28 in four days while the top three stood still, so the fall sits in the middle of the set, where 23 cards sit between $1 and $10.",
+          "The third risk is the single listing that proves nothing. A Tokyo box ask of 10,192 yen converts to $64.25, $13.62 below our shelf box, while the Cardfolio box guide is $79, $1.13 above it, and a last sold box on CardzMarketCap is $68.87, $9.00 below it, so confirm stock, shipping, and the exact product before paying. The fourth risk is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/). The fifth risk is the English trap: the English Roaring Moon at $26.60 is $12.82 cheaper than the Japanese SAR, so a buyer who assumes Japanese is always cheaper pays for the wrong assumption."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the Paradox Rift fold",
+        "paragraphs": [
+          "The English twin is a different product with a different chase. English Paradox Rift, released November 3, 2023, folds Ancient Roar together with its sister set Future Flash and part of Raging Surf into one 182-card main set, sold in boxes of 36 packs of 10 cards. Its top card is the same Roaring Moon artwork as a Special Illustration Rare numbered 251/182, at $26.60 on the November 22, 2026 CardLedger read, which is 67.48% of the Japanese SAR, $12.82 below it.",
+          "The trap is the search itself: a buyer who types Ancient Roar English box hunts a product that was never made, and the listings that answer are Paradox Rift boxes at Paradox Rift prices or Japanese boxes with English-language titles. The sister sets sit beside it on the same shelf: the [SV4M best cards guide](/blog/sv4m-best-cards/) ranks Future Flash, the [SV5M best cards guide](/blog/sv5m-best-cards/) ranks Cyber Judge, and the [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) prices the language choice across sets."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single. Second, English-tournament players: Japanese cards do not play in English events, and the SV4K cards carry the G mark, which left Standard play in the April 10, 2026 rotation. Third, buyers who want a guaranteed return: the complete set fell $16.28 in four days, and no page can tell you what SV4K will cost next month."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Roaring Moon ex SAR, buy the single at $39.42, which is 0.51 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits $10.80 above the Golisopod",
+          "If the job is the box, pay $77.87, or $2.60 a pack, and treat the chase as a bonus; the box is $1.13 below the $79 Cardfolio market box",
+          "If the job is a case, divide it first: the case saves $99.06 against twelve singles, $8.26 a box, and confirm the $69.62 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $206.89 at one of each: three boxes cost $233.61 and still leave the chase to chance",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Roaring Moon ex prints four times in this set",
+          "Check the number on any Roaring Moon ex before you pay: the SAR is $39.42, the Ultra Rare is $8.91, the Secret Rare is $3.40, and the Double Rare is $0.32",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV4K best-cards checklist",
+        "paragraphs": [
+          "Run this before the next SV4K box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, the [SV4K investment guide](/blog/sv4k-investment/) runs the same division over a longer hold, and a held case stores cool, dry, dark, and unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv4k-best-cards",
+    "takeaway": [
+      "The SV4K top ten, on the November 21, 2026 read, totals $146.80, with the Roaring Moon ex SAR cross-checked three ways at $39.42. The Roaring Moon is $39.42 of it, 26.85% of the list, and the top three SARs are $86.99, 59.26%, while the bottom five together are $34.08.",
+      "On our shelf as of November 22, 2026, the box is $77.87 and the case is $835.38. The case saves $99.06 against twelve singles, $8.26 a box, while the box sits $1.13 below the $79 Cardfolio market box.",
+      "It is worth buying as the Ancient Roar set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Roaring Moon alone is 0.51 boxes, and the complete set fell $16.28 in four days.",
+      "The ladder below the top three falls fast: ranks four and five together are $25.73, and the other 84 priced printings together are $60.09. Four facts the other lists get wrong are corrected on this page: Kaikan still prices from October 21 in euros, Japan Figure still prices from February 2026, there is no standalone English Ancient Roar box, and Samurai Sword counts 94 cards where the catalogs count 95.",
+      "Companion guide: the [is SV4K worth buying guide](/blog/is-sv4k-worth-buying/) runs the same verdict, and the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV4K investment guide](/blog/sv4k-investment/) runs the same division, where the case box sits $9.38 below the Cardfolio market box.",
+      "For the twin set in the same season, the [SV4M best cards guide](/blog/sv4m-best-cards/) prices Future Flash beside this one, and the [SV4M investment guide](/blog/sv4m-investment/) prices it over a longer hold.",
+      "For the next set in the series, the [SV5M best cards guide](/blog/sv5m-best-cards/) ranks Cyber Judge as a companion guide, and the [SV5K best cards guide](/blog/sv5k-best-cards/) ranks Wild Force beside this one."
     ]
   },
   "sv4k-investment": {
@@ -61769,6 +62012,243 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the falling chase in mind: the Roaring Moon is down 1.99 percent in ten days, from $40.22 on November 7 to $39.42 on November 17, 2026, and the box dropped $13.74 on November 13, 2026. Divide before you buy, every time.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of September 30 to November 17, 2026. The box sits $23.72 below the $101.59 market box and $8.92 above the $68.95 last sale, and the complete set at $223.17 is 2.87 boxes.",
       "For the price-and-math companion, the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) runs the November 7 prices side by side, and the [is SV4K worth buying guide](/blog/is-sv4k-worth-buying/) runs the same verdict after the fall. New this cycle: the [SV4M Future Flash investment guide](/blog/sv4m-investment/) prices the cheaper twin in the series, box $75.03 against a case that divides to $62.51 a box and saves $150.27."
+    ]
+  },
+  "sv4m-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "Altaria ex, the Special Art Rare numbered 90/066, at $63.10 on Sparkl's November 21, 2026 read of TCGplayer market prices, checked November 22, 2026. Bindarium's November 22, 2026 read agrees at CA$90.39, which converts to $63.10 at its stated rate of US$1 = CA$1.4325, and the November 17, 2026 TCGPursuit read had it at $63.11, so the number is corroborated three ways and flat, not rising. It is 36.89% of the top ten and 0.84 boxes at our $75.03 box price, so the top card alone costs less than one box.",
+        "q": "What is the most valuable SV4M card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $63.10, which is 0.84 boxes at our $75.03 box price, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. Community estimates put a Special Art Rare at about 1 box in 6, which is an estimate from box openings, not an official rate. The top ten together are $171.04, which is 2.28 boxes. Buy the single if the Altaria is the card you want, and buy the box only if you want to open Future Flash.",
+        "q": "Should I buy an SV4M box to pull the Altaria ex SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 95 cards, released October 27, 2023, in boxes of 30 packs of 5 cards. English Paradox Rift, released November 3, 2023, runs 266 cards because it combines Future Flash with its sister set Ancient Roar, and its top card is Groudon, not Altaria. The same Altaria artwork is the Special Illustration Rare numbered 253/182 in English, at $43.76 on the November 21, 2026 read, which is $19.34 below the Japanese SAR. Japanese cards are not legal at official English events, and the SV4M cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Paradox Rift?"
+      }
+    ],
+    "h1": "SV4M Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV4M Future Flash is Altaria ex, the Special Art Rare numbered 90/066, at $63.10 on Sparkl's November 21, 2026 read of TCGplayer market prices, checked November 22, 2026, and the ten best together are $171.04. On our shelf, as of November 22, 2026, the SV4M box is $75.03 and the sealed case of 12 boxes is $750.09. Buy the box to open Future Flash, buy the single for the Altaria.",
+      "Future Flash, set code SV4M, is 95 cards: 66 in the main set plus 29 secret rares numbered 67 to 95, released in Japan on October 27, 2023, in boxes of 30 packs of 5 cards at 180 yen a pack. Its English cards appeared in Paradox Rift on November 3, 2023, but there is no standalone English Future Flash set, and that split is where buyers lose money. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single."
+    ],
+    "metaDescription": "SV4M Future Flash best cards, Nov 21, 2026: Altaria ex SAR $63.10, top ten $171.04, box $75.03, case $750.09.",
+    "metaTitle": "SV4M Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Altaria, then a long fall",
+        "paragraphs": [
+          "Every value below is from Sparkl's read of TCGplayer market prices, dated November 21, 2026 and checked November 22, 2026. Bindarium's November 22 read agrees on all ten once its Canadian dollars convert at its stated rate of US$1 = CA$1.4325, and the ten together agree to the cent at $171.04. The ten are: Altaria ex SAR 90/066 at $63.10, Iron Valiant ex SAR 89/066 at $23.91, Maushold ex SR 84/066 at $18.39, Iron Hands ex SAR 88/066 at $13.20, Tulip SAR 92/066 at $13.16, Basic Metal Energy UR 95/066 at $9.88, Swablu AR 76/066 at $8.34, Steelix AR 74/066 at $7.51, Aipom AR 75/066 at $6.86 and Iron Valiant ex UR 93/066 at $6.69.",
+          "The list is one card, then a fall, then a flat floor. The Altaria alone is $63.10, 36.89% of the top ten and 26.79% of the whole set's singles value of $235.55 on the November 21, 2026 Sparkl read. The top three together are $105.40, 61.62% of the top ten, and the top five are $131.76, 77.03%. The bottom five together are $39.28, 22.97% of the list, and the bottom three are $21.06, 12.31%. One of every card in the set is $235.55, so the top ten are 72.61% of the set's singles value and the other 85 cards together are $64.51.",
+          "The Altaria was $63.11 on the November 17, 2026 TCGPursuit read, so it is down $0.01, 0.02%, in four days. The set was $237.05 on the November 17 read, so the November 21 figure of $235.55 is down $1.50, which is 0.63%. Cardfolio's guide estimate puts the Altaria at $44.99 as of November 21, 2026, $18.11 below the market read, 28.70% below it, and that estimate is not trusted here. PokeDeal Finder's sold listings have the Altaria at $49.99 on November 21, 2026, a sold price, not a market price, $13.11 below the market read."
+        ]
+      },
+      {
+        "h": "The money layer: the case is the cheapest box on the shelf",
+        "math": [
+          "SV4M box per pack: $75.03 / 30 packs = $2.50 per pack",
+          "SV4M box per card: $75.03 / 150 cards = $0.50 per card",
+          "SV4M case per box: $750.09 / 12 boxes = $62.51 per box",
+          "SV4M case per pack: $750.09 / 360 packs = $2.08 per pack",
+          "SV4M case per card: $750.09 / 1,800 cards = $0.42 per card",
+          "SV4M twelve singles: 12 x $75.03 = $900.36",
+          "SV4M case saving: $900.36 - $750.09 = $150.27 across the case",
+          "SV4M saving per box: $150.27 / 12 = $12.52 per box",
+          "SV4M saving share: $150.27 / $900.36 = 16.69% saved",
+          "SV4M official box: 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV4M official pack: 180 yen / 158.64 yen per dollar = $1.13",
+          "SV4M box vs official: $75.03 / $34.04 = 2.20 times official, from the rounded $34.04 figure; $75.03 - $34.04 = $40.99 above official",
+          "SV4M case box vs official: $62.51 / $34.04 = 1.84 times official",
+          "SV4M TCGplayer market box, Nov 21, 2026: $92.02",
+          "SV4M TCGplayer market box per pack: $92.02 / 30 packs = $3.07 per pack",
+          "SV4M shelf box vs TCGplayer: $92.02 - $75.03 = $16.99 below it; $16.99 / $92.02 = 18.46% below it",
+          "SV4M shelf box vs TCGplayer ratio: $75.03 / $92.02 = 0.82 times the TCGplayer box",
+          "SV4M case box vs TCGplayer market box: $92.02 - $62.51 = $29.51 below it; $29.51 / $92.02 = 32.07% below it",
+          "SV4M twelve TCGplayer boxes: 12 x $92.02 = $1,104.24; $1,104.24 - $750.09 = $354.15 below twelve market boxes",
+          "SV4M TCGplayer market pack, Nov 21, 2026: $3.77; shelf pack $2.50 is $1.27 below it",
+          "SV4M Cardfolio box guide, Nov 21, 2026: $79.06; $79.06 - $75.03 = $4.03 above the shelf box",
+          "SV4M Cardmarket box in dollars: 62.17 euros x $1.0990 per euro = $68.32, at Sparkl's stated rate",
+          "SV4M Cardmarket box vs TCGplayer box: $92.02 - $68.32 = $23.70",
+          "SV4M shelf box vs Cardmarket box: $75.03 - $68.32 = $6.71 above it",
+          "SV4M top 10 total: $63.10 + $23.91 + $18.39 + $13.20 + $13.16 + $9.88 + $8.34 + $7.51 + $6.86 + $6.69 = $171.04",
+          "SV4M top 3 total: $63.10 + $23.91 + $18.39 = $105.40; $105.40 / $171.04 = 61.62% of the top 10",
+          "SV4M top 5 total: $63.10 + $23.91 + $18.39 + $13.20 + $13.16 = $131.76; $131.76 / $171.04 = 77.03% of the top 10",
+          "SV4M top 2 total: $63.10 + $23.91 = $87.01; $87.01 / $171.04 = 50.87% of the top 10",
+          "SV4M ranks 4 and 5 total: $13.20 + $13.16 = $26.36; $26.36 / $171.04 = 15.41% of the top 10",
+          "SV4M ranks 6 to 10 total: $9.88 + $8.34 + $7.51 + $6.86 + $6.69 = $39.28; $39.28 / $171.04 = 22.97% of the top 10",
+          "SV4M bottom 5 total: $9.88 + $8.34 + $7.51 + $6.86 + $6.69 = $39.28; $39.28 / $171.04 = 22.97% of the top 10",
+          "SV4M bottom 3 total: $7.51 + $6.86 + $6.69 = $21.06; $21.06 / $171.04 = 12.31% of the top 10",
+          "SV4M Altaria share of top 10: $63.10 / $171.04 = 36.89% of the top 10",
+          "SV4M top 10 vs set value: $171.04 / $235.55 = 72.61% of the set value",
+          "SV4M Altaria share of set value: $63.10 / $235.55 = 26.79% of the set value",
+          "SV4M rest of set: $235.55 - $171.04 = $64.51 across the other 85 cards",
+          "SV4M Altaria against the box: $63.10 / $75.03 = 0.84 boxes",
+          "SV4M Altaria against the case box: $63.10 / $62.51 = 1.01 boxes",
+          "SV4M top 10 against the box: $171.04 / $75.03 = 2.28 boxes",
+          "SV4M top 10 against the case: $171.04 / $750.09 = 0.23 times the case",
+          "SV4M top 10 minus one box: $171.04 - $75.03 = $96.01",
+          "SV4M top 10 minus two boxes: $171.04 - $150.06 = $20.98",
+          "SV4M gap number one to number two: $63.10 - $23.91 = $39.19; $63.10 / $23.91 = 2.64 times number two",
+          "SV4M gap number two to number three: $23.91 - $18.39 = $5.52",
+          "SV4M gap number three to number four: $18.39 - $13.20 = $5.19",
+          "SV4M gap number four to number five: $13.20 - $13.16 = $0.04",
+          "SV4M gap number five to number six: $13.16 - $9.88 = $3.28",
+          "SV4M set value move Nov 17 to Nov 21: $235.55 - $237.05 = $1.50 down; $1.50 / $237.05 = 0.63% down",
+          "SV4M Altaria move Nov 17 to Nov 21: $63.10 - $63.11 = $0.01 down; $0.01 / $63.11 = 0.02% down",
+          "SV4M Maushold move Nov 17 to Nov 21: $18.39 - $18.35 = $0.04 up; $0.04 / $18.35 = 0.22% up",
+          "SV4M complete set vs boxes: $235.55 / $75.03 = 3.14 boxes",
+          "SV4M three boxes: 3 x $75.03 = $225.09; $235.55 - $225.09 = $10.46 below the set value",
+          "SV4M four boxes: 4 x $75.03 = $300.12; $300.12 - $235.55 = $64.57 above the set value",
+          "SV4M Altaria in yen: $63.10 x 158.64 yen per dollar = 10,010.18 yen",
+          "SV4M top 10 in yen: $171.04 x 158.64 yen per dollar = 27,133.79 yen",
+          "SV4M set value in yen: $235.55 x 158.64 yen per dollar = 37,367.65 yen",
+          "SV4M English Altaria gap: $63.10 - $43.76 = $19.34; $63.10 / $43.76 = 1.44 times the English SIR",
+          "SV4M Iron Valiant ex SAR vs UR: $23.91 / $6.69 = 3.57 times the Ultra Rare; $23.91 - $6.69 = $17.22",
+          "SV4M Cardfolio Altaria gap: $63.10 - $44.99 = $18.11; $18.11 / $63.10 = 28.70% below the market read",
+          "SV4M eBay sold Altaria gap: $63.10 - $49.99 = $13.11; $13.11 / $63.10 = 20.78% below the market read, a sold price against a market price",
+          "SV4M just outside the ten: $5.80 + $5.75 = $11.55 for Professor Turo's Scenario and Counter Catcher",
+          "SV4M set value 90-day move: $235.55 - $164.85 = $70.70; $70.70 / $164.85 = 42.89%",
+          "SV4M top 5 vs set value: $131.76 / $235.55 = 55.94% of the set value"
+        ],
+        "paragraphs": [
+          "The [SV4M Future Flash booster box](/product/sv4m-future-flash-booster-box-japanese-pokemon-card/) is $75.03 for 30 packs of 5 cards, $2.50 a pack and $0.50 a card. The [sealed case of 12 boxes](/product/sv4m-future-flash-sealed-case-12-boxes-japanese-pokemon-card/) is $750.09, $62.51 a box, $2.08 a pack and $0.42 a card, $150.27 less than twelve singles at $900.36, or $12.52 a box, 16.69% saved. Both prices are from the live shelf, read November 22, 2026, and the case listing prints the 12-box count in its title, so the $62.51 figure is a division, not an assumption.",
+          "Against the market, the shelf sits below the headline box. Sparkl lists the TCGplayer market box at $92.02 on November 21, 2026, so our box sits $16.99 below it, 18.46%, and our case box $29.51 below it, 32.07%. Twelve TCGplayer boxes would cost $1,104.24, so the case is $354.15 below them. The TCGplayer market pack is $3.77, so our pack at $2.50 is $1.27 below it. Cardfolio's box guide is $79.06, so our box is $4.03 below it, and the Cardmarket box converts to $68.32 at Sparkl's stated rate. The official price frames both: 5,400 yen converts to $34.04, so our box is 2.20 times official. The [is SV4M worth buying guide](/blog/is-sv4m-worth-buying/) runs the same verdict at these prices, and the [sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows how the case division works across sets."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards, and the box of 30 packs is 5,400 yen including tax, both from The Pokemon Company's official product listing; the set released October 27, 2023. The set code is SV4M, its Japanese name is 未来の一閃, Mirai no Issen, and the set runs 66 base cards plus 29 secrets numbered 67 to 95: 31 Commons, 21 Uncommons, 8 Rares, 6 Double Rares, 12 Art Rares, 9 Super Rares, 5 Special Art Rares and 3 Ultra Rares. Match the number, not just the name: Iron Valiant ex prints four times, and the Special Art Rare at 89/066 for $23.91 is 3.57 times the Ultra Rare at 93/066 for $6.69. Altaria ex prints three times, and Maushold ex prints twice, the Double Rare at 57/066 and the Super Rare at 84/066 for $18.39.",
+          "Confirm the case listing prints 12 boxes: this one does, in its title, so the $62.51 per-box figure is a division, not an assumption. Second, check the condition grade on any Japanese listing: a worn copy of the same number can cost a fraction of a clean one, so a low price can be wear, not a bargain. The cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so this is a collector set now, not a tournament set. The [SV4M Future Flash buyer's guide](/blog/sv4m-future-flash-buyers-guide/) walks the same checks for this set, and the [SV4K best cards guide](/blog/sv4k-best-cards/) ranks the sister set beside it."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: six ways to spend on SV4M. The single row is the only row that buys the card instead of the chance: the Altaria SAR is 0.84 boxes, and the top ten together are 2.28 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. Opening for the Altaria is buying a lottery ticket with a $75.03 face value; the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: it saves $12.52 a box only if twelve boxes are wanted. The set-as-singles row buys the whole set outright: three boxes cost $225.09, $10.46 below the $235.55 set, and still leave the chase to chance, while four boxes cost $300.12, $64.57 above it. The market box row is a reference price, not a listing on this shelf. The wait row is the only route with a price of $0, and the only route that made money in the last four days: waiting from November 17 to November 21 saved $1.50 on the set."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV4M box",
+              "$75.03",
+              "$2.50",
+              "Opening Future Flash in Japanese",
+              "$75.03 for a chase that tops out at $63.10"
+            ],
+            [
+              "SV4M case (12)",
+              "$750.09",
+              "$62.51 a box",
+              "Holding or splitting twelve boxes",
+              "$750.09 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$63.10 Altaria ex SAR",
+              "n/a",
+              "Owning the chase card",
+              "0.84 boxes for one card"
+            ],
+            [
+              "The set as singles",
+              "$235.55",
+              "n/a",
+              "Owning all 95 cards with nothing to chance",
+              "$235.55 in one purchase; no sealed product"
+            ],
+            [
+              "TCGplayer market box",
+              "$92.02",
+              "$3.07",
+              "The market box price",
+              "A market figure, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no trap, no case math",
+        "note": "From the Warehouse: the question we get most about SV4M is whether the box is still the way to the Altaria, because every ranking list leads with the Altaria and never says what the box costs. It is not the way to the card. The SAR is 0.84 boxes, the top ten together are 2.28 boxes, and no box guarantees any secret rare, so the box is the way to open Future Flash and the single is the way to own the Altaria. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $150.27 against twelve singles, and it divides to $62.51 a box.",
+        "paragraphs": [
+          "The first result, Sparkl, has the November 21 TCGplayer prices and the sealed box at $92.02, but it ranks by the lower of TCGplayer and Cardmarket, so it puts Tulip above Iron Hands, Maushold at number six, and Professor Turo's Scenario and Counter Catcher in its top ten while Swablu and Aipom sit outside it. The second, Bindarium, has the November 22 prices in Canadian dollars and the complete set at CA$337.43 at the cheapest print, but no box, no case and no decision. The third, Kaikan, is priced in euros from October 21, 2026 PriceCharting data, a month old, and its pull rates are community estimates, since The Pokemon Company publishes none.",
+          "The gap this page owns starts with a fresh November 21 read, the top ten ranked by TCGplayer dollars alone and cross-checked against a second read to the cent. Second is the shelf: two live prices and the case divisions, $62.51 a box against $75.03 single. Third is the ranking trap itself: the same cards change order and even membership when the measure changes, and a list that does not name its measure has said nothing about the ranking. Fourth is the Paradox Rift split: there is no standalone English Future Flash set, so a buyer searching for one is searching for a product that does not exist. Fifth is the numbering trap: Iron Valiant ex prints four times and Altaria ex prints three times, and the name alone spans a 3.57-to-1 price range for the Iron Valiant SAR against its Ultra Rare."
+        ]
+      },
+      {
+        "h": "The chase ladder: one Altaria, a flat middle, then the floor",
+        "note": "From the Warehouse: what we see in chat is buyers asking for 'the Altaria' without a number, and three prints at three prices is exactly how the wrong one gets bought. The SAR is $63.10, and a listing that says Altaria ex without a number has said nothing about the price. The same goes for Iron Valiant ex: the SAR is $23.91, the Ultra Rare is $6.69, and the Double Rare and Super Rare sit below both. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is one card. The Altaria ex Special Art Rare is $63.10, 36.89% of the top ten and 26.79% of the set's singles value, the Iron Valiant ex SAR is $23.91, 2.64 times less than the Altaria with a $39.19 gap, and the Maushold ex Super Rare is $18.39, so the three together are $105.40, 61.62% of the list. The gaps from two to three and three to four are $5.52 and $5.19, so the ladder is one card, a step, then a flat middle. The fourth and fifth rungs are Iron Hands ex SAR at $13.20 and Tulip SAR at $13.16, $26.36 together, 15.41% of the list, and with the top three they make the top five $131.76, 77.03%.",
+          "The sixth rung is the floor: Basic Metal Energy UR at $9.88, Swablu AR at $8.34, Steelix AR at $7.51, Aipom AR at $6.86 and Iron Valiant ex UR at $6.69, $39.28 together, 22.97% of the list. The gap from five to six is $3.28, so the floor starts close to the middle and stays flat: five cards inside $3.19 of each other. Just outside the ten, Professor Turo's Scenario SAR at $5.80 and Counter Catcher UR at $5.75 are $11.55 together, and 83 of the 95 cards in the set sit under $5."
+        ]
+      },
+      {
+        "h": "The risk layer: one card is a third of the list",
+        "paragraphs": [
+          "The first risk is the one-card top: the Altaria is $63.10, 36.89% of the top ten, so a badly opened box has one card to rescue it, and nothing else above $23.91. The second risk is the drift: the set fell $1.50 in four days while the Altaria fell $0.01, and the top ten are 72.61% of the set, so a move in the Altaria is a set move. The third risk is concentration: the top three are $105.40, 61.62% of the top ten, so a move in the top three is a list move.",
+          "The fourth risk is the 30-day slide in the floor: since October 31, Aipom is down 18%, Swablu down 13% and Iron Hands down 9%, while the Altaria is up 2% and the Iron Valiant SAR is down 2%. The fifth risk is the single listing that proves nothing: the Cardmarket box converts to $68.32 while the TCGplayer market box is $92.02, a $23.70 disagreement on the same box, with the Cardfolio guide of $79.06 between them. Confirm stock, shipping, and the exact product before paying. The sixth risk is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/). The seventh risk is the English trap: the English Altaria is $43.76, $19.34 below the Japanese SAR, so a buyer who assumes Japanese is always cheaper is wrong."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the Paradox Rift split",
+        "paragraphs": [
+          "The English twin is a different product with a different chase. English Paradox Rift, released November 3, 2023, runs 266 cards, 182 in the main set plus 84 secret rares, because it combines the two Japanese sets, 95 cards each, into one English set. Its top card is Groudon, the Illustration Rare numbered 199/182, at $85.02 on the November 15, 2026 read, ahead of Morpeko at $60.56, and the same Altaria artwork sits third as a Special Illustration Rare numbered 253/182, at $43.76 on the November 21, 2026 Moonstone read, $19.34 below the Japanese SAR and 1.44 times less. The English set as singles is $1,079 on the November 15, 2026 read, against $235.55 for the Japanese set.",
+          "The trap is the search itself: a buyer who types 'Future Flash English box' hunts a product that was never made, and the listings that answer are Paradox Rift boxes at Paradox Rift prices or Japanese boxes with English-language titles. The yen cross-check frames the shelf: the official box of 5,400 yen converts to $34.04, so our box is 2.20 times official. The sister set sits beside it on the same shelf: the [SV4K best cards guide](/blog/sv4k-best-cards/) ranks Ancient Roar, the [SV5M best cards guide](/blog/sv5m-best-cards/) ranks Cyber Judge, and the [SV4M investment guide](/blog/sv4m-investment/) prices the longer hold."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single. Second, English-tournament players: Japanese cards do not play in English events, and the SV4M cards carry the G mark, which left Standard play in the April 10, 2026 rotation. Third, buyers who want a guaranteed return: the set fell $1.50 in four days, the floor fell up to 18% in thirty days, and no page can tell you what SV4M will cost next month. Nor for anyone building the complete set by opening boxes: four boxes cost $300.12 against $235.55 for the set."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Altaria ex SAR, buy the single at $63.10, which is 0.84 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits $39.19 above the Iron Valiant",
+          "If the job is the box, pay $75.03, or $2.50 a pack, and treat the chase as a bonus; the box is $16.99 below the $92.02 TCGplayer market box",
+          "If the job is a case, divide it first: the case saves $150.27 against twelve singles, $12.52 a box, and confirm the $62.51 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $235.55: four boxes cost $300.12 and still leave the chase to chance",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Iron Valiant ex prints four times in this set",
+          "Check the number on any Altaria ex before you pay: the SAR is $63.10, and the Double Rare sold at $0.41 on November 21, 2026 eBay listings",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV4M best-cards checklist",
+        "paragraphs": [
+          "Run this before the next SV4M box you consider; it takes ten minutes. The [SV4M investment guide](/blog/sv4m-investment/) runs the same division over a longer hold, and a held case stores cool, dry, dark, and unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv4m-best-cards",
+    "takeaway": [
+      "The SV4M top ten, on the November 21, 2026 read, totals $171.04, with the Altaria ex SAR cross-checked three ways at $63.10. The Altaria is $63.10 of it, 36.89% of the list, and the top three are $105.40, 61.62%, while the bottom five together are $39.28.",
+      "On our shelf as of November 22, 2026, the box is $75.03 and the case is $750.09. The case saves $150.27 against twelve singles, $12.52 a box, while the box sits $16.99 below the $92.02 TCGplayer market box.",
+      "It is worth buying as the Future Flash set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Altaria alone is 0.84 boxes, and the set fell $1.50 in four days.",
+      "The ladder below the Altaria falls fast: ranks two and three together are $42.30, and the other 85 cards together are $64.51. Four facts the other lists get wrong are corrected on this page: Sparkl ranks by the lower of two markets, Kaikan prices from October 21, there is no standalone English Future Flash box, and Iron Valiant ex prints four times.",
+      "Companion guide: the [is SV4M worth buying guide](/blog/is-sv4m-worth-buying/) runs the same verdict, and the [SV4M Future Flash buyer's guide](/blog/sv4m-future-flash-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV4M investment guide](/blog/sv4m-investment/) runs the same division, where the case box sits $29.51 below the TCGplayer market box.",
+      "For the twin set in the same season, the [SV4K best cards guide](/blog/sv4k-best-cards/) ranks Ancient Roar beside this one, and the [SV4K investment guide](/blog/sv4k-investment/) prices it beside it.",
+      "For the next set in the series, the [SV5M best cards guide](/blog/sv5m-best-cards/) ranks Cyber Judge as a companion guide, and the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) walks its checks."
     ]
   },
   "sv4m-future-flash-buyers-guide": {
@@ -62014,8 +62494,9 @@ export const POSTS: Record<string, BlogPost> = {
       "The chase is split: Iron Valiant ex SAR is $24.45, or 28 percent of a box, and Altaria ex SAR was last listed near $49.99 in March 2026. The top two SARs together cost $74.44, less than one box.",
       "Future Flash is the cheaper twin: its box is $3.34 less than Ancient Roar, its case is $100.34 less, and its case saves $60.26 more. Buy Future Flash for sealed value, Ancient Roar for Roaring Moon.",
       "The set is 95 cards, released October 27, 2023, with no reprint announced and no complete-set cost published. Buy sealed from a named shop, check the tear strip, and film the opening.",
-      "New this cycle: the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the next Future set at $88.27 a box, the same box price as Future Flash, with a case that saves $206.53 against twelve singles.",
-      "New this cycle: the [is SV4M Future Flash worth buying guide](/blog/is-sv4m-worth-buying/) runs the verdict at the November 14 prices, box $75.03 and case $62.51 a box, with the Altaria repriced at $63.75: the top two cards now cost more than a box."
+      "Companion guide: the [SV5M Cyber Judge buyer's guide](/blog/sv5m-cyber-judge-buyers-guide/) prices the next Future set at $88.27 a box, the same box price as Future Flash, with a case that saves $206.53 against twelve singles.",
+      "Companion guide: the [is SV4M Future Flash worth buying guide](/blog/is-sv4m-worth-buying/) runs the verdict at the November 14 prices, box $75.03 and case $62.51 a box, with the Altaria repriced at $63.75: the top two cards now cost more than a box.",
+      "Companion guide: the [SV4M best cards guide](/blog/sv4m-best-cards/) ranks the ten most valuable cards, Altaria ex SAR $63.10 at the top, on the November 21, 2026 read."
     ]
   },
   "sv4m-investment": {
