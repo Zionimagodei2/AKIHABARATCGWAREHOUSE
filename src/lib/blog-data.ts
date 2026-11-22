@@ -35065,7 +35065,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Battle Partners set to open, sealed, and it is not worth buying as a way to own the Lillie’s Clefairy ex Special Art Rare or to make the money back by opening. Clefairy ex sat at $126.70 on TCGplayer on November 13, 2026, which is 175.43 percent of a box, and the top three cards together sat at $205.06, which is 2.84 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $12.75 in seven days, from $84.97 to $72.22, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $952.33 to $809.48, which did not change the verdict, because the case saved money before the fall and saves $57.16 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 15, 2026, and the marketplace references as of September 23 to November 14, 2026. The box now sits $10.23 above the lowest SNKRDUNK ask of $61.99, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV9 Battle Partners buyer’s guide](/blog/sv9-battle-partners-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV9a Heat Wave Arena worth buying guide](/blog/is-sv9a-worth-buying/) runs the same verdict on the next set in the run, where the chase costs 155.26 percent of a box and the case saves $302.16.",
-      "For the investment verdict on the same shelf prices, the [SV9 Battle Partners investment guide](/blog/sv9-investment/) runs the case against the box as a hold, the Clefairy single against the box, and the 15 percent repricing, with the box $6.16 above the sold-first market and the case $1.40 above it."
+      "For the investment verdict on the same shelf prices, the [SV9 Battle Partners investment guide](/blog/sv9-investment/) runs the case against the box as a hold, the Clefairy single against the box, and the 15 percent repricing, with the box $6.16 above the sold-first market and the case $1.40 above it.",
+      "Companion guide: the [SV9 best cards guide](/blog/sv9-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 20, 2026, with the Lillie's Clefairy ex SAR at $126.70, 40.37% of the $313.81 top ten, against the $72.22 box."
     ]
   },
   "is-sv9a-worth-buying": {
@@ -35271,7 +35272,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the box dropped $24.50 in nine days, from $163.32 to $138.82, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,604.33 to $1,363.68, which did not change the verdict, because the case saved money before the fall and saves $302.16 after it. It is worth buying with the rotation in mind: the cards carry the H regulation mark, which is still Standard-legal in 2026, so the box is a play purchase too.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 15, 2026, and the marketplace references as of October 7 to November 13, 2026. The box now sits $8.18 below the Dexhaul observed floor of $147.00, which is the fact that outlives every price on this page: divide before you buy, every time. For the price-and-math companion, the [SV9a Heat Wave Arena buyer’s guide](/blog/sv9a-heat-wave-arena-buyers-guide/) runs the November 6 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV9 Battle Partners worth buying guide](/blog/is-sv9-worth-buying/) runs the same verdict on the cheaper twin, where the chase costs 175.43 percent of a box and the case saves $57.16.",
       "For the other half of Destined Rivals at today's prices, the [is SV10 worth buying guide](/blog/is-sv10-worth-buying/) runs the November 15 box at $181.04 and the case at $1,548.19 against the Mewtwo ex SAR at $362.00.",
-      "New this cycle: the [SV9a Heat Wave Arena investment guide](/blog/sv9a-investment/) runs the full division on the $138.82 box and the $1,363.68 case, and prices the case against twelve CardZ market boxes."
+      "Companion guide: the [SV9a Heat Wave Arena investment guide](/blog/sv9a-investment/) runs the full division on the $138.82 box and the $1,363.68 case, and prices the case against twelve CardZ market boxes.",
+      "Companion guide: the [SV9a best cards guide](/blog/sv9a-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 20, 2026, with the Garchomp ex SAR at $214.64, 40.93% of the $524.46 top ten, against the $138.82 box."
     ]
   },
   "japanese-booster-box-price": {
@@ -66134,9 +66136,239 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV9 box at $84.97 is the cheapest 30-pack box with a named chase on our shelf at $2.83 a pack, but $0.57 a card, for 150 cards from a 132-card set. The case at $952.33 is the way to buy it sealed, at $79.36 a box and $2.65 a pack, saving $67.31 against twelve singles. The set is 132 cards, released January 24, 2025, and the chase is the Lillie's Clefairy ex SAR, which carried a $126.70 TCGplayer market price on November 8, 2026, down 39.29% from March.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 23 and October 7, 2026, and November 7-8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $62.66, so our box costs $22.31 more, and the case-split box costs $16.70 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Heat Wave Arena guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the set that came two months after SV9 the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the Charizard set that costs $67.32 more per box than SV9, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own.",
-      "New this cycle: the [Is SV9 Battle Partners Worth Buying? guide](/blog/is-sv9-worth-buying/) runs the verdict on the same shelf prices, box $72.22 after a fifteen percent fall, case saves $57.16, with the Clefairy ex SAR at $126.70 on its own.",
-      "New this cycle: the [SV9 Battle Partners investment guide](/blog/sv9-investment/) prices the set as an investment, case $809.48 against box $72.22, with the Clefairy SAR at $126.70, down 27.60 percent since March."
+      "Companion guide: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the Charizard set that costs $67.32 more per box than SV9, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own.",
+      "Companion guide: the [Is SV9 Battle Partners Worth Buying? guide](/blog/is-sv9-worth-buying/) runs the verdict on the same shelf prices, box $72.22 after a fifteen percent fall, case saves $57.16, with the Clefairy ex SAR at $126.70 on its own.",
+      "Companion guide: the [SV9 Battle Partners investment guide](/blog/sv9-investment/) prices the set as an investment, case $809.48 against box $72.22, with the Clefairy SAR at $126.70, down 27.60 percent since March.",
+      "Companion guide: the [SV9 best cards guide](/blog/sv9-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 20, 2026, with the Clefairy ex SAR at $126.70 and the top ten at $313.81 against the $72.22 box and $809.48 case."
+    ]
+  },
+  "sv9-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "Lillie's Clefairy ex, the Special Art Rare numbered 126/100, at $126.70 on TCGplayer market, prices as of November 20, 2026, read November 22, 2026, from TCGPursuit's daily snapshot of the Japanese set. Sparkl's November 20 read agrees at $126.70, and Arca TCG's refreshed November 22 read agrees at $126.70. It is 1.75 boxes at our $72.22 box price and 33.22% of the set's $381.34 value.",
+        "q": "What is the most valuable SV9 card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $126.70, which is 1.75 boxes at $72.22, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $313.81, which is 4.35 boxes, and the top five alone are $258.04. Buy the single if the Clefairy is the card you want, and buy the box only if you want to open Battle Partners.",
+        "q": "Should I buy an SV9 box to pull the Clefairy SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 132 cards, released January 24, 2025, in boxes of 30 packs of 5 cards. English Journey Together, released March 28, 2025, runs 190 cards, 159 in the main set plus 31 secret rares, and its chase is the Lillie's Clefairy ex Special Illustration Rare 184/159, which was $76.87 on November 21, 2026. Japanese cards are generally not legal at official events outside Asia, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Journey Together?"
+      }
+    ],
+    "h1": "SV9 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV9 Battle Partners is Lillie's Clefairy ex, the Special Art Rare numbered 126/100, at $126.70 (TCGplayer market, prices as of November 20, 2026, read November 22), and the ten best cards together are $313.81. The Clefairy alone is 40.37% of the list. On our shelf, November 22, 2026, the [SV9 box](/product/sv9-battle-partners-booster-box-japanese-pokemon-card/) is $72.22 and the [SV9 sealed case](/product/sv9-battle-partners-sealed-case-12-boxes-japanese-pokemon-card/) is $809.48. Buy the box to open Battle Partners, buy the single for the Clefairy.",
+      "Battle Partners, set code SV9, is 132 cards: 100 regular cards plus 32 secret rares, 12 Art Rares, 11 Super Rares, 6 Special Art Rares and 3 Ultra Rares. It released in Japan on January 24, 2025, in boxes of 30 packs of 5 cards at 180 yen a pack, and its English twin, Journey Together, followed on March 28, 2025. Who this is for: collectors ranking the Japanese chase and buyers choosing a format."
+    ],
+    "metaDescription": "SV9 Battle Partners best cards, TCGplayer market Nov 20, 2026: Clefairy ex SAR $126.70, Zoroark $41.23, top ten $313.81, box $72.22.",
+    "metaTitle": "SV9 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Clefairy is 40.37% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price from TCGPursuit's snapshot of the Japanese set, prices as of November 20, 2026, read November 22, 2026. Sparkl's November 20 read agrees on all ten values and on the $313.81 total, and Arca TCG's refreshed November 22 read also prints $126.70. The ten add to $313.81: Clefairy ex SAR $126.70, N's Zoroark ex SAR $41.23, Iono's Bellibolt ex SAR $36.90, Salamence ex SAR $31.53, Hop's Zacian ex SAR $21.68, N's Zoroark ex Ultra Rare $12.73, Iono's Bellibolt ex Ultra Rare $12.65, Volcanion ex SAR $11.05, N's Reshiram Art Rare $11.01 and Lillie's Clefairy ex Super Rare $8.33.",
+          "The split is the story, and it is steeper than it looks at first glance. The top two are $167.93, 53.51% of the top ten, and the top three are $204.83, 65.27% of it. The top five are $258.04, 82.23%, and the bottom five together are $55.77, 17.77%. One of every card in the set, at TCGPursuit's November 20 read, is $381.34, so the top ten are 82.29% of the whole set's singles value, and the Clefairy alone is 33.22% of it. Six of the ten are Special Art Rares, and together they are $269.09, 85.75% of the list."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, Deck Build Box, and the $57.16 gap",
+        "math": [
+          "SV9 box per pack: $72.22 / 30 packs = $2.41 per pack",
+          "SV9 box per card: $72.22 / 150 cards = $0.48 per card",
+          "SV9 case per box: $809.48 / 12 boxes = $67.46 per box",
+          "SV9 case per pack: $809.48 / 360 packs = $2.25 per pack",
+          "SV9 case per card: $809.48 / 1,800 cards = $0.45 per card",
+          "SV9 twelve singles: 12 x $72.22 = $866.64",
+          "SV9 case saving: $866.64 - $809.48 = $57.16 across the case",
+          "SV9 saving per box: $57.16 / 12 = $4.76 per box",
+          "SV9 saving share: $57.16 / $866.64 = 6.60% saved",
+          "SV9 box fall Nov 8 to Nov 16: $84.97 - $72.22 = $12.75; $12.75 / $84.97 = 15.01%",
+          "SV9 case fall Nov 8 to Nov 16: $952.33 - $809.48 = $142.85; $142.85 / $952.33 = 15.00%",
+          "SV9 official box: 5,400 yen / 158.55 yen per dollar = $34.06",
+          "SV9 official pack: 180 yen / 158.55 yen per dollar = $1.14",
+          "SV9 box vs official: $72.22 / $34.06 = 2.12 times official; $72.22 - $34.06 = $38.16 above official",
+          "SV9 Deck Build Box official: 4,200 yen / 158.55 yen per dollar = $26.49; $26.53 - $26.49 = $0.04 above official",
+          "SV9 Deck Build Box per pack: $26.53 / 10 packs = $2.65 per pack",
+          "SV9 Deck Build Box per card: $26.53 / 221 cards = $0.12 per card",
+          "SV9 box vs sold-first market box: $72.22 - $66.06 = $6.16 above market; $6.16 / $66.06 = 9.32% above market",
+          "SV9 sold-first market box per pack: $66.06 / 30 packs = $2.20 per pack",
+          "SV9 case box vs market: $67.46 - $66.06 = $1.40 above market per box",
+          "SV9 twelve market boxes: 12 x $66.06 = $792.72; $809.48 - $792.72 = $16.76 above twelve market boxes",
+          "SV9 top 10 total: $126.70 + $41.23 + $36.90 + $31.53 + $21.68 + $12.73 + $12.65 + $11.05 + $11.01 + $8.33 = $313.81",
+          "SV9 top 5 total: $126.70 + $41.23 + $36.90 + $31.53 + $21.68 = $258.04; $258.04 / $313.81 = 82.23% of the top 10",
+          "SV9 top 4 total: $126.70 + $41.23 + $36.90 + $31.53 = $236.36; $236.36 / $313.81 = 75.32% of the top 10",
+          "SV9 top 3 total: $126.70 + $41.23 + $36.90 = $204.83; $204.83 / $313.81 = 65.27% of the top 10",
+          "SV9 top 2 total: $126.70 + $41.23 = $167.93; $167.93 / $313.81 = 53.51% of the top 10",
+          "SV9 top card share: $126.70 / $313.81 = 40.37% of the top 10",
+          "SV9 bottom 5 total: $12.73 + $12.65 + $11.05 + $11.01 + $8.33 = $55.77; $55.77 / $313.81 = 17.77% of the top 10",
+          "SV9 six SARs total: $126.70 + $41.23 + $36.90 + $31.53 + $21.68 + $11.05 = $269.09; $269.09 / $313.81 = 85.75% of the top 10",
+          "SV9 second rung total: $41.23 + $36.90 + $31.53 = $109.66",
+          "SV9 twelve-dollar tier total: $12.73 + $12.65 = $25.38",
+          "SV9 top 10 vs set value: $313.81 / $381.34 = 82.29% of the set value",
+          "SV9 top card vs set value: $126.70 / $381.34 = 33.22% of the set value",
+          "SV9 top 5 vs set value: $258.04 / $381.34 = 67.67% of the set value",
+          "SV9 set value without the Clefairy: $381.34 - $126.70 = $254.64",
+          "SV9 Clefairy against the box: $126.70 / $72.22 = 1.75 boxes",
+          "SV9 top 10 against the box: $313.81 / $72.22 = 4.35 boxes",
+          "SV9 case against the top 10: $809.48 / $313.81 = 2.58 times the top 10",
+          "SV9 complete set against the box: $381.34 / $72.22 = 5.28 boxes",
+          "SV9 two boxes: 2 x $72.22 = $144.44; $381.34 - $144.44 = $236.90 to the full set",
+          "SV9 five boxes: 5 x $72.22 = $361.10; $381.34 - $361.10 = $20.24 to the full set",
+          "SV9 top 5 minus two boxes: $258.04 - $144.44 = $113.60",
+          "SV9 Clefairy gap to number two: $126.70 - $41.23 = $85.47; $126.70 / $41.23 = 3.07 times number two",
+          "SV9 Clefairy against its Super Rare print: $126.70 - $8.33 = $118.37; $126.70 / $8.33 = 15.21 times the SR",
+          "SV9 three Clefairy prints total: $126.70 + $8.33 + $0.53 = $135.56; $135.56 / $313.81 = 43.20% of the top 10",
+          "SV9 Clefairy fall since March: 28,000 yen / 158.55 yen per dollar = $176.60; $126.70 - $176.60 = -$49.90; -$49.90 / $176.60 = -28.26% since the March 2026 ask",
+          "SV9 Clefairy yen fall March to September: 28,000 yen - 17,000 yen = 11,000 yen; 11,000 yen / 28,000 yen = 39.29%",
+          "SV9 English Clefairy gap: $126.70 - $76.87 = $49.83; $76.87 / $126.70 = 60.67% of the Japanese SAR",
+          "SV9 Zoroark misprint gap: $965.52 / $12.73 = 75.85 times the standard UR; $965.52 - $12.73 = $952.79",
+          "SV9 top 5, Nov 13 to Nov 20: $258.77 - $258.04 = $0.73; $0.73 / $258.77 = 0.28% down in seven days",
+          "SV9 set value, Nov 13 to Nov 20: $381.89 - $381.34 = $0.55; $0.55 / $381.89 = 0.14% down",
+          "SV9 japan-figure Clefairy: $145.99 - $126.70 = $19.29; $19.29 / $126.70 = 15.22% above the market read",
+          "SV9 lowest Japan box ask: 9,900 yen / 158.55 yen per dollar = $62.44; $72.22 - $62.44 = $9.78 above the ask; $67.46 - $62.44 = $5.02 above the ask for the case-split box",
+          "SV9 Samurai Sword box: 10,978 yen / 158.55 yen per dollar = $69.24; $72.22 - $69.24 = $2.98 above it",
+          "SV9 SV10 box ratio: $181.04 / $72.22 = 2.51 times the SV9 box; $138.82 / $72.22 = 1.92 times for SV9a",
+          "SV9 Mewtwo vs Clefairy: $362.00 / $126.70 = 2.86 times"
+        ],
+        "paragraphs": [
+          "The box is $72.22 for 30 packs of 5 cards, $2.41 a pack and $0.48 a card. The case is $809.48 for a printed 12 boxes, $67.46 a box, $2.25 a pack and $0.45 a card, which is $57.16 less than twelve singles at $866.64: $4.76 a box for buying the carton, 6.60% saved. The box fell $12.75, 15.01%, and the case fell $142.85, 15.00%, between November 8 and November 16, 2026, and both are unchanged since November 13. The [Deck Build Box](/product/sv9-deck-build-box-battle-partners-japanese-pokemon-card/) is $26.53: 10 packs and 171 fixed cards, which is $2.65 a pack counting the packs alone and $0.12 a card across all 221 cards.",
+          "Against the market, the shelf splits the same way our [SV9 investment guide](/blog/sv9-investment/) priced it on November 16. The sold-first market box is $66.06, so our box at $72.22 sits $6.16 above it, 9.32% above market. The case divides to $67.46 a box, $1.40 above that same market box, and $16.76 above twelve market boxes at $792.72. The official price frames both: a box is 30 packs at 180 yen, 5,400 yen, which converts to $34.06 at 158.55 yen per dollar, so our box is 2.12 times the official price, $38.16 above it, while the Deck Build Box at $26.53 sits $0.04 above its official 4,200 yen price of $26.49."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The official set page lists the pack at 180 yen including tax for 5 cards, randomly inserted, released January 24, 2025. The set code is SV9, printed on each card next to the number, and the set runs 100 base cards plus 32 secrets numbered 101 to 132: 12 Art Rares, 11 Super Rares, 6 Special Art Rares and 3 Ultra Rares. The six SARs are Volcanion ex 124/100, Iono's Bellibolt ex 125/100, Lillie's Clefairy ex 126/100, N's Zoroark ex 127/100, Hop's Zacian ex 128/100 and Salamence ex 129/100. The headline card prints three times: the Double Rare at 033/100, about $0.53, the Super Rare at 115/100 at $8.33 and the Special Art Rare at 126/100 at $126.70. Match the number, not just the name. Zoroark ex does the same at 127/100 and 131/100, and Bellibolt ex at 125/100 and 130/100.",
+          "Two checks belong before payment, and both are free. First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count is what makes the $67.46 per-box figure a division, not an assumption. Second, check the condition grade on any Japanese listing: the same collector number can carry a worn copy at a fraction of the clean price, so a low number under the same number can be wear, not a bargain. The cards carry the H regulation mark, which is still Standard-legal in the 2026 format after the April 10, 2026 rotation removed the G mark, so the box is a play purchase too."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, Deck Build Box, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: six ways to spend on SV9, what each costs per pack, what it is for, and where it fails. The single row is the only row that buys the card instead of the chance: the Clefairy SAR is 1.75 boxes, and the top ten together are 4.35 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase, and the god pack is a rare replacement pack, not a rate. A buyer who opens for the Clefairy is buying a lottery ticket with a $72.22 face value, and the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: the case saves $4.76 a box only if twelve boxes are wanted. The Deck Build Box row is the only row that buys fixed cards. The market box row is a reference price, not a listing on this shelf: our box is $6.16 above it, and our case box is $1.40 above it. The wait row is the only route with a price of $0, and it is the only route that made money in the last week: a buyer who waited from November 8 to November 16 saved $12.75 on the box and $142.85 on the case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV9 box",
+              "$72.22",
+              "$2.41",
+              "Opening Battle Partners in Japanese",
+              "$6.16 above the sold-first market box; chase not guaranteed"
+            ],
+            [
+              "SV9 case (12)",
+              "$809.48",
+              "$67.46 a box",
+              "Holding or splitting twelve boxes",
+              "$809.48 in one purchase; confirm at checkout"
+            ],
+            [
+              "SV9 Deck Build Box",
+              "$26.53",
+              "$2.65 a pack",
+              "Fixed cards plus 10 packs",
+              "Not a booster box; packs cost more each"
+            ],
+            [
+              "The single",
+              "$126.70 Clefairy SAR",
+              "n/a",
+              "Owning the chase card",
+              "1.75 boxes for one card"
+            ],
+            [
+              "Sold-first market box",
+              "$66.06",
+              "$2.20",
+              "The market price for one box",
+              "A market figure, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: January prices and no shelf",
+        "note": "From the Warehouse: the question we get most about SV9 is whether the box is still the way to the Clefairy, because every ranking list leads with the $126.70 card and never says what the box costs. It is not the way to the card. The card is 1.75 boxes, the top ten together are 4.35 boxes, and no box guarantees any secret rare, so the box is the way to open Battle Partners and the single is the way to own the Clefairy. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $57.16 against twelve singles, and we checked the division twice because the direction surprised us too.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and two of them rank them at prices months out of date. Dot Esports published its list in January 2026 and never repriced it: it prints the Bellibolt ex SAR at $200 to $400 against $36.90 today, the Zoroark ex SAR at $100 to $200 against $41.23, and its bottom two are not in today's top ten at all. Japan-figure leads with the $965.52 misprint and prints the Clefairy at $145.99, $19.29 above today's $126.70, 15.22% above it. Sparkl carries the list this page uses, updated November 20, but no shelf, no case division, and no warning about the three Clefairy prints.",
+          "The gap this page owns starts with the Japanese top ten, every read dated November 20, with the Clefairy cross-checked three ways and the disagreements named, not hidden. Second is the shelf: three live prices, the repricing, and the case divisions, none of which any ranking list carries. Third is the yen cross-check, which runs both ways: the official box converts to $34.06 while our box asks $72.22, and the lowest Japan ask for a sealed box converts to $62.44 while our box asks $72.22. A ranking list tells you which card is dearest; this page also tells you what the box costs."
+        ]
+      },
+      {
+        "h": "The chase ladder: six SARs, one Clefairy",
+        "note": "From the Warehouse: what we see in chat is buyers asking for 'the Clefairy' without a number, and three prints at three prices is exactly how the wrong one gets bought. The SAR is $126.70, the SR is $8.33 and the Double Rare is about $0.53, and a listing that says Clefairy ex without a number has said nothing about the price. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is one card, once. The Clefairy ex Special Art Rare is $126.70, 40.37% of the top ten and 33.22% of the whole set's singles value, and it has not moved in ten days: the November 12 read in our [SV9 investment guide](/blog/sv9-investment/) also printed $126.70, and the top five fell only $0.73 in seven days, 0.28%. The second rung is the three other SARs under $42, $109.66 together, and with the Clefairy they make the top four $236.36, 75.32% of the list. The third rung is the Zacian ex SAR at $21.68, the last SAR above $20.",
+          "The fourth rung is the $12 tier that closes the list: the Zoroark ex UR at $12.73 and the Bellibolt ex UR at $12.65, $25.38 together, then the Volcanion ex SAR at $11.05, the N's Reshiram Art Rare at $11.01 and the Clefairy ex SR at $8.33. The three Clefairy prints together are $135.56, 43.20% of the top ten: one Pokemon is more than two-fifths of the chase. The six Special Art Rares together are $269.09, 85.75% of the list. Below them the set is nearly free: 120 of the 132 cards are under $5."
+        ]
+      },
+      {
+        "h": "The risk layer: the card that fell 28.26%, and the box above the market",
+        "paragraphs": [
+          "The first risk is the Clefairy's own fall, which is already on the record. The SAR asked 28,000 yen in March 2026, which converts to $176.60 at 158.55 yen per dollar, and sits at $126.70 on November 20, a fall of $49.90, 28.26% since March. In yen it fell further, to a 17,000 yen lowest ask on September 23, 2026, down 39.29% in six months. The graded version does not rescue the raw price: a PSA 10 copy was $232 as of November 13, 2026, down 22.25% over six months, with 23,104 PSA 10 copies in existence. A population that large is not scarcity.",
+          "The second risk is the box itself: $72.22 is $6.16 above the $66.06 sold-first market box, 9.32% above market, so a buyer who opens and resells starts $6.16 behind the market. The third risk is the reprint risk: The Pokemon Company does not publish print runs, and a reprint would compress the premium on every sealed format at once. The fourth risk is the error print: a first-print N's Zoroark ex Ultra Rare carries a misprint that trades from about $965.52, while the standard UR is $12.73, a gap of 75.85 times and $952.79. A buyer who pays misprint money for a standard card has overpaid by $952.79, and the recovery is the card number: check it before you pay. The fifth risk is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/)."
+        ]
+      },
+      {
+        "h": "Context: the yen cross-check and the English twin",
+        "paragraphs": [
+          "The Tokyo numbers cut both ways. The lowest SNKRDUNK ask for a sealed box was 9,900 yen on September 23, 2026, which converts to $62.44 at 158.55 yen per dollar, so our box at $72.22 is $9.78 above it and our case-split box at $67.46 is $5.02 above it. Samurai Sword listed their sealed box at 10,978 yen on October 7, 2026, which converts to $69.24, so our box is $2.98 above that listing. The official price is the floor: 5,400 yen converts to $34.06, so our box is 2.12 times official, while the Deck Build Box at $26.53 is $0.04 above its official 4,200 yen price.",
+          "The English twin is a different product with a different chase. English Journey Together, released March 28, 2025, runs 190 cards, 159 in the main set plus 31 secret rares, and its top card is the Lillie's Clefairy ex Special Illustration Rare 184/159, at $76.87 on November 21, 2026, which is $49.83 cheaper than the Japanese SAR at $126.70, or 60.67% of it. This is the rare set where the Japanese chase costs more than the English one. The other half of the English merge, [SV9a Heat Wave Arena](/blog/sv9a-heat-wave-arena-buyers-guide/), sits at $138.82 a box on the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/). The neighbor math says SV9 is the cheap seat: the [SV10 box](/blog/sv10-investment/) at $181.04 is 2.51 times the SV9 box, and SV9a at $138.82 is 1.92 times it, because the SV10 chase card is $362.00 against Clefairy's $126.70, or 2.86 times."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single. Second, English-tournament players: Japanese cards do not play in English events, and no per-pack saving changes that. Third, buyers who want a guaranteed return: the Clefairy has already fallen 28.26% since March, the box sits 9.32% above the sold-first market box, and no honest page can tell you what SV9 will cost next month. It is also not for anyone building the complete set by opening boxes: no box guarantees a Special Art Rare. Opening five boxes costs $361.10 and still leaves the chase to chance, while buying the set as singles costs $381.34 and leaves nothing to chance: the $20.24 between the two is the price of certainty."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, Deck Build Box buyer, or single-card chaser",
+          "If the job is the Clefairy SAR, buy the single at $126.70, which is 1.75 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card has fallen 28.26% since March",
+          "If the job is the box, pay $72.22, or $2.41 a pack, and treat the chase as a bonus; the box is $6.16 above the sold-first market box",
+          "If the job is a case, divide it first: the case saves $57.16 against twelve singles, $4.76 a box, and confirm the $67.46 per-box figure at checkout",
+          "If the job is fixed cards, pay $26.53 for the Deck Build Box: 10 packs plus 171 fixed cards, $0.12 a card across all 221 cards",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Clefairy ex prints three times in this set",
+          "Check the number on any Zoroark ex UR before you pay: the misprint trades from about $965.52 and the standard card is $12.73",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV9 best-cards checklist",
+        "paragraphs": [
+          "Run this in order before the next SV9 box you consider. It takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles. Store a held case cool, dry, dark, and unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv9-best-cards",
+    "takeaway": [
+      "The SV9 top ten, on TCGplayer market prices as of November 20, 2026, totals $313.81, with the Clefairy ex SAR cross-checked three ways at $126.70. The Clefairy is $126.70 of it, 40.37% of the list, and the three Clefairy prints together are $135.56, 43.20%. The six SARs are $269.09, 85.75%.",
+      "On our shelf as of November 22, 2026, the box is $72.22 and the case is $809.48. Both fell about 15 percent between November 8 and November 16, the box 15.01% and the case 15.00%, and neither has moved since. The case saves $57.16 against twelve singles, $4.76 a box, while the box sits $6.16 above the $66.06 sold-first market box.",
+      "It is worth buying as the Battle Partners set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Clefairy alone is 1.75 boxes, and the card has already fallen 28.26% since March.",
+      "The ladder below the top card falls fast: the bottom five together are $55.77, and 120 of the 132 cards are under $5. Four facts the other lists get wrong are corrected on this page: Dot Esports still prints January prices, its number nine Lillie's Ribombee is not in today's top ten, the English top card is not in this set, and Clefairy ex prints three times at three prices.",
+      "Companion guide: the [SV9 buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the same two formats at the November 8 prices, and the [SV9 investment guide](/blog/sv9-investment/) runs the same division for the longer hold.",
+      "For the verdict on the set at today's prices, the [is SV9 worth buying guide](/blog/is-sv9-worth-buying/) runs the November 15 box at $72.22 and the case at $809.48 against the Clefairy chase at $126.70.",
+      "For the other half of Journey Together, the [SV9a investment guide](/blog/sv9a-investment/) prices the $138.82 Heat Wave Arena box and the Cynthia's Garchomp ex SAR behind it, and the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) carries both sets on the full shelf.",
+      "Companion guide: the [SV9a best cards guide](/blog/sv9a-best-cards/) ranks the Heat Wave Arena top ten on TCGplayer market prices, Nov 20, 2026, with the Garchomp ex SAR at $214.64, 40.93% of the $524.46 list, against the $138.82 box."
     ]
   },
   "sv9-investment": {
@@ -66311,6 +66543,260 @@ export const POSTS: Record<string, BlogPost> = {
       "SV9 Battle Partners is a bad sealed-box investment at $72.22, $6.16 above the $66.06 sold-first market reference from November 10, 2026, and a defensible sealed-case hold at $809.48, or $67.46 a box.",
       "Lillie's Clefairy ex, the Special Art Rare 126/100, is $126.70 on TCGplayer as of November 12, 2026, or 1.75 boxes and 33.18 percent of the set's value, down 27.60 percent since March.",
       "Both sealed formats fell exactly 15 percent in the week before this guide, from $84.97 and $952.33 on November 8, 2026: a shelf repricing, not a market crash."
+    ]
+  },
+  "sv9a-best-cards": {
+    "datePublished": "2026-11-22",
+    "faqs": [
+      {
+        "a": "Cynthia’s Garchomp ex, the Special Art Rare numbered 087/063, at $214.64 on TCGplayer market as of November 20, 2026, from TCGPursuit’s snapshot of the Japanese set, read November 22, 2026. Scryda’s refreshed November 21 read agrees at $214.64, and OGCards’ November 21 read agrees at $214.64, while the SNKRDUNK raw ask in Tokyo converts to $201.83 at 158.55 yen per dollar, $12.81 below the market read. It is 1.55 boxes at our $138.82 box price and 36.13% of the set’s $594.01 value.",
+        "q": "What is the most valuable SV9a card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $214.64, which is 1.55 boxes at $138.82, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $524.46, which is 3.78 boxes, and the top five alone are $436.51. Buy the single if the Garchomp is the card you want, and buy the box only if you want to open Heat Wave Arena.",
+        "q": "Should I buy an SV9a box to pull the Garchomp ex SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 92 cards, released March 14, 2025, in boxes of 30 packs of 5 cards. English Destined Rivals, released May 30, 2025, merges SV9a with Glory of Team Rocket into a 244-card set, and its chase is the Cynthia’s Garchomp ex Special Illustration Rare 232/182, which traded at $152.59 as of November 15, 2026. Japanese cards are generally not legal at official events outside Asia, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Destined Rivals?"
+      }
+    ],
+    "h1": "SV9a Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV9a Heat Wave Arena is Cynthia’s Garchomp ex, the Special Art Rare numbered 087/063, at $214.64 (TCGplayer market, November 20, 2026), and the ten best cards together are $524.46. The Garchomp alone is 40.93% of the list, and it costs 154.62% of a box. On our shelf, November 22, 2026, the [SV9a Heat Wave Arena booster box](/product/sv9a-heat-wave-arena-booster-box-japanese-pokemon-card/) is $138.82 and the [SV9a sealed case](/product/sv9a-heat-wave-arena-sealed-case-12-boxes-japanese-pokemon-card/) is $1,363.68. Buy the box to open Heat Wave Arena, buy the single for the Garchomp.",
+      "Heat Wave Arena, set code SV9a, is 92 cards: 63 regular cards plus 29 secret rares, 12 Art Rares, 9 Super Rares, 5 Special Art Rares and 3 Ultra Rares. It released in Japan on March 14, 2025, in boxes of 30 packs of 5 cards, and its English twin, Destined Rivals, followed on May 30, 2025. The cards carry the H regulation mark, still Standard-legal in 2026. Who this is for: collectors ranking the Japanese chase and buyers choosing between the box, the case and the single."
+    ],
+    "metaDescription": "SV9a Heat Wave Arena best cards, TCGplayer market Nov 20, 2026: Garchomp ex SAR $214.64, Ho-Oh $123.58, top ten $524.46, box $138.82.",
+    "metaTitle": "SV9a Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Garchomp is 40.93% of the list",
+        "paragraphs": [
+          "The ranking below is one dated read: every value is a TCGplayer market price from TCGPursuit’s November 20, 2026 snapshot of the Japanese set, read November 22, 2026. The top card cross-checks three ways: Scryda’s refreshed November 21 read also prints $214.64, OGCards’ November 21 read also prints $214.64, and the SNKRDUNK raw ask in Tokyo on October 7 converts to $201.83 at 158.55 yen per dollar, $12.81 below the market read. The ten add to $524.46: Garchomp ex SAR $214.64, Ho-Oh ex SAR $123.58, Ethan’s Adventure $41.77, Garchomp ex UR $28.77, Arven’s Mabosstiff ex SAR $27.75, Misty’s Psyduck $26.53, Ho-Oh ex UR $17.59, Misty’s Lapras $16.52, Yanmega ex SAR $14.31 and Ethan’s Typhlosion $13.00.",
+          "The split is the story, and it is steeper than it looks. The top two are $338.22, 64.49% of the top ten, and the top three are $379.99, 72.45% of it. The top five are $436.51, 83.23%, and the bottom five together are $87.95, 16.77%. One of every card in the set, at TCGPursuit’s November 21 read, is $594.01, so the top ten are 88.29% of the whole set’s singles value, and the Garchomp alone is 36.13% of it. The set without the Garchomp is $379.37. Five of the ten are Special Art Rares, and together they are $422.05, 80.47% of the list. Scryda disagrees on two small points: the Mabosstiff at $27.36 against our $27.75 and the Psyduck at $26.44 against $26.53. Our ranking uses the TCGPursuit November 20 read throughout."
+        ]
+      },
+      {
+        "h": "The money layer: box, case, and the $302.16 saving",
+        "math": [
+          "SV9a box per pack: $138.82 / 30 packs = $4.63 per pack",
+          "SV9a box per card: $138.82 / 150 cards = $0.93 per card",
+          "SV9a case per box: $1,363.68 / 12 boxes = $113.64 per box",
+          "SV9a case per pack: $1,363.68 / 360 packs = $3.79 per pack",
+          "SV9a case per card: $1,363.68 / 1,800 cards = $0.76 per card",
+          "SV9a twelve single boxes: 12 x $138.82 = $1,665.84",
+          "SV9a case saving: $1,665.84 - $1,363.68 = $302.16",
+          "SV9a case saving per box: $302.16 / 12 = $25.18 per box",
+          "SV9a case saving share: $302.16 / $1,665.84 = 18.14% saved",
+          "SV9a box fall since November 6, 2026: $163.32 - $138.82 = $24.50; $24.50 / $163.32 = 15.00%",
+          "SV9a case fall since November 6, 2026: $1,604.33 - $1,363.68 = $240.65; $240.65 / $1,604.33 = 15.00%",
+          "SV9a CardZ market box: $115 on November 18, 2026",
+          "SV9a box vs market box: $138.82 - $115 = $23.82 above market; $23.82 / $115 = 20.71% above market",
+          "SV9a market box per pack: $115 / 30 packs = $3.83 per pack",
+          "SV9a case box vs market box: $113.64 - $115 = -$1.36 below market; $1.36 / $115 = 1.18% below market",
+          "SV9a twelve market boxes: 12 x $115 = $1,380.00; $1,380.00 - $1,363.68 = $16.32 saved by the case",
+          "SV9a yen rate: 158.55 yen per dollar (ECB November 21, 2026 fixing; XE November 21 read 158.554)",
+          "SV9a official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 158.55 = $34.06",
+          "SV9a box vs official: $138.82 - $34.06 = $104.76 above official; $138.82 / $34.06 = 4.08x official",
+          "SV9a case box vs official: $113.64 / $34.06 = 3.34x official",
+          "SV9a top 10 total: $214.64 + $123.58 + $41.77 + $28.77 + $27.75 + $26.53 + $17.59 + $16.52 + $14.31 + $13.00 = $524.46",
+          "SV9a top 5 total: $214.64 + $123.58 + $41.77 + $28.77 + $27.75 = $436.51; $436.51 / $524.46 = 83.23% of the top 10",
+          "SV9a top 3 total: $214.64 + $123.58 + $41.77 = $379.99; $379.99 / $524.46 = 72.45% of the top 10",
+          "SV9a top 2 total: $214.64 + $123.58 = $338.22; $338.22 / $524.46 = 64.49% of the top 10",
+          "SV9a top card share: $214.64 / $524.46 = 40.93% of the top 10",
+          "SV9a bottom 5 total: $26.53 + $17.59 + $16.52 + $14.31 + $13.00 = $87.95; $87.95 / $524.46 = 16.77% of the top 10",
+          "SV9a five SARs total: $214.64 + $123.58 + $41.77 + $27.75 + $14.31 = $422.05; $422.05 / $524.46 = 80.47% of the top 10",
+          "SV9a two Garchomp prints in the top 10: $214.64 + $28.77 = $243.41; $243.41 / $524.46 = 46.41% of the top 10",
+          "SV9a four Garchomp prints total: $214.64 + $28.77 + $5.63 + $0.12 = $249.16; $249.16 / $524.46 = 47.51% of the top 10; $249.16 / $594.01 = 41.95% of the set",
+          "SV9a four Ho-Oh prints total: $0.38 + $4.02 + $123.58 + $17.59 = $145.57",
+          "SV9a top 10 vs set value: $524.46 / $594.01 = 88.29% of the set value",
+          "SV9a top card vs set value: $214.64 / $594.01 = 36.13% of the set value",
+          "SV9a top 3 vs set value: $379.99 / $594.01 = 63.97% of the set value",
+          "SV9a top 5 vs set value: $436.51 / $594.01 = 73.49% of the set value",
+          "SV9a five SARs vs set value: $422.05 / $594.01 = 71.05% of the set value",
+          "SV9a set value without the Garchomp: $594.01 - $214.64 = $379.37",
+          "SV9a set value without the top 10: $594.01 - $524.46 = $69.55",
+          "SV9a set value, TCGPursuit vs Scryda: $594.01 - $593.42 = $0.59",
+          "SV9a set value, TCGPursuit vs OGCards: $594.01 - $593.71 = $0.30",
+          "SV9a set value, TCGPursuit vs Cardfolio estimate: $594.01 - about $534 = about $60.01",
+          "SV9a Mabosstiff disagreement: $27.75 - $27.36 = $0.39 (TCGPursuit vs Scryda)",
+          "SV9a Psyduck disagreement: $26.53 - $26.44 = $0.09 (TCGPursuit vs Scryda)",
+          "SV9a Garchomp against the box: $214.64 / $138.82 = 1.55 boxes; $214.64 / $138.82 = 154.62% of a box",
+          "SV9a Garchomp minus the box: $214.64 - $138.82 = $75.82 more than the box",
+          "SV9a top 10 against the box: $524.46 / $138.82 = 3.78 boxes",
+          "SV9a set value against the box: $594.01 / $138.82 = 4.28 boxes",
+          "SV9a set value against the case-split box: $594.01 / $113.64 = 5.23 boxes",
+          "SV9a two boxes: 2 x $138.82 = $277.64",
+          "SV9a set minus two boxes: $594.01 - $277.64 = $316.37 more than two boxes",
+          "SV9a top 10 minus two boxes: $524.46 - $277.64 = $246.82 more than two boxes",
+          "SV9a four boxes: 4 x $138.82 = $555.28; set minus four boxes: $594.01 - $555.28 = $38.73",
+          "SV9a five boxes: 5 x $138.82 = $694.10; five boxes minus set: $694.10 - $594.01 = $100.09",
+          "SV9a cards under $13: 92 - 10 = 82 cards",
+          "SV9a number eleven: Cynthia's Roserade AR $7.65 (Scryda, November 21, 2026)",
+          "SV9a Garchomp since November 13, 2026: $215.54 - $214.64 = $0.90; $0.90 / $215.54 = 0.42%",
+          "SV9a Ho-Oh SAR since November 13, 2026: $126.91 - $123.58 = $3.33; $3.33 / $126.91 = 2.62%",
+          "SV9a Ethan's Adventure since November 13, 2026: $42.03 - $41.77 = $0.26; $0.26 / $42.03 = 0.62%",
+          "SV9a Garchomp UR since November 13, 2026: $28.98 - $28.77 = $0.21; $0.21 / $28.98 = 0.72%",
+          "SV9a Psyduck since November 13, 2026: $27.75 - $26.53 = $1.22; $1.22 / $27.75 = 4.40%",
+          "SV9a set since November 13, 2026: $601.75 - $594.01 = $7.74; $7.74 / $601.75 = 1.29%",
+          "SV9a top 3 since November 13, 2026: $384.48 - $379.99 = $4.49; $4.49 / $384.48 = 1.17%",
+          "SV9a top 5 since November 13, 2026: $441.21 - $436.51 = $4.70; $4.70 / $441.21 = 1.07%",
+          "SV9a Mabosstiff since November 18, 2026: $27.75 - $26.97 = $0.78; $0.78 / $26.97 = 2.89%",
+          "SV9a set since November 18, 2026: $594.01 - $593.40 = $0.61; $0.61 / $593.40 = 0.10%",
+          "SV9a Lapras 7-day move: -8.7%; Typhlosion 7-day move: -6.8% (TCGPursuit, November 21, 2026)",
+          "SV9a Garchomp since March 2025: $317.58 - $214.64 = $102.94; $102.94 / $317.58 = 32.41% (TheGamer, March 25, 2025)",
+          "SV9a Ho-Oh SAR since March 2025: $220.66 - $123.58 = $97.08; $97.08 / $220.66 = 44.00% (TheGamer, March 25, 2025)",
+          "SV9a Ethan's Adventure since March 2025: $86.48 - $41.77 = $44.71; $44.71 / $86.48 = 51.70% (TheGamer, March 25, 2025)",
+          "SV9a Garchomp UR since March 2025: $88.56 - $28.77 = $59.79; $59.79 / $88.56 = 67.51% (TheGamer, March 25, 2025)",
+          "SV9a Ho-Oh UR since March 2025: $78.26 - $17.59 = $60.67; $60.67 / $78.26 = 77.52% (TheGamer, March 25, 2025)",
+          "SV9a Psyduck since March 2025: $41.48 - $26.53 = $14.95; $14.95 / $41.48 = 36.04% (TheGamer, March 25, 2025)",
+          "SV9a Yanmega since March 2025: $38.98 - $14.31 = $24.67; $24.67 / $38.98 = 63.29% (TheGamer, March 25, 2025)",
+          "SV9a Typhlosion since March 2025: $34.01 - $13.00 = $21.01; $21.01 / $34.01 = 61.78% (TheGamer, March 25, 2025)",
+          "SV9a Mabosstiff since March 2025: $46.96 - $27.75 = $19.21; $19.21 / $46.96 = 40.91% (TheGamer, March 25, 2025)",
+          "SV9a Tokyo shop box: 16,663 yen / 158.55 yen per dollar = $105.10; $138.82 - $105.10 = $33.72 above the Tokyo box; $113.64 - $105.10 = $8.54 above it for the case-split box (Samurai Sword, October 7, 2026)",
+          "SV9a Garchomp yen cross-check: 32,000 yen / 158.55 yen per dollar = $201.83; $214.64 - $201.83 = $12.81 below the market read (SNKRDUNK raw ask, October 7, 2026)",
+          "SV9a Ho-Oh yen cross-check: 23,900 yen / 158.55 yen per dollar = $150.74; $150.74 - $123.58 = $27.16 above the market read (SNKRDUNK raw ask, October 7, 2026)",
+          "SV9a Ethan's Adventure yen cross-check: 6,500 yen / 158.55 yen per dollar = $41.00; $41.77 - $41.00 = $0.77 below the market read (SNKRDUNK raw ask, October 7, 2026)",
+          "SV9a English Garchomp gap: $214.64 - $152.59 = $62.05; $152.59 / $214.64 = 71.09% of the Japanese price (poke-life, November 15, 2026)",
+          "SV9a English Ho-Oh gap: $123.58 - $119.11 = $4.47; $119.11 / $123.58 = 96.38% of the Japanese price (poke-life, November 15, 2026)",
+          "SV9a English Ethan's Adventure gap: $41.77 - $26.92 = $14.85; $26.92 / $41.77 = 64.45% of the Japanese price (dexbindr, November 19, 2026)",
+          "SV9a English Garchomp SIR 30-day move: -16% (poke-life, November 15, 2026)",
+          "SV9a Destined Rivals box vs Japanese box: $382 / $138.82 = 2.75x (poke-life via Scrydex, November 9, 2026)",
+          "SV9a Garchomp PSA 10 vs raw: $375 / $214.64 = 1.75x; $375 - $214.64 = $160.36 premium (CardZ, November 19, 2026)",
+          "SV9a Garchomp PSA 10, PokeInvest read: about $258 (November 2026 pop report), which disagrees with the CardZ $375 read",
+          "SV9a box vs SV10 box: $181.04 - $138.82 = $42.22 per box",
+          "SV9a box vs SV9 box: $138.82 - $72.22 = $66.60 per box",
+          "SV9a case split three ways: $1,363.68 / 3 = $454.56; four ways: $1,363.68 / 4 = $340.92; six ways: $1,363.68 / 6 = $227.28"
+        ],
+        "paragraphs": [
+          "The box is $138.82 for 30 packs of 5 cards, $4.63 a pack and $0.93 a card. The case is $1,363.68 for a printed 12 boxes, $113.64 a box, $3.79 a pack and $0.76 a card, which is $302.16 less than twelve singles at $1,665.84: $25.18 a box, 18.14% saved. Both formats fell exactly 15.00% between November 6 and November 13, 2026, the box from $163.32 and the case from $1,604.33, and neither price has moved since.",
+          "Against the market, the shelf splits the same way our [SV9a investment guide](/blog/sv9a-investment/) priced it. The CardZ sold-first market box is $115, so our box at $138.82 sits $23.82 above it, 20.71% above market, or $3.83 a pack against our $4.63. The case divides to $113.64 a box, $1.36 below that same market box, 1.18% below market, and $16.32 below twelve market boxes at $1,380.00. The method behind the format comparison is laid out in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/). The box is the dear way to open this set, and the case is the cheap way to hold it."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The official set page lists the pack at 180 yen including tax for 5 cards, released March 14, 2025. The set code is SV9a, printed on each card next to the number, and the set runs 63 base cards plus 29 secrets numbered 64 to 92: 12 Art Rares, 9 Super Rares, 5 Special Art Rares and 3 Ultra Rares. The headline card is Cynthia’s Garchomp ex, printed four times: the Double Rare at 044/063, about $0.12, the Super Rare at 080/063 at $5.63, the Special Art Rare at 087/063 at $214.64 and the Ultra Rare, the gold card, at 091/063 at $28.77. Match the number, not just the name. Ethan’s Ho-Oh ex does the same at four prices: the Double Rare at 020/063 at $0.38, the Super Rare at 077/063 at $4.02, the SAR at 086/063 at $123.58 and the UR at 090/063 at $17.59.",
+          "Two checks belong before payment, and both are free. First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count is what makes the $113.64 per-box figure a division, not an assumption. Second, check the condition grade on any Japanese listing: a raw ask and a graded ask can sit far apart, and a low number under the same collector number can be wear, not a bargain."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the whole verdict: five ways to spend on SV9a. The single row is the only row that buys the card instead of the chance: the Garchomp SAR is 1.55 boxes, and the top ten together are 3.78 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase, and the god pack is a rare replacement pack, not a rate: see our [what is a god pack guide](/blog/what-is-a-god-pack-japanese-pokemon/). A buyer who opens for the Garchomp is buying a lottery ticket with a $138.82 face value, and the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: the case saves $25.18 a box only if twelve boxes are wanted. The market box row is a reference price, not a listing on this shelf: our box is $23.82 above it, and our case box is $1.36 below it. The wait row is the only route with a price of $0, and it made money in the last two weeks: a buyer who waited from November 6 to November 13 saved $24.50 on the box and $240.65 on the case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV9a box",
+              "$138.82",
+              "$4.63",
+              "Opening Heat Wave Arena in Japanese",
+              "$23.82 above the CardZ market box; chase not guaranteed"
+            ],
+            [
+              "SV9a case (12)",
+              "$1,363.68",
+              "$113.64 a box",
+              "Holding or splitting twelve boxes",
+              "$1,363.68 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$214.64 Garchomp SAR",
+              "n/a",
+              "Owning the chase card",
+              "1.55 boxes for one card"
+            ],
+            [
+              "CardZ market box",
+              "$115",
+              "$3.83",
+              "The market price for one box",
+              "A market figure, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: March prices and no shelf",
+        "note": "From the Warehouse: the question we get most about SV9a is whether the box is still the way to the Garchomp, because every ranking list leads with the $214.64 card and never says what the box costs. It is not the way to the card. The card is 1.55 boxes, the top ten together are 3.78 boxes, and no box guarantees any secret rare, so the box is the way to open Heat Wave Arena and the single is the way to own the Garchomp. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $302.16 against twelve singles, and we checked the division twice because the direction surprised us too.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and the oldest is eight months out of date. TheGamer’s list was published March 25, 2025: it prints the Garchomp ex SAR at $317.58 against $214.64 today, down 32.41% since March, and the Ho-Oh ex SAR at $220.66 against $123.58, down 44.00%, while the Ho-Oh ex UR is $78.26 then against $17.59 now, down 77.52%. Its number ten, the Garchomp ex SR, is now $5.63 and out of the top ten. Dot Esports carries the same release-era ranges, $250 to $300 for the Garchomp, and Samurai Sword carries SNKRDUNK asks from October 7, but no shelf, no case division, and no warning about the four Garchomp prints.",
+          "The gap this page owns starts with the Japanese top ten, every read dated November 20, with the Garchomp cross-checked three ways and the disagreements named. Second is the shelf: two live prices, the exact 15.00% repricing, and the case divisions, none of which any ranking list carries. Third is the yen cross-check, which runs both ways: the Tokyo raw ask for the Garchomp converts to $201.83, $12.81 below the market read, while the Ho-Oh converts to $150.74, $27.16 above it, and the Ethan’s Adventure converts to $41.00, $0.77 below it. A ranking list tells you which card is dearest; this page also tells you what the box costs."
+        ]
+      },
+      {
+        "h": "The chase ladder: four Garchomps, one set",
+        "note": "From the Warehouse: what we see in chat is buyers asking for ‘the Garchomp’ without a number, and four prints at four prices is exactly how the wrong one gets bought. The SAR is $214.64, the gold UR is $28.77, the SR is $5.63 and the Double Rare is about $0.12, and a listing that says Garchomp ex without a number has said nothing about the price. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is one card, once. The Garchomp ex Special Art Rare is $214.64, 40.93% of the top ten and 36.13% of the whole set’s singles value, and it has barely moved in nine days: the November 13 read printed $215.54, a fall of $0.90, 0.42%. The second rung is the Ho-Oh ex SAR at $123.58, down $3.33, 2.62% since November 13, and with the Garchomp they make the top two $338.22, 64.49% of the list. The third rung is the Ethan’s Adventure at $41.77, and the fourth is the Garchomp ex UR at $28.77, the gold card: the same Pokemon holds ranks one and four.",
+          "The four Garchomp prints together are $249.16, 47.51% of the top ten and 41.95% of the whole set: one Pokemon is nearly half the chase. The five Special Art Rares together are $422.05, 80.47% of the list. The fifth rung is the $27 tier: the Arven’s Mabosstiff ex SAR at $27.75, up $0.78, 2.89% since November 18, and the Misty’s Psyduck at $26.53, down $1.22, 4.40% since November 13, then the Ho-Oh ex UR at $17.59, Misty’s Lapras at $16.52, Yanmega ex SAR at $14.31 and Ethan’s Typhlosion at $13.00. Below them the set is nearly free: number eleven is $7.65, and 82 of the 92 cards cost less than $13."
+        ]
+      },
+      {
+        "h": "The risk layer: the card that fell 32.41%, and the box above the market",
+        "paragraphs": [
+          "The first risk is the Garchomp’s own fall. The SAR listed at $317.58 in March 2025 and sits at $214.64 on November 20, 2026, a fall of $102.94, 32.41% since March, and the English twin tells the same story: the Garchomp ex Special Illustration Rare is $152.59 as of November 15, 2026, down 16% in thirty days, and the Ho-Oh ex UR has fallen further, $78.26 in March against $17.59 now, down 77.52%. The graded version is no rescue: CardZ lists the Japanese PSA 10 at $375, only 1.75 times the raw $214.64, so the grade adds $160.36, and PokeInvest’s November pop report reads the PSA 10 near $258, so even the graded premium is disputed. See our [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) before paying to grade anything.",
+          "The second risk is the box itself: $138.82 is $23.82 above the $115 CardZ market box, 20.71% above market, so a buyer who opens and resells the pulls starts $23.82 behind the market before the first pack is opened. The third risk is the reprint risk: The Pokemon Company does not publish print runs, so no sealed buyer can verify scarcity, and a reprint would compress the premium on every sealed format at once. The fourth risk is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/)."
+        ]
+      },
+      {
+        "h": "Context: the yen cross-check and the English twin",
+        "paragraphs": [
+          "The Tokyo numbers cut both ways. The Samurai Sword box listing of 16,663 yen on October 7, 2026 converts to $105.10 at 158.55 yen per dollar, $33.72 below our $138.82, while the case-split box at $113.64 sits only $8.54 above it. The singles tell the same mixed story: the SNKRDUNK raw ask for the Garchomp converts to $201.83, $12.81 below the $214.64 market read, while the Ho-Oh converts to $150.74, $27.16 above the $123.58 read, and the Ethan’s Adventure converts to $41.00, $0.77 below the $41.77 read. The official box is 5,400 yen, $34.06 at the same rate, so our box sits 4.08 times official and the case-split box 3.34 times it.",
+          "The English twin is a different product with a different chase. English Destined Rivals, released May 30, 2025, merges SV9a with Glory of Team Rocket into a 244-card set, and its top card is the Team Rocket’s Mewtwo ex Special Illustration Rare 231/182, which traded at $278.75 as of November 15, 2026. In English, the Garchomp is cheaper: the Cynthia’s Garchomp ex SIR at $152.59 is $62.05 below the Japanese SAR, 71.09% of it, while the Ethan’s Ho-Oh ex SIR at $119.11 is only $4.47 below the Japanese SAR, 96.38% of it. SV9a released March 14, 2025, seven weeks after [SV9 Battle Partners](/blog/sv9-battle-partners-buyers-guide/), and the other half of the English merge, [SV10 Glory of Team Rocket](/blog/sv10-glory-of-team-rocket-buyers-guide/), is $181.04 a box on the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, when one Garchomp ex SAR costs 1.55 boxes. Second, English-tournament players: Japanese cards do not play in English events, and no per-pack saving changes that. Third, buyers who want a guaranteed return: the Garchomp has already fallen 32.41% since March, the box sits 20.71% above the market box, and no honest page can tell you what SV9a will cost next month. It is also not for anyone building the complete set by opening boxes: the complete set is $594.01 as singles, 4.28 boxes at our box price, and no box guarantees a Special Art Rare. Opening four boxes costs $555.28 and still leaves the chase to chance, while buying the set as singles costs $594.01 and leaves nothing to chance: the $38.73 between the two is the price of certainty."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Garchomp SAR, buy the single at $214.64, which is 1.55 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card has fallen 32.41% since March",
+          "If the job is the box, pay $138.82, or $4.63 a pack, and treat the chase as a bonus; the box is $23.82 above the CardZ market box",
+          "If the job is a case, divide it first: the case saves $302.16 against twelve singles, $25.18 a box, and confirm the $113.64 per-box figure at checkout",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Garchomp ex prints four times in this set",
+          "Check the condition grade on any Japanese listing before you pay: a raw ask and a graded ask for the same number can sit far apart",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact",
+          "Confirm storage before a sealed hold: cool, dry, dark, and unstacked under weight"
+        ],
+        "h": "Action layer: the SV9a best-cards checklist",
+        "paragraphs": [
+          "Run this in order before the next SV9a box you consider. It takes ten minutes. The group split is the fourth check, and it is arithmetic: a twelve-box case at $1,363.68 splits three ways into four boxes each at $454.56, four ways into three boxes each at $340.92, and six ways into two boxes each at $227.28. Every split keeps the $113.64 case-split price, so the split buyer pays the case price without holding twelve boxes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles."
+        ]
+      }
+    ],
+    "slug": "sv9a-best-cards",
+    "takeaway": [
+      "The SV9a top ten, on TCGplayer market prices read November 20, 2026, totals $524.46, with the Garchomp ex SAR cross-checked three ways at $214.64. The Garchomp is $214.64 of it, 40.93% of the list, and the four Garchomp prints together are $249.16, 47.51%. The five SARs are $422.05, 80.47%.",
+      "On our shelf as of November 22, 2026, the box is $138.82 and the case is $1,363.68. Both fell exactly 15.00% between November 6 and November 13, and neither has moved since. The case saves $302.16 against twelve singles, $25.18 a box, while the box sits $23.82 above the $115 CardZ market box.",
+      "It is worth buying as the Heat Wave Arena set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Garchomp alone is 1.55 boxes, and the card has already fallen 32.41% since March.",
+      "The ladder below the top card falls fast: the bottom five together are $87.95, and 82 of the 92 cards cost less than $13. Three facts the other lists get wrong are corrected on this page: TheGamer’s March prices are eight months stale, the English top card is not in this set, and Garchomp ex prints four times at four prices.",
+      "Companion guide: the [SV9a Heat Wave Arena buyers guide](/blog/sv9a-heat-wave-arena-buyers-guide/) prices the same two formats at the November 6 prices, and the [SV9a investment guide](/blog/sv9a-investment/) runs the same division for the longer hold.",
+      "For the verdict on the set at today’s prices, the [is SV9a worth buying guide](/blog/is-sv9a-worth-buying/) runs the November 13 box at $138.82 and the case at $1,363.68 against the Garchomp chase at $215.54.",
+      "For the other half of Destined Rivals, the [SV10 best cards guide](/blog/sv10-best-cards/) prices the Mewtwo ex SAR at $362.00 against a $181.04 box, and the [Japanese Pokemon booster box price board](/blog/japanese-pokemon-booster-box-price/) carries both sets on the full shelf.",
+      "Companion guide: the [SV9 best cards guide](/blog/sv9-best-cards/) ranks the Battle Partners top ten on TCGplayer market prices, Nov 20, 2026, with the Lillie's Clefairy ex SAR at $126.70, 40.37% of the $313.81 list, against the $72.22 box."
     ]
   },
   "sv9a-heat-wave-arena-buyers-guide": {
@@ -66519,10 +67005,11 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 6, 2026, with the TCGplayer figures dated November 4 and 5, 2026. When the next set in the trainer run opens for pre-order, run the checklist first and the checkout second.",
       "Still deciding between a box and a case? The [Japanese Pokémon booster box price board](/blog/japanese-pokemon-booster-box-price/) runs the same division across all thirty-two MEGA-era and Scarlet & Violet boxes, and the [best Japanese Pokémon booster box guide, by buyer](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks this same shelf by the job each box does. For the sibling set, the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) prices the other half of Destined Rivals.",
       "For the set that shares this box price, the [SV8a Terastal Festival ex buyer's guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) prices SV8a at the same $163.32 a box for a different product: 10 packs of 10 foil cards with a guaranteed Pokémon ex, and the Umbreon ex SAR at $372.02 on its own.",
-      "New this cycle: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the 30-pack set from the same era, box $141.24 against a case that saves $441.47.",
-      "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the set that came two months before Heat Wave Arena, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own.",
-      "New this cycle: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the 30-pack set from the same era, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own.",
-      "New this cycle: the [Is SV9a Heat Wave Arena Worth Buying? guide](/blog/is-sv9a-worth-buying/) runs the verdict on the same shelf prices, box $138.82 after a fifteen percent fall, case saves $302.16, with the Garchomp ex SAR at $215.54 on its own."
+      "Companion guide: the [SV7a Paradise Dragona buyer's guide](/blog/sv7a-paradise-dragona-buyers-guide/) prices the 30-pack set from the same era, box $141.24 against a case that saves $441.47.",
+      "Companion guide: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the set that came two months before Heat Wave Arena, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own.",
+      "Companion guide: the [SV5a Crimson Haze buyer's guide](/blog/sv5a-crimson-haze-buyers-guide/) prices the 30-pack set from the same era, box $107.04 against a case that costs $18.76 more than twelve singles, with the Greninja ex SAR at $234.60 on its own.",
+      "Companion guide: the [Is SV9a Heat Wave Arena Worth Buying? guide](/blog/is-sv9a-worth-buying/) runs the verdict on the same shelf prices, box $138.82 after a fifteen percent fall, case saves $302.16, with the Garchomp ex SAR at $215.54 on its own.",
+      "Companion guide: the [SV9a best cards guide](/blog/sv9a-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 20, 2026, with the Garchomp ex SAR at $214.64 and the top ten at $524.46 against the $138.82 box and $1,363.68 case."
     ]
   },
   "sv9a-investment": {
