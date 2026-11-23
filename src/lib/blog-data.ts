@@ -32019,7 +32019,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the box dropped $15.40 in six days, from $102.64 to $87.24, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,202.87 to $1,022.44. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of October 7 to November 13, 2026. The box now sits $6.57 above its twin SV2P at $80.67, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2P Snow Hazard worth buying guide](/blog/is-sv2p-worth-buying/) runs the same verdict on the cheaper twin, where the chase spreads across two cards at $66.38 together instead of one card at $296.26.",
-      "New this cycle: the [SV2D Clay Burst investment guide](/blog/sv2d-investment/) prices the $87.24 box, the $85.20 case box, and the $127.02 Gym Set after the November 13 fall, with the Iono at $275.21, down 7.1 percent in a week."
+      "Companion guide: the [SV2D Clay Burst investment guide](/blog/sv2d-investment/) prices the $87.24 box, the $85.20 case box, and the $127.02 Gym Set after the November 13 fall, with the Iono at $275.21, down 7.1 percent in a week.",
+      "Companion guide: the [SV2D best cards guide](/blog/sv2d-best-cards/) ranks the ten best Clay Burst cards on the November 22, 2026 read, top ten $468.04, with the Iono SAR at $275.21."
     ]
   },
   "is-sv2p-worth-buying": {
@@ -32208,7 +32209,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the cheaper twin to open, sealed, and it is not worth buying as a way to own the Chien-Pao ex Special Art Rare or to make the money back by opening. The Chien-Pao sat at $39.47 on TCGplayer on November 13, 2026, which is 0.49 of a box, and the Grusha Special Art Rare at about $26.91 is 0.33 of a box. Buy the singles, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $14.24 in five days, from $94.91 to $80.67, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $952.33 to $809.48. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of October 7 to November 13, 2026. The box now sits $6.57 below its twin SV2D at $87.24, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2D Clay Burst worth buying guide](/blog/is-sv2d-worth-buying/) runs the same verdict on the dearer twin, where the chase is one card at $296.26 instead of two cards at $66.38 together. New this cycle: the [SV2P Snow Hazard investment guide](/blog/sv2p-investment/) prices the same shelf as an investment case, box $80.67 against a case that divides to $67.46 a box."
+      "For the price-and-math companion, the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) runs the November 9 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2D Clay Burst worth buying guide](/blog/is-sv2d-worth-buying/) runs the same verdict on the dearer twin, where the chase is one card at $296.26 instead of two cards at $66.38 together. New this cycle: the [SV2P Snow Hazard investment guide](/blog/sv2p-investment/) prices the same shelf as an investment case, box $80.67 against a case that divides to $67.46 a box.",
+      "Companion guide: the [SV2P best cards guide](/blog/sv2p-best-cards/) ranks the ten best Snow Hazard cards on the November 23, 2026 read, top ten $185.31, with the Chien-Pao ex SAR at $39.47."
     ]
   },
   "is-sv3-worth-buying": {
@@ -59029,6 +59031,227 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) answers the worth-it question in full, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box."
     ]
   },
+  "sv2d-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Iono, the Special Art Rare numbered 96/71, at $275.21 on the November 22, 2026 market read, checked November 23, 2026. It is 58.80% of the top ten and 51.59% of the set as singles at $533.48, and it is 3.15 boxes at our $87.24 box price, so the top card alone costs more than three whole boxes. The next card, Tinkaton ex SAR at $45.53, sits $229.68 below it.",
+        "q": "What is the most valuable SV2D Clay Burst card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $275.21, which is 3.15 boxes at our $87.24 box price, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $468.04, which is 5.37 boxes, and the Iono is 58.80% of that total, so a box with no Iono has almost nothing above $45.53 to rescue it. Buy the single if the Iono is the card you want, and buy the box only if you want to open Clay Burst.",
+        "q": "Should I buy an SV2D box to pull the Iono SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 99 cards, released April 14, 2023, in boxes of 30 packs of 5 cards. English Paldea Evolved, released June 9, 2023, folds Clay Burst together with Snow Hazard and other Japanese sets into a larger combined set, and its chase is the same Iono artwork as a Special Illustration Rare. Japanese cards are not legal at official English events, and the SV2D cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Paldea Evolved?"
+      }
+    ],
+    "h1": "SV2D Clay Burst Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV2D Clay Burst is Iono, the Special Art Rare numbered 96/71, at $275.21 on the November 22, 2026 market read, checked November 23, 2026, and the ten best together are $468.04. On our shelf, as of November 23, 2026, the Clay Burst box is $87.24 and the sealed case of 12 boxes is $1,022.44. Buy the box to open Clay Burst, buy the single for the Iono.",
+      "Clay Burst, set code SV2D, is 99 cards: 71 in the main set plus 28 secret rares, released in Japan on April 14, 2023, in boxes of 30 packs of 5 cards at 180 yen a pack. Its English counterpart, Paldea Evolved, followed on June 9, 2023, but it folds Clay Burst together with Snow Hazard and other Japanese sets. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, single, or Gym Set. The [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) walks the same checks for this set."
+    ],
+    "metaDescription": "SV2D Clay Burst best cards, Nov 23, 2026: Iono SAR $275.21, top ten $468.04, box $87.24, case $1,022.44.",
+    "metaTitle": "SV2D Clay Burst Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Iono, then a long slope",
+        "paragraphs": [
+          "Every value below is from the TCGPursuit market read of November 22, 2026, checked November 23, 2026, using TCGplayer market prices. The ten are: Iono SAR 96/71 at $275.21, Tinkaton ex SAR 93/71 at $45.53, Chi-Yu ex SAR 92/71 at $44.34, Maushold AR 81/71 at $28.01, Iono SR 91/71 at $21.19, Saguaro SAR 95/71 at $14.53, Raichu AR 74/71 at $13.70, Ting-Lu ex SAR 94/71 at $10.11, Grass Energy UR 99/71 at $8.35 and Tyranitar AR 79/71 at $7.07. The ten together are $468.04, and one of each of the 99 cards is $533.48 on the same read, so the top ten are 87.73% of the set.",
+          "The list is one card, then a slope. The Iono alone is $275.21, 58.80% of the top ten and 51.59% of the set as singles. The top three together are $365.08, 78.00% of the top ten, and the top five are $414.28, 88.51%. The gap from number one to number two is $229.68, and the Iono is 6.04 times the second card, while ranks four to ten together are $102.96, 22.00% of the list.",
+          "The top card is falling. Iono SAR was $296.26 on the November 12, 2026 read, so the November 22 figure of $275.21 is down $21.05, 7.11% in ten days, and Tinkaton ex SAR fell from $47.32 to $45.53 in the same window, down $1.79, 3.78%. The biggest seven-day fallers on the November 22 read are Heracross at minus 16.8%, Tinkatink at minus 13.6% and Tinkatuff at minus 8.4%. The [SV2D investment guide](/blog/sv2d-investment/) prices this set over a longer hold."
+        ]
+      },
+      {
+        "h": "The money layer: the thinnest case saving on the shelf",
+        "math": [
+          "SV2D box per pack: $87.24 / 30 packs = $2.91 per pack",
+          "SV2D box per card: $87.24 / 150 cards = $0.58 per card",
+          "SV2D case per box: $1,022.44 / 12 boxes = $85.20 per box",
+          "SV2D case per pack: $1,022.44 / 360 packs = $2.84 per pack",
+          "SV2D case per card: $1,022.44 / 1,800 cards = $0.57 per card",
+          "SV2D twelve singles: 12 x $87.24 = $1,046.88",
+          "SV2D case saving: $1,046.88 - $1,022.44 = $24.44 across the case",
+          "SV2D saving per box: $24.44 / 12 = $2.04 per box",
+          "SV2D saving share: $24.44 / $1,046.88 = 2.33% saved",
+          "SV2D official box: 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV2D box above official: $87.24 - $34.04 = $53.20 above official",
+          "SV2D box multiple: $87.24 / $34.04 = 2.56 times official",
+          "SV2D case box vs official: $85.20 / $34.04 = 2.50 times official; $85.20 - $34.04 = $51.16 above official",
+          "SV2D Iono share of top 10: $275.21 / $468.04 = 58.80% of the top 10",
+          "SV2D top three total: $275.21 + $45.53 + $44.34 = $365.08; $365.08 / $468.04 = 78.00% of the top 10",
+          "SV2D top five total: $275.21 + $45.53 + $44.34 + $28.01 + $21.19 = $414.28; $414.28 / $468.04 = 88.51% of the top 10",
+          "SV2D ranks 4 to 10 total: $28.01 + $21.19 + $14.53 + $13.70 + $10.11 + $8.35 + $7.07 = $102.96; $102.96 / $468.04 = 22.00% of the top 10",
+          "SV2D ranks 6 to 10 total: $14.53 + $13.70 + $10.11 + $8.35 + $7.07 = $53.76; $53.76 / $468.04 = 11.49% of the top 10",
+          "SV2D top 10 vs set value: $468.04 / $533.48 = 87.73% of the set value",
+          "SV2D Iono share of set value: $275.21 / $533.48 = 51.59% of the set value",
+          "SV2D rest of set: $533.48 - $468.04 = $65.44 across the other 89 priced printings",
+          "SV2D top 10 against the box: $468.04 / $87.24 = 5.37 boxes",
+          "SV2D top 10 minus one box: $468.04 - $87.24 = $380.80",
+          "SV2D set value in boxes: $533.48 / $87.24 = 6.11 boxes",
+          "SV2D six boxes: 6 x $87.24 = $523.44; $533.48 - $523.44 = $10.04 below the set as singles",
+          "SV2D seven boxes: 7 x $87.24 = $610.68; $610.68 - $533.48 = $77.20 above the set as singles",
+          "SV2D Iono against the box: $275.21 / $87.24 = 3.15 boxes",
+          "SV2D Tinkaton against the box: $45.53 / $87.24 = 0.52 boxes",
+          "SV2D gap number one to number two: $275.21 - $45.53 = $229.68; $275.21 / $45.53 = 6.04 times number two",
+          "SV2D gap number two to number three: $45.53 - $44.34 = $1.19",
+          "SV2D gap number three to number four: $44.34 - $28.01 = $16.33",
+          "SV2D Iono SAR vs SR: $275.21 / $21.19 = 12.99 times the Super Rare; $275.21 - $21.19 = $254.02",
+          "SV2D Iono in yen: $275.21 x 158.64 yen per dollar = 43,659.31 yen",
+          "SV2D top 10 in yen: $468.04 x 158.64 yen per dollar = 74,249.87 yen",
+          "SV2D set value in yen: $533.48 x 158.64 yen per dollar = 84,631.27 yen",
+          "SV2D Iono move Nov 12 to Nov 22: $275.21 - $296.26 = $21.05 down; $21.05 / $296.26 = 7.11% down",
+          "SV2D Tinkaton move Nov 12 to Nov 22: $45.53 - $47.32 = $1.79 down; $1.79 / $47.32 = 3.78% down",
+          "SV2D Gym Set two boxes: $87.24 + $80.67 = $167.91",
+          "SV2D Gym Set saving: $167.91 - $127.02 = $40.89 saved",
+          "SV2D Gym Set per box: $127.02 / 2 = $63.51 per box, with Iono supplies included",
+          "SV2D Gym Set box saving: $87.24 - $63.51 = $23.73 below a single Clay Burst box",
+          "SV2D twin box gap: $87.24 - $80.67 = $6.57 dearer than the Snow Hazard box",
+          "SV2D twin case saving: SV2P twelve singles 12 x $80.67 = $968.04; $968.04 - $809.48 = $158.56 saved",
+          "SV2D Chi-Yu cross-check gap: $44.81 - $44.34 = $0.47 between the two sources"
+        ],
+        "paragraphs": [
+          "The box is $87.24 for 30 packs of 5 cards, $2.91 a pack and $0.58 a card. The case is $1,022.44 for a printed 12 boxes, $85.20 a box, $2.84 a pack and $0.57 a card, $24.44 less than twelve singles at $1,046.88, 2.33% saved. Both prices are from the live shelf, read November 23, 2026, and the case listing prints the 12-box count in its title. The [Clay Burst booster box](/product/sv2d-clay-burst-booster-box-japanese-pokemon-card/) and the [Clay Burst sealed case](/product/sv2d-clay-burst-sealed-case-12-boxes-japanese-pokemon-card/) are the listings these divisions run on.",
+          "Against the official price, the shelf sits far above retail, and the case barely helps. The official box is 5,400 yen, which converts to $34.04 at 158.64 yen per dollar, the European Central Bank rate of November 20, 2026, so our box is 2.56 times official and $53.20 above it, while the case box is 2.50 times official. The top ten together are 5.37 boxes, and the complete set at $533.48 is 6.11 boxes, so six boxes cost $523.44, $10.04 below the set as singles, and seven cost $610.68, $77.20 above it. The Iono alone is 3.15 boxes; the second card is only 0.52 boxes.",
+          "The Gym Set is the cheapest way onto this shelf per box, and it is not a case. The Pokemon Center Gym Set holds one Clay Burst box and one Snow Hazard box plus Iono supplies, and it is $127.02 on our shelf as of November 23, 2026. Two boxes bought singly would cost $167.91, so the Gym Set saves $40.89 and divides to $63.51 per box, $23.73 below a single Clay Burst box. The supplies are part of the $127.02, and two boxes are not twelve, so never present the Gym Set as a case alternative. The [Pokemon Center Gym Set](/product/sv2p-snow-hazard-sv2d-clay-burst-pokemon-center-gym-set-japanese-pokemon-card/) is the listing this split runs on, and the exact shipping quote is confirmed at checkout or on WhatsApp."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards, and the set runs 99 cards: 71 in the main set plus 28 secrets numbered 72 to 99. The five Special Art Rares are Iono at 96/71, Tinkaton ex at 93/71, Chi-Yu ex at 92/71, Ting-Lu ex at 94/71 and Saguaro at 95/71, and the set also carries the Grass Energy Ultra Rare at 99/71 for $8.35. Match the number, not just the name: Iono prints twice, the Super Rare at 91/71 for $21.19 and the Special Art Rare at 96/71 for $275.21, so the SAR is 12.99 times the Super Rare and $254.02 dearer, and a listing that says Iono without a number has said nothing about the price.",
+          "First, confirm the case listing prints 12 boxes: this one does, in its title. Second, check the condition grade: the same collector number can carry a worn copy at a fraction of the clean price, so a low price can be wear, not a bargain. Third, confirm the Gym Set contents before you pay: one Clay Burst box, one Snow Hazard box, and the Iono supplies, because the $63.51 per-box division only holds if both boxes are the ones you want. Fourth, do not confuse the Japanese box with the English one: Paldea Evolved is a combined set, not a Clay Burst box under another name. The [is SV2D worth buying guide](/blog/is-sv2d-worth-buying/) walks the same checks, and the [SV2D investment guide](/blog/sv2d-investment/) prices the longer hold."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: six ways to spend on SV2D. The single row is the only row that buys the card instead of the chance: the Iono SAR is 3.15 boxes, and the top ten together are 5.37 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The case row saves only $2.04 a box, so it is a storage decision, not a discount, and the Gym Set row saves $40.89 only if both boxes and the supplies are wanted.",
+          "Read the set-as-singles row as the honest alternative to opening boxes: one of each of the 99 cards is $533.48, six boxes cost $523.44 and still leave the chase to chance, while seven cost $610.68, $77.20 above the set. The wait row costs $0, and on the last read it paid: the Iono fell $21.05 in ten days. The [sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows the case division across sets, and the [best value boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) prices every box against its singles."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV2D box",
+              "$87.24",
+              "$2.91",
+              "Opening Clay Burst in Japanese",
+              "$87.24 for a chase that tops out at $275.21, with no pull rates published"
+            ],
+            [
+              "SV2D case (12)",
+              "$1,022.44",
+              "$85.20 a box",
+              "Holding or splitting twelve boxes",
+              "Saves only $24.44, 2.33%, across the whole case"
+            ],
+            [
+              "The single",
+              "$275.21 Iono SAR",
+              "n/a",
+              "Owning the chase card",
+              "3.15 boxes for one card"
+            ],
+            [
+              "The set as singles",
+              "$533.48 one of each",
+              "n/a",
+              "Owning all 99 cards with nothing to chance",
+              "$533.48 in one purchase; no sealed product"
+            ],
+            [
+              "Pokemon Center Gym Set",
+              "$127.02",
+              "$63.51 a box",
+              "One Clay Burst box plus one Snow Hazard box plus Iono supplies",
+              "Two boxes, not twelve; supplies included in the price"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The Iono rose before it fell; the shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no case math, no Gym Set split",
+        "note": "From the Warehouse: the question we get most about Clay Burst is whether the box is still the way to the Iono, because every ranking list leads with the Iono and never says what the box costs. It is not the way to the card. The Iono is 3.15 boxes, the top ten together are 5.37 boxes, and no box guarantees any secret rare, so the box is the way to open Clay Burst and the single is the way to own the Iono. The second question is whether the case is a bargain, because buyers have learned that cases usually save real money per box. On this shelf, on this date, it barely saves anything: $24.44 across twelve boxes, $2.04 a box, so the case is a storage decision, not a discount.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and none of them carries a live shelf. TCGPursuit has the fresh November 22, 2026 prices and the complete set at $533.48, but it ranks cards only and carries no box, no case and no decision. The second and third rank the same ten cards from older reads and never say what a box costs, so a reader who trusts them still has no idea whether $87.24 for a box is dear or cheap. None of them splits the Gym Set, divides a case, or warns that Iono prints twice at prices 12.99 times apart.",
+          "The gap this page owns starts with a fresh November 22 read, the top ten from one source with the Chi-Yu ex SAR cross-checked against a second source $0.47 apart. Second is the shelf: three live prices, the case divisions at $85.20 a box against $87.24 single, and the Gym Set split at $63.51 a box. Third is the numbering trap: Iono prints twice and the name alone spans a $254.02 range. Fourth is the two-source gap, reported and not resolved: Cardfolio has the complete set near $419 against $533.48 here, and its Iono SAR at $178 against $275.21 here, so the two sources describe two different markets. The [SV3 best cards guide](/blog/sv3-best-cards/) runs the same checks for the sister set."
+        ]
+      },
+      {
+        "h": "The chase ladder: one Iono, then a cliff, then a floor",
+        "note": "From the Warehouse: what we see in chat is buyers asking for the Iono without a number, and two prints at two prices is exactly how the wrong one gets bought. The SAR is $275.21, the Super Rare is $21.19, and a listing that says Iono without a number has said nothing about the price. The same goes for the rest of the ladder: Tinkaton ex SAR is $45.53 and Chi-Yu ex SAR is $44.34, so the number is the price. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is one card: Iono SAR at $275.21, 58.80% of the top ten and 51.59% of the set as singles, with a $229.68 gap to number two. The second and third rungs are Tinkaton ex SAR at $45.53 and Chi-Yu ex SAR at $44.34, $89.87 together, so the top three are $365.08, 78.00% of the list, and the gap from number two to number three is only $1.19. The fourth and fifth rungs are Maushold AR at $28.01 and Iono SR at $21.19, $49.20 together, and with the top three they make the top five $414.28, 88.51% of the list.",
+          "The sixth rung is the floor: Saguaro SAR at $14.53, Raichu AR at $13.70, Ting-Lu ex SAR at $10.11, Grass Energy UR at $8.35 and Tyranitar AR at $7.07, $53.76 together, 11.49% of the list. The gap from number five to number six is $6.66, so the floor is flat: five cards inside $7.46 of each other. Below the top ten, the other 89 cards together are $65.44, so the bottom of the set cannot carry a box on its own."
+        ]
+      },
+      {
+        "h": "The risk layer: one card carries the list",
+        "paragraphs": [
+          "The first risk is the concentration: the Iono is $275.21, 58.80% of the top ten, so a badly opened box has one card to rescue it and nothing else above $45.53. The second risk is the direction of travel: the Iono fell $21.05, 7.11%, in ten days, Tinkaton ex fell $1.79, 3.78%, in the same window, and Heracross fell 16.8% in seven days, so the list is soft from the top to the commons.",
+          "The third risk is the two-source gap, reported here, not resolved. Cardfolio has the complete set near $419 against $533.48 here, and its Iono SAR at $178 against $275.21 here, while its sealed box is $80.47 against Double Holo near $103 and our shelf at $87.24, so the spread is presented and none of the three is adopted as the market box. Graded is wider still: Double Holo has the Iono SAR PSA 10 at $339.14 on November 18, 2026, while CardZ has it at $455 on November 19, 2026, so both figures are flagged and neither is adopted. The fourth risk is rotation: the G regulation mark left Standard play on April 10, 2026. The fifth risk is the sealed-versus-singles choice: a sealed box keeps its value only while the seal is intact, so photograph the box before opening."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the Snow Hazard twin",
+        "paragraphs": [
+          "The English twin is a different product with a different chase. English Paldea Evolved, released June 9, 2023, folds Clay Burst together with Snow Hazard and other Japanese sets into a larger combined set. Its top card is the same Iono artwork as a Special Illustration Rare, and the fold is where buyers lose money: a buyer who types Clay Burst English box hunts a product that was never made, and the listings that answer are Paldea Evolved boxes at Paldea Evolved prices or Japanese boxes with English-language titles.",
+          "The twin set in the same season is the honest comparison. Snow Hazard, set code SV2P, has its box at $80.67 on our shelf as of November 23, 2026, so the Clay Burst box is $6.57 dearer, and its case is $809.48, which saves $158.56 against twelve singles, while the Clay Burst case saves only $24.44, the thinnest case saving on the shelf. Beside them, the SV3 case saves $317.37, so the Clay Burst case is not a discount in any season. Buy the Clay Burst box for the Clay Burst chase, the Snow Hazard box for its own chase, and the Gym Set when both boxes are wanted. The [is SV2P worth buying guide](/blog/is-sv2p-worth-buying/) runs the same verdict for the twin, and the [SV2P investment guide](/blog/sv2p-investment/) prices Snow Hazard over a longer hold."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, so buy the single instead, because the Iono alone is 3.15 boxes and no box guarantees it. Second, English-tournament players: Japanese cards do not play in English events, and the SV2D cards carry the G mark, which left Standard play in the April 10, 2026 rotation. Third, buyers who want a guaranteed return: the Iono fell 7.11% in ten days, the set is 58.80% one card, and no page can tell you what Clay Burst will cost next month. If you are in one of these three groups, buy the single you want, or wait, and do not open boxes for a card that is already priced."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, Gym Set buyer, or single-card chaser",
+          "If the job is the Iono SAR, buy the single at $275.21, which is 3.15 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits $229.68 above the second card",
+          "If the job is the box, pay $87.24, or $2.91 a pack, and treat the chase as a bonus; the box is $6.57 dearer than the Snow Hazard box at $80.67",
+          "If the job is a case, divide it first: the case saves only $24.44 against twelve singles, $2.04 a box, so treat it as storage, not a discount, and confirm the $85.20 per-box figure at checkout",
+          "If the job is two boxes, price the Gym Set at $127.02 first: it saves $40.89 against the two singles and divides to $63.51 a box, with Iono supplies included, and it is not a 12-box case",
+          "If the job is the whole set, buy the singles at $533.48 at one of each: six boxes cost $523.44 and still leave the chase to chance, while seven boxes cost $610.68",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Iono prints twice in this set",
+          "Check the number on any Iono before you pay: the SAR is $275.21, the Super Rare is $21.19, and the two prints sit $254.02 apart",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV2D best-cards checklist",
+        "paragraphs": [
+          "Run this before the next Clay Burst box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, the [SV2D investment guide](/blog/sv2d-investment/) runs the same division over a longer hold, and a held case stores cool, dry, dark, and unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv2d-best-cards",
+    "takeaway": [
+      "The SV2D top ten, on the November 22, 2026 read, totals $468.04, with the Iono SAR at $275.21. The Iono is $275.21 of it, 58.80% of the list, and the top three are $365.08, 78.00%, while the other 89 cards together are $65.44.",
+      "On our shelf as of November 23, 2026, the box is $87.24 and the case is $1,022.44. The case saves only $24.44 against twelve singles, $2.04 a box, the thinnest case saving on the shelf, while the Gym Set saves $40.89 against two singles and divides to $63.51 a box.",
+      "It is worth buying as the Clay Burst set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Iono alone is 3.15 boxes, and the Iono fell 7.11% in the ten days before this read.",
+      "The ladder below the top card falls fast: the second card is $45.53, $229.68 below the Iono, and the bottom five together are $53.76. Four facts the other lists miss are corrected on this page: no live shelf, no case division, no Gym Set split, and the Iono prints twice at prices $254.02 apart.",
+      "Companion guide: the [is SV2D worth buying guide](/blog/is-sv2d-worth-buying/) runs the same verdict, and the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV2D investment guide](/blog/sv2d-investment/) runs the same division, where the case box sits $2.04 below a single box.",
+      "For the twin set in the same season, the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices Snow Hazard beside this one, and the [SV2P investment guide](/blog/sv2p-investment/) prices it over a longer hold.",
+      "For the next set in the series, the [SV3 best cards guide](/blog/sv3-best-cards/) and the [SV3a best cards guide](/blog/sv3a-best-cards/) run the same checks for their sets.",
+      "For the twin set in the same season, the [SV2P best cards guide](/blog/sv2p-best-cards/) ranks the ten best Snow Hazard cards, top ten $185.31, with the Chien-Pao ex SAR at $39.47."
+    ]
+  },
   "sv2d-clay-burst-buyers-guide": {
     "datePublished": "2026-11-08",
     "faqs": [
@@ -59209,11 +59432,12 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV2D box at $102.64 is the middle of the 30-pack shelf at $3.42 a pack, and $0.68 a card, for 150 cards from a 99-card set. The case at $1,202.87 is the way to buy it sealed, at $100.24 a box and $3.34 a pack, saving $28.81 against twelve singles. The set is 99 cards, released April 14, 2023, and the chase is the Iono SAR, which carried a $296.26 TCGplayer market price on November 7, 2026, or 2.89 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, September 1, November 7, and November 8, 2026. No pull rate is guaranteed, and the box can hold zero SAR cards. The Japan ask for a sealed box was $67.09, so our box costs $35.55 more, and the case-split box costs $33.15 more: pay it for sealed stock from Japan in one parcel, not for the lowest yen price.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the set that came five months after Clay Burst at the same $102.64 a box, but with a case that saves $78.62, and a chase that tops out at $37.39, not $296.26.",
-      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, the third Paldea Evolved part beside Clay Burst, with the Magikarp Art Rare at $129.90 carrying 27 percent of the set's value.",
-      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the twin at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90, or 0.42 times a box.",
-      "New this cycle: the [is SV2D Clay Burst worth buying guide](/blog/is-sv2d-worth-buying/) runs the same numbers as a verdict: yes sealed after the fifteen percent fall, the Iono single at $296.26 costs 3.40 boxes, and the Gym Set undercuts two boxes by $40.89.",
-      "New this cycle: the [SV2D Clay Burst investment guide](/blog/sv2d-investment/) prices the same shelf as an investment case: box $87.24, case $85.20 a box, Gym Set $127.02, and the Iono at $275.21, down 7.1 percent in a week."
+      "Companion guide: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the set that came five months after Clay Burst at the same $102.64 a box, but with a case that saves $78.62, and a chase that tops out at $37.39, not $296.26.",
+      "Companion guide: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the first Scarlet & Violet subset at $152.29 a box, the third Paldea Evolved part beside Clay Burst, with the Magikarp Art Rare at $129.90 carrying 27 percent of the set's value.",
+      "Companion guide: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the twin at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90, or 0.42 times a box.",
+      "Companion guide: the [is SV2D Clay Burst worth buying guide](/blog/is-sv2d-worth-buying/) runs the same numbers as a verdict: yes sealed after the fifteen percent fall, the Iono single at $296.26 costs 3.40 boxes, and the Gym Set undercuts two boxes by $40.89.",
+      "Companion guide: the [SV2D Clay Burst investment guide](/blog/sv2d-investment/) prices the same shelf as an investment case: box $87.24, case $85.20 a box, Gym Set $127.02, and the Iono at $275.21, down 7.1 percent in a week.",
+      "Companion guide: the [SV2D best cards guide](/blog/sv2d-best-cards/) ranks the ten best Clay Burst cards, top ten $468.04, with the Iono SAR at $275.21 and the Tinkaton ex SAR at $45.53."
     ]
   },
   "sv2d-investment": {
@@ -59434,6 +59658,229 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of September 7 to November 18. The box at $87.24 sits $20.62 above the 10,621 yen Japan ask, and the complete set at $562.06 is 6.44 boxes.",
       "For the price-and-math companion, the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) runs the same shelf side by side, and the [is SV2D worth buying guide](/blog/is-sv2d-worth-buying/) runs the same verdict after the November 13 repricing.",
       "New this cycle: the [SV2A Pokemon 151 investment guide](/blog/sv2a-investment/) prices the next set in the series, box $400.52 against a case that divides to $269.83 a box, with the Charizard at $395. New this cycle: the [SV2P Snow Hazard investment guide](/blog/sv2p-investment/) prices the twin set, box $80.67 against a case that divides to $67.46 a box, and the [SV3 Ruler of Black Flame investment guide](/blog/sv3-investment/) prices the Charizard set, box $129.45 against a case that divides to $103.00 a box."
+    ]
+  },
+  "sv2p-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Chien-Pao ex, the Special Art Rare numbered 93, at $39.47 on the November 23, 2026 market read. It is 21.30% of the top ten and 15.21% of the set's singles value of $259.58, and it is 0.49 boxes at our $80.67 box price, so the top card alone costs less than half a box. Cardfolio reads it at $35 on November 21, 2026, a $4.47 gap we report without resolving.",
+        "q": "What is the most valuable SV2P card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $39.47, which is 0.49 boxes at our $80.67 box price, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $185.31, which is 2.30 boxes, and the Chien-Pao is 21.30% of that total, so a box with no Chien-Pao has little above $35.36 to rescue it. Buy the single if the Chien-Pao is the card you want, and buy the box only if you want to open Snow Hazard.",
+        "q": "Should I buy an SV2P box to pull the Chien-Pao ex SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 99 cards, released April 14, 2023, in boxes of 30 packs of 5 cards. English Paldea Evolved, released June 9, 2023, folds Snow Hazard together with other Japanese sets into one larger English set, so its chase cards carry different numbers and different prices. Japanese cards are not legal at official English events, and the SV2P cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Paldea Evolved?"
+      }
+    ],
+    "h1": "SV2P Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV2P Snow Hazard is Chien-Pao ex, the Special Art Rare numbered 93, at $39.47 on the November 23, 2026 market read, and the ten best cards together are $185.31. On our shelf, as of November 23, 2026, the Snow Hazard box is $80.67 and the sealed case of 12 boxes is $809.48. Buy the box to open Snow Hazard, buy the single for the Chien-Pao, and buy the case only if twelve boxes are wanted.",
+      "Snow Hazard, set code SV2P, is 99 cards: 71 in the main set plus 28 secret rares, released in Japan on April 14, 2023, in boxes of 30 packs of 5 cards at 180 yen a pack. Its English counterpart, Paldea Evolved, followed on June 9, 2023, but it folds Snow Hazard together with other Japanese sets, and that fold is where buyers lose money. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single, with every price below stamped as of November 23, 2026."
+    ],
+    "metaDescription": "SV2P Snow Hazard best cards, Nov 23, 2026: Chien-Pao ex SAR $39.47, top ten $185.31, box $80.67, case $809.48.",
+    "metaTitle": "SV2P Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: Chien-Pao leads, Grusha follows, then a flat field",
+        "paragraphs": [
+          "Every value below is from the Scryda market read of November 23, 2026, using TCGplayer market prices. The ten are: Chien-Pao ex SAR #93 at $39.47, Grusha SAR #95 at $35.36, Wo-Chien ex SAR #92 at $19.54, Squawkabilly ex SAR #94 at $18.21, Marill AR #73 at $15.13, Super Rod UR #98 at $14.75, Chien-Pao ex UR #97 at $14.40, Water Energy UR #99 at $12.59, Baxcalibur AR #77 at $8.22 and Sudowoodo AR #80 at $7.64.",
+          "The list is flat at the top and flat at the bottom. Chien-Pao ex SAR is $39.47, 21.30% of the top ten, and the gap to Grusha at number two is only $4.11. The top two together are $74.83, 40.38% of the list, and the top three are $94.37, 50.93%. One of each of the 99 cards is $259.58 on the same November 23 read, so the top ten are 71.39% of the set and the other 89 cards together are $74.27. Ranks four to ten together are $90.94, 49.07% of the list, and the bottom three are $28.45, 15.35%.",
+          "The top card has not moved. Chien-Pao ex SAR read $39.47 on November 13, 2026 and reads $39.47 again on November 23, 2026, the same TCGplayer market read ten days apart. Two gaps stay open and we report them without resolving them. Cardfolio lists the complete set near $239 on November 21, 2026, against $259.58 here, a $20.58 gap, and Cardfolio lists the Chien-Pao SAR at $35 against $39.47 here, a $4.47 gap. Cardfolio also lists a sealed box at $77 against our shelf box at $80.67. On Grusha, do not read a price rise into older figures: the earlier $26.91 figure was a yen-ask conversion, a different measure from a TCGplayer market price, so the measures differ and no rise is claimed."
+        ]
+      },
+      {
+        "h": "The money layer: the case is the cheapest box on the shelf",
+        "math": [
+          "SV2P box per pack: $80.67 / 30 packs = $2.69 per pack",
+          "SV2P box per card: $80.67 / 150 cards = $0.54 per card",
+          "SV2P case per box: $809.48 / 12 boxes = $67.46 per box",
+          "SV2P case per pack: $809.48 / 360 packs = $2.25 per pack",
+          "SV2P case per card: $809.48 / 1,800 cards = $0.45 per card",
+          "SV2P twelve singles: 12 x $80.67 = $968.04",
+          "SV2P case saving: $968.04 - $809.48 = $158.56 across the case",
+          "SV2P saving per box: $158.56 / 12 = $13.21 per box",
+          "SV2P saving share: $158.56 / $968.04 = 16.38% saved",
+          "SV2P official box: 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV2P official pack: 180 yen / 158.64 yen per dollar = $1.13",
+          "SV2P box above official: $80.67 - $34.04 = $46.63 above official",
+          "SV2P box multiple: $80.67 / $34.04 = 2.37 times official",
+          "SV2P case box vs official: $67.46 / $34.04 = 1.98 times official",
+          "SV2P top 10 total: $39.47 + $35.36 + $19.54 + $18.21 + $15.13 + $14.75 + $14.40 + $12.59 + $8.22 + $7.64 = $185.31",
+          "SV2P top 2 total: $39.47 + $35.36 = $74.83; $74.83 / $185.31 = 40.38% of the top 10",
+          "SV2P top 3 total: $39.47 + $35.36 + $19.54 = $94.37; $94.37 / $185.31 = 50.93% of the top 10",
+          "SV2P Chien-Pao share of top 10: $39.47 / $185.31 = 21.30% of the top 10",
+          "SV2P Chien-Pao share of set value: $39.47 / $259.58 = 15.21% of the set value",
+          "SV2P top 10 share of set value: $185.31 / $259.58 = 71.39% of the set value",
+          "SV2P rest of set: $259.58 - $185.31 = $74.27 across the other 89 cards",
+          "SV2P top 10 against the box: $185.31 / $80.67 = 2.30 boxes",
+          "SV2P top 10 against the case: $185.31 / $809.48 = 0.23 times the case",
+          "SV2P complete set in boxes: $259.58 / $80.67 = 3.22 boxes",
+          "SV2P three boxes: 3 x $80.67 = $242.01; $259.58 - $242.01 = $17.57 below the set as singles",
+          "SV2P Chien-Pao against the box: $39.47 / $80.67 = 0.49 boxes",
+          "SV2P top 2 against the box: $74.83 / $80.67 = 0.93 boxes",
+          "SV2P Gym Set two boxes: $80.67 + $87.24 = $167.91",
+          "SV2P Gym Set saving: $167.91 - $127.02 = $40.89 saved",
+          "SV2P Gym Set per box: $127.02 / 2 = $63.51 per box",
+          "SV2P Gym Set per box vs case box: $67.46 - $63.51 = $3.95 below the case box, before the Iono supplies are counted",
+          "SV2P twin box gap: $87.24 - $80.67 = $6.57; the Snow Hazard box is $6.57 below the Clay Burst box",
+          "SV2P twin case saving: 12 x $87.24 = $1,046.88; $1,046.88 - $1,022.44 = $24.44 saved on the Clay Burst case",
+          "SV2P case saving vs twin: $158.56 - $24.44 = $134.12 more saved on the Snow Hazard case",
+          "SV2P Cardfolio box gap: $80.67 - $77.00 = $3.67 above the $77 Cardfolio sealed box",
+          "SV2P Cardfolio market box per pack: $77.00 / 30 packs = $2.57 per pack",
+          "SV2P Cardfolio Chien-Pao gap: $39.47 - $35.00 = $4.47; $4.47 / $39.47 = 11.33% apart",
+          "SV2P Cardfolio complete set gap: $259.58 - $239.00 = $20.58; $20.58 / $259.58 = 7.93% apart",
+          "SV2P Chien-Pao SAR vs UR: $39.47 / $14.40 = 2.74 times the Ultra Rare; $39.47 - $14.40 = $25.07",
+          "SV2P Chien-Pao SAR vs SR: $39.47 / $3.49 = 11.31 times the Super Rare; $39.47 - $3.49 = $35.98",
+          "SV2P Chien-Pao SAR vs DR: $39.47 / $0.12 = 328.92 times the Double Rare; $39.47 - $0.12 = $39.35",
+          "SV2P gap number one to number two: $39.47 - $35.36 = $4.11",
+          "SV2P gap number two to number three: $35.36 - $19.54 = $15.82",
+          "SV2P ranks 4 to 10 total: $18.21 + $15.13 + $14.75 + $14.40 + $12.59 + $8.22 + $7.64 = $90.94; $90.94 / $185.31 = 49.07% of the top 10",
+          "SV2P bottom 3 total: $12.59 + $8.22 + $7.64 = $28.45; $28.45 / $185.31 = 15.35% of the top 10"
+        ],
+        "paragraphs": [
+          "The box is $80.67 for 30 packs of 5 cards, $2.69 a pack and $0.54 a card. The case is $809.48 for 12 boxes, $67.46 a box, $2.25 a pack and $0.45 a card, $158.56 less than twelve singles at $968.04, or $13.21 a box, 16.38% saved. Both prices are from the live shelf, read November 23, 2026, and the case listing prints the 12-box count in its title, so the $67.46 per-box figure is a division, not an assumption. The [Snow Hazard booster box](/product/sv2p-snow-hazard-booster-box-japanese-pokemon-card/) and the [Snow Hazard sealed case](/product/sv2p-snow-hazard-sealed-case-12-boxes-japanese-pokemon-card/) are the listings these divisions run on.",
+          "Against the official price, the shelf runs well above it. The official box is 5,400 yen, which converts to $34.04 at 158.64 yen per dollar, the European Central Bank fixing of November 20, 2026, so our box is $46.63 above official, 2.37 times it, and the case box is 1.98 times it. Against the market, our box sits $3.67 above the $77 Cardfolio sealed box, so the Cardfolio figure is the cheaper guide price and our shelf is not the cheapest box a buyer can find. The [Gym Set](/product/sv2p-snow-hazard-sv2d-clay-burst-pokemon-center-gym-set-japanese-pokemon-card/) splits differently: two boxes at $80.67 and $87.24 cost $167.91, and the Gym Set is $127.02, so $40.89 is saved, or $63.51 per box, but the Gym Set also includes Iono supplies, so it is not a 12-box case and must never be read as one. The [sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows the same division across sets, and the [Snow Hazard investment guide](/blog/sv2p-investment/) prices this set over a longer hold."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards. The set code is SV2P, and the set runs 99 cards: 71 in the main set plus 28 secrets, made up of 5 Special Art Rares, 12 Art Rares, 8 Super Rares and 3 Ultra Rares, with 6 Double Rares, 8 Rares, 22 Uncommons and 35 Commons below them. Match the number, not just the name: Chien-Pao ex prints four times, the Double Rare at 28 for $0.12 on the Cardfolio read, the Super Rare at 85 for $3.49, the Ultra Rare at 97 for $14.40 and the Special Art Rare at 93 for $39.47, so the SAR is 328.92 times the Double Rare and 11.31 times the Super Rare. A listing that says Chien-Pao ex without a number has said nothing about the price.",
+          "First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count makes the $67.46 per-box figure a division, not an assumption. Second, check the condition grade: the same collector number can carry a worn copy at a fraction of the clean price, so a low price can be wear, not a bargain. Third, do not confuse the Gym Set with a case: it holds one Snow Hazard box and one Clay Burst box beside Iono supplies, and its $63.51 per-box figure carries supplies inside it. Fourth, confirm the exact shipping quote at checkout or on WhatsApp at wa.me/818029350455, because we do not publish shipping prices or delivery times. The [Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) walks the same checks, and the [is Snow Hazard worth buying guide](/blog/is-sv2p-worth-buying/) runs the same verdict."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, single, or the Gym Set, side by side",
+        "paragraphs": [
+          "The table is the verdict: seven ways to spend on Snow Hazard. The single row is the only row that buys the card instead of the chance: the Chien-Pao SAR is 0.49 boxes, and the top ten together are 2.30 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase, and the recovery is to buy the single. The case row saves $158.56 only if twelve boxes are wanted, and the Gym Set row saves $40.89 only if the Iono supplies are wanted too.",
+          "Read the set-as-singles row as the whole set outright at one of each: $259.58 buys all 99 cards with nothing to chance, which is 3.22 boxes, while three boxes cost $242.01 and still leave the chase to chance. The Cardfolio market box row is a guide price, not a listing on this shelf, and the wait row costs $0, and on the last read it saved nothing: the Chien-Pao held at $39.47 across ten days. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, and the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) tracks the shelf across sets."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV2P box",
+              "$80.67",
+              "$2.69",
+              "Opening Snow Hazard in Japanese",
+              "$80.67 for a chase that tops out at $39.47"
+            ],
+            [
+              "SV2P case (12)",
+              "$809.48",
+              "$67.46 a box",
+              "Holding or splitting twelve boxes",
+              "$809.48 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$39.47 Chien-Pao ex SAR",
+              "n/a",
+              "Owning the chase card",
+              "0.49 boxes for one card"
+            ],
+            [
+              "The set as singles",
+              "$259.58 one of each",
+              "n/a",
+              "Owning all 99 cards with nothing to chance",
+              "$259.58 in one purchase; no sealed product"
+            ],
+            [
+              "Gym Set",
+              "$127.02",
+              "$63.51 a box",
+              "Two boxes plus Iono supplies",
+              "Supplies included; not a 12-box case"
+            ],
+            [
+              "Cardfolio market box",
+              "$77",
+              "$2.57",
+              "The market box price",
+              "A guide estimate, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no case math, no Gym Set split",
+        "note": "From the Warehouse: the question we get most about Snow Hazard is whether the box is still the way to the Chien-Pao, because every ranking list leads with the Chien-Pao and never says what the box costs. It is not the way to the card. The Chien-Pao is 0.49 boxes, the top ten together are 2.30 boxes, and no box guarantees any secret rare, so the box is the way to open Snow Hazard and the single is the way to own the Chien-Pao. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $158.56 against twelve singles, and it divides to $67.46 a box.",
+        "paragraphs": [
+          "The ranking lists rank the cards and stop there. They carry no box price, no case division, and no Gym Set split, so a reader who follows one learns the order of ten cards and nothing about what any of them costs to own. The gap this page owns starts with a fresh November 23 read, the top ten from one source with the top card held flat across two reads ten days apart. Second is the shelf: three live prices and the case divisions, $67.46 a box against $80.67 single.",
+          "Third is the numbering trap: Chien-Pao ex prints four times and the name alone spans a 328-to-1 price range, from $0.12 to $39.47. Fourth is the two-source gap: Cardfolio puts the complete set near $239 and the Chien-Pao at $35, and we report both gaps without picking a winner, because two sources that disagree are a fact, not a tie to break by preference. Fifth is the Gym Set split: $127.02 for two boxes plus supplies divides to $63.51 a box, which looks cheaper than the case box until the supplies are counted. The [SV3 best cards guide](/blog/sv3-best-cards/) runs the same checks for the sister set, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks boxes by the same division."
+        ]
+      },
+      {
+        "h": "The chase ladder: a flat top, then a floor under fifteen dollars",
+        "note": "From the Warehouse: what we see in chat is buyers asking for the Chien-Pao without a number, and four prints at four prices is exactly how the wrong one gets bought. The SAR is $39.47, the Ultra Rare is $14.40, the Super Rare is $3.49 and the Double Rare is $0.12, and a listing that says Chien-Pao ex without a number has said nothing about the price. The same goes for Grusha: the SAR is $35.36, so the number is the price. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is two cards, not one. Chien-Pao ex SAR is $39.47 and Grusha SAR is $35.36, $74.83 together, 40.38% of the top ten, and the two together cost 0.93 boxes. The third rung is Wo-Chien ex SAR at $19.54, and with the top two it makes the top three $94.37, 50.93% of the list. The gap from number two to number three is $15.82, the largest step on the ladder, and everything below it sits under $20.",
+          "The fourth rung is the floor: Squawkabilly ex SAR at $18.21, Marill AR at $15.13, Super Rod UR at $14.75, Chien-Pao ex UR at $14.40 and Water Energy UR at $12.59, then Baxcalibur AR at $8.22 and Sudowoodo AR at $7.64. Ranks four to ten together are $90.94, 49.07% of the list, so the bottom seven carry almost half the value and no single card below the top three passes $20. Below the top ten, the rest of the set is $74.27 across 89 cards, which is why the ladder feels flat: there is no cliff after the top card, only a long floor. The [SV2P investment guide](/blog/sv2p-investment/) prices the same ladder over a longer hold."
+        ]
+      },
+      {
+        "h": "The risk layer: a flat top, no hundred-dollar card, and a rotated mark",
+        "paragraphs": [
+          "The first risk is the flat top: no card in this set passes $40, so a badly opened box has no single card to rescue it, and the top card at $39.47 is 0.49 boxes. The second risk is the two-source gap: Cardfolio reads the set near $239 and the Chien-Pao at $35, and a buyer who shops by the lower read and a buyer who shops by the higher read are pricing two different markets. The third risk is the ask trap on older figures: a yen-ask conversion is not a TCGplayer market price, and treating one as the other invents a rise that never happened.",
+          "The fourth risk is rotation. The SV2P cards carry the G regulation mark, which left Standard play on April 10, 2026, so this is a collector set now, not a tournament set, and English-event players should not buy it to play. The fifth risk is the sealed-versus-singles choice: sealed product holds the chase to chance, singles do not, and the complete set at $259.58 is 3.22 boxes. The [cheapest Japanese Pokemon booster box guide](/blog/cheapest-japanese-pokemon-booster-box/) tracks the cheapest box on the shelf, and the [how many packs in a booster box guide](/blog/how-many-packs-in-a-booster-box/) confirms the 30-pack count before any division is trusted."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the Clay Burst twin",
+        "paragraphs": [
+          "The English twin is a different product with a different chase. English Paldea Evolved, released June 9, 2023, folds Snow Hazard together with other Japanese sets into one English set, so the chase cards carry different numbers and different prices, and a reader who copies an English price into the Japanese list is pricing the wrong card. Japanese cards are not legal at official English events, and the SV2P cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+          "The twin is Clay Burst, set code SV2D, released the same day in Japan, April 14, 2023. Its box is $87.24 on our shelf, $6.57 above the Snow Hazard box, and its case is $1,022.44, which saves only $24.44 against twelve singles, against $158.56 saved on the Snow Hazard case. The Snow Hazard case is the better case buy by $134.12 of saving, while the Clay Burst box is the dearer box. The [is Clay Burst worth buying guide](/blog/is-sv2d-worth-buying/) runs the same verdict for the twin, the [Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) walks the same checks, and the [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) prices the language choice across sets."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, because the Chien-Pao alone is 0.49 boxes and no box guarantees it. Second, English-tournament players: Japanese cards do not play in English events, and the SV2P cards carry the G mark, which left Standard play in the April 10, 2026 rotation. Third, buyers who want a guaranteed return: the Chien-Pao held flat at $39.47 across ten days, the set read is a single date, and no page can tell you what Snow Hazard will cost next month."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Chien-Pao ex SAR, buy the single at $39.47, which is 0.49 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits $4.11 above the second card",
+          "If the job is the box, pay $80.67, or $2.69 a pack, and treat the chase as a bonus; the box is $3.67 above the $77 Cardfolio market box",
+          "If the job is a case, divide it first: the case saves $158.56 against twelve singles, $13.21 a box, and confirm the $67.46 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $259.58 at one of each: three boxes cost $242.01 and still leave the chase to chance, while the top ten alone are $185.31",
+          "If the job is two boxes plus supplies, check the Gym Set at $127.02, which saves $40.89 against two singles, and remember the supplies sit inside the $63.51 per-box figure",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Chien-Pao ex prints four times in this set",
+          "Check the number on any Chien-Pao ex before you pay: the SAR is $39.47, the Ultra Rare is $14.40, the Super Rare is $3.49, and the Double Rare is $0.12"
+        ],
+        "h": "Action layer: the SV2P best-cards checklist",
+        "paragraphs": [
+          "Run this before the next Snow Hazard box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box/) prices every box against its singles, the [SV2P investment guide](/blog/sv2p-investment/) runs the same division over a longer hold, and a held case stores cool, dry, dark, and unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv2p-best-cards",
+    "takeaway": [
+      "The SV2P top ten, on the November 23, 2026 read, totals $185.31, with the Chien-Pao ex SAR at $39.47, held flat across ten days. The Chien-Pao is $39.47 of it, 21.30% of the list, and the top two are $74.83, 40.38%, while the bottom seven together are $90.94.",
+      "On our shelf as of November 23, 2026, the box is $80.67 and the case is $809.48. The case saves $158.56 against twelve singles, $13.21 a box, while the Gym Set saves $40.89 against two singles plus supplies.",
+      "It is worth buying as the Snow Hazard set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Chien-Pao alone is 0.49 boxes, and the complete set is $259.58 as singles.",
+      "Companion guide: the [Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) walks the same checks for this set, and the [SV3 best cards guide](/blog/sv3-best-cards/) runs the same ranking for the sister set.",
+      "Companion guide: the [SV2D best cards guide](/blog/sv2d-best-cards/) ranks the ten best Clay Burst cards, top ten $468.04, with the Iono SAR at $275.21."
     ]
   },
   "sv2p-investment": {
@@ -59842,8 +60289,9 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV2P box at $94.91 sits in the middle of the 30-pack shelf at $3.16 a pack, and $0.63 a card, for 150 cards from a 99-card set. The case at $952.33 is the sealed buy: $79.36 a box and $2.65 a pack, saving $186.59 against twelve singles. The set is 99 cards, released April 14, 2023, and the chase is the Chien-Pao ex Special Art Rare, which carried a $39.90 market price on November 7, 2026, or 0.42 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 9, 2026, and the marketplace figures as of November 7 and October 7, 2026. No pull rate is guaranteed, and the box can hold zero Chien-Pao cards. The twin box, Clay Burst, is $102.64, so Snow Hazard costs $7.73 less per box: pay the saving for the Chien-Pao chase.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Clay Burst guide](/blog/sv2d-clay-burst-buyers-guide/) prices the twin the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices the October 2023 set at $91.61 a box, with a case that saves $116.52, and the Roaring Moon ex SAR at $40.22, or 0.44 times a box.",
-      "New this cycle: the [is SV2P Snow Hazard worth buying guide](/blog/is-sv2p-worth-buying/) runs the same numbers as a verdict: yes sealed after the fifteen percent fall, the case saves $158.56, and the top two cards together cost $66.38, or 0.82 of a box."
+      "Companion guide: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices the October 2023 set at $91.61 a box, with a case that saves $116.52, and the Roaring Moon ex SAR at $40.22, or 0.44 times a box.",
+      "Companion guide: the [is SV2P Snow Hazard worth buying guide](/blog/is-sv2p-worth-buying/) runs the same numbers as a verdict: yes sealed after the fifteen percent fall, the case saves $158.56, and the top two cards together cost $66.38, or 0.82 of a box.",
+      "Companion guide: the [SV2P best cards guide](/blog/sv2p-best-cards/) ranks the ten best Snow Hazard cards, top ten $185.31, with the Chien-Pao ex SAR at $39.47 and the Grusha SAR at $35.36."
     ]
   },
   "sv3-best-cards": {
