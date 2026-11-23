@@ -22084,6 +22084,238 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [Japanese One Piece cards price index](/blog/japanese-one-piece-cards-price/) sets the English prices beside the Japanese ones for all 25 sets, with the gap and the case saving for each."
     ]
   },
+  "fb07-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Son Goku: GT, FB07-122, Alternate Art, at $781.93 on the TCGPursuit market read of November 22, 2026, checked November 23, 2026, using TCGplayer market prices. It is 43.18% of the top ten at $1,810.66, and it sits $431.36 above the second card, Bulma FB07-113 at $350.57. One printing sits above it on a second read: the Super Alternate Art Son Gohan: SH, FB07-121, at $1,200.00 on Sparkl's November 22, 2026 TCGplayer read, but TCGPursuit lists that printing with no market price, so it is not in the ranked ten.",
+        "q": "What is the most valuable FB07 Wish for Shenron card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $781.93, which is 6.96 case-split boxes at $112.41, and Bandai publishes no pull rates for this set, so no honest expected-value math exists for the chase. FoilKraken's November 1, 2026 report puts a typical opened box at $95.14 against a $385.28 market box, with only 11% of simulated boxes beating the sealed price, and Worthripping's November 22, 2026 simulation puts the median box at $58 with 95 of 100 boxes losing money. Buy the single if the Goku GT is the card you want, and buy the case-split box only if you want to open Wish for Shenron.",
+        "q": "Should I buy an FB07 case to pull the Son Goku: GT?"
+      },
+      {
+        "a": "No. The Japanese set released September 13, 2025 in boxes of 24 packs of 6 cards at 220 yen a pack, which is 5,280 yen a box, or $33.28 at the ECB November 20, 2026 fixing of 158.64 yen per dollar. The English set released September 19, 2025 in boxes of 24 packs of 12 cards, and our shelf holds the English sealed case at $1,348.95 for 12 boxes, or $112.41 a box, with no single English box listed. The $23.70 Japanese listing on our shelf is a single card, not a box, and Japanese cards are not legal at official English-language events.",
+        "q": "Is the Japanese FB07 box the same as the English case on the shelf?"
+      }
+    ],
+    "h1": "FB07 Wish for Shenron Best Cards: Top 10, Priced",
+    "intro": [
+      "Short answer: the best card in FB07 Wish for Shenron is Son Goku: GT, FB07-122, Alternate Art, at $781.93 on the TCGPursuit market read of November 22, 2026, checked November 23, 2026, and the ten best together are $1,810.66. On our shelf, as of November 23, 2026, the English sealed case of 12 boxes is $1,348.95, which divides to $112.41 a box, and no single English box is on the shelf. Buy the single for the Goku GT.",
+      "Wish for Shenron, set code FB07, is 125 card types per Bandai: 5 Leaders, 40 Commons, 30 Uncommons, 30 Rares, 15 Super Rares, 2 Secret Rares, and 3 reprints. Japan saw it September 13, 2025 and English followed September 19, 2025, in boxes of 24 packs of 12 cards. Who this is for: collectors ranking the English chase and buyers choosing case, market box, or single. The [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) walks the same checks for this set."
+    ],
+    "metaDescription": "FB07 Wish for Shenron best cards, Nov 23, 2026: Goku GT $781.93, top ten $1,810.66, case-split box $112.41, case $1,348.95.",
+    "metaTitle": "FB07 Wish for Shenron Best Cards: Top 10, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Goku GT, then a Bulma",
+        "paragraphs": [
+          "Every value below is from the TCGPursuit market read of November 22, 2026, checked November 23, 2026, using TCGplayer market prices. The ten are: Son Goku: GT FB07-122 Alternate Art, Secret Rare, $781.93; Bulma FB07-113 Alternate Art, Uncommon, $350.57; Son Gohan: SH FB07-121, Secret Rare, $124.06; Dragon Ball // Shenron FB07-097 Alternate Art, Leader, $118.44; Son Goten/Trunks: Youth FB07-105 Alternate Art, Super Rare, $113.06; Son Gohan: Youth FB07-106 Alternate Art, Rare, $89.13; Son Goku: DA FB07-009 Alternate Art, Uncommon, $83.73; Bulma FB07-114 Alternate Art, Super Rare, $54.96; Frieza FB07-073 Alternate Art, Leader, $48.86; Syn Shenron FB07-025 Alternate Art, Leader, $45.92. The ten together are $1,810.66, and one of each of the 122 numbers at the cheapest printing is $99.60.",
+          "The list is one card, then one Bulma, then a flat slope. The Goku GT alone is $781.93, 43.18% of the top ten, and the top two together are $1,132.50, 62.55%. The top five are $1,488.06, 82.18%, and ranks six to ten together are $322.60, 17.82%. The gap from number one to number two is $431.36, the Goku GT is 2.23 times the Bulma, and ranks four to ten together are $554.10, 30.60%. Nine of the ten are Alternate Art printings, and the only one without the tag is the base Secret Rare Gohan at $124.06.",
+          "One card sits outside this ranking. Sparkl's November 22, 2026 TCGplayer read prices the Super Alternate Art printing of Son Gohan: SH, FB07-121, at $1,200.00, which would top the set by $418.07 over the Goku GT, at 1.53 times its price. TCGPursuit lists that exact printing with no market price, so it is not in the ranked ten, and swapping it in takes the ten to $2,964.74. Hoshino's raw near-mint price is $740 on 8 sales as of November 20, 2026, $41.93 below the market read, and Assetra's PSA 10 estimate is $991. The [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) runs the same verdict for the set as a whole."
+        ]
+      },
+      {
+        "h": "The money layer: the case-split box is the bargain here",
+        "math": [
+          "FB07 case per box: $1,348.95 / 12 boxes = $112.41 per box",
+          "FB07 case per pack: $1,348.95 / 288 packs = $4.68 per pack",
+          "FB07 case per card: $1,348.95 / 3,456 cards = $0.39 per card",
+          "FB07 market box per pack: $385.28 / 24 packs = $16.05 per pack",
+          "FB07 market box per card: $385.28 / 288 cards = $1.34 per card",
+          "FB07 market box above case-split box: $385.28 - $112.41 = $272.87",
+          "FB07 market box multiple: $385.28 / $112.41 = 3.43 times the case-split box",
+          "FB07 market box gap share: $272.87 / $385.28 = 70.82% above the case-split box",
+          "FB07 twelve market boxes: 12 x $385.28 = $4,623.36",
+          "FB07 case saving vs twelve market boxes: $4,623.36 - $1,348.95 = $3,274.41",
+          "FB07 TCGplayer case per box: $2,000.00 / 12 boxes = $166.67 per box",
+          "FB07 TCGplayer case per pack: $2,000.00 / 288 packs = $6.94 per pack",
+          "FB07 our case below TCGplayer case: $2,000.00 - $1,348.95 = $651.05",
+          "FB07 our case share below TCGplayer case: $651.05 / $2,000.00 = 32.55%",
+          "FB07 JP box yen: 24 packs x 220 yen = 5,280 yen",
+          "FB07 JP box dollars: 5,280 yen / 158.64 yen per dollar = $33.28",
+          "FB07 JP pack dollars: 220 yen / 158.64 yen per dollar = $1.39",
+          "FB07 JP single card in JP packs: $23.70 / $1.39 = 17.05 packs",
+          "FB07 case-split box above JP box: $112.41 - $33.28 = $79.13",
+          "FB07 case-split box multiple of JP box: $112.41 / $33.28 = 3.38 times",
+          "FB07 top ten total: $781.93 + $350.57 + $124.06 + $118.44 + $113.06 + $89.13 + $83.73 + $54.96 + $48.86 + $45.92 = $1,810.66",
+          "FB07 top card share: $781.93 / $1,810.66 = 43.18% of the top ten",
+          "FB07 gap from first to second: $781.93 - $350.57 = $431.36",
+          "FB07 top two total: $781.93 + $350.57 = $1,132.50, 62.55% of the top ten",
+          "FB07 top three total: $781.93 + $350.57 + $124.06 = $1,256.56, 69.40% of the top ten",
+          "FB07 top five total: $781.93 + $350.57 + $124.06 + $118.44 + $113.06 = $1,488.06, 82.18% of the top ten",
+          "FB07 ranks six to ten total: $89.13 + $83.73 + $54.96 + $48.86 + $45.92 = $322.60, 17.82% of the top ten",
+          "FB07 ranks six to ten spread: $89.13 - $45.92 = $43.21",
+          "FB07 ranks four to ten total: $118.44 + $113.06 + $89.13 + $83.73 + $54.96 + $48.86 + $45.92 = $554.10, 30.60% of the top ten",
+          "FB07 top ten above the case: $1,810.66 - $1,348.95 = $461.71",
+          "FB07 top ten multiple of the case: $1,810.66 / $1,348.95 = 1.34 times",
+          "FB07 top card in case-split boxes: $781.93 / $112.41 = 6.96 boxes",
+          "FB07 top card vs market box: $781.93 / $385.28 = 2.03 times",
+          "FB07 top ten vs market box: $1,810.66 / $385.28 = 4.70 times",
+          "FB07 case repricing: $1,587.00 - $1,348.95 = $238.05, 15.00% down",
+          "FB07 typical opened box vs case-split box: $95.14 / $112.41 = 84.64%",
+          "FB07 typical opened box vs market box: $95.14 / $385.28 = 24.69%",
+          "FB07 median opened box vs case-split box: $58.00 / $112.41 = 51.60%",
+          "FB07 average opened box vs case-split box: $187.67 / $112.41 = 1.67 times",
+          "FB07 set as singles vs case-split box: $112.41 - $99.60 = $12.81",
+          "FB07 master set above top ten: $2,334.00 - $1,810.66 = $523.34",
+          "FB07 Gohan Super Alt-Art above Goku GT: $1,200.00 - $781.93 = $418.07",
+          "FB07 Gohan Super Alt-Art multiple: $1,200.00 / $781.93 = 1.53 times",
+          "FB07 Gohan Super Alt-Art swap total: $1,810.66 - $45.92 + $1,200.00 = $2,964.74",
+          "FB07 Gohan printings span: $1,200.00 - $124.06 = $1,075.94",
+          "FB07 Gohan Alt-Art read gap: $124.06 - $122.12 = $1.94",
+          "FB07 Bulma drift: $350.57 - $340.37 = $10.20",
+          "FB07 Frieza Alt-Art above plain: $48.86 - $0.30 = $48.56",
+          "FB07 printings under $5: 119 / 155 = 76.77%",
+          "FB07 market box above FB08: $385.28 - $257.96 = $127.32",
+          "FB07 market box multiple of FB08: $385.28 / $257.96 = 1.49 times",
+          "FB07 FB08 typical above FB07 typical: $98.91 - $95.14 = $3.77",
+          "FB07 Goku GT PSA 10 above raw: $991.00 - $781.93 = $209.07",
+          "FB07 Goku GT PSA 10 multiple: $991.00 / $781.93 = 1.27 times",
+          "FB07 Bulma PSA 10 above Gohan PSA 10: $390.00 - $237.00 = $153.00",
+          "FB07 Hoshino Goku GT below market: $781.93 - $740.00 = $41.93",
+          "FB07 loose pack above market box per pack: $18.29 - $16.05 = $2.24"
+        ],
+        "paragraphs": [
+          "The case is the bargain row, and the division is the proof. Our shelf holds the English sealed case at $1,348.95 for 12 boxes, which is $112.41 a box, $4.68 a pack, and $0.39 a card. The TCGplayer market box is $385.28, which is $16.05 a pack and $1.34 a card, so it sits $272.87 above our case-split box. Twelve market boxes cost $4,623.36, so our case saves $3,274.41 against that route, and the TCGplayer case at $2,000.00 sits $651.05 above our shelf case. The [FB07 sealed case on our shelf](/product/dragon-ball-super-fusion-world-fb07-wish-for-shenron-booster-box-sealed-case-eng/) is the listing these divisions run on.",
+          "The opened-box math is the other side of the same page, and it is not kind. FoilKraken's November 1, 2026 report puts a typical opened FB07 box at $95.14, which is 84.64% of our $112.41 case-split box and 24.69% of the $385.28 market box, with an average opened box of $187.67 and 11% of simulated boxes beating the sealed price. Worthripping's November 22, 2026 simulation is harsher: a median box of $58, 51.60% of our case-split box, with 95 of 100 boxes losing money after selling costs. The ten best together are $1,810.66, so the case only pays if the pulls land in the top two, and one of each of the 122 numbers as singles is $99.60, $12.81 below one case-split box. The [FB07 investment guide](/blog/fb07-investment/) runs the same division for the longer hold."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "Match the number, not the name, and match the finish too. Every FB07 card carries its number, and the number is the price: Bulma FB07-113 Alternate Art is $350.57 while Bulma FB07-114 Alternate Art is $54.96, and Frieza FB07-073 Alternate Art, a Leader, is $48.86 while the plain Frieza FB07-073 is $0.30. The Gohan at FB07-121 prints three times, as a base Secret Rare, an Alternate Art, and a Super Alternate Art, spanning $124.06 to $1,200.00, so a listing without a finish has said nothing about the price.",
+          "Buying from our shelf is the short version. The English sealed case is $1,348.95 for 12 boxes of 24 packs of 12 cards, and the case-split box is $112.41, because no single English box is listed on its own. The Japanese listing on our shelf at $23.70 is a single card, not a box. Japanese packs hold 6 cards against the English 12, and Japanese boxes hold 24 packs at 220 yen a pack, which is 5,280 yen a box, or $33.28 at the ECB November 20, 2026 fixing. The [FB07 Japanese single card listing](/product/fb07-wish-for-shenron-japanese-dragon-ball-fusion-world-card/) is the card, and the case is the sealed product."
+        ]
+      },
+      {
+        "h": "The decision layer: case, market box, or the single, side by side",
+        "paragraphs": [
+          "The choice is case-split box, market box, or single. The case-split box is the cheapest way to open FB07, at $4.68 a pack, and the full case is the same price per pack in a $1,348.95 purchase, so the case only makes sense if all twelve boxes are wanted. The market box is the same 24 packs at 3.43 times the price, a premium for buying one box alone, and the TCGplayer case at $2,000.00 is $651.05 above our shelf. The [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) reaches the same verdict from the set side.",
+          "Read the table from the job, not from the price. If the job is opening FB07, the case-split box is the row, because $112.41 is the lowest per-box cost we can verify. If the job is owning the Goku GT, the single is the row, because $781.93 is 6.96 case-split boxes for one card, and no box guarantees any Secret Rare, with Bandai publishing no pull rates. If the job is owning every card number, the singles at $99.60 are the row, because they cost $12.81 less than one case-split box."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Case-split box (our shelf)",
+              "$112.41",
+              "$4.68",
+              "Opening FB07 at the lowest per-box cost",
+              "$112.41 for a chase that tops out at $781.93, with no pull rates published"
+            ],
+            [
+              "Full sealed case (our shelf, 12)",
+              "$1,348.95",
+              "$112.41 a box",
+              "Holding or splitting twelve boxes",
+              "$1,348.95 in one purchase; the saving only holds if all twelve boxes are wanted"
+            ],
+            [
+              "Market box (TCGplayer)",
+              "$385.28",
+              "$16.05",
+              "Buying one box elsewhere",
+              "$272.87 above our case-split box, at 3.43 times its price"
+            ],
+            [
+              "TCGplayer case (12 boxes)",
+              "$2,000.00",
+              "$166.67 a box",
+              "Buying a case on the open market",
+              "$651.05 above our shelf case, at 32.55% higher"
+            ],
+            [
+              "The single (Goku GT 122)",
+              "$781.93",
+              "n/a",
+              "Owning the chase card",
+              "6.96 case-split boxes for one card; grading can still move the price either way"
+            ],
+            [
+              "The set as singles (cheapest)",
+              "$99.60",
+              "n/a",
+              "Owning all 122 numbers with nothing to chance",
+              "$99.60 in one purchase; no sealed product"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: one card number, three prices, and no shelf",
+        "note": "From the Warehouse: the question we get most about FB07 is which Gohan is the expensive one, because three printings share one number and the answers run from $124.06 to $1,200.00, and the second question is whether the $23.70 Japanese listing is a cheap box. It is a single card, not a box, and the case on our shelf is $1,348.95 for twelve boxes, which is $112.41 a box. Send the number and the finish with the name, every time, and check the shelf price before you divide anything.",
+        "paragraphs": [
+          "The other best-cards lists answer the ranking and stop, and that is where they leave money on the table. Sparkl, TCGPursuit, and Hoshino all rank the same ten cards, and none of them says what the box costs on a live shelf, none of them divides a case, and none of them warns that FB07-121 prints three times. None of them says the $23.70 Japanese listing is a single card, so a reader dividing it into a box price gets a nonsense number, and none of them runs the opened-box value against the shelf price. This page closes those five gaps, with every figure dated November 22 or 23, 2026.",
+          "The two ranking sources also disagree in a way the reader should see plainly. TCGPursuit's November 22, 2026 read puts Bulma FB07-113 at $350.57, while Sparkl and TickerMint show $340.37 on the same week's read, a $10.20 drift in a single day. The same split sits behind the top card: TCGPursuit ranks the Goku GT first, while Sparkl ranks the Gohan first at $1,200.00. Neither source is wrong, they count different printings, and the honest ranking says which printings it counts. The [FB07 investment guide](/blog/fb07-investment/) carries the same dated figures for the hold decision."
+        ]
+      },
+      {
+        "h": "The chase ladder: two Secret Rares, then a long flat tail",
+        "note": "From the Warehouse: what we see in chat is buyers asking for the Gohan without a number, and three printings at three prices is exactly how the wrong one gets bought. The Super Alternate Art is $1,200.00 on Sparkl's read, the Alternate Art is $122.12 to $124.06 across the two reads, and the base Secret Rare sits with them, so the number plus the finish is the price. The same goes for the Bulma pair: FB07-113 is $350.57 and FB07-114 is $54.96, and a listing that says Bulma without a number has said nothing about the price.",
+        "paragraphs": [
+          "The ladder has two steps at the top and a long flat tail below them. The two Secret Rares, Goku GT at $781.93 and Gohan SH at $124.06, are the only cards above $350, and the Bulma Uncommon Alternate Art at $350.57 is the only other card above $125, so the top three are $1,256.56, 69.40% of the list. Below them, the Shenron Leader at $118.44 and the Goten/Trunks Super Rare at $113.06 form the second tier, and ranks six to ten run from $89.13 down to $45.92. The tail is thin: 119 of the 155 printings sit under $5, so most of what a box contains is bulk by value.",
+          "Graded copies stretch the ladder without changing its shape. Assetra's PSA 10 estimate for the Goku GT is $991, which is $209.07 above the raw $781.93, at 1.27 times its price, and the Bulma 113 PSA 10 is $390 while the Gohan 121 PSA 10 is $237, so grading pays best on the top two and least on the flat tail. Hoshino's raw near-mint Goku GT at $740, on 8 sales as of November 20, 2026, sits $41.93 below the TCGplayer market read. The [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks the ten best One Piece cards the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: the $1,200 printing, the flat middle, and the reseal check",
+        "paragraphs": [
+          "The risks are concentration, a flat middle, and a price that already fell once. The top card is 43.18% of the top ten and the top two are 62.55%, so the set's value rides on two cards, and the case on our shelf already fell 15.00% in the November 13, 2026 leg, from $1,587.00 to $1,348.95, a $238.05 drop. The middle is flat: Bulma 113 moved $10.20 between two reads in one week, and 119 of 155 printings sit under $5, so most pulls cannot rescue a box. The set value rose 7.7% over ninety days to November 22, 2026 on Sparkl's read, but that rise sits on the same two cards.",
+          "Fakes and reseals are the practical risk, and the check is the seal. Buy sealed product from the shelf, check the factory seal before you pay, and treat loose packs with care: the TCGplayer loose pack is $18.29, above the $16.05 per-pack cost of a market box, so a loose pack is the worst-priced route to the Goku GT. The Japanese single-card trap is the other check: the $23.70 listing is one card, and any per-box math divided from it is wrong from the first step. The [Dragon Ball Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) walks the same seal and set checks for new buyers."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and where FB07 sits in the run",
+        "paragraphs": [
+          "Japan and English are the same set in two different boxes. Japan released FB07 on September 13, 2025 and English followed on September 19, 2025, six days later, with an English pre-release on September 12, 2025. Japanese packs hold 6 cards at 220 yen a pack, and a Japanese box holds 24 packs, which is 5,280 yen, or $33.28 at the ECB November 20, 2026 fixing, while English packs hold 12 cards. Japanese cards are not legal at official English-language events, and the digital code in a Japanese pack works with the Japanese edition of the digital game.",
+          "FB07 sits between two cheaper boxes in the run. FB08 Saiyan's Pride released in English on December 12, 2025 with 122 card types, and its market box is $257.96, which is $127.32 below FB07's $385.28, while FB07's box is 1.49 times the FB08 box. FoilKraken's November 1, 2026 report puts FB08's typical opened box at $98.91 with only 3% of boxes beating the sealed price, against FB07's $95.14 and 11%. FB07 costs more sealed and returns no more opened, so its premium is a chase premium, not an opening premium. The [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) prices the next set beside this one, and the [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) runs the same verdict."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for everyone, and the misses are specific. It is not for players building a competitive deck, because the cheapest route to the cards you play is singles. It is not for buyers who want one named card, because the single is always cheaper than chasing it, and it is not for flippers who need the opened box to cover its cost, because a typical opened box returns $95.14 against a $112.41 case-split box and 95 of 100 boxes lose money. It is not for buyers who need Japanese cards for English events, and it is not for anyone treating the $1,200.00 Super Alternate Art Gohan as a liquid price, because that printing has no TCGPursuit market price."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Goku GT FB07-122 Alternate Art, buy the single at $781.93, which is 6.96 case-split boxes, and do not open boxes for it; Bandai publishes no pull rates and the card is 43.18% of the top ten",
+          "If the job is opening FB07, pay the $112.41 case-split box, or $4.68 a pack, and treat the chase as a bonus; a typical opened box returns $95.14 and 95 of 100 boxes lose money",
+          "If the job is a case, divide it first: the case is $1,348.95 for 12 boxes, $112.41 a box, and it saves $3,274.41 against twelve market boxes, so confirm the per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $99.60 for one of each of the 122 numbers: that is $12.81 below one case-split box, while the master set with every printing is $2,334",
+          "Match the number and the finish on every card: FB07-121 prints three times from $124.06 to $1,200.00, and Bulma FB07-113 at $350.57 is a different card from Bulma FB07-114 at $54.96",
+          "Never divide per-box math from the $23.70 Japanese listing: it is a single card, not a box, and the Japanese box is 5,280 yen, or $33.28 at 158.64 yen per dollar",
+          "Check the seal before you pay, and check the shelf price again at checkout: the case fell 15.00% on November 13, 2026, from $1,587.00 to $1,348.95, and prices move"
+        ],
+        "h": "Action layer: the FB07 best-cards checklist",
+        "paragraphs": [
+          "Work the list in order, and check the number at every step. The checklist below is the whole guide in eight moves, and every figure on it is dated November 23, 2026."
+        ]
+      }
+    ],
+    "slug": "fb07-best-cards",
+    "takeaway": [
+      "The FB07 top ten, on the November 22, 2026 read, totals $1,810.66, with the Son Goku: GT FB07-122 Alternate Art at $781.93. The Goku GT is $781.93 of it, 43.18% of the list, and the top five together are $1,488.06, 82.18%, while ranks six to ten together are $322.60.",
+      "On our shelf as of November 23, 2026, the English sealed case is $1,348.95 for 12 boxes, which is $112.41 a box, $4.68 a pack, and $0.39 a card. The case saves $3,274.41 against twelve market boxes at $385.28, while the market box sits $272.87 above our case-split box.",
+      "It is worth opening as the Wish for Shenron set, sealed or opened, and it is not worth opening as a way to own one named card. Bandai publishes no pull rates, the Goku GT alone is 6.96 case-split boxes, and a typical opened box returns $95.14.",
+      "One printing sits above the ranking: the Super Alternate Art Son Gohan: SH, FB07-121, at $1,200.00 on Sparkl's November 22, 2026 read, with no TCGPursuit market price, so it is reported and not ranked, and the same card number prints three times from $124.06 to $1,200.00.",
+      "Companion guide: the [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) runs the same verdict, and the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [FB07 investment guide](/blog/fb07-investment/) runs the same division, where the case box sits $272.87 below a market box.",
+      "For the next set in the series, the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the ten best Saiyan's Pride cards, new this cycle, and the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) prices the next set beside this one.",
+      "For the adjacent set in another game, the [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks the ten best One Piece cards with the same case math beside them.",
+      "The $23.70 Japanese listing is a single card, not a box, and the Japanese box is 5,280 yen, or $33.28 at 158.64 yen per dollar, so no per-box math divides from that listing."
+    ]
+  },
   "fb07-investment": {
     "datePublished": "2026-11-18",
     "faqs": [
@@ -22478,7 +22710,229 @@ export const POSTS: Record<string, BlogPost> = {
       "On November 4, 2026, the Warehouse FB07 Japanese box costs $27.88, which is $1.16 a pack and $0.19 a card. Buy it to open Fusion World cheaply, buy the English case at $132.25 a box only for English boxes in bulk, and buy the single for the Son Goku: GT Secret Rare alt-art or any named card.",
       "Prices move; the method does not. Choose the language first, divide the case in that language, and never budget for a product the shelf does not stock.",
       "For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the English case ladder, see [Best Dragon Ball Fusion World Sealed Case to Buy](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/). For the successor set, see [FB08 Saiyan's Pride Buyer's Guide](/blog/fb08-saiyans-pride-buyers-guide/). For the dated verdict, see [Is FB07 Worth Buying?](/blog/is-fb07-worth-buying/).",
-      "New this cycle: the [FB07 Wish for Shenron investment guide](/blog/fb07-investment/) re-prices this shelf after the November 13 repricing: the English case is now $1,348.95, or $112.41 a box, and the $23.70 Japanese listing is a single card, not a box."
+      "Companion guide: the [FB07 Wish for Shenron investment guide](/blog/fb07-investment/) re-prices this shelf after the November 13 repricing: the English case is now $1,348.95, or $112.41 a box, and the $23.70 Japanese listing is a single card, not a box.",
+      "Companion guide: the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the ten best Wish for Shenron cards, top ten $1,810.66, with the Son Goku: GT Alternate Art at $781.93, on the November 22, 2026 read."
+    ]
+  },
+  "fb08-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Broly, FB08-088 Alternate Art, at $104.79 on the November 23, 2026 TCGplayer market read from TCGPursuit, checked November 23, 2026. It is 14.85% of the top ten, which totals $705.70, and it sits $7.59 above the second card, Son Gohan: Childhood FB08-106 Alternate Art at $97.20. One card sits above this list: Son Goten FB08-121 Super Alternate Art, whose last verifiable TCGplayer market price is $1,003.75, dated October 18, 2026, with no fresh market price reported since, so it is flagged stale and kept out of the ranked ten.",
+        "q": "What is the most valuable FB08 Saiyan's Pride card?"
+      },
+      {
+        "a": "No, not as a plan. The Broly Alternate Art is $104.79, which is 60.38% of our $173.55 case-split box, and Bandai publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $705.70, which is 4.07 case-split boxes, and nine of the ten are alt-arts, so a box with no alt-art has almost none of the ranked value in it. Buy the single if the Broly is the card you want, and buy the box only if you want to open Saiyan's Pride.",
+        "q": "Should I buy an FB08 box to pull the Broly Alternate Art?"
+      },
+      {
+        "a": "At Japanese retail, yes, and as a product, no. A Japanese box holds 24 packs of 6 cards at 220 yen a pack, so 5,280 yen at retail, which converts to $33.28 at the ECB November 20, 2026 fixing of 158.64 yen per dollar. An English box holds 24 packs of 12 cards, and our case-split English box is $173.55 as of November 23, 2026. The two boxes are different products in different languages, Japanese cards are not legal at official English events, and the $22.12 Japanese FB08 listing on our shelf is a single card, not a box, so never divide box math from it.",
+        "q": "Is the Japanese FB08 box cheaper than the English box?"
+      }
+    ],
+    "h1": "FB08 Saiyan's Pride Best Cards: Top 10, Priced",
+    "intro": [
+      "Short answer: the best card in FB08 Saiyan's Pride is Broly, FB08-088 Alternate Art, at $104.79 on the November 23, 2026 TCGplayer market read from TCGPursuit, and the ten best together are $705.70. On our shelf, as of November 23, 2026, the sealed English case is $2,082.57, which splits to $173.55 a box, and there is no single English box on the shelf. Buy the box to open Saiyan's Pride, buy the single for the Broly.",
+      "Saiyan's Pride, set code FB08, is 122 card types: 5 Leaders, 40 commons, 30 uncommons, 30 rares, 15 Super Rares, and 2 Secret Rares, released in English on December 12, 2025, and in Japan on December 13, 2025. English packs hold 12 cards plus a digital code, and a box holds 24 packs. Who this is for: collectors ranking the chase and buyers choosing box, case, or single. The [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) walks the same checks for this set."
+    ],
+    "metaDescription": "FB08 Saiyan's Pride best cards, Nov 23, 2026: Broly AA $104.79, top ten $705.70, case-split box $173.55, case $2,082.57.",
+    "metaTitle": "FB08 Saiyan's Pride Best Cards: Top 10, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: nine alt-arts, one Secret Rare, and a Broly on top",
+        "paragraphs": [
+          "The ranked ten, all TCGplayer market prices from TCGPursuit, read November 23, 2026: Broly FB08-088 Alternate Art at $104.79, Son Gohan: Childhood FB08-106 Alternate Art at $97.20, Broly FB08-073 Alternate Art at $88.42, Broly FB08-122 Alternate Art at $86.74, and Kakarot FB08-076 Alternate Art at $79.09. The top five together are $456.24, which is 64.65% of the whole top ten, and the gap from first to fifth is only $25.70, so the top of this set is flat, with no single card running away from the rest.",
+          "The second five: Son Gohan: Adolescence FB08-001 Alternate Art at $66.01, Broly FB08-087 Alternate Art at $48.65, Son Goku Jr. FB08-102 Alternate Art at $48.24, Broly FB08-122 base Secret Rare at $44.28, and Son Goten FB08-121 Alternate Art at $42.28. Ranks six to ten together are $249.46, which is 35.35% of the top ten, and the drop from fifth to sixth, $79.09 to $66.01, is $13.08, the largest single step in the list.",
+          "Nine of the ten are alternate arts, and the alt-arts together are $661.42, which is 93.73% of the top ten. The only base print in the ranking is the Broly FB08-122 Secret Rare at $44.28, and even that card has an alternate art at $86.74, which is 1.96 times its own base print. In FB08, the art is the value, and the base print of the same number is a different card at a different price.",
+          "One card sits above the list and outside it. Son Goten FB08-121 Super Alternate Art has a last verifiable TCGplayer market price of $1,003.75, dated October 18, 2026, and TickerMint flagged it stale on November 22, 2026, because TCGplayer had reported no fresh market price for it in 35 days. TCGPursuit lists one FB08-121 version with no current market price at all. We keep the Super Alternate Art out of the ranked ten because a 36-day-old price is not a current price. Hoshino, reading actual sales, put the same Broly at $114 as of November 21, 2026, and TickerMint put it at $105 the same week, so the ranking holds across sources. The [FB08 investment guide](/blog/fb08-investment/) runs the same figures against a longer hold."
+        ]
+      },
+      {
+        "h": "The money layer: the case-split box is the bargain here",
+        "math": [
+          "FB08 case-split box: $2,082.57 / 12 boxes = $173.55 per box",
+          "FB08 shelf per pack: $2,082.57 / 288 packs = $7.23 per pack",
+          "FB08 shelf per card: $2,082.57 / 3,456 cards = $0.60 per card",
+          "FB08 market box per pack: $257.96 / 24 packs = $10.75 per pack",
+          "FB08 market box per card: $257.96 / 288 cards = $0.90 per card",
+          "FB08 market box gap: $257.96 - $173.55 = $84.41; $84.41 / $257.96 = 32.72% below market",
+          "FB08 twelve market boxes: 12 x $257.96 = $3,095.52; $3,095.52 - $2,082.57 = $1,012.95 saved on the case",
+          "FB08 market pack gap: $11.92 - $7.23 = $4.69; $4.69 / $11.92 = 39.35% below the market pack",
+          "FB08 288 market packs: 288 x $11.92 = $3,432.96; $3,432.96 - $2,082.57 = $1,350.39 saved on the case",
+          "FB08 top 10 total: $104.79 + $97.20 + $88.42 + $86.74 + $79.09 + $66.01 + $48.65 + $48.24 + $44.28 + $42.28 = $705.70",
+          "FB08 top 5 total: $104.79 + $97.20 + $88.42 + $86.74 + $79.09 = $456.24; $456.24 / $705.70 = 64.65% of the top 10",
+          "FB08 top 3 total: $104.79 + $97.20 + $88.42 = $290.41; $290.41 / $705.70 = 41.15% of the top 10",
+          "FB08 ranks 6 to 10 total: $66.01 + $48.65 + $48.24 + $44.28 + $42.28 = $249.46; $249.46 / $705.70 = 35.35% of the top 10",
+          "FB08 top card share: $104.79 / $705.70 = 14.85% of the top 10",
+          "FB08 alt-art total: $705.70 - $44.28 = $661.42; $661.42 / $705.70 = 93.73% of the top 10",
+          "FB08 top 10 against the case: $705.70 / $2,082.57 = 33.89% of the case price",
+          "FB08 top 10 in split boxes: $705.70 / $173.55 = 4.07 boxes",
+          "FB08 top 10 against the market box: $705.70 / $257.96 = 2.74 boxes; $705.70 - $257.96 = $447.74 above one market box",
+          "FB08 top card against the split box: $104.79 / $173.55 = 60.38% of one box",
+          "FB08 top card against the market box: $104.79 / $257.96 = 40.62% of one market box",
+          "FB08 gap one to two: $104.79 - $97.20 = $7.59; $104.79 / $97.20 = 1.08 times number two",
+          "FB08 gap two to three: $97.20 - $88.42 = $8.78",
+          "FB08 gap five to six: $79.09 - $66.01 = $13.08",
+          "FB08 set value: top 10 $705.70 / $1,263 = 55.87% of the set; $1,263 - $705.70 = $557.30 across the other 142 priced printings",
+          "FB08 repricing: $2,450.08 - $2,082.57 = $367.51; $367.51 / $2,450.08 = 15.00% down in the November 13, 2026 leg",
+          "FB08 Japanese box at MSRP: 24 x 220 yen = 5,280 yen; 5,280 yen / 158.64 yen per dollar = $33.28",
+          "FB08 case in yen: $2,082.57 x 158.64 yen per dollar = 330,378.90 yen",
+          "FB08 split box in yen: $173.55 x 158.64 yen per dollar = 27,531.97 yen",
+          "FB08 top 10 in yen: $705.70 x 158.64 yen per dollar = 111,952.25 yen",
+          "FB08 top card in yen: $104.79 x 158.64 yen per dollar = 16,623.89 yen",
+          "FB08 Super Alternate Art Goten: $1,003.75 / $2,082.57 = 48.20% of the case; $1,003.75 / $173.55 = 5.78 split boxes; $1,003.75 - $705.70 = $298.05 above the whole top 10",
+          "FB08 Broly 088 alt-art premium: $104.79 / $4.15 = 25.25 times the base print; $104.79 - $4.15 = $100.64 above it",
+          "FB08 Gohan 106 alt-art premium: $97.20 / $0.82 = 118.54 times the base print",
+          "FB08 Broly 073 alt-art premium: $88.42 / $0.20 = 442.10 times the base print",
+          "FB08 Kakarot 076 alt-art premium: $79.09 / $0.22 = 359.50 times the base print",
+          "FB08 Gohan 001 alt-art premium: $66.01 / $0.28 = 235.75 times the base print",
+          "FB08 Broly 087 alt-art premium: $48.65 / $1.48 = 32.87 times the base print",
+          "FB08 Goku Jr. 102 alt-art premium: $48.24 / $0.22 = 219.27 times the base print",
+          "FB08 Goten 121 alt-art premium: $42.28 / $25.73 = 1.64 times the base Secret Rare; $42.28 - $25.73 = $16.55 above it",
+          "FB08 Broly 122 alt-art premium: $86.74 / $44.28 = 1.96 times the base Secret Rare",
+          "FB08 FoilKraken November 1, 2026: $111.81 - $98.91 = $12.90; typical box $111.81 against EV $98.91",
+          "FB08 WorthRipping November 23, 2026: $97 / $190 = 51.05% of the box in cards after selling costs",
+          "FB08 four split boxes: 4 x $173.55 = $694.20; $705.70 - $694.20 = $11.50 above four boxes"
+        ],
+        "paragraphs": [
+          "Our shelf, as of November 23, 2026, holds the sealed English case at $2,082.57, which splits to $173.55 a box, $7.23 a pack, and $0.60 a card. The market box, at the TCGplayer market price of $257.96 as of November 22, 2026, runs $10.75 a pack and $0.90 a card, so our case-split box sits $84.41 below the market box, which is 32.72% below it. Twelve market boxes would cost $3,095.52, so the case saves $1,012.95 against buying the same twelve boxes on the open market.",
+          "The top ten together, at $705.70, are 4.07 case-split boxes and 2.74 market boxes, and they are only 33.89% of the case price. That is the honest shape of this set: owning every ranked card outright costs a third of a case, and opening a case buys 288 packs of chance, not the top ten. The top card alone is 60.38% of one case-split box and 40.62% of one market box.",
+          "The alt-art premium is the whole story. The Broly FB08-088 Alternate Art is 25.25 times its own base print, which sits at $4.15, and $100.64 above it. The Gohan FB08-106 Alternate Art is 118.54 times its base print, which sits at $0.82. Only the Secret Rares stay close to their own shadows: the Goten FB08-121 Alternate Art is 1.64 times its base Secret Rare, and the Broly FB08-122 Alternate Art is 1.96 times its base Secret Rare. Buy the number and the finish together, because the name alone tells you nothing about the price.",
+          "Two trackers frame the opening math. FoilKraken, on November 1, 2026, put a typical FB08 box at $111.81 against an expected value of $98.91, a thin edge that fees erase. WorthRipping, on November 23, 2026, put the box at $190 on lowest listings, with $97 of cards inside after selling costs, which is 51.05% of the box, and 94 of 100 boxes losing money. The shelf itself moved recently: the English case fell 15.00% in the November 13, 2026 leg, from $2,450.08 to $2,082.57, a drop of $367.51, and that fall is what put the case-split box $84.41 below the market box."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "Every card in this ranking carries a set code, and the code is the only safe way to buy it. Broly prints four times in FB08, at FB08-073, FB08-085, FB08-086, and FB08-087, plus the Secret Rare at FB08-122, and the Alternate Art of FB08-088 is a different card from the base print of FB08-088, which sits at $4.15. Son Goten prints at FB08-121 three ways, base Secret Rare, Alternate Art, and Super Alternate Art, at $25.73, $42.28, and a stale $1,003.75. Send the number with every order.",
+          "The set codes print on the card itself, with the rarity letter beside the number, and the finish is visible in the art treatment, not the name. On our shelf, as of November 23, 2026, the way to buy sealed FB08 is the case at $2,082.57, split to $173.55 a box, and there is no single English box listed. Do not confuse the main set with the Release Event Cards, set code FB08_PR, released December 19, 2025, whose top card, Son Gohan: Future FB08-108, sits at $9.00. The [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) runs the same checks for the sealed decision."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Five ways to spend on FB08, priced as of November 23, 2026, with the market box at its November 22, 2026 TCGplayer market price. The case-split box wins on per-pack cost, the singles win on certainty, and the Japanese single-card listing wins nothing at all, because it is not a box. Read the failure column before the price column, because every row fails somewhere. The row most buyers should pick is the single, if the goal is a named card, or the case-split box, if the goal is opening the set. The full case only makes sense for a sealed holder or a group split, and the market box only makes sense when our case is gone."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Shelf case-split box",
+              "$173.55",
+              "$7.23",
+              "Opening FB08 at the lowest per-pack cost",
+              "$173.55 for a chase that tops out at $104.79, with no pull rates published"
+            ],
+            [
+              "Market box",
+              "$257.96",
+              "$10.75",
+              "Buying the same box when our case is gone",
+              "$84.41 above our case-split box, and $4.69 a pack above our $7.23"
+            ],
+            [
+              "Full shelf case",
+              "$2,082.57",
+              "$7.23 a pack",
+              "Holding sealed or splitting twelve boxes",
+              "$2,082.57 in one purchase, and the top ten together are only 33.89% of it"
+            ],
+            [
+              "Top ten as singles",
+              "$705.70",
+              "n/a",
+              "Owning the ranked list outright",
+              "$705.70 in one purchase, with no sealed product and no chance at the Super Alternate Art"
+            ],
+            [
+              "Japanese single card at $22.12",
+              "$22.12",
+              "n/a",
+              "Nothing, it is not a box",
+              "One card priced as if it were a box; dividing per-pack math from it is a $22.12 error"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The case fell 15.00% in the last leg, and the shelf can move either way from here"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no case math, and no print split",
+        "note": "From the Warehouse: the question we get most about FB08 is whether the $22.12 Japanese listing is a cheap box, because buyers find it first and do the division in their heads. It is not a box, it is one card, and the division gives a per-pack cost that never existed. The second question is which Broly to buy, because four Brolys and three Gotens share names and only the numbers separate them. On this shelf, on this date, the case-split box is $84.41 below the market box, which is the only number in this guide no other list can give you, because no other list holds the case.",
+        "paragraphs": [
+          "The top three results for this query all do the same job: they rank cards by price. Hoshino ranks by its own sales-based price, TCGPursuit ranks by TCGplayer market, and TickerMint prices the pack and the box against the same market. None of them holds a case, none of them divides a case into boxes, and none of them tells you what the box on a real shelf costs. Their headings are a floor, not the article.",
+          "Four things only this page owns. First, the live shelf: a sealed English case at $2,082.57, split to $173.55 a box, with no single box listed, as of November 23, 2026. Second, the case math: $7.23 a pack against a $10.75 market-box pack and an $11.92 market pack, with $1,012.95 saved against twelve market boxes. Third, the print split: nine of the ten are alt-arts, and the same number can span $100.64 between finishes. Fourth, the stale grail: the Super Alternate Art Goten is flagged, dated, and kept out of the total."
+        ]
+      },
+      {
+        "h": "The chase ladder: one card above the list, then a flat top ten",
+        "note": "From the Warehouse: what we see in allocation is that buyers ask for the Goten Super Alternate Art by name and then stop listening when we say the price is stale, because a four-figure card feels like a plan. It is not a plan, it is a 36-day-old number with no fresh market behind it. The ladder that actually pays is the five-card top: Broly, Gohan, Broly, Broly, and Kakarot, all alt-arts, all under $105, and all with a fresh market price dated this week. Chase the ladder you can verify, not the grail you cannot.",
+        "paragraphs": [
+          "The ladder has five rungs. The top rung, above the list, is the Son Goten FB08-121 Super Alternate Art at a stale $1,003.75, dated October 18, 2026, with PSA 10 copies listed from $863 to $1,300 and no fresh TCGplayer market price. It is 48.20% of the whole case and 5.78 case-split boxes, and it is $298.05 above the entire top ten. Treat it as a trophy, not a target, until a fresh market price appears.",
+          "The second rung is the five-card top, together $456.24, and the third rung is the second five, $249.46 together, led by the Gohan FB08-001 Leader Alternate Art at $66.01. The fourth rung is the base Secret Rares, Goten FB08-121 at $25.73 and Broly FB08-122 at $44.28, the cheapest way to own the two Secret Rare arts. The fifth rung is the base set itself, where the alt-art base prints sit between $0.20 and $4.15. The ladder falls fast at the bottom and flat at the top: the gap from first to second is $7.59, and the gap from fifth to sixth is $13.08, the largest step in the list. The [FB07 best cards guide](/blog/fb07-best-cards/) ranks the previous set the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: a flat top, a stale grail, and a single-card trap",
+        "paragraphs": [
+          "Concentration is the first risk. Alt-arts are 93.73% of the top ten, so the ranking is a bet on one finish, and a market that cools on alt-arts takes nine of the ten down together. The base prints behind them, some as low as $0.20, will not cushion the fall. Movement is the second risk, and it is already visible: in the seven days to November 23, 2026, Son Goku Jr. FB08-102 Alternate Art rose 30.3% to $48.24, while Son Goku FB08-007 fell 21.9% to $14.05 and Son Goten FB08-008 fell 15.9% to $14.02.",
+          "Fakes and reseals are the third risk, and FB08 is a target because the top card is over $100 and the case is over $2,000. Check the seal before opening, photograph the box, and keep the seal intact until you are sure, because a reseal claim is only provable while the seal is unbroken. The Japanese single-card trap is the fourth risk: the $22.12 listing is one card, not a box, and anyone who divides it into per-pack costs will buy a fantasy."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and where FB08 sits in the series",
+        "paragraphs": [
+          "Japan and English are different products with the same card numbers. Japan released FB08 on December 13, 2025, in boxes of 24 packs of 6 cards at 220 yen a pack, so 5,280 yen at retail, which converts to $33.28 at the ECB November 20, 2026 fixing of 158.64 yen per dollar. English released a day earlier, on December 12, 2025, in boxes of 24 packs of 12 cards plus a digital code per pack. The Japanese box holds half the cards, and Japanese cards are not legal at official English events, so the language decision comes before the price decision.",
+          "FB08 is the eighth main Fusion World booster, sitting between FB07 Wish for Shenron and FB09 Dual Evolution. The next set raised the stakes: FB09 carries three Secret Rares instead of two, and its Gogeta Super Alternate Art prints were read at $1,699, $1,999, and $2,100 on the TCGIndex read of November 17, 2026. The [FB09 investment guide](/blog/fb09-investment/) and the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) run the same division on the newer set, and the [FB07 investment guide](/blog/fb07-investment/) covers the set before this one. Bandai publishes no pull rates for FB08, and no God Pack or lottery pull is published for this set, so no honest expected-value math exists for opening it."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer who wants the Super Alternate Art Goten at a verified current price, because no such price exists as of November 23, 2026, and the last one is 36 days old. It is not for a player who needs Japanese cards for an English event, because Japanese cards are not legal there, and the cheaper Japanese box does not solve that. It is not for a buyer who wants a guaranteed return from opening boxes, because WorthRipping puts 94 of 100 FB08 boxes losing money, and the median box holds $67 of cards. It is not for a collector who wants the whole set as singles without paying for the alt-arts, because the top ten are 55.87% of the $1,263 set value and the alt-arts are the set."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Broly FB08-088 Alternate Art, buy the single at $104.79, which is 60.38% of one case-split box, and do not open boxes for it; Bandai publishes no pull rates and the card sits $7.59 above the second card",
+          "If the job is the box, pay $173.55 on our case split, or $7.23 a pack, and treat the chase as a bonus; the box is $84.41 below the $257.96 market box",
+          "If the job is a case, divide it first: the case is $2,082.57 for 12 boxes, $7.23 a pack, and it saves $1,012.95 against twelve market boxes, so confirm the $173.55 per-box figure at checkout",
+          "If the job is the whole top ten, buy the singles at $705.70: four case-split boxes cost $694.20 and still leave the chase to chance, while the singles are exact",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and remember the $22.12 listing is a single card, not a box",
+          "Check the number and the finish on any Broly before you pay: the FB08-088 Alternate Art is $104.79, the base print is $4.15, and the two prints sit $100.64 apart",
+          "Check the number and the finish on any Goten before you pay: the FB08-121 Alternate Art is $42.28, the base Secret Rare is $25.73, and the Super Alternate Art is a stale $1,003.75 from October 18, 2026",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the FB08 best-cards checklist",
+        "paragraphs": [
+          "Work the list in order, and stop at the first line that matches your goal. The numbers in it are the same numbers in the money layer, so any line that does not match the math above is a line to question before you pay. The [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) runs the same checklist shape on the set before this one, for buyers comparing the two."
+        ]
+      }
+    ],
+    "slug": "fb08-best-cards",
+    "takeaway": [
+      "The FB08 top ten, on the November 23, 2026 read, totals $705.70, with the Broly FB08-088 Alternate Art at $104.79. The Broly is $104.79 of it, 14.85% of the list, and the nine alt-arts in the top ten together are $661.42, 93.73%, while the one base print, the Broly FB08-122 Secret Rare, is $44.28.",
+      "On our shelf as of November 23, 2026, the sealed English case is $2,082.57, which splits to $173.55 a box, $7.23 a pack, and there is no single English box listed. The case-split box sits $84.41 below the $257.96 market box, and the case saves $1,012.95 against twelve market boxes.",
+      "It is worth buying as the set to open, sealed or split, and it is not worth buying as a way to own one named card. Bandai publishes no pull rates, the Broly alone is 60.38% of one case-split box, and the Super Alternate Art Goten above the list carries a stale October 18, 2026 price of $1,003.75 with no fresh market behind it.",
+      "The ladder is flat at the top: the gap from first to second is $7.59, the gap from fifth to sixth is $13.08, and the top five together are $456.24. Four facts the other lists miss are covered on this page: the live shelf, the case division, the print split, and the stale grail kept out of the total.",
+      "Companion guide: the [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) runs the same verdict, and the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [FB08 investment guide](/blog/fb08-investment/) runs the same division, where the case-split box sits $84.41 below the market box.",
+      "For the set before this one, the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the ten best Wish for Shenron cards, new this cycle, and the [FB07 investment guide](/blog/fb07-investment/) prices the set beside this one.",
+      "For the next set in the series, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) prices the newer set beside this one, and the [FB09 investment guide](/blog/fb09-investment/) runs the same division on the three-Secret-Rare set.",
+      "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them."
     ]
   },
   "fb08-investment": {
@@ -22882,7 +23336,8 @@ export const POSTS: Record<string, BlogPost> = {
       "On November 4, 2026, the Warehouse FB08 Japanese box costs $26.02, which is $1.08 a pack and $0.18 a card. Buy it to open Fusion World cheaply, buy the English case at $204.17 a box only for English boxes in bulk, and buy the single for any named Secret Rare or Super Rare alt-art.",
       "Prices move; the method does not. Choose the language first, divide the case in that language, and never budget for a product the shelf does not stock.",
       "For the wider Japanese Fusion World ladder, see [Best Japanese Dragon Ball Fusion World Box to Buy](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/). For the predecessor set, see [FB07 Wish for Shenron Buyer's Guide](/blog/fb07-wish-for-shenron-buyers-guide/). For the beginner's route into the game, see [Dragon Ball Fusion World Beginners Guide](/blog/dragon-ball-fusion-world-beginners-guide/). For the successor set, see [FB09 Dual Evolution Buyer's Guide](/blog/fb09-dual-evolution-buyers-guide/). For the dated verdict, see [Is FB08 Worth Buying?](/blog/is-fb08-worth-buying/).",
-      "New this cycle: the [FB08 Saiyan's Pride investment guide](/blog/fb08-investment/) re-prices this shelf after the November 13 repricing: the English case is now $2,082.57, or $173.55 a box, and the $22.12 Japanese listing is a single card, not a box."
+      "Companion guide: the [FB08 Saiyan's Pride investment guide](/blog/fb08-investment/) re-prices this shelf after the November 13 repricing: the English case is now $2,082.57, or $173.55 a box, and the $22.12 Japanese listing is a single card, not a box.",
+      "Companion guide: the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the ten best Saiyan's Pride cards, top ten $705.70, with the Broly Alternate Art at $104.79, on the November 23, 2026 read."
     ]
   },
   "fb09-dual-evolution-buyers-guide": {
@@ -25352,8 +25807,9 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Shenron set, sealed or opened, and it is not worth buying as a way to own one named card. The Son Goku: GT alt-art sat at $786.58 on TCGplayer market as of November 11, 2026, which is 28.21 Japanese boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is worth buying with no format deadline attached: Fusion World has no rotation, and no FB07 card is banned or restricted. The banned and restricted list is 3 banned and 5 limited to one copy, last changed in March 2026, and every card on it comes from FB01, FB02, FB04 or SB01. The Bulma holofoil at $346.00, the set's second most valuable card, is not a Secret Rare, which is the surprise the chase tables hide.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, unchanged since November 4, and the marketplace references as of November 11, 2026. The Fusion World shelf did not follow the One Piece English shelf's 20 percent repricing, which is the fact that outlives every price on this page: shelves reprice on their own schedules, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) prices Saiyan's Pride the same way, with the cheapest Japanese box against the dearest English case. For the price-and-math companion, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) divides the same shelf set by set, and the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) ranks every Japanese box to per-pack prices.",
-      "New this cycle: the [FB07 Wish for Shenron investment guide](/blog/fb07-investment/) re-prices this shelf after the November 13 repricing and corrects one fact on this page: the $23.70 Japanese listing is a single card, not a box, so the per-pack figures above for it do not apply."
+      "Companion guide: the [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) prices Saiyan's Pride the same way, with the cheapest Japanese box against the dearest English case. For the price-and-math companion, the [FB07 Wish for Shenron buyer's guide](/blog/fb07-wish-for-shenron-buyers-guide/) divides the same shelf set by set, and the [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) ranks every Japanese box to per-pack prices.",
+      "Companion guide: the [FB07 Wish for Shenron investment guide](/blog/fb07-investment/) re-prices this shelf after the November 13 repricing and corrects one fact on this page: the $23.70 Japanese listing is a single card, not a box, so the per-pack figures above for it do not apply.",
+      "Companion guide: the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the ten best Wish for Shenron cards, top ten $1,810.66, with the Son Goku: GT Alternate Art at $781.93, on the November 22, 2026 read."
     ]
   },
   "is-fb08-worth-buying": {
@@ -25535,9 +25991,10 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Saiyan set, sealed or opened, and it is not worth buying as a way to own one named card or to make the money back by opening. The Broly alt-art sat at $111.94 on TCGplayer market as of November 12, 2026, which is 4.30 Japanese boxes, and FoilKraken's November 2026 report put the typical opened box at $111.81 against a $258.90 sealed box, an expected value of $98.91, with only 3 percent of simulated boxes beating the sealed price. Buy the single, or buy the box for the set.",
       "It is worth buying with no format deadline attached: Fusion World has no rotation, and no FB08 card is banned or restricted. English released first, on December 12, 2025, a day ahead of Japanese on December 13, 2025, the first set in FB01 through FB10 where English came first, so the English premium is a language premium, not an early-print premium.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, unchanged since November 4, and the marketplace references as of November 11 to 12, 2026. The Fusion World shelf did not follow the One Piece English shelf's 20 percent repricing, which is the fact that outlives every price on this page: shelves reprice on their own schedules, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) prices Wish for Shenron the same way, with the Shenron chase against the box. For the price-and-math companion, the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices.",
-      "New this cycle: the [is FB09 worth buying guide](/blog/is-fb09-worth-buying/) prices Dual Evolution the same way, with the Gogeta chase against the box and the $402.50 case-box against the $270.04 market box.",
-      "New this cycle: the [FB08 Saiyan's Pride investment guide](/blog/fb08-investment/) re-prices this shelf after the November 13 repricing and corrects one fact on this page: the $22.12 Japanese listing is a single card, not a box, so the per-pack figures above for it do not apply."
+      "Companion guide: the [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) prices Wish for Shenron the same way, with the Shenron chase against the box. For the price-and-math companion, the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices.",
+      "Companion guide: the [is FB09 worth buying guide](/blog/is-fb09-worth-buying/) prices Dual Evolution the same way, with the Gogeta chase against the box and the $402.50 case-box against the $270.04 market box.",
+      "Companion guide: the [FB08 Saiyan's Pride investment guide](/blog/fb08-investment/) re-prices this shelf after the November 13 repricing and corrects one fact on this page: the $22.12 Japanese listing is a single card, not a box, so the per-pack figures above for it do not apply.",
+      "Companion guide: the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the ten best Saiyan's Pride cards, top ten $705.70, with the Broly Alternate Art at $104.79, on the November 23, 2026 read."
     ]
   },
   "is-fb09-worth-buying": {
