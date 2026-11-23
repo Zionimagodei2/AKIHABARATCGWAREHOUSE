@@ -32403,7 +32403,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the Charizard set to open, sealed, and it is not worth buying as a way to own the Charizard ex Special Art Rare or to make the money back by opening. The Charizard sat at $176.13 on TCGplayer on November 12, 2026, which is 1.36 boxes, and the Charizard ex Ultra Rare at $41.11 is 0.32 of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $22.84 in seven days, from $152.29 to $129.45, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,454.15 to $1,236.03. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of October 5 to November 13, 2026. The box now ties the SV1a Triplet Beat box at $129.45 to the cent, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV3a Raging Surf worth buying guide](/blog/is-sv3a-worth-buying/) runs the same verdict on the cheaper sibling, where no card costs a box. New this cycle: the [SV3 Ruler of Black Flame investment guide](/blog/sv3-investment/) prices the same shelf as an investment case, box $129.45 against a case that divides to $103.00 a box."
+      "For the price-and-math companion, the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV3a Raging Surf worth buying guide](/blog/is-sv3a-worth-buying/) runs the same verdict on the cheaper sibling, where no card costs a box. New this cycle: the [SV3 Ruler of Black Flame investment guide](/blog/sv3-investment/) prices the same shelf as an investment case, box $129.45 against a case that divides to $103.00 a box.",
+      "Best cards: the [SV3 best cards guide](/blog/sv3-best-cards/) ranks the ten worth chasing, Charizard ex SAR $178.63 on the November 22, 2026 read, top ten $324.99."
     ]
   },
   "is-sv3a-worth-buying": {
@@ -32599,7 +32600,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the fall in mind: the box dropped $15.40 in seven days, from $102.64 to $87.24, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,153.06 to $980.10. It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 14, 2026, and the marketplace references as of September 30 to November 13, 2026. The box now ties the SV2D Clay Burst box at $87.24 to the cent, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) runs the November 7 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV3 Ruler of Black Flame worth buying guide](/blog/is-sv3-worth-buying/) runs the same verdict on the dearer sibling, where the chase is one Charizard at $176.13.",
-      "New this cycle: the [SV3a Raging Surf investment guide](/blog/sv3a-investment/) runs the case division and the flat chase, box $87.24 against a case that divides to $81.68 a box and saves $66.78."
+      "Companion guide: the [SV3a Raging Surf investment guide](/blog/sv3a-investment/) runs the case division and the flat chase, box $87.24 against a case that divides to $81.68 a box and saves $66.78.",
+      "Best cards: the [SV3a best cards guide](/blog/sv3a-best-cards/) ranks the ten worth chasing, Parasol Lady SAR $37.39 on the November 22, 2026 read, top ten $228.75."
     ]
   },
   "is-sv4a-worth-buying": {
@@ -59655,7 +59657,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the falling chase in mind: the Chien-Pao dropped $0.43 in six days on the same TCGplayer source, the Cardfolio quote sits $4.47 below it, and the box dropped $14.24 on November 13, 2026. Divide before you buy, every time.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of September 30 to November 18. The box sits $7.45 above the 11,673 yen Japan ask, and the complete set at $239 is 2.96 boxes.",
       "For the price-and-math companion, the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) runs the same shelf side by side, and the [is SV2P worth buying guide](/blog/is-sv2p-worth-buying/) runs the same verdict after the November 13 repricing.",
-      "New this cycle: the [SV3 Ruler of Black Flame investment guide](/blog/sv3-investment/) prices the next set in the series, box $129.45 against a case that divides to $103.00 a box."
+      "New this cycle: the [SV3 Ruler of Black Flame investment guide](/blog/sv3-investment/) prices the next set in the series, box $129.45 against a case that divides to $103.00 a box.",
+      "Best cards: the [SV3 best cards guide](/blog/sv3-best-cards/) ranks the next set's ten worth chasing, Charizard ex SAR $178.63 on the November 22, 2026 read, top ten $324.99."
     ]
   },
   "sv2p-snow-hazard-buyers-guide": {
@@ -59841,6 +59844,249 @@ export const POSTS: Record<string, BlogPost> = {
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Clay Burst guide](/blog/sv2d-clay-burst-buyers-guide/) prices the twin the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
       "New this cycle: the [SV4K Ancient Roar buyer's guide](/blog/sv4k-ancient-roar-buyers-guide/) prices the October 2023 set at $91.61 a box, with a case that saves $116.52, and the Roaring Moon ex SAR at $40.22, or 0.44 times a box.",
       "New this cycle: the [is SV2P Snow Hazard worth buying guide](/blog/is-sv2p-worth-buying/) runs the same numbers as a verdict: yes sealed after the fifteen percent fall, the case saves $158.56, and the top two cards together cost $66.38, or 0.82 of a box."
+    ]
+  },
+  "sv3-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Charizard ex, the Special Art Rare numbered 134/108, at $178.63 on the November 22, 2026 market read, checked November 23, 2026. Scryda carries that read and Double Holo agrees at $178.63 on its November 18, 2026 read, while TickerMint's TCGplayer record has it at $178.11 on November 16, 2026, so the number is corroborated three ways within $0.52. It is 54.96% of the top ten and 43.57% of the set's singles value of $409.99, and it is 1.38 boxes at our $129.45 box price, so the top card alone costs more than a whole box.",
+        "q": "What is the most valuable SV3 card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $178.63, which is 1.38 boxes at our $129.45 box price, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $324.99, which is 2.51 boxes, and the Charizard is 54.96% of that total, so a box with no Charizard has almost nothing above $41.11 to rescue it. Buy the single if the Charizard is the card you want, and buy the box only if you want to open Ruler of the Black Flame.",
+        "q": "Should I buy an SV3 box to pull the Charizard ex SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 141 cards, released July 28, 2023, in boxes of 30 packs of 5 cards. English Obsidian Flames, released August 11, 2023, runs a 197-card printed set with 230 cards in total because it folds Ruler of the Black Flame together with other Japanese sets, it is sold in boxes of 36 packs of 10 cards, and its chase is the same Charizard artwork as a Special Illustration Rare numbered 223/197, at $82.64 on the November 22, 2026 read, which is $95.99 below the Japanese SAR. Japanese cards are not legal at official English events, and the SV3 cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Obsidian Flames?"
+      }
+    ],
+    "h1": "SV3 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV3 Ruler of Black Flame is Charizard ex, the Special Art Rare numbered 134/108, at $178.63 on the November 22, 2026 market read, checked November 23, 2026, and the ten best together are $324.99. On our shelf, as of November 23, 2026, the SV3 box is $129.45 and the sealed case of 12 boxes is $1,236.03. Buy the box to open Ruler of Black Flame, buy the single for the Charizard.",
+      "Ruler of the Black Flame, set code SV3, is 141 cards: 108 in the main set plus 33 secret rares, released in Japan on July 28, 2023, in boxes of 30 packs of 5 cards at 180 yen a pack. Its English counterpart, Obsidian Flames, followed on August 11, 2023, but it folds Ruler of the Black Flame together with other Japanese sets, and that fold is where buyers lose money. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single."
+    ],
+    "metaDescription": "SV3 Ruler of Black Flame best cards, Nov 22, 2026: Charizard ex SAR $178.63, top ten $324.99, box $129.45, case $1,236.03.",
+    "metaTitle": "SV3 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Charizard, then a long slope",
+        "paragraphs": [
+          "Every value below is from the Scryda market read of November 22, 2026, checked November 23, 2026, cross-checked against Double Holo's November 18, 2026 read, which agrees on all ten cards to within five cents. The ten are: Charizard ex SAR 134/108 at $178.63, Charizard ex UR 139/108 at $41.11, Pidgeot ex SAR 136/108 at $27.40, Charizard ex SR 125/108 at $18.80, Ninetales AR 110/108 at $15.93, Cleffa AR 113/108 at $14.08, Eiscue ex SAR 133/108 at $8.52, Revavroom ex SAR 135/108 at $7.78, Geeta SAR 137/108 at $6.66 and Basic Fire Energy UR 141/108 at $6.08.",
+          "The list is one card, then a slope, and the slope is steeper than in any set we have ranked this season. The Charizard alone is $178.63, 54.96% of the top ten and 43.57% of the set's singles value of $409.99 on the November 22, 2026 read. The top three together are $247.14, 76.05% of the top ten, and the top five are $281.87, 86.73%. One of each of the 141 cards is $409.99, so the top ten are 79.27% of the set and the other 131 together are $85.00. The gap from number one to number two is $137.52, and the Charizard is 4.35 times the second card.",
+          "The top card has barely moved in ten days. Charizard ex was $176.13 on the November 12, 2026 read, so the November 22 figure of $178.63 is up $2.50, 1.42%, and the card has held between $175 and $178.63 since October 20, 2026. TickerMint's TCGplayer record has it at $178.11 on November 16, 2026, $0.52 below the November 22 read, 0.29% apart. The complete set was $407.97 on the earlier cycle's read, so the November 22 total of $409.99 is up $2.02, and OGCards agrees at $409.20 on its November 22, 2026 read, $0.79 below Scryda. A graded copy is a different market: Double Holo has the PSA 10 at $351.82 on November 16, 2026, 1.97 times the raw price."
+        ]
+      },
+      {
+        "h": "The money layer: the case is the cheapest box on the shelf",
+        "math": [
+          "SV3 box per pack: $129.45 / 30 packs = $4.32 per pack",
+          "SV3 box per card: $129.45 / 150 cards = $0.86 per card",
+          "SV3 case per box: $1,236.03 / 12 boxes = $103.00 per box",
+          "SV3 case per pack: $1,236.03 / 360 packs = $3.43 per pack",
+          "SV3 case per card: $1,236.03 / 1,800 cards = $0.69 per card",
+          "SV3 twelve singles: 12 x $129.45 = $1,553.40",
+          "SV3 case saving: $1,553.40 - $1,236.03 = $317.37 across the case",
+          "SV3 saving per box: $317.37 / 12 = $26.45 per box",
+          "SV3 saving share: $317.37 / $1,553.40 = 20.43% saved",
+          "SV3 official box: 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV3 official pack: 180 yen / 158.64 yen per dollar = $1.13",
+          "SV3 box vs official: $129.45 / $34.04 = 3.80 times official, from the rounded $34.04 figure; $129.45 - $34.04 = $95.41 above official",
+          "SV3 case box vs official: $103.00 / $34.04 = 3.03 times official, from the rounded $103.00 and $34.04 figures; $103.00 - $34.04 = $68.96 above official",
+          "SV3 Cardfolio market box, Nov 21, 2026: $135",
+          "SV3 Cardfolio market box per pack: $135.00 / 30 packs = $4.50 per pack",
+          "SV3 shelf box vs Cardfolio: $135.00 - $129.45 = $5.55 below it; $5.55 / $135.00 = 4.11% below it",
+          "SV3 case box vs Cardfolio market box: $135.00 - $103.00 = $32.00 below it; $32.00 / $135.00 = 23.70% below it",
+          "SV3 twelve Cardfolio boxes: 12 x $135.00 = $1,620.00; $1,620.00 - $1,236.03 = $383.97 below twelve market boxes",
+          "SV3 TCGplayer market box, Nov 8, 2026: $147.02; $147.02 - $129.45 = $17.57 below it; $17.57 / $147.02 = 11.95% below it",
+          "SV3 cheapest US listing, DexCompare: $140.40; $140.40 - $129.45 = $10.95 below it; $10.95 / $140.40 = 7.80% below it",
+          "SV3 top 10 total: $178.63 + $41.11 + $27.40 + $18.80 + $15.93 + $14.08 + $8.52 + $7.78 + $6.66 + $6.08 = $324.99",
+          "SV3 top 3 total: $178.63 + $41.11 + $27.40 = $247.14; $247.14 / $324.99 = 76.05% of the top 10",
+          "SV3 top 5 total: $178.63 + $41.11 + $27.40 + $18.80 + $15.93 = $281.87; $281.87 / $324.99 = 86.73% of the top 10",
+          "SV3 ranks 4 and 5 total: $18.80 + $15.93 = $34.73; $34.73 / $324.99 = 10.69% of the top 10",
+          "SV3 ranks 6 to 10 total: $14.08 + $8.52 + $7.78 + $6.66 + $6.08 = $43.12; $43.12 / $324.99 = 13.27% of the top 10",
+          "SV3 bottom 3 total: $7.78 + $6.66 + $6.08 = $20.52; $20.52 / $324.99 = 6.31% of the top 10",
+          "SV3 Charizard share of top 10: $178.63 / $324.99 = 54.96% of the top 10",
+          "SV3 top 10 vs set value: $324.99 / $409.99 = 79.27% of the set value",
+          "SV3 Charizard share of set value: $178.63 / $409.99 = 43.57% of the set value",
+          "SV3 rest of set: $409.99 - $324.99 = $85.00 across the other 131 priced printings",
+          "SV3 Charizard against the box: $178.63 / $129.45 = 1.38 boxes",
+          "SV3 Charizard against the case box: $178.63 / $103.00 = 1.73 boxes, from the rounded $103.00 figure",
+          "SV3 top 10 against the box: $324.99 / $129.45 = 2.51 boxes",
+          "SV3 top 10 against the case: $324.99 / $1,236.03 = 0.26 times the case",
+          "SV3 top 10 minus one box: $324.99 - $129.45 = $195.54",
+          "SV3 two boxes vs top 10: 2 x $129.45 = $258.90; $324.99 - $258.90 = $66.09 below the top ten",
+          "SV3 set value in boxes: $409.99 / $129.45 = 3.17 boxes",
+          "SV3 three boxes: 3 x $129.45 = $388.35; $409.99 - $388.35 = $21.64 below the set as singles",
+          "SV3 four boxes: 4 x $129.45 = $517.80; $517.80 - $409.99 = $107.81 above the set as singles",
+          "SV3 gap number one to number two: $178.63 - $41.11 = $137.52; $178.63 / $41.11 = 4.35 times number two",
+          "SV3 gap number two to number three: $41.11 - $27.40 = $13.71",
+          "SV3 gap number three to number four: $27.40 - $18.80 = $8.60",
+          "SV3 gap number four to number five: $18.80 - $15.93 = $2.87",
+          "SV3 gap number five to number six: $15.93 - $14.08 = $1.85",
+          "SV3 Charizard ex SAR vs SR: $178.63 / $18.80 = 9.50 times the Super Rare; $178.63 - $18.80 = $159.83",
+          "SV3 Charizard ex SAR vs UR: $178.63 / $41.11 = 4.35 times the Ultra Rare; $178.63 - $41.11 = $137.52",
+          "SV3 Charizard ex SAR vs RR: $178.63 / $2.09 = 85.47 times the Double Rare; $178.63 - $2.09 = $176.54",
+          "SV3 Charizard in yen: $178.63 x 158.64 yen per dollar = 28,337.86 yen",
+          "SV3 top 10 in yen: $324.99 x 158.64 yen per dollar = 51,556.41 yen",
+          "SV3 set value in yen: $409.99 x 158.64 yen per dollar = 65,040.81 yen",
+          "SV3 English Charizard gap: $178.63 - $82.64 = $95.99; $178.63 / $82.64 = 2.16 times the English SIR",
+          "SV3 English Charizard against the box: $82.64 / $129.45 = 0.64 boxes",
+          "SV3 English Charizard share of Japanese: $82.64 / $178.63 = 46.26% of the Japanese SAR",
+          "SV3 Charizard PSA 10 vs raw: $351.82 / $178.63 = 1.97 times the raw price; $351.82 - $178.63 = $173.19",
+          "SV3 Charizard move Nov 12 to Nov 22: $178.63 - $176.13 = $2.50 up; $2.50 / $176.13 = 1.42% up",
+          "SV3 TCGplayer Charizard cross-check: $178.63 - $178.11 = $0.52; $0.52 / $178.63 = 0.29% apart",
+          "SV3 SNKRDUNK Charizard ask in dollars: 20,555 yen / 158.64 yen per dollar = $129.57; $178.63 - $129.57 = $49.06 above the ask",
+          "SV3 Japan Figure Charizard gap: $178.63 - $132.50 = $46.13; $46.13 / $178.63 = 25.82% below the market read",
+          "SV3 Deck Build Box top 3: $11.54 + $10.24 + $4.98 = $26.76; $26.76 / $33.18 = 80.65% of the box price",
+          "SV3 Deck Build Box vs set cost: $33.18 - $32.65 = $0.53 above the $32.65 cost to collect one of each priced card",
+          "SV3 OGCards set estimate vs Scryda: $409.99 - $409.20 = $0.79; $0.79 / $409.99 = 0.19% apart",
+          "SV3 next two below the top ten: $5.54 + $5.11 = $10.65"
+        ],
+        "paragraphs": [
+          "The box is $129.45 for 30 packs of 5 cards, $4.32 a pack and $0.86 a card. The case is $1,236.03 for a printed 12 boxes, $103.00 a box, $3.43 a pack and $0.69 a card, $317.37 less than twelve singles at $1,553.40, or $26.45 a box, 20.43% saved. Both prices are from the live shelf, read November 23, 2026, and the case listing prints the 12-box count in its title, so the $103.00 per-box figure is a division, not an assumption. The [SV3 booster box](/product/sv3-ruler-of-black-flame-booster-box-japanese-pokemon-card/) and the [SV3 sealed case](/product/sv3-ruler-of-black-flame-sealed-case-12-boxes-japanese-pokemon-card/) are the listings these divisions run on.",
+          "Against the market, the shelf sits below every guide box we checked. Cardfolio lists the sealed box at $135 on November 21, 2026, so our box sits $5.55 below it, 4.11% below, and our case box sits $32.00 below it, 23.70% below. Twelve Cardfolio boxes would cost $1,620.00, so the case is $383.97 below them. The TCGplayer market box is $147.02 on November 8, 2026, so our box is $17.57 below it, 11.95% below, and the cheapest US listing on DexCompare is $140.40, so our box is $10.95 below that too, 7.80% below. The official price frames all of it: 5,400 yen converts to $34.04 at 158.64 yen per dollar, the European Central Bank rate of November 20, 2026, so our box is 3.80 times official. The [SV3 Deck Build Box](/product/sv3-deck-build-box-ruler-of-black-flame-japanese-pokemon-card/) is a different product at $33.18: its top three cards are $26.76 together, 80.65% of the box price, and the cost to collect one of each of its 17 priced cards is $32.65, so the box sits $0.53 above it."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards. The set code is SV3, and the set runs 141 cards: 108 in the main set plus 33 secrets numbered 109 to 141: 12 Art Rares, 12 Super Rares, 6 Special Art Rares and 3 Ultra Rares. The six Special Art Rares are Eiscue ex, Charizard ex, Revavroom ex, Pidgeot ex, Geeta and Poppy, and the three Ultra Rares are Charizard ex, Artazon and Basic Fire Energy. Match the number, not just the name: Charizard ex prints four times, the Double Rare at 066/108 for $2.09, the Super Rare at 125/108 for $18.80, the Special Art Rare at 134/108 for $178.63 and the Ultra Rare at 139/108 for $41.11, so the SAR is 9.50 times the Super Rare and 85.47 times the Double Rare.",
+          "First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count makes the $103.00 per-box figure a division, not an assumption. Second, check the condition grade: the same collector number can carry a worn copy at a fraction of the clean price, so a low price can be wear, not a bargain. Third, do not confuse the Deck Build Box with the booster box: it holds ten SV3 packs beside a fixed 38-card set, and its chase is Radiant Charizard at $11.54, not the Charizard ex SAR. The [SV3 buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) walks the same checks, and the [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: seven ways to spend on SV3. The single row is the only row that buys the card instead of the chance: the Charizard SAR is 1.38 boxes, and the top ten together are 2.51 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase, and the recovery is to buy the single.",
+          "Read the case row as a division, not a promise: it saves $26.45 a box only if twelve boxes are wanted. The set-as-singles row buys the whole set outright at one of each: three boxes cost $388.35 against $409.99 for the set, $21.64 below it, and still leave the chase to chance, while four boxes cost $517.80, $107.81 above it. The market box row is a reference price, not a listing on this shelf, and the Deck Build Box row is a different product with a different chase. The wait row costs $0, and on the last read it saved nothing: the Charizard rose $2.50 and the set moved only $2.02. The [is SV3 worth buying guide](/blog/is-sv3-worth-buying/) runs the same verdict, and the [sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows the case division across sets."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV3 box",
+              "$129.45",
+              "$4.32",
+              "Opening Ruler of the Black Flame in Japanese",
+              "$129.45 for a chase that tops out at $178.63"
+            ],
+            [
+              "SV3 case (12)",
+              "$1,236.03",
+              "$103.00 a box",
+              "Holding or splitting twelve boxes",
+              "$1,236.03 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$178.63 Charizard ex SAR",
+              "n/a",
+              "Owning the chase card",
+              "1.38 boxes for one card"
+            ],
+            [
+              "The set as singles",
+              "$409.99 one of each",
+              "n/a",
+              "Owning all 141 cards with nothing to chance",
+              "$409.99 in one purchase; no sealed product"
+            ],
+            [
+              "SV3 Deck Build Box",
+              "$33.18",
+              "n/a",
+              "Ten SV3 packs plus a fixed 38-card set",
+              "Its chase is Radiant Charizard at $11.54, not the SAR"
+            ],
+            [
+              "Cardfolio market box",
+              "$135",
+              "$4.50",
+              "The market box price",
+              "A guide estimate, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no trap, no case math",
+        "note": "From the Warehouse: the question we get most about SV3 is whether the box is still the way to the Charizard, because every ranking list leads with the Charizard and never says what the box costs. It is not the way to the card. The Charizard is 1.38 boxes, the top ten together are 2.51 boxes, and no box guarantees any secret rare, so the box is the way to open Ruler of the Black Flame and the single is the way to own the Charizard. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $317.37 against twelve singles, and it divides to $103.00 a box.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and two of the three are stale. The first, Scryda, has the fresh November 22, 2026 prices and the complete set at $409.99, but it ranks cards only and carries no box, no case and no decision. The second, Samurai Sword, ranks by SNKRDUNK asks read October 5, 2026, puts the Charizard ask at 20,555 yen, which converts to $129.57, and its asks are asking prices, not sales, so the Charizard looks $49.06 cheaper than the market read. The third, Japan Figure, prices from its June 8, 2026 update and puts the Charizard at $132.50, $46.13 below the November 22 read.",
+          "The gap this page owns starts with a fresh November 22 read, the top ten from one source with the top card cross-checked against two more. Second is the shelf: three live prices and the case divisions, $103.00 a box against $129.45 single. Third is the numbering trap: Charizard ex prints four times and the name alone spans an 85-to-1 price range. Fourth is the ask trap: a SNKRDUNK ask is a seller's opening price, and the lowest ask sits $49.06 below the market read. One more trap sits in the search results: several price pages default to the English Obsidian Flames printing at $82.64, and a reader who copies that figure into the Japanese list understates the SAR by $95.99. The [SV3a best cards guide](/blog/sv3a-best-cards/) runs the same checks for the sister set."
+        ]
+      },
+      {
+        "h": "The chase ladder: one Charizard, then a step, then a floor",
+        "note": "From the Warehouse: what we see in chat is buyers asking for the Charizard without a number, and four prints at four prices is exactly how the wrong one gets bought. The SAR is $178.63, the Ultra Rare is $41.11, the Super Rare is $18.80 and the Double Rare is $2.09, and a listing that says Charizard ex without a number has said nothing about the price. The same goes for Pidgeot ex: the SAR is $27.40, so the number is the price. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is one card. Charizard ex SAR is $178.63, 54.96% of the top ten and 43.57% of the set's singles value, and the gap to number two is $137.52. The second and third rungs are Charizard ex UR at $41.11 and Pidgeot ex SAR at $27.40, $68.51 together, so the top three are $247.14, 76.05% of the list. The fourth and fifth rungs are Charizard ex SR at $18.80 and Ninetales AR at $15.93, $34.73 together, 10.69% of the list, and with the top three they make the top five $281.87, 86.73%.",
+          "The sixth rung is the floor: Cleffa AR at $14.08, Eiscue ex SAR at $8.52, Revavroom ex SAR at $7.78, Geeta SAR at $6.66 and Basic Fire Energy UR at $6.08, $43.12 together, 13.27% of the list. The gap from number five to number six is $1.85, so the floor is flat: five cards inside $8.00 of each other. Below the top ten, Poppy SAR at $5.54 and Gloom AR at $5.11 are the next two, $10.65 together, and all 131 cards outside the top ten sit under $10.00."
+        ]
+      },
+      {
+        "h": "The risk layer: one card is more than half the list",
+        "paragraphs": [
+          "The first risk is the concentration: the Charizard is $178.63, 54.96% of the top ten, so a badly opened box has one card to rescue it and nothing else above $41.11. The second risk is the ask gap: the lowest SNKRDUNK ask is 20,555 yen, which converts to $129.57, $49.06 below the $178.63 market read, so a buyer who shops by ask price and a buyer who shops by market price are looking at two different cards. The third risk is the flat floor: ranks six to ten together are $43.12, 13.27% of the list, so the bottom half of the top ten cannot carry a box on its own.",
+          "The fourth risk is the single listing that proves nothing. A Cardfolio box guide of $135 sits $5.55 above our shelf box, while the TCGplayer box is $147.02, $17.57 above it, and the cheapest US listing is $140.40, $10.95 above it, so confirm stock, shipping, and the exact product before paying. The fifth risk is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/). The sixth risk is the English trap: the English Charizard at $82.64 is $95.99 cheaper than the Japanese SAR."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the Obsidian Flames fold",
+        "paragraphs": [
+          "The English twin is a different product with a different chase. English Obsidian Flames, released August 11, 2023, folds Ruler of the Black Flame together with other Japanese sets into one 197-card printed set with 230 cards in total, sold in boxes of 36 packs of 10 cards. Its top card is the same Charizard artwork as a Special Illustration Rare numbered 223/197, at $82.64 on the November 22, 2026 TCGplayer read, which is 46.26% of the Japanese SAR, $95.99 below it. The Japanese SAR is 2.16 times the English SIR.",
+          "The trap is the search itself: a buyer who types Ruler of the Black Flame English box hunts a product that was never made, and the listings that answer are Obsidian Flames boxes at Obsidian Flames prices or Japanese boxes with English-language titles. The [SV3 investment guide](/blog/sv3-investment/) prices this set over a longer hold, the [SV2P investment guide](/blog/sv2p-investment/) prices Snow Hazard beside it, and the [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) prices the language choice across sets. Japanese cards are not legal at official English events, and the SV3 cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, and the right purchase is the single, because the Charizard alone is 1.38 boxes and no box guarantees it. Second, English-tournament players: Japanese cards do not play in English events, and the SV3 cards carry the G mark, which left Standard play in the April 10, 2026 rotation. Third, buyers who want a guaranteed return: the Charizard moved only $2.50 in ten days, the set moved only $2.02, and no page can tell you what SV3 will cost next month."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Charizard ex SAR, buy the single at $178.63, which is 1.38 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits $137.52 above the second card",
+          "If the job is the box, pay $129.45, or $4.32 a pack, and treat the chase as a bonus; the box is $5.55 below the $135 Cardfolio market box",
+          "If the job is a case, divide it first: the case saves $317.37 against twelve singles, $26.45 a box, and confirm the $103.00 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $409.99 at one of each: three boxes cost $388.35 and still leave the chase to chance, while four boxes cost $517.80",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Charizard ex prints four times in this set",
+          "Check the number on any Charizard ex before you pay: the SAR is $178.63, the Ultra Rare is $41.11, the Super Rare is $18.80, and the Double Rare is $2.09",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV3 best-cards checklist",
+        "paragraphs": [
+          "Run this before the next SV3 box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, the [SV3 investment guide](/blog/sv3-investment/) runs the same division over a longer hold, and a held case stores cool, dry, dark, and unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv3-best-cards",
+    "takeaway": [
+      "The SV3 top ten, on the November 22, 2026 read, totals $324.99, with the Charizard ex SAR cross-checked three ways at $178.63. The Charizard is $178.63 of it, 54.96% of the list, and the top three are $247.14, 76.05%, while the bottom five together are $43.12.",
+      "On our shelf as of November 23, 2026, the box is $129.45 and the case is $1,236.03. The case saves $317.37 against twelve singles, $26.45 a box, while the box sits $5.55 below the $135 Cardfolio market box.",
+      "It is worth buying as the Ruler of the Black Flame set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Charizard alone is 1.38 boxes, and the complete set moved only $2.02 since the earlier read.",
+      "The ladder below the top card falls fast: ranks two and three together are $68.51, and the other 131 priced printings together are $85.00. Four facts the other lists get wrong are corrected on this page: Japan Figure still prices from June 2026, Samurai Sword ranks asks and not sales, there is no standalone English Ruler of the Black Flame box, and the Charizard prints four times at four prices.",
+      "Companion guide: the [is SV3 worth buying guide](/blog/is-sv3-worth-buying/) runs the same verdict, and the [SV3 Ruler of the Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV3 investment guide](/blog/sv3-investment/) runs the same division, where the case box sits $32.00 below the Cardfolio market box.",
+      "For the twin set in the same season, the [SV3a best cards guide](/blog/sv3a-best-cards/) prices Raging Surf beside this one, and the [SV4a investment guide](/blog/sv4a-investment/) prices Shiny Treasure ex over a longer hold.",
+      "For the next set in the series, the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) and the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) walk the same checks for their sets."
     ]
   },
   "sv3-investment": {
@@ -60256,6 +60502,252 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV9 Battle Partners buyer's guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase on our shelf, box $84.97 against a case that saves $67.31, with the Lillie's Clefairy ex SAR at $126.70 on its own.",
       "New this cycle: the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) prices the set that came two months after Ruler of Black Flame at $102.64 a box, with a case that saves $78.62 and a chase that tops out at $37.39.",
       "New this cycle: the [is SV3 Ruler of Black Flame worth buying guide](/blog/is-sv3-worth-buying/) runs the verdict at the November 14 prices, box $129.45 and case $103.00 a box, with the rotation called out: G-mark cards left Standard on April 10, 2026."
+    ]
+  },
+  "sv3a-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Parasol Lady, the Special Art Rare numbered 089/062, at $37.39 on the November 22, 2026 TCGplayer market read, checked November 23, 2026. Arca TCG agrees at $37.39 on its November 22, 2026 read, and Cardfolio has it at $38.55 on its November 21, 2026 guide, so the number is corroborated three ways within $1.16. It is 16.35% of the top ten and 0.43 boxes at our $87.24 box price, so the top card alone costs less than half a box.",
+        "q": "What is the most valuable SV3a card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $37.39, which is 0.43 boxes at our $87.24 box price, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The community estimate from Kaikan's box openings is about one Special Art Rare in six to ten boxes, and a SAR is one of five in this set, so the Parasol Lady is rarer than that, and a box with no SAR is the normal outcome, not bad luck. The top ten together are $228.75, which is 2.62 boxes. Buy the single if the Parasol Lady is the card you want, and buy the box only if you want to open Raging Surf.",
+        "q": "Should I buy an SV3a box to pull the Parasol Lady SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 92 cards, released September 22, 2023, in boxes of 30 packs of 5 cards. English Paradox Rift, released November 3, 2023, runs a 182-card main set because it folds Raging Surf together with Ancient Roar and Future Flash, and Raging Surf is about one third of it. Its chase is the same Parasol Lady artwork as a Special Illustration Rare numbered 238/182, at $4.14 on the November 21, 2026 read, which is $33.25 below the Japanese SAR. Japanese cards are not legal at official English events, and the SV3a cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Paradox Rift?"
+      }
+    ],
+    "h1": "SV3a Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV3a Raging Surf is Parasol Lady, the Special Art Rare numbered 089/062, at $37.39 on the November 22, 2026 TCGplayer market read, checked November 23, 2026, and the ten best together are $228.75. On our shelf, as of November 23, 2026, the SV3a box is $87.24 and the sealed case of 12 boxes is $980.10. Buy the box to open Raging Surf, buy the single for the Parasol Lady.",
+      "Raging Surf, set code SV3a, is 92 cards, 62 in the main set plus 30 secret rares, released in Japan on September 22, 2023, in boxes of 30 packs of 5 cards at 180 yen a pack. Its English counterpart, Paradox Rift, followed on November 3, 2023, but Paradox Rift folds Raging Surf together with Ancient Roar and Future Flash, and that fold is where buyers lose money. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single."
+    ],
+    "metaDescription": "SV3a Raging Surf best cards, Nov 22, 2026: Parasol Lady SAR $37.39, top ten $228.75, box $87.24, case $980.10.",
+    "metaTitle": "SV3a Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Parasol Lady, then a slope",
+        "paragraphs": [
+          "Every value below is from TCGPursuit's read of TCGplayer market prices, dated November 22, 2026 and checked November 23, 2026. Arca TCG agrees on the top card to the cent at $37.39, but Cardfolio's November 21, 2026 guide reorders the middle, with Gholdengo ex at $35 and Garchomp ex UR at $22.48, so the market read is the ranking used here. The ten are: Parasol Lady SAR 089/062 at $37.39, Gholdengo ex SAR 087/062 at $31.70, Garchomp ex SAR 085/062 at $31.22, Groudon AR 069/062 at $21.72, Tapu Koko ex SAR 086/062 at $21.19, Garchomp ex UR 090/062 at $19.15, Minun AR 066/062 at $18.71, Plusle AR 065/062 at $17.35, Rika SAR 088/062 at $17.35 and Mantyke AR 064/062 at $12.97.",
+          "The list is one card, then a slope, not a cliff. The Parasol Lady alone is $37.39, 16.35% of the top ten and 11.68% of the set's singles value of $320.11 on the November 21, 2026 read. The top three together are $100.31, 43.85% of the top ten, and the top five are $143.22, 62.61%. The five Special Art Rares together are $138.85, 60.70% of the list, and the four Art Rares in the top ten are $70.75, 30.93%. One of each of the 92 printings is $320.11, so the top ten are 71.46% of the set and the other 82 together are $91.36.",
+          "The top card has not moved in two weeks: Arca TCG holds the Parasol Lady at $37.39 from November 7 through November 22, 2026, and Cardfolio's $38.55 is $1.16 above the market read, 3.10% above it. The movement sits in the middle: Groudon is down 5.9% over seven days and Aegislash is down 7.9% on the same TCGPursuit read. The complete set was $321.09 on the November 17, 2026 read, so the November 21 total of $320.11 is down $0.98, 0.31%, in four days, and Cardfolio's $335 set estimate is $14.89 above the OGCards total, 4.65% above it. The [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) walks the same set, and the [is SV3a worth buying guide](/blog/is-sv3a-worth-buying/) runs the same verdict."
+        ]
+      },
+      {
+        "h": "The money layer: the case saves $66.78, not a fortune",
+        "math": [
+          "SV3a box per pack: $87.24 / 30 packs = $2.91 per pack",
+          "SV3a box per card: $87.24 / 150 cards = $0.58 per card",
+          "SV3a case per box: $980.10 / 12 boxes = $81.68 per box",
+          "SV3a case per pack: $980.10 / 360 packs = $2.72 per pack",
+          "SV3a case per card: $980.10 / 1,800 cards = $0.54 per card",
+          "SV3a twelve singles: 12 x $87.24 = $1,046.88",
+          "SV3a case saving: $1,046.88 - $980.10 = $66.78 across the case",
+          "SV3a saving per box: $66.78 / 12 = $5.565, which rounds to $5.57 per box",
+          "SV3a saving share: $66.78 / $1,046.88 = 6.38% saved",
+          "SV3a official box: 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV3a official pack: 180 yen / 158.64 yen per dollar = $1.13",
+          "SV3a box vs official: $87.24 / $34.04 = 2.56 times official, from the rounded $34.04 figure; $87.24 - $34.04 = $53.20 above official",
+          "SV3a case box vs official: $81.68 / $34.04 = 2.40 times official, from the rounded $81.68 and $34.04 figures",
+          "SV3a Cardfolio market box, Nov 21, 2026: $91.39",
+          "SV3a Cardfolio market box per pack: $91.39 / 30 packs = $3.05 per pack",
+          "SV3a shelf box vs Cardfolio: $91.39 - $87.24 = $4.15 below it; $4.15 / $91.39 = 4.54% below it",
+          "SV3a case box vs Cardfolio market box: $91.39 - $81.68 = $9.71 below it; $9.71 / $91.39 = 10.62% below it",
+          "SV3a twelve Cardfolio boxes: 12 x $91.39 = $1,096.68; $1,096.68 - $980.10 = $116.58 below twelve market boxes",
+          "SV3a Samurai Sword Tokyo sealed box, Oct 7, 2026: 13,804 yen / 158.64 yen per dollar = $87.01; $87.24 - $87.01 = $0.23 above the ask",
+          "SV3a SNKRDUNK lowest ask, Sep 30, 2026: 15,000 yen / 158.64 yen per dollar = $94.55; $94.55 - $87.24 = $7.31 above the shelf box",
+          "SV3a DexCompare US cheapest, Nov 22, 2026: $108.50; $108.50 - $87.24 = $21.26 above the shelf box",
+          "SV3a top 10 total: $37.39 + $31.70 + $31.22 + $21.72 + $21.19 + $19.15 + $18.71 + $17.35 + $17.35 + $12.97 = $228.75",
+          "SV3a top 3 total: $37.39 + $31.70 + $31.22 = $100.31; $100.31 / $228.75 = 43.85% of the top 10",
+          "SV3a top 5 total: $37.39 + $31.70 + $31.22 + $21.72 + $21.19 = $143.22; $143.22 / $228.75 = 62.61% of the top 10",
+          "SV3a ranks 4 and 5 total: $21.72 + $21.19 = $42.91; $42.91 / $228.75 = 18.76% of the top 10",
+          "SV3a ranks 6 to 10 total: $19.15 + $18.71 + $17.35 + $17.35 + $12.97 = $85.53; $85.53 / $228.75 = 37.39% of the top 10",
+          "SV3a bottom 3 total: $17.35 + $17.35 + $12.97 = $47.67; $47.67 / $228.75 = 20.84% of the top 10",
+          "SV3a Parasol Lady share of top 10: $37.39 / $228.75 = 16.35% of the top 10",
+          "SV3a top 10 vs set value: $228.75 / $320.11 = 71.46% of the set value",
+          "SV3a Parasol Lady share of set value: $37.39 / $320.11 = 11.68% of the set value",
+          "SV3a rest of set: $320.11 - $228.75 = $91.36 across the other 82 priced printings",
+          "SV3a Parasol Lady against the box: $37.39 / $87.24 = 0.43 boxes",
+          "SV3a Parasol Lady against the case box: $37.39 / $81.68 = 0.46 boxes, from the rounded $81.68 figure",
+          "SV3a top 10 against the box: $228.75 / $87.24 = 2.62 boxes",
+          "SV3a top 10 against the case: $228.75 / $980.10 = 0.23 times the case",
+          "SV3a top 10 minus one box: $228.75 - $87.24 = $141.51",
+          "SV3a two boxes vs top 10: 2 x $87.24 = $174.48; $228.75 - $174.48 = $54.27 above two boxes",
+          "SV3a gap number one to number two: $37.39 - $31.70 = $5.69; $37.39 / $31.70 = 1.18 times number two",
+          "SV3a gap number two to number three: $31.70 - $31.22 = $0.48",
+          "SV3a gap number three to number four: $31.22 - $21.72 = $9.50",
+          "SV3a gap number four to number five: $21.72 - $21.19 = $0.53",
+          "SV3a gap number five to number six: $21.19 - $19.15 = $2.04",
+          "SV3a complete set move Nov 17 to Nov 21: $320.11 - $321.09 = $0.98 down; $0.98 / $321.09 = 0.31% down",
+          "SV3a complete set, one of each, Nov 21, 2026: $320.11; $320.11 / $87.24 = 3.67 boxes",
+          "SV3a two boxes: 2 x $87.24 = $174.48; $320.11 - $174.48 = $145.63 below the set as singles",
+          "SV3a three boxes: 3 x $87.24 = $261.72; $320.11 - $261.72 = $58.39 below the set as singles",
+          "SV3a four boxes: 4 x $87.24 = $348.96; $348.96 - $320.11 = $28.85 above the set as singles",
+          "SV3a Parasol Lady in yen: $37.39 x 158.64 yen per dollar = 5,931.55 yen",
+          "SV3a top 10 in yen: $228.75 x 158.64 yen per dollar = 36,288.90 yen",
+          "SV3a set value in yen: $320.11 x 158.64 yen per dollar = 50,782.25 yen",
+          "SV3a English Parasol Lady gap: $37.39 - $4.14 = $33.25; $37.39 / $4.14 = 9.03 times the English SIR",
+          "SV3a English Parasol Lady share of Japanese: $4.14 / $37.39 = 11.07% of the Japanese SAR",
+          "SV3a Parasol Lady SAR vs SR: $37.39 / $5.86 = 6.38 times the Secret Rare; $37.39 - $5.86 = $31.53",
+          "SV3a Garchomp ex SAR vs UR: $31.22 / $19.15 = 1.63 times the Ultra Rare; $31.22 - $19.15 = $12.07",
+          "SV3a Garchomp ex SAR vs SR: $31.22 / $6.08 = 5.13 times the Secret Rare; $31.22 - $6.08 = $25.14",
+          "SV3a Gholdengo ex SAR vs SR: $31.70 / $2.71 = 11.70 times the Secret Rare; $31.70 - $2.71 = $28.99",
+          "SV3a Gholdengo ex SAR vs RR: $31.70 / $0.41 = 77.32 times the Double Rare; $31.70 - $0.41 = $31.29",
+          "SV3a Cardfolio Parasol Lady gap: $38.55 - $37.39 = $1.16; $1.16 / $37.39 = 3.10% above the market read",
+          "SV3a Cardfolio set estimate vs OGCards: $335.00 - $320.11 = $14.89; $14.89 / $320.11 = 4.65% above it",
+          "SV3a Cardfolio top 10 vs TCGPursuit: $234.00 - $228.75 = $5.25; $5.25 / $228.75 = 2.30% above it",
+          "SV3a next four below the top ten, OGCards Nov 21, 2026 read: $6.30 + $6.08 + $5.86 + $5.15 = $23.39",
+          "SV3a Plusle and Minun pair: $17.35 + $18.71 = $36.06; $36.06 / $228.75 = 15.76% of the top 10",
+          "SV3a five SARs total: $37.39 + $31.70 + $31.22 + $21.19 + $17.35 = $138.85; $138.85 / $228.75 = 60.70% of the top 10",
+          "SV3a four Art Rares in the top 10: $21.72 + $18.71 + $17.35 + $12.97 = $70.75; $70.75 / $228.75 = 30.93% of the top 10",
+          "SV3a Garchomp ex three printings: $31.22 + $19.15 + $6.08 = $56.45",
+          "SV3a Groudon 7-day move, TCGPursuit Nov 22, 2026 read: -5.9%",
+          "SV3a Aegislash 7-day move, TCGPursuit Nov 22, 2026 read: -7.9%",
+          "SV3a floor spread, ranks 6 to 10: $19.15 - $12.97 = $6.18",
+          "SV3a Japan Figure Parasol Lady, Feb 2026 prices: $37.03",
+          "SV3a Kaikan Parasol Lady, Oct 21, 2026 PriceCharting: about 37 euros; Groudon AR 25 euros; Garchomp ex SAR 24 euros",
+          "SV3a Cardfolio Gholdengo ex, Nov 21, 2026: $35.00; Garchomp ex UR: $22.48",
+          "SV3a Cardfolio Parasol Lady SR, Nov 21, 2026: $9.39",
+          "SV3a Parasol Lady common 061/062, Arca TCG Nov 22, 2026: $0.09"
+        ],
+        "paragraphs": [
+          "The box is $87.24 for 30 packs of 5 cards, $2.91 a pack and $0.58 a card. The case is $980.10 for a printed 12 boxes, $81.68 a box, $2.72 a pack and $0.54 a card, $66.78 less than twelve singles at $1,046.88, or $5.57 a box, 6.38% saved. Both prices are from the live shelf, read November 23, 2026, and the case listing prints the 12-box count in its title, so the $81.68 per-box figure is a division, not an assumption. The [SV3a Raging Surf booster box](/product/sv3a-raging-surf-booster-box-japanese-pokemon-card/) and the [SV3a Raging Surf sealed case](/product/sv3a-raging-surf-sealed-case-12-boxes-japanese-pokemon-card/) are the listings these divisions run on.",
+          "Against the market, the shelf sits just under the guide box and almost on top of the Tokyo ask. Cardfolio lists the sealed box at $91.39 on November 21, 2026, so our box sits $4.15 below it, 4.54% below, and our case box sits $9.71 below it, 10.62% below. Twelve Cardfolio boxes would cost $1,096.68, so the case is $116.58 below them. The Samurai Sword Tokyo sealed box is 13,804 yen, which converts to $87.01 at 158.64 yen per dollar, so our box is $0.23 above it, while the SNKRDUNK lowest ask is 15,000 yen, $94.55, $7.31 above our box. Official frames both: 5,400 yen converts to $34.04, so our box is 2.56 times official. The [sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows the case division across sets, and the [SV3a investment guide](/blog/sv3a-investment/) runs the same division over a longer hold."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards. The set code is SV3a, and the set runs 92 cards: 62 in the main set plus 30 secrets numbered 063 to 092, 12 Art Rares, 10 Secret Rares, 5 Special Art Rares and 3 Ultra Rares, with the main set at 28 Commons, 20 Uncommons, 8 Rares and 6 Double Rares. Match the number, not just the name: Parasol Lady prints three times, the common at 061/062 for $0.09, the Secret Rare at 084/062 for $5.86 and the Special Art Rare at 089/062 for $37.39, so the SAR is 6.38 times the Secret Rare. Garchomp ex prints three times too, the Secret Rare at 076/062 for $6.08, the Ultra Rare at 090/062 for $19.15 and the Special Art Rare at 085/062 for $31.22, so the SAR is 5.13 times the Secret Rare, and Gholdengo ex prints three times as well, the Double Rare at 050/062 for $0.41, the Secret Rare at 079/062 for $2.71 and the Special Art Rare at 087/062 for $31.70, so the SAR is 77.32 times the Double Rare. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the SAR mark.",
+          "First, confirm the case listing prints 12 boxes: this one does, in its title, and that printed count makes the $81.68 per-box figure a division, not an assumption. Second, check the condition grade: the same collector number can carry a worn copy at a fraction of the clean price, so a low price can be wear, not a bargain. Third, do not plan around a pull rate, because The Pokemon Company publishes none for this set. Kaikan's community estimate from box openings is about three Art Rares per box, about one Secret Rare or better per box, a Special Art Rare in about one box in six to ten, and an Ultra Rare in about one box in ten, so a box with no SAR is the normal outcome. The [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) walks the same checks."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: six ways to spend on SV3a. The single row is the only row that buys the card instead of the chance: the Parasol Lady SAR is 0.43 boxes, and the top ten together are 2.62 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase: opening for the Parasol Lady is a lottery ticket with an $87.24 face value, so buy the single.",
+          "Read the case row as a division, not a promise: it saves $5.57 a box only if twelve boxes are wanted. The set-as-singles row buys the whole set outright at one of each: two boxes cost $174.48 against $320.11 for the set, $145.63 below it, and still leave the chase to chance, while three boxes cost $261.72, $58.39 below it, and four boxes cost $348.96, $28.85 above it. The market box row is a reference price, not a listing on this shelf. The wait row is the only route with a price of $0, and it made money in the last four days: waiting from November 17 to November 21 saved $0.98 on the set."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV3a box",
+              "$87.24",
+              "$2.91",
+              "Opening Raging Surf in Japanese",
+              "$87.24 for a chase that tops out at $37.39"
+            ],
+            [
+              "SV3a case (12)",
+              "$980.10",
+              "$81.68 a box",
+              "Holding or splitting twelve boxes",
+              "$980.10 in one purchase; confirm at checkout"
+            ],
+            [
+              "The single",
+              "$37.39 Parasol Lady SAR",
+              "n/a",
+              "Owning the chase card",
+              "0.43 boxes for one card"
+            ],
+            [
+              "The set as singles",
+              "$320.11 one of each",
+              "n/a",
+              "Owning all 92 cards with nothing to chance",
+              "$320.11 in one purchase; no sealed product"
+            ],
+            [
+              "Cardfolio market box",
+              "$91.39",
+              "$3.05",
+              "The market box price",
+              "A guide estimate, not a listing on this shelf"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: stale prices, euros, and no shelf",
+        "note": "From the Warehouse: the question we get most about SV3a is whether the box is still the way to the Parasol Lady, because every ranking list leads with the Parasol Lady and never says what the box costs. It is not the way to the card. The SAR is 0.43 boxes, the top ten together are 2.62 boxes, and no box guarantees any secret rare, so the box is the way to open Raging Surf and the single is the way to own the Parasol Lady. The second question is whether the case is a trick, because buyers have learned that cases usually cost more per box than singles. On this shelf, on this date, it is not a trick: the case saves $66.78 against twelve singles, and it divides to $81.68 a box.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and two of the three are stale. The first, Japan Figure, prices from February 2026, puts the Parasol Lady at $37.03 and ranks Secret Rare printings in its top ten, with Rika SR ninth and Parasol Lady SR tenth, while the November 22 read has neither in the top ten. It also mislabels Reversal Energy at 092/062 as an ACE SPEC: it is a Special Energy Ultra Rare. The second, Kaikan, ranks from October 21, 2026 PriceCharting values in euros, puts the Parasol Lady at about 37 euros, and ranks Groudon AR third at 25 euros, above the Garchomp ex SAR at 24 euros, while the November 22 read has the Garchomp SAR third at $31.22 and Groudon fourth at $21.72. The third, TCGPursuit, has the fresh November 22 prices, but it ranks cards only and carries no box, no case and no decision.",
+          "This page owns four things: a fresh November 22 read, the top ten from one source with the top card cross-checked against two more. Second is the shelf: two live prices and the case divisions, $81.68 a box against $87.24 single. Third is the reorder trap: Cardfolio puts the Parasol Lady SR tenth at $9.39, while the market read has Mantyke tenth at $12.97. Fourth is the English trap: several price pages for Parasol Lady default to the English Paradox Rift printing at $4.14, and a reader who copies that figure understates the SAR by $33.25. The [SV3 best cards guide](/blog/sv3-best-cards/) ranks the sister set beside this one."
+        ]
+      },
+      {
+        "h": "The chase ladder: five SARs, then the Art Rares carry it",
+        "note": "From the Warehouse: what we see in chat is buyers asking for the Parasol Lady without a number, and three prints at three prices is exactly how the wrong one gets bought. The SAR is $37.39, the Secret Rare is $5.86 and the common is $0.09, and a listing that says Parasol Lady without a number has said nothing about the price. The same goes for Garchomp ex: the SAR is $31.22, the Ultra Rare is $19.15 and the Secret Rare is $6.08, and the gap between the SAR and the Secret Rare is 5.13 times. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is three cards. Parasol Lady SAR is $37.39, 16.35% of the top ten and 11.68% of the set's singles value, Gholdengo ex SAR is $31.70, 1.18 times less with a $5.69 gap, and Garchomp ex SAR is $31.22, so the three together are $100.31, 43.85% of the list. The gap from number two to number three is $0.48, and the three Garchomp ex printings together are $56.45. The five SARs together are $138.85, 60.70% of the list.",
+          "The second rung is a step down, then a floor. Groudon AR is $21.72 and Tapu Koko ex SAR is $21.19, $42.91 together, 18.76% of the list, and with the top three they make the top five $143.22, 62.61%. The floor is Garchomp ex UR at $19.15, Minun AR at $18.71, Plusle AR at $17.35, Rika SAR at $17.35 and Mantyke AR at $12.97, $85.53 together, 37.39% of the list. The gap from number five to number six is $2.04 and from number four to number five is $0.53, so the floor is flat: five cards inside $6.18 of each other."
+        ]
+      },
+      {
+        "h": "The risk layer: one card is a sixth of the list",
+        "paragraphs": [
+          "The first risk is the flat top: the Parasol Lady is $37.39, 16.35% of the top ten, so a badly opened box has one card to rescue it. The second risk is the drift: the complete set fell $0.98 in four days while the top card stood still, and Groudon fell 5.9% in seven days while Aegislash fell 7.9%, so the fall sits in the middle of the set, where the Art Rares live.",
+          "Third is the single listing that proves nothing. A US cheapest box on DexCompare is $108.50, $21.26 above our shelf box, while the Samurai Sword Tokyo sealed ask converts to $87.01, $0.23 below it, and the SNKRDUNK lowest ask converts to $94.55, $7.31 above it, so confirm stock, shipping, and the exact product before paying. Fourth is the reseal risk, covered by the seal checks in the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/). Fifth is the English trap: the English Parasol Lady at $4.14 is $33.25 cheaper than the Japanese SAR, so a buyer who assumes Japanese is always cheaper pays for the wrong assumption."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the Paradox Rift fold",
+        "paragraphs": [
+          "The English twin is a different product with a different chase. English Paradox Rift, released November 3, 2023, folds Raging Surf together with its sister sets Ancient Roar and Future Flash into one 182-card main set. Raging Surf is about one third of it. Its top card is the same Parasol Lady artwork as a Special Illustration Rare numbered 238/182, at $4.14 on the November 21, 2026 read, which is 11.07% of the Japanese SAR, $33.25 below it.",
+          "The trap is the search itself: a buyer who types Raging Surf English box hunts a product that was never made, and the listings that answer are Paradox Rift boxes or Japanese boxes with English-language titles. The sister sets sit beside it: the [SV3 best cards guide](/blog/sv3-best-cards/) ranks Ruler of the Black Flame, the [SV3 investment guide](/blog/sv3-investment/) prices it over a longer hold, the [SV4a investment guide](/blog/sv4a-investment/) and the [SV2P investment guide](/blog/sv2p-investment/) price the neighbouring sets the same way, and the [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) prices the language choice across sets."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card; buy the single. Second, English-tournament players: Japanese cards do not play in English events, and the SV3a cards carry the G mark, which left Standard play in the April 10, 2026 rotation. Third, buyers who want a guaranteed return: the complete set fell $0.98 in four days and Groudon fell 5.9% in a week, so no page can tell you what SV3a will cost next month."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Parasol Lady SAR, buy the single at $37.39, which is 0.43 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits $5.69 above the Gholdengo ex",
+          "If the job is the box, pay $87.24, or $2.91 a pack, and treat the chase as a bonus; the box is $4.15 below the $91.39 Cardfolio market box",
+          "If the job is a case, divide it first: the case saves $66.78 against twelve singles, $5.57 a box, and confirm the $81.68 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $320.11 at one of each: three boxes cost $261.72 and still leave the chase to chance",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Parasol Lady prints three times in this set",
+          "Check the number on any Parasol Lady before you pay: the SAR is $37.39, the Secret Rare is $5.86, and the common is $0.09",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV3a best-cards checklist",
+        "paragraphs": [
+          "Run this before the next SV3a box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, the [SV3a investment guide](/blog/sv3a-investment/) runs the same division over a longer hold, and a held case stores cool, dry and dark, unstacked under weight."
+        ]
+      }
+    ],
+    "slug": "sv3a-best-cards",
+    "takeaway": [
+      "The SV3a top ten, on the November 22, 2026 read, totals $228.75, with the Parasol Lady SAR cross-checked three ways at $37.39. The Parasol Lady is $37.39 of it, 16.35% of the list, and the top three SARs are $100.31, 43.85%, while the five SARs together are $138.85, 60.70%.",
+      "On our shelf as of November 23, 2026, the box is $87.24 and the case is $980.10. The case saves $66.78 against twelve singles, $5.57 a box, while the box sits $4.15 below the $91.39 Cardfolio market box.",
+      "It is worth buying as the Raging Surf set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Parasol Lady alone is 0.43 boxes, and the complete set fell $0.98 in four days.",
+      "Four facts the other lists get wrong are corrected on this page: Japan Figure still prices from February 2026 and mislabels Reversal Energy as an ACE SPEC, Kaikan still prices from October 21 in euros, there is no standalone English Raging Surf box, and Cardfolio ranks the Parasol Lady SR tenth where the market read has Mantyke.",
+      "Companion guide: the [is SV3a worth buying guide](/blog/is-sv3a-worth-buying/) runs the same verdict, and the [SV3a Raging Surf buyer's guide](/blog/sv3a-raging-surf-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV3a investment guide](/blog/sv3a-investment/) runs the same division, where the case box sits $9.71 below the Cardfolio market box.",
+      "For the sister set in the same season, the [SV3 best cards guide](/blog/sv3-best-cards/) ranks Ruler of the Black Flame beside this one, and the [SV3 investment guide](/blog/sv3-investment/) prices it over a longer hold."
     ]
   },
   "sv3a-investment": {
@@ -61158,7 +61650,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 19, 2026, and the marketplace references as of September 1 to November 18, 2026. The box sits $6.95 below the $127.00 market box, and the complete set at $1,555.16 is 12.95 boxes.",
       "For the price-and-math companion, the [SV4a Shiny Treasure ex buyer's guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) runs the same shelf side by side, and the [is SV4a worth buying guide](/blog/is-sv4a-worth-buying/) runs the same verdict after the fall.",
       "New this cycle: the [SV3a Raging Surf investment guide](/blog/sv3a-investment/) prices the twin set in the series, box $87.24 against a case that divides to $81.68 a box and saves $66.78.",
-      "New this cycle: the [SV4K Ancient Roar investment guide](/blog/sv4k-investment/) and the [SV4M Future Flash investment guide](/blog/sv4m-investment/) price the October 2023 twins in the series, boxes $77.87 and $75.03 against cases that divide to $69.62 and $62.51 a box and save $99.06 and $150.27."
+      "New this cycle: the [SV4K Ancient Roar investment guide](/blog/sv4k-investment/) and the [SV4M Future Flash investment guide](/blog/sv4m-investment/) price the October 2023 twins in the series, boxes $77.87 and $75.03 against cases that divide to $69.62 and $62.51 a box and save $99.06 and $150.27.",
+      "Best cards: the [SV3a best cards guide](/blog/sv3a-best-cards/) ranks the twin set's ten worth chasing, Parasol Lady SAR $37.39 on the November 22, 2026 read, top ten $228.75."
     ]
   },
   "sv4a-shiny-treasure-ex-buyers-guide": {
