@@ -18006,7 +18006,8 @@ export const POSTS: Record<string, BlogPost> = {
       "A Dragon Ball Fusion World sealed case is 12 boxes, 288 packs and 3,456 cards, and 14 sit on our shelf as of November 19, 2026, from $1,087.37 for FB04 Ultra Limit to $22,873.50 for SB01 Manga Booster 01. Divide every case by 12 before you believe any per-box claim.",
       "Seven mainline cases divide below the $119.76 official box price, led by FB04 at $90.61 a box, and five divide above it, led by FB09 at $342.13. Every case fell exactly 15.00% since November 4, so the old prices are history.",
       "For the ranking, the [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) picks the buy by job, and the [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) prices every Dragon Ball product we stock. For the other game's cases, the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) divides all 15 Lorcana cases the same way. Re-run the division on the day you pay.",
-      "Companion guide: the [FB10 best cards guide](/blog/fb10-best-cards/) ranks the ten best Cross Force cards, top ten $1,922.06, with the Cell Super Alternate Art at $999.43, on the November 23, 2026 read."
+      "Companion guide: the [FB10 best cards guide](/blog/fb10-best-cards/) ranks the ten best Cross Force cards, top ten $1,922.06, with the Cell Super Alternate Art at $999.43, on the November 23, 2026 read.",
+      "For the cheapest split box on the shelf, the [FB04 best cards guide](/blog/fb04-best-cards/) ranks the ten best Ultra Limit cards, top ten $302.20, with the Goku Alternate Art at $105.48, against the $90.61 case-split box."
     ]
   },
   "dragon-ball-fusion-world-sealed-case-price": {
@@ -22085,6 +22086,477 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [Japanese One Piece cards price index](/blog/japanese-one-piece-cards-price/) sets the English prices beside the Japanese ones for all 25 sets, with the gap and the case saving for each."
     ]
   },
+  "fb04-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Son Goku FB04-129 Alternate Art at $105.48 on the November 23, 2026 TCGplayer market read from TCGPursuit, checked November 23, 2026. It is 34.90% of the top ten, which totals $302.20, and it sits $66.09 above the second card, the Son Goku FB04-129 base Secret Rare at $39.39. One card sits above this list with no market price at all: Son Goku FB04-129 Super Alternate Art, which WorthRipping prints at $642.12 while Master Set Cards prints it at $799.99, so it is flagged unpriced and kept out of the ranked ten.",
+        "q": "What is the most valuable FB04 Ultra Limit card?"
+      },
+      {
+        "a": "No, not as a plan. The Goku Alternate Art is $105.48, which is 116.41% of our $90.61 case-split box, and Bandai publishes no pull rates for this set, so no honest expected-value math exists for the chase. WorthRipping puts an alt-art Secret Rare at 1 in 14 boxes, and 95 of 100 FB04 boxes lose money, with a median box worth $12. Buy the single if the Goku is the card you want, and buy the box only if you want to open Ultra Limit.",
+        "q": "Should I buy an FB04 box to pull the Goku Alternate Art?"
+      },
+      {
+        "a": "At Japanese retail, yes, and as a product, no. A Japanese box holds 24 packs of 6 cards at 220 yen a pack, so 5,280 yen at retail, which converts to $33.19 at the ECB November 23, 2026 fixing of 159.07 yen per dollar. An English box holds 24 packs of 12 cards, and our case-split English box is $90.61 as of November 23, 2026. The two boxes are different products in different languages, Japanese cards are not legal at official English events, and there is no Japanese FB04 listing on our shelf at all, so never divide box math from a listing that does not exist.",
+        "q": "Is the Japanese FB04 box cheaper than the English box?"
+      }
+    ],
+    "h1": "FB04 Ultra Limit Best Cards: Top 10, Priced",
+    "intro": [
+      "Short answer: the best card in FB04 Ultra Limit is Son Goku, FB04-129 Alternate Art, at $105.48 on the November 23, 2026 TCGplayer market read from TCGPursuit, and the ten best together are $302.20. On our shelf, as of November 23, 2026, the sealed English case is $1,087.37, which splits to $90.61 a box, and there is no single English box on the shelf. Buy the box to open Ultra Limit, buy the single for the Goku.",
+      "Ultra Limit, set code FB04, is 133 card types: 5 Leaders, 45 commons, 36 uncommons, 30 rares, 12 Super Rares, 2 Secret Rares, and 3 special reprints, with 25 alt-art parallels, released in Japan on November 8, 2024, and in English on November 15, 2024. English packs hold 12 cards plus a digital code, and a box holds 24 packs. The [FB05 best cards guide](/blog/fb05-best-cards/) ranks the set after this one the same way."
+    ],
+    "metaDescription": "FB04 Ultra Limit best cards, Nov 23, 2026: Goku Alt-Art $105.48, top ten $302.20, case-split box $90.61, case $1,087.37.",
+    "metaTitle": "FB04 Ultra Limit Best Cards: Top 10, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: a $105 Goku leads a flat top ten",
+        "math": [
+          "FB04 top 10 total: $105.48 + $39.39 + $32.61 + $28.76 + $27.57 + $18.41 + $15.57 + $14.48 + $11.36 + $8.57 = $302.20",
+          "FB04 top 5 total: $105.48 + $39.39 + $32.61 + $28.76 + $27.57 = $233.81; $233.81 / $302.20 = 77.37% of the top 10",
+          "FB04 ranks 6 to 10 total: $18.41 + $15.57 + $14.48 + $11.36 + $8.57 = $68.39; $68.39 / $302.20 = 22.63% of the top 10",
+          "FB04 top card share: $105.48 / $302.20 = 34.90% of the top 10",
+          "FB04 rank 2 share: $39.39 / $302.20 = 13.03% of the top 10",
+          "FB04 rank 3 share: $32.61 / $302.20 = 10.79% of the top 10",
+          "FB04 rank 4 share: $28.76 / $302.20 = 9.52% of the top 10",
+          "FB04 rank 5 share: $27.57 / $302.20 = 9.12% of the top 10",
+          "FB04 rank 6 share: $18.41 / $302.20 = 6.09% of the top 10",
+          "FB04 rank 7 share: $15.57 / $302.20 = 5.15% of the top 10",
+          "FB04 rank 8 share: $14.48 / $302.20 = 4.79% of the top 10",
+          "FB04 rank 9 share: $11.36 / $302.20 = 3.76% of the top 10",
+          "FB04 rank 10 share: $8.57 / $302.20 = 2.84% of the top 10",
+          "FB04 gap one to two: $105.48 - $39.39 = $66.09; $105.48 / $39.39 = 2.68 times number two",
+          "FB04 gap two to three: $39.39 - $32.61 = $6.78",
+          "FB04 gap five to six: $27.57 - $18.41 = $9.16",
+          "FB04 set value: top 10 $302.20 / $362.94 = 83.26% of the set; $362.94 - $302.20 = $60.74 across the other 144 priced printings",
+          "FB04 case-split box: $1,087.37 / 12 boxes = $90.61 per box",
+          "FB04 shelf per pack: $1,087.37 / 288 packs = $3.78 per pack",
+          "FB04 shelf per card: $1,087.37 / 3,456 cards = $0.31 per card",
+          "FB04 market box per pack: $149.25 / 24 packs = $6.22 per pack",
+          "FB04 market box per card: $149.25 / 288 cards = $0.52 per card",
+          "FB04 market box gap: $149.25 - $90.61 = $58.64; $58.64 / $149.25 = 39.29% below market",
+          "FB04 market box per-pack gap: $6.22 - $3.78 = $2.44",
+          "FB04 twelve market boxes: 12 x $149.25 = $1,791.00; $1,791.00 - $1,087.37 = $703.63 saved on the case",
+          "FB04 market case gap: $1,460.47 - $1,087.37 = $373.10; $373.10 / $1,460.47 = 25.55% below the market case",
+          "FB04 market pack gap: $6.91 - $3.78 = $3.13; $3.13 / $6.91 = 45.30% below the market pack",
+          "FB04 top 10 against the case: $302.20 / $1,087.37 = 27.79% of the case price",
+          "FB04 top 10 in split boxes: $302.20 / $90.61 = 3.34 boxes",
+          "FB04 top 10 against the market box: $302.20 / $149.25 = 2.02 boxes; $302.20 - $149.25 = $152.95 above one market box",
+          "FB04 top card against the split box: $105.48 / $90.61 = 116.41% of one box",
+          "FB04 top card against the case: $105.48 / $1,087.37 = 9.70% of the case",
+          "FB04 repricing: $1,279.26 - $1,087.37 = $191.89; $191.89 / $1,279.26 = 15.00% down from November 4 to November 19, 2026",
+          "FB04 Japanese box at MSRP: 24 x 220 yen = 5,280 yen; 5,280 yen / 159.07 yen per dollar = $33.19",
+          "FB04 case in yen: $1,087.37 x 159.07 yen per dollar = 172,967.95 yen",
+          "FB04 split box in yen: $90.61 x 159.07 yen per dollar = 14,413.33 yen",
+          "FB04 top 10 in yen: $302.20 x 159.07 yen per dollar = 48,070.95 yen",
+          "FB04 top card in yen: $105.48 x 159.07 yen per dollar = 16,778.70 yen",
+          "FB04 Goku AA premium: $105.48 / $39.39 = 2.68 times the base print; $105.48 - $39.39 = $66.09 above it",
+          "FB04 Gohan Leader AA premium: $32.61 / $0.22 = 148.23 times the base print; $32.61 - $0.22 = $32.39 above it",
+          "FB04 Goku Leader AA premium: $28.76 / $0.16 = 179.75 times the base print; $28.76 - $0.16 = $28.60 above it",
+          "FB04 Vegeta Leader AA premium: $27.57 / $0.17 = 162.18 times the base print; $27.57 - $0.17 = $27.40 above it",
+          "FB04 Buu Leader AA premium: $15.57 / $0.17 = 91.59 times the base print; $15.57 - $0.17 = $15.40 above it",
+          "FB04 Baby Vegeta Leader AA premium: $14.48 / $0.15 = 96.53 times the base print; $14.48 - $0.15 = $14.33 above it",
+          "FB04 Gotenks AA premium: $11.36 / $0.22 = 51.64 times the base print; $11.36 - $0.22 = $11.14 above it",
+          "FB04 Goku SR AA premium: $8.57 / $0.27 = 31.74 times the base print; $8.57 - $0.27 = $8.30 above it",
+          "FB04 WorthRipping box: $86.16 box, $46.00 cards inside at market, $32.00 after costs; $46.00 - $32.00 = $14.00 in selling costs",
+          "FB04 WorthRipping loss: $86.16 - $32.00 = $54.16; $32.00 / $86.16 = 37.14% of the box in cards after selling costs",
+          "FB04 WorthRipping box gap: $90.61 - $86.16 = $4.45 above the WorthRipping box read",
+          "FB04 box disagreement: $149.25 - $86.16 = $63.09; $63.09 / $149.25 = 42.27% between the two box reads",
+          "FB04 three split boxes: 3 x $90.61 = $271.83; $302.20 - $271.83 = $30.37 above three boxes",
+          "FB04 against FB05: $1,139.60 - $1,087.37 = $52.23; $1,087.37 / $1,139.60 = 95.42% of it",
+          "FB04 against FB06: $1,232.30 - $1,087.37 = $144.93; $1,087.37 / $1,232.30 = 88.24% of it",
+          "FB04 against FB07: $1,348.95 - $1,087.37 = $261.58; $1,087.37 / $1,348.95 = 80.61% of it",
+          "FB04 against FB10: $1,983.53 - $1,087.37 = $896.16; $1,087.37 / $1,983.53 = 54.82% of it",
+          "FB04 official box: 24 x $4.99 = $119.76; $119.76 - $90.61 = $29.15; $29.15 / $119.76 = 24.34% below the official box",
+          "FB04 Goku SAA gap: $799.99 - $642.12 = $157.87 above the WorthRipping print; $799.99 / $642.12 = 1.25 times it",
+          "FB04 Goku SAA against the AA: $642.12 / $105.48 = 6.09 times it; $799.99 / $105.48 = 7.58 times it",
+          "FB04 Goku SAA PSA 10: $792.15 - $642.12 = $150.03 above the WorthRipping raw print; $792.15 / $642.12 = 1.23 times it",
+          "FB04 AR Buu Kid: $199.08 / $105.48 = 1.89 times the top card; $199.08 / $302.20 = 65.88% of the top 10",
+          "FB04 Gold Vegeta: $299.10 / $27.57 = 10.85 times the Alternate Art; $299.10 - $27.57 = $271.53 above it",
+          "FB04 Goku AA sales spread: $95.20 - $93.00 = $2.20 between the two November TCGplayer sales",
+          "FB04 Gotenks cross-check: $11.57 - $11.36 = $0.21 between the DeckTradr and TCGPursuit reads",
+          "FB04 PR best card: $105.48 - $5.90 = $99.58 below the top card; $5.90 / $105.48 = 5.59% of the top card",
+          "FB04 Vegeta SB01 reprint: $27.57 - $6.54 = $21.03 above the Manga Booster 01 holofoil; $6.54 / $27.57 = 23.72% of the Alternate Art",
+          "FB04 promo Vegito: $1,404.99 / $18.41 = 76.32 times the Ultra Limit Alternate Art; $1,404.99 - $18.41 = $1,386.58 above it"
+        ],
+        "paragraphs": [
+          "The ranked ten, all TCGplayer market prices from TCGPursuit, read November 23, 2026: Son Goku FB04-129 Alternate Art at $105.48, Son Goku FB04-129 base Secret Rare at $39.39, Son Gohan : Adolescence FB04-026 Alternate Art at $32.61, Son Goku FB04-001 Alternate Art at $28.76, and Vegeta FB04-051 Alternate Art at $27.57. The top five together are $233.81, 77.37% of the whole top ten, and the gap from first to second is $66.09, so the top card costs 2.68 times the second card.",
+          "The second five: Vegito FB04-130 Alternate Art at $18.41, Majin Buu : Evil FB04-077 Alternate Art at $15.57, Baby Vegeta // Super Baby 2 FB04-103 Alternate Art at $14.48, Gotenks FB04-033 Alternate Art at $11.36, and Son Goku FB04-059 Alternate Art at $8.57. Ranks six to ten together are $68.39, 22.63% of the top ten, and the drop from fifth to sixth is $9.16. The top card alone is 34.90% of the whole list, so one card owns more than a third of the ranked value.",
+          "Nine of the ten are alternate arts, and the one that is not is the Goku base Secret Rare, the base print the $105.48 Alternate Art sits on. Five of the ten are Leader alternate arts, and the cheapest base print behind them is the Baby Vegeta Leader at $0.15, against its Alternate Art at $14.48, which is 96.53 times the base. The top card cross-checks clean: TickerMint puts the Goku Alternate Art at $105 on November 22, 2026, and PriceCharting records TCGplayer sales at $95.20 on November 17 and $93.00 on November 11, 2026. The [FB06 best cards guide](/blog/fb06-best-cards/) ranks the set after this one the same way."
+        ]
+      },
+      {
+        "h": "The money layer: the case-split box at $90.61",
+        "paragraphs": [
+          "Our shelf, as of November 23, 2026, holds the sealed English case at $1,087.37, which splits to $90.61 a box, $3.78 a pack, and $0.31 a card. The market box, at $149.25 on the November 20, 2026 TickerMint market read, runs $6.22 a pack and $0.52 a card, so our case-split box sits $58.64 below it, which is 39.29% below. Twelve market boxes would cost $1,791.00, so the case saves $703.63 against the same twelve boxes on the open market, and the TickerMint case itself is listed at $1,460.47, $373.10 above our shelf case.",
+          "The top ten together, at $302.20, are 27.79% of the case price, 3.34 case-split boxes, and 2.02 market boxes. The top card alone is 9.70% of the whole case and 116.41% of one case-split box. The official English box, 24 packs at $4.99, is $119.76, and our case-split box sits $29.15 below it, 24.34% below.",
+          "WorthRipping, on November 23, 2026, puts its box read at $86.16, which is $4.45 below our case-split box, with $46 of cards inside at market prices and $32 after selling costs, a loss of $54.16 a box, and 95 of 100 boxes losing money. TickerMint, on November 20, 2026, puts the TCGplayer market box at $149.25, which is $63.09 above the WorthRipping read, and the market pack at $6.91, down 5% in 30 days. The English case fell 15.00% from $1,279.26 on November 4 to $1,087.37 on November 19, 2026, a drop of $191.89. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division, and the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) prices the whole ladder."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, the finish, and the set",
+        "paragraphs": [
+          "Every card in this ranking carries a set code, and the code plus the finish is the only safe way to buy it. Son Goku prints three times at FB04-129, base Secret Rare at $39.39, Alternate Art at $105.48, and Super Alternate Art with no current market price on TCGPursuit. Vegito prints twice at FB04-130, and the Alternate Art is the $18.41 card in this ranking, while the $1,404.99 Vegito with the same number belongs to Fusion World Promotion Cards and Packs, a different product. Each of the five Leaders prints twice, base and Alternate Art: the Goku Leader base is $0.16 and its Alternate Art is $28.76, while the Baby Vegeta Leader base is $0.15 and its Alternate Art is $14.48.",
+          "The set codes print on the card itself, with the rarity letter beside the number, and the finish is visible in the art treatment, not the name. On our shelf, as of November 23, 2026, the way to buy sealed FB04 is the case at $1,087.37, split to $90.61 a box, and there is no single English box listed and no Japanese FB04 listing at all. Do not confuse the main set with the Release Event Cards, set code FB04_PR, released November 8, 2024, whose best card is Baby : Possessed Boy Form at $5.90. Do not confuse the $27.57 Vegeta Alternate Art with the Vegeta Gold from Manga Booster 01, a different printing at $299.10, or with the Manga Booster 01 holofoil reprint of the same number at $6.54. The [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) runs the same checks for the sealed decision on the set after this one.",
+          "Two of the cheapest ranked cards carry the widest print gaps. The Gotenks Alternate Art at $11.36 sits on a base print at $0.22, which is 51.64 times the base, and DeckTradr puts the same Alternate Art at $11.57 on 51 catalog-matched sales in 90 days. The Son Goku FB04-059 Alternate Art at $8.57 sits on a base print at $0.27, which is 31.74 times the base. Both are Super Rares."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "Six ways to spend on FB04, priced as of November 23, 2026, with the market box at its November 20, 2026 market price. The case-split box wins on per-pack cost, the singles win on certainty, and the Japanese box at retail wins nothing at all as a purchase, because it is a different product in a different language and retail stock at that price is long gone. The row most buyers should pick is the single, if the goal is a named card, or the case-split box, if the goal is opening the set. The [FB07 investment guide](/blog/fb07-investment/) runs the same figures against the set after this one."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Shelf case-split box",
+              "$90.61",
+              "$3.78",
+              "Opening FB04 at the lowest per-pack cost",
+              "$90.61 for a chase that tops out at $105.48, with no pull rates published"
+            ],
+            [
+              "Market box",
+              "$149.25",
+              "$6.22",
+              "Buying the same box when our case is gone",
+              "$58.64 above our case-split box, and $2.44 a pack above our $3.78"
+            ],
+            [
+              "Full shelf case",
+              "$1,087.37",
+              "$3.78 a pack",
+              "Holding sealed or splitting twelve boxes",
+              "$1,087.37 in one purchase, and the top ten together are 27.79% of it"
+            ],
+            [
+              "Top ten as singles",
+              "$302.20",
+              "n/a",
+              "Owning the ranked list outright",
+              "$302.20 in one purchase, with no sealed product and no chance at the unpriced Goku Super Alternate Art"
+            ],
+            [
+              "Japanese box at retail",
+              "$33.19",
+              "n/a",
+              "Collecting or opening in Japanese",
+              "24 packs of 6 cards, and Japanese cards are not legal at official English events"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The box is down 3.6% in 30 days and the case is up 11% in 30 days, so the shelf can move either way from here"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no case math, and no priced grail",
+        "note": "From the Warehouse: the question we get most about FB04 is whether the $799.99 Goku is the card in the pack art, because buyers see Goku on the box and assume one Goku is one price. It is three cards at three prices, and the top one has no market price at all on the source this ranking uses. The second question is why the case-split box is $58.64 below the market box, and the answer is the case division itself: twelve boxes bought as one case, divided by twelve. On this shelf, on this date, the case-split box is $3.78 a pack against a $6.91 market pack, which is the only number in this guide no other list can give you, because no other list holds the case.",
+        "paragraphs": [
+          "The top three results for this query all do the same job: they rank cards by price. TCGPursuit ranks by TCGplayer market, TickerMint prices the box and the pack against the cards, and WorthRipping simulates the box against its own read. None of them holds a case, divides a case into boxes, or tells you what the box on a real shelf costs.",
+          "Four things only this page owns. First, the live shelf: a sealed English case at $1,087.37, split to $90.61 a box, with no single box listed, as of November 23, 2026. Second, the case math: $3.78 a pack against a $6.22 market-box pack and a $6.91 market pack, with $703.63 saved against twelve market boxes. Third, the print split: nine of the ten ranked cards are alt-arts, and the same number can span $66.09 between finishes. Fourth, the unpriced grail: flagged and kept out of the total, with the disagreement stated, not smoothed over. TCGPursuit prices 154 of 155 versions and leaves the Goku Super Alternate Art out, WorthRipping prints it at $642.12, and Master Set Cards prints it at $799.99. The [FB09 investment guide](/blog/fb09-investment/) runs the same division on the set before the last one."
+        ]
+      },
+      {
+        "h": "The chase ladder: one grail with three prices, then a flat top ten",
+        "note": "From the Warehouse: what we see in allocation is that buyers ask for the Goku Super Alternate Art by name and then stop listening when we say it has no market price, because a three-figure card feels like a plan. It is not a plan, it is two different numbers from two different sources with no market behind either of them. The ladder that actually pays is the five-card top, led by a Goku at $105.48 and four alt-arts under $40, all with a fresh market price dated this week. Chase the ladder you can verify, not the grail you cannot.",
+        "paragraphs": [
+          "The ladder has five rungs. The top rung, above the list, holds the one Super Alternate Art with no TCGplayer market price on TCGPursuit: Son Goku FB04-129, which WorthRipping prints at $642.12 while Master Set Cards prints it at $799.99, a gap of $157.87 between the two. Treat it as a trophy, not a target, until a fresh market price appears.",
+          "The second rung is the Goku FB04-129 Alternate Art at $105.48, the only card above $40 with a current market price. The third rung is the three Leader alt-arts from $27.57 to $32.61. The fourth rung is the second five, $68.39 together, led by the Vegito Alternate Art at $18.41. The fifth rung is the base prints, led by the Goku base Secret Rare at $39.39, and the Leader bases from $0.15 to $0.22. The ladder is steep at the top: the gap from first to second is $66.09, and the gap from second to third is $6.78. The [FB08 investment guide](/blog/fb08-investment/) runs the same division on the set after the next one."
+        ]
+      },
+      {
+        "h": "The risk layer: 95 boxes in 100 lose money, and the box price disagrees with itself",
+        "paragraphs": [
+          "Concentration is the first risk. The top card is 34.90% of the top ten, and the top five are 77.37% of it, so the ranking is a bet on five cards, and a market that cools on the Goku takes most of the list down together. The set is flat, not falling: ogcards prices one of every version at $362.94 on November 22, 2026, with the top ten alone worth 83.26% of it. The Goku base Secret Rare rose 9.4% to $39.39 while the Vegito Alternate Art fell 5.6% to $18.41.",
+          "Fakes and reseals are the second risk. Check the seal before opening, photograph the box, and keep the seal intact until you are sure, because a reseal claim is only provable while the seal is unbroken. The third risk is the pull-rate gap: Bandai publishes no pull rates, WorthRipping puts an alt-art Secret Rare at 1 in 14 boxes, and WorthRipping's own simulation puts 95 of 100 boxes losing money, so no honest expected-value math exists for opening it. The [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) runs the same checks for the sealed decision."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and where FB04 sits in the series",
+        "paragraphs": [
+          "Japan and English are different products. Japan released FB04 on November 8, 2024, in boxes of 24 packs of 6 cards at 220 yen a pack, so 5,280 yen at retail, which converts to $33.19 at the ECB November 23, 2026 fixing of 159.07 yen per dollar. English released on November 15, 2024, in boxes of 24 packs of 12 cards plus a digital code per pack. The Japanese box holds half the cards, and Japanese cards are not legal at official English events. The set also carries a five-card Alternate Art Reprints set, FB04_AR, released February 14, 2025, whose best card is the Majin Buu : Kid Alternate Art at $199.08.",
+          "FB04 is the fourth main Fusion World booster, sitting between FB03 Raging Roar and FB05 New Adventure. The FB05 case on our shelf is $1,139.60, $52.23 above the FB04 case, while the FB06 case is $1,232.30, $144.93 above it, the FB07 case is $1,348.95, $261.58 above it, and the FB10 case is $1,983.53, $896.16 above it. The next set is already dated: FB12 Reach the God releases in Japan on December 12, 2026, and in English on December 18, 2026. The [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) compares the box choice across the series."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer who wants the Goku Super Alternate Art at a verified current price, because no such price exists as of November 23, 2026. It is not for a player who needs Japanese cards for an English event, because Japanese cards are not legal there. It is not for a buyer who wants a guaranteed return from opening boxes, because WorthRipping puts 95 of 100 FB04 boxes losing money, and the median box holds $12 of cards. It is not for a collector who wants the whole set as singles without paying for the alt-arts, because the top ten are 83.26% of the set value. The [FB10 best cards guide](/blog/fb10-best-cards/) ranks the steepest ladder in the series the same way."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Goku FB04-129 Alternate Art, buy the single at $105.48, which is 116.41% of one case-split box, and do not open boxes for it; Bandai publishes no pull rates and the card sits $66.09 above the second card",
+          "If the job is the box, pay $90.61 on our case split, or $3.78 a pack, and treat the chase as a bonus; the box is $58.64 below the $149.25 market box",
+          "If the job is a case, divide it first: the case is $1,087.37 for 12 boxes, $3.78 a pack, and it saves $703.63 against twelve market boxes, so confirm the $90.61 per-box figure at checkout",
+          "If the job is the whole top ten, buy the singles at $302.20: three case-split boxes cost $271.83, which is $30.37 less, but they still leave the chase to chance, while the singles are exact",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and remember there is no Japanese FB04 listing on our shelf",
+          "Check the number and the finish on any Goku before you pay: the FB04-129 Super Alternate Art has no current market price, the Alternate Art is $105.48, and the base Secret Rare is $39.39",
+          "Check the number and the finish on any Vegeta before you pay: the FB04-051 Alternate Art is $27.57, the base Leader is $0.17, and the Gold from Manga Booster 01 is $299.10",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the FB04 best-cards checklist",
+        "paragraphs": [
+          "Work the list in order, and stop at the first line that matches your goal. The [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) runs the same checklist shape on the set before the last one, for buyers comparing the two."
+        ]
+      }
+    ],
+    "slug": "fb04-best-cards",
+    "takeaway": [
+      "The FB04 top ten, on the November 23, 2026 read, totals $302.20, with the Son Goku FB04-129 Alternate Art at $105.48. The Goku is $105.48 of it, 34.90% of the list, and nine of the ten ranked cards are alt-arts, while the base Secret Rare behind the top card sits at $39.39.",
+      "On our shelf as of November 23, 2026, the sealed English case is $1,087.37, which splits to $90.61 a box, $3.78 a pack, and there is no single English box listed and no Japanese FB04 listing at all. The case-split box sits $58.64 below the $149.25 market box, and the case saves $703.63 against twelve market boxes.",
+      "It is worth buying as the set to open, sealed or split, and it is not worth buying as a way to own one named card. Bandai publishes no pull rates, the Goku alone is 116.41% of one case-split box, and the Goku Super Alternate Art carries no current market price at all.",
+      "The ladder is steep at the top: the gap from first to second is $66.09, the gap from second to third is $6.78, and the top five together are $233.81. Four facts the other lists miss are covered on this page: the live shelf, the case division, the print split, and the unpriced grail kept out of the total.",
+      "Companion guide: the [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) runs the same verdict, and the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) walks the same checks for FB08.",
+      "For the longer hold, the [FB07 investment guide](/blog/fb07-investment/) runs the same division on the set after this one, and the [FB08 investment guide](/blog/fb08-investment/) prices the set beside this one.",
+      "For the set after this one, the [FB05 best cards guide](/blog/fb05-best-cards/) ranks the ten best New Adventure cards, and the [FB06 best cards guide](/blog/fb06-best-cards/) ranks the set after that one.",
+      "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them."
+    ]
+  },
+  "fb05-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Son Goku FB05-119 Super Alternate Art at $1,487.50 on the November 22, 2026 TCGplayer market read from Sparkl, checked November 23, 2026. It is 61.78% of the top ten, which totals $2,407.79, and it sits $912.25 above the second card, Frieza FB05-120 Super Alternate Art at $575.25. Read the price with care: TCGPursuit flags the $1,487.50 as needing context, Hoshino records the last sale at $1,475 on August 1, 2026, and WorthRipping prints a raw value of $1,100.59 on November 23, 2026, which is $386.91 below the market print. The market price stands, but it has not been tested by a recent sale.",
+        "q": "What is the most valuable FB05 New Adventure card?"
+      },
+      {
+        "a": "No, not as a plan. The Goku Super Alternate Art is $1,487.50, which is 1,566.28% of our $94.97 case-split box, and Bandai publishes no pull rates for this set, so no honest expected-value math exists for the chase. WorthRipping puts an alt-art Secret Rare at 1 in 14 boxes, and 95 of 100 FB05 boxes lose money, with a typical box worth $30. Buy the single if the Goku is the card you want, and buy the box only if you want to open New Adventure.",
+        "q": "Should I buy an FB05 box to pull the Goku Super Alternate Art?"
+      },
+      {
+        "a": "At Japanese retail, yes, and as a product, no. A Japanese box holds 24 packs of 6 cards at 220 yen a pack, so 5,280 yen at retail, which converts to $33.19 at the ECB November 23, 2026 fixing of 159.07 yen per dollar. An English box holds 24 packs of 12 cards, and our case-split English box is $94.97 as of November 23, 2026. The two boxes are different products in different languages, Japanese cards are not legal at official English events, and there is no Japanese FB05 listing on our shelf at all, so never divide box math from a listing that does not exist.",
+        "q": "Is the Japanese FB05 box cheaper than the English box?"
+      }
+    ],
+    "h1": "FB05 New Adventure Best Cards: Top 10, Priced",
+    "intro": [
+      "Short answer: the best card in FB05 New Adventure is Son Goku FB05-119 Super Alternate Art, at $1,487.50 on the November 22, 2026 TCGplayer market read, and the ten best together are $2,407.79. On our shelf, as of November 23, 2026, the sealed English case is $1,139.60, which splits to $94.97 a box, with no single English box on the shelf. Buy the box to open New Adventure, buy the single for the Goku, and treat the top card price as a market print that has not been tested by a recent sale.",
+      "New Adventure, set code FB05, is 133 card types: 120 numbered cards, 5 Leaders, 40 commons, 31 uncommons, 30 rares, 12 Super Rares, and 2 Secret Rares, plus 3 special reprints and 10 Dokkan Battle collaboration reprints, released in Japan on February 8, 2025, and in English on February 14, 2025. English packs hold 12 cards plus a digital code; a box holds 24 packs. Who this is for: collectors ranking the chase and buyers choosing case, box, or single. The [FB06 best cards guide](/blog/fb06-best-cards/) ranks the set after this one the same way."
+    ],
+    "metaDescription": "FB05 New Adventure best cards, Nov 23, 2026: Goku Super Alt-Art $1,487.50, top ten $2,407.79, case-split box $94.97, case $1,139.60.",
+    "metaTitle": "FB05 New Adventure Best Cards: Top 10, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: one Goku owns the set, and two cards own the list",
+        "math": [
+          "FB05 top 10 total: $1,487.50 + $575.25 + $84.76 + $77.07 + $71.26 + $26.79 + $22.55 + $22.29 + $20.21 + $20.11 = $2,407.79",
+          "FB05 top 5 total: $1,487.50 + $575.25 + $84.76 + $77.07 + $71.26 = $2,295.84; $2,295.84 / $2,407.79 = 95.35% of the top 10",
+          "FB05 ranks 6 to 10 total: $26.79 + $22.55 + $22.29 + $20.21 + $20.11 = $111.95; $111.95 / $2,407.79 = 4.65% of the top 10",
+          "FB05 top card share: $1,487.50 / $2,407.79 = 61.78% of the top 10",
+          "FB05 second card share: $575.25 / $2,407.79 = 23.89% of the top 10",
+          "FB05 top two share: $1,487.50 + $575.25 = $2,062.75; $2,062.75 / $2,407.79 = 85.67% of the top 10",
+          "FB05 gap one to two: $1,487.50 - $575.25 = $912.25; $1,487.50 / $575.25 = 2.59 times number two",
+          "FB05 gap two to three: $575.25 - $84.76 = $490.49",
+          "FB05 gap five to six: $71.26 - $26.79 = $44.47",
+          "FB05 set value: top 10 $2,407.79 / $2,526.21 = 95.31% of the set; $2,526.21 - $2,407.79 = $118.42 across the other 131 priced printings",
+          "FB05 Sparkl headline gap: $2,408.61 - $2,407.79 = $0.82 above the sum of its own printed prices",
+          "FB05 case-split box: $1,139.60 / 12 boxes = $94.97 per box",
+          "FB05 shelf per pack: $94.97 / 24 packs = $3.96 per pack",
+          "FB05 shelf per card: $94.97 / 288 cards = $0.33 per card",
+          "FB05 market box per pack: $204.98 / 24 packs = $8.54 per pack",
+          "FB05 market box per card: $204.98 / 288 cards = $0.71 per card",
+          "FB05 market box per pack gap: $8.54 - $3.96 = $4.58",
+          "FB05 market box gap: $204.98 - $94.97 = $110.01; $110.01 / $204.98 = 53.67% below market",
+          "FB05 twelve market boxes: 12 x $204.98 = $2,459.76; $2,459.76 - $1,139.60 = $1,320.16 saved on the case",
+          "FB05 market pack gap: $9.87 - $3.96 = $5.91; $5.91 / $9.87 = 59.88% below the market pack",
+          "FB05 top 10 against the case: $2,407.79 / $1,139.60 = 211.28% of the case price",
+          "FB05 top 10 in split boxes: $2,407.79 / $94.97 = 25.35 boxes",
+          "FB05 top 10 against the market box: $2,407.79 / $204.98 = 11.75 boxes; $2,407.79 - $204.98 = $2,202.81 above one market box",
+          "FB05 top card against the split box: $1,487.50 / $94.97 = 1,566.28% of one box",
+          "FB05 top card against the case: $1,487.50 / $1,139.60 = 130.53% of the case",
+          "FB05 Japanese box at MSRP: 24 x 220 yen = 5,280 yen; 5,280 yen / 159.07 yen per dollar = $33.19",
+          "FB05 Japanese pack: 220 yen / 159.07 yen per dollar = $1.38",
+          "FB05 case in yen: $1,139.60 x 159.07 yen per dollar = 181,276.17 yen",
+          "FB05 split box in yen: $94.97 x 159.07 yen per dollar = 15,106.88 yen",
+          "FB05 top 10 in yen: $2,407.79 x 159.07 yen per dollar = 383,007.16 yen",
+          "FB05 top card in yen: $1,487.50 x 159.07 yen per dollar = 236,616.63 yen",
+          "FB05 Goku SAA premium: $1,487.50 / $77.07 = 19.30 times the Alternate Art; $1,487.50 - $77.07 = $1,410.43 above it",
+          "FB05 Frieza SAA premium: $575.25 / $22.29 = 25.81 times the Alternate Art; $575.25 - $22.29 = $552.96 above it",
+          "FB05 Frieza SAA base premium: $575.25 / $3.85 = 149.42 times the base print; $575.25 - $3.85 = $571.40 above it",
+          "FB05 Frieza AA base premium: $22.29 / $3.85 = 5.79 times the base print; $22.29 - $3.85 = $18.44 above it",
+          "FB05 Vegito AA base premium: $84.76 / $0.29 = 292.28 times the base print; $84.76 - $0.29 = $84.47 above it",
+          "FB05 Goku SAA disagreement: $1,487.50 - $1,100.59 = $386.91; $386.91 / $1,487.50 = 26.01% below the market print",
+          "FB05 Frieza SAA disagreement: $689.15 - $575.25 = $113.90 above the market print",
+          "FB05 Goku SAA last sale gap: $1,487.50 - $1,475.00 = $12.50",
+          "FB05 WorthRipping box gap: $204.98 - $154.03 = $50.95 below the TCGplayer market box",
+          "FB05 WorthRipping November 23, 2026: $88.00 - $154.03 = -$66.03 at market prices; $71.30 - $154.03 = -$82.73 after selling costs; $71.30 / $154.03 = 46.29% of the box in cards after selling costs",
+          "FB05 typical box gap: $94.97 - $30.00 = $64.97",
+          "FB05 official box: 24 x $4.99 = $119.76; $119.76 - $94.97 = $24.79; $24.79 / $119.76 = 20.70% below the official box",
+          "FB05 TCGplayer case: $1,779.99 - $1,139.60 = $640.39; $640.39 / $1,779.99 = 35.98% below the TCGplayer case",
+          "FB05 set value 90 days: $2,526.21 - $2,203.29 = $322.92; $322.92 / $2,203.29 = 14.66% up over 90 days",
+          "FB05 against FB04: $1,139.60 - $1,087.37 = $52.23 above the FB04 case",
+          "FB05 against FB06: $1,232.30 - $1,139.60 = $92.70 below the FB06 case",
+          "FB05 against FB07: $1,348.95 - $1,139.60 = $209.35 below the FB07 case",
+          "FB05 against FB10: $1,983.53 - $1,139.60 = $843.93 below the FB10 case",
+          "FB05 set in split boxes: $2,526.21 / $94.97 = 26.60 boxes",
+          "FB05 set in market boxes: $2,526.21 / $204.98 = 12.32 boxes",
+          "FB05 Goku PSA 10: $2,750.00 - $1,487.50 = $1,262.50 above raw; $2,750.00 / $1,487.50 = 1.85 times raw",
+          "FB05 Frieza PSA 10: $1,190.61 - $575.25 = $615.36 above raw; $1,190.61 / $575.25 = 2.07 times raw",
+          "FB05 Release Event top card: $2.41 / $61.10 = 3.94% of the set"
+        ],
+        "paragraphs": [
+          "The ranked ten, all TCGplayer market prices from Sparkl, read November 22, 2026: Son Goku FB05-119 Super Alternate Art at $1,487.50, Frieza FB05-120 Super Alternate Art at $575.25, Vegito FB05-025 Alternate Art at $84.76, Son Goku FB05-119 Alternate Art at $77.07, and Gogeta FB05-095 Alternate Art at $71.26. The top five together are $2,295.84, 95.35% of the whole top ten, and the top two alone are $2,062.75, 85.67% of it. The Goku is 61.78% of the list by itself, and the gap from first to second is $912.25, the most top-heavy set in the mainline.",
+          "The second five: Son Goku FB05-049 Alternate Art at $26.79, Janemba FB05-072 Alternate Art at $22.55, Frieza FB05-120 Alternate Art at $22.29, Vegito FB05-040 Alternate Art at $20.21, and Son Goku (Mini) : DA FB05-001 Alternate Art at $20.11. Ranks six to ten together are $111.95, 4.65% of the top ten, and the drop from fifth to sixth is $44.47. All ten are alternate arts, and the base prints behind them are cheap: the Frieza base Secret Rare is $3.85 and the Vegito base Leader is $0.29, so the Vegito Alternate Art is 292.28 times its base. The [FB07 best cards guide](/blog/fb07-best-cards/) ranks the next set the same way."
+        ]
+      },
+      {
+        "h": "The money layer: the case-split box undercuts the market box",
+        "paragraphs": [
+          "Our shelf, as of November 23, 2026, holds the sealed English case at $1,139.60, which splits to $94.97 a box, $3.96 a pack, and $0.33 a card. The market box, at $204.98 on the November 22, 2026 TCGplayer market read, runs $8.54 a pack and $0.71 a card, so our case-split box sits $110.01 below it, 53.67% below. Twelve market boxes would cost $2,459.76, so the case saves $1,320.16 against the same twelve boxes on the open market, and the TCGplayer case is listed at $1,779.99, $640.39 above ours.",
+          "The top ten together, at $2,407.79, are 211.28% of the case price, 25.35 case-split boxes, and 11.75 market boxes. The top card alone is 130.53% of the whole case and 1,566.28% of one case-split box, so one Goku costs more than the entire case. The official English box is $119.76, 24 packs at $4.99, and our case-split box sits $24.79 below it, 20.70% below.",
+          "Two trackers frame the opening math. WorthRipping, on November 23, 2026, put the box at $154.03 against $88 of cards inside at market prices, or $71.30 after selling costs, 46.29% of the box, with 95 of 100 boxes losing money and a typical box worth $30. TickerMint, on November 22, 2026, put the market box at $204.98 and the market pack at $9.87, with 15 cards in the set worth more than one pack. The two box reads disagree by $50.95; this guide uses the $204.98 TCGplayer market box, printed by both Sparkl and TickerMint. The shelf is steady: the case is unchanged since November 13, 2026. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division, and the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) prices the whole ladder."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number and the finish, not the name",
+        "paragraphs": [
+          "Every card in this ranking carries a set code, and the code plus the finish is the only safe way to buy it. Son Goku prints twice at FB05-119, Alternate Art at $77.07 and Super Alternate Art at $1,487.50, with no base Secret Rare print at all. Frieza prints three times at FB05-120, base Secret Rare at $3.85, Alternate Art at $22.29, and Super Alternate Art at $575.25. Each of the five Leaders prints twice, base and Alternate Art: the Vegito base is $0.29 and its Alternate Art is $84.76, a gap of $84.47. Send the number and the finish with every order.",
+          "The set codes print on the card itself, with the rarity letter beside the number, and the finish is visible in the art treatment, not the name. On our shelf, as of November 23, 2026, the way to buy sealed FB05 is the case at $1,139.60, split to $94.97 a box, and there is no single English box listed and no Japanese FB05 listing at all. Do not confuse the main set with the Release Event Cards, set code FB05_PR, released February 7, 2025, a 71-card side set worth $61.10 in all, whose dearest card is the Saike Demon at $2.41. Do not confuse the $20.21 Vegito FB05-040 Alternate Art with the $84.76 Vegito FB05-025 Alternate Art Leader, a different card. The [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) runs the same checks for the sealed decision on the set two after this one."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "Six ways to spend on FB05, priced as of November 23, 2026, with the market box at its November 22, 2026 price. The case-split box wins on per-pack cost, the singles win on certainty, and the Japanese box at retail wins nothing at all as a purchase, because it is a different product in a different language. Read the failure column before the price column, because every row fails somewhere. Most buyers should pick the single, if the goal is a named card, or the case-split box, if the goal is opening the set. The [FB07 investment guide](/blog/fb07-investment/) runs the same figures against the set two after this one."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Shelf case-split box",
+              "$94.97",
+              "$3.96",
+              "Opening FB05 at the lowest per-pack cost",
+              "$94.97 for a chase that tops out at $1,487.50, with no pull rates published"
+            ],
+            [
+              "Market box",
+              "$204.98",
+              "$8.54",
+              "Buying the same box when our case is gone",
+              "$110.01 above our case-split box, and $4.58 a pack above our $3.96"
+            ],
+            [
+              "Full shelf case",
+              "$1,139.60",
+              "$3.96 a pack",
+              "Holding sealed or splitting twelve boxes",
+              "$1,139.60 in one purchase, and the top card alone is 130.53% of it"
+            ],
+            [
+              "Top ten as singles",
+              "$2,407.79",
+              "n/a",
+              "Owning the ranked list outright",
+              "$2,407.79 in one purchase, with no sealed product and no chance at a cheaper Goku"
+            ],
+            [
+              "Japanese box at retail",
+              "$33.19",
+              "$1.38",
+              "Collecting or opening in Japanese",
+              "24 packs of 6 cards, and Japanese cards are not legal at official English events"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The set value is up 14.66% in 90 days and the box is up 1% over 30 days, so the shelf can move either way from here"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no case math, and a stale grail",
+        "note": "From the Warehouse: the question we get most about FB05 is whether the $1,487.50 Goku is the card in the pack art, because buyers see Goku on the box and assume one Goku is one price. It is two cards at two prices, $77.07 and $1,487.50, and the dearer one has not recorded a sale since August 1, 2026. The second question is why the case-split box is $110.01 below the market box, and the answer is the case division itself: twelve boxes bought as one case, divided by twelve. On this shelf, on this date, the case-split box is $3.96 a pack against a $9.87 market pack, which is the only number in this guide no other list can give you, because no other list holds the case.",
+        "paragraphs": [
+          "The top three results for this query all do the same job: they rank cards by price. Sparkl ranks by TCGplayer market, TickerMint tracks the box and the pack day by day, and TCGPursuit ranks by the same market with a warning flag where the price needs context. None of them holds a case, divides a case into boxes, or tells you what the box on a real shelf costs. Their headings are a floor, not the article.",
+          "Four things only this page owns. First, the live shelf: a sealed English case at $1,139.60, split to $94.97 a box, with no single box listed, as of November 23, 2026. Second, the case math: $3.96 a pack against an $8.54 market-box pack and a $9.87 market pack, with $1,320.16 saved against twelve market boxes. Third, the print split: all ten ranked cards are alt-arts, and the same number can span $571.40 between finishes. Fourth, the stale grail: flagged, dated, and kept in the total with the disagreement printed, because the $1,487.50 market print sits $386.91 above WorthRipping's $1,100.59 raw value and $12.50 above the last sale of $1,475 on August 1, 2026. Sparkl's own headline total for the ten best, about $2,408.61, sits $0.82 above the $2,407.79 its listed prices sum to. The [FB09 investment guide](/blog/fb09-investment/) runs the same division on the set four after this one."
+        ]
+      },
+      {
+        "h": "The chase ladder: two grails, then a cliff",
+        "note": "From the Warehouse: what we see in allocation is that buyers ask for the Goku Super Alternate Art by name and then stop listening when we say it has not sold since August, because a four-figure card feels like a plan. It is not a plan, it is a market print with no recent sale behind it. The ladder that actually pays is the three alt-arts from $71.26 to $84.76, all with fresh market prices dated this week, and the second five topping out at $26.79. Chase the ladder you can verify, not the grail you cannot.",
+        "paragraphs": [
+          "The ladder has four rungs. The top rung holds the two Super Alternate Arts, the Goku at $1,487.50 and the Frieza at $575.25, which together are 85.67% of the whole top ten. The Goku carries the stale-price warning, and the Frieza carries its own disagreement: WorthRipping prints it at $689.15, $113.90 above the market print. Graded copies trade higher still: the Goku PSA 10 is $2,750.00 and the Frieza PSA 10 is $1,190.61, both on November 22, 2026. Treat both as trophies, not targets, until a fresh sale tests the raw price.",
+          "The second rung is the three alt-arts from $71.26 to $84.76, the Vegito Leader, the Goku Alternate Art, and the Gogeta Leader, all with fresh market prices dated this week. The third rung is the second five, $111.95 together, led by the Son Goku FB05-049 Alternate Art at $26.79. The fourth rung is the base prints, the Frieza base Secret Rare at $3.85 and the Vegito base Leader at $0.29, the cheapest way to own the two arts that carry the list. The ladder falls off a cliff after the top two: the gap from second to third is $490.49, and the gap from fifth to sixth is $44.47. The [FB08 investment guide](/blog/fb08-investment/) runs the same division on the set three after this one."
+        ]
+      },
+      {
+        "h": "The risk layer: the box loses 95 times in 100, and the top card has not sold since August",
+        "paragraphs": [
+          "Concentration is the first risk. The top card is 61.78% of the top ten, and the top five are 95.35% of it, so the ranking is a bet on two Super Alternate Arts, and a market that cools on the Goku takes most of the list down together. The set is rising, not falling: Sparkl records the set value up 14.66% over 90 days, from $2,203.29 on August 24, 2026 to $2,526.21 on November 22, 2026, while TickerMint puts the box up 1% over 30 days at $204.98 and the pack up 3% to $9.87. In the month to November 22, 2026, TickerMint records the Vegito Alternate Art up 6.5% to $84.76 while the Goku Alternate Art held flat at $77.07 and the Frieza Alternate Art at $22.29.",
+          "Fakes and reseals are the second risk, and FB05 is a target because the market box is $204.98 and the case is $1,139.60. Check the seal before opening, photograph the box, and keep the seal intact until you are sure, because a reseal claim is only provable while the seal is unbroken. The third risk is the pull-rate gap: Bandai publishes no pull rates, WorthRipping puts an alt-art Secret Rare at 1 in 14 boxes, and WorthRipping's own simulation puts 95 of 100 boxes losing money, so no honest expected-value math exists for opening it. The fourth risk is the stale grail itself: the last recorded Goku Super Alternate Art sale was $1,475 on August 1, 2026, nearly four months before this read, so a buyer paying $1,487.50 today is paying a print, not a price the market has confirmed. The [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) runs the same checks for the sealed decision."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and where FB05 sits in the series",
+        "paragraphs": [
+          "Japan and English are different products. Japan released FB05 on February 8, 2025, in boxes of 24 packs of 6 cards at 220 yen a pack, so 5,280 yen at retail, which converts to $33.19 at the ECB November 23, 2026 fixing of 159.07 yen per dollar. English released on February 14, 2025, in boxes of 24 packs of 12 cards plus a digital code per pack. The Japanese box holds half the cards, and Japanese cards are not legal at official English events, so language comes before price. The set also carries the first Dragon Ball Z Dokkan Battle collaboration, 10 reprint cards inside the 133 types.",
+          "FB05 is the fifth main Fusion World booster, sitting between FB04 Ultra Limit and FB06 Rivals Clash, and the first set built on Dragon Ball Daima. The ladder beside it is close: the FB04 case on our shelf is $1,087.37, $52.23 below the FB05 case, while the FB06 case is $1,232.30, $92.70 above it, the FB07 case is $1,348.95, $209.35 above it, and the FB10 case is $1,983.53, $843.93 above it. The next set is already dated: FB12 Reach the God releases in Japan on December 12, 2026, and in English on December 18, 2026. The [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) compares the box choice across the series."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer who wants the Goku Super Alternate Art at a price the market has just confirmed, because the last recorded sale was $1,475 on August 1, 2026, and the $1,487.50 print has not been tested since. It is not for a player who needs Japanese cards for an English event, because Japanese cards are not legal there, and the cheaper Japanese box does not solve that. It is not for a buyer who wants a guaranteed return from opening boxes, because WorthRipping puts 95 of 100 FB05 boxes losing money, and the typical box holds $30 of cards. It is not for a collector who wants the whole set as singles without paying for the two grails, because the top ten are 95.31% of the set value and the other 131 printings are $118.42 together. The [FB10 best cards guide](/blog/fb10-best-cards/) ranks the set with the steepest ladder in the series the same way."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Goku FB05-119 Super Alternate Art, buy the single at $1,487.50, which is 1,566.28% of one case-split box, and do not open boxes for it; Bandai publishes no pull rates, the last sale was $1,475 on August 1, 2026, and the card sits $912.25 above the second card",
+          "If the job is the box, pay $94.97 on our case split, or $3.96 a pack, and treat the chase as a bonus; the box is $110.01 below the $204.98 market box",
+          "If the job is a case, divide it first: the case is $1,139.60 for 12 boxes, $3.96 a pack, and it saves $1,320.16 against twelve market boxes, so confirm the $94.97 per-box figure at checkout",
+          "If the job is the whole top ten, buy the singles at $2,407.79: the top card alone costs more than the whole case, so no number of boxes buys this list",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and remember there is no Japanese FB05 listing on our shelf",
+          "Check the number and the finish on any Goku before you pay: the FB05-119 Super Alternate Art is $1,487.50 and the Alternate Art is $77.07, while the $26.79 Alternate Art Goku is the FB05-049 Leader, a different card",
+          "Check the number and the finish on any Frieza before you pay: the FB05-120 Super Alternate Art is $575.25, the Alternate Art is $22.29, and the base Secret Rare is $3.85",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the FB05 best-cards checklist",
+        "paragraphs": [
+          "Work the list in order, and stop at the first line that matches your goal. The numbers in it are the same numbers in the money layer. The [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) runs the same checklist shape on the set four after this one, for buyers comparing the two."
+        ]
+      }
+    ],
+    "slug": "fb05-best-cards",
+    "takeaway": [
+      "The FB05 top ten, on the November 22, 2026 read, totals $2,407.79, with the Son Goku FB05-119 Super Alternate Art at $1,487.50. The Goku is $1,487.50 of it, 61.78% of the list, and all ten ranked cards are alt-arts, while the base prints behind them sit at $3.85 and $0.29.",
+      "On our shelf as of November 23, 2026, the sealed English case is $1,139.60, which splits to $94.97 a box, $3.96 a pack, and there is no single English box listed and no Japanese FB05 listing at all. The case-split box sits $110.01 below the $204.98 market box, and the case saves $1,320.16 against twelve market boxes.",
+      "It is worth buying as the set to open, sealed or split, and it is not worth buying as a way to own one named card. Bandai publishes no pull rates, the Goku alone is 1,566.28% of one case-split box, and the last recorded sale of that card was $1,475 on August 1, 2026.",
+      "The ladder is a cliff after the top two: the gap from first to second is $912.25, the gap from second to third is $490.49, and the top five together are $2,295.84. Four facts the other lists miss are covered on this page: the live shelf, the case division, the print split, and the stale grail kept in the total with the disagreement printed.",
+      "Companion guide: the [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) runs the same verdict, and the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) walks the same checks for FB08.",
+      "For the longer hold, the [FB07 investment guide](/blog/fb07-investment/) runs the same division on the set two after this one, and the [FB08 investment guide](/blog/fb08-investment/) prices the set beside this one.",
+      "For the set after this one, the [FB06 best cards guide](/blog/fb06-best-cards/) ranks the ten best Rivals Clash cards, and the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the set after that one.",
+      "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them.",
+      "For the set before this one, the [FB04 best cards guide](/blog/fb04-best-cards/) ranks the ten best Ultra Limit cards, top ten $302.20, with the Goku Alternate Art at $105.48, and the same case math beside them."
+    ]
+  },
   "fb06-best-cards": {
     "datePublished": "2026-11-23",
     "faqs": [
@@ -22302,7 +22774,9 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) runs the same verdict, and the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) walks the same checks for this set.",
       "For the longer hold, the [FB07 investment guide](/blog/fb07-investment/) runs the same division on the set after this one, and the [FB08 investment guide](/blog/fb08-investment/) prices the set beside this one.",
       "For the set after this one, the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the ten best Wish for Shenron cards, and the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the set after that one.",
-      "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them."
+      "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them.",
+      "For the set before this one, the [FB05 best cards guide](/blog/fb05-best-cards/) ranks the ten best New Adventure cards, top ten $2,407.79, with the Goku Super Alternate Art at $1,487.50, and the same case math beside them.",
+      "For the set two before this one, the [FB04 best cards guide](/blog/fb04-best-cards/) ranks the ten best Ultra Limit cards, top ten $302.20, with the Goku Alternate Art at $105.48, and the same case math beside them."
     ]
   },
   "fb07-best-cards": {
@@ -22535,7 +23009,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the next set in the series, the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the ten best Saiyan's Pride cards, and the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) prices the next set beside this one.",
       "For the adjacent set in another game, the [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks the ten best One Piece cards with the same case math beside them.",
       "The $23.70 Japanese listing is a single card, not a box, and the Japanese box is 5,280 yen, or $33.28 at 158.64 yen per dollar, so no per-box math divides from that listing.",
-      "For the set before this one, the [FB06 best cards guide](/blog/fb06-best-cards/) ranks the ten best Rivals Clash cards, top ten $639.49, with the Son Goku : Childhood Super Alternate Art at $147.78."
+      "For the set before this one, the [FB06 best cards guide](/blog/fb06-best-cards/) ranks the ten best Rivals Clash cards, top ten $639.49, with the Son Goku : Childhood Super Alternate Art at $147.78.",
+      "For the set two before this one, the [FB05 best cards guide](/blog/fb05-best-cards/) ranks the ten best New Adventure cards, top ten $2,407.79, with the Goku Super Alternate Art at $1,487.50, and the same case math beside them."
     ]
   },
   "fb07-investment": {
