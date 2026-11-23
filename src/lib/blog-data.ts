@@ -31267,7 +31267,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the first Scarlet and Violet subset to open, sealed, and it is not worth buying as a way to own the Magikarp Art Rare or to make the money back by opening. The Magikarp sat at $128.39 on TCGplayer on November 12, 2026, which is 0.99 of a box, and the Meowscarada ex Special Art Rare at $55.63 is 0.43 of a box. Buy the single, or buy the box for the set.",
       "It is worth buying with the rotation in mind: the cards carry the G regulation mark, which left Standard on April 10, 2026, so the box is a collection purchase, and it is worth buying with the fall in mind: the box dropped $22.84 in seven days, from $152.29 to $129.45, fifteen percent in one leg on November 13, 2026, and the case fell fifteen percent too, from $1,604.33 to $1,363.68.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of September 30 to November 13, 2026. The box now sits $29.39 above the SNKRDUNK lowest ask of $100.06, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) runs the same verdict on the set that followed it, where the chase is a whole set of 151 instead of one fish. The [SV1A Triplet Beat investment guide](/blog/sv1a-investment/) prices the case at $113.64 a box against the $149.96 market box."
+      "For the price-and-math companion, the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) runs the November 8 prices side by side, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) runs the same verdict on the set that followed it, where the chase is a whole set of 151 instead of one fish. The [SV1A Triplet Beat investment guide](/blog/sv1a-investment/) prices the case at $113.64 a box against the $149.96 market box.",
+      "Companion guide: the [SV1A Triplet Beat best cards guide](/blog/sv1a-best-cards/) ranks the ten most valuable cards, Magikarp Art Rare $119.04 and Meowscarada ex SAR $55.63 on the November 22, 2026 read, with the case math beside them."
     ]
   },
   "is-sv1s-worth-buying": {
@@ -31826,8 +31827,9 @@ export const POSTS: Record<string, BlogPost> = {
       "It is not worth buying as a way to own one named card. Measured English 151 openings put a Special Illustration Rare at about 1 in 32 packs, and one specific card, the Charizard, at about 1 in 224 packs, so the average spend to pull one is 11.2 boxes, $5,277.44, for a card worth about $408 raw. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, and the marketplace references as of October 2 to November 11, 2026. The reprint notice is the fact that outlives every price on this page: the publisher has printed more before, and sealed supply can grow again.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks the shelf by value.",
-      "New this cycle: the [is SV11B Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the newest verdict the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box.",
-      "New this cycle: the [SV2A Pokemon 151 investment guide](/blog/sv2a-investment/) divides the $400.52 box and the $3,237.92 case after the November 13 fall, with the Charizard at $395 and the Gengar mirror at $675."
+      "Companion guide: the [is SV11B Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the newest verdict the same way, box $183.18 against a case that saves $1,206.43, with the Zekrom ex BWR priced against the box.",
+      "Companion guide: the [SV2A Pokemon 151 investment guide](/blog/sv2a-investment/) divides the $400.52 box and the $3,237.92 case after the November 13 fall, with the Charizard at $395 and the Gengar mirror at $675.",
+      "Companion guide: the [SV2A Pokemon 151 best cards guide](/blog/sv2a-best-cards/) ranks the ten most valuable cards, Gengar Master Ball $688.23 and Charizard ex SAR $367.78 on the November 22, 2026 read, with the case math beside them."
     ]
   },
   "is-sv2d-worth-buying": {
@@ -57386,6 +57388,227 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [SV11W White Flare best cards guide](/blog/sv11w-best-cards/) ranks the set's ten most valuable cards on TCGplayer market prices, Nov 21, 2026, with the Reshiram ex BWR at $318.18 and the top ten at $733.26 against the $142.56 box."
     ]
   },
+  "sv1a-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Magikarp, the Art Rare numbered 080/073, at $119.04 on the November 22, 2026 market read, checked November 23, 2026. It is 32.58% of the top ten and 25.74% of the set as singles at $462.44, and it is 0.92 boxes at our $129.45 box price, so the top card costs less than one whole box. The next card, Meowscarada ex SAR at $55.63, sits $63.41 below it.",
+        "q": "What is the most valuable SV1A Triplet Beat card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $119.04, which is 0.92 boxes at our $129.45 box price, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The top ten together are $365.43, which is 2.82 boxes, and the Magikarp is 32.58% of that total, so a box with no Magikarp still has $246.39 of value in the other nine. Buy the single if the Magikarp is the card you want, and buy the box only if you want to open Triplet Beat.",
+        "q": "Should I buy an SV1A box to pull the Magikarp AR?"
+      },
+      {
+        "a": "No. The Japanese set is 103 cards, released March 10, 2023, in boxes of 30 packs of 5 cards. English Paldea Evolved, released June 9, 2023, folds Triplet Beat together with Snow Hazard and Clay Burst into a larger combined set of 279 cards, and its chase is the same Magikarp artwork as an Illustration Rare numbered 203/193, at $288.29 on the November 22, 2026 read. Japanese cards are not legal at official English events, and the SV1A cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English Paldea Evolved?"
+      }
+    ],
+    "h1": "SV1A Triplet Beat Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV1A Triplet Beat is Magikarp, the Art Rare numbered 080/073, at $119.04 on the November 22, 2026 market read, checked November 23, 2026, and the ten best together are $365.43. On our shelf, as of November 23, 2026, the Triplet Beat box is $129.45 and the sealed case of 12 boxes is $1,363.68. Buy the box to open Triplet Beat, buy the single for the Magikarp.",
+      "Triplet Beat, set code SV1a, is 103 cards: 73 in the main set plus 30 secret rares, released in Japan on March 10, 2023, in boxes of 30 packs of 5 cards at 180 yen a pack. Its cards reached English inside Paldea Evolved on June 9, 2023, but no standalone English Triplet Beat set or box was ever made. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single. The [SV1A Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) walks the same checks for this set."
+    ],
+    "metaDescription": "SV1A Triplet Beat best cards, Nov 23, 2026: Magikarp AR $119.04, top ten $365.43, box $129.45, case $1,363.68.",
+    "metaTitle": "SV1A Triplet Beat Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Magikarp, then three starters",
+        "paragraphs": [
+          "Every value below is from the TCGPursuit market read of November 22, 2026, checked November 23, 2026, using TCGplayer market prices. The ten are: Magikarp AR 080/073 at $119.04, Meowscarada ex SAR 096/073 at $55.63, Skeledirge ex SAR 097/073 at $53.01, Dendra SAR 099/073 at $39.99, Quaquaval ex SAR 098/073 at $25.89, Boss's Orders SAR 100/073 at $18.90, Meowscarada ex UR 101/073 at $17.73, Dedenne ex SR 089/073 at $13.48, Fuecoco AR 078/073 at $10.97 and Sprigatito AR 075/073 at $10.79. The ten together are $365.43, and one of each of the 103 cards is $462.44 on the same read.",
+          "The list is one card, then three starters, then a slope. The Magikarp alone is $119.04, 32.58% of the top ten and 25.74% of the set as singles. The three starter Special Art Rares together are $134.53, 36.81% of the list. The top three together are $227.68, 62.30% of the list, and the top five are $293.56, 80.33%. The gap from number one to number two is $63.41, and the Magikarp is 2.14 times the second card, while ranks four to ten together are $137.75, 37.70% of the list.",
+          "The top card is falling. Magikarp was $120.00 on the November 17, 2026 read, so the November 22 figure of $119.04 is down $0.96, 0.80% in five days, and TCGPursuit records a 7-day fall of 6.3%. Over 30 days it is down 14.45%, from $139.15 on October 22, 2026, per Double Holo. The biggest seven-day fallers are Tropius at minus 13.8%, Floragato at minus 7.6% and Mismagius at minus 7%. The [SV1A investment guide](/blog/sv1a-investment/) prices this set over a longer hold."
+        ]
+      },
+      {
+        "h": "The money layer: the case is the bargain here",
+        "math": [
+          "SV1A box per pack: $129.45 / 30 packs = $4.32 per pack",
+          "SV1A box per card: $129.45 / 150 cards = $0.86 per card",
+          "SV1A case per box: $1,363.68 / 12 boxes = $113.64 per box",
+          "SV1A case per pack: $1,363.68 / 360 packs = $3.79 per pack",
+          "SV1A case per card: $1,363.68 / 1,800 cards = $0.76 per card",
+          "SV1A twelve singles: 12 x $129.45 = $1,553.40",
+          "SV1A case saving: $1,553.40 - $1,363.68 = $189.72 across the case",
+          "SV1A saving per box: $189.72 / 12 = $15.81 per box",
+          "SV1A saving share: $189.72 / $1,553.40 = 12.21% saved",
+          "SV1A official box: 5,400 yen / 158.64 yen per dollar = $34.04",
+          "SV1A box above official: $129.45 - $34.04 = $95.41 above official",
+          "SV1A box multiple: $129.45 / $34.04 = 3.80 times official",
+          "SV1A case box vs official: $113.64 / $34.04 = 3.34 times official; $113.64 - $34.04 = $79.60 above official",
+          "SV1A Magikarp share of top 10: $119.04 / $365.43 = 32.58% of the top 10",
+          "SV1A top three total: $119.04 + $55.63 + $53.01 = $227.68; $227.68 / $365.43 = 62.30% of the top 10",
+          "SV1A top five total: $119.04 + $55.63 + $53.01 + $39.99 + $25.89 = $293.56; $293.56 / $365.43 = 80.33% of the top 10",
+          "SV1A starter SARs total: $55.63 + $53.01 + $25.89 = $134.53; $134.53 / $365.43 = 36.81% of the top 10",
+          "SV1A ranks 4 to 10 total: $39.99 + $25.89 + $18.90 + $17.73 + $13.48 + $10.97 + $10.79 = $137.75; $137.75 / $365.43 = 37.70% of the top 10",
+          "SV1A ranks 6 to 10 total: $18.90 + $17.73 + $13.48 + $10.97 + $10.79 = $71.87; $71.87 / $365.43 = 19.67% of the top 10",
+          "SV1A top 10 vs set value: $365.43 / $462.44 = 79.02% of the set value",
+          "SV1A Magikarp share of set value: $119.04 / $462.44 = 25.74% of the set value",
+          "SV1A rest of set: $462.44 - $365.43 = $97.01 across the other 93 priced printings",
+          "SV1A top 10 against the box: $365.43 / $129.45 = 2.82 boxes",
+          "SV1A top 10 minus one box: $365.43 - $129.45 = $235.98",
+          "SV1A set value in boxes: $462.44 / $129.45 = 3.57 boxes",
+          "SV1A three boxes: 3 x $129.45 = $388.35; $462.44 - $388.35 = $74.09 below the set as singles",
+          "SV1A four boxes: 4 x $129.45 = $517.80; $517.80 - $462.44 = $55.36 above the set as singles",
+          "SV1A Magikarp against the box: $119.04 / $129.45 = 0.92 boxes",
+          "SV1A gap number one to number two: $119.04 - $55.63 = $63.41; $119.04 / $55.63 = 2.14 times number two",
+          "SV1A gap number two to number three: $55.63 - $53.01 = $2.62",
+          "SV1A gap number three to number four: $53.01 - $39.99 = $13.02",
+          "SV1A Meowscarada SAR vs UR: $55.63 / $17.73 = 3.14 times the Ultra Rare; $55.63 - $17.73 = $37.90",
+          "SV1A Magikarp in yen: $119.04 x 158.64 yen per dollar = 18,884.51 yen",
+          "SV1A top 10 in yen: $365.43 x 158.64 yen per dollar = 57,971.82 yen",
+          "SV1A set value in yen: $462.44 x 158.64 yen per dollar = 73,361.48 yen",
+          "SV1A Magikarp move Nov 17 to Nov 22: $119.04 - $120.00 = $0.96 down; $0.96 / $120.00 = 0.80% down",
+          "SV1A Magikarp 30-day move: $119.04 - $139.15 = $20.11 down; $20.11 / $139.15 = 14.45% down",
+          "SV1A shelf box vs market box: $149.96 - $129.45 = $20.51 below market; $20.51 / $149.96 = 13.68% below market",
+          "SV1A case box vs market box: $149.96 - $113.64 = $36.32 below market; $36.32 / $149.96 = 24.22% below market",
+          "SV1A market box per pack: $149.96 / 30 packs = $5.00 per pack",
+          "SV1A English Magikarp vs Japanese: $288.29 / $119.04 = 2.42 times; $288.29 - $119.04 = $169.25 dearer",
+          "SV1A PSA 10 Magikarp vs raw: $191.00 / $119.04 = 1.60 times raw; $191.00 - $119.04 = $71.96",
+          "SV1A Scryda set gap: $463.79 - $462.44 = $1.35; $1.35 / $462.44 = 0.29% apart",
+          "SV1A Cardfolio Magikarp gap: $119.04 - $95.15 = $23.89"
+        ],
+        "paragraphs": [
+          "The box is $129.45 for 30 packs of 5 cards, $4.32 a pack and $0.86 a card. The case is $1,363.68 for a printed 12 boxes, $113.64 a box, $3.79 a pack and $0.76 a card, $189.72 less than twelve singles at $1,553.40, 12.21% saved, $15.81 a box. Both prices are from the live shelf, read November 23, 2026. The [Triplet Beat booster box](/product/sv1a-triplet-beat-booster-box-japanese-pokemon-card/) and the [Triplet Beat sealed case](/product/sv1a-triplet-beat-sealed-case-12-boxes-japanese-pokemon-card/) are the listings these divisions run on.",
+          "Against the official price, the shelf sits far above retail, and the case is where the saving lives. The official box is 5,400 yen, which converts to $34.04 at 158.64 yen per dollar, the European Central Bank rate of November 20, 2026, so our box is 3.80 times official and $95.41 above it, while the case box is 3.34 times official. The top ten together are 2.82 boxes, and the complete set at $462.44 is 3.57 boxes, so three boxes cost $388.35, $74.09 below the set as singles, and four cost $517.80, $55.36 above it. The Magikarp alone is 0.92 boxes.",
+          "Against the wider market, our shelf is the cheaper side. Double Holo has the market box at $149.96 on November 21, 2026, $5.00 a pack, so our box at $129.45 sits $20.51 below market, 13.68%, and our case box at $113.64 sits $36.32 below the market box, 24.22%. Cardfolio has the market box lower, at $112 on November 21, 2026, so the two sources disagree by $37.96 and neither is adopted as the market box here. The [best value boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) prices every box against its singles."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, not the name",
+        "paragraphs": [
+          "The pack is 180 yen including tax for 5 cards, and the set runs 103 cards: 73 in the main set plus 30 secrets numbered 74 to 103. The five Special Art Rares are Meowscarada ex at 096/073, Skeledirge ex at 097/073, Quaquaval ex at 098/073, Dendra at 099/073 and Boss's Orders at 100/073, and the set also carries the Meowscarada ex Ultra Rare at 101/073 for $17.73. Match the number, not just the name: Meowscarada ex prints twice, the Special Art Rare at 096/073 for $55.63 and the Ultra Rare at 101/073 for $17.73, so the SAR is 3.14 times the Ultra Rare and $37.90 dearer.",
+          "The same trap holds for the top card. Magikarp prints twice in this set: the Art Rare at 080/073 for $119.04 and the common at 022/073 for $0.21, so the name alone spans $118.83. First, confirm the case listing prints 12 boxes: this one does, in its title. Second, check the condition grade: a worn copy can sell at a fraction of the clean price, so a low price can be wear, not a bargain. Third, do not confuse the Japanese box with the English one: Paldea Evolved is a combined set, not a Triplet Beat box under another name. The [is SV1A worth buying guide](/blog/is-sv1a-worth-buying/) walks the same checks, and the [SV1A investment guide](/blog/sv1a-investment/) prices the longer hold."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "The table is the verdict: six ways to spend on SV1A. The single row is the only row that buys the card instead of the chance: the Magikarp AR is 0.92 boxes and the top ten together are 2.82 boxes. The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The case row saves $189.72, 12.21%, against twelve singles, at $113.64 a box.",
+          "Read the set-as-singles row as the honest alternative to opening boxes: one of each of the 103 cards is $462.44, three boxes cost $388.35 and still leave the chase to chance. The market-box row is the price of buying the same box elsewhere: $149.96, $20.51 above our shelf. The wait row costs $0, and on the last read it paid: the Magikarp fell $20.11 in thirty days. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV1A box",
+              "$129.45",
+              "$4.32",
+              "Opening Triplet Beat in Japanese",
+              "$129.45 for a chase that tops out at $119.04, with no pull rates published"
+            ],
+            [
+              "SV1A case (12)",
+              "$1,363.68",
+              "$113.64 a box",
+              "Holding or splitting twelve boxes",
+              "$1,363.68 in one purchase; the saving only holds if all twelve boxes are wanted"
+            ],
+            [
+              "The single",
+              "$119.04 Magikarp AR",
+              "n/a",
+              "Owning the chase card",
+              "0.92 boxes for one card; grading can still move the price either way"
+            ],
+            [
+              "The set as singles",
+              "$462.44 one of each",
+              "n/a",
+              "Owning all 103 cards with nothing to chance",
+              "$462.44 in one purchase; no sealed product"
+            ],
+            [
+              "Market box",
+              "$149.96",
+              "$5.00",
+              "Buying the same box elsewhere",
+              "$20.51 above our shelf box, and $36.32 above our case box"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The Magikarp rose before it fell; the shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no case math, and Iono in the wrong set",
+        "note": "From the Warehouse: the question we get most about Triplet Beat is whether the box is still the way to the Magikarp, because every ranking list leads with the Magikarp and never says what the box costs. It is not the way to the card. The Magikarp is 0.92 boxes, so the single is cheaper than the box, and no box guarantees any secret rare, so the box is the way to open Triplet Beat and the single is the way to own the Magikarp. The second question is whether the case is a bargain, because buyers have learned that cases usually save a little per box. On this shelf, on this date, the case saves real money: $189.72 across twelve boxes, $15.81 a box, so the case is the bargain row, not the box row.",
+        "paragraphs": [
+          "The top three Google results rank the cards and stop there, and none of them carries a live shelf. TCGPursuit has the fresh November 22, 2026 prices and the complete set at $462.44, but it ranks cards only and carries no box, no case and no decision. Scryda has the same ten cards, with the complete set at $463.79, $1.35 above the TCGPursuit figure, and Double Holo adds the sealed box at $149.96 and the Magikarp PSA 10 at $176.85, but none of them divides a case or warns that two cards in this set print twice at prices far apart.",
+          "The gap this page owns starts with a fresh November 22 read, the top ten from one source with the set value cross-checked against Scryda $1.35 apart. Second is the shelf: two live prices, the case division at $113.64 a box against $129.45 single, and the market-box comparison at $149.96. Third is the trap the generic lists fall into: several Scarlet and Violet era roundups credit the Iono Special Art Rare to Triplet Beat, but Iono SAR is a Clay Burst card, numbered 096/071 in SV2D, and Triplet Beat has no Iono at any rarity. Fourth is the two-source gap, reported and not resolved: Cardfolio has the Magikarp at $95.15 against $119.04 here and its top ten at $358 against $365.43 here, so the two sources describe two different markets. The [SV2D best cards guide](/blog/sv2d-best-cards/) ranks the Iono where it actually lives."
+        ]
+      },
+      {
+        "h": "The chase ladder: one Magikarp, three starters, then a floor",
+        "note": "From the Warehouse: what we see in chat is buyers asking for the Magikarp without a number, and two prints at two prices is exactly how the wrong one gets bought. The Art Rare is $119.04, the common is $0.21, and a listing that says Magikarp without a number has said nothing about the price. The same goes for the rest of the ladder: Meowscarada ex SAR is $55.63 and its Ultra Rare is $17.73, so the number is the price. Send the number with the name, every time, and check the number again before you pay.",
+        "paragraphs": [
+          "The top of the ladder is one card: Magikarp AR at $119.04, 32.58% of the top ten and 25.74% of the set as singles, with a $63.41 gap to number two. The second, third and fifth rungs are the three starter Special Art Rares at $55.63, $53.01 and $25.89, $134.53 together, 36.81% of the list. The gap from number two to number three is only $2.62, so the second and third rungs are a pair, and the fourth rung, Dendra SAR at $39.99, stands on its own.",
+          "The sixth rung is the floor: Boss's Orders SAR at $18.90, Meowscarada ex UR at $17.73, Dedenne ex SR at $13.48, Fuecoco AR at $10.97 and Sprigatito AR at $10.79, $71.87 together, 19.67% of the list. The gap from number five to number six is $6.99, so the floor is flat: five cards inside $8.11 of each other. Just outside the ten, Mismagius AR at $10.03 on the same read misses the cut by $0.76. Below the top ten, the other 93 cards together are $97.01."
+        ]
+      },
+      {
+        "h": "The risk layer: falling prices and two different markets",
+        "paragraphs": [
+          "The first risk is the direction of travel: the Magikarp fell $20.11, 14.45%, in thirty days, from $139.15 on October 22, 2026 to $119.04 on November 21, 2026, and TCGPursuit records a 7-day fall of 6.3%, so the list is soft from the top to the commons. Tropius fell 13.8% in seven days, Floragato 7.6% and Mismagius 7%. The second risk is the concentration: the Magikarp is $119.04, 32.58% of the top ten, so a badly opened box has one card to rescue it and nothing else above $55.63. The concentration is lower than Clay Burst, where the Iono is 58.80% of the top ten, but it is still one card.",
+          "The third risk is the two-source gap, reported here, not resolved. Cardfolio has the Magikarp at $95.15 against $119.04 here and its sealed box at $112 against Double Holo near $150 and our shelf at $129.45, so the spread is presented and none of the three is adopted as the market box. Graded is wider still: CardZ has the Magikarp PSA 10 at $191 with 61,004 PSA 10 copies on November 19, 2026, while Double Holo has it at $176.85 on November 20, 2026 and PokeInvest has it at $220 with a population of 66,668 on November 23, 2026, so all three figures are flagged and the CardZ figure is adopted here as the closest re-check of the earlier $193 read. The fourth risk is rotation: the G regulation mark left Standard play on April 10, 2026. The fifth risk is the sealed-versus-singles choice: a sealed box keeps its value only while the seal is intact, so photograph the box before opening. The [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) runs the grading math before you send a card in."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the Paldea Evolved fold",
+        "paragraphs": [
+          "The English twin is a different product with a different chase. English Paldea Evolved, released June 9, 2023, folds Triplet Beat together with Snow Hazard and Clay Burst into a larger combined set of 279 cards. Its top card is the same Magikarp artwork as an Illustration Rare numbered 203/193, and the fold is where buyers lose money: a buyer who types Triplet Beat English box hunts a product that was never made, and the listings that answer are Paldea Evolved boxes or Japanese boxes with English-language titles.",
+          "The English Magikarp is the dearer print of the same art. It is $288.29 on the Double Holo read of November 22, 2026, 2.42 times the Japanese at $119.04 and $169.25 dearer, and its PSA 10 is about $3,314.59 on November 20, 2026. The Japanese print is the cheaper way to own the artwork, and the English print is the dearer way to own it in a language that plays at English events. Buy the Japanese box for the Japanese chase and the English box for the English one. The [Japanese vs English guide](/blog/japanese-vs-english-pokemon-cards-which-to-buy/) runs the same verdict across sets, and the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) and the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) price the twin launch sets beside this one."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, so buy the single instead, because the Magikarp alone is 0.92 boxes and no box guarantees it. Second, English-tournament players: Japanese cards do not play in English events, and the SV1A cards carry the G mark, which left Standard play in the April 10, 2026 rotation. Third, buyers who want a guaranteed return: the Magikarp fell 14.45% in thirty days and the set is 32.58% one card. If you are in one of these three groups, buy the single you want, or wait."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Magikarp AR, buy the single at $119.04, which is 0.92 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits $63.41 above the second card",
+          "If the job is the box, pay $129.45, or $4.32 a pack, and treat the chase as a bonus; the box is $20.51 below the $149.96 market box",
+          "If the job is a case, divide it first: the case saves $189.72 against twelve singles, $15.81 a box, so treat it as the bargain row, and confirm the $113.64 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $462.44 at one of each: three boxes cost $388.35 and still leave the chase to chance, while four boxes cost $517.80",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number, because Magikarp prints twice in this set",
+          "Check the number on any Magikarp before you pay: the Art Rare is $119.04, the common is $0.21, and the two prints sit $118.83 apart",
+          "Check the number on any Meowscarada ex before you pay: the SAR is $55.63, the Ultra Rare is $17.73, and the two prints sit $37.90 apart",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV1A best-cards checklist",
+        "paragraphs": [
+          "Run this before the next Triplet Beat box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, and the [SV1A investment guide](/blog/sv1a-investment/) runs the same division over a longer hold."
+        ]
+      }
+    ],
+    "slug": "sv1a-best-cards",
+    "takeaway": [
+      "The SV1A top ten, on the November 22, 2026 read, totals $365.43, with the Magikarp AR at $119.04. The Magikarp is $119.04 of it, 32.58% of the list, and the three starter SARs together are $134.53, 36.81%, while the other 93 cards together are $97.01.",
+      "On our shelf as of November 23, 2026, the box is $129.45 and the case is $1,363.68. The case saves $189.72 against twelve singles, $15.81 a box, while the box sits $20.51 below the $149.96 market box.",
+      "It is worth buying as the Triplet Beat set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Magikarp alone is 0.92 boxes, and the Magikarp fell 14.45% in the thirty days before this read.",
+      "The ladder below the top card falls fast: the second card is $55.63, $63.41 below the Magikarp, and the bottom five together are $71.87. Four facts the other lists miss are corrected on this page: no live shelf, no case division, the Iono SAR belongs to Clay Burst and not to Triplet Beat, and Magikarp prints twice at prices $118.83 apart.",
+      "Companion guide: the [is SV1A worth buying guide](/blog/is-sv1a-worth-buying/) runs the same verdict, and the [SV1A Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV1A investment guide](/blog/sv1a-investment/) runs the same division, where the case box sits $15.81 below a single box.",
+      "For the twin sets in the same season, the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) and the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) price the launch sets beside this one, and the [SV2A investment guide](/blog/sv2a-investment/) prices the next set in the series.",
+      "For the next set in the series, the [SV2D best cards guide](/blog/sv2d-best-cards/) ranks the ten best Clay Burst cards, top ten $468.04, with the Iono SAR at $275.21, and the [SV3 best cards guide](/blog/sv3-best-cards/) runs the same checks for its set.",
+      "Companion guide: the [SV2A Pokemon 151 best cards guide](/blog/sv2a-best-cards/) ranks the ten most valuable cards, Gengar Master Ball $688.23 and Charizard ex SAR $367.78 on the November 22, 2026 read, with the case math beside them."
+    ]
+  },
   "sv1a-investment": {
     "datePublished": "2026-11-18",
     "faqs": [
@@ -57801,11 +58024,12 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV1a box at $152.29 sits high on the 30-pack shelf at $5.08 a pack, and $1.02 a card, for 150 cards from a 103-card set. The case at $1,604.33 is the way to buy it sealed, at $133.69 a box and $4.46 a pack, saving $223.15 against twelve singles. The set is 103 cards, released March 10, 2023, and the chase is the Magikarp Art Rare, which carried a $129.90 TCGplayer market price on November 7, 2026, or 0.85 times a box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 8, 2026, and the marketplace figures as of their own dates, November 4 and November 7, 2026. No pull rate is guaranteed, and the box can hold zero Magikarp cards. The TCGplayer market for a sealed box was $151.19, so our box costs $1.10 more: pay it for sealed stock from Japan in one parcel, not for a discount.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [Battle Partners guide](/blog/sv9-battle-partners-buyers-guide/) prices the cheapest 30-pack box with a named chase the same way. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, with a case that saves $196.81, and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box.",
-      "New this cycle: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices the launch set at $111.46 a box, with a case that saves $234.29, and the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the twin at $88.27 a box, with a case that saves $106.91.",
-      "New this cycle: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the second Paldea Evolved component at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90.",
-      "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box.",
-      "New this cycle: the [is SV1a Triplet Beat worth buying guide](/blog/is-sv1a-worth-buying/) runs the verdict at the November 13 prices, box $129.45 and case $113.64 a box, with the rotation called out: G-mark cards left Standard on April 10, 2026."
+      "Companion guide: the [SV6a Night Wanderer buyer's guide](/blog/sv6a-night-wanderer-buyers-guide/) prices the Shrouded Fable set at $91.61 a box, with a case that saves $196.81, and a chase, the Cassiopeia SAR at $21.81, that costs 0.24 times a box.",
+      "Companion guide: the [SV1S Scarlet ex buyer's guide](/blog/sv1s-scarlet-ex-buyers-guide/) prices the launch set at $111.46 a box, with a case that saves $234.29, and the [SV1V Violet ex buyer's guide](/blog/sv1v-violet-ex-buyers-guide/) prices the twin at $88.27 a box, with a case that saves $106.91.",
+      "Companion guide: the [SV2P Snow Hazard buyer's guide](/blog/sv2p-snow-hazard-buyers-guide/) prices the second Paldea Evolved component at $94.91 a box, with a case that saves $186.59, and the Chien-Pao ex SAR at $39.90.",
+      "Companion guide: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) prices the dearest box on the shelf the same way, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box.",
+      "Companion guide: the [is SV1a Triplet Beat worth buying guide](/blog/is-sv1a-worth-buying/) runs the verdict at the November 13 prices, box $129.45 and case $113.64 a box, with the rotation called out: G-mark cards left Standard on April 10, 2026.",
+      "Companion guide: the [SV1A Triplet Beat best cards guide](/blog/sv1a-best-cards/) ranks the ten most valuable cards, Magikarp Art Rare $119.04 and Meowscarada ex SAR $55.63 on the November 22, 2026 read, with the case math beside them."
     ]
   },
   "sv1s-investment": {
@@ -58642,6 +58866,247 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [is SV1V Violet ex worth buying guide](/blog/is-sv1v-worth-buying/) runs the verdict at the November 13 prices, box $75.03 and case $67.46 a box, with the Miriam called out: the single at $77.80 costs more than the box it comes in."
     ]
   },
+  "sv2a-best-cards": {
+    "datePublished": "2026-11-23",
+    "faqs": [
+      {
+        "a": "Gengar, the Master Ball Pattern print numbered 094/165, at $688.23 on the November 22, 2026 TickerMint market read, checked November 23, 2026. It is 32.25% of the top ten and $320.45 above the second card, Charizard ex Special Art Rare at $367.78. Cardfolio has the same Gengar at $525 on its November 21, 2026 read, so the two sources disagree by $163.23 and both figures are reported on this page.",
+        "q": "What is the most valuable SV2A Pokemon Card 151 card?"
+      },
+      {
+        "a": "No, not as a plan. The card alone is $367.78, which is 0.92 of a shelf box at $400.52, so the single costs less than the box that might hold it, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The Gengar is $688.23, 1.72 boxes, and the top ten together are $2,134.07, 5.33 boxes. Buy the single if the Charizard is the card you want, and buy the box only if you want to open 151.",
+        "q": "Should I buy an SV2A box to pull the Charizard ex SAR?"
+      },
+      {
+        "a": "No. The Japanese set is 210 cards, released June 16, 2023, in boxes of 20 packs of 7 cards, and its chase includes Master Ball mirror prints that English never got. English 151, released September 22, 2023, has 207 cards, its top card is the same Charizard artwork numbered 199/165 at about $279.94, and it never had a traditional 36-pack booster box. Japanese cards are not legal at official English events, and the SV2A cards carry the G regulation mark, which left Standard play in the April 10, 2026 rotation, so the language decision comes before the price decision.",
+        "q": "Is the Japanese set the same as English 151?"
+      }
+    ],
+    "h1": "SV2A Pokemon 151 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in SV2A Pokemon Card 151 is Gengar, the Master Ball mirror 094/165, at $688.23 on the November 22, 2026 market read, checked November 23, 2026, and the ten best together are $2,134.07. On our shelf, as of November 23, 2026, the Pokemon Card 151 box is $400.52 and the sealed case of 12 boxes is $3,237.92. Buy the box to open 151, buy the single for the Gengar or the Charizard.",
+      "Pokemon Card 151, set code SV2A, is 210 cards: 165 in the main set plus 45 secret rares, released in Japan on June 16, 2023, in boxes of 20 packs of 7 cards at 290 yen a pack. Its English counterpart, Scarlet and Violet 151, followed on September 22, 2023, with 207 cards and no Master Ball mirror prints. Who this is for: collectors ranking the Japanese chase and buyers choosing box, case, or single. The [SV2A Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) walks the same checks for this set."
+    ],
+    "metaDescription": "SV2A Pokemon 151 best cards, Nov 23, 2026: Gengar Master Ball $688.23, Charizard SAR $367.78, top ten $2,134.07, box $400.52, case $3,237.92.",
+    "metaTitle": "SV2A Pokemon 151 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Gengar, then a Charizard, then a slope",
+        "paragraphs": [
+          "Every value below is from the TickerMint market read of November 22, 2026, checked November 23, 2026, using TCGplayer market prices. The ten are: Gengar Master Ball 094/165 at $688.23; Charizard ex Special Art Rare 201/165 at $367.78; Pikachu Master Ball 025/165 at $243.89; Mew ex Special Art Rare 205/165 at $202.69; Blastoise ex Special Art Rare 202/165 at $119.79; Psyduck Master Ball 054/165 at $118.36; Dragonite Master Ball 149/165 at $111.32; Venusaur ex Special Art Rare 200/165 at $101.26; Magikarp Master Ball 129/165 at $93.46; and Mewtwo Master Ball 150/165 at $87.29. The ten together are $2,134.07, and one of each of the 210 card numbers at the cheapest printing is $1,351 on the same read, so the top ten cost 1.58 times the whole base set as singles.",
+          "The list is one Gengar, then a Charizard, then a slope. The Gengar alone is $688.23, 32.25% of the top ten, and the gap from number one to number two is $320.45, with the Gengar at 1.87 times the Charizard. The top three together are $1,299.90, 60.91% of the list, and the top five are $1,622.38, 76.02%. The gap from number two to number three is $123.89, and the gap from number five to number six is only $1.43.",
+          "Six of the ten are Master Ball mirror prints, $1,342.55 together, 62.91% of the list, and the other four are Special Art Rares, $791.52 together, 37.09%. That split is the first thing to understand about this set: most of the money sits in mirror finishes on ordinary cards, not in the secret rares. The [SV2A investment guide](/blog/sv2a-investment/) prices this set over a longer hold."
+        ]
+      },
+      {
+        "h": "The money layer: the case that costs more than the market",
+        "math": [
+          "SV2A box per pack: $400.52 / 20 packs = $20.03 per pack",
+          "SV2A box per card: $400.52 / 140 cards = $2.86 per card",
+          "SV2A case per box: $3237.92 / 12 boxes = $269.83 per box",
+          "SV2A case per pack: $3237.92 / 240 packs = $13.49 per pack",
+          "SV2A case per card: $3237.92 / 1,680 cards = $1.93 per card",
+          "SV2A twelve singles: 12 x $400.52 = $4806.24",
+          "SV2A case saving: $4806.24 - $3237.92 = $1568.32 across the case",
+          "SV2A saving per box: $1568.32 / 12 = $130.69 per box",
+          "SV2A saving share: $1568.32 / $4806.24 = 32.63% saved",
+          "SV2A official box: 20 x 290 yen = 5,800 yen; 5,800 yen / 158.64 yen per dollar = $36.56",
+          "SV2A box above official: $400.52 - $36.56 = $363.96 above official",
+          "SV2A box multiple: $400.52 / $36.56 = 10.96 times official",
+          "SV2A case box vs official: $269.83 / $36.56 = 7.38 times official; $269.83 - $36.56 = $233.27 above official",
+          "SV2A market box in yen: $242.03 x 158.64 yen per dollar = 38395.64 yen",
+          "SV2A shelf box above market: $400.52 - $242.03 = $158.49 above market; $400.52 / $242.03 = 1.65 times market",
+          "SV2A twelve market boxes: 12 x $242.03 = $2904.36",
+          "SV2A case above market: $3237.92 - $2904.36 = $333.56 above twelve market boxes; $333.56 / 12 = $27.8 per box above market",
+          "SV2A twelve Nov 8 market boxes: 12 x $241.77 = $2901.24; $3237.92 - $2901.24 = $336.68 above them",
+          "SV2A market box per pack: $242.03 / 20 packs = $12.1 per pack",
+          "SV2A market box vs official: $242.03 / $36.56 = 6.62 times official",
+          "SV2A top 10 total: $688.23 + $367.78 + $243.89 + $202.69 + $119.79 + $118.36 + $111.32 + $101.26 + $93.46 + $87.29 = $2134.07",
+          "SV2A top three total: $688.23 + $367.78 + $243.89 = $1299.9; $1299.9 / $2134.07 = 60.91% of the top 10",
+          "SV2A top five total: $688.23 + $367.78 + $243.89 + $202.69 + $119.79 = $1622.38; $1622.38 / $2134.07 = 76.02% of the top 10",
+          "SV2A ranks 6 to 10 total: $118.36 + $111.32 + $101.26 + $93.46 + $87.29 = $511.69; $511.69 / $2134.07 = 23.98% of the top 10",
+          "SV2A Gengar share of top 10: $688.23 / $2134.07 = 32.25% of the top 10",
+          "SV2A Charizard share of top 10: $367.78 / $2134.07 = 17.23% of the top 10",
+          "SV2A Master Ball six total: $688.23 + $243.89 + $118.36 + $111.32 + $93.46 + $87.29 = $1342.55; $1342.55 / $2134.07 = 62.91% of the top 10",
+          "SV2A SAR four total: $367.78 + $202.69 + $119.79 + $101.26 = $791.52; $791.52 / $2134.07 = 37.09% of the top 10",
+          "SV2A gap number one to number two: $688.23 - $367.78 = $320.45; $688.23 / $367.78 = 1.87 times number two",
+          "SV2A gap number two to number three: $367.78 - $243.89 = $123.89",
+          "SV2A gap number four to number five: $202.69 - $119.79 = $82.9",
+          "SV2A gap number five to number six: $119.79 - $118.36 = $1.43",
+          "SV2A floor four total: $111.32 + $101.26 + $93.46 + $87.29 = $393.33; $393.33 / $2134.07 = 18.43% of the top 10",
+          "SV2A top 10 vs base set: $2134.07 / $1351 = 1.58 times the base set as singles",
+          "SV2A top 10 against the box: $2134.07 / $400.52 = 5.33 boxes",
+          "SV2A top 10 minus one box: $2134.07 - $400.52 = $1733.55",
+          "SV2A top 10 against the case: $2134.07 / $3237.92 = 0.66 cases",
+          "SV2A Gengar against the box: $688.23 / $400.52 = 1.72 boxes",
+          "SV2A Charizard against the box: $367.78 / $400.52 = 0.92 boxes",
+          "SV2A Charizard against the market box: $367.78 / $242.03 = 1.52 market boxes",
+          "SV2A Gengar against the market box: $688.23 / $242.03 = 2.84 market boxes",
+          "SV2A base set in boxes: $1351 / $400.52 = 3.37 boxes",
+          "SV2A three boxes: 3 x $400.52 = $1201.56; $1351 - $1201.56 = $149.44 below the base set as singles",
+          "SV2A four boxes: 4 x $400.52 = $1602.08; $1602.08 - $1351 = $251.08 above the base set as singles",
+          "SV2A base set in market boxes: $1351 / $242.03 = 5.58 market boxes",
+          "SV2A master set: $5212.55 - $1351 = $3861.55 of other printings; $5212.55 / $1351 = 3.86 times the base set",
+          "SV2A secret rares vs main set: $1,314.38 / $36.60 = 35.91 times the main set",
+          "SV2A Gengar move Nov 16 to Nov 22: $701.17 - $688.23 = $12.94 down; $12.94 / $701.17 = 1.85% down",
+          "SV2A Charizard move Nov 16 to Nov 22: $370.86 - $367.78 = $3.08 down; $3.08 / $370.86 = 0.83% down",
+          "SV2A Blastoise move 30 days: $147.20 - $119.79 = $27.41 down; $27.41 / $147.20 = 18.62% down",
+          "SV2A Psyduck move 30 days: $118.36 - $104.62 = $13.74 up; $13.74 / $104.62 = 13.13% up",
+          "SV2A Charizard SAR vs SR: $367.78 / $18.37 = 20.02 times the Super Rare; $367.78 - $18.37 = $349.41",
+          "SV2A Charizard SAR vs double rare: $367.78 / $2.45 = 150.11 times the double rare; $367.78 - $2.45 = $365.33",
+          "SV2A Cardfolio Gengar gap: $688.23 - $525 = $163.23 between the two sources",
+          "SV2A Cardfolio top 10 gap: $2134.07 - $1,837 = $297.07 between the two sources",
+          "SV2A Cardfolio set gap: $1351 - $1,294 = $57 between the two sources; $57 / $1351 = 4.22%",
+          "SV2A Gengar in yen: $688.23 x 158.64 yen per dollar = 109180.81 yen",
+          "SV2A Charizard in yen: $367.78 x 158.64 yen per dollar = 58344.62 yen",
+          "SV2A top 10 in yen: $2134.07 x 158.64 yen per dollar = 338548.86 yen",
+          "SV2A box in yen: $400.52 x 158.64 yen per dollar = 63538.49 yen",
+          "SV2A case in yen: $3237.92 x 158.64 yen per dollar = 513663.63 yen",
+          "SV2A box vs Clay Burst box: $400.52 - $87.24 = $313.28 dearer; $400.52 / $87.24 = 4.59 times the Clay Burst box"
+        ],
+        "paragraphs": [
+          "The box is $400.52 for 20 packs of 7 cards, $20.03 a pack and $2.86 a card. The case is $3,237.92 for 12 boxes, $269.83 a box, $13.49 a pack and $1.93 a card, $1,568.32 less than twelve singles at $4,806.24, 32.62% saved. Both prices are from the live shelf, read November 23, 2026, and the case listing prints the 12-box count in its title. The [booster box](/product/sv2a-poke-mon-card-151-booster-box-japanese-pokemon-card/) and the [sealed case](/product/sv2a-pokemon-card-151-sealed-case-12-boxes-japanese-pokemon-card/) are the listings these divisions run on.",
+          "Against the official price, the shelf sits far above retail, and the case barely helps against the market. The official box is 5,800 yen, $36.56 at 158.64 yen per dollar, the November 20, 2026 European Central Bank rate, so our box is 10.96 times official and $363.96 above it, while the case box is 7.38 times official. The market box is $242.03 on the November 22, 2026 TickerMint read, so our box is $158.49 above the market and 1.65 times it, and twelve market boxes cost $2,904.36, so our case costs $333.56 more than twelve market boxes, $27.80 a box above the market. On the November 8, 2026 market read the box was $241.77, so twelve cost $2,901.24 and the case sat $336.68 above them.",
+          "The Charizard ex Special Art Rare is $367.78, which is 0.92 boxes, so the single costs less than one shelf box, and the Gengar is $688.23, which is 1.72 boxes. The top ten together are 5.33 boxes, and the base set at $1,351 is 3.37 boxes, so three boxes cost $1,201.56, $149.44 below the base set as singles, and four cost $1,602.08, $251.08 above it. Cardfolio disagrees: its complete set is near $1,294 against $1,351 here, and its Gengar is $525 against $688.23 here, so both figures are reported and neither is adopted as the market."
+        ]
+      },
+      {
+        "h": "The practical layer: match the pattern, not the name",
+        "paragraphs": [
+          "The pack is 290 yen including tax for 7 cards, and the set runs 210 cards: 165 in the main set plus 45 secrets numbered 166 to 210: 18 Art Rares, 16 Super Rares, 8 Special Art Rares and 3 Ultra Rares. Ordinary Common, Uncommon and Rare cards also print with a Poke Ball or Master Ball pattern mirror finish, and the Master Ball finish is the rare one. Six of the top ten are Master Ball mirrors, and the pattern is the price: the same Gengar number without the mirror finish is one of 75 rares whose median price is $1.10, while the mirror is $688.23. Pikachu 025/165 and Magikarp 129/165 are Commons, and their mirrors are $243.89 and $93.46.",
+          "Charizard prints three times, and the name alone spans a $365.33 range: the double rare 006/165 is $2.45, the Super Rare 185/165 is $18.37, and the Special Art Rare 201/165 is $367.78, so the Special Art Rare is 20.02 times the Super Rare and 150.11 times the double rare, and a listing that says Charizard ex without a number has said nothing about the price. Mew ex prints four times, including a Special Art Rare at $202.69 and an Ultra Rare at $37.70, so the same trap applies to the second chase card.",
+          "First, confirm the number and the pattern in the listing title: Gengar 094/165 Master Ball Pattern, not just Gengar. Second, check the condition grade, because a low price can be wear, not a bargain. Third, confirm the case listing prints 12 boxes: this one does, in its title. Fourth, do not confuse the Japanese box with the English one: English 151 never had a traditional 36-pack booster box. The [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) walks the same checks."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, or the single, side by side",
+        "paragraphs": [
+          "Six ways to spend on SV2A: The single row is the only row that buys the card instead of the chance: the Gengar is 1.72 boxes and the Charizard is 0.92 boxes, and The Pokemon Company publishes no pull rates for this set, so no honest expected-value math exists for the chase. The case row saves $1,568.32 against twelve shelf singles but costs $333.56 more than twelve market boxes, so it is a shelf decision, not a market discount. The market box row is the honest middle at $242.03, $12.10 a pack, still 6.62 times the official box.",
+          "The set-as-singles row is the honest alternative to opening boxes: one of each of the 210 card numbers is $1,351, three shelf boxes cost $1,201.56 and still leave the chase to chance, while four cost $1,602.08, $251.08 above the set. The wait row costs $0, and on the last read it paid: the Gengar fell $12.94 in six days. The [sealed case math guide](/blog/sealed-case-vs-booster-box-the-math/) shows the case division across sets, and the [best value boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) prices every box against its singles."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "SV2A box",
+              "$400.52",
+              "$20.03",
+              "Opening Pokemon Card 151 in Japanese",
+              "$400.52 for a chase that tops out at $688.23, with no pull rates published"
+            ],
+            [
+              "SV2A case (12)",
+              "$3,237.92",
+              "$269.83 a box",
+              "Holding or splitting twelve boxes",
+              "Costs $333.56 more than twelve market boxes at $242.03"
+            ],
+            [
+              "The single",
+              "$688.23 Gengar MB",
+              "n/a",
+              "Owning the chase card",
+              "1.72 boxes for one card"
+            ],
+            [
+              "The set as singles",
+              "$1,351 one of each",
+              "n/a",
+              "Owning all 210 cards with nothing to chance",
+              "$1,351 in one purchase; no sealed product"
+            ],
+            [
+              "Market box",
+              "$242.03",
+              "$12.10 a pack",
+              "Opening 151 at the market price",
+              "Still 6.62 times the official $36.56 box; stock varies by seller"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The Gengar fell $12.94 in six days; the shelf can move either way"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no pattern lesson, no case math",
+        "note": "From the Warehouse: the question we get most about 151 is whether the box is still the way to the Charizard, because every ranking list leads with the Charizard and never says what the box costs. On this shelf the Charizard is 0.92 of a box, so a single box costs more than the card it is chasing, and no box guarantees any secret rare. The second question is about the case, because buyers have learned that cases usually save real money per box. On this shelf the case saves $1,568.32 against twelve singles and still costs $333.56 more than twelve market boxes, so the case is a decision about buying from this shelf, not a discount against the market.",
+        "paragraphs": [
+          "The top three Google results rank the English set and stop there, and none of them carries a live shelf. The first ranks the English 151 chase cards with the Charizard at about $279.94, the second lists all 207 English cards, and the third prices the English complete set near $1,492, but none of them ranks a single Japanese card or mentions the Master Ball mirror, and none of them says what a box costs.",
+          "The Japanese price pages rank the cards and stop there. TickerMint has the fresh November 22, 2026 prices and the complete set at $1,351, but it ranks cards only. The others rank the same ten cards from older reads and never say what a box costs. None of them splits the case, divides the official price, or warns that six of the top ten are mirror finishes on ordinary cards.",
+          "The gap this page owns starts with a fresh November 22 read, the top ten from one source with the Gengar cross-checked against a second source $163.23 apart. Second is the shelf: the case divisions at $269.83 a box against $400.52 single, and the market comparison at $242.03 a box. Third is the pattern lesson: six of the top ten are Master Ball mirrors, and the pattern, not the card, is the price. Fourth is the two-source gap, reported and not resolved: Cardfolio has the complete set near $1,294 against $1,351 here, and its Gengar at $525 against $688.23 here."
+        ]
+      },
+      {
+        "h": "The chase ladder: six mirrors, four SARs, one Gengar",
+        "note": "From the Warehouse: what we see in chat is buyers asking for the Gengar or the Pikachu without saying Master Ball, and the same number without the mirror finish is a different card at a different price. The Gengar mirror is $688.23 and the plain Gengar is one of 75 rares whose median is $1.10. Send the number with the pattern, every time, and check both again before you pay. The same goes for the Charizard: three printings, one name, and the Special Art Rare is 150.11 times the double rare.",
+        "paragraphs": [
+          "The top of the ladder is one card: Gengar, the Master Ball mirror at $688.23, 32.25% of the top ten. The second and third rungs are Charizard ex Special Art Rare at $367.78 and Pikachu, the Master Ball mirror, at $243.89, so the top three are $1,299.90, 60.91% of the list, and the gap from number two to number three is $123.89. The fourth and fifth rungs are Mew ex Special Art Rare at $202.69 and Blastoise ex Special Art Rare at $119.79, and with the top three they make the top five $1,622.38, 76.02% of the list.",
+          "The sixth rung is the floor: Psyduck Master Ball at $118.36, Dragonite Master Ball at $111.32, Venusaur ex Special Art Rare at $101.26, Magikarp Master Ball at $93.46, and Mewtwo Master Ball at $87.29, $511.69 together, 23.98% of the list. The gap from number five to number six is only $1.43, so the floor is flat. Below the top ten, the set splits three ways: the 165 main-set cards at the cheapest printing are $36.60 all together, the 45 secret rares are $1,314.38, and the other 305 printings, mostly Master Ball mirrors, are $3,861.57."
+        ]
+      },
+      {
+        "h": "The risk layer: one mirror carries the list",
+        "paragraphs": [
+          "The first risk is the concentration: the Gengar is $688.23, 32.25% of the top ten, and the top three are 60.91%, so a badly opened box has one card to rescue it and nothing else above $367.78. The second risk is the direction of travel: the Gengar fell $12.94, 1.85%, in six days, the Charizard fell $3.08, 0.83%, in the same window, and Blastoise ex fell $27.41, 18.62%, in thirty days. The mirrors move both ways: Psyduck rose 13.13% and Gyarados, the Master Ball mirror, rose 19% in the same window.",
+          "The third risk is the two-source gap, reported here, not resolved: Cardfolio has the Gengar at $525 against $688.23 here, its top ten at $1,837 against $2,134.07 here, and its complete set near $1,294 against $1,351 here. The fourth risk is the reprint: The Pokemon Company published a made-to-order reprint notice on June 13, 2023, so more sealed boxes can arrive. The fifth risk is rotation: the SV2A cards carry the G regulation mark, which left Standard play on April 10, 2026. The sixth risk is the sealed-versus-singles choice: a sealed box keeps its value only while the seal is intact, so photograph the box before opening."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and the dearest box on the shelf",
+        "paragraphs": [
+          "The English twin is a different product with a different chase. English 151, released September 22, 2023, has 207 cards, and its top card is the same Charizard artwork numbered 199/165 at about $279.94, against $367.78 for the Japanese Special Art Rare 201/165. English 151 has no Master Ball mirror prints and never had a traditional 36-pack booster box, so a buyer who types 151 English booster box hunts a product that was never made.",
+          "The Clay Burst box, set code SV2D, is $87.24 on our shelf as of November 23, 2026, so the Pokemon Card 151 box is $313.28 dearer and 4.59 times it, and the Clay Burst case saves only $24.44 against twelve singles, the thinnest case saving on the shelf, while the 151 case saves $1,568.32. Buy the 151 box for the 151 chase and the Clay Burst box for its own chase. The [SV2D best cards guide](/blog/sv2d-best-cards/) ranks the ten best Clay Burst cards, top ten $468.04, with the Iono Special Art Rare at $275.21, and the [SV2P best cards guide](/blog/sv2p-best-cards/) ranks the ten best Snow Hazard cards."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "Three groups should not act on this guide. First, single-card chasers: a box is the worst way to find one named card, so buy the single instead, because the Gengar alone is 1.72 boxes, the Charizard is 0.92 boxes, and no box guarantees either. Second, English-tournament players: Japanese cards do not play in English events, and the SV2A cards carry the G mark, which left Standard play in the April 10, 2026 rotation. Third, buyers who want a guaranteed return: the Gengar fell 1.85% in six days, Blastoise ex fell 18.62% in thirty days, and no page can tell you what Pokemon Card 151 will cost next month."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, single-card chaser, or waiter",
+          "If the job is the Gengar Master Ball mirror, buy the single at $688.23, which is 1.72 boxes, and do not open boxes for it; The Pokemon Company publishes no pull rates and the card sits $320.45 above the second card",
+          "If the job is the Charizard ex Special Art Rare, buy the single at $367.78, which is 0.92 boxes, and do not open boxes for it; the single costs less than one shelf box",
+          "If the job is the box, pay $400.52, or $20.03 a pack, and treat the chase as a bonus; the market box is $242.03, so check the market before paying shelf",
+          "If the job is a case, divide it first: the case saves $1,568.32 against twelve shelf singles but costs $333.56 more than twelve market boxes, so confirm the $269.83 per-box figure at checkout",
+          "If the job is the whole set, buy the singles at $1,351 at one of each of the 210 numbers: three boxes cost $1,201.56 and still leave the chase to chance, while four boxes cost $1,602.08",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and send the set name with every card number and pattern, because the Gengar mirror is $688.23 and the plain print is a different card",
+          "Check the pattern on any Master Ball card before you pay: six of the top ten are mirrors, and the pattern is the price",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the SV2A best-cards checklist",
+        "paragraphs": [
+          "Run this before the next Pokemon Card 151 box you consider; it takes ten minutes. Our [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) prices every box against its singles, and the [SV2A investment guide](/blog/sv2a-investment/) runs the same division over a longer hold."
+        ]
+      }
+    ],
+    "slug": "sv2a-best-cards",
+    "takeaway": [
+      "The SV2A top ten, on the November 22, 2026 read, totals $2,134.07, with the Gengar Master Ball mirror at $688.23. The Gengar is $688.23 of it, 32.25% of the list, and the top three are $1,299.90, 60.91%, while six of the ten are Master Ball mirrors worth $1,342.55 together.",
+      "On our shelf as of November 23, 2026, the box is $400.52 and the case is $3,237.92. The case saves $1,568.32 against twelve shelf singles but costs $333.56 more than twelve market boxes at $242.03, so the case is a shelf decision, not a market bargain.",
+      "It is worth buying as the 151 set, sealed or opened, and it is not worth buying as a way to own one named card. The Pokemon Company publishes no pull rates, the Charizard alone is 0.92 boxes, the Gengar is 1.72 boxes, and the Gengar fell 1.85% in the six days before this read.",
+      "The pattern is the price: the same Gengar number without the Master Ball mirror finish is one of 75 rares whose median is $1.10. Four facts the other lists miss are corrected on this page: no live shelf, no case division, no pattern lesson, and the Charizard re-checked from $395 to $367.78.",
+      "Companion guide: the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) runs the same verdict, and the [SV2A Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) walks the same checks for this set.",
+      "For the longer hold, the [SV2A investment guide](/blog/sv2a-investment/) runs the same division, where the case box sits $130.69 below a single box.",
+      "For the twin set in the same season, the [SV2P best cards guide](/blog/sv2p-best-cards/) ranks the ten best Snow Hazard cards, and the [SV2D best cards guide](/blog/sv2d-best-cards/) ranks the ten best Clay Burst cards, top ten $468.04.",
+      "For the next set in the series, the [SV3 best cards guide](/blog/sv3-best-cards/) and the [SV3a best cards guide](/blog/sv3a-best-cards/) run the same checks for their sets.",
+      "Companion guide: the [SV1A Triplet Beat best cards guide](/blog/sv1a-best-cards/) ranks the ten most valuable cards, Magikarp Art Rare $119.04 and Meowscarada ex SAR $55.63 on the November 22, 2026 read, with the case math beside them."
+    ]
+  },
   "sv2a-investment": {
     "datePublished": "2026-11-18",
     "faqs": [
@@ -59024,11 +59489,12 @@ export const POSTS: Record<string, BlogPost> = {
       "The SV2a box at $471.20 is the dearest box on our shelf at $23.56 a pack, and the case at $3,809.32 is the way to buy it sealed, at $317.44 a box and $15.87 a pack, saving $1,845.08 against twelve singles, the largest case saving on the shelf. The set is 210 cards, released June 16, 2023, and the chase is the starter-trio SAR cards, Mew ex, Erika's Invitation SAR, and the Master Ball mirrors, with the Gengar mirror asking more than the box itself.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 7, 2026, and the marketplace asks as of October 2, 2026. The reprint notice is the fact that outlives every price on this page: the publisher has printed more before, and sealed supply can grow again.",
       "For the whole shelf as one dated board, the [Japanese Pokemon booster box price page](/blog/japanese-pokemon-booster-box-price/) divides all thirty-two boxes to per-pack prices, the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) prices every case against its own singles, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks the shelf by value. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the newest set the same way, box $183.18 against a case that saves $100.54 a box, with the Deluxe pack divided beside them.",
-      "New this cycle: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the other Charizard-chase set, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own.",
-      "New this cycle: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came a month after Pokemon 151 at $102.64 a box, with the Iono SAR at $296.26 carrying more than half the set's value.",
-      "New this cycle: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the set that came two months before Pokemon 151 at $152.29 a box, with a case that saves $223.15 and a chase that tops out at $129.90.",
-      "New this cycle: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) answers the worth-it question in full, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box."
+      "Companion guide: the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the newest set the same way, box $183.18 against a case that saves $100.54 a box, with the Deluxe pack divided beside them.",
+      "Companion guide: the [SV3 Ruler of Black Flame buyer's guide](/blog/sv3-ruler-of-black-flame-buyers-guide/) prices the other Charizard-chase set, box $152.29 against a case that saves $373.33, with the Charizard ex SAR at $130.09 on its own.",
+      "Companion guide: the [SV2D Clay Burst buyer's guide](/blog/sv2d-clay-burst-buyers-guide/) prices the set that came a month after Pokemon 151 at $102.64 a box, with the Iono SAR at $296.26 carrying more than half the set's value.",
+      "Companion guide: the [SV1a Triplet Beat buyer's guide](/blog/sv1a-triplet-beat-buyers-guide/) prices the set that came two months before Pokemon 151 at $152.29 a box, with a case that saves $223.15 and a chase that tops out at $129.90.",
+      "Companion guide: the [is SV2a Pokemon 151 worth buying guide](/blog/is-sv2a-worth-buying/) answers the worth-it question in full, box $471.20 against a case that saves $1,845.08, with the Charizard ex SAR priced against the box.",
+      "Companion guide: the [SV2A Pokemon 151 best cards guide](/blog/sv2a-best-cards/) ranks the ten most valuable cards, Gengar Master Ball $688.23 and Charizard ex SAR $367.78 on the November 22, 2026 read, with the case math beside them."
     ]
   },
   "sv2d-best-cards": {
