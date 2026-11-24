@@ -1,20 +1,16 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import {
-  GUIDES,
-  GUIDE_SLUGS,
-  type Guide,
-} from "@/lib/content-data";
+import type { Guide } from "@/lib/content-data";
 import { SITE_URL, URL_TRAILING } from "@/lib/product-data";
+import { getPublishedContent } from "@/lib/site-content";
 
 /* ────────────────────────────────────────────────────────────
    Buying guides — /guides/<slug>/  (Article + FAQPage schema)
+   Guide copy comes from the published site content.
    ──────────────────────────────────────────────────────────── */
 
-export function generateStaticParams() {
-  return GUIDE_SLUGS.map((slug) => ({ slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,
@@ -22,7 +18,8 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const g = GUIDES[slug];
+  const { guides, settings } = await getPublishedContent();
+  const g = guides.items[slug];
   if (!g) return {};
   const url = `${SITE_URL}/guides/${g.slug}${URL_TRAILING}`;
   return {
@@ -35,7 +32,7 @@ export async function generateMetadata({
       description: g.metaDescription,
       type: "article",
       url,
-      siteName: "Akihabara TCG Warehouse",
+      siteName: settings.siteName,
     },
     twitter: {
       card: "summary",
@@ -51,7 +48,8 @@ export default async function GuidePage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const g: Guide | undefined = GUIDES[slug];
+  const content = await getPublishedContent();
+  const g: Guide | undefined = content.guides.items[slug];
   if (!g) notFound();
 
   const url = `${SITE_URL}/guides/${g.slug}${URL_TRAILING}`;
@@ -62,8 +60,8 @@ export default async function GuidePage({
     headline: g.h1,
     description: g.metaDescription,
     datePublished: "2026-10-05",
-    author: { "@type": "Organization", name: "Akihabara TCG Warehouse" },
-    publisher: { "@type": "Organization", name: "Akihabara TCG Warehouse" },
+    author: { "@type": "Organization", name: content.settings.siteName },
+    publisher: { "@type": "Organization", name: content.settings.siteName },
     mainEntityOfPage: url,
   };
 
@@ -168,7 +166,7 @@ export default async function GuidePage({
           </nav>
 
           <p className="text-[12px] text-gray-400 border-t border-gray-200 pt-4">
-            © Akihabara TCG Warehouse. Educational guide — apply these checks to
+            © {content.settings.siteName}. Educational guide — apply these checks to
             every seller, including us.
           </p>
         </article>

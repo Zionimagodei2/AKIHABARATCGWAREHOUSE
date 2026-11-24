@@ -3,6 +3,12 @@ import { Inter, Montserrat } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 import TawkChat from "@/components/tawk-chat";
+import { getPublishedContent } from "@/lib/site-content";
+
+/* Metadata + JSON-LD read the published site content at request time
+   (admin-editable SEO key + settings), failing soft to the compiled
+   defaults — which are the values this file used to hardcode. */
+export const dynamic = "force-dynamic";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -28,96 +34,67 @@ export const viewport: Viewport = {
   ],
 };
 
-export const metadata: Metadata = {
-  metadataBase: new URL("https://www.akihabaratcgwarehouse.com"),
-  title: "Japanese & English TCG Cards | Akihabara TCG Warehouse",
-  description:
-    "Authentic Japanese & English Pokémon, One Piece and Dragon Ball booster boxes. Factory sealed, direct from Japan, ships worldwide.",
-  keywords: [
-    "Japanese Pokemon cards",
-    "Japanese One Piece cards",
-    "Pokemon booster box Japanese",
-    "One Piece booster box",
-    "Akihabara card shop",
-    "Akihabara TCG",
-    "authentic Japanese booster box",
-    "Japan imported TCG",
-    "Japan import trading cards",
-    "Pokemon cards from Japan",
-    "Japanese TCG cards online",
-    "Akihabara warehouse cards",
-    "Tokyo card shop online",
-    "TCG",
-    "Pokemon Cards",
-    "One Piece Cards",
-    "Dragon Ball Cards",
-    "Weiss Schwarz",
-    "Union Arena",
-    "Gundam Card Game",
-    "Disney Lorcana",
-    "Booster Box",
-    "Sealed Case",
-    "Elite Trainer Box",
-    "trading card game",
-    "collectible cards",
-    "preorder TCG",
-    "Yu-Gi-Oh cards",
-    "hololive cards",
-  ],
-  authors: [{ name: "Akihabara TCG Warehouse" }],
-  creator: "Akihabara TCG Warehouse",
-  publisher: "Akihabara TCG Warehouse",
-  robots: {
-    index: true,
-    follow: true,
-    googleBot: {
+export async function generateMetadata(): Promise<Metadata> {
+  const { seo, settings } = await getPublishedContent();
+  return {
+    metadataBase: new URL("https://www.akihabaratcgwarehouse.com"),
+    title: seo.title,
+    description: seo.description,
+    keywords: seo.keywords,
+    authors: [{ name: settings.siteName }],
+    creator: settings.siteName,
+    publisher: settings.siteName,
+    robots: {
       index: true,
       follow: true,
-      "max-video-preview": -1,
-      "max-image-preview": "large",
-      "max-snippet": -1,
+      googleBot: {
+        index: true,
+        follow: true,
+        "max-video-preview": -1,
+        "max-image-preview": "large",
+        "max-snippet": -1,
+      },
     },
-  },
-  alternates: {
-    canonical: "https://www.akihabaratcgwarehouse.com",
-    languages: {
-      "en": "https://www.akihabaratcgwarehouse.com",
+    alternates: {
+      canonical: "https://www.akihabaratcgwarehouse.com",
+      languages: {
+        "en": "https://www.akihabaratcgwarehouse.com",
+      },
     },
-  },
-  icons: {
-    icon: [
-      { url: "/favicon.ico?v=4" },
-      { url: "/favicon-32.png?v=4", type: "image/png", sizes: "32x32" },
-    ],
-    apple: "/apple-touch-icon.png?v=4",
-  },
-  manifest: "/site.webmanifest",
-  openGraph: {
-    title: "Japanese & English TCG Cards | Akihabara TCG Warehouse",
-    description:
-      "Authentic Japanese & English Pokémon, One Piece and Dragon Ball booster boxes. Factory sealed, direct from Japan, ships worldwide.",
-    type: "website",
-    url: "https://www.akihabaratcgwarehouse.com",
-    siteName: "Akihabara TCG Warehouse",
-    locale: "en_US",
-    images: [{ url: "/og-image.png?v=3", width: 1200, height: 630, alt: "Akihabara TCG Warehouse - Premium Japanese TCG Cards" }],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Japanese & English TCG Cards | Akihabara TCG Warehouse",
-    description:
-      "Authentic Japanese & English Pokémon, One Piece and Dragon Ball booster boxes. Factory sealed, direct from Japan, ships worldwide.",
-    images: ["/og-image.png?v=3"],
-  },
-  category: "Shopping",
-  classification: "Trading Card Games",
-};
+    icons: {
+      icon: [
+        { url: "/favicon.ico?v=4" },
+        { url: "/favicon-32.png?v=4", type: "image/png", sizes: "32x32" },
+      ],
+      apple: "/apple-touch-icon.png?v=4",
+    },
+    manifest: "/site.webmanifest",
+    openGraph: {
+      title: seo.title,
+      description: seo.description,
+      type: "website",
+      url: "https://www.akihabaratcgwarehouse.com",
+      siteName: settings.siteName,
+      locale: "en_US",
+      images: [{ url: "/og-image.png?v=3", width: 1200, height: 630, alt: "Akihabara TCG Warehouse - Premium Japanese TCG Cards" }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: seo.title,
+      description: seo.description,
+      images: ["/og-image.png?v=3"],
+    },
+    category: "Shopping",
+    classification: "Trading Card Games",
+  };
+}
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const { seo, settings } = await getPublishedContent();
   // JSON-LD Structured Data for SEO
   const jsonLd = {
     "@context": "https://schema.org",
@@ -125,14 +102,14 @@ export default function RootLayout({
       {
         "@type": "Store",
         "@id": "https://www.akihabaratcgwarehouse.com/#store",
-        name: "Akihabara TCG Warehouse",
+        name: settings.siteName,
         url: "https://www.akihabaratcgwarehouse.com",
         logo: "https://www.akihabaratcgwarehouse.com/store-logo.webp",
-        description: "Premium Japanese & English TCG card shop based in Akihabara, Tokyo. Authentic Pokemon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam & Disney Lorcana trading card games.",
+        description: seo.storeDescription,
         image: "https://www.akihabaratcgwarehouse.com/og-image.png",
         priceRange: "$$",
         currenciesAccepted: "USD, JPY, EUR, GBP",
-        paymentAccepted: "Wise, Zelle, Chime, Cash App, Apple Pay, Google Pay, Credit Card, Bank Transfer, Cryptocurrency",
+        paymentAccepted: seo.paymentAccepted,
         address: {
           "@type": "PostalAddress",
           addressLocality: "Akihabara",
@@ -162,8 +139,8 @@ export default function RootLayout({
         ],
         contactPoint: {
           "@type": "ContactPoint",
-          telephone: "+81-80-2935-0455",
-          email: "support@akihabaratcgwarehouse.com",
+          telephone: settings.whatsappNumber.replace(/ /g, "-"),
+          email: settings.storeEmail,
           contactType: "customer service",
           availableLanguage: ["English", "Japanese"],
         },
@@ -171,7 +148,7 @@ export default function RootLayout({
       },
       {
         "@type": "WebSite",
-        name: "Akihabara TCG Warehouse",
+        name: settings.siteName,
         url: "https://www.akihabaratcgwarehouse.com",
         potentialAction: {
           "@type": "SearchAction",

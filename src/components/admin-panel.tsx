@@ -54,6 +54,9 @@ import {
   ShieldCheck,
   ArrowUp,
   ArrowDown,
+  LayoutTemplate,
+  BookOpen,
+  Newspaper,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -123,9 +126,16 @@ import {
   type PublishStatus as StorePublishStatus,
   type StoreProduct,
   type StoreContent,
-  type TokenStatus,
 } from "@/lib/admin-store";
 import { resolveSlideTarget } from "@/lib/hero-link";
+import {
+  PagesEditor,
+  EditorialEditor,
+  PostsEditor,
+  PublicationsCard,
+  PaymentMethodsEditor,
+  MediaField,
+} from "@/components/admin-editors";
 
 /* ─────────── Types ─────────── */
 
@@ -239,7 +249,7 @@ interface Announcement {
   order: number;
 }
 
-type Page = "dashboard" | "products" | "orders" | "customers" | "reviews" | "content" | "settings";
+type Page = "dashboard" | "products" | "orders" | "customers" | "reviews" | "content" | "pages" | "editorial" | "posts" | "settings";
 
 /* ─────────── Constants ─────────── */
 
@@ -250,6 +260,9 @@ const NAV_ITEMS: { key: Page; label: string; icon: React.ElementType }[] = [
   { key: "customers", label: "Customers", icon: Users },
   { key: "reviews", label: "Reviews", icon: Star },
   { key: "content", label: "Content", icon: FileText },
+  { key: "pages", label: "Pages", icon: LayoutTemplate },
+  { key: "editorial", label: "Sets & Guides", icon: BookOpen },
+  { key: "posts", label: "Blog Posts", icon: Newspaper },
   { key: "settings", label: "Settings", icon: Settings },
 ];
 
@@ -447,7 +460,7 @@ function truncate(str: string, len: number): string {
   return str.length > len ? str.substring(0, len) + "..." : str;
 }
 
-function getInitials(name: string | null): string {
+function getInitials(name: string | null | undefined): string {
   if (!name) return "??";
   return name
     .split(" ")
@@ -597,8 +610,6 @@ export default function AdminPanel() {
   const [unpublishedCount, setUnpublishedCount] = useState(0);
   const [publishStatus, setPublishStatus] = useState<StorePublishStatus>({ state: "idle", message: "", at: null });
   const [publishing, setPublishing] = useState(false);
-  // Publication status — the token itself lives only on the server
-  const [tokenStatus, setTokenStatus] = useState<TokenStatus | null>(null);
 
   // Record a real order (from a customer confirmation via WhatsApp / live chat)
   const [newOrderOpen, setNewOrderOpen] = useState(false);
@@ -712,7 +723,6 @@ export default function AdminPanel() {
     const unsubscribe = adminStore.subscribe(syncFromStore);
     adminStore.ready().then(() => {
       if (cancelled) return;
-      adminStore.getTokenStatus().then((status) => { if (!cancelled) setTokenStatus(status); });
       syncFromStore();
       // Load the current page's data once the store is ready
       switch (activePage) {
@@ -723,6 +733,7 @@ export default function AdminPanel() {
         case "reviews": fetchReviews(); break;
         case "content": fetchContent(); break;
         case "settings": fetchSettings(); break;
+        default: break;
       }
     });
     return () => {
@@ -955,6 +966,9 @@ export default function AdminPanel() {
         jpyRate: s.currencyJPY || "149.5",
         eurRate: s.currencyEUR || "0.92",
         gbpRate: s.currencyGBP || "0.79",
+        storeEmail: s.storeEmail || "",
+        freeShippingThreshold: String(s.freeShippingThreshold ?? 500),
+        standardShippingFee: String(s.standardShippingFee ?? 15),
       });
     } catch (err) {
       console.error("Settings error:", err);
@@ -987,6 +1001,8 @@ export default function AdminPanel() {
         break;
       case "settings":
         fetchSettings();
+        break;
+      default:
         break;
     }
   }, [activePage, isAuthenticated, fetchStats, fetchProducts, fetchOrders, fetchCustomers, fetchReviews, fetchContent, fetchSettings]);
@@ -1753,6 +1769,9 @@ export default function AdminPanel() {
           currencyJPY: settings.jpyRate || "149.5",
           currencyEUR: settings.eurRate || "0.92",
           currencyGBP: settings.gbpRate || "0.79",
+          storeEmail: settings.storeEmail || "",
+          freeShippingThreshold: parseFloat(settings.freeShippingThreshold) || 0,
+          standardShippingFee: parseFloat(settings.standardShippingFee) || 0,
         },
       });
 
@@ -1774,7 +1793,7 @@ export default function AdminPanel() {
       if (!result.ok) {
         toast({ title: "Publish failed", description: result.error, variant: "destructive" });
       } else {
-        toast({ title: "Changes published", description: "The live store is rebuilding — usually live within a few minutes" });
+        toast({ title: "Changes published", description: "Your changes are live on the store right now" });
         fetchStats();
       }
     } finally {
@@ -1782,9 +1801,9 @@ export default function AdminPanel() {
     }
   };
 
-  const handleDiscardChanges = () => {
-    adminStore.discardLocalChanges();
-    toast({ title: "Local changes discarded", description: "Back to the live store data" });
+  const handleDiscardChanges = async () => {
+    await adminStore.discardLocalChanges();
+    toast({ title: "Draft discarded", description: "Back to the live store data" });
     fetchProducts();
     fetchStats();
     fetchContent();
@@ -2154,7 +2173,7 @@ export default function AdminPanel() {
                     {unpublishedCount} unpublished change{unpublishedCount === 1 ? "" : "s"}
                   </p>
                   <p className="text-xs text-amber-700 mt-0.5">
-                    Edits are saved in this browser. Publish to push them to the live store (takes a few minutes to rebuild).
+                    Edits are saved to your draft on the server. Publish to put them live — publishing is instant, no rebuild.
                   </p>
                 </div>
               </div>
@@ -2743,14 +2762,8 @@ export default function AdminPanel() {
           <div className="grid gap-6 py-4">
             {/* Main Image URL */}
             <div className="space-y-2">
-              <Label htmlFor="pf-main-image">Main Image URL</Label>
-              <div className="flex gap-2">
-                <Input
-                  id="pf-main-image"
-                  placeholder="https://example.com/image.jpg or /images/your-image.webp"
-                  value={pfImage}
-                  onChange={(e) => setPfImage(e.target.value)}
-                />
+              <MediaField label="Main Image URL" value={pfImage} onChange={setPfImage} />
+              <div>
                 <Button type="button" variant="outline" size="sm" onClick={addImageUrl} className="shrink-0">
                   Add to Gallery
                 </Button>
@@ -4545,8 +4558,7 @@ export default function AdminPanel() {
           </DialogHeader>
           <div className="space-y-4 py-2">
             <div className="space-y-2">
-              <Label>Image URL</Label>
-              <Input placeholder="/images/your-slide.jpg" value={slideFormImage} onChange={(e) => setSlideFormImage(e.target.value)} />
+              <MediaField label="Image URL" value={slideFormImage} onChange={setSlideFormImage} />
               {slideFormImage && (
                 <div className="h-32 rounded-lg overflow-hidden bg-gray-100">
                   <Image src={slideFormImage} alt="Preview" width={600} height={200} className="w-full h-full object-cover" unoptimized />
@@ -4801,7 +4813,44 @@ export default function AdminPanel() {
                     placeholder="0.79"
                   />
                 </div>
+                <div className="space-y-2">
+                  <Label htmlFor="setting-storeEmail">Store Email</Label>
+                  <Input
+                    id="setting-storeEmail"
+                    type="email"
+                    value={settings.storeEmail || ""}
+                    onChange={(e) => setSettings({ ...settings, storeEmail: e.target.value })}
+                    placeholder="support@akihabaratcgwarehouse.com"
+                  />
+                </div>
+                <div className="space-y-2">
+                  <Label htmlFor="setting-freeShippingThreshold">Free Shipping Threshold (USD)</Label>
+                  <Input
+                    id="setting-freeShippingThreshold"
+                    type="number"
+                    step="1"
+                    value={settings.freeShippingThreshold || "500"}
+                    onChange={(e) => setSettings({ ...settings, freeShippingThreshold: e.target.value })}
+                    placeholder="500"
+                  />
+                  <p className="text-xs text-gray-500">The one amount used everywhere: banner, cart, checkout, shipping page and FAQ.</p>
+                </div>
+                <div className="space-y-2">
+                  <Label htmlFor="setting-standardShippingFee">Standard Shipping Fee (USD)</Label>
+                  <Input
+                    id="setting-standardShippingFee"
+                    type="number"
+                    step="0.5"
+                    value={settings.standardShippingFee || "15"}
+                    onChange={(e) => setSettings({ ...settings, standardShippingFee: e.target.value })}
+                    placeholder="15"
+                  />
+                </div>
               </div>
+
+              <Separator />
+
+              <PaymentMethodsEditor />
 
               <Separator />
 
@@ -4809,7 +4858,7 @@ export default function AdminPanel() {
                 <div>
                   <h4 className="text-sm font-medium">Store Data</h4>
                   <p className="text-xs text-gray-500 mt-0.5">
-                    The catalog lives in this store&apos;s repository and loads automatically — no external database needed.
+                    Everything is edited as a draft on the server and goes live the moment you press Publish — no rebuild, no external tools.
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-2">
@@ -4823,7 +4872,7 @@ export default function AdminPanel() {
                     <RefreshCw size={14} className="mr-2" /> Re-sync from live store
                   </Button>
                   <Button variant="outline" size="sm" onClick={handleDiscardChanges} disabled={unpublishedCount === 0} className="text-amber-700 border-amber-200 hover:bg-amber-50">
-                    Discard local edits ({unpublishedCount})
+                    Discard draft edits ({unpublishedCount})
                   </Button>
                 </div>
               </div>
@@ -4838,57 +4887,7 @@ export default function AdminPanel() {
           )}
         </CardContent>
       </Card>
-      {/* Publication Token */}
-      <Card className="border-0 shadow-sm">
-        <CardHeader>
-          <div className="flex items-center gap-2">
-            <ShieldCheck size={18} className="text-purple-950" />
-            <CardTitle className="text-base">Publication Token</CardTitle>
-          </div>
-          <CardDescription>
-            Publishes your catalog changes to the live store with one click.
-          </CardDescription>
-        </CardHeader>
-        <CardContent>
-          {tokenStatus ? (
-            <div className="space-y-4">
-              <div className="space-y-2">
-                <Label htmlFor="publication-token">Publication Token</Label>
-                <div className="relative">
-                  <Lock size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" />
-                  <Input
-                    id="publication-token"
-                    type="password"
-                    autoComplete="off"
-                    readOnly
-                    disabled
-                    value="•••••••••••••••••••••••••"
-                    className="pl-9 pr-20 font-mono tracking-widest"
-                    tabIndex={-1}
-                  />
-                  <span
-                    className={`absolute right-3 top-1/2 -translate-y-1/2 inline-flex items-center gap-1 text-[10px] font-semibold rounded-full px-2 py-0.5 border ${
-                      tokenStatus.active
-                        ? "bg-emerald-50 text-emerald-700 border-emerald-200"
-                        : "bg-red-50 text-red-700 border-red-200"
-                    }`}
-                  >
-                    {tokenStatus.active ? <CheckCircle2 size={10} /> : <AlertTriangle size={10} />}
-                    {tokenStatus.active ? "Active" : "Not configured"}
-                  </span>
-                </div>
-                <p className="text-xs text-gray-500">
-                  {tokenStatus.active
-                    ? "Publishing is configured on the server — the token is held server-side and never reaches this browser."
-                    : "Publishing is not configured on the server — set GITHUB_PUBLICATION_TOKEN in the server environment to enable one-click publishing."}
-                </p>
-              </div>
-            </div>
-          ) : (
-            renderSkeleton(3)
-          )}
-        </CardContent>
-      </Card>
+      <PublicationsCard />
     </div>
   );
 
@@ -4911,15 +4910,6 @@ export default function AdminPanel() {
             <Menu size={20} />
           </Button>
           {/* Publish status + action */}
-          {publishStatus.state === "waiting" && (
-            <span className="hidden sm:inline-flex items-center gap-1.5 text-xs font-medium text-amber-700 bg-amber-50 border border-amber-200 rounded-full px-3 py-1.5">
-              <span className="relative flex size-2">
-                <span className="animate-ping absolute inline-flex size-full rounded-full bg-amber-400 opacity-75" />
-                <span className="relative inline-flex rounded-full size-2 bg-amber-500" />
-              </span>
-              Rebuilding the live store…
-            </span>
-          )}
           {publishStatus.state === "live" && (
             <span className="hidden sm:inline-flex items-center gap-1.5 text-xs font-medium text-emerald-700 bg-emerald-50 border border-emerald-200 rounded-full px-3 py-1.5">
               <CheckCircle2 size={12} /> Changes are live
@@ -4979,6 +4969,9 @@ export default function AdminPanel() {
               {activePage === "customers" && renderCustomers()}
               {activePage === "reviews" && renderReviews()}
               {activePage === "content" && renderContent()}
+              {activePage === "pages" && <PagesEditor />}
+              {activePage === "editorial" && <EditorialEditor />}
+              {activePage === "posts" && <PostsEditor />}
               {activePage === "settings" && renderSettings()}
             </motion.div>
           </AnimatePresence>

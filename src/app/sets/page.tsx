@@ -1,32 +1,36 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { SET_HUBS, SET_INDEX } from "@/lib/content-data";
 import { SITE_URL, URL_TRAILING } from "@/lib/product-data";
+import { getPublishedContent } from "@/lib/site-content";
 
-/* Set hub index — /sets/ */
+/* Set hub index — /sets/ (copy from the published sets content key) */
 
-export const metadata: Metadata = {
-  title: SET_INDEX.metaTitle,
-  description: SET_INDEX.metaDescription,
-  alternates: { canonical: `${SITE_URL}/sets${URL_TRAILING}` },
-  robots: { index: true, follow: true },
-};
+export const dynamic = "force-dynamic";
 
-export default function SetsIndexPage() {
-  const hubs = Object.values(SET_HUBS);
+export async function generateMetadata(): Promise<Metadata> {
+  const { sets } = await getPublishedContent();
+  return {
+    title: sets.index.metaTitle,
+    description: sets.index.metaDescription,
+    alternates: { canonical: `${SITE_URL}/sets${URL_TRAILING}` },
+    robots: { index: true, follow: true },
+  };
+}
+
+export default async function SetsIndexPage() {
+  const { sets } = await getPublishedContent();
+  const hubs = Object.values(sets.hubs);
   return (
     <div className="min-h-screen bg-gray-50">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10">
         <p className="text-[11px] font-bold text-purple-600 tracking-[0.2em] uppercase mb-3">
-          Editorial
+          {sets.index.eyebrow}
         </p>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-purple-950 leading-tight mb-4">
-          TCG Set Guides
+          {sets.index.title}
         </h1>
         <p className="text-[15px] text-gray-600 leading-relaxed mb-8">
-          In-depth guides to the sets that matter: release dates, box
-          configurations, new rarities and chase cards — with links to buy
-          authentic sealed product direct from Japan.
+          {sets.index.intro}
         </p>
         <div className="grid sm:grid-cols-2 gap-4">
           {hubs.map((h) => (

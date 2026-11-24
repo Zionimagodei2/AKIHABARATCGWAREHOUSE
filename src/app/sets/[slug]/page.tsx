@@ -1,26 +1,21 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import type { SetHub } from "@/lib/content-data";
+import { SITE_URL, URL_TRAILING, type Product } from "@/lib/product-data";
 import {
-  SET_HUBS,
-  SET_SLUGS,
-  type SetHub,
-} from "@/lib/content-data";
-import {
-  getProductBySlug,
-  SITE_URL,
-  URL_TRAILING,
-} from "@/lib/product-data";
+  getPublishedCatalog,
+  getPublishedContent,
+} from "@/lib/site-content";
 
 /* ────────────────────────────────────────────────────────────
    Set hub pages — /sets/<slug>/
    Editorial set guides with CollectionPage + FAQPage schema,
    product cards linking to the store's live listings.
+   Hub copy + catalog come from the published site content.
    ──────────────────────────────────────────────────────────── */
 
-export function generateStaticParams() {
-  return SET_SLUGS.map((slug) => ({ slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,
@@ -28,7 +23,8 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const hub = SET_HUBS[slug];
+  const { sets, settings } = await getPublishedContent();
+  const hub = sets.hubs[slug];
   if (!hub) return {};
   const url = `${SITE_URL}/sets/${hub.slug}${URL_TRAILING}`;
   return {
@@ -41,7 +37,7 @@ export async function generateMetadata({
       description: hub.metaDescription,
       type: "article",
       url,
-      siteName: "Akihabara TCG Warehouse",
+      siteName: settings.siteName,
     },
     twitter: {
       card: "summary",
@@ -51,8 +47,8 @@ export async function generateMetadata({
   };
 }
 
-function ProductCard({ slug }: { slug: string }) {
-  const p = getProductBySlug(slug);
+function ProductCard({ catalog, slug }: { catalog: Product[]; slug: string }) {
+  const p = catalog.find((x) => x.slug === slug);
   if (!p) return null;
   return (
     <Link
@@ -89,7 +85,11 @@ export default async function SetHubPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const hub: SetHub | undefined = SET_HUBS[slug];
+  const [content, catalog] = await Promise.all([
+    getPublishedContent(),
+    getPublishedCatalog(),
+  ]);
+  const hub: SetHub | undefined = content.sets.hubs[slug];
   if (!hub) notFound();
 
   const url = `${SITE_URL}/sets/${hub.slug}${URL_TRAILING}`;
@@ -202,7 +202,7 @@ export default async function SetHubPage({
             <p className="text-[14px] text-purple-200 mb-5">{hub.ctaSub}</p>
             <div className="grid sm:grid-cols-2 gap-3 text-left">
               {hub.productSlugs.map((s) => (
-                <ProductCard key={s} slug={s} />
+                <ProductCard key={s} catalog={catalog} slug={s} />
               ))}
             </div>
           </aside>
@@ -234,7 +234,7 @@ export default async function SetHubPage({
           </nav>
 
           <p className="text-[12px] text-gray-400 border-t border-gray-200 pt-4">
-            © Akihabara TCG Warehouse. {hub.sourceNote}
+            © {content.settings.siteName}. {hub.sourceNote}
           </p>
         </article>
       </div>

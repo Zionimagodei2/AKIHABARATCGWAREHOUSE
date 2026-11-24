@@ -1,9 +1,36 @@
+import type { Metadata } from "next";
 import CategoryLanding, {
   categoryMetadata,
 } from "@/components/category-landing";
+import { getPublishedCatalog, getPublishedContent } from "@/lib/site-content";
 
-export const metadata = categoryMetadata("Other TCG");
+export const dynamic = "force-dynamic";
 
-export default function JapaneseTcgPage() {
-  return <CategoryLanding category="Other TCG" />;
+const CATEGORY = "Other TCG";
+
+export async function generateMetadata(): Promise<Metadata> {
+  const content = await getPublishedContent();
+  return categoryMetadata(
+    CATEGORY,
+    content.categoryPages[CATEGORY],
+    content.settings.siteName,
+  );
+}
+
+export default async function JapaneseTcgPage() {
+  const [content, catalog] = await Promise.all([
+    getPublishedContent(),
+    getPublishedCatalog(),
+  ]);
+  return (
+    <CategoryLanding
+      category={CATEGORY}
+      config={content.categoryPages[CATEGORY]}
+      allConfigs={content.categoryPages}
+      products={catalog.filter((p) => p.category === CATEGORY)}
+      totalCount={catalog.length}
+      siteName={content.settings.siteName}
+      freeShippingThreshold={content.settings.freeShippingThreshold}
+    />
+  );
 }

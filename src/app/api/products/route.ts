@@ -1,5 +1,6 @@
 import { NextResponse, NextRequest } from 'next/server'
 import { selectFrom, isSupabaseConfigured } from '@/lib/supabase-client'
+import { rowToFileProduct } from '@/lib/site-content'
 
 interface ProductRow {
   id: string
@@ -19,38 +20,7 @@ interface ProductRow {
   sku: string | null
   created_at: string
   updated_at: string
-}
-
-function transformProduct(p: ProductRow) {
-  let categories: string[] = []
-  try {
-    categories = typeof p.categories === 'string' ? JSON.parse(p.categories) : (p.categories || [])
-  } catch { categories = [] }
-
-  let images: string[] = []
-  try {
-    images = typeof p.images === 'string' ? JSON.parse(p.images) : (p.images || [])
-  } catch { images = [] }
-
-  return {
-    id: p.id,
-    title: p.title,
-    price: p.price,
-    original_price: p.original_price ?? null,
-    image: p.image,
-    images,
-    description: p.description ?? null,
-    category: p.category,
-    categories,
-    rating: p.rating ?? 4.5,
-    review_count: p.review_count ?? 0,
-    in_stock: p.in_stock ?? true,
-    featured: p.featured ?? false,
-    source: p.source ?? null,
-    sku: p.sku ?? null,
-    created_at: p.created_at,
-    updated_at: p.updated_at,
-  }
+  data?: Record<string, unknown> | null
 }
 
 export async function GET(request: NextRequest) {
@@ -116,7 +86,9 @@ export async function GET(request: NextRequest) {
       })
     }
 
-    const transformed = products.map(transformProduct)
+    const transformed = products.map((p) =>
+      rowToFileProduct(p as unknown as Record<string, unknown>),
+    )
 
     return NextResponse.json({ products: transformed, total: transformed.length })
   } catch (error) {

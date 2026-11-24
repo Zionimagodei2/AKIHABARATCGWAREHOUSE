@@ -2,33 +2,32 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
-  allProducts,
   categoryPhrase,
-  getProductBySlug,
   productLanguage,
-  relatedProducts,
   categoryPageUrl,
   SITE_URL,
   URL_TRAILING,
 } from "@/lib/product-data";
+import { setHubForProduct } from "@/lib/content-data";
 import {
-  setHubForProduct,
-  setHubLabel,
-} from "@/lib/content-data";
+  getPublishedCatalog,
+  getPublishedContent,
+  getPublishedProductBySlug,
+  relatedFromCatalog,
+} from "@/lib/site-content";
 
 /* ────────────────────────────────────────────────────────────
    Individual Product Page — server-rendered for SEO
-   Each of the 202 products gets its own indexable URL with
-   unique title, description, canonical, OG tags + Product JSON-LD
+   Each product gets its own indexable URL with unique title,
+   description, canonical, OG tags + Product JSON-LD. Product +
+   catalog come from the published site content at request time.
    ──────────────────────────────────────────────────────────── */
+
+export const dynamic = "force-dynamic";
 
 function truncate(s: string, max: number): string {
   if (s.length <= max) return s;
   return s.slice(0, max - 1).trimEnd() + "…";
-}
-
-export function generateStaticParams() {
-  return allProducts.map((p) => ({ slug: p.slug! }));
 }
 
 export async function generateMetadata({
@@ -37,10 +36,14 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const product = getProductBySlug(slug);
+  const [product, content] = await Promise.all([
+    getPublishedProductBySlug(slug),
+    getPublishedContent(),
+  ]);
+  const siteName = content.settings.siteName;
 
   if (!product) {
-    return { title: "Product Not Found | Akihabara TCG Warehouse" };
+    return { title: `Product Not Found | ${siteName}` };
   }
 
   const cat = product.category;
@@ -70,7 +73,7 @@ export async function generateMetadata({
       description,
       type: "website",
       url,
-      siteName: "Akihabara TCG Warehouse",
+      siteName,
       images: [
         {
           url: `${SITE_URL}${product.image}`,
@@ -95,11 +98,20 @@ export default async function ProductPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const product = getProductBySlug(slug);
+  const [catalog, content] = await Promise.all([
+    getPublishedCatalog(),
+    getPublishedContent(),
+  ]);
+  const product = catalog.find((p) => p.slug === slug);
   if (!product) notFound();
 
-  const related = relatedProducts(product, 4);
+  const siteName = content.settings.siteName;
+  const freeShippingThreshold = content.settings.freeShippingThreshold;
+  const related = relatedFromCatalog(catalog, product, 4);
   const hubSlug = setHubForProduct(product.title);
+  const hubLabel = hubSlug
+    ? (content.sets.hubs[hubSlug]?.h1 ?? "this set")
+    : null;
   const phrase = categoryPhrase(product.category);
   const isEnglish = productLanguage(product.category) === "English";
   const discount =
@@ -143,7 +155,7 @@ export default async function ProductPage({
       itemCondition: "https://schema.org/NewCondition",
       seller: {
         "@type": "Organization",
-        name: "Akihabara TCG Warehouse",
+        name: siteName,
         url: SITE_URL,
       },
       shippingDetails: {
@@ -328,7 +340,7 @@ export default async function ProductPage({
                 {inStock ? "Add to Cart" : "Pre-Order Now"} — ${product.price.toFixed(2)}
               </Link>
               <p className="text-[12px] text-gray-400 mt-2 mb-6">
-                Free worldwide shipping on orders over $500 · Secure checkout
+                Free worldwide shipping on orders over ${freeShippingThreshold} · Secure checkout
               </p>
 
               {/* Description */}
@@ -371,7 +383,7 @@ export default async function ProductPage({
                   href={`/sets/${hubSlug}/`}
                   className="font-semibold text-purple-700 hover:text-purple-900 underline underline-offset-2"
                 >
-                  {setHubLabel(hubSlug)} →
+                  {hubLabel} →
                 </Link>
               </p>
             </div>

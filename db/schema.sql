@@ -80,6 +80,57 @@ create table if not exists products (
 create index if not exists products_category_idx on products (category);
 create index if not exists products_created_at_idx on products (created_at desc);
 
+-- ── Admin editing (2026-11-24): Postgres-backed draft / publish ─────
+-- The admin panel edits a single server-side draft; Publish applies it
+-- (products table rewritten + a site_publications snapshot kept, last
+-- 3 only) and Rollback restores one of those snapshots. Blog posts the
+-- admin edits live in blog_posts (compiled blog-data.ts posts keep
+-- working untouched until imported). Uploaded media lives in `media`
+-- (base64 text) because the container filesystem does not survive
+-- redeploys.
+create table if not exists admin_draft (
+  id         integer primary key,
+  products   jsonb not null default '[]'::jsonb,
+  content    jsonb not null default '{}'::jsonb,
+  updated_at timestamptz not null default now()
+);
+
+create table if not exists site_publications (
+  id           bigint generated always as identity primary key,
+  published_at timestamptz not null default now(),
+  note         text,
+  content      jsonb not null,
+  products     jsonb not null
+);
+
+create index if not exists site_publications_published_at_idx
+  on site_publications (published_at desc, id desc);
+
+create table if not exists blog_posts (
+  slug       text primary key,
+  draft      jsonb,
+  published  jsonb,
+  updated_at timestamptz not null default now()
+);
+
+create table if not exists blog_post_versions (
+  id           bigint generated always as identity primary key,
+  slug         text not null,
+  post         jsonb not null,
+  published_at timestamptz not null default now()
+);
+
+create index if not exists blog_post_versions_slug_idx
+  on blog_post_versions (slug, id desc);
+
+create table if not exists media (
+  id         text primary key,
+  mime       text not null,
+  data       text not null,
+  alt        text,
+  created_at timestamptz not null default now()
+);
+
 -- Keep updated_at fresh on UPDATE (the old PostgREST flow set it
 -- explicitly from the client; the API routes now just patch fields).
 create or replace function set_updated_at() returns trigger as $$

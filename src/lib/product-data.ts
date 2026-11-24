@@ -94,7 +94,7 @@ export function generateDescription(p: Product): string {
 
 /* ── Cleaned catalog with slugs (single source of truth) ── */
 
-function cleanProducts(data: unknown): Product[] {
+export function cleanProducts(data: unknown): Product[] {
   const seenSlugs = new Map<string, number>();
   return (data as Product[])
     .filter((p) => p.id && p.title && p.price > 0 && p.image && p.category)

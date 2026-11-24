@@ -1,34 +1,32 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import {
-  CALENDAR_UPCOMING,
-  CALENDAR_RECENT,
-} from "@/lib/content-data";
+import type { CalendarEntry } from "@/lib/content-data";
 import { SITE_URL, URL_TRAILING } from "@/lib/product-data";
+import { getPublishedContent } from "@/lib/site-content";
 
-/* Release calendar — /release-calendar/ */
+/* Release calendar — /release-calendar/ (copy from the published
+   calendar content key; entries included) */
 
-export const metadata: Metadata = {
-  title: "TCG Release Calendar: Pokémon, One Piece, Dragon Ball",
-  description:
-    "Every upcoming Japanese & English TCG release: dates for Pokémon, One Piece Card Game and Dragon Ball Fusion World sets. Updated monthly.",
-  alternates: { canonical: `${SITE_URL}/release-calendar${URL_TRAILING}` },
-  robots: { index: true, follow: true },
-  openGraph: {
-    title: "TCG Release Calendar 2026–2027",
-    description:
-      "Release dates for upcoming Pokémon, One Piece and Dragon Ball TCG sets — Japanese and English. Bookmark and check monthly.",
-    type: "article",
-    url: `${SITE_URL}/release-calendar${URL_TRAILING}`,
-    siteName: "Akihabara TCG Warehouse",
-  },
-};
+export const dynamic = "force-dynamic";
 
-function CalendarTable({
-  entries,
-}: {
-  entries: typeof CALENDAR_UPCOMING;
-}) {
+export async function generateMetadata(): Promise<Metadata> {
+  const { calendar, settings } = await getPublishedContent();
+  return {
+    title: calendar.metaTitle,
+    description: calendar.metaDescription,
+    alternates: { canonical: `${SITE_URL}/release-calendar${URL_TRAILING}` },
+    robots: { index: true, follow: true },
+    openGraph: {
+      title: calendar.ogTitle,
+      description: calendar.ogDescription,
+      type: "article",
+      url: `${SITE_URL}/release-calendar${URL_TRAILING}`,
+      siteName: settings.siteName,
+    },
+  };
+}
+
+function CalendarTable({ entries }: { entries: CalendarEntry[] }) {
   return (
     <div className="overflow-x-auto rounded-xl border border-gray-200 mb-10">
       <table className="w-full text-[14px]">
@@ -75,46 +73,26 @@ function CalendarTable({
   );
 }
 
-export default function ReleaseCalendarPage() {
+export default async function ReleaseCalendarPage() {
+  const { calendar, settings } = await getPublishedContent();
+
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: "TCG Release Calendar 2026–2027",
-    description:
-      "Release dates for upcoming Pokémon, One Piece Card Game and Dragon Ball Fusion World TCG sets.",
+    headline: calendar.ogTitle,
+    description: calendar.articleDescription,
     datePublished: "2026-10-05",
-    author: { "@type": "Organization", name: "Akihabara TCG Warehouse" },
+    author: { "@type": "Organization", name: settings.siteName },
   };
 
   const faqJsonLd = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: "What is the next One Piece Card Game set?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "EB-05 One Piece Heroines Edition vol.2 releases October 30, 2026, followed by OP-18 The Dominance of God on November 20, 2026.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "What is the next Dragon Ball Fusion World set?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "FB11 Brightness of Hope released October 16, 2026; FB12 Reach the God follows on December 18, 2026.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "When should I pre-order a new TCG set?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "As early as possible — Japanese distributor allocation for hyped sets often sells through before street date. Pre-ordering locks in release pricing instead of aftermarket pricing.",
-        },
-      },
-    ],
+    mainEntity: calendar.faqs.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
   };
 
   return (
@@ -131,36 +109,32 @@ export default function ReleaseCalendarPage() {
       <div className="min-h-screen bg-gray-50">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10">
           <p className="text-[11px] font-bold text-purple-600 tracking-[0.2em] uppercase mb-3">
-            Editorial
+            {calendar.eyebrow}
           </p>
           <h1 className="text-3xl sm:text-4xl font-extrabold text-purple-950 leading-tight mb-2">
-            TCG Release Calendar 2026–2027
+            {calendar.title}
           </h1>
           <p className="text-[13px] text-gray-400 mb-6">
-            Updated October 5, 2026 · Japanese & English releases · Bookmark this
-            page — we update it monthly
+            {calendar.updatedLine}
           </p>
           <p className="text-[15px] text-gray-600 leading-relaxed mb-8">
-            Every confirmed upcoming release for Pokémon, the One Piece Card
-            Game and Dragon Ball Super Card Game Fusion World. Dates are from
-            official publisher announcements; anything unconfirmed is marked.
+            {calendar.intro}
           </p>
 
           <h2 className="text-xl sm:text-2xl font-extrabold text-purple-950 mb-4">
-            Upcoming releases
+            {calendar.upcomingTitle}
           </h2>
-          <CalendarTable entries={CALENDAR_UPCOMING} />
+          <CalendarTable entries={calendar.upcoming} />
 
           <h2 className="text-xl sm:text-2xl font-extrabold text-purple-950 mb-4">
-            Recent releases
+            {calendar.recentTitle}
           </h2>
-          <CalendarTable entries={CALENDAR_RECENT} />
+          <CalendarTable entries={calendar.recent} />
 
           <aside className="bg-purple-950 text-white rounded-2xl p-6 sm:p-8 my-10 text-center">
-            <h2 className="text-xl font-extrabold mb-2">Never miss a release.</h2>
+            <h2 className="text-xl font-extrabold mb-2">{calendar.ctaTitle}</h2>
             <p className="text-[14px] text-purple-200 mb-5">
-              Pre-order sealed Japanese boxes direct from Japan — before
-              allocation sells out.
+              {calendar.ctaText}
             </p>
             <div className="flex flex-wrap justify-center gap-3">
               <Link
@@ -183,40 +157,19 @@ export default function ReleaseCalendarPage() {
               Frequently asked questions
             </h2>
             <div className="space-y-4">
-              <div className="bg-white rounded-xl border border-gray-200 p-5">
-                <h3 className="text-[15px] font-bold text-purple-950 mb-1.5">
-                  What is the next One Piece Card Game set?
-                </h3>
-                <p className="text-[14px] text-gray-600">
-                  EB-05 Heroines Edition vol.2 on October 30, 2026, then OP-18
-                  The Dominance of God on November 20, 2026.
-                </p>
-              </div>
-              <div className="bg-white rounded-xl border border-gray-200 p-5">
-                <h3 className="text-[15px] font-bold text-purple-950 mb-1.5">
-                  What is the next Dragon Ball Fusion World set?
-                </h3>
-                <p className="text-[14px] text-gray-600">
-                  FB11 Brightness of Hope (October 16, 2026), then FB12 Reach
-                  the God (December 18, 2026).
-                </p>
-              </div>
-              <div className="bg-white rounded-xl border border-gray-200 p-5">
-                <h3 className="text-[15px] font-bold text-purple-950 mb-1.5">
-                  When should I pre-order?
-                </h3>
-                <p className="text-[14px] text-gray-600">
-                  As early as possible. Japanese allocation for hyped sets
-                  routinely sells through before street date — pre-ordering
-                  locks in release pricing instead of aftermarket pricing.
-                </p>
-              </div>
+              {calendar.faqs.map((f) => (
+                <div key={f.q} className="bg-white rounded-xl border border-gray-200 p-5">
+                  <h3 className="text-[15px] font-bold text-purple-950 mb-1.5">
+                    {f.q}
+                  </h3>
+                  <p className="text-[14px] text-gray-600">{f.a}</p>
+                </div>
+              ))}
             </div>
           </section>
 
           <p className="text-[12px] text-gray-400 border-t border-gray-200 pt-4">
-            © Akihabara TCG Warehouse. Dates from official Bandai / Pokémon
-            announcements; unconfirmed dates are marked and updated as announced.
+            © {settings.siteName}. {calendar.footnote}
           </p>
         </div>
       </div>

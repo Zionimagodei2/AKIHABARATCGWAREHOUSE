@@ -1,8 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { POSTS, POST_SLUGS, type BlogPost } from "@/lib/blog-data";
 import { SITE_URL, URL_TRAILING } from "@/lib/product-data";
+import type { BlogPostData } from "@/lib/content-types";
+import {
+  getBlogIndexPosts,
+  getPostForRender,
+  getPublishedContent,
+} from "@/lib/site-content";
 
 /* Render a paragraph that may contain [label](/internal/path/) links. */
 function RichText({ text }: { text: string }) {
@@ -28,11 +33,12 @@ function RichText({ text }: { text: string }) {
   );
 }
 
-/* Blog article — /blog/<slug>/  (Article + FAQPage schema) */
+/* Blog article — /blog/<slug>/  (Article + FAQPage schema)
+   The DB-published copy wins when the admin has imported/edited the
+   post; otherwise the compiled blog-data.ts post renders, so the
+   blog pipeline keeps working untouched. */
 
-export function generateStaticParams() {
-  return POST_SLUGS.map((slug) => ({ slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,
@@ -40,8 +46,9 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const p = POSTS[slug];
+  const p = await getPostForRender(slug);
   if (!p) return {};
+  const { settings } = await getPublishedContent();
   const url = `${SITE_URL}/blog/${p.slug}${URL_TRAILING}`;
   return {
     title: p.metaTitle,
@@ -53,7 +60,7 @@ export async function generateMetadata({
       description: p.metaDescription,
       type: "article",
       url,
-      siteName: "Akihabara TCG Warehouse",
+      siteName: settings.siteName,
       publishedTime: p.datePublished,
     },
     twitter: {
@@ -70,8 +77,15 @@ export default async function BlogPostPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const p: BlogPost | undefined = POSTS[slug];
+  const p: BlogPostData | undefined = await getPostForRender(slug);
   if (!p) notFound();
+
+  const [content, allPosts] = await Promise.all([
+    getPublishedContent(),
+    getBlogIndexPosts(),
+  ]);
+  const chrome = content.blog;
+  const siteName = content.settings.siteName;
 
   const url = `${SITE_URL}/blog/${p.slug}${URL_TRAILING}`;
 
@@ -81,8 +95,8 @@ export default async function BlogPostPage({
     headline: p.h1,
     description: p.metaDescription,
     datePublished: p.datePublished,
-    author: { "@type": "Organization", name: "Akihabara TCG Warehouse" },
-    publisher: { "@type": "Organization", name: "Akihabara TCG Warehouse" },
+    author: { "@type": "Organization", name: siteName },
+    publisher: { "@type": "Organization", name: siteName },
     mainEntityOfPage: url,
   };
 
@@ -96,7 +110,7 @@ export default async function BlogPostPage({
     })),
   };
 
-  const related = Object.values(POSTS).filter((r) => r.slug !== p.slug);
+  const related = allPosts.filter((r) => r.slug !== p.slug);
 
   return (
     <>
@@ -128,7 +142,7 @@ export default async function BlogPostPage({
 
         <article className="max-w-3xl mx-auto px-4 sm:px-6 py-10">
           <p className="text-[13px] text-gray-400 mb-3">
-            By the Warehouse · {p.datePublished} · {p.readMinutes} min read
+            {chrome.byline} · {p.datePublished} · {p.readMinutes} min read
           </p>
           <h1 className="text-3xl sm:text-4xl font-extrabold text-purple-950 leading-tight mb-6">
             {p.h1}
@@ -213,7 +227,7 @@ export default async function BlogPostPage({
 
           <section className="mb-10">
             <h2 className="text-xl sm:text-2xl font-extrabold text-purple-950 mb-3">
-              The bottom line
+              {chrome.bottomLineTitle}
             </h2>
             <div className="text-[15px] text-gray-700 leading-relaxed space-y-3">
               {p.takeaway.map((para, i) => (
@@ -224,23 +238,22 @@ export default async function BlogPostPage({
 
           <aside className="bg-purple-950 text-white rounded-2xl p-6 sm:p-8 my-10 text-center">
             <h2 className="text-xl font-extrabold mb-2">
-              Put it into practice
+              {chrome.ctaTitle}
             </h2>
             <p className="text-[14px] text-purple-200 mb-5">
-              Browse our sealed Japanese and English TCG — every box authentic,
-              sourced direct from Japan.
+              {chrome.ctaText}
             </p>
             <Link
               href="/"
               className="inline-block bg-amber-400 hover:bg-amber-300 text-purple-950 font-bold text-[15px] px-6 py-3 rounded-xl transition-colors"
             >
-              Shop sealed product
+              {chrome.ctaLabel}
             </Link>
           </aside>
 
           <section className="mb-10">
             <h2 className="text-xl sm:text-2xl font-extrabold text-purple-950 mb-5">
-              Frequently asked questions
+              {chrome.faqTitle}
             </h2>
             <div className="space-y-4">
               {p.faqs.map((f) => (
@@ -255,7 +268,7 @@ export default async function BlogPostPage({
           {related.length > 0 && (
             <nav className="mb-8">
               <h2 className="text-lg font-extrabold text-purple-950 mb-3">
-                Keep reading
+                {chrome.relatedTitle}
               </h2>
               <div className="flex flex-wrap gap-2">
                 {related.map((r) => (

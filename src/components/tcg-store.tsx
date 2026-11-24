@@ -59,10 +59,11 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import type {
-  StoreContent,
+  ClientSiteContent,
   StoreHeroSlide,
   StoreAnnouncement,
-} from "@/lib/admin-store";
+} from "@/lib/content-types";
+import { DEFAULT_CONTENT } from "@/lib/content-defaults";
 import { resolveSlideTarget } from "@/lib/hero-link";
 
 /* ─────────── Types ─────────── */
@@ -276,7 +277,7 @@ const ANNOUNCEMENT_MESSAGES = [
 
 function formatPrice(usdPrice: number, currency: CurrencyCode): string {
   if (!usdPrice || usdPrice <= 0) return `${CURRENCY_SYMBOLS[currency]}0.00`;
-  const converted = usdPrice * CURRENCY_RATES[currency];
+  const converted = usdPrice * ACTIVE_RATES[currency];
   const symbol = CURRENCY_SYMBOLS[currency];
   if (currency === "JPY") {
     return `${symbol}${Math.round(converted).toLocaleString()}`;
@@ -284,10 +285,54 @@ function formatPrice(usdPrice: number, currency: CurrencyCode): string {
   return `${symbol}${converted.toFixed(2)}`;
 }
 
+/* Exchange rates start at the compiled defaults and are replaced by
+   the published settings rates when /api/site-content loads. */
+let ACTIVE_RATES: Record<CurrencyCode, number> = { ...CURRENCY_RATES };
+
+/* Icons the content editors can pick for cards/badges (by name). */
+const CONTENT_ICONS: Record<string, typeof Shield> = {
+  Shield,
+  Truck,
+  Globe,
+  Package,
+  Heart,
+  Star,
+  Mail,
+  Clock,
+  MapPin,
+};
+
+/* `{threshold}` in editable prose = the free-shipping threshold,
+   rendered as a USD amount exactly like the site always showed it. */
+function fillThreshold(text: string, threshold: number): string {
+  return text.split("{threshold}").join(`$${threshold}`);
+}
+
+/* Merge a partial content payload over the compiled defaults
+   (per top-level key, shallow inside each key). */
+function mergeClientContent(data: unknown): ClientSiteContent {
+  if (!data || typeof data !== "object") return DEFAULT_CONTENT;
+  const d = data as Record<string, unknown>;
+  const out: Record<string, unknown> = { ...DEFAULT_CONTENT };
+  for (const key of Object.keys(DEFAULT_CONTENT)) {
+    const v = d[key];
+    if (v === undefined || v === null) continue;
+    const def = (DEFAULT_CONTENT as unknown as Record<string, unknown>)[key];
+    out[key] =
+      Array.isArray(def) ||
+      typeof def !== "object" ||
+      typeof v !== "object" ||
+      Array.isArray(v)
+        ? v
+        : { ...(def as object), ...(v as object) };
+  }
+  return out as unknown as ClientSiteContent;
+}
+
 function renderStars(rating: number) {
   const full = Math.floor(rating);
   const hasHalf = rating % 1 >= 0.3;
-  const stars = [];
+  const stars: React.ReactNode[] = [];
   for (let i = 0; i < 5; i++) {
     if (i < full) {
       stars.push(<Star key={i} className="size-3.5 fill-amber-400 text-amber-400" />);
@@ -350,10 +395,11 @@ export default function TCGStore({
   const [currentPage, setCurrentPage] = useState<PageView>("shop");
   const [currentUser, setCurrentUser] = useState<{ id: string; email: string; name: string } | null>(null);
   const [mounted, setMounted] = useState(false);
-  // Store content (hero slides / announcements / settings) — editable from
-  // the admin panel and published to /content.json; falls back to the
-  // hardcoded defaults below until it loads (identical content, no flash).
-  const [storeContent, setStoreContent] = useState<StoreContent | null>(null);
+  // Site content — every editorial string on the storefront, editable
+  // from the admin panel and served published from /api/site-content.
+  // Starts as the compiled defaults (identical to the current live
+  // text) so the first paint never flashes or waits.
+  const [siteContent, setSiteContent] = useState<ClientSiteContent>(DEFAULT_CONTENT);
 
   // Group products by category for homepage 2-per-category display
   const productsByCategory = useMemo(() => {
@@ -375,34 +421,61 @@ export default function TCGStore({
     setMounted(true);
   }, []);
 
-  // Load editable store content (hero slides, announcements, settings) —
-  // published from the admin panel. Silent fallback to defaults.
+  // Load the published site content. Falls back to /content.json
+  // (legacy subset) and finally to the compiled defaults.
   useEffect(() => {
     let cancelled = false;
-    fetch(`/content.json?_ts=${Date.now()}`)
+    const applyRates = (settings: ClientSiteContent["settings"]) => {
+      const jpy = parseFloat(settings.currencyJPY);
+      const eur = parseFloat(settings.currencyEUR);
+      const gbp = parseFloat(settings.currencyGBP);
+      ACTIVE_RATES = {
+        USD: 1,
+        JPY: Number.isFinite(jpy) && jpy > 0 ? jpy : CURRENCY_RATES.JPY,
+        EUR: Number.isFinite(eur) && eur > 0 ? eur : CURRENCY_RATES.EUR,
+        GBP: Number.isFinite(gbp) && gbp > 0 ? gbp : CURRENCY_RATES.GBP,
+      };
+    };
+    fetch("/api/site-content")
       .then((res) => (res.ok ? res.json() : null))
       .then((data) => {
-        if (cancelled || !data || typeof data !== "object") return;
-        setStoreContent({
-          heroSlides: Array.isArray(data.heroSlides) ? (data.heroSlides as StoreHeroSlide[]) : [],
-          announcements: Array.isArray(data.announcements) ? (data.announcements as StoreAnnouncement[]) : [],
-          settings: data.settings || null,
-        } as unknown as StoreContent);
+        if (cancelled || !data || typeof data !== "object") throw new Error("no site content");
+        const merged = mergeClientContent(data);
+        setSiteContent(merged);
+        applyRates(merged.settings);
       })
-      .catch(() => {});
+      .catch(() =>
+        fetch(`/content.json?_ts=${Date.now()}`)
+          .then((res) => (res.ok ? res.json() : null))
+          .then((data) => {
+            if (cancelled || !data || typeof data !== "object") return;
+            const merged = mergeClientContent({
+              heroSlides: data.heroSlides,
+              announcements: data.announcements,
+              settings: data.settings,
+            });
+            setSiteContent(merged);
+            applyRates(merged.settings);
+          })
+          .catch(() => {}),
+      );
     return () => {
       cancelled = true;
     };
   }, []);
 
-  // Active hero slides / announcements / whatsapp (content.json first)
+  const settings = siteContent.settings;
+  const freeShippingThreshold = Number(settings.freeShippingThreshold) || 500;
+  const standardShippingFee = Number(settings.standardShippingFee) || 15;
+
+  // Active hero slides / announcements / whatsapp (published content first)
   const heroSlides = React.useMemo(() => {
-    const slides = (storeContent?.heroSlides || [])
+    const slides = (siteContent.heroSlides || [])
       .filter((s) => s.active !== false)
       .sort((a, b) => (a.order || 0) - (b.order || 0))
       .map((s) => ({ image: s.image, title: s.title, subtitle: s.subtitle, accent: s.accent, productId: s.productId ?? null }));
     return slides.length > 0 ? slides : HERO_SLIDES.map((s) => ({ ...s, productId: null }));
-  }, [storeContent]);
+  }, [siteContent]);
 
   // Dynamic category tabs — categories created from the admin panel appear
   // here automatically (inserted before "Other Categories"); categories
@@ -410,14 +483,14 @@ export default function TCGStore({
   const categoryTabs = React.useMemo(() => buildCategoryTabs(products, loading), [products, loading]);
 
   const announcementMessages = React.useMemo(() => {
-    const msgs = (storeContent?.announcements || [])
+    const msgs = (siteContent.announcements || [])
       .filter((a) => a.active !== false)
       .sort((a, b) => (a.order || 0) - (b.order || 0))
       .map((a) => a.message);
     return msgs.length > 0 ? msgs : ANNOUNCEMENT_MESSAGES;
-  }, [storeContent]);
+  }, [siteContent]);
 
-  const whatsappNumber = storeContent?.settings?.whatsappNumber || "+81 80-2935-0455";
+  const whatsappNumber = settings.whatsappNumber || "+81 80-2935-0455";
   const whatsappLink = `https://wa.me/${whatsappNumber.replace(/[^\d]/g, "")}`;
 
   // WhatsApp nudge bubble: appears a few seconds after landing, fades away,
@@ -769,7 +842,7 @@ export default function TCGStore({
 
             {/* SEO h1 — describes the page for search engines and screen readers */}
             <h1 className="sr-only">
-              Akihabara TCG Warehouse — Authentic Japanese & English TCG Cards: Pokemon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam & Disney Lorcana
+              {siteContent.seo.h1}
             </h1>
 
             {/* Desktop Navigation */}
@@ -1060,13 +1133,13 @@ export default function TCGStore({
 
       {/* ─── Main Content ─── */}
       <main className="flex-1">
-        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} selectedSubcategory={selectedSubcategory} setSelectedSubcategory={setSelectedSubcategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} visibleCount={visibleCount} setVisibleCount={setVisibleCount} heroSlides={heroSlides} />}
-        {currentPage === "about" && <AboutPage />}
-        {currentPage === "shipping" && <ShippingPage />}
-        {currentPage === "faq" && <FAQPage />}
-        {currentPage === "contact" && <ContactPage />}
-        {currentPage === "signin" && <SignInPage onSignIn={(user) => { setCurrentUser(user); localStorage.setItem("aki_user", JSON.stringify(user)); navigateTo("shop"); }} />}
-        {currentPage === "checkout" && <CheckoutPage cart={cart} cartTotal={cartTotal} currency={currency} navigateTo={navigateTo} clearCart={clearCart} whatsappLink={whatsappLink} />}
+        {currentPage === "shop" && <ShopPage products={products} loading={loading} selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} selectedSubcategory={selectedSubcategory} setSelectedSubcategory={setSelectedSubcategory} searchQuery={searchQuery} sortOption={sortOption} setSortOption={setSortOption} currency={currency} filteredProducts={filteredProducts} openProductModal={openProductModal} addToCart={addToCart} heroIndex={heroIndex} setHeroIndex={setHeroIndex} scrollToSection={scrollToSection} productsByCategory={productsByCategory} visibleCount={visibleCount} setVisibleCount={setVisibleCount} heroSlides={heroSlides} content={siteContent.home} freeShippingThreshold={freeShippingThreshold} />}
+        {currentPage === "about" && <AboutPage content={siteContent.about} />}
+        {currentPage === "shipping" && <ShippingPage content={siteContent.shipping} freeShippingThreshold={freeShippingThreshold} />}
+        {currentPage === "faq" && <FAQPage content={siteContent.faq} />}
+        {currentPage === "contact" && <ContactPage content={siteContent.contact} storeEmail={settings.storeEmail} />}
+        {currentPage === "signin" && <SignInPage onSignIn={(user) => { setCurrentUser(user); localStorage.setItem("aki_user", JSON.stringify(user)); navigateTo("shop"); }} freeShippingThreshold={freeShippingThreshold} />}
+        {currentPage === "checkout" && <CheckoutPage cart={cart} cartTotal={cartTotal} currency={currency} navigateTo={navigateTo} clearCart={clearCart} whatsappLink={whatsappLink} content={siteContent.checkout} settings={settings} />}
       </main>
 
       {/* ─── Footer ─── */}
@@ -1089,7 +1162,7 @@ export default function TCGStore({
                 </div>
               </div>
               <p className="text-[13px] leading-relaxed text-gray-300 mb-5 max-w-xs">
-                Your trusted source for authentic Japanese & English TCG products — Pokémon, One Piece, Dragon Ball, and more. Every product ships sealed and verified.
+                {siteContent.footer.blurb}
               </p>
 
             </div>
@@ -1097,7 +1170,7 @@ export default function TCGStore({
             {/* Column 2: Quick Links */}
             <div>
               <h4 className="font-bold text-white text-[13px] tracking-wide uppercase mb-5">
-                Navigation
+                {siteContent.footer.navHeading}
               </h4>
               <ul className="space-y-3">
                 {[
@@ -1140,7 +1213,7 @@ export default function TCGStore({
                 conditionally rendered) so they remain crawlable. */}
             <div>
               <h4 className="font-bold text-white text-[13px] tracking-wide uppercase mb-5">
-                Categories
+                {siteContent.footer.categoriesHeading}
               </h4>
               <ul className="space-y-1.5">
                 {[
@@ -1188,28 +1261,28 @@ export default function TCGStore({
             {/* Column 4: Contact */}
             <div>
               <h4 className="font-bold text-white text-[13px] tracking-wide uppercase mb-5">
-                Get in Touch
+                {siteContent.footer.contactHeading}
               </h4>
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
                   <Mail className="size-4 text-violet-300 mt-0.5 shrink-0" />
                   <div>
-                    <p className="text-[13px] text-gray-200">support@akihabaratcgwarehouse.com</p>
-                    <p className="text-[11px] text-gray-300 mt-0.5">We reply within 24 hours</p>
+                    <p className="text-[13px] text-gray-200">{settings.storeEmail}</p>
+                    <p className="text-[11px] text-gray-300 mt-0.5">{siteContent.footer.emailSub}</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <Clock className="size-4 text-violet-300 mt-0.5 shrink-0" />
                   <div>
-                    <p className="text-[13px] text-gray-200">Mon — Sat: 9AM — 6PM JST</p>
-                    <p className="text-[11px] text-gray-300 mt-0.5">Sunday: Closed</p>
+                    <p className="text-[13px] text-gray-200">{siteContent.footer.hours}</p>
+                    <p className="text-[11px] text-gray-300 mt-0.5">{siteContent.footer.hoursSub}</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <MapPin className="size-4 text-violet-300 mt-0.5 shrink-0" />
                   <div>
-                    <p className="text-[13px] text-gray-200">Akihabara, Tokyo</p>
-                    <p className="text-[11px] text-gray-300 mt-0.5">Japan</p>
+                    <p className="text-[13px] text-gray-200">{siteContent.footer.location}</p>
+                    <p className="text-[11px] text-gray-300 mt-0.5">{siteContent.footer.locationSub}</p>
                   </div>
                 </div>
               </div>
@@ -1219,21 +1292,18 @@ export default function TCGStore({
           <div className="border-t border-white/10 mt-10 pt-6">
             <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
               <p className="text-[11px] text-gray-300">
-                &copy; {new Date().getFullYear()} Akihabara TCG Warehouse. All rights reserved.
+                &copy; {new Date().getFullYear()} {siteContent.footer.copyrightText}
               </p>
               <div className="flex items-center gap-4">
-                <div className="flex items-center gap-2 text-[11px] text-gray-300">
-                  <Shield className="size-3.5" />
-                  <span>Secure Checkout</span>
-                </div>
-                <div className="flex items-center gap-2 text-[11px] text-gray-300">
-                  <CreditCard className="size-3.5" />
-                  <span>SSL Encrypted</span>
-                </div>
-                <div className="flex items-center gap-2 text-[11px] text-gray-300">
-                  <RotateCcw className="size-3.5" />
-                  <span>30-Day Returns</span>
-                </div>
+                {siteContent.footer.badges.map((badge, i) => {
+                  const BadgeIcon = [Shield, CreditCard, RotateCcw][i % 3];
+                  return (
+                    <div key={badge} className="flex items-center gap-2 text-[11px] text-gray-300">
+                      <BadgeIcon className="size-3.5" />
+                      <span>{badge}</span>
+                    </div>
+                  );
+                })}
               </div>
             </div>
           </div>
@@ -1276,7 +1346,7 @@ export default function TCGStore({
               className="absolute bottom-full left-0 mb-3 whitespace-nowrap rounded-2xl rounded-bl-sm bg-white px-3.5 py-2 shadow-[0_6px_24px_rgba(0,0,0,0.18)]"
             >
               <span className="text-[12.5px] font-bold text-purple-950">
-                Questions? We reply fast on WhatsApp
+                {siteContent.contact.chatBubble}
               </span>
             </motion.div>
           )}
@@ -1308,11 +1378,11 @@ export default function TCGStore({
           </span>
           <span className="flex flex-col leading-none">
             <span className="text-[14px] sm:text-[15px] font-extrabold tracking-wide text-white drop-shadow-sm">
-              Chat with us
+              {siteContent.contact.chatTitle}
             </span>
             <span className="mt-1 flex items-center gap-1.5 text-[10px] font-semibold text-white/90">
               <span className="wa-dot inline-block size-1.5 rounded-full bg-emerald-100" />
-              Online now
+              {siteContent.contact.chatStatus}
             </span>
           </span>
         </motion.a>
@@ -1377,12 +1447,12 @@ export default function TCGStore({
                   <span className="text-[13px] text-gray-500">Subtotal</span>
                   <span className="text-lg font-bold text-purple-900">{formatPrice(cartTotal, currency)}</span>
                 </div>
-                {cartTotal < 500 && (
+                {cartTotal < freeShippingThreshold && (
                   <p className="text-[11px] text-gray-400 text-center">
-                    Add {formatPrice(500 - cartTotal, currency)} more for free shipping
+                    Add {formatPrice(freeShippingThreshold - cartTotal, currency)} more for free shipping
                   </p>
                 )}
-                {cartTotal >= 500 && (
+                {cartTotal >= freeShippingThreshold && (
                   <p className="text-[11px] text-green-600 text-center font-medium">
                     You qualify for free shipping!
                   </p>
@@ -1415,17 +1485,19 @@ export default function TCGStore({
 
 /* ─────────── Shop Page ─────────── */
 
-function ShopPage({ products, loading, selectedCategory, setSelectedCategory, selectedSubcategory, setSelectedSubcategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory, visibleCount, setVisibleCount, heroSlides }: {
+function ShopPage({ products, loading, selectedCategory, setSelectedCategory, selectedSubcategory, setSelectedSubcategory, searchQuery, sortOption, setSortOption, currency, filteredProducts, openProductModal, addToCart, heroIndex, setHeroIndex, scrollToSection, productsByCategory, visibleCount, setVisibleCount, heroSlides, content, freeShippingThreshold }: {
   products: Product[]; loading: boolean; selectedCategory: string; setSelectedCategory: (v: string) => void;
   selectedSubcategory: string; setSelectedSubcategory: (v: string) => void;
   searchQuery: string; sortOption: SortOption; setSortOption: (v: SortOption) => void;
   currency: CurrencyCode; filteredProducts: Product[];
   openProductModal: (p: Product) => void; addToCart: (p: Product) => void;
-  heroIndex: number; setHeroIndex: (v: number) => void;
+  heroIndex: number; setHeroIndex: (v: number | ((prev: number) => number)) => void;
   scrollToSection: (id: string) => void;
   productsByCategory: Record<string, Product[]>;
-  visibleCount: number; setVisibleCount: (v: number) => void;
+  visibleCount: number; setVisibleCount: (v: number | ((prev: number) => number)) => void;
   heroSlides: { image: string; title: string; subtitle: string; accent: string; productId?: string | null }[];
+  content: ClientSiteContent["home"];
+  freeShippingThreshold: number;
 }) {
   // Determine if we show the homepage category showcase or the full product grid
   const isHomepageView = selectedCategory === "all" && !searchQuery.trim();
@@ -1517,19 +1589,19 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       <section className="bg-white/70 backdrop-blur-sm py-10 border-b border-purple-100/30 relative">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-6">
-            <p className="text-[13px] font-bold text-gray-800 tracking-[0.2em] uppercase mb-2">Direct from Japan</p>
+            <p className="text-[13px] font-bold text-gray-800 tracking-[0.2em] uppercase mb-2">{content.warehouseEyebrow}</p>
             <h2 className="text-xl sm:text-2xl font-bold font-[family-name:var(--font-montserrat)] text-gray-900">
-              Our Warehouse
+              {content.warehouseTitle}
             </h2>
           </div>
         </div>
         <div className="overflow-hidden relative">
           <div className="flex gap-6 py-2 warehouse-track">
-            {[1, 2, 1, 2, 1, 2].map((num, i) => (
+            {content.warehouseTrackImages.map((src, i) => (
               <div key={i} className="shrink-0 w-[300px] sm:w-[400px] lg:w-[500px] rounded-xl overflow-hidden shadow-sm border border-gray-100">
                 <img
-                  src={`/images/warehouse-${num}.webp`}
-                  alt={`Akihabara TCG Warehouse - Shipment ${num}`}
+                  src={src}
+                  alt={`Akihabara TCG Warehouse - Shipment ${src.match(/(\d+)\.webp/)?.[1] ?? i + 1}`}
                   className="w-full h-[250px] sm:h-[280px] lg:h-[300px] object-cover block"
                   loading="eager"
                   decoding="async"
@@ -1540,8 +1612,8 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
             <div className="rounded-xl overflow-hidden shadow-sm border border-gray-100">
               <img
-                src="/images/warehouse-3.webp"
-                alt="Akihabara TCG Warehouse - Inside View"
+                src={content.warehouseWideImage}
+                alt={content.warehouseWideAlt}
                 className="w-full h-[200px] sm:h-[260px] lg:h-[320px] object-cover block"
                 loading="eager"
                 decoding="async"
@@ -1555,22 +1627,21 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       <section className="bg-white/60 backdrop-blur-sm border-b border-purple-100/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {[
-              { icon: Shield, label: "100% Authentic", desc: "Verified products", color: "text-emerald-600 bg-emerald-50" },
-              { icon: Truck, label: "Free Shipping", desc: "Orders over $500", color: "text-blue-600 bg-blue-50" },
-              { icon: Globe, label: "Worldwide", desc: "Secure delivery", color: "text-amber-600 bg-amber-50" },
-              { icon: Package, label: "Direct from Japan", desc: "Trusted suppliers", color: "text-rose-600 bg-rose-50" },
-            ].map((badge) => (
-              <div key={badge.label} className="flex items-center gap-3 justify-center py-2">
-                <div className={`w-10 h-10 rounded-lg flex items-center justify-center shrink-0 ${badge.color}`}>
-                  <badge.icon className="size-5" />
+            {content.trustBadges.map((badge, i) => {
+              const BadgeIcon = CONTENT_ICONS[badge.icon] ?? Package;
+              const color = ["text-emerald-600 bg-emerald-50", "text-blue-600 bg-blue-50", "text-amber-600 bg-amber-50", "text-rose-600 bg-rose-50"][i % 4];
+              return (
+                <div key={badge.title} className="flex items-center gap-3 justify-center py-2">
+                  <div className={`w-10 h-10 rounded-lg flex items-center justify-center shrink-0 ${color}`}>
+                    <BadgeIcon className="size-5" />
+                  </div>
+                  <div>
+                    <p className="text-[14px] font-semibold text-gray-900">{badge.title}</p>
+                    <p className="text-[13px] text-gray-500">{fillThreshold(badge.desc, freeShippingThreshold)}</p>
+                  </div>
                 </div>
-                <div>
-                  <p className="text-[14px] font-semibold text-gray-900">{badge.label}</p>
-                  <p className="text-[13px] text-gray-500">{badge.desc}</p>
-                </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>
@@ -1580,9 +1651,9 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
         <div className="space-y-10">
           {isHomepageView && (
             <div className="text-center">
-              <p className="text-[13px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-2">Featured Selection</p>
-              <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-white">Our Collection</h2>
-              <p className="text-[14px] text-gray-300 mt-1">Hand-picked highlights from each category</p>
+              <p className="text-[13px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-2">{content.collectionEyebrow}</p>
+              <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-white">{content.collectionTitle}</h2>
+              <p className="text-[14px] text-gray-300 mt-1">{content.collectionSub}</p>
             </div>
           )}
 
@@ -1775,45 +1846,36 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center mb-12">
             <p className="text-[11px] font-bold text-gray-300 tracking-[0.2em] uppercase mb-4">
-              Trusted Worldwide
+              {content.whyEyebrow}
             </p>
             <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] mb-4">
-              Why Choose Akihabara TCG Warehouse
+              {content.whyTitle}
             </h2>
             <p className="text-gray-300 max-w-2xl mx-auto text-[14px] leading-relaxed">
-              Your premier source for authentic Japanese & English TCG products — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam, Disney Lorcana, and more. Whether you're a seasoned collector, a competitive player, or running a card business, we've got you covered.
+              {content.whyIntro}
             </p>
           </div>
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-            {[
-              { icon: Shield, title: "Guaranteed Authenticity", desc: "Every item we sell is verified through trusted third-party channels. No counterfeits, ever." },
-              { icon: Globe, title: "Direct from Japan", desc: "We work closely with Japanese suppliers to bring you exclusive releases and rare cards." },
-              { icon: Package, title: "Wholesale & Individual", desc: "Whether you're buying one box or a pallet, we've got you covered at unbeatable prices." },
-              { icon: Truck, title: "Careful, Fast Delivery", desc: "Secure packaging and prompt worldwide shipping ensure your order arrives safely." },
-              { icon: Heart, title: "Reliable Support", desc: "Need assistance? Our support team is available 24/7 to guide and assist you." },
-              { icon: Star, title: "Our Guarantee", desc: "We strictly avoid counterfeits and resealed packs — your trust is our top priority." },
-            ].map((item) => (
-              <div key={item.title} className="bg-white/5 border border-white/10 rounded-xl p-6 hover:bg-white/8 transition-colors duration-300">
-                <div className="w-11 h-11 rounded-lg bg-white/10 flex items-center justify-center mb-4">
-                  <item.icon className="size-5 text-white" />
+            {content.features.map((item) => {
+              const FeatureIcon = CONTENT_ICONS[item.icon] ?? Package;
+              return (
+                <div key={item.title} className="bg-white/5 border border-white/10 rounded-xl p-6 hover:bg-white/8 transition-colors duration-300">
+                  <div className="w-11 h-11 rounded-lg bg-white/10 flex items-center justify-center mb-4">
+                    <FeatureIcon className="size-5 text-white" />
+                  </div>
+                  <h3 className="font-semibold text-[15px] mb-2">{item.title}</h3>
+                  <p className="text-gray-300 text-[13px] leading-relaxed">{item.desc}</p>
                 </div>
-                <h3 className="font-semibold text-[15px] mb-2">{item.title}</h3>
-                <p className="text-gray-300 text-[13px] leading-relaxed">{item.desc}</p>
-              </div>
-            ))}
+              );
+            })}
           </div>
           <div className="mt-12 bg-white/5 rounded-xl p-8 border border-white/10">
             <h3 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] mb-6 text-center">
-              Our Collection Includes
+              {content.includesTitle}
             </h3>
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
-              {[
-                { title: "Booster Boxes & Packs", desc: "Newly released sets and collector favorites" },
-                { title: "Decks & Special Sets", desc: "Ready-to-play and collector editions" },
-                { title: "Singles & Graded Cards", desc: "Vintage holos to PSA-graded rarities" },
-                { title: "Bulk & Wholesale", desc: "Perfect for retailers and resellers" },
-              ].map((item) => (
+              {content.includes.map((item) => (
                 <div key={item.title} className="text-center p-4">
                   <h4 className="font-semibold text-white text-[14px] mb-1">{item.title}</h4>
                   <p className="text-[12px] text-gray-300">{item.desc}</p>
@@ -1828,59 +1890,13 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
       <section className="py-16 bg-violet-50/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">Testimonials</p>
+            <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">{content.reviewsEyebrow}</p>
             <h2 className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
-              What Our Clients Say
+              {content.reviewsTitle}
             </h2>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {[
-              {
-                name: "Kingsley Chandler",
-                quote: "I've been collecting Pokémon cards for years, and these are some of the best! The quality is fantastic, and the rare cards are definitely worth it. My collection has never looked better!",
-                rating: 5,
-              },
-              {
-                name: "Orson Lancaster",
-                quote: "I love how these cards not only look great but are also perfect for battling. Whether you're a competitive player or just a fan, these cards are a must-have!",
-                rating: 5,
-              },
-              {
-                name: "Harleigh Dodson",
-                quote: "I ordered these cards and was amazed at how quickly they arrived. The cards were in perfect condition, and I can't wait to add them to my deck!",
-                rating: 5,
-              },
-              {
-                name: "Lucas RH",
-                quote: "I've been collecting Pokémon cards for over a decade, and these are some of the most beautiful and rare cards I've come across. Truly a treasure for any serious collector!",
-                rating: 5,
-              },
-              {
-                name: "Simons L.",
-                quote: "The quality of these cards is top-notch! They arrived in perfect condition and the holographic designs are just stunning. Definitely worth the investment!",
-                rating: 5,
-              },
-              {
-                name: "Benette SH.",
-                quote: "I ordered these cards for a special event, and they arrived on time and in perfect condition. Great service and an awesome product.",
-                rating: 5,
-              },
-              {
-                name: "Annah Jip",
-                quote: "I was blown away by the value of these cards. Not only do you get rare and powerful Pokémon, but the price was more than fair. Highly recommend!",
-                rating: 5,
-              },
-              {
-                name: "Tilamans",
-                quote: "These cards really helped me improve my strategy and power up my deck. Whether you're a seasoned player or just starting out, these cards are a fantastic choice!",
-                rating: 5,
-              },
-              {
-                name: "Megan P.",
-                quote: "Amazing card quality! The quality of these cards is top-notch! They arrived in perfect condition and the holographic designs are just stunning. Definitely worth the investment!",
-                rating: 5,
-              },
-            ].map((review, i) => (
+            {content.reviews.map((review, i) => (
               <div key={i} className="bg-white/90 backdrop-blur-sm rounded-xl p-6 shadow-sm border border-purple-100/30">
                 <div className="flex items-center gap-0.5 mb-3">
                   {Array.from({ length: review.rating }).map((_, j) => (
@@ -1910,18 +1926,18 @@ function ShopPage({ products, loading, selectedCategory, setSelectedCategory, se
 
 /* ─────────── About Page ─────────── */
 
-function AboutPage() {
+function AboutPage({ content }: { content: ClientSiteContent["about"] }) {
   return (
     <div>
       {/* Hero */}
       <section className="bg-purple-950 py-16 sm:py-24">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">About Us</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">{content.eyebrow}</p>
           <h1 className="text-3xl sm:text-5xl font-extrabold font-[family-name:var(--font-montserrat)] text-white leading-tight mb-6">
-            Trusted Worldwide for Japanese Pokémon TCG and Others
+            {content.title}
           </h1>
           <p className="text-[15px] text-gray-200 max-w-2xl mx-auto leading-relaxed">
-            Welcome to Akihabara TCG Warehouse, your premier source for authentic Japanese & English TCG products. From Pokémon and One Piece to Dragon Ball, Weiss Schwarz, Union Arena, Gundam, and Disney Lorcana — whether you're a seasoned collector, a competitive player, or running a card business, we offer genuine items at unbeatable prices.
+            {content.intro}
           </p>
         </div>
       </section>
@@ -1931,39 +1947,35 @@ function AboutPage() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-3">Our Purpose</p>
+              <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-3">{content.purposeEyebrow}</p>
               <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-white mb-4">
-                Connecting fans with the cards they love
+                {content.purposeTitle}
               </h2>
-              <p className="text-[14px] text-gray-300 leading-relaxed mb-4">
-                We're here to connect fans around the globe with the most exciting and hard-to-find Japanese Pokémon cards. Our focus is to make every order secure, every card legitimate, and every customer experience smooth and satisfying.
-              </p>
-              <p className="text-[14px] text-gray-300 leading-relaxed">
-                Based in the heart of Akihabara, Tokyo's legendary electronics and hobby district, we have direct access to the newest releases, rarest finds, and best prices. We pass those savings on to you.
-              </p>
+              {content.purposeParagraphs.map((para, i) => (
+                <p key={i} className={`text-[14px] text-gray-300 leading-relaxed${i < content.purposeParagraphs.length - 1 ? " mb-4" : ""}`}>
+                  {para}
+                </p>
+              ))}
             </div>
             <div className="bg-white/5 rounded-2xl p-8 border border-white/10">
               <h3 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-white mb-6">
-                Why Thousands Trust Us
+                {content.trustTitle}
               </h3>
               <div className="space-y-4">
-                {[
-                  { icon: Shield, title: "Guaranteed Authenticity", desc: "Every item verified through trusted third-party channels" },
-                  { icon: Globe, title: "Direct from Japan", desc: "Exclusive releases and rare cards from Japanese suppliers" },
-                  { icon: Package, title: "Wholesale & Individual Sales", desc: "One box or a pallet — we've got you covered" },
-                  { icon: Truck, title: "Careful, Fast Delivery", desc: "Secure packaging and prompt worldwide shipping" },
-                  { icon: Heart, title: "Reliable Support", desc: "Our team is available 24/7 to assist you" },
-                ].map((item) => (
-                  <div key={item.title} className="flex items-start gap-3">
-                    <div className="w-9 h-9 rounded-lg bg-violet-400/20 flex items-center justify-center shrink-0 mt-0.5">
-                      <item.icon className="size-4 text-violet-200" />
+                {content.trustItems.map((item) => {
+                  const ItemIcon = CONTENT_ICONS[item.icon] ?? Package;
+                  return (
+                    <div key={item.title} className="flex items-start gap-3">
+                      <div className="w-9 h-9 rounded-lg bg-violet-400/20 flex items-center justify-center shrink-0 mt-0.5">
+                        <ItemIcon className="size-4 text-violet-200" />
+                      </div>
+                      <div>
+                        <p className="text-[13px] font-semibold text-white">{item.title}</p>
+                        <p className="text-[12px] text-gray-300">{item.desc}</p>
+                      </div>
                     </div>
-                    <div>
-                      <p className="text-[13px] font-semibold text-white">{item.title}</p>
-                      <p className="text-[12px] text-gray-300">{item.desc}</p>
-                    </div>
-                  </div>
-                ))}
+                  );
+                })}
               </div>
             </div>
           </div>
@@ -1974,61 +1986,24 @@ function AboutPage() {
       <section className="py-16 bg-violet-50">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">What We Carry</p>
+            <p className="text-[11px] font-bold text-violet-400 tracking-[0.2em] uppercase mb-3">{content.carryEyebrow}</p>
             <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900">
-              Our Collection Includes
+              {content.carryTitle}
             </h2>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {[
-              { icon: Package, title: "Booster Boxes & Packs", desc: "Newly released sets and collector favorites from every era." },
-              { icon: Star, title: "Decks & Special Sets", desc: "Ready-to-play options and collector editions for every level." },
-              { icon: Shield, title: "Singles & Graded Cards", desc: "From vintage holos to top-tier promos and PSA-graded rarities." },
-              { icon: Globe, title: "Bulk Orders & Wholesale", desc: "Perfect for retailers and high-volume resellers." },
-            ].map((item) => (
-              <div key={item.title} className="bg-white rounded-xl p-6 text-center shadow-sm border border-gray-100">
-                <div className="w-12 h-12 rounded-full bg-purple-900/5 flex items-center justify-center mx-auto mb-4">
-                  <item.icon className="size-5 text-purple-900" />
+            {content.carryItems.map((item) => {
+              const ItemIcon = CONTENT_ICONS[item.icon] ?? Package;
+              return (
+                <div key={item.title} className="bg-white rounded-xl p-6 text-center shadow-sm border border-gray-100">
+                  <div className="w-12 h-12 rounded-full bg-purple-900/5 flex items-center justify-center mx-auto mb-4">
+                    <ItemIcon className="size-5 text-purple-900" />
+                  </div>
+                  <h3 className="font-semibold text-[14px] text-purple-900 mb-2">{item.title}</h3>
+                  <p className="text-[12px] text-gray-500 leading-relaxed">{item.desc}</p>
                 </div>
-                <h3 className="font-semibold text-[14px] text-purple-900 mb-2">{item.title}</h3>
-                <p className="text-[12px] text-gray-500 leading-relaxed">{item.desc}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Our Business Certificate */}
-      <section className="py-16 bg-purple-950">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <p className="text-[13px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-3">Verified & Registered</p>
-            <h2 className="text-2xl sm:text-3xl font-extrabold font-[family-name:var(--font-montserrat)] text-white">
-              OUR BUSINESS CERTIFICATE
-            </h2>
-            <p className="text-[14px] text-gray-300 mt-3 max-w-xl mx-auto">
-              We are a legally registered business in Japan. Our certificates verify our authenticity and commitment to transparent operations.
-            </p>
-          </div>
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 max-w-5xl mx-auto">
-            {[
-              { src: "/images/about/20260623_112319.webp", alt: "Business Certificate - Storefront" },
-              { src: "/images/about/20260623_112136.webp", alt: "Business Certificate - Products Display" },
-              { src: "/images/about/20260623_112404.webp", alt: "Business Certificate - Card Collection" },
-              { src: "/images/about/20260623_112428.webp", alt: "Business Certificate - Shipping Area" },
-              { src: "/images/about/20260623_112502.webp", alt: "Business Certificate - Warehouse View" },
-              { src: "/images/about/certificate-extra.webp", alt: "Business Certificate - Registration Document" },
-              { src: "/images/about/certificate-1.webp", alt: "Business Certificate - Page 1" },
-            ].map((photo, i) => (
-              <div key={i} className="bg-white rounded-2xl p-3 shadow-xl border border-violet-500/20 hover:shadow-2xl transition-shadow">
-                <img
-                  src={photo.src}
-                  alt={photo.alt}
-                  className="w-full rounded-lg object-cover"
-                  loading="lazy"
-                />
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>
@@ -2040,14 +2015,13 @@ function AboutPage() {
             <Shield className="size-7 text-violet-400" />
           </div>
           <h2 className="text-2xl font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-4">
-            Our Guarantee to You
+            {content.guaranteeTitle}
           </h2>
-          <p className="text-[14px] text-gray-600 leading-relaxed mb-4">
-            At Akihabara TCG Warehouse, we stand by the integrity of every product across all our lines — Pokémon, One Piece, Dragon Ball, Weiss Schwarz, Union Arena, Gundam, and more. We strictly avoid counterfeits and resealed packs — your satisfaction and trust are our top priorities.
-          </p>
-          <p className="text-[14px] text-gray-600 leading-relaxed">
-            Join the growing number of international customers who rely on us for safe, affordable access to authentic Japanese TCG products. Begin your journey or expand your inventory today.
-          </p>
+          {content.guaranteeParagraphs.map((para, i) => (
+            <p key={i} className={`text-[14px] text-gray-600 leading-relaxed${i < content.guaranteeParagraphs.length - 1 ? " mb-4" : ""}`}>
+              {para}
+            </p>
+          ))}
         </div>
       </section>
     </div>
@@ -2056,55 +2030,30 @@ function AboutPage() {
 
 /* ─────────── Shipping Page ─────────── */
 
-function ShippingPage() {
+function ShippingPage({ content, freeShippingThreshold }: { content: ClientSiteContent["shipping"]; freeShippingThreshold: number }) {
   return (
     <div>
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">Shipping Policy</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">{content.eyebrow}</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
-            Shipping & Delivery
+            {content.title}
           </h1>
           <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
-            We ship worldwide from Tokyo, Japan. Here's everything you need to know about how your order gets to you.
+            {content.intro}
           </p>
         </div>
       </section>
 
       <section className="bg-white py-16">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-10">
-          {[
-            {
-              title: "Free Shipping Threshold",
-              content: "Orders over $500 qualify for free standard international shipping. This is automatically applied at checkout — no coupon needed.",
-            },
-            {
-              title: "Shipping Methods & Times",
-              content: "We offer two primary shipping methods:\n\n• Standard International (10–21 business days) — Free on orders over $500, otherwise calculated at checkout.\n• Express International (5–10 business days) — Available at an additional cost. Select at checkout.\n\nPlease note: delivery times are estimates and may vary depending on your country's customs processing.",
-            },
-            {
-              title: "Where We Ship",
-              content: "We currently ship to over 50 countries including the United States, Canada, the United Kingdom, the European Union, Australia, and most of Southeast Asia. If your country isn't listed at checkout, reach out to us and we'll try to accommodate you.",
-            },
-            {
-              title: "Packaging",
-              content: "All orders are carefully packed in sturdy, protective packaging to prevent damage during transit. Booster boxes and sealed cases are wrapped in bubble padding and placed in reinforced cardboard boxes. Singles are shipped in toploaders or card savers.",
-            },
-            {
-              title: "Tracking",
-              content: "Once your order ships, you'll receive a tracking number via email. You can use this to follow your package from our warehouse in Tokyo all the way to your door.",
-            },
-            {
-              title: "Customs & Import Duties",
-              content: "International shipments may be subject to customs duties and import taxes levied by your country. These charges are the responsibility of the buyer and are not included in our product prices or shipping costs. We declare the actual value of goods on all shipments.",
-            },
-          ].map((section) => (
+          {content.sections.map((section) => (
             <div key={section.title}>
               <h2 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-3">
                 {section.title}
               </h2>
               <div className="text-[14px] text-gray-600 leading-relaxed whitespace-pre-line">
-                {section.content}
+                {fillThreshold(section.content, freeShippingThreshold)}
               </div>
             </div>
           ))}
@@ -2116,62 +2065,21 @@ function ShippingPage() {
 
 /* ─────────── FAQ Page ─────────── */
 
-function FAQPage() {
+function FAQPage({ content }: { content: ClientSiteContent["faq"] }) {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
-  const faqs = [
-    {
-      q: "Are your products authentic?",
-      a: "Yes, 100%. Every product we sell is sourced directly from authorized Japanese distributors and verified through trusted third-party channels. We do not sell counterfeits or resealed products — ever.",
-    },
-    {
-      q: "Do you sell individual cards or singles?",
-      a: "Yes, we carry a selection of singles and graded cards. Our primary focus is sealed products (booster boxes, elite trainer boxes, sealed cases), but we do offer high-demand singles and PSA-graded cards.",
-    },
-    {
-      q: "What payment methods do you accept?",
-      a: "We accept Wise, Zelle, Chime, Cash App, Apple Pay, Google Pay, bank transfers, all major credit cards (Visa, Mastercard, American Express), and cryptocurrency. We confirm the payment details with you directly when your order is placed.",
-    },
-    {
-      q: "How long does shipping take?",
-      a: "Standard international shipping takes 10–21 business days. Express shipping takes 5–10 business days. Delivery times may vary depending on your country's customs processing.",
-    },
-    {
-      q: "Do you offer wholesale pricing?",
-      a: "Yes! We offer competitive wholesale pricing on bulk orders and sealed cases. Contact us at support@akihabaratcgwarehouse.com with details about what you need and we'll send you a custom quote.",
-    },
-    {
-      q: "What if my order arrives damaged?",
-      a: "We take great care in packaging, but if your order arrives damaged, contact us within 48 hours with photos and we'll arrange a replacement or full refund.",
-    },
-    {
-      q: "Can I return or exchange a product?",
-      a: "We accept returns within 30 days of delivery for sealed, unopened products in their original condition. Opened products are not eligible for return. See our full return policy for details.",
-    },
-    {
-      q: "How are your prices so much lower than other shops?",
-      a: "We source directly from Japanese distributors and operate with lower overhead than most Western retailers. We pass those savings on to our customers. Our products are the exact same authentic items you'd find elsewhere — just at better prices.",
-    },
-    {
-      q: "Do you restock sold-out items?",
-      a: "We restock popular items regularly, but some limited-edition products may not be restocked once they sell out. Sign up for our newsletter or follow us on social media to get restock alerts.",
-    },
-    {
-      q: "Is it safe to order from overseas?",
-      a: "Absolutely. We use SSL encryption on our website, process payments through secure gateways, and ship with full tracking. We've successfully delivered thousands of orders to customers in over 50 countries.",
-    },
-  ];
+  const faqs = content.items;
 
   return (
     <div>
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">FAQ</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">{content.eyebrow}</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
-            Frequently Asked Questions
+            {content.title}
           </h1>
           <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
-            Got questions? We've got answers. If you don't see what you're looking for, feel free to reach out to us directly.
+            {content.intro}
           </p>
         </div>
       </section>
@@ -2216,17 +2124,17 @@ function FAQPage() {
 
 /* ─────────── Contact Page ─────────── */
 
-function ContactPage() {
+function ContactPage({ content, storeEmail }: { content: ClientSiteContent["contact"]; storeEmail: string }) {
   return (
     <div>
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">Contact Us</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">{content.eyebrow}</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
-            Get in Touch
+            {content.title}
           </h1>
           <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
-            Have a question, special request, or need help with an order? We're here for you.
+            {content.intro}
           </p>
         </div>
       </section>
@@ -2234,26 +2142,25 @@ function ContactPage() {
       <section className="bg-white py-16">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-3 gap-8 mb-12">
-            {[
-              { icon: Mail, title: "Email", detail: "support@akihabaratcgwarehouse.com", sub: "We reply within 24 hours" },
-              { icon: Clock, title: "Business Hours", detail: "Mon — Sat: 9AM — 6PM JST", sub: "Sunday: Closed" },
-              { icon: MapPin, title: "Location", detail: "Akihabara, Tokyo", sub: "Japan" },
-            ].map((item) => (
-              <div key={item.title} className="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
-                <div className="w-12 h-12 rounded-full bg-purple-900/5 flex items-center justify-center mx-auto mb-4">
-                  <item.icon className="size-5 text-purple-900" />
+            {content.cards.map((item) => {
+              const ItemIcon = CONTENT_ICONS[item.icon] ?? Mail;
+              return (
+                <div key={item.title} className="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
+                  <div className="w-12 h-12 rounded-full bg-purple-900/5 flex items-center justify-center mx-auto mb-4">
+                    <ItemIcon className="size-5 text-purple-900" />
+                  </div>
+                  <h3 className="font-semibold text-[14px] text-purple-900 mb-1">{item.title}</h3>
+                  <p className="text-[13px] text-gray-700">{item.icon === "Mail" ? storeEmail : item.detail}</p>
+                  <p className="text-[12px] text-gray-400 mt-0.5">{item.sub}</p>
                 </div>
-                <h3 className="font-semibold text-[14px] text-purple-900 mb-1">{item.title}</h3>
-                <p className="text-[13px] text-gray-700">{item.detail}</p>
-                <p className="text-[12px] text-gray-400 mt-0.5">{item.sub}</p>
-              </div>
-            ))}
+              );
+            })}
           </div>
 
           {/* Contact Form */}
           <div className="bg-white rounded-xl p-8 shadow-sm border border-gray-100 max-w-2xl mx-auto">
             <h2 className="text-[18px] font-bold font-[family-name:var(--font-montserrat)] text-purple-900 mb-6">
-              Send Us a Message
+              {content.formTitle}
             </h2>
             <div className="space-y-4">
               <div className="grid sm:grid-cols-2 gap-4">
@@ -2291,7 +2198,7 @@ function ContactPage() {
 
 /* ─────────── Sign In / Sign Up Page ─────────── */
 
-function SignInPage({ onSignIn }: { onSignIn: (user: { id: string; email: string; name: string }) => void }) {
+function SignInPage({ onSignIn, freeShippingThreshold }: { onSignIn: (user: { id: string; email: string; name: string }) => void; freeShippingThreshold: number }) {
   const [isSignUp, setIsSignUp] = useState(false);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -2329,7 +2236,7 @@ function SignInPage({ onSignIn }: { onSignIn: (user: { id: string; email: string
       }
 
       // Auto sign-in after signup (user is the user object)
-      onSignIn({ id: user.id, email: user.email, name: user.name || name });
+      onSignIn({ id: user.id ?? "", email: user.email ?? "", name: user.name || name });
       setSuccess("Account created successfully! Welcome aboard.");
     } catch (err) {
       setError(err instanceof Error && err.message ? err.message : "Network error. Please try again.");
@@ -2360,7 +2267,7 @@ function SignInPage({ onSignIn }: { onSignIn: (user: { id: string; email: string
       }
 
       // user is the user object
-      onSignIn({ id: user.id, email: user.email, name: user.name || "" });
+      onSignIn({ id: user.id ?? "", email: user.email ?? "", name: user.name || "" });
       setSuccess("Welcome back!");
     } catch (err) {
       setError(err instanceof Error && err.message ? err.message : "Network error. Please try again.");
@@ -2457,7 +2364,7 @@ function SignInPage({ onSignIn }: { onSignIn: (user: { id: string; email: string
           <div className="mt-8 space-y-3">
             {[
               { icon: Shield, text: "Secure checkout with SSL encryption" },
-              { icon: Truck, text: "Free shipping on orders over $500" },
+              { icon: Truck, text: `Free shipping on orders over $${freeShippingThreshold}` },
               { icon: Package, text: "Track your orders and manage returns" },
             ].map((item) => (
               <div key={item.text} className="flex items-center gap-3 text-[13px] text-gray-500">
@@ -2691,13 +2598,15 @@ function ProductDetailModal({
 
 /* ─────────── Checkout Page ─────────── */
 
-function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsappLink }: {
+function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsappLink, content, settings }: {
   cart: CartItem[];
   cartTotal: number;
   currency: CurrencyCode;
   navigateTo: (page: PageView) => void;
   clearCart: () => void;
   whatsappLink: string;
+  content: ClientSiteContent["checkout"];
+  settings: ClientSiteContent["settings"];
 }) {
   const [customerName, setCustomerName] = useState("");
   const [customerEmail, setCustomerEmail] = useState("");
@@ -2723,11 +2632,14 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
   // so the confirmation screen can still offer email / clipboard fallbacks.
   const [placedOrderText, setPlacedOrderText] = useState("");
 
-  const shippingCost = cartTotal >= 500 ? 0 : 15;
+  const freeShippingThreshold = Number(settings.freeShippingThreshold) || 500;
+  const standardShippingFee = Number(settings.standardShippingFee) || 15;
+  const shippingCost = cartTotal >= freeShippingThreshold ? 0 : standardShippingFee;
   const grandTotal = cartTotal + shippingCost;
 
   /* Pre-filled WhatsApp order message: everything the shop needs to confirm
-     and ship the order, so the customer only has to press Send. */
+     and ship the order, so the customer only has to press Send. The message
+     body is the admin-editable template in the checkout content key. */
   const COUNTRY_LABELS: Record<string, string> = {
     US: "United States", CA: "Canada", GB: "United Kingdom", DE: "Germany",
     FR: "France", ES: "Spain", IT: "Italy", AU: "Australia", JP: "Japan",
@@ -2735,38 +2647,33 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
     NL: "Netherlands", SE: "Sweden", CH: "Switzerland", PH: "Philippines",
     MY: "Malaysia", OTHER: "Other",
   };
-  const PAYMENT_LABELS: Record<string, string> = {
-    wise: "Wise",
-    zelle_chime_cashapp: "Zelle, Chime or Cash App",
-    apple_google_pay: "Apple Pay or Google Pay",
-    bank_transfer: "Bank Transfer",
-    credit_card: "Credit / Debit Card",
-    crypto: "Cryptocurrency",
-  };
-  const buildWhatsAppOrderMessage = (orderId: string) =>
-    [
-      "*New Order — " + orderId + "*",
-      "Akihabara TCG Warehouse",
-      "",
-      "*Items*",
-      ...cart.map(
+  const PAYMENT_LABELS: Record<string, string> = Object.fromEntries(
+    (settings.paymentMethods || []).map((m) => [m.id, m.label]),
+  );
+  const buildWhatsAppOrderMessage = (orderId: string) => {
+    const itemsText = cart
+      .map(
         (item) =>
           `${item.quantity}x ${item.product.title} — ${formatPrice(item.product.price * item.quantity, currency)}`
-      ),
-      "",
-      `Subtotal: ${formatPrice(cartTotal, currency)}`,
-      `Shipping: ${shippingCost === 0 ? "Free" : formatPrice(shippingCost, currency)}`,
-      `*Total: ${formatPrice(grandTotal, currency)}*`,
-      "",
-      `Name: ${customerName}`,
-      `Email: ${customerEmail}`,
-      `Phone: ${customerPhone}`,
-      `Ship to: ${shippingAddress}, ${shippingCity}, ${COUNTRY_LABELS[shippingCountry] || shippingCountry}${shippingZip ? " " + shippingZip : ""}`,
-      `Payment: ${PAYMENT_LABELS[paymentMethod] || paymentMethod}`,
-      ...(notes.trim() ? [`Notes: ${notes.trim()}`] : []),
-      "",
-      "— sent from akihabaratcgwarehouse.com",
-    ].join("\n");
+      )
+      .join("\n");
+    const addressText = `${shippingAddress}, ${shippingCity}, ${COUNTRY_LABELS[shippingCountry] || shippingCountry}${shippingZip ? " " + shippingZip : ""}`;
+    return content.whatsappTemplate
+      .split("{notesLine}\n")
+      .join(notes.trim() ? `Notes: ${notes.trim()}\n` : "")
+      .split("{orderId}").join(orderId)
+      .split("{siteName}").join(settings.siteName)
+      .split("{items}").join(itemsText)
+      .split("{subtotal}").join(formatPrice(cartTotal, currency))
+      .split("{shipping}").join(shippingCost === 0 ? "Free" : formatPrice(shippingCost, currency))
+      .split("{total}").join(formatPrice(grandTotal, currency))
+      .split("{name}").join(customerName)
+      .split("{email}").join(customerEmail)
+      .split("{phone}").join(customerPhone)
+      .split("{address}").join(addressText)
+      .split("{payment}").join(PAYMENT_LABELS[paymentMethod] || paymentMethod)
+      .split("{notesLine}").join(notes.trim() ? `Notes: ${notes.trim()}` : "");
+  };
 
   const buildWhatsAppOrderUrl = (orderId: string) =>
     `${whatsappLink}?text=${encodeURIComponent(buildWhatsAppOrderMessage(orderId))}`;
@@ -2829,7 +2736,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
           (item) =>
             `${item.quantity}x ${item.product.title} — $${(item.product.price * item.quantity).toFixed(2)}`
         ),
-        `Shipping: ${shippingCost === 0 ? "Free" : "$15.00"}`,
+        `Shipping: ${shippingCost === 0 ? "Free" : `$${shippingCost.toFixed(2)}`}`,
         `Total: $${grandTotal.toFixed(2)}`,
         `Name: ${customerName}`,
         `Email: ${customerEmail}`,
@@ -2974,21 +2881,23 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
               <svg className="size-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" /></svg>
             </div>
             <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
-              One Last Step — Send on WhatsApp
+              {content.thankYouTitle}
             </h1>
             <p className="text-[14px] text-gray-200 max-w-xl mx-auto mb-2">
-              Your order reference is:
+              {content.thankYouRefLabel}
             </p>
             <p className="text-2xl font-bold text-violet-300 mb-6">{orderId}</p>
             <p className="text-[13px] text-gray-300 max-w-md mx-auto mb-8">
               {waOrderUrl ? (
-                <>
-                  We&apos;ve prepared your order message — if WhatsApp didn&apos;t open automatically, tap the green button below, check the pre-filled order details and press <span className="text-white font-medium">Send</span>. Our team will confirm payment and shipping shortly.
-                </>
+                <span dangerouslySetInnerHTML={{ __html: content.thankYouTextWa }} />
               ) : (
-                <>
-                  We&apos;ve saved your order details. Our team will confirm payment and shipping within 24 hours. You can also reach us on WhatsApp at <span className="text-white font-medium">+81 80-2935-0455</span>.
-                </>
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: content.thankYouTextNoWa
+                      .split("{phone}")
+                      .join(settings.whatsappNumber),
+                  }}
+                />
               )}
             </p>
             {waOrderUrl && (
@@ -3002,16 +2911,16 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                     <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
                   </svg>
-                  Send Order on WhatsApp
+                  {content.sendButtonLabel}
                 </a>
                 <p className="text-[11px] text-gray-400">
-                  Opens WhatsApp with your order details pre-filled — just press Send.
+                  {content.sendButtonSub}
                 </p>
               </div>
             )}
             <div className="flex flex-col sm:flex-row gap-3 justify-center items-center mb-6">
               <a
-                href={`mailto:support@akihabaratcgwarehouse.com?subject=${encodeURIComponent(`Order ${orderId} — Akihabara TCG Warehouse`)}&body=${encodeURIComponent(orderSummary || placedOrderText)}`}
+                href={`mailto:${settings.storeEmail}?subject=${encodeURIComponent(`Order ${orderId} — Akihabara TCG Warehouse`)}&body=${encodeURIComponent(orderSummary || placedOrderText)}`}
                 className="inline-flex items-center justify-center h-11 px-8 rounded-md border border-violet-400/40 text-violet-200 hover:bg-violet-500/10 font-semibold text-[14px] transition-colors"
               >
                 Confirm via Email
@@ -3051,8 +2960,8 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
       <div>
         <section className="bg-purple-950 py-16 sm:py-20">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">Checkout</h1>
-            <p className="text-[14px] text-gray-200">Your cart is empty.</p>
+            <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">{content.emptyTitle}</h1>
+            <p className="text-[14px] text-gray-200">{content.emptyText}</p>
           </div>
         </section>
         <section className="bg-violet-50 py-16">
@@ -3070,13 +2979,14 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
     <div className="w-full overflow-x-hidden">
       <section className="bg-purple-950 py-16 sm:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">Secure Checkout</p>
+          <p className="text-[11px] font-bold text-violet-300 tracking-[0.2em] uppercase mb-4">{content.eyebrow}</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold font-[family-name:var(--font-montserrat)] text-white mb-4">
-            Complete Your Order
+            {content.title}
           </h1>
-          <p className="text-[14px] text-gray-200 max-w-xl mx-auto">
-            Fill in your details below, then hit <span className="font-semibold text-[#2fe671]">Send Order via WhatsApp</span> — your order opens in WhatsApp, pre-filled and ready to send. All orders ship direct from Japan.
-          </p>
+          <p
+            className="text-[14px] text-gray-200 max-w-xl mx-auto"
+            dangerouslySetInnerHTML={{ __html: content.introHtml }}
+          />
         </div>
       </section>
 
@@ -3167,18 +3077,11 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
                   Choose Preferred Payment Method *
                 </h2>
                 <div className="grid sm:grid-cols-2 gap-3">
-                  {[
-                    { value: "wise", label: "Wise", desc: "Fast & Secure for International Payments", icon: "💸" },
-                    { value: "zelle_chime_cashapp", label: "Zelle, Chime or Cash App", desc: "Please contact us on WhatsApp first before sending", icon: "💵" },
-                    { value: "apple_google_pay", label: "Apple Pay or Google Pay", desc: "Tap to Pay on supported devices", icon: "📱" },
-                    { value: "bank_transfer", label: "Bank Transfer", desc: "Direct bank wire transfer", icon: "🏦" },
-                    { value: "credit_card", label: "Credit / Debit Card", desc: "Visa, Mastercard, AMEX", icon: "💳" },
-                    { value: "crypto", label: "Cryptocurrency", desc: "BTC, ETH, USDT", icon: "₿" },
-                  ].map((method) => (
+                  {(settings.paymentMethods || []).map((method) => (
                     <label
-                      key={method.value}
+                      key={method.id}
                       className={`flex items-start gap-3 p-4 rounded-lg border-2 cursor-pointer transition-all ${
-                        paymentMethod === method.value
+                        paymentMethod === method.id
                           ? "border-violet-400 bg-violet-400/5"
                           : "border-gray-200 hover:border-gray-300 bg-white"
                       }`}
@@ -3186,15 +3089,14 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
                       <input
                         type="radio"
                         name="paymentMethod"
-                        value={method.value}
-                        checked={paymentMethod === method.value}
+                        value={method.id}
+                        checked={paymentMethod === method.id}
                         onChange={(e) => setPaymentMethod(e.target.value)}
                         className="mt-0.5 accent-violet-400"
                       />
                       <div>
-                        <span className="text-lg mr-1">{method.icon}</span>
                         <span className="text-[13px] font-semibold text-gray-900">{method.label}</span>
-                        <p className="text-[11px] text-gray-500 mt-0.5">{method.desc}</p>
+                        <p className="text-[11px] text-gray-500 mt-0.5">{method.instructions}</p>
                       </div>
                     </label>
                   ))}
@@ -3259,7 +3161,7 @@ function CheckoutPage({ cart, cartTotal, currency, navigateTo, clearCart, whatsa
                     </span>
                   </div>
                   {shippingCost > 0 && (
-                    <p className="text-[10px] text-gray-400">Free shipping on orders over {formatPrice(150, currency)}</p>
+                    <p className="text-[10px] text-gray-400">Free shipping on orders over {formatPrice(freeShippingThreshold, currency)}</p>
                   )}
                   <Separator className="my-2" />
                   <div className="flex justify-between text-[15px] font-bold">

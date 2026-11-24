@@ -1,5 +1,6 @@
 import { NextResponse, NextRequest } from 'next/server'
 import { selectFrom, isSupabaseConfigured } from '@/lib/supabase-client'
+import { rowToFileProduct } from '@/lib/site-content'
 
 export async function GET(
   request: NextRequest,
@@ -22,7 +23,9 @@ export async function GET(
       return NextResponse.json({ error: 'Product not found' }, { status: 404 })
     }
 
-    return NextResponse.json({ product: data[0] })
+    return NextResponse.json({
+      product: rowToFileProduct(data[0] as Record<string, unknown>),
+    })
   } catch (error) {
     console.error('Error fetching product:', error)
     return NextResponse.json({ error: 'Failed to fetch product' }, { status: 500 })

@@ -1,16 +1,27 @@
 import type { MetadataRoute } from "next";
-import { allProducts, CATEGORY_PAGES, SITE_URL, URL_TRAILING } from "@/lib/product-data";
-import { SET_SLUGS, GUIDE_SLUGS } from "@/lib/content-data";
-import { POST_SLUGS } from "@/lib/blog-data";
+import { CATEGORY_PAGES, SITE_URL, URL_TRAILING } from "@/lib/product-data";
+import {
+  getAllBlogSlugs,
+  getPublishedCatalog,
+  getPublishedContent,
+} from "@/lib/site-content";
 
 /* Dynamic sitemap — serves /sitemap.xml with category landing pages
-   and every product URL, generated from the same slug source as the pages */
+   and every product URL, generated from the PUBLISHED catalog +
+   content (admin edits flow through), with blog slugs = compiled
+   posts ∪ DB-published posts. */
 
-// Required for static-export builds ("output: 'export'"); harmless (and
-// accurate) in server mode — the sitemap is fully deterministic.
 export const dynamic = "force-static";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const [products, content, blogSlugs] = await Promise.all([
+    getPublishedCatalog(),
+    getPublishedContent(),
+    getAllBlogSlugs(),
+  ]);
+  const setSlugs = Object.keys(content.sets.hubs);
+  const guideSlugs = Object.keys(content.guides.items);
+
   const homepage: MetadataRoute.Sitemap = [
     {
       url: SITE_URL,
@@ -30,7 +41,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }));
 
-  const productPages: MetadataRoute.Sitemap = allProducts.map((p) => ({
+  const productPages: MetadataRoute.Sitemap = products.map((p) => ({
     url: `${SITE_URL}/product/${p.slug}${URL_TRAILING}`,
     lastModified: new Date(),
     changeFrequency: "weekly",
@@ -45,7 +56,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly" as const,
       priority: 0.7,
     },
-    ...SET_SLUGS.map((slug) => ({
+    ...setSlugs.map((slug) => ({
       url: `${SITE_URL}/sets/${slug}${URL_TRAILING}`,
       lastModified: new Date(),
       changeFrequency: "weekly" as const,
@@ -57,7 +68,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly" as const,
       priority: 0.6,
     },
-    ...GUIDE_SLUGS.map((slug) => ({
+    ...guideSlugs.map((slug) => ({
       url: `${SITE_URL}/guides/${slug}${URL_TRAILING}`,
       lastModified: new Date(),
       changeFrequency: "monthly" as const,
@@ -75,7 +86,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly" as const,
       priority: 0.7,
     },
-    ...POST_SLUGS.map((slug) => ({
+    ...blogSlugs.map((slug) => ({
       url: `${SITE_URL}/blog/${slug}${URL_TRAILING}`,
       lastModified: new Date(),
       changeFrequency: "monthly" as const,

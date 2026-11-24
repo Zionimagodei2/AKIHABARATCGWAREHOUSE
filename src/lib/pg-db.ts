@@ -35,7 +35,17 @@ import { Pool, types } from "pg";
 types.setTypeParser(1700, (v: string) => parseFloat(v));
 types.setTypeParser(20, (v: string) => parseInt(v, 10));
 
-const TABLES = new Set(["users", "orders", "order_items", "products"]);
+const TABLES = new Set([
+  "users",
+  "orders",
+  "order_items",
+  "products",
+  "admin_draft",
+  "site_publications",
+  "blog_posts",
+  "blog_post_versions",
+  "media",
+]);
 const IDENT = /^[a-z_][a-z0-9_]*$/;
 const NOT_CONFIGURED = "Database not configured";
 
@@ -307,5 +317,56 @@ export async function countFrom(
     return { count: Number(res.rows[0]?.count ?? 0), error: null };
   } catch (e) {
     return { count: 0, error: (e as Error).message };
+  }
+}
+
+// ─────────── Raw SQL escape hatches (admin content system) ───────────
+// Used by src/lib/site-content.ts for the jsonb draft / publication /
+// blog / media tables, whose access patterns (single-row upserts,
+// transactional catalog rewrites, snapshot pruning) do not fit the
+// PostgREST-shaped helpers above. Callers must still bind every value
+// as a parameter — never interpolate user input into the SQL text.
+
+/** Run one parameterized query against the pool. */
+export async function rawQuery<T = Record<string, unknown>>(
+  sql: string,
+  params: unknown[] = [],
+): Promise<{ rows: T[] | null; error: string | null }> {
+  const pool = getPool();
+  if (!pool) return { rows: null, error: NOT_CONFIGURED };
+  try {
+    const res = await pool.query(sql, params as unknown[]);
+    return { rows: res.rows as T[], error: null };
+  } catch (e) {
+    return { rows: null, error: (e as Error).message };
+  }
+}
+
+export type DbQuerier = <T = Record<string, unknown>>(
+  sql: string,
+  params?: unknown[],
+) => Promise<T[]>;
+
+/** Run `fn` inside a single transaction; rolls back on any throw. */
+export async function withTransaction<T>(
+  fn: (query: DbQuerier) => Promise<T>,
+): Promise<{ data: T | null; error: string | null }> {
+  const pool = getPool();
+  if (!pool) return { data: null, error: NOT_CONFIGURED };
+  const client = await pool.connect();
+  try {
+    await client.query("BEGIN");
+    const query: DbQuerier = async <T = Record<string, unknown>>(
+      sql: string,
+      params: unknown[] = [],
+    ) => (await client.query(sql, params as unknown[])).rows as T[];
+    const data = await fn(query);
+    await client.query("COMMIT");
+    return { data, error: null };
+  } catch (e) {
+    await client.query("ROLLBACK").catch(() => undefined);
+    return { data: null, error: (e as Error).message };
+  } finally {
+    client.release();
   }
 }

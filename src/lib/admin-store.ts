@@ -1,39 +1,34 @@
 "use client";
 
 /* ────────────────────────────────────────────────────────────
-   Admin Store — self-contained store database for the admin
-   panel on a static deployment.
+   Admin Store — data layer for the admin panel.
 
-   Architecture:
-   1. BASELINE:  the live store catalog (/products.json) and
-      content (/content.json) deployed with the site. These are
-      the files the storefront renders from, so they are always
-      exactly what customers see.
-   2. OVERLAY:   edits / additions / deletions are layered on
-      top of the baseline and persisted to localStorage, so
-      nothing is lost between sessions.
-   3. PUBLISH:   one click sends the resulting products.json +
-      content.json to the server publish route (/api/admin/publish),
-      which commits them to the GitHub repo with a server-only token.
-      Render auto-rebuilds and the changes go live on the store.
-      The store polls the deployed files until the rebuild lands,
-      then clears the overlay automatically.
+   Catalog + content editing is SERVER-BACKED (2026-11-24):
+   1. DRAFT:  one server-side draft (GET/PUT /api/admin/draft,
+      Postgres admin_draft row). Every edit in the panel updates
+      the draft and is auto-saved (debounced PUT). The draft is
+      what the panel shows; the live store never sees it until…
+   2. PUBLISH: POST /api/admin/publish-content applies the draft
+      in one transaction — the products table is rewritten from
+      the draft catalog and content + products are snapshotted
+      into site_publications (last 3 kept). Live instantly, no
+      rebuild, no GitHub, no token.
+   3. ROLLBACK: POST /api/admin/rollback restores one of the last
+      3 publications (products table + live content + draft).
 
-   Orders, customers (derived) and reviews are kept locally —
-   the static storefront has no server to record them. The panel
-   starts empty and only ever shows REAL records: orders and
-   reviews the admin records from actual customer confirmations.
-   No sample / mock data exists anywhere in this store.
+   The storefront renders the newest publication; before the first
+   publish it renders the compiled defaults, which are the current
+   live text — so an untouched draft publishes as a no-op.
 
-   REMOTE ORDERS: customer orders placed through checkout are
-   recorded in the store database (our Postgres, behind the
-   /api routes). On panel load and on every Refresh, real
-   orders + their items are pulled from GET /api/admin/orders
-   and merged with locally-recorded orders, so the admin always
-   sees every order customers placed. Status changes and
-   deletions sync back via PATCH /api/orders/<id>. The browser
-   never talks to the database directly.
+   Orders and reviews are unchanged from the previous design:
+   customer orders are pulled from GET /api/admin/orders and
+   merged with locally-recorded orders (localStorage); status
+   changes sync back via PATCH /api/orders/<id>. Reviews are
+   local records. No sample / mock data exists anywhere.
    ──────────────────────────────────────────────────────────── */
+
+import { DEFAULT_CONTENT } from "./content-defaults";
+import type { SiteContent, SiteSettings } from "./content-types";
 
 /**
  * Fire-and-forget status sync for a remote order. Goes through the
@@ -72,6 +67,8 @@ export interface StoreProduct {
   sort_order?: number;
   created_at?: string;
   updated_at?: string;
+  /** Extra catalog fields (language, stock, set codes, …) ride along. */
+  [key: string]: unknown;
 }
 
 export interface StoreOrderItem {
@@ -139,29 +136,16 @@ export interface StoreSettings {
   currencyJPY: string;
   currencyEUR: string;
   currencyGBP: string;
+  /** Extended settings (edited in Settings / Pages editors). */
+  storeEmail?: string;
+  freeShippingThreshold?: number;
+  standardShippingFee?: number;
 }
 
 export interface StoreContent {
   heroSlides: StoreHeroSlide[];
   announcements: StoreAnnouncement[];
   settings: StoreSettings;
-}
-
-export interface TokenStatus {
-  /** Publishing is configured on the server (token held server-side only). */
-  hasToken: boolean;
-  /** True when the server reports publishing is configured. */
-  active: boolean;
-  /** Server-side tokens have no client-visible expiry. */
-  expiresAt: string | null;
-  /** Human label — always "—" for server-managed publishing. */
-  expiryLabel: string;
-  /** Days left before expiry (null — managed on the server). */
-  daysLeft: number | null;
-  /** The token is never editable from the browser. */
-  canEdit: boolean;
-  /** Always false — there is no client-side token anymore. */
-  isCustom: boolean;
 }
 
 export type PublishState =
@@ -191,7 +175,6 @@ export interface CatalogStats {
 
 /* ─────────── Constants ─────────── */
 
-const LS_OVERLAY = "aki_admin_overlay_v1";
 const LS_ORDERS = "aki_admin_orders_v1";
 const LS_REVIEWS = "aki_admin_reviews_v1";
 
@@ -204,19 +187,9 @@ const DEFAULT_SETTINGS: StoreSettings = {
   currencyGBP: "0.79",
 };
 
-const POLL_INTERVAL_MS = 15_000;
-const POLL_MAX_MS = 20 * 60_000;
+const SAVE_DEBOUNCE_MS = 800;
 
 /* ─────────── Helpers ─────────── */
-
-function fnv1a(str: string): string {
-  let h = 0x811c9dc5;
-  for (let i = 0; i < str.length; i++) {
-    h ^= str.charCodeAt(i);
-    h = Math.imul(h, 0x01000193);
-  }
-  return (h >>> 0).toString(16).padStart(8, "0");
-}
 
 function round2(n: number): number {
   return Math.round(n * 100) / 100;
@@ -248,30 +221,41 @@ function safeDel(key: string) {
   } catch {}
 }
 
-/* ─────────── Store class ─────────── */
-
-interface Overlay {
-  edits: Record<string, StoreProduct>;
-  adds: StoreProduct[];
-  deletes: string[];
+function contentSubset(content: SiteContent): StoreContent {
+  const settings: StoreSettings = content.settings;
+  return {
+    heroSlides: content.heroSlides,
+    announcements: content.announcements,
+    settings,
+  };
 }
+
+/* ─────────── Store class ─────────── */
 
 class AdminStore {
   private initialized = false;
   private initPromise: Promise<void> | null = null;
 
+  /** Live (published) catalog + content subset — the diff baseline. */
   baseline: StoreProduct[] = [];
   baselineContent: StoreContent | null = null;
-  overlay: Overlay = { edits: {}, adds: [], deletes: [] };
-  contentOverlay: StoreContent | null = null;
+  /** Full live content (all keys) for the unpublished-changes diff. */
+  liveContent: SiteContent | null = null;
+
+  /** The working draft (what the panel edits and shows). */
+  draftProducts: StoreProduct[] = [];
+  draftContent: SiteContent | null = null;
+  /** True once the draft has been loaded from the server API. */
+  serverDraftReady = false;
+
   orders: StoreOrder[] = [];
   reviews: StoreReview[] = [];
   publish: PublishStatus = { state: "idle", message: "", at: null };
 
   private listeners = new Set<() => void>();
-  private pollTimer: ReturnType<typeof setInterval> | null = null;
-  private pollStart = 0;
-  private pendingHashes: { products?: string; content?: string } = {};
+  private saveTimer: ReturnType<typeof setTimeout> | null = null;
+  private saveInFlight = false;
+  private saveQueued = false;
 
   /** Ids of orders that live in the remote store database. */
   private remoteOrderIds = new Set<string>();
@@ -294,16 +278,16 @@ class AdminStore {
   }
 
   private async init(): Promise<void> {
-    // 1. Local persistence
+    // 1. Local persistence for orders / reviews (unchanged). The old
+    //    localStorage catalog overlay is retired — delete it so stale
+    //    browser edits can never resurface.
     try {
-      const o = safeGet(LS_OVERLAY);
-      if (o) this.overlay = { edits: {}, adds: [], deletes: [], ...JSON.parse(o) };
       const ords = safeGet(LS_ORDERS);
       if (ords) this.orders = JSON.parse(ords);
       const revs = safeGet(LS_REVIEWS);
       if (revs) this.reviews = JSON.parse(revs);
-      // Drop any legacy client-side GitHub token/config left in storage —
-      // publishing is server-managed now and the browser holds no token.
+      safeDel("aki_admin_overlay_v1");
+      safeDel("aki_admin_pending_v1");
       safeDel("aki_admin_github_v1");
       safeDel("aki_admin_token_v1");
     } catch {
@@ -311,8 +295,7 @@ class AdminStore {
     }
 
     // 2. Purge any demo records left over from earlier versions of the
-    //    panel, so the dashboard only ever shows REAL data. Runs every
-    //    init; cheap, and self-heals browsers that still carry old seeds.
+    //    panel, so the dashboard only ever shows REAL data.
     const hadSample = this.orders.some((o) => (o as { sample?: boolean }).sample) || this.reviews.some((r) => (r as { sample?: boolean }).sample);
     if (hadSample) {
       this.orders = this.orders.filter((o) => !(o as { sample?: boolean }).sample);
@@ -322,7 +305,44 @@ class AdminStore {
     }
     safeDel("aki_admin_seeded_v1");
 
-    // 3. Baseline from the deployed store (cache-busted)
+    // 3. Server draft (draft + live state). Falls back to the static
+    //    files when the API is unreachable (e.g. panel opened before
+    //    sign-in); refreshBaseline() retries after sign-in.
+    const loaded = await this.loadServerDraft();
+    if (!loaded) await this.loadStaticFallback();
+
+    // 4. Real customer orders from the store database.
+    await this.refreshRemoteOrders();
+
+    this.initialized = true;
+    this.notify();
+  }
+
+  /** Load draft + live state from GET /api/admin/draft. */
+  async loadServerDraft(): Promise<boolean> {
+    try {
+      const res = await fetch("/api/admin/draft", { credentials: "same-origin" });
+      if (!res.ok) return false;
+      const data = (await res.json().catch(() => null)) as {
+        draft?: { products: StoreProduct[]; content: SiteContent };
+        live?: { products: StoreProduct[]; content: SiteContent };
+      } | null;
+      if (!data?.draft || !data?.live) return false;
+      this.baseline = data.live.products;
+      this.liveContent = data.live.content;
+      this.baselineContent = contentSubset(data.live.content);
+      this.draftProducts = data.draft.products;
+      this.draftContent = data.draft.content;
+      this.serverDraftReady = true;
+      this.notify();
+      return true;
+    } catch {
+      return false;
+    }
+  }
+
+  /** Static-file fallback (pre-login / API down): panel stays readable. */
+  private async loadStaticFallback(): Promise<void> {
     try {
       const res = await fetch(`/products.json?_ts=${Date.now()}`);
       if (res.ok) {
@@ -330,15 +350,19 @@ class AdminStore {
         if (Array.isArray(data)) this.baseline = data as StoreProduct[];
       }
     } catch {
-      /* offline — overlay still applies to last-known baseline */
+      /* offline */
     }
-
+    let subset: StoreContent = {
+      heroSlides: [],
+      announcements: [],
+      settings: { ...DEFAULT_SETTINGS },
+    };
     try {
       const res = await fetch(`/content.json?_ts=${Date.now()}`);
       if (res.ok) {
         const data = await res.json();
         if (data && typeof data === "object") {
-          this.baselineContent = {
+          subset = {
             heroSlides: Array.isArray(data.heroSlides) ? data.heroSlides : [],
             announcements: Array.isArray(data.announcements) ? data.announcements : [],
             settings: { ...DEFAULT_SETTINGS, ...(data.settings || {}) },
@@ -348,28 +372,16 @@ class AdminStore {
     } catch {
       /* keep defaults */
     }
-
-    // 4. Real customer orders from the store database (checkout writes
-    //    there) — merged with locally-recorded orders.
-    await this.refreshRemoteOrders();
-
-    // 5. Resume rebuild polling if a publish was in flight
-    if (this.publish.state === "idle" && this.hasPendingPublish()) {
-      this.publish = {
-        state: "waiting",
-        message: "Waiting for the live store to rebuild…",
-        at: new Date().toISOString(),
-      };
-      this.startPolling();
-    }
-
-    this.initialized = true;
-    this.notify();
-  }
-
-  private persist() {
-    safeSet(LS_OVERLAY, JSON.stringify(this.overlay));
-    this.notify();
+    this.baselineContent = subset;
+    this.draftProducts = [...this.baseline];
+    this.draftContent = {
+      ...DEFAULT_CONTENT,
+      heroSlides: subset.heroSlides.length > 0 ? subset.heroSlides : DEFAULT_CONTENT.heroSlides,
+      announcements:
+        subset.announcements.length > 0 ? subset.announcements : DEFAULT_CONTENT.announcements,
+      settings: { ...DEFAULT_CONTENT.settings, ...subset.settings },
+    } as SiteContent;
+    this.liveContent = this.draftContent;
   }
 
   private persistOrders() {
@@ -382,30 +394,54 @@ class AdminStore {
     this.notify();
   }
 
+  /* ─────────── Draft auto-save ─────────── */
+
+  /** Called after every draft mutation: notify + schedule a PUT. */
+  private touchDraft() {
+    this.notify();
+    if (!this.serverDraftReady) return;
+    if (this.saveTimer) clearTimeout(this.saveTimer);
+    this.saveTimer = setTimeout(() => {
+      void this.flushDraftSave();
+    }, SAVE_DEBOUNCE_MS);
+  }
+
+  /** PUT the current draft to the server (serialized, coalesced). */
+  async flushDraftSave(): Promise<void> {
+    if (!this.serverDraftReady) return;
+    if (this.saveInFlight) {
+      this.saveQueued = true;
+      return;
+    }
+    this.saveInFlight = true;
+    try {
+      await fetch("/api/admin/draft", {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        credentials: "same-origin",
+        body: JSON.stringify({
+          products: this.draftProducts,
+          content: this.draftContent,
+        }),
+      });
+    } catch {
+      /* next mutation retries; publish flushes again before applying */
+    } finally {
+      this.saveInFlight = false;
+      if (this.saveQueued) {
+        this.saveQueued = false;
+        void this.flushDraftSave();
+      }
+    }
+  }
+
   /* ─────────── Products ─────────── */
 
   getEffectiveProducts(): StoreProduct[] {
-    // Adds newer than the baseline — but an add whose id already exists in
-    // the baseline (published earlier, overlay never cleared because the
-    // rebuild poll was interrupted) must REPLACE the baseline row instead
-    // of appearing twice (the source of the historical duplicate rows).
-    const baselineIds = new Set(this.baseline.map((p) => p.id));
-    const staleAdds = this.overlay.adds.filter((a) => baselineIds.has(a.id));
-
-    const edited = this.baseline
-      .filter((p) => !this.overlay.deletes.includes(p.id))
-      .map((p) => {
-        const add = staleAdds.find((a) => a.id === p.id);
-        return add ?? this.overlay.edits[p.id] ?? p;
-      });
-    const freshAdds = [...this.overlay.adds]
-      .filter((a) => !baselineIds.has(a.id))
-      .sort((a, b) => (b.created_at || "").localeCompare(a.created_at || ""));
-
-    const merged = [...freshAdds, ...edited];
-    // Final defense: one row per id (last occurrence wins).
+    // One row per id (last occurrence wins) — defense against the
+    // historical duplicate-rows bug.
     const byId = new Map<string, StoreProduct>();
-    for (const p of merged) byId.set(p.id, p);
+    for (const p of this.draftProducts) byId.set(p.id, p);
     return [...byId.values()];
   }
 
@@ -414,16 +450,27 @@ class AdminStore {
   }
 
   getUnpublishedCount(): number {
-    return (
-      Object.keys(this.overlay.edits).length +
-      this.overlay.adds.length +
-      this.overlay.deletes.length +
-      (this.contentOverlay ? 1 : 0)
-    );
-  }
-
-  private hasPendingPublish(): boolean {
-    return Boolean(safeGet("aki_admin_pending_v1"));
+    if (!this.liveContent || !this.draftContent) return 0;
+    let count = 0;
+    const liveById = new Map(this.baseline.map((p) => [p.id, p]));
+    const draft = this.getEffectiveProducts();
+    const draftIds = new Set(draft.map((p) => p.id));
+    for (const p of draft) {
+      const live = liveById.get(p.id);
+      if (!live || JSON.stringify(live) !== JSON.stringify(p)) count++;
+    }
+    for (const p of this.baseline) {
+      if (!draftIds.has(p.id)) count++;
+    }
+    for (const key of Object.keys(this.liveContent) as (keyof SiteContent)[]) {
+      if (
+        JSON.stringify(this.liveContent[key]) !==
+        JSON.stringify(this.draftContent[key])
+      ) {
+        count++;
+      }
+    }
+    return count;
   }
 
   /** Upsert from the admin form (camelCase input). */
@@ -449,7 +496,9 @@ class AdminStore {
       input.categories && input.categories.length > 0
         ? input.categories
         : [input.category];
+    const existing = input.id ? this.getProduct(input.id) : undefined;
     const record: StoreProduct = {
+      ...(existing ?? {}),
       id: input.id ?? uid("p"),
       title: input.title.trim(),
       price: round2(input.price),
@@ -460,20 +509,18 @@ class AdminStore {
       image: input.image.trim(),
       category: input.category,
       categories,
-      rating: input.rating ?? 4.5,
-      in_stock: input.inStock ?? true,
+      rating: input.rating ?? existing?.rating ?? 4.5,
+      in_stock: input.inStock ?? existing?.in_stock ?? true,
       description: input.description?.trim() || null,
-      images: input.images && input.images.length > 0 ? input.images : undefined,
+      images: input.images && input.images.length > 0 ? input.images : existing?.images,
       sku: input.sku?.trim() || null,
       source: input.source?.trim() || null,
-      featured: input.featured ?? false,
+      featured: input.featured ?? existing?.featured ?? false,
       sort_order:
         input.sortOrder != null && Number.isFinite(input.sortOrder)
           ? Math.round(input.sortOrder)
-          : undefined,
-      created_at: input.id
-        ? (this.getProduct(input.id)?.created_at ?? now)
-        : now,
+          : existing?.sort_order,
+      created_at: existing?.created_at ?? now,
       updated_at: now,
     };
     this.applyProductRecord(record);
@@ -481,30 +528,22 @@ class AdminStore {
   }
 
   private applyProductRecord(record: StoreProduct) {
-    const addIdx = this.overlay.adds.findIndex((p) => p.id === record.id);
-    if (addIdx >= 0) {
-      this.overlay.adds[addIdx] = record;
-    } else if (this.baseline.some((p) => p.id === record.id)) {
-      this.overlay.edits[record.id] = record;
-      const delIdx = this.overlay.deletes.indexOf(record.id);
-      if (delIdx >= 0) this.overlay.deletes.splice(delIdx, 1);
-    } else {
-      this.overlay.adds.push(record);
-    }
-    this.persist();
+    const idx = this.draftProducts.findIndex((p) => p.id === record.id);
+    if (idx >= 0) this.draftProducts[idx] = record;
+    else this.draftProducts.push(record);
+    this.touchDraft();
   }
 
-  /** Set the manual display position of one product (overlay edit).
+  /** Set the manual display position of one product.
    *  `order` = null clears the manual position (back to automatic). */
   setProductOrder(id: string, order: number | null) {
     const base = this.getProduct(id);
     if (!base) return;
-    const rec: StoreProduct = {
+    this.applyProductRecord({
       ...base,
       sort_order: order == null || !Number.isFinite(order) ? undefined : Math.round(order),
       updated_at: new Date().toISOString(),
-    };
-    this.applyProductRecord(rec);
+    });
   }
 
   patchProduct(id: string, patch: Partial<StoreProduct>) {
@@ -514,13 +553,8 @@ class AdminStore {
   }
 
   deleteProduct(id: string) {
-    const addIdx = this.overlay.adds.findIndex((p) => p.id === id);
-    if (addIdx >= 0) this.overlay.adds.splice(addIdx, 1);
-    else if (this.baseline.some((p) => p.id === id)) {
-      if (!this.overlay.deletes.includes(id)) this.overlay.deletes.push(id);
-      delete this.overlay.edits[id];
-    }
-    this.persist();
+    this.draftProducts = this.draftProducts.filter((p) => p.id !== id);
+    this.touchDraft();
   }
 
   duplicateProduct(id: string): StoreProduct | undefined {
@@ -534,8 +568,8 @@ class AdminStore {
       created_at: now,
       updated_at: now,
     };
-    this.overlay.adds.push(copy);
-    this.persist();
+    this.draftProducts.push(copy);
+    this.touchDraft();
     return copy;
   }
 
@@ -643,7 +677,7 @@ class AdminStore {
   ): number {
     const cat = category.trim();
     const src = name.trim();
-    if (!cat || !src) return 0;
+    if (!src) return 0;
     const affected = this.getEffectiveProducts().filter(
       (p) =>
         p.category === cat &&
@@ -704,52 +738,67 @@ class AdminStore {
         }
       }
       const now = new Date().toISOString();
-      this.overlay = { edits: {}, adds: [], deletes: [] };
-      this.overlay.adds = data.map((p: StoreProduct) => ({
+      this.draftProducts = (data as StoreProduct[]).map((p) => ({
         ...p,
         created_at: p.created_at || now,
         updated_at: now,
       }));
-      // adds replace the whole catalog on publish: mark baseline as deleted
-      this.overlay.deletes = this.baseline.map((p) => p.id).filter((id) => !data.some((p: StoreProduct) => p.id === id));
-      // remove ids that are both baseline and imported (they become edits)
-      this.overlay.adds = this.overlay.adds.filter((p) => !this.baseline.some((b) => b.id === p.id));
-      for (const p of data as StoreProduct[]) {
-        if (this.baseline.some((b) => b.id === p.id)) this.overlay.edits[p.id] = { ...p, updated_at: now };
-      }
-      this.persist();
+      this.touchDraft();
       return { ok: true, count: this.getEffectiveProducts().length };
     } catch (err) {
       return { ok: false, error: err instanceof Error ? err.message : "Invalid JSON" };
     }
   }
 
-  discardLocalChanges() {
-    this.overlay = { edits: {}, adds: [], deletes: [] };
-    this.contentOverlay = null;
-    safeDel("aki_admin_pending_v1");
+  /** Discard the draft: the server deletes it and re-seeds from live. */
+  async discardLocalChanges(): Promise<void> {
+    try {
+      await fetch("/api/admin/draft", {
+        method: "DELETE",
+        credentials: "same-origin",
+      });
+    } catch {
+      /* fall through — reload whatever the server holds */
+    }
     this.publish = { state: "idle", message: "", at: null };
-    this.stopPolling();
-    this.persist();
+    await this.loadServerDraft();
+    this.notify();
   }
 
   /* ─────────── Content ─────────── */
 
   getContent(): StoreContent {
-    return this.contentOverlay ?? this.baselineContent ?? {
-      heroSlides: [],
-      announcements: [],
-      settings: { ...DEFAULT_SETTINGS },
-    };
+    if (this.draftContent) return contentSubset(this.draftContent);
+    return (
+      this.baselineContent ?? {
+        heroSlides: [],
+        announcements: [],
+        settings: { ...DEFAULT_SETTINGS },
+      }
+    );
   }
 
   setContent(content: StoreContent) {
-    this.contentOverlay = content;
-    this.persist();
+    const base = this.draftContent ?? (DEFAULT_CONTENT as unknown as SiteContent);
+    this.draftContent = {
+      ...base,
+      heroSlides: content.heroSlides,
+      announcements: content.announcements,
+      settings: { ...base.settings, ...(content.settings as Partial<SiteSettings>) },
+    };
+    this.touchDraft();
   }
 
-  private buildContentFile(): StoreContent {
-    return this.getContent();
+  /** The full draft content (every page key) for the page editors. */
+  getFullContent(): SiteContent | null {
+    return this.draftContent;
+  }
+
+  /** Replace one top-level content key in the draft. */
+  setContentKey<K extends keyof SiteContent>(key: K, value: SiteContent[K]) {
+    if (!this.draftContent) return;
+    this.draftContent = { ...this.draftContent, [key]: value };
+    this.touchDraft();
   }
 
   /* ─────────── Orders / Customers / Reviews ─────────── */
@@ -882,7 +931,7 @@ class AdminStore {
     return [...this.reviews].sort((a, b) => b.createdAt.localeCompare(a.createdAt));
   }
 
-  upsertReview(review: Omit<StoreReview, "createdAt"> & { id?: string }) {
+  upsertReview(review: Omit<StoreReview, "id" | "createdAt"> & { id?: string }) {
     const now = new Date().toISOString();
     if (review.id) {
       const idx = this.reviews.findIndex((r) => r.id === review.id);
@@ -953,36 +1002,9 @@ class AdminStore {
     };
   }
 
-  /* ─────────── Publishing (server-managed) ─────────── */
+  /* ─────────── Publishing (server draft → live) ─────────── */
 
-  /**
-   * Publishing is handled by the server route /api/admin/publish, which
-   * holds the GitHub token in its environment. The browser never sees,
-   * stores, or sends a token — it only asks the server whether
-   * publishing is configured and posts file payloads to publish.
-   */
-  async getTokenStatus(): Promise<TokenStatus> {
-    const fallback: TokenStatus = {
-      hasToken: false,
-      active: false,
-      expiresAt: null,
-      expiryLabel: "—",
-      daysLeft: null,
-      canEdit: false,
-      isCustom: false,
-    };
-    try {
-      const res = await fetch("/api/admin/publish", { method: "GET" });
-      if (!res.ok) return fallback;
-      const data = await res.json().catch(() => null);
-      const configured = Boolean(data?.configured);
-      return { ...fallback, hasToken: configured, active: configured };
-    } catch {
-      return fallback;
-    }
-  }
-
-  /** Build the products.json content to commit (canonical field order). */
+  /** Build the products.json content (canonical field order). */
   private buildProductsFile(): StoreProduct[] {
     const out = this.getEffectiveProducts().map((p) => {
       const rec: Record<string, unknown> = {
@@ -1005,58 +1027,58 @@ class AdminStore {
       if (p.sort_order != null && Number.isFinite(p.sort_order)) rec.sort_order = Math.round(p.sort_order);
       if (p.created_at) rec.created_at = p.created_at;
       if (p.updated_at) rec.updated_at = p.updated_at;
+      // Preserve any extra catalog fields (language, stock, set codes…)
+      for (const [k, v] of Object.entries(p)) {
+        if (!(k in rec) && v !== undefined) rec[k] = v;
+      }
       return rec as unknown as StoreProduct;
     });
-    // One row per id (last occurrence wins) — the historical duplicate
-    // rows in products.json came from stale overlay adds published twice.
     const byId = new Map<string, StoreProduct>();
     for (const rec of out) byId.set(rec.id, rec);
     return [...byId.values()];
   }
 
+  /**
+   * Publish the draft: flush the pending auto-save, then ask the
+   * server to apply it (products table rewrite + publication
+   * snapshot). Instant — the store is live as soon as this returns.
+   */
   async publishChanges(): Promise<{ ok: boolean; error?: string }> {
+    if (!this.serverDraftReady) {
+      const loaded = await this.loadServerDraft();
+      if (!loaded) {
+        return { ok: false, error: "Could not reach the server draft — check your connection and sign in again." };
+      }
+    }
     if (this.getUnpublishedCount() === 0) {
       return { ok: false, error: "No unpublished changes" };
     }
 
-    this.publish = { state: "publishing", message: "Publishing to the store repository…", at: new Date().toISOString() };
+    this.publish = { state: "publishing", message: "Publishing…", at: new Date().toISOString() };
     this.notify();
 
     try {
-      const productsJson = JSON.stringify(this.buildProductsFile(), null, 2);
-      const contentJson = JSON.stringify(this.buildContentFile(), null, 2);
-      const files: { path: string; content: string }[] = [
-        { path: "public/products.json", content: productsJson },
-        { path: "public/content.json", content: contentJson },
-      ];
-
-      // The server route verifies the admin session cookie and commits
-      // the files to GitHub with its server-only publication token.
-      const res = await fetch("/api/admin/publish", {
+      await this.flushDraftSave();
+      const res = await fetch("/api/admin/publish-content", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ files }),
+        credentials: "same-origin",
+        body: JSON.stringify({}),
       });
       const data = await res.json().catch(() => null);
       if (!res.ok) {
         throw new Error(data?.error || `Publish failed (HTTP ${res.status})`);
       }
 
-      this.pendingHashes = {
-        products: fnv1a(productsJson),
-        content: fnv1a(contentJson),
-      };
-      safeSet(
-        "aki_admin_pending_v1",
-        JSON.stringify({ ...this.pendingHashes, at: new Date().toISOString() })
-      );
-
+      // The draft is now the live state.
+      this.baseline = [...this.draftProducts];
+      this.liveContent = this.draftContent;
+      if (this.draftContent) this.baselineContent = contentSubset(this.draftContent);
       this.publish = {
-        state: "waiting",
-        message: "Published — waiting for the live store to rebuild (usually 2–5 min)…",
+        state: "live",
+        message: "Changes are live on the store!",
         at: new Date().toISOString(),
       };
-      this.startPolling();
       this.notify();
       return { ok: true };
     } catch (err) {
@@ -1070,95 +1092,11 @@ class AdminStore {
     }
   }
 
-  private startPolling() {
-    this.stopPolling();
-    this.pollStart = Date.now();
-    this.pollTimer = setInterval(() => this.checkRebuild(), POLL_INTERVAL_MS);
-  }
-
-  private stopPolling() {
-    if (this.pollTimer) {
-      clearInterval(this.pollTimer);
-      this.pollTimer = null;
-    }
-  }
-
-  /** Check whether the deployed files now match what we published. */
-  async checkRebuild(): Promise<boolean> {
-    const pending = this.pendingHashes.products || this.pendingHashes.content;
-    if (!pending) return false;
-
-    if (Date.now() - this.pollStart > POLL_MAX_MS) {
-      this.stopPolling();
-      this.publish = {
-        state: "waiting",
-        message: "Still waiting for the rebuild — refresh later or check the live store",
-        at: this.publish.at,
-      };
-      this.notify();
-      return false;
-    }
-
-    try {
-      if (this.pendingHashes.products) {
-        const res = await fetch(`/products.json?_ts=${Date.now()}`);
-        if (!res.ok) return false;
-        const text = await res.text();
-        if (fnv1a(text.trim()) !== this.pendingHashes.products) return false;
-      }
-      if (this.pendingHashes.content) {
-        const res = await fetch(`/content.json?_ts=${Date.now()}`);
-        if (!res.ok) return false;
-        const text = await res.text();
-        if (fnv1a(text.trim()) !== this.pendingHashes.content) return false;
-      }
-    } catch {
-      return false;
-    }
-
-    // Rebuild landed — adopt the live baseline and clear the overlay
-    this.stopPolling();
-    safeDel("aki_admin_pending_v1");
-    await this.refreshBaseline();
-    this.overlay = { edits: {}, adds: [], deletes: [] };
-    this.contentOverlay = null;
-    this.persist();
-    this.publish = {
-      state: "live",
-      message: "Changes are live on the store!",
-      at: new Date().toISOString(),
-    };
-    this.notify();
-    return true;
-  }
-
+  /** Refresh live + draft state from the server, plus remote orders. */
   async refreshBaseline() {
-    try {
-      const res = await fetch(`/products.json?_ts=${Date.now()}`);
-      if (res.ok) {
-        const data = await res.json();
-        if (Array.isArray(data)) this.baseline = data;
-      }
-    } catch {}
-    try {
-      const res = await fetch(`/content.json?_ts=${Date.now()}`);
-      if (res.ok) {
-        const data = await res.json();
-        if (data && typeof data === "object") {
-          this.baselineContent = {
-            heroSlides: Array.isArray(data.heroSlides) ? data.heroSlides : [],
-            announcements: Array.isArray(data.announcements) ? data.announcements : [],
-            settings: { ...DEFAULT_SETTINGS, ...(data.settings || {}) },
-          };
-        }
-      }
-    } catch {}
-
-    // Pull the latest customer orders from the store database too,
-    // so Refresh picks up newly placed orders.
+    await this.loadServerDraft();
     await this.refreshRemoteOrders();
   }
-
 }
 
 /* Singleton */

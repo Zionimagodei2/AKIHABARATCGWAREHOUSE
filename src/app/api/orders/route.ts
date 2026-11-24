@@ -63,7 +63,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: orderError || 'Failed to create order' }, { status: 500 })
     }
 
-    const order = orderResult[0]
+    const order = orderResult[0] as { id: string }
 
     // Create order items
     const itemsData = body.items.map(item => ({
@@ -124,12 +124,12 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ error }, { status: 500 })
     }
 
-    let orders = data || []
+    let orders = (data || []) as Record<string, unknown>[]
 
     // Client-side search
     if (search) {
       const q = search.toLowerCase()
-      orders = orders.filter((o: Record<string, unknown>) =>
+      orders = orders.filter((o) =>
         String(o.customer_name || '').toLowerCase().includes(q) ||
         String(o.customer_email || '').toLowerCase().includes(q) ||
         String(o.id || '').toLowerCase().includes(q)
