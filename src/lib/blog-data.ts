@@ -29157,7 +29157,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the neighbours in mind: M1L Mega Brave is $94.91 a box and M1S Mega Symphonia is $84.97, so one M2 box costs $3.30 more than both launch boxes together, and M2a MEGA Dream ex is $114.77 for 10 packs of 10 cards. In English the Charizard prints live in Phantasmal Flames, released November 14, 2025, and Japanese cards are not legal in English sanctioned play, so the Japanese box is a collector's box, not a tournament box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of October 28 to November 11, 2026. The box is down 23 percent in 90 days while the chase cards hold, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M2 Inferno X buyer's guide](/blog/m2-inferno-x-buyers-guide/) divides the same shelf set by set, and the [is M1L worth buying guide](/blog/is-m1l-worth-buying/) prices the launch set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
-      "The twin launch set gets the same treatment in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/). The investment verdict is in the [M2 Inferno X investment guide](/blog/m2-investment/)."
+      "The twin launch set gets the same treatment in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/). The investment verdict is in the [M2 Inferno X investment guide](/blog/m2-investment/). The ten best cards are ranked and priced in the [M2 best cards guide](/blog/m2-best-cards/), where the two Charizard prints hold 92.63 percent of the top-10 total."
     ]
   },
   "is-m2a-worth-buying": {
@@ -29342,7 +29342,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the MEGA era its biggest checklist and its first Mega Attack Rare cards, sealed in either format, and it is not worth buying as a way to own one named card or to make the money back by opening. The Mega Gengar ex SAR sat at a ¥32,500 lowest ask on SNKRDUNK on September 30, 2026, about $203, which is 2.08 boxes, and the same Pokémon in the MA frame asks about $12. Buy the single, and check the number.",
       "It is worth buying with the fall in mind: the box dropped $17.22 in six days, from $114.77 to $97.55, fifteen percent in one leg on November 13, 2026, the same fifteen percent that fell on every Japanese box on this shelf the same day. The chase fell faster: the Gengar SAR dropped 41.96 percent in a month, from the ¥56,000 low end of Buyee's August 2026 range to ¥32,500. A box bought as an investment can fall as fast as it rose.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of August to October 2026. The box now sits $2.44 below Dexhaul's November 6 low ask, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) runs the box and the case side by side, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict on the cheapest MEGA box, where the case rule runs the other way. The [M2a MEGA Dream ex investment guide](/blog/m2a-investment/) carries the verdict forward with the fresh market box and the case division."
+      "For the price-and-math companion, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) runs the box and the case side by side, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict on the cheapest MEGA box, where the case rule runs the other way. The [M2a MEGA Dream ex investment guide](/blog/m2a-investment/) carries the verdict forward with the fresh market box and the case division. The ten best cards are ranked and priced in the [M2a best cards guide](/blog/m2a-best-cards/), where the Mega Gengar ex SAR alone is $243.11."
     ]
   },
   "is-m3-worth-buying": {
@@ -45611,6 +45611,368 @@ export const POSTS: Record<string, BlogPost> = {
       "M1S is the cheaper twin: $8.45 less per box and $118.17 less per case than M1L Mega Brave, with the same 30-pack box and 92-card structure."
     ]
   },
+  "m2-best-cards": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "The Special Art Rare Mega Charizard X ex, 110/080, at $654.46 on TCGplayer market as of November 24, 2026, per Sparkl. It is 47.53 percent of the top-10 total of $1,377.04 and 45.92 percent of the whole $1,425.22 set, or 4.20 boxes at the Warehouse shelf price of $155.70. It costs more than the gold Mega Ultra Rare at $621.14 on TCGplayer, while in Japan the gold is dearer, listed at 128,000 yen against 89,800 yen for the art at yuyu-tei on October 28, 2026, so check the market, not just the card, before you pay.",
+        "q": "What is the most valuable card in M2 Inferno X?"
+      },
+      {
+        "a": "The top 10 as singles, by a wide margin. One of each of the 10 best cards costs $1,377.04 on TCGplayer market as of November 24, 2026, which is 8.84 boxes at $155.70, and the complete set of 116 priced cards is $1,425.22, or 9.15 boxes. The Pokemon Company publishes no pull rates for M2, so no box carries a calculated chance of holding the Charizard, and the two top cards together cost $1,275.60, which is $141.96 more than a whole sealed case. Buy the box to open the set, buy the case at $1,133.64 for $94.47 a box if twelve boxes is the plan, and buy the singles for the named cards.",
+        "q": "Is it cheaper to buy the top 10 M2 cards or open boxes to pull them?"
+      },
+      {
+        "a": "The two markets rank the pair in opposite order, and both reads are dated. On TCGplayer the art is $654.46 and the gold is $621.14 as of November 24, 2026, per Sparkl, while at yuyu-tei in Tokyo on October 28, 2026 the gold lists at 128,000 yen and the art at 89,800 yen. Converted at 159.07 yen per dollar, the Japanese gold is $804.68 and the Japanese art is $564.53, so the gold carries a $183.54 premium in Tokyo and the art sits $89.93 below its TCGplayer price there. The gap is a market difference, not a card difference, and it moves, so check both markets before you pay.",
+        "q": "Why is the Special Art Rare worth more than the gold on TCGplayer but less in Japan?"
+      }
+    ],
+    "h1": "M2 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the 10 best cards in M2 Inferno X total $1,377.04 on TCGplayer market as of November 24, 2026, and the two Mega Charizard X ex prints on top are $1,275.60 of that, or 92.63 percent. The Special Art Rare at $654.46 costs more than the gold Mega Ultra Rare at $621.14 on TCGplayer, while in Japan the gold costs more, and the other 106 cards total $48.18. Buy the top 10 as singles for $1,377.04, the box for $155.70, or the case at $1,133.64 for $94.47 a box; never buy sealed product to pull the Charizard, because the SAR costs 4.20 boxes.",
+      "Who this is for: the collector who wants the ten cards that hold the set's value, and the buyer choosing between box, case, and singles. Who it is not for: anyone chasing the Charizard by opening boxes, who should buy the single instead; anyone who wants value spread across many cards; and anyone who needs the prices to hold, because the set is down 8.6 percent in 90 days."
+    ],
+    "metaDescription": "The 10 best M2 Inferno X cards total $1,377.04 on TCGplayer, Nov 24, 2026. Charizard art is $654.46, 47.53% of the top 10. Box, case, singles, divided.",
+    "metaTitle": "M2 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: two cards are 92 percent of the top 10",
+        "math": [
+          "M2 Japanese box per pack: $155.70 / 30 packs = $5.19 per pack",
+          "M2 Japanese box per card: $155.70 / 150 cards = $1.04 per card",
+          "M2 sealed case per box: $1,133.64 / 12 boxes = $94.47 per box",
+          "M2 sealed case per pack: $1,133.64 / 360 packs = $3.15 per pack",
+          "M2 sealed case per card: $1,133.64 / 1,800 cards = $0.63 per card",
+          "M2 case saving vs 12 single boxes: (12 x $155.70) - $1,133.64 = $734.76 per case",
+          "M2 case saving per box: $734.76 / 12 boxes = $61.23 per box",
+          "M2 Japanese box vs official: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.07 = $33.95; $155.70 - $33.95 = $121.75 above official",
+          "M2 Japanese box vs official ratio: $155.70 / $33.95 = 4.59x official",
+          "M2 box vs market box: $155.70 - $113.65 = $42.05 above market",
+          "M2 box vs market box percent: $42.05 / $113.65 = 37.00% above market",
+          "M2 case per box vs market box: $113.65 - $94.47 = $19.18 below market",
+          "M2 case per box vs market box percent: $19.18 / $113.65 = 16.88% below market",
+          "M2 case vs 12 market boxes: (12 x $113.65) - $1,133.64 = $230.16 per case",
+          "M2 market box rise, Nov 17 to Nov 24: $113.65 - $104.86 = $8.79; $8.79 / $104.86 = 8.38% up",
+          "M2 market pack vs our per-pack price: $5.19 - $3.18 = $2.01; $2.01 / $3.18 = 63.21% above market"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about M2 is which Charizard to chase first, and the answer is the same every time: the art, not the gold, on TCGplayer, because the Special Art Rare at $654.46 sits $33.32 above the gold at $621.14, while in Japan the gold is the dearer card. What we see in allocation is that buyers who open for the Charizard keep opening after the Oricorio, because the Oricorio feels close to the top two, and it is not close: the Oricorio is $25.18 and the pair is $1,275.60. Decide the card before you decide the route.",
+        "paragraphs": [
+          "The concentration is the whole story. The two Mega Charizard X ex prints on top cost $1,275.60 together, which is 92.63 percent of the top-10 total and 89.50 percent of the whole $1,425.22 set, so two cards hold about nine tenths of the value. The top five total $1,343.04, or 94.23 percent of the set, and the top 10 total $1,377.04, or 96.62 percent of it. The other 106 cards total $48.18, an average of $0.45 a card, and 107 of the 116 sit under $5.",
+          "The verdict follows the concentration. The top 10 as singles cost $1,377.04, or 8.84 boxes at our $155.70 shelf price, and the complete set is $1,425.22, or 9.15 boxes. The [M2 Inferno X sealed case](/product/m2-inferno-x-sealed-case-12-boxes-japanese-pokemon-card) at $1,133.64 divides to $94.47 a box, and the top 10 total is 121.47 percent of that case. The [M2 Inferno X Japanese booster box](/product/m2-inferno-x-booster-box-japanese-pokemon-card) at $155.70 is $42.05 above the $113.65 market box, while the case box sits $19.18 below it.",
+          "Best here means most valuable, not most playable. The same Mega Charizard X ex that costs $654.46 as a Special Art Rare also prints as a Double Rare at 013/080, which Sparkl prices at $2.57, so a player buys the cheap print, a collector the art. Every card price here is a TCGplayer Near Mint market price from Sparkl, updated November 24, 2026, unless another source is named. TCGPursuit's November 23, 2026 read agrees on the top five to the cent."
+        ]
+      },
+      {
+        "h": "The money layer: the top 10, divided",
+        "math": [
+          "Top 10 total: $654.46 + $621.14 + $25.18 + $22.18 + $20.08 + $9.39 + $8.81 + $6.47 + $5.01 + $4.32 = $1,377.04",
+          "Top 10 share of set value: $1,377.04 / $1,425.22 = 96.62%",
+          "Top 5 total: $654.46 + $621.14 + $25.18 + $22.18 + $20.08 = $1343.04",
+          "Top 5 share of set value: $1343.04 / $1,425.22 = 94.23%",
+          "Top 5 share of top 10: $1343.04 / $1,377.04 = 97.53%",
+          "Top 2 total: $654.46 + $621.14 = $1275.60",
+          "Top 2 share of top 10: $1275.60 / $1,377.04 = 92.63%",
+          "Top 2 share of set value: $1275.60 / $1,425.22 = 89.50%",
+          "Top 2 vs cards 3 to 10: $1,377.04 - $1275.60 = $101.44; $1275.60 / $101.44 = 12.57x the rest",
+          "Charizard SAR share of top 10: $654.46 / $1,377.04 = 47.53%",
+          "Charizard MUR share of top 10: $621.14 / $1,377.04 = 45.11%",
+          "Charizard SAR vs MUR: $654.46 - $621.14 = $33.32; $33.32 / $621.14 = 5.36% above the gold",
+          "Charizard SAR vs Japanese box: $654.46 / $155.70 = 4.20 boxes",
+          "Charizard MUR vs Japanese box: $621.14 / $155.70 = 3.99 boxes",
+          "Oricorio ex SAR vs Japanese box: $25.18 / $155.70 = 0.16 boxes",
+          "Mega Charizard X ex SR vs Japanese box: $22.18 / $155.70 = 0.14 boxes",
+          "Dawn SAR vs Japanese box: $20.08 / $155.70 = 0.13 boxes",
+          "Mega Sharpedo ex SAR vs Japanese box: $9.39 / $155.70 = 0.06 boxes",
+          "Rotom ex SAR vs Japanese box: $8.81 / $155.70 = 0.06 boxes",
+          "Mega Lopunny ex SAR vs Japanese box: $6.47 / $155.70 = 0.04 boxes",
+          "Dawn SR vs Japanese box: $5.01 / $155.70 = 0.03 boxes",
+          "Piplup AR vs Japanese box: $4.32 / $155.70 = 0.03 boxes",
+          "Top 10 vs Japanese box: $1,377.04 / $155.70 = 8.84 boxes",
+          "Top 10 vs case per box: $1,377.04 / $94.47 = 14.58 boxes",
+          "Top 10 vs sealed case: $1,377.04 / $1,133.64 = 121.47% of a case",
+          "Complete set vs Japanese box: $1,425.22 / $155.70 = 9.15 boxes",
+          "Complete set vs sealed case: $1,425.22 / $1,133.64 = 125.72% of a case",
+          "Rest of set, cards 11 to 116: $1,425.22 - $1,377.04 = $48.18; $48.18 / 106 cards = $0.45 per card",
+          "Charizard RR vs SAR: $654.46 / $2.57 = 254.65x the Double Rare"
+        ],
+        "paragraphs": [
+          "The table below is the ranking, with every card's share of the top-10 total and its price in boxes. Sparkl updated these TCGplayer Near Mint market prices on November 24, 2026, and TCGPursuit's November 23, 2026 read agrees on all ten, with the bottom five within 8 cents: Sharpedo $9.44 against $9.39, Lopunny $6.40 against $6.47, Dawn $5.09 against $5.01, Piplup $4.37 against $4.32. CardCodex disagrees on the gold, reading the Mega Ultra Rare at $633.12, $11.98 above Sparkl's $621.14, and Oricorio at $25.76, $0.58 above it, so the gold carries a stated spread.",
+          "Three divisions carry the decision. First, the top 10 total $1,377.04, which is 8.84 boxes, 14.58 case-boxes, and 121.47 percent of a sealed case. Second, the top two are 12.57 times the other eight combined, $1,275.60 against $101.44, so the top of the list is a cliff, not a ladder. Third, the Charizard pair shows the art tax in reverse: the Special Art Rare at $654.46 costs 1.05 times the gold at $621.14. The [M2 investment guide](/blog/m2-investment/) runs the same shelf a week earlier, when the market box was $104.86."
+        ],
+        "table": {
+          "head": [
+            "Rank",
+            "Card",
+            "No.",
+            "Rarity",
+            "Price",
+            "Share of top 10",
+            "In boxes"
+          ],
+          "rows": [
+            [
+              "1",
+              "Mega Charizard X ex",
+              "110/080",
+              "Special Art Rare",
+              "$654.46",
+              "47.53%",
+              "4.20"
+            ],
+            [
+              "2",
+              "Mega Charizard X ex",
+              "116/080",
+              "Mega Ultra Rare",
+              "$621.14",
+              "45.11%",
+              "3.99"
+            ],
+            [
+              "3",
+              "Oricorio ex",
+              "111/080",
+              "Special Art Rare",
+              "$25.18",
+              "1.83%",
+              "0.16"
+            ],
+            [
+              "4",
+              "Mega Charizard X ex",
+              "094/080",
+              "Super Rare",
+              "$22.18",
+              "1.61%",
+              "0.14"
+            ],
+            [
+              "5",
+              "Dawn",
+              "115/080",
+              "Special Art Rare",
+              "$20.08",
+              "1.46%",
+              "0.13"
+            ],
+            [
+              "6",
+              "Mega Sharpedo ex",
+              "113/080",
+              "Special Art Rare",
+              "$9.39",
+              "0.68%",
+              "0.06"
+            ],
+            [
+              "7",
+              "Rotom ex",
+              "112/080",
+              "Special Art Rare",
+              "$8.81",
+              "0.64%",
+              "0.06"
+            ],
+            [
+              "8",
+              "Mega Lopunny ex",
+              "114/080",
+              "Special Art Rare",
+              "$6.47",
+              "0.47%",
+              "0.04"
+            ],
+            [
+              "9",
+              "Dawn",
+              "106/080",
+              "Super Rare",
+              "$5.01",
+              "0.36%",
+              "0.03"
+            ],
+            [
+              "10",
+              "Piplup",
+              "085/080",
+              "Art Rare",
+              "$4.32",
+              "0.31%",
+              "0.03"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: the 10 cards, one by one",
+        "paragraphs": [
+          "1. Mega Charizard X ex, 110/080, Special Art Rare, $654.46. The art is 47.53 percent of the top 10 and 4.20 boxes, the dearest card in the set on TCGplayer, though not in Japan, down 7.59 percent since October 30, from $708.18. The [M2 Inferno X buyer's guide](/blog/m2-inferno-x-buyers-guide/) carries the full 116-card breakdown. 2. Mega Charizard X ex, 116/080, Mega Ultra Rare, $621.14. The gold is 45.11 percent of the top 10 and 3.99 boxes, one of the first Mega Ultra Rares ever printed. In Japan it is the dearer card, 128,000 yen at yuyu-tei on October 28, 2026, against 89,800 yen for the art. 3. Oricorio ex, 111/080, Special Art Rare, $25.18. The third card is 1.83 percent of the top 10 and 0.16 of a box, the cliff edge: $596 below the gold above it. 4. Mega Charizard X ex, 094/080, Super Rare, $22.18. The second Charizard print is 1.61 percent of the top 10 and 0.14 of a box, the steadiest on the list, down 0.89 percent since October 30, from $22.38. 5. Dawn, 115/080, Special Art Rare, $20.08. The last card above $20, 1.46 percent of the top 10 and 0.13 of a box, down 5.59 percent since October 30, from $21.27.",
+          "6. Mega Sharpedo ex, 113/080, Special Art Rare, $9.39. The sharpest faller, down 19.61 percent since October 30, from $11.68, at 0.68 percent of the top 10, 0.06 of a box. 7. Rotom ex, 112/080, Special Art Rare, $8.81. Next, down 13.37 percent since October 30, from $10.17, at 0.64 percent of the top 10, 0.06 of a box. 8. Mega Lopunny ex, 114/080, Special Art Rare, $6.47. The last Special Art Rare, 0.47 percent of the top 10 and 0.04 of a box, down 4.15 percent since October 30, from $6.75. 9. Dawn, 106/080, Super Rare, $5.01. The same Trainer as number 5, one rarity tier down, at 0.36 percent of the top 10, 0.03 of a box. The Special Art Rare costs 4.01 times this Super Rare, $20.08 against $5.01, so the $15.07 gap is pure art. The [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the prints. 10. Piplup, 085/080, Art Rare, $4.32. The cheapest chase art in the set, 0.31 percent of the top 10 and 0.03 of a box, and the first card of the secret tier. The cutoff is tight, so buy the art you want, not the rank."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, singles, or English",
+        "math": [
+          "Phantasmal Flames box per pack: $387.12 / 36 packs = $10.75 per pack",
+          "Top 10 plus one box: $1,377.04 + $155.70 = $1532.74",
+          "Top 10 vs complete set: $1,425.22 - $1,377.04 = $48.18 for the other 106 cards",
+          "Top 2 vs sealed case: $1,275.60 - $1,133.64 = $141.96 above one case",
+          "Phantasmal Flames box vs M2 box: $387.12 - $155.70 = $231.42 per box",
+          "Phantasmal Flames box vs M2 case per box: $387.12 / $94.47 = 4.10 boxes",
+          "English SIR vs Japanese SAR: $654.46 - $604.08 = $50.38; $50.38 / $604.08 = 8.34% above English"
+        ],
+        "paragraphs": [
+          "Seven ways to spend on M2, priced as of November 24, 2026, except the English box, a November 2 read. The singles win for named cards, the case wins for volume, and the box wins for opening, and no row wins twice. The [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on this shelf.",
+          "Read the table from the job, not the price. A buyer who wants the ten cards buys them for $1,377.04, because 8.84 boxes cost the same money and hold no promise of any of them, and the Pokemon Company publishes no pull rates for M2. A buyer who wants twelve boxes buys the case at $1,133.64, because $94.47 a box sits $19.18 below the market box. The English Charizard costs $387.12 as a Phantasmal Flames box on TCGplayer as of November 2, 2026, or $604.08 as the single as of November 17. One Japanese box at the market price means waiting: our single box is $42.05 above it. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks M2 the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Top 10 as singles",
+              "$1,377.04",
+              "n/a",
+              "Owning the ten cards that hold 96.62% of the set",
+              "No sealed upside; condition and grading risk"
+            ],
+            [
+              "Complete set as singles",
+              "$1,425.22",
+              "n/a",
+              "Owning all 116 priced cards at once",
+              "$48.18 more than the top 10 for 106 cards averaging $0.45"
+            ],
+            [
+              "Japanese box",
+              "$155.70",
+              "$5.19",
+              "Opening Inferno X in Japanese",
+              "37.00% above the $113.65 market box; no published pull rates"
+            ],
+            [
+              "Sealed case (12)",
+              "$1,133.64",
+              "$3.15",
+              "Twelve boxes below the market box",
+              "$1,133.64 committed at once; the two top cards alone cost $141.96 more"
+            ],
+            [
+              "Market box",
+              "$113.65",
+              "$3.79",
+              "One box at the market price",
+              "No case discount; shipping and import on top"
+            ],
+            [
+              "Market pack",
+              "$3.18",
+              "$3.18",
+              "One pack at the market price",
+              "$3.18 a pack with no box discount"
+            ],
+            [
+              "Phantasmal Flames box (English)",
+              "$387.12",
+              "$10.75",
+              "Opening the English set for the Charizard SIR",
+              "4.10 M2 case-boxes for one English box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top three results do not answer",
+        "note": "From the Warehouse: what we see in allocation is that buyers arrive with a top-10 list from a price site and no plan for what to do with it, because the list never says whether to buy the cards, the box, or the case. The list is the start of the decision, not the decision, and the division is the part only a store that stocks all three can run: $1,377.04 for the cards, $155.70 for the box, $1,133.64 for the case, each against the same market box of $113.65.",
+        "paragraphs": [
+          "The top three results all do less, and their headings set the floor this page has to clear. Sparkl lists the full 116-card price list with TCGplayer market prices updated November 24, 2026. Poke-life lists the chase cards with TCGplayer prices as of October 30, 2026. TCGPursuit lists the ten highest TCGplayer market prices with a 7-day move table, updated November 23, 2026.",
+          "None of the three divides a live store shelf against the ranking. None states that the top 10 total $1,377.04, or that the top two are 92.63 percent of that total, or that the top 10 cost 8.84 boxes and 121.47 percent of a case. None prices the box at $155.70, the case at $94.47 a box, and the market box at $113.65 against each other, and none notes that the two markets rank the top two in opposite order.",
+          "Five things only this page owns. First, the top-10 total with per-card shares and box ratios, from Sparkl's November 24, 2026 read. Second, the shelf divisions: box $5.19 a pack, case $3.15 a pack, market box $113.65, all as of November 24, 2026. Third, the falls since October 30: Sharpedo down 19.61 percent, Rotom down 13.37 percent, the art down 7.59 percent, the gold down 6.13 percent. Fourth, the Japan inversion, with the gold dearer in Tokyo and the art dearer on TCGplayer, converted at 159.07 yen per dollar. Fifth, the English comparison, with the Phantasmal Flames Charizard at $604.08 against the Japanese art at $654.46. The [M2 Inferno X buyer's guide](/blog/m2-inferno-x-buyers-guide/) prices the whole set the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: the Charizard slide, the ask-sale gap, and the 110/116 trap",
+        "math": [
+          "Charizard SAR fall, Oct 30 to Nov 24: $708.18 - $654.46 = $53.72; $53.72 / $708.18 = 7.59% down",
+          "Charizard MUR fall, Oct 30 to Nov 24: $661.69 - $621.14 = $40.55; $40.55 / $661.69 = 6.13% down",
+          "Oricorio ex SAR fall, Oct 30 to Nov 24: $26.13 - $25.18 = $0.95; $0.95 / $26.13 = 3.64% down",
+          "Mega Charizard X ex SR fall, Oct 30 to Nov 24: $22.38 - $22.18 = $0.20; $0.20 / $22.38 = 0.89% down",
+          "Dawn SAR fall, Oct 30 to Nov 24: $21.27 - $20.08 = $1.19; $1.19 / $21.27 = 5.59% down",
+          "Mega Sharpedo ex SAR fall, Oct 30 to Nov 24: $11.68 - $9.39 = $2.29; $2.29 / $11.68 = 19.61% down",
+          "Rotom ex SAR fall, Oct 30 to Nov 24: $10.17 - $8.81 = $1.36; $1.36 / $10.17 = 13.37% down",
+          "Mega Lopunny ex SAR fall, Oct 30 to Nov 24: $6.75 - $6.47 = $0.28; $0.28 / $6.75 = 4.15% down",
+          "Dawn SR fall, Oct 30 to Nov 24: $5.04 - $5.01 = $0.03; $0.03 / $5.04 = 0.60% down",
+          "Piplup AR fall, Oct 30 to Nov 24: $4.73 - $4.32 = $0.41; $0.41 / $4.73 = 8.67% down",
+          "Complete set fall, Oct 30 to Nov 24: $1,527.00 - $1,425.22 = $101.78; $101.78 / $1,527.00 = 6.67% down",
+          "Complete set fall, 90 days: $1,559.68 - $1,425.22 = $134.46; $134.46 / $1,559.68 = 8.62% down",
+          "English SIR tracker gap: $604.08 - $522.94 = $81.14; $81.14 / $604.08 = 13.43% apart",
+          "Japan gold buyback share: 90,000 yen / 128,000 yen = 70.31% of ask",
+          "Japan art buyback share: 63,000 yen / 89,800 yen = 70.16% of ask"
+        ],
+        "paragraphs": [
+          "The first risk is the slide. The Sharpedo fell 19.61 percent in 25 days, from $11.68 to $9.39, and the Rotom fell 13.37 percent in the same span, from $10.17 to $8.81, while the art fell only 7.59 percent, from $708.18 to $654.46, and the gold 6.13 percent, from $661.69 to $621.14. The set fell 6.67 percent in the same span, from $1,527 to $1,425.22, and 8.6 percent over 90 days, from $1,559.68 to $1,425.22.",
+          "The second risk is the ask-sale gap. The English Charizard carries a $604.08 TCGplayer raw read on November 17, 2026, per pokeinsider, while Double Holo's November 22 read is $522.94, an $81.14 gap between two trackers, so the English number is a range, not a point. In Japan the spread is public: yuyu-tei's October 28 buyback on the gold is 90,000 yen against a 128,000 yen ask, and the art buys back at 63,000 yen against 89,800 yen, both about 70 percent, so a seller takes a 30 percent haircut.",
+          "Third is the 110/116 trap. Both top cards are Mega Charizard X ex, 110/080 and 116/080, and the same Pokemon prints twice more here, as a Super Rare at 094/080 for $22.18 and a Double Rare at 013/080 for $2.57, so a name search can pay art money for the cheap print. Check the number and the rarity, not the name, and check the language: the English art at $604.08 is a different card. The fourth risk is a reseal: check the factory shrink-wrap and photograph the box, because a reseal claim is only provable while the seal is unbroken. If the plan fails, stop opening and buy the single. The [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal checks."
+        ]
+      },
+      {
+        "h": "Context: Japan against English, and the market that ranks them backwards",
+        "math": [
+          "Japan gold in dollars: 128,000 yen / 159.07 = $804.68",
+          "Japan art in dollars: 89,800 yen / 159.07 = $564.53",
+          "Japan gold vs art: 128,000 yen - 89,800 yen = 38,200 yen; 38,200 yen / 89,800 yen = 42.54% above the art",
+          "Japan gold vs TCGplayer gold: $804.68 - $621.14 = $183.54; $183.54 / $621.14 = 29.55% above TCGplayer",
+          "TCGplayer art vs Japan art: $654.46 - $564.53 = $89.93; $89.93 / $564.53 = 15.93% above Japan",
+          "Japanese art vs English art: $654.46 - $604.08 = $50.38; $50.38 / $604.08 = 8.34% above English",
+          "Japanese gold vs English gold: $621.14 - $200.00 = $421.14; $421.14 / $200.00 = 210.57% above English",
+          "Japanese gold vs English gold ratio: $621.14 / $200.00 = 3.11x English",
+          "M2a box per pack: $97.55 / 10 packs = $9.76 per pack",
+          "M2 box vs M2a box: $155.70 - $97.55 = $58.15 per box"
+        ],
+        "paragraphs": [
+          "Inferno X, M2, released in Japan on Friday, September 26, 2025, with no twin, and reached English in Phantasmal Flames on Friday, November 14, 2025. The set is 116 cards: 80 in the base set, 001 to 080, and 36 in the secret tier, 081 to 116, as 12 Art Rares, 17 Super Rares, 6 Special Art Rares, and 1 Mega Ultra Rare. Japanese cards are not legal at official English events. The language gap is real: the Japanese art at $654.46 sits $50.38 above the English art at $604.08, while the Japanese gold at $621.14 sits $421.14 above the English gold at $200.00.",
+          "The inversion is what the price lists hide. On TCGplayer the art is the dearer card, $654.46 against $621.14 for the gold, but in Japan the gold is dearer, 128,000 yen against 89,800 yen at yuyu-tei on October 28, 2026. At the ECB November 23, 2026 fixing of 159.07 yen per dollar, the Japanese gold is $804.68 and the Japanese art is $564.53, so the gold carries a $183.54 premium over its TCGplayer price in Tokyo, and the art sits $89.93 below its TCGplayer price there. Shop one market and pay the other market's price, and you overpay by that gap.",
+          "The next set frames the same choice. M2a MEGA Dream ex, the next set, lists its Japanese booster box at $97.55, or $9.76 a pack, against $155.70 for M2, and the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) prices it the same way. A pack cost 180 yen including tax at release, so a box listed at 5,400 yen, or $33.95 at the ECB November 23, 2026 fixing of 159.07 yen per dollar, the latest as of November 24, 2026. The [M1L best cards guide](/blog/m1l-best-cards/) and the [M1S best cards guide](/blog/m1s-best-cards/) rank the twin sets the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing the Charizard by opening boxes, who should buy the single at $654.46 or $621.14, because the art is 4.20 boxes, the gold is 3.99 boxes, and the Pokemon Company publishes no pull rates. It is not for anyone who wants value spread across many cards, because two cards hold 89.50 percent of the set. It is not for anyone who needs the prices to hold, because the set is down 8.6 percent in 90 days and the Sharpedo fell 19.61 percent in 25 days. It is not for anyone who wants the English Charizard, which is Phantasmal Flames at $604.08 for the art."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the ten cards, open the set, hold twelve boxes sealed, or own the Charizard.",
+          "If the job is the ten cards, buy the singles for $1,377.04, and check the number on the Charizard, because both top cards share the name and the art is 110/080 while the gold is 116/080.",
+          "If the job is the Charizard, buy the single at $654.46 for the art or $621.14 for the gold, and do not open boxes for it, because the art costs 4.20 boxes and no pull rate prices the chase.",
+          "If the job is one box, check the pack count first: 30 packs, $5.19 a pack, not 20 packs at $7.79, and know the box sits $42.05 above the $113.65 market box.",
+          "If the job is twelve boxes, take the case at $1,133.64, or $94.47 a box, which is $19.18 below the market box, and do not pay $155.70 for a single box unless one box is truly the plan.",
+          "If the job is the Sharpedo or the Rotom, re-check the price before you pay, because they fell 19.61 percent and 13.37 percent in 25 days and have not found their floor yet.",
+          "If the job is the English Charizard, know the shelf first: the Phantasmal Flames art is $604.08 and the gold is $200.00, and Japanese cards are not legal at official English events.",
+          "Check the wrap and seams before you pay, and remember the market box rose $8.79 in a week, so re-divide the case saving before you commit $1,133.64."
+        ],
+        "h": "Action layer: the M2 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 24, 2026, the card prices from Sparkl's November 24, 2026 TCGplayer read unless another source is named, so re-divide before you pay."
+        ]
+      }
+    ],
+    "slug": "m2-best-cards",
+    "takeaway": [
+      "The 10 best cards in M2 Inferno X total $1,377.04 on TCGplayer market as of November 24, 2026, and the two Mega Charizard X ex prints on top are $1,275.60 of that, or 92.63 percent, while the other 106 cards total $48.18, an average of $0.45 a card, so this set is two cards and eight followers.",
+      "It is worth buying as singles for $1,377.04, which is 8.84 boxes, and it is not worth buying as sealed product to pull the Charizard, because the art costs 4.20 boxes and the gold 3.99 boxes and the Pokemon Company publishes no pull rates. The box at $155.70 is $42.05 above the $113.65 market box, while the case at $1,133.64 divides to $94.47 a box, $19.18 below it, so the case is the only sealed route on this shelf that beats the market.",
+      "It is worth buying with the falls in mind: the Sharpedo fell 19.61 percent in 25 days, from $11.68 to $9.39, and the Rotom fell 13.37 percent, while the art fell only 7.59 percent and the gold 6.13 percent and the set fell 6.67 percent in the same span. The market price is the ask side, not the last sale: the English Charizard carries a $604.08 read on one tracker and $522.94 on another five days later, and the Japanese buyback on the gold is about 70 percent of the ask.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 24, 2026, and the card prices from Sparkl's November 24, 2026 TCGplayer read, cross-checked against TCGPursuit. For the price-and-math companions, the [M2 investment guide](/blog/m2-investment/) runs the case flip, the [M2 Inferno X buyer's guide](/blog/m2-inferno-x-buyers-guide/) carries the full 116-card breakdown, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin sets.",
+      "The twin sets get the same treatment in the [M1L best cards guide](/blog/m1l-best-cards/), where the ten best cards total $469.02 led by the gold Mega Lucario ex at $253.35, and the [M1S best cards guide](/blog/m1s-best-cards/), where the ten best total $380.50 led by the gold Mega Gardevoir ex at $217.82. The high-class pack beside M2 gets the same treatment in the [M2a best cards guide](/blog/m2a-best-cards/), where the ten best total $977.93 led by the Mega Gengar ex SAR at $243.11."
+    ]
+  },
   "m2-inferno-x-buyers-guide": {
     "datePublished": "2026-11-03",
     "faqs": [
@@ -46046,7 +46408,372 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the neighbours in mind: M1L Mega Brave is $80.67 a box and M1S Mega Symphonia is $72.22, so one M2 box costs $2.81 more than both launch boxes together, and M2a MEGA Dream ex is $97.55 for 10 packs of 10 cards. In English the Charizard prints live in Phantasmal Flames, released November 14, 2025, and Japanese cards are not legal in English sanctioned play, so the Japanese box is a collector's box, not a tournament box.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of October 28 to November 17, 2026. The box is down 23 percent in 90 days while the set value is down only 7.2 percent, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M2 Inferno X buyer's guide](/blog/m2-inferno-x-buyers-guide/) divides the same shelf set by set, and the [is M1L worth buying guide](/blog/is-m1l-worth-buying/) prices the launch set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
-      "The twin launch set gets the same treatment in the [M1S Mega Symphonia investment guide](/blog/m1s-investment/), which prices the cheaper twin the same way, with its box $5.33 below its market box and its case dividing to $54.77. The high-class pack beside M2 gets the same treatment in the [M2a MEGA Dream ex investment guide](/blog/m2a-investment/), which divides the $97.55 box and the $1,579.78 case against the market box."
+      "The twin launch set gets the same treatment in the [M1S Mega Symphonia investment guide](/blog/m1s-investment/), which prices the cheaper twin the same way, with its box $5.33 below its market box and its case dividing to $54.77. The high-class pack beside M2 gets the same treatment in the [M2a MEGA Dream ex investment guide](/blog/m2a-investment/), which divides the $97.55 box and the $1,579.78 case against the market box. The ten best cards are ranked and priced in the [M2 best cards guide](/blog/m2-best-cards/), where the two Charizard prints hold 92.63 percent of the top-10 total."
+    ]
+  },
+  "m2a-best-cards": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "The Mega Gengar ex SAR, 240/193, at $243.11 on TCGplayer market as of November 23, 2026, per TickerMint. It is 24.86 percent of the top-10 total of $977.93 and 20.21 percent of the whole $1,203 set, or 2.49 boxes at the Warehouse shelf price of $97.55. It outranks the gold Mega Dragonite ex at $172.36 even though the gold is the rarest card in the set, the sole Mega Ultra Rare, and it is the first time a Special Art Rare has outranked a Mega Ultra Rare gold since the treatment arrived with Mega Brave and Mega Symphonia.",
+        "q": "What is the most valuable card in M2a Mega Dream ex?"
+      },
+      {
+        "a": "The top 10 as singles, by a wide margin. One of each of the 10 best cards costs $977.93 on TCGplayer market as of November 23, 2026, which is 10.02 boxes at $97.55, and the complete set of 250 cards is $1,203, or 12.33 boxes. The Pokemon Company publishes no pull rates for M2a, so no box carries a calculated chance of holding the Gengar, and Kaikan's chase table lists the Gengar SAR at 1 in 42. Buy the box to open the set, buy the case at $1,579.78 for $78.99 a box if twenty boxes is the plan, and buy the singles for the named cards.",
+        "q": "Is it cheaper to buy the top 10 M2a cards or open boxes to pull them?"
+      },
+      {
+        "a": "The market repriced them as packs opened. The Gengar SAR sat at $594 at launch in December 2025, per PokeBeach's Japanese store survey, and $243.11 on TickerMint's November 23, 2026 read, a fall of $350.89, or 59.07 percent. The Mewtwo fell 70.47 percent over the same span, from $255 to $75.29, and the Iono fell 77.92 percent, from $101 to $22.30. The Pikachu held best, down only 23.43 percent from $274 to $209.80. The fall is a launch-to-now correction across the whole chase tier, not a single-card event, but a buyer who pays a launch price for the Iono overpays by $78.70.",
+        "q": "Why did the M2a chase cards fall so far from launch?"
+      }
+    ],
+    "h1": "M2a Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the 10 best cards in M2a Mega Dream ex total $977.93 on TCGplayer market as of November 23, 2026, and the Mega Gengar ex SAR alone is $243.11, or 24.86 percent of that total and 20.21 percent of the whole $1,203 set. The top five carry 86.31 percent of the top 10. Buy the top 10 as singles for $977.93, the box for $97.55 to open the set, or the case at $1,579.78 for $78.99 a box; never buy sealed product to pull the Gengar, because it costs 2.49 boxes and no pull rate prices the chase.",
+      "Who this is for: the collector who wants the ten cards that hold the set's value, and the buyer choosing between a box, a case, and singles. Who it is not for: anyone chasing the Gengar by opening boxes, who should buy the single at $243.11; anyone who wants value spread across many cards; and anyone who needs the launch prices to hold."
+    ],
+    "metaDescription": "The 10 best M2a cards total $977.93 on TCGplayer, Nov 23, 2026. The Gengar SAR alone is $243.11, 24.86% of the top 10. Box, case, and singles, divided.",
+    "metaTitle": "M2a Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: the Gengar leads, the Dragonite follows",
+        "math": [
+          "M2a Japanese box per pack: $97.55 / 10 packs = $9.76 per pack",
+          "M2a Japanese box per card: $97.55 / 100 cards = $0.98 per card",
+          "M2a sealed case per box: $1,579.78 / 20 boxes = $78.99 per box",
+          "M2a sealed case per pack: $1,579.78 / 200 packs = $7.90 per pack",
+          "M2a sealed case per card: $1,579.78 / 2,000 cards = $0.79 per card",
+          "M2a sealed case saving vs 20 single boxes: (20 x $97.55) - $1,579.78 = $371.22 per case",
+          "M2a sealed case saving per box: $97.55 - $78.99 = $18.56 per box",
+          "M2a Japanese box vs official: 10 packs x 550 yen = 5,500 yen; 5,500 yen / 159.07 = $34.58; $97.55 - $34.58 = $62.97 above official",
+          "M2a Japanese box vs official ratio: $97.55 / $34.58 = 2.82x official",
+          "M2a box vs market box: $97.55 - $77.91 = $19.64 above market",
+          "M2a box vs market box percent: $19.64 / $77.91 = 25.21% above market",
+          "M2a case per box vs market box: $78.99 - $77.91 = $1.08 above market",
+          "M2a case per box vs market box percent: $1.08 / $77.91 = 1.39% above market",
+          "M2a case vs 20 market boxes: $1,579.78 - (20 x $77.91) = $21.58 above the market route"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about M2a is whether the gold Dragonite is the card to chase, because it is the rarest card in the set and it carries the gold treatment. It is not the card to chase: the gold sits at $172.36, third on this list, while the Gengar SAR sits at $243.11, and the gold has fallen 61.35 percent from its $446 launch price while the Gengar has fallen 59.07 percent from $594. What we see in allocation is that buyers who open for the gold keep opening after the Dragonite SAR, because the SAR feels close to the gold, and it is not close: the SAR is $143.46 and the gold is $172.36, but the Gengar is $243.11. Decide the card before you decide the route.",
+        "paragraphs": [
+          "The concentration is the story. The Mega Gengar ex SAR at $243.11 is 24.86 percent of the top-10 total and 20.21 percent of the whole $1,203 set, so one card of 250 holds a fifth of the value. The top five total $844.02, or 86.31 percent of the top 10 and 70.16 percent of the set, and the top 10 total $977.93, or 81.29 percent of it. The other 240 cards total $225.07, an average of $0.94 a card, so the value lives in the 57 secret rares.",
+          "The top 10 as singles cost $977.93, which is 10.02 boxes at the Warehouse shelf price of $97.55, and the complete set is $1,203, or 12.33 boxes. The [M2a MEGA Dream ex sealed case](/product/m2a-mega-dream-ex-sealed-case-20-boxes-japanese-pokemon-card/) at $1,579.78 divides to $78.99 a box. The [M2a MEGA Dream ex booster box](/product/m2a-mega-dream-ex-booster-box-japanese-pokemon-card/) at $97.55 is $19.64 above the $77.91 market box, while the case box sits $1.08 above it, so neither sealed route beats the market this week.",
+          "Best here means most valuable, not most playable. The same Mega Gengar ex that costs $243.11 as a Special Art Rare also prints as a Mega Attack Rare at 230/193, which Double Holo prices at $15.25 on the same November 23 read, so a player buys the cheap print and a collector buys the SAR, and the gap between the two prints is $227.86. Every price here is a TCGplayer market price from TickerMint's November 23, 2026 read, cross-checked against Double Holo and Moonstone, unless another source and date is named. Shelf prices are as of November 24, 2026, and the store lists no M2a singles, so the singles prices are market prices, not shelf prices."
+        ]
+      },
+      {
+        "h": "The money layer: the top 10, divided",
+        "math": [
+          "Top 10 total: $243.11 + $209.80 + $172.36 + $143.46 + $75.29 + $45.67 + $23.06 + $22.30 + $21.48 + $21.40 = $977.93",
+          "Top 10 share of set value: $977.93 / $1,203 = 81.29%",
+          "Top 5 total: $243.11 + $209.80 + $172.36 + $143.46 + $75.29 = $844.02",
+          "Top 5 share of top 10: $844.02 / $977.93 = 86.31%",
+          "Top 5 share of set value: $844.02 / $1,203 = 70.16%",
+          "Top 10 share of secret rares: $977.93 / $1,171.62 = 83.47%",
+          "Mega Gengar ex 240/193 share of top 10: $243.11 / $977.93 = 24.86%",
+          "Mega Gengar ex 240/193 vs Japanese box: $243.11 / $97.55 = 2.49 boxes",
+          "Pikachu ex 234/193 share of top 10: $209.80 / $977.93 = 21.45%",
+          "Pikachu ex 234/193 vs Japanese box: $209.80 / $97.55 = 2.15 boxes",
+          "Mega Dragonite ex 250/193 share of top 10: $172.36 / $977.93 = 17.62%",
+          "Mega Dragonite ex 250/193 vs Japanese box: $172.36 / $97.55 = 1.77 boxes",
+          "Mega Dragonite ex 246/193 share of top 10: $143.46 / $977.93 = 14.67%",
+          "Mega Dragonite ex 246/193 vs Japanese box: $143.46 / $97.55 = 1.47 boxes",
+          "Team Rocket's Mewtwo ex 237/193 share of top 10: $75.29 / $977.93 = 7.70%",
+          "Team Rocket's Mewtwo ex 237/193 vs Japanese box: $75.29 / $97.55 = 0.77 boxes",
+          "N's Zoroark ex 242/193 share of top 10: $45.67 / $977.93 = 4.67%",
+          "N's Zoroark ex 242/193 vs Japanese box: $45.67 / $97.55 = 0.47 boxes",
+          "Steven's Metagross ex 245/193 share of top 10: $23.06 / $977.93 = 2.36%",
+          "Steven's Metagross ex 245/193 vs Japanese box: $23.06 / $97.55 = 0.24 boxes",
+          "Iono's Bellibolt ex 236/193 share of top 10: $22.30 / $977.93 = 2.28%",
+          "Iono's Bellibolt ex 236/193 vs Japanese box: $22.30 / $97.55 = 0.23 boxes",
+          "Mega Charizard X ex 223/193 share of top 10: $21.48 / $977.93 = 2.20%",
+          "Mega Charizard X ex 223/193 vs Japanese box: $21.48 / $97.55 = 0.22 boxes",
+          "Marnie's Grimmsnarl ex 243/193 share of top 10: $21.40 / $977.93 = 2.19%",
+          "Marnie's Grimmsnarl ex 243/193 vs Japanese box: $21.40 / $97.55 = 0.22 boxes",
+          "Top 10 vs Japanese box: $977.93 / $97.55 = 10.02 boxes",
+          "Top 10 vs case per box: $977.93 / $78.99 = 12.38 boxes",
+          "Top 10 vs sealed case: $977.93 / $1,579.78 = 61.90% of a case",
+          "Complete set vs Japanese box: $1,203 / $97.55 = 12.33 boxes",
+          "Complete set vs sealed case: $1,203 / $1,579.78 = 76.15% of a case",
+          "Rest of set, cards 11 to 250: $1,203 - $977.93 = $225.07; $225.07 / 240 cards = $0.94 per card",
+          "Top 10 minus top 5: $977.93 - $844.02 = $133.91 for ranks 6 to 10",
+          "Gengar SAR vs Gengar MA: $243.11 - $15.25 = $227.86; $243.11 / $15.25 = 15.94x the MA",
+          "Gengar SAR vs Pikachu SAR plus Dragonite SAR: $209.80 + $143.46 = $353.26; $243.11 / $353.26 = 0.69x the pair"
+        ],
+        "paragraphs": [
+          "The table below is the ranking, with every card's share of the top-10 total and its price in boxes. TickerMint updated these TCGplayer market prices on November 23, 2026, and Double Holo's read the same week agrees on the top five, with two disagreements flagged in the next section. The [M2a investment guide](/blog/m2a-investment/) ran the same shelf a week earlier.",
+          "Three divisions carry the decision. First, the top 10 total $977.93, which is 10.02 boxes, 12.38 case-boxes, and 61.90 percent of a sealed case. Second, the top five total $844.02, which is 86.31 percent of the top 10, so the bottom five add only $133.91. Third, the Gengar is 15.94 times the Mega Attack Rare print of the same Pokemon at $15.25, so the $227.86 gap between the two Gengars is pure art and rarity."
+        ],
+        "table": {
+          "head": [
+            "Rank",
+            "Card",
+            "No.",
+            "Rarity",
+            "Price",
+            "Share of top 10",
+            "In boxes"
+          ],
+          "rows": [
+            [
+              "1",
+              "Mega Gengar ex",
+              "240/193",
+              "Special Art Rare",
+              "$243.11",
+              "24.86%",
+              "2.49"
+            ],
+            [
+              "2",
+              "Pikachu ex",
+              "234/193",
+              "Special Art Rare",
+              "$209.80",
+              "21.45%",
+              "2.15"
+            ],
+            [
+              "3",
+              "Mega Dragonite ex",
+              "250/193",
+              "Mega Ultra Rare",
+              "$172.36",
+              "17.62%",
+              "1.77"
+            ],
+            [
+              "4",
+              "Mega Dragonite ex",
+              "246/193",
+              "Special Art Rare",
+              "$143.46",
+              "14.67%",
+              "1.47"
+            ],
+            [
+              "5",
+              "Team Rocket's Mewtwo ex",
+              "237/193",
+              "Special Art Rare",
+              "$75.29",
+              "7.70%",
+              "0.77"
+            ],
+            [
+              "6",
+              "N's Zoroark ex",
+              "242/193",
+              "Special Art Rare",
+              "$45.67",
+              "4.67%",
+              "0.47"
+            ],
+            [
+              "7",
+              "Steven's Metagross ex",
+              "245/193",
+              "Special Art Rare",
+              "$23.06",
+              "2.36%",
+              "0.24"
+            ],
+            [
+              "8",
+              "Iono's Bellibolt ex",
+              "236/193",
+              "Special Art Rare",
+              "$22.30",
+              "2.28%",
+              "0.23"
+            ],
+            [
+              "9",
+              "Mega Charizard X ex",
+              "223/193",
+              "Mega Attack Rare",
+              "$21.48",
+              "2.20%",
+              "0.22"
+            ],
+            [
+              "10",
+              "Marnie's Grimmsnarl ex",
+              "243/193",
+              "Special Art Rare",
+              "$21.40",
+              "2.19%",
+              "0.22"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: the 10 cards, one by one",
+        "paragraphs": [
+          "1. Mega Gengar ex, 240/193, Special Art Rare, $243.11. The Gengar is 24.86 percent of the top 10 and 2.49 boxes, and it is the only card in the set that outranks the gold. It sat at $243.23 on November 17, so it has moved twelve cents in six days. 2. Pikachu ex, 234/193, Special Art Rare, $209.80. The Pikachu is 21.45 percent of the top 10 and 2.15 boxes, and TickerMint and Double Holo agree on it to the cent. It has fallen only 23.43 percent from its $274 launch price, the smallest fall in the top five. 3. Mega Dragonite ex, 250/193, Mega Ultra Rare, $172.36. The gold is 17.62 percent of the top 10 and 1.77 boxes, the sole Mega Ultra Rare among 250 cards. Double Holo reads it at $175.81. 4. Mega Dragonite ex, 246/193, Special Art Rare, $143.46. The second Dragonite print is 14.67 percent of the top 10 and 1.47 boxes. The two Dragonite prints together cost $315.82, more than the Gengar alone.",
+          "5. Team Rocket's Mewtwo ex, 237/193, Special Art Rare, $75.29. The Mewtwo is 7.70 percent of the top 10 and 0.77 of a box, and it is the cliff edge of this list. The eBay side sits lower, with a 30-day US raw median of $62.50 across 24 sales. 6. N's Zoroark ex, 242/193, Special Art Rare, $45.67. The Zoroark is 4.67 percent of the top 10 and 0.47 of a box. Double Holo reads it at $45.67 on November 23 while Moonstone records $46.07, a forty-cent disagreement. The eBay side runs the other way: the 30-day US raw median is $49.99, above the market price. 7. Steven's Metagross ex, 245/193, Special Art Rare, $23.06. The Steven is 2.36 percent of the top 10 and 0.24 of a box, and it tops the flat tail: ranks 7 to 10 sit between $23.06 and $21.40, a spread of $1.66. TickerMint reads it at $23.06 on November 23, down 7.6 percent in 30 days.",
+          "8. Iono's Bellibolt ex, 236/193, Special Art Rare, $22.30. The Iono is 2.28 percent of the top 10 and 0.23 of a box, and it is the falling card of the tail: $33.29 a month ago, down to $22.30, a fall of $10.99, or 33.01 percent, in 30 days. 9. Mega Charizard X ex, 223/193, Mega Attack Rare, $21.48. The Charizard is 2.20 percent of the top 10 and 0.22 of a box, and it is the only Mega Attack Rare on this list. 10. Marnie's Grimmsnarl ex, 243/193, Special Art Rare, $21.40. The last card on this list is 2.19 percent of the top 10 and 0.22 of a box, and the cutoff is not close: the Mega Froslass ex SAR at 233/193 sits eleventh at $17.03 on Double Holo's November 22 read, $4.37 behind. The [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the prints, and the [M2a Mega Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) carries the full 250-card breakdown."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, singles, or the English set",
+        "math": [
+          "Market box per pack: $77.91 / 10 packs = $7.79 per pack",
+          "Top 10 minus the Gengar: $977.93 - $243.11 = $734.82 for the other nine cards",
+          "Top 5 minus the Gengar: $844.02 - $243.11 = $600.91 for the other four cards",
+          "Top 10 as singles vs complete set: $1,203 - $977.93 = $225.07 for the other 240 cards"
+        ],
+        "paragraphs": [
+          "Seven ways to spend on M2a, priced as of November 24, 2026. The singles win for named cards, the case wins for volume, and the box wins for opening, and no row wins twice. The [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on this shelf.",
+          "Read the table from the job, not the price. A buyer who wants the ten cards buys them for $977.93, because 10.02 boxes cost the same money and hold no promise of any of them, and the Pokemon Company publishes no pull rates for M2a. A buyer who wants twenty boxes buys the case at $1,579.78, because $78.99 a box sits $1.08 above the market box, not below it, so the case is a convenience buy this week, not a discount buy. A buyer who wants the English cards waits for Ascended Heroes, which has no booster boxes at all, so there is no English box to compare against."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Top 10 as singles",
+              "$977.93",
+              "n/a",
+              "Owning the ten cards that hold 81.29% of the set",
+              "No sealed upside; condition and grading risk"
+            ],
+            [
+              "Complete set as singles",
+              "$1,203",
+              "n/a",
+              "Owning all 250 cards at once",
+              "$225.07 more than the top 10 for 240 cards averaging $0.94"
+            ],
+            [
+              "Japanese box",
+              "$97.55",
+              "$9.76",
+              "Opening MEGA Dream ex in Japanese",
+              "25.21% above the $77.91 market box; no published pull rates"
+            ],
+            [
+              "Sealed case (20)",
+              "$1,579.78",
+              "$7.90",
+              "Twenty boxes at $78.99 each",
+              "$21.58 above twenty market boxes; $1,579.78 committed at once"
+            ],
+            [
+              "Market box",
+              "$77.91",
+              "$7.79",
+              "One box at the market price",
+              "No case discount; shipping and import on top"
+            ],
+            [
+              "Top 5 as singles",
+              "$844.02",
+              "n/a",
+              "Owning the five cards that hold 70.16% of the set",
+              "$133.91 less than the top 10, but no Zoroark or Steven"
+            ],
+            [
+              "Gengar SAR single",
+              "$243.11",
+              "n/a",
+              "Owning the headline card alone",
+              "One card is 24.86% of the top 10; the other nine still cost $734.82"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top three results do not answer",
+        "note": "From the Warehouse: what we see in allocation is that buyers arrive with a top-10 list from a price site and no plan for what to do with it, because the list never says whether to buy the cards, the box, or the case. The list is the start of the decision, not the decision, and the division is the part only a store that stocks both sealed routes can run: $977.93 for the cards, $97.55 for the box, $1,579.78 for the case, each against the same market box of $77.91.",
+        "paragraphs": [
+          "The top three results for this query all do a narrower job, and their headings set the floor this page has to clear. TickerMint lists the chase cards with TCGplayer prices as of November 23, 2026, under headings for the most valuable card, the cost to complete the set, and the sealed product. ScreenRant lists the ten cards with launch-era prices from December 2, 2025, one heading per card. CardCodex lists the full 250-card price list under headings for the set facts, the chase cards, and the grading returns.",
+          "None of the three divides a live store shelf against the ranking, and that is the gap this page owns. None states that the top 10 total $977.93, or that the Gengar alone is 24.86 percent of that total, or that the top 10 cost 10.02 boxes and 61.90 percent of a case. None prices the box at $97.55, the case at $78.99 a box, and the market box at $77.91 against each other.",
+          "Five things only this page owns. First, the top-10 total with per-card shares and box ratios, from TickerMint's November 23, 2026 read. Second, the shelf divisions: box $9.76 a pack, case $7.90 a pack, case $0.79 a card. Third, the launch slide since December 2025: Gengar down 59.07 percent, Mewtwo down 70.47 percent, Iono down 77.92 percent. Fourth, the ask-sale gap, with eBay medians beside the market prices. Fifth, the two-Gengar trap, the SAR at $243.11 against the MA at $15.25."
+        ]
+      },
+      {
+        "h": "The risk layer: the launch slide, the ask-sale gap, and the two-Gengar trap",
+        "math": [
+          "Mega Gengar ex SAR fall, launch to Nov 23: $594.00 - $243.11 = $350.89; $350.89 / $594.00 = 59.07% down",
+          "Mega Dragonite ex MUR fall, launch to Nov 23: $446.00 - $172.36 = $273.64; $273.64 / $446.00 = 61.35% down",
+          "Mega Dragonite ex SAR fall, launch to Nov 23: $287.00 - $143.46 = $143.54; $143.54 / $287.00 = 50.01% down",
+          "Pikachu ex SAR fall, launch to Nov 23: $274.00 - $209.80 = $64.20; $64.20 / $274.00 = 23.43% down",
+          "Team Rocket's Mewtwo ex SAR fall, launch to Nov 23: $255.00 - $75.29 = $179.71; $179.71 / $255.00 = 70.47% down",
+          "N's Zoroark ex SAR fall, launch to Nov 23: $133.00 - $45.67 = $87.33; $87.33 / $133.00 = 65.66% down",
+          "Marnie's Grimmsnarl ex SAR fall, launch to Nov 23: $114.00 - $21.40 = $92.60; $92.60 / $114.00 = 81.23% down",
+          "Iono's Bellibolt ex SAR fall, launch to Nov 23: $101.00 - $22.30 = $78.70; $78.70 / $101.00 = 77.92% down",
+          "Mega Charizard X ex MA fall, launch to Nov 23: $69.00 - $21.48 = $47.52; $47.52 / $69.00 = 68.87% down",
+          "Steven's Metagross ex SAR fall, launch to Nov 23: $61.00 - $23.06 = $37.94; $37.94 / $61.00 = 62.20% down",
+          "Mega Gengar ex MA fall, launch to Nov 23: $58.00 - $15.25 = $42.75; $42.75 / $58.00 = 73.71% down",
+          "Mega Froslass ex SAR fall, launch to Nov 23: $42.00 - $17.03 = $24.97; $24.97 / $42.00 = 59.45% down",
+          "Iono's Bellibolt ex SAR fall, 30 days: $33.29 - $22.30 = $10.99; $10.99 / $33.29 = 33.01% down",
+          "Mega Scrafty ex SAR fall, 30 days: $12.46 - $8.26 = $4.20; $4.20 / $12.46 = 33.71% down",
+          "Market box fall, Nov 8 to Nov 23: $85.05 - $77.91 = $7.14; $7.14 / $85.05 = 8.40% down",
+          "Gengar SAR, Nov 17 to Nov 23: $243.23 - $243.11 = $0.12; $0.12 / $243.23 = 0.05% down",
+          "Mewtwo SAR ask-sale gap: $75.29 - $62.50 = $12.79; $12.79 / $75.29 = 16.99% below market",
+          "Dragonite SAR ask-sale gap: $143.46 - $121.75 = $21.71; $21.71 / $143.46 = 15.13% below market",
+          "Zoroark SAR sale above market: $49.99 - $45.67 = $4.32; $4.32 / $45.67 = 9.46% above market"
+        ],
+        "paragraphs": [
+          "The first risk is the slide. The Gengar fell 59.07 percent from its $594 launch price since December 2025, and the Dragonite gold fell 61.35 percent over the same span, from $446 to $172.36, while the Pikachu fell only 23.43 percent, from $274 to $209.80. The Mewtwo fell 70.47 percent, from $255 to $75.29, and the Iono fell 77.92 percent, from $101 to $22.30.",
+          "The second risk is the ask-sale gap: the market price is the ask side, not the last sale. The Mewtwo carries a $75.29 market against a 30-day US raw median of $62.50 on eBay, which is $12.79, or 16.99 percent, below the market, and recent raw sales run $55.00 to $83.26. The Dragonite SAR shows the same gap: its $143.46 market sits against a 30-day US raw median of $121.75, which is $21.71, or 15.13 percent, below it. The Zoroark is the exception: its $45.67 market sits below its $49.99 eBay median.",
+          "The third risk is the two-Gengar trap. The same Pokemon prints twice in this set, as the SAR at 240/193 for $243.11 and as the Mega Attack Rare at 230/193 for $15.25, and the two prints sit 15.94 times apart, so a buyer who shops by Pokemon name alone can pay SAR money for the MA print. Check the number, not the name, because the MA is the debut rarity of this set and the SAR is the chase tier. The fourth risk is the reseal: check the factory shrink-wrap and keep the seal intact, because a reseal claim is only provable while the seal is unbroken. If the plan fails, stop opening, hold the box sealed, and buy the named card as a single. The [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal checks."
+        ]
+      },
+      {
+        "h": "Context: Japan against English, and the high-class pack",
+        "math": [
+          "Market box vs official: $77.91 - $34.58 = $43.33 above official",
+          "Market box vs official ratio: $77.91 / $34.58 = 2.25x official",
+          "Official pack in dollars: 550 yen / 159.07 = $3.46 per pack",
+          "M2a box per pack vs official per pack: $9.76 - $3.46 = $6.30 above official per pack",
+          "M2a case per box vs official: $78.99 - $34.58 = $44.41 above official per box",
+          "English set vs Japanese set: 295 - 250 = 45 more cards",
+          "Release gap, Japan to English: November 28, 2025 to January 30, 2026 = 63 days"
+        ],
+        "paragraphs": [
+          "MEGA Dream ex, M2a, released in Japan on Friday, November 28, 2025, as a High Class Pack, not a standard expansion, between M2 Inferno X and M3 on the MEGA-era timeline. The set is 250 cards by the official list: 193 in the main set and 57 in the secret tier, as 20 Art Rares, 9 Super Rares, 10 Mega Attack Rares, 17 Special Art Rares, and 1 Mega Ultra Rare. The Mega Attack Rare is new with this set, and the set is built largely from reprints.",
+          "The English side is a different set with the same chase cards. Ascended Heroes released in English on January 30, 2026, with 295 cards, 217 in the main set and 78 secret rares, built from MEGA Dream ex and the Start Deck 100 Battle Collection, and it is a special set with no standalone booster boxes, so English buyers buy Elite Trainer Boxes and bundles instead. The English prints carry their own numbering, and Japanese cards are not legal at official English events. The [M2a investment guide](/blog/m2a-investment/) runs the case math.",
+          "A pack cost 550 yen including tax at release, so a box listed at 5,500 yen, or $34.58 at the ECB November 23, 2026 fixing of 159.07 yen per dollar, the latest published as of November 24, 2026. Our box at $97.55 sits $62.97 above that official price, at 2.82 times it. The box holds only 10 packs of 10 cards, not 30 packs of 5: this box is $9.76 a pack and $0.98 a card, not $3.25 a pack."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing the Gengar by opening boxes, who should buy the single at $243.11, because the Gengar is 2.49 boxes and the Pokemon Company publishes no pull rates, while Kaikan's chase table lists the Gengar SAR at 1 in 42. It is not for anyone who wants value spread across many cards, because five cards hold 70.16 percent of the set and the other 240 average $0.94. It is not for anyone who needs the prices to hold, because the Iono fell 33.01 percent in 30 days and the Mewtwo is down 70.47 percent from launch. It is not for anyone who wants the English chase, because that is Ascended Heroes, a different set with no booster box."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the ten cards, open the set, hold twenty boxes sealed, or own the Gengar.",
+          "If the job is the ten cards, buy the singles for $977.93, and check the number on the Gengar, because the SAR at 240/193 costs $243.11 and the MA at 230/193 costs $15.25.",
+          "If the job is the Gengar, buy the single at $243.11, and do not open boxes for it, because it costs 2.49 boxes and no pull rate prices the chase.",
+          "If the job is one box, check the pack count first: 10 packs of 10 cards, $9.76 a pack, not 30 packs at $3.25, and know the box sits $19.64 above the $77.91 market box.",
+          "If the job is twenty boxes, take the case at $1,579.78, or $78.99 a box, which is $1.08 above the market box, and do not pay $97.55 for a single box unless one box is truly the plan.",
+          "If the job is the Mewtwo SAR, re-check the price before you pay, because the market says $75.29 while recent raw sales run $55.00 to $83.26.",
+          "If the job is the Iono SAR, re-check the price before you pay, because it fell $10.99 in 30 days and has not found its floor yet.",
+          "Check the wrap and seams before you pay, and remember the cutoff at rank 10 is a $4.37 gap to the Froslass SAR at $17.03, so buy whichever of the two you want."
+        ],
+        "h": "Action layer: the M2a best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 24, 2026, the card prices from TickerMint's November 23, 2026 TCGplayer read unless another source and date is named, so re-divide before you pay if it has moved again."
+        ]
+      }
+    ],
+    "slug": "m2a-best-cards",
+    "takeaway": [
+      "The 10 best cards in M2a Mega Dream ex total $977.93 on TCGplayer market as of November 23, 2026, and the Mega Gengar ex SAR alone is $243.11, or 24.86 percent of that total and 20.21 percent of the whole $1,203 set. The top five cards carry 86.31 percent of the top 10, and the other 240 cards total $225.07, an average of $0.94 a card, so this set is five cards and a long tail.",
+      "It is worth buying as singles for $977.93, which is 10.02 boxes, and it is not worth buying as sealed product to pull the Gengar, because the Gengar costs 2.49 boxes and the Pokemon Company publishes no pull rates. The box at $97.55 is $19.64 above the $77.91 market box, while the case at $1,579.78 divides to $78.99 a box, $1.08 above it, so neither sealed route beats the market this week.",
+      "It is worth buying with the falls in mind: the Gengar is down 59.07 percent from its $594 launch price, the Mewtwo is down 70.47 percent from $255, and the Iono is down 77.92 percent from $101. The market price is the ask side, not the last sale: the Mewtwo carries a $75.29 market against a $62.50 eBay median, and the Dragonite SAR carries a $143.46 market against a $121.75 median.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 24, 2026, and the card prices from TickerMint's November 23, 2026 TCGplayer read, cross-checked against Double Holo and Moonstone. For the price-and-math companions, the [M2a investment guide](/blog/m2a-investment/) runs the case flip, the [M2a Mega Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) carries the full 250-card breakdown, and the [is M2a worth buying guide](/blog/is-m2a-worth-buying/) carries the full buy verdict.",
+      "The twin era gets the same treatment in the [M1L best cards guide](/blog/m1l-best-cards/) and the [M1S best cards guide](/blog/m1s-best-cards/), where the same shelf math divides the gold-led sets card by card. The standard expansion beside M2a gets the same treatment in the [M2 best cards guide](/blog/m2-best-cards/), where the ten best total $1,377.04 led by the Mega Charizard X ex SAR at $654.46."
     ]
   },
   "m2a-investment": {
@@ -46277,7 +47004,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the set that gave the MEGA era its biggest checklist and its first Mega Attack Rare cards, sealed in either format, and it is not worth buying as a way to own one named card or to make the money back by opening. The Mega Gengar ex SAR sat at $243.23 on TCGplayer market as of November 17, 2026, which is 2.49 boxes, and the same Pokémon in the MA frame runs $16.39. Buy the single, and check the number.",
       "It is worth buying with the fall in mind: the box dropped $17.22 in one leg, from $114.77 to $97.55, fifteen percent on November 13, 2026, the same fifteen percent that fell on every Japanese box on this shelf the same day, and the shelf has held at $97.55 since. The chase fell with it: the Gengar SAR is down 15.9 percent in 30 days, and its PSA 10 reference is down 56.92 percent in six months. A box bought as an investment can fall as fast as it rose.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, the TCGplayer market box as of November 8, 2026, and the marketplace references as of October 22 to November 18, 2026. The case box now sits $0.56 below the last completed sale, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) runs the box and the case side by side, the [is M2a worth buying guide](/blog/is-m2a-worth-buying/) runs the same verdict after the November 13 repricing, and the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices. The [M2 Inferno X investment guide](/blog/m2-investment/) prices the standard expansion the same way, with its case dividing to $94.47, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict on the cheapest MEGA box. The [M3 Munikis Zero investment guide](/blog/m3-investment/) prices the cheapest MEGA-era box the same way, with its case running $14.22 the other way per box."
+      "For the price-and-math companion, the [M2a MEGA Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) runs the box and the case side by side, the [is M2a worth buying guide](/blog/is-m2a-worth-buying/) runs the same verdict after the November 13 repricing, and the [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices. The [M2 Inferno X investment guide](/blog/m2-investment/) prices the standard expansion the same way, with its case dividing to $94.47, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict on the cheapest MEGA box. The [M3 Munikis Zero investment guide](/blog/m3-investment/) prices the cheapest MEGA-era box the same way, with its case running $14.22 the other way per box. The ten best cards are ranked and priced in the [M2a best cards guide](/blog/m2a-best-cards/), where the Mega Gengar ex SAR alone is $243.11."
     ]
   },
   "m2a-mega-dream-ex-buyers-guide": {
