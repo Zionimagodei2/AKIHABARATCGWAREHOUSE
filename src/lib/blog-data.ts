@@ -28737,7 +28737,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of November 3 to 11, 2026. The box is down 21 percent in 90 days while the set value is down only 1.9 percent, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) divides the same shelf set by set, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
       "The twin set gets the same treatment in the [is M1S Mega Symphonia worth buying guide](/blog/is-m1s-worth-buying/).",
-      "New this cycle: the [M1L Mega Brave investment guide](/blog/m1l-investment/) prices the same shelf as an investment, with the case dividing to $64.61 a box, $15.71 below the $80.32 market box, after a uniform 15 percent repricing."
+      "Companion guide: the [M1L Mega Brave investment guide](/blog/m1l-investment/) prices the same shelf as an investment, with the case dividing to $64.61 a box, $15.71 below the $80.32 market box, after a uniform 15 percent repricing.",
+      "Best cards: the [M1L Mega Brave best cards guide](/blog/m1l-best-cards/) ranks the ten most valuable cards at $469.02 on TCGplayer market as of November 23, 2026, led by the gold Mega Lucario ex at $253.35."
     ]
   },
   "is-m1s-worth-buying": {
@@ -28948,7 +28949,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the twin set in mind: M1L Mega Brave is $94.91 a box and $912.18 a case, with its Lucario gold at $257.80, and both boxes together cost $179.88. In English the gold Mega Gardevoir ex runs $151.41 as of November 11, 2026, cheaper than the Japanese gold at $230.63, while the English Special Illustration Rare at $155.31 is dearer than the Japanese Special Art Rare at $75.67, so the language premium runs in opposite directions on the two Gardevoir prints.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of November 3 to 11, 2026. The box is down 11 percent in 90 days while the set value is down 16.9 percent, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) divides the same shelf set by set, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
-      "The next set in the run gets the same treatment in the [is M2 Inferno X worth buying guide](/blog/is-m2-worth-buying/). The investment verdict is in the [M1S Mega Symphonia investment guide](/blog/m1s-investment/)."
+      "The next set in the run gets the same treatment in the [is M2 Inferno X worth buying guide](/blog/is-m2-worth-buying/). The investment verdict is in the [M1S Mega Symphonia investment guide](/blog/m1s-investment/).",
+      "Best cards: the [M1S Mega Symphonia best cards guide](/blog/m1s-best-cards/) ranks the ten most valuable cards at $380.50 on TCGplayer market as of November 24, 2026, led by the gold Mega Gardevoir ex at $217.82."
     ]
   },
   "is-m2-worth-buying": {
@@ -43810,6 +43812,363 @@ export const POSTS: Record<string, BlogPost> = {
       "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the Fabled gap is the one that moves fastest."
     ]
   },
+  "m1l-best-cards": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "The gold Mega Lucario ex, M1L 092/063, the Mega Ultra Rare, at $253.35 on TCGplayer market as of November 23, 2026, per Sparkl. It is 54.02 percent of the top-10 total of $469.02 and 49.62 percent of the whole $510.61 set, or 3.14 boxes at the Warehouse shelf price of $80.67. It is one of the first two Mega Ultra Rares ever printed, alongside the M1S Gardevoir gold, and it shares the number 092/063 with that card, so check the set name, not the number, before you pay.",
+        "q": "What is the most valuable card in M1L Mega Brave?"
+      },
+      {
+        "a": "The top 10 as singles, by a wide margin. One of each of the 10 best cards costs $469.02 on TCGplayer market as of November 23, 2026, which is 5.81 boxes at $80.67, and the complete set of 92 priced cards is $510.61, or 6.33 boxes. The Pokemon Company publishes no pull rates for M1L, so no box carries a calculated chance of holding the gold, and the community-reported box structure is about 4 Double Rares, 3 Art Rares, and 2 Super Rares per box, never odds. Buy the box to open the set, buy the case at $775.35 for $64.61 a box if twelve boxes is the plan, and buy the singles for the named cards.",
+        "q": "Is it cheaper to buy the top 10 M1L cards or open boxes to pull them?"
+      },
+      {
+        "a": "The market repriced it, and the fall is dated. Lillie's Determination Special Art Rare, M1L 091/063, sat at $124.35 on Poke-life's October 30, 2026 read and $79.67 on Sparkl's November 23, 2026 read, a fall of $44.68, or 35.93 percent, in 24 days. The gold Mega Lucario ex fell only 4.87 percent over the same span, from $266.31 to $253.35, and the whole set fell 0.91 percent in the six days from November 17 to November 23, from $515.31 to $510.61. The Lillie fall is a single-card correction, not a set collapse, but a buyer who pays the October price for it overpays by $44.68.",
+        "q": "Why did Lillie's Determination fall so much?"
+      }
+    ],
+    "h1": "M1L Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the 10 best cards in M1L Mega Brave total $469.02 on TCGplayer market as of November 23, 2026, and the gold Mega Lucario ex alone is $253.35, or 54.02 percent of that total and 49.62 percent of the whole $510.61 set. The top five cards carry 85.36 percent of the set value, and 83 of the 92 priced cards sit under $5. Buy the top 10 as singles for $469.02, the box for $80.67 to open the set, or the case at $775.35 for $64.61 a box; never buy sealed product to pull the gold, because it costs 3.14 boxes.",
+      "Who this is for: the collector who wants the ten cards that hold the set's value, and the buyer choosing between a box, a case, and singles. Who it is not for: anyone chasing the gold by opening boxes, who should buy the single at $253.35; anyone who wants value spread across many cards; and anyone who needs the prices to hold, because Lillie fell 35.93 percent in 24 days."
+    ],
+    "metaDescription": "The 10 best M1L cards total $469.02 on TCGplayer, Nov 23, 2026. The gold Lucario alone is $253.35, 54.02% of the top 10. Box, case, and singles, divided.",
+    "metaTitle": "M1L Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one card is half the set",
+        "math": [
+          "M1L Japanese box per pack: $80.67 / 30 packs = $2.69 per pack",
+          "M1L Japanese box per card: $80.67 / 150 cards = $0.54 per card",
+          "M1L sealed case per box: $775.35 / 12 boxes = $64.61 per box",
+          "M1L sealed case per pack: $775.35 / 360 packs = $2.15 per pack",
+          "M1L sealed case per card: $775.35 / 1,800 cards = $0.43 per card",
+          "M1L case saving vs 12 single boxes: (12 x $80.67) - $775.35 = $192.69 per case",
+          "M1L case saving per box: $192.69 / 12 boxes = $16.06 per box",
+          "M1L Japanese box vs official: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.07 = $33.95; $80.67 - $33.95 = $46.72 above official",
+          "M1L Japanese box vs official ratio: $80.67 / $33.95 = 2.38x official",
+          "M1L box vs market box: $80.67 - $78.36 = $2.31 above market",
+          "M1L box vs market box percent: $2.31 / $78.36 = 2.95% above market",
+          "M1L case per box vs market box: $78.36 - $64.61 = $13.75 below market",
+          "M1L case per box vs market box percent: $13.75 / $78.36 = 17.55% below market",
+          "M1L case vs 12 market boxes: (12 x $78.36) - $775.35 = $164.97 per case"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about M1L is which card to chase first, and the answer is the same every time: the gold, and only the gold, because it is 54.02 percent of the top 10 and the next card is $79.67. What we see in allocation is that buyers who open for the gold keep opening after the Lillie, because the Lillie feels close to the gold, and it is not close: the gold is 3.14 boxes and the Lillie is 0.99 of a box. Decide the card before you decide the route.",
+        "paragraphs": [
+          "The concentration is the whole story. The gold Mega Lucario ex at $253.35 is 54.02 percent of the top-10 total and 49.62 percent of the whole $510.61 set, so one card of 92 holds about half the value. The top five total $435.85, or 85.36 percent of the set, and the top 10 total $469.02, or 91.85 percent of it. The other 82 priced cards total $41.59, an average of $0.51 a card.",
+          "The verdict follows the concentration. The top 10 as singles cost $469.02, which is 5.81 boxes at the Warehouse shelf price of $80.67, and the complete set is $510.61, or 6.33 boxes. The [M1L sealed case](/product/m1l-mega-brave-sealed-case-12-boxes-japanese-pokemon-card) at $775.35 divides to $64.61 a box, and the top 10 total is 60.49 percent of that case. The [M1L Japanese booster box](/product/m1l-mega-brave-booster-box-japanese-pokemon-card) at $80.67 is $2.31 above the $78.36 market box, while the case box sits $13.75 below it.",
+          "Best here means most valuable, not most playable. The same Mega Lucario ex that costs $253.35 as a gold also prints as a Double Rare at 029/063, which Dittobase prices at $0.40, so a player buys the cheap print and a collector buys the gold. Every price here is a TCGplayer Near Mint market price from Sparkl, updated November 23, 2026, unless another source and date is named."
+        ]
+      },
+      {
+        "h": "The money layer: the top 10, divided",
+        "math": [
+          "Top 10 total: $253.35 + $79.67 + $47.75 + $38.56 + $16.52 + $10.71 + $6.59 + $5.88 + $5.33 + $4.66 = $469.02",
+          "Top 10 share of set value: $469.02 / $510.61 = 91.85%",
+          "Top 5 total: $253.35 + $79.67 + $47.75 + $38.56 + $16.52 = $435.85",
+          "Top 5 share of set value: $435.85 / $510.61 = 85.36%",
+          "Top 5 share of top 10: $435.85 / $469.02 = 92.93%",
+          "Gold Mega Lucario ex share of top 10: $253.35 / $469.02 = 54.02%",
+          "Gold Mega Lucario ex share of set value: $253.35 / $510.61 = 49.62%",
+          "Gold Mega Lucario ex vs Japanese box: $253.35 / $80.67 = 3.14 boxes",
+          "Lillie's Determination SAR vs Japanese box: $79.67 / $80.67 = 0.99 boxes",
+          "Mega Lucario ex SAR vs Japanese box: $47.75 / $80.67 = 0.59 boxes",
+          "Mega Venusaur ex SAR vs Japanese box: $38.56 / $80.67 = 0.48 boxes",
+          "Mega Absol ex SAR vs Japanese box: $16.52 / $80.67 = 0.20 boxes",
+          "Lillie's Determination SR vs Japanese box: $10.71 / $80.67 = 0.13 boxes",
+          "Mega Venusaur ex SR vs Japanese box: $6.59 / $80.67 = 0.08 boxes",
+          "Mega Lucario ex SR vs Japanese box: $5.88 / $80.67 = 0.07 boxes",
+          "Bulbasaur AR vs Japanese box: $5.33 / $80.67 = 0.07 boxes",
+          "Lt. Surge's Deal SAR vs Japanese box: $4.66 / $80.67 = 0.06 boxes",
+          "Top 10 vs Japanese box: $469.02 / $80.67 = 5.81 boxes",
+          "Top 10 vs case per box: $469.02 / $64.61 = 7.26 boxes",
+          "Top 10 vs sealed case: $469.02 / $775.35 = 60.49% of a case",
+          "Complete set vs Japanese box: $510.61 / $80.67 = 6.33 boxes",
+          "Complete set vs sealed case: $510.61 / $775.35 = 65.86% of a case",
+          "Complete set vs market box: $510.61 / $78.36 = 6.52 boxes",
+          "Rest of set, cards 11 to 92: $510.61 - $469.02 = $41.59; $41.59 / 82 cards = $0.51 per card",
+          "Gold vs Lillie SAR plus Lucario SAR: $79.67 + $47.75 = $127.42; $253.35 / $127.42 = 1.99x the pair",
+          "Lillie SAR vs Lillie SR: $79.67 / $10.71 = 7.44x the Super Rare"
+        ],
+        "paragraphs": [
+          "The table below is the ranking, with every card's share of the top-10 total and its price in boxes. Sparkl updated these TCGplayer Near Mint market prices on November 23, 2026, and Scryda's TCGCSV read the same day agrees on all ten cards to the cent. Dittobase reads the bottom two a few cents apart, Bulbasaur at $5.27 and Lt. Surge's Deal at $4.71.",
+          "Three divisions carry the decision. First, the top 10 total $469.02, which is 5.81 boxes, 7.26 case-boxes, and 60.49 percent of a sealed case. Second, the gold is 1.99 times the next two cards combined, $253.35 against $127.42, so the top of the list is a cliff, not a ladder. Third, the Lillie pair shows the rarity tax: the Special Art Rare at $79.67 costs 7.44 times the Super Rare at $10.71. The [M1L investment guide](/blog/m1l-investment/) runs the same shelf a week earlier, when the set sat at $515.31."
+        ],
+        "table": {
+          "head": [
+            "Rank",
+            "Card",
+            "No.",
+            "Rarity",
+            "Price",
+            "Share of top 10",
+            "In boxes"
+          ],
+          "rows": [
+            [
+              "1",
+              "Mega Lucario ex",
+              "092/063",
+              "Mega Ultra Rare",
+              "$253.35",
+              "54.02%",
+              "3.14"
+            ],
+            [
+              "2",
+              "Lillie's Determination",
+              "091/063",
+              "Special Art Rare",
+              "$79.67",
+              "16.99%",
+              "0.99"
+            ],
+            [
+              "3",
+              "Mega Lucario ex",
+              "088/063",
+              "Special Art Rare",
+              "$47.75",
+              "10.18%",
+              "0.59"
+            ],
+            [
+              "4",
+              "Mega Venusaur ex",
+              "087/063",
+              "Special Art Rare",
+              "$38.56",
+              "8.22%",
+              "0.48"
+            ],
+            [
+              "5",
+              "Mega Absol ex",
+              "089/063",
+              "Special Art Rare",
+              "$16.52",
+              "3.52%",
+              "0.20"
+            ],
+            [
+              "6",
+              "Lillie's Determination",
+              "086/063",
+              "Super Rare",
+              "$10.71",
+              "2.28%",
+              "0.13"
+            ],
+            [
+              "7",
+              "Mega Venusaur ex",
+              "076/063",
+              "Super Rare",
+              "$6.59",
+              "1.41%",
+              "0.08"
+            ],
+            [
+              "8",
+              "Mega Lucario ex",
+              "078/063",
+              "Super Rare",
+              "$5.88",
+              "1.25%",
+              "0.07"
+            ],
+            [
+              "9",
+              "Bulbasaur",
+              "064/063",
+              "Art Rare",
+              "$5.33",
+              "1.14%",
+              "0.07"
+            ],
+            [
+              "10",
+              "Lt. Surge's Deal",
+              "090/063",
+              "Special Art Rare",
+              "$4.66",
+              "0.99%",
+              "0.06"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: the 10 cards, one by one",
+        "paragraphs": [
+          "1. Mega Lucario ex, 092/063, Mega Ultra Rare, $253.35. The gold is 54.02 percent of the top 10 and 3.14 boxes, and one of the first two Mega Ultra Rares ever printed. Both twin-set golds share the number 092/063, so check the set name, not the number. The [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) carries the full 92-card breakdown.",
+          "2. Lillie's Determination, 091/063, Special Art Rare, $79.67. The second card is 16.99 percent of the top 10 and 0.99 of a box. It is also the falling card: $124.35 on October 30, 2026, down to $79.67 on November 23, a $44.68 slide in 24 days.",
+          "3. Mega Lucario ex, 088/063, Special Art Rare, $47.75. The second Lucario print is 10.18 percent of the top 10 and 0.59 of a box, and it fell 30.28 percent since October 30, from $68.49. The market price sits near the top of what buyers paid: PriceCharting's eBay sales from November 16 to 21, 2026 run $37.52 to $49.81.",
+          "4. Mega Venusaur ex, 087/063, Special Art Rare, $38.56. The steady one: $39.08 on October 30, 2026, down to $38.56 on November 23, a fall of only 1.33 percent while the Lillie and the Lucario SAR fell by a third. It is 8.22 percent of the top 10 and 0.48 of a box.",
+          "5. Mega Absol ex, 089/063, Special Art Rare, $16.52. The last of the five Special Art Rares is 3.52 percent of the top 10 and 0.20 of a box, down 7.45 percent from $17.85 on October 30, 2026. It is the floor of the SAR tier.",
+          "6. Lillie's Determination, 086/063, Super Rare, $10.71. The same card as number 2, one rarity tier down, at 2.28 percent of the top 10 and 0.13 of a box. The Special Art Rare costs 7.44 times this Super Rare, $79.67 against $10.71, for the same card, so the $68.96 gap is pure art. The [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the prints.",
+          "7. Mega Venusaur ex, 076/063, Super Rare, $6.59. The Super Rare Venusaur is 1.41 percent of the top 10 and 0.08 of a box. The two Venusaur prints together cost $45.15, less than the Lucario SAR alone at $47.75.",
+          "8. Mega Lucario ex, 078/063, Super Rare, $5.88. The third Lucario print on this list, at 1.25 percent of the top 10 and 0.07 of a box. Arca TCG's live TCGplayer read on November 24, 2026 is $5.91, three cents above Sparkl's $5.88.",
+          "9. Bulbasaur, 064/063, Art Rare, $5.33. The cheapest chase art in the set, at 1.14 percent of the top 10 and 0.07 of a box, and the first card of the secret tier. Dittobase reads it at $5.27, six cents below Sparkl's $5.33.",
+          "10. Lt. Surge's Deal, 090/063, Special Art Rare, $4.66. The last Special Art Rare and the last card on this list, at 0.99 percent of the top 10 and 0.06 of a box. The cutoff is a coin flip: Ivysaur Art Rare at 065/063 sits eleventh at $4.65 on Sparkl, one cent behind."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, singles, or the Center Set",
+        "math": [
+          "Pokemon Center Set vs Japanese box: $186.74 / $80.67 = 2.31 boxes",
+          "Pokemon Center Set vs top 10: $186.74 / $469.02 = 39.81% of the top 10",
+          "Pokemon Center Set vs case per box: $186.74 / $64.61 = 2.89 boxes",
+          "M1L plus M1S boxes: $80.67 + $72.22 = $152.89",
+          "M1L plus M1S cases: $775.35 + $657.18 = $1,432.53",
+          "Top 10 plus one box: $469.02 + $80.67 = $549.69",
+          "Top 10 vs complete set: $510.61 - $469.02 = $41.59 for the other 82 cards"
+        ],
+        "paragraphs": [
+          "Seven ways to spend on M1L, priced as of November 24, 2026. The singles win for named cards, the case wins for volume, and the box wins for opening, and no row wins twice. The [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on this shelf.",
+          "Read the table from the job, not the price. A buyer who wants the ten cards buys them for $469.02, because 5.81 boxes cost the same money and hold no promise of any of them, and the Pokemon Company publishes no pull rates for M1L. A buyer who wants twelve boxes buys the case at $775.35, because $64.61 a box sits $13.75 below the market box. A buyer who wants the Center Set pays $186.74. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks M1L against the rest of the shelf the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Top 10 as singles",
+              "$469.02",
+              "n/a",
+              "Owning the ten cards that hold 91.85% of the set",
+              "No sealed upside; condition and grading risk"
+            ],
+            [
+              "Complete set as singles",
+              "$510.61",
+              "n/a",
+              "Owning all 92 priced cards at once",
+              "$41.59 more than the top 10 for 82 cards averaging $0.51"
+            ],
+            [
+              "Japanese box",
+              "$80.67",
+              "$2.69",
+              "Opening Mega Brave in Japanese",
+              "2.95% above the $78.36 market box; no published pull rates"
+            ],
+            [
+              "Sealed case (12)",
+              "$775.35",
+              "$2.15",
+              "Twelve boxes below the market box",
+              "$775.35 committed at once; top 10 is only 60.49% of it"
+            ],
+            [
+              "Market box",
+              "$78.36",
+              "$2.61",
+              "One box at the market price",
+              "No case discount; shipping and import on top"
+            ],
+            [
+              "Pokemon Center Set",
+              "$186.74",
+              "n/a",
+              "The set with the extras",
+              "2.31 boxes for the set and its extras"
+            ],
+            [
+              "M1S box, the twin",
+              "$72.22",
+              "$2.41",
+              "Opening the twin set for the Gardevoir chase",
+              "A different set; Gardevoir gold, not Lucario"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top three results do not answer",
+        "note": "From the Warehouse: what we see in allocation is that buyers arrive with a top-10 list from a price site and no plan for what to do with it, because the list never says whether to buy the cards, the box, or the case. The list is the start of the decision, not the decision, and the division is the part only a store that stocks all three can run: $469.02 for the cards, $80.67 for the box, $775.35 for the case, each against the same market box of $78.36.",
+        "paragraphs": [
+          "The top three results for this query all do a narrower job, and their headings set the floor this page has to clear. Poke-life lists the chase cards with TCGplayer prices as of October 30, 2026, under headings for the set facts and the chase list. Sparkl lists the full 92-card price list with TCGplayer market prices updated November 23, 2026, under headings for the set facts and the price list. Scryda lists the same market data from TCGCSV, refreshed daily.",
+          "None of the three divides a live store shelf against the ranking, and that is the gap this page owns. None states that the top 10 total $469.02, or that the gold alone is 54.02 percent of that total, or that the top 10 cost 5.81 boxes and 60.49 percent of a case. None prices the box at $80.67, the case at $64.61 a box, and the Center Set at $186.74 against the same $78.36 market box.",
+          "Five things only this page owns. First, the top-10 total with per-card shares and box ratios, from Sparkl's November 23, 2026 read, cross-checked against Scryda. Second, the shelf divisions: box $2.69 a pack, case $2.15 a pack, Center Set 2.31 boxes, all as of November 24, 2026. Third, the fall since October 30: Lillie down 35.93 percent, Lucario SAR down 30.28 percent, gold down only 4.87 percent. Fourth, the ask-sale gap, with completed-sale figures beside the market prices. Fifth, the one-cent tie at the cutoff, Ivysaur at $4.65 against Lt. Surge's Deal at $4.66. The [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: the Lillie slide, the ask-sale gap, and the 092/063 trap",
+        "math": [
+          "Gold Mega Lucario ex fall, Oct 30 to Nov 23: $266.31 - $253.35 = $12.96; $12.96 / $266.31 = 4.87% down",
+          "Lillie's Determination SAR fall, Oct 30 to Nov 23: $124.35 - $79.67 = $44.68; $44.68 / $124.35 = 35.93% down",
+          "Mega Lucario ex SAR fall, Oct 30 to Nov 23: $68.49 - $47.75 = $20.74; $20.74 / $68.49 = 30.28% down",
+          "Mega Venusaur ex SAR fall, Oct 30 to Nov 23: $39.08 - $38.56 = $0.52; $0.52 / $39.08 = 1.33% down",
+          "Mega Absol ex SAR fall, Oct 30 to Nov 23: $17.85 - $16.52 = $1.33; $1.33 / $17.85 = 7.45% down",
+          "Complete set fall, Nov 17 to Nov 23: $515.31 - $510.61 = $4.70; $4.70 / $515.31 = 0.91% down",
+          "Market box fall, Nov 17 to Nov 23: $80.32 - $78.36 = $1.96; $1.96 / $80.32 = 2.44% down",
+          "English gold ask vs sale: $181.82 - $156.00 = $25.82; $25.82 / $181.82 = 14.20% below market",
+          "Lucario SAR market vs lowest recent sale: $47.75 - $37.52 = $10.23; $10.23 / $47.75 = 21.42% below market"
+        ],
+        "paragraphs": [
+          "The first risk is the slide, and it is uneven. Lillie's Determination fell 35.93 percent in 24 days, from $124.35 on October 30, 2026 to $79.67 on November 23, and the Lucario SAR fell 30.28 percent over the same span, from $68.49 to $47.75, while the gold fell only 4.87 percent, from $266.31 to $253.35. The set fell 0.91 percent in six days, from $515.31 to $510.61. A buyer who pays an October price for the Lillie overpays by $44.68.",
+          "The second risk is the ask-sale gap: the market price is the ask side, not the last sale. The English gold carries a Double Holo market price of $181.82 as of November 23, 2026, while CardTrack's sale-based read on November 24 is $156, which is $25.82, or 14.20 percent, below the market. The Lucario SAR shows the same gap: its $47.75 market sits near the top of PriceCharting's November 16 to 21 eBay sales, $37.52 to $49.81, and the lowest recent sale is $10.23 below the market.",
+          "The third risk is the 092/063 trap. Both twin-set golds are numbered 092/063, the M1L Lucario gold at $253.35 and the M1S Gardevoir gold at $217.82, so a buyer who searches the number alone can pay Lucario money for the Gardevoir gold, or the reverse. Check the set name, not the number, and check the language, because the English gold at $181.82 is a different card. The fourth risk is the reseal: check the factory shrink-wrap, photograph the box, and keep the seal intact, because a reseal claim is only provable while the seal is unbroken. If the plan fails, stop opening, hold the box sealed, and buy the named card as a single. The [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal checks."
+        ]
+      },
+      {
+        "h": "Context: Japan against English, and the twin gold",
+        "math": [
+          "Japanese gold vs English gold: $253.35 - $181.82 = $71.53; $71.53 / $181.82 = 39.34% above English",
+          "Japanese gold vs English gold ratio: $253.35 / $181.82 = 1.39x English",
+          "M1L gold vs M1S gold: $253.35 - $217.82 = $35.53; $35.53 / $217.82 = 16.31% above the Gardevoir gold",
+          "M1L gold vs M1S gold ratio: $253.35 / $217.82 = 1.16x the Gardevoir gold",
+          "M1L box vs M1S box: $80.67 - $72.22 = $8.45 per box",
+          "M1L case vs M1S case: $775.35 - $657.18 = $118.17 per case",
+          "Official box in dollars: 5,400 yen / 159.07 = $33.95",
+          "May 2026 pack price vs M1L pack price: 200 yen - 180 yen = 20 yen; 20 yen / 180 yen = 11.11% higher"
+        ],
+        "paragraphs": [
+          "Mega Brave, M1L, released in Japan on Friday, August 1, 2025, alongside its twin set M1S Mega Symphonia, and its cards reached English in the Mega Evolution set on September 26, 2025, with their own card list, numbering, and pull rates. The set is 92 cards by Limitless TCG set data: 63 in the base set, 001 to 063, and 29 in the secret tier, 064 to 092, as 12 Art Rares, 11 Super Rares, 5 Special Art Rares, and 1 Mega Ultra Rare. Sparkl counts 93 cards and prices 92, so the $510.61 set total covers 92 priced cards. Japanese cards are not legal at official English events, and the language gap is real: the Japanese gold at $253.35 sits $71.53 above the English gold at $181.82.",
+          "The twin set runs the same ladder with a different name on top. The M1S Gardevoir gold, also numbered 092/063, sits at $217.82 on TCGplayer market as of November 24, 2026, per TCGPursuit, $35.53 below the Lucario gold, and the M1S box on this shelf is $72.22 against M1L at $80.67. The [M1S investment guide](/blog/m1s-investment/) prices the twin set the same way.",
+          "The price history frames the next year. A pack cost 180 yen including tax at release, so a box listed at 5,400 yen, or $33.95 at the ECB November 23, 2026 fixing of 159.07 yen per dollar, the latest published as of November 24, 2026. The May 2026 Creatures price rise, pack 180 yen to 200 yen, arrived with M5 Abyss Eye and post-dates this set, so no 6,000-yen list price applies to M1L, and the rise to 230 yen a pack announced November 6, 2026 covers sets released from May 2027, not this one."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing the gold Lucario by opening boxes, who should buy the single at $253.35, because the gold is 3.14 boxes and the Pokemon Company publishes no pull rates. It is not for anyone who wants value spread across many cards, because one card holds 49.62 percent of the set. It is not for anyone who needs the prices to hold, because Lillie's Determination fell 35.93 percent in 24 days and the set value is down 8.6 percent in 90 days. It is not for anyone who wants the Gardevoir chase, because that is M1S at $72.22, not this set."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the ten cards, open the set, hold twelve boxes sealed, or own the gold Lucario.",
+          "If the job is the ten cards, buy the singles for $469.02, and check the set name on the gold, because both twin-set golds are numbered 092/063.",
+          "If the job is the gold, buy the single at $253.35, and do not open boxes for it, because it costs 3.14 boxes and no pull rate prices the chase.",
+          "If the job is one box, check the pack count first: 30 packs, $2.69 a pack, not 20 packs at $4.03, and know the box sits $2.31 above the $78.36 market box.",
+          "If the job is twelve boxes, take the case at $775.35, or $64.61 a box, which is $13.75 below the market box, and do not pay $80.67 for a single box unless one box is truly the plan.",
+          "If the job is the Lillie SAR, re-check the price before you pay, because it fell $44.68 in 24 days and has not found its floor yet.",
+          "If the job is the Center Set, know the shelf price first: $186.74, or 2.31 boxes, and decide whether the extras are worth it.",
+          "Check the wrap and seams before you pay, and remember the cutoff at rank 10 is a one-cent tie with Ivysaur at $4.65, so buy whichever of the two you want."
+        ],
+        "h": "Action layer: the M1L best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 24, 2026, the card prices from Sparkl's November 23, 2026 TCGplayer read unless another source and date is named, so re-divide before you pay if it has moved again."
+        ]
+      }
+    ],
+    "slug": "m1l-best-cards",
+    "takeaway": [
+      "The 10 best cards in M1L Mega Brave total $469.02 on TCGplayer market as of November 23, 2026, and the gold Mega Lucario ex alone is $253.35, or 54.02 percent of that total and 49.62 percent of the whole $510.61 set. The top five cards carry 85.36 percent of the set value, and 83 of the 92 priced cards sit under $5, so this set is one card and nine followers.",
+      "It is worth buying as singles for $469.02, which is 5.81 boxes, and it is not worth buying as sealed product to pull the gold, because the gold costs 3.14 boxes and the Pokemon Company publishes no pull rates. The box at $80.67 is $2.31 above the $78.36 market box, while the case at $775.35 divides to $64.61 a box, $13.75 below it, so the case is the only sealed route on this shelf that beats the market.",
+      "It is worth buying with the falls in mind: Lillie's Determination fell 35.93 percent in 24 days, from $124.35 to $79.67, and the Lucario SAR fell 30.28 percent, while the gold fell only 4.87 percent and the set fell 0.91 percent in six days. The market price is the ask side, not the last sale: the English gold carries a $181.82 market against a $156 sale-based read, and the Lucario SAR recently sold for as little as $37.52 against a $47.75 market.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 24, 2026, after the November repricing, and the card prices from Sparkl's November 23, 2026 TCGplayer read, cross-checked against Scryda. For the price-and-math companions, the [M1L investment guide](/blog/m1l-investment/) runs the case flip, the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) carries the full 92-card breakdown, the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set, and the [best Japanese Pokemon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices.",
+      "The twin set gets the same treatment in the [M1S Mega Symphonia best cards guide](/blog/m1s-best-cards/), where the ten best cards total $380.50 led by the gold Mega Gardevoir ex at $217.82."
+    ]
+  },
   "m1l-investment": {
     "datePublished": "2026-11-18",
     "faqs": [
@@ -44021,7 +44380,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the twin set in mind: M1S Mega Symphonia is $72.22 a box and $657.18 a case, with its Gardevoir gold at $230.63 on November 11, and both boxes together cost $152.89. In English the gold Mega Lucario ex runs $199.77 as of November 9, 2026, cheaper than the Japanese gold at $253.35, so the Japanese premium is a language premium, not a gold premium.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 3 to 17, 2026. The box is down 21 percent in 90 days while the set value is down only 7.0 percent, and the box is flat in the last ten days, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) divides the same shelf set by set, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
-      "New this cycle: the [M1S Mega Symphonia investment guide](/blog/m1s-investment/) prices the twin set the same way, with its box $5.33 below the $77.55 market box and its case dividing to $54.77 a box. The [FB09 Dual Evolution investment guide](/blog/fb09-investment/) prices the Dragon Ball set of the last cycle the same way, with the case dividing to $342.13 a box, $72.09 above the market box."
+      "Companion guide: the [M1S Mega Symphonia investment guide](/blog/m1s-investment/) prices the twin set the same way, with its box $5.33 below the $77.55 market box and its case dividing to $54.77 a box. The [FB09 Dual Evolution investment guide](/blog/fb09-investment/) prices the Dragon Ball set of the last cycle the same way, with the case dividing to $342.13 a box, $72.09 above the market box.",
+      "Best cards: the [M1L Mega Brave best cards guide](/blog/m1l-best-cards/) ranks the ten most valuable cards at $469.02, led by the gold Mega Lucario ex at $253.35, or 54.02 percent of the top ten."
     ]
   },
   "m1l-mega-brave-buyers-guide": {
@@ -44388,6 +44748,318 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [M1L Mega Brave investment guide](/blog/m1l-investment/) prices the Lucario half as an investment, with the case dividing to $64.61 a box, $15.71 below the $80.32 market box."
     ]
   },
+  "m1s-best-cards": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "The gold Mega Gardevoir ex, number 092, at $217.82 on TCGplayer market as of November 24, 2026, which is 57.25 percent of the $380.50 top ten and 52.12 percent of the $417.89 complete set. It is one of the first two Mega Ultra Rares ever printed, with the M1L Lucario gold, and it is 3.02 of our $72.22 boxes. Buy it as a single, because no pull rate prices the chase.",
+        "q": "What is the most valuable card in M1S Mega Symphonia?"
+      },
+      {
+        "a": "The ten best cards in M1S are worth $380.50 on TCGplayer market as of November 24, 2026, or 91.05 percent of the $417.89 complete set, and 5.27 of our $72.22 boxes. The top two cards, both Gardevoir, are $290.83, and cards six to ten together are $22.07. Sparkl's November 23, 2026 read put the same ten at $381.08, a difference of $0.58.",
+        "q": "How much are the top 10 M1S cards worth?"
+      },
+      {
+        "a": "No. The gold is $217.82, or 3.02 boxes, the top ten are $380.50, or 5.27 boxes, and the Pokemon Company publishes no pull rates for M1S, so no box is a calculated chase. Buy the box to open the set at $2.41 a pack, buy the case at $54.77 a box if you will open twelve, and buy the gold as a single if the gold is the job.",
+        "q": "Should I buy an M1S box to pull the gold Mega Gardevoir ex?"
+      }
+    ],
+    "h1": "M1S Best Cards: The 10 Most Valuable in Mega Symphonia",
+    "intro": [
+      "Short answer: the best card in M1S Mega Symphonia is the gold Mega Gardevoir ex, number 092, at $217.82 on TCGplayer market as of November 24, 2026, and the ten best cards together are worth $380.50, or 5.27 of our $72.22 booster boxes. The gold alone is 57.25 percent of the top ten and 52.12 percent of the whole $417.89 set, so this set is one card, one second card, and ninety cards sharing the rest. Buy the gold as a single, buy the box to open the set, and never buy the box to pull the gold, because the Pokemon Company publishes no pull rates for M1S.",
+      "Who this is for: the collector who wants the ten cards that carry the set, the buyer deciding between a box, a case, and singles, and the owner of a gold Gardevoir who wants to know what it is worth today. Who it is not for: anyone who wants a guaranteed return from opening boxes, anyone who wants Mega Absol ex, because Absol is not in this set, and anyone who wants the English cards, because this page prices the Japanese set only. Every price is stamped November 24, 2026, and every division shows its arithmetic."
+    ],
+    "metaDescription": "The 10 best M1S cards, priced: gold Mega Gardevoir ex $217.82 leads a $380.50 top 10. Box $72.22, case $657.18, set $417.89, Nov 24, 2026.",
+    "metaTitle": "M1S Best Cards: The 10 Most Valuable, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one gold card, then daylight",
+        "math": [
+          "Top ten total: $217.82 + $73.01 + $24.90 + $22.60 + $20.10 + $9.48 + $3.74 + $3.37 + $2.77 + $2.71 = $380.50",
+          "Gold Mega Gardevoir ex share of top ten: $217.82 / $380.50 = 57.25%",
+          "Gold Mega Gardevoir ex share of set: $217.82 / $417.89 = 52.12%",
+          "Gold vs second card: $217.82 / $73.01 = 2.98 times",
+          "Gold vs third card: $217.82 / $24.90 = 8.75 times",
+          "Gold vs tenth card: $217.82 / $2.71 = 80.38 times",
+          "Top two total: $217.82 + $73.01 = $290.83; $290.83 / $417.89 = 69.59% of the set",
+          "Top five total: $217.82 + $73.01 + $24.90 + $22.60 + $20.10 = $358.43; $358.43 / $417.89 = 85.77% of the set",
+          "Cards six to ten total: $9.48 + $3.74 + $3.37 + $2.77 + $2.71 = $22.07; $22.07 / $380.50 = 5.80% of the top ten",
+          "Sparkl cross-check, top ten: $381.08 - $380.50 = $0.58; $0.58 / $380.50 = 0.15% apart"
+        ],
+        "paragraphs": [
+          "The ranking below is TCGplayer market prices for Near Mint copies, read on TCGPursuit on November 24, 2026, cross-checked against Sparkl, whose November 23, 2026 read put the same ten at $381.08, a difference of $0.58, or 0.15 percent. The two sources disagree on five cards by a few cents each: Sparkl has the Gardevoir Special Art Rare at $73.31, the Latias Special Art Rare at $22.86, the Gardevoir Super Rare at $3.78, Stufful at $2.72, and Alakazam at $2.57. No card disagrees by more than $0.30, so the ranking is stable even though the cents move.",
+          "Read the table from the top down and the shape of the set is obvious. The gold at $217.82 is 2.98 times the second card, 8.75 times the third, and 80.38 times the tenth. The top two together are $290.83, or 69.59 percent of the whole set, and the top five are $358.43, or 85.77 percent. Cards six to ten together are $22.07, or 5.80 percent of the top ten, less than one Latias Special Art Rare.",
+          "One warning on names before you shop. Acerola's Mischief, number 090, is the same card some sources call Acerola's Prank, and Wally's Compassion, number 091, is Mitsuru's Kindness in the Japanese text, so check the number, not the name. Mega Absol ex is not in this set at all: the Absol chase belongs to the English Mega Evolution set, number 180, and to the unreleased Japanese M7 Hadou Seeker, where Mega Absol Z ex is a projected chase. If a listing offers you a Mega Absol ex from M1S, it is mislabelled."
+        ],
+        "table": {
+          "head": [
+            "Rank",
+            "Card",
+            "Number",
+            "Rarity",
+            "TCGplayer market, Nov 24, 2026",
+            "Boxes at $72.22"
+          ],
+          "rows": [
+            [
+              "1",
+              "Mega Gardevoir ex",
+              "092/063",
+              "Mega Ultra Rare",
+              "$217.82",
+              "3.02"
+            ],
+            [
+              "2",
+              "Mega Gardevoir ex",
+              "087/063",
+              "Special Art Rare",
+              "$73.01",
+              "1.01"
+            ],
+            [
+              "3",
+              "Mega Kangaskhan ex",
+              "089/063",
+              "Special Art Rare",
+              "$24.90",
+              "0.34"
+            ],
+            [
+              "4",
+              "Mega Latias ex",
+              "088/063",
+              "Special Art Rare",
+              "$22.60",
+              "0.31"
+            ],
+            [
+              "5",
+              "Acerola's Mischief",
+              "090/063",
+              "Special Art Rare",
+              "$20.10",
+              "0.28"
+            ],
+            [
+              "6",
+              "Wally's Compassion",
+              "091/063",
+              "Special Art Rare",
+              "$9.48",
+              "0.13"
+            ],
+            [
+              "7",
+              "Mega Gardevoir ex",
+              "078/063",
+              "Super Rare",
+              "$3.74",
+              "0.05"
+            ],
+            [
+              "8",
+              "Acerola's Mischief",
+              "084/063",
+              "Super Rare",
+              "$3.37",
+              "0.05"
+            ],
+            [
+              "9",
+              "Stufful",
+              "075/063",
+              "Art Rare",
+              "$2.77",
+              "0.04"
+            ],
+            [
+              "10",
+              "Alakazam",
+              "071/063",
+              "Art Rare",
+              "$2.71",
+              "0.04"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The money layer: the top ten against the box, the case, and the set",
+        "math": [
+          "Top ten share of set: $380.50 / $417.89 = 91.05%",
+          "Other 82 cards: $417.89 - $380.50 = $37.39; $37.39 / $417.89 = 8.95% of the set",
+          "Top ten vs Japanese box: $380.50 / $72.22 = 5.27 boxes",
+          "Top ten vs case per box: $380.50 / $54.77 = 6.95 boxes",
+          "Top ten vs market box: $380.50 / $77.76 = 4.89 boxes",
+          "Complete set vs Japanese box: $417.89 / $72.22 = 5.79 boxes",
+          "Complete set vs case per box: $417.89 / $54.77 = 7.63 boxes",
+          "Complete set vs market box: $417.89 / $77.76 = 5.37 boxes",
+          "Gold vs Japanese box: $217.82 / $72.22 = 3.02 boxes",
+          "Gold vs case per box: $217.82 / $54.77 = 3.98 boxes",
+          "Gold vs market box: $217.82 / $77.76 = 2.80 boxes",
+          "Gardevoir SAR vs Japanese box: $73.01 / $72.22 = 1.01 boxes",
+          "Five boxes vs top ten: 5 x $72.22 = $361.10; $380.50 - $361.10 = $19.40",
+          "Set fall Nov 11 to Nov 24: $442.24 - $417.89 = $24.35; $24.35 / $442.24 = 5.51% down",
+          "Gold fall Nov 11 to Nov 24: $230.63 - $217.82 = $12.81; $12.81 / $230.63 = 5.55% down",
+          "Gardevoir SAR fall Nov 11 to Nov 24: $75.67 - $73.01 = $2.66; $2.66 / $75.67 = 3.52% down",
+          "Latias SAR fall Nov 11 to Nov 24: $28.02 - $22.60 = $5.42; $5.42 / $28.02 = 19.34% down",
+          "Acerola SAR fall Nov 11 to Nov 24: $20.50 - $20.10 = $0.40; $0.40 / $20.50 = 1.95% down",
+          "Market box Nov 17 to Nov 23: $77.76 - $77.55 = $0.21; $0.21 / $77.55 = 0.27% up"
+        ],
+        "paragraphs": [
+          "The top ten total is $380.50, and the whole set is $417.89 on TCGplayer market as of November 24, 2026, so the top ten carry 91.05 percent of the set and the other 82 cards together are $37.39, or 8.95 percent. That concentration decides every purchase here: 86 of the 92 cards sit under $5. The full board runs in the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/).",
+          "Against sealed product the top ten look expensive and the set looks cheap. The top ten at $380.50 are 5.27 boxes at $72.22, 6.95 case boxes at $54.77, and 4.89 market boxes at $77.76, while the complete set at $417.89 is 5.79 boxes, 7.63 case boxes, and 5.37 market boxes. The gold alone at $217.82 is 3.02 boxes, 3.98 case boxes, and 2.80 market boxes. Buy the ten as singles and you pay $380.50 for certain cards; buy five boxes and you pay $361.10 for 750 cards that probably contain none of them.",
+          "The direction is down, and the fall is uneven. The set was $442.24 on November 11, 2026, so it has fallen $24.35, or 5.51 percent, in thirteen days, and Sparkl puts the ninety-day fall at 19.9 percent. The gold fell $12.81 in the same thirteen days, from $230.63 to $217.82, or 5.55 percent, the Gardevoir Special Art Rare fell $2.66, or 3.52 percent, and the Latias Special Art Rare fell $5.42, from $28.02 to $22.60, or 19.34 percent. The market box barely moved: $77.55 on November 17 to $77.76 on November 23, up $0.21, or 0.27 percent."
+        ]
+      },
+      {
+        "h": "The practical layer: buy by number, then by route",
+        "math": [
+          "M1S Japanese box per pack: $72.22 / 30 packs = $2.41 per pack; per card: $72.22 / 150 cards = $0.48 per card",
+          "M1S sealed case per box: $657.18 / 12 boxes = $54.77 per box; per pack: $657.18 / 360 packs = $1.83 per pack; per card: $657.18 / 1,800 cards = $0.37 per card",
+          "Case saving vs 12 single boxes: (12 x $72.22) - $657.18 = $209.46 per case",
+          "Three remaining SARs: $24.90 + $22.60 + $20.10 = $67.60",
+          "Last four cards: $3.74 + $3.37 + $2.77 + $2.71 = $12.59; $12.59 / $380.50 = 3.31% of the top ten",
+          "M1S box at 20 packs: $72.22 / 20 packs = $3.61 per pack"
+        ],
+        "paragraphs": [
+          "Start with the set code. M1S is printed on the box, on the pack, and in every listing title, and the card numbers run 001 to 092 out of 063, so a secret rare shows a number above 063. The gold is 092/063, the Gardevoir Special Art Rare is 087/063, Latias is 088/063, Kangaskhan is 089/063, Acerola's Mischief is 090/063, and Wally's Compassion is 091/063. Buy by number and rarity together: Gardevoir appears four times, as a Double Rare at 042, a Super Rare at 078, a Special Art Rare at 087, and the gold at 092, and the Super Rare at $3.74 is not the Special Art Rare at $73.01. The rarity marks run in our [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/).",
+          "Buy the singles in this order. First the gold at $217.82, because it is 57.25 percent of the top ten and it will not get cheaper by waiting for a box. Then the Gardevoir Special Art Rare at $73.01, which is 1.01 boxes and the only other card above a box. Then the three remaining Special Art Rares, Kangaskhan at $24.90, Latias at $22.60, and Acerola's Mischief at $20.10, which together are $67.60. Then Wally's Compassion at $9.48, and the last four cards at $3.74, $3.37, $2.77, and $2.71, which together are $12.59.",
+          "Buy sealed only from a listing that states the pack count. The [M1S Japanese booster box](/product/m1s-mega-symphonia-booster-box-japanese-pokemon-card/) holds 30 packs of 5 cards, 150 cards, at $72.22, or $2.41 a pack, and the [M1S sealed case](/product/m1s-mega-symphonia-sealed-case-12-boxes-japanese-pokemon-card/) holds 12 boxes, 360 packs, 1,800 cards, at $657.18, or $54.77 a box. If a listing says 20 packs it is describing the Premium Trainer Box MEGA, which holds 10 M1L packs and 10 M1S packs, not this box, and dividing $72.22 by 20 gives $3.61 a pack, a different verdict from the same price. Confirm the exact quote at checkout or on WhatsApp."
+        ]
+      },
+      {
+        "h": "The decision layer: singles, box, case, or Center Set",
+        "math": [
+          "M1S Japanese box vs market box: $77.76 - $72.22 = $5.54 below market; $5.54 / $77.76 = 7.12% below market",
+          "M1S case per box vs market box: $77.76 - $54.77 = $22.99 below market; $22.99 / $77.76 = 29.57% below market",
+          "M1S case vs 12 market boxes: (12 x $77.76) - $657.18 = $275.94 per case",
+          "Pokemon Center Set vs Japanese box: $150.71 / $72.22 = 2.09 boxes; $150.71 - $72.22 = $78.49 over one box",
+          "M1S Japanese box vs official: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.07 = $33.95; $72.22 - $33.95 = $38.27 above official; $72.22 / $33.95 = 2.13x official",
+          "M1S case per box vs official: $54.77 - $33.95 = $20.82 above official; $54.77 / $33.95 = 1.61x official"
+        ],
+        "paragraphs": [
+          "Six ways to spend on M1S, priced as of November 24, 2026. The singles route is the only one with a certain outcome, at $380.50 for the top ten or $417.89 for the whole set. The box route is the cheapest way to open the set, and the case route is the cheapest way to open twelve boxes. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) picks one box per buyer from the whole shelf.",
+          "The case row is the one to read twice. At $54.77 a box it sits $22.99 below the $77.76 market box, and twelve market boxes would cost $933.12 against our $657.18, a saving of $275.94. The Center Set row is the one to skip: $150.71 is 2.09 boxes, and the extras would need to be worth $78.49. The [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every set on the shelf."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Top 10 as singles",
+              "$380.50",
+              "n/a",
+              "Owning the ten best cards, for certain",
+              "No sealed upside; grading and condition risk"
+            ],
+            [
+              "Complete set as singles",
+              "$417.89",
+              "n/a",
+              "Owning all 92 cards",
+              "82 cards worth $37.39 between them"
+            ],
+            [
+              "Japanese box",
+              "$72.22",
+              "$2.41",
+              "Opening Mega Symphonia in Japanese",
+              "2.13 times the official 5,400 yen box price"
+            ],
+            [
+              "Sealed case (12)",
+              "$657.18",
+              "$1.83",
+              "Twelve boxes below the market box",
+              "$657.18 committed at once"
+            ],
+            [
+              "Market box",
+              "$77.76",
+              "$2.59",
+              "One box at the market price",
+              "$5.54 above our box; shipping and import on top"
+            ],
+            [
+              "Pokemon Center Set",
+              "$150.71",
+              "n/a",
+              "The set with the extras",
+              "$78.49 over one box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top guides miss: the total, the division, and the verdict",
+        "note": "From the Warehouse: the question we get most in chat about M1S is which card to buy first, and the answer is always the same card, the gold Gardevoir, because it is more than half the top ten. The second question is whether to open boxes to find it, and the answer is the division: the gold is 3.02 boxes, the top ten are 5.27 boxes, and no pull rate exists to argue with. What we see in allocation is that buyers who open one box for fun are happy and buyers who open five boxes for the gold are not, and the difference is the job they set before they paid.",
+        "paragraphs": [
+          "The top three results for this query all rank the cards and stop. Samurai Sword Tokyo's which-cards-to-choose guide, updated November 9, 2026, picks the gold, the Acerola Special Art Rare, and the Latias Super Rare by collector goal, and its pull-rates guide, updated October 15, 2026, ranks the top ten by SNKRDUNK asks from October 8, which puts the gold at about $175, a month and a half stale. Neokyo's twin-set guide, checked in September 2026, names the chase cards, but its prices are two months old.",
+          "What none of them does is the work this page does. None totals the top ten, none divides it against a live store box and case, none prices the complete set against the box, none carries a dated TCGplayer market read, and none gives a buy-singles-or-buy-sealed verdict with the arithmetic attached. The Samurai Sword pull-rates guide comes closest on identity, with the four-tier Gardevoir ladder and the 092/063 warning, but it is a Tokyo shop's PSA 10 catalogue, not a market ranking, and its asks are October 8."
+        ]
+      },
+      {
+        "h": "The risk layer: the chase, the slide, and the wrong card",
+        "paragraphs": [
+          "The first risk is the chase itself. The gold at $217.82 is 3.02 boxes, the top five are 85.77 percent of the set, and 86 of the 92 cards sit under $5, so a box opened for value is a box opened against five cards. The Pokemon Company publishes no pull rates for M1S, so no expected value may be printed, and the community-reported box structure of about 4 RR Mega ex, 3 Art Rares, and 2 Super Rares per box is community-reported, never odds. If the plan fails, stop opening, hold the box sealed, and buy the named card as a single.",
+          "The second risk is the falling set. The set value is down 19.9 percent in ninety days and 5.51 percent in the last thirteen, the Latias Special Art Rare is down 19.34 percent in thirteen days, and the market box is flat, up 0.27 percent in six days. A sealed box bought to hold has lost value in every window we can measure, so buy it to open it.",
+          "The third risk is the reseal and the wrong card. M1S is a target because the box is cheap and the gold is dear, so check the shrink wrap for a second seam and the box flaps for glue that has been reheated, and photograph the box before opening. The 092/063 trap is the other risk: the M1S gold and the M1L gold are both numbered 092/063, because both sets are 92-card sets, and a buyer who searches the number alone can pay M1L money for the Gardevoir gold, or the reverse. Check the set name, not the number, and read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first."
+        ]
+      },
+      {
+        "h": "Context: 92 cards, the 180 yen pack, and the English split",
+        "math": [
+          "M1S official box at the later price: 30 packs x 200 yen = 6,000 yen; 6,000 yen / 159.07 = $37.72; $37.72 - $33.95 = $3.77 above the M1S official price",
+          "English gold vs Japanese gold: $217.82 - $151.41 = $66.41",
+          "English Gardevoir SIR vs Japanese SAR: $155.31 - $73.01 = $82.30",
+          "English Gardevoir SIR fall Nov 9 to Nov 22: $155.31 - $146.76 = $8.55; $8.55 / $155.31 = 5.51% down",
+          "M1L vs M1S Japanese box: $80.67 - $72.22 = $8.45 per box",
+          "M1L vs M1S sealed case: $775.35 - $657.18 = $118.17 per case"
+        ],
+        "paragraphs": [
+          "Mega Symphonia, M1S in the MEGA era, released in Japan on Friday, August 1, 2025, alongside its twin set M1L Mega Brave, and it opens the Mega Evolution era with Mega Gardevoir ex as its cover card, printed in four tiers up to a gold Mega Ultra Rare, one of the first two ever printed. The set is 92 cards: 63 in the base set, 001 to 063, and 29 in the secret tier, 064 to 092: 12 Art Rares, 11 Super Rares, 5 Special Art Rares, and 1 Mega Ultra Rare. The five Mega ex are Gardevoir, Latias, Kangaskhan, Abomasnow, and Manectric.",
+          "A pack is 180 yen including tax, 5 cards, and a box is 30 packs, 150 cards, at a 5,400 yen official price, which is $33.95 at the ECB November 23, 2026 fixing of 159.07 yen per dollar, the latest published as of November 24, 2026. Do not price this set at 6,000 yen a box: the pack rose from 180 yen to 200 yen for sets released from May 2026, with M5 Abyss Eye the first at the new price, and M1S predates the rise by nine months. A second rise, to 230 yen a pack, was announced on November 6, 2026 for sets released from May 2027, and it does not touch M1S.",
+          "In English the same cards split in opposite directions. The English Mega Evolution set, released September 26, 2025, about eight weeks after the Japanese launch, puts the gold Mega Gardevoir ex at $151.41 as of November 11, 2026, or $66.41 below the Japanese gold, while the English Gardevoir Special Illustration Rare runs $155.31 as of November 9, 2026, or $82.30 above the Japanese Special Art Rare at $73.01. A later read, Double Holo on November 22, 2026, put the English Special Illustration Rare at $146.76, so the English art rare is falling too. Every M1S card carries regulation mark I, and Standard play uses marks H, I, and J since the April 10, 2026 rotation. The twin set runs in the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/), and the twin top ten is in the [M1L best cards guide](/blog/m1l-best-cards/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named card by opening boxes, who should buy the single: the gold Mega Gardevoir ex is 3.02 boxes, and no pull rate prices the chase another way. It is not for anyone who wants Mega Absol ex, because Absol is not in M1S: the English Absol is number 180 in the English Mega Evolution set, and the Japanese Mega Absol Z ex is a projected chase in the unreleased M7 Hadou Seeker. It is not for anyone buying the Pokemon Center Set at our price, because $150.71 is 2.09 boxes. It is not for anyone who needs the set to hold its value, because the set value is down 19.9 percent in ninety days. And it is not for anyone who wants the Lucario chase, because that is M1L, not this set."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the ten best cards, own the gold, open the set, or hold sealed.",
+          "If the job is the ten best cards, buy them as singles for $380.50: the gold at $217.82, the Gardevoir Special Art Rare at $73.01, then Kangaskhan at $24.90, Latias at $22.60, and Acerola's Mischief at $20.10.",
+          "If the job is the gold alone, buy the single at $217.82, check the set name as well as the number, because both twin golds are numbered 092/063.",
+          "If the job is one box, buy the M1S Japanese booster box at $72.22, which is $2.41 a pack across 30 packs of 5 cards, and do not divide by 20.",
+          "If the job is twelve boxes, take the case at $657.18, or $54.77 a box, which is $22.99 below the $77.76 market box, and $275.94 below twelve market boxes.",
+          "If the job is the Pokemon Center Set, know the shelf price first: $150.71 against one box at $72.22, and decide whether the extras are worth $78.49.",
+          "Check the wrap and seams before you pay, and remember there is no pull rate to divide, so no box is a calculated chase."
+        ],
+        "h": "Action layer: the M1S best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order. Every price here is stamped November 24, 2026, the market figures are TCGplayer market prices read on TCGPursuit that day and cross-checked against Sparkl on November 23, so re-divide before you pay if it has moved again."
+        ]
+      }
+    ],
+    "slug": "m1s-best-cards",
+    "takeaway": [
+      "The ten best cards in M1S Mega Symphonia are worth $380.50 on TCGplayer market as of November 24, 2026, led by the gold Mega Gardevoir ex at $217.82, which is 57.25 percent of the top ten and 52.12 percent of the $417.89 complete set. The top five carry 85.77 percent of the set, and the other 82 cards together are $37.39.",
+      "Buy the cards as singles if the cards are the job: $380.50 for the top ten, $417.89 for the whole set, against $72.22 for one box, $2.41 a pack, and $657.18 for a case, $54.77 a box. The box beats the $77.76 market box by $5.54, the case box beats it by $22.99, and twelve market boxes would cost $933.12 against our $657.18 case.",
+      "The set is falling and the box is flat: the set value is down 19.9 percent in ninety days and 5.51 percent since November 11, 2026, the Latias Special Art Rare is down 19.34 percent in thirteen days, and the market box is up 0.27 percent in six days. Mega Absol ex is not in this set: the Absol chase is English Mega Evolution number 180 and the unreleased Japanese M7 Hadou Seeker.",
+      "Companion guides: the [M1S Mega Symphonia investment guide](/blog/m1s-investment/) carries the buy-the-box verdict at November 17 prices, the [is M1S worth buying guide](/blog/is-m1s-worth-buying/) carries the case flip, the [M1S Mega Symphonia buyer's guide](/blog/m1s-mega-symphonia-buyers-guide/) divides the whole shelf, and the [M1L best cards guide](/blog/m1l-best-cards/) ranks the twin set the same way."
+    ]
+  },
   "m1s-investment": {
     "datePublished": "2026-11-18",
     "faqs": [
@@ -44603,7 +45275,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the twin set in mind: M1L Mega Brave is $80.67 a box and $775.35 a case, with its Lucario gold at $253.35 on November 17, and both boxes together cost $152.89. In English the gold Mega Gardevoir ex runs $151.41 as of November 11, 2026, cheaper than the Japanese gold at $217.82, while the English Special Illustration Rare at $155.31 is dearer than the Japanese Special Art Rare at $74.55, so the language premium runs in opposite directions on the two Gardevoir prints.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 8 to 17, 2026. The set value is down 19.1 percent in 90 days while the market box is down only 11 percent, which is the fact that outlives every price on this page: a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [M1S Mega Symphonia buyer's guide](/blog/m1s-mega-symphonia-buyers-guide/) divides the same shelf set by set, and the [M1L versus M1S guide](/blog/m1l-vs-m1s-which-to-buy/) prices the twin set the same way. The [best Japanese Pokémon sealed case guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case to per-box prices, and the [is SV2A worth buying guide](/blog/is-sv2a-worth-buying/) prices Pokémon 151 the same way.",
-      "The twin launch set gets the same treatment in the [M1L Mega Brave investment guide](/blog/m1l-investment/), and the next set in the run is the [M2 Inferno X investment guide](/blog/m2-investment/). The cheapest MEGA-era box gets the same treatment in the [M3 Munikis Zero investment guide](/blog/m3-investment/)."
+      "The twin launch set gets the same treatment in the [M1L Mega Brave investment guide](/blog/m1l-investment/), and the next set in the run is the [M2 Inferno X investment guide](/blog/m2-investment/). The cheapest MEGA-era box gets the same treatment in the [M3 Munikis Zero investment guide](/blog/m3-investment/).",
+      "Best cards: the [M1S Mega Symphonia best cards guide](/blog/m1s-best-cards/) ranks the ten most valuable cards at $380.50, led by the gold Mega Gardevoir ex at $217.82, or 57.25 percent of the top ten."
     ]
   },
   "m1s-mega-symphonia-buyers-guide": {
