@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
+  allProducts,
   categoryPhrase,
   productLanguage,
   categoryPageUrl,
@@ -24,6 +25,12 @@ import {
    ──────────────────────────────────────────────────────────── */
 
 export const dynamic = "force-dynamic";
+
+/* Static-export builds (scripts/build-static.sh) need the route list up
+   front; the server build ignores this while force-dynamic is set. */
+export async function generateStaticParams() {
+  return allProducts.map((p) => ({ slug: p.slug }));
+}
 
 function truncate(s: string, max: number): string {
   if (s.length <= max) return s;

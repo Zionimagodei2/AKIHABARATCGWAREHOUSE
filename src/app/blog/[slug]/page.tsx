@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { SITE_URL, URL_TRAILING } from "@/lib/product-data";
+import { POST_SLUGS } from "@/lib/blog-data";
 import type { BlogPostData } from "@/lib/content-types";
 import {
   getBlogIndexPosts,
@@ -39,6 +40,12 @@ function RichText({ text }: { text: string }) {
    blog pipeline keeps working untouched. */
 
 export const dynamic = "force-dynamic";
+
+/* Static-export builds (scripts/build-static.sh) need the route list up
+   front; the server build ignores this while force-dynamic is set. */
+export async function generateStaticParams() {
+  return POST_SLUGS.map((slug) => ({ slug }));
+}
 
 export async function generateMetadata({
   params,

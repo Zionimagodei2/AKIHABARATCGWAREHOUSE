@@ -26,8 +26,28 @@ mkdir -p "$STASH"
 # 1. Park the API routes (and their generated .next cache) outside the build
 [ -d src/app/api ] && mv src/app/api "$STASH/api"
 
+# 1b. Neutralize force-dynamic on pages/layout for the static build.
+#     `output: "export"` cannot export any route marked force-dynamic —
+#     the admin build marks the DB-backed pages so the server build reads
+#     the newest publication at request time. The originals are copied to
+#     the stash and restored byte-identical by restore(); the static
+#     prerender then falls back to the compiled defaults (no DATABASE_URL
+#     locally), which is all the pipeline's export check needs.
+DYNAMIC_FILES=$(grep -rl 'export const dynamic = "force-dynamic";' src/app --include='page.tsx' --include='layout.tsx' || true)
+mkdir -p "$STASH/dynamic"
+for f in $DYNAMIC_FILES; do
+  mkdir -p "$STASH/dynamic/$(dirname "$f")"
+  cp "$f" "$STASH/dynamic/$f"
+  sed -i 's|^export const dynamic = "force-dynamic";$|// STATIC-BUILD: force-dynamic neutralized for static export|' "$f"
+done
+
 restore() {
   [ -d "$STASH/api" ] && mv "$STASH/api" src/app/api
+  if [ -d "$STASH/dynamic" ]; then
+    find "$STASH/dynamic" -type f | while read -r sf; do
+      cp "$sf" "${sf#$STASH/dynamic/}"
+    done
+  fi
   rm -rf "$STASH"
 }
 trap restore EXIT

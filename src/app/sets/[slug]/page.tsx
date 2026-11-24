@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import type { SetHub } from "@/lib/content-data";
+import { SET_SLUGS, type SetHub } from "@/lib/content-data";
 import { SITE_URL, URL_TRAILING, type Product } from "@/lib/product-data";
 import {
   getPublishedCatalog,
@@ -16,6 +16,12 @@ import {
    ──────────────────────────────────────────────────────────── */
 
 export const dynamic = "force-dynamic";
+
+/* Static-export builds (scripts/build-static.sh) need the route list up
+   front; the server build ignores this while force-dynamic is set. */
+export async function generateStaticParams() {
+  return SET_SLUGS.map((slug) => ({ slug }));
+}
 
 export async function generateMetadata({
   params,
