@@ -7511,7 +7511,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [M1L Mega Brave buyer's guide](/blog/m1l-mega-brave-buyers-guide/) prices the MEGA-era opener, box $94.91 against a case that saves $226.74, with the 092/063 trap and the 20-pack correction.",
       "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box.",
       "New this cycle: the [Japanese Pokémon cards price index](/blog/japanese-pokemon-cards-price/) prices every format on the shelf in one place — all 90 boxes, 40 cases, the starters, and the five premium boxes no guide had priced.",
-      "For the channel version of this question, the [where to buy Japanese booster boxes guide](/blog/where-to-buy-japanese-booster-box/) compares the Warehouse shelf against Best Buy, Target, a US flash sale and the Buyee proxy stack, box by box and pack by pack, with the cheapest box Rebellion Crash at $36.58."
+      "For the channel version of this question, the [where to buy Japanese booster boxes guide](/blog/where-to-buy-japanese-booster-box/) compares the Warehouse shelf against Best Buy, Target, a US flash sale and the Buyee proxy stack, box by box and pack by pack, with the cheapest box Rebellion Crash at $36.58.",
+      "For the full shelf board, the [Japanese Pokemon booster box guide](/blog/japanese-pokemon-booster-box/) prices all 39 boxes, $72.22 to $3,335.50, with per-pack costs from $2.41 to $146.14."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -15616,7 +15617,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "On November 8, 2026, the cheapest Japanese Pokémon booster box on the Warehouse shelf is Rebellion Crash (s2) at $43.03, or $1.43 a pack and $0.29 a card, and the cheapest current-era box is M3 Munikis Zero at $70.62, or $2.35 a pack. Sixteen boxes sit under $95, and the floor runs $1.43 to $3.16 a pack.",
       "The floor is not the value. The $27.59 between Rebellion Crash and M3 buys a 2026 set with a MUR chase instead of a 2020 set, and the M3 case costs $200.76 more than its singles while the M2 case saves $864.48. Divide the box, divide the case, and buy the job, not the price.",
-      "For the same shelf ranked by buyer instead of by price, see [Best Japanese Pokémon Booster Box](/blog/best-japanese-pokemon-booster-box/). For the best-value ladder in full, see [Best Value Japanese Pokémon Booster Boxes](/blog/best-value-japanese-pokemon-booster-boxes/). For the case-versus-box division, see [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). For whether to open or hold, see [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/)."
+      "For the same shelf ranked by buyer instead of by price, see [Best Japanese Pokémon Booster Box](/blog/best-japanese-pokemon-booster-box/). For the best-value ladder in full, see [Best Value Japanese Pokémon Booster Boxes](/blog/best-value-japanese-pokemon-booster-boxes/). For the case-versus-box division, see [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/). For whether to open or hold, see [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/).",
+      "For the full board behind this pick, the [Japanese Pokemon booster box guide](/blog/japanese-pokemon-booster-box/) prices all 39 boxes, $72.22 to $3,335.50, with per-pack costs from $2.41 to $146.14."
     ]
   },
   "comprar-cartas-one-piece-japonesas": {
@@ -18008,7 +18010,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the ranking, the [best Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) picks the buy by job, and the [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) prices every Dragon Ball product we stock. For the other game's cases, the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) divides all 15 Lorcana cases the same way. Re-run the division on the day you pay.",
       "Companion guide: the [FB10 best cards guide](/blog/fb10-best-cards/) ranks the ten best Cross Force cards, top ten $1,922.06, with the Cell Super Alternate Art at $999.43, on the November 23, 2026 read.",
       "For the cheapest split box on the shelf, the [FB04 best cards guide](/blog/fb04-best-cards/) ranks the ten best Ultra Limit cards, top ten $302.20, with the Goku Alternate Art at $105.48, against the $90.61 case-split box.",
-      "For the earliest sets, the [FB02 best cards guide](/blog/fb02-best-cards/) ranks the ten best Blazing Aura cards, top ten $1,061.96, with the Vegito Super Alternate Art at $722.00."
+      "For the earliest sets, the [FB02 best cards guide](/blog/fb02-best-cards/) ranks the ten best Blazing Aura cards, top ten $1,061.96, with the Vegito Super Alternate Art at $722.00.",
+      "For the first set, the [FB01 best cards guide](/blog/fb01-best-cards/) ranks the ten best Awakened Pulse cards, top ten $2,078.79, with the Son Goku Super Alternate Art at $1,499.99."
     ]
   },
   "dragon-ball-fusion-world-sealed-case-price": {
@@ -22087,6 +22090,256 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [Japanese One Piece cards price index](/blog/japanese-one-piece-cards-price/) sets the English prices beside the Japanese ones for all 25 sets, with the gap and the case saving for each."
     ]
   },
+  "fb01-best-cards": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "Son Goku, FB01-139 Super Alternate Art, at $1,499.99 on the November 22, 2026 TCGplayer market read from Sparkl, checked November 24, 2026. It is 72.16% of the top ten, which totals $2,078.79, and it sits $1,355.83 above the second card, the Son Gohan : Childhood FB01-140 Alternate Art at $144.16. The graded market does not pay more: PSA 10 copies are listed from $1,525.00 on eBay, and after grading and selling costs a 10 nets $1,291.75, which is $13.24 less than a raw sale nets.",
+        "q": "What is the most valuable FB01 Awakened Pulse card?"
+      },
+      {
+        "a": "No, not as a plan. The Goku Super Alternate Art is $1,499.99, which is 478.04% of our $313.78 case-split box, and Bandai publishes no pull rates for this set, so no honest expected-value math exists for the chase. WorthRipping puts an alt-art Secret Rare at 1 in 14 boxes, and its simulation puts $88.21 of cards inside the average box after selling costs, against a $313.78 box. Buy the single if the Goku is the card you want, and buy the box only if you want to open Awakened Pulse.",
+        "q": "Should I buy an FB01 box to pull the Goku Super Alternate Art?"
+      },
+      {
+        "a": "At Japanese retail, yes, and as a product, no. A Japanese box holds 24 packs of 6 cards at 220 yen a pack, so 5,280 yen at retail, which converts to $33.19 at the ECB November 23, 2026 fixing of 159.07 yen per dollar. An English box holds 24 packs of 12 cards, and our case-split English box is $313.78 as of November 24, 2026. The two boxes are different products in different languages, Japanese cards are not legal at official English events, and there is no Japanese FB01 listing on our shelf at all, so never divide box math from a listing that does not exist.",
+        "q": "Is the Japanese FB01 box cheaper than the English box?"
+      }
+    ],
+    "h1": "FB01 Awakened Pulse Best Cards: Top 10, Priced",
+    "intro": [
+      "Short answer: the best card in FB01 Awakened Pulse is Son Goku, FB01-139 Super Alternate Art, at $1,499.99 on the November 22, 2026 TCGplayer market read from Sparkl, checked November 24, 2026, and the ten best together are $2,078.79. On our shelf, as of November 24, 2026, the sealed English case is $3,765.33, which splits to $313.78 a box, and there is no single English box on the shelf. Buy the box to open Awakened Pulse, buy the single for the Goku.",
+      "Awakened Pulse, set code FB01, is 140 numbered cards: 8 Leaders, 52 commons, 36 uncommons, 30 rares, 12 Super Rares, and 2 Secret Rares, plus 23 alternate-art versions, for 163 printings in all. It released in Japan on February 16, 2024 and in English on February 23, 2024. English packs hold 12 cards plus a digital code, and a box holds 24 packs. The [FB02 best cards guide](/blog/fb02-best-cards/) ranks the set after this one the same way."
+    ],
+    "metaDescription": "FB01 Awakened Pulse best cards, Nov 24, 2026: Goku Super Alt-Art $1,499.99, top ten $2,078.79, case-split box $313.78, case $3,765.33.",
+    "metaTitle": "FB01 Awakened Pulse Best Cards: Top 10, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: a $1,499.99 Goku leads the steepest top ten in the series",
+        "math": [
+          "FB01 top 10 total: $1,499.99 + $144.16 + $115.93 + $82.02 + $71.41 + $46.62 + $38.19 + $29.81 + $25.55 + $25.11 = $2,078.79",
+          "FB01 top 5 total: $1,499.99 + $144.16 + $115.93 + $82.02 + $71.41 = $1,913.51; $1,913.51 / $2,078.79 = 92.05% of the top 10",
+          "FB01 ranks 6 to 10 total: $46.62 + $38.19 + $29.81 + $25.55 + $25.11 = $165.28; $165.28 / $2,078.79 = 7.95% of the top 10",
+          "FB01 top card share: $1,499.99 / $2,078.79 = 72.16% of the top 10",
+          "FB01 rank 2 share: $144.16 / $2,078.79 = 6.93% of the top 10",
+          "FB01 rank 3 share: $115.93 / $2,078.79 = 5.58% of the top 10",
+          "FB01 rank 4 share: $82.02 / $2,078.79 = 3.95% of the top 10",
+          "FB01 rank 5 share: $71.41 / $2,078.79 = 3.44% of the top 10",
+          "FB01 rank 6 share: $46.62 / $2,078.79 = 2.24% of the top 10",
+          "FB01 rank 7 share: $38.19 / $2,078.79 = 1.84% of the top 10",
+          "FB01 rank 8 share: $29.81 / $2,078.79 = 1.43% of the top 10",
+          "FB01 rank 9 share: $25.55 / $2,078.79 = 1.23% of the top 10",
+          "FB01 rank 10 share: $25.11 / $2,078.79 = 1.21% of the top 10",
+          "FB01 gap one to two: $1,499.99 - $144.16 = $1,355.83; $1,499.99 / $144.16 = 10.41 times number two",
+          "FB01 gap two to three: $144.16 - $115.93 = $28.23",
+          "FB01 gap five to six: $71.41 - $46.62 = $24.79",
+          "FB01 gap six to seven: $46.62 - $38.19 = $8.43",
+          "FB01 set value: top 10 $2,078.79 / $2,275.96 = 91.34% of the set; $2,275.96 - $2,078.79 = $197.17 across the other 153 priced printings",
+          "FB01 top 5 share of the set: $1,913.51 / $2,275.96 = 84.07% of the set",
+          "FB01 Sparkl top 10 gap: $2,079.39 - $2,078.79 = $0.60; $0.60 / $2,079.39 = 0.03% between the two sums",
+          "FB01 Hoshino Gohan 140: $144.16 - $133.00 = $11.16; $11.16 / $144.16 = 7.74% below the TCGplayer read",
+          "FB01 Hoshino Gohan 071: $115.93 - $111.00 = $4.93; $4.93 / $115.93 = 4.25% below the TCGplayer read",
+          "FB01 Hoshino Goku Black: $82.02 - $80.26 = $1.76; $1.76 / $82.02 = 2.15% below the TCGplayer read",
+          "FB01 TickerMint top 5: $1,914.00 - $1,913.51 = $0.49; $0.49 / $1,914.00 = 0.03% between the two reads",
+          "FB01 second five vs second card: $165.28 - $144.16 = $21.12"
+        ],
+        "paragraphs": [
+          "The ranked ten, all TCGplayer market prices from Sparkl, read November 22, 2026 and checked November 24, 2026: Son Goku FB01-139 Super Alternate Art at $1,499.99, Son Gohan : Childhood FB01-140 Alternate Art at $144.16, Son Gohan : Childhood FB01-071 Alternate Art at $115.93, Goku Black FB01-035 Alternate Art at $82.02, and Son Goku FB01-139 Alternate Art at $71.41. The top five together are $1,913.51, 92.05% of the whole top ten, and the gap from first to second is $1,355.83.",
+          "The second five: Trunks : Future FB01-036 Alternate Art at $46.62, Son Goku FB01-001 Alternate Art at $38.19, Beerus FB01-002 Alternate Art at $29.81, Android 17 FB01-070 Alternate Art at $25.55, and Cooler FB01-105 Alternate Art at $25.11. Ranks six to ten together are $165.28, 7.95% of the top ten, and the drop from fifth to sixth is $24.79. The top card alone is 72.16% of the whole list, and the top ten together are 91.34% of the whole set value of $2,275.96.",
+          "All ten are alternate arts, and the set holds 16 cards worth $10 or more, with 139 of its 163 printings under $5. Cross-checks hold: Hoshino prices the Son Gohan FB01-140 Alternate Art at $133.00 from 10 sales, the Son Gohan FB01-071 Alternate Art at $111.00, and the Goku Black Alternate Art at $80.26, all on November 21, 2026, and TickerMint puts the five priciest singles at $1,914.00, against our $1,913.51. The [FB04 best cards guide](/blog/fb04-best-cards/) ranks a later set the same way."
+        ]
+      },
+      {
+        "h": "The money layer: the case-split box at $313.78",
+        "math": [
+          "FB01 case-split box: $3,765.33 / 12 boxes = $313.78 per box",
+          "FB01 shelf per pack: $3,765.33 / 288 packs = $13.07 per pack",
+          "FB01 shelf per card: $3,765.33 / 3,456 cards = $1.09 per card",
+          "FB01 market box per pack: $343.71 / 24 packs = $14.32 per pack",
+          "FB01 market box per card: $343.71 / 288 cards = $1.19 per card",
+          "FB01 market box gap: $343.71 - $313.78 = $29.93; $29.93 / $343.71 = 8.71% below market",
+          "FB01 market box per-pack gap: $14.32 - $13.07 = $1.25",
+          "FB01 twelve market boxes: 12 x $343.71 = $4,124.52; $4,124.52 - $3,765.33 = $359.19 saved on the case",
+          "FB01 market case gap: $3,765.33 - $3,750.00 = $15.33; $15.33 / $3,750.00 = 0.41% above the market case",
+          "FB01 market pack gap: $15.48 - $13.07 = $2.41; $2.41 / $15.48 = 15.57% below the market pack",
+          "FB01 top 10 against the case: $2,078.79 / $3,765.33 = 55.21% of the case price",
+          "FB01 top 10 in split boxes: $2,078.79 / $313.78 = 6.62 boxes",
+          "FB01 top 10 in market boxes: $2,078.79 / $343.71 = 6.05 boxes",
+          "FB01 top card against the split box: $1,499.99 / $313.78 = 478.04% of one box",
+          "FB01 top card against the case: $1,499.99 / $3,765.33 = 39.84% of the case",
+          "FB01 official box: 24 x $4.99 = $119.76; $313.78 - $119.76 = $194.02; $194.02 / $119.76 = 162.01% above the official box",
+          "FB01 WorthRipping box gap: $343.71 - $221.41 = $122.30; $122.30 / $343.71 = 35.58% below the market box",
+          "FB01 WorthRipping box vs split: $313.78 - $221.41 = $92.37; $92.37 / $313.78 = 29.44% below our case-split box",
+          "FB01 three split boxes: 3 x $313.78 = $941.34; $2,078.79 - $941.34 = $1,137.45 above three boxes"
+        ],
+        "paragraphs": [
+          "Our shelf, as of November 24, 2026, holds one FB01 listing, the sealed English case at $3,765.33, which splits to $313.78 a box and $13.07 a pack. The market box, at $343.71 on the November 22, 2026 TCGplayer market read, runs $14.32 a pack and $1.19 a card, so our case-split box sits $29.93, or 8.71%, below it. Twelve market boxes would cost $4,124.52, so the case saves $359.19 against them.",
+          "The market case itself is listed at $3,750.00 on TCGplayer, so our shelf case sits $15.33, or 0.41%, above it, the one place our case does not beat the market. The market pack is $15.48, so our $13.07 shelf pack sits $2.41 below it. The official English box, 24 packs at $4.99, is $119.76, and our case-split box sits $194.02 above it, 162.01% above, because the set is out of print.",
+          "The top ten together, at $2,078.79, are 55.21% of the case price, 6.62 case-split boxes, and 6.05 market boxes. The top card alone is 39.84% of the whole case and 478.04% of one case-split box. WorthRipping, on November 23, 2026, puts its box read at $221.41, $92.37 below our case-split box and $122.30 below the TCGplayer market box. The [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) prices the whole ladder, and the [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, the finish, and the set",
+        "math": [
+          "FB01 Goku SAA premium: $1,499.99 / $71.41 = 21.01 times the Alternate Art; $1,499.99 - $71.41 = $1,428.58 above it",
+          "FB01 Gohan 140 vs Goku AA: $144.16 - $71.41 = $72.75",
+          "FB01 AR Trunks gap: $46.62 - $36.85 = $9.77 below the main-set Trunks Alternate Art",
+          "FB01 PR Pilaf: $11.98; $11.98 / $2,078.79 = 0.58% of the top ten",
+          "FB01-015 Regionals PSA 10 estimate: $276.00; $276.00 / $1,499.99 = 18.40% of the top card",
+          "FB01 cheapest ranked vs Leader median: $25.11 / $8.46 = 2.97 times the Leader median"
+        ],
+        "paragraphs": [
+          "Every card in this ranking carries a set code, and the code plus the finish is the only safe way to buy it. Son Goku prints three times at FB01-139: Super Alternate Art at $1,499.99, Alternate Art at $71.41, and the base Secret Rare, which sits at or below $71.41, the median of the five Secret Rare printings. The Super Alternate Art costs 21.01 times the Alternate Art, a gap of $1,428.58. All eight Leaders print twice, base and Alternate Art, and eight of the ten ranked cards are Leader alternate arts.",
+          "The set code prints on the card itself, with the rarity letter beside the number, and the finish shows in the art treatment, not the name. Do not confuse the main set with the Awakened Pulse Alternate Art Reprints, set code FB01_AR, released May 10, 2024, a six-card set topped by the Trunks : Future FB01-049 Alternate Art at $36.85. Do not confuse the main set with the Pre-Release Cards, set code FB01_PR, released February 16, 2024, 88 listings topped by the Pilaf FB01-056 at $11.98, last sold September 27, 2026.",
+          "On our shelf, as of November 24, 2026, sealed FB01 means the case at $3,765.33, split to $313.78 a box, and there is no single English box listed and no Japanese FB01 listing at all. Do not confuse the Son Goku FB01-015 Super Rare Alternate Art with the Regionals Top Prize printing of the same number, a different product with a PSA 10 estimate of $276.00 on November 23, 2026. The cheapest ranked card is the Cooler FB01-105 Alternate Art at $25.11, 2.97 times the Leader median of $8.46, so every ranked Leader alternate art sits far above the middle of its own rarity."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "Six ways to spend on FB01, priced as of November 24, 2026, with the market box at its November 22, 2026 price. The case-split box wins on per-pack cost, the singles win on certainty, and the Japanese box at retail wins nothing as a purchase, because it is a different product in a different language and retail stock at that price is long gone. Most buyers should pick the single, if the goal is a named card, or the case-split box, if the goal is opening the set. The [FB08 investment guide](/blog/fb08-investment/) runs the same figures against a later set."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Shelf case-split box",
+              "$313.78",
+              "$13.07",
+              "Opening FB01 at the lowest per-pack cost",
+              "$313.78 for a chase that tops out at $1,499.99, with no pull rates published"
+            ],
+            [
+              "Market box",
+              "$343.71",
+              "$14.32",
+              "Buying the same box when our case is gone",
+              "$29.93 above our case-split box, and $1.25 a pack above our $13.07"
+            ],
+            [
+              "Full shelf case",
+              "$3,765.33",
+              "$13.07 a pack",
+              "Holding sealed or splitting twelve boxes",
+              "$3,765.33 in one purchase, and the top ten together are 55.21% of it"
+            ],
+            [
+              "Top ten as singles",
+              "$2,078.79",
+              "n/a",
+              "Owning the ranked list outright",
+              "$2,078.79 in one purchase, with no sealed product and no chance at a second Goku"
+            ],
+            [
+              "Japanese box at retail",
+              "$33.19",
+              "n/a",
+              "Collecting or opening in Japanese",
+              "24 packs of 6 cards, and Japanese cards are not legal at official English events"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The set value is down 0.8% in 90 days and the market box is flat over 30 days, so the shelf can move either way from here"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no case math, and a ranking that is not a ranking",
+        "note": "From the Warehouse: the question we get most about FB01 is whether the $1,499.99 Goku is the card in the pack art, because buyers see Goku on the box and assume one Goku is one price. It is three cards at three prices, and the top one costs 21.01 times the Alternate Art of the same number. The second question is why the case-split box is $29.93 below the market box, and the answer is the case division itself: twelve boxes bought as one case, divided by twelve. On this shelf, on this date, the case-split box is $13.07 a pack against a $15.48 market pack, which is the only number in this guide no other list can give you, because no other list holds the case.",
+        "paragraphs": [
+          "The top three results for this query all do the same job: they rank cards by price. Sparkl ranks by TCGplayer market, TickerMint prices the box and the pack against the cards, and WorthRipping simulates the box on its own read. None of them holds a case, divides a case into boxes, or tells you what the box on a real shelf costs, and none of them flags that the ranking itself needs reading with care.",
+          "Four things only this page owns. First, the live shelf: a sealed English case at $3,765.33, split to $313.78 a box, with no single box listed, as of November 24, 2026. Second, the case math: $13.07 a pack against a $14.32 market-box pack and a $15.48 market pack, with $359.19 saved against twelve market boxes. Third, the print split: all ten ranked cards are alt-arts, eight of them Leader alternate arts. Fourth, the ranking correction: Sparkl prints its top ten at $2,079.39, but the ten TCGplayer prices sum to $2,078.79, a gap of $0.60, because Sparkl ranks by the lower of TCGplayer and Cardmarket, which puts the Trunks FB01-036 Alternate Art seventh at $46.62 even though its TCGplayer price beats the Son Goku FB01-001 Alternate Art at $38.19. This page ranks on TCGplayer alone. The [FB09 best cards guide](/blog/fb09-best-cards/) ranks a later set the same way."
+        ]
+      },
+      {
+        "h": "The chase ladder: one grail, then a steep drop",
+        "note": "From the Warehouse: what we see in allocation is that buyers ask for the Goku Super Alternate Art by name and then stop listening when we say it is 478.04% of one case-split box, because a four-figure card feels like a plan. It is not a plan, it is one card at $1,499.99 with 72.16% of the whole top ten riding on it. The ladder that actually pays is the three-card second tier from $71.41 to $115.93, all with a fresh market price dated this week. Chase the ladder you can verify, not the grail that owns the list.",
+        "paragraphs": [
+          "The ladder has four rungs. The top rung holds the one Super Alternate Art: Son Goku FB01-139 at $1,499.99, 10.41 times the second card and 72.16% of the top ten. The second rung is the Son Gohan : Childhood FB01-140 Alternate Art at $144.16, the only other card above $100. The third rung is the three cards from $71.41 to $115.93, the Son Gohan Leader, the Goku Black Leader, and the Son Goku Alternate Art. The fourth rung is the second five, $165.28 together, from the Trunks : Future Alternate Art at $46.62 down to the Cooler Alternate Art at $25.11. The gap from first to second is $1,355.83, and from second to third is $28.23, while the whole second five costs $21.12 more than the second card alone.",
+          "Below the ladder sit the base prints, led by the two base Secret Rares, both at or below the $71.41 median, and the Leader bases around the $8.46 median. The cheapest ranked alt-art, the Cooler FB01-105 at $25.11, costs under three times the Leader median. The [FB11 best cards guide](/blog/fb11-best-cards/) ranks the newest set the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: the box price disagrees with itself by $122.30",
+        "math": [
+          "FB01 SAA lowest listing: $1,499.99 - $1,000.00 = $499.99 below market",
+          "FB01 WorthRipping average box: $313.78 - $88.21 = $225.57 loss; $88.21 / $313.78 = 28.11% of the box back in cards after selling costs",
+          "FB01 WorthRipping typical box: $313.78 - $24.00 = $289.78 below our case-split box",
+          "FB01 box disagreement: $343.71 - $221.41 = $122.30; $122.30 / $343.71 = 35.58% between the two box reads",
+          "FB01 FoilKraken vs TCGplayer box: $345.95 - $343.71 = $2.24; $2.24 / $343.71 = 0.65% between the two reads",
+          "FB01 Ridibi vs split box: $313.78 - $308.43 = $5.35; $5.35 / $308.43 = 1.73% above the retail listing",
+          "FB01 grading asks: $1,525.00 - $1,499.99 = $25.01 above the raw market price",
+          "FB01 PSA 10 net: $1,525.00 x 0.87 = $1,326.75; $1,326.75 - $25.00 - $10.00 = $1,291.75 after the grading fee and shipping",
+          "FB01 raw sale net: $1,499.99 x 0.87 = $1,304.99 after 13% selling fees",
+          "FB01 grading shortfall: $1,304.99 - $1,291.75 = $13.24 less than the raw sale nets",
+          "FB01 WorthPic PSA 10: $1,499.99 - $1,370.00 = $129.99 below the raw market price"
+        ],
+        "paragraphs": [
+          "Concentration is the first risk. The top card is 72.16% of the top ten and the top five are 92.05% of it, so the ranking is a bet on one card. Sparkl prices one of every version at $2,275.96 on November 22, 2026, down 0.8% over 90 days. WorthPic, checked November 2, 2026, records no TCGplayer sale of the Super Alternate Art in the last three months, while the lowest listing sits at $1,000.00, $499.99 below the market price, so the top of this list is thin.",
+          "Fakes and reseals are the second risk. Check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is unbroken. FB01 is the launch set from February 2024, so sealed boxes have had almost three years to circulate. The third risk is the pull-rate gap: Bandai publishes no pull rates, WorthRipping puts an alt-art Secret Rare at 1 in 14 boxes, and its simulation puts $88.21 of cards inside the average box after selling costs, against a $313.78 box, a loss of $225.57 a box, with the typical box holding $24.00 of cards.",
+          "The fourth risk is the box price itself, which disagrees with itself by $122.30. TickerMint puts the TCGplayer market box at $343.71 on November 22, 2026, FoilKraken puts it at $345.95 on November 1, 2026, and WorthRipping puts its box read at $221.41 on November 23, 2026. Two of the three agree within $2.24, and the third sits 35.58% below them, so this guide prices the box on the TCGplayer read and prints the disagreement. Ridibi lists one box at $308.43, $5.35 below our case-split box. Buy at the WorthRipping read and sell at the TCGplayer read and you win; the other way round you lose more than a third of the box. The [Dragon Ball Fusion World booster box guide](/blog/dragon-ball-fusion-world-booster-box/) prices every box on this shelf the same way.",
+          "Grading is the fifth risk: it does not pay on this card. TickerMint, on November 22, 2026, puts PSA 10 copies at asks from $1,525.00 on eBay, $25.01 above the raw $1,499.99, and after a $25.00 grading fee, $10.00 in shipping, and 13% selling fees, a 10 nets $1,291.75, $13.24 less than the $1,304.99 a raw sale nets. WorthPic puts the PSA 10 at about $1,370.00 on November 2, 2026, $129.99 below the raw market price. Grade it to keep it, not to sell it."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and where FB01 sits in the series",
+        "math": [
+          "FB01 Japanese box at retail: 24 x 220 yen = 5,280 yen; 5,280 yen / 159.07 yen per dollar = $33.19",
+          "FB01 case in yen: $3,765.33 x 159.07 yen per dollar = 598,951.04 yen",
+          "FB01 split box in yen: $313.78 x 159.07 yen per dollar = 49,912.98 yen",
+          "FB01 top 10 in yen: $2,078.79 x 159.07 yen per dollar = 330,673.13 yen",
+          "FB01 top card in yen: $1,499.99 x 159.07 yen per dollar = 238,603.41 yen",
+          "FB01 against FB02 case: $3,765.33 - $1,132.98 = $2,632.35; $3,765.33 / $1,132.98 = 3.32 times the FB02 case",
+          "FB01 top 10 against FB02 top 10: $2,078.79 - $1,061.96 = $1,016.83; $2,078.79 / $1,061.96 = 195.75% of it"
+        ],
+        "paragraphs": [
+          "Japan and English are different products. Japan released FB01 on February 16, 2024 and English followed on February 23, 2024, in boxes of 24 packs, but the Japanese pack holds 6 cards at 220 yen a pack, so 5,280 yen at retail, which converts to $33.19 at the ECB November 23, 2026 fixing of 159.07 yen per dollar, the latest fixing at writing. English packs hold 12 cards plus a digital code. The Japanese box holds half the cards, and Japanese cards are not legal at official English events. The set also carries 23 alternate-art versions, which is why some sources count 163 printings against Bandai's 140 card types.",
+          "FB01 is the first main Fusion World booster, before FB02 Blazing Aura. The FB02 case on our shelf is $1,132.98, $2,632.35 below the FB01 case, which costs 3.32 times the FB02 case. The FB01 top ten, at $2,078.79, sits $1,016.83 above the FB02 top ten of $1,061.96. In yen, the FB01 case is 598,951.04 yen, the split box 49,912.98 yen, the top ten 330,673.13 yen, and the top card alone 238,603.41 yen, all at the same 159.07 fixing. The [best Dragon Ball Fusion World booster box guide](/blog/best-dragon-ball-fusion-world-booster-box/) compares the box choice across the series."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer who wants the Goku Super Alternate Art at a price that will hold still, because the card is 72.16% of the ranked value and TCGplayer recorded no sale of it in the three months to November 2, 2026. It is not for a player who needs Japanese cards for an English event, because they are not legal there. It is not for a buyer who wants a guaranteed return from opening boxes, because WorthRipping puts $88.21 of cards inside the average box after selling costs, against a $313.78 box. It is not for a collector who wants the whole set as singles without paying for the alt-arts, because the top ten are 91.34% of the set value."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Goku FB01-139 Super Alternate Art, buy the single at $1,499.99, which is 478.04% of one case-split box, and do not open boxes for it; Bandai publishes no pull rates and the card sits $1,355.83 above the second card",
+          "If the job is the box, pay $313.78 on our case split, or $13.07 a pack, and treat the chase as a bonus; the box is $29.93 below the $343.71 market box",
+          "If the job is a case, divide it first: the case is $3,765.33 for 12 boxes, $13.07 a pack, and it saves $359.19 against twelve market boxes, so confirm the $313.78 per-box figure at checkout",
+          "If the job is the whole top ten, buy the singles at $2,078.79: three case-split boxes cost $941.34, which is $1,137.45 less, but they still leave the chase to chance, while the singles are exact",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and remember there is no Japanese FB01 listing on our shelf",
+          "Check the number and the finish on any Goku before you pay: the FB01-139 Super Alternate Art is $1,499.99, the Alternate Art is $71.41, and the base Secret Rare sits at or below $71.41",
+          "Check the number and the finish on any Trunks before you pay: the FB01-049 Alternate Art from the FB01_AR reprint set is $36.85, a different product from the main set",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the FB01 best-cards checklist",
+        "paragraphs": [
+          "Work the list in order, and stop at the first line that matches your goal. The [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) runs the same checklist shape on a later set, for buyers comparing the two."
+        ]
+      }
+    ],
+    "slug": "fb01-best-cards",
+    "takeaway": [
+      "The FB01 top ten, on the November 22, 2026 read, totals $2,078.79, with the Son Goku FB01-139 Super Alternate Art at $1,499.99. The Goku is $1,499.99 of it, 72.16% of the list, and all ten ranked cards are alt-arts, while the base Secret Rare behind the top card sits at or below $71.41.",
+      "On our shelf as of November 24, 2026, the sealed English case is $3,765.33, which splits to $313.78 a box, $13.07 a pack, and there is no single English box listed and no Japanese FB01 listing at all. The case-split box sits $29.93 below the $343.71 market box, and the case saves $359.19 against twelve market boxes.",
+      "It is worth buying as the set to open, sealed or split, and it is not worth buying as a way to own one named card. Bandai publishes no pull rates, the Goku alone is 478.04% of one case-split box, and the average box holds $88.21 of cards after selling costs.",
+      "The ladder is steep at the top: the gap from first to second is $1,355.83, the gap from second to third is $28.23, and the top five together are $1,913.51. Four facts the other lists miss are covered on this page: the live shelf, the case division, the print split, and the ranking correction on the Sparkl sum."
+    ]
+  },
   "fb02-best-cards": {
     "datePublished": "2026-11-24",
     "faqs": [
@@ -22321,7 +22574,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [FB05 best cards guide](/blog/fb05-best-cards/) ranks the set after the next one the same way, and the [FB04 best cards guide](/blog/fb04-best-cards/) ranks the set after this one.",
       "For the longer hold, the [FB07 investment guide](/blog/fb07-investment/) runs the same division on a later set, and the [FB08 investment guide](/blog/fb08-investment/) prices the set beside that one.",
       "For the set after this one, the [FB03 best cards guide](/blog/fb03-best-cards/) ranks the ten best Raging Roar cards, and the [FB09 best cards guide](/blog/fb09-best-cards/) ranks a later set the same way.",
-      "For the same method on a different game, the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the ten best Wish for Shenron cards, and the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the set after that one."
+      "For the same method on a different game, the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the ten best Wish for Shenron cards, and the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the set after that one.",
+      "For the set before this one, the [FB01 best cards guide](/blog/fb01-best-cards/) ranks the ten best Awakened Pulse cards, top ten $2,078.79, with the Son Goku Super Alternate Art at $1,499.99."
     ]
   },
   "fb03-best-cards": {
@@ -22570,7 +22824,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [is FB07 worth buying guide](/blog/is-fb07-worth-buying/) runs the same verdict, and the [FB08 Saiyan's Pride buyer's guide](/blog/fb08-saiyans-pride-buyers-guide/) walks the same checks for FB08.",
       "For the longer hold, the [FB07 investment guide](/blog/fb07-investment/) runs the same division on the set after this one, and the [FB09 investment guide](/blog/fb09-investment/) prices a later set.",
       "For the set after this one, the [FB04 best cards guide](/blog/fb04-best-cards/) ranks the ten best Ultra Limit cards, and the [FB05 best cards guide](/blog/fb05-best-cards/) ranks the set after that one.",
-      "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them."
+      "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them.",
+      "For the first set in the series, the [FB01 best cards guide](/blog/fb01-best-cards/) ranks the ten best Awakened Pulse cards, top ten $2,078.79, with the Son Goku Super Alternate Art at $1,499.99."
     ]
   },
   "fb04-best-cards": {
@@ -39069,6 +39324,318 @@ export const POSTS: Record<string, BlogPost> = {
       "OP-18 is a pre-order in both languages — Japanese box $84, Japanese case $75.50 a box, English case $111.39 a box with no single stocked — and English OP-17 and OP-12 both fell exactly 20.0% in under a week. For the Japanese boxes alone, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all 24; for the English boxes alone, the [English One Piece booster box prices](/blog/english-one-piece-booster-box-price/) divides all 22."
     ]
   },
+  "japanese-pokemon-booster-box": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "A standard main-set box holds 30 packs of 5 cards, 150 cards in all. The exceptions on this shelf are SV11B Black Bolt and SV11W White Flare at 20 packs of 7 cards, the two Deluxe boxes at 4 packs of 35 cards, S10a Dark Phantasma and S10b Pokemon GO at 20 packs of 6 cards, S9a Battle Region at 20 packs of 6 cards, the high-class box SM8b GX Ultra Shiny at 10 packs of 10 cards, SM12a Tag Team GX All Stars at 10 packs of 11 cards, and SMP2 Detective Pikachu at 20 packs of 4 cards. The pack counts come from Bill's Archive, November 8, 2026, the TCGplayer seller guide, Bulbapedia, and Samurai Sword Tokyo, checked November 24, 2026.",
+        "q": "How many packs are in a Japanese Pokemon booster box?"
+      },
+      {
+        "a": "SV9 Battle Partners at $72.22 on the Warehouse shelf, as of November 24, 2026, which is $2.41 a pack and $0.48 a card across its 30 packs of 5 cards. The SV9 sealed case on the same shelf is $809.48, which splits to $67.46 a box and $2.25 a pack, so the case is the cheaper route if you want twelve boxes. The next cheapest boxes are SV7 Stella Miracle and S9a Battle Region, both at $77.87.",
+        "q": "What is the cheapest Japanese Pokemon booster box on this shelf?"
+      },
+      {
+        "a": "Keep it sealed unless you have a reason to open it that survives the division. SM7 Sky-Splitting Charisma is $3,335.50 on the shelf, which is $111.18 a pack and $22.24 a card, and SM8b GX Ultra Shiny is $1,461.40, which is $146.14 a pack across only 10 packs. The Pokemon Company publishes no pull rates, so no honest expected-value math exists for opening either box, and a single opened box can never pay back $3,335.50 on average. Buy the box to hold sealed, buy the single to own a named card, and open the cheap SV boxes instead.",
+        "q": "Should I open a vintage Sun and Moon box or keep it sealed?"
+      }
+    ],
+    "h1": "Japanese Pokemon Booster Box: The Full Shelf Board, Priced",
+    "intro": [
+      "Short answer: the Warehouse shelf holds 39 Japanese Pokemon booster boxes, as of November 24, 2026, priced from $72.22 for SV9 Battle Partners to $3,335.50 for SM7 Sky-Splitting Charisma, a gap of $3,263.28, and the per-pack cost runs from $2.41 to $146.14. Buy SV9 to open, buy the SV11W case split at $63.19 a box to open White Flare cheapest, and hold the Sun and Moon boxes sealed.",
+      "This board is the whole shelf, not a ranking of one set: ten Scarlet and Violet boxes, five Sword and Shield boxes, and twenty-four Sun and Moon boxes, every one priced from the live shelf and divided to the pack and the card. The [best Japanese Pokemon booster box to buy guide](/blog/best-japanese-pokemon-booster-box-to-buy/) picks one box per buyer; this page prices all 39 side by side."
+    ],
+    "metaDescription": "Japanese Pokemon booster box board, Nov 24, 2026: 39 boxes priced $72.22 to $3,335.50, per-pack $2.41 to $146.14, SV to SM era, open vs hold.",
+    "metaTitle": "Japanese Pokemon Booster Box: The Full Shelf Board",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: 39 boxes, $72.22 to $3,335.50",
+        "math": [
+          "Board total: $1,456.70 + $1,009.31 + $21,128.09 = $23,594.10",
+          "Board gap: $3,335.50 - $72.22 = $3,263.28; $3,335.50 / $72.22 = 46.19 times the cheapest box",
+          "Per-pack range: $146.14 - $2.41 = $143.73; per-card range: $22.24 - $0.48 = $21.76",
+          "SM7 share of the board: $3,335.50 / $23,594.10 = 14.14%",
+          "SV share of the board: $1,456.70 / $23,594.10 = 6.17%",
+          "Sword and Shield share of the board: $1,009.31 / $23,594.10 = 4.28%",
+          "Sun and Moon share of the board: $21,128.09 / $23,594.10 = 89.55%",
+          "SV average box: $1,456.70 / 10 boxes = $145.67",
+          "Sun and Moon average box: $21,128.09 / 24 boxes = $880.34",
+          "Three cheapest boxes: $72.22 + $77.87 + $77.87 = $227.96",
+          "SM7 in SV9 boxes: $3,335.50 / $72.22 = 46.19 boxes",
+          "SM7 against SM11: $3,335.50 - $1,587.08 = $1,748.42",
+          "Board total in yen: $23,594.10 x 159.07 yen per dollar = 3,753,113.49 yen"
+        ],
+        "paragraphs": [
+          "The board holds 39 Japanese Pokemon booster boxes, and buying the whole shelf would cost $23,594.10 as of November 24, 2026. The cheapest box is SV9 Battle Partners at $72.22, the dearest is SM7 Sky-Splitting Charisma at $3,335.50, and the gap is $3,263.28, so the dearest costs 46.19 times the cheapest. Per pack, the board runs from $2.41 on SV9 to $146.14 on SM8b GX Ultra Shiny, a spread of $143.73, and per card from $0.48 to $22.24, a spread of $21.76.",
+          "The eras are not balanced. Ten Scarlet and Violet boxes total $1,456.70, an average of $145.67 a box, and five Sword and Shield boxes total $1,009.31, while twenty-four Sun and Moon boxes total $21,128.09, an average of $880.34 a box. Sun and Moon owns 89.55% of the board by value, Scarlet and Violet 6.17%, and Sword and Shield 4.28%. Seven boxes sit under $100, fifteen under $200, and eight at $1,000 or more. SM7 alone is 14.14% of the whole board."
+        ]
+      },
+      {
+        "h": "The money layer: the board, era by era",
+        "math": [
+          "SV9 Battle Partners per pack: $72.22 / 30 packs = $2.41 per pack; per card: $72.22 / 150 cards = $0.48 per card",
+          "SV7 Stella Miracle per pack: $77.87 / 30 packs = $2.60 per pack; per card: $77.87 / 150 cards = $0.52 per card",
+          "SV7a Paradise Dragona per pack: $120.05 / 30 packs = $4.00 per pack; per card: $120.05 / 150 cards = $0.80 per card",
+          "SV9a Heat Wave Arena per pack: $138.82 / 30 packs = $4.63 per pack; per card: $138.82 / 150 cards = $0.93 per card",
+          "SV11W White Flare per pack: $142.56 / 20 packs = $7.13 per pack; per card: $142.56 / 140 cards = $1.02 per card",
+          "SV11B Black Bolt per pack: $155.70 / 20 packs = $7.79 per pack; per card: $155.70 / 140 cards = $1.11 per card",
+          "SV11W Deluxe White Flare per pack: $167.90 / 4 packs = $41.98 per pack; per card: $167.90 / 140 cards = $1.20 per card",
+          "SV11B Deluxe Black Bolt per pack: $181.04 / 4 packs = $45.26 per pack; per card: $181.04 / 140 cards = $1.29 per card",
+          "SV10 Glory of Team Rocket per pack: $181.04 / 30 packs = $6.03 per pack; per card: $181.04 / 150 cards = $1.21 per card",
+          "SV8 Super Electric Breaker per pack: $219.50 / 30 packs = $7.32 per pack; per card: $219.50 / 150 cards = $1.46 per card",
+          "SV era total: $72.22 + $77.87 + $120.05 + $138.82 + $142.56 + $155.70 + $167.90 + $181.04 + $181.04 + $219.50 = $1,456.70",
+          "SV9 plus SV7 plus SV7a: $72.22 + $77.87 + $120.05 = $270.14",
+          "S9a Battle Region per pack: $77.87 / 20 packs = $3.89 per pack; per card: $77.87 / 120 cards = $0.65 per card",
+          "S10P Space Juggler per pack: $91.94 / 30 packs = $3.06 per pack; per card: $91.94 / 150 cards = $0.61 per card",
+          "S10a Dark Phantasma per pack: $206.35 / 20 packs = $10.32 per pack; per card: $206.35 / 120 cards = $1.72 per card",
+          "S10b Pokemon GO per pack: $220.42 / 20 packs = $11.02 per pack; per card: $220.42 / 120 cards = $1.84 per card",
+          "S1W Sword per pack: $412.73 / 30 packs = $13.76 per pack; per card: $412.73 / 150 cards = $2.75 per card",
+          "Sword and Shield era total: $77.87 + $91.94 + $206.35 + $220.42 + $412.73 = $1,009.31",
+          "SMP2 Detective Pikachu per pack: $84.08 / 20 packs = $4.20 per pack; per card: $84.08 / 80 cards = $1.05 per card",
+          "SM9a Night Unison per pack: $84.08 / 30 packs = $2.80 per pack; per card: $84.08 / 150 cards = $0.56 per card",
+          "SM9 Tag Bolt per pack: $84.08 / 30 packs = $2.80 per pack; per card: $84.08 / 150 cards = $0.56 per card",
+          "SM9b Full Metal Wall per pack: $136.77 / 30 packs = $4.56 per pack; per card: $136.77 / 150 cards = $0.91 per card",
+          "SM8a Dark Order per pack: $437.11 / 30 packs = $14.57 per pack; per card: $437.11 / 150 cards = $2.91 per card",
+          "SM12 Alter Genesis per pack: $468.07 / 30 packs = $15.60 per pack; per card: $468.07 / 150 cards = $3.12 per card",
+          "SM5+ Ultra Force per pack: $578.74 / 30 packs = $19.29 per pack; per card: $578.74 / 150 cards = $3.86 per card",
+          "SM6 Forbidden Light per pack: $593.75 / 30 packs = $19.79 per pack; per card: $593.75 / 150 cards = $3.96 per card",
+          "SM5S Ultra Sun per pack: $616.25 / 30 packs = $20.54 per pack; per card: $616.25 / 150 cards = $4.11 per card",
+          "SM7a Thunderclap Spark per pack: $620.02 / 30 packs = $20.67 per pack; per card: $620.02 / 150 cards = $4.13 per card",
+          "SM7b Fairy Rise per pack: $672.54 / 30 packs = $22.42 per pack; per card: $672.54 / 150 cards = $4.48 per card",
+          "SM6b Champion Road per pack: $760.72 / 30 packs = $25.36 per pack; per card: $760.72 / 150 cards = $5.07 per card",
+          "SM10a GG End per pack: $801.05 / 30 packs = $26.70 per pack; per card: $801.05 / 150 cards = $5.34 per card",
+          "SM10 Double Blaze per pack: $828.25 / 30 packs = $27.61 per pack; per card: $828.25 / 150 cards = $5.52 per card",
+          "SM10b Sky Legend per pack: $942.68 / 30 packs = $31.42 per pack; per card: $942.68 / 150 cards = $6.28 per card",
+          "SM6a Dragon Storm per pack: $964.26 / 30 packs = $32.14 per pack; per card: $964.26 / 150 cards = $6.43 per card",
+          "SM8 Super-Burst Impact per pack: $1,037.43 / 30 packs = $34.58 per pack; per card: $1,037.43 / 150 cards = $6.92 per card",
+          "SM11a Remix Bout per pack: $1,089.96 / 30 packs = $36.33 per pack; per card: $1,089.96 / 150 cards = $7.27 per card",
+          "SM11b Dream League per pack: $1,231.59 / 30 packs = $41.05 per pack; per card: $1,231.59 / 150 cards = $8.21 per card",
+          "SM5M Ultra Moon per pack: $1,294.43 / 30 packs = $43.15 per pack; per card: $1,294.43 / 150 cards = $8.63 per card",
+          "SM12a Tag Team GX All Stars per pack: $1,418.25 / 10 packs = $141.83 per pack; per card: $1,418.25 / 110 cards = $12.89 per card",
+          "SM8b GX Ultra Shiny per pack: $1,461.40 / 10 packs = $146.14 per pack; per card: $1,461.40 / 100 cards = $14.61 per card",
+          "SM11 Miracle Twin per pack: $1,587.08 / 30 packs = $52.90 per pack; per card: $1,587.08 / 150 cards = $10.58 per card",
+          "SM7 Sky-Splitting Charisma per pack: $3,335.50 / 30 packs = $111.18 per pack; per card: $3,335.50 / 150 cards = $22.24 per card"
+        ],
+        "paragraphs": [
+          "Scarlet and Violet is the cheap era, and all ten boxes sit under $220. SV9 Battle Partners is $72.22, or $2.41 a pack, and SV7 Stella Miracle is $77.87, or $2.60 a pack. SV7a Paradise Dragona is $120.05, or $4.00 a pack, and SV9a Heat Wave Arena is $138.82, or $4.63 a pack. The Unova pair follows: SV11W White Flare at $142.56, or $7.13 a pack, and SV11B Black Bolt at $155.70, or $7.79 a pack. The Deluxe boxes cost more per pack than any standard box: White Flare Deluxe is $167.90, or $41.98 a pack, and Black Bolt Deluxe is $181.04, or $45.26 a pack. SV10 Glory of Team Rocket is $181.04, or $6.03 a pack, and SV8 Super Electric Breaker, the dearest Scarlet and Violet box, is $219.50, or $7.32 a pack. The three cheapest Scarlet and Violet boxes together cost $270.14.",
+          "Sword and Shield is five boxes. S9a Battle Region is $77.87, or $3.89 a pack across 20 packs of 6 cards, and S10P Space Juggler is $91.94, or $3.06 a pack. S10a Dark Phantasma is $206.35, or $10.32 a pack, and S10b Pokemon GO is $220.42, or $11.02 a pack, both across 20 packs of 6 cards. S1W Sword is $412.73, or $13.76 a pack, the only Sword and Shield box above $300. The five total $1,009.31, and Space Juggler at $3.06 a pack is the fourth-cheapest pack on the board.",
+          "Sun and Moon runs in three tiers. The cheap tier: SMP2 Detective Pikachu $84.08, SM9a Night Unison $84.08, SM9 Tag Bolt $84.08, and SM9b Full Metal Wall $136.77. The middle tier: SM8a Dark Order $437.11, SM12 Alter Genesis $468.07, SM5+ Ultra Force $578.74, SM6 Forbidden Light $593.75, SM5S Ultra Sun $616.25, SM7a Thunderclap Spark $620.02, SM7b Fairy Rise $672.54, SM6b Champion Road $760.72, SM10a GG End $801.05, SM10 Double Blaze $828.25, SM10b Sky Legend $942.68, and SM6a Dragon Storm $964.26. The dear tier: SM8 Super-Burst Impact $1,037.43, SM11a Remix Bout $1,089.96, SM11b Dream League $1,231.59, SM5M Ultra Moon $1,294.43, SM12a Tag Team GX All Stars $1,418.25, SM8b GX Ultra Shiny $1,461.40, SM11 Miracle Twin $1,587.08, and SM7 Sky-Splitting Charisma $3,335.50. Per pack, the tiers run $2.80 to $4.56, $14.57 to $32.14, and $34.58 to $146.14."
+        ]
+      },
+      {
+        "h": "The practical layer: read the pack count before you divide",
+        "math": [
+          "Standard box cards: 30 packs x 5 cards = 150 cards",
+          "SV11 box cards: 20 packs x 7 cards = 140 cards",
+          "Deluxe box cards: 4 packs x 35 cards = 140 cards",
+          "High-class box cards: 10 packs x 10 cards = 100 cards",
+          "SM12a box cards: 10 packs x 11 cards = 110 cards",
+          "Pokemon GO box cards: 20 packs x 6 cards = 120 cards",
+          "Detective Pikachu box cards: 20 packs x 4 cards = 80 cards",
+          "Standard pack before May 2026: 180 yen x 30 packs = 5,400 yen",
+          "Standard pack from May 2026: 200 yen x 30 packs = 6,000 yen",
+          "SV11 pack price: 290 yen x 20 packs = 5,800 yen",
+          "Standard box list price from May 2026: 6,000 yen / 159.07 yen per dollar = $37.72",
+          "Standard box list price before May 2026: 5,400 yen / 159.07 yen per dollar = $33.95",
+          "SV11 box list price: 5,800 yen / 159.07 yen per dollar = $36.46",
+          "Deluxe box list price: 1,450 yen x 4 packs = 5,800 yen; 5,800 yen / 159.07 yen per dollar = $36.46",
+          "SV9 shelf against list: $72.22 - $33.95 = $38.27 above list; $72.22 / $33.95 = 2.13 times list",
+          "White Flare Deluxe shelf against list: $167.90 - $36.46 = $131.44 above list",
+          "Black Bolt Deluxe shelf against list: $181.04 - $36.46 = $144.58 above list",
+          "Japanese standard box cards against English box cards: 360 cards - 150 cards = 210 cards; 150 cards / 360 cards = 41.67% of the English box"
+        ],
+        "paragraphs": [
+          "Every per-pack figure on this board depends on the pack count, and Japanese boxes do not share one count. The standard main-set box holds 30 packs of 5 cards, 150 cards in all, and that covers every Scarlet and Violet main set, every Sun and Moon main set, and the enhanced expansions on this shelf: SV7a, SV9a, SM9a, SM9b, SM10a, SM10b, SM11a, and SM11b. The exceptions: SV11B and SV11W hold 20 packs of 7 cards, the two Deluxe boxes hold 4 packs of 35 cards, S10a and S10b hold 20 packs of 6 cards, S9a Battle Region holds 20 packs of 6 cards, and SM8b GX Ultra Shiny holds 10 packs of 10 cards, SM12a Tag Team GX All Stars holds 10 packs of 11 cards, and SMP2 Detective Pikachu holds 20 packs of 4 cards. The counts come from Bill's Archive, November 8, 2026, the TCGplayer seller guide, Bulbapedia, and Samurai Sword Tokyo. The [how many packs in a booster box guide](/blog/how-many-packs-in-a-booster-box/) covers the same counts across games.",
+          "Japan prices the pack, not the box. A standard 5-card pack cost 180 yen for products released up to April 2026 and 200 yen from May 2026, so a standard box lists at 5,400 yen before May 2026 and 6,000 yen after, which convert to $33.95 and $37.72 at the ECB November 23, 2026 fixing of 159.07 yen per dollar. SV11 packs cost 290 yen each, so a standard SV11 box lists at 5,800 yen, or $36.46, and a Deluxe pack costs 1,450 yen, so a Deluxe box lists at 5,800 yen too, or $36.46. Against list, SV9 at $72.22 sits $38.27 above list, or 2.13 times list, the White Flare Deluxe at $167.90 sits $131.44 above list, and the Black Bolt Deluxe at $181.04 sits $144.58 above list. An English box holds 36 packs of 10 cards, 360 cards, so a Japanese standard box holds 41.67% of the cards in an English box."
+        ]
+      },
+      {
+        "h": "The decision layer: open now, hold sealed, or buy the cheapest entry",
+        "math": [
+          "SV11 pair together: $155.70 + $142.56 = $298.26",
+          "Deluxe pair together: $181.04 + $167.90 = $348.94",
+          "SV9 case split per box: $809.48 / 12 boxes = $67.46 per box; $72.22 - $67.46 = $4.76 saved per box; 12 x $72.22 = $866.64; $866.64 - $809.48 = $57.16 saved on the case",
+          "SV9 case split per pack: $67.46 / 30 packs = $2.25 per pack",
+          "SV10 case split per box: $1,548.19 / 12 boxes = $129.02 per box; $181.04 - $129.02 = $52.02 saved per box; 12 x $181.04 = $2,172.48; $2,172.48 - $1,548.19 = $624.29 saved on the case",
+          "SV10 case split per pack: $129.02 / 30 packs = $4.30 per pack",
+          "SV11B case split per box: $842.97 / 12 boxes = $70.25 per box; $155.70 - $70.25 = $85.45 saved per box; 12 x $155.70 = $1,868.40; $1,868.40 - $842.97 = $1,025.43 saved on the case",
+          "SV11B case split per pack: $70.25 / 20 packs = $3.51 per pack",
+          "SV11W case split per box: $758.30 / 12 boxes = $63.19 per box; $142.56 - $63.19 = $79.37 saved per box; 12 x $142.56 = $1,710.72; $1,710.72 - $758.30 = $952.42 saved on the case",
+          "SV11W case split per pack: $63.19 / 20 packs = $3.16 per pack",
+          "SV7 case split per box: $767.13 / 12 boxes = $63.93 per box; $77.87 - $63.93 = $13.94 saved per box; 12 x $77.87 = $934.44; $934.44 - $767.13 = $167.31 saved on the case",
+          "SV7a case split per box: $1,065.40 / 12 boxes = $88.78 per box; $120.05 - $88.78 = $31.27 saved per box; 12 x $120.05 = $1,440.60; $1,440.60 - $1,065.40 = $375.20 saved on the case",
+          "SV9a case split per box: $1,363.68 / 12 boxes = $113.64 per box; $138.82 - $113.64 = $25.18 saved per box; 12 x $138.82 = $1,665.84; $1,665.84 - $1,363.68 = $302.16 saved on the case"
+        ],
+        "paragraphs": [
+          "Eight ways to spend on this board, priced as of November 24, 2026, with case-split figures from the sealed cases on the same shelf. The case is the cheapest route into four Scarlet and Violet boxes: the SV11W case splits to $63.19 a box, or $3.16 a pack, against a $142.56 single box, and the SV11B case splits to $70.25 a box, or $3.51 a pack, against a $155.70 single box. The SV9 case splits to $67.46 a box, or $2.25 a pack, and the SV10 case splits to $129.02 a box, or $4.30 a pack. Pick the single SV9 box for one opening, the SV11W case split for opening White Flare more than once, and no box at all for a named vintage card. The [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across games."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Open SV9 Battle Partners",
+              "$72.22",
+              "$2.41",
+              "Cheapest sealed opening on the board",
+              "$2.41 a pack still buys a 2025 set with no published pull rates"
+            ],
+            [
+              "Open SV7 Stella Miracle",
+              "$77.87",
+              "$2.60",
+              "Second-cheapest opening, $0.19 a pack above SV9",
+              "Same set-age risk, and the case split is cheaper still at $63.93 a box"
+            ],
+            [
+              "Twin-set SV11B plus SV11W",
+              "$298.26",
+              "$7.79 and $7.13",
+              "The Unova pair together, 20 packs of 7 each",
+              "$298.26 for two boxes, and the Deluxe pair costs more per pack"
+            ],
+            [
+              "Deluxe pair SV11B plus SV11W",
+              "$348.94",
+              "$45.26 and $41.98",
+              "Four 35-card packs per box, one Art Rare guaranteed per pack",
+              "$45.26 a pack is the dearest pack format on the board"
+            ],
+            [
+              "Case-split SV11W",
+              "$63.19 a box",
+              "$3.16",
+              "Cheapest per-pack route into White Flare",
+              "Twelve boxes at $758.30 in one purchase"
+            ],
+            [
+              "Hold SM7 Sky-Splitting Charisma",
+              "$3,335.50",
+              "$111.18",
+              "The dearest sealed box on the shelf",
+              "$111.18 a pack if you open it, and the market read is far thinner"
+            ],
+            [
+              "Hold SM8b GX Ultra Shiny",
+              "$1,461.40",
+              "$146.14",
+              "The dearest pack on the board, 10 packs of 10",
+              "$146.14 a pack, and the box holds only 10 packs"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The Scarlet and Violet shelf fell through 2026 and the Sun and Moon shelf has not moved with it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other box lists miss: no shelf, no per-pack math, no era split",
+        "math": [
+          "White Flare shelf against TCGplayer: $142.56 - $120.85 = $21.71 above market; $21.71 / $120.85 = 17.96% above market",
+          "Black Bolt shelf against TCGplayer: $155.70 - $127.56 = $28.14 above market; $28.14 / $127.56 = 22.06% above market",
+          "Glory of Team Rocket shelf against TCGplayer: $181.04 - $154.70 = $26.34 above market; $26.34 / $154.70 = 17.03% above market",
+          "Heat Wave Arena shelf against TCGplayer: $138.82 - $125.96 = $12.86 above market; $12.86 / $125.96 = 10.21% above market",
+          "Battle Partners shelf against TCGplayer: $87.85 - $72.22 = $15.63 below market; $15.63 / $87.85 = 17.79% below market",
+          "Super Electric Breaker shelf against TCGplayer: $219.50 - $142.21 = $77.29 above market; $77.29 / $142.21 = 54.35% above market",
+          "Paradise Dragona shelf against TCGplayer: $120.05 - $114.87 = $5.18 above market; $5.18 / $114.87 = 4.51% above market",
+          "Stella Miracle shelf against TCGplayer: $91.52 - $77.87 = $13.65 below market; $13.65 / $91.52 = 14.91% below market",
+          "Battle Partners shelf against Cardheist: $111.75 - $72.22 = $39.53 below the listing; $39.53 / $111.75 = 35.37% below the listing",
+          "Stella Miracle shelf against Cardheist: $100.00 - $77.87 = $22.13 below the listing; $22.13 / $100.00 = 22.13% below the listing"
+        ],
+        "note": "From the Warehouse: the question we get most about this shelf is whether the cheapest box is the cheapest pack, because buyers see SV9 at $72.22 and assume the division follows. It does here, SV9 is $2.41 a pack and $0.48 a card, but it does not follow on the Deluxe boxes, where $167.90 buys only 4 packs at $41.98 each, and it does not follow across eras, where a $84.08 Sun and Moon box can be $2.80 a pack while a $77.87 Sword and Shield box is $3.89 a pack. The pack count is the whole decision, and it is printed on this board so you never have to guess it.",
+        "paragraphs": [
+          "The top three results for this query all do a narrower job. Shonen Grail prices 2025 and 2026 boxes with TCGplayer market figures from October 31, 2026, Bill's Archive tables 66 boxes with TCGplayer market prices from November 8, 2026, and Samurai Sword Tokyo ranks seven beginner sets by editorial score with store prices from October 2026. None of them holds a shelf, divides a shelf into packs and cards, or splits the board by era.",
+          "Four things only this page owns. First, the live shelf: 39 boxes at Warehouse prices as of November 24, 2026, totalling $23,594.10. Second, the per-pack division on every box, from $2.41 to $146.14, with the pack counts that make the division honest. Third, the market check: our SV9 sits $15.63 below the November 8, 2026 TCGplayer market price of $87.85, and our SV8 sits $77.29 above the market price of $142.21. Fourth, the retailer cross-check: Cardheist lists Battle Partners from $111.75 and Stellar Miracle from $100.00, read November 24, 2026, so our shelf sits $39.53 and $22.13 below those listings. The [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) prices the same shelf a different way, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks it by value alone."
+        ]
+      },
+      {
+        "h": "The chase ladder: cheap packs, dear packs, and the two high-class outliers",
+        "math": [
+          "Pokemon GO shelf against TCGplayer: $220.42 - $145.76 = $74.66 above market; $74.66 / $145.76 = 51.22% above market",
+          "Dark Phantasma shelf against TCGplayer: $206.35 - $192.76 = $13.59 above market; $13.59 / $192.76 = 7.05% above market",
+          "Space Juggler shelf against TCGplayer: $136.25 - $91.94 = $44.31 below market; $44.31 / $136.25 = 32.52% below market",
+          "Battle Region shelf against TCGplayer: $97.88 - $77.87 = $20.01 below market; $20.01 / $97.88 = 20.44% below market",
+          "Tag Team GX All Stars shelf against TCGplayer: $1,418.25 - $1,053.33 = $364.92 above market; $364.92 / $1,053.33 = 34.64% above market",
+          "Sky Legend shelf against Cardfolio: $942.68 - $550.00 = $392.68 above the guide; $392.68 / $550.00 = 71.40% above the guide",
+          "Sky Legend shelf against Double Holo: $942.68 - $599.99 = $342.69 above the guide; $342.69 / $599.99 = 57.12% above the guide",
+          "Night Unison shelf against Cardfolio: $500.00 - $84.08 = $415.92 below the guide; $415.92 / $500.00 = 83.18% below the guide"
+        ],
+        "note": "From the Warehouse: what we see in allocation is that buyers ask for the cheapest box and then stop listening when we say the cheapest pack and the cheapest box are the same product here only by luck. On this shelf SV9 is both, at $72.22 and $2.41 a pack, but the second-cheapest pack is SV7 at $2.60, while the second-cheapest box is a tie at $77.87 between SV7 and S9a Battle Region, and Battle Region is $3.89 a pack. The ladder that actually pays is the per-pack ladder, not the per-box ladder, and the case split sits below both: SV11W at $3.16 a pack beats its own $7.13 single-box pack.",
+        "paragraphs": [
+          "The per-pack ladder has four rungs. The bottom rung is the cheap opening tier: SV9 at $2.41 a pack, SV7 at $2.60, SM9a and SM9 at $2.80, S10P Space Juggler at $3.06, and S9a Battle Region at $3.89. The second rung is the current-set tier: SV7a at $4.00, SV9a at $4.63, SV10 at $6.03, SV11W at $7.13, SV8 at $7.32, and SV11B at $7.79. The third rung is the vintage middle tier, from SM8a Dark Order at $14.57 to SM11 Miracle Twin at $52.90. The top rung is SM7 at $111.18 a pack, SM12a at $141.83, and SM8b at $146.14.",
+          "The market disagrees with our shelf in both directions. Our Pokemon GO box at $220.42 sits $74.66 above the November 8, 2026 TCGplayer market price of $145.76, while our Space Juggler at $91.94 sits $44.31 below the market price of $136.25 and our Battle Region at $77.87 sits $20.01 below the November 22, 2026 TCGComps market price of $97.88. On the vintage side, our SM12a at $1,418.25 sits $364.92 above the November 22, 2026 Sparkl TCGplayer read of $1,053.33. The [SV11B best cards guide](/blog/sv11b-best-cards/) and the [SV10 best cards guide](/blog/sv10-best-cards/) rank the chases inside the two dearest current boxes, and the [SV9 best cards guide](/blog/sv9-best-cards/) ranks the chase inside the cheapest."
+        ]
+      },
+      {
+        "h": "The risk layer: three boxes at one price, and the market disagrees",
+        "math": [
+          "Three boxes at one price: $84.08 x 3 boxes = $252.24",
+          "Night Unison pack against Cardfolio pack: $19.00 - $2.80 = $16.20 below the pack guide; $16.20 / $19.00 = 85.26% below the pack guide",
+          "Sky Legend pack against Double Holo pack: $31.42 - $20.00 = $11.42 above the pack guide; $11.42 / $20.00 = 57.10% above the pack guide"
+        ],
+        "paragraphs": [
+          "Three boxes on this shelf share the exact price of $84.08: SMP2 Detective Pikachu, SM9a Night Unison, and SM9 Tag Bolt, which together cost $252.24. A shared price across three different eras is a shelf pattern, not a market price, and the market reads behind it run far apart. Cardfolio puts the Night Unison box at about $500 on November 18, 2026, which is $415.92 above our $84.08 shelf price, and Double Holo puts a single Night Unison pack at about $19.00 on November 22, 2026, which is $16.20 above our $2.80 per-pack figure. One of those two reads is wrong for this listing, so confirm the listing, the set code, and the seal at checkout before assuming $84.08 is the market price.",
+          "Fakes and reseals are the second risk. Check the factory shrink-wrap before opening, photograph the box, and keep the seal intact until you are sure, because a reseal claim is only provable while the seal is unbroken. The third risk is the pull-rate gap: the Pokemon Company publishes no pull rates, so no honest expected-value math exists for opening any box on this board, and a box that costs $3,335.50 can never be justified as an opening on average. The fourth risk is age: the Sun and Moon boxes have had seven to nine years to circulate, and the dearer the box, the more times it has changed hands. The [should you open or keep sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) runs the hold math."
+        ]
+      },
+      {
+        "h": "Context: Japan list price against the shelf, and why Sun and Moon owns the board",
+        "math": [
+          "Sun and Moon boxes at 1,000 or more: 8 boxes of 39 boxes = 20.51% of the board",
+          "Scarlet and Violet boxes under 200: 9 boxes of 10 boxes = 90.00% of the era",
+          "Boxes under 100: 7 boxes of 39 boxes = 17.95% of the board",
+          "Boxes under 200: 15 boxes of 39 boxes = 38.46% of the board"
+        ],
+        "paragraphs": [
+          "Japan and English are different products, and the board only makes sense once that is fixed. A standard Japanese box holds 30 packs of 5 cards, 150 cards, against an English box at 36 packs of 10 cards, 360 cards, and the Japanese list price for that box is 6,000 yen, or $37.72. The Japanese pack rose from 180 yen to 200 yen in May 2026, which Shonen Grail and Samurai Sword Tokyo both record, and that rise is already inside the 6,000 yen list price used above.",
+          "Sun and Moon owns the board because it is the oldest era on the shelf and the only one with true scarcity pricing. Eight of the 39 boxes sit at $1,000 or more, which is 20.51% of the board, and all eight are Sun and Moon. Scarlet and Violet is the opposite: nine of its ten boxes sit under $200, which is 90.00% of the era, and the whole era totals $1,456.70, less than the SM11 Miracle Twin box alone at $1,587.08. The [are Japanese Pokemon cards a good investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) tests whether that scarcity pays, and the [SV11B investment guide](/blog/sv11b-investment/) runs the same test on the dearest current box."
+        ]
+      },
+      {
+        "h": "Who this board is NOT for",
+        "paragraphs": [
+          "This board is not for a buyer who wants one best box, because the cheapest box, the cheapest pack, and the cheapest card are the same product here only by luck. It is not for a player who needs Japanese cards for an English event, because Japanese cards are not legal there. It is not for a buyer who wants a guaranteed return from opening boxes, because the Pokemon Company publishes no pull rates and the dearest pack costs $146.14. It is not for a collector who wants a vintage box at a market price without checking the listing first, because three boxes share the $84.08 price and the market reads behind two of them run hundreds of dollars apart."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your job first: open now, hold sealed, or buy the cheapest entry, because the board answers each job with a different box",
+          "If the job is the cheapest opening, buy SV9 Battle Partners at $72.22, which is $2.41 a pack and $0.48 a card, or its case split at $67.46 a box and $2.25 a pack",
+          "If the job is the Unova pair, buy SV11B at $155.70 and SV11W at $142.56 together for $298.26, or the SV11W case split at $63.19 a box and $3.16 a pack",
+          "If the job is the Deluxe pair, remember the division first: $348.94 buys 8 packs at $45.26 and $41.98 each, not 40 packs, and each pack holds 35 cards with one Art Rare guaranteed",
+          "If the job is a sealed hold, buy SM7 at $3,335.50 or SM8b at $1,461.40 and do not open them, because the per-pack cost is $111.18 and $146.14",
+          "If the job is a named vintage card, buy the single, because no box on this board carries published pull rates and no opening can be justified on average",
+          "Before you pay for any of the three $84.08 boxes, confirm the set code on the listing, because SMP2 Detective Pikachu, SM9a Night Unison, and SM9 Tag Bolt share one price and the market reads behind them run far apart",
+          "Check the factory shrink-wrap and photograph the box before opening, because a reseal claim is only provable while the seal is intact",
+          "Confirm the exact quote at checkout, because shelf prices are as of November 24, 2026 and the market reads on this page are dated November 8 to November 22, 2026"
+        ],
+        "h": "Action layer: the board checklist",
+        "paragraphs": [
+          "Work the list in order, and stop at the first line that matches your goal. The [SV11B Black Bolt buyers guide](/blog/sv11b-black-bolt-buyers-guide/) runs the same checklist shape on the dearest current box, the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) compares the pair head to head, and the [how to store sealed booster boxes guide](/blog/how-to-store-sealed-booster-boxes/) covers what to do with the box once it arrives."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-booster-box",
+    "takeaway": [
+      "The Warehouse shelf holds 39 Japanese Pokemon booster boxes as of November 24, 2026, priced from $72.22 for SV9 Battle Partners to $3,335.50 for SM7 Sky-Splitting Charisma, and the whole shelf totals $23,594.10. The per-pack cost runs from $2.41 to $146.14, and the per-card cost from $0.48 to $22.24.",
+      "Scarlet and Violet is the cheap era at $1,456.70 for ten boxes, Sword and Shield is $1,009.31 for five, and Sun and Moon owns 89.55% of the board at $21,128.09 for twenty-four boxes. Seven boxes sit under $100, fifteen under $200, and eight at $1,000 or more.",
+      "The case is the cheapest route into four Scarlet and Violet boxes: SV11W splits to $63.19 a box, SV11B to $70.25, SV9 to $67.46, and SV10 to $129.02. Against the November 8, 2026 TCGplayer market, our SV9 sits $15.63 below market and our SV8 sits $77.29 above it.",
+      "Three boxes share the exact $84.08 price, and the market reads behind two of them run hundreds of dollars apart, so confirm the listing before you pay. The Pokemon Company publishes no pull rates, so no box on this board can be justified as an opening on average.",
+      "Companion guide: the [best Japanese Pokemon booster box to buy guide](/blog/best-japanese-pokemon-booster-box-to-buy/) picks one box per buyer, and the [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks the shelf by value alone.",
+      "For the price view, the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) prices the same shelf a different way, and the [cheapest Japanese Pokemon booster box guide](/blog/cheapest-japanese-pokemon-booster-box/) ranks the floor.",
+      "For the hold decision, the [should you open or keep sealed guide](/blog/should-you-open-or-keep-sealed-booster-box/) runs the hold math, and the [PSA grading Japanese cards guide](/blog/psa-grading-japanese-cards-worth-it/) tests whether grading pays."
+    ]
+  },
   "japanese-pokemon-booster-box-australia-price": {
     "datePublished": "2026-11-10",
     "faqs": [
@@ -40409,7 +40976,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best Japanese Pokemon booster pack guide](/blog/best-japanese-pokemon-booster-pack/) divides every box to the pack and then to the card, and prices the three sealed promo packs.",
       "For the dearest box on this board in depth, the [SV2a Pokemon 151 buyer's guide](/blog/sv2a-pokemon-151-buyers-guide/) prices the $471.20 box against a case that saves $1,845.08.",
       "New this cycle: the [Cheapest Japanese Pokémon Booster Box guide](/blog/cheapest-japanese-pokemon-booster-box/) prices the floor box by box, from Rebellion Crash at $43.03 to the sixteen cheapest under $95, with per-pack and per-card math for each.",
-      "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases."
+      "New this cycle: the [Japanese booster box price guide](/blog/japanese-booster-box-price/) prices the whole four-game shelf, Pokémon from $70.62 and One Piece from $69.48, with Dragon Ball and Lorcana divided from their cases.",
+      "For the full shelf board, the [Japanese Pokemon booster box guide](/blog/japanese-pokemon-booster-box/) prices all 39 boxes, $72.22 to $3,335.50, with per-pack costs from $2.41 to $146.14."
     ]
   },
   "japanese-pokemon-booster-box-singapore-price": {
