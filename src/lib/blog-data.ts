@@ -29530,7 +29530,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the cheapest sealed Japanese Pokémon box on the shelf, the cheapest verified pack and the cheapest verified card, sealed as a single box, and it is not worth buying as a way to own one named card or to make the money back by opening. The gold Mega Zygarde ex MUR sat at ¥19,800 on yuyu-tei on October 30, 2026, about $124, which is 2.06 boxes, and the community estimate is one MUR in every 50 boxes. Buy the single, or buy the box for the set.",
       "It is worth buying with the fall in mind: the box dropped $10.59 in nine days, from $70.62 to $60.03, fifteen percent in one leg on November 13, 2026, the same fifteen percent that fell on every Japanese box on this shelf the same day. The chase fell faster: the MUR dropped 67.00 percent from its day-one ¥60,000 ask to ¥19,800. A box bought as an investment can fall as fast as it rose.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of September 29 to October 30, 2026. The box now sits $14.68 below the TCG Watchtower figure, which is the fact that outlives every price on this page: divide before you buy, every time.",
-      "For the price-and-math companion, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) runs all four products side by side, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is M2a worth buying guide](/blog/is-m2a-worth-buying/) runs the same verdict on the high-class pack, where the case rule runs the other way. The [M3 Munikis Zero investment guide](/blog/m3-investment/) carries the verdict forward with the fresh market box and the inverted case."
+      "For the price-and-math companion, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) runs all four products side by side, the [best Japanese Pokémon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is M2a worth buying guide](/blog/is-m2a-worth-buying/) runs the same verdict on the high-class pack, where the case rule runs the other way. The [M3 Munikis Zero investment guide](/blog/m3-investment/) carries the verdict forward with the fresh market box and the inverted case. The ten best cards get their own ranking in the [M3 best cards guide](/blog/m3-best-cards/), where the Zygarde-led ten total $353.57."
     ]
   },
   "is-op-01-worth-buying": {
@@ -46773,7 +46773,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as singles for $977.93, which is 10.02 boxes, and it is not worth buying as sealed product to pull the Gengar, because the Gengar costs 2.49 boxes and the Pokemon Company publishes no pull rates. The box at $97.55 is $19.64 above the $77.91 market box, while the case at $1,579.78 divides to $78.99 a box, $1.08 above it, so neither sealed route beats the market this week.",
       "It is worth buying with the falls in mind: the Gengar is down 59.07 percent from its $594 launch price, the Mewtwo is down 70.47 percent from $255, and the Iono is down 77.92 percent from $101. The market price is the ask side, not the last sale: the Mewtwo carries a $75.29 market against a $62.50 eBay median, and the Dragonite SAR carries a $143.46 market against a $121.75 median.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 24, 2026, and the card prices from TickerMint's November 23, 2026 TCGplayer read, cross-checked against Double Holo and Moonstone. For the price-and-math companions, the [M2a investment guide](/blog/m2a-investment/) runs the case flip, the [M2a Mega Dream ex buyer's guide](/blog/m2a-mega-dream-ex-buyers-guide/) carries the full 250-card breakdown, and the [is M2a worth buying guide](/blog/is-m2a-worth-buying/) carries the full buy verdict.",
-      "The twin era gets the same treatment in the [M1L best cards guide](/blog/m1l-best-cards/) and the [M1S best cards guide](/blog/m1s-best-cards/), where the same shelf math divides the gold-led sets card by card. The standard expansion beside M2a gets the same treatment in the [M2 best cards guide](/blog/m2-best-cards/), where the ten best total $1,377.04 led by the Mega Charizard X ex SAR at $654.46."
+      "The twin era gets the same treatment in the [M1L best cards guide](/blog/m1l-best-cards/) and the [M1S best cards guide](/blog/m1s-best-cards/), where the same shelf math divides the gold-led sets card by card. The standard expansion beside M2a gets the same treatment in the [M2 best cards guide](/blog/m2-best-cards/), where the ten best total $1,377.04 led by the Mega Charizard X ex SAR at $654.46. The anniversary set gets the same treatment in the [M6a best cards guide](/blog/m6a-best-cards/), where the Classic Collection Charizard leads ten cards totalling $545.49."
     ]
   },
   "m2a-investment": {
@@ -47184,6 +47184,390 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [is M2a worth buying guide](/blog/is-m2a-worth-buying/) runs the same verdict after the November 13 repricing: box $97.55, case $78.99 a box, and the Mega Gengar ex SAR at about $203, with the MA print at about $12."
     ]
   },
+  "m3-best-cards": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "The gold Mega Zygarde ex MUR, 117/080, at $165.67 on TCGplayer market as of November 24, 2026, per Sparkl, cross-checked against TCGPursuit at the same price. It is 46.86 percent of the top-10 total of $353.57 and 39.88 percent of the whole $415.41 set, or 2.76 boxes at the Warehouse shelf price of $60.03. It has held its price while the rest of the top three fell: $168.98 on November 2, $165.67 on November 17, $165.67 now.",
+        "q": "What is the most valuable card in M3 Munikis Zero?"
+      },
+      {
+        "a": "The top 10 as singles, by a wide margin. One of each of the 10 best cards costs $353.57 on TCGplayer market as of November 24, 2026, which is 5.89 boxes at $60.03, and the complete set of 117 cards is $415.41, or 6.92 boxes. The Pokemon Company publishes no pull rates for M3, so no box carries a calculated chance of holding the Zygarde, and the community estimate lists the MUR at 1 in 50 boxes. Buy the box to open the set, buy twelve singles at $720.36 if twelve boxes is the plan, and buy the singles for the named cards.",
+        "q": "Is it cheaper to buy the top 10 M3 cards or open boxes to pull them?"
+      },
+      {
+        "a": "The market repriced them as packs opened. The Rosa SAR sat at $53.40 on November 2, per PokeWallet, and $45.19 on Sparkl's November 24 read, a fall of $8.21, or 15.37 percent. The Meowth fell 11.80 percent over the same span, from $68.58 to $60.49, and the Zygarde SAR fell 13.61 percent, from $25.65 to $22.16. The Zygarde held best, down only 1.96 percent from $168.98 to $165.67. The fall is a launch-to-now correction across the whole chase tier, not a single-card event, but a buyer who pays a November 2 price for the Rosa overpays by $8.21.",
+        "q": "Why did the M3 chase cards fall since November 2?"
+      }
+    ],
+    "h1": "M3 Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the 10 best cards in M3 Munikis Zero total $353.57 on TCGplayer market as of November 24, 2026, and the gold Mega Zygarde ex MUR alone is $165.67, or 46.86 percent of that total and 39.88 percent of the whole $415.41 set. The top five carry 87.78 percent of the top 10. Buy the top 10 as singles for $353.57, the box for $60.03 to open the set, or twelve singles instead of the case at $891.00; never buy sealed product to pull the Zygarde, because it costs 2.76 boxes and no pull rate prices the chase.",
+      "Who this is for: the collector who wants the ten cards that hold the set's value, and the buyer choosing between a box, a case, and singles. Who it is not for: anyone chasing the Zygarde by opening boxes, who should buy the single at $165.67; anyone who wants value spread across many cards; and anyone who needs the November 17 prices to hold."
+    ],
+    "metaDescription": "The 10 best M3 cards total $353.57 on TCGplayer, Nov 24, 2026. The gold Zygarde MUR is $165.67, 46.86% of the top 10. Box, case, and singles, divided.",
+    "metaTitle": "M3 Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one card holds nearly half the top 10",
+        "math": [
+          "M3 box per pack: $60.03 / 30 packs = $2.00 per pack",
+          "M3 box per card: $60.03 / 150 cards = $0.40 per card",
+          "M3 case per box: $891.00 / 12 boxes = $74.25 per box",
+          "M3 case per pack: $891.00 / 360 packs = $2.48 per pack",
+          "M3 case per card: $891.00 / 1,800 cards = $0.50 per card",
+          "M3 twelve single boxes: 12 x $60.03 = $720.36",
+          "M3 case premium per case: $891.00 - $720.36 = $170.64",
+          "M3 case premium per box: $74.25 - $60.03 = $14.22",
+          "M3 case premium percent: $14.22 / $60.03 = 23.69% above the single",
+          "M3 official box: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.07 = $33.95",
+          "M3 box vs official: $60.03 - $33.95 = $26.08 above official",
+          "M3 box vs official ratio: $60.03 / $33.95 = 1.77x official",
+          "M3 box vs market box: $74.81 - $60.03 = $14.78 below market",
+          "M3 box vs market box percent: $14.78 / $74.81 = 19.76% below market",
+          "M3 case per box vs market box: $74.81 - $74.25 = $0.56 below market",
+          "M3 case vs 12 market boxes: (12 x $74.81) - $891.00 = $6.72 per case",
+          "M3 market box per pack: $74.81 / 30 packs = $2.49 per pack",
+          "M3 market box per card: $74.81 / 150 cards = $0.50 per card"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about M3 is whether the case is a discount, because every other case on the shelf is one. It is not. The case costs $14.22 more per box than the single, and buyers who assume it saves money pay $170.64 for the assumption. The second question is whether the Zygarde is worth chasing in boxes, and the division answers it: the card costs 2.76 boxes, and no box promises it.",
+        "paragraphs": [
+          "The concentration is the story. The gold Mega Zygarde ex MUR at $165.67 is 46.86 percent of the top-10 total and 39.88 percent of the whole $415.41 set, so one card of 117 holds two fifths of the value. The top five total $310.36, or 87.78 percent of the top 10, and the top 10 total $353.57, or 85.11 percent of the set. The other 107 cards total $61.84, an average of $0.58 a card.",
+          "The top 10 as singles cost $353.57, which is 5.89 boxes at the Warehouse shelf price of $60.03, and the complete set is $415.41, or 6.92 boxes. The [M3 Munikis Zero sealed case](/product/m3-munikis-zero-nihil-zero-sealed-case-12-boxes-japanese-pokemon-card/) at $891.00 divides to $74.25 a box, $14.22 above the single box, while the market box sits at $74.81 on Sparkl's November 24, 2026 read, so the case box sits $0.56 below the market box and the single box sits $14.78 below it. The [M3 Munikis Zero booster box](/product/m3-munikis-zero-nihil-zero-booster-box-japanese-pokemon-card/) at $60.03 is the cheapest sealed Japanese Pokemon box on this shelf, $2.00 a pack and $0.40 a card.",
+          "Best here means most valuable, not most playable. The same Mega Zygarde ex that costs $165.67 as a Mega Ultra Rare also prints as a Special Art Rare at 113/080, priced at $22.16 on the same November 24 read, so a player buys the cheap print and a collector buys the gold, and the gap between them is $143.51. Every price here is a TCGplayer market price from Sparkl's November 24, 2026 read, cross-checked against TCGPursuit the same day unless another source and date is named. Shelf prices are as of November 24, 2026, and the store lists no M3 singles, so these singles prices are market prices, not shelf prices."
+        ]
+      },
+      {
+        "h": "The money layer: the top 10, divided",
+        "math": [
+          "Top 10 total: $165.67 + $60.49 + $45.19 + $22.16 + $16.85 + $16.19 + $9.35 + $6.60 + $6.17 + $4.90 = $353.57",
+          "Top 10 share of set value: $353.57 / $415.41 = 85.11%",
+          "Mega Zygarde ex MUR CardCodex vs Sparkl: $166.76 - $165.67 = $1.09 above",
+          "Mega Zygarde ex MUR TheHobbyBin vs Sparkl: $165.67 - $165.32 = $0.35 below",
+          "Top 5 total: $165.67 + $60.49 + $45.19 + $22.16 + $16.85 = $310.36",
+          "Top 5 share of top 10: $310.36 / $353.57 = 87.78%",
+          "Top 5 share of set value: $310.36 / $415.41 = 74.71%",
+          "Mega Zygarde ex 117/080 share of top 10: $165.67 / $353.57 = 46.86%",
+          "Mega Zygarde ex 117/080 vs Japanese box: $165.67 / $60.03 = 2.76 boxes",
+          "Meowth ex 114/080 share of top 10: $60.49 / $353.57 = 17.11%",
+          "Meowth ex 114/080 vs Japanese box: $60.49 / $60.03 = 1.01 boxes",
+          "Rosa's Encouragement 115/080 share of top 10: $45.19 / $353.57 = 12.78%",
+          "Rosa's Encouragement 115/080 vs Japanese box: $45.19 / $60.03 = 0.75 boxes",
+          "Mega Zygarde ex 113/080 share of top 10: $22.16 / $353.57 = 6.27%",
+          "Mega Zygarde ex 113/080 vs Japanese box: $22.16 / $60.03 = 0.37 boxes",
+          "Mega Clefable ex 112/080 share of top 10: $16.85 / $353.57 = 4.77%",
+          "Mega Clefable ex 112/080 vs Japanese box: $16.85 / $60.03 = 0.28 boxes",
+          "Mega Starmie ex 111/080 share of top 10: $16.19 / $353.57 = 4.58%",
+          "Mega Starmie ex 111/080 vs Japanese box: $16.19 / $60.03 = 0.27 boxes",
+          "Meowth ex 100/080 share of top 10: $9.35 / $353.57 = 2.64%",
+          "Meowth ex 100/080 vs Japanese box: $9.35 / $60.03 = 0.16 boxes",
+          "Clefairy 086/080 share of top 10: $6.60 / $353.57 = 1.87%",
+          "Clefairy 086/080 vs Japanese box: $6.60 / $60.03 = 0.11 boxes",
+          "Rosa's Encouragement 107/080 share of top 10: $6.17 / $353.57 = 1.75%",
+          "Rosa's Encouragement 107/080 vs Japanese box: $6.17 / $60.03 = 0.10 boxes",
+          "Jacinthe 116/080 share of top 10: $4.90 / $353.57 = 1.39%",
+          "Jacinthe 116/080 vs Japanese box: $4.90 / $60.03 = 0.08 boxes",
+          "Top 10 vs Japanese box: $353.57 / $60.03 = 5.89 boxes",
+          "Top 10 vs case per box: $353.57 / $74.25 = 4.76 boxes",
+          "Top 10 vs sealed case: $353.57 / $891.00 = 39.68% of a case",
+          "Complete set vs Japanese box: $415.41 / $60.03 = 6.92 boxes",
+          "Complete set vs sealed case: $415.41 / $891.00 = 46.62% of a case",
+          "Rest of set, cards 11 to 117: $415.41 - $353.57 = $61.84; $61.84 / 107 cards = $0.58 per card",
+          "Top 10 minus top 5: $353.57 - $310.36 = $43.21 for ranks 6 to 10",
+          "Mega Zygarde ex MUR vs Zygarde SAR: $165.67 - $22.16 = $143.51; $165.67 / $22.16 = 7.48x the SAR",
+          "Mega Zygarde ex MUR vs Meowth plus Rosa: $60.49 + $45.19 = $105.68; $165.67 / $105.68 = 1.57x the pair",
+          "Two Zygarde prints together: $165.67 + $22.16 = $187.83; $187.83 / $353.57 = 53.12% of the top 10",
+          "Rosa SAR vs Rosa SR: $45.19 - $6.17 = $39.02; $45.19 / $6.17 = 7.32x the SR"
+        ],
+        "paragraphs": [
+          "The table below is the ranking, with every card's share of the top-10 total and its price in boxes. Sparkl updated these TCGplayer market prices on November 24, 2026, and TCGPursuit's read the same day agrees on all ten cards to the cent. The [M3 investment guide](/blog/m3-investment/) ran the same shelf a week earlier, when the same ten cards totalled $358.92.",
+          "Three divisions carry the decision. First, the top 10 total $353.57, which is 5.89 boxes, 4.76 case-boxes, and 39.68 percent of a sealed case. Second, the top five total $310.36, which is 87.78 percent of the top 10, so the bottom five add only $43.21. Third, the Zygarde is 7.48 times the SAR print of the same Pokemon at $22.16, so the $143.51 gap is pure gold treatment and rarity."
+        ],
+        "table": {
+          "head": [
+            "Rank",
+            "Card",
+            "No.",
+            "Rarity",
+            "Price",
+            "Share of top 10",
+            "In boxes"
+          ],
+          "rows": [
+            [
+              "1",
+              "Mega Zygarde ex",
+              "117/080",
+              "Mega Ultra Rare",
+              "$165.67",
+              "46.86%",
+              "2.76"
+            ],
+            [
+              "2",
+              "Meowth ex",
+              "114/080",
+              "Special Art Rare",
+              "$60.49",
+              "17.11%",
+              "1.01"
+            ],
+            [
+              "3",
+              "Rosa's Encouragement",
+              "115/080",
+              "Special Art Rare",
+              "$45.19",
+              "12.78%",
+              "0.75"
+            ],
+            [
+              "4",
+              "Mega Zygarde ex",
+              "113/080",
+              "Special Art Rare",
+              "$22.16",
+              "6.27%",
+              "0.37"
+            ],
+            [
+              "5",
+              "Mega Clefable ex",
+              "112/080",
+              "Special Art Rare",
+              "$16.85",
+              "4.77%",
+              "0.28"
+            ],
+            [
+              "6",
+              "Mega Starmie ex",
+              "111/080",
+              "Special Art Rare",
+              "$16.19",
+              "4.58%",
+              "0.27"
+            ],
+            [
+              "7",
+              "Meowth ex",
+              "100/080",
+              "Super Rare",
+              "$9.35",
+              "2.64%",
+              "0.16"
+            ],
+            [
+              "8",
+              "Clefairy",
+              "086/080",
+              "Art Rare",
+              "$6.60",
+              "1.87%",
+              "0.11"
+            ],
+            [
+              "9",
+              "Rosa's Encouragement",
+              "107/080",
+              "Super Rare",
+              "$6.17",
+              "1.75%",
+              "0.10"
+            ],
+            [
+              "10",
+              "Jacinthe",
+              "116/080",
+              "Special Art Rare",
+              "$4.90",
+              "1.39%",
+              "0.08"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: the 10 cards, one by one",
+        "paragraphs": [
+          "1. Mega Zygarde ex, 117/080, Mega Ultra Rare, $165.67. The Zygarde is 46.86 percent of the top 10 and 2.76 boxes, and the other nine cards together cost $187.90, only $22.23 more than the Zygarde alone. It sat at $165.67 on November 17 and $168.98 on November 2, a fall of 1.96 percent in 22 days. CardCodex reads it at $166.76, $1.09 above the Sparkl and TCGPursuit figure, and TheHobbyBin reads it at $165.32, $0.35 below. 2. Meowth ex, 114/080, Special Art Rare, $60.49. The Meowth is 17.11 percent of the top 10 and 1.01 boxes, and it passed the Rosa on November 2, at $68.58 against $53.40, and has fallen 11.80 percent since then, 4.48 percent since November 17. 3. Rosa's Encouragement, 115/080, Special Art Rare, $45.19. The Rosa is 12.78 percent of the top 10 and 0.75 of a box, and it is the falling card of the top three: $53.40 on November 2, $46.21 on November 17, $45.19 now, down 15.37 percent in 22 days. 4. Mega Zygarde ex, 113/080, Special Art Rare, $22.16. The second Zygarde print is 6.27 percent of the top 10 and 0.37 of a box, and the two Zygarde prints together cost $187.83, or 53.12 percent of the top 10.",
+          "5. Mega Clefable ex, 112/080, Special Art Rare, $16.85. The Clefable is 4.77 percent of the top 10 and 0.28 of a box, and it is the only top-10 card that rose last week, up $0.27 from $16.58, or 1.63 percent. 6. Mega Starmie ex, 111/080, Special Art Rare, $16.19. The Starmie is 4.58 percent of the top 10 and 0.27 of a box, and it sits $0.66 behind the Clefable, the closest gap here. 7. Meowth ex, 100/080, Super Rare, $9.35. The Meowth SR is 2.64 percent of the top 10 and 0.16 of a box, and it is the cliff edge of this list, between $16.19 above and $6.60 below. 8. Clefairy, 086/080, Art Rare, $6.60. The Clefairy is 1.87 percent of the top 10 and 0.11 of a box, and it is the only Art Rare here, the best of the twelve in the set.",
+          "9. Rosa's Encouragement, 107/080, Super Rare, $6.17. The Rosa SR is 1.75 percent of the top 10 and 0.10 of a box, and it is the budget print of the third-best card, $39.02 less than the SAR at 115/080 for the same Supporter. 10. Jacinthe, 116/080, Special Art Rare, $4.90. The last card here is 1.39 percent of the top 10 and 0.08 of a box, and it is the falling card of the tail: $5.41 on November 17 to $4.90 now, down 9.43 percent in seven days. The cutoff is not close: the Dedenne AR at 085/080 sits eleventh at $3.33 on TickerMint's November 20 read, $1.57 behind. The [Japanese Pokemon rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the prints, and the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) carries the full 117-card breakdown."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, singles, or waiting",
+        "math": [
+          "Top 10 minus the Zygarde: $353.57 - $165.67 = $187.90 for the other nine cards",
+          "Top 5 minus the Zygarde: $310.36 - $165.67 = $144.69 for the other four cards",
+          "Top 10 as singles vs complete set: $415.41 - $353.57 = $61.84 for the other 107 cards",
+          "Market box vs official: $74.81 - $33.95 = $40.86 above official",
+          "Market box vs official ratio: $74.81 / $33.95 = 2.20x official",
+          "Mega Zygarde ex MUR vs market box: $165.67 / $74.81 = 2.21 boxes",
+          "Mega Zygarde ex MUR vs case per box: $165.67 / $74.25 = 2.23 boxes"
+        ],
+        "paragraphs": [
+          "Seven ways to spend on M3, priced as of November 24, 2026. The singles win for named cards, the single box wins for opening, and the case wins for nothing on price: $170.64 more than twelve singles, $6.72 saved against twelve market boxes. The [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division across every game on this shelf.",
+          "Read the table from the job, not the price. A buyer who wants the ten cards buys them for $353.57: 5.89 boxes cost the same money and hold no promise of any of them, and the Pokemon Company publishes no pull rates. A buyer who wants twelve boxes buys twelve singles at $720.36, because the case charges $170.64 for the same twelve boxes in factory packaging. A buyer who wants the English cards buys Perfect Order, a different product with its own card list and prices, so no English box compares at the M3 price."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Top 10 as singles",
+              "$353.57",
+              "n/a",
+              "Owning the ten cards that hold 85.11% of the set",
+              "No sealed upside; condition and grading risk"
+            ],
+            [
+              "Complete set as singles",
+              "$415.41",
+              "n/a",
+              "Owning all 117 cards at once",
+              "$61.84 more than the top 10 for 107 cards averaging $0.58"
+            ],
+            [
+              "Japanese box",
+              "$60.03",
+              "$2.00",
+              "Opening Munikis Zero in Japanese",
+              "2.76 boxes buy the Zygarde with no promise of it; no published pull rates"
+            ],
+            [
+              "Sealed case (12)",
+              "$891.00",
+              "$2.48",
+              "Twelve boxes at $74.25 each",
+              "$170.64 above twelve singles; $891.00 committed at once"
+            ],
+            [
+              "Market box",
+              "$74.81",
+              "$2.49",
+              "One box at the market price",
+              "$14.78 above our box; shipping and import on top"
+            ],
+            [
+              "Top 5 as singles",
+              "$310.36",
+              "n/a",
+              "Owning the five cards that hold 74.71% of the set",
+              "$43.21 less than the top 10, but no Starmie or Meowth SR"
+            ],
+            [
+              "Zygarde MUR single",
+              "$165.67",
+              "n/a",
+              "Owning the headline card alone",
+              "One card is 46.86% of the top 10; the other nine still cost $187.90"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top three results do not answer",
+        "note": "From the Warehouse: what we see in allocation is that buyers arrive with a top-10 list from a price site and no plan for what to do with it, because the list never says whether to buy the cards, the box, or the case. The list is the start of the decision, not the decision, and the division is the part only a store that stocks both sealed routes can run: $353.57 for the cards, $60.03 for the box, $891.00 for the case, each against the same market box of $74.81.",
+        "paragraphs": [
+          "The top three results for this query all do a narrower job, and their headings set the floor this page has to clear. Samurai Sword Tokyo ranks the ten cards with March 2026 Japanese prices, under headings for the set overview, the top 10, and the pull rates. PokeWallet ranks the chase cards with November 2, 2026 TCGplayer prices, under headings for the top card, the second card, the mid-tier SARs, and the outlook. PokePatch ranks the chase cards and prints the pull-rate chart, under headings for the best chase cards, the guaranteed hits, and the rates.",
+          "None of the three divides a live store shelf against the ranking. None states that the top 10 total $353.57, that the Zygarde alone is 46.86 percent of it, or that the top 10 cost 5.89 boxes. None prices the box at $60.03, the case at $74.25 a box, and the market box at $74.81 against each other.",
+          "Four things only this page owns. First, the top-10 total with per-card shares and box ratios, from Sparkl's November 24, 2026 read. Second, the shelf divisions: box $2.00 a pack, case $2.48 a pack. Third, the slide since November 2: Meowth down 11.80 percent, Rosa down 15.37 percent. Fourth, the two-market split, with the Zygarde $41.20 above the Tokyo ask while the Rosa sits $17.55 below it."
+        ]
+      },
+      {
+        "h": "The risk layer: the slide, the two markets, and the two Zygardes",
+        "math": [
+          "Mega Zygarde ex MUR fall, Nov 2 to Nov 24: $168.98 - $165.67 = $3.31; $3.31 / $168.98 = 1.96% down",
+          "Meowth ex SAR fall, Nov 2 to Nov 24: $68.58 - $60.49 = $8.09; $8.09 / $68.58 = 11.80% down",
+          "Rosa's Encouragement SAR fall, Nov 2 to Nov 24: $53.40 - $45.19 = $8.21; $8.21 / $53.40 = 15.37% down",
+          "Mega Zygarde ex SAR fall, Nov 2 to Nov 24: $25.65 - $22.16 = $3.49; $3.49 / $25.65 = 13.61% down",
+          "Top 10 fall, Nov 17 to Nov 24: $358.92 - $353.57 = $5.35; $5.35 / $358.92 = 1.49% down",
+          "Set value fall, Nov 17 to Nov 24: $421.72 - $415.41 = $6.31; $6.31 / $421.72 = 1.50% down",
+          "Meowth ex SAR fall, Nov 17 to Nov 24: $63.33 - $60.49 = $2.84; $2.84 / $63.33 = 4.48% down",
+          "Rosa's Encouragement SAR fall, Nov 17 to Nov 24: $46.21 - $45.19 = $1.02; $1.02 / $46.21 = 2.21% down",
+          "Mega Zygarde ex SAR fall, Nov 17 to Nov 24: $22.66 - $22.16 = $0.50; $0.50 / $22.66 = 2.21% down",
+          "Mega Clefable ex SAR rise, Nov 17 to Nov 24: $16.85 - $16.58 = $0.27; $0.27 / $16.58 = 1.63% up",
+          "Mega Starmie ex SAR fall, Nov 17 to Nov 24: $16.50 - $16.19 = $0.31; $0.31 / $16.50 = 1.88% down",
+          "Meowth ex SR fall, Nov 17 to Nov 24: $9.44 - $9.35 = $0.09; $0.09 / $9.44 = 0.95% down",
+          "Clefairy AR fall, Nov 17 to Nov 24: $6.89 - $6.60 = $0.29; $0.29 / $6.89 = 4.21% down",
+          "Rosa's Encouragement SR fall, Nov 17 to Nov 24: $6.23 - $6.17 = $0.06; $0.06 / $6.23 = 0.96% down",
+          "Jacinthe SAR fall, Nov 17 to Nov 24: $5.41 - $4.90 = $0.51; $0.51 / $5.41 = 9.43% down",
+          "Market box move, Nov 17 to Nov 24: $74.81 - $74.51 = $0.30; $0.30 / $74.51 = 0.40% up",
+          "Mega Zygarde ex MUR fall since day one: 60,000 yen - 19,800 yen = 40,200 yen; 40,200 yen / 60,000 yen = 67.00%",
+          "Mega Zygarde ex MUR fall since March 2026: 35,000 yen - 19,800 yen = 15,200 yen; 15,200 yen / 35,000 yen = 43.43%",
+          "Mega Zygarde ex MUR Tokyo ask in dollars: 19,800 yen / 159.07 = $124.47",
+          "Mega Zygarde ex MUR TCGplayer vs Tokyo ask: $165.67 - $124.47 = $41.20; $41.20 / $124.47 = 33.10% above Tokyo",
+          "Mega Zygarde ex MUR Tokyo buyback: 14,000 yen / 159.07 = $88.01",
+          "Mega Zygarde ex MUR Tokyo buyback share: 14,000 yen / 19,800 yen = 70.71%",
+          "Mega Zygarde ex MUR buyback floor gap: $165.67 - $88.01 = $77.66",
+          "Rosa's Encouragement SAR Tokyo ask in dollars: 9,980 yen / 159.07 = $62.74",
+          "Rosa's Encouragement SAR TCGplayer vs Tokyo ask: $62.74 - $45.19 = $17.55; $17.55 / $62.74 = 27.97% below Tokyo",
+          "Meowth ex SAR Tokyo ask in dollars: 7,980 yen / 159.07 = $50.17",
+          "Meowth ex SAR TCGplayer vs Tokyo ask: $60.49 - $50.17 = $10.32; $10.32 / $50.17 = 20.57% above Tokyo",
+          "Fifty boxes for one expected MUR: 50 x $60.03 = $3,001.50",
+          "Thirty-six boxes for one named SAR: 36 x $60.03 = $2,161.08",
+          "Six boxes for one SAR of any kind: 6 x $60.03 = $360.18"
+        ],
+        "paragraphs": [
+          "The first risk is the slide. Since November 2 the Meowth fell 11.80 percent, from $68.58 to $60.49, the Rosa fell 15.37 percent, from $53.40 to $45.19, and the Zygarde SAR fell 13.61 percent, from $25.65 to $22.16. The Zygarde held: $168.98 on November 2, $165.67 on November 17, $165.67 now, a fall of 1.96 percent in 22 days. The top 10 fell 1.49 percent in the last week, from $358.92 to $353.57, and the set fell 1.50 percent, from $421.72 to $415.41.",
+          "The second risk is the two-market split: the market price is the TCGplayer ask, not the Tokyo ask. The Zygarde trades at $165.67 on TCGplayer against a 19,800 yen Tokyo ask worth $124.47, or 33.10 percent more in the United States than in Tokyo, while the Rosa trades the other way: $45.19 against a 9,980 yen ask worth $62.74, or 27.97 percent less. The Meowth sits between them: $60.49 against a 7,980 yen ask worth $50.17, or 20.57 percent above Tokyo. Pay the TCGplayer price for the Zygarde and you pay the dearer market; pay it for the Rosa and you pay the cheaper one. The buyback floor under the Zygarde is 14,000 yen, or $88.01, 70.71 percent of the Tokyo ask, so the $165.67 card has a Tokyo floor $77.66 below it.",
+          "The third risk is the two-Zygarde trap. The same Pokemon prints four times in this set: RR at 046/080, SR at 097/080, SAR at 113/080 for $22.16, and MUR at 117/080 for $165.67, and the two top prints sit 7.48 times apart, so a buyer who shops by name alone can pay MUR money for the SAR print. Check the number, not the name. The fourth risk is the reseal: check the factory shrink-wrap, because a reseal claim is only provable while the seal is unbroken. If the plan fails, stop opening, hold the box sealed, and buy the named card as a single. The [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal checks."
+        ]
+      },
+      {
+        "h": "Context: Japan against English, and the 180-yen lock",
+        "math": [
+          "Official pack in dollars: 180 yen / 159.07 = $1.13 per pack",
+          "M3 box per pack vs official per pack: $2.00 - $1.13 = $0.87 above official per pack",
+          "M3 case per box vs official: $74.25 - $33.95 = $40.30 above official per box",
+          "ECB cross check, Nov 24, 2026: 174.39 / 1.0963 = 159.07 yen per dollar",
+          "Release gap, Japan to English: January 23, 2026 to March 27, 2026 = 63 days"
+        ],
+        "paragraphs": [
+          "Munikis Zero, M3, released in Japan on January 23, 2026, as the third expansion in the MEGA series and the first set under J-Regulation. The set is 117 cards by the official list: 80 in the main set and 37 secret, as 12 Art Rares, 18 Super Rares, 6 Special Art Rares, and 1 Mega Ultra Rare. The set carries four Mega Evolution ex cards: Mega Zygarde, Mega Starmie, Mega Clefable, and Mega Skarmory.",
+          "The English side is a different set with the same chase cards. Mega Evolution: Perfect Order released in English on March 27, 2026, 63 days after the Japanese release, with its own card list and chase order, and Japanese cards are not legal at official English events. The [M3 investment guide](/blog/m3-investment/) runs the case math, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the full buy verdict.",
+          "A pack cost 180 yen including tax at release, so a box listed at 5,400 yen, or $33.95 at the ECB November 24, 2026 cross of 159.07 yen per dollar. Our box at $60.03 sits $26.08 above that official price, at 1.77 times it. The box holds 30 packs of 5 cards, not 10 packs of 10: $2.00 a pack and $0.40 a card, and the 180-yen tier is locked, because sets from May 2026 moved to 200 yen a pack, so M3 keeps its cost basis while newer sets start higher."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing the Zygarde by opening boxes, who should buy the single at $165.67: the Zygarde is 2.76 boxes, the Pokemon Company publishes no pull rates, and the community estimate lists the MUR at 1 in 50 boxes. It is not for anyone who wants value spread across many cards, because five cards hold 74.71 percent of the set and the other 107 average $0.58. It is not for anyone who needs the prices to hold, because the Rosa fell 15.37 percent in 22 days and the Jacinthe fell 9.43 percent in seven. It is not for anyone who wants the English chase, because that is Perfect Order, a different set with its own card list."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the ten cards, open the set, hold twelve boxes sealed, or own the Zygarde.",
+          "If the job is the ten cards, buy the singles for $353.57, and check the number on the Zygarde, because the MUR at 117/080 costs $165.67 and the SAR at 113/080 costs $22.16.",
+          "If the job is the Zygarde, buy the single at $165.67, and do not open boxes for it, because it costs 2.76 boxes and the community estimate is one MUR in 50 boxes.",
+          "If the job is one box, check the pack count first: 30 packs of 5 cards, $2.00 a pack, $0.40 a card, and know the box sits $14.78 below the $74.81 market box.",
+          "If the job is twelve boxes, buy twelve singles at $720.36, not the case at $891.00, because the case charges $170.64 for the same twelve boxes.",
+          "If the job is the Rosa SAR, re-check the price before you pay, because it fell $8.21 in 22 days and trades $17.55 below the Tokyo ask.",
+          "If the job is the Meowth SAR, re-check the price before you pay, because it fell $8.09 in 22 days and has not found its floor yet.",
+          "Check the wrap and seams before you pay, and remember the cutoff at rank 10 is a $1.57 gap to the Dedenne AR at $3.33, so buy whichever of the two you want."
+        ],
+        "h": "Action layer: the M3 best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 24, 2026, the card prices from Sparkl's November 24, 2026 TCGplayer read, cross-checked against TCGPursuit, so re-divide before you pay if it has moved again."
+        ]
+      }
+    ],
+    "slug": "m3-best-cards",
+    "takeaway": [
+      "The 10 best cards in M3 Munikis Zero total $353.57 on TCGplayer market as of November 24, 2026, and the gold Mega Zygarde ex MUR alone is $165.67, or 46.86 percent of that total and 39.88 percent of the whole $415.41 set. The top five cards carry 87.78 percent of the top 10, and the other 107 cards total $61.84, an average of $0.58 a card, so this set is one card, four followers, and a long tail.",
+      "It is worth buying as singles for $353.57, which is 5.89 boxes, and it is not worth buying as sealed product to pull the Zygarde, because the Zygarde costs 2.76 boxes and the Pokemon Company publishes no pull rates. The box at $60.03 is $14.78 below the $74.81 market box, while the case at $891.00 divides to $74.25 a box, $14.22 above the single, so the case is a premium, not a discount.",
+      "It is worth buying with the falls in mind: the Rosa is down 15.37 percent since November 2, from $53.40 to $45.19, the Meowth is down 11.80 percent from $68.58, and the Jacinthe is down 9.43 percent in seven days. The market price is the ask side, not the last sale: the Zygarde carries a $165.67 market against a 19,800 yen Tokyo ask worth $124.47, and the Rosa carries a $45.19 market against a 9,980 yen ask worth $62.74.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 24, 2026, and the card prices from Sparkl's November 24, 2026 TCGplayer read, cross-checked against TCGPursuit and TickerMint. For the price-and-math companions, the [M3 investment guide](/blog/m3-investment/) runs the case flip, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) carries the full 117-card breakdown, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) carries the full buy verdict.",
+      "The twin era gets the same treatment in the [M2a best cards guide](/blog/m2a-best-cards/) and the [M2 best cards guide](/blog/m2-best-cards/), where the same shelf math divides the gold-led sets card by card. The M2a ten total $977.93 led by the Mega Gengar ex SAR at $243.11, and the M2 ten total $1,377.04 led by the Mega Charizard X ex SAR at $654.46. The anniversary set gets the same treatment in the [M6a best cards guide](/blog/m6a-best-cards/), where the Classic Collection Charizard leads ten cards totalling $545.49."
+    ]
+  },
   "m3-investment": {
     "datePublished": "2026-11-18",
     "faqs": [
@@ -47420,7 +47804,7 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the cheapest sealed Japanese Pokémon box on the shelf, sealed as a single box, and it is not worth buying to own one named card or to make the money back by opening. The MUR sat at $165.67 as of November 17, 2026, which is 2.76 boxes, and the community estimate is one MUR in every 50 boxes.",
       "It is worth buying with the flat box in mind: the market box is down 2 percent over 90 days while the set value is up only 3.2 percent, and the box dropped $10.59 on November 13, 2026. The MUR dropped 67.00 percent from its day-one ¥60,000 ask to ¥19,800.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, and the marketplace references as of October 28 to November 17, 2026. The box now sits $14.48 below the $74.51 TCGplayer market box: divide before you buy, every time.",
-      "For the price-and-math companion, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) runs the same shelf side by side, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict after the November 13 repricing. The [M2 Inferno X investment guide](/blog/m2-investment/) prices the Charizard set the same way, and the [M1S Mega Symphonia investment guide](/blog/m1s-investment/) prices the cheaper twin. The [M2a MEGA Dream ex investment guide](/blog/m2a-investment/) prices the high-class pack the same way, with its case dividing to $78.99 a box. The [SV1A Triplet Beat investment guide](/blog/sv1a-investment/) prices the first Scarlet and Violet subset the same way, and the [SV1S Scarlet ex investment guide](/blog/sv1s-investment/) prices the launch set the same way."
+      "For the price-and-math companion, the [M3 Munikis Zero buyer's guide](/blog/m3-munikis-zero-buyers-guide/) runs the same shelf side by side, and the [is M3 worth buying guide](/blog/is-m3-worth-buying/) runs the same verdict after the November 13 repricing. The [M2 Inferno X investment guide](/blog/m2-investment/) prices the Charizard set the same way, and the [M1S Mega Symphonia investment guide](/blog/m1s-investment/) prices the cheaper twin. The [M2a MEGA Dream ex investment guide](/blog/m2a-investment/) prices the high-class pack the same way, with its case dividing to $78.99 a box. The [SV1A Triplet Beat investment guide](/blog/sv1a-investment/) prices the first Scarlet and Violet subset the same way, and the [SV1S Scarlet ex investment guide](/blog/sv1s-investment/) prices the launch set the same way. The ten best cards are ranked card by card in the [M3 best cards guide](/blog/m3-best-cards/), where the Zygarde-led ten total $353.57."
     ]
   },
   "m3-munikis-zero-buyers-guide": {
@@ -47749,7 +48133,356 @@ export const POSTS: Record<string, BlogPost> = {
       "M6a 30th Celebration earns its premium conversation honestly: 120 holographic cards, a Pikachu in every pack, Mew ex and Mewtwo ex in YOSHIROTTEN art, a new rarity, and thirty years of history in the Classic Collection. At $207.50 a box — $1.73 a card, as of October 24, 2026 — it is the most expensive Japanese box in the store per card, and this guide has not hidden that number once.",
       "Buy it as the celebration it is: to open and enjoy, to chase Pikachu with a floor under every pack, or to hold as a dated anniversary artifact. Do not buy it as a promise. The Warehouse stocks it proudly and describes it plainly — both, in this hobby, are the point.",
       "Collecting special sets beyond the anniversary range? The [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional Pokemon Center boxes, the anniversary ladder, and the themed gift sets from one shelf, including the box that holds no packs at all.",
-      "For the Mega set built around one Charizard, the [M2 Inferno X buyers guide](/blog/m2-inferno-x-buyers-guide/) prices the box at $183.18 against the case at $1,333.69, or $111.14 per box in the case."
+      "For the Mega set built around one Charizard, the [M2 Inferno X buyers guide](/blog/m2-inferno-x-buyers-guide/) prices the box at $183.18 against the case at $1,333.69, or $111.14 per box in the case. The ten best cards are ranked card by card in the [M6a best cards guide](/blog/m6a-best-cards/), where the Classic Collection Charizard leads ten cards totalling $545.49."
+    ]
+  },
+  "m6a-best-cards": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "The Classic Collection Charizard at 137/103, at $131.98 on Scryda's November 24, 2026 read of raw market prices, with CardPrice agreeing to the cent on the same day. It is 24.19 percent of the top-10 total of $545.49 and 12.19 percent of the whole $1,082.56 set, and it sits $14.38 above the second card, the Classic Collection Lugia at $117.60. The three RGB Mew cards are not ranked here because they carry no TCGplayer market price in the Japanese catalog: Scryda lists all three as unpriced, and the English RGB prices, led by Mew R/RGB at $4,316.56 on TCGPursuit's November 24, 2026 read, belong to the English print, not the Japanese one.",
+        "q": "What is the most valuable card in M6a 30th Celebration?"
+      },
+      {
+        "a": "The top 10 as singles, by a wide margin. One of each of the 10 best cards costs $545.49 on raw market prices as of November 24, 2026, which is 2.58 boxes at the Warehouse shelf price of $211.65, and the complete numbered set is $1,082.56, or 5.11 boxes. The Pokemon Company publishes no pull rates for M6a, so no box carries a calculated chance of holding the Charizard, and there is no sealed case of M6a on this shelf, so the money layer is box-only. Buy the box to open the anniversary set, and buy the singles for the named cards.",
+        "q": "Is it cheaper to buy the top 10 M6a cards or open boxes to pull them?"
+      },
+      {
+        "a": "Because collectors are paying for the reprints, not the new rarity. Five Classic Collection cards sit in the top 10 and total $362.25, or 66.41 percent of it, while the five SAR and FUR cards total $183.24, or 33.59 percent. The dearest FUR card, Mew ex at 135/103, costs $36.33 and ranks eighth, below the SAR Mew ex at 129/103 at $38.02. The two leaders are also the only cards above their release-day asks: Charizard and Lugia were asking ¥18,000 and ¥15,400 on SNKRDUNK on September 16, 2026, about $116.88 and $100.00, and now read $131.98 and $117.60, while every SAR, FUR and RGB card sits below its early price, per Collect.today's November 16, 2026 check.",
+        "q": "Why are the Classic Collection reprints worth more than the new FUR cards?"
+      }
+    ],
+    "h1": "M6a Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the 10 best cards in M6a 30th Celebration total $545.49 on raw market prices as of November 24, 2026, and the Classic Collection Charizard at 137/103 leads at $131.98, or 24.19 percent of that total and 12.19 percent of the whole $1,082.56 set. Charizard and Lugia carry 45.75 percent of the top 10, and the five Classic Collection reprints carry 66.41 percent of it. Buy the top 10 as singles for $545.49, the box for $211.65 to open the anniversary set, or the Charizard single at $131.98; never buy sealed product to pull the Charizard, because it costs 0.62 of a box and no pull rate prices the chase.",
+      "Who this is for: the collector who wants the ten cards that hold half the set's value, and the buyer choosing between a box, the singles, and waiting. Who it is not for: anyone chasing the three RGB Mew cards, which have no Japanese market price and are ranked separately below; and anyone who wants value spread across many cards."
+    ],
+    "metaDescription": "The 10 best M6a cards total $545.49 as of Nov 24, 2026. Charizard leads at $131.98, 24.19% of the top 10. Box, singles, and wait, divided.",
+    "metaTitle": "M6a Best Cards: The 10 Worth Chasing, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: Charizard leads, Lugia follows",
+        "math": [
+          "M6a Japanese box per pack: $211.65 / 20 packs = $10.58 per pack",
+          "M6a Japanese box per card: $211.65 / 120 cards = $1.76 per card",
+          "M6a Japanese box vs official: 7,200 yen / 159.07 = $45.26; $211.65 - $45.26 = $166.39 above official",
+          "M6a Japanese box vs official ratio: $211.65 / $45.26 = 4.68x official",
+          "M6a Japanese box price change, Oct 24 to Nov 24: $211.65 - $207.50 = $4.15; $4.15 / $207.50 = 2.00% up",
+          "M6a Japanese pack vs official pack: 360 yen / 159.07 = $2.26 per pack; $10.58 - $2.26 = $8.32 above official per pack",
+          "ECB cross, Nov 24, 2026: 174.39 yen per euro / 1.0963 dollars per euro = 159.07 yen per dollar",
+          "Top 10 vs Japanese box: $545.49 / $211.65 = 2.58 boxes",
+          "Charizard vs Japanese box: $131.98 / $211.65 = 0.62 boxes"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about M6a is whether the Mew ex FUR is the card to chase, because it is the new rarity and it carries the YOSHIROTTEN art. It is not the card to chase on price: the FUR Mew ex sits at $36.33, eighth on this list, while the SAR Mew ex at 129/103 sits at $38.02 and the Charizard reprint sits at $131.98. What we see in allocation is that buyers who open for the FUR keep opening after the SAR, because the SAR feels close to the FUR, and it is close: $1.69 apart. The gap that matters is the one above them both, where the Charizard costs more than the two Mew ex prints combined. Decide the card before you decide the route.",
+        "paragraphs": [
+          "The concentration is the story. The Classic Collection Charizard at $131.98 is 24.19 percent of the top-10 total and 12.19 percent of the whole $1,082.56 set. The top two total $249.58 and the top five $378.41, or 45.75 and 69.37 percent of the top 10. The top 10 total $545.49, or 50.39 percent of the set, and the other 163 priced cards total $537.07, an average of $3.29 a card.",
+          "The [M6a 30th Celebration booster box](/product/m6a-30th-celebration-booster-box-japanese-poke-mon-tcg/) is $211.65 as of November 24, 2026: $10.58 a pack and $1.76 a card across 20 packs of 6 cards. Japanese domestic MSRP is ¥7,200 a box, or $45.26 at the ECB November 24, 2026 cross of 159.07 yen per dollar, so the shelf box sits $166.39 above official, at 4.68 times it. The box is up $4.15 since October 24, 2026, when it was $207.50, a rise of 2.00 percent.",
+          "Best here means most valuable, not most playable. The Mew ex that costs $38.02 as a Special Art Rare at 129/103 also prints as a Futuristic Rare at 135/103 for $36.33, and the gap between the two prints is $1.69. Every price here is a raw market price from Scryda's November 24, 2026 read, cross-checked against CardPrice to the cent on all ten cards. Shelf prices are as of November 24, 2026, and the store lists no M6a singles, so the singles prices are market prices, not shelf prices. The [Japanese rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the prints, and the [M2a best cards guide](/blog/m2a-best-cards/) runs the same division on the set beside it."
+        ]
+      },
+      {
+        "h": "The money layer: the top 10, divided",
+        "math": [
+          "Top 10 total: $131.98 + $117.60 + $47.91 + $40.87 + $40.05 + $38.02 + $36.84 + $36.33 + $27.97 + $27.92 = $545.49",
+          "Top 10 share of set value: $545.49 / $1,082.56 = 50.39%",
+          "Top 5 total: $131.98 + $117.60 + $47.91 + $40.87 + $40.05 = $378.41",
+          "Top 5 share of top 10: $378.41 / $545.49 = 69.37%",
+          "Top 5 share of set value: $378.41 / $1,082.56 = 34.96%",
+          "Top 2 total: $131.98 + $117.60 = $249.58",
+          "Top 2 share of top 10: $249.58 / $545.49 = 45.75%",
+          "Classic Collection five total: $131.98 + $117.60 + $47.91 + $36.84 + $27.92 = $362.25",
+          "Classic Collection five share of top 10: $362.25 / $545.49 = 66.41%",
+          "SAR and FUR five total: $40.87 + $40.05 + $38.02 + $36.33 + $27.97 = $183.24",
+          "SAR and FUR five share of top 10: $183.24 / $545.49 = 33.59%",
+          "Charizard 137/103 share of top 10: $131.98 / $545.49 = 24.19%",
+          "Charizard 137/103 vs Japanese box: $131.98 / $211.65 = 0.62 boxes",
+          "Lugia 142/103 share of top 10: $117.60 / $545.49 = 21.56%",
+          "Lugia 142/103 vs Japanese box: $117.60 / $211.65 = 0.56 boxes",
+          "Magikarp 165/103 share of top 10: $47.91 / $545.49 = 8.78%",
+          "Magikarp 165/103 vs Japanese box: $47.91 / $211.65 = 0.23 boxes",
+          "Pikachu ex 126/103 share of top 10: $40.87 / $545.49 = 7.49%",
+          "Pikachu ex 126/103 vs Japanese box: $40.87 / $211.65 = 0.19 boxes",
+          "Pikachu ex 127/103 share of top 10: $40.05 / $545.49 = 7.34%",
+          "Pikachu ex 127/103 vs Japanese box: $40.05 / $211.65 = 0.19 boxes",
+          "Mew ex 129/103 share of top 10: $38.02 / $545.49 = 6.97%",
+          "Mew ex 129/103 vs Japanese box: $38.02 / $211.65 = 0.18 boxes",
+          "Gengar 150/103 share of top 10: $36.84 / $545.49 = 6.75%",
+          "Gengar 150/103 vs Japanese box: $36.84 / $211.65 = 0.17 boxes",
+          "Mew ex 135/103 share of top 10: $36.33 / $545.49 = 6.66%",
+          "Mew ex 135/103 vs Japanese box: $36.33 / $211.65 = 0.17 boxes",
+          "Mewtwo ex 134/103 share of top 10: $27.97 / $545.49 = 5.13%",
+          "Mewtwo ex 134/103 vs Japanese box: $27.97 / $211.65 = 0.13 boxes",
+          "Pikachu 136/103 share of top 10: $27.92 / $545.49 = 5.12%",
+          "Pikachu 136/103 vs Japanese box: $27.92 / $211.65 = 0.13 boxes",
+          "Top 10 vs Japanese box: $545.49 / $211.65 = 2.58 boxes",
+          "Top 5 vs Japanese box: $378.41 / $211.65 = 1.79 boxes",
+          "Top 2 vs Japanese box: $249.58 / $211.65 = 1.18 boxes",
+          "Rest of set, 163 priced cards: $1,082.56 - $545.49 = $537.07; $537.07 / 163 cards = $3.29 per card",
+          "Top 10 minus top 5: $545.49 - $378.41 = $167.08 for ranks 6 to 10",
+          "Top 5 minus top 2: $378.41 - $249.58 = $128.83 for ranks 3 to 5",
+          "Charizard to Lugia gap: $131.98 - $117.60 = $14.38",
+          "Lugia to Magikarp gap: $117.60 - $47.91 = $69.69",
+          "Charizard vs Magikarp: $131.98 / $47.91 = 2.75x the third card",
+          "Charizard vs Pikachu 136/103: $131.98 / $27.92 = 4.73x the tenth card",
+          "Pikachu ex pair: $40.87 + $40.05 = $80.92; $40.87 - $40.05 = $0.82 apart",
+          "Mew ex SAR vs Mew ex FUR: $38.02 - $36.33 = $1.69; $38.02 / $36.33 = 1.05x the FUR"
+        ],
+        "paragraphs": [
+          "The table below is the ranking, with every card's share of the top-10 total and its price in boxes. Scryda updated these raw market prices on November 24, 2026, and CardPrice's read the same day agrees on all ten cards to the cent. The set total of $1,082.56 covers the 173 priced cards of 176 catalog entries; the three unpriced entries are the RGB Mew cards. CardPrice puts the same numbered set at $1,083.00, $0.44 above Scryda.",
+          "Three divisions carry the decision. First, the top 10 total $545.49, which is 2.58 boxes and 50.39 percent of the set. Second, the top five total $378.41, which is 69.37 percent of the top 10, so the bottom five add only $167.08. Third, the five Classic Collection reprints total $362.25, or 66.41 percent of the top 10, against $183.24, or 33.59 percent, for the five SAR and FUR cards. The [M2 best cards guide](/blog/m2-best-cards/) runs the same division, where the top 10 total $1,377.04."
+        ],
+        "table": {
+          "head": [
+            "Rank",
+            "Card",
+            "No.",
+            "Rarity",
+            "Price",
+            "Share of top 10",
+            "In boxes"
+          ],
+          "rows": [
+            [
+              "1",
+              "Charizard",
+              "137/103",
+              "Classic Collection",
+              "$131.98",
+              "24.19%",
+              "0.62"
+            ],
+            [
+              "2",
+              "Lugia",
+              "142/103",
+              "Classic Collection",
+              "$117.60",
+              "21.56%",
+              "0.56"
+            ],
+            [
+              "3",
+              "Magikarp",
+              "165/103",
+              "Classic Collection",
+              "$47.91",
+              "8.78%",
+              "0.23"
+            ],
+            [
+              "4",
+              "Pikachu ex",
+              "126/103",
+              "Special Art Rare",
+              "$40.87",
+              "7.49%",
+              "0.19"
+            ],
+            [
+              "5",
+              "Pikachu ex",
+              "127/103",
+              "Special Art Rare",
+              "$40.05",
+              "7.34%",
+              "0.19"
+            ],
+            [
+              "6",
+              "Mew ex",
+              "129/103",
+              "Special Art Rare",
+              "$38.02",
+              "6.97%",
+              "0.18"
+            ],
+            [
+              "7",
+              "Gengar",
+              "150/103",
+              "Classic Collection",
+              "$36.84",
+              "6.75%",
+              "0.17"
+            ],
+            [
+              "8",
+              "Mew ex",
+              "135/103",
+              "Futuristic Rare",
+              "$36.33",
+              "6.66%",
+              "0.17"
+            ],
+            [
+              "9",
+              "Mewtwo ex",
+              "134/103",
+              "Futuristic Rare",
+              "$27.97",
+              "5.13%",
+              "0.13"
+            ],
+            [
+              "10",
+              "Pikachu",
+              "136/103",
+              "Classic Collection",
+              "$27.92",
+              "5.12%",
+              "0.13"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: the 10 cards, one by one",
+        "paragraphs": [
+          "1. Charizard, 137/103, Classic Collection, $131.98. The Base Set Charizard reprint is 24.19 percent of the top 10. It sits $14.38 above the Lugia and 2.75 times the third card. 2. Lugia, 142/103, Classic Collection, $117.60. The Crystal Lugia reprint is 21.56 percent of the top 10. 3. Magikarp, 165/103, Classic Collection, $47.91. The Shinji Kanda illustration rare reprint is 8.78 percent of the top 10, a $69.69 fall from the Lugia. 4. Pikachu ex, 126/103, Special Art Rare, $40.87. The first Pikachu ex SAR is 7.49 percent of the top 10, and it leads its twin print by $0.82.",
+          "5. Pikachu ex, 127/103, Special Art Rare, $40.05. The second Pikachu ex SAR is 7.34 percent of the top 10, and the pair together cost $80.92. 6. Mew ex, 129/103, Special Art Rare, $38.02. The SAR Mew ex is 6.97 percent of the top 10, the dearer of the two Mew ex prints. 7. Gengar, 150/103, Classic Collection, $36.84. The Gengar Prime reprint is 6.75 percent of the top 10, the last Classic Collection card on this list.",
+          "8. Mew ex, 135/103, Futuristic Rare, $36.33. The FUR Mew ex is 6.66 percent of the top 10, and it sits $1.69 below its own SAR print, so the new rarity is not the dearest version of its own Pokemon. 9. Mewtwo ex, 134/103, Futuristic Rare, $27.97. The FUR Mewtwo ex is 5.13 percent of the top 10, and it leads the tenth card by only $0.05. 10. Pikachu, 136/103, Classic Collection, $27.92. The Base Set Pikachu reprint is 5.12 percent of the top 10, and the cutoff is tight: the Pikachu and Zekrom GX at 160/103 sits eleventh at $27.13, $0.79 behind, and the Sylveon ex SAR at 130/103 sits twelfth at $26.60. The [rarity guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the prints and the [buyers guide](/blog/m6a-30th-celebration-buyers-guide/) carries the full set structure."
+        ]
+      },
+      {
+        "h": "The decision layer: box, singles, or wait",
+        "math": [
+          "Top 10 minus the Charizard: $545.49 - $131.98 = $413.51 for the other nine cards",
+          "Top 10 minus the top 2: $545.49 - $249.58 = $295.91 for ranks 3 to 10",
+          "Top 5 minus the top 2: $378.41 - $249.58 = $128.83 for ranks 3 to 5",
+          "Charizard as a share of a box: $131.98 / $211.65 = 62.36% of a box",
+          "Top 10 as a share of a box: $545.49 / $211.65 = 257.73% of a box"
+        ],
+        "paragraphs": [
+          "Five ways to spend on M6a, priced as of November 24, 2026. The singles win for named cards, the box wins for opening, and waiting wins only for the cards that are still falling. There is no sealed case of M6a on this shelf, so there is no case row here: the money layer is box-only. The [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the case division for the sets that do stock one.",
+          "Read the table from the job, not the price. A buyer who wants the ten cards buys them for $545.49, because 2.58 boxes cost the same money and hold no promise of any of them, and the Pokemon Company publishes no pull rates for M6a. A buyer who wants the Charizard buys the single at $131.98, because it costs 0.62 of a box and the other nine cards still cost $413.51 on top of it. A buyer who waits is betting the secret tier keeps falling while the Classic Collection leaders hold; so far that bet has paid for the SAR cards and not for the Charizard and Lugia. The [Japanese cards investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) works through the hold-or-sell question without the hype."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Top 10 as singles",
+              "$545.49",
+              "n/a",
+              "Owning the ten cards that hold 50.39% of the set",
+              "No sealed upside; condition and grading risk"
+            ],
+            [
+              "Top 5 as singles",
+              "$378.41",
+              "n/a",
+              "Owning the five cards that hold 69.37% of the top 10",
+              "$167.08 less than the top 10, but no Mew ex or Gengar"
+            ],
+            [
+              "Japanese box",
+              "$211.65",
+              "$10.58",
+              "Opening 30th Celebration in Japanese",
+              "2.58 boxes buy the top 10 outright; no published pull rates"
+            ],
+            [
+              "Charizard single",
+              "$131.98",
+              "n/a",
+              "Owning the headline card alone",
+              "One card is 24.19% of the top 10; the other nine still cost $413.51"
+            ],
+            [
+              "Wait",
+              "$0 now",
+              "n/a",
+              "Buying the SAR tier after it falls further",
+              "Charizard and Lugia rose since release; the box is up 2.00% since Oct 24"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top three results do not answer",
+        "note": "From the Warehouse: what we see in allocation is that buyers arrive with an English top-10 list and a Japanese box in mind, because the English lists rank first on Google and the Japanese box is the product on this shelf. The two do not mix: the English Mew ex Special Illustration Rare at 152/128 reads $57.22 on TCGPursuit's November 24, 2026 page, while the Japanese Mew ex SAR at 129/103 reads $38.02, and the English Classic Collection Charizard at 4/102 reads $104.76 while the Japanese Charizard at 137/103 reads $131.98. Same artwork, different print, different price, and a buyer who shops off the wrong list overpays or underbids on every card.",
+        "paragraphs": [
+          "The top three results for this query all do a narrower job, and their headings set the floor this page has to clear. Folio lists 15 chase cards with raw medians of English-print sales as of November 2, 2026, under per-card headings and a section titled How we rank them. Kotaku lists the 15 highest-priced cards at launch-era prices, one heading per card, under Everything's half off. Cardrake lists the Classic Collection master set, with Lugia leading at $112.42.",
+          "None of the three ranks the Japanese M6a numbered list, and that is the gap this page owns. None states that the top 10 total $545.49, that the Charizard alone is 24.19 percent of it, or that the top 10 cost 2.58 boxes. None prices the box, the singles, and the Charizard against each other. None calls out the RGB trap, and two of the three put the RGB Mews at the top of an English ranking, which is exactly how a Japanese buyer ends up shopping for a $4,000 card that has no Japanese market price.",
+          "Five things only this page owns. First, the top-10 total with per-card shares and box ratios, from Scryda's November 24, 2026 read, with CardPrice agreeing to the cent. Second, the shelf divisions: box $10.58 a pack, $1.76 a card, against an official $45.26. Third, the Classic Collection split: five reprints carry 66.41 percent of the top 10 while five SAR and FUR cards carry 33.59 percent. Fourth, the launch-ask comparison for Charizard and Lugia. Fifth, the two-Mew-ex trap, the SAR at $38.02 against the FUR at $36.33."
+        ]
+      },
+      {
+        "h": "The risk layer: the Classic Collection holds, the secret tier slides",
+        "math": [
+          "Charizard release-day ask in dollars: 18,000 yen / 154 = $116.88; $131.98 - $116.88 = $15.10 above the ask",
+          "Charizard rise above the ask: $15.10 / $116.88 = 12.92% above the ask",
+          "Lugia release-day ask in dollars: 15,400 yen / 154 = $100.00; $117.60 - $100.00 = $17.60 above the ask",
+          "Lugia rise above the ask: $17.60 / $100.00 = 17.60% above the ask",
+          "Gengar ex SAR fall, week ending Nov 22: $26.10 / (1 - 0.36) = $40.78 implied prior price; $40.78 - $26.10 = $14.68 down",
+          "Cutoff gap to rank 11: $27.92 - $27.13 = $0.79",
+          "Cutoff gap to rank 12: $27.92 - $26.60 = $1.32",
+          "Cutoff gap to the Gengar ex SAR: $27.92 - $26.10 = $1.82"
+        ],
+        "paragraphs": [
+          "The first risk is the split. The Charizard and Lugia are the only two of the 15 most-traded cards above their release-day sale prices, up 14 and 21 percent by November 16, 2026, per Collect.today, while every SAR, FUR and RGB card sits below its early price, with the Mewtwo ex FUR down the most at 81 percent. Release-day SNKRDUNK asks were ¥18,000 for Charizard and ¥15,400 for Lugia, about $116.88 and $100.00, and both cards now read $15.10 and $17.60 above those asks.",
+          "The second risk is the slide inside the secret tier. The Gengar ex SAR at 131/103 reads $26.10 in The Lab's report for the week ending November 22, 2026, down 36 percent in a week, which implies a prior price near $40.78, and it now sits below the top 10 entirely. The Pokemon Company publishes no pull rates for M6a. Japanese secondary-market posts tracked by Huaqi on November 18, 2026 put the box near ¥18,500 to ¥19,400, below the ¥20,000 floor.",
+          "The third risk is the anniversary premium trap. The box is up 2.00 percent since October 24, 2026, from $207.50 to $211.65, while the secret tier it contains keeps falling, so paying more for the box buys a falling chase. The fourth risk is the reseal: check the shrink-wrap and keep the seal intact, because a reseal claim is only provable while the seal is unbroken. If the plan fails, stop opening, hold the box sealed, and buy the named card as a single. The [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal checks, and [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers the hold."
+        ]
+      },
+      {
+        "h": "Context: Japan against English, and the numbering trap",
+        "math": [
+          "M6a numbered cards: 103 base + 32 secret rares + 30 Classic Collection = 165 numbered cards",
+          "M6a cards with energy: 165 numbered + 8 Basic Energy = 173 cards; 173 + 3 unnumbered RGB Mew = 176 catalog entries",
+          "English base vs Japanese base: 128 - 103 = 25 more base cards in English",
+          "Charizard, Japanese vs English Classic Collection: $131.98 - $104.76 = $27.22 above the English print",
+          "Lugia, Japanese vs English Classic Collection: $117.60 - $113.62 = $3.98 above the English print",
+          "Magikarp, Japanese vs English Classic Collection: $47.91 - $60.00 = -$12.09 below the English print",
+          "Gengar, Japanese vs English Gengar Prime: $36.84 - $38.25 = -$1.41 below the English print",
+          "English RGB three combined: $4,316.56 + $4,276.56 + $3,391.24 = $11,984.36",
+          "English RGB share of English set: $11,984.36 / $12,412.91 = 96.55%",
+          "English set without RGB: $12,412.91 - $11,984.36 = $428.55",
+          "Japanese numbered set vs English set without RGB: $1,082.56 / $428.55 = 2.53x the English set",
+          "CardPrice RGB R vs Charizard: $3,702.24 / $131.98 = 28.05x the Charizard"
+        ],
+        "paragraphs": [
+          "M6a 30th Celebration, released worldwide on September 16, 2026, is the first Pokemon TCG set released the same day in Japan and internationally. The Japanese set is 103 base cards plus 32 secret rares, 20 Art Rares, 10 Special Art Rares and 2 Futuristic Rares, plus 30 Classic Collection reprints, for 165 numbered cards, plus 8 Basic Energy, for 173 in all. The catalogs list 176 entries because the three unnumbered RGB Mew cards sit outside the numbering. A Japanese pack holds 6 all-foil cards for ¥360 including tax, with one Basic Energy guaranteed; an English pack holds 5 foil cards plus 1 foil Basic Energy, and the English base set runs to 128 cards against the Japanese 103.",
+          "The numbering trap is the practical consequence. The same artwork carries different numbers in each language: Charizard is 137/103 in Japanese and 4/102 in the English Classic Collection, Lugia is 142/103 against 149/147, Magikarp is 165/103 against 203/193, and Mew ex is 129/103 as a Japanese SAR against 152/128 as an English Special Illustration Rare. The prices follow the print, not the art: Japanese Charizard $27.22 above English, Lugia $3.98 above, Magikarp $12.09 below, and Gengar $1.41 below the English Gengar Prime. Shop by name alone and you pay the wrong print's price.",
+          "The RGB Mews deserve their own paragraph because they break every ranking they touch. Three secret Mew cards in red, green and blue, illustrated by YOSHIROTTEN, surfaced in a Pokemon TCG Live update on September 15, 2026, per PokeBeach, and as of October 19, 2026 The Pokemon Company has not acknowledged them and no pull rate has been published. In the Japanese catalog Scryda lists all three as unpriced, so they cannot be ranked on TCGplayer market prices, while CardPrice publishes its own figures for them at $3,702.24, $3,001.00 and $2,913.90. The English TCGPursuit read of November 24, 2026 prices them at $4,316.56, $4,276.56 and $3,391.24, a combined $11,984.36, or 96.55 percent of the English set. Strip them out and the English set is $428.55, against the Japanese numbered set at $1,082.56."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing the RGB Mew cards, which have no TCGplayer market price in the Japanese catalog and no published pull rate. It is not for anyone chasing the Charizard by opening boxes, who should buy the single at $131.98, because it costs 0.62 of a box and no pull rate is published. It is not for anyone who wants value spread across many cards: two cards hold 45.75 percent of the top 10. It is not for anyone who needs the secret-rare prices to hold, because the Gengar ex SAR fell 36 percent in the week ending November 22, 2026. It is not for anyone who wants the English chase, a different list with different numbers, led by the RGB Mews at $4,316.56."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the ten cards, open the set, own the Charizard, or wait.",
+          "If the job is the ten cards, buy the singles for $545.49, and check the number on the Charizard, because the Classic Collection reprint at 137/103 costs $131.98 and the English Classic Collection print at 4/102 costs $104.76.",
+          "If the job is the Charizard, buy the single at $131.98, and do not open boxes for it, because it costs 0.62 of a box and no pull rate prices the chase.",
+          "If the job is one box, check the pack count first: 20 packs of 6 cards, $10.58 a pack, $1.76 a card, and know there is no sealed case of M6a on this shelf.",
+          "If the job is the Mew ex, check the number, because the SAR at 129/103 costs $38.02 and the FUR at 135/103 costs $36.33.",
+          "If the job is a Pikachu ex, check the number, because the two SAR prints sit $0.82 apart at $40.87 and $40.05.",
+          "If the job is the Gengar ex SAR, re-check the price before you pay, because it fell 36 percent in the week ending November 22, 2026 and sits below the top 10 at $26.10.",
+          "Check the wrap and seams before you pay, and remember the cutoff at rank 10 is a $0.79 gap to the Pikachu and Zekrom GX at $27.13, so buy whichever of the two you want."
+        ],
+        "h": "Action layer: the M6a best-cards checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 24, 2026, the card prices from Scryda's November 24, 2026 read, cross-checked against CardPrice, unless another source and date is named, so re-divide before you pay if it has moved again."
+        ]
+      }
+    ],
+    "slug": "m6a-best-cards",
+    "takeaway": [
+      "The 10 best cards in M6a 30th Celebration total $545.49 on raw market prices as of November 24, 2026, and the Classic Collection Charizard at 137/103 alone is $131.98, or 24.19 percent of that total and 12.19 percent of the whole $1,082.56 set. The top two cards carry 45.75 percent of the top 10, and the five Classic Collection reprints carry 66.41 percent of it, so this set is two reprints and a long tail.",
+      "It is worth buying as singles for $545.49, which is 2.58 boxes, and it is not worth buying as sealed product to pull the Charizard, because the Charizard costs 0.62 of a box and the Pokemon Company publishes no pull rates. The box at $211.65 is $10.58 a pack and $1.76 a card, and there is no sealed case of M6a on this shelf, so the money layer is box-only.",
+      "It is worth buying with the split in mind: the Charizard and Lugia sit above their release-day asks while the secret tier slides, with the Gengar ex SAR down 36 percent in the week ending November 22, 2026. The RGB Mews are unranked here because they carry no TCGplayer market price in the Japanese catalog, and the English RGB prices do not transfer to the Japanese print.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 24, 2026, and the card prices from Scryda's November 24, 2026 read, cross-checked against CardPrice to the cent on all ten cards. For the price-and-math companions, the [M6a 30th Celebration buyers guide](/blog/m6a-30th-celebration-buyers-guide/) carries the full box case, and the [M2a best cards guide](/blog/m2a-best-cards/) runs the same division on the set beside it.",
+      "The Mega sets get the same treatment in the [M2a best cards guide](/blog/m2a-best-cards/), where the ten best total $977.93 led by the Mega Gengar ex SAR at $243.11, and the [M2 best cards guide](/blog/m2-best-cards/), where the ten best total $1,377.04 led by the Mega Charizard X ex SAR at $654.46. Against those two, the M6a top 10 at $545.49 is the cheapest chase of the three, and the reprints, not the new rarity, are doing the work. The Mega set beside it gets the same treatment in the [M3 best cards guide](/blog/m3-best-cards/), where the gold Zygarde leads ten cards totalling $353.57."
     ]
   },
   "membeli-kartu-tcg-jepang-di-indonesia": {
