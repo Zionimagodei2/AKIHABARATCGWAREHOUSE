@@ -33132,7 +33132,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Both boxes fell hard in eleven days: the Japanese box by $22.44 and the English box by $173.42 since November 4, 2026, and the English case fell $1,629.01 in the same span.",
       "The Japanese case saves $5.77 across ten boxes, which is nothing, while the English case saves $223.67. The whole four-item PRB-01 shelf is $5,223.48, and every division is shown in the math section above.",
       "No box buys a named card: the Luffy Comic Parallel ask equals 23.2 Japanese boxes, the God Pack is roughly one per 1,000 boxes, and Bandai publishes no pull rates, so buy the single for any named card.",
-      "For the head-to-head verdict, the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) settles the two volumes, the [PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/) runs the same divisions on the second volume, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the whole Japanese shelf."
+      "For the head-to-head verdict, the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) settles the two volumes, the [PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/) runs the same divisions on the second volume, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the whole Japanese shelf.",
+      "For the ten best cards in the set, the [PRB-01 best cards guide](/blog/prb-01-best-cards/) ranks them, top ten $12,775.54, with the Chopper Manga at $3,000.00."
     ]
   },
   "is-prb-02-worth-buying": {
@@ -33341,7 +33342,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Both boxes fell hard in eleven days: the Japanese box by $11.22 and the English box by $73.89 since November 4, 2026, and the English case fell $694.05 in the same span.",
       "The Japanese case saves $5.87 across twenty boxes, which is nothing, and the English case cannot be divided at all, because its listing states no box count. The whole four-item PRB-02 shelf is $2,961.63, and every division is shown in the math section above.",
       "No box buys a named card: the Sanji Manga Rare raw ask equals 13.3 Japanese boxes, the PSA 10 ask equals 23.1, and Bandai publishes no pull rates, so buy the single for any named card.",
-      "For the head-to-head verdict, the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) settles the two volumes, the [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) runs the same divisions on the first volume, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the whole Japanese shelf."
+      "For the head-to-head verdict, the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) settles the two volumes, the [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) runs the same divisions on the first volume, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks the whole Japanese shelf.",
+      "For the ten best cards in the set, the [PRB-02 best cards guide](/blog/prb-02-best-cards/) ranks them, top ten $5,964.91, with the Sanji Manga at $2,338.11."
     ]
   },
   "is-sv10-worth-buying": {
@@ -58323,6 +58325,263 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [OP-18 best cards guide](/blog/op-18-best-cards/) ranks the set's ten most valuable cards on release-day TCGplayer prices, Nov 21, 2026, with the $1,500.00 Robin Manga at the top, half its $2,999.99 pre-order read, and the Japanese box at $71.40."
     ]
   },
+  "prb-01-best-cards": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "Tony Tony.Chopper, EB01-006 Manga, at $3,000.00 on the November 24, 2026 MyTCGValue read from TCGplayer sales. It is 23.48% of the top ten, which totals $12,775.54, and it sits $650.00 above the second card, the Roronoa Zoro OP06-118 Manga at $2,350.00. The Monkey D. Luffy OP05-119 Manga carries no price on that read, so it is unranked, while Haki TCG prices it at $5,700.00 on November 23, 2026, which would make it the true number one.",
+        "q": "What is the most valuable PRB-01 The Best card?"
+      },
+      {
+        "a": "No, not as a plan. The Chopper Manga is $3,000.00, which is 2,358.68% of our $127.19 Japanese box and 814.04% of our $368.53 English box, and Bandai publishes no pull rates for this set, so no honest expected-value math exists for the chase. Buy the single if the Chopper is the card you want, and buy the box only if you want to open The Best.",
+        "q": "Should I buy a PRB-01 box to pull the Chopper Manga?"
+      },
+      {
+        "a": "Yes. A Japanese box is $127.19 on our shelf as of November 24, 2026, and an English box is $368.53, so the English box costs $241.34 more, 2.90 times as much. The Japanese list box is ten packs at 550 yen, or $34.58 at the ECB November 23, 2026 fixing of 159.07 yen per dollar, and the English list box is ten packs at $5.49, or $54.90. The two boxes are different products in different languages, Japanese cards are not legal at official English events, and the Japanese box is the value entry while the English box is the scarcity entry.",
+        "q": "Is the Japanese PRB-01 box cheaper than the English box?"
+      }
+    ],
+    "h1": "PRB-01 The Best Best Cards: Top 10, Priced",
+    "intro": [
+      "Short answer: the best card in PRB-01 The Best is Tony Tony.Chopper, EB01-006 Manga, at $3,000.00 on the November 24, 2026 MyTCGValue read from TCGplayer sales, and the ten best together are $12,775.54. On our shelf, as of November 24, 2026, the Japanese box is $127.19 and the English box is $368.53, with the Japanese case at $1,266.13 and the English case at $3,461.63. Buy the box to open The Best, buy the single for the Chopper, and treat the Luffy Manga as unpriced on this read, not as a card worth zero.",
+      "PRB-01, set code PRB-01, is the first Premium Booster in the One Piece Card Game, a reprint set built from OP-01 through OP-06 with new parallel art, a new Sanji Leader, and 30 exclusive Gold DON!! cards. The Japanese edition lists 111 card numbers plus 30 DON!! cards, 141 in all, and the English edition lists 171 cards on MyTCGValue. It released in Japan on July 27, 2024 and in English on November 8, 2024, in boxes of 10 packs of 10 cards as sold, and the official rarity breakdown lists no SP rarity, so the chase is Manga Parallels and Gold DON!! cards. The [PRB-02 best cards guide](/blog/prb-02-best-cards/) ranks the second volume the same way."
+    ],
+    "metaDescription": "PRB-01 The Best best cards, Nov 24, 2026: Chopper Manga $3,000.00, top ten $12,775.54, JP box $127.19, EN box $368.53, JP case $1,266.13.",
+    "metaTitle": "PRB-01 The Best Best Cards: Top 10, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: a $3,000.00 Chopper leads a top ten that hides its real number one",
+        "math": [
+          "PRB01 top 10 total: $3,000.00 + $2,350.00 + $2,043.68 + $1,197.71 + $1,100.00 + $762.77 + $735.75 + $675.50 + $588.13 + $322.00 = $12,775.54",
+          "PRB01 top 5 total: $3,000.00 + $2,350.00 + $2,043.68 + $1,197.71 + $1,100.00 = $9,691.39; $9,691.39 / $12,775.54 = 75.86% of the top 10",
+          "PRB01 ranks 6 to 10 total: $762.77 + $735.75 + $675.50 + $588.13 + $322.00 = $3,084.15; $3,084.15 / $12,775.54 = 24.14% of the top 10",
+          "PRB01 top card share: $3,000.00 / $12,775.54 = 23.48% of the top 10",
+          "PRB01 rank 2 share: $2,350.00 / $12,775.54 = 18.39% of the top 10",
+          "PRB01 rank 3 share: $2,043.68 / $12,775.54 = 16.00% of the top 10",
+          "PRB01 rank 4 share: $1,197.71 / $12,775.54 = 9.38% of the top 10",
+          "PRB01 rank 5 share: $1,100.00 / $12,775.54 = 8.61% of the top 10",
+          "PRB01 rank 6 share: $762.77 / $12,775.54 = 5.97% of the top 10",
+          "PRB01 rank 7 share: $735.75 / $12,775.54 = 5.76% of the top 10",
+          "PRB01 rank 8 share: $675.50 / $12,775.54 = 5.29% of the top 10",
+          "PRB01 rank 9 share: $588.13 / $12,775.54 = 4.60% of the top 10",
+          "PRB01 rank 10 share: $322.00 / $12,775.54 = 2.52% of the top 10",
+          "PRB01 gap one to two: $3,000.00 - $2,350.00 = $650.00; $3,000.00 / $2,350.00 = 1.28 times number two",
+          "PRB01 gap two to three: $2,350.00 - $2,043.68 = $306.32",
+          "PRB01 gap five to six: $1,100.00 - $762.77 = $337.23",
+          "PRB01 gap nine to ten: $588.13 - $322.00 = $266.13",
+          "PRB01 top five range: $3,000.00 - $1,100.00 = $1,900.00",
+          "PRB01 Manga eight total: $3,000.00 + $2,350.00 + $2,043.68 + $1,197.71 + $1,100.00 + $735.75 + $675.50 + $588.13 = $11,690.77; $11,690.77 / $12,775.54 = 91.51% of the top 10",
+          "PRB01 DON two total: $762.77 + $322.00 = $1,084.77; $1,084.77 / $12,775.54 = 8.49% of the top 10",
+          "PRB01 ranks 2 and 3 vs ranks 6 to 10: $2,350.00 + $2,043.68 = $4,393.68; $4,393.68 - $3,084.15 = $1,309.53",
+          "PRB01 set value: top 10 $12,775.54 / $18,441.34 = 69.28% of the set; $18,441.34 - $12,775.54 = $5,665.80 across the other 313 priced printings",
+          "PRB01 Luffy Haki vs Chopper: $5,700.00 - $3,000.00 = $2,700.00; $5,700.00 / $3,000.00 = 1.90 times the Chopper",
+          "PRB01 Luffy read range: $5,700.00 - $2,950.00 = $2,750.00 between the March 2026 and November 23, 2026 reads",
+          "PRB01 Chopper cross-check Haki: $3,000.00 - $2,999.99 = $0.01 between the two reads",
+          "PRB01 Nami cross-check Haki: $2,043.68 - $2,043.68 = $0.00 between the two reads",
+          "PRB01 Kid 30-day: $735.75 / 1.121 = $656.33 a month ago, a 12.1% rise"
+        ],
+        "paragraphs": [
+          "The ranked ten, all US market estimates from TCGplayer sales on MyTCGValue, read November 24, 2026: Tony Tony.Chopper EB01-006 Manga at $3,000.00, Roronoa Zoro OP06-118 Manga at $2,350.00, Nami OP01-016 Manga at $2,043.68, Shanks OP01-120 Manga at $1,197.71, and Trafalgar Law OP05-069 Manga at $1,100.00. The top five together are $9,691.39, 75.86% of the whole top ten, and the gap from first to second is $650.00, with the Chopper at 1.28 times the Zoro.",
+          "The second five: DON!! Card Zoro Gold at $762.77, Eustass \"Captain\" Kid OP05-074 Manga at $735.75, Sabo OP04-083 Manga at $675.50, Sogeking OP03-122 Manga at $588.13, and DON!! Card Trafalgar Law Gold at $322.00. Ranks six to ten together are $3,084.15, 24.14% of the top ten, and the drop from fifth to sixth is $337.23. The top card alone is 23.48% of the whole list, the eight Manga cards together are $11,690.77, 91.51% of it, and the two Gold DON!! cards are $1,084.77, 8.49% of it.",
+          "The ranking carries one honest gap. MyTCGValue lists the Monkey D. Luffy OP05-119 Manga with no market price on its November 24, 2026 read, so it is unranked here, while Haki TCG prices the same printing at $5,700.00 on its November 23, 2026 snapshot, which would make it the true number one. MyTCGValue prices one of each at $18,441.34, a total that excludes the two unpriced cards, so the ranked ten are 69.28% of it. Cross-checks hold: OGCards lists the Chopper Manga at $3,000.00, updated November 23, 2026, and Haki puts it at $2,999.99, $0.01 below the MyTCGValue read, while Haki agrees on the Nami Manga at $2,043.68 exactly."
+        ]
+      },
+      {
+        "h": "The money layer: four products, two cases, one honest split",
+        "math": [
+          "PRB01 JP box per pack: $127.19 / 10 packs = $12.72 per pack; $127.19 / 100 cards = $1.27 per card",
+          "PRB01 EN box per pack: $368.53 / 10 packs = $36.85 per pack; $368.53 / 100 cards = $3.69 per card",
+          "PRB01 JP case-split box: $1,266.13 / 10 boxes = $126.61 per box",
+          "PRB01 EN case-split box: $3,461.63 / 10 boxes = $346.16 per box",
+          "PRB01 JP case-split per pack: $1,266.13 / 100 packs = $12.66 per pack; $1,266.13 / 1,000 cards = $1.27 per card",
+          "PRB01 EN case-split per pack: $3,461.63 / 100 packs = $34.62 per pack; $3,461.63 / 1,000 cards = $3.46 per card",
+          "PRB01 JP case saving: 10 x $127.19 = $1,271.90; $1,271.90 - $1,266.13 = $5.77 saved on the case",
+          "PRB01 EN case saving: 10 x $368.53 = $3,685.30; $3,685.30 - $3,461.63 = $223.67 saved on the case",
+          "PRB01 JP case-split save per box: $127.19 - $126.61 = $0.58 per box",
+          "PRB01 EN case-split save per box: $368.53 - $346.16 = $22.37 per box",
+          "PRB01 EN box vs JP box: $368.53 - $127.19 = $241.34; $368.53 / $127.19 = 2.90 times the Japanese box",
+          "PRB01 EN case vs JP case: $3,461.63 - $1,266.13 = $2,195.50; $3,461.63 / $1,266.13 = 2.73 times the Japanese case",
+          "PRB01 whole shelf: $127.19 + $1,266.13 + $368.53 + $3,461.63 = $5,223.48",
+          "PRB01 JP list box: 10 x 550 yen = 5,500 yen; 5,500 yen / 159.07 yen per dollar = $34.58",
+          "PRB01 JP box vs list: $127.19 - $34.58 = $92.61; $127.19 / $34.58 = 3.68 times list",
+          "PRB01 EN list box: 10 x $5.49 = $54.90; $368.53 - $54.90 = $313.63; $368.53 / $54.90 = 6.71 times list",
+          "PRB01 top 10 in JP boxes: $12,775.54 / $127.19 = 100.44 boxes",
+          "PRB01 top 10 in EN boxes: $12,775.54 / $368.53 = 34.67 boxes",
+          "PRB01 top 10 in JP cases: $12,775.54 / $1,266.13 = 10.09 cases",
+          "PRB01 top 10 in EN cases: $12,775.54 / $3,461.63 = 3.69 cases",
+          "PRB01 top card vs JP box: $3,000.00 / $127.19 = 2,358.68% of one box",
+          "PRB01 top card vs EN box: $3,000.00 / $368.53 = 814.04% of one box",
+          "PRB01 top card vs JP split box: $3,000.00 / $126.61 = 2,369.48% of one box",
+          "PRB01 top card vs EN split box: $3,000.00 / $346.16 = 866.65% of one box"
+        ],
+        "paragraphs": [
+          "Our shelf, as of November 24, 2026, holds four PRB-01 products. The Japanese box is $127.19, $12.72 a pack and $1.27 a card on the box as sold. The English box is $368.53, $36.85 a pack and $3.69 a card, and it costs $241.34 more than the Japanese box, 2.90 times as much. The Japanese case is $1,266.13 for 10 boxes, $126.61 a box, and saves $5.77 against ten single boxes. The English case is $3,461.63 for 10 boxes, $346.16 a box, and saves $223.67 against ten single boxes.",
+          "Against list price, both boxes run far above retail. The Japanese list box is ten packs at 550 yen, 5,500 yen, or $34.58 at the ECB November 23, 2026 fixing of 159.07 yen per dollar, so our Japanese box costs 3.68 times list, $92.61 above it. The English list box is ten packs at $5.49, $54.90, so our English box costs 6.71 times list, $313.63 above it. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division, and the [One Piece Japanese sealed case guide](/blog/one-piece-japanese-sealed-case/) prices the whole ladder.",
+          "The top ten together, at $12,775.54, are 100.44 Japanese boxes, 34.67 English boxes, 10.09 Japanese cases, and 3.69 English cases. The top card alone is 2,358.68% of one Japanese box and 814.04% of one English box. No box or case is a plan for owning the Chopper: the case-split Japanese box saves $0.58 a box, which is a quantity decision, while the English case-split box saves $22.37 a box."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, the finish, and the set",
+        "math": [
+          "PRB01 set count: 1 + 23 + 25 + 21 + 29 + 8 + 4 = 111 card numbers; 111 + 30 = 141 with the DON!! cards",
+          "PRB01 Chopper vs ST01-006 Alternate Art: $3,000.00 / $54.03 = 55.52 times; $3,000.00 - $54.03 = $2,945.97 above it",
+          "PRB01 Chopper vs ST01-006 Full Art: $3,000.00 / $69.62 = 43.09 times; $3,000.00 - $69.62 = $2,930.38 above it",
+          "PRB01 Sanji Alternate Art premium: $101.90 / $0.57 = 178.77 times the base; $101.90 - $0.57 = $101.33 above it",
+          "PRB01 Sanji Alternate Art share: $101.90 / $12,775.54 = 0.80% of the top 10",
+          "PRB01 DON Zoro vs DON Law: $762.77 - $322.00 = $440.77; $762.77 / $322.00 = 2.37 times the Law Gold",
+          "PRB01 DON Law vs Sanji Alternate Art: $322.00 / $101.90 = 3.16 times; $322.00 - $101.90 = $220.10 above it",
+          "PRB01 God Pack: 1,380,000 yen / 159.07 yen per dollar = $8,675.43"
+        ],
+        "paragraphs": [
+          "Every card in this ranking carries a set code, and the code plus the finish is the only safe way to buy it. The Chopper at number one is EB01-006, a Memorial Collection number, and the Manga finish is what makes it $3,000.00: the same character prints as ST01-006 Alternate Art at $54.03 and Full Art at $69.62, so the Manga costs 55.52 times the Alternate Art and 43.09 times the Full Art. Check the OP number and the word Manga before you pay.",
+          "The Japanese edition lists 111 card numbers plus 30 DON!! cards, 141 in all: 1 Leader, 23 Commons, 25 Uncommons, 21 Rares, 29 Super Rares, 8 Secret Rares, and 4 Promotion cards. The English edition lists 171 cards on MyTCGValue and 325 printings, because it adds EB01, starter deck, and promo reprints. The Sanji Leader, PRB01-001, is the set's own number: the base prints at $0.57 and the Alternate Art at $101.90, 178.77 times the base, a gap of $101.33. Do not look for an SP rarity in PRB-01: the official breakdown lists no SP line, and the 6 new SP cards belong to PRB-02. The [EB-01 best cards guide](/blog/eb-01-best-cards/) ranks the Chopper's home set, and the [OP-05 best cards guide](/blog/op-05-best-cards/) ranks the Luffy's.",
+          "The God Pack is the set's rarest sealed feature: one pack holding all ten historic Comic Parallel cards, which Samurai Sword Tokyo reports sold complete for 1,380,000 yen in Japan, or $8,675.43 at the 159.07 fixing. Bandai publishes no pull rates for PRB-01, so no honest expected-value math exists for any pack. The 30 Gold DON!! cards are numbered PRB01-DON-001 through PRB01-DON-030, and only the Gold finish ranks: the Zoro Gold is $762.77 and the Law Gold is $322.00, a gap of $440.77, with the Zoro at 2.37 times the Law."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "Six ways to spend on PRB-01, priced as of November 24, 2026. The Japanese case-split box wins on per-pack cost, the singles win on certainty, and the English box wins nothing on price, because it is a 2024 set at 6.71 times its list box. Most buyers should pick the single for a named card, or the Japanese box for opening the set. The [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) runs the Premium Booster pair in full."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese case-split box",
+              "$126.61",
+              "$12.66",
+              "Opening PRB-01 at the lowest per-pack cost",
+              "$126.61 for a chase that tops out at $3,000.00, with no pull rates published"
+            ],
+            [
+              "Japanese single box",
+              "$127.19",
+              "$12.72",
+              "Buying one box without the case",
+              "$0.58 above the case-split box, and the same chase odds"
+            ],
+            [
+              "English case-split box",
+              "$346.16",
+              "$34.62",
+              "Holding sealed English or splitting ten boxes",
+              "$346.16 a box for the same 100 cards, 2.73 times the Japanese case-split box"
+            ],
+            [
+              "English single box",
+              "$368.53",
+              "$36.85",
+              "Buying the English box when the case is gone",
+              "$22.37 above the case-split box, and 2.90 times the Japanese box"
+            ],
+            [
+              "Top ten as singles",
+              "$12,775.54",
+              "n/a",
+              "Owning the ranked list outright",
+              "$12,775.54 in one purchase, with no sealed product and no chance at a second Chopper"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The Kid Manga is up 12.1% in 30 days and the top three are flat, so the shelf can move either way from here"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no case math, and a ranking with a hole in it",
+        "note": "From the Warehouse: the question we get most about PRB-01 is whether the Luffy Manga is really worth more than the Chopper, because every buyer has seen a Luffy price somewhere higher. On our November 24, 2026 read it has no price at all, which is not the same as worthless, and the Haki snapshot prices it at $5,700.00, which is the number we cannot confirm on the dated read. The second question is why the English box costs $368.53 when the Japanese box is $127.19, and the answer is the language and the year: a 2024 English box at 6.71 times its list price against a Japanese box at 3.68 times its list box. On this shelf, on this date, the case-split Japanese box is $12.66 a pack against a $36.85 English pack, which is the only number in this guide no other list can give you, because no other list holds the case.",
+        "paragraphs": [
+          "The top three results for this query all do the same job: they rank cards by price. Samurai Sword Tokyo ranks by Japanese and international prices as of March 2026, Assetra ranks by graded market cap, and MyTCGValue ranks by TCGplayer sales nightly. None of them holds a case, divides a case into boxes, or tells you what the box on a real shelf costs.",
+          "Four things only this page owns. First, the live shelf as of November 24, 2026. Second, the case math: $12.66 a pack on the Japanese case split against $34.62 on the English case split, with $5.77 saved on the Japanese case and $223.67 on the English case. Third, the print split: eight Manga cards at $11,690.77, 91.51% of the top ten, against two Gold DON!! cards at $1,084.77. Fourth, the ranking correction: the Luffy Manga carries no price on the November 24, 2026 read, so this page ranks the ten priced cards and prints the $5,700.00 Haki read beside it. The [best One Piece Japanese special set guide](/blog/best-one-piece-japanese-special-set/) ranks the six special sets by the buy."
+        ]
+      },
+      {
+        "h": "The chase ladder: one unpriced king, then a priced top five",
+        "note": "From the Warehouse: what we see in allocation is that buyers ask for the Luffy Manga by name and then stop listening when we say it has no price on the dated read, because a card with no price feels like a card with no value. It is the opposite: the unpriced card is the one the market cannot agree on, with reads from $2,950.00 in March 2026 to $5,700.00 on November 23, 2026. The ladder that actually pays is the priced top five from $1,100.00 to $3,000.00, all with a fresh market price dated this week. Chase the ladder you can verify, not the king you cannot price.",
+        "paragraphs": [
+          "The ladder has four rungs. The top rung holds the one unpriced king: the Monkey D. Luffy OP05-119 Manga, with no price on the November 24, 2026 read and a $5,700.00 Haki read beside it. The second rung is the priced top five, $9,691.39 together, from the Chopper Manga at $3,000.00 down to the Law Manga at $1,100.00. The third rung is the second five, $3,084.15 together, from the DON!! Zoro Gold at $762.77 down to the DON!! Law Gold at $322.00. The fourth rung is everything below the ladder, led by the Sanji Leader Alternate Art at $101.90. The gap from first to second among priced cards is $650.00.",
+          "Below the ladder sit the base prints, led by the Sanji Leader base at $0.57, while the cheapest ranked card, the DON!! Law Gold at $322.00, costs 3.16 times the Sanji Alternate Art at $101.90. The God Pack sits above the ladder entirely: one pack holding all ten Comic Parallels, reported sold complete in Japan. The [OP-01 best cards guide](/blog/op-01-best-cards/) ranks the Nami and Shanks home set the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: the top of the list disagrees with itself by $8,921.46",
+        "math": [
+          "PRB01 Haki top 10 gap: $21,697.00 - $12,775.54 = $8,921.46; $8,921.46 / $12,775.54 = 69.83% above our read",
+          "PRB01 Haki loss: $8,921.46 / $21,697.00 = 41.12% of the higher read",
+          "PRB01 Haki Shanks gap: $3,998.74 - $1,197.71 = $2,801.03; $3,998.74 / $1,197.71 = 3.34 times our read",
+          "PRB01 Haki Zoro gap: $2,500.00 - $2,350.00 = $150.00; $150.00 / $2,350.00 = 6.38% above our read",
+          "PRB01 Haki Law gap: $1,700.87 - $1,100.00 = $600.87; $600.87 / $1,100.00 = 54.62% above our read",
+          "PRB01 BGS Luffy gap: $10,601.00 - $2,950.00 = $7,651.00 above the ungraded read"
+        ],
+        "paragraphs": [
+          "Concentration is the first risk. The top five are 75.86% of the top ten and the eight Manga cards are 91.51% of it, so the ranking is a bet on one finish. Two of the ten Manga cards, the Luffy and the Ace, carry no price on the MyTCGValue read. The second risk is the disagreement between reads: Haki TCG puts the same top ten at $21,697.00 on November 23, 2026, which is $8,921.46 above our $12,775.54, 69.83% above it, driven by the Luffy at $5,700.00 and the Shanks at $3,998.74 against our $1,197.71. Buy at the MyTCGValue read and sell at the Haki read and you win $8,921.46; the other way round you lose the same $8,921.46.",
+          "Fakes and reseals are the third risk. Check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is unbroken. PRB-01 is a 2024 set, so sealed boxes have circulated for more than two years. The fourth risk is the pull-rate gap: Bandai publishes no pull rates, and no honest expected-value math exists for the chase, so a box is a purchase of 100 cards, not a plan for one Manga. The [how to spot fake One Piece cards guide](/blog/how-to-spot-fake-one-piece-cards/) shows the checks before you pay.",
+          "Grading is the fifth risk: it pays only on the cards the market already agrees on. Samurai Sword Tokyo reports a BGS 10 Black Label Luffy Manga sold for $10,601.00 in November 2025, against an ungraded read of about $2,950.00 in March 2026, a gap of $7,651.00, but that is one sale of one grade of one card. Grade the Manga cards to keep them, not to sell them, because the raw market for the top of this list is thin enough that two reads disagree by $8,921.46 on the same ten cards."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and where PRB-01 sits against PRB-02",
+        "math": [
+          "PRB01 JP pack in dollars: 550 yen / 159.07 yen per dollar = $3.46",
+          "PRB01 JP box in yen: $127.19 x 159.07 yen per dollar = 20,232.11 yen",
+          "PRB01 EN box in yen: $368.53 x 159.07 yen per dollar = 58,622.07 yen",
+          "PRB01 JP case in yen: $1,266.13 x 159.07 yen per dollar = 201,403.30 yen",
+          "PRB01 EN case in yen: $3,461.63 x 159.07 yen per dollar = 550,641.48 yen",
+          "PRB01 top 10 in yen: $12,775.54 x 159.07 yen per dollar = 2,032,205.15 yen",
+          "PRB01 top card in yen: $3,000.00 x 159.07 yen per dollar = 477,210.00 yen",
+          "PRB02 JP box gap: $127.19 - $63.60 = $63.59; $127.19 / $63.60 = 2.00 times the PRB-02 box",
+          "PRB02 EN box gap: $368.53 - $157.03 = $211.50; $368.53 / $157.03 = 2.35 times the PRB-02 box",
+          "PRB01 vs PRB02 top 10 Haki: $21,697.00 - $5,965.00 = $15,732.00; $21,697.00 / $5,965.00 = 3.64 times the PRB-02 top 10"
+        ],
+        "paragraphs": [
+          "Japan and English are different products. Japan released PRB-01 on July 27, 2024 and English followed on November 8, 2024, with English legality from November 15, 2024, and both editions hold 10 packs of 10 cards as sold, but the Japanese pack lists at 550 yen, or $3.46 at the 159.07 fixing, while the English pack lists at $5.49. The Japanese edition lists 111 card numbers plus 30 DON!! cards, and the English edition lists 171 cards. Japanese cards are not legal at official English events, and the English box costs 2.90 times the Japanese box. In yen, the Japanese box is 20,232.11 yen and the English box is 58,622.07 yen. The [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) compares the box choice across the shelf, and the [One Piece Japanese special set guide](/blog/one-piece-japanese-special-set/) runs the special-set board.",
+          "PRB-02, The Best vol.2, followed in Japan on July 26, 2025 and in English on October 3, 2025, with 179 card numbers plus 30 DON!! cards and 6 new SP cards. On our shelf, as of November 24, 2026, the PRB-02 Japanese box is $63.60, $63.59 below the PRB-01 Japanese box at $127.19, and the PRB-02 English box is $157.03, $211.50 below the PRB-01 English box. Haki TCG puts the PRB-02 top ten at $5,965.00 on November 23, 2026, against $21,697.00 for PRB-01 on the same read, a gap of $15,732.00, with PRB-01 at 3.64 times PRB-02. The [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) runs the pair in full."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer who wants the Luffy Manga at a price that will hold still, because it carries no price on the November 24, 2026 read and the two reads that do price it sit $2,750.00 apart. It is not for a player who needs Japanese cards for an English event, because they are not legal there. It is not for a buyer who wants a guaranteed return from opening boxes, because Bandai publishes no pull rates and the top card alone is 2,358.68% of one Japanese box. It is not for a collector who wants the whole set as singles without paying for the Manga cards, because the eight Manga cards are 91.51% of the top ten."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Chopper EB01-006 Manga, buy the single at $3,000.00, which is 2,358.68% of one Japanese box, and do not open boxes for it; Bandai publishes no pull rates and the card sits $650.00 above the second card",
+          "If the job is the box, pay $127.19 for the Japanese box, or $12.72 a pack, and treat the chase as a bonus; the box is $241.34 below the $368.53 English box",
+          "If the job is a case, divide it first: the Japanese case is $1,266.13 for 10 boxes, $12.66 a pack, and it saves $5.77 against ten single boxes, so confirm the $126.61 per-box figure at checkout",
+          "If the job is the whole top ten, buy the singles at $12,775.54: three Japanese boxes cost $381.57, which is $12,393.97 less, but they still leave the chase to chance, while the singles are exact",
+          "If buying Japanese, confirm you are collecting or opening, not playing an English event, and remember the English box is $368.53 for the same 100 cards",
+          "Check the number and the finish on any Chopper before you pay: the EB01-006 Manga is $3,000.00, the ST01-006 Alternate Art is $54.03, and the Full Art is $69.62",
+          "Check the number and the finish on any Sanji before you pay: the PRB01-001 Alternate Art is $101.90, a different price from the $0.57 base, and there is no SP rarity in PRB-01",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the PRB-01 best-cards checklist",
+        "paragraphs": [
+          "Work the list in order, and stop at the first line that matches your goal. The [is PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) prices all four shelf products line by line, for buyers comparing the box against the case."
+        ]
+      }
+    ],
+    "slug": "prb-01-best-cards",
+    "takeaway": [
+      "The PRB-01 top ten, on the November 24, 2026 read, totals $12,775.54, with the Tony Tony.Chopper EB01-006 Manga at $3,000.00. The Chopper is $3,000.00 of it, 23.48% of the list, and eight of the ten ranked cards are Manga cards, while the Monkey D. Luffy OP05-119 Manga carries no price on that read and Haki TCG prices it at $5,700.00.",
+      "On our shelf as of November 24, 2026, the Japanese box is $127.19 and the English box is $368.53, with the Japanese case at $1,266.13 splitting to $126.61 a box and the English case at $3,461.63 splitting to $346.16 a box. The Japanese case-split box sits $0.58 below the single box, and the English case-split box sits $22.37 below it.",
+      "It is worth buying as the set to open, sealed or split, and it is not worth buying as a way to own one named card. Bandai publishes no pull rates, the Chopper alone is 2,358.68% of one Japanese box, and the top of the list is thin enough that two reads disagree by $8,921.46 on the same ten cards.",
+      "The ladder is flat at the top among priced cards: the gap from first to second is $650.00, the gap from second to third is $306.32, and the top five together are $9,691.39. Four facts the other lists miss are covered on this page: the live shelf, the case division, the print split, and the ranking correction on the unpriced Luffy.",
+      "Companion guide: the [PRB-02 best cards guide](/blog/prb-02-best-cards/) ranks the second volume's ten best, top ten $5,964.91, with the Sanji Manga at $2,338.11."
+    ]
+  },
   "prb-01-vs-prb-02-which-to-buy": {
     "datePublished": "2026-11-04",
     "faqs": [
@@ -58514,7 +58773,252 @@ export const POSTS: Record<string, BlogPost> = {
       "Cases barely discount in Japanese: $0.67 per box on PRB-01 and $0.34 on PRB-02. Buy a case because you want that many boxes, not because the case saves money, and never trust a per-box figure for the English PRB-02 case until its box count is stated.",
       "Still weighing sealed against singles? The [Japanese One Piece box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices the mainline alternative, and [should you open it or keep it sealed](/blog/should-you-open-or-keep-sealed-booster-box/) is the framework for the moment a box lands.",
       "For each volume priced on its own from the November 15, 2026 shelf, see the [PRB-01 worth buying guide](/blog/is-prb-01-worth-buying/) and the [PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/).",
-      "For the full special-set board, the [One Piece Japanese special set guide](/blog/one-piece-japanese-special-set/) prices PRB-01 and PRB-02 beside all four Extra Boosters, case against singles, as of November 20, 2026."
+      "For the full special-set board, the [One Piece Japanese special set guide](/blog/one-piece-japanese-special-set/) prices PRB-01 and PRB-02 beside all four Extra Boosters, case against singles, as of November 20, 2026.",
+      "For the ten best cards in the set, the [PRB-01 best cards guide](/blog/prb-01-best-cards/) ranks them, top ten $12,775.54, with the Chopper Manga at $3,000.00.",
+      "For the ten best cards in the set, the [PRB-02 best cards guide](/blog/prb-02-best-cards/) ranks them, top ten $5,964.91, with the Sanji Manga at $2,338.11."
+    ]
+  },
+  "prb-02-best-cards": {
+    "datePublished": "2026-11-24",
+    "faqs": [
+      {
+        "a": "Sanji, OP06-119, the Manga Rare Comic Parallel, at $2,338.11 on the November 23, 2026 TCGplayer market read from Haki TCG, checked November 24, 2026. It is 39.20% of the top ten, which totals $5,964.91, and it sits $1,423.71 above the second card, the Gum-Gum Giant OP09-078 Special Card at $914.40. CollectiKit agrees to the dollar on November 19, 2026, but the lowest Japanese raw ask on SNKRDUNK was 135,555 yen on October 7, 2026, or $852.17, so the American and Japanese markets disagree by $1,485.94 on this card.",
+        "q": "What is the most valuable PRB-02 card?"
+      },
+      {
+        "a": "No, not as a plan. The Sanji is $2,338.11, which is 36.76 Japanese boxes at our $63.60 shelf price, and Bandai publishes no pull rates for this set, so no honest expected-value math exists for the chase. Buy the single if the Sanji is the card you want, and buy the box only if you want to open PRB-02.",
+        "q": "Should I buy a PRB-02 box to pull the Manga Sanji?"
+      },
+      {
+        "a": "Yes. The Japanese box is $63.60 and the English box is $157.03 on our shelf as of November 24, 2026, a gap of $93.43, or 146.90%, and the English box costs 2.47 times the Japanese box. The two boxes are different products in different languages: the Japanese box holds 10 packs of 10 cards and the English box holds 20 packs of 10 cards, and Japanese cards are not legal at official English events. At Japanese retail the box is 5,500 yen, or $34.58 at the ECB November 23, 2026 fixing of 159.07 yen per dollar.",
+        "q": "Is the Japanese PRB-02 box cheaper than the English box?"
+      }
+    ],
+    "h1": "PRB-02 The Best Vol. 2 Best Cards: Top 10, Priced",
+    "intro": [
+      "Short answer: the best card in PRB-02 The Best Vol. 2 is Sanji, OP06-119, the Manga Rare Comic Parallel, at $2,338.11 on the November 23, 2026 TCGplayer market read from Haki TCG, checked November 24, 2026, and the ten best together are $5,964.91. On our shelf, as of November 24, 2026, the Japanese booster box is $63.60, the Japanese sealed case is $1,266.13 and splits to $63.31 a box, the English Premium booster box is $157.03, and the English sealed case is $1,474.87 with no box count printed. Buy the box to open PRB-02, buy the single for the Sanji.",
+      "PRB-02, set code PRB-02, is the second Premium Booster best-of set: 179 card types plus 30 DON!! card types, 209 in all, split as 46 Commons, 29 Uncommons, 41 Rares, 34 Super Rares, 8 Secret Rares, 6 Special Cards, 15 Promotion Cards and 30 DON!! Cards. It released in Japan on July 26, 2025 and in English on October 3, 2025, with English legality from October 10, 2025. A Japanese box holds 10 packs of 10 cards at 550 yen a pack, and an English box holds 20 packs of 10 cards at $5.49 a pack. The [PRB-01 best cards guide](/blog/prb-01-best-cards/) ranks the first volume the same way."
+    ],
+    "metaDescription": "PRB-02 best cards, Nov 24, 2026: Manga Sanji $2,338.11, top ten $5,964.91, JP box $63.60, JP case-split $63.31, EN box $157.03.",
+    "metaTitle": "PRB-02 The Best Vol. 2 Best Cards: Top 10, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: a $2,338.11 Manga Sanji leads a $5,964.91 top ten",
+        "math": [
+          "PRB02 top 10 total: $2,338.11 + $914.40 + $898.98 + $471.42 + $321.25 + $281.70 + $281.56 + $179.68 + $166.55 + $111.26 = $5,964.91",
+          "PRB02 top 5 total: $2,338.11 + $914.40 + $898.98 + $471.42 + $321.25 = $4,944.16; $4,944.16 / $5,964.91 = 82.89% of the top 10",
+          "PRB02 ranks 6 to 10 total: $281.70 + $281.56 + $179.68 + $166.55 + $111.26 = $1,020.75; $1,020.75 / $5,964.91 = 17.11% of the top 10",
+          "PRB02 top card share: $2,338.11 / $5,964.91 = 39.20% of the top 10",
+          "PRB02 rank 2 share: $914.40 / $5,964.91 = 15.33% of the top 10",
+          "PRB02 rank 3 share: $898.98 / $5,964.91 = 15.07% of the top 10",
+          "PRB02 rank 4 share: $471.42 / $5,964.91 = 7.90% of the top 10",
+          "PRB02 rank 5 share: $321.25 / $5,964.91 = 5.39% of the top 10",
+          "PRB02 rank 6 share: $281.70 / $5,964.91 = 4.72% of the top 10",
+          "PRB02 rank 7 share: $281.56 / $5,964.91 = 4.72% of the top 10",
+          "PRB02 rank 8 share: $179.68 / $5,964.91 = 3.01% of the top 10",
+          "PRB02 rank 9 share: $166.55 / $5,964.91 = 2.79% of the top 10",
+          "PRB02 rank 10 share: $111.26 / $5,964.91 = 1.87% of the top 10",
+          "PRB02 gap one to two: $2,338.11 - $914.40 = $1,423.71; $2,338.11 / $914.40 = 2.56 times number two",
+          "PRB02 gap two to three: $914.40 - $898.98 = $15.42",
+          "PRB02 gap five to six: $321.25 - $281.70 = $39.55",
+          "PRB02 gap six to seven: $281.70 - $281.56 = $0.14",
+          "PRB02 second five vs second card: $1,020.75 - $914.40 = $106.35",
+          "PRB02 top card vs rank ten: $2,338.11 / $111.26 = 21.01 times rank ten",
+          "PRB02 Sanji SNKRDUNK ask: 135,555 yen / 159.07 yen per dollar = $852.17; $2,338.11 - $852.17 = $1,485.94; $1,485.94 / $2,338.11 = 63.55% below the TCGplayer read"
+        ],
+        "paragraphs": [
+          "The ranked ten, all TCGplayer market prices from Haki TCG, checked November 23, 2026: Sanji OP06-119 Manga Rare Comic Parallel at $2,338.11, Gum-Gum Giant OP09-078 Special Card at $914.40, Roronoa Zoro PRB02-006 Special Card at $898.98, Monkey.D.Luffy EB02-061 Special Card at $471.42, and My Era...Begins!! OP09-096 Special Card at $321.25. The top five together are $4,944.16, 82.89% of the whole top ten, and the gap from first to second is $1,423.71, with the Sanji 2.56 times the second card.",
+          "The second five: Come On!! We'll Fight You!! OP09-020 Special Card at $281.70, Cross Guild OP09-057 Special Card at $281.56, Shanks OP06-007 Special Card at $179.68, Sabo PRB02-014 Special Card at $166.55, and Trafalgar Law OP10-119 Special Card at $111.26. Ranks six to ten together are $1,020.75, 17.11% of the top ten, and the drop from fifth to sixth is $39.55. The gap from sixth to seventh is $0.14, the tightest in the list. The top card is 39.20% of the list and 21.01 times the tenth card.",
+          "All ten are alternate-art or Special Card printings, and nine of the ten are Special Cards. Cross-checks hold on the top card: CollectiKit puts the same Sanji printing at $2,338.11 on TCGplayer near-mint data dated November 19, 2026, identical to the Haki read. The Japanese market disagrees: the lowest SNKRDUNK raw ask for the Sanji on October 7, 2026 was 135,555 yen, $852.17 at the ECB November 23, 2026 fixing of 159.07 yen per dollar, $1,485.94, or 63.55%, below the TCGplayer read. The [OP-09 best cards guide](/blog/op-09-best-cards/) ranks the set three of these cards come from."
+        ]
+      },
+      {
+        "h": "The money layer: the Japanese case splits to $63.31 a box",
+        "math": [
+          "PRB02 JP case-split box: $1,266.13 / 20 boxes = $63.31 per box",
+          "PRB02 JP case saving: 20 x $63.60 = $1,272.00; $1,272.00 - $1,266.13 = $5.87; $5.87 / $1,272.00 = 0.46% saved on the case",
+          "PRB02 JP shelf per pack: $63.60 / 10 packs = $6.36 per pack",
+          "PRB02 JP shelf per card: $63.60 / 100 cards = $0.64 per card",
+          "PRB02 JP case per pack: $1,266.13 / 200 packs = $6.33 per pack",
+          "PRB02 JP case per card: $1,266.13 / 2,000 cards = $0.63 per card",
+          "PRB02 EN shelf per pack: $157.03 / 20 packs = $7.85 per pack",
+          "PRB02 EN shelf per card: $157.03 / 200 cards = $0.79 per card",
+          "PRB02 EN box vs MSRP: 20 x $5.49 = $109.80; $157.03 - $109.80 = $47.23; $47.23 / $109.80 = 43.01% above the MSRP box",
+          "PRB02 EN box vs JP box: $157.03 - $63.60 = $93.43; $93.43 / $63.60 = 146.90% above the JP box; $157.03 / $63.60 = 2.47 times the JP box",
+          "PRB02 EN case vs JP case: $1,474.87 - $1,266.13 = $208.74; $208.74 / $1,266.13 = 16.49% above the JP case",
+          "PRB02 JP box vs retail: 10 x 550 yen = 5,500 yen; 5,500 yen / 159.07 yen per dollar = $34.58; $63.60 - $34.58 = $29.02; $29.02 / $34.58 = 83.92% above retail",
+          "PRB02 top 10 in JP boxes: $5,964.91 / $63.60 = 93.79 boxes",
+          "PRB02 top 10 in EN boxes: $5,964.91 / $157.03 = 37.99 boxes",
+          "PRB02 top 10 in JP cases: $5,964.91 / $1,266.13 = 4.71 cases",
+          "PRB02 top 10 in EN cases: $5,964.91 / $1,474.87 = 4.04 cases",
+          "PRB02 top card in JP boxes: $2,338.11 / $63.60 = 36.76 boxes",
+          "PRB02 top card in EN boxes: $2,338.11 / $157.03 = 14.89 boxes"
+        ],
+        "paragraphs": [
+          "Our shelf, as of November 24, 2026, holds four PRB-02 listings. The Japanese booster box is $63.60, which divides to $6.36 a pack and $0.64 a card on 10 packs of 10 cards. The Japanese sealed case is $1,266.13 for 20 boxes, which splits to $63.31 a box, $6.33 a pack and $0.63 a card, saving $5.87 against twenty single boxes, or 0.46%. The saving is small because the box already sits close to the case split.",
+          "The English Premium booster box is $157.03, which divides to $7.85 a pack and $0.79 a card. The official pack price is $5.49, so a box at MSRP is $109.80, and our shelf box sits $47.23, or 43.01%, above it. The English box costs $93.43 more than the Japanese box, 146.90% more, or 2.47 times the Japanese box. The English sealed case is $1,474.87, which is $208.74, or 16.49%, above the Japanese case, and the listing prints no box count, so this guide gives no per-box figure for it.",
+          "Against Japanese retail the shelf sits high. A Japanese box at retail is 10 packs at 550 yen, 5,500 yen, which converts to $34.58 at the ECB November 23, 2026 fixing of 159.07 yen per dollar, so our $63.60 box sits $29.02, or 83.92%, above retail. The top ten together, at $5,964.91, are 93.79 Japanese boxes, 37.99 English boxes, 4.71 Japanese cases and 4.04 English cases. The top card alone is 36.76 Japanese boxes and 14.89 English boxes. The [sealed case vs booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division."
+        ]
+      },
+      {
+        "h": "The practical layer: match the number, the finish, and the printing",
+        "math": [
+          "PRB02 Gold DON!! Yamato vs Shanks SP: $222.50 - $179.68 = $42.82 above rank eight",
+          "PRB02 Gold DON!! Nami vs Shanks SP: $209.13 - $179.68 = $29.45 above rank eight"
+        ],
+        "paragraphs": [
+          "Every card in this ranking carries a set code, and the code plus the finish is the only safe way to buy it. Sanji OP06-119 is the card to check hardest: the Manga Rare Comic Parallel in PRB-02 is $2,338.11, Haki catalogs it as OP06-119-v3 alternate art, and the same number exists as a base Secret Rare at a fraction of that price, so a listing that says only Sanji OP06-119 tells you nothing. Gum-Gum Giant OP09-078 is an event card reprinted as a Special Card at $914.40, and Roronoa Zoro PRB02-006 is one of the six new SP cards at $898.98. Do not pay a Special Card price for a base print of the same number.",
+          "The DON!! cards need the same care. PRB-02 holds 30 character DON!! cards plus 30 Gold versions, 60 DON!! printings in all, and the Gold DON!! cards are not rows in the Haki top ten, so this ranking covers character and event printings only. On the latest dated read, October 2, 2026, TurnZeroHQ put the Gold DON!! Yamato at $222.50 and the Gold DON!! Nami at $209.13 on TCGplayer market, both above the eighth-ranked Shanks SP at $179.68, so a list that mixes DON!! cards into the top ten is ranking two different markets as one. The set also carries a community-reported Gold DON!! God Pack, ten Gold DON!! cards in one pack, which card-binder puts at roughly $350 to $500.",
+          "On our shelf, as of November 24, 2026, sealed PRB-02 means the Japanese box at $63.60, the Japanese case at $1,266.13, the English box at $157.03, or the English case at $1,474.87, with no single-pack listing. Check the number, the finish, and the language before you pay: the English box holds twice the packs of the Japanese box. The [EB-02 best cards guide](/blog/eb-02-best-cards/) ranks the set the Luffy SP comes from."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "Six ways to spend on PRB-02, priced as of November 24, 2026. The Japanese case-split box wins on per-pack cost, the singles win on certainty, and the English case cannot be divided, because its box count is unprinted. Most buyers should pick the single for a named card, or the Japanese box for opening the set. The [is PRB-02 worth buying guide](/blog/is-prb-02-worth-buying/) runs the same figures against the buy-or-wait question."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "JP shelf box",
+              "$63.60",
+              "$6.36",
+              "Opening PRB-02 at the lowest single-box cost",
+              "$63.60 for a chase that tops out at $2,338.11, with no pull rates published"
+            ],
+            [
+              "JP case-split box",
+              "$63.31",
+              "$6.33",
+              "Opening PRB-02 at the lowest per-pack cost",
+              "Saves $5.87 on twenty boxes, so the case only pays if you want the volume"
+            ],
+            [
+              "EN shelf box",
+              "$157.03",
+              "$7.85",
+              "Opening in English for play",
+              "$47.23 above the $109.80 MSRP box, and $93.43 above the Japanese box"
+            ],
+            [
+              "EN shelf case",
+              "$1,474.87",
+              "n/a",
+              "Holding sealed English or stocking a shop",
+              "No box count printed, so no per-box figure exists until the listing states one"
+            ],
+            [
+              "Top ten as singles",
+              "$5,964.91",
+              "n/a",
+              "Owning the ranked list outright",
+              "$5,964.91 in one purchase, with no sealed product and no chance at a second Sanji"
+            ],
+            [
+              "Wait",
+              "$0",
+              "n/a",
+              "The next price move, either direction",
+              "The Sanji read is a week old in places and the Japanese ask sits 63.55% below the US read, so the shelf can move either way from here"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no shelf, no case math, and a ranking that hides the DON!! cards",
+        "note": "From the Warehouse: the question we get most about PRB-02 is whether the $2,338.11 Sanji is the card in the pack art, because buyers see Sanji on the box and assume one Sanji is one price. It is several cards at several prices, and the Manga Rare costs more than the whole second five put together. The second question is why the English case has no per-box figure on this page, and the answer is the listing itself: it prints no box count, so dividing it would be inventing a number. On this shelf, on this date, the Japanese case-split box is $6.33 a pack against a $7.85 English pack, which is the only number in this guide no other list can give you, because no other list holds the case.",
+        "paragraphs": [
+          "The top three results for this query all do the same job: they rank cards by price. Japan Figure ranks fifteen cards with stale prices, putting the Sanji at about $416.40 against the $2,338.11 read this page uses. Samurai Sword Tokyo prices the chase on SNKRDUNK asks and ranks all 30 Gold DON!! characters, but holds no shelf and divides no case. Haki TCG ranks the top ten on TCGplayer market, checked November 23, 2026, but never says its top ten leaves the DON!! cards out.",
+          "Four things only this page owns. First, the live shelf: a Japanese box at $63.60, a Japanese case at $1,266.13, an English box at $157.03 and an English case at $1,474.87, as of November 24, 2026. Second, the case math: $6.33 a pack on the Japanese case split against $7.85 on the English box. Third, the DON!! split: the ranking rule stated in print, with the Gold DON!! Yamato at $222.50 and Nami at $209.13 on the October 2, 2026 read priced beside it. Fourth, the Sanji cross-market gap: $2,338.11 on TCGplayer against an $852.17 Japanese raw ask, a gap of $1,485.94. The [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) runs the two volumes against each other in full."
+        ]
+      },
+      {
+        "h": "The chase ladder: one Manga Rare, then a steep drop",
+        "math": [
+          "PRB02 ladder rung two total: $914.40 + $898.98 = $1,813.38; $1,813.38 / $5,964.91 = 30.40% of the top 10",
+          "PRB02 ladder rung four total: $321.25 + $281.70 + $281.56 + $179.68 + $166.55 + $111.26 = $1,342.00; $1,342.00 / $5,964.91 = 22.50% of the top 10",
+          "PRB02 top card vs rung two: $2,338.11 - $1,813.38 = $524.73 above both cards together",
+          "PRB02 rung two vs rung four: $1,813.38 - $1,342.00 = $471.38",
+          "PRB02 Sanji vs rung four: $2,338.11 / $1,342.00 = 174.23% of the whole rung"
+        ],
+        "note": "From the Warehouse: what we see in allocation is that buyers ask for the Manga Sanji by name and then stop listening when we say it is 36.76 Japanese boxes, because a four-figure card feels like a plan. It is not a plan, it is one card at $2,338.11 with 39.20% of the whole top ten riding on it. The ladder that actually pays is the two-card second tier from $898.98 to $914.40, both with a fresh market price dated this week and both Special Cards a buyer can verify by number. Chase the ladder you can verify, not the grail that owns the list.",
+        "paragraphs": [
+          "The ladder has four rungs. The top rung holds the one Manga Rare: Sanji OP06-119 at $2,338.11, 2.56 times the second card and 39.20% of the top ten. The second rung is the two Special Cards just under $1,000, the Gum-Gum Giant at $914.40 and the Roronoa Zoro at $898.98, $1,813.38 together, 30.40% of the top ten. The third rung is the Monkey.D.Luffy SP alone at $471.42. The fourth rung is the six cards from $111.26 to $321.25, $1,342.00 together, 22.50% of the list.",
+          "The Sanji alone is $524.73 above the whole second rung put together, and 174.23% of the whole fourth rung. Below the ladder sit the base prints, and the Gold DON!! cards sit beside it, not on it: the Yamato at $222.50 and the Nami at $209.13 would fall inside the fourth rung if they were ranked with it. The [best One Piece Japanese special set guide](/blog/best-one-piece-japanese-special-set/) ranks PRB-02 against the other five special sets."
+        ]
+      },
+      {
+        "h": "The risk layer: the Sanji disagrees with itself by $1,485.94",
+        "math": [
+          "PRB02 top card concentration: $2,338.11 / $5,964.91 = 39.20% of the top 10",
+          "PRB02 top five concentration: $4,944.16 / $5,964.91 = 82.89% of the top 10",
+          "PRB02 Sanji market gap: $2,338.11 - $852.17 = $1,485.94; $1,485.94 / $2,338.11 = 63.55% between the two reads",
+          "PRB02 EN box premium over MSRP: $157.03 - $109.80 = $47.23; $47.23 / $109.80 = 43.01%"
+        ],
+        "paragraphs": [
+          "Concentration is the first risk. The top card is 39.20% of the top ten and the top five are 82.89% of it, so the ranking is a bet on one card. The second risk is the price itself, which disagrees with itself by $1,485.94. Haki puts the Sanji at $2,338.11 on TCGplayer market, checked November 23, 2026, and CollectiKit agrees to the dollar on November 19, 2026, but the lowest SNKRDUNK raw ask on October 7, 2026 was 135,555 yen, $852.17 at the November 23 fixing, 63.55% below the American read. Buy at the Japanese ask and sell at the American market and you win; the other way round you lose more than three fifths of the card.",
+          "Fakes and reseals are the third risk. Check the seal before opening and photograph the box, because a reseal claim is only provable while the seal is unbroken. PRB-02 is a reprint set, so every chase card in it also exists in an earlier set, and the premium is in the printing, not the character, which is exactly what a counterfeit copies first. The [how to spot fake One Piece cards guide](/blog/how-to-spot-fake-one-piece-cards/) shows the checks, and the [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal checks.",
+          "The fourth risk is the pull-rate gap: Bandai publishes no pull rates for this set, so no honest expected-value math exists for the chase, and the top ten together are 93.79 Japanese boxes. The fifth risk is the English case: its listing prints no box count, so any per-box figure quoted for it is invented. The English box already carries a warning of its own: at $157.03 it sits $47.23, or 43.01%, above the $109.80 MSRP box."
+        ]
+      },
+      {
+        "h": "Context: Japan vs English, and PRB-02 vs PRB-01",
+        "math": [
+          "PRB02 JP box in yen: $63.60 x 159.07 yen per dollar = 10,116.85 yen",
+          "PRB02 JP case in yen: $1,266.13 x 159.07 yen per dollar = 201,403.30 yen",
+          "PRB02 EN box in yen: $157.03 x 159.07 yen per dollar = 24,978.76 yen",
+          "PRB02 EN case in yen: $1,474.87 x 159.07 yen per dollar = 234,607.57 yen",
+          "PRB02 top 10 in yen: $5,964.91 x 159.07 yen per dollar = 948,838.23 yen",
+          "PRB02 top card in yen: $2,338.11 x 159.07 yen per dollar = 371,923.16 yen",
+          "PRB02 top card vs PRB01 Luffy Manga (Haki read): $5,700.00 - $2,338.11 = $3,361.89; $5,700.00 / $2,338.11 = 2.44 times the Sanji; $2,338.11 / $5,700.00 = 41.02% of the Luffy",
+          "PRB02 JP box vs PRB01 JP box: $127.19 - $63.60 = $63.59; $127.19 / $63.60 = 2.00 times the PRB-02 box",
+          "PRB02 EN box vs PRB01 EN box: $368.53 - $157.03 = $211.50; $368.53 / $157.03 = 2.35 times the PRB-02 box",
+          "PRB02 JP case split vs PRB01 JP case split: $1,266.13 / 10 boxes = $126.61 per box; $126.61 / $63.31 = 2.00 times the PRB-02 split"
+        ],
+        "paragraphs": [
+          "Japan and English are different products. Japan released PRB-02 on July 26, 2025 and English followed on October 3, 2025, legal for English play from October 10, 2025. The Japanese box holds 10 packs of 10 cards at 550 yen a pack, and the English box holds 20 packs of 10 cards at $5.49 a pack, with at least one Super Rare or better guaranteed in every pack. Japanese cards are not legal at official English events. In yen, at the ECB November 23, 2026 fixing of 159.07 yen per dollar, the Japanese box is 10,116.85 yen, the Japanese case is 201,403.30 yen, the English box is 24,978.76 yen, the English case is 234,607.57 yen, the top ten are 948,838.23 yen, and the top card alone is 371,923.16 yen.",
+          "Against PRB-01, the first volume, PRB-02 is cheaper at every level. Haki's November 23, 2026 read prices the PRB-01 Luffy Manga, Monkey.D.Luffy OP05-119, at $5,700.00, though the November 24 read leaves it unpriced; it sits $3,361.89 above the Sanji, 2.44 times it, and the Sanji is 41.02% of the Luffy. The PRB-01 Japanese box on our shelf is $127.19, $63.59 above the PRB-02 box, or 2.00 times it, and the PRB-01 English box is $368.53, $211.50 above the PRB-02 English box, or 2.35 times it. The two Japanese cases cost the same $1,266.13, but the PRB-01 case holds 10 boxes and the PRB-02 case holds 20, so the PRB-01 case splits to $126.61 a box, 2.00 times the PRB-02 split. PRB-01 carries the Manga God Pack, ten Manga Rares in one pack; PRB-02 carries the Gold DON!! God Pack, ten Gold DON!! cards, which card-binder puts at roughly $350 to $500. The [One Piece Japanese special sets guide](/blog/one-piece-japanese-special-set/) prices all six special sets on one board."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer who wants the Manga Sanji at a price that will hold still, because the card is 39.20% of the ranked value and the Japanese raw ask sits 63.55% below the American market read. It is not for a player who needs Japanese cards for an English event, because they are not legal there. It is not for a buyer who wants a guaranteed return from opening boxes, because Bandai publishes no pull rates and the top ten together are 93.79 Japanese boxes. It is not for a collector who wants the whole set as singles without paying for the Special Cards. It is not for a buyer who needs a per-box figure on the English case, because the listing prints no box count."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide your buyer type first: collector opening, sealed holder, case splitter, or single-card chaser",
+          "If the job is the Manga Sanji OP06-119, buy the single at $2,338.11, which is 36.76 Japanese boxes, and do not open boxes for it; Bandai publishes no pull rates and the card sits $1,423.71 above the second card",
+          "If the job is the box, pay $63.60 on our Japanese shelf, or $6.36 a pack, and treat the chase as a bonus; the box is $93.43 below the $157.03 English box",
+          "If the job is a case, divide it first: the Japanese case is $1,266.13 for 20 boxes, $63.31 a box, and it saves $5.87 against twenty single boxes, so confirm the $63.31 per-box figure at checkout",
+          "If the job is the English case, read the listing first: it is $1,474.87 with no box count printed, so do not divide it into a per-box figure until the listing states one",
+          "If the job is the whole top ten, buy the singles at $5,964.91: 93.79 Japanese boxes cost the same in theory, which is $5,964.91, but they still leave the chase to chance, while the singles are exact",
+          "Check the number and the finish on any Sanji before you pay: the OP06-119 Manga Rare Comic Parallel is $2,338.11, and the base print of the same number costs a fraction of it",
+          "Check the number and the finish on any Gum-Gum Giant before you pay: the OP09-078 Special Card is $914.40, a different printing from the base event card",
+          "Check the seal before opening, and photograph the box; a reseal claim is only provable while the seal is intact"
+        ],
+        "h": "Action layer: the PRB-02 best-cards checklist",
+        "paragraphs": [
+          "Work the list in order, and stop at the first line that matches your goal. The [PRB-01 vs PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) runs the same shape on the two volumes together."
+        ]
+      }
+    ],
+    "slug": "prb-02-best-cards",
+    "takeaway": [
+      "The PRB-02 top ten, on the November 23, 2026 read, totals $5,964.91, with the Sanji OP06-119 Manga Rare Comic Parallel at $2,338.11. The Sanji is $2,338.11 of it, 39.20% of the list, and nine of the ten ranked cards are Special Cards, while the Gold DON!! cards are ranked separately.",
+      "On our shelf as of November 24, 2026, the Japanese box is $63.60, the Japanese case is $1,266.13 and splits to $63.31 a box, the English box is $157.03, and the English case is $1,474.87 with no box count printed, so no per-box figure exists for it. The Japanese case-split box sits $6.33 a pack against a $7.85 English pack.",
+      "It is worth buying as the set to open, sealed or split, and it is not worth buying as a way to own one named card. Bandai publishes no pull rates, the Sanji alone is 36.76 Japanese boxes, and the American and Japanese markets disagree by $1,485.94 on that card.",
+      "The ladder is steep at the top: the gap from first to second is $1,423.71, the gap from second to third is $15.42, and the top five together are $4,944.16. Four facts the other lists miss are covered on this page: the live shelf, the case division, the DON!! split, and the Sanji cross-market gap.",
+      "Companion guide: the [PRB-01 best cards guide](/blog/prb-01-best-cards/) ranks the first volume's ten best, top ten $12,775.54, with the Chopper Manga at $3,000.00, and the Luffy Manga unpriced on the November 24 read."
     ]
   },
   "preorder-japanese-booster-box-or-wait": {
