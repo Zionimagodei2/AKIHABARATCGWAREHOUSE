@@ -876,7 +876,7 @@ export const POSTS: Record<string, BlogPost> = {
       "The cheapest Lorcana cards on our shelf are the Japanese First Chapter case at $2.35 a pack and Reign of Jafar at $4.83, while The First Chapter in English sits at $18.20 a pack for first-set scarcity. A case is four boxes in English and fifteen in Japanese, so divide the case every time, and never compare a case price to a box price. Hyperia City, the newest set, costs $7.50 a pack, only $0.27 more than the set before it.",
       "Prices move, so treat every number here as stamped: our case prices as of November 7, 2026. When Into the Inkdark arrives in February 2027, re-run the division; the newest-set premium today may not survive contact with the next release.",
       "For the set-by-set ladder, the [best Lorcana booster box guide](/blog/best-disney-lorcana-booster-box-to-buy/) divides every English case the same way, the [best Japanese Lorcana guide](/blog/best-disney-lorcana-japanese/) carries the Japanese case in full, and the [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices the cases themselves. Timing a purchase around a release? Our [pre-order or wait framework](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience.",
-      "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf, Dragon Ball, One Piece, Lorcana, and Pokemon, on one ladder."
+      "New this cycle: the [best way to buy Japanese TCG online](/blog/best-buy-japanese-tcg-online/) ranks the cheapest pack in every game on our shelf, Dragon Ball, One Piece, Lorcana, and Pokemon, on one ladder. How to buy Lorcana online, step by step, is covered in the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/), where the fifteen-case shelf divides from $98.48 to $371.32 a box."
     ]
   },
   "best-buy-one-piece-cards-japanese": {
@@ -8717,7 +8717,7 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The best Japanese Pokemon special set depends on the buyer: Shiny Treasure ex SV4a at $120.05, or $12.01 a pack, for opening; Terastal Festival ex SV8a at $138.82 for the Eeveelution art; Pokemon Card 151 SV2a at $400.52 a box, or $269.83 a box in the case, for holding sealed.",
       "The case is often the real buy: the 151 case saves $1,568.32, the VMAX Climax case saves $1,515.85, and the VSTAR Universe case saves $842.05 against single boxes.",
-      "The market gap runs both ways on our shelf: Shiny Star V is $25.97 below the TCGplayer market price of November 8, 2026, while Eevee Heroes is $180.74 above it and Pokemon GO is $74.66 above it."
+      "The market gap runs both ways on our shelf: Shiny Star V is $25.97 below the TCGplayer market price of November 8, 2026, while Eevee Heroes is $180.74 above it and Pokemon GO is $74.66 above it. What a special set is, and the full six-set price board, is covered in the [Japanese Pokemon special set guide](/blog/japanese-pokemon-special-set/), where the six boxes total $1,035.52."
     ]
   },
   "best-japanese-pokemon-special-set-to-buy": {
@@ -12832,6 +12832,286 @@ export const POSTS: Record<string, BlogPost> = {
       "The seal check before opening is [our guide on how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/), and the card-level fake check on arrival is [our guide on how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/). Both belong on the table beside the parcel, not in a tab you open after the wrap is already off.",
       "The customs line for your country is in its hub: [the Singapore hub](/blog/buying-japanese-tcg-cards-in-singapore/) runs the S$400 GST line, and [the Australia hub](/blog/buying-japanese-tcg-cards-in-australia/) runs the duty and GST line for Australian buyers. [The Netherlands hub](/blog/buying-japanese-tcg-cards-in-netherlands/) runs the duty and 21 percent BTW line, and [the Philippines hub](/blog/buying-japanese-tcg-cards-in-philippines/) runs the de minimis line in pesos.",
       "If you want the One Piece version of this order, [our guide to the One Piece Japanese booster box](/blog/one-piece-japanese-booster-box/) runs the same box in more depth, and [our guide to pre-ordering a Japanese booster box or waiting](/blog/preorder-japanese-booster-box-or-wait/) covers when paying early beats patience. The Japanese Pokemon box itself is covered in [our guide to the Japanese Pokemon booster box](/blog/japanese-pokemon-booster-box/)."
+    ]
+  },
+  "buy-lorcana-cards-online": {
+    "datePublished": "2026-11-25",
+    "faqs": [
+      {
+        "a": "For opening packs, the cheapest box on this shelf is Reign of Jafar at $98.48 a box, or $4.10 a pack, from its $393.93 sealed case as of November 25, 2026, which is $45.28 below the $143.76 list price. For named cards, buy singles: 191 of the 242 Hyperia City printings cost under $1 as singles, per the Zukan catalogue read on November 12, 2026, so a 60-card deck at $1 a card costs $60.00, or $93.00 less than a Hyperia City case-split box at $153.00. This store sells sealed cases only, so a single box means splitting a case with three friends or buying at a local shop.",
+        "q": "What is the cheapest way to buy Lorcana cards online right now?"
+      },
+      {
+        "a": "Sets 9 to 14 are legal as of November 25, 2026: Fabled, Whispers in the Well, Winterspell, Wilds Unknown, Attack of the Vine, and Hyperia City. Sets 1 to 4 rotated out on September 5, 2025, and Sets 5 to 8 rotated out on July 17, 2026. A card reprinted in a legal set stays legal under its reprint, and Infinity Constructed never rotates, so every card ever printed stays legal there. The next rotation is due in summer 2027, when Sets 9 to 12 are the four oldest.",
+        "q": "Which Lorcana sets are still legal in Core Constructed?"
+      },
+      {
+        "a": "No official rate exists, because Ravensburger has published no pull rates for any rarity. The published estimates conflict: about 1 in 48 packs, about 1 in 96 to 100 packs from community poll data, and about 1 in 144 packs, a spread of a factor of three. This guide adopts no rate and runs no chase math, so buy the Enchanted as a single at its named price instead of opening boxes for it.",
+        "q": "What are the odds of pulling an Enchanted card?"
+      }
+    ],
+    "h1": "How to Buy Lorcana Cards Online: The 2026 Guide",
+    "intro": [
+      "Short answer: buy Lorcana cards online in two places, for two different jobs. Buy sealed boxes from a sealed-case seller, and buy named cards as singles from a marketplace. A case-split box on this shelf runs from $98.48 for Reign of Jafar to $371.32 for The First Chapter against a $143.76 list price, while 191 of the 242 Hyperia City printings cost under $1 as singles. This store sells Lorcana as sealed cases only, four English boxes to a case, plus one Japanese First Chapter case at $479.46. No starter decks or loose packs are stocked.",
+      "Who this is for: the buyer choosing between a case, a box, and singles, and the buyer who wants the rotation and fake checks before paying. Who it is not for: anyone who wants a starter deck or loose packs from this shelf, because neither is stocked; and anyone chasing one named Enchanted by opening boxes, because no published pull rate prices that chase."
+    ],
+    "metaDescription": "Buy Lorcana cards online without overpaying: 15 sealed cases divided to per-box and per-pack, sealed vs singles, rotation, fakes, and a checklist.",
+    "metaTitle": "How to Buy Lorcana Cards Online: The 2026 Guide",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: boxes from the case seller, singles from the marketplace",
+        "math": [
+          "Cheapest case-split box: $393.93 / 4 boxes = $98.48 per box; $98.48 / 24 packs = $4.10 per pack",
+          "Dearest case-split box: $1,485.26 / 4 boxes = $371.32 per box; $371.32 / 24 packs = $15.47 per pack",
+          "Official box: 24 packs x $5.99 = $143.76; $143.76 / 24 packs = $5.99 per pack",
+          "Cheapest box vs list: $143.76 - $98.48 = $45.28 below list",
+          "Dearest box vs list: $371.32 - $143.76 = $227.56 above list"
+        ],
+        "note": "From the Warehouse: the question we get most in chat is whether we sell a single box or a single pack. We do not. Every Lorcana listing here is a sealed case, four boxes or fifteen, and the per-box price is a division, not a listing. The buyers who do best are the ones who split a case with three friends and each pay the per-box price, or who buy the case and hold three boxes sealed.",
+        "paragraphs": [
+          "There are two buying jobs, and they go to two different sellers. If the job is opening packs, buy sealed product from a shop that sells sealed cases. If the job is owning a named card, buy the single from a singles marketplace, because a pack is random and a single is the card you asked for. The [Lorcana booster box guide](/blog/lorcana-booster-box) runs the box division, and the [best price board](/blog/best-buy-lorcana-cards-online) ranks the fourteen English cases by per-box price.",
+          "On this shelf the choice is narrow and honest: fifteen sealed cases, fourteen English and one Japanese. An English case holds four boxes of 24 packs, or 96 packs and 1,152 cards. The Japanese case holds fifteen boxes of 16 packs of six cards, or 240 packs and 1,440 cards. There are no starter decks and no loose booster packs here.",
+          "The short version by buyer: a player buys a Core-legal case-split box, Fabled or newer, because Sets 1 to 8 are out of Core Constructed. A collector buys the First Chapter case for the origin set, or Fabled for the rotation set. A buyer on a budget buys Reign of Jafar at $98.48 a box. A buyer who wants one card buys the single and skips sealed product entirely."
+        ]
+      },
+      {
+        "h": "The money layer: the shelf, divided",
+        "math": [
+          "Reign of Jafar case-split box: $393.93 / 4 boxes = $98.48 per box; $98.48 / 24 packs = $4.10 per pack",
+          "Reign of Jafar box vs list: $143.76 - $98.48 = $45.28 below the $143.76 box list",
+          "Azurite Sea case-split box: $405.14 / 4 boxes = $101.29 per box; $101.29 / 24 packs = $4.22 per pack",
+          "Azurite Sea box vs list: $143.76 - $101.29 = $42.48 below the $143.76 box list",
+          "Fabled case-split box: $634.24 / 4 boxes = $158.56 per box; $158.56 / 24 packs = $6.61 per pack",
+          "Fabled box vs list: $158.56 - $143.76 = $14.80 above the $143.76 box list",
+          "Fabled gap over Reign of Jafar: $158.56 - $98.48 = $60.08 per box",
+          "Hyperia City case-split box: $612.00 / 4 boxes = $153.00 per box; $153.00 / 24 packs = $6.38 per pack",
+          "Hyperia City box vs list: $153.00 - $143.76 = $9.24 above the $143.76 box list",
+          "Winterspell case-split box: $1,095.70 / 4 boxes = $273.93 per box; $273.93 / 24 packs = $11.41 per pack",
+          "Winterspell box vs list: $273.93 - $143.76 = $130.17 above the $143.76 box list",
+          "The First Chapter case-split box: $1,485.26 / 4 boxes = $371.32 per box; $371.32 / 24 packs = $15.47 per pack",
+          "The First Chapter box vs list: $371.32 - $143.76 = $227.56 above the $143.76 box list",
+          "The First Chapter case vs Reign of Jafar case: $1,485.26 / $393.93 = 3.77x the cheapest case",
+          "Japanese First Chapter case per box: $479.46 / 15 boxes = $31.96 per box",
+          "Japanese First Chapter case per pack: $479.46 / 15 boxes / 16 packs = $2.00 per pack; $2.00 / 6 cards = $0.33 per card",
+          "Japanese box suggested retail in dollars: 5,280 yen / 159.07 = $33.19 per box; $33.19 - $31.96 = $1.23 below suggested retail per box",
+          "Japanese case suggested retail in dollars: 15 boxes x 5,280 yen = 79,200 yen; 79,200 yen / 159.07 = $497.89; $497.89 - $479.46 = $18.43 below suggested retail",
+          "Japanese box vs English First Chapter box: $371.32 / $31.96 = 11.62x; $371.32 - $31.96 = $339.36 apart",
+          "ECB cross, Nov 24, 2026: 174.39 yen per euro / 1.0963 dollars per euro = 159.07 yen per dollar",
+          "All 14 English cases: $9,679.19 total; $9,679.19 / 14 cases = $691.37 per case; $691.37 / 4 boxes = $172.84 per box",
+          "Core-legal cases, Sets 9 to 14: $4,876.07; rotated cases, Sets 1 to 8: $4,803.12",
+          "Official box: 24 packs x $5.99 = $143.76; official case: 4 boxes x $143.76 = $575.04"
+        ],
+        "paragraphs": [
+          "Seven rows carry the decision; the rest of the shelf follows the same division. The cheapest box is Reign of Jafar at $98.48, then Azurite Sea at $101.29 and Rise of the Floodborn at $107.10. The dearest box is The First Chapter at $371.32, then Winterspell at $273.93 and Wilds Unknown at $269.46. Between them sits the Fabled gap: Fabled at $158.56 against Reign of Jafar at $98.48, or $60.08 a box for the set that started rotation. The newest set, Hyperia City, is $153.00 a box, or $9.24 above list. The [Disney Lorcana booster box price](/blog/disney-lorcana-booster-box-price) page carries the full fourteen-case board.",
+          "The Japanese row is a different product at a different price. The Japanese First Chapter case is $479.46 for fifteen boxes, or $31.96 a box and $2.00 a pack, against a Japanese suggested retail of ¥5,280 a box. At the ECB November 24, 2026 cross of 159.07 yen per dollar, that suggested retail is $33.19 a box, so the shelf case sits $18.43 below its own suggested-retail case of ¥79,200, or $497.89. The English box costs 11.62 times the Japanese box, but it holds 288 cards against 96, so compare per card: $1.29 against $0.33.",
+          "The whole shelf, added up: the fourteen English cases total $9,679.19, an average of $691.37 a case and $172.84 a box. The six Core-legal cases, Sets 9 to 14, total $4,876.07, and the eight rotated cases, Sets 1 to 8, total $4,803.12. Rotation moved the play value, not the whole price: the rotated cases are collector product now, and they still cost real money. The [Reign of Jafar case](/product/disney-lorcana-reign-of-jafar-booster-box-sealed-case-set-8-english) and the [First Chapter case](/product/disney-lorcana-the-first-chapter-booster-box-sealed-case-set-1-english) are the two ends of it. The [sealed case price](/blog/disney-lorcana-sealed-case-price) page carries the case totals."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Case",
+            "Per box",
+            "Per pack",
+            "Against $143.76 list"
+          ],
+          "rows": [
+            [
+              "Reign of Jafar (Set 8)",
+              "$393.93",
+              "$98.48",
+              "$4.10",
+              "$45.28 below"
+            ],
+            [
+              "Azurite Sea (Set 6)",
+              "$405.14",
+              "$101.29",
+              "$4.22",
+              "$42.48 below"
+            ],
+            [
+              "Fabled (Set 9)",
+              "$634.24",
+              "$158.56",
+              "$6.61",
+              "$14.80 above"
+            ],
+            [
+              "Hyperia City (Set 14)",
+              "$612.00",
+              "$153.00",
+              "$6.38",
+              "$9.24 above"
+            ],
+            [
+              "Winterspell (Set 11)",
+              "$1,095.70",
+              "$273.93",
+              "$11.41",
+              "$130.17 above"
+            ],
+            [
+              "The First Chapter (Set 1)",
+              "$1,485.26",
+              "$371.32",
+              "$15.47",
+              "$227.56 above"
+            ],
+            [
+              "Japanese First Chapter",
+              "$479.46",
+              "$31.96",
+              "$2.00",
+              "15 boxes; JP SRP $33.19"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: how an order actually works",
+        "paragraphs": [
+          "Step one is the set, and the set follows the job. Playing in Core Constructed means Sets 9 to 14 only: Fabled, Whispers in the Well, Winterspell, Wilds Unknown, Attack of the Vine, and Hyperia City. Collecting means the First Chapter for the origin set or Fabled for the rotation set. Opening for fun on a budget means Reign of Jafar, the cheapest box on the shelf.",
+          "Step two is the route. On this store, pick the sealed case listing for your set and check the per-box division before you pay: the case price divided by four is the box, and the box divided by 24 is the pack. For singles, search the named card on Cardmarket if you are in Europe or TCGplayer if you are in the United States, filter to the set number and the language, and compare the seller's rating before the price. Check the [best Disney Lorcana booster box to buy](/blog/best-disney-lorcana-booster-box-to-buy) guide before you commit.",
+          "Step three is the shipping quote, and this is where this guide refuses to invent a number. This store ships sealed cases from Japan, and the exact shipping price and delivery time for your country are confirmed at checkout or on WhatsApp at wa.me/818029350455. What arrives is the sealed case as listed. Check the seal on arrival, before you open anything."
+        ]
+      },
+      {
+        "h": "The decision layer: this store vs Cardmarket vs eBay vs your local shop",
+        "paragraphs": [
+          "Read the table from the job, not the price. Sealed boxes want a named shop with a visible case price; named cards want a singles marketplace with seller ratings; a first deck wants a local shop where someone can show you the cards.",
+          "Two rules cover all four channels. First, never pay by Friends and Family, bank transfer, gift card, or crypto for cards, because none of them can be reversed when the card never arrives or arrives fake; pay with PayPal Goods and Services or a credit card. Second, a sealed box listed well under market is a reason to look harder at the seal, the seller, and the photos."
+        ],
+        "table": {
+          "head": [
+            "Channel",
+            "Best for",
+            "Sealed anchor",
+            "Singles",
+            "Protection"
+          ],
+          "rows": [
+            [
+              "This store (Akihabara TCG Warehouse)",
+              "Sealed cases from Japan",
+              "Case-split box $98.48 to $371.32",
+              "No singles stocked",
+              "Named shop, factory-sealed cases"
+            ],
+            [
+              "Cardmarket",
+              "Singles in Europe",
+              "Sealed sold; no price quoted here",
+              "Named cards, seller ratings",
+              "Marketplace buyer protection"
+            ],
+            [
+              "eBay",
+              "Widest selection, singles and sealed",
+              "Varies by seller",
+              "Named cards, auctions and Buy It Now",
+              "Money Back Guarantee"
+            ],
+            [
+              "TCGplayer",
+              "Singles in the United States",
+              "Sealed sold; no price quoted here",
+              "Named cards, seller ratings",
+              "Counterfeit claims process"
+            ],
+            [
+              "Local game shop",
+              "First deck, one box at list",
+              "Box at the $143.76 list price",
+              "Varies by shop",
+              "Face to face, inspect before paying"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Sealed or singles: the division that decides it",
+        "math": [
+          "Hyperia City printings under $1: 191 / 242 printings = 78.93%",
+          "Hyperia City box in $1 singles: $153.00 / $1 = 153 named cards",
+          "60-card deck at $1 a card: 60 x $1 = $60.00; $153.00 - $60.00 = $93.00 less than a Hyperia City box",
+          "Case split, four buyers, Reign of Jafar: $393.93 / 4 buyers = $98.48 each",
+          "Case split, four buyers, Hyperia City: $612.00 / 4 buyers = $153.00 each",
+          "Case split, four buyers, Fabled: $634.24 / 4 buyers = $158.56 each",
+          "Enchanted estimates: 1 in 48 vs 1 in 96 to 100 vs 1 in 144 packs; no official rate published, so no chase math is run"
+        ],
+        "paragraphs": [
+          "The division is simple once the numbers are on the table. A Hyperia City case-split box costs $153.00 and holds 288 cards, of which 191 of the 242 printings in the set cost under $1 as singles, or 78.93 percent of the set, per the Zukan catalogue read on November 12, 2026. If your deck needs 60 named cards and each costs $1, the deck costs $60.00, which is $93.00 less than the box.",
+          "The Enchanted chase is where the division breaks down, because the rate is not settled. Three published estimates disagree: about 1 in 48 packs, about 1 in 96 to 100 packs, and about 1 in 144 packs, and Ravensburger has published no official pull rate for any rarity. With the estimates a factor of three apart, no honest per-Enchanted cost can be computed from a box price, so this guide adopts no rate and runs no chase math.",
+          "The middle route is the case split. Four buyers split a case of four boxes and each pay the per-box price: $98.48 each for Reign of Jafar, $153.00 each for Hyperia City, $158.56 each for Fabled. The [best Disney Lorcana booster pack](/blog/best-disney-lorcana-booster-pack) guide divides the same cases to the pack."
+        ]
+      },
+      {
+        "h": "The risk layer: fakes, reseals, rotation, and the price collapse",
+        "math": [
+          "Rotated cases, Sets 1 to 8: $4,803.12; Core-legal cases, Sets 9 to 14: $4,876.07; $4,876.07 - $4,803.12 = $72.95 apart",
+          "Winterspell box vs Hyperia City box: $273.93 - $153.00 = $120.93 above the newest set"
+        ],
+        "note": "From the Warehouse: the question we get most in chat after a rotation is whether the old cards are worthless now. They are not worthless, they are out of Core: they still play in Infinity Constructed and they still open, and the shelf prices it. The eight rotated cases total $4,803.12 against $4,876.07 for the six Core-legal ones, so the market still pays real money for rotated cardboard. What rotation kills is the tournament reason to buy, not the cards.",
+        "paragraphs": [
+          "Counterfeiters copy the cards worth copying, which means Enchanted and Iconic cards, not commons. Run the checks before you pay: the collector number must sit above the set's standard run and match the art Ravensburger's card gallery shows for that number; the rarity symbol must be the multicoloured shape, not a flat one; the foil must move when you tilt the card, because no Enchanted exists without foil; and the small print must stay sharp under a loupe, because a scanned picture printed again goes blurred, thick, or dotted.",
+          "A resealed box is a real box somebody opened, emptied of its best packs, and closed again with a heat gun and a roll of film. Look for a second seam, film that is loose, cloudy, or shiny with glue, flaps that sit wrong, and a tear strip already broken. Buy packs inside a sealed display or off a shop shelf, never loose from a stranger, because a searched pack shows nothing from the outside. Film the opening and keep the seal intact until you have checked it. The [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal checks, and the [sealed case vs booster box](/blog/sealed-case-vs-booster-box-the-math/) guide runs the case division.",
+          "Rotation is the risk buyers discover too late. Sets 1 to 4 left Core Constructed on September 5, 2025, when Fabled released, and Sets 5 to 8 left on July 17, 2026, when Attack of the Vine reached its prerelease. Core Constructed today is Sets 9 to 14: Fabled, Whispers in the Well, Winterspell, Wilds Unknown, Attack of the Vine, and Hyperia City. Two exceptions: a card reprinted in a legal set stays legal, and Infinity Constructed never rotates. The next rotation is due in summer 2027, when Sets 9 to 12 are the four oldest. Buy a rotated case to collect or to open, never to build a tournament deck.",
+          "Sealed Lorcana prices fall as well as rise. On this shelf the newest set is not the dearest: Hyperia City at $153.00 a box sits below Winterspell at $273.93 and Wilds Unknown at $269.46. If the plan fails, stop opening, hold the case sealed, and buy the named card as a single."
+        ]
+      },
+      {
+        "h": "What the top three results do not answer",
+        "note": "From the Warehouse: buyers arrive with an English singles list and a Japanese case in mind, because the English lists rank first on Google and the Japanese case is the cheapest case on this shelf. The two do not mix: the Japanese First Chapter case is $479.46 for fifteen boxes of six-card packs, while the English First Chapter case is $1,485.26 for four boxes of twelve-card packs. Same set name, different language, different pack, different price, and a buyer who shops off the wrong list overpays or underbids on every card.",
+        "paragraphs": [
+          "The top three results for this query set the floor this page has to clear. The first lists local hobby stores, Target and Walmart, Amazon and eBay, and Ravensburger direct, under headings for each channel. The second walks through which product to buy first, where to buy in the United States, Europe, and Japan, and what the products cost. The third is a complete guide to the game with a where-to-shop section naming shopDisney, Best Buy, Amazon, Target, Walmart, GameStop, Barnes and Noble, and others.",
+          "Five things only this page owns. First, a live shelf divided: fifteen cases to per-box and per-pack, from $98.48 to $371.32 a box, stamped November 25, 2026. Second, the sealed-versus-singles division with the 191-of-242 under-a-dollar count and the $93.00 deck saving. Third, rotation priced: the eight rotated cases against the six Core-legal ones, and which cases to buy for play. Fourth, the English-against-Japanese division, per box and per card, with the ECB cross shown. Fifth, the Enchanted conflict stated plainly, with no rate adopted."
+        ]
+      },
+      {
+        "h": "Context: English against Japanese, and the Japan shelf",
+        "math": [
+          "English card at list: $5.99 / 12 cards = $0.50 per card",
+          "Japanese pack at suggested retail: 330 yen / 159.07 = $2.07 per pack; $2.07 / 6 cards = $0.35 per card",
+          "Japanese pack on this shelf: $2.00 / 6 cards = $0.33 per card",
+          "English First Chapter pack on this shelf: $15.47 / 12 cards = $1.29 per card",
+          "English First Chapter box in cards: 24 packs x 12 cards = 288 cards; Japanese First Chapter box in cards: 16 packs x 6 cards = 96 cards"
+        ],
+        "paragraphs": [
+          "The two editions are different products. English packs hold 12 cards, six commons, three uncommons, two rare-or-higher, and one foil, at $5.99 a pack and $143.76 for a box of 24. Japanese packs hold six cards at ¥330 a pack, and a Japanese box holds 16 packs at ¥5,280, per Takara Tomy's August 29, 2024 release notice. Japanese First Chapter reached Japan on January 25, 2025, about seventeen months after the English release.",
+          "The per-card division is where the editions meet. An English card at list costs $5.99 divided by 12, or $0.50. A Japanese card at suggested retail costs ¥330 divided by 159.07, or $2.07 a pack, divided by six cards, or $0.35. On this shelf the Japanese pack costs $2.00, or $0.33 a card, against the English First Chapter pack at $15.47, or $1.29 a card.",
+          "The Japan shelf here is one case deep. Only the Japanese First Chapter case is listed, at $479.46 for fifteen boxes, and no Japanese case exists here for Sets 2 to 14. A buyer who wants Japanese cards beyond First Chapter has no case on this shelf today, and a buyer who wants English cards has fourteen cases to choose from. The [best Disney Lorcana Japanese](/blog/best-disney-lorcana-japanese) guide covers the Japanese edition in full."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a starter deck or loose packs from this shelf, because neither is stocked here. It is not for anyone chasing one named Enchanted by opening boxes, because the published pull estimates disagree by a factor of three and no rate is adopted here. It is not for anyone who needs a single box at the $143.76 list price, because this shelf sells cases only; buy that box at a local shop. It is not for anyone building a Core Constructed deck from Sets 1 to 8, because those sets rotated out in 2025 and 2026. It is not for anyone collecting Japanese sets beyond First Chapter."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: play, collect, open for fun, or own one named card.",
+          "If the job is play, buy a Core-legal set, Sets 9 to 14, and check the set number before you pay, because Sets 1 to 8 rotated out of Core Constructed.",
+          "If the job is one box, remember this shelf sells cases only: a Reign of Jafar case is $393.93 for four boxes, or $98.48 a box, so split it with three friends or buy the case.",
+          "If the job is a named card, buy the single: 191 of the 242 Hyperia City printings cost under $1 as singles, per the Zukan catalogue read on November 12, 2026.",
+          "If the job is the Enchanted chase, buy the Enchanted as a single, because the published pull estimates disagree, 1 in 48, 1 in 96 to 100, and 1 in 144, and no rate is official.",
+          "If the job is Japanese, check the language and the pack size first: the Japanese First Chapter case is $479.46 for 15 boxes of 16 packs of 6 cards, or $31.96 a box.",
+          "Check the seal on arrival: a second seam, loose or cloudy film, or a broken tear strip means photograph it before you open anything.",
+          "Confirm the exact shipping quote at checkout or on WhatsApp, wa.me/818029350455, before you pay, because shipping is quoted per order, not listed here."
+        ],
+        "h": "Action layer: the copy-paste checklist",
+        "paragraphs": [
+          "Carry this list, in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 25, 2026, so re-divide before you pay if it has moved again."
+        ]
+      }
+    ],
+    "slug": "buy-lorcana-cards-online",
+    "takeaway": [
+      "Buy Lorcana cards online in two places, for two jobs: sealed boxes from a sealed-case seller, named cards as singles from a marketplace. On this shelf a case-split box runs from $98.48 for Reign of Jafar to $371.32 for The First Chapter against a $143.76 list price, and the Japanese First Chapter case is $479.46 for fifteen boxes, or $31.96 a box. The store stocks no starter decks and no loose packs, so buy those elsewhere.",
+      "It is worth buying sealed when the job is opening packs or holding a case, and it is worth buying singles when the job is a named card: 191 of the 242 Hyperia City printings cost under $1, so a 60-card deck at $1 a card costs $60.00, or $93.00 less than a Hyperia City box. It is not worth opening boxes to chase one Enchanted, because the published pull estimates disagree by a factor of three and no rate is official.",
+      "It is worth buying with rotation in mind: Sets 9 to 14 are Core-legal, Sets 1 to 8 are not, and the eight rotated cases total $4,803.12 against $4,876.07 for the six legal ones. Check the seal before you open anything, never pay by Friends and Family, and confirm the exact shipping quote at checkout or on WhatsApp before you pay.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 25, 2026, the Zukan catalogue read of November 12, 2026, and the ECB cross of November 24, 2026 at 159.07 yen per dollar. For the price-board companions, the [Disney Lorcana booster box price](/blog/disney-lorcana-booster-box-price) page carries the full fourteen-case board, and the [best-buy Lorcana cards online](/blog/best-buy-lorcana-cards-online) page ranks the cases by per-box price."
     ]
   },
   "buy-pokemon-booster-box-australia-gst-included": {
@@ -42934,6 +43214,331 @@ export const POSTS: Record<string, BlogPost> = {
       "The market beats our case on SV8a by $0.26 a box and our case beats the market on SV4a by $32.83 a box, both on TCGplayer market boxes dated November 23, 2026. The [Japanese Pokemon sealed case guide](/blog/japanese-pokemon-sealed-case/) explains the case, and the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) prices every box. Re-run the division on the day you pay."
     ]
   },
+  "japanese-pokemon-special-set": {
+    "datePublished": "2026-11-25",
+    "faqs": [
+      {
+        "a": "A Japanese Pokemon special set is a themed booster box built around one idea, a shiny pool, one region, or one anniversary, and it is not a main expansion. The code gives it away: special sets carry a lettered code such as SV2a, SV4a, SV6a, SV8a, SV11B, and SV11W, while main expansions carry a plain code such as SV6 or SV8. The six special sets on this shelf are Pokemon Card 151 (June 16, 2023), Shiny Treasure ex (December 1, 2023), Night Wanderer (June 7, 2024), Terastal Festival ex (December 6, 2024), and Black Bolt with White Flare (June 6, 2025).",
+        "q": "What is a Japanese Pokemon special set?"
+      },
+      {
+        "a": "Night Wanderer, by a wide margin. The SV6a box is $77.87 on this shelf as of November 25, 2026, which divides to $2.60 a pack and $0.52 a card across 30 packs of 5 cards, and the sealed case of 12 boxes is $767.13, which divides to $63.93 a box and $2.13 a pack. The set is only 94 cards, so one box of 150 cards covers the main set twice over. The next cheapest pack on the board is the White Flare case at $3.16 a pack, and the dearest is the Pokemon Card 151 box at $20.03 a pack.",
+        "q": "Which Japanese Pokemon special set is cheapest to open?"
+      },
+      {
+        "a": "Only if the four guaranteed Art Rares are worth $25.34 to you. The Black Bolt Deluxe box is $181.04 against $155.70 for the regular box, a gap of $25.34, or 16.27 percent, and it holds the same 140 cards: 4 packs of 35 cards against 20 packs of 7 cards. Each Deluxe pack guarantees one card of Art Rare or better, so the guarantee is priced at $6.34 per Art Rare. The Deluxe pack divides to $45.26 a pack and $1.29 a card, against $7.79 a pack and $1.11 a card for the regular box. Buy the regular box to open, and buy the Deluxe box only when four named Art Rares cost more than $25.34 above the regular box.",
+        "q": "Is the Deluxe Black Bolt box worth $25.34 more than the regular box?"
+      }
+    ],
+    "h1": "Japanese Pokemon Special Set: What It Is, Priced",
+    "intro": [
+      "A Japanese Pokemon special set is a themed booster box built around one idea, a shiny pool, one region, or one anniversary, and it is not a main expansion. The six special sets on this shelf run from $77.87 for Night Wanderer to $400.52 for Pokemon Card 151, and the sealed cases divide to between $63.19 and $269.83 a box. Buy the box to open the theme, the case to cut the per-pack price, and the Deluxe box only for its guaranteed Art Rare per pack.",
+      "Who this is for: the buyer choosing between six special-set boxes on one shelf, and the collector who wants the definition before paying. Who it is not for: anyone shopping for a main expansion, anyone who wants a ranked list (that ranking lives in our best special set guide), and anyone who wants English prices, because every price here is the Japanese box on this shelf."
+    ],
+    "metaDescription": "A Japanese Pokemon special set is a theme box, not a main expansion. Six boxes on this shelf run $77.87 to $400.52, every per-pack price divided.",
+    "metaTitle": "Japanese Pokemon Special Set: What It Is, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: a theme box, not a main expansion",
+        "math": [
+          "ECB cross, Nov 24, 2026: 174.39 yen per euro / 1.0963 dollars per euro = 159.07 yen per dollar",
+          "Official box, Pokemon Card 151: 20 packs x 290 yen = 5,800 yen; 5,800 yen / 159.07 = $36.46",
+          "Official box, Shiny Treasure ex: 10 packs x 550 yen = 5,500 yen; 5,500 yen / 159.07 = $34.58",
+          "Official box, Night Wanderer: 30 packs x 180 yen = 5,400 yen; 5,400 yen / 159.07 = $33.95",
+          "Official box, Terastal Festival ex: 10 packs x 550 yen = 5,500 yen; 5,500 yen / 159.07 = $34.58",
+          "Official box, Black Bolt and White Flare: 20 packs x 290 yen = 5,800 yen; 5,800 yen / 159.07 = $36.46",
+          "Official Deluxe box: 4 packs x 1,450 yen = 5,800 yen; 5,800 yen / 159.07 = $36.46",
+          "Official Card Set: 2,640 yen / 159.07 = $16.60"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about special sets is whether the box is a main set box with a different name, and the answer is no, because the pack count changes the whole purchase. A buyer who expects 30 packs opens a Shiny Treasure ex box and finds 10, and a buyer who expects 10-card packs opens a Night Wanderer box and finds 5-card packs. What we see in allocation is that the two High Class Packs sell out first at year end, because every pack guarantees a Pokemon ex, and the Deluxe boxes move next, because the guaranteed Art Rare is printed on the pack. Check the pack count on the listing before you pay, because it is the format.",
+        "paragraphs": [
+          "The Pokemon Company builds its Japanese calendar from two kinds of booster product. A main expansion is the season anchor, a full set of 100 or more cards, shipping in boxes of 30 packs of 5 cards. A special set is the themed release beside it: a smaller card pool built around one idea, in a box shaped for that theme. The code gives it away: main expansions carry a plain code such as SV6 or SV8, while the special sets on this shelf carry a code with a letter at the end: SV2a, SV4a, SV6a, SV8a, SV11B, and SV11W.",
+          "The theme is the set. Pokemon Card 151 (SV2a) covers the original 151 Kanto Pokemon in Pokedex order. Shiny Treasure ex (SV4a) is the year-end High Class Pack where every pack holds a shiny Pokemon. Night Wanderer (SV6a) is the 94-card Pecharunt set built around the Loyal Three. Terastal Festival ex (SV8a) is the year-end High Class Pack built around the Eeveelutions. Black Bolt (SV11B) and White Flare (SV11W) close the Scarlet and Violet era with all 156 Unova Pokemon, one Zekrom, one Reshiram. None of them is a main expansion, and a 94-card set and a 360-card set are different purchases at the same box price.",
+          "The pack tells you the format before you open it. A High Class Pack holds 10 packs of 10 cards, a Pokemon Card 151 or Black Bolt box holds 20 packs of 7 cards, and a Night Wanderer box holds 30 packs of 5 cards. The Deluxe box is a fourth shape: 4 packs of 35 cards, with one Art Rare guaranteed in every pack. The [best Japanese Pokemon special set guide](/blog/best-japanese-pokemon-special-set/) ranks these six by value; this guide defines them and prices every variant on the shelf."
+        ]
+      },
+      {
+        "h": "The money layer: the full price board, divided",
+        "math": [
+          "Six boxes total: $400.52 + $120.05 + $77.87 + $138.82 + $155.70 + $142.56 = $1,035.52",
+          "Six boxes, packs and cards: 20 + 10 + 30 + 10 + 20 + 20 = 110 packs; 140 + 100 + 150 + 100 + 140 + 140 = 770 cards",
+          "Board per pack: $1,035.52 / 110 packs = $9.41 per pack",
+          "Board per card: $1,035.52 / 770 cards = $1.34 per card",
+          "SV2a box per pack: $400.52 / 20 packs = $20.03 per pack",
+          "SV2a box per card: $400.52 / 140 cards = $2.86 per card",
+          "SV2a case per box: $3,237.92 / 12 boxes = $269.83 per box",
+          "SV2a case per pack: $3,237.92 / 240 packs = $13.49 per pack",
+          "SV2a case saving: 12 x $400.52 = $4,806.24; $4,806.24 - $3,237.92 = $1,568.32",
+          "SV4a box per pack: $120.05 / 10 packs = $12.01 per pack",
+          "SV4a box per card: $120.05 / 100 cards = $1.20 per card",
+          "SV4a case per box: $1,960.19 / 20 boxes = $98.01 per box",
+          "SV4a case per pack: $1,960.19 / 200 packs = $9.80 per pack",
+          "SV4a case saving: 20 x $120.05 = $2,401.00; $2,401.00 - $1,960.19 = $440.81",
+          "SV6a box per pack: $77.87 / 30 packs = $2.60 per pack",
+          "SV6a box per card: $77.87 / 150 cards = $0.52 per card",
+          "SV6a case per box: $767.13 / 12 boxes = $63.93 per box",
+          "SV6a case per pack: $767.13 / 360 packs = $2.13 per pack",
+          "SV6a case saving: 12 x $77.87 = $934.44; $934.44 - $767.13 = $167.31",
+          "SV8a box per pack: $138.82 / 10 packs = $13.88 per pack",
+          "SV8a box per card: $138.82 / 100 cards = $1.39 per card",
+          "SV8a case per box: $2,314.69 / 20 boxes = $115.73 per box",
+          "SV8a case per pack: $2,314.69 / 200 packs = $11.57 per pack",
+          "SV8a case saving: 20 x $138.82 = $2,776.40; $2,776.40 - $2,314.69 = $461.71",
+          "SV11B box per pack: $155.70 / 20 packs = $7.79 per pack",
+          "SV11B box per card: $155.70 / 140 cards = $1.11 per card",
+          "SV11B case per box: $842.97 / 12 boxes = $70.25 per box",
+          "SV11B case per pack: $842.97 / 240 packs = $3.51 per pack",
+          "SV11B case saving: 12 x $155.70 = $1,868.40; $1,868.40 - $842.97 = $1,025.43",
+          "SV11W box per pack: $142.56 / 20 packs = $7.13 per pack",
+          "SV11W box per card: $142.56 / 140 cards = $1.02 per card",
+          "SV11W case per box: $758.30 / 12 boxes = $63.19 per box",
+          "SV11W case per pack: $758.30 / 240 packs = $3.16 per pack",
+          "SV11W case saving: 12 x $142.56 = $1,710.72; $1,710.72 - $758.30 = $952.42",
+          "Six cases total: $3,237.92 + $1,960.19 + $767.13 + $2,314.69 + $842.97 + $758.30 = $9,881.20"
+        ],
+        "paragraphs": [
+          "Every price below is the Warehouse shelf price as of November 25, 2026, with every division shown. The six boxes total $1,035.52, across 110 packs and 770 cards, which is $9.41 a pack and $1.34 a card for the whole board. The dearest pack is the Pokemon Card 151 box at $20.03, and the cheapest is the Night Wanderer case at $2.13, so the board spans a factor of more than nine.",
+          "Read the table from the per-pack column, because that column decides an opening purchase. The two High Class Packs look close on the box price, $120.05 against $138.82, and they divide to $12.01 and $13.88 a pack. Black Bolt and White Flare look close too at $155.70 against $142.56, dividing to $7.79 and $7.13 a pack. Night Wanderer is the outlier: $77.87 a box divides to $2.60 a pack and $0.52 a card, the cheapest pack and card on the board by a wide margin.",
+          "The case column is where the board changes shape. All six sets stock a sealed case, including Pokemon Card 151, whose case of 12 boxes is $3,237.92 and divides to $269.83 a box. The case saving runs from $167.31 on Night Wanderer to $1,568.32 on Pokemon Card 151, and the two Unova cases save more than half: Black Bolt saves $1,025.43, or 54.88 percent, and White Flare saves $952.42, or 55.67 percent. The [sealed case versus booster box guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Box",
+            "Packs x cards",
+            "Per pack",
+            "Per card",
+            "Case",
+            "Per box in case",
+            "Saving vs singles"
+          ],
+          "rows": [
+            [
+              "SV2a Pokemon Card 151",
+              "$400.52",
+              "20 x 7",
+              "$20.03",
+              "$2.86",
+              "$3,237.92 (12)",
+              "$269.83",
+              "$1,568.32"
+            ],
+            [
+              "SV4a Shiny Treasure ex",
+              "$120.05",
+              "10 x 10",
+              "$12.01",
+              "$1.20",
+              "$1,960.19 (20)",
+              "$98.01",
+              "$440.81"
+            ],
+            [
+              "SV6a Night Wanderer",
+              "$77.87",
+              "30 x 5",
+              "$2.60",
+              "$0.52",
+              "$767.13 (12)",
+              "$63.93",
+              "$167.31"
+            ],
+            [
+              "SV8a Terastal Festival ex",
+              "$138.82",
+              "10 x 10",
+              "$13.88",
+              "$1.39",
+              "$2,314.69 (20)",
+              "$115.73",
+              "$461.71"
+            ],
+            [
+              "SV11B Black Bolt",
+              "$155.70",
+              "20 x 7",
+              "$7.79",
+              "$1.11",
+              "$842.97 (12)",
+              "$70.25",
+              "$1,025.43"
+            ],
+            [
+              "SV11W White Flare",
+              "$142.56",
+              "20 x 7",
+              "$7.13",
+              "$1.02",
+              "$758.30 (12)",
+              "$63.19",
+              "$952.42"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The practical layer: codes, packs, and how to read the box",
+        "math": [
+          "SV2a official box vs shelf: $400.52 - $36.46 = $364.06 above official; $400.52 / $36.46 = 10.99x official",
+          "SV4a official box vs shelf: $120.05 - $34.58 = $85.47 above official; $120.05 / $34.58 = 3.47x official",
+          "SV6a official box vs shelf: $77.87 - $33.95 = $43.92 above official; $77.87 / $33.95 = 2.29x official",
+          "SV8a official box vs shelf: $138.82 - $34.58 = $104.24 above official; $138.82 / $34.58 = 4.01x official",
+          "SV11B official box vs shelf: $155.70 - $36.46 = $119.24 above official; $155.70 / $36.46 = 4.27x official",
+          "SV11W official box vs shelf: $142.56 - $36.46 = $106.10 above official; $142.56 / $36.46 = 3.91x official",
+          "SV11B Deluxe gap: $181.04 - $155.70 = $25.34; $25.34 / $155.70 = 16.27% above regular",
+          "SV11W Deluxe gap: $167.90 - $142.56 = $25.34; $25.34 / $142.56 = 17.77% above regular",
+          "SV11B Deluxe per pack: $181.04 / 4 packs = $45.26 per Deluxe pack",
+          "SV11B Deluxe per card: $181.04 / 140 cards = $1.29 per card",
+          "SV11W Deluxe per pack: $167.90 / 4 packs = $41.98 per Deluxe pack",
+          "SV11W Deluxe per card: $167.90 / 140 cards = $1.20 per card",
+          "Card Set per pack: $33.18 / 6 packs = $5.53 per pack",
+          "Card Set vs official: $33.18 / $16.60 = 2.00x official",
+          "SV11B vs SV11W box gap: $155.70 - $142.56 = $13.14; $13.14 / $142.56 = 9.22% above White Flare",
+          "SV2a vs SV6a box ratio: $400.52 / $77.87 = 5.14x the cheapest box"
+        ],
+        "paragraphs": [
+          "Shop by set code, not by nickname. SV2a is Pokemon Card 151, released in Japan on June 16, 2023, with 210 cards, 165 base and 45 secret. SV4a is Shiny Treasure ex, released December 1, 2023, with 360 cards, 190 base and 170 secret. SV6a is Night Wanderer, released June 7, 2024, with 94 cards, 64 base and 30 secret. SV8a is Terastal Festival ex, released December 6, 2024, with 237 cards in the main catalogue. SV11B is Black Bolt and SV11W is White Flare, released together on June 6, 2025, with 86 base cards each plus secrets.",
+          "The official box price is the pack price times the pack count. A Pokemon Card 151 box is 20 packs at 290 yen, or 5,800 yen; Shiny Treasure ex is 10 packs at 550 yen, or 5,500 yen; Night Wanderer is 30 packs at 180 yen, or 5,400 yen; Terastal Festival ex is 10 packs at 550 yen, or 5,500 yen; Black Bolt or White Flare is 20 packs at 290 yen, or 5,800 yen. At the ECB cross of 159.07 yen per dollar on November 24, 2026, those convert to $36.46, $34.58, $33.95, $34.58, and $36.46, and the shelf boxes sit at 2.29 to 10.99 times official.",
+          "The Deluxe box is easy to misread. A Deluxe box holds 4 packs of 35 cards, the same 140 cards as a regular Black Bolt or White Flare box, and each Deluxe pack guarantees one card of Art Rare or better. The official Deluxe pack is 1,450 yen, so the official Deluxe box is also 5,800 yen. On this shelf the Deluxe boxes cost more: Black Bolt Deluxe is $181.04 against $155.70 regular, and White Flare Deluxe is $167.90 against $142.56 regular, a gap of $25.34 on both. The [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) compares the two Unova sets card by card.",
+          "The Card Set is the cheapest way into the Unova pair. The [SV11B and SV11W Card Set](/product/sv11b-sv11w-black-bolt-white-flare-card-set-japanese-pokemon-card/) is $33.18 and holds a 3-pocket card file album, a holo Victini promo, and 3 packs each of Black Bolt and White Flare. That is 6 packs for $33.18, or $5.53 a pack if the file and the promo are counted as free, against $7.79 and $7.13 a pack from the boxes. It will not build a set, but it is the lowest-priced sealed Unova product on the shelf."
+        ]
+      },
+      {
+        "h": "The decision layer: opening, collecting, or holding sealed",
+        "math": [
+          "SV11B case saving share: $1,025.43 / $1,868.40 = 54.88%",
+          "SV11W case saving share: $952.42 / $1,710.72 = 55.67%",
+          "SV2a case saving share: $1,568.32 / $4,806.24 = 32.63%",
+          "SV4a case saving share: $440.81 / $2,401.00 = 18.36%",
+          "SV6a case saving share: $167.31 / $934.44 = 17.90%",
+          "SV8a case saving share: $461.71 / $2,776.40 = 16.63%",
+          "Deluxe guarantee price: $25.34 / 4 Art Rares = $6.34 per guaranteed Art Rare",
+          "SV4a box coverage: 100 cards / 360 cards = 27.78% of the set",
+          "SV6a box coverage: 150 cards / 94 cards = 1.60x the set",
+          "SV8a box coverage: 100 cards / 237 cards = 42.19% of the set",
+          "SV2a box coverage: 140 cards / 210 cards = 66.67% of the set"
+        ],
+        "paragraphs": [
+          "Three jobs, three answers, and the wrong answer is buying the dearest box for the cheapest job. Opening means buying packs and accepting the cards that come out. Collecting means buying the named cards as singles, and using the box only for cards that cannot be bought singly. Holding sealed means buying the case, keeping the seal intact, and letting the set age. The table prices each job for each set, and the numbers, not the theme, should pick the row.",
+          "For opening, Night Wanderer is the cheapest ticket at $2.60 a pack from a box and $2.13 from a case, and its 94-card set means one box of 150 cards covers the main set twice over. For collecting, the High Class Packs fight the singles hardest: a Shiny Treasure ex box is $120.05 for 100 cards from a 360-card set, so one box covers 27.78 percent of the set, and a Terastal Festival ex box is $138.82 for 100 cards from a 237-card set. For holding sealed, the case is the whole decision: the Black Bolt case saves $1,025.43 and the White Flare case saves $952.42, the two largest percentage savings, while the Pokemon Card 151 case saves the most dollars at $1,568.32. The [Japanese cards investment guide](/blog/are-japanese-pokemon-cards-a-good-investment/) works through the hold-or-sell question."
+        ],
+        "table": {
+          "head": [
+            "Set",
+            "Open one box",
+            "Open a case, per box",
+            "Collect the set",
+            "Hold sealed"
+          ],
+          "rows": [
+            [
+              "SV2a Pokemon Card 151",
+              "$400.52 box, $20.03 a pack",
+              "$269.83 a box, $13.49 a pack",
+              "Box covers 66.67% of 210 cards",
+              "Case saves $1,568.32, 32.63%"
+            ],
+            [
+              "SV4a Shiny Treasure ex",
+              "$120.05 box, $12.01 a pack",
+              "$98.01 a box, $9.80 a pack",
+              "Box covers 27.78% of 360 cards",
+              "Case saves $440.81, 18.36%"
+            ],
+            [
+              "SV6a Night Wanderer",
+              "$77.87 box, $2.60 a pack",
+              "$63.93 a box, $2.13 a pack",
+              "Box covers the 94-card set 1.60x",
+              "Case saves $167.31, 17.90%"
+            ],
+            [
+              "SV8a Terastal Festival ex",
+              "$138.82 box, $13.88 a pack",
+              "$115.73 a box, $11.57 a pack",
+              "Box covers 42.19% of 237 cards",
+              "Case saves $461.71, 16.63%"
+            ],
+            [
+              "SV11B Black Bolt",
+              "$155.70 box, $7.79 a pack",
+              "$70.25 a box, $3.51 a pack",
+              "Buy singles, box for the theme",
+              "Case saves $1,025.43, 54.88%"
+            ],
+            [
+              "SV11W White Flare",
+              "$142.56 box, $7.13 a pack",
+              "$63.19 a box, $3.16 a pack",
+              "Buy singles, box for the theme",
+              "Case saves $952.42, 55.67%"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top three results do not answer",
+        "note": "From the Warehouse: what we see in allocation is that buyers arrive asking for a special set by its English name and leave with the wrong box, because the English names collapse two different Japanese products into one. Paldean Fates is the English name for Shiny Treasure ex, and Prismatic Evolutions is the English name for Terastal Festival ex, but the English boxes hold different pack counts and different card pools, and the English prices do not transfer. The second pattern we see is buyers asking for the Deluxe box when they mean the regular box, because both are called a Black Bolt box in chat. The fix is the code and the pack count: SV11B regular is 20 packs of 7, SV11B Deluxe is 4 packs of 35, and the price gap is $25.34.",
+        "paragraphs": [
+          "The top three Google results for this query set the floor, and the floor is low. The first is a product page for the Special Deck Set MEGA, a three-deck product released November 13, 2026, headed the facts at a glance and what is in the box. The second is the Bulbapedia page for the ex Special Set, a 7-card product from May 19, 2023, under headings for information and the card list. The third is a retailer page for the M6a 30th Celebrations box, under headings for what is inside the box and highlights. None of the three defines what a special set is, prices more than one product, or compares a special set with a main expansion.",
+          "Five things only this page owns. First, the definition with the code test: a special set carries a lettered code, SV2a through SV11W, and a main expansion does not. Second, the full price board for the six special sets on this shelf, with every box, case, and Deluxe variant divided to the pack. Third, the case savings for all six sets, from $167.31 to $1,568.32. Fourth, the Deluxe gap: $25.34 on both Unova sets, with the same 140 cards inside. Fifth, the official-price comparison at the ECB cross of 159.07 yen per dollar, showing the shelf boxes at 2.29 to 10.99 times official. The [SV2a buyers guide](/blog/sv2a-pokemon-151-buyers-guide/) carries the Pokemon Card 151 case, and the [SV4a buyers guide](/blog/sv4a-shiny-treasure-ex-buyers-guide/) carries the Shiny Treasure ex box."
+        ]
+      },
+      {
+        "h": "The risk layer: what can go wrong",
+        "math": [
+          "SV2a premium in dollars: $400.52 - $36.46 = $364.06 above official",
+          "SV2a premium ratio: $400.52 / $36.46 = 10.99x official",
+          "SV2a case vs single box: $400.52 - $269.83 = $130.69 less per box inside the case",
+          "SV6a box vs official: $77.87 - $33.95 = $43.92 above official",
+          "SV8a box vs official: $138.82 - $34.58 = $104.24 above official",
+          "Deluxe guarantee price: $25.34 / 4 Art Rares = $6.34 per guaranteed Art Rare"
+        ],
+        "paragraphs": [
+          "The first risk is the Pokemon Card 151 premium. The box is $400.52 against an official $36.46, which is 10.99 times official and $364.06 above it, the widest gap on the board by far. That premium bets the 151 theme keeps its demand, and it is the most exposed to a reprint or a demand shift. The case softens it to $269.83 a box, $130.69 less per box.",
+          "The second risk is the High Class Pack shape. Ten packs is a short opening, and a 360-card set means one Shiny Treasure ex box covers 100 cards out of 360, so the box cannot build the set. The third risk is the secret-tier slide: chase cards fall after release while the sealed box holds, so paying the box price for the chase is the expensive route. The fourth risk is the reseal: check the shrink-wrap and keep the seal intact, because a reseal claim is only provable while the seal is unbroken. If the plan fails, stop opening and buy the named card as a single. The [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal checks, and the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) covers the hold.",
+          "The fifth risk is buying the Deluxe box for the wrong reason. The Deluxe box guarantees one Art Rare per pack, four in the box, but it holds the same 140 cards as the regular box and costs $25.34 more, so the guarantee is priced at $6.34 per Art Rare. Price the singles first, because the guarantee is only worth it if four named Art Rares cost more than $25.34 above the regular box. The [rarity symbols guide](/blog/japanese-pokemon-rarity-symbols-explained/) explains the Art Rare mark."
+        ]
+      },
+      {
+        "h": "Context: Japan against the rest of the world",
+        "paragraphs": [
+          "Japan gets the special set first, and the rest of the world gets it later, folded into a different product. Shiny Treasure ex reached Japan on December 1, 2023 and English as Paldean Fates on January 26, 2024; Night Wanderer on June 7, 2024 and English as Shrouded Fable on August 2, 2024; Terastal Festival ex on December 6, 2024 and English as Prismatic Evolutions on January 17, 2025; Black Bolt and White Flare on June 6, 2025 and English on July 18, 2025. The gap runs from six weeks to two months, and the English product is never the same shape: different pack counts, different card counts, and no Deluxe box.",
+          "The language changes the legality too. Japanese cards are not legal in English-format tournaments outside Japan, so a set bought for play needs the English print, and a set bought for collecting needs the Japanese print, because the chase cards and the prices follow the print, not the art. The card numbers change as well: the same card carries a different number in each language, so shop by set code and card number together, never by name alone. The [SV6a buyers guide](/blog/sv6a-night-wanderer-buyers-guide/) and the [SV8a buyers guide](/blog/sv8a-terastal-festival-ex-buyers-guide/) carry the English-twin dates."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a main expansion, because the six sets here are themed releases, and the main-expansion boxes are priced in the sealed case guide. It is not for anyone who wants a ranking of the best special set, because that ranking lives in the best special set guide. It is not for anyone who wants to chase one card by opening boxes, because no pull rate is published for any of these six sets. It is not for anyone who needs the Pokemon Card 151 premium to hold, because $400.52 against an official $36.46 is the widest gap on the board. It is not for anyone who wants English prices."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open, collect, or hold sealed, because the job picks the row in the decision table.",
+          "If the job is opening, check the pack count first: 20 packs of 7 for Pokemon Card 151, Black Bolt, and White Flare; 10 packs of 10 for Shiny Treasure ex and Terastal Festival ex; 30 packs of 5 for Night Wanderer.",
+          "If the job is a case, divide it before you pay: the Black Bolt case is $70.25 a box and the White Flare case is $63.19 a box, the two largest percentage savings on the board.",
+          "If the job is the Deluxe box, check the gap: $25.34 above the regular box on both Unova sets, for 4 packs of 35 cards with one Art Rare guaranteed in each.",
+          "If the job is the cheapest ticket, buy Night Wanderer at $77.87 a box, $2.60 a pack, or $63.93 a box inside the case.",
+          "If the job is Pokemon Card 151, buy the case at $269.83 a box before you buy a single box at $400.52, because the case saves $1,568.32 against twelve singles.",
+          "If the job is the Unova pair on a small budget, buy the Card Set at $33.18, 6 packs plus the file and the Victini promo.",
+          "Check the wrap and seams before you pay, and shop by set code and card number, never by name alone."
+        ],
+        "h": "Action layer: the special-set checklist",
+        "paragraphs": [
+          "Carry this list, and the purchase stays a decision. Every price here is stamped November 25, 2026, from the live store on that date, and the ECB cross is 159.07 yen per dollar on November 24, 2026, so re-divide before you pay. The exact shipping quote for your country is confirmed at checkout or on WhatsApp at wa.me/818029350455, because the store does not publish flat shipping prices."
+        ]
+      }
+    ],
+    "slug": "japanese-pokemon-special-set",
+    "takeaway": [
+      "A Japanese Pokemon special set is a themed booster box, not a main expansion, and the code gives it away: SV2a, SV4a, SV6a, SV8a, SV11B, and SV11W carry a letter, while main expansions do not. The six sets on this shelf run from $77.87 for Night Wanderer to $400.52 for Pokemon Card 151, and the six boxes together total $1,035.52 across 110 packs and 770 cards, or $9.41 a pack and $1.34 a card.",
+      "It is worth buying by the job, not the theme. Night Wanderer is the cheapest opening ticket at $2.60 a pack, the High Class Packs are the worst boxes for building a set at 27.78 and 42.19 percent coverage, and the cases are the whole decision for holding sealed: Black Bolt saves 54.88 percent and White Flare saves 55.67 percent, while Pokemon Card 151 saves the most dollars at $1,568.32.",
+      "It is worth buying with the Deluxe gap in mind: $25.34 above the regular box on both Unova sets, for the same 140 cards in 4 packs of 35, with one Art Rare guaranteed per pack, which prices the guarantee at $6.34 per Art Rare. The Card Set at $33.18 is the cheapest sealed way into the Unova pair, at $5.53 a pack before the file and the promo are counted.",
+      "Prices move, so treat every number here as stamped: our shelf prices as of November 25, 2026, and the ECB cross of 159.07 yen per dollar on November 24, 2026. For the ranking companion, the [best Japanese Pokemon special set guide](/blog/best-japanese-pokemon-special-set/) ranks these six by value, and the [SV11B buyers guide](/blog/sv11b-black-bolt-buyers-guide/) and [SV11W buyers guide](/blog/sv11w-white-flare-buyers-guide/) carry the two Unova sets in full."
+    ]
+  },
   "japanese-pokemon-starter-deck-price": {
     "datePublished": "2026-11-15",
     "faqs": [
@@ -43809,7 +44414,7 @@ export const POSTS: Record<string, BlogPost> = {
       "No box guarantees an Enchanted card. The largest-sample polls put one near every 96 to 100 packs, an expected 0.25 per box, and the median Enchanted is $92.03 against a median Iconic of $1,493.85.",
       "Sets 1 through 8 are out of Core Constructed, so buy those cases to collect or open, not to play. Sets 9 through 14 are the Core-legal sets.",
       "The [SV1V Violet ex investment guide](/blog/sv1v-investment/) runs the same case-divided math on the Pokemon side of the shelf.",
-      "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the Fabled gap is the one that moves fastest."
+      "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the Fabled gap is the one that moves fastest. How to buy Lorcana online, step by step, is covered in the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/), where the fifteen-case shelf divides from $98.48 to $371.32 a box."
     ]
   },
   "m1l-best-cards": {
@@ -63088,7 +63693,7 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [is Black Bolt worth buying guide](/blog/is-sv11b-worth-buying/) prices the same four products, and the [SV11B investment guide](/blog/sv11b-investment/) runs the same division for the longer hold.",
       "For the twin, the [Black Bolt versus White Flare guide](/blog/black-bolt-vs-white-flare-which-to-buy/) proves the sets are the same bet, with Black Bolt $13.14 dearer on the box for Zekrom over Reshiram.",
       "For the set's buying guide, the [SV11B Black Bolt buyer's guide](/blog/sv11b-black-bolt-buyers-guide/) prices the box, Deluxe and case the same way at the November 7 prices.",
-      "New this cycle: the [SV11W White Flare best cards guide](/blog/sv11w-best-cards/) ranks the twin set's ten most valuable cards on TCGplayer market prices, Nov 21, 2026, with the Reshiram ex BWR at $318.18 against the Zekrom ex BWR at $306.96 here."
+      "New this cycle: the [SV11W White Flare best cards guide](/blog/sv11w-best-cards/) ranks the twin set's ten most valuable cards on TCGplayer market prices, Nov 21, 2026, with the Reshiram ex BWR at $318.18 against the Zekrom ex BWR at $306.96 here. What makes a special set different from a main expansion, and the full six-set price board, is covered in the [Japanese Pokemon special set guide](/blog/japanese-pokemon-special-set/), where the six boxes total $1,035.52."
     ]
   },
   "sv11b-black-bolt-buyers-guide": {
