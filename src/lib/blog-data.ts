@@ -20636,7 +20636,8 @@ export const POSTS: Record<string, BlogPost> = {
     "slug": "eb-01-japanese-vs-english-which-to-buy",
     "takeaway": [
       "EB-01 in Japanese costs $155.04 a box and in English costs $790.60, a 5.10 times gap for the same 61 card types, and the cases hold the same shape at 4.59 times. Buy English to play, buy Japanese for the lowest sealed price, buy the Oden alternate art as a single if it is the only card you want, and open neither for profit when a typical opened English box returns $166.66 against $790.60 sealed. Two counts stay unprinted, the Japanese packs-per-box and the English case box count, and this guide leaves both blank rather than inventing them. That honesty is the whole article: two languages, one store, one date, every division shown. For the next Extra Booster in the same line, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf, with the English case division honestly withheld.",
-      "New this cycle: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) gives the dated verdict on the same four products, with the English box down exactly 20% since this guide and the Chopper Manga priced against the box."
+      "Companion guide: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) gives the dated verdict on the same four products, with the English box down exactly 20% since this guide and the Chopper Manga priced against the box.",
+      "Companion guide: the [OP-01 Japanese vs English guide](/blog/op-01-japanese-vs-english-which-to-buy/) works the same split for the founding set, with the Japanese box at $202.68 and the English 1st Print White Bottom box at $377.71."
     ]
   },
   "eb-02-anime-25th-collection-buyers-guide": {
@@ -25860,7 +25861,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "FB08 in English costs $2,082.57 a case, or $173.55 a box, and in Japanese it costs $22.12 for one single card, because the shelf sells no Japanese box. A Japanese sealed box has to be bought on the market, where asks run from £59.99 to $157.00 as of November 25, 2026, and the high ask sits only $16.55 below the English case box. Buy English to play, buy the Japanese single as a single, buy the Japanese box at the low end of its range if you want to open Japanese packs, and buy the Broly alt-art as a single at $114 if it is the only card you want. The [FB08 investment guide](/blog/fb08-investment/) prices the hold, and [is FB08 worth buying](/blog/is-fb08-worth-buying/) gives the dated verdict on the same shelf.",
       "Companion guide: the [FB08 buyers guide](/blog/fb08-saiyans-pride-buyers-guide/) runs the set in full, and the [FB07 best cards guide](/blog/fb07-best-cards/) prices the chase in the set before it.",
-      "Companion guide: the [FB07 Japanese vs English guide](/blog/fb07-japanese-vs-english-which-to-buy/) prices Wish for Shenron the same way, with the English case at $1,348.95 and the Japanese single at $23.70."
+      "Companion guide: the [FB07 Japanese vs English guide](/blog/fb07-japanese-vs-english-which-to-buy/) prices Wish for Shenron the same way, with the English case at $1,348.95 and the Japanese single at $23.70.",
+      "Companion guide: the [FB09 Japanese vs English guide](/blog/fb09-japanese-vs-english-which-to-buy/) prices Dual Evolution the same way, with the English case at $4,105.50 and the Japanese single at $54.50, and the market Japanese box at 9,099 yen."
     ]
   },
   "fb08-saiyans-pride-buyers-guide": {
@@ -26704,7 +26706,256 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with no format deadline attached: Fusion World has no rotation, and no FB09 card is banned or restricted. English released first, on March 13, 2026, a day ahead of Japanese on March 14, 2026, continuing the order FB08 set, so the English premium is a language premium, not an early-print premium.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 1 to 17, 2026. The shelf fell 15 percent while the market box held at its November 1 figure, which is the fact that outlives every price on this page: shelves reprice on their own schedules, and a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices. The [is FB09 worth buying guide](/blog/is-fb09-worth-buying/) gives the dated verdict on this set; its November 12 money layer divided the Japanese listing as a box, and this page corrects that reading.",
-      "New this cycle: the [M2 Inferno X investment guide](/blog/m2-investment/) prices the Pokémon set of this cycle the same way, with its case dividing to $94.47 a box, $10.39 below the market box."
+      "Companion guide: the [M2 Inferno X investment guide](/blog/m2-investment/) prices the Pokémon set of this cycle the same way, with its case dividing to $94.47 a box, $10.39 below the market box.",
+      "Companion guide: the [FB09 Japanese vs English guide](/blog/fb09-japanese-vs-english-which-to-buy/) prices both languages from one shelf, with the English case at $4,105.50 and the Japanese single at $54.50, and the market Japanese box at 9,099 yen."
+    ]
+  },
+  "fb09-japanese-vs-english-which-to-buy": {
+    "datePublished": "2026-11-25",
+    "faqs": [
+      {
+        "a": "The English market box at $270.04 on November 1, 2026, or $263.61 on November 24, 2026, if you want a single box, or the English case at $4,105.50 if you can take twelve boxes at $342.13 a box. English is the playable language outside Asia. The Japanese single at $54.50 is one card, not a box, and Japanese cards are usable only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand, so confirm legality with your organizer before buying Japanese to play.",
+        "q": "Which FB09 should I buy to play?"
+      },
+      {
+        "a": "Because the only Japanese FB09 product on the shelf is a single card at $54.50 as of November 25, 2026, titled Card, with no card number and no pack count. A Japanese sealed box has to be bought on the market, where asks as of November 25, 2026 run from 9,099 yen on SNKRDUNK on September 29, 2026, or $57.20, to 11,900 yen on June 16, 2026, or $74.81. Earlier Warehouse guides divided the $54.50 as a box; that was wrong, and this guide corrects it.",
+        "q": "Why is there no Japanese FB09 box on this shelf?"
+      },
+      {
+        "a": "Not for profit. The English market box was $270.04 on November 1, 2026, the three Gogeta Super Alt-Arts total $5,698.01, and FoilKraken's November 2026 report puts the typical opened box at $160.82 against the sealed price, with only 25 percent of simulated boxes beating it. Open FB09 if you want the cards, especially the Gogeta trio, and buy the Gogeta Super Alt-Art single at $1,699 to $2,000 as of November 24, 2026 if it is the only card you want.",
+        "q": "Is FB09 worth opening?"
+      }
+    ],
+    "h1": "FB09 Dual Evolution: Japanese vs English, Priced",
+    "intro": [
+      "Short answer: buy one English box on the market if you want FB09 in English, buy the Japanese single at $54.50 only if you want one Japanese card, and buy a Japanese sealed box on the market if you want to open Japanese packs, because this shelf sells no Japanese box and no single English box. The English case holds a printed 12 boxes, so each box costs $342.13, which sits $72.09 above the $270.04 TCGplayer market box of November 1, 2026, and $78.52 above the fresher $263.61 market read of November 24, 2026. The Japanese box asks on SNKRDUNK run from 9,099 yen on September 29, 2026, or $57.20, to 11,900 yen on June 16, 2026, or $74.81, so the $54.50 single costs nearly as much as a whole Japan-side box.",
+      "FB09 Dual Evolution is the ninth Dragon Ball Fusion World booster and the second-anniversary set, with 123 card types, five new Leaders, and the Fusion Evolve and Ki mechanics, plus the debut of the Leader Super Alt-Art as a new rarity. English released first, on March 13, 2026, one day ahead of Japanese on March 14, 2026. The official English pack holds 12 cards plus a digital promotion code, the official Japanese pack holds 6 cards plus a digital code, and Bandai prints 220 yen per Japanese pack, tax included. Retailers list the Japanese box at 24 packs, which at the official pack price is 5,280 yen a box, or $33.19 at 159.07 yen per dollar, the ECB cross rate of November 24, 2026. Bandai prints no packs-per-box figure, so the 24-pack count is retailer-reported. One correction runs through this guide: earlier Warehouse guides divided the $54.50 listing as a box. The listing is titled Card, names no card number, prints no pack count, and carries no Booster Boxes category, so this guide prices it as one Japanese card, and prices the Japanese box from the market instead."
+    ],
+    "metaDescription": "FB09 in both languages from one shelf: English case $4,105.50, Japanese single $54.50, and the market Japanese box at 9,099 yen.",
+    "metaTitle": "FB09 Dual Evolution: Japanese vs English, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the language second, because FB09 punishes the buyer who gets the order backwards. A player who wants FB09 cards for play outside Asia buys English, and the only sealed English route on this shelf is the [FB09 English sealed case](/product/dragon-ball-super-fusion-world-fb09-dual-evolution-booster-box-sealed-case-engli/) at $4,105.50 as of November 25, 2026: a printed 12 boxes, 288 packs of 12 cards, 3,456 cards, $342.13 a box, $14.26 a pack, and $1.19 a card. One English box without a case means the market: the TCGplayer market box was $270.04 on November 1, 2026, or $11.25 a pack, and $263.61 on November 24, 2026, or $10.98 a pack, so the case box sits $72.09 above the older read. The cheapest Japanese entry on this shelf is the [FB09 Japanese single](/product/fb09-dual-evolution-japanese-dragon-ball-fusion-world-card/) at $54.50 as of November 25, 2026: one card, not a box to open.",
+          "A buyer who wants to open Japanese packs buys a Japanese sealed box on the market, because no Japanese box sits on this shelf at any price. The Japan-side asks run from 9,099 yen on September 29, 2026, or $57.20, to 11,900 yen on June 16, 2026, or $74.81, with a second September read at 9,400 yen on September 24, 2026, or $59.09. That range is the whole story of the Japanese box: the official 5,280 yen box price, $33.19 at the November 24 rate, is a price you can pay in Japan, not from outside it. The [FB09 investment guide](/blog/fb09-investment/) prices the English shelf set by set, the [FB09 best cards guide](/blog/fb09-best-cards/) ranks the chase cards, and [is FB09 worth buying](/blog/is-fb09-worth-buying/) gives the buy-or-skip verdict."
+        ]
+      },
+      {
+        "h": "The money layer: three prices, three different products",
+        "paragraphs": [
+          "Start with the English case, because its arithmetic is complete: $4,105.50 for a printed 12 boxes divides to $342.13 a box, $14.26 a pack, and $1.19 a card. Against the official English box price of 24 packs at $4.99, or $119.76, the case box sits $222.37 above list, at 2.86 times it. Against the market, the case box is the dear route, not the value route: the TCGplayer market box was $270.04 on November 1, 2026, so the case box sits $72.09 above it, at 26.70 percent above market, and twelve market boxes would cost $3,240.48, $865.02 less than the case. The fresher November 24 read of $263.61 widens the gap to $78.52 a box, at 29.79 percent above market. The case fell exactly 15.00 percent in the November repricing leg, from $4,830.00 to $4,105.50, a $724.50 cut, so the case box that was $402.50 is now $342.13, and the gap to the market box narrowed from $132.46 to $72.09 without closing.",
+          "The Japanese single is the dearest Japanese entry on the shelf, and it must be read as a single. At $54.50 as of November 25, 2026, it sits $21.31 above the official Japanese box price of $33.19 at 159.07 yen per dollar, at 1.64 times it, which is the shape of a chase-tier single, not a sealed box. It sits only $2.70 below the September 29 SNKRDUNK box ask of $57.20, at 0.95 of that ask, so one unnamed Japanese card costs nearly a whole Japan-side box. The single was $64.12 before its current price, a $9.62 cut in the same 15.00 percent leg. It is the only Japanese FB09 product on the shelf: no Japanese box and no Japanese case, so a buyer who wants sealed Japanese FB09 from this store is asking for a product the store does not carry. The predecessor singles cost far less: FB08 is $22.12 and FB07 is $23.70.",
+          "The market Japanese box is where the money gets wide, and the market English box is where it keeps moving. The three SNKRDUNK asks are 11,900 yen on June 16, 2026, or $74.81; 9,400 yen on September 24, 2026, or $59.09; and 9,099 yen on September 29, 2026, or $57.20. The ask fell 23.54 percent between June and September, and the low and high asks sit $17.61 apart. Per pack, the September 29 read is $2.38 and the June read is $3.12, against $1.38 at the official Japanese box price and $14.26 inside the English case. A buyer who wants Japanese packs cheaply needs the low end of that range, and needs to know the range exists before paying. The format method is in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/), and buying from Japan is covered in [buying TCG from Japan, shipping, customs, and proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/)."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "What it is",
+            "Per box / per pack"
+          ],
+          "rows": [
+            [
+              "English sealed case (shelf)",
+              "$4,105.50, Nov 25 2026",
+              "Printed 12 boxes, 24 packs of 12 cards",
+              "$342.13 a box; $14.26 a pack"
+            ],
+            [
+              "English box, TCGplayer market",
+              "$270.04, Nov 1 2026",
+              "Third-party market price, dated",
+              "$11.25 a pack; $72.09 below the case box"
+            ],
+            [
+              "English box, TCGplayer market",
+              "$263.61, Nov 24 2026",
+              "Third-party market price, dated",
+              "$10.98 a pack; $78.52 below the case box"
+            ],
+            [
+              "English box, TCGplayer market case",
+              "$3,430.92, Nov 24 2026",
+              "Third-party market case, dated",
+              "Shelf case is $674.58 above it"
+            ],
+            [
+              "English box, official list",
+              "$119.76",
+              "24 packs at $4.99",
+              "$4.99 a pack; case box is $222.37 above it"
+            ],
+            [
+              "Japanese single (shelf)",
+              "$54.50, Nov 25 2026",
+              "One card, not a box; no card number named",
+              "No per-pack figure; not a box"
+            ],
+            [
+              "Japanese box, SNKRDUNK",
+              "¥9,099, Sep 29 2026 ($57.20)",
+              "Japan-side market ask, dated",
+              "$2.38 a pack; 1.72 times official"
+            ],
+            [
+              "Japanese box, SNKRDUNK",
+              "¥9,400, Sep 24 2026 ($59.09)",
+              "Japan-side market ask, dated",
+              "$2.46 a pack; 1.78 times official"
+            ],
+            [
+              "Japanese box, SNKRDUNK",
+              "¥11,900, Jun 16 2026 ($74.81)",
+              "Japan-side market ask, dated",
+              "$3.12 a pack; 2.25 times official"
+            ],
+            [
+              "Japanese box, official",
+              "¥5,280 ($33.19)",
+              "24 packs at ¥220, tax included",
+              "$1.38 a pack; $0.23 a card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "English case per box: $4,105.50 ÷ 12 = $342.13 per box",
+          "English case per pack: $4,105.50 ÷ 288 = $14.26 per pack",
+          "English case per card: $4,105.50 ÷ 3,456 = $1.19 per card",
+          "English official box: 24 × $4.99 = $119.76",
+          "English case box vs official: $342.13 − $119.76 = $222.37 above list; $342.13 ÷ $119.76 = 2.86 times list",
+          "English case repricing: $4,830.00 − $4,105.50 = $724.50; $724.50 ÷ $4,830.00 = 15.00% down",
+          "English market box per pack: $270.04 ÷ 24 = $11.25 per pack; per card: $270.04 ÷ 288 = $0.94 per card",
+          "English market box vs official: $270.04 − $119.76 = $150.28 above list; $270.04 ÷ $119.76 = 2.25 times list",
+          "English case box vs market box: $342.13 − $270.04 = $72.09 above market; $72.09 ÷ $270.04 = 26.70% above market",
+          "Twelve market English boxes vs case: 12 × $270.04 = $3,240.48; $4,105.50 − $3,240.48 = $865.02 more than twelve market boxes",
+          "English market box, November 24 read: $263.61 ÷ 24 = $10.98 per pack; $342.13 − $263.61 = $78.52 above it; $78.52 ÷ $263.61 = 29.79% above it",
+          "English market box movement: $270.04 − $263.61 = $6.43 down; $6.43 ÷ $270.04 = 2.38% down from November 1 to November 24, 2026",
+          "Sparkl market case vs shelf case: $4,105.50 − $3,430.92 = $674.58 above it; $4,105.50 ÷ $3,430.92 = 1.20 times it",
+          "Official Japanese box: 24 × ¥220 = ¥5,280; ¥5,280 ÷ 159.07 = $33.19 at the November 24, 2026 ECB rate",
+          "Official Japanese box per pack: $33.19 ÷ 24 = $1.38 per pack; per card: $33.19 ÷ 144 = $0.23 per card",
+          "Japanese single vs official box: $54.50 − $33.19 = $21.31 above official; $54.50 ÷ $33.19 = 1.64 times official",
+          "Japanese single repricing: $64.12 − $54.50 = $9.62; $9.62 ÷ $64.12 = 15.00% down",
+          "SNKRDUNK Japanese box, September 29, 2026: ¥9,099 ÷ 159.07 = $57.20; $57.20 − $33.19 = $24.01 above official; $57.20 ÷ $33.19 = 1.72 times official; $57.20 ÷ 24 = $2.38 per pack",
+          "SNKRDUNK Japanese box, September 24, 2026: ¥9,400 ÷ 159.07 = $59.09; $59.09 ÷ $33.19 = 1.78 times official; $59.09 ÷ 24 = $2.46 per pack",
+          "SNKRDUNK Japanese box, June 16, 2026: ¥11,900 ÷ 159.07 = $74.81; $74.81 ÷ $33.19 = 2.25 times official; $74.81 ÷ 24 = $3.12 per pack",
+          "SNKRDUNK Japanese box fall: ¥11,900 − ¥9,099 = ¥2,801; ¥2,801 ÷ ¥11,900 = 23.54% down from June 16 to September 29, 2026",
+          "Japanese single vs SNKRDUNK box: $57.20 − $54.50 = $2.70 below the box ask; $54.50 ÷ $57.20 = 0.95 of the box ask",
+          "Gogeta trio: $2,000.00 + $1,999.01 + $1,699.00 = $5,698.01",
+          "Gogeta: GT Super Alt-Art vs case box: $2,000.00 ÷ $342.13 = 5.85 case boxes; vs market box: $2,000.00 ÷ $270.04 = 7.41 market boxes",
+          "Gogeta Super Alt-Art vs case box: $1,999.01 ÷ $342.13 = 5.84 case boxes; Gogeta: BR Super Alt-Art vs case box: $1,699.00 ÷ $342.13 = 4.97 case boxes",
+          "Three Gogeta Super Alt-Arts vs case box: $5,698.01 ÷ $342.13 = 16.65 case boxes; vs market box: $5,698.01 ÷ $270.04 = 21.10 market boxes; vs Japanese single: $5,698.01 ÷ $54.50 = 104.55 singles",
+          "Gogeta alt-art vs case box: $150.06 ÷ $342.13 = 0.44 of a case box; vs Japanese single: $150.06 ÷ $54.50 = 2.75 singles; Gogeta: GT alt-art vs case box: $103.22 ÷ $342.13 = 0.30 of a case box; vs Japanese single: $103.22 ÷ $54.50 = 1.89 singles",
+          "FoilKraken typical opened box vs market box: $160.82 ÷ $270.04 = 0.60 of the sealed price; vs case box: $160.82 ÷ $342.13 = 0.47 of a case box; $342.13 − $160.82 = $181.31 below a case box",
+          "FoilKraken average opened box vs market box: $330.89 ÷ $270.04 = 1.23 times the sealed price; vs case box: $330.89 ÷ $342.13 = 0.97 of a case box",
+          "FB09 vs FB08 English case box: $342.13 − $173.55 = $168.58 per box",
+          "FB09 vs FB08 Japanese single: $54.50 − $22.12 = $32.38; $54.50 ÷ $22.12 = 2.46 times the FB08 single; vs FB07 single: $54.50 − $23.70 = $30.80",
+          "Twelve Japanese singles: 12 × $54.50 = $654.00, with no case discount",
+          "Japanese vs English cards per box: 144 ÷ 288 = 0.50, half the cards"
+        ],
+        "paragraphs": [
+          "Nothing in the table above is a claim. Each figure is one division away from a listed price, and here is every division. The Japanese single has no per-pack figure because it is one card, not a box, and the Japanese market box has no single price because three dated asks price the same box three ways. The case division is clean because the case page prints its 12-box count."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the Japanese box you buy on the market",
+        "note": "Warehouse Note: the question we get most in chat about FB09 is why the Japanese listing costs $54.50 when every guide online prices a Japanese box, and the honest answer is that the listing is one card, not a box. We checked the title, the page, and the category ourselves: it ends in Card, it names no card number, and it prints no pack count. No other guide we found states that plainly, which is why buyers keep arriving expecting a $54.50 box and finding a single card at checkout.",
+        "paragraphs": [
+          "The top guides do the spec comparison well. Our own FB09 buyer's guide lays out the shelf: the English case at $4,830.00 before the repricing, and the Japanese listing at $64.12 divided as a box, which this guide corrects. The Samurai Sword FB09 guide lays out the two official pages side by side: Japanese release March 14, 2026 at 220 yen per pack and 6 cards per pack, English release March 13, 2026 at 12 cards per pack plus a digital code, 123 card types in both languages, and the SNKRDUNK asks of 9,400 yen on September 24 and 9,099 yen on September 29, 2026. What none of them does is price the Japanese box a buyer outside Japan actually has to buy against the English case on the same shelf on the same date, after the repricing. This page does, with two findings no spec table can offer. First, the Japanese box has no price, it has a range: $57.20 to $74.81 in dollar terms across three dated asks, and the range fell 23.54 percent between June and September. Second, the single card costs nearly a whole Japan-side box: $54.50 against a $57.20 ask, at 0.95 of it.",
+          "The spec tables also underplay one difference: both languages carry a digital code in every pack, but this guide could not verify from a Bandai source which region's digital account a Japanese code redeems on. Check that before paying for the code. The chase layer is the other gap: the three Gogeta Super Alt-Arts run $2,000.00, $1,999.01, and $1,699.00 on TCGplayer market as of November 24, 2026, per Sparkl, for a $5,698.01 trio that is 16.65 case boxes, and the plain alt-arts sit far below them at $150.06 and $103.22. The [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy/) and the [best Fusion World box guide for Japanese buyers](/blog/best-fusion-world-booster-box-japanese/) give the set-by-set context, and the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) works the same split for One Piece."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "The decision table is short. Find your row. The language row comes first: a player who buys the wrong language has bought the wrong product at a good price."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Player outside Asia",
+              "English market box at $270.04, or $263.61 on the November 24 read",
+              "Playable language; 24 packs of 12 cards; case box is $72.09 above the market box"
+            ],
+            [
+              "Collector, cheapest Japanese entry",
+              "Japanese single at $54.50",
+              "One Japanese card at 1.64 times the official box price; not a box"
+            ],
+            [
+              "Opener, Japanese packs",
+              "Market Japanese box, low ask first",
+              "No Japanese box on this shelf; asks run $57.20 to $74.81; check the range before paying"
+            ],
+            [
+              "Sealed holder, English",
+              "English case at $4,105.50 only for twelve boxes at once",
+              "Printed 12 boxes at $342.13 a box; $674.58 above the Sparkl market case"
+            ],
+            [
+              "Opener chasing a Gogeta Super Alt-Art",
+              "The Gogeta single at $1,699 to $2,000",
+              "4.97 to 5.85 case boxes; opening for one card is a lottery with no published pull rates"
+            ],
+            [
+              "Anyone wanting one English box cheap",
+              "Neither shelf route; market box at $263.61 to $270.04",
+              "No single English box on this shelf; the case is the only shelf route"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Japan versus international: one day apart, two different games",
+        "paragraphs": [
+          "FB09 is unusual in the Fusion World line because English released first, March 13, 2026, a day ahead of Japanese on March 14, 2026. That kills the usual reason to buy Japanese, which is early access: there was none to buy here, and the Japanese box costs more on the market than the official price anyway. The set is the same 123 types in both languages: five Leaders, 40 Commons, 35 Uncommons, 25 Rares, 15 Super Rares, and three Secret Rares, all three Gogetas, plus parallel alt-art cards on top, with Super Alt-Art Leader cards appearing for the first time. The difference is what the cards are for: English is the language of play outside Asia, and Japanese is the language of the Japanese market.",
+          "On legality, Bandai's official rules list exactly where each language can be used: the Japanese version in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand, and the English version in North America, Latin America, Europe, and Oceania. A player outside those eight Asian regions who buys Japanese cards to compete has bought cards for the wrong region, so confirm legality with the event organizer before paying. The card text is the other half: a Japanese card is unreadable to a player who does not read Japanese, which matters at a table where a judge or opponent needs to read it, and not at all to a collector who wants the art sealed. The pack size is the third half: a Japanese box holds 144 cards and an English box holds 288, so cost per card is the honest comparison. The [FB08 buyers guide](/blog/fb08-saiyans-pride-buyers-guide/) runs the set before it in full, and the [FB07 best cards guide](/blog/fb07-best-cards/) prices the chase in the set before that."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "The expensive failure is buying the $54.50 Japanese listing expecting a box. The listing is one card, it names no card number, so it never says which card the buyer is getting, and a buyer who pays $54.50 for a box has paid box money for one card, with no recourse, because the listing never said box. Read the title before paying, and treat any Japanese Fusion World listing titled Card as a single until the page proves otherwise. The second failure is opening an English box for profit: the market box was $270.04 on November 1, 2026, the typical opened box returns $160.82 against it, at 0.60 of the sealed price, and only 25 percent of simulated boxes beat the sealed price in FoilKraken's November 2026 report. Buy the Gogeta single instead of opening for it. The third failure is paying the June ask of $74.81 without seeing the range: the same box asks $57.20 in the September 29 read, so the buyer who pays the first ask they find can overpay by $17.61 against the low dollar read. The fourth failure is reseals and tampering on the English case, where the price is highest and the incentive is greatest; the checks are seal pattern, case consistency, and weight, laid out in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). Sealed product should be stored properly from the day it arrives, per [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Gogeta Super Alt-Art, a guaranteed return, or a single Japanese box price: the Japanese box has three asks on three dates and no single market price, and no honest guide can collapse them into one number. It is also not for the buyer who wants a Japanese sealed box from this shelf today: the shelf carries one Japanese card and no Japanese box, and this guide will not pretend otherwise. It is not for the buyer who wants twelve English boxes at a discount, because this case charges $72.09 a box above the market box. This guide is for the buyer deciding between two languages of the same 123-card set, priced from one store and one market on one date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide language first: English to play outside Asia, Japanese to collect or open Japanese packs",
+          "Read the Japanese listing title before paying: $54.50 buys one Card, not a box",
+          "Compare box against box: English case box $342.13 against the $270.04 market box, $72.09 above market, or $263.61 on the November 24 read, $78.52 above market",
+          "Price the Japanese box across sellers, not one ask: $57.20 to $74.81, with the low ask on September 29, 2026",
+          "Do not divide the Japanese single: one card has no per-pack figure",
+          "Check the English market basis before acting: TCGplayer $270.04 is a November 1, 2026 figure and $263.61 is a November 24, 2026 figure, and both will have moved",
+          "Confirm tournament legality with your organizer before buying Japanese cards to play",
+          "Buy the Gogeta single at $1,699 to $2,000 if it is the only card you want; opening for one card is a lottery with no published pull rates",
+          "Store sealed product properly from arrival, and check seals before opening anything expensive"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "For the set choice, return to the Japanese box guides; for the format choice, the case-versus-box math settles it for the English shelf. This article settles the language question, which is always decided before the format question. Once the language is settled, the [FB09 investment guide](/blog/fb09-investment/) prices the hold, and [is FB09 worth buying](/blog/is-fb09-worth-buying/) gives the dated verdict."
+        ]
+      }
+    ],
+    "slug": "fb09-japanese-vs-english-which-to-buy",
+    "takeaway": [
+      "FB09 in English costs $4,105.50 a case, or $342.13 a box, and in Japanese it costs $54.50 for one single card, because the shelf sells no Japanese box and no single English box. The market English box was $270.04 on November 1, 2026, and $263.61 on November 24, 2026, so the case box sits $72.09 above the older read. A Japanese sealed box has to be bought on the market, where asks run $57.20 to $74.81 as of November 25, 2026. Buy English to play, buy the Japanese single as a single, buy the Japanese box at the low end of its range if you want to open Japanese packs, and buy the Gogeta single at $1,699 to $2,000 if it is the only card you want. The [FB09 investment guide](/blog/fb09-investment/) prices the hold, and [is FB09 worth buying](/blog/is-fb09-worth-buying/) gives the dated verdict on the same shelf.",
+      "Companion guide: the [FB08 Japanese vs English guide](/blog/fb08-japanese-vs-english-which-to-buy/) prices Saiyan's Pride the same way, with the English case at $2,082.57 and the Japanese single at $22.12, and its market Japanese box asks running from £59.99 to $157.00.",
+      "Companion guide: the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [FB09 best cards guide](/blog/fb09-best-cards/) ranks the chase cards, with the Gogeta: GT Super Alternate Art at $2,000.00 on the November 24, 2026 read."
     ]
   },
   "fb10-best-cards": {
@@ -29627,7 +29878,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, unchanged since November 4, and the marketplace references as of November 1 to 12, 2026. The Fusion World shelf did not follow the One Piece English shelf's 20 percent repricing, which is the fact that outlives every price on this page: shelves reprice on their own schedules, and a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices. The [is FB08 worth buying guide](/blog/is-fb08-worth-buying/) prices Saiyan's Pride the same way, with the Broly chase against the box.",
       "Companion guide: the [FB09 Dual Evolution investment guide](/blog/fb09-investment/) prices the same shelf as an investment, with the case dividing to $342.13 a box, $72.09 above the $270.04 market box. Correction: the money layer above divides the Japanese listing as a box; the listing is a single card, not a box, and no per-pack math should be divided from its $54.50 price.",
-      "Companion guide: the [FB09 best cards guide](/blog/fb09-best-cards/) ranks the ten best Dual Evolution cards, top ten $9,017.08, with the Gogeta : GT Super Alternate Art at $2,000.00, on the November 22, 2026 read."
+      "Companion guide: the [FB09 best cards guide](/blog/fb09-best-cards/) ranks the ten best Dual Evolution cards, top ten $9,017.08, with the Gogeta : GT Super Alternate Art at $2,000.00, on the November 22, 2026 read.",
+      "Companion guide: the [FB09 Japanese vs English guide](/blog/fb09-japanese-vs-english-which-to-buy/) prices both languages from one shelf, with the English case at $4,105.50 and the Japanese single at $54.50, and the market Japanese box at 9,099 yen."
     ]
   },
   "is-m1l-worth-buying": {
@@ -30787,10 +31039,11 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying as the founding set, sealed or opened, and it is not worth buying as a way to own one named card. The Manga Shanks sat near $4,000 on TCGplayer market as of October 30, 2026, which is 16.78 Japanese boxes, and Bandai has never published pull rates, so no honest expected-value math exists for the chase. Buy the single, or buy the box for the set and treat the chase as a bonus.",
       "It is not worth buying for Standard play: Romance Dawn rotated out on April 1, 2026, and only four of its card numbers are still Standard-legal. It plays in Extra Regulation now, and the box is a collector's purchase. For the investment version, see [OP-01 Romance Dawn Investment: Buy the English Case](/blog/op-01-investment/).",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 11, 2026, and the marketplace references as of October 30 to November 11, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
-      "New this cycle: the [best Akihabara card shop guide](/blog/best-akihabara-card-shop/) ranks the Tokyo trip against ordering sealed boxes from Japan, with the same divided shelf prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
-      "New this cycle: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) prices the Memorial Collection the same way, with its own 20% English drop and the Chopper Manga against the box.",
-      "New this cycle: the [is OP-02 worth buying guide](/blog/is-op-02-worth-buying/) prices Paramount War the same way, with its own 20% English drop and the Ace Manga against the box.",
-      "For the cards themselves, ranked and priced on the November 20 shelf: the [OP-01 best cards](/blog/op-01-best-cards/) are one $3,998.74 manga, three Leader parallels, and a $504.19 expected value per English box."
+      "Companion guide: the [best Akihabara card shop guide](/blog/best-akihabara-card-shop/) ranks the Tokyo trip against ordering sealed boxes from Japan, with the same divided shelf prices. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
+      "Companion guide: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) prices the Memorial Collection the same way, with its own 20% English drop and the Chopper Manga against the box.",
+      "Companion guide: the [is OP-02 worth buying guide](/blog/is-op-02-worth-buying/) prices Paramount War the same way, with its own 20% English drop and the Ace Manga against the box.",
+      "For the cards themselves, ranked and priced on the November 20 shelf: the [OP-01 best cards](/blog/op-01-best-cards/) are one $3,998.74 manga, three Leader parallels, and a $504.19 expected value per English box.",
+      "Companion guide: the [OP-01 Japanese vs English guide](/blog/op-01-japanese-vs-english-which-to-buy/) prices both languages from one shelf, with the Japanese box at $202.68 and the English 1st Print White Bottom box at $377.71, and both cases divided to the box."
     ]
   },
   "is-op-02-worth-buying": {
@@ -52549,7 +52802,244 @@ export const POSTS: Record<string, BlogPost> = {
       "The OP-01 English case is the buy: $3,547.21 divides to $295.60 a box, $12.32 a pack and $1.03 a card, $1,036.87 below the November 9, 2026 TCGplayer Wave 2 market per box, and $985.31 below twelve singles on our own shelf. The English box at $377.71 is the second buy, $954.76 below the same market after a 32% repricing in twelve days. The Japanese box at $202.68 is the opener's buy, $8.45 a pack, and the Japanese case is the skip: it saves $4.24 a box and does no work.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 17, 2026, the TCGplayer Wave 2 market as of November 9, 2026, the Tokyo listing and SNKRDUNK ask as of October 7 and September 30, 2026, and the PriceCharting path as of November 9, 2026. When the next repricing lands, re-run the division: the gap that makes OP-01 the buy today is a shelf price and a market price, and either one can move.",
       "For the opener's version of this set, the [OP-01 Romance Dawn buyer's guide](/blog/op-01-romance-dawn-buyers-guide/) prices the same four products for opening rather than holding, and [is OP-01 worth buying](/blog/is-op-01-worth-buying/) runs the buy-or-pass verdict. For the successor set, the [OP-02 Paramount War investment guide](/blog/op-02-investment/) runs the same division on Marineford, and the [OP-02 buyer's guide](/blog/op-02-paramount-war-buyers-guide/) prices it for the opener. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry.",
-      "For the cards inside the box, ranked and priced on the November 20 shelf: the [OP-01 best cards](/blog/op-01-best-cards/) are one $3,998.74 manga, three Leader parallels, and a $504.19 expected value per English box."
+      "For the cards inside the box, ranked and priced on the November 20 shelf: the [OP-01 best cards](/blog/op-01-best-cards/) are one $3,998.74 manga, three Leader parallels, and a $504.19 expected value per English box.",
+      "Companion guide: the [OP-01 Japanese vs English guide](/blog/op-01-japanese-vs-english-which-to-buy/) prices both languages from one shelf, with the Japanese box at $202.68 and the English 1st Print White Bottom box at $377.71, and both cases divided to the box."
+    ]
+  },
+  "op-01-japanese-vs-english-which-to-buy": {
+    "datePublished": "2026-11-25",
+    "faqs": [
+      {
+        "a": "Buy the Japanese box at $202.68 as of November 25, 2026 if the job is opening Romance Dawn at the lowest sealed price, and buy the English box at $377.71 if the job is the set in English, because Japanese cards are not legal at official events outside Asia. The English listing is the 1st Print White Bottom box, and it sits $954.76 below the $1,332.47 TCGplayer market for that wave as of November 19, 2026. The Japanese case saves only $4.24 a box, while the English case saves $82.11 a box, so buy a case only if the job is twelve boxes.",
+        "q": "Should I buy OP-01 Japanese or English?"
+      },
+      {
+        "a": "Yes, if the job is the set in English, because the two boxes are not the same product at two prices. The English box holds 288 cards against 144 in the Japanese box, so it costs $15.74 a pack against $8.45 but $1.31 a card against $1.41. The listing is the 1st Print White Bottom box, and its $1,332.47 TCGplayer market price as of November 19, 2026 puts our $377.71 at 28.35 percent of market. The Japanese box is 6.79 times its official price of $29.87, so both boxes carry a scarcity premium on the first set.",
+        "q": "Is the English OP-01 box worth $377.71 when the Japanese box is $202.68?"
+      },
+      {
+        "a": "No. Bandai's official rules, Rules for the use of Different Languages, dated November 7, 2025, allow the Japanese version only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand, so Japanese cards are not legal at official events in North America, Latin America, Europe, or Oceania. English cards are legal in those regions and in most of Asia, and decks mixing Japanese and English cards are allowed only in Taiwan and Thailand. Romance Dawn also rotated out of Standard on April 1, 2026, with only four card numbers still legal, so the box is a collector's buy either way.",
+        "q": "Can I play Japanese OP-01 cards at tournaments outside Japan?"
+      }
+    ],
+    "h1": "OP-01 Romance Dawn: Japanese vs English, Priced",
+    "intro": [
+      "Short answer: buy the Japanese box at $202.68 if the job is opening Romance Dawn at the lowest sealed price, buy the English box at $377.71 if the job is the set in English, and buy a case only if the job is twelve boxes, because the Japanese case saves $4.24 a box while the English case saves $82.11 a box. The single-box language gap is $175.03, and the case-box gap is $97.16. The English listing is specifically the 1st Print White Bottom box, never a generic English box.",
+      "OP-01 Romance Dawn is the set where the One Piece Card Game begins, released in Japan on July 22, 2022 and in English on December 2, 2022, 133 days apart. The set is 121 card types in both languages: 8 Leaders, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, and 2 Secret Rares, with 33 parallel-art rows in the official card list. The Japanese pack holds 6 cards at 198 yen, the English pack holds 12 cards at $4.19, and every box carries one parallel card drawn at random from six types as a box topper. All four OP-01 products fell exactly 15 percent between November 11 and November 20, 2026, and the prices here are stamped November 25, 2026."
+    ],
+    "metaDescription": "OP-01 in both languages from one shelf: Japanese box $202.68, English 1st-print white-bottom box $377.71, and both cases divided to the box.",
+    "metaTitle": "OP-01 Romance Dawn: Japanese vs English, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the language second, because OP-01 punishes the buyer who gets the order backwards. A collector who wants to open Romance Dawn buys the [OP-01 Japanese booster box](/product/op-01-romance-dawn-booster-box-japanese-one-piece-card) at $202.68 as of November 25, 2026: 24 packs of 6 cards, 144 cards, $8.45 a pack and $1.41 a card, the cheapest sealed way into the founding set. It sits $55.07 below the lowest SNKRDUNK ask of 41,000 yen, or $257.75 at the November 24, 2026 ECB rate of 159.07 yen per dollar, an ask last read September 30, 2026. A buyer who wants the set in English buys the [OP-01 English booster box](/product/op-01-romance-dawn-booster-box-1st-print-white-bottom-english-one-piece-card) at $377.71 as of November 25, 2026: 24 packs of 12 cards, 288 cards, $15.74 a pack and $1.31 a card, and the listing names its print, 1st Print White Bottom.",
+          "A buyer who wants twelve boxes buys a case, and the two cases behave oppositely. The [OP-01 Japanese sealed case](/product/op-01-romance-dawn-sealed-case-12-boxes-japanese-one-piece-card) is $2,381.25 as of November 25, 2026, or $198.44 a box against twelve singles at $2,432.16, saving $50.91 a case, which is $4.24 a box and barely a discount. The [OP-01 English sealed case](/product/op-01-romance-dawn-sealed-case-12-boxes-english-one-piece-car) is $3,547.21 as of November 25, 2026, or $295.60 a box against twelve singles at $4,532.52, saving $985.31 a case, which is $82.11 a box and a real bulk discount. Both case titles print twelve boxes, so both divisions are clean. The [is OP-01 worth buying guide](/blog/is-op-01-worth-buying/) gives the dated verdict on the same four products, and the [OP-01 investment guide](/blog/op-01-investment/) runs them as a hold."
+        ]
+      },
+      {
+        "h": "The money layer: four products, two languages",
+        "paragraphs": [
+          "Start with the Japanese box, because it is the opener's price and the shelf's cheapest OP-01 entry. At $202.68 it is $8.45 a pack and $1.41 a card, against an official Japanese box price of 24 packs at 198 yen, or 4,752 yen, which converts to $29.87 at 159.07 yen per dollar, the ECB reference rate of November 24, 2026. The shelf box is 6.79 times its official price, and that multiple is the scarcity premium on the first set, not a pricing error. The Japanese case box at $198.44 is 6.64 times official, so the case barely moves the multiple.",
+          "The English box is the expensive half of the comparison, and its price has two separate causes. The first is the print wave: English OP-01 boxes came in two waves, blue for the first wave and white for the reprint, and our listing is titled 1st Print White Bottom, the wave the $1,332.47 TCGplayer market price of November 19, 2026 belongs to. Our $377.71 sits $954.76 below that market, at 28.35 percent of it. The second cause is the cards per pack: the English box holds 288 cards against 144 in the Japanese box, so the English box costs $15.74 a pack against $8.45, but $1.31 a card against $1.41, and the English buyer pays more per pack and less per card. The [OP-01 best cards guide](/blog/op-01-best-cards/) ranks the chase that justifies the English premium, and the [OP-01 Romance Dawn buyers guide](/blog/op-01-romance-dawn-buyers-guide/) prices the same four products for the opener."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack / per card",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box (shelf)",
+              "$202.68, Nov 25 2026",
+              "$8.45 a pack; $1.41 a card",
+              "Opening Romance Dawn cheapest",
+              "Not legal to play outside Asia; chase not guaranteed"
+            ],
+            [
+              "Japanese case, 12 boxes (shelf)",
+              "$2,381.25, Nov 25 2026",
+              "$198.44 a box; $8.27 a pack",
+              "Sealed run; group split",
+              "Saves only $4.24 a box; $2,381.25 at once"
+            ],
+            [
+              "English box, 1st Print White Bottom (shelf)",
+              "$377.71, Nov 25 2026",
+              "$15.74 a pack; $1.31 a card",
+              "English set, $954.76 under market",
+              "3.76 times official; check the print wave"
+            ],
+            [
+              "English case, 12 boxes (shelf)",
+              "$3,547.21, Nov 25 2026",
+              "$295.60 a box; $12.32 a pack",
+              "English boxes in bulk",
+              "$3,547.21 at once; chase not guaranteed"
+            ],
+            [
+              "Japanese box, official",
+              "4,752 yen ($29.87)",
+              "$1.24 a pack; $0.21 a card",
+              "Japan retail price, not an export price",
+              "Not payable outside Japan"
+            ],
+            [
+              "English box, official",
+              "$100.56",
+              "$4.19 a pack; $0.35 a card",
+              "List price at release",
+              "No sealed box sells at list now"
+            ],
+            [
+              "English box, TCGplayer market",
+              "$1,332.47, Nov 19 2026",
+              "White-bottom wave",
+              "Market reference",
+              "Dated; will have moved"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "Japanese box per pack: $202.68 / 24 packs = $8.45 per pack",
+          "Japanese box per card: $202.68 / 144 cards = $1.41 per card",
+          "Japanese case per box: $2,381.25 / 12 boxes = $198.44 per box",
+          "Japanese case vs singles: 12 x $202.68 = $2,432.16; $2,432.16 - $2,381.25 = $50.91 saved; $50.91 / 12 = $4.24 per box",
+          "Japanese official box: 24 x 198 yen = 4,752 yen; 4,752 yen / 159.07 yen per dollar = $29.87 at the November 24, 2026 ECB rate",
+          "Japanese official box per pack: $29.87 / 24 = $1.24 per pack; per card: $29.87 / 144 = $0.21 per card",
+          "Japanese box vs official: $202.68 / $29.87 = 6.79 times official",
+          "Japanese case box vs official: $198.44 / $29.87 = 6.64 times official",
+          "Japanese box vs SNKRDUNK ask: 41,000 yen / 159.07 = $257.75; $257.75 - $202.68 = $55.07 under the ask",
+          "English box per pack: $377.71 / 24 packs = $15.74 per pack",
+          "English box per card: $377.71 / 288 cards = $1.31 per card",
+          "English case per box: $3,547.21 / 12 boxes = $295.60 per box",
+          "English case vs singles: 12 x $377.71 = $4,532.52; $4,532.52 - $3,547.21 = $985.31 saved; $985.31 / 12 = $82.11 per box",
+          "English official box: 24 x $4.19 = $100.56; per card: $100.56 / 288 = $0.35 per card",
+          "English box vs official: $377.71 / $100.56 = 3.76 times official",
+          "English case box vs official: $295.60 / $100.56 = 2.94 times official",
+          "English box vs TCGplayer market: $1,332.47 - $377.71 = $954.76 under market; $377.71 / $1,332.47 = 28.35% of market",
+          "English case box vs market box: $1,332.47 - $295.60 = $1,036.87 under market per box",
+          "Twelve market English boxes vs case: 12 x $1,332.47 = $15,989.64; $15,989.64 - $3,547.21 = $12,442.43 more than the case",
+          "Single-box language gap: $377.71 - $202.68 = $175.03; $377.71 / $202.68 = 1.86 times the Japanese box",
+          "Case-box language gap: $295.60 - $198.44 = $97.16",
+          "Per-pack language gap: $15.74 / $8.45 = 1.86 times; per-card gap: $1.31 vs $1.41, English cheaper per card",
+          "Cards per box: 288 English cards / 144 Japanese cards = 2.00 times the cards",
+          "Manga Shanks vs Japanese box: $3,998.74 / $202.68 = 19.73 boxes",
+          "Manga Shanks vs English box: $3,998.74 / $377.71 = 10.59 boxes",
+          "Three Leader parallels vs English box: $1,042.78 + $629.47 + $463.37 = $2,135.62; $2,135.62 / $377.71 = 5.65 boxes",
+          "Luffy Leader parallel vs English box: $1,042.78 / $377.71 = 2.76 boxes",
+          "Repricing, November 11 to November 20, 2026: Japanese box $238.45 - $202.68 = $35.77, 15.00% down; English box $444.36 - $377.71 = $66.65, 15.00% down",
+          "Repricing, cases: Japanese case $2,801.47 - $2,381.25 = $420.22, 15.00% down; English case $4,173.19 - $3,547.21 = $625.98, 15.00% down",
+          "English box since November 5, 2026: $555.45 - $377.71 = $177.74, 32.00% down"
+        ],
+        "paragraphs": [
+          "Nothing in the table above is a claim. Each figure is one division away from a listed price, and here is every division. The two case divisions are clean. The Japanese official box converts at 159.07 yen per dollar, the ECB reference rate of November 24, 2026, and the English market figure is the TCGplayer market price for the white-bottom wave as of November 19, 2026. The format method is in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the white-bottom premium and the repriced Japanese box",
+        "note": "Warehouse Note: the question we get most in chat about OP-01 is why the English box costs nearly twice the Japanese box when both hold the same 121 cards, and the honest answer has two halves: the English box holds twice the cards, 288 against 144, and the listing is the 1st Print White Bottom box, the wave the $1,332.47 market belongs to. No other guide we found prices all four shelf products on one date with both case divisions shown, which is why buyers keep comparing the $377.71 English box against the $202.68 Japanese box as if they were the same product at two prices.",
+        "paragraphs": [
+          "The top guides for this query do the set comparison well. Our own [OP-01 Romance Dawn buyers guide](/blog/op-01-romance-dawn-buyers-guide/) prices the same four products for the opener, [is OP-01 worth buying](/blog/is-op-01-worth-buying/) gives the dated verdict, and the [OP-01 investment guide](/blog/op-01-investment/) runs the same four as a hold. What none of them does is answer the language question itself: which language to buy, with the print wave named, both cases divided, and the official prices converted on the same rate. This page owns that gap, with three findings no set guide can offer. First, the English premium is a print premium, not a language premium: the $377.71 box is the 1st Print White Bottom, and it sits $954.76 below the white-bottom market, so the buyer who pays it is buying under market in the expensive language, not overpaying for the cheap one. Second, the case math splits the languages: the Japanese case saves $4.24 a box, which is rounding, while the English case saves $82.11 a box, which is a bulk discount, so the case decision depends on the language, not on the set. Third, the Japanese box repriced: it fell 15 percent in nine days, from $238.45 to $202.68, and the case now divides to $198.44 a box, $4.24 below the $202.68 single.",
+          "The spec tables also underplay one difference that matters to collectors: OP-01 holds the first Manga Rare in the game, the Shanks parallel, OP01-120, at $3,998.74 on TCGplayer market as of November 19, 2026, confirmed at the same price on November 22 and November 23, 2026. Behind it sit the three Leader parallels, Luffy OP01-003 at $1,042.78, Zoro OP01-001 at $629.47, and Law OP01-002 at $463.37, all as of November 19, 2026. The manga is 19.73 Japanese boxes and 10.59 English boxes, and the PRB-01 reprint of the same card is $1,221.56, which is 30.55 percent of the original, so a listing that does not name the printing is not a price you can trust. The [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) works the same split for the first Extra Booster, and the [PRB-01 versus PRB-02 guide](/blog/prb-01-vs-prb-02-which-to-buy/) prices the reprint set that holds the cheaper Shanks."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "The decision table is short. Find your row. The language row comes first: a player who buys the wrong language has bought the wrong product at a good price, and a collector who buys the wrong print wave has bought the wrong box at a good price."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener, cheapest sealed entry",
+              "Japanese box at $202.68",
+              "$8.45 a pack; $55.07 below the SNKRDUNK ask; the founding set at its lowest sealed price"
+            ],
+            [
+              "Player outside Asia",
+              "English box at $377.71",
+              "Playable language; 1st Print White Bottom; $954.76 under the white-bottom market"
+            ],
+            [
+              "Sealed holder, English",
+              "English case at $3,547.21",
+              "$295.60 a box; $82.11 a box saved; $1,036.87 a box under market"
+            ],
+            [
+              "Sealed holder, Japanese",
+              "Japanese case at $2,381.25 only for the run",
+              "Saves $4.24 a box, which is rounding; buy it for twelve sealed boxes, not for the discount"
+            ],
+            [
+              "Collector chasing the Manga Shanks",
+              "The Shanks single at $3,998.74",
+              "19.73 Japanese boxes and 10.59 English boxes; opening for one card is a lottery with no published pull rates"
+            ],
+            [
+              "Anyone wanting one English box cheap",
+              "The shelf English box at $377.71",
+              "It is the cheap English route: $954.76 under market, and no cheaper English box sits on this shelf"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Japan versus international: 133 days apart, two different games",
+        "paragraphs": [
+          "OP-01 is the widest release gap in the One Piece line, because it is the first set. Japan got Romance Dawn on July 22, 2022, and English followed on December 2, 2022, 133 days later, so the Japanese market had four and a half months of play before the English set existed. That gap is the reason the Japanese box carries the scarcity premium it does, and it is also the reason the two languages have different buyers: the Japanese box is the origin printing of the founding set, and the English box is the set most buyers outside Japan will ever own. The set is the same 121 types in both languages, with the same rarity split, 8 Leaders, 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, and 2 Secret Rares, and the same 33 parallel-art rows in the official card list. The difference is what the cards are for, and where they can be played.",
+          "On legality, Bandai's official rules, Rules for the use of Different Languages, dated November 7, 2025, list exactly where each language can be used. The Japanese version can be used in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand. The English version can be used in North America, Latin America, Europe, and Oceania, plus Hong Kong S.A.R., Singapore, Malaysia, Indonesia, Philippines, Taiwan, and Thailand, with English cards usable in Taiwan and Thailand from November 28, 2025, and decks mixing Japanese and English cards allowed in Taiwan and Thailand. English and French cards can be mixed in one deck in Europe. A player in North America, Latin America, Europe, or Oceania who buys Japanese cards to compete has bought cards for the wrong region, so confirm legality with the event organizer before paying. A Japanese card is unreadable to a player who does not read Japanese, which matters at a table where a judge or opponent needs to read it, and not at all to a collector who wants the art sealed.",
+          "The second half of the context is the rotation. Romance Dawn rotated out of Standard on April 1, 2026, and only four of its card numbers are still Standard-legal: Nami OP01-016 and Shanks OP01-120, Killer OP01-039, and You Can Be My Samurai!!. A player who buys either box to compete in Standard has bought the wrong product, in either language. The box is a collector's buy, and the language decision is a collection decision. Buying from Japan is covered in [buying TCG from Japan, shipping, customs, and proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/), and the wider Japanese ladder is in the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/)."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "The expensive failure is buying the English box without reading the print wave. Our listing is titled 1st Print White Bottom, and the white-bottom market was $1,332.47 on November 19, 2026, while the blue first-wave box trades far above it, so a buyer who pays a blue-wave price for a white-bottom box has paid for a printing they did not get. Read the title before paying, and treat any English OP-01 listing that does not name its wave as a price you cannot trust. The second failure is opening a box for the Manga Shanks: the card is $3,998.74, it is 19.73 Japanese boxes and 10.59 English boxes, and Bandai has never published pull rates, so a single box usually returns the mid-tier parallels, not the grail. Buy the single if the card is the job. The third failure is buying the Japanese case for the discount: it saves $4.24 a box, $50.91 across the case, which is rounding, not a bulk deal, so a buyer who wants twelve Japanese boxes for the saving has bought twelve boxes for the run. The fourth failure is buying either box to play Standard: only four OP-01 numbers are still legal after the April 1, 2026 rotation, so the box is a collector's purchase and the player needs a later set.",
+          "The fifth failure is reseals and tampering on the English box, where the price is highest and the incentive is greatest. The checks are seal pattern, case consistency, and weight, laid out in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/). Sealed product should be stored properly from the day it arrives, per [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/). The sixth failure is reading an older guide and paying the old price: the whole OP-01 shelf fell exactly 15 percent between November 11 and November 20, 2026, and the English box is down 32 percent from $555.45 on November 5, so every price on this page carries its date for a reason, and a buyer should re-check the shelf on the day they pay."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Manga Shanks, a guaranteed return, or a single Japanese box price that never moves: the chase is a lottery with no published pull rates, the whole OP-01 shelf fell 15 percent in nine days, and no honest guide can promise either. It is also not for the buyer who wants a Japanese box to play with at a tournament outside Asia: Japanese cards are not legal at official events in North America, Latin America, Europe, or Oceania, and this guide will not pretend otherwise. It is not for anyone buying the English box without checking the print wave, because the white-bottom and blue-bottom boxes trade far apart. This guide is for the buyer deciding between two languages of the same 121-card set, priced from one store on one date, who will accept the case math as stated."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide language first: English to play outside Asia, Japanese to collect the origin printing or open at the lowest sealed price",
+          "Read the English listing title before paying: $377.71 buys the 1st Print White Bottom box, and a listing that names no wave is a price you cannot trust",
+          "Compare box against box: Japanese $202.68 against English $377.71, a $175.03 gap, and case-box against case-box, $198.44 against $295.60, a $97.16 gap",
+          "Divide the case before paying: Japanese saves $4.24 a box, English saves $82.11 a box, and both titles print twelve boxes",
+          "Price the Japanese box against the market: $55.07 below the SNKRDUNK ask of 41,000 yen, or $257.75 at 159.07 yen per dollar",
+          "Check the chase before opening: the Manga Shanks is $3,998.74 on TCGplayer market as of November 19, 2026, and the PRB-01 reprint is $1,221.56, so check which printing the listing is",
+          "Confirm tournament legality with your organizer before buying Japanese cards to play, and remember only four OP-01 numbers are still Standard-legal after April 1, 2026",
+          "Buy the Manga Shanks as a single at $3,998.74 if it is the only card you want; opening for one card is a lottery with no published pull rates",
+          "Store sealed product properly from arrival, and check seals before opening anything expensive"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "Before paying for OP-01 in either language, walk the list. For the format choice, the case-versus-box math settles it for each language separately, because the two cases behave oppositely. This article settles the language question, which is always decided before the format question. Once the language is settled, the [OP-01 investment guide](/blog/op-01-investment/) prices the hold, and [is OP-01 worth buying](/blog/is-op-01-worth-buying/) gives the dated verdict."
+        ]
+      }
+    ],
+    "slug": "op-01-japanese-vs-english-which-to-buy",
+    "takeaway": [
+      "OP-01 in Japanese costs $202.68 a box and in English costs $377.71, a $175.03 gap, and the cases hold the same shape at $198.44 a box in Japanese and $295.60 a box in English, a $97.16 gap. Buy Japanese to open the founding set cheapest, buy the English 1st Print White Bottom box to own the set in English at $954.76 under market, and buy a case only for twelve boxes, because the Japanese case saves $4.24 a box while the English case saves $82.11. The [is OP-01 worth buying guide](/blog/is-op-01-worth-buying/) gives the dated verdict on the same four products, and the [OP-01 investment guide](/blog/op-01-investment/) runs them as a hold.",
+      "The chase is the first Manga Rare in the game: the Shanks parallel, OP01-120, at $3,998.74 on TCGplayer market as of November 19, 2026, confirmed at the same price on November 22 and November 23, 2026, with the three Leader parallels behind it at $2,135.62 combined. The manga is 19.73 Japanese boxes and 10.59 English boxes, and the PRB-01 reprint is $1,221.56, so check which printing the listing is. The [OP-01 best cards guide](/blog/op-01-best-cards/) ranks all ten chase cards the same way.",
+      "Companion guide: the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) works the same split for the first Extra Booster, with a 5.10 times language gap for the same 61 card types. For the set in full, the [OP-01 Romance Dawn buyers guide](/blog/op-01-romance-dawn-buyers-guide/) prices the same four products for the opener."
     ]
   },
   "op-01-romance-dawn-buyers-guide": {
