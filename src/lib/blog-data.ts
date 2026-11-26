@@ -20637,7 +20637,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "EB-01 in Japanese costs $155.04 a box and in English costs $790.60, a 5.10 times gap for the same 61 card types, and the cases hold the same shape at 4.59 times. Buy English to play, buy Japanese for the lowest sealed price, buy the Oden alternate art as a single if it is the only card you want, and open neither for profit when a typical opened English box returns $166.66 against $790.60 sealed. Two counts stay unprinted, the Japanese packs-per-box and the English case box count, and this guide leaves both blank rather than inventing them. That honesty is the whole article: two languages, one store, one date, every division shown. For the next Extra Booster in the same line, the [EB-02 Anime 25th Collection buyer's guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the Japanese box, the Japanese case, the English box, and the English case from one shelf, with the English case division honestly withheld.",
       "Companion guide: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) gives the dated verdict on the same four products, with the English box down exactly 20% since this guide and the Chopper Manga priced against the box.",
-      "Companion guide: the [OP-01 Japanese vs English guide](/blog/op-01-japanese-vs-english-which-to-buy/) works the same split for the founding set, with the Japanese box at $202.68 and the English 1st Print White Bottom box at $377.71."
+      "Companion guide: the [OP-01 Japanese vs English guide](/blog/op-01-japanese-vs-english-which-to-buy/) works the same split for the founding set, with the Japanese box at $202.68 and the English 1st Print White Bottom box at $377.71.",
+      "For the set after this one, the [EB-02 Japanese vs English guide](/blog/eb-02-japanese-vs-english-which-to-buy/) works the same split for Anime 25th Collection, where the English box costs 1.24 times the Japanese box instead of 5.10."
     ]
   },
   "eb-02-anime-25th-collection-buyers-guide": {
@@ -21197,7 +21198,293 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "EB-02 Anime 25th Collection is a good sealed investment in English at $188.16 a box, $540.44 below the $728.60 TCGplayer market price of November 16, 2026, and a patience test in Japanese at $152.03, or 4.59 times the ¥5,280 official price, with the Japanese case saving only $32.43 over twelve singles.",
       "All four products fell exactly 15 percent between November 12 and November 16, 2026, from $178.86, $2,108.15, $221.36, and $2,503.99: a shelf repricing, not a market crash, after a 20 percent English cut in the eight days before that.",
-      "The Luffy manga, EB02-061, is the whole chase: $1,725 raw in Japanese and $3,859 raw in English on PackSpy as of November 16, 2026, with a PSA 10 at $8,971 in English, and the lowest raw ask on SNKRDUNK was ¥300,000 on September 30, 2026, against about ¥118,000 at release."
+      "The Luffy manga, EB02-061, is the whole chase: $1,725 raw in Japanese and $3,859 raw in English on PackSpy as of November 16, 2026, with a PSA 10 at $8,971 in English, and the lowest raw ask on SNKRDUNK was ¥300,000 on September 30, 2026, against about ¥118,000 at release.",
+      "For the opener's split of the same set, the [EB-02 Japanese vs English guide](/blog/eb-02-japanese-vs-english-which-to-buy/) prices the Japanese box at $152.03 against the English box at $188.16, with the English case saving conditional on its unprinted box count."
+    ]
+  },
+  "eb-02-japanese-vs-english-which-to-buy": {
+    "datePublished": "2026-11-26",
+    "faqs": [
+      {
+        "a": "Buy the Japanese box at $152.03 as of November 26, 2026 if the job is opening Anime 25th Collection at the lowest sealed price, and buy the English box at $188.16 if the job is the set in English, because Japanese cards are not legal at official events outside Asia. The Japanese case costs $1,791.93 and saves $32.43 against twelve singles, so buy the case if twelve boxes are the plan, and the English case costs $2,128.39 with no box count printed, so its $129.53 saving holds only if it holds twelve boxes. The English box sits $535.16 below the $723.32 Pullnomics market box on the November 25, 2026 read, so check the market before paying.",
+        "q": "Should I buy EB-02 Japanese or English?"
+      },
+      {
+        "a": "Because the English pack holds twelve cards against six in the Japanese pack. The English box at $188.16 divides to $7.84 a pack and $0.65 a card, and the Japanese box at $152.03 divides to $6.33 a pack and $1.06 a card, so the English card costs $0.41 less even though the English box costs $36.13 more, as of November 26, 2026. Both languages list the same 87 card types plus 1 secret, so the set is the same size in either language, and the per-card figure is the one that decides the opening, not the box price.",
+        "q": "Why is the English EB-02 card cheaper than the Japanese card when the English box costs more?"
+      },
+      {
+        "a": "It is a market read, not a sale. TCGPursuit prints $5,108.00 for the Luffy Manga, EB02-061, on its November 26, 2026 TCGplayer read, and Haki TCG prints the same $5,108.00 on November 23, 2026, but the card is 36.75 percent of the $13,899.39 top ten on that read, and the list around it fell $645.18 in seven days while Sabo SP lost its market price entirely. The Japanese raw market tells a different story: the lowest raw ask on SNKRDUNK on September 30, 2026 was 300,000 yen, about $1,883.00 at 159.32 yen per dollar, and the PSA 10 monthly median on CardboardSniper is $13,958.71 as of November 26, 2026. Buy the single if the card is the job, and never open boxes for it.",
+        "q": "Is the $5,108.00 Luffy Manga price real?"
+      }
+    ],
+    "h1": "EB-02 Anime 25th Collection: Japanese vs English",
+    "intro": [
+      "Short answer: buy the Japanese box at $152.03 to open Anime 25th Collection at the lowest sealed price, buy the English box at $188.16 to own the set in English, and buy the Japanese case at $1,791.93 if twelve boxes are the plan, because it saves $32.43 against twelve singles. The English case at $2,128.39 prints no box count, so its $129.53 saving is conditional only, and only if the case holds twelve boxes. The English box sits $535.16 below its $723.32 Pullnomics market box and $423.83 below its $611.99 WorthRipping market box, both read November 25, 2026, so the shelf beats the market in English by either read. Every price here is stamped November 26, 2026.",
+      "EB-02 Anime 25th Collection is the second One Piece Extra Booster, built for the 25th anniversary of the TV anime, with new illustrations drawn by the anime's artists. It released in Japan on January 25, 2025 and in English on May 9, 2025, 104 days apart, with English legal play from May 16, 2025. Both languages list 87 card types plus 1 secret: 1 Leader, 29 Commons, 21 Rares, 9 Super Rares, 1 Secret Rare, and 26 Special Cards. The Japanese box holds 24 packs of 6 cards, 144 cards, and the English box holds 24 packs of 12 cards, 288 cards, and the EB02-numbered cards carry Block 3. The four products on this shelf fell between November 4 and November 16, 2026, the Japanese pair by 15.00 percent and the English pair by 32.00 percent, and neither price has moved since."
+    ],
+    "metaDescription": "EB-02 Japanese box $152.03, English box $188.16. The Japanese case saves $32.43, the English case count is unprinted, top ten $13,899.39.",
+    "metaTitle": "EB-02 Anime 25th Collection: Japanese vs English",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "A collector who wants to open Anime 25th Collection buys the [EB-02 Japanese booster box](/product/eb-02-anime-25th-collection-booster-box-japanese-one-piece-card/) at $152.03 as of November 26, 2026: 24 packs of 6 cards, 144 cards, $6.33 a pack and $1.06 a card, the cheapest sealed way in. It costs 4.59 times its official Japanese box of 5,280 yen, which converts to $33.14 at 159.32 yen per dollar on the November 25, 2026 ECB rate, and the multiple is the anniversary chase premium. Against its own market: the lowest SNKRDUNK box ask on September 30, 2026 was 29,000 yen, about $182.02 at the same rate, so our box sits $29.99 below a two-month-old ask. The wider ladder is in the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/).",
+          "A buyer who wants the set in English buys the [EB-02 English booster box](/product/eb-02-anime-25th-collection-extra-booster-box-english-one-piece-card/) at $188.16: 24 packs of 12 cards, 288 cards, $7.84 a pack and $0.65 a card. The box sits $535.16 below the $723.32 Pullnomics market box and $423.83 below the $611.99 WorthRipping market box, both read November 25, 2026, 73.99 percent and 69.25 percent below those reads, and the two reads sit $111.33 apart. The English box costs $36.13 more than the Japanese box, 1.24 times as much, yet the English card costs $0.41 less, $0.65 against $1.06, because the English pack holds twice the cards. The [EB-02 best cards guide](/blog/eb-02-best-cards/) ranks the chase.",
+          "A buyer who wants twelve boxes buys the [EB-02 Japanese sealed case](/product/eb-02-anime-25th-collection-sealed-case-12-boxes-japanese-one-piece-card/) at $1,791.93 as of November 26, 2026, or $149.33 a box against twelve singles at $1,824.36, a $32.43 saving, $2.70 a box. The [EB-02 English sealed case](/product/eb-02-anime-25th-collection-sealed-case-english-one-piece-card/) at $2,128.39 prints no box count, so no per-box figure is claimed for it: if it held twelve boxes it would divide to $177.37 a box and save $129.53 against twelve singles, $10.79 a box, but that saving is conditional until the count is printed."
+        ]
+      },
+      {
+        "h": "The money layer: four products, two languages",
+        "paragraphs": [
+          "Start with the Japanese box, the shelf's cheapest EB-02 entry. At $152.03 it is $6.33 a pack and $1.06 a card, against an official Japanese box of 24 packs at 220 yen, or 5,280 yen, which converts to $33.14 at 159.32 yen per dollar on the November 25, 2026 ECB rate: 4.59 times official. The official page prices the pack and prints no box figure, so the 5,280 yen is 24 packs at the printed pack price, not a printed box price. The Japanese case box at $149.33 is 4.51 times official, and the case saves $32.43 against twelve singles. The [sealed case versus booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division.",
+          "The English box is the expensive half, and it is cheap on every market we checked. At $188.16, or $7.84 a pack and $0.65 a card, it sits against a $119.76 MSRP box, 1.57 times its MSRP and $68.40 above it. On the November 25, 2026 reads it sits $535.16 below the $723.32 Pullnomics box and $423.83 below the $611.99 WorthRipping box, and FoilKraken prices it at $751.53 on November 1, 2026. WorthRipping's own box price has risen, not fallen: $575.06 on November 1, $596.74 on November 16, and $611.99 on November 25, up 6.42 percent in 24 days, while the Pullnomics read slipped $5.28 in the same window. WorthRipping prices the cards inside an English box at $1,152 on average after selling costs and $1,115 for a typical box, 6.12 times and 5.93 times our box, but those are simulated values from estimated pull rates, not Bandai figures."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack / per card",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box (shelf)",
+              "$152.03, Nov 26 2026",
+              "$6.33 a pack; $1.06 a card",
+              "Opening Anime 25th cheapest",
+              "4.59 times the official box"
+            ],
+            [
+              "Japanese case, 12 boxes (shelf)",
+              "$1,791.93, Nov 26 2026",
+              "$149.33 a box; $6.22 a pack",
+              "Twelve Japanese boxes in one carton",
+              "Saves only $2.70 a box"
+            ],
+            [
+              "English box (shelf)",
+              "$188.16, Nov 26 2026",
+              "$7.84 a pack; $0.65 a card",
+              "English set; playable outside Asia",
+              "1.57 times its $119.76 MSRP"
+            ],
+            [
+              "English case (shelf)",
+              "$2,128.39, Nov 26 2026",
+              "Not divided here; count unprinted",
+              "English boxes in bulk",
+              "Box count unprinted; $2,128.39 at once"
+            ],
+            [
+              "Japanese box, official",
+              "5,280 yen ($33.14)",
+              "$1.38 a pack; $0.23 a card",
+              "Japan retail price, not an export price",
+              "Not payable outside Japan"
+            ],
+            [
+              "English box, official",
+              "$119.76",
+              "$4.99 a pack; $0.42 a card",
+              "List price at release",
+              "No sealed box sells at list now"
+            ],
+            [
+              "English box, Pullnomics market",
+              "$723.32, Nov 25 2026",
+              "$30.14 a pack",
+              "Market reference",
+              "$111.33 above the WorthRipping read"
+            ],
+            [
+              "English box, WorthRipping market",
+              "$611.99, Nov 25 2026",
+              "$25.50 a pack",
+              "Second market reference",
+              "$111.33 below the Pullnomics read"
+            ],
+            [
+              "English box, FoilKraken market",
+              "$751.53, Nov 1 2026",
+              "$31.31 a pack",
+              "Third market reference",
+              "Oldest read; market has moved since"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "Japanese box per pack: $152.03 / 24 packs = $6.33 per pack",
+          "Japanese box per card: $152.03 / 144 cards = $1.06 per card",
+          "Japanese case per box: $1,791.93 / 12 boxes = $149.33 per box",
+          "Japanese case vs singles: 12 x $152.03 = $1,824.36; $1,824.36 - $1,791.93 = $32.43 saved; $32.43 / 12 = $2.70 saved per box",
+          "Japanese case per pack: $1,791.93 / 288 packs = $6.22 per pack; per card: $1,791.93 / 1,728 cards = $1.04 per card",
+          "Japanese official box, Nov 25 rate: 24 x 220 yen = 5,280 yen; 5,280 / 159.32 = $33.14; $152.03 / $33.14 = 4.59 times official",
+          "Japanese official box per pack: $33.14 / 24 = $1.38 per pack; per card: $33.14 / 144 = $0.23 per card",
+          "Japanese case box vs official: $149.33 / $33.14 = 4.51 times official",
+          "Japanese box above official: $152.03 - $33.14 = $118.89 above the derived official box price",
+          "English box per pack: $188.16 / 24 packs = $7.84 per pack",
+          "English box per card: $188.16 / 288 cards = $0.65 per card",
+          "English official box: 24 x $4.99 = $119.76; $188.16 - $119.76 = $68.40 above MSRP; $188.16 / $119.76 = 1.57 times MSRP",
+          "English official box per card: $4.99 / 12 = $0.42 per card",
+          "CONDITIONAL, NOT CLAIMED: if the English case held 12 boxes, 12 x $188.16 = $2,257.92 singles vs $2,128.39 case, saving $129.53 ($10.79 per box); $2,128.39 / 12 = $177.37 per box if 12",
+          "CONDITIONAL, NOT CLAIMED: English case per box vs MSRP if 12: $177.37 / $119.76 = 1.48 times MSRP; $177.37 - $119.76 = $57.61 above MSRP",
+          "Language gap per box: $188.16 - $152.03 = $36.13; $188.16 / $152.03 = 1.24 times the Japanese box",
+          "Language gap per pack: $7.84 - $6.33 = $1.51; per card gap: $1.06 - $0.65 = $0.41; per card ratio: ($188.16 / 288) / ($152.03 / 144) = 0.62 times",
+          "Cards per dollar: Japanese 144 / $152.03 = 0.95; English 288 / $188.16 = 1.53",
+          "Set size: 87 + 1 in both languages; 87 / 87 = 1.00 times; no size gap this set",
+          "Special Cards share: 26 / 87 = 29.89% of the card types",
+          "Release gap: May 9, 2025 - Jan 25, 2025 = 104 days",
+          "Repricing, Japanese Nov 12 to Nov 16: $178.86 - $152.03 = $26.83; $26.83 / $178.86 = 15.00%",
+          "Repricing, Japanese case Nov 12 to Nov 16: $2,108.15 - $1,791.93 = $316.22; $316.22 / $2,108.15 = 15.00%",
+          "Repricing, English Nov 4 to Nov 12: $276.70 - $221.36 = $55.34; $55.34 / $276.70 = 20.00%",
+          "Repricing, English Nov 12 to Nov 16: $221.36 - $188.16 = $33.20; $33.20 / $221.36 = 15.00%",
+          "Repricing, English Nov 4 to Nov 16: $276.70 - $188.16 = $88.54; $88.54 / $276.70 = 32.00%",
+          "Repricing, English case Nov 4 to Nov 12: $3,129.99 - $2,503.99 = $626.00; $626.00 / $3,129.99 = 20.00%",
+          "Repricing, English case Nov 12 to Nov 16: $2,503.99 - $2,128.39 = $375.60; $375.60 / $2,503.99 = 15.00%",
+          "Repricing, English case Nov 4 to Nov 16: $3,129.99 - $2,128.39 = $1,001.60; $1,001.60 / $3,129.99 = 32.00%",
+          "Language gap, Nov 4 to Nov 26: $97.84 - $36.13 = $61.71 narrower; $36.13 / $97.84 = 36.93% of the Nov 4 gap",
+          "English box vs Pullnomics market, Nov 25, 2026: $723.32 - $188.16 = $535.16 below market; $535.16 / $723.32 = 73.99% below market; $188.16 / $723.32 = 26.01% of market",
+          "English box vs WorthRipping market, Nov 25, 2026: $611.99 - $188.16 = $423.83 below market; $423.83 / $611.99 = 69.25% below market; $188.16 / $611.99 = 30.75% of market",
+          "Market reads apart: $723.32 - $611.99 = $111.33; $111.33 / $723.32 = 15.39% apart",
+          "English market per pack: Pullnomics $723.32 / 24 = $30.14 per pack; WorthRipping $611.99 / 24 = $25.50 per pack",
+          "English box vs FoilKraken market, Nov 1, 2026: $751.53 - $188.16 = $563.37 below market; $563.37 / $751.53 = 74.96% below market",
+          "English box vs TCG Quant market, Nov 13, 2026: $735.17 - $188.16 = $547.01 below market; $547.01 / $735.17 = 74.41% below market",
+          "WorthRipping market path, Nov 1 to Nov 25: $611.99 - $575.06 = $36.93; $36.93 / $575.06 = 6.42% up in 24 days",
+          "WorthRipping market path, Nov 16 to Nov 25: $611.99 - $596.74 = $15.25; $15.25 / $596.74 = 2.56% up in 9 days",
+          "Pullnomics market path, Nov 16 to Nov 25: $728.60 - $723.32 = $5.28; $5.28 / $728.60 = 0.72% down in 9 days",
+          "WorthRipping lowest listing vs our box: $393.66 - $188.16 = $205.50 above our box; $393.66 / $188.16 = 2.09 times our box",
+          "WorthRipping cards inside vs our box: $1,152 / $188.16 = 6.12 times on average; $1,115 / $188.16 = 5.93 times for a typical box (simulated, Nov 25, 2026)",
+          "English case vs twelve Pullnomics market boxes: 12 x $723.32 = $8,679.84; $8,679.84 - $2,128.39 = $6,551.45 below market; $6,551.45 / $8,679.84 = 75.48% below it",
+          "English case vs twelve WorthRipping market boxes: 12 x $611.99 = $7,343.88; $7,343.88 - $2,128.39 = $5,215.49 below market; $5,215.49 / $7,343.88 = 71.02% below it",
+          "Japanese box vs SNKRDUNK ask, Sep 30, 2026: 29,000 / 159.32 = $182.02; $182.02 - $152.03 = $29.99 below the ask; $29.99 / $182.02 = 16.48% below it",
+          "Top ten total, TCGPursuit Nov 26, 2026: $5,108.00 + $1,200.00 + $1,199.99 + $1,100.00 + $1,053.98 + $1,004.97 + $900.00 + $820.00 + $781.30 + $731.15 = $13,899.39",
+          "Top two: $5,108.00 + $1,200.00 = $6,308.00; $6,308.00 / $13,899.39 = 45.38% of the top ten",
+          "Top five: $5,108.00 + $1,200.00 + $1,199.99 + $1,100.00 + $1,053.98 = $9,661.97; $9,661.97 / $13,899.39 = 69.51% of the top ten",
+          "Bottom five: $1,004.97 + $900.00 + $820.00 + $781.30 + $731.15 = $4,237.42; $4,237.42 / $13,899.39 = 30.49% of the top ten",
+          "EB02-numbered two total: $5,108.00 + $1,053.98 = $6,161.98; $6,161.98 / $13,899.39 = 44.33% of the top ten",
+          "SP eight total: $13,899.39 - $6,161.98 = $7,737.41; $7,737.41 / $13,899.39 = 55.67% of the top ten",
+          "Luffy Manga share: $5,108.00 / $13,899.39 = 36.75% of the top ten",
+          "Top ten slide, Nov 18-19 to Nov 26: $14,544.57 - $13,899.39 = $645.18; $645.18 / $14,544.57 = 4.44% down in 7 days",
+          "Dragon SP slide, Nov 18-19 to Nov 26: $1,100.00 - $1,016.67 = $83.33; $83.33 / $1,016.67 = 8.20% up in 7 days",
+          "Belo Betty SP slide, Nov 18-19 to Nov 26: $879.66 - $820.00 = $59.66; $59.66 / $879.66 = 6.78% down in 7 days",
+          "Luffy Manga vs boxes: $5,108.00 / $152.03 = 33.60 Japanese boxes; $5,108.00 / $188.16 = 27.15 English boxes",
+          "Top ten vs boxes: $13,899.39 / $152.03 = 91.43 Japanese boxes; $13,899.39 / $188.16 = 73.87 English boxes",
+          "Luffy Manga PSA 10 vs raw: $13,958.71 / $5,108.00 = 2.73 times; vs Japanese box: $13,958.71 / $152.03 = 91.82 boxes (CardboardSniper, Nov 26, 2026)",
+          "Luffy alternate art vs boxes: $1,053.98 / $152.03 = 6.93 Japanese boxes; $1,053.98 / $188.16 = 5.60 English boxes",
+          "Base set value vs boxes: $116.28 / $152.03 = 76.48% of the Japanese box; $116.28 / $188.16 = 61.80% of the English box (GradeValue, Nov 20, 2026)",
+          "EB-02 vs EB-01, Japanese box: $152.03 - $131.78 = $20.25; $152.03 / $131.78 = 1.15 times",
+          "EB-02 vs EB-01, English box: $537.61 - $188.16 = $349.45; $188.16 / $537.61 = 0.35 times",
+          "Four products together: $152.03 + $1,791.93 + $188.16 + $2,128.39 = $4,260.51"
+        ],
+        "paragraphs": [
+          "Each figure above is one division away from a listed price. The Japanese official box converts at 159.32 yen per dollar, the ECB reference rate of November 25, 2026, because the November 26 fixing was not yet published, and the English market figures are the Pullnomics and WorthRipping reads of November 25, 2026, with older reads beside them. The top ten prices come from the TCGPursuit TCGplayer snapshot checked November 26, 2026, with the November 18-19, 2026 figures beside them."
+        ]
+      },
+      {
+        "h": "What the other guides miss: four shelf prices, the unprinted English case count, and a top ten that moved in a week",
+        "note": "Warehouse Note: the question we get most in chat about EB-02 is whether the English box is worth it now that it has fallen so far. Our answer starts with the repricing, because it is the fact most guides cannot have yet: all four EB-02 products fell in two legs, the English pair by 32.00 percent since November 4 and the Japanese pair by 15.00 percent in the November leg, and neither price has moved since November 16. The box is worth buying as the anniversary set, sealed or opened, and it is not worth buying as a way to own one named card. Say that first, and the rest of the numbers fall into place.",
+        "paragraphs": [
+          "The top results for this query are our own guides, and they price the set well: our [EB-02 Anime 25th Collection buyers guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the same four products at the November 4 prices, [is EB-02 worth buying](/blog/is-eb-02-worth-buying/) gives the dated verdict at the November 12 prices, and the [EB-02 investment guide](/blog/eb-02-investment/) runs the hold at the November 16 prices. Outside, Samurai Sword Tokyo compares the two official pages with headings covering the set at a glance, what the official pages print, and the chase cards, but it sells the Japanese version only and lists no English shelf price. BountyTCG compares the languages in general, but it claims the two languages release simultaneously since OP-15, which the dates contradict: January 25 and May 9 are 104 days apart. What none of them does is answer the language question with all four shelf prices side by side on one date.",
+          "This page owns six findings the top results do not carry. First, the four shelf prices side by side: $152.03, $1,791.93, $188.16, and $2,128.39. Second, the case verdicts split: the Japanese case saves $32.43 and the English case saving is conditional only, $129.53 if it holds twelve boxes, a count no listing prints. Third, the per-card inversion stated plainly: the English box costs $36.13 more, yet the English card costs $0.41 less, $0.65 against $1.06, because the English pack holds twelve cards against six. Fourth, the current top ten, priced November 26, 2026 on TCGPursuit: Luffy Manga EB02-061 at $5,108.00, Marco SP OP08-002 at $1,200.00, Perona SP OP06-021 at $1,199.99, Dragon SP OP07-001 at $1,100.00, Luffy alternate art EB02-010 at $1,053.98, Rosinante SP OP05-022 at $1,004.97, Enel SP OP05-098 at $900.00, Belo Betty SP OP05-002 at $820.00, Reiju SP OP06-042 at $781.30, and Bonney SP OP07-019 at $731.15, $13,899.39 together, down $645.18 from the November 18-19 read. Fifth, the market disagreement: $723.32 against $611.99 on November 25, 2026, $111.33 apart. Sixth, the Sabo flag: Sabo SP OP05-001, $1,400.00 on the November 18-19 read, carries no market price on November 26, and twelve versions carry none at all, including the Boa Hancock SP other guides price at $6,969.69."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "Find your row: a player who buys the wrong language has bought the wrong product at a good price."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener, cheapest sealed entry",
+              "Japanese box at $152.03",
+              "$6.33 a pack; the anniversary set at its lowest sealed price"
+            ],
+            [
+              "Player outside Asia",
+              "English box at $188.16",
+              "Playable language; 87 plus 1 types; $535.16 below the Nov 25 Pullnomics market"
+            ],
+            [
+              "Sealed holder, Japanese",
+              "Japanese case at $1,791.93",
+              "$149.33 a box; saves $32.43 against twelve singles"
+            ],
+            [
+              "Sealed holder, English",
+              "English case at $2,128.39, eyes open",
+              "Bulk English EB-02, but the box count is unprinted so no per-box rate is claimed"
+            ],
+            [
+              "Collector chasing the Luffy Manga",
+              "The Luffy Manga single, $5,108.00 on the Nov 26 read",
+              "33.60 Japanese boxes and 27.15 English boxes; opening for one card is a lottery with no published pull rates"
+            ],
+            [
+              "Anyone wanting one English box cheap",
+              "The English box at $188.16",
+              "It sits below both markets we checked: $535.16 under Pullnomics and $423.83 under WorthRipping"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Japan versus international: 104 days apart, two different games",
+        "note": "Warehouse Note: the question we get second most in chat about EB-02 is whether a Japanese box can be played at a local event outside Asia, because the box is $36.13 cheaper and the cards look the same in a sleeve. They are not the same at an official table: Japanese cards are legal only in Japan and seven Asian regions, so a player outside Asia who buys the cheaper box to compete has saved $36.13 on cards that cannot be played. Buy the language your tournament allows, then worry about the price.",
+        "paragraphs": [
+          "EB-02 is the second Extra Booster, and the release gap shapes the whole comparison. Japan got Anime 25th Collection on January 25, 2025, and English followed on May 9, 2025, 104 days later, with legal play from May 16, 2025. That gap is the old pattern, not the new one: since OP-15 the two languages release together, so EB-02 is a set where the English buyer waited more than three months while the Japanese market set the chase prices. What the gap does not change is the price band: a Japanese pack lists at 220 yen and an English pack at $4.99, and the two sealed markets price independently.",
+          "On legality, Bandai's official rules, Rules for the use of Different Languages, dated November 7, 2025, allow the Japanese version only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand. The English version can be used in North America, Latin America, Europe, and Oceania, plus the same Asian regions, and decks mixing Japanese and English cards are allowed only in Taiwan and Thailand. A player outside Asia who buys Japanese cards to compete has bought cards for the wrong region, and the reverse holds in Japan, because English is not on Japan's list.",
+          "The two sets are the same cards in two languages this time. Both list 87 card types plus 1 secret: 1 Leader, 29 Commons, 21 Rares, 9 Super Rares, 1 Secret Rare, and 26 Special Cards. The one Leader is Monkey.D.Luffy, EB02-010, and the one Secret Rare is Monkey.D.Luffy, EB02-061. The 26 Special Cards are reprinted leaders from OP05 through OP08 and EB-01, which is why eight of the top ten carry old set numbers. The EB02-numbered cards carry Block 3, legal in Standard until at least March 31, 2028, while the SP leaders carry their original OP05 to OP08 numbers, which puts most of them in Block 2, and Block 2 leaves Standard on April 1, 2027."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "The expensive failure is opening a box for the Luffy Manga. The card is $5,108.00 on the November 26, 2026 TCGPursuit read, 33.60 Japanese boxes and 27.15 English boxes, and Bandai has never published pull rates. WorthRipping's estimate, built from boxes with the same pack layout, puts the Manga art at 1 in 40 boxes and a Special Card at 1 in 3.9 boxes, and its simulation puts the cards inside an English box at $1,152 on average after selling costs, with 40 of 100 boxes losing money against its $611.99 market box. Against our $188.16 box the same cards inside are 6.12 times the box, but that is a simulation, not a sale. The second failure is the top ten itself: Sabo SP OP05-001 carried $1,400.00 on the November 18-19 read and carries no market price at all on November 26, so a buyer quoting last week's list has already overpaid for a card the market stopped pricing.",
+          "The third failure is buying the English case without confirming the count: the $129.53 saving holds only if the case holds twelve boxes, a count no listing prints. The fourth failure is buying the English box against one market only: it sits $535.16 below the $723.32 Pullnomics box and $423.83 below the $611.99 WorthRipping figure, both November 25, 2026, so a buyer who checks one market has half the answer. The fifth failure is the reseal: an English box at $188.16 against a $611.99 to $723.32 market range is exactly the gap resealers monetize, so read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) first, and [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards/) covers the tells. The sixth failure is reading an older guide and paying the old price: the shelf fell 15.00 percent Japanese and 32.00 percent English between November 4 and November 16, 2026, so re-check the shelf on the day you pay. One more number moves fast: the Nami Rare EB02-017 reads $28.37 on November 26, up 76.5 percent in seven days on TCGPursuit, so quote the date with that number, every time."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Luffy Manga, a guaranteed return, or a box price that never moves: the chase is a lottery with no published pull rates, the Manga read has not moved while the list around it fell $645.18 in a week, and the shelf fell 15.00 percent Japanese and 32.00 percent English in twelve days. It is not for the buyer who wants a Japanese box to play with at a tournament outside Asia: Japanese cards are not legal at official events in North America, Latin America, Europe, or Oceania. It is not for anyone buying twelve English boxes without confirming the case count first: the count is unprinted and the $129.53 saving is conditional. It is not for anyone who wants only new EB02-numbered cards, because 26 of the 87 types are reprinted leaders and eight of the top ten carry old set numbers."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide language first: English to play outside Asia, Japanese to collect the origin printing or open at the lowest sealed price",
+          "Compare box against box: Japanese $152.03 against English $188.16, a $36.13 gap, and remember the English pack holds twice the cards, 12 against 6, so the English card is $0.41 cheaper",
+          "Divide the Japanese case before paying: it saves $2.70 a box against singles, so buy the case at $1,791.93 if twelve boxes are the plan",
+          "Do not divide the English case before paying: its box count is unprinted, so confirm twelve boxes before paying for the $129.53 conditional saving",
+          "Check the English box against both markets: $535.16 below the $723.32 Pullnomics box as of November 25, 2026, and $423.83 below the $611.99 WorthRipping figure of the same day",
+          "Flag the market movement every time: the WorthRipping market rose $36.93 from November 1 to November 25, 2026, so quote the date and the source with the number",
+          "Price the Japanese box against its official price: $152.03 is 4.59 times the 5,280 yen box, $33.14 at 159.32 yen per dollar on November 25, 2026",
+          "Check the chase before opening: the Luffy Manga is $5,108.00 on the November 26, 2026 read, and Sabo SP lost its market price entirely in a week, so buy the single if the card is the job",
+          "Check the 104-day gap before paying an early-access premium: Japan released January 25, 2025 and English followed May 9, so no premium is owed for timing",
+          "Confirm tournament legality with your organizer before buying Japanese cards to play, and remember Japanese cards are legal only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "Before paying for EB-02 in either language, walk the list. The case-versus-box math settles the format for each language separately, because the two cases split this time. This article settles the language question before the format question. Once the language is settled, the [EB-02 investment guide](/blog/eb-02-investment/) prices the hold, and [is EB-02 worth buying](/blog/is-eb-02-worth-buying/) gives the dated verdict."
+        ]
+      }
+    ],
+    "slug": "eb-02-japanese-vs-english-which-to-buy",
+    "takeaway": [
+      "EB-02 in Japanese costs $152.03 a box and in English costs $188.16, a $36.13 gap, and the Japanese case divides to $149.33 a box, $2.70 a box less than twelve singles, while the English case prints no box count, so its $129.53 saving is conditional only. Buy Japanese to open the anniversary set cheapest, buy the English box to own the set in English, and buy the Japanese case if twelve boxes are the plan. The English box sits $535.16 below its $723.32 Pullnomics market box as of November 25, 2026, so it beats the market. The [EB-02 investment guide](/blog/eb-02-investment/) runs the same four products as a hold.",
+      "The chase is the Luffy Manga, EB02-061, at $5,108.00 on the November 26, 2026 TCGPursuit read, and it is 36.75 percent of the $13,899.39 top ten on that read, but the list around it fell $645.18 in seven days and Sabo SP lost its market price entirely. The Luffy alternate art, EB02-010, is $1,053.98, and the top two together are $6,308.00, 45.38 percent of the list. The top five together are $9,661.97, 69.51 percent of the top ten, and the bottom five together are $4,237.42, 30.49 percent. The two EB02-numbered cards are $6,161.98 together, 44.33 percent of the list, and the eight SP reprints are $7,737.41, 55.67 percent. The Luffy Manga is 33.60 Japanese boxes and 27.15 English boxes, so buy the single if the card is the job. The [EB-02 best cards guide](/blog/eb-02-best-cards/) ranks all ten chase cards the same way.",
+      "Companion guide: the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy/) works the same split for Memorial Collection, the set before this one, where the English box costs 5.10 times the Japanese box instead of 1.24. For the set itself, the [EB-02 investment guide](/blog/eb-02-investment/) prices the hold and [is EB-02 worth buying](/blog/is-eb-02-worth-buying/) gives the dated verdict. For the opener's version of this set, the [EB-02 Anime 25th Collection buyers guide](/blog/eb-02-anime-25th-collection-buyers-guide/) prices the same four products for opening rather than holding."
     ]
   },
   "eb-03-best-cards": {
@@ -28964,7 +29251,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 12, 2026, and the marketplace references as of February 7 to October 7, 2026. The 20% English drop is the fact that outlives every price on this page: sealed prices move, and a box bought as an investment can fall as fast as it rose.",
       "Companion guide: the [is EB-01 worth buying guide](/blog/is-eb-01-worth-buying/) prices the Memorial Collection the same way, with its own 20% English drop. For the whole shelf as one dated board, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides all twenty-four boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
       "Companion guide: the [is EB-03 worth buying guide](/blog/is-eb-03-worth-buying/) prices the Heroines Edition the same way, with its own 20% English drop and the Uta Manga against the box.",
-      "For the set’s ten best cards priced the same way, the [EB-02 best cards guide](/blog/eb-02-best-cards/) ranks the Luffy Manga at $5,108.00 against the $152.03 Japanese box."
+      "For the set’s ten best cards priced the same way, the [EB-02 best cards guide](/blog/eb-02-best-cards/) ranks the Luffy Manga at $5,108.00 against the $152.03 Japanese box.",
+      "For the Japanese-versus-English split, the [EB-02 Japanese vs English guide](/blog/eb-02-japanese-vs-english-which-to-buy/) prices the same four products in both languages on the November 26, 2026 shelf, Japanese box $152.03 against English box $188.16, with the English case saving conditional on its unprinted box count."
     ]
   },
   "is-eb-03-worth-buying": {
@@ -34283,7 +34571,8 @@ export const POSTS: Record<string, BlogPost> = {
       "It is worth buying with the price path in mind: the Japanese box rose twenty percent from $70.00 to $84.00 between October 24 and November 4, 2026, then fell fifteen percent to $71.40 on November 13, and the case did the same, from $755.00 to $906.00 to $770.10. The case saving survived both legs.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 13, 2026, and the marketplace references as of November 12 to 13, 2026. The box now sits as the second-cheapest Japanese One Piece box on the shelf, after OP-15 at $59.06, which is the fact that outlives every price on this page: divide before you buy, every time.",
       "For the price-and-math companion, the [OP-18 The Dominance of God preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide/) runs the October prices side by side, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) ranks every Japanese box on the shelf, and the [is OP-17 worth buying guide](/blog/is-op-17-worth-buying/) runs the same verdict on the anniversary set, where the Japanese case charges a premium instead of saving. For the investment version of this set, the [OP-18 The Dominance of God investment guide](/blog/op-18-investment/) runs the same division on a pre-order English case at $94.68 a box.",
-      "New this cycle: the [OP-18 best cards guide](/blog/op-18-best-cards/) ranks the set's ten most valuable cards on release-day TCGplayer prices, Nov 21, 2026, with the $1,500.00 Robin Manga at the top and the Japanese case saving $86.70 against twelve singles."
+      "For the set's ten best cards, the [OP-18 best cards guide](/blog/op-18-best-cards/) ranks the set's ten most valuable cards on release-day TCGplayer prices, Nov 21, 2026, with the $1,500.00 Robin Manga at the top and the Japanese case saving $86.70 against twelve singles.",
+      "For the Japanese-versus-English split, the [OP-18 Japanese vs English guide](/blog/op-18-japanese-vs-english-which-to-buy/) prices the same three products in both languages, and the Japanese case saving holds only if its standard 12-box count holds, a count the listing does not print."
     ]
   },
   "is-prb-01-worth-buying": {
@@ -66799,7 +67088,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "OP-17 in Japanese costs $103.09 a box and in English costs $144.22, a $41.13 gap, and the English case divides to $121.47 a box, $22.75 a box less than twelve singles, while the Japanese case divides to $103.28 a box, $0.19 a box more than twelve singles. Buy Japanese to open the anniversary set cheapest, buy the English box to own the set in English, and buy the English case if twelve boxes are the plan. The English box sits $120.21 below its $264.43 ShonenTCG market box as of November 25, 2026, so it beats the market. The [OP-17 investment guide](/blog/op-17-investment/) runs the same four products as a hold.",
       "The chase is the Xebec Super Alternate Art, OP17-118, at $6,100.00 on the November 26, 2026 MyTCGValue read, and it is 49.89 percent of the $12,226.02 top ten on that read, but it rests on a single data point with no recent sale. The Shanks Manga, OP17-022, is $1,451.59, and the top two together are $7,551.59, 61.77 percent of the list. The top five together are $10,510.69, 85.97 percent of the top ten, and the bottom five together are $1,715.33, 14.03 percent. The four Manga cards are $4,121.28 together, 33.71 percent of the list. The Xebec is 59.17 Japanese boxes and 42.30 English boxes, so buy the single if the card is the job. The [OP-17 best cards guide](/blog/op-17-best-cards/) ranks all ten chase cards the same way.",
-      "Companion guide: the [OP-16 Japanese versus English guide](/blog/op-16-japanese-vs-english-which-to-buy/) works the same split for The Time of Battle, the set before this one, where the gap was 13 days instead of 6. For the set itself, the [OP-17 investment guide](/blog/op-17-investment/) prices the hold and [is OP-17 worth buying](/blog/is-op-17-worth-buying/) gives the dated verdict. For the opener's version of this set, the [OP-17 The World's Strongest Warriors buyers guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the same four products for opening rather than holding."
+      "Companion guide: the [OP-16 Japanese versus English guide](/blog/op-16-japanese-vs-english-which-to-buy/) works the same split for The Time of Battle, the set before this one, where the gap was 13 days instead of 6. For the set itself, the [OP-17 investment guide](/blog/op-17-investment/) prices the hold and [is OP-17 worth buying](/blog/is-op-17-worth-buying/) gives the dated verdict. For the opener's version of this set, the [OP-17 The World's Strongest Warriors buyers guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the same four products for opening rather than holding.",
+      "For the set after this one, the [OP-18 Japanese vs English guide](/blog/op-18-japanese-vs-english-which-to-buy/) works the same split for The Dominance of God, where the English route is the case at $1,136.15 because no single English box is on the shelf."
     ]
   },
   "op-17-worlds-strongest-warriors-buyers-guide": {
@@ -67397,7 +67687,271 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "The OP-18 English case is the buy: $1,136.15 divides to $94.68 a box, $3.94 a pack and $0.33 a card, $113.32 below the November 17, 2026 market figure per box, and $300.97 below twelve boxes at MSRP. The Japanese case at $770.10 is the second buy, $64.18 a box, saving $86.70 against twelve singles on our own shelf. The Japanese box at $71.40 is the opener's buy only if the opening is the purchase, $2.98 a pack, and there is no English single box on this shelf to compare it against.",
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, the Japanese box 2.00% above its October 24 price after a 20% rise and a 15% fall, the market figure as of November 17, 2026, and the Amano asks as of November 12, 2026. When release lands on November 20, re-run the division: the gap that makes OP-18 the buy today is a shelf price and a market price, and either one can move.",
-      "For the opener's version of this set, the [OP-18 The Dominance of God pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) prices the same three products for buying before release, and [is OP-18 worth buying](/blog/is-op-18-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-17 World's Strongest Warriors investment guide](/blog/op-17-investment/) runs the same division on a released English case at $121.47 a box. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry."
+      "For the opener's version of this set, the [OP-18 The Dominance of God pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) prices the same three products for buying before release, and [is OP-18 worth buying](/blog/is-op-18-worth-buying/) runs the buy-or-pass verdict. For the set before, the [OP-17 World's Strongest Warriors investment guide](/blog/op-17-investment/) runs the same division on a released English case at $121.47 a box. Still deciding between a case and a box? The [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/) runs the same discipline across every game we carry.",
+      "For the opener's split of the same set, the [OP-18 Japanese vs English guide](/blog/op-18-japanese-vs-english-which-to-buy/) prices the Japanese box at $71.40 against the English case box at $94.68, with the Japanese case saving conditional on its unprinted box count."
+    ]
+  },
+  "op-18-japanese-vs-english-which-to-buy": {
+    "datePublished": "2026-11-26",
+    "faqs": [
+      {
+        "a": "Buy the Japanese box at $71.40 as of November 26, 2026 if the job is opening The Dominance of God at the lowest sealed price, and buy the English case at $1,136.15, or $94.68 a box, if the job is the set in English, because there is no English single box on this shelf. The Japanese case at $770.10 saves $86.70 against twelve singles only if its standard 12-box count holds, and the listing prints no box count, so confirm the count before paying. The English case box sits $93.86 below the $188.54 TCGplayer market box on the November 23, 2026 read, so check the market before paying.",
+        "q": "Should I buy OP-18 Japanese or English?"
+      },
+      {
+        "a": "Because the English pack holds twelve cards against six in the Japanese pack, and the English route here is the case, not a single box. The English case box at $94.68 divides to $3.94 a pack and $0.33 a card, and the Japanese box at $71.40 divides to $2.98 a pack and $0.50 a card, so the English card costs $0.17 less even though the English case box costs $23.28 more, as of November 26, 2026. Both languages list the same 127 card types plus 1 DON!! card, so the set is the same size in either language, and the per-card figure is the one that decides the opening, not the box price.",
+        "q": "Why is the English OP-18 card cheaper than the Japanese card when the English box costs more?"
+      },
+      {
+        "a": "It is a market read, not a sale. NerdSnack prints $1,278.14 for the Robin Manga, OP18-031, on its November 23, 2026 TCGplayer read, down 14.79 percent from $1,500.00 on November 21, and Kontora prints $1,201.39 on November 25, down 19.91 percent from November 21, so the card has fallen on every read since release. The Robin is 35.35 percent of the $3,616.18 top ten on the November 23 read, so a single sale reprices the whole list. Buy the single if the card is the job, and never open boxes for it.",
+        "q": "Is the $1,278.14 Robin price real?"
+      }
+    ],
+    "h1": "OP-18 The Dominance of God: Japanese vs English",
+    "intro": [
+      "Short answer: buy the Japanese box at $71.40 to open The Dominance of God at the lowest sealed price, buy the English case at $1,136.15, or $94.68 a box, to own the set in English, and buy the Japanese case at $770.10 only if its standard 12-box count holds, because the listing prints no box count. There is no English single box on this shelf, so the English route is the case or the wait. The English case box sits $93.86 below the $188.54 TCGplayer market box on the November 23, 2026 read. Every price here is stamped November 26, 2026.",
+      "OP-18 The Dominance of God is the eighteenth One Piece Card Game booster set, built on Water Seven and the Holy Knights of God, with six new Leaders. It released in English on November 20, 2026 and in Japan on November 21, 2026, one day apart, English first. Both languages list 127 card types plus 1 DON!! card, so the set is the same size in either language. The Japanese box holds 24 packs of 6 cards, 144 cards, and the English box holds 24 packs of 12 cards, 288 cards. The three products on this shelf moved in two legs between October 24 and November 13, 2026, the Japanese pair up 20.00 percent then down 15.00 percent, and neither price has moved since."
+    ],
+    "metaDescription": "OP-18 Japanese box $71.40, English case $94.68 a box. No English single box on the shelf, and the Japanese case count is unprinted.",
+    "metaTitle": "OP-18 The Dominance of God: Japanese vs English",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "A collector who wants to open The Dominance of God buys the [OP-18 Japanese booster box](/product/one-piece-op-18-japanese-booster-box-pre-order-one-piece-card-game) at $71.40 as of November 26, 2026: 24 packs of 6 cards, 144 cards, $2.98 a pack and $0.50 a card, the cheapest sealed way in. It costs 1.98 times its official Japanese box of 5,760 yen, which converts to $36.15 at 159.32 yen per dollar on the November 25, 2026 ECB rate. In yen it converts to 11,375.45 yen, 375.45 yen above the 11,000 yen median ask OneMall found on November 23, 2026. It is $31.69 below the OP-17 Japanese box at $103.09. The wider ladder is in the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy).",
+          "A buyer who wants the set in English buys the [OP-18 English sealed case](/product/op-18-the-dominance-of-god-sealed-case-12-boxes-english-one-piece-card) at $1,136.15 as of November 26, 2026, because there is no English single box on this shelf at any price: 12 boxes of 24 packs of 12 cards, $94.68 a box, $3.94 a pack and $0.33 a card. The case box sits $93.86 below the $188.54 TCGplayer market box on the November 23, 2026 read, and $25.08 below the $119.76 MSRP box, so it is 0.79 times list. The market has fallen too: $233.64 on November 11, $191.55 on November 20, and $188.54 on November 23, down 19.30 percent in twelve days. The [OP-18 best cards guide](/blog/op-18-best-cards) ranks the chase, and [is OP-18 worth buying](/blog/is-op-18-worth-buying) gives the dated verdict.",
+          "A buyer who wants twelve Japanese boxes buys the [OP-18 Japanese booster box case](/product/one-piece-op-18-japanese-booster-box-case-pre-order-one-piece-card-game) at $770.10 as of November 26, 2026, with one condition: the listing prints no box count. If the standard 12-box count holds, it divides to $64.18 a box and saves $86.70 against twelve singles at $856.80, $7.23 a box, the first One Piece set in a while where the Japanese case beats singles. Compare OP-17, whose Japanese case costs $2.22 more than twelve singles. If the count is not 12, the division does not hold, so confirm the count on the listing before paying. The [OP-18 investment guide](/blog/op-18-investment) runs the same three products as a hold."
+        ]
+      },
+      {
+        "h": "The money layer: three products, one missing box",
+        "paragraphs": [
+          "Start with the Japanese box, the shelf's cheapest OP-18 entry. At $71.40 it is $2.98 a pack and $0.50 a card, against an official Japanese box of 24 packs at 240 yen, or 5,760 yen, which converts to $36.15 at 159.32 yen per dollar on the November 25, 2026 ECB rate: 1.98 times official. The Japanese box is $31.69 below the OP-17 box and $17.85 below the OP-16 box at $89.25. The [sealed case versus booster box math guide](/blog/sealed-case-vs-booster-box-the-math) runs the same division across every game we carry.",
+          "The English side is a case or nothing, and the case is cheap on every measure we checked. At $94.68 a box it is $25.08 below the $119.76 MSRP box and $93.86 below the $188.54 market box of November 23, 2026, and twelve boxes at MSRP would cost $1,437.12, so the case saves $300.97 against list. The market case itself is $1,976.13 on the November 23 read, $164.68 a box, so our case saves $839.98 against it, $70.00 a box. What the English side cannot do is sell one box: a buyer who needs one buys it on the market at $188.54, $93.86 more than our case box and $68.78 above MSRP. The [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy) prices every case against its singles."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack / per card",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Japanese box (shelf)",
+              "$71.40, Nov 26 2026",
+              "$2.98 a pack; $0.50 a card",
+              "Opening The Dominance of God cheapest",
+              "1.98 times the official box"
+            ],
+            [
+              "Japanese case, 12 boxes if count holds (shelf)",
+              "$770.10, Nov 26 2026",
+              "$64.18 a box; $2.67 a pack",
+              "Twelve Japanese boxes at a real saving",
+              "Box count unprinted on the listing"
+            ],
+            [
+              "English case, 12 boxes (shelf)",
+              "$1,136.15, Nov 26 2026",
+              "$94.68 a box; $3.94 a pack",
+              "English set; playable outside Asia",
+              "$1,136.15 in one purchase"
+            ],
+            [
+              "English box, TCGplayer market",
+              "$188.54, Nov 23 2026",
+              "$7.86 a pack",
+              "The English box at market",
+              "Not stocked here; 1.57 times MSRP"
+            ],
+            [
+              "Japanese box, official",
+              "5,760 yen ($36.15)",
+              "$1.51 a pack; $0.25 a card",
+              "Japan retail price, not an export price",
+              "Not payable outside Japan"
+            ],
+            [
+              "English box, official",
+              "$119.76",
+              "$4.99 a pack; $0.42 a card",
+              "List price at release",
+              "No sealed box sells at list now"
+            ],
+            [
+              "Japanese box, OneMall median ask",
+              "11,000 yen, Nov 23 2026",
+              "About $69.04 at 159.32 yen per dollar",
+              "Japanese street reference",
+              "Asks, not completed sales"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "Japanese box per pack: $71.40 / 24 packs = $2.98 per pack",
+          "Japanese box per card: $71.40 / 144 cards = $0.50 per card",
+          "Japanese official box, Nov 25 rate: 24 x 240 yen = 5,760 yen; 5,760 / 159.32 = $36.15; $71.40 / $36.15 = 1.98 times official",
+          "Japanese official box per pack: $36.15 / 24 = $1.51 per pack; per card: $36.15 / 144 = $0.25 per card",
+          "Japanese box above official: $71.40 - $36.15 = $35.25 above the derived official box price",
+          "Japanese box in yen: $71.40 x 159.32 = 11,375.45 yen; 11,375.45 - 11,000 = 375.45 yen above the Nov 23, 2026 OneMall median ask; 375.45 / 11,000 = 3.41% above it",
+          "Japanese case per box, if 12 boxes: $770.10 / 12 boxes = $64.18 per box",
+          "Japanese case vs singles, if 12 boxes: 12 x $71.40 = $856.80; $856.80 - $770.10 = $86.70 saved; $86.70 / 12 = $7.23 saved per box",
+          "Japanese case per pack, if 12 boxes: $770.10 / 288 packs = $2.67 per pack; per card: $770.10 / 1,728 cards = $0.45 per card",
+          "English case per box: $1,136.15 / 12 boxes = $94.68 per box",
+          "English case per pack: $1,136.15 / 288 packs = $3.94 per pack; per card: $1,136.15 / 3,456 cards = $0.33 per card",
+          "English official box: 24 x $4.99 = $119.76; $119.76 - $94.68 = $25.08 below MSRP per box; $94.68 / $119.76 = 0.79 times MSRP",
+          "English case vs twelve boxes at MSRP: 12 x $119.76 = $1,437.12; $1,437.12 - $1,136.15 = $300.97 saved; $300.97 / 12 = $25.08 saved per box",
+          "English case per box vs market: $188.54 - $94.68 = $93.86 below the Nov 23, 2026 market box; $93.86 / $188.54 = 49.78% below market; $94.68 / $188.54 = 50.22% of market",
+          "English market case vs shelf case: $1,976.13 - $1,136.15 = $839.98 saved; $839.98 / $1,976.13 = 42.51% below the Nov 23, 2026 market case; per box: $1,976.13 / 12 = $164.68; $164.68 - $94.68 = $70.00 saved per box",
+          "English market box vs MSRP: $188.54 / $119.76 = 1.57 times MSRP; $188.54 - $119.76 = $68.78 above MSRP; per pack: $188.54 / 24 = $7.86 per pack",
+          "English market box, Nov 20 to Nov 23: $191.55 - $188.54 = $3.01; $3.01 / $191.55 = 1.57% down in 3 days",
+          "English market box, Nov 11 to Nov 23: $233.64 - $188.54 = $45.10; $45.10 / $233.64 = 19.30% down in 12 days",
+          "Market corroboration, ShonenTCG Nov 20 evening: $214.77 - $191.55 = $23.22 above the TCGCSV market the same day; $23.22 / $191.55 = 12.12% apart",
+          "Language gap per box: $94.68 - $71.40 = $23.28; $94.68 / $71.40 = 1.33 times the Japanese box",
+          "Language gap per pack: $3.94 - $2.98 = $0.96; $3.94 / $2.98 = 1.32 times; per card gap: $0.50 - $0.33 = $0.17; per card ratio: ($1,136.15 / 3,456) / ($71.40 / 144) = 0.66 times",
+          "Pack price gap: $4.99 - $1.51 = $3.48; $4.99 / $1.51 = 3.30 times the Japanese pack",
+          "Japanese box vs OP-17 Japanese box: $103.09 - $71.40 = $31.69 below it; $71.40 / $103.09 = 69.26% of the OP-17 box",
+          "English case box vs OP-17 English box: $144.22 - $94.68 = $49.54 below it; $94.68 / $144.22 = 65.65% of the OP-17 box",
+          "English market box vs OP-17 market box: $264.43 - $188.54 = $75.89 below it; $188.54 / $264.43 = 71.30% of the OP-17 market box",
+          "Repricing, Japanese box Oct 24 to Nov 4: $84.00 - $70.00 = $14.00; $14.00 / $70.00 = 20.00%",
+          "Repricing, Japanese box Nov 4 to Nov 13: $84.00 - $71.40 = $12.60; $12.60 / $84.00 = 15.00%",
+          "Repricing, Japanese box Oct 24 to Nov 13 net: $71.40 - $70.00 = $1.40; $1.40 / $70.00 = 2.00%",
+          "Repricing, Japanese case Oct 24 to Nov 4: $906.00 - $755.00 = $151.00; $151.00 / $755.00 = 20.00%",
+          "Repricing, Japanese case Nov 4 to Nov 13: $906.00 - $770.10 = $135.90; $135.90 / $906.00 = 15.00%",
+          "Repricing, Japanese case Oct 24 to Nov 13 net: $770.10 - $755.00 = $15.10; $15.10 / $755.00 = 2.00%",
+          "Top ten total, NerdSnack Nov 23, 2026: $1,278.14 + $926.61 + $431.83 + $286.85 + $160.68 + $127.13 + $124.20 + $100.00 + $95.04 + $85.70 = $3,616.18",
+          "Top two: $1,278.14 + $926.61 = $2,204.75; $2,204.75 / $3,616.18 = 60.97% of the top ten",
+          "Top three: $1,278.14 + $926.61 + $431.83 = $2,636.58; $2,636.58 / $3,616.18 = 72.91% of the top ten",
+          "Top five: $1,278.14 + $926.61 + $431.83 + $286.85 + $160.68 = $3,084.11; $3,084.11 / $3,616.18 = 85.29% of the top ten",
+          "Bottom five: $127.13 + $124.20 + $100.00 + $95.04 + $85.70 = $532.07; $532.07 / $3,616.18 = 14.71% of the top ten",
+          "Robin share: $1,278.14 / $3,616.18 = 35.35% of the top ten",
+          "Gunko share: $926.61 / $3,616.18 = 25.62% of the top ten",
+          "Five SP cards total: $160.68 + $127.13 + $100.00 + $95.04 + $85.70 = $568.55; $568.55 / $3,616.18 = 15.72% of the top ten",
+          "Two gold Secret Rares total: $431.83 + $286.85 = $718.68; $718.68 / $3,616.18 = 19.87% of the top ten",
+          "Top ten slide, Nov 21 to Nov 23: $4,153.03 - $3,616.18 = $536.85; $536.85 / $4,153.03 = 12.93% down in 2 days",
+          "Robin slide, Nov 21 to Nov 23: $1,500.00 - $1,278.14 = $221.86; $221.86 / $1,500.00 = 14.79% down in 2 days",
+          "Robin slide, Nov 21 to Nov 25: $1,500.00 - $1,201.39 = $298.61; $298.61 / $1,500.00 = 19.91% down in 4 days",
+          "Robin slide, Nov 23 to Nov 25: $1,278.14 - $1,201.39 = $76.75; $76.75 / $1,278.14 = 6.00% down in 2 days",
+          "Gunko slide, Nov 21 to Nov 23: $1,195.56 - $926.61 = $268.95; $268.95 / $1,195.56 = 22.50% down in 2 days",
+          "Robin vs boxes: $1,278.14 / $71.40 = 17.90 Japanese boxes; $1,278.14 / $94.68 = 13.50 English-case boxes",
+          "Top ten vs boxes: $3,616.18 / $71.40 = 50.65 Japanese boxes; $3,616.18 / $94.68 = 38.19 English-case boxes",
+          "Robin vs OP-17 Xebec: $1,278.14 / $6,100.00 = 20.95% of the OP-17 top card",
+          "Top ten vs OP-17 top ten: $3,616.18 / $12,226.02 = 29.58% of the OP-17 top ten on the Nov 26, 2026 read",
+          "Robin vs base Robin: $1,278.14 / $3.34 = 382.68 times; vs Alternate Art $44.17: $1,278.14 / $44.17 = 28.94 times",
+          "Shamrock gold vs regular Secret Rare: $431.83 / $42.30 = 10.21 times; Loki gold vs non-gold: $286.85 / $23.81 = 12.05 times",
+          "Release gap: Nov 21, 2026 - Nov 20, 2026 = 1 day, English first",
+          "Set size: 127 + 1 in both languages; 127 / 127 = 1.00 times; no size gap this set",
+          "Three products together: $71.40 + $770.10 + $1,136.15 = $1,977.65"
+        ],
+        "paragraphs": [
+          "Each figure above is one division away from a listed price. The Japanese official box converts at 159.32 yen per dollar, the ECB reference rate of November 25, 2026, because the November 26 fixing was not yet published when this article was drafted. The English market figure is the TCGplayer read of November 23, 2026, with the November 20 read beside it, and the top ten comes from the NerdSnack snapshot of November 23, with the November 21 figures beside it and a fresher Kontora read of November 25 for the Robin. The Japanese case division is conditional throughout, because the listing prints no box count."
+        ]
+      },
+      {
+        "h": "What the other guides miss: three shelf prices, an unprinted case count, and a Robin that keeps falling",
+        "note": "Warehouse Note: the question we get most in chat about OP-18 is whether the $770.10 Japanese case really holds 12 boxes, because every other case on this shelf prints its count and this one does not. It does not, and that is the point of this page: the $86.70 saving is real only if the count is 12, and a buyer who pays before confirming the count has bought a division, not a deal. Ask us in chat and we will confirm the count on the listing before you pay.",
+        "paragraphs": [
+          "The top results for this query do the set comparison well: our own [investment guide](/blog/op-18-investment) prices the same three products, [is OP-18 worth buying](/blog/is-op-18-worth-buying) gives the dated verdict, and the [OP-18 best cards guide](/blog/op-18-best-cards) ranks the chase. The outside guides do no better on the language question itself: OneMall compares the two versions with headings covering the release dates and the Japanese box price after release, but it lists no English shelf price at all, and PullGuide compares Japanese and English packs in general, with headings covering the pack prices and where each language can be played, but it prices no sealed box in either language.",
+          "This page owns six findings the top results do not carry. First, the three shelf prices side by side: $71.40, $770.10, and $1,136.15, with the English single box missing entirely. Second, the unprinted Japanese case count, stated plainly, with the $86.70 saving marked conditional on it. Third, the per-card inversion: the English case box costs $23.28 more than the Japanese box, yet the English card costs $0.17 less, $0.33 against $0.50, because the English pack holds twelve cards against six. Fourth, the current top ten, priced November 23, 2026 on NerdSnack: Robin Manga OP18-031 at $1,278.14, Gunko Super Leader Alternate Art OP18-060 at $926.61, Shamrock gold OP18-119 at $431.83, Loki gold OP17-119 at $286.85, Gunko SP OP18-084 at $160.68, Law and Bepo SP ST24-004 at $127.13, I will Make the Call Alternate Art OP18-096 at $124.20, Edward.Newgate SP OP17-040 at $100.00, Vivi SP OP13-012 at $95.04, and Lilith SP OP13-113 at $85.70, $3,616.18 together, down $536.85 from the November 21 read. Fifth, the market agreement: the TCGCSV market box reads $191.55 on November 20 and $188.54 on November 23, with ShonenTCG reading $214.77 on the evening of November 20. Sixth, the Robin flag: $1,500.00 on November 21, $1,278.14 on November 23, and $1,201.39 on November 25, down 19.91 percent in four days, so quote the date with that number, every time."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "Find your row: a player who buys the wrong language has bought the wrong product at a good price."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener, cheapest sealed entry",
+              "Japanese box at $71.40",
+              "$2.98 a pack; the anniversary set at its lowest sealed price"
+            ],
+            [
+              "Player outside Asia",
+              "English case at $1,136.15",
+              "Playable language; 127 plus 1 types; $93.86 below the Nov 23 market per box"
+            ],
+            [
+              "Sealed holder, English",
+              "English case at $1,136.15",
+              "$94.68 a box; $25.08 below MSRP per box; $70.00 below the market case per box"
+            ],
+            [
+              "Sealed holder, Japanese",
+              "Japanese case at $770.10, if 12 boxes",
+              "$64.18 a box if the count holds; saves $86.70 against twelve singles"
+            ],
+            [
+              "Collector chasing the Robin",
+              "The Robin single, $1,278.14 on the Nov 23 read",
+              "17.90 Japanese boxes and 13.50 English-case boxes; opening for one card is a lottery with no published pull rates"
+            ],
+            [
+              "Anyone wanting one English box cheap",
+              "Wait, or buy the market box at $188.54",
+              "No single English box is stocked; the case box is $93.86 cheaper per box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Japan versus international: one day apart, two different games",
+        "note": "Warehouse Note: the question we get second most in chat about OP-18 is whether a Japanese box can be played at a local event outside Asia, because the box is $23.28 cheaper than an English case box and the cards look the same in a sleeve. They are not the same at an official table: Japanese cards are legal only in Japan and seven Asian regions, so a player outside Asia who buys the cheaper box to compete has saved $23.28 on cards that cannot be played. Buy the language your tournament allows, then worry about the price.",
+        "paragraphs": [
+          "English got The Dominance of God on November 20, 2026, and Japan followed on November 21, one day later, the tightest gap a mainline set has had: OP-17 took six days with Japan first, and OP-15 took 34 days. The one-day gap is why the early-access argument is dead for this set: English cards were in players hands a day before the Japanese street date. What the gap does not change is the price band: a Japanese pack lists at 240 yen and an English pack at $4.99. The English release event runs at local game stores from November 20 to December 17, 2026.",
+          "On legality, Bandai's official rules, Rules for the use of Different Languages, dated November 7, 2025, allow the Japanese version only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand. The English version can be used in North America, Latin America, Europe, and Oceania, plus the same Asian regions, and decks mixing Japanese and English cards are allowed only in Taiwan and Thailand. A player outside Asia who buys Japanese cards to compete has bought cards for the wrong region, and the reverse holds in Japan. Officially distributed DON!! cards are the one exception the tournament rules make: they are allowed in any language at official events.",
+          "The two sets are the same cards in two languages this time. Both list 127 card types plus 1 DON!! card: 45 Commons, 30 Uncommons, 26 Rares, 10 Super Rares, 6 Leaders, 3 Secret Rares, 6 Special Cards, 1 Treasure Rare, and 1 DON!! card. The six Leaders are Karoo OP18-001, Franky OP18-021, Monkey.D.Luffy OP18-022, Ms. All Sunday OP18-041, Saint Gunko OP18-060, and Spandam OP18-079. The three Secret Rares include the Saint Shamrock and the Loki, each with a gold Yoshitaka Amano parallel. The English top ten mixes those with SP reprints from other sets, which is why five of the ten carry old set numbers. OP-18 is a Block 5 set, so it stays legal alongside OP-17 under the current Standard window, Blocks 2 through 5, until March 31, 2027. The [OP-17 Japanese versus English guide](/blog/op-17-japanese-vs-english-which-to-buy) works the same split for the set before this one, where the gap was six days instead of one."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "Opening a box for the Robin is the expensive failure. The card is $1,278.14 on the November 23 read, 17.90 Japanese boxes and 13.50 English-case boxes, and Bandai has never published pull rates. The second failure is the Robin read itself: it was $1,500.00 on November 21, $1,278.14 on November 23, and $1,201.39 on November 25, down 19.91 percent in four days, and the Gunko Super Leader Alternate Art fell 22.50 percent in two days, from $1,195.56 to $926.61. A buyer who treats a release-day read as a settled price has mistaken a snapshot for a sale. The third failure is buying the Japanese case without confirming the count: the $86.70 saving exists only if the case holds 12 boxes, and the listing prints no count. The fourth failure is buying the English box against one market only: it reads $191.55 on the November 20 TCGCSV market and $214.77 on the ShonenTCG evening read the same day, $23.22 apart, so a buyer who checks one market has half the answer.",
+          "The fifth failure is the reseal: an English case box at $94.68 against a $188.54 market box is exactly the gap resealers monetize, so read our [resealed box guide](/blog/how-to-tell-if-a-booster-box-is-resealed) first, and [how to spot fake One Piece cards](/blog/how-to-spot-fake-one-piece-cards) covers the tells. The sixth failure is reading an older guide and paying the old price: the shelf rose 20.00 percent then fell 15.00 percent between October 24 and November 13, 2026, so re-check the shelf on the day you pay. One more number moves fast: the Shamrock gold reads $309.61 on November 21 and $431.83 on November 23, up 39.48 percent in two days, while its cheapest listing sits at $714.50, so quote the date with that number, every time."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Robin, a guaranteed return, or a box price that never moves: the chase is a lottery with no published pull rates, the Robin read has fallen 19.91 percent in four days, and the shelf rose then fell 20.00 and 15.00 percent in twenty days. It is not for the buyer who wants a Japanese box to play with at a tournament outside Asia: Japanese cards are not legal at official events in North America, Latin America, Europe, or Oceania. It is not for anyone buying twelve Japanese boxes without confirming the case count first: the $86.70 saving exists only if the case holds 12 boxes. It is not for anyone who wants a single English box from this shelf: the Warehouse stocks the case, not the box. It is not for anyone who wants the English box to stay $93.86 below its market."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide language first: English to play outside Asia, Japanese to collect the origin printing or open at the lowest sealed price",
+          "Compare box against case box: Japanese $71.40 against English $94.68 a box, a $23.28 gap, and remember the English pack holds twice the cards, 12 against 6, so the English card is $0.17 cheaper",
+          "Confirm the Japanese case count before paying: it saves $86.70 against twelve singles only if the case holds 12 boxes, so ask in chat if the listing still prints no count",
+          "Divide the English case before paying: it sits $25.08 below MSRP per box and $93.86 below the market box per box, so buy the case at $1,136.15 if twelve boxes are the plan",
+          "Check the English box against both markets: $191.55 on the November 20 TCGCSV read and $214.77 on the ShonenTCG evening read the same day, $23.22 apart",
+          "Flag the market movement every time: the market fell $45.10 from November 11 to November 23, 2026, so quote the date and the source with the number",
+          "Price the Japanese box against its official price: $71.40 is 1.98 times the 5,760 yen box, $36.15 at 159.32 yen per dollar on November 25, 2026",
+          "Check the chase before opening: the Robin is $1,278.14 on the November 23, 2026 read and $1,201.39 on November 25, so buy the single if the card is the job",
+          "Check the one-day gap before paying an early-access premium: English released November 20, 2026 and Japan followed November 21, so no premium is owed for timing",
+          "Confirm tournament legality with your organizer before buying Japanese cards to play, and remember Japanese cards are legal only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "Before paying for OP-18 in either language, walk the list. The case-versus-box math settles the format for each language separately, and the two-market check settles the English box, because the markets sit $23.22 apart on the same day. Once the language is settled, the [OP-18 investment guide](/blog/op-18-investment) prices the hold, and [is OP-18 worth buying](/blog/is-op-18-worth-buying) gives the dated verdict."
+        ]
+      }
+    ],
+    "slug": "op-18-japanese-vs-english-which-to-buy",
+    "takeaway": [
+      "OP-18 in Japanese costs $71.40 a box and in English costs $94.68 a box in the case, a $23.28 gap, and the Japanese case divides to $64.18 a box only if its standard 12-box count holds, saving $86.70 against twelve singles, while there is no English single box on this shelf at any price. Buy Japanese to open the new set cheapest, buy the English case to own the set in English, and confirm the Japanese case count before paying. The English case box sits $93.86 below its $188.54 TCGplayer market box as of November 23, 2026, so it beats the market. The [OP-18 investment guide](/blog/op-18-investment) runs the same three products as a hold.",
+      "The chase is the Robin Manga, OP18-031, at $1,278.14 on the November 23, 2026 NerdSnack read, and it is 35.35 percent of the $3,616.18 top ten on that read, but it has fallen 19.91 percent since November 21, to $1,201.39 on the November 25 Kontora read. The Gunko Super Leader Alternate Art, OP18-060, is $926.61, and the top two together are $2,204.75, 60.97 percent of the list. The top five together are $3,084.11, 85.29 percent of the top ten, and the bottom five together are $532.07, 14.71 percent. The five SP cards are $568.55 together, 15.72 percent of the list. The Robin is 17.90 Japanese boxes and 13.50 English-case boxes, so buy the single if the card is the job. The [OP-18 best cards guide](/blog/op-18-best-cards) ranks all ten chase cards the same way.",
+      "Companion guide: the [OP-17 Japanese versus English guide](/blog/op-17-japanese-vs-english-which-to-buy) works the same split for The World's Strongest Warriors, the set before this one, where the gap was six days instead of one and English came second instead of first. For the set itself, the [OP-18 investment guide](/blog/op-18-investment) prices the hold and [is OP-18 worth buying](/blog/is-op-18-worth-buying) gives the dated verdict. For the set's pre-order story, the [OP-18 preorder guide](/blog/op-18-the-dominance-of-god-preorder-guide) covers the $70.00 box and $755.00 case this article replaces."
     ]
   },
   "op-18-the-dominance-of-god-preorder-guide": {
