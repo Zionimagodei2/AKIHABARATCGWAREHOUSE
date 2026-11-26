@@ -1455,7 +1455,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the pack question in depth, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides all fourteen sets' sealed cases to the pack: $4.83 for Reign of Jafar, $7.50 for Hyperia City, and $18.20 for The First Chapter.",
       "For the case math behind the box pick, the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) divides all fifteen cases, including the Japanese First Chapter case at $37.60 a box.",
       "New this cycle: the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box/) ranks all fourteen boxes by per-box price from the same shelf — Reign of Jafar $98.48, Whispers $216.54, Hyperia City $153.00 — with the expected-value crown re-run at our case-derived entry price.",
-      "For every box priced from its case, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fifteen cases to the box, $98.48 to $371.32."
+      "For every box priced from its case, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fifteen cases to the box, $98.48 to $371.32.",
+      "For the dearest box on the board, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the top ten at $2,822.34 and the Elsa alone at $942.98."
     ]
   },
   "best-disney-lorcana-booster-pack": {
@@ -17420,7 +17421,8 @@ export const POSTS: Record<string, BlogPost> = {
       "A Disney Lorcana sealed case is 4 boxes, 96 packs and 1,152 cards, and 15 sit on our shelf as of November 19, 2026, from $393.93 for Set 8 Reign of Jafar to $1,485.26 for Set 1 The First Chapter, plus a Japanese First Chapter case at $479.46 for 15 boxes. Divide every case by 4 before you believe any per-box claim.",
       "Six English cases divide below the $143.76 official box price, led by Set 8 at $98.48 a box, and eight divide above it, led by Set 1 at $371.32. The expected Enchanted return is under one card per case, so buy the case for volume, not for the chase.",
       "For the ranking, the [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy by job, and the [Lorcana sealed case price guide](/blog/disney-lorcana-sealed-case-price/) prices every case against the market. For the other game's cases, the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) divides all 14 Fusion World cases the same way. Re-run the division on the day you pay.",
-      "For the per-box price of every case, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fifteen cases to the box, $98.48 to $371.32."
+      "For the per-box price of every case, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fifteen cases to the box, $98.48 to $371.32.",
+      "For the set behind the dearest case on the shelf, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the Elsa at $942.98 and the top ten at $2,822.34 on November 26, 2026."
     ]
   },
   "disney-lorcana-sealed-case-price": {
@@ -22320,7 +22322,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "EB-03 in Japanese costs $131.78 a box and in English costs $167.28, a $35.50 gap, and the Japanese case at $1,582.28 costs $0.92 more than twelve singles, while the English case at $1,571.53 saves $435.83 only if it holds twelve boxes, a count no listing prints. Buy Japanese to open the heroines set cheapest, buy the English box to own the set in English, and buy twelve Japanese single boxes instead of the case. The English box sits $97.96 below its $265.24 WorthRipping market box, so it beats the market. The [EB-03 investment guide](/blog/eb-03-investment/) runs the same four products as a hold.",
       "The chase is the Boa Hancock SP, EB03-026, at $1,436.07 on the November 19-20, 2026 TCGPursuit read, and it is 21.97 percent of the $6,536.26 top ten on that read, with the nine SPs together at $5,634.00, 86.20 percent of the list. The Uta Manga, EB03-061, is $902.26, and the top three together are $4,060.32, 62.12 percent of the list. The Hancock SP is 10.90 Japanese boxes and 8.58 English boxes, so buy the single if the card is the job. The [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks all ten chase cards the same way.",
-      "Companion guide: the [EB-02 Japanese versus English guide](/blog/eb-02-japanese-vs-english-which-to-buy/) works the same split for Anime 25th Collection, the set before this one, where the English box costs $36.13 more than the Japanese box instead of $35.50. For the set itself, [is EB-03 worth buying](/blog/is-eb-03-worth-buying/) gives the dated verdict at the November 12 prices. The [EB-04 Japanese versus English guide](/blog/eb-04-japanese-vs-english-which-to-buy/) works the same split for Egghead Crisis, where English never got its own release at all."
+      "Companion guide: the [EB-02 Japanese versus English guide](/blog/eb-02-japanese-vs-english-which-to-buy/) works the same split for Anime 25th Collection, the set before this one, where the English box costs $36.13 more than the Japanese box instead of $35.50. For the set itself, [is EB-03 worth buying](/blog/is-eb-03-worth-buying/) gives the dated verdict at the November 12 prices. The [EB-04 Japanese versus English guide](/blog/eb-04-japanese-vs-english-which-to-buy/) works the same split for Egghead Crisis, where English never got its own release at all.",
+      "For the language split two sets on, the [EB-05 Japanese versus English guide](/blog/eb-05-japanese-vs-english-which-to-buy/) prices Heroines Edition Vol. 2 the same way, with the English case at $1,182.38 against a Japanese box ask of $67.46."
     ]
   },
   "eb-04-best-cards": {
@@ -23203,7 +23206,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "EB-04 in Japanese costs $77.38 a box and $923.12 a case, and the case saves $5.44 against twelve singles at $928.56, while the English cards live in OP-14 at $184.54 and OP-15 at $181.24, because there is no English EB-04 box at all. The English EB-04 case at $1,733.08 prints no box count and does not say which English product it holds, so its $144.42 per-box figure is conditional only, and it is more per box than the OP-14 case at $139.36 and the OP-15 case at $128.64. Buy Japanese to open the set cheapest, buy both English boxes to own the set in English, and buy the Japanese case if twelve boxes are the plan. The [EB-04 investment guide](/blog/eb-04-investment/) runs the same products as a hold.",
       "The chase is the Koby Manga, EB04-044, at $569.92 on the November 19, 2026 Haki TCG read, and it is 55.07 percent of the $1,034.96 top ten on that read, with the other nine cards together at $465.04. The card is 7.37 Japanese boxes, 3.09 OP-14 boxes, and 3.14 OP-15 boxes, and it rose $56.44 from its $513.48 raw read on October 31, 2026, so buy the single if the card is the job. The [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks all ten chase cards the same way.",
-      "Companion guide: the [EB-02 Japanese versus English guide](/blog/eb-02-japanese-vs-english-which-to-buy/) works the same split for Anime 25th Collection, where English did get its own release. For the set itself, [is EB-04 worth buying](/blog/is-eb-04-worth-buying/) gives the dated verdict at the November 12 prices. The [EB-03 Japanese versus English guide](/blog/eb-03-japanese-vs-english-which-to-buy/) works the same split for Heroines Edition, where English did get its own release."
+      "Companion guide: the [EB-02 Japanese versus English guide](/blog/eb-02-japanese-vs-english-which-to-buy/) works the same split for Anime 25th Collection, where English did get its own release. For the set itself, [is EB-04 worth buying](/blog/is-eb-04-worth-buying/) gives the dated verdict at the November 12 prices. The [EB-03 Japanese versus English guide](/blog/eb-03-japanese-vs-english-which-to-buy/) works the same split for Heroines Edition, where English did get its own release.",
+      "Next in the series, the [EB-05 Japanese versus English guide](/blog/eb-05-japanese-vs-english-which-to-buy/) prices Heroines Edition Vol. 2 the same way, with the English case at $1,182.38 and the top ten at $5,273.64 on November 25, 2026."
     ]
   },
   "eb-05-best-cards": {
@@ -23432,7 +23436,325 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [EB-03 best cards guide](/blog/eb-03-best-cards/) ranks Heroines Edition Vol. 1 the same way, with the $1,436.07 Hancock SP against its box, and its top ten totals $6,536.26, $942.61 above this one. For the whole shelf as one dated board, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices, and the [best Japanese One Piece sealed case guide](/blog/best-japanese-one-piece-sealed-case-to-buy/) prices every case against its own singles.",
       "For the Vol. 1 verdict that priced the first Heroines set the same way, the [EB-03 Heroines Edition buyers guide](/blog/eb-03-heroines-edition-buyers-guide/) carries the Vol. 1 shelf, and the [EB-03 investment guide](/blog/eb-03-investment/) runs Vol. 1 as a hold. For the set that split its English release, the [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks Egghead Crisis, whose Koby Manga at $569.92 is 2.68 times cheaper than the Yabuki Nami.",
       "For the mainline-set side of the same ranking, the [OP-17 Worlds Strongest Warriors buyers guide](/blog/op-17-worlds-strongest-warriors-buyers-guide/) prices the set behind the Pudding and Gerd SP reprints, and the [OP-14 Azure Seas Seven buyers guide](/blog/op-14-azure-seas-seven-buyers-guide/) prices the set behind the Hancock Heroine Leader alternate art.",
-      "Companion guide: the [OP-05 best cards guide](/blog/op-05-best-cards/) ranks Awakening of the New Era the same way, with the $5,700.00 Luffy Manga against its $158.62 Japanese box, and its top ten totals $14,564.64."
+      "Companion guide: the [OP-05 best cards guide](/blog/op-05-best-cards/) ranks Awakening of the New Era the same way, with the $5,700.00 Luffy Manga against its $158.62 Japanese box, and its top ten totals $14,564.64.",
+      "For the language split, the [EB-05 Japanese versus English guide](/blog/eb-05-japanese-vs-english-which-to-buy/) prices the same English case at $1,182.38 against the Japanese box ask of $67.46, with the top ten at $5,273.64 on November 25, 2026."
+    ]
+  },
+  "eb-05-japanese-vs-english-which-to-buy": {
+    "datePublished": "2026-11-26",
+    "faqs": [
+      {
+        "a": "No. Our shelf as of November 26, 2026 carries exactly one EB-05 product, the English sealed case at $1,182.38, twelve boxes at $98.53 a box, and no single English box, no Japanese box, and no Japanese case. A Japanese box is priced in this guide from Tokyo retailer asks, the freshest being ¥10,743, about $67.46, from Samurai Sword Tokyo as of November 26, 2026, and a second ask of ¥10,530, about $66.12, from BandaTCG updated the same day. Those are asks, not shelf prices, and they carry no shipping or customs in the figure, so confirm the exact quote at checkout or on WhatsApp before paying.",
+        "q": "Is there a Japanese EB-05 box on the shelf?"
+      },
+      {
+        "a": "Buy English if you play outside Asia, because Japanese cards are not legal at official events in North America, Latin America, Europe, or Oceania under Bandai's language rules of November 7, 2025. Buy the English case at $1,182.38 as of November 26, 2026 if twelve boxes are the plan, because it divides to $98.53 a box, $21.23 below the $119.76 MSRP box, and saves $1,363.42 against twelve TCGplayer market boxes at $212.15 each. Buy a single English box on the market at $212.15 as of November 24, 2026 if one box is the plan. Buy the Japanese box ask at ¥10,743, about $67.46, if the job is collecting the original print at the lowest box price and you do not need the cards for an official event outside Asia.",
+        "q": "Should I buy EB-05 Japanese or English?"
+      },
+      {
+        "a": "No, not as a plan. The gold-stamped Yabuki Nami is $1,510.36 on TCGplayer market as of November 25, 2026, which is 15.33 case boxes at $98.53 and 7.12 market boxes at $212.15, and Bandai has never published pull rates, so no box promises it. The plain Yabuki Nami, the same card without the gold stamp, is $41.22 on the same date, so check the stamp before paying a chase price: the gold-stamped copy is 36.64 times the plain copy. The top ten together fell $320.01, 5.72 percent, between November 19 and November 25, 2026, so buy the single if the card is the job.",
+        "q": "Is the Yabuki Nami worth chasing in boxes?"
+      }
+    ],
+    "h1": "EB-05 Heroines Vol. 2: Japanese vs English",
+    "intro": [
+      "Short answer: buy English if you play, buy Japanese if you collect the original print at the lowest box price, and buy our English case for twelve English boxes at the cheapest per-box price on the shelf. Our shelf as of November 26, 2026 carries exactly one EB-05 product, the English sealed case at $1,182.38, twelve boxes at $98.53 a box, while a single English box trades at $212.15 on TCGplayer as of November 24, 2026 and a Japanese box asks ¥10,743, about $67.46, as of November 26, 2026. The chase is the gold-stamped Yabuki Nami at $1,510.36 on TCGplayer market as of November 25, 2026, and the top ten together are $5,273.64 on that read, down $320.01 in six days.",
+      "EB-05 is the second Extra Booster built entirely around the heroines, Heroines Edition Vol. 2, released in English on October 30, 2026 and in Japan on October 31, 2026, with 75 card types plus 2 DON!! cards and 61 numbered cards from EB05-001 to EB05-061. The single new Leader is Nico Robin, EB05-010, Green and Yellow, the single Secret Rare is Nami, EB05-061, and the set carries 9 Super Rares, 8 Special Parallel cards, 6 of its own plus SP reprints of older cards, and 1 Manga Rare, Shirahoshi EB05-014. The chase is the Yabuki alt-art Nami, EB05-055, whose gold-stamped parallel is the most expensive card in the set. Shelf prices are stamped November 26, 2026, market prices carry their own dates, and yen figures convert at 159.26 yen per dollar, the ECB reference rate of November 26, 2026."
+    ],
+    "metaDescription": "EB-05 case box $98.53 on our shelf as of Nov 26, 2026. Japanese box asks ¥10,743, English market box $212.15. Full shelf math inside.",
+    "metaTitle": "EB-05 Japanese vs English: Which to Buy",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "A collector who wants the cheapest sealed EB-05 box buys the Japanese box ask at ¥10,743, about $67.46, from Samurai Sword Tokyo as of November 26, 2026: 24 packs of 6 cards, 144 cards, $2.81 a pack and $0.47 a card, the cheapest box in this guide by $31.07 against our English case box and by $144.69 against the English market box. It is an ask from a Tokyo retailer, not a price on our shelf, and it carries no shipping or customs, so confirm the exact quote at checkout or on WhatsApp. It is the original Japanese print, and the [EB-05 best cards guide](/blog/eb-05-best-cards/) ranks the same ten chase cards the box can hold.",
+          "A buyer who wants EB-05 in English buys our case, the only English EB-05 product on the shelf: the [English sealed case](/product/one-piece-eb-05-heroines-edition-vol-2-english-booster-box-case-factory-sealed/) at $1,182.38 as of November 26, 2026, twelve boxes at $98.53 a box, $4.11 a pack and $0.34 a card, $21.23 below the $119.76 MSRP box per box. A buyer who wants one English box instead buys the market box at $212.15 on TCGplayer as of November 24, 2026, $8.84 a pack and $0.74 a card, which is $113.62 more per box than our case box and 1.77 times the MSRP box. Twelve market boxes cost $2,545.80, so the case saves $1,363.42 against them.",
+          "A player who wants to compete buys English at any price, because the language decides legality before the price decides anything. Japanese cards are legal only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand under Bandai's Rules for the use of Different Languages, dated November 7, 2025, so a player outside Asia who buys the ¥10,743 Japanese box to compete has saved $144.69 on cards that cannot be played at an official event. The [EB-04 Japanese versus English guide](/blog/eb-04-japanese-vs-english-which-to-buy/) works the same legality split for Egghead Crisis, where English had no standalone release at all."
+        ]
+      },
+      {
+        "h": "The money layer: one case on the shelf, two markets outside it",
+        "paragraphs": [
+          "Start with the shelf, because it is one price and it divides cleanly: the English case at $1,182.38 is twelve boxes, 288 packs, 3,456 cards, $98.53 a box, $4.11 a pack, and $0.34 a card. Twenty-four packs at the $4.99 list price are $119.76 a box, so the case box sits $21.23 below the MSRP box, at 0.82 times the MSRP box, and its pack sits $0.88 below the list pack. That is the whole shelf story: the only EB-05 sealed product here sells below the pack-price arithmetic, twelve boxes or nothing. The [EB-03 Heroines Edition buyers guide](/blog/eb-03-heroines-edition-buyers-guide/) prices Vol. 1 the same way.",
+          "The open market charges more for one English box and less for one Japanese box. The English market box is $212.15 on TCGplayer as of November 24, 2026, down from a $294.43 pre-order on October 27, a fall of $82.28, 27.95 percent, and a second read of $213.69 on November 25 confirms the level. A single pack is $8.07 on TCGplayer as of November 25, 2026, 1.62 times the $4.99 list pack. The Japanese side is cheaper on paper and unreachable from this shelf: the official Japanese box is 5,760 yen, $36.17, the freshest retailer ask is ¥10,743, $67.46, a second ask is ¥10,530, $66.12, and a market read of about ¥14,180 on November 24, 2026 sits above both, so treat ¥10,743 as one ask, not as the Japanese price.",
+          "The family comparison runs through EB-03 and EB-04, and EB-05 is the cheapest Heroines set on this shelf by every route. The EB-03 Japanese box is $131.78, $64.32 more than the EB-05 Japanese ask, and the EB-03 English case is $1,571.53, $389.15 more than the EB-05 case, while the EB-03 Japanese case at $1,582.28 costs $0.92 more than twelve EB-03 Japanese singles, so its case saves nothing at all. The EB-04 Japanese box is $77.38, $9.92 more than the EB-05 Japanese ask, and the EB-04 English case is $1,733.08, $550.70 more than the EB-05 case. The [EB-03 investment guide](/blog/eb-03-investment/) runs Vol. 1 as a hold."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "Per pack / per card",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case, 12 boxes (shelf)",
+              "$1,182.38, Nov 26 2026",
+              "$98.53 a box; $4.11 a pack",
+              "Twelve English boxes in bulk, below MSRP per box",
+              "Twelve boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "English market box (TCGplayer, Nov 24)",
+              "$212.15",
+              "$8.84 a pack; $0.74 a card",
+              "One English box at a time",
+              "1.77 times the MSRP box"
+            ],
+            [
+              "English market pack (TCGplayer, Nov 25)",
+              "$8.07",
+              "$8.07 a pack",
+              "One pack to try the set",
+              "1.62 times the $4.99 list pack"
+            ],
+            [
+              "Japanese box ask (Samurai Sword Tokyo, Nov 26)",
+              "¥10,743 ($67.46)",
+              "$2.81 a pack; $0.47 a card",
+              "Cheapest box per card",
+              "An ask, not a shelf price; not legal at official events outside Asia"
+            ],
+            [
+              "Japanese box, official",
+              "5,760 yen ($36.17)",
+              "$1.51 a pack; $0.25 a card",
+              "Japan retail price, not an export price",
+              "Not payable outside Japan"
+            ],
+            [
+              "English box, official",
+              "$119.76 (24 x $4.99)",
+              "$4.99 a pack; $0.42 a card",
+              "List price at release",
+              "No sealed box sells at list now"
+            ],
+            [
+              "EB-03 English box (shelf)",
+              "$167.28, Nov 26 2026",
+              "$6.97 a pack",
+              "Vol. 1 in English instead",
+              "$68.75 more per box than the EB-05 case box"
+            ],
+            [
+              "EB-03 Japanese box (shelf)",
+              "$131.78, Nov 26 2026",
+              "$5.49 a pack",
+              "Vol. 1 in Japanese",
+              "$64.32 more than the EB-05 Japanese ask"
+            ],
+            [
+              "EB-04 Japanese box (shelf)",
+              "$77.38, Nov 26 2026",
+              "$3.22 a pack",
+              "The cheapest EB box on the shelf",
+              "A different set; same legality limit on Japanese cards"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "English case per box: $1,182.38 / 12 boxes = $98.53 per box",
+          "English case per pack: $1,182.38 / 288 packs = $4.11 per pack",
+          "English case per card: $1,182.38 / 3,456 cards = $0.34 per card",
+          "English case cards: 12 x 288 = 3,456; English case packs: 12 x 24 = 288",
+          "English box at MSRP: 24 x $4.99 = $119.76",
+          "English case box below MSRP box: $119.76 - $98.53 = $21.23",
+          "English case box vs MSRP box: $98.53 / $119.76 = 0.82 times",
+          "English case pack below MSRP pack: $4.99 - $4.11 = $0.88",
+          "English official box per card: $4.99 / 12 = $0.42 per card",
+          "English market box per pack, Nov 24: $212.15 / 24 packs = $8.84 per pack",
+          "English market box per card, Nov 24: $212.15 / 288 cards = $0.74 per card",
+          "English market box above MSRP: $212.15 - $119.76 = $92.39",
+          "English market box vs MSRP: $212.15 / $119.76 = 1.77 times",
+          "English market box above case box: $212.15 - $98.53 = $113.62",
+          "Twelve English market boxes: 12 x $212.15 = $2,545.80; $2,545.80 - $1,182.38 = $1,363.42 saved; $1,363.42 / 12 = $113.62 saved per box",
+          "English market pack, Nov 25: $8.07 / $4.99 = 1.62 times; $8.07 - $4.99 = $3.08 above list",
+          "English market box fall, Oct 27 to Nov 24: $294.43 - $212.15 = $82.28; $82.28 / $294.43 = 27.95%",
+          "English market box fall, Nov 3 to Nov 24: $260.62 - $212.15 = $48.47; $48.47 / $260.62 = 18.60%",
+          "English market box fall, Nov 8 to Nov 24: $242.52 - $212.15 = $30.37; $30.37 / $242.52 = 12.52%",
+          "Japanese official box: 24 x 240 yen = 5,760 yen; 5,760 / 159.26 = $36.17",
+          "Japanese official pack: 240 / 159.26 = $1.51 per pack",
+          "Japanese official box per pack: $36.17 / 24 = $1.51 per pack",
+          "Japanese official box per card: $36.17 / 144 cards = $0.25 per card",
+          "English box cards: 24 x 12 = 288; Japanese box cards: 24 x 6 = 144",
+          "Japanese market box ask, Nov 26: 10,743 / 159.26 = $67.46",
+          "Japanese market box ask per pack: $67.46 / 24 packs = $2.81 per pack",
+          "Japanese market box ask per card: $67.46 / 144 cards = $0.47 per card",
+          "Japanese ask vs official: 10,743 / 5,760 = 1.87 times; $67.46 - $36.17 = $31.29 above official",
+          "Japanese second ask: 10,530 / 159.26 = $66.12",
+          "Japanese ask range, Nov 26: 10,743 - 10,530 = 213 yen; $67.46 - $66.12 = $1.34",
+          "Japanese ask vs English market box: $212.15 - $67.46 = $144.69; $212.15 / $67.46 = 3.14 times",
+          "Japanese ask vs English case box: $98.53 - $67.46 = $31.07; $98.53 / $67.46 = 1.46 times",
+          "Cards per dollar: Japanese ask 144 / $67.46 = 2.13; English case 3,456 / $1,182.38 = 2.92; English market box 288 / $212.15 = 1.36",
+          "Per pack gaps: English case $4.11 - Japanese ask $2.81 = $1.30; English market $8.84 - Japanese ask $2.81 = $6.03",
+          "Per card gaps: English market $0.74 - Japanese ask $0.47 = $0.27; Japanese ask $0.47 - English case $0.34 = $0.13",
+          "Precious Box: 8,470 / 159.26 = $53.18; 8,470 - 5,760 = 2,710 yen for the extras; 2,710 / 159.26 = $17.02",
+          "Precious Box vs Japanese ask: 10,743 - 8,470 = 2,273 yen; 2,273 / 159.26 = $14.27",
+          "Gift Collection packs at MSRP: 2 x $4.99 = $9.98; $44.99 - $9.98 = $35.01 for the sleeves and promos",
+          "Gift Collection market, Nov 25: $74.67 - $44.99 = $29.68 above MSRP; $74.67 / $44.99 = 1.66 times",
+          "Top ten total, Nov 25: $1,510.36 + $1,266.49 + $673.69 + $429.83 + $330.22 + $286.89 + $278.57 + $186.90 + $158.08 + $152.61 = $5,273.64",
+          "Top two total: $1,510.36 + $1,266.49 = $2,776.85; $2,776.85 / $5,273.64 = 52.66%",
+          "Top three total: $2,776.85 + $673.69 = $3,450.54; $3,450.54 / $5,273.64 = 65.43%",
+          "Yabuki Nami share: $1,510.36 / $5,273.64 = 28.64%; rest of nine: $5,273.64 - $1,510.36 = $3,763.28; $3,763.28 / $5,273.64 = 71.36%",
+          "Top ten, Nov 19 to Nov 25: $5,593.65 - $5,273.64 = $320.01; $320.01 / $5,593.65 = 5.72%",
+          "Top ten slide window: Nov 25, 2026 - Nov 19, 2026 = 6 days",
+          "Five SPs total: $673.69 + $330.22 + $286.89 + $278.57 + $152.61 = $1,721.98; $1,721.98 / $5,273.64 = 32.65%",
+          "Five alternate arts total: $1,510.36 + $1,266.49 + $429.83 + $186.90 + $158.08 = $3,551.66; $3,551.66 / $5,273.64 = 67.35%",
+          "Six reprint-numbered total: $673.69 + $278.57 + $286.89 + $186.90 + $158.08 + $152.61 = $1,736.74; $1,736.74 / $5,273.64 = 32.93%",
+          "Four EB05-numbered total: $5,273.64 - $1,736.74 = $3,536.90; $3,536.90 / $5,273.64 = 67.07%",
+          "Yabuki Nami vs case box: $1,510.36 / $98.53 = 15.33 case boxes; $1,510.36 / $1,182.38 = 1.28 cases",
+          "Yabuki Nami vs market box: $1,510.36 / $212.15 = 7.12 market boxes",
+          "Top ten vs case: $5,273.64 / $1,182.38 = 4.46 cases; $5,273.64 / $98.53 = 53.52 case boxes",
+          "Top ten vs market box: $5,273.64 / $212.15 = 24.86 market boxes",
+          "Yabuki Nami, Nov 19 to Nov 25: $1,527.75 - $1,510.36 = $17.39; $17.39 / $1,527.75 = 1.14%",
+          "Robin Super Leader, Nov 19 to Nov 25: $1,266.95 - $1,266.49 = $0.46; $0.46 / $1,266.95 = 0.04%",
+          "Hancock SP, Nov 19 to Nov 25: $773.66 - $673.69 = $99.97; $99.97 / $773.66 = 12.92%",
+          "Shirahoshi Manga, Nov 19 to Nov 25: $523.42 - $429.83 = $93.59; $93.59 / $523.42 = 17.88%",
+          "Robin SP, Nov 19 to Nov 25: $351.72 - $330.22 = $21.50; $21.50 / $351.72 = 6.11%",
+          "Nami SP, Nov 19 to Nov 25: $320.84 - $278.57 = $42.27; $42.27 / $320.84 = 13.17%",
+          "Pudding SP, Nov 19 to Nov 25: $298.16 - $286.89 = $11.27; $11.27 / $298.16 = 3.78%",
+          "Hancock Heroine Leader, Nov 19 to Nov 25: $191.96 - $186.90 = $5.06; $5.06 / $191.96 = 2.64%",
+          "Gerd SP, Nov 19 to Nov 25: $173.91 - $152.61 = $21.30; $21.30 / $173.91 = 12.25%",
+          "Nami Heroine Leader, Nov 19 to Nov 25: $165.28 - $158.08 = $7.20; $7.20 / $165.28 = 4.36%",
+          "Gold-stamped vs plain Yabuki Nami, Nov 25: $1,510.36 / $41.22 = 36.64 times; $1,510.36 - $41.22 = $1,469.14",
+          "Plain Yabuki Nami, Nov 19 to Nov 25: $60.83 - $41.22 = $19.61; $19.61 / $60.83 = 32.24%",
+          "Japanese Yabuki Nami ask, Nov 2: 267,500 / 159.26 = $1,679.64; $1,679.64 - $1,510.36 = $169.28 above the Nov 25 US market price",
+          "EB-05 case box vs EB-03 English box: $167.28 - $98.53 = $68.75; $167.28 / $98.53 = 1.70 times",
+          "EB-05 Japanese ask vs EB-03 Japanese box: $131.78 - $67.46 = $64.32; $131.78 / $67.46 = 1.95 times",
+          "EB-05 case vs EB-03 English case: $1,571.53 - $1,182.38 = $389.15; $1,571.53 / $1,182.38 = 1.33 times",
+          "EB-05 top ten vs EB-03 top ten: $6,536.26 - $5,273.64 = $1,262.62; $5,273.64 / $6,536.26 = 0.81 times",
+          "EB-05 Japanese ask vs EB-04 Japanese box: $77.38 - $67.46 = $9.92; $77.38 / $67.46 = 1.15 times",
+          "EB-05 case vs EB-04 English case: $1,733.08 - $1,182.38 = $550.70; $1,733.08 / $1,182.38 = 1.47 times",
+          "EB-05 top ten vs EB-04 top ten: $5,273.64 / $1,034.96 = 5.10 times; $5,273.64 - $1,034.96 = $4,238.68",
+          "EB-03 English box per pack: $167.28 / 24 packs = $6.97 per pack",
+          "EB-03 Japanese box per pack: $131.78 / 24 packs = $5.49 per pack",
+          "EB-04 Japanese box per pack: $77.38 / 24 packs = $3.22 per pack",
+          "EB-03 Japanese case per box: $1,582.28 / 12 = $131.86 per box",
+          "EB-03 Japanese case vs twelve singles: 12 x $131.78 = $1,581.36; $1,582.28 - $1,581.36 = $0.92 more than twelve singles",
+          "Set size: 7 + 29 + 21 + 9 + 1 + 8 = 75 types; 75 + 2 = 77 with the DON!! cards",
+          "Leaders share: 7 / 75 = 9.33%; Commons 29 / 75 = 38.67%; Rares 21 / 75 = 28.00%; Super Rares 9 / 75 = 12.00%; Secret Rare 1 / 75 = 1.33%; SP 8 / 75 = 10.67%; DON!! 2 / 75 = 2.67%",
+          "Release gap: English Oct 30, 2026 to Japanese Oct 31, 2026 = 1 day, English first",
+          "Typical opened box, Nov 26: $213.00 - $212.15 = $0.85 above the Nov 24 market box",
+          "FoilKraken opened-box average vs sealed, Nov 19: $219.90 - $145.53 = $74.37",
+          "Three routes together: $1,182.38 + $212.15 + $67.46 = $1,461.99"
+        ],
+        "paragraphs": [
+          "Each figure above is one division away from a listed price. Shelf prices are November 26, 2026, yen figures convert at 159.26 yen per dollar, the ECB reference rate of November 26, 2026, and chase prices are TCGplayer market prices from the Nerdsnack live table of November 25, 2026, read through TCGCSV, with the November 19, 2026 Haki TCG read beside them for the slide. Japanese box prices are retailer asks, labelled as asks, and the English market box is a TCGplayer market price, not a shelf price. The one source that disagrees with the $212.15 market box is named in the failure modes section, with the reason this guide did not use it."
+        ]
+      },
+      {
+        "h": "What the other guides miss: three routes on one date, a six-day slide, and the two cheaper doors in",
+        "note": "Warehouse Note: the question we get most in chat about EB-05 is whether the case is a mistake, because buyers remember EB-04, where the English case sat under a set with no standalone English release. It is not a mistake this time. EB-05 came out in English on October 30, 2026 as a standalone booster, a day before Japan, so the case holds twelve English EB-05 boxes and nothing else. The second question is whether one box can be bought on its own. It can, just not from us: a single English box trades at $212.15 on TCGplayer as of November 24, 2026, which is $113.62 more per box than our case box, so the buyer who needs one box pays the market, and the buyer who can take twelve pays the shelf.",
+        "paragraphs": [
+          "The top results for this query are good guides that stop one step short. CollectorStation compares Vol. 1 against Vol. 2 with headings covering the two sets at a glance, products and prices, and the MSRP against market price for each volume, on November 3, 2026 prices. MetamorphCenter lists the Japanese cards with headings covering the essentials, the set overview, playing in Europe, Vol. 1 against Vol. 2, and the English edition. SamuraiSwordTokyo prints what the two official pages state, with a key takeaways box and a specification table, on October 6, 2026 facts. What none of them does is answer the language question with the three prices a buyer actually faces on one date: our case, the market box, and the Japanese ask, divided to the pack and the card.",
+          "This page owns five findings the top results do not carry together. First, the three routes side by side on November 26, 2026: the case at $1,182.38, the market box at $212.15, and the Japanese ask at ¥10,743, with the per-card surprise that the English case box at $0.34 a card beats the Japanese ask at $0.47 a card, because an English pack holds 12 cards against 6. Second, the six-day slide from November 19 to November 25, 2026: the top ten fell $320.01, 5.72 percent, with the Shirahoshi Manga down 17.88 percent and the Hancock SP down 12.92 percent while the top two barely moved. Third, the Precious Box, a Japan-only bundle at ¥8,470, $53.18, which undercuts the ¥10,743 box ask by ¥2,273, $14.27, for buyers who can buy in Japan. Fourth, the Gift Collection at $44.99, which holds 2 EB-05 packs worth $9.98 at list and trades at $74.67. Fifth, the quality reports: TCGplayer's October 2026 sealed report notes criticism of EB-05 printing errors and hit-less boxes, and ranks the box third among sealed products by sales value."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "Find your row: a player who buys the wrong language has bought the wrong product at a good price."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Opener, cheapest sealed box",
+              "Japanese box ask at ¥10,743 ($67.46)",
+              "$2.81 a pack; the cheapest box in this guide, but an ask, not a shelf price"
+            ],
+            [
+              "Player outside Asia",
+              "English case box at $98.53, or market box at $212.15",
+              "Playable language; the case box is $113.62 cheaper per box than the market box"
+            ],
+            [
+              "Collector chasing the Yabuki Nami",
+              "The single at $1,510.36 on the Nov 25 read",
+              "15.33 case boxes and 7.12 market boxes; opening for one card is a lottery with no published pull rates"
+            ],
+            [
+              "Sealed holder, English",
+              "English case at $1,182.38",
+              "$98.53 a box; saves $1,363.42 against twelve market boxes"
+            ],
+            [
+              "Buyer wanting Vol. 1 instead",
+              "EB-03 English box at $167.28",
+              "The first Heroines set; $68.75 more per box than the EB-05 case box"
+            ],
+            [
+              "Buyer who can buy in Japan",
+              "Heroines Precious Box at ¥8,470 ($53.18)",
+              "A Japanese box plus storage, sleeves, and DON!! cards for $14.27 less than the box ask"
+            ],
+            [
+              "Anyone wanting the set cheapest per card",
+              "English case at $1,182.38",
+              "$0.34 a card, which beats the Japanese ask at $0.47 a card"
+            ],
+            [
+              "Anyone wanting two packs and promos",
+              "Gift Collection at $44.99",
+              "2 EB-05 packs plus 10 promos and 70 sleeves; trades at $74.67 as of Nov 25, 2026"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Japan versus international: one set, two release calendars",
+        "note": "Warehouse Note: the question we get second most in chat about EB-05 is whether a Japanese box can be played at a local event outside Asia, because the box asks $67.46 against a $212.15 market box and the cards look the same in a sleeve. They are not the same at an official table: Japanese cards are legal only in Japan and seven Asian regions, so a player outside Asia who buys the cheaper box to compete has saved $144.69 on cards that cannot be played. Buy the language your tournament allows, then worry about the price, and confirm it with your organizer before the event, because the rules are Bandai's, not ours.",
+        "paragraphs": [
+          "EB-05 breaks the old release pattern in a way buyers should notice. English came first, on October 30, 2026, and Japan followed on October 31, 2026, one day later, so there is no two-month wait the way EB-03 had, with Japan in October 2025 and English in February 2026. The set is one standalone product in both languages, unlike EB-04, which never got a standalone English release and split across OP-14 and OP-15. The [EB-02 Japanese versus English guide](/blog/eb-02-japanese-vs-english-which-to-buy/) works the same split for Anime 25th Collection.",
+          "On legality, Bandai's official rules, Rules for the use of Different Languages, dated November 7, 2025, allow the Japanese version only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand. The English version can be used in North America, Latin America, Europe, and Oceania, plus the same Asian regions except Japan, and decks mixing the two languages are allowed only in Taiwan and Thailand. The two languages also differ in the pack: Japanese packs hold 6 cards and English packs hold 12, so an English box holds 288 cards against 144 in a Japanese box, which is why the English case card costs $0.34 against $0.47 for the Japanese ask. The [buying TCG from Japan guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers shipping and customs for the Japanese route."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "paragraphs": [
+          "The expensive failure is opening boxes for the Yabuki Nami. The card is $1,510.36 on the November 25, 2026 read, 15.33 case boxes and 7.12 market boxes, and Bandai has never published pull rates. The top ten around it fell $320.01, 5.72 percent, in the six days from November 19 to November 25, 2026, with the Shirahoshi Manga down $93.59, 17.88 percent, and the Hancock SP down $99.97, 12.92 percent, while the Nami fell only $17.39, 1.14 percent, and the Robin Super Leader $0.46, 0.04 percent. A simulation of 10,000 EB-05 boxes at November 19, 2026 prices put the average opened box at $145.53 against a $219.90 sealed box, $74.37 below it, and a November 26, 2026 read puts a typical opened box at about $213 of cards, $0.85 above the November 24 market box.",
+          "The second failure is the printing, not the card: the Yabuki Nami comes in two forms that share a number, the plain version at $41.22 and the gold-stamped version at $1,510.36, 36.64 times the plain copy, so a buyer who pays a gold-stamped price for a plain copy has overpaid by $1,469.14. The plain copy itself fell $19.61, 32.24 percent, between November 19 and November 25, 2026. TCGplayer's October 2026 sealed report also notes criticism of EB-05 printing errors and hit-less boxes, blamed in part on the set being packed and partly printed in the US instead of Japan. The third failure is trusting one market-box read: WorthRipping reads the box at $182.43 on November 26, 2026, against $212.15 from Nerdsnack on November 24 and $213.69 from ShonenTCG on November 25, and this guide uses the two TCGCSV reads that agree, not the outlier. The fourth failure is the reseal: a market box at $212.15 against a case box at $98.53 is exactly the gap resealers monetize, so check the seals before paying, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows how. The fifth failure is reading the November 19 prices as live: the top ten fell 5.72 percent in six days, so re-check the shelf and the market on the day you pay."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Yabuki Nami, a guaranteed return, or a box price that never moves: the chase is a lottery with no published pull rates, the Nami alone is 28.64 percent of a $5,273.64 top ten, and the top ten fell 5.72 percent in six days. It is not for the buyer who wants a Japanese box to play at a tournament outside Asia: Japanese cards are not legal at official events in North America, Latin America, Europe, or Oceania. It is not for anyone who wants a single English box from our shelf, because the only EB-05 product here is the twelve-box case. It is not for anyone who will pay a gold-stamped price without checking the stamp, because the plain Yabuki Nami is $41.22. It is not for anyone who wants the November 25 prices to hold, because all ten cards fell in six days, and it is not for anyone who wants only new EB05-numbered cards, because six of the ten carry numbers from older sets."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide language first: English to play outside Asia, Japanese to collect the original print at the lowest box price",
+          "Remember the shelf holds one EB-05 product: the English case at $1,182.38, twelve boxes at $98.53 each, as of November 26, 2026",
+          "Compare box against box: Japanese ask $67.46 against the English market box $212.15, a $144.69 gap, and remember the English pack holds twice the cards, 12 against 6",
+          "Compare per card, not per box: the English case card is $0.34, which beats the Japanese ask card at $0.47",
+          "Divide the case before paying: it saves $1,363.42 against twelve market boxes, or $113.62 a box",
+          "Check the stamp before paying a chase price: the gold-stamped Yabuki Nami is $1,510.36 and the plain copy is $41.22, both as of November 25, 2026",
+          "Buy the single if the card is the job: the Nami is 15.33 case boxes and 7.12 market boxes, with no published pull rates",
+          "Confirm tournament legality with your organizer before buying Japanese cards to play, and remember Japanese cards are legal only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand",
+          "Confirm the exact shipping quote at checkout or on WhatsApp before paying for a Japanese box, because the ask carries no shipping or customs in the figure",
+          "Re-check the shelf and the market on the day you pay: the top ten fell 5.72 percent in the six days from November 19 to November 25, 2026"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "Before paying for EB-05 in either language, walk the list. The language question comes first, because it decides which products exist at all. Once the language is settled, the [EB-05 best cards guide](/blog/eb-05-best-cards/) ranks the chase, and the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) divides every Japanese box to per-pack prices."
+        ]
+      }
+    ],
+    "slug": "eb-05-japanese-vs-english-which-to-buy",
+    "takeaway": [
+      "EB-05 in English costs $1,182.38 a case on our shelf as of November 26, 2026, twelve boxes at $98.53 a box, $4.11 a pack, and $0.34 a card, $21.23 below the $119.76 MSRP box per box, and it is the only EB-05 product on the shelf: no single English box, no Japanese box, no Japanese case. A single English box trades at $212.15 on TCGplayer as of November 24, 2026, and a Japanese box asks ¥10,743, about $67.46, from a Tokyo retailer as of November 26, 2026. Buy English to play outside Asia, buy the Japanese ask to collect the original print cheapest, and buy the case if twelve boxes are the plan. The [EB-05 best cards guide](/blog/eb-05-best-cards/) ranks the same ten chase cards.",
+      "The chase is the gold-stamped Yabuki Nami at $1,510.36 on TCGplayer market as of November 25, 2026, and it is 28.64 percent of the $5,273.64 top ten on that read, with the top two together at $2,776.85, 52.66 percent. The card is 15.33 case boxes and 7.12 market boxes, and it fell only $17.39, 1.14 percent, in six days while the top ten fell $320.01, 5.72 percent, so buy the single if the card is the job and check the gold stamp, because the plain copy is $41.22. The [EB-04 best cards guide](/blog/eb-04-best-cards/) ranks a set whose Koby Manga at $569.92 is far cheaper than this Nami.",
+      "Companion guide: the [EB-03 Japanese versus English guide](/blog/eb-03-japanese-vs-english-which-to-buy/) works the same split for Heroines Edition Vol. 1, where the English box is $167.28 and the Japanese box is $131.78. For the set that split its English release, the [EB-04 Japanese versus English guide](/blog/eb-04-japanese-vs-english-which-to-buy/) works the same split for Egghead Crisis, where there is no English box at all. For the whole shelf as one dated board, the [best English One Piece booster box guide](/blog/best-english-one-piece-booster-box-to-buy/) divides all the boxes to per-pack prices."
     ]
   },
   "english-one-piece-booster-box-price": {
@@ -47203,7 +47525,231 @@ export const POSTS: Record<string, BlogPost> = {
       "No box guarantees an Enchanted card. The largest-sample polls put one near every 96 to 100 packs, an expected 0.25 per box, and the median Enchanted is $92.03 against a median Iconic of $1,493.85.",
       "Sets 1 through 8 are out of Core Constructed, so buy those cases to collect or open, not to play. Sets 9 through 14 are the Core-legal sets.",
       "The [SV1V Violet ex investment guide](/blog/sv1v-investment/) runs the same case-divided math on the Pokemon side of the shelf.",
-      "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the Fabled gap is the one that moves fastest. How to buy Lorcana online, step by step, is covered in the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/), where the fifteen-case shelf divides from $98.48 to $371.32 a box."
+      "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the Fabled gap is the one that moves fastest. How to buy Lorcana online, step by step, is covered in the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/), where the fifteen-case shelf divides from $98.48 to $371.32 a box.",
+      "For the set that started it all, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the Elsa at $942.98 against a $371.32 case box."
+    ]
+  },
+  "lorcana-first-chapter-best-cards": {
+    "datePublished": "2026-11-26",
+    "faqs": [
+      {
+        "a": "The Enchanted Elsa, Spirit of Winter, 207/204, at $942.98 on TCGplayer market checked November 26, 2026, from TCGPursuit's First Chapter read. TurnZero's November 20, 2026 read puts the same card at $946.27, $3.29 higher, so the two freshest reads agree within 0.35%. The same Elsa is $4.70 as a Legendary and $68.42 as a foil Legendary, so check the collector number before you pay a chase price.",
+        "q": "What is the most valuable First Chapter card?"
+      },
+      {
+        "a": "No, not as a plan. The Elsa is $942.98 on TCGplayer market checked November 26, 2026, which is 2.54 case boxes and 0.63 of a whole case at $1,485.26, and the community Enchanted rate is about one in 96 packs, so one specific Enchanted averages 1,152 packs, $17,821.44 of packs at our $15.47 case pack price. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase. Buy the single if the card is the job, or buy the case to hold the first set sealed and treat the Enchanted as a bonus.",
+        "q": "Should I buy a First Chapter case to pull the Elsa?"
+      },
+      {
+        "a": "Buy the English case if the job is the first set in English, sealed, with the Enchanted chase: $1,485.26, four boxes at $371.32 a box, $15.47 a pack, $1.29 a card. Buy the Japanese case if the job is the cheapest First Chapter packs: $479.46, fifteen boxes at $31.96 a box, $2.00 a pack, $0.33 a card, against a Japanese suggested retail of 5,280 yen a box, $33.15 at 159.26 yen per dollar. The Japanese set prints 204 cards in Japanese, not 216, and Japanese cards are generally not legal at official events outside Asia. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) covers the Japanese edition in full.",
+        "q": "First Chapter English case vs Japanese case: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana First Chapter Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in The First Chapter is the Enchanted Elsa, Spirit of Winter, 207/204, at $942.98 on TCGplayer market checked November 26, 2026, from TCGPursuit's set read. The ten best cards are all Enchanted rares, they add to $2,822.34, and the Elsa alone is $942.98 of it, 33.41%. Our shelf, November 26, 2026, carries the English sealed case at $1,485.26, four boxes at $371.32 a box, $15.47 a pack, and $1.29 a card, the dearest case on the shelf, and the Japanese sealed case at $479.46, fifteen boxes at $31.96 a box. Buy the case to hold the first set sealed, buy the single to own the Elsa.",
+      "Who this is for: collectors ranking the First Chapter chase, buyers weighing a four-box case against a market box, and players who want the play cards behind the Enchanted art. Who it is not for: anyone chasing one named Enchanted by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "The First Chapter's 10 best cards on TCGplayer market, Nov 26, 2026: the $942.98 Enchanted Elsa, the $371.32 case box, and the $404.51 market box.",
+    "metaTitle": "Lorcana First Chapter Best Cards, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Elsa, nine more, and the dearest case on the shelf",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 26, 2026, from TCGPursuit's First Chapter read. The ten add to $2,822.34, and the top three are $1,554.50 of it, 55.08%. Elsa, Spirit of Winter (Enchanted) 207/204 is $942.98, Mickey Mouse, Wayward Sorcerer (Enchanted) 208/204 is $353.51, and Stitch, Carefree Surfer (Enchanted) 206/204 is $258.01. Behind them, Mickey Mouse, Artful Rogue 210/204 at $215.65, Simba, Returned King 215/204 at $203.66, and Belle, Strange but Special 214/204 at $198.08. Then Tinker Bell, Giant Fairy 216/204 at $194.35, Aurora, Dreaming Guardian 213/204 at $189.26, Genie, On the Job 209/204 at $148.07, and Aladdin, Heroic Outlaw 211/204 at $118.77.",
+          "The split is the story. One card is a third of the list: the Elsa is $942.98, 33.41% of the top ten, and 2.67 times the second card. The top two are $1,296.49, 45.94%, and the bottom five are $848.53, 30.06%. The second reading agrees: TurnZero's November 20, 2026 read puts the Elsa at $946.27, $3.29 above the November 26 read. The highest non-Enchanted card sits below the whole ten: the foil Legendary Mickey Mouse, Brave Little Tailor, at $84.51 on TurnZero's October 22, 2026 read, $34.26 below the tenth card and 71.15% of it. The two Enchanteds outside the ten are Hades, King of Olympus, and Maui, Hero to All.",
+          "A collector chasing the Elsa buys the single: the card is 2.54 case boxes and 0.63 of a whole case, and 6.56 times an MSRP box. A collector who wants the first set sealed buys the case at $371.32 a box. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "First Chapter English case per box: $1,485.26 / 4 boxes = $371.32 per box",
+          "First Chapter English case per pack: $1,485.26 / 96 packs = $15.47 per pack",
+          "First Chapter English case per card: $1,485.26 / 1,152 cards = $1.29 per card",
+          "First Chapter English box at MSRP: 24 packs x $5.99 = $143.76",
+          "First Chapter English case box vs MSRP box: $371.32 - $143.76 = $227.56 above MSRP per box",
+          "First Chapter English case box vs MSRP box: $371.32 / $143.76 = 2.58x",
+          "First Chapter TickerMint market box per pack: $404.51 / 24 packs = $16.85 per pack",
+          "First Chapter TickerMint market box vs case box: $404.51 - $371.32 = $33.19 per box",
+          "First Chapter TickerMint market box vs case box: $404.51 / $371.32 = 1.09x",
+          "First Chapter TickerMint market box vs MSRP box: $404.51 / $143.76 = 2.81x",
+          "First Chapter four TickerMint market boxes: 4 x $404.51 = $1,618.04; $1,618.04 - $1,485.26 = $132.78 saved",
+          "First Chapter FASE market box per pack: $471.00 / 24 packs = $19.63 per pack",
+          "First Chapter FASE market box vs case box: $471.00 - $371.32 = $99.68 per box",
+          "First Chapter FASE market box vs case box: $471.00 / $371.32 = 1.27x",
+          "First Chapter four FASE market boxes: 4 x $471.00 = $1,884.00; $1,884.00 - $1,485.26 = $398.74 saved",
+          "First Chapter FASE box vs TickerMint box: $471.00 - $404.51 = $66.49; $66.49 / $404.51 = 16.44%",
+          "First Chapter TickerMint box vs WorthRipping box: $404.51 - $180.68 = $223.83 apart",
+          "First Chapter market box Oct 27 to Nov 21: $404.51 - $460.00 = -$55.49; -$55.49 is -12.06% of $460.00",
+          "First Chapter market box vs September high: $493.00 - $404.51 = $88.49; $88.49 is 17.95% of $493.00",
+          "First Chapter market box vs April 2024 low: $404.51 / $187.00 = 2.16x",
+          "First Chapter Japanese case per box: $479.46 / 15 boxes = $31.96 per box",
+          "First Chapter Japanese case per pack: $479.46 / 240 packs = $2.00 per pack",
+          "First Chapter Japanese case per card: $479.46 / 1,440 cards = $0.33 per card",
+          "First Chapter Japanese box at suggested retail: 5,280 yen / 159.26 yen per dollar = $33.15",
+          "First Chapter Japanese suggested-retail case: 15 boxes x 5,280 yen = 79,200 yen; 79,200 yen / 159.26 yen per dollar = $497.30; $497.30 - $479.46 = $17.84 below suggested retail",
+          "First Chapter Japanese shelf box vs suggested retail: $33.15 - $31.96 = $1.19 below suggested retail per box",
+          "First Chapter Japanese pack at suggested retail: 330 yen / 159.26 yen per dollar = $2.07 per pack",
+          "First Chapter Japanese box vs English case box: $371.32 / $31.96 = 11.62x; $371.32 - $31.96 = $339.36 apart",
+          "First Chapter Japanese market ask vs suggested retail: 9,499 yen / 5,280 yen = 1.80x; 9,499 yen - 5,280 yen = 4,219 yen above suggested retail",
+          "First Chapter top 10 total: $942.98 + $353.51 + $258.01 + $215.65 + $203.66 + $198.08 + $194.35 + $189.26 + $148.07 + $118.77 = $2,822.34",
+          "First Chapter top 2 total: $942.98 + $353.51 = $1,296.49; $1,296.49 / $2,822.34 = 45.94% of the top 10",
+          "First Chapter top 3 total: $942.98 + $353.51 + $258.01 = $1,554.50; $1,554.50 / $2,822.34 = 55.08% of the top 10",
+          "First Chapter Elsa share: $942.98 / $2,822.34 = 33.41% of the top 10",
+          "First Chapter bottom 8 total: $2,822.34 - $1,296.49 = $1,525.85; $1,525.85 / $2,822.34 = 54.06% of the top 10",
+          "First Chapter bottom 5 total: $198.08 + $194.35 + $189.26 + $148.07 + $118.77 = $848.53; $848.53 / $2,822.34 = 30.06% of the top 10",
+          "First Chapter third rung total: $194.35 + $189.26 + $148.07 + $118.77 = $650.45; $650.45 / $2,822.34 = 23.05% of the top 10",
+          "First Chapter second rung spread: $258.01 - $198.08 = $59.93",
+          "First Chapter Elsa vs second card: $942.98 / $353.51 = 2.67x",
+          "First Chapter Elsa vs tenth card: $942.98 / $118.77 = 7.94x",
+          "First Chapter Elsa against the case: $942.98 / $371.32 = 2.54 case boxes; $942.98 / $1,485.26 = 0.63 cases",
+          "First Chapter Elsa against the MSRP box: $942.98 / $143.76 = 6.56x",
+          "First Chapter Elsa against the market box: $942.98 / $404.51 = 2.33x",
+          "First Chapter top 10 against the case: $2,822.34 / $1,485.26 = 1.90 cases; $2,822.34 / $371.32 = 7.60 case boxes",
+          "First Chapter top 10 against the MSRP box: $2,822.34 / $143.76 = 19.63x",
+          "First Chapter top 10 against the cheapest English case: $2,822.34 / $393.93 = 7.16 cases",
+          "First Chapter cheapest English case per box: $393.93 / 4 boxes = $98.48 per box",
+          "First Chapter Elsa Nov 20 to Nov 26: $942.98 - $946.27 = -$3.29; -$3.29 is -0.35% of $946.27",
+          "First Chapter Elsa Oct 27 to Nov 26: $952.84 - $942.98 = $9.86",
+          "First Chapter highest non-Enchanted vs tenth card: $118.77 - $84.51 = $34.26; $84.51 / $118.77 = 71.15% of the tenth card",
+          "First Chapter Elsa Enchanted vs foil Legendary Brave Little Tailor: $942.98 / $84.51 = 11.16x",
+          "First Chapter Elsa Enchanted vs Elsa Legendary: $942.98 / $4.70 = 200.63x; $942.98 / $68.42 = 13.78x against the foil Legendary",
+          "First Chapter Elsa Enchanted overpay vs foil Legendary: $942.98 - $68.42 = $874.56",
+          "First Chapter specific Enchanted chase: 12 Enchanted x 96 packs = 1,152 packs per specific Enchanted on average; 1,152 packs x $15.47 = $17,821.44",
+          "First Chapter Enchanted expectation per case: 96 packs / 96 packs per Enchanted = 1 Enchanted per case on average"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $1,485.26, or $371.32 a box, $15.47 a pack, and $1.29 a card. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $227.56 above MSRP per box, at 2.58 times the MSRP box.",
+          "The open market charges more than our case box, on both readings. A TickerMint market box is $404.51 on the November 21, 2026 read, $33.19 more per box than our case box, at 1.09 times it, and $16.85 a pack, so four cost $1,618.04 and the case saves $132.78 against them. The FASE read, November 20, 2026, is higher: $471.00 a box, $99.68 above our case box, at 1.27 times it, and four cost $1,884.00, so the case saves $398.74. The two readings are $66.49 apart, 16.44% of the lower one, so the band is the fact: the market box sits near $404.51 to $471.00. A third reading disagrees sharply: WorthRipping prints $180.68 for November 26, $223.83 below the TickerMint box, after printing $443.01 on November 2, and its own table drops from $283.54 on November 23. We do not adopt it; no other source shows that fall.",
+          "The Japanese side is a different product. The Japanese case is $479.46 for fifteen boxes, or $31.96 a box, $2.00 a pack, and $0.33 a card, and a Japanese box holds 16 packs of 6 cards, 96 cards against 288 in an English box. Takara Tomy lists the Japanese box at 5,280 yen, $33.15 at 159.26 yen per dollar on November 26, 2026, so our box sits $1.19 below suggested retail, and the fifteen-box suggested-retail case is $497.30, $17.84 above our case. The market ask runs higher: SNKRDUNK listed the same box at 9,499 yen in June 2026, 1.80 times suggested retail. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on The First Chapter, what each costs per pack, what it is for, and where it fails.",
+          "The case row deserves a second look: it is the only row that runs through our shelf, and the cheapest sealed English box in this table, $33.19 below the TickerMint market box and $99.68 below the FASE box. The Japanese case is cheaper per box and per pack, and it is a different set in a different language, with 204 cards against the English 216. The [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$1,485.26",
+              "$371.32 a box, $15.47 a pack",
+              "Holding the first set sealed; the only First Chapter sealed product here",
+              "Four boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "TickerMint market box",
+              "$404.51",
+              "$16.85",
+              "One English box at a time",
+              "2.81x MSRP; $33.19 more per box than our case box"
+            ],
+            [
+              "FASE market box",
+              "$471.00",
+              "$19.63",
+              "One English box at a time, higher read",
+              "1.27x our case box; $99.68 more per box"
+            ],
+            [
+              "The single (Elsa Enchanted)",
+              "$942.98",
+              "n/a",
+              "Owning the chase card",
+              "2.54 case boxes; grading and condition risk"
+            ],
+            [
+              "Japanese case (15)",
+              "$479.46",
+              "$31.96 a box, $2.00 a pack",
+              "Opening cheap; holding the first Japanese printing",
+              "204 cards, not 216; Japanese cards are not legal at official events outside Asia"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the rotation, and the stale prices",
+        "note": "From the Warehouse: the question we get most in chat about The First Chapter is whether the case is a mistake, because buyers remember the reprint crash, when a box fell to $187 in April 2024 and now sits at $404.51, 2.16 times that low. It is not a mistake, and it is not a bargain either. The case holds four English First Chapter boxes and nothing else, at $371.32 a box, below both market-box readings we trust, and the second question is whether the Elsa is really worth more than two sealed boxes. It is, on the November 26 read: $942.98 against a $404.51 market box, 2.33 boxes for one card. We do not know whether it holds, and anyone who says they do is guessing: the same card was $952.84 on October 27 and $946.27 on November 20.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. Dicebreaker ranks twelve cards by playability, from 2023, with no prices at all. TheGamer ranks fourteen by value on prices last updated in June 2024. TCGNomad, the freshest of the three, still prices its ten from an ICv2 column dated August 24, 2023, launch week. TCGPursuit and TurnZero carry fresh prices but no shelf, no case division, and no verdict. None of them ties the ranking to a box price you can actually pay today.",
+          "The gap this page owns is threefold: the shelf, the dated read, and the case division. The shelf price is ours, stamped November 26, 2026: the English case at $1,485.26 and the Japanese case at $479.46. The dated read is TCGPursuit's November 26, 2026 TCGplayer snapshot, all ten printings, $2,822.34 in total, cross-checked against TurnZero's November 20 read. No other best-cards list for this set carries all three.",
+          "The second gap is rotation. The First Chapter left Core Constructed in September 2025, when Fabled arrived, and Sets 5 to 8 followed on July 17, 2026, so the set's value is collector value now, not tournament value. The third gap is the Japanese edition: the same set in Japanese, released January 25, 2025, 204 cards, 6 cards a pack at 330 yen, and a case on our shelf at $31.96 a box, which no English-language best-cards list mentions. The fourth gap is the printing check: the Elsa is three prices in one set, $4.70 as a Legendary, $68.42 as a foil Legendary, and $942.98 as an Enchanted, and a buyer who does not check the number pays the wrong one."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is one card. The Elsa is $942.98, 33.41% of the top ten on its own, and 2.67 times the second card, Mickey Mouse, Wayward Sorcerer, at $353.51. Together they are $1,296.49, 45.94% of the list. The Elsa moved $3.29 in six days, from $946.27 on November 20 to $942.98 on November 26, down 0.35%, and $952.84 on October 27, so the card has sat within $9.86 for a month.",
+          "The second rung is the Stitch, the two Mickeys, and the Simba. Stitch, Carefree Surfer is $258.01, Mickey Mouse, Artful Rogue is $215.65, Simba, Returned King is $203.66, and Belle, Strange but Special is $198.08. With the Stitch, the top three are $1,554.50, 55.08% of the ten. The four sit within $59.93 of each other, so the middle of the list is a pack, not a ladder.",
+          "The third rung is the Tinker Bell, the Aurora, the Genie, and the Aladdin. Tinker Bell, Giant Fairy is $194.35, Aurora, Dreaming Guardian is $189.26, Genie, On the Job is $148.07, and Aladdin, Heroic Outlaw is $118.77, together $650.45, 23.05% of the ten. Below the top ten sits the foil Legendary Mickey Mouse, Brave Little Tailor, at $84.51, $34.26 below the tenth card. That is the ladder: one card at the top, and a floor that drops $34.26 below the tenth card."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 96 packs, one in 1,152 for the Elsa",
+        "paragraphs": [
+          "The first risk is the odds. Ravensburger has never published pull rates for any Lorcana set, so every rate below is a community estimate. The consensus is about one Enchanted in 96 packs, about one per four-box case on average, and the Lorcana Wiki prints the same figure for The First Chapter. A case holds 96 packs, so the expectation is one Enchanted per case, not a guarantee: community tracking puts about 22% of boxes holding one, so most boxes hold none. The specific Elsa is rarer still: twelve Enchanteds share the one-in-96 slot, so one specific Enchanted averages 1,152 packs, $17,821.44 of packs at our $15.47 case pack price.",
+          "The second risk is the printing, not the card. The Elsa is three prices in one set: $4.70 as a Legendary, $68.42 as a foil Legendary, and $942.98 as an Enchanted, so the Enchanted is 200.63 times the plain Legendary and 13.78 times the foil. A buyer who pays an Enchanted price for a foil Legendary has overpaid by $874.56. Check the collector number before you pay: the Enchanted is 207/204, the Legendary is 42/204, and the foil slot is the only place an Enchanted can appear.",
+          "The third risk is the reseal. A box that sold for $187 in April 2024 and $404.51 in November 2026 is exactly what resealers monetize, so check the seal, wrap tension, and pack order before opening; [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows how. The fourth risk is the language: Japanese cards are generally not legal at official events outside Asia. The fifth risk is the price itself: the market box fell 12.06% between late October and November 21, from about $460 to $404.51, and the November 26 top ten is a snapshot, not a floor. The sealed-hold plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/), and the storage rules are in [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, two formats, and two editions",
+        "paragraphs": [
+          "The First Chapter is Disney Lorcana's first set, set 1 of 14 on the shelf, with Set 14 Hyperia City the newest. It reached game stores on August 18, 2023 and mass retail on September 1, 2023, at $5.99 a pack and $143.76 a box. The set holds 204 regular cards, 72 Commons, 54 Uncommons, 48 Rares, 18 Super Rares, and 12 Legendaries, plus 12 Enchanted rares numbered 205 to 216, for 216 cards in total. A pack holds 12 cards: 6 Commons, 3 Uncommons, 2 Rare or higher, and 1 foil, and a box holds 24 packs.",
+          "The set left Core Constructed in September 2025, when Fabled arrived, and Sets 5 to 8 followed on July 17, 2026, at the Attack of the Vine prerelease, so Core Constructed is now Sets 9 to 14. Every First Chapter card is still legal in Infinity Constructed, the eternal format, and the reprint rule keeps a card legal by name: Elsa, Spirit of Winter was reprinted in Fabled as card 43, so the name stays Core-legal even though Set 1 rotated. The value in this ranking is collector value; the play value lives in the regular printings, which cost a few dollars, not in the Enchanted art.",
+          "The play list and the price list barely overlap. The 2023 best-cards lists rank Mickey Mouse, True Friend, Belle, Strange but Special, Rapunzel, Gifted with Healing, Be Prepared, and A Whole New World as the cards that defined early play, and only Belle, Simba, Aurora, and Aladdin from that world appear in this top ten, as Enchanteds. The Japanese edition is the other half of the context: The First Chapter reached Japan on January 25, 2025, through Takara Tomy, 204 cards, 6 cards a pack at 330 yen, 16 packs a box at 5,280 yen, and our shelf carries its case at $31.96 a box. The [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) covers that edition in full."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Enchanted, who should buy the single: the Elsa averages 1,152 packs at the community rate, $17,821.44 of packs at our case price. It is not for anyone who wants a single English box, because the only English First Chapter product here is the four-box case. It is not for anyone who will pay an Enchanted price without checking the number, because the same Elsa is $4.70 as a Legendary and $68.42 as a foil. It is not for anyone who needs the prices to hold, or a return on a date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Elsa, own the ten, hold the first set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Elsa, buy the single: $942.98 Enchanted on the November 26, 2026 TCGplayer market read, and check the number, 207/204, because the Legendary is $4.70.",
+          "If the job is the ten, buy the English case at $1,485.26, four boxes at $371.32 each, and treat the Enchanted as a bonus, not the plan.",
+          "If the job is one box, buy the TickerMint market box at $404.51, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the Japanese case at $479.46, fifteen boxes at $31.96 each, and remember it prints 204 cards in Japanese.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and re-check the shelf price on the day you buy, because this set is three years old and its market box fell 12.06% in under a month."
+        ],
+        "h": "Action layer: the First Chapter best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 26, 2026, so re-divide before you pay if either side has moved. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles, and the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices. Exact shipping is confirmed at checkout or on WhatsApp, and we ship from Japan."
+        ]
+      }
+    ],
+    "slug": "lorcana-first-chapter-best-cards",
+    "takeaway": [
+      "The First Chapter top ten, on TCGplayer market prices checked November 26, 2026, totals $2,822.34, and the Elsa is $942.98 of it, 33.41%. All ten are Enchanted rares, the top two are $1,296.49, 45.94%, and the highest non-Enchanted card, the foil Legendary Mickey Mouse, Brave Little Tailor at $84.51, sits $34.26 below the tenth card.",
+      "On our shelf as of November 26, 2026, there are exactly two First Chapter products: the English sealed case at $1,485.26, four boxes at $371.32 a box, $15.47 a pack, $1.29 a card, $227.56 above the MSRP box per box, and the Japanese sealed case at $479.46, fifteen boxes at $31.96 a box, $2.00 a pack, $0.33 a card. There is no single English box and no single Japanese box on the shelf. The Elsa is 2.54 case boxes and 0.63 of a whole case. The case saves $132.78 against four TickerMint market boxes at $404.51 each.",
+      "It is worth buying as the first set sealed, and it is not worth buying as a way to own one named Enchanted. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the community rate of about one Enchanted in 96 packs puts one specific Enchanted at 1,152 packs on average, $17,821.44 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Enchanted as a bonus.",
+      "The ladder below the Elsa is tight: the second rung, Stitch at $258.01 through Belle at $198.08, spans $59.93, and the third rung, Tinker Bell at $194.35 through Aladdin at $118.77, totals $650.45, 23.05% of the ten. The Elsa moved $3.29 in six days, from $946.27 on November 20 to $942.98 on November 26, down 0.35%, and $9.86 since October 27.",
+      "Companion guide: the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with the First Chapter at $371.32 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
+      "For the Japanese edition, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) covers the January 25, 2025 release, 204 cards, 6 cards a pack at 330 yen, and the case at $31.96 a box. For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+      "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
     ]
   },
   "m1l-best-cards": {
