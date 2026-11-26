@@ -27555,7 +27555,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Prices move, so treat every number here as stamped: our shelf prices as of November 18, 2026, after a uniform 15 percent cut in one leg, and the marketplace references as of November 1 to 17, 2026. The shelf fell 15 percent while the market box held at its November 1 figure, which is the fact that outlives every price on this page: shelves reprice on their own schedules, and a box bought as an investment can fall as fast as it rose.",
       "For the price-and-math companion, the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [best Dragon Ball Fusion World sealed case guide](/blog/best-dragon-ball-fusion-world-sealed-case-to-buy/) ranks every English case to per-box prices. The [is FB09 worth buying guide](/blog/is-fb09-worth-buying/) gives the dated verdict on this set; its November 12 money layer divided the Japanese listing as a box, and this page corrects that reading.",
       "Companion guide: the [M2 Inferno X investment guide](/blog/m2-investment/) prices the Pokémon set of this cycle the same way, with its case dividing to $94.47 a box, $10.39 below the market box.",
-      "Companion guide: the [FB09 Japanese vs English guide](/blog/fb09-japanese-vs-english-which-to-buy/) prices both languages from one shelf, with the English case at $4,105.50 and the Japanese single at $54.50, and the market Japanese box at 9,099 yen."
+      "Companion guide: the [FB09 Japanese vs English guide](/blog/fb09-japanese-vs-english-which-to-buy/) prices both languages from one shelf, with the English case at $4,105.50 and the Japanese single at $54.50, and the market Japanese box at 9,099 yen.",
+      "For the language split on the set two after this one, the [FB11 Japanese versus English guide](/blog/fb11-japanese-vs-english-which-to-buy/) prices Brightness of Hope the same way, with the English case at $2,170.05 and the Japanese box at $47.14 to $87.92 on the market."
     ]
   },
   "fb09-japanese-vs-english-which-to-buy": {
@@ -27803,7 +27804,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "FB09 in English costs $4,105.50 a case, or $342.13 a box, and in Japanese it costs $54.50 for one single card, because the shelf sells no Japanese box and no single English box. The market English box was $270.04 on November 1, 2026, and $263.61 on November 24, 2026, so the case box sits $72.09 above the older read. A Japanese sealed box has to be bought on the market, where asks run $57.20 to $74.81 as of November 25, 2026. Buy English to play, buy the Japanese single as a single, buy the Japanese box at the low end of its range if you want to open Japanese packs, and buy the Gogeta single at $1,699 to $2,000 if it is the only card you want. The [FB09 investment guide](/blog/fb09-investment/) prices the hold, and [is FB09 worth buying](/blog/is-fb09-worth-buying/) gives the dated verdict on the same shelf.",
       "Companion guide: the [FB08 Japanese vs English guide](/blog/fb08-japanese-vs-english-which-to-buy/) prices Saiyan's Pride the same way, with the English case at $2,082.57 and the Japanese single at $22.12, and its market Japanese box asks running from £59.99 to $157.00.",
-      "Companion guide: the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [FB09 best cards guide](/blog/fb09-best-cards/) ranks the chase cards, with the Gogeta: GT Super Alternate Art at $2,000.00 on the November 24, 2026 read."
+      "Companion guide: the [FB09 Dual Evolution buyer's guide](/blog/fb09-dual-evolution-buyers-guide/) divides the same shelf set by set, and the [FB09 best cards guide](/blog/fb09-best-cards/) ranks the chase cards, with the Gogeta: GT Super Alternate Art at $2,000.00 on the November 24, 2026 read.",
+      "Next in the series, the [FB10 Japanese versus English guide](/blog/fb10-japanese-vs-english-which-to-buy/) prices Cross Force the same way, with the English case at $1,983.53 and the Japanese box at $47.16 to $87.91 on the market."
     ]
   },
   "fb10-best-cards": {
@@ -28023,7 +28025,264 @@ export const POSTS: Record<string, BlogPost> = {
       "For the longer hold, the [FB09 investment guide](/blog/fb09-investment/) runs the same division on the set before this one, and the [FB08 investment guide](/blog/fb08-investment/) prices the set beside this one.",
       "For the set before this one, the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the ten best Saiyan's Pride cards, top ten $705.70, with the Broly Alternate Art at $104.79, and the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the set before that one.",
       "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them.",
-      "For the next set in the series, the [FB11 best cards guide](/blog/fb11-best-cards/) ranks the ten best Brightness of Hope cards, top ten $1,027.25, with the Son Goku Alternate Art at $185.31."
+      "For the next set in the series, the [FB11 best cards guide](/blog/fb11-best-cards/) ranks the ten best Brightness of Hope cards, top ten $1,027.25, with the Son Goku Alternate Art at $185.31.",
+      "For the language split, the [FB10 Japanese versus English guide](/blog/fb10-japanese-vs-english-which-to-buy/) prices the same shelf case against the Japanese box, with the Japanese top ten at $7,699.92."
+    ]
+  },
+  "fb10-japanese-vs-english-which-to-buy": {
+    "datePublished": "2026-11-26",
+    "faqs": [
+      {
+        "a": "The English market box at $221.80 on November 25, 2026, or $222.46 on November 23, 2026, if you want a single box, or the English case at $1,983.53 if you can take twelve boxes at $165.29 a box. English is the playable language outside Asia. There is no Japanese FB10 product on this shelf, and Japanese cards are usable only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand, so confirm legality with your organizer before buying Japanese to play.",
+        "q": "Which FB10 should I buy to play?"
+      },
+      {
+        "a": "Because the only FB10 product on the shelf is the English sealed case at $1,983.53 as of November 26, 2026, split to $165.29 a box, with no single English box listed and no Japanese FB10 listing at all. A Japanese sealed box has to be bought on the market, where asks as of November 26, 2026 run from ¥7,510 on Bandar TCG on November 7, 2026, or $47.16, to ¥14,000 before tax on Fandom Tokyo, or $87.91, a listing marked sold out. The official Japanese box is ¥5,280, or $33.15 at the ECB November 26, 2026 fixing of 159.26 yen per dollar.",
+        "q": "Why is there no Japanese FB10 box on this shelf?"
+      },
+      {
+        "a": "At official retail, yes, and as a product, no. A Japanese box holds 24 packs of 6 cards at 220 yen a pack, so 5,280 yen at retail, which converts to $33.15 at the ECB November 26, 2026 fixing of 159.26 yen per dollar. An English box holds 24 packs of 12 cards, and our case-split English box is $165.29 as of November 26, 2026. The Japanese box holds half the cards, Japanese cards are not legal at official English events, and the cheapest market ask found, $47.16 on Bandar TCG on November 7, 2026, is before proxy fees and international shipping, which this guide does not price.",
+        "q": "Is the Japanese FB10 box cheaper than the English box?"
+      }
+    ],
+    "h1": "FB10 Cross Force: Japanese vs English, Priced",
+    "intro": [
+      "Short answer: buy the English case-split box at $165.29 if you want to open FB10 in English, buy a Japanese box on the market at $47.16 to $87.91 if you want to open Japanese packs, and buy the Cell Super Alternate Art single at $999.43 if you want the chase card, because this shelf sells only the English sealed case at $1,983.53 and no Japanese FB10 product at all. The case-split box sits $56.51 below the $221.80 TCGplayer market box of November 25, 2026, and the Japanese box costs $33.15 at official retail, which is 5,280 yen at the ECB November 26, 2026 fixing of 159.26 yen per dollar, a price no buyer outside Japan pays.",
+      "Cross Force, set code FB10, is the tenth main Dragon Ball Fusion World booster, with 123 card types: 5 Leaders, 40 Commons, 35 Uncommons, 25 Rares, 15 Super Rares, and 3 Secret Rares. English released on June 12, 2026, one day ahead of Japanese on June 13, 2026, so the usual reason to buy Japanese, early access, did not exist here. An English pack holds 12 cards plus a digital code, a Japanese pack holds 6 cards plus a digital code, and Bandai prints 220 yen per Japanese pack, tax included, with 24 packs to a box on retailer listings, because Bandai prints no packs-per-box figure. Who this is for: the buyer choosing a language first and a format second, priced from one store and one market on one date."
+    ],
+    "metaDescription": "FB10 Cross Force in both languages, priced: English case $1,983.53, market box $221.80, Japanese box $47.16 to $87.91, official $33.15.",
+    "metaTitle": "FB10 Cross Force: Japanese vs English, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "The buyer comes first and the language second, because FB10 punishes the buyer who gets the order backwards. A player who wants FB10 cards for play outside Asia buys English, and the only sealed English route on this shelf is the [FB10 English sealed case](/product/dragon-ball-super-fusion-world-fb10-cross-force-booster-box-sealed-case-english) at $1,983.53 as of November 26, 2026: a printed 12 boxes, 288 packs of 12 cards, 3,456 cards, $165.29 a box, $6.89 a pack, and $0.57 a card. One English box without a case means the market: the TCGplayer market box was $221.80 on November 25, 2026, or $9.24 a pack, and $222.46 on November 23, 2026, or $9.27 a pack, so the case-split box sits $56.51 below the fresher read. The [FB10 best cards guide](/blog/fb10-best-cards) ranks the chase that box can hold, and the [FB09 Japanese vs English guide](/blog/fb09-japanese-vs-english-which-to-buy) prices the same split for the set before this one.",
+          "A buyer who wants to open Japanese packs buys a Japanese sealed box on the market, because no Japanese FB10 product sits on this shelf at any price. The Japan-side asks run from ¥7,510 on Bandar TCG on November 7, 2026, or $47.16, to ¥14,000 before tax on Fandom Tokyo, or $87.91, a listing marked sold out in the September 2026 update of the ShonenTCG FB10 guide, with SNKRDUNK asks of ¥10,499 on September 29, 2026, or $65.92, and ¥11,399 on June 16, 2026, or $71.57, in between. That range is the whole story of the Japanese box: the official 5,280 yen box price, $33.15 at the November 26 rate, is a price you can pay in Japan, not from outside it. The [where to buy Japanese Fusion World guide](/blog/where-to-buy-dragon-ball-fusion-world-japanese) prices the proxy route, and the [best Japanese Fusion World box guide](/blog/best-fusion-world-booster-box-japanese) ranks the Japan-side boxes set by set."
+        ]
+      },
+      {
+        "h": "The money layer: four routes, four different products",
+        "paragraphs": [
+          "Start with the English case, because its arithmetic is complete: $1,983.53 for a printed 12 boxes divides to $165.29 a box, $6.89 a pack, and $0.57 a card. Against the official English box price of 24 packs at $4.99, or $119.76, the case-split box sits $45.53 above list, at 1.38 times it. Against the market, the case-split box is the value route, not the dear route: the TCGplayer market box was $221.80 on November 25, 2026, so the case-split box sits $56.51 below it, at 25.48 percent below market, and twelve market boxes would cost $2,661.60, $678.07 more than the case. The TCGplayer case itself is listed at $2,911.85, which is $928.32 above our shelf case. The case fell exactly 15.00 percent in the November repricing leg, from $2,333.57 to $1,983.53, a $350.04 cut, so the case box that was $194.46 is now $165.29. The format method is in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math).",
+          "The Japanese box has no price, it has a range, and the range is the story. At official retail it is ¥5,280, or $33.15 at 159.26 yen per dollar, which is $1.38 a pack and $0.23 a card. On the market it asks ¥7,510 on Bandar TCG on November 7, 2026, or $47.16, which is 1.42 times official; ¥10,499 on SNKRDUNK on September 29, 2026, or $65.92, which is 1.99 times official; ¥11,399 on SNKRDUNK on June 16, 2026, or $71.57, which is 2.16 times official; and ¥14,000 before tax on Fandom Tokyo, or $87.91, which is 2.65 times official and sold out. The asks fell 7.90 percent between June and September, then 28.47 percent more to the November Bandar read, so the buyer who pays the first ask they find can overpay by $40.75 against the low dollar read. A Japanese box holds 144 cards against an English box at 288, so cost per card is the honest comparison, and buying from Japan is covered in [buying TCG from Japan, shipping, customs, and proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy).",
+          "The chase layer is where the two languages split hardest. In English, the top ten together are $1,922.06 on the November 23, 2026 TCGplayer market read from TCGPursuit, led by the Cell FB10-123 Super Alternate Art at $999.43, which is 96.90 percent of the whole case price. In Japanese, the top ten together are ¥1,226,290 on Bandar TCG shop prices of November 7, 2026, or $7,699.92, led by the Vegito FB10-121 at ¥722,540, or $4,536.86, which is 4.54 times the English top card. The Japanese top ten is 4.01 times the English top ten, and the top four Japanese cards alone are 96.82 percent of it. The set is cooling: Nerdsnack records the set value at $2,534 on November 25, 2026, down from $2,597 on November 3, 2026, a $63 fall, or 2.43 percent. The two languages are two different markets, not two prices for one product, and the [FB10 best cards guide](/blog/fb10-best-cards) ranks the English ten in full while the [Dragon Ball Fusion World booster box guide](/blog/dragon-ball-fusion-world-booster-box) prices every case on this shelf beside it."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "What it is",
+            "Per box / per pack"
+          ],
+          "rows": [
+            [
+              "English sealed case (shelf)",
+              "$1,983.53, Nov 26 2026",
+              "Printed 12 boxes, 24 packs of 12 cards",
+              "$165.29 a box; $6.89 a pack"
+            ],
+            [
+              "English box, TCGplayer market",
+              "$221.80, Nov 25 2026",
+              "Third-party market price, dated",
+              "$9.24 a pack; $56.51 above the case-split box"
+            ],
+            [
+              "English box, TCGplayer market",
+              "$222.46, Nov 23 2026",
+              "Third-party market price, dated",
+              "$9.27 a pack; $57.17 above the case-split box"
+            ],
+            [
+              "English case, TCGplayer",
+              "$2,911.85, Nov 25 2026",
+              "Third-party market case, dated",
+              "Shelf case is $928.32 below it"
+            ],
+            [
+              "English box, official list",
+              "$119.76",
+              "24 packs at $4.99",
+              "$4.99 a pack; case-split box is $45.53 above it"
+            ],
+            [
+              "Japanese box, official",
+              "¥5,280 ($33.15)",
+              "24 packs at ¥220, tax included",
+              "$1.38 a pack; $0.23 a card"
+            ],
+            [
+              "Japanese box, Bandar TCG",
+              "¥7,510, Nov 7 2026 ($47.16)",
+              "Japan-side shop price, dated",
+              "$1.96 a pack; 1.42 times official"
+            ],
+            [
+              "Japanese box, SNKRDUNK",
+              "¥10,499, Sep 29 2026 ($65.92)",
+              "Japan-side market ask, dated",
+              "$2.75 a pack; 1.99 times official"
+            ],
+            [
+              "Japanese box, SNKRDUNK",
+              "¥11,399, Jun 16 2026 ($71.57)",
+              "Japan-side market ask, dated",
+              "$2.98 a pack; 2.16 times official"
+            ],
+            [
+              "Japanese box, Fandom Tokyo",
+              "¥14,000, Sep 2026 ($87.91)",
+              "Before tax, sold out",
+              "$3.66 a pack; 2.65 times official"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "English case per box: $1,983.53 ÷ 12 = $165.29 per box",
+          "English case per pack: $1,983.53 ÷ 288 = $6.89 per pack",
+          "English case per card: $1,983.53 ÷ 3,456 = $0.57 per card",
+          "English official box: 24 × $4.99 = $119.76",
+          "English case box vs official: $165.29 − $119.76 = $45.53 above list; $165.29 ÷ $119.76 = 1.38 times list",
+          "English case repricing: $2,333.57 − $1,983.53 = $350.04; $350.04 ÷ $2,333.57 = 15.00% down",
+          "English case box before repricing: $2,333.57 ÷ 12 = $194.46 per box; $194.46 − $165.29 = $29.17 down per box",
+          "English market box per pack, November 25 read: $221.80 ÷ 24 = $9.24 per pack; per card: $221.80 ÷ 288 = $0.77 per card",
+          "English market box per pack, November 23 read: $222.46 ÷ 24 = $9.27 per pack; per card: $222.46 ÷ 288 = $0.77 per card",
+          "English case-split box vs market box: $221.80 − $165.29 = $56.51 below market; $56.51 ÷ $221.80 = 25.48% below market",
+          "Twelve market English boxes vs case: 12 × $221.80 = $2,661.60; $2,661.60 − $1,983.53 = $678.07 more than the case",
+          "English market box movement: $222.46 − $221.80 = $0.66 down; $0.66 ÷ $222.46 = 0.30% down from November 23 to November 25, 2026",
+          "English market box vs September snapshot: $221.80 − $218.77 = $3.03 above it; $3.03 ÷ $218.77 = 1.39% above it",
+          "TCGplayer case vs shelf case: $2,911.85 − $1,983.53 = $928.32; $928.32 ÷ $2,911.85 = 31.88% below it",
+          "Official Japanese box: 24 × ¥220 = ¥5,280; ¥5,280 ÷ 159.26 = $33.15 at the November 26, 2026 ECB rate",
+          "Official Japanese box per pack: ¥220 ÷ 159.26 = $1.38 per pack; per card: ¥5,280 ÷ 144 = ¥36.67; ¥36.67 ÷ 159.26 = $0.23 per card",
+          "SNKRDUNK Japanese box, June 16, 2026: ¥11,399 ÷ 159.26 = $71.57; $71.57 − $33.15 = $38.42 above official; $71.57 ÷ $33.15 = 2.16 times official; per pack: ¥11,399 ÷ 24 = ¥474.96; ¥474.96 ÷ 159.26 = $2.98 per pack",
+          "SNKRDUNK Japanese box, September 29, 2026: ¥10,499 ÷ 159.26 = $65.92; $65.92 − $33.15 = $32.77 above official; $65.92 ÷ $33.15 = 1.99 times official; per pack: ¥10,499 ÷ 24 = ¥437.46; ¥437.46 ÷ 159.26 = $2.75 per pack",
+          "Bandar TCG Japanese box, November 7, 2026: ¥7,510 ÷ 159.26 = $47.16; $47.16 − $33.15 = $14.01 above official; $47.16 ÷ $33.15 = 1.42 times official; per pack: ¥7,510 ÷ 24 = ¥312.92; ¥312.92 ÷ 159.26 = $1.96 per pack",
+          "Fandom Tokyo Japanese box, September 2026: ¥14,000 ÷ 159.26 = $87.91 before tax; $87.91 − $33.15 = $54.76 above official; $87.91 ÷ $33.15 = 2.65 times official; per pack: ¥14,000 ÷ 24 = ¥583.33; ¥583.33 ÷ 159.26 = $3.66 per pack",
+          "Japanese box ask fall: ¥11,399 − ¥10,499 = ¥900; ¥900 ÷ ¥11,399 = 7.90% down from June 16 to September 29, 2026",
+          "Japanese box ask fall, September to November: ¥10,499 − ¥7,510 = ¥2,989; ¥2,989 ÷ ¥10,499 = 28.47% down",
+          "Japanese box range: $87.91 − $47.16 = $40.75 apart; $87.91 ÷ $47.16 = 1.86 times from low ask to high ask",
+          "Japanese top ten total: ¥722,540 + ¥248,740 + ¥114,840 + ¥101,140 + ¥16,690 + ¥8,090 + ¥4,340 + ¥3,880 + ¥3,070 + ¥2,960 = ¥1,226,290; ¥1,226,290 ÷ 159.26 = $7,699.92",
+          "Japanese top four total: ¥722,540 + ¥248,740 + ¥114,840 + ¥101,140 = ¥1,187,260; ¥1,187,260 ÷ ¥1,226,290 = 96.82% of the top ten",
+          "Japanese top card vs second: $4,536.86 − $1,561.85 = $2,975.01 above it; $4,536.86 ÷ $1,561.85 = 2.90 times it",
+          "Japanese top card vs English top card: $4,536.86 ÷ $999.43 = 4.54 times it",
+          "Japanese top ten vs English top ten: $7,699.92 ÷ $1,922.06 = 4.01 times it",
+          "Japanese top ten vs shelf case: $7,699.92 ÷ $1,983.53 = 3.88 times it; vs case-split box: $7,699.92 ÷ $165.29 = 46.58 boxes",
+          "Japanese top card vs shelf case: $4,536.86 ÷ $1,983.53 = 2.29 times it",
+          "English top ten vs case: $1,922.06 ÷ $1,983.53 = 96.90% of the case price",
+          "English top five total: $999.43 + $167.13 + $159.73 + $148.23 + $143.61 = $1,618.13; $1,618.13 ÷ $1,922.06 = 84.19% of the top ten",
+          "Cell Super Alternate Art vs case-split box: $999.43 ÷ $165.29 = 6.05 times one box; $999.43 ÷ $165.29 = 604.65% of one box",
+          "FoilKraken November 1, 2026: $84.91 ÷ $241.35 = 35.18% typical box against sealed price; $241.35 − $221.80 = $19.55; $19.55 ÷ $241.35 = 8.10% down to the November 25 market box",
+          "WorthRipping November 22, 2026: $125 ÷ $198.26 = 63.05% of the box in cards after selling costs; $198.26 − $125 = $73.26 lost per box on average",
+          "FB10 set value: $2,597 − $2,534 = $63 down; $63 ÷ $2,597 = 2.43% down from November 3 to November 25, 2026 (Nerdsnack daily tracker)",
+          "FB10 vs FB09 case: $1,983.53 ÷ $4,105.50 = 48.31% of the FB09 case; $4,105.50 − $1,983.53 = $2,121.97 below it",
+          "FB10 vs FB11 case: $2,170.05 − $1,983.53 = $186.52 below the FB11 case; $1,983.53 ÷ $2,170.05 = 91.40% of it",
+          "Japanese vs English cards per box: 144 ÷ 288 = 0.50, half the cards",
+          "English case-split pack vs official Japanese pack: $6.89 ÷ $1.38 = 4.99 times it"
+        ],
+        "paragraphs": [
+          "Nothing in the table above is a claim. Each figure is one division away from a listed price, and here is every division. The Japanese box has four dated asks, so it has four per-pack figures, and the English case division is clean because the case page prints its 12-box count. The yen figures convert at one rate, 159.26 yen per dollar, the ECB November 26, 2026 fixing, so any line can be re-run from the yen."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the Japanese box has four prices, not one",
+        "note": "Warehouse Note: the question we get most in chat about FB10 is whether the Japanese box is cheaper than our case, and the honest answer is that it is cheaper per pack and dearer per card, because a Japanese box holds half the cards. The second question is whether we can order one, and the answer is no: we stock no Japanese FB10 at all, so the market is the only route, and the market asks four different prices on four dates.",
+        "paragraphs": [
+          "The top guides do the spec comparison well. The ShonenTCG FB10 where-to-buy guide lays out the September TCGplayer snapshot, a $218.77 market box and $9.34 market pack, CoreTCG at $229.99 in store, the Fandom Tokyo Japanese box at ¥14,000 before tax and sold out, and Bandai's language policy in full. Our own FB10 best cards guide lays out the shelf, the case split, and the ranked ten. What none of them does is price the Japanese box across four dated asks on the same page as the English shelf case on the same date, after the repricing, and convert the Japanese top ten into dollars beside the English top ten. This page does, with two findings no spec table can offer. First, the Japanese box has no price, it has a range: $47.16 to $87.91 in dollar terms across four dated asks, and the range fell 28.47 percent between September and November. Second, the Japanese chase is four times the English chase in dollars: $7,699.92 against $1,922.06, with one card, the Vegito at $4,536.86, worth more than two whole English cases.",
+          "The spec tables also underplay one difference: both languages carry a digital code in every pack, but this guide could not verify from a Bandai source which region's digital account a Japanese code redeems on. Check that before paying for the code. The chase layer is the other gap: the English top five together are $1,618.13, which is 84.19 percent of the English top ten, while the Japanese top four alone are 96.82 percent of the Japanese top ten, so both markets are top-heavy and the Japanese one more so. The [best Japanese Dragon Ball Fusion World box guide](/blog/best-japanese-dragon-ball-fusion-world-booster-box-to-buy) and the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy) work the same split for other sets."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "The decision table is short. Find your row. The language row comes first: a player who buys the wrong language has bought the wrong product at a good price."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Player outside Asia",
+              "English case-split box at $165.29, or market box at $221.80",
+              "Playable language; 24 packs of 12 cards; case-split is $56.51 below the market box"
+            ],
+            [
+              "Collector, cheapest Japanese entry",
+              "Market Japanese box, low ask first at $47.16",
+              "No Japanese FB10 on this shelf; asks run $47.16 to $87.91; check the range before paying"
+            ],
+            [
+              "Opener, Japanese packs",
+              "Market Japanese box, low ask first",
+              "Official $33.15 is a Japan price, not a delivered price; per pack $1.96 at the low ask"
+            ],
+            [
+              "Sealed holder, English",
+              "English case at $1,983.53 only for twelve boxes at once",
+              "Printed 12 boxes at $165.29 a box; $928.32 below the TCGplayer case"
+            ],
+            [
+              "Opener chasing the Cell Super Alternate Art",
+              "The Cell single at $999.43",
+              "6.05 case-split boxes; opening for one card is a lottery with no published pull rates"
+            ],
+            [
+              "Anyone wanting one English box cheap",
+              "Market box at $221.80 to $222.46",
+              "No single English box on this shelf; the case is the only shelf route"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Japan versus international: one day apart, two different games",
+        "paragraphs": [
+          "FB10 follows the FB09 pattern: English released first, June 12, 2026, a day ahead of Japanese on June 13, 2026. That kills the usual reason to buy Japanese, which is early access: there was none to buy here, and the Japanese box costs more on the market than the official price anyway. The set is the same 123 types in both languages: five Leaders, 40 Commons, 35 Uncommons, 25 Rares, 15 Super Rares, and three Secret Rares, all three of them Vegito, Gohan, and Cell, plus parallel alt-art cards on top, including Super Alternate Art versions of all three Secret Rares. The difference is what the cards are for: English is the language of play outside Asia, and Japanese is the language of the Japanese market.",
+          "On legality, Bandai's official rules list exactly where each language can be used: the Japanese version in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand, and the English version in North America, Latin America, Europe, and Oceania. Vietnam is not on the Japanese list. A player outside those eight Asian regions who buys Japanese cards to compete has bought cards for the wrong region, so confirm legality with the event organizer before paying. The card text is the other half: a Japanese card is unreadable to a player who does not read Japanese, which matters at a table where a judge or opponent needs to read it, and not at all to a collector who wants the art sealed. The pack size is the third half: a Japanese box holds 144 cards and an English box holds 288, so cost per card is the honest comparison. The [FB08 Japanese vs English guide](/blog/fb08-japanese-vs-english-which-to-buy) runs the set before the last one the same way, and the [FB07 Japanese vs English guide](/blog/fb07-japanese-vs-english-which-to-buy) runs the set before that."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "note": "Warehouse Note: the mistake we see most with FB10 is a buyer quoting a Japanese box price from a listing that turns out to be one card, or from a box price in a different month. The FB07 and FB08 Japanese singles on our own shelf, $23.70 and $22.12, are single cards, and buyers have divided them as boxes before. With FB10 there is no single on the shelf to confuse, but the market asks still span $40.75, so check the date on any yen figure before you pay it.",
+        "paragraphs": [
+          "The expensive failure is buying a Japanese box for play in an English region. The cards are legal only in the eight Asian regions above, so a deck built from them cannot be played at an English-region event, and the box that looked cheap per pack becomes a box you cannot use. Confirm legality with your organizer before paying, not after. The second failure is paying the high ask without seeing the range: the same box asks $87.91 on Fandom Tokyo, sold out, and $47.16 on Bandar TCG, so the buyer who pays the first ask they find can overpay by $40.75 against the low dollar read. The third failure is opening an English box for profit: the market box was $221.80 on November 25, 2026, the typical opened box returns $84.91 against a $241.35 sealed price in FoilKraken's November 1, 2026 report, at 0.35 of it, and WorthRipping puts 90 of 100 boxes losing money, with a median box worth $58. Buy the Cell single instead of opening for it. The fourth failure is reseals and tampering on the English case, where the price is highest and the incentive is greatest; the checks are seal pattern, case consistency, and weight, laid out in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed). Sealed product should be stored properly from the day it arrives, per [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Cell Super Alternate Art, a guaranteed return, or a single Japanese box price: the Japanese box has four asks on four dates and no single market price, and no honest guide can collapse them into one number. It is also not for the buyer who wants a Japanese sealed box from this shelf today: the shelf carries no Japanese FB10 product at all, and this guide will not pretend otherwise. It is not for the buyer who wants twelve English boxes at a discount, because this case charges $1,983.53 at once, even though each box inside it sits $56.51 below the market box. It is not for the buyer who wants the Japanese top card at an English price, because the Vegito at $4,536.86 costs 4.54 times the English top card. This guide is for the buyer deciding between two languages of the same 123-card set, priced from one store and one market on one date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide language first: English to play outside Asia, Japanese to collect or open Japanese packs",
+          "Read the shelf before paying: the only FB10 product on it is the English sealed case at $1,983.53, $165.29 a box split, with no single English box and no Japanese FB10 listing at all",
+          "Compare box against box: case-split box $165.29 against the $221.80 market box of November 25, 2026, $56.51 below market, or $222.46 on the November 23 read, $57.17 below market",
+          "Price the Japanese box across sellers, not one ask: $47.16 to $87.91, with the low ask on Bandar TCG, November 7, 2026, and the high ask sold out",
+          "Convert yen at a dated rate: 159.26 yen per dollar, the ECB November 26, 2026 fixing, and re-run the division if the rate moves",
+          "Check the English market basis before acting: TCGplayer $221.80 is a November 25, 2026 figure and $222.46 is a November 23, 2026 figure, and both will have moved",
+          "Confirm tournament legality with your organizer before buying Japanese cards to play; Japanese cards are usable only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand",
+          "Buy the Cell single at $999.43 if it is the only card you want; opening for one card is a lottery with no published pull rates",
+          "Store sealed product properly from arrival, and check seals before opening anything expensive"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "This article settles the language question, which is always decided before the format question. Once the language is settled, the [FB10 best cards guide](/blog/fb10-best-cards) ranks the chase, the [FB11 best cards guide](/blog/fb11-best-cards) prices the next set, and the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case) prices the whole ladder beside it."
+        ]
+      }
+    ],
+    "slug": "fb10-japanese-vs-english-which-to-buy",
+    "takeaway": [
+      "FB10 in English costs $1,983.53 a case, or $165.29 a box split, and in Japanese it costs $33.15 at official retail and $47.16 to $87.91 on the market, because the shelf sells no Japanese FB10 product and no single English box. The market English box was $221.80 on November 25, 2026, so the case-split box sits $56.51 below it.",
+      "Buy English to play, buy the Japanese box at the low end of its range if you want to open Japanese packs, and buy the Cell single at $999.43 if it is the only card you want. The Japanese top ten totals $7,699.92, 4.01 times the English top ten, so the two languages are two different markets, not two prices for one product.",
+      "Companion guide: the [FB10 best cards guide](/blog/fb10-best-cards) ranks the chase, Cell at $999.43. The [FB11 Japanese versus English guide](/blog/fb11-japanese-vs-english-which-to-buy/) works the same split for Brightness of Hope, with the English case at $2,170.05."
     ]
   },
   "fb11-best-cards": {
@@ -28236,7 +28495,7 @@ export const POSTS: Record<string, BlogPost> = {
           "FB11 Japanese per pack: 240 yen / 159.07 yen per dollar = $1.51 per pack",
           "FB11 Japanese per card: 5,760 yen / 144 cards = 40.00 yen per card; 40.00 yen / 159.07 yen per dollar = $0.25 per card",
           "FB11 case in yen: $2,170.05 x 159.07 yen per dollar = 345,189.85 yen",
-          "FB11 split box in yen: $180.84 x 159.07 yen per dollar = 28,765.82 yen",
+          "FB11 split box in yen: $180.84 x 159.07 yen per dollar = 28,766.22 yen",
           "FB11 top 10 in yen: $1,027.25 x 159.07 yen per dollar = 163,404.66 yen",
           "FB11 top card in yen: $185.31 x 159.07 yen per dollar = 29,477.26 yen",
           "FB11 Japanese box vs English box: $180.84 / $36.21 = 4.99 times the Japanese box at retail",
@@ -28289,7 +28548,255 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [is FB09 worth buying guide](/blog/is-fb09-worth-buying/) runs the same verdict, and the [FB10 best cards guide](/blog/fb10-best-cards/) ranks the set before this one, top ten $1,922.06, with the Cell Super Alternate Art at $999.43.",
       "For the longer hold, the [FB09 investment guide](/blog/fb09-investment/) runs the same division on the set before this one, and the [FB08 investment guide](/blog/fb08-investment/) prices the set beside this one.",
       "For the set before this one, the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the ten best Saiyan's Pride cards, top ten $705.70, with the Broly Alternate Art at $104.79, and the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the set before that one.",
-      "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them."
+      "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them.",
+      "For the language split, the [FB11 Japanese versus English guide](/blog/fb11-japanese-vs-english-which-to-buy/) prices the same shelf case against the Japanese box, with the Japanese box at $47.14 to $87.92 on the market and no digital code card in either language."
+    ]
+  },
+  "fb11-japanese-vs-english-which-to-buy": {
+    "datePublished": "2026-11-26",
+    "faqs": [
+      {
+        "a": "The English market box at $182.38 as of November 25, 2026, if you want a single box, or the English case at $2,170.05 if you can take twelve boxes at $180.84 a box. English is the playable language outside Asia. There is no Japanese FB11 product on this shelf at any price, and Japanese cards are usable only in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand, so confirm legality with your organizer before buying Japanese to play.",
+        "q": "Which FB11 should I buy to play?"
+      },
+      {
+        "a": "Because the only FB11 product on the shelf is the sealed English case at $2,170.05 as of November 26, 2026. A Japanese sealed box has to be bought on the market, where asks as of November 26, 2026 run from 7,510 yen at Bandar TCG, or $47.14, to 80.40 euros on Cardmarket, or $87.92. The official Japanese box is 5,760 yen, or $36.15, which is a price you pay in Japan, not from outside it.",
+        "q": "Why is there no Japanese FB11 box on this shelf?"
+      },
+      {
+        "a": "Not for profit. The English market box is $182.38 as of November 25, 2026, the top card is the Son Goku FB11-001 Alternate Art at $185.31 on the November 23, 2026 read, and FoilKraken's November 1, 2026 report puts the typical opened box at $101.37 against a $179.88 sealed price, with only 23 percent of simulated boxes beating it. Open FB11 if you want the cards, and buy the Goku single at $185.31 if it is the only card you want, because the Super Alternate Art has no agreed market price at all.",
+        "q": "Is FB11 worth opening?"
+      }
+    ],
+    "h1": "FB11 Brightness of Hope: Japanese vs English",
+    "intro": [
+      "Short answer: buy English if you want to play FB11 outside Asia, because the shelf case splits to $180.84 a box and the market box is $182.38 as of November 25, 2026, while the Japanese box has no shelf price and costs $47.14 to $87.92 on the market. The official Japanese box is $36.15 at the November 25, 2026 rate, but that is a price you pay in Japan, not from outside it. Buy the single you want instead of opening boxes for it: the top card alone costs $185.31, more than one case-split box.",
+      "Brightness of Hope, set code FB11, is the eleventh Dragon Ball Fusion World booster, with 123 card types in 162 printings, five new Leaders, all carrying the Saiyan trait, and the Dragon Ball Legends collaboration. Japan released it on September 12, 2026, and English followed on October 16, 2026, five weeks later. A Japanese pack holds 6 cards at 240 yen, tax included, and an English pack holds 12 cards at $4.99. Bandai prints no packs-per-box figure, so the 24-pack box is the retailer-reported trade shape, and Bandai removed the digital code card from this set entirely, so neither language carries one."
+    ],
+    "metaDescription": "FB11 Brightness of Hope in both languages, priced Nov 26, 2026: English case $2,170.05, market box $182.38, Japanese box $47.14 to $87.92.",
+    "metaTitle": "FB11 Brightness of Hope: Japanese vs English",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer, by buyer",
+        "paragraphs": [
+          "A player who wants FB11 cards for play outside Asia buys English, and the only sealed English route on this shelf is the [FB11 English sealed case](/product/dragon-ball-super-fusion-world-fb11-brightness-of-hope-booster-box-sealed-case-e) at $2,170.05 as of November 26, 2026: a printed 12 boxes, 288 packs, 3,456 cards, $180.84 a box, $7.53 a pack, and $0.63 a card. One English box without a case means the market: the TCGplayer market box is $182.38 as of November 25, 2026, or $7.60 a pack, so the case box sits $1.54 below it, at 0.84 percent below market. There is no single English box on this shelf at any price. The [FB11 best cards guide](/blog/fb11-best-cards) ranks the chase the box holds, top ten $1,027.25 on the November 23, 2026 read.",
+          "A buyer who wants to open Japanese packs buys a Japanese sealed box on the market, because no Japanese FB11 product sits on this shelf at any price. The Japan-side asks are close together: Bandar TCG lists a sealed Japanese box at 7,510 yen, on a page last updated about November 5, 2026, or $47.14, and the lowest SNKRDUNK ask on September 29, 2026 was 7,899 yen, or $49.58. The Cardmarket Asia-region box is dearer, at 80.40 euros as of November 25, 2026, or $87.92. The official Japanese box is 5,760 yen, or $36.15 at the November 25, 2026 rate, a price you pay in Japan, not from outside it. The [FB09 Japanese vs English guide](/blog/fb09-japanese-vs-english-which-to-buy) prices the same split for the set before this one, where the case box sat $72.09 above the market box instead of below it."
+        ]
+      },
+      {
+        "h": "The money layer: four prices, four different products",
+        "paragraphs": [
+          "Start with the English case, because its arithmetic is complete: $2,170.05 for a printed 12 boxes divides to $180.84 a box, $7.53 a pack, and $0.63 a card. Against the official English box price of 24 packs at $4.99, or $119.76, the case box sits $61.08 above list, at 51.00 percent above it. Against the market, the case is no longer the dear route: the TCGplayer market case is $2,123.38 as of November 25, 2026, which splits to $176.95 a box, so the shelf case sits $46.67 above it, at 2.20 percent above it, while twelve single market boxes would cost $2,188.56, so the case saves $18.51 against them. The format method is in [sealed case versus booster box math](/blog/sealed-case-vs-booster-box-the-math), and buying from Japan is covered in [buying TCG from Japan, shipping, customs, and proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy).",
+          "The market English box is where the money keeps moving. It is $182.38 as of November 25, 2026, up $1.38 from the $181.00 read of November 22, 2026, at 0.76 percent up in three days. The presale price was $403.40 on October 1, 2026, and it closed at $175.08 on November 3, 2026, a 56.60 percent fall, and the launch median of $189.16 sits 4.03 percent above the $181.53 read of November 23, 2026. One oddity the market hides: a single market pack is $7.08 as of November 25, 2026, so 24 single packs cost $169.92, and the sealed box at $182.38 costs $12.46 more than the packs inside it. Buying the box is not the cheap route to packs right now.",
+          "The Japanese side is a range, not a price, and the range is wide. At the official rate the box is $36.15, at $1.51 a pack and $0.25 a card. The two Japan-side asks sit just above it: $47.14 at Bandar TCG and $49.58 at SNKRDUNK, at 1.30 and 1.37 times official, only 389 yen apart. The Cardmarket Asia-region box is a different market entirely at $87.92, at 2.43 times official and 1.77 times the SNKRDUNK ask, and TCGtalk puts Japanese boxes in the $80 to $90 range, which backs the Cardmarket figure. The full range runs $40.78 from low to high, so the buyer who pays the first ask they find can overpay by that much against the low ask. The [FB09 investment guide](/blog/fb09-investment) prices the English shelf set by set for the set before this one."
+        ],
+        "table": {
+          "head": [
+            "Route",
+            "Price",
+            "What it is",
+            "Per box / per pack"
+          ],
+          "rows": [
+            [
+              "English sealed case (shelf)",
+              "$2,170.05, Nov 26 2026",
+              "Printed 12 boxes, 24 packs of 12 cards",
+              "$180.84 a box; $7.53 a pack"
+            ],
+            [
+              "English box, TCGplayer market",
+              "$182.38, Nov 25 2026",
+              "Third-party market price, dated",
+              "$7.60 a pack; $1.54 above the case box"
+            ],
+            [
+              "English box, TCGplayer market case",
+              "$2,123.38, Nov 25 2026",
+              "Third-party market case, dated",
+              "$176.95 a box; shelf case is $46.67 above it"
+            ],
+            [
+              "English box, official list",
+              "$119.76",
+              "24 packs at $4.99",
+              "$4.99 a pack; case box is $61.08 above it"
+            ],
+            [
+              "Japanese box, SNKRDUNK",
+              "¥7,899, Sep 29 2026 ($49.58)",
+              "Japan-side market ask, dated",
+              "$2.07 a pack; 1.37 times official"
+            ],
+            [
+              "Japanese box, Bandar TCG",
+              "¥7,510, about Nov 5 2026 ($47.14)",
+              "Japan-side shop listing, dated",
+              "$1.96 a pack; 1.30 times official"
+            ],
+            [
+              "Japanese box, Cardmarket Asia-region",
+              "€80.40, Nov 25 2026 ($87.92)",
+              "Cardmarket Asia-region box, dated",
+              "$3.66 a pack; 2.43 times official"
+            ],
+            [
+              "Japanese box, official",
+              "¥5,760 ($36.15)",
+              "24 packs at ¥240, tax included",
+              "$1.51 a pack; $0.25 a card"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The math, every line shown",
+        "math": [
+          "English case per box: $2,170.05 ÷ 12 = $180.84 per box",
+          "English case per pack: $2,170.05 ÷ 288 = $7.53 per pack",
+          "English case per card: $2,170.05 ÷ 3,456 = $0.63 per card",
+          "English official box: 24 × $4.99 = $119.76",
+          "English case box vs official: $180.84 − $119.76 = $61.08 above list; $61.08 ÷ $119.76 = 51.00% above list",
+          "English market box per pack: $182.38 ÷ 24 = $7.60 per pack; per card: $182.38 ÷ 288 = $0.63 per card",
+          "English case box vs market box: $182.38 − $180.84 = $1.54 below market; $1.54 ÷ $182.38 = 0.84% below market",
+          "Twelve market English boxes vs case: 12 × $182.38 = $2,188.56; $2,188.56 − $2,170.05 = $18.51 saved on the case",
+          "English market box vs official: $182.38 − $119.76 = $62.62 above list; $62.62 ÷ $119.76 = 52.29% above list",
+          "English market case vs shelf case: $2,170.05 − $2,123.38 = $46.67 above it; $46.67 ÷ $2,123.38 = 2.20% above it",
+          "English market case per box: $2,123.38 ÷ 12 = $176.95 per box",
+          "English market pack vs case-split pack: $7.53 − $7.08 = $0.45 above the market pack; $0.45 ÷ $7.08 = 6.36% above it",
+          "Twenty-four market packs vs market box: 24 × $7.08 = $169.92; $182.38 − $169.92 = $12.46 above buying packs singly; $12.46 ÷ $169.92 = 7.33% above it",
+          "English market box movement: $182.38 − $181.00 = $1.38 up; $1.38 ÷ $181.00 = 0.76% up from November 22 to November 25, 2026",
+          "ECB cross rate: 174.22 ÷ 1.0935 = 159.32 yen per dollar, November 25, 2026",
+          "Official Japanese box: 24 × ¥240 = ¥5,760; ¥5,760 ÷ 159.32 = $36.15 at the November 25, 2026 ECB rate",
+          "Official Japanese box per pack: $36.15 ÷ 24 = $1.51 per pack; per card: $36.15 ÷ 144 = $0.25 per card",
+          "Official Japanese pack: ¥240 ÷ 159.32 = $1.51 per pack",
+          "SNKRDUNK Japanese box, September 29, 2026: ¥7,899 ÷ 159.32 = $49.58; $49.58 − $36.15 = $13.43 above official; $49.58 ÷ $36.15 = 1.37 times official; $49.58 ÷ 24 = $2.07 per pack",
+          "Bandar Japanese box: ¥7,510 ÷ 159.32 = $47.14; $47.14 − $36.15 = $10.99 above official; $47.14 ÷ $36.15 = 1.30 times official; $47.14 ÷ 24 = $1.96 per pack",
+          "Cardmarket Asia-region Japanese box: €80.40 × 1.0935 = $87.92; $87.92 − $36.15 = $51.77 above official; $87.92 ÷ $36.15 = 2.43 times official; $87.92 ÷ 24 = $3.66 per pack; $87.92 ÷ 144 = $0.61 per card",
+          "Japanese box range: ¥7,899 − ¥7,510 = ¥389; ¥389 ÷ ¥7,510 = 5.18% between the two Japan-side asks; $87.92 − $49.58 = $38.34 between the Cardmarket box and the SNKRDUNK ask; $87.92 ÷ $49.58 = 1.77 times it",
+          "Japanese box full range: $87.92 − $47.14 = $40.78 from low to high; $87.92 ÷ $47.14 = 1.87 times the low ask",
+          "English case box vs official Japanese box: $180.84 ÷ $36.15 = 5.00 times it",
+          "English case box vs SNKRDUNK Japanese box: $180.84 ÷ $49.58 = 3.65 times it; vs Bandar box: $180.84 ÷ $47.14 = 3.84 times it",
+          "English market box vs SNKRDUNK Japanese box: $182.38 ÷ $49.58 = 3.68 times it",
+          "Per-card English vs Japanese official: $0.63 ÷ $0.25 = 2.52 times it",
+          "Japanese vs English cards per box: 144 ÷ 288 = 0.50, half the cards",
+          "Top ten vs case: $1,027.25 ÷ $2,170.05 = 47.34% of the case price",
+          "Top ten in case-split boxes: $1,027.25 ÷ $180.84 = 5.68 boxes; in market boxes: $1,027.25 ÷ $182.38 = 5.63 boxes",
+          "Top card vs case-split box: $185.31 ÷ $180.84 = 102.47% of one box; vs case: $185.31 ÷ $2,170.05 = 8.54% of the case",
+          "Goku Super Alternate Art disputed: $1,690.00 − $185.31 = $1,504.69 above the top ranked card; $1,690.00 ÷ $185.31 = 9.12 times it; $1,690.00 ÷ $180.84 = 9.35 case-split boxes",
+          "Goku Super Alternate Art ask: $2,250.00 − $185.31 = $2,064.69; $2,250.00 ÷ $185.31 = 12.14 times the top ranked card",
+          "Japanese shop buy prices, September 25, 2026: ¥105,000 ÷ 159.32 = $659.05; ¥40,000 ÷ 159.32 = $251.07; ¥30,000 ÷ 159.32 = $188.30",
+          "Presale crash: $403.40 − $175.08 = $228.32; $228.32 ÷ $403.40 = 56.60% down from October 1 to November 3, 2026",
+          "Launch median to November 23: $189.16 − $181.53 = $7.63; $7.63 ÷ $189.16 = 4.03% down",
+          "FoilKraken typical opened box vs market box: $101.37 ÷ $182.38 = 55.58% of the sealed price; vs case box: $101.37 ÷ $180.84 = 56.06% of a case box; $180.84 − $101.37 = $79.47 below a case box",
+          "FoilKraken average opened box vs market box: $128.46 ÷ $182.38 = 70.44% of the sealed price",
+          "Three cases for one Super Alternate Art: 3 × $2,170.05 = $6,510.15 at our case price",
+          "FB11 vs FB10 English case: $2,170.05 − $1,983.53 = $186.52; $186.52 ÷ $1,983.53 = 9.40% above the FB10 case",
+          "FB11 vs FB09 English case: $4,105.50 − $2,170.05 = $1,935.45 below it; $2,170.05 ÷ $4,105.50 = 52.86% of the FB09 case",
+          "FB11 vs FB09 case box: $342.13 − $180.84 = $161.29; $342.13 ÷ $180.84 = 1.89 times it"
+        ],
+        "paragraphs": [
+          "Nothing in the table above is a claim. Each figure is one division away from a listed price, and here is every division. The Japanese market box has no single price because three dated asks price the same box three ways, and the case division is clean because the case page prints its 12-box count."
+        ]
+      },
+      {
+        "h": "What the other guides miss: the Japanese box has no single price",
+        "note": "From the Warehouse: the question we get most in chat about FB11 is whether the $36.15 Japanese box is the cheap way to open the set, and the honest answer is that $36.15 is a price in Japan, not a price you can click. The box you can actually buy from outside Japan asks $47.14 to $87.92, and the English box is the one you can play with. No other guide we found states that plainly, which is why buyers keep arriving expecting a $36.15 box and finding a market ask instead.",
+        "paragraphs": [
+          "The top guides do the spec comparison well. TCGtalk opened 144 packs across six English boxes and counted 2.8 premium hits per box, about 8 Super Rares per box, about 1 Secret Rare per box, and zero two-star Secret Rares in 192 packs across both languages. Nerdsnack ranks the chase cards, with the box at about $175 on October 24, 2026, and the three Super Alternate Arts at asks of $1,000 to $2,250 with no sales behind them. ShonenTCG lays out the set guide: 123 types, five Saiyan Leaders, $4.99 a pack. What none of them does is price the Japanese box a buyer outside Japan actually has to buy against the English case on the same shelf. This page does, with three findings no spec table can offer. First, the Japanese box has no price, it has a range: $47.14 to $87.92, and the range is $40.78 wide. Second, the English box costs more than the packs inside it: $182.38 against $169.92 for 24 single market packs. Third, the case-split box sits $1.54 below the market box, the opposite of FB09, where the case box sat $72.09 above it.",
+          "The second gap is the digital code, or rather its absence. Bandai removed the digital code card from FB11 entirely, and the official Japanese page lists 6 cards per pack with no digital-code line, where FB09 and FB10 printed one. A buyer who pays extra for a code is paying for something the set does not carry. The chase layer is the third gap: the top ten together are $1,027.25 on the November 23, 2026 read, and the top card, the Son Goku FB11-001 Alternate Art at $185.31, is 102.47 percent of one case-split box. The three Super Alternate Arts carry no agreed market price: the Goku is printed at $1,690 on RipWorth as of November 23, 2026, against a $2,250.00 lowest ask from October 25, 2026, and Japanese shops were buying them at 105,000 yen, 40,000 yen, and 30,000 yen on September 25, 2026, which are buy prices, not sale prices. The [best Japanese Fusion World box guide](/blog/best-fusion-world-booster-box-japanese) ranks the Japan-side asks set by set, and the [EB-01 Japanese versus English guide](/blog/eb-01-japanese-vs-english-which-to-buy) works the same split for One Piece."
+        ]
+      },
+      {
+        "h": "The verdict by buyer type",
+        "paragraphs": [
+          "The decision table is short. Find your row. The language row comes first: a player who buys the wrong language has bought the wrong product at a good price."
+        ],
+        "table": {
+          "head": [
+            "Buyer",
+            "Buy",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Player outside Asia",
+              "English market box at $182.38, or the case split at $180.84 a box",
+              "Playable language; 24 packs of 12 cards; case box is $1.54 below the market box"
+            ],
+            [
+              "Collector, cheapest Japanese entry",
+              "Market Japanese box at the low ask, $47.14",
+              "No Japanese FB11 on this shelf at any price; Japan-side asks run $47.14 to $49.58"
+            ],
+            [
+              "Opener, Japanese packs",
+              "Market Japanese box, low ask first",
+              "Asks run $47.14 to $87.92; check the range before paying"
+            ],
+            [
+              "Sealed holder, English",
+              "English case at $2,170.05 only for twelve boxes at once",
+              "Printed 12 boxes at $180.84 a box; $46.67 above the market case"
+            ],
+            [
+              "Opener chasing the Goku Super Alternate Art",
+              "The Goku single, disputed $1,690, ask $2,250",
+              "About three cases for one specific Super Alternate Art, $6,510.15 at our case price; no published pull rates"
+            ],
+            [
+              "Anyone wanting one English box cheap",
+              "Market box at $182.38",
+              "No single English box on this shelf; the case is the only shelf route"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "Japan versus international: five weeks apart, two different games",
+        "paragraphs": [
+          "FB11 is unusual in the Fusion World line because Japan released first, September 12, 2026, five weeks ahead of English on October 16, 2026. That is the normal order restored: FB09 had English first by a day. The Japanese box is 240 yen a pack against the English $4.99. The set is the same 123 types in both languages: five Leaders, 40 Commons, 35 Uncommons, 25 Rares, 15 Super Rares, and three Secret Rares, all three with Super Alternate Art versions, plus the Dragon Ball Legends collaboration running through it. The difference is what the cards are for: English is the language of play outside Asia, and Japanese is the language of the Japanese market. A Japanese box holds 144 cards and an English box holds 288, so cost per card is the honest comparison: $0.25 at official Japanese rates against $0.63 for the English case-split card.",
+          "On legality, Bandai's official rules list exactly where each language can be used: the Japanese version in Japan, Hong Kong S.A.R., Taiwan, Singapore, Malaysia, Indonesia, Philippines, and Thailand, and the English version in North America, Latin America, Europe, and Oceania. Mixing both languages in one deck is allowed only in Taiwan and Thailand, so a player outside those eight Asian regions who buys Japanese cards to compete has bought the wrong product. Confirm legality with the event organizer before paying. A Japanese card is unreadable to a player who does not read Japanese, which matters at a table where a judge or opponent needs to read it, and not at all to a collector who wants the art sealed. Bandai's banned list, current as of October 20, 2026, bans three cards and restricts five more, so check it before building a deck in either language. The next set is already dated: FB12 Reach the God releases in Japan on December 12, 2026, and in English on December 18, 2026. The [FB08 Japanese vs English guide](/blog/fb08-japanese-vs-english-which-to-buy) prices Saiyan's Pride the same way, and the [FB07 Japanese vs English guide](/blog/fb07-japanese-vs-english-which-to-buy) does it for Wish for Shenron."
+        ]
+      },
+      {
+        "h": "Failure modes and recoveries",
+        "note": "From the Warehouse: what we see in chat is buyers asking for the Japanese box as if one price exists, then paying the first ask they find. The first ask is usually the dearest one, the Cardmarket Asia-region box at $87.92, and the low Japan-side ask at $47.14 sits one more search away. The $40.78 gap is the whole lesson of this guide, and it is the gap no spec table shows.",
+        "paragraphs": [
+          "The expensive failure is paying the Cardmarket ask of $87.92 without seeing the range: the same box asks $47.14 at Bandar TCG, so the buyer who pays the first ask they find can overpay by $40.78 against the low dollar read. Price the Japanese box across sellers, not one ask. The second failure is opening an English box for profit: the market box is $182.38 as of November 25, 2026, the typical opened box returns $101.37 against a $179.88 sealed price in FoilKraken's November 1, 2026 report, at 55.58 percent of it, and only 23 percent of simulated boxes beat the sealed price. Buy the Goku single at $185.31 instead of opening for it. The third failure is buying FB11 for the digital code: the code is gone from this set in both languages, so a listing that prices one in is pricing something that does not exist. The fourth failure is buying Japanese cards to play outside Asia, where they are not legal at official events.",
+          "The fifth failure is treating a Super Alternate Art ask as a market price. The Goku Super Alternate Art is printed at $1,690 on RipWorth and asked at $2,250.00 on TCGplayer, and neither number has a verified sale behind it as of November 23, 2026, while Japanese shops were buying it at 105,000 yen on September 25, 2026, which is a buy price, not a sale price. The sixth failure is reseals and tampering on the English case, where the price is highest and the incentive is greatest; the checks are seal pattern, case consistency, and weight, laid out in [how to tell if a booster box is resealed](/blog/how-to-tell-if-a-booster-box-is-resealed). Sealed product should be stored properly from the day it arrives, per [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes)."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants a guaranteed Goku Super Alternate Art, a guaranteed return, or a single Japanese box price: the Japanese box has three asks on three dates and no single market price, and no honest guide can collapse them into one number. It is also not for the buyer who wants a Japanese sealed box from this shelf today: the shelf carries no Japanese FB11 product at all, and this guide will not pretend otherwise. It is not for the buyer who wants twelve English boxes at a discount, because the case saves $18.51 against twelve market boxes and still costs $46.67 above the market case. This guide is for the buyer deciding between two languages of the same 123-card set, priced from one store and one market on one date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide language first: English to play outside Asia, Japanese to collect or open Japanese packs",
+          "Check the Japanese box across sellers, not one ask: $47.14 to $87.92, with the low ask at Bandar TCG",
+          "Compare box against box: English case box $180.84 against the $182.38 market box, $1.54 below market",
+          "Do not pay for a digital code: FB11 carries none in either language",
+          "Price the Japanese box at official rates first: $36.15 is a price in Japan, not a price you can click",
+          "Check the English market basis before acting: TCGplayer $182.38 is a November 25, 2026 figure and it will have moved",
+          "Confirm tournament legality with your organizer before buying Japanese cards to play",
+          "Buy the Goku single at $185.31 if it is the only card you want; opening for one card is a lottery with no published pull rates",
+          "Store sealed product properly from arrival, and check seals before opening anything expensive"
+        ],
+        "h": "The buying checklist",
+        "paragraphs": [
+          "For the set choice, return to the Japanese box guides; for the format choice, the case-versus-box math settles it for the English shelf. This article settles the language question, which is always decided before the format question. Once the language is settled, the [FB09 best cards guide](/blog/fb09-best-cards) ranks the chase in the set before this one, and [is FB09 worth buying](/blog/is-fb09-worth-buying) gives the dated verdict."
+        ]
+      }
+    ],
+    "slug": "fb11-japanese-vs-english-which-to-buy",
+    "takeaway": [
+      "FB11 in English costs $2,170.05 a case, or $180.84 a box, and in Japanese it costs $47.14 to $87.92 a box on the market, because the shelf sells no Japanese FB11 at any price and no single English box. The market English box is $182.38 as of November 25, 2026, so the case box sits $1.54 below it. The official Japanese box is $36.15, a price in Japan, not a price you can click from outside it.",
+      "Buy English to play, buy the Japanese box at the low end of its range if you want to open Japanese packs, and buy the Goku single at $185.31 if it is the only card you want. The [FB11 best cards guide](/blog/fb11-best-cards) ranks the chase, with the top ten at $1,027.25 on the November 23, 2026 read.",
+      "Buy the language first, then the format. The [FB10 Japanese versus English guide](/blog/fb10-japanese-vs-english-which-to-buy/) works the same split for Cross Force, with the English case at $1,983.53."
     ]
   },
   "fusion-world-booster-box-japanese": {
