@@ -1456,7 +1456,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the case math behind the box pick, the [Disney Lorcana sealed case price index](/blog/disney-lorcana-sealed-case-price/) divides all fifteen cases, including the Japanese First Chapter case at $37.60 a box.",
       "New this cycle: the [best Disney Lorcana booster box guide](/blog/best-disney-lorcana-booster-box/) ranks all fourteen boxes by per-box price from the same shelf — Reign of Jafar $98.48, Whispers $216.54, Hyperia City $153.00 — with the expected-value crown re-run at our case-derived entry price.",
       "For every box priced from its case, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fifteen cases to the box, $98.48 to $371.32.",
-      "For the dearest box on the board, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the top ten at $2,822.34 and the Elsa alone at $942.98."
+      "For the dearest box on the board, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the top ten at $2,822.34 and the Elsa alone at $942.98.",
+      "For the set behind the $117.81 Inklands case box, the [Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks the ten Enchanted rares, with the Mickey at $212.65 and the top ten at $906.10 on November 27, 2026."
     ]
   },
   "best-disney-lorcana-booster-pack": {
@@ -17422,7 +17423,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Six English cases divide below the $143.76 official box price, led by Set 8 at $98.48 a box, and eight divide above it, led by Set 1 at $371.32. The expected Enchanted return is under one card per case, so buy the case for volume, not for the chase.",
       "For the ranking, the [best Lorcana sealed case guide](/blog/best-disney-lorcana-sealed-case-to-buy/) picks the buy by job, and the [Lorcana sealed case price guide](/blog/disney-lorcana-sealed-case-price/) prices every case against the market. For the other game's cases, the [Dragon Ball Fusion World sealed case guide](/blog/dragon-ball-fusion-world-sealed-case/) divides all 14 Fusion World cases the same way. Re-run the division on the day you pay.",
       "For the per-box price of every case, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fifteen cases to the box, $98.48 to $371.32.",
-      "For the set behind the dearest case on the shelf, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the Elsa at $942.98 and the top ten at $2,822.34 on November 26, 2026."
+      "For the set behind the dearest case on the shelf, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the Elsa at $942.98 and the top ten at $2,822.34 on November 26, 2026.",
+      "For the set behind the $428.40 Floodborn case, the [Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) ranks the ten Enchanted rares, with the Cinderella at $260.68 and the top ten at $905.87 on November 27, 2026."
     ]
   },
   "disney-lorcana-sealed-case-price": {
@@ -47526,7 +47528,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Sets 1 through 8 are out of Core Constructed, so buy those cases to collect or open, not to play. Sets 9 through 14 are the Core-legal sets.",
       "The [SV1V Violet ex investment guide](/blog/sv1v-investment/) runs the same case-divided math on the Pokemon side of the shelf.",
       "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the Fabled gap is the one that moves fastest. How to buy Lorcana online, step by step, is covered in the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/), where the fifteen-case shelf divides from $98.48 to $371.32 a box.",
-      "For the set that started it all, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the Elsa at $942.98 against a $371.32 case box."
+      "For the set that started it all, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the Elsa at $942.98 against a $371.32 case box.",
+      "For the set behind the $107.10 case box, the [Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) ranks the ten Enchanted rares, with the Cinderella at $260.68 and the top ten at $905.87 on November 27, 2026."
     ]
   },
   "lorcana-first-chapter-best-cards": {
@@ -47749,7 +47752,465 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with the First Chapter at $371.32 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
       "For the Japanese edition, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) covers the January 25, 2025 release, 204 cards, 6 cards a pack at 330 yen, and the case at $31.96 a box. For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
       "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "Next in the series, the [Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) ranks set 2 the same way, with the Cinderella at $260.68 and the top ten at $905.87 on November 27, 2026.",
+      "Two sets on, the [Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks set 3 the same way, with the Mickey at $212.65 and the top ten at $906.10 on November 27, 2026."
+    ]
+  },
+  "lorcana-into-the-inklands-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Enchanted Mickey Mouse, Trumpeter, 220/204, at $212.65 on TCGplayer market checked November 27, 2026, from TCGPursuit's set read. TurnZero's October 22, 2026 read puts the same card at $205.38, TickerMint's November 25 read puts it at $212.65, its all-time high, and Hoshino's November 26 sold-price read puts it at $195, so the reads agree within $17.65. The same Mickey is $0.81 as a Legendary and $24.84 as a foil Legendary, so check the collector number before you pay a chase price.",
+        "q": "What is the most valuable Into the Inklands card?"
+      },
+      {
+        "a": "Because two different Ursulas trade under one name. The standard Enchanted Ursula, Deceiver of All, 212/204, is $111.03 on TCGplayer market checked November 27, 2026, flat over thirty days, and TickerMint, Lorebinder, and TCGPursuit all print $111.03. The first print run misprinted the classification as Storyborn instead of Dreamborn, and error copies trade apart from the standard card, with one seller's sheet asking $370 for an 8.5 and $420 for a Mint 9 error copy. WorthRipping's $368 sits in that error range, not the standard range, so we do not adopt it as the standard price. Read the classification line before you pay.",
+        "q": "Why do some sites list the Ursula at $368?"
+      },
+      {
+        "a": "Buy the English case if the job is four Inklands boxes sealed: $471.24, four boxes at $117.81 a box, $4.91 a pack, $0.41 a card, $25.95 below the MSRP box per box, and $28.40 below four FASE market boxes at $124.91 each. Buy the market box if the job is one box: $124.91 on the FASE read, near $121 on a November 9 video read. Do not use the WorthRipping read of $95.73: it disagrees with the FASE read by $29.18 a box. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Inklands English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Into the Inklands Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Into the Inklands is the Enchanted Mickey Mouse, Trumpeter, 220/204, at $212.65 on TCGplayer market checked November 27, 2026, and the ten best cards are all Enchanted rares adding to $906.10. Our shelf, November 27, 2026, carries the English sealed case at $471.24, four boxes at $117.81 a box, $4.91 a pack, and $0.41 a card, $25.95 below the MSRP box per box, with no single box and no Japanese case on the shelf. Buy the case to hold the third set sealed, buy the single to own the Mickey.",
+      "Who this is for: collectors ranking the Inklands chase, buyers weighing a four-box case against a market box, and players who want the Location cards. Who it is not for: anyone chasing one named Enchanted by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Into the Inklands' 10 best cards on TCGplayer market, Nov 27, 2026: the $212.65 Enchanted Mickey, the $117.81 case box, and the $124.91 market box.",
+    "metaTitle": "Into the Inklands Best Cards, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Mickey, nine more, and a case below retail",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit's Into the Inklands read. The ten add to $906.10, and the top three are $425.64 of it, 46.97%. Mickey Mouse, Trumpeter (Enchanted) 220/204 is $212.65, Ursula, Deceiver of All (Enchanted) 212/204 is $111.03, and Robin Hood, Champion of Sherwood (Enchanted) 221/204 is $101.96. Behind them, Scrooge McDuck, Richest Duck in the World 218/204 at $89.98, The Sorcerer's Hat 210/204 at $73.51, and Maleficent, Mistress of All Evil 209/204 at $69.05. Then And Then Along Came Zeus 222/204 at $68.25, Jafar, Striking Illusionist 208/204 at $64.29, Captain Hook, Master Swordsman 214/204 at $60.64, and Morph, Space Goo 211/204 at $54.74.",
+          "One card is nearly a quarter of the list: the Mickey is $212.65, 23.47% of the top ten, and 1.92 times the second card. The top two are $323.68, 35.72%, and the bottom five are $316.97, 34.98%. TurnZero's October 22, 2026 read agrees: the Mickey at $205.38, the Ursula at $103.06, and the Robin Hood at $107.49, so the Mickey rose $7.27, up 3.54%, and the Ursula rose $7.97, up 7.73%, in five weeks, while the Robin Hood fell $5.53. The eight Enchanteds outside the ten are Chernabog, Kida, Pride Lands, Kuzco's Palace, Peter Pan, Gramma Tala, RLS Legacy, and Belle's House, and on October 3, 2026 a top ten had Chernabog at $62 and Kida at $61, both since fallen below the tenth card.",
+          "A collector chasing the Mickey buys the single: the card is 1.81 case boxes and 0.45 of a whole case. A collector who wants the third set sealed buys the case at $117.81 a box, $25.95 below the MSRP box. The companion [Lorcana Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) runs the same ranking on set 2."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Into the Inklands English case per box: $471.24 / 4 boxes = $117.81 per box",
+          "Into the Inklands English case per pack: $471.24 / 96 packs = $4.91 per pack",
+          "Into the Inklands English case per card: $471.24 / 1,152 cards = $0.41 per card",
+          "Into the Inklands English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Into the Inklands English case box vs MSRP box: $143.76 - $117.81 = $25.95 below MSRP per box",
+          "Into the Inklands English case box vs MSRP box: $117.81 / $143.76 = 0.82x",
+          "Into the Inklands FASE market box per pack: $124.91 / 24 packs = $5.20 per pack",
+          "Into the Inklands FASE market box vs case box: $124.91 - $117.81 = $7.10 per box",
+          "Into the Inklands FASE market box vs case box: $124.91 / $117.81 = 1.06x",
+          "Into the Inklands four FASE market boxes: 4 x $124.91 = $499.64; $499.64 - $471.24 = $28.40 saved",
+          "Into the Inklands FASE market box vs MSRP box: $124.91 / $143.76 = 0.87x; $143.76 - $124.91 = $18.85 below MSRP",
+          "Into the Inklands FASE market case vs our case: $482.49 - $471.24 = $11.25; $11.25 is 2.33% of $482.49",
+          "Into the Inklands WorthRipping market box per pack: $95.73 / 24 packs = $3.99 per pack",
+          "Into the Inklands WorthRipping market box vs case box: $95.73 - $117.81 = -$22.08 per box",
+          "Into the Inklands WorthRipping market box vs FASE box: $124.91 - $95.73 = $29.18 apart",
+          "Into the Inklands four WorthRipping market boxes: 4 x $95.73 = $382.92; $471.24 - $382.92 = $88.32 above four market boxes",
+          "Into the Inklands WorthRipping cards inside vs its box: $42 / $95.73 = 43.87% of the box; $95.73 - $42 = $53.73 lost per box",
+          "Into the Inklands Cardheist cheapest box per pack: $149.99 / 24 packs = $6.25 per pack",
+          "Into the Inklands Cardheist cheapest box vs case box: $149.99 - $117.81 = $32.18 per box",
+          "Into the Inklands Illumineer's Trove per pack: $40.29 / 8 packs = $5.04 per pack",
+          "Into the Inklands Illumineer's Trove per pack vs market box per pack: $5.04 / $3.99 = 1.26x",
+          "Into the Inklands top 10 total: $212.65 + $111.03 + $101.96 + $89.98 + $73.51 + $69.05 + $68.25 + $64.29 + $60.64 + $54.74 = $906.10",
+          "Into the Inklands top 2 total: $212.65 + $111.03 = $323.68; $323.68 / $906.10 = 35.72% of the top 10",
+          "Into the Inklands top 3 total: $212.65 + $111.03 + $101.96 = $425.64; $425.64 / $906.10 = 46.97% of the top 10",
+          "Into the Inklands Mickey Mouse share: $212.65 / $906.10 = 23.47% of the top 10",
+          "Into the Inklands bottom 8 total: $906.10 - $323.68 = $582.42; $582.42 / $906.10 = 64.28% of the top 10",
+          "Into the Inklands bottom 5 total: $69.05 + $68.25 + $64.29 + $60.64 + $54.74 = $316.97; $316.97 / $906.10 = 34.98% of the top 10",
+          "Into the Inklands second rung total: $89.98 + $73.51 + $69.05 = $232.54; $232.54 / $906.10 = 25.66% of the top 10",
+          "Into the Inklands third rung total: $68.25 + $64.29 + $60.64 + $54.74 = $247.92; $247.92 / $906.10 = 27.36% of the top 10",
+          "Into the Inklands second rung spread: $89.98 - $69.05 = $20.93",
+          "Into the Inklands Mickey Mouse vs second card: $212.65 / $111.03 = 1.92x",
+          "Into the Inklands Mickey Mouse vs tenth card: $212.65 / $54.74 = 3.88x",
+          "Into the Inklands Mickey Mouse vs second plus third: $111.03 + $101.96 = $212.99; $212.99 - $212.65 = $0.34 apart; $212.65 / $212.99 = 1.00x",
+          "Into the Inklands Mickey Mouse against the case: $212.65 / $117.81 = 1.81 case boxes; $212.65 / $471.24 = 0.45 cases",
+          "Into the Inklands Mickey Mouse against the MSRP box: $212.65 / $143.76 = 1.48x",
+          "Into the Inklands Mickey Mouse against the FASE box: $212.65 / $124.91 = 1.70x",
+          "Into the Inklands top 10 against the case: $906.10 / $471.24 = 1.92 cases; $906.10 / $117.81 = 7.69 case boxes",
+          "Into the Inklands top 10 against the MSRP box: $906.10 / $143.76 = 6.30x",
+          "Into the Inklands top 10 against the cheapest English case: $906.10 / $393.93 = 2.30 cases",
+          "Into the Inklands cheapest English case per box: $393.93 / 4 boxes = $98.48 per box",
+          "Into the Inklands case box vs cheapest case box: $117.81 - $98.48 = $19.33 per box",
+          "Into the Inklands Mickey Mouse Oct 22 to Nov 26: $212.65 - $205.38 = $7.27; $7.27 is 3.54% of $205.38",
+          "Into the Inklands Ursula Oct 22 to Nov 26: $111.03 - $103.06 = $7.97; $7.97 is 7.73% of $103.06",
+          "Into the Inklands Robin Hood Oct 22 to Nov 26: $101.96 - $107.49 = -$5.53; -$5.53 is -5.14% of $107.49",
+          "Into the Inklands Mickey Mouse Enchanted vs Legendary: $212.65 / $0.81 = 262.53x; $212.65 / $24.84 = 8.56x against the foil Legendary",
+          "Into the Inklands Mickey Mouse Enchanted overpay vs foil Legendary: $212.65 - $24.84 = $187.81",
+          "Into the Inklands Mickey Mouse read spread: $212.65 - $195.00 = $17.65",
+          "Into the Inklands Ursula standard vs WorthRipping read: $368 - $111.03 = $256.97; $368 / $111.03 = 3.31x",
+          "Into the Inklands Ursula high to now: $111.03 - $451.53 = -$340.50; -$340.50 is -75.41% of $451.53",
+          "Into the Inklands Ursula now vs March 2026 low: $111.03 / $58.10 = 1.91x",
+          "Into the Inklands Mickey Mouse high vs low: $212.65 / $43.96 = 4.84x",
+          "Into the Inklands Mickey Mouse PSA 10 vs raw: $1,213.40 / $212.65 = 5.71x",
+          "Into the Inklands Ursula PSA 10 vs raw: $303.50 / $111.03 = 2.73x",
+          "Into the Inklands specific Enchanted chase: 18 Enchanted x 105 packs = 1,890 packs per specific Enchanted on average; 1,890 packs x $4.91 = $9,279.90",
+          "Into the Inklands Enchanted expectation per case: 96 packs / 105 packs per Enchanted = 0.91 Enchanted per case on average",
+          "Into the Inklands top 10 against the First Chapter top 10: $2,822.34 / $906.10 = 3.11x; $2,822.34 - $906.10 = $1,916.24 apart",
+          "Into the Inklands Mickey Mouse against the First Chapter Elsa: $942.98 / $212.65 = 4.43x; $942.98 - $212.65 = $730.33 apart",
+          "Into the Inklands top 10 against the Rise of the Floodborn top 10: $906.10 - $905.87 = $0.23; $906.10 / $905.87 = 1.00x",
+          "Into the Inklands Mickey Mouse against the Floodborn Cinderella: $212.65 / $260.68 = 81.58% of it",
+          "Into the Inklands cost to collect one of each: $906.10 / $1,324.66 = 68.40% of the set",
+          "Into the Inklands case vs Rise of the Floodborn case: $471.24 - $428.40 = $42.84; $471.24 / $428.40 = 1.10x"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $471.24, or $117.81 a box, $4.91 a pack, and $0.41 a card. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $25.95 below MSRP, at 0.82 times the MSRP box. This is one of six English cases on the shelf that divide below the official box price, the fifth cheapest per-box case.",
+          "The open market charges more than our case box, on the read we trust. The FASE sealed tracker, read November 20, 2026, puts the market box at $124.91, $7.10 more per box than our case box, at 1.06 times it, so four cost $499.64 and the case saves $28.40 against them, and the FASE market case is $482.49, $11.25 above our case. A November 9, 2026 video read puts TCGplayer boxes near $121, and InkSight's November 10 snapshot puts the market box at $114.80. A third reading disagrees sharply: WorthRipping prints $95.73 for November 26, $22.08 below our case box. We do not adopt it; no other source shows a box that cheap, and its own card prices for this set disagree with TCGplayer by more than three times on the Ursula, covered below.",
+          "The expected value inside a box is thinner than the box price on every read. WorthRipping's simulation, prices from November 26, 2026, puts $42 of cards inside a box after selling costs, $53.73 below its own $95.73 box, and 83 of 100 boxes lose money. The Illumineer's Trove is worse per pack: $40.29 for eight packs, $5.04 a pack, with $14 of cards inside after costs and 93 of 100 losing money. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on Into the Inklands, what each costs per pack, what it is for, and where it fails.",
+          "The case row deserves a second look: it is the only row that runs through our shelf, $7.10 below the FASE market box and $32.18 below the cheapest in-stock retail box we found. The WorthRipping row is the only one that undercuts it, by $22.08, and it is the read we do not trust. The [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$471.24",
+              "$117.81 a box, $4.91 a pack",
+              "Holding the third set sealed; the only Inklands sealed product here",
+              "Four boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "FASE market box",
+              "$124.91",
+              "$5.20",
+              "One English box at a time",
+              "$7.10 more per box than our case box"
+            ],
+            [
+              "WorthRipping market box",
+              "$95.73",
+              "$3.99",
+              "One English box at a time, lowest read",
+              "$22.08 below our case box; disagrees with FASE by $29.18; not adopted"
+            ],
+            [
+              "The single (Mickey Enchanted)",
+              "$212.65",
+              "n/a",
+              "Owning the chase card",
+              "1.81 case boxes; grading and condition risk"
+            ],
+            [
+              "Cardheist cheapest box",
+              "$149.99",
+              "$6.25",
+              "One English box at a time, retail listing",
+              "$32.18 more per box than our case box"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $25.95 below it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the Ursula split, and the stale prices",
+        "note": "From the Warehouse: the question we get most in chat about Into the Inklands is whether the Ursula at $368 is the same card as the Ursula at $111.03. It is not the same price for the same card, and the gap is the whole story of this set. The standard Enchanted Ursula is $111.03 on the November 27 read, flat over thirty days, and the $368 figure sits near the asking prices seen for the Storyborn error printing, the first run that printed the wrong classification. We do not know whether the error printing holds its premium, and anyone who says they do is guessing: the standard card was $451.53 in March 2024 and $58.10 in March 2026, so it has already fallen 75.41% from its high and climbed 1.91 times from its low.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. Card Gamer ranks ten cards on prices from the 2024 launch window, with the Ursula at $440 and the Jafar at $215, and the card-centering guide prices its ten from Midpoint data dated October 28, 2026. WorthRipping, the freshest of the three, still prices its top cards from a different line: its Ursula is $368, its Kida is $217, and its Jafar is $206, against TCGplayer market prices of $111.03, below $54.74, and $64.29. TCGPursuit and TurnZero carry fresh prices but no shelf, no case division, and no verdict.",
+          "The gap this page owns is threefold: the shelf, the dated read, and the case division. The shelf price is ours, stamped November 27, 2026: the English case at $471.24, with no single box and no Japanese case on the shelf. The dated read is TCGPursuit's November 26, 2026 TCGplayer snapshot, all ten printings, $906.10 in total, cross-checked against TurnZero's October 22 read, TickerMint's November 25 read, which puts the Mickey at $212.65 and the Ursula at $111.03, and Hoshino's November 26 sold-price read. No other best-cards list for this set carries all three.",
+          "The second gap is rotation. Into the Inklands left Core Constructed with Fabled on September 5, 2025, and Core now runs Sets 9 to 14, so the set's value is collector value now. The third gap is the Enchanted pool itself: this is the first set where Enchanted cards are not characters only, with four Location Enchanteds, an item in The Sorcerer's Hat, and a song in And Then Along Came Zeus. The fourth gap is the printing check: the Mickey is three prices in one set, $0.81 as a Legendary, $24.84 as a foil Legendary, and $212.65 as an Enchanted."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Mickey is $212.65, 23.47% of the top ten on its own, and 1.92 times the second card, Ursula, Deceiver of All, at $111.03. Together they are $323.68, 35.72% of the list, and with the Robin Hood the top three are $425.64, 46.97%. The Mickey is $0.34 less than the second and third cards combined, $212.99. The Mickey moved $7.27, from $205.38 on October 22 to $212.65 on November 26, up 3.54%, and TickerMint calls $212.65 its all-time high, set November 23, 2026.",
+          "The second rung is the Scrooge, the Sorcerer's Hat, and the Maleficent: Scrooge McDuck, Richest Duck in the World $89.98, The Sorcerer's Hat $73.51, and Maleficent, Mistress of All Evil $69.05, together $232.54, 25.66% of the ten. The third rung is the Zeus, the Jafar, the Captain Hook, and the Morph: And Then Along Came Zeus $68.25, Jafar, Striking Illusionist $64.29, Captain Hook, Master Swordsman $60.64, and Morph, Space Goo $54.74, together $247.92, 27.36% of the ten. The third rung is $15.38 above the second rung, so the middle of the list is a flat field, not a ladder.",
+          "Below the top ten sits the rest of the set. The regular printing of the set's top card is $0.81 as a Legendary on TurnZero's October 22, 2026 read, and its foil is $24.84, so the Enchanted is 262.53 times the plain Legendary and 8.56 times the foil. The set costs $1,324.66 to collect one of each of its 226 cards at TCGplayer market prices, and the top ten is $906.10 of that, 68.40%. The [Lorcana Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) shows the same shape in set 2, where the top ten totals $905.87."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 105 packs, one in 1,890 for the Mickey",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate. WorthRipping's pull-rate table, from DigitalTQ counted openings checked October 26, 2026, puts an Enchanted at one in 105 packs, about one in 4.4 boxes, so a case holds 0.91 Enchanted on average. The specific Mickey is rarer still: eighteen Enchanteds share the one-in-105 slot, so one specific Enchanted averages 1,890 packs, $9,279.90 of packs at our $4.91 case pack price.",
+          "The second risk is the printing, not the card. The Mickey is three prices in one set: $0.81 as a Legendary, $24.84 as a foil Legendary, and $212.65 as an Enchanted, so the Enchanted is 262.53 times the plain Legendary and 8.56 times the foil. A buyer who pays an Enchanted price for a foil Legendary has overpaid by $187.81. Check the collector number before you pay: the Enchanted is 220/204, the Legendary is 182/204, and the foil slot is the only place an Enchanted can appear. The Ursula carries a second printing trap: the first run printed Storyborn where the card should read Dreamborn, so read the classification line, not just the name.",
+          "The third risk is the reseal. A box that trades at $124.91 on one read and $95.73 on another is exactly what resealers monetize, so check the seal, wrap tension, and pack order before opening, as [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows. The fourth risk is the price itself: the Ursula fell from $451.53 in March 2024 to $58.10 in March 2026, and the November 27 top ten is a snapshot, not a floor. The sealed-hold plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/), and the storage rules are in [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, Locations, and two formats",
+        "paragraphs": [
+          "Into the Inklands is Disney Lorcana's third set, set 3 of 14 on the shelf, with Set 14 Hyperia City the newest. It reached game stores on February 23, 2024 and mass retail on March 8, 2024, per Disney Lorcana's official set page, at $5.99 a pack and $143.76 a box. The set holds 204 numbered cards, 76 Commons, 54 Uncommons, 48 Rares, 19 Super Rares, and 12 Legendaries, plus 18 Enchanted rares numbered 205 to 222, for 227 cards in total, and the Dalmatian Puppy, Tail Wagger is printed five times, as 4a to 4e, allowing up to 99 copies in a deck. A pack holds 12 cards, 6 Commons, 3 Uncommons, 2 Rare or higher, and 1 foil, and a box holds 24 packs.",
+          "The set is the Locations set. Locations are the new card type: 18 of them, a place that stays in play with its own willpower and lore. Twenty-nine of the set's regular cards mention locations, and the Enchanted pool follows: four Location Enchanteds, plus an item, The Sorcerer's Hat, and a song, And Then Along Came Zeus. The set left Core Constructed with Fabled on September 5, 2025, when Sets 1 to 4 rotated out, and Sets 5 to 8 followed on July 17, 2026, so Core is now Sets 9 to 14. Every Inklands card is still legal in Infinity Constructed, and the reprint rule keeps a card legal by name: Fabled reprinted 170 cards from Sets 1 to 4, so an Inklands card with the same full name as a Fabled reprint stays Core-legal.",
+          "The third context is the family. The First Chapter is set 1, and its top ten totals $2,822.34, with its Elsa at $942.98, 4.43 times this Mickey. Rise of the Floodborn is set 2, and its top ten totals $905.87. The [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the first set the same way, and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) covers the Japanese edition of the first set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Enchanted, who should buy the single: the Mickey averages 1,890 packs at the counted rate, $9,279.90 of packs at our case price. It is not for anyone who wants a single English box, because the only English Inklands product here is the four-box case. It is not for anyone who will pay an Enchanted price without checking the number, because the same Mickey is $0.81 as a Legendary and $24.84 as a foil. It is not for anyone who needs the prices to hold, or a return on a date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Mickey, own the ten, hold the third set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Mickey, buy the single: $212.65 Enchanted on the November 27, 2026 TCGplayer market read, and check the number, 220/204, because the Legendary is $0.81.",
+          "If the job is the ten, buy the English case at $471.24, four boxes at $117.81 each, and treat the Enchanted as a bonus, not the plan.",
+          "If the job is one box, buy the FASE market box at $124.91, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the Ursula classification line, because the first run misprinted Storyborn for Dreamborn."
+        ],
+        "h": "Action layer: the Into the Inklands best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles. Exact shipping is confirmed at checkout or on WhatsApp, and we ship from Japan."
+        ]
+      }
+    ],
+    "slug": "lorcana-into-the-inklands-best-cards",
+    "takeaway": [
+      "The Into the Inklands top ten, on TCGplayer market prices checked November 27, 2026, totals $906.10, and the Mickey is $212.65 of it, 23.47%. All ten are Enchanted rares, the top two are $323.68, 35.72%, and the bottom five are $316.97, 34.98%, nearly matching the top two. The eight Enchanteds outside the ten include Kida, Chernabog, Peter Pan, and Gramma Tala.",
+      "On our shelf as of November 27, 2026, there is exactly one Into the Inklands product: the English sealed case at $471.24, four boxes at $117.81 a box, $4.91 a pack, $0.41 a card, $25.95 below the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Mickey is 1.81 case boxes and 0.45 of a whole case. The case saves $28.40 against four FASE market boxes at $124.91 each.",
+      "It is worth buying as the third set sealed, and it is not worth buying as a way to own one named Enchanted. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the counted rate of about one Enchanted in 105 packs puts one specific Enchanted at 1,890 packs on average, $9,279.90 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Enchanted as a bonus.",
+      "The Ursula is two prices, not one: the standard Enchanted is $111.03, flat over thirty days, 75.41% below its March 2024 high of $451.53, while the $368 figure other lists print sits near the asking prices for the Storyborn error printing. The Mickey is at its all-time high of $212.65, set November 23, 2026, 4.84 times its November 2025 low of $43.96.",
+      "Companion guide: the [Lorcana Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) runs the same ranking on set 2, where the top ten totals $905.87, $0.23 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Into the Inklands at $117.81 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+      "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
       "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
+    ]
+  },
+  "lorcana-rise-of-the-floodborn-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Enchanted Cinderella, Ballroom Sensation, 205/204, at $260.68 on TCGplayer market checked November 27, 2026, from TCGPursuit's set read. TurnZero's October 22, 2026 read puts the same card at $260.68, the same dollar, and Lorebinder's November 25 read agrees at $260.68, so three reads agree exactly. The same Cinderella is $1.64 as a Rare and $6.96 as a foil Rare, so check the collector number before you pay a chase price.",
+        "q": "What is the most valuable Rise of the Floodborn card?"
+      },
+      {
+        "a": "No, not as a plan. The Cinderella is $260.68 on TCGplayer market checked November 27, 2026, which is 2.43 case boxes and 0.61 of a whole case at $428.40, and the counted Enchanted rate is about one in 105 packs, so one specific Enchanted averages 1,260 packs, $5,619.60 of packs at our $4.46 case pack price. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase. Buy the single if the card is the job, or buy the case to hold the second set sealed and treat the Enchanted as a bonus.",
+        "q": "Should I buy a Floodborn case to pull the Cinderella?"
+      },
+      {
+        "a": "Buy the English case if the job is four Floodborn boxes sealed: $428.40, four boxes at $107.10 a box, $4.46 a pack, $0.37 a card, $36.66 below the MSRP box per box, and $256.36 below four TCGPursuit market boxes at $171.19 each. Buy the market box if the job is one box: $171.19 on the TCGPursuit read, $173.55 on the TickerMint case read. Do not use the WorthRipping read of $106.46: it disagrees with both agreeing reads by more than $64 a box. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Floodborn English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Rise of the Floodborn Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Rise of the Floodborn is the Enchanted Cinderella, Ballroom Sensation, 205/204, at $260.68 on TCGplayer market, checked November 27, 2026, and the ten best cards are all Enchanted rares adding to $905.87, with the Cinderella alone $260.68 of it, 28.78%. Our shelf, November 27, 2026, carries the English sealed case at $428.40, four boxes at $107.10 a box, $4.46 a pack, and $0.37 a card, $36.66 below the MSRP box per box, with no single box and no Japanese case on the shelf. Buy the case to hold the second set sealed, buy the single to own the Cinderella.",
+      "Who this is for: collectors ranking the Floodborn chase, buyers weighing a four-box case against a market box, and players who want the Shift and Resist cards. Who it is not for: anyone chasing one named Enchanted by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Rise of the Floodborn's 10 best cards on TCGplayer market, Nov 27, 2026: the $260.68 Enchanted Cinderella, the $107.10 case box, and the $171.19 box.",
+    "metaTitle": "Rise of the Floodborn Best Cards, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Cinderella, nine more, and a case below retail",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit's Rise of the Floodborn read. The ten add to $905.87, and the top three are $542.29 of it, 59.86%. Cinderella, Ballroom Sensation (Enchanted) 205/204 is $260.68, Alice, Growing Girl (Enchanted) 213/204 is $155.99, and Snow White, Well Wisher (Enchanted) 206/204 is $125.62. Behind them, Beast, Relentless 210/204 at $69.78, Hercules, Divine Hero 215/204 at $59.14, and Shere Khan, Menacing Predator 212/204 at $54.85. Then Pete, Bad Guy 209/204 at $48.75, Sisu, Divine Water Dragon 214/204 at $45.78, Madam Mim, Purple Dragon 208/204 at $43.11, and Arthur, Wizard's Apprentice 207/204 at $42.17.",
+          "One card is more than a quarter of the list: the Cinderella is $260.68, 28.78% of the top ten, and 1.67 times the second card. The top two are $416.67, 46.00%, and the bottom five are $234.66, 25.90%. TurnZero's October 22, 2026 read agrees: the Cinderella at $260.68, the same dollar, with Alice at $162.85 and Snow White at $128.57, so the top three have moved $0.00, $6.86, and $2.95 in five weeks. The two Enchanteds outside the ten are Namaari, Morning Mist, and Lady Tremaine, Imperious Queen, and the highest non-Enchanted price any list still shows is Beast, Tragic Hero at $26.76 on TheGamer's March 2025 update.",
+          "A collector chasing the Cinderella buys the single: the card is 2.43 case boxes and 0.61 of a whole case, and 1.81 times an MSRP box. A collector who wants the second set sealed buys the case at $107.10 a box, $36.66 below the MSRP box. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, and the companion [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs the same ranking on set 3."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Rise of the Floodborn English case per box: $428.40 / 4 boxes = $107.10 per box",
+          "Rise of the Floodborn English case per pack: $428.40 / 96 packs = $4.46 per pack",
+          "Rise of the Floodborn English case per card: $428.40 / 1,152 cards = $0.37 per card",
+          "Rise of the Floodborn English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Rise of the Floodborn English case box vs MSRP box: $143.76 - $107.10 = $36.66 below MSRP per box",
+          "Rise of the Floodborn English case box vs MSRP box: $107.10 / $143.76 = 0.74x",
+          "Rise of the Floodborn TCGPursuit market box per pack: $171.19 / 24 packs = $7.13 per pack",
+          "Rise of the Floodborn TCGPursuit market box vs case box: $171.19 - $107.10 = $64.09 per box",
+          "Rise of the Floodborn TCGPursuit market box vs case box: $171.19 / $107.10 = 1.60x",
+          "Rise of the Floodborn four TCGPursuit market boxes: 4 x $171.19 = $684.76; $684.76 - $428.40 = $256.36 saved",
+          "Rise of the Floodborn TCGPursuit market box vs MSRP box: $171.19 / $143.76 = 1.19x; $171.19 - $143.76 = $27.43 above MSRP",
+          "Rise of the Floodborn TickerMint market case per box: $694.18 / 4 boxes = $173.55 per box",
+          "Rise of the Floodborn TickerMint market case box vs case box: $173.55 - $107.10 = $66.45 per box",
+          "Rise of the Floodborn TickerMint market case box vs case box: $173.55 / $107.10 = 1.62x",
+          "Rise of the Floodborn TickerMint market case vs our case: $694.18 - $428.40 = $265.78; $265.78 is 62.04% of $428.40",
+          "Rise of the Floodborn WorthRipping market box vs case box: $106.46 - $107.10 = -$0.64 per box",
+          "Rise of the Floodborn four WorthRipping market boxes: 4 x $106.46 = $425.84; $428.40 - $425.84 = $2.56 above four market boxes",
+          "Rise of the Floodborn WorthRipping cards inside vs its box: $47 / $106.46 = 44.15% of the box; $106.46 - $47 = $59.46 lost per box",
+          "Rise of the Floodborn Illumineer's Trove per pack: $111.56 / 8 packs = $13.95 per pack",
+          "Rise of the Floodborn Illumineer's Trove per pack vs market box per pack: $13.95 / $4.44 = 3.14x",
+          "Rise of the Floodborn top 10 total: $260.68 + $155.99 + $125.62 + $69.78 + $59.14 + $54.85 + $48.75 + $45.78 + $43.11 + $42.17 = $905.87",
+          "Rise of the Floodborn top 2 total: $260.68 + $155.99 = $416.67; $416.67 / $905.87 = 46.00% of the top 10",
+          "Rise of the Floodborn top 3 total: $260.68 + $155.99 + $125.62 = $542.29; $542.29 / $905.87 = 59.86% of the top 10",
+          "Rise of the Floodborn Cinderella share: $260.68 / $905.87 = 28.78% of the top 10",
+          "Rise of the Floodborn bottom 8 total: $905.87 - $416.67 = $489.20; $489.20 / $905.87 = 54.00% of the top 10",
+          "Rise of the Floodborn bottom 5 total: $54.85 + $48.75 + $45.78 + $43.11 + $42.17 = $234.66; $234.66 / $905.87 = 25.90% of the top 10",
+          "Rise of the Floodborn second rung total: $69.78 + $59.14 + $54.85 = $183.77; $183.77 / $905.87 = 20.29% of the top 10",
+          "Rise of the Floodborn third rung total: $48.75 + $45.78 + $43.11 + $42.17 = $179.81; $179.81 / $905.87 = 19.85% of the top 10",
+          "Rise of the Floodborn second rung spread: $69.78 - $54.85 = $14.93",
+          "Rise of the Floodborn Cinderella vs second card: $260.68 / $155.99 = 1.67x",
+          "Rise of the Floodborn Cinderella vs tenth card: $260.68 / $42.17 = 6.18x",
+          "Rise of the Floodborn Cinderella vs second plus third: $155.99 + $125.62 = $281.61; $281.61 - $260.68 = $20.93 apart; $260.68 / $281.61 = 0.93x",
+          "Rise of the Floodborn Cinderella against the case: $260.68 / $107.10 = 2.43 case boxes; $260.68 / $428.40 = 0.61 cases",
+          "Rise of the Floodborn Cinderella against the MSRP box: $260.68 / $143.76 = 1.81x",
+          "Rise of the Floodborn Cinderella against the market box: $260.68 / $171.19 = 1.52x",
+          "Rise of the Floodborn top 10 against the case: $905.87 / $428.40 = 2.11 cases; $905.87 / $107.10 = 8.46 case boxes",
+          "Rise of the Floodborn top 10 against the MSRP box: $905.87 / $143.76 = 6.30x",
+          "Rise of the Floodborn top 10 against the cheapest English case: $905.87 / $393.93 = 2.30 cases",
+          "Rise of the Floodborn cheapest English case per box: $393.93 / 4 boxes = $98.48 per box",
+          "Rise of the Floodborn case box vs cheapest case box: $107.10 - $98.48 = $8.62 per box",
+          "Rise of the Floodborn Cinderella Oct 22 to Nov 26: $260.68 - $260.68 = $0.00",
+          "Rise of the Floodborn Alice Oct 22 to Nov 26: $155.99 - $162.85 = -$6.86; -$6.86 is -4.21% of $162.85",
+          "Rise of the Floodborn Snow White Oct 22 to Nov 26: $125.62 - $128.57 = -$2.95; -$2.95 is -2.29% of $128.57",
+          "Rise of the Floodborn Cinderella Enchanted vs Rare: $260.68 / $1.64 = 158.95x; $260.68 / $6.96 = 37.45x against the foil Rare",
+          "Rise of the Floodborn Cinderella Enchanted overpay vs foil Rare: $260.68 - $6.96 = $253.72",
+          "Rise of the Floodborn highest non-Enchanted vs tenth card: $42.17 - $26.76 = $15.41; $26.76 / $42.17 = 63.46% of the tenth card",
+          "Rise of the Floodborn Cinderella PSA 10 vs raw: $763.11 / $260.68 = 2.93x",
+          "Rise of the Floodborn Alice PSA 10 vs raw: $609.76 / $155.99 = 3.91x",
+          "Rise of the Floodborn Snow White PSA 10 vs raw: $584.80 / $125.62 = 4.66x",
+          "Rise of the Floodborn specific Enchanted chase: 12 Enchanted x 105 packs = 1,260 packs per specific Enchanted on average; 1,260 packs x $4.46 = $5,619.60",
+          "Rise of the Floodborn Enchanted expectation per case: 96 packs / 105 packs per Enchanted = 0.91 Enchanted per case on average",
+          "Rise of the Floodborn top 10 against the First Chapter top 10: $2,822.34 / $905.87 = 3.12x; $2,822.34 - $905.87 = $1,916.47 apart",
+          "Rise of the Floodborn Cinderella against the First Chapter Elsa: $942.98 / $260.68 = 3.62x; $942.98 - $260.68 = $682.30 apart",
+          "Rise of the Floodborn top 10 against the Into the Inklands top 10: $906.10 - $905.87 = $0.23; $905.87 / $906.10 = 1.00x",
+          "Rise of the Floodborn cost to collect one of each: $905.87 / $1,203.22 = 75.29% of the set",
+          "Rise of the Floodborn case vs Into the Inklands case: $471.24 - $428.40 = $42.84; $471.24 / $428.40 = 1.10x"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $428.40, or $107.10 a box, $4.46 a pack, and $0.37 a card. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $36.66 below MSRP per box, at 0.74 times the MSRP box. This is one of six English cases on the shelf that divide below the official box price, tied with Ursula's Return and behind only Reign of Jafar at $98.48 and Azurite Sea at $101.29.",
+          "The open market charges more than our case box, on both agreeing reads. A TCGPursuit sealed box carries a TCGplayer market price of $171.19 on the November 25, 2026 read, $64.09 more per box than our case box, at 1.60 times it, so four cost $684.76 and the case saves $256.36 against them. The TickerMint read, November 25, 2026, is a case at $694.18, or $173.55 a box, $66.45 above our case box. A third reading disagrees sharply: WorthRipping prints $106.46 for November 26, $0.64 below our case box. We do not adopt it; the TCGplayer-derived reads agree near $171 to $174. The band is the fact: the market box sits near $171.19 to $173.55.",
+          "The expected value inside a box is thinner than the box price on every read. WorthRipping's simulation, prices from November 26, 2026, puts $47 of cards inside a box after selling costs, $59.46 below its own $106.46 box, and 86 of 100 boxes lose money. The Illumineer's Trove is worse per pack: $111.56 for eight packs, $13.95 a pack, with $16 of cards inside after costs and 97 of 100 losing money. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/)."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on Rise of the Floodborn, what each costs per pack, what it is for, and where it fails.",
+          "The case row deserves a second look: it is the only row that runs through our shelf, and the cheapest sealed Floodborn box in this table, $64.09 below the TCGPursuit market box and $66.45 below the TickerMint case box. The WorthRipping row is the only one that undercuts it, by $0.64, and it is the read we do not trust."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$428.40",
+              "$107.10 a box, $4.46 a pack",
+              "Holding the second set sealed; the cheapest sealed Floodborn box we trust",
+              "Four boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "TCGPursuit market box",
+              "$171.19",
+              "$7.13",
+              "One English box at a time",
+              "1.19x MSRP; $64.09 more per box than our case box"
+            ],
+            [
+              "TickerMint market case box",
+              "$173.55",
+              "$7.23",
+              "One English box at a time, second read",
+              "$66.45 more per box than our case box"
+            ],
+            [
+              "The single (Cinderella Enchanted)",
+              "$260.68",
+              "n/a",
+              "Owning the chase card",
+              "2.43 case boxes; grading and condition risk"
+            ],
+            [
+              "WorthRipping market box",
+              "$106.46",
+              "$4.44",
+              "One English box at a time, lowest read",
+              "Disagrees with the other two reads by $64.73; not adopted"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $36.66 below it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the rotation, and the stale prices",
+        "note": "From the Warehouse: the question we get most in chat about Rise of the Floodborn is whether the case is a mistake, because buyers see the market box at $171.19 and our case box at $107.10 and assume the cheaper one must be a different product. It is not a mistake. The case holds four English Floodborn boxes and nothing else, at $107.10 a box, below both market-box readings we trust, and the second question is whether the Cinderella is really worth more than two sealed boxes. It is, on the November 27 read: $260.68 against a $171.19 market box, 1.52 boxes for one card. We do not know whether it holds, and anyone who says they do is guessing: the same card was $260.68 on October 22 and $260.68 on November 26, flat for five weeks, while the Alice fell $6.86 in the same span.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. Card Gamer ranks ten cards on prices from the 2023 launch window, with the Cinderella at $254 and the Lady Tremaine at $124, and TheGamer ranks fifteen on prices last updated in March 2025. TurnZero, the freshest of the three, still reads October 22, 2026, and carries no shelf, no case division, and no verdict. TCGPursuit and Lanakit carry fresh prices but no shelf, and Lanakit's list opens with a Cinderella, Stouthearted at $973.19, a row no other source corroborates, so we do not adopt it, though its Alice, Snow White, and Beast match TCGPursuit to the cent.",
+          "The gap this page owns is threefold: the shelf, the dated read, and the case division. The shelf price is ours, stamped November 27, 2026: the English case at $428.40, with no single box and no Japanese case on the shelf. The dated read is TCGPursuit's November 26, 2026 TCGplayer snapshot, all ten printings, $905.87 in total, cross-checked against TurnZero's October 22 and Lorebinder's November 25 reads, which both put the Cinderella at $260.68. No other best-cards list for this set carries all three.",
+          "The second gap is rotation. Rise of the Floodborn left Core Constructed with Fabled on September 5, 2025, and Core now runs Sets 9 to 14, so the set's value is collector value now, except for cards reprinted in Fabled or later under the same name. The third gap is the printing check: the Cinderella is three prices in one set, $1.64 as a Rare, $6.96 as a foil Rare, and $260.68 as an Enchanted. The fourth gap is the Disney100 trap: the Disney100 collector product holds six special foil cards by Disney animators plus four Floodborn packs, and ordinary Floodborn packs are not a route to those cards."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top of the ladder is one card. The Cinderella is $260.68, 28.78% of the top ten on its own, and 1.67 times the second card, Alice, Growing Girl, at $155.99. Together they are $416.67, 46.00% of the list, and with the Snow White the top three are $542.29, 59.86%. The Cinderella moved $0.00 in five weeks, from $260.68 on October 22 to $260.68 on November 26, while the Alice fell $6.86, down 4.21%, and the Snow White fell $2.95, down 2.29%.",
+          "The second rung is the Beast, the Hercules, and the Shere Khan: Beast, Relentless $69.78, Hercules, Divine Hero $59.14, and Shere Khan, Menacing Predator $54.85, together $183.77, 20.29% of the ten, within $14.93 of each other. The third rung is the Pete, the Sisu, the Madam Mim, and the Arthur: Pete, Bad Guy $48.75, Sisu, Divine Water Dragon $45.78, Madam Mim, Purple Dragon $43.11, and Arthur, Wizard's Apprentice $42.17, together $179.81, 19.85% of the ten. The second and third rungs are $3.96 apart, so the bottom seven cards are a flat field, not a ladder.",
+          "Below the top ten sits the rest of the set. The highest non-Enchanted price any list still shows is Beast, Tragic Hero at $26.76 on TheGamer's March 2025 update, $15.41 below the tenth card. The set costs $1,203.22 to collect one of each of its 221 cards at TCGplayer market prices, and the top ten is $905.87 of that, 75.29%. The [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) shows the same shape in set 3, where the top ten totals $906.10."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 105 packs, one in 1,260 for the Cinderella",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate. WorthRipping's pull-rate table, from DigitalTQ counted openings checked October 26, 2026, puts an Enchanted at one in 105 packs, about one in 4.4 boxes, so a case holds 0.91 Enchanted on average: about 20 of 100 boxes hold one, so most boxes hold none. The specific Cinderella is rarer still: twelve Enchanteds share the one-in-105 slot, so one specific Enchanted averages 1,260 packs, $5,619.60 of packs at our $4.46 case pack price.",
+          "The second risk is the printing, not the card. The Cinderella is three prices in one set: $1.64 as a Rare, $6.96 as a foil Rare, and $260.68 as an Enchanted, so the Enchanted is 158.95 times the plain Rare and 37.45 times the foil. A buyer who pays an Enchanted price for a foil Rare has overpaid by $253.72. Check the collector number before you pay: the Enchanted is 205/204, the Rare is 3/204, and the foil slot is the only place an Enchanted can appear.",
+          "The third risk is the reseal. A box that trades at $171.19 on one read and $106.46 on another is exactly what resealers monetize, so check the seal, wrap tension, and pack order before opening, as [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows. The fourth risk is the price itself: the WorthRipping box fell $8.10 in a week, from $114.56 on November 19 to $106.46 on November 26, and the November 27 top ten is a snapshot, not a floor. The sealed-hold plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/), and the storage rules are in [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, Shift, Resist, and two formats",
+        "paragraphs": [
+          "Rise of the Floodborn is Disney Lorcana's second set, set 2 of 14 on the shelf, with Set 14 Hyperia City the newest. It reached game stores on November 17, 2023 and mass retail on December 1, 2023, per Ravensburger's September 12, 2023 announcement, at $5.99 a pack and $143.76 a box. The set holds 204 regular cards, 72 Commons, 54 Uncommons, 48 Rares, 18 Super Rares, and 12 Legendaries, plus 12 Enchanted rares numbered 205 to 216, for 216 cards in total. A pack holds 12 cards, 6 Commons, 3 Uncommons, 2 Rare or higher, and 1 foil, and a box holds 24 packs.",
+          "The set is the Shift set. Shift is on 24 cards, twice The First Chapter's 12, every one a Floodborn character played on top of a character with the same name for a lower Shift cost. Resist is new here, on 5 cards, and the Seven Dwarfs arrive as a classification of their own, on 7 cards. The play value lives in the regular printings: the priciest non-Enchanted card any list still shows is Beast, Tragic Hero at $26.76 on TheGamer's March 2025 update. The set left Core Constructed with Fabled on September 5, 2025, when Sets 1 to 4 rotated out, and Sets 5 to 8 followed on July 17, 2026, so Core is now Sets 9 to 14. Every Floodborn card is still legal in Infinity Constructed, and the reprint rule keeps a card legal by name: Fabled reprinted 170 cards from Sets 1 to 4, so a Floodborn card with the same full name as a Fabled reprint stays Core-legal.",
+          "The third context is the family. The First Chapter is set 1, and its top ten totals $2,822.34, 3.12 times this set's $905.87, with its Elsa at $942.98, 3.62 times this Cinderella. Into the Inklands is set 3, and its top ten totals $906.10. The [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the first set the same way, and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) covers the Japanese edition of the first set."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Enchanted, who should buy the single: the Cinderella averages 1,260 packs at the counted rate, $5,619.60 of packs at our case price. It is not for anyone who wants a single English box, because the only English Floodborn product here is the four-box case. It is not for anyone who will pay an Enchanted price without checking the number, because the same Cinderella is $1.64 as a Rare and $6.96 as a foil. It is not for anyone who needs the prices to hold, or a return on a date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Cinderella, own the ten, hold the second set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Cinderella, buy the single: $260.68 Enchanted on the November 27, 2026 TCGplayer market read, and check the number, 205/204, because the Rare is $1.64.",
+          "If the job is the ten, buy the English case at $428.40, four boxes at $107.10 each, and treat the Enchanted as a bonus, not the plan.",
+          "If the job is one box, buy the TCGPursuit market box at $171.19, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and re-check the shelf price on the day you buy, because this set is three years old and its market box moved $8.10 in a week."
+        ],
+        "h": "Action layer: the Rise of the Floodborn best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles, and the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices. Exact shipping is confirmed at checkout or on WhatsApp, and we ship from Japan."
+        ]
+      }
+    ],
+    "slug": "lorcana-rise-of-the-floodborn-best-cards",
+    "takeaway": [
+      "The Rise of the Floodborn top ten, on TCGplayer market prices checked November 27, 2026, totals $905.87, and the Cinderella is $260.68 of it, 28.78%. All ten are Enchanted rares, the top two are $416.67, 46.00%, and the highest non-Enchanted price any list still shows, Beast, Tragic Hero at $26.76 on TheGamer's March 2025 update, sits $15.41 below the tenth card.",
+      "On our shelf as of November 27, 2026, there is exactly one Rise of the Floodborn product: the English sealed case at $428.40, four boxes at $107.10 a box, $4.46 a pack, $0.37 a card, $36.66 below the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Cinderella is 2.43 case boxes and 0.61 of a whole case. The case saves $256.36 against four TCGPursuit market boxes at $171.19 each.",
+      "It is worth buying as the second set sealed, and it is not worth buying as a way to own one named Enchanted. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the counted rate of about one Enchanted in 105 packs puts one specific Enchanted at 1,260 packs on average, $5,619.60 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Enchanted as a bonus.",
+      "The ladder below the Cinderella is flat: the second rung, Beast at $69.78 through Shere Khan at $54.85, totals $183.77, 20.29% of the ten, and the third rung, Pete at $48.75 through Arthur at $42.17, totals $179.81, 19.85%, only $3.96 apart. The Cinderella moved $0.00 in five weeks, from $260.68 on October 22 to $260.68 on November 26, while the Alice fell $6.86.",
+      "Companion guide: the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs the same ranking on set 3, where the top ten totals $906.10, $0.23 above this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Rise of the Floodborn at $107.10 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+      "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "Next in the series, the [Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks set 3 the same way, with the Mickey at $212.65 and the top ten at $906.10 on November 27, 2026."
     ]
   },
   "m1l-best-cards": {
