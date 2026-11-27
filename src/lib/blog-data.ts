@@ -17236,7 +17236,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Every Disney Lorcana box price lives in one table now: fourteen English sets, from Reign of Jafar at $115.86 a box to The First Chapter at $436.84, with Hyperia City newest at $180.00. Five sets sit below the $143.76 retail box and nine above it, and the whole fourteen-case shelf costs $11,387.28 for 56 boxes, $203.34 a box on average.",
       "The multiples are the story: Reign of Jafar is 19.4% below retail, The First Chapter is 203.9% above it, and the cheapest box is 3.77 times cheaper than the dearest. Our Hyperia City case-split is $20.60 above the TCGplayer market, while our Reign of Jafar case-split is $27.90 below retail, so the same shelf is both the dearest and the cheapest route depending on the set.",
-      "Prices move, so treat every number here as stamped: our case prices as of November 10, 2026, the TCGplayer market price as of October 22, 2026, and the UK and Australian listings as of November 10, 2026. A case price divided by four is the only box price we offer, and a market price without a date is stale on arrival."
+      "Prices move, so treat every number here as stamped: our case prices as of November 10, 2026, the TCGplayer market price as of October 22, 2026, and the UK and Australian listings as of November 10, 2026. A case price divided by four is the only box price we offer, and a market price without a date is stale on arrival.",
+      "The newest set on the board is Hyperia City: the [Lorcana Hyperia City best cards guide](/blog/lorcana-hyperia-city-best-cards/) ranks its top ten at $4,353.36, with the Mickey at $1,871.37."
     ]
   },
   "disney-lorcana-sealed-case": {
@@ -47765,7 +47766,8 @@ export const POSTS: Record<string, BlogPost> = {
       "One set back, the [Lorcana Wilds Unknown best cards guide](/blog/lorcana-wilds-unknown-best-cards/) runs the same ranking on set 12, the set before Attack of the Vine, and the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11, where the top ten totals $5,139.92, $10.11 below this set, and the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10.",
       "Companion guide: the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, on TCGplayer market checked November 27, 2026, where the top ten totals $12,818.10, $7,668.07 above this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8, the last set rotated out of Core in July 2026.",
       "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
-      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "One set on, the [Lorcana Hyperia City best cards guide](/blog/lorcana-hyperia-city-best-cards/) ranks set 14 the same way, on TCGplayer market checked November 27, 2026, with the Mickey at $1,871.37."
     ]
   },
   "lorcana-azurite-sea-best-cards": {
@@ -48253,7 +48255,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The [SV1V Violet ex investment guide](/blog/sv1v-investment/) runs the same case-divided math on the Pokemon side of the shelf.",
       "Re-run the division on the day you pay. Every price here is stamped November 20, 2026, and the Fabled gap is the one that moves fastest. How to buy Lorcana online, step by step, is covered in the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/), where the fifteen-case shelf divides from $98.48 to $371.32 a box.",
       "For the set that started it all, the [First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks the ten Enchanted rares, with the Elsa at $942.98 against a $371.32 case box.",
-      "For the set behind the $107.10 case box, the [Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) ranks the ten Enchanted rares, with the Cinderella at $260.68 and the top ten at $905.87 on November 27, 2026."
+      "For the set behind the $107.10 case box, the [Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) ranks the ten Enchanted rares, with the Cinderella at $260.68 and the top ten at $905.87 on November 27, 2026.",
+      "The next set is Into the Inkdark, February 12, 2027: the [Lorcana Into the Inkdark preview](/blog/lorcana-into-the-inkdark-preview/) covers Collector Boosters at $34.99 a pack and the six Illustrious cards at 23 copies each."
     ]
   },
   "lorcana-fabled-best-cards": {
@@ -48722,6 +48725,442 @@ export const POSTS: Record<string, BlogPost> = {
       "Seven sets on, the [Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, with the Stitch at $480.12 and the top ten at $2,470.27, and the [Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, with the Mickey at $4,166.67 and the top ten at $12,818.10, both on November 27, 2026.",
       "Nine sets on, the [Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10 the same way, with the Ariel at $1,583.74 and the top ten at $5,016.71, and the [Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, with the Moana at $1,287.29 and the top ten at $5,139.92, both on November 27, 2026.",
       "Twelve sets on, the [Lorcana Attack of the Vine! best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) ranks set 13 the same way, with the Belle and Beast at $1,687.41 and the top ten at $5,150.03, on TCGplayer market checked November 27, 2026."
+    ]
+  },
+  "lorcana-hyperia-city-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Mickey Mouse, Best in Town, Iconic 241/204, at $1,871.37 on TCGplayer market checked November 27, 2026, from TCGPursuit's Hyperia City read, with price history last recorded November 27, 2026. WorthRipping's feed reads it at $1,865 on November 23, 2026, $6.37 below, and Kontora's November 26, 2026 read agrees at $1,871.37. Use the dated TCGplayer market read and re-check before paying.",
+        "q": "What is the most valuable Hyperia City card?"
+      },
+      {
+        "a": "The reads come from different feeds. WorthRipping's market box is $127.65 on November 26, 2026, NerdSnack's TCGplayer market box is $123.57 on November 26, 2026, and the lowest listing is $93.29, checked November 26, 2026. WorthRipping tracks its own market price, NerdSnack tracks the TCGplayer market price, and the lowest listing is one seller's asking price, so the feeds do not agree on one box. The WorthRipping read is the base here because it carries the full box math, cards inside at $123 after selling costs and a typical box at $70. Do not average the reads: averaging a $127.65 market price with a $93.29 listing invents a price no market lists.",
+        "q": "Why do the market box reads disagree by $4.08?"
+      },
+      {
+        "a": "Buy the English case if the job is four Hyperia City boxes sealed: $612.00, four boxes at $153.00 a box, $6.38 a pack, $0.53 a card, $9.24 above the MSRP box per box, and $13.00 below the lowest completed eBay case sale at $625.00. Buy the market box if the job is one box: $127.65 on the WorthRipping read of November 26, 2026, $5.32 a pack, or $123.57 on the NerdSnack read, and the two reads disagree by $4.08 a box. Do not use the lowest listing of $93.29 as the market box: it is a listing, not a sale. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fifteen boxes the same way.",
+        "q": "Hyperia City English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Hyperia City Best Cards: The 10 Worth Chasing, Priced Against Our $612.00 Case",
+    "intro": [
+      "Short answer: the best card in Hyperia City is the Mickey Mouse, Best in Town, Iconic 241/204, at $1,871.37 on TCGplayer market checked November 27, 2026, and the ten best add to $4,353.36, the two Iconics alone at $2,887.15. Our shelf, November 27, 2026, carries the English sealed case at $612.00, four boxes at $153.00 a box, $6.38 a pack, $0.53 a card, $9.24 above the MSRP box per box, with no single box and no Japanese case. Buy the case to hold the fourteenth set sealed, buy the single to own the Mickey, and do not pay a market box price for a case box: the market box is $127.65 and our case box is $153.00.",
+      "Who this is for: collectors ranking the Hyperia City chase, buyers weighing a four-box case against a $127.65 market box, and players building a Core deck from the newest set. Who it is not for: anyone chasing one named Iconic by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Hyperia City's 10 best cards on TCGplayer market, Nov 27, 2026: the $1,871.37 Mickey Iconic, the $153.00 case box, the $127.65 market box.",
+    "metaTitle": "Lorcana Hyperia City Best Cards, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: two Iconics, eight Enchanteds, and a case below the eBay case range",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit; the ten add to $4,353.36, the top two at $2,887.15, 66.32%. Mickey Mouse, Best in Town (Iconic) 241/204 is $1,871.37, Cinderella, Unintentional Icon (Iconic) 242/204 is $1,015.78, and Ariel, Collector of Oddities (Enchanted) 236/204 is $334.93. Then Belle, Exceptional Writer (Enchanted) 230/204 at $228.54, Max Goof, Karaoke Star (Enchanted) 229/204 at $206.12, and Aurora, Delightful Musician (Enchanted) 223/204 at $177.77, Rapunzel, Outgoing Artist (Enchanted) 226/204 at $143.79, Marie, Caught in the Act (Enchanted) 238/204 at $138.06, Merlin, Profoundly Curious (Enchanted) 227/204 at $124.37, and Remember Me (Enchanted) 225/204 at $112.63.",
+          "The Mickey is $1,871.37, 42.99% of the top ten and 1.84 times the Cinderella. The top three are $3,222.08, 74.01%; the top five are $3,656.74, 84.00%. Ranks three to five total $769.59, 17.68%, and ranks six to ten total $696.62, 16.00%. The Mickey is 16.62 times the tenth card at $112.63, and it is $520.66 above the Cinderella and the Ariel combined, at $1,350.71.",
+          "The reads agree on the Mickey within a few dollars and disagree on the Cinderella. Kontora's November 26, 2026 read puts the Mickey at $1,871.37, exactly the base, and NerdSnack's November 8, 2026 read puts the Cinderella near $1,122, above the base, while WorthRipping's November 23, 2026 take reads the Mickey at $1,865 and the Cinderella at $867. We do not average the reads; the TCGplayer market read is the base. The companion [Lorcana Attack of the Vine best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) runs the same ranking on set 13, where the top ten totals $5,150.03."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Hyperia City English case per box: $612.00 / 4 boxes = $153.00 per box",
+          "Hyperia City English case per pack: $612.00 / 96 packs = $6.38 per pack",
+          "Hyperia City English case per card: $612.00 / 1,152 cards = $0.53 per card",
+          "Hyperia City English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Hyperia City English case box vs MSRP box: $153.00 - $143.76 = $9.24 above MSRP per box",
+          "Hyperia City English case box vs MSRP box: $153.00 / $143.76 = 1.06x",
+          "Hyperia City English case pack vs MSRP pack: $6.38 - $5.99 = $0.39; $6.38 / $5.99 = 1.07x",
+          "Hyperia City English MSRP case: 4 x $143.76 = $575.04",
+          "Hyperia City English case vs MSRP case: $612.00 - $575.04 = $36.96; $612.00 / $575.04 = 1.06x",
+          "Hyperia City English case in yen: $612.00 x 159.54 yen = 97,638.48 yen",
+          "Hyperia City English case box in yen: $153.00 x 159.54 yen = 24,409.62 yen",
+          "Hyperia City WorthRipping market box per pack: $127.65 / 24 packs = $5.32 per pack",
+          "Hyperia City NerdSnack market box per pack: $123.57 / 24 packs = $5.15 per pack",
+          "Hyperia City lowest listing per pack: $93.29 / 24 packs = $3.89 per pack",
+          "Hyperia City WorthRipping market box vs case box: $153.00 - $127.65 = $25.35 per box",
+          "Hyperia City WorthRipping market box vs case box: $153.00 / $127.65 = 1.20x",
+          "Hyperia City NerdSnack market box vs case box: $153.00 - $123.57 = $29.43 per box",
+          "Hyperia City NerdSnack market box vs case box: $153.00 / $123.57 = 1.24x",
+          "Hyperia City WorthRipping box vs NerdSnack box: $127.65 - $123.57 = $4.08 apart; $127.65 / $123.57 = 1.03x",
+          "Hyperia City lowest listing vs case box: $153.00 - $93.29 = $59.71 per box; $153.00 / $93.29 = 1.64x",
+          "Hyperia City four WorthRipping boxes: 4 x $127.65 = $510.60",
+          "Hyperia City four WorthRipping boxes vs our case: $612.00 - $510.60 = $101.40; $612.00 / $510.60 = 1.20x",
+          "Hyperia City four NerdSnack boxes: 4 x $123.57 = $494.28",
+          "Hyperia City four NerdSnack boxes vs our case: $612.00 - $494.28 = $117.72; $612.00 / $494.28 = 1.24x",
+          "Hyperia City WorthRipping market box vs MSRP box: $143.76 - $127.65 = $16.11 below MSRP",
+          "Hyperia City NerdSnack market box vs MSRP box: $143.76 - $123.57 = $20.19 below MSRP; $20.19 is 14.04% of $143.76",
+          "Hyperia City eBay case low end vs our case: $625.00 - $612.00 = $13.00; $612.00 / $625.00 = 0.98x",
+          "Hyperia City eBay case high end vs our case: $709.00 - $612.00 = $97.00; $612.00 / $709.00 = 0.86x",
+          "Hyperia City eBay case per box low: $625.00 / 4 boxes = $156.25 per box",
+          "Hyperia City eBay case per box high: $709.00 / 4 boxes = $177.25 per box",
+          "Hyperia City WorthRipping cards inside vs its box: $127.65 - $123.00 = $4.65 lost per box",
+          "Hyperia City WorthRipping cards inside vs its box: $123.00 is 96.36% of $127.65",
+          "Hyperia City WorthRipping typical box vs its box: $127.65 - $70.00 = $57.65 lost per box",
+          "Hyperia City WorthRipping typical box vs its box: $70.00 is 54.84% of $127.65",
+          "Hyperia City WorthRipping typical box vs our case box: $153.00 - $70.00 = $83.00 above the typical box",
+          "Hyperia City WorthRipping cards inside vs our case box: $153.00 - $123.00 = $30.00 above the average box",
+          "Hyperia City WorthRipping box 30-day move: $155.00 - $127.65 = $27.35; $27.35 is 17.65% of $155.00",
+          "Hyperia City Trove per pack: $53.00 / 8 packs = $6.63 per pack",
+          "Hyperia City Trove NerdSnack per pack: $64.36 / 8 packs = $8.05 per pack",
+          "Hyperia City Trove read spread: $64.36 - $53.00 = $11.36",
+          "Hyperia City Trove vs case pack: $6.63 - $6.38 = $0.25; $6.63 / $6.38 = 1.04x",
+          "Hyperia City top 10 total: $1,871.37 + $1,015.78 + $334.93 + $228.54 + $206.12 + $177.77 + $143.79 + $138.06 + $124.37 + $112.63 = $4,353.36",
+          "Hyperia City top 2 total: $1,871.37 + $1,015.78 = $2,887.15; $2,887.15 / $4,353.36 = 66.32% of the top 10",
+          "Hyperia City top 3 total: $1,871.37 + $1,015.78 + $334.93 = $3,222.08; $3,222.08 / $4,353.36 = 74.01% of the top 10",
+          "Hyperia City top 5 total: $1,871.37 + $1,015.78 + $334.93 + $228.54 + $206.12 = $3,656.74; $3,656.74 / $4,353.36 = 84.00% of the top 10",
+          "Hyperia City ranks 3 to 5 total: $334.93 + $228.54 + $206.12 = $769.59; $769.59 / $4,353.36 = 17.68% of the top 10",
+          "Hyperia City bottom 5 total: $177.77 + $143.79 + $138.06 + $124.37 + $112.63 = $696.62; $696.62 / $4,353.36 = 16.00% of the top 10",
+          "Hyperia City second rung vs third rung: $769.59 - $696.62 = $72.97 apart",
+          "Hyperia City Mickey share: $1,871.37 / $4,353.36 = 42.99% of the top 10",
+          "Hyperia City Mickey vs Cinderella: $1,871.37 / $1,015.78 = 1.84x",
+          "Hyperia City Mickey vs tenth card: $1,871.37 / $112.63 = 16.62x",
+          "Hyperia City Mickey vs Cinderella plus Ariel: $1,015.78 + $334.93 = $1,350.71; $1,871.37 - $1,350.71 = $520.66; $1,871.37 / $1,350.71 = 1.39x",
+          "Hyperia City Mickey against the case: $1,871.37 / $612.00 = 3.06x",
+          "Hyperia City Mickey against the case box: $1,871.37 / $153.00 = 12.23x",
+          "Hyperia City Mickey against the MSRP box: $1,871.37 / $143.76 = 13.02x",
+          "Hyperia City Mickey against the WorthRipping market box: $1,871.37 / $127.65 = 14.66x",
+          "Hyperia City top 10 against the case: $4,353.36 / $612.00 = 7.11x",
+          "Hyperia City top 10 against four WorthRipping market boxes: $4,353.36 / $510.60 = 8.53x",
+          "Hyperia City top 10 against the cost to collect one of each: $4,353.36 / $5,276.84 = 82.50% of the set",
+          "Hyperia City top 10 against the Attack of the Vine top 10: $5,150.03 - $4,353.36 = $796.67; $4,353.36 / $5,150.03 = 0.85x",
+          "Hyperia City top 10 against the Winterspell top 10: $5,139.92 - $4,353.36 = $786.56; $4,353.36 / $5,139.92 = 0.85x",
+          "Hyperia City top 10 against the Fabled top 10: $12,818.10 - $4,353.36 = $8,464.74; $4,353.36 / $12,818.10 = 0.34x",
+          "Hyperia City case against the Lorcana board: $612.00 / $10,158.65 = 6.02% of the board",
+          "Hyperia City case vs The First Chapter case: $1,485.26 - $612.00 = $873.26; $612.00 / $1,485.26 = 0.41x",
+          "Hyperia City case vs Rise of the Floodborn case: $612.00 - $428.40 = $183.60; $612.00 / $428.40 = 1.43x",
+          "Hyperia City case vs Winterspell case: $1,095.70 - $612.00 = $483.70",
+          "Hyperia City case vs Wilds Unknown case: $1,077.82 - $612.00 = $465.82",
+          "Hyperia City case vs Whispers in the Well case: $866.15 - $612.00 = $254.15",
+          "Hyperia City case vs Fabled case: $634.24 - $612.00 = $22.24; $612.00 / $634.24 = 0.96x",
+          "Hyperia City case vs Attack of the Vine case: $612.00 - $590.16 = $21.84; $612.00 / $590.16 = 1.04x",
+          "Hyperia City specific Enchanted chase on the 1-in-100 estimate: 100 packs x 18 Enchanteds = 1,800 packs; 1,800 packs / 24 packs = 75.00 boxes; 1,800 packs / 96 packs per case = 18.75 cases; 18.75 cases x $612.00 = $11,475.00",
+          "Hyperia City specific Iconic chase on the counted 1-in-891 rate: 891 packs x 2 Iconics = 1,782 packs; 1,782 packs / 24 packs = 74.25 boxes; 1,782 packs / 96 packs per case = 18.56 cases; 18.56 cases x $612.00 = $11,358.72",
+          "Hyperia City specific Iconic chase on the WorthRipping 1-in-1,800 estimate: 1,800 packs x 2 Iconics = 3,600 packs; 3,600 packs / 24 packs = 150.00 boxes; 3,600 packs / 96 packs per case = 37.50 cases; 37.50 cases x $612.00 = $22,950.00",
+          "Hyperia City Enchanted expectation per case on the 1-in-100 estimate: 96 packs / 100 packs per Enchanted = 0.96 Enchanted per case on average",
+          "Hyperia City Enchanted expectation per case at the counted 1-in-70 rate: 96 packs / 70 packs per Enchanted = 1.37 Enchanted per case on average",
+          "Hyperia City Iconic expectation per case on the counted 1-in-891 rate: 96 packs / 891 packs per Iconic = 0.11 Iconic per case on average",
+          "Hyperia City Iconic expectation per case on the WorthRipping 1-in-1,800 estimate: 96 packs / 1,800 packs per Iconic = 0.05 Iconic per case on average"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $612.00, or $153.00 a box, $6.38 a pack, and $0.53 a card, as of November 27, 2026. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $9.24 above MSRP, at 1.06 times the MSRP box. At 159.54 yen to the dollar on November 27, 2026, the case is 97,638.48 yen and the box is 24,409.62 yen. The case is also below every completed eBay case sale checked October 30, 2026: nine sales ran $625 to $709, most near $650, so our case sits $13.00 below the lowest sale and $38.00 below the usual $650.",
+          "The market box reads disagree, and the disagreement is the story. WorthRipping's market box is $127.65, November 26, 2026, $5.32 a pack, $25.35 below our case box per box. NerdSnack's TCGplayer market box is $123.57, November 26, 2026, $5.15 a pack, $29.43 below our case box, and the two market reads sit $4.08 apart. The lowest listing is $93.29, $3.89 a pack, $59.71 below our case box, but a listing is not a sale. Four WorthRipping market boxes cost $510.60, $101.40 below our case; four NerdSnack boxes cost $494.28, $117.72 below it. Both market boxes sit below MSRP: the WorthRipping box $16.11 below it, the NerdSnack box $20.19 below it, 14.04% under.",
+          "Inside a box, the expected value is thinner than the box price. WorthRipping's simulation, prices from November 26, 2026, puts $123 of cards inside a box after selling costs, $4.65 below its $127.65 box, 96.36% of it; 69 of 100 boxes lose money, and a typical box is worth $70, 54.84% of it. The typical box sits $83.00 below our case box, and the average box sits $30.00 below it. The Trove is no better per pack and its reads disagree: WorthRipping prices it at $53, $6.63 a pack, while NerdSnack's November 26, 2026 read puts it at $64.36, $8.05 a pack, $11.36 apart. The [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) carries the full fifteen-case board."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the verdict in one view: six ways to spend on Hyperia City.",
+          "The case row is the only row on our shelf, $25.35 above the WorthRipping box per box and $13.00 below the lowest eBay case sale. Four WorthRipping market boxes cost $510.60, and the top ten is 8.53 times that. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fifteen cases to per-box prices, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) prices every case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$612.00",
+              "$153.00 a box, $6.38 a pack",
+              "Holding the fourteenth set sealed; the only Hyperia City sealed product here",
+              "Four boxes or nothing; no single box on the shelf; $9.24 above MSRP per box"
+            ],
+            [
+              "WorthRipping market box",
+              "$127.65",
+              "$5.32",
+              "One English box at a time",
+              "$25.35 below our case box per box; 69 of 100 boxes lose money"
+            ],
+            [
+              "NerdSnack market box",
+              "$123.57",
+              "$5.15",
+              "One English box on the TCGplayer market read",
+              "$29.43 below our case box; 14.04% under MSRP"
+            ],
+            [
+              "Lowest listing box",
+              "$93.29",
+              "$3.89",
+              "The cheapest listing, if it is still there",
+              "A listing, not a sale; check the seller before paying"
+            ],
+            [
+              "The single (Iconic Mickey)",
+              "$1,871.37",
+              "n/a",
+              "Owning the chase card",
+              "3.06 cases; WorthRipping reads $1,865, $6.37 apart"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "Our case box sits $9.24 above it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the eBay case, the board, and the counted rate",
+        "note": "From the Warehouse: the question we get most in chat about Hyperia City is whether our $612.00 case is a misprint, because one screen shows a market box at $127.65 and another shows an eBay case at $625 to $709. It is not a misprint. Our case is four boxes at a shelf price set while the set was in print, the market box is what a single sealed box trades for now, and the eBay case is what four boxes sold for as a lot. We also get asked why our case box costs more than the market box when the market box is cheaper. The answer is the shelf: we sell sealed cases of four boxes only, and a case is not four loose boxes.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. Kontora ranks them on TCGplayer market from its November 26, 2026 price file, the Mickey at $1,871.37, and separates the chase from the playable cards. NerdSnack ranks them on TCGplayer market from its November 8, 2026 check, the Mickey near $1,861 and the Cinderella near $1,122, and prices the box and the pulls. WorthRipping prices the box and the pulls, but never prices the case.",
+          "The gap this page owns is threefold. The case against the market: no best-cards list prices sealed Hyperia City, yet the sealed price decides the buy: our case at $612.00 against completed eBay case sales of $625 to $709, $13.00 below the lowest sale, and a market box at $127.65 against $123.57, $4.08 apart. The second gap is the board: Hyperia City sits near the cheap end of our fifteen-case Lorcana board at $612.00, 6.02% of the $10,158.65 board, above Rise of the Floodborn at $428.40 and below The First Chapter at $1,485.26, $873.26 above it.",
+          "The third gap is the pull-rate conflict, and it is wider than any other set this year. NerdSnack's pooled count puts an Enchanted at about one in 100 packs, while The Deck Box counted 1,056 packs and found 15 Enchanteds, one in 70, and one Iconic. Kontora's tracker counted 6,240 packs and found an Enchanted at one in 95 and an Iconic at one in 891. NerdSnack's estimate puts the Iconic at one in 1,500 to 2,000 packs. The Enchanted rate spans one in 70 to one in 100 packs, and the Iconic rate spans one in 891 to one in 2,000 packs, so every chase figure below is labelled with the rate it runs on."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Mickey and the Cinderella are $2,887.15, 66.32% of the top ten; the Mickey alone is $1,871.37, 42.99%. The Mickey carries the sharpest printing trap in the set: Iconic 241 is an alternate-art version of a card in the set, so check the number, 241/204, before you pay an Iconic price. Only the Iconic 241 carries the $1,871.37 price, and only the Iconic 242 carries the Cinderella at $1,015.78.",
+          "The Enchanted rung splits in two. Ranks three to five, the Ariel at $334.93, the Belle at $228.54, and the Max Goof at $206.12, total $769.59, 17.68% of the ten. Ranks six to ten total $696.62, 16.00%: the Aurora at $177.77, the Rapunzel at $143.79, the Marie at $138.06, the Merlin at $124.37, and the Remember Me at $112.63. No Epic card cracks the top ten, and the Epic that moved most in the week to November 27, 2026, Flash, Epic 222, at $4.79, fell 14.3%, so no Epic carries chase value here.",
+          "One of each of the set's 254 priced versions costs $5,276.84 on TCGPursuit, November 27, 2026, and the top ten is $4,353.36 of that, 82.50%. Against Attack of the Vine, the Hyperia City top ten is $796.67 below the Attack of the Vine top ten of $5,150.03, at 0.85 times it, and against Fabled it is $8,464.74 below the Fabled top ten of $12,818.10, at 0.34 times it. The [Lorcana Wilds Unknown best cards guide](/blog/lorcana-wilds-unknown-best-cards/) runs the same ranking on set 12, and the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) runs it on set 11, where the top ten totals $5,139.92, $786.56 above this set."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 100 packs, one in 1,782 for the Mickey",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted or borrowed estimate, labelled as one. NerdSnack's pooled count puts an Enchanted at about one in 100 packs, and WorthRipping's estimate puts an Iconic at one in 1,800 packs, one in 75 boxes. The Deck Box counted 1,056 packs and found 15 Enchanteds, one in 70 packs, and one Iconic. Kontora's tracker counted 6,240 packs and found an Enchanted at one in 95 packs and an Iconic at one in 891. A case holds 0.96 Enchanted on the one-in-100 estimate and 1.37 on the counted one-in-70 rate, 0.11 Iconic on the counted rate and 0.05 on the WorthRipping estimate.",
+          "Eighteen Enchanteds share the one-in-100 slot, so one specific Enchanted averages 75 boxes, 1,800 packs, $11,475.00 of packs at our case price. Two Iconics share the one-in-891 slot, so one specific Iconic averages 74.25 boxes (18.56 cases), 1,782 packs, $11,358.72 of packs at our case price, and on the WorthRipping one-in-1,800 estimate the same chase averages 150 boxes, 3,600 packs, $22,950.00. The Iconic chase spans $11,358.72 to $22,950.00 depending on which estimate you trust, so buy the single.",
+          "The price risk: the WorthRipping box read $155.00 thirty days before November 26, 2026 and $127.65 on the day, down $27.35, down 17.65%, in a month. The 7-day movers table on TCGPursuit, November 27, 2026, has Don Karnage down 19.6% in a week, Shere Khan, Enchanted 231, at $51.53, down 13.7%, and Mulan, Enchanted 234, at $101.11, down 11.4%. The reseal risk: the box reads $127.65 on one feed and $93.29 as the lowest listing, so check the seal, wrap tension, and pack order before opening, as the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) sets out."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, a Coco debut, and the last set before Collector's Boosters",
+        "paragraphs": [
+          "Hyperia City is Disney Lorcana's fourteenth set, set 14 of 14. It prereleased on October 16, 2026 and reached wide retail on October 23, 2026, at $5.99 a pack and $143.76 a box. The set holds 204 regular cards, plus 18 Epic, 205 to 222, 18 Enchanted, 223 to 240, and 2 Iconic, 241 and 242, for 242 catalog versions. TCGPursuit counts 254 catalog versions including foil printings, all of them priced.",
+          "The set brings Coco characters into the game for the first time, and the headline mechanic is ink drops, carried by 45 cards in the set. The set closes the year that ran through Whispers in the Well, Winterspell, Wilds Unknown, and Attack of the Vine, and it is the last set before Into the Inkdark arrives in February 2027 with the first Collector's Boosters at $34.99 a pack.",
+          "Hyperia City is Core legal. Core Constructed now runs sets 9 to 14, Fabled through Hyperia City, with one banned card, My Adventure Book. Infinity Constructed keeps every set legal. Our Hyperia City stock is English only, with no Japanese case. The [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fifteen boxes the same way, and the [Disney Lorcana sealed case price guide](/blog/disney-lorcana-sealed-case-price/) prices every case."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Iconic: the Mickey averages 74.25 boxes (18.56 cases) on the counted rate, 1,782 packs, $11,358.72 of packs at our case price, and 150 boxes on the WorthRipping estimate, so buy the single. It is not for anyone who wants a single English box, because the only English product here is the four-box case. It is not for anyone who pays an Iconic price without checking the number, because only Iconic 241 carries the $1,871.37 Mickey price. It is not for anyone who needs the prices to hold."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Mickey, own the ten, hold the fourteenth set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Mickey, buy the single: $1,871.37 Iconic on the November 27, 2026 TCGplayer market read, and check the number, 241/204, because WorthRipping reads the same card at $1,865.",
+          "If the job is the ten, buy the English case at $612.00, four boxes at $153.00 each, and treat the Iconic as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $127.65, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, compare the case pack price, $6.38, against the market box pack price, $5.32, before you pay.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the number on any Mickey, because only Iconic 241 is $1,871.37."
+        ],
+        "h": "Action layer: the Hyperia City best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order. Every price here is stamped November 27, 2026, so re-divide before you pay. The [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "lorcana-hyperia-city-best-cards",
+    "takeaway": [
+      "The Hyperia City top ten, on TCGplayer market prices checked November 27, 2026, totals $4,353.36, and the Mickey is $1,871.37 of it, 42.99%. The two Iconics are $2,887.15, 66.32%, the top five are $3,656.74, 84.00%, and the bottom five are $696.62, 16.00%, against ranks three to five at $769.59, 17.68%. No Epic card cracks the top ten, and the Epic that moved most in the week to November 27, 2026, Flash at $4.79, fell 14.3%.",
+      "On our shelf as of November 27, 2026, there is exactly one Hyperia City product: the English sealed case at $612.00, four boxes at $153.00 a box, $6.38 a pack, $0.53 a card, $9.24 above the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Mickey is 3.06 cases and 12.23 case boxes. Our case sits $13.00 below the lowest completed eBay case sale of $625.00.",
+      "It is worth buying as the fourteenth set sealed at a shelf price below every completed eBay case sale, and it is not worth buying as a way to own one named Iconic. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the counted rate puts one specific Iconic at 74.25 boxes on average, 1,782 packs, $11,358.72 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Iconic as a bonus.",
+      "The Mickey has no single price: $1,871.37 on TCGplayer market via TCGPursuit, $1,865 on WorthRipping, both read November 23 to 27, 2026. Do not average the reads. Use the dated TCGplayer market read and re-check before paying, and read the number on any Mickey, because only Iconic 241 is $1,871.37.",
+      "One set back, the [Lorcana Attack of the Vine best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) runs the same ranking on set 13, where the top ten totals $5,150.03, $796.67 above this set, and the [Lorcana Wilds Unknown best cards guide](/blog/lorcana-wilds-unknown-best-cards/) ranks set 12, and the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11, where the top ten totals $5,139.92, $786.56 above this set.",
+      "Companion guide: the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, on TCGplayer market checked November 27, 2026, where the top ten totals $12,818.10, $8,464.74 above this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8, the last set rotated out of Core in July 2026.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
+      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "Next set: the [Lorcana Into the Inkdark preview](/blog/lorcana-into-the-inkdark-preview/) covers set 15, February 12, 2027, with Collector Boosters at $34.99 a pack and six Illustrious cards at 23 copies each."
+    ]
+  },
+  "lorcana-into-the-inkdark-preview": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "February 12, 2027, with prerelease events from February 5, 2027. Both dates come from the official Disney Lorcana site, checked November 27, 2026. Into the Inkdark is set 15 and the first set of 2027, a villains set led by Hades, and the next set after it, Cosmic Quest, is dated for Q2 2027.",
+        "q": "When does Lorcana Into the Inkdark come out?"
+      },
+      {
+        "a": "$34.99 a pack and $419.88 for a 12-pack box, as reported by Resell Calendar on September 23, 2026, and as our own November 10, 2026 booster box price guide states. Some sources round it to $35 a pack and $420 a box, and one report lists the box at $419.99. Miniature Market lists a Collector Booster box preorder at $399.99, checked November 27, 2026, which is $19.89 below the reported box price. Each pack holds 12 cards and every card is foil.",
+        "q": "How much do Into the Inkdark Collector Boosters cost?"
+      },
+      {
+        "a": "Illustrious is a new serialized rarity found only in Collector Boosters. Each set has six Illustrious cards and each is printed in 23 copies, so Into the Inkdark has 138 serialized cards in the world. The first two revealed are Maleficent, Biding Her Time, and The Evil Queen, Commanding Presence. Ravensburger has published no pull rates, so no honest odds exist yet, and Illustrious cards are not legal in Core Constructed. There is no card list, no set size, and no standard booster price announced as of November 27, 2026.",
+        "q": "What are Illustrious cards, and can I pull one?"
+      }
+    ],
+    "h1": "Lorcana Into the Inkdark Preview: February 12, 2027, Collector Boosters at $34.99, and 138 Illustrious Cards",
+    "intro": [
+      "Short answer: Disney Lorcana Into the Inkdark, set 15, prereleases February 5, 2027 and releases everywhere February 12, 2027, per the official Disney Lorcana site checked November 27, 2026. It is the first set of 2027, a villains set led by Hades, and it brings the first Collector Boosters, every card foil at $34.99 a pack and $419.88 for a 12-pack box, as reported September 23, 2026. It also brings Illustrious, a new serialized rarity found only in Collector Boosters: six cards per set, 23 copies of each, 138 in the world. Preorder the standard box only at a price you can defend, and treat the Collector Booster as a chase product, not a way to play.",
+      "Who this is for: players planning a 2027 buy, collectors budgeting for the first serialized Lorcana cards, and anyone deciding between a standard box and a Collector Booster box before February. Who it is not for: anyone who wants a card list before spending, anyone chasing one named Illustrious card, and anyone who needs Into the Inkdark product on our shelf today, because we hold none as of November 27, 2026."
+    ],
+    "metaDescription": "Into the Inkdark releases February 12, 2027: Collector Boosters at $34.99 a pack, 138 serialized Illustrious cards, and what is still unannounced.",
+    "metaTitle": "Lorcana Into the Inkdark: Dates, Prices, Preorder Guide",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: February 12, 2027, Collector Boosters, and 138 serialized cards",
+        "paragraphs": [
+          "Into the Inkdark is Disney Lorcana set 15, the first set of 2027. Prerelease events run from February 5, 2027 and the set releases everywhere February 12, 2027, per the official Disney Lorcana site checked November 27, 2026. It is a villains set led by Hades, and it follows Hyperia City, set 14, which reached wide release October 23, 2026. The next set after Inkdark is Cosmic Quest, set 16, dated for Q2 2027.",
+          "The product line, per ICv2, is Booster Displays, an Illumineer Trove, Prerelease Kits, the new Collector Boosters, and two playmats, one of Jack-Jack Parr and one of Snow White. The Collector Booster is the new product: 12 cards per pack, every card a premium foil, with fancier treatments for rarer cards, and Ravensburger says the odds of an Enchanted or Iconic card are much higher than in a standard booster. No number is attached to that claim, so treat it as a promise, not a rate.",
+          "Collector Boosters are also the only place to find Illustrious cards. The first two revealed are Maleficent, Biding Her Time, and The Evil Queen, Commanding Presence, and four remain unrevealed as of November 27, 2026. They will be sold only at select Ravensburger Play Hub stores, Disney Parks and Disney stores, and the Ravensburger online store, in limited quantities. That limited channel is the first thing to price into any preorder plan. The [Lorcana Attack of the Vine best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) runs the same priced ranking on set 13, the set that triggered the July 2026 rotation."
+        ]
+      },
+      {
+        "h": "The money layer: $34.99 a pack, divided",
+        "math": [
+          "Into the Inkdark Collector Booster pack vs standard pack: $34.99 / $5.99 = 5.84x",
+          "Into the Inkdark standard booster box at the previous set MSRP: 24 packs x $5.99 = $143.76",
+          "Into the Inkdark Collector Booster box per pack: $419.88 / 12 packs = $34.99 per pack",
+          "Into the Inkdark Collector Booster box vs standard box: $419.88 / $143.76 = 2.92x",
+          "Into the Inkdark Collector Booster per card: $34.99 / 12 cards = $2.92 per card",
+          "Into the Inkdark standard booster per card: $5.99 / 12 cards = $0.50 per card",
+          "Into the Inkdark Collector Booster box per card: $419.88 / 144 cards = $2.92 per card",
+          "Into the Inkdark standard booster box per card: $143.76 / 288 cards = $0.50 per card",
+          "Into the Inkdark Collector Booster box at Miniature Market: $419.88 - $399.99 = $19.89 saved",
+          "Into the Inkdark Miniature Market saving: $19.89 is 4.74% of $419.88",
+          "Into the Inkdark Miniature Market box per pack: $399.99 / 12 packs = $33.33 per pack",
+          "Into the Inkdark Miniature Market per-pack saving: $34.99 - $33.33 = $1.66 per pack",
+          "Into the Inkdark Illustrious total: 6 cards x 23 copies = 138 serialized cards",
+          "Into the Inkdark TCGplayer presale standard box vs MSRP box: $292.58 - $143.76 = $148.82 above",
+          "Into the Inkdark TCGplayer presale standard box vs MSRP box: $292.58 / $143.76 = 2.04x",
+          "Into the Inkdark TCGplayer presale Collector Booster box vs MSRP box: $1,349.75 - $419.88 = $929.87 above",
+          "Into the Inkdark TCGplayer presale Collector Booster box vs MSRP box: $1,349.75 / $419.88 = 3.21x",
+          "Into the Inkdark TCGplayer presale Collector Booster box lowest vs MSRP box: $1,270 - $419.88 = $850.12 above",
+          "Hyperia City release week to six weeks later: $175 - $124 = $51; $51 is 29.14% of $175",
+          "Hyperia City WorthRipping market box vs release week: $175 - $127.65 = $47.35; $47.35 is 27.06% of $175",
+          "Hyperia City box at $124 vs MSRP box: $143.76 - $124 = $19.76 below; $124 / $143.76 = 0.86x",
+          "Hyperia City box at $124: $124 / 24 packs = $5.17 per pack",
+          "Hyperia City English sealed case per box: $612 / 4 boxes = $153.00 per box",
+          "Hyperia City English sealed case per pack: $612 / 96 packs = $6.38 per pack",
+          "Hyperia City case box vs MSRP box: $153.00 - $143.76 = $9.24 above; $153.00 / $143.76 = 1.06x",
+          "Lorcana board average case: $10,158.65 / 15 cases = $677.24 per case",
+          "Into the Inkdark Collector Booster box vs Hyperia City market box: $419.88 - $127.65 = $292.23; $419.88 / $127.65 = 3.29x"
+        ],
+        "paragraphs": [
+          "A Collector Booster pack costs $34.99, as reported by Resell Calendar on September 23, 2026, and a standard booster pack costs $5.99 at the previous set MSRP, so the Collector pack is 5.84 times the standard pack. Per card, the gap is the same shape: $2.92 a card in a Collector Booster against $0.50 a card in a standard pack, because both packs hold 12 cards. There is no box discount: a 12-pack Collector Booster box is $419.88, which divides to $34.99 a pack, and 144 cards at $2.92 a card. A 24-pack standard box at the previous set MSRP is $143.76, or $0.50 a card across 288 cards, so the Collector box is 2.92 times the standard box for half the packs.",
+          "Miniature Market lists a Collector Booster box preorder at $399.99, checked November 27, 2026, which is $19.89 below $419.88, or 4.74%, and $33.33 a pack, $1.66 below the loose pack price per pack. Some sources round it to $35 a pack and $420 a box, and one report lists the box at $419.99, so treat $419.88 as the reported figure and $420 as the rounded one. The presale listings sit far above both: TCGplayer presale lists the standard booster box at $292.58 and the Collector Booster box at $1,349.75, with a lowest Collector box listing of $1,270, checked November 27, 2026. Those are listings, not shelf prices.",
+          "Our shelf, November 27, 2026, carries no Into the Inkdark product at all. The newest set we hold is Hyperia City, an English sealed case at $612.00, four boxes at $153.00 a box, $6.38 a pack, $9.24 above the MSRP box per box. The full Lorcana board is 15 cases at $10,158.65, or $677.24 a case on average. The [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) carries the full fourteen-case board, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case the same way."
+        ]
+      },
+      {
+        "h": "The decision layer: standard booster, Collector Booster, or wait",
+        "paragraphs": [
+          "The table below is the verdict in one view: five ways to spend on Into the Inkdark, plus sealed Lorcana today.",
+          "Read the standard box row twice. Its price is unannounced as of November 27, 2026, so the $143.76 figure is the previous set MSRP benchmark, not this set price, and the $292.58 figure is a presale listing, not a shelf price. The Collector Booster box row is the only row with a reported price, $419.88, and a retailer preorder under it, $399.99. The wait row has no price at all, and for most buyers it is the right row. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides every case to per-box prices, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) prices every case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Standard booster box (MSRP benchmark)",
+              "$143.76",
+              "$5.99",
+              "Playing the set; the cheapest way to open 24 packs",
+              "Price unannounced for this set; presale listings sit at $292.58, 2.04 times the benchmark"
+            ],
+            [
+              "Collector Booster box (reported)",
+              "$419.88",
+              "$34.99",
+              "Chasing Illustrious and all-foil Enchanteds and Iconics",
+              "2.92 times a standard box; 12 packs, not 24; limited stores only"
+            ],
+            [
+              "Collector Booster box (Miniature Market preorder)",
+              "$399.99",
+              "$33.33",
+              "The cheapest reported Collector box",
+              "$19.89 below reported price; preorder only; supply unconfirmed"
+            ],
+            [
+              "Wait for release week",
+              "No price yet",
+              "n/a",
+              "Paying a shelf price after the presale premium fades",
+              "Hyperia City fell 29.14% in six weeks, so waiting can also mean watching the price fall"
+            ],
+            [
+              "Buy Hyperia City case now",
+              "$612.00",
+              "$153.00 a box, $6.38 a pack",
+              "Sealed Lorcana today, on our shelf now",
+              "It is set 14, not set 15; $9.24 above the MSRP box per box"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other Inkdark previews miss: the four unannounced facts",
+        "note": "From the Warehouse: the question we get most in chat about Into the Inkdark is whether we stock the Collector Booster box yet. We do not, as of November 27, 2026, and no retailer price we have seen for it is a shelf price we can match: the $419.88 figure is a reported price, the $399.99 figure is one retailer preorder, and the $1,349.75 figure is a presale listing. We will list Into the Inkdark only when we hold the product, and we will price it from our own shelf, not from a presale screen.",
+        "paragraphs": [
+          "The previews agree on the dates and the prices and stop there. NerdSnack, updated November 27, 2026, carries the February dates, the $35 and $420 rounded prices, the Miniature Market preorder, and the TCGplayer presale listings. Shonen TCG carries the dates, the six Illustrious cards at 23 copies each, and the standard versus Collector table. Hardcore Collectors carries the dates, the ICv2 product line, and the warning that pull rates have not been published. None of them prices what the missing facts do to a preorder, and that is the gap this page owns.",
+          "Four facts are unannounced as of November 27, 2026, and each blocks a different decision. There is no full card list, so no card can be ranked and no chase can be priced. There is no set size, so no one can say how many cards a master set holds. There is no standard booster MSRP for this set, so no box can be priced against a sticker, only against the $143.76 benchmark. There is no Collector Booster pull structure: no Enchanted rate, no Iconic rate, and no Illustrious rate, only Ravensburger word that the odds are much higher. A preorder placed before those four facts land is a bet on a price for contents no one has seen.",
+          "What to watch, in order: the official Disney Lorcana product page for the card list and the standard price, ICv2 for the product line and allocations, and the prerelease on February 5, 2027, when the first packs open and the first real pull data appears. Until then, any odds, any ranked card list, and any expected value figure for Into the Inkdark is invented. The [Lorcana Wilds Unknown best cards guide](/blog/lorcana-wilds-unknown-best-cards/) shows what a ranked list looks like once a set has real prices, and the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) does the same for set 11."
+        ]
+      },
+      {
+        "h": "The chase ladder: 138 serialized cards in the world",
+        "paragraphs": [
+          "Six Illustrious cards per set, 23 copies of each, is 138 serialized cards for the whole world, and Into the Inkdark is the first set to print them. That is the entire supply, spread across every Collector Booster printed. The first two revealed are Maleficent, Biding Her Time, and The Evil Queen, Commanding Presence, and the other four are unrevealed as of November 27, 2026. Each card is serial-numbered, and the number 23 is a nod to D23. Nothing Lorcana has printed before is this rare.",
+          "What is knowable is short and exact. The cards exist only in Collector Boosters, so a standard pack can never hold one. They are not legal in Core Constructed, per hobby press reporting checked November 27, 2026, so their value comes from print run, art, and serial number, not from play. A buyer who needs Maleficent or the Evil Queen in a deck should buy the regular version and leave the Illustrious copy to collectors. What is unknowable is everything that decides whether a pack is worth opening: how many Collector Boosters will be printed, how the 138 cards are spread across them, and what any one pack chance is. Ravensburger has published no pull rates for any Lorcana set.",
+          "Hold the chase ladder as two rungs. The bottom rung is the Collector Booster itself: 12 foil cards for $34.99, with better Enchanted and Iconic odds that no one has numbered. The top rung is the Illustrious card: one of 138, with no published odds and no price until the first copies sell. A buyer who pays $419.88 for a box is buying twelve shots at the bottom rung and a dream of the top rung."
+        ]
+      },
+      {
+        "h": "The risk layer: presale prices and the Hyperia slide",
+        "paragraphs": [
+          "The presale market prices the Illustrious dream, not the product. A standard booster box lists at $292.58 on TCGplayer presale as of November 27, 2026, $148.82 above the $143.76 previous-set MSRP benchmark, or 2.04 times it. A Collector Booster box lists at $1,349.75 on TCGplayer presale, $929.87 above the $419.88 reported price, or 3.21 times it, with the lowest listing at $1,270, still $850.12 above it. Presale sellers are charging for the chance at one of 138 cards.",
+          "The last set shows what a new Lorcana box does after release. Hyperia City sold for about $175 in its release week and is down to $124 six weeks later, per NerdSnack on November 27, 2026, a fall of $51, or 29.14%. WorthRipping reads the Hyperia City market box at $127.65 on November 26, 2026, $47.35 below release week, or 27.06% down. Attack of the Vine slid for 15 weeks before it found its low, per Chase Society. A preorder at two or three times the benchmark locks in the top. The [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) sets out how to check a listing before paying, and the [sealed case versus booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+          "The Collector Booster carries its own risks on top of the price. It is sold only through select Ravensburger Play Hub stores, Disney Parks and stores, and the Ravensburger online store, so supply on release day may be patchy and scalped pricing is the pattern every preview warns about. A $34.99 pack buys 12 foil cards of unknown contents, because there is no card list and no pull rate. The Trove, the Prerelease Kit, and the playmats carry no such risk, but their prices are also unannounced, so none of them can be budgeted exactly yet."
+        ]
+      },
+      {
+        "h": "Context: set 15, Core sets 9 to 14, and Cosmic Quest after it",
+        "paragraphs": [
+          "Into the Inkdark is set 15 of a game that had fourteen sets in November 2026. Hyperia City, set 14, prereleased October 16, 2026 and reached wide release October 23, 2026. Attack of the Vine, set 13, prereleased July 17, 2026 and triggered the rotation that day, when sets 5 to 8 left Core. Core Constructed now runs sets 9 to 14, Fabled through Hyperia City, with one banned card, My Adventure Book, and Infinity keeps every set legal. Into the Inkdark enters Core on its February 12, 2027 release, while its Illustrious cards stay outside Core. The [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9, the oldest set still Core legal, and the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10.",
+          "Cosmic Quest, set 16, follows in Q2 2027, and it takes the game into space, with Ariel and Flounder in space suits, Stitch and his experiments, and the first Lorcana cards for WALL-E and EVE, per Ravensburger announcements reported September 22, 2026. No exact date has been set, and a seventeenth set has been teased for late 2027. A buyer planning the year should budget for two sets, not one, and should not spend the Cosmic Quest budget on an Inkdark presale at three times the reported price."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone who wants to play on a budget, because the play product is the standard booster, its price for this set is unannounced, and the Collector Booster at $34.99 a pack is the wrong product for that job. It is not for anyone chasing one named Illustrious card, because there are 23 copies of it in the world and no pull rates have been published. It is not for anyone who needs a card list before spending, because there is none yet. It is not for anyone buying presale listings at two or three times the reported price, because the Hyperia City box fell 29.14% in six weeks after release. And it is not for anyone who wants Into the Inkdark product from our shelf today, because we hold none."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: play the set, chase Illustrious, or hold sealed, and buy only the product that does that job.",
+          "If the job is play, wait for the standard booster box and pay no more than the $143.76 MSRP benchmark from the previous set until Ravensburger announces this set price.",
+          "If the job is the Collector Booster, budget $419.88 a box or $399.99 at Miniature Market preorder, checked November 27, 2026, and buy only from a Play Hub store, a Disney Park or store, or Ravensburger online.",
+          "Do not pay presale prices: $292.58 for a standard box and $1,349.75 for a Collector Booster box are presale listings, not shelf prices, as of November 27, 2026.",
+          "Mark February 5, 2027 for prerelease and February 12, 2027 for release, and check the card list when Ravensburger publishes it before you spend.",
+          "If you want sealed Lorcana now, buy what is on the shelf: the Hyperia City English sealed case at $612.00, four boxes at $153.00 each, and confirm exact shipping at checkout or on WhatsApp."
+        ],
+        "h": "Action layer: the Into the Inkdark preorder checklist",
+        "paragraphs": [
+          "Carry this list in order. Every price here is stamped November 27, 2026, so re-divide before you pay, and re-check the card list, the set size, and the standard price the moment Ravensburger announces them. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "lorcana-into-the-inkdark-preview",
+    "takeaway": [
+      "Into the Inkdark, set 15, prereleases February 5, 2027 and releases everywhere February 12, 2027, per the official Disney Lorcana site checked November 27, 2026. It is the first set of 2027, a villains set led by Hades, and it brings the first Collector Boosters and the new serialized Illustrious rarity: six cards per set, 23 copies of each, 138 serialized cards in the world.",
+      "A Collector Booster pack is $34.99 as reported September 23, 2026, 5.84 times the $5.99 standard pack, and a 12-pack box is $419.88, 2.92 times the $143.76 standard box at the previous set MSRP. Per card, the Collector Booster is $2.92 against $0.50 for a standard pack. Miniature Market lists a Collector Booster box preorder at $399.99, $19.89 below the reported price, or 4.74%.",
+      "On our shelf as of November 27, 2026, there is no Into the Inkdark product at all. The newest set we hold is Hyperia City, an English sealed case at $612.00, four boxes at $153.00 a box, $6.38 a pack, $9.24 above the MSRP box per box. The full Lorcana board is 15 cases at $10,158.65, or $677.24 a case on average.",
+      "Four facts are unannounced as of November 27, 2026: the full card list, the set size, the standard booster MSRP for this set, and the Collector Booster pull structure. No card can be ranked, no box can be priced against a sticker, and no honest odds exist until Ravensburger announces them.",
+      "Do not pay presale prices. A standard booster box lists at $292.58 on TCGplayer presale, 2.04 times the $143.76 benchmark, and a Collector Booster box lists at $1,349.75, 3.21 times the $419.88 reported price, with the lowest listing at $1,270. Those are listings, not shelf prices.",
+      "The last set shows what a new Lorcana box does after release: Hyperia City sold for about $175 in its release week and is down to $124 six weeks later, a fall of $51, or 29.14%, per NerdSnack on November 27, 2026, and WorthRipping reads it at $127.65 on November 26, 2026. A preorder at two or three times the benchmark locks in the top of that fall.",
+      "Into the Inkdark enters Core on February 12, 2027, where Core now runs sets 9 to 14, Fabled through Hyperia City, and Cosmic Quest, set 16, follows in Q2 2027 with the first WALL-E and EVE cards. Illustrious cards are not legal in Core Constructed, so their value comes from print run, art, and serial number, not from play.",
+      "Companion guides: the [Lorcana Attack of the Vine best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) ranks set 13 the same way, the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) carries the full fourteen-case board, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "The newest set we hold is Hyperia City: the [Lorcana Hyperia City best cards guide](/blog/lorcana-hyperia-city-best-cards/) ranks its top ten at $4,353.36, with the Mickey at $1,871.37."
     ]
   },
   "lorcana-into-the-inklands-best-cards": {
@@ -50388,7 +50827,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) runs the same ranking on set 10, the set before Winterspell, and the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8, where the case box sits far below this one, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs it on set 7, where the top ten totals $1,926.86. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Wilds Unknown at $269.46 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf.",
       "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
       "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp.",
-      "One set on, the [Lorcana Attack of the Vine! best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) ranks set 13 the same way, with the Belle and Beast at $1,687.41 and the top ten at $5,150.03, on TCGplayer market checked November 27, 2026."
+      "One set on, the [Lorcana Attack of the Vine! best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) ranks set 13 the same way, with the Belle and Beast at $1,687.41 and the top ten at $5,150.03, on TCGplayer market checked November 27, 2026.",
+      "The next set after Hyperia City is Into the Inkdark: the [Lorcana Into the Inkdark preview](/blog/lorcana-into-the-inkdark-preview/) covers its February 12, 2027 release, Collector Boosters at $34.99 a pack, and six Illustrious cards at 23 copies each."
     ]
   },
   "lorcana-winterspell-best-cards": {
