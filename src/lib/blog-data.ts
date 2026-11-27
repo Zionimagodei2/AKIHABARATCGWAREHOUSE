@@ -191,6 +191,237 @@ export const POSTS: Record<string, BlogPost> = {
       "If the question is which sealed special set to hold rather than which card to chase, the [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional boxes, the anniversary ladder, and the themed sets from one shelf."
     ]
   },
+  "b32-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Son Gohan, Beast Beyond Ultimate, Secret Rare BT32-155, at $240 on the Scouter market read of November 26, 2026, for an ungraded English card. The three God Rares and two of the three Secret Rares have no verifiable market price as of November 27, 2026, so the Gohan is the most valuable card with a price today, not necessarily the most valuable card in the set.",
+        "q": "What is the most valuable B32 card?"
+      },
+      {
+        "a": "The English sealed case is $1,067.43, twelve boxes at $88.95 a box, $4.45 a pack, as of November 27, 2026. That is $30.85 below the $119.80 MSRP box per box, $370.17 below the $1,437.60 MSRP case, and $75.47 below the $164.42 WorthRipping market box per box. Buy the case to hold B32 sealed or to open cheap packs; buy the single to own the Gohan.",
+        "q": "Is the B32 case on your shelf a good price?"
+      },
+      {
+        "a": "Bandai publishes no pull rates for Masters. WorthRipping's estimates, checked October 24, 2026 and borrowed from boxes with the same pack layout, are Special Rare 1 in 11 packs, Secret Rare 1 in 144 packs, and God Rare 1 in 998 packs. On those estimates a case holds 1.67 Secret Rares and 0.24 God Rares on average, and one specific God Rare averages 12.48 cases, $13,321.53 of packs at our case price.",
+        "q": "What are the B32 pull rates?"
+      }
+    ],
+    "h1": "B32 Chromatic Ascension Best Cards: The 8 With a Price, Priced Against Our $1,067.43 Case",
+    "intro": [
+      "Short answer: the best B32 card with a price today is the Son Gohan, Beast Beyond Ultimate, Secret Rare BT32-155, at $240 on the Scouter market read of November 26, 2026, and the eight priced cards add to $779. Our shelf, November 27, 2026, carries the English sealed case at $1,067.43: twelve boxes at $88.95 a box, $4.45 a pack, $0.37 a card, $30.85 below the $119.80 MSRP box per box and $75.47 below the $164.42 market box. Buy the case to hold B32 sealed or to open the cheapest packs on the shelf, buy the single to own the Gohan, and do not chase the God Rares by opening boxes: two Secret Rares and all three God Rares have no verifiable market price on release day.",
+      "Who this is for: collectors ranking the B32 chase on release day, buyers weighing a twelve-box case against a $164.42 market box, and players building from the set that brings multicolor Leaders back. Who it is not for: anyone chasing one named God Rare by opening boxes; anyone who wants a single English box; and anyone who needs release-day prices to hold."
+    ],
+    "metaDescription": "B32's 8 priced cards on Scouter market, Nov 26, 2026: the $240 Gohan SCR, the $99 Gogeta Concept Rare, and our $1,067.43 case at $88.95 a box.",
+    "metaTitle": "B32 Chromatic Ascension Best Cards: 8 Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: eight priced cards, six unpriced chase versions, and a case below every market box",
+        "paragraphs": [
+          "Every value below is a Scouter market price for an ungraded English card, read November 26, 2026, the day before release. Son Gohan, Beast Beyond Ultimate (Secret Rare) BT32-155 is $240. SS4 Gogeta, Ceaseless Evolution (Concept Rare) BT32-146 is $99, and Broly // SS Broly, Boundless Evolution (Special Leader Rare) BT32-130 is $99. Then SSG Son Goku, Ceaseless Evolution (Concept Rare) BT32-147 at $80, SSB Gogeta, Azure God's Attack (Special Rare) BT32-126 at $79, SS Broly, Ultimate Awakening (Special Rare) BT32-132 at $75, Ultra Instinct Son Goku, Ceaseless Evolution (Concept Rare) BT32-152 at $75, and SS Bardock, Vindicating Attack (Special Rare) BT32-006 at $32. The eight add to $779.",
+          "The Gohan is $240, 30.81% of the eight and 2.42 times the next card; the top two are $339, 43.52%, the top three $438, 56.23%, the top five $597, 76.64%. Ranks four to eight total $341, 43.77%, and the bottom three $182, 23.36%. The Gohan is 7.50 times the eighth card at $32, and 2.70 case boxes. Six chase versions that should top this list are missing on purpose: the Secret Rare and God Rare of SSB Vegito and SS4 Gogeta, Crimson and Azure Contest (BT32-154) and of Son Goku, Fierce Battle (BT32-156), the God Rare of BT32-155, and the Anniversary God Rare have no verifiable market price as of November 27, 2026. OGcards prices only 5 of 258 versions, for a partial set cost of $729.00, and WorthRipping carries no card prices yet for B32, so this page ranks the eight cards a buyer can price today and names the six it cannot.",
+          "Check the number and the finish before you pay a chase price: BT32-155 exists as a Secret Rare and as a God Rare, and only the Secret Rare carries the $240 read; the God Rare of the same number has no price yet. The same split applies to BT32-154 and BT32-156, and the Concept Rares are a separate eleven-card set, BT32-143 to BT32-153, so a Concept Rare price is never a Secret Rare price. The [best Dragon Ball Masters booster box to buy guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) ranks the Masters boxes the same way, and the [FB11 best cards guide](/blog/fb11-best-cards/) runs this ranking on the newest Fusion World set."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "B32 English case per box: $1,067.43 / 12 boxes = $88.95 per box",
+          "B32 English case per pack: $1,067.43 / 240 packs = $4.45 per pack",
+          "B32 English case per card: $1,067.43 / 2,880 cards = $0.37 per card",
+          "B32 English box at MSRP: 20 packs x $5.99 = $119.80",
+          "B32 English MSRP case: 12 x $119.80 = $1,437.60",
+          "B32 English case vs MSRP case: $1,437.60 - $1,067.43 = $370.17 below MSRP; $1,067.43 / $1,437.60 = 0.74x",
+          "B32 English case box vs MSRP box: $119.80 - $88.95 = $30.85 below MSRP per box; $88.95 / $119.80 = 0.74x",
+          "B32 English case pack vs MSRP pack: $5.99 - $4.45 = $1.54; $4.45 / $5.99 = 0.74x",
+          "B32 English case in yen: $1,067.43 x 159.54 yen = 170,297.78 yen",
+          "B32 English case box in yen: $88.95 x 159.54 yen = 14,191.08 yen",
+          "B32 WorthRipping market box per pack at 20 packs: $164.42 / 20 packs = $8.22 per pack",
+          "B32 WorthRipping market box vs case box: $164.42 - $88.95 = $75.47 per box; $88.95 / $164.42 = 0.54x",
+          "B32 twelve WorthRipping market boxes: 12 x $164.42 = $1,973.04",
+          "B32 case vs twelve WorthRipping market boxes: $1,973.04 - $1,067.43 = $905.61; $1,067.43 / $1,973.04 = 0.54x",
+          "B32 PullNomics market box per pack at 20 packs: $164.66 / 20 packs = $8.23 per pack",
+          "B32 case box vs PullNomics market box: $164.66 - $88.95 = $75.71 per box; $88.95 / $164.66 = 0.54x",
+          "B32 twelve PullNomics market boxes: 12 x $164.66 = $1,975.92; $1,975.92 - $1,067.43 = $908.49",
+          "B32 Legacy Comics box per pack: $159.99 / 20 packs = $8.00 per pack",
+          "B32 case box vs Legacy Comics box: $159.99 - $88.95 = $71.04 per box; $88.95 / $159.99 = 0.56x",
+          "B32 Black Panther box per pack: $139.98 / 20 packs = $7.00 per pack",
+          "B32 case box vs Black Panther box: $139.98 - $88.95 = $51.03 per box; $88.95 / $139.98 = 0.64x",
+          "B32 WorthRipping market box vs MSRP box: $164.42 - $119.80 = $44.62 above MSRP; $164.42 / $119.80 = 1.37x",
+          "B32 WorthRipping lowest listing vs case box: $153.40 - $88.95 = $64.45; $88.95 / $153.40 = 0.58x",
+          "B32 eBay market box vs case box: $196.39 - $88.95 = $107.44 per box; $88.95 / $196.39 = 0.45x",
+          "B32 presale box to market box: $527.29 - $164.42 = $362.87; $362.87 is 68.82% of $527.29",
+          "B32 TCGplayer presale box to market box: $488.90 - $164.42 = $324.48; $324.48 is 66.37% of $488.90",
+          "B32 top 8 total: $240.00 + $99.00 + $99.00 + $80.00 + $79.00 + $75.00 + $75.00 + $32.00 = $779.00",
+          "B32 Gohan share: $240.00 / $779.00 = 30.81% of the top 8",
+          "B32 top 2 total: $240.00 + $99.00 = $339.00; $339.00 / $779.00 = 43.52% of the top 8",
+          "B32 top 3 total: $240.00 + $99.00 + $99.00 = $438.00; $438.00 / $779.00 = 56.23% of the top 8",
+          "B32 top 5 total: $240.00 + $99.00 + $99.00 + $80.00 + $79.00 = $597.00; $597.00 / $779.00 = 76.64% of the top 8",
+          "B32 ranks 4 to 8 total: $80.00 + $79.00 + $75.00 + $75.00 + $32.00 = $341.00; $341.00 / $779.00 = 43.77% of the top 8",
+          "B32 bottom 3 total: $75.00 + $75.00 + $32.00 = $182.00; $182.00 / $779.00 = 23.36% of the top 8",
+          "B32 Gohan vs second card: $240.00 / $99.00 = 2.42x",
+          "B32 Gohan vs eighth card: $240.00 / $32.00 = 7.50x",
+          "B32 Gohan against the case: $240.00 / $1,067.43 = 0.22x",
+          "B32 Gohan against the case box: $240.00 / $88.95 = 2.70x",
+          "B32 Gohan against the MSRP box: $240.00 / $119.80 = 2.00x",
+          "B32 top 8 against the case: $779.00 / $1,067.43 = 0.73x",
+          "B32 top 8 against the case box: $779.00 / $88.95 = 8.76x",
+          "B32 top 8 against the MSRP case: $779.00 / $1,437.60 = 0.54x",
+          "B32 Special Rare per 20-pack box on the WorthRipping estimate: 20 packs / 11 packs per Special Rare = 1.82 per box",
+          "B32 Special Rare per case on the WorthRipping estimate: 240 packs / 11 packs per Special Rare = 21.82 per case",
+          "B32 Secret Rare per 20-pack box on the WorthRipping estimate: 20 packs / 144 packs per Secret Rare = 0.14 per box; 144 packs / 20 packs = 1 in 7.20 boxes",
+          "B32 Secret Rare per case on the WorthRipping estimate: 240 packs / 144 packs per Secret Rare = 1.67 per case",
+          "B32 God Rare per 20-pack box on the WorthRipping estimate: 20 packs / 998 packs per God Rare = 0.02 per box; 998 packs / 20 packs = 1 in 49.90 boxes",
+          "B32 God Rare per case on the WorthRipping estimate: 240 packs / 998 packs per God Rare = 0.24 per case",
+          "B32 specific Secret Rare chase on the WorthRipping estimate: 144 packs x 3 Secret Rares = 432 packs; 432 packs / 20 packs = 21.60 boxes; 21.60 boxes / 12 boxes = 1.80 cases; 1.80 cases x $1,067.43 = $1,921.37",
+          "B32 specific God Rare chase on the WorthRipping estimate: 998 packs x 3 God Rares = 2,994 packs; 2,994 packs / 20 packs = 149.70 boxes; 149.70 boxes / 12 boxes = 12.48 cases; 12.48 cases x $1,067.43 = $13,321.53",
+          "B32 specific Secret Rare per case on the WorthRipping estimate: 240 packs / 432 packs = 0.56 per case",
+          "B32 specific God Rare per case on the WorthRipping estimate: 240 packs / 2,994 packs = 0.08 per case",
+          "B32 case against the B20-B32 board: $1,067.43 / $23,863.20 = 4.47% of the board",
+          "B32 case vs B25 case: $1,067.43 - $1,049.83 = $17.60; $1,067.43 / $1,049.83 = 1.02x",
+          "B32 case vs B28 case: $1,085.02 - $1,067.43 = $17.59; $1,067.43 / $1,085.02 = 0.98x",
+          "B32 case vs B31 case: $1,536.63 - $1,067.43 = $469.20; $1,067.43 / $1,536.63 = 0.69x",
+          "B32 case vs B20 case: $1,819.31 - $1,067.43 = $751.88; $1,067.43 / $1,819.31 = 0.59x",
+          "B32 case vs B27 case: $7,917.75 - $1,067.43 = $6,850.32; $1,067.43 / $7,917.75 = 0.13x",
+          "B27 case against the B20-B32 board: $7,917.75 / $23,863.20 = 33.18% of the board",
+          "B20-B32 board without B27: $23,863.20 - $7,917.75 = $15,945.45; $1,067.43 / $15,945.45 = 6.69% of the board",
+          "B31 case box: $1,536.63 / 12 boxes = $128.05 per box; $128.05 - $88.95 = $39.10; $88.95 / $128.05 = 0.69x",
+          "B31 case pack: $128.05 / 24 packs = $5.34 per pack; $5.34 - $4.45 = $0.89; $4.45 / $5.34 = 0.83x",
+          "B31 case box vs B31 market box: $222.87 - $128.05 = $94.82; $128.05 / $222.87 = 0.57x"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: twelve boxes, twenty packs each, twelve cards each, 240 packs and 2,880 cards. The case is $1,067.43, or $88.95 a box, $4.45 a pack, and $0.37 a card, as of November 27, 2026. Twenty packs at $5.99 MSRP are $119.80 a box, so the case box sits $30.85 below MSRP, at 0.74 times the MSRP box, and the case sits $370.17 below the $1,437.60 MSRP case. At 159.54 yen to the dollar on November 27, 2026, the case is 170,297.78 yen and the box is 14,191.08 yen. Legacy Comics confirms the case count: one case is twelve displays.",
+          "The market box reads agree within a quarter: WorthRipping prices the box at $164.42 on November 27, 2026, with a lowest listing of $153.40, and PullNomics prices the TCGplayer market box at $164.66. WorthRipping's own per-pack figure is $6.85, but it divides by 24 packs, the old box size; Bandai lists 20 packs for B32, so the market box is $8.22 a pack on the real pack count, and the PullNomics box is $8.23. Our case box is $75.47 below the WorthRipping box and $75.71 below the PullNomics box per box. Twelve WorthRipping boxes cost $1,973.04, $905.61 above our case. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Dragon Ball Fusion World booster box price guide](/blog/dragon-ball-fusion-world-booster-box-price/) already divides this B32 case to $88.95 a box.",
+          "Two retailer boxes sit between the market box and the case box: Legacy Comics at $159.99, $8.00 a pack, $71.04 above our case box per box, and Black Panther Sports Cards at $139.98, $7.00 a pack, $51.03 above our case box, and out of stock. The eight priced cards total $779, 0.73 times the case and 8.76 times one case box, so one case box does not buy the eight, and the Gohan alone is 2.70 case boxes. The top eight are 0.54 times the MSRP case: the whole priced chase costs little more than half a case at launch prices."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the verdict in one view: six ways to spend on B32.",
+          "The case row is the only row on our shelf, $75.47 below the market box and $30.85 below the MSRP box per box. Twelve market boxes cost $1,973.04, and the top eight is 0.39 times that. The [Dragon Ball Fusion World booster box guide](/blog/dragon-ball-fusion-world-booster-box/) prices the other line's boxes the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (12)",
+              "$1,067.43",
+              "$88.95 a box, $4.45 a pack",
+              "Holding B32 sealed or opening the cheapest packs on the shelf",
+              "Twelve boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "WorthRipping market box",
+              "$164.42",
+              "$8.22",
+              "One box at a time",
+              "$75.47 above our case box per box; the page still shows the old 24-pack layout"
+            ],
+            [
+              "PullNomics TCGplayer market box",
+              "$164.66",
+              "$8.23",
+              "One box on the TCGplayer market read",
+              "$75.71 above our case box per box"
+            ],
+            [
+              "Lowest listing box",
+              "$153.40",
+              "$7.67",
+              "The cheapest listing, if it is still there",
+              "A listing, not a sale; check the seller before paying"
+            ],
+            [
+              "The single (Gohan SCR)",
+              "$240.00",
+              "n/a",
+              "Owning the chase card",
+              "2.70 case boxes; the God Rare of the same number has no price yet"
+            ],
+            [
+              "MSRP box",
+              "$119.80",
+              "$5.99",
+              "The launch price, for reference",
+              "Our case box sits $30.85 below it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no ranked list, no shelf, no case math",
+        "note": "From the Warehouse: the question we get most in chat about B32 is why our case box costs $88.95 when the market box is $164.42, and whether the $88.95 is a misprint. It is not a misprint. Our case is twelve boxes at a shelf price set before release, the market box is what one sealed box trades for on release day, and the two prices answer different questions. We also get asked whether to buy the case to pull the Anniversary God Rare. The answer is no: a 200-copy card, if the distributor count is right, is not a plan, it is a lottery ticket with a $1,067.43 entry fee.",
+        "paragraphs": [
+          "No ranked B32 best-cards list exists yet. The top results are card lists, not rankings: OGcards lists all 184 card listings with prices on only 5 of 258 versions, cardnews.io prints the rarity table and the December 4, 2026 European date, and WorthRipping prices the box and the pull rates but carries no card prices. None of them ranks a single card, and none prices sealed B32.",
+          "The gap this page owns is threefold. First, the priced eight: Scouter's November 26, 2026 read is the only dated market read on individual B32 cards, and this page ranks all eight instead of naming three chase cards and stopping. Second, the unpriced grails: the two Secret Rares and three God Rares with no price are named here and left out of the ranking, with the reason stated, instead of being given a presale ask dressed as a market price. Third, the case: no best-cards list prices sealed B32, yet the sealed price decides the buy, and our case at $1,067.43 sits below every market box read and $370.17 below the MSRP case.",
+          "The set reads disagree, and the disagreement is worth stating: OGcards' partial set cost is $729.00 across 5 priced versions, ValueMyCard puts the 184-card set at $928.00, and the eight Scouter cards alone total $779.00. Do not average the reads: they price different slices of the set on different feeds. The [FB10 best cards guide](/blog/fb10-best-cards/) runs the same ranking on the Fusion World set before this one."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Gohan and the two $99 cards are $438, 56.23% of the eight. The Gohan alone is $240, 30.81%, and the SS4 Gogeta Concept Rare and the Broly Special Leader Rare tie at $99 each. Three Concept Rares sit in the eight, at $99, $80, and $75, totalling $254, 32.60% of the eight: the Concept Rare set is the second chase tier, not a footnote. Three Special Rares sit in the eight too, at $79, $75, and $32, totalling $186, 23.88%. One Special Leader Rare cracks the eight, the Broly at $99, and one Secret Rare, the Gohan at $240. No Super Rare cracks the eight, and no Common, Uncommon, or Rare does.",
+          "The ladder has a hole at the top: the two unpriced Secret Rares should sit near the Gohan once they trade, and the three God Rares above them, but none of the six unpriced chase versions has a price today, so the ladder as priced starts at the Gohan and stops at the Bardock at $32. The [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) ranks the Japanese buying routes the same way. The gap between the $240 Gohan and the $99 second card is the widest in the eight: 2.42 times, $141 apart."
+        ]
+      },
+      {
+        "h": "The risk layer: a presale crash, thin prices, and a God Rare nobody can price",
+        "paragraphs": [
+          "Bandai publishes no pull rates for Masters, so every rate below is a WorthRipping estimate borrowed from boxes with the same pack layout, checked October 24, 2026, and labelled as one. Special Rare: 1 in 11 packs, 1.82 per 20-pack box, 21.82 per case. Secret Rare: 1 in 144 packs, 0.14 per box, 1 in 7.20 boxes, 1.67 per case. God Rare: 1 in 998 packs, 0.02 per box, 1 in 49.90 boxes, 0.24 per case. WorthRipping's page still shows the old 24-pack box, so its per-box figures are rescaled here to Bandai's 20-pack box; the per-pack estimates are unchanged.",
+          "Three Secret Rares share the 1-in-144 slot, so one specific Secret Rare averages 432 packs, 21.60 boxes, 1.80 cases, $1,921.37 of packs at our case price. Three God Rares share the 1-in-998 slot, so one specific God Rare averages 2,994 packs, 149.70 boxes, 12.48 cases, $13,321.53 of packs at our case price. A case holds 0.56 of one specific Secret Rare and 0.08 of one specific God Rare on average, so buy the single.",
+          "The price risk is the presale crash: SpreadTCG's November 18, 2026 report had presale boxes at $527.29, and the market box is $164.42 on release day, down $362.87, down 68.82%, in nine days. A TCGplayer presale read on November 13, 2026 was $488.90, down $324.48, down 66.37%, to the same market box. The crash tracks the Anniversary God Rare: presale buyers paid up for a serialized anniversary card that did not materialise, in the words of one release-week report, and the box fell when the set arrived with an Anniversary God Rare limited to 200 copies. The reseal risk: the box reads $164.42 on one feed and $153.40 as the lowest listing, so check the seal, wrap tension, and pack order before opening, as the [best buy Dragon Ball cards Japan guide](/blog/best-buy-dragon-ball-cards-japanese/) sets out. The [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) ranks the buying routes."
+        ]
+      },
+      {
+        "h": "Context: B32 in the Masters line: 9th anniversary, multicolor Leaders return, the B20-B32 board",
+        "paragraphs": [
+          "B32 is Dragon Ball Super Card Game Masters' ninth-anniversary set, Ultra-Bout Series 05, released in English on November 27, 2026, with a European release on December 4, 2026. The set holds 185 card types: 50 Common, 40 Uncommon, 34 Rare, 18 Super Rare, 11 Concept Rare, 15 Special Rare, 10 Special Leader Rare, 3 Secret Rare, 3 God Rare, and 1 Anniversary God Rare. OGcards lists 184 card listings, 258 versions with alternate arts and finishes. Every box holds 20 packs of 12 cards, 240 cards, plus a bonus Energy Marker, four packs fewer than B30 and B31, which held 24 packs.",
+          "The set brings multicolor Leaders back, with ten Special Leader Rares, one per Leader, and the Concept Rares are a new eleven-card brush-touch set for the anniversary. The three Secret Rares each appear in a full God Rare finish, and the Anniversary God Rare is one card with no name on Bandai's product page. Legacy Comics' distributor text says it is limited to 200 copies worldwide; one creator read names it as the Son Goku, Fierce Battle, but Bandai's page names no card for the tier, so this page does not name it.",
+          "On our shelf the Masters board runs B20 to B32, thirteen cases totalling $23,863.20. B32 is the second-cheapest case at $1,067.43, $17.60 above the cheapest, B25 at $1,049.83, and $17.59 below B28 at $1,085.02. B32 is $469.20 below B31 at $1,536.63, $751.88 below B20 at $1,819.31, and $6,850.32 below B27 at $7,917.75, which alone is 33.18% of the board. The B32 case is 4.47% of the board, 6.69% without B27. B31's case divides to $128.05 a box, $5.34 a pack, against a $222.87 market box, so B32 is not the only Masters case below its market box. The [Dragon Ball TCG Japan price guide](/blog/dragon-ball-tcg-japan-price/) carries the Japanese price reads."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named God Rare: the specific God Rare averages 149.70 boxes, 12.48 cases, $13,321.53 of packs at our case price, so buy the single when it trades. It is not for anyone who wants a single English box, because the only English product here is the twelve-box case. It is not for anyone who pays a God Rare price for a Secret Rare without checking the finish: BT32-154, BT32-155, and BT32-156 each exist in both finishes, and only the God Rare finish carries the God Rare price. It is not for anyone who needs release-day prices to hold."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Gohan, own the eight, hold B32 sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Gohan, buy the single: $240 Secret Rare on the November 26, 2026 Scouter market read, and check the number, BT32-155, and the finish, because the God Rare of the same number has no price yet.",
+          "If the job is the eight, buy the English case at $1,067.43, twelve boxes at $88.95 each, and treat the God Rare as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $164.42, not a case you cannot split, and re-divide at 20 packs, not 24, before you pay.",
+          "If the job is cheap packs, compare the case pack price, $4.45, against the market box pack price, $8.22, before you pay.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the number on any Gohan, because only the Secret Rare BT32-155 is $240."
+        ],
+        "h": "Action layer: the B32 best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order: every price here is stamped November 27, 2026, so re-divide before you pay. The [best Dragon Ball Super Card Game Japanese booster box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) prices the Japanese boxes the same way. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "b32-best-cards",
+    "takeaway": [
+      "The B32 top eight, on Scouter market prices read November 26, 2026, totals $779.00, and the Gohan is $240.00 of it, 30.81%. The top two are $339.00, 43.52%, the top five are $597.00, 76.64%, and the bottom three are $182.00, 23.36%. Two Secret Rares, three God Rares, and the Anniversary God Rare have no verifiable market price yet, so the ranking stops at eight.",
+      "On our shelf as of November 27, 2026, there is exactly one B32 product: the English sealed case at $1,067.43, twelve boxes at $88.95 a box, $4.45 a pack, $0.37 a card, $30.85 below the MSRP box per box and $75.47 below the WorthRipping market box. The Gohan is 2.70 case boxes and the eight are 0.73 times the case.",
+      "It is worth buying as B32 sealed at a shelf price below every market box read, and it is not worth buying as a way to own one named God Rare. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division, and the market box is $164.42 against our case box at $88.95.",
+      "No ranked B32 best-cards list exists yet: OGcards lists the cards with prices on 5 of 258 versions, WorthRipping prices the box and the pull rates but no cards, and cardnews.io prints the rarity table. The [FB10 best cards guide](/blog/fb10-best-cards/) runs the same ranking on the Fusion World set before this one.",
+      "The value concentrates in the Gohan and the Concept Rares: the top three are $438.00, 56.23% of the eight, the three Concept Rares total $254.00, 32.60%, and the three Special Rares total $186.00, 23.88%. The [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) ranks the Japanese buying routes.",
+      "The presale box fell $362.87, 68.82%, in nine days, from $527.29 on November 18, 2026 to $164.42 on release day, and a specific God Rare averages 12.48 cases, $13,321.53 of packs at our case price, on the WorthRipping estimate. Buy the single, or buy the case to hold it sealed.",
+      "B32 is the ninth-anniversary set with 185 card types, multicolor Leaders back, and a twelve-box case that is the second-cheapest on our thirteen-case Masters board at $1,067.43, 4.47% of the $23,863.20 board. The [Dragon Ball TCG Japan price guide](/blog/dragon-ball-tcg-japan-price/) carries the Japanese price reads.",
+      "This guide is not for anyone chasing one named God Rare by opening boxes, anyone who wants a single English box, or anyone who pays a God Rare price without checking the finish, because BT32-154, BT32-155, and BT32-156 each exist in both finishes.",
+      "Carry the checklist in order: the Gohan single is $240, the case is $1,067.43 at $88.95 a box, the market box is $164.42, and the case pack at $4.45 beats the market box pack at $8.22. The [best Dragon Ball Masters booster box to buy guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) ranks the Masters boxes."
+    ]
+  },
   "best-akihabara-card-shop": {
     "datePublished": "2026-11-11",
     "faqs": [
@@ -3886,7 +4117,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Still deciding between the two Dragon Ball games? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) is the other game's starting point, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Dragon Ball against the other games on this store. If the case is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe.",
       "New this cycle: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) explains why there is no Japanese Masters box on this shelf and prices the Fusion World Japanese boxes beside these English cases.",
       "For the Japanese question in depth, the [best Dragon Ball Super Card Game Japanese box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) answers it honestly: Masters has no Japanese version, Fusion World does, and the cases divide to $102.93 a box.",
-      "New this cycle: the [best Dragon Ball TCG from Japan guide](/blog/best-dragon-ball-tcg-japan/) puts the Masters case ladder beside Fusion World and Manga Booster on one shelf, and names B25 the cheapest English case at $1,235.10."
+      "New this cycle: the [best Dragon Ball TCG from Japan guide](/blog/best-dragon-ball-tcg-japan/) puts the Masters case ladder beside Fusion World and Manga Booster on one shelf, and names B25 the cheapest English case at $1,235.10.",
+      "The newest Masters set is B32 Chromatic Ascension, released November 27, 2026: the [B32 best cards guide](/blog/b32-best-cards/) ranks the eight cards with a market price, topped by the $240 Gohan, against our $1,067.43 case."
     ]
   },
   "best-dragon-ball-super-card-game-japanese-booster-box": {
@@ -7520,7 +7752,8 @@ export const POSTS: Record<string, BlogPost> = {
       "New this cycle: the [best Japanese Pokémon cards guide](/blog/best-japanese-pokemon-cards/) ranks the twelve best Japanese Pokémon products on the same shelf, from an $11.15 starter set to the $471.20 box.",
       "New this cycle: the [Japanese Pokémon cards price index](/blog/japanese-pokemon-cards-price/) prices every format on the shelf in one place — all 90 boxes, 40 cases, the starters, and the five premium boxes no guide had priced.",
       "For the channel version of this question, the [where to buy Japanese booster boxes guide](/blog/where-to-buy-japanese-booster-box/) compares the Warehouse shelf against Best Buy, Target, a US flash sale and the Buyee proxy stack, box by box and pack by pack, with the cheapest box Rebellion Crash at $36.58.",
-      "For the full shelf board, the [Japanese Pokemon booster box guide](/blog/japanese-pokemon-booster-box/) prices all 39 boxes, $72.22 to $3,335.50, with per-pack costs from $2.41 to $146.14."
+      "For the full shelf board, the [Japanese Pokemon booster box guide](/blog/japanese-pokemon-booster-box/) prices all 39 boxes, $72.22 to $3,335.50, with per-pack costs from $2.41 to $146.14.",
+      "Where to buy it, priced: the [where to buy a Japanese Pokemon booster box guide](/blog/where-to-buy-japanese-pokemon-booster-box/) boards all 39 boxes, cheapest SV9 at $72.22, $2.41 a pack, $15.87 below the TCGplayer market box."
     ]
   },
   "best-japanese-pokemon-booster-pack": {
@@ -12982,7 +13215,8 @@ export const POSTS: Record<string, BlogPost> = {
     "takeaway": [
       "Buy Japanese Pokemon cards by format first: a $7.59 starter deck to play, an M3 box at $2.00 a pack to open, an M1S case at $1.83 a pack for volume, and singles for any named card. Every price here is our own shelf price as of November 19, 2026.",
       "The gap between Japanese retail and the shelf is the honest number: M3 retails at 5,400 yen, $33.87, and our shelf price is $60.03, a 1.77 times premium for import and allocation, while the M6a anniversary box carries a 4.69 times premium for scarcity. Budget the landed cost, not the sticker.",
-      "For the full ladder, the [Japanese Pokemon sealed case guide](/blog/japanese-pokemon-sealed-case/) divides all 41 cases on the shelf, and the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) prices every box. Re-run the division on the day you pay."
+      "For the full ladder, the [Japanese Pokemon sealed case guide](/blog/japanese-pokemon-sealed-case/) divides all 41 cases on the shelf, and the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) prices every box. Re-run the division on the day you pay.",
+      "For sealed boxes specifically, the [where to buy a Japanese Pokemon booster box guide](/blog/where-to-buy-japanese-pokemon-booster-box/) prices the full 39-box board, with the SV11B case splitting to $70.25 a box and saving $1,025.43."
     ]
   },
   "buy-japanese-tcg-online": {
@@ -28874,7 +29108,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the longer hold, the [FB09 investment guide](/blog/fb09-investment/) runs the same division on the set before this one, and the [FB08 investment guide](/blog/fb08-investment/) prices the set beside this one.",
       "For the set before this one, the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the ten best Saiyan's Pride cards, top ten $705.70, with the Broly Alternate Art at $104.79, and the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the set before that one.",
       "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them.",
-      "For the language split, the [FB11 Japanese versus English guide](/blog/fb11-japanese-vs-english-which-to-buy/) prices the same shelf case against the Japanese box, with the Japanese box at $47.14 to $87.92 on the market and no digital code card in either language."
+      "For the language split, the [FB11 Japanese versus English guide](/blog/fb11-japanese-vs-english-which-to-buy/) prices the same shelf case against the Japanese box, with the Japanese box at $47.14 to $87.92 on the market and no digital code card in either language.",
+      "Masters, not Fusion World: the [B32 Chromatic Ascension best cards guide](/blog/b32-best-cards/) ranks the eight priced cards of the November 27, 2026 set, topped by the $240 Gohan, against our $1,067.43 case."
     ]
   },
   "fb11-japanese-vs-english-which-to-buy": {
@@ -91341,7 +91576,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Five sealed Japanese Dragon Ball boxes sit on the Warehouse shelf as of November 10, 2026, $26.02 to $64.12: FB08 cheapest at $1.08 a pack, FB09 dearest at $2.67 a pack, with FB07 and both Manga Boosters between them.",
       "The proxy route costs more than the shelf: a list-price box through Buyee is $44.03 before international shipping, $18.01 more than FB08, and the Japan Figure FB12 pre-order at $182.92 is 4.89 times the Japanese list price.",
       "Divide before paying: the [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) divides every product on the shelf, the [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) picks the buy, and this guide prices every channel against them.",
-      "For the Fusion World version of this question, the [where to buy Dragon Ball Fusion World Japanese guide](/blog/where-to-buy-dragon-ball-fusion-world-japanese/) prices the five Japanese listings as titled, FB08 at $22.12 to FB09 at $54.50, and runs the Buyee proxy stack for a sealed Japanese box at list, $37.13 to $45.58 before international shipping."
+      "For the Fusion World version of this question, the [where to buy Dragon Ball Fusion World Japanese guide](/blog/where-to-buy-dragon-ball-fusion-world-japanese/) prices the five Japanese listings as titled, FB08 at $22.12 to FB09 at $54.50, and runs the Buyee proxy stack for a sealed Japanese box at list, $37.13 to $45.58 before international shipping.",
+      "For the newest Dragon Ball set, the [B32 Chromatic Ascension best cards guide](/blog/b32-best-cards/) prices the eight cards with a market read against our $1,067.43 case at $88.95 a box."
     ]
   },
   "where-to-buy-japanese-booster-box": {
@@ -91542,7 +91778,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The cheapest Japanese booster box on our shelf is Rebellion Crash at $36.58, $1.22 a pack, and the cheapest current-era box is M3 at $60.03, $2.00 a pack. The Warehouse beats Best Buy and Target on the three boxes we could compare line for line, by $39.96 to $61.31 a box.",
       "The Warehouse loses on two boxes, and this guide prints both: the flash sale undercuts our SV2a by $180.53 and our M2a by $20.56. A proxy box at its 5,400 yen list lands at $37.88 to $46.33 before international shipping, which beats every US shelf price, but only if the box is actually selling at list.",
       "For the set-by-set buy, the [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the shelf, the [best value guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks it by per-pack price, and the [cheapest box guide](/blog/cheapest-japanese-pokemon-booster-box/) frames the cheapest buy. For the Fusion World version of this question, the [where to buy Dragon Ball Fusion World Japanese guide](/blog/where-to-buy-dragon-ball-fusion-world-japanese/) runs the same discipline on the Japanese Fusion World shelf.",
-      "New to Japanese boxes? The [best Japanese Pokemon cards guide](/blog/best-japanese-pokemon-cards/) ranks the shelf by card, the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) prices the slab decision, and the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) keeps a case safe once you own it."
+      "New to Japanese boxes? The [best Japanese Pokemon cards guide](/blog/best-japanese-pokemon-cards/) ranks the shelf by card, the [PSA grading guide](/blog/psa-grading-japanese-cards-worth-it/) prices the slab decision, and the [sealed storage guide](/blog/how-to-store-sealed-booster-boxes/) keeps a case safe once you own it.",
+      "For Pokemon boxes specifically, the [where to buy a Japanese Pokemon booster box guide](/blog/where-to-buy-japanese-pokemon-booster-box/) prices all 39 boxes on our shelf, from the $72.22 SV9 to the $3,335.50 Sky-Splitting Charisma, with case splits and per-pack math."
     ]
   },
   "where-to-buy-japanese-one-piece-booster-box": {
@@ -91712,6 +91949,397 @@ export const POSTS: Record<string, BlogPost> = {
       "For the full ladder, the [best Japanese One Piece booster box guide](/blog/best-japanese-one-piece-booster-box-to-buy/) prices all 23 Japanese boxes, the [One Piece Japanese booster box price index](/blog/one-piece-japanese-booster-box-price/) carries the whole-game picture, and the [OP-18 pre-order guide](/blog/op-18-the-dominance-of-god-preorder-guide/) works the newest set before its November 21, 2026 release.",
       "For the other channel questions, the [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) prices every Dragon Ball channel the same way, and the [buying TCG from Japan shipping and customs guide](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers shipping and customs.",
       "Companion guide: the [One Piece Japanese booster box board](/blog/one-piece-japanese-booster-box/) prices all 24 Japanese boxes to the pack and the card, as of November 24, 2026."
+    ]
+  },
+  "where-to-buy-japanese-pokemon-booster-box": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "On our shelf as of November 27, 2026, the cheapest Japanese Pokemon booster box is SV9 Battle Partners at $72.22, $2.41 a pack, which sits $15.87 below the TCGplayer market price of $88.09 read by TCGPursuit the same day. Best Buy lists the same SV9 box at $149.00 through a marketplace seller, $76.78 above our shelf. The cheapest route depends on the job: a single SV9 box for one opening, or the SV11W case split at $63.19 a box for White Flare more than once.",
+        "q": "Where is the cheapest place to buy a Japanese Pokemon booster box?"
+      },
+      {
+        "a": "On our shelf as of November 27, 2026, Japanese Pokemon booster boxes run from $72.22 for SV9 Battle Partners to $3,335.50 for SM7 Sky-Splitting Charisma, and all 39 boxes together cost $23,594.10. A standard box lists at 6,000 yen in Japan, or $37.61 at the ECB November 27, 2026 fixing of 159.54 yen per dollar, and the per-pack cost on our shelf runs from $2.41 on SV9 to $146.14 on SM8b GX Ultra Shiny. Read the pack count before you divide: a standard box holds 30 packs of 5 cards, SV11 boxes hold 20 packs of 7, and Deluxe boxes hold 4 packs of 35.",
+        "q": "How much is a Japanese Pokemon booster box?"
+      },
+      {
+        "a": "Check the factory shrink-wrap, tight with neat, even folds, and the perforated tear strip on boxes released since late 2022: a torn or lifted strip means the box is no longer sealed. Check the language: real Japanese boxes carry hiragana and katakana alongside kanji, while a Chinese-language box uses Chinese characters only. Check the barcode against the product page, and buy sealed from a shop that names the set code and the pack count. Do not trust weight: packs are packed at random, and a Deluxe box, a standard box, and a high-class box all weigh differently by design.",
+        "q": "How do I know a Japanese Pokemon booster box is real?"
+      }
+    ],
+    "h1": "Where to Buy Japanese Pokemon Booster Box: The Live Shelf Board, Priced November 27, 2026",
+    "intro": [
+      "Short answer: buy a Japanese Pokemon booster box from a shop that prints a live shelf price, a case split, and a market check, and the cheapest box on our shelf as of November 27, 2026 is SV9 Battle Partners at $72.22, $2.41 a pack, $15.87 below the TCGplayer market price of $88.09 read the same day. The dearest box on the same shelf is SM7 Sky-Splitting Charisma at $3,335.50, and all 39 boxes together cost $23,594.10. This page prices every one of them, splits the cases, and checks the market.",
+      "Who this is for: buyers choosing between a shop shelf, a marketplace listing, and a proxy order, and collectors weighing one box against a twelve-box case. Who it is not for: anyone who wants loose packs, because this store sells sealed boxes and cases, not loose Japanese packs; anyone who needs cards for sanctioned play outside Japan, because Japanese cards are not legal there; and anyone buying only on the lowest headline price, because the cheapest listing is often a different product or a fake."
+    ],
+    "metaDescription": "Japanese Pokemon booster boxes from $72.22 on our shelf, Nov 27, 2026: every box priced, case splits, market checks, and fake-box checks.",
+    "metaTitle": "Where to Buy Japanese Pokemon Booster Box, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The money layer: the current board, divided",
+        "math": [
+          "SV9 Battle Partners per pack: $72.22 / 30 packs = $2.41 per pack; per card: $72.22 / 150 cards = $0.48 per card",
+          "SV7 Stella Miracle per pack: $77.87 / 30 packs = $2.60 per pack; per card: $77.87 / 150 cards = $0.52 per card",
+          "SV7a Paradise Dragona per pack: $120.05 / 30 packs = $4.00 per pack; per card: $120.05 / 150 cards = $0.80 per card",
+          "SV9a Heat Wave Arena per pack: $138.82 / 30 packs = $4.63 per pack; per card: $138.82 / 150 cards = $0.93 per card",
+          "SV11W White Flare per pack: $142.56 / 20 packs = $7.13 per pack; per card: $142.56 / 140 cards = $1.02 per card",
+          "SV11B Black Bolt per pack: $155.70 / 20 packs = $7.79 per pack; per card: $155.70 / 140 cards = $1.11 per card",
+          "SV11W Deluxe White Flare per pack: $167.90 / 4 packs = $41.98 per pack; per card: $167.90 / 140 cards = $1.20 per card",
+          "SV11B Deluxe Black Bolt per pack: $181.04 / 4 packs = $45.26 per pack; per card: $181.04 / 140 cards = $1.29 per card",
+          "SV10 Glory of Team Rocket per pack: $181.04 / 30 packs = $6.03 per pack; per card: $181.04 / 150 cards = $1.21 per card",
+          "SV8 Super Electric Breaker per pack: $219.50 / 30 packs = $7.32 per pack; per card: $219.50 / 150 cards = $1.46 per card",
+          "S9a Battle Region per pack: $77.87 / 20 packs = $3.89 per pack; per card: $77.87 / 120 cards = $0.65 per card",
+          "S10P Space Juggler per pack: $91.94 / 30 packs = $3.06 per pack; per card: $91.94 / 150 cards = $0.61 per card",
+          "S10a Dark Phantasma per pack: $206.35 / 20 packs = $10.32 per pack; per card: $206.35 / 120 cards = $1.72 per card",
+          "S10b Pokemon GO per pack: $220.42 / 20 packs = $11.02 per pack; per card: $220.42 / 120 cards = $1.84 per card",
+          "S1W Sword per pack: $412.73 / 30 packs = $13.76 per pack; per card: $412.73 / 150 cards = $2.75 per card",
+          "Scarlet and Violet era total: $1456.70",
+          "Sword and Shield era total: $1009.31",
+          "Sun and Moon era total: $21128.09",
+          "Whole board total: $1456.70 + $1009.31 + $21128.09 = $23594.10",
+          "Board gap: $3335.50 - $72.22 = $3263.28; $3335.50 / $72.22 = 46.19x",
+          "Per-pack range: $146.14 - $2.41 = $143.73",
+          "SV11 pair together: $155.70 + $142.56 = $298.26",
+          "Deluxe pair together: $181.04 + $167.90 = $348.94",
+          "Three cheapest current boxes: $72.22 + $77.87 + $77.87 = $227.96",
+          "Board total in yen: $23594.10 x 159.54 yen = 3,764,202.71 yen",
+          "SV9 box in yen: $72.22 x 159.54 yen = 11,521.98 yen",
+          "SV9 box official list: 5,400 yen / 159.54 yen = $33.85",
+          "SV11 box official list: 5,800 yen / 159.54 yen = $36.35",
+          "SV9 shelf against official list: $72.22 - $33.85 = $38.37; $72.22 / $33.85 = 2.13x",
+          "SV11B shelf against official list: $155.70 - $36.35 = $119.35; $155.70 / $36.35 = 4.28x",
+          "SV9 shelf against TCGplayer market: $88.09 - $72.22 = $15.87 below market; $15.87 / $88.09 = 18.02% below market",
+          "SV11B Deluxe shelf against TCGplayer market: $213.99 - $181.04 = $32.95 below market; $32.95 / $213.99 = 15.40% below market",
+          "SV11B shelf against TCGplayer market: $155.70 - $127.56 = $28.14 above market; $28.14 / $127.56 = 22.06% above market",
+          "SV11W shelf against TCGplayer market: $142.56 - $120.85 = $21.71 above market; $21.71 / $120.85 = 17.96% above market",
+          "SV10 shelf against TCGplayer market: $181.04 - $154.70 = $26.34 above market; $26.34 / $154.70 = 17.03% above market",
+          "SV9a shelf against TCGplayer market: $138.82 - $125.96 = $12.86 above market; $12.86 / $125.96 = 10.21% above market",
+          "SV8 shelf against TCGplayer market: $219.50 - $142.21 = $77.29 above market; $77.29 / $142.21 = 54.35% above market",
+          "Pokemon GO shelf against TCGplayer market: $220.42 - $145.76 = $74.66 above market; $74.66 / $145.76 = 51.22% above market",
+          "Dark Phantasma shelf against TCGplayer market: $206.35 - $192.76 = $13.59 above market; $13.59 / $192.76 = 7.05% above market",
+          "Space Juggler shelf against TCGplayer market: $136.25 - $91.94 = $44.31 below market; $44.31 / $136.25 = 32.52% below market",
+          "Best Buy SV9 against our shelf: $149.00 - $72.22 = $76.78 above our shelf; $149.00 / $72.22 = 2.06x",
+          "Best Buy Snow Hazard against our shelf: $114.99 - $80.67 = $34.32 above our shelf; $114.99 / $80.67 = 1.43x",
+          "Cardheist Clay Burst against our shelf: $104.99 - $87.24 = $17.75 above our shelf; $104.99 / $87.24 = 1.20x"
+        ],
+        "paragraphs": [
+          "The current board is ten Scarlet and Violet boxes and five Sword and Shield boxes, priced from our shelf as of November 27, 2026. [SV9 Battle Partners](/blog/cheapest-japanese-pokemon-booster-box/) is $72.22, or $2.41 a pack, and SV7 Stella Miracle is $77.87, or $2.60 a pack. SV7a Paradise Dragona is $120.05 and SV9a Heat Wave Arena is $138.82, or $4.00 and $4.63 a pack. The [Unova pair](/blog/black-bolt-vs-white-flare-which-to-buy/) follows: SV11W White Flare at $142.56, or $7.13 a pack, and SV11B Black Bolt at $155.70, or $7.79 a pack. Both are 20 packs of 7 cards, 140 cards a box, not the standard 30 packs of 5.",
+          "The Deluxe boxes cost more per pack than any standard box, and the pack count is the reason. White Flare Deluxe is $167.90 for 4 packs of 35 cards, or $41.98 a pack, and Black Bolt Deluxe is $181.04, or $45.26 a pack, with the same 140 cards inside. SV10 Glory of Team Rocket is $181.04, or $6.03 a pack, and SV8 Super Electric Breaker, the dearest Scarlet and Violet box, is $219.50, or $7.32 a pack. A Deluxe box at $45.26 a pack is not a dear standard box, it is a different product. The [SV11B Black Bolt buyers guide](/blog/sv11b-black-bolt-buyers-guide/) prices the dearest current box in full.",
+          "[Sword and Shield](/blog/japanese-pokemon-booster-box/) is five boxes, with pack counts split three ways. S9a Battle Region is $77.87 across 20 packs of 6 cards, or $3.89 a pack, and S10P Space Juggler is $91.94 across 30 packs of 5 cards, or $3.06 a pack. S10a Dark Phantasma is $206.35 across 20 packs of 6 cards, or $10.32 a pack, and S10b Pokemon GO is $220.42 across 20 packs of 6 cards, or $11.02 a pack. S1W Sword is $412.73 across 30 packs of 5 cards, or $13.76 a pack, the only Sword and Shield box above $300. The five total $1,009.31, against $1,456.70 for Scarlet and Violet.",
+          "The market check splits the board in both directions, with the freshest reads dated November 27, 2026. Our SV9 sits $15.87 below the TCGplayer market price of $88.09 read by TCGPursuit the same day, and our Black Bolt Deluxe sits $32.95 below the TCGplayer market price of $213.99 read by TCGPursuit the same day. The November 8, 2026 reads from Bill's Archive run the other way: Black Bolt $28.14 above $127.56, White Flare $21.71 above $120.85, Team Rocket $26.34 above $154.70, and Super Electric Breaker $77.29 above $142.21. Pokemon GO sits $74.66 above its $145.76 market price, while Space Juggler sits $44.31 below its $136.25 market price. A shelf price above the market is the price of sealed stock you can pay for now, against a market price that moves daily.",
+          "The retailer cross-check is three boxes we could compare line for line. Best Buy lists the SV9 box at $149.00 through a marketplace seller, $76.78 above our $72.22, or 2.06 times our price. Best Buy lists Snow Hazard at $114.99, $34.32 above our $80.67. Cardheist lists Clay Burst from $104.99, $17.75 above our $87.24. On those three boxes the Warehouse wins, widest on the cheapest box."
+        ]
+      },
+      {
+        "h": "The vintage board: 24 Sun and Moon boxes in one table",
+        "paragraphs": [
+          "[Sun and Moon](/blog/best-value-japanese-pokemon-booster-boxes/) is the vintage era, 24 boxes from $84.08 to $3,335.50, totalling $21,128.09, priced in the table below. Three boxes share the exact price of $84.08: SMP2 Detective Pikachu, SM9a Night Unison, and SM9 Tag Bolt. Detective Pikachu is the odd one out on structure: 20 packs of 4 cards, 80 cards, or $4.20 a pack, against $2.80 a pack for the other two. The dear tier is eight boxes at $1,000 or more, all Sun and Moon, and SM7 alone at $3,335.50 is $111.18 a pack. Hold these sealed; at $146.14 a pack on SM8b GX Ultra Shiny, no opening averages out.",
+          "The pack-count discipline pays for itself here. SM12a Tag Team GX All Stars is 10 packs of 11 cards, 110 cards, or $141.83 a pack, and SM8b GX Ultra Shiny is 10 packs of 10 cards, 100 cards, or $146.14 a pack. Every other Sun and Moon box on this shelf is the standard 30 packs of 5 cards, 150 cards, so Miracle Twin at $1,587.08 divides to $52.90 a pack and Sky-Splitting Charisma at $3,335.50 divides to $111.18 a pack."
+        ],
+        "table": {
+          "head": [
+            "Box",
+            "Shelf price, Nov 27, 2026",
+            "Packs",
+            "Per pack"
+          ],
+          "rows": [
+            [
+              "SMP2 Detective Pikachu",
+              "$84.08",
+              "20 packs",
+              "$4.20"
+            ],
+            [
+              "SM9a Night Unison",
+              "$84.08",
+              "30 packs",
+              "$2.80"
+            ],
+            [
+              "SM9 Tag Bolt",
+              "$84.08",
+              "30 packs",
+              "$2.80"
+            ],
+            [
+              "SM9b Full Metal Wall",
+              "$136.77",
+              "30 packs",
+              "$4.56"
+            ],
+            [
+              "SM8a Dark Order",
+              "$437.11",
+              "30 packs",
+              "$14.57"
+            ],
+            [
+              "SM12 Alter Genesis",
+              "$468.07",
+              "30 packs",
+              "$15.60"
+            ],
+            [
+              "SM5+ Ultra Force",
+              "$578.74",
+              "30 packs",
+              "$19.29"
+            ],
+            [
+              "SM6 Forbidden Light",
+              "$593.75",
+              "30 packs",
+              "$19.79"
+            ],
+            [
+              "SM5S Ultra Sun",
+              "$616.25",
+              "30 packs",
+              "$20.54"
+            ],
+            [
+              "SM7a Thunderclap Spark",
+              "$620.02",
+              "30 packs",
+              "$20.67"
+            ],
+            [
+              "SM7b Fairy Rise",
+              "$672.54",
+              "30 packs",
+              "$22.42"
+            ],
+            [
+              "SM6b Champion Road",
+              "$760.72",
+              "30 packs",
+              "$25.36"
+            ],
+            [
+              "SM10a GG End",
+              "$801.05",
+              "30 packs",
+              "$26.70"
+            ],
+            [
+              "SM10 Double Blaze",
+              "$828.25",
+              "30 packs",
+              "$27.61"
+            ],
+            [
+              "SM10b Sky Legend",
+              "$942.68",
+              "30 packs",
+              "$31.42"
+            ],
+            [
+              "SM6a Dragon Storm",
+              "$964.26",
+              "30 packs",
+              "$32.14"
+            ],
+            [
+              "SM8 Super-Burst Impact",
+              "$1037.43",
+              "30 packs",
+              "$34.58"
+            ],
+            [
+              "SM11a Remix Bout",
+              "$1089.96",
+              "30 packs",
+              "$36.33"
+            ],
+            [
+              "SM11b Dream League",
+              "$1231.59",
+              "30 packs",
+              "$41.05"
+            ],
+            [
+              "SM5M Ultra Moon",
+              "$1294.43",
+              "30 packs",
+              "$43.15"
+            ],
+            [
+              "SM12a Tag Team GX All Stars",
+              "$1418.25",
+              "10 packs",
+              "$141.83"
+            ],
+            [
+              "SM8b GX Ultra Shiny",
+              "$1461.40",
+              "10 packs",
+              "$146.14"
+            ],
+            [
+              "SM11 Miracle Twin",
+              "$1587.08",
+              "30 packs",
+              "$52.90"
+            ],
+            [
+              "SM7 Sky-Splitting Charisma",
+              "$3335.50",
+              "30 packs",
+              "$111.18"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "The case layer: twelve boxes at a time",
+        "math": [
+          "SV11W White Flare case per box: $758.30 / 12 boxes = $63.19 per box; per pack: $63.19 / 20 packs = $3.16 per pack",
+          "SV11W White Flare case saving: 12 x $142.56 = $1710.72; $1710.72 - $758.30 = $952.42 saved on the case; $79.37 saved per box",
+          "SV11B Black Bolt case per box: $842.97 / 12 boxes = $70.25 per box; per pack: $70.25 / 20 packs = $3.51 per pack",
+          "SV11B Black Bolt case saving: 12 x $155.70 = $1868.40; $1868.40 - $842.97 = $1025.43 saved on the case; $85.45 saved per box",
+          "SV9 Battle Partners case per box: $809.48 / 12 boxes = $67.46 per box; per pack: $67.46 / 30 packs = $2.25 per pack",
+          "SV9 Battle Partners case saving: 12 x $72.22 = $866.64; $866.64 - $809.48 = $57.16 saved on the case; $4.76 saved per box",
+          "SV10 Glory of Team Rocket case per box: $1548.19 / 12 boxes = $129.02 per box; per pack: $129.02 / 30 packs = $4.30 per pack",
+          "SV10 Glory of Team Rocket case saving: 12 x $181.04 = $2172.48; $2172.48 - $1548.19 = $624.29 saved on the case; $52.02 saved per box",
+          "SV7 Stella Miracle case per box: $767.13 / 12 boxes = $63.93 per box; per pack: $63.93 / 30 packs = $2.13 per pack",
+          "SV7 Stella Miracle case saving: 12 x $77.87 = $934.44; $934.44 - $767.13 = $167.31 saved on the case; $13.94 saved per box",
+          "SV7a Paradise Dragona case per box: $1065.40 / 12 boxes = $88.78 per box; per pack: $88.78 / 30 packs = $2.96 per pack",
+          "SV7a Paradise Dragona case saving: 12 x $120.05 = $1440.60; $1440.60 - $1065.40 = $375.20 saved on the case; $31.27 saved per box",
+          "SV9a Heat Wave Arena case per box: $1363.68 / 12 boxes = $113.64 per box; per pack: $113.64 / 30 packs = $3.79 per pack",
+          "SV9a Heat Wave Arena case saving: 12 x $138.82 = $1665.84; $1665.84 - $1363.68 = $302.16 saved on the case; $25.18 saved per box",
+          "SV8 Super Electric Breaker case per box: $2002.52 / 12 boxes = $166.88 per box; per pack: $166.88 / 30 packs = $5.56 per pack",
+          "SV8 Super Electric Breaker case saving: 12 x $219.50 = $2634.00; $2634.00 - $2002.52 = $631.48 saved on the case; $52.62 saved per box",
+          "SV11W case split against SV11B case split: $70.25 - $63.19 = $7.06 per box"
+        ],
+        "paragraphs": [
+          "The [case](/blog/best-japanese-pokemon-sealed-case-to-buy/) is the cheapest route into eight boxes here, and the split is the whole story. The SV11W case is $758.30 for twelve boxes, or $63.19 a box, $3.16 a pack, against a $142.56 single box, a saving of $952.42 across the case. The SV11B case is $842.97, or $70.25 a box, $3.51 a pack, against a $155.70 single box, a saving of $1,025.43. The SV9 case is $809.48, or $67.46 a box, $2.25 a pack, against a $72.22 single box, a saving of only $57.16. The SV10 case is $1,548.19, or $129.02 a box, $4.30 a pack, against a $181.04 single box, a saving of $624.29.",
+          "The case discount is deepest where the single box is dearest. The SV7 case is $767.13, or $63.93 a box, against a $77.87 single, saving $167.31. The SV7a case is $1,065.40, or $88.78 a box, against a $120.05 single, saving $375.20. The SV9a case is $1,363.68, or $113.64 a box, against a $138.82 single, saving $302.16. The SV8 case is $2,002.52, or $166.88 a box, against a $219.50 single, saving $631.48. A case is twelve boxes or nothing: split it, or hold it sealed."
+        ]
+      },
+      {
+        "h": "The decision layer: box, case, market box, or singles",
+        "paragraphs": [
+          "Six ways to spend, priced as of November 27, 2026. Read the per-pack column first.",
+          "The single SV9 box is the cheapest opening, and the SV11W case split is the cheapest way to open White Flare more than once. The market box wins only when our shelf sits above the market, which is true for Black Bolt, White Flare, Team Rocket, and Super Electric Breaker, and false for Battle Partners, Black Bolt Deluxe, and Space Juggler. Singles win only when the job is [one named card](/blog/best-japanese-pokemon-cards/), because the Pokemon Company publishes no pull rates, so no honest expected-value math exists for opening any box here."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "Warehouse single box (SV9)",
+              "$72.22",
+              "$2.41",
+              "One opening, cheapest cheque on the shelf",
+              "$15.87 below the TCGplayer market price of $88.09, so the market is dearer here"
+            ],
+            [
+              "Warehouse case split (SV11W)",
+              "$63.19 a box",
+              "$3.16",
+              "Opening White Flare more than once; holding the Unova pair sealed",
+              "Twelve boxes or nothing; $758.30 for the case"
+            ],
+            [
+              "Warehouse case split (SV11B)",
+              "$70.25 a box",
+              "$3.51",
+              "The deepest case discount on the shelf, $1,025.43 saved",
+              "Twelve boxes or nothing; $842.97 for the case"
+            ],
+            [
+              "TCGplayer market box (SV9)",
+              "$88.09",
+              "$2.94",
+              "One box when the shelf is sold out",
+              "$15.87 above our shelf; market price moves daily"
+            ],
+            [
+              "TCGplayer market box (Black Bolt)",
+              "$127.56",
+              "$6.38",
+              "One Black Bolt box below our $155.70 shelf price",
+              "November 8, 2026 read; re-check before paying"
+            ],
+            [
+              "Singles",
+              "Varies",
+              "n/a",
+              "Owning one named chase card",
+              "No pull rates published, so opening to chase one card has no honest math"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the top-3 lists miss: no live board, no case split, no market check",
+        "note": "From the Warehouse: the question we get most in chat about buying Japanese boxes is whether the cheapest listing on a marketplace is the same box we sell. Most of the time it is not. The cheapest SV9 listing we checked this week was a Deck Build Box at a box price, a different product with a different pack count, and the cheapest Black Bolt listing was a booster bundle, six English packs, not a Japanese box at all. Check the set code, the pack count, and the language on the listing before you compare the price, because a price without those three is not a comparison.",
+        "paragraphs": [
+          "The top three Google results for this query all do a narrower job. The Wedbush listicle ranks seven sites, Delightful TCG first, and prices none of them. [Best Buy](/blog/where-to-buy-japanese-booster-box/) sells the SV9 box at $149.00 through a marketplace seller, $76.78 above our shelf, and Snow Hazard at $114.99. Samurai Sword Tokyo breaks down five buying methods with cost, speed, and safety rated, and it names a 12.5% US tariff for 2026 and 7 to 14 day average delivery. None of the three gives a live, date-stamped, per-set price board from a real store shelf, and none of them splits a case or checks the market box against the shelf box.",
+          "Four things only this page owns. First, the live board: 39 boxes at Warehouse prices as of November 27, 2026, totalling $23,594.10, every one divided to the pack and the card. Second, the case splits: eight cases divided to the box and the pack, from $57.16 saved on SV9 to $1,025.43 on Black Bolt. Third, the market check: two TCGplayer market reads dated November 27, 2026 from TCGPursuit, SV9 at $88.09 and Black Bolt Deluxe at $213.99, plus eight more reads dated November 8, 2026 from Bill's Archive. Fourth, the retailer cross-check: Best Buy and Cardheist listings read the same week."
+        ]
+      },
+      {
+        "h": "The risk layer: fakes, reseals, and the weight trap",
+        "paragraphs": [
+          "Fakes and reseals are the real risk on this query, and the checks are specific to Japanese boxes. A sealed [Japanese Pokemon box](/blog/buy-japanese-pokemon-cards-guide/) comes in factory shrink-wrap, tight with neat, even folds, and many boxes released since late 2022 open along a perforated tear strip. A torn or lifted strip means the box is no longer sealed. Check the language: Japanese combines kanji with hiragana and katakana, a Chinese-language box uses Chinese characters only, and a Traditional Chinese set code carries an extra F, as in SV2aF for Pokemon Card 151. Check the barcode against the product page: all Japanese Pokemon boxes in one European retailer's range carry EAN codes starting with 4521329.",
+          "Weight is not a reliable check, and that matters because it is the check buyers reach for first. Packs are packed at random, so no pack weight proves a hit, and a box weight proves even less, because the wrap, the cardboard, and the pack count vary by set. A Deluxe box holds 4 packs of 35 cards, a standard box holds 30 packs of 5, and a high-class box holds 10 packs of 10, so the same scale reading means three different things across three boxes. The checks that hold are the wrap, the tear strip, the set code, and the barcode. Buy sealed from a shop that names the set code and the pack count, photograph the box before opening, and keep the seal intact until you are sure. The [how to tell if a booster box is resealed guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) runs the full check."
+        ]
+      },
+      {
+        "h": "Context: Japanese vs English, and the customs bill",
+        "math": [
+          "US duty on an SV9 box: $72.22 x 12.5% = $9.03",
+          "US duty on an SV11B box: $155.70 x 12.5% = $19.46",
+          "US duty on an SV11B case: $842.97 x 12.5% = $105.37",
+          "SV9 box landed with duty: $72.22 + $9.03 = $81.25",
+          "Japanese Mega Brave market box against English Mega Evolution market box: $300.19 - $79.31 = $220.88; $300.19 / $79.31 = 3.79x",
+          "Japanese box cards against English box cards: 150 cards / 360 cards = 41.67% of an English box"
+        ],
+        "paragraphs": [
+          "Japanese and English boxes are different products, and the board only makes sense once that is fixed. A standard Japanese box holds 30 packs of 5 cards, 150 cards, against an English box at 36 packs of 10 cards, 360 cards. Japan prices the pack, not the box: a standard 5-card pack cost 180 yen before May 2026 and 200 yen after, so a standard box lists at 5,400 yen or 6,000 yen, which is $33.85 or $37.61 at the ECB November 27, 2026 fixing of 159.54 yen per dollar. SV11 packs cost 290 yen each, so a standard SV11 box lists at 5,800 yen, or $36.35. Against list, SV9 at $72.22 sits $38.37 above list, or 2.13 times list, and Black Bolt at $155.70 sits $119.35 above list, or 4.28 times list. On October 31, 2026, Shonen Grail read a Japanese Mega Brave box at $79.31 on TCGplayer against an English Mega Evolution box at $300.19, a gap of $220.88, or 3.78 times.",
+          "The customs bill is the second half of the landed price, and it changed in 2026. The US duty on products of Japan is 12.5% of the declared value, and the $800 de minimis exemption no longer applies, suspended since August 29, 2025, so every US-bound parcel pays duty. On our shelf that is $9.03 on an SV9 box, $19.46 on a Black Bolt box, and $105.37 on a Black Bolt case, before the carrier's own clearance fee. An SV9 box lands at $81.25 with duty, still $6.84 below the $88.09 market box before that box's own shipping. Exact shipping is confirmed at checkout or on WhatsApp, because rates move with weight and carrier. [Japanese sets](/blog/preorder-japanese-booster-box-or-wait/) arrive months before their English versions, and Japanese cards are generally not legal at sanctioned events outside Japan, so buy Japanese to collect and to open, not to play."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for a buyer who wants one best box, because the cheapest box and the cheapest pack are both SV9 at $72.22 and $2.41, while the cheapest way to open White Flare is the case split at $3.16 a pack, and the cheapest card is $0.45 on a case split. It is not for a player who needs Japanese cards for an English event, because Japanese cards are not legal there. It is not for a buyer who wants a guaranteed return from opening boxes, because the Pokemon Company publishes no pull rates and the dearest pack costs $146.14. It is not for a collector who buys a vintage box at a market price without checking the listing, because three boxes share the $84.08 price and [Detective Pikachu](/blog/japanese-pokemon-booster-box-price/) holds 20 packs of 4 cards, not 30 packs of 5. It is not for anyone who pays a market price without checking its date, because the Black Bolt read moved from $127.56 on November 8, 2026 to $141.59 in the week ending November 22, 2026."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: open one box, open White Flare more than once, hold a case sealed, or hold a vintage box sealed.",
+          "If the job is one opening, buy the SV9 box at $72.22, $2.41 a pack, $15.87 below the November 27, 2026 TCGplayer market price of $88.09.",
+          "If the job is White Flare more than once, buy the SV11W case at $758.30, twelve boxes at $63.19 each, $3.16 a pack, saving $952.42 against twelve singles.",
+          "If the job is Black Bolt, compare our $155.70 shelf box against the November 8, 2026 TCGplayer market price of $127.56 before you pay, and check the Deluxe at $181.04 against its $213.99 market price the same way.",
+          "Check the set code, the pack count, and the language on any listing before you compare its price, because a Deck Build Box and a booster bundle are not booster boxes.",
+          "Check the wrap, the tear strip, the set code, and the barcode before you open, photograph the box first, and confirm exact shipping at checkout or on WhatsApp."
+        ],
+        "h": "Action layer: the buy checklist",
+        "paragraphs": [
+          "Work the list in order. Every price here is stamped November 27, 2026, so [re-divide](/blog/best-japanese-pokemon-booster-box-to-buy/) before you pay. The [Japanese Pokemon booster box guide](/blog/japanese-pokemon-booster-box/) holds the full 39-box board this page is built on. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "where-to-buy-japanese-pokemon-booster-box",
+    "takeaway": [
+      "Buy from a shop that prints a live shelf price, a case split, and a market check: our SV9 is $72.22, $2.41 a pack, $15.87 below the TCGplayer market price of $88.09 read November 27, 2026, and the dearest box on the shelf is SM7 at $3,335.50. The [best Japanese Pokemon booster box to buy guide](/blog/best-japanese-pokemon-booster-box-to-buy/) ranks the same boxes by buyer.",
+      "The current board is 15 boxes from $72.22 to $412.73, and the per-pack cost runs from $2.41 on SV9 to $45.26 on the Black Bolt Deluxe, because the Deluxe box holds 4 packs of 35 cards, not 30 packs of 5. The [cheapest Japanese Pokemon booster box guide](/blog/cheapest-japanese-pokemon-booster-box/) runs the floor ladder, and the [Japanese Pokemon booster box price guide](/blog/japanese-pokemon-booster-box-price/) prices the same shelf a different way.",
+      "The vintage board is 24 Sun and Moon boxes from $84.08 to $3,335.50, totalling $21,128.09, with eight boxes at $1,000 or more, all Sun and Moon. The [best value Japanese Pokemon booster boxes guide](/blog/best-value-japanese-pokemon-booster-boxes/) ranks the same shelf by value alone.",
+      "The case is the cheapest route into eight boxes: the SV11W case splits to $63.19 a box, saving $952.42, and the SV11B case splits to $70.25 a box, saving $1,025.43. The [best Japanese Pokemon sealed case to buy guide](/blog/best-japanese-pokemon-sealed-case-to-buy/) ranks every case the same way, and the [preorder Japanese booster box or wait guide](/blog/preorder-japanese-booster-box-or-wait/) covers the timing call.",
+      "Six ways to spend, and the verdict is by job: the SV9 single for one opening, the SV11W case split for White Flare more than once, the market box where our shelf sits above the market, and singles where the job is one named card. The [best Japanese Pokemon booster box guide](/blog/best-japanese-pokemon-booster-box/) picks one box per buyer from the same board.",
+      "The top three results rank sites, sell one box, or compare five methods, and none of them gives a live, date-stamped, per-set price board with case splits and market checks. The [where to buy Japanese booster box guide](/blog/where-to-buy-japanese-booster-box/) covers the wider four-game channel comparison.",
+      "Check the wrap, the tear strip, the set code, and the barcode before you open, and never trust weight: a Deluxe box, a standard box, and a high-class box weigh differently by design. The [how to tell if a booster box is resealed guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) runs the full reseal check, and the [how to read Japanese Pokemon cards guide](/blog/how-to-read-japanese-pokemon-cards/) covers the cards inside.",
+      "A Japanese box holds 150 cards against 360 in an English box, lists at 6,000 yen or $37.61, and pays 12.5% US duty with no de minimis exemption, so an SV9 box lands at $81.25 with duty. The [best Japanese Pokemon cards guide](/blog/best-japanese-pokemon-cards/) ranks the cards inside these boxes, and the [Japanese Pokemon booster box Singapore price guide](/blog/japanese-pokemon-booster-box-singapore-price/) prices the same shelf for one country.",
+      "This guide is not for a buyer who wants one best box, a player who needs Japanese cards for an English event, or anyone chasing a guaranteed return from opening, because the Pokemon Company publishes no pull rates and the dearest pack costs $146.14. The [SV11B Black Bolt buyers guide](/blog/sv11b-black-bolt-buyers-guide/) prices the dearest current box in full, and the [SV10 Glory of Team Rocket buyers guide](/blog/sv10-glory-of-team-rocket-buyers-guide/) does the same for Team Rocket."
     ]
   },
   "which-tcg-should-you-start": {
