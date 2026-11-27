@@ -48232,7 +48232,8 @@ export const POSTS: Record<string, BlogPost> = {
       "One set back, the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, on TCGplayer market checked November 27, 2026.",
       "Companion guide: the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs the same ranking on set 7, where the top ten totals $1,926.86, $10,891.24 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) runs it on set 5, where the top ten totals $1,114.95, and the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs it on set 3, where the top ten totals $906.10. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Fabled at $158.56 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf.",
       "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
-      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "One set on, the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10 the same way, with the Ariel at $1,583.74 and the top ten at $5,016.71, and the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, with the Moana at $1,287.29 and the top ten at $5,139.92, both on November 27, 2026."
     ]
   },
   "lorcana-first-chapter-best-cards": {
@@ -48460,7 +48461,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Two sets on, the [Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks set 3 the same way, with the Mickey at $212.65 and the top ten at $906.10 on November 27, 2026.",
       "Three sets on, the [Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) ranks set 4 the same way, with the Ariel at $148.32 and the top ten at $913.75, and the [Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) ranks set 5 the same way, with the Mufasa at $306.02 and the top ten at $1,114.95, both on November 27, 2026.",
       "Six sets on, the [Azurite Sea best cards guide](/blog/lorcana-azurite-sea-best-cards/) ranks set 6 the same way, with the Tigger at $157.73 and the top ten at $839.17, and the [Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) ranks set 7 the same way, with the Mickey at $469.99 and the top ten at $1,926.86, both on November 27, 2026.",
-      "Seven sets on, the [Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, with the Stitch at $480.12 and the top ten at $2,470.27, and the [Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, with the Mickey at $4,166.67 and the top ten at $12,818.10, both on November 27, 2026."
+      "Seven sets on, the [Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, with the Stitch at $480.12 and the top ten at $2,470.27, and the [Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, with the Mickey at $4,166.67 and the top ten at $12,818.10, both on November 27, 2026.",
+      "Nine sets on, the [Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10 the same way, with the Ariel at $1,583.74 and the top ten at $5,016.71, and the [Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, with the Moana at $1,287.29 and the top ten at $5,139.92, both on November 27, 2026."
     ]
   },
   "lorcana-into-the-inklands-best-cards": {
@@ -49650,6 +49652,482 @@ export const POSTS: Record<string, BlogPost> = {
       "For the box-level view behind these pack prices, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Ursula's Return at $107.10 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
       "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
       "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
+    ]
+  },
+  "lorcana-whispers-in-the-well-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Ariel, Ethereal Voice, Iconic 241/204, at $1,583.74 on TCGplayer market checked November 27, 2026, from TCGPursuit's Whispers read, with price history last recorded November 26, 2026. GradeValue's November 27, 2026 read agrees at $1,583.74, and Lorebinder's November 26, 2026 read agrees at $1,583.74. TurnZero HQ's November 20, 2026 read puts the same card at $1,493.85, $89.89 apart, and NerdSnack's median of its last five TCGplayer sales is $1,499.99, checked November 6, 2026, with no sale after September 23. WorthRipping's own feed reads the Ariel at $1,333.06 and puts the Hades first at $1,575.19, so the feeds disagree on the order. Use the dated TCGplayer market read and re-check before paying.",
+        "q": "What is the most valuable Whispers in the Well card?"
+      },
+      {
+        "a": "The reads come from different feeds. TCGPursuit, GradeValue, and Lorebinder report TCGplayer's own market price, $1,583.74, while WorthRipping reports its own feed, $1,333.06, and the two sit $250.68 apart. The TCGplayer market read is the base here because it is the marketplace's own estimate with a dated history line, last recorded November 26, 2026. Do not average the two reads: averaging a $1,583.74 market price with a $1,333.06 feed read invents a price no market lists. The disagreement is not limited to the Ariel: WorthRipping reads the Hades at $1,575.19 against $1,047.28 on TCGplayer market, $527.91 apart, and the Spooky Sight at $460.42 against $726.68, $266.26 apart.",
+        "q": "Why do the Ariel prices disagree by $250.68?"
+      },
+      {
+        "a": "Buy the English case if the job is four Whispers boxes sealed: $866.15, four boxes at $216.54 a box, $9.02 a pack, $0.75 a card, $72.78 above the MSRP box per box, and $25.09 below the $891.24 FASE market case. Buy the market box if the job is one box: $194.61 on the WorthRipping read of November 26, 2026, $8.11 a pack, or $222.74 on the TCGGuy read for the week ending November 22, 2026, $9.28 a pack, and the two reads disagree by $28.13 a box. Do not use the WorthRipping lowest listing of $108.54 as the market box: it is a listing, not a sale. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Whispers in the Well English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Whispers in the Well Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Whispers in the Well is the Ariel, Ethereal Voice, Iconic 241/204, at $1,583.74 on TCGplayer market checked November 27, 2026, and the ten best add to $5,016.71, the two Iconics alone at $2,631.02. Our shelf, November 27, 2026, carries the English sealed case at $866.15, four boxes at $216.54 a box, $9.02 a pack, $0.75 a card, $72.78 above the MSRP box per box, with no single box and no Japanese case. Buy the case to hold the tenth set sealed, buy the single to own the Ariel, and do not trust any one Ariel price without a second read: one feed puts the Hades above the Ariel.",
+      "Who this is for: collectors ranking the Whispers chase, buyers weighing a four-box case against a $194.61 market box, and players building a Core deck from a set that is still legal. Who it is not for: anyone chasing one named Iconic by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Whispers in the Well's 10 best cards on TCGplayer market, Nov 27, 2026: the $1,583.74 Iconic Ariel, the $216.54 case box, and the $194.61 market box.",
+    "metaTitle": "Lorcana Whispers in the Well Best Cards, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: two Iconics, eight Enchanteds, and a case above the market box",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit, with price history last recorded November 26, 2026. The ten add to $5,016.71; the top two are $2,631.02, 52.45%. Ariel, Ethereal Voice (Iconic) 241/204 is $1,583.74, Hades, Looking for a Deal (Iconic) 242/204 is $1,047.28, and Spooky Sight (Enchanted) 237/204 is $726.68. Then Cinderella, Dream Come True (Enchanted) 236/204 at $432.08, Can't Hold It Back Anymore (Enchanted) 228/204 at $272.82, and Demona, Scourge of the Wyvern Clan (Enchanted) 227/204 at $236.37, Simba, King in the Making (Enchanted) 224/204 at $196.87, The Headless Horseman, Terror of Sleepy Hollow (Enchanted) 232/204 at $193.52, Nick Wilde, Persistent Investigator (Enchanted) 239/204 at $189.56, and Judy Hopps, Lead Detective (Enchanted) 235/204 at $137.79.",
+          "The Ariel is $1,583.74, 31.57% of the top ten and 1.51 times the Hades. The top three are $3,357.70, 66.93%; the top five are $4,062.60, 80.98%. Ranks three to five total $1,431.58, 28.54%, and ranks six to ten total $954.11, 19.02%, so the second rung sits $477.47 above the third. The Ariel is $190.22 below the Hades and the Spooky Sight combined, $1,773.96, at 0.89 times them, and 11.49 times the tenth card, Judy Hopps, at $137.79.",
+          "The reads agree almost everywhere except the top. GradeValue's November 27, 2026 read matches the TCGPursuit ten card for card, except the Judy Hopps at $138.35, $0.56 above the TCGPursuit read, and Lorebinder's November 26, 2026 read agrees on the Ariel at $1,583.74. TurnZero HQ's November 20, 2026 read puts the Ariel at $1,493.85, $89.89 below the November 27 read. The companion [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) runs the same ranking on set 9, where the top ten totals $12,818.10, and the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs it on set 7, where the top ten totals $1,926.86."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Whispers in the Well English case per box: $866.15 / 4 boxes = $216.54 per box",
+          "Whispers in the Well English case per pack: $866.15 / 96 packs = $9.02 per pack",
+          "Whispers in the Well English case per card: $866.15 / 1,152 cards = $0.75 per card",
+          "Whispers in the Well English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Whispers in the Well English case box vs MSRP box: $216.54 - $143.76 = $72.78 above MSRP per box",
+          "Whispers in the Well English case box vs MSRP box: $216.54 / $143.76 = 1.51x",
+          "Whispers in the Well English case vs MSRP case: 4 x $143.76 = $575.04; $866.15 - $575.04 = $291.11 above the list case",
+          "Whispers in the Well FASE market case vs our case: $891.24 - $866.15 = $25.09; $891.24 / $866.15 = 1.03x",
+          "Whispers in the Well FASE market case per box: $891.24 / 4 boxes = $222.81 per box",
+          "Whispers in the Well FASE market case per pack: $891.24 / 96 packs = $9.28 per pack",
+          "Whispers in the Well WorthRipping market box per pack: $194.61 / 24 packs = $8.11 per pack",
+          "Whispers in the Well WorthRipping market box vs case box: $216.54 - $194.61 = $21.93 above the market box",
+          "Whispers in the Well WorthRipping market box vs case box: $194.61 / $216.54 = 0.90x",
+          "Whispers in the Well four WorthRipping market boxes vs our case: 4 x $194.61 = $778.44; $866.15 - $778.44 = $87.71",
+          "Whispers in the Well TCGGuy market box vs case box: $222.74 - $216.54 = $6.20 above our case box",
+          "Whispers in the Well four TCGGuy market boxes vs FASE market case: 4 x $222.74 = $890.96; $891.24 - $890.96 = $0.28",
+          "Whispers in the Well market box read spread: $222.74 - $194.61 = $28.13; $28.13 is 14.45% of $194.61",
+          "Whispers in the Well Cardheist cheapest box vs case box: $299.95 - $216.54 = $83.41; $299.95 - $194.61 = $105.34 above the WorthRipping box",
+          "Whispers in the Well WorthRipping cards inside vs its box: $194.61 - $117.03 = $77.58 lost per box",
+          "Whispers in the Well WorthRipping cards inside vs its box: $117.03 is 60.14% of $194.61",
+          "Whispers in the Well WorthRipping cards inside vs our case box: $216.54 - $117.03 = $99.51 lost per box",
+          "Whispers in the Well WorthRipping cards inside vs our case box: $117.03 is 54.05% of $216.54",
+          "Whispers in the Well WorthRipping typical box vs our case box: $216.54 - $80 = $136.54 above the typical box",
+          "Whispers in the Well WorthRipping typical box vs our case box: $80 is 36.94% of $216.54",
+          "Whispers in the Well SSR expected value vs our case box: $100.10 / $216.54 = 46.23%",
+          "Whispers in the Well Trove per pack: $79 / 8 packs = $9.88 per pack",
+          "Whispers in the Well Trove cards inside vs its box: $79 - $39 = $40 lost per Trove",
+          "Whispers in the Well top 10 total: $1,583.74 + $1,047.28 + $726.68 + $432.08 + $272.82 + $236.37 + $196.87 + $193.52 + $189.56 + $137.79 = $5,016.71",
+          "Whispers in the Well top 2 total: $1,583.74 + $1,047.28 = $2,631.02; $2,631.02 / $5,016.71 = 52.45% of the top 10",
+          "Whispers in the Well top 3 total: $1,583.74 + $1,047.28 + $726.68 = $3,357.70; $3,357.70 / $5,016.71 = 66.93% of the top 10",
+          "Whispers in the Well top 5 total: $1,583.74 + $1,047.28 + $726.68 + $432.08 + $272.82 = $4,062.60; $4,062.60 / $5,016.71 = 80.98% of the top 10",
+          "Whispers in the Well ranks 3 to 5 total: $726.68 + $432.08 + $272.82 = $1,431.58; $1,431.58 / $5,016.71 = 28.54% of the top 10",
+          "Whispers in the Well bottom 5 total: $236.37 + $196.87 + $193.52 + $189.56 + $137.79 = $954.11; $954.11 / $5,016.71 = 19.02% of the top 10",
+          "Whispers in the Well Ariel share: $1,583.74 / $5,016.71 = 31.57% of the top 10",
+          "Whispers in the Well Ariel vs Hades: $1,583.74 / $1,047.28 = 1.51x",
+          "Whispers in the Well Ariel vs tenth card: $1,583.74 / $137.79 = 11.49x",
+          "Whispers in the Well Ariel vs Hades plus Spooky Sight: $1,047.28 + $726.68 = $1,773.96; $1,773.96 - $1,583.74 = $190.22; $1,583.74 / $1,773.96 = 0.89x",
+          "Whispers in the Well Ariel against the case: $1,583.74 / $216.54 = 7.31 case boxes; $1,583.74 / $866.15 = 1.83 cases",
+          "Whispers in the Well Ariel against the MSRP box: $1,583.74 / $143.76 = 11.02x",
+          "Whispers in the Well Ariel against the WorthRipping market box: $1,583.74 / $194.61 = 8.14x",
+          "Whispers in the Well top 10 against four WorthRipping market boxes: 4 x $194.61 = $778.44; $5,016.71 / $778.44 = 6.44x",
+          "Whispers in the Well top 10 against the cost to collect one of each: $5,016.71 / $6,367.61 = 78.78% of the set",
+          "Whispers in the Well Ariel regular trap: $1,583.74 - $1.52 = $1,582.22; $1,583.74 / $1.52 = 1,041.93x",
+          "Whispers in the Well Ariel foil trap: $1,583.74 - $12.62 = $1,571.12; $1,583.74 / $12.62 = 125.49x",
+          "Whispers in the Well Ariel 7-day move: $1,583.74 - $1,493.85 = $89.89; $89.89 is 6.02% of $1,493.85",
+          "Whispers in the Well Ariel October 10 to November 27: $1,583.74 - $1,482 = $101.74; $101.74 is 6.87% of $1,482",
+          "Whispers in the Well WorthRipping Hades spread: $1,575.19 - $1,047.28 = $527.91",
+          "Whispers in the Well WorthRipping Ariel spread: $1,583.74 - $1,333.06 = $250.68",
+          "Whispers in the Well WorthRipping Spooky Sight spread: $726.68 - $460.42 = $266.26",
+          "Whispers in the Well specific Enchanted chase: 75 boxes on average; 75 boxes x 24 packs = 1,800 packs; 1,800 packs / 96 packs per case = 18.75 cases; 18.75 cases x $866.15 = $16,240.31",
+          "Whispers in the Well specific Iconic chase: 150 boxes on average; 150 boxes x 24 packs = 3,600 packs; 3,600 packs / 96 packs per case = 37.5 cases; 37.5 cases x $866.15 = $32,480.63",
+          "Whispers in the Well Enchanted expectation per case: 96 packs / 100 packs per Enchanted = 0.96 Enchanted per case on average",
+          "Whispers in the Well Enchanted expectation per case at the counted rate: 96 packs / 132 packs per Enchanted = 0.73 Enchanted per case on average",
+          "Whispers in the Well Iconic expectation per case: 96 packs / 1,795 packs per Iconic = 0.05 Iconic per case on average",
+          "Whispers in the Well Epic expectation per case: 2.8 Epic per box x 4 boxes = 11.20 Epic per case",
+          "Whispers in the Well top 10 against the Fabled top 10: $12,818.10 - $5,016.71 = $7,801.39; $5,016.71 / $12,818.10 = 39.14% of the Fabled top 10",
+          "Whispers in the Well top 10 against the Archazia's Island top 10: $5,016.71 - $1,926.86 = $3,089.85; $5,016.71 / $1,926.86 = 2.60x",
+          "Whispers in the Well set value against the Fabled set value: $15,928.73 - $6,367.61 = $9,561.12; $6,367.61 / $15,928.73 = 39.98% of the Fabled set value",
+          "Whispers in the Well GradeValue set value vs TCGPursuit: $6,367.61 - $6,111.47 = $256.14",
+          "Whispers in the Well Judy Hopps gap to rank 11: $137.79 - $129.93 = $7.86",
+          "Whispers in the Well Judy Hopps read spread: $138.35 - $137.79 = $0.56",
+          "Whispers in the Well case box vs Fabled case box: $216.54 - $158.56 = $57.98 per box",
+          "Whispers in the Well case box vs Reign of Jafar case box: $216.54 - $98.48 = $118.06 per box",
+          "Whispers in the Well Iconic pair vs dearest Enchanted: $2,631.02 / $726.68 = 3.62x",
+          "Whispers in the Well second rung vs third rung: $1,431.58 - $954.11 = $477.47",
+          "Whispers in the Well Ariel vs Hades: $1,583.74 - $1,047.28 = $536.46"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $866.15, or $216.54 a box, $9.02 a pack, and $0.75 a card, as of November 27, 2026. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $72.78 above MSRP, at 1.51 times the MSRP box. Against the family, the Fabled case divides at $158.56 a box, $57.98 below this one, and the Reign of Jafar case at $98.48 a box, $118.06 below this one.",
+          "The market box is cheaper than our case box on one feed and dearer on another, and the reads disagree. WorthRipping's market box is $194.61, November 26, 2026, $8.11 a pack, $21.93 below our case box per box, 0.90 times it. TCGGuy's market box is $222.74, week ending November 22, 2026, $6.20 above our case box, and the two reads sit $28.13 apart, 14.45% of the WorthRipping read. Cardheist shows the cheapest in-stock box at $299.95 from one retailer, $83.41 above our case box. The market case is $891.24 on the FASE read of November 20, 2026, $25.09 above our case, 1.03 times it, $222.81 a box.",
+          "Inside a box, the expected value is thinner than any box price. WorthRipping's simulation, prices from November 26, 2026, puts $117.03 of cards inside a box after selling costs, $77.58 below its $194.61 box, 60.14% of it; 92 of 100 boxes lose money, and a typical box is worth $80, 36.94% of our case box. At our case box the average box sits $99.51 below it. The June 2026 SSR TCG study that made Whispers famous measured about $100.10 of expected card value in a box priced near $110, about 91 cents per dollar; against our $216.54 box the return falls to 46.23%. The Trove is no better: $79, with $39 of cards inside. The [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the verdict in one view: six ways to spend on Whispers in the Well.",
+          "The case row is the only row on our shelf. Four WorthRipping market boxes cost $778.44, and the top ten is 6.44 times that. The market case row reorders the decision: four boxes at market cost $891.24, while our case costs $866.15, a gap of $25.09, so the case discount is thin. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen cases to per-box prices, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) prices every case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$866.15",
+              "$216.54 a box, $9.02 a pack",
+              "Holding the tenth set sealed; the only Whispers sealed product here",
+              "Four boxes or nothing; no single box on the shelf; $72.78 above MSRP per box; $21.93 above the WorthRipping market box"
+            ],
+            [
+              "WorthRipping market box",
+              "$194.61",
+              "$8.11",
+              "One English box at a time",
+              "$28.13 below the TCGGuy read, so the market box has no single agreed price; $117.03 of cards inside after costs"
+            ],
+            [
+              "TCGGuy market box",
+              "$222.74",
+              "$9.28",
+              "One English box at the sealed-market read",
+              "$6.20 above our case box; $28.13 above WorthRipping"
+            ],
+            [
+              "FASE market case (4)",
+              "$891.24",
+              "$222.81 a box, $9.28 a pack",
+              "Four market boxes at once",
+              "Only $25.09 above our case, so the case discount is thin"
+            ],
+            [
+              "The single (Iconic Ariel)",
+              "$1,583.74",
+              "n/a",
+              "Owning the chase card",
+              "7.31 case boxes; WorthRipping reads the same card at $1,333.06, $250.68 apart"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $72.78 above it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the WorthRipping reversal, the market case, and the counted rate",
+        "note": "From the Warehouse: the question we get most in chat about Whispers is whether our $866.15 case is dear, because the market box reads $194.61 on one screen and $222.74 on another. Both screens are real reads from different feeds, and the gap is the story of this set: our case box sits above one market box and below the other, so the case is neither a bargain nor a markup until you pick which market read you trust. We also get asked whether the Ariel at $1,583.74 is a misprint, because another feed shows the Hades above it. It is not a misprint. The feeds disagree, and the TCGplayer market read is the one we price from.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. ScreenRant ranks ten cards to watch by play promise, with no prices at all. Joseph Writer Anderson picks five cards to buy early, with no prices either. Lorcana Player reviews the two starter decks, again with no market prices. None of the three divides a case, none prices the market box, and none counts a pull rate.",
+          "The gap this page owns is threefold. The WorthRipping feed reverses the top two: its own card table reads the Hades at $1,575.19 and the Ariel at $1,333.06, against $1,047.28 and $1,583.74 on TCGplayer market, so the Hades sits $527.91 above its TCGplayer read, the Ariel $250.68 below it, and the Spooky Sight $266.26 apart. GradeValue and Lorebinder agree with the TCGplayer market read on the Ariel at $1,583.74, so we price from it and report the reversal instead of averaging the feeds.",
+          "The second gap is the market case. No best-cards list prices sealed Whispers, yet the sealed price decides the buy: our case at $866.15 against a FASE market case at $891.24, a gap of $25.09, where the Fabled gap was $3,132.76. The third gap is the counted rate: WorthRipping's Enchanted rate of one in 100 packs is borrowed from same-layout boxes, while The Deck Box counted 1,056 Whispers packs and found 8 Enchanteds, one in 132, and opened three cases with no Enchanted at all."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Ariel and the Hades are $2,631.02, 52.45% of the top ten; the Ariel alone is $1,583.74, 31.57%, 1.51 times the Hades. The Hades is 1.44 times the Spooky Sight, and the Ariel is $190.22 below the Hades and the Spooky Sight combined, $1,773.96, at 0.89 times them. The Iconic pair is 3.62 times the dearest Enchanted.",
+          "The Enchanted rung splits in two. Ranks three to five, the Spooky Sight at $726.68, the Cinderella at $432.08, and the Can't Hold It Back Anymore at $272.82, total $1,431.58, 28.54% of the ten. Ranks six to ten, the Demona at $236.37, the Simba at $196.87, the Headless Horseman at $193.52, the Nick Wilde at $189.56, and the Judy Hopps at $137.79, total $954.11, 19.02%. The second rung sits $477.47 above the third. Below the ten sits Malicious, Mean, and Scary (Enchanted) 231/204 at $129.93, $7.86 below the Judy Hopps. No Epic card cracks the top ten, and the dearest Epic is the Elsa, Exploring the Unknown 208/204 at $19.13.",
+          "One of each of the set's 261 catalog versions costs $6,367.61 on TCGPursuit, November 27, 2026, and the top ten is $5,016.71 of that, 78.78%. GradeValue's set value is $6,111.47 across the 204 standard cards, $256.14 below the TCGPursuit figure. The Whispers top ten is $7,801.39 below the Fabled top ten, at 39.14% of it, and $3,089.85 above the Archazia's Island top ten, at 2.60 times it. The [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 132 packs counted, one in 3,600 for the Ariel",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is an estimate, and the two kinds of estimate disagree. WorthRipping's table, last checked October 14, 2026, puts an Enchanted at one in 100 packs, an Iconic at one in 1,795 packs, and an Epic at one in 8.6 packs. Its own page says the rates have not been measured on this box and come from same-layout boxes. The measured Whispers count is The Deck Box, via NerdSnack, updated November 6, 2026: 1,056 packs opened, 8 Enchanted, one in 132 packs, and 2 Iconics. A case holds 0.96 Enchanted on the WorthRipping rate and 0.73 on the counted rate, 0.05 Iconic on the WorthRipping rate and 0.18 on the counted rate, the last on a two-hit sample, and 11.20 Epics.",
+          "The specific card is rarer still. Eighteen Enchanteds share the one-in-100 slot, so one specific Enchanted averages 75 boxes, 1,800 packs, $16,240.31 of packs at our $866.15 case price. Two Iconics share the one-in-1,795 slot, so one specific Iconic averages 150 boxes, 3,600 packs, $32,480.63 of packs at our case price. The Ariel is 7.31 case boxes as a single. A collector chasing the Ariel buys the single.",
+          "The Ariel is three prices under one name: $1.52 as regular card 17, $12.62 as its holofoil, and $1,583.74 as Iconic 241, so a buyer who pays an Iconic price for the regular printing has overpaid by $1,582.22. The two Iconics are the same trap in reverse: the Ariel and the Hades are different cards, $536.46 apart, and the WorthRipping feed prices them the other way round. Check the collector number before you pay. The price risk: the Ariel read $1,344.77 on August 9, 2026, $1,482 on October 10, 2026, and $1,583.74 on November 27, 2026, up 6.87% in seven weeks, while NerdSnack's median of its last five TCGplayer sales is $1,499.99, with no sale after September 23, so the market price has moved on thin sales. The reseal risk: the box reads $194.61 on one feed and $299.95 on another, so check the seal, wrap tension, and pack order before opening, as the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) sets out."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, Boost and Whispers, and two formats",
+        "paragraphs": [
+          "Whispers in the Well is Disney Lorcana's tenth set, set 10 of 14. It reached game stores on November 7, 2025 and mass retail on November 14, 2025, at $5.99 a pack and $143.76 a box. The set holds 204 numbered cards, with 18 Epic, 205 to 222, 18 Enchanted, 223 to 240, and 2 Iconic, 241 and 242, for 242 numbered slots and 261 catalog versions on TCGPursuit. It launched two starter decks and an eight-pack Trove at $79 on the WorthRipping read of November 25, 2026, with $39 of cards inside.",
+          "The set adds Boost, which tucks the top card of the deck under a character for a stronger ability, Whisper glimmers, half-formed versions of familiar characters, the Alert keyword, and the Detective classification. It brings Gargoyles and The Black Cauldron into the game, and gives Zootopia and Mowgli their first Lorcana cards. The play lists agree on the cheap cards, not the dear ones: Cheshire Cat, Inexplicable and Mowgli, Man Cub lead the play rankings at $4.48 and $4.72, while the dearest Legendary, Demona 55/204, is $28.34. Play value in this set is cheap; chase value is foil.",
+          "Whispers is Core-legal. Core Constructed runs sets 9 to 14 as of October 2026, under Ravensburger's Tournament Rules, and the next rotation has not been announced, with sets 9 to 12 expected to leave in 2027. The ECB fixing used here is 159.26 yen to the dollar, November 26, 2026, the latest published at writing, since the November 27 fixing publishes near 15:00 UTC and was not out at drafting. Our Whispers stock is English only, with no Japanese case, and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese shelf."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Iconic: the Ariel averages 150 boxes, 3,600 packs, $32,480.63 of packs at our case price, so buy the single. It is not for anyone who wants a single English box, because the only English Whispers product here is the four-box case. It is not for anyone who pays an Iconic price without checking the number, because the same Ariel name is $1.52 as card 17 and $1,583.74 as Iconic 241. It is not for anyone who needs the prices to hold."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Ariel, own the ten, hold the tenth set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Ariel, buy the single: $1,583.74 Iconic on the November 27, 2026 TCGplayer market read, and check the number, 241/204, because the same name is $1.52 as card 17.",
+          "If the job is the ten, buy the English case at $866.15, four boxes at $216.54 each, and treat the Iconic as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $194.61, not a case you cannot split, and re-check the TCGGuy read at $222.74 before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the number on any Ariel, because card 17 is $1.52 and Iconic 241 is $1,583.74."
+        ],
+        "h": "Action layer: the Whispers in the Well best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles, and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) ranks the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "lorcana-whispers-in-the-well-best-cards",
+    "takeaway": [
+      "The Whispers top ten, on TCGplayer market prices checked November 27, 2026, totals $5,016.71, and the Ariel is $1,583.74 of it, 31.57%. The two Iconics are $2,631.02, 52.45%, the top five are $4,062.60, 80.98%, and the bottom five are $954.11, 19.02%, against ranks three to five at $1,431.58, 28.54%. No Epic card cracks the top ten, and the dearest Epic is the Elsa, Exploring the Unknown at $19.13.",
+      "On our shelf as of November 27, 2026, there is exactly one Whispers product: the English sealed case at $866.15, four boxes at $216.54 a box, $9.02 a pack, $0.75 a card, $72.78 above the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Ariel is 7.31 case boxes and 1.83 of a whole case. The market case is $891.24, and our case sits $25.09 below it.",
+      "It is worth buying as the tenth set sealed at a shelf price near the market case, and it is not worth buying as a way to own one named Iconic. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the WorthRipping rate puts one specific Iconic at 150 boxes on average, 3,600 packs, $32,480.63 of packs at our case price, while the counted rate is one Enchanted in 132 packs. Buy the single, or buy the case to hold it sealed and treat the Iconic as a bonus.",
+      "The Ariel has no single price: $1,583.74 on TCGplayer market via TCGPursuit, with GradeValue and Lorebinder agreeing, $1,333.06 on WorthRipping, and $1,499.99 as the median of its last five TCGplayer sales on NerdSnack. Do not average the reads. Use the dated TCGplayer market read and re-check before paying, and read the number on any Ariel, because card 17 is $1.52 and Iconic 241 is $1,583.74.",
+      "One set back, the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, on TCGplayer market checked November 27, 2026.",
+      "Companion guide: the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, on TCGplayer market checked November 27, 2026.",
+      "For the earlier sets, the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, and the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs it on set 7, where the top ten totals $1,926.86, $3,089.85 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Whispers at $216.54 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box. For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+    ]
+  },
+  "lorcana-winterspell-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Iconic Moana, Curious Explorer, 242/204, at $1,287.29 on TCGplayer market checked November 27, 2026, from TCGPursuit's Winterspell read, with price history last recorded November 27, 2026. GradeValue's read agrees at $1,287, $0.29 apart. TCGplayer's own November 19, 2026 infographic puts the same card at $1,248.52, $38.77 below, and TCG Comp's snapshot puts it at $1,123, $164.29 below. Use the dated TCGplayer market read and re-check before paying.",
+        "q": "What is the most valuable Winterspell card?"
+      },
+      {
+        "a": "The reads come from different feeds. WorthRipping's market box is $157.97 on November 26, 2026, Cardheist's best in-stock box is $230 from one retailer, and InkSight's box is $219 on November 23, 2026. WorthRipping tracks its own market price, Cardheist tracks the cheapest in-stock listing across its retailers, and InkSight tracks its own daily snapshot, so the three feeds do not agree on one box. The WorthRipping read is the base here because it carries the full box math, cards inside at $116.06 after selling costs and a typical box at $76. Do not average the three reads: averaging a $157.97 market price with a $230 listing invents a price no market lists.",
+        "q": "Why do the market box reads disagree by $72.03?"
+      },
+      {
+        "a": "Buy the English case if the job is four Winterspell boxes sealed: $1,095.70, four boxes at $273.93 a box, $11.41 a pack, $0.95 a card, $130.17 above the MSRP box per box, and $463.82 above four WorthRipping market boxes at $631.88. Buy the market box if the job is one box: $157.97 on the WorthRipping read of November 26, 2026, $6.58 a pack, or $230 on the Cardheist best-price read, and the two reads disagree by $72.03 a box. Do not use the WorthRipping lowest listing of $104.26 as the market box: it is a listing, not a sale. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Winterspell English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Winterspell Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Winterspell is the Iconic Moana, Curious Explorer, 242/204, at $1,287.29 on TCGplayer market checked November 27, 2026, and the ten best add to $5,139.92, the two Iconics alone at $2,380.43. Our shelf, November 27, 2026, carries the English sealed case at $1,095.70, four boxes at $273.93 a box, $11.41 a pack, $0.95 a card, $130.17 above the MSRP box per box, with no single box and no Japanese case. Buy the case to hold the eleventh set sealed, buy the single to own the Moana, and do not trust any one Moana price: three reads disagree by $164.29.",
+      "Who this is for: collectors ranking the Winterspell chase now that the Iconic pair leads it, buyers weighing a four-box case against a $157.97 market box, and players building a Core deck from a set that is still legal. Who it is not for: anyone chasing one named Iconic by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Winterspell's 10 best cards on TCGplayer market, Nov 27, 2026: the $1,287.29 Iconic Moana, the $273.93 case box, and the $157.97 market box.",
+    "metaTitle": "Lorcana Winterspell Best Cards, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: two Iconics, eight more, and a case above the market",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit. The ten add to $5,139.92; the top two are $2,380.43, 46.31%. Moana, Curious Explorer (Iconic) 242/204 is $1,287.29, Pocahontas, Peacekeeper (Iconic) 241/204 is $1,093.14, and Elsa, Ice Artisan (Enchanted) 233/204 is $696.65. Then Eeyore, In the Way (Enchanted) 226/204 at $459.70, Ohana Means Family (Enchanted) 224/204 at $345.46, and Angel, Experiment 624 (Enchanted) 238/204 at $274.61, The Cold Never Bothered Me (Enchanted) 234/204 at $272.02, Anna, Soothing Sister (Enchanted) 227/204 at $258.26, Belle, Snowfield Strategist (Enchanted) 236/204 at $233.54, and Colors of the Wind (Enchanted) 228/204 at $219.25.",
+          "The Moana is $1,287.29, 25.04% of the top ten and 1.18 times the Pocahontas. The top three are $3,077.08, 59.87%; the top five are $3,882.24, 75.53%. Ranks three to five total $1,501.81, 29.22%, and ranks six to ten total $1,257.68, 24.47%, so the second rung sits $244.13 above the third. The Moana is $502.50 below the Pocahontas and the Elsa combined, $1,789.79, at 0.72 times them, and 5.87 times the tenth card at $219.25.",
+          "The reads agree almost everywhere except the top. GradeValue's read agrees on the Moana at $1,287, $0.29 apart, and Lanakit's November 24, 2026 read agrees on the Elsa at $696.65, the Eeyore at $459.70, and the Colors of the Wind at $219.25. TCGplayer's own November 19, 2026 infographic puts the Moana at $1,248.52, $38.77 below, and the Elsa at $714.00, $17.35 above. The companion [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) runs the same ranking on set 9, where the top ten totals $12,818.10."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Winterspell English case per box: $1,095.70 / 4 boxes = $273.93 per box",
+          "Winterspell English case per pack: $1,095.70 / 96 packs = $11.41 per pack",
+          "Winterspell English case per card: $1,095.70 / 1,152 cards = $0.95 per card",
+          "Winterspell English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Winterspell English case box vs MSRP box: $273.93 - $143.76 = $130.17 above MSRP per box",
+          "Winterspell English case box vs MSRP box: $273.93 / $143.76 = 1.91x",
+          "Winterspell WorthRipping market box per pack: $157.97 / 24 packs = $6.58 per pack",
+          "Winterspell WorthRipping market box vs case box: $273.93 - $157.97 = $115.96 per box",
+          "Winterspell WorthRipping market box vs case box: $273.93 / $157.97 = 1.73x",
+          "Winterspell Cardheist box vs case box: $273.93 - $230 = $43.93 per box",
+          "Winterspell Cardheist box vs case box: $273.93 / $230 = 1.19x",
+          "Winterspell Cardheist box vs WorthRipping box: $230 - $157.97 = $72.03 apart",
+          "Winterspell Cardheist box vs WorthRipping box: $230 / $157.97 = 1.46x",
+          "Winterspell InkSight box vs WorthRipping box: $219 - $157.97 = $61.03 apart",
+          "Winterspell four WorthRipping boxes: 4 x $157.97 = $631.88",
+          "Winterspell four WorthRipping boxes vs our case: $1,095.70 - $631.88 = $463.82",
+          "Winterspell four WorthRipping boxes vs our case: $1,095.70 / $631.88 = 1.73x",
+          "Winterspell four Cardheist boxes: 4 x $230 = $920",
+          "Winterspell four Cardheist boxes vs our case: $1,095.70 - $920 = $175.70",
+          "Winterspell four Cardheist boxes vs our case: $1,095.70 / $920 = 1.19x",
+          "Winterspell WorthRipping cards inside vs its box: $157.97 - $116.06 = $41.91 lost per box",
+          "Winterspell WorthRipping cards inside vs its box: $116.06 is 73.47% of $157.97",
+          "Winterspell WorthRipping typical box vs its box: $157.97 - $76 = $81.97 lost per box",
+          "Winterspell WorthRipping typical box vs its box: $76 is 48.11% of $157.97",
+          "Winterspell WorthRipping typical box vs our case box: $273.93 - $76 = $197.93 above the typical box",
+          "Winterspell WorthRipping cards inside vs our case box: $273.93 - $116.06 = $157.87 above the average box",
+          "Winterspell WorthRipping box 7-day move: $157.97 - $136 = $21.97; $21.97 is 16.15% of $136",
+          "Winterspell WorthRipping box 30-day move: $207 - $157.97 = $49.03; $49.03 is 23.69% of $207",
+          "Winterspell Trove per pack: $61.53 / 8 packs = $7.69 per pack",
+          "Winterspell Trove loss: $61.53 - $38.61 = $22.92",
+          "Winterspell top 10 total: $1,287.29 + $1,093.14 + $696.65 + $459.70 + $345.46 + $274.61 + $272.02 + $258.26 + $233.54 + $219.25 = $5,139.92",
+          "Winterspell top 2 total: $1,287.29 + $1,093.14 = $2,380.43; $2,380.43 / $5,139.92 = 46.31% of the top 10",
+          "Winterspell top 3 total: $1,287.29 + $1,093.14 + $696.65 = $3,077.08; $3,077.08 / $5,139.92 = 59.87% of the top 10",
+          "Winterspell top 5 total: $1,287.29 + $1,093.14 + $696.65 + $459.70 + $345.46 = $3,882.24; $3,882.24 / $5,139.92 = 75.53% of the top 10",
+          "Winterspell ranks 3 to 5 total: $696.65 + $459.70 + $345.46 = $1,501.81; $1,501.81 / $5,139.92 = 29.22% of the top 10",
+          "Winterspell bottom 5 total: $274.61 + $272.02 + $258.26 + $233.54 + $219.25 = $1,257.68; $1,257.68 / $5,139.92 = 24.47% of the top 10",
+          "Winterspell second rung vs third rung: $1,501.81 - $1,257.68 = $244.13 apart",
+          "Winterspell Moana share: $1,287.29 / $5,139.92 = 25.04% of the top 10",
+          "Winterspell Moana vs Pocahontas: $1,287.29 / $1,093.14 = 1.18x",
+          "Winterspell Moana vs tenth card: $1,287.29 / $219.25 = 5.87x",
+          "Winterspell Moana vs Pocahontas plus Elsa: $1,093.14 + $696.65 = $1,789.79; $1,789.79 - $1,287.29 = $502.50; $1,287.29 / $1,789.79 = 0.72x",
+          "Winterspell Moana against the case: $1,287.29 / $273.93 = 4.70 case boxes; $1,287.29 / $1,095.70 = 1.17x",
+          "Winterspell Moana against the MSRP box: $1,287.29 / $143.76 = 8.95x",
+          "Winterspell Moana against the WorthRipping market box: $1,287.29 / $157.97 = 8.15x",
+          "Winterspell Moana against the Cardheist box: $1,287.29 / $230 = 5.60x",
+          "Winterspell Moana Iconic vs Legendary: $1,287.29 - $8.05 = $1,279.24; $1,287.29 / $8.05 = 159.91x",
+          "Winterspell Moana Iconic vs foil Legendary: $1,287.29 - $15.44 = $1,271.85; $1,287.29 / $15.44 = 83.37x",
+          "Winterspell Moana GradeValue spread: $1,287.29 - $1,287 = $0.29",
+          "Winterspell Moana TCGplayer infographic spread: $1,287.29 - $1,248.52 = $38.77; $38.77 is 3.11% of $1,248.52",
+          "Winterspell Moana TCG Comp spread: $1,287.29 - $1,123 = $164.29; $164.29 is 14.63% of $1,123",
+          "Winterspell Moana September 30 to November 27: $1,287.29 - $1,250.98 = $36.31; $36.31 is 2.90% of $1,250.98",
+          "Winterspell Pocahontas read spread: $1,093.14 - $1,071.31 = $21.83; $21.83 is 2.04% of $1,071.31",
+          "Winterspell Elsa read spread: $714 - $696.65 = $17.35; $17.35 is 2.49% of $696.65",
+          "Winterspell Ohana read spread: $354.46 - $345.46 = $9",
+          "Winterspell Angel read spread: $277.79 - $274.61 = $3.18",
+          "Winterspell WorthRipping Moana feed spread: $1,287.29 - $791.69 = $495.60; $495.60 is 38.50% of $1,287.29",
+          "Winterspell WorthRipping Pocahontas feed spread: $1,093.14 - $971.97 = $121.17",
+          "Winterspell WorthRipping Elsa feed spread: $696.65 - $600.33 = $96.32",
+          "Winterspell specific Enchanted chase: 75 boxes on average; 75 boxes x 24 packs = 1,800 packs; 1,800 packs / 96 packs per case = 18.75 cases; 18.75 cases x $1,095.70 = $20,544.38",
+          "Winterspell specific Iconic chase: 150 boxes on average; 150 boxes x 24 packs = 3,600 packs; 3,600 packs / 96 packs per case = 37.5 cases; 37.5 cases x $1,095.70 = $41,088.75",
+          "Winterspell counted specific Enchanted chase: 198 boxes on average; 198 boxes x 24 packs = 4,752 packs; 4,752 packs / 96 packs per case = 49.5 cases; 49.5 cases x $1,095.70 = $54,237.15",
+          "Winterspell Enchanted expectation per case: 96 packs / 100 packs per Enchanted = 0.96 Enchanted per case on average",
+          "Winterspell Enchanted expectation per case at the counted rate: 96 packs / 264 packs per Enchanted = 0.36 Enchanted per case on average",
+          "Winterspell Iconic expectation per case: 96 packs / 1,795 packs per Iconic = 0.05 Iconic per case on average",
+          "Winterspell Epic expectation per case: 2.8 Epic per box x 4 boxes = 11.20 Epic per case",
+          "Winterspell top 10 against four WorthRipping market boxes: $5,139.92 / $631.88 = 8.13x",
+          "Winterspell top 10 against the cost to collect one of each: $5,139.92 / $7,060.82 = 72.79% of the set",
+          "Winterspell top 10 against the Fabled top 10: $12,818.10 - $5,139.92 = $7,678.18; $5,139.92 / $12,818.10 = 0.40x",
+          "Winterspell GradeValue set vs TCGPursuit collect cost: $7,060.82 - $6,790.07 = $270.75",
+          "Winterspell Raging Storm gap: $219.25 - $218.81 = $0.44",
+          "Winterspell Raging Storm Guardian spread: $248.38 - $218.81 = $29.57",
+          "Winterspell Epic Bob Cratchit read spread: $26.79 - $24.25 = $2.54"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $1,095.70, or $273.93 a box, $11.41 a pack, and $0.95 a card, as of November 27, 2026. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $130.17 above MSRP, at 1.91 times the MSRP box. This is the second-dearest case box on the shelf after The First Chapter: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+          "The market box is cheaper than our case box, and the reads disagree. WorthRipping's market box is $157.97, November 26, 2026, $6.58 a pack, $115.96 below our case box per box, our case box at 1.73 times it. Cardheist's best in-stock box is $230 from one retailer, $43.93 below our case box, $72.03 above the WorthRipping box, at 1.46 times it. InkSight's box is $219, November 23, 2026, $61.03 above the WorthRipping box. Four WorthRipping market boxes cost $631.88, $463.82 below our case; four Cardheist boxes cost $920, $175.70 below it. The box moved fast: up $21.97, up 16.15%, in seven days from $136, and down $49.03, down 23.69%, in thirty days from $207.",
+          "Inside a box, the expected value is thinner than any box price. WorthRipping's simulation, prices from November 26, 2026, puts $116.06 of cards inside a box after selling costs, $41.91 below its $157.97 box, 73.47% of it; 83 of 100 boxes lose money, and a typical box is worth $76, 48.11% of it. The typical box sits $197.93 below our case box, and the average box sits $157.87 below it. The Trove is no better per pack: $61.53, $7.69 a pack, with $38.61 of cards inside, a $22.92 loss. The [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) carries the full fourteen-case board."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the verdict in one view: six ways to spend on Winterspell.",
+          "The case row is the only row on our shelf, $115.96 above the WorthRipping box per box and $43.93 above the Cardheist box. Four WorthRipping market boxes cost $631.88, and the top ten is 8.13 times that. One box at market costs $157.97, while one box inside our case costs $273.93. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen cases to per-box prices, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) prices every case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$1,095.70",
+              "$273.93 a box, $11.41 a pack",
+              "Holding the eleventh set sealed; the only Winterspell sealed product here",
+              "Four boxes or nothing; no single box on the shelf; $130.17 above MSRP per box"
+            ],
+            [
+              "WorthRipping market box",
+              "$157.97",
+              "$6.58",
+              "One English box at a time",
+              "$115.96 below our case box per box; 83 of 100 boxes lose money"
+            ],
+            [
+              "Cardheist best-price box",
+              "$230",
+              "$9.58",
+              "One English box in stock now",
+              "$72.03 above the WorthRipping box; one retailer only"
+            ],
+            [
+              "Four market boxes (WorthRipping)",
+              "$631.88",
+              "$6.58 a pack",
+              "Four market boxes at once",
+              "$463.82 below our case; still four boxes to store"
+            ],
+            [
+              "The single (Iconic Moana)",
+              "$1,287.29",
+              "n/a",
+              "Owning the chase card",
+              "4.70 case boxes; TCG Comp reads $1,123, $164.29 apart"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $130.17 above it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the Moana spread, the market box, and the counted rate",
+        "note": "From the Warehouse: the question we get most in chat about Winterspell is whether our $1,095.70 case is a misprint, because the market box is $157.97. It is not a misprint. Our case is the same four boxes at a shelf price set while the set was in print, and the market box is what a single sealed Winterspell box trades for now. We also get asked which Moana price is real, because one screen says $1,287.29 and another says $1,123. Both screens are real reads from different feeds, and the gap is the story of this set: even the dearest card in Winterspell has no single agreed price.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. ThePawn02 ranks them on TCGplayer prices from launch week, the Moana at $550 and the Pocahontas just over $400. TCG Comp ranks them on a snapshot, the Moana at $1,123, and lists an Iconic rate of one in 650 packs from a small sample. The official Disney Lorcana deckbuilding post does not rank prices at all: it builds Boost decks around the new cards.",
+          "The gap this page owns is threefold. The Moana spread is $164.29 wide: $1,287.29 on TCGplayer market via TCGPursuit, $1,248.52 on TCGplayer's own November 19, 2026 infographic, and $1,123 on TCG Comp. The infographic read sits 3.11% below the base, and the TCG Comp read sits 14.63% below it. GradeValue agrees with the base at $1,287, $0.29 apart. WorthRipping's own card feed disagrees further: it reads the Moana at $791.69, $495.60 below the TCGplayer market read, the Pocahontas at $971.97, $121.17 below, and the Elsa at $600.33, $96.32 below. We do not average the reads; the TCGplayer market read is the base.",
+          "The second gap is the market box. No best-cards list prices sealed Winterspell, yet the sealed price decides the buy: our case box at $273.93 against a market box at $157.97, a gap of $115.96 a box, and the market box reads disagree by $72.03. No published market case figure for Winterspell was found, so none is used here; four market boxes at $631.88 stand in its place. The third gap is the counted rate. WorthRipping's Enchanted rate of one in 100 packs is borrowed from same-layout boxes, not counted on Winterspell, while The Deck Box counted 1,056 Winterspell packs and found 4 Enchanteds, one in 264, and zero Iconics."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Moana and the Pocahontas are $2,380.43, 46.31% of the top ten; the Moana alone is $1,287.29, 25.04%. The Moana carries the sharpest printing trap: the same name is $8.05 as regular card 155 and $1,287.29 as Iconic 242 on the reads of September 30 and November 27, 2026, so the Iconic is $1,279.24 above the regular printing, 159.91 times it. The foil Legendary is $15.44 on September 30, 2026, so the Iconic is $1,271.85 above the foil, 83.37 times it.",
+          "The Enchanted rung splits in two. Ranks three to five, the Elsa at $696.65, the Eeyore at $459.70, and the Ohana at $345.46, total $1,501.81, 29.22% of the ten. Ranks six to ten, the Angel at $274.61, The Cold Never Bothered Me at $272.02, the Anna at $258.26, the Belle at $233.54, and the Colors of the Wind at $219.25, total $1,257.68, 24.47%. The second rung sits $244.13 above the third. Below the ten sits Raging Storm (Enchanted) 225/204 at $218.81 on the TickerMint and Lorebinder reads of November 26, 2026, $0.44 below the Colors of the Wind. No Epic card cracks the top ten, and the dearest Epic is the Mickey Mouse, Bob Cratchit (Epic) 219/204 at $24.25 on the TCGPursuit read of November 27, 2026, with other reads at $24.82 to $26.79.",
+          "One of each of the set's 262 priced versions costs $7,060.82 on TCGPursuit, November 27, 2026, and the top ten is $5,139.92 of that, 72.79%. GradeValue puts the set at $6,790.07, $270.75 below the TCGPursuit collect cost. Against Fabled, the Winterspell top ten is $7,678.18 below the Fabled top ten of $12,818.10, at 0.40 times it. The [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 100 packs, one in 3,600 for the Moana",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate. WorthRipping's table, last checked October 14, 2026, puts an Enchanted at one in 100 packs, one in 4.2 boxes, an Iconic at one in 1,795 packs, one in 75 boxes, and an Epic at one in 8.6 packs, 2.8 per box. That Enchanted rate is borrowed from same-layout boxes, not measured on Winterspell. The measured Winterspell count is The Deck Box, via NerdSnack, updated November 6, 2026: 1,056 packs opened, 4 Enchanted, one in 264 packs, zero Iconics. A case holds 0.96 Enchanted on the WorthRipping rate and 0.36 on the counted rate, 0.05 Iconic, and 11.20 Epics.",
+          "The specific card is rarer still. Eighteen Enchanteds share the one-in-100 slot, so one specific Enchanted averages 75 boxes, 1,800 packs, $20,544.38 of packs at our $1,095.70 case price, and 198 boxes, $54,237.15, at the counted rate. Two Iconics share the one-in-1,795 slot, so one specific Iconic averages 150 boxes, 3,600 packs, $41,088.75 of packs at our case price. The Moana is 4.70 case boxes as a single, 8.95 times the MSRP box and 8.15 times the market box. A collector chasing the Moana buys the single.",
+          "The Moana is two prices under one name: $8.05 as regular card 155 and $1,287.29 as Iconic 242, so a buyer who pays an Iconic price for the regular printing has overpaid by $1,279.24. The Pocahontas is the same trap: the Legendary 22/204 is a single-digit card while the Iconic 241/204 is $1,093.14, so check the number before you pay. The price risk: the Moana read $1,250.98 on September 30, 2026, and $1,287.29 on TCGplayer market on November 27, 2026, up $36.31, up 2.90%, in eight weeks, while the market box fell $49.03, down 23.69%, in thirty days. The reseal risk: the box reads $157.97 on one feed and $230 on another, so check the seal, wrap tension, and pack order before opening, as the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) sets out."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, two new keywords, and two formats",
+        "paragraphs": [
+          "Winterspell is Disney Lorcana's eleventh set, set 11 of 14. It reached game stores on February 13, 2026 and mass retail on February 20, 2026, at $5.99 a pack and $143.76 a box, per Ravensburger's January 20, 2026 announcement. The set holds 204 numbered cards, 34 in each of the six inks, with no dual-ink cards, plus 18 Epic, 205 to 222, 18 Enchanted, 223 to 240, and 2 Iconic, 241 and 242, for 242 catalog versions. One more card joined later: Sven, Leaping Reindeer, 243/204, a Super Rare from Illumineer's Quest: The Great Hunny Rescue, released October 2, 2026, which the official gallery lists under set 11.",
+          "The set brings Pocahontas, Mickey's Christmas Carol, Lilo and Stitch: The Series, Darkwing Duck, and The Fox and the Hound into the game. Boost returns from Whispers in the Well, now on 18 cards including locations for the first time, and the new keyword Underdog makes a character 1 ink cheaper on your first turn if you are not the starting player. The two Iconics carry a Papercut Style, like paper snowflake decorations. The set launched two starter decks and an eight-pack Trove.",
+          "Winterspell is Core legal. Core Constructed now runs sets 9 to 14, Fabled through Hyperia City, released October 2026, with one banned card, My Adventure Book. The next rotation is not yet dated; when it comes, sets 9 to 12 are expected to leave, so Winterspell's Core window runs into 2027. Infinity Constructed keeps every set legal. The ECB fixing used here is 159.26 yen to the dollar, November 26, 2026, the latest published at writing, since the November 27 fixing publishes around 15:00 UTC and was not out at drafting. Our Winterspell stock is English only, with no Japanese case, and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese shelf."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Iconic: the Moana averages 150 boxes, 3,600 packs, $41,088.75 of packs at our case price, so buy the single. It is not for anyone who wants a single English box, because the only English Winterspell product here is the four-box case. It is not for anyone who pays an Iconic price without checking the number, because the same Moana name is $8.05 as card 155 and $1,287.29 as Iconic 242. It is not for anyone who needs the prices to hold."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Moana, own the ten, hold the eleventh set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Moana, buy the single: $1,287.29 Iconic on the November 27, 2026 TCGplayer market read, and check the number, 242/204, because TCG Comp reads the same card at $1,123.",
+          "If the job is the ten, buy the English case at $1,095.70, four boxes at $273.93 each, and treat the Iconic as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $157.97, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the number on any Moana, because card 155 is $8.05 and Iconic 242 is $1,287.29."
+        ],
+        "h": "Action layer: the Winterspell best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles, and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) ranks the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "lorcana-winterspell-best-cards",
+    "takeaway": [
+      "The Winterspell top ten, on TCGplayer market prices checked November 27, 2026, totals $5,139.92, and the Moana is $1,287.29 of it, 25.04%. The two Iconics are $2,380.43, 46.31%, the top five are $3,882.24, 75.53%, and the bottom five are $1,257.68, 24.47%, against ranks three to five at $1,501.81, 29.22%. No Epic card cracks the top ten, and the dearest Epic is the Mickey Mouse, Bob Cratchit at $24.25.",
+      "On our shelf as of November 27, 2026, there is exactly one Winterspell product: the English sealed case at $1,095.70, four boxes at $273.93 a box, $11.41 a pack, $0.95 a card, $130.17 above the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Moana is 4.70 case boxes and 1.17 of a whole case. The market box is $157.97, and our case box sits $115.96 above it.",
+      "It is worth buying as the eleventh set sealed at a shelf price far above the market box, and it is not worth buying as a way to own one named Iconic. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the WorthRipping rate puts one specific Iconic at 150 boxes on average, 3,600 packs, $41,088.75 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Iconic as a bonus.",
+      "The Moana has no single price: $1,287.29 on TCGplayer market via TCGPursuit, $1,248.52 on TCGplayer's own November 19, 2026 infographic, and $1,123 on TCG Comp, all read November 19 to 27, 2026. Do not average the reads. Use the dated TCGplayer market read and re-check before paying, and read the number on any Moana, because card 155 is $8.05 and Iconic 242 is $1,287.29.",
+      "One set back, the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, on TCGplayer market checked November 27, 2026, where the top ten totals $12,818.10, $7,678.18 above this set.",
+      "Companion guide: the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) runs the same ranking on set 10, the set before Winterspell, and the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8, where the case box sits far below this one, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs it on set 7, where the top ten totals $1,926.86. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Winterspell at $273.93 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
+      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
     ]
   },
   "m1l-best-cards": {
