@@ -47507,7 +47507,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [Lorcana Azurite Sea best cards guide](/blog/lorcana-azurite-sea-best-cards/) runs the same ranking on set 6, where the case divides at $101.29 a box, $57.17 below this set, and the [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) runs it on set 4, and the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs it on set 3, where the top ten totals $906.10, $1,020.76 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Archazia's Island at $158.46 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
       "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
       "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
-      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "One set on, the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, with the Stitch at $480.12 and the top ten at $2,470.27, and the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, with the Mickey at $4,166.67 and the top ten at $12,818.10, both on November 27, 2026."
     ]
   },
   "lorcana-azurite-sea-best-cards": {
@@ -47998,6 +47999,242 @@ export const POSTS: Record<string, BlogPost> = {
       "For the set behind the $107.10 case box, the [Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) ranks the ten Enchanted rares, with the Cinderella at $260.68 and the top ten at $905.87 on November 27, 2026."
     ]
   },
+  "lorcana-fabled-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Iconic Mickey Mouse, Brave Little Prince, 242/204, at $4,166.67 on TCGplayer market checked November 27, 2026, from TCGPursuit's Fabled read, with price history last recorded November 27, 2026. TurnZero HQ's November 20, 2026 read agrees at $4,166.67. GradeValue's November 26, 2026 read puts the same card at $5,727.34 and WorthRipping's November 26, 2026 read puts it at $5,480.26, so three reads disagree by $1,560.67. On October 9, 2026, a Cardsprices infographic put the Mickey at $8,000 raw on TCGplayer. Use the dated TCGplayer market read and re-check before paying.",
+        "q": "What is the most valuable Fabled card?"
+      },
+      {
+        "a": "The reads come from different feeds. TCGPursuit reports TCGplayer's own market price, GradeValue reports its own raw read, and WorthRipping reports its own feed, and the three feeds do not agree on the dearest card in the game. The TCGplayer market read is the base here because it is the marketplace's own estimate with a dated history line, last recorded November 27, 2026. Do not average the three reads: averaging a $4,166.67 market price with a $5,727.34 raw read invents a price no market lists. The disagreement is not limited to the Mickey: WorthRipping reads the Winnie the Pooh Enchanted at $1,143.72 against $1,603.77 on TCGplayer market, $460.05 apart.",
+        "q": "Why do the Mickey prices disagree by $1,560.67?"
+      },
+      {
+        "a": "Buy the English case if the job is four Fabled boxes sealed: $634.24, four boxes at $158.56 a box, $6.61 a pack, $14.80 above the MSRP box per box, and $3,132.76 below the $3,767 market case. Buy the market box if the job is one box: $752.09 on the WorthRipping read of November 26, 2026, $31.34 a pack, or $712 on the Lorcanalytics median eBay sold read of November 24, 2026, $29.67 a pack, and the two reads disagree by $40.09 a box. Do not use the WorthRipping lowest listing of $301.76 as the market box: it is a listing, not a sale. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Fabled English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Fabled Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Fabled is the Iconic Mickey Mouse, Brave Little Prince, 242/204, at $4,166.67 on TCGplayer market checked November 27, 2026, and the ten best add to $12,818.10, the two Iconics alone at $7,260.42. Our shelf, November 27, 2026, carries the English sealed case at $634.24, four boxes at $158.56 a box, $6.61 a pack, $0.55 a card, $14.80 above the MSRP box per box, with no single box and no Japanese case. Buy the case to hold the ninth set sealed, buy the single to own the Mickey, and do not trust any one Mickey price: three reads disagree by $1,560.67.",
+      "Who this is for: collectors ranking the Fabled chase now that Iconic is the top tier, buyers weighing a four-box case against a $752.09 market box, and players building a Core deck from a set that is still legal. Who it is not for: anyone chasing one named Iconic by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Fabled's 10 best cards on TCGplayer market, Nov 27, 2026: the $4,166.67 Iconic Mickey, the $158.56 case box, and the $752.09 market box.",
+    "metaTitle": "Lorcana Fabled Best Cards, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: two Iconics, eight more, and a case far below the market",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit. The ten add to $12,818.10; the top two are $7,260.42, 56.64%. Mickey Mouse, Brave Little Prince (Iconic) 242/204 is $4,166.67, Minnie Mouse, Sweetheart Princess (Iconic) 241/204 is $3,093.75, and Winnie the Pooh, Hunny Wizard (Enchanted) 227/204 is $1,603.77. Then Ariel, Adventurous Collector (Enchanted) 232/204 at $831.14, Mickey Mouse, Steamboat Pilot (Enchanted) 231/204 at $722.32, and Circle of Life (Enchanted) 225/204 at $576.69, I2I (Enchanted) 234/204 at $569.92, Dumbo, Ninth Wonder of the Universe (Enchanted) 228/204 at $539.50, Scar, Finally King (Enchanted) 239/204 at $373.86, and Belle, Accomplished Mystic (Enchanted) 226/204 at $340.48.",
+          "The Mickey is $4,166.67, 32.51% of the top ten and 1.35 times the Minnie. The top three are $8,864.19, 69.15%; the top five are $10,417.65, 81.27%. Ranks three to five total $3,157.23, 24.63%, and ranks six to ten total $2,400.45, 18.73%, so the second rung sits $756.78 above the third. The Mickey is $530.85 below the second and third cards combined, $4,697.52, at 0.89 times them, and 12.24 times the tenth card, Belle, at $340.48.",
+          "The reads agree almost everywhere except the top. TurnZero HQ's November 20, 2026 read agrees on the Mickey at $4,166.67, and puts the Minnie $10.42 apart at $3,083.33, the Winnie $5.24 apart at $1,598.53, the Steamboat Pilot $16.73 apart at $705.59. The Circle of Life, I2I, and Dumbo match on both reads. The Ariel moved between the reads, up $56.86 from $774.28 to $831.14, up 7.34%. The Scar rose $9.11, up 2.50%, from $364.75 on TCGplayer's October 20, 2026 price-trends post; the Belle fell $10.52, down 3.00%, from $351 on October 9, 2026. The companion [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs the same ranking on set 7, where the top ten totals $1,926.86."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Fabled English case per box: $634.24 / 4 boxes = $158.56 per box",
+          "Fabled English case per pack: $634.24 / 96 packs = $6.61 per pack",
+          "Fabled English case per card: $634.24 / 1,152 cards = $0.55 per card",
+          "Fabled English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Fabled English case box vs MSRP box: $158.56 - $143.76 = $14.80 above MSRP per box",
+          "Fabled English case box vs MSRP box: $158.56 / $143.76 = 1.10x",
+          "Fabled case box vs Archazia's Island case box: $158.56 - $158.46 = $0.10 per box",
+          "Fabled case box vs Reign of Jafar case box: $158.56 - $98.48 = $60.08 per box",
+          "Fabled market case vs our case: $3,767 - $634.24 = $3,132.76",
+          "Fabled market case vs our case: $3,767 / $634.24 = 5.94x",
+          "Fabled market case per box: $3,767 / 4 boxes = $941.75 per box",
+          "Fabled market case per pack: $3,767 / 96 packs = $39.24 per pack",
+          "Fabled market case move since October: $3,767 - $3,361.75 = $405.25; $405.25 is 12.05% of $3,361.75",
+          "Fabled WorthRipping market box per pack: $752.09 / 24 packs = $31.34 per pack",
+          "Fabled WorthRipping market box vs case box: $752.09 - $158.56 = $593.53 per box",
+          "Fabled WorthRipping market box vs case box: $752.09 / $158.56 = 4.74x",
+          "Fabled Lorcanalytics median box per pack: $712 / 24 packs = $29.67 per pack",
+          "Fabled Lorcanalytics median box vs case box: $712 - $158.56 = $553.44 per box",
+          "Fabled Lorcanalytics median box vs case box: $712 / $158.56 = 4.49x",
+          "Fabled market box read spread: $752.09 - $712 = $40.09 apart",
+          "Fabled WorthRipping lowest listing vs market box: $752.09 - $301.76 = $450.33 apart",
+          "Fabled WorthRipping cards inside vs its box: $752.09 - $200.23 = $551.86 lost per box",
+          "Fabled WorthRipping cards inside vs its box: $200.23 is 26.62% of $752.09",
+          "Fabled WorthRipping typical box vs its box: $93 / $752.09 = 12.37% of the box",
+          "Fabled WorthRipping typical box vs our case box: $158.56 - $93 = $65.56 above the typical box",
+          "Fabled WorthRipping cards inside vs our case box: $200.23 - $158.56 = $41.67 above our case box",
+          "Fabled top 10 against four WorthRipping market boxes: 4 x $752.09 = $3,008.36; $12,818.10 / $3,008.36 = 4.26x",
+          "Fabled Trove per pack: $162.70 / 8 packs = $20.34 per pack",
+          "Fabled top 10 total: $4,166.67 + $3,093.75 + $1,603.77 + $831.14 + $722.32 + $576.69 + $569.92 + $539.50 + $373.86 + $340.48 = $12,818.10",
+          "Fabled top 2 total: $4,166.67 + $3,093.75 = $7,260.42; $7,260.42 / $12,818.10 = 56.64% of the top 10",
+          "Fabled top 3 total: $4,166.67 + $3,093.75 + $1,603.77 = $8,864.19; $8,864.19 / $12,818.10 = 69.15% of the top 10",
+          "Fabled top 5 total: $4,166.67 + $3,093.75 + $1,603.77 + $831.14 + $722.32 = $10,417.65; $10,417.65 / $12,818.10 = 81.27% of the top 10",
+          "Fabled ranks 3 to 5 total: $1,603.77 + $831.14 + $722.32 = $3,157.23; $3,157.23 / $12,818.10 = 24.63% of the top 10",
+          "Fabled bottom 5 total: $576.69 + $569.92 + $539.50 + $373.86 + $340.48 = $2,400.45; $2,400.45 / $12,818.10 = 18.73% of the top 10",
+          "Fabled second rung vs third rung: $3,157.23 - $2,400.45 = $756.78 apart",
+          "Fabled Mickey share: $4,166.67 / $12,818.10 = 32.51% of the top 10",
+          "Fabled Mickey vs Minnie: $4,166.67 / $3,093.75 = 1.35x",
+          "Fabled Mickey vs tenth card: $4,166.67 / $340.48 = 12.24x",
+          "Fabled Mickey vs second plus third: $3,093.75 + $1,603.77 = $4,697.52; $4,697.52 - $4,166.67 = $530.85; $4,166.67 / $4,697.52 = 0.89x",
+          "Fabled Mickey against the case: $4,166.67 / $158.56 = 26.28 case boxes; $4,166.67 / $634.24 = 6.57 cases",
+          "Fabled Mickey against the MSRP box: $4,166.67 / $143.76 = 28.98x",
+          "Fabled Mickey against the WorthRipping market box: $4,166.67 / $752.09 = 5.54x",
+          "Fabled Iconic Mickey vs Enchanted Steamboat Pilot: $4,166.67 / $722.32 = 5.77x",
+          "Fabled top 10 against the cost to collect one of each: $12,818.10 / $15,928.73 = 80.47% of the set",
+          "Fabled Mickey GradeValue spread: $5,727.34 - $4,166.67 = $1,560.67; $1,560.67 is 37.46% of $4,166.67",
+          "Fabled Mickey GradeValue vs TCGPursuit: $5,727.34 / $4,166.67 = 1.37x",
+          "Fabled Mickey WorthRipping spread: $5,480.26 - $4,166.67 = $1,313.59; $5,480.26 / $4,166.67 = 1.32x",
+          "Fabled Mickey GradeValue vs WorthRipping: $5,727.34 - $5,480.26 = $247.08",
+          "Fabled Mickey October 9 to November 27: $8,000 - $4,166.67 = $3,833.33; $3,833.33 is 47.92% of $8,000",
+          "Fabled Minnie read spread: $3,093.75 - $3,083.33 = $10.42",
+          "Fabled Winnie read spread: $1,603.77 - $1,598.53 = $5.24",
+          "Fabled Winnie WorthRipping spread: $1,603.77 - $1,143.72 = $460.05 apart",
+          "Fabled Ariel 7-day move: $831.14 - $774.28 = $56.86; $56.86 is 7.34% of $774.28",
+          "Fabled Steamboat Pilot read spread: $722.32 - $705.59 = $16.73",
+          "Fabled Scar move since October 20: $373.86 - $364.75 = $9.11; $9.11 is 2.50% of $364.75",
+          "Fabled Belle move since October 9: $351 - $340.48 = $10.52; $10.52 is 3.00% of $351",
+          "Fabled Minnie Iconic vs regular Minnie: $3,093.75 - $19.06 = $3,074.69; $3,093.75 / $19.06 = 162.32x",
+          "Fabled Cruella gap: $340.48 - $200.58 = $139.90",
+          "Fabled Pongo gap: $340.48 - $318.27 = $22.21",
+          "Fabled specific Enchanted chase: 75 boxes on average; 75 boxes x 24 packs = 1,800 packs; 1,800 packs / 96 packs per case = 18.75 cases; 18.75 cases x $634.24 = $11,892.00",
+          "Fabled specific Iconic chase: 150 boxes on average; 150 boxes x 24 packs = 3,600 packs; 3,600 packs / 96 packs per case = 37.5 cases; 37.5 cases x $634.24 = $23,784.00",
+          "Fabled Enchanted expectation per case: 96 packs / 100 packs per Enchanted = 0.96 Enchanted per case on average",
+          "Fabled Enchanted expectation per case at the counted rate: 96 packs / 88 packs per Enchanted = 1.09 Enchanted per case on average",
+          "Fabled Iconic expectation per case: 96 packs / 1,795 packs per Iconic = 0.05 Iconic per case on average",
+          "Fabled Epic expectation per case: 2.8 Epic per box x 4 boxes = 11.20 Epic per case",
+          "Fabled top 10 against the Archazia's Island top 10: $12,818.10 - $1,926.86 = $10,891.24; $12,818.10 / $1,926.86 = 6.65x",
+          "Fabled top 10 against the First Chapter top 10: $12,818.10 - $2,822.34 = $9,995.76; $12,818.10 / $2,822.34 = 4.54x"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $634.24, or $158.56 a box, $6.61 a pack, and $0.55 a card, as of November 27, 2026. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $14.80 above MSRP, at 1.10 times the MSRP box. Against the family: the Archazia's Island case divides at $158.46 a box, $0.10 below this one, and the Reign of Jafar case at $98.48 a box, $60.08 below this one.",
+          "The market box is dearer, and the reads disagree. WorthRipping's market box is $752.09, November 26, 2026, $31.34 a pack, $593.53 above our case box per box, 4.74 times it. Lorcanalytics' median eBay sold box is $712, November 24, 2026, $29.67 a pack, $553.44 above our case box, 4.49 times it, a $40.09 spread. WorthRipping also shows a lowest listing of $301.76, $450.33 below its market box. The market case is $3,767 on the TCGGuy read for the week ending November 22, 2026, $3,132.76 above our case, 5.94 times it, $941.75 a box, up $405.25, up 12.05%, from $3,361.75 at October 27 to 29, 2026.",
+          "Inside a box, the expected value is thinner than any box price except ours. WorthRipping's simulation, prices from November 26, 2026, puts $200.23 of cards inside a box after selling costs, $551.86 below its $752.09 box, 26.62% of it; 97 of 100 boxes lose money, and a typical box is worth $93, 12.37% of it. The typical box sits $65.56 below our case box, so the usual box loses money even at our price, while the average box sits $41.67 above it, carried by the rare Iconic hit. The Trove is no better per pack: $162.70, $20.34 a pack, with $66.74 of cards inside. The [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the verdict in one view: six ways to spend on Fabled.",
+          "The case row is the only row on our shelf, $553.44 below the Lorcanalytics median box per box and $593.53 below the WorthRipping box. Four WorthRipping market boxes cost $3,008.36, and the top ten is 4.26 times that. The market case row reorders the decision: four boxes at market cost $3,767, while our case costs $634.24. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen cases to per-box prices, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) prices every case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$634.24",
+              "$158.56 a box, $6.61 a pack",
+              "Holding the ninth set sealed; the only Fabled sealed product here",
+              "Four boxes or nothing; no single box on the shelf; $14.80 above MSRP per box"
+            ],
+            [
+              "WorthRipping market box",
+              "$752.09",
+              "$31.34",
+              "One English box at a time",
+              "$593.53 above our case box per box; 4.74 times it"
+            ],
+            [
+              "Lorcanalytics median eBay box",
+              "$712",
+              "$29.67",
+              "One English box at a real sale price",
+              "$553.44 above our case box; disagrees with WorthRipping by $40.09"
+            ],
+            [
+              "Market case (4)",
+              "$3,767",
+              "$941.75 a box, $39.24 a pack",
+              "Four market boxes at once",
+              "5.94 times our case; $3,132.76 above it"
+            ],
+            [
+              "The single (Iconic Mickey)",
+              "$4,166.67",
+              "n/a",
+              "Owning the chase card",
+              "26.28 case boxes; GradeValue reads $5,727.34, $1,560.67 apart"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $14.80 above it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the Mickey spread, the market case, and the Iconic tier",
+        "note": "From the Warehouse: the question we get most in chat about Fabled is which Mickey price is real, because one screen says $4,166.67 and another says $5,727.34. Both screens are real reads from different feeds, and the gap is the story of this set: the dearest card in Lorcana has no single agreed price. We also get asked whether our $634.24 case is a misprint, because the market case is $3,767. It is not a misprint. Our case is the same four boxes at a shelf price set while the set was in print, and the market case is what sealed Fabled trades for now that it is not.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. TCGPursuit ranks them on TCGplayer market prices, history last recorded November 27, 2026, the Mickey at $4,166.67. TurnZero HQ ranks the same cards on its November 20, 2026 read, the Mickey at $4,166.67 and the Minnie at $3,083.33. TCGplayer's own most-expensive-cards article is a cross-set list: its seventh card, Pocahontas, Peacekeeper, is a Winterspell Iconic, not a Fabled card.",
+          "The gap this page owns is threefold. The Mickey spread is $1,560.67 wide: $4,166.67 on TCGplayer market via TCGPursuit, $5,480.26 on WorthRipping, and $5,727.34 on GradeValue, all read November 26 to 27, 2026. The GradeValue read sits 37.46% above the TCGplayer read, at 1.37 times it; the WorthRipping read sits 1.32 times it, $1,313.59 above it; GradeValue and WorthRipping sit $247.08 apart. The Winnie disagrees too: $1,143.72 on WorthRipping against $1,603.77 on TCGplayer market, $460.05 apart. We do not average the reads; the TCGplayer market read is the base.",
+          "The second gap is the market case. No best-cards list prices sealed Fabled, yet the sealed price is the largest number in the set: our case at $634.24 against a market case at $3,767, a gap of $3,132.76, the market case up 12.05% since $3,361.75 at October 27 to 29, 2026. The third gap is the Iconic tier: Fabled is the set that added it. Iconic sits above Enchanted, two cards per set, full-card art, a lore star foil pattern, and 3D hot stamping, and the two Fabled Iconics are the two dearest cards in the set."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Mickey and the Minnie are $7,260.42, 56.64% of the top ten; the Mickey alone is $4,166.67, 32.51%, 1.35 times the Minnie. The Mickey is $530.85 below the Minnie and the Winnie combined, $4,697.52, at 0.89 times them. The Minnie carries the sharpest printing trap: the same name is $19.06 as regular card 5 and $3,093.75 as Iconic 241 on the TCGPursuit read of November 27, 2026, so the Iconic is $3,074.69 above the regular printing, 162.32 times it.",
+          "The Enchanted rung splits in two. Ranks three to five, the Winnie at $1,603.77, the Ariel at $831.14, and the Steamboat Pilot at $722.32, total $3,157.23, 24.63% of the ten. Ranks six to ten, the Circle of Life at $576.69, the I2I at $569.92, the Dumbo at $539.50, the Scar at $373.86, and the Belle at $340.48, total $2,400.45, 18.73%. The second rung sits $756.78 above the third. The Ariel is the mover of the week, up $56.86, up 7.34%, in seven days. Below the ten sits Pongo, Determined Father (Enchanted) 223/204 at $318.27 on the GradeValue read of November 26, 2026, $22.21 below the Belle. Cruella De Vil, Style Icon (Enchanted) 236/204 is seventeenth at $200.58, $139.90 below the Belle.",
+          "One of each of the set's 253 catalog versions costs $15,928.73 on TCGPursuit, November 27, 2026, and the top ten is $12,818.10 of that, 80.47%, while 169 versions sit under $1. Against the other sets in this series, the Fabled top ten is $10,891.24 above the Archazia's Island top ten, at 6.65 times it, and $9,995.76 above the First Chapter top ten of $2,822.34, at 4.54 times it. The [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1 the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 100 packs, one in 3,600 for the Mickey",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate. WorthRipping's table, last checked October 26, 2026, puts an Enchanted at one in 100 packs, one in 4.2 boxes, an Iconic at one in 1,795 packs, one in 75 boxes, and an Epic at one in 8.6 packs, 2.8 per box. Its Enchanted rate is a published estimate, not a measured Fabled sample. The measured Fabled count is The Deck Box, via NerdSnack, updated November 6, 2026: 1,056 packs opened, 12 Enchanted, one in 88 packs, zero Iconics. A case holds 0.96 Enchanted on the WorthRipping rate and 1.09 on the counted rate, 0.05 Iconic, and 11.20 Epics.",
+          "The specific card is rarer still. Eighteen Enchanteds share the one-in-100 slot, so one specific Enchanted averages 75 boxes, 1,800 packs, $11,892.00 of packs at our $634.24 case price. Two Iconics share the one-in-1,795 slot, so one specific Iconic averages 150 boxes, 3,600 packs, $23,784.00 of packs at our case price. The Mickey is 26.28 case boxes and 6.57 whole cases as a single, 28.98 times the MSRP box and 5.54 times the market box. A collector chasing the Mickey buys the single.",
+          "The Minnie is two prices under one name: $19.06 as regular card 5 and $3,093.75 as Iconic 241, so a buyer who pays an Iconic price for the regular printing has overpaid by $3,074.69. The two Mickeys are the same trap: the Iconic Brave Little Prince, 242/204, at $4,166.67, and the Enchanted Steamboat Pilot, 231/204, at $722.32, are different cards, and the Iconic is 5.77 times the Enchanted. Check the collector number before you pay. The price risk: the Mickey read $8,000 raw on October 9, 2026, and $4,166.67 on TCGplayer market on November 27, 2026, down $3,833.33, down 47.92%, in seven weeks. The reseal risk: the box reads $712 on one feed and $752.09 on another, so check the seal, wrap tension, and pack order before opening, as the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) sets out."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, two new rarities, reprints, and two formats",
+        "paragraphs": [
+          "Fabled is Disney Lorcana's ninth set, set 9 of 14. It reached game stores on August 29, 2025 and mass retail on September 5, 2025, at $5.99 a pack and $143.76 a box. The set holds 204 numbered cards, with 18 Epic, 205 to 222, 18 Enchanted, 223 to 240, and 2 Iconic, 241 and 242, for 253 catalog versions. It brings A Goofy Movie and Dumbo into the game, with no new keyword mechanic. It is a reprint set: 171 of 204 cards are reprints from sets 1 to 4, against 33 new cards, so the value sits in its 38 chase cards.",
+          "Epic sits between Legendary and Enchanted, frameless art, rainbow foil, tinted text, 18 per set. Iconic sits above Enchanted, full-card art, lore star foil, 3D hot stamp, 2 per set. Enchanted cards changed too: rainbow foil hot stamping, holofoil-stamped rarity symbol. The dearest Epic is the Elsa, Snow Queen at $48.57 on the GradeValue read of November 26, 2026. The set launched two starter decks and an eight-pack Trove.",
+          "Fabled started rotation: at mass retail on September 5, 2025, sets 1 to 4 left Core Constructed in the first rotation, and Fabled's reprints kept the best-known cards from those sets legal. On July 17, 2026, the Attack of the Vine! prerelease rotated sets 5 to 8 out, and Core now runs sets 9 to 14, Fabled through Hyperia City, released October 16, 2026 in game stores and October 23, 2026 at mass retail. The [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) ranks set 4 the same way. The ECB fixing used here is 159.26 yen to the dollar, November 26, 2026, the latest published at writing. Our Fabled stock is English only, with no Japanese case, and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese shelf."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Iconic: the Mickey averages 150 boxes, 3,600 packs, $23,784.00 of packs at our case price, so buy the single. It is not for anyone who wants a single English box, because the only English Fabled product here is the four-box case. It is not for anyone who pays an Iconic price without checking the number, because the same Minnie name is $19.06 as card 5 and $3,093.75 as Iconic 241. It is not for anyone who needs the prices to hold."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Mickey, own the ten, hold the ninth set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Mickey, buy the single: $4,166.67 Iconic on the November 27, 2026 TCGplayer market read, and check the number, 242/204, because GradeValue reads the same card at $5,727.34.",
+          "If the job is the ten, buy the English case at $634.24, four boxes at $158.56 each, and treat the Iconic as a bonus, not the plan.",
+          "If the job is one box, buy the Lorcanalytics median eBay box at $712, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the number on any Minnie, because card 5 is $19.06 and Iconic 241 is $3,093.75."
+        ],
+        "h": "Action layer: the Fabled best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles, and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) ranks the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "lorcana-fabled-best-cards",
+    "takeaway": [
+      "The Fabled top ten, on TCGplayer market prices checked November 27, 2026, totals $12,818.10, and the Mickey is $4,166.67 of it, 32.51%. The two Iconics are $7,260.42, 56.64%, the top five are $10,417.65, 81.27%, and the bottom five are $2,400.45, 18.73%, against ranks three to five at $3,157.23, 24.63%. No Epic card cracks the top ten, and the dearest Epic is the Elsa, Snow Queen at $48.57.",
+      "On our shelf as of November 27, 2026, there is exactly one Fabled product: the English sealed case at $634.24, four boxes at $158.56 a box, $6.61 a pack, $0.55 a card, $14.80 above the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Mickey is 26.28 case boxes and 6.57 of a whole case. The market case is $3,767, and our case sits $3,132.76 below it.",
+      "It is worth buying as the ninth set sealed at a shelf price far below the market case, and it is not worth buying as a way to own one named Iconic. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the WorthRipping rate puts one specific Iconic at 150 boxes on average, 3,600 packs, $23,784.00 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Iconic as a bonus.",
+      "The Mickey has no single price: $4,166.67 on TCGplayer market via TCGPursuit, $5,480.26 on WorthRipping, and $5,727.34 on GradeValue, all read November 26 to 27, 2026, and $8,000 raw on October 9, 2026. Do not average the reads. Use the dated TCGplayer market read and re-check before paying, and read the number on any Minnie, because card 5 is $19.06 and Iconic 241 is $3,093.75.",
+      "One set back, the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, on TCGplayer market checked November 27, 2026.",
+      "Companion guide: the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs the same ranking on set 7, where the top ten totals $1,926.86, $10,891.24 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) runs it on set 5, where the top ten totals $1,114.95, and the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs it on set 3, where the top ten totals $906.10. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Fabled at $158.56 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
+      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+    ]
+  },
   "lorcana-first-chapter-best-cards": {
     "datePublished": "2026-11-26",
     "faqs": [
@@ -48222,7 +48459,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Next in the series, the [Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) ranks set 2 the same way, with the Cinderella at $260.68 and the top ten at $905.87 on November 27, 2026.",
       "Two sets on, the [Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks set 3 the same way, with the Mickey at $212.65 and the top ten at $906.10 on November 27, 2026.",
       "Three sets on, the [Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) ranks set 4 the same way, with the Ariel at $148.32 and the top ten at $913.75, and the [Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) ranks set 5 the same way, with the Mufasa at $306.02 and the top ten at $1,114.95, both on November 27, 2026.",
-      "Six sets on, the [Azurite Sea best cards guide](/blog/lorcana-azurite-sea-best-cards/) ranks set 6 the same way, with the Tigger at $157.73 and the top ten at $839.17, and the [Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) ranks set 7 the same way, with the Mickey at $469.99 and the top ten at $1,926.86, both on November 27, 2026."
+      "Six sets on, the [Azurite Sea best cards guide](/blog/lorcana-azurite-sea-best-cards/) ranks set 6 the same way, with the Tigger at $157.73 and the top ten at $839.17, and the [Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) ranks set 7 the same way, with the Mickey at $469.99 and the top ten at $1,926.86, both on November 27, 2026.",
+      "Seven sets on, the [Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, with the Stitch at $480.12 and the top ten at $2,470.27, and the [Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, with the Mickey at $4,166.67 and the top ten at $12,818.10, both on November 27, 2026."
     ]
   },
   "lorcana-into-the-inklands-best-cards": {
@@ -48454,6 +48692,236 @@ export const POSTS: Record<string, BlogPost> = {
       "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
       "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp.",
       "Companion guide: the [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) ranks set 4 the same way, with the Ariel at $148.32 and the top ten at $913.75, and the [Lorcana Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) ranks set 5 the same way, with the Mufasa at $306.02 and the top ten at $1,114.95, both on November 27, 2026."
+    ]
+  },
+  "lorcana-reign-of-jafar-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "Stitch, Experiment 626 (Enchanted) 220/204, at $480.12 on TCGplayer market checked November 27, 2026, from TCGPursuit's Reign of Jafar read, price history last recorded November 26, 2026. GradeValue's November 26, 2026 read agrees at $480.12, and TurnZero's November 20, 2026 catalog puts it at $475.48, so three reads sit within $4.64. TCGplayer's own October 20, 2026 price-trends post puts it at $471.98, up $91.92 in the month, and the same post says it was $120 to $125 in February, so it has risen about four times in nine months. The next card, It Means No Worries (Enchanted) 208/204, is $365.91, $114.21 below the Stitch.",
+        "q": "What is the most valuable Reign of Jafar card?"
+      },
+      {
+        "a": "Because they were read on different days from different feeds. TCGPursuit and GradeValue, both read November 26, 2026, put Into the Unknown (Enchanted) 213/204 at $331.02 and Rapunzel, High Climber (Enchanted) 214/204 at $316.98. Lanakit, checked November 24, 2026, puts them at $328.62 and $313.96, $2.40 and $3.02 lower, 0.73% and 0.95% apart. The order does not change on either read, and the other eight cards agree exactly between TCGPursuit and GradeValue. Hoshino is the outlier to ignore for ranking: it prints the Stitch at $599 on November 26, 2026, because it prices from eight recorded sales, not from TCGplayer market, so it measures a different thing.",
+        "q": "Why do two lists give different prices for Into the Unknown and Rapunzel?"
+      },
+      {
+        "a": "Buy the English case if the job is four Reign of Jafar boxes sealed: $393.93, four boxes at $98.48 a box, $4.10 a pack, $0.34 a card, $45.28 below the MSRP box per box, and $206.07 below four Cardheist market boxes at $150 each. Buy the market box if the job is one box: $150 on the Cardheist read of November 27, 2026, $6.25 a pack. Do not use the WorthRipping read of $113.56 as the market box without noting it: it disagrees with the Cardheist read by $36.44 a box. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Reign of Jafar English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Reign of Jafar Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Reign of Jafar is the Enchanted Stitch, Experiment 626, 220/204, at $480.12 on TCGplayer market checked November 27, 2026, and the ten best cards are all Enchanted rares adding to $2,470.27. Our shelf, November 27, 2026, carries the English sealed case at $393.93, four boxes at $98.48 a box, $4.10 a pack, and $0.34 a card, $45.28 below the MSRP box per box, with no single box and no Japanese case. Buy the case to hold the set sealed, buy the single to own the Stitch.",
+      "Who this is for: collectors ranking the Reign of Jafar chase, buyers weighing a four-box case against a $150 market box, and players building an Infinity deck from a rotated set. Who it is not for: anyone chasing one named Enchanted by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Reign of Jafar's 10 best cards on TCGplayer market, Nov 27, 2026: the $480.12 Enchanted Stitch, the $98.48 case box, and the $150 market box.",
+    "metaTitle": "Lorcana Reign of Jafar Best Cards, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Stitch, nine more, and a case below retail",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit's read, history last recorded November 26, 2026. The ten add to $2,470.27, and the top three are $1,177.05 of it, 47.65%. Stitch, Experiment 626 (Enchanted) 220/204 is $480.12, It Means No Worries (Enchanted) 208/204 is $365.91, and Into the Unknown (Enchanted) 213/204 is $331.02. Behind them, Rapunzel, High Climber (Enchanted) 214/204 at $316.98, Bambi, Little Prince (Enchanted) 209/204 at $244.65, and Jasmine, Steady Strategist (Enchanted) 221/204 at $186.32. Then Lady, Decisive Dog (Enchanted) 205/204 at $163.76, Perdita, Determined Mother (Enchanted) 207/204 at $143.58, Kuzco, Impulsive Llama (Enchanted) 210/204 at $120.57, and Mushu, Your Worst Nightmare (Enchanted) 218/204 at $117.36.",
+          "The Stitch is $480.12, 19.44% of the top ten on its own, and 1.31 times the second card. The top two are $846.03, 34.25%, and the top five are $1,738.68, 70.38%. The second rung, ranks three to five, totals $892.65, 36.14%, and the third rung, ranks six to ten, totals $731.59, 29.62%, so the second rung sits $161.06 above the third. No non-Enchanted card cracks the top ten, and the dearest regular printing in the set is the Tinker Bell, Insistent Fairy Legendary at $6.13.",
+          "A collector chasing the Stitch buys the single: the card is 4.88 case boxes and 1.22 whole cases. A collector who wants the eighth set sealed buys the case at $98.48 a box, $45.28 below the MSRP box, the cheapest per-box price on our shelf. The companion [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs the same ranking on set 7, where the top ten totals $1,926.86, $543.41 below this set."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Reign of Jafar English case per box: $393.93 / 4 boxes = $98.48 per box",
+          "Reign of Jafar English case per pack: $393.93 / 96 packs = $4.10 per pack",
+          "Reign of Jafar English case per card: $393.93 / 1,152 cards = $0.34 per card",
+          "Reign of Jafar English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Reign of Jafar English case box vs MSRP box: $143.76 - $98.48 = $45.28 below MSRP per box",
+          "Reign of Jafar English case box vs MSRP box: $98.48 / $143.76 = 0.69x",
+          "Reign of Jafar English case vs MSRP case: 4 x $143.76 = $575.04; $575.04 - $393.93 = $181.11 below the MSRP case",
+          "Reign of Jafar Cardheist market box per pack: $150 / 24 packs = $6.25 per pack",
+          "Reign of Jafar Cardheist market box vs case box: $150 - $98.48 = $51.52 per box",
+          "Reign of Jafar Cardheist market box vs case box: $150 / $98.48 = 1.52x",
+          "Reign of Jafar four Cardheist market boxes: 4 x $150 = $600; $600 - $393.93 = $206.07 above our case",
+          "Reign of Jafar WorthRipping market box per pack: $113.56 / 24 packs = $4.73 per pack",
+          "Reign of Jafar WorthRipping market box vs case box: $113.56 - $98.48 = $15.08 per box",
+          "Reign of Jafar WorthRipping market box vs case box: $113.56 / $98.48 = 1.15x",
+          "Reign of Jafar WorthRipping market box vs Cardheist box: $150 - $113.56 = $36.44 apart",
+          "Reign of Jafar FASE market case per box: $558.05 / 4 boxes = $139.51 per box",
+          "Reign of Jafar FASE market case vs our case: $558.05 - $393.93 = $164.12",
+          "Reign of Jafar FASE market box vs Cardheist box: $155.27 - $150 = $5.27 apart",
+          "Reign of Jafar WorthRipping cards inside vs its box: $113.56 - $60 = $53.56 lost per box",
+          "Reign of Jafar WorthRipping typical box vs its box: $23 / $113.56 = 20.25% of the box",
+          "Reign of Jafar Illumineer's Trove per pack: $47 / 8 packs = $5.88 per pack",
+          "Reign of Jafar Illumineer's Trove cards inside vs its price: $47 - $20 = $27 lost per trove",
+          "Reign of Jafar Archazia's Island case box vs Reign of Jafar case box: $158.46 - $98.48 = $59.98 per box",
+          "Reign of Jafar Azurite Sea case box vs Reign of Jafar case box: $101.29 - $98.48 = $2.81 per box",
+          "Reign of Jafar Archazia's Island case vs Reign of Jafar case: $633.83 - $393.93 = $239.90",
+          "Reign of Jafar top 10 total: $480.12 + $365.91 + $331.02 + $316.98 + $244.65 + $186.32 + $163.76 + $143.58 + $120.57 + $117.36 = $2,470.27",
+          "Reign of Jafar top 2 total: $480.12 + $365.91 = $846.03; $846.03 / $2,470.27 = 34.25% of the top 10",
+          "Reign of Jafar top 3 total: $480.12 + $365.91 + $331.02 = $1,177.05; $1,177.05 / $2,470.27 = 47.65% of the top 10",
+          "Reign of Jafar top 5 total: $480.12 + $365.91 + $331.02 + $316.98 + $244.65 = $1,738.68; $1,738.68 / $2,470.27 = 70.38% of the top 10",
+          "Reign of Jafar bottom 5 total: $186.32 + $163.76 + $143.58 + $120.57 + $117.36 = $731.59; $731.59 / $2,470.27 = 29.62% of the top 10",
+          "Reign of Jafar second rung total: $331.02 + $316.98 + $244.65 = $892.65; $892.65 / $2,470.27 = 36.14% of the top 10",
+          "Reign of Jafar second rung vs third rung: $892.65 - $731.59 = $161.06 apart",
+          "Reign of Jafar Stitch share: $480.12 / $2,470.27 = 19.44% of the top 10",
+          "Reign of Jafar Into the Unknown share: $331.02 / $2,470.27 = 13.40% of the top 10",
+          "Reign of Jafar Stitch vs second card: $480.12 / $365.91 = 1.31x",
+          "Reign of Jafar Stitch vs tenth card: $480.12 / $117.36 = 4.09x",
+          "Reign of Jafar Stitch vs second plus third: $365.91 + $331.02 = $696.93; $696.93 - $480.12 = $216.81; $480.12 / $696.93 = 0.69x",
+          "Reign of Jafar Stitch against the case: $480.12 / $98.48 = 4.88 case boxes; $480.12 / $393.93 = 1.22 cases",
+          "Reign of Jafar Stitch against the MSRP box: $480.12 / $143.76 = 3.34x",
+          "Reign of Jafar Stitch against the Cardheist box: $480.12 / $150 = 3.20x",
+          "Reign of Jafar top 10 against the case: $2,470.27 / $393.93 = 6.27 cases; $2,470.27 / $98.48 = 25.08 case boxes",
+          "Reign of Jafar top 10 against the cost to collect one of each: $2,470.27 / $3,333.55 = 74.10% of the set",
+          "Reign of Jafar Stitch against the cost to collect one of each: $480.12 / $3,333.55 = 14.40% of the set",
+          "Reign of Jafar Stitch Oct 20 to Nov 26: $480.12 - $471.98 = $8.14; $8.14 is 1.72% of $471.98",
+          "Reign of Jafar Stitch Nov 20 to Nov 26: $480.12 - $475.48 = $4.64; $4.64 is 0.98% of $475.48",
+          "Reign of Jafar Stitch February to November: $480.12 / $120 = 4.00x; $480.12 / $125 = 3.84x",
+          "Reign of Jafar Lanakit Into the Unknown spread: $331.02 - $328.62 = $2.40; $2.40 is 0.73% of $331.02",
+          "Reign of Jafar Lanakit Rapunzel spread: $316.98 - $313.96 = $3.02; $3.02 is 0.95% of $316.98",
+          "Reign of Jafar Hoshino Stitch vs TCGplayer market: $599 - $480.12 = $118.88; $599 / $480.12 = 1.25x",
+          "Reign of Jafar Stitch Enchanted vs Legendary: $480.12 / $1.40 = 342.94x; $480.12 - $1.40 = $478.72",
+          "Reign of Jafar Rapunzel Enchanted vs Legendary: $316.98 / $1.36 = 233.07x",
+          "Reign of Jafar specific Enchanted chase: 18 Enchanted x 82 packs = 1,476 packs per specific Enchanted on average; 1,476 packs / 24 packs = 61.50 boxes on average",
+          "Reign of Jafar specific Enchanted chase in cases: 1,476 packs / 96 packs per case = 15.375 cases; 15.375 cases x $393.93 = $6,056.67",
+          "Reign of Jafar Enchanted expectation per case: 96 packs / 82 packs per Enchanted = 1.17 Enchanted per case on average",
+          "Reign of Jafar Deck Box specific Enchanted chase: 18 Enchanted x 132 packs = 2,376 packs per specific Enchanted on average; 2,376 packs / 96 packs per case = 24.75 cases; 24.75 cases x $393.93 = $9,749.77",
+          "Reign of Jafar Deck Box Enchanted expectation per case: 96 packs / 132 packs per Enchanted = 0.73 Enchanted per case on average",
+          "Reign of Jafar top 10 against the Archazia's Island top 10: $2,470.27 - $1,926.86 = $543.41; $2,470.27 / $1,926.86 = 1.28x",
+          "Reign of Jafar top 10 against the First Chapter top 10: $2,822.34 - $2,470.27 = $352.07; $2,822.34 / $2,470.27 = 1.14x",
+          "Reign of Jafar top 10 against the Into the Inklands top 10: $2,470.27 - $906.10 = $1,564.17; $2,470.27 / $906.10 = 2.73x",
+          "Reign of Jafar top 10 against the Shimmering Skies top 10: $2,470.27 - $1,114.95 = $1,355.32; $2,470.27 / $1,114.95 = 2.22x",
+          "Reign of Jafar top 10 against the Cardheist market box: $2,470.27 / $150 = 16.47x"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $393.93, or $98.48 a box, $4.10 a pack, and $0.34 a card, as of November 27, 2026. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $45.28 below MSRP, and the whole case sits $181.11 below the $575.04 MSRP case. The Archazia's Island case divides at $158.46 a box, $59.98 above this one, so Reign of Jafar is the cheapest case box on the shelf.",
+          "From the Warehouse: the question we get most in chat about Reign of Jafar is why one site lists the box at $113.56 and another at $150, and which one is the real market box. The $150 is the cheapest box in stock at a retailer, on the Cardheist read of November 27, 2026, at $6.25 a pack, $51.52 above our case box per box, so four cost $600 and our case sits $206.07 below four market boxes. The $113.56 is WorthRipping's feed read of November 26, 2026, $36.44 below the Cardheist read, and we do not adopt it as the market box. No current market sealed-case price was verifiable on November 27, 2026: Cardheist tracks eight Reign of Jafar products and none is a case, so the freshest case read is the FASE tracker at $558.05 on November 20, 2026, $164.12 above our case. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "The expected value inside a box is thinner than any box price on the shelf. WorthRipping's simulation, prices from November 26, 2026, puts $60 of cards inside a box after selling costs, $53.56 below its own $113.56 box, and 84 of 100 boxes lose money, with a typical box worth $23, 20.25% of the box price. The Illumineer's Trove is no better per pack: $47 on the Cardheist read of November 27, 2026, $5.88 a pack, with $20 of cards inside on average and 92 of 100 troves losing money. The November 26, 2026 ECB fixing was 1.0975 dollars to the euro and 159.26 yen to the dollar; no November 27 fixing was published at the time of writing."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on Reign of Jafar.",
+          "The case row is the only row on our shelf, $51.52 below the Cardheist market box per box. The WorthRipping row undercuts it by $15.08, a read we do not trust. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$393.93",
+              "$98.48 a box, $4.10 a pack",
+              "Holding the eighth set sealed; the only Reign of Jafar sealed product here",
+              "Four boxes or nothing; no single box on the shelf; rotated out of Core"
+            ],
+            [
+              "Cardheist market box",
+              "$150",
+              "$6.25",
+              "One English box at a time",
+              "$51.52 more per box than our case box; only 1 of 3 tracked retailers in stock"
+            ],
+            [
+              "WorthRipping market box",
+              "$113.56",
+              "$4.73",
+              "One English box at a time, lowest read",
+              "$15.08 above our case box; disagrees with Cardheist by $36.44; not adopted"
+            ],
+            [
+              "The single (Stitch Enchanted)",
+              "$480.12",
+              "n/a",
+              "Owning the chase card",
+              "4.88 case boxes; grading and condition risk"
+            ],
+            [
+              "Illumineer's Trove",
+              "$47",
+              "$5.88",
+              "Eight packs plus the storage box",
+              "$27 lost per trove on average; 92 of 100 lose money"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $45.28 below it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the Stitch rise, and two pull rates",
+        "note": "From the Warehouse: the question we get most in chat about Reign of Jafar is whether the Stitch is really worth more than the whole case it comes from, because the card costs $480.12 and the case costs $393.93. It is, and the gap is the whole story of this set. The Stitch is 1.22 cases on its own, and the case is the cheapest sealed box on the shelf, so the set is dear in singles and cheap sealed, and the two facts point in opposite directions: buy the single, or buy the case to hold it. We also get asked whether the box is worth opening for the chase. It is not: 84 of 100 boxes lose money on the November 26, 2026 read, and the specific Stitch averages 1,476 packs.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. TCGPursuit ranks the chase cards on TCGplayer market prices, history last recorded November 26, 2026, with the Stitch at $480.12. GradeValue ranks the same ten in the same order on its November 26, 2026 read. TCJournal takes a different angle and calls Reign of Jafar the best-value entry point in the game, because its top ten totals $2,462.99 against a $154.69 box on its October 15, 2026 read, 15.9 times the box.",
+          "The gap this page owns is threefold: the shelf, the dated read, and the pull-rate disagreement. The shelf price is ours, stamped November 27, 2026: the English case at $393.93, with no single box and no Japanese case on the shelf. The dated read is TCGPursuit's November 26, 2026 TCGplayer snapshot, all ten printings, $2,470.27 in total, cross-checked against GradeValue, which agrees on all ten, and TurnZero's November 20, 2026 catalog, which puts the Stitch at $475.48. The [Disney Lorcana sealed case price guide](/blog/disney-lorcana-sealed-case-price/) carries the same shelf division for every set.",
+          "The third gap is the pull rate, where two counted sources disagree and no list says so. WorthRipping's table, last checked October 14, 2026, puts an Enchanted at one in 82 packs, or one in 3.4 boxes, but its own sources page says the Enchanted rate is a published estimate drawn from The Gamers Lodge community trackers and a 384-pack First Chapter count, not a rate measured on Reign of Jafar boxes. NerdSnack's counted opening, updated November 6, 2026, has The Deck Box opening 1,056 Reign of Jafar packs and finding 8 Enchanteds, one in 132 packs, so a case holds 0.73 Enchanted on that count against 1.17 on WorthRipping's."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Stitch is $480.12, 19.44% of the top ten on its own, and 1.31 times the second card, It Means No Worries, at $365.91. Together they are $846.03, 34.25% of the list, and with Into the Unknown the top three are $1,177.05, 47.65%. The Stitch is $216.81 below the second and third cards combined, $696.93, at 0.69 times them, and 4.09 times the tenth card, Mushu, Your Worst Nightmare, at $117.36. The Stitch moved $8.14, from $471.98 on TCGplayer's October 20, 2026 post to $480.12 on November 26, up 1.72%, and the same post says the Stitch was $120 to $125 in February, so it has risen 3.84 to 4.00 times in nine months.",
+          "The second rung is Into the Unknown, the Rapunzel, and the Bambi: Into the Unknown $331.02, Rapunzel, High Climber $316.98, and Bambi, Little Prince $244.65, $892.65, 36.14% of the ten. The third rung is the Jasmine, the Lady, the Perdita, the Kuzco, and the Mushu: Jasmine, Steady Strategist $186.32, Lady, Decisive Dog $163.76, Perdita, Determined Mother $143.58, Kuzco, Impulsive Llama $120.57, and Mushu, Your Worst Nightmare $117.36, together $731.59, 29.62% of the ten. The second rung is $161.06 above the third rung, so the middle of the list is a ladder.",
+          "The reads split on two cards and agree on eight. Lanakit, checked November 24, 2026, puts Into the Unknown at $328.62, $2.40 below our read, and the Rapunzel at $313.96, $3.02 below, so the spreads are 0.73% and 0.95% and the order does not change. Hoshino prints the Stitch at $599, $118.88 above market, but it prices from eight recorded sales, not market, so it is a different measure. Below the top ten sits the rest of the set: the set costs $3,333.55 to collect one of each of its 265 priced catalog versions, and the top ten is $2,470.27 of that, 74.10%. The [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 82 packs, or one in 132",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate, and the two best counts disagree. WorthRipping's pull-rate table, last checked October 14, 2026, puts an Enchanted at one in 82 packs, or one in 3.4 boxes, so a case holds 1.17 Enchanted on average. The specific Stitch is rarer still: eighteen Enchanteds share the one-in-82 slot, so one specific Enchanted averages 1,476 packs, 15.375 cases at $6,056.67 of case price, or 61.50 boxes on average. On NerdSnack's counted opening of 1,056 packs, the same chase averages 2,376 packs, 24.75 cases at $9,749.77, so the honest range is 1,476 to 2,376 packs, and no single rate should be quoted as the rate.",
+          "The second risk is the printing, not the card. The Stitch is two prices in one set: $1.40 as a Legendary and $480.12 as an Enchanted, so the Enchanted is 342.94 times the plain Legendary. A buyer who pays an Enchanted price for a Legendary has overpaid by $478.72. Check the collector number before you pay: the Enchanted is 220/204 and the Legendary is 166/204, and the foil slot is the only place an Enchanted can appear. The Rapunzel carries the same trap: $1.36 as a Legendary against $316.98 as an Enchanted, 233.07 times.",
+          "The third risk is the reseal. A box that trades at $150 on one read and $113.56 on another, with one eBay listing at $79.56, is exactly what resealers monetize, so check the seal, wrap tension, and pack order before opening. The fourth risk is the price: the Stitch rose from $120 to $125 in February to $480.12 in November, and a card that climbs four times in nine months can fall the same way. The fifth risk is the set itself: Reign of Jafar left Core Constructed on July 17, 2026, so a competitive player buying it for events has bought the wrong set."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, dual ink, Palace Heist, and two formats",
+        "paragraphs": [
+          "Reign of Jafar is Disney Lorcana's eighth set, set 8 of 14 on the shelf, with Set 14 Hyperia City the newest. It reached game stores on May 30, 2025 and mass retail on June 6, 2025, at $5.99 a pack and $143.76 a box. The set holds 204 numbered cards, plus 18 Enchanted rares numbered 205 to 222, for 270 catalog versions once foils and printings are counted. The story closes the Archazia's Island arc.",
+          "The set is the second to print dual-ink cards: 60 more dual-ink cards join the 62 from Archazia's Island, and a dual-ink card can only go in a deck that runs both of its inks. The set also continues the Illusion characters and their Vanish keyword from Archazia's Island, which banishes a targeted Illusion. The headliners are Jafar, High Sultan of Lorcana, the set's featured Super Rare at 74/204, and a 10-cost Mickey Mouse Legendary. The set ships with the second Illumineer's Quest, Palace Heist, a cooperative adventure in the release, not a rumour.",
+          "The set left Core Constructed on July 17, 2026, when the Attack of the Vine! prerelease rotated Sets 5 through 8 out, and Core now runs Sets 9 to 14, from Fabled through Hyperia City. Every Reign of Jafar card is now an Infinity card, and TCGplayer's October 20, 2026 post says Enchanteds from rotated sets are seeing renewed collector interest. There are no Iconic cards in this set: Iconics arrived with Fabled, set 9, so Reign of Jafar is the last pre-Iconic set. The [Lorcana Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) runs the same ranking on set 2."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Enchanted, who should buy the single: the Stitch averages 1,476 to 2,376 packs at the two counted rates, $6,056.67 to $9,749.77 of case price. It is not for anyone who wants a single English box, because the only English Reign of Jafar product here is the four-box case. It is not for anyone who pays an Enchanted price without checking the number, because the same Stitch is $1.40 as a Legendary. It is not for Core Constructed events: Sets 5 through 8 rotated out on July 17, 2026."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Stitch, own the ten, hold the eighth set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Stitch, buy the single: $480.12 Enchanted on the November 27, 2026 TCGplayer market read, and check the number, 220/204, because the Legendary is $1.40.",
+          "If the job is the ten, buy the English case at $393.93, four boxes at $98.48 each, and treat the Enchanted as a bonus, not the plan.",
+          "If the job is one box, buy the Cardheist market box at $150, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is rotated out of Core.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and remember the pull rate is a range, one in 82 to one in 132 packs, not a promise."
+        ],
+        "h": "Action layer: the Reign of Jafar best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Japanese TCG guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese shelf, and [buy Lorcana cards online](/blog/buy-lorcana-cards-online/) and the [best place to buy Lorcana cards online](/blog/best-buy-lorcana-cards-online/) cover the singles route. Exact shipping is confirmed at checkout or on WhatsApp, and we ship from Japan."
+        ]
+      }
+    ],
+    "slug": "lorcana-reign-of-jafar-best-cards",
+    "takeaway": [
+      "The Reign of Jafar top ten, on TCGplayer market prices checked November 27, 2026, totals $2,470.27, and the Stitch is $480.12 of it, 19.44%. All ten are Enchanted rares, the top two are $846.03, 34.25%, and the bottom five are $731.59, 29.62%, against the second rung at $892.65, 36.14%. No non-Enchanted card cracks the top ten, and the dearest regular printing in the set is the Tinker Bell Legendary at $6.13.",
+      "On our shelf as of November 27, 2026, there is exactly one Reign of Jafar product: the English sealed case at $393.93, four boxes at $98.48 a box, $4.10 a pack, $0.34 a card, $45.28 below the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Stitch is 4.88 case boxes and 1.22 whole cases. The case sits $206.07 below four Cardheist market boxes at $150 each.",
+      "It is worth buying as the eighth set sealed, and it is not worth buying as a way to own one named Enchanted. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the two counted rates disagree: one in 82 packs on WorthRipping's published estimate, one in 132 packs on The Deck Box's counted opening of 1,056 packs. One specific Enchanted averages 1,476 to 2,376 packs, $6,056.67 to $9,749.77 of case price. Buy the single, or buy the case to hold it sealed and treat the Enchanted as a bonus.",
+      "The Stitch rose from $120 to $125 in February to $480.12 on November 26, 2026, up $91.92 in the month to October 20, and the set rotated out of Core Constructed on July 17, 2026, so it is a collector hold, not a tournament purchase. Two of the top three cards are a song and an action, not characters, and the set is the last pre-Iconic set, so its Enchanteds carry the whole chase.",
+      "Companion guide: the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs the same ranking on set 7, where the top ten totals $1,926.86, $543.41 below this set, and the [Lorcana Azurite Sea best cards guide](/blog/lorcana-azurite-sea-best-cards/) runs it on set 6, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs it on set 3, where the top ten totals $906.10, $1,564.17 below this set.",
+      "One set on, the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, on TCGplayer market checked November 27, 2026.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Reign of Jafar at $98.48 a box against Archazia's Island at $158.46.",
+      "For the wider shelf, the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case, and [buy Lorcana cards online](/blog/buy-lorcana-cards-online/) covers the singles route. Exact shipping is confirmed at checkout or on WhatsApp."
     ]
   },
   "lorcana-rise-of-the-floodborn-best-cards": {
