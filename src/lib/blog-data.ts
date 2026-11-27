@@ -47754,7 +47754,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
       "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp.",
       "Next in the series, the [Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) ranks set 2 the same way, with the Cinderella at $260.68 and the top ten at $905.87 on November 27, 2026.",
-      "Two sets on, the [Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks set 3 the same way, with the Mickey at $212.65 and the top ten at $906.10 on November 27, 2026."
+      "Two sets on, the [Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks set 3 the same way, with the Mickey at $212.65 and the top ten at $906.10 on November 27, 2026.",
+      "Three sets on, the [Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) ranks set 4 the same way, with the Ariel at $148.32 and the top ten at $913.75, and the [Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) ranks set 5 the same way, with the Mufasa at $306.02 and the top ten at $1,114.95, both on November 27, 2026."
     ]
   },
   "lorcana-into-the-inklands-best-cards": {
@@ -47984,7 +47985,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [Lorcana Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) runs the same ranking on set 2, where the top ten totals $905.87, $0.23 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Into the Inklands at $117.81 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
       "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
       "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
-      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "Companion guide: the [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) ranks set 4 the same way, with the Ariel at $148.32 and the top ten at $913.75, and the [Lorcana Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) ranks set 5 the same way, with the Mufasa at $306.02 and the top ten at $1,114.95, both on November 27, 2026."
     ]
   },
   "lorcana-rise-of-the-floodborn-best-cards": {
@@ -48211,6 +48213,507 @@ export const POSTS: Record<string, BlogPost> = {
       "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
       "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp.",
       "Next in the series, the [Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks set 3 the same way, with the Mickey at $212.65 and the top ten at $906.10 on November 27, 2026."
+    ]
+  },
+  "lorcana-shimmering-skies-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Enchanted Mufasa, Ruler of Pride Rock, 217/204, at $306.02 on TCGplayer market checked November 27, 2026, from TCGPursuit's set read, with price history last recorded November 26, 2026. TurnZero's October 22, 2026 read puts the same card at $341.21, so it fell $35.19, down 10.31%, in five weeks, while CollectiKit's November 11 read puts it at $314.62 and the Cardsprices November 5 read puts it at $333. The same Mufasa is $2.61 as a Legendary and $9.29 as a foil Legendary on the October 22 read, so check the collector number before you pay a chase price.",
+        "q": "What is the most valuable Shimmering Skies card?"
+      },
+      {
+        "a": "No. The $372.25 Elsa is Elsa, The Fifth Spirit, Disney Parks Promo number 7, a Magical Places Promo, not a Shimmering Skies card. The Shimmering Skies Elsa is number 48/204, a Super Rare, at $0.70 on the November 20, 2026 read, so the promo is 531.79 times the set card. Lanakit's top-five list for the set puts the promo at number one, which is why its ranking cannot be used. The real top card in the set is the Enchanted Mufasa at $306.02.",
+        "q": "Why does one list put a $372.25 Elsa above the Mufasa?"
+      },
+      {
+        "a": "Buy the English case if the job is four Shimmering Skies boxes sealed: $556.92, four boxes at $139.23 a box, $5.80 a pack, $0.48 a card, $4.53 below the MSRP box per box, and $20.20 saved against four FASE market boxes at $144.28 each. Buy the market box if the job is one box: $144.28 on the FASE read of November 20, 2026. Do not use the WorthRipping read of $111.73 as the market box: it disagrees with the FASE read by $32.55 a box. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Shimmering Skies English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Shimmering Skies Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Shimmering Skies is the Enchanted Mufasa, Ruler of Pride Rock, 217/204, at $306.02 on TCGplayer market checked November 27, 2026, and the ten best cards are all Enchanted rares adding to $1,114.95. Our shelf, November 27, 2026, carries the English sealed case at $556.92, four boxes at $139.23 a box, $5.80 a pack, and $0.48 a card, $4.53 below the MSRP box per box, with no single box and no Japanese case on the shelf. Buy the case to hold the fifth set sealed, buy the single to own the Mufasa.",
+      "Who this is for: collectors ranking the Shimmering Skies chase, buyers weighing a four-box case against a market box, and players building an Infinity deck from a rotated set. Who it is not for: anyone chasing one named Enchanted by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Shimmering Skies' 10 best cards on TCGplayer market, Nov 27, 2026: the $306.02 Enchanted Mufasa, the $139.23 case box, and the $144.28 market box.",
+    "metaTitle": "Lorcana Shimmering Skies Best Cards, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Mufasa, nine more, and a case just below retail",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit's Shimmering Skies read, with price history last recorded November 26, 2026. The ten add to $1,114.95, and the top three are $590.15 of it, 52.93%. Mufasa, Ruler of Pride Rock (Enchanted) 217/204 is $306.02, Snow White, Fair-Hearted (Enchanted) 220/204 is $163.40, and Donald Duck, Pie Slinger (Enchanted) 214/204 is $120.73. Behind them, Scar, Vengeful Lion (Enchanted) 212/204 at $109.02, Robin Hood, Sharpshooter (Enchanted) 215/204 at $93.07, and Olaf, Happy Passenger (Enchanted) 209/204 at $87.32. Then You're Welcome (Enchanted) 213/204 at $66.71, Vanellope von Schweetz, Sugar Rush Princess (Enchanted) 206/204 at $60.81, Arthur, King Victorious (Enchanted) 221/204 at $57.85, and Archimedes, Electrified Owl (Enchanted) 208/204 at $50.02.",
+          "One card is more than a quarter of the list: the Mufasa is $306.02, 27.45% of the top ten, and 1.87 times the second card. The top two are $469.42, 42.10%, and the bottom five are $322.71, 28.94%. The second rung, ranks three to five, totals $322.82, 28.95%, and the third rung, ranks six to ten, totals $322.71, 28.94%, so the two rungs are $0.11 apart and the middle of the list is a flat field, not a ladder. No non-Enchanted card cracks the top ten.",
+          "A collector chasing the Mufasa buys the single: the card is 2.20 case boxes and 0.55 of a whole case. A collector who wants the fifth set sealed buys the case at $139.23 a box, $4.53 below the MSRP box. The companion [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs the same ranking on set 3."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Shimmering Skies English case per box: $556.92 / 4 boxes = $139.23 per box",
+          "Shimmering Skies English case per pack: $556.92 / 96 packs = $5.80 per pack",
+          "Shimmering Skies English case per card: $556.92 / 1,152 cards = $0.48 per card",
+          "Shimmering Skies English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Shimmering Skies English case box vs MSRP box: $143.76 - $139.23 = $4.53 below MSRP per box",
+          "Shimmering Skies English case box vs MSRP box: $139.23 / $143.76 = 0.97x",
+          "Shimmering Skies FASE market box per pack: $144.28 / 24 packs = $6.01 per pack",
+          "Shimmering Skies FASE market box vs case box: $144.28 - $139.23 = $5.05 per box",
+          "Shimmering Skies FASE market box vs case box: $144.28 / $139.23 = 1.04x",
+          "Shimmering Skies four FASE market boxes: 4 x $144.28 = $577.12; $577.12 - $556.92 = $20.20 saved",
+          "Shimmering Skies FASE market case vs our case: $556.92 - $546.02 = $10.90; $10.90 is 2.00% of $546.02",
+          "Shimmering Skies WorthRipping market box per pack: $111.73 / 24 packs = $4.66 per pack",
+          "Shimmering Skies WorthRipping market box vs case box: $111.73 - $139.23 = -$27.50 per box",
+          "Shimmering Skies WorthRipping market box vs FASE box: $144.28 - $111.73 = $32.55 apart",
+          "Shimmering Skies four WorthRipping market boxes: 4 x $111.73 = $446.92; $556.92 - $446.92 = $110.00 above four market boxes",
+          "Shimmering Skies Illumineer's Trove per pack: $47 / 8 packs = $5.88 per pack",
+          "Shimmering Skies Illumineer's Trove per pack vs case pack: $5.88 / $5.80 = 1.01x; $5.88 - $5.80 = $0.08 per pack",
+          "Shimmering Skies WorthRipping cards inside vs its box: $32 / $111.73 = 28.64% of the box; $111.73 - $32 = $79.73 lost per box",
+          "Shimmering Skies WorthRipping typical box vs its box: $13 / $111.73 = 11.64% of the box",
+          "Shimmering Skies top 10 total: $306.02 + $163.40 + $120.73 + $109.02 + $93.07 + $87.32 + $66.71 + $60.81 + $57.85 + $50.02 = $1,114.95",
+          "Shimmering Skies top 2 total: $306.02 + $163.40 = $469.42; $469.42 / $1,114.95 = 42.10% of the top 10",
+          "Shimmering Skies top 3 total: $306.02 + $163.40 + $120.73 = $590.15; $590.15 / $1,114.95 = 52.93% of the top 10",
+          "Shimmering Skies top 4 total: $306.02 + $163.40 + $120.73 + $109.02 = $699.17; $699.17 / $1,114.95 = 62.71% of the top 10",
+          "Shimmering Skies Mufasa share: $306.02 / $1,114.95 = 27.45% of the top 10",
+          "Shimmering Skies Snow White share: $163.40 / $1,114.95 = 14.66% of the top 10",
+          "Shimmering Skies bottom 8 total: $1,114.95 - $469.42 = $645.53; $645.53 / $1,114.95 = 57.90% of the top 10",
+          "Shimmering Skies bottom 5 total: $87.32 + $66.71 + $60.81 + $57.85 + $50.02 = $322.71; $322.71 / $1,114.95 = 28.94% of the top 10",
+          "Shimmering Skies second rung total: $120.73 + $109.02 + $93.07 = $322.82; $322.82 / $1,114.95 = 28.95% of the top 10",
+          "Shimmering Skies third rung total: $87.32 + $66.71 + $60.81 + $57.85 + $50.02 = $322.71; $322.71 / $1,114.95 = 28.94% of the top 10",
+          "Shimmering Skies second rung vs third rung: $322.82 - $322.71 = $0.11 apart",
+          "Shimmering Skies Mufasa vs second card: $306.02 / $163.40 = 1.87x",
+          "Shimmering Skies Mufasa vs tenth card: $306.02 / $50.02 = 6.12x",
+          "Shimmering Skies Mufasa vs second plus third: $163.40 + $120.73 = $284.13; $306.02 - $284.13 = $21.89; $306.02 / $284.13 = 1.08x",
+          "Shimmering Skies Mufasa against the case: $306.02 / $139.23 = 2.20 case boxes; $306.02 / $556.92 = 0.55 cases",
+          "Shimmering Skies Mufasa against the MSRP box: $306.02 / $143.76 = 2.13x",
+          "Shimmering Skies Mufasa against the FASE box: $306.02 / $144.28 = 2.12x",
+          "Shimmering Skies Mufasa against the WorthRipping box: $306.02 / $111.73 = 2.74x",
+          "Shimmering Skies top 10 against the case: $1,114.95 / $556.92 = 2.00 cases; $1,114.95 / $139.23 = 8.01 case boxes",
+          "Shimmering Skies top 10 against the MSRP box: $1,114.95 / $143.76 = 7.76x",
+          "Shimmering Skies Mufasa Oct 22 to Nov 26: $306.02 - $341.21 = -$35.19; -$35.19 is -10.31% of $341.21",
+          "Shimmering Skies Snow White Oct 22 to Nov 26: $163.40 - $162.64 = $0.76; $0.76 is 0.47% of $162.64",
+          "Shimmering Skies Donald Duck Oct 22 to Nov 26: $120.73 - $116.52 = $4.21; $4.21 is 3.61% of $116.52",
+          "Shimmering Skies Scar Oct 22 to Nov 26: $109.02 - $111.76 = -$2.74; -$2.74 is -2.45% of $111.76",
+          "Shimmering Skies Robin Hood Oct 22 to Nov 26: $93.07 - $94.82 = -$1.75; -$1.75 is -1.85% of $94.82",
+          "Shimmering Skies Olaf Oct 22 to Nov 26: $87.32 - $93.74 = -$6.42; -$6.42 is -6.85% of $93.74",
+          "Shimmering Skies You're Welcome Oct 22 to Nov 26: $66.71 - $75.35 = -$8.64; -$8.64 is -11.47% of $75.35",
+          "Shimmering Skies Arthur Oct 22 to Nov 26: $57.85 - $68.02 = -$10.17; -$10.17 is -14.95% of $68.02",
+          "Shimmering Skies Vanellope Nov 5 to Nov 26: $60.81 - $61 = -$0.19; Cardsprices Nov 5 read $61",
+          "Shimmering Skies Archimedes Nov 5 to Nov 26: $50.02 - $52 = -$1.98; Cardsprices Nov 5 read $52",
+          "Shimmering Skies Mufasa Enchanted vs Legendary: $306.02 / $2.61 = 117.25x; $306.02 / $9.29 = 32.94x against the foil Legendary",
+          "Shimmering Skies Mufasa Enchanted overpay vs foil Legendary: $306.02 - $9.29 = $296.73",
+          "Shimmering Skies Mufasa read spread, WorthRipping: $319 - $306.02 = $12.98; $12.98 is 4.24% of $306.02",
+          "Shimmering Skies Mufasa read spread, CollectiKit Nov 11: $314.62 - $306.02 = $8.60; $8.60 is 2.81% of $306.02",
+          "Shimmering Skies Mufasa read spread, Cardsprices Nov 5: $333 - $306.02 = $26.98; $26.98 is 8.82% of $306.02",
+          "Shimmering Skies WorthRipping Mufasa against its box: $319 / $111.73 = 2.86x",
+          "Shimmering Skies Elsa promo vs Mufasa: $372.25 - $306.02 = $66.23",
+          "Shimmering Skies Elsa promo vs set Elsa: $372.25 / $0.70 = 531.79x",
+          "Shimmering Skies specific Enchanted chase: 18 Enchanted x 105 packs = 1,890 packs per specific Enchanted on average; 1,890 packs x $5.80 = $10,962.00",
+          "Shimmering Skies specific Enchanted chase in boxes: 1,890 packs / 24 packs = 78.75 boxes on average",
+          "Shimmering Skies Enchanted expectation per case: 96 packs / 105 packs per Enchanted = 0.91 Enchanted per case on average",
+          "Shimmering Skies top 10 against the Into the Inklands top 10: $1,114.95 - $906.10 = $208.85; $1,114.95 / $906.10 = 1.23x",
+          "Shimmering Skies top 10 against the First Chapter top 10: $2,822.34 / $1,114.95 = 2.53x; $2,822.34 - $1,114.95 = $1,707.39 apart",
+          "Shimmering Skies top 10 against the cost to collect one of each: $1,114.95 / $1,530.14 = 72.87% of the set",
+          "Shimmering Skies Mufasa against the Inklands Mickey: $306.02 / $212.65 = 1.44x; $306.02 - $212.65 = $93.37 apart",
+          "Shimmering Skies Mufasa against the Floodborn Cinderella: $306.02 / $260.68 = 1.17x; $306.02 - $260.68 = $45.34 apart",
+          "Shimmering Skies Japanese box in dollars: ¥6,000 / 159.26 yen per dollar = $37.67; Japanese MSRP ¥5,280 / 159.26 = $33.15",
+          "Shimmering Skies Japanese box ask vs MSRP: ¥6,000 - ¥5,280 = ¥720; ¥720 is 13.64% of ¥5,280",
+          "Shimmering Skies English case box vs Japanese box ask: $139.23 - $37.67 = $101.56",
+          "Shimmering Skies six English cases below MSRP per box: Set 8 $98.48, Set 6 $101.29, Set 2 $107.10, Set 4 $107.10, Set 3 $117.81, Set 5 $139.23",
+          "Shimmering Skies Reign of Jafar cheapest case per box: $393.93 / 4 boxes = $98.48 per box",
+          "Shimmering Skies TCGVault Oct 27 median Enchanted: $58.31; top Enchanted: $333.41",
+          "Shimmering Skies former staples non-foil, September 2026: under $1 to about $3"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $556.92, or $139.23 a box, $5.80 a pack, and $0.48 a card. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $4.53 below MSRP, at 0.97 times the MSRP box. This is one of six English cases on the shelf that divide below the official box price.",
+          "The open market charges more than our case box, on the read we trust. The FASE sealed tracker, read November 20, 2026, puts the market box at $144.28, $5.05 more per box than our case box, at 1.04 times it, so four cost $577.12 and the case saves $20.20 against them, and the FASE market case is $546.02, $10.90 below our case. A second reading disagrees sharply: WorthRipping prints $111.73 for November 26, $27.50 below our case box. We do not adopt it as the market box; no other tracker shows a box that cheap, it disagrees with the FASE read by $32.55 a box. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "The expected value inside a box is thinner than the box price on every read. WorthRipping's simulation, prices from November 26, 2026, puts $32 of cards inside a box after selling costs, $79.73 below its own $111.73 box, and 94 of 100 boxes lose money, with a typical box worth $13, 11.64% of the box price. The Illumineer's Trove is worse per pack: $47 for eight packs, $5.88 a pack, $0.08 above our case pack price, at 1.01 times it."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on Shimmering Skies, what each costs per pack, what it is for, and where it fails.",
+          "The case row deserves a second look: it is the only row that runs through our shelf, $5.05 below the FASE market box per box. The WorthRipping row is the only one that undercuts it, by $27.50, and it is the read we do not trust. The [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$556.92",
+              "$139.23 a box, $5.80 a pack",
+              "Holding the fifth set sealed; the only Shimmering Skies sealed product here",
+              "Four boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "FASE market box",
+              "$144.28",
+              "$6.01",
+              "One English box at a time",
+              "$5.05 more per box than our case box"
+            ],
+            [
+              "WorthRipping market box",
+              "$111.73",
+              "$4.66",
+              "One English box at a time, lowest read",
+              "$27.50 below our case box; disagrees with FASE by $32.55; not adopted"
+            ],
+            [
+              "The single (Mufasa Enchanted)",
+              "$306.02",
+              "n/a",
+              "Owning the chase card",
+              "2.20 case boxes; grading and condition risk"
+            ],
+            [
+              "Illumineer's Trove",
+              "$47",
+              "$5.88",
+              "Eight packs with dice and dividers",
+              "$0.08 more per pack than our case pack; 94 of 100 lose money"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $4.53 below it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the Elsa trap, and the stale prices",
+        "note": "From the Warehouse: the question we get most in chat about Shimmering Skies is whether the $372.25 Elsa tops the set, because one top-five list puts it at number one. It is not a Shimmering Skies card at all, and the gap is the whole story of this set. The $372.25 Elsa is a Disney Parks Promo, and the Shimmering Skies Elsa is a Super Rare at $0.70. We also get asked whether Set 5 is the cheap Enchanted set, because its case sits just below MSRP while its top card costs more than two case boxes. It is cheap sealed and dear in singles, and those two facts point in opposite directions.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. TurnZero ranks the chase cards on October 22, 2026 prices, with the Mufasa at $341.21. TCGKing ranks the chase cards with no dated prices at all, and GeekyDomain's retrospective, the freshest narrative of the three, prices its six priciest Enchanteds from September 2026, with the Mufasa at about $303. Lanakit's top five is the one to distrust: it puts the $372.25 Elsa at number one, above the Mufasa at $306.02, and that Elsa is a Disney Parks Promo, number 7, not a card from this set.",
+          "The gap this page owns is threefold: the shelf, the dated read, and the case division. The shelf price is ours, stamped November 27, 2026: the English case at $556.92, with no single box and no Japanese case on the shelf. The dated read is TCGPursuit's November 26, 2026 TCGplayer snapshot, all ten printings, $1,114.95 in total, cross-checked against TurnZero's October 22 read, CollectiKit's November 11 read, which puts the Mufasa at $314.62, the Cardsprices November 5 read, which puts it at $333, and TCGVault's October 27 read, which puts the set median Enchanted at $58.31.",
+          "The second gap is the Elsa trap itself: the promo Elsa at $372.25 is $66.23 above the Mufasa and 531.79 times the set Elsa at $0.70, and any list that ranks it inside the set is ranking the wrong set. The third gap is the Mufasa's direction: it fell $35.19, down 10.31%, in the five weeks from October 22 to November 26, while the Snow White rose $0.76 and the Donald Duck rose $4.21, so the top card is cooling while the second tier holds."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Mufasa is $306.02, 27.45% of the top ten on its own, and 1.87 times the second card, Snow White, Fair-Hearted, at $163.40. Together they are $469.42, 42.10% of the list, and with the Donald Duck the top three are $590.15, 52.93%. The Mufasa is $21.89 more than the second and third cards combined, $284.13, at 1.08 times them, and 6.12 times the tenth card, Archimedes, Electrified Owl, at $50.02. The Mufasa moved $35.19 down, from $341.21 on October 22 to $306.02 on November 26, down 10.31%, and WorthRipping's November 26 read puts it higher, at $319, $12.98 above TCGPursuit.",
+          "The second rung is the Donald Duck, the Scar, and the Robin Hood: Donald Duck, Pie Slinger $120.73, Scar, Vengeful Lion $109.02, and Robin Hood, Sharpshooter $93.07, together $322.82, 28.95% of the ten. The third rung is the Olaf, the You're Welcome, the Vanellope, the Arthur, and the Archimedes: Olaf, Happy Passenger $87.32, You're Welcome $66.71, Vanellope von Schweetz, Sugar Rush Princess $60.81, Arthur, King Victorious $57.85, and Archimedes, Electrified Owl $50.02, together $322.71, 28.94% of the ten. The second rung is $0.11 above the third rung, so the middle of the list is a flat field, not a ladder. The moves split the same way: the Snow White rose $0.76, up 0.47%, and the Donald Duck rose $4.21, up 3.61%, while the Scar fell $2.74, down 2.45%, the Robin Hood fell $1.75, down 1.85%, the Olaf fell $6.42, down 6.85%, the You're Welcome fell $8.64, down 11.47%, and the Arthur fell $10.17, down 14.95%. The Vanellope and the Archimedes barely moved from the Cardsprices November 5 read of $61 and $52.",
+          "Below the top ten sits the rest of the set. The regular printing of the set's top card is $2.61 as a Legendary on TurnZero's October 22, 2026 read, and its foil is $9.29, so the Enchanted is 117.25 times the plain Legendary and 32.94 times the foil. The set costs $1,530.14 to collect one of each of its 223 cards at TCGplayer market prices, and the top ten is $1,114.95 of that, 72.87%."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 105 packs, one in 1,890 for the Mufasa",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate. WorthRipping's pull-rate table, from counted openings, puts an Enchanted at one in 4.4 boxes, about one in 105 packs, so a case holds 0.91 Enchanted on average. The specific Mufasa is rarer still: eighteen Enchanteds share the one-in-105 slot, so one specific Enchanted averages 1,890 packs, $10,962.00 of packs at our $5.80 case pack price, or 78.75 boxes on average.",
+          "The second risk is the printing, not the card. The Mufasa is three prices in one set: $2.61 as a Legendary, $9.29 as a foil Legendary, and $306.02 as an Enchanted, so the Enchanted is 117.25 times the plain Legendary and 32.94 times the foil. A buyer who pays an Enchanted price for a foil Legendary has overpaid by $296.73. Check the collector number before you pay: the Enchanted is 217/204, the Legendary is 150/204, and the foil slot is the only place an Enchanted can appear. The Elsa carries a second printing trap: the $372.25 promo is a different card entirely, so read the set line, not just the name.",
+          "The third risk is the reseal. A box that trades at $144.28 on one read and $111.73 on another is exactly what resealers monetize, so check the seal, wrap tension, and pack order before opening, as [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows. The fourth risk is the price itself: the Mufasa fell from $341.21 in October to $306.02 in November. The sealed-hold plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/), and the storage rules are in [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, Racers, Knights, and two formats",
+        "paragraphs": [
+          "Shimmering Skies is Disney Lorcana's fifth set, set 5 of 14 on the shelf, with Set 14 Hyperia City the newest. It reached game stores on August 9, 2024 and mass retail on August 23, 2024, per the official Disney Lorcana set page, at $5.99 a pack and $143.76 a box. The set holds 204 numbered cards, 145 characters, 21 actions, 19 items, 12 locations, and 7 songs, plus 18 Enchanted rares numbered 205 to 222, and one overnumbered foil Rare, Half Hexwell Crown at 223, for 223 cards in total. The story continues after Ursula's defeat, with a festival at the Great Illuminary, and the set brings Wreck-It Ralph into the game for the first time, with the Sugar Rush racers and the Frozen 2 spirits.",
+          "The set adds no new keyword, but it adds two teams to build around: the Racer classification, on 12 cards, and the Knight classification, on 10 cards. The set left Core Constructed on July 17, 2026, when the Attack of the Vine! prerelease rotated Sets 5 through 8 out, and Core now runs Sets 9 to 14, from Fabled through Hyperia City. No Set 5 card was reprinted into the current Core sets as of September 2026, so every Shimmering Skies card is now an Infinity card. The former staples sell for under $1 to about $3 non-foil as of September 2026, which makes this a cheap way to build an Infinity deck.",
+          "The third context is Japan. The Japanese Shimmering Skies box reached Japan on September 6, 2025, at a ¥5,280 MSRP, and the SNKRDUNK ask sits at ¥6,000 or more, ¥720 above MSRP, 13.64% over it. At the ECB November 26, 2026 fixing of 159.26 yen per dollar, the ask is $37.67 and the MSRP is $33.15, so the English case box at $139.23 costs $101.56 more than the Japanese box ask, for a different product in a different language. There is no Japanese case on our shelf, and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) covers the Japanese edition."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Enchanted, who should buy the single: the Mufasa averages 1,890 packs at the counted rate, $10,962.00 of packs at our case price. It is not for anyone who wants a single English box, because the only English Shimmering Skies product here is the four-box case. It is not for anyone who will pay an Enchanted price without checking the number, because the same Mufasa is $2.61 as a Legendary and $9.29 as a foil, and the $372.25 Elsa is not a set card at all. It is not for anyone who needs the prices to hold, or a return on a date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Mufasa, own the ten, hold the fifth set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Mufasa, buy the single: $306.02 Enchanted on the November 27, 2026 TCGplayer market read, and check the number, 217/204, because the Legendary is $2.61.",
+          "If the job is the ten, buy the English case at $556.92, four boxes at $139.23 each, and treat the Enchanted as a bonus, not the plan.",
+          "If the job is one box, buy the FASE market box at $144.28, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the set line on any Elsa, because the $372.25 Elsa is a Disney Parks Promo, not a Shimmering Skies card."
+        ],
+        "h": "Action layer: the Shimmering Skies best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles. Exact shipping is confirmed at checkout or on WhatsApp, and we ship from Japan."
+        ]
+      }
+    ],
+    "slug": "lorcana-shimmering-skies-best-cards",
+    "takeaway": [
+      "The Shimmering Skies top ten, on TCGplayer market prices checked November 27, 2026, totals $1,114.95, and the Mufasa is $306.02 of it, 27.45%. All ten are Enchanted rares, the top two are $469.42, 42.10%, and the bottom five are $322.71, 28.94%, nearly matching the second rung at $322.82. No non-Enchanted card cracks the top ten, and the cheapest Enchanted outside the ten sits near $19.",
+      "On our shelf as of November 27, 2026, there is exactly one Shimmering Skies product: the English sealed case at $556.92, four boxes at $139.23 a box, $5.80 a pack, $0.48 a card, $4.53 below the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Mufasa is 2.20 case boxes and 0.55 of a whole case. The case saves $20.20 against four FASE market boxes at $144.28 each.",
+      "It is worth buying as the fifth set sealed, and it is not worth buying as a way to own one named Enchanted. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the counted rate of about one Enchanted in 105 packs puts one specific Enchanted at 1,890 packs on average, $10,962.00 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Enchanted as a bonus.",
+      "The Elsa is two cards, not one: the Disney Parks Promo is $372.25, $66.23 above the Mufasa, while the Shimmering Skies Elsa is a Super Rare at $0.70. The Mufasa fell $35.19, down 10.31%, in the five weeks from October 22 to November 26, while the Snow White rose $0.76 and the Donald Duck rose $4.21.",
+      "Companion guide: the [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) runs the same ranking on set 4, and the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs it on set 3, where the top ten totals $906.10, $208.85 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Shimmering Skies at $139.23 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+      "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
+    ]
+  },
+  "lorcana-ursulas-return-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Enchanted Ariel, Sonic Warrior, 220/204, at $148.32 on TCGplayer market checked November 27, 2026, from TCGPursuit's set read. TurnZero's November 20, 2026 read puts the same card at $148.48, TCGScan's November 8 read puts it at $149.10, and the November 4 Cardsprices read puts it at $150, so the reads agree within $1.68. The same Ariel is $2.82 as a Legendary, so check the collector number before you pay a chase price.",
+        "q": "What is the most valuable Ursula's Return card?"
+      },
+      {
+        "a": "No. The set is named for her, but her Enchanted, Ursula, Sea Witch Queen, 208/204, is $48.09 on Lanakit's November 24, 2026 read, twelfth in the set, behind Yen Sid, Powerful Sorcerer at $50.89, and the Ariel is 3.08 times it. The Ursula is still the set's villain and the face of the Illumineer's Quest, Deep Trouble, but the chase money sits with the Ariel, the Minnie, and the Cinderella. Her foil Legendary, 58/204, is $3.66, so the Enchanted is 13.14 times that.",
+        "q": "Is the Ursula card the chase card in Ursula's Return?"
+      },
+      {
+        "a": "Buy the English case if the job is four Ursula's Return boxes sealed: $428.40, four boxes at $107.10 a box, $4.46 a pack, $0.37 a card, $36.66 below the MSRP box per box, and $23.12 above four WorthRipping market boxes at $101.32 each. Buy the market box if the job is one box: $101.32 on the WorthRipping read, $115 cheapest in stock on Cardheist, $130 on InkSight's November 10 snapshot, and $134 as the eBay median. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Ursula's Return English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Ursula's Return Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Ursula's Return is the Enchanted Ariel, Sonic Warrior, 220/204, at $148.32 on TCGplayer market checked November 27, 2026, and the ten best cards are all Enchanted rares adding to $913.75. The chase is not the Ursula. The set is named for her, but her Enchanted, 208/204, is $48.09, twelfth in the set, and the Ariel is 3.08 times it. Our shelf, November 27, 2026, carries the English sealed case at $428.40, four boxes at $107.10 a box, $4.46 a pack, and $0.37 a card, $36.66 below the MSRP box per box, with no single box and no Japanese case on the shelf. Buy the case to hold the fourth set sealed, buy the single to own the Ariel.",
+      "Who this is for: collectors ranking the Ursula's Return chase and buyers weighing a four-box case against a market box that reads anywhere from $101.32 to $134. Who it is not for: anyone chasing one named Enchanted by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Ursula's Return's 10 best cards on TCGplayer market, Nov 27, 2026: the $148.32 Enchanted Ariel, the $107.10 case box, and the $101.32 market box.",
+    "metaTitle": "Ursula's Return Best Cards, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: Ariel, not Ursula, and a case below retail",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price from TCGPursuit's Ursula's Return read, checked November 27, 2026, price history last recorded November 26, 2026. The ten add to $913.75, and the top three are $387.14 of it, 42.37%. Ariel, Sonic Warrior (Enchanted) 220/204 is $148.32, Minnie Mouse, Musketeer Champion (Enchanted) 206/204 is $130.24, and Cinderella, Melody Weaver (Enchanted) 205/204 is $108.58. Behind them, Jasmine, Desert Warrior (Enchanted) 212/204 at $99.23, Look at This Family (Enchanted) 207/204 at $87.17, and Piglet, Sturdy Swordsman (Enchanted) 221/204 at $76.62. Then Diablo, Devoted Herald (Enchanted) 211/204 at $74.14, Goofy, Super Goof (Enchanted) 214/204 at $66.07, Anna, True-Hearted (Enchanted) 217/204 at $64.72, and Second Star to the Right (Enchanted) 210/204 at $58.66.",
+          "The list is flatter than the Inklands list. The Ariel is $148.32, 16.23% of the top ten, and 1.14 times the second card, $18.08 ahead of the Minnie. The top two are $278.56, 30.49%, and the top five are $573.54, 62.77%, while the bottom five are $340.21, 37.23%, more than the top two combined by $61.65. The middle is a dead heat: the second rung totals $263.02, 28.78%, and the third rung totals $263.59, 28.85%, $0.57 apart. The reads agree: TurnZero's November 20 read puts the Ariel at $148.48, $0.16 from ours.",
+          "A collector chasing the Ariel buys the single: the card is 1.38 case boxes and 0.35 of a whole case. A collector who wants the fourth set sealed buys the case at $107.10 a box, $36.66 below the MSRP box. The top ten is $913.75 against $906.10 for Inklands and $905.87 for Floodborn, $7.65 and $7.88 apart, so the three Year One sets after the first carry nearly identical chase pools. The companion [Lorcana Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) runs the same ranking on set 2."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Ursula's Return English case per box: $428.40 / 4 boxes = $107.10 per box",
+          "Ursula's Return English case per pack: $428.40 / 96 packs = $4.46 per pack",
+          "Ursula's Return English case per card: $428.40 / 1,152 cards = $0.37 per card",
+          "Ursula's Return English case contents: 4 boxes x 24 packs = 96 packs; 96 packs x 12 cards = 1,152 cards",
+          "Ursula's Return English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Ursula's Return English case box vs MSRP box: $143.76 - $107.10 = $36.66 below MSRP per box",
+          "Ursula's Return English case box vs MSRP box: $107.10 / $143.76 = 0.74x",
+          "Ursula's Return English case vs MSRP case: 4 x $143.76 = $575.04; $575.04 - $428.40 = $146.64 below MSRP per case",
+          "Ursula's Return English case price change Nov 10 to Nov 27: $504.00 - $428.40 = $75.60; $75.60 is 15.00% of $504.00",
+          "Ursula's Return WorthRipping market box per pack: $101.32 / 24 packs = $4.22 per pack",
+          "Ursula's Return WorthRipping market box vs case box: $107.10 - $101.32 = $5.78 per box",
+          "Ursula's Return four WorthRipping market boxes: 4 x $101.32 = $405.28; $428.40 - $405.28 = $23.12 above four market boxes",
+          "Ursula's Return WorthRipping market box vs MSRP box: $143.76 - $101.32 = $42.44 below MSRP; $101.32 / $143.76 = 0.70x",
+          "Ursula's Return Cardheist cheapest box per pack: $115 / 24 packs = $4.79 per pack",
+          "Ursula's Return Cardheist cheapest box vs case box: $115 - $107.10 = $7.90 per box",
+          "Ursula's Return Cardheist cheapest box vs case box: $115 / $107.10 = 1.07x",
+          "Ursula's Return InkSight market box per pack: $130 / 24 packs = $5.42 per pack",
+          "Ursula's Return InkSight market box vs case box: $130 - $107.10 = $22.90 per box",
+          "Ursula's Return InkSight market box vs case box: $130 / $107.10 = 1.21x",
+          "Ursula's Return eBay median box per pack: $134 / 24 packs = $5.58 per pack",
+          "Ursula's Return eBay median box vs case box: $134 - $107.10 = $26.90 per box",
+          "Ursula's Return eBay median box vs case box: $134 / $107.10 = 1.25x",
+          "Ursula's Return market box read spread: $134 - $101.32 = $32.68",
+          "Ursula's Return WorthRipping market box vs Cardheist box: $115 - $101.32 = $13.68 apart",
+          "Ursula's Return WorthRipping cards inside vs its box: $89 - $101.32 = -$12.32 at market; $101.32 - $62 = $39.32 lost per box after costs",
+          "Ursula's Return WorthRipping cards inside after costs vs box: $62 / $101.32 = 61.19% of the box",
+          "Ursula's Return WorthRipping boxes that make money: 12 of 100; boxes that lose money: 88 of 100",
+          "Ursula's Return Illumineer's Trove per pack: $45 / 8 packs = $5.63 per pack",
+          "Ursula's Return Illumineer's Trove per pack vs case pack: $5.63 / $4.46 = 1.26x",
+          "Ursula's Return Illumineer's Trove cards inside vs its box: $45 - $21 = $24 lost per box after costs",
+          "Ursula's Return Illumineer's Trove boxes that lose money: 95 of 100",
+          "Ursula's Return Illumineer's Trove launch price: $49.99 for 8 packs; $49.99 / 8 packs = $6.25 per pack",
+          "Ursula's Return TickerMint loose pack vs case pack: $8.01 / $4.46 = 1.80x; $8.01 - $4.46 = $3.55 more per pack",
+          "Ursula's Return 24 loose packs at TickerMint: 24 x $8.01 = $192.24",
+          "Ursula's Return top 10 total: $148.32 + $130.24 + $108.58 + $99.23 + $87.17 + $76.62 + $74.14 + $66.07 + $64.72 + $58.66 = $913.75",
+          "Ursula's Return top 2 total: $148.32 + $130.24 = $278.56; $278.56 / $913.75 = 30.49% of the top 10",
+          "Ursula's Return top 3 total: $148.32 + $130.24 + $108.58 = $387.14; $387.14 / $913.75 = 42.37% of the top 10",
+          "Ursula's Return top 5 total: $148.32 + $130.24 + $108.58 + $99.23 + $87.17 = $573.54; $573.54 / $913.75 = 62.77% of the top 10",
+          "Ursula's Return bottom 5 total: $76.62 + $74.14 + $66.07 + $64.72 + $58.66 = $340.21; $340.21 / $913.75 = 37.23% of the top 10",
+          "Ursula's Return bottom 5 vs top 2: $340.21 - $278.56 = $61.65",
+          "Ursula's Return bottom 8 total: $913.75 - $278.56 = $635.19; $635.19 / $913.75 = 69.51% of the top 10",
+          "Ursula's Return Ariel share: $148.32 / $913.75 = 16.23% of the top 10",
+          "Ursula's Return Minnie Mouse share: $130.24 / $913.75 = 14.25% of the top 10",
+          "Ursula's Return Cinderella share: $108.58 / $913.75 = 11.88% of the top 10",
+          "Ursula's Return Ariel vs second card: $148.32 / $130.24 = 1.14x; $148.32 - $130.24 = $18.08 apart",
+          "Ursula's Return Ariel vs tenth card: $148.32 / $58.66 = 2.53x",
+          "Ursula's Return Ariel against the case: $148.32 / $107.10 = 1.38 case boxes; $148.32 / $428.40 = 0.35 cases",
+          "Ursula's Return top 10 against the case: $913.75 / $428.40 = 2.13 cases; $913.75 / $107.10 = 8.53 case boxes",
+          "Ursula's Return top 10 against the MSRP box: $913.75 / $143.76 = 6.36x",
+          "Ursula's Return second rung total: $99.23 + $87.17 + $76.62 = $263.02; $263.02 / $913.75 = 28.78% of the top 10",
+          "Ursula's Return third rung total: $74.14 + $66.07 + $64.72 + $58.66 = $263.59; $263.59 / $913.75 = 28.85% of the top 10",
+          "Ursula's Return second rung vs third rung: $263.59 - $263.02 = $0.57",
+          "Ursula's Return Ariel Nov 8 to Nov 26: $148.32 - $149.10 = -$0.78; -$0.78 is -0.52% of $149.10",
+          "Ursula's Return Ariel vs 90-day high: $187.06 - $148.32 = $38.74; $148.32 / $187.06 = 79.29% of the high",
+          "Ursula's Return Ariel TurnZero cross-check: $148.48 - $148.32 = $0.16 apart",
+          "Ursula's Return Ariel Cardsprices cross-check: $150 - $148.32 = $1.68 apart",
+          "Ursula's Return Anna 7-day fall: $64.72 / 0.915 = $70.73 a week earlier; $70.73 - $64.72 = $6.01",
+          "Ursula's Return Anna Lanakit vs TCGPursuit: $65.66 - $64.72 = $0.94 apart",
+          "Ursula's Return Ariel vs Inklands Mickey: $212.65 / $148.32 = 1.43x; $212.65 - $148.32 = $64.33 apart",
+          "Ursula's Return Ariel vs Floodborn Cinderella: $260.68 / $148.32 = 1.76x; $260.68 - $148.32 = $112.36 apart",
+          "Ursula's Return top 10 against the Inklands top 10: $913.75 - $906.10 = $7.65; $913.75 / $906.10 = 1.01x",
+          "Ursula's Return top 10 against the Floodborn top 10: $913.75 - $905.87 = $7.88; $913.75 / $905.87 = 1.01x",
+          "Ursula's Return top 10 against the First Chapter top 10: $2,822.34 / $913.75 = 3.09x; $2,822.34 - $913.75 = $1,908.59 apart",
+          "Ursula's Return Ariel Enchanted vs Legendary: $148.32 / $2.82 = 52.60x; $148.32 - $2.82 = $145.50 overpay",
+          "Ursula's Return Ursula Enchanted vs Ariel Enchanted: $148.32 / $48.09 = 3.08x; $148.32 - $48.09 = $100.23 apart",
+          "Ursula's Return Ursula Enchanted vs foil Legendary: $48.09 / $3.66 = 13.14x",
+          "Ursula's Return eight Enchanted outside the top 10: $50.89 + $48.09 + $44.28 + $42.42 + $33.63 + $26.79 + $25.57 + $23.26 = $294.93",
+          "Ursula's Return all 18 Enchanted: $913.75 + $294.93 = $1,208.68; $913.75 / $1,208.68 = 75.60% of the Enchanted pool",
+          "Ursula's Return top 10 against the cost to collect: $913.75 / $1,373.26 = 66.54% of the set",
+          "Ursula's Return specific Enchanted chase: 18 Enchanted x 105 packs = 1,890 packs per specific Enchanted on average; 1,890 packs x $4.46 = $8,429.40",
+          "Ursula's Return Enchanted expectation per case: 96 packs / 105 packs per Enchanted = 0.91 Enchanted per case on average",
+          "Ursula's Return Enchanted counted range: 1 in 9.6 boxes to 1 in 19 boxes per Enchanted",
+          "Ursula's Return Enchanted pack arithmetic: 105 packs / 24 packs = 4.38 boxes per Enchanted",
+          "Ursula's Return Piglet launch to now: $289 - $76.62 = $212.38; $212.38 is 73.49% of $289",
+          "Ursula's Return Yen Sid launch to now: $295 - $50.89 = $244.11; $244.11 is 82.75% of $295",
+          "Ursula's Return WorthRipping Minnie vs TCGplayer: $130.24 - $107.95 = $22.29",
+          "Ursula's Return WorthRipping Diablo vs TCGplayer: $93.59 - $74.14 = $19.45 above the market price",
+          "Ursula's Return booster set contents: 204 cards + 18 Enchanted = 222 cards",
+          "Ursula's Return catalog versions tracked: 232",
+          "Ursula's Return starter decks launch price: $16.99 each",
+          "Ursula's Return Illumineer's Quest Deep Trouble launch price: $59.99",
+          "Ursula's Return Fabled reprints: 170 cards from Sets 1 to 4",
+          "Ursula's Return Japanese box contents: 16 packs x 6 cards = 96 cards; English box contents: 24 packs x 12 cards = 288 cards",
+          "Ursula's Return Japanese box at MSRP: ¥5,280 / 159.26 yen per dollar = $33.15",
+          "Ursula's Return Japanese box ask: ¥4,998 / 159.26 yen per dollar = $31.38",
+          "Ursula's Return Japanese pack at MSRP: ¥330 / 159.26 yen per dollar = $2.07",
+          "Ursula's Return Japanese box per card: ¥5,280 / 96 cards = ¥55 per card; ¥55 / 159.26 yen per dollar = $0.35 per card",
+          "Ursula's Return Japanese box vs English case box: $107.10 / $33.15 = 3.23x",
+          "Ursula's Return Japanese per card vs English case per card: $0.37 - $0.35 = $0.02 per card",
+          "Ursula's Return cheapest case comparison, Reign of Jafar: $393.93 / 4 boxes = $98.48 per box",
+          "Ursula's Return cheapest case per pack, Reign of Jafar: $98.48 / 24 packs = $4.10 per pack"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $428.40, or $107.10 a box, $4.46 a pack, and $0.37 a card. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $36.66 below MSRP, at 0.74 times the MSRP box, and the case is $146.64 below the $575.04 MSRP case. The case also moved: our own price page listed it at $504.00 on November 10, 2026, so it has fallen $75.60, 15.00%, since then.",
+          "The open market disagrees with itself. WorthRipping, prices from November 26, 2026, puts the market box at $101.32, $4.22 a pack, $5.78 below our case box, so four market boxes cost $405.28, leaving our case $23.12 above them. Cardheist lists the cheapest in-stock box at $115, $7.90 above our case box. InkSight's November 10 snapshot puts the box at $130, $22.90 above our case box, and Lorcanalytics' November 9 median of eBay sold boxes is $134, $26.90 above it. The four reads span $32.68, and the case wins on three of them and loses on one. WorthRipping's own card prices disagree with TCGplayer market by up to $22.29, its Minnie at $107.95 against $130.24 and its Diablo at $93.59 against $74.14, so we adopt its box read and not its card read.",
+          "The expected value inside a box is thinner than the box price on every read. WorthRipping's simulation, prices from November 26, 2026, puts $89 of cards inside a box at market prices and $62 after selling costs, a $39.32 loss against its $101.32 box, and 88 of 100 boxes lose money. The Illumineer's Trove is worse per pack: $45 for eight packs, $5.63 a pack, with $21 of cards inside after costs, a $24 loss, and 95 of 100 losing money. A loose pack trades higher still: TickerMint puts a single pack at $8.01 on TCGplayer market, November 26, 2026, 1.80 times our $4.46 case pack, so 24 loose packs cost $192.24."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on Ursula's Return.",
+          "The case row deserves a second look: it is the only row that runs through our shelf, and it beats three of the four market reads while losing to the fourth by $5.78 a box. The WorthRipping row is the only one that undercuts it. The single row is the cheapest way to own the chase: the Ariel at $148.32 is 1.38 case boxes. The [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$428.40",
+              "$107.10 a box, $4.46 a pack",
+              "Holding the fourth set sealed; the only Ursula's Return sealed product here",
+              "Four boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "WorthRipping market box",
+              "$101.32",
+              "$4.22",
+              "One English box at a time, lowest read",
+              "$5.78 below our case box; its card prices disagree with TCGplayer by up to $22.29"
+            ],
+            [
+              "Cardheist cheapest box",
+              "$115",
+              "$4.79",
+              "One English box at a time, retail listing",
+              "$7.90 more per box than our case box"
+            ],
+            [
+              "eBay median box",
+              "$134",
+              "$5.58",
+              "One English box at a time, sold prices",
+              "$26.90 more per box than our case box"
+            ],
+            [
+              "The single (Ariel Enchanted)",
+              "$148.32",
+              "n/a",
+              "Owning the chase card",
+              "1.38 case boxes; grading and condition risk"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $36.66 below it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the stale prices, and the Ursula mix-up",
+        "note": "From the Warehouse: the question we get most in chat about Ursula's Return is whether the Ursula card is the chase card, because the set carries her name. It is not. The Enchanted Ursula is $48.09, twelfth in the set, and the Ariel is 3.08 times it. The second question is whether our case at $428.40 is a good price when a market read prints $101.32 a box. It is a fair question, and the honest answer is that the market box reads from $101.32 to $134, so the case wins on three of the four reads and loses on one. We stock the case, we ship it daily, and we print the losing read next to the winning ones.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. TCGPursuit carries the freshest ranking, but it is a price table with no shelf and no verdict. TCGKing ranks the chase cards by category and prints no prices at all. Its Prime Media, dated May 17, 2024, prices its ten from the launch window, with the Piglet at $289 and the Yen Sid at $295, against $76.62 and $50.89 today, falls of 73.49% and 82.75%.",
+          "The gap this page owns is fourfold: the shelf, the dated read, the case division, and the market spread. The shelf price is ours, stamped November 27, 2026: the English case at $428.40, with no single box and no Japanese case on the shelf. The dated read is TCGPursuit's November 26, 2026 TCGplayer snapshot, all ten printings, $913.75 in total, cross-checked against TurnZero's November 20 read, which puts the Ariel at $148.48, the November 4 Cardsprices read, and Lanakit's November 24 read, which agrees on all ten Enchanted prices to the cent except the Anna at $65.66 against $64.72. No other best-cards list for this set carries all four.",
+          "The other gaps are rotation, the pool, and the printing check. Ursula's Return left Core Constructed with Fabled on September 5, 2025, and Core now runs Sets 9 to 14, so the set's value is collector value now. The Enchanted pool runs wider than characters, with two songs, Look at This Family and Second Star to the Right, and three locations, Ariel's Grotto, Snuggly Duckling, and The Wall. The printing check is the Ariel: $2.82 as a Legendary and $148.32 as an Enchanted, 52.60 times apart."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Ariel is $148.32, 16.23% of the top ten, and 1.14 times the second card, Minnie Mouse at $130.24, $18.08 ahead. Together they are $278.56, 30.49% of the list, and with the Cinderella the top three are $387.14, 42.37%. The Ariel moved $0.78, from $149.10 on November 8 to $148.32 on November 26, down 0.52%, and TCGScan calls $187.06 its 90-day high, so it sits $38.74 below that high, at 79.29% of it. The Anna moved the other way: TCGPursuit records it down 8.5% in seven days, from about $70.73 to $64.72, a $6.01 fall.",
+          "The second rung is the Jasmine at $99.23, the Look at This Family at $87.17, and the Piglet at $76.62, together $263.02, 28.78% of the ten. The third rung is the Diablo at $74.14, the Goofy at $66.07, the Anna at $64.72, and the Second Star at $58.66, together $263.59, 28.85% of the ten. The third rung is $0.57 above the second rung, so the middle of the list is a flat field, not a ladder.",
+          "Below the top ten sits the rest of the set. The eight Enchanteds outside the ten are Yen Sid 209/204 at $50.89, Ursula 208/204 at $48.09, Sisu 215/204 at $44.28, The Queen 218/204 at $42.42, We Don't Talk About Bruno 213/204 at $33.63, Snuggly Duckling 216/204 at $26.79, Ariel's Grotto 219/204 at $25.57, and The Wall 222/204 at $23.26, together $294.93, so all eighteen Enchanteds total $1,208.68 and the top ten is 75.60% of that. The set costs $1,373.26 to collect one of each, and the top ten is 66.54% of that. The [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) shows the same shape in set 3, where the top ten totals $906.10."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 105 packs, one in 1,890 for the Ariel",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate. WorthRipping's pull-rate table, from DigitalTQ counted openings checked October 26, 2026, puts an Enchanted at one in 105 packs, with a counted range of one in 9.6 to 19 boxes, so a case holds 0.91 Enchanted on average by pack arithmetic. WorthRipping's own box table says one in 13 boxes, which does not match the pack figure, so treat the case figure as arithmetic, not a count. The specific Ariel is rarer still: eighteen Enchanteds share the one-in-105 slot, so one specific Enchanted averages 1,890 packs, $8,429.40 of packs at our $4.46 case pack price.",
+          "The second risk is the printing, not the card. The Ariel is two prices in one set: $2.82 as a Legendary and $148.32 as an Enchanted, so the Enchanted is 52.60 times the plain Legendary. A buyer who pays an Enchanted price for a Legendary has overpaid by $145.50. Check the collector number before you pay: the Enchanted is 220/204, the Legendary is 175/204, and the foil slot is the only place an Enchanted can appear.",
+          "The third risk is the reseal. A box that trades at $101.32 on one read and $134 on another is exactly what resealers monetize, so check the seal, wrap tension, and pack order before opening, as [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows. The fourth risk is the price itself: the Piglet fell from $289 at launch to $76.62, and the Yen Sid from $295 to $50.89. The sealed-hold plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/), and the storage rules are in [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, Sing Together, and two formats",
+        "paragraphs": [
+          "Ursula's Return is Disney Lorcana's fourth set, set 4 of 14 on the shelf. It reached game stores and Disney Parks on May 17, 2024 and mass retail on May 31, 2024, per Disney Lorcana's official set page, at $5.99 a pack and $143.76 a box. The set holds 204 numbered cards plus 18 Enchanted rares numbered 205 to 222, for 222 cards in the booster set, and TCGPursuit tracks 232 catalog versions. The set introduces the Sing Together mechanic, brings the Encanto characters into the game, and ships the first Illumineer's Quest, Deep Trouble, on the same day at $59.99, with two starter decks at $16.99 each and an Illumineer's Trove at $49.99.",
+          "The set left Core Constructed with Fabled on September 5, 2025, when Sets 1 to 4 rotated out, and Sets 5 to 8 followed on July 17, 2026, so Core is now Sets 9 to 14. Every Ursula's Return card is still legal in Infinity Constructed, and the reprint rule keeps a card legal by name: Fabled reprinted 170 cards from Sets 1 to 4.",
+          "The Japanese edition came later and cheaper. It released July 12, 2025, with a suggested retail of ¥5,280 per box of 16 packs, ¥330 a pack, 6 cards a pack, and SNKRDUNK asks ¥4,998 and up for the box. At the ECB fixing of November 26, 2026, 159.26 yen to the dollar, the Japanese box at retail is $33.15, the ask is $31.38, and the pack is $2.07. Per card the Japanese box is ¥55, or $0.35, against our English case at $0.37 a card, $0.02 apart, but the boxes are not the same product. The [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) covers the Japanese edition, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Enchanted, who should buy the single: the Ariel averages 1,890 packs at the counted rate, $8,429.40 of packs at our case price. It is not for anyone who wants a single English box, because the only English Ursula's Return product here is the four-box case. It is not for anyone who will pay an Enchanted price without checking the number: the same Ariel is $2.82 as a Legendary. It is not for anyone who needs the prices to hold, or a return on a date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Ariel, own the ten, hold the fourth set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Ariel, buy the single: $148.32 Enchanted on the November 27, 2026 TCGplayer market read, and check the number, 220/204, because the Legendary is $2.82.",
+          "If the job is the ten, buy the English case at $428.40, four boxes at $107.10 each, and treat the Enchanted as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $101.32, not a case you cannot split, and check the spread first: Cardheist lists $115 and the eBay median is $134.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the card number, because the same Ariel is $2.82 as a Legendary and $148.32 as an Enchanted."
+        ],
+        "h": "Action layer: the Ursula's Return best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "lorcana-ursulas-return-best-cards",
+    "takeaway": [
+      "The Ursula's Return top ten, on TCGplayer market prices checked November 27, 2026, totals $913.75, and the Ariel is $148.32 of it, 16.23%. All ten are Enchanted rares, the top two are $278.56, 30.49%, and the bottom five are $340.21, 37.23%, more than the top two combined by $61.65. The second and third rungs are $263.02 and $263.59, $0.57 apart.",
+      "On our shelf as of November 27, 2026, there is exactly one Ursula's Return product: the English sealed case at $428.40, four boxes at $107.10 a box, $4.46 a pack, $0.37 a card, $36.66 below the MSRP box per box, and $75.60 below its own November 10 price of $504.00. There is no single English box and no Japanese case on the shelf. The Ariel is 1.38 case boxes and 0.35 of a whole case. The case saves $22.90 a box against InkSight's $130 market box and $26.90 against the $134 eBay median, but runs $5.78 above WorthRipping's $101.32 box.",
+      "It is worth buying as the fourth set sealed, and it is not worth buying as a way to own one named Enchanted. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the counted rate of about one Enchanted in 105 packs puts one specific Enchanted at 1,890 packs on average, $8,429.40 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Enchanted as a bonus.",
+      "The Ursula is not the chase: her Enchanted is $48.09, twelfth in the set, and the Ariel is 3.08 times it, and the launch-window lists are stale, with the Piglet down 73.49% from $289 at launch and the Yen Sid down 82.75% from $295. The Ariel is $38.74 below its 90-day high of $187.06.",
+      "Companion guide: the [Lorcana Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) runs the same ranking on set 5, and the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks set 3, where the top ten totals $906.10, $7.65 below this set. The [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34.",
+      "For the box-level view behind these pack prices, the [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Ursula's Return at $107.10 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+      "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
     ]
   },
   "m1l-best-cards": {
