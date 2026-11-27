@@ -47284,6 +47284,472 @@ export const POSTS: Record<string, BlogPost> = {
       "If Japanese wins your decision, two reads follow naturally: [how to read Japanese Pokémon cards](/blog/how-to-read-japanese-pokemon-cards/) — the skill is smaller than it looks — and [the best-value Japanese booster boxes](/blog/best-value-japanese-pokemon-booster-boxes/), the full price ladder from $58.85 up."
     ]
   },
+  "lorcana-archazias-island-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Enchanted Mickey Mouse, Inspirational Warrior, 221/204, at $469.99 on TCGplayer market checked November 27, 2026, from TCGPursuit's Archazia's Island read, with price history last recorded November 26, 2026. TCGplayer's own November 25, 2026 price-trends post puts the same card at $469.99, and GradeValue's November 26 read agrees at $469.99, so three reads match. The card was $363.41 on September 30, 2026, so it rose $106.58, up 29.33%, in eight weeks, with $40.61 of that in the last thirty days.",
+        "q": "What is the most valuable Archazia's Island card?"
+      },
+      {
+        "a": "No. The $3,979 Elsa is Elsa, Ice Maker, number 6, a Disney Lorcana Promo Cards foil from 2023, not an Archazia's Island card at all. The Archazia's Island Elsa is number 69/204, a Super Rare, at $0.28 on the November 23, 2026 read, so the promo foil is 14,210.71 times the set card. Lanakit's top-five list for the set puts the promo at number one, which is why its ranking cannot be used. The real top card in the set is the Enchanted Mickey at $469.99, and the promo foil is 8.47 times that. TrendApe's November 24, 2026 snapshot notes the $3,979 price has sat flat since October 5 with zero reported transactions, so it is a stale reference price, not a sale price.",
+        "q": "Why does one list put a $3,979 Elsa above the Mickey?"
+      },
+      {
+        "a": "Buy the English case if the job is four Archazia's Island boxes sealed: $633.83, four boxes at $158.46 a box, $6.60 a pack, $0.55 a card, $14.70 above the MSRP box per box, and $93.83 above four Cardheist market boxes at $135 each. Buy the market box if the job is one box: $135 on the Cardheist read of November 27, 2026, $5.63 a pack. Do not use the WorthRipping read of $106.03 as the market box: it disagrees with the Cardheist read by $28.97 a box. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Archazia's Island English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Archazia's Island Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Archazia's Island is the Enchanted Mickey Mouse, Inspirational Warrior, 221/204, at $469.99 on TCGplayer market checked November 27, 2026, and the ten best cards are all Enchanted rares adding to $1,926.86. Our shelf, November 27, 2026, carries the English sealed case at $633.83, four boxes at $158.46 a box, $6.60 a pack, and $0.55 a card, $14.70 above the MSRP box per box, with no single box and no Japanese case. Buy the case to hold the seventh set sealed, buy the single to own the Mickey.",
+      "Who this is for: collectors ranking the Archazia's Island chase, buyers weighing a four-box case against a $135 market box, and players building an Infinity deck from a rotated set. Who it is not for: anyone chasing one named Enchanted by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Archazia's Island's 10 best cards on TCGplayer market, Nov 27, 2026: the $469.99 Enchanted Mickey, the $158.46 case box, and the $135 market box.",
+    "metaTitle": "Lorcana Archazia's Island Best Cards, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Mickey, nine more, and a case above retail",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit's Archazia's Island read, price history last recorded November 26, 2026. The ten add to $1,926.86, and the top three are $1,031.57 of it, 53.54%. Mickey Mouse, Inspirational Warrior (Enchanted) 221/204 is $469.99, All Is Found (Enchanted) 220/204 is $294.10, and Aurora, Waking Beauty (Enchanted) 205/204 is $267.48. Behind them, Donald Duck, Flustered Sorcerer (Enchanted) 209/204 at $183.31, Belle, Mechanic Extraordinaire (Enchanted) 217/204 at $169.69, and Mad Hatter, Unruly Eccentric (Enchanted) 213/204 at $126.04. Then Tamatoa, Happy as a Clam (Enchanted) 219/204 at $123.23, Tramp, Enterprising Dog (Enchanted) 212/204 at $104.64, Jafar, Newly Crowned (Enchanted) 210/204 at $98.01, and Bolt, Superdog (Enchanted) 207/204 at $90.37.",
+          "The Mickey is $469.99, 24.39% of the top ten on its own, and 1.60 times the second card. The top two are $764.09, 39.65%, and the top five are $1,384.57, 71.86%. The second rung, ranks three to five, totals $620.48, 32.20%, and the third rung, ranks six to ten, totals $542.29, 28.14%, so the second rung sits $78.19 above the third and the list is a ladder, not a flat field. No non-Enchanted card cracks the top ten, and the dearest regular printing in the set is the Tamatoa Legendary at $4.73.",
+          "A collector chasing the Mickey buys the single: the card is 2.97 case boxes and 0.74 of a whole case. A collector who wants the seventh set sealed buys the case at $158.46 a box, $14.70 above the MSRP box, the opposite of the set before it. The companion [Lorcana Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) runs the same ranking on set 5, where the top ten totals $1,114.95, $811.91 below this set."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Archazia's Island English case per box: $633.83 / 4 boxes = $158.46 per box",
+          "Archazia's Island English case per pack: $633.83 / 96 packs = $6.60 per pack",
+          "Archazia's Island English case per card: $633.83 / 1,152 cards = $0.55 per card",
+          "Archazia's Island English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Archazia's Island English case box vs MSRP box: $158.46 - $143.76 = $14.70 above MSRP per box",
+          "Archazia's Island English case box vs MSRP box: $158.46 / $143.76 = 1.10x",
+          "Archazia's Island Cardheist market box per pack: $135 / 24 packs = $5.63 per pack",
+          "Archazia's Island Cardheist market box vs case box: $158.46 - $135 = $23.46 per box",
+          "Archazia's Island Cardheist market box vs case box: $135 / $158.46 = 0.85x",
+          "Archazia's Island four Cardheist market boxes: 4 x $135 = $540; $633.83 - $540 = $93.83 above four market boxes",
+          "Archazia's Island WorthRipping market box per pack: $106.03 / 24 packs = $4.42 per pack",
+          "Archazia's Island WorthRipping market box vs case box: $158.46 - $106.03 = $52.43 per box",
+          "Archazia's Island WorthRipping market box vs Cardheist box: $135 - $106.03 = $28.97 apart",
+          "Archazia's Island Best Buy box per pack: $279.99 / 24 packs = $11.67 per pack",
+          "Archazia's Island Best Buy box vs case box: $279.99 - $158.46 = $121.53 per box",
+          "Archazia's Island Best Buy box vs case box: $279.99 / $158.46 = 1.77x",
+          "Archazia's Island Illumineer's Trove per pack: $45 / 8 packs = $5.63 per pack",
+          "Archazia's Island WorthRipping cards inside vs its box: $106.03 - $51 = $55.03 lost per box",
+          "Archazia's Island WorthRipping typical box vs its box: $25 / $106.03 = 23.58% of the box",
+          "Archazia's Island Azurite Sea case box vs Archazia's case box: $158.46 - $101.29 = $57.17 per box",
+          "Archazia's Island Azurite Sea case vs Archazia's case: $633.83 - $405.14 = $228.69",
+          "Archazia's Island Reign of Jafar case box vs Archazia's case box: $158.46 - $98.48 = $59.98 per box",
+          "Archazia's Island top 10 total: $469.99 + $294.10 + $267.48 + $183.31 + $169.69 + $126.04 + $123.23 + $104.64 + $98.01 + $90.37 = $1,926.86",
+          "Archazia's Island top 2 total: $469.99 + $294.10 = $764.09; $764.09 / $1,926.86 = 39.65% of the top 10",
+          "Archazia's Island top 3 total: $469.99 + $294.10 + $267.48 = $1,031.57; $1,031.57 / $1,926.86 = 53.54% of the top 10",
+          "Archazia's Island top 5 total: $469.99 + $294.10 + $267.48 + $183.31 + $169.69 = $1,384.57; $1,384.57 / $1,926.86 = 71.86% of the top 10",
+          "Archazia's Island bottom 5 total: $126.04 + $123.23 + $104.64 + $98.01 + $90.37 = $542.29; $542.29 / $1,926.86 = 28.14% of the top 10",
+          "Archazia's Island second rung total: $267.48 + $183.31 + $169.69 = $620.48; $620.48 / $1,926.86 = 32.20% of the top 10",
+          "Archazia's Island second rung vs third rung: $620.48 - $542.29 = $78.19 apart",
+          "Archazia's Island Mickey share: $469.99 / $1,926.86 = 24.39% of the top 10",
+          "Archazia's Island Aurora share: $267.48 / $1,926.86 = 13.88% of the top 10",
+          "Archazia's Island Mickey vs second card: $469.99 / $294.10 = 1.60x",
+          "Archazia's Island Mickey vs tenth card: $469.99 / $90.37 = 5.20x",
+          "Archazia's Island Mickey vs second plus third: $294.10 + $267.48 = $561.58; $561.58 - $469.99 = $91.59; $469.99 / $561.58 = 0.84x",
+          "Archazia's Island Mickey against the case: $469.99 / $158.46 = 2.97 case boxes; $469.99 / $633.83 = 0.74 cases",
+          "Archazia's Island Mickey against the MSRP box: $469.99 / $143.76 = 3.27x",
+          "Archazia's Island Mickey against the Cardheist box: $469.99 / $135 = 3.48x",
+          "Archazia's Island top 10 against the case: $1,926.86 / $633.83 = 3.04 cases; $1,926.86 / $158.46 = 12.16 case boxes",
+          "Archazia's Island top 10 against the cost to collect one of each: $1,926.86 / $2,633.60 = 73.16% of the set",
+          "Archazia's Island Mickey Sep 30 to Nov 26: $469.99 - $363.41 = $106.58; $106.58 is 29.33% of $363.41",
+          "Archazia's Island Mickey 30-day move: $469.99 - $429.38 = $40.61; $40.61 is 9.46% of $429.38",
+          "Archazia's Island All Is Found 30-day move: $294.63 - $279.21 = $15.42; $15.42 is 5.52% of $279.21",
+          "Archazia's Island All Is Found read spread: $294.63 - $294.10 = $0.53; $0.53 is 0.18% of $294.10",
+          "Archazia's Island Aurora 30-day move: $267.48 - $241.05 = $26.43; $26.43 is 10.96% of $241.05",
+          "Archazia's Island Mad Hatter 30-day move: $126.04 - $109.37 = $16.67; $16.67 is 15.24% of $109.37",
+          "Archazia's Island Elsa promo vs Mickey: $3,979 - $469.99 = $3,509.01; $3,979 / $469.99 = 8.47x",
+          "Archazia's Island Elsa promo vs set Elsa: $3,979 / $0.28 = 14,210.71x",
+          "Archazia's Island Elsa promo 6 vs set Elsa: $107.03 / $0.28 = 382.25x",
+          "Archazia's Island Elsa 224 vs set Elsa: $7.59 / $0.28 = 27.11x",
+          "Archazia's Island Mickey Enchanted vs Legendary: $469.99 / $1.64 = 286.58x; $469.99 - $1.64 = $468.35",
+          "Archazia's Island specific Enchanted chase: 18 Enchanted x 82 packs = 1,476 packs per specific Enchanted on average; 1,476 packs x $6.60 = $9,741.60",
+          "Archazia's Island specific Enchanted chase in boxes: 1,476 packs / 24 packs = 61.50 boxes on average",
+          "Archazia's Island Enchanted expectation per case: 96 packs / 82 packs per Enchanted = 1.17 Enchanted per case on average",
+          "Archazia's Island top 10 against the Shimmering Skies top 10: $1,926.86 - $1,114.95 = $811.91; $1,926.86 / $1,114.95 = 1.73x",
+          "Archazia's Island top 10 against the First Chapter top 10: $2,822.34 - $1,926.86 = $895.48; $2,822.34 / $1,926.86 = 1.46x",
+          "Archazia's Island top 10 against the Into the Inklands top 10: $1,926.86 - $906.10 = $1,020.76; $1,926.86 / $906.10 = 2.13x",
+          "Archazia's Island Cardheist 30-day range: $149.49 - $99.75 = $49.74; $135 - $99.75 = $35.25 above the low"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $633.83, or $158.46 a box, $6.60 a pack, and $0.55 a card, as of November 27, 2026. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $14.70 above MSRP, at 1.10 times the MSRP box. This case divides above the official box price, while the Azurite Sea case divides at $101.29 a box, $57.17 below this one, and the Reign of Jafar case at $98.48 a box, $59.98 below this one.",
+          "From the Warehouse: the question we get most in chat about Archazia's Island is why one site lists the box at $106 and another at $135, and which one is the real market box. The $135 is the cheapest box in stock at a retailer, on the Cardheist read of November 27, 2026, at $5.63 a pack, $23.46 below our case box per box, so four cost $540 and our case sits $93.83 above four market boxes. The $106.03 is WorthRipping's feed read of November 26, 2026, $28.97 below the Cardheist read, and we do not adopt it as the market box. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "The expected value inside a box is thinner than any box price on the shelf. WorthRipping's simulation, prices from November 26, 2026, puts $51 of cards inside a box after selling costs, $55.03 below its own $106.03 box, and 89 of 100 boxes lose money, with a typical box worth $25, 23.58% of the box price. The Illumineer's Trove is no better per pack: $45 for eight packs, $5.63 a pack, the same as the Cardheist market box, and 92 of 100 troves lose money on the same read. The [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on Archazia's Island, what each costs per pack, what it is for, and where it fails.",
+          "The case row deserves a second look: it is the only row on our shelf, $23.46 above the Cardheist market box per box. The WorthRipping row is the only one that undercuts it, by $52.43, and it is the read we do not trust. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) prices every case on the shelf."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$633.83",
+              "$158.46 a box, $6.60 a pack",
+              "Holding the seventh set sealed; the only Archazia's Island sealed product here",
+              "Four boxes or nothing; no single box on the shelf; $14.70 above MSRP per box"
+            ],
+            [
+              "Cardheist market box",
+              "$135",
+              "$5.63",
+              "One English box at a time",
+              "$23.46 less per box than our case box; only 1 of 3 tracked retailers in stock"
+            ],
+            [
+              "WorthRipping market box",
+              "$106.03",
+              "$4.42",
+              "One English box at a time, lowest read",
+              "$52.43 below our case box; disagrees with Cardheist by $28.97; not adopted"
+            ],
+            [
+              "The single (Mickey Enchanted)",
+              "$469.99",
+              "n/a",
+              "Owning the chase card",
+              "2.97 case boxes; grading and condition risk"
+            ],
+            [
+              "Best Buy box",
+              "$279.99",
+              "$11.67",
+              "One English box at a major retailer",
+              "$121.53 above our case box; 1.77 times it"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $14.70 above it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the Elsa trap, and the rising Mickey",
+        "note": "From the Warehouse: the question we get most in chat about Archazia's Island is whether the $3,979 Elsa tops the set, because one top-five list puts it at number one. It is not a set card at all, and the gap is the whole story of this set. The $3,979 Elsa is a 2023 promo foil, and the Archazia's Island Elsa is a Super Rare at $0.28. We also get asked whether Set 7 is the dear chase set, because its case sits above MSRP while its top card costs nearly three case boxes. It is dear sealed and dear in singles, and the two facts point the same way: buy the single, or buy the case to hold it.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. TCGPursuit ranks the chase cards on TCGplayer market prices with history last recorded November 26, 2026, with the Mickey at $469.99. GradeValue ranks the same ten in the same order on its November 26, 2026 read, the Mickey at $469.99 and the set valued at $2,420.85 raw. Lanakit's top five is the one to distrust: it puts the $3,979 Elsa at number one, above the Mickey at $469.99, and that Elsa is a Disney Lorcana Promo Cards foil, number 6, not a card from this set.",
+          "The gap this page owns is threefold: the shelf, the dated read, and the case division. The shelf price is ours, stamped November 27, 2026: the English case at $633.83, with no single box and no Japanese case on the shelf. The dated read is TCGPursuit's November 26, 2026 TCGplayer snapshot, all ten printings, $1,926.86 in total, cross-checked against TCGplayer's November 25, 2026 price-trends post, which puts the Mickey at $469.99, the All Is Found at $294.63, and the Aurora at $267.48.",
+          "The second gap is the Elsa trap itself: the $3,979 foil is 8.47 times the Mickey and 14,210.71 times the set Elsa at $0.28, and any list that ranks it inside the set is ranking a 2023 promo. The promo's normal printing, number 6, is $107.03 on the November 22, 2026 read, still 382.25 times the set Elsa. The third gap is the Mickey's direction: it rose $106.58, up 29.33%, from $363.41 on September 30 to $469.99 on November 26, and $40.61 of that came in the last thirty days, while the Aurora rose $26.43 and the Mad Hatter rose $16.67 in the same window."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Mickey is $469.99, 24.39% of the top ten on its own, and 1.60 times the second card, All Is Found, at $294.10. Together they are $764.09, 39.65% of the list, and with the Aurora the top three are $1,031.57, 53.54%. The Mickey is $91.59 below the second and third cards combined, $561.58, at 0.84 times them, and 5.20 times the tenth card, Bolt, Superdog, at $90.37. The Mickey moved $40.61 in thirty days, from $429.38 to $469.99, up 9.46%, and TCGplayer's November 25, 2026 post names it the second-biggest Lorcana gainer over $5 in the month.",
+          "The second rung is the Aurora, the Donald Duck, and the Belle: Aurora, Waking Beauty $267.48, Donald Duck, Flustered Sorcerer $183.31, and Belle, Mechanic Extraordinaire $169.69, $620.48, 32.20% of the ten. The third rung is the Mad Hatter, the Tamatoa, the Tramp, the Jafar, and the Bolt: Mad Hatter, Unruly Eccentric $126.04, Tamatoa, Happy as a Clam $123.23, Tramp, Enterprising Dog $104.64, Jafar, Newly Crowned $98.01, and Bolt, Superdog $90.37, together $542.29, 28.14% of the ten. The second rung is $78.19 above the third rung, so the middle of the list is a ladder, not a flat field.",
+          "The moves split the same way: the All Is Found rose $15.42, up 5.52%, the Aurora rose $26.43, up 10.96%, and the Mad Hatter rose $16.67, up 15.24%, in the thirty days to November 25, 2026, on TCGplayer's own post. The All Is Found read is $0.53 apart between sources, $294.10 on TCGPursuit against $294.63 on TCGplayer's post, 0.18% of the price, so the two reads agree. Below the top ten sits the rest of the set: the set costs $2,633.60 to collect one of each of its 245 catalog versions at TCGplayer market prices, and the top ten is $1,926.86 of that, 73.16%."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 82 packs, one in 1,476 for the Mickey",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate. WorthRipping's pull-rate table, last checked October 14, 2026, borrowed from boxes with the same pack layout, puts an Enchanted at one in 82 packs, or one in 3.4 boxes, so a case holds 1.17 Enchanted on average. The specific Mickey is rarer still: eighteen Enchanteds share the one-in-82 slot, so one specific Enchanted averages 1,476 packs, $9,741.60 of packs at our $6.60 case pack price, or 61.50 boxes on average.",
+          "The second risk is the printing, not the card. The Mickey is two prices in one set: $1.64 as a Legendary and $469.99 as an Enchanted, so the Enchanted is 286.58 times the plain Legendary. A buyer who pays an Enchanted price for a Legendary has overpaid by $468.35. Check the collector number before you pay: the Enchanted is 221/204 and the Legendary is 200/204, and the foil slot is the only place an Enchanted can appear. The Elsa carries a second printing trap: the $3,979 promo foil and the $7.59 Palace Heist reprint, 224/204, are different cards from the $0.28 set Elsa, 69/204, so read the set line, not just the name.",
+          "The third risk is the reseal. A box that trades at $135 on one read and $106.03 on another is exactly what resealers monetize, so check the seal, wrap tension, and pack order before opening, as [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows. The fourth risk is the price: the Mickey rose from $363.41 in September to $469.99 in November, and a card that climbs 29.33% in eight weeks can fall the same way. The sealed-hold plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/), and the storage rules are in [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, dual ink, Illusions, and two formats",
+        "paragraphs": [
+          "Archazia's Island is Disney Lorcana's seventh set, set 7 of 14 on the shelf, with Set 14 Hyperia City the newest. It reached game stores on March 7, 2025 and mass retail on March 21, 2025, at $5.99 a pack and $143.76 a box. The set holds 204 numbered cards, plus 18 Enchanted rares numbered 205 to 222, for 245 catalog versions once foils and printings are counted. The set brings Bolt, Lady and the Tramp, Beauty and the Beast, Aladdin, Alice in Wonderland, Mulan, and 101 Dalmatians.",
+          "The set is the first to print dual-ink cards: 62 of its regular cards belong to two inks at once, with every pair of inks represented, and a dual-ink card can only go in a deck that runs both of its inks. The headliners are Belle, Mechanic Extraordinaire, and Jafar, Newly Crowned, the two starter-deck faces, Ruby/Sapphire and Amethyst/Steel. The set also brings the first Illusion characters and their Vanish keyword, which banishes an Illusion the moment it is targeted by an action, so Illusions play around removal instead of through it.",
+          "The set left Core Constructed on July 17, 2026, when the Attack of the Vine! prerelease rotated Sets 5 through 8 out, and Core now runs Sets 9 to 14, from Fabled through Hyperia City. Every Archazia's Island card is now an Infinity card, and TCGplayer's November 25, 2026 post says Enchanteds from rotated sets are seeing renewed collector interest, which fits the Mickey's $40.61 rise. The [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) runs the same ranking on set 4, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Enchanted, who should buy the single: the Mickey averages 1,476 packs at the counted rate, $9,741.60 of packs at our case price. It is not for anyone who wants a single English box, because the only English Archazia's Island product here is the four-box case. It is not for anyone who pays an Enchanted price without checking the number, because the same Mickey is $1.64 as a Legendary and the $3,979 Elsa is not a set card at all. It is not for anyone who needs the prices to hold, or a return on a date."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Mickey, own the ten, hold the seventh set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Mickey, buy the single: $469.99 Enchanted on the November 27, 2026 TCGplayer market read, and check the number, 221/204, because the Legendary is $1.64.",
+          "If the job is the ten, buy the English case at $633.83, four boxes at $158.46 each, and treat the Enchanted as a bonus, not the plan.",
+          "If the job is one box, buy the Cardheist market box at $135, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the set line on any Elsa, because the $3,979 Elsa is a 2023 promo foil, not an Archazia's Island card."
+        ],
+        "h": "Action layer: the Archazia's Island best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles, and the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the wider Japanese shelf. Exact shipping is confirmed at checkout or on WhatsApp, and we ship from Japan."
+        ]
+      }
+    ],
+    "slug": "lorcana-archazias-island-best-cards",
+    "takeaway": [
+      "The Archazia's Island top ten, on TCGplayer market prices checked November 27, 2026, totals $1,926.86, and the Mickey is $469.99 of it, 24.39%. All ten are Enchanted rares, the top two are $764.09, 39.65%, and the bottom five are $542.29, 28.14%, against the second rung at $620.48, 32.20%. No non-Enchanted card cracks the top ten, and the dearest regular printing in the set is the Tamatoa Legendary at $4.73.",
+      "On our shelf as of November 27, 2026, there is exactly one Archazia's Island product: the English sealed case at $633.83, four boxes at $158.46 a box, $6.60 a pack, $0.55 a card, $14.70 above the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Mickey is 2.97 case boxes and 0.74 of a whole case. The case sits $93.83 above four Cardheist market boxes at $135 each.",
+      "It is worth buying as the seventh set sealed, and it is not worth buying as a way to own one named Enchanted. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the counted rate of about one Enchanted in 82 packs puts one specific Enchanted at 1,476 packs on average, $9,741.60 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Enchanted as a bonus.",
+      "The Elsa is three cards, not one: the 2023 promo foil is $3,979, $3,509.01 above the Mickey, while the Archazia's Island Elsa is a Super Rare at $0.28 and the Palace Heist reprint is $7.59. The Mickey rose $106.58, up 29.33%, from $363.41 on September 30 to $469.99 on November 26, while the Aurora rose $26.43 and the Mad Hatter rose $16.67 in the last thirty days.",
+      "Companion guide: the [Lorcana Azurite Sea best cards guide](/blog/lorcana-azurite-sea-best-cards/) runs the same ranking on set 6, where the case divides at $101.29 a box, $57.17 below this set, and the [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) runs it on set 4, and the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs it on set 3, where the top ten totals $906.10, $1,020.76 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Archazia's Island at $158.46 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+      "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
+    ]
+  },
+  "lorcana-azurite-sea-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Enchanted Tigger, In the Crow's Nest, 215/204, at $157.73 on TCGplayer market checked November 27, 2026, from TCGPursuit's set read, with price history last recorded November 26, 2026. GradeValue's November 26 read prints the same $157.73, TurnZero's November 20 read puts it at $157.93, and TCGscan's November 8 read puts it at $158.43, so four reads agree within $0.70. The same Tigger is $0.17 as a Rare, so check the collector number before you pay a chase price.",
+        "q": "What is the most valuable Azurite Sea card?"
+      },
+      {
+        "a": "Lanakit's top-five list for the set puts the Simba at number one, but the $979.73 Simba is a Disney Lorcana Promo card, number 4 in the Promo Cards set, not an Azurite Sea card. The Azurite Sea Simba is number 20/204, a Legendary, at $1.08 on the November 26, 2026 read, and its foil is $3.43, so the promo is 907.16 times the set card. The same list puts a $203.16 Goofy above the Tigger too, and that Goofy is a Disney Cruise Promo, number 14, while the Azurite Sea Goofy is a Rare at $0.15. The real top card in the set is the Enchanted Tigger at $157.73.",
+        "q": "Why does one list put a $979.73 Simba above the Tigger?"
+      },
+      {
+        "a": "Buy the English case if the job is four Azurite Sea boxes sealed: $405.14, four boxes at $101.29 a box, $4.22 a pack, $0.35 a card, $42.47 below the MSRP box per box, and $77.50 saved against four FASE market boxes at $120.66 each. Buy the market box if the job is one box: $120.66 on the FASE read of November 20, 2026. Do not use the WorthRipping read of $96.57 as the market box: it disagrees with the FASE read by $24.09 a box. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Azurite Sea English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Azurite Sea Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Azurite Sea is the Enchanted Tigger, In the Crow's Nest, 215/204, at $157.73 on TCGplayer market checked November 27, 2026, and the ten best cards are all Enchanted rares adding to $839.17. Our shelf, November 27, 2026, carries the English sealed case at $405.14, four boxes at $101.29 a box, $4.22 a pack, and $0.35 a card, $42.47 below the MSRP box per box, with no single box and no Japanese case on the shelf. Buy the case to hold the sixth set sealed, buy the single to own the Tigger.",
+      "Who this is for: collectors ranking the Azurite Sea chase, buyers weighing a four-box case against a market box, and players building an Infinity pirate or Inventor deck from a rotated set. Who it is not for: anyone chasing one named Enchanted by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Azurite Sea's 10 best cards on TCGplayer market, Nov 27, 2026: the $157.73 Enchanted Tigger, the $101.29 case box, and the $120.66 market box.",
+    "metaTitle": "Lorcana Azurite Sea Best Cards, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: one Tigger, nine more, and a case far below retail",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit's Azurite Sea read, with price history last recorded November 26, 2026. The ten add to $839.17, and the top three are $378.21 of it, 45.07%. Tigger, In the Crow's Nest (Enchanted) 215/204 is $157.73, Baymax, Personal Healthcare Companion (Enchanted) 218/204 is $116.52, and You Came Back (Enchanted) 213/204 is $103.96. Behind them, Tiana, Restaurant Owner (Enchanted) 206/204 at $81.85, We Could Be Immortals (Enchanted) 219/204 at $79.89, and Chip 'n' Dale, Recovery Rangers (Enchanted) 205/204 at $72.69. Then Rafiki, Ethereal Guide (Enchanted) 208/204 at $64.45, Daisy Duck, Pirate Captain (Enchanted) 211/204 at $59.69, Wreck-It Ralph, Ham Hands (Enchanted) 220/204 at $51.20, and Gadget Hackwrench, Brilliant Bosun (Enchanted) 217/204 at $51.19.",
+          "The top two are $274.25, 32.68% of the list, and the Tigger is $157.73, 18.80% of the ten on its own, and 1.35 times the second card. The Tigger is $62.75 below the second and third cards combined, $220.48, at 0.72 times them, and 3.08 times the tenth card at $51.19. The bottom five are $299.22, 35.66%, more than ranks three to five at $265.70, so after the top two the list is a flat field, not a ladder. No non-Enchanted card cracks the top ten.",
+          "A collector chasing the Tigger buys the single: the card is 1.56 case boxes and 0.39 of a whole case. A collector who wants the sixth set sealed buys the case at $101.29 a box, $42.47 below the MSRP box. The Tigger barely moved in five weeks, from $158.76 on October 22 to $157.73 on November 26, down $1.03, down 0.65%. The companion [Lorcana Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) runs the same ranking on set 5, where the top ten totals $1,114.95, $275.78 above this set."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Azurite Sea English case per box: $405.14 / 4 boxes = $101.29 per box",
+          "Azurite Sea English case per pack: $405.14 / 96 packs = $4.22 per pack",
+          "Azurite Sea English case per card: $405.14 / 1,152 cards = $0.35 per card",
+          "Azurite Sea English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Azurite Sea English case box vs MSRP box: $143.76 - $101.29 = $42.47 below MSRP per box",
+          "Azurite Sea English case box vs MSRP box: $101.29 / $143.76 = 0.70x",
+          "Azurite Sea FASE market box per pack: $120.66 / 24 packs = $5.03 per pack",
+          "Azurite Sea FASE market box vs case box: $120.66 - $101.29 = $19.37 per box",
+          "Azurite Sea FASE market box vs case box: $120.66 / $101.29 = 1.19x",
+          "Azurite Sea four FASE market boxes: 4 x $120.66 = $482.64; $482.64 - $405.14 = $77.50 saved",
+          "Azurite Sea FASE market case vs our case: $438.79 - $405.14 = $33.65; $33.65 is 8.31% of $405.14",
+          "Azurite Sea FASE market box vs InkSight market read: $120.66 - $120.58 = $0.08 apart",
+          "Azurite Sea WorthRipping market box per pack: $96.57 / 24 packs = $4.02 per pack",
+          "Azurite Sea WorthRipping market box vs case box: $96.57 - $101.29 = -$4.72 per box",
+          "Azurite Sea WorthRipping market box vs FASE box: $120.66 - $96.57 = $24.09 apart",
+          "Azurite Sea four WorthRipping market boxes: 4 x $96.57 = $386.28; $405.14 - $386.28 = $18.86 above four market boxes",
+          "Azurite Sea Illumineer's Trove per pack: $41 / 8 packs = $5.13 per pack",
+          "Azurite Sea Illumineer's Trove per pack vs case pack: $5.13 / $4.22 = 1.22x; $5.13 - $4.22 = $0.91 per pack",
+          "Azurite Sea WorthRipping cards inside vs its box: $31 / $96.57 = 32.10% of the box; $96.57 - $31 = $65.57 lost per box",
+          "Azurite Sea WorthRipping typical box vs its box: $18 / $96.57 = 18.64% of the box",
+          "Azurite Sea top 10 total: $157.73 + $116.52 + $103.96 + $81.85 + $79.89 + $72.69 + $64.45 + $59.69 + $51.20 + $51.19 = $839.17",
+          "Azurite Sea top 2 total: $157.73 + $116.52 = $274.25; $274.25 / $839.17 = 32.68% of the top 10",
+          "Azurite Sea top 3 total: $157.73 + $116.52 + $103.96 = $378.21; $378.21 / $839.17 = 45.07% of the top 10",
+          "Azurite Sea top 4 total: $157.73 + $116.52 + $103.96 + $81.85 = $460.06; $460.06 / $839.17 = 54.82% of the top 10",
+          "Azurite Sea Tigger share: $157.73 / $839.17 = 18.80% of the top 10",
+          "Azurite Sea Baymax share: $116.52 / $839.17 = 13.89% of the top 10",
+          "Azurite Sea bottom 8 total: $839.17 - $274.25 = $564.92; $564.92 / $839.17 = 67.32% of the top 10",
+          "Azurite Sea bottom 5 total: $72.69 + $64.45 + $59.69 + $51.20 + $51.19 = $299.22; $299.22 / $839.17 = 35.66% of the top 10",
+          "Azurite Sea second rung total: $103.96 + $81.85 + $79.89 = $265.70; $265.70 / $839.17 = 31.66% of the top 10",
+          "Azurite Sea third rung total: $72.69 + $64.45 + $59.69 + $51.20 + $51.19 = $299.22; $299.22 / $839.17 = 35.66% of the top 10",
+          "Azurite Sea second rung vs third rung: $299.22 - $265.70 = $33.52 apart",
+          "Azurite Sea Tigger vs second card: $157.73 / $116.52 = 1.35x",
+          "Azurite Sea Tigger vs tenth card: $157.73 / $51.19 = 3.08x",
+          "Azurite Sea Tigger vs second plus third: $116.52 + $103.96 = $220.48; $220.48 - $157.73 = $62.75; $157.73 / $220.48 = 0.72x",
+          "Azurite Sea Tigger against the case: $157.73 / $101.29 = 1.56 case boxes; $157.73 / $405.14 = 0.39 cases",
+          "Azurite Sea Tigger against the MSRP box: $157.73 / $143.76 = 1.10x",
+          "Azurite Sea Tigger against the FASE box: $157.73 / $120.66 = 1.31x",
+          "Azurite Sea Tigger against the WorthRipping box: $157.73 / $96.57 = 1.63x",
+          "Azurite Sea top 10 against the case: $839.17 / $405.14 = 2.07 cases; $839.17 / $101.29 = 8.28 case boxes",
+          "Azurite Sea top 10 against the MSRP box: $839.17 / $143.76 = 5.84x",
+          "Azurite Sea Tigger Oct 22 to Nov 26: $157.73 - $158.76 = -$1.03; -$1.03 is -0.65% of $158.76",
+          "Azurite Sea Tigger read spread, TurnZero Nov 20: $157.93 - $157.73 = $0.20; $0.20 is 0.13% of $157.73",
+          "Azurite Sea Tigger read spread, TCGscan Nov 8: $158.43 - $157.73 = $0.70; $0.70 is 0.44% of $157.73",
+          "Azurite Sea Tigger read spread, Midpoint Oct 28: $158.81 - $157.73 = $1.08; $1.08 is 0.68% of $157.73",
+          "Azurite Sea Baymax Oct 6 to Nov 26: $116.52 - $114 = $2.52; $2.52 is 2.21% of $114 (Cardsprices Oct 6 read, rounded to the dollar)",
+          "Azurite Sea You Came Back Oct 6 to Nov 26: $103.96 - $103 = $0.96; $0.96 is 0.93% of $103 (Cardsprices Oct 6 read, rounded to the dollar)",
+          "Azurite Sea Tiana Oct 6 to Nov 26: $81.85 - $87 = -$5.15; -$5.15 is -5.92% of $87 (Cardsprices Oct 6 read, rounded to the dollar)",
+          "Azurite Sea Daisy Duck Oct 6 to Nov 26: $59.69 - $61 = -$1.31; -$1.31 is -2.15% of $61 (Cardsprices Oct 6 read, rounded to the dollar)",
+          "Azurite Sea Rafiki Oct 6 to Nov 26: $64.45 - $61 = $3.45; $3.45 is 5.66% of $61 (Cardsprices Oct 6 read, rounded to the dollar)",
+          "Azurite Sea The Islands I Pulled From The Sea Nov 6 to Nov 26: $50.33 - $53 = -$2.67; -$2.67 is -5.04% of $53 (Cardsprices Nov 6 read, rounded to the dollar)",
+          "Azurite Sea Simba promo vs Tigger: $979.73 - $157.73 = $822.00",
+          "Azurite Sea Simba promo vs Tigger: $979.73 / $157.73 = 6.21x",
+          "Azurite Sea Simba promo vs set Simba: $979.73 / $1.08 = 907.16x",
+          "Azurite Sea Simba promo vs foil Simba: $979.73 / $3.43 = 285.64x",
+          "Azurite Sea Goofy promo vs Tigger: $203.16 - $157.73 = $45.43; $203.16 / $157.73 = 1.29x",
+          "Azurite Sea Goofy promo vs set Goofy: $203.16 / $0.15 = 1,354.40x",
+          "Azurite Sea Tigger Enchanted vs Rare: $157.73 / $0.17 = 927.82x; $157.73 - $0.17 = $157.56",
+          "Azurite Sea specific Enchanted chase: 18 Enchanted x 82 packs = 1,476 packs per specific Enchanted on average; 1,476 packs x $4.22 = $6,228.72",
+          "Azurite Sea specific Enchanted chase in boxes: 1,476 packs / 24 packs = 61.50 boxes on average",
+          "Azurite Sea Enchanted expectation per case: 96 packs / 82 packs per Enchanted = 1.17 Enchanted per case on average",
+          "Azurite Sea top 10 against the Shimmering Skies top 10: $1,114.95 - $839.17 = $275.78; $839.17 / $1,114.95 = 0.75x",
+          "Azurite Sea top 10 against the First Chapter top 10: $2,822.34 / $839.17 = 3.36x; $2,822.34 - $839.17 = $1,983.17 apart",
+          "Azurite Sea top 10 against the cost to collect one of each: $839.17 / $1,290.67 = 65.02% of the set",
+          "Azurite Sea Tigger against the Shimmering Skies Mufasa: $306.02 / $157.73 = 1.94x; $306.02 - $157.73 = $148.29 apart",
+          "Azurite Sea six English cases below MSRP per box: Set 8 $98.48, Set 6 $101.29, Set 2 $107.10, Set 4 $107.10, Set 3 $117.81, Set 5 $139.23",
+          "Azurite Sea Reign of Jafar cheapest case per box: $393.93 / 4 boxes = $98.48 per box",
+          "Azurite Sea TCGVault Oct 27 median Enchanted: $52.71; top Enchanted: $158.81",
+          "Azurite Sea Japanese box in dollars: ¥8,599 / 159.26 yen per dollar = $53.99; Japanese MSRP ¥5,280 / 159.26 = $33.15",
+          "Azurite Sea Japanese box ask vs MSRP: ¥8,599 - ¥5,280 = ¥3,319; ¥3,319 is 62.86% of ¥5,280",
+          "Azurite Sea English case box vs Japanese box ask: $101.29 - $53.99 = $47.30",
+          "Azurite Sea former staples non-foil, November 2026: Maui - Half-Shark $4.86, Oswald $2.18, Tiana $1.82"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $405.14, or $101.29 a box, $4.22 a pack, and $0.35 a card. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $42.47 below MSRP, at 0.70 times the MSRP box.",
+          "The open market charges more than our case box. The FASE sealed tracker, read November 20, 2026, puts the market box at $120.66, $19.37 more per box than our case box, at 1.19 times it, so four cost $482.64 and the case saves $77.50 against them, and the FASE market case is $438.79, $33.65 above our case. InkSight's November 10, 2026 market read puts the box at $120.58, $0.08 from the FASE read. WorthRipping prints $96.57 for November 26, $4.72 below our case box. We do not adopt it as the market box; no other tracker shows a box that cheap, and it disagrees with the FASE read by $24.09 a box. The full case-versus-box method is in [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/).",
+          "The expected value inside a box is thinner than the box price on every read. WorthRipping's simulation, prices from November 26, 2026, puts $31 of cards inside a box after selling costs, $65.57 below its own $96.57 box, and 96 of 100 boxes lose money, with a typical box worth $18, 18.64% of the box price. The Illumineer's Trove is worse per pack: $41 for eight packs, $5.13 a pack, $0.91 above our case pack price, at 1.22 times it. From the Warehouse: the Azurite Sea case is the second-cheapest box on our shelf, and it still does not pay to open it for the Tigger."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the whole verdict in one view: six ways to spend on Azurite Sea, what each costs per pack, what it is for, and where it fails.",
+          "The case row deserves a second look: it is the only row that runs through our shelf, $19.37 below the FASE market box per box. The WorthRipping row is the only one that undercuts it, by $4.72, and it is the read we do not trust. The [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$405.14",
+              "$101.29 a box, $4.22 a pack",
+              "Holding the sixth set sealed; the only Azurite Sea sealed product here",
+              "Four boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "FASE market box",
+              "$120.66",
+              "$5.03",
+              "One English box at a time",
+              "$19.37 more per box than our case box"
+            ],
+            [
+              "WorthRipping market box",
+              "$96.57",
+              "$4.02",
+              "One English box at a time, lowest read",
+              "$4.72 below our case box; disagrees with FASE by $24.09; not adopted"
+            ],
+            [
+              "The single (Tigger Enchanted)",
+              "$157.73",
+              "n/a",
+              "Owning the chase card",
+              "1.56 case boxes; grading and condition risk"
+            ],
+            [
+              "Illumineer's Trove",
+              "$41",
+              "$5.13",
+              "Eight packs with dice and dividers",
+              "$0.91 more per pack than our case pack; 96 of 100 lose money"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $42.47 below it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the shelf, the Simba trap, and the stale prices",
+        "note": "From the Warehouse: the question we get most in chat about Azurite Sea is whether the $979.73 Simba tops the set, because one top-five list puts it at number one. It is not an Azurite Sea card at all, and the gap is the whole story of this set. The $979.73 Simba is a Disney Lorcana Promo card, number 4 in the Promo Cards set, and the Azurite Sea Simba is a Legendary at $1.08. We also get asked whether Set 6 is the cheap Enchanted set, because its case sits far below MSRP while its top card costs more than one case box. It is cheap sealed and dear in singles, and those two facts point in opposite directions.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. TCGplayer's own article, published December 4, 2024, ranks the chase on launch-week prices, with five Enchanteds over $100, which no longer describes the set. TCGPursuit ranks all 232 catalog versions on current market prices, and GradeValue lists the same ten in the same order on its November 26, 2026 read, but neither page says what the set costs sealed or what to do with the ranking. The Card Centering Tool blog ranks the chase on raw and PSA 10 values from October 28, 2026, with the Tigger at $158.81 raw. Lanakit's top five is the one to distrust: it puts the $979.73 Simba at number one, above the Tigger at $157.73, and that Simba is a Promo card, not a card from this set.",
+          "The gap this page owns is threefold: the shelf, the dated read, and the case division. The shelf price is ours, stamped November 27, 2026: the English case at $405.14, with no single box and no Japanese case on the shelf. The dated read is TCGPursuit's November 26, 2026 TCGplayer snapshot, all ten printings, $839.17 in total, cross-checked against GradeValue's November 26 read, which prints the same ten prices to the cent, and TurnZero's November 20 read, which puts the Tigger at $157.93.",
+          "The second gap is the Simba trap itself: the promo Simba at $979.73 is $822.00 above the Tigger and 6.21 times it, and 907.16 times the set Simba at $1.08, so any list that ranks it inside the set is ranking the wrong set. Lanakit also lists the Goofy at $203.16 in the same Special-numbered slot, and TCGPursuit lists that Goofy as a Disney Cruise Promo, number 14 in the Promo Cards set, while the Azurite Sea Goofy is a Rare at $0.15. The third gap is the Tigger's direction: it moved $1.03, down 0.65%, in the five weeks from October 22 to November 26, while the Baymax rose $2.52 and the Rafiki rose $3.45, so the top card is flat while the second tier creeps up."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Tigger is $157.73, 18.80% of the top ten on its own, and 1.35 times the second card, Baymax, Personal Healthcare Companion, at $116.52. Together they are $274.25, 32.68% of the list, and with You Came Back the top three are $378.21, 45.07%. The Tigger is $62.75 below the second and third cards combined, $220.48, at 0.72 times them, and 3.08 times the tenth card at $51.19.",
+          "The second rung is You Came Back $103.96, the Tiana $81.85, and We Could Be Immortals $79.89, together $265.70, 31.66% of the ten. The third rung is the Chip 'n' Dale, the Rafiki, the Daisy Duck, the Wreck-It Ralph, and the Gadget Hackwrench, together $299.22, 35.66% of the ten. The third rung is $33.52 above the second rung, so the middle of the list is a flat field, not a ladder. The moves split the same way: the Baymax rose $2.52, up 2.21%, and the Rafiki rose $3.45, up 5.66%, while the Tiana fell $5.15, down 5.92%.",
+          "Below the top ten sits the rest of the set. The Islands I Pulled From The Sea was $53 on the November 6 read and sits at $50.33 on the November 26 read, outside the ten, down $2.67, down 5.04%. The regular printing of the set's top card is $0.17 as a Rare, so the Enchanted is 927.82 times the plain Rare. The set costs $1,290.67 to collect one of each of its 232 catalog versions at TCGplayer market prices, and the top ten is $839.17 of that, 65.02%. The [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) runs the same ranking on set 4, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 82 packs, one in 1,476 for the Tigger",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate. WorthRipping's pull-rate table, borrowed from boxes with the same pack layout, checked October 14, 2026, puts an Enchanted at one in 82 packs, about one in 3.4 boxes, so a case holds 1.17 Enchanted on average. The specific Tigger is rarer still: eighteen Enchanteds share the one-in-82 slot, so one specific Enchanted averages 1,476 packs, $6,228.72 of packs at our $4.22 case pack price, or 61.50 boxes on average.",
+          "The second risk is the printing, not the card. The Tigger is two prices in one set: $0.17 as a Rare and $157.73 as an Enchanted, so the Enchanted is 927.82 times the plain Rare. A buyer who pays an Enchanted price for a plain Rare has overpaid by $157.56. Check the collector number before you pay: the Enchanted is 215/204, the Rare is 126/204, and the foil slot is the only place an Enchanted can appear. The Simba carries a second printing trap: the $979.73 promo is a different card entirely, so read the set line, not just the name.",
+          "The third risk is the reseal. A box that trades at $120.66 on one read and $96.57 on another is exactly what resealers monetize, so check the seal, wrap tension, and pack order before opening, as [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows. The fourth risk is the price itself: the Tigger moved $1.03 in five weeks. The sealed-hold plan is in [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/), and the storage rules are in [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/)."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, Pirates, Inventors, and two formats",
+        "paragraphs": [
+          "Azurite Sea is Disney Lorcana's sixth set, set 6 of 14 on the shelf. It reached game stores on November 15, 2024 and mass retail on November 25, 2024, per Ravensburger's September 10, 2024 announcement, at $5.99 a pack and $143.76 a box. The set holds 204 numbered cards, 72 Common, 54 Uncommon, 48 Rare, 18 Super Rare, and 12 Legendary, plus 18 Enchanted rares numbered 205 to 222, for 222 printings in total. The set brings Big Hero 6 and the Rescue Rangers into the game for the first time.",
+          "The set adds no new keyword, but it adds two teams to build around: the Pirate classification, on 31 characters, and Big Hero 6's Inventors, who build around items. The set left Core Constructed on July 17, 2026, when the Attack of the Vine! prerelease rotated Sets 5 through 8 out, and Core now runs Sets 9 to 14. Every Azurite Sea card is now an Infinity card. The former staples sell for very little as of November 2026: the Maui, Half-Shark Legendary at $4.86 tops the non-Enchanted tier.",
+          "The third context is Japan. The Japanese Azurite Sea box reached Japan on October 31, 2025, at a ¥5,280 MSRP, and the SNKRDUNK ask sits at ¥8,599 or more, ¥3,319 above MSRP, 62.86% over it. At the ECB November 26, 2026 fixing of 159.26 yen per dollar, the ask is $53.99 and the MSRP is $33.15, so the English case box at $101.29 costs $47.30 more than the Japanese box ask, for a different product in a different language. There is no Japanese case on our shelf, and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) covers the Japanese edition."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Enchanted, who should buy the single: the Tigger averages 1,476 packs at the counted rate, $6,228.72 of packs at our case price. It is not for anyone who wants a single English box, because the only English Azurite Sea product here is the four-box case. It is not for anyone who will pay an Enchanted price without checking the number, because the same Tigger is $0.17 as a Rare, and the $979.73 Simba is not a set card at all."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Tigger, own the ten, hold the sixth set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Tigger, buy the single: $157.73 Enchanted on the November 27, 2026 TCGplayer market read, and check the number, 215/204, because the Rare is $0.17.",
+          "If the job is the ten, buy the English case at $405.14, four boxes at $101.29 each, and treat the Enchanted as a bonus, not the plan.",
+          "If the job is one box, buy the FASE market box at $120.66, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the set line on any Simba, because the $979.73 Simba is a Disney Lorcana Promo card, not an Azurite Sea card."
+        ],
+        "h": "Action layer: the Azurite Sea best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order, and the purchase stays a decision instead of a hope. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) divides every case to per-box prices. Exact shipping is confirmed at checkout or on WhatsApp, and we ship from Japan."
+        ]
+      }
+    ],
+    "slug": "lorcana-azurite-sea-best-cards",
+    "takeaway": [
+      "The Azurite Sea top ten, on TCGplayer market prices checked November 27, 2026, totals $839.17, and the Tigger is $157.73 of it, 18.80%. All ten are Enchanted rares, the top two are $274.25, 32.68%, and the bottom five are $299.22, 35.66%, more than the second rung at $265.70. No non-Enchanted card cracks the top ten, and the priciest card outside the Enchanted tier is the Maui, Half-Shark Legendary at $4.86.",
+      "On our shelf as of November 27, 2026, there is exactly one Azurite Sea product: the English sealed case at $405.14, four boxes at $101.29 a box, $4.22 a pack, $0.35 a card, $42.47 below the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Tigger is 1.56 case boxes and 0.39 of a whole case. The case saves $77.50 against four FASE market boxes at $120.66 each.",
+      "It is worth buying as the sixth set sealed, and it is not worth buying as a way to own one named Enchanted. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the counted rate of about one Enchanted in 82 packs puts one specific Enchanted at 1,476 packs on average, $6,228.72 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Enchanted as a bonus.",
+      "The Simba is two cards, not one: the Disney Lorcana Promo is $979.73, $822.00 above the Tigger, while the Azurite Sea Simba is a Legendary at $1.08. The Tigger moved $1.03, down 0.65%, in the five weeks from October 22 to November 26, while the Baymax rose $2.52 and the Rafiki rose $3.45.",
+      "Companion guide: the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs the same ranking on set 7, the set after Azurite Sea, and the [Lorcana Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) runs it on set 5, where the top ten totals $1,114.95, $275.78 above this set, and the [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) runs it on set 4, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Azurite Sea at $101.29 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+      "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
+    ]
+  },
   "lorcana-booster-box": {
     "datePublished": "2026-11-20",
     "faqs": [
@@ -47755,7 +48221,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp.",
       "Next in the series, the [Rise of the Floodborn best cards guide](/blog/lorcana-rise-of-the-floodborn-best-cards/) ranks set 2 the same way, with the Cinderella at $260.68 and the top ten at $905.87 on November 27, 2026.",
       "Two sets on, the [Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) ranks set 3 the same way, with the Mickey at $212.65 and the top ten at $906.10 on November 27, 2026.",
-      "Three sets on, the [Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) ranks set 4 the same way, with the Ariel at $148.32 and the top ten at $913.75, and the [Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) ranks set 5 the same way, with the Mufasa at $306.02 and the top ten at $1,114.95, both on November 27, 2026."
+      "Three sets on, the [Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) ranks set 4 the same way, with the Ariel at $148.32 and the top ten at $913.75, and the [Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) ranks set 5 the same way, with the Mufasa at $306.02 and the top ten at $1,114.95, both on November 27, 2026.",
+      "Six sets on, the [Azurite Sea best cards guide](/blog/lorcana-azurite-sea-best-cards/) ranks set 6 the same way, with the Tigger at $157.73 and the top ten at $839.17, and the [Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) ranks set 7 the same way, with the Mickey at $469.99 and the top ten at $1,926.86, both on November 27, 2026."
     ]
   },
   "lorcana-into-the-inklands-best-cards": {
@@ -48453,7 +48920,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [Lorcana Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) runs the same ranking on set 4, and the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs it on set 3, where the top ten totals $906.10, $208.85 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Shimmering Skies at $139.23 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf. For the box-level view behind these pack prices, the [best Disney Lorcana booster pack guide](/blog/best-disney-lorcana-booster-pack/) divides every pack.",
       "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
       "For the sealed-hold plan and the storage rules, [Should You Open or Keep a Booster Box Sealed](/blog/should-you-open-or-keep-sealed-booster-box/) and [How to Store Sealed Booster Boxes](/blog/how-to-store-sealed-booster-boxes/) carry the checks, and [How to Tell If a Booster Box Is Resealed](/blog/how-to-tell-if-a-booster-box-is-resealed/) shows the seal, wrap, and pack-order checks before you pay.",
-      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp."
+      "For the wider Japanese shelf, the [best Japanese TCG guide](/blog/best-japanese-tcg/) and the [best sealed TCG products from Japan guide](/blog/best-sealed-tcg-products-japan/) rank the Japanese cases, and [Buying TCG from Japan: Shipping, Customs, Proxy](/blog/buying-tcg-from-japan-shipping-customs-proxy/) covers the shipping and customs side. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "Two sets on, the [Lorcana Azurite Sea best cards guide](/blog/lorcana-azurite-sea-best-cards/) ranks set 6 the same way, with the Tigger at $157.73 and the top ten at $839.17, and the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) ranks set 7 the same way, with the Mickey at $469.99 and the top ten at $1,926.86, both on November 27, 2026."
     ]
   },
   "lorcana-ursulas-return-best-cards": {
