@@ -47511,6 +47511,263 @@ export const POSTS: Record<string, BlogPost> = {
       "One set on, the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, with the Stitch at $480.12 and the top ten at $2,470.27, and the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, with the Mickey at $4,166.67 and the top ten at $12,818.10, both on November 27, 2026."
     ]
   },
+  "lorcana-attack-of-the-vine-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Iconic Belle and Beast, Certain as the Sun, 245/207, at $1,687.41 on TCGplayer market checked November 27, 2026, from TCGPursuit's Attack of the Vine read, with price history last recorded November 27, 2026. InkSight and TickerMint agree near it at $1,725.60, $38.19 above, and NerdSnack's median of the last five TCGplayer sales puts it at $1,348.71 on November 6, 2026. WorthRipping's feed reads it at $1,177.74, $509.67 below. Use the dated TCGplayer market read and re-check before paying.",
+        "q": "What is the most valuable Attack of the Vine card?"
+      },
+      {
+        "a": "The reads come from different feeds. WorthRipping's market box is $147.05 on November 26, 2026, NerdSnack's TCGplayer market box is $173.58 on November 25, 2026, InkSight's table agrees at $173.08 on November 23, 2026, and Cardheist's best in-stock box is $184.95 from one retailer, checked November 27, 2026. WorthRipping tracks its own market price, NerdSnack and InkSight track the TCGplayer market price, and Cardheist tracks the cheapest in-stock listing across its retailers, so the feeds do not agree on one box. The WorthRipping read is the base here because it carries the full box math, cards inside at $126 after selling costs and a typical box at $67. Do not average the reads: averaging a $147.05 market price with a $184.95 listing invents a price no market lists.",
+        "q": "Why do the market box reads disagree by $37.90?"
+      },
+      {
+        "a": "Buy the English case if the job is four Attack of the Vine boxes sealed: $590.16, four boxes at $147.54 a box, $6.15 a pack, $0.51 a card, $3.78 above the MSRP box per box, and $177.05 below the TCGplayer market case at $767.21. Buy the market box if the job is one box: $147.05 on the WorthRipping read of November 26, 2026, $6.13 a pack, or $184.95 on the Cardheist best-price read, and the two reads disagree by $37.90 a box. Do not use the WorthRipping lowest listing of $109.75 as the market box: it is a listing, not a sale. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Attack of the Vine English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Attack of the Vine Best Cards: The 10 Worth Chasing, Priced Against Our $590.16 Case",
+    "intro": [
+      "Short answer: the best card in Attack of the Vine is the Belle and Beast, Certain as the Sun, Iconic 245/207, at $1,687.41 on TCGplayer market checked November 27, 2026, and the ten best add to $5,150.03, the two Iconics alone at $3,185.22. Our shelf, November 27, 2026, carries the English sealed case at $590.16, four boxes at $147.54 a box, $6.15 a pack, $0.51 a card, $3.78 above the MSRP box per box, with no single box and no Japanese case. Buy the case to hold the thirteenth set sealed, buy the single to own the Belle and Beast, and do not trust any one Belle and Beast price: three reads disagree by $547.86.",
+      "Who this is for: collectors ranking the Attack of the Vine chase, buyers weighing a four-box case against a $147.05 market box, and players building a Core deck from the set that triggered the July 2026 rotation. Who it is not for: anyone chasing one named Iconic by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Attack of the Vine's 10 best cards on TCGplayer market, Nov 27, 2026: the $1,687.41 Belle & Beast Iconic, the $147.54 case box, the $147.05 market box.",
+    "metaTitle": "Lorcana Attack of the Vine Best Cards, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: two Iconics, eight Enchanteds, and a case below the market case",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit; the ten add to $5,150.03, the top two at $3,185.22, 61.85%. Belle and Beast, Certain as the Sun (Iconic) 245/207 is $1,687.41, Lilo and Stitch, Fun-Loving Friends (Iconic) 244/207 is $1,497.81, and Winnie the Pooh and Piglet, Hunny Mages (Enchanted) 234/207 is $677.54. Then Mickey Mouse and Minnie Mouse, Adventuring Duo (Enchanted) 238/207 at $316.80, Woody and Buzz Lightyear, Best Buddies (Enchanted) 228/207 at $292.01, and Sulley and Boo, Scare Buddies (Enchanted) 229/207 at $150.22, Aladdin and Genie, Mischievous Pals (Enchanted) 232/207 at $142.45, Rapunzel and Flynn Rider, Unlikely Pair (Enchanted) 239/207 at $140.65, Peter Pan and Tinker Bell, Fast Friends (Enchanted) 233/207 at $140.63, and Tod and Copper, Best of Friends (Enchanted) 236/207 at $104.51.",
+          "The Belle and Beast is $1,687.41, 32.77% of the top ten and 1.13 times the Lilo and Stitch. The top three are $3,862.76, 75.00%; the top five are $4,471.57, 86.83%. Ranks three to five total $1,286.35, 24.98%, and ranks six to ten total $678.46, 13.17%. The Belle and Beast is 16.15 times the tenth card at $104.51.",
+          "The reads agree on the Lilo and Stitch and disagree on the Belle and Beast. InkSight's November 23, 2026 read puts the Lilo and Stitch at $1,497.81, exactly the base, and the Belle and Beast at $1,725.60, $38.19 above it; TickerMint's November 25, 2026 read agrees on the Belle and Beast. WorthRipping's feed disagrees further: the Belle and Beast at $1,177.74, $509.67 below the base, the Lilo and Stitch at $1,020.58, $477.23 below, and the Winnie the Pooh and Piglet at $282.90, $394.64 below. We do not average the reads; the TCGplayer market read is the base. The companion [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) runs the same ranking on set 9, where the top ten totals $12,818.10."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Attack of the Vine English case per box: $590.16 / 4 boxes = $147.54 per box",
+          "Attack of the Vine English case per pack: $590.16 / 96 packs = $6.15 per pack",
+          "Attack of the Vine English case per card: $590.16 / 1,152 cards = $0.51 per card",
+          "Attack of the Vine English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Attack of the Vine English case box vs MSRP box: $147.54 - $143.76 = $3.78 above MSRP per box",
+          "Attack of the Vine English case box vs MSRP box: $147.54 / $143.76 = 1.03x",
+          "Attack of the Vine WorthRipping market box per pack: $147.05 / 24 packs = $6.13 per pack",
+          "Attack of the Vine WorthRipping market box vs case box: $147.54 - $147.05 = $0.49 per box",
+          "Attack of the Vine WorthRipping market box vs case box: $147.54 / $147.05 = 1.00x",
+          "Attack of the Vine NerdSnack market box per pack: $173.58 / 24 packs = $7.23 per pack",
+          "Attack of the Vine NerdSnack market box vs case box: $173.58 - $147.54 = $26.04 per box",
+          "Attack of the Vine NerdSnack market box vs case box: $147.54 / $173.58 = 0.85x",
+          "Attack of the Vine InkSight market box vs case box: $173.08 - $147.54 = $25.54 per box",
+          "Attack of the Vine InkSight market box vs case box: $147.54 / $173.08 = 0.85x",
+          "Attack of the Vine Cardheist box per pack: $184.95 / 24 packs = $7.71 per pack",
+          "Attack of the Vine Cardheist box vs case box: $184.95 - $147.54 = $37.41 per box",
+          "Attack of the Vine Cardheist box vs case box: $147.54 / $184.95 = 0.80x",
+          "Attack of the Vine Cardheist box vs WorthRipping box: $184.95 - $147.05 = $37.90 apart",
+          "Attack of the Vine NerdSnack box vs WorthRipping box: $173.58 - $147.05 = $26.53 apart",
+          "Attack of the Vine four WorthRipping boxes: 4 x $147.05 = $588.20",
+          "Attack of the Vine four WorthRipping boxes vs our case: $590.16 - $588.20 = $1.96",
+          "Attack of the Vine four WorthRipping boxes vs our case: $590.16 / $588.20 = 1.00x",
+          "Attack of the Vine four NerdSnack boxes: 4 x $173.58 = $694.32",
+          "Attack of the Vine four NerdSnack boxes vs our case: $694.32 - $590.16 = $104.16",
+          "Attack of the Vine four NerdSnack boxes vs our case: $590.16 / $694.32 = 0.85x",
+          "Attack of the Vine four Cardheist boxes: 4 x $184.95 = $739.80",
+          "Attack of the Vine four Cardheist boxes vs our case: $739.80 - $590.16 = $149.64",
+          "Attack of the Vine four Cardheist boxes vs our case: $590.16 / $739.80 = 0.80x",
+          "Attack of the Vine TCGplayer market case per box: $767.21 / 4 boxes = $191.80 per box",
+          "Attack of the Vine TCGplayer market case vs our case: $767.21 - $590.16 = $177.05",
+          "Attack of the Vine TCGplayer market case vs our case: $590.16 / $767.21 = 0.77x",
+          "Attack of the Vine Cardheist master case vs our case: $959.75 - $590.16 = $369.59",
+          "Attack of the Vine Cardheist master case vs our case: $590.16 / $959.75 = 0.61x",
+          "Attack of the Vine WorthRipping cards inside vs its box: $147.05 - $126 = $21.05 lost per box",
+          "Attack of the Vine WorthRipping cards inside vs its box: $126 is 85.69% of $147.05",
+          "Attack of the Vine WorthRipping typical box vs its box: $147.05 - $67 = $80.05 lost per box",
+          "Attack of the Vine WorthRipping typical box vs its box: $67 is 45.56% of $147.05",
+          "Attack of the Vine WorthRipping typical box vs our case box: $147.54 - $67 = $80.54 above the typical box",
+          "Attack of the Vine WorthRipping cards inside vs our case box: $147.54 - $126 = $21.54 above the average box",
+          "Attack of the Vine WorthRipping box 30-day move: $158 - $147.05 = $10.95; $10.95 is 6.93% of $158",
+          "Attack of the Vine Trove per pack: $52 / 8 packs = $6.50 per pack",
+          "Attack of the Vine Trove loss: $52 - $42 = $10",
+          "Attack of the Vine Trove read spread: $82.19 - $52 = $30.19",
+          "Attack of the Vine loose pack vs case pack: $8.36 - $6.15 = $2.21; $8.36 / $6.15 = 1.36x",
+          "Attack of the Vine top 10 total: $1,687.41 + $1,497.81 + $677.54 + $316.80 + $292.01 + $150.22 + $142.45 + $140.65 + $140.63 + $104.51 = $5,150.03",
+          "Attack of the Vine top 2 total: $1,687.41 + $1,497.81 = $3,185.22; $3,185.22 / $5,150.03 = 61.85% of the top 10",
+          "Attack of the Vine top 3 total: $1,687.41 + $1,497.81 + $677.54 = $3,862.76; $3,862.76 / $5,150.03 = 75.00% of the top 10",
+          "Attack of the Vine top 5 total: $1,687.41 + $1,497.81 + $677.54 + $316.80 + $292.01 = $4,471.57; $4,471.57 / $5,150.03 = 86.83% of the top 10",
+          "Attack of the Vine ranks 3 to 5 total: $677.54 + $316.80 + $292.01 = $1,286.35; $1,286.35 / $5,150.03 = 24.98% of the top 10",
+          "Attack of the Vine bottom 5 total: $150.22 + $142.45 + $140.65 + $140.63 + $104.51 = $678.46; $678.46 / $5,150.03 = 13.17% of the top 10",
+          "Attack of the Vine second rung vs third rung: $1,286.35 - $678.46 = $607.89 apart",
+          "Attack of the Vine Belle and Beast share: $1,687.41 / $5,150.03 = 32.77% of the top 10",
+          "Attack of the Vine Belle and Beast vs Lilo and Stitch: $1,687.41 / $1,497.81 = 1.13x",
+          "Attack of the Vine Belle and Beast vs tenth card: $1,687.41 / $104.51 = 16.15x",
+          "Attack of the Vine Belle and Beast vs Lilo and Stitch plus Winnie the Pooh and Piglet: $1,497.81 + $677.54 = $2,175.35; $2,175.35 - $1,687.41 = $487.94; $1,687.41 / $2,175.35 = 0.78x",
+          "Attack of the Vine Belle and Beast against the case: $1,687.41 / $590.16 = 2.86x",
+          "Attack of the Vine Belle and Beast against the case box: $1,687.41 / $147.54 = 11.44x",
+          "Attack of the Vine Belle and Beast against the MSRP box: $1,687.41 / $143.76 = 11.74x",
+          "Attack of the Vine Belle and Beast against the WorthRipping market box: $1,687.41 / $147.05 = 11.48x",
+          "Attack of the Vine Belle and Beast against the NerdSnack market box: $1,687.41 / $173.58 = 9.72x",
+          "Attack of the Vine Belle and Beast InkSight spread: $1,725.60 - $1,687.41 = $38.19; $38.19 is 2.26% of $1,687.41",
+          "Attack of the Vine Belle and Beast WorthRipping spread: $1,687.41 - $1,177.74 = $509.67; $509.67 is 43.28% of $1,177.74",
+          "Attack of the Vine Belle and Beast WorthRipping vs InkSight: $1,725.60 - $1,177.74 = $547.86",
+          "Attack of the Vine Lilo and Stitch WorthRipping spread: $1,497.81 - $1,020.58 = $477.23",
+          "Attack of the Vine Winnie the Pooh and Piglet WorthRipping spread: $677.54 - $282.90 = $394.64",
+          "Attack of the Vine Mickey Mouse and Minnie Mouse WorthRipping spread: $316.80 - $221 = $95.80",
+          "Attack of the Vine Woody and Buzz Lightyear WorthRipping spread: $292.01 - $162 = $130.01",
+          "Attack of the Vine Belle and Beast Iconic vs Super Rare: $1,687.41 - $0.34 = $1,687.07; $1,687.41 / $0.34 = 4,962.97x",
+          "Attack of the Vine Belle and Beast Iconic vs Super Rare second read: $1,687.41 / $0.37 = 4,560.57x",
+          "Attack of the Vine Belle and Beast launch to November 27: $4,000 - $1,687.41 = $2,312.59; $2,312.59 is 57.81% of $4,000",
+          "Attack of the Vine Lilo and Stitch launch to November 27: $3,000 - $1,497.81 = $1,502.19; $1,502.19 is 50.07% of $3,000",
+          "Attack of the Vine Winnie the Pooh and Piglet August 31 to November 27: $877.78 - $677.54 = $200.24; $200.24 is 22.81% of $877.78",
+          "Attack of the Vine collect cost spread: $7,567.76 - $6,091.58 = $1,476.18",
+          "Attack of the Vine specific Enchanted chase on the WorthRipping rate: 35 packs x 18 Enchanteds = 630 packs; 630 packs / 24 packs = 26.25 boxes; 630 packs / 96 packs per case = 6.56 cases; 6.56 cases x $590.16 = $3,871.45",
+          "Attack of the Vine specific Iconic chase on the WorthRipping rate: 951 packs x 2 Iconics = 1,902 packs; 1,902 packs / 24 packs = 79.25 boxes; 1,902 packs / 96 packs per case = 19.81 cases; 19.81 cases x $590.16 = $11,691.07",
+          "Attack of the Vine specific Enchanted chase on the counted rate: 96 packs x 18 Enchanteds = 1,728 packs; 1,728 packs / 24 packs = 72 boxes; 1,728 packs / 96 packs per case = 18 cases; 18 cases x $590.16 = $10,622.88",
+          "Attack of the Vine specific Iconic chase on the counted rate: 1,056 packs x 2 Iconics = 2,112 packs; 2,112 packs / 24 packs = 88 boxes; 2,112 packs / 96 packs per case = 22 cases; 22 cases x $590.16 = $12,983.52",
+          "Attack of the Vine specific Iconic chase on the TCG Comp rate: 650 packs x 2 Iconics = 1,300 packs; 1,300 packs / 24 packs = 54.17 boxes; 1,300 packs / 96 packs per case = 13.54 cases; 13.54 cases x $590.16 = $7,990.77",
+          "Attack of the Vine Enchanted expectation per case on the WorthRipping rate: 96 packs / 35 packs per Enchanted = 2.74 Enchanted per case on average",
+          "Attack of the Vine Enchanted expectation per case at the counted rate: 96 packs / 96 packs per Enchanted = 1.00 Enchanted per case on average",
+          "Attack of the Vine Iconic expectation per case on the WorthRipping rate: 96 packs / 951 packs per Iconic = 0.10 Iconic per case on average",
+          "Attack of the Vine Iconic expectation per case at the counted rate: 96 packs / 1,056 packs per Iconic = 0.09 Iconic per case on average",
+          "Attack of the Vine Epic expectation per case: 2.8 Epic per box x 4 boxes = 11.20 Epic per case",
+          "Attack of the Vine top 10 against four WorthRipping market boxes: $5,150.03 / $588.20 = 8.76x",
+          "Attack of the Vine top 10 against the cost to collect one of each: $5,150.03 / $6,091.58 = 84.54% of the set",
+          "Attack of the Vine top 10 against the case: $5,150.03 / $590.16 = 8.73x",
+          "Attack of the Vine top 10 against the Winterspell top 10: $5,150.03 - $5,139.92 = $10.11; $5,150.03 / $5,139.92 = 1.00x",
+          "Attack of the Vine top 10 against the Fabled top 10: $12,818.10 - $5,150.03 = $7,668.07; $5,150.03 / $12,818.10 = 0.40x"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $590.16, or $147.54 a box, $6.15 a pack, and $0.51 a card, as of November 27, 2026. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $3.78 above MSRP, at 1.03 times the MSRP box. The case is also below the market case: the TCGplayer market case is $767.21, $191.80 a box, so our case sits $177.05 below it, at 0.77 times it; Cardheist's master case listing is $959.75, $369.59 above our case.",
+          "The market box reads disagree, and the disagreement is the story. WorthRipping's market box is $147.05, November 26, 2026, $6.13 a pack, $0.49 below our case box per box. NerdSnack's TCGplayer market box is $173.58, November 25, 2026, $26.04 above our case box, and InkSight's November 23, 2026 table agrees at $173.08, $25.54 above it. Cardheist's best in-stock box is $184.95 from one retailer, $37.41 above our case box, $37.90 above the WorthRipping box. Four WorthRipping market boxes cost $588.20, $1.96 below our case; four NerdSnack boxes cost $694.32, $104.16 above it; four Cardheist boxes cost $739.80, $149.64 above it.",
+          "Inside a box, the expected value is thinner than the box price. WorthRipping's simulation, prices from November 26, 2026, puts $126 of cards inside a box after selling costs, $21.05 below its $147.05 box, 85.69% of it; 75 of 100 boxes lose money, and a typical box is worth $67, 45.56% of it. The typical box sits $80.54 below our case box, and the average box sits $21.54 below it. The Trove is no better per pack and its reads disagree: WorthRipping prices it at $52, $6.50 a pack, with $42 of cards inside, while NerdSnack's November 25, 2026 read puts it at $82.19, $10.27 a pack, $30.19 apart. The [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) carries the full fourteen-case board."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the verdict in one view: six ways to spend on Attack of the Vine.",
+          "The case row is the only row on our shelf, $0.49 above the WorthRipping box per box and $37.41 below the Cardheist box. Four WorthRipping market boxes cost $588.20, and the top ten is 8.76 times that. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen cases to per-box prices, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) prices every case."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$590.16",
+              "$147.54 a box, $6.15 a pack",
+              "Holding the thirteenth set sealed; the only Attack of the Vine sealed product here",
+              "Four boxes or nothing; no single box on the shelf; $3.78 above MSRP per box"
+            ],
+            [
+              "WorthRipping market box",
+              "$147.05",
+              "$6.13",
+              "One English box at a time",
+              "$0.49 below our case box per box; 75 of 100 boxes lose money"
+            ],
+            [
+              "NerdSnack market box",
+              "$173.58",
+              "$7.23",
+              "One English box on the TCGplayer market read",
+              "$26.04 above our case box; InkSight agrees at $173.08"
+            ],
+            [
+              "Cardheist best-price box",
+              "$184.95",
+              "$7.71",
+              "One English box in stock now",
+              "$37.41 above our case box; one retailer only"
+            ],
+            [
+              "The single (Iconic Belle and Beast)",
+              "$1,687.41",
+              "n/a",
+              "Owning the chase card",
+              "2.86 cases; WorthRipping reads $1,177.74, $509.67 apart"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "Our case box sits $3.78 above it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the Belle and Beast spread, the market case, and the counted rate",
+        "note": "From the Warehouse: the question we get most in chat about Attack of the Vine is whether our $590.16 case is a misprint, because one screen shows a market case at $767.21 and another shows a market box at $147.05. It is not a misprint. Our case is four boxes at a shelf price set while the set was in print, and the market box is what a single sealed box trades for now. We also get asked which Belle and Beast price is real, because one screen says $1,687.41 and another says $1,177.74. Both screens are real reads from different feeds, and the gap is the story of this set: even the dearest card in Attack of the Vine has no single agreed price.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. Zeropop ranks them on launch-week eBay comps, the Lilo and Stitch at $2,500 to $3,500 sold. ShonenTCG ranks them on TCGplayer market from its October 23, 2026 price file, the Belle and Beast at $1,831.91 and the Lilo and Stitch at $1,590.43, and separates chase variants from playable Legendaries. WorthRipping prices the box and the pulls, but never prices the case.",
+          "The gap this page owns is threefold. The Belle and Beast spread is $547.86 wide: $1,687.41 on TCGplayer market via TCGPursuit, $1,725.60 on InkSight and TickerMint, and $1,177.74 on WorthRipping's feed. The InkSight read sits 2.26% above the base, and the WorthRipping read sits 43.28% below it. The Lilo and Stitch agrees exactly between TCGPursuit and InkSight at $1,497.81, while WorthRipping reads it at $1,020.58, $477.23 below. We do not average the reads.",
+          "The second gap is the case against the market. No best-cards list prices sealed Attack of the Vine, yet the sealed price decides the buy: our case at $590.16 against a TCGplayer market case at $767.21, $177.05 apart, and a market box at $147.05 against $184.95, $37.90 apart. The third gap is the pull-rate conflict: WorthRipping's Enchanted rate is one in 35 packs, while The Deck Box counted 1,056 packs and found 11 Enchanteds, one in 96, and TCGTalk counted 216 packs and found zero Iconics."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Belle and Beast and the Lilo and Stitch are $3,185.22, 61.85% of the top ten; the Belle and Beast alone is $1,687.41, 32.77%. The Belle and Beast carries the sharpest printing trap: the same name is $0.34 as a regular Super Rare on NerdSnack's November 6, 2026 read and $1,687.41 as Iconic 245, so the Iconic is $1,687.07 above the regular printing, 4,962.97 times it. A second read puts the regular at $0.37 on October 15, 2026. Check the number before you pay.",
+          "The Enchanted rung splits in two. Ranks three to five, the Winnie the Pooh and Piglet at $677.54, the Mickey Mouse and Minnie Mouse at $316.80, and the Woody and Buzz Lightyear at $292.01, total $1,286.35, 24.98% of the ten. Ranks six to ten total $678.46, 13.17%: the Sulley and Boo at $150.22, the Aladdin and Genie at $142.45, the Rapunzel and Flynn Rider at $140.65, the Peter Pan and Tinker Bell at $140.63, and the Tod and Copper at $104.51. No Epic card cracks the top ten, and no live source checked November 27, 2026 gave a verified dearest Epic price, so none is named here; the average Epic is $2.75 after selling costs.",
+          "One of each of the set's 255 priced versions costs $6,091.58 on TCGPursuit, November 27, 2026, and the top ten is $5,150.03 of that, 84.54%. InkSight's August 31, 2026 snapshot puts one of each of 251 singles at $7,567.76, $1,476.18 above the TCGPursuit collect cost. Against Fabled, the Attack of the Vine top ten is $7,668.07 below the Fabled top ten of $12,818.10, at 0.40 times it. The [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) runs the same ranking on set 11, and the [Lorcana Wilds Unknown best cards guide](/blog/lorcana-wilds-unknown-best-cards/) runs it on set 12, the set before this one."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 35 packs, one in 1,902 for the Belle and Beast",
+        "paragraphs": [
+          "Ravensburger has never published pull rates for any Lorcana set, so every rate below is a counted estimate. WorthRipping's table, last checked October 14, 2026, puts an Enchanted at one in 35 packs, one in 1.5 boxes, an Iconic at one in 951 packs, one in 40 boxes, and an Epic at one in 8.6 packs, 2.8 per box. The Deck Box counted 1,056 packs and found 11 Enchanteds, one in 96 packs, and one Iconic. TCGTalk counted 216 packs and found 6 Enchanteds, one in 36 packs, and zero Iconics. TCG Comp's 350-pack sample puts the Enchanted at one in 96 packs and the Iconic at one in 650. The Enchanted rate spans one in 35 to one in 96 packs, and the Iconic rate spans one in 650 to one in 1,056 packs. A case holds 2.74 Enchanteds on the WorthRipping rate and 1.00 on the counted rate, 0.10 Iconic, and 11.20 Epics.",
+          "Eighteen Enchanteds share the one-in-35 slot, so one specific Enchanted averages 26.25 boxes, 630 packs, $3,871.45 of packs at our case price, and 72 boxes, $10,622.88, at the counted rate. Two Iconics share the one-in-951 slot, so one specific Iconic averages 79.25 boxes, 1,902 packs, $11,691.07 of packs at our case price. At the counted rate the specific Iconic averages 88 boxes, 2,112 packs, $12,983.52.",
+          "The Belle and Beast is two prices under one name: $0.34 as a regular Super Rare and $1,687.41 as Iconic 245, so a buyer who pays an Iconic price for the regular printing has overpaid by $1,687.07. The same check applies to the Lilo and Stitch: only the Iconic 244 carries the $1,497.81 price. The price risk: the Belle and Beast read $4,000.00 on July 17, 2026 and $1,687.41 on TCGplayer market on November 27, 2026, down $2,312.59, down 57.81%, in nineteen weeks, while the Lilo and Stitch fell $1,502.19, down 50.07%, from $3,000.00. The Winnie the Pooh and Piglet fell $200.24, down 22.81%, from $877.78 on August 31, 2026. The reseal risk: the box reads $147.05 on one feed and $184.95 on another, so check the seal, wrap tension, and pack order before opening, as the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) sets out."
+        ]
+      },
+      {
+        "h": "Context: 207 cards, a Monsters Inc. debut, and a rotation trigger",
+        "paragraphs": [
+          "Attack of the Vine is Disney Lorcana's thirteenth set, set 13 of 14. It prereleased on July 17, 2026 and reached wide retail on July 24, 2026, at $5.99 a pack and $143.76 a box, per Ravensburger's June 23, 2026 announcement. The set holds 207 numbered cards, the first Lorcana set to break the 204-card count, plus 18 Epic, 208 to 225, 18 Enchanted, 226 to 243, and 2 Iconic, 244 and 245, for 245 catalog versions. TCGPursuit counts 261 catalog versions including foil printings, 255 of them priced.",
+          "The set brings Monsters, Inc. into the game for the first time, with Sulley, Mike Wazowski, Boo, and Randall Boggs, alongside Up and Turning Red, in a 1950s B-movie poster style. The headline mechanic is the team-up: duo cards that can Shift onto either character, and both Iconics are duo team-ups. The Hunny keyword lets cards slot into more than one ink identity, and the Vinelings are leafy copies of glimmers grown by the Vine, 13 main-set cards titled Created by the Vine. The set closes the year-long Vine storyline that ran through Whispers in the Well, Winterspell, and Wilds Unknown.",
+          "Attack of the Vine is Core legal. It triggered the rotation: on July 17, 2026, sets 5 to 8 left Core, Shimmering Skies, Azurite Sea, Archazia's Island, and Reign of Jafar. Core Constructed now runs sets 9 to 14, Fabled through Hyperia City, released October 2026, with one banned card, My Adventure Book. The next rotation is not yet dated; when it comes, sets 9 to 12 are expected to leave, so Attack of the Vine's Core window runs into 2027. Infinity Constructed keeps every set legal. Our Attack of the Vine stock is English only, with no Japanese case."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Iconic: the Belle and Beast averages 79.25 boxes, 1,902 packs, $11,691.07 of packs at our case price, so buy the single. It is not for anyone who wants a single English box, because the only English product here is the four-box case. It is not for anyone who pays an Iconic price without checking the number, because the same name is $0.34 as a Super Rare and $1,687.41 as Iconic 245. It is not for anyone who needs the prices to hold."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Belle and Beast, own the ten, hold the thirteenth set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Belle and Beast, buy the single: $1,687.41 Iconic on the November 27, 2026 TCGplayer market read, and check the number, 245/207, because WorthRipping reads the same card at $1,177.74.",
+          "If the job is the ten, buy the English case at $590.16, four boxes at $147.54 each, and treat the Iconic as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $147.05, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, compare the case pack price, $6.15, against a loose pack at $8.36 before you pay.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the number on any Belle and Beast, because the Super Rare is $0.34 and Iconic 245 is $1,687.41."
+        ],
+        "h": "Action layer: the Attack of the Vine best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order. Every price here is stamped November 27, 2026, so re-divide before you pay. The [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "lorcana-attack-of-the-vine-best-cards",
+    "takeaway": [
+      "The Attack of the Vine top ten, on TCGplayer market prices checked November 27, 2026, totals $5,150.03, and the Belle and Beast is $1,687.41 of it, 32.77%. The two Iconics are $3,185.22, 61.85%, the top five are $4,471.57, 86.83%, and the bottom five are $678.46, 13.17%, against ranks three to five at $1,286.35, 24.98%. No Epic card cracks the top ten, and no live source checked November 27, 2026 gave a verified dearest Epic price.",
+      "On our shelf as of November 27, 2026, there is exactly one Attack of the Vine product: the English sealed case at $590.16, four boxes at $147.54 a box, $6.15 a pack, $0.51 a card, $3.78 above the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Belle and Beast is 2.86 cases and 11.44 case boxes. The market case is $767.21, and our case sits $177.05 below it.",
+      "It is worth buying as the thirteenth set sealed at a shelf price below the market case, and it is not worth buying as a way to own one named Iconic. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the WorthRipping rate puts one specific Iconic at 79.25 boxes on average, 1,902 packs, $11,691.07 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Iconic as a bonus.",
+      "The Belle and Beast has no single price: $1,687.41 on TCGplayer market via TCGPursuit, $1,725.60 on InkSight and TickerMint, and $1,177.74 on WorthRipping, all read November 23 to 27, 2026. Do not average the reads. Use the dated TCGplayer market read and re-check before paying, and read the number on any Belle and Beast, because the Super Rare is $0.34 and Iconic 245 is $1,687.41.",
+      "One set back, the [Lorcana Wilds Unknown best cards guide](/blog/lorcana-wilds-unknown-best-cards/) runs the same ranking on set 12, the set before Attack of the Vine, and the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11, where the top ten totals $5,139.92, $10.11 below this set, and the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10.",
+      "Companion guide: the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, on TCGplayer market checked November 27, 2026, where the top ten totals $12,818.10, $7,668.07 above this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8, the last set rotated out of Core in July 2026.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
+      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+    ]
+  },
   "lorcana-azurite-sea-best-cards": {
     "datePublished": "2026-11-27",
     "faqs": [
@@ -48233,7 +48490,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs the same ranking on set 7, where the top ten totals $1,926.86, $10,891.24 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) runs it on set 5, where the top ten totals $1,114.95, and the [Lorcana Into the Inklands best cards guide](/blog/lorcana-into-the-inklands-best-cards/) runs it on set 3, where the top ten totals $906.10. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Fabled at $158.56 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf.",
       "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
       "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp.",
-      "One set on, the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10 the same way, with the Ariel at $1,583.74 and the top ten at $5,016.71, and the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, with the Moana at $1,287.29 and the top ten at $5,139.92, both on November 27, 2026."
+      "One set on, the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10 the same way, with the Ariel at $1,583.74 and the top ten at $5,016.71, and the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, with the Moana at $1,287.29 and the top ten at $5,139.92, both on November 27, 2026.",
+      "Three sets on, the [Lorcana Wilds Unknown best cards guide](/blog/lorcana-wilds-unknown-best-cards/) ranks set 12 the same way, with the Buzz at $3,616.53 and the top ten at $6,255.15, on TCGplayer market checked November 27, 2026."
     ]
   },
   "lorcana-first-chapter-best-cards": {
@@ -48462,7 +48720,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Three sets on, the [Ursula's Return best cards guide](/blog/lorcana-ursulas-return-best-cards/) ranks set 4 the same way, with the Ariel at $148.32 and the top ten at $913.75, and the [Shimmering Skies best cards guide](/blog/lorcana-shimmering-skies-best-cards/) ranks set 5 the same way, with the Mufasa at $306.02 and the top ten at $1,114.95, both on November 27, 2026.",
       "Six sets on, the [Azurite Sea best cards guide](/blog/lorcana-azurite-sea-best-cards/) ranks set 6 the same way, with the Tigger at $157.73 and the top ten at $839.17, and the [Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) ranks set 7 the same way, with the Mickey at $469.99 and the top ten at $1,926.86, both on November 27, 2026.",
       "Seven sets on, the [Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, with the Stitch at $480.12 and the top ten at $2,470.27, and the [Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, with the Mickey at $4,166.67 and the top ten at $12,818.10, both on November 27, 2026.",
-      "Nine sets on, the [Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10 the same way, with the Ariel at $1,583.74 and the top ten at $5,016.71, and the [Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, with the Moana at $1,287.29 and the top ten at $5,139.92, both on November 27, 2026."
+      "Nine sets on, the [Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) ranks set 10 the same way, with the Ariel at $1,583.74 and the top ten at $5,016.71, and the [Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, with the Moana at $1,287.29 and the top ten at $5,139.92, both on November 27, 2026.",
+      "Twelve sets on, the [Lorcana Attack of the Vine! best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) ranks set 13 the same way, with the Belle and Beast at $1,687.41 and the top ten at $5,150.03, on TCGplayer market checked November 27, 2026."
     ]
   },
   "lorcana-into-the-inklands-best-cards": {
@@ -49886,7 +50145,250 @@ export const POSTS: Record<string, BlogPost> = {
       "One set back, the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, on TCGplayer market checked November 27, 2026.",
       "Companion guide: the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, on TCGplayer market checked November 27, 2026.",
       "For the earlier sets, the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way, and the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs it on set 7, where the top ten totals $1,926.86, $3,089.85 below this set, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Whispers at $216.54 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf.",
-      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box. For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box. For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "Three sets on, the [Lorcana Attack of the Vine! best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) ranks set 13 the same way, with the Belle and Beast at $1,687.41 and the top ten at $5,150.03, on TCGplayer market checked November 27, 2026."
+    ]
+  },
+  "lorcana-wilds-unknown-best-cards": {
+    "datePublished": "2026-11-27",
+    "faqs": [
+      {
+        "a": "The Iconic Buzz Lightyear, Jungle Ranger, 241/204, at $3,616.53 on TCGplayer market checked November 27, 2026, from TCGPursuit's Wilds Unknown read, with price history last recorded November 27, 2026. Lorebinder agrees at $3,616.53 exactly, TCGIndex rounds it to $3,617, and Hidden Rare's October 31, 2026 read puts it at $3,613.09, $3.44 apart. TCG Comp's snapshot reads it near $3,589, $27.53 below. WorthRipping's own card feed reads it at $1,939.11, $1,677.42 below, so do not trust one screen: use the dated TCGplayer market read and re-check before paying.",
+        "q": "What is the most valuable Wilds Unknown card?"
+      },
+      {
+        "a": "The reads come from different feeds. WorthRipping's market box is $139.50 on November 26, 2026, Cardheist's best in-stock box is $210 from one retailer, and the FASE market box is $226.10 on our November 20, 2026 booster-box guide. WorthRipping tracks its own market price, Cardheist tracks the cheapest in-stock listing across its retailers, and FASE tracks its own sealed-market read, so the three feeds do not agree on one box. The WorthRipping read is the base here because it carries the full box math, cards inside at $105 after selling costs and a typical box at $44. Do not average the three reads: averaging a $139.50 market price with a $226.10 read invents a price no market lists.",
+        "q": "Why do the market box reads disagree by $86.60?"
+      },
+      {
+        "a": "Buy the English case if the job is four Wilds Unknown boxes sealed: $1,077.82, four boxes at $269.46 a box, $11.23 a pack, $0.94 a card, $125.70 above the MSRP box per box, and $519.82 above four WorthRipping market boxes at $558. Buy the market box if the job is one box: $139.50 on the WorthRipping read of November 26, 2026, $5.81 a pack, or $210 on the Cardheist best-price read, and the two reads disagree by $70.50 a box. Do not use the WorthRipping lowest listing of $109.64 as the market box: it is a listing, not a sale. Either way, buy the case for the set and the single for the card: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+        "q": "Wilds Unknown English case vs the market box: which should I buy?"
+      }
+    ],
+    "h1": "Lorcana Wilds Unknown Best Cards: The 10 Worth Chasing, Priced",
+    "intro": [
+      "Short answer: the best card in Wilds Unknown is the Iconic Buzz Lightyear, Jungle Ranger, 241/204, at $3,616.53 on TCGplayer market checked November 27, 2026, and the ten best add to $6,255.15, the two Iconics alone at $5,169.89. Our shelf, November 27, 2026, carries the English sealed case at $1,077.82, four boxes at $269.46 a box, $11.23 a pack, $0.94 a card, $125.70 above the MSRP box per box, with no single box and no Japanese case. Buy the case to hold the twelfth set sealed, buy the single to own the Buzz, and do not trust any one Buzz price: two feeds disagree by $1,677.42.",
+      "Who this is for: collectors ranking the Wilds Unknown chase now that Pixar leads it, buyers weighing a four-box case against a $139.50 market box, and players building a Core deck from a set that is still legal. Who it is not for: anyone chasing one named Iconic by opening boxes; anyone who wants a single English box; and anyone buying sealed boxes as a guaranteed investment."
+    ],
+    "metaDescription": "Wilds Unknown's 10 best cards on TCGplayer market, Nov 27, 2026: the $3,616.53 Iconic Buzz, the $269.46 case box, and the $139.50 market box.",
+    "metaTitle": "Lorcana Wilds Unknown Best Cards, Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: one Buzz, one Merida, and eight more",
+        "paragraphs": [
+          "Every value below is a TCGplayer market price checked November 27, 2026, from TCGPursuit. The ten add to $6,255.15; the top two are $5,169.89, 82.65%. Buzz Lightyear, Jungle Ranger (Iconic) 241/204 is $3,616.53, Merida, Formidable Archer (Iconic) 242/204 is $1,553.36, and Alien, True Believer (Enchanted) 229/204 is $299.65. Then You've Got a Friend in Me (Enchanted) 225/204 at $232.44, Jessie, Lively Cowgirl (Enchanted) 223/204 at $138.52, Milo Thatch, Getting His Hands Dirty (Enchanted) 230/204 at $102.00, Jack-Jack Parr, Incredible Potential (Enchanted) 232/204 at $84.72, Mr. Incredible, Super Strong (Enchanted) 234/204 at $82.77, Mrs. Incredible, Determined Rescuer (Enchanted) 239/204 at $78.35, and Frozone, Super Cool (Enchanted) 226/204 at $66.81.",
+          "The Buzz is $3,616.53, 57.82% of the top ten and 2.33 times the Merida. The top three are $5,469.54, 87.44%; the top five are $5,840.50, 93.37%. Ranks three to five total $670.61, 10.72%, and ranks six to ten total $414.65, 6.63%, so the second rung sits $255.96 above the third. The Buzz is $1,763.52 below the Merida and the Alien combined, $1,853.01, at 1.95 times them, and 54.13 times the tenth card at $66.81.",
+          "The reads agree almost everywhere except the top. Lorebinder agrees on the Buzz at $3,616.53 exactly, TCGIndex rounds it to $3,617, and Hidden Rare's October 31, 2026 read puts it at $3,613.09, $3.44 apart. TCG Comp's snapshot reads the Buzz near $3,589, $27.53 below. WorthRipping's own card feed disagrees further: it reads the Buzz at $1,939.11, $1,677.42 below the TCGplayer market read, and the Merida at $736.19. We do not average the reads; the TCGplayer market read is the base."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "Wilds Unknown English case per box: $1,077.82 / 4 boxes = $269.46 per box",
+          "Wilds Unknown English case per pack: $1,077.82 / 96 packs = $11.23 per pack",
+          "Wilds Unknown English case per card: $1,077.82 / 1,152 cards = $0.94 per card",
+          "Wilds Unknown English box at MSRP: 24 packs x $5.99 = $143.76",
+          "Wilds Unknown English case box vs MSRP box: $269.46 - $143.76 = $125.70 above MSRP per box",
+          "Wilds Unknown English case box vs MSRP box: $269.46 / $143.76 = 1.87x",
+          "Wilds Unknown English case vs four MSRP boxes: 4 x $143.76 = $575.04; $1,077.82 - $575.04 = $502.78",
+          "Wilds Unknown WorthRipping market box per pack: $139.50 / 24 packs = $5.81 per pack",
+          "Wilds Unknown WorthRipping market box vs case box: $269.46 - $139.50 = $129.96 per box",
+          "Wilds Unknown WorthRipping market box vs case box: $269.46 / $139.50 = 1.93x",
+          "Wilds Unknown WorthRipping market box vs MSRP box: $143.76 - $139.50 = $4.26 below the MSRP box",
+          "Wilds Unknown Cardheist box vs case box: $269.46 - $210 = $59.46 per box",
+          "Wilds Unknown Cardheist box vs case box: $269.46 / $210 = 1.28x",
+          "Wilds Unknown Cardheist box vs WorthRipping box: $210 - $139.50 = $70.50 apart",
+          "Wilds Unknown Cardheist box vs WorthRipping box: $210 / $139.50 = 1.51x",
+          "Wilds Unknown FASE market box vs case box: $269.46 - $226.10 = $43.36 per box",
+          "Wilds Unknown FASE market box vs case box: $269.46 / $226.10 = 1.19x",
+          "Wilds Unknown FASE market box vs WorthRipping box: $226.10 - $139.50 = $86.60 apart",
+          "Wilds Unknown four WorthRipping boxes: 4 x $139.50 = $558.00",
+          "Wilds Unknown four WorthRipping boxes vs our case: $1,077.82 - $558.00 = $519.82",
+          "Wilds Unknown four WorthRipping boxes vs our case: $1,077.82 / $558.00 = 1.93x",
+          "Wilds Unknown four Cardheist boxes: 4 x $210 = $840",
+          "Wilds Unknown four Cardheist boxes vs our case: $1,077.82 - $840 = $237.82",
+          "Wilds Unknown four Cardheist boxes vs our case: $1,077.82 / $840 = 1.28x",
+          "Wilds Unknown four FASE market boxes: 4 x $226.10 = $904.40",
+          "Wilds Unknown four FASE market boxes vs our case: $1,077.82 - $904.40 = $173.42",
+          "Wilds Unknown four FASE market boxes vs our case: $1,077.82 / $904.40 = 1.19x",
+          "Wilds Unknown WorthRipping box 7-day move: $139.50 - $133 = $6.50; $6.50 is 4.89% of $133",
+          "Wilds Unknown WorthRipping box 30-day move: $139.50 - $130 = $9.50; $9.50 is 7.31% of $130",
+          "Wilds Unknown WorthRipping cards inside vs its box: $139.50 - $105 = $34.50 lost per box",
+          "Wilds Unknown WorthRipping cards inside vs its box: $105 is 75.27% of $139.50",
+          "Wilds Unknown WorthRipping typical box vs its box: $139.50 - $44 = $95.50 lost per box",
+          "Wilds Unknown WorthRipping typical box vs its box: $44 is 31.54% of $139.50",
+          "Wilds Unknown WorthRipping typical box vs our case box: $269.46 - $44 = $225.46 above the typical box",
+          "Wilds Unknown WorthRipping cards inside vs our case box: $269.46 - $105 = $164.46 above the average box",
+          "Wilds Unknown Trove per pack: $52 / 8 packs = $6.50 per pack",
+          "Wilds Unknown Trove loss: $52 - $35 = $17",
+          "Wilds Unknown Trove cards inside vs its price: $35 is 67.31% of $52",
+          "Wilds Unknown top 10 total: $3,616.53 + $1,553.36 + $299.65 + $232.44 + $138.52 + $102.00 + $84.72 + $82.77 + $78.35 + $66.81 = $6,255.15",
+          "Wilds Unknown top 2 total: $3,616.53 + $1,553.36 = $5,169.89; $5,169.89 / $6,255.15 = 82.65% of the top 10",
+          "Wilds Unknown top 3 total: $3,616.53 + $1,553.36 + $299.65 = $5,469.54; $5,469.54 / $6,255.15 = 87.44% of the top 10",
+          "Wilds Unknown top 5 total: $3,616.53 + $1,553.36 + $299.65 + $232.44 + $138.52 = $5,840.50; $5,840.50 / $6,255.15 = 93.37% of the top 10",
+          "Wilds Unknown ranks 3 to 5 total: $299.65 + $232.44 + $138.52 = $670.61; $670.61 / $6,255.15 = 10.72% of the top 10",
+          "Wilds Unknown bottom 5 total: $102.00 + $84.72 + $82.77 + $78.35 + $66.81 = $414.65; $414.65 / $6,255.15 = 6.63% of the top 10",
+          "Wilds Unknown second rung vs third rung: $670.61 - $414.65 = $255.96 apart",
+          "Wilds Unknown Buzz share: $3,616.53 / $6,255.15 = 57.82% of the top 10",
+          "Wilds Unknown Buzz vs Merida: $3,616.53 / $1,553.36 = 2.33x",
+          "Wilds Unknown Buzz vs tenth card: $3,616.53 / $66.81 = 54.13x",
+          "Wilds Unknown Buzz vs Merida plus Alien: $1,553.36 + $299.65 = $1,853.01; $3,616.53 - $1,853.01 = $1,763.52; $3,616.53 / $1,853.01 = 1.95x",
+          "Wilds Unknown Buzz Iconic vs Legendary: $3,616.53 - $0.95 = $3,615.58; $3,616.53 / $0.95 = 3806.87x",
+          "Wilds Unknown Buzz Iconic vs foil Legendary: $3,616.53 - $5.71 = $3,610.82; $3,616.53 / $5.71 = 633.37x",
+          "Wilds Unknown Buzz WorthRipping feed spread: $3,616.53 - $1,939.11 = $1,677.42; $1,677.42 is 86.50% of $1,939.11",
+          "Wilds Unknown Buzz TCG Comp spread: $3,616.53 - $3,589 = $27.53",
+          "Wilds Unknown Buzz Hidden Rare spread: $3,616.53 - $3,613.09 = $3.44",
+          "Wilds Unknown Buzz September 30 to November 27: $3,621.08 - $3,616.53 = $4.55; $4.55 is 0.13% of $3,621.08",
+          "Wilds Unknown Merida read spread: $1,745.97 - $1,553.36 = $192.61; $192.61 is 11.03% of $1,745.97",
+          "Wilds Unknown Merida Hidden Rare spread: $1,553.36 - $1,553 = $0.36",
+          "Wilds Unknown Buzz against the case: $3,616.53 / $269.46 = 13.42 case boxes; $3,616.53 / $1,077.82 = 3.36x",
+          "Wilds Unknown Buzz against the MSRP box: $3,616.53 / $143.76 = 25.16x",
+          "Wilds Unknown Buzz against the WorthRipping market box: $3,616.53 / $139.50 = 25.92x",
+          "Wilds Unknown Merida against the case: $1,553.36 / $1,077.82 = 1.44x",
+          "Wilds Unknown Frozone vs Isabela gap: $66.81 - $38.43 = $28.38",
+          "Wilds Unknown Enchanted expectation per case: 96 packs / 46 packs per Enchanted = 2.09 Enchanted per case on average",
+          "Wilds Unknown Iconic expectation per case: 96 packs / 846 packs per Iconic = 0.11 Iconic per case on average",
+          "Wilds Unknown Epic expectation per case: 2 Epic per box x 4 boxes = 8 Epic per case",
+          "Wilds Unknown specific Enchanted chase: 18 Enchanted x 46 packs = 828 packs; 828 packs / 96 packs per case = 8.63 cases; 8.63 cases x $1,077.82 = $9,301.59",
+          "Wilds Unknown specific Iconic chase: 2 Iconic x 846 packs = 1,692 packs; 1,692 packs / 96 packs per case = 17.63 cases; 17.63 cases x $1,077.82 = $19,001.97",
+          "Wilds Unknown specific Iconic chase at the Rippr rate: 2 Iconic x 1,500 packs = 3,000 packs; 3,000 packs / 96 packs per case = 31.25 cases; 31.25 cases x $1,077.82 = $33,681.88",
+          "Wilds Unknown specific Iconic chase at the TCG Comp rate: 2 Iconic x 650 packs = 1,300 packs; 1,300 packs / 96 packs per case = 13.54 cases; 13.54 cases x $1,077.82 = $14,593.68",
+          "Wilds Unknown specific Enchanted chase at the TCG Comp rate: 18 Enchanted x 96 packs = 1,728 packs; 1,728 packs / 96 packs per case = 18.00 cases; 18.00 cases x $1,077.82 = $19,400.76",
+          "Wilds Unknown top 10 against four WorthRipping market boxes: $6,255.15 / $558.00 = 11.21x",
+          "Wilds Unknown top 10 against the cost to collect one of each: $6,255.15 / $7,008.93 = 89.25% of the set"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: four boxes, twenty-four packs each, twelve cards each. The case is $1,077.82, or $269.46 a box, $11.23 a pack, and $0.94 a card, as of November 27, 2026. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $125.70 above MSRP, at 1.87 times the MSRP box. Winterspell is the only dearer case box on the shelf at $273.93 a box: the [best Disney Lorcana booster box to buy guide](/blog/best-disney-lorcana-booster-box-to-buy/) ranks all fourteen boxes the same way.",
+          "The market box is cheaper than our case box, and the reads disagree. WorthRipping's market box is $139.50, November 26, 2026, $5.81 a pack, $129.96 below our case box per box, our case box at 1.93 times it, and $4.26 below the MSRP box. Cardheist's best in-stock box is $210 from one retailer, $59.46 below our case box, $70.50 above the WorthRipping box, at 1.51 times it. The FASE market box is $226.10, from our November 20, 2026 booster-box guide, $43.36 below our case box and $86.60 above the WorthRipping box. Four WorthRipping market boxes cost $558, $519.82 below our case; four Cardheist boxes cost $840, $237.82 below it; four FASE boxes cost $904.40, $173.42 below it.",
+          "Inside a box, the expected value is thinner than any box price. WorthRipping's simulation, prices from November 26, 2026, puts $105 of cards inside a box after selling costs, $34.50 below its $139.50 box; 87 of 100 boxes lose money, and a typical box is worth $44, 31.54% of it. The typical box sits $225.46 below our case box. The Trove is no better per pack: $52, $6.50 a pack, with $35 of cards inside, a $17 loss, 86 of 100 losing money. The [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) carries the full fourteen-case board."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the verdict in one view: six ways to spend on Wilds Unknown.",
+          "The case row is the only row on our shelf, $129.96 above the WorthRipping box per box and $59.46 above the Cardheist box. Four WorthRipping market boxes cost $558, and the top ten is 11.21 times that. One box at market costs $139.50, while one box inside our case costs $269.46. The [Lorcana booster box guide](/blog/lorcana-booster-box/) and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) price every case and box."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (4)",
+              "$1,077.82",
+              "$269.46 a box, $11.23 a pack",
+              "Holding the twelfth set sealed; the only Wilds Unknown sealed product here",
+              "Four boxes or nothing; no single box on the shelf; $125.70 above MSRP per box"
+            ],
+            [
+              "WorthRipping market box",
+              "$139.50",
+              "$5.81",
+              "One English box at a time",
+              "$129.96 below our case box per box; 87 of 100 boxes lose money"
+            ],
+            [
+              "Cardheist best-price box",
+              "$210",
+              "$8.75",
+              "One English box in stock now",
+              "$70.50 above the WorthRipping box; one retailer only"
+            ],
+            [
+              "Four market boxes (FASE)",
+              "$904.40",
+              "$226.10 a box",
+              "Four market boxes at once",
+              "$173.42 below our case; still four boxes to store"
+            ],
+            [
+              "The single (Iconic Buzz)",
+              "$3,616.53",
+              "n/a",
+              "Owning the chase card",
+              "3.36 whole cases; WorthRipping feed reads $1,939.11, $1,677.42 apart"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "No longer available at this price; our case box sits $125.70 above it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: the Buzz spread, the market box, and three Iconic rates",
+        "note": "From the Warehouse: the question we get most in chat about Wilds Unknown is whether our $1,077.82 case is a misprint, because the market box is $139.50. It is not a misprint. Our case is the same four boxes at a shelf price set while the set was in print, and the market box is what a single sealed Wilds Unknown box trades for now. We also get asked which Buzz price is real, because one screen says $3,616.53 and another says $1,939.11. Both screens are real reads from different feeds, and the gap is the story of this set: even the dearest card in Lorcana has no single agreed price.",
+        "paragraphs": [
+          "The top lists rank the cards and stop there. Card Gamer ranks ten on TCGplayer prices, the Buzz first and the Merida second. TheGamer ranks them on launch-week TCGplayer prices from May 9, 2026, the Buzz at $1,250 and the Jessie at $325.96. ShonenTCG runs a September 2026 snapshot, the Buzz around $3,589.10, and puts any Iconic near one in 1,500 packs. None of them prices sealed Wilds Unknown, and none of them reconciles the feeds.",
+          "The gap this page owns is threefold. The Buzz spread is $1,677.42 wide: $3,616.53 on TCGplayer market via TCGPursuit, $3,613.09 on Hidden Rare's October 31, 2026 read, near $3,589 on TCG Comp's snapshot, and $1,939.11 on WorthRipping's own card feed. Hidden Rare sits $3.44 below the base, TCG Comp sits $27.53 below it, and the WorthRipping feed sits $1,677.42 below it. We do not average the reads; the TCGplayer market read is the base. The Merida spreads the same way: $1,553 on Hidden Rare's November 9, 2026 read, $0.36 apart, and $1,745.97 on the September 30, 2026 read, $192.61 above.",
+          "The second gap is the market box. No best-cards list prices sealed Wilds Unknown, yet the sealed price decides the buy: our case box at $269.46 against a market box at $139.50, a gap of $129.96 a box, and the market box reads disagree by $86.60. No published market case figure was found, so four market boxes at $904.40 on the FASE read stand in its place. The third gap is the Iconic rate: one in 846 packs on WorthRipping, near one in 650 on TCG Comp's 900-pack sample, near one in 1,500 on Rippr, and zero Iconics in TCGTalk's counted 192 packs. One more count differs: TCGPursuit ranks 267 catalog versions in this set, while the official gallery counts 242 card numbers, so the two counts are not the same list."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Buzz and the Merida are $5,169.89, 82.65% of the top ten; the Buzz alone is $3,616.53, 57.82%. The Buzz carries the sharpest printing trap: the same name is $0.95 as regular card 91 and $3,616.53 as Iconic 241 on the reads of September 30 and November 27, 2026, so the Iconic is $3,615.58 above the regular printing, 3806.87 times it. The foil Legendary is $5.71 on September 30, 2026, so the Iconic is $3,610.82 above the foil, 633.37 times it. The Merida is the same trap: the Legendary 191/204 is $4.69 while the Iconic 242/204 is $1,553.36.",
+          "The Enchanted rung splits in two. Ranks three to five, the Alien at $299.65, the Friend at $232.44, and the Jessie at $138.52, total $670.61, 10.72% of the ten. Ranks six to ten, the Milo at $102.00, the Jack-Jack at $84.72, the Mr. Incredible at $82.77, the Mrs. Incredible at $78.35, and the Frozone at $66.81, total $414.65, 6.63%. The second rung sits $255.96 above the third. Below the ten sits Isabela Madrigal, Caring Cultivator (Enchanted) 224/204 at $38.43, $28.38 below the Frozone. No Epic card cracks the top ten: the dearest Epic read we found is the Minnie Mouse, Practical Traveler (Epic) 219/204 at $3.22, against a WorthRipping average Epic of $2.90 after selling costs.",
+          "One of each of the set's 252 priced versions costs $7,008.93 on TCGPursuit, November 27, 2026, and the top ten is $6,255.15 of that, 89.25%. Against Winterspell, this top ten sits $1,115.23 above the Winterspell top ten of $5,139.92, and the gap is the Buzz. The [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8 the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: one in 46 packs, one in 1,692 for the Buzz",
+        "paragraphs": [
+          "Ravensburger has never published pull rates, so every rate below is a counted estimate, and the estimates do not agree. WorthRipping's table, last checked October 14, 2026, puts an Enchanted at one in 46 packs, one in 1.9 boxes, an Iconic at one in 846 packs, one in 35 boxes, and an Epic at one in 12 packs, 2 per box. TCG Comp puts an Enchanted near one in 96 packs and an Iconic near one in 650, from a 900-pack sample. TCGTalk's 192 counted packs found 4 Enchanteds, one in 48, and zero Iconics. Rippr puts any Iconic near one in 1,500 packs. WorthRipping's own likely range for an Iconic runs from one in 5.9 boxes to one in 1,015 boxes, so the rate is not settled. A case holds 2.09 Enchanted on the WorthRipping rate, 0.11 Iconic, and 8 Epics.",
+          "The specific card is rarer still. Eighteen Enchanteds share the one-in-46 slot, so one specific Enchanted averages 828 packs, 8.63 cases, $9,301.59 of packs at our $1,077.82 case price, and 1,728 packs, 18.00 cases, $19,400.76, at the TCG Comp rate. Two Iconics share the one-in-846 slot, so one specific Iconic averages 1,692 packs, 17.63 cases, $19,001.97 of packs at our case price, 1,300 packs, 13.54 cases, $14,593.68, at the TCG Comp rate, and 3,000 packs, 31.25 cases, $33,681.88, at the Rippr rate. The Buzz is 13.42 case boxes as a single. A collector chasing the Buzz buys the single.",
+          "The Buzz is two prices under one name: $0.95 as regular card 91 and $3,616.53 as Iconic 241, so a buyer who pays an Iconic price for the regular printing has overpaid by $3,615.58. The Merida is the same trap: the Legendary 191/204 is $4.69 while the Iconic 242/204 is $1,553.36, so check the number before you pay. The price risk: the Buzz read $3,621.08 on September 30, 2026, and $3,616.53 on November 27, 2026, down $4.55, down 0.13%, while the Merida fell $192.61, down 11.03%, over the same eight weeks. The reseal risk: the box reads $139.50 on one feed and $226.10 on another, so check the seal and wrap tension before opening, as the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) sets out."
+        ]
+      },
+      {
+        "h": "Context: 204 cards, Pixar debut, and two formats",
+        "paragraphs": [
+          "Wilds Unknown is Disney Lorcana's twelfth set, set 12 of 14. Prerelease reached game stores May 8, 2026 and mass retail May 15, 2026, at $5.99 a pack and $143.76 a box, per Ravensburger's April 14, 2026 announcement. The set holds 204 numbered cards, 34 in each of the six inks, with no dual-ink cards, plus 18 Epic, 205 to 222, 18 Enchanted, 223 to 240, and 2 Iconic, 241 and 242, for 242 catalog versions. Twelve Travelers, two in each ink, pay off when you play another character first.",
+          "The set brings Toy Story, Brave, and The Incredibles into the game for the first time, the first Pixar characters in Lorcana. Toy Story brings the Toy classification, 21 regular cards, and The Incredibles bring the Super classification, 17 cards. The 18 Enchanteds carry the Lore Nouveau treatment, a hand-drawn Art Nouveau style. The launch lineup was a 24-pack booster box at $143.76, an eight-pack Illumineer's Trove at $49.99, a two-player starter set at $29.99, and a prerelease pack at $39.99. Monsters, Inc. arrived in set 13 and Coco in Hyperia City, so neither is in this set.",
+          "Wilds Unknown is Core legal. Core Constructed now runs sets 9 to 14, Fabled through Hyperia City, with one banned card, My Adventure Book. The next rotation is expected around mid-2027, when sets 9 to 12 are expected to leave, so Wilds Unknown's Core window runs into 2027. Our Wilds Unknown stock is English only, with no Japanese case, and the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese shelf. The [Wilds Unknown sealed case](/product/disney-lorcana-wilds-unknown-booster-box-sealed-case-set-12-english/) is the only Wilds Unknown sealed product here."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named Iconic: the Buzz averages 1,692 packs, 17.63 cases, $19,001.97 of packs at our case price on the WorthRipping rate, and 3,000 packs, 31.25 cases, $33,681.88, on the Rippr rate, so buy the single. It is not for anyone who wants a single English box, because the only English Wilds Unknown product here is the four-box case. It is not for anyone who pays an Iconic price without checking the number, because the same Buzz name is $0.95 as card 91 and $3,616.53 as Iconic 241."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Buzz, own the ten, hold the twelfth set sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Buzz, buy the single: $3,616.53 Iconic on the November 27, 2026 TCGplayer market read, and check the number, 241/204, because WorthRipping's feed reads the same card at $1,939.11.",
+          "If the job is the ten, buy the English case at $1,077.82, four boxes at $269.46 each, and treat the Iconic as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $139.50, not a case you cannot split, and re-divide before you pay.",
+          "If the job is cheap packs, buy the cheapest case on the shelf, Reign of Jafar at $393.93, four boxes at $98.48 each, and remember it is a different set.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the number on any Buzz, because card 91 is $0.95 and Iconic 241 is $3,616.53."
+        ],
+        "h": "Action layer: the Wilds Unknown best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order. Every price here is stamped November 27, 2026, so re-divide before you pay. Our [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) prices every case against its own singles, and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) ranks the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "lorcana-wilds-unknown-best-cards",
+    "takeaway": [
+      "The Wilds Unknown top ten, on TCGplayer market prices checked November 27, 2026, totals $6,255.15, and the Buzz is $3,616.53 of it, 57.82%. The two Iconics are $5,169.89, 82.65%, the top five are $5,840.50, 93.37%, and the bottom five are $414.65, 6.63%, against ranks three to five at $670.61, 10.72%. No Epic card cracks the top ten, and the dearest Epic read we found is the Minnie Mouse, Practical Traveler at $3.22.",
+      "On our shelf as of November 27, 2026, there is exactly one Wilds Unknown product: the English sealed case at $1,077.82, four boxes at $269.46 a box, $11.23 a pack, $0.94 a card, $125.70 above the MSRP box per box. There is no single English box and no Japanese case on the shelf. The Buzz is 13.42 case boxes and 3.36 of a whole case. The market box is $139.50, and our case box sits $129.96 above it.",
+      "It is worth buying as the twelfth set sealed at a shelf price far above the market box, and it is not worth buying as a way to own one named Iconic. Ravensburger has never published pull rates, so no honest expected-value math exists for the chase, and the WorthRipping rate puts one specific Iconic at 1,692 packs on average, 17.63 cases, $19,001.97 of packs at our case price. Buy the single, or buy the case to hold it sealed and treat the Iconic as a bonus.",
+      "The Buzz has no single price: $3,616.53 on TCGplayer market via TCGPursuit, $3,613.09 on Hidden Rare's October 31, 2026 read, near $3,589 on TCG Comp's snapshot, and $1,939.11 on WorthRipping's own card feed, all read October 31 to November 27, 2026. Do not average the reads. Use the dated TCGplayer market read and re-check before paying, and read the number on any Buzz, because card 91 is $0.95 and Iconic 241 is $3,616.53.",
+      "One set back, the [Lorcana Winterspell best cards guide](/blog/lorcana-winterspell-best-cards/) ranks set 11 the same way, on TCGplayer market checked November 27, 2026, where the top ten totals $5,139.92, $1,115.23 below this set.",
+      "Companion guide: the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) runs the same ranking on set 10, the set before Winterspell, and the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8, where the case box sits far below this one, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs it on set 7, where the top ten totals $1,926.86. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Wilds Unknown at $269.46 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf.",
+      "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
+      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "One set on, the [Lorcana Attack of the Vine! best cards guide](/blog/lorcana-attack-of-the-vine-best-cards/) ranks set 13 the same way, with the Belle and Beast at $1,687.41 and the top ten at $5,150.03, on TCGplayer market checked November 27, 2026."
     ]
   },
   "lorcana-winterspell-best-cards": {
@@ -50127,7 +50629,8 @@ export const POSTS: Record<string, BlogPost> = {
       "One set back, the [Lorcana Fabled best cards guide](/blog/lorcana-fabled-best-cards/) ranks set 9 the same way, on TCGplayer market checked November 27, 2026, where the top ten totals $12,818.10, $7,678.18 above this set.",
       "Companion guide: the [Lorcana Whispers in the Well best cards guide](/blog/lorcana-whispers-in-the-well-best-cards/) runs the same ranking on set 10, the set before Winterspell, and the [Lorcana Reign of Jafar best cards guide](/blog/lorcana-reign-of-jafar-best-cards/) ranks set 8, where the case box sits far below this one, and the [Lorcana First Chapter best cards guide](/blog/lorcana-first-chapter-best-cards/) ranks set 1, where the top ten totals $2,822.34, and the [Lorcana Archazia's Island best cards guide](/blog/lorcana-archazias-island-best-cards/) runs it on set 7, where the top ten totals $1,926.86. The [Lorcana booster box guide](/blog/lorcana-booster-box/) divides all fourteen English cases to per-box prices, with Winterspell at $273.93 a box against Reign of Jafar at $98.48, and the [best Disney Lorcana sealed case to buy guide](/blog/best-disney-lorcana-sealed-case-to-buy/) ranks every case on the shelf.",
       "For the case-versus-box method used here, [Sealed Case vs Booster Box: The Math](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [Disney Lorcana sealed case guide](/blog/disney-lorcana-sealed-case/) and the [Disney Lorcana booster box price guide](/blog/disney-lorcana-booster-box-price/) price every case and box.",
-      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp."
+      "For the wider Japanese shelf, the [best Disney Lorcana Japanese guide](/blog/best-disney-lorcana-japanese/) ranks the Japanese cases, and the [buy Lorcana cards online guide](/blog/buy-lorcana-cards-online/) and the [best buy Lorcana cards online guide](/blog/best-buy-lorcana-cards-online/) rank the buying routes. Exact shipping is confirmed at checkout or on WhatsApp.",
+      "One set on, the [Lorcana Wilds Unknown best cards guide](/blog/lorcana-wilds-unknown-best-cards/) ranks set 12 the same way, with the Buzz at $3,616.53 and the top ten at $6,255.15, on TCGplayer market checked November 27, 2026."
     ]
   },
   "m1l-best-cards": {
