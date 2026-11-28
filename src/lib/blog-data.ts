@@ -191,6 +191,517 @@ export const POSTS: Record<string, BlogPost> = {
       "If the question is which sealed special set to hold rather than which card to chase, the [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional boxes, the anniversary ladder, and the themed sets from one shelf."
     ]
   },
+  "b24-best-cards": {
+    "datePublished": "2026-11-28",
+    "faqs": [
+      {
+        "a": "The SS Son Goku, Ground-Shaking Fury, Special Rare BT24-062, at $1,896.93 on the WorthRipping market read of November 27, 2026, for an ungraded English card. The price is thin: WorthRipping is the only live read for it, and the quotes near $2,000 attach to the Collector Booster Holo of the same number, which WorthRipping's feed prices at $1.83, a value that cannot be a market price. The firm-market top card on the TCGplayer reference is the God Rare, at $1,300.00 on ValueMyCard, updated November 23, 2026, against $258.03 on WorthRipping.",
+        "q": "What is the most valuable B24 card?"
+      },
+      {
+        "a": "The English sealed case is $1,184.73, twelve boxes at $98.73 a box, $4.11 a pack, as of November 28, 2026. That is $184.34 below the $283.07 PullNomics market box per box, $113.78 below the $212.51 WorthRipping market box, and $27.28 below even the $126.01 lowest listing box. Buy the case to hold B24 sealed at a price below every market box read, or to open packs below the market pack price; buy the single to own the Goku SPR.",
+        "q": "Is the B24 case on your shelf a good price?"
+      },
+      {
+        "a": "Bandai publishes no pull rates for Masters. WorthRipping's estimates, checked October 15, 2026 and borrowed from boxes with the same pack layout, are Special Rare 1 in 11 packs, Secret Rare 1 in 144 packs, and God Rare 1 in 998 packs. On those estimates a case holds 26.18 Special Rares, 2.00 Secret Rares, and 0.29 God Rares on average, and one specific God Rare averages 3.47 cases, $4,111.01 of packs at our case price. B24 has no serial-numbered cards, so no serial chase math applies.",
+        "q": "What are the B24 pull rates?"
+      }
+    ],
+    "h1": "B24 Beyond Generations Best Cards: The 10 With a Price, Priced Against Our $1,184.73 Case",
+    "intro": [
+      "Short answer: the best B24 card with a price today is the SS Son Goku, Ground-Shaking Fury, Special Rare BT24-062, at $1,896.93 on the WorthRipping market read of November 27, 2026, and the ten priced cards add to $4,380.45. The top two cards take $3,166.38 of that total, 72.28%. Our shelf, November 28, 2026, carries the English sealed case at $1,184.73: twelve boxes at $98.73 a box, $4.11 a pack, $184.34 below the PullNomics market box per box and $113.78 below the WorthRipping market box. Buy the case to hold B24 sealed at a price below every market box read, or to open packs below the market pack price; buy the single to own the Goku SPR.",
+      "Who this is for: collectors ranking the B24 chase thirty-two months after release, buyers weighing a twelve-box case against a $283.07 market box, and players building from Zenkai Series 07. Who it is not for: anyone chasing the God Rare by opening boxes, anyone who wants a single English box, and anyone who needs the God Rare price to hold at either $258.03 or $1,300.00."
+    ],
+    "metaDescription": "B24's 10 best cards on live reads, Nov 28, 2026: the $1,896.93 Goku SPR, the disputed $258.03 God Rare, and our $1,184.73 case at $98.73 a box.",
+    "metaTitle": "B24 Beyond Generations Best Cards: The 10 With a Price",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: ten priced cards, one $1,896.93 SPR on top, and a case below every market box",
+        "paragraphs": [
+          "Every value below is an ungraded English card market price on WorthRipping, November 27, 2026, unless a second source is named. Rank one is the SS Son Goku, Ground-Shaking Fury (SPR) BT24-062 at $1,896.93. Rank two is the SS3 Son Goku, Wrath of the Dragon (Collector Booster Gold) BT24-138 at $1,269.45. Rank three is the plain Secret Rare of the same Goku, BT24-138, at $304.87. Rank four is the SSB Kaio-Ken Vegito, Blue Potara-Fusion Warrior Champion (Collector Booster Gold) BT24-139 at $276.01. Rank five is the God Rare of the same Goku, BT24-138, at $258.03. Rank six is the Porunga, Dragon of Dreams (Collector Booster Gold) BT24-140 at $163.56. Ranks seven and eight are the plain Secret Rares: the Vegito at $95.47 and the Porunga at $79.61. Ranks nine and ten are Special Rares: the SS4 Son Goku and SS4 Vegeta, Striking a Weak Point (SPR) BT24-118 at $20.31 and the SS2 Vegeta, Charging Rage (SPR) BT24-013 at $16.21. The ten add to $4,380.45.",
+          "The top three are $3,471.25, 79.24% of the ten, and the number one card alone is 43.30%. The top two are $3,166.38, 72.28%. Ranks four to ten total $909.20, 20.76%, and the bottom two total $36.52, 0.83%. The biggest gap is $964.58, between the Collector Gold Goku at $1,269.45 and the plain Secret Rare at $304.87. The tightest gap is $4.10, between ranks nine and ten. The number one card is 117.02 times the number ten. Six of the ten are Secret Rares, three are Special Rares, and one is the God Rare. The [B25 best cards guide](/blog/b25-best-cards/) runs this ranking on the next set.",
+          "Two prices in the ten are disputed, and this page prints both sides instead of picking one. The God Rare at $258.03 on WorthRipping reads $1,300.00 on ValueMyCard's TCGplayer reference, updated November 23, 2026, a $1,041.97 gap, and the TCGplayer figure has sat flat at $1,300.00 since February 10, 2026. The Collector Gold Goku at $1,269.45 on WorthRipping reads £495.25 on TCG Hamster's UK prices. The number one card has no second raw-market read at all: the quotes near $2,000 attach to the Collector Booster Holo of the same number, BT24-062, which WorthRipping prices at $1.83, a feed value that cannot be a market price. If the God Rare really trades at $1,300.00, it ranks second and the ten total $5,422.42."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "B24 English case per box: $1,184.73 / 12 boxes = $98.73 per box",
+          "B24 English case per pack: $1,184.73 / 288 packs = $4.11 per pack",
+          "B24 English case per card: $1,184.73 / 3,456 cards = $0.34 per card",
+          "B24 English case in yen: $1,184.73 x 159.54 yen = 189,011.82 yen",
+          "B24 English case box in yen: $98.73 x 159.54 yen = 15,751.38 yen",
+          "B24 English case pack in yen: $4.11 x 159.54 yen = 655.71 yen",
+          "B24 PullNomics market box per pack at 24 packs: $283.07 / 24 packs = $11.79 per pack",
+          "B24 PullNomics market box vs case box: $283.07 - $98.73 = $184.34 per box; $98.73 / $283.07 = 0.35x",
+          "B24 twelve PullNomics market boxes: 12 x $283.07 = $3,396.84; $3,396.84 - $1,184.73 = $2,212.11; $1,184.73 / $3,396.84 = 0.35x",
+          "B24 WorthRipping market box per pack at 24 packs: $212.51 / 24 packs = $8.85 per pack",
+          "B24 WorthRipping market box vs case box: $212.51 - $98.73 = $113.78 per box; $98.73 / $212.51 = 0.46x",
+          "B24 twelve WorthRipping market boxes: 12 x $212.51 = $2,550.12; $2,550.12 - $1,184.73 = $1,365.39; $1,184.73 / $2,550.12 = 0.46x",
+          "B24 market box disagreement: $283.07 - $212.51 = $70.56",
+          "B24 lowest listing box per pack at 24 packs: $126.01 / 24 packs = $5.25 per pack",
+          "B24 lowest listing box vs case box: $126.01 - $98.73 = $27.28 per box",
+          "B24 case pack vs WorthRipping market box pack: $8.85 - $4.11 = $4.74 per pack; $4.11 / $8.85 = 0.46x",
+          "B24 case pack vs PullNomics market box pack: $11.79 - $4.11 = $7.68 per pack; $4.11 / $11.79 = 0.35x",
+          "B24 top 10 total: $1,896.93 + $1,269.45 + $304.87 + $276.01 + $258.03 + $163.56 + $95.47 + $79.61 + $20.31 + $16.21 = $4,380.45",
+          "B24 top 3 total: $1,896.93 + $1,269.45 + $304.87 = $3,471.25; $3,471.25 / $4,380.45 = 79.24% of the top 10",
+          "B24 top 2 total: $1,896.93 + $1,269.45 = $3,166.38; $3,166.38 / $4,380.45 = 72.28% of the top 10",
+          "B24 ranks 4 to 10 total: $276.01 + $258.03 + $163.56 + $95.47 + $79.61 + $20.31 + $16.21 = $909.20; $909.20 / $4,380.45 = 20.76% of the top 10",
+          "B24 ranks 9 to 10 total: $20.31 + $16.21 = $36.52; $36.52 / $4,380.45 = 0.83% of the top 10",
+          "B24 number 1 share: $1,896.93 / $4,380.45 = 43.30% of the top 10",
+          "B24 number 1 vs number 10: $1,896.93 / $16.21 = 117.02x",
+          "B24 number 1 vs number 2 gap: $1,896.93 - $1,269.45 = $627.48",
+          "B24 number 2 vs number 3 gap: $1,269.45 - $304.87 = $964.58",
+          "B24 number 3 vs number 4 gap: $304.87 - $276.01 = $28.86",
+          "B24 number 4 vs number 5 gap: $276.01 - $258.03 = $17.98",
+          "B24 number 5 vs number 6 gap: $258.03 - $163.56 = $94.47",
+          "B24 number 6 vs number 7 gap: $163.56 - $95.47 = $68.09",
+          "B24 number 7 vs number 8 gap: $95.47 - $79.61 = $15.86",
+          "B24 number 8 vs number 9 gap: $79.61 - $20.31 = $59.30",
+          "B24 number 9 vs number 10 gap: $20.31 - $16.21 = $4.10",
+          "B24 number 1 card vs the case: $1,896.93 - $1,184.73 = $712.20 above the case",
+          "B24 top 10 against the case: $4,380.45 / $1,184.73 = 3.70x",
+          "B24 top 10 against the case box: $4,380.45 / $98.73 = 44.37x",
+          "B24 top 10 against twelve PullNomics market boxes: $4,380.45 / $3,396.84 = 1.29x",
+          "B24 top 10 against twelve WorthRipping market boxes: $4,380.45 / $2,550.12 = 1.72x",
+          "B24 Special Rare trio in the top 10: $1,896.93 + $20.31 + $16.21 = $1,933.45; $1,933.45 / $4,380.45 = 44.14% of the top 10",
+          "B24 Secret Rare six in the top 10: $1,269.45 + $304.87 + $276.01 + $163.56 + $95.47 + $79.61 = $2,188.97; $2,188.97 / $4,380.45 = 49.97% of the top 10",
+          "B24 God Rare share: $258.03 / $4,380.45 = 5.89% of the top 10",
+          "B24 Collector Booster Gold trio: $1,269.45 + $276.01 + $163.56 = $1,709.02; $1,709.02 / $4,380.45 = 39.01% of the top 10",
+          "B24 number 1 vs the Special Rare average: $1,896.93 / $132.02 = 14.37x",
+          "B24 God Rare cross-check: $1,300.00 - $258.03 = $1,041.97; $1,300.00 / $258.03 = 5.04x",
+          "B24 God Rare at the TCGplayer read: $4,380.45 - $258.03 + $1,300.00 = $5,422.42 top 10 total",
+          "B24 Collector Gold Goku cross-check: $1,269.45 on WorthRipping vs £495.25 on TCG Hamster UK prices",
+          "B24 WorthRipping box EV vs box: $383.00 - $212.51 = $170.49 above the box on average after selling costs",
+          "B24 WorthRipping box EV vs case box: $383.00 - $98.73 = $284.27 above the case box on average after selling costs",
+          "B24 WorthRipping case EV: 12 x $383.00 = $4,596.00; $4,596.00 - $1,184.73 = $3,411.27 above the case price on average after selling costs",
+          "B24 typical box vs case box: $98.73 - $55.00 = $43.73 below the case box",
+          "B24 typical box vs WorthRipping box: $212.51 - $55.00 = $157.51 below the box",
+          "B24 Special Rare per 24-pack box on the WorthRipping estimate: 24 packs / 11 packs per Special Rare = 2.18 per box",
+          "B24 Special Rare per case on the WorthRipping estimate: 288 packs / 11 packs per Special Rare = 26.18 per case",
+          "B24 Secret Rare per 24-pack box on the WorthRipping estimate: 24 packs / 144 packs per Secret Rare = 0.17 per box; 144 packs / 24 packs = 1 in 6.00 boxes",
+          "B24 Secret Rare per case on the WorthRipping estimate: 288 packs / 144 packs per Secret Rare = 2.00 per case",
+          "B24 God Rare per 24-pack box on the WorthRipping estimate: 24 packs / 998 packs per God Rare = 0.02 per box; 998 packs / 24 packs = 1 in 41.58 boxes",
+          "B24 God Rare per case on the WorthRipping estimate: 288 packs / 998 packs per God Rare = 0.29 per case",
+          "B24 specific Special Rare chase on the WorthRipping estimate: 11 packs x 14 Special Rares = 154 packs; 154 packs / 24 packs = 6.42 boxes; 6.42 boxes / 12 boxes = 0.54 cases; 0.54 cases x $1,184.73 = $639.75",
+          "B24 specific Secret Rare chase on the WorthRipping estimate: 144 packs x 3 Secret Rares = 432 packs; 432 packs / 24 packs = 18.00 boxes; 18.00 boxes / 12 boxes = 1.50 cases; 1.50 cases x $1,184.73 = $1,777.10",
+          "B24 specific God Rare chase on the WorthRipping estimate: 998 packs x 1 God Rare = 998 packs; 998 packs / 24 packs = 41.58 boxes; 41.58 boxes / 12 boxes = 3.47 cases; 3.47 cases x $1,184.73 = $4,111.01",
+          "B24 specific Special Rare per case on the WorthRipping estimate: 288 packs / 154 packs = 1.87 per case",
+          "B24 specific Secret Rare per case on the WorthRipping estimate: 288 packs / 432 packs = 0.67 per case",
+          "B24 specific God Rare per case on the WorthRipping estimate: 288 packs / 998 packs = 0.29 per case",
+          "B24 case vs B27 case: $7,917.75 - $1,184.73 = $6,733.02; $1,184.73 / $7,917.75 = 0.15x; $7,917.75 / $1,184.73 = 6.68x",
+          "B24 case vs B26 case: $1,184.73 - $1,150.30 = $34.43; $1,184.73 / $1,150.30 = 1.03x",
+          "B24 case box vs B26 case box: $98.73 - $95.86 = $2.87",
+          "B24 case vs B28 case: $1,184.73 - $1,085.02 = $99.71; $1,184.73 / $1,085.02 = 1.09x",
+          "B24 case vs B30 case: $1,420.37 - $1,184.73 = $235.64; $1,184.73 / $1,420.37 = 0.83x",
+          "B24 set totals: $3,756.41 - $2,522.12 = $1,234.29; $4,380.45 / $2,522.12 = 1.74x; $4,380.45 / $3,756.41 = 1.17x; $4,380.45 - $3,756.41 = $624.04"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about B24 is whether $1,184.73 for a case is a misprint, because the case costs less than five market boxes. It is not a misprint. A B24 box trades at $283.07 on PullNomics and $212.51 on WorthRipping, so twelve boxes at market cost $2,550.12 to $3,396.84, and our case sits $1,365.39 to $2,212.11 below that. The case looks cheap because B24 boxes are cheap next to the serial sets, not because our case is dear. We also get asked whether to buy the case to pull the God Rare. The answer is no: one God Rare per 42 boxes on the WorthRipping estimate is not a plan, it is a lottery ticket with a $1,184.73 entry fee.",
+        "paragraphs": [
+          "The case divides cleanly: twelve boxes of twenty-four packs of twelve cards, 288 packs, 3,456 cards. The case is $1,184.73, or $98.73 a box, $4.11 a pack, and $0.34 a card, as of November 28, 2026. At 159.54 yen to the dollar, the November 27, 2026 ECB fixing, the case is 189,011.82 yen and the box is 15,751.38 yen. November 28 is a Saturday, so no new fixing exists. No B24-specific MSRP was found in a verifiable source, so this page anchors on market boxes instead.",
+          "The two market box reads disagree by $70.56, and this page does not average them. PullNomics prices the TCGplayer market box at $283.07 on November 28, 2026, $11.79 a pack, with no pack price listed. WorthRipping prices the box at $212.51 on November 27, 2026, $8.85 a pack, with a lowest listing of $126.01. Our case box is $184.34 below the PullNomics box and $113.78 below the WorthRipping box, and $27.28 below even the lowest listing box. Twelve PullNomics boxes cost $3,396.84 and twelve WorthRipping boxes $2,550.12, $2,212.11 and $1,365.39 above our case. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [B26 best cards guide](/blog/b26-best-cards/) runs this ranking on the set before B24."
+        ]
+      },
+      {
+        "h": "The practical layer: check the number, the finish, and the box before you pay",
+        "paragraphs": [
+          "Buy in this order. First, name the card by number, finish, and version: BT24-062 as a base Super Rare, BT24-062 as a Special Rare, and BT24-062 as a Collector Booster Holo are three different cards, and the prices run $8.59, $1,896.93, and a WorthRipping feed value of $1.83 that cannot be trusted, while collectors quote the Holo near $2,000. BT24-138 is worse: the Secret Rare is $304.87, the Collector Booster Gold is $1,269.45, and the God Rare is $258.03 on one feed and $1,300.00 on another. Only the finish on the card settles which one you hold. Second, match the price to the source and the date: a WorthRipping price is one feed read, and a ValueMyCard TCGplayer reference that has not moved since February 10, 2026 is a stale price, not a sale you watched. Third, buy the sealed case only with the wrap intact, and count twelve boxes on arrival.",
+          "Order the case from the product page and confirm the exact total at checkout or on WhatsApp. For singles, use a marketplace with buyer protection, and ask for a photo of the front showing the finish and the back showing the set code before paying. The Vegito at BT24-139 is the trap card after the Goku: the Secret Rare is $95.47 and the Collector Booster Gold is $276.01, and only the gold finish settles it. The [best Dragon Ball Masters booster box to buy guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) ranks the Masters boxes the same way, and the [best buy Dragon Ball cards Japanese guide](/blog/best-buy-dragon-ball-cards-japanese/) sets out the Japanese buying route."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "Seven ways to spend on B24. The case is the only row on our shelf, $184.34 below the PullNomics market box and $113.78 below the WorthRipping market box per box. Twelve market boxes cost $2,550.12 to $3,396.84, and the top ten are 1.29 to 1.72 times that. The [Dragon Ball TCG Japan price guide](/blog/dragon-ball-tcg-japan-price/) carries the Japanese price reads."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (12)",
+              "$1,184.73",
+              "$98.73 a box, $4.11 a pack",
+              "Holding B24 sealed or opening the cheapest packs on the shelf against market boxes",
+              "Twelve boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "PullNomics market box",
+              "$283.07",
+              "$11.79",
+              "One box at a time",
+              "$184.34 above our case box per box"
+            ],
+            [
+              "WorthRipping market box",
+              "$212.51",
+              "$8.85",
+              "One box at the lower market read",
+              "$113.78 above our case box per box; a market read, not a sale"
+            ],
+            [
+              "Lowest listing box",
+              "$126.01",
+              "$5.25",
+              "The cheapest single box found",
+              "$27.28 above our case box, but one box only, and a listing ask, not a sale"
+            ],
+            [
+              "The single (Goku SPR)",
+              "$1,896.93",
+              "n/a",
+              "Owning the chase card",
+              "$712.20 more than the whole case; the price is one read"
+            ],
+            [
+              "The top 10 singles",
+              "$4,380.45",
+              "n/a",
+              "Owning the ranked ten",
+              "3.70 times the case"
+            ],
+            [
+              "B28 case (12), for scale",
+              "$1,085.02",
+              "$90.42 a box, $3.77 a pack",
+              "The next set's case, for comparison",
+              "The B24 case costs $99.71 more"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no ranked list, no SPR split, no case math",
+        "note": "From the Warehouse: what we see most in chat after a B24 single sells is a buyer asking whether they overpaid, because three sites showed three prices for one card number. They did not overpay or underpay on the number alone: BT24-062 exists as a base Super Rare, a Special Rare, and a Collector Booster Holo, and BT24-138 exists as a Secret Rare, a Collector Booster Gold, and a God Rare. We price the SPR at $1,896.93 because WorthRipping's read is the only live one, and we print the $8.59 base Super Rare and the $1.83 Holo feed value next to it so the tangle stays visible instead of hidden. The same trap shows up inside our own top ten: the SS4 Son Goku and SS4 Vegeta, Striking a Weak Point (SPR) BT24-118 is $20.31 on the WorthRipping read of November 27, 2026, and $51.99 on the ValueMyCard TCGplayer reference of November 23, 2026, with five recorded sales averaging $52.34 in the 30 days to November 18, 2026. We rank it at the WorthRipping figure and print the TCGplayer figure here, because a 2.56x spread on one card number is exactly the kind of thing to check before you pay.",
+        "paragraphs": [
+          "The fan-out ran ten sub-queries: B24 best cards, B24 most expensive cards, B24 booster box price, SS Son Goku Ground-Shaking Fury SPR price, SS3 Son Goku Wrath of the Dragon God Rare price, PullNomics B24 prices, WorthRipping B24 box EV, B24 Japanese release date, B24 card list and rarities, and B24 Collector Booster box price. The top three Google results are a floor, not a ranking: Assetra ranks by graded market cap with exactly one priced card, a PSA 10 Secret Rare Goku at $455; TCG Hamster lists the 249-card checklist at UK prices with the Collector Gold Goku on top at £495.25; OGcards lists the same checklist with no ranking and a $2,522.12 set cost. None of the three ranks in dollars, divides a sealed case, separates the three versions of BT24-062, or flags the God Rare price dispute.",
+          "PullNomics on November 28, 2026 is the only dated full-line TCGplayer read for the box, and WorthRipping on November 27, 2026 is the only live read pricing all 205 cards, so this page ranks all ten across both. The number one card has no second raw-market price, the God Rare has two reads $1,041.97 apart, and the Collector Gold Goku has a UK read less than half the US read, and this page says so instead of dressing one read as settled. No best-cards list prices sealed B24, yet the sealed price decides the buy: our case sits below every market box read, even below the lowest listing box. The [B27 best cards guide](/blog/b27-best-cards/) runs the same ranking on the serial set."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The top two are $3,166.38, 72.28% of the ten, and the top three are $3,471.25, 79.24%. The six Secret Rares, counting the three Collector Booster Golds, are $2,188.97, 49.97%. The three Collector Booster Golds alone are $1,709.02, 39.01%. The three Special Rares in the ten are $1,933.45, 44.14%, and $1,896.93 of that is the one Goku SPR. The God Rare is $258.03, 5.89%, the smallest share a God Rare holds in any Masters top ten on this site. The [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) ranks the Japanese routes the same way.",
+          "Below the ten, the ladder falls to the leaders: the Son Goku, Beginning of a Legend (SLR) BT24-055 is $72.70 on ValueMyCard's TCGplayer reference of November 27, 2026, the highest card outside the ten. The next Special Rares are the Son Goku, Face-Off With an Emperor (SPR) BT24-063 at $8.73 and the SS4 Vegito, Sparking Offense and Defense (SPR) BT24-122 at $8.56, both on WorthRipping. The base Super Rare of the number one card, BT24-062, is $8.59. The [Dragon Ball TCG Japan price guide](/blog/dragon-ball-tcg-japan-price/) carries the Japanese price reads."
+        ]
+      },
+      {
+        "h": "The risk layer: one disputed God Rare, a box that loses money, and the Holo tangle",
+        "paragraphs": [
+          "Bandai publishes no pull rates for Masters, so every rate below is a WorthRipping estimate checked October 15, 2026. Special Rare: 1 in 11 packs, 2.18 per box, 26.18 per case. Secret Rare: 1 in 144 packs, 0.17 per box, 1 in 6.00 boxes, 2.00 per case. God Rare: 1 in 998 packs, 0.02 per box, 1 in 41.58 boxes, 0.29 per case. Three Secret Rares share the 1-in-144 slot, so one specific Secret Rare averages 432 packs, 18.00 boxes, 1.50 cases, $1,777.10. One God Rare holds the 1-in-998 slot, so one specific God Rare averages 998 packs, 41.58 boxes, 3.47 cases, $4,111.01. A case holds 0.67 of one specific Secret Rare and 0.29 of one specific God Rare, so buy the single.",
+          "The price risk is the disputed top: the number one card has exactly one live raw-market read, $1,896.93 on WorthRipping, with no second raw read, and the God Rare has two reads $1,041.97 apart. The feeds disagree on the whole set too: ValueMyCard puts one of each of the 249 listings at $3,756.41, OGcards puts one of each version at $2,522.12, and TCG Hamster puts one of each at £2,762.63, a $1,234.29 gap between the two dollar totals, and the WorthRipping top ten alone, $4,380.45, exceeds all three. The box risk: WorthRipping's November 27, 2026 read puts $383 of cards inside a $212.51 box after selling costs, $170.49 above the box on average, but the typical box is $55, $157.51 below the box and $43.73 below our case box, 77 of 100 boxes lose money, and 17% of the average comes from cards in fewer than 1 in 10 boxes. Check the seal and pack order before opening, as the [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) sets out."
+        ]
+      },
+      {
+        "h": "Context: B24 in the Masters line: the 24th set, Zenkai Series 07, and the cheapest case math on the shelf",
+        "paragraphs": [
+          "B24 is Masters' 24th set, Zenkai Series 07, released in English on March 22, 2024, with pre-release cards dated March 15, 2024 and a Collector Booster released alongside it. The box copy counts 140 numbered cards, and the checklists count 249 listings once alternate arts and Collector Booster Gold and Silver finishes are listed separately: 90 Common, 57 Rare, 51 Uncommon, 21 Super Rare, 14 Special Rare, 9 Special Leader Rare, 6 Secret Rare counting the three Collector Booster Golds, and 1 God Rare. Every box holds 24 packs of 12 cards, and the Collector Booster holds 12 packs of 12 cards, all foil. The Japanese release date was not verified on an official source.",
+          "B24 sealed is the cheapest Masters case math on our shelf next to B28. The B26 case is $1,150.30, $34.43 below the B24 case, with a case box $2.87 below ours. The B28 case is $1,085.02, $99.71 below the B24 case. The B30 case is $1,420.37, $235.64 above it. The B27 case is $7,917.75, $6,733.02 above it, 6.68 times as much. B24 cards play in Masters only. The [B28 best cards guide](/blog/b28-best-cards/) runs this ranking on the next set, and the [FB11 best cards guide](/blog/fb11-best-cards/) runs it on Fusion World."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing the God Rare by opening boxes: one God Rare per 42 boxes on the WorthRipping estimate, with two live reads $1,041.97 apart, is a lottery with an unknown prize, not a chase, so buy the single when it trades. It is not for anyone who wants a single English box: only the twelve-box case is on the shelf. It is not for anyone who pays $1,896.93 for BT24-062 without checking the finish: the base Super Rare is $8.59, the Special Rare is $1,896.93, and the Collector Booster Holo is quoted near $2,000 by collectors while WorthRipping's feed prints $1.83. It is not for anyone who needs the God Rare price to hold: it reads $258.03 on one feed and $1,300.00 on another."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Goku SPR, own the ten, hold B24 sealed, or open packs below the market box price.",
+          "If the job is the SPR, buy the single: the SS Son Goku, Ground-Shaking Fury (SPR) BT24-062 is $1,896.93 on the November 27, 2026 WorthRipping read, and check the finish, because the base Super Rare of the same number is $8.59 and the Collector Booster Holo is quoted near $2,000.",
+          "If the job is the ten, buy the English case at $1,184.73, twelve boxes at $98.73 each, and treat the God Rare as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $212.51, not a case you cannot split, and re-divide at 24 packs before you pay.",
+          "If the job is cheap packs, compare the case pack price, $4.11, against the market box pack price, $8.85 on WorthRipping and $11.79 on PullNomics, before you pay.",
+          "Check the wrap and seams before you pay, check the finish before you pay a chase price, and read the number on any Goku, because BT24-138 exists as a Secret Rare, a Collector Booster Gold, and a God Rare."
+        ],
+        "h": "Action layer: the B24 best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order: every price here is stamped November 27 or 28, 2026, so re-divide before you pay. Shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "b24-best-cards",
+    "takeaway": [
+      "The B24 top ten, on the WorthRipping market read of November 27, 2026, totals $4,380.45, and the Goku SPR is $1,896.93 of it, 43.30%. The top two are $3,166.38, 72.28%, the top three are $3,471.25, 79.24%, and ranks nine and ten are $36.52, 0.83%. Same ranking on the next set: [B25 best cards](/blog/b25-best-cards/).",
+      "On our shelf as of November 28, 2026, there is exactly one B24 product: the English sealed case at $1,184.73, twelve boxes at $98.73 a box, $4.11 a pack, $0.34 a card, $184.34 below the PullNomics market box per box and $113.78 below the WorthRipping market box. The number one card costs $712.20 more than the whole case. Same ranking on the set before this one: [B26 best cards](/blog/b26-best-cards/).",
+      "It is worth buying as B24 sealed at a shelf price below every market box read, even below the lowest listing box, and it is not worth buying as a way to own one named God Rare. Same division, every case: [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/).",
+      "No ranked B24 best-cards list in dollars exists yet: the top three results are a graded market-cap list with one priced card, a UK-price checklist, and a checklist with no ranking. Same ranking on the serial set: [B27 best cards](/blog/b27-best-cards/).",
+      "The value concentrates in two cards and three gold finishes: the top two are $3,166.38, 72.28% of the ten, the three Collector Booster Golds are $1,709.02, 39.01%, and the six Secret Rares are $2,188.97, 49.97%. Japanese buying routes, ranked the same way: [best Dragon Ball TCG Japan](/blog/best-dragon-ball-tcg-japan/).",
+      "A specific God Rare averages 3.47 cases, $4,111.01 of packs at our case price, on the WorthRipping estimate, and the God Rare price itself is disputed: $258.03 on WorthRipping against $1,300.00 on the TCGplayer reference. Buy the single, or buy the case to hold it sealed. Masters boxes, ranked: [best Dragon Ball Masters booster box to buy](/blog/best-dragon-ball-masters-booster-box-to-buy/).",
+      "B24 is the 24th Masters set with 140 numbered cards and 249 listings, Zenkai Series 07, and a twelve-box case that sits $99.71 above the B28 case and $6,733.02 below the B27 case. Japanese price reads: [Dragon Ball TCG Japan price](/blog/dragon-ball-tcg-japan-price/).",
+      "This guide is not for anyone chasing the God Rare by opening boxes, anyone who wants a single English box, or anyone who pays $1,896.93 for BT24-062 without checking the finish, because the base Super Rare is $8.59 and the Collector Booster Holo is quoted near $2,000. Same ranking on the newest Fusion World set: [FB11 best cards](/blog/fb11-best-cards/).",
+      "Carry the checklist in order: the Goku SPR single is $1,896.93, the case is $1,184.73 at $98.73 a box, the market box is $212.51 on WorthRipping and $283.07 on PullNomics, and the case pack at $4.11 beats the market box pack at $8.85. The other line's boxes, divided the same way: [Dragon Ball Fusion World booster box price](/blog/dragon-ball-fusion-world-booster-box-price/).",
+      "The set after this one: the [B28 best cards guide](/blog/b28-best-cards/) runs this ranking on the next Masters set against our $1,085.02 case."
+    ]
+  },
+  "b25-best-cards": {
+    "datePublished": "2026-11-28",
+    "faqs": [
+      {
+        "a": "Son Goku, Apex of the Origin (God Rare) BT25-148, at $1,945.17 on the WorthRipping market read of November 27, 2026, for an ungraded English card. The price is thin: WorthRipping is the only live dollar read for either God Rare, Cardmarket asks from 1,729 euros, and a January 2026 TCGplayer screen showed $2,999.99, ten months stale. The firm-market top card on the OGcards read is Buu, Unlimited Majin at $700.00, which PullNomics also prices at $700.00 on November 28, 2026.",
+        "q": "What is the most valuable B25 card?"
+      },
+      {
+        "a": "The English sealed case is $1,049.83, twelve boxes at $87.49 a box, $3.65 a pack, as of November 28, 2026. That is $443.71 below the $531.20 PullNomics market box per box, $208.06 below the $295.55 WorthRipping market box, and $82.33 below the $169.82 lowest listing box. Buy the case to hold B25 sealed at a price below every market box read, or to open packs below the market pack price; buy the single to own a God Rare.",
+        "q": "Is the B25 case on your shelf a good price?"
+      },
+      {
+        "a": "Bandai publishes no pull rates for Masters. WorthRipping's estimates, checked October 15, 2026 and borrowed from boxes with the same pack layout, are Special Rare 1 in 11 packs, Secret Rare 1 in 144 packs, and God Rare 1 in 998 packs. On those estimates a case holds 2.00 Secret Rares and 0.29 God Rares on average, and one specific God Rare averages 6.93 cases, $7,275.32 of packs at our case price. One specific Secret Rare averages 2.00 cases, $2,099.66.",
+        "q": "What are the B25 pull rates?"
+      }
+    ],
+    "h1": "B25 Legend of the Dragon Balls Best Cards: The 10 With a Price, Priced Against Our $1,049.83 Case",
+    "intro": [
+      "Short answer: the best B25 card with a price today is Son Goku, Apex of the Origin (God Rare) BT25-148, at $1,945.17 on the WorthRipping market read of November 27, 2026, and the ten priced cards add to $4,516.45. The number one card alone is 43.07% of the ten. Our shelf, November 28, 2026, carries the English sealed case at $1,049.83: twelve boxes at $87.49 a box, $3.65 a pack, $443.71 below the PullNomics market box. Buy the case to hold B25 sealed at the cheapest Dragon Ball box on the shelf, buy the single to own the God Rare.",
+      "Who this is for: collectors ranking the B25 chase twenty-eight months after release, buyers weighing a twelve-box case against a $531.20 market box, and players building from the 7th anniversary set. Who it is not for: anyone chasing one named God Rare by opening boxes, anyone who wants a single English box, and anyone who needs the Gogeta Secret Rare price to hold."
+    ],
+    "metaDescription": "B25's 10 best cards on live reads, Nov 28, 2026: the $1,945.17 Goku God Rare, the disputed $1,357.89 Gogeta, and our $1,049.83 case at $87.49 a box.",
+    "metaTitle": "B25 Best Cards: Legend of the Dragon Balls Top 10, Priced",
+    "readMinutes": 10,
+    "sections": [
+      {
+        "h": "The answer first: ten priced cards, one God Rare on top, and a case below every market box",
+        "paragraphs": [
+          "Every value below is an ungraded English card market price on WorthRipping, November 27, 2026, unless another source is named. Rank one is Son Goku, Apex of the Origin (God Rare) BT25-148 at $1,945.17. Rank two is SS4 Gogeta, Unrivaled Sparking (Secret Rare) BT25-147 at $1,357.89, a price three other reads dispute, and this page prints the dispute in full below. Rank three is Buu, Unlimited Majin (Secret Rare) BT25-146 at $479.76, against $700.00 on PullNomics, November 28, 2026. Rank four is SS4 Gogeta, Unrivaled Sparking (God Rare) BT25-147 at $265.63, against a Cardmarket lowest listing of 1,999 euros. Rank five is Son Goku, Fist of Fate (Secret Rare) BT25-145 at $111.59. Ranks six to ten are SS4 Son Goku and SS4 Vegeta // SS4 Gogeta, Strongest Fusion Explosion (Special Leader Rare) BT25-098 at $105.66, Son Goku, Apex of the Origin (Secret Rare) BT25-148 at $104.71, Trunks // SS Trunks, Tournament Battle to the Death (Special Leader Rare) BT25-070 at $70.41, Son Goku // Son Goku, Face-Off With the Great Demon King (Special Leader Rare) BT25-001 at $43.62, and Gotenks // SS3 Gotenks, Power of the Strongest Rookie (Special Leader Rare) BT25-036 at $32.01. The ten add to $4,516.45.",
+          "The value sits in four cards and then falls off a cliff. The top two are $3,303.06, 73.13% of the ten, and the top three are $3,782.82, 83.76%. The two God Rares are $2,210.80, 48.95%, and the four Secret Rares are $2,053.95, 45.48%. The four Special Leader Rares in the ten total $251.70, 5.57%. The widest gap is $878.13, between ranks two and three. The tightest gap is $0.95, between the BT25-098 Special Leader Rare and the Apex Secret Rare. Below rank four, nothing costs more than $111.59. No Dragon Ball Rare cracks the ten: the highest is under $7 on every read. The [B26 best cards guide](/blog/b26-best-cards/) runs this ranking on the next set.",
+          "Check the number, the finish, and the version before you pay: two numbers each hold two cards worth wildly different money. BT25-147 exists as a Secret Rare at $1,357.89 on WorthRipping and as a God Rare at $265.63 on the same read, $1,092.26 apart, and BT25-148 exists as a Secret Rare at $104.71 and as a God Rare at $1,945.17, $1,840.46 apart. Only the gold God Rare finish settles which one you hold, and Cardmarket files them as V.1 and V.2. The [B28 best cards guide](/blog/b28-best-cards/) runs this ranking on the set after B26."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "B25 English case per box: $1,049.83 / 12 boxes = $87.49 per box",
+          "B25 English case per pack: $1,049.83 / 288 packs = $3.65 per pack",
+          "B25 English case per card: $1,049.83 / 3,456 cards = $0.30 per card",
+          "B25 English case in yen: $1,049.83 x 159.54 yen = 167,489.88 yen",
+          "B25 English case box in yen: $87.49 x 159.54 yen = 13,958.15 yen",
+          "B25 English case pack in yen: $3.65 x 159.54 yen = 582.32 yen",
+          "B25 PullNomics market box per pack at 24 packs: $531.20 / 24 packs = $22.13 per pack",
+          "B25 PullNomics market box vs case box: $531.20 - $87.49 = $443.71 per box; $87.49 / $531.20 = 0.16x",
+          "B25 twelve PullNomics market boxes: 12 x $531.20 = $6,374.40; $6,374.40 - $1,049.83 = $5,324.57; $1,049.83 / $6,374.40 = 0.16x",
+          "B25 WorthRipping market box per pack at 24 packs: $295.55 / 24 packs = $12.31 per pack",
+          "B25 WorthRipping market box vs case box: $295.55 - $87.49 = $208.06 per box; $87.49 / $295.55 = 0.30x",
+          "B25 twelve WorthRipping market boxes: 12 x $295.55 = $3,546.60; $3,546.60 - $1,049.83 = $2,496.77; $1,049.83 / $3,546.60 = 0.30x",
+          "B25 market box disagreement: $531.20 - $295.55 = $235.65",
+          "B25 lowest listing box per pack at 24 packs: $169.82 / 24 packs = $7.08 per pack",
+          "B25 lowest listing box vs case box: $169.82 - $87.49 = $82.33 per box",
+          "B25 PullNomics market pack vs case pack: $23.61 - $3.65 = $19.96 per pack; $3.65 / $23.61 = 0.15x",
+          "B25 PopnGames box vs case box: $349.99 - $87.49 = $262.50 per box",
+          "B25 top 10 total: $1,945.17 + $1,357.89 + $479.76 + $265.63 + $111.59 + $105.66 + $104.71 + $70.41 + $43.62 + $32.01 = $4,516.45",
+          "B25 number 1 share: $1,945.17 / $4,516.45 = 43.07% of the top 10",
+          "B25 top 2 total: $1,945.17 + $1,357.89 = $3,303.06; $3,303.06 / $4,516.45 = 73.13% of the top 10",
+          "B25 top 3 total: $3,303.06 + $479.76 = $3,782.82; $3,782.82 / $4,516.45 = 83.76% of the top 10",
+          "B25 God Rare pair total: $1,945.17 + $265.63 = $2,210.80; $2,210.80 / $4,516.45 = 48.95% of the top 10",
+          "B25 Secret Rare four total: $1,357.89 + $479.76 + $111.59 + $104.71 = $2,053.95; $2,053.95 / $4,516.45 = 45.48% of the top 10",
+          "B25 Special Leader Rare four total: $105.66 + $70.41 + $43.62 + $32.01 = $251.70; $251.70 / $4,516.45 = 5.57% of the top 10",
+          "B25 number 1 vs number 10: $1,945.17 / $32.01 = 60.77x",
+          "B25 number 1 vs number 2 gap: $1,945.17 - $1,357.89 = $587.28",
+          "B25 number 2 vs number 3 gap: $1,357.89 - $479.76 = $878.13",
+          "B25 number 3 vs number 4 gap: $479.76 - $265.63 = $214.13",
+          "B25 number 4 vs number 5 gap: $265.63 - $111.59 = $154.04",
+          "B25 number 5 vs number 6 gap: $111.59 - $105.66 = $5.93",
+          "B25 number 6 vs number 7 gap: $105.66 - $104.71 = $0.95",
+          "B25 number 7 vs number 8 gap: $104.71 - $70.41 = $34.30",
+          "B25 number 8 vs number 9 gap: $70.41 - $43.62 = $26.79",
+          "B25 number 9 vs number 10 gap: $43.62 - $32.01 = $11.61",
+          "B25 number 1 card vs the case: $1,945.17 - $1,049.83 = $895.34 above the case; $1,945.17 / $1,049.83 = 1.85x",
+          "B25 top 10 against the case: $4,516.45 / $1,049.83 = 4.30x",
+          "B25 top 10 against the case box: $4,516.45 / $87.49 = 51.62x",
+          "B25 top 10 against twelve PullNomics market boxes: $4,516.45 / $6,374.40 = 0.71x",
+          "B25 Buu disagreement: $700.00 - $479.76 = $220.24; $700.00 / $479.76 = 1.46x",
+          "B25 Gogeta Secret Rare disagreement: $1,357.89 - $299.95 = $1,057.94; $1,357.89 / $299.95 = 4.53x",
+          "B25 Gogeta Secret Rare vs SpreadTCG: $1,357.89 - $394.96 = $962.93",
+          "B25 God Rare pair gap: $1,945.17 - $265.63 = $1,679.54; $1,945.17 / $265.63 = 7.32x",
+          "B25 Apex Secret Rare vs God Rare: $1,945.17 - $104.71 = $1,840.46; $1,945.17 / $104.71 = 18.58x",
+          "B25 Gogeta Secret Rare vs God Rare: $1,357.89 - $265.63 = $1,092.26; $1,357.89 / $265.63 = 5.11x",
+          "B25 set totals disagreement: $7,768.25 - $2,594.90 = $5,173.35; $7,768.25 / $2,594.90 = 2.99x",
+          "B25 top 10 against KiBinder set value: $4,516.45 / $7,768.25 = 58.14%",
+          "B25 top 10 against OGcards set value: $4,516.45 / $2,594.90 = 174.05%",
+          "B25 WorthRipping box EV vs box: $159.00 - $295.55 = -$136.55 on average after selling costs",
+          "B25 WorthRipping box EV vs case box: $159.00 - $87.49 = $71.51 above the case box on average after selling costs",
+          "B25 WorthRipping case EV: 12 x $159.00 = $1,908.00; $1,908.00 - $1,049.83 = $858.17 above the case price on average after selling costs",
+          "B25 typical box vs case box: $87.49 - $50.00 = $37.49; the typical box sits $37.49 below the case box",
+          "B25 typical box vs WorthRipping box: $295.55 - $50.00 = $245.55 below the box",
+          "B25 Special Rare per 24-pack box on the WorthRipping estimate: 24 packs / 11 packs per Special Rare = 2.18 per box",
+          "B25 Special Rare per case on the WorthRipping estimate: 288 packs / 11 packs per Special Rare = 26.18 per case",
+          "B25 Secret Rare per 24-pack box on the WorthRipping estimate: 24 packs / 144 packs per Secret Rare = 0.17 per box; 144 packs / 24 packs = 1 in 6.00 boxes",
+          "B25 Secret Rare per case on the WorthRipping estimate: 288 packs / 144 packs per Secret Rare = 2.00 per case",
+          "B25 God Rare per 24-pack box on the WorthRipping estimate: 24 packs / 998 packs per God Rare = 0.02 per box; 998 packs / 24 packs = 1 in 41.58 boxes",
+          "B25 God Rare per case on the WorthRipping estimate: 288 packs / 998 packs per God Rare = 0.29 per case",
+          "B25 specific Secret Rare chase on the WorthRipping estimate: 144 packs x 4 Secret Rares = 576 packs; 576 packs / 24 packs = 24.00 boxes; 24.00 boxes / 12 boxes = 2.00 cases; 2.00 cases x $1,049.83 = $2,099.66",
+          "B25 specific God Rare chase on the WorthRipping estimate: 998 packs x 2 God Rares = 1,996 packs; 1,996 packs / 24 packs = 83.17 boxes; 83.17 boxes / 12 boxes = 6.93 cases; 6.93 cases x $1,049.83 = $7,275.32",
+          "B25 specific Secret Rare per case on the WorthRipping estimate: 288 packs / 576 packs = 0.50 per case",
+          "B25 specific God Rare per case on the WorthRipping estimate: 288 packs / 1,996 packs = 0.14 per case",
+          "B25 case vs B26 case: $1,150.30 - $1,049.83 = $100.47; $1,049.83 / $1,150.30 = 0.91x",
+          "B25 case vs B28 case: $1,085.02 - $1,049.83 = $35.19; $1,049.83 / $1,085.02 = 0.97x",
+          "B25 case vs B30 case: $1,420.37 - $1,049.83 = $370.54; $1,049.83 / $1,420.37 = 0.74x",
+          "B25 case vs B32 case: $1,067.43 - $1,049.83 = $17.60; $1,049.83 / $1,067.43 = 0.98x",
+          "B25 case box vs B26 PullNomics market box: $677.00 - $87.49 = $589.51; $87.49 / $677.00 = 0.13x",
+          "B25 case box vs B27 case box: $659.81 - $87.49 = $572.32; $87.49 / $659.81 = 0.13x",
+          "B25 case box vs B28 case box: $90.42 - $87.49 = $2.93; $87.49 / $90.42 = 0.97x",
+          "B25 case box vs B30 case box: $118.36 - $87.49 = $30.87",
+          "B25 case box vs B32 case box: $88.95 - $87.49 = $1.46"
+        ],
+        "note": "From the Warehouse: the question we get most in chat about B25 is whether $1,049.83 for a case is a misprint, because the number looks small next to the B27 case at $7,917.75. It is not a misprint. B25 is the cheapest Masters case on the shelf, and the case divides to $87.49 a box, $3.65 a pack, and $0.30 a card, which is the cheapest Dragon Ball box on either shelf. The case looks cheap because B25 boxes are cheap, not because the case is a bargain bin: the market box still costs $295.55 to $531.20 depending on which feed you trust.",
+        "paragraphs": [
+          "The case divides cleanly: twelve boxes of twenty-four packs of twelve cards, 288 packs, 3,456 cards, printed on the product page. The case is $1,049.83, or $87.49 a box, $3.65 a pack, and $0.30 a card, as of November 28, 2026. At 159.54 yen to the dollar, the November 27, 2026 ECB fixing, the case is 167,489.88 yen. November 28 is a Saturday, so no new fixing exists, and no B25-specific MSRP was found in a verifiable source.",
+          "The two market box reads disagree by $235.65, and this page does not average them. PullNomics prices the TCGplayer market box at $531.20 on November 28, 2026, $22.13 a pack, with the pack alone at $23.61. WorthRipping prices the box at $295.55 on November 27, 2026, $12.31 a pack, with a lowest listing of $169.82. Our case box is $443.71 below the PullNomics box, $208.06 below the WorthRipping box, and $82.33 below the lowest listing box, the first time a case box on this shelf has undercut every single-box read at once. Twelve PullNomics boxes cost $6,374.40 and twelve WorthRipping boxes $3,546.60, $5,324.57 and $2,496.77 above our case. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case, and the [B30 best cards guide](/blog/b30-best-cards/) runs this ranking on the set after B28.",
+          "The ten total $4,516.45, 4.30 times the case, and the number one card at $1,945.17 costs $895.34 more than the whole case. The set totals disagree by feed because of the God Rares: OGcards puts one of each version at $2,594.90, partial across 150 of 173 versions, leaving both God Rares unpriced, while KiBinder puts the live TCGplayer set value at $7,768.25, and TCGRate puts the set at $3,252. The top ten are 58.14% of the KiBinder total and 174.05% of the OGcards total. The [B32 best cards guide](/blog/b32-best-cards/) runs the same ranking on the newest Masters set."
+        ]
+      },
+      {
+        "h": "The practical layer: check the number, the finish, and the version before you pay",
+        "paragraphs": [
+          "Buy in this order. First, name the card by number, finish, and version: BT25-147 Secret Rare, not BT25-147 God Rare, because the same number spans $1,357.89 and $265.63 on the WorthRipping read. The God Rare carries the gold finish, and the Secret Rare carries the standard Secret Rare finish. Second, match the price to the source and the date: a WorthRipping God Rare price is one feed read, and a PullNomics market price is a feed average, not a sale you watched. Third, buy the sealed case only with the wrap intact and count twelve boxes on arrival.",
+          "Order the case from the [B25 sealed case product page](/product/dragon-ball-super-card-game-masters-b25-legend-of-the-dragon-balls-booster-box-s) and confirm the exact total at checkout or on WhatsApp. For singles, use a marketplace with buyer protection, and ask for a photo of the front and the back before paying. The Gogeta at BT25-147 is the trap card: the Secret Rare is $1,357.89 on WorthRipping and $299.95 on OGcards, and only the finish and the second source settle it. The [best Dragon Ball Masters booster box to buy guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) ranks the Masters boxes the same way, and the [best buy Dragon Ball cards Japanese guide](/blog/best-buy-dragon-ball-cards-japanese/) sets out the Japanese buying routes."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "Eight ways to spend on B25.",
+          "The case is the only row on our shelf, $443.71 below the PullNomics market box and $208.06 below the WorthRipping market box. Twelve market boxes cost $6,374.40 on PullNomics, and the top ten are 0.71 times that. The [Dragon Ball Fusion World booster box guide](/blog/dragon-ball-fusion-world-booster-box/) prices the other line's boxes the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (12)",
+              "$1,049.83",
+              "$87.49 a box, $3.65 a pack",
+              "Holding B25 sealed or opening the cheapest packs on the shelf against market boxes",
+              "Twelve boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "PullNomics market box",
+              "$531.20",
+              "$22.13",
+              "One box at a time",
+              "$443.71 above our case box per box"
+            ],
+            [
+              "WorthRipping market box",
+              "$295.55",
+              "$12.31",
+              "One box at the lower market read",
+              "$208.06 above our case box per box; a market read, not a sale"
+            ],
+            [
+              "Lowest listing box",
+              "$169.82",
+              "$7.08",
+              "The cheapest single box found",
+              "$82.33 above our case box, and a listing ask, not a sale"
+            ],
+            [
+              "PopnGames box",
+              "$349.99",
+              "$14.58",
+              "A retail listing to compare",
+              "$262.50 above our case box, and shown as not available"
+            ],
+            [
+              "The single (Goku God Rare)",
+              "$1,945.17",
+              "n/a",
+              "Owning the chase card",
+              "More than the whole case; the price is one WorthRipping read"
+            ],
+            [
+              "The top 10 singles",
+              "$4,516.45",
+              "n/a",
+              "Owning the ranked ten",
+              "4.30 times the case"
+            ],
+            [
+              "B28 case (12), for scale",
+              "$1,085.02",
+              "$90.42 a box, $3.77 a pack",
+              "The next set's case, for comparison",
+              "The B25 case costs $35.19 less"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no ranked list, no version split, no case math",
+        "note": "From the Warehouse: what we see most in chat after a B25 single sells is a buyer asking whether they overpaid, because three sites showed three prices for one card number. They did not overpay or underpay on the number alone: the Secret Rare and the God Rare share BT25-147, and only the gold finish settles which one changed hands. We rank the Secret Rare at $1,357.89 because WorthRipping's read is the only full-list one, and we print the $299.95 OGcards read next to it so the gap stays visible instead of hidden.",
+        "paragraphs": [
+          "The fan-out ran ten sub-queries, from B25 best cards and case price to the Gogeta God Rare price and the Japanese release date. The top three Google results are a floor, not a ranking: Cardmarket lists the 174 singles sorted by price with no ranking, TCGHamster lists the 172-card checklist with UK prices and no market price for either God Rare, and OGcards lists the checklist with no ranking. No ranked B25 best-cards list in dollars exists in the top three, and none of the three divides a sealed case, splits the Secret Rare from the God Rare on one number, or flags a feed disagreement.",
+          "PullNomics on November 28, 2026 is the only dated full-list TCGplayer read, and WorthRipping on November 27, 2026 is the only live read pricing all ten cards in one list, so this page ranks on WorthRipping and cross-checks every card it can. The number one card has no second raw-market price in dollars, and the Secret Rare at rank two disagrees by $1,057.94 between WorthRipping and OGcards, and this page says so instead of dressing one read as settled. No best-cards list prices sealed B25, yet the sealed price decides the buy. The [B29 best cards guide](/blog/b29-best-cards/) runs the same ranking on the next set."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The two God Rares and the four Secret Rares are $4,264.75 together, 94.43% of the ten, and the four Special Leader Rares are the whole rest at $251.70. Below the God Rares the ladder falls off a cliff: the Buu at $479.76, then the Gogeta God Rare at $265.63, then nothing until the Fist of Fate at $111.59. The gap between rank two and rank three, $878.13, is the widest in the ten. The [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) ranks the Japanese routes the same way.",
+          "Below the ten, the feeds part company again. OGcards prices SS4 Gogeta VS Omega Shenron, Clash With Ultimate Evil (Special Rare) BT25-137 at $86.27 on November 27, 2026, which would rank seventh on its own read, while WorthRipping does not place it in its top ten at all. The highest base Super Rare on OGcards is Demigra, Wormhole Opened BT25-120 at $12.26. The [Dragon Ball TCG Japan price guide](/blog/dragon-ball-tcg-japan-price/) carries the Japanese price reads."
+        ]
+      },
+      {
+        "h": "The risk layer: one disputed rank two, a box that loses money, and the version check",
+        "paragraphs": [
+          "Bandai publishes no pull rates for Masters, so every rate below is a WorthRipping estimate checked October 15, 2026. Special Rare: 1 in 11 packs, 2.18 per box, 26.18 per case. Secret Rare: 1 in 144 packs, 0.17 per box, 1 in 6.00 boxes, 2.00 per case. God Rare: 1 in 998 packs, 0.02 per box, 1 in 41.58 boxes, 0.29 per case. WorthRipping puts one specific God Rare at 1 in 84 boxes.",
+          "Four Secret Rares share the 1-in-144 slot, so one specific Secret Rare averages 576 packs, 24.00 boxes, 2.00 cases, $2,099.66. Two God Rares share the 1-in-998 slot, so one specific God Rare averages 1,996 packs, 83.17 boxes, 6.93 cases, $7,275.32. A case holds 0.50 of one specific Secret Rare and 0.14 of one specific God Rare, so buy the single. The price risk is the thin top: the number one card has exactly one live raw-market read in dollars, $1,945.17 on WorthRipping, with Cardmarket asking from 1,729 euros and a January 2026 TCGplayer screen showing $2,999.99. The rank two card is the open dispute: WorthRipping $1,357.89 against OGcards $299.95, SpreadTCG $394.96, and Cardmarket from 198 euros.",
+          "The Special Leader Rares disagree by feed in both directions, which is why this page ranks them on one feed only. WorthRipping prices the BT25-098 at $105.66 against OGcards $21.10, the BT25-070 at $70.41 against $15.87, and the BT25-036 at $32.01 against $122.75, where OGcards is the higher read. The box risk: WorthRipping's November 27, 2026 read puts $159 of cards inside a $295.55 box after selling costs, $136.55 below the box on average, but the typical box is $50, $245.55 below the box and $37.49 below our case box, 90 of 100 boxes lose money, and 67% of the average comes from cards in fewer than 1 in 10 boxes. Against our case box the average box still clears $71.51, and a twelve-box case averages $1,908 of cards against the $1,049.83 case price. Check the seal and pack order before opening."
+        ]
+      },
+      {
+        "h": "Context: B25 in the Masters line: the 25th set, the 7th anniversary set, and the cheapest case on the shelf",
+        "paragraphs": [
+          "B25 is Masters' 25th set, released in English on July 19, 2024, with pre-release cards dated July 12, 2024. The checklist counts 172 listings: 60 Common, 30 Uncommon, 29 Rare, 18 Super Rare, 14 Special Rare, 8 Special Leader Rare, 7 Dragon Ball Rare, 4 Secret Rare, and 2 God Rare. Every box holds 24 packs of 12 cards, and the set ran two 7th anniversary campaigns, seven limited edition cards for the 7th anniversary of the game. The Dragon Ball Rares are seven wish cards, one per Dragon Ball, led by Son Goku Vs. Frieza, Final Battle Wish BT25-139. The Japanese release date was not verified on an official source.",
+          "B25 sealed is the cheapest Masters case on our shelf. The B26 case is $1,150.30, $100.47 above the B25 case, the B28 case is $1,085.02, $35.19 above it, and the B30 case is $1,420.37, $370.54 above it. The B25 case box at $87.49 is $589.51 below the B26 PullNomics market box at $677.00 and $572.32 below the B27 case box at $659.81. B25 cards play in Masters only. The [B27 best cards guide](/blog/b27-best-cards/) runs this ranking on the Zenkai finale."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named God Rare: two cards at 1 in 998 packs with no published pull rate is a lottery, not a chase, so buy the single when it trades. It is not for anyone who wants a single English box: only the twelve-box case is on the shelf. It is not for anyone who pays a Secret Rare price for a God Rare, or the reverse, without checking the finish: BT25-147 exists as both at $1,357.89 and $265.63 on the same read. It is not for anyone who needs the Gogeta Secret Rare price to hold: it rests on one WorthRipping read against feeds that disagree by hundreds of dollars."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own a God Rare, own the ten, hold B25 sealed, or open packs below the market box price.",
+          "If the job is a God Rare, buy the single: the Goku God Rare is $1,945.17 on the November 27, 2026 WorthRipping read, and check the number, BT25-148, and the gold finish, because the Secret Rare of the same number is $104.71.",
+          "If the job is the ten, buy the English case at $1,049.83, twelve boxes at $87.49 each, and treat the God Rare as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $295.55, not a case you cannot split, and re-divide at 24 packs before you pay.",
+          "If the job is cheap packs, compare the case pack price, $3.65, against the market box pack price, $12.31 on WorthRipping and $22.13 on PullNomics, before you pay.",
+          "Check the wrap and seams before you pay, check the finish before you pay a God Rare price, and read the version on any Gogeta, because only the Secret Rare BT25-147 is $1,357.89 on WorthRipping and OGcards prices it at $299.95."
+        ],
+        "h": "Action layer: the B25 best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order: every price here is stamped November 27 or 28, 2026, so re-divide before you pay. Shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "b25-best-cards",
+    "takeaway": [
+      "The B25 top ten, on the WorthRipping market read of November 27, 2026, totals $4,516.45, and the Goku God Rare is $1,945.17 of it, 43.07%. The top two are $3,303.06, 73.13%, the top three are $3,782.82, 83.76%, and the four Special Leader Rares are $251.70, 5.57%. Same ranking on the next set: [B26 best cards](/blog/b26-best-cards/).",
+      "On our shelf as of November 28, 2026, there is exactly one B25 product: the English sealed case at $1,049.83, twelve boxes at $87.49 a box, $3.65 a pack, $0.30 a card, $443.71 below the PullNomics market box per box and $208.06 below the WorthRipping market box. The number one card costs $895.34 more than the whole case. Same ranking on the set after that: [B27 best cards](/blog/b27-best-cards/).",
+      "It is worth buying as B25 sealed at a shelf price below every market box read, and it is not worth buying as a way to own one named God Rare. Same division, every case: [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/).",
+      "No ranked B25 best-cards list in dollars exists yet: the top three results are a Cardmarket price-sorted list, a TCGHamster checklist with no God Rare prices, and an OGcards checklist with no ranking. Same ranking on the next set: [B28 best cards](/blog/b28-best-cards/).",
+      "The value concentrates in the God Rares and Secret Rares: the two God Rares and four Secret Rares are $4,264.75, 94.43% of the ten, the four Special Leader Rares are $251.70, 5.57%, and no Dragon Ball Rare cracks the ten. Japanese buying routes, ranked the same way: [best Dragon Ball TCG Japan](/blog/best-dragon-ball-tcg-japan/).",
+      "A specific God Rare averages 6.93 cases, $7,275.32 of packs at our case price, on the WorthRipping estimate, and the number one card has only one raw-market read in dollars, with no God Rare pull rate published at all. Buy the single, or buy the case to hold it sealed. Masters boxes, ranked: [best Dragon Ball Masters booster box to buy](/blog/best-dragon-ball-masters-booster-box-to-buy/).",
+      "B25 is the 25th Masters set with 172 listings, released in English on July 19, 2024, and a twelve-box case that sits $100.47 below the B26 case and $35.19 below the B28 case. Japanese price reads: [Dragon Ball TCG Japan price](/blog/dragon-ball-tcg-japan-price/).",
+      "This guide is not for anyone chasing one named God Rare by opening boxes, anyone who wants a single English box, or anyone who pays a God Rare price without checking the finish, because BT25-147 exists as a Secret Rare and a God Rare at $1,357.89 and $265.63 on the same read. Same ranking on the newest Masters set: [B32 best cards](/blog/b32-best-cards/).",
+      "Carry the checklist in order: the Goku God Rare single is $1,945.17, the case is $1,049.83 at $87.49 a box, the market box is $295.55 on WorthRipping and $531.20 on PullNomics, and the case pack at $3.65 beats the market box pack at $12.31. The other line's boxes, divided the same way: [Dragon Ball Fusion World booster box price](/blog/dragon-ball-fusion-world-booster-box-price/).",
+      "The set after this one: the [B26 best cards guide](/blog/b26-best-cards/) ranks the ten priced cards of Ultimate Advent, topped by the $556.14 SSB Gogeta, against our $1,150.30 case, and the [B27 best cards guide](/blog/b27-best-cards/) runs the same ranking on History of Z.",
+      "The set before this one: the [B24 best cards guide](/blog/b24-best-cards/) ranks the ten priced cards of Beyond Generations, topped by the $1,896.93 Goku SPR, against our $1,184.73 case."
+    ]
+  },
   "b26-best-cards": {
     "datePublished": "2026-11-28",
     "faqs": [
@@ -432,7 +943,9 @@ export const POSTS: Record<string, BlogPost> = {
       "B26 is the 26th Masters set with 164 cards, English release October 11, 2024, and a twelve-box case that sits $65.28 above the B28 case and $316.60 below the B29 case.",
       "This guide is not for anyone chasing one named God Rare by opening boxes, anyone who wants a single English box, or anyone who pays without checking the finish, because BT26-138 exists as a Secret Rare and as a God Rare and the God Rare reads cheaper than the Secret Rare.",
       "Carry the checklist in order: the Gogeta Secret Rare single is $556.14, the case is $1,150.30 at $95.86 a box, the market box is $677.00 on PullNomics or $383.46 on WorthRipping, and the case pack at $3.99 beats the market box pack at $28.21.",
-      "The set after this one: the [B27 best cards guide](/blog/b27-best-cards/) ranks the ten priced cards of History of Z, topped by the $10,409.15 Broly serial, against our $7,917.75 case."
+      "The set after this one: the [B27 best cards guide](/blog/b27-best-cards/) ranks the ten priced cards of History of Z, topped by the $10,409.15 Broly serial, against our $7,917.75 case.",
+      "The set before this one: the [B25 best cards guide](/blog/b25-best-cards/) ranks the ten priced cards of Legend of the Dragon Balls, topped by the $1,945.17 Goku God Rare, against our $1,049.83 case.",
+      "Two sets back: the [B24 best cards guide](/blog/b24-best-cards/) ranks the ten priced cards of Beyond Generations, topped by the $1,896.93 Goku SPR, against our $1,184.73 case."
     ]
   },
   "b27-best-cards": {
@@ -5575,7 +6088,8 @@ export const POSTS: Record<string, BlogPost> = {
       "Companion guide: the [best Dragon Ball TCG from Japan guide](/blog/best-dragon-ball-tcg-japan/) puts the Masters case ladder beside Fusion World and Manga Booster on one shelf, and names B25 the cheapest English case at $1,235.10.",
       "The newest Masters set is B32 Chromatic Ascension, released November 27, 2026: the [B32 best cards guide](/blog/b32-best-cards/) ranks the eight cards with a market price, topped by the $240 Gohan, against our $1,067.43 case. The [B29 best cards guide](/blog/b29-best-cards/) ranks the ten priced cards of Fearsome Rivals, the set before B30.",
       "The set before B32: the [B31 best cards guide](/blog/b31-best-cards/) ranks the ten priced cards of Impact Beyond Dimensions, topped by the $397.74 Kaio-ken Vegito, against our $1,536.63 case.",
-      "The most expensive Masters case on the shelf: the [B27 best cards guide](/blog/b27-best-cards/) ranks the ten priced cards of History of Z, topped by the $10,409.15 Broly serial, against our $7,917.75 case."
+      "The most expensive Masters case on the shelf: the [B27 best cards guide](/blog/b27-best-cards/) ranks the ten priced cards of History of Z, topped by the $10,409.15 Broly serial, against our $7,917.75 case.",
+      "Cheapest Dragon Ball case-split box on the shelf as of November 28, 2026: the [B25 best cards guide](/blog/b25-best-cards/) ranks the ten priced cards of Legend of the Dragon Balls, topped by the $1,945.17 Goku God Rare, against our $1,049.83 case at $87.49 a box."
     ]
   },
   "best-dragon-ball-super-card-game-japanese-booster-box": {
@@ -93037,7 +93551,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the Fusion World version of this question, the [where to buy Dragon Ball Fusion World Japanese guide](/blog/where-to-buy-dragon-ball-fusion-world-japanese/) prices the five Japanese listings as titled, FB08 at $22.12 to FB09 at $54.50, and runs the Buyee proxy stack for a sealed Japanese box at list, $37.13 to $45.58 before international shipping.",
       "For the newest Dragon Ball set, the [B32 Chromatic Ascension best cards guide](/blog/b32-best-cards/) prices the eight cards with a market read against our $1,067.43 case at $88.95 a box.",
       "For the Masters set before that, the [B30 best cards guide](/blog/b30-best-cards/) ranks the ten priced cards of Three Glorious Fighters, topped by the $1,643.55 SS4 Son Goku God Rare, against our $1,420.37 case. The set before B30: the [B28 best cards guide](/blog/b28-best-cards/) ranks the ten priced cards of Prismatic Clash.",
-      "For the Masters set two back from B28, the [B26 best cards guide](/blog/b26-best-cards/) ranks the ten priced cards of Ultimate Advent, topped by the $556.14 SSB Gogeta Secret Rare, against our $1,150.30 case."
+      "For the Masters set two back from B28, the [B26 best cards guide](/blog/b26-best-cards/) ranks the ten priced cards of Ultimate Advent, topped by the $556.14 SSB Gogeta Secret Rare, against our $1,150.30 case.",
+      "For the Masters set before B25, the [B24 best cards guide](/blog/b24-best-cards/) ranks the ten priced cards of Beyond Generations, topped by the $1,896.93 Goku SPR, against our $1,184.73 case."
     ]
   },
   "where-to-buy-japanese-booster-box": {
