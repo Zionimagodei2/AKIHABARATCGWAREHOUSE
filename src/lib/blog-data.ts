@@ -191,6 +191,486 @@ export const POSTS: Record<string, BlogPost> = {
       "If the question is which sealed special set to hold rather than which card to chase, the [best Japanese Pokemon special set](/blog/best-japanese-pokemon-special-set-to-buy/) prices the regional boxes, the anniversary ladder, and the themed sets from one shelf."
     ]
   },
+  "b30-best-cards": {
+    "datePublished": "2026-11-28",
+    "faqs": [
+      {
+        "a": "The SS4 Son Goku, Blasting Through the Demon Realm, God Rare BT30-151, at $1,643.55 on the WorthRipping market read of November 27, 2026, for an ungraded English card. The price is thin: TCGplayer has no firm market for the card, TCGHamster has no UK price for it, and the only second read is a graded one, $1,175 for a PSA 10 on Assetra, so treat $1,643.55 as one read, not a settled market.",
+        "q": "What is the most valuable B30 card?"
+      },
+      {
+        "a": "The English sealed case is $1,420.37, twelve boxes at $118.36 a box, $4.93 a pack, as of November 28, 2026. That is $25.40 below the $143.76 MSRP box per box, $103.47 below the $221.83 PullNomics market box, and $1,241.59 below twelve market boxes. Buy the case to hold B30 sealed or to open cheap packs; buy the single to own a God Rare.",
+        "q": "Is the B30 case on your shelf a good price?"
+      },
+      {
+        "a": "Bandai publishes no pull rates for Masters. WorthRipping's estimates, checked October 14, 2026 and borrowed from boxes with the same pack layout, are Special Rare 1 in 11 packs, Secret Rare 1 in 144 packs, and God Rare 1 in 998 packs. On those estimates a case holds 2.00 Secret Rares and 0.29 God Rares on average, and one specific God Rare averages 10.40 cases, $14,771.85 of packs at our case price.",
+        "q": "What are the B30 pull rates?"
+      }
+    ],
+    "h1": "B30 Three Glorious Fighters Best Cards: The 10 With a Price, Priced Against Our $1,420.37 Case",
+    "intro": [
+      "Short answer: the best B30 card with a price today is the SS4 Son Goku, Blasting Through the Demon Realm, God Rare BT30-151, at $1,643.55 on the WorthRipping market read of November 27, 2026, and the ten priced cards add to $5,964.47. The three God Rares take $4,595.80 of that total, 77.05%, and the other seven share $1,368.67. Our shelf, November 28, 2026, carries the English sealed case at $1,420.37: twelve boxes at $118.36 a box, $4.93 a pack, $0.41 a card, $25.40 below MSRP and $103.47 below the market box. Buy the case to hold B30 sealed, buy the single to own a God Rare, and do not chase one named God Rare by opening boxes.",
+      "Who this is for: collectors ranking the B30 chase eight months after release, buyers weighing a twelve-box case against a $221.83 market box, and players building from the set that closes the Energy Marker series. Who it is not for: anyone chasing one named God Rare by opening boxes, anyone who wants a single English box, and anyone who needs a thin price to hold."
+    ],
+    "metaDescription": "B30's 10 best cards on live market reads, Nov 28, 2026: the $1,643.55 SS4 Goku God Rare, the $1,400 Bulma, and our $1,420.37 case at $118.36 a box.",
+    "metaTitle": "B30 Three Glorious Fighters Best Cards: 10 Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: ten priced cards, three God Rares on top, and a case below every market box",
+        "paragraphs": [
+          "Every value below is an ungraded English card market price. Ranks one and two come from WorthRipping, read November 27, 2026, because PullNomics has no firm TCGplayer market price for either card yet. Ranks three to ten come from PullNomics, read November 28, 2026, on TCGplayer market prices. SS4 Son Goku (God Rare) BT30-151 is $1,643.55. Family Kamehameha (God Rare) BT30-150 is $1,552.25. Bulma (God Rare) BT30-149 is $1,400.00. Then SS4 Son Goku (Secret Rare) BT30-151 at $416.08, Spirit (Special Rare) BT30-015 at $212.30, Bulma (Secret Rare) BT30-149 at $193.19, Family Kamehameha (Secret Rare) BT30-150 at $192.57, Bulma // Bulma, Adventurous Bunny Girl (SLR) BT30-016 at $132.77, Son Goku, Pan, & Trunks // Exciting Adventures (Special Leader Rare) BT30-108 at $123.52, and Universe 7 Team-Up (SLR) BT30-081 at $98.24. The ten add to $5,964.47.",
+          "The God Rare trio is $4,595.80, 77.05% of the ten, and 3.36 times the other seven combined. The number one card is $1,643.55, 27.56% of the ten and 16.73 times the tenth card at $98.24, while the top two are $3,195.80, 53.58%, and the top five are $5,224.18, 87.59%. Ranks four to ten total $1,368.67, 22.95%; the bottom three total $354.53, 5.94%. Nine of the ten clear $100; the gold-stamped History of Z Energy Marker sits just outside at $95.23. The three Secret Rares total $801.84, 13.44%; the three Special Leader Rares total $354.53, 5.94%. No Super Rare or Concept Rare cracks the ten, and no Common, Uncommon, or Rare does.",
+          "Check the number and the finish before you pay a chase price: BT30-149, BT30-150, and BT30-151 each exist as a Secret Rare and as a God Rare, and only the God Rare finish carries the God Rare price. The same split decides the Bulma at $1,400.00 against the Bulma Secret Rare at $193.19, a $1,206.81 gap on one card number. One correction to the pre-release talk: there is no Broly God Rare or Secret Rare in B30. The trailer teased silhouettes, and Broly appears only as a Concept Rare, BT30-146, at $19.65. The [B32 best cards guide](/blog/b32-best-cards/) runs this ranking on the newest Masters set, and the [B31 best cards guide](/blog/b31-best-cards/) runs it on the set between B30 and B32."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "B30 English case per box: $1,420.37 / 12 boxes = $118.36 per box",
+          "B30 English case per pack: $1,420.37 / 288 packs = $4.93 per pack",
+          "B30 English case per card: $1,420.37 / 3,456 cards = $0.41 per card",
+          "B30 English box at MSRP: 24 packs x $5.99 = $143.76",
+          "B30 English MSRP case: 12 x $143.76 = $1,725.12",
+          "B30 English case vs MSRP case: $1,725.12 - $1,420.37 = $304.75 below MSRP; $1,420.37 / $1,725.12 = 0.82x",
+          "B30 English case box vs MSRP box: $143.76 - $118.36 = $25.40 below MSRP per box; $118.36 / $143.76 = 0.82x",
+          "B30 English case in yen: $1,420.37 x 159.54 yen = 226,605.83 yen",
+          "B30 English case box in yen: $118.36 x 159.54 yen = 18,883.15 yen",
+          "B30 PullNomics market box per pack at 24 packs: $221.83 / 24 packs = $9.24 per pack",
+          "B30 PullNomics market box vs case box: $221.83 - $118.36 = $103.47 per box; $118.36 / $221.83 = 0.53x",
+          "B30 twelve PullNomics market boxes: 12 x $221.83 = $2,661.96; $2,661.96 - $1,420.37 = $1,241.59; $1,420.37 / $2,661.96 = 0.53x",
+          "B30 WorthRipping market box per pack at 24 packs: $189.33 / 24 packs = $7.89 per pack",
+          "B30 WorthRipping market box vs case box: $189.33 - $118.36 = $70.97 per box; $118.36 / $189.33 = 0.63x",
+          "B30 twelve WorthRipping market boxes: 12 x $189.33 = $2,271.96; $2,271.96 - $1,420.37 = $851.59",
+          "B30 PullNomics market case vs our case: $2,523.00 - $1,420.37 = $1,102.63; $1,420.37 / $2,523.00 = 0.56x",
+          "B30 top 10 total: $1,643.55 + $1,552.25 + $1,400.00 + $416.08 + $212.30 + $193.19 + $192.57 + $132.77 + $123.52 + $98.24 = $5,964.47",
+          "B30 God Rare trio total: $1,643.55 + $1,552.25 + $1,400.00 = $4,595.80; $4,595.80 / $5,964.47 = 77.05% of the top 10",
+          "B30 top 2 total: $1,643.55 + $1,552.25 = $3,195.80; $3,195.80 / $5,964.47 = 53.58% of the top 10",
+          "B30 top 5 total: $1,643.55 + $1,552.25 + $1,400.00 + $416.08 + $212.30 = $5,224.18; $5,224.18 / $5,964.47 = 87.59% of the top 10",
+          "B30 ranks 4 to 10 total: $416.08 + $212.30 + $193.19 + $192.57 + $132.77 + $123.52 + $98.24 = $1,368.67; $1,368.67 / $5,964.47 = 22.95% of the top 10",
+          "B30 bottom 3 total: $132.77 + $123.52 + $98.24 = $354.53; $354.53 / $5,964.47 = 5.94% of the top 10",
+          "B30 number 1 share: $1,643.55 / $5,964.47 = 27.56% of the top 10",
+          "B30 number 1 vs number 10: $1,643.55 / $98.24 = 16.73x",
+          "B30 number 1 vs number 2 gap: $1,643.55 - $1,552.25 = $91.30",
+          "B30 rank 3 vs rank 4 gap: $1,400.00 - $416.08 = $983.92",
+          "B30 two Secret Rares gap: $193.19 - $192.57 = $0.62",
+          "B30 God Rare trio vs the other seven: $4,595.80 / $1,368.67 = 3.36x",
+          "B30 top 10 against the case: $5,964.47 / $1,420.37 = 4.20x",
+          "B30 top 10 against the case box: $5,964.47 / $118.36 = 50.39x",
+          "B30 top 10 against twelve PullNomics market boxes: $5,964.47 / $2,661.96 = 2.24x",
+          "B30 God Rare trio against the case: $4,595.80 / $1,420.37 = 3.24x",
+          "B30 number 1 card vs the case: $1,643.55 - $1,420.37 = $223.18 above the case",
+          "B30 Bulma God Rare cross-check: $1,400.00 - $1,301.47 = $98.53; $98.53 / $1,301.47 = 7.57%",
+          "B30 WorthRipping box EV per box: $129.00 cards inside after selling costs; $189.33 - $129.00 = $60.33 lost per box on average",
+          "B30 WorthRipping case EV: 12 x $129.00 = $1,548.00; $1,548.00 - $1,420.37 = $127.63 above the case price on average after selling costs",
+          "B30 case box EV: $129.00 - $118.36 = $10.64 above the case box on average after selling costs",
+          "B30 Special Rare per 24-pack box on the WorthRipping estimate: 24 packs / 11 packs per Special Rare = 2.18 per box",
+          "B30 Special Rare per case on the WorthRipping estimate: 288 packs / 11 packs per Special Rare = 26.18 per case",
+          "B30 Secret Rare per 24-pack box on the WorthRipping estimate: 24 packs / 144 packs per Secret Rare = 0.17 per box; 144 packs / 24 packs = 1 in 6.00 boxes",
+          "B30 Secret Rare per case on the WorthRipping estimate: 288 packs / 144 packs per Secret Rare = 2.00 per case",
+          "B30 God Rare per 24-pack box on the WorthRipping estimate: 24 packs / 998 packs per God Rare = 0.02 per box; 998 packs / 24 packs = 1 in 41.58 boxes",
+          "B30 God Rare per case on the WorthRipping estimate: 288 packs / 998 packs per God Rare = 0.29 per case",
+          "B30 specific Secret Rare chase on the WorthRipping estimate: 144 packs x 3 Secret Rares = 432 packs; 432 packs / 24 packs = 18.00 boxes; 18.00 boxes / 12 boxes = 1.50 cases; 1.50 cases x $1,420.37 = $2,130.56",
+          "B30 specific God Rare chase on the WorthRipping estimate: 998 packs x 3 God Rares = 2,994 packs; 2,994 packs / 24 packs = 124.75 boxes; 124.75 boxes / 12 boxes = 10.40 cases; 10.40 cases x $1,420.37 = $14,771.85",
+          "B30 specific Secret Rare per case on the WorthRipping estimate: 288 packs / 432 packs = 0.67 per case",
+          "B30 specific God Rare per case on the WorthRipping estimate: 288 packs / 2,994 packs = 0.10 per case",
+          "B30 six Concept Rares total: $20.44 + $19.65 + $18.37 + $15.53 + $13.20 + $11.45 = $98.64; $98.64 - $98.24 = $0.40 above the tenth card",
+          "B30 case vs B31 case: $1,536.63 - $1,420.37 = $116.26; $1,420.37 / $1,536.63 = 0.92x",
+          "B31 case box: $1,536.63 / 12 boxes = $128.05 per box; $128.05 - $118.36 = $9.69; $118.36 / $128.05 = 0.92x",
+          "B31 case pack: $128.05 / 24 packs = $5.34 per pack; $5.34 - $4.93 = $0.41; $4.93 / $5.34 = 0.92x",
+          "B30 case vs B32 case: $1,420.37 - $1,067.43 = $352.94; $1,420.37 / $1,067.43 = 1.33x",
+          "B32 case box: $1,067.43 / 12 boxes = $88.95 per box; $118.36 - $88.95 = $29.41; $118.36 / $88.95 = 1.33x",
+          "B30 OGcards partial set cost vs case: $4,085.51 / $1,420.37 = 2.88x",
+          "B30 KiBinder set value vs case: $6,861.97 / $1,420.37 = 4.83x",
+          "B30 top 10 vs OGcards partial set cost: $5,964.47 / $4,085.51 = 1.46x"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: twelve boxes, twenty-four packs each, twelve cards each, 288 packs and 3,456 cards. The case is $1,420.37, or $118.36 a box, $4.93 a pack, and $0.41 a card, as of November 28, 2026. At $5.99 MSRP a pack, a box is $143.76, so the case box sits $25.40 below MSRP, at 0.82 times, and the case sits $304.75 below the $1,725.12 MSRP case. At 159.54 yen to the dollar, the November 27, 2026 ECB fixing, the case is 226,605.83 yen and the box is 18,883.15 yen. The live product page states the case count plainly: 12 booster boxes, 24 packs per box, 12 cards per pack.",
+          "The two market box reads disagree. PullNomics prices the TCGplayer market box at $221.83 on November 28, 2026, $9.24 a pack, while WorthRipping prices the box at $189.33 on November 27, 2026, $7.89 a pack. Our case box is $103.47 below the PullNomics box and $70.97 below the WorthRipping box per box. Twelve PullNomics boxes cost $2,661.96, $1,241.59 above our case, and twelve WorthRipping boxes cost $2,271.96, $851.59 above it. PullNomics also prices a TCGplayer market case at $2,523.00, $1,102.63 above our case. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+          "The ten total $5,964.47, 4.20 times the case and 50.39 times one case box, so the case does not buy the ten, and the trio alone is 3.24 times the case. The number one card at $1,643.55 costs more than the whole case at $1,420.37, by $223.18. The set totals disagree by feed: OGcards puts one of each version at $4,085.51, partial across 245 of 277 versions updated November 19, 2026, while KiBinder puts the live TCGplayer set value at $6,861.97. Do not average the reads."
+        ]
+      },
+      {
+        "h": "The practical layer: check the number and the finish before you pay",
+        "paragraphs": [
+          "Buy in this order. First, name the card by number and finish: BT30-151 God Rare, not BT30-151 Secret Rare, because the same number spans $1,643.55 and $416.08. The set code sits at the bottom of the card, and the God Rare finish carries the gold stamp and foil the Secret Rare lacks. Second, match the price to the source and the date: a WorthRipping God Rare price is one thin read, and a PullNomics TCGplayer market price is a feed average, not a completed sale you watched. Third, buy the sealed case only with the case wrap intact, and count the boxes on arrival: twelve boxes, twenty-four packs each.",
+          "Order the case from the product page, confirm the exact total at checkout or on WhatsApp, and keep the confirmation until the case lands. For singles, use a marketplace with buyer protection, and ask for a photo of the card back showing the set code before paying. The [best Dragon Ball Masters booster box to buy guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) ranks the Masters boxes the same way, and the [FB11 best cards guide](/blog/fb11-best-cards/) runs this ranking on the newest Fusion World set."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "Six ways to spend on B30, in one view.",
+          "The case row is the only row on our shelf, $103.47 below the market box and $25.40 below MSRP per box. Twelve market boxes cost $2,661.96, and the top ten is 2.24 times that. The [Dragon Ball Fusion World booster box guide](/blog/dragon-ball-fusion-world-booster-box/) prices the other line's boxes the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (12)",
+              "$1,420.37",
+              "$118.36 a box, $4.93 a pack",
+              "Holding B30 sealed or opening the cheapest packs on the shelf",
+              "Twelve boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "PullNomics market box",
+              "$221.83",
+              "$9.24",
+              "One box at a time",
+              "$103.47 above our case box per box"
+            ],
+            [
+              "WorthRipping market box",
+              "$189.33",
+              "$7.89",
+              "One box at the lower market read",
+              "$70.97 above our case box per box; a market read, not a sale"
+            ],
+            [
+              "The single (SS4 Goku GDR)",
+              "$1,643.55",
+              "n/a",
+              "Owning the chase card",
+              "More than the whole case; the price is one thin read"
+            ],
+            [
+              "The top 10 singles",
+              "$5,964.47",
+              "n/a",
+              "Owning the ranked ten",
+              "4.20 times the case"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "Our case box sits $25.40 below it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no ranked list, no shelf, no case math",
+        "note": "From the Warehouse: the question we get most in chat about B30 is why our case box costs $118.36 when the market box is $221.83, and whether the $118.36 is a misprint. It is not a misprint. Our case is twelve boxes at a shelf price set before the set's second wave of demand, the market box is what one sealed box trades for eight months after release, and the two prices answer different questions. We also get asked whether to buy the case to pull the SS4 Son Goku God Rare. The answer is no: a card that averages one in 41.58 boxes is not a plan, it is a lottery ticket with a $1,420.37 entry fee.",
+        "paragraphs": [
+          "No ranked B30 best-cards list in dollars exists yet. The top results are card lists, not rankings: Assetra ranks by graded market cap and prices only four cards, the Collectors Lab post from October 20, 2026 prints a PriceCharting top ten from $2,000 down to $107, already over five weeks old, and TCGHamster lists all 199 cards in pounds with no ranking narrative and no price for the two God Rares at the top. None divides a sealed case, and none compares B30 with B31 and B32. The [FB10 best cards guide](/blog/fb10-best-cards/) runs the same ranking on the Fusion World set before this one.",
+          "The gap this page owns is threefold. PullNomics on November 28, 2026 is the only dated full-list TCGplayer market read, and WorthRipping on November 27, 2026 is the only live read pricing the two God Rares the TCGplayer feed leaves blank, so this page ranks all ten. The number one card has no second raw-market price, and this page says so instead of dressing one read as a settled market. No best-cards list prices sealed B30, yet the sealed price decides the buy: our case at $1,420.37 sits below every market box read and $304.75 below the MSRP case."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The God Rare trio and the three Secret Rares are $5,397.64, 90.50% of the ten. The trio alone is $4,595.80, 77.05%, and the three Secret Rares add $801.84, 13.44%. Three Special Leader Rares sit at the bottom of the ten, totalling $354.53, 5.94%: the Leader cards are the floor of the chase, not its top. The two Secret Rares at $193.19 and $192.57 sit $0.62 apart, the tightest gap in the ten. No Concept Rare cracks the ten: the highest, BT30-144, is $20.44, and the six together total $98.64, $0.40 above the tenth card alone.",
+          "The ladder has a hole in the middle: nothing in the ten sits between $416.08 and $1,400.00, a $983.92 gap, and nothing sits between $212.30 and $416.08 either. The set is a three-card top, a $416.08 tier of one, and a long tail under $213. The [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) ranks the Japanese buying routes the same way. The top gap is the narrowest: $91.30 between the $1,643.55 number one and the $1,552.25 number two, 1.06 times."
+        ]
+      },
+      {
+        "h": "The risk layer: thin God Rare prices, a box that loses money, and the reseal check",
+        "paragraphs": [
+          "Bandai publishes no pull rates for Masters, so every rate below is a WorthRipping estimate from boxes with the same pack layout, checked October 14, 2026. Special Rare: 1 in 11 packs, 2.18 per 24-pack box, 26.18 per case. Secret Rare: 1 in 144 packs, 0.17 per box, 1 in 6.00 boxes, 2.00 per case. God Rare: 1 in 998 packs, 0.02 per box, 1 in 41.58 boxes, 0.29 per case. WorthRipping rounds the God Rare to 1 in 42 boxes, and puts a typical box at $62, with 82 of 100 boxes losing money.",
+          "Three Secret Rares share the 1-in-144 slot, so one specific Secret Rare averages 432 packs, 18.00 boxes, 1.50 cases, $2,130.56 at our case price. Three God Rares share the 1-in-998 slot, so one specific God Rare averages 2,994 packs, 124.75 boxes, 10.40 cases, $14,771.85 of packs at our case price. A case holds 0.67 of one specific Secret Rare and 0.10 of one specific God Rare, so buy the single.",
+          "The price risk is the thin top. The number one card has exactly one live raw-market read, $1,643.55 on WorthRipping, and no TCGplayer market price, no UK price, and no second raw read to check it against. Assetra's graded read puts the same card at $1,175 for a PSA 10, below the raw read: a sign the raw figure is thin. The Bulma God Rare reads $1,400.00 on PullNomics and $1,301.47 on WorthRipping, $98.53 apart: even the best-checked God Rare moves 7.57% between feeds. The box risk: WorthRipping's November 27, 2026 read puts $129 of cards inside a $189.33 box after selling costs, $60.33 lost per box on average, and 82 of 100 boxes lose money. Check the seal, wrap tension, and pack order before opening, as the [best buy Dragon Ball cards Japan guide](/blog/best-buy-dragon-ball-cards-japanese/) sets out."
+        ]
+      },
+      {
+        "h": "Context: B30 in the Masters line: the 30th set, the last Energy Markers, and the B30-B32 board",
+        "paragraphs": [
+          "B30 is Dragon Ball Super Card Game Masters' 30th set, Ultra-Bout Series 03, released in English on March 27, 2026. The set holds 179 card types across 199 listings: 50 Common, 40 Uncommon, 34 Rare, 18 Super Rare, 15 Special Rare, 10 Special Leader Rare, 6 Concept Rare, 3 Secret Rare, 3 God Rare, and 20 Energy Markers. Every box holds 24 packs of 12 cards, 288 cards, plus a bonus Energy Marker. The six Concept Rares show three-character combinations with increased pull rates. B30 closes the Key Visual Energy Marker series begun with B28: ten marker types, M-45 to M-54, one bonus marker per box, with gold-stamped versions that trade on their own.",
+          "Against the set after it, B30 is the cheaper sealed buy and the worse box to open. B31, Impact Beyond Dimensions, released July 3, 2026, carries a case at $1,536.63, $128.05 a box, $9.69 above the B30 case box per box, while its market box reads $221.51 on PullNomics, $0.32 below the B30 box. WorthRipping's November 27, 2026 comparison puts $153 of cards inside the B31 box against a $152 box, 100% of its price, against $129 inside the B30 box against a $189.33 box, 68%. B32, Chromatic Ascension, released November 27, 2026, carries a case at $1,067.43, $88.95 a box on twenty packs, $29.41 below the B30 case box per box, with a market box at $168.05. B30 sits between them on sealed price and last on cards inside the box.",
+          "Masters and Fusion World are separate games, and B30 cards play in Masters only. The [Dragon Ball TCG Japan price guide](/blog/dragon-ball-tcg-japan-price/) carries the Japanese price reads, and the [best Dragon Ball Super Card Game Japanese booster box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) prices the Japanese boxes the same way."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named God Rare: the specific God Rare averages 124.75 boxes, 10.40 cases, $14,771.85 of packs at our case price, so buy the single when it trades. It is not for anyone who wants a single English box: the only English product here is the twelve-box case. It is not for anyone who pays a God Rare price for a Secret Rare without checking the finish: BT30-149, BT30-150, and BT30-151 each exist in both finishes. It is not for anyone who needs a thin God Rare price to hold."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own a God Rare, own the ten, hold B30 sealed, or open the cheapest packs on the shelf.",
+          "If the job is a God Rare, buy the single: the SS4 Son Goku God Rare is $1,643.55 on the November 27, 2026 WorthRipping read, and check the number, BT30-151, and the finish, because the Secret Rare of the same number is $416.08.",
+          "If the job is the ten, buy the English case at $1,420.37, twelve boxes at $118.36 each, and treat the God Rare as a bonus, not the plan.",
+          "If the job is one box, buy the WorthRipping market box at $189.33, not a case you cannot split, and re-divide at 24 packs before you pay.",
+          "If the job is cheap packs, compare the case pack price, $4.93, against the market box pack price, $9.24 on PullNomics, before you pay.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the number on any Bulma, because only the God Rare BT30-149 is $1,400.00."
+        ],
+        "h": "Action layer: the B30 best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order: every price here is stamped November 27 or 28, 2026, so re-divide before you pay. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "b30-best-cards",
+    "takeaway": [
+      "The B30 top ten, on WorthRipping and PullNomics market reads of November 27 and 28, 2026, totals $5,964.47, and the SS4 Son Goku God Rare is $1,643.55 of it, 27.56%. The God Rare trio is $4,595.80, 77.05%, the top five are $5,224.18, 87.59%, and the bottom three are $354.53, 5.94%. Same ranking on the newest Masters set: [B32 best cards](/blog/b32-best-cards/).",
+      "On our shelf as of November 28, 2026, there is exactly one B30 product: the English sealed case at $1,420.37, twelve boxes at $118.36 a box, $4.93 a pack, $0.41 a card, $25.40 below the MSRP box per box and $103.47 below the PullNomics market box. The number one card costs more than the whole case. Same ranking on the set after B30: [B31 best cards](/blog/b31-best-cards/).",
+      "It is worth buying as B30 sealed at a shelf price below every market box read, and it is not worth buying as a way to own one named God Rare. Same division, every case: [sealed case vs booster box math](/blog/sealed-case-vs-booster-box-the-math/).",
+      "No ranked B30 best-cards list in dollars exists yet: Assetra ranks by graded market cap, the Collectors Lab top ten is over five weeks old, and TCGHamster lists in pounds with no price for the two God Rares at the top. Same ranking on Fusion World: [FB10 best cards](/blog/fb10-best-cards/).",
+      "The value concentrates in the God Rare trio and the Secret Rares: the trio and the three Secret Rares are $5,397.64, 90.50% of the ten, the three Special Leader Rares total $354.53, 5.94%, and the six Concept Rares total $98.64. Japanese buying routes, ranked the same way: [best Dragon Ball TCG Japan](/blog/best-dragon-ball-tcg-japan/).",
+      "A specific God Rare averages 10.40 cases, $14,771.85 of packs at our case price, on the WorthRipping estimate, and the number one card has only one raw-market read. Buy the single, or buy the case to hold it sealed. Masters boxes, ranked: [best Dragon Ball Masters booster box to buy](/blog/best-dragon-ball-masters-booster-box-to-buy/).",
+      "B30 is the 30th Masters set with 179 card types, the last Energy Marker installment, and a twelve-box case that sits $116.26 below the B31 case and $352.94 above the B32 case. Japanese price reads: [Dragon Ball TCG Japan price](/blog/dragon-ball-tcg-japan-price/).",
+      "This guide is not for anyone chasing one named God Rare by opening boxes, anyone who wants a single English box, or anyone who pays a God Rare price without checking the finish, because BT30-149, BT30-150, and BT30-151 each exist in both finishes. Same ranking on the newest Fusion World set: [FB11 best cards](/blog/fb11-best-cards/).",
+      "Carry the checklist in order: the SS4 Son Goku God Rare single is $1,643.55, the case is $1,420.37 at $118.36 a box, the market box is $221.83, and the case pack at $4.93 beats the market box pack at $9.24. The other line's boxes, divided the same way: [Dragon Ball Fusion World booster box price](/blog/dragon-ball-fusion-world-booster-box-price/)."
+    ]
+  },
+  "b31-best-cards": {
+    "datePublished": "2026-11-28",
+    "faqs": [
+      {
+        "a": "The SSB Kaio-ken Vegito, True God Power, Secret Rare BT31-150, at $397.74 on the OGcards market read of November 26, 2026, for an ungraded English card. The two God Rares, the Fusion Warrior at Battle's End BT31-151 and the SS4 Vegito BT18-147, have no verifiable market price on that read, so the Kaio-ken Vegito is the most valuable card with a price today, not necessarily the most valuable card in the set. On the WorthRipping raw read of November 27, 2026, the two God Rares are $1,550.42 and $1,478.65.",
+        "q": "What is the most valuable B31 card?"
+      },
+      {
+        "a": "The English sealed case is $1,536.63, twelve boxes at $128.05 a box, $5.34 a pack, as of November 28, 2026. That is $15.71 below the $143.76 MSRP box per box, $188.49 below the $1,725.12 MSRP case, $93.46 below the $221.51 TCGplayer market box, and $94.82 below the $222.87 OGcards box. Buy the case to hold B31 sealed or to open cheap packs; buy the single to own the Kaio-ken Vegito.",
+        "q": "Is the B31 case on your shelf a good price?"
+      },
+      {
+        "a": "Bandai publishes no pull rates for Masters. WorthRipping's estimates, checked October 14, 2026 and borrowed from boxes with the same pack layout, are Special Rare 1 in 11 packs, Secret Rare 1 in 144 packs, and God Rare 1 in 998 packs. On those estimates a case holds 26.18 Special Rares, 2.00 Secret Rares, and 0.29 God Rares on average, and one specific God Rare averages 6.93 cases, $10,648.85 of packs at our case price.",
+        "q": "What are the B31 pull rates?"
+      }
+    ],
+    "h1": "B31 Impact Beyond Dimensions Best Cards: The 10 With a Price, Priced Against Our $1,536.63 Case",
+    "intro": [
+      "Short answer: the best B31 card with a price today is the SSB Kaio-ken Vegito, True God Power, Secret Rare BT31-150, at $397.74 on the OGcards market read of November 26, 2026, and the ten priced cards add to $1,843.40. Our shelf, November 28, 2026, carries the English sealed case at $1,536.63: twelve boxes at $128.05 a box, $5.34 a pack, $15.71 below the $143.76 MSRP box per box and $93.46 below the $221.51 TCGplayer market box (PullNomics read, November 28, 2026). Buy the case to hold B31 sealed or to open the cheapest packs on the shelf, buy the single to own the Kaio-ken Vegito, and do not chase either God Rare by opening boxes: both have no verifiable market price on the OGcards read.",
+      "Who this is for: collectors ranking the B31 chase five months after release, buyers weighing a twelve-box case against a $221.51 market box, and players building from the Heroes set. Who it is not for: anyone chasing one named God Rare by opening boxes; anyone who wants a single English box; and anyone who needs November prices to hold."
+    ],
+    "metaDescription": "B31's 10 priced cards on OGcards market, Nov 26, 2026: the $397.74 Kaio-ken Vegito SCR, the $255.52 Gogeta SCR, and our $1,536.63 case at $128.05 a box.",
+    "metaTitle": "B31 Impact Beyond Dimensions Best Cards: 10 Priced",
+    "readMinutes": 11,
+    "sections": [
+      {
+        "h": "The answer first: ten priced cards, two unpriced God Rares, and a case below every market box",
+        "paragraphs": [
+          "Every value below is an OGcards market price for an ungraded English card, read November 26, 2026 at 20:05 UTC and checked again November 28, 2026. SSB Kaio-ken Vegito, True God Power (Secret Rare) BT31-150 is $397.74. SS Gogeta, Hell-Piercing Flash (Secret Rare) BT31-149 is $255.52, and SS4 Son Goku and SS4 Vegeta // SS4 Gogeta, Vainglorious (Special Leader Rare) BT31-041 is $247.24. Then SS Vegito and SS3 Gotenks, Fusion Warrior at Battle's End (Secret Rare) BT31-151 at $238.99, Training in the Hyperbolic Time Chamber // Completed Training in the Hyperbolic Time Chamber (Special Leader Rare) BT31-115 at $201.66, Vegito // SSB Vegito, Ultimate Power (Special Leader Rare) BT31-085 at $115.74, Cell // Cell, Perfect Power (Special Leader Rare) BT31-116 at $115.38, Aeos // Aeos, Power of the Predecessors (Special Leader Rare) BT31-086 at $98.06, Son Goku and Vegeta // SS Gogeta, Situation Reversal Fusion (Special Leader Rare) BT31-001 at $97.68, and Launch // Launch, Transformed (Special Leader Rare) BT31-055 at $75.39. The ten add to $1,843.40.",
+          "The Kaio-ken Vegito is $397.74, 21.58% of the ten and 1.56 times the next card; the top two are $653.26, 35.44%, the top three $900.50, 48.85%, the top five $1,341.15, 72.75%. Ranks six to ten total $502.25, 27.25%, and the bottom three $271.13, 14.71%. Seven of the ten are Special Leader Rares, totalling $951.15, 51.60%, and three Secret Rares total $892.25, 48.40%. No Concept Rare, Super Rare, Common, Uncommon, or Rare cracks the ten.",
+          "The two cards that should top this list are missing on purpose: the God Rare of BT31-151 and the SS4 Vegito, A Light in the Dark, God Rare BT18-147, have no verifiable market price on the OGcards read of November 26, 2026. On the WorthRipping raw read of November 27, 2026, they are $1,550.42 and $1,478.65, and the SS4 Vegito has a graded anchor: a PSA 10 sold for $1,590 on November 16, 2026, on Assetra, one of 29 graded copies. The cross-check on the number one card shows why two feeds matter: WorthRipping prices the Kaio-ken Vegito Secret Rare at $275.98 raw, $121.76 below the OGcards $397.74. The six gold-stamped Energy Markers are priced too, $90.12 to $197.02, but they are the box topper, not set cards. The [best Dragon Ball Masters booster box to buy guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) ranks the Masters boxes the same way, and the [FB11 best cards guide](/blog/fb11-best-cards/) runs this ranking on the newest Fusion World set."
+        ]
+      },
+      {
+        "h": "The money layer: the case, divided",
+        "math": [
+          "B31 English case per box: $1,536.63 / 12 boxes = $128.05 per box",
+          "B31 English case per pack: $128.05 / 24 packs = $5.34 per pack",
+          "B31 English case per card: $1,536.63 / 3,456 cards = $0.44 per card",
+          "B31 English box at MSRP: 24 packs x $5.99 = $143.76",
+          "B31 English MSRP case: 12 x $143.76 = $1,725.12",
+          "B31 English case vs MSRP case: $1,725.12 - $1,536.63 = $188.49 below MSRP; $1,536.63 / $1,725.12 = 0.89x",
+          "B31 English case box vs MSRP box: $143.76 - $128.05 = $15.71 below MSRP per box; $128.05 / $143.76 = 0.89x",
+          "B31 English case pack vs MSRP pack: $5.99 - $5.34 = $0.65; $5.34 / $5.99 = 0.89x",
+          "B31 English case in yen: $1,536.63 x 159.54 yen = 245,153.95 yen",
+          "B31 English case box in yen: $128.05 x 159.54 yen = 20,429.10 yen",
+          "B31 WorthRipping outlier box per pack at 24 packs: $152.08 / 24 packs = $6.34 per pack",
+          "B31 WorthRipping outlier box vs case box: $152.08 - $128.05 = $24.03 per box; $128.05 / $152.08 = 0.84x",
+          "B31 twelve WorthRipping outlier boxes: 12 x $152.08 = $1,824.96; $1,824.96 - $1,536.63 = $288.33; $1,536.63 / $1,824.96 = 0.84x",
+          "B31 WorthRipping lowest listing vs case box: $153.29 - $128.05 = $25.24; $128.05 / $153.29 = 0.84x",
+          "B31 WorthRipping lowest listing per pack at 24 packs: $153.29 / 24 packs = $6.39 per pack",
+          "B31 OGcards box per pack at 24 packs: $222.87 / 24 packs = $9.29 per pack",
+          "B31 OGcards box vs case box: $222.87 - $128.05 = $94.82; $128.05 / $222.87 = 0.57x",
+          "B31 twelve OGcards boxes: 12 x $222.87 = $2,674.44; $2,674.44 - $1,536.63 = $1,137.81",
+          "B31 PullNomics market box vs case box: $221.51 - $128.05 = $93.46; $128.05 / $221.51 = 0.58x",
+          "B31 TCGplayer market box per pack at 24 packs: $221.51 / 24 packs = $9.23 per pack",
+          "B31 twelve TCGplayer market boxes: 12 x $221.51 = $2,658.12; $2,658.12 - $1,536.63 = $1,121.49; $1,536.63 / $2,658.12 = 0.58x",
+          "B31 SpreadTCG box vs case box: $220.15 - $128.05 = $92.10; $128.05 / $220.15 = 0.58x",
+          "B31 WorthRipping box fall, October 24 to November 27, 2026: $195.77 - $152.08 = $43.69; $43.69 is 22.32% of $195.77",
+          "B31 top 10 total: $397.74 + $255.52 + $247.24 + $238.99 + $201.66 + $115.74 + $115.38 + $98.06 + $97.68 + $75.39 = $1,843.40",
+          "B31 number 1 share: $397.74 / $1,843.40 = 21.58% of the top 10",
+          "B31 top 2 total: $397.74 + $255.52 = $653.26; $653.26 / $1,843.40 = 35.44% of the top 10",
+          "B31 top 3 total: $397.74 + $255.52 + $247.24 = $900.50; $900.50 / $1,843.40 = 48.85% of the top 10",
+          "B31 top 5 total: $397.74 + $255.52 + $247.24 + $238.99 + $201.66 = $1,341.15; $1,341.15 / $1,843.40 = 72.75% of the top 10",
+          "B31 ranks 6 to 10 total: $115.74 + $115.38 + $98.06 + $97.68 + $75.39 = $502.25; $502.25 / $1,843.40 = 27.25% of the top 10",
+          "B31 bottom 3 total: $98.06 + $97.68 + $75.39 = $271.13; $271.13 / $1,843.40 = 14.71% of the top 10",
+          "B31 Special Leader Rare total in the top 10: $247.24 + $201.66 + $115.74 + $115.38 + $98.06 + $97.68 + $75.39 = $951.15; $951.15 / $1,843.40 = 51.60% of the top 10",
+          "B31 Secret Rare total in the top 10: $397.74 + $255.52 + $238.99 = $892.25; $892.25 / $1,843.40 = 48.40% of the top 10",
+          "B31 number 1 vs number 2: $397.74 / $255.52 = 1.56x",
+          "B31 number 1 vs number 10: $397.74 / $75.39 = 5.28x",
+          "B31 number 1 against the case: $397.74 / $1,536.63 = 0.26x",
+          "B31 number 1 against the case box: $397.74 / $128.05 = 3.11x",
+          "B31 number 1 against the MSRP box: $397.74 / $143.76 = 2.77x",
+          "B31 top 10 against the case: $1,843.40 / $1,536.63 = 1.20x",
+          "B31 top 10 against the case box: $1,843.40 / $128.05 = 14.40x",
+          "B31 top 10 against the MSRP case: $1,843.40 / $1,725.12 = 1.07x",
+          "B31 top 10 against twelve TCGplayer market boxes: $1,843.40 / $2,658.12 = 0.69x",
+          "B31 top 10 against twelve OGcards boxes: $1,843.40 / $2,674.44 = 0.69x",
+          "B31 top 10 against the OGcards set cost: $1,843.40 / $3,634.48 = 0.51x",
+          "B31 top 10 against the KiBinder set value: $1,843.40 / $7,382.38 = 0.25x",
+          "B31 gold-stamped Energy Marker set: $197.02 + $176.76 + $151.41 + $148.14 + $140.91 + $90.12 = $904.36; $904.36 / $1,536.63 = 0.59x",
+          "B31 two God Rares on the WorthRipping raw read: $1,550.42 + $1,478.65 = $3,029.07; $3,029.07 / $1,843.40 = 1.64x",
+          "B31 God Rare 1 vs number 1: $1,550.42 / $397.74 = 3.90x",
+          "B31 God Rare 2 vs number 1: $1,478.65 / $397.74 = 3.72x",
+          "B31 SS4 Vegito God Rare PSA 10 sale vs raw: $1,590.00 - $1,478.65 = $111.35; $1,590.00 / $1,478.65 = 1.08x",
+          "B31 Special Rare per 24-pack box on the WorthRipping estimate: 24 packs / 11 packs per Special Rare = 2.18 per box",
+          "B31 Special Rare per case on the WorthRipping estimate: 288 packs / 11 packs per Special Rare = 26.18 per case",
+          "B31 Secret Rare per 24-pack box on the WorthRipping estimate: 24 packs / 144 packs per Secret Rare = 0.17 per box; 144 packs / 24 packs = 1 in 6 boxes",
+          "B31 Secret Rare per case on the WorthRipping estimate: 288 packs / 144 packs per Secret Rare = 2.00 per case",
+          "B31 God Rare per 24-pack box on the WorthRipping estimate: 24 packs / 998 packs per God Rare = 0.02 per box; 998 packs / 24 packs = 1 in 41.58 boxes",
+          "B31 God Rare per case on the WorthRipping estimate: 288 packs / 998 packs per God Rare = 0.29 per case",
+          "B31 specific Secret Rare chase on the WorthRipping estimate: 144 packs x 3 Secret Rares = 432 packs; 432 packs / 24 packs = 18.00 boxes; 18.00 boxes / 12 boxes = 1.50 cases; 1.50 cases x $1,536.63 = $2,304.95",
+          "B31 specific God Rare chase on the WorthRipping estimate: 998 packs x 2 God Rares = 1,996 packs; 1,996 packs / 24 packs = 83.17 boxes; 83.17 boxes / 12 boxes = 6.93 cases; 6.93 cases x $1,536.63 = $10,648.85",
+          "B31 specific Secret Rare per case on the WorthRipping estimate: 288 packs / 432 packs = 0.67 per case",
+          "B31 specific God Rare per case on the WorthRipping estimate: 288 packs / 1,996 packs = 0.14 per case",
+          "B31 case vs B32 case: $1,536.63 - $1,067.43 = $469.20; $1,067.43 / $1,536.63 = 0.69x",
+          "B31 case box vs B32 case box: $128.05 - $88.95 = $39.10; $88.95 / $128.05 = 0.69x",
+          "B31 case pack vs B32 case pack: $5.34 - $4.45 = $0.89; $4.45 / $5.34 = 0.83x",
+          "B31 WorthRipping box vs B32 WorthRipping box: $164.42 - $152.08 = $12.34; $152.08 / $164.42 = 0.92x",
+          "B31 top 10 vs B32 top 8: $1,843.40 / $779.00 = 2.37x",
+          "B31 number 1 vs B32 number 1: $397.74 / $240.00 = 1.66x",
+          "B31 case vs B30 case: $1,536.63 - $1,420.37 = $116.26; $1,536.63 / $1,420.37 = 1.08x",
+          "B30 case box: $1,420.37 / 12 boxes = $118.36 per box; $118.36 / 24 packs = $4.93 per pack"
+        ],
+        "paragraphs": [
+          "The case divides cleanly: twelve boxes, twenty-four packs each, twelve cards each, 288 packs and 3,456 cards. The case is $1,536.63, or $128.05 a box, $5.34 a pack, and $0.44 a card, as of November 28, 2026. Twenty-four packs at $5.99 MSRP are $143.76 a box, so the case box sits $15.71 below MSRP and the case sits $188.49 below the $1,725.12 MSRP case. At 159.54 yen to the dollar on November 27, 2026, the case is 245,153.95 yen. Our product page confirms the case count: twelve boxes, twenty-four packs a box, twelve cards a pack.",
+          "The market box reads do not agree, and the disagreement resolves once you check what each feed measures. PullNomics prices the box at $221.51 on TCGplayer market, read November 28, 2026, and OGcards at $222.87 and SpreadTCG at $220.15 on November 16, 2026 agree with it: three feeds reading TCGplayer market sales cluster at $220.15 to $222.87. WorthRipping reads $152.08 on November 27, 2026, and its own lowest listing sits at $153.29, so its figure tracks its listing feed, not TCGplayer market sales. The market box on this page is the TCGplayer market read, $221.51, so our case box is $93.46 below it per box. Twelve market boxes cost $2,658.12, $1,121.49 above our case, and twelve OGcards boxes cost $2,674.44, $1,137.81 above it. The [sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/) runs the same division on every case.",
+          "The ten priced cards total $1,843.40, 1.20 times the case and 14.40 times one case box. The set totals disagree the same way: OGcards puts one of every version at $3,634.48, ValueMyCard puts the 190-card set at $3,524.73, and KiBinder puts the live TCGplayer set value at $7,382.38. Do not average the reads: they price different slices of the set on different feeds."
+        ]
+      },
+      {
+        "h": "The practical layer: how to buy the ten without paying a God Rare price for a Secret Rare",
+        "paragraphs": [
+          "Buy in this order. First, read the number and the finish before you pay: BT31-151 exists as a Secret Rare at $238.99 and as a God Rare with no OGcards price, and BT18-147 is a God Rare reprint listed inside the B31 checklist. Second, check the finish code on the card itself, and remember the Concept Rares run BT31-143 to BT31-148, so a Concept Rare price belongs to that six-card run. Third, count the sealed product: one case is twelve boxes, one box is twenty-four packs of twelve cards plus one bonus Energy Marker, and the gold-stamped Markers read $90.12 to $197.02, so a gold-stamped Marker is real money and a plain one is $3.24 to $8.13.",
+          "Fourth, divide any box price by 24 before you compare it with our case pack at $5.34: the TCGplayer market box divides to $9.23 a pack, the OGcards box to $9.29, and the WorthRipping outlier read to $6.34. Fifth, if you buy the case, check the wrap tension and the pack order before you open anything, as the [how to tell if a booster box is resealed guide](/blog/how-to-tell-if-a-booster-box-is-resealed/) sets out. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      },
+      {
+        "h": "The decision layer: case, box, or the single, side by side",
+        "paragraphs": [
+          "The table below is the verdict in one view: six ways to spend on B31.",
+          "The case row is the only row on our shelf, $93.46 below the $221.51 TCGplayer market box and $15.71 below the MSRP box per box. Twelve market boxes cost $2,658.12 on the PullNomics read and $2,674.44 on the OGcards read. The [Dragon Ball Fusion World booster box price guide](/blog/dragon-ball-fusion-world-booster-box-price/) prices the other line's boxes the same way."
+        ],
+        "table": {
+          "head": [
+            "Option",
+            "Price",
+            "Per pack",
+            "Best for",
+            "Where it fails"
+          ],
+          "rows": [
+            [
+              "English case (12)",
+              "$1,536.63",
+              "$128.05 a box, $5.34 a pack",
+              "Holding B31 sealed or opening the cheapest packs on the shelf",
+              "Twelve boxes or nothing; no single box on the shelf"
+            ],
+            [
+              "TCGplayer market box (PullNomics)",
+              "$221.51",
+              "$9.23",
+              "One box at a time",
+              "$93.46 above our case box per box"
+            ],
+            [
+              "WorthRipping outlier box",
+              "$152.08",
+              "$6.34",
+              "One box at a time",
+              "$24.03 above our case box per box; tracks its listing feed, not TCGplayer market sales"
+            ],
+            [
+              "OGcards box",
+              "$222.87",
+              "$9.29",
+              "One box on the eBay-based read",
+              "$94.82 above our case box per box"
+            ],
+            [
+              "Lowest listing box",
+              "$153.29",
+              "$6.39",
+              "The cheapest listing, if it is still there",
+              "A listing, not a sale; check the seller before paying"
+            ],
+            [
+              "The single (Kaio-ken Vegito SCR)",
+              "$397.74",
+              "n/a",
+              "Owning the chase card",
+              "3.11 case boxes; the two God Rares have no OGcards price at all"
+            ],
+            [
+              "MSRP box",
+              "$143.76",
+              "$5.99",
+              "The launch price, for reference",
+              "Our case box sits $15.71 below it"
+            ]
+          ]
+        }
+      },
+      {
+        "h": "What the other best-cards lists miss: no ranked list, no shelf, no case math",
+        "note": "From the Warehouse: the question we get most in chat about B31 is why our case box costs $128.05 when three box feeds read near $221, and whether the $128.05 is a misprint. It is not a misprint. Our case is twelve boxes at a shelf price set when B31 was the newest set, the $221 reads are what one sealed box trades for five months after release, and the two prices answer different questions. We also get asked whether to buy the case to pull the SS4 Vegito God Rare. The answer is no: a card with no market price on our primary feed and one specific God Rare per 6.93 cases on the estimate is not a plan, it is a lottery ticket with a $1,536.63 entry fee.",
+        "paragraphs": [
+          "No ranked B31 best-cards list exists yet. The top results are card lists, not rankings: OGcards lists all 190 card listings with prices on 230 of 268 versions, KiBinder prints the checklist and a $7,382.38 set value with no per-card prices on the page, and WorthRipping prices the box and the pull rates and names three cards. None of them ranks ten cards, and none prices sealed B31.",
+          "The gap this page owns is threefold. First, the priced ten: OGcards' November 26, 2026 read is the only dated market read that prices the whole chase, and this page ranks all ten. Second, the unpriced grails: the two God Rares with no OGcards price are named here and left out, instead of being given a presale ask dressed as a market price. Third, the case: no best-cards list prices sealed B31, yet the sealed price decides the buy, and our case at $1,536.63 sits below every market box read and $188.49 below the MSRP case."
+        ]
+      },
+      {
+        "h": "The chase ladder: how the value concentrates",
+        "paragraphs": [
+          "The Kaio-ken Vegito and the $255.52 Gogeta Secret Rare are $653.26, 35.44% of the ten. Seven Special Leader Rares total $951.15, 51.60%, and three Secret Rares total $892.25, 48.40%. No Concept Rare, Super Rare, or Special Rare cracks the ten.",
+          "One correction, because the feed gets it wrong: OGcards labels BT31-149 a Concept Rare, but the card itself reads BT31-149 SCR, and Bandai counts six Concept Rares and three Secret Rares, so this page ranks the $255.52 Gogeta as the third Secret Rare. The six Concept Rares are BT31-143 to BT31-148, and the best, the SSB Gogeta at $38.36, sits at number eighteen. The best Special Rare, the Launch at $72.46, sits at number eleven. The [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) ranks the Japanese buying routes the same way."
+        ]
+      },
+      {
+        "h": "The risk layer: a slow fall, thin prices, and a God Rare nobody can price",
+        "paragraphs": [
+          "Bandai publishes no pull rates for Masters, so every rate below is a WorthRipping estimate borrowed from boxes with the same pack layout, checked October 14, 2026. Special Rare: 1 in 11 packs, 2.18 per 24-pack box, 26.18 per case. Secret Rare: 1 in 144 packs, 0.17 per box, 1 in 6 boxes, 2.00 per case. God Rare: 1 in 998 packs, 0.02 per box, 1 in 41.58 boxes, 0.29 per case.",
+          "Three Secret Rares share the 1-in-144 slot, so one specific Secret Rare averages 432 packs, 18.00 boxes, 1.50 cases, $2,304.95 of packs at our case price. Two God Rares share the 1-in-998 slot, so one specific God Rare averages 1,996 packs, 83.17 boxes, 6.93 cases, $10,648.85 of packs at our case price. A case holds 0.67 of one specific Secret Rare and 0.14 of one specific God Rare on average, so buy the single.",
+          "The price risk is the slow fall, not a crash: on the WorthRipping read the box fell $43.69, 22.32%, from $195.77 on October 24, 2026 to $152.08 on November 27, 2026, while the Dragon Ball Super market index fell 2.81% over the same seven days on Hoard. The box is a toss-up at today's prices on WorthRipping's simulation: $153 of cards inside on average after selling costs against a $152.08 box, a typical box worth $81, and 68 of 100 boxes losing money. The reseal risk: with the box reading $152.08 on the WorthRipping feed and $221.51 on the TCGplayer market read, check the seal, wrap tension, and pack order before opening, as the [best buy Dragon Ball cards Japan guide](/blog/best-buy-dragon-ball-cards-japanese/) sets out. The listing risk: SpreadTCG's November 17, 2026 report flags the gold-stamped Energy Marker BT31-EM02 at a $79.99 cheapest listing against a $140.91 near-mint market price, so a listing far below the market read is a condition check, not a bargain. The [where to buy Dragon Ball TCG Japan guide](/blog/where-to-buy-dragon-ball-tcg-japan/) ranks the buying routes."
+        ]
+      },
+      {
+        "h": "Context: B31 in the Masters line: Heroes arrive, the box stays 24 packs, B32 shrinks it",
+        "paragraphs": [
+          "B31 is Dragon Ball Super Card Game Masters' fourth Ultra-Bout set, released in English on July 3, 2026. The set holds 178 card types: 50 Common, 40 Uncommon, 34 Rare, 18 Super Rare, 6 Concept Rare, 15 Special Rare, 10 Special Leader Rare, 3 Secret Rare, and 2 God Rare. Every box holds 24 packs of 12 cards, 288 cards, plus one bonus Energy Marker. The set brings Super Dragon Ball Heroes characters into Masters for the first time, led by Aeos and the Warrior in Black.",
+          "On our shelf the Masters board runs B20 to B32. B31's case at $1,536.63 is $469.20 above the B32 case at $1,067.43 and $116.26 above the B30 case at $1,420.37, but on the WorthRipping read the B31 box at $152.08 is $12.34 below the B32 box at $164.42. The difference is the box: B32 holds 20 packs, B31 holds 24, so a B31 box holds 48 more cards and the B31 case holds 576 more cards than the B32 case. The B31 top ten at $1,843.40 is 2.37 times the B32 top eight at $779. The [B32 best cards guide](/blog/b32-best-cards/) runs this ranking on the set after this one.",
+          "Masters and Fusion World are separate games, and neokyo's October 31, 2026 guide could find no official statement that cards from both can be used in the same match, so do not buy a Fusion World box expecting Masters cards. The newest Fusion World set, FB11 Brightness of Hope, holds 123 card types against B31's 178, and its English packs retail at $4.99 against B31's $5.99. Our shelf is English stock; Japanese-language Masters product is a separate line, so check the language on the box before you pay. The [Dragon Ball TCG Japan price guide](/blog/dragon-ball-tcg-japan-price/) carries the Japanese price reads."
+        ]
+      },
+      {
+        "h": "Who this guide is NOT for",
+        "paragraphs": [
+          "This guide is not for anyone chasing one named God Rare: the specific God Rare averages 6.93 cases, $10,648.85 of packs at our case price, so buy the single when it trades. It is not for anyone who wants a single English box, because the only English product here is the twelve-box case. It is not for anyone who pays a God Rare price for a Secret Rare without checking the finish, or anyone who needs November prices to hold."
+        ]
+      },
+      {
+        "checklist": [
+          "Decide the job first: own the Kaio-ken Vegito, own the ten, hold B31 sealed, or open the cheapest packs on the shelf.",
+          "If the job is the Kaio-ken Vegito, buy the single: $397.74 Secret Rare on the November 26, 2026 OGcards market read, and check the number, BT31-150, and the finish, because the God Rare of BT31-151 is a different card at a different price.",
+          "If the job is the ten, buy the English case at $1,536.63, twelve boxes at $128.05 each, and treat the God Rare as a bonus, not the plan.",
+          "If the job is one box, buy the TCGplayer market box at $221.51, not a case you cannot split, and re-divide at 24 packs before you pay.",
+          "If the job is cheap packs, compare the case pack price, $5.34, against the market box pack price, $9.23, before you pay.",
+          "Check the wrap and seams before you pay, check the printing before you pay a chase price, and read the number on any Fusion Warrior, because BT31-151 exists as a $238.99 Secret Rare and as a God Rare with no OGcards price."
+        ],
+        "h": "Action layer: the B31 best-cards checklist",
+        "paragraphs": [
+          "Carry this list in order: every price here is stamped November 28, 2026, so re-divide before you pay. The [best Dragon Ball Super Card Game Japanese booster box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) prices the Japanese boxes the same way. Exact shipping is confirmed at checkout or on WhatsApp."
+        ]
+      }
+    ],
+    "slug": "b31-best-cards",
+    "takeaway": [
+      "The B31 top ten, on OGcards market prices read November 26, 2026, totals $1,843.40, and the Kaio-ken Vegito is $397.74 of it, 21.58%. The top two are $653.26, 35.44%, the top five are $1,341.15, 72.75%, and the bottom three are $271.13, 14.71%. [The B32 best cards guide](/blog/b32-best-cards/)",
+      "On our shelf as of November 28, 2026, there is exactly one B31 product: the English sealed case at $1,536.63, twelve boxes at $128.05 a box, $5.34 a pack, $0.44 a card, $15.71 below the MSRP box per box and $93.46 below the $221.51 TCGplayer market box. The Kaio-ken Vegito is 3.11 case boxes and the ten are 1.20 times the case. [The sealed case vs booster box math guide](/blog/sealed-case-vs-booster-box-the-math/)",
+      "It is worth buying as B31 sealed at a shelf price below every market box read, and it is not worth buying as a way to own one named God Rare, which is the same verdict the set before it earned. [The B30 best cards guide](/blog/b30-best-cards/)",
+      "No ranked B31 best-cards list exists yet: OGcards lists the cards with prices on 230 of 268 versions, WorthRipping prices the box and the pull rates but names only three cards, and KiBinder prints the checklist with no per-card prices on the page. [The FB10 best cards guide](/blog/fb10-best-cards/)",
+      "The value concentrates in the Kaio-ken Vegito and the Leader alt arts: the top three are $900.50, 48.85% of the ten, the seven Special Leader Rares total $951.15, 51.60%, and the three Secret Rares total $892.25, 48.40%. [The best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/)",
+      "On the WorthRipping read the box fell $43.69, 22.32%, in a month, from $195.77 on October 24, 2026 to $152.08 on November 27, 2026, and a specific God Rare averages 6.93 cases, $10,648.85 of packs at our case price, on the WorthRipping estimate. Buy the single, or buy the case to hold it sealed. [The Dragon Ball TCG Japan price guide](/blog/dragon-ball-tcg-japan-price/)",
+      "B31 is the fourth Ultra-Bout set with 178 card types, Super Dragon Ball Heroes characters in Masters for the first time, and a twelve-box case that sits $469.20 above the B32 case and $116.26 above the B30 case. [The FB11 best cards guide](/blog/fb11-best-cards/)",
+      "This guide is not for anyone chasing one named God Rare by opening boxes, anyone who wants a single English box, or anyone who pays a God Rare price without checking the finish, because BT31-151 exists in both finishes. [The best Dragon Ball Masters booster box to buy guide](/blog/best-dragon-ball-masters-booster-box-to-buy/)",
+      "Carry the checklist in order: the Kaio-ken Vegito single is $397.74, the case is $1,536.63 at $128.05 a box, the market box is $221.51, and the case pack at $5.34 beats the market box pack at $9.23. [The how to tell if a booster box is resealed guide](/blog/how-to-tell-if-a-booster-box-is-resealed/)"
+    ]
+  },
   "b32-best-cards": {
     "datePublished": "2026-11-27",
     "faqs": [
@@ -419,7 +899,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The presale box fell $362.87, 68.82%, in nine days, from $527.29 on November 18, 2026 to $164.42 on release day, and a specific God Rare averages 12.48 cases, $13,321.53 of packs at our case price, on the WorthRipping estimate. Buy the single, or buy the case to hold it sealed.",
       "B32 is the ninth-anniversary set with 185 card types, multicolor Leaders back, and a twelve-box case that is the second-cheapest on our thirteen-case Masters board at $1,067.43, 4.47% of the $23,863.20 board. The [Dragon Ball TCG Japan price guide](/blog/dragon-ball-tcg-japan-price/) carries the Japanese price reads.",
       "This guide is not for anyone chasing one named God Rare by opening boxes, anyone who wants a single English box, or anyone who pays a God Rare price without checking the finish, because BT32-154, BT32-155, and BT32-156 each exist in both finishes.",
-      "Carry the checklist in order: the Gohan single is $240, the case is $1,067.43 at $88.95 a box, the market box is $164.42, and the case pack at $4.45 beats the market box pack at $8.22. The [best Dragon Ball Masters booster box to buy guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) ranks the Masters boxes."
+      "Carry the checklist in order: the Gohan single is $240, the case is $1,067.43 at $88.95 a box, the market box is $164.42, and the case pack at $4.45 beats the market box pack at $8.22. The [best Dragon Ball Masters booster box to buy guide](/blog/best-dragon-ball-masters-booster-box-to-buy/) ranks the Masters boxes.",
+      "The set before this one: the [B31 best cards guide](/blog/b31-best-cards/) ranks the ten priced cards of Impact Beyond Dimensions, topped by the $397.74 Kaio-ken Vegito, against our $1,536.63 case."
     ]
   },
   "best-akihabara-card-shop": {
@@ -4115,10 +4596,11 @@ export const POSTS: Record<string, BlogPost> = {
       "The best Dragon Ball Masters booster box is a case-split box, because that is the only way this shelf sells them. A player on a budget takes B25 at $102.92 a box and $4.29 a pack. A player who wants the newest set takes B32 at $104.65 a box and $4.36 a pack. A group splits any case from B25 to B32 except B27 and pays the case-split price each. B27 at $776.25 a box is for collectors only. Divide by 12, then by 24, and let the arithmetic choose.",
       "Prices move, so treat every number here as stamped: Warehouse prices as of November 3, 2026. When the next Masters set arrives, divide the case first, check the game second, and ask whether you are buying a case, a split, or a loose box, because that one fact changes what the price buys.",
       "Still deciding between the two Dragon Ball games? The [Fusion World beginners guide](/blog/dragon-ball-fusion-world-beginners-guide/) is the other game's starting point, and [which TCG should you start](/blog/which-tcg-should-you-start/) compares Dragon Ball against the other games on this store. If the case is for a shelf rather than a table, [how to store sealed booster boxes](/blog/how-to-store-sealed-booster-boxes/) covers keeping it safe.",
-      "New this cycle: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) explains why there is no Japanese Masters box on this shelf and prices the Fusion World Japanese boxes beside these English cases.",
+      "Companion guide: the [best way to buy Japanese Dragon Ball cards](/blog/best-buy-dragon-ball-cards-japanese/) explains why there is no Japanese Masters box on this shelf and prices the Fusion World Japanese boxes beside these English cases.",
       "For the Japanese question in depth, the [best Dragon Ball Super Card Game Japanese box guide](/blog/best-dragon-ball-super-card-game-japanese-booster-box/) answers it honestly: Masters has no Japanese version, Fusion World does, and the cases divide to $102.93 a box.",
-      "New this cycle: the [best Dragon Ball TCG from Japan guide](/blog/best-dragon-ball-tcg-japan/) puts the Masters case ladder beside Fusion World and Manga Booster on one shelf, and names B25 the cheapest English case at $1,235.10.",
-      "The newest Masters set is B32 Chromatic Ascension, released November 27, 2026: the [B32 best cards guide](/blog/b32-best-cards/) ranks the eight cards with a market price, topped by the $240 Gohan, against our $1,067.43 case."
+      "Companion guide: the [best Dragon Ball TCG from Japan guide](/blog/best-dragon-ball-tcg-japan/) puts the Masters case ladder beside Fusion World and Manga Booster on one shelf, and names B25 the cheapest English case at $1,235.10.",
+      "The newest Masters set is B32 Chromatic Ascension, released November 27, 2026: the [B32 best cards guide](/blog/b32-best-cards/) ranks the eight cards with a market price, topped by the $240 Gohan, against our $1,067.43 case.",
+      "The set before B32: the [B31 best cards guide](/blog/b31-best-cards/) ranks the ten priced cards of Impact Beyond Dimensions, topped by the $397.74 Kaio-ken Vegito, against our $1,536.63 case."
     ]
   },
   "best-dragon-ball-super-card-game-japanese-booster-box": {
@@ -29109,7 +29591,8 @@ export const POSTS: Record<string, BlogPost> = {
       "For the set before this one, the [FB08 best cards guide](/blog/fb08-best-cards/) ranks the ten best Saiyan's Pride cards, top ten $705.70, with the Broly Alternate Art at $104.79, and the [FB07 best cards guide](/blog/fb07-best-cards/) ranks the set before that one.",
       "For the same method on a different game, the [SV1V best cards guide](/blog/sv1v-best-cards/) ranks the ten best Violet ex cards, top ten $237.45, with the Miriam SAR at $77.75, and the same case math beside them.",
       "For the language split, the [FB11 Japanese versus English guide](/blog/fb11-japanese-vs-english-which-to-buy/) prices the same shelf case against the Japanese box, with the Japanese box at $47.14 to $87.92 on the market and no digital code card in either language.",
-      "Masters, not Fusion World: the [B32 Chromatic Ascension best cards guide](/blog/b32-best-cards/) ranks the eight priced cards of the November 27, 2026 set, topped by the $240 Gohan, against our $1,067.43 case."
+      "Masters, not Fusion World: the [B32 Chromatic Ascension best cards guide](/blog/b32-best-cards/) ranks the eight priced cards of the November 27, 2026 set, topped by the $240 Gohan, against our $1,067.43 case.",
+      "The Masters set before B31: the [B30 best cards guide](/blog/b30-best-cards/) ranks the ten priced cards of Three Glorious Fighters, topped by the $1,643.55 SS4 Son Goku God Rare, against our $1,420.37 case."
     ]
   },
   "fb11-japanese-vs-english-which-to-buy": {
@@ -91577,7 +92060,8 @@ export const POSTS: Record<string, BlogPost> = {
       "The proxy route costs more than the shelf: a list-price box through Buyee is $44.03 before international shipping, $18.01 more than FB08, and the Japan Figure FB12 pre-order at $182.92 is 4.89 times the Japanese list price.",
       "Divide before paying: the [Dragon Ball TCG Japan price index](/blog/dragon-ball-tcg-japan-price/) divides every product on the shelf, the [best Dragon Ball TCG Japan guide](/blog/best-dragon-ball-tcg-japan/) picks the buy, and this guide prices every channel against them.",
       "For the Fusion World version of this question, the [where to buy Dragon Ball Fusion World Japanese guide](/blog/where-to-buy-dragon-ball-fusion-world-japanese/) prices the five Japanese listings as titled, FB08 at $22.12 to FB09 at $54.50, and runs the Buyee proxy stack for a sealed Japanese box at list, $37.13 to $45.58 before international shipping.",
-      "For the newest Dragon Ball set, the [B32 Chromatic Ascension best cards guide](/blog/b32-best-cards/) prices the eight cards with a market read against our $1,067.43 case at $88.95 a box."
+      "For the newest Dragon Ball set, the [B32 Chromatic Ascension best cards guide](/blog/b32-best-cards/) prices the eight cards with a market read against our $1,067.43 case at $88.95 a box.",
+      "For the Masters set before that, the [B30 best cards guide](/blog/b30-best-cards/) ranks the ten priced cards of Three Glorious Fighters, topped by the $1,643.55 SS4 Son Goku God Rare, against our $1,420.37 case."
     ]
   },
   "where-to-buy-japanese-booster-box": {
